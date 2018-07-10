@@ -1,0 +1,310 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Utah Valley,Chicago State,0,0,0,17,0,Foul on Zach Jones
+Utah Valley,Chicago State,0,1,0,17,1,Jeremy Robinson made Free Throw.
+Utah Valley,Chicago State,0,1,0,17,0,Jeremy Robinson missed Free Throw.
+Utah Valley,Chicago State,0,1,0,17,0,Keawe Enos Defensive Rebound.
+Utah Valley,Chicago State,0,1,0,34,0,Nick Thompson missed Jumper.
+Utah Valley,Chicago State,0,1,0,34,0,Chicago State Defensive Rebound.
+Utah Valley,Chicago State,0,1,0,50,0,Quinton Pippen missed Three Point Jumper.
+Utah Valley,Chicago State,0,1,0,50,0,Keawe Enos Defensive Rebound.
+Utah Valley,Chicago State,3,1,1,3,1,Nick Thompson made Three Point Jumper.  Assisted by Holton Hunsaker.
+Utah Valley,Chicago State,3,3,1,18,1,Jamere Dismukes made Jumper.
+Utah Valley,Chicago State,3,3,1,51,0,Jason Johnson missed Three Point Jumper.
+Utah Valley,Chicago State,3,3,1,51,0,Nick Thompson Offensive Rebound.
+Utah Valley,Chicago State,5,3,1,57,1,Zach Jones made Jumper.  Assisted by Nick Thompson.
+Utah Valley,Chicago State,5,3,2,18,0,Jamere Dismukes missed Jumper.
+Utah Valley,Chicago State,5,3,2,18,0,Zach Jones Defensive Rebound.
+Utah Valley,Chicago State,5,3,2,34,0,Jason Johnson Turnover.
+Utah Valley,Chicago State,5,3,2,40,0,Matt Ross Steal.
+Utah Valley,Chicago State,5,5,2,43,1,Quinton Pippen made Layup.  Assisted by Jeremy Robinson.
+Utah Valley,Chicago State,5,5,2,46,0,Foul on Quinton Pippen
+Utah Valley,Chicago State,5,5,2,54,0,Holton Hunsaker missed Three Point Jumper.
+Utah Valley,Chicago State,5,5,2,54,0,Quinton Pippen Defensive Rebound.
+Utah Valley,Chicago State,5,5,3,5,0,Jamere Dismukes missed Jumper.
+Utah Valley,Chicago State,5,5,3,5,0,Zach Jones Defensive Rebound.
+Utah Valley,Chicago State,5,5,3,15,0,Jason Johnson Turnover.
+Utah Valley,Chicago State,5,5,3,43,0,Foul on Zach Jones
+Utah Valley,Chicago State,5,6,3,43,1,Jamere Dismukes made Free Throw.
+Utah Valley,Chicago State,5,7,3,43,1,Jamere Dismukes made Free Throw.
+Utah Valley,Chicago State,5,7,3,48,0,Nick Thompson missed Jumper.
+Utah Valley,Chicago State,5,7,3,48,0,Jeremy Robinson Defensive Rebound.
+Utah Valley,Chicago State,5,7,4,8,0,Jeremy Robinson missed Jumper.
+Utah Valley,Chicago State,5,7,4,8,0,Jason Johnson Defensive Rebound.
+Utah Valley,Chicago State,5,7,4,34,0,Keawe Enos missed Jumper.
+Utah Valley,Chicago State,5,7,4,34,0,Matt Ross Defensive Rebound.
+Utah Valley,Chicago State,5,7,4,51,0,Matt Ross missed Three Point Jumper.
+Utah Valley,Chicago State,5,7,4,51,0,Jason Johnson Defensive Rebound.
+Utah Valley,Chicago State,5,7,5,0,0,Jason Johnson missed Jumper.
+Utah Valley,Chicago State,5,7,5,0,0,Matt Ross Block.
+Utah Valley,Chicago State,5,7,5,0,0,Jason Johnson Offensive Rebound.
+Utah Valley,Chicago State,5,7,5,0,0,Official TV Timeout.
+Utah Valley,Chicago State,5,7,5,0,0,Utah Valley Full Timeout.
+Utah Valley,Chicago State,7,7,5,2,1,Jason Johnson made Layup.
+Utah Valley,Chicago State,7,7,5,21,0,Jeremy Robinson missed Jumper.
+Utah Valley,Chicago State,7,7,5,21,0,Chicago State Offensive Rebound.
+Utah Valley,Chicago State,7,7,5,34,0,Nate Duhon missed Jumper.
+Utah Valley,Chicago State,7,7,5,34,0,Utah Valley Defensive Rebound.
+Utah Valley,Chicago State,9,7,6,2,1,Holton Hunsaker made Jumper.
+Utah Valley,Chicago State,9,7,6,24,0,Jeremy Robinson missed Layup.
+Utah Valley,Chicago State,9,7,6,24,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,9,7,6,34,0,Jason Johnson missed Jumper.
+Utah Valley,Chicago State,9,7,6,34,0,Jeremy Robinson Block.
+Utah Valley,Chicago State,9,7,6,34,0,Holton Hunsaker Offensive Rebound.
+Utah Valley,Chicago State,9,7,6,36,0,Holton Hunsaker missed Jumper.
+Utah Valley,Chicago State,9,7,6,36,0,Matt Ross Defensive Rebound.
+Utah Valley,Chicago State,9,7,6,45,0,Jeremy Robinson missed Layup.
+Utah Valley,Chicago State,9,7,6,45,0,Antoine Hosley Defensive Rebound.
+Utah Valley,Chicago State,9,7,6,52,0,Antoine Hosley missed Layup.
+Utah Valley,Chicago State,9,7,6,52,0,Matt Ross Block.
+Utah Valley,Chicago State,9,7,6,52,0,Utah Valley Offensive Rebound.
+Utah Valley,Chicago State,9,7,7,12,0,Antoine Hosley missed Three Point Jumper.
+Utah Valley,Chicago State,9,7,7,12,0,null
+Utah Valley,Chicago State,9,7,7,14,0,Foul on Will Sinclair
+Utah Valley,Chicago State,9,10,7,26,1,Clarke Rosenberg made Three Point Jumper.  Assisted by Jamere Dismukes.
+Utah Valley,Chicago State,9,10,7,34,0,Nick Thompson Turnover.
+Utah Valley,Chicago State,9,10,7,37,0,Jamere Dismukes Steal.
+Utah Valley,Chicago State,9,10,7,39,0,Clarke Rosenberg missed Jumper.
+Utah Valley,Chicago State,9,10,7,39,0,Markus Starks Offensive Rebound.
+Utah Valley,Chicago State,9,10,7,50,0,Jamere Dismukes missed Three Point Jumper.
+Utah Valley,Chicago State,9,10,7,50,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,12,10,8,1,1,Nick Thompson made Three Point Jumper.
+Utah Valley,Chicago State,12,10,8,21,0,Markus Starks Turnover.
+Utah Valley,Chicago State,12,10,8,21,0,Official TV Timeout.
+Utah Valley,Chicago State,12,10,8,35,0,Antoine Hosley Turnover.
+Utah Valley,Chicago State,12,10,8,36,0,Clarke Rosenberg Steal.
+Utah Valley,Chicago State,12,10,8,46,0,Aaron Williams missed Jumper.
+Utah Valley,Chicago State,12,10,8,46,0,Taylor Brown Defensive Rebound.
+Utah Valley,Chicago State,12,10,8,59,0,Jason Johnson missed Three Point Jumper.
+Utah Valley,Chicago State,12,10,8,59,0,Quinton Pippen Defensive Rebound.
+Utah Valley,Chicago State,12,10,9,30,0,Corey Gray missed Three Point Jumper.
+Utah Valley,Chicago State,12,10,9,30,0,Taylor Brown Defensive Rebound.
+Utah Valley,Chicago State,12,10,9,37,0,Holton Hunsaker missed Jumper.
+Utah Valley,Chicago State,12,10,9,37,0,Will Sinclair Offensive Rebound.
+Utah Valley,Chicago State,12,10,9,40,0,Will Sinclair Turnover.
+Utah Valley,Chicago State,12,10,9,40,0,Aaron Williams Steal.
+Utah Valley,Chicago State,12,13,9,54,1,Corey Gray made Three Point Jumper.  Assisted by Quinton Pippen.
+Utah Valley,Chicago State,14,13,10,7,1,Nick Thompson made Layup.
+Utah Valley,Chicago State,14,13,10,32,0,Aaron Williams missed Jumper.
+Utah Valley,Chicago State,14,13,10,32,0,Quinton Pippen Offensive Rebound.
+Utah Valley,Chicago State,14,15,10,43,1,Corey Gray made Jumper.
+Utah Valley,Chicago State,14,15,10,43,0,Foul on Taylor Brown
+Utah Valley,Chicago State,14,16,10,43,1,Corey Gray made Free Throw.
+Utah Valley,Chicago State,14,16,10,58,0,Antoine Hosley missed Jumper.
+Utah Valley,Chicago State,14,16,10,58,0,Quinton Pippen Defensive Rebound.
+Utah Valley,Chicago State,14,16,11,5,0,Quinton Pippen missed Three Point Jumper.
+Utah Valley,Chicago State,14,16,11,5,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,14,16,11,26,0,Foul on Aaron Williams
+Utah Valley,Chicago State,16,16,11,28,1,Keawe Enos made Layup.  Assisted by Nick Thompson.
+Utah Valley,Chicago State,16,16,11,53,0,Jamere Dismukes Turnover.
+Utah Valley,Chicago State,16,16,11,56,0,Antoine Hosley Steal.
+Utah Valley,Chicago State,16,16,11,58,0,Keawe Enos missed Jumper.
+Utah Valley,Chicago State,16,16,11,58,0,Quinton Pippen Defensive Rebound.
+Utah Valley,Chicago State,16,16,12,12,0,Jeremy Robinson missed Jumper.
+Utah Valley,Chicago State,16,16,12,12,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,18,16,12,23,1,Nick Thompson made Jumper.
+Utah Valley,Chicago State,18,16,12,55,0,Jamere Dismukes missed Three Point Jumper.
+Utah Valley,Chicago State,18,16,12,55,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,20,16,13,13,1,Nick Thompson made Layup.  Assisted by Antoine Hosley.
+Utah Valley,Chicago State,20,16,13,37,0,Markus Starks missed Jumper.
+Utah Valley,Chicago State,20,16,13,37,0,Chicago State Offensive Rebound.
+Utah Valley,Chicago State,20,16,13,40,0,Official TV Timeout.
+Utah Valley,Chicago State,20,16,13,59,0,Matt Ross missed Layup.
+Utah Valley,Chicago State,20,16,13,59,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,20,16,14,1,0,Foul on Matt Ross
+Utah Valley,Chicago State,23,16,14,6,1,Keawe Enos made Three Point Jumper.  Assisted by Antoine Hosley.
+Utah Valley,Chicago State,23,19,14,28,1,Matt Ross made Three Point Jumper.  Assisted by Jamere Dismukes.
+Utah Valley,Chicago State,23,19,14,43,0,Antoine Hosley Turnover.
+Utah Valley,Chicago State,23,19,14,46,0,Jamere Dismukes Steal.
+Utah Valley,Chicago State,23,19,14,46,0,Foul on Antoine Hosley
+Utah Valley,Chicago State,23,19,15,2,0,Jeremy Robinson Turnover.
+Utah Valley,Chicago State,23,19,15,25,0,Foul on Matt Ross
+Utah Valley,Chicago State,23,19,15,27,0,Antoine Hosley Turnover.
+Utah Valley,Chicago State,23,19,15,28,0,Jamere Dismukes Steal.
+Utah Valley,Chicago State,23,21,15,30,1,Jamere Dismukes made Layup.
+Utah Valley,Chicago State,23,21,15,45,0,Keawe Enos missed Three Point Jumper.
+Utah Valley,Chicago State,23,21,15,45,0,Matt Ross Defensive Rebound.
+Utah Valley,Chicago State,23,23,15,55,1,Nate Duhon made Jumper.  Assisted by Jamere Dismukes.
+Utah Valley,Chicago State,23,23,15,57,0,Utah Valley Full Timeout.
+Utah Valley,Chicago State,23,23,16,26,0,Taylor Brown Turnover.
+Utah Valley,Chicago State,23,23,16,26,0,Official TV Timeout.
+Utah Valley,Chicago State,23,23,16,51,0,Foul on Taylor Brown
+Utah Valley,Chicago State,23,25,17,15,1,Nate Duhon made Jumper.  Assisted by Jamere Dismukes.
+Utah Valley,Chicago State,23,25,17,31,0,Holton Hunsaker Turnover.
+Utah Valley,Chicago State,23,25,17,34,0,Nate Duhon Steal.
+Utah Valley,Chicago State,23,27,17,35,1,Nate Duhon made Layup.
+Utah Valley,Chicago State,23,27,17,35,0,Utah Valley Full Timeout.
+Utah Valley,Chicago State,25,27,17,57,1,Jason Johnson made Layup.  Assisted by Holton Hunsaker.
+Utah Valley,Chicago State,25,27,18,15,0,Foul on Jason Johnson
+Utah Valley,Chicago State,25,28,18,15,1,Quinton Pippen made Free Throw.
+Utah Valley,Chicago State,25,29,18,15,1,Quinton Pippen made Free Throw.
+Utah Valley,Chicago State,25,29,18,24,0,Foul on Mashawn Chamberlain
+Utah Valley,Chicago State,25,29,18,24,0,Antoine Hosley missed Free Throw.
+Utah Valley,Chicago State,25,29,18,24,0,null
+Utah Valley,Chicago State,25,29,18,24,0,Antoine Hosley missed Free Throw.
+Utah Valley,Chicago State,25,29,18,24,0,Quinton Pippen Defensive Rebound.
+Utah Valley,Chicago State,25,31,18,53,1,Quinton Pippen made Jumper.
+Utah Valley,Chicago State,25,31,19,3,0,Antoine Hosley missed Three Point Jumper.
+Utah Valley,Chicago State,25,31,19,3,0,Jamere Dismukes Defensive Rebound.
+Utah Valley,Chicago State,25,33,19,35,1,Jamere Dismukes made Layup.
+Utah Valley,Chicago State,25,33,19,52,0,Holton Hunsaker Turnover.
+Utah Valley,Chicago State,25,33,19,53,0,Clarke Rosenberg Steal.
+Utah Valley,Chicago State,25,35,19,56,1,Markus Starks made Layup.  Assisted by Jamere Dismukes.
+Utah Valley,Chicago State,25,35,20,0,0,End of the 1st Half.
+Utah Valley,Chicago State,25,35,20,10,0,Jamere Dismukes missed Three Point Jumper.
+Utah Valley,Chicago State,25,35,20,10,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,28,35,20,38,1,Holton Hunsaker made Three Point Jumper.
+Utah Valley,Chicago State,28,35,21,3,0,Nate Duhon missed Jumper.
+Utah Valley,Chicago State,28,35,21,3,0,Jason Johnson Defensive Rebound.
+Utah Valley,Chicago State,28,35,21,5,0,Foul on Jeremy Robinson
+Utah Valley,Chicago State,30,35,21,15,1,Nick Thompson made Jumper.
+Utah Valley,Chicago State,30,38,21,29,1,Matt Ross made Three Point Jumper.  Assisted by Jamere Dismukes.
+Utah Valley,Chicago State,30,38,21,40,0,Holton Hunsaker missed Three Point Jumper.
+Utah Valley,Chicago State,30,38,21,40,0,Jeremy Robinson Defensive Rebound.
+Utah Valley,Chicago State,30,38,21,49,0,Quinton Pippen missed Three Point Jumper.
+Utah Valley,Chicago State,30,38,21,49,0,Quinton Pippen Offensive Rebound.
+Utah Valley,Chicago State,30,38,22,10,0,Jeremy Robinson missed Jumper.
+Utah Valley,Chicago State,30,38,22,10,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,30,38,22,32,0,Jason Johnson Turnover.
+Utah Valley,Chicago State,30,38,22,52,0,Quinton Pippen missed Three Point Jumper.
+Utah Valley,Chicago State,30,38,22,52,0,Jeremy Robinson Offensive Rebound.
+Utah Valley,Chicago State,30,38,22,57,0,Jamere Dismukes missed Three Point Jumper.
+Utah Valley,Chicago State,30,38,22,57,0,Zach Jones Defensive Rebound.
+Utah Valley,Chicago State,30,38,23,4,0,Foul on Jeremy Robinson
+Utah Valley,Chicago State,30,38,23,11,0,Holton Hunsaker missed Jumper.
+Utah Valley,Chicago State,30,38,23,11,0,Quinton Pippen Defensive Rebound.
+Utah Valley,Chicago State,30,40,23,35,1,Nate Duhon made Layup.  Assisted by Jamere Dismukes.
+Utah Valley,Chicago State,30,40,23,55,0,Holton Hunsaker missed Jumper.
+Utah Valley,Chicago State,30,40,23,55,0,Quinton Pippen Defensive Rebound.
+Utah Valley,Chicago State,30,40,24,11,0,Nate Duhon missed Three Point Jumper.
+Utah Valley,Chicago State,30,40,24,11,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,30,40,24,23,0,Nick Thompson missed Layup.
+Utah Valley,Chicago State,30,40,24,23,0,Nick Thompson Offensive Rebound.
+Utah Valley,Chicago State,30,40,24,34,0,Official TV Timeout.
+Utah Valley,Chicago State,32,40,24,44,1,Jason Johnson made Jumper.  Assisted by Will Sinclair.
+Utah Valley,Chicago State,32,42,24,57,1,Jeremy Robinson made Layup.
+Utah Valley,Chicago State,32,42,25,3,0,Will Sinclair Turnover.
+Utah Valley,Chicago State,32,42,25,3,0,Jamere Dismukes Steal.
+Utah Valley,Chicago State,32,42,25,6,0,Foul on Quinton Pippen
+Utah Valley,Chicago State,32,42,25,6,0,Quinton Pippen Turnover.
+Utah Valley,Chicago State,32,42,25,18,0,Antoine Hosley Turnover.
+Utah Valley,Chicago State,32,42,25,19,0,Jeremy Robinson Steal.
+Utah Valley,Chicago State,32,42,25,22,0,Foul on Keawe Enos
+Utah Valley,Chicago State,32,43,25,22,1,Jeremy Robinson made Free Throw.
+Utah Valley,Chicago State,32,44,25,22,1,Jeremy Robinson made Free Throw.
+Utah Valley,Chicago State,32,44,25,32,0,Taylor Brown missed Three Point Jumper.
+Utah Valley,Chicago State,32,44,25,32,0,Jeremy Robinson Defensive Rebound.
+Utah Valley,Chicago State,32,46,25,47,1,Corey Gray made Layup.  Assisted by Matt Ross.
+Utah Valley,Chicago State,35,46,26,11,1,Antoine Hosley made Three Point Jumper.  Assisted by Jason Johnson.
+Utah Valley,Chicago State,35,46,26,34,0,Corey Gray missed Three Point Jumper.
+Utah Valley,Chicago State,35,46,26,34,0,Jeremy Robinson Offensive Rebound.
+Utah Valley,Chicago State,35,46,26,38,0,Foul on Jason Johnson
+Utah Valley,Chicago State,35,46,26,47,0,Jeremy Robinson missed Free Throw.
+Utah Valley,Chicago State,35,46,26,47,0,null
+Utah Valley,Chicago State,35,46,26,48,0,Jeremy Robinson missed Free Throw.
+Utah Valley,Chicago State,35,46,26,48,0,Holton Hunsaker Defensive Rebound.
+Utah Valley,Chicago State,35,46,27,13,0,Zach Jones missed Jumper.
+Utah Valley,Chicago State,35,46,27,13,0,null
+Utah Valley,Chicago State,35,46,27,15,0,Foul on Jeremy Robinson
+Utah Valley,Chicago State,35,46,27,28,0,Holton Hunsaker missed Three Point Jumper.
+Utah Valley,Chicago State,35,46,27,28,0,Quinton Pippen Defensive Rebound.
+Utah Valley,Chicago State,35,49,27,49,1,Matt Ross made Three Point Jumper.  Assisted by Corey Gray.
+Utah Valley,Chicago State,37,49,28,10,1,Jason Johnson made Layup.
+Utah Valley,Chicago State,37,52,28,27,1,Matt Ross made Three Point Jumper.  Assisted by Clarke Rosenberg.
+Utah Valley,Chicago State,37,52,28,47,0,Antoine Hosley missed Jumper.
+Utah Valley,Chicago State,37,52,28,47,0,Clarke Rosenberg Defensive Rebound.
+Utah Valley,Chicago State,37,52,28,49,0,Foul on Antoine Hosley
+Utah Valley,Chicago State,37,52,28,49,0,Official TV Timeout.
+Utah Valley,Chicago State,37,52,29,2,0,Jamere Dismukes Turnover.
+Utah Valley,Chicago State,37,52,29,2,0,Jason Johnson Steal.
+Utah Valley,Chicago State,37,52,29,13,0,Jason Johnson missed Jumper.
+Utah Valley,Chicago State,37,52,29,13,0,Jason Johnson Offensive Rebound.
+Utah Valley,Chicago State,39,52,29,16,1,Jason Johnson made Layup.
+Utah Valley,Chicago State,39,52,29,46,0,Foul on Zach Jones
+Utah Valley,Chicago State,39,54,29,48,1,Markus Starks made Layup.
+Utah Valley,Chicago State,39,54,30,13,0,Jason Johnson missed Three Point Jumper.
+Utah Valley,Chicago State,39,54,30,13,0,Markus Starks Defensive Rebound.
+Utah Valley,Chicago State,39,54,30,23,0,Foul on Matt Ross
+Utah Valley,Chicago State,39,54,30,23,0,Matt Ross Turnover.
+Utah Valley,Chicago State,39,54,30,37,0,Holton Hunsaker missed Jumper.
+Utah Valley,Chicago State,39,54,30,37,0,Clarke Rosenberg Defensive Rebound.
+Utah Valley,Chicago State,39,54,30,48,0,Matt Ross missed Three Point Jumper.
+Utah Valley,Chicago State,39,54,30,48,0,Holton Hunsaker Defensive Rebound.
+Utah Valley,Chicago State,39,54,31,4,0,Foul on Markus Starks
+Utah Valley,Chicago State,39,54,31,4,0,Jason Johnson missed Free Throw.
+Utah Valley,Chicago State,39,54,31,4,0,null
+Utah Valley,Chicago State,39,54,31,4,0,Jason Johnson missed Free Throw.
+Utah Valley,Chicago State,39,54,31,4,0,Nick Thompson Offensive Rebound.
+Utah Valley,Chicago State,39,54,31,10,0,Antoine Hosley missed Three Point Jumper.
+Utah Valley,Chicago State,39,54,31,10,0,Corey Gray Defensive Rebound.
+Utah Valley,Chicago State,39,56,31,32,1,Jamere Dismukes made Jumper.
+Utah Valley,Chicago State,39,56,31,47,0,Foul on Markus Starks
+Utah Valley,Chicago State,40,56,31,47,1,Jason Johnson made Free Throw.
+Utah Valley,Chicago State,40,56,31,47,0,Jason Johnson missed Free Throw.
+Utah Valley,Chicago State,40,56,31,47,0,Clarke Rosenberg Defensive Rebound.
+Utah Valley,Chicago State,40,56,32,0,0,Foul on Jeremy Robinson
+Utah Valley,Chicago State,40,56,32,0,0,Jeremy Robinson Turnover.
+Utah Valley,Chicago State,40,56,32,1,0,Official TV Timeout.
+Utah Valley,Chicago State,40,56,32,24,0,Antoine Hosley Turnover.
+Utah Valley,Chicago State,40,58,32,41,1,Clarke Rosenberg made Layup.
+Utah Valley,Chicago State,40,58,33,9,0,Jason Johnson missed Three Point Jumper.
+Utah Valley,Chicago State,40,58,33,9,0,Jeremy Robinson Defensive Rebound.
+Utah Valley,Chicago State,40,58,33,23,0,Chicago State Full Timeout.
+Utah Valley,Chicago State,40,58,33,30,0,Clarke Rosenberg missed Three Point Jumper.
+Utah Valley,Chicago State,40,58,33,30,0,Utah Valley Defensive Rebound.
+Utah Valley,Chicago State,40,58,33,47,0,Jason Johnson missed Three Point Jumper.
+Utah Valley,Chicago State,40,58,33,47,0,Markus Starks Defensive Rebound.
+Utah Valley,Chicago State,40,58,34,1,0,Quinton Pippen missed Three Point Jumper.
+Utah Valley,Chicago State,40,58,34,1,0,Antoine Hosley Defensive Rebound.
+Utah Valley,Chicago State,40,58,34,20,0,Zach Jones missed Jumper.
+Utah Valley,Chicago State,40,58,34,20,0,Jeremy Robinson Defensive Rebound.
+Utah Valley,Chicago State,40,58,34,49,0,Clarke Rosenberg Turnover.
+Utah Valley,Chicago State,42,58,35,0,1,Zach Jones made Layup.
+Utah Valley,Chicago State,42,58,35,0,0,Foul on Markus Starks
+Utah Valley,Chicago State,42,58,35,0,0,Zach Jones missed Free Throw.
+Utah Valley,Chicago State,42,58,35,0,0,Matt Ross Defensive Rebound.
+Utah Valley,Chicago State,42,58,35,14,0,Corey Gray Turnover.
+Utah Valley,Chicago State,42,58,35,15,0,Holton Hunsaker Steal.
+Utah Valley,Chicago State,44,58,35,19,1,Antoine Hosley made Jumper.
+Utah Valley,Chicago State,44,58,35,52,0,Foul on Jeremy Robinson
+Utah Valley,Chicago State,44,58,35,52,0,Jeremy Robinson Turnover.
+Utah Valley,Chicago State,44,58,36,12,0,Official TV Timeout.
+Utah Valley,Chicago State,44,58,36,16,0,Antoine Hosley Turnover.
+Utah Valley,Chicago State,44,58,36,46,0,Jamere Dismukes missed Jumper.
+Utah Valley,Chicago State,44,58,36,46,0,Zach Jones Defensive Rebound.
+Utah Valley,Chicago State,47,58,37,0,1,Antoine Hosley made Three Point Jumper.  Assisted by Holton Hunsaker.
+Utah Valley,Chicago State,47,58,37,19,0,Quinton Pippen missed Jumper.
+Utah Valley,Chicago State,47,58,37,19,0,Nick Thompson Defensive Rebound.
+Utah Valley,Chicago State,47,58,37,37,0,Taylor Brown missed Three Point Jumper.
+Utah Valley,Chicago State,47,58,37,41,0,Utah Valley Offensive Rebound.
+Utah Valley,Chicago State,49,58,37,47,1,Nick Thompson made Jumper.
+Utah Valley,Chicago State,49,60,38,3,1,Nate Duhon made Jumper.
+Utah Valley,Chicago State,49,60,38,22,0,Utah Valley Full Timeout.
+Utah Valley,Chicago State,49,60,38,28,0,Foul on Markus Starks
+Utah Valley,Chicago State,50,60,38,28,1,Holton Hunsaker made Free Throw.
+Utah Valley,Chicago State,51,60,38,28,1,Holton Hunsaker made Free Throw.
+Utah Valley,Chicago State,51,60,38,34,0,Nate Duhon Turnover.
+Utah Valley,Chicago State,51,60,38,34,0,Foul on Nate Duhon
+Utah Valley,Chicago State,51,60,38,38,0,Taylor Brown Turnover.
+Utah Valley,Chicago State,51,60,38,39,0,Nate Duhon Steal.
+Utah Valley,Chicago State,51,60,38,41,0,Foul on Taylor Brown
+Utah Valley,Chicago State,51,60,38,41,0,Nate Duhon missed Free Throw.
+Utah Valley,Chicago State,51,60,38,41,0,null
+Utah Valley,Chicago State,51,61,38,41,1,Nate Duhon made Free Throw.
+Utah Valley,Chicago State,51,61,38,53,0,Foul on Markus Starks
+Utah Valley,Chicago State,51,61,38,53,0,Zach Jones missed Free Throw.
+Utah Valley,Chicago State,51,61,38,53,0,null
+Utah Valley,Chicago State,52,61,38,53,1,Zach Jones made Free Throw.
+Utah Valley,Chicago State,52,61,38,53,0,Clarke Rosenberg Turnover.
+Utah Valley,Chicago State,52,61,38,53,0,Utah Valley Full Timeout.
+Utah Valley,Chicago State,52,61,39,8,0,Nick Thompson missed Jumper.
+Utah Valley,Chicago State,52,61,39,8,0,Holton Hunsaker Offensive Rebound.
+Utah Valley,Chicago State,52,61,39,18,0,Foul on Quinton Pippen
+Utah Valley,Chicago State,53,61,39,18,1,Holton Hunsaker made Free Throw.
+Utah Valley,Chicago State,54,61,39,18,1,Holton Hunsaker made Free Throw.
+Utah Valley,Chicago State,54,61,39,40,0,Foul on Holton Hunsaker
+Utah Valley,Chicago State,54,61,39,40,0,Foul on Zach Jones
+Utah Valley,Chicago State,54,62,39,40,1,Mashawn Chamberlain made Free Throw.
+Utah Valley,Chicago State,54,62,39,40,0,Mashawn Chamberlain missed Free Throw.
+Utah Valley,Chicago State,54,62,39,40,0,Taylor Brown Defensive Rebound.
+Utah Valley,Chicago State,54,62,39,48,0,Holton Hunsaker Turnover.
+Utah Valley,Chicago State,54,62,40,0,0,End Game

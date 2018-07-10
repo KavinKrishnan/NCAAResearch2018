@@ -1,0 +1,330 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Princeton,Harvard,0,0,0,0,0,Jump Ball won by Harvard
+Princeton,Harvard,0,0,0,22,0,Zena Edosomwan missed Jumper.
+Princeton,Harvard,0,0,0,22,0,Evan Cummins Offensive Rebound.
+Princeton,Harvard,0,2,0,32,1,Evan Cummins made Jumper.
+Princeton,Harvard,0,2,0,43,0,Pete Miller missed Jumper.
+Princeton,Harvard,0,2,0,43,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,0,2,1,3,0,Zena Edosomwan missed Jumper.
+Princeton,Harvard,0,2,1,3,0,Henry Caruso Defensive Rebound.
+Princeton,Harvard,0,2,1,16,0,Foul on Evan Cummins.
+Princeton,Harvard,0,2,1,18,0,Henry Caruso missed Three Point Jumper.
+Princeton,Harvard,0,2,1,18,0,Corey Johnson Defensive Rebound.
+Princeton,Harvard,0,2,1,24,0,Corey Johnson missed Jumper.
+Princeton,Harvard,0,2,1,24,0,Henry Caruso Defensive Rebound.
+Princeton,Harvard,2,2,1,51,1,Amir Bell made Jumper.
+Princeton,Harvard,2,2,2,18,0,Corey Johnson missed Jumper.
+Princeton,Harvard,2,2,2,18,0,Steven Cook Block.
+Princeton,Harvard,2,2,2,18,0,Harvard Offensive Rebound.
+Princeton,Harvard,2,4,2,27,1,Agunwa Okolie made Layup. Assisted by Corbin Miller.
+Princeton,Harvard,4,4,2,50,1,Henry Caruso made Layup.
+Princeton,Harvard,4,4,3,11,0,Evan Cummins missed Jumper.
+Princeton,Harvard,4,4,3,11,0,Agunwa Okolie Offensive Rebound.
+Princeton,Harvard,4,6,3,11,1,Agunwa Okolie made Two Point Tip Shot.
+Princeton,Harvard,4,6,3,53,0,Steven Cook missed Three Point Jumper.
+Princeton,Harvard,4,6,3,53,0,Evan Cummins Block.
+Princeton,Harvard,4,6,3,53,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,4,8,3,56,1,Evan Cummins made Jumper. Assisted by Corbin Miller.
+Princeton,Harvard,4,8,4,19,0,Spencer Weisz Turnover.
+Princeton,Harvard,4,8,4,19,0,Foul on Spencer Weisz.
+Princeton,Harvard,4,8,4,19,0,Official TV Timeout
+Princeton,Harvard,4,8,4,35,0,Evan Cummins Turnover.
+Princeton,Harvard,4,8,4,35,0,Henry Caruso Steal.
+Princeton,Harvard,7,8,4,45,1,Spencer Weisz made Three Point Jumper. Assisted by Amir Bell.
+Princeton,Harvard,7,10,4,56,1,Evan Cummins made Layup. Assisted by Corbin Miller.
+Princeton,Harvard,7,10,5,28,0,Devin Cannady missed Jumper.
+Princeton,Harvard,7,10,5,28,0,Corbin Miller Defensive Rebound.
+Princeton,Harvard,7,10,5,38,0,Foul on Alec Brennan.
+Princeton,Harvard,7,12,5,50,1,Zena Edosomwan made Jumper. Assisted by Patrick Steeves.
+Princeton,Harvard,9,12,6,14,1,Henry Caruso made Layup.
+Princeton,Harvard,9,14,6,36,1,Agunwa Okolie made Jumper.
+Princeton,Harvard,9,14,7,7,0,Devin Cannady missed Three Point Jumper.
+Princeton,Harvard,9,14,7,7,0,Alec Brennan Offensive Rebound.
+Princeton,Harvard,12,14,7,15,1,Spencer Weisz made Three Point Jumper. Assisted by Devin Cannady.
+Princeton,Harvard,12,14,7,15,0,Harvard  Timeout
+Princeton,Harvard,12,14,7,32,0,Zena Edosomwan missed Jumper.
+Princeton,Harvard,12,14,7,32,0,Zena Edosomwan Offensive Rebound.
+Princeton,Harvard,12,14,7,37,0,Zena Edosomwan missed Dunk.
+Princeton,Harvard,12,14,7,37,0,Princeton Defensive Rebound.
+Princeton,Harvard,12,14,7,49,0,Foul on Zena Edosomwan.
+Princeton,Harvard,12,14,7,58,0,Myles Stephens missed Jumper.
+Princeton,Harvard,12,14,7,58,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,12,14,8,10,0,Foul on Pete Miller.
+Princeton,Harvard,12,14,8,10,0,Official TV Timeout
+Princeton,Harvard,12,16,8,25,1,Zena Edosomwan made Layup. Assisted by Corbin Miller.
+Princeton,Harvard,12,16,8,25,0,Foul on Alec Brennan.
+Princeton,Harvard,12,17,8,25,1,Zena Edosomwan made Free Throw.
+Princeton,Harvard,15,17,8,33,1,Devin Cannady made Three Point Jumper. Assisted by Pete Miller.
+Princeton,Harvard,15,17,8,50,0,Weisner Perez missed Layup.
+Princeton,Harvard,15,17,8,50,0,Pete Miller Block.
+Princeton,Harvard,15,17,8,50,0,Zena Edosomwan Offensive Rebound.
+Princeton,Harvard,15,17,8,50,0,Zena Edosomwan missed Two Point Tip Shot.
+Princeton,Harvard,15,17,8,50,0,Princeton Defensive Rebound.
+Princeton,Harvard,15,17,8,53,0,Foul on Weisner Perez.
+Princeton,Harvard,15,17,9,5,0,Foul on Amir Bell.
+Princeton,Harvard,15,17,9,5,0,Amir Bell Turnover.
+Princeton,Harvard,15,19,9,13,1,Evan Cummins made Layup. Assisted by Patrick Steeves.
+Princeton,Harvard,15,19,9,25,0,Henry Caruso missed Three Point Jumper.
+Princeton,Harvard,15,19,9,25,0,Spencer Weisz Offensive Rebound.
+Princeton,Harvard,17,19,9,36,1,Henry Caruso made Dunk. Assisted by Spencer Weisz.
+Princeton,Harvard,17,21,9,55,1,Corbin Miller made Jumper.
+Princeton,Harvard,17,21,10,15,0,Foul on Evan Cummins.
+Princeton,Harvard,17,21,10,15,0,Steven Cook missed Free Throw.
+Princeton,Harvard,17,21,10,15,0,Princeton Deadball Team Rebound.
+Princeton,Harvard,18,21,10,15,1,Steven Cook made Free Throw.
+Princeton,Harvard,18,21,10,27,0,Patrick Steeves missed Three Point Jumper.
+Princeton,Harvard,18,21,10,27,0,Evan Cummins Offensive Rebound.
+Princeton,Harvard,18,21,10,31,0,Evan Cummins Turnover.
+Princeton,Harvard,18,21,10,31,0,Myles Stephens Steal.
+Princeton,Harvard,18,21,10,42,0,Foul on Patrick Steeves.
+Princeton,Harvard,18,21,10,47,0,Spencer Weisz missed Three Point Jumper.
+Princeton,Harvard,18,21,10,47,0,Evan Cummins Defensive Rebound.
+Princeton,Harvard,18,23,11,5,1,Tommy McCarthy made Layup.
+Princeton,Harvard,20,23,11,27,1,Devin Cannady made Layup.
+Princeton,Harvard,20,25,11,39,1,Agunwa Okolie made Layup. Assisted by Tommy McCarthy.
+Princeton,Harvard,20,25,11,55,0,Foul on Corbin Miller.
+Princeton,Harvard,20,25,12,3,0,Spencer Weisz Turnover.
+Princeton,Harvard,20,25,12,3,0,Official TV Timeout
+Princeton,Harvard,20,27,12,22,1,Zena Edosomwan made Jumper.
+Princeton,Harvard,20,27,12,40,0,Steven Cook missed Three Point Jumper.
+Princeton,Harvard,20,27,12,40,0,Pete Miller Offensive Rebound.
+Princeton,Harvard,20,27,12,56,0,Steven Cook missed Jumper.
+Princeton,Harvard,20,27,12,56,0,Corey Johnson Defensive Rebound.
+Princeton,Harvard,20,27,13,4,0,Tommy McCarthy Turnover.
+Princeton,Harvard,20,27,13,18,0,Foul on Agunwa Okolie.
+Princeton,Harvard,21,27,13,18,1,Amir Bell made Free Throw.
+Princeton,Harvard,22,27,13,18,1,Amir Bell made Free Throw.
+Princeton,Harvard,22,27,13,32,0,Agunwa Okolie missed Layup.
+Princeton,Harvard,22,27,13,32,0,Agunwa Okolie Offensive Rebound.
+Princeton,Harvard,22,29,13,32,1,Agunwa Okolie made Two Point Tip Shot.
+Princeton,Harvard,22,29,13,54,0,Foul on Tommy McCarthy.
+Princeton,Harvard,23,29,13,54,1,Amir Bell made Free Throw.
+Princeton,Harvard,24,29,13,54,1,Amir Bell made Free Throw.
+Princeton,Harvard,24,31,14,15,1,Patrick Steeves made Dunk.
+Princeton,Harvard,24,31,14,39,0,Foul on Corey Johnson.
+Princeton,Harvard,24,31,14,39,0,Henry Caruso missed Free Throw.
+Princeton,Harvard,24,31,14,39,0,Princeton Deadball Team Rebound.
+Princeton,Harvard,25,31,14,39,1,Henry Caruso made Free Throw.
+Princeton,Harvard,25,31,14,52,0,Zena Edosomwan missed Layup.
+Princeton,Harvard,25,31,14,52,0,Henry Caruso Defensive Rebound.
+Princeton,Harvard,25,31,15,11,0,Myles Stephens missed Jumper.
+Princeton,Harvard,25,31,15,11,0,Pete Miller Offensive Rebound.
+Princeton,Harvard,27,31,15,19,1,Pete Miller made Layup.
+Princeton,Harvard,27,31,15,32,0,Corey Johnson missed Jumper.
+Princeton,Harvard,27,31,15,32,0,Steven Cook Block.
+Princeton,Harvard,27,31,15,32,0,Steven Cook Defensive Rebound.
+Princeton,Harvard,29,31,15,43,1,Pete Miller made Layup.
+Princeton,Harvard,29,31,15,46,0,Harvard  Timeout
+Princeton,Harvard,29,31,15,46,0,Official TV Timeout
+Princeton,Harvard,29,31,15,56,0,Foul on Steven Cook.
+Princeton,Harvard,29,34,16,8,1,Corbin Miller made Three Point Jumper. Assisted by Zena Edosomwan.
+Princeton,Harvard,29,34,16,8,0,Pete Miller missed Layup.
+Princeton,Harvard,29,34,16,8,0,Zena Edosomwan Block.
+Princeton,Harvard,29,34,16,8,0,Patrick Steeves Defensive Rebound.
+Princeton,Harvard,29,36,16,37,1,Patrick Steeves made Layup.
+Princeton,Harvard,29,36,16,37,0,Foul on Pete Miller.
+Princeton,Harvard,29,37,16,37,1,Patrick Steeves made Free Throw.
+Princeton,Harvard,29,37,16,52,0,Foul on Zena Edosomwan.
+Princeton,Harvard,30,37,16,52,1,Myles Stephens made Free Throw.
+Princeton,Harvard,31,37,16,52,1,Myles Stephens made Free Throw.
+Princeton,Harvard,31,37,17,5,0,Foul on Agunwa Okolie.
+Princeton,Harvard,31,37,17,5,0,Agunwa Okolie Turnover.
+Princeton,Harvard,31,37,17,31,0,Jump Ball won by Princeton
+Princeton,Harvard,31,37,17,36,0,Princeton  Turnover.
+Princeton,Harvard,31,37,18,0,0,Agunwa Okolie Turnover.
+Princeton,Harvard,31,37,18,0,0,Myles Stephens Steal.
+Princeton,Harvard,31,37,18,5,0,Amir Bell Turnover.
+Princeton,Harvard,31,37,18,5,0,Tommy McCarthy Steal.
+Princeton,Harvard,31,37,18,14,0,Foul on Amir Bell.
+Princeton,Harvard,31,37,18,14,0,Tommy McCarthy missed Free Throw.
+Princeton,Harvard,31,37,18,14,0,Harvard Deadball Team Rebound.
+Princeton,Harvard,31,38,18,14,1,Tommy McCarthy made Free Throw.
+Princeton,Harvard,33,38,18,24,1,Henry Caruso made Layup.
+Princeton,Harvard,33,38,18,29,0,Princeton  Timeout
+Princeton,Harvard,33,38,18,45,0,Patrick Steeves missed Layup.
+Princeton,Harvard,33,38,18,45,0,Spencer Weisz Defensive Rebound.
+Princeton,Harvard,33,38,18,53,0,Foul on Devin Cannady.
+Princeton,Harvard,33,38,18,53,0,Devin Cannady Turnover.
+Princeton,Harvard,33,40,19,5,1,Tommy McCarthy made Layup.
+Princeton,Harvard,33,40,19,28,0,Foul on Tommy McCarthy.
+Princeton,Harvard,34,40,19,28,1,Henry Caruso made Free Throw.
+Princeton,Harvard,35,40,19,28,1,Henry Caruso made Free Throw.
+Princeton,Harvard,35,43,19,54,1,Patrick Steeves made Three Point Jumper. Assisted by Tommy McCarthy.
+Princeton,Harvard,35,43,20,0,0,End of 1st half
+Princeton,Harvard,35,43,20,0,0,Jump Ball won by Harvard
+Princeton,Harvard,35,45,20,13,1,Zena Edosomwan made Layup. Assisted by Agunwa Okolie.
+Princeton,Harvard,35,45,20,29,0,Foul on Evan Cummins.
+Princeton,Harvard,35,45,20,31,0,Spencer Weisz missed Three Point Jumper.
+Princeton,Harvard,35,45,20,31,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,35,45,20,58,0,Foul on Steven Cook.
+Princeton,Harvard,35,45,21,6,0,Corey Johnson missed Jumper.
+Princeton,Harvard,35,45,21,6,0,Pete Miller Defensive Rebound.
+Princeton,Harvard,38,45,21,14,1,Steven Cook made Three Point Jumper. Assisted by Spencer Weisz.
+Princeton,Harvard,38,45,21,32,0,Evan Cummins Turnover.
+Princeton,Harvard,38,45,21,32,0,Pete Miller Steal.
+Princeton,Harvard,38,45,21,42,0,Foul on Corey Johnson.
+Princeton,Harvard,38,45,21,44,0,Henry Caruso missed Three Point Jumper.
+Princeton,Harvard,38,45,21,44,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,38,45,21,47,0,Foul on Alec Brennan.
+Princeton,Harvard,38,45,22,7,0,Zena Edosomwan missed Jumper.
+Princeton,Harvard,38,45,22,7,0,Alec Brennan Defensive Rebound.
+Princeton,Harvard,41,45,22,17,1,Amir Bell made Three Point Jumper. Assisted by Henry Caruso.
+Princeton,Harvard,41,45,22,36,0,Evan Cummins Turnover.
+Princeton,Harvard,41,45,22,36,0,Steven Cook Steal.
+Princeton,Harvard,43,45,22,41,1,Steven Cook made Layup.
+Princeton,Harvard,43,45,22,53,0,Corbin Miller Turnover.
+Princeton,Harvard,43,45,22,53,0,Amir Bell Steal.
+Princeton,Harvard,43,45,22,57,0,Foul on Agunwa Okolie.
+Princeton,Harvard,43,45,23,7,0,Foul on Tommy McCarthy.
+Princeton,Harvard,44,45,23,7,1,Devin Cannady made Free Throw.
+Princeton,Harvard,44,45,23,7,0,Devin Cannady missed Free Throw.
+Princeton,Harvard,44,45,23,7,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,44,45,23,26,0,Zena Edosomwan missed Layup.
+Princeton,Harvard,44,45,23,26,0,Alec Brennan Block.
+Princeton,Harvard,44,45,23,26,0,Princeton Defensive Rebound.
+Princeton,Harvard,44,45,23,40,0,Devin Cannady Turnover.
+Princeton,Harvard,44,45,23,40,0,Tommy McCarthy Steal.
+Princeton,Harvard,44,45,23,50,0,Tommy McCarthy missed Layup.
+Princeton,Harvard,44,45,23,50,0,Pete Miller Defensive Rebound.
+Princeton,Harvard,44,45,24,11,0,Myles Stephens missed Layup.
+Princeton,Harvard,44,45,24,11,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,44,45,24,38,0,Agunwa Okolie missed Layup.
+Princeton,Harvard,44,45,24,38,0,Devin Cannady Defensive Rebound.
+Princeton,Harvard,44,45,24,45,0,Spencer Weisz missed Layup.
+Princeton,Harvard,44,45,24,45,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,44,45,25,6,0,Corbin Miller missed Jumper.
+Princeton,Harvard,44,45,25,6,0,Myles Stephens Defensive Rebound.
+Princeton,Harvard,46,45,25,16,1,Henry Caruso made Layup. Assisted by Devin Cannady.
+Princeton,Harvard,46,45,25,16,0,Official TV Timeout
+Princeton,Harvard,46,45,25,28,0,Patrick Steeves Turnover.
+Princeton,Harvard,46,45,25,32,0,Steven Cook missed Three Point Jumper.
+Princeton,Harvard,46,45,25,32,0,Evan Cummins Defensive Rebound.
+Princeton,Harvard,46,45,25,55,0,Weisner Perez missed Layup.
+Princeton,Harvard,46,45,25,55,0,Evan Cummins Offensive Rebound.
+Princeton,Harvard,46,45,26,15,0,Foul on Myles Stephens.
+Princeton,Harvard,46,45,26,32,0,Evan Cummins Turnover.
+Princeton,Harvard,46,45,26,41,0,Pete Miller missed Layup.
+Princeton,Harvard,46,45,26,41,0,Pete Miller Offensive Rebound.
+Princeton,Harvard,46,45,26,46,0,Pete Miller missed Layup.
+Princeton,Harvard,46,45,26,46,0,Patrick Steeves Block.
+Princeton,Harvard,46,45,26,46,0,Patrick Steeves Defensive Rebound.
+Princeton,Harvard,46,47,26,52,1,Patrick Steeves made Layup.
+Princeton,Harvard,46,47,26,52,0,Foul on Henry Caruso.
+Princeton,Harvard,46,48,26,52,1,Patrick Steeves made Free Throw.
+Princeton,Harvard,46,48,26,59,0,Foul on Patrick Steeves.
+Princeton,Harvard,47,48,26,59,1,Steven Cook made Free Throw.
+Princeton,Harvard,48,48,26,59,1,Steven Cook made Free Throw.
+Princeton,Harvard,48,48,27,14,0,Tommy McCarthy Turnover.
+Princeton,Harvard,48,48,27,14,0,Henry Caruso Steal.
+Princeton,Harvard,48,48,27,22,0,Henry Caruso missed Jumper.
+Princeton,Harvard,48,48,27,22,0,Evan Cummins Block.
+Princeton,Harvard,48,48,27,22,0,Steven Cook Offensive Rebound.
+Princeton,Harvard,48,48,27,42,0,Devin Cannady Turnover.
+Princeton,Harvard,48,48,27,42,0,Agunwa Okolie Steal.
+Princeton,Harvard,48,50,28,3,1,Patrick Steeves made Jumper.
+Princeton,Harvard,48,50,28,26,0,Alec Brennan missed Three Point Jumper.
+Princeton,Harvard,48,50,28,26,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,48,50,28,52,0,Foul on Alec Brennan.
+Princeton,Harvard,48,50,28,52,0,Official TV Timeout
+Princeton,Harvard,48,50,28,57,0,Agunwa Okolie Turnover.
+Princeton,Harvard,48,50,28,57,0,Spencer Weisz Steal.
+Princeton,Harvard,48,50,29,9,0,Myles Stephens missed Three Point Jumper.
+Princeton,Harvard,48,50,29,9,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,48,52,29,29,1,Patrick Steeves made Layup.
+Princeton,Harvard,48,52,29,58,0,Foul on Zena Edosomwan.
+Princeton,Harvard,48,52,29,58,0,Spencer Weisz missed Free Throw.
+Princeton,Harvard,48,52,29,58,0,Princeton Deadball Team Rebound.
+Princeton,Harvard,49,52,29,58,1,Spencer Weisz made Free Throw.
+Princeton,Harvard,49,54,30,17,1,Patrick Steeves made Jumper.
+Princeton,Harvard,49,54,30,46,0,Foul on Devin Cannady.
+Princeton,Harvard,49,54,30,46,0,Devin Cannady Turnover.
+Princeton,Harvard,49,56,31,5,1,Zena Edosomwan made Jumper.
+Princeton,Harvard,49,56,31,20,0,Foul on Corey Johnson.
+Princeton,Harvard,49,56,31,20,0,Amir Bell missed Free Throw.
+Princeton,Harvard,49,56,31,20,0,Zena Edosomwan Defensive Rebound.
+Princeton,Harvard,49,56,31,40,0,Patrick Steeves missed Three Point Jumper.
+Princeton,Harvard,49,56,31,40,0,Amir Bell Defensive Rebound.
+Princeton,Harvard,52,56,31,49,1,Amir Bell made Three Point Jumper. Assisted by Steven Cook.
+Princeton,Harvard,52,56,32,4,0,Princeton  Timeout
+Princeton,Harvard,52,56,32,5,0,Official TV Timeout
+Princeton,Harvard,52,56,32,24,0,Foul on Myles Stephens.
+Princeton,Harvard,52,57,32,24,1,Zena Edosomwan made Free Throw.
+Princeton,Harvard,52,57,32,24,0,Zena Edosomwan missed Free Throw.
+Princeton,Harvard,52,57,32,24,0,Spencer Weisz Defensive Rebound.
+Princeton,Harvard,54,57,32,34,1,Steven Cook made Layup.
+Princeton,Harvard,54,57,32,34,0,Foul on Patrick Steeves.
+Princeton,Harvard,55,57,32,34,1,Steven Cook made Free Throw.
+Princeton,Harvard,55,60,32,53,1,Patrick Steeves made Three Point Jumper. Assisted by Corbin Miller.
+Princeton,Harvard,57,60,33,5,1,Amir Bell made Jumper.
+Princeton,Harvard,57,62,33,27,1,Tommy McCarthy made Jumper.
+Princeton,Harvard,59,62,33,41,1,Steven Cook made Layup.
+Princeton,Harvard,59,62,33,50,0,Tommy McCarthy Turnover.
+Princeton,Harvard,59,62,33,50,0,Khyan Rayner Steal.
+Princeton,Harvard,59,62,33,53,0,Foul on Tommy McCarthy.
+Princeton,Harvard,60,62,33,53,1,Khyan Rayner made Free Throw.
+Princeton,Harvard,61,62,33,53,1,Khyan Rayner made Free Throw.
+Princeton,Harvard,61,65,34,12,1,Patrick Steeves made Three Point Jumper. Assisted by Agunwa Okolie.
+Princeton,Harvard,61,65,34,34,0,Devin Cannady missed Three Point Jumper.
+Princeton,Harvard,61,65,34,34,0,Agunwa Okolie Defensive Rebound.
+Princeton,Harvard,61,65,35,0,0,Corbin Miller missed Three Point Jumper.
+Princeton,Harvard,61,65,35,0,0,Myles Stephens Defensive Rebound.
+Princeton,Harvard,61,65,35,12,0,Foul on Tommy McCarthy.
+Princeton,Harvard,61,65,35,12,0,Amir Bell missed Free Throw.
+Princeton,Harvard,61,65,35,12,0,Princeton Deadball Team Rebound.
+Princeton,Harvard,61,65,35,12,0,Amir Bell missed Free Throw.
+Princeton,Harvard,61,65,35,12,0,Henry Caruso Offensive Rebound.
+Princeton,Harvard,61,65,35,15,0,Henry Caruso missed Jumper.
+Princeton,Harvard,61,65,35,15,0,Zena Edosomwan Block.
+Princeton,Harvard,61,65,35,15,0,Amir Bell Offensive Rebound.
+Princeton,Harvard,61,65,35,19,0,Amir Bell missed Jumper.
+Princeton,Harvard,61,65,35,19,0,Myles Stephens Offensive Rebound.
+Princeton,Harvard,61,65,35,19,0,Foul on Evan Cummins.
+Princeton,Harvard,62,65,35,19,1,Myles Stephens made Free Throw.
+Princeton,Harvard,62,65,35,19,0,Myles Stephens missed Free Throw.
+Princeton,Harvard,62,65,35,19,0,Agunwa Okolie Defensive Rebound.
+Princeton,Harvard,62,65,35,21,0,Foul on Henry Caruso.
+Princeton,Harvard,62,65,35,21,0,Agunwa Okolie missed Free Throw.
+Princeton,Harvard,62,65,35,21,0,Amir Bell Defensive Rebound.
+Princeton,Harvard,62,65,35,38,0,Foul on Steven Cook.
+Princeton,Harvard,62,65,35,38,0,Steven Cook Turnover.
+Princeton,Harvard,62,65,35,54,0,Patrick Steeves missed Three Point Jumper.
+Princeton,Harvard,62,65,35,54,0,Steven Cook Block.
+Princeton,Harvard,62,65,35,54,0,Henry Caruso Defensive Rebound.
+Princeton,Harvard,62,65,36,4,0,Steven Cook missed Three Point Jumper.
+Princeton,Harvard,62,65,36,4,0,Agunwa Okolie Defensive Rebound.
+Princeton,Harvard,62,65,36,29,0,Foul on Spencer Weisz.
+Princeton,Harvard,62,65,36,29,0,Official TV Timeout
+Princeton,Harvard,62,66,36,29,1,Agunwa Okolie made Free Throw.
+Princeton,Harvard,62,67,36,29,1,Agunwa Okolie made Free Throw.
+Princeton,Harvard,62,67,36,40,0,Foul on Corbin Miller.
+Princeton,Harvard,63,67,36,40,1,Devin Cannady made Free Throw.
+Princeton,Harvard,64,67,36,40,1,Devin Cannady made Free Throw.
+Princeton,Harvard,64,67,37,1,0,Agunwa Okolie missed Three Point Jumper.
+Princeton,Harvard,64,67,37,1,0,Devin Cannady Defensive Rebound.
+Princeton,Harvard,64,67,37,30,0,Steven Cook missed Three Point Jumper.
+Princeton,Harvard,64,67,37,30,0,Myles Stephens Offensive Rebound.
+Princeton,Harvard,66,67,37,37,1,Myles Stephens made Dunk.
+Princeton,Harvard,66,67,38,7,0,Corbin Miller missed Jumper.
+Princeton,Harvard,66,67,38,7,0,Zena Edosomwan Offensive Rebound.
+Princeton,Harvard,66,67,38,10,0,Foul on Steven Cook.
+Princeton,Harvard,66,67,38,10,0,Zena Edosomwan missed Free Throw.
+Princeton,Harvard,66,67,38,10,0,Harvard Deadball Team Rebound.
+Princeton,Harvard,66,68,38,10,1,Zena Edosomwan made Free Throw.
+Princeton,Harvard,66,68,38,16,0,Princeton  Timeout
+Princeton,Harvard,69,68,38,23,1,Steven Cook made Three Point Jumper. Assisted by Spencer Weisz.
+Princeton,Harvard,69,68,38,58,0,Corbin Miller missed Jumper.
+Princeton,Harvard,69,68,38,58,0,Corbin Miller Offensive Rebound.
+Princeton,Harvard,69,70,39,21,1,Zena Edosomwan made Layup. Assisted by Agunwa Okolie.
+Princeton,Harvard,69,70,39,21,0,Foul on Henry Caruso.
+Princeton,Harvard,69,71,39,21,1,Zena Edosomwan made Free Throw.
+Princeton,Harvard,71,71,39,26,1,Devin Cannady made Layup.
+Princeton,Harvard,71,71,39,53,0,Foul on Amir Bell.
+Princeton,Harvard,71,72,39,53,1,Patrick Steeves made Free Throw.
+Princeton,Harvard,71,73,39,53,1,Patrick Steeves made Free Throw.
+Princeton,Harvard,71,73,39,53,0,Harvard  Timeout
+Princeton,Harvard,71,73,39,57,0,Myles Stephens missed Jumper.
+Princeton,Harvard,71,73,39,57,0,Patrick Steeves Block.
+Princeton,Harvard,71,73,39,57,0,Steven Cook Offensive Rebound.
+Princeton,Harvard,71,73,39,58,0,Steven Cook missed Layup.
+Princeton,Harvard,71,73,39,58,0,Princeton Deadball Team Rebound.
+Princeton,Harvard,71,73,40,0,0,End of Game

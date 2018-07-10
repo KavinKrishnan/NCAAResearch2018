@@ -1,0 +1,313 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,Oregon,0,0,0,20,0,Chris Boucher Turnover.
+Stanford,Oregon,0,0,0,20,0,Grant Verhoeven Steal.
+Stanford,Oregon,3,0,0,50,1,Marcus Allen made Three Point Jumper. Assisted by Michael Humphrey.
+Stanford,Oregon,3,0,1,2,0,Foul on Michael Humphrey.
+Stanford,Oregon,3,0,1,25,0,Chris Boucher missed Layup.
+Stanford,Oregon,3,0,1,25,0,Jordan Bell Offensive Rebound.
+Stanford,Oregon,3,0,1,29,0,Jordan Bell Turnover.
+Stanford,Oregon,3,0,1,30,0,Marcus Allen Steal.
+Stanford,Oregon,5,0,1,32,1,Marcus Allen made Layup.
+Stanford,Oregon,5,0,1,32,0,Foul on Tyler Dorsey.
+Stanford,Oregon,5,0,1,32,0,Marcus Allen missed Free Throw.
+Stanford,Oregon,5,0,1,32,0,Jordan Bell Defensive Rebound.
+Stanford,Oregon,5,3,1,51,1,Tyler Dorsey made Three Point Jumper. Assisted by Payton Pritchard.
+Stanford,Oregon,5,3,2,10,0,Michael Humphrey missed Jumper.
+Stanford,Oregon,5,3,2,10,0,Grant Verhoeven Offensive Rebound.
+Stanford,Oregon,5,3,2,13,0,Grant Verhoeven missed Two Point Tip Shot.
+Stanford,Oregon,5,3,2,13,0,Michael Humphrey Offensive Rebound.
+Stanford,Oregon,5,3,2,22,0,Grant Verhoeven Turnover.
+Stanford,Oregon,5,3,2,22,0,Foul on Grant Verhoeven.
+Stanford,Oregon,5,6,2,36,1,Payton Pritchard made Three Point Jumper. Assisted by Jordan Bell.
+Stanford,Oregon,5,6,3,7,0,Marcus Allen missed Three Point Jumper.
+Stanford,Oregon,5,6,3,7,0,Michael Humphrey Offensive Rebound.
+Stanford,Oregon,5,6,3,10,0,Michael Humphrey missed Jumper.
+Stanford,Oregon,5,6,3,10,0,Dylan Ennis Defensive Rebound.
+Stanford,Oregon,5,6,3,18,0,Payton Pritchard missed Three Point Jumper.
+Stanford,Oregon,5,6,3,18,0,Grant Verhoeven Defensive Rebound.
+Stanford,Oregon,5,6,3,34,0,Grant Verhoeven missed Layup.
+Stanford,Oregon,5,6,3,34,0,Chris Boucher Defensive Rebound.
+Stanford,Oregon,5,9,3,47,1,Chris Boucher made Three Point Jumper. Assisted by Tyler Dorsey.
+Stanford,Oregon,5,9,4,3,0,Robert Cartwright Turnover.
+Stanford,Oregon,5,9,4,4,0,Jordan Bell Steal.
+Stanford,Oregon,5,11,4,5,1,Jordan Bell made Dunk. Assisted by Dylan Ennis.
+Stanford,Oregon,5,11,4,5,0,Foul on Robert Cartwright.
+Stanford,Oregon,5,11,4,5,0,Official TV Timeout
+Stanford,Oregon,5,11,4,5,0,Jordan Bell missed Free Throw.
+Stanford,Oregon,5,11,4,5,0,Michael Humphrey Defensive Rebound.
+Stanford,Oregon,7,11,4,26,1,Michael Humphrey made Jumper. Assisted by Robert Cartwright.
+Stanford,Oregon,7,14,4,43,1,Dylan Ennis made Three Point Jumper. Assisted by Payton Pritchard.
+Stanford,Oregon,7,14,5,7,0,Foul on Dylan Ennis.
+Stanford,Oregon,7,14,5,21,0,Michael Humphrey missed Jumper.
+Stanford,Oregon,7,14,5,21,0,Oregon Deadball Team Rebound.
+Stanford,Oregon,7,14,5,24,0,Foul on Josh Sharma.
+Stanford,Oregon,7,16,5,51,1,Dylan Ennis made Layup.
+Stanford,Oregon,9,16,6,16,1,Josh Sharma made Dunk. Assisted by Marcus Allen.
+Stanford,Oregon,9,16,6,27,0,Chris Boucher missed Three Point Jumper.
+Stanford,Oregon,9,16,6,27,0,Oregon Deadball Team Rebound.
+Stanford,Oregon,9,16,6,29,0,Foul on Marcus Sheffield.
+Stanford,Oregon,9,16,6,48,0,Foul on Michael Humphrey.
+Stanford,Oregon,9,16,6,51,0,Foul on Josh Sharma.
+Stanford,Oregon,9,16,6,51,0,Chris Boucher missed Free Throw.
+Stanford,Oregon,9,16,6,51,0,Marcus Sheffield Defensive Rebound.
+Stanford,Oregon,9,16,6,56,0,Christian Sanders Turnover.
+Stanford,Oregon,9,16,6,57,0,Chris Boucher Steal.
+Stanford,Oregon,9,16,7,20,0,Chris Boucher Turnover.
+Stanford,Oregon,9,16,7,20,0,Foul on Chris Boucher.
+Stanford,Oregon,9,16,7,39,0,Marcus Sheffield missed Jumper.
+Stanford,Oregon,9,16,7,39,0,Trevor Stanback Offensive Rebound.
+Stanford,Oregon,11,16,7,41,1,Trevor Stanback made Two Point Tip Shot.
+Stanford,Oregon,11,19,7,53,1,Dylan Ennis made Three Point Jumper. Assisted by Casey Benson.
+Stanford,Oregon,11,19,8,14,0,Marcus Allen Turnover.
+Stanford,Oregon,11,19,8,14,0,Official TV Timeout
+Stanford,Oregon,11,19,8,26,0,Dylan Ennis Turnover.
+Stanford,Oregon,14,19,8,42,1,Grant Verhoeven made Three Point Jumper. Assisted by Christian Sanders.
+Stanford,Oregon,14,22,8,51,1,Dylan Ennis made Three Point Jumper. Assisted by Casey Benson.
+Stanford,Oregon,14,22,9,3,0,Trevor Stanback Turnover.
+Stanford,Oregon,14,22,9,3,0,Casey Benson Steal.
+Stanford,Oregon,14,22,9,3,0,Foul on Trevor Stanback.
+Stanford,Oregon,14,22,9,3,0,Casey Benson missed Free Throw.
+Stanford,Oregon,14,22,9,3,0,Dorian Pickens Defensive Rebound.
+Stanford,Oregon,16,22,9,31,1,Trevor Stanback made Layup. Assisted by Robert Cartwright.
+Stanford,Oregon,16,25,9,58,1,Casey Benson made Three Point Jumper. Assisted by Tyler Dorsey.
+Stanford,Oregon,16,25,10,11,0,Trevor Stanback missed Layup.
+Stanford,Oregon,16,25,10,11,0,Kavell Bigby-Williams Block.
+Stanford,Oregon,16,25,10,13,0,Kavell Bigby-Williams Defensive Rebound.
+Stanford,Oregon,16,25,10,20,0,Foul on Marcus Sheffield.
+Stanford,Oregon,16,26,10,20,1,Dylan Ennis made Free Throw.
+Stanford,Oregon,16,27,10,20,1,Dylan Ennis made Free Throw.
+Stanford,Oregon,16,27,10,47,0,Robert Cartwright missed Layup.
+Stanford,Oregon,16,27,10,47,0,Oregon Defensive Rebound.
+Stanford,Oregon,16,27,11,11,0,Casey Benson Turnover.
+Stanford,Oregon,16,27,11,32,0,Trevor Stanback Turnover.
+Stanford,Oregon,16,27,11,49,0,Chris Boucher missed Three Point Jumper.
+Stanford,Oregon,16,27,11,49,0,Marcus Allen Defensive Rebound.
+Stanford,Oregon,16,27,11,51,0,Foul on Casey Benson.
+Stanford,Oregon,16,27,12,16,0,Marcus Allen missed Jumper.
+Stanford,Oregon,16,27,12,16,0,Chris Boucher Defensive Rebound.
+Stanford,Oregon,16,27,12,25,0,Tyler Dorsey missed Jumper.
+Stanford,Oregon,16,27,12,25,0,Tyler Dorsey Offensive Rebound.
+Stanford,Oregon,16,29,12,27,1,Tyler Dorsey made Two Point Tip Shot.
+Stanford,Oregon,16,29,12,45,0,Robert Cartwright missed Three Point Jumper.
+Stanford,Oregon,16,29,12,45,0,Oregon Defensive Rebound.
+Stanford,Oregon,16,29,12,49,0,Official TV Timeout
+Stanford,Oregon,16,29,13,3,0,Tyler Dorsey missed Three Point Jumper.
+Stanford,Oregon,16,29,13,3,0,Michael Humphrey Defensive Rebound.
+Stanford,Oregon,16,29,13,21,0,Christian Sanders missed Three Point Jumper.
+Stanford,Oregon,16,29,13,21,0,Tyler Dorsey Defensive Rebound.
+Stanford,Oregon,16,29,13,41,0,Casey Benson missed Three Point Jumper.
+Stanford,Oregon,16,29,13,41,0,Michael Humphrey Defensive Rebound.
+Stanford,Oregon,18,29,13,58,1,Robert Cartwright made Jumper.
+Stanford,Oregon,18,31,14,28,1,Chris Boucher made Dunk.
+Stanford,Oregon,20,31,14,46,1,Michael Humphrey made Jumper.
+Stanford,Oregon,20,31,14,57,0,Payton Pritchard missed Three Point Jumper.
+Stanford,Oregon,20,31,14,57,0,Oregon Deadball Team Rebound.
+Stanford,Oregon,20,31,14,57,0,Foul on Josh Sharma.
+Stanford,Oregon,20,32,14,57,1,Chris Boucher made Free Throw.
+Stanford,Oregon,20,33,14,57,1,Chris Boucher made Free Throw.
+Stanford,Oregon,20,33,15,7,0,Michael Humphrey missed Jumper.
+Stanford,Oregon,20,33,15,7,0,Dylan Ennis Defensive Rebound.
+Stanford,Oregon,20,33,15,36,0,Jordan Bell missed Jumper.
+Stanford,Oregon,20,33,15,36,0,Chris Boucher Offensive Rebound.
+Stanford,Oregon,20,35,15,39,1,Chris Boucher made Two Point Tip Shot.
+Stanford,Oregon,20,35,15,47,0,Michael Humphrey Turnover.
+Stanford,Oregon,20,37,15,59,1,Jordan Bell made Layup. Assisted by Roman Sorkin.
+Stanford,Oregon,20,37,16,25,0,Robert Cartwright missed Three Point Jumper.
+Stanford,Oregon,20,37,16,25,0,Payton Pritchard Defensive Rebound.
+Stanford,Oregon,20,37,16,35,0,Dylan Ennis missed Three Point Jumper.
+Stanford,Oregon,20,37,16,35,0,Robert Cartwright Defensive Rebound.
+Stanford,Oregon,20,37,16,47,0,Michael Humphrey missed Jumper.
+Stanford,Oregon,20,37,16,47,0,Chris Boucher Defensive Rebound.
+Stanford,Oregon,20,37,17,4,0,Payton Pritchard Turnover.
+Stanford,Oregon,20,37,17,4,0,Marcus Allen Steal.
+Stanford,Oregon,20,37,17,4,0,Foul on Payton Pritchard.
+Stanford,Oregon,20,37,17,4,0,Official TV Timeout
+Stanford,Oregon,20,37,17,17,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Oregon,20,37,17,17,0,Payton Pritchard Defensive Rebound.
+Stanford,Oregon,20,37,17,39,0,Chris Boucher Turnover.
+Stanford,Oregon,20,37,18,9,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Oregon,20,37,18,9,0,Jordan Bell Defensive Rebound.
+Stanford,Oregon,20,40,18,28,1,Chris Boucher made Three Point Jumper. Assisted by Payton Pritchard.
+Stanford,Oregon,20,40,18,49,0,Dorian Pickens Turnover.
+Stanford,Oregon,20,40,18,50,0,Payton Pritchard Steal.
+Stanford,Oregon,20,40,19,11,0,Chris Boucher missed Three Point Jumper.
+Stanford,Oregon,20,40,19,11,0,Robert Cartwright Defensive Rebound.
+Stanford,Oregon,20,40,19,20,0,Trevor Stanback missed Jumper.
+Stanford,Oregon,20,40,19,20,0,Grant Verhoeven Offensive Rebound.
+Stanford,Oregon,20,40,19,23,0,Grant Verhoeven missed Two Point Tip Shot.
+Stanford,Oregon,20,40,19,23,0,Grant Verhoeven Offensive Rebound.
+Stanford,Oregon,20,40,19,24,0,Grant Verhoeven missed Two Point Tip Shot.
+Stanford,Oregon,20,40,19,24,0,Trevor Stanback Offensive Rebound.
+Stanford,Oregon,20,40,19,27,0,Foul on Jordan Bell.
+Stanford,Oregon,20,40,19,27,0,Trevor Stanback missed Free Throw.
+Stanford,Oregon,20,40,19,27,0,Stanford Deadball Team Rebound.
+Stanford,Oregon,20,40,19,27,0,Trevor Stanback missed Free Throw.
+Stanford,Oregon,20,40,19,27,0,Jordan Bell Defensive Rebound.
+Stanford,Oregon,20,40,19,57,0,Chris Boucher missed Three Point Jumper.
+Stanford,Oregon,20,40,19,57,0,Oregon Deadball Team Rebound.
+Stanford,Oregon,20,40,19,58,0,Foul on Roman Sorkin.
+Stanford,Oregon,21,40,19,58,1,Christian Sanders made Free Throw.
+Stanford,Oregon,22,40,19,58,1,Christian Sanders made Free Throw.
+Stanford,Oregon,22,39,20,0,0,End of 1st half
+Stanford,Oregon,24,40,20,14,1,Marcus Allen made Layup.
+Stanford,Oregon,24,40,20,32,0,Foul on Robert Cartwright.
+Stanford,Oregon,24,40,20,41,0,Foul on Michael Humphrey.
+Stanford,Oregon,24,40,20,43,0,Tyler Dorsey Turnover.
+Stanford,Oregon,24,40,20,43,0,Foul on Tyler Dorsey.
+Stanford,Oregon,26,40,21,5,1,Grant Verhoeven made Layup. Assisted by Marcus Allen.
+Stanford,Oregon,26,40,21,21,0,Jordan Bell Turnover.
+Stanford,Oregon,26,40,21,22,0,Dorian Pickens Steal.
+Stanford,Oregon,26,40,21,42,0,Robert Cartwright missed Three Point Jumper.
+Stanford,Oregon,26,40,21,42,0,Josh Sharma Offensive Rebound.
+Stanford,Oregon,26,40,21,46,0,Josh Sharma missed Jumper.
+Stanford,Oregon,26,40,21,46,0,Dylan Ennis Defensive Rebound.
+Stanford,Oregon,26,40,21,52,0,Foul on Josh Sharma.
+Stanford,Oregon,26,42,22,2,1,Jordan Bell made Jumper.
+Stanford,Oregon,28,42,22,11,1,Grant Verhoeven made Layup. Assisted by Robert Cartwright.
+Stanford,Oregon,28,45,22,25,1,Tyler Dorsey made Three Point Jumper. Assisted by Payton Pritchard.
+Stanford,Oregon,30,45,22,40,1,Marcus Allen made Layup.
+Stanford,Oregon,30,45,22,51,0,Dylan Ennis missed Jumper.
+Stanford,Oregon,30,45,22,51,0,Michael Humphrey Defensive Rebound.
+Stanford,Oregon,30,45,23,2,0,Marcus Allen missed Three Point Jumper.
+Stanford,Oregon,30,45,23,2,0,Chris Boucher Defensive Rebound.
+Stanford,Oregon,30,45,23,25,0,Dylan Ennis Turnover.
+Stanford,Oregon,30,45,23,43,0,Dorian Pickens missed Layup.
+Stanford,Oregon,30,45,23,43,0,Chris Boucher Block.
+Stanford,Oregon,30,45,23,44,0,Chris Boucher Defensive Rebound.
+Stanford,Oregon,30,45,23,55,0,Oregon  Timeout
+Stanford,Oregon,30,45,23,55,0,Official TV Timeout
+Stanford,Oregon,30,45,24,13,0,Tyler Dorsey Turnover.
+Stanford,Oregon,30,45,24,14,0,Official TV Timeout
+Stanford,Oregon,30,45,24,32,0,Christian Sanders Turnover.
+Stanford,Oregon,30,45,24,32,0,Payton Pritchard Steal.
+Stanford,Oregon,30,45,24,32,0,Foul on Michael Humphrey.
+Stanford,Oregon,30,45,24,41,0,Tyler Dorsey missed Three Point Jumper.
+Stanford,Oregon,30,45,24,41,0,Chris Boucher Offensive Rebound.
+Stanford,Oregon,30,47,24,45,1,Chris Boucher made Two Point Tip Shot.
+Stanford,Oregon,30,47,25,10,0,Trevor Stanback missed Layup.
+Stanford,Oregon,30,47,25,10,0,Jordan Bell Block.
+Stanford,Oregon,30,47,25,14,0,Chris Boucher Defensive Rebound.
+Stanford,Oregon,30,47,25,24,0,Dylan Ennis Turnover.
+Stanford,Oregon,30,47,25,24,0,Marcus Allen Steal.
+Stanford,Oregon,30,47,25,28,0,Christian Sanders missed Layup.
+Stanford,Oregon,30,47,25,28,0,Tyler Dorsey Block.
+Stanford,Oregon,30,47,25,31,0,Payton Pritchard Defensive Rebound.
+Stanford,Oregon,30,49,25,33,1,Jordan Bell made Layup. Assisted by Payton Pritchard.
+Stanford,Oregon,30,49,25,33,0,Foul on Grant Verhoeven.
+Stanford,Oregon,30,50,25,33,1,Jordan Bell made Free Throw.
+Stanford,Oregon,30,50,25,50,0,Foul on Jordan Bell.
+Stanford,Oregon,31,50,25,50,1,Trevor Stanback made Free Throw.
+Stanford,Oregon,31,50,25,50,0,Trevor Stanback missed Free Throw.
+Stanford,Oregon,31,50,25,50,0,Oregon Defensive Rebound.
+Stanford,Oregon,31,50,26,11,0,Tyler Dorsey Turnover.
+Stanford,Oregon,31,50,26,29,0,Marcus Allen missed Jumper.
+Stanford,Oregon,31,50,26,29,0,Stanford Offensive Rebound.
+Stanford,Oregon,31,50,26,37,0,Robert Cartwright missed Three Point Jumper.
+Stanford,Oregon,31,50,26,37,0,Payton Pritchard Defensive Rebound.
+Stanford,Oregon,31,52,26,43,1,Chris Boucher made Layup. Assisted by Payton Pritchard.
+Stanford,Oregon,31,52,26,52,0,Marcus Allen missed Three Point Jumper.
+Stanford,Oregon,31,52,26,52,0,Dylan Ennis Defensive Rebound.
+Stanford,Oregon,31,52,27,8,0,Chris Boucher missed Jumper.
+Stanford,Oregon,31,52,27,8,0,Payton Pritchard Offensive Rebound.
+Stanford,Oregon,31,52,27,11,0,Payton Pritchard missed Two Point Tip Shot.
+Stanford,Oregon,31,52,27,11,0,Stanford Defensive Rebound.
+Stanford,Oregon,31,52,27,27,0,Foul on Payton Pritchard.
+Stanford,Oregon,31,52,27,27,0,Marcus Sheffield missed Free Throw.
+Stanford,Oregon,31,52,27,27,0,Stanford Deadball Team Rebound.
+Stanford,Oregon,32,52,27,27,1,Marcus Sheffield made Free Throw.
+Stanford,Oregon,32,52,27,38,0,Foul on Michael Humphrey.
+Stanford,Oregon,32,52,27,47,0,Dylan Ennis Turnover.
+Stanford,Oregon,32,52,27,47,0,Foul on Dylan Ennis.
+Stanford,Oregon,32,52,28,10,0,Josh Sharma missed Jumper.
+Stanford,Oregon,32,52,28,10,0,Payton Pritchard Defensive Rebound.
+Stanford,Oregon,32,55,28,22,1,Payton Pritchard made Three Point Jumper. Assisted by Casey Benson.
+Stanford,Oregon,32,55,28,37,0,Official TV Timeout
+Stanford,Oregon,32,55,28,45,0,Marcus Sheffield missed Jumper.
+Stanford,Oregon,32,55,28,45,0,Chris Boucher Defensive Rebound.
+Stanford,Oregon,32,55,29,14,0,Payton Pritchard missed Jumper.
+Stanford,Oregon,32,55,29,14,0,Marcus Sheffield Defensive Rebound.
+Stanford,Oregon,32,55,29,21,0,Marcus Sheffield missed Jumper.
+Stanford,Oregon,32,55,29,21,0,Chris Boucher Defensive Rebound.
+Stanford,Oregon,32,55,29,42,0,Chris Boucher missed Three Point Jumper.
+Stanford,Oregon,32,55,29,42,0,Christian Sanders Defensive Rebound.
+Stanford,Oregon,32,55,29,54,0,Grant Verhoeven missed Layup.
+Stanford,Oregon,32,55,29,54,0,Kavell Bigby-Williams Block.
+Stanford,Oregon,32,55,29,56,0,Casey Benson Defensive Rebound.
+Stanford,Oregon,32,55,30,3,0,Chris Boucher Turnover.
+Stanford,Oregon,32,55,30,23,0,Christian Sanders Turnover.
+Stanford,Oregon,32,55,30,25,0,Jordan Bell Steal.
+Stanford,Oregon,32,55,30,27,0,Dylan Ennis Turnover.
+Stanford,Oregon,35,55,30,43,1,Dorian Pickens made Three Point Jumper. Assisted by Christian Sanders.
+Stanford,Oregon,35,55,31,15,0,Casey Benson missed Layup.
+Stanford,Oregon,35,55,31,15,0,Kavell Bigby-Williams Offensive Rebound.
+Stanford,Oregon,35,55,31,17,0,Kavell Bigby-Williams missed Two Point Tip Shot.
+Stanford,Oregon,35,55,31,17,0,Kavell Bigby-Williams Offensive Rebound.
+Stanford,Oregon,35,55,31,35,0,Foul on Marcus Allen.
+Stanford,Oregon,35,56,31,35,1,Dylan Ennis made Free Throw.
+Stanford,Oregon,35,57,31,35,1,Dylan Ennis made Free Throw.
+Stanford,Oregon,35,57,31,51,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Oregon,35,57,31,51,0,Dorian Pickens Offensive Rebound.
+Stanford,Oregon,35,57,31,58,0,Josh Sharma missed Jumper.
+Stanford,Oregon,35,57,31,58,0,Roman Sorkin Defensive Rebound.
+Stanford,Oregon,35,57,32,10,0,Tyler Dorsey Turnover.
+Stanford,Oregon,37,57,32,34,1,Robert Cartwright made Layup.
+Stanford,Oregon,37,57,32,52,0,Foul on Dorian Pickens.
+Stanford,Oregon,37,57,32,52,0,Official TV Timeout
+Stanford,Oregon,37,58,32,52,1,Casey Benson made Free Throw.
+Stanford,Oregon,37,59,32,52,1,Casey Benson made Free Throw.
+Stanford,Oregon,39,59,33,2,1,Marcus Allen made Layup. Assisted by Marcus Sheffield.
+Stanford,Oregon,39,61,33,20,1,Jordan Bell made Layup. Assisted by Casey Benson.
+Stanford,Oregon,39,61,33,34,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,Oregon,39,61,33,34,0,Oregon Defensive Rebound.
+Stanford,Oregon,39,61,33,54,0,Jordan Bell missed Three Point Jumper.
+Stanford,Oregon,39,61,33,54,0,Dorian Pickens Defensive Rebound.
+Stanford,Oregon,39,61,34,7,0,Robert Cartwright Turnover.
+Stanford,Oregon,39,61,34,9,0,Kavell Bigby-Williams Steal.
+Stanford,Oregon,39,64,34,13,1,Tyler Dorsey made Three Point Jumper. Assisted by Jordan Bell.
+Stanford,Oregon,41,64,34,31,1,Marcus Allen made Layup.
+Stanford,Oregon,41,64,34,52,0,Tyler Dorsey Turnover.
+Stanford,Oregon,44,64,35,0,1,Marcus Sheffield made Three Point Jumper. Assisted by Marcus Allen.
+Stanford,Oregon,44,64,35,17,0,Kavell Bigby-Williams missed Layup.
+Stanford,Oregon,44,64,35,17,0,Robert Cartwright Defensive Rebound.
+Stanford,Oregon,44,64,35,24,0,Josh Sharma missed Three Point Jumper.
+Stanford,Oregon,44,64,35,24,0,Kavell Bigby-Williams Defensive Rebound.
+Stanford,Oregon,44,64,35,37,0,Payton Pritchard missed Layup.
+Stanford,Oregon,44,64,35,37,0,Kavell Bigby-Williams Offensive Rebound.
+Stanford,Oregon,44,64,35,38,0,Foul on Josh Sharma.
+Stanford,Oregon,44,64,35,38,0,Kavell Bigby-Williams missed Free Throw.
+Stanford,Oregon,44,64,35,38,0,Oregon Deadball Team Rebound.
+Stanford,Oregon,44,65,35,38,1,Kavell Bigby-Williams made Free Throw.
+Stanford,Oregon,44,65,35,51,0,Marcus Allen missed Three Point Jumper.
+Stanford,Oregon,44,65,35,51,0,Payton Pritchard Defensive Rebound.
+Stanford,Oregon,44,65,36,2,0,Kavell Bigby-Williams Turnover.
+Stanford,Oregon,44,65,36,7,0,Marcus Allen Turnover.
+Stanford,Oregon,44,65,36,7,0,Foul on Marcus Allen.
+Stanford,Oregon,44,65,36,7,0,Official TV Timeout
+Stanford,Oregon,44,65,36,33,0,Tyler Dorsey missed Three Point Jumper.
+Stanford,Oregon,44,65,36,33,0,Christian Sanders Defensive Rebound.
+Stanford,Oregon,44,65,36,51,0,Marcus Sheffield missed Jumper.
+Stanford,Oregon,44,65,36,51,0,Stanford Deadball Team Rebound.
+Stanford,Oregon,44,65,36,51,0,Foul on Kavell Bigby-Williams.
+Stanford,Oregon,44,65,36,53,0,Christian Sanders Turnover.
+Stanford,Oregon,44,67,36,59,1,Kavell Bigby-Williams made Dunk. Assisted by Casey Benson.
+Stanford,Oregon,44,67,37,17,0,Christian Sanders missed Layup.
+Stanford,Oregon,44,67,37,17,0,Tyler Dorsey Block.
+Stanford,Oregon,44,67,37,17,0,Stanford Offensive Rebound.
+Stanford,Oregon,44,67,37,18,0,Foul on Payton Pritchard.
+Stanford,Oregon,44,67,37,29,0,Foul on Roman Sorkin.
+Stanford,Oregon,45,67,37,29,1,Grant Verhoeven made Free Throw.
+Stanford,Oregon,46,67,37,29,1,Grant Verhoeven made Free Throw.
+Stanford,Oregon,46,67,38,1,0,Casey Benson missed Jumper.
+Stanford,Oregon,46,67,38,1,0,Stanford Deadball Team Rebound.
+Stanford,Oregon,46,67,38,16,0,Christian Sanders missed Layup.
+Stanford,Oregon,46,67,38,16,0,Grant Verhoeven Offensive Rebound.
+Stanford,Oregon,46,67,38,18,0,Grant Verhoeven missed Two Point Tip Shot.
+Stanford,Oregon,46,67,38,18,0,Roman Sorkin Defensive Rebound.
+Stanford,Oregon,46,67,38,36,0,Roman Sorkin missed Dunk.
+Stanford,Oregon,46,67,38,36,0,Stanford Defensive Rebound.
+Stanford,Oregon,49,67,38,49,1,Dorian Pickens made Three Point Jumper. Assisted by Marcus Sheffield.
+Stanford,Oregon,49,69,39,12,1,Kavell Bigby-Williams made Dunk. Assisted by Payton Pritchard.
+Stanford,Oregon,52,69,39,20,1,Marcus Sheffield made Three Point Jumper. Assisted by Trevor Stanback.
+Stanford,Oregon,52,69,39,38,0,Casey Benson missed Three Point Jumper.
+Stanford,Oregon,52,69,39,38,0,Payton Pritchard Offensive Rebound.
+Stanford,Oregon,52,69,40,0,0,End of Game

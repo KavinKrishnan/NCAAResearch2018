@@ -1,0 +1,378 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+La Salle,Georgetown,0,0,0,0,0,Jump Ball won by La Salle
+La Salle,Georgetown,0,0,0,12,0,Pookie Powell missed Jumper.
+La Salle,Georgetown,0,0,0,12,0,Rodney Pryor Defensive Rebound.
+La Salle,Georgetown,0,0,0,29,0,Foul on Tony Washington.
+La Salle,Georgetown,0,0,0,29,0,Rodney Pryor missed Three Point Jumper.
+La Salle,Georgetown,0,0,0,29,0,Pookie Powell Defensive Rebound.
+La Salle,Georgetown,2,0,0,35,1,Amar Stukes made Layup.
+La Salle,Georgetown,2,2,0,41,1,L.J. Peak made Layup. Assisted by Jagan Mosely.
+La Salle,Georgetown,2,2,0,41,0,Tony Washington missed Layup.
+La Salle,Georgetown,2,2,0,41,0,L.J. Peak Block.
+La Salle,Georgetown,2,2,0,41,0,La Salle Offensive Rebound.
+La Salle,Georgetown,2,2,1,18,0,Pookie Powell missed Three Point Jumper.
+La Salle,Georgetown,2,2,1,18,0,B.J. Johnson Offensive Rebound.
+La Salle,Georgetown,2,2,1,31,0,Tony Washington missed Jumper.
+La Salle,Georgetown,2,2,1,31,0,Bradley Hayes Block.
+La Salle,Georgetown,2,2,1,31,0,Bradley Hayes Defensive Rebound.
+La Salle,Georgetown,2,5,1,47,1,Rodney Pryor made Three Point Jumper.
+La Salle,Georgetown,2,5,2,4,0,Amar Stukes missed Jumper.
+La Salle,Georgetown,2,5,2,4,0,Georgetown Defensive Rebound.
+La Salle,Georgetown,2,5,2,15,0,Foul on Tony Washington.
+La Salle,Georgetown,2,5,2,18,0,Akoy Agau Turnover.
+La Salle,Georgetown,2,5,2,18,0,Pookie Powell Steal.
+La Salle,Georgetown,4,5,2,23,1,Pookie Powell made Layup.
+La Salle,Georgetown,4,7,2,31,1,L.J. Peak made Jumper.
+La Salle,Georgetown,4,7,2,48,0,Foul on Jagan Mosely.
+La Salle,Georgetown,4,7,3,8,0,B.J. Johnson missed Jumper.
+La Salle,Georgetown,4,7,3,8,0,Akoy Agau Defensive Rebound.
+La Salle,Georgetown,4,7,3,20,0,Foul on Jordan Price.
+La Salle,Georgetown,4,8,3,20,1,Akoy Agau made Free Throw.
+La Salle,Georgetown,4,9,3,20,1,Akoy Agau made Free Throw.
+La Salle,Georgetown,7,9,3,26,1,Jordan Price made Three Point Jumper. Assisted by Amar Stukes.
+La Salle,Georgetown,7,9,3,39,0,Jump Ball won by Georgetown
+La Salle,Georgetown,7,9,3,44,0,Jagan Mosely Turnover.
+La Salle,Georgetown,7,9,3,44,0,Demetrius Henry Steal.
+La Salle,Georgetown,7,9,3,50,0,Foul on Rodney Pryor.
+La Salle,Georgetown,9,9,4,3,1,Jordan Price made Jumper.
+La Salle,Georgetown,9,12,4,25,1,Jagan Mosely made Three Point Jumper. Assisted by Marcus Derrickson.
+La Salle,Georgetown,9,12,4,54,0,Foul on Jessie Govan.
+La Salle,Georgetown,9,12,4,54,0,Official TV Timeout
+La Salle,Georgetown,9,12,4,54,0,Demetrius Henry missed Free Throw.
+La Salle,Georgetown,9,12,4,54,0,La Salle Deadball Team Rebound.
+La Salle,Georgetown,10,12,4,54,1,Demetrius Henry made Free Throw.
+La Salle,Georgetown,10,14,4,54,1,Jessie Govan made Dunk. Assisted by L.J. Peak.
+La Salle,Georgetown,10,14,5,5,0,B.J. Johnson missed Three Point Jumper.
+La Salle,Georgetown,10,14,5,5,0,Demetrius Henry Offensive Rebound.
+La Salle,Georgetown,13,14,5,10,1,Cleon Roberts made Three Point Jumper. Assisted by Demetrius Henry.
+La Salle,Georgetown,13,14,5,35,0,L.J. Peak Turnover.
+La Salle,Georgetown,13,14,5,35,0,Amar Stukes Steal.
+La Salle,Georgetown,13,14,5,40,0,Pookie Powell missed Three Point Jumper.
+La Salle,Georgetown,13,14,5,40,0,Jagan Mosely Defensive Rebound.
+La Salle,Georgetown,13,16,5,47,1,Rodney Pryor made Layup. Assisted by Jagan Mosely.
+La Salle,Georgetown,13,16,6,7,0,Cleon Roberts missed Three Point Jumper.
+La Salle,Georgetown,13,16,6,7,0,Jagan Mosely Defensive Rebound.
+La Salle,Georgetown,13,16,6,26,0,Foul on Pookie Powell.
+La Salle,Georgetown,13,17,6,26,1,Jagan Mosely made Free Throw.
+La Salle,Georgetown,13,18,6,26,1,Jagan Mosely made Free Throw.
+La Salle,Georgetown,13,18,6,42,0,Amar Stukes missed Jumper.
+La Salle,Georgetown,13,18,6,42,0,Rodney Pryor Block.
+La Salle,Georgetown,13,18,6,42,0,Jessie Govan Defensive Rebound.
+La Salle,Georgetown,13,18,6,55,0,Marcus Derrickson missed Layup.
+La Salle,Georgetown,13,18,6,55,0,Demetrius Henry Defensive Rebound.
+La Salle,Georgetown,15,18,7,21,1,B.J. Johnson made Jumper.
+La Salle,Georgetown,15,18,7,21,0,Foul on Rodney Pryor.
+La Salle,Georgetown,15,18,7,21,0,B.J. Johnson missed Free Throw.
+La Salle,Georgetown,15,18,7,21,0,Marcus Derrickson Defensive Rebound.
+La Salle,Georgetown,15,18,7,37,0,Foul on Cleon Roberts.
+La Salle,Georgetown,15,19,7,37,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,15,20,7,37,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,15,20,7,42,0,Jordan Price missed Three Point Jumper.
+La Salle,Georgetown,15,20,7,42,0,Jessie Govan Defensive Rebound.
+La Salle,Georgetown,15,23,7,57,1,Marcus Derrickson made Three Point Jumper. Assisted by Tre Campbell.
+La Salle,Georgetown,18,23,8,10,1,B.J. Johnson made Three Point Jumper. Assisted by Johnnie Shuler.
+La Salle,Georgetown,18,23,8,30,0,Foul on Johnnie Shuler.
+La Salle,Georgetown,18,23,8,30,0,Official TV Timeout
+La Salle,Georgetown,18,23,8,46,0,Marcus Derrickson missed Three Point Jumper.
+La Salle,Georgetown,18,23,8,46,0,Jordan Price Defensive Rebound.
+La Salle,Georgetown,18,23,8,55,0,Johnnie Shuler missed Three Point Jumper.
+La Salle,Georgetown,18,23,8,55,0,Cleon Roberts Offensive Rebound.
+La Salle,Georgetown,18,23,8,59,0,B.J. Johnson missed Three Point Jumper.
+La Salle,Georgetown,18,23,8,59,0,L.J. Peak Defensive Rebound.
+La Salle,Georgetown,18,25,9,8,1,Marcus Derrickson made Layup.
+La Salle,Georgetown,18,25,9,23,0,Foul on Jonathan Mulmore.
+La Salle,Georgetown,18,25,9,30,0,B.J. Johnson Turnover.
+La Salle,Georgetown,18,25,9,30,0,L.J. Peak Steal.
+La Salle,Georgetown,18,25,9,35,0,Foul on B.J. Johnson.
+La Salle,Georgetown,18,26,9,35,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,18,26,9,35,0,L.J. Peak missed Free Throw.
+La Salle,Georgetown,18,26,9,35,0,Cleon Roberts Defensive Rebound.
+La Salle,Georgetown,18,26,9,47,0,Demetrius Henry Turnover.
+La Salle,Georgetown,18,26,10,7,0,Foul on Cleon Roberts.
+La Salle,Georgetown,18,27,10,7,1,Akoy Agau made Free Throw.
+La Salle,Georgetown,18,28,10,7,1,Akoy Agau made Free Throw.
+La Salle,Georgetown,18,28,10,31,0,Foul on L.J. Peak.
+La Salle,Georgetown,18,28,10,38,0,Foul on B.J. Johnson.
+La Salle,Georgetown,18,28,10,38,0,B.J. Johnson Turnover.
+La Salle,Georgetown,18,28,10,49,0,Marcus Derrickson missed Layup.
+La Salle,Georgetown,18,28,10,49,0,Demetrius Henry Block.
+La Salle,Georgetown,18,28,10,49,0,Jordan Price Defensive Rebound.
+La Salle,Georgetown,18,28,11,8,0,Foul on Akoy Agau.
+La Salle,Georgetown,19,28,11,8,1,Pookie Powell made Free Throw.
+La Salle,Georgetown,20,28,11,8,1,Pookie Powell made Free Throw.
+La Salle,Georgetown,20,28,11,22,0,L.J. Peak missed Jumper.
+La Salle,Georgetown,20,28,11,22,0,Pookie Powell Defensive Rebound.
+La Salle,Georgetown,23,28,11,49,1,Cleon Roberts made Three Point Jumper. Assisted by Amar Stukes.
+La Salle,Georgetown,23,28,12,16,0,Akoy Agau Turnover.
+La Salle,Georgetown,23,28,12,16,0,Official TV Timeout
+La Salle,Georgetown,25,28,12,30,1,Jordan Price made Jumper.
+La Salle,Georgetown,25,28,12,30,0,Foul on Kaleb Johnson.
+La Salle,Georgetown,26,28,12,30,1,Jordan Price made Free Throw.
+La Salle,Georgetown,26,28,12,39,0,Foul on Pookie Powell.
+La Salle,Georgetown,26,28,12,39,0,Jessie Govan missed Free Throw.
+La Salle,Georgetown,26,28,12,39,0,Georgetown Deadball Team Rebound.
+La Salle,Georgetown,26,29,12,39,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,26,29,12,51,0,Jordan Price missed Three Point Jumper.
+La Salle,Georgetown,26,29,12,51,0,L.J. Peak Defensive Rebound.
+La Salle,Georgetown,26,31,13,8,1,Jessie Govan made Jumper.
+La Salle,Georgetown,26,31,13,24,0,Foul on Jessie Govan.
+La Salle,Georgetown,27,31,13,24,1,Demetrius Henry made Free Throw.
+La Salle,Georgetown,28,31,13,24,1,Demetrius Henry made Free Throw.
+La Salle,Georgetown,28,31,13,47,0,Jessie Govan missed Jumper.
+La Salle,Georgetown,28,31,13,47,0,Pookie Powell Defensive Rebound.
+La Salle,Georgetown,28,31,13,57,0,Foul on Demetrius Henry.
+La Salle,Georgetown,28,31,13,57,0,Demetrius Henry Turnover.
+La Salle,Georgetown,28,31,14,4,0,Jessie Govan Turnover.
+La Salle,Georgetown,28,31,14,4,0,Pookie Powell Steal.
+La Salle,Georgetown,30,31,14,10,1,Pookie Powell made Layup.
+La Salle,Georgetown,30,33,14,23,1,L.J. Peak made Jumper.
+La Salle,Georgetown,30,33,14,52,0,Foul on Kaleb Johnson.
+La Salle,Georgetown,31,33,14,52,1,Jordan Price made Free Throw.
+La Salle,Georgetown,31,33,14,52,0,Jordan Price missed Free Throw.
+La Salle,Georgetown,31,33,14,52,0,Marcus Derrickson Defensive Rebound.
+La Salle,Georgetown,31,33,15,17,0,Marcus Derrickson missed Jumper.
+La Salle,Georgetown,31,33,15,17,0,Jordan Price Defensive Rebound.
+La Salle,Georgetown,31,33,15,28,0,Jordan Price missed Jumper.
+La Salle,Georgetown,31,33,15,28,0,Yevgen Sakhniuk Offensive Rebound.
+La Salle,Georgetown,31,33,15,28,0,Foul on Jagan Mosely.
+La Salle,Georgetown,31,33,15,28,0,Yevgen Sakhniuk missed Free Throw.
+La Salle,Georgetown,31,33,15,28,0,La Salle Deadball Team Rebound.
+La Salle,Georgetown,31,33,15,28,0,Yevgen Sakhniuk missed Free Throw.
+La Salle,Georgetown,31,33,15,28,0,Bradley Hayes Defensive Rebound.
+La Salle,Georgetown,31,33,15,42,0,Tre Campbell missed Jumper.
+La Salle,Georgetown,31,33,15,42,0,Bradley Hayes Offensive Rebound.
+La Salle,Georgetown,31,33,15,49,0,Foul on Johnnie Shuler.
+La Salle,Georgetown,31,34,15,49,1,Bradley Hayes made Free Throw.
+La Salle,Georgetown,31,35,15,49,1,Bradley Hayes made Free Throw.
+La Salle,Georgetown,31,35,16,6,0,Amar Stukes missed Jumper.
+La Salle,Georgetown,31,35,16,6,0,Bradley Hayes Defensive Rebound.
+La Salle,Georgetown,31,35,16,14,0,Foul on Jordan Price.
+La Salle,Georgetown,31,35,16,14,0,Official TV Timeout
+La Salle,Georgetown,31,36,16,14,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,31,37,16,14,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,33,37,16,37,1,Jordan Price made Jumper. Assisted by Amar Stukes.
+La Salle,Georgetown,33,37,16,50,0,Bradley Hayes missed Jumper.
+La Salle,Georgetown,33,37,16,50,0,Amar Stukes Defensive Rebound.
+La Salle,Georgetown,33,37,17,1,0,Jordan Price missed Jumper.
+La Salle,Georgetown,33,37,17,1,0,Marcus Derrickson Defensive Rebound.
+La Salle,Georgetown,33,37,17,12,0,Foul on Bradley Hayes.
+La Salle,Georgetown,33,37,17,12,0,Bradley Hayes Turnover.
+La Salle,Georgetown,35,37,17,25,1,Jordan Price made Jumper.
+La Salle,Georgetown,35,37,17,44,0,Foul on Demetrius Henry.
+La Salle,Georgetown,35,38,17,44,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,35,39,17,44,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,37,39,17,54,1,Yevgen Sakhniuk made Layup. Assisted by Jordan Price.
+La Salle,Georgetown,37,39,18,7,0,Foul on Cleon Roberts.
+La Salle,Georgetown,37,40,18,7,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,37,41,18,7,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,37,41,18,20,0,Jordan Price missed Jumper.
+La Salle,Georgetown,37,41,18,20,0,Marcus Derrickson Block.
+La Salle,Georgetown,37,41,18,20,0,Tre Campbell Defensive Rebound.
+La Salle,Georgetown,37,41,18,22,0,Foul on Yevgen Sakhniuk.
+La Salle,Georgetown,37,42,18,22,1,Tre Campbell made Free Throw.
+La Salle,Georgetown,37,42,18,22,0,Tre Campbell missed Free Throw.
+La Salle,Georgetown,37,42,18,22,0,Yevgen Sakhniuk Defensive Rebound.
+La Salle,Georgetown,37,42,18,38,0,Foul on Marcus Derrickson.
+La Salle,Georgetown,38,42,18,38,1,Jordan Price made Free Throw.
+La Salle,Georgetown,39,42,18,38,1,Jordan Price made Free Throw.
+La Salle,Georgetown,39,45,18,51,1,Jagan Mosely made Three Point Jumper. Assisted by L.J. Peak.
+La Salle,Georgetown,41,45,19,15,1,Yevgen Sakhniuk made Layup.
+La Salle,Georgetown,41,45,19,32,0,L.J. Peak missed Jumper.
+La Salle,Georgetown,41,45,19,32,0,Amar Stukes Defensive Rebound.
+La Salle,Georgetown,41,45,19,46,0,La Salle  Timeout
+La Salle,Georgetown,41,45,19,51,0,Jordan Price missed Jumper.
+La Salle,Georgetown,41,45,19,51,0,Jagan Mosely Block.
+La Salle,Georgetown,41,45,19,51,0,L.J. Peak Defensive Rebound.
+La Salle,Georgetown,41,47,19,59,1,L.J. Peak made Jumper.
+La Salle,Georgetown,41,47,20,0,0,End of 1st half
+La Salle,Georgetown,41,47,20,0,0,Jump Ball won by La Salle
+La Salle,Georgetown,41,47,20,13,0,B.J. Johnson missed Jumper.
+La Salle,Georgetown,41,47,20,13,0,Georgetown Defensive Rebound.
+La Salle,Georgetown,41,47,20,24,0,Foul on B.J. Johnson.
+La Salle,Georgetown,41,50,20,44,1,Rodney Pryor made Three Point Jumper.
+La Salle,Georgetown,43,50,21,9,1,B.J. Johnson made Jumper.
+La Salle,Georgetown,43,50,21,9,0,Foul on Akoy Agau.
+La Salle,Georgetown,43,50,21,9,0,B.J. Johnson missed Free Throw.
+La Salle,Georgetown,43,50,21,9,0,Jessie Govan Defensive Rebound.
+La Salle,Georgetown,43,52,21,27,1,Jessie Govan made Jumper. Assisted by Jagan Mosely.
+La Salle,Georgetown,46,52,21,47,1,B.J. Johnson made Three Point Jumper. Assisted by Amar Stukes.
+La Salle,Georgetown,46,54,21,58,1,Rodney Pryor made Jumper.
+La Salle,Georgetown,46,54,21,58,0,Foul on Amar Stukes.
+La Salle,Georgetown,46,55,21,58,1,Rodney Pryor made Free Throw.
+La Salle,Georgetown,46,55,22,13,0,Jordan Price missed Jumper.
+La Salle,Georgetown,46,55,22,13,0,Tony Washington Offensive Rebound.
+La Salle,Georgetown,46,55,22,13,0,Jordan Price missed Three Point Jumper.
+La Salle,Georgetown,46,55,22,30,0,Jessie Govan Defensive Rebound.
+La Salle,Georgetown,46,55,22,30,0,L.J. Peak missed Jumper.
+La Salle,Georgetown,46,55,22,30,0,Jordan Price Defensive Rebound.
+La Salle,Georgetown,46,55,22,54,0,Jump Ball won by Georgetown
+La Salle,Georgetown,46,55,22,54,0,Tony Washington missed Jumper.
+La Salle,Georgetown,46,55,22,54,0,Jessie Govan Block.
+La Salle,Georgetown,46,55,22,54,0,Jessie Govan Defensive Rebound.
+La Salle,Georgetown,46,55,23,14,0,Foul on Tony Washington.
+La Salle,Georgetown,46,56,23,14,1,Jagan Mosely made Free Throw.
+La Salle,Georgetown,46,56,23,14,0,Jagan Mosely missed Free Throw.
+La Salle,Georgetown,46,56,23,14,0,Tony Washington Defensive Rebound.
+La Salle,Georgetown,48,56,23,29,1,Pookie Powell made Layup.
+La Salle,Georgetown,48,56,23,29,0,Foul on Jessie Govan.
+La Salle,Georgetown,48,56,23,29,0,Pookie Powell missed Free Throw.
+La Salle,Georgetown,48,56,23,29,0,Marcus Derrickson Defensive Rebound.
+La Salle,Georgetown,48,56,23,43,0,Foul on L.J. Peak.
+La Salle,Georgetown,48,56,23,43,0,L.J. Peak Turnover.
+La Salle,Georgetown,48,56,23,53,0,B.J. Johnson Turnover.
+La Salle,Georgetown,48,56,23,53,0,Jagan Mosely Steal.
+La Salle,Georgetown,48,56,23,55,0,Foul on Tony Washington.
+La Salle,Georgetown,48,56,23,58,0,Rodney Pryor missed Three Point Jumper.
+La Salle,Georgetown,48,56,23,58,0,La Salle Defensive Rebound.
+La Salle,Georgetown,48,56,24,4,0,Foul on Marcus Derrickson.
+La Salle,Georgetown,48,56,24,4,0,Official TV Timeout
+La Salle,Georgetown,50,56,24,17,1,Jordan Price made Jumper.
+La Salle,Georgetown,50,56,24,33,0,Bradley Hayes missed Jumper.
+La Salle,Georgetown,50,56,24,33,0,Demetrius Henry Defensive Rebound.
+La Salle,Georgetown,50,56,24,41,0,Jordan Price missed Jumper.
+La Salle,Georgetown,50,56,24,41,0,Marcus Derrickson Defensive Rebound.
+La Salle,Georgetown,50,56,24,53,0,Rodney Pryor missed Jumper.
+La Salle,Georgetown,50,56,24,53,0,Bradley Hayes Offensive Rebound.
+La Salle,Georgetown,50,56,24,53,0,Bradley Hayes missed Two Point Tip Shot.
+La Salle,Georgetown,50,56,24,53,0,Rodney Pryor Offensive Rebound.
+La Salle,Georgetown,50,56,24,57,0,Foul on Demetrius Henry.
+La Salle,Georgetown,50,56,24,57,0,Rodney Pryor missed Free Throw.
+La Salle,Georgetown,50,56,24,57,0,Georgetown Deadball Team Rebound.
+La Salle,Georgetown,50,57,24,57,1,Rodney Pryor made Free Throw.
+La Salle,Georgetown,52,57,25,18,1,Demetrius Henry made Layup. Assisted by B.J. Johnson.
+La Salle,Georgetown,52,57,25,41,0,Jagan Mosely missed Three Point Jumper.
+La Salle,Georgetown,52,57,25,41,0,Pookie Powell Defensive Rebound.
+La Salle,Georgetown,52,57,25,53,0,Demetrius Henry missed Jumper.
+La Salle,Georgetown,52,57,25,53,0,B.J. Johnson Offensive Rebound.
+La Salle,Georgetown,52,57,25,53,0,B.J. Johnson missed Two Point Tip Shot.
+La Salle,Georgetown,52,57,25,53,0,Pookie Powell Offensive Rebound.
+La Salle,Georgetown,52,57,25,58,0,B.J. Johnson missed Three Point Jumper.
+La Salle,Georgetown,52,57,25,58,0,Georgetown Defensive Rebound.
+La Salle,Georgetown,52,57,26,0,0,Foul on Demetrius Henry.
+La Salle,Georgetown,52,57,26,5,0,Foul on Amar Stukes.
+La Salle,Georgetown,52,57,26,5,0,L.J. Peak missed Free Throw.
+La Salle,Georgetown,52,57,26,5,0,B.J. Johnson Defensive Rebound.
+La Salle,Georgetown,52,57,26,23,0,Foul on Akoy Agau.
+La Salle,Georgetown,53,57,26,23,1,B.J. Johnson made Free Throw.
+La Salle,Georgetown,54,57,26,23,1,B.J. Johnson made Free Throw.
+La Salle,Georgetown,54,60,26,29,1,Jagan Mosely made Three Point Jumper. Assisted by Akoy Agau.
+La Salle,Georgetown,54,60,26,53,0,Johnnie Shuler Turnover.
+La Salle,Georgetown,54,60,26,53,0,Jagan Mosely Steal.
+La Salle,Georgetown,54,60,26,56,0,Jagan Mosely Turnover.
+La Salle,Georgetown,54,60,26,56,0,Johnnie Shuler Steal.
+La Salle,Georgetown,56,60,27,0,1,B.J. Johnson made Jumper.
+La Salle,Georgetown,56,60,27,22,0,Foul on Amar Stukes.
+La Salle,Georgetown,56,61,27,22,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,56,61,27,22,0,L.J. Peak missed Free Throw.
+La Salle,Georgetown,56,61,27,22,0,B.J. Johnson Defensive Rebound.
+La Salle,Georgetown,59,61,27,46,1,B.J. Johnson made Three Point Jumper. Assisted by Amar Stukes.
+La Salle,Georgetown,59,63,28,5,1,Rodney Pryor made Layup.
+La Salle,Georgetown,59,63,28,20,0,B.J. Johnson missed Three Point Jumper.
+La Salle,Georgetown,59,63,28,20,0,Akoy Agau Defensive Rebound.
+La Salle,Georgetown,59,63,28,43,0,Rodney Pryor missed Three Point Jumper.
+La Salle,Georgetown,59,63,28,43,0,B.J. Johnson Defensive Rebound.
+La Salle,Georgetown,59,63,28,58,0,Amar Stukes missed Layup.
+La Salle,Georgetown,59,63,28,58,0,Akoy Agau Block.
+La Salle,Georgetown,59,63,28,58,0,Amar Stukes Offensive Rebound.
+La Salle,Georgetown,59,63,29,4,0,Foul on Rodney Pryor.
+La Salle,Georgetown,59,63,29,4,0,Official TV Timeout
+La Salle,Georgetown,59,63,29,4,0,Johnnie Shuler missed Free Throw.
+La Salle,Georgetown,59,63,29,4,0,La Salle Deadball Team Rebound.
+La Salle,Georgetown,60,63,29,4,1,Johnnie Shuler made Free Throw.
+La Salle,Georgetown,60,63,29,28,0,Foul on Cleon Roberts.
+La Salle,Georgetown,60,64,29,28,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,60,65,29,28,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,62,65,29,38,1,B.J. Johnson made Jumper. Assisted by Yevgen Sakhniuk.
+La Salle,Georgetown,62,65,29,53,0,Foul on Johnnie Shuler.
+La Salle,Georgetown,62,66,29,53,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,62,67,29,53,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,64,67,30,3,1,Yevgen Sakhniuk made Jumper. Assisted by Jordan Price.
+La Salle,Georgetown,64,67,30,18,0,Jessie Govan Turnover.
+La Salle,Georgetown,64,67,30,26,0,Jump Ball won by La Salle
+La Salle,Georgetown,64,67,30,41,0,Foul on Tre Campbell.
+La Salle,Georgetown,65,67,30,41,1,Jordan Price made Free Throw.
+La Salle,Georgetown,66,67,30,41,1,Jordan Price made Free Throw.
+La Salle,Georgetown,66,67,31,2,0,Rodney Pryor Turnover.
+La Salle,Georgetown,66,67,31,16,0,Foul on L.J. Peak.
+La Salle,Georgetown,66,67,31,16,0,Jordan Price missed Free Throw.
+La Salle,Georgetown,66,67,31,16,0,La Salle Deadball Team Rebound.
+La Salle,Georgetown,67,67,31,16,1,Jordan Price made Free Throw.
+La Salle,Georgetown,67,69,31,32,1,Rodney Pryor made Layup.
+La Salle,Georgetown,67,69,31,53,0,B.J. Johnson Turnover.
+La Salle,Georgetown,67,69,31,53,0,Jessie Govan Steal.
+La Salle,Georgetown,67,69,32,1,0,Foul on Pookie Powell.
+La Salle,Georgetown,67,69,32,1,0,Official TV Timeout
+La Salle,Georgetown,67,70,32,1,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,67,71,32,1,1,L.J. Peak made Free Throw.
+La Salle,Georgetown,67,71,32,17,0,Jordan Price missed Three Point Jumper.
+La Salle,Georgetown,67,71,32,17,0,L.J. Peak Defensive Rebound.
+La Salle,Georgetown,67,71,32,34,0,Rodney Pryor missed Jumper.
+La Salle,Georgetown,67,71,32,34,0,Pookie Powell Defensive Rebound.
+La Salle,Georgetown,67,71,32,45,0,Pookie Powell missed Three Point Jumper.
+La Salle,Georgetown,67,71,32,45,0,Marcus Derrickson Defensive Rebound.
+La Salle,Georgetown,67,73,33,0,1,Jagan Mosely made Layup.
+La Salle,Georgetown,67,73,33,9,0,La Salle  Timeout
+La Salle,Georgetown,67,73,33,33,0,Foul on Jessie Govan.
+La Salle,Georgetown,67,73,33,33,0,Demetrius Henry missed Free Throw.
+La Salle,Georgetown,67,73,33,33,0,La Salle Deadball Team Rebound.
+La Salle,Georgetown,68,73,33,33,1,Demetrius Henry made Free Throw.
+La Salle,Georgetown,68,75,33,42,1,Jessie Govan made Layup. Assisted by L.J. Peak.
+La Salle,Georgetown,68,75,33,42,0,Foul on Demetrius Henry.
+La Salle,Georgetown,68,76,33,42,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,68,76,33,55,0,B.J. Johnson missed Jumper.
+La Salle,Georgetown,68,76,33,55,0,L.J. Peak Block.
+La Salle,Georgetown,68,76,33,55,0,Georgetown Defensive Rebound.
+La Salle,Georgetown,68,76,33,57,0,Foul on Tony Washington.
+La Salle,Georgetown,68,77,33,57,1,Akoy Agau made Free Throw.
+La Salle,Georgetown,68,78,33,57,1,Akoy Agau made Free Throw.
+La Salle,Georgetown,68,78,34,0,0,La Salle  Timeout
+La Salle,Georgetown,68,78,34,16,0,Jordan Price missed Jumper.
+La Salle,Georgetown,68,78,34,16,0,Marcus Derrickson Defensive Rebound.
+La Salle,Georgetown,68,78,34,30,0,L.J. Peak missed Layup.
+La Salle,Georgetown,68,78,34,30,0,B.J. Johnson Defensive Rebound.
+La Salle,Georgetown,70,78,34,39,1,Pookie Powell made Jumper.
+La Salle,Georgetown,70,80,34,59,1,Marcus Derrickson made Jumper. Assisted by Jagan Mosely.
+La Salle,Georgetown,70,80,35,16,0,Foul on L.J. Peak.
+La Salle,Georgetown,71,80,35,16,1,Cleon Roberts made Free Throw.
+La Salle,Georgetown,72,80,35,16,1,Cleon Roberts made Free Throw.
+La Salle,Georgetown,72,82,35,40,1,L.J. Peak made Jumper. Assisted by Jagan Mosely.
+La Salle,Georgetown,74,82,35,53,1,Jordan Price made Layup.
+La Salle,Georgetown,74,82,35,53,0,Foul on Marcus Derrickson.
+La Salle,Georgetown,75,82,35,53,1,Jordan Price made Free Throw.
+La Salle,Georgetown,75,85,36,12,1,Rodney Pryor made Three Point Jumper. Assisted by Jagan Mosely.
+La Salle,Georgetown,75,85,36,26,0,B.J. Johnson missed Three Point Jumper.
+La Salle,Georgetown,75,85,36,26,0,Rodney Pryor Defensive Rebound.
+La Salle,Georgetown,75,85,36,40,0,Georgetown  Timeout
+La Salle,Georgetown,75,85,37,0,0,Jessie Govan missed Layup.
+La Salle,Georgetown,75,85,37,0,0,Rodney Pryor Offensive Rebound.
+La Salle,Georgetown,75,85,37,0,0,Rodney Pryor missed Two Point Tip Shot.
+La Salle,Georgetown,75,85,37,0,0,Pookie Powell Defensive Rebound.
+La Salle,Georgetown,75,85,37,12,0,Foul on B.J. Johnson.
+La Salle,Georgetown,75,85,37,12,0,B.J. Johnson Turnover.
+La Salle,Georgetown,75,85,37,27,0,Foul on Amar Stukes.
+La Salle,Georgetown,75,86,37,27,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,75,87,37,27,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,75,87,37,34,0,B.J. Johnson missed Jumper.
+La Salle,Georgetown,75,87,37,34,0,Rodney Pryor Block.
+La Salle,Georgetown,75,87,37,34,0,Jessie Govan Defensive Rebound.
+La Salle,Georgetown,75,87,38,0,0,Jessie Govan missed Jumper.
+La Salle,Georgetown,75,87,38,0,0,Marcus Derrickson Offensive Rebound.
+La Salle,Georgetown,75,89,38,7,1,Marcus Derrickson made Layup.
+La Salle,Georgetown,75,89,38,19,0,Jordan Price Turnover.
+La Salle,Georgetown,75,89,38,19,0,Rodney Pryor Steal.
+La Salle,Georgetown,75,89,38,20,0,L.J. Peak Turnover.
+La Salle,Georgetown,75,89,38,20,0,Johnnie Shuler Steal.
+La Salle,Georgetown,75,89,38,26,0,Isiah Deas missed Three Point Jumper.
+La Salle,Georgetown,75,89,38,26,0,Jagan Mosely Defensive Rebound.
+La Salle,Georgetown,75,89,38,55,0,Foul on Isiah Deas.
+La Salle,Georgetown,75,90,38,55,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,75,91,38,55,1,Jessie Govan made Free Throw.
+La Salle,Georgetown,75,91,39,7,0,Foul on Rodney Pryor.
+La Salle,Georgetown,75,91,39,7,0,Johnnie Shuler missed Free Throw.
+La Salle,Georgetown,75,91,39,7,0,La Salle Deadball Team Rebound.
+La Salle,Georgetown,76,91,39,7,1,Johnnie Shuler made Free Throw.
+La Salle,Georgetown,76,93,39,30,1,L.J. Peak made Layup. Assisted by Jessie Govan.
+La Salle,Georgetown,76,93,39,41,0,Foul on Jagan Mosely.
+La Salle,Georgetown,77,93,39,41,1,Hank Davis made Free Throw.
+La Salle,Georgetown,78,93,39,41,1,Hank Davis made Free Throw.
+La Salle,Georgetown,78,93,40,0,0,End of Game

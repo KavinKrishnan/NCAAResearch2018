@@ -1,0 +1,412 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Marshall,UAB,2,0,0,11,1,Aleksa Nikolic made Layup.
+Marshall,UAB,2,0,0,32,0,William Lee Turnover.
+Marshall,UAB,2,0,0,33,0,Austin Loop Steal.
+Marshall,UAB,2,0,0,39,0,Nick Norton Turnover.
+Marshall,UAB,2,0,0,54,0,Justin Edmonds missed Jumper.
+Marshall,UAB,2,0,0,54,0,William Lee Defensive Rebound.
+Marshall,UAB,2,0,1,0,0,Tosin Mehinti missed Jumper.
+Marshall,UAB,2,0,1,0,0,Ryan Taylor Defensive Rebound.
+Marshall,UAB,2,0,1,0,0,Foul on William Lee.
+Marshall,UAB,2,0,1,15,0,Aleksa Nikolic missed Layup.
+Marshall,UAB,2,0,1,15,0,Robert Brown Defensive Rebound.
+Marshall,UAB,2,0,1,32,0,William Lee missed Jumper.
+Marshall,UAB,2,0,1,32,0,Ryan Taylor Defensive Rebound.
+Marshall,UAB,4,0,1,43,1,JP Kambola made Layup. Assisted by Justin Edmonds.
+Marshall,UAB,4,0,2,16,0,Robert Brown missed Jumper.
+Marshall,UAB,4,0,2,16,0,Ryan Taylor Defensive Rebound.
+Marshall,UAB,7,0,2,25,1,Justin Edmonds made Three Point Jumper. Assisted by Ryan Taylor.
+Marshall,UAB,7,0,2,42,0,Foul on Ryan Taylor.
+Marshall,UAB,7,0,2,42,0,Tosin Mehinti missed Free Throw.
+Marshall,UAB,7,0,2,42,0,UAB Deadball Team Rebound.
+Marshall,UAB,7,1,2,42,1,Tosin Mehinti made Free Throw.
+Marshall,UAB,7,1,2,53,0,Aleksa Nikolic missed Jumper.
+Marshall,UAB,7,1,2,53,0,William Lee Block.
+Marshall,UAB,7,1,2,55,0,William Lee Defensive Rebound.
+Marshall,UAB,7,1,2,59,0,Foul on JP Kambola.
+Marshall,UAB,7,1,2,59,0,William Lee missed Free Throw.
+Marshall,UAB,7,1,2,59,0,UAB Deadball Team Rebound.
+Marshall,UAB,7,2,2,59,1,William Lee made Free Throw.
+Marshall,UAB,7,2,3,9,0,JP Kambola missed Three Point Jumper.
+Marshall,UAB,7,2,3,9,0,William Lee Defensive Rebound.
+Marshall,UAB,7,2,3,9,0,William Lee Defensive Rebound.
+Marshall,UAB,7,2,3,29,0,Robert Brown missed Three Point Jumper.
+Marshall,UAB,7,2,3,29,0,JP Kambola Defensive Rebound.
+Marshall,UAB,7,2,3,39,0,Ryan Taylor missed Jumper.
+Marshall,UAB,7,2,3,39,0,Ryan Taylor missed Jumper.
+Marshall,UAB,7,2,3,39,0,Chris Cokley Defensive Rebound.
+Marshall,UAB,7,2,3,39,0,Chris Cokley Defensive Rebound.
+Marshall,UAB,7,2,3,55,0,Chris Cokley missed Layup.
+Marshall,UAB,7,2,3,55,0,William Lee Offensive Rebound.
+Marshall,UAB,7,2,4,12,0,William Lee missed Jumper.
+Marshall,UAB,7,2,4,12,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,7,2,4,15,0,Chris Cokley missed Layup.
+Marshall,UAB,7,2,4,15,0,JP Kambola Block.
+Marshall,UAB,7,2,4,15,0,William Lee Offensive Rebound.
+Marshall,UAB,7,2,4,15,0,Foul on Ryan Taylor.
+Marshall,UAB,7,2,4,15,0,Official TV Timeout
+Marshall,UAB,7,3,4,15,1,William Lee made Free Throw.
+Marshall,UAB,7,4,4,15,1,William Lee made Free Throw.
+Marshall,UAB,7,4,4,40,0,Jay Johnson missed Three Point Jumper.
+Marshall,UAB,7,4,4,40,0,William Lee Block.
+Marshall,UAB,7,4,4,42,0,Chris Cokley Defensive Rebound.
+Marshall,UAB,7,6,4,55,1,Hakeem Baxter made Layup.
+Marshall,UAB,7,6,5,17,0,Austin Loop missed Three Point Jumper.
+Marshall,UAB,7,6,5,17,0,William Lee Defensive Rebound.
+Marshall,UAB,7,6,5,20,0,Foul on Jay Johnson.
+Marshall,UAB,7,6,5,39,0,Foul on Jay Johnson.
+Marshall,UAB,7,6,5,47,0,Robert Brown missed Jumper.
+Marshall,UAB,7,6,5,47,0,Aleksa Nikolic Defensive Rebound.
+Marshall,UAB,7,6,6,24,0,Aleksa Nikolic Turnover.
+Marshall,UAB,7,6,6,40,0,Tyler Madison Turnover.
+Marshall,UAB,7,6,6,41,0,Jay Johnson Steal.
+Marshall,UAB,7,6,6,50,0,Austin Loop missed Jumper.
+Marshall,UAB,7,6,6,50,0,Marshall Offensive Rebound.
+Marshall,UAB,7,6,6,59,0,Jay Johnson missed Three Point Jumper.
+Marshall,UAB,7,6,6,59,0,Denzell Watts Defensive Rebound.
+Marshall,UAB,7,6,7,19,0,Foul on Aleksa Nikolic.
+Marshall,UAB,7,6,7,35,0,Lewis Sullivan missed Jumper.
+Marshall,UAB,7,6,7,35,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,7,6,7,38,0,Chris Cokley missed Jumper.
+Marshall,UAB,7,6,7,38,0,UAB Offensive Rebound.
+Marshall,UAB,7,6,7,43,0,Denzell Watts Turnover.
+Marshall,UAB,7,6,7,44,0,Cheikh Sane Steal.
+Marshall,UAB,7,6,7,49,0,DeVince Boykins Turnover.
+Marshall,UAB,7,8,8,3,1,Robert Brown made Layup.
+Marshall,UAB,9,8,8,18,1,Cheikh Sane made Layup. Assisted by DeVince Boykins.
+Marshall,UAB,9,8,8,18,0,Foul on Chris Cokley.
+Marshall,UAB,9,8,8,18,0,Official TV Timeout
+Marshall,UAB,9,8,8,18,0,Official TV Timeout
+Marshall,UAB,9,8,8,18,0,Cheikh Sane missed Free Throw.
+Marshall,UAB,9,8,8,18,0,Chris Cokley Defensive Rebound.
+Marshall,UAB,9,8,8,18,0,Chris Cokley Defensive Rebound.
+Marshall,UAB,9,8,8,32,0,Chris Cokley Turnover.
+Marshall,UAB,9,8,8,40,0,Foul on Tyler Madison.
+Marshall,UAB,9,8,8,54,0,Cheikh Sane missed Dunk.
+Marshall,UAB,9,8,8,54,0,Cheikh Sane Offensive Rebound.
+Marshall,UAB,9,8,8,57,0,Cheikh Sane missed Layup.
+Marshall,UAB,9,8,8,57,0,Chris Cokley Block.
+Marshall,UAB,9,8,8,59,0,Cheikh Sane Offensive Rebound.
+Marshall,UAB,11,8,9,2,1,Cheikh Sane made Layup.
+Marshall,UAB,11,10,9,33,1,Denzell Watts made Jumper.
+Marshall,UAB,11,10,9,48,0,Tamron Manning Turnover.
+Marshall,UAB,11,10,9,50,0,Denzell Watts Steal.
+Marshall,UAB,11,10,9,52,0,Denzell Watts missed Layup.
+Marshall,UAB,11,10,9,52,0,Jay Johnson Block.
+Marshall,UAB,11,10,9,52,0,Jay Johnson Block.
+Marshall,UAB,11,10,9,52,0,Marshall Defensive Rebound.
+Marshall,UAB,11,10,9,52,0,Marshall Defensive Rebound.
+Marshall,UAB,13,10,10,14,1,DeVince Boykins made Jumper.
+Marshall,UAB,13,10,10,45,0,Tyler Madison Turnover.
+Marshall,UAB,13,10,10,46,0,Jay Johnson Steal.
+Marshall,UAB,13,10,11,0,0,Justin Edmonds missed Layup.
+Marshall,UAB,13,10,11,0,0,Hakeem Baxter Defensive Rebound.
+Marshall,UAB,13,10,11,9,0,Foul on Cheikh Sane.
+Marshall,UAB,13,11,11,9,1,William Lee made Free Throw.
+Marshall,UAB,13,12,11,9,1,William Lee made Free Throw.
+Marshall,UAB,15,12,11,19,1,JP Kambola made Layup. Assisted by Justin Edmonds.
+Marshall,UAB,15,15,11,42,1,William Lee made Three Point Jumper. Assisted by Hakeem Baxter.
+Marshall,UAB,15,15,11,52,0,Foul on Hakeem Baxter.
+Marshall,UAB,15,15,11,52,0,Foul on Hakeem Baxter.
+Marshall,UAB,15,15,11,58,0,Aleksa Nikolic missed Three Point Jumper.
+Marshall,UAB,15,15,11,58,0,Tosin Mehinti Defensive Rebound.
+Marshall,UAB,15,15,12,10,0,Nick Norton missed Three Point Jumper.
+Marshall,UAB,15,15,12,10,0,Nick Norton missed Three Point Jumper.
+Marshall,UAB,15,15,12,10,0,Jay Johnson Defensive Rebound.
+Marshall,UAB,15,15,12,10,0,Jay Johnson Defensive Rebound.
+Marshall,UAB,15,15,12,20,0,JP Kambola Turnover.
+Marshall,UAB,15,15,12,20,0,JP Kambola Turnover.
+Marshall,UAB,15,15,12,22,0,Robert Brown Steal.
+Marshall,UAB,15,15,12,32,0,Official TV Timeout
+Marshall,UAB,15,15,12,46,0,Nick Norton Turnover.
+Marshall,UAB,17,15,12,59,1,Justin Edmonds made Layup.
+Marshall,UAB,17,15,12,59,1,Justin Edmonds made Layup.
+Marshall,UAB,17,15,13,16,0,Tosin Mehinti missed Jumper.
+Marshall,UAB,17,15,13,16,0,JP Kambola Defensive Rebound.
+Marshall,UAB,17,15,13,26,0,Justin Edmonds missed Three Point Jumper.
+Marshall,UAB,17,15,13,26,0,Hakeem Baxter Defensive Rebound.
+Marshall,UAB,17,17,13,35,1,Hakeem Baxter made Layup.
+Marshall,UAB,17,17,13,51,0,Foul on Lewis Sullivan.
+Marshall,UAB,17,17,14,9,0,Ryan Taylor missed Three Point Jumper.
+Marshall,UAB,17,17,14,9,0,Hakeem Baxter Defensive Rebound.
+Marshall,UAB,17,19,14,16,1,Hakeem Baxter made Layup.
+Marshall,UAB,17,19,14,25,0,Ryan Taylor Turnover.
+Marshall,UAB,17,19,14,25,0,Foul on Ryan Taylor.
+Marshall,UAB,17,19,14,25,0,Ryan Taylor Turnover.
+Marshall,UAB,17,19,14,25,0,Foul on Ryan Taylor.
+Marshall,UAB,17,19,14,38,0,Lewis Sullivan missed Three Point Jumper.
+Marshall,UAB,17,19,14,38,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,17,19,14,38,0,Lewis Sullivan missed Three Point Jumper.
+Marshall,UAB,17,19,14,38,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,17,19,14,52,0,Hakeem Baxter missed Layup.
+Marshall,UAB,17,19,14,52,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,17,19,14,52,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,17,19,14,53,0,Chris Cokley missed Layup.
+Marshall,UAB,17,19,14,53,0,Chris Cokley missed Layup.
+Marshall,UAB,17,19,14,53,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,17,19,14,53,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,17,21,14,56,1,Chris Cokley made Layup.
+Marshall,UAB,17,21,15,2,0,DeVince Boykins missed Layup.
+Marshall,UAB,17,21,15,2,0,Chris Cokley Defensive Rebound.
+Marshall,UAB,17,21,15,12,0,Nick Norton missed Three Point Jumper.
+Marshall,UAB,17,21,15,12,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,17,21,15,17,0,Robert Brown missed Layup.
+Marshall,UAB,17,21,15,17,0,JP Kambola Block.
+Marshall,UAB,17,21,15,19,0,William Lee Offensive Rebound.
+Marshall,UAB,17,21,15,21,0,Foul on Jay Johnson.
+Marshall,UAB,17,21,15,21,0,William Lee missed Free Throw.
+Marshall,UAB,17,21,15,21,0,William Lee missed Free Throw.
+Marshall,UAB,17,21,15,21,0,Jay Johnson Defensive Rebound.
+Marshall,UAB,17,21,15,38,0,Aleksa Nikolic missed Three Point Jumper.
+Marshall,UAB,17,21,15,38,0,Aleksa Nikolic missed Three Point Jumper.
+Marshall,UAB,17,21,15,38,0,Denzell Watts Defensive Rebound.
+Marshall,UAB,17,21,15,38,0,Denzell Watts Defensive Rebound.
+Marshall,UAB,17,23,15,47,1,Chris Cokley made Layup. Assisted by Robert Brown.
+Marshall,UAB,17,23,16,1,0,Aleksa Nikolic missed Layup.
+Marshall,UAB,17,23,16,1,0,JP Kambola Offensive Rebound.
+Marshall,UAB,17,23,16,1,0,Aleksa Nikolic missed Layup.
+Marshall,UAB,17,23,16,1,0,JP Kambola Offensive Rebound.
+Marshall,UAB,17,23,16,7,0,JP Kambola missed Layup.
+Marshall,UAB,17,23,16,7,0,William Lee Defensive Rebound.
+Marshall,UAB,17,23,16,7,0,William Lee Defensive Rebound.
+Marshall,UAB,17,25,16,14,1,William Lee made Dunk. Assisted by Nick Norton.
+Marshall,UAB,17,25,16,14,1,William Lee made Dunk. Assisted by Nick Norton.
+Marshall,UAB,17,25,16,16,0,Marshall  Timeout
+Marshall,UAB,17,25,16,17,0,Official TV Timeout
+Marshall,UAB,17,25,16,35,0,Justin Edmonds Turnover.
+Marshall,UAB,17,25,16,36,0,Denzell Watts Steal.
+Marshall,UAB,17,25,16,42,0,Robert Brown missed Layup.
+Marshall,UAB,17,25,16,42,0,UAB Offensive Rebound.
+Marshall,UAB,17,25,16,45,0,Chris Cokley missed Layup.
+Marshall,UAB,17,25,16,45,0,JP Kambola Defensive Rebound.
+Marshall,UAB,17,25,16,58,0,Justin Edmonds missed Jumper.
+Marshall,UAB,17,25,16,58,0,Denzell Watts Defensive Rebound.
+Marshall,UAB,17,25,16,58,0,Denzell Watts Defensive Rebound.
+Marshall,UAB,17,25,17,7,0,Robert Brown Turnover.
+Marshall,UAB,17,25,17,26,0,JP Kambola missed Three Point Jumper.
+Marshall,UAB,17,25,17,26,0,Milan Mijovic Offensive Rebound.
+Marshall,UAB,17,25,17,26,0,JP Kambola missed Three Point Jumper.
+Marshall,UAB,17,25,17,26,0,Milan Mijovic Offensive Rebound.
+Marshall,UAB,20,25,17,32,1,Justin Edmonds made Three Point Jumper. Assisted by Aleksa Nikolic.
+Marshall,UAB,20,25,17,51,0,William Lee missed Jumper.
+Marshall,UAB,20,25,17,51,0,JP Kambola Defensive Rebound.
+Marshall,UAB,20,25,17,59,0,Austin Loop missed Three Point Jumper.
+Marshall,UAB,20,25,17,59,0,Austin Loop Offensive Rebound.
+Marshall,UAB,20,25,18,13,0,Aleksa Nikolic Turnover.
+Marshall,UAB,20,25,18,13,0,Aleksa Nikolic Turnover.
+Marshall,UAB,20,25,18,14,0,Hakeem Baxter Steal.
+Marshall,UAB,20,25,18,14,0,Hakeem Baxter Steal.
+Marshall,UAB,20,25,18,15,0,Foul on Milan Mijovic.
+Marshall,UAB,20,26,18,15,1,Hakeem Baxter made Free Throw.
+Marshall,UAB,20,26,18,15,1,Hakeem Baxter made Free Throw.
+Marshall,UAB,20,26,18,15,0,Hakeem Baxter missed Free Throw.
+Marshall,UAB,20,26,18,15,0,Hakeem Baxter missed Free Throw.
+Marshall,UAB,20,26,18,15,0,JP Kambola Defensive Rebound.
+Marshall,UAB,20,26,18,15,0,JP Kambola Defensive Rebound.
+Marshall,UAB,20,26,18,40,0,Foul on Hakeem Baxter.
+Marshall,UAB,20,26,18,40,0,Foul on Hakeem Baxter.
+Marshall,UAB,20,26,18,59,0,Aleksa Nikolic missed Three Point Jumper.
+Marshall,UAB,20,26,18,59,0,Tosin Mehinti Defensive Rebound.
+Marshall,UAB,20,28,19,4,1,Tyler Madison made Dunk. Assisted by Denzell Watts.
+Marshall,UAB,20,28,19,4,1,Tyler Madison made Dunk. Assisted by Denzell Watts.
+Marshall,UAB,20,28,19,8,0,Aleksa Nikolic Turnover.
+Marshall,UAB,20,28,19,9,0,UAB  Timeout
+Marshall,UAB,20,28,19,9,0,UAB  Timeout
+Marshall,UAB,20,28,19,15,0,Robert Brown missed Three Point Jumper.
+Marshall,UAB,20,28,19,15,0,William Lee Offensive Rebound.
+Marshall,UAB,20,30,19,17,1,Tyler Madison made Layup. Assisted by William Lee.
+Marshall,UAB,20,30,19,17,0,Foul on Austin Loop.
+Marshall,UAB,20,31,19,17,1,Tyler Madison made Free Throw.
+Marshall,UAB,22,31,19,33,1,Milan Mijovic made Jumper. Assisted by DeVince Boykins.
+Marshall,UAB,22,31,19,33,1,Milan Mijovic made Jumper.
+Marshall,UAB,22,31,19,57,0,Robert Brown missed Three Point Jumper.
+Marshall,UAB,22,31,19,57,0,Robert Brown missed Three Point Jumper.
+Marshall,UAB,22,31,19,57,0,DeVince Boykins Defensive Rebound.
+Marshall,UAB,22,31,20,0,0,End of 1st half
+Marshall,UAB,22,34,20,14,1,Nick Norton made Three Point Jumper. Assisted by Robert Brown.
+Marshall,UAB,22,34,20,30,0,Jay Johnson missed Three Point Jumper.
+Marshall,UAB,22,34,20,30,0,Robert Brown Defensive Rebound.
+Marshall,UAB,22,34,21,1,0,Robert Brown missed Three Point Jumper.
+Marshall,UAB,22,34,21,1,0,Marshall Defensive Rebound.
+Marshall,UAB,22,34,21,22,0,Foul on Hakeem Baxter.
+Marshall,UAB,22,34,21,37,0,Justin Edmonds missed Layup.
+Marshall,UAB,22,34,21,37,0,Jay Johnson Offensive Rebound.
+Marshall,UAB,22,34,21,37,0,Jay Johnson Offensive Rebound.
+Marshall,UAB,24,34,21,39,1,Jay Johnson made Layup.
+Marshall,UAB,24,34,21,39,1,Jay Johnson made Layup.
+Marshall,UAB,24,37,21,53,1,Nick Norton made Three Point Jumper.
+Marshall,UAB,24,37,22,7,0,Justin Edmonds missed Layup.
+Marshall,UAB,24,37,22,7,0,Justin Edmonds Offensive Rebound.
+Marshall,UAB,24,37,22,8,0,Foul on Tosin Mehinti.
+Marshall,UAB,24,37,22,8,0,Justin Edmonds missed Free Throw.
+Marshall,UAB,24,37,22,8,0,Marshall Deadball Team Rebound.
+Marshall,UAB,25,37,22,8,1,Justin Edmonds made Free Throw.
+Marshall,UAB,25,37,22,32,0,Robert Brown missed Dunk.
+Marshall,UAB,25,37,22,32,0,Austin Loop Defensive Rebound.
+Marshall,UAB,25,37,22,39,0,Tamron Manning missed Layup.
+Marshall,UAB,25,37,22,39,0,Denzell Watts Defensive Rebound.
+Marshall,UAB,25,39,22,51,1,Tosin Mehinti made Jumper. Assisted by Denzell Watts.
+Marshall,UAB,27,39,23,4,1,Tamron Manning made Jumper.
+Marshall,UAB,27,39,23,39,0,Robert Brown missed Layup.
+Marshall,UAB,27,39,23,39,0,Jay Johnson Defensive Rebound.
+Marshall,UAB,27,39,23,52,0,Justin Edmonds Turnover.
+Marshall,UAB,27,39,23,52,0,Robert Brown Steal.
+Marshall,UAB,27,39,23,52,0,Robert Brown Turnover.
+Marshall,UAB,29,39,24,8,1,Tamron Manning made Layup.
+Marshall,UAB,29,39,24,26,0,Chris Cokley missed Layup.
+Marshall,UAB,29,39,24,26,0,Aleksa Nikolic Defensive Rebound.
+Marshall,UAB,29,39,24,42,0,Austin Loop missed Three Point Jumper.
+Marshall,UAB,29,39,24,42,0,Aleksa Nikolic Offensive Rebound.
+Marshall,UAB,29,39,24,49,0,Jay Johnson missed Three Point Jumper.
+Marshall,UAB,29,39,24,49,0,Denzell Watts Defensive Rebound.
+Marshall,UAB,29,41,25,9,1,Chris Cokley made Layup. Assisted by William Lee.
+Marshall,UAB,29,41,25,25,0,Foul on William Lee.
+Marshall,UAB,29,41,25,25,0,Official TV Timeout
+Marshall,UAB,29,41,25,25,0,Jay Johnson missed Free Throw.
+Marshall,UAB,29,41,25,25,0,Marshall Deadball Team Rebound.
+Marshall,UAB,30,41,25,25,1,Jay Johnson made Free Throw.
+Marshall,UAB,30,41,25,38,0,Chris Cokley missed Jumper.
+Marshall,UAB,30,41,25,38,0,Tyler Madison Offensive Rebound.
+Marshall,UAB,30,43,25,44,1,Chris Cokley made Layup.
+Marshall,UAB,30,43,25,44,0,Foul on JP Kambola.
+Marshall,UAB,30,44,25,44,1,Chris Cokley made Free Throw.
+Marshall,UAB,30,44,26,6,0,Austin Loop missed Three Point Jumper.
+Marshall,UAB,30,44,26,6,0,JP Kambola Offensive Rebound.
+Marshall,UAB,32,44,26,12,1,JP Kambola made Layup.
+Marshall,UAB,32,44,26,39,0,Tyler Madison missed Layup.
+Marshall,UAB,32,44,26,39,0,Chris Cokley Offensive Rebound.
+Marshall,UAB,32,44,26,41,0,Chris Cokley missed Layup.
+Marshall,UAB,32,44,26,41,0,JP Kambola Defensive Rebound.
+Marshall,UAB,32,44,26,51,0,Tamron Manning missed Layup.
+Marshall,UAB,32,44,26,51,0,Chris Cokley Defensive Rebound.
+Marshall,UAB,32,44,27,8,0,Foul on Austin Loop.
+Marshall,UAB,32,44,27,13,0,Tyler Madison missed Layup.
+Marshall,UAB,32,44,27,13,0,Ryan Taylor Defensive Rebound.
+Marshall,UAB,32,44,27,13,0,Ryan Taylor Defensive Rebound.
+Marshall,UAB,32,44,27,28,0,Ryan Taylor Turnover.
+Marshall,UAB,32,44,28,2,0,Chris Cokley missed Jumper.
+Marshall,UAB,32,44,28,2,0,Lewis Sullivan Offensive Rebound.
+Marshall,UAB,32,44,28,25,0,Tyler Madison missed Layup.
+Marshall,UAB,32,44,28,25,0,JP Kambola Block.
+Marshall,UAB,32,44,28,26,0,Austin Loop Defensive Rebound.
+Marshall,UAB,32,44,28,36,0,Ryan Taylor missed Layup.
+Marshall,UAB,32,44,28,36,0,Denzell Watts Defensive Rebound.
+Marshall,UAB,32,44,28,40,0,Foul on Tamron Manning.
+Marshall,UAB,32,44,28,40,0,Official TV Timeout
+Marshall,UAB,32,45,28,40,1,Denzell Watts made Free Throw.
+Marshall,UAB,32,45,28,40,0,Denzell Watts missed Free Throw.
+Marshall,UAB,32,45,28,40,0,Ryan Taylor Defensive Rebound.
+Marshall,UAB,32,45,28,51,0,Foul on Lewis Sullivan.
+Marshall,UAB,33,45,28,51,1,Ryan Taylor made Free Throw.
+Marshall,UAB,34,45,28,51,1,Ryan Taylor made Free Throw.
+Marshall,UAB,34,45,29,9,0,Hakeem Baxter missed Layup.
+Marshall,UAB,34,45,29,9,0,Hakeem Baxter missed Layup.
+Marshall,UAB,34,45,29,9,0,Lewis Sullivan Offensive Rebound.
+Marshall,UAB,34,45,29,9,0,Lewis Sullivan Offensive Rebound.
+Marshall,UAB,34,47,29,11,1,Lewis Sullivan made Layup.
+Marshall,UAB,34,47,29,29,0,JP Kambola missed Three Point Jumper.
+Marshall,UAB,34,47,29,29,0,Hakeem Baxter Defensive Rebound.
+Marshall,UAB,34,47,29,44,0,Foul on Aleksa Nikolic.
+Marshall,UAB,34,48,29,44,1,Hakeem Baxter made Free Throw.
+Marshall,UAB,34,48,29,44,0,Hakeem Baxter missed Free Throw.
+Marshall,UAB,34,48,29,44,0,Ryan Taylor Defensive Rebound.
+Marshall,UAB,34,48,29,58,0,Milan Mijovic missed Jumper.
+Marshall,UAB,34,48,29,58,0,Ryan Taylor Offensive Rebound.
+Marshall,UAB,34,48,30,0,0,Foul on Tosin Mehinti.
+Marshall,UAB,34,48,30,0,0,Ryan Taylor missed Free Throw.
+Marshall,UAB,34,48,30,0,0,Marshall Deadball Team Rebound.
+Marshall,UAB,35,48,30,0,1,Ryan Taylor made Free Throw.
+Marshall,UAB,35,50,30,12,1,Robert Brown made Layup. Assisted by Lewis Sullivan.
+Marshall,UAB,35,50,30,24,0,Aleksa Nikolic missed Jumper.
+Marshall,UAB,35,50,30,24,0,Lewis Sullivan Defensive Rebound.
+Marshall,UAB,35,50,30,44,0,Tosin Mehinti missed Jumper.
+Marshall,UAB,35,50,30,44,0,Tosin Mehinti missed Jumper.
+Marshall,UAB,35,50,30,44,0,Justin Edmonds Defensive Rebound.
+Marshall,UAB,35,50,30,57,0,Ryan Taylor missed Three Point Jumper.
+Marshall,UAB,35,50,30,57,0,Tamron Manning Offensive Rebound.
+Marshall,UAB,35,50,31,3,0,Justin Edmonds missed Three Point Jumper.
+Marshall,UAB,35,50,31,3,0,Robert Brown Defensive Rebound.
+Marshall,UAB,35,52,31,21,1,Denzell Watts made Jumper. Assisted by Lewis Sullivan.
+Marshall,UAB,35,52,31,37,0,Ryan Taylor Turnover.
+Marshall,UAB,35,52,31,37,0,Foul on Ryan Taylor.
+Marshall,UAB,35,54,31,52,1,Lewis Sullivan made Layup. Assisted by William Lee.
+Marshall,UAB,35,54,31,52,1,Lewis Sullivan made Layup. Assisted by William Lee.
+Marshall,UAB,35,54,32,19,0,Aleksa Nikolic Turnover.
+Marshall,UAB,35,54,32,19,0,Aleksa Nikolic Turnover.
+Marshall,UAB,35,54,32,21,0,William Lee Steal.
+Marshall,UAB,35,54,32,21,0,William Lee Steal.
+Marshall,UAB,35,54,32,25,0,Denzell Watts missed Layup.
+Marshall,UAB,35,54,32,25,0,William Lee Offensive Rebound.
+Marshall,UAB,35,56,32,28,1,William Lee made Layup.
+Marshall,UAB,35,56,32,39,0,Foul on William Lee.
+Marshall,UAB,35,56,32,39,0,Foul on William Lee.
+Marshall,UAB,35,56,32,39,0,Official TV Timeout
+Marshall,UAB,36,56,32,39,1,Justin Edmonds made Free Throw.
+Marshall,UAB,37,56,32,39,1,Justin Edmonds made Free Throw.
+Marshall,UAB,37,56,32,39,1,Justin Edmonds made Free Throw.
+Marshall,UAB,37,56,33,11,0,Nick Norton missed Three Point Jumper.
+Marshall,UAB,37,56,33,11,0,Austin Loop Defensive Rebound.
+Marshall,UAB,37,56,33,12,0,Foul on Lewis Sullivan.
+Marshall,UAB,38,56,33,12,1,Austin Loop made Free Throw.
+Marshall,UAB,39,56,33,12,1,Austin Loop made Free Throw.
+Marshall,UAB,39,58,33,40,1,Robert Brown made Dunk.
+Marshall,UAB,39,58,34,1,0,Aleksa Nikolic Turnover.
+Marshall,UAB,39,58,34,1,0,Foul on Aleksa Nikolic.
+Marshall,UAB,39,58,34,1,0,Foul on Aleksa Nikolic.
+Marshall,UAB,39,58,34,16,0,Robert Brown Turnover.
+Marshall,UAB,39,58,34,17,0,Justin Edmonds Steal.
+Marshall,UAB,39,58,34,37,0,Justin Edmonds missed Three Point Jumper.
+Marshall,UAB,39,58,34,37,0,Chris Cokley Defensive Rebound.
+Marshall,UAB,39,58,34,43,0,Foul on Austin Loop.
+Marshall,UAB,39,59,34,43,1,William Lee made Free Throw.
+Marshall,UAB,39,60,34,43,1,William Lee made Free Throw.
+Marshall,UAB,41,60,34,55,1,Ryan Taylor made Layup.
+Marshall,UAB,41,60,34,55,0,Foul on William Lee.
+Marshall,UAB,42,60,34,55,1,Ryan Taylor made Free Throw.
+Marshall,UAB,42,60,34,55,1,Ryan Taylor made Free Throw.
+Marshall,UAB,42,62,35,5,1,William Lee made Layup. Assisted by Chris Cokley.
+Marshall,UAB,42,62,35,5,1,William Lee made Layup. Assisted by Chris Cokley.
+Marshall,UAB,42,62,35,24,0,Jay Johnson missed Jumper.
+Marshall,UAB,42,62,35,24,0,Nick Norton Defensive Rebound.
+Marshall,UAB,42,64,35,34,1,Chris Cokley made Layup. Assisted by Nick Norton.
+Marshall,UAB,45,64,35,49,1,Ryan Taylor made Three Point Jumper. Assisted by Aleksa Nikolic.
+Marshall,UAB,45,64,35,49,1,Ryan Taylor made Three Point Jumper.
+Marshall,UAB,45,64,36,17,0,Foul on Ryan Taylor.
+Marshall,UAB,45,64,36,17,0,Official TV Timeout
+Marshall,UAB,45,65,36,17,1,Tyler Madison made Free Throw.
+Marshall,UAB,45,66,36,17,1,Tyler Madison made Free Throw.
+Marshall,UAB,45,66,36,31,0,Jay Johnson missed Jumper.
+Marshall,UAB,45,66,36,31,0,UAB Defensive Rebound.
+Marshall,UAB,45,68,37,1,1,Tyler Madison made Layup. Assisted by Jarvis Calhoun.
+Marshall,UAB,48,68,37,12,1,Austin Loop made Three Point Jumper.
+Marshall,UAB,48,68,37,14,0,UAB  Timeout
+Marshall,UAB,48,68,37,47,0,Jarvis Calhoun missed Jumper.
+Marshall,UAB,48,68,37,47,0,Tamron Manning Defensive Rebound.
+Marshall,UAB,48,68,38,2,0,Austin Loop missed Three Point Jumper.
+Marshall,UAB,48,68,38,2,0,UAB Defensive Rebound.
+Marshall,UAB,48,68,38,2,0,Austin Loop missed Three Point Jumper.
+Marshall,UAB,48,68,38,2,0,UAB Defensive Rebound.
+Marshall,UAB,48,68,38,11,0,Denzell Watts Turnover.
+Marshall,UAB,48,68,38,11,0,Denzell Watts Turnover.
+Marshall,UAB,48,68,38,13,0,Tamron Manning Steal.
+Marshall,UAB,48,68,38,13,0,Tamron Manning Steal.
+Marshall,UAB,48,68,38,14,0,Foul on Lewis Sullivan.
+Marshall,UAB,48,68,38,14,0,Foul on Lewis Sullivan.
+Marshall,UAB,49,68,38,14,1,Austin Loop made Free Throw.
+Marshall,UAB,49,68,38,14,1,Austin Loop made Free Throw.
+Marshall,UAB,50,68,38,14,1,Austin Loop made Free Throw.
+Marshall,UAB,50,68,38,14,1,Austin Loop made Free Throw.
+Marshall,UAB,50,70,38,32,1,Denzel Collins made Layup.
+Marshall,UAB,50,70,38,41,0,Foul on Lionel Love.
+Marshall,UAB,51,70,38,41,1,Brett Bowling made Free Throw.
+Marshall,UAB,52,70,38,41,1,Brett Bowling made Free Throw.
+Marshall,UAB,52,72,38,59,1,Lewis Sullivan made Layup. Assisted by Denzel Collins.
+Marshall,UAB,52,72,39,11,0,Brett Bowling missed Three Point Jumper.
+Marshall,UAB,52,72,39,11,0,Denzel Collins Defensive Rebound.
+Marshall,UAB,52,72,39,24,0,UAB  Timeout
+Marshall,UAB,52,72,39,31,0,Jarvis Calhoun missed Three Point Jumper.
+Marshall,UAB,52,72,39,31,0,Milan Mijovic Defensive Rebound.
+Marshall,UAB,52,72,39,33,0,Foul on Lewis Sullivan.
+Marshall,UAB,53,72,39,33,1,Milan Mijovic made Free Throw.
+Marshall,UAB,54,72,39,33,1,Milan Mijovic made Free Throw.
+Marshall,UAB,54,72,40,0,0,End of Game

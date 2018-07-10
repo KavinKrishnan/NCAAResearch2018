@@ -1,0 +1,273 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Columbia,Harvard,0,0,0,23,0,Wesley Saunders missed Jumper.
+Columbia,Harvard,0,0,0,23,0,Steve Frankoski Defensive Rebound.
+Columbia,Harvard,0,0,0,36,0,Steve Frankoski missed Jumper.
+Columbia,Harvard,0,0,0,36,0,Kenyatta Smith Defensive Rebound.
+Columbia,Harvard,0,0,1,6,0,Kenyatta Smith Turnover.
+Columbia,Harvard,0,0,1,7,0,Brian Barbour Steal.
+Columbia,Harvard,2,0,1,31,1,Brian Barbour made Jumper.
+Columbia,Harvard,2,0,1,44,0,Christian Webster missed Three Point Jumper.
+Columbia,Harvard,2,0,1,44,0,Mark Cisco Defensive Rebound.
+Columbia,Harvard,4,0,1,58,1,Grant Mullins made Layup.
+Columbia,Harvard,4,0,2,27,0,Wesley Saunders Turnover.
+Columbia,Harvard,4,0,2,28,0,Mark Cisco Steal.
+Columbia,Harvard,4,0,2,32,0,Foul on Wesley Saunders
+Columbia,Harvard,4,0,2,32,0,Grant Mullins missed Free Throw.
+Columbia,Harvard,4,0,2,32,0,null
+Columbia,Harvard,5,0,2,32,1,Grant Mullins made Free Throw.
+Columbia,Harvard,5,0,2,53,0,Foul on Mark Cisco
+Columbia,Harvard,5,2,3,4,1,Kenyatta Smith made Jumper.
+Columbia,Harvard,5,2,3,27,0,Grant Mullins missed Jumper.
+Columbia,Harvard,5,2,3,27,0,Skylar Scrivano Offensive Rebound.
+Columbia,Harvard,7,2,3,49,1,Alex Rosenberg made Layup.
+Columbia,Harvard,7,2,4,0,0,Christian Webster missed Three Point Jumper.
+Columbia,Harvard,7,2,4,0,0,Alex Rosenberg Defensive Rebound.
+Columbia,Harvard,7,2,4,33,0,Alex Rosenberg missed Three Point Jumper.
+Columbia,Harvard,7,2,4,33,0,Christian Webster Defensive Rebound.
+Columbia,Harvard,7,2,4,48,0,Wesley Saunders missed Jumper.
+Columbia,Harvard,7,2,4,48,0,Grant Mullins Defensive Rebound.
+Columbia,Harvard,9,2,5,7,1,Alex Rosenberg made Jumper.
+Columbia,Harvard,9,2,5,24,0,Wesley Saunders missed Jumper.
+Columbia,Harvard,9,2,5,24,0,Grant Mullins Defensive Rebound.
+Columbia,Harvard,9,2,5,51,0,Official TV Timeout.
+Columbia,Harvard,9,2,5,55,0,Skylar Scrivano missed Dunk.
+Columbia,Harvard,9,2,5,55,0,Laurent Rivard Defensive Rebound.
+Columbia,Harvard,9,4,6,7,1,Kenyatta Smith made Jumper.
+Columbia,Harvard,9,4,6,43,0,Skylar Scrivano missed Jumper.
+Columbia,Harvard,9,4,6,43,0,Kenyatta Smith Defensive Rebound.
+Columbia,Harvard,9,4,6,43,0,Foul on Skylar Scrivano
+Columbia,Harvard,9,4,7,14,0,Wesley Saunders Turnover.
+Columbia,Harvard,12,4,7,34,1,Alex Rosenberg made Three Point Jumper.
+Columbia,Harvard,12,4,7,47,0,Foul on Alex Rosenberg
+Columbia,Harvard,12,6,7,51,1,Siyani Chambers made Layup.
+Columbia,Harvard,12,6,8,15,0,Mark Cisco missed Jumper.
+Columbia,Harvard,12,6,8,15,0,Kenyatta Smith Block.
+Columbia,Harvard,12,6,8,16,0,Kenyatta Smith Defensive Rebound.
+Columbia,Harvard,12,9,8,21,1,Laurent Rivard made Three Point Jumper.  Assisted by Siyani Chambers.
+Columbia,Harvard,12,9,8,39,0,Brian Barbour missed Jumper.
+Columbia,Harvard,12,9,8,39,0,Mark Cisco Offensive Rebound.
+Columbia,Harvard,14,9,8,42,1,Mark Cisco made Layup.
+Columbia,Harvard,14,9,8,59,0,Laurent Rivard missed Three Point Jumper.
+Columbia,Harvard,14,9,8,59,0,Mark Cisco Defensive Rebound.
+Columbia,Harvard,14,9,9,20,0,Mark Cisco missed Layup.
+Columbia,Harvard,14,9,9,20,0,Kenyatta Smith Block.
+Columbia,Harvard,14,9,9,22,0,John Daniels Offensive Rebound.
+Columbia,Harvard,16,9,9,25,1,John Daniels made Layup.
+Columbia,Harvard,16,9,9,51,0,Foul on Isaac Cohen
+Columbia,Harvard,16,9,9,51,0,Official TV Timeout.
+Columbia,Harvard,16,9,10,4,0,Steve Moundou-Missi missed Jumper.
+Columbia,Harvard,16,9,10,4,0,John Daniels Defensive Rebound.
+Columbia,Harvard,16,9,10,42,0,Columbia Turnover.
+Columbia,Harvard,16,9,11,17,0,Foul on Steve Frankoski
+Columbia,Harvard,16,9,11,33,0,Kenyatta Smith missed Layup.
+Columbia,Harvard,16,9,11,33,0,Alex Rosenberg Defensive Rebound.
+Columbia,Harvard,16,9,11,33,0,Foul on Jonah Travis
+Columbia,Harvard,16,9,11,56,0,Brian Barbour missed Three Point Jumper.
+Columbia,Harvard,16,9,11,56,0,Kenyatta Smith Defensive Rebound.
+Columbia,Harvard,16,9,12,18,0,Christian Webster missed Three Point Jumper.
+Columbia,Harvard,16,9,12,18,0,Laurent Rivard Offensive Rebound.
+Columbia,Harvard,16,9,12,33,0,Christian Webster missed Three Point Jumper.
+Columbia,Harvard,16,9,12,33,0,Kenyatta Smith Offensive Rebound.
+Columbia,Harvard,16,9,12,43,0,Foul on Steve Frankoski
+Columbia,Harvard,16,9,12,43,0,Official TV Timeout.
+Columbia,Harvard,16,9,13,8,0,Christian Webster Turnover.
+Columbia,Harvard,16,9,13,10,0,Grant Mullins Steal.
+Columbia,Harvard,16,9,13,18,0,Foul on Laurent Rivard
+Columbia,Harvard,16,9,13,21,0,Grant Mullins Turnover.
+Columbia,Harvard,16,9,13,22,0,Laurent Rivard Steal.
+Columbia,Harvard,16,9,13,25,0,Foul on Dean Kowalski
+Columbia,Harvard,16,10,13,25,1,Siyani Chambers made Free Throw.
+Columbia,Harvard,16,11,13,25,1,Siyani Chambers made Free Throw.
+Columbia,Harvard,16,11,13,57,0,Isaac Cohen missed Layup.
+Columbia,Harvard,16,11,13,57,0,Steve Moundou-Missi Defensive Rebound.
+Columbia,Harvard,16,11,14,12,0,Kenyatta Smith Turnover.
+Columbia,Harvard,16,11,14,26,0,Mark Cisco Turnover.
+Columbia,Harvard,16,11,14,26,0,Foul on Mark Cisco
+Columbia,Harvard,16,13,14,37,1,Wesley Saunders made Layup.
+Columbia,Harvard,18,13,15,8,1,Grant Mullins made Jumper.
+Columbia,Harvard,18,13,15,23,0,Laurent Rivard missed Three Point Jumper.
+Columbia,Harvard,18,13,15,23,0,Isaac Cohen Defensive Rebound.
+Columbia,Harvard,18,13,15,48,0,Foul on Steve Moundou-Missi
+Columbia,Harvard,19,13,15,48,1,Alex Rosenberg made Free Throw.
+Columbia,Harvard,20,13,15,48,1,Alex Rosenberg made Free Throw.
+Columbia,Harvard,20,13,16,9,0,Steve Moundou-Missi missed Layup.
+Columbia,Harvard,20,13,16,9,0,Skylar Scrivano Defensive Rebound.
+Columbia,Harvard,20,13,16,25,0,John Daniels Turnover.
+Columbia,Harvard,20,13,16,26,0,Siyani Chambers Steal.
+Columbia,Harvard,20,15,16,28,1,Siyani Chambers made Layup.
+Columbia,Harvard,20,15,16,42,0,Foul on Kenyatta Smith
+Columbia,Harvard,20,15,16,42,0,Official TV Timeout.
+Columbia,Harvard,23,15,17,19,1,Alex Rosenberg made Three Point Jumper.
+Columbia,Harvard,23,17,17,33,1,Wesley Saunders made Jumper.
+Columbia,Harvard,23,17,17,33,0,Foul on Skylar Scrivano
+Columbia,Harvard,23,18,17,33,1,Wesley Saunders made Free Throw.
+Columbia,Harvard,26,18,17,48,1,Brian Barbour made Three Point Jumper.  Assisted by John Daniels.
+Columbia,Harvard,26,18,17,49,0,Harvard Full Timeout.
+Columbia,Harvard,26,20,18,22,1,Siyani Chambers made Jumper.
+Columbia,Harvard,28,20,18,47,1,John Daniels made Layup.  Assisted by Brian Barbour.
+Columbia,Harvard,28,22,19,23,1,Christian Webster made Jumper.
+Columbia,Harvard,28,22,19,55,0,Foul on Siyani Chambers
+Columbia,Harvard,28,22,19,55,0,Columbia Full Timeout.
+Columbia,Harvard,28,22,19,59,0,Isaac Cohen missed Jumper.
+Columbia,Harvard,28,22,19,59,0,Harvard Defensive Rebound.
+Columbia,Harvard,28,22,20,0,0,End of the 1st Half.
+Columbia,Harvard,28,22,20,30,0,Steve Frankoski missed Three Point Jumper.
+Columbia,Harvard,28,22,20,30,0,Alex Rosenberg Offensive Rebound.
+Columbia,Harvard,30,22,20,37,1,Brian Barbour made Layup.
+Columbia,Harvard,30,22,20,50,0,Christian Webster missed Layup.
+Columbia,Harvard,30,22,20,50,0,Mark Cisco Defensive Rebound.
+Columbia,Harvard,30,22,20,50,0,Foul on Christian Webster
+Columbia,Harvard,30,22,21,23,0,Alex Rosenberg missed Jumper.
+Columbia,Harvard,30,22,21,23,0,Kenyatta Smith Block.
+Columbia,Harvard,30,22,21,24,0,Mark Cisco Offensive Rebound.
+Columbia,Harvard,30,22,21,26,0,Mark Cisco Turnover.
+Columbia,Harvard,30,22,21,28,0,Kenyatta Smith Steal.
+Columbia,Harvard,30,22,21,29,0,Foul on Brian Barbour
+Columbia,Harvard,30,24,21,32,1,Wesley Saunders made Layup.
+Columbia,Harvard,30,24,21,32,0,Foul on Mark Cisco
+Columbia,Harvard,30,25,21,32,1,Wesley Saunders made Free Throw.
+Columbia,Harvard,30,25,21,36,0,Columbia Full Timeout.
+Columbia,Harvard,30,25,21,45,0,Skylar Scrivano missed Layup.
+Columbia,Harvard,30,25,21,45,0,Kenyatta Smith Block.
+Columbia,Harvard,30,25,21,46,0,Columbia Offensive Rebound.
+Columbia,Harvard,30,25,22,2,0,Skylar Scrivano missed Layup.
+Columbia,Harvard,30,25,22,2,0,Christian Webster Defensive Rebound.
+Columbia,Harvard,30,28,22,7,1,Laurent Rivard made Three Point Jumper.  Assisted by Siyani Chambers.
+Columbia,Harvard,30,28,22,32,0,Skylar Scrivano missed Layup.
+Columbia,Harvard,30,28,22,32,0,Kenyatta Smith Block.
+Columbia,Harvard,30,28,22,33,0,Kenyatta Smith Defensive Rebound.
+Columbia,Harvard,30,28,22,33,0,Foul on Alex Rosenberg
+Columbia,Harvard,30,28,22,40,0,Christian Webster Turnover.
+Columbia,Harvard,30,28,22,41,0,Grant Mullins Steal.
+Columbia,Harvard,30,28,23,8,0,Steve Frankoski Turnover.
+Columbia,Harvard,30,28,23,9,0,Siyani Chambers Steal.
+Columbia,Harvard,30,30,23,10,1,Siyani Chambers made Layup.
+Columbia,Harvard,30,30,23,12,0,Columbia Full Timeout.
+Columbia,Harvard,32,30,23,41,1,Alex Rosenberg made Jumper.
+Columbia,Harvard,32,30,23,49,0,Foul on Skylar Scrivano
+Columbia,Harvard,32,30,24,7,0,Foul on John Daniels
+Columbia,Harvard,32,30,24,7,0,Official TV Timeout.
+Columbia,Harvard,32,32,24,18,1,Wesley Saunders made Jumper.
+Columbia,Harvard,32,32,24,41,0,Foul on Laurent Rivard
+Columbia,Harvard,32,32,24,41,0,Alex Rosenberg missed Free Throw.
+Columbia,Harvard,32,32,24,41,0,null
+Columbia,Harvard,32,32,24,41,0,Alex Rosenberg missed Free Throw.
+Columbia,Harvard,32,32,24,41,0,Laurent Rivard Defensive Rebound.
+Columbia,Harvard,32,32,24,47,0,Siyani Chambers missed Jumper.
+Columbia,Harvard,32,32,24,47,0,Isaac Cohen Defensive Rebound.
+Columbia,Harvard,34,32,24,56,1,Isaac Cohen made Layup.  Assisted by Grant Mullins.
+Columbia,Harvard,34,35,25,26,1,Wesley Saunders made Three Point Jumper.  Assisted by Siyani Chambers.
+Columbia,Harvard,34,35,25,54,0,Alex Rosenberg missed Three Point Jumper.
+Columbia,Harvard,34,35,25,54,0,John Daniels Offensive Rebound.
+Columbia,Harvard,36,35,26,17,1,Grant Mullins made Layup.
+Columbia,Harvard,36,35,26,22,0,Harvard Full Timeout.
+Columbia,Harvard,36,37,26,35,1,Kenyatta Smith made Jumper.
+Columbia,Harvard,36,37,26,42,0,Grant Mullins missed Three Point Jumper.
+Columbia,Harvard,36,37,26,42,0,Columbia Offensive Rebound.
+Columbia,Harvard,36,37,26,58,0,Foul on Alex Nesbitt
+Columbia,Harvard,36,37,27,10,0,Grant Mullins missed Jumper.
+Columbia,Harvard,36,37,27,10,0,Steve Moundou-Missi Defensive Rebound.
+Columbia,Harvard,36,39,27,35,1,Steve Moundou-Missi made Layup.
+Columbia,Harvard,36,39,28,4,0,Alex Rosenberg missed Jumper.
+Columbia,Harvard,36,39,28,4,0,Steve Moundou-Missi Defensive Rebound.
+Columbia,Harvard,36,39,28,38,0,Foul on Grant Mullins
+Columbia,Harvard,36,39,28,38,0,Official TV Timeout.
+Columbia,Harvard,36,39,28,38,0,Christian Webster missed Free Throw.
+Columbia,Harvard,36,39,28,38,0,null
+Columbia,Harvard,36,39,28,38,0,Christian Webster missed Free Throw.
+Columbia,Harvard,36,39,28,38,0,John Daniels Defensive Rebound.
+Columbia,Harvard,36,39,29,3,0,Isaac Cohen missed Three Point Jumper.
+Columbia,Harvard,36,39,29,3,0,Mark Cisco Offensive Rebound.
+Columbia,Harvard,36,39,29,10,0,Brian Barbour missed Three Point Jumper.
+Columbia,Harvard,36,39,29,10,0,Isaac Cohen Offensive Rebound.
+Columbia,Harvard,38,39,29,12,1,Isaac Cohen made Layup.
+Columbia,Harvard,38,39,29,28,0,Foul on John Daniels
+Columbia,Harvard,38,40,29,28,1,Steve Moundou-Missi made Free Throw.
+Columbia,Harvard,38,41,29,28,1,Steve Moundou-Missi made Free Throw.
+Columbia,Harvard,38,41,29,57,0,Foul on Steve Moundou-Missi
+Columbia,Harvard,38,41,30,2,0,Foul on Christian Webster
+Columbia,Harvard,38,41,30,36,0,Brian Barbour missed Jumper.
+Columbia,Harvard,38,41,30,36,0,Kenyatta Smith Defensive Rebound.
+Columbia,Harvard,38,41,30,41,0,Siyani Chambers Turnover.
+Columbia,Harvard,38,41,30,42,0,Isaac Cohen Steal.
+Columbia,Harvard,38,41,30,53,0,Grant Mullins missed Three Point Jumper.
+Columbia,Harvard,38,41,30,53,0,Mark Cisco Offensive Rebound.
+Columbia,Harvard,38,41,30,59,0,Foul on Steve Moundou-Missi
+Columbia,Harvard,39,41,30,59,1,Brian Barbour made Free Throw.
+Columbia,Harvard,39,41,30,59,0,Brian Barbour missed Free Throw.
+Columbia,Harvard,39,41,30,59,0,Mark Cisco Offensive Rebound.
+Columbia,Harvard,42,41,31,4,1,Brian Barbour made Three Point Jumper.  Assisted by Isaac Cohen.
+Columbia,Harvard,42,41,31,41,0,Christian Webster missed Three Point Jumper.
+Columbia,Harvard,42,41,31,41,0,Harvard Offensive Rebound.
+Columbia,Harvard,42,41,31,45,0,Wesley Saunders missed Jumper.
+Columbia,Harvard,42,41,31,45,0,Mark Cisco Defensive Rebound.
+Columbia,Harvard,44,41,32,22,1,John Daniels made Jumper.
+Columbia,Harvard,44,41,32,40,0,Foul on Dean Kowalski
+Columbia,Harvard,44,41,32,40,0,Official TV Timeout.
+Columbia,Harvard,44,42,32,40,1,Siyani Chambers made Free Throw.
+Columbia,Harvard,44,43,32,40,1,Siyani Chambers made Free Throw.
+Columbia,Harvard,44,43,33,7,0,Foul on Siyani Chambers
+Columbia,Harvard,45,43,33,7,1,Grant Mullins made Free Throw.
+Columbia,Harvard,46,43,33,7,1,Grant Mullins made Free Throw.
+Columbia,Harvard,46,43,33,40,0,Wesley Saunders missed Jumper.
+Columbia,Harvard,46,43,33,40,0,Steve Moundou-Missi Offensive Rebound.
+Columbia,Harvard,46,45,33,43,1,Wesley Saunders made Layup.  Assisted by Christian Webster.
+Columbia,Harvard,49,45,34,0,1,Grant Mullins made Three Point Jumper.  Assisted by Brian Barbour.
+Columbia,Harvard,49,45,34,5,0,Siyani Chambers Turnover.
+Columbia,Harvard,49,45,34,35,0,Brian Barbour Turnover.
+Columbia,Harvard,49,45,34,36,0,Wesley Saunders Steal.
+Columbia,Harvard,49,45,35,2,0,Christian Webster missed Jumper.
+Columbia,Harvard,49,45,35,2,0,Grant Mullins Defensive Rebound.
+Columbia,Harvard,49,45,35,39,0,Mark Cisco missed Jumper.
+Columbia,Harvard,49,45,35,39,0,John Daniels Offensive Rebound.
+Columbia,Harvard,49,45,36,15,0,Brian Barbour missed Jumper.
+Columbia,Harvard,49,45,36,15,0,Mark Cisco Offensive Rebound.
+Columbia,Harvard,49,45,36,16,0,Official TV Timeout.
+Columbia,Harvard,49,45,36,39,0,Grant Mullins missed Three Point Jumper.
+Columbia,Harvard,49,45,36,39,0,Steve Moundou-Missi Defensive Rebound.
+Columbia,Harvard,49,45,36,47,0,Foul on John Daniels
+Columbia,Harvard,49,45,36,47,0,Wesley Saunders missed Free Throw.
+Columbia,Harvard,49,45,36,47,0,Mark Cisco Defensive Rebound.
+Columbia,Harvard,49,45,37,21,0,Mark Cisco missed Jumper.
+Columbia,Harvard,49,45,37,21,0,Laurent Rivard Defensive Rebound.
+Columbia,Harvard,49,45,37,53,0,Wesley Saunders missed Jumper.
+Columbia,Harvard,49,45,37,53,0,Isaac Cohen Defensive Rebound.
+Columbia,Harvard,49,45,38,29,0,John Daniels missed Jumper.
+Columbia,Harvard,49,45,38,29,0,Wesley Saunders Defensive Rebound.
+Columbia,Harvard,49,45,38,33,0,Laurent Rivard missed Three Point Jumper.
+Columbia,Harvard,49,45,38,33,0,Steve Moundou-Missi Offensive Rebound.
+Columbia,Harvard,49,45,38,37,0,Foul on Mark Cisco
+Columbia,Harvard,49,46,38,38,1,Steve Moundou-Missi made Free Throw.
+Columbia,Harvard,49,47,38,38,1,Steve Moundou-Missi made Free Throw.
+Columbia,Harvard,49,47,38,38,0,Harvard Full Timeout.
+Columbia,Harvard,49,47,39,14,0,Isaac Cohen missed Jumper.
+Columbia,Harvard,49,47,39,14,0,Steve Moundou-Missi Defensive Rebound.
+Columbia,Harvard,49,49,39,20,1,Siyani Chambers made Layup.
+Columbia,Harvard,49,49,39,20,0,Foul on Grant Mullins
+Columbia,Harvard,49,50,39,20,1,Siyani Chambers made Free Throw.
+Columbia,Harvard,49,50,39,24,0,Columbia Full Timeout.
+Columbia,Harvard,49,50,39,26,0,Grant Mullins Turnover.
+Columbia,Harvard,49,50,39,27,0,Steve Moundou-Missi Steal.
+Columbia,Harvard,49,52,39,28,1,Steve Moundou-Missi made Dunk.
+Columbia,Harvard,49,52,39,34,0,Brian Barbour missed Layup.
+Columbia,Harvard,49,52,39,34,0,Kenyatta Smith Block.
+Columbia,Harvard,49,52,39,35,0,Steve Moundou-Missi Defensive Rebound.
+Columbia,Harvard,49,52,39,36,0,Foul on Alex Rosenberg
+Columbia,Harvard,49,53,39,36,1,Steve Moundou-Missi made Free Throw.
+Columbia,Harvard,49,53,39,36,0,Steve Moundou-Missi missed Free Throw.
+Columbia,Harvard,49,53,39,36,0,Alex Rosenberg Defensive Rebound.
+Columbia,Harvard,49,53,39,46,0,Brian Barbour missed Jumper.
+Columbia,Harvard,49,53,39,46,0,Kenyatta Smith Defensive Rebound.
+Columbia,Harvard,49,53,39,49,0,Foul on Brian Barbour
+Columbia,Harvard,49,54,39,49,1,Kenyatta Smith made Free Throw.
+Columbia,Harvard,49,55,39,49,1,Kenyatta Smith made Free Throw.
+Columbia,Harvard,51,55,39,55,1,Grant Mullins made Jumper.
+Columbia,Harvard,51,55,39,56,0,Columbia Full Timeout.
+Columbia,Harvard,51,55,39,57,0,Foul on Grant Mullins
+Columbia,Harvard,51,55,39,57,0,Siyani Chambers missed Free Throw.
+Columbia,Harvard,51,55,39,57,0,null
+Columbia,Harvard,51,56,39,57,1,Siyani Chambers made Free Throw.
+Columbia,Harvard,51,56,40,0,0,Brian Barbour missed Three Point Jumper.
+Columbia,Harvard,51,56,40,0,0,Harvard Defensive Rebound.
+Columbia,Harvard,51,56,40,0,0,End of the 2nd Half.
+Columbia,Harvard,51,56,40,0,0,End Game

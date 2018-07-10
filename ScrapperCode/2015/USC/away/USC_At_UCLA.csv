@@ -1,0 +1,322 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+USC,UCLA,0,0,0,0,0,Jump Ball won by UCLA
+USC,UCLA,0,0,0,11,0,Norman Powell missed Jumper.
+USC,UCLA,0,0,0,11,0,Nikola Jovanovic Defensive Rebound.
+USC,UCLA,2,0,0,21,1,Nikola Jovanovic made Dunk. Assisted by Malik Marquetti.
+USC,UCLA,2,0,0,39,0,Tony Parker missed Jumper.
+USC,UCLA,2,0,0,39,0,Malik Martin Defensive Rebound.
+USC,UCLA,2,0,0,57,0,Julian Jacobs Turnover.
+USC,UCLA,2,0,0,57,0,Kevon Looney Steal.
+USC,UCLA,2,2,1,20,1,Isaac Hamilton made Jumper.
+USC,UCLA,4,2,1,33,1,Julian Jacobs made Layup.
+USC,UCLA,4,2,1,33,0,Foul on Isaac Hamilton.
+USC,UCLA,4,2,1,33,0,Julian Jacobs missed Free Throw.
+USC,UCLA,4,2,1,33,0,Tony Parker Defensive Rebound.
+USC,UCLA,4,4,1,41,1,Tony Parker made Layup. Assisted by Bryce Alford.
+USC,UCLA,4,4,2,4,0,Elijah Stewart missed Three Point Jumper.
+USC,UCLA,4,4,2,4,0,Kevon Looney Defensive Rebound.
+USC,UCLA,4,4,2,33,0,Tony Parker Turnover.
+USC,UCLA,6,4,2,49,1,Malik Martin made Jumper.
+USC,UCLA,6,4,3,7,0,Norman Powell missed Jumper.
+USC,UCLA,6,4,3,7,0,Norman Powell Offensive Rebound.
+USC,UCLA,6,6,3,10,1,Norman Powell made Layup.
+USC,UCLA,6,6,3,34,0,Malik Marquetti missed Three Point Jumper.
+USC,UCLA,6,6,3,34,0,Kevon Looney Defensive Rebound.
+USC,UCLA,6,6,3,43,0,Bryce Alford Turnover.
+USC,UCLA,6,6,3,43,0,Elijah Stewart Steal.
+USC,UCLA,6,6,3,53,0,Nikola Jovanovic missed Jumper.
+USC,UCLA,6,6,3,53,0,Julian Jacobs Offensive Rebound.
+USC,UCLA,6,6,4,14,0,Nikola Jovanovic missed Jumper.
+USC,UCLA,6,6,4,14,0,Norman Powell Block.
+USC,UCLA,6,6,4,15,0,Norman Powell Defensive Rebound.
+USC,UCLA,6,6,4,21,0,Foul on Julian Jacobs.
+USC,UCLA,6,6,4,21,0,Official TV Timeout
+USC,UCLA,6,7,4,21,1,Norman Powell made Free Throw.
+USC,UCLA,6,8,4,21,1,Norman Powell made Free Throw.
+USC,UCLA,9,8,4,31,1,Katin Reinhardt made Three Point Jumper. Assisted by Julian Jacobs.
+USC,UCLA,9,10,4,48,1,Kevon Looney made Jumper. Assisted by Isaac Hamilton.
+USC,UCLA,9,10,5,20,0,Darion Clark Turnover.
+USC,UCLA,9,10,5,20,0,Isaac Hamilton Steal.
+USC,UCLA,9,10,5,26,0,Isaac Hamilton missed Jumper.
+USC,UCLA,9,10,5,26,0,Elijah Stewart Defensive Rebound.
+USC,UCLA,9,10,5,34,0,Nikola Jovanovic missed Layup.
+USC,UCLA,9,10,5,34,0,Darion Clark Offensive Rebound.
+USC,UCLA,12,10,5,41,1,Katin Reinhardt made Three Point Jumper. Assisted by Darion Clark.
+USC,UCLA,12,10,5,57,0,Norman Powell missed Layup.
+USC,UCLA,12,10,5,57,0,UCLA Offensive Rebound.
+USC,UCLA,12,10,6,18,0,Isaac Hamilton Turnover.
+USC,UCLA,12,10,6,18,0,Malik Martin Steal.
+USC,UCLA,12,10,6,18,0,Malik Martin Turnover.
+USC,UCLA,12,10,6,21,0,Foul on Tony Parker.
+USC,UCLA,12,10,6,21,0,Tony Parker Turnover.
+USC,UCLA,12,10,6,30,0,Julian Jacobs Turnover.
+USC,UCLA,12,10,6,30,0,Kevon Looney Steal.
+USC,UCLA,12,10,6,40,0,Kevon Looney missed Layup.
+USC,UCLA,12,10,6,40,0,Elijah Stewart Block.
+USC,UCLA,12,10,6,40,0,Kevon Looney Offensive Rebound.
+USC,UCLA,12,10,6,43,0,Kevon Looney missed Layup.
+USC,UCLA,12,10,6,44,0,Malik Martin Block.
+USC,UCLA,12,10,6,44,0,Malik Martin Defensive Rebound.
+USC,UCLA,12,10,7,1,0,Foul on Kevon Looney.
+USC,UCLA,12,10,7,1,0,Malik Martin missed Free Throw.
+USC,UCLA,12,10,7,1,0,USC Deadball Team Rebound.
+USC,UCLA,13,10,7,1,1,Malik Martin made Free Throw.
+USC,UCLA,13,13,7,21,1,Isaac Hamilton made Three Point Jumper. Assisted by Bryce Alford.
+USC,UCLA,13,13,7,33,0,Katin Reinhardt Turnover.
+USC,UCLA,13,13,7,33,0,Norman Powell Steal.
+USC,UCLA,13,15,7,36,1,Norman Powell made Dunk.
+USC,UCLA,13,15,8,2,0,Nikola Jovanovic missed Jumper.
+USC,UCLA,13,15,8,2,0,Kevon Looney Defensive Rebound.
+USC,UCLA,13,15,8,11,0,Foul on Norman Powell.
+USC,UCLA,13,15,8,11,0,Norman Powell Turnover.
+USC,UCLA,13,15,8,11,0,Official TV Timeout
+USC,UCLA,13,15,8,36,0,Malik Marquetti missed Three Point Jumper.
+USC,UCLA,13,15,8,36,0,Bryce Alford Defensive Rebound.
+USC,UCLA,13,15,8,55,0,Isaac Hamilton missed Jumper.
+USC,UCLA,13,15,8,55,0,Julian Jacobs Defensive Rebound.
+USC,UCLA,13,15,9,4,0,Katin Reinhardt missed Three Point Jumper.
+USC,UCLA,13,15,9,4,0,Bryce Alford Defensive Rebound.
+USC,UCLA,13,18,9,19,1,Kevon Looney made Three Point Jumper. Assisted by Isaac Hamilton.
+USC,UCLA,13,18,9,45,0,Jump Ball won by USC
+USC,UCLA,13,18,9,48,0,Nikola Jovanovic Turnover.
+USC,UCLA,13,18,9,48,0,Bryce Alford Steal.
+USC,UCLA,13,21,9,56,1,Bryce Alford made Three Point Jumper.
+USC,UCLA,13,21,10,2,0,USC  Timeout
+USC,UCLA,13,21,10,10,0,Elijah Stewart missed Three Point Jumper.
+USC,UCLA,13,21,10,10,0,Norman Powell Defensive Rebound.
+USC,UCLA,13,21,10,21,0,Bryce Alford missed Three Point Jumper.
+USC,UCLA,13,21,10,21,0,Elijah Stewart Defensive Rebound.
+USC,UCLA,13,21,10,30,0,Malik Marquetti missed Layup.
+USC,UCLA,13,21,10,30,0,Gyorgy Goloman Defensive Rebound.
+USC,UCLA,13,24,10,45,1,Gyorgy Goloman made Three Point Jumper. Assisted by Bryce Alford.
+USC,UCLA,13,24,11,15,0,Foul on Norman Powell.
+USC,UCLA,16,24,11,23,1,Malik Marquetti made Three Point Jumper. Assisted by Julian Jacobs.
+USC,UCLA,16,24,11,49,0,Foul on Malik Marquetti.
+USC,UCLA,16,26,11,49,1,Thomas Welsh made Layup. Assisted by Isaac Hamilton.
+USC,UCLA,16,26,11,59,0,Foul on Elijah Stewart.
+USC,UCLA,16,26,11,59,0,Elijah Stewart Turnover.
+USC,UCLA,16,28,12,5,1,Tony Parker made Layup.
+USC,UCLA,19,28,12,19,1,Elijah Stewart made Three Point Jumper. Assisted by Julian Jacobs.
+USC,UCLA,19,28,12,37,0,Bryce Alford missed Three Point Jumper.
+USC,UCLA,19,28,12,37,0,USC Defensive Rebound.
+USC,UCLA,19,28,12,48,0,Official TV Timeout
+USC,UCLA,19,28,13,12,0,Darion Clark missed Layup.
+USC,UCLA,19,28,13,12,0,Nikola Jovanovic Offensive Rebound.
+USC,UCLA,21,28,13,17,1,Nikola Jovanovic made Layup.
+USC,UCLA,21,28,13,28,0,Isaac Hamilton missed Three Point Jumper.
+USC,UCLA,21,28,13,28,0,Julian Jacobs Defensive Rebound.
+USC,UCLA,21,28,13,44,0,Elijah Stewart Turnover.
+USC,UCLA,21,28,13,44,0,Norman Powell Steal.
+USC,UCLA,21,30,13,56,1,Isaac Hamilton made Layup.
+USC,UCLA,21,30,13,59,0,USC  Timeout
+USC,UCLA,21,30,14,10,0,Katin Reinhardt missed Three Point Jumper.
+USC,UCLA,21,30,14,10,0,Bryce Alford Defensive Rebound.
+USC,UCLA,21,30,14,30,0,Gyorgy Goloman missed Three Point Jumper.
+USC,UCLA,21,30,14,30,0,Malik Martin Defensive Rebound.
+USC,UCLA,21,30,14,48,0,Katin Reinhardt Turnover.
+USC,UCLA,21,30,14,48,0,Norman Powell Steal.
+USC,UCLA,21,32,14,54,1,Norman Powell made Dunk.
+USC,UCLA,21,32,15,14,0,Malik Martin Turnover.
+USC,UCLA,21,32,15,21,0,Foul on Malik Martin.
+USC,UCLA,21,33,15,21,1,Isaac Hamilton made Free Throw.
+USC,UCLA,21,34,15,21,1,Isaac Hamilton made Free Throw.
+USC,UCLA,21,34,15,36,0,Elijah Stewart missed Three Point Jumper.
+USC,UCLA,21,34,15,36,0,Bryce Alford Defensive Rebound.
+USC,UCLA,21,37,15,44,1,Isaac Hamilton made Three Point Jumper. Assisted by Bryce Alford.
+USC,UCLA,23,37,16,17,1,Malik Martin made Dunk. Assisted by Julian Jacobs.
+USC,UCLA,23,39,16,42,1,Tony Parker made Jumper.
+USC,UCLA,25,39,16,51,1,Katin Reinhardt made Jumper.
+USC,UCLA,25,41,17,9,1,Tony Parker made Layup. Assisted by Bryce Alford.
+USC,UCLA,25,41,17,23,0,Foul on Norman Powell.
+USC,UCLA,25,41,17,23,0,Official TV Timeout
+USC,UCLA,25,41,17,24,0,Julian Jacobs Turnover.
+USC,UCLA,25,41,17,24,0,Isaac Hamilton Steal.
+USC,UCLA,25,41,17,40,0,Isaac Hamilton Turnover.
+USC,UCLA,25,41,17,40,0,Elijah Stewart Steal.
+USC,UCLA,25,41,17,44,0,Katin Reinhardt missed Three Point Jumper.
+USC,UCLA,25,41,17,44,0,Elijah Stewart Offensive Rebound.
+USC,UCLA,27,41,17,44,1,Elijah Stewart made Dunk.
+USC,UCLA,27,44,18,12,1,Isaac Hamilton made Three Point Jumper. Assisted by Gyorgy Goloman.
+USC,UCLA,27,44,18,45,0,Elijah Stewart Turnover.
+USC,UCLA,27,46,19,4,1,Isaac Hamilton made Layup.
+USC,UCLA,27,46,19,4,0,Foul on Kahlil Dukes.
+USC,UCLA,27,47,19,4,1,Isaac Hamilton made Free Throw.
+USC,UCLA,29,47,19,14,1,Nikola Jovanovic made Jumper.
+USC,UCLA,29,47,19,23,0,UCLA  Timeout
+USC,UCLA,29,47,19,47,0,Noah Allen missed Three Point Jumper.
+USC,UCLA,29,47,19,47,0,Nikola Jovanovic Defensive Rebound.
+USC,UCLA,29,47,19,59,0,Kahlil Dukes Turnover.
+USC,UCLA,29,47,20,0,0,End of 1st half
+USC,UCLA,29,47,20,0,0,Jump Ball won by UCLA
+USC,UCLA,29,47,20,16,0,Norman Powell missed Layup.
+USC,UCLA,29,47,20,16,0,Nikola Jovanovic Defensive Rebound.
+USC,UCLA,31,47,20,25,1,Julian Jacobs made Dunk.
+USC,UCLA,31,50,21,3,1,Isaac Hamilton made Three Point Jumper. Assisted by Norman Powell.
+USC,UCLA,33,50,21,16,1,Nikola Jovanovic made Layup. Assisted by Julian Jacobs.
+USC,UCLA,33,53,21,27,1,Isaac Hamilton made Three Point Jumper. Assisted by Norman Powell.
+USC,UCLA,33,53,21,43,0,Elijah Stewart Turnover.
+USC,UCLA,33,53,21,43,0,Gyorgy Goloman Steal.
+USC,UCLA,33,53,22,1,0,Tony Parker missed Jumper.
+USC,UCLA,33,53,22,1,0,Nikola Jovanovic Defensive Rebound.
+USC,UCLA,35,53,22,14,1,Elijah Stewart made Layup.
+USC,UCLA,35,53,22,14,0,Foul on Gyorgy Goloman.
+USC,UCLA,36,53,22,14,1,Elijah Stewart made Free Throw.
+USC,UCLA,36,53,22,29,0,Bryce Alford missed Jumper.
+USC,UCLA,36,53,22,29,0,Malik Marquetti Defensive Rebound.
+USC,UCLA,36,53,22,42,0,Julian Jacobs missed Jumper.
+USC,UCLA,36,53,22,42,0,Nikola Jovanovic Offensive Rebound.
+USC,UCLA,38,53,22,46,1,Malik Martin made Layup. Assisted by Julian Jacobs.
+USC,UCLA,38,53,22,54,0,UCLA  Timeout
+USC,UCLA,38,55,23,0,1,Thomas Welsh made Layup. Assisted by Gyorgy Goloman.
+USC,UCLA,38,55,23,32,0,Foul on Gyorgy Goloman.
+USC,UCLA,40,55,23,34,1,Nikola Jovanovic made Jumper.
+USC,UCLA,40,55,23,51,0,Norman Powell missed Three Point Jumper.
+USC,UCLA,40,55,23,51,0,Katin Reinhardt Defensive Rebound.
+USC,UCLA,40,55,24,11,0,Foul on Thomas Welsh.
+USC,UCLA,40,55,24,11,0,Official TV Timeout
+USC,UCLA,41,55,24,11,1,Malik Martin made Free Throw.
+USC,UCLA,42,55,24,11,1,Malik Martin made Free Throw.
+USC,UCLA,42,55,24,24,0,Bryce Alford missed Jumper.
+USC,UCLA,42,55,24,24,0,Gyorgy Goloman Offensive Rebound.
+USC,UCLA,42,57,24,32,1,Isaac Hamilton made Jumper.
+USC,UCLA,42,57,24,49,0,Malik Martin Turnover.
+USC,UCLA,42,60,25,9,1,Isaac Hamilton made Three Point Jumper. Assisted by Bryce Alford.
+USC,UCLA,42,60,25,25,0,Elijah Stewart missed Three Point Jumper.
+USC,UCLA,42,60,25,25,0,Gyorgy Goloman Defensive Rebound.
+USC,UCLA,42,60,25,32,0,Foul on Elijah Stewart.
+USC,UCLA,42,60,25,32,0,Technical Foul on Gyorgy Goloman.
+USC,UCLA,42,60,25,32,0,Foul on Gyorgy Goloman.
+USC,UCLA,42,60,25,32,0,Katin Reinhardt missed Free Throw.
+USC,UCLA,42,60,25,32,0,USC Deadball Team Rebound.
+USC,UCLA,43,60,25,32,1,Katin Reinhardt made Free Throw.
+USC,UCLA,43,60,25,44,0,Malik Marquetti missed Three Point Jumper.
+USC,UCLA,43,60,25,44,0,Elijah Stewart Offensive Rebound.
+USC,UCLA,46,60,25,50,1,Elijah Stewart made Three Point Jumper.
+USC,UCLA,46,60,26,16,0,Foul on Malik Marquetti.
+USC,UCLA,46,62,26,22,1,Tony Parker made Layup. Assisted by Noah Allen.
+USC,UCLA,46,62,26,31,0,Elijah Stewart missed Jumper.
+USC,UCLA,46,62,26,31,0,Tony Parker Defensive Rebound.
+USC,UCLA,46,64,26,37,1,Isaac Hamilton made Dunk.
+USC,UCLA,46,64,26,45,0,USC  Timeout
+USC,UCLA,46,64,26,48,0,Elijah Stewart missed Three Point Jumper.
+USC,UCLA,46,64,26,48,0,Norman Powell Defensive Rebound.
+USC,UCLA,46,64,27,11,0,Foul on Nikola Jovanovic.
+USC,UCLA,46,66,27,11,1,Isaac Hamilton made Layup.
+USC,UCLA,48,66,27,27,1,Nikola Jovanovic made Jumper.
+USC,UCLA,48,66,27,27,0,Foul on Tony Parker.
+USC,UCLA,48,66,27,27,0,Nikola Jovanovic missed Free Throw.
+USC,UCLA,48,66,27,27,0,USC Deadball Team Rebound.
+USC,UCLA,48,66,27,27,0,Foul on Darion Clark.
+USC,UCLA,48,68,27,45,1,Tony Parker made Layup.
+USC,UCLA,48,68,27,45,0,Foul on Nikola Jovanovic.
+USC,UCLA,48,68,27,45,0,Tony Parker missed Free Throw.
+USC,UCLA,48,68,27,45,0,USC Defensive Rebound.
+USC,UCLA,48,68,27,53,0,Malik Martin missed Jumper.
+USC,UCLA,48,68,27,53,0,UCLA Defensive Rebound.
+USC,UCLA,48,70,28,5,1,Norman Powell made Dunk. Assisted by Tony Parker.
+USC,UCLA,48,70,28,19,0,Darion Clark missed Jumper.
+USC,UCLA,48,70,28,19,0,Julian Jacobs Offensive Rebound.
+USC,UCLA,48,70,28,19,0,Julian Jacobs missed Two Point Tip Shot.
+USC,UCLA,48,70,28,19,0,Bryce Alford Defensive Rebound.
+USC,UCLA,48,70,28,27,0,Isaac Hamilton missed Three Point Jumper.
+USC,UCLA,48,70,28,27,0,Malik Martin Defensive Rebound.
+USC,UCLA,50,70,28,34,1,Katin Reinhardt made Layup.
+USC,UCLA,50,70,28,34,0,Official TV Timeout
+USC,UCLA,50,72,28,51,1,Norman Powell made Layup.
+USC,UCLA,50,72,29,8,0,Julian Jacobs missed Jumper.
+USC,UCLA,50,72,29,8,0,Bryce Alford Defensive Rebound.
+USC,UCLA,50,72,29,31,0,Tony Parker missed Jumper.
+USC,UCLA,50,72,29,31,0,Malik Martin Block.
+USC,UCLA,50,72,29,31,0,Julian Jacobs Defensive Rebound.
+USC,UCLA,50,72,29,36,0,Julian Jacobs Turnover.
+USC,UCLA,50,72,30,10,0,Norman Powell missed Jumper.
+USC,UCLA,50,72,30,10,0,Noah Allen Offensive Rebound.
+USC,UCLA,50,74,30,10,1,Noah Allen made Two Point Tip Shot.
+USC,UCLA,52,74,30,32,1,Darion Clark made Jumper. Assisted by Chass Bryan.
+USC,UCLA,52,77,30,56,1,Bryce Alford made Three Point Jumper.
+USC,UCLA,52,77,30,56,0,Foul on Malik Martin.
+USC,UCLA,52,78,30,56,1,Bryce Alford made Free Throw.
+USC,UCLA,55,78,31,1,1,Katin Reinhardt made Three Point Jumper. Assisted by Malik Marquetti.
+USC,UCLA,55,78,31,21,0,Isaac Hamilton Turnover.
+USC,UCLA,55,78,31,32,0,Chass Bryan missed Three Point Jumper.
+USC,UCLA,55,78,31,32,0,USC Offensive Rebound.
+USC,UCLA,55,78,31,37,0,Foul on Thomas Welsh.
+USC,UCLA,57,78,31,38,1,Malik Marquetti made Layup. Assisted by Chass Bryan.
+USC,UCLA,57,78,32,3,0,Norman Powell missed Jumper.
+USC,UCLA,57,78,32,3,0,Noah Allen Offensive Rebound.
+USC,UCLA,57,80,32,3,1,Noah Allen made Two Point Tip Shot.
+USC,UCLA,60,80,32,16,1,Katin Reinhardt made Three Point Jumper.
+USC,UCLA,60,80,32,44,0,Foul on Nikola Jovanovic.
+USC,UCLA,60,80,32,44,0,Official TV Timeout
+USC,UCLA,60,81,32,44,1,Thomas Welsh made Free Throw.
+USC,UCLA,60,82,32,44,1,Thomas Welsh made Free Throw.
+USC,UCLA,60,82,33,4,0,Julian Jacobs missed Jumper.
+USC,UCLA,60,82,33,4,0,Gyorgy Goloman Defensive Rebound.
+USC,UCLA,60,85,33,14,1,Isaac Hamilton made Three Point Jumper.
+USC,UCLA,60,85,33,35,0,Darion Clark missed Jumper.
+USC,UCLA,60,85,33,35,0,Thomas Welsh Defensive Rebound.
+USC,UCLA,60,87,33,42,1,Norman Powell made Dunk. Assisted by Isaac Hamilton.
+USC,UCLA,60,87,33,42,0,Foul on Elijah Stewart.
+USC,UCLA,60,87,33,42,0,Norman Powell missed Free Throw.
+USC,UCLA,60,87,33,42,0,Darion Clark Defensive Rebound.
+USC,UCLA,60,87,33,48,0,Foul on Noah Allen.
+USC,UCLA,60,87,33,48,0,Elijah Stewart missed Free Throw.
+USC,UCLA,60,87,33,48,0,USC Deadball Team Rebound.
+USC,UCLA,61,87,33,48,1,Elijah Stewart made Free Throw.
+USC,UCLA,61,90,34,6,1,Gyorgy Goloman made Three Point Jumper. Assisted by Bryce Alford.
+USC,UCLA,61,90,34,23,0,Foul on Tony Parker.
+USC,UCLA,62,90,34,23,1,Nikola Jovanovic made Free Throw.
+USC,UCLA,62,90,34,23,0,Nikola Jovanovic missed Free Throw.
+USC,UCLA,62,90,34,23,0,Gyorgy Goloman Defensive Rebound.
+USC,UCLA,62,90,34,53,0,Tony Parker missed Jumper.
+USC,UCLA,62,90,34,53,0,Malik Marquetti Defensive Rebound.
+USC,UCLA,62,90,35,13,0,Darion Clark missed Jumper.
+USC,UCLA,62,90,35,13,0,Noah Allen Block.
+USC,UCLA,62,90,35,13,0,Bryce Alford Defensive Rebound.
+USC,UCLA,62,90,35,20,0,Bryce Alford Turnover.
+USC,UCLA,62,90,35,20,0,Julian Jacobs Steal.
+USC,UCLA,62,90,35,27,0,Foul on Noah Allen.
+USC,UCLA,62,90,35,27,0,Darion Clark missed Free Throw.
+USC,UCLA,62,90,35,27,0,Gyorgy Goloman Defensive Rebound.
+USC,UCLA,62,90,35,45,0,Bryce Alford Turnover.
+USC,UCLA,62,90,35,45,0,Malik Marquetti Steal.
+USC,UCLA,62,90,35,51,0,Foul on Isaac Hamilton.
+USC,UCLA,62,90,35,51,0,Malik Marquetti missed Free Throw.
+USC,UCLA,62,90,35,51,0,USC Deadball Team Rebound.
+USC,UCLA,63,90,35,51,1,Malik Marquetti made Free Throw.
+USC,UCLA,63,92,36,0,1,Tony Parker made Layup. Assisted by Noah Allen.
+USC,UCLA,66,92,36,10,1,Katin Reinhardt made Three Point Jumper. Assisted by Julian Jacobs.
+USC,UCLA,66,94,36,25,1,Noah Allen made Layup. Assisted by Gyorgy Goloman.
+USC,UCLA,66,94,36,38,0,Katin Reinhardt missed Three Point Jumper.
+USC,UCLA,66,94,36,38,0,UCLA Defensive Rebound.
+USC,UCLA,66,94,36,42,0,Official TV Timeout
+USC,UCLA,66,94,37,6,0,Noah Allen Turnover.
+USC,UCLA,68,94,37,26,1,Nikola Jovanovic made Layup.
+USC,UCLA,68,94,37,45,0,Noah Allen Turnover.
+USC,UCLA,68,94,37,59,0,Foul on Thomas Welsh.
+USC,UCLA,69,94,37,59,1,Nikola Jovanovic made Free Throw.
+USC,UCLA,70,94,37,59,1,Nikola Jovanovic made Free Throw.
+USC,UCLA,70,94,38,8,0,UCLA  Timeout
+USC,UCLA,70,94,38,19,0,Nick Kazemi Turnover.
+USC,UCLA,70,94,38,28,0,Nikola Jovanovic Turnover.
+USC,UCLA,70,94,38,28,0,David Brown Steal.
+USC,UCLA,70,94,38,36,0,David Brown Turnover.
+USC,UCLA,70,94,38,36,0,Elijah Stewart Steal.
+USC,UCLA,70,94,38,44,0,Elijah Stewart missed Jumper.
+USC,UCLA,70,94,38,44,0,USC Offensive Rebound.
+USC,UCLA,70,94,38,50,0,Elijah Stewart missed Three Point Jumper.
+USC,UCLA,70,94,38,50,0,Malik Martin Offensive Rebound.
+USC,UCLA,70,94,38,50,0,Malik Martin missed Two Point Tip Shot.
+USC,UCLA,70,94,38,50,0,Devon Pflueger Offensive Rebound.
+USC,UCLA,70,94,38,58,0,Devon Pflueger missed Jumper.
+USC,UCLA,70,94,38,58,0,Thomas Welsh Defensive Rebound.
+USC,UCLA,70,94,39,16,0,Kory Alford missed Three Point Jumper.
+USC,UCLA,70,94,39,16,0,Thomas Welsh Offensive Rebound.
+USC,UCLA,70,96,39,16,1,Thomas Welsh made Two Point Tip Shot.
+USC,UCLA,70,96,39,27,0,Elijah Stewart Turnover.
+USC,UCLA,70,96,39,27,0,David Brown Steal.
+USC,UCLA,70,96,39,32,0,David Brown missed Layup.
+USC,UCLA,70,96,39,32,0,Devon Pflueger Defensive Rebound.
+USC,UCLA,70,96,39,44,0,Samer Dhillon missed Jumper.
+USC,UCLA,70,96,39,44,0,Gyorgy Goloman Defensive Rebound.
+USC,UCLA,70,96,40,0,0,End of Game

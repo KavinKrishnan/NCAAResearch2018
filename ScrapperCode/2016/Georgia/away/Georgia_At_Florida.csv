@@ -1,0 +1,391 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Georgia,Florida,0,0,0,0,0,Jump Ball won by Florida
+Georgia,Florida,0,0,0,6,1,Dorian Finney-Smith Turnover.
+Georgia,Florida,0,0,0,6,0,J.J. Frazier Steal.
+Georgia,Florida,2,0,0,12,1,J.J. Frazier made Layup.
+Georgia,Florida,2,0,0,27,0,Chris Chiozza missed Three Point Jumper.
+Georgia,Florida,2,0,0,27,0,John Egbunu Offensive Rebound.
+Georgia,Florida,2,2,0,32,1,John Egbunu made Dunk.
+Georgia,Florida,2,2,0,53,0,Houston Kessler missed Jumper.
+Georgia,Florida,2,2,0,53,0,Florida Defensive Rebound.
+Georgia,Florida,2,2,1,12,0,Justin Leon Turnover.
+Georgia,Florida,2,2,1,33,0,Kenny Gaines missed Three Point Jumper.
+Georgia,Florida,2,2,1,33,0,Dorian Finney-Smith Defensive Rebound.
+Georgia,Florida,2,4,1,46,1,John Egbunu made Dunk.
+Georgia,Florida,2,4,2,3,0,Foul on Houston Kessler.
+Georgia,Florida,2,4,2,3,0,Houston Kessler Turnover.
+Georgia,Florida,2,4,2,14,0,Dorian Finney-Smith missed Jumper.
+Georgia,Florida,2,4,2,14,0,Yante Maten Block.
+Georgia,Florida,2,4,2,14,0,J.J. Frazier Defensive Rebound.
+Georgia,Florida,2,4,2,25,0,Foul on KeVaughn Allen.
+Georgia,Florida,2,4,2,39,0,J.J. Frazier Turnover.
+Georgia,Florida,2,7,2,52,1,Justin Leon made Three Point Jumper. Assisted by Chris Chiozza.
+Georgia,Florida,2,7,3,27,0,Georgia  Turnover.
+Georgia,Florida,2,7,3,45,0,Dorian Finney-Smith Turnover.
+Georgia,Florida,2,7,3,45,0,Kenny Paul Geno Steal.
+Georgia,Florida,4,7,3,52,1,J.J. Frazier made Jumper.
+Georgia,Florida,4,7,4,8,0,John Egbunu missed Jumper.
+Georgia,Florida,4,7,4,8,0,J.J. Frazier Defensive Rebound.
+Georgia,Florida,4,7,4,15,0,Mike Edwards missed Layup.
+Georgia,Florida,4,7,4,15,0,Kenny Gaines Offensive Rebound.
+Georgia,Florida,4,7,4,21,0,Kenny Gaines missed Layup.
+Georgia,Florida,4,7,4,21,0,Chris Chiozza Defensive Rebound.
+Georgia,Florida,4,7,4,35,0,Justin Leon missed Three Point Jumper.
+Georgia,Florida,4,7,4,35,0,Yante Maten Defensive Rebound.
+Georgia,Florida,4,7,4,48,0,Kenny Gaines missed Three Point Jumper.
+Georgia,Florida,4,7,4,48,0,Chris Chiozza Defensive Rebound.
+Georgia,Florida,4,10,4,57,1,Chris Chiozza made Three Point Jumper. Assisted by KeVaughn Allen.
+Georgia,Florida,6,10,5,29,1,Kenny Gaines made Jumper.
+Georgia,Florida,6,13,5,59,1,KeVaughn Allen made Three Point Jumper.
+Georgia,Florida,6,13,6,13,0,Foul on Chris Chiozza.
+Georgia,Florida,6,13,6,13,0,Official TV Timeout
+Georgia,Florida,6,13,6,27,0,Derek Ogbeide Turnover.
+Georgia,Florida,6,13,6,27,0,Kasey Hill Steal.
+Georgia,Florida,6,13,6,34,0,KeVaughn Allen missed Jumper.
+Georgia,Florida,6,13,6,34,0,Dorian Finney-Smith Offensive Rebound.
+Georgia,Florida,6,13,6,41,0,Dorian Finney-Smith missed Three Point Jumper.
+Georgia,Florida,6,13,6,41,0,Charles Mann Defensive Rebound.
+Georgia,Florida,6,13,7,9,0,Foul on Kevarrius Hayes.
+Georgia,Florida,7,13,7,9,1,Charles Mann made Free Throw.
+Georgia,Florida,7,13,7,9,0,Charles Mann missed Free Throw.
+Georgia,Florida,7,13,7,9,0,Kasey Hill Defensive Rebound.
+Georgia,Florida,7,13,7,14,0,Kasey Hill Turnover.
+Georgia,Florida,9,13,7,34,1,Yante Maten made Jumper.
+Georgia,Florida,9,13,7,50,0,Kasey Hill Turnover.
+Georgia,Florida,9,13,7,50,0,J.J. Frazier Steal.
+Georgia,Florida,9,13,8,3,0,Derek Ogbeide Turnover.
+Georgia,Florida,9,13,8,3,0,Official TV Timeout
+Georgia,Florida,9,13,8,21,0,Justin Leon Turnover.
+Georgia,Florida,9,13,8,21,0,Kenny Gaines Steal.
+Georgia,Florida,9,13,8,21,0,Foul on John Egbunu.
+Georgia,Florida,11,13,8,26,1,Kenny Gaines made Layup.
+Georgia,Florida,11,13,8,52,0,Foul on Justin Leon.
+Georgia,Florida,11,13,8,53,0,Justin Leon Turnover.
+Georgia,Florida,11,13,9,10,0,Houston Kessler missed Jumper.
+Georgia,Florida,11,13,9,10,0,Justin Leon Defensive Rebound.
+Georgia,Florida,11,15,9,23,1,John Egbunu made Dunk.
+Georgia,Florida,11,15,9,23,0,Foul on Houston Kessler.
+Georgia,Florida,11,16,9,23,1,John Egbunu made Free Throw.
+Georgia,Florida,11,16,9,44,0,Charles Mann missed Jumper.
+Georgia,Florida,11,16,9,44,0,John Egbunu Defensive Rebound.
+Georgia,Florida,11,16,9,54,0,Chris Chiozza missed Layup.
+Georgia,Florida,11,16,9,54,0,John Egbunu Offensive Rebound.
+Georgia,Florida,11,18,9,54,1,John Egbunu made Dunk.
+Georgia,Florida,11,18,10,16,0,Kenny Gaines Turnover.
+Georgia,Florida,11,18,10,16,0,John Egbunu Steal.
+Georgia,Florida,11,20,10,24,1,Devin Robinson made Layup.
+Georgia,Florida,11,20,10,24,0,Foul on Yante Maten.
+Georgia,Florida,11,21,10,24,1,Devin Robinson made Free Throw.
+Georgia,Florida,11,21,10,33,0,Foul on Dorian Finney-Smith.
+Georgia,Florida,11,21,10,43,0,J.J. Frazier missed Jumper.
+Georgia,Florida,11,21,10,43,0,Chris Chiozza Defensive Rebound.
+Georgia,Florida,11,24,10,53,1,Devin Robinson made Three Point Jumper. Assisted by Chris Chiozza.
+Georgia,Florida,11,24,10,58,0,Georgia  Timeout
+Georgia,Florida,13,24,11,27,1,Derek Ogbeide made Dunk. Assisted by J.J. Frazier.
+Georgia,Florida,13,24,11,33,0,Dorian Finney-Smith missed Three Point Jumper.
+Georgia,Florida,13,24,11,33,0,Kenny Gaines Defensive Rebound.
+Georgia,Florida,13,24,11,52,0,Derek Ogbeide missed Jumper.
+Georgia,Florida,13,24,11,52,0,John Egbunu Defensive Rebound.
+Georgia,Florida,13,24,12,1,0,Official TV Timeout
+Georgia,Florida,13,24,12,19,0,Foul on William Jackson II.
+Georgia,Florida,13,24,12,19,0,Kasey Hill missed Free Throw.
+Georgia,Florida,13,24,12,19,0,Florida Deadball Team Rebound.
+Georgia,Florida,13,25,12,19,1,Kasey Hill made Free Throw.
+Georgia,Florida,13,25,12,42,0,Yante Maten missed Three Point Jumper.
+Georgia,Florida,13,25,12,42,0,Georgia Offensive Rebound.
+Georgia,Florida,13,25,12,43,0,Foul on Dorian Finney-Smith.
+Georgia,Florida,14,25,12,43,1,Charles Mann made Free Throw.
+Georgia,Florida,15,25,12,43,1,Charles Mann made Free Throw.
+Georgia,Florida,15,25,12,55,0,Foul on Charles Mann.
+Georgia,Florida,15,25,13,12,0,Chris Chiozza missed Three Point Jumper.
+Georgia,Florida,15,25,13,12,0,Charles Mann Defensive Rebound.
+Georgia,Florida,15,25,13,21,0,Charles Mann missed Layup.
+Georgia,Florida,15,25,13,21,0,John Egbunu Block.
+Georgia,Florida,15,25,13,21,0,Yante Maten Offensive Rebound.
+Georgia,Florida,17,25,13,21,1,Yante Maten made Two Point Tip Shot.
+Georgia,Florida,17,25,13,49,0,Foul on Kenny Gaines.
+Georgia,Florida,17,26,13,49,1,Chris Chiozza made Free Throw.
+Georgia,Florida,17,27,13,49,1,Chris Chiozza made Free Throw.
+Georgia,Florida,17,27,14,1,0,Foul on John Egbunu.
+Georgia,Florida,17,27,14,1,0,Yante Maten missed Free Throw.
+Georgia,Florida,17,27,14,1,0,Georgia Deadball Team Rebound.
+Georgia,Florida,18,27,14,1,1,Yante Maten made Free Throw.
+Georgia,Florida,18,27,14,16,0,Chris Chiozza missed Jumper.
+Georgia,Florida,18,27,14,16,0,Devin Robinson Offensive Rebound.
+Georgia,Florida,18,27,14,19,0,Foul on Kenny Paul Geno.
+Georgia,Florida,18,28,14,19,1,Devin Robinson made Free Throw.
+Georgia,Florida,18,28,14,29,0,Foul on Charles Mann.
+Georgia,Florida,18,28,14,29,0,Charles Mann Turnover.
+Georgia,Florida,18,31,14,47,1,KeVaughn Allen made Three Point Jumper. Assisted by Chris Chiozza.
+Georgia,Florida,20,31,15,5,1,Derek Ogbeide made Dunk. Assisted by Kenny Paul Geno.
+Georgia,Florida,20,34,15,23,1,Devin Robinson made Three Point Jumper. Assisted by Chris Chiozza.
+Georgia,Florida,20,34,15,44,0,Yante Maten missed Jumper.
+Georgia,Florida,20,34,15,44,0,J.J. Frazier Offensive Rebound.
+Georgia,Florida,20,34,15,48,0,Foul on Derek Ogbeide.
+Georgia,Florida,20,34,15,48,0,Derek Ogbeide Turnover.
+Georgia,Florida,20,35,15,48,1,Devin Robinson made Free Throw.
+Georgia,Florida,20,36,15,48,1,Devin Robinson made Free Throw.
+Georgia,Florida,20,36,15,57,0,Kenny Paul Geno missed Jumper.
+Georgia,Florida,20,36,15,57,0,Yante Maten Offensive Rebound.
+Georgia,Florida,22,36,15,57,1,Yante Maten made Layup.
+Georgia,Florida,22,36,15,57,0,Foul on Kevarrius Hayes.
+Georgia,Florida,22,36,15,57,0,Yante Maten missed Free Throw.
+Georgia,Florida,22,36,15,57,0,Devin Robinson Defensive Rebound.
+Georgia,Florida,22,36,15,57,0,Foul on Derek Ogbeide.
+Georgia,Florida,22,37,15,57,1,Devin Robinson made Free Throw.
+Georgia,Florida,22,37,15,57,0,Devin Robinson missed Free Throw.
+Georgia,Florida,22,37,15,57,0,Yante Maten Defensive Rebound.
+Georgia,Florida,22,37,16,6,0,Kenny Gaines missed Layup.
+Georgia,Florida,22,37,16,6,0,Kenny Gaines Offensive Rebound.
+Georgia,Florida,24,37,16,15,1,Kenny Gaines made Layup.
+Georgia,Florida,24,37,16,36,0,Kevarrius Hayes Turnover.
+Georgia,Florida,24,37,16,36,0,Official TV Timeout
+Georgia,Florida,26,37,16,45,1,Kenny Gaines made Jumper.
+Georgia,Florida,26,37,17,17,0,KeVaughn Allen missed Three Point Jumper.
+Georgia,Florida,26,37,17,17,0,DeVon Walker Offensive Rebound.
+Georgia,Florida,26,37,17,21,0,DeVon Walker missed Layup.
+Georgia,Florida,26,37,17,21,0,Georgia Defensive Rebound.
+Georgia,Florida,26,37,17,32,0,J.J. Frazier Turnover.
+Georgia,Florida,26,37,17,32,0,KeVaughn Allen Steal.
+Georgia,Florida,26,37,17,37,0,Foul on KeVaughn Allen.
+Georgia,Florida,26,37,17,37,0,KeVaughn Allen Turnover.
+Georgia,Florida,26,37,17,56,0,Kenny Gaines missed Three Point Jumper.
+Georgia,Florida,26,37,17,56,0,Mike Edwards Offensive Rebound.
+Georgia,Florida,26,37,18,0,0,Foul on Devin Robinson.
+Georgia,Florida,27,37,18,0,1,Mike Edwards made Free Throw.
+Georgia,Florida,27,37,18,0,0,Mike Edwards missed Free Throw.
+Georgia,Florida,27,37,18,0,0,Chris Chiozza Defensive Rebound.
+Georgia,Florida,27,37,18,6,0,Chris Chiozza Turnover.
+Georgia,Florida,27,37,18,6,0,Foul on Kevarrius Hayes.
+Georgia,Florida,28,37,18,6,1,Yante Maten made Free Throw.
+Georgia,Florida,29,37,18,6,1,Yante Maten made Free Throw.
+Georgia,Florida,29,37,18,24,0,Kasey Hill missed Three Point Jumper.
+Georgia,Florida,29,37,18,24,0,DeVon Walker Offensive Rebound.
+Georgia,Florida,29,37,18,27,0,Foul on J.J. Frazier.
+Georgia,Florida,29,37,18,27,0,DeVon Walker missed Free Throw.
+Georgia,Florida,29,37,18,27,0,Florida Deadball Team Rebound.
+Georgia,Florida,29,38,18,27,1,DeVon Walker made Free Throw.
+Georgia,Florida,29,38,18,43,0,E'Torrion Wilridge Turnover.
+Georgia,Florida,29,38,18,43,0,Kasey Hill Steal.
+Georgia,Florida,29,38,18,46,0,Kasey Hill missed Layup.
+Georgia,Florida,29,38,18,46,0,J.J. Frazier Defensive Rebound.
+Georgia,Florida,31,38,19,12,1,J.J. Frazier made Jumper.
+Georgia,Florida,31,38,19,29,0,Foul on Kenny Paul Geno.
+Georgia,Florida,31,38,19,29,0,Justin Leon missed Free Throw.
+Georgia,Florida,31,38,19,29,0,Florida Deadball Team Rebound.
+Georgia,Florida,31,38,19,29,0,Justin Leon missed Free Throw.
+Georgia,Florida,31,38,19,29,0,Yante Maten Defensive Rebound.
+Georgia,Florida,31,38,20,0,0,Yante Maten missed Jumper.
+Georgia,Florida,31,38,20,0,0,Kasey Hill Defensive Rebound.
+Georgia,Florida,31,38,20,0,0,End of 1st half
+Georgia,Florida,31,38,20,0,0,Jump Ball won by Georgia
+Georgia,Florida,31,40,20,20,1,John Egbunu made Layup. Assisted by Chris Chiozza.
+Georgia,Florida,33,40,20,37,1,Derek Ogbeide made Jumper. Assisted by Yante Maten.
+Georgia,Florida,33,40,20,55,0,KeVaughn Allen Turnover.
+Georgia,Florida,33,40,21,7,0,Yante Maten missed Jumper.
+Georgia,Florida,33,40,21,7,0,KeVaughn Allen Defensive Rebound.
+Georgia,Florida,33,40,21,16,0,KeVaughn Allen missed Jumper.
+Georgia,Florida,33,40,21,16,0,J.J. Frazier Defensive Rebound.
+Georgia,Florida,35,40,21,26,1,Yante Maten made Jumper. Assisted by J.J. Frazier.
+Georgia,Florida,35,40,21,39,0,Justin Leon missed Layup.
+Georgia,Florida,35,40,21,39,0,Derek Ogbeide Block.
+Georgia,Florida,35,40,21,39,0,Charles Mann Defensive Rebound.
+Georgia,Florida,35,40,21,46,0,Charles Mann Turnover.
+Georgia,Florida,35,40,21,46,0,Foul on Charles Mann.
+Georgia,Florida,35,40,22,8,0,Foul on Kenny Gaines.
+Georgia,Florida,35,40,22,8,0,John Egbunu missed Free Throw.
+Georgia,Florida,35,40,22,8,0,Florida Deadball Team Rebound.
+Georgia,Florida,35,41,22,8,1,John Egbunu made Free Throw.
+Georgia,Florida,35,41,22,24,0,Kenny Gaines missed Jumper.
+Georgia,Florida,35,41,22,24,0,John Egbunu Defensive Rebound.
+Georgia,Florida,35,41,22,43,0,Foul on Kenny Paul Geno.
+Georgia,Florida,35,41,22,50,0,Chris Chiozza missed Jumper.
+Georgia,Florida,35,41,22,50,0,Justin Leon Offensive Rebound.
+Georgia,Florida,35,41,22,51,0,Foul on Kenny Paul Geno.
+Georgia,Florida,35,43,22,52,1,KeVaughn Allen made Jumper. Assisted by Chris Chiozza.
+Georgia,Florida,37,43,23,18,1,Yante Maten made Layup. Assisted by E'Torrion Wilridge.
+Georgia,Florida,37,43,23,41,0,Dorian Finney-Smith missed Jumper.
+Georgia,Florida,37,43,23,41,0,E'Torrion Wilridge Defensive Rebound.
+Georgia,Florida,39,43,24,4,1,Yante Maten made Jumper. Assisted by J.J. Frazier.
+Georgia,Florida,39,43,24,14,0,Foul on Yante Maten.
+Georgia,Florida,39,43,24,14,0,Official TV Timeout
+Georgia,Florida,39,45,24,25,1,KeVaughn Allen made Jumper.
+Georgia,Florida,39,45,24,49,0,William Jackson II Turnover.
+Georgia,Florida,39,45,24,49,0,Kasey Hill Steal.
+Georgia,Florida,39,45,24,53,0,Foul on Kenny Gaines.
+Georgia,Florida,39,45,24,53,0,Kasey Hill missed Free Throw.
+Georgia,Florida,39,45,24,53,0,Florida Deadball Team Rebound.
+Georgia,Florida,39,46,24,53,1,Kasey Hill made Free Throw.
+Georgia,Florida,39,46,25,0,0,Kenny Gaines Turnover.
+Georgia,Florida,39,46,25,0,0,Kasey Hill Steal.
+Georgia,Florida,39,48,25,4,1,Justin Leon made Dunk. Assisted by Kasey Hill.
+Georgia,Florida,42,48,25,25,1,Kenny Gaines made Three Point Jumper. Assisted by J.J. Frazier.
+Georgia,Florida,42,48,25,43,0,Kasey Hill missed Jumper.
+Georgia,Florida,42,48,25,43,0,John Egbunu Offensive Rebound.
+Georgia,Florida,42,48,25,54,0,KeVaughn Allen missed Three Point Jumper.
+Georgia,Florida,42,48,25,54,0,John Egbunu Offensive Rebound.
+Georgia,Florida,42,50,26,2,1,Dorian Finney-Smith made Layup. Assisted by John Egbunu.
+Georgia,Florida,42,50,26,18,0,Foul on Justin Leon.
+Georgia,Florida,42,50,26,32,0,Foul on Kasey Hill.
+Georgia,Florida,44,50,26,45,1,Derek Ogbeide made Layup. Assisted by Kenny Gaines.
+Georgia,Florida,44,50,26,54,0,Foul on J.J. Frazier.
+Georgia,Florida,44,51,26,54,1,Kasey Hill made Free Throw.
+Georgia,Florida,44,51,26,54,0,Kasey Hill missed Free Throw.
+Georgia,Florida,44,51,26,54,0,Yante Maten Defensive Rebound.
+Georgia,Florida,44,51,27,14,0,J.J. Frazier missed Jumper.
+Georgia,Florida,44,51,27,14,0,John Egbunu Defensive Rebound.
+Georgia,Florida,44,51,27,24,0,Foul on J.J. Frazier.
+Georgia,Florida,44,52,27,24,1,Kasey Hill made Free Throw.
+Georgia,Florida,44,53,27,24,1,Kasey Hill made Free Throw.
+Georgia,Florida,44,53,27,40,0,Mike Edwards missed Layup.
+Georgia,Florida,44,53,27,40,0,DeVon Walker Defensive Rebound.
+Georgia,Florida,44,53,27,47,0,Technical Foul on Georgia.
+Georgia,Florida,44,54,27,47,0,Foul on Georgia.
+Georgia,Florida,44,54,27,47,0,KeVaughn Allen missed Free Throw.
+Georgia,Florida,44,54,27,47,0,Florida Deadball Team Rebound.
+Georgia,Florida,44,53,27,47,0,Technical Foul on Georgia.
+Georgia,Florida,44,54,27,47,1,KeVaughn Allen made Free Throw.
+Georgia,Florida,44,54,28,0,0,Dorian Finney-Smith missed Layup.
+Georgia,Florida,44,54,28,0,0,J.J. Frazier Defensive Rebound.
+Georgia,Florida,46,54,28,14,1,Charles Mann made Layup.
+Georgia,Florida,46,56,28,24,1,Chris Chiozza made Jumper.
+Georgia,Florida,46,56,28,50,0,Derek Ogbeide missed Jumper.
+Georgia,Florida,46,56,28,50,0,Kevarrius Hayes Defensive Rebound.
+Georgia,Florida,46,56,29,2,0,Foul on Kenny Gaines.
+Georgia,Florida,46,56,29,2,0,Official TV Timeout
+Georgia,Florida,46,56,29,2,0,Kevarrius Hayes missed Free Throw.
+Georgia,Florida,46,56,29,2,0,Florida Deadball Team Rebound.
+Georgia,Florida,46,56,29,2,0,Kevarrius Hayes missed Free Throw.
+Georgia,Florida,46,56,29,2,0,Derek Ogbeide Defensive Rebound.
+Georgia,Florida,46,56,29,14,0,Foul on Kevarrius Hayes.
+Georgia,Florida,46,56,29,14,0,Yante Maten missed Free Throw.
+Georgia,Florida,46,56,29,14,0,Georgia Deadball Team Rebound.
+Georgia,Florida,47,56,29,14,1,Yante Maten made Free Throw.
+Georgia,Florida,47,58,29,33,1,Dorian Finney-Smith made Jumper. Assisted by Kasey Hill.
+Georgia,Florida,47,58,30,3,0,Kenny Paul Geno missed Three Point Jumper.
+Georgia,Florida,47,58,30,3,0,Kasey Hill Block.
+Georgia,Florida,47,58,30,3,0,Florida Defensive Rebound.
+Georgia,Florida,47,58,30,22,0,KeVaughn Allen missed Jumper.
+Georgia,Florida,47,58,30,22,0,John Egbunu Offensive Rebound.
+Georgia,Florida,47,58,30,30,0,John Egbunu Turnover.
+Georgia,Florida,47,58,30,30,0,J.J. Frazier Steal.
+Georgia,Florida,47,58,30,49,0,J.J. Frazier missed Jumper.
+Georgia,Florida,47,58,30,49,0,Dorian Finney-Smith Defensive Rebound.
+Georgia,Florida,47,58,30,53,0,Dorian Finney-Smith missed Three Point Jumper.
+Georgia,Florida,47,58,30,53,0,J.J. Frazier Defensive Rebound.
+Georgia,Florida,47,58,30,57,0,Kenny Paul Geno missed Three Point Jumper.
+Georgia,Florida,47,58,30,57,0,Georgia Offensive Rebound.
+Georgia,Florida,47,58,30,57,0,Foul on DeVon Walker.
+Georgia,Florida,47,58,31,15,0,Charles Mann missed Jumper.
+Georgia,Florida,47,58,31,15,0,Dorian Finney-Smith Block.
+Georgia,Florida,47,58,31,15,0,Georgia Offensive Rebound.
+Georgia,Florida,47,58,31,16,0,Foul on Kasey Hill.
+Georgia,Florida,47,58,31,16,0,Charles Mann Turnover.
+Georgia,Florida,47,58,31,36,0,Foul on Mike Edwards.
+Georgia,Florida,47,58,31,36,0,Kasey Hill missed Free Throw.
+Georgia,Florida,47,58,31,36,0,Florida Deadball Team Rebound.
+Georgia,Florida,47,59,31,36,1,Kasey Hill made Free Throw.
+Georgia,Florida,47,59,31,53,0,Foul on DeVon Walker.
+Georgia,Florida,48,59,31,53,1,Charles Mann made Free Throw.
+Georgia,Florida,49,59,31,53,1,Charles Mann made Free Throw.
+Georgia,Florida,49,59,32,16,0,Justin Leon missed Jumper.
+Georgia,Florida,49,59,32,16,0,E'Torrion Wilridge Defensive Rebound.
+Georgia,Florida,49,59,32,25,0,Charles Mann missed Jumper.
+Georgia,Florida,49,59,32,25,0,Kasey Hill Defensive Rebound.
+Georgia,Florida,49,62,32,32,1,Chris Chiozza made Three Point Jumper. Assisted by Kasey Hill.
+Georgia,Florida,49,62,32,34,0,Georgia  Timeout
+Georgia,Florida,49,62,32,57,0,E'Torrion Wilridge missed Jumper.
+Georgia,Florida,49,62,32,57,0,Georgia Offensive Rebound.
+Georgia,Florida,49,62,32,58,0,Official TV Timeout
+Georgia,Florida,49,62,33,6,0,Yante Maten missed Jumper.
+Georgia,Florida,49,62,33,6,0,John Egbunu Block.
+Georgia,Florida,49,62,33,6,0,Georgia Offensive Rebound.
+Georgia,Florida,49,62,33,25,0,Charles Mann missed Jumper.
+Georgia,Florida,49,62,33,25,0,Kasey Hill Defensive Rebound.
+Georgia,Florida,49,62,33,41,0,John Egbunu missed Jumper.
+Georgia,Florida,49,62,33,41,0,Osahen Iduwe Block.
+Georgia,Florida,49,62,33,41,0,Florida Offensive Rebound.
+Georgia,Florida,49,62,33,42,0,DeVon Walker missed Three Point Jumper.
+Georgia,Florida,49,62,33,42,0,John Egbunu Offensive Rebound.
+Georgia,Florida,49,62,33,55,0,Kasey Hill missed Three Point Jumper.
+Georgia,Florida,49,62,33,55,0,John Egbunu Offensive Rebound.
+Georgia,Florida,49,62,34,0,0,John Egbunu missed Layup.
+Georgia,Florida,49,62,34,0,0,Florida Offensive Rebound.
+Georgia,Florida,49,64,34,21,1,Kasey Hill made Jumper.
+Georgia,Florida,49,64,34,29,0,E'Torrion Wilridge missed Layup.
+Georgia,Florida,49,64,34,29,0,Derek Ogbeide Offensive Rebound.
+Georgia,Florida,51,64,34,35,1,Kenny Gaines made Dunk. Assisted by Derek Ogbeide.
+Georgia,Florida,51,64,34,58,0,KeVaughn Allen missed Three Point Jumper.
+Georgia,Florida,51,64,34,58,0,Florida Offensive Rebound.
+Georgia,Florida,51,64,35,17,0,Kasey Hill Turnover.
+Georgia,Florida,51,64,35,31,0,Yante Maten missed Jumper.
+Georgia,Florida,51,64,35,31,0,Derek Ogbeide Offensive Rebound.
+Georgia,Florida,51,64,35,36,0,Derek Ogbeide missed Layup.
+Georgia,Florida,51,64,35,36,0,KeVaughn Allen Defensive Rebound.
+Georgia,Florida,51,64,36,2,0,Foul on Yante Maten.
+Georgia,Florida,51,64,36,2,0,Official TV Timeout
+Georgia,Florida,51,65,36,2,1,KeVaughn Allen made Free Throw.
+Georgia,Florida,51,66,36,2,1,KeVaughn Allen made Free Throw.
+Georgia,Florida,51,66,36,12,0,Kenny Gaines missed Jumper.
+Georgia,Florida,51,66,36,12,0,Kasey Hill Defensive Rebound.
+Georgia,Florida,51,66,36,44,0,Kasey Hill missed Three Point Jumper.
+Georgia,Florida,51,66,36,44,0,Yante Maten Defensive Rebound.
+Georgia,Florida,51,66,36,47,0,Foul on Dorian Finney-Smith.
+Georgia,Florida,52,66,36,47,1,Yante Maten made Free Throw.
+Georgia,Florida,53,66,36,47,1,Yante Maten made Free Throw.
+Georgia,Florida,53,66,36,57,0,Foul on Kenny Gaines.
+Georgia,Florida,53,66,36,57,0,Kasey Hill missed Free Throw.
+Georgia,Florida,53,66,36,57,0,Florida Deadball Team Rebound.
+Georgia,Florida,53,66,36,57,0,Kasey Hill missed Free Throw.
+Georgia,Florida,53,66,36,57,0,Derek Ogbeide Defensive Rebound.
+Georgia,Florida,53,66,36,58,0,Foul on John Egbunu.
+Georgia,Florida,54,66,36,58,1,Yante Maten made Free Throw.
+Georgia,Florida,55,66,36,58,1,Yante Maten made Free Throw.
+Georgia,Florida,55,66,37,6,0,Kasey Hill Turnover.
+Georgia,Florida,55,66,37,6,0,J.J. Frazier Steal.
+Georgia,Florida,55,66,37,26,0,Foul on KeVaughn Allen.
+Georgia,Florida,55,66,37,26,0,Derek Ogbeide missed Free Throw.
+Georgia,Florida,55,66,37,26,0,John Egbunu Defensive Rebound.
+Georgia,Florida,55,69,37,48,1,Dorian Finney-Smith made Three Point Jumper. Assisted by Kasey Hill.
+Georgia,Florida,55,69,37,59,0,Foul on KeVaughn Allen.
+Georgia,Florida,55,69,37,59,0,Georgia  Timeout
+Georgia,Florida,56,69,37,59,1,Charles Mann made Free Throw.
+Georgia,Florida,57,69,37,59,1,Charles Mann made Free Throw.
+Georgia,Florida,57,69,38,1,0,Foul on Charles Mann.
+Georgia,Florida,57,70,38,1,1,Kasey Hill made Free Throw.
+Georgia,Florida,57,70,38,1,0,Kasey Hill missed Free Throw.
+Georgia,Florida,57,70,38,1,0,Mike Edwards Defensive Rebound.
+Georgia,Florida,57,70,38,9,0,William Jackson II missed Three Point Jumper.
+Georgia,Florida,57,70,38,9,0,William Jackson II Offensive Rebound.
+Georgia,Florida,60,70,38,16,1,J.J. Frazier made Three Point Jumper. Assisted by William Jackson II.
+Georgia,Florida,60,70,38,16,0,Georgia  Timeout
+Georgia,Florida,60,70,38,19,0,Foul on J.J. Frazier.
+Georgia,Florida,60,71,38,19,1,KeVaughn Allen made Free Throw.
+Georgia,Florida,60,72,38,19,1,KeVaughn Allen made Free Throw.
+Georgia,Florida,60,72,38,25,0,Foul on Kasey Hill.
+Georgia,Florida,61,72,38,25,1,J.J. Frazier made Free Throw.
+Georgia,Florida,62,72,38,25,1,J.J. Frazier made Free Throw.
+Georgia,Florida,63,72,38,25,1,J.J. Frazier made Free Throw.
+Georgia,Florida,63,75,38,53,1,KeVaughn Allen made Three Point Jumper.
+Georgia,Florida,63,75,39,2,0,J.J. Frazier missed Three Point Jumper.
+Georgia,Florida,63,75,39,2,0,E'Torrion Wilridge Offensive Rebound.
+Georgia,Florida,63,75,39,11,0,William Jackson II missed Three Point Jumper.
+Georgia,Florida,63,75,39,11,0,Kasey Hill Defensive Rebound.
+Georgia,Florida,63,75,39,11,0,Foul on J.J. Frazier.
+Georgia,Florida,63,75,39,11,0,Kasey Hill missed Free Throw.
+Georgia,Florida,63,75,39,11,0,Florida Deadball Team Rebound.
+Georgia,Florida,63,76,39,11,1,Kasey Hill made Free Throw.
+Georgia,Florida,63,76,39,19,0,William Jackson II missed Three Point Jumper.
+Georgia,Florida,63,76,39,19,0,Chris Chiozza Defensive Rebound.
+Georgia,Florida,63,76,39,22,0,Foul on Mike Edwards.
+Georgia,Florida,63,76,39,22,0,Chris Chiozza missed Free Throw.
+Georgia,Florida,63,76,39,22,0,Florida Deadball Team Rebound.
+Georgia,Florida,63,77,39,22,1,Chris Chiozza made Free Throw.
+Georgia,Florida,63,77,39,30,0,Charles Mann missed Jumper.
+Georgia,Florida,63,77,39,30,0,Mike Edwards Offensive Rebound.
+Georgia,Florida,63,77,39,31,0,Foul on John Egbunu.
+Georgia,Florida,63,77,39,31,0,Mike Edwards missed Free Throw.
+Georgia,Florida,63,77,39,31,0,Georgia Deadball Team Rebound.
+Georgia,Florida,63,77,39,31,0,Mike Edwards missed Free Throw.
+Georgia,Florida,63,77,39,31,0,Chris Chiozza Defensive Rebound.
+Georgia,Florida,63,77,40,0,0,End of Game

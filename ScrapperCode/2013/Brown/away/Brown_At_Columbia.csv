@@ -1,0 +1,301 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Brown,Columbia,0,0,0,26,0,Foul on Rafael Maia
+Brown,Columbia,0,0,0,26,0,Mark Cisco missed Free Throw.
+Brown,Columbia,0,0,0,26,0,null
+Brown,Columbia,0,1,0,26,1,Mark Cisco made Free Throw.
+Brown,Columbia,0,1,0,46,0,Matt Sullivan missed Layup.
+Brown,Columbia,0,1,0,46,0,John Daniels Defensive Rebound.
+Brown,Columbia,0,1,1,19,0,Maodo Lo missed Three Point Jumper.
+Brown,Columbia,0,1,1,19,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Columbia,2,1,1,40,1,Cedric Kuakumensah made Jumper.
+Brown,Columbia,2,3,2,13,1,John Daniels made Layup.  Assisted by Dean Kowalski.
+Brown,Columbia,2,3,2,39,0,Foul on Mark Cisco
+Brown,Columbia,2,3,2,51,0,Cedric Kuakumensah Turnover.
+Brown,Columbia,2,3,2,52,0,Dean Kowalski Steal.
+Brown,Columbia,2,5,3,12,1,Maodo Lo made Layup.
+Brown,Columbia,2,5,3,21,0,Foul on Dean Kowalski
+Brown,Columbia,4,5,3,34,1,Matt Sullivan made Layup.
+Brown,Columbia,4,5,3,59,0,Dean Kowalski Turnover.
+Brown,Columbia,4,5,4,21,0,Foul on Mark Cisco
+Brown,Columbia,4,5,4,21,0,Official TV Timeout.
+Brown,Columbia,4,5,4,31,0,Sean McGonagill missed Three Point Jumper.
+Brown,Columbia,4,5,4,31,0,Alex Rosenberg Defensive Rebound.
+Brown,Columbia,4,5,4,52,0,Foul on Rafael Maia
+Brown,Columbia,4,5,4,52,0,Alex Rosenberg missed Free Throw.
+Brown,Columbia,4,5,4,52,0,null
+Brown,Columbia,4,5,4,52,0,Alex Rosenberg missed Free Throw.
+Brown,Columbia,4,5,4,52,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Columbia,7,5,5,12,1,Tucker Halpern made Three Point Jumper.  Assisted by Cedric Kuakumensah.
+Brown,Columbia,7,7,5,35,1,Cory Osetkowski made Layup.  Assisted by Grant Mullins.
+Brown,Columbia,7,7,5,51,0,Foul on Cory Osetkowski
+Brown,Columbia,8,7,5,51,1,Matt Sullivan made Free Throw.
+Brown,Columbia,9,7,5,51,1,Matt Sullivan made Free Throw.
+Brown,Columbia,9,7,6,6,0,Alex Rosenberg missed Jumper.
+Brown,Columbia,9,7,6,6,0,Isaac Cohen Offensive Rebound.
+Brown,Columbia,9,7,6,21,0,Grant Mullins missed Layup.
+Brown,Columbia,9,7,6,21,0,Cory Osetkowski Offensive Rebound.
+Brown,Columbia,9,7,6,22,0,Foul on Tyler Ponticelli
+Brown,Columbia,9,7,6,22,0,Dean Kowalski Turnover.
+Brown,Columbia,9,7,6,22,0,Foul on Steve Frankoski
+Brown,Columbia,9,7,6,43,0,Tucker Halpern missed Jumper.
+Brown,Columbia,9,7,6,43,0,Cory Osetkowski Defensive Rebound.
+Brown,Columbia,9,7,7,7,0,Steve Frankoski Turnover.
+Brown,Columbia,9,7,7,9,0,Matt Sullivan Steal.
+Brown,Columbia,9,7,7,12,0,Matt Sullivan missed Layup.
+Brown,Columbia,9,7,7,12,0,Isaac Cohen Defensive Rebound.
+Brown,Columbia,9,9,7,40,1,Alex Rosenberg made Jumper.
+Brown,Columbia,11,9,8,4,1,Tyler Ponticelli made Layup.  Assisted by Tucker Halpern.
+Brown,Columbia,11,9,8,17,0,Steve Frankoski missed Three Point Jumper.
+Brown,Columbia,11,9,8,17,0,Cory Osetkowski Offensive Rebound.
+Brown,Columbia,11,9,8,37,0,Alex Rosenberg Turnover.
+Brown,Columbia,11,9,8,38,0,Matt Sullivan Steal.
+Brown,Columbia,11,9,9,2,0,Foul on Cory Osetkowski
+Brown,Columbia,11,9,9,2,0,Official TV Timeout.
+Brown,Columbia,14,9,9,3,1,Sean McGonagill made Three Point Jumper.
+Brown,Columbia,14,11,9,19,1,John Daniels made Layup.
+Brown,Columbia,16,11,9,41,1,Cedric Kuakumensah made Jumper.
+Brown,Columbia,16,11,10,14,0,John Daniels missed Jumper.
+Brown,Columbia,16,11,10,14,0,Brian Barbour Offensive Rebound.
+Brown,Columbia,16,11,10,38,0,John Daniels missed Layup.
+Brown,Columbia,16,11,10,38,0,Cedric Kuakumensah Block.
+Brown,Columbia,16,11,10,40,0,Tyler Ponticelli Defensive Rebound.
+Brown,Columbia,16,11,10,48,0,Cedric Kuakumensah missed Jumper.
+Brown,Columbia,16,11,10,48,0,John Daniels Defensive Rebound.
+Brown,Columbia,16,11,11,1,0,Grant Mullins Turnover.
+Brown,Columbia,16,11,11,3,0,Matt Sullivan Steal.
+Brown,Columbia,16,11,11,6,0,Sean McGonagill missed Layup.
+Brown,Columbia,16,11,11,6,0,Matt Sullivan Offensive Rebound.
+Brown,Columbia,16,11,11,26,0,Cedric Kuakumensah missed Layup.
+Brown,Columbia,16,11,11,26,0,John Daniels Defensive Rebound.
+Brown,Columbia,16,11,11,34,0,Foul on Sean McGonagill
+Brown,Columbia,16,12,11,34,1,Brian Barbour made Free Throw.
+Brown,Columbia,16,13,11,34,1,Brian Barbour made Free Throw.
+Brown,Columbia,16,13,11,45,0,Sean McGonagill Turnover.
+Brown,Columbia,16,13,11,47,0,John Daniels Steal.
+Brown,Columbia,16,15,11,52,1,Skylar Scrivano made Layup.
+Brown,Columbia,16,15,12,12,0,Tucker Halpern missed Three Point Jumper.
+Brown,Columbia,16,15,12,12,0,Maodo Lo Defensive Rebound.
+Brown,Columbia,16,17,12,23,1,Maodo Lo made Layup.
+Brown,Columbia,16,17,12,24,0,Brown Full Timeout.
+Brown,Columbia,16,17,12,30,0,Sean McGonagill missed Jumper.
+Brown,Columbia,16,17,12,30,0,Matt Sullivan Offensive Rebound.
+Brown,Columbia,16,17,12,35,0,Foul on Matt Sullivan
+Brown,Columbia,16,17,12,38,0,Official TV Timeout.
+Brown,Columbia,16,17,13,15,0,Maodo Lo missed Three Point Jumper.
+Brown,Columbia,16,17,13,15,0,Skylar Scrivano Offensive Rebound.
+Brown,Columbia,16,20,13,31,1,Maodo Lo made Three Point Jumper.
+Brown,Columbia,16,20,14,2,0,Foul on Isaac Cohen
+Brown,Columbia,16,20,14,2,0,Cedric Kuakumensah missed Free Throw.
+Brown,Columbia,16,20,14,2,0,Skylar Scrivano Defensive Rebound.
+Brown,Columbia,16,20,14,4,0,Foul on Tyler Ponticelli
+Brown,Columbia,16,20,14,27,0,Maodo Lo Turnover.
+Brown,Columbia,16,20,14,28,0,Joe Sharkey Steal.
+Brown,Columbia,16,20,14,34,0,Joe Sharkey Turnover.
+Brown,Columbia,16,20,14,38,0,Brian Barbour Steal.
+Brown,Columbia,16,22,14,42,1,Brian Barbour made Layup.
+Brown,Columbia,16,22,15,0,0,Foul on Skylar Scrivano
+Brown,Columbia,16,22,15,0,0,Technical Foul on Cedric Kuakumensah
+Brown,Columbia,16,22,15,0,0,Foul on Cedric Kuakumensah
+Brown,Columbia,16,22,15,0,0,Brian Barbour missed Free Throw.
+Brown,Columbia,16,22,15,0,0,null
+Brown,Columbia,16,23,15,0,1,Brian Barbour made Free Throw.
+Brown,Columbia,16,23,15,0,0,Cedric Kuakumensah missed Free Throw.
+Brown,Columbia,16,23,15,0,0,null
+Brown,Columbia,17,23,15,0,1,Cedric Kuakumensah made Free Throw.
+Brown,Columbia,17,25,15,27,1,Maodo Lo made Layup.
+Brown,Columbia,17,25,15,53,0,Sean McGonagill missed Three Point Jumper.
+Brown,Columbia,17,25,15,53,0,Skylar Scrivano Defensive Rebound.
+Brown,Columbia,17,25,16,1,0,Maodo Lo missed Layup.
+Brown,Columbia,17,25,16,1,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Columbia,17,25,16,6,0,Matt Sullivan Turnover.
+Brown,Columbia,17,25,16,6,0,Official TV Timeout.
+Brown,Columbia,17,25,16,21,0,Brian Barbour missed Jumper.
+Brown,Columbia,17,25,16,21,0,John Daniels Offensive Rebound.
+Brown,Columbia,17,25,16,31,0,John Daniels missed Dunk.
+Brown,Columbia,17,25,16,31,0,Skylar Scrivano Offensive Rebound.
+Brown,Columbia,17,25,16,51,0,John Daniels Turnover.
+Brown,Columbia,17,25,16,52,0,Matt Sullivan Steal.
+Brown,Columbia,17,25,16,55,0,Matt Sullivan missed Three Point Jumper.
+Brown,Columbia,18,28,17,26,1,Brian Barbour made Three Point Jumper.
+Brown,Columbia,18,25,17,38,1,Matt Sullivan made Free Throw.
+Brown,Columbia,18,25,17,38,0,Foul on Isaac Cohen
+Brown,Columbia,19,28,17,38,1,Matt Sullivan made Free Throw.
+Brown,Columbia,20,28,17,38,1,Matt Sullivan made Free Throw.
+Brown,Columbia,20,28,18,12,0,Grant Mullins missed Layup.
+Brown,Columbia,20,28,18,12,0,Brown Defensive Rebound.
+Brown,Columbia,20,28,18,21,0,Foul on Sean McGonagill
+Brown,Columbia,20,28,18,35,0,Tucker Halpern Turnover.
+Brown,Columbia,20,31,19,15,1,Brian Barbour made Three Point Jumper.
+Brown,Columbia,20,31,19,16,0,Columbia Full Timeout.
+Brown,Columbia,20,31,19,34,0,Sean McGonagill Turnover.
+Brown,Columbia,20,31,19,58,0,Maodo Lo missed Layup.
+Brown,Columbia,20,31,19,58,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Columbia,20,31,19,59,0,Foul on John Daniels
+Brown,Columbia,20,31,19,59,0,Cedric Kuakumensah missed Free Throw.
+Brown,Columbia,20,31,19,59,0,null
+Brown,Columbia,21,31,19,59,1,Cedric Kuakumensah made Free Throw.
+Brown,Columbia,20,31,20,0,0,End of the 1st Half.
+Brown,Columbia,21,31,20,12,0,Foul on Maodo Lo
+Brown,Columbia,23,31,20,12,1,Tucker Halpern made Jumper.  Assisted by Matt Sullivan.
+Brown,Columbia,23,33,20,40,1,Mark Cisco made Layup.
+Brown,Columbia,23,33,20,40,0,Foul on Cedric Kuakumensah
+Brown,Columbia,23,33,20,40,0,Mark Cisco missed Free Throw.
+Brown,Columbia,23,33,20,40,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Columbia,25,33,20,57,1,Rafael Maia made Layup.
+Brown,Columbia,25,33,20,57,0,Foul on Mark Cisco
+Brown,Columbia,25,33,20,57,0,Rafael Maia missed Free Throw.
+Brown,Columbia,25,33,20,57,0,Maodo Lo Defensive Rebound.
+Brown,Columbia,25,33,21,8,0,Skylar Scrivano Turnover.
+Brown,Columbia,25,33,21,10,0,Sean McGonagill Steal.
+Brown,Columbia,25,33,21,13,0,Tucker Halpern missed Three Point Jumper.
+Brown,Columbia,25,33,21,13,0,Rafael Maia Offensive Rebound.
+Brown,Columbia,27,33,21,18,1,Rafael Maia made Layup.
+Brown,Columbia,27,35,21,44,1,Skylar Scrivano made Layup.
+Brown,Columbia,27,35,21,59,0,Matt Sullivan Turnover.
+Brown,Columbia,27,35,22,0,0,Brian Barbour Steal.
+Brown,Columbia,27,35,22,1,0,Foul on Tucker Halpern
+Brown,Columbia,27,37,22,17,1,Maodo Lo made Jumper.
+Brown,Columbia,27,37,22,36,0,Rafael Maia Turnover.
+Brown,Columbia,27,37,22,37,0,Maodo Lo Steal.
+Brown,Columbia,27,37,22,42,0,Foul on Cedric Kuakumensah
+Brown,Columbia,27,38,22,42,1,Maodo Lo made Free Throw.
+Brown,Columbia,27,38,22,42,0,Maodo Lo missed Free Throw.
+Brown,Columbia,27,38,22,42,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Columbia,29,38,22,58,1,Rafael Maia made Layup.
+Brown,Columbia,29,38,23,25,0,Skylar Scrivano missed Jumper.
+Brown,Columbia,29,38,23,25,0,Columbia Offensive Rebound.
+Brown,Columbia,29,38,23,29,0,Foul on Matt Sullivan
+Brown,Columbia,29,41,23,51,1,Alex Rosenberg made Three Point Jumper.  Assisted by Brian Barbour.
+Brown,Columbia,32,41,24,4,1,Sean McGonagill made Three Point Jumper.
+Brown,Columbia,32,41,24,14,0,Foul on Rafael Maia
+Brown,Columbia,32,41,24,14,0,Official TV Timeout.
+Brown,Columbia,32,41,24,34,0,Alex Rosenberg missed Jumper.
+Brown,Columbia,32,41,24,34,0,Matt Sullivan Defensive Rebound.
+Brown,Columbia,32,41,24,48,0,Foul on Cory Osetkowski
+Brown,Columbia,34,41,25,5,1,Rafael Maia made Layup.
+Brown,Columbia,34,41,25,5,0,Foul on Cory Osetkowski
+Brown,Columbia,35,41,25,5,1,Rafael Maia made Free Throw.
+Brown,Columbia,35,41,25,31,0,Alex Rosenberg Turnover.
+Brown,Columbia,35,41,25,31,0,Matt Sullivan Steal.
+Brown,Columbia,35,41,25,31,0,Foul on Alex Rosenberg
+Brown,Columbia,37,41,25,36,1,Sean McGonagill made Layup.
+Brown,Columbia,37,41,25,36,0,Foul on Maodo Lo
+Brown,Columbia,38,41,25,36,1,Sean McGonagill made Free Throw.
+Brown,Columbia,38,44,25,58,1,Grant Mullins made Three Point Jumper.  Assisted by Brian Barbour.
+Brown,Columbia,41,44,26,15,1,Sean McGonagill made Three Point Jumper.
+Brown,Columbia,41,44,26,19,0,Columbia Full Timeout.
+Brown,Columbia,41,44,26,41,0,Alex Rosenberg missed Jumper.
+Brown,Columbia,41,44,26,42,0,Tyler Ponticelli Block.
+Brown,Columbia,41,44,26,43,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Columbia,41,44,26,57,0,Cedric Kuakumensah missed Jumper.
+Brown,Columbia,41,44,26,57,0,Grant Mullins Defensive Rebound.
+Brown,Columbia,41,44,27,24,0,Alex Rosenberg missed Three Point Jumper.
+Brown,Columbia,41,44,27,24,0,Sean McGonagill Defensive Rebound.
+Brown,Columbia,41,44,27,38,0,Foul on Brian Barbour
+Brown,Columbia,42,44,27,38,1,Stephen Albrecht made Free Throw.
+Brown,Columbia,42,44,27,38,0,Stephen Albrecht missed Free Throw.
+Brown,Columbia,42,44,27,38,0,Alex Rosenberg Defensive Rebound.
+Brown,Columbia,42,44,27,54,0,Foul on Sean McGonagill
+Brown,Columbia,42,44,27,54,0,Official TV Timeout.
+Brown,Columbia,42,44,27,57,0,Isaac Cohen Turnover.
+Brown,Columbia,42,44,27,58,0,Sean McGonagill Steal.
+Brown,Columbia,42,44,28,5,0,Foul on John Daniels
+Brown,Columbia,42,44,28,5,0,Rafael Maia missed Free Throw.
+Brown,Columbia,42,44,28,5,0,John Daniels Defensive Rebound.
+Brown,Columbia,42,44,28,29,0,Grant Mullins missed Three Point Jumper.
+Brown,Columbia,42,44,28,29,0,Sean McGonagill Defensive Rebound.
+Brown,Columbia,42,44,28,39,0,Tyler Ponticelli Turnover.
+Brown,Columbia,42,44,28,40,0,Brian Barbour Steal.
+Brown,Columbia,42,47,28,49,1,Brian Barbour made Three Point Jumper.  Assisted by Isaac Cohen.
+Brown,Columbia,42,47,29,13,0,Matt Sullivan missed Three Point Jumper.
+Brown,Columbia,42,47,29,13,0,John Daniels Defensive Rebound.
+Brown,Columbia,42,47,29,42,0,Steve Frankoski missed Three Point Jumper.
+Brown,Columbia,42,47,29,42,0,Sean McGonagill Defensive Rebound.
+Brown,Columbia,42,47,29,52,0,Brown Full Timeout.
+Brown,Columbia,44,47,30,30,1,Matt Sullivan made Layup.
+Brown,Columbia,44,47,30,41,0,Grant Mullins Turnover.
+Brown,Columbia,44,47,30,41,0,Matt Sullivan Steal.
+Brown,Columbia,46,47,30,41,1,Matt Sullivan made Layup.
+Brown,Columbia,46,47,30,41,0,Foul on Grant Mullins
+Brown,Columbia,47,47,30,41,1,Matt Sullivan made Free Throw.
+Brown,Columbia,47,49,31,12,1,Maodo Lo made Jumper.
+Brown,Columbia,47,49,31,32,0,Tyler Ponticelli Turnover.
+Brown,Columbia,47,49,31,33,0,Brian Barbour Steal.
+Brown,Columbia,47,49,32,0,0,Alex Rosenberg missed Three Point Jumper.
+Brown,Columbia,47,49,32,0,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Columbia,47,49,32,19,0,Foul on Mark Cisco
+Brown,Columbia,47,49,32,19,0,Official TV Timeout.
+Brown,Columbia,48,49,32,19,1,Matt Sullivan made Free Throw.
+Brown,Columbia,49,49,32,19,1,Matt Sullivan made Free Throw.
+Brown,Columbia,49,49,32,41,0,Cory Osetkowski missed Jumper.
+Brown,Columbia,49,49,32,41,0,Tucker Halpern Defensive Rebound.
+Brown,Columbia,49,49,33,6,0,Matt Sullivan missed Layup.
+Brown,Columbia,49,49,33,6,0,Cedric Kuakumensah Offensive Rebound.
+Brown,Columbia,49,49,33,19,0,Foul on Brian Barbour
+Brown,Columbia,50,49,33,19,1,Matt Sullivan made Free Throw.
+Brown,Columbia,50,49,33,19,0,Matt Sullivan missed Free Throw.
+Brown,Columbia,50,49,33,19,0,Columbia Defensive Rebound.
+Brown,Columbia,50,49,33,46,0,Foul on Cedric Kuakumensah
+Brown,Columbia,50,50,33,46,1,Mark Cisco made Free Throw.
+Brown,Columbia,50,51,33,46,1,Mark Cisco made Free Throw.
+Brown,Columbia,50,51,34,2,0,Rafael Maia missed Layup.
+Brown,Columbia,50,51,34,2,0,Rafael Maia Offensive Rebound.
+Brown,Columbia,50,51,34,5,0,Rafael Maia missed Layup.
+Brown,Columbia,50,51,34,5,0,Matt Sullivan Offensive Rebound.
+Brown,Columbia,50,51,34,7,0,Foul on Grant Mullins
+Brown,Columbia,50,51,34,7,0,Matt Sullivan missed Free Throw.
+Brown,Columbia,50,51,34,7,0,null
+Brown,Columbia,50,51,34,7,0,Matt Sullivan missed Free Throw.
+Brown,Columbia,50,51,34,7,0,John Daniels Defensive Rebound.
+Brown,Columbia,50,53,34,32,1,Brian Barbour made Jumper.
+Brown,Columbia,52,53,34,50,1,Tyler Ponticelli made Layup.  Assisted by Rafael Maia.
+Brown,Columbia,52,53,35,21,0,Brian Barbour missed Jumper.
+Brown,Columbia,52,53,35,21,0,Sean McGonagill Defensive Rebound.
+Brown,Columbia,54,53,35,41,1,Sean McGonagill made Jumper.
+Brown,Columbia,54,53,36,5,0,Foul on Tyler Ponticelli
+Brown,Columbia,54,53,36,5,0,Official TV Timeout.
+Brown,Columbia,54,53,36,5,0,John Daniels missed Free Throw.
+Brown,Columbia,54,53,36,5,0,Rafael Maia Defensive Rebound.
+Brown,Columbia,54,53,36,24,0,Foul on Mark Cisco
+Brown,Columbia,55,53,36,24,1,Cedric Kuakumensah made Free Throw.
+Brown,Columbia,56,53,36,24,1,Cedric Kuakumensah made Free Throw.
+Brown,Columbia,56,53,36,46,0,Maodo Lo missed Three Point Jumper.
+Brown,Columbia,56,53,36,46,0,Sean McGonagill Defensive Rebound.
+Brown,Columbia,58,53,36,53,1,Matt Sullivan made Layup.  Assisted by Sean McGonagill.
+Brown,Columbia,58,53,36,55,0,Columbia Full Timeout.
+Brown,Columbia,58,53,37,14,0,Maodo Lo missed Three Point Jumper.
+Brown,Columbia,58,53,37,14,0,Sean McGonagill Defensive Rebound.
+Brown,Columbia,58,53,37,34,0,Rafael Maia Turnover.
+Brown,Columbia,58,53,37,34,0,Foul on Rafael Maia
+Brown,Columbia,58,53,37,52,0,Foul on Tyler Ponticelli
+Brown,Columbia,58,53,37,52,0,Alex Rosenberg missed Free Throw.
+Brown,Columbia,58,53,37,52,0,null
+Brown,Columbia,58,54,37,52,1,Alex Rosenberg made Free Throw.
+Brown,Columbia,58,54,38,14,0,Rafael Maia Turnover.
+Brown,Columbia,58,54,38,16,0,Brian Barbour Steal.
+Brown,Columbia,58,54,38,20,0,Brian Barbour Turnover.
+Brown,Columbia,58,54,38,42,0,Cedric Kuakumensah missed Layup.
+Brown,Columbia,58,54,38,42,0,Maodo Lo Defensive Rebound.
+Brown,Columbia,58,54,38,48,0,Brian Barbour Turnover.
+Brown,Columbia,58,54,38,48,0,Foul on Brian Barbour
+Brown,Columbia,58,54,38,55,0,Brown Full Timeout.
+Brown,Columbia,58,54,39,19,0,Sean McGonagill missed Three Point Jumper.
+Brown,Columbia,58,54,39,19,0,Alex Rosenberg Defensive Rebound.
+Brown,Columbia,58,54,39,19,0,Foul on Matt Sullivan
+Brown,Columbia,58,55,39,19,1,Brian Barbour made Free Throw.
+Brown,Columbia,58,56,39,19,1,Brian Barbour made Free Throw.
+Brown,Columbia,58,56,39,19,0,Columbia Full Timeout.
+Brown,Columbia,58,56,39,21,0,Foul on Maodo Lo
+Brown,Columbia,58,56,39,21,0,Matt Sullivan missed Free Throw.
+Brown,Columbia,58,56,39,21,0,null
+Brown,Columbia,59,56,39,21,1,Matt Sullivan made Free Throw.
+Brown,Columbia,59,56,39,42,0,Brian Barbour missed Three Point Jumper.
+Brown,Columbia,59,56,39,42,0,Grant Mullins Offensive Rebound.
+Brown,Columbia,59,56,39,47,0,Columbia Full Timeout.
+Brown,Columbia,59,56,39,57,0,Foul on Rafael Maia
+Brown,Columbia,59,57,39,57,1,Alex Rosenberg made Free Throw.
+Brown,Columbia,59,58,39,57,1,Alex Rosenberg made Free Throw.
+Brown,Columbia,59,58,39,59,0,Brown Full Timeout.
+Brown,Columbia,62,58,40,0,1,Tucker Halpern made Three Point Jumper.
+Brown,Columbia,62,58,40,0,0,End of the 2nd Half.
+Brown,Columbia,62,58,40,0,0,End Game

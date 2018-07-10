@@ -1,0 +1,297 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Richmond,Bryant,2,0,0,28,1,Cedrick Lindsay made Jumper.
+Richmond,Bryant,2,0,0,56,0,Alex Francis missed Jumper.
+Richmond,Bryant,2,0,0,56,0,Alex Francis Offensive Rebound.
+Richmond,Bryant,2,0,1,26,0,Alex Francis Turnover.
+Richmond,Bryant,2,0,1,43,0,Foul on Vlad Kondratyev
+Richmond,Bryant,3,0,1,43,1,Darien Brothers made Free Throw.
+Richmond,Bryant,3,0,1,43,0,Darien Brothers missed Free Throw.
+Richmond,Bryant,3,0,1,43,0,Alex Francis Defensive Rebound.
+Richmond,Bryant,3,0,1,59,0,Alex Francis missed Layup.
+Richmond,Bryant,3,0,1,59,0,Terry Allen Defensive Rebound.
+Richmond,Bryant,5,0,2,7,1,Darien Brothers made Jumper.  Assisted by Cedrick Lindsay.
+Richmond,Bryant,5,0,2,17,0,Dyami Starks missed Layup.
+Richmond,Bryant,5,0,2,17,0,Terry Allen Block.
+Richmond,Bryant,5,0,2,19,0,Darien Brothers Defensive Rebound.
+Richmond,Bryant,5,0,2,34,0,Cedrick Lindsay missed Three Point Jumper.
+Richmond,Bryant,5,0,2,34,0,Alex Francis Defensive Rebound.
+Richmond,Bryant,5,2,2,48,1,Alex Francis made Layup.
+Richmond,Bryant,5,2,2,48,0,Foul on Terry Allen
+Richmond,Bryant,5,2,2,48,0,Alex Francis missed Free Throw.
+Richmond,Bryant,5,2,2,48,0,Terry Allen Defensive Rebound.
+Richmond,Bryant,5,2,3,1,0,Terry Allen Turnover.
+Richmond,Bryant,5,2,3,16,0,Dyami Starks missed Jumper.
+Richmond,Bryant,5,2,3,16,0,Cedrick Lindsay Defensive Rebound.
+Richmond,Bryant,8,2,3,21,1,Greg Robbins made Three Point Jumper.  Assisted by Cedrick Lindsay.
+Richmond,Bryant,8,2,3,33,0,Foul on Derrick Williams
+Richmond,Bryant,8,2,3,42,0,Frankie Dobbs missed Three Point Jumper.
+Richmond,Bryant,8,2,3,42,0,Terry Allen Defensive Rebound.
+Richmond,Bryant,10,2,4,3,1,Greg Robbins made Layup.
+Richmond,Bryant,10,4,4,27,1,Alex Francis made Layup.  Assisted by Frankie Dobbs.
+Richmond,Bryant,10,4,4,44,0,Alonzo Nelson-Ododa missed Three Point Jumper.
+Richmond,Bryant,10,4,4,44,0,Joe O'Shea Defensive Rebound.
+Richmond,Bryant,10,7,5,7,1,Dyami Starks made Three Point Jumper.  Assisted by Frankie Dobbs.
+Richmond,Bryant,12,7,5,27,1,Kendall Anthony made Jumper.
+Richmond,Bryant,12,9,5,42,1,Vlad Kondratyev made Layup.  Assisted by Frankie Dobbs.
+Richmond,Bryant,12,9,6,9,0,Foul on Dyami Starks
+Richmond,Bryant,12,9,6,9,0,Official TV Timeout.
+Richmond,Bryant,12,9,6,9,0,Cedrick Lindsay missed Free Throw.
+Richmond,Bryant,12,9,6,9,0,null
+Richmond,Bryant,13,9,6,9,1,Cedrick Lindsay made Free Throw.
+Richmond,Bryant,13,12,6,30,1,Dyami Starks made Three Point Jumper.  Assisted by Joe O'Shea.
+Richmond,Bryant,15,12,6,46,1,Trey Davis made Jumper.  Assisted by Wayne Sparrow.
+Richmond,Bryant,15,14,6,58,1,Alex Francis made Layup.
+Richmond,Bryant,18,14,7,25,1,Kendall Anthony made Three Point Jumper.
+Richmond,Bryant,18,17,7,37,1,Dyami Starks made Three Point Jumper.  Assisted by Frankie Dobbs.
+Richmond,Bryant,18,17,7,54,0,Wayne Sparrow missed Jumper.
+Richmond,Bryant,18,17,7,54,0,Joe O'Shea Defensive Rebound.
+Richmond,Bryant,18,17,8,11,0,Foul on Terry Allen
+Richmond,Bryant,18,17,8,11,0,Official TV Timeout.
+Richmond,Bryant,18,18,8,11,1,Alex Francis made Free Throw.
+Richmond,Bryant,18,19,8,11,1,Alex Francis made Free Throw.
+Richmond,Bryant,18,19,8,29,0,Trey Davis Turnover.
+Richmond,Bryant,18,19,8,31,0,Curtis Oakley Steal.
+Richmond,Bryant,18,21,8,47,1,Alex Francis made Dunk.  Assisted by Frankie Dobbs.
+Richmond,Bryant,18,21,9,13,0,Deion Taylor missed Three Point Jumper.
+Richmond,Bryant,18,21,9,13,0,Curtis Oakley Defensive Rebound.
+Richmond,Bryant,18,21,9,34,0,Frankie Dobbs missed Three Point Jumper.
+Richmond,Bryant,18,21,9,34,0,Derrick Williams Block.
+Richmond,Bryant,18,21,9,36,0,Derrick Williams Defensive Rebound.
+Richmond,Bryant,18,21,9,40,0,Trey Davis missed Layup.
+Richmond,Bryant,18,21,9,40,0,Richmond Offensive Rebound.
+Richmond,Bryant,18,21,9,56,0,Cedrick Lindsay Turnover.
+Richmond,Bryant,18,21,9,56,0,Shane McLaughlin Steal.
+Richmond,Bryant,18,21,10,15,0,Curtis Oakley Turnover.
+Richmond,Bryant,18,21,10,16,0,Darien Brothers Steal.
+Richmond,Bryant,18,21,10,18,0,Darien Brothers Turnover.
+Richmond,Bryant,18,21,10,19,0,Curtis Oakley Steal.
+Richmond,Bryant,18,21,10,20,0,Curtis Oakley missed Layup.
+Richmond,Bryant,18,21,10,20,0,Derrick Williams Defensive Rebound.
+Richmond,Bryant,18,21,10,24,0,Darien Brothers missed Three Point Jumper.
+Richmond,Bryant,18,21,10,24,0,Richmond Offensive Rebound.
+Richmond,Bryant,18,21,10,25,0,Foul on Vlad Kondratyev
+Richmond,Bryant,20,21,10,37,1,Darien Brothers made Jumper.
+Richmond,Bryant,20,23,10,54,1,Joe O'Shea made Layup.
+Richmond,Bryant,20,23,10,54,0,Foul on Greg Robbins
+Richmond,Bryant,20,24,10,54,1,Joe O'Shea made Free Throw.
+Richmond,Bryant,20,24,11,19,0,Greg Robbins missed Three Point Jumper.
+Richmond,Bryant,20,24,11,19,0,Frankie Dobbs Defensive Rebound.
+Richmond,Bryant,20,24,11,39,0,Dyami Starks missed Three Point Jumper.
+Richmond,Bryant,20,24,11,39,0,Greg Robbins Defensive Rebound.
+Richmond,Bryant,23,24,11,52,1,Darien Brothers made Three Point Jumper.  Assisted by Derrick Williams.
+Richmond,Bryant,23,27,12,21,1,Frankie Dobbs made Three Point Jumper.  Assisted by Joe O'Shea.
+Richmond,Bryant,23,27,12,43,0,Greg Robbins missed Layup.
+Richmond,Bryant,23,27,12,43,0,Claybrin McMath Defensive Rebound.
+Richmond,Bryant,23,27,12,50,0,Frankie Dobbs missed Jumper.
+Richmond,Bryant,23,27,12,50,0,Greg Robbins Defensive Rebound.
+Richmond,Bryant,26,27,13,2,1,Cedrick Lindsay made Three Point Jumper.  Assisted by Derrick Williams.
+Richmond,Bryant,26,27,13,21,0,Joe O'Shea missed Three Point Jumper.
+Richmond,Bryant,26,27,13,21,0,Cedrick Lindsay Defensive Rebound.
+Richmond,Bryant,26,27,13,27,0,Darien Brothers missed Jumper.
+Richmond,Bryant,26,27,13,27,0,Joe O'Shea Defensive Rebound.
+Richmond,Bryant,26,27,13,31,0,Joe O'Shea Turnover.
+Richmond,Bryant,26,27,13,31,0,Official TV Timeout.
+Richmond,Bryant,26,27,13,59,0,Alonzo Nelson-Ododa Turnover.
+Richmond,Bryant,26,27,13,59,0,Foul on Alonzo Nelson-Ododa
+Richmond,Bryant,26,27,14,27,0,Alex Francis Turnover.
+Richmond,Bryant,26,27,14,28,0,Kendall Anthony Steal.
+Richmond,Bryant,28,27,14,34,1,Kendall Anthony made Layup.
+Richmond,Bryant,28,27,14,55,0,Claybrin McMath missed Jumper.
+Richmond,Bryant,28,27,14,55,0,Cedrick Lindsay Defensive Rebound.
+Richmond,Bryant,28,27,15,2,0,Terry Allen Turnover.
+Richmond,Bryant,28,27,15,17,0,Dyami Starks missed Layup.
+Richmond,Bryant,28,27,15,17,0,Cedrick Lindsay Defensive Rebound.
+Richmond,Bryant,28,27,15,23,0,Cedrick Lindsay missed Three Point Jumper.
+Richmond,Bryant,28,27,15,23,0,Bryant University Defensive Rebo.
+Richmond,Bryant,28,27,15,44,0,Dyami Starks Turnover.
+Richmond,Bryant,28,27,15,44,0,Foul on Dyami Starks
+Richmond,Bryant,28,27,16,3,0,Foul on Vlad Kondratyev
+Richmond,Bryant,28,27,16,3,0,Official TV Timeout.
+Richmond,Bryant,28,27,16,12,0,Wayne Sparrow missed Jumper.
+Richmond,Bryant,28,27,16,12,0,Alex Francis Defensive Rebound.
+Richmond,Bryant,28,27,16,27,0,Alex Francis Turnover.
+Richmond,Bryant,28,27,16,27,0,Wayne Sparrow Steal.
+Richmond,Bryant,28,27,16,50,0,Darien Brothers Turnover.
+Richmond,Bryant,28,30,17,2,1,Curtis Oakley made Three Point Jumper.  Assisted by Frankie Dobbs.
+Richmond,Bryant,28,30,17,14,0,Foul on Claybrin McMath
+Richmond,Bryant,29,30,17,14,1,Derrick Williams made Free Throw.
+Richmond,Bryant,29,30,17,14,0,Derrick Williams missed Free Throw.
+Richmond,Bryant,29,30,17,14,0,Joe O'Shea Defensive Rebound.
+Richmond,Bryant,29,30,17,31,0,Foul on Deion Taylor
+Richmond,Bryant,29,33,17,45,1,Curtis Oakley made Three Point Jumper.  Assisted by Frankie Dobbs.
+Richmond,Bryant,29,33,18,13,0,Foul on Joe O'Shea
+Richmond,Bryant,30,33,18,13,1,Cedrick Lindsay made Free Throw.
+Richmond,Bryant,31,33,18,13,1,Cedrick Lindsay made Free Throw.
+Richmond,Bryant,31,33,18,26,0,Alex Francis Turnover.
+Richmond,Bryant,31,33,18,28,0,Kendall Anthony Steal.
+Richmond,Bryant,31,33,18,33,0,Cedrick Lindsay Turnover.
+Richmond,Bryant,31,33,18,34,0,Claybrin McMath Steal.
+Richmond,Bryant,31,35,18,39,1,Frankie Dobbs made Jumper.
+Richmond,Bryant,33,35,19,10,1,Kendall Anthony made Layup.
+Richmond,Bryant,33,35,19,12,0,Bryant University Full Timeout.
+Richmond,Bryant,33,37,19,36,1,Alex Francis made Layup.  Assisted by Curtis Oakley.
+Richmond,Bryant,33,37,19,57,0,Cedrick Lindsay missed Jumper.
+Richmond,Bryant,33,37,19,57,0,Claybrin McMath Defensive Rebound.
+Richmond,Bryant,33,37,20,0,0,Frankie Dobbs missed Three Point Jumper.
+Richmond,Bryant,33,37,20,0,0,Richmond Defensive Rebound.
+Richmond,Bryant,33,37,20,0,0,End of the 1st Half.
+Richmond,Bryant,33,37,20,8,0,Joe O'Shea Turnover.
+Richmond,Bryant,33,37,20,23,0,Foul on Frankie Dobbs
+Richmond,Bryant,36,37,20,35,1,Terry Allen made Three Point Jumper.  Assisted by Derrick Williams.
+Richmond,Bryant,36,37,20,52,0,Dyami Starks missed Jumper.
+Richmond,Bryant,36,37,20,52,0,Derrick Williams Block.
+Richmond,Bryant,36,37,20,54,0,Bryant University Offensive Rebo.
+Richmond,Bryant,36,37,21,3,0,Foul on Derrick Williams
+Richmond,Bryant,36,37,21,14,0,Dyami Starks Turnover.
+Richmond,Bryant,36,37,21,18,0,Terry Allen Steal.
+Richmond,Bryant,36,37,21,25,0,Darien Brothers missed Three Point Jumper.
+Richmond,Bryant,36,37,21,25,0,Frankie Dobbs Defensive Rebound.
+Richmond,Bryant,36,39,21,39,1,Frankie Dobbs made Layup.
+Richmond,Bryant,36,39,21,53,0,Derrick Williams missed Layup.
+Richmond,Bryant,36,39,21,53,0,Frankie Dobbs Defensive Rebound.
+Richmond,Bryant,36,39,21,57,0,Alex Francis missed Layup.
+Richmond,Bryant,36,39,21,57,0,Terry Allen Defensive Rebound.
+Richmond,Bryant,39,39,22,4,1,Greg Robbins made Three Point Jumper.  Assisted by Cedrick Lindsay.
+Richmond,Bryant,39,39,22,22,0,Foul on Cedrick Lindsay
+Richmond,Bryant,39,39,22,26,0,Dyami Starks missed Three Point Jumper.
+Richmond,Bryant,39,39,22,26,0,Alonzo Nelson-Ododa Defensive Rebound.
+Richmond,Bryant,39,39,22,35,0,Kendall Anthony missed Jumper.
+Richmond,Bryant,39,39,22,35,0,Alex Francis Defensive Rebound.
+Richmond,Bryant,39,39,22,47,0,Foul on Alonzo Nelson-Ododa
+Richmond,Bryant,39,40,22,47,1,Alex Francis made Free Throw.
+Richmond,Bryant,39,41,22,47,1,Alex Francis made Free Throw.
+Richmond,Bryant,39,41,23,18,0,Terry Allen missed Three Point Jumper.
+Richmond,Bryant,39,41,23,18,0,Frankie Dobbs Defensive Rebound.
+Richmond,Bryant,39,41,23,26,0,Dyami Starks missed Layup.
+Richmond,Bryant,39,41,23,26,0,Alonzo Nelson-Ododa Block.
+Richmond,Bryant,39,41,23,28,0,Kendall Anthony Defensive Rebound.
+Richmond,Bryant,42,41,23,32,1,Kendall Anthony made Three Point Jumper.
+Richmond,Bryant,42,41,23,49,0,Frankie Dobbs missed Three Point Jumper.
+Richmond,Bryant,42,41,23,49,0,Terry Allen Defensive Rebound.
+Richmond,Bryant,44,41,24,1,1,Greg Robbins made Jumper.
+Richmond,Bryant,44,41,24,6,0,Bryant University Full Timeout.
+Richmond,Bryant,44,41,24,35,0,Claybrin McMath missed Three Point Jumper.
+Richmond,Bryant,44,41,24,35,0,Alonzo Nelson-Ododa Defensive Rebound.
+Richmond,Bryant,44,41,24,58,0,Terry Allen Turnover.
+Richmond,Bryant,44,41,24,58,0,Foul on Terry Allen
+Richmond,Bryant,44,41,24,58,0,Official TV Timeout.
+Richmond,Bryant,44,41,25,18,0,Alex Francis Turnover.
+Richmond,Bryant,44,41,25,19,0,Deion Taylor Steal.
+Richmond,Bryant,46,41,25,43,1,Alonzo Nelson-Ododa made Layup.  Assisted by Deion Taylor.
+Richmond,Bryant,46,41,26,5,0,Alex Francis Turnover.
+Richmond,Bryant,46,41,26,16,0,Derrick Williams missed Jumper.
+Richmond,Bryant,46,41,26,16,0,Trey Davis Offensive Rebound.
+Richmond,Bryant,48,41,26,34,1,Kendall Anthony made Jumper.
+Richmond,Bryant,48,43,26,59,1,Curtis Oakley made Jumper.  Assisted by Frankie Dobbs.
+Richmond,Bryant,51,43,27,8,1,Deion Taylor made Three Point Jumper.  Assisted by Kendall Anthony.
+Richmond,Bryant,51,45,27,29,1,Vlad Kondratyev made Jumper.  Assisted by Frankie Dobbs.
+Richmond,Bryant,51,45,27,58,0,Deion Taylor missed Three Point Jumper.
+Richmond,Bryant,51,45,27,58,0,Trey Davis Offensive Rebound.
+Richmond,Bryant,51,45,28,3,0,Trey Davis missed Layup.
+Richmond,Bryant,51,45,28,3,0,Curtis Oakley Defensive Rebound.
+Richmond,Bryant,51,48,28,18,1,Frankie Dobbs made Three Point Jumper.
+Richmond,Bryant,51,48,28,32,0,Kendall Anthony missed Jumper.
+Richmond,Bryant,51,48,28,32,0,Joe O'Shea Defensive Rebound.
+Richmond,Bryant,51,50,28,59,1,Vlad Kondratyev made Layup.  Assisted by Frankie Dobbs.
+Richmond,Bryant,51,50,29,4,0,Richmond Full Timeout.
+Richmond,Bryant,51,50,29,21,0,Foul on Joe O'Shea
+Richmond,Bryant,51,50,29,21,0,Official TV Timeout.
+Richmond,Bryant,51,50,29,24,0,Greg Robbins missed Jumper.
+Richmond,Bryant,51,50,29,24,0,Claybrin McMath Defensive Rebound.
+Richmond,Bryant,51,50,29,55,0,Vlad Kondratyev missed Jumper.
+Richmond,Bryant,51,50,29,55,0,Greg Robbins Block.
+Richmond,Bryant,51,50,29,56,0,Bryant University Offensive Rebo.
+Richmond,Bryant,51,50,29,59,0,Frankie Dobbs missed Three Point Jumper.
+Richmond,Bryant,51,50,29,59,0,Richmond Defensive Rebound.
+Richmond,Bryant,51,50,30,17,0,Foul on Alex Francis
+Richmond,Bryant,53,50,30,19,1,Cedrick Lindsay made Layup.  Assisted by Greg Robbins.
+Richmond,Bryant,53,50,30,19,0,Foul on Dyami Starks
+Richmond,Bryant,54,50,30,19,1,Cedrick Lindsay made Free Throw.
+Richmond,Bryant,54,50,30,37,0,Frankie Dobbs missed Layup.
+Richmond,Bryant,54,50,30,37,0,Vlad Kondratyev Offensive Rebound.
+Richmond,Bryant,54,52,30,40,1,Vlad Kondratyev made Layup.
+Richmond,Bryant,54,52,30,57,0,Terry Allen Turnover.
+Richmond,Bryant,54,54,31,6,1,Curtis Oakley made Jumper.  Assisted by Frankie Dobbs.
+Richmond,Bryant,56,54,31,23,1,Cedrick Lindsay made Layup.
+Richmond,Bryant,56,54,31,39,0,Foul on Terry Allen
+Richmond,Bryant,56,54,31,39,0,Alex Francis missed Free Throw.
+Richmond,Bryant,56,54,31,39,0,null
+Richmond,Bryant,56,54,31,39,0,Alex Francis missed Free Throw.
+Richmond,Bryant,56,54,31,39,0,Greg Robbins Defensive Rebound.
+Richmond,Bryant,56,54,31,49,0,Cedrick Lindsay missed Jumper.
+Richmond,Bryant,56,54,31,49,0,Curtis Oakley Defensive Rebound.
+Richmond,Bryant,56,56,32,1,1,Vlad Kondratyev made Jumper.
+Richmond,Bryant,56,56,32,1,0,Foul on Darien Brothers
+Richmond,Bryant,56,56,32,1,0,Official TV Timeout.
+Richmond,Bryant,56,57,32,1,1,Vlad Kondratyev made Free Throw.
+Richmond,Bryant,56,57,32,17,0,Darien Brothers missed Three Point Jumper.
+Richmond,Bryant,56,57,32,17,0,Alex Francis Defensive Rebound.
+Richmond,Bryant,56,57,32,44,0,Bryant University Full Timeout.
+Richmond,Bryant,56,57,32,54,0,Vlad Kondratyev Turnover.
+Richmond,Bryant,56,57,32,54,0,Derrick Williams Steal.
+Richmond,Bryant,56,57,33,9,0,Foul on Joe O'Shea
+Richmond,Bryant,56,57,33,12,0,Derrick Williams missed Jumper.
+Richmond,Bryant,56,57,33,12,0,Curtis Oakley Defensive Rebound.
+Richmond,Bryant,56,57,33,25,0,Dyami Starks missed Layup.
+Richmond,Bryant,56,57,33,25,0,Greg Robbins Defensive Rebound.
+Richmond,Bryant,58,57,33,30,1,Cedrick Lindsay made Layup.  Assisted by Greg Robbins.
+Richmond,Bryant,58,57,33,51,0,Alex Francis missed Jumper.
+Richmond,Bryant,58,57,33,51,0,Alex Francis Offensive Rebound.
+Richmond,Bryant,58,57,33,57,0,Frankie Dobbs missed Jumper.
+Richmond,Bryant,58,57,33,57,0,Derrick Williams Defensive Rebound.
+Richmond,Bryant,58,57,34,22,0,Kendall Anthony missed Three Point Jumper.
+Richmond,Bryant,58,57,34,22,0,Curtis Oakley Defensive Rebound.
+Richmond,Bryant,58,57,34,54,0,Alex Francis Turnover.
+Richmond,Bryant,58,57,34,55,0,Alonzo Nelson-Ododa Steal.
+Richmond,Bryant,58,57,34,58,0,Foul on Alex Francis
+Richmond,Bryant,59,57,34,58,1,Cedrick Lindsay made Free Throw.
+Richmond,Bryant,60,57,34,58,1,Cedrick Lindsay made Free Throw.
+Richmond,Bryant,60,57,35,12,0,Foul on Frankie Dobbs
+Richmond,Bryant,60,57,35,12,0,Kendall Anthony missed Free Throw.
+Richmond,Bryant,60,57,35,12,0,null
+Richmond,Bryant,60,57,35,12,0,Kendall Anthony missed Free Throw.
+Richmond,Bryant,60,57,35,12,0,null
+Richmond,Bryant,61,57,35,12,1,Kendall Anthony made Free Throw.
+Richmond,Bryant,61,57,35,35,0,Foul on Derrick Williams
+Richmond,Bryant,61,58,35,35,1,Vlad Kondratyev made Free Throw.
+Richmond,Bryant,61,59,35,35,1,Vlad Kondratyev made Free Throw.
+Richmond,Bryant,61,59,35,55,0,Derrick Williams missed Three Point Jumper.
+Richmond,Bryant,61,59,35,55,0,Shane McLaughlin Defensive Rebound.
+Richmond,Bryant,61,59,35,58,0,Foul on Darien Brothers
+Richmond,Bryant,61,60,35,59,1,Shane McLaughlin made Free Throw.
+Richmond,Bryant,61,61,35,59,1,Shane McLaughlin made Free Throw.
+Richmond,Bryant,63,61,36,22,1,Cedrick Lindsay made Layup.
+Richmond,Bryant,63,61,36,47,0,Foul on Terry Allen
+Richmond,Bryant,63,61,36,47,0,Official TV Timeout.
+Richmond,Bryant,63,62,36,47,1,Joe O'Shea made Free Throw.
+Richmond,Bryant,63,62,36,47,0,Joe O'Shea missed Free Throw.
+Richmond,Bryant,63,62,36,47,0,Greg Robbins Defensive Rebound.
+Richmond,Bryant,65,62,37,3,1,Cedrick Lindsay made Jumper.
+Richmond,Bryant,65,62,37,18,0,Dyami Starks Turnover.
+Richmond,Bryant,65,62,37,46,0,Foul on Joe O'Shea
+Richmond,Bryant,66,62,37,46,1,Darien Brothers made Free Throw.
+Richmond,Bryant,67,62,37,46,1,Darien Brothers made Free Throw.
+Richmond,Bryant,67,64,38,2,1,Alex Francis made Layup.
+Richmond,Bryant,67,64,38,4,0,Bryant University Full Timeout.
+Richmond,Bryant,70,64,38,21,1,Greg Robbins made Three Point Jumper.  Assisted by Cedrick Lindsay.
+Richmond,Bryant,70,64,38,23,0,Richmond Full Timeout.
+Richmond,Bryant,70,64,38,43,0,Foul on Darien Brothers
+Richmond,Bryant,70,65,38,43,1,Dyami Starks made Free Throw.
+Richmond,Bryant,70,66,38,43,1,Dyami Starks made Free Throw.
+Richmond,Bryant,72,66,39,16,1,Cedrick Lindsay made Jumper.
+Richmond,Bryant,72,68,39,25,1,Dyami Starks made Layup.
+Richmond,Bryant,72,68,39,26,0,Bryant University Full Timeout.
+Richmond,Bryant,72,68,39,30,0,Kendall Anthony Turnover.
+Richmond,Bryant,72,68,39,32,0,Alex Francis Steal.
+Richmond,Bryant,72,68,39,34,0,Frankie Dobbs missed Three Point Jumper.
+Richmond,Bryant,72,68,39,34,0,Derrick Williams Defensive Rebound.
+Richmond,Bryant,72,68,39,37,0,Foul on Claybrin McMath
+Richmond,Bryant,73,68,39,37,1,Derrick Williams made Free Throw.
+Richmond,Bryant,74,68,39,37,1,Derrick Williams made Free Throw.
+Richmond,Bryant,74,68,39,43,0,Dyami Starks missed Three Point Jumper.
+Richmond,Bryant,74,68,39,43,0,Derrick Williams Defensive Rebound.
+Richmond,Bryant,74,68,39,48,0,Foul on Joe O'Shea
+Richmond,Bryant,75,68,39,48,1,Cedrick Lindsay made Free Throw.
+Richmond,Bryant,76,68,39,48,1,Cedrick Lindsay made Free Throw.
+Richmond,Bryant,76,71,39,53,1,Dyami Starks made Three Point Jumper.  Assisted by Shane McLaughlin.
+Richmond,Bryant,76,71,40,0,0,End Game

@@ -1,0 +1,329 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Troy,Arkansas State,2,0,0,15,1,John Walton III made Layup.
+Troy,Arkansas State,2,3,0,38,1,Anthony Livingston made Three Point Jumper. Assisted by Donte Thomas.
+Troy,Arkansas State,2,3,0,54,0,Shawn Hopkins missed Three Point Jumper.
+Troy,Arkansas State,2,3,0,54,0,Donte Thomas Defensive Rebound.
+Troy,Arkansas State,2,5,1,12,1,Anthony Livingston made Layup.
+Troy,Arkansas State,4,5,1,30,1,Wesley Person made Jumper.
+Troy,Arkansas State,4,5,1,30,0,Foul on Sean Gardner.
+Troy,Arkansas State,5,5,1,30,1,Wesley Person made Free Throw.
+Troy,Arkansas State,5,5,1,50,0,Devin Carter missed Jumper.
+Troy,Arkansas State,5,5,1,50,0,Jordon Varnado Defensive Rebound.
+Troy,Arkansas State,7,5,2,9,1,Jordon Varnado made Jumper.
+Troy,Arkansas State,7,5,2,24,0,Donte Thomas Turnover.
+Troy,Arkansas State,10,5,2,34,1,Wesley Person made Three Point Jumper. Assisted by John Walton III.
+Troy,Arkansas State,10,8,2,53,1,Devin Carter made Three Point Jumper. Assisted by Sean Gardner.
+Troy,Arkansas State,12,8,3,10,1,John Walton III made Layup.
+Troy,Arkansas State,12,8,3,37,0,Sean Gardner missed Three Point Jumper.
+Troy,Arkansas State,12,8,3,37,0,Daniel Peace Defensive Rebound.
+Troy,Arkansas State,12,8,3,43,0,Foul on Donte Thomas.
+Troy,Arkansas State,12,8,3,52,0,John Walton III missed Layup.
+Troy,Arkansas State,12,8,3,52,0,Anthony Livingston Defensive Rebound.
+Troy,Arkansas State,12,8,4,1,0,Anthony Livingston missed Three Point Jumper.
+Troy,Arkansas State,12,8,4,1,0,Wesley Person Defensive Rebound.
+Troy,Arkansas State,14,8,4,20,1,Daniel Peace made Layup.
+Troy,Arkansas State,14,10,4,41,1,Sean Gardner made Jumper.
+Troy,Arkansas State,16,10,5,0,1,John Walton III made Jumper.
+Troy,Arkansas State,16,12,5,20,1,Donte Thomas made Jumper.
+Troy,Arkansas State,16,12,5,38,0,John Walton III Turnover.
+Troy,Arkansas State,16,12,5,38,0,Official TV Timeout
+Troy,Arkansas State,16,14,5,58,1,Anthony Livingston made Jumper.
+Troy,Arkansas State,16,14,6,20,0,John Walton III Turnover.
+Troy,Arkansas State,16,14,6,21,0,Donte Thomas Steal.
+Troy,Arkansas State,16,14,6,25,0,Sean Gardner missed Three Point Jumper.
+Troy,Arkansas State,16,14,6,25,0,Jordon Varnado Defensive Rebound.
+Troy,Arkansas State,16,14,6,35,0,John Walton III missed Jumper.
+Troy,Arkansas State,16,14,6,35,0,Donte Thomas Defensive Rebound.
+Troy,Arkansas State,16,14,6,50,0,Devin Carter missed Jumper.
+Troy,Arkansas State,16,14,6,50,0,Jordon Varnado Defensive Rebound.
+Troy,Arkansas State,16,14,7,11,0,Jordon Varnado missed Jumper.
+Troy,Arkansas State,16,14,7,11,0,Donte Thomas Defensive Rebound.
+Troy,Arkansas State,16,14,7,24,0,Foul on Jordon Varnado.
+Troy,Arkansas State,16,14,7,31,0,Nouhoum Bocoum missed Layup.
+Troy,Arkansas State,16,14,7,31,0,Troy Defensive Rebound.
+Troy,Arkansas State,16,14,7,32,0,Foul on Charles Waters.
+Troy,Arkansas State,16,14,7,45,0,Wesley Person Turnover.
+Troy,Arkansas State,16,14,8,2,0,Charles Waters Turnover.
+Troy,Arkansas State,16,14,8,2,0,Official TV Timeout
+Troy,Arkansas State,16,14,8,17,0,Wesley Person missed Three Point Jumper.
+Troy,Arkansas State,16,14,8,17,0,John Walton III Offensive Rebound.
+Troy,Arkansas State,18,14,8,20,1,John Walton III made Two Point Tip Shot.
+Troy,Arkansas State,18,14,8,33,0,Foul on Jeremy Hollimon.
+Troy,Arkansas State,18,14,8,40,0,Foul on B.J. Miller.
+Troy,Arkansas State,18,15,8,40,1,Frederic Dure made Free Throw.
+Troy,Arkansas State,18,15,8,40,0,Frederic Dure missed Free Throw.
+Troy,Arkansas State,18,15,8,40,0,B.J. Miller Defensive Rebound.
+Troy,Arkansas State,18,15,8,54,0,Foul on Nouhoum Bocoum.
+Troy,Arkansas State,18,15,8,56,0,Wesley Person missed Three Point Jumper.
+Troy,Arkansas State,18,15,8,56,0,Nouhoum Bocoum Defensive Rebound.
+Troy,Arkansas State,18,17,9,17,1,Nouhoum Bocoum made Layup.
+Troy,Arkansas State,18,17,9,31,0,Jaro Moravek missed Jumper.
+Troy,Arkansas State,18,17,9,31,0,Charles Waters Defensive Rebound.
+Troy,Arkansas State,18,17,9,31,0,Foul on John Walton III.
+Troy,Arkansas State,18,17,9,50,0,Devin Carter missed Three Point Jumper.
+Troy,Arkansas State,18,17,9,50,0,Donte Thomas Offensive Rebound.
+Troy,Arkansas State,18,17,9,56,0,Donte Thomas missed Jumper.
+Troy,Arkansas State,18,17,9,56,0,Jaro Moravek Defensive Rebound.
+Troy,Arkansas State,21,17,10,6,1,Jeremy Hollimon made Three Point Jumper.
+Troy,Arkansas State,21,17,10,23,0,Devin Carter missed Jumper.
+Troy,Arkansas State,21,17,10,23,0,Troy Defensive Rebound.
+Troy,Arkansas State,21,17,10,38,0,John Walton III missed Layup.
+Troy,Arkansas State,21,17,10,38,0,Frederic Dure Defensive Rebound.
+Troy,Arkansas State,21,17,10,58,0,Foul on Daniel Peace.
+Troy,Arkansas State,21,18,10,58,1,Nouhoum Bocoum made Free Throw.
+Troy,Arkansas State,21,19,10,58,1,Nouhoum Bocoum made Free Throw.
+Troy,Arkansas State,21,19,11,16,0,Jeremy Hollimon missed Three Point Jumper.
+Troy,Arkansas State,21,19,11,16,0,John Walton III Offensive Rebound.
+Troy,Arkansas State,23,19,11,19,1,John Walton III made Two Point Tip Shot.
+Troy,Arkansas State,23,21,11,27,1,Nouhoum Bocoum made Layup. Assisted by Frederic Dure.
+Troy,Arkansas State,23,21,11,48,0,Shawn Hopkins missed Layup.
+Troy,Arkansas State,23,21,11,48,0,John Walton III Offensive Rebound.
+Troy,Arkansas State,23,21,11,52,0,John Walton III missed Two Point Tip Shot.
+Troy,Arkansas State,23,21,11,52,0,Nouhoum Bocoum Defensive Rebound.
+Troy,Arkansas State,23,21,11,57,0,Frederic Dure Turnover.
+Troy,Arkansas State,23,21,11,57,0,Foul on Frederic Dure.
+Troy,Arkansas State,23,21,12,15,0,Shawn Hopkins missed Jumper.
+Troy,Arkansas State,23,21,12,15,0,John Walton III Offensive Rebound.
+Troy,Arkansas State,26,21,12,27,1,Shawn Hopkins made Three Point Jumper. Assisted by Wesley Person.
+Troy,Arkansas State,26,24,12,49,1,Devin Carter made Three Point Jumper.
+Troy,Arkansas State,26,24,13,13,0,Foul on Anthony Livingston.
+Troy,Arkansas State,26,24,13,13,0,Official TV Timeout
+Troy,Arkansas State,27,24,13,13,1,John Walton III made Free Throw.
+Troy,Arkansas State,28,24,13,13,1,John Walton III made Free Throw.
+Troy,Arkansas State,28,24,13,21,0,Foul on Kelton Ford.
+Troy,Arkansas State,28,24,13,34,0,Donte Thomas Turnover.
+Troy,Arkansas State,28,24,13,34,0,Foul on Donte Thomas.
+Troy,Arkansas State,31,24,13,54,1,Kelton Ford made Three Point Jumper. Assisted by Shawn Hopkins.
+Troy,Arkansas State,31,24,14,7,0,Foul on Kelton Ford.
+Troy,Arkansas State,31,24,14,7,0,Frederic Dure missed Free Throw.
+Troy,Arkansas State,31,24,14,7,0,Jordon Varnado Defensive Rebound.
+Troy,Arkansas State,31,24,14,33,0,Shawn Hopkins missed Three Point Jumper.
+Troy,Arkansas State,31,24,14,33,0,Troy Offensive Rebound.
+Troy,Arkansas State,31,24,14,43,0,Daniel Peace missed Jumper.
+Troy,Arkansas State,31,24,14,43,0,Devin Carter Defensive Rebound.
+Troy,Arkansas State,31,24,14,57,0,Devin Carter missed Three Point Jumper.
+Troy,Arkansas State,31,24,14,57,0,Jordon Varnado Defensive Rebound.
+Troy,Arkansas State,31,24,15,27,0,Wesley Person missed Jumper.
+Troy,Arkansas State,31,24,15,27,0,Jordon Varnado Offensive Rebound.
+Troy,Arkansas State,31,24,15,31,0,Jordon Varnado missed Layup.
+Troy,Arkansas State,31,24,15,31,0,Shawn Hopkins Offensive Rebound.
+Troy,Arkansas State,33,24,15,35,1,Shawn Hopkins made Two Point Tip Shot.
+Troy,Arkansas State,33,24,15,37,0,Arkansas St  Timeout
+Troy,Arkansas State,33,24,15,37,0,Official TV Timeout
+Troy,Arkansas State,33,24,15,45,0,Sean Gardner missed Jumper.
+Troy,Arkansas State,33,24,15,45,0,Daniel Peace Defensive Rebound.
+Troy,Arkansas State,36,24,15,55,1,Wesley Person made Three Point Jumper. Assisted by Daniel Peace.
+Troy,Arkansas State,36,25,16,10,1,Josh Pierre made Free Throw.
+Troy,Arkansas State,36,26,16,10,1,Josh Pierre made Free Throw.
+Troy,Arkansas State,36,26,16,21,0,Foul on Charles Waters.
+Troy,Arkansas State,37,26,16,21,1,John Walton III made Free Throw.
+Troy,Arkansas State,37,26,16,21,0,John Walton III missed Free Throw.
+Troy,Arkansas State,37,26,16,21,0,Christian Davis Defensive Rebound.
+Troy,Arkansas State,37,26,16,51,0,Donte Thomas missed Jumper.
+Troy,Arkansas State,37,26,16,51,0,John Walton III Defensive Rebound.
+Troy,Arkansas State,37,26,17,11,0,Jordon Varnado missed Jumper.
+Troy,Arkansas State,37,26,17,11,0,Sean Gardner Defensive Rebound.
+Troy,Arkansas State,37,26,17,24,0,Christian Davis Turnover.
+Troy,Arkansas State,37,26,17,34,0,Wesley Person missed Three Point Jumper.
+Troy,Arkansas State,37,26,17,34,0,Devin Carter Defensive Rebound.
+Troy,Arkansas State,37,28,17,44,1,Devin Carter made Layup.
+Troy,Arkansas State,37,28,18,2,0,Foul on Devin Carter.
+Troy,Arkansas State,37,28,18,2,0,Jeremy Hollimon missed Free Throw.
+Troy,Arkansas State,37,28,18,2,0,Nouhoum Bocoum Defensive Rebound.
+Troy,Arkansas State,37,28,18,18,0,Foul on John Walton III.
+Troy,Arkansas State,37,29,18,18,1,Donte Thomas made Free Throw.
+Troy,Arkansas State,37,30,18,18,1,Donte Thomas made Free Throw.
+Troy,Arkansas State,37,30,18,34,0,Foul on Donte Thomas.
+Troy,Arkansas State,37,30,18,34,0,Daniel Peace missed Free Throw.
+Troy,Arkansas State,37,30,18,34,0,Troy Deadball Team Rebound.
+Troy,Arkansas State,37,30,18,34,0,Daniel Peace missed Free Throw.
+Troy,Arkansas State,37,30,18,34,0,Christian Davis Defensive Rebound.
+Troy,Arkansas State,37,32,18,59,1,Devin Carter made Jumper.
+Troy,Arkansas State,37,32,19,17,0,Troy  Timeout
+Troy,Arkansas State,37,32,19,22,0,Wesley Person missed Three Point Jumper.
+Troy,Arkansas State,37,32,19,22,0,Frederic Dure Defensive Rebound.
+Troy,Arkansas State,37,32,19,47,0,Foul on Wesley Person.
+Troy,Arkansas State,37,33,19,47,1,Christian Davis made Free Throw.
+Troy,Arkansas State,37,34,19,47,1,Christian Davis made Free Throw.
+Troy,Arkansas State,37,34,19,58,0,Foul on Christian Davis.
+Troy,Arkansas State,38,34,19,58,1,Wesley Person made Free Throw.
+Troy,Arkansas State,39,34,19,58,1,Wesley Person made Free Throw.
+Troy,Arkansas State,39,34,20,0,0,Charles Waters Turnover.
+Troy,Arkansas State,39,34,20,0,0,Daniel Peace Steal.
+Troy,Arkansas State,39,34,20,0,0,Daniel Peace missed Three Point Jumper.
+Troy,Arkansas State,39,34,20,0,0,Troy Deadball Team Rebound.
+Troy,Arkansas State,39,34,20,0,0,End of 1st half
+Troy,Arkansas State,39,34,20,8,0,Devin Carter missed Three Point Jumper.
+Troy,Arkansas State,39,34,20,8,0,John Walton III Defensive Rebound.
+Troy,Arkansas State,39,34,20,22,0,Jordon Varnado missed Three Point Jumper.
+Troy,Arkansas State,39,34,20,22,0,Frederic Dure Defensive Rebound.
+Troy,Arkansas State,39,34,20,30,0,Christian Davis Turnover.
+Troy,Arkansas State,39,34,20,30,0,Foul on Christian Davis.
+Troy,Arkansas State,39,34,20,46,0,John Walton III missed Layup.
+Troy,Arkansas State,39,34,20,46,0,Troy Offensive Rebound.
+Troy,Arkansas State,41,34,20,54,1,Jordon Varnado made Layup. Assisted by Daniel Peace.
+Troy,Arkansas State,41,34,21,11,0,Anthony Livingston missed Jumper.
+Troy,Arkansas State,41,34,21,11,0,Wesley Person Defensive Rebound.
+Troy,Arkansas State,44,34,21,18,1,Jordon Varnado made Three Point Jumper. Assisted by Wesley Person.
+Troy,Arkansas State,44,34,21,45,0,Sean Gardner missed Three Point Jumper.
+Troy,Arkansas State,44,34,21,45,0,Devin Carter Offensive Rebound.
+Troy,Arkansas State,44,34,21,49,0,Devin Carter missed Three Point Jumper.
+Troy,Arkansas State,44,34,21,49,0,Anthony Livingston Offensive Rebound.
+Troy,Arkansas State,44,34,21,54,0,Foul on John Walton III.
+Troy,Arkansas State,44,35,21,54,1,Anthony Livingston made Free Throw.
+Troy,Arkansas State,44,36,21,54,1,Anthony Livingston made Free Throw.
+Troy,Arkansas State,47,36,22,9,1,Wesley Person made Three Point Jumper. Assisted by Daniel Peace.
+Troy,Arkansas State,47,36,22,26,0,Devin Carter Turnover.
+Troy,Arkansas State,47,36,22,26,0,Foul on Devin Carter.
+Troy,Arkansas State,49,36,22,38,1,Wesley Person made Dunk. Assisted by John Walton III.
+Troy,Arkansas State,49,36,22,59,0,Sean Gardner missed Jumper.
+Troy,Arkansas State,49,36,22,59,0,Jordon Varnado Defensive Rebound.
+Troy,Arkansas State,49,36,23,7,0,Daniel Peace Turnover.
+Troy,Arkansas State,49,36,23,19,0,Anthony Livingston missed Jumper.
+Troy,Arkansas State,49,36,23,19,0,Troy Defensive Rebound.
+Troy,Arkansas State,49,36,23,37,0,John Walton III missed Jumper.
+Troy,Arkansas State,49,36,23,37,0,Donte Thomas Defensive Rebound.
+Troy,Arkansas State,49,36,23,46,0,Anthony Livingston missed Three Point Jumper.
+Troy,Arkansas State,49,36,23,46,0,Jordon Varnado Defensive Rebound.
+Troy,Arkansas State,49,36,24,8,0,Jordon Varnado missed Jumper.
+Troy,Arkansas State,49,36,24,8,0,Donte Thomas Defensive Rebound.
+Troy,Arkansas State,49,36,24,18,0,Devin Carter missed Three Point Jumper.
+Troy,Arkansas State,49,36,24,18,0,Wesley Person Defensive Rebound.
+Troy,Arkansas State,49,36,24,42,0,Foul on Charles Waters.
+Troy,Arkansas State,49,36,24,42,0,Official TV Timeout
+Troy,Arkansas State,49,36,24,42,0,John Walton III missed Free Throw.
+Troy,Arkansas State,49,36,24,42,0,Troy Deadball Team Rebound.
+Troy,Arkansas State,50,36,24,42,1,John Walton III made Free Throw.
+Troy,Arkansas State,50,38,24,54,1,Nouhoum Bocoum made Layup. Assisted by Frederic Dure.
+Troy,Arkansas State,52,38,25,12,1,Wesley Person made Layup.
+Troy,Arkansas State,52,41,25,26,1,Devin Carter made Three Point Jumper. Assisted by Frederic Dure.
+Troy,Arkansas State,52,41,25,46,0,Shawn Hopkins missed Three Point Jumper.
+Troy,Arkansas State,52,41,25,46,0,Frederic Dure Defensive Rebound.
+Troy,Arkansas State,52,41,26,0,0,Nouhoum Bocoum missed Layup.
+Troy,Arkansas State,52,41,26,0,0,Jordon Varnado Block.
+Troy,Arkansas State,52,41,26,0,0,Troy Defensive Rebound.
+Troy,Arkansas State,52,41,26,18,0,Jeremy Hollimon Turnover.
+Troy,Arkansas State,52,41,26,19,0,Frederic Dure Steal.
+Troy,Arkansas State,52,41,26,23,0,Devin Carter missed Layup.
+Troy,Arkansas State,52,41,26,23,0,Sean Gardner Offensive Rebound.
+Troy,Arkansas State,52,41,26,26,0,Sean Gardner missed Layup.
+Troy,Arkansas State,52,41,26,26,0,Nouhoum Bocoum Offensive Rebound.
+Troy,Arkansas State,52,43,26,29,1,Nouhoum Bocoum made Jumper.
+Troy,Arkansas State,52,43,26,54,0,Jeremy Hollimon missed Jumper.
+Troy,Arkansas State,52,43,26,54,0,Charles Waters Block.
+Troy,Arkansas State,52,43,26,55,0,Troy Offensive Rebound.
+Troy,Arkansas State,52,43,27,0,0,Wesley Person missed Three Point Jumper.
+Troy,Arkansas State,52,43,27,0,0,Charles Waters Defensive Rebound.
+Troy,Arkansas State,52,43,27,2,0,Foul on Jordon Varnado.
+Troy,Arkansas State,52,45,27,20,1,Nouhoum Bocoum made Jumper.
+Troy,Arkansas State,52,45,27,20,0,Jordon Varnado missed Layup.
+Troy,Arkansas State,52,45,27,20,0,Charles Waters Block.
+Troy,Arkansas State,52,45,27,21,0,Jordon Varnado Offensive Rebound.
+Troy,Arkansas State,52,45,27,33,0,Foul on Nouhoum Bocoum.
+Troy,Arkansas State,53,45,27,33,1,Jordon Varnado made Free Throw.
+Troy,Arkansas State,54,45,27,33,1,Jordon Varnado made Free Throw.
+Troy,Arkansas State,54,45,27,48,0,Foul on Daniel Peace.
+Troy,Arkansas State,54,47,28,8,1,Nouhoum Bocoum made Jumper. Assisted by Devin Carter.
+Troy,Arkansas State,54,47,28,27,0,Foul on Frederic Dure.
+Troy,Arkansas State,54,47,28,27,0,Official TV Timeout
+Troy,Arkansas State,54,47,28,27,0,Jaro Moravek missed Free Throw.
+Troy,Arkansas State,54,47,28,27,0,Troy Deadball Team Rebound.
+Troy,Arkansas State,55,47,28,27,1,Jaro Moravek made Free Throw.
+Troy,Arkansas State,55,50,28,47,1,Frederic Dure made Three Point Jumper. Assisted by Nouhoum Bocoum.
+Troy,Arkansas State,55,50,29,21,0,Wesley Person missed Three Point Jumper.
+Troy,Arkansas State,55,50,29,21,0,John Walton III Offensive Rebound.
+Troy,Arkansas State,55,50,29,41,0,Jeremy Hollimon Turnover.
+Troy,Arkansas State,55,50,29,41,0,Foul on Jeremy Hollimon.
+Troy,Arkansas State,55,50,29,53,0,Sean Gardner missed Jumper.
+Troy,Arkansas State,55,50,29,53,0,Shawn Hopkins Defensive Rebound.
+Troy,Arkansas State,55,50,30,5,0,Shawn Hopkins missed Three Point Jumper.
+Troy,Arkansas State,55,50,30,5,0,Frederic Dure Defensive Rebound.
+Troy,Arkansas State,55,52,30,21,1,Charles Waters made Layup.
+Troy,Arkansas State,57,52,30,49,1,John Walton III made Layup.
+Troy,Arkansas State,57,52,31,6,0,Frederic Dure missed Three Point Jumper.
+Troy,Arkansas State,57,52,31,6,0,Wesley Person Defensive Rebound.
+Troy,Arkansas State,59,52,31,30,1,Wesley Person made Layup.
+Troy,Arkansas State,59,55,31,51,1,Anthony Livingston made Three Point Jumper. Assisted by Charles Waters.
+Troy,Arkansas State,59,55,32,15,0,Jordon Varnado missed Three Point Jumper.
+Troy,Arkansas State,59,55,32,15,0,Anthony Livingston Defensive Rebound.
+Troy,Arkansas State,59,55,32,27,0,Frederic Dure Turnover.
+Troy,Arkansas State,59,55,32,29,0,Wesley Person Steal.
+Troy,Arkansas State,61,55,32,51,1,Wesley Person made Jumper.
+Troy,Arkansas State,61,55,32,51,0,Foul on Sean Gardner.
+Troy,Arkansas State,61,55,32,51,0,Official TV Timeout
+Troy,Arkansas State,61,55,32,51,0,Wesley Person missed Free Throw.
+Troy,Arkansas State,61,55,32,51,0,Donte Thomas Defensive Rebound.
+Troy,Arkansas State,61,55,33,3,0,Foul on Wesley Person.
+Troy,Arkansas State,61,56,33,3,1,Charles Waters made Free Throw.
+Troy,Arkansas State,61,56,33,3,0,Charles Waters missed Free Throw.
+Troy,Arkansas State,61,56,33,3,0,John Walton III Defensive Rebound.
+Troy,Arkansas State,61,56,33,21,0,Shawn Hopkins missed Three Point Jumper.
+Troy,Arkansas State,61,56,33,21,0,Charles Waters Defensive Rebound.
+Troy,Arkansas State,61,56,33,32,0,Foul on Jordon Varnado.
+Troy,Arkansas State,61,57,33,32,1,Charles Waters made Free Throw.
+Troy,Arkansas State,61,58,33,32,1,Charles Waters made Free Throw.
+Troy,Arkansas State,61,58,33,52,0,Foul on Anthony Livingston.
+Troy,Arkansas State,61,58,33,52,0,Wesley Person missed Free Throw.
+Troy,Arkansas State,61,58,33,52,0,Charles Waters Defensive Rebound.
+Troy,Arkansas State,61,58,33,59,0,Arkansas St  Timeout
+Troy,Arkansas State,61,58,34,16,0,Foul on Jordon Varnado.
+Troy,Arkansas State,61,59,34,16,1,Anthony Livingston made Free Throw.
+Troy,Arkansas State,61,60,34,16,1,Anthony Livingston made Free Throw.
+Troy,Arkansas State,61,60,34,47,0,Jordon Varnado missed Three Point Jumper.
+Troy,Arkansas State,61,60,34,47,0,Arkansas St Defensive Rebound.
+Troy,Arkansas State,61,63,35,11,1,Donte Thomas made Three Point Jumper. Assisted by Sean Gardner.
+Troy,Arkansas State,61,63,35,37,0,Jordon Varnado missed Three Point Jumper.
+Troy,Arkansas State,61,63,35,37,0,Donte Thomas Defensive Rebound.
+Troy,Arkansas State,61,66,35,53,1,Anthony Livingston made Three Point Jumper. Assisted by Donte Thomas.
+Troy,Arkansas State,61,66,35,57,0,Troy  Timeout
+Troy,Arkansas State,61,66,35,58,0,Official TV Timeout
+Troy,Arkansas State,61,66,36,17,0,Wesley Person missed Layup.
+Troy,Arkansas State,61,66,36,17,0,Anthony Livingston Block.
+Troy,Arkansas State,61,66,36,19,0,Troy Offensive Rebound.
+Troy,Arkansas State,63,66,36,28,1,Daniel Peace made Jumper.
+Troy,Arkansas State,63,66,36,43,0,Foul on Jeremy Hollimon.
+Troy,Arkansas State,63,66,36,43,0,Devin Carter missed Free Throw.
+Troy,Arkansas State,63,66,36,43,0,Charles Waters Offensive Rebound.
+Troy,Arkansas State,63,66,36,46,0,Arkansas St  Timeout
+Troy,Arkansas State,63,68,36,51,1,Anthony Livingston made Layup.
+Troy,Arkansas State,63,68,37,9,0,Jeremy Hollimon missed Jumper.
+Troy,Arkansas State,63,68,37,9,0,Nouhoum Bocoum Block.
+Troy,Arkansas State,63,68,37,9,0,Arkansas St Defensive Rebound.
+Troy,Arkansas State,63,68,37,21,0,Nouhoum Bocoum missed Jumper.
+Troy,Arkansas State,63,68,37,21,0,John Walton III Defensive Rebound.
+Troy,Arkansas State,63,68,37,26,0,Foul on Devin Carter.
+Troy,Arkansas State,64,68,37,26,1,Daniel Peace made Free Throw.
+Troy,Arkansas State,64,68,37,26,0,Daniel Peace missed Free Throw.
+Troy,Arkansas State,64,68,37,26,0,Anthony Livingston Defensive Rebound.
+Troy,Arkansas State,64,68,37,50,0,Anthony Livingston Turnover.
+Troy,Arkansas State,64,68,37,50,0,Troy  Timeout
+Troy,Arkansas State,66,68,38,3,1,John Walton III made Jumper.
+Troy,Arkansas State,66,68,38,22,0,Donte Thomas missed Three Point Jumper.
+Troy,Arkansas State,66,68,38,22,0,Anthony Livingston Offensive Rebound.
+Troy,Arkansas State,66,68,38,29,0,Anthony Livingston missed Layup.
+Troy,Arkansas State,66,68,38,29,0,Jeremy Hollimon Defensive Rebound.
+Troy,Arkansas State,66,68,38,48,0,Foul on Donte Thomas.
+Troy,Arkansas State,66,68,38,48,0,Daniel Peace missed Free Throw.
+Troy,Arkansas State,66,68,38,48,0,Anthony Livingston Defensive Rebound.
+Troy,Arkansas State,66,68,39,11,0,Donte Thomas Turnover.
+Troy,Arkansas State,66,68,39,13,0,John Walton III Steal.
+Troy,Arkansas State,66,68,39,29,0,Wesley Person missed Jumper.
+Troy,Arkansas State,66,68,39,29,0,Nouhoum Bocoum Block.
+Troy,Arkansas State,66,68,39,30,0,Troy Offensive Rebound.
+Troy,Arkansas State,66,68,39,30,0,Troy  Timeout
+Troy,Arkansas State,68,68,39,32,1,John Walton III made Layup.
+Troy,Arkansas State,68,68,39,32,0,Foul on Charles Waters.
+Troy,Arkansas State,69,68,39,32,1,John Walton III made Free Throw.
+Troy,Arkansas State,69,68,39,38,0,Arkansas St  Timeout
+Troy,Arkansas State,69,68,39,42,0,Donte Thomas Turnover.
+Troy,Arkansas State,69,68,39,47,0,Foul on Sean Gardner.
+Troy,Arkansas State,70,68,39,47,1,Daniel Peace made Free Throw.
+Troy,Arkansas State,71,68,39,47,1,Daniel Peace made Free Throw.
+Troy,Arkansas State,71,68,39,57,0,Foul on Jeremy Hollimon.
+Troy,Arkansas State,71,69,39,57,1,Devin Carter made Free Throw.
+Troy,Arkansas State,71,70,39,57,1,Devin Carter made Free Throw.
+Troy,Arkansas State,71,70,39,57,0,Devin Carter missed Free Throw.
+Troy,Arkansas State,71,70,39,57,0,Nouhoum Bocoum Offensive Rebound.
+Troy,Arkansas State,71,70,40,0,0,Nouhoum Bocoum missed Two Point Tip Shot.
+Troy,Arkansas State,71,70,40,0,0,Arkansas St Deadball Team Rebound.
+Troy,Arkansas State,71,70,40,0,0,End of Game

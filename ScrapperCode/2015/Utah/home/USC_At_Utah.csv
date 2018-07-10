@@ -1,0 +1,306 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+USC,Utah,0,0,0,0,0,Jump Ball won by Utah
+USC,Utah,0,3,0,20,1,Jordan Loveridge made Three Point Jumper. Assisted by Delon Wright.
+USC,Utah,0,3,0,43,0,Foul on Brandon Taylor.
+USC,Utah,3,3,0,46,1,Katin Reinhardt made Three Point Jumper. Assisted by Jordan McLaughlin.
+USC,Utah,3,3,1,20,0,Foul on Malik Martin.
+USC,Utah,3,3,1,20,0,Chris Reyes missed Free Throw.
+USC,Utah,3,3,1,20,0,Utah Deadball Team Rebound.
+USC,Utah,3,3,1,20,0,Chris Reyes missed Free Throw.
+USC,Utah,3,3,1,20,0,Jordan Loveridge Offensive Rebound.
+USC,Utah,3,3,1,23,0,Brandon Taylor Turnover.
+USC,Utah,3,3,1,23,0,Katin Reinhardt Steal.
+USC,Utah,3,3,1,35,0,Foul on Delon Wright.
+USC,Utah,3,3,1,43,0,Nikola Jovanovic Turnover.
+USC,Utah,3,3,2,9,0,Jordan Loveridge missed Three Point Jumper.
+USC,Utah,3,3,2,9,0,Nikola Jovanovic Defensive Rebound.
+USC,Utah,3,3,2,17,0,Nikola Jovanovic missed Layup.
+USC,Utah,3,3,2,17,0,Chris Reyes Block.
+USC,Utah,3,3,2,17,0,Jordan Loveridge Defensive Rebound.
+USC,Utah,3,3,2,28,0,Chris Reyes missed Layup.
+USC,Utah,3,3,2,29,0,Chris Reyes Offensive Rebound.
+USC,Utah,3,3,2,30,0,Chris Reyes Turnover.
+USC,Utah,3,3,2,30,0,Elijah Stewart Steal.
+USC,Utah,5,3,2,40,1,Nikola Jovanovic made Jumper. Assisted by Elijah Stewart.
+USC,Utah,5,3,2,58,0,Jordan Loveridge missed Layup.
+USC,Utah,5,3,2,58,0,Elijah Stewart Block.
+USC,Utah,5,3,2,58,0,Malik Martin Defensive Rebound.
+USC,Utah,5,3,3,5,0,Jordan McLaughlin missed Layup.
+USC,Utah,5,3,3,5,0,Delon Wright Block.
+USC,Utah,5,3,3,5,0,USC Offensive Rebound.
+USC,Utah,5,3,3,11,0,Nikola Jovanovic missed Jumper.
+USC,Utah,5,3,3,11,0,Delon Wright Defensive Rebound.
+USC,Utah,5,3,3,22,0,Foul on Elijah Stewart.
+USC,Utah,5,3,3,22,0,Brekkott Chapman missed Free Throw.
+USC,Utah,5,3,3,22,0,Utah Deadball Team Rebound.
+USC,Utah,5,4,3,22,1,Brekkott Chapman made Free Throw.
+USC,Utah,5,4,3,48,0,Jordan McLaughlin missed Jumper.
+USC,Utah,5,4,3,48,0,Brandon Taylor Defensive Rebound.
+USC,Utah,5,6,3,57,1,Jakob Poeltl made Layup. Assisted by Jordan Loveridge.
+USC,Utah,7,6,4,5,1,Jordan McLaughlin made Jumper.
+USC,Utah,7,6,4,14,0,Foul on Strahinja Gavrilovic.
+USC,Utah,7,6,4,14,0,Official TV Timeout
+USC,Utah,7,9,4,15,1,Jordan Loveridge made Three Point Jumper. Assisted by Delon Wright.
+USC,Utah,7,9,4,46,0,Elijah Stewart missed Layup.
+USC,Utah,7,9,4,46,0,Brandon Taylor Defensive Rebound.
+USC,Utah,7,9,5,6,0,Foul on Strahinja Gavrilovic.
+USC,Utah,7,12,5,7,1,Dakarai Tucker made Three Point Jumper. Assisted by Delon Wright.
+USC,Utah,7,12,5,25,0,Julian Jacobs missed Layup.
+USC,Utah,7,12,5,25,0,Darion Clark Offensive Rebound.
+USC,Utah,7,12,5,25,0,Darion Clark missed Layup.
+USC,Utah,7,12,5,25,0,Jakob Poeltl Defensive Rebound.
+USC,Utah,7,14,5,49,1,Delon Wright made Layup.
+USC,Utah,7,14,5,52,0,USC  Timeout
+USC,Utah,9,14,6,3,1,Malik Martin made Jumper. Assisted by Katin Reinhardt.
+USC,Utah,9,14,6,26,0,Dakarai Tucker missed Three Point Jumper.
+USC,Utah,9,14,6,26,0,Nikola Jovanovic Defensive Rebound.
+USC,Utah,9,14,6,34,0,Jordan McLaughlin missed Jumper.
+USC,Utah,9,14,6,34,0,Dakarai Tucker Defensive Rebound.
+USC,Utah,9,16,6,42,1,Delon Wright made Jumper.
+USC,Utah,9,16,7,5,0,Nikola Jovanovic Turnover.
+USC,Utah,9,16,7,29,0,Foul on Malik Martin.
+USC,Utah,9,17,7,29,1,Dallin Bachynski made Free Throw.
+USC,Utah,9,17,7,29,0,Dallin Bachynski missed Free Throw.
+USC,Utah,9,17,7,29,0,Darion Clark Defensive Rebound.
+USC,Utah,9,17,7,30,0,Julian Jacobs missed Layup.
+USC,Utah,9,17,7,30,0,Dallin Bachynski Defensive Rebound.
+USC,Utah,9,17,7,37,0,Dakarai Tucker missed Three Point Jumper.
+USC,Utah,9,17,7,37,0,Julian Jacobs Defensive Rebound.
+USC,Utah,9,17,7,42,0,Julian Jacobs Turnover.
+USC,Utah,9,17,7,42,0,Brandon Taylor Steal.
+USC,Utah,9,19,7,59,1,Brekkott Chapman made Jumper.
+USC,Utah,9,19,8,21,0,Darion Clark Turnover.
+USC,Utah,9,19,8,21,0,Dallin Bachynski Steal.
+USC,Utah,9,19,8,21,0,Official TV Timeout
+USC,Utah,9,19,8,44,0,Brandon Taylor missed Jumper.
+USC,Utah,9,19,8,44,0,Nikola Jovanovic Defensive Rebound.
+USC,Utah,9,19,9,5,0,Foul on Dallin Bachynski.
+USC,Utah,9,19,9,10,0,Katin Reinhardt missed Jumper.
+USC,Utah,9,19,9,10,0,Chris Reyes Defensive Rebound.
+USC,Utah,9,21,9,28,1,Chris Reyes made Layup.
+USC,Utah,9,21,9,45,0,Jordan McLaughlin missed Layup.
+USC,Utah,9,21,9,45,0,Chris Reyes Defensive Rebound.
+USC,Utah,9,21,9,49,0,Foul on Darion Clark.
+USC,Utah,9,21,10,11,0,Jakob Poeltl Turnover.
+USC,Utah,9,21,10,22,0,Nikola Jovanovic missed Layup.
+USC,Utah,9,21,10,23,0,Jakob Poeltl Block.
+USC,Utah,9,21,10,24,0,Jordan McLaughlin Offensive Rebound.
+USC,Utah,11,21,10,27,1,Jordan McLaughlin made Layup.
+USC,Utah,11,23,10,49,1,Dakarai Tucker made Jumper.
+USC,Utah,11,23,11,5,0,Foul on Jakob Poeltl.
+USC,Utah,11,23,11,14,0,Malik Marquetti missed Three Point Jumper.
+USC,Utah,11,23,11,14,0,Jakob Poeltl Defensive Rebound.
+USC,Utah,11,23,11,32,0,Jakob Poeltl missed Layup.
+USC,Utah,11,23,11,32,0,Darion Clark Defensive Rebound.
+USC,Utah,11,23,11,38,0,Darion Clark Turnover.
+USC,Utah,11,26,11,43,1,Brekkott Chapman made Three Point Jumper. Assisted by Delon Wright.
+USC,Utah,11,26,12,1,0,Official TV Timeout
+USC,Utah,11,26,12,9,0,Julian Jacobs missed Three Point Jumper.
+USC,Utah,11,26,12,9,0,Jordan Loveridge Defensive Rebound.
+USC,Utah,11,26,12,20,0,Delon Wright missed Jumper.
+USC,Utah,11,26,12,20,0,Malik Martin Defensive Rebound.
+USC,Utah,11,26,12,29,0,Elijah Stewart missed Three Point Jumper.
+USC,Utah,11,26,12,29,0,Jordan Loveridge Defensive Rebound.
+USC,Utah,11,28,12,50,1,Jakob Poeltl made Layup. Assisted by Jordan Loveridge.
+USC,Utah,14,28,13,7,1,Malik Martin made Three Point Jumper. Assisted by Katin Reinhardt.
+USC,Utah,14,28,13,39,0,Foul on Strahinja Gavrilovic.
+USC,Utah,14,28,13,39,0,Delon Wright missed Free Throw.
+USC,Utah,14,28,13,39,0,Jakob Poeltl Offensive Rebound.
+USC,Utah,14,31,13,40,1,Brandon Taylor made Three Point Jumper. Assisted by Jakob Poeltl.
+USC,Utah,14,31,13,55,0,Foul on Jakob Poeltl.
+USC,Utah,14,31,13,55,0,Malik Martin missed Jumper.
+USC,Utah,14,31,13,55,0,Elijah Stewart Offensive Rebound.
+USC,Utah,14,31,14,2,0,Foul on Delon Wright.
+USC,Utah,15,31,14,2,1,Nikola Jovanovic made Free Throw.
+USC,Utah,16,31,14,2,1,Nikola Jovanovic made Free Throw.
+USC,Utah,16,31,14,33,0,Jordan Loveridge Turnover.
+USC,Utah,16,31,14,40,0,Elijah Stewart missed Layup.
+USC,Utah,16,31,14,40,0,Dallin Bachynski Block.
+USC,Utah,16,31,14,40,0,Brandon Taylor Defensive Rebound.
+USC,Utah,16,31,14,47,0,Brekkott Chapman missed Layup.
+USC,Utah,16,31,14,47,0,Brekkott Chapman Offensive Rebound.
+USC,Utah,16,31,14,54,0,Dakarai Tucker missed Three Point Jumper.
+USC,Utah,16,31,14,54,0,USC Defensive Rebound.
+USC,Utah,16,31,15,9,0,Katin Reinhardt missed Jumper.
+USC,Utah,16,31,15,9,0,Brekkott Chapman Defensive Rebound.
+USC,Utah,16,33,15,22,1,Jordan Loveridge made Jumper.
+USC,Utah,16,33,15,53,0,Elijah Stewart missed Jumper.
+USC,Utah,16,33,15,53,0,Malik Martin Offensive Rebound.
+USC,Utah,16,33,16,0,0,Malik Martin missed Jumper.
+USC,Utah,16,33,16,0,0,Nikola Jovanovic Offensive Rebound.
+USC,Utah,16,33,16,5,0,Foul on Dakarai Tucker.
+USC,Utah,16,33,16,5,0,Official TV Timeout
+USC,Utah,16,33,16,5,0,Nikola Jovanovic missed Free Throw.
+USC,Utah,16,33,16,5,0,Jordan Loveridge Defensive Rebound.
+USC,Utah,16,33,16,18,0,Chris Reyes missed Layup.
+USC,Utah,16,33,16,18,0,Chris Reyes Offensive Rebound.
+USC,Utah,16,33,16,37,0,Foul on Julian Jacobs.
+USC,Utah,16,34,16,37,1,Dallin Bachynski made Free Throw.
+USC,Utah,16,34,16,37,0,Dallin Bachynski missed Free Throw.
+USC,Utah,16,34,16,37,0,Chris Reyes Offensive Rebound.
+USC,Utah,16,36,16,39,1,Chris Reyes made Layup.
+USC,Utah,16,36,16,53,0,Julian Jacobs missed Jumper.
+USC,Utah,16,36,16,53,0,Julian Jacobs Offensive Rebound.
+USC,Utah,18,36,16,56,1,Julian Jacobs made Layup.
+USC,Utah,18,36,17,15,0,Foul on Julian Jacobs.
+USC,Utah,18,36,17,15,0,Jordan Loveridge missed Free Throw.
+USC,Utah,18,36,17,15,0,Utah Deadball Team Rebound.
+USC,Utah,18,36,17,15,0,Jordan Loveridge missed Free Throw.
+USC,Utah,18,36,17,15,0,Malik Marquetti Defensive Rebound.
+USC,Utah,18,36,17,29,0,Malik Martin Turnover.
+USC,Utah,18,36,17,29,0,Chris Reyes Steal.
+USC,Utah,18,36,17,44,0,Foul on Darion Clark.
+USC,Utah,18,36,17,44,0,Dallin Bachynski missed Free Throw.
+USC,Utah,18,36,17,44,0,Utah Deadball Team Rebound.
+USC,Utah,18,37,17,44,1,Dallin Bachynski made Free Throw.
+USC,Utah,18,37,18,4,0,Jordan McLaughlin Turnover.
+USC,Utah,18,37,18,4,0,Brandon Taylor Steal.
+USC,Utah,18,37,18,12,0,Brandon Taylor Turnover.
+USC,Utah,18,37,18,20,0,Julian Jacobs missed Layup.
+USC,Utah,18,37,18,20,0,Chris Reyes Block.
+USC,Utah,18,37,18,20,0,Utah Defensive Rebound.
+USC,Utah,18,39,18,27,1,Dallin Bachynski made Layup. Assisted by Dakarai Tucker.
+USC,Utah,18,39,18,50,0,Julian Jacobs missed Jumper.
+USC,Utah,18,39,18,50,0,Jordan McLaughlin Offensive Rebound.
+USC,Utah,18,39,18,57,0,Jordan McLaughlin missed Three Point Jumper.
+USC,Utah,18,39,18,57,0,Katin Reinhardt Offensive Rebound.
+USC,Utah,20,39,19,4,1,Katin Reinhardt made Jumper.
+USC,Utah,20,39,19,36,0,Utah  Timeout
+USC,Utah,20,39,19,47,0,Brandon Taylor Turnover.
+USC,Utah,20,39,19,47,0,Jordan McLaughlin Steal.
+USC,Utah,20,39,19,53,0,Jordan McLaughlin missed Layup.
+USC,Utah,20,39,19,53,0,Julian Jacobs Offensive Rebound.
+USC,Utah,22,39,19,57,1,Julian Jacobs made Layup.
+USC,Utah,22,39,20,0,0,End of 1st half
+USC,Utah,22,39,20,0,0,Jump Ball won by USC
+USC,Utah,22,39,20,8,0,Jordan McLaughlin missed Three Point Jumper.
+USC,Utah,22,39,20,8,0,Chris Reyes Defensive Rebound.
+USC,Utah,22,39,20,42,0,Jordan Loveridge missed Three Point Jumper.
+USC,Utah,22,39,20,42,0,Elijah Stewart Block.
+USC,Utah,22,39,20,42,0,Jakob Poeltl Offensive Rebound.
+USC,Utah,22,39,20,48,0,Jakob Poeltl missed Layup.
+USC,Utah,22,39,20,48,0,Jordan McLaughlin Defensive Rebound.
+USC,Utah,24,39,20,56,1,Nikola Jovanovic made Jumper. Assisted by Elijah Stewart.
+USC,Utah,24,39,21,4,0,Foul on Elijah Stewart.
+USC,Utah,24,39,21,14,0,Delon Wright missed Jumper.
+USC,Utah,24,39,21,14,0,Jakob Poeltl Offensive Rebound.
+USC,Utah,24,41,21,22,1,Chris Reyes made Dunk. Assisted by Delon Wright.
+USC,Utah,24,41,21,44,0,Nikola Jovanovic missed Jumper.
+USC,Utah,24,41,21,44,0,Malik Martin Offensive Rebound.
+USC,Utah,24,41,21,49,0,Malik Martin missed Layup.
+USC,Utah,24,41,21,49,0,Chris Reyes Defensive Rebound.
+USC,Utah,24,44,22,6,1,Brandon Taylor made Three Point Jumper. Assisted by Delon Wright.
+USC,Utah,26,44,22,20,1,Nikola Jovanovic made Layup. Assisted by Malik Martin.
+USC,Utah,26,44,22,30,0,Foul on Nikola Jovanovic.
+USC,Utah,26,45,22,30,1,Delon Wright made Free Throw.
+USC,Utah,26,46,22,30,1,Delon Wright made Free Throw.
+USC,Utah,26,46,22,36,0,Katin Reinhardt missed Three Point Jumper.
+USC,Utah,26,46,22,36,0,Nikola Jovanovic Offensive Rebound.
+USC,Utah,26,46,22,40,0,Foul on Chris Reyes.
+USC,Utah,26,46,22,48,0,Malik Martin missed Three Point Jumper.
+USC,Utah,26,46,22,48,0,Jordan Loveridge Defensive Rebound.
+USC,Utah,26,48,23,13,1,Dallin Bachynski made Jumper. Assisted by Chris Reyes.
+USC,Utah,28,48,23,24,1,Jordan McLaughlin made Layup.
+USC,Utah,28,48,23,48,0,Brandon Taylor missed Three Point Jumper.
+USC,Utah,28,48,23,48,0,Nikola Jovanovic Defensive Rebound.
+USC,Utah,30,48,23,56,1,Malik Martin made Dunk. Assisted by Jordan McLaughlin.
+USC,Utah,30,48,24,22,0,Foul on Nikola Jovanovic.
+USC,Utah,30,48,24,22,0,Official TV Timeout
+USC,Utah,30,48,24,22,0,Delon Wright Turnover.
+USC,Utah,30,48,24,22,0,Nikola Jovanovic Steal.
+USC,Utah,32,48,24,27,1,Malik Martin made Dunk. Assisted by Julian Jacobs.
+USC,Utah,32,50,24,57,1,Brekkott Chapman made Jumper. Assisted by Dakarai Tucker.
+USC,Utah,34,50,25,21,1,Julian Jacobs made Jumper.
+USC,Utah,34,50,25,31,0,Foul on Julian Jacobs.
+USC,Utah,34,51,25,31,1,Delon Wright made Free Throw.
+USC,Utah,34,51,25,31,0,Delon Wright missed Free Throw.
+USC,Utah,34,51,25,31,0,Julian Jacobs Defensive Rebound.
+USC,Utah,36,51,25,45,1,Julian Jacobs made Layup.
+USC,Utah,36,51,25,58,0,Foul on Nikola Jovanovic.
+USC,Utah,36,51,26,9,0,Kenneth Ogbe missed Three Point Jumper.
+USC,Utah,36,51,26,9,0,Utah Offensive Rebound.
+USC,Utah,36,53,26,15,1,Kenneth Ogbe made Jumper. Assisted by Delon Wright.
+USC,Utah,36,53,26,25,0,Elijah Stewart missed Jumper.
+USC,Utah,36,53,26,26,0,Malik Marquetti Offensive Rebound.
+USC,Utah,38,53,26,31,1,Malik Marquetti made Layup.
+USC,Utah,38,55,26,50,1,Delon Wright made Layup.
+USC,Utah,38,55,26,59,0,Julian Jacobs Turnover.
+USC,Utah,38,55,26,59,0,Delon Wright Steal.
+USC,Utah,38,55,27,6,0,Delon Wright missed Layup.
+USC,Utah,38,55,27,6,0,Delon Wright Offensive Rebound.
+USC,Utah,38,57,27,10,1,Delon Wright made Layup.
+USC,Utah,38,57,27,15,0,USC  Timeout
+USC,Utah,38,57,27,42,0,Foul on Jakob Poeltl.
+USC,Utah,40,57,27,52,1,Nikola Jovanovic made Dunk. Assisted by Julian Jacobs.
+USC,Utah,40,60,28,10,1,Kenneth Ogbe made Three Point Jumper. Assisted by Delon Wright.
+USC,Utah,40,60,28,42,0,Nikola Jovanovic missed Layup.
+USC,Utah,40,60,28,42,0,Malik Martin Offensive Rebound.
+USC,Utah,40,60,28,46,0,Foul on Jakob Poeltl.
+USC,Utah,40,60,28,46,0,Official TV Timeout
+USC,Utah,40,60,28,46,0,Malik Martin missed Free Throw.
+USC,Utah,40,60,28,46,0,USC Deadball Team Rebound.
+USC,Utah,40,60,28,46,0,Malik Martin missed Free Throw.
+USC,Utah,40,60,28,46,0,Chris Reyes Defensive Rebound.
+USC,Utah,40,63,29,14,1,Dakarai Tucker made Three Point Jumper. Assisted by Kenneth Ogbe.
+USC,Utah,42,63,29,38,1,Nikola Jovanovic made Jumper. Assisted by Julian Jacobs.
+USC,Utah,42,63,29,52,0,Dakarai Tucker missed Three Point Jumper.
+USC,Utah,42,63,29,52,0,Malik Martin Defensive Rebound.
+USC,Utah,42,63,30,1,0,Malik Marquetti missed Three Point Jumper.
+USC,Utah,42,63,30,1,0,Dallin Bachynski Defensive Rebound.
+USC,Utah,42,63,30,36,0,Delon Wright missed Jumper.
+USC,Utah,42,63,30,36,0,USC Defensive Rebound.
+USC,Utah,42,63,30,59,0,Malik Marquetti Turnover.
+USC,Utah,42,63,30,59,0,Dallin Bachynski Steal.
+USC,Utah,42,63,31,21,0,Chris Reyes missed Layup.
+USC,Utah,42,63,31,21,0,Malik Martin Block.
+USC,Utah,42,63,31,21,0,Malik Marquetti Defensive Rebound.
+USC,Utah,42,63,31,27,0,Malik Marquetti missed Jumper.
+USC,Utah,42,63,31,27,0,Chris Reyes Defensive Rebound.
+USC,Utah,42,65,31,34,1,Dakarai Tucker made Layup. Assisted by Chris Reyes.
+USC,Utah,42,65,31,38,0,Utah  Timeout
+USC,Utah,44,65,32,3,1,Strahinja Gavrilovic made Jumper. Assisted by Julian Jacobs.
+USC,Utah,44,65,32,31,0,Jordan Loveridge Turnover.
+USC,Utah,44,65,32,31,0,Julian Jacobs Steal.
+USC,Utah,46,65,32,36,1,Julian Jacobs made Layup.
+USC,Utah,46,65,33,6,0,Dallin Bachynski Turnover.
+USC,Utah,46,65,33,6,0,Official TV Timeout
+USC,Utah,46,65,33,30,0,Darion Clark missed Jumper.
+USC,Utah,46,65,33,31,0,Dallin Bachynski Block.
+USC,Utah,46,65,33,32,0,Brekkott Chapman Defensive Rebound.
+USC,Utah,46,65,33,38,0,Foul on Julian Jacobs.
+USC,Utah,46,65,34,1,0,Dallin Bachynski missed Jumper.
+USC,Utah,46,65,34,1,0,Darion Clark Defensive Rebound.
+USC,Utah,46,65,34,13,0,Strahinja Gavrilovic missed Jumper.
+USC,Utah,46,65,34,13,0,Brekkott Chapman Defensive Rebound.
+USC,Utah,46,68,34,24,1,Jordan Loveridge made Three Point Jumper. Assisted by Delon Wright.
+USC,Utah,48,68,34,38,1,Kahlil Dukes made Jumper.
+USC,Utah,48,70,35,6,1,Jordan Loveridge made Jumper.
+USC,Utah,48,70,35,6,0,Foul on Strahinja Gavrilovic.
+USC,Utah,48,71,35,6,1,Jordan Loveridge made Free Throw.
+USC,Utah,48,71,35,28,0,Foul on Isaiah Wright.
+USC,Utah,50,71,35,30,1,Nikola Jovanovic made Jumper.
+USC,Utah,50,71,35,59,0,Brandon Taylor Turnover.
+USC,Utah,50,71,36,0,0,Katin Reinhardt missed Three Point Jumper.
+USC,Utah,50,71,36,0,0,Brandon Taylor Defensive Rebound.
+USC,Utah,50,71,36,8,0,Official TV Timeout
+USC,Utah,50,71,36,20,0,Isaiah Wright Turnover.
+USC,Utah,50,71,36,20,0,Malik Martin Steal.
+USC,Utah,50,71,36,32,0,Foul on Isaiah Wright.
+USC,Utah,53,71,36,58,1,Malik Martin made Three Point Jumper.
+USC,Utah,53,74,37,30,1,Brandon Taylor made Three Point Jumper. Assisted by Delon Wright.
+USC,Utah,53,74,37,36,0,USC  Timeout
+USC,Utah,53,74,37,51,0,Nikola Jovanovic missed Layup.
+USC,Utah,53,74,37,51,0,Brandon Taylor Defensive Rebound.
+USC,Utah,53,74,37,55,0,Foul on Julian Jacobs.
+USC,Utah,53,75,37,55,1,Brandon Taylor made Free Throw.
+USC,Utah,53,76,37,55,1,Brandon Taylor made Free Throw.
+USC,Utah,53,76,38,6,0,Katin Reinhardt missed Jumper.
+USC,Utah,53,76,38,6,0,Kyle Kuzma Defensive Rebound.
+USC,Utah,53,79,38,24,1,Austin Eastman made Three Point Jumper. Assisted by Kyle Kuzma.
+USC,Utah,53,79,38,42,0,Malik Marquetti missed Three Point Jumper.
+USC,Utah,53,79,38,42,0,Utah Defensive Rebound.
+USC,Utah,53,79,39,17,0,Jeremy Olsen missed Jumper.
+USC,Utah,53,79,39,17,0,Malik Marquetti Defensive Rebound.
+USC,Utah,53,79,39,25,0,Foul on Isaiah Wright.
+USC,Utah,55,79,39,26,1,Malik Martin made Jumper.
+USC,Utah,55,79,40,0,0,End of Game

@@ -1,0 +1,307 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UCF,SMU,0,0,0,0,0,Jump Ball won by UCF
+UCF,SMU,0,0,0,35,0,Daiquan Walker missed Three Point Jumper.
+UCF,SMU,0,0,0,35,0,Nic Moore Defensive Rebound.
+UCF,SMU,0,2,0,46,1,Ryan Manuel made Layup. Assisted by Nic Moore.
+UCF,SMU,2,2,0,55,1,Brandon Goodwin made Layup.
+UCF,SMU,2,4,1,3,1,Ben Moore made Layup. Assisted by Ryan Manuel.
+UCF,SMU,2,4,1,21,0,Brandon Goodwin missed Jumper.
+UCF,SMU,2,4,1,21,0,Nic Moore Defensive Rebound.
+UCF,SMU,2,6,1,26,1,Ryan Manuel made Dunk. Assisted by Nic Moore.
+UCF,SMU,2,6,1,26,0,UCF  Timeout
+UCF,SMU,2,6,1,51,0,Adonys Henriquez missed Three Point Jumper.
+UCF,SMU,2,6,1,51,0,Ryan Manuel Defensive Rebound.
+UCF,SMU,2,6,2,1,0,Yanick Moreira Turnover.
+UCF,SMU,2,6,2,1,0,Brandon Goodwin Steal.
+UCF,SMU,2,6,2,7,0,Foul on Sterling Brown.
+UCF,SMU,3,6,2,7,1,Staphon Blair made Free Throw.
+UCF,SMU,4,6,2,7,1,Staphon Blair made Free Throw.
+UCF,SMU,4,6,2,25,0,Nic Moore Turnover.
+UCF,SMU,4,6,2,34,0,Kasey Wilson Turnover.
+UCF,SMU,4,6,2,34,0,Nic Moore Steal.
+UCF,SMU,4,8,2,45,1,Ben Moore made Dunk. Assisted by Nic Moore.
+UCF,SMU,4,8,3,16,0,Daiquan Walker Turnover.
+UCF,SMU,4,8,3,31,0,Ben Moore missed Jumper.
+UCF,SMU,4,8,3,31,0,Brandon Goodwin Defensive Rebound.
+UCF,SMU,4,8,3,59,0,Foul on Sterling Brown.
+UCF,SMU,5,8,3,59,1,Dylan Karell made Free Throw.
+UCF,SMU,6,8,3,59,1,Dylan Karell made Free Throw.
+UCF,SMU,6,8,4,16,0,Markus Kennedy missed Jumper.
+UCF,SMU,6,8,4,16,0,Yanick Moreira Offensive Rebound.
+UCF,SMU,6,8,4,26,0,Foul on Daiquan Walker.
+UCF,SMU,6,8,4,26,0,Official TV Timeout
+UCF,SMU,6,10,4,37,1,Ben Moore made Layup.
+UCF,SMU,6,10,5,17,0,Brandon Goodwin missed Three Point Jumper.
+UCF,SMU,6,10,5,17,0,UCF Deadball Team Rebound.
+UCF,SMU,6,10,5,17,0,UCF  Turnover.
+UCF,SMU,6,10,5,33,0,Foul on Staphon Blair.
+UCF,SMU,6,10,5,33,0,Yanick Moreira missed Free Throw.
+UCF,SMU,6,10,5,33,0,SMU Deadball Team Rebound.
+UCF,SMU,6,11,5,33,1,Yanick Moreira made Free Throw.
+UCF,SMU,6,11,5,56,0,Staphon Blair missed Layup.
+UCF,SMU,6,11,5,56,0,Yanick Moreira Block.
+UCF,SMU,6,11,5,56,0,Markus Kennedy Defensive Rebound.
+UCF,SMU,6,13,6,7,1,Yanick Moreira made Jumper. Assisted by Nic Moore.
+UCF,SMU,6,13,6,39,0,Brandon Goodwin Turnover.
+UCF,SMU,6,13,6,39,0,Markus Kennedy Steal.
+UCF,SMU,6,13,6,44,0,Nic Moore Turnover.
+UCF,SMU,6,13,6,44,0,Dylan Karell Steal.
+UCF,SMU,9,13,6,58,1,Adonys Henriquez made Three Point Jumper. Assisted by Staphon Blair.
+UCF,SMU,9,13,7,22,0,Nic Moore missed Three Point Jumper.
+UCF,SMU,9,13,7,22,0,Daiquan Walker Defensive Rebound.
+UCF,SMU,11,13,7,37,1,Adonys Henriquez made Layup.
+UCF,SMU,11,15,7,45,1,Markus Kennedy made Layup. Assisted by Ryan Manuel.
+UCF,SMU,11,15,8,3,0,Adonys Henriquez Turnover.
+UCF,SMU,11,15,8,3,0,Yanick Moreira Steal.
+UCF,SMU,11,17,8,12,1,Yanick Moreira made Layup. Assisted by Nic Moore.
+UCF,SMU,11,17,8,12,0,Foul on Daiquan Walker.
+UCF,SMU,11,17,8,12,0,Official TV Timeout
+UCF,SMU,11,17,8,12,0,Yanick Moreira missed Free Throw.
+UCF,SMU,11,17,8,12,0,Justin McBride Defensive Rebound.
+UCF,SMU,14,17,8,23,1,Adonys Henriquez made Three Point Jumper. Assisted by Brandon Goodwin.
+UCF,SMU,14,17,8,39,0,Nic Moore missed Jumper.
+UCF,SMU,14,17,8,39,0,Adonys Henriquez Defensive Rebound.
+UCF,SMU,14,17,8,52,0,Justin McBride missed Jumper.
+UCF,SMU,14,17,8,52,0,Dylan Karell Offensive Rebound.
+UCF,SMU,14,17,8,52,0,Dylan Karell missed Two Point Tip Shot.
+UCF,SMU,14,17,8,52,0,Yanick Moreira Defensive Rebound.
+UCF,SMU,14,17,9,0,0,Nic Moore missed Three Point Jumper.
+UCF,SMU,14,17,9,0,0,Markus Kennedy Offensive Rebound.
+UCF,SMU,14,17,9,6,0,Markus Kennedy missed Jumper.
+UCF,SMU,14,17,9,6,0,Justin McBride Block.
+UCF,SMU,14,17,9,6,0,Markus Kennedy Offensive Rebound.
+UCF,SMU,14,17,9,7,0,Jump Ball won by SMU
+UCF,SMU,14,17,9,23,0,Foul on Dylan Karell.
+UCF,SMU,14,17,9,27,0,Markus Kennedy missed Jumper.
+UCF,SMU,14,17,9,27,0,Cannen Cunningham Offensive Rebound.
+UCF,SMU,14,19,9,33,1,Markus Kennedy made Layup. Assisted by Cannen Cunningham.
+UCF,SMU,17,19,9,45,1,Adonys Henriquez made Three Point Jumper.
+UCF,SMU,17,21,10,13,1,Cannen Cunningham made Layup.
+UCF,SMU,17,21,10,34,0,Adonys Henriquez missed Three Point Jumper.
+UCF,SMU,17,21,10,34,0,Markus Kennedy Defensive Rebound.
+UCF,SMU,17,21,10,53,0,Ryan Manuel Turnover.
+UCF,SMU,17,21,10,53,0,Justin McBride Steal.
+UCF,SMU,17,21,11,0,0,Brandon Goodwin missed Layup.
+UCF,SMU,17,21,11,0,0,Markus Kennedy Defensive Rebound.
+UCF,SMU,17,23,11,7,1,Ryan Manuel made Layup. Assisted by Nic Moore.
+UCF,SMU,17,23,11,7,0,Foul on Dylan Karell.
+UCF,SMU,17,24,11,7,1,Ryan Manuel made Free Throw.
+UCF,SMU,17,24,11,31,0,Staphon Blair missed Jumper.
+UCF,SMU,17,24,11,31,0,Ben Emelogu Defensive Rebound.
+UCF,SMU,17,24,11,46,0,Markus Kennedy Turnover.
+UCF,SMU,17,24,11,46,0,Justin McBride Steal.
+UCF,SMU,19,24,11,50,1,Daiquan Walker made Layup.
+UCF,SMU,19,26,12,9,1,Nic Moore made Jumper.
+UCF,SMU,19,26,12,40,0,Foul on Markus Kennedy.
+UCF,SMU,19,26,12,40,0,Official TV Timeout
+UCF,SMU,20,26,12,40,1,Justin McBride made Free Throw.
+UCF,SMU,21,26,12,40,1,Justin McBride made Free Throw.
+UCF,SMU,21,26,12,50,0,Ben Emelogu missed Jumper.
+UCF,SMU,21,26,12,50,0,Staphon Blair Defensive Rebound.
+UCF,SMU,21,26,13,8,0,Adonys Henriquez Turnover.
+UCF,SMU,21,26,13,8,0,Yanick Moreira Steal.
+UCF,SMU,21,28,13,14,1,Cannen Cunningham made Dunk. Assisted by Ryan Manuel.
+UCF,SMU,21,28,13,34,0,Daiquan Walker missed Three Point Jumper.
+UCF,SMU,21,28,13,34,0,Staphon Blair Offensive Rebound.
+UCF,SMU,23,28,13,48,1,Justin McBride made Layup. Assisted by Adonys Henriquez.
+UCF,SMU,23,28,14,9,0,Yanick Moreira missed Dunk.
+UCF,SMU,23,28,14,9,0,Yanick Moreira Offensive Rebound.
+UCF,SMU,23,28,14,9,0,Foul on Justin McBride.
+UCF,SMU,23,29,14,9,1,Yanick Moreira made Free Throw.
+UCF,SMU,23,30,14,9,1,Yanick Moreira made Free Throw.
+UCF,SMU,23,30,14,43,0,Brandon Goodwin missed Three Point Jumper.
+UCF,SMU,23,30,14,43,0,Yanick Moreira Defensive Rebound.
+UCF,SMU,23,30,14,48,0,Foul on Shaheed Davis.
+UCF,SMU,23,31,14,48,1,Yanick Moreira made Free Throw.
+UCF,SMU,23,31,14,48,0,Yanick Moreira missed Free Throw.
+UCF,SMU,23,31,14,48,0,Justin McBride Defensive Rebound.
+UCF,SMU,23,31,15,13,0,Justin McBride missed Jumper.
+UCF,SMU,23,31,15,13,0,Adonys Henriquez Offensive Rebound.
+UCF,SMU,23,31,15,18,0,Adonys Henriquez Turnover.
+UCF,SMU,23,31,15,18,0,Nic Moore Steal.
+UCF,SMU,23,31,15,24,0,Ben Moore Turnover.
+UCF,SMU,23,31,15,24,0,Brandon Goodwin Steal.
+UCF,SMU,23,31,15,50,0,Shaheed Davis missed Jumper.
+UCF,SMU,23,31,15,50,0,Ryan Manuel Defensive Rebound.
+UCF,SMU,23,31,16,0,0,Yanick Moreira missed Jumper.
+UCF,SMU,23,31,16,0,0,Justin McBride Defensive Rebound.
+UCF,SMU,25,31,16,7,1,Staphon Blair made Layup. Assisted by Brandon Goodwin.
+UCF,SMU,25,31,16,27,0,Foul on Justin McBride.
+UCF,SMU,25,31,16,27,0,Official TV Timeout
+UCF,SMU,25,32,16,27,1,Nic Moore made Free Throw.
+UCF,SMU,25,32,16,27,0,Nic Moore missed Free Throw.
+UCF,SMU,25,32,16,27,0,Staphon Blair Defensive Rebound.
+UCF,SMU,25,32,16,45,0,Foul on Ben Moore.
+UCF,SMU,25,32,16,51,0,Adonys Henriquez Turnover.
+UCF,SMU,25,32,16,51,0,Nic Moore Steal.
+UCF,SMU,25,32,17,2,0,Ben Moore Turnover.
+UCF,SMU,28,32,17,5,1,Adonys Henriquez made Three Point Jumper. Assisted by Brandon Goodwin.
+UCF,SMU,28,32,17,19,0,Foul on Staphon Blair.
+UCF,SMU,28,32,17,19,0,Cannen Cunningham missed Free Throw.
+UCF,SMU,28,32,17,19,0,Dylan Karell Defensive Rebound.
+UCF,SMU,28,32,17,36,0,Adonys Henriquez missed Jumper.
+UCF,SMU,28,32,17,36,0,Markus Kennedy Defensive Rebound.
+UCF,SMU,28,34,17,48,1,Markus Kennedy made Dunk. Assisted by Nic Moore.
+UCF,SMU,28,34,18,10,0,Shaheed Davis Turnover.
+UCF,SMU,28,36,18,38,1,Ryan Manuel made Layup.
+UCF,SMU,30,36,19,11,1,Dylan Karell made Dunk. Assisted by Brandon Goodwin.
+UCF,SMU,30,36,19,22,0,Foul on Cannen Cunningham.
+UCF,SMU,30,36,19,22,0,Cannen Cunningham Turnover.
+UCF,SMU,30,36,19,59,0,Brandon Goodwin missed Layup.
+UCF,SMU,30,36,19,59,0,Markus Kennedy Block.
+UCF,SMU,30,36,19,59,0,Markus Kennedy Defensive Rebound.
+UCF,SMU,30,36,20,0,0,End of 1st half
+UCF,SMU,30,36,20,0,0,Jump Ball won by UCF
+UCF,SMU,30,36,20,18,0,Brandon Goodwin Turnover.
+UCF,SMU,30,36,20,31,0,Sterling Brown Turnover.
+UCF,SMU,30,36,20,31,0,Daiquan Walker Steal.
+UCF,SMU,32,36,20,37,1,Daiquan Walker made Layup.
+UCF,SMU,32,36,20,52,0,Ryan Manuel missed Layup.
+UCF,SMU,32,36,20,52,0,Ryan Manuel Offensive Rebound.
+UCF,SMU,32,38,20,54,1,Ryan Manuel made Layup.
+UCF,SMU,32,38,20,59,0,Brandon Goodwin Turnover.
+UCF,SMU,32,38,20,59,0,Ryan Manuel Steal.
+UCF,SMU,32,40,21,4,1,Ryan Manuel made Dunk.
+UCF,SMU,32,40,21,34,0,Daiquan Walker missed Three Point Jumper.
+UCF,SMU,32,40,21,34,0,Staphon Blair Offensive Rebound.
+UCF,SMU,32,40,21,40,0,Foul on Yanick Moreira.
+UCF,SMU,32,40,21,41,0,Brandon Goodwin Turnover.
+UCF,SMU,32,40,21,50,0,Yanick Moreira missed Jumper.
+UCF,SMU,32,40,21,50,0,Dylan Karell Block.
+UCF,SMU,32,40,21,50,0,SMU Offensive Rebound.
+UCF,SMU,32,42,21,51,1,Nic Moore made Layup. Assisted by Sterling Brown.
+UCF,SMU,34,42,22,5,1,Brandon Goodwin made Layup.
+UCF,SMU,34,42,22,22,0,Ryan Manuel Turnover.
+UCF,SMU,34,42,22,55,0,Foul on Sterling Brown.
+UCF,SMU,34,42,23,18,0,Brandon Goodwin missed Three Point Jumper.
+UCF,SMU,34,42,23,18,0,Ben Moore Defensive Rebound.
+UCF,SMU,34,42,23,55,0,Yanick Moreira missed Jumper.
+UCF,SMU,34,42,23,55,0,Brandon Goodwin Defensive Rebound.
+UCF,SMU,36,42,24,5,1,Adonys Henriquez made Layup.
+UCF,SMU,36,42,24,21,0,Nic Moore missed Jumper.
+UCF,SMU,36,42,24,21,0,Dylan Karell Defensive Rebound.
+UCF,SMU,39,42,24,31,1,Adonys Henriquez made Three Point Jumper. Assisted by Brandon Goodwin.
+UCF,SMU,39,42,24,57,0,Yanick Moreira missed Layup.
+UCF,SMU,39,42,24,57,0,Yanick Moreira Offensive Rebound.
+UCF,SMU,39,44,25,2,1,Yanick Moreira made Layup.
+UCF,SMU,39,44,25,23,0,Daiquan Walker missed Three Point Jumper.
+UCF,SMU,39,44,25,23,0,Sterling Brown Defensive Rebound.
+UCF,SMU,39,46,25,30,1,Ryan Manuel made Dunk. Assisted by Sterling Brown.
+UCF,SMU,39,46,25,36,0,Foul on Sterling Brown.
+UCF,SMU,39,46,25,37,0,Official TV Timeout
+UCF,SMU,40,46,25,37,1,Daiquan Walker made Free Throw.
+UCF,SMU,41,46,25,37,1,Daiquan Walker made Free Throw.
+UCF,SMU,41,46,25,51,0,Ryan Manuel Turnover.
+UCF,SMU,41,46,25,51,0,Daiquan Walker Steal.
+UCF,SMU,41,46,25,56,0,Daiquan Walker missed Layup.
+UCF,SMU,41,46,25,56,0,Cannen Cunningham Defensive Rebound.
+UCF,SMU,41,46,26,7,0,Foul on Myles Davis.
+UCF,SMU,41,46,26,24,0,Markus Kennedy missed Jumper.
+UCF,SMU,41,46,26,24,0,Justin McBride Defensive Rebound.
+UCF,SMU,43,46,26,46,1,Justin McBride made Layup. Assisted by Adonys Henriquez.
+UCF,SMU,43,48,27,22,1,Nic Moore made Jumper.
+UCF,SMU,43,48,27,22,0,Foul on Myles Davis.
+UCF,SMU,43,49,27,22,1,Nic Moore made Free Throw.
+UCF,SMU,43,49,27,46,0,Justin McBride Turnover.
+UCF,SMU,43,49,27,46,0,Nic Moore Steal.
+UCF,SMU,43,51,27,57,1,Markus Kennedy made Layup.
+UCF,SMU,46,51,28,33,1,Adonys Henriquez made Three Point Jumper.
+UCF,SMU,46,51,29,3,0,Cannen Cunningham missed Layup.
+UCF,SMU,46,51,29,3,0,Justin McBride Block.
+UCF,SMU,46,51,29,3,0,Myles Davis Defensive Rebound.
+UCF,SMU,46,51,29,9,0,Foul on Cannen Cunningham.
+UCF,SMU,46,51,29,9,0,Official TV Timeout
+UCF,SMU,46,51,29,9,0,Staphon Blair missed Free Throw.
+UCF,SMU,46,51,29,9,0,UCF Deadball Team Rebound.
+UCF,SMU,47,51,29,9,1,Staphon Blair made Free Throw.
+UCF,SMU,47,54,29,29,1,Ben Emelogu made Three Point Jumper. Assisted by Ryan Manuel.
+UCF,SMU,47,54,30,17,0,Adonys Henriquez missed Three Point Jumper.
+UCF,SMU,47,54,30,17,0,SMU Defensive Rebound.
+UCF,SMU,47,54,30,36,0,Foul on Justin McBride.
+UCF,SMU,47,55,30,36,1,Ben Moore made Free Throw.
+UCF,SMU,47,56,30,36,1,Ben Moore made Free Throw.
+UCF,SMU,49,56,31,4,1,Staphon Blair made Layup. Assisted by Daiquan Walker.
+UCF,SMU,49,56,31,22,0,Nic Moore missed Three Point Jumper.
+UCF,SMU,49,56,31,22,0,Markus Kennedy Offensive Rebound.
+UCF,SMU,49,59,31,32,1,Ben Emelogu made Three Point Jumper. Assisted by Ben Moore.
+UCF,SMU,49,59,32,3,0,Foul on Yanick Moreira.
+UCF,SMU,49,59,32,3,0,Official TV Timeout
+UCF,SMU,49,59,32,3,0,UCF  Timeout
+UCF,SMU,49,59,32,40,0,Brandon Goodwin missed Jumper.
+UCF,SMU,49,59,32,40,0,Yanick Moreira Defensive Rebound.
+UCF,SMU,49,59,32,40,0,Foul on Justin McBride.
+UCF,SMU,49,61,33,7,1,Yanick Moreira made Jumper. Assisted by Markus Kennedy.
+UCF,SMU,49,61,33,46,0,UCF  Turnover.
+UCF,SMU,49,63,33,57,1,Markus Kennedy made Dunk. Assisted by Nic Moore.
+UCF,SMU,49,63,33,57,0,Foul on Dylan Karell.
+UCF,SMU,49,64,33,57,1,Markus Kennedy made Free Throw.
+UCF,SMU,49,64,34,25,0,Brandon Goodwin Turnover.
+UCF,SMU,49,64,34,25,0,Ben Emelogu Steal.
+UCF,SMU,49,64,34,36,0,Nic Moore Turnover.
+UCF,SMU,49,64,34,36,0,Daiquan Walker Steal.
+UCF,SMU,51,64,34,41,1,Daiquan Walker made Jumper.
+UCF,SMU,51,64,34,59,0,Foul on Yanick Moreira.
+UCF,SMU,51,64,34,59,0,Yanick Moreira Turnover.
+UCF,SMU,52,64,34,59,1,Staphon Blair made Free Throw.
+UCF,SMU,52,64,34,59,0,Staphon Blair missed Free Throw.
+UCF,SMU,52,64,34,59,0,UCF Deadball Team Rebound.
+UCF,SMU,52,64,35,19,0,Daiquan Walker missed Three Point Jumper.
+UCF,SMU,52,64,35,19,0,Staphon Blair Offensive Rebound.
+UCF,SMU,52,64,35,25,0,Staphon Blair missed Layup.
+UCF,SMU,52,64,35,25,0,Ben Emelogu Defensive Rebound.
+UCF,SMU,52,67,35,32,1,Ryan Manuel made Three Point Jumper. Assisted by Yanick Moreira.
+UCF,SMU,52,67,35,49,0,Brandon Goodwin Turnover.
+UCF,SMU,52,67,35,49,0,Ben Emelogu Steal.
+UCF,SMU,52,70,35,55,1,Ben Emelogu made Three Point Jumper. Assisted by Nic Moore.
+UCF,SMU,52,70,36,0,0,UCF  Timeout
+UCF,SMU,52,70,36,17,0,Daiquan Walker missed Layup.
+UCF,SMU,52,70,36,17,0,Markus Kennedy Defensive Rebound.
+UCF,SMU,52,70,36,33,0,Foul on Myles Davis.
+UCF,SMU,52,70,36,33,0,Official TV Timeout
+UCF,SMU,52,71,36,33,1,Markus Kennedy made Free Throw.
+UCF,SMU,52,72,36,33,1,Markus Kennedy made Free Throw.
+UCF,SMU,52,72,36,50,0,Adonys Henriquez missed Three Point Jumper.
+UCF,SMU,52,72,36,50,0,Ben Emelogu Defensive Rebound.
+UCF,SMU,52,74,37,11,1,Ryan Manuel made Jumper. Assisted by Nic Moore.
+UCF,SMU,52,74,37,45,0,Daiquan Walker missed Jumper.
+UCF,SMU,52,74,37,45,0,Ryan Manuel Defensive Rebound.
+UCF,SMU,52,74,38,14,0,Kevin Dunleavy Turnover.
+UCF,SMU,52,74,38,14,0,Brandon Goodwin Steal.
+UCF,SMU,52,74,38,25,0,Adonys Henriquez missed Three Point Jumper.
+UCF,SMU,52,74,38,25,0,Staphon Blair Offensive Rebound.
+UCF,SMU,52,74,38,34,0,Daiquan Walker missed Three Point Jumper.
+UCF,SMU,52,74,38,34,0,Adonys Henriquez Offensive Rebound.
+UCF,SMU,55,74,38,38,1,Brandon Goodwin made Three Point Jumper. Assisted by Adonys Henriquez.
+UCF,SMU,55,74,38,49,0,Kevin Dunleavy missed Jumper.
+UCF,SMU,55,74,38,49,0,Markus Kennedy Offensive Rebound.
+UCF,SMU,55,74,38,54,0,Kevin Dunleavy missed Three Point Jumper.
+UCF,SMU,55,74,38,54,0,Daiquan Walker Defensive Rebound.
+UCF,SMU,55,74,39,3,0,Foul on Kevin Dunleavy.
+UCF,SMU,55,74,39,3,0,Staphon Blair missed Free Throw.
+UCF,SMU,55,74,39,3,0,UCF Deadball Team Rebound.
+UCF,SMU,56,74,39,3,1,Staphon Blair made Free Throw.
+UCF,SMU,56,74,39,9,0,Foul on Brandon Goodwin.
+UCF,SMU,56,74,39,9,0,Kevin Dunleavy missed Free Throw.
+UCF,SMU,56,74,39,9,0,Staphon Blair Defensive Rebound.
+UCF,SMU,56,74,39,15,0,Brandon Goodwin missed Jumper.
+UCF,SMU,56,74,39,15,0,Markus Kennedy Block.
+UCF,SMU,56,74,39,15,0,UCF Offensive Rebound.
+UCF,SMU,56,74,39,17,0,Daiquan Walker missed Jumper.
+UCF,SMU,56,74,39,17,0,Brandon Goodwin Offensive Rebound.
+UCF,SMU,56,74,39,22,0,Brandon Goodwin missed Three Point Jumper.
+UCF,SMU,56,74,39,22,0,SMU Defensive Rebound.
+UCF,SMU,56,74,39,30,0,Foul on Staphon Blair.
+UCF,SMU,56,74,39,30,0,Jean-Micheal Mudiay missed Free Throw.
+UCF,SMU,56,74,39,30,0,SMU Deadball Team Rebound.
+UCF,SMU,56,74,39,30,0,Jean-Micheal Mudiay missed Free Throw.
+UCF,SMU,56,74,39,30,0,Staphon Blair Defensive Rebound.
+UCF,SMU,56,74,39,35,0,Djordjije Mumin missed Three Point Jumper.
+UCF,SMU,56,74,39,35,0,Cannen Cunningham Block.
+UCF,SMU,56,74,39,35,0,Cannen Cunningham Defensive Rebound.
+UCF,SMU,56,74,39,42,0,Foul on Staphon Blair.
+UCF,SMU,56,75,39,42,1,Jean-Micheal Mudiay made Free Throw.
+UCF,SMU,56,75,39,42,0,Jean-Micheal Mudiay missed Free Throw.
+UCF,SMU,56,75,39,42,0,Dylan Karell Defensive Rebound.
+UCF,SMU,56,75,39,53,0,Myles Davis missed Three Point Jumper.
+UCF,SMU,56,75,39,53,0,Markus Kennedy Defensive Rebound.
+UCF,SMU,56,75,40,0,0,End of Game

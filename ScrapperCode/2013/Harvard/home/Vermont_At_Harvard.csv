@@ -1,0 +1,317 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Vermont,Harvard,2,0,0,14,1,Candon Rusin made Layup.
+Vermont,Harvard,2,2,0,47,1,Kenyatta Smith made Dunk.  Assisted by Wesley Saunders.
+Vermont,Harvard,4,2,1,2,1,Sandro Carissimo made Layup.
+Vermont,Harvard,4,4,1,22,1,Kenyatta Smith made Jumper.  Assisted by Laurent Rivard.
+Vermont,Harvard,6,4,1,39,1,Sandro Carissimo made Layup.  Assisted by Luke Apfeld.
+Vermont,Harvard,6,6,1,51,1,Wesley Saunders made Layup.
+Vermont,Harvard,6,6,1,58,0,Sandro Carissimo Turnover.
+Vermont,Harvard,6,6,1,59,0,Steve Moundou-Missi Steal.
+Vermont,Harvard,6,6,2,5,0,Siyani Chambers missed Jumper.
+Vermont,Harvard,6,6,2,5,0,Brian Voelkel Defensive Rebound.
+Vermont,Harvard,9,6,2,14,1,Sandro Carissimo made Three Point Jumper.  Assisted by Brian Voelkel.
+Vermont,Harvard,9,6,2,16,0,Harvard Full Timeout.
+Vermont,Harvard,9,6,2,40,0,Foul on Luke Apfeld
+Vermont,Harvard,9,6,2,40,0,Steve Moundou-Missi missed Free Throw.
+Vermont,Harvard,9,6,2,40,0,null
+Vermont,Harvard,9,6,2,40,0,Steve Moundou-Missi missed Free Throw.
+Vermont,Harvard,9,6,2,40,0,Kenyatta Smith Offensive Rebound.
+Vermont,Harvard,9,6,2,43,0,Foul on Ethan O'Day
+Vermont,Harvard,9,7,2,43,1,Kenyatta Smith made Free Throw.
+Vermont,Harvard,9,7,2,43,0,Kenyatta Smith missed Free Throw.
+Vermont,Harvard,9,7,2,43,0,Laurent Rivard Offensive Rebound.
+Vermont,Harvard,9,9,2,52,1,Kenyatta Smith made Jumper.  Assisted by Laurent Rivard.
+Vermont,Harvard,9,9,3,11,0,Luke Apfeld missed Jumper.
+Vermont,Harvard,9,9,3,11,0,Steve Moundou-Missi Defensive Rebound.
+Vermont,Harvard,9,11,3,18,1,Wesley Saunders made Layup.
+Vermont,Harvard,9,11,3,23,0,Vermont Full Timeout.
+Vermont,Harvard,9,11,3,32,0,Foul on Siyani Chambers
+Vermont,Harvard,9,11,3,45,0,Sandro Carissimo missed Jumper.
+Vermont,Harvard,9,11,3,45,0,Harvard Defensive Rebound.
+Vermont,Harvard,9,11,4,17,0,Foul on Sandro Carissimo
+Vermont,Harvard,9,11,4,17,0,Official TV Timeout.
+Vermont,Harvard,9,12,4,17,1,Laurent Rivard made Free Throw.
+Vermont,Harvard,9,13,4,17,1,Laurent Rivard made Free Throw.
+Vermont,Harvard,12,13,4,29,1,Sandro Carissimo made Three Point Jumper.  Assisted by Brendan Kilpatrick.
+Vermont,Harvard,12,13,4,54,0,Laurent Rivard Turnover.
+Vermont,Harvard,12,13,4,55,0,Brendan Kilpatrick Steal.
+Vermont,Harvard,12,13,5,6,0,Foul on Kenyatta Smith
+Vermont,Harvard,12,13,5,14,0,Clancy Rugg missed Three Point Jumper.
+Vermont,Harvard,12,13,5,14,0,Kenyatta Smith Defensive Rebound.
+Vermont,Harvard,12,13,5,27,0,Kenyatta Smith missed Layup.
+Vermont,Harvard,12,13,5,27,0,Ethan O'Day Defensive Rebound.
+Vermont,Harvard,12,13,5,36,0,Foul on Wesley Saunders
+Vermont,Harvard,14,13,5,40,1,Trey Blue made Jumper.
+Vermont,Harvard,14,13,5,51,0,Foul on Josh Elbaum
+Vermont,Harvard,14,13,6,13,0,Foul on Trey Blue
+Vermont,Harvard,14,13,6,13,0,Christian Webster missed Free Throw.
+Vermont,Harvard,14,13,6,13,0,null
+Vermont,Harvard,14,13,6,13,0,Christian Webster missed Free Throw.
+Vermont,Harvard,14,13,6,13,0,Brian Voelkel Defensive Rebound.
+Vermont,Harvard,14,13,6,13,0,Foul on Steve Moundou-Missi
+Vermont,Harvard,14,13,6,32,0,Foul on Trey Blue
+Vermont,Harvard,14,13,6,32,0,Trey Blue Turnover.
+Vermont,Harvard,14,13,6,50,0,Foul on Ethan O'Day
+Vermont,Harvard,14,13,6,50,0,Steve Moundou-Missi missed Free Throw.
+Vermont,Harvard,14,13,6,50,0,Luke Apfeld Defensive Rebound.
+Vermont,Harvard,16,13,7,8,1,Luke Apfeld made Jumper.  Assisted by Sandro Carissimo.
+Vermont,Harvard,16,13,7,23,0,Siyani Chambers Turnover.
+Vermont,Harvard,16,13,7,24,0,Candon Rusin Steal.
+Vermont,Harvard,18,13,7,26,1,Candon Rusin made Layup.
+Vermont,Harvard,18,13,7,55,0,Wesley Saunders missed Jumper.
+Vermont,Harvard,18,13,7,55,0,Wesley Saunders Offensive Rebound.
+Vermont,Harvard,18,13,8,1,0,Official TV Timeout.
+Vermont,Harvard,18,13,8,1,0,Foul on Josh Elbaum
+Vermont,Harvard,18,14,8,3,1,Siyani Chambers made Free Throw.
+Vermont,Harvard,18,15,8,3,1,Siyani Chambers made Free Throw.
+Vermont,Harvard,20,15,8,19,1,Clancy Rugg made Layup.
+Vermont,Harvard,20,15,8,19,0,Foul on Steve Moundou-Missi
+Vermont,Harvard,21,15,8,19,1,Clancy Rugg made Free Throw.
+Vermont,Harvard,21,15,8,27,0,Kenyatta Smith missed Jumper.
+Vermont,Harvard,21,15,8,27,0,Kenyatta Smith Offensive Rebound.
+Vermont,Harvard,21,15,8,39,0,Kenyatta Smith Turnover.
+Vermont,Harvard,23,15,8,50,1,Luke Apfeld made Jumper.  Assisted by Sandro Carissimo.
+Vermont,Harvard,23,15,9,28,0,Foul on Brian Voelkel
+Vermont,Harvard,23,15,9,28,0,Christian Webster missed Free Throw.
+Vermont,Harvard,23,15,9,28,0,null
+Vermont,Harvard,23,15,9,28,0,Christian Webster missed Free Throw.
+Vermont,Harvard,23,15,9,28,0,Luke Apfeld Defensive Rebound.
+Vermont,Harvard,23,15,9,41,0,Luke Apfeld Turnover.
+Vermont,Harvard,23,15,10,2,0,Jonah Travis missed Jumper.
+Vermont,Harvard,23,15,10,2,0,Luke Apfeld Defensive Rebound.
+Vermont,Harvard,23,15,10,16,0,Candon Rusin missed Jumper.
+Vermont,Harvard,23,15,10,16,0,Laurent Rivard Defensive Rebound.
+Vermont,Harvard,23,15,10,30,0,Laurent Rivard Turnover.
+Vermont,Harvard,23,15,10,31,0,Luke Apfeld Steal.
+Vermont,Harvard,25,15,10,36,1,Luke Apfeld made Layup.  Assisted by Brian Voelkel.
+Vermont,Harvard,25,15,10,37,0,Harvard Full Timeout.
+Vermont,Harvard,25,17,11,0,1,Kenyatta Smith made Layup.
+Vermont,Harvard,28,17,11,25,1,Luke Apfeld made Three Point Jumper.  Assisted by Sandro Carissimo.
+Vermont,Harvard,28,17,11,41,0,Wesley Saunders missed Jumper.
+Vermont,Harvard,28,17,11,41,0,Vermont Defensive Rebound.
+Vermont,Harvard,28,17,11,56,0,Luke Apfeld missed Three Point Jumper.
+Vermont,Harvard,28,17,11,56,0,Harvard Defensive Rebound.
+Vermont,Harvard,28,17,12,21,0,Official TV Timeout.
+Vermont,Harvard,28,19,12,33,1,Siyani Chambers made Layup.
+Vermont,Harvard,31,19,12,49,1,Brendan Kilpatrick made Three Point Jumper.  Assisted by Josh Elbaum.
+Vermont,Harvard,31,19,13,3,0,Kenyatta Smith Turnover.
+Vermont,Harvard,31,19,13,15,0,Clancy Rugg Turnover.
+Vermont,Harvard,31,19,13,28,0,Kenyatta Smith missed Jumper.
+Vermont,Harvard,31,19,13,28,0,Trey Blue Defensive Rebound.
+Vermont,Harvard,33,19,13,39,1,Clancy Rugg made Layup.  Assisted by Trey Blue.
+Vermont,Harvard,33,19,14,3,0,Laurent Rivard missed Jumper.
+Vermont,Harvard,33,19,14,3,0,Brian Voelkel Defensive Rebound.
+Vermont,Harvard,33,19,14,24,0,Clancy Rugg missed Three Point Jumper.
+Vermont,Harvard,33,19,14,24,0,Christian Webster Defensive Rebound.
+Vermont,Harvard,33,19,14,38,0,Siyani Chambers Turnover.
+Vermont,Harvard,33,19,14,45,0,Josh Elbaum Steal.
+Vermont,Harvard,33,19,14,45,0,Foul on Wesley Saunders
+Vermont,Harvard,34,19,14,45,1,Brendan Kilpatrick made Free Throw.
+Vermont,Harvard,34,19,14,45,0,Brendan Kilpatrick missed Free Throw.
+Vermont,Harvard,34,19,14,45,0,Jonah Travis Defensive Rebound.
+Vermont,Harvard,34,19,14,54,0,Christian Webster Turnover.
+Vermont,Harvard,34,19,14,54,0,Brian Voelkel Steal.
+Vermont,Harvard,34,19,14,54,0,Foul on Jonah Travis
+Vermont,Harvard,34,19,14,54,0,Candon Rusin missed Free Throw.
+Vermont,Harvard,34,19,14,54,0,Jonah Travis Defensive Rebound.
+Vermont,Harvard,34,22,15,15,1,Christian Webster made Three Point Jumper.  Assisted by Siyani Chambers.
+Vermont,Harvard,34,22,15,41,0,Candon Rusin missed Jumper.
+Vermont,Harvard,34,22,15,41,0,Wesley Saunders Block.
+Vermont,Harvard,34,22,15,43,0,Wesley Saunders Defensive Rebound.
+Vermont,Harvard,34,22,15,43,0,Foul on Luke Apfeld
+Vermont,Harvard,34,23,15,43,1,Wesley Saunders made Free Throw.
+Vermont,Harvard,34,24,15,43,1,Wesley Saunders made Free Throw.
+Vermont,Harvard,34,24,16,3,0,Brian Voelkel Turnover.
+Vermont,Harvard,34,24,16,3,0,Official TV Timeout.
+Vermont,Harvard,34,27,16,34,1,Laurent Rivard made Three Point Jumper.  Assisted by Siyani Chambers.
+Vermont,Harvard,36,27,16,50,1,Sandro Carissimo made Jumper.
+Vermont,Harvard,36,27,17,2,0,Foul on Clancy Rugg
+Vermont,Harvard,36,28,17,2,1,Jonah Travis made Free Throw.
+Vermont,Harvard,36,29,17,2,1,Jonah Travis made Free Throw.
+Vermont,Harvard,38,29,17,28,1,Clancy Rugg made Jumper.
+Vermont,Harvard,38,29,17,51,0,Jonah Travis missed Layup.
+Vermont,Harvard,38,29,17,51,0,Trey Blue Defensive Rebound.
+Vermont,Harvard,41,29,18,3,1,Trey Blue made Three Point Jumper.  Assisted by Clancy Rugg.
+Vermont,Harvard,41,31,18,27,1,Jonah Travis made Layup.  Assisted by Siyani Chambers.
+Vermont,Harvard,44,31,18,41,1,Brian Voelkel made Three Point Jumper.  Assisted by Sandro Carissimo.
+Vermont,Harvard,44,31,18,52,0,Jonah Travis missed Layup.
+Vermont,Harvard,44,31,18,52,0,Clancy Rugg Defensive Rebound.
+Vermont,Harvard,46,31,19,7,1,Clancy Rugg made Layup.  Assisted by Sandro Carissimo.
+Vermont,Harvard,46,34,19,40,1,Laurent Rivard made Three Point Jumper.  Assisted by Wesley Saunders.
+Vermont,Harvard,46,34,19,56,0,Foul on Jonah Travis
+Vermont,Harvard,47,34,19,56,1,Sandro Carissimo made Free Throw.
+Vermont,Harvard,48,34,19,56,1,Sandro Carissimo made Free Throw.
+Vermont,Harvard,48,34,20,0,0,End of the 1st Half.
+Vermont,Harvard,48,34,20,8,0,Brian Voelkel Turnover.
+Vermont,Harvard,48,34,20,9,0,Wesley Saunders Steal.
+Vermont,Harvard,48,36,20,14,1,Wesley Saunders made Layup.
+Vermont,Harvard,48,36,20,38,0,Sandro Carissimo missed Layup.
+Vermont,Harvard,48,36,20,38,0,Laurent Rivard Defensive Rebound.
+Vermont,Harvard,48,36,20,54,0,Kenyatta Smith Turnover.
+Vermont,Harvard,50,36,21,13,1,Ethan O'Day made Layup.  Assisted by Luke Apfeld.
+Vermont,Harvard,50,39,21,31,1,Laurent Rivard made Three Point Jumper.  Assisted by Siyani Chambers.
+Vermont,Harvard,50,39,21,33,0,Foul on Candon Rusin
+Vermont,Harvard,50,40,21,33,1,Laurent Rivard made Free Throw.
+Vermont,Harvard,52,40,21,52,1,Luke Apfeld made Layup.  Assisted by Sandro Carissimo.
+Vermont,Harvard,52,40,21,54,0,Foul on Luke Apfeld
+Vermont,Harvard,52,40,22,19,0,Siyani Chambers missed Layup.
+Vermont,Harvard,52,40,22,19,0,Sandro Carissimo Defensive Rebound.
+Vermont,Harvard,52,40,22,40,0,Candon Rusin missed Three Point Jumper.
+Vermont,Harvard,52,40,22,40,0,Wesley Saunders Defensive Rebound.
+Vermont,Harvard,52,40,22,46,0,Laurent Rivard missed Three Point Jumper.
+Vermont,Harvard,52,40,22,46,0,Vermont Defensive Rebound.
+Vermont,Harvard,52,40,23,5,0,Trey Blue Turnover.
+Vermont,Harvard,52,40,23,21,0,Foul on Brendan Kilpatrick
+Vermont,Harvard,52,41,23,21,1,Wesley Saunders made Free Throw.
+Vermont,Harvard,52,41,23,21,0,Wesley Saunders missed Free Throw.
+Vermont,Harvard,52,41,23,21,0,Ethan O'Day Defensive Rebound.
+Vermont,Harvard,52,41,23,34,0,Clancy Rugg Turnover.
+Vermont,Harvard,52,41,23,35,0,Wesley Saunders Steal.
+Vermont,Harvard,52,43,23,38,1,Wesley Saunders made Dunk.  Assisted by Siyani Chambers.
+Vermont,Harvard,52,43,23,39,0,Vermont Full Timeout.
+Vermont,Harvard,55,43,24,4,1,Sandro Carissimo made Three Point Jumper.
+Vermont,Harvard,55,46,24,23,1,Siyani Chambers made Three Point Jumper.  Assisted by Laurent Rivard.
+Vermont,Harvard,55,46,24,55,0,Clancy Rugg missed Three Point Jumper.
+Vermont,Harvard,55,46,24,55,0,Brendan Kilpatrick Offensive Rebound.
+Vermont,Harvard,55,46,25,15,0,Foul on Clancy Rugg
+Vermont,Harvard,55,46,25,15,0,Clancy Rugg Turnover.
+Vermont,Harvard,55,46,25,15,0,Official TV Timeout.
+Vermont,Harvard,55,49,25,23,1,Wesley Saunders made Three Point Jumper.  Assisted by Siyani Chambers.
+Vermont,Harvard,55,49,25,42,0,Foul on Steve Moundou-Missi
+Vermont,Harvard,55,49,26,2,0,Trey Blue missed Jumper.
+Vermont,Harvard,55,49,26,2,0,Steve Moundou-Missi Defensive Rebound.
+Vermont,Harvard,55,52,26,33,1,Siyani Chambers made Three Point Jumper.  Assisted by Wesley Saunders.
+Vermont,Harvard,57,52,26,56,1,Clancy Rugg made Jumper.  Assisted by Brian Voelkel.
+Vermont,Harvard,57,52,27,14,0,Laurent Rivard missed Three Point Jumper.
+Vermont,Harvard,57,52,27,14,0,Trey Blue Block.
+Vermont,Harvard,57,52,27,17,0,Jonah Travis Offensive Rebound.
+Vermont,Harvard,57,52,27,19,0,Foul on Jonah Travis
+Vermont,Harvard,57,52,27,19,0,Jonah Travis Turnover.
+Vermont,Harvard,57,52,27,36,0,Luke Apfeld missed Three Point Jumper.
+Vermont,Harvard,57,52,27,36,0,Ethan O'Day Offensive Rebound.
+Vermont,Harvard,57,52,27,59,0,Ethan O'Day missed Layup.
+Vermont,Harvard,57,52,27,59,0,Kenyatta Smith Block.
+Vermont,Harvard,57,52,27,59,0,Brian Voelkel Offensive Rebound.
+Vermont,Harvard,57,52,27,59,0,Foul on Kenyatta Smith
+Vermont,Harvard,58,52,27,59,1,Brian Voelkel made Free Throw.
+Vermont,Harvard,59,52,27,59,1,Brian Voelkel made Free Throw.
+Vermont,Harvard,59,54,28,6,1,Wesley Saunders made Jumper.
+Vermont,Harvard,59,54,28,29,0,Candon Rusin missed Three Point Jumper.
+Vermont,Harvard,59,54,28,29,0,Siyani Chambers Defensive Rebound.
+Vermont,Harvard,59,54,28,34,0,Foul on Josh Elbaum
+Vermont,Harvard,59,54,28,34,0,Official TV Timeout.
+Vermont,Harvard,59,57,28,54,1,Christian Webster made Three Point Jumper.  Assisted by Siyani Chambers.
+Vermont,Harvard,59,57,29,21,0,Foul on Kenyatta Smith
+Vermont,Harvard,60,57,29,21,1,Brian Voelkel made Free Throw.
+Vermont,Harvard,61,57,29,21,1,Brian Voelkel made Free Throw.
+Vermont,Harvard,61,57,29,51,0,Siyani Chambers missed Three Point Jumper.
+Vermont,Harvard,61,57,29,51,0,Steve Moundou-Missi Offensive Rebound.
+Vermont,Harvard,61,57,29,57,0,Steve Moundou-Missi Turnover.
+Vermont,Harvard,61,57,29,57,0,Trey Blue Steal.
+Vermont,Harvard,61,57,30,1,0,Foul on Christian Webster
+Vermont,Harvard,62,57,30,1,1,Trey Blue made Free Throw.
+Vermont,Harvard,63,57,30,1,1,Trey Blue made Free Throw.
+Vermont,Harvard,63,57,30,19,0,Steve Moundou-Missi missed Jumper.
+Vermont,Harvard,63,57,30,19,0,Ethan O'Day Block.
+Vermont,Harvard,63,57,30,21,0,Ethan O'Day Defensive Rebound.
+Vermont,Harvard,63,57,30,24,0,Foul on Laurent Rivard
+Vermont,Harvard,64,57,30,24,1,Candon Rusin made Free Throw.
+Vermont,Harvard,65,57,30,24,1,Candon Rusin made Free Throw.
+Vermont,Harvard,65,57,30,45,0,Foul on Luke Apfeld
+Vermont,Harvard,65,57,30,57,0,Laurent Rivard missed Three Point Jumper.
+Vermont,Harvard,65,57,30,57,0,Harvard Offensive Rebound.
+Vermont,Harvard,65,57,31,13,0,Foul on Clancy Rugg
+Vermont,Harvard,65,58,31,13,1,Wesley Saunders made Free Throw.
+Vermont,Harvard,65,59,31,13,1,Wesley Saunders made Free Throw.
+Vermont,Harvard,67,59,31,35,1,Sandro Carissimo made Jumper.
+Vermont,Harvard,67,61,31,59,1,Laurent Rivard made Layup.  Assisted by Jonah Travis.
+Vermont,Harvard,67,61,32,14,0,Candon Rusin missed Three Point Jumper.
+Vermont,Harvard,67,61,32,14,0,Jonah Travis Defensive Rebound.
+Vermont,Harvard,67,61,32,24,0,Wesley Saunders missed Layup.
+Vermont,Harvard,67,61,32,24,0,Ethan O'Day Block.
+Vermont,Harvard,67,61,32,26,0,Jonah Travis Offensive Rebound.
+Vermont,Harvard,67,61,32,26,0,Official TV Timeout.
+Vermont,Harvard,67,61,32,53,0,Christian Webster Turnover.
+Vermont,Harvard,67,61,33,7,0,Sandro Carissimo missed Three Point Jumper.
+Vermont,Harvard,67,61,33,7,0,Siyani Chambers Defensive Rebound.
+Vermont,Harvard,67,61,33,15,0,Siyani Chambers missed Layup.
+Vermont,Harvard,67,61,33,15,0,Sandro Carissimo Block.
+Vermont,Harvard,67,61,33,16,0,Ethan O'Day Defensive Rebound.
+Vermont,Harvard,67,61,33,24,0,Ethan O'Day missed Layup.
+Vermont,Harvard,67,61,33,24,0,Jonah Travis Block.
+Vermont,Harvard,67,61,33,25,0,Laurent Rivard Defensive Rebound.
+Vermont,Harvard,67,61,33,43,0,Jonah Travis Turnover.
+Vermont,Harvard,67,61,33,44,0,Sandro Carissimo Steal.
+Vermont,Harvard,69,61,33,48,1,Clancy Rugg made Layup.  Assisted by Ethan O'Day.
+Vermont,Harvard,69,61,33,51,0,Harvard Full Timeout.
+Vermont,Harvard,69,61,34,9,0,Wesley Saunders missed Jumper.
+Vermont,Harvard,69,61,34,9,0,Wesley Saunders Offensive Rebound.
+Vermont,Harvard,69,63,34,10,1,Wesley Saunders made Tip Shot.
+Vermont,Harvard,71,63,34,41,1,Ethan O'Day made Dunk.  Assisted by Brian Voelkel.
+Vermont,Harvard,71,63,35,1,0,Laurent Rivard missed Three Point Jumper.
+Vermont,Harvard,71,63,35,1,0,Vermont Defensive Rebound.
+Vermont,Harvard,71,63,35,3,0,Foul on Jonah Travis
+Vermont,Harvard,72,63,35,3,1,Ethan O'Day made Free Throw.
+Vermont,Harvard,73,63,35,3,1,Ethan O'Day made Free Throw.
+Vermont,Harvard,73,65,35,20,1,Jonah Travis made Layup.  Assisted by Wesley Saunders.
+Vermont,Harvard,73,65,35,47,0,Foul on Laurent Rivard
+Vermont,Harvard,73,65,35,47,0,Clancy Rugg missed Free Throw.
+Vermont,Harvard,73,65,35,47,0,null
+Vermont,Harvard,74,65,35,47,1,Clancy Rugg made Free Throw.
+Vermont,Harvard,74,68,35,51,1,Laurent Rivard made Three Point Jumper.  Assisted by Siyani Chambers.
+Vermont,Harvard,74,68,35,52,0,Harvard Full Timeout.
+Vermont,Harvard,76,68,36,27,1,Luke Apfeld made Layup.
+Vermont,Harvard,76,68,36,42,0,Foul on Sandro Carissimo
+Vermont,Harvard,76,68,36,42,0,Official TV Timeout.
+Vermont,Harvard,76,69,36,42,1,Siyani Chambers made Free Throw.
+Vermont,Harvard,76,70,36,42,1,Siyani Chambers made Free Throw.
+Vermont,Harvard,76,70,36,52,0,Foul on Jonah Travis
+Vermont,Harvard,77,70,36,52,1,Sandro Carissimo made Free Throw.
+Vermont,Harvard,78,70,36,52,1,Sandro Carissimo made Free Throw.
+Vermont,Harvard,78,70,37,1,0,Wesley Saunders missed Jumper.
+Vermont,Harvard,78,70,37,1,0,Luke Apfeld Defensive Rebound.
+Vermont,Harvard,78,70,37,34,0,Luke Apfeld Turnover.
+Vermont,Harvard,78,70,37,34,0,Wesley Saunders Steal.
+Vermont,Harvard,78,70,37,40,0,Foul on Brian Voelkel
+Vermont,Harvard,78,71,37,40,1,Steve Moundou-Missi made Free Throw.
+Vermont,Harvard,78,72,37,40,1,Steve Moundou-Missi made Free Throw.
+Vermont,Harvard,78,72,37,56,0,Vermont Full Timeout.
+Vermont,Harvard,78,72,38,11,0,Luke Apfeld missed Layup.
+Vermont,Harvard,78,72,38,11,0,Steve Moundou-Missi Defensive Rebound.
+Vermont,Harvard,78,72,38,20,0,Foul on Luke Apfeld
+Vermont,Harvard,78,72,38,20,0,Wesley Saunders missed Free Throw.
+Vermont,Harvard,78,72,38,20,0,null
+Vermont,Harvard,78,73,38,20,1,Wesley Saunders made Free Throw.
+Vermont,Harvard,78,73,38,24,0,Trey Blue Turnover.
+Vermont,Harvard,78,73,38,25,0,Wesley Saunders Steal.
+Vermont,Harvard,78,73,38,28,0,Foul on Brian Voelkel
+Vermont,Harvard,78,74,38,28,1,Siyani Chambers made Free Throw.
+Vermont,Harvard,78,75,38,28,1,Siyani Chambers made Free Throw.
+Vermont,Harvard,81,75,38,43,1,Sandro Carissimo made Three Point Jumper.  Assisted by Candon Rusin.
+Vermont,Harvard,81,75,38,55,0,Foul on Brian Voelkel
+Vermont,Harvard,81,75,38,55,0,Christian Webster missed Free Throw.
+Vermont,Harvard,81,75,38,55,0,null
+Vermont,Harvard,81,76,38,55,1,Christian Webster made Free Throw.
+Vermont,Harvard,81,76,39,11,0,Vermont Full Timeout.
+Vermont,Harvard,81,76,39,21,0,Clancy Rugg missed Layup.
+Vermont,Harvard,81,76,39,21,0,Steve Moundou-Missi Block.
+Vermont,Harvard,81,76,39,22,0,Laurent Rivard Defensive Rebound.
+Vermont,Harvard,81,76,39,27,0,Steve Moundou-Missi Turnover.
+Vermont,Harvard,81,76,39,29,0,Foul on Siyani Chambers
+Vermont,Harvard,82,76,39,29,1,Clancy Rugg made Free Throw.
+Vermont,Harvard,83,76,39,29,1,Clancy Rugg made Free Throw.
+Vermont,Harvard,83,78,39,34,1,Siyani Chambers made Layup.
+Vermont,Harvard,83,78,39,34,0,Harvard Full Timeout.
+Vermont,Harvard,83,78,39,35,0,Foul on Steve Moundou-Missi
+Vermont,Harvard,83,78,39,35,0,Sandro Carissimo missed Free Throw.
+Vermont,Harvard,83,78,39,35,0,null
+Vermont,Harvard,84,78,39,35,1,Sandro Carissimo made Free Throw.
+Vermont,Harvard,84,78,39,44,0,Laurent Rivard missed Three Point Jumper.
+Vermont,Harvard,84,78,39,44,0,Candon Rusin Defensive Rebound.
+Vermont,Harvard,84,78,39,48,0,Foul on Wesley Saunders
+Vermont,Harvard,84,78,39,48,0,Candon Rusin missed Free Throw.
+Vermont,Harvard,84,78,39,48,0,null
+Vermont,Harvard,85,78,39,48,1,Candon Rusin made Free Throw.
+Vermont,Harvard,85,78,39,53,0,Steve Moundou-Missi missed Three Point Jumper.
+Vermont,Harvard,85,78,39,53,0,Candon Rusin Defensive Rebound.
+Vermont,Harvard,85,78,40,0,0,End Game

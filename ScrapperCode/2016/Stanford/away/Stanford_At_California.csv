@@ -1,0 +1,337 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,California,0,0,0,0,0,Jump Ball won by California
+Stanford,California,0,0,0,20,0,Jaylen Brown missed Jumper.
+Stanford,California,0,0,0,20,0,Stanford Defensive Rebound.
+Stanford,California,3,0,0,33,1,Grant Verhoeven made Three Point Jumper.
+Stanford,California,3,0,0,50,0,Ivan Rabb Turnover.
+Stanford,California,3,0,0,50,0,Marcus Allen Steal.
+Stanford,California,3,0,0,50,0,Marcus Sheffield missed Layup.
+Stanford,California,3,0,0,50,0,Dorian Pickens Offensive Rebound.
+Stanford,California,3,0,1,17,0,Dorian Pickens missed Jumper.
+Stanford,California,3,0,1,17,0,Dorian Pickens Offensive Rebound.
+Stanford,California,3,0,1,21,0,Dorian Pickens missed Layup.
+Stanford,California,3,0,1,21,0,Kingsley Okoroh Block.
+Stanford,California,3,0,1,21,0,Kingsley Okoroh Defensive Rebound.
+Stanford,California,3,0,1,37,0,Jabari Bird missed Three Point Jumper.
+Stanford,California,3,0,1,37,0,Marcus Sheffield Defensive Rebound.
+Stanford,California,3,0,1,59,0,Marcus Sheffield missed Jumper.
+Stanford,California,3,0,1,59,0,Marcus Allen Offensive Rebound.
+Stanford,California,6,0,2,3,1,Marcus Sheffield made Three Point Jumper. Assisted by Marcus Allen.
+Stanford,California,6,2,2,25,1,Ivan Rabb made Layup. Assisted by Sam Singer.
+Stanford,California,6,2,2,49,0,Marcus Allen missed Jumper.
+Stanford,California,6,2,2,49,0,Ivan Rabb Defensive Rebound.
+Stanford,California,6,2,3,2,0,Jaylen Brown Turnover.
+Stanford,California,6,2,3,17,0,Rosco Allen missed Layup.
+Stanford,California,6,2,3,17,0,Ivan Rabb Defensive Rebound.
+Stanford,California,6,4,3,29,1,Jaylen Brown made Layup. Assisted by Sam Singer.
+Stanford,California,6,4,3,48,0,Rosco Allen missed Three Point Jumper.
+Stanford,California,6,4,3,48,0,Jaylen Brown Defensive Rebound.
+Stanford,California,6,4,3,59,0,Jabari Bird missed Jumper.
+Stanford,California,6,4,3,59,0,Rosco Allen Defensive Rebound.
+Stanford,California,6,4,4,10,0,Marcus Sheffield Turnover.
+Stanford,California,6,4,4,10,0,Official TV Timeout
+Stanford,California,6,4,4,14,0,Stephen Domingo Turnover.
+Stanford,California,6,4,4,45,0,Marcus Sheffield missed Jumper.
+Stanford,California,6,4,4,45,0,Roger Moute a Bidias Defensive Rebound.
+Stanford,California,6,4,4,51,0,Foul on Michael Humphrey.
+Stanford,California,6,5,4,51,1,Jordan Mathews made Free Throw.
+Stanford,California,6,6,4,51,1,Jordan Mathews made Free Throw.
+Stanford,California,6,6,5,6,0,Michael Humphrey missed Jumper.
+Stanford,California,6,6,5,6,0,Stephen Domingo Defensive Rebound.
+Stanford,California,6,6,5,6,0,Foul on Rosco Allen.
+Stanford,California,6,9,5,15,1,Jordan Mathews made Three Point Jumper. Assisted by Stephen Domingo.
+Stanford,California,6,9,5,46,0,Foul on Stephen Domingo.
+Stanford,California,8,9,5,59,1,Dorian Pickens made Jumper. Assisted by Michael Humphrey.
+Stanford,California,8,9,6,21,0,Foul on Stephen Domingo.
+Stanford,California,8,9,6,21,0,Stephen Domingo Turnover.
+Stanford,California,8,9,6,32,0,Michael Humphrey Turnover.
+Stanford,California,8,9,6,32,0,Foul on Michael Humphrey.
+Stanford,California,8,9,6,52,0,Brandon Chauca Turnover.
+Stanford,California,10,9,7,17,1,Marcus Allen made Layup. Assisted by Grant Verhoeven.
+Stanford,California,10,9,7,44,0,Foul on Grant Verhoeven.
+Stanford,California,10,10,7,44,1,Sam Singer made Free Throw.
+Stanford,California,10,11,7,44,1,Sam Singer made Free Throw.
+Stanford,California,10,11,8,15,0,Rosco Allen missed Jumper.
+Stanford,California,10,11,8,15,0,Stanford Deadball Team Rebound.
+Stanford,California,10,11,8,15,0,Foul on Jabari Bird.
+Stanford,California,10,11,8,15,0,Official TV Timeout
+Stanford,California,10,11,8,17,0,Rosco Allen missed Jumper.
+Stanford,California,10,11,8,17,0,Jabari Bird Defensive Rebound.
+Stanford,California,10,11,8,23,0,Jaylen Brown missed Layup.
+Stanford,California,10,11,8,23,0,Rosco Allen Defensive Rebound.
+Stanford,California,10,11,8,36,0,Dorian Pickens missed Three Point Jumper.
+Stanford,California,10,11,8,36,0,Ivan Rabb Defensive Rebound.
+Stanford,California,10,14,8,46,1,Jabari Bird made Three Point Jumper. Assisted by Sam Singer.
+Stanford,California,10,14,9,15,0,Jump Ball won by Stanford
+Stanford,California,10,14,9,21,0,Christian Sanders missed Three Point Jumper.
+Stanford,California,10,14,9,21,0,Jordan Mathews Defensive Rebound.
+Stanford,California,10,14,9,30,0,Foul on Cameron Walker.
+Stanford,California,10,17,9,33,1,Jabari Bird made Three Point Jumper. Assisted by Kameron Rooks.
+Stanford,California,10,17,10,10,0,Christian Sanders missed Three Point Jumper.
+Stanford,California,10,17,10,10,0,Stanford Deadball Team Rebound.
+Stanford,California,10,17,10,10,0,Stanford  Turnover.
+Stanford,California,10,17,10,24,0,Foul on Grant Verhoeven.
+Stanford,California,10,18,10,24,1,Kameron Rooks made Free Throw.
+Stanford,California,10,18,10,24,0,Kameron Rooks missed Free Throw.
+Stanford,California,10,18,10,24,0,Cameron Walker Defensive Rebound.
+Stanford,California,10,18,10,38,0,Malcolm Allen Turnover.
+Stanford,California,10,18,10,38,0,Brandon Chauca Steal.
+Stanford,California,10,18,10,53,0,Kameron Rooks missed Jumper.
+Stanford,California,10,18,10,53,0,Marcus Allen Defensive Rebound.
+Stanford,California,12,18,11,2,1,Marcus Allen made Layup.
+Stanford,California,12,18,11,11,0,Sam Singer Turnover.
+Stanford,California,12,18,11,11,0,Malcolm Allen Steal.
+Stanford,California,14,18,11,17,1,Malcolm Allen made Layup.
+Stanford,California,14,18,11,40,0,Jaylen Brown missed Three Point Jumper.
+Stanford,California,14,18,11,40,0,Marcus Allen Defensive Rebound.
+Stanford,California,14,18,12,1,0,Cameron Walker Turnover.
+Stanford,California,14,18,12,1,0,Foul on Cameron Walker.
+Stanford,California,14,18,12,1,0,Official TV Timeout
+Stanford,California,14,20,12,15,1,Jordan Mathews made Layup.
+Stanford,California,14,20,12,29,0,Marcus Allen missed Layup.
+Stanford,California,14,20,12,29,0,Ivan Rabb Block.
+Stanford,California,14,20,12,29,0,Ivan Rabb Defensive Rebound.
+Stanford,California,14,20,12,40,0,Brandon Chauca missed Three Point Jumper.
+Stanford,California,14,20,12,40,0,California Deadball Team Rebound.
+Stanford,California,14,20,12,40,0,Foul on Marcus Sheffield.
+Stanford,California,14,21,12,40,1,Ivan Rabb made Free Throw.
+Stanford,California,14,22,12,40,1,Ivan Rabb made Free Throw.
+Stanford,California,14,22,13,6,0,Foul on Jabari Bird.
+Stanford,California,14,22,13,19,0,Marcus Sheffield missed Layup.
+Stanford,California,14,22,13,19,0,Ivan Rabb Defensive Rebound.
+Stanford,California,14,22,13,29,0,Foul on Marcus Sheffield.
+Stanford,California,14,23,13,29,1,Jaylen Brown made Free Throw.
+Stanford,California,14,24,13,29,1,Jaylen Brown made Free Throw.
+Stanford,California,14,24,13,37,0,Foul on Stephen Domingo.
+Stanford,California,16,24,13,51,1,Dorian Pickens made Jumper. Assisted by Malcolm Allen.
+Stanford,California,16,24,14,13,0,Foul on Dorian Pickens.
+Stanford,California,16,25,14,13,1,Jaylen Brown made Free Throw.
+Stanford,California,16,25,14,13,0,Jaylen Brown missed Free Throw.
+Stanford,California,16,25,14,13,0,Marcus Allen Defensive Rebound.
+Stanford,California,16,25,14,26,0,Foul on Sam Singer.
+Stanford,California,16,25,14,29,0,Foul on Jordan Mathews.
+Stanford,California,17,25,14,29,1,Marcus Allen made Free Throw.
+Stanford,California,18,25,14,29,1,Marcus Allen made Free Throw.
+Stanford,California,18,28,14,46,1,Roger Moute a Bidias made Three Point Jumper. Assisted by Sam Singer.
+Stanford,California,18,28,15,16,0,Dorian Pickens missed Three Point Jumper.
+Stanford,California,18,28,15,16,0,Josh Sharma Offensive Rebound.
+Stanford,California,18,28,15,40,0,Marcus Allen missed Layup.
+Stanford,California,18,28,15,40,0,Ivan Rabb Defensive Rebound.
+Stanford,California,18,28,15,48,0,Foul on Malcolm Allen.
+Stanford,California,18,29,15,48,1,Jordan Mathews made Free Throw.
+Stanford,California,18,30,15,48,1,Jordan Mathews made Free Throw.
+Stanford,California,18,30,16,1,0,Foul on Roger Moute a Bidias.
+Stanford,California,18,30,16,1,0,Official TV Timeout
+Stanford,California,18,30,16,1,0,Rosco Allen missed Free Throw.
+Stanford,California,18,30,16,1,0,Jaylen Brown Defensive Rebound.
+Stanford,California,18,33,16,18,1,Jordan Mathews made Three Point Jumper. Assisted by Kameron Rooks.
+Stanford,California,20,33,16,54,1,Dorian Pickens made Layup.
+Stanford,California,20,33,16,54,0,Foul on Jaylen Brown.
+Stanford,California,20,33,16,54,0,Dorian Pickens missed Free Throw.
+Stanford,California,20,33,16,54,0,Dorian Pickens Offensive Rebound.
+Stanford,California,20,33,17,10,0,Marcus Allen missed Jumper.
+Stanford,California,20,33,17,10,0,California Defensive Rebound.
+Stanford,California,20,33,17,19,0,Roger Moute a Bidias missed Jumper.
+Stanford,California,20,33,17,19,0,Kameron Rooks Offensive Rebound.
+Stanford,California,20,35,17,19,1,Kameron Rooks made Layup.
+Stanford,California,20,35,17,19,0,Foul on Josh Sharma.
+Stanford,California,20,36,17,19,1,Kameron Rooks made Free Throw.
+Stanford,California,22,36,17,38,1,Josh Sharma made Layup. Assisted by Malcolm Allen.
+Stanford,California,22,36,17,56,0,Foul on Josh Sharma.
+Stanford,California,22,36,17,56,0,Jaylen Brown missed Free Throw.
+Stanford,California,22,36,17,56,0,California Deadball Team Rebound.
+Stanford,California,22,37,17,56,1,Jaylen Brown made Free Throw.
+Stanford,California,25,37,18,9,1,Dorian Pickens made Three Point Jumper. Assisted by Rosco Allen.
+Stanford,California,25,37,18,31,0,Roger Moute a Bidias Turnover.
+Stanford,California,25,37,18,31,0,Stanford  Timeout
+Stanford,California,25,37,18,40,0,Foul on Jaylen Brown.
+Stanford,California,25,37,18,40,0,Malcolm Allen missed Free Throw.
+Stanford,California,25,37,18,40,0,Stanford Deadball Team Rebound.
+Stanford,California,25,37,18,40,0,Malcolm Allen missed Free Throw.
+Stanford,California,25,37,18,40,0,Kameron Rooks Defensive Rebound.
+Stanford,California,25,37,18,58,0,Foul on Josh Sharma.
+Stanford,California,25,38,18,58,1,Kameron Rooks made Free Throw.
+Stanford,California,25,38,18,58,0,Kameron Rooks missed Free Throw.
+Stanford,California,25,38,18,58,0,Dorian Pickens Defensive Rebound.
+Stanford,California,25,38,19,13,0,Josh Sharma missed Three Point Jumper.
+Stanford,California,25,38,19,13,0,Ivan Rabb Defensive Rebound.
+Stanford,California,25,38,19,17,0,Foul on Rosco Allen.
+Stanford,California,25,39,19,17,1,Ivan Rabb made Free Throw.
+Stanford,California,25,39,19,17,0,Ivan Rabb missed Free Throw.
+Stanford,California,25,39,19,17,0,Rosco Allen Defensive Rebound.
+Stanford,California,25,39,19,35,0,Dorian Pickens Turnover.
+Stanford,California,25,39,19,35,0,Kameron Rooks Steal.
+Stanford,California,25,39,19,40,0,California  Timeout
+Stanford,California,25,39,19,55,0,Jordan Mathews missed Three Point Jumper.
+Stanford,California,25,39,19,55,0,Kameron Rooks Offensive Rebound.
+Stanford,California,25,41,19,59,1,Kameron Rooks made Layup.
+Stanford,California,25,41,20,0,0,End of 1st half
+Stanford,California,25,41,20,0,0,Jump Ball won by California
+Stanford,California,25,41,20,14,0,Jaylen Brown missed Jumper.
+Stanford,California,25,41,20,14,0,Marcus Sheffield Defensive Rebound.
+Stanford,California,25,41,20,21,0,Foul on Jaylen Brown.
+Stanford,California,26,41,20,21,1,Rosco Allen made Free Throw.
+Stanford,California,27,41,20,21,1,Rosco Allen made Free Throw.
+Stanford,California,27,41,20,31,0,Jordan Mathews missed Layup.
+Stanford,California,27,41,20,31,0,Kingsley Okoroh Offensive Rebound.
+Stanford,California,27,44,20,50,1,Jabari Bird made Three Point Jumper. Assisted by Sam Singer.
+Stanford,California,27,44,21,16,0,Foul on Ivan Rabb.
+Stanford,California,28,44,21,16,1,Rosco Allen made Free Throw.
+Stanford,California,29,44,21,16,1,Rosco Allen made Free Throw.
+Stanford,California,29,44,21,25,0,Foul on Marcus Allen.
+Stanford,California,29,47,21,29,1,Jordan Mathews made Three Point Jumper. Assisted by Sam Singer.
+Stanford,California,31,47,21,56,1,Marcus Sheffield made Jumper.
+Stanford,California,31,49,22,14,1,Ivan Rabb made Dunk. Assisted by Sam Singer.
+Stanford,California,31,49,22,43,0,Rosco Allen missed Three Point Jumper.
+Stanford,California,31,49,22,43,0,California Defensive Rebound.
+Stanford,California,31,49,23,10,0,Foul on Marcus Allen.
+Stanford,California,31,49,23,10,0,Ivan Rabb missed Free Throw.
+Stanford,California,31,49,23,10,0,California Deadball Team Rebound.
+Stanford,California,31,50,23,10,1,Ivan Rabb made Free Throw.
+Stanford,California,31,50,23,39,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,California,31,50,23,39,0,Kameron Rooks Defensive Rebound.
+Stanford,California,31,52,23,45,1,Jabari Bird made Layup. Assisted by Jordan Mathews.
+Stanford,California,31,52,23,56,0,Stanford  Timeout
+Stanford,California,31,52,24,7,0,Official TV Timeout
+Stanford,California,31,52,24,14,0,Christian Sanders missed Jumper.
+Stanford,California,31,52,24,14,0,Kameron Rooks Defensive Rebound.
+Stanford,California,31,55,24,34,1,Jordan Mathews made Three Point Jumper. Assisted by Sam Singer.
+Stanford,California,33,55,24,58,1,Josh Sharma made Jumper.
+Stanford,California,33,55,25,20,0,Sam Singer missed Three Point Jumper.
+Stanford,California,33,55,25,20,0,Ivan Rabb Offensive Rebound.
+Stanford,California,33,55,25,22,0,Foul on Grant Verhoeven.
+Stanford,California,33,56,25,22,1,Ivan Rabb made Free Throw.
+Stanford,California,33,57,25,22,1,Ivan Rabb made Free Throw.
+Stanford,California,33,57,25,40,0,Josh Sharma missed Jumper.
+Stanford,California,33,57,25,40,0,Rosco Allen Offensive Rebound.
+Stanford,California,33,57,25,40,0,Jump Ball won by Stanford
+Stanford,California,35,57,25,54,1,Rosco Allen made Layup.
+Stanford,California,35,57,26,19,0,Jordan Mathews Turnover.
+Stanford,California,35,57,26,29,0,Foul on Ivan Rabb.
+Stanford,California,36,57,26,29,1,Cameron Walker made Free Throw.
+Stanford,California,37,57,26,29,1,Cameron Walker made Free Throw.
+Stanford,California,37,57,26,35,0,Foul on Josh Sharma.
+Stanford,California,37,59,26,45,1,Jaylen Brown made Layup.
+Stanford,California,37,59,26,45,0,Foul on Josh Sharma.
+Stanford,California,37,60,26,45,1,Jaylen Brown made Free Throw.
+Stanford,California,37,60,27,4,0,Grant Verhoeven missed Jumper.
+Stanford,California,37,60,27,4,0,Kameron Rooks Defensive Rebound.
+Stanford,California,37,60,27,18,0,Jordan Mathews missed Three Point Jumper.
+Stanford,California,37,60,27,18,0,Malcolm Allen Defensive Rebound.
+Stanford,California,37,60,27,39,0,Marcus Sheffield missed Layup.
+Stanford,California,37,60,27,39,0,Stephen Domingo Block.
+Stanford,California,37,60,27,39,0,Kameron Rooks Defensive Rebound.
+Stanford,California,37,60,27,50,0,Jaylen Brown missed Three Point Jumper.
+Stanford,California,37,60,27,50,0,Stephen Domingo Offensive Rebound.
+Stanford,California,37,63,27,58,1,Stephen Domingo made Three Point Jumper. Assisted by Jaylen Brown.
+Stanford,California,37,63,28,30,0,Rosco Allen missed Jumper.
+Stanford,California,37,63,28,30,0,Jabari Bird Defensive Rebound.
+Stanford,California,37,63,28,59,0,Jabari Bird missed Three Point Jumper.
+Stanford,California,37,63,28,59,0,Rosco Allen Defensive Rebound.
+Stanford,California,37,63,29,12,0,Foul on Jordan Mathews.
+Stanford,California,37,63,29,12,0,Official TV Timeout
+Stanford,California,37,63,29,14,0,Rosco Allen missed Jumper.
+Stanford,California,37,63,29,14,0,Sam Singer Defensive Rebound.
+Stanford,California,37,63,29,24,0,Jaylen Brown missed Jumper.
+Stanford,California,37,63,29,24,0,Sam Singer Offensive Rebound.
+Stanford,California,37,63,29,45,0,Foul on Kameron Rooks.
+Stanford,California,37,63,29,45,0,Kameron Rooks Turnover.
+Stanford,California,37,63,30,4,0,Foul on Jordan Mathews.
+Stanford,California,37,63,30,4,0,Foul on Roger Moute a Bidias.
+Stanford,California,38,63,30,4,1,Rosco Allen made Free Throw.
+Stanford,California,39,63,30,4,1,Rosco Allen made Free Throw.
+Stanford,California,39,63,30,15,0,Foul on Rosco Allen.
+Stanford,California,39,63,30,33,0,Foul on Grant Verhoeven.
+Stanford,California,39,63,30,33,0,Ivan Rabb missed Free Throw.
+Stanford,California,39,63,30,33,0,Dorian Pickens Defensive Rebound.
+Stanford,California,41,63,30,50,1,Grant Verhoeven made Jumper. Assisted by Rosco Allen.
+Stanford,California,41,63,31,9,0,Foul on Grant Verhoeven.
+Stanford,California,41,63,31,9,0,Ivan Rabb missed Free Throw.
+Stanford,California,41,63,31,9,0,Rosco Allen Defensive Rebound.
+Stanford,California,41,63,31,21,0,Foul on Ivan Rabb.
+Stanford,California,42,63,31,21,1,Dorian Pickens made Free Throw.
+Stanford,California,42,63,31,21,0,Dorian Pickens missed Free Throw.
+Stanford,California,42,63,31,21,0,Sam Singer Defensive Rebound.
+Stanford,California,42,63,31,43,0,Foul on Marcus Allen.
+Stanford,California,42,64,31,43,1,Jaylen Brown made Free Throw.
+Stanford,California,42,65,31,43,1,Jaylen Brown made Free Throw.
+Stanford,California,42,65,31,56,0,Dorian Pickens missed Three Point Jumper.
+Stanford,California,42,65,31,56,0,Kameron Rooks Defensive Rebound.
+Stanford,California,42,67,32,15,1,Jaylen Brown made Jumper.
+Stanford,California,42,67,32,25,0,Official TV Timeout
+Stanford,California,42,67,32,49,0,Marcus Allen missed Three Point Jumper.
+Stanford,California,42,67,32,49,0,California Defensive Rebound.
+Stanford,California,42,67,33,3,0,Foul on Sam Singer.
+Stanford,California,42,67,33,3,0,Jabari Bird Turnover.
+Stanford,California,42,67,33,3,0,Marcus Allen missed Free Throw.
+Stanford,California,42,67,33,3,0,Kameron Rooks Defensive Rebound.
+Stanford,California,42,67,33,12,0,Jordan Mathews Turnover.
+Stanford,California,42,67,33,12,0,Rosco Allen Steal.
+Stanford,California,42,67,33,19,0,Marcus Allen missed Layup.
+Stanford,California,42,67,33,19,0,Jaylen Brown Block.
+Stanford,California,42,67,33,19,0,Rosco Allen Offensive Rebound.
+Stanford,California,44,67,33,28,1,Rosco Allen made Dunk.
+Stanford,California,44,67,33,45,0,Jordan Mathews Turnover.
+Stanford,California,46,67,33,49,1,Marcus Sheffield made Dunk.
+Stanford,California,46,67,34,4,0,California  Timeout
+Stanford,California,46,67,34,22,0,Jordan Mathews missed Jumper.
+Stanford,California,46,67,34,22,0,Roger Moute a Bidias Offensive Rebound.
+Stanford,California,46,67,34,53,0,Jaylen Brown missed Jumper.
+Stanford,California,46,67,34,53,0,Kameron Rooks Offensive Rebound.
+Stanford,California,46,69,34,56,1,Kameron Rooks made Layup.
+Stanford,California,46,69,35,14,0,Marcus Allen missed Three Point Jumper.
+Stanford,California,46,69,35,14,0,Kameron Rooks Defensive Rebound.
+Stanford,California,46,71,35,20,1,Jaylen Brown made Layup. Assisted by Jordan Mathews.
+Stanford,California,46,71,35,20,0,Foul on Marcus Allen.
+Stanford,California,46,71,35,20,0,Jaylen Brown missed Free Throw.
+Stanford,California,46,71,35,20,0,Rosco Allen Defensive Rebound.
+Stanford,California,46,71,35,31,0,Foul on Brandon Chauca.
+Stanford,California,47,71,35,31,1,Malcolm Allen made Free Throw.
+Stanford,California,47,71,35,31,0,Malcolm Allen missed Free Throw.
+Stanford,California,47,71,35,31,0,Kameron Rooks Defensive Rebound.
+Stanford,California,47,71,35,41,0,Foul on Cameron Walker.
+Stanford,California,47,72,35,41,1,Jaylen Brown made Free Throw.
+Stanford,California,47,72,35,41,0,Jaylen Brown missed Free Throw.
+Stanford,California,47,72,35,41,0,Stanford Deadball Team Rebound.
+Stanford,California,47,72,35,41,0,Foul on Roger Moute a Bidias.
+Stanford,California,47,72,35,41,0,Cameron Walker missed Free Throw.
+Stanford,California,47,72,35,41,0,Stanford Deadball Team Rebound.
+Stanford,California,47,72,35,41,0,Cameron Walker missed Free Throw.
+Stanford,California,47,72,35,41,0,Jaylen Brown Defensive Rebound.
+Stanford,California,47,72,35,52,0,Jaylen Brown Turnover.
+Stanford,California,47,72,35,52,0,Malcolm Allen Steal.
+Stanford,California,47,72,35,55,0,Foul on Jordan Mathews.
+Stanford,California,48,72,35,55,1,Marcus Allen made Free Throw.
+Stanford,California,49,72,35,55,1,Marcus Allen made Free Throw.
+Stanford,California,49,72,36,27,0,California  Turnover.
+Stanford,California,49,72,36,27,0,Official TV Timeout
+Stanford,California,52,72,36,40,1,Rosco Allen made Three Point Jumper.
+Stanford,California,52,72,37,6,0,Jordan Mathews Turnover.
+Stanford,California,52,72,37,6,0,Malcolm Allen Steal.
+Stanford,California,54,72,37,17,1,Rosco Allen made Layup. Assisted by Malcolm Allen.
+Stanford,California,54,72,37,17,0,Foul on Kameron Rooks.
+Stanford,California,55,72,37,17,1,Rosco Allen made Free Throw.
+Stanford,California,55,74,37,28,1,Kameron Rooks made Dunk. Assisted by Jaylen Brown.
+Stanford,California,57,74,37,42,1,Malcolm Allen made Jumper.
+Stanford,California,57,74,38,18,0,Jaylen Brown missed Layup.
+Stanford,California,57,74,38,18,0,Marcus Sheffield Defensive Rebound.
+Stanford,California,57,74,38,26,0,Rosco Allen missed Layup.
+Stanford,California,57,74,38,26,0,Sam Singer Defensive Rebound.
+Stanford,California,57,74,38,44,0,Sam Singer Turnover.
+Stanford,California,59,74,38,49,1,Malcolm Allen made Layup.
+Stanford,California,59,76,38,56,1,Jabari Bird made Dunk. Assisted by Sam Singer.
+Stanford,California,59,76,39,0,0,California  Timeout
+Stanford,California,59,76,39,7,0,Ayo Adedeji missed Three Point Jumper.
+Stanford,California,59,76,39,7,0,Sam Singer Defensive Rebound.
+Stanford,California,59,76,39,21,0,Foul on Marcus Sheffield.
+Stanford,California,59,76,39,21,0,Cole Welle missed Free Throw.
+Stanford,California,59,76,39,21,0,California Deadball Team Rebound.
+Stanford,California,59,76,39,21,0,Cole Welle missed Free Throw.
+Stanford,California,59,76,39,21,0,Marcus Allen Defensive Rebound.
+Stanford,California,61,76,39,29,1,Malcolm Allen made Jumper.
+Stanford,California,61,76,39,36,0,Foul on Ayo Adedeji.
+Stanford,California,61,76,39,36,0,Brenden Glapion missed Free Throw.
+Stanford,California,61,76,39,36,0,California Deadball Team Rebound.
+Stanford,California,61,76,39,36,0,Brenden Glapion missed Free Throw.
+Stanford,California,61,76,39,36,0,California Offensive Rebound.
+Stanford,California,61,76,40,0,0,End of Game

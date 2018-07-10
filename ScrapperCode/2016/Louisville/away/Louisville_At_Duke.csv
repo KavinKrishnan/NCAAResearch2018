@@ -1,0 +1,318 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Louisville,Duke,0,0,0,0,0,Jump Ball won by Louisville
+Louisville,Duke,0,0,0,17,0,Jaylen Johnson missed Layup.
+Louisville,Duke,0,0,0,17,0,Jaylen Johnson Offensive Rebound.
+Louisville,Duke,2,0,0,17,1,Jaylen Johnson made Two Point Tip Shot.
+Louisville,Duke,2,0,0,42,0,Derryck Thornton missed Jumper.
+Louisville,Duke,2,0,0,42,0,Duke Offensive Rebound.
+Louisville,Duke,2,2,0,50,1,Brandon Ingram made Jumper.
+Louisville,Duke,2,2,1,17,0,Damion Lee missed Three Point Jumper.
+Louisville,Duke,2,2,1,17,0,Brandon Ingram Defensive Rebound.
+Louisville,Duke,2,2,1,49,0,Matt Jones missed Jumper.
+Louisville,Duke,2,2,1,49,0,Jaylen Johnson Defensive Rebound.
+Louisville,Duke,2,2,2,9,0,Damion Lee missed Jumper.
+Louisville,Duke,2,2,2,9,0,Grayson Allen Defensive Rebound.
+Louisville,Duke,2,2,2,18,0,Foul on Trey Lewis.
+Louisville,Duke,2,3,2,18,1,Grayson Allen made Free Throw.
+Louisville,Duke,2,4,2,18,1,Grayson Allen made Free Throw.
+Louisville,Duke,2,4,2,30,0,Quentin Snider missed Three Point Jumper.
+Louisville,Duke,2,4,2,30,0,Brandon Ingram Defensive Rebound.
+Louisville,Duke,2,6,3,2,1,Marshall Plumlee made Layup.
+Louisville,Duke,2,6,3,15,0,Trey Lewis missed Three Point Jumper.
+Louisville,Duke,2,6,3,15,0,Marshall Plumlee Defensive Rebound.
+Louisville,Duke,2,9,3,24,1,Grayson Allen made Three Point Jumper. Assisted by Derryck Thornton.
+Louisville,Duke,2,9,3,27,0,Louisville  Timeout
+Louisville,Duke,2,9,3,43,0,Foul on Chinanu Onuaku.
+Louisville,Duke,2,9,3,43,0,Chinanu Onuaku Turnover.
+Louisville,Duke,2,9,3,52,0,Brandon Ingram missed Three Point Jumper.
+Louisville,Duke,2,9,3,52,0,Damion Lee Defensive Rebound.
+Louisville,Duke,2,9,4,0,0,Damion Lee missed Jumper.
+Louisville,Duke,2,9,4,0,0,Grayson Allen Defensive Rebound.
+Louisville,Duke,2,9,4,21,0,Marshall Plumlee missed Layup.
+Louisville,Duke,2,9,4,21,0,Jaylen Johnson Block.
+Louisville,Duke,2,9,4,21,0,Chinanu Onuaku Defensive Rebound.
+Louisville,Duke,2,9,4,29,0,Official TV Timeout
+Louisville,Duke,2,9,4,33,0,Raymond Spalding Turnover.
+Louisville,Duke,2,11,5,3,1,Marshall Plumlee made Dunk. Assisted by Matt Jones.
+Louisville,Duke,2,11,5,23,0,Quentin Snider missed Jumper.
+Louisville,Duke,2,11,5,23,0,Chinanu Onuaku Offensive Rebound.
+Louisville,Duke,4,11,5,23,1,Chinanu Onuaku made Two Point Tip Shot.
+Louisville,Duke,4,11,5,49,0,Derryck Thornton missed Three Point Jumper.
+Louisville,Duke,4,11,5,49,0,Quentin Snider Defensive Rebound.
+Louisville,Duke,4,11,6,1,0,Donovan Mitchell missed Jumper.
+Louisville,Duke,4,11,6,1,0,Damion Lee Offensive Rebound.
+Louisville,Duke,6,11,6,1,1,Damion Lee made Two Point Tip Shot.
+Louisville,Duke,6,13,6,35,1,Derryck Thornton made Layup.
+Louisville,Duke,6,13,6,48,0,Donovan Mitchell Turnover.
+Louisville,Duke,6,13,6,48,0,Derryck Thornton Steal.
+Louisville,Duke,6,13,6,58,0,Marshall Plumlee Turnover.
+Louisville,Duke,8,13,7,13,1,Trey Lewis made Layup.
+Louisville,Duke,8,13,7,42,0,Chase Jeter Turnover.
+Louisville,Duke,8,13,7,42,0,Raymond Spalding Steal.
+Louisville,Duke,8,13,7,56,0,Foul on Matt Jones.
+Louisville,Duke,9,13,7,56,1,Damion Lee made Free Throw.
+Louisville,Duke,10,13,7,56,1,Damion Lee made Free Throw.
+Louisville,Duke,10,15,8,5,1,Chase Jeter made Dunk. Assisted by Brandon Ingram.
+Louisville,Duke,12,15,8,23,1,Donovan Mitchell made Jumper.
+Louisville,Duke,12,17,8,40,1,Grayson Allen made Layup.
+Louisville,Duke,12,17,8,40,0,Foul on Anas Mahmoud.
+Louisville,Duke,12,17,8,40,0,Official TV Timeout
+Louisville,Duke,12,18,8,40,1,Grayson Allen made Free Throw.
+Louisville,Duke,12,18,8,57,0,Foul on Chase Jeter.
+Louisville,Duke,12,18,8,57,0,Deng Adel missed Free Throw.
+Louisville,Duke,12,18,8,57,0,Louisville Deadball Team Rebound.
+Louisville,Duke,13,18,8,57,1,Deng Adel made Free Throw.
+Louisville,Duke,13,18,9,12,0,Luke Kennard missed Jumper.
+Louisville,Duke,13,18,9,12,0,Chase Jeter Offensive Rebound.
+Louisville,Duke,13,18,9,12,0,Chase Jeter missed Two Point Tip Shot.
+Louisville,Duke,13,18,9,12,0,Anas Mahmoud Defensive Rebound.
+Louisville,Duke,13,18,9,27,0,Raymond Spalding missed Layup.
+Louisville,Duke,13,18,9,27,0,Brandon Ingram Block.
+Louisville,Duke,13,18,9,27,0,Chase Jeter Defensive Rebound.
+Louisville,Duke,13,18,9,35,0,Foul on Donovan Mitchell.
+Louisville,Duke,13,18,9,46,0,Brandon Ingram missed Three Point Jumper.
+Louisville,Duke,13,18,9,46,0,Damion Lee Defensive Rebound.
+Louisville,Duke,15,18,9,52,1,Donovan Mitchell made Dunk. Assisted by Damion Lee.
+Louisville,Duke,15,21,10,14,1,Luke Kennard made Three Point Jumper. Assisted by Brandon Ingram.
+Louisville,Duke,18,21,10,35,1,Donovan Mitchell made Three Point Jumper. Assisted by Damion Lee.
+Louisville,Duke,18,21,11,2,0,Derryck Thornton Turnover.
+Louisville,Duke,18,21,11,15,0,Damion Lee missed Layup.
+Louisville,Duke,18,21,11,15,0,Damion Lee Offensive Rebound.
+Louisville,Duke,18,21,11,15,0,Damion Lee missed Two Point Tip Shot.
+Louisville,Duke,18,21,11,15,0,Marshall Plumlee Defensive Rebound.
+Louisville,Duke,18,21,11,26,0,Matt Jones missed Three Point Jumper.
+Louisville,Duke,18,21,11,26,0,Donovan Mitchell Defensive Rebound.
+Louisville,Duke,18,21,11,35,0,Donovan Mitchell missed Layup.
+Louisville,Duke,18,21,11,35,0,Derryck Thornton Block.
+Louisville,Duke,18,21,11,35,0,Derryck Thornton Defensive Rebound.
+Louisville,Duke,18,21,11,41,0,Foul on Derryck Thornton.
+Louisville,Duke,18,21,11,41,0,Derryck Thornton Turnover.
+Louisville,Duke,18,21,12,0,0,Donovan Mitchell missed Three Point Jumper.
+Louisville,Duke,18,21,12,0,0,Duke Defensive Rebound.
+Louisville,Duke,18,21,12,5,0,Official TV Timeout
+Louisville,Duke,18,21,12,26,0,Luke Kennard missed Three Point Jumper.
+Louisville,Duke,18,21,12,26,0,Chinanu Onuaku Block.
+Louisville,Duke,18,21,12,26,0,Duke Offensive Rebound.
+Louisville,Duke,18,21,12,35,0,Marshall Plumlee missed Layup.
+Louisville,Duke,18,21,12,35,0,Jaylen Johnson Defensive Rebound.
+Louisville,Duke,18,21,12,36,0,Foul on Marshall Plumlee.
+Louisville,Duke,18,21,12,50,0,Damion Lee missed Jumper.
+Louisville,Duke,18,21,12,50,0,Jaylen Johnson Offensive Rebound.
+Louisville,Duke,18,21,12,50,0,Jaylen Johnson missed Two Point Tip Shot.
+Louisville,Duke,18,21,12,50,0,Marshall Plumlee Defensive Rebound.
+Louisville,Duke,18,24,13,15,1,Grayson Allen made Three Point Jumper.
+Louisville,Duke,20,24,13,40,1,Damion Lee made Layup. Assisted by Chinanu Onuaku.
+Louisville,Duke,20,26,14,7,1,Brandon Ingram made Dunk. Assisted by Marshall Plumlee.
+Louisville,Duke,20,26,14,31,0,Damion Lee missed Jumper.
+Louisville,Duke,20,26,14,31,0,Marshall Plumlee Defensive Rebound.
+Louisville,Duke,20,26,14,37,0,Grayson Allen missed Layup.
+Louisville,Duke,20,26,14,37,0,Donovan Mitchell Defensive Rebound.
+Louisville,Duke,22,26,14,43,1,Donovan Mitchell made Layup. Assisted by Quentin Snider.
+Louisville,Duke,22,26,15,3,0,Matt Jones missed Three Point Jumper.
+Louisville,Duke,22,26,15,3,0,Chinanu Onuaku Block.
+Louisville,Duke,22,26,15,3,0,Marshall Plumlee Offensive Rebound.
+Louisville,Duke,22,28,15,8,1,Marshall Plumlee made Layup.
+Louisville,Duke,22,28,15,8,0,Foul on Quentin Snider.
+Louisville,Duke,22,29,15,8,1,Marshall Plumlee made Free Throw.
+Louisville,Duke,22,29,15,26,0,Foul on Matt Jones.
+Louisville,Duke,22,29,15,47,0,Damion Lee Turnover.
+Louisville,Duke,22,29,16,5,0,Matt Jones Turnover.
+Louisville,Duke,22,29,16,5,0,Official TV Timeout
+Louisville,Duke,22,29,16,17,0,Trey Lewis missed Three Point Jumper.
+Louisville,Duke,22,29,16,17,0,Chase Jeter Defensive Rebound.
+Louisville,Duke,22,29,16,27,0,Brandon Ingram missed Three Point Jumper.
+Louisville,Duke,22,29,16,27,0,Brandon Ingram Offensive Rebound.
+Louisville,Duke,22,29,16,33,0,Derryck Thornton Turnover.
+Louisville,Duke,22,29,16,49,0,Trey Lewis missed Three Point Jumper.
+Louisville,Duke,22,29,16,49,0,Brandon Ingram Defensive Rebound.
+Louisville,Duke,22,29,17,2,0,Grayson Allen missed Jumper.
+Louisville,Duke,22,29,17,2,0,Louisville Deadball Team Rebound.
+Louisville,Duke,22,29,17,22,0,Quentin Snider missed Jumper.
+Louisville,Duke,22,29,17,22,0,Brandon Ingram Defensive Rebound.
+Louisville,Duke,22,29,17,27,0,Foul on Chinanu Onuaku.
+Louisville,Duke,22,29,17,41,0,Luke Kennard missed Layup.
+Louisville,Duke,22,29,17,41,0,Anas Mahmoud Block.
+Louisville,Duke,22,29,17,41,0,Jaylen Johnson Defensive Rebound.
+Louisville,Duke,24,29,17,46,1,Trey Lewis made Jumper.
+Louisville,Duke,24,29,18,15,0,Foul on Trey Lewis.
+Louisville,Duke,24,30,18,15,1,Marshall Plumlee made Free Throw.
+Louisville,Duke,24,30,18,15,0,Marshall Plumlee missed Free Throw.
+Louisville,Duke,24,30,18,15,0,Anas Mahmoud Defensive Rebound.
+Louisville,Duke,24,30,18,28,0,Foul on Grayson Allen.
+Louisville,Duke,24,30,18,30,0,Damion Lee missed Layup.
+Louisville,Duke,24,30,18,30,0,Jaylen Johnson Offensive Rebound.
+Louisville,Duke,24,30,18,30,0,Jaylen Johnson missed Two Point Tip Shot.
+Louisville,Duke,24,30,18,30,0,Luke Kennard Defensive Rebound.
+Louisville,Duke,24,30,18,40,0,Foul on Anas Mahmoud.
+Louisville,Duke,24,31,18,40,1,Grayson Allen made Free Throw.
+Louisville,Duke,24,32,18,40,1,Grayson Allen made Free Throw.
+Louisville,Duke,24,32,18,57,0,Donovan Mitchell missed Jumper.
+Louisville,Duke,24,32,18,57,0,Matz Stockman Offensive Rebound.
+Louisville,Duke,24,32,18,57,0,Jaylen Johnson Turnover.
+Louisville,Duke,24,35,19,18,1,Grayson Allen made Three Point Jumper. Assisted by Brandon Ingram.
+Louisville,Duke,24,35,19,43,0,Donovan Mitchell Turnover.
+Louisville,Duke,24,35,19,43,0,Duke  Timeout
+Louisville,Duke,24,35,19,55,0,Grayson Allen missed Three Point Jumper.
+Louisville,Duke,24,35,19,55,0,Matz Stockman Defensive Rebound.
+Louisville,Duke,24,35,20,0,0,End of 1st half
+Louisville,Duke,24,35,20,0,0,Jump Ball won by Duke
+Louisville,Duke,24,38,20,10,1,Grayson Allen made Three Point Jumper. Assisted by Matt Jones.
+Louisville,Duke,26,38,20,32,1,Trey Lewis made Jumper.
+Louisville,Duke,26,41,20,54,1,Brandon Ingram made Three Point Jumper. Assisted by Derryck Thornton.
+Louisville,Duke,26,41,21,22,0,Foul on Grayson Allen.
+Louisville,Duke,26,41,21,22,0,Damion Lee missed Free Throw.
+Louisville,Duke,26,41,21,22,0,Louisville Deadball Team Rebound.
+Louisville,Duke,27,41,21,22,1,Damion Lee made Free Throw.
+Louisville,Duke,27,41,21,39,0,Derryck Thornton missed Three Point Jumper.
+Louisville,Duke,27,41,21,39,0,Damion Lee Defensive Rebound.
+Louisville,Duke,30,41,21,50,1,Quentin Snider made Three Point Jumper. Assisted by Damion Lee.
+Louisville,Duke,30,41,21,54,0,Louisville  Timeout
+Louisville,Duke,30,41,22,15,0,Marshall Plumlee missed Jumper.
+Louisville,Duke,30,41,22,15,0,Chinanu Onuaku Defensive Rebound.
+Louisville,Duke,30,41,22,22,0,Chinanu Onuaku Turnover.
+Louisville,Duke,30,44,22,33,1,Matt Jones made Three Point Jumper. Assisted by Brandon Ingram.
+Louisville,Duke,30,44,22,56,0,Chinanu Onuaku missed Layup.
+Louisville,Duke,30,44,22,56,0,Raymond Spalding Offensive Rebound.
+Louisville,Duke,32,44,22,56,1,Raymond Spalding made Two Point Tip Shot.
+Louisville,Duke,32,44,23,28,0,Matt Jones missed Three Point Jumper.
+Louisville,Duke,32,44,23,28,0,Marshall Plumlee Offensive Rebound.
+Louisville,Duke,32,44,23,53,0,Brandon Ingram missed Layup.
+Louisville,Duke,32,44,23,53,0,Chinanu Onuaku Block.
+Louisville,Duke,32,44,23,53,0,Raymond Spalding Defensive Rebound.
+Louisville,Duke,34,44,24,3,1,Damion Lee made Layup.
+Louisville,Duke,34,44,24,18,0,Marshall Plumlee Turnover.
+Louisville,Duke,34,44,24,18,0,Quentin Snider Steal.
+Louisville,Duke,34,44,24,23,0,Damion Lee Turnover.
+Louisville,Duke,34,44,24,23,0,Marshall Plumlee Steal.
+Louisville,Duke,34,44,24,32,0,Foul on Derryck Thornton.
+Louisville,Duke,34,44,24,32,0,Derryck Thornton Turnover.
+Louisville,Duke,34,44,24,32,0,Official TV Timeout
+Louisville,Duke,36,44,24,48,1,Raymond Spalding made Dunk. Assisted by Trey Lewis.
+Louisville,Duke,36,44,25,10,0,Brandon Ingram Turnover.
+Louisville,Duke,36,44,25,10,0,Quentin Snider Steal.
+Louisville,Duke,36,44,25,12,0,Jump Ball won by Louisville
+Louisville,Duke,36,44,25,25,0,Foul on Luke Kennard.
+Louisville,Duke,36,44,25,29,0,Quentin Snider missed Three Point Jumper.
+Louisville,Duke,36,44,25,29,0,Luke Kennard Defensive Rebound.
+Louisville,Duke,36,44,25,39,0,Foul on Quentin Snider.
+Louisville,Duke,36,44,26,1,0,Grayson Allen missed Layup.
+Louisville,Duke,36,44,26,1,0,Raymond Spalding Defensive Rebound.
+Louisville,Duke,36,44,26,5,0,Flagrant Foul on Grayson Allen.
+Louisville,Duke,37,44,26,5,1,Raymond Spalding made Free Throw.
+Louisville,Duke,38,44,26,5,1,Raymond Spalding made Free Throw.
+Louisville,Duke,38,44,26,22,0,Foul on Chinanu Onuaku.
+Louisville,Duke,38,44,26,22,0,Chinanu Onuaku Turnover.
+Louisville,Duke,38,44,26,30,0,Grayson Allen Turnover.
+Louisville,Duke,38,44,26,30,0,Raymond Spalding Steal.
+Louisville,Duke,41,44,26,41,1,Donovan Mitchell made Three Point Jumper. Assisted by Trey Lewis.
+Louisville,Duke,41,44,27,11,0,Foul on Donovan Mitchell.
+Louisville,Duke,41,44,27,26,0,Grayson Allen missed Layup.
+Louisville,Duke,41,44,27,26,0,Anas Mahmoud Block.
+Louisville,Duke,41,44,27,26,0,Damion Lee Defensive Rebound.
+Louisville,Duke,43,44,27,31,1,Trey Lewis made Layup. Assisted by Damion Lee.
+Louisville,Duke,43,44,27,42,0,Duke  Timeout
+Louisville,Duke,43,46,27,54,1,Brandon Ingram made Jumper.
+Louisville,Duke,45,46,28,15,1,Anas Mahmoud made Layup.
+Louisville,Duke,45,49,28,33,1,Luke Kennard made Three Point Jumper. Assisted by Matt Jones.
+Louisville,Duke,47,49,29,2,1,Donovan Mitchell made Layup.
+Louisville,Duke,47,49,29,22,0,Foul on Raymond Spalding.
+Louisville,Duke,47,50,29,22,1,Matt Jones made Free Throw.
+Louisville,Duke,47,50,29,22,0,Matt Jones missed Free Throw.
+Louisville,Duke,47,50,29,22,0,Anas Mahmoud Defensive Rebound.
+Louisville,Duke,47,50,29,36,0,Damion Lee missed Three Point Jumper.
+Louisville,Duke,47,50,29,36,0,Donovan Mitchell Offensive Rebound.
+Louisville,Duke,47,50,29,49,0,Trey Lewis missed Jumper.
+Louisville,Duke,47,50,29,49,0,Marshall Plumlee Block.
+Louisville,Duke,47,50,29,49,0,Grayson Allen Defensive Rebound.
+Louisville,Duke,47,52,30,16,1,Luke Kennard made Layup.
+Louisville,Duke,49,52,30,36,1,Donovan Mitchell made Jumper.
+Louisville,Duke,49,55,31,1,1,Brandon Ingram made Three Point Jumper. Assisted by Grayson Allen.
+Louisville,Duke,49,55,31,9,0,Louisville  Timeout
+Louisville,Duke,49,55,31,14,0,Trey Lewis Turnover.
+Louisville,Duke,49,55,31,31,0,Foul on Chinanu Onuaku.
+Louisville,Duke,49,55,31,31,0,Luke Kennard missed Free Throw.
+Louisville,Duke,49,55,31,31,0,Duke Deadball Team Rebound.
+Louisville,Duke,49,56,31,31,1,Luke Kennard made Free Throw.
+Louisville,Duke,52,56,31,54,1,Quentin Snider made Three Point Jumper. Assisted by Anas Mahmoud.
+Louisville,Duke,52,56,32,12,0,Luke Kennard missed Three Point Jumper.
+Louisville,Duke,52,56,32,12,0,Raymond Spalding Defensive Rebound.
+Louisville,Duke,54,56,32,26,1,Quentin Snider made Jumper.
+Louisville,Duke,54,56,32,26,0,Foul on Luke Kennard.
+Louisville,Duke,54,56,32,26,0,Official TV Timeout
+Louisville,Duke,55,56,32,26,1,Quentin Snider made Free Throw.
+Louisville,Duke,55,56,32,26,0,Foul on Damion Lee.
+Louisville,Duke,55,56,32,49,0,Luke Kennard Turnover.
+Louisville,Duke,55,56,33,1,0,Damion Lee missed Three Point Jumper.
+Louisville,Duke,55,56,33,1,0,Grayson Allen Defensive Rebound.
+Louisville,Duke,55,56,33,22,0,Foul on Quentin Snider.
+Louisville,Duke,55,57,33,22,1,Brandon Ingram made Free Throw.
+Louisville,Duke,55,57,33,22,0,Brandon Ingram missed Free Throw.
+Louisville,Duke,55,57,33,22,0,Trey Lewis Defensive Rebound.
+Louisville,Duke,57,57,33,47,1,Quentin Snider made Layup.
+Louisville,Duke,57,57,33,47,0,Foul on Derryck Thornton.
+Louisville,Duke,58,57,33,47,1,Quentin Snider made Free Throw.
+Louisville,Duke,58,57,33,48,0,Brandon Ingram Turnover.
+Louisville,Duke,58,57,33,48,0,Trey Lewis Steal.
+Louisville,Duke,58,57,34,2,0,Trey Lewis Turnover.
+Louisville,Duke,58,57,34,2,0,Marshall Plumlee Steal.
+Louisville,Duke,58,57,34,24,0,Grayson Allen missed Layup.
+Louisville,Duke,58,57,34,24,0,Anas Mahmoud Block.
+Louisville,Duke,58,57,34,24,0,Anas Mahmoud Defensive Rebound.
+Louisville,Duke,58,57,34,46,0,Quentin Snider missed Three Point Jumper.
+Louisville,Duke,58,57,34,46,0,Brandon Ingram Defensive Rebound.
+Louisville,Duke,58,57,35,15,0,Foul on Raymond Spalding.
+Louisville,Duke,58,58,35,15,1,Brandon Ingram made Free Throw.
+Louisville,Duke,58,58,35,15,0,Brandon Ingram missed Free Throw.
+Louisville,Duke,58,58,35,15,0,Raymond Spalding Defensive Rebound.
+Louisville,Duke,58,58,35,32,0,Raymond Spalding missed Jumper.
+Louisville,Duke,58,58,35,32,0,Brandon Ingram Defensive Rebound.
+Louisville,Duke,58,60,35,56,1,Matt Jones made Layup.
+Louisville,Duke,58,60,36,9,0,Official TV Timeout
+Louisville,Duke,60,60,36,14,1,Raymond Spalding made Jumper. Assisted by Quentin Snider.
+Louisville,Duke,60,60,36,43,0,Grayson Allen missed Three Point Jumper.
+Louisville,Duke,60,60,36,43,0,Marshall Plumlee Offensive Rebound.
+Louisville,Duke,60,60,36,46,0,Foul on Quentin Snider.
+Louisville,Duke,60,61,36,46,1,Marshall Plumlee made Free Throw.
+Louisville,Duke,60,62,36,46,1,Marshall Plumlee made Free Throw.
+Louisville,Duke,60,62,37,2,0,Foul on Brandon Ingram.
+Louisville,Duke,60,62,37,2,0,Damion Lee missed Free Throw.
+Louisville,Duke,60,62,37,2,0,Louisville Deadball Team Rebound.
+Louisville,Duke,61,62,37,2,1,Damion Lee made Free Throw.
+Louisville,Duke,61,62,37,5,0,Duke  Timeout
+Louisville,Duke,61,62,37,20,0,Foul on Anas Mahmoud.
+Louisville,Duke,61,63,37,20,1,Brandon Ingram made Free Throw.
+Louisville,Duke,61,64,37,20,1,Brandon Ingram made Free Throw.
+Louisville,Duke,61,64,37,39,0,Raymond Spalding missed Layup.
+Louisville,Duke,61,64,37,39,0,Marshall Plumlee Defensive Rebound.
+Louisville,Duke,61,64,37,59,0,Foul on Quentin Snider.
+Louisville,Duke,61,65,37,59,1,Brandon Ingram made Free Throw.
+Louisville,Duke,61,66,37,59,1,Brandon Ingram made Free Throw.
+Louisville,Duke,61,66,38,16,0,Foul on Marshall Plumlee.
+Louisville,Duke,62,66,38,16,1,Donovan Mitchell made Free Throw.
+Louisville,Duke,62,66,38,16,0,Donovan Mitchell missed Free Throw.
+Louisville,Duke,62,66,38,16,0,Brandon Ingram Defensive Rebound.
+Louisville,Duke,62,66,38,41,0,Foul on Raymond Spalding.
+Louisville,Duke,62,67,38,41,1,Matt Jones made Free Throw.
+Louisville,Duke,62,68,38,41,1,Matt Jones made Free Throw.
+Louisville,Duke,62,68,38,54,0,Damion Lee missed Three Point Jumper.
+Louisville,Duke,62,68,38,54,0,Brandon Ingram Defensive Rebound.
+Louisville,Duke,62,70,39,25,1,Derryck Thornton made Jumper.
+Louisville,Duke,65,70,39,33,1,Trey Lewis made Three Point Jumper.
+Louisville,Duke,65,70,39,35,0,Louisville  Timeout
+Louisville,Duke,65,70,39,37,0,Foul on Damion Lee.
+Louisville,Duke,65,70,39,37,0,Derryck Thornton missed Free Throw.
+Louisville,Duke,65,70,39,37,0,Duke Deadball Team Rebound.
+Louisville,Duke,65,70,39,37,0,Derryck Thornton missed Free Throw.
+Louisville,Duke,65,70,39,37,0,Brandon Ingram Offensive Rebound.
+Louisville,Duke,65,70,39,38,0,Brandon Ingram Turnover.
+Louisville,Duke,65,70,39,48,0,Damion Lee missed Three Point Jumper.
+Louisville,Duke,65,70,39,48,0,Duke Defensive Rebound.
+Louisville,Duke,65,70,39,52,0,Duke  Timeout
+Louisville,Duke,65,70,39,53,0,Foul on Donovan Mitchell.
+Louisville,Duke,65,71,39,53,1,Luke Kennard made Free Throw.
+Louisville,Duke,65,72,39,53,1,Luke Kennard made Free Throw.
+Louisville,Duke,65,72,39,57,0,Trey Lewis missed Layup.
+Louisville,Duke,65,72,39,57,0,Raymond Spalding Offensive Rebound.
+Louisville,Duke,65,72,39,57,0,Raymond Spalding missed Two Point Tip Shot.
+Louisville,Duke,65,72,39,57,0,Duke Defensive Rebound.
+Louisville,Duke,65,72,40,0,0,End of Game

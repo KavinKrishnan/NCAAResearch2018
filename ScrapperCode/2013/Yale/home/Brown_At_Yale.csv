@@ -1,0 +1,347 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Brown,Yale,0,0,0,25,0,Cedric Kuakumensah missed Jumper.
+Brown,Yale,0,0,0,25,0,Greg Kelley Block.
+Brown,Yale,0,0,0,26,0,Armani Cotton Defensive Rebound.
+Brown,Yale,0,0,0,39,0,Foul on Cedric Kuakumensah
+Brown,Yale,0,0,0,41,0,Greg Kelley missed Jumper.
+Brown,Yale,0,0,0,41,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Yale,0,0,0,57,0,Tucker Halpern missed Jumper.
+Brown,Yale,0,0,0,57,0,Armani Cotton Defensive Rebound.
+Brown,Yale,0,0,1,14,0,Austin Morgan missed Jumper.
+Brown,Yale,0,0,1,14,0,Matt Sullivan Block.
+Brown,Yale,0,0,1,16,0,Austin Morgan Offensive Rebound.
+Brown,Yale,0,0,1,20,0,Javier Duren missed Jumper.
+Brown,Yale,0,0,1,20,0,Rafael Maia Defensive Rebound.
+Brown,Yale,0,0,1,27,0,Tucker Halpern missed Three Point Jumper.
+Brown,Yale,0,0,1,27,0,Javier Duren Defensive Rebound.
+Brown,Yale,0,0,1,37,0,Javier Duren missed Jumper.
+Brown,Yale,0,0,1,37,0,Tucker Halpern Block.
+Brown,Yale,0,0,1,39,0,Sean McGonagill Defensive Rebound.
+Brown,Yale,0,0,1,41,0,Foul on Austin Morgan
+Brown,Yale,0,0,1,41,0,Cedric Kuakumensah missed Free Throw.
+Brown,Yale,0,0,1,41,0,null
+Brown,Yale,1,0,1,41,1,Cedric Kuakumensah made Free Throw.
+Brown,Yale,1,0,1,52,0,Greg Kelley Turnover.
+Brown,Yale,1,0,2,6,0,Foul on Javier Duren
+Brown,Yale,2,0,2,6,1,Sean McGonagill made Free Throw.
+Brown,Yale,3,0,2,6,1,Sean McGonagill made Free Throw.
+Brown,Yale,3,0,2,16,0,Foul on Cedric Kuakumensah
+Brown,Yale,3,0,2,18,0,Javier Duren Turnover.
+Brown,Yale,3,0,2,19,0,Sean McGonagill Steal.
+Brown,Yale,6,0,2,32,1,Sean McGonagill made Three Point Jumper.  Assisted by Matt Sullivan.
+Brown,Yale,6,0,2,51,0,Austin Morgan Turnover.
+Brown,Yale,6,0,2,52,0,Sean McGonagill Steal.
+Brown,Yale,6,0,3,0,0,Tucker Halpern missed Jumper.
+Brown,Yale,6,0,3,0,0,Tucker Halpern Offensive Rebound.
+Brown,Yale,8,0,3,5,1,Rafael Maia made Layup.  Assisted by Tucker Halpern.
+Brown,Yale,8,0,3,6,0,Yale Full Timeout.
+Brown,Yale,8,3,3,20,1,Austin Morgan made Three Point Jumper.  Assisted by Armani Cotton.
+Brown,Yale,8,3,3,39,0,Matt Sullivan Turnover.
+Brown,Yale,8,5,3,57,1,Javier Duren made Jumper.
+Brown,Yale,8,5,4,24,0,Matt Sullivan missed Jumper.
+Brown,Yale,8,5,4,24,0,Rafael Maia Offensive Rebound.
+Brown,Yale,8,5,4,29,0,Rafael Maia Turnover.
+Brown,Yale,8,5,4,31,0,Javier Duren Steal.
+Brown,Yale,8,5,4,33,0,Austin Morgan missed Three Point Jumper.
+Brown,Yale,8,5,4,33,0,Armani Cotton Offensive Rebound.
+Brown,Yale,8,8,4,48,1,Austin Morgan made Three Point Jumper.  Assisted by Javier Duren.
+Brown,Yale,8,8,5,9,0,Tyler Ponticelli missed Jumper.
+Brown,Yale,8,8,5,9,0,Greg Kelley Defensive Rebound.
+Brown,Yale,8,8,5,25,0,Official TV Timeout.
+Brown,Yale,8,8,5,42,0,Austin Morgan missed Three Point Jumper.
+Brown,Yale,8,8,5,42,0,Matt Sullivan Defensive Rebound.
+Brown,Yale,8,8,5,45,0,Foul on Armani Cotton
+Brown,Yale,8,8,6,10,0,Rafael Maia missed Jumper.
+Brown,Yale,8,8,6,10,0,Justin Sears Block.
+Brown,Yale,8,8,6,12,0,Tyler Ponticelli Offensive Rebound.
+Brown,Yale,8,8,6,18,0,Matt Sullivan missed Jumper.
+Brown,Yale,8,8,6,18,0,Michael Grace Defensive Rebound.
+Brown,Yale,8,10,6,26,1,Armani Cotton made Jumper.  Assisted by Justin Sears.
+Brown,Yale,8,10,6,47,0,Tyler Ponticelli missed Jumper.
+Brown,Yale,8,10,6,47,0,Armani Cotton Defensive Rebound.
+Brown,Yale,8,10,7,0,0,Justin Sears missed Jumper.
+Brown,Yale,8,10,7,0,0,Matt Sullivan Defensive Rebound.
+Brown,Yale,10,10,7,11,1,Tyler Ponticelli made Jumper.  Assisted by Joe Sharkey.
+Brown,Yale,10,10,7,34,0,Jeremiah Kreisberg missed Jumper.
+Brown,Yale,10,10,7,34,0,Yale Offensive Rebound.
+Brown,Yale,10,10,7,42,0,Michael Grace missed Three Point Jumper.
+Brown,Yale,10,10,7,42,0,Tyler Ponticelli Defensive Rebound.
+Brown,Yale,10,10,7,44,0,Foul on Jeremiah Kreisberg
+Brown,Yale,10,10,8,2,0,Matt Sullivan missed Three Point Jumper.
+Brown,Yale,10,10,8,2,0,Sam Martin Defensive Rebound.
+Brown,Yale,10,10,8,17,0,Foul on Jon Schmidt
+Brown,Yale,10,10,8,17,0,Official TV Timeout.
+Brown,Yale,10,10,8,17,0,Michael Grace missed Free Throw.
+Brown,Yale,10,10,8,17,0,null
+Brown,Yale,10,10,8,17,0,Michael Grace missed Free Throw.
+Brown,Yale,10,10,8,17,0,Stephen Albrecht Defensive Rebound.
+Brown,Yale,10,10,8,30,0,Matt Sullivan Turnover.
+Brown,Yale,10,10,8,30,0,Justin Sears Steal.
+Brown,Yale,10,12,8,56,1,Jeremiah Kreisberg made Jumper.  Assisted by Justin Sears.
+Brown,Yale,10,12,8,56,0,Foul on Matt Sullivan
+Brown,Yale,10,13,8,56,1,Jeremiah Kreisberg made Free Throw.
+Brown,Yale,10,13,9,14,0,Sean McGonagill Turnover.
+Brown,Yale,10,13,9,21,0,Austin Morgan missed Jumper.
+Brown,Yale,10,13,9,21,0,Justin Sears Offensive Rebound.
+Brown,Yale,10,13,9,25,0,Justin Sears missed Jumper.
+Brown,Yale,10,13,9,25,0,Jeremiah Kreisberg Offensive Rebound.
+Brown,Yale,10,13,9,26,0,Foul on Tyler Ponticelli
+Brown,Yale,10,15,9,27,1,Justin Sears made Jumper.  Assisted by Michael Grace.
+Brown,Yale,10,15,9,55,0,Stephen Albrecht missed Jumper.
+Brown,Yale,10,15,9,55,0,Nick Victor Defensive Rebound.
+Brown,Yale,10,15,10,3,0,Justin Sears Turnover.
+Brown,Yale,10,15,10,3,0,Foul on Justin Sears
+Brown,Yale,13,15,10,19,1,Tucker Halpern made Three Point Jumper.  Assisted by Sean McGonagill.
+Brown,Yale,13,15,10,46,0,Foul on Rafael Maia
+Brown,Yale,13,16,10,46,1,Justin Sears made Free Throw.
+Brown,Yale,13,17,10,46,1,Justin Sears made Free Throw.
+Brown,Yale,13,17,11,2,0,Rafael Maia missed Jumper.
+Brown,Yale,13,17,11,2,0,Rafael Maia Offensive Rebound.
+Brown,Yale,13,17,11,4,0,Foul on Matt Townsend
+Brown,Yale,13,17,11,4,0,Rafael Maia missed Free Throw.
+Brown,Yale,13,17,11,4,0,null
+Brown,Yale,13,17,11,4,0,Rafael Maia missed Free Throw.
+Brown,Yale,13,17,11,4,0,Greg Kelley Defensive Rebound.
+Brown,Yale,13,17,11,29,0,Sam Martin missed Jumper.
+Brown,Yale,13,17,11,29,0,Tyler Ponticelli Defensive Rebound.
+Brown,Yale,13,17,11,46,0,Stephen Albrecht missed Three Point Jumper.
+Brown,Yale,13,17,11,46,0,Sam Martin Defensive Rebound.
+Brown,Yale,13,17,11,54,0,Foul on Tucker Halpern
+Brown,Yale,13,18,11,54,1,Nick Victor made Free Throw.
+Brown,Yale,13,18,11,54,0,Nick Victor missed Free Throw.
+Brown,Yale,13,18,11,54,0,Tyler Ponticelli Defensive Rebound.
+Brown,Yale,15,18,12,10,1,Rafael Maia made Jumper.
+Brown,Yale,15,21,12,34,1,Greg Kelley made Three Point Jumper.  Assisted by Matt Townsend.
+Brown,Yale,15,21,12,53,0,Rafael Maia Turnover.
+Brown,Yale,15,21,12,53,0,Foul on Rafael Maia
+Brown,Yale,15,21,12,53,0,Official TV Timeout.
+Brown,Yale,15,23,13,7,1,Matt Townsend made Jumper.  Assisted by Nick Victor.
+Brown,Yale,15,23,13,22,0,Sean McGonagill missed Three Point Jumper.
+Brown,Yale,15,23,13,22,0,Nick Victor Defensive Rebound.
+Brown,Yale,15,25,13,51,1,Javier Duren made Jumper.  Assisted by Matt Townsend.
+Brown,Yale,15,25,14,15,0,Foul on Greg Kelley
+Brown,Yale,15,25,14,15,0,Tyler Ponticelli missed Free Throw.
+Brown,Yale,15,25,14,15,0,null
+Brown,Yale,15,25,14,15,0,Tyler Ponticelli missed Free Throw.
+Brown,Yale,15,25,14,15,0,Greg Kelley Defensive Rebound.
+Brown,Yale,15,25,14,41,0,Austin Morgan Turnover.
+Brown,Yale,15,25,14,42,0,Matt Sullivan Steal.
+Brown,Yale,15,25,14,55,0,Matt Sullivan missed Jumper.
+Brown,Yale,15,25,14,55,0,Greg Kelley Block.
+Brown,Yale,15,25,14,57,0,Greg Kelley Defensive Rebound.
+Brown,Yale,15,25,15,17,0,Armani Cotton missed Jumper.
+Brown,Yale,15,25,15,17,0,Tyler Ponticelli Defensive Rebound.
+Brown,Yale,17,25,15,24,1,Cedric Kuakumensah made Jumper.  Assisted by Sean McGonagill.
+Brown,Yale,17,25,15,24,0,Foul on Matt Townsend
+Brown,Yale,18,25,15,24,1,Cedric Kuakumensah made Free Throw.
+Brown,Yale,18,25,15,39,0,Jeremiah Kreisberg missed Three Point Jumper.
+Brown,Yale,18,25,15,39,0,Justin Sears Offensive Rebound.
+Brown,Yale,18,25,15,42,0,Foul on Tyler Ponticelli
+Brown,Yale,18,26,15,42,1,Justin Sears made Free Throw.
+Brown,Yale,18,26,15,42,0,Justin Sears missed Free Throw.
+Brown,Yale,18,26,15,42,0,Matt Sullivan Defensive Rebound.
+Brown,Yale,20,26,15,54,1,Matt Sullivan made Layup.  Assisted by Tyler Ponticelli.
+Brown,Yale,20,26,16,7,0,Michael Grace Turnover.
+Brown,Yale,20,26,16,7,0,Official TV Timeout.
+Brown,Yale,20,26,16,22,0,Matt Sullivan Turnover.
+Brown,Yale,20,26,16,22,0,Foul on Matt Sullivan
+Brown,Yale,20,26,16,50,0,Jeremiah Kreisberg Turnover.
+Brown,Yale,20,26,16,50,0,Foul on Jeremiah Kreisberg
+Brown,Yale,20,26,17,3,0,Tyler Ponticelli Turnover.
+Brown,Yale,20,26,17,4,0,Justin Sears Steal.
+Brown,Yale,20,26,17,7,0,Justin Sears missed Jumper.
+Brown,Yale,20,26,17,7,0,Matt Sullivan Defensive Rebound.
+Brown,Yale,20,26,17,12,0,Tucker Halpern missed Three Point Jumper.
+Brown,Yale,20,26,17,12,0,Michael Grace Defensive Rebound.
+Brown,Yale,20,28,17,40,1,Michael Grace made Jumper.
+Brown,Yale,20,28,17,40,0,Foul on Jon Schmidt
+Brown,Yale,20,29,17,40,1,Michael Grace made Free Throw.
+Brown,Yale,20,29,17,48,0,Tyler Ponticelli Turnover.
+Brown,Yale,20,29,17,49,0,Austin Morgan Steal.
+Brown,Yale,20,29,17,53,0,Foul on Rafael Maia
+Brown,Yale,20,29,17,53,0,Justin Sears missed Free Throw.
+Brown,Yale,20,29,17,53,0,null
+Brown,Yale,20,30,17,53,1,Justin Sears made Free Throw.
+Brown,Yale,20,30,18,10,0,Foul on Austin Morgan
+Brown,Yale,20,30,18,10,0,Cedric Kuakumensah missed Free Throw.
+Brown,Yale,20,30,18,10,0,null
+Brown,Yale,21,30,18,10,1,Cedric Kuakumensah made Free Throw.
+Brown,Yale,21,30,18,30,0,Michael Grace Turnover.
+Brown,Yale,21,30,18,30,0,Foul on Michael Grace
+Brown,Yale,21,30,18,46,0,Brown Full Timeout.
+Brown,Yale,21,30,19,0,0,Matt Sullivan Turnover.
+Brown,Yale,21,30,19,7,0,Foul on Cedric Kuakumensah
+Brown,Yale,21,31,19,7,1,Justin Sears made Free Throw.
+Brown,Yale,21,31,19,7,0,Justin Sears missed Free Throw.
+Brown,Yale,21,31,19,7,0,Matt Sullivan Defensive Rebound.
+Brown,Yale,21,31,19,23,0,Sean McGonagill Turnover.
+Brown,Yale,21,31,19,25,0,Justin Sears Steal.
+Brown,Yale,21,31,19,28,0,Sam Martin Turnover.
+Brown,Yale,21,31,19,57,0,Tucker Halpern missed Three Point Jumper.
+Brown,Yale,21,31,19,57,0,Yale Defensive Rebound.
+Brown,Yale,21,31,20,0,0,End of the 1st Half.
+Brown,Yale,23,31,20,14,1,Cedric Kuakumensah made Layup.  Assisted by Tyler Ponticelli.
+Brown,Yale,23,33,20,29,1,Greg Kelley made Jumper.  Assisted by Javier Duren.
+Brown,Yale,23,33,20,34,0,Foul on Cedric Kuakumensah
+Brown,Yale,23,34,20,34,1,Greg Kelley made Free Throw.
+Brown,Yale,25,34,20,34,1,Rafael Maia made Jumper.
+Brown,Yale,25,34,21,7,0,Foul on Tyler Ponticelli
+Brown,Yale,25,34,21,15,0,Javier Duren missed Jumper.
+Brown,Yale,25,34,21,15,0,Tucker Halpern Defensive Rebound.
+Brown,Yale,28,34,21,27,1,Matt Sullivan made Three Point Jumper.
+Brown,Yale,28,34,21,48,0,Javier Duren missed Three Point Jumper.
+Brown,Yale,28,34,21,48,0,Rafael Maia Defensive Rebound.
+Brown,Yale,30,34,22,16,1,Tyler Ponticelli made Jumper.
+Brown,Yale,30,34,22,35,0,Matt Townsend missed Jumper.
+Brown,Yale,30,34,22,35,0,Tyler Ponticelli Defensive Rebound.
+Brown,Yale,30,34,22,44,0,Sean McGonagill Turnover.
+Brown,Yale,30,34,23,9,0,Foul on Sean McGonagill
+Brown,Yale,30,34,23,16,0,Foul on Rafael Maia
+Brown,Yale,30,34,23,16,0,Matt Townsend missed Free Throw.
+Brown,Yale,30,34,23,16,0,null
+Brown,Yale,30,35,23,16,1,Matt Townsend made Free Throw.
+Brown,Yale,30,35,23,33,0,Tyler Ponticelli Turnover.
+Brown,Yale,30,35,23,34,0,Javier Duren Steal.
+Brown,Yale,30,35,23,40,0,Javier Duren Turnover.
+Brown,Yale,30,35,23,42,0,Matt Sullivan Steal.
+Brown,Yale,32,35,23,43,1,Jon Schmidt made Dunk.  Assisted by Matt Sullivan.
+Brown,Yale,32,37,24,11,1,Matt Townsend made Jumper.  Assisted by Austin Morgan.
+Brown,Yale,32,37,24,32,0,Jon Schmidt missed Jumper.
+Brown,Yale,32,37,24,32,0,Matt Townsend Block.
+Brown,Yale,32,37,24,32,0,Matt Townsend Defensive Rebound.
+Brown,Yale,32,37,24,32,0,Official TV Timeout.
+Brown,Yale,32,40,24,49,1,Austin Morgan made Three Point Jumper.  Assisted by Greg Kelley.
+Brown,Yale,32,40,25,4,0,Foul on Matt Townsend
+Brown,Yale,32,40,25,9,0,Foul on Michael Grace
+Brown,Yale,33,40,25,9,1,Matt Sullivan made Free Throw.
+Brown,Yale,34,40,25,9,1,Matt Sullivan made Free Throw.
+Brown,Yale,34,40,25,9,0,Matt Sullivan missed Free Throw.
+Brown,Yale,34,40,25,9,0,Jeremiah Kreisberg Defensive Rebound.
+Brown,Yale,34,40,25,28,0,Michael Grace missed Jumper.
+Brown,Yale,34,40,25,28,0,Joe Sharkey Defensive Rebound.
+Brown,Yale,34,40,25,34,0,Sean McGonagill Turnover.
+Brown,Yale,34,40,25,35,0,Michael Grace Steal.
+Brown,Yale,34,40,25,38,0,Foul on Joe Sharkey
+Brown,Yale,34,40,25,38,0,Foul on Sean McGonagill
+Brown,Yale,34,40,26,2,0,Greg Kelley Turnover.
+Brown,Yale,34,40,26,3,0,Matt Sullivan Steal.
+Brown,Yale,34,40,26,13,0,Foul on Greg Kelley
+Brown,Yale,34,40,26,15,0,Matt Sullivan missed Layup.
+Brown,Yale,34,40,26,15,0,Justin Sears Defensive Rebound.
+Brown,Yale,34,40,26,26,0,Justin Sears Turnover.
+Brown,Yale,34,40,26,26,0,Foul on Justin Sears
+Brown,Yale,36,40,26,41,1,Tucker Halpern made Jumper.
+Brown,Yale,36,40,27,15,0,Michael Grace Turnover.
+Brown,Yale,36,40,27,15,0,Foul on Michael Grace
+Brown,Yale,36,40,27,25,0,Brown Full Timeout.
+Brown,Yale,39,40,27,48,1,Sean McGonagill made Three Point Jumper.  Assisted by Tucker Halpern.
+Brown,Yale,39,40,28,5,0,Foul on Tyler Ponticelli
+Brown,Yale,39,40,28,5,0,Official TV Timeout.
+Brown,Yale,39,41,28,5,1,Jeremiah Kreisberg made Free Throw.
+Brown,Yale,39,42,28,5,1,Jeremiah Kreisberg made Free Throw.
+Brown,Yale,39,42,28,17,0,Tucker Halpern missed Three Point Jumper.
+Brown,Yale,39,42,28,17,0,Jeremiah Kreisberg Defensive Rebound.
+Brown,Yale,39,44,28,34,1,Justin Sears made Jumper.  Assisted by Jeremiah Kreisberg.
+Brown,Yale,39,44,28,34,0,Foul on Jon Schmidt
+Brown,Yale,39,44,28,34,0,Justin Sears missed Free Throw.
+Brown,Yale,39,44,28,34,0,Matt Sullivan Defensive Rebound.
+Brown,Yale,39,44,28,46,0,Tucker Halpern missed Three Point Jumper.
+Brown,Yale,39,44,28,46,0,Austin Morgan Defensive Rebound.
+Brown,Yale,39,44,28,58,0,Foul on Tucker Halpern
+Brown,Yale,39,44,28,58,0,Justin Sears missed Free Throw.
+Brown,Yale,39,44,28,58,0,Tucker Halpern Defensive Rebound.
+Brown,Yale,39,44,28,59,0,Foul on Javier Duren
+Brown,Yale,39,44,29,22,0,Sean McGonagill missed Jumper.
+Brown,Yale,39,44,29,22,0,Javier Duren Defensive Rebound.
+Brown,Yale,39,44,29,26,0,Sam Martin missed Jumper.
+Brown,Yale,39,44,29,26,0,Stephen Albrecht Block.
+Brown,Yale,39,44,29,28,0,Justin Sears Offensive Rebound.
+Brown,Yale,39,46,29,31,1,Justin Sears made Layup.
+Brown,Yale,39,46,29,34,0,Brown Full Timeout.
+Brown,Yale,39,46,29,44,0,Foul on Justin Sears
+Brown,Yale,40,46,29,44,1,Rafael Maia made Free Throw.
+Brown,Yale,41,46,29,44,1,Rafael Maia made Free Throw.
+Brown,Yale,41,46,30,3,0,Jeremiah Kreisberg missed Jumper.
+Brown,Yale,41,46,30,3,0,Sean McGonagill Defensive Rebound.
+Brown,Yale,41,46,30,29,0,Sean McGonagill missed Three Point Jumper.
+Brown,Yale,41,46,30,29,0,Austin Morgan Defensive Rebound.
+Brown,Yale,41,48,30,41,1,Justin Sears made Jumper.  Assisted by Javier Duren.
+Brown,Yale,41,48,31,2,0,Cedric Kuakumensah missed Jumper.
+Brown,Yale,41,48,31,2,0,Justin Sears Defensive Rebound.
+Brown,Yale,41,48,31,13,0,Jeremiah Kreisberg missed Jumper.
+Brown,Yale,41,48,31,13,0,Cedric Kuakumensah Block.
+Brown,Yale,41,48,31,13,0,Yale Offensive Rebound.
+Brown,Yale,41,48,31,20,0,Sam Martin missed Layup.
+Brown,Yale,41,48,31,20,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Yale,41,48,31,26,0,Foul on Nick Victor
+Brown,Yale,42,48,31,26,1,Sean McGonagill made Free Throw.
+Brown,Yale,42,48,31,26,0,Sean McGonagill missed Free Throw.
+Brown,Yale,42,48,31,26,0,Greg Kelley Defensive Rebound.
+Brown,Yale,42,48,31,43,0,Javier Duren Turnover.
+Brown,Yale,42,48,31,43,0,Foul on Javier Duren
+Brown,Yale,42,48,31,57,0,Sean McGonagill Turnover.
+Brown,Yale,42,48,31,57,0,Javier Duren Steal.
+Brown,Yale,42,48,32,25,0,Jeremiah Kreisberg Turnover.
+Brown,Yale,45,48,32,30,1,Matt Sullivan made Three Point Jumper.  Assisted by Sean McGonagill.
+Brown,Yale,45,48,32,37,0,Official TV Timeout.
+Brown,Yale,45,51,32,46,1,Greg Kelley made Three Point Jumper.  Assisted by Michael Grace.
+Brown,Yale,45,51,33,2,0,Tyler Ponticelli missed Jumper.
+Brown,Yale,45,51,33,2,0,Nick Victor Block.
+Brown,Yale,45,51,33,3,0,Nick Victor Defensive Rebound.
+Brown,Yale,45,51,33,21,0,Sam Martin missed Jumper.
+Brown,Yale,45,51,33,21,0,Yale Offensive Rebound.
+Brown,Yale,45,51,33,36,0,Michael Grace missed Jumper.
+Brown,Yale,45,51,33,36,0,Stephen Albrecht Defensive Rebound.
+Brown,Yale,45,51,33,48,0,Rafael Maia missed Jumper.
+Brown,Yale,45,51,33,48,0,Rafael Maia Offensive Rebound.
+Brown,Yale,47,51,33,51,1,Rafael Maia made Layup.
+Brown,Yale,47,51,34,13,0,Greg Kelley Turnover.
+Brown,Yale,47,51,34,26,0,Rafael Maia missed Jumper.
+Brown,Yale,47,51,34,26,0,Nick Victor Defensive Rebound.
+Brown,Yale,47,51,34,42,0,Foul on Rafael Maia
+Brown,Yale,47,51,34,42,0,Justin Sears missed Free Throw.
+Brown,Yale,47,51,34,42,0,null
+Brown,Yale,47,52,34,42,1,Justin Sears made Free Throw.
+Brown,Yale,47,52,35,1,0,Foul on Greg Kelley
+Brown,Yale,47,52,35,1,0,Tucker Halpern missed Free Throw.
+Brown,Yale,47,52,35,1,0,null
+Brown,Yale,48,52,35,1,1,Tucker Halpern made Free Throw.
+Brown,Yale,48,52,35,19,0,Javier Duren missed Jumper.
+Brown,Yale,48,52,35,19,0,Cedric Kuakumensah Block.
+Brown,Yale,48,52,35,21,0,Tucker Halpern Defensive Rebound.
+Brown,Yale,50,52,35,26,1,Tucker Halpern made Jumper.
+Brown,Yale,50,52,35,43,0,Javier Duren missed Jumper.
+Brown,Yale,50,52,35,43,0,Justin Sears Offensive Rebound.
+Brown,Yale,50,52,35,46,0,Justin Sears missed Jumper.
+Brown,Yale,50,52,35,46,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Yale,50,52,36,12,0,Stephen Albrecht missed Jumper.
+Brown,Yale,50,52,36,12,0,Nick Victor Defensive Rebound.
+Brown,Yale,50,52,36,30,0,Austin Morgan missed Jumper.
+Brown,Yale,50,52,36,30,0,Javier Duren Offensive Rebound.
+Brown,Yale,50,52,36,34,0,Yale Full Timeout.
+Brown,Yale,50,54,36,36,1,Justin Sears made Jumper.  Assisted by Michael Grace.
+Brown,Yale,53,54,36,50,1,Stephen Albrecht made Three Point Jumper.  Assisted by Sean McGonagill.
+Brown,Yale,53,56,37,3,1,Justin Sears made Jumper.  Assisted by Nick Victor.
+Brown,Yale,53,56,37,23,0,Nick Victor missed Jumper.
+Brown,Yale,53,56,37,23,0,Nick Victor Offensive Rebound.
+Brown,Yale,53,56,37,28,0,Stephen Albrecht missed Jumper.
+Brown,Yale,53,56,37,28,0,Justin Sears Defensive Rebound.
+Brown,Yale,53,56,37,50,0,Justin Sears missed Jumper.
+Brown,Yale,53,56,37,50,0,Matt Sullivan Defensive Rebound.
+Brown,Yale,56,56,37,57,1,Matt Sullivan made Three Point Jumper.  Assisted by Cedric Kuakumensah.
+Brown,Yale,56,56,38,38,0,Justin Sears missed Jumper.
+Brown,Yale,56,56,38,38,0,Cedric Kuakumensah Block.
+Brown,Yale,56,56,38,38,0,Yale Offensive Rebound.
+Brown,Yale,56,56,38,38,0,Official TV Timeout.
+Brown,Yale,56,58,38,50,1,Nick Victor made Jumper.  Assisted by Greg Kelley.
+Brown,Yale,56,58,38,54,0,Brown Full Timeout.
+Brown,Yale,56,58,39,5,0,Foul on Greg Kelley
+Brown,Yale,57,58,39,5,1,Tucker Halpern made Free Throw.
+Brown,Yale,58,58,39,5,1,Tucker Halpern made Free Throw.
+Brown,Yale,58,58,39,24,0,Yale Full Timeout.
+Brown,Yale,58,58,39,41,0,Michael Grace missed Three Point Jumper.
+Brown,Yale,58,58,39,41,0,Sean McGonagill Defensive Rebound.
+Brown,Yale,58,58,39,49,0,Brown Full Timeout.
+Brown,Yale,58,58,39,56,0,Stephen Albrecht missed Three Point Jumper.
+Brown,Yale,58,58,39,56,0,Javier Duren Defensive Rebound.
+Brown,Yale,58,58,40,0,0,End of the 2nd Half.

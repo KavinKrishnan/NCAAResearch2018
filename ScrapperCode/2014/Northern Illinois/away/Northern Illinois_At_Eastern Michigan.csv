@@ -1,0 +1,329 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Northern Illinois,Eastern Michigan,0,0,0,0,0,Jump Ball won by Eastern Michigan
+Northern Illinois,Eastern Michigan,0,0,0,19,0,Raven Lee Turnover.
+Northern Illinois,Eastern Michigan,0,0,0,30,0,Darrell Bowie Turnover.
+Northern Illinois,Eastern Michigan,0,0,0,30,0,Daylen Harrison Steal.
+Northern Illinois,Eastern Michigan,0,0,0,37,0,Daylen Harrison Turnover.
+Northern Illinois,Eastern Michigan,0,0,0,37,0,Travon Baker Steal.
+Northern Illinois,Eastern Michigan,0,0,0,58,0,Foul on Raven Lee.
+Northern Illinois,Eastern Michigan,1,0,0,58,1,Travon Baker made Free Throw.
+Northern Illinois,Eastern Michigan,1,0,0,58,0,Travon Baker missed Free Throw.
+Northern Illinois,Eastern Michigan,1,0,0,58,0,Northern Illinois Deadball Team Rebound.
+Northern Illinois,Eastern Michigan,2,0,0,58,1,Travon Baker made Free Throw.
+Northern Illinois,Eastern Michigan,2,0,1,2,0,Foul on Darrell Bowie.
+Northern Illinois,Eastern Michigan,2,1,1,2,1,Karrington Ward made Free Throw.
+Northern Illinois,Eastern Michigan,2,2,1,2,1,Karrington Ward made Free Throw.
+Northern Illinois,Eastern Michigan,2,2,1,19,0,Travon Baker missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,2,2,1,19,0,Aksel Bolin Offensive Rebound.
+Northern Illinois,Eastern Michigan,4,2,1,50,1,Aksel Bolin made Layup.
+Northern Illinois,Eastern Michigan,4,2,1,50,0,Foul on DaShonte Riley.
+Northern Illinois,Eastern Michigan,5,2,1,50,1,Aksel Bolin made Free Throw.
+Northern Illinois,Eastern Michigan,5,2,2,23,0,Karrington Ward missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,5,2,2,23,0,Darrell Bowie Defensive Rebound.
+Northern Illinois,Eastern Michigan,5,2,2,23,0,Foul on DaShonte Riley.
+Northern Illinois,Eastern Michigan,8,2,2,36,1,Aaric Armstead made Three Point Jumper. Assisted by Darrell Bowie.
+Northern Illinois,Eastern Michigan,8,2,2,54,0,Foul on Travon Baker.
+Northern Illinois,Eastern Michigan,8,4,2,57,1,Karrington Ward made Dunk. Assisted by Raven Lee.
+Northern Illinois,Eastern Michigan,8,4,3,19,0,Pete Rakocevic Turnover.
+Northern Illinois,Eastern Michigan,8,4,3,19,0,Mo Hughley Steal.
+Northern Illinois,Eastern Michigan,8,4,3,29,0,Foul on Pete Rakocevic.
+Northern Illinois,Eastern Michigan,8,5,3,29,1,Mike Talley made Free Throw.
+Northern Illinois,Eastern Michigan,8,6,3,29,1,Mike Talley made Free Throw.
+Northern Illinois,Eastern Michigan,8,6,3,42,0,Aaric Armstead missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,8,6,3,42,0,Karrington Ward Defensive Rebound.
+Northern Illinois,Eastern Michigan,8,9,4,14,1,Karrington Ward made Three Point Jumper. Assisted by Darell Combs.
+Northern Illinois,Eastern Michigan,11,9,4,39,1,Aaron Armstead made Three Point Jumper. Assisted by Daveon Balls.
+Northern Illinois,Eastern Michigan,11,9,5,12,0,Foul on Aaron Armstead.
+Northern Illinois,Eastern Michigan,11,9,5,12,0,Official TV Timeout
+Northern Illinois,Eastern Michigan,11,10,5,12,1,Karrington Ward made Free Throw.
+Northern Illinois,Eastern Michigan,11,11,5,12,1,Karrington Ward made Free Throw.
+Northern Illinois,Eastern Michigan,11,11,5,41,0,J.J. Cravatta missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,11,11,5,41,0,Karrington Ward Defensive Rebound.
+Northern Illinois,Eastern Michigan,11,11,6,9,0,Darell Combs Turnover.
+Northern Illinois,Eastern Michigan,11,11,6,42,0,J.J. Cravatta missed Jumper.
+Northern Illinois,Eastern Michigan,11,11,6,42,0,Glenn Bryant Block.
+Northern Illinois,Eastern Michigan,11,11,6,42,0,Karrington Ward Defensive Rebound.
+Northern Illinois,Eastern Michigan,11,11,7,19,0,Mo Hughley Turnover.
+Northern Illinois,Eastern Michigan,11,11,7,29,0,Foul on Mo Hughley.
+Northern Illinois,Eastern Michigan,12,11,7,29,1,Aksel Bolin made Free Throw.
+Northern Illinois,Eastern Michigan,13,11,7,29,1,Aksel Bolin made Free Throw.
+Northern Illinois,Eastern Michigan,13,14,7,44,1,J.R. Sims made Three Point Jumper. Assisted by Mike Talley.
+Northern Illinois,Eastern Michigan,13,14,8,0,0,Foul on Mo Hughley.
+Northern Illinois,Eastern Michigan,15,14,8,12,1,Darrell Bowie made Jumper. Assisted by Aksel Bolin.
+Northern Illinois,Eastern Michigan,15,14,8,18,0,J.R. Sims Turnover.
+Northern Illinois,Eastern Michigan,15,14,8,18,0,Aaric Armstead Steal.
+Northern Illinois,Eastern Michigan,17,14,8,24,1,Jordan Threloff made Dunk. Assisted by Darrell Bowie.
+Northern Illinois,Eastern Michigan,17,14,8,57,0,Mike Talley missed Jumper.
+Northern Illinois,Eastern Michigan,17,14,8,57,0,Aksel Bolin Block.
+Northern Illinois,Eastern Michigan,17,14,8,57,0,Official TV Timeout
+Northern Illinois,Eastern Michigan,17,14,8,57,0,Northern Illinois Defensive Rebound.
+Northern Illinois,Eastern Michigan,17,14,9,10,0,Darrell Bowie Turnover.
+Northern Illinois,Eastern Michigan,17,14,9,10,0,Daylen Harrison Steal.
+Northern Illinois,Eastern Michigan,17,14,9,38,0,Raven Lee Turnover.
+Northern Illinois,Eastern Michigan,17,14,9,43,0,Aaric Armstead missed Jumper.
+Northern Illinois,Eastern Michigan,17,14,9,43,0,Eastern Michigan Defensive Rebound.
+Northern Illinois,Eastern Michigan,17,14,10,14,0,Foul on Darrell Bowie.
+Northern Illinois,Eastern Michigan,17,15,10,14,1,Daylen Harrison made Free Throw.
+Northern Illinois,Eastern Michigan,17,15,10,14,0,Daylen Harrison missed Free Throw.
+Northern Illinois,Eastern Michigan,17,15,10,14,0,Aaric Armstead Defensive Rebound.
+Northern Illinois,Eastern Michigan,17,15,10,37,0,Aaric Armstead Turnover.
+Northern Illinois,Eastern Michigan,17,17,10,55,1,Raven Lee made Jumper. Assisted by Mo Hughley.
+Northern Illinois,Eastern Michigan,17,17,11,9,0,Travon Baker missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,17,17,11,9,0,Jordan Threloff Offensive Rebound.
+Northern Illinois,Eastern Michigan,17,17,11,16,0,Jordan Threloff missed Layup.
+Northern Illinois,Eastern Michigan,17,17,11,16,0,Karrington Ward Block.
+Northern Illinois,Eastern Michigan,17,17,11,16,0,Raven Lee Defensive Rebound.
+Northern Illinois,Eastern Michigan,17,17,11,18,0,Foul on Travon Baker.
+Northern Illinois,Eastern Michigan,17,17,11,24,0,Karrington Ward missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,17,17,11,24,0,Jordan Threloff Defensive Rebound.
+Northern Illinois,Eastern Michigan,20,17,11,50,1,Aaric Armstead made Three Point Jumper. Assisted by Daveon Balls.
+Northern Illinois,Eastern Michigan,20,17,11,58,0,Raven Lee Turnover.
+Northern Illinois,Eastern Michigan,20,17,11,58,0,Aaric Armstead Steal.
+Northern Illinois,Eastern Michigan,22,17,12,4,1,Aaric Armstead made Layup.
+Northern Illinois,Eastern Michigan,22,17,12,11,0,Eastern Michigan  Timeout
+Northern Illinois,Eastern Michigan,22,17,12,42,0,Jalen Ross missed Jumper.
+Northern Illinois,Eastern Michigan,22,17,12,42,0,Karrington Ward Offensive Rebound.
+Northern Illinois,Eastern Michigan,22,17,12,42,0,Karrington Ward missed Two Point Tip Shot.
+Northern Illinois,Eastern Michigan,22,17,12,42,0,Karrington Ward Offensive Rebound.
+Northern Illinois,Eastern Michigan,22,17,12,42,0,Karrington Ward missed Two Point Tip Shot.
+Northern Illinois,Eastern Michigan,22,17,12,42,0,Karrington Ward Offensive Rebound.
+Northern Illinois,Eastern Michigan,22,17,12,46,0,Foul on Jordan Threloff.
+Northern Illinois,Eastern Michigan,22,17,12,46,0,Official TV Timeout
+Northern Illinois,Eastern Michigan,22,18,12,46,1,Karrington Ward made Free Throw.
+Northern Illinois,Eastern Michigan,22,19,12,46,1,Karrington Ward made Free Throw.
+Northern Illinois,Eastern Michigan,22,19,12,52,0,Foul on Mike Talley.
+Northern Illinois,Eastern Michigan,22,19,12,56,0,Aaric Armstead Turnover.
+Northern Illinois,Eastern Michigan,22,19,12,56,0,Karrington Ward Steal.
+Northern Illinois,Eastern Michigan,22,19,13,19,0,Mike Talley missed Jumper.
+Northern Illinois,Eastern Michigan,22,19,13,19,0,Jordan Threloff Block.
+Northern Illinois,Eastern Michigan,22,19,13,19,0,Daveon Balls Defensive Rebound.
+Northern Illinois,Eastern Michigan,22,19,13,34,0,Daveon Balls missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,22,19,13,34,0,Karrington Ward Defensive Rebound.
+Northern Illinois,Eastern Michigan,22,19,13,50,0,Daylen Harrison missed Jumper.
+Northern Illinois,Eastern Michigan,22,19,13,50,0,Daveon Balls Defensive Rebound.
+Northern Illinois,Eastern Michigan,22,19,14,20,0,Pete Rakocevic missed Jumper.
+Northern Illinois,Eastern Michigan,22,19,14,20,0,Jordan Threloff Offensive Rebound.
+Northern Illinois,Eastern Michigan,24,19,14,25,1,Jordan Threloff made Layup.
+Northern Illinois,Eastern Michigan,24,19,14,39,0,Mike Talley missed Layup.
+Northern Illinois,Eastern Michigan,24,19,14,39,0,Aaric Armstead Defensive Rebound.
+Northern Illinois,Eastern Michigan,24,19,14,46,0,Aaric Armstead missed Layup.
+Northern Illinois,Eastern Michigan,24,19,14,46,0,Karrington Ward Defensive Rebound.
+Northern Illinois,Eastern Michigan,24,19,14,54,0,Foul on Pete Rakocevic.
+Northern Illinois,Eastern Michigan,24,20,14,54,1,Mo Hughley made Free Throw.
+Northern Illinois,Eastern Michigan,24,20,14,54,0,Mo Hughley missed Free Throw.
+Northern Illinois,Eastern Michigan,24,20,14,54,0,Aaron Armstead Defensive Rebound.
+Northern Illinois,Eastern Michigan,24,20,15,7,0,Pete Rakocevic missed Layup.
+Northern Illinois,Eastern Michigan,24,20,15,7,0,Glenn Bryant Block.
+Northern Illinois,Eastern Michigan,24,20,15,7,0,Jalen Ross Defensive Rebound.
+Northern Illinois,Eastern Michigan,24,22,15,16,1,Glenn Bryant made Jumper. Assisted by Jalen Ross.
+Northern Illinois,Eastern Michigan,24,22,15,37,0,Pete Rakocevic Turnover.
+Northern Illinois,Eastern Michigan,24,22,15,37,0,Karrington Ward Steal.
+Northern Illinois,Eastern Michigan,24,22,15,46,0,Darell Combs missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,24,22,15,46,0,Aksel Bolin Defensive Rebound.
+Northern Illinois,Eastern Michigan,24,22,15,57,0,Northern Illinois  Timeout
+Northern Illinois,Eastern Michigan,27,22,16,13,1,Aaron Armstead made Three Point Jumper. Assisted by Daveon Balls.
+Northern Illinois,Eastern Michigan,27,22,16,27,0,Foul on Daveon Balls.
+Northern Illinois,Eastern Michigan,27,22,16,27,0,Official TV Timeout
+Northern Illinois,Eastern Michigan,27,23,16,27,1,Glenn Bryant made Free Throw.
+Northern Illinois,Eastern Michigan,27,23,16,27,0,Glenn Bryant missed Free Throw.
+Northern Illinois,Eastern Michigan,27,23,16,27,0,Jordan Threloff Defensive Rebound.
+Northern Illinois,Eastern Michigan,29,23,16,42,1,Jordan Threloff made Layup. Assisted by Antone Christian.
+Northern Illinois,Eastern Michigan,29,23,17,17,0,Karrington Ward missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,29,23,17,17,0,Glenn Bryant Offensive Rebound.
+Northern Illinois,Eastern Michigan,29,23,17,22,0,Glenn Bryant missed Jumper.
+Northern Illinois,Eastern Michigan,29,23,17,22,0,Jordan Threloff Defensive Rebound.
+Northern Illinois,Eastern Michigan,32,23,17,44,1,Daveon Balls made Three Point Jumper. Assisted by Jordan Threloff.
+Northern Illinois,Eastern Michigan,32,23,18,19,0,Jalen Ross missed Jumper.
+Northern Illinois,Eastern Michigan,32,23,18,19,0,Aaron Armstead Defensive Rebound.
+Northern Illinois,Eastern Michigan,32,23,18,43,0,Foul on Darell Combs.
+Northern Illinois,Eastern Michigan,33,23,18,43,1,Daveon Balls made Free Throw.
+Northern Illinois,Eastern Michigan,34,23,18,43,1,Daveon Balls made Free Throw.
+Northern Illinois,Eastern Michigan,34,23,18,58,0,Foul on Aaric Armstead.
+Northern Illinois,Eastern Michigan,34,24,18,58,1,Darell Combs made Free Throw.
+Northern Illinois,Eastern Michigan,34,24,18,58,0,Darell Combs missed Free Throw.
+Northern Illinois,Eastern Michigan,34,24,18,58,0,Aaric Armstead Defensive Rebound.
+Northern Illinois,Eastern Michigan,34,24,19,23,0,Aaron Armstead missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,34,24,19,23,0,Aaric Armstead Offensive Rebound.
+Northern Illinois,Eastern Michigan,34,24,19,53,0,Foul on Darell Combs.
+Northern Illinois,Eastern Michigan,35,24,19,53,1,Aaric Armstead made Free Throw.
+Northern Illinois,Eastern Michigan,35,24,19,53,0,Aaric Armstead missed Free Throw.
+Northern Illinois,Eastern Michigan,35,24,19,53,0,Karrington Ward Defensive Rebound.
+Northern Illinois,Eastern Michigan,35,24,20,0,0,End of 1st half
+Northern Illinois,Eastern Michigan,35,24,20,0,0,Jump Ball won by Northern Illinois
+Northern Illinois,Eastern Michigan,35,24,20,22,0,Travon Baker Turnover.
+Northern Illinois,Eastern Michigan,35,24,20,22,0,Raven Lee Steal.
+Northern Illinois,Eastern Michigan,35,24,20,32,0,Raven Lee Turnover.
+Northern Illinois,Eastern Michigan,35,24,20,32,0,Jordan Threloff Steal.
+Northern Illinois,Eastern Michigan,35,24,20,41,0,Aksel Bolin missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,35,24,20,41,0,DaShonte Riley Defensive Rebound.
+Northern Illinois,Eastern Michigan,35,24,20,53,0,Karrington Ward missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,35,24,20,53,0,Darrell Bowie Defensive Rebound.
+Northern Illinois,Eastern Michigan,35,24,21,15,0,Foul on Karrington Ward.
+Northern Illinois,Eastern Michigan,35,24,21,15,0,Jordan Threloff missed Free Throw.
+Northern Illinois,Eastern Michigan,35,24,21,15,0,Northern Illinois Deadball Team Rebound.
+Northern Illinois,Eastern Michigan,36,24,21,15,1,Jordan Threloff made Free Throw.
+Northern Illinois,Eastern Michigan,36,24,21,28,0,Foul on Aksel Bolin.
+Northern Illinois,Eastern Michigan,36,27,21,32,1,Darell Combs made Three Point Jumper. Assisted by Daylen Harrison.
+Northern Illinois,Eastern Michigan,36,27,22,7,0,Aksel Bolin missed Layup.
+Northern Illinois,Eastern Michigan,36,27,22,7,0,DaShonte Riley Block.
+Northern Illinois,Eastern Michigan,36,27,22,7,0,Karrington Ward Defensive Rebound.
+Northern Illinois,Eastern Michigan,36,29,22,14,1,Darell Combs made Layup.
+Northern Illinois,Eastern Michigan,36,29,22,39,0,Travon Baker missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,36,29,22,39,0,Aaric Armstead Offensive Rebound.
+Northern Illinois,Eastern Michigan,36,29,22,56,0,Darrell Bowie missed Jumper.
+Northern Illinois,Eastern Michigan,36,29,22,56,0,Aaric Armstead Offensive Rebound.
+Northern Illinois,Eastern Michigan,36,29,22,56,0,Aaric Armstead missed Two Point Tip Shot.
+Northern Illinois,Eastern Michigan,36,29,22,56,0,Karrington Ward Defensive Rebound.
+Northern Illinois,Eastern Michigan,36,29,23,16,0,Darell Combs Turnover.
+Northern Illinois,Eastern Michigan,36,29,23,16,0,Darrell Bowie Steal.
+Northern Illinois,Eastern Michigan,36,29,23,24,0,Foul on Travon Baker.
+Northern Illinois,Eastern Michigan,36,29,23,24,0,Travon Baker Turnover.
+Northern Illinois,Eastern Michigan,36,29,23,36,0,Foul on Daveon Balls.
+Northern Illinois,Eastern Michigan,36,29,23,40,0,Mike Talley missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,36,29,23,40,0,J.R. Sims Offensive Rebound.
+Northern Illinois,Eastern Michigan,36,29,23,43,0,Foul on Darrell Bowie.
+Northern Illinois,Eastern Michigan,36,30,23,43,1,J.R. Sims made Free Throw.
+Northern Illinois,Eastern Michigan,36,31,23,43,1,J.R. Sims made Free Throw.
+Northern Illinois,Eastern Michigan,36,31,24,18,0,Aaron Armstead missed Jumper.
+Northern Illinois,Eastern Michigan,36,31,24,18,0,Daylen Harrison Defensive Rebound.
+Northern Illinois,Eastern Michigan,36,31,24,26,0,J.R. Sims missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,36,31,24,26,0,Aksel Bolin Defensive Rebound.
+Northern Illinois,Eastern Michigan,36,31,24,33,0,Foul on DaShonte Riley.
+Northern Illinois,Eastern Michigan,36,31,24,33,0,Official TV Timeout
+Northern Illinois,Eastern Michigan,37,31,24,33,1,Darrell Bowie made Free Throw.
+Northern Illinois,Eastern Michigan,37,31,24,33,0,Darrell Bowie missed Free Throw.
+Northern Illinois,Eastern Michigan,37,31,24,33,0,DaShonte Riley Defensive Rebound.
+Northern Illinois,Eastern Michigan,37,31,25,3,0,Daylen Harrison missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,37,31,25,3,0,Northern Illinois Defensive Rebound.
+Northern Illinois,Eastern Michigan,37,31,25,40,0,Jordan Threloff missed Jumper.
+Northern Illinois,Eastern Michigan,37,31,25,40,0,Glenn Bryant Defensive Rebound.
+Northern Illinois,Eastern Michigan,37,31,25,51,0,Darell Combs missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,37,31,25,51,0,Daylen Harrison Offensive Rebound.
+Northern Illinois,Eastern Michigan,37,31,26,0,0,Mike Talley missed Jumper.
+Northern Illinois,Eastern Michigan,37,31,26,0,0,Jordan Threloff Block.
+Northern Illinois,Eastern Michigan,37,31,26,0,0,Darrell Bowie Defensive Rebound.
+Northern Illinois,Eastern Michigan,39,31,26,8,1,Aaron Armstead made Layup.
+Northern Illinois,Eastern Michigan,39,31,26,22,0,Mike Talley missed Layup.
+Northern Illinois,Eastern Michigan,39,31,26,22,0,Darrell Bowie Block.
+Northern Illinois,Eastern Michigan,39,31,26,22,0,Jordan Threloff Defensive Rebound.
+Northern Illinois,Eastern Michigan,39,31,26,35,0,Daveon Balls missed Layup.
+Northern Illinois,Eastern Michigan,39,31,26,35,0,Jordan Threloff Offensive Rebound.
+Northern Illinois,Eastern Michigan,39,31,26,35,0,Jordan Threloff missed Two Point Tip Shot.
+Northern Illinois,Eastern Michigan,39,31,26,35,0,Darell Combs Defensive Rebound.
+Northern Illinois,Eastern Michigan,39,31,26,48,0,Eastern Michigan  Timeout
+Northern Illinois,Eastern Michigan,39,31,27,3,0,Foul on Aksel Bolin.
+Northern Illinois,Eastern Michigan,39,31,27,13,0,Darell Combs missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,39,31,27,13,0,DaShonte Riley Offensive Rebound.
+Northern Illinois,Eastern Michigan,39,31,27,13,0,DaShonte Riley missed Two Point Tip Shot.
+Northern Illinois,Eastern Michigan,39,31,27,13,0,Daveon Balls Defensive Rebound.
+Northern Illinois,Eastern Michigan,39,31,27,15,0,Foul on J.R. Sims.
+Northern Illinois,Eastern Michigan,39,31,27,38,0,Antone Christian missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,39,31,27,38,0,Glenn Bryant Block.
+Northern Illinois,Eastern Michigan,39,31,27,38,0,Pete Rakocevic Offensive Rebound.
+Northern Illinois,Eastern Michigan,39,31,27,44,0,Aaric Armstead missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,39,31,27,44,0,DaShonte Riley Defensive Rebound.
+Northern Illinois,Eastern Michigan,39,33,27,55,1,Glenn Bryant made Layup.
+Northern Illinois,Eastern Michigan,39,33,28,23,0,Aksel Bolin missed Jumper.
+Northern Illinois,Eastern Michigan,39,33,28,23,0,DaShonte Riley Block.
+Northern Illinois,Eastern Michigan,39,33,28,23,0,Darell Combs Defensive Rebound.
+Northern Illinois,Eastern Michigan,39,33,28,39,0,Glenn Bryant missed Layup.
+Northern Illinois,Eastern Michigan,39,33,28,39,0,J.R. Sims Offensive Rebound.
+Northern Illinois,Eastern Michigan,39,33,28,40,0,Foul on Aaric Armstead.
+Northern Illinois,Eastern Michigan,39,33,28,40,0,Official TV Timeout
+Northern Illinois,Eastern Michigan,39,34,28,40,1,J.R. Sims made Free Throw.
+Northern Illinois,Eastern Michigan,39,35,28,40,1,J.R. Sims made Free Throw.
+Northern Illinois,Eastern Michigan,39,35,29,10,0,Foul on DaShonte Riley.
+Northern Illinois,Eastern Michigan,39,35,29,11,0,Jordan Threloff Turnover.
+Northern Illinois,Eastern Michigan,39,35,29,11,0,J.R. Sims Steal.
+Northern Illinois,Eastern Michigan,39,37,29,21,1,J.R. Sims made Layup.
+Northern Illinois,Eastern Michigan,41,37,29,42,1,Aksel Bolin made Layup.
+Northern Illinois,Eastern Michigan,41,37,29,42,0,Foul on DaShonte Riley.
+Northern Illinois,Eastern Michigan,42,37,29,42,1,Aksel Bolin made Free Throw.
+Northern Illinois,Eastern Michigan,42,37,30,5,0,Foul on Aksel Bolin.
+Northern Illinois,Eastern Michigan,42,37,30,5,0,Glenn Bryant missed Free Throw.
+Northern Illinois,Eastern Michigan,42,37,30,5,0,Eastern Michigan Deadball Team Rebound.
+Northern Illinois,Eastern Michigan,42,38,30,5,1,Glenn Bryant made Free Throw.
+Northern Illinois,Eastern Michigan,42,38,30,9,0,Aaron Armstead Turnover.
+Northern Illinois,Eastern Michigan,42,38,30,9,0,Mike Talley Steal.
+Northern Illinois,Eastern Michigan,42,40,30,17,1,Glenn Bryant made Dunk. Assisted by J.R. Sims.
+Northern Illinois,Eastern Michigan,42,40,30,40,0,Travon Baker missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,42,40,30,40,0,Mike Talley Defensive Rebound.
+Northern Illinois,Eastern Michigan,42,40,30,50,0,J.R. Sims missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,42,40,30,50,0,Aksel Bolin Defensive Rebound.
+Northern Illinois,Eastern Michigan,42,40,31,1,0,Aaron Armstead Turnover.
+Northern Illinois,Eastern Michigan,42,40,31,1,0,Glenn Bryant Steal.
+Northern Illinois,Eastern Michigan,42,42,31,22,1,Glenn Bryant made Jumper.
+Northern Illinois,Eastern Michigan,42,42,31,33,0,Northern Illinois  Timeout
+Northern Illinois,Eastern Michigan,42,42,31,34,0,Aaric Armstead Turnover.
+Northern Illinois,Eastern Michigan,42,42,31,34,0,Daylen Harrison Steal.
+Northern Illinois,Eastern Michigan,42,42,31,41,0,Karrington Ward missed Jumper.
+Northern Illinois,Eastern Michigan,42,42,31,41,0,Jordan Threloff Defensive Rebound.
+Northern Illinois,Eastern Michigan,42,42,31,56,0,Aaric Armstead Turnover.
+Northern Illinois,Eastern Michigan,42,42,31,56,0,J.R. Sims Steal.
+Northern Illinois,Eastern Michigan,42,44,32,3,1,J.R. Sims made Layup.
+Northern Illinois,Eastern Michigan,44,44,32,33,1,Jordan Threloff made Layup. Assisted by Travon Baker.
+Northern Illinois,Eastern Michigan,44,44,32,57,0,Eastern Michigan  Timeout
+Northern Illinois,Eastern Michigan,44,44,33,16,0,Karrington Ward missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,44,44,33,16,0,Jordan Threloff Defensive Rebound.
+Northern Illinois,Eastern Michigan,44,44,33,18,0,Foul on Mo Hughley.
+Northern Illinois,Eastern Michigan,44,44,33,18,0,Official TV Timeout
+Northern Illinois,Eastern Michigan,44,44,33,25,0,Foul on Glenn Bryant.
+Northern Illinois,Eastern Michigan,45,44,33,25,1,Travon Baker made Free Throw.
+Northern Illinois,Eastern Michigan,46,44,33,25,1,Travon Baker made Free Throw.
+Northern Illinois,Eastern Michigan,46,44,33,54,0,J.R. Sims missed Jumper.
+Northern Illinois,Eastern Michigan,46,44,33,54,0,Jordan Threloff Block.
+Northern Illinois,Eastern Michigan,46,44,33,54,0,Jordan Threloff Defensive Rebound.
+Northern Illinois,Eastern Michigan,46,44,34,28,0,Aaric Armstead missed Jumper.
+Northern Illinois,Eastern Michigan,46,44,34,28,0,Karrington Ward Defensive Rebound.
+Northern Illinois,Eastern Michigan,46,44,34,59,0,J.R. Sims missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,46,44,34,59,0,Aaric Armstead Defensive Rebound.
+Northern Illinois,Eastern Michigan,46,44,35,34,0,Daveon Balls missed Jumper.
+Northern Illinois,Eastern Michigan,46,44,35,34,0,Darell Combs Defensive Rebound.
+Northern Illinois,Eastern Michigan,46,44,35,58,0,Eastern Michigan  Timeout
+Northern Illinois,Eastern Michigan,46,44,36,6,0,Foul on Daveon Balls.
+Northern Illinois,Eastern Michigan,46,44,36,6,0,Official TV Timeout
+Northern Illinois,Eastern Michigan,46,45,36,6,1,Darell Combs made Free Throw.
+Northern Illinois,Eastern Michigan,46,46,36,6,1,Darell Combs made Free Throw.
+Northern Illinois,Eastern Michigan,46,47,36,6,1,Darell Combs made Free Throw.
+Northern Illinois,Eastern Michigan,46,47,36,39,0,Jordan Threloff missed Layup.
+Northern Illinois,Eastern Michigan,46,47,36,39,0,Glenn Bryant Block.
+Northern Illinois,Eastern Michigan,46,47,36,39,0,Darell Combs Defensive Rebound.
+Northern Illinois,Eastern Michigan,46,47,36,44,0,Foul on Daveon Balls.
+Northern Illinois,Eastern Michigan,46,47,36,44,0,Darell Combs missed Free Throw.
+Northern Illinois,Eastern Michigan,46,47,36,44,0,Eastern Michigan Deadball Team Rebound.
+Northern Illinois,Eastern Michigan,46,47,36,44,0,Darell Combs missed Free Throw.
+Northern Illinois,Eastern Michigan,46,47,36,44,0,Aksel Bolin Defensive Rebound.
+Northern Illinois,Eastern Michigan,46,47,36,54,0,Foul on Darell Combs.
+Northern Illinois,Eastern Michigan,47,47,36,54,1,Travon Baker made Free Throw.
+Northern Illinois,Eastern Michigan,48,47,36,54,1,Travon Baker made Free Throw.
+Northern Illinois,Eastern Michigan,48,47,37,29,0,Darell Combs Turnover.
+Northern Illinois,Eastern Michigan,48,47,37,58,0,Jordan Threloff missed Jumper.
+Northern Illinois,Eastern Michigan,48,47,37,58,0,Aaric Armstead Offensive Rebound.
+Northern Illinois,Eastern Michigan,48,47,38,29,0,Aksel Bolin Turnover.
+Northern Illinois,Eastern Michigan,48,47,38,42,0,Mike Talley missed Layup.
+Northern Illinois,Eastern Michigan,48,47,38,42,0,Glenn Bryant Offensive Rebound.
+Northern Illinois,Eastern Michigan,48,49,38,42,1,Glenn Bryant made Two Point Tip Shot.
+Northern Illinois,Eastern Michigan,48,49,39,0,0,Foul on Mo Hughley.
+Northern Illinois,Eastern Michigan,48,49,39,0,0,Jordan Threloff missed Free Throw.
+Northern Illinois,Eastern Michigan,48,49,39,0,0,J.R. Sims Defensive Rebound.
+Northern Illinois,Eastern Michigan,48,49,39,23,0,Mike Talley missed Layup.
+Northern Illinois,Eastern Michigan,48,49,39,23,0,Jordan Threloff Block.
+Northern Illinois,Eastern Michigan,48,49,39,23,0,Eastern Michigan Offensive Rebound.
+Northern Illinois,Eastern Michigan,48,49,39,26,0,Eastern Michigan  Timeout
+Northern Illinois,Eastern Michigan,48,49,39,28,0,Daylen Harrison missed Layup.
+Northern Illinois,Eastern Michigan,48,49,39,28,0,Aaric Armstead Defensive Rebound.
+Northern Illinois,Eastern Michigan,48,49,39,33,0,Aaric Armstead Turnover.
+Northern Illinois,Eastern Michigan,48,49,39,33,0,J.R. Sims Steal.
+Northern Illinois,Eastern Michigan,48,49,39,46,0,Foul on Darrell Bowie.
+Northern Illinois,Eastern Michigan,48,50,39,46,1,Karrington Ward made Free Throw.
+Northern Illinois,Eastern Michigan,48,50,39,46,0,Northern Illinois  Timeout
+Northern Illinois,Eastern Michigan,48,51,39,46,1,Karrington Ward made Free Throw.
+Northern Illinois,Eastern Michigan,48,51,39,55,0,Travon Baker missed Three Point Jumper.
+Northern Illinois,Eastern Michigan,48,51,39,55,0,Eastern Michigan Defensive Rebound.
+Northern Illinois,Eastern Michigan,48,51,39,58,0,Foul on Aaric Armstead.
+Northern Illinois,Eastern Michigan,48,52,39,58,1,Daylen Harrison made Free Throw.
+Northern Illinois,Eastern Michigan,48,53,39,58,1,Daylen Harrison made Free Throw.
+Northern Illinois,Eastern Michigan,48,53,39,58,0,Northern Illinois  Timeout
+Northern Illinois,Eastern Michigan,48,53,39,59,0,Darrell Bowie Turnover.
+Northern Illinois,Eastern Michigan,48,53,39,59,0,J.R. Sims Steal.
+Northern Illinois,Eastern Michigan,48,53,40,0,0,End of Game

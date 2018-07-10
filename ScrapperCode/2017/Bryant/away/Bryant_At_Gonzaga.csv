@@ -1,0 +1,393 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Bryant,Gonzaga,0,0,0,0,0,Jump Ball won by Gonzaga
+Bryant,Gonzaga,0,0,0,10,0,Foul on Marcel Pettway.
+Bryant,Gonzaga,0,2,0,17,1,Przemek Karnowski made Jumper.
+Bryant,Gonzaga,2,2,0,46,1,Nisre Zouzoua made Layup.
+Bryant,Gonzaga,2,4,0,56,1,Przemek Karnowski made Dunk. Assisted by Johnathan Williams.
+Bryant,Gonzaga,4,4,1,14,1,Marcel Pettway made Layup.
+Bryant,Gonzaga,4,4,1,30,0,Foul on Adam Grant.
+Bryant,Gonzaga,4,4,1,46,0,Johnathan Williams missed Jumper.
+Bryant,Gonzaga,4,4,1,46,0,Marcel Pettway Defensive Rebound.
+Bryant,Gonzaga,4,4,2,4,0,Marcel Pettway missed Layup.
+Bryant,Gonzaga,4,4,2,4,0,Marcel Pettway Offensive Rebound.
+Bryant,Gonzaga,6,4,2,11,1,Marcel Pettway made Layup.
+Bryant,Gonzaga,6,6,2,22,1,Przemek Karnowski made Jumper. Assisted by Nigel Williams-Goss.
+Bryant,Gonzaga,6,6,2,42,0,Foul on Jordan Mathews.
+Bryant,Gonzaga,6,6,2,42,0,Adam Grant missed Free Throw.
+Bryant,Gonzaga,6,6,2,42,0,Bryant Deadball Team Rebound.
+Bryant,Gonzaga,7,6,2,42,1,Adam Grant made Free Throw.
+Bryant,Gonzaga,7,8,2,54,1,Przemek Karnowski made Layup. Assisted by Jordan Mathews.
+Bryant,Gonzaga,9,8,3,6,1,Dan Garvin made Layup. Assisted by Marcel Pettway.
+Bryant,Gonzaga,9,11,3,21,1,Silas Melson made Three Point Jumper. Assisted by Przemek Karnowski.
+Bryant,Gonzaga,9,11,3,33,0,Ikenna Ndugba missed Layup.
+Bryant,Gonzaga,9,11,3,33,0,Przemek Karnowski Defensive Rebound.
+Bryant,Gonzaga,9,13,3,39,1,Nigel Williams-Goss made Layup.
+Bryant,Gonzaga,9,13,4,2,0,Jump Ball won by Bryant
+Bryant,Gonzaga,9,13,4,2,0,Official TV Timeout
+Bryant,Gonzaga,9,13,4,14,0,Bryant  Turnover.
+Bryant,Gonzaga,9,13,4,31,0,Zach Collins missed Jumper.
+Bryant,Gonzaga,9,13,4,31,0,Nisre Zouzoua Defensive Rebound.
+Bryant,Gonzaga,9,13,4,39,0,Adam Grant missed Three Point Jumper.
+Bryant,Gonzaga,9,13,4,39,0,Silas Melson Defensive Rebound.
+Bryant,Gonzaga,9,13,4,48,0,Josh Perkins Turnover.
+Bryant,Gonzaga,9,13,4,59,0,Foul on Zach Collins.
+Bryant,Gonzaga,10,13,4,59,1,Nisre Zouzoua made Free Throw.
+Bryant,Gonzaga,10,13,4,59,0,Nisre Zouzoua missed Free Throw.
+Bryant,Gonzaga,10,13,4,59,0,Nigel Williams-Goss Defensive Rebound.
+Bryant,Gonzaga,10,13,5,15,0,Foul on Nisre Zouzoua.
+Bryant,Gonzaga,10,14,5,15,1,Nigel Williams-Goss made Free Throw.
+Bryant,Gonzaga,10,15,5,15,1,Nigel Williams-Goss made Free Throw.
+Bryant,Gonzaga,10,15,5,23,0,Hunter Ware Turnover.
+Bryant,Gonzaga,10,15,5,44,0,Johnathan Williams Turnover.
+Bryant,Gonzaga,10,15,5,49,0,Ikenna Ndugba Turnover.
+Bryant,Gonzaga,10,17,6,5,1,Nigel Williams-Goss made Layup. Assisted by Josh Perkins.
+Bryant,Gonzaga,10,17,6,5,0,Foul on Hunter Ware.
+Bryant,Gonzaga,10,18,6,5,1,Nigel Williams-Goss made Free Throw.
+Bryant,Gonzaga,10,18,6,7,0,Ikenna Ndugba Turnover.
+Bryant,Gonzaga,10,18,6,7,0,Silas Melson Steal.
+Bryant,Gonzaga,10,20,6,11,1,Nigel Williams-Goss made Layup. Assisted by Silas Melson.
+Bryant,Gonzaga,10,20,6,15,0,Bryant  Timeout
+Bryant,Gonzaga,10,20,6,26,0,Foul on Killian Tillie.
+Bryant,Gonzaga,10,20,6,27,0,Foul on Silas Melson.
+Bryant,Gonzaga,10,20,6,28,0,Nisre Zouzoua missed Three Point Jumper.
+Bryant,Gonzaga,10,20,6,28,0,Ikenna Ndugba Offensive Rebound.
+Bryant,Gonzaga,12,20,6,38,1,Dan Garvin made Layup. Assisted by Nisre Zouzoua.
+Bryant,Gonzaga,12,22,6,49,1,Zach Collins made Layup.
+Bryant,Gonzaga,12,22,7,5,0,Adam Grant missed Three Point Jumper.
+Bryant,Gonzaga,12,22,7,5,0,Nigel Williams-Goss Defensive Rebound.
+Bryant,Gonzaga,12,24,7,25,1,Zach Collins made Layup.
+Bryant,Gonzaga,12,24,7,42,0,Dan Garvin missed Layup.
+Bryant,Gonzaga,12,24,7,42,0,Killian Tillie Block.
+Bryant,Gonzaga,12,24,7,42,0,Bryant Offensive Rebound.
+Bryant,Gonzaga,12,24,7,57,0,Marcel Pettway Turnover.
+Bryant,Gonzaga,12,24,7,57,0,Josh Perkins Steal.
+Bryant,Gonzaga,12,24,8,12,0,Nigel Williams-Goss missed Three Point Jumper.
+Bryant,Gonzaga,12,24,8,12,0,Zach Collins Offensive Rebound.
+Bryant,Gonzaga,12,26,8,16,1,Zach Collins made Layup.
+Bryant,Gonzaga,12,26,8,24,0,Nisre Zouzoua missed Jumper.
+Bryant,Gonzaga,12,26,8,24,0,Zach Collins Defensive Rebound.
+Bryant,Gonzaga,12,26,8,42,0,Josh Perkins missed Three Point Jumper.
+Bryant,Gonzaga,12,26,8,42,0,Zach Collins Offensive Rebound.
+Bryant,Gonzaga,12,26,8,45,0,Foul on Dan Garvin.
+Bryant,Gonzaga,12,26,8,45,0,Official TV Timeout
+Bryant,Gonzaga,12,27,8,45,1,Zach Collins made Free Throw.
+Bryant,Gonzaga,12,27,8,45,0,Zach Collins missed Free Throw.
+Bryant,Gonzaga,12,27,8,45,0,Dan Garvin Defensive Rebound.
+Bryant,Gonzaga,12,27,9,6,0,Sabastian Townes missed Layup.
+Bryant,Gonzaga,12,27,9,7,0,Sabastian Townes Offensive Rebound.
+Bryant,Gonzaga,12,27,9,11,0,Sabastian Townes Turnover.
+Bryant,Gonzaga,12,27,9,11,0,Josh Perkins Steal.
+Bryant,Gonzaga,12,27,9,14,0,Foul on Ikenna Ndugba.
+Bryant,Gonzaga,12,28,9,14,1,Nigel Williams-Goss made Free Throw.
+Bryant,Gonzaga,12,29,9,14,1,Nigel Williams-Goss made Free Throw.
+Bryant,Gonzaga,12,29,9,33,0,Foul on Killian Tillie.
+Bryant,Gonzaga,15,29,9,37,1,Adam Grant made Three Point Jumper. Assisted by Ikenna Ndugba.
+Bryant,Gonzaga,15,29,9,54,0,Foul on Sabastian Townes.
+Bryant,Gonzaga,15,30,9,54,1,Przemek Karnowski made Free Throw.
+Bryant,Gonzaga,15,30,9,54,0,Przemek Karnowski missed Free Throw.
+Bryant,Gonzaga,15,30,9,54,0,Dan Garvin Defensive Rebound.
+Bryant,Gonzaga,15,30,10,3,0,Ikenna Ndugba Turnover.
+Bryant,Gonzaga,15,30,10,12,0,Foul on Ikenna Ndugba.
+Bryant,Gonzaga,15,31,10,12,1,Josh Perkins made Free Throw.
+Bryant,Gonzaga,15,32,10,12,1,Josh Perkins made Free Throw.
+Bryant,Gonzaga,15,32,10,36,0,Gus Riley Turnover.
+Bryant,Gonzaga,15,32,10,36,0,Johnathan Williams Steal.
+Bryant,Gonzaga,15,32,10,49,0,Przemek Karnowski missed Jumper.
+Bryant,Gonzaga,15,32,10,49,0,Hunter Ware Defensive Rebound.
+Bryant,Gonzaga,17,32,10,55,1,Nisre Zouzoua made Layup.
+Bryant,Gonzaga,17,32,11,7,0,Foul on Sabastian Townes.
+Bryant,Gonzaga,17,33,11,7,1,Przemek Karnowski made Free Throw.
+Bryant,Gonzaga,17,34,11,7,1,Przemek Karnowski made Free Throw.
+Bryant,Gonzaga,17,34,11,10,0,Adam Grant Turnover.
+Bryant,Gonzaga,17,34,11,10,0,Johnathan Williams Steal.
+Bryant,Gonzaga,17,34,11,14,0,Johnathan Williams missed Layup.
+Bryant,Gonzaga,17,34,11,14,0,Adam Grant Defensive Rebound.
+Bryant,Gonzaga,17,34,11,26,0,Nisre Zouzoua missed Jumper.
+Bryant,Gonzaga,17,34,11,26,0,Adam Grant Offensive Rebound.
+Bryant,Gonzaga,19,34,11,30,1,Adam Grant made Jumper.
+Bryant,Gonzaga,19,34,11,35,0,Przemek Karnowski Turnover.
+Bryant,Gonzaga,19,34,11,35,0,Nisre Zouzoua Steal.
+Bryant,Gonzaga,19,34,11,51,0,Adam Grant missed Jumper.
+Bryant,Gonzaga,19,34,11,51,0,Johnathan Williams Defensive Rebound.
+Bryant,Gonzaga,19,34,12,7,0,Silas Melson missed Layup.
+Bryant,Gonzaga,19,34,12,7,0,Hunter Ware Defensive Rebound.
+Bryant,Gonzaga,22,34,12,14,1,Adam Grant made Three Point Jumper. Assisted by Hunter Ware.
+Bryant,Gonzaga,22,34,12,30,0,Przemek Karnowski Turnover.
+Bryant,Gonzaga,22,34,12,30,0,Hunter Ware Steal.
+Bryant,Gonzaga,25,34,12,46,1,Adam Grant made Three Point Jumper. Assisted by Marcel Pettway.
+Bryant,Gonzaga,25,36,13,10,1,Przemek Karnowski made Jumper.
+Bryant,Gonzaga,25,36,13,22,0,Adam Grant Turnover.
+Bryant,Gonzaga,25,36,13,22,0,Przemek Karnowski Steal.
+Bryant,Gonzaga,25,38,13,28,1,Josh Perkins made Layup.
+Bryant,Gonzaga,25,38,13,33,0,Bryant  Timeout
+Bryant,Gonzaga,25,38,13,33,0,Official TV Timeout
+Bryant,Gonzaga,25,38,13,52,0,Ikenna Ndugba missed Jumper.
+Bryant,Gonzaga,25,38,13,52,0,Dan Garvin Offensive Rebound.
+Bryant,Gonzaga,25,38,13,57,0,Dan Garvin missed Layup.
+Bryant,Gonzaga,25,38,13,57,0,Johnathan Williams Defensive Rebound.
+Bryant,Gonzaga,25,38,14,16,0,Jordan Mathews missed Jumper.
+Bryant,Gonzaga,25,38,14,16,0,Johnathan Williams Offensive Rebound.
+Bryant,Gonzaga,25,38,14,24,0,Foul on Johnathan Williams.
+Bryant,Gonzaga,25,38,14,24,0,Johnathan Williams Turnover.
+Bryant,Gonzaga,27,38,14,42,1,Adam Grant made Jumper.
+Bryant,Gonzaga,27,40,15,8,1,Zach Collins made Jumper. Assisted by Nigel Williams-Goss.
+Bryant,Gonzaga,27,40,15,31,0,Foul on Dan Garvin.
+Bryant,Gonzaga,27,40,15,31,0,Dan Garvin Turnover.
+Bryant,Gonzaga,27,40,15,41,0,Foul on Hunter Ware.
+Bryant,Gonzaga,27,41,15,41,1,Johnathan Williams made Free Throw.
+Bryant,Gonzaga,27,41,15,41,0,Johnathan Williams missed Free Throw.
+Bryant,Gonzaga,27,41,15,41,0,Dan Garvin Defensive Rebound.
+Bryant,Gonzaga,27,41,15,51,0,Bryant  Turnover.
+Bryant,Gonzaga,27,41,16,5,0,Foul on Dan Garvin.
+Bryant,Gonzaga,27,41,16,5,0,Official TV Timeout
+Bryant,Gonzaga,27,41,16,5,0,Johnathan Williams missed Free Throw.
+Bryant,Gonzaga,27,41,16,5,0,Gonzaga Deadball Team Rebound.
+Bryant,Gonzaga,27,42,16,5,1,Johnathan Williams made Free Throw.
+Bryant,Gonzaga,27,42,16,18,0,Gus Riley missed Layup.
+Bryant,Gonzaga,27,42,16,18,0,Johnathan Williams Block.
+Bryant,Gonzaga,27,42,16,18,0,Johnathan Williams Defensive Rebound.
+Bryant,Gonzaga,27,45,16,35,1,Johnathan Williams made Three Point Jumper. Assisted by Josh Perkins.
+Bryant,Gonzaga,29,45,17,3,1,Marcel Pettway made Jumper. Assisted by Ikenna Ndugba.
+Bryant,Gonzaga,29,47,17,18,1,Johnathan Williams made Layup.
+Bryant,Gonzaga,29,47,17,32,0,Foul on Zach Collins.
+Bryant,Gonzaga,29,47,17,32,0,Nisre Zouzoua missed Free Throw.
+Bryant,Gonzaga,29,47,17,32,0,Bryant Deadball Team Rebound.
+Bryant,Gonzaga,30,47,17,32,1,Nisre Zouzoua made Free Throw.
+Bryant,Gonzaga,30,47,17,52,0,Johnathan Williams missed Jumper.
+Bryant,Gonzaga,30,47,17,52,0,Bryant Defensive Rebound.
+Bryant,Gonzaga,30,47,18,6,0,Adam Grant Turnover.
+Bryant,Gonzaga,30,47,18,6,0,Nigel Williams-Goss Steal.
+Bryant,Gonzaga,30,47,18,20,0,Josh Perkins Turnover.
+Bryant,Gonzaga,30,47,18,20,0,Nisre Zouzoua Steal.
+Bryant,Gonzaga,32,47,18,26,1,Nisre Zouzoua made Layup.
+Bryant,Gonzaga,32,47,18,42,0,Przemek Karnowski missed Layup.
+Bryant,Gonzaga,32,47,18,42,0,Hunter Ware Defensive Rebound.
+Bryant,Gonzaga,35,47,18,54,1,Adam Grant made Three Point Jumper.
+Bryant,Gonzaga,35,47,19,5,0,Foul on Marcel Pettway.
+Bryant,Gonzaga,35,47,19,5,0,Przemek Karnowski missed Free Throw.
+Bryant,Gonzaga,35,47,19,5,0,Gonzaga Deadball Team Rebound.
+Bryant,Gonzaga,35,48,19,5,1,Przemek Karnowski made Free Throw.
+Bryant,Gonzaga,38,48,19,23,1,Nisre Zouzoua made Three Point Jumper. Assisted by Ikenna Ndugba.
+Bryant,Gonzaga,38,50,19,39,1,Przemek Karnowski made Jumper.
+Bryant,Gonzaga,38,50,19,57,0,Ikenna Ndugba Turnover.
+Bryant,Gonzaga,38,50,19,57,0,Nigel Williams-Goss Steal.
+Bryant,Gonzaga,38,50,20,0,0,End of 1st half
+Bryant,Gonzaga,38,50,20,0,0,Jump Ball won by Gonzaga
+Bryant,Gonzaga,38,50,20,16,0,Silas Melson missed Layup.
+Bryant,Gonzaga,38,50,20,16,0,Johnathan Williams Offensive Rebound.
+Bryant,Gonzaga,38,50,20,27,0,Silas Melson missed Three Point Jumper.
+Bryant,Gonzaga,38,50,20,27,0,Przemek Karnowski Offensive Rebound.
+Bryant,Gonzaga,38,52,20,33,1,Przemek Karnowski made Layup.
+Bryant,Gonzaga,38,52,20,44,0,Foul on Marcel Pettway.
+Bryant,Gonzaga,38,52,20,44,0,Marcel Pettway Turnover.
+Bryant,Gonzaga,38,52,20,58,0,Johnathan Williams Turnover.
+Bryant,Gonzaga,38,52,20,58,0,Ikenna Ndugba Steal.
+Bryant,Gonzaga,38,52,21,7,0,Adam Grant missed Layup.
+Bryant,Gonzaga,38,52,21,7,0,Przemek Karnowski Defensive Rebound.
+Bryant,Gonzaga,38,52,21,14,0,Jordan Mathews missed Three Point Jumper.
+Bryant,Gonzaga,38,52,21,14,0,Gonzaga Offensive Rebound.
+Bryant,Gonzaga,38,52,21,15,0,Foul on Dan Garvin.
+Bryant,Gonzaga,38,52,21,19,0,Jordan Mathews missed Three Point Jumper.
+Bryant,Gonzaga,38,52,21,19,0,Johnathan Williams Offensive Rebound.
+Bryant,Gonzaga,38,54,21,19,1,Johnathan Williams made Dunk.
+Bryant,Gonzaga,38,54,21,39,0,Foul on Jordan Mathews.
+Bryant,Gonzaga,39,54,21,39,1,Nisre Zouzoua made Free Throw.
+Bryant,Gonzaga,40,54,21,39,1,Nisre Zouzoua made Free Throw.
+Bryant,Gonzaga,40,54,21,50,0,Johnathan Williams Turnover.
+Bryant,Gonzaga,40,54,21,50,0,Sabastian Townes Steal.
+Bryant,Gonzaga,40,54,21,56,0,Sabastian Townes Turnover.
+Bryant,Gonzaga,40,54,22,4,0,Foul on Adam Grant.
+Bryant,Gonzaga,40,54,22,21,0,Foul on Ikenna Ndugba.
+Bryant,Gonzaga,40,54,22,28,0,Nigel Williams-Goss missed Dunk.
+Bryant,Gonzaga,40,54,22,28,0,Marcel Pettway Defensive Rebound.
+Bryant,Gonzaga,40,54,22,39,0,Ikenna Ndugba missed Layup.
+Bryant,Gonzaga,40,54,22,39,0,Przemek Karnowski Defensive Rebound.
+Bryant,Gonzaga,40,54,22,46,0,Silas Melson missed Layup.
+Bryant,Gonzaga,40,54,22,46,0,Nisre Zouzoua Defensive Rebound.
+Bryant,Gonzaga,42,54,22,54,1,Sabastian Townes made Layup. Assisted by Nisre Zouzoua.
+Bryant,Gonzaga,42,54,22,54,0,Foul on Killian Tillie.
+Bryant,Gonzaga,42,54,22,54,0,Sabastian Townes missed Free Throw.
+Bryant,Gonzaga,42,54,22,54,0,Sabastian Townes Offensive Rebound.
+Bryant,Gonzaga,42,54,22,56,0,Sabastian Townes missed Jumper.
+Bryant,Gonzaga,42,54,22,56,0,Przemek Karnowski Block.
+Bryant,Gonzaga,42,54,22,56,0,Przemek Karnowski Defensive Rebound.
+Bryant,Gonzaga,42,54,23,4,0,Foul on Marcel Pettway.
+Bryant,Gonzaga,42,54,23,16,0,Przemek Karnowski missed Jumper.
+Bryant,Gonzaga,42,54,23,16,0,Bryant Defensive Rebound.
+Bryant,Gonzaga,42,54,23,18,0,Foul on Zach Collins.
+Bryant,Gonzaga,42,54,23,30,0,Foul on Nigel Williams-Goss.
+Bryant,Gonzaga,42,54,23,33,0,Ikenna Ndugba missed Three Point Jumper.
+Bryant,Gonzaga,42,54,23,33,0,Jordan Mathews Defensive Rebound.
+Bryant,Gonzaga,42,56,23,39,1,Zach Collins made Dunk. Assisted by Nigel Williams-Goss.
+Bryant,Gonzaga,44,56,23,52,1,Sabastian Townes made Jumper. Assisted by Ikenna Ndugba.
+Bryant,Gonzaga,44,56,23,59,0,Foul on Gus Riley.
+Bryant,Gonzaga,44,56,23,59,0,Foul on Sabastian Townes.
+Bryant,Gonzaga,44,56,23,59,0,Zach Collins missed Free Throw.
+Bryant,Gonzaga,44,56,23,59,0,Gus Riley Defensive Rebound.
+Bryant,Gonzaga,46,56,24,16,1,Sabastian Townes made Jumper.
+Bryant,Gonzaga,46,58,24,27,1,Przemek Karnowski made Layup.
+Bryant,Gonzaga,46,58,24,45,0,Nisre Zouzoua missed Three Point Jumper.
+Bryant,Gonzaga,46,58,24,45,0,Przemek Karnowski Defensive Rebound.
+Bryant,Gonzaga,46,58,24,51,0,Foul on Zach Collins.
+Bryant,Gonzaga,46,58,24,51,0,Zach Collins Turnover.
+Bryant,Gonzaga,46,58,24,51,0,Official TV Timeout
+Bryant,Gonzaga,46,58,25,6,0,Adam Grant Turnover.
+Bryant,Gonzaga,46,58,25,6,0,Jordan Mathews Steal.
+Bryant,Gonzaga,46,58,25,12,0,Jordan Mathews missed Layup.
+Bryant,Gonzaga,46,58,25,12,0,Johnathan Williams Offensive Rebound.
+Bryant,Gonzaga,46,60,25,12,1,Johnathan Williams made Two Point Tip Shot.
+Bryant,Gonzaga,46,60,25,34,0,Hunter Ware missed Jumper.
+Bryant,Gonzaga,46,60,25,34,0,Przemek Karnowski Defensive Rebound.
+Bryant,Gonzaga,46,60,25,47,0,Foul on Gus Riley.
+Bryant,Gonzaga,46,61,25,47,1,Johnathan Williams made Free Throw.
+Bryant,Gonzaga,46,62,25,47,1,Johnathan Williams made Free Throw.
+Bryant,Gonzaga,46,62,25,55,0,Nisre Zouzoua missed Three Point Jumper.
+Bryant,Gonzaga,46,62,25,55,0,Przemek Karnowski Defensive Rebound.
+Bryant,Gonzaga,46,64,26,20,1,Johnathan Williams made Dunk. Assisted by Przemek Karnowski.
+Bryant,Gonzaga,46,64,26,37,0,Nisre Zouzoua missed Jumper.
+Bryant,Gonzaga,46,64,26,37,0,Przemek Karnowski Block.
+Bryant,Gonzaga,46,64,26,37,0,Nigel Williams-Goss Defensive Rebound.
+Bryant,Gonzaga,46,64,26,45,0,Josh Perkins missed Three Point Jumper.
+Bryant,Gonzaga,46,64,26,45,0,Sabastian Townes Defensive Rebound.
+Bryant,Gonzaga,48,64,26,56,1,Nisre Zouzoua made Layup.
+Bryant,Gonzaga,48,66,27,8,1,Przemek Karnowski made Jumper.
+Bryant,Gonzaga,48,66,27,19,0,Bryant  Timeout
+Bryant,Gonzaga,50,66,27,31,1,Marcel Pettway made Layup.
+Bryant,Gonzaga,50,66,27,47,0,Przemek Karnowski missed Jumper.
+Bryant,Gonzaga,50,66,27,47,0,Adam Grant Defensive Rebound.
+Bryant,Gonzaga,52,66,27,59,1,Dan Garvin made Layup.
+Bryant,Gonzaga,52,69,28,16,1,Johnathan Williams made Three Point Jumper. Assisted by Nigel Williams-Goss.
+Bryant,Gonzaga,52,69,28,36,0,Adam Grant missed Three Point Jumper.
+Bryant,Gonzaga,52,69,28,36,0,Johnathan Williams Defensive Rebound.
+Bryant,Gonzaga,52,69,28,55,0,Foul on Ikenna Ndugba.
+Bryant,Gonzaga,52,69,28,55,0,Official TV Timeout
+Bryant,Gonzaga,52,69,28,55,0,Przemek Karnowski missed Free Throw.
+Bryant,Gonzaga,52,69,28,55,0,Gonzaga Deadball Team Rebound.
+Bryant,Gonzaga,52,69,28,55,0,Przemek Karnowski missed Free Throw.
+Bryant,Gonzaga,52,69,28,55,0,Marcel Pettway Defensive Rebound.
+Bryant,Gonzaga,52,69,29,8,0,Adam Grant Turnover.
+Bryant,Gonzaga,52,69,29,23,0,Jordan Mathews missed Three Point Jumper.
+Bryant,Gonzaga,52,69,29,23,0,Zach Collins Offensive Rebound.
+Bryant,Gonzaga,52,71,29,35,1,Zach Collins made Layup. Assisted by Josh Perkins.
+Bryant,Gonzaga,52,71,29,51,0,Hunter Ware missed Jumper.
+Bryant,Gonzaga,52,71,29,51,0,Dan Garvin Offensive Rebound.
+Bryant,Gonzaga,54,71,30,2,1,Marcel Pettway made Layup. Assisted by Nisre Zouzoua.
+Bryant,Gonzaga,54,74,30,17,1,Josh Perkins made Three Point Jumper.
+Bryant,Gonzaga,57,74,30,42,1,Nisre Zouzoua made Three Point Jumper. Assisted by Adam Grant.
+Bryant,Gonzaga,57,74,30,56,0,Foul on Marcel Pettway.
+Bryant,Gonzaga,57,75,30,56,1,Zach Collins made Free Throw.
+Bryant,Gonzaga,57,76,30,56,1,Zach Collins made Free Throw.
+Bryant,Gonzaga,57,76,31,14,0,Nisre Zouzoua Turnover.
+Bryant,Gonzaga,57,76,31,31,0,Josh Perkins Turnover.
+Bryant,Gonzaga,57,76,31,40,0,Foul on Gus Riley.
+Bryant,Gonzaga,57,76,31,40,0,Gus Riley Turnover.
+Bryant,Gonzaga,57,76,31,52,0,Foul on Sabastian Townes.
+Bryant,Gonzaga,57,76,31,52,0,Zach Collins missed Free Throw.
+Bryant,Gonzaga,57,76,31,52,0,Gonzaga Deadball Team Rebound.
+Bryant,Gonzaga,57,77,31,52,1,Zach Collins made Free Throw.
+Bryant,Gonzaga,57,77,32,2,0,Nisre Zouzoua missed Jumper.
+Bryant,Gonzaga,57,77,32,2,0,Zach Collins Defensive Rebound.
+Bryant,Gonzaga,57,77,32,8,0,Foul on Adam Grant.
+Bryant,Gonzaga,57,77,32,8,0,Official TV Timeout
+Bryant,Gonzaga,57,78,32,8,1,Josh Perkins made Free Throw.
+Bryant,Gonzaga,57,79,32,8,1,Josh Perkins made Free Throw.
+Bryant,Gonzaga,57,79,32,17,0,Foul on Nigel Williams-Goss.
+Bryant,Gonzaga,57,79,32,23,0,Ikenna Ndugba missed Jumper.
+Bryant,Gonzaga,57,79,32,23,0,Bryant Offensive Rebound.
+Bryant,Gonzaga,57,79,32,25,0,Foul on Jordan Mathews.
+Bryant,Gonzaga,58,79,32,25,1,Dan Garvin made Free Throw.
+Bryant,Gonzaga,58,79,32,25,0,Dan Garvin missed Free Throw.
+Bryant,Gonzaga,58,79,32,25,0,Nigel Williams-Goss Defensive Rebound.
+Bryant,Gonzaga,58,79,32,31,0,Foul on Nisre Zouzoua.
+Bryant,Gonzaga,58,80,32,31,1,Nigel Williams-Goss made Free Throw.
+Bryant,Gonzaga,58,81,32,31,1,Nigel Williams-Goss made Free Throw.
+Bryant,Gonzaga,58,81,32,47,0,Adam Grant missed Jumper.
+Bryant,Gonzaga,58,81,32,47,0,Dan Garvin Offensive Rebound.
+Bryant,Gonzaga,58,81,32,48,0,Foul on Killian Tillie.
+Bryant,Gonzaga,58,81,32,48,0,Dan Garvin missed Free Throw.
+Bryant,Gonzaga,58,81,32,48,0,Bryant Deadball Team Rebound.
+Bryant,Gonzaga,58,81,32,48,0,Dan Garvin missed Free Throw.
+Bryant,Gonzaga,58,81,32,48,0,Zach Collins Defensive Rebound.
+Bryant,Gonzaga,58,84,33,3,1,Josh Perkins made Three Point Jumper. Assisted by Nigel Williams-Goss.
+Bryant,Gonzaga,61,84,33,19,1,Gus Riley made Three Point Jumper. Assisted by Adam Grant.
+Bryant,Gonzaga,61,84,33,36,0,Foul on Gus Riley.
+Bryant,Gonzaga,61,85,33,36,1,Zach Collins made Free Throw.
+Bryant,Gonzaga,61,86,33,36,1,Zach Collins made Free Throw.
+Bryant,Gonzaga,63,86,34,1,1,Dan Garvin made Layup.
+Bryant,Gonzaga,63,89,34,13,1,Josh Perkins made Three Point Jumper.
+Bryant,Gonzaga,63,89,34,31,0,Dan Garvin missed Layup.
+Bryant,Gonzaga,63,89,34,31,0,Dan Garvin Offensive Rebound.
+Bryant,Gonzaga,63,89,34,43,0,Dan Garvin missed Layup.
+Bryant,Gonzaga,63,89,34,43,0,Nisre Zouzoua Offensive Rebound.
+Bryant,Gonzaga,65,89,34,47,1,Nisre Zouzoua made Two Point Tip Shot.
+Bryant,Gonzaga,65,89,34,53,0,Zach Collins missed Three Point Jumper.
+Bryant,Gonzaga,65,89,34,53,0,Killian Tillie Offensive Rebound.
+Bryant,Gonzaga,65,91,34,58,1,Killian Tillie made Layup.
+Bryant,Gonzaga,65,91,34,58,0,Foul on Dan Garvin.
+Bryant,Gonzaga,65,91,34,58,0,Killian Tillie missed Free Throw.
+Bryant,Gonzaga,65,91,34,58,0,Gus Riley Defensive Rebound.
+Bryant,Gonzaga,65,91,35,6,0,Foul on Zach Collins.
+Bryant,Gonzaga,65,91,35,6,0,Ikenna Ndugba missed Free Throw.
+Bryant,Gonzaga,65,91,35,6,0,Bryant Deadball Team Rebound.
+Bryant,Gonzaga,66,91,35,6,1,Ikenna Ndugba made Free Throw.
+Bryant,Gonzaga,66,91,35,20,0,Killian Tillie missed Three Point Jumper.
+Bryant,Gonzaga,66,91,35,20,0,Gonzaga Offensive Rebound.
+Bryant,Gonzaga,66,91,35,25,0,Foul on Sabastian Townes.
+Bryant,Gonzaga,66,92,35,25,1,Johnathan Williams made Free Throw.
+Bryant,Gonzaga,66,93,35,25,1,Johnathan Williams made Free Throw.
+Bryant,Gonzaga,66,93,35,35,0,Hunter Ware missed Jumper.
+Bryant,Gonzaga,66,93,35,35,0,Bryan Alberts Defensive Rebound.
+Bryant,Gonzaga,66,96,35,46,1,Josh Perkins made Three Point Jumper.
+Bryant,Gonzaga,66,96,36,9,0,Ikenna Ndugba Turnover.
+Bryant,Gonzaga,66,96,36,9,0,Official TV Timeout
+Bryant,Gonzaga,66,96,36,22,0,Killian Tillie missed Jumper.
+Bryant,Gonzaga,66,96,36,22,0,Gonzaga Offensive Rebound.
+Bryant,Gonzaga,66,98,36,26,1,Bryan Alberts made Jumper. Assisted by Rui Hachimura.
+Bryant,Gonzaga,66,98,36,43,0,Ikenna Ndugba Turnover.
+Bryant,Gonzaga,66,98,36,43,0,Rui Hachimura Steal.
+Bryant,Gonzaga,66,100,36,48,1,Rui Hachimura made Layup.
+Bryant,Gonzaga,66,100,37,4,0,Hunter Ware missed Jumper.
+Bryant,Gonzaga,66,100,37,4,0,Killian Tillie Defensive Rebound.
+Bryant,Gonzaga,66,100,37,26,0,Rui Hachimura missed Three Point Jumper.
+Bryant,Gonzaga,66,100,37,26,0,Rui Hachimura Offensive Rebound.
+Bryant,Gonzaga,66,100,37,45,0,Foul on Bosko Kostur.
+Bryant,Gonzaga,66,101,37,45,1,Bryan Alberts made Free Throw.
+Bryant,Gonzaga,66,102,37,45,1,Bryan Alberts made Free Throw.
+Bryant,Gonzaga,66,102,38,0,0,Gus Riley Turnover.
+Bryant,Gonzaga,66,102,38,0,0,Bryan Alberts Steal.
+Bryant,Gonzaga,66,102,38,6,0,Foul on Bosko Kostur.
+Bryant,Gonzaga,66,103,38,6,1,Rui Hachimura made Free Throw.
+Bryant,Gonzaga,66,104,38,6,1,Rui Hachimura made Free Throw.
+Bryant,Gonzaga,66,104,38,14,0,Terrill Toe missed Three Point Jumper.
+Bryant,Gonzaga,66,104,38,14,0,Taylor McHugh Offensive Rebound.
+Bryant,Gonzaga,66,104,38,21,0,Taylor McHugh missed Jumper.
+Bryant,Gonzaga,66,104,38,21,0,Ryan Edwards Defensive Rebound.
+Bryant,Gonzaga,66,104,38,38,0,Rui Hachimura missed Three Point Jumper.
+Bryant,Gonzaga,66,104,38,38,0,Bryant Defensive Rebound.
+Bryant,Gonzaga,66,104,38,40,0,Foul on Ryan Edwards.
+Bryant,Gonzaga,67,104,38,40,1,Gus Riley made Free Throw.
+Bryant,Gonzaga,68,104,38,40,1,Gus Riley made Free Throw.
+Bryant,Gonzaga,68,104,38,47,0,Rem Bakamus Turnover.
+Bryant,Gonzaga,68,104,38,47,0,Gus Riley Steal.
+Bryant,Gonzaga,68,104,38,53,0,Taylor McHugh missed Layup.
+Bryant,Gonzaga,68,104,38,53,0,Rui Hachimura Block.
+Bryant,Gonzaga,68,104,38,53,0,Bryan Alberts Defensive Rebound.
+Bryant,Gonzaga,68,104,38,57,0,Foul on Tanner Johnson.
+Bryant,Gonzaga,68,105,38,57,1,Bryan Alberts made Free Throw.
+Bryant,Gonzaga,68,105,38,57,0,Bryan Alberts missed Free Throw.
+Bryant,Gonzaga,68,105,38,57,0,Rui Hachimura Offensive Rebound.
+Bryant,Gonzaga,68,105,38,59,0,Foul on Bosko Kostur.
+Bryant,Gonzaga,68,106,38,59,1,Rui Hachimura made Free Throw.
+Bryant,Gonzaga,68,107,38,59,1,Rui Hachimura made Free Throw.
+Bryant,Gonzaga,68,109,39,8,1,Ryan Edwards made Jumper.
+Bryant,Gonzaga,68,109,39,10,0,Foul on Bryan Alberts.
+Bryant,Gonzaga,69,109,39,10,1,Nisre Zouzoua made Free Throw.
+Bryant,Gonzaga,70,109,39,10,1,Nisre Zouzoua made Free Throw.
+Bryant,Gonzaga,70,109,39,19,0,Bryan Alberts missed Three Point Jumper.
+Bryant,Gonzaga,70,109,39,19,0,Nisre Zouzoua Defensive Rebound.
+Bryant,Gonzaga,70,109,39,40,0,Taylor McHugh missed Jumper.
+Bryant,Gonzaga,70,109,39,40,0,Rui Hachimura Block.
+Bryant,Gonzaga,70,109,39,40,0,Bryant Offensive Rebound.
+Bryant,Gonzaga,70,109,39,48,0,Nisre Zouzoua missed Jumper.
+Bryant,Gonzaga,70,109,39,48,0,Bryan Alberts Defensive Rebound.
+Bryant,Gonzaga,70,109,40,0,0,End of Game

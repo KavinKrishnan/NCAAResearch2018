@@ -1,0 +1,332 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Oklahoma,Texas,0,0,0,0,0,Jump Ball won by Texas.
+Oklahoma,Texas,0,0,0,21,0,Jonathan Holmes missed Jumper.
+Oklahoma,Texas,0,0,0,21,0,Amath M'Baye Defensive Rebound.
+Oklahoma,Texas,0,0,0,37,0,Romero Osby Turnover.
+Oklahoma,Texas,0,0,0,37,0,Myck Kabongo Steal.
+Oklahoma,Texas,0,2,0,44,1,Ioannis Papapetrou made Jumper.
+Oklahoma,Texas,3,2,1,6,1,Steven Pledger made Three Point Jumper.  Assisted by Amath M'Baye.
+Oklahoma,Texas,3,4,1,18,1,Connor Lammert made Jumper.
+Oklahoma,Texas,5,4,1,29,1,Amath M'Baye made Layup.
+Oklahoma,Texas,5,4,2,5,0,Connor Lammert missed Jumper.
+Oklahoma,Texas,5,4,2,5,0,Amath M'Baye Defensive Rebound.
+Oklahoma,Texas,5,4,2,18,0,Amath M'Baye missed Three Point Jumper.
+Oklahoma,Texas,5,4,2,18,0,Ioannis Papapetrou Defensive Rebound.
+Oklahoma,Texas,5,4,2,29,0,Foul on Je'lon Hornbeak
+Oklahoma,Texas,5,4,2,50,0,Foul on Sam Grooms
+Oklahoma,Texas,5,4,2,58,0,Foul on Sam Grooms
+Oklahoma,Texas,5,4,2,58,0,Cameron Ridley missed Free Throw.
+Oklahoma,Texas,5,4,2,58,0,null
+Oklahoma,Texas,5,4,2,58,0,Cameron Ridley missed Free Throw.
+Oklahoma,Texas,5,4,2,58,0,Je'lon Hornbeak Defensive Rebound.
+Oklahoma,Texas,5,4,3,13,0,Je'lon Hornbeak Turnover.
+Oklahoma,Texas,5,6,3,35,1,Demarcus Holland made Jumper.
+Oklahoma,Texas,7,6,3,58,1,Romero Osby made Jumper.
+Oklahoma,Texas,7,6,4,29,0,Myck Kabongo Turnover.
+Oklahoma,Texas,7,6,4,29,0,Official TV Timeout.
+Oklahoma,Texas,7,6,4,40,0,Isaiah Cousins missed Jumper.
+Oklahoma,Texas,7,6,4,40,0,Jaylen Bond Block.
+Oklahoma,Texas,7,6,4,40,0,Myck Kabongo Defensive Rebound.
+Oklahoma,Texas,7,6,4,41,0,Foul on Je'lon Hornbeak
+Oklahoma,Texas,7,6,5,16,0,Demarcus Holland missed Jumper.
+Oklahoma,Texas,7,6,5,16,0,Prince Ibeh Offensive Rebound.
+Oklahoma,Texas,7,6,5,42,0,Demarcus Holland Turnover.
+Oklahoma,Texas,7,6,5,42,0,Amath M'Baye Steal.
+Oklahoma,Texas,7,6,6,4,0,Steven Pledger missed Jumper.
+Oklahoma,Texas,7,6,6,4,0,Myck Kabongo Defensive Rebound.
+Oklahoma,Texas,7,6,6,10,0,Demarcus Holland Turnover.
+Oklahoma,Texas,7,6,6,10,0,Isaiah Cousins Steal.
+Oklahoma,Texas,9,6,6,15,1,Romero Osby made Dunk.  Assisted by Isaiah Cousins.
+Oklahoma,Texas,9,8,6,30,1,Jaylen Bond made Layup.  Assisted by Myck Kabongo.
+Oklahoma,Texas,9,8,6,30,0,Foul on Cameron Clark
+Oklahoma,Texas,9,8,6,30,0,Jaylen Bond missed Free Throw.
+Oklahoma,Texas,9,8,6,30,0,Jaylen Bond Offensive Rebound.
+Oklahoma,Texas,9,11,6,44,1,Javan Felix made Three Point Jumper.  Assisted by Myck Kabongo.
+Oklahoma,Texas,11,11,7,4,1,Cameron Clark made Jumper.  Assisted by Romero Osby.
+Oklahoma,Texas,11,11,7,13,0,Myck Kabongo Turnover.
+Oklahoma,Texas,11,11,7,13,0,Steven Pledger Steal.
+Oklahoma,Texas,13,11,7,23,1,Romero Osby made Jumper.
+Oklahoma,Texas,13,11,7,23,0,Foul on Jaylen Bond
+Oklahoma,Texas,13,11,7,23,0,Romero Osby missed Free Throw.
+Oklahoma,Texas,13,11,7,23,0,Jonathan Holmes Defensive Rebound.
+Oklahoma,Texas,13,11,7,44,0,Foul on Isaiah Cousins
+Oklahoma,Texas,13,11,8,4,0,Ioannis Papapetrou missed Jumper.
+Oklahoma,Texas,13,11,8,4,0,Cameron Clark Defensive Rebound.
+Oklahoma,Texas,13,11,8,5,0,Foul on Ioannis Papapetrou
+Oklahoma,Texas,13,11,8,5,0,Official TV Timeout.
+Oklahoma,Texas,13,11,8,17,0,Foul on Jonathan Holmes
+Oklahoma,Texas,14,11,8,17,1,Andrew Fitzgerald made Free Throw.
+Oklahoma,Texas,14,11,8,17,0,Andrew Fitzgerald missed Free Throw.
+Oklahoma,Texas,14,11,8,17,0,Connor Lammert Defensive Rebound.
+Oklahoma,Texas,14,14,8,48,1,Connor Lammert made Three Point Jumper.  Assisted by Javan Felix.
+Oklahoma,Texas,14,14,9,7,0,Amath M'Baye Turnover.
+Oklahoma,Texas,14,14,9,7,0,Ioannis Papapetrou Steal.
+Oklahoma,Texas,14,16,9,42,1,Javan Felix made Jumper.
+Oklahoma,Texas,17,16,10,6,1,Amath M'Baye made Three Point Jumper.  Assisted by Steven Pledger.
+Oklahoma,Texas,17,16,10,18,0,Ioannis Papapetrou missed Jumper.
+Oklahoma,Texas,17,16,10,18,0,Andrew Fitzgerald Defensive Rebound.
+Oklahoma,Texas,17,16,10,25,0,Foul on Ioannis Papapetrou
+Oklahoma,Texas,20,16,10,29,1,Steven Pledger made Three Point Jumper.  Assisted by Sam Grooms.
+Oklahoma,Texas,20,16,10,55,0,Foul on Cameron Ridley
+Oklahoma,Texas,20,16,10,55,0,Cameron Ridley Turnover.
+Oklahoma,Texas,22,16,11,26,1,Andrew Fitzgerald made Jumper.  Assisted by Steven Pledger.
+Oklahoma,Texas,22,16,11,48,0,Cameron Ridley Turnover.
+Oklahoma,Texas,22,16,11,48,0,Andrew Fitzgerald Steal.
+Oklahoma,Texas,25,16,11,55,1,Steven Pledger made Three Point Jumper.  Assisted by Sam Grooms.
+Oklahoma,Texas,25,16,12,26,0,Cameron Ridley missed Jumper.
+Oklahoma,Texas,25,16,12,26,0,Andrew Fitzgerald Block.
+Oklahoma,Texas,25,16,12,26,0,Romero Osby Defensive Rebound.
+Oklahoma,Texas,27,16,12,31,1,Cameron Clark made Jumper.  Assisted by Romero Osby.
+Oklahoma,Texas,27,16,12,31,0,Foul on Myck Kabongo
+Oklahoma,Texas,27,16,12,31,0,Official TV Timeout.
+Oklahoma,Texas,28,16,12,31,1,Cameron Clark made Free Throw.
+Oklahoma,Texas,28,16,13,2,0,Myck Kabongo missed Three Point Jumper.
+Oklahoma,Texas,28,16,13,2,0,Isaiah Cousins Defensive Rebound.
+Oklahoma,Texas,31,16,13,13,1,Steven Pledger made Three Point Jumper.
+Oklahoma,Texas,31,18,13,31,1,Prince Ibeh made Dunk.  Assisted by Sheldon McClellan.
+Oklahoma,Texas,31,18,13,53,0,Steven Pledger Turnover.
+Oklahoma,Texas,31,18,13,53,0,Myck Kabongo Steal.
+Oklahoma,Texas,31,18,13,59,0,Foul on Cameron Clark
+Oklahoma,Texas,31,19,13,59,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,31,19,13,59,0,Myck Kabongo missed Free Throw.
+Oklahoma,Texas,31,19,13,59,0,Je'lon Hornbeak Defensive Rebound.
+Oklahoma,Texas,31,19,14,17,0,Andrew Fitzgerald missed Layup.
+Oklahoma,Texas,31,19,14,17,0,Sheldon McClellan Block.
+Oklahoma,Texas,31,19,14,17,0,Myck Kabongo Defensive Rebound.
+Oklahoma,Texas,31,21,14,30,1,Myck Kabongo made Layup.
+Oklahoma,Texas,33,21,14,37,1,Romero Osby made Jumper.
+Oklahoma,Texas,33,21,14,50,0,Sheldon McClellan missed Three Point Jumper.
+Oklahoma,Texas,33,21,14,50,0,Je'lon Hornbeak Defensive Rebound.
+Oklahoma,Texas,33,21,14,56,0,Foul on Myck Kabongo
+Oklahoma,Texas,33,21,14,56,0,Je'lon Hornbeak missed Free Throw.
+Oklahoma,Texas,33,21,14,56,0,Sheldon McClellan Defensive Rebound.
+Oklahoma,Texas,33,23,15,6,1,Jaylen Bond made Dunk.  Assisted by Sheldon McClellan.
+Oklahoma,Texas,33,23,15,24,0,Steven Pledger Turnover.
+Oklahoma,Texas,33,23,15,43,0,Jonathan Holmes missed Layup.
+Oklahoma,Texas,33,23,15,43,0,Romero Osby Defensive Rebound.
+Oklahoma,Texas,36,23,15,55,1,Steven Pledger made Three Point Jumper.  Assisted by Romero Osby.
+Oklahoma,Texas,36,23,16,28,0,Foul on Romero Osby
+Oklahoma,Texas,36,23,16,28,0,Official TV Timeout.
+Oklahoma,Texas,36,24,16,28,1,Sheldon McClellan made Free Throw.
+Oklahoma,Texas,36,25,16,28,1,Sheldon McClellan made Free Throw.
+Oklahoma,Texas,36,25,16,42,0,Romero Osby missed Jumper.
+Oklahoma,Texas,36,25,16,42,0,Sheldon McClellan Defensive Rebound.
+Oklahoma,Texas,36,25,17,13,0,Javan Felix missed Three Point Jumper.
+Oklahoma,Texas,36,25,17,13,0,Isaiah Cousins Defensive Rebound.
+Oklahoma,Texas,36,25,17,22,0,Steven Pledger missed Three Point Jumper.
+Oklahoma,Texas,36,25,17,22,0,Steven Pledger Offensive Rebound.
+Oklahoma,Texas,36,25,17,26,0,Steven Pledger Turnover.
+Oklahoma,Texas,36,25,17,26,0,Javan Felix Steal.
+Oklahoma,Texas,36,25,17,29,0,Javan Felix Turnover.
+Oklahoma,Texas,36,25,17,29,0,Je'lon Hornbeak Steal.
+Oklahoma,Texas,38,25,17,33,1,Romero Osby made Dunk.  Assisted by Amath M'Baye.
+Oklahoma,Texas,38,25,17,54,0,Javan Felix missed Three Point Jumper.
+Oklahoma,Texas,38,25,17,54,0,Sheldon McClellan Offensive Rebound.
+Oklahoma,Texas,38,25,18,10,0,Sheldon McClellan missed Jumper.
+Oklahoma,Texas,38,25,18,10,0,Amath M'Baye Defensive Rebound.
+Oklahoma,Texas,41,25,18,17,1,Je'lon Hornbeak made Three Point Jumper.  Assisted by Isaiah Cousins.
+Oklahoma,Texas,41,25,18,17,0,Texas Full Timeout.
+Oklahoma,Texas,41,28,18,46,1,Demarcus Holland made Three Point Jumper.  Assisted by Javan Felix.
+Oklahoma,Texas,41,28,19,6,0,Cameron Clark missed Jumper.
+Oklahoma,Texas,41,28,19,6,0,Connor Lammert Defensive Rebound.
+Oklahoma,Texas,41,28,19,24,0,Demarcus Holland missed Three Point Jumper.
+Oklahoma,Texas,41,28,19,24,0,Jaylen Bond Offensive Rebound.
+Oklahoma,Texas,41,28,19,25,0,Foul on Isaiah Cousins
+Oklahoma,Texas,41,28,19,25,0,Jaylen Bond missed Free Throw.
+Oklahoma,Texas,41,28,19,25,0,Cameron Clark Defensive Rebound.
+Oklahoma,Texas,41,28,19,31,0,Oklahoma Full Timeout.
+Oklahoma,Texas,43,28,19,56,1,Amath M'Baye made Layup.
+Oklahoma,Texas,43,28,20,0,0,End of the 1st Half.
+Oklahoma,Texas,43,28,20,0,0,Jump Ball won by Oklahoma.
+Oklahoma,Texas,43,28,20,15,0,Amath M'Baye missed Jumper.
+Oklahoma,Texas,43,28,20,15,0,Amath M'Baye Offensive Rebound.
+Oklahoma,Texas,43,28,20,36,0,Steven Pledger missed Jumper.
+Oklahoma,Texas,43,28,20,36,0,Connor Lammert Defensive Rebound.
+Oklahoma,Texas,43,28,21,3,0,Myck Kabongo missed Jumper.
+Oklahoma,Texas,43,28,21,3,0,Amath M'Baye Block.
+Oklahoma,Texas,43,28,21,3,0,Jonathan Holmes Offensive Rebound.
+Oklahoma,Texas,43,28,21,9,0,Ioannis Papapetrou missed Three Point Jumper.
+Oklahoma,Texas,43,28,21,9,0,Steven Pledger Defensive Rebound.
+Oklahoma,Texas,43,28,21,41,0,Romero Osby missed Jumper.
+Oklahoma,Texas,43,28,21,41,0,Demarcus Holland Defensive Rebound.
+Oklahoma,Texas,43,28,22,7,0,Foul on Steven Pledger
+Oklahoma,Texas,43,28,22,8,0,Myck Kabongo Turnover.
+Oklahoma,Texas,43,28,22,8,0,Je'lon Hornbeak Steal.
+Oklahoma,Texas,43,28,22,15,0,Sam Grooms missed Jumper.
+Oklahoma,Texas,43,28,22,15,0,Sam Grooms Offensive Rebound.
+Oklahoma,Texas,43,28,22,19,0,Je'lon Hornbeak missed Jumper.
+Oklahoma,Texas,43,28,22,19,0,Romero Osby Offensive Rebound.
+Oklahoma,Texas,45,28,22,24,1,Romero Osby made Layup.
+Oklahoma,Texas,45,28,22,39,0,Jaylen Bond missed Three Point Jumper.
+Oklahoma,Texas,45,28,22,39,0,Sam Grooms Defensive Rebound.
+Oklahoma,Texas,45,28,22,54,0,Steven Pledger Turnover.
+Oklahoma,Texas,45,28,22,54,0,Demarcus Holland Steal.
+Oklahoma,Texas,45,28,23,1,0,Demarcus Holland missed Dunk.
+Oklahoma,Texas,45,28,23,1,0,Sam Grooms Defensive Rebound.
+Oklahoma,Texas,47,28,23,14,1,Romero Osby made Jumper.
+Oklahoma,Texas,47,31,23,30,1,Demarcus Holland made Three Point Jumper.  Assisted by Myck Kabongo.
+Oklahoma,Texas,49,31,23,49,1,Amath M'Baye made Layup.  Assisted by Steven Pledger.
+Oklahoma,Texas,49,31,24,11,0,Foul on Je'lon Hornbeak
+Oklahoma,Texas,49,31,24,11,0,Official TV Timeout.
+Oklahoma,Texas,49,32,24,11,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,49,33,24,11,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,49,33,24,12,0,Sam Grooms Turnover.
+Oklahoma,Texas,49,33,24,12,0,Sheldon McClellan Steal.
+Oklahoma,Texas,49,33,24,16,0,Connor Lammert missed Jumper.
+Oklahoma,Texas,49,33,24,16,0,Connor Lammert Offensive Rebound.
+Oklahoma,Texas,49,35,24,16,1,Connor Lammert made Tip Shot.
+Oklahoma,Texas,49,35,24,26,0,Amath M'Baye Turnover.
+Oklahoma,Texas,49,35,24,26,0,Demarcus Holland Steal.
+Oklahoma,Texas,49,37,24,40,1,Prince Ibeh made Layup.  Assisted by Sheldon McClellan.
+Oklahoma,Texas,49,37,24,52,0,Steven Pledger missed Three Point Jumper.
+Oklahoma,Texas,49,37,24,52,0,Steven Pledger Offensive Rebound.
+Oklahoma,Texas,49,37,24,57,0,Foul on Prince Ibeh
+Oklahoma,Texas,50,37,24,57,1,Cameron Clark made Free Throw.
+Oklahoma,Texas,50,37,24,57,0,Cameron Clark missed Free Throw.
+Oklahoma,Texas,50,37,24,57,0,Prince Ibeh Defensive Rebound.
+Oklahoma,Texas,50,39,25,10,1,Myck Kabongo made Layup.  Assisted by Demarcus Holland.
+Oklahoma,Texas,52,39,25,44,1,Amath M'Baye made Layup.
+Oklahoma,Texas,52,39,26,10,0,Connor Lammert missed Three Point Jumper.
+Oklahoma,Texas,52,39,26,10,0,Sheldon McClellan Offensive Rebound.
+Oklahoma,Texas,52,41,26,10,1,Sheldon McClellan made Layup.
+Oklahoma,Texas,52,41,26,10,0,Cameron Clark missed Jumper.
+Oklahoma,Texas,52,41,26,10,0,Prince Ibeh Block.
+Oklahoma,Texas,52,41,26,10,0,Texas Defensive Rebound.
+Oklahoma,Texas,53,41,26,40,1,Romero Osby made Free Throw.
+Oklahoma,Texas,54,41,26,40,1,Romero Osby made Free Throw.
+Oklahoma,Texas,54,41,26,40,0,Foul on Sheldon McClellan
+Oklahoma,Texas,54,41,26,40,0,null
+Oklahoma,Texas,54,41,26,51,0,Foul on Ioannis Papapetrou
+Oklahoma,Texas,54,41,26,51,0,Ioannis Papapetrou Turnover.
+Oklahoma,Texas,57,41,27,0,1,Steven Pledger made Three Point Jumper.  Assisted by Sam Grooms.
+Oklahoma,Texas,57,41,27,31,0,Jump Ball won by Texas.
+Oklahoma,Texas,57,41,27,37,0,Foul on Sheldon McClellan
+Oklahoma,Texas,57,41,27,37,0,Sheldon McClellan Turnover.
+Oklahoma,Texas,57,41,27,47,0,Sam Grooms missed Layup.
+Oklahoma,Texas,57,41,27,47,0,Demarcus Holland Defensive Rebound.
+Oklahoma,Texas,57,41,27,57,0,Myck Kabongo missed Layup.
+Oklahoma,Texas,57,41,27,57,0,Cameron Clark Defensive Rebound.
+Oklahoma,Texas,59,41,28,5,1,Romero Osby made Layup.
+Oklahoma,Texas,59,41,28,9,0,Foul on Amath M'Baye
+Oklahoma,Texas,59,41,28,9,0,Official TV Timeout.
+Oklahoma,Texas,59,41,28,41,0,Javan Felix missed Jumper.
+Oklahoma,Texas,59,41,28,41,0,Romero Osby Defensive Rebound.
+Oklahoma,Texas,59,41,28,41,0,Romero Osby Turnover.
+Oklahoma,Texas,59,41,28,41,0,Cameron Ridley Steal.
+Oklahoma,Texas,59,41,29,7,0,Foul on Sam Grooms
+Oklahoma,Texas,59,42,29,7,1,Sheldon McClellan made Free Throw.
+Oklahoma,Texas,59,43,29,7,1,Sheldon McClellan made Free Throw.
+Oklahoma,Texas,59,43,29,26,0,Foul on Cameron Ridley
+Oklahoma,Texas,60,43,29,26,1,Romero Osby made Free Throw.
+Oklahoma,Texas,61,43,29,26,1,Romero Osby made Free Throw.
+Oklahoma,Texas,61,43,29,39,0,Foul on Je'lon Hornbeak
+Oklahoma,Texas,61,43,29,44,0,Myck Kabongo missed Three Point Jumper.
+Oklahoma,Texas,61,43,29,44,0,Cameron Clark Defensive Rebound.
+Oklahoma,Texas,61,43,30,5,0,Amath M'Baye missed Jumper.
+Oklahoma,Texas,61,43,30,5,0,Cameron Ridley Defensive Rebound.
+Oklahoma,Texas,61,45,30,11,1,Javan Felix made Layup.
+Oklahoma,Texas,63,45,30,32,1,Cameron Clark made Dunk.  Assisted by Sam Grooms.
+Oklahoma,Texas,63,45,30,59,0,Sheldon McClellan missed Jumper.
+Oklahoma,Texas,63,45,30,59,0,Sheldon McClellan Offensive Rebound.
+Oklahoma,Texas,63,45,31,2,0,Sheldon McClellan missed Jumper.
+Oklahoma,Texas,63,45,31,2,0,Andrew Fitzgerald Defensive Rebound.
+Oklahoma,Texas,65,45,31,14,1,Andrew Fitzgerald made Jumper.  Assisted by Isaiah Cousins.
+Oklahoma,Texas,65,45,31,34,0,Connor Lammert missed Three Point Jumper.
+Oklahoma,Texas,65,45,31,34,0,Texas Offensive Rebound.
+Oklahoma,Texas,65,45,31,40,0,Jonathan Holmes missed Jumper.
+Oklahoma,Texas,65,45,31,40,0,Amath M'Baye Block.
+Oklahoma,Texas,65,45,31,40,0,Connor Lammert Offensive Rebound.
+Oklahoma,Texas,65,45,31,56,0,Javan Felix missed Three Point Jumper.
+Oklahoma,Texas,65,45,31,56,0,Sam Grooms Defensive Rebound.
+Oklahoma,Texas,67,45,32,6,1,Amath M'Baye made Dunk.  Assisted by Sam Grooms.
+Oklahoma,Texas,67,45,32,22,0,Foul on Andrew Fitzgerald
+Oklahoma,Texas,67,45,32,22,0,Official TV Timeout.
+Oklahoma,Texas,67,46,32,22,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,67,47,32,22,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,67,47,32,31,0,Isaiah Cousins missed Three Point Jumper.
+Oklahoma,Texas,67,47,32,31,0,Cameron Clark Offensive Rebound.
+Oklahoma,Texas,67,47,32,34,0,Cameron Clark Turnover.
+Oklahoma,Texas,67,47,32,34,0,Sheldon McClellan Steal.
+Oklahoma,Texas,67,47,32,36,0,Sheldon McClellan Turnover.
+Oklahoma,Texas,67,47,32,56,0,Steven Pledger missed Three Point Jumper.
+Oklahoma,Texas,67,47,32,56,0,Myck Kabongo Defensive Rebound.
+Oklahoma,Texas,67,47,33,0,0,Foul on Steven Pledger
+Oklahoma,Texas,67,48,33,0,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,67,49,33,0,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,67,49,33,15,0,Sam Grooms Turnover.
+Oklahoma,Texas,67,51,33,33,1,Myck Kabongo made Layup.
+Oklahoma,Texas,67,51,33,35,0,Texas Full Timeout.
+Oklahoma,Texas,67,51,33,38,0,Sam Grooms Turnover.
+Oklahoma,Texas,67,51,33,38,0,Jonathan Holmes Steal.
+Oklahoma,Texas,67,54,33,46,1,Myck Kabongo made Three Point Jumper.  Assisted by Jonathan Holmes.
+Oklahoma,Texas,67,54,33,59,0,Steven Pledger missed Three Point Jumper.
+Oklahoma,Texas,67,54,33,59,0,Ioannis Papapetrou Defensive Rebound.
+Oklahoma,Texas,67,54,34,7,0,Demarcus Holland missed Three Point Jumper.
+Oklahoma,Texas,67,54,34,7,0,Je'lon Hornbeak Defensive Rebound.
+Oklahoma,Texas,67,54,34,31,0,Je'lon Hornbeak missed Jumper.
+Oklahoma,Texas,67,54,34,31,0,Myck Kabongo Defensive Rebound.
+Oklahoma,Texas,67,56,34,40,1,Jonathan Holmes made Layup.  Assisted by Myck Kabongo.
+Oklahoma,Texas,67,56,34,41,0,Texas Full Timeout.
+Oklahoma,Texas,67,56,34,48,0,Je'lon Hornbeak Turnover.
+Oklahoma,Texas,67,56,34,48,0,Myck Kabongo Steal.
+Oklahoma,Texas,67,58,34,52,1,Myck Kabongo made Layup.
+Oklahoma,Texas,67,58,35,7,0,Sam Grooms missed Three Point Jumper.
+Oklahoma,Texas,67,58,35,7,0,Je'lon Hornbeak Offensive Rebound.
+Oklahoma,Texas,69,58,35,13,1,Je'lon Hornbeak made Jumper.
+Oklahoma,Texas,69,58,35,32,0,Sheldon McClellan missed Layup.
+Oklahoma,Texas,69,58,35,32,0,Jaylen Bond Offensive Rebound.
+Oklahoma,Texas,69,58,35,48,0,Myck Kabongo Turnover.
+Oklahoma,Texas,69,58,35,48,0,Oklahoma Full Timeout.
+Oklahoma,Texas,69,58,35,53,0,Sam Grooms Turnover.
+Oklahoma,Texas,69,58,35,53,0,Ioannis Papapetrou Steal.
+Oklahoma,Texas,69,58,35,54,0,Foul on Sam Grooms
+Oklahoma,Texas,69,59,35,54,1,Ioannis Papapetrou made Free Throw.
+Oklahoma,Texas,69,60,35,54,1,Ioannis Papapetrou made Free Throw.
+Oklahoma,Texas,69,60,36,15,0,Foul on Steven Pledger
+Oklahoma,Texas,69,60,36,15,0,Official TV Timeout.
+Oklahoma,Texas,69,61,36,15,1,Sheldon McClellan made Free Throw.
+Oklahoma,Texas,69,62,36,15,1,Sheldon McClellan made Free Throw.
+Oklahoma,Texas,69,62,36,47,0,Foul on Ioannis Papapetrou
+Oklahoma,Texas,70,62,36,47,1,Sam Grooms made Free Throw.
+Oklahoma,Texas,70,62,36,47,0,Sam Grooms missed Free Throw.
+Oklahoma,Texas,70,62,36,47,0,Sheldon McClellan Defensive Rebound.
+Oklahoma,Texas,70,64,37,4,1,Ioannis Papapetrou made Jumper.  Assisted by Demarcus Holland.
+Oklahoma,Texas,70,64,37,25,0,Romero Osby missed Jumper.
+Oklahoma,Texas,70,64,37,25,0,Romero Osby Offensive Rebound.
+Oklahoma,Texas,70,64,37,29,0,Foul on Jaylen Bond
+Oklahoma,Texas,71,64,37,29,1,Romero Osby made Free Throw.
+Oklahoma,Texas,72,64,37,29,1,Romero Osby made Free Throw.
+Oklahoma,Texas,72,66,37,45,1,Demarcus Holland made Jumper.
+Oklahoma,Texas,72,66,37,57,0,Romero Osby missed Jumper.
+Oklahoma,Texas,72,66,37,57,0,Myck Kabongo Defensive Rebound.
+Oklahoma,Texas,72,66,38,3,0,Foul on Je'lon Hornbeak
+Oklahoma,Texas,72,67,38,3,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,72,68,38,3,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,72,68,38,26,0,Steven Pledger missed Three Point Jumper.
+Oklahoma,Texas,72,68,38,26,0,Demarcus Holland Block.
+Oklahoma,Texas,72,68,38,26,0,Oklahoma Offensive Rebound.
+Oklahoma,Texas,72,68,38,27,0,Oklahoma Full Timeout.
+Oklahoma,Texas,72,68,38,35,0,Steven Pledger missed Jumper.
+Oklahoma,Texas,72,68,38,35,0,Sheldon McClellan Defensive Rebound.
+Oklahoma,Texas,72,71,38,49,1,Sheldon McClellan made Three Point Jumper.  Assisted by Myck Kabongo.
+Oklahoma,Texas,72,71,39,25,0,Foul on Jaylen Bond
+Oklahoma,Texas,73,71,39,25,1,Romero Osby made Free Throw.
+Oklahoma,Texas,74,71,39,25,1,Romero Osby made Free Throw.
+Oklahoma,Texas,74,71,39,37,0,Texas Full Timeout.
+Oklahoma,Texas,74,71,39,39,0,Foul on Cameron Clark
+Oklahoma,Texas,74,71,39,39,0,Myck Kabongo missed Free Throw.
+Oklahoma,Texas,74,71,39,39,0,null
+Oklahoma,Texas,74,72,39,39,1,Myck Kabongo made Free Throw.
+Oklahoma,Texas,74,72,39,44,0,Foul on Sheldon McClellan
+Oklahoma,Texas,75,72,39,44,1,Sam Grooms made Free Throw.
+Oklahoma,Texas,76,72,39,44,1,Sam Grooms made Free Throw.
+Oklahoma,Texas,76,72,39,51,0,Foul on Steven Pledger
+Oklahoma,Texas,76,73,39,51,1,Sheldon McClellan made Free Throw.
+Oklahoma,Texas,76,74,39,51,1,Sheldon McClellan made Free Throw.
+Oklahoma,Texas,76,75,39,51,1,Sheldon McClellan made Free Throw.
+Oklahoma,Texas,76,75,39,53,0,Foul on Jaylen Bond
+Oklahoma,Texas,76,75,39,53,0,Romero Osby missed Free Throw.
+Oklahoma,Texas,76,75,39,53,0,null
+Oklahoma,Texas,77,75,39,53,1,Romero Osby made Free Throw.
+Oklahoma,Texas,77,77,39,59,1,Myck Kabongo made Jumper.
+Oklahoma,Texas,77,77,40,0,0,End of the 2nd Half.

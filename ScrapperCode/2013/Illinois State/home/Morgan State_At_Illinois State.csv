@@ -1,0 +1,347 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Morgan State,Illinois State,0,0,4,20,0,Anthony Hubbard Defensive Rebound.
+Morgan State,Illinois State,0,0,4,40,0,Anthony Hubbard Turnover.
+Morgan State,Illinois State,0,0,4,42,0,Jackie Carmichael Steal.
+Morgan State,Illinois State,0,0,4,52,0,John Wilkins Turnover.
+Morgan State,Illinois State,2,0,5,21,1,Anthony Hubbard made Layup.
+Morgan State,Illinois State,2,2,5,44,1,John Wilkins made Jumper.  Assisted by Nick Zeisloft.
+Morgan State,Illinois State,2,2,6,2,0,Dewayne Jackson Turnover.
+Morgan State,Illinois State,2,2,6,4,0,Jordan Threloff Steal.
+Morgan State,Illinois State,2,4,6,11,1,Jordan Threloff made Layup.
+Morgan State,Illinois State,5,4,6,30,1,Justin Black made Three Point Jumper.  Assisted by Blake Bozeman.
+Morgan State,Illinois State,5,4,6,49,0,Jordan Threloff missed Dunk.
+Morgan State,Illinois State,5,4,6,49,0,Shaquille Duncan Defensive Rebound.
+Morgan State,Illinois State,5,4,6,59,0,Shaquille Duncan Turnover.
+Morgan State,Illinois State,5,4,7,0,0,Jordan Threloff Steal.
+Morgan State,Illinois State,5,7,7,4,1,Nick Zeisloft made Three Point Jumper.  Assisted by Tyler Brown.
+Morgan State,Illinois State,5,7,7,21,0,Dewayne Jackson missed Three Point Jumper.
+Morgan State,Illinois State,5,7,7,21,0,Tyler Brown Defensive Rebound.
+Morgan State,Illinois State,5,9,7,30,1,Jordan Threloff made Layup.  Assisted by Kaza Keane.
+Morgan State,Illinois State,5,9,7,32,0,Morgan State Full Timeout.
+Morgan State,Illinois State,5,9,7,43,0,Anthony Hubbard missed Layup.
+Morgan State,Illinois State,5,9,7,43,0,Tauron Bailey Offensive Rebound.
+Morgan State,Illinois State,5,9,7,46,0,Foul on Jordan Threloff
+Morgan State,Illinois State,6,9,7,46,1,Tauron Bailey made Free Throw.
+Morgan State,Illinois State,7,9,7,46,1,Tauron Bailey made Free Throw.
+Morgan State,Illinois State,7,9,8,2,0,Foul on Justin Black
+Morgan State,Illinois State,7,9,8,2,0,Official TV Timeout.
+Morgan State,Illinois State,7,11,8,15,1,Johnny Hill made Dunk.  Assisted by Jon Ekey.
+Morgan State,Illinois State,7,11,8,23,0,Donte Pretlow Turnover.
+Morgan State,Illinois State,7,11,8,23,0,Johnny Hill Steal.
+Morgan State,Illinois State,7,11,8,31,0,Jackie Carmichael missed Jumper.
+Morgan State,Illinois State,7,11,8,31,0,Nick Zeisloft Offensive Rebound.
+Morgan State,Illinois State,7,11,8,37,0,Nick Zeisloft missed Layup.
+Morgan State,Illinois State,7,11,8,37,0,Tauron Bailey Block.
+Morgan State,Illinois State,7,11,8,39,0,Tauron Bailey Defensive Rebound.
+Morgan State,Illinois State,7,11,8,44,0,Tauron Bailey missed Jumper.
+Morgan State,Illinois State,7,11,8,44,0,Kaza Keane Defensive Rebound.
+Morgan State,Illinois State,7,11,8,56,0,Johnny Hill missed Layup.
+Morgan State,Illinois State,7,11,8,56,0,Jackie Carmichael Offensive Rebound.
+Morgan State,Illinois State,7,11,9,20,0,Tyler Brown Turnover.
+Morgan State,Illinois State,7,11,9,21,0,Tauron Bailey Steal.
+Morgan State,Illinois State,7,11,9,37,0,Blake Bozeman missed Three Point Jumper.
+Morgan State,Illinois State,7,11,9,37,0,Jackie Carmichael Defensive Rebound.
+Morgan State,Illinois State,7,11,9,41,0,Foul on Anthony Hubbard
+Morgan State,Illinois State,7,11,10,2,0,Foul on Donte Pretlow
+Morgan State,Illinois State,7,12,10,2,1,Jon Ekey made Free Throw.
+Morgan State,Illinois State,7,12,10,2,0,Jon Ekey missed Free Throw.
+Morgan State,Illinois State,7,12,10,2,0,null
+Morgan State,Illinois State,7,13,10,2,1,Jon Ekey made Free Throw.
+Morgan State,Illinois State,9,13,10,16,1,Tauron Bailey made Layup.  Assisted by Anthony Hubbard.
+Morgan State,Illinois State,9,13,10,27,0,Foul on Tauron Bailey
+Morgan State,Illinois State,9,14,10,27,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,9,15,10,27,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,9,15,10,38,0,Blake Bozeman Turnover.
+Morgan State,Illinois State,9,15,10,43,0,Foul on Blake Bozeman
+Morgan State,Illinois State,9,15,11,2,0,Tyler Brown Turnover.
+Morgan State,Illinois State,9,15,11,3,0,Dewayne Jackson Steal.
+Morgan State,Illinois State,9,15,11,7,0,Foul on Dewayne Jackson
+Morgan State,Illinois State,9,15,11,7,0,Dewayne Jackson Turnover.
+Morgan State,Illinois State,9,15,11,8,0,Team Technical Foul
+Morgan State,Illinois State,9,15,11,8,0,Team Foul
+Morgan State,Illinois State,9,16,11,8,1,Tyler Brown made Free Throw.
+Morgan State,Illinois State,9,17,11,8,1,Tyler Brown made Free Throw.
+Morgan State,Illinois State,9,17,11,21,0,Jon Ekey missed Three Point Jumper.
+Morgan State,Illinois State,9,17,11,21,0,Johnny Hill Offensive Rebound.
+Morgan State,Illinois State,9,17,11,26,0,Tyler Brown missed Dunk.
+Morgan State,Illinois State,9,17,11,26,0,Morgan State Defensive Rebound.
+Morgan State,Illinois State,9,17,11,41,0,Blake Bozeman Turnover.
+Morgan State,Illinois State,9,19,11,51,1,Johnny Hill made Layup.
+Morgan State,Illinois State,9,19,12,6,0,Anthony Hubbard missed Layup.
+Morgan State,Illinois State,9,19,12,6,0,Ian Chiles Offensive Rebound.
+Morgan State,Illinois State,11,19,12,9,1,Ian Chiles made Tip Shot.
+Morgan State,Illinois State,11,19,12,17,0,Official TV Timeout.
+Morgan State,Illinois State,11,19,12,21,0,John Wilkins missed Jumper.
+Morgan State,Illinois State,11,19,12,21,0,Illinois State Offensive Rebound.
+Morgan State,Illinois State,11,19,12,29,0,Foul on Blake Bozeman
+Morgan State,Illinois State,11,19,12,29,0,Kaza Keane missed Free Throw.
+Morgan State,Illinois State,11,19,12,29,0,null
+Morgan State,Illinois State,11,19,12,30,0,Kaza Keane Turnover.
+Morgan State,Illinois State,11,19,12,32,0,Dewayne Jackson Steal.
+Morgan State,Illinois State,11,19,12,33,0,Foul on John Wilkins
+Morgan State,Illinois State,12,19,12,34,1,Dewayne Jackson made Free Throw.
+Morgan State,Illinois State,12,19,12,34,0,Dewayne Jackson missed Free Throw.
+Morgan State,Illinois State,12,19,12,34,0,Bryant Allen Defensive Rebound.
+Morgan State,Illinois State,12,19,12,55,0,Nick Zeisloft missed Three Point Jumper.
+Morgan State,Illinois State,12,19,12,55,0,Nick Zeisloft Offensive Rebound.
+Morgan State,Illinois State,12,21,13,8,1,Bryant Allen made Jumper.
+Morgan State,Illinois State,12,21,13,22,0,Dewayne Jackson Turnover.
+Morgan State,Illinois State,12,21,13,24,0,Jordan Threloff Steal.
+Morgan State,Illinois State,12,23,13,28,1,Bryant Allen made Jumper.
+Morgan State,Illinois State,12,23,13,40,0,Justin Black Turnover.
+Morgan State,Illinois State,12,23,13,42,0,Kaza Keane Steal.
+Morgan State,Illinois State,12,23,13,42,0,Kaza Keane Turnover.
+Morgan State,Illinois State,12,23,13,58,0,Dewayne Jackson missed Jumper.
+Morgan State,Illinois State,12,23,13,58,0,Kaza Keane Defensive Rebound.
+Morgan State,Illinois State,12,23,14,34,0,John Wilkins Turnover.
+Morgan State,Illinois State,12,23,14,35,0,Ian Chiles Steal.
+Morgan State,Illinois State,14,23,14,39,1,Anthony Hubbard made Layup.
+Morgan State,Illinois State,14,25,14,55,1,Nick Zeisloft made Jumper.
+Morgan State,Illinois State,14,25,15,12,0,Anthony Hubbard Turnover.
+Morgan State,Illinois State,14,25,15,12,0,Jordan Threloff Steal.
+Morgan State,Illinois State,14,27,15,26,1,Jackie Carmichael made Jumper.  Assisted by Jon Ekey.
+Morgan State,Illinois State,14,27,15,46,0,Foul on Bryant Allen
+Morgan State,Illinois State,15,27,15,46,1,Ian Chiles made Free Throw.
+Morgan State,Illinois State,16,27,15,46,1,Ian Chiles made Free Throw.
+Morgan State,Illinois State,16,29,15,59,1,Johnny Hill made Layup.
+Morgan State,Illinois State,16,29,16,16,0,Ian Chiles missed Jumper.
+Morgan State,Illinois State,16,29,16,16,0,Anthony Hubbard Offensive Rebound.
+Morgan State,Illinois State,18,29,16,19,1,Anthony Hubbard made Layup.
+Morgan State,Illinois State,18,29,16,29,0,Official TV Timeout.
+Morgan State,Illinois State,18,29,16,43,0,Tyler Brown Turnover.
+Morgan State,Illinois State,18,29,16,53,0,Foul on Kaza Keane
+Morgan State,Illinois State,19,29,16,53,1,Ian Chiles made Free Throw.
+Morgan State,Illinois State,20,29,16,53,1,Ian Chiles made Free Throw.
+Morgan State,Illinois State,20,29,17,14,0,Jackie Carmichael missed Jumper.
+Morgan State,Illinois State,20,29,17,14,0,Anthony Hubbard Defensive Rebound.
+Morgan State,Illinois State,20,29,17,22,0,Anthony Hubbard Turnover.
+Morgan State,Illinois State,20,29,17,35,0,Johnny Hill Turnover.
+Morgan State,Illinois State,20,29,17,37,0,Dewayne Jackson Steal.
+Morgan State,Illinois State,20,29,17,41,0,Foul on Justin Black
+Morgan State,Illinois State,20,29,17,41,0,Justin Black Turnover.
+Morgan State,Illinois State,20,29,17,56,0,Jon Ekey missed Three Point Jumper.
+Morgan State,Illinois State,20,29,17,56,0,Jackie Carmichael Offensive Rebound.
+Morgan State,Illinois State,20,31,17,59,1,Jackie Carmichael made Tip Shot.
+Morgan State,Illinois State,20,31,18,10,0,Foul on Jon Ekey
+Morgan State,Illinois State,20,31,18,11,0,Dewayne Jackson missed Jumper.
+Morgan State,Illinois State,20,31,18,11,0,Illinois State Defensive Rebound.
+Morgan State,Illinois State,20,31,18,25,0,Foul on Donte Pretlow
+Morgan State,Illinois State,20,32,18,25,1,Kaza Keane made Free Throw.
+Morgan State,Illinois State,20,32,18,27,0,Kaza Keane missed Free Throw.
+Morgan State,Illinois State,20,32,18,27,0,Johnny Hill Offensive Rebound.
+Morgan State,Illinois State,20,32,18,44,0,Nick Zeisloft missed Layup.
+Morgan State,Illinois State,20,32,18,44,0,Ian Chiles Block.
+Morgan State,Illinois State,20,32,18,46,0,Tauron Bailey Defensive Rebound.
+Morgan State,Illinois State,20,32,18,53,0,Anthony Hubbard missed Jumper.
+Morgan State,Illinois State,20,32,18,53,0,Jon Ekey Defensive Rebound.
+Morgan State,Illinois State,20,32,18,59,0,Bryant Allen missed Three Point Jumper.
+Morgan State,Illinois State,20,32,18,59,0,Dewayne Jackson Defensive Rebound.
+Morgan State,Illinois State,20,32,19,10,0,Dewayne Jackson Turnover.
+Morgan State,Illinois State,20,34,19,25,1,Jackie Carmichael made Layup.
+Morgan State,Illinois State,20,34,19,25,0,Foul on Ian Chiles
+Morgan State,Illinois State,20,35,19,25,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,20,35,19,48,0,Foul on Jon Ekey
+Morgan State,Illinois State,21,35,19,48,1,Tauron Bailey made Free Throw.
+Morgan State,Illinois State,21,35,19,48,0,Tauron Bailey missed Free Throw.
+Morgan State,Illinois State,21,35,19,48,0,John Wilkins Defensive Rebound.
+Morgan State,Illinois State,21,37,19,55,1,Bryant Allen made Jumper.
+Morgan State,Illinois State,21,37,20,0,0,End of the 1st Half.
+Morgan State,Illinois State,21,37,20,13,0,Anthony Hubbard missed Layup.
+Morgan State,Illinois State,21,37,20,13,0,Jackie Carmichael Defensive Rebound.
+Morgan State,Illinois State,21,39,20,31,1,Bryant Allen made Jumper.
+Morgan State,Illinois State,21,39,20,44,0,Blake Bozeman missed Three Point Jumper.
+Morgan State,Illinois State,21,39,20,44,0,Johnny Hill Defensive Rebound.
+Morgan State,Illinois State,21,41,20,54,1,Jon Ekey made Jumper.  Assisted by Johnny Hill.
+Morgan State,Illinois State,21,41,21,2,0,Dewayne Jackson missed Jumper.
+Morgan State,Illinois State,21,41,21,2,0,Jackie Carmichael Defensive Rebound.
+Morgan State,Illinois State,21,41,21,12,0,Jackie Carmichael missed Layup.
+Morgan State,Illinois State,21,41,21,12,0,Ian Chiles Defensive Rebound.
+Morgan State,Illinois State,21,41,21,25,0,Justin Black missed Three Point Jumper.
+Morgan State,Illinois State,21,41,21,25,0,Blake Bozeman Offensive Rebound.
+Morgan State,Illinois State,21,41,21,30,0,Anthony Hubbard missed Layup.
+Morgan State,Illinois State,21,41,21,30,0,Jon Ekey Defensive Rebound.
+Morgan State,Illinois State,21,41,21,38,0,Foul on Blake Bozeman
+Morgan State,Illinois State,21,42,21,38,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,21,43,21,38,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,21,43,21,54,0,Dewayne Jackson missed Three Point Jumper.
+Morgan State,Illinois State,21,43,21,54,0,Anthony Hubbard Offensive Rebound.
+Morgan State,Illinois State,23,43,21,58,1,Anthony Hubbard made Layup.
+Morgan State,Illinois State,23,45,22,24,1,Jackie Carmichael made Jumper.  Assisted by Bryant Allen.
+Morgan State,Illinois State,23,45,22,37,0,Dewayne Jackson missed Layup.
+Morgan State,Illinois State,23,45,22,37,0,Jon Ekey Defensive Rebound.
+Morgan State,Illinois State,23,45,22,40,0,Foul on Dewayne Jackson
+Morgan State,Illinois State,23,45,22,55,0,Bryant Allen Turnover.
+Morgan State,Illinois State,23,45,22,55,0,Tauron Bailey Steal.
+Morgan State,Illinois State,23,45,23,10,0,Foul on Jackie Carmichael
+Morgan State,Illinois State,24,45,23,10,1,Anthony Hubbard made Free Throw.
+Morgan State,Illinois State,24,45,23,11,0,Anthony Hubbard missed Free Throw.
+Morgan State,Illinois State,24,45,23,11,0,Kaza Keane Defensive Rebound.
+Morgan State,Illinois State,24,45,23,17,0,Bryant Allen missed Three Point Jumper.
+Morgan State,Illinois State,24,45,23,17,0,Jackie Carmichael Offensive Rebound.
+Morgan State,Illinois State,24,45,23,21,0,Foul on Justin Black
+Morgan State,Illinois State,24,46,23,22,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,24,47,23,22,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,26,47,23,41,1,Justin Black made Jumper.
+Morgan State,Illinois State,26,47,23,54,0,Bryant Allen missed Layup.
+Morgan State,Illinois State,26,47,23,54,0,Anthony Hubbard Block.
+Morgan State,Illinois State,26,47,23,54,0,Morgan State Defensive Rebound.
+Morgan State,Illinois State,26,47,24,12,0,Official TV Timeout.
+Morgan State,Illinois State,26,47,24,16,0,Foul on Nick Zeisloft
+Morgan State,Illinois State,27,47,24,16,1,Tauron Bailey made Free Throw.
+Morgan State,Illinois State,28,47,24,16,1,Tauron Bailey made Free Throw.
+Morgan State,Illinois State,28,49,24,30,1,John Wilkins made Jumper.
+Morgan State,Illinois State,28,49,24,48,0,Foul on Nick Zeisloft
+Morgan State,Illinois State,29,49,24,48,1,Anthony Hubbard made Free Throw.
+Morgan State,Illinois State,30,49,24,48,1,Anthony Hubbard made Free Throw.
+Morgan State,Illinois State,30,49,25,18,0,John Wilkins Turnover.
+Morgan State,Illinois State,32,49,25,32,1,Justin Black made Layup.
+Morgan State,Illinois State,32,49,25,49,0,John Wilkins missed Three Point Jumper.
+Morgan State,Illinois State,32,49,25,49,0,Morgan State Defensive Rebound.
+Morgan State,Illinois State,34,49,26,7,1,Anthony Hubbard made Jumper.  Assisted by Kaza Keane.
+Morgan State,Illinois State,34,49,26,7,0,Foul on Kaza Keane
+Morgan State,Illinois State,34,49,26,7,0,Anthony Hubbard missed Free Throw.
+Morgan State,Illinois State,34,49,26,7,0,Donte Pretlow Offensive Rebound.
+Morgan State,Illinois State,34,49,26,13,0,Cedric Blossom missed Layup.
+Morgan State,Illinois State,34,49,26,13,0,Anthony Hubbard Offensive Rebound.
+Morgan State,Illinois State,34,49,26,26,0,Anthony Hubbard missed Three Point Jumper.
+Morgan State,Illinois State,34,49,26,26,0,John Wilkins Defensive Rebound.
+Morgan State,Illinois State,34,49,26,48,0,Jackie Carmichael missed Jumper.
+Morgan State,Illinois State,34,49,26,48,0,Shaquille Duncan Defensive Rebound.
+Morgan State,Illinois State,34,49,26,58,0,Foul on Jackie Carmichael
+Morgan State,Illinois State,34,49,27,5,0,Foul on Cedric Blossom
+Morgan State,Illinois State,34,49,27,5,0,Cedric Blossom Turnover.
+Morgan State,Illinois State,34,49,27,6,0,Illinois State Full Timeout.
+Morgan State,Illinois State,34,49,27,8,0,Foul on Donte Pretlow
+Morgan State,Illinois State,34,49,27,30,0,John Wilkins missed Three Point Jumper.
+Morgan State,Illinois State,34,49,27,30,0,Anthony Hubbard Defensive Rebound.
+Morgan State,Illinois State,34,49,27,49,0,Dewayne Jackson missed Three Point Jumper.
+Morgan State,Illinois State,34,49,27,49,0,Dewayne Jackson Offensive Rebound.
+Morgan State,Illinois State,36,49,27,52,1,Dewayne Jackson made Layup.
+Morgan State,Illinois State,36,49,28,10,0,Jackie Carmichael missed Jumper.
+Morgan State,Illinois State,36,49,28,10,0,Tyler Brown Offensive Rebound.
+Morgan State,Illinois State,36,49,28,26,0,Bryant Allen missed Jumper.
+Morgan State,Illinois State,36,49,28,26,0,Cedric Blossom Defensive Rebound.
+Morgan State,Illinois State,38,49,28,35,1,Shaquille Duncan made Dunk.  Assisted by Dewayne Jackson.
+Morgan State,Illinois State,38,49,28,42,0,Foul on Donte Pretlow
+Morgan State,Illinois State,38,49,28,42,0,Official TV Timeout.
+Morgan State,Illinois State,38,51,28,49,1,Jackie Carmichael made Layup.  Assisted by Johnny Hill.
+Morgan State,Illinois State,40,51,29,2,1,Cedric Blossom made Layup.
+Morgan State,Illinois State,40,51,29,2,0,Foul on John Wilkins
+Morgan State,Illinois State,40,51,29,2,0,Johnny Hill Turnover.
+Morgan State,Illinois State,41,51,29,2,1,Cedric Blossom made Free Throw.
+Morgan State,Illinois State,41,51,29,18,0,Foul on Dewayne Jackson
+Morgan State,Illinois State,41,52,29,19,1,John Wilkins made Free Throw.
+Morgan State,Illinois State,41,52,29,29,0,Justin Black missed Jumper.
+Morgan State,Illinois State,41,52,29,29,0,null
+Morgan State,Illinois State,41,52,29,39,0,Blake Bozeman missed Jumper.
+Morgan State,Illinois State,41,52,29,39,0,Jackie Carmichael Defensive Rebound.
+Morgan State,Illinois State,41,53,29,41,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,41,53,29,41,0,Foul on Shaquille Duncan
+Morgan State,Illinois State,41,54,29,41,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,44,54,29,55,1,Justin Black made Three Point Jumper.  Assisted by Anthony Hubbard.
+Morgan State,Illinois State,44,54,30,11,0,Jackie Carmichael Turnover.
+Morgan State,Illinois State,44,54,30,12,0,Dewayne Jackson Steal.
+Morgan State,Illinois State,46,54,30,14,1,Dewayne Jackson made Dunk.
+Morgan State,Illinois State,46,54,30,18,0,Illinois State Full Timeout.
+Morgan State,Illinois State,46,54,30,30,0,Jackie Carmichael missed Layup.
+Morgan State,Illinois State,46,54,30,30,0,Shaquille Duncan Block.
+Morgan State,Illinois State,46,54,30,32,0,Anthony Hubbard Defensive Rebound.
+Morgan State,Illinois State,46,54,30,37,0,Anthony Hubbard Turnover.
+Morgan State,Illinois State,46,54,30,37,0,Johnny Hill Steal.
+Morgan State,Illinois State,46,54,30,41,0,Nick Zeisloft missed Three Point Jumper.
+Morgan State,Illinois State,46,54,30,41,0,Anthony Hubbard Defensive Rebound.
+Morgan State,Illinois State,46,54,30,43,0,Foul on Bryant Allen
+Morgan State,Illinois State,46,54,30,43,0,Anthony Hubbard missed Free Throw.
+Morgan State,Illinois State,46,54,30,43,0,Shaquille Duncan Offensive Rebound.
+Morgan State,Illinois State,46,54,30,47,0,Foul on Nick Zeisloft
+Morgan State,Illinois State,46,54,30,47,0,Shaquille Duncan missed Free Throw.
+Morgan State,Illinois State,46,54,30,47,0,Jackie Carmichael Defensive Rebound.
+Morgan State,Illinois State,46,55,30,49,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,46,55,30,49,0,Foul on Anthony Hubbard
+Morgan State,Illinois State,46,56,30,49,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,46,56,30,55,0,Dewayne Jackson missed Dunk.
+Morgan State,Illinois State,46,56,30,55,0,Jon Ekey Defensive Rebound.
+Morgan State,Illinois State,46,56,31,0,0,Foul on Dewayne Jackson
+Morgan State,Illinois State,46,57,31,0,1,Jon Ekey made Free Throw.
+Morgan State,Illinois State,46,58,31,1,1,Jon Ekey made Free Throw.
+Morgan State,Illinois State,46,58,31,10,0,Justin Black missed Three Point Jumper.
+Morgan State,Illinois State,46,58,31,10,0,Johnny Hill Defensive Rebound.
+Morgan State,Illinois State,46,60,31,21,1,Jackie Carmichael made Layup.  Assisted by Nick Zeisloft.
+Morgan State,Illinois State,46,60,31,39,0,Anthony Hubbard Turnover.
+Morgan State,Illinois State,46,60,31,40,0,Jon Ekey Steal.
+Morgan State,Illinois State,46,60,31,45,0,null
+Morgan State,Illinois State,46,60,31,45,0,Johnny Hill missed Free Throw.
+Morgan State,Illinois State,46,60,31,45,0,Foul on Shaquille Duncan
+Morgan State,Illinois State,46,60,31,45,0,Johnny Hill missed Free Throw.
+Morgan State,Illinois State,46,60,31,45,0,Shaquille Duncan Defensive Rebound.
+Morgan State,Illinois State,46,60,32,2,0,Official TV Timeout.
+Morgan State,Illinois State,48,60,32,9,1,Tauron Bailey made Jumper.  Assisted by Shaquille Duncan.
+Morgan State,Illinois State,48,60,32,28,0,Bryant Allen Turnover.
+Morgan State,Illinois State,48,60,32,29,0,Anthony Hubbard Steal.
+Morgan State,Illinois State,48,60,32,32,0,Foul on John Wilkins
+Morgan State,Illinois State,49,60,32,32,1,Anthony Hubbard made Free Throw.
+Morgan State,Illinois State,49,60,32,32,0,Anthony Hubbard missed Free Throw.
+Morgan State,Illinois State,49,60,32,32,0,Morgan State Offensive Rebound.
+Morgan State,Illinois State,52,60,32,54,1,Justin Black made Three Point Jumper.  Assisted by Blake Bozeman.
+Morgan State,Illinois State,52,60,33,33,0,Foul on Anthony Hubbard
+Morgan State,Illinois State,52,61,33,33,1,Jackie Carmichael made Free Throw.
+Morgan State,Illinois State,52,61,33,33,0,Jackie Carmichael missed Free Throw.
+Morgan State,Illinois State,52,61,33,33,0,John Wilkins Offensive Rebound.
+Morgan State,Illinois State,52,61,33,35,0,Foul on Tauron Bailey
+Morgan State,Illinois State,52,62,33,35,1,John Wilkins made Free Throw.
+Morgan State,Illinois State,52,63,33,35,1,John Wilkins made Free Throw.
+Morgan State,Illinois State,52,63,33,48,0,Justin Black missed Three Point Jumper.
+Morgan State,Illinois State,52,63,33,48,0,Illinois State Defensive Rebound.
+Morgan State,Illinois State,52,63,34,3,0,Foul on Blake Bozeman
+Morgan State,Illinois State,52,64,34,3,1,Kaza Keane made Free Throw.
+Morgan State,Illinois State,52,64,34,3,0,Kaza Keane missed Free Throw.
+Morgan State,Illinois State,52,64,34,3,0,Justin Black Defensive Rebound.
+Morgan State,Illinois State,52,64,34,14,0,Foul on Jon Ekey
+Morgan State,Illinois State,52,64,34,14,0,Justin Black missed Free Throw.
+Morgan State,Illinois State,52,64,34,14,0,null
+Morgan State,Illinois State,53,64,34,14,1,Justin Black made Free Throw.
+Morgan State,Illinois State,53,64,34,33,0,Jackie Carmichael Turnover.
+Morgan State,Illinois State,53,64,34,34,0,Shaquille Duncan Steal.
+Morgan State,Illinois State,53,64,34,35,0,Tauron Bailey Turnover.
+Morgan State,Illinois State,53,64,34,37,0,Bryant Allen Steal.
+Morgan State,Illinois State,53,64,34,50,0,Kaza Keane missed Layup.
+Morgan State,Illinois State,53,64,34,50,0,Shaquille Duncan Block.
+Morgan State,Illinois State,53,64,34,52,0,Anthony Hubbard Defensive Rebound.
+Morgan State,Illinois State,55,64,34,57,1,Justin Black made Layup.
+Morgan State,Illinois State,55,64,35,20,0,Bryant Allen missed Jumper.
+Morgan State,Illinois State,55,64,35,20,0,Tauron Bailey Defensive Rebound.
+Morgan State,Illinois State,55,64,35,28,0,Anthony Hubbard Turnover.
+Morgan State,Illinois State,55,64,35,28,0,Kaza Keane Steal.
+Morgan State,Illinois State,55,66,35,32,1,Jackie Carmichael made Dunk.  Assisted by Bryant Allen.
+Morgan State,Illinois State,55,66,35,36,0,Illinois State Full Timeout.
+Morgan State,Illinois State,55,66,35,49,0,Shaquille Duncan Turnover.
+Morgan State,Illinois State,55,66,35,50,0,Bryant Allen Steal.
+Morgan State,Illinois State,55,68,35,51,1,Bryant Allen made Layup.  Assisted by Kaza Keane.
+Morgan State,Illinois State,55,68,36,4,0,Shaquille Duncan Turnover.
+Morgan State,Illinois State,55,68,36,5,0,Johnny Hill Steal.
+Morgan State,Illinois State,55,71,36,13,1,Jon Ekey made Three Point Jumper.  Assisted by Kaza Keane.
+Morgan State,Illinois State,55,71,36,43,0,Foul on Jon Ekey
+Morgan State,Illinois State,55,71,36,43,0,Official TV Timeout.
+Morgan State,Illinois State,55,71,36,43,0,Tauron Bailey missed Free Throw.
+Morgan State,Illinois State,55,71,36,43,0,null
+Morgan State,Illinois State,55,71,36,43,0,Tauron Bailey missed Free Throw.
+Morgan State,Illinois State,55,71,36,43,0,Jordan Threloff Defensive Rebound.
+Morgan State,Illinois State,55,71,37,7,0,Foul on Shaquille Duncan
+Morgan State,Illinois State,55,72,37,7,1,Jon Ekey made Free Throw.
+Morgan State,Illinois State,55,73,37,7,1,Jon Ekey made Free Throw.
+Morgan State,Illinois State,55,73,37,14,0,Justin Black Turnover.
+Morgan State,Illinois State,55,73,37,15,0,Jon Ekey Steal.
+Morgan State,Illinois State,55,73,37,38,0,Bryant Allen missed Three Point Jumper.
+Morgan State,Illinois State,55,73,37,38,0,Dewayne Jackson Defensive Rebound.
+Morgan State,Illinois State,55,73,37,47,0,Foul on Kaza Keane
+Morgan State,Illinois State,56,73,37,47,1,Anthony Hubbard made Free Throw.
+Morgan State,Illinois State,57,73,37,47,1,Anthony Hubbard made Free Throw.
+Morgan State,Illinois State,57,75,38,10,1,Jon Ekey made Dunk.  Assisted by Kaza Keane.
+Morgan State,Illinois State,57,75,38,24,0,Anthony Hubbard Turnover.
+Morgan State,Illinois State,57,75,38,28,0,Johnny Hill Steal.
+Morgan State,Illinois State,57,77,38,48,1,Jon Ekey made Layup.  Assisted by Kaza Keane.
+Morgan State,Illinois State,57,77,38,55,0,Justin Black missed Layup.
+Morgan State,Illinois State,57,77,38,55,0,Jackie Carmichael Defensive Rebound.
+Morgan State,Illinois State,57,77,39,25,0,Johnny Hill Turnover.
+Morgan State,Illinois State,60,77,39,38,1,Blake Bozeman made Three Point Jumper.
+Morgan State,Illinois State,60,77,40,0,0,End Game

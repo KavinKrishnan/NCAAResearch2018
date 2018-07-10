@@ -1,0 +1,331 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Minnesota,Nebraska,0,0,0,0,0,Jump Ball won by Minnesota
+Minnesota,Nebraska,0,0,0,25,0,Jordan Murphy Turnover.
+Minnesota,Nebraska,0,0,0,25,0,Glynn Watson Jr. Steal.
+Minnesota,Nebraska,0,0,0,42,0,Benny Parker missed Three Point Jumper.
+Minnesota,Nebraska,0,0,0,42,0,Benny Parker Offensive Rebound.
+Minnesota,Nebraska,0,0,0,51,0,Benny Parker missed Jumper.
+Minnesota,Nebraska,0,0,0,51,0,Jordan Murphy Defensive Rebound.
+Minnesota,Nebraska,0,0,1,13,0,Jordan Murphy missed Layup.
+Minnesota,Nebraska,0,0,1,13,0,Michael Jacobson Block.
+Minnesota,Nebraska,0,0,1,13,0,Jordan Murphy Offensive Rebound.
+Minnesota,Nebraska,2,0,1,21,1,Jordan Murphy made Layup.
+Minnesota,Nebraska,2,0,1,40,0,Andrew White missed Jumper.
+Minnesota,Nebraska,2,0,1,40,0,Bakary Konate Defensive Rebound.
+Minnesota,Nebraska,4,0,1,50,1,Dupree McBrayer made Layup.
+Minnesota,Nebraska,4,0,2,25,0,Shavon Shields missed Jumper.
+Minnesota,Nebraska,4,0,2,25,0,Shavon Shields Offensive Rebound.
+Minnesota,Nebraska,4,0,2,25,0,Foul on Bakary Konate.
+Minnesota,Nebraska,4,1,2,25,1,Shavon Shields made Free Throw.
+Minnesota,Nebraska,4,2,2,25,1,Shavon Shields made Free Throw.
+Minnesota,Nebraska,4,2,2,53,0,Jordan Murphy Turnover.
+Minnesota,Nebraska,4,2,2,53,0,Glynn Watson Jr. Steal.
+Minnesota,Nebraska,4,4,3,0,1,Glynn Watson Jr. made Jumper.
+Minnesota,Nebraska,6,4,3,21,1,Bakary Konate made Jumper.
+Minnesota,Nebraska,6,4,3,47,0,Shavon Shields Turnover.
+Minnesota,Nebraska,6,4,3,47,0,Ahmad Gilbert Steal.
+Minnesota,Nebraska,8,4,3,54,1,Dupree McBrayer made Layup. Assisted by Ahmad Gilbert.
+Minnesota,Nebraska,8,4,4,17,0,Foul on Dupree McBrayer.
+Minnesota,Nebraska,8,4,4,17,0,Official TV Timeout
+Minnesota,Nebraska,8,6,4,21,1,Shavon Shields made Layup. Assisted by Michael Jacobson.
+Minnesota,Nebraska,8,6,4,44,0,Jump Ball won by Nebraska
+Minnesota,Nebraska,8,6,4,44,0,Jordan Murphy Turnover.
+Minnesota,Nebraska,8,6,4,44,0,Michael Jacobson Steal.
+Minnesota,Nebraska,8,9,4,51,1,Andrew White made Three Point Jumper. Assisted by Benny Parker.
+Minnesota,Nebraska,8,9,5,11,0,Joey King missed Three Point Jumper.
+Minnesota,Nebraska,8,9,5,11,0,Shavon Shields Defensive Rebound.
+Minnesota,Nebraska,8,9,5,23,0,Andrew White missed Three Point Jumper.
+Minnesota,Nebraska,8,9,5,23,0,Jordan Murphy Defensive Rebound.
+Minnesota,Nebraska,8,9,5,35,0,Foul on Benny Parker.
+Minnesota,Nebraska,8,9,5,44,0,Ahmad Gilbert missed Jumper.
+Minnesota,Nebraska,8,9,5,44,0,Shavon Shields Defensive Rebound.
+Minnesota,Nebraska,8,11,5,52,1,Ed Morrow made Layup. Assisted by Shavon Shields.
+Minnesota,Nebraska,8,11,5,52,0,Foul on Carlos Morris.
+Minnesota,Nebraska,8,12,5,52,1,Ed Morrow made Free Throw.
+Minnesota,Nebraska,8,12,6,18,0,Nate Mason Turnover.
+Minnesota,Nebraska,8,12,6,18,0,Shavon Shields Steal.
+Minnesota,Nebraska,8,12,6,23,0,Tai Webster missed Layup.
+Minnesota,Nebraska,8,12,6,23,0,Andrew White Offensive Rebound.
+Minnesota,Nebraska,8,12,6,28,0,Andrew White missed Layup.
+Minnesota,Nebraska,8,12,6,28,0,Jordan Murphy Defensive Rebound.
+Minnesota,Nebraska,10,12,6,36,1,Jordan Murphy made Layup.
+Minnesota,Nebraska,10,15,7,0,1,Tai Webster made Three Point Jumper. Assisted by Andrew White.
+Minnesota,Nebraska,10,15,7,20,0,Jordan Murphy missed Three Point Jumper.
+Minnesota,Nebraska,10,15,7,20,0,Andrew White Defensive Rebound.
+Minnesota,Nebraska,10,18,7,37,1,Shavon Shields made Three Point Jumper. Assisted by Tai Webster.
+Minnesota,Nebraska,10,18,8,0,0,Joey King missed Jumper.
+Minnesota,Nebraska,10,18,8,0,0,Shavon Shields Block.
+Minnesota,Nebraska,10,18,8,0,0,Benny Parker Defensive Rebound.
+Minnesota,Nebraska,10,18,8,31,0,Shavon Shields missed Three Point Jumper.
+Minnesota,Nebraska,10,18,8,31,0,Charles Buggs Defensive Rebound.
+Minnesota,Nebraska,12,18,8,59,1,Jordan Murphy made Dunk.
+Minnesota,Nebraska,12,18,9,24,0,Foul on Nate Mason.
+Minnesota,Nebraska,12,18,9,24,0,Official TV Timeout
+Minnesota,Nebraska,12,20,9,31,1,Shavon Shields made Layup.
+Minnesota,Nebraska,12,20,10,1,0,Foul on Tai Webster.
+Minnesota,Nebraska,12,20,10,12,0,Dupree McBrayer Turnover.
+Minnesota,Nebraska,12,20,10,12,0,Glynn Watson Jr. Steal.
+Minnesota,Nebraska,12,22,10,18,1,Shavon Shields made Layup. Assisted by Glynn Watson Jr..
+Minnesota,Nebraska,12,22,10,34,0,Foul on Glynn Watson Jr..
+Minnesota,Nebraska,12,22,10,34,0,Bakary Konate Turnover.
+Minnesota,Nebraska,12,22,10,44,0,Foul on Dupree McBrayer.
+Minnesota,Nebraska,12,24,10,50,1,Glynn Watson Jr. made Jumper.
+Minnesota,Nebraska,12,24,11,5,0,Foul on Jack McVeigh.
+Minnesota,Nebraska,12,24,11,7,0,Joey King missed Three Point Jumper.
+Minnesota,Nebraska,12,24,11,7,0,Nebraska Defensive Rebound.
+Minnesota,Nebraska,12,26,11,25,1,Jack McVeigh made Jumper. Assisted by Glynn Watson Jr..
+Minnesota,Nebraska,12,26,11,28,0,Minnesota  Timeout
+Minnesota,Nebraska,12,26,11,34,0,Ahmad Gilbert missed Three Point Jumper.
+Minnesota,Nebraska,12,26,11,34,0,Glynn Watson Jr. Defensive Rebound.
+Minnesota,Nebraska,12,26,11,45,0,Andrew White missed Three Point Jumper.
+Minnesota,Nebraska,12,26,11,45,0,Michael Jacobson Offensive Rebound.
+Minnesota,Nebraska,12,26,11,53,0,Foul on Bakary Konate.
+Minnesota,Nebraska,12,27,11,53,1,Michael Jacobson made Free Throw.
+Minnesota,Nebraska,12,28,11,53,1,Michael Jacobson made Free Throw.
+Minnesota,Nebraska,12,28,11,56,0,Foul on Glynn Watson Jr..
+Minnesota,Nebraska,12,28,12,13,0,Carlos Morris Turnover.
+Minnesota,Nebraska,12,28,12,13,0,Andrew White Steal.
+Minnesota,Nebraska,12,28,12,20,0,Benny Parker missed Layup.
+Minnesota,Nebraska,12,28,12,20,0,Tai Webster Offensive Rebound.
+Minnesota,Nebraska,12,30,12,20,1,Tai Webster made Two Point Tip Shot.
+Minnesota,Nebraska,12,30,12,30,0,Joey King Turnover.
+Minnesota,Nebraska,12,30,12,30,0,Andrew White Steal.
+Minnesota,Nebraska,12,30,12,34,0,Michael Jacobson Turnover.
+Minnesota,Nebraska,12,30,12,34,0,Official TV Timeout
+Minnesota,Nebraska,12,30,12,40,0,Carlos Morris Turnover.
+Minnesota,Nebraska,12,30,12,54,0,Foul on Jordan Murphy.
+Minnesota,Nebraska,12,30,12,54,0,Michael Jacobson missed Free Throw.
+Minnesota,Nebraska,12,30,12,54,0,Nebraska Deadball Team Rebound.
+Minnesota,Nebraska,12,31,12,54,1,Michael Jacobson made Free Throw.
+Minnesota,Nebraska,12,31,13,17,0,Nate Mason missed Jumper.
+Minnesota,Nebraska,12,31,13,17,0,Michael Jacobson Defensive Rebound.
+Minnesota,Nebraska,12,31,13,25,0,Tai Webster missed Layup.
+Minnesota,Nebraska,12,31,13,25,0,Michael Jacobson Offensive Rebound.
+Minnesota,Nebraska,12,31,13,25,0,Michael Jacobson missed Two Point Tip Shot.
+Minnesota,Nebraska,12,31,13,25,0,Nebraska Offensive Rebound.
+Minnesota,Nebraska,12,31,13,31,0,Foul on Jordan Murphy.
+Minnesota,Nebraska,12,32,13,31,1,Shavon Shields made Free Throw.
+Minnesota,Nebraska,12,33,13,31,1,Shavon Shields made Free Throw.
+Minnesota,Nebraska,12,33,13,38,0,Ahmad Gilbert missed Three Point Jumper.
+Minnesota,Nebraska,12,33,13,38,0,Tai Webster Defensive Rebound.
+Minnesota,Nebraska,12,33,13,48,0,Jack McVeigh missed Jumper.
+Minnesota,Nebraska,12,33,13,48,0,Carlos Morris Block.
+Minnesota,Nebraska,12,33,13,48,0,Ahmad Gilbert Defensive Rebound.
+Minnesota,Nebraska,12,33,13,52,0,Foul on Benny Parker.
+Minnesota,Nebraska,13,33,13,52,1,Nate Mason made Free Throw.
+Minnesota,Nebraska,14,33,13,52,1,Nate Mason made Free Throw.
+Minnesota,Nebraska,14,33,14,3,0,Andrew White Turnover.
+Minnesota,Nebraska,14,33,14,3,0,Carlos Morris Steal.
+Minnesota,Nebraska,14,33,14,9,0,Ahmad Gilbert missed Three Point Jumper.
+Minnesota,Nebraska,14,33,14,9,0,Michael Jacobson Defensive Rebound.
+Minnesota,Nebraska,14,35,14,25,1,Shavon Shields made Jumper.
+Minnesota,Nebraska,16,35,14,36,1,Carlos Morris made Jumper.
+Minnesota,Nebraska,16,35,14,52,0,Foul on Nate Mason.
+Minnesota,Nebraska,16,36,14,52,1,Michael Jacobson made Free Throw.
+Minnesota,Nebraska,16,37,14,52,1,Michael Jacobson made Free Throw.
+Minnesota,Nebraska,16,37,15,16,0,Foul on Ed Morrow.
+Minnesota,Nebraska,17,37,15,16,1,Gaston Diedhiou made Free Throw.
+Minnesota,Nebraska,18,37,15,16,1,Gaston Diedhiou made Free Throw.
+Minnesota,Nebraska,18,39,15,34,1,Ed Morrow made Layup. Assisted by Tai Webster.
+Minnesota,Nebraska,18,39,15,44,0,Foul on Andrew White.
+Minnesota,Nebraska,18,39,15,44,0,Carlos Morris missed Free Throw.
+Minnesota,Nebraska,18,39,15,44,0,Minnesota Deadball Team Rebound.
+Minnesota,Nebraska,19,39,15,44,1,Carlos Morris made Free Throw.
+Minnesota,Nebraska,19,39,16,3,0,Andrew White Turnover.
+Minnesota,Nebraska,19,39,16,3,0,Official TV Timeout
+Minnesota,Nebraska,19,39,16,22,0,Joey King missed Jumper.
+Minnesota,Nebraska,19,39,16,22,0,Andrew White Defensive Rebound.
+Minnesota,Nebraska,19,41,16,31,1,Tai Webster made Layup.
+Minnesota,Nebraska,19,41,16,32,0,Minnesota  Timeout
+Minnesota,Nebraska,19,41,16,57,0,Kevin Dorsey missed Layup.
+Minnesota,Nebraska,19,41,16,57,0,Jordan Murphy Offensive Rebound.
+Minnesota,Nebraska,21,41,16,57,1,Jordan Murphy made Two Point Tip Shot.
+Minnesota,Nebraska,21,41,17,23,0,Tai Webster Turnover.
+Minnesota,Nebraska,21,41,17,23,0,Carlos Morris Steal.
+Minnesota,Nebraska,21,41,17,27,0,Foul on Bakari Evelyn.
+Minnesota,Nebraska,22,41,17,27,1,Kevin Dorsey made Free Throw.
+Minnesota,Nebraska,23,41,17,27,1,Kevin Dorsey made Free Throw.
+Minnesota,Nebraska,23,41,17,38,0,Shavon Shields missed Jumper.
+Minnesota,Nebraska,23,41,17,38,0,Ed Morrow Offensive Rebound.
+Minnesota,Nebraska,23,41,17,49,0,Jack McVeigh missed Three Point Jumper.
+Minnesota,Nebraska,23,41,17,49,0,Minnesota Defensive Rebound.
+Minnesota,Nebraska,23,41,18,6,0,Gaston Diedhiou missed Jumper.
+Minnesota,Nebraska,23,41,18,6,0,Tai Webster Defensive Rebound.
+Minnesota,Nebraska,23,43,18,15,1,Shavon Shields made Layup.
+Minnesota,Nebraska,23,43,18,18,0,Nebraska  Timeout
+Minnesota,Nebraska,23,43,18,27,0,Foul on Bakari Evelyn.
+Minnesota,Nebraska,24,43,18,27,1,Kevin Dorsey made Free Throw.
+Minnesota,Nebraska,25,43,18,27,1,Kevin Dorsey made Free Throw.
+Minnesota,Nebraska,25,43,18,54,0,Tai Webster missed Three Point Jumper.
+Minnesota,Nebraska,25,43,18,54,0,Andrew White Offensive Rebound.
+Minnesota,Nebraska,25,43,18,55,0,Foul on Andrew White.
+Minnesota,Nebraska,25,43,18,55,0,Andrew White Turnover.
+Minnesota,Nebraska,26,43,18,55,1,Kevin Dorsey made Free Throw.
+Minnesota,Nebraska,26,43,18,55,0,Kevin Dorsey missed Free Throw.
+Minnesota,Nebraska,26,43,18,57,0,Shavon Shields Defensive Rebound.
+Minnesota,Nebraska,26,43,19,8,0,Foul on Gaston Diedhiou.
+Minnesota,Nebraska,26,44,19,8,1,Shavon Shields made Free Throw.
+Minnesota,Nebraska,26,45,19,8,1,Shavon Shields made Free Throw.
+Minnesota,Nebraska,26,45,19,20,0,Carlos Morris missed Three Point Jumper.
+Minnesota,Nebraska,26,45,19,20,0,Bakari Evelyn Defensive Rebound.
+Minnesota,Nebraska,26,47,19,39,1,Nick Fuller made Layup.
+Minnesota,Nebraska,26,47,19,59,0,Kevin Dorsey missed Jumper.
+Minnesota,Nebraska,26,47,19,59,0,Shavon Shields Defensive Rebound.
+Minnesota,Nebraska,26,47,20,0,0,End of 1st half
+Minnesota,Nebraska,26,47,20,0,0,Jump Ball won by Minnesota
+Minnesota,Nebraska,26,47,20,15,0,Bakary Konate missed Layup.
+Minnesota,Nebraska,26,47,20,15,0,Michael Jacobson Block.
+Minnesota,Nebraska,26,47,20,15,0,Minnesota Offensive Rebound.
+Minnesota,Nebraska,26,47,20,27,0,Jordan Murphy missed Layup.
+Minnesota,Nebraska,26,47,20,27,0,Michael Jacobson Block.
+Minnesota,Nebraska,26,47,20,27,0,Benny Parker Defensive Rebound.
+Minnesota,Nebraska,26,49,20,31,1,Shavon Shields made Layup. Assisted by Benny Parker.
+Minnesota,Nebraska,26,49,20,31,0,Foul on Dupree McBrayer.
+Minnesota,Nebraska,26,49,20,31,0,Shavon Shields missed Free Throw.
+Minnesota,Nebraska,26,49,20,31,0,Jordan Murphy Defensive Rebound.
+Minnesota,Nebraska,26,49,20,45,0,Ahmad Gilbert missed Three Point Jumper.
+Minnesota,Nebraska,26,49,20,45,0,Shavon Shields Defensive Rebound.
+Minnesota,Nebraska,26,49,20,52,0,Foul on Dupree McBrayer.
+Minnesota,Nebraska,26,50,20,52,1,Shavon Shields made Free Throw.
+Minnesota,Nebraska,26,51,20,52,1,Shavon Shields made Free Throw.
+Minnesota,Nebraska,26,51,21,23,0,Nate Mason Turnover.
+Minnesota,Nebraska,26,51,21,23,0,Glynn Watson Jr. Steal.
+Minnesota,Nebraska,26,53,21,26,1,Andrew White made Dunk. Assisted by Glynn Watson Jr..
+Minnesota,Nebraska,26,53,21,43,0,Carlos Morris missed Jumper.
+Minnesota,Nebraska,26,53,21,43,0,Michael Jacobson Defensive Rebound.
+Minnesota,Nebraska,26,53,21,43,0,Foul on Bakary Konate.
+Minnesota,Nebraska,26,55,22,2,1,Michael Jacobson made Jumper. Assisted by Andrew White.
+Minnesota,Nebraska,28,55,22,23,1,Bakary Konate made Dunk. Assisted by Jordan Murphy.
+Minnesota,Nebraska,28,57,22,47,1,Glynn Watson Jr. made Jumper.
+Minnesota,Nebraska,28,57,22,58,0,Foul on Michael Jacobson.
+Minnesota,Nebraska,28,57,22,58,0,Carlos Morris missed Free Throw.
+Minnesota,Nebraska,28,57,22,58,0,Minnesota Deadball Team Rebound.
+Minnesota,Nebraska,29,57,22,58,1,Carlos Morris made Free Throw.
+Minnesota,Nebraska,29,57,23,17,0,Andrew White missed Three Point Jumper.
+Minnesota,Nebraska,29,57,23,17,0,Michael Jacobson Offensive Rebound.
+Minnesota,Nebraska,29,57,23,18,0,Foul on Jordan Murphy.
+Minnesota,Nebraska,29,59,23,21,1,Michael Jacobson made Layup. Assisted by Tai Webster.
+Minnesota,Nebraska,29,59,23,30,0,Nate Mason missed Three Point Jumper.
+Minnesota,Nebraska,29,59,23,30,0,Jordan Murphy Offensive Rebound.
+Minnesota,Nebraska,29,59,23,31,0,Foul on Michael Jacobson.
+Minnesota,Nebraska,29,59,23,34,0,Carlos Morris Turnover.
+Minnesota,Nebraska,29,59,23,45,0,Foul on Carlos Morris.
+Minnesota,Nebraska,29,59,23,45,0,Shavon Shields missed Free Throw.
+Minnesota,Nebraska,29,59,23,45,0,Nebraska Deadball Team Rebound.
+Minnesota,Nebraska,29,60,23,45,1,Shavon Shields made Free Throw.
+Minnesota,Nebraska,31,60,24,1,1,Nate Mason made Jumper.
+Minnesota,Nebraska,31,60,24,8,0,Tai Webster Turnover.
+Minnesota,Nebraska,31,60,24,8,0,Official TV Timeout
+Minnesota,Nebraska,33,60,24,10,1,Jordan Murphy made Jumper.
+Minnesota,Nebraska,33,62,24,26,1,Andrew White made Jumper. Assisted by Benny Parker.
+Minnesota,Nebraska,33,62,24,38,0,Kevin Dorsey missed Jumper.
+Minnesota,Nebraska,33,62,24,50,0,Jordan Murphy Turnover.
+Minnesota,Nebraska,33,62,24,50,0,Shavon Shields Steal.
+Minnesota,Nebraska,33,62,24,50,0,Jordan Murphy Offensive Rebound.
+Minnesota,Nebraska,33,64,25,8,1,Tai Webster made Jumper.
+Minnesota,Nebraska,35,64,25,37,1,Jordan Murphy made Dunk.
+Minnesota,Nebraska,35,64,26,5,0,Tai Webster Turnover.
+Minnesota,Nebraska,35,64,26,24,0,Jordan Murphy missed Three Point Jumper.
+Minnesota,Nebraska,35,64,26,24,0,Tai Webster Defensive Rebound.
+Minnesota,Nebraska,35,64,26,34,0,Foul on Nate Mason.
+Minnesota,Nebraska,35,64,26,46,0,Ed Morrow missed Jumper.
+Minnesota,Nebraska,35,64,26,46,0,Ed Morrow Offensive Rebound.
+Minnesota,Nebraska,35,64,26,50,0,Benny Parker Turnover.
+Minnesota,Nebraska,35,64,27,3,0,Nate Mason missed Layup.
+Minnesota,Nebraska,35,64,27,3,0,Tai Webster Defensive Rebound.
+Minnesota,Nebraska,35,67,27,13,1,Andrew White made Three Point Jumper. Assisted by Tai Webster.
+Minnesota,Nebraska,35,67,27,28,0,Charles Buggs missed Three Point Jumper.
+Minnesota,Nebraska,35,67,27,28,0,Andrew White Defensive Rebound.
+Minnesota,Nebraska,35,67,27,30,0,Foul on Jordan Murphy.
+Minnesota,Nebraska,35,68,27,30,1,Andrew White made Free Throw.
+Minnesota,Nebraska,35,69,27,30,1,Andrew White made Free Throw.
+Minnesota,Nebraska,35,69,27,41,0,Kevin Dorsey missed Three Point Jumper.
+Minnesota,Nebraska,35,69,27,41,0,Andrew White Defensive Rebound.
+Minnesota,Nebraska,35,69,27,51,0,Jack McVeigh missed Three Point Jumper.
+Minnesota,Nebraska,35,69,27,51,0,Jack McVeigh Offensive Rebound.
+Minnesota,Nebraska,35,69,27,59,0,Jack McVeigh Turnover.
+Minnesota,Nebraska,35,69,27,59,0,Ahmad Gilbert Steal.
+Minnesota,Nebraska,37,69,28,5,1,Ahmad Gilbert made Layup. Assisted by Kevin Dorsey.
+Minnesota,Nebraska,37,72,28,21,1,Andrew White made Three Point Jumper. Assisted by Tai Webster.
+Minnesota,Nebraska,37,72,28,37,0,Ahmad Gilbert missed Three Point Jumper.
+Minnesota,Nebraska,37,72,28,37,0,Bakary Konate Offensive Rebound.
+Minnesota,Nebraska,37,72,28,39,0,Foul on Ed Morrow.
+Minnesota,Nebraska,37,72,28,39,0,Official TV Timeout
+Minnesota,Nebraska,37,72,28,39,0,Bakary Konate missed Free Throw.
+Minnesota,Nebraska,37,72,28,39,0,Minnesota Deadball Team Rebound.
+Minnesota,Nebraska,38,72,28,39,1,Bakary Konate made Free Throw.
+Minnesota,Nebraska,38,74,28,57,1,Glynn Watson Jr. made Jumper.
+Minnesota,Nebraska,38,74,29,15,0,Kevin Dorsey Turnover.
+Minnesota,Nebraska,38,74,29,33,0,Tai Webster missed Three Point Jumper.
+Minnesota,Nebraska,38,74,29,33,0,Shavon Shields Offensive Rebound.
+Minnesota,Nebraska,38,74,29,53,0,Glynn Watson Jr. missed Jumper.
+Minnesota,Nebraska,38,74,29,53,0,Bakary Konate Block.
+Minnesota,Nebraska,38,74,29,53,0,Minnesota Defensive Rebound.
+Minnesota,Nebraska,40,74,29,58,1,Nate Mason made Jumper.
+Minnesota,Nebraska,40,76,30,25,1,Ed Morrow made Layup. Assisted by Jack McVeigh.
+Minnesota,Nebraska,40,76,30,43,0,Minnesota  Timeout
+Minnesota,Nebraska,40,76,30,49,0,Nate Mason missed Jumper.
+Minnesota,Nebraska,40,76,30,49,0,Shavon Shields Defensive Rebound.
+Minnesota,Nebraska,40,78,31,15,1,Jack McVeigh made Layup.
+Minnesota,Nebraska,42,78,31,35,1,Nate Mason made Jumper.
+Minnesota,Nebraska,42,78,32,10,0,Nebraska  Turnover.
+Minnesota,Nebraska,42,78,32,10,0,Official TV Timeout
+Minnesota,Nebraska,42,78,32,19,0,Foul on Andrew White.
+Minnesota,Nebraska,42,78,32,24,0,Nate Mason Turnover.
+Minnesota,Nebraska,42,80,32,47,1,Ed Morrow made Dunk. Assisted by Shavon Shields.
+Minnesota,Nebraska,42,80,33,4,0,Bakary Konate missed Jumper.
+Minnesota,Nebraska,42,80,33,4,0,Andrew White Defensive Rebound.
+Minnesota,Nebraska,42,80,33,13,0,Benny Parker missed Three Point Jumper.
+Minnesota,Nebraska,42,80,33,13,0,Dupree McBrayer Defensive Rebound.
+Minnesota,Nebraska,42,80,33,15,0,Foul on Ed Morrow.
+Minnesota,Nebraska,42,80,33,40,0,Dupree McBrayer Turnover.
+Minnesota,Nebraska,42,80,34,1,0,Jack McVeigh missed Three Point Jumper.
+Minnesota,Nebraska,42,80,34,1,0,Ed Morrow Offensive Rebound.
+Minnesota,Nebraska,42,80,34,8,0,Ed Morrow Turnover.
+Minnesota,Nebraska,42,80,34,8,0,Ahmad Gilbert Steal.
+Minnesota,Nebraska,42,80,34,11,0,Nate Mason Turnover.
+Minnesota,Nebraska,42,80,34,33,0,Nick Fuller Turnover.
+Minnesota,Nebraska,42,80,34,33,0,Ahmad Gilbert Steal.
+Minnesota,Nebraska,44,80,34,37,1,Dupree McBrayer made Dunk. Assisted by Ahmad Gilbert.
+Minnesota,Nebraska,44,80,34,53,0,Bakari Evelyn missed Jumper.
+Minnesota,Nebraska,44,80,34,53,0,Kevin Dorsey Defensive Rebound.
+Minnesota,Nebraska,44,80,35,2,0,Kevin Dorsey missed Jumper.
+Minnesota,Nebraska,44,80,35,2,0,Nick Fuller Defensive Rebound.
+Minnesota,Nebraska,44,80,35,16,0,Foul on Jordan Murphy.
+Minnesota,Nebraska,44,81,35,16,1,Nick Fuller made Free Throw.
+Minnesota,Nebraska,44,81,35,16,0,Nick Fuller missed Free Throw.
+Minnesota,Nebraska,44,81,35,16,0,Joey King Defensive Rebound.
+Minnesota,Nebraska,47,81,35,35,1,Ahmad Gilbert made Three Point Jumper. Assisted by Dupree McBrayer.
+Minnesota,Nebraska,47,81,35,48,0,Nick Fuller missed Jumper.
+Minnesota,Nebraska,47,81,35,48,0,Nebraska Offensive Rebound.
+Minnesota,Nebraska,47,81,35,53,0,Bakari Evelyn missed Three Point Jumper.
+Minnesota,Nebraska,47,81,35,53,0,Ahmad Gilbert Defensive Rebound.
+Minnesota,Nebraska,47,81,35,58,0,Foul on Nick Fuller.
+Minnesota,Nebraska,49,81,36,17,1,Ahmad Gilbert made Jumper.
+Minnesota,Nebraska,49,81,36,45,0,Tanner Borchardt Turnover.
+Minnesota,Nebraska,49,81,36,45,0,Dupree McBrayer Steal.
+Minnesota,Nebraska,49,81,36,53,0,Ahmad Gilbert missed Three Point Jumper.
+Minnesota,Nebraska,49,81,36,53,0,Joey King Offensive Rebound.
+Minnesota,Nebraska,49,81,36,53,0,Foul on Bakari Evelyn.
+Minnesota,Nebraska,49,81,36,53,0,Official TV Timeout
+Minnesota,Nebraska,50,81,36,53,1,Joey King made Free Throw.
+Minnesota,Nebraska,51,81,36,53,1,Joey King made Free Throw.
+Minnesota,Nebraska,51,81,37,25,0,Bakari Evelyn missed Three Point Jumper.
+Minnesota,Nebraska,51,81,37,25,0,Stephon Sharp Block.
+Minnesota,Nebraska,51,81,37,25,0,Minnesota Defensive Rebound.
+Minnesota,Nebraska,51,81,37,31,0,Dupree McBrayer missed Three Point Jumper.
+Minnesota,Nebraska,51,81,37,31,0,Johnny Trueblood Defensive Rebound.
+Minnesota,Nebraska,51,81,37,36,0,Foul on Stephon Sharp.
+Minnesota,Nebraska,51,82,37,36,1,Johnny Trueblood made Free Throw.
+Minnesota,Nebraska,51,82,37,36,0,Johnny Trueblood missed Free Throw.
+Minnesota,Nebraska,51,82,37,36,0,Ahmad Gilbert Defensive Rebound.
+Minnesota,Nebraska,53,82,37,51,1,Joey King made Jumper.
+Minnesota,Nebraska,53,82,38,16,0,Foul on Tanner Borchardt.
+Minnesota,Nebraska,53,82,38,16,0,Tanner Borchardt Turnover.
+Minnesota,Nebraska,56,82,38,30,1,Joey King made Three Point Jumper. Assisted by Stephon Sharp.
+Minnesota,Nebraska,56,82,38,50,0,Nebraska  Timeout
+Minnesota,Nebraska,56,82,39,4,0,Jake Hammond missed Jumper.
+Minnesota,Nebraska,56,82,39,4,0,Tanner Borchardt Offensive Rebound.
+Minnesota,Nebraska,56,84,39,16,1,Bakari Evelyn made Layup.
+Minnesota,Nebraska,59,84,39,28,1,Joey King made Three Point Jumper. Assisted by Dupree McBrayer.
+Minnesota,Nebraska,59,84,40,0,0,End of Game

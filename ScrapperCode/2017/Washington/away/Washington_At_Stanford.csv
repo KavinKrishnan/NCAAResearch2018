@@ -1,0 +1,346 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Washington,Stanford,0,0,0,20,0,Marcus Allen Turnover.
+Washington,Stanford,0,0,0,21,0,Matisse Thybulle Steal.
+Washington,Stanford,2,0,0,24,1,Matisse Thybulle made Dunk. Assisted by David Crisp.
+Washington,Stanford,2,0,0,45,0,Reid Travis missed Jumper.
+Washington,Stanford,2,0,0,45,0,Noah Dickerson Defensive Rebound.
+Washington,Stanford,2,0,1,2,0,Matthew Atewe Turnover.
+Washington,Stanford,2,0,1,12,0,Foul on Markelle Fultz.
+Washington,Stanford,2,0,1,27,0,Robert Cartwright missed Three Point Jumper.
+Washington,Stanford,2,0,1,27,0,Washington Defensive Rebound.
+Washington,Stanford,4,0,1,45,1,Markelle Fultz made Jumper.
+Washington,Stanford,4,2,2,8,1,Marcus Allen made Layup.
+Washington,Stanford,4,2,2,16,0,Markelle Fultz Turnover.
+Washington,Stanford,4,2,2,17,0,Dorian Pickens Steal.
+Washington,Stanford,4,2,2,29,0,Dorian Pickens missed Jumper.
+Washington,Stanford,4,2,2,29,0,Stanford Deadball Team Rebound.
+Washington,Stanford,4,2,2,31,0,Foul on Noah Dickerson.
+Washington,Stanford,4,2,2,49,0,Dorian Pickens missed Jumper.
+Washington,Stanford,4,2,2,49,0,Matthew Atewe Block.
+Washington,Stanford,4,2,2,54,0,Matisse Thybulle Defensive Rebound.
+Washington,Stanford,4,2,2,59,0,David Crisp missed Jumper.
+Washington,Stanford,4,2,2,59,0,Stanford Deadball Team Rebound.
+Washington,Stanford,4,2,2,59,0,Foul on Matthew Atewe.
+Washington,Stanford,4,4,3,12,1,Michael Humphrey made Jumper.
+Washington,Stanford,4,4,3,27,0,David Crisp Turnover.
+Washington,Stanford,4,4,3,28,0,Marcus Allen Steal.
+Washington,Stanford,4,4,3,31,0,Marcus Allen missed Layup.
+Washington,Stanford,4,4,3,31,0,Reid Travis Offensive Rebound.
+Washington,Stanford,4,4,3,32,0,Foul on Noah Dickerson.
+Washington,Stanford,4,4,3,32,0,Reid Travis missed Free Throw.
+Washington,Stanford,4,4,3,32,0,Stanford Deadball Team Rebound.
+Washington,Stanford,4,4,3,32,0,Reid Travis missed Free Throw.
+Washington,Stanford,4,4,3,32,0,Matthew Atewe Defensive Rebound.
+Washington,Stanford,4,4,3,39,0,Dominic Green missed Three Point Jumper.
+Washington,Stanford,4,4,3,39,0,Markelle Fultz Offensive Rebound.
+Washington,Stanford,6,4,3,44,1,Markelle Fultz made Layup.
+Washington,Stanford,6,6,3,57,1,Marcus Allen made Layup.
+Washington,Stanford,6,6,4,15,0,Official TV Timeout
+Washington,Stanford,6,6,4,29,0,Matisse Thybulle missed Jumper.
+Washington,Stanford,6,6,4,29,0,Reid Travis Defensive Rebound.
+Washington,Stanford,6,8,4,46,1,Michael Humphrey made Jumper. Assisted by Marcus Sheffield.
+Washington,Stanford,6,8,5,3,0,Markelle Fultz missed Jumper.
+Washington,Stanford,6,8,5,3,0,Matthew Atewe Offensive Rebound.
+Washington,Stanford,8,8,5,8,1,Matthew Atewe made Dunk.
+Washington,Stanford,8,8,5,21,0,Robert Cartwright missed Three Point Jumper.
+Washington,Stanford,8,8,5,21,0,Washington Defensive Rebound.
+Washington,Stanford,10,8,5,45,1,Matisse Thybulle made Jumper.
+Washington,Stanford,10,10,6,5,1,Reid Travis made Layup.
+Washington,Stanford,10,10,6,19,0,Markelle Fultz Turnover.
+Washington,Stanford,10,10,6,20,0,Robert Cartwright Steal.
+Washington,Stanford,10,12,6,21,1,Robert Cartwright made Layup.
+Washington,Stanford,10,12,6,45,0,Matisse Thybulle missed Three Point Jumper.
+Washington,Stanford,10,12,6,45,0,Marcus Sheffield Defensive Rebound.
+Washington,Stanford,10,12,6,53,0,Foul on Marcus Sheffield.
+Washington,Stanford,10,12,6,53,0,Marcus Sheffield Turnover.
+Washington,Stanford,10,12,7,9,0,Foul on Grant Verhoeven.
+Washington,Stanford,11,12,7,9,1,Dominic Green made Free Throw.
+Washington,Stanford,12,12,7,9,1,Dominic Green made Free Throw.
+Washington,Stanford,12,15,7,19,1,Marcus Sheffield made Three Point Jumper. Assisted by Marcus Allen.
+Washington,Stanford,12,15,7,39,0,Foul on Marcus Sheffield.
+Washington,Stanford,13,15,7,39,1,Markelle Fultz made Free Throw.
+Washington,Stanford,14,15,7,39,1,Markelle Fultz made Free Throw.
+Washington,Stanford,14,17,7,58,1,Dorian Pickens made Jumper.
+Washington,Stanford,14,17,8,11,0,Markelle Fultz missed Jumper.
+Washington,Stanford,14,17,8,11,0,Grant Verhoeven Block.
+Washington,Stanford,14,17,8,12,0,Michael Humphrey Defensive Rebound.
+Washington,Stanford,14,19,8,30,1,Marcus Allen made Layup.
+Washington,Stanford,14,19,8,52,0,David Crisp Turnover.
+Washington,Stanford,14,19,8,52,0,Official TV Timeout
+Washington,Stanford,14,19,9,9,0,Michael Humphrey missed Jumper.
+Washington,Stanford,14,19,9,9,0,Markelle Fultz Defensive Rebound.
+Washington,Stanford,17,19,9,40,1,Markelle Fultz made Three Point Jumper. Assisted by Carlos Johnson.
+Washington,Stanford,17,19,9,52,0,Marcus Allen missed Three Point Jumper.
+Washington,Stanford,17,19,9,52,0,Markelle Fultz Defensive Rebound.
+Washington,Stanford,17,19,10,5,0,Dominic Green missed Jumper.
+Washington,Stanford,17,19,10,5,0,Stanford Defensive Rebound.
+Washington,Stanford,17,19,10,24,0,Dorian Pickens Turnover.
+Washington,Stanford,17,19,10,24,0,Matisse Thybulle Steal.
+Washington,Stanford,17,19,10,27,0,Matisse Thybulle missed Dunk.
+Washington,Stanford,17,19,10,27,0,Stanford Defensive Rebound.
+Washington,Stanford,17,19,10,39,0,Foul on Dominic Green.
+Washington,Stanford,17,19,10,57,0,Reid Travis missed Layup.
+Washington,Stanford,17,19,10,57,0,Michael Humphrey Offensive Rebound.
+Washington,Stanford,17,19,11,4,0,Michael Humphrey Turnover.
+Washington,Stanford,17,19,11,4,0,Sam Timmins Steal.
+Washington,Stanford,17,19,11,16,0,Foul on Marcus Allen.
+Washington,Stanford,17,19,11,18,0,David Crisp missed Three Point Jumper.
+Washington,Stanford,17,19,11,18,0,Reid Travis Defensive Rebound.
+Washington,Stanford,17,21,11,41,1,Reid Travis made Dunk. Assisted by Michael Humphrey.
+Washington,Stanford,17,21,11,56,0,Matthew Atewe Turnover.
+Washington,Stanford,17,23,12,13,1,Michael Humphrey made Layup. Assisted by Marcus Allen.
+Washington,Stanford,17,23,12,26,0,Matisse Thybulle missed Three Point Jumper.
+Washington,Stanford,17,23,12,26,0,Michael Humphrey Defensive Rebound.
+Washington,Stanford,17,26,12,37,1,Dorian Pickens made Three Point Jumper. Assisted by Robert Cartwright.
+Washington,Stanford,17,26,12,41,0,Washington  Timeout
+Washington,Stanford,17,26,12,53,0,David Crisp missed Jumper.
+Washington,Stanford,17,26,12,53,0,Stanford Defensive Rebound.
+Washington,Stanford,17,26,13,9,0,Foul on Reid Travis.
+Washington,Stanford,17,26,13,9,0,Reid Travis Turnover.
+Washington,Stanford,17,26,13,25,0,Matisse Thybulle Turnover.
+Washington,Stanford,17,26,13,25,0,Dorian Pickens Steal.
+Washington,Stanford,17,28,13,34,1,Michael Humphrey made Layup. Assisted by Robert Cartwright.
+Washington,Stanford,17,28,13,58,0,Dominic Green missed Layup.
+Washington,Stanford,17,28,13,58,0,Matthew Atewe Offensive Rebound.
+Washington,Stanford,19,28,14,1,1,Matthew Atewe made Dunk.
+Washington,Stanford,19,28,14,21,0,Foul on Carlos Johnson.
+Washington,Stanford,19,29,14,21,1,Marcus Allen made Free Throw.
+Washington,Stanford,19,30,14,21,1,Marcus Allen made Free Throw.
+Washington,Stanford,21,30,14,49,1,David Crisp made Layup.
+Washington,Stanford,21,32,15,2,1,Robert Cartwright made Layup. Assisted by Michael Humphrey.
+Washington,Stanford,21,32,15,25,0,Matthew Atewe missed Layup.
+Washington,Stanford,21,32,15,25,0,Michael Humphrey Block.
+Washington,Stanford,21,32,15,26,0,Michael Humphrey Defensive Rebound.
+Washington,Stanford,21,32,15,48,0,Foul on Noah Dickerson.
+Washington,Stanford,21,33,15,48,1,Marcus Allen made Free Throw.
+Washington,Stanford,21,34,15,48,1,Marcus Allen made Free Throw.
+Washington,Stanford,21,34,15,59,0,Markelle Fultz missed Three Point Jumper.
+Washington,Stanford,21,34,15,59,0,Josh Sharma Defensive Rebound.
+Washington,Stanford,21,36,16,25,1,Grant Verhoeven made Jumper. Assisted by Robert Cartwright.
+Washington,Stanford,24,36,16,39,1,David Crisp made Three Point Jumper. Assisted by Markelle Fultz.
+Washington,Stanford,24,38,16,57,1,Robert Cartwright made Jumper.
+Washington,Stanford,24,38,17,16,0,Dominic Green missed Jumper.
+Washington,Stanford,24,38,17,16,0,Grant Verhoeven Defensive Rebound.
+Washington,Stanford,24,38,17,36,0,Robert Cartwright missed Layup.
+Washington,Stanford,24,38,17,36,0,Devenir Duruisseau Defensive Rebound.
+Washington,Stanford,24,38,17,44,0,Devenir Duruisseau missed Jumper.
+Washington,Stanford,24,38,17,44,0,Dorian Pickens Defensive Rebound.
+Washington,Stanford,24,41,18,6,1,Josh Sharma made Three Point Jumper. Assisted by Robert Cartwright.
+Washington,Stanford,24,41,18,27,0,David Crisp Turnover.
+Washington,Stanford,24,41,18,34,0,Josh Sharma missed Layup.
+Washington,Stanford,24,41,18,34,0,Markelle Fultz Block.
+Washington,Stanford,24,41,18,36,0,Devenir Duruisseau Defensive Rebound.
+Washington,Stanford,24,41,18,39,0,Markelle Fultz missed Layup.
+Washington,Stanford,24,41,18,39,0,Stanford Defensive Rebound.
+Washington,Stanford,24,41,18,41,0,Official TV Timeout
+Washington,Stanford,24,41,19,10,0,Marcus Allen missed Jumper.
+Washington,Stanford,24,41,19,10,0,Washington Deadball Team Rebound.
+Washington,Stanford,24,41,19,14,0,Foul on Josh Sharma.
+Washington,Stanford,24,41,19,22,0,David Crisp missed Three Point Jumper.
+Washington,Stanford,24,41,19,22,0,Stanford Defensive Rebound.
+Washington,Stanford,24,41,19,32,0,Stanford  Timeout
+Washington,Stanford,24,43,19,52,1,Marcus Allen made Layup.
+Washington,Stanford,24,43,20,0,0,End of 1st half
+Washington,Stanford,24,43,20,11,0,Foul on Matthew Atewe.
+Washington,Stanford,24,43,20,34,0,Robert Cartwright missed Three Point Jumper.
+Washington,Stanford,24,43,20,34,0,Markelle Fultz Defensive Rebound.
+Washington,Stanford,24,43,20,42,0,Markelle Fultz missed Layup.
+Washington,Stanford,24,43,20,42,0,Michael Humphrey Defensive Rebound.
+Washington,Stanford,24,43,20,46,0,Foul on Matisse Thybulle.
+Washington,Stanford,24,43,20,53,0,Foul on Matthew Atewe.
+Washington,Stanford,24,43,20,54,0,Foul on Carlos Johnson.
+Washington,Stanford,24,43,21,7,0,Robert Cartwright missed Layup.
+Washington,Stanford,24,43,21,7,0,Markelle Fultz Block.
+Washington,Stanford,24,43,21,9,0,David Crisp Defensive Rebound.
+Washington,Stanford,24,43,21,12,0,Matisse Thybulle missed Three Point Jumper.
+Washington,Stanford,24,43,21,12,0,Michael Humphrey Defensive Rebound.
+Washington,Stanford,24,45,21,23,1,Marcus Allen made Layup.
+Washington,Stanford,24,45,21,34,0,Foul on Grant Verhoeven.
+Washington,Stanford,25,45,21,34,1,Matthew Atewe made Free Throw.
+Washington,Stanford,25,45,21,34,0,Matthew Atewe missed Free Throw.
+Washington,Stanford,25,45,21,34,0,Markelle Fultz Offensive Rebound.
+Washington,Stanford,25,45,21,39,0,Foul on Michael Humphrey.
+Washington,Stanford,26,45,21,39,1,Carlos Johnson made Free Throw.
+Washington,Stanford,27,45,21,39,1,Carlos Johnson made Free Throw.
+Washington,Stanford,27,45,21,59,0,Stanford  Timeout
+Washington,Stanford,27,45,22,7,0,Michael Humphrey missed Jumper.
+Washington,Stanford,27,45,22,7,0,Matthew Atewe Defensive Rebound.
+Washington,Stanford,27,45,22,17,0,Foul on Michael Humphrey.
+Washington,Stanford,29,45,22,32,1,Markelle Fultz made Jumper. Assisted by David Crisp.
+Washington,Stanford,29,45,23,1,0,Michael Humphrey missed Three Point Jumper.
+Washington,Stanford,29,45,23,1,0,Markelle Fultz Defensive Rebound.
+Washington,Stanford,32,45,23,9,1,Markelle Fultz made Three Point Jumper.
+Washington,Stanford,32,45,23,29,0,Foul on David Crisp.
+Washington,Stanford,32,45,23,32,0,Foul on Josh Sharma.
+Washington,Stanford,32,45,23,32,0,Josh Sharma Turnover.
+Washington,Stanford,32,45,23,52,0,Carlos Johnson missed Jumper.
+Washington,Stanford,32,45,23,52,0,Josh Sharma Block.
+Washington,Stanford,32,45,23,53,0,Dorian Pickens Defensive Rebound.
+Washington,Stanford,32,45,23,54,0,Foul on Matisse Thybulle.
+Washington,Stanford,32,46,23,54,1,Marcus Sheffield made Free Throw.
+Washington,Stanford,32,47,23,54,1,Marcus Sheffield made Free Throw.
+Washington,Stanford,32,47,24,3,0,Carlos Johnson missed Layup.
+Washington,Stanford,32,47,24,3,0,Marcus Sheffield Defensive Rebound.
+Washington,Stanford,32,47,24,15,0,Robert Cartwright missed Layup.
+Washington,Stanford,32,47,24,15,0,Matthew Atewe Defensive Rebound.
+Washington,Stanford,32,47,24,16,0,Foul on Grant Verhoeven.
+Washington,Stanford,32,47,24,16,0,Official TV Timeout
+Washington,Stanford,32,47,24,23,0,Markelle Fultz missed Three Point Jumper.
+Washington,Stanford,32,47,24,23,0,Matisse Thybulle Offensive Rebound.
+Washington,Stanford,32,47,24,28,0,David Crisp missed Three Point Jumper.
+Washington,Stanford,32,47,24,28,0,David Crisp Offensive Rebound.
+Washington,Stanford,34,47,24,32,1,David Crisp made Layup.
+Washington,Stanford,34,47,24,46,0,Foul on Matisse Thybulle.
+Washington,Stanford,34,48,24,46,1,Dorian Pickens made Free Throw.
+Washington,Stanford,34,49,24,46,1,Dorian Pickens made Free Throw.
+Washington,Stanford,34,49,25,3,0,Foul on Michael Humphrey.
+Washington,Stanford,36,49,25,4,1,Markelle Fultz made Jumper.
+Washington,Stanford,36,49,25,27,0,Dorian Pickens missed Layup.
+Washington,Stanford,36,49,25,27,0,Washington Defensive Rebound.
+Washington,Stanford,36,49,25,42,0,David Crisp missed Layup.
+Washington,Stanford,36,49,25,42,0,Carlos Johnson Offensive Rebound.
+Washington,Stanford,38,49,25,45,1,Carlos Johnson made Layup.
+Washington,Stanford,38,49,25,58,0,Dorian Pickens missed Three Point Jumper.
+Washington,Stanford,38,49,25,58,0,Grant Verhoeven Offensive Rebound.
+Washington,Stanford,38,49,26,4,0,Foul on Carlos Johnson.
+Washington,Stanford,38,49,26,4,0,Josh Sharma missed Free Throw.
+Washington,Stanford,38,49,26,4,0,Noah Dickerson Defensive Rebound.
+Washington,Stanford,38,49,26,5,0,Foul on Grant Verhoeven.
+Washington,Stanford,39,49,26,5,1,Noah Dickerson made Free Throw.
+Washington,Stanford,39,49,26,5,0,Noah Dickerson missed Free Throw.
+Washington,Stanford,39,49,26,5,0,Josh Sharma Defensive Rebound.
+Washington,Stanford,39,49,26,15,0,Foul on Dominic Green.
+Washington,Stanford,39,50,26,15,1,Marcus Sheffield made Free Throw.
+Washington,Stanford,39,51,26,15,1,Marcus Sheffield made Free Throw.
+Washington,Stanford,39,51,26,28,0,Carlos Johnson missed Three Point Jumper.
+Washington,Stanford,39,51,26,28,0,Noah Dickerson Offensive Rebound.
+Washington,Stanford,41,51,26,32,1,Noah Dickerson made Layup.
+Washington,Stanford,41,51,26,50,0,Josh Sharma missed Layup.
+Washington,Stanford,41,51,26,50,0,Josh Sharma Offensive Rebound.
+Washington,Stanford,41,51,27,10,0,Josh Sharma missed Three Point Jumper.
+Washington,Stanford,41,51,27,10,0,Noah Dickerson Defensive Rebound.
+Washington,Stanford,41,51,27,20,0,Carlos Johnson missed Layup.
+Washington,Stanford,41,51,27,20,0,Josh Sharma Block.
+Washington,Stanford,41,51,27,20,0,Washington Offensive Rebound.
+Washington,Stanford,41,51,27,24,0,Foul on Marcus Allen.
+Washington,Stanford,41,51,27,24,0,Markelle Fultz missed Free Throw.
+Washington,Stanford,41,51,27,24,0,Dominic Green Offensive Rebound.
+Washington,Stanford,41,51,27,35,0,Foul on Marcus Sheffield.
+Washington,Stanford,42,51,27,35,1,Markelle Fultz made Free Throw.
+Washington,Stanford,43,51,27,35,1,Markelle Fultz made Free Throw.
+Washington,Stanford,43,51,27,50,0,Foul on Markelle Fultz.
+Washington,Stanford,43,51,27,50,0,Marcus Allen missed Free Throw.
+Washington,Stanford,43,51,27,50,0,Stanford Deadball Team Rebound.
+Washington,Stanford,43,52,27,50,1,Marcus Allen made Free Throw.
+Washington,Stanford,45,52,27,57,1,Markelle Fultz made Layup.
+Washington,Stanford,45,54,28,14,1,Michael Humphrey made Layup.
+Washington,Stanford,47,54,28,26,1,Matisse Thybulle made Layup.
+Washington,Stanford,47,54,28,41,0,Marcus Allen Turnover.
+Washington,Stanford,47,54,28,42,0,Markelle Fultz Steal.
+Washington,Stanford,49,54,28,45,1,Markelle Fultz made Layup.
+Washington,Stanford,49,54,28,56,0,Stanford  Timeout
+Washington,Stanford,49,54,28,56,0,Official TV Timeout
+Washington,Stanford,49,54,29,11,0,Dorian Pickens missed Three Point Jumper.
+Washington,Stanford,49,54,29,11,0,Matisse Thybulle Defensive Rebound.
+Washington,Stanford,49,54,29,34,0,Markelle Fultz missed Three Point Jumper.
+Washington,Stanford,49,54,29,34,0,Josh Sharma Defensive Rebound.
+Washington,Stanford,49,54,29,49,0,Michael Humphrey Turnover.
+Washington,Stanford,49,54,29,51,0,David Crisp Steal.
+Washington,Stanford,49,54,29,55,0,Dominic Green missed Three Point Jumper.
+Washington,Stanford,49,54,29,55,0,Marcus Allen Defensive Rebound.
+Washington,Stanford,49,54,30,26,0,Foul on Matisse Thybulle.
+Washington,Stanford,49,55,30,26,1,Dorian Pickens made Free Throw.
+Washington,Stanford,49,56,30,26,1,Dorian Pickens made Free Throw.
+Washington,Stanford,49,56,30,43,0,Foul on Grant Verhoeven.
+Washington,Stanford,50,56,30,44,1,Markelle Fultz made Free Throw.
+Washington,Stanford,51,56,30,44,1,Markelle Fultz made Free Throw.
+Washington,Stanford,51,56,31,3,0,Robert Cartwright missed Jumper.
+Washington,Stanford,51,56,31,3,0,Markelle Fultz Defensive Rebound.
+Washington,Stanford,53,56,31,11,1,Markelle Fultz made Layup.
+Washington,Stanford,53,58,31,38,1,Robert Cartwright made Jumper.
+Washington,Stanford,53,58,32,0,0,Markelle Fultz missed Three Point Jumper.
+Washington,Stanford,53,58,32,0,0,Noah Dickerson Offensive Rebound.
+Washington,Stanford,55,58,32,10,1,Carlos Johnson made Layup.
+Washington,Stanford,55,58,32,33,0,Robert Cartwright missed Layup.
+Washington,Stanford,55,58,32,33,0,Noah Dickerson Defensive Rebound.
+Washington,Stanford,55,58,32,35,0,Foul on Josh Sharma.
+Washington,Stanford,55,58,32,35,0,Official TV Timeout
+Washington,Stanford,55,58,32,35,0,Noah Dickerson missed Free Throw.
+Washington,Stanford,55,58,32,35,0,Washington Deadball Team Rebound.
+Washington,Stanford,55,58,32,35,0,Noah Dickerson missed Free Throw.
+Washington,Stanford,55,58,32,35,0,Robert Cartwright Defensive Rebound.
+Washington,Stanford,55,60,32,49,1,Robert Cartwright made Layup.
+Washington,Stanford,55,60,33,17,0,Markelle Fultz Turnover.
+Washington,Stanford,55,60,33,19,0,Marcus Sheffield Steal.
+Washington,Stanford,55,60,33,41,0,Marcus Sheffield missed Jumper.
+Washington,Stanford,55,60,33,41,0,Michael Humphrey Offensive Rebound.
+Washington,Stanford,55,60,33,45,0,Michael Humphrey Turnover.
+Washington,Stanford,55,60,33,46,0,Markelle Fultz Steal.
+Washington,Stanford,57,60,33,50,1,Markelle Fultz made Layup.
+Washington,Stanford,57,62,34,10,1,Dorian Pickens made Jumper.
+Washington,Stanford,60,62,34,37,1,Dominic Green made Three Point Jumper. Assisted by Markelle Fultz.
+Washington,Stanford,60,62,35,3,0,Foul on Markelle Fultz.
+Washington,Stanford,60,63,35,3,1,Josh Sharma made Free Throw.
+Washington,Stanford,60,63,35,3,0,Josh Sharma missed Free Throw.
+Washington,Stanford,60,63,35,3,0,Matisse Thybulle Defensive Rebound.
+Washington,Stanford,60,63,35,25,0,Markelle Fultz missed Three Point Jumper.
+Washington,Stanford,60,63,35,25,0,Stanford Defensive Rebound.
+Washington,Stanford,60,63,35,44,0,Robert Cartwright missed Layup.
+Washington,Stanford,60,63,35,44,0,Dominic Green Defensive Rebound.
+Washington,Stanford,63,63,35,45,1,David Crisp made Three Point Jumper. Assisted by Markelle Fultz.
+Washington,Stanford,63,63,36,22,0,Marcus Sheffield missed Jumper.
+Washington,Stanford,63,63,36,22,0,Michael Humphrey Offensive Rebound.
+Washington,Stanford,63,65,36,24,1,Michael Humphrey made Layup.
+Washington,Stanford,63,65,36,24,0,Foul on Matthew Atewe.
+Washington,Stanford,63,66,36,24,1,Michael Humphrey made Free Throw.
+Washington,Stanford,63,66,36,38,0,Matisse Thybulle missed Layup.
+Washington,Stanford,63,66,36,38,0,Josh Sharma Defensive Rebound.
+Washington,Stanford,63,66,37,4,0,Marcus Sheffield missed Layup.
+Washington,Stanford,63,66,37,4,0,Noah Dickerson Defensive Rebound.
+Washington,Stanford,63,66,37,17,0,Noah Dickerson missed Layup.
+Washington,Stanford,63,66,37,18,0,Josh Sharma Block.
+Washington,Stanford,63,66,37,19,0,Josh Sharma Defensive Rebound.
+Washington,Stanford,63,66,37,34,0,Michael Humphrey missed Layup.
+Washington,Stanford,63,66,37,34,0,David Crisp Defensive Rebound.
+Washington,Stanford,63,66,37,42,0,Dominic Green missed Three Point Jumper.
+Washington,Stanford,63,66,37,42,0,Washington Offensive Rebound.
+Washington,Stanford,63,66,37,46,0,Washington  Timeout
+Washington,Stanford,63,66,37,47,0,David Crisp missed Three Point Jumper.
+Washington,Stanford,63,66,37,47,0,Stanford Defensive Rebound.
+Washington,Stanford,63,68,38,13,1,Michael Humphrey made Dunk.
+Washington,Stanford,63,68,38,28,0,Markelle Fultz missed Jumper.
+Washington,Stanford,63,68,38,28,0,Michael Humphrey Block.
+Washington,Stanford,63,68,38,30,0,Josh Sharma Defensive Rebound.
+Washington,Stanford,63,68,38,34,0,Foul on David Crisp.
+Washington,Stanford,63,69,38,34,1,Michael Humphrey made Free Throw.
+Washington,Stanford,63,70,38,34,1,Michael Humphrey made Free Throw.
+Washington,Stanford,63,70,38,50,0,Noah Dickerson missed Layup.
+Washington,Stanford,63,70,38,50,0,Michael Humphrey Block.
+Washington,Stanford,63,70,38,51,0,Marcus Sheffield Defensive Rebound.
+Washington,Stanford,63,70,38,54,0,Foul on David Crisp.
+Washington,Stanford,63,71,38,54,1,Robert Cartwright made Free Throw.
+Washington,Stanford,63,72,38,54,1,Robert Cartwright made Free Throw.
+Washington,Stanford,63,72,39,3,0,Dominic Green missed Three Point Jumper.
+Washington,Stanford,63,72,39,3,0,Michael Humphrey Defensive Rebound.
+Washington,Stanford,63,72,39,12,0,Stanford  Timeout
+Washington,Stanford,63,72,39,22,0,Foul on Markelle Fultz.
+Washington,Stanford,63,72,39,22,0,Robert Cartwright missed Free Throw.
+Washington,Stanford,63,72,39,22,0,Stanford Deadball Team Rebound.
+Washington,Stanford,63,73,39,22,1,Robert Cartwright made Free Throw.
+Washington,Stanford,63,73,39,30,0,Dan Kingma missed Three Point Jumper.
+Washington,Stanford,63,73,39,30,0,Michael Humphrey Defensive Rebound.
+Washington,Stanford,63,73,39,33,0,Foul on Dominic Green.
+Washington,Stanford,63,74,39,33,1,Michael Humphrey made Free Throw.
+Washington,Stanford,63,74,39,33,0,Michael Humphrey missed Free Throw.
+Washington,Stanford,63,74,39,33,0,Carlos Johnson Defensive Rebound.
+Washington,Stanford,63,74,39,38,0,Markelle Fultz missed Three Point Jumper.
+Washington,Stanford,63,74,39,38,0,Robert Cartwright Defensive Rebound.
+Washington,Stanford,63,74,39,42,0,Robert Cartwright Turnover.
+Washington,Stanford,63,74,39,42,0,Dominic Green Steal.
+Washington,Stanford,66,74,39,43,1,Markelle Fultz made Three Point Jumper. Assisted by David Crisp.
+Washington,Stanford,66,74,39,44,0,Washington  Timeout
+Washington,Stanford,66,74,39,48,0,Foul on Carlos Johnson.
+Washington,Stanford,66,75,39,48,1,Dorian Pickens made Free Throw.
+Washington,Stanford,66,76,39,48,1,Dorian Pickens made Free Throw.
+Washington,Stanford,69,76,39,52,1,Markelle Fultz made Three Point Jumper.
+Washington,Stanford,69,76,40,0,0,End of Game

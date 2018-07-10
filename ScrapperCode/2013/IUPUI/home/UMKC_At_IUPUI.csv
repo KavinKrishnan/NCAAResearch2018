@@ -1,0 +1,291 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UMKC,IUPUI,0,2,0,16,1,Donovan Gibbs made Layup.
+UMKC,IUPUI,0,2,0,46,0,Nelson Kirksey missed Layup.
+UMKC,IUPUI,0,2,0,46,0,Nick Kitcoff Block.
+UMKC,IUPUI,0,2,0,48,0,IUPUI Defensive Rebound.
+UMKC,IUPUI,0,2,1,16,0,Greg Rice missed Layup.
+UMKC,IUPUI,0,2,1,16,0,Fred Chatmon Defensive Rebound.
+UMKC,IUPUI,0,2,1,22,0,Foul on Nick Kitcoff
+UMKC,IUPUI,0,2,1,22,0,Nelson Kirksey missed Free Throw.
+UMKC,IUPUI,0,2,1,22,0,null
+UMKC,IUPUI,1,2,1,22,1,Nelson Kirksey made Free Throw.
+UMKC,IUPUI,1,4,1,39,1,Mitchell Patton made Jumper.
+UMKC,IUPUI,4,4,2,13,1,Nelson Kirksey made Three Point Jumper.
+UMKC,IUPUI,4,4,2,27,0,Sean Esposito missed Jumper.
+UMKC,IUPUI,4,4,2,27,0,Kirk Korver Defensive Rebound.
+UMKC,IUPUI,4,4,2,37,0,Mason Wedel Turnover.
+UMKC,IUPUI,4,4,3,3,0,Nick Kitcoff missed Three Point Jumper.
+UMKC,IUPUI,4,4,3,3,0,Fred Chatmon Defensive Rebound.
+UMKC,IUPUI,4,4,3,38,0,Kirk Korver missed Jumper.
+UMKC,IUPUI,4,4,3,38,0,Donovan Gibbs Block.
+UMKC,IUPUI,4,4,3,41,0,Mitchell Patton Defensive Rebound.
+UMKC,IUPUI,4,4,3,54,0,Nick Kitcoff missed Three Point Jumper.
+UMKC,IUPUI,4,4,3,54,0,Mitchell Patton Offensive Rebound.
+UMKC,IUPUI,4,7,4,0,1,Sean Esposito made Three Point Jumper.  Assisted by Mitchell Patton.
+UMKC,IUPUI,4,7,4,20,0,Foul on Fred Chatmon
+UMKC,IUPUI,4,7,4,20,0,Fred Chatmon Turnover.
+UMKC,IUPUI,4,7,4,20,0,Official TV Timeout.
+UMKC,IUPUI,4,7,4,40,0,Greg Rice Turnover.
+UMKC,IUPUI,6,7,4,53,1,Fred Chatmon made Dunk.  Assisted by Nelson Kirksey.
+UMKC,IUPUI,6,9,5,20,1,Mitchell Patton made Jumper.  Assisted by Donovan Gibbs.
+UMKC,IUPUI,9,9,5,36,1,Estan Tyler made Three Point Jumper.  Assisted by Nelson Kirksey.
+UMKC,IUPUI,9,9,5,49,0,Sean Esposito Turnover.
+UMKC,IUPUI,12,9,6,3,1,Mason Wedel made Three Point Jumper.  Assisted by Nelson Kirksey.
+UMKC,IUPUI,12,11,6,24,1,Mitchell Patton made Jumper.
+UMKC,IUPUI,12,11,6,25,0,Foul on Brad Reid
+UMKC,IUPUI,12,11,6,25,0,Mitchell Patton missed Free Throw.
+UMKC,IUPUI,12,11,6,25,0,Brad Reid Defensive Rebound.
+UMKC,IUPUI,12,11,6,53,0,Estan Tyler missed Three Point Jumper.
+UMKC,IUPUI,12,11,6,53,0,Donovan Gibbs Defensive Rebound.
+UMKC,IUPUI,12,11,6,59,0,Sean Esposito missed Three Point Jumper.
+UMKC,IUPUI,12,11,6,59,0,Nelson Kirksey Defensive Rebound.
+UMKC,IUPUI,12,11,7,7,0,Kirk Korver missed Three Point Jumper.
+UMKC,IUPUI,12,11,7,7,0,Kirk Korver Offensive Rebound.
+UMKC,IUPUI,12,11,7,12,0,Kirk Korver Turnover.
+UMKC,IUPUI,12,11,7,13,0,Sean Esposito Steal.
+UMKC,IUPUI,12,13,7,15,1,Sean Esposito made Layup.
+UMKC,IUPUI,12,13,7,40,0,Kirk Korver missed Three Point Jumper.
+UMKC,IUPUI,12,13,7,40,0,Mitchell Patton Defensive Rebound.
+UMKC,IUPUI,12,13,7,50,0,Foul on Aaron Washington
+UMKC,IUPUI,12,16,8,3,1,Greg Rice made Three Point Jumper.  Assisted by P.J. Hubert.
+UMKC,IUPUI,15,16,8,20,1,Nelson Kirksey made Three Point Jumper.
+UMKC,IUPUI,15,16,8,39,0,Greg Rice missed Layup.
+UMKC,IUPUI,15,16,8,39,0,Brad Reid Block.
+UMKC,IUPUI,15,16,8,40,0,Brad Reid Defensive Rebound.
+UMKC,IUPUI,15,16,9,5,0,Foul on Mitchell Patton
+UMKC,IUPUI,15,16,9,5,0,Official TV Timeout.
+UMKC,IUPUI,15,16,9,19,0,Thomas Staton missed Jumper.
+UMKC,IUPUI,15,16,9,19,0,IUPUI Defensive Rebound.
+UMKC,IUPUI,15,16,9,43,0,Greg Rice missed Three Point Jumper.
+UMKC,IUPUI,15,16,9,43,0,Fred Chatmon Defensive Rebound.
+UMKC,IUPUI,15,16,9,56,0,Aaron Washington Turnover.
+UMKC,IUPUI,15,16,9,57,0,Greg Rice Steal.
+UMKC,IUPUI,15,16,10,0,0,Greg Rice Turnover.
+UMKC,IUPUI,15,16,10,2,0,Trinity Hall Steal.
+UMKC,IUPUI,15,16,10,32,0,Thomas Staton missed Jumper.
+UMKC,IUPUI,15,16,10,32,0,Lyonell Gaines Defensive Rebound.
+UMKC,IUPUI,15,16,11,2,0,Foul on Fred Chatmon
+UMKC,IUPUI,15,17,11,2,1,Donovan Gibbs made Free Throw.
+UMKC,IUPUI,15,17,11,2,0,Donovan Gibbs missed Free Throw.
+UMKC,IUPUI,15,17,11,2,0,Nelson Kirksey Defensive Rebound.
+UMKC,IUPUI,15,17,11,22,0,Trinity Hall missed Jumper.
+UMKC,IUPUI,15,17,11,22,0,P.J. Hubert Defensive Rebound.
+UMKC,IUPUI,15,17,11,45,0,Foul on Greg Rice
+UMKC,IUPUI,15,17,11,45,0,Greg Rice Turnover.
+UMKC,IUPUI,15,17,11,57,0,Kirk Korver missed Layup.
+UMKC,IUPUI,15,17,11,57,0,Mitchell Patton Block.
+UMKC,IUPUI,15,17,11,59,0,Kirk Korver Offensive Rebound.
+UMKC,IUPUI,15,17,12,11,0,Kirk Korver missed Three Point Jumper.
+UMKC,IUPUI,15,17,12,11,0,Sean Esposito Defensive Rebound.
+UMKC,IUPUI,15,17,12,30,0,P.J. Hubert missed Three Point Jumper.
+UMKC,IUPUI,15,17,12,30,0,Trinity Hall Defensive Rebound.
+UMKC,IUPUI,15,17,12,36,0,Official TV Timeout.
+UMKC,IUPUI,15,17,13,7,0,Thomas Staton missed Jumper.
+UMKC,IUPUI,15,17,13,7,0,Sean Esposito Defensive Rebound.
+UMKC,IUPUI,15,17,13,13,0,Jordan Shanklin Turnover.
+UMKC,IUPUI,15,17,13,15,0,Thomas Staton Steal.
+UMKC,IUPUI,15,17,13,18,0,Thomas Staton missed Layup.
+UMKC,IUPUI,15,17,13,18,0,Trinity Hall Offensive Rebound.
+UMKC,IUPUI,17,17,13,20,1,Trinity Hall made Dunk.
+UMKC,IUPUI,17,17,13,48,0,Jordan Shanklin missed Three Point Jumper.
+UMKC,IUPUI,17,17,13,48,0,Mitchell Patton Offensive Rebound.
+UMKC,IUPUI,17,19,13,53,1,Mitchell Patton made Layup.
+UMKC,IUPUI,17,19,14,23,0,Estan Tyler missed Three Point Jumper.
+UMKC,IUPUI,17,19,14,23,0,Sean Esposito Defensive Rebound.
+UMKC,IUPUI,17,19,14,35,0,P.J. Hubert missed Three Point Jumper.
+UMKC,IUPUI,17,19,14,35,0,Trinity Hall Defensive Rebound.
+UMKC,IUPUI,19,19,15,13,1,Estan Tyler made Jumper.
+UMKC,IUPUI,19,19,15,39,0,Mitchell Patton Turnover.
+UMKC,IUPUI,19,19,15,40,0,Nelson Kirksey Steal.
+UMKC,IUPUI,21,19,15,42,1,Nelson Kirksey made Dunk.
+UMKC,IUPUI,21,19,15,42,0,Foul on Jordan Shanklin
+UMKC,IUPUI,21,19,15,42,0,Nelson Kirksey missed Free Throw.
+UMKC,IUPUI,21,19,15,42,0,Mitchell Patton Defensive Rebound.
+UMKC,IUPUI,21,19,15,58,0,P.J. Hubert missed Layup.
+UMKC,IUPUI,21,19,15,58,0,Trinity Hall Block.
+UMKC,IUPUI,21,19,15,59,0,Nelson Kirksey Defensive Rebound.
+UMKC,IUPUI,23,19,16,4,1,Thomas Staton made Jumper.
+UMKC,IUPUI,23,19,16,9,0,IUPUI Full Timeout.
+UMKC,IUPUI,23,19,16,16,0,Greg Rice Turnover.
+UMKC,IUPUI,23,19,16,19,0,Thomas Staton Steal.
+UMKC,IUPUI,25,19,16,20,1,Thomas Staton made Dunk.
+UMKC,IUPUI,25,21,16,34,1,Sean Esposito made Jumper.
+UMKC,IUPUI,25,21,17,12,0,Thomas Staton missed Three Point Jumper.
+UMKC,IUPUI,25,21,17,12,0,Greg Rice Defensive Rebound.
+UMKC,IUPUI,25,21,17,26,0,Official TV Timeout.
+UMKC,IUPUI,25,21,17,36,0,Sean Esposito Turnover.
+UMKC,IUPUI,25,21,17,47,0,Trinity Hall Turnover.
+UMKC,IUPUI,25,21,17,49,0,Sean Esposito Steal.
+UMKC,IUPUI,25,21,18,9,0,Sean Esposito missed Three Point Jumper.
+UMKC,IUPUI,25,21,18,9,0,Jordan Shanklin Offensive Rebound.
+UMKC,IUPUI,25,21,18,26,0,Foul on Brad Reid
+UMKC,IUPUI,25,22,18,26,1,Mitchell Patton made Free Throw.
+UMKC,IUPUI,25,23,18,26,1,Mitchell Patton made Free Throw.
+UMKC,IUPUI,25,23,18,53,0,Alton Tanner Turnover.
+UMKC,IUPUI,25,23,19,4,0,Foul on Mason Wedel
+UMKC,IUPUI,25,24,19,4,1,Mitchell Patton made Free Throw.
+UMKC,IUPUI,25,25,19,4,1,Mitchell Patton made Free Throw.
+UMKC,IUPUI,25,25,19,11,0,Lyonell Gaines missed Layup.
+UMKC,IUPUI,25,25,19,11,0,Lyonell Gaines Offensive Rebound.
+UMKC,IUPUI,25,25,19,16,0,Nelson Kirksey missed Jumper.
+UMKC,IUPUI,25,25,19,16,0,Nelson Kirksey Offensive Rebound.
+UMKC,IUPUI,25,25,19,16,0,Nelson Kirksey missed Layup.
+UMKC,IUPUI,25,25,19,16,0,Mason Wedel Offensive Rebound.
+UMKC,IUPUI,25,25,19,16,0,Foul on Sean Esposito
+UMKC,IUPUI,25,25,19,16,0,Brad Reid missed Free Throw.
+UMKC,IUPUI,25,25,19,16,0,null
+UMKC,IUPUI,26,25,19,16,1,Brad Reid made Free Throw.
+UMKC,IUPUI,26,25,19,47,0,Foul on Nelson Kirksey
+UMKC,IUPUI,26,26,19,47,1,Greg Rice made Free Throw.
+UMKC,IUPUI,26,27,19,47,1,Greg Rice made Free Throw.
+UMKC,IUPUI,26,27,19,50,0,Foul on Jordan Shanklin
+UMKC,IUPUI,26,27,19,56,0,Estan Tyler missed Jumper.
+UMKC,IUPUI,26,27,19,56,0,Donovan Gibbs Defensive Rebound.
+UMKC,IUPUI,26,27,20,0,0,Jordan Shanklin missed Three Point Jumper.
+UMKC,IUPUI,26,27,20,0,0,null
+UMKC,IUPUI,26,27,20,0,0,End of the 1st Half.
+UMKC,IUPUI,26,27,20,0,0,UMKC Offensive Rebound.
+UMKC,IUPUI,26,27,20,33,0,Sean Esposito missed Jumper.
+UMKC,IUPUI,26,27,20,33,0,Fred Chatmon Defensive Rebound.
+UMKC,IUPUI,26,27,21,1,0,Fred Chatmon missed Layup.
+UMKC,IUPUI,26,27,21,1,0,Mitchell Patton Block.
+UMKC,IUPUI,26,27,21,2,0,Fred Chatmon Offensive Rebound.
+UMKC,IUPUI,26,27,21,5,0,Fred Chatmon missed Layup.
+UMKC,IUPUI,26,27,21,5,0,Sean Esposito Defensive Rebound.
+UMKC,IUPUI,26,27,21,27,0,Foul on Fred Chatmon
+UMKC,IUPUI,26,27,21,37,0,Sean Esposito missed Jumper.
+UMKC,IUPUI,26,27,21,37,0,Nelson Kirksey Defensive Rebound.
+UMKC,IUPUI,26,27,21,44,0,Nelson Kirksey Turnover.
+UMKC,IUPUI,26,27,21,44,0,UMKC Full Timeout.
+UMKC,IUPUI,26,27,22,2,0,Foul on Fred Chatmon
+UMKC,IUPUI,26,27,22,2,0,Mitchell Patton missed Free Throw.
+UMKC,IUPUI,26,27,22,2,0,null
+UMKC,IUPUI,26,28,22,2,1,Mitchell Patton made Free Throw.
+UMKC,IUPUI,26,28,22,19,0,Foul on Greg Rice
+UMKC,IUPUI,26,28,22,53,0,Estan Tyler missed Jumper.
+UMKC,IUPUI,26,28,22,53,0,Sean Esposito Defensive Rebound.
+UMKC,IUPUI,26,28,23,15,0,Sean Esposito missed Three Point Jumper.
+UMKC,IUPUI,26,28,23,15,0,Brad Reid Defensive Rebound.
+UMKC,IUPUI,26,28,23,25,0,Nelson Kirksey missed Jumper.
+UMKC,IUPUI,26,28,23,25,0,Donovan Gibbs Defensive Rebound.
+UMKC,IUPUI,26,28,23,37,0,Nick Kitcoff missed Three Point Jumper.
+UMKC,IUPUI,26,28,23,37,0,Nelson Kirksey Defensive Rebound.
+UMKC,IUPUI,26,28,23,45,0,Estan Tyler missed Layup.
+UMKC,IUPUI,26,28,23,45,0,Mitchell Patton Block.
+UMKC,IUPUI,26,28,23,45,0,UMKC Offensive Rebound.
+UMKC,IUPUI,26,28,23,47,0,Estan Tyler missed Three Point Jumper.
+UMKC,IUPUI,26,28,23,47,0,UMKC Offensive Rebound.
+UMKC,IUPUI,26,28,23,59,0,Kirk Korver missed Three Point Jumper.
+UMKC,IUPUI,26,28,23,59,0,Greg Rice Defensive Rebound.
+UMKC,IUPUI,26,28,24,18,0,Greg Rice missed Layup.
+UMKC,IUPUI,26,28,24,18,0,Brad Reid Defensive Rebound.
+UMKC,IUPUI,26,28,24,27,0,Mason Wedel missed Three Point Jumper.
+UMKC,IUPUI,26,28,24,27,0,Nick Kitcoff Defensive Rebound.
+UMKC,IUPUI,26,28,24,35,0,Official TV Timeout.
+UMKC,IUPUI,26,28,24,53,0,Foul on Caleb Johnson
+UMKC,IUPUI,26,28,25,2,0,Mitchell Patton missed Jumper.
+UMKC,IUPUI,26,28,25,2,0,Caleb Johnson Block.
+UMKC,IUPUI,26,28,25,6,0,Estan Tyler Defensive Rebound.
+UMKC,IUPUI,26,28,25,21,0,Nelson Kirksey missed Layup.
+UMKC,IUPUI,26,28,25,21,0,Mitchell Patton Block.
+UMKC,IUPUI,26,28,25,23,0,Greg Rice Defensive Rebound.
+UMKC,IUPUI,26,28,25,26,0,Foul on Donovan Gibbs
+UMKC,IUPUI,26,28,25,26,0,Donovan Gibbs Turnover.
+UMKC,IUPUI,28,28,25,45,1,Nelson Kirksey made Jumper.
+UMKC,IUPUI,28,30,26,9,1,Mitchell Patton made Jumper.
+UMKC,IUPUI,28,30,26,28,0,Trinity Hall missed Three Point Jumper.
+UMKC,IUPUI,28,30,26,28,0,Jordan Shanklin Defensive Rebound.
+UMKC,IUPUI,28,30,26,45,0,Mitchell Patton Turnover.
+UMKC,IUPUI,28,30,26,55,0,Thomas Staton Turnover.
+UMKC,IUPUI,28,30,26,57,0,Greg Rice Steal.
+UMKC,IUPUI,28,30,27,18,0,Sean Esposito missed Three Point Jumper.
+UMKC,IUPUI,28,30,27,18,0,Estan Tyler Defensive Rebound.
+UMKC,IUPUI,28,30,27,26,0,Thomas Staton missed Layup.
+UMKC,IUPUI,28,30,27,26,0,Trinity Hall Offensive Rebound.
+UMKC,IUPUI,28,30,27,28,0,Foul on Sean Esposito
+UMKC,IUPUI,28,30,27,44,0,Foul on Greg Rice
+UMKC,IUPUI,28,30,27,47,0,Thomas Staton Turnover.
+UMKC,IUPUI,28,30,27,47,0,Donovan Gibbs Turnover.
+UMKC,IUPUI,30,30,27,51,1,Caleb Johnson made Layup.
+UMKC,IUPUI,30,30,27,51,0,Foul on Mitchell Patton
+UMKC,IUPUI,31,30,27,51,1,Caleb Johnson made Free Throw.
+UMKC,IUPUI,31,30,28,14,0,Jordan Shanklin missed Three Point Jumper.
+UMKC,IUPUI,31,30,28,14,0,Kirk Korver Defensive Rebound.
+UMKC,IUPUI,31,30,28,34,0,Kirk Korver Turnover.
+UMKC,IUPUI,31,30,28,34,0,Official TV Timeout.
+UMKC,IUPUI,31,30,29,6,0,P.J. Hubert missed Three Point Jumper.
+UMKC,IUPUI,31,30,29,6,0,UMKC Defensive Rebound.
+UMKC,IUPUI,31,30,29,37,0,Caleb Johnson missed Layup.
+UMKC,IUPUI,31,30,29,37,0,Mitchell Patton Defensive Rebound.
+UMKC,IUPUI,31,30,29,48,0,Foul on Greg Rice
+UMKC,IUPUI,31,30,29,48,0,Greg Rice Turnover.
+UMKC,IUPUI,31,30,30,17,0,Estan Tyler missed Three Point Jumper.
+UMKC,IUPUI,31,30,30,17,0,Lyonell Gaines Defensive Rebound.
+UMKC,IUPUI,31,30,30,45,0,Sean Esposito missed Jumper.
+UMKC,IUPUI,31,30,30,45,0,UMKC Defensive Rebound.
+UMKC,IUPUI,34,30,31,2,1,Thomas Staton made Three Point Jumper.  Assisted by Trinity Hall.
+UMKC,IUPUI,34,33,31,27,1,Lyonell Gaines made Three Point Jumper.  Assisted by P.J. Hubert.
+UMKC,IUPUI,34,33,31,29,0,IUPUI Full Timeout.
+UMKC,IUPUI,34,33,31,42,0,Thomas Staton missed Jumper.
+UMKC,IUPUI,34,33,31,42,0,Trinity Hall Offensive Rebound.
+UMKC,IUPUI,36,33,32,18,1,Thomas Staton made Layup.
+UMKC,IUPUI,36,36,32,44,1,Sean Esposito made Three Point Jumper.  Assisted by Jordan Shanklin.
+UMKC,IUPUI,36,36,32,58,0,Foul on P.J. Hubert
+UMKC,IUPUI,37,36,32,58,1,Trinity Hall made Free Throw.
+UMKC,IUPUI,37,36,32,58,0,Official TV Timeout.
+UMKC,IUPUI,38,36,32,58,1,Trinity Hall made Free Throw.
+UMKC,IUPUI,38,36,33,14,0,Foul on Brad Reid
+UMKC,IUPUI,38,36,33,22,0,Foul on Aaron Washington
+UMKC,IUPUI,38,36,33,38,0,Mitchell Patton missed Jumper.
+UMKC,IUPUI,38,36,33,38,0,UMKC Defensive Rebound.
+UMKC,IUPUI,38,36,34,7,0,Foul on Fred Chatmon
+UMKC,IUPUI,38,36,34,7,0,Fred Chatmon Turnover.
+UMKC,IUPUI,38,36,34,27,0,Donovan Gibbs Turnover.
+UMKC,IUPUI,38,36,34,49,0,Foul on Trinity Hall
+UMKC,IUPUI,38,36,34,49,0,Trinity Hall Turnover.
+UMKC,IUPUI,38,37,35,8,1,Mitchell Patton made Free Throw.
+UMKC,IUPUI,38,37,35,8,0,Foul on Brad Reid
+UMKC,IUPUI,38,38,35,8,1,Mitchell Patton made Free Throw.
+UMKC,IUPUI,39,38,35,21,1,Estan Tyler made Free Throw.
+UMKC,IUPUI,39,38,35,21,0,Foul on Mitchell Patton
+UMKC,IUPUI,40,38,35,21,1,Estan Tyler made Free Throw.
+UMKC,IUPUI,40,38,35,51,0,Sean Esposito Turnover.
+UMKC,IUPUI,40,38,36,5,0,Trinity Hall missed Layup.
+UMKC,IUPUI,40,38,36,5,0,Donovan Gibbs Defensive Rebound.
+UMKC,IUPUI,40,40,36,14,1,Donovan Gibbs made Jumper.  Assisted by Greg Rice.
+UMKC,IUPUI,40,40,36,16,0,Official TV Timeout.
+UMKC,IUPUI,42,40,36,40,1,Thomas Staton made Jumper.
+UMKC,IUPUI,42,40,36,41,0,Foul on Donovan Gibbs
+UMKC,IUPUI,43,40,36,41,1,Thomas Staton made Free Throw.
+UMKC,IUPUI,43,40,36,56,0,Greg Rice Turnover.
+UMKC,IUPUI,45,40,37,19,1,Thomas Staton made Jumper.
+UMKC,IUPUI,45,40,37,30,0,IUPUI Full Timeout.
+UMKC,IUPUI,45,42,37,53,1,Mitchell Patton made Layup.  Assisted by Greg Rice.
+UMKC,IUPUI,45,42,38,16,0,UMKC Full Timeout.
+UMKC,IUPUI,45,42,38,25,0,Caleb Johnson missed Three Point Jumper.
+UMKC,IUPUI,45,42,38,25,0,Greg Rice Defensive Rebound.
+UMKC,IUPUI,45,42,38,52,0,Mitchell Patton missed Jumper.
+UMKC,IUPUI,45,42,38,52,0,Mason Wedel Defensive Rebound.
+UMKC,IUPUI,45,42,39,13,0,Thomas Staton missed Layup.
+UMKC,IUPUI,45,42,39,13,0,Mitchell Patton Block.
+UMKC,IUPUI,45,42,39,16,0,Mitchell Patton Defensive Rebound.
+UMKC,IUPUI,45,44,39,26,1,Greg Rice made Jumper.
+UMKC,IUPUI,45,44,39,27,0,IUPUI Full Timeout.
+UMKC,IUPUI,45,44,39,35,0,Foul on Sean Esposito
+UMKC,IUPUI,46,44,39,35,1,Mason Wedel made Free Throw.
+UMKC,IUPUI,46,44,39,36,0,Mason Wedel missed Free Throw.
+UMKC,IUPUI,46,44,39,37,0,Sean Esposito Defensive Rebound.
+UMKC,IUPUI,46,44,39,40,0,IUPUI Full Timeout.
+UMKC,IUPUI,46,44,39,51,0,Greg Rice missed Free Throw.
+UMKC,IUPUI,46,44,39,51,0,null
+UMKC,IUPUI,46,44,39,51,0,Foul on Estan Tyler
+UMKC,IUPUI,46,44,39,51,0,Greg Rice missed Free Throw.
+UMKC,IUPUI,47,44,39,51,0,Kirk Korver Defensive Rebound.
+UMKC,IUPUI,47,44,39,54,1,Kirk Korver made Free Throw.
+UMKC,IUPUI,47,44,39,54,0,Foul on Sean Esposito
+UMKC,IUPUI,48,44,39,54,1,Kirk Korver made Free Throw.
+UMKC,IUPUI,48,44,39,57,0,Sean Esposito missed Three Point Jumper.
+UMKC,IUPUI,48,44,39,57,0,Sean Esposito missed Three Point Jumper.
+UMKC,IUPUI,48,44,39,59,0,Kirk Korver Defensive Rebound.
+UMKC,IUPUI,48,44,39,59,0,Kirk Korver Defensive Rebound.
+UMKC,IUPUI,48,44,40,0,0,End Game

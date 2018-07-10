@@ -1,0 +1,303 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Arizona,California,0,0,0,0,0,Jump Ball won by California
+Arizona,California,0,2,0,15,1,Ivan Rabb made Jumper. Assisted by Sam Singer.
+Arizona,California,2,2,0,38,1,Kaleb Tarczewski made Jumper.
+Arizona,California,2,2,1,9,0,Foul on Kadeem Allen.
+Arizona,California,2,4,1,12,1,Jabari Bird made Jumper.
+Arizona,California,2,4,1,12,0,Foul on Mark Tollefsen.
+Arizona,California,2,5,1,12,1,Jabari Bird made Free Throw.
+Arizona,California,4,5,1,36,1,Ryan Anderson made Jumper. Assisted by Mark Tollefsen.
+Arizona,California,4,5,1,56,0,Jaylen Brown missed Jumper.
+Arizona,California,4,5,1,56,0,Kingsley Okoroh Offensive Rebound.
+Arizona,California,4,5,2,5,0,Foul on Kingsley Okoroh.
+Arizona,California,4,5,2,5,0,Kingsley Okoroh Turnover.
+Arizona,California,6,5,2,17,1,Ryan Anderson made Layup.
+Arizona,California,6,5,2,47,0,Sam Singer missed Jumper.
+Arizona,California,6,5,2,47,0,Ryan Anderson Defensive Rebound.
+Arizona,California,6,5,2,53,0,Gabe York missed Three Point Jumper.
+Arizona,California,6,5,2,53,0,Jabari Bird Defensive Rebound.
+Arizona,California,6,5,3,7,0,Jaylen Brown missed Layup.
+Arizona,California,6,5,3,7,0,Gabe York Defensive Rebound.
+Arizona,California,6,5,3,23,0,Foul on Kingsley Okoroh.
+Arizona,California,6,5,3,23,0,Ryan Anderson missed Free Throw.
+Arizona,California,6,5,3,23,0,Arizona Deadball Team Rebound.
+Arizona,California,7,5,3,23,1,Ryan Anderson made Free Throw.
+Arizona,California,7,5,3,37,0,Jabari Bird missed Three Point Jumper.
+Arizona,California,7,5,3,37,0,Parker Jackson-Cartwright Defensive Rebound.
+Arizona,California,7,5,3,52,0,Parker Jackson-Cartwright Turnover.
+Arizona,California,7,5,3,52,0,Kameron Rooks Steal.
+Arizona,California,7,7,4,12,1,Jordan Mathews made Jumper.
+Arizona,California,9,7,4,31,1,Ryan Anderson made Jumper.
+Arizona,California,9,9,4,47,1,Sam Singer made Layup.
+Arizona,California,11,9,5,6,1,Parker Jackson-Cartwright made Layup.
+Arizona,California,11,9,5,37,0,Jordan Mathews missed Three Point Jumper.
+Arizona,California,11,9,5,37,0,Arizona Defensive Rebound.
+Arizona,California,11,9,5,39,0,Official TV Timeout
+Arizona,California,11,9,5,59,0,Foul on Parker Jackson-Cartwright.
+Arizona,California,11,9,5,59,0,Parker Jackson-Cartwright Turnover.
+Arizona,California,11,9,6,10,0,Jaylen Brown Turnover.
+Arizona,California,11,9,6,10,0,Kadeem Allen Steal.
+Arizona,California,13,9,6,15,1,Kadeem Allen made Layup.
+Arizona,California,13,9,6,31,0,Jaylen Brown missed Three Point Jumper.
+Arizona,California,13,9,6,31,0,Kameron Rooks Offensive Rebound.
+Arizona,California,13,11,6,36,1,Kameron Rooks made Layup.
+Arizona,California,13,11,6,56,0,Dusan Ristic missed Three Point Jumper.
+Arizona,California,13,11,6,56,0,Arizona Deadball Team Rebound.
+Arizona,California,13,11,7,2,0,Foul on Kingsley Okoroh.
+Arizona,California,13,11,7,14,0,Ryan Anderson missed Jumper.
+Arizona,California,13,11,7,14,0,Dusan Ristic Offensive Rebound.
+Arizona,California,13,11,7,17,0,Jump Ball won by Arizona
+Arizona,California,13,11,7,23,0,Kadeem Allen missed Jumper.
+Arizona,California,13,11,7,23,0,Kameron Rooks Defensive Rebound.
+Arizona,California,13,11,7,46,0,Ivan Rabb Turnover.
+Arizona,California,15,11,7,59,1,Dusan Ristic made Jumper.
+Arizona,California,15,11,8,23,0,Ivan Rabb missed Jumper.
+Arizona,California,15,11,8,23,0,Kameron Rooks Offensive Rebound.
+Arizona,California,15,11,8,32,0,Jabari Bird missed Layup.
+Arizona,California,15,11,8,32,0,Ivan Rabb Offensive Rebound.
+Arizona,California,15,14,8,38,1,Jordan Mathews made Three Point Jumper. Assisted by Ivan Rabb.
+Arizona,California,15,14,8,45,0,Arizona  Timeout
+Arizona,California,15,14,9,5,0,Foul on Kameron Rooks.
+Arizona,California,15,14,9,5,0,Ryan Anderson missed Free Throw.
+Arizona,California,15,14,9,5,0,Arizona Deadball Team Rebound.
+Arizona,California,16,14,9,5,1,Ryan Anderson made Free Throw.
+Arizona,California,16,14,9,23,0,Foul on Kaleb Tarczewski.
+Arizona,California,16,14,9,26,0,Foul on Jordan Mathews.
+Arizona,California,16,14,9,26,0,Jordan Mathews Turnover.
+Arizona,California,16,14,9,36,0,Gabe York missed Three Point Jumper.
+Arizona,California,16,14,9,36,0,Kameron Rooks Defensive Rebound.
+Arizona,California,16,14,9,52,0,Jaylen Brown missed Three Point Jumper.
+Arizona,California,16,14,9,52,0,Sam Singer Offensive Rebound.
+Arizona,California,16,14,9,58,0,Jordan Mathews missed Three Point Jumper.
+Arizona,California,16,14,9,58,0,Gabe York Defensive Rebound.
+Arizona,California,16,14,10,10,0,Gabe York missed Layup.
+Arizona,California,16,14,10,10,0,Kaleb Tarczewski Offensive Rebound.
+Arizona,California,18,14,10,10,1,Kaleb Tarczewski made Two Point Tip Shot.
+Arizona,California,18,16,10,28,1,Jaylen Brown made Jumper.
+Arizona,California,18,16,10,41,0,Gabe York missed Jumper.
+Arizona,California,18,16,10,41,0,Sam Singer Defensive Rebound.
+Arizona,California,18,16,10,48,0,Jordan Mathews missed Three Point Jumper.
+Arizona,California,18,16,10,48,0,Gabe York Defensive Rebound.
+Arizona,California,20,16,11,0,1,Gabe York made Layup.
+Arizona,California,20,16,11,25,0,Ivan Rabb missed Jumper.
+Arizona,California,20,16,11,25,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,California,22,16,11,47,1,Kaleb Tarczewski made Layup. Assisted by Ryan Anderson.
+Arizona,California,22,16,12,15,0,Jordan Mathews missed Three Point Jumper.
+Arizona,California,22,16,12,15,0,Mark Tollefsen Defensive Rebound.
+Arizona,California,22,16,12,33,0,Ryan Anderson missed Jumper.
+Arizona,California,22,16,12,33,0,Jaylen Brown Defensive Rebound.
+Arizona,California,22,16,12,43,0,Foul on Mark Tollefsen.
+Arizona,California,22,16,12,43,0,Official TV Timeout
+Arizona,California,22,16,12,43,0,Jaylen Brown missed Free Throw.
+Arizona,California,22,16,12,43,0,California Deadball Team Rebound.
+Arizona,California,22,16,12,43,0,Jaylen Brown missed Free Throw.
+Arizona,California,22,16,12,43,0,Gabe York Defensive Rebound.
+Arizona,California,22,16,12,58,0,Parker Jackson-Cartwright missed Layup.
+Arizona,California,22,16,12,58,0,Jaylen Brown Block.
+Arizona,California,22,16,12,58,0,Jabari Bird Defensive Rebound.
+Arizona,California,22,16,13,7,0,Jaylen Brown missed Layup.
+Arizona,California,22,16,13,7,0,Stephen Domingo Offensive Rebound.
+Arizona,California,22,16,13,13,0,Jaylen Brown missed Three Point Jumper.
+Arizona,California,22,16,13,13,0,Ryan Anderson Defensive Rebound.
+Arizona,California,22,16,13,21,0,Dusan Ristic missed Layup.
+Arizona,California,22,16,13,21,0,Dusan Ristic Offensive Rebound.
+Arizona,California,22,16,13,26,0,Jump Ball won by California
+Arizona,California,22,16,13,26,0,Dusan Ristic Turnover.
+Arizona,California,22,16,13,26,0,Kameron Rooks Steal.
+Arizona,California,22,18,13,44,1,Sam Singer made Jumper. Assisted by Jordan Mathews.
+Arizona,California,24,18,14,13,1,Kadeem Allen made Layup.
+Arizona,California,24,20,14,31,1,Ivan Rabb made Jumper.
+Arizona,California,26,20,14,55,1,Justin Simon made Layup. Assisted by Dusan Ristic.
+Arizona,California,26,20,15,19,0,Sam Singer missed Layup.
+Arizona,California,26,20,15,19,0,Kameron Rooks Offensive Rebound.
+Arizona,California,26,22,15,19,1,Kameron Rooks made Two Point Tip Shot.
+Arizona,California,26,22,15,48,0,Foul on Kameron Rooks.
+Arizona,California,27,22,15,48,1,Dusan Ristic made Free Throw.
+Arizona,California,28,22,15,48,1,Dusan Ristic made Free Throw.
+Arizona,California,28,24,16,1,1,Jabari Bird made Layup.
+Arizona,California,30,24,16,17,1,Kadeem Allen made Jumper. Assisted by Gabe York.
+Arizona,California,30,24,16,36,0,Foul on Kaleb Tarczewski.
+Arizona,California,30,24,16,36,0,Official TV Timeout
+Arizona,California,30,24,16,57,0,Foul on Jaylen Brown.
+Arizona,California,30,24,16,57,0,Jaylen Brown Turnover.
+Arizona,California,30,24,17,10,0,Dusan Ristic missed Layup.
+Arizona,California,30,24,17,10,0,Kingsley Okoroh Block.
+Arizona,California,30,24,17,10,0,Dusan Ristic Offensive Rebound.
+Arizona,California,30,24,17,24,0,Ryan Anderson missed Jumper.
+Arizona,California,30,24,17,24,0,Kingsley Okoroh Defensive Rebound.
+Arizona,California,30,24,17,29,0,Foul on Gabe York.
+Arizona,California,30,25,17,29,1,Jaylen Brown made Free Throw.
+Arizona,California,30,26,17,29,1,Jaylen Brown made Free Throw.
+Arizona,California,32,26,17,44,1,Gabe York made Layup. Assisted by Parker Jackson-Cartwright.
+Arizona,California,32,26,17,59,0,Jaylen Brown missed Layup.
+Arizona,California,32,26,17,59,0,California Deadball Team Rebound.
+Arizona,California,32,26,18,1,0,Foul on Kadeem Allen.
+Arizona,California,32,27,18,1,1,Jaylen Brown made Free Throw.
+Arizona,California,32,28,18,1,1,Jaylen Brown made Free Throw.
+Arizona,California,32,28,18,8,0,Ryan Anderson Turnover.
+Arizona,California,32,28,18,8,0,Jaylen Brown Steal.
+Arizona,California,32,30,18,19,1,Jaylen Brown made Layup.
+Arizona,California,34,30,18,45,1,Ryan Anderson made Dunk. Assisted by Parker Jackson-Cartwright.
+Arizona,California,34,32,19,9,1,Sam Singer made Jumper.
+Arizona,California,37,32,19,38,1,Gabe York made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Arizona,California,37,32,19,46,0,California  Timeout
+Arizona,California,37,35,19,49,1,Jordan Mathews made Three Point Jumper. Assisted by Jaylen Brown.
+Arizona,California,37,35,20,0,0,End of 1st half
+Arizona,California,37,35,20,0,0,Jump Ball won by Arizona
+Arizona,California,37,35,20,13,0,Foul on Kingsley Okoroh.
+Arizona,California,37,35,20,24,0,Kadeem Allen Turnover.
+Arizona,California,37,38,20,42,1,Jabari Bird made Three Point Jumper. Assisted by Jaylen Brown.
+Arizona,California,37,38,21,2,0,Ryan Anderson Turnover.
+Arizona,California,37,38,21,15,0,Sam Singer missed Layup.
+Arizona,California,37,38,21,15,0,Ryan Anderson Block.
+Arizona,California,37,38,21,15,0,Arizona Defensive Rebound.
+Arizona,California,37,38,21,35,0,Gabe York Turnover.
+Arizona,California,37,38,21,45,0,Foul on Kadeem Allen.
+Arizona,California,37,39,21,45,1,Jaylen Brown made Free Throw.
+Arizona,California,37,39,21,45,0,Jaylen Brown missed Free Throw.
+Arizona,California,37,39,21,45,0,California Deadball Team Rebound.
+Arizona,California,37,40,21,45,1,Jaylen Brown made Free Throw.
+Arizona,California,37,40,21,49,0,Arizona  Timeout
+Arizona,California,37,40,21,55,0,Ryan Anderson missed Layup.
+Arizona,California,37,40,21,55,0,Ivan Rabb Defensive Rebound.
+Arizona,California,37,40,22,1,0,Foul on Gabe York.
+Arizona,California,37,40,22,8,0,Jaylen Brown missed Layup.
+Arizona,California,37,40,22,8,0,Mark Tollefsen Block.
+Arizona,California,37,40,22,8,0,California Offensive Rebound.
+Arizona,California,37,40,22,9,0,Jabari Bird missed Three Point Jumper.
+Arizona,California,37,40,22,9,0,Kadeem Allen Block.
+Arizona,California,37,40,22,9,0,Kameron Rooks Offensive Rebound.
+Arizona,California,37,40,22,23,0,Jaylen Brown Turnover.
+Arizona,California,37,40,22,29,0,Gabe York missed Layup.
+Arizona,California,37,40,22,29,0,Jaylen Brown Block.
+Arizona,California,37,40,22,29,0,Arizona Offensive Rebound.
+Arizona,California,37,40,22,34,0,Kadeem Allen Turnover.
+Arizona,California,37,40,22,50,0,Jordan Mathews missed Layup.
+Arizona,California,37,40,22,50,0,Ryan Anderson Defensive Rebound.
+Arizona,California,37,40,22,59,0,Foul on Ivan Rabb.
+Arizona,California,37,40,23,4,0,Foul on Gabe York.
+Arizona,California,37,40,23,4,0,Gabe York Turnover.
+Arizona,California,37,43,23,18,1,Jabari Bird made Three Point Jumper. Assisted by Jaylen Brown.
+Arizona,California,37,43,23,28,0,Arizona  Timeout
+Arizona,California,37,43,23,55,0,Gabe York Turnover.
+Arizona,California,37,43,24,9,0,Jabari Bird missed Three Point Jumper.
+Arizona,California,37,43,24,9,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,California,39,43,24,20,1,Gabe York made Layup.
+Arizona,California,39,43,24,20,0,Foul on Kameron Rooks.
+Arizona,California,39,43,24,20,0,Official TV Timeout
+Arizona,California,40,43,24,20,1,Gabe York made Free Throw.
+Arizona,California,40,45,24,33,1,Jaylen Brown made Jumper.
+Arizona,California,40,45,24,45,0,Gabe York missed Layup.
+Arizona,California,40,45,24,45,0,Kameron Rooks Defensive Rebound.
+Arizona,California,40,48,24,54,1,Jordan Mathews made Three Point Jumper. Assisted by Sam Singer.
+Arizona,California,42,48,25,18,1,Dusan Ristic made Jumper. Assisted by Parker Jackson-Cartwright.
+Arizona,California,42,51,25,44,1,Jordan Mathews made Three Point Jumper. Assisted by Jaylen Brown.
+Arizona,California,42,51,26,14,0,Foul on Jordan Mathews.
+Arizona,California,43,51,26,14,1,Parker Jackson-Cartwright made Free Throw.
+Arizona,California,44,51,26,14,1,Parker Jackson-Cartwright made Free Throw.
+Arizona,California,44,51,26,42,0,Kameron Rooks missed Jumper.
+Arizona,California,44,51,26,42,0,Ryan Anderson Defensive Rebound.
+Arizona,California,47,51,26,50,1,Kadeem Allen made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Arizona,California,47,51,27,12,0,Sam Singer missed Jumper.
+Arizona,California,47,51,27,12,0,Arizona Defensive Rebound.
+Arizona,California,47,51,27,27,0,Parker Jackson-Cartwright Turnover.
+Arizona,California,47,51,27,27,0,Jordan Mathews Steal.
+Arizona,California,47,51,27,34,0,Jaylen Brown missed Jumper.
+Arizona,California,47,51,27,34,0,Dusan Ristic Block.
+Arizona,California,47,51,27,34,0,Ryan Anderson Defensive Rebound.
+Arizona,California,47,51,27,50,0,Parker Jackson-Cartwright missed Layup.
+Arizona,California,47,51,27,50,0,Ryan Anderson Offensive Rebound.
+Arizona,California,49,51,27,50,1,Ryan Anderson made Two Point Tip Shot.
+Arizona,California,49,51,28,11,0,Jabari Bird missed Three Point Jumper.
+Arizona,California,49,51,28,11,0,Jaylen Brown Offensive Rebound.
+Arizona,California,49,51,28,19,0,Foul on Parker Jackson-Cartwright.
+Arizona,California,49,51,28,19,0,Official TV Timeout
+Arizona,California,49,53,28,24,1,Jordan Mathews made Jumper. Assisted by Jaylen Brown.
+Arizona,California,49,53,28,37,0,Mark Tollefsen missed Jumper.
+Arizona,California,49,53,28,37,0,Jordan Mathews Defensive Rebound.
+Arizona,California,49,55,28,47,1,Ivan Rabb made Layup. Assisted by Jordan Mathews.
+Arizona,California,49,55,28,47,0,Foul on Kaleb Tarczewski.
+Arizona,California,49,55,28,47,0,Ivan Rabb missed Free Throw.
+Arizona,California,49,55,28,47,0,Ryan Anderson Defensive Rebound.
+Arizona,California,49,55,29,3,0,Gabe York missed Jumper.
+Arizona,California,49,55,29,3,0,California Deadball Team Rebound.
+Arizona,California,49,55,29,6,0,Foul on Ryan Anderson.
+Arizona,California,49,55,29,20,0,Jordan Mathews missed Three Point Jumper.
+Arizona,California,49,55,29,20,0,Ryan Anderson Defensive Rebound.
+Arizona,California,49,55,29,31,0,Kadeem Allen missed Layup.
+Arizona,California,49,55,29,31,0,Jordan Mathews Defensive Rebound.
+Arizona,California,49,55,29,42,0,California  Timeout
+Arizona,California,49,57,29,46,1,Jaylen Brown made Jumper.
+Arizona,California,49,57,30,7,0,Foul on Ivan Rabb.
+Arizona,California,50,57,30,7,1,Dusan Ristic made Free Throw.
+Arizona,California,51,57,30,7,1,Dusan Ristic made Free Throw.
+Arizona,California,51,60,30,28,1,Jordan Mathews made Three Point Jumper.
+Arizona,California,53,60,30,48,1,Dusan Ristic made Jumper.
+Arizona,California,53,60,31,19,0,Jordan Mathews missed Three Point Jumper.
+Arizona,California,53,60,31,19,0,Ivan Rabb Offensive Rebound.
+Arizona,California,53,60,31,47,0,Jaylen Brown missed Three Point Jumper.
+Arizona,California,53,60,31,47,0,Gabe York Defensive Rebound.
+Arizona,California,53,60,32,17,0,Gabe York missed Three Point Jumper.
+Arizona,California,53,60,32,17,0,Kaleb Tarczewski Offensive Rebound.
+Arizona,California,53,60,32,27,0,Official TV Timeout
+Arizona,California,53,60,32,33,0,Foul on Ivan Rabb.
+Arizona,California,54,60,32,33,1,Ryan Anderson made Free Throw.
+Arizona,California,55,60,32,33,1,Ryan Anderson made Free Throw.
+Arizona,California,55,62,32,49,1,Ivan Rabb made Jumper. Assisted by Sam Singer.
+Arizona,California,57,62,33,21,1,Gabe York made Layup.
+Arizona,California,57,62,33,44,0,Ivan Rabb missed Jumper.
+Arizona,California,57,62,33,44,0,Ryan Anderson Defensive Rebound.
+Arizona,California,57,62,34,13,0,Mark Tollefsen missed Jumper.
+Arizona,California,57,62,34,13,0,Jabari Bird Defensive Rebound.
+Arizona,California,57,62,34,18,0,Jump Ball won by California
+Arizona,California,57,62,34,39,0,Jaylen Brown missed Jumper.
+Arizona,California,57,62,34,39,0,Gabe York Defensive Rebound.
+Arizona,California,57,62,34,45,0,Gabe York missed Three Point Jumper.
+Arizona,California,57,62,34,45,0,Kaleb Tarczewski Offensive Rebound.
+Arizona,California,57,62,34,52,0,Foul on Ivan Rabb.
+Arizona,California,58,62,34,52,1,Kaleb Tarczewski made Free Throw.
+Arizona,California,59,62,34,52,1,Kaleb Tarczewski made Free Throw.
+Arizona,California,59,62,35,17,0,Foul on Gabe York.
+Arizona,California,59,63,35,17,1,Jordan Mathews made Free Throw.
+Arizona,California,59,64,35,17,1,Jordan Mathews made Free Throw.
+Arizona,California,62,64,35,26,1,Mark Tollefsen made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Arizona,California,62,64,35,42,0,California  Timeout
+Arizona,California,62,64,35,44,0,California  Timeout
+Arizona,California,62,64,35,45,0,Foul on Kadeem Allen.
+Arizona,California,62,64,35,45,0,Ivan Rabb missed Free Throw.
+Arizona,California,62,64,35,45,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,California,62,64,36,1,0,Gabe York missed Layup.
+Arizona,California,62,64,36,1,0,Kameron Rooks Block.
+Arizona,California,62,64,36,1,0,Jaylen Brown Defensive Rebound.
+Arizona,California,62,66,36,8,1,Jordan Mathews made Layup. Assisted by Jaylen Brown.
+Arizona,California,62,66,36,37,0,Kaleb Tarczewski missed Layup.
+Arizona,California,62,66,36,37,0,Kaleb Tarczewski Offensive Rebound.
+Arizona,California,62,66,36,40,0,Foul on Kameron Rooks.
+Arizona,California,63,66,36,40,1,Kaleb Tarczewski made Free Throw.
+Arizona,California,64,66,36,40,1,Kaleb Tarczewski made Free Throw.
+Arizona,California,64,66,36,58,0,Sam Singer missed Layup.
+Arizona,California,64,66,36,58,0,Ryan Anderson Block.
+Arizona,California,64,66,36,58,0,Kadeem Allen Defensive Rebound.
+Arizona,California,66,66,37,4,1,Kadeem Allen made Layup.
+Arizona,California,66,66,37,13,0,Jaylen Brown missed Layup.
+Arizona,California,66,66,37,13,0,Jaylen Brown Offensive Rebound.
+Arizona,California,66,69,37,19,1,Jordan Mathews made Three Point Jumper. Assisted by Jaylen Brown.
+Arizona,California,68,69,37,47,1,Kaleb Tarczewski made Layup. Assisted by Kadeem Allen.
+Arizona,California,68,69,38,10,0,Foul on Kaleb Tarczewski.
+Arizona,California,68,70,38,10,1,Ivan Rabb made Free Throw.
+Arizona,California,68,71,38,10,1,Ivan Rabb made Free Throw.
+Arizona,California,68,71,38,20,0,Ryan Anderson missed Jumper.
+Arizona,California,68,71,38,20,0,Ivan Rabb Defensive Rebound.
+Arizona,California,68,73,38,46,1,Jordan Mathews made Jumper.
+Arizona,California,68,73,38,54,0,Arizona  Timeout
+Arizona,California,71,73,39,3,1,Gabe York made Three Point Jumper.
+Arizona,California,71,73,39,16,0,Sam Singer Turnover.
+Arizona,California,71,73,39,16,0,Kadeem Allen Steal.
+Arizona,California,73,73,39,21,1,Kadeem Allen made Layup.
+Arizona,California,73,73,39,42,0,Foul on Kaleb Tarczewski.
+Arizona,California,73,73,39,42,0,Jaylen Brown missed Free Throw.
+Arizona,California,73,73,39,42,0,California Deadball Team Rebound.
+Arizona,California,73,74,39,42,1,Jaylen Brown made Free Throw.
+Arizona,California,73,74,39,58,0,Gabe York missed Jumper.
+Arizona,California,73,74,39,58,0,Jordan Mathews Defensive Rebound.
+Arizona,California,73,74,40,0,0,End of Game

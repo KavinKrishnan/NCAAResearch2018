@@ -1,0 +1,341 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+SMU,TCU,0,0,0,13,0,Jordan Tolbert missed Layup.
+SMU,TCU,0,0,0,13,0,Karviar Shepherd Block.
+SMU,TCU,0,0,0,14,0,Karviar Shepherd Defensive Rebound.
+SMU,TCU,0,0,0,31,0,Vladimir Brodziansky missed Layup.
+SMU,TCU,0,0,0,31,0,Sterling Brown Defensive Rebound.
+SMU,TCU,2,0,0,42,1,Markus Kennedy made Layup.
+SMU,TCU,2,0,1,10,0,Karviar Shepherd missed Jumper.
+SMU,TCU,2,0,1,10,0,Vladimir Brodziansky Offensive Rebound.
+SMU,TCU,2,2,1,14,1,Vladimir Brodziansky made Layup.
+SMU,TCU,2,2,1,14,0,Foul on Markus Kennedy.
+SMU,TCU,2,3,1,14,1,Vladimir Brodziansky made Free Throw.
+SMU,TCU,2,3,1,27,0,Keith Frazier missed Three Point Jumper.
+SMU,TCU,2,3,1,27,0,Markus Kennedy Offensive Rebound.
+SMU,TCU,4,3,1,31,1,Markus Kennedy made Layup.
+SMU,TCU,4,5,1,50,1,Vladimir Brodziansky made Layup. Assisted by Karviar Shepherd.
+SMU,TCU,4,5,2,2,0,Markus Kennedy Turnover.
+SMU,TCU,4,5,2,3,0,Brandon Parrish Steal.
+SMU,TCU,4,5,2,7,0,Brandon Parrish Turnover.
+SMU,TCU,4,5,2,7,0,Foul on Brandon Parrish.
+SMU,TCU,4,5,2,13,0,Foul on Malique Trent.
+SMU,TCU,4,5,2,21,0,Nic Moore missed Layup.
+SMU,TCU,4,5,2,21,0,Karviar Shepherd Defensive Rebound.
+SMU,TCU,4,5,2,28,0,Brandon Parrish missed Three Point Jumper.
+SMU,TCU,4,5,2,28,0,Keith Frazier Defensive Rebound.
+SMU,TCU,4,5,2,36,0,Foul on Karviar Shepherd.
+SMU,TCU,4,5,2,39,0,Foul on Vladimir Brodziansky.
+SMU,TCU,4,5,2,51,0,Jordan Tolbert missed Layup.
+SMU,TCU,4,5,2,51,0,Vladimir Brodziansky Block.
+SMU,TCU,4,5,2,52,0,Karviar Shepherd Defensive Rebound.
+SMU,TCU,4,5,3,8,0,Vladimir Brodziansky missed Three Point Jumper.
+SMU,TCU,4,5,3,8,0,Karviar Shepherd Offensive Rebound.
+SMU,TCU,4,7,3,12,1,Karviar Shepherd made Layup.
+SMU,TCU,7,7,3,31,1,Sterling Brown made Three Point Jumper. Assisted by Nic Moore.
+SMU,TCU,7,7,3,44,0,Karviar Shepherd Turnover.
+SMU,TCU,7,7,3,52,0,Foul on Karviar Shepherd.
+SMU,TCU,9,7,4,2,1,Nic Moore made Jumper.
+SMU,TCU,9,10,4,14,1,Chauncey Collins made Three Point Jumper. Assisted by Devonta Abron.
+SMU,TCU,9,10,4,28,0,Foul on Devonta Abron.
+SMU,TCU,9,10,4,28,0,Official TV Timeout
+SMU,TCU,9,10,4,28,0,Markus Kennedy missed Free Throw.
+SMU,TCU,9,10,4,28,0,SMU Deadball Team Rebound.
+SMU,TCU,10,10,4,28,1,Markus Kennedy made Free Throw.
+SMU,TCU,10,13,4,51,1,Vladimir Brodziansky made Three Point Jumper. Assisted by Malique Trent.
+SMU,TCU,10,13,5,5,0,Jordan Tolbert missed Layup.
+SMU,TCU,10,13,5,5,0,TCU Defensive Rebound.
+SMU,TCU,10,13,5,21,0,Chauncey Collins missed Three Point Jumper.
+SMU,TCU,10,13,5,21,0,Jordan Tolbert Defensive Rebound.
+SMU,TCU,10,13,5,29,0,Sterling Brown missed Layup.
+SMU,TCU,10,13,5,29,0,Brandon Parrish Block.
+SMU,TCU,10,13,5,30,0,Sterling Brown Offensive Rebound.
+SMU,TCU,10,13,5,32,0,Sterling Brown missed Layup.
+SMU,TCU,10,13,5,32,0,Brandon Parrish Block.
+SMU,TCU,10,13,5,32,0,SMU Offensive Rebound.
+SMU,TCU,10,13,5,44,0,Keith Frazier missed Layup.
+SMU,TCU,10,13,5,44,0,Brandon Parrish Defensive Rebound.
+SMU,TCU,10,13,5,51,0,Malique Trent missed Layup.
+SMU,TCU,10,13,5,51,0,Ben Moore Defensive Rebound.
+SMU,TCU,10,13,6,2,0,Jordan Tolbert missed Layup.
+SMU,TCU,10,13,6,2,0,Vladimir Brodziansky Defensive Rebound.
+SMU,TCU,10,16,6,17,1,Chauncey Collins made Three Point Jumper. Assisted by Malique Trent.
+SMU,TCU,10,16,6,18,0,Foul on Nic Moore.
+SMU,TCU,10,16,6,18,0,Chauncey Collins missed Free Throw.
+SMU,TCU,10,16,6,18,0,Shake Milton Defensive Rebound.
+SMU,TCU,10,16,6,31,0,Nic Moore missed Three Point Jumper.
+SMU,TCU,10,16,6,31,0,Brandon Parrish Defensive Rebound.
+SMU,TCU,10,16,6,48,0,Brandon Parrish missed Jumper.
+SMU,TCU,10,16,6,48,0,Markus Kennedy Defensive Rebound.
+SMU,TCU,10,16,6,59,0,Ben Moore Turnover.
+SMU,TCU,10,16,6,59,0,Brandon Parrish Steal.
+SMU,TCU,10,19,7,19,1,Michael Williams made Three Point Jumper. Assisted by Chauncey Collins.
+SMU,TCU,10,19,7,32,0,Foul on Brandon Parrish.
+SMU,TCU,10,19,7,32,0,Jarrey Foster missed Free Throw.
+SMU,TCU,10,19,7,32,0,Vladimir Brodziansky Defensive Rebound.
+SMU,TCU,10,22,7,53,1,Chauncey Collins made Three Point Jumper. Assisted by Michael Williams.
+SMU,TCU,10,22,8,11,0,Foul on JD Miller.
+SMU,TCU,11,22,8,11,1,Nic Moore made Free Throw.
+SMU,TCU,12,22,8,11,1,Nic Moore made Free Throw.
+SMU,TCU,12,22,8,35,0,Vladimir Brodziansky missed Layup.
+SMU,TCU,12,22,8,35,0,Ben Moore Defensive Rebound.
+SMU,TCU,12,22,8,47,0,Jarrey Foster missed Jumper.
+SMU,TCU,12,22,8,47,0,Vladimir Brodziansky Defensive Rebound.
+SMU,TCU,12,24,9,14,1,JD Miller made Layup. Assisted by Michael Williams.
+SMU,TCU,14,24,9,29,1,Markus Kennedy made Layup. Assisted by Nic Moore.
+SMU,TCU,14,24,9,46,0,Chauncey Collins Turnover.
+SMU,TCU,14,24,9,46,0,Ben Moore Steal.
+SMU,TCU,16,24,9,48,1,Ben Moore made Layup.
+SMU,TCU,16,26,10,9,1,Vladimir Brodziansky made Layup.
+SMU,TCU,16,26,10,9,0,Foul on Markus Kennedy.
+SMU,TCU,16,27,10,9,1,Vladimir Brodziansky made Free Throw.
+SMU,TCU,16,27,10,30,0,Nic Moore missed Jumper.
+SMU,TCU,16,27,10,30,0,Jordan Tolbert Offensive Rebound.
+SMU,TCU,19,27,10,38,1,Shake Milton made Three Point Jumper.
+SMU,TCU,19,27,10,53,0,Foul on Ben Moore.
+SMU,TCU,19,27,10,56,0,Malique Trent missed Three Point Jumper.
+SMU,TCU,19,27,10,56,0,Ben Moore Defensive Rebound.
+SMU,TCU,19,27,11,17,0,Ben Moore missed Jumper.
+SMU,TCU,19,27,11,17,0,Keith Frazier Offensive Rebound.
+SMU,TCU,21,27,11,33,1,Ben Moore made Layup. Assisted by Nic Moore.
+SMU,TCU,21,27,11,48,0,Foul on Keith Frazier.
+SMU,TCU,21,27,12,0,0,Chauncey Collins missed Three Point Jumper.
+SMU,TCU,21,27,12,0,0,Keith Frazier Defensive Rebound.
+SMU,TCU,21,27,12,8,0,Shake Milton Turnover.
+SMU,TCU,21,27,12,8,0,Foul on Shake Milton.
+SMU,TCU,21,27,12,8,0,Official TV Timeout
+SMU,TCU,21,27,12,24,0,Foul on Shake Milton.
+SMU,TCU,21,27,12,24,0,Devonta Abron missed Free Throw.
+SMU,TCU,21,27,12,24,0,TCU Deadball Team Rebound.
+SMU,TCU,21,28,12,24,1,Devonta Abron made Free Throw.
+SMU,TCU,21,28,12,33,0,Foul on Chauncey Collins.
+SMU,TCU,21,28,12,33,0,Ben Moore missed Free Throw.
+SMU,TCU,21,28,12,33,0,Foul on Sterling Brown.
+SMU,TCU,21,28,12,33,0,Foul on Devonta Abron.
+SMU,TCU,21,28,12,33,0,Technical Foul on Sterling Brown.
+SMU,TCU,21,28,12,33,0,Technical Foul on Devonta Abron.
+SMU,TCU,21,28,12,33,0,SMU Deadball Team Rebound.
+SMU,TCU,21,28,12,33,0,Ben Moore missed Free Throw.
+SMU,TCU,21,28,12,33,0,Devonta Abron Defensive Rebound.
+SMU,TCU,21,28,12,50,0,Foul on Ben Moore.
+SMU,TCU,21,28,12,50,0,Vladimir Brodziansky missed Free Throw.
+SMU,TCU,21,28,12,50,0,Jarrey Foster Defensive Rebound.
+SMU,TCU,21,28,13,1,0,Foul on Michael Williams.
+SMU,TCU,22,28,13,1,1,Ben Moore made Free Throw.
+SMU,TCU,23,28,13,1,1,Ben Moore made Free Throw.
+SMU,TCU,23,28,13,13,0,Malique Trent missed Three Point Jumper.
+SMU,TCU,23,28,13,13,0,Nic Moore Defensive Rebound.
+SMU,TCU,23,28,13,20,0,Ben Moore missed Layup.
+SMU,TCU,23,28,13,20,0,Jordan Tolbert Offensive Rebound.
+SMU,TCU,25,28,13,23,1,Jordan Tolbert made Dunk.
+SMU,TCU,25,28,13,50,0,Chauncey Collins missed Three Point Jumper.
+SMU,TCU,25,28,13,50,0,JD Miller Offensive Rebound.
+SMU,TCU,25,28,14,12,0,Vladimir Brodziansky missed Layup.
+SMU,TCU,25,28,14,12,0,Jordan Tolbert Defensive Rebound.
+SMU,TCU,27,28,14,28,1,Ben Moore made Layup. Assisted by Nic Moore.
+SMU,TCU,27,28,14,46,0,Chauncey Collins missed Three Point Jumper.
+SMU,TCU,27,28,14,46,0,Jarrey Foster Defensive Rebound.
+SMU,TCU,27,28,14,53,0,Keith Frazier missed Three Point Jumper.
+SMU,TCU,27,28,14,53,0,JD Miller Defensive Rebound.
+SMU,TCU,27,28,15,19,0,Chauncey Collins missed Layup.
+SMU,TCU,27,28,15,19,0,Jarrey Foster Defensive Rebound.
+SMU,TCU,27,28,15,21,0,Foul on Chauncey Collins.
+SMU,TCU,28,28,15,21,1,Jarrey Foster made Free Throw.
+SMU,TCU,29,28,15,21,1,Jarrey Foster made Free Throw.
+SMU,TCU,29,28,15,41,0,Malique Trent missed Layup.
+SMU,TCU,29,28,15,41,0,Jordan Tolbert Block.
+SMU,TCU,29,28,15,42,0,Jarrey Foster Defensive Rebound.
+SMU,TCU,29,28,15,48,0,Jarrey Foster missed Layup.
+SMU,TCU,29,28,15,48,0,JD Miller Block.
+SMU,TCU,29,28,15,50,0,Chauncey Collins Defensive Rebound.
+SMU,TCU,29,28,16,5,0,Michael Williams missed Three Point Jumper.
+SMU,TCU,29,28,16,5,0,Sterling Brown Defensive Rebound.
+SMU,TCU,29,28,16,33,0,Nic Moore missed Layup.
+SMU,TCU,29,28,16,33,0,JD Miller Block.
+SMU,TCU,29,28,16,35,0,Sterling Brown Offensive Rebound.
+SMU,TCU,29,28,16,37,0,Official TV Timeout
+SMU,TCU,29,28,16,37,0,Nic Moore missed Three Point Jumper.
+SMU,TCU,29,28,16,37,0,Jordan Tolbert Offensive Rebound.
+SMU,TCU,29,28,16,43,0,Jordan Tolbert missed Layup.
+SMU,TCU,29,28,16,43,0,JD Miller Block.
+SMU,TCU,29,28,16,45,0,Jordan Tolbert Offensive Rebound.
+SMU,TCU,32,28,16,46,1,Nic Moore made Three Point Jumper. Assisted by Jordan Tolbert.
+SMU,TCU,32,28,17,6,0,Foul on Jordan Tolbert.
+SMU,TCU,32,28,17,6,0,JD Miller missed Free Throw.
+SMU,TCU,32,28,17,6,0,TCU Deadball Team Rebound.
+SMU,TCU,32,29,17,6,1,JD Miller made Free Throw.
+SMU,TCU,32,29,17,27,0,Nic Moore missed Layup.
+SMU,TCU,32,29,17,27,0,Malique Trent Defensive Rebound.
+SMU,TCU,32,31,17,45,1,JD Miller made Layup. Assisted by Malique Trent.
+SMU,TCU,34,31,18,5,1,Sterling Brown made Layup. Assisted by Keith Frazier.
+SMU,TCU,34,31,18,23,0,Michael Williams Turnover.
+SMU,TCU,34,31,18,24,0,Sterling Brown Steal.
+SMU,TCU,36,31,18,28,1,Jordan Tolbert made Dunk. Assisted by Nic Moore.
+SMU,TCU,36,31,18,35,0,TCU  Timeout
+SMU,TCU,36,31,18,47,0,Foul on Keith Frazier.
+SMU,TCU,36,32,18,47,1,JD Miller made Free Throw.
+SMU,TCU,36,33,18,47,1,JD Miller made Free Throw.
+SMU,TCU,36,33,19,4,0,Nic Moore Turnover.
+SMU,TCU,36,33,19,4,0,JD Miller Steal.
+SMU,TCU,36,35,19,7,1,Malique Trent made Layup.
+SMU,TCU,38,35,19,19,1,Jordan Tolbert made Layup. Assisted by Nic Moore.
+SMU,TCU,38,37,19,50,1,Vladimir Brodziansky made Layup. Assisted by Lyrik Shreiner.
+SMU,TCU,38,37,19,59,0,Foul on JD Miller.
+SMU,TCU,39,37,19,59,1,Sterling Brown made Free Throw.
+SMU,TCU,40,37,19,59,1,Sterling Brown made Free Throw.
+SMU,TCU,38,37,20,0,0,End of 1st half
+SMU,TCU,40,37,20,14,0,Malique Trent missed Layup.
+SMU,TCU,40,37,20,14,0,Jordan Tolbert Block.
+SMU,TCU,40,37,20,16,0,Malique Trent Offensive Rebound.
+SMU,TCU,40,37,20,16,0,Foul on Jordan Tolbert.
+SMU,TCU,40,38,20,16,1,Malique Trent made Free Throw.
+SMU,TCU,40,39,20,16,1,Malique Trent made Free Throw.
+SMU,TCU,40,39,20,30,0,Nic Moore Turnover.
+SMU,TCU,40,39,20,31,0,Chauncey Collins Steal.
+SMU,TCU,40,39,20,44,0,Malique Trent Turnover.
+SMU,TCU,40,39,20,45,0,Keith Frazier Steal.
+SMU,TCU,40,39,20,48,0,Markus Kennedy missed Layup.
+SMU,TCU,40,39,20,48,0,Jordan Tolbert Offensive Rebound.
+SMU,TCU,40,39,20,51,0,Jordan Tolbert missed Two Point Tip Shot.
+SMU,TCU,40,39,20,51,0,Sterling Brown Offensive Rebound.
+SMU,TCU,42,39,20,54,1,Sterling Brown made Layup.
+SMU,TCU,42,39,21,0,0,Foul on Jordan Tolbert.
+SMU,TCU,42,42,21,31,1,Vladimir Brodziansky made Three Point Jumper. Assisted by Malique Trent.
+SMU,TCU,42,42,21,52,0,Keith Frazier Turnover.
+SMU,TCU,42,42,21,57,0,Chauncey Collins missed Three Point Jumper.
+SMU,TCU,42,42,21,57,0,Sterling Brown Defensive Rebound.
+SMU,TCU,42,42,22,4,0,Foul on Brandon Parrish.
+SMU,TCU,44,42,22,11,1,Markus Kennedy made Layup.
+SMU,TCU,44,42,22,27,0,Karviar Shepherd missed Jumper.
+SMU,TCU,44,42,22,27,0,Sterling Brown Defensive Rebound.
+SMU,TCU,44,42,22,47,0,Foul on Michael Williams.
+SMU,TCU,44,42,22,48,0,Nic Moore missed Jumper.
+SMU,TCU,44,42,22,48,0,TCU Defensive Rebound.
+SMU,TCU,44,44,23,17,1,Vladimir Brodziansky made Layup. Assisted by Karviar Shepherd.
+SMU,TCU,44,44,23,35,0,Sterling Brown missed Layup.
+SMU,TCU,44,44,23,35,0,Karviar Shepherd Defensive Rebound.
+SMU,TCU,44,44,24,1,0,Malique Trent missed Jumper.
+SMU,TCU,44,44,24,1,0,Keith Frazier Block.
+SMU,TCU,44,44,24,1,0,TCU Offensive Rebound.
+SMU,TCU,44,44,24,7,0,TCU  Turnover.
+SMU,TCU,44,44,24,7,0,Official TV Timeout
+SMU,TCU,47,44,24,18,1,Nic Moore made Three Point Jumper. Assisted by Shake Milton.
+SMU,TCU,47,44,24,39,0,Foul on Ben Moore.
+SMU,TCU,47,46,24,50,1,Karviar Shepherd made Jumper.
+SMU,TCU,47,46,25,6,0,Nic Moore missed Three Point Jumper.
+SMU,TCU,47,46,25,6,0,Jarrey Foster Offensive Rebound.
+SMU,TCU,49,46,25,10,1,Jarrey Foster made Layup.
+SMU,TCU,49,46,25,31,0,Malique Trent Turnover.
+SMU,TCU,49,46,25,31,0,Ben Moore Steal.
+SMU,TCU,49,46,25,31,0,Foul on Chauncey Collins.
+SMU,TCU,49,46,25,39,0,Ben Moore missed Layup.
+SMU,TCU,49,46,25,39,0,Vladimir Brodziansky Block.
+SMU,TCU,49,46,25,40,0,Michael Williams Defensive Rebound.
+SMU,TCU,49,46,26,1,0,Lyrik Shreiner missed Layup.
+SMU,TCU,49,46,26,1,0,Karviar Shepherd Offensive Rebound.
+SMU,TCU,49,48,26,3,1,Karviar Shepherd made Two Point Tip Shot.
+SMU,TCU,49,48,26,9,0,Markus Kennedy Turnover.
+SMU,TCU,49,48,26,9,0,Foul on Markus Kennedy.
+SMU,TCU,49,48,26,25,0,Michael Williams Turnover.
+SMU,TCU,49,48,26,26,0,Nic Moore Steal.
+SMU,TCU,49,48,26,30,0,Foul on Michael Williams.
+SMU,TCU,50,48,26,30,1,Nic Moore made Free Throw.
+SMU,TCU,50,48,26,30,0,Nic Moore missed Free Throw.
+SMU,TCU,50,48,26,30,0,Vladimir Brodziansky Defensive Rebound.
+SMU,TCU,50,51,26,42,1,Chauncey Collins made Three Point Jumper. Assisted by Brandon Parrish.
+SMU,TCU,50,51,27,2,0,Jarrey Foster missed Three Point Jumper.
+SMU,TCU,50,51,27,2,0,Markus Kennedy Offensive Rebound.
+SMU,TCU,53,51,27,11,1,Nic Moore made Three Point Jumper.
+SMU,TCU,53,51,27,30,0,Chauncey Collins missed Three Point Jumper.
+SMU,TCU,53,51,27,30,0,Nic Moore Defensive Rebound.
+SMU,TCU,56,51,27,39,1,Nic Moore made Three Point Jumper.
+SMU,TCU,56,51,28,5,0,Karviar Shepherd Turnover.
+SMU,TCU,56,51,28,6,0,Markus Kennedy Steal.
+SMU,TCU,56,51,28,11,0,Nic Moore missed Three Point Jumper.
+SMU,TCU,56,51,28,11,0,Ben Moore Offensive Rebound.
+SMU,TCU,56,51,28,19,0,Official TV Timeout
+SMU,TCU,56,51,28,27,0,Foul on Chauncey Collins.
+SMU,TCU,58,51,28,39,1,Markus Kennedy made Layup. Assisted by Shake Milton.
+SMU,TCU,58,51,29,0,0,Brandon Parrish missed Three Point Jumper.
+SMU,TCU,58,51,29,0,0,Markus Kennedy Defensive Rebound.
+SMU,TCU,60,51,29,20,1,Markus Kennedy made Dunk. Assisted by Jarrey Foster.
+SMU,TCU,60,54,29,37,1,Malique Trent made Three Point Jumper. Assisted by Michael Williams.
+SMU,TCU,60,54,29,59,0,Ben Moore missed Layup.
+SMU,TCU,60,54,29,59,0,TCU Defensive Rebound.
+SMU,TCU,60,54,30,14,0,Brandon Parrish Turnover.
+SMU,TCU,60,54,30,15,0,Keith Frazier Steal.
+SMU,TCU,60,54,30,18,0,Keith Frazier Turnover.
+SMU,TCU,60,54,30,20,0,Michael Williams Steal.
+SMU,TCU,60,57,30,27,1,Malique Trent made Three Point Jumper. Assisted by Michael Williams.
+SMU,TCU,60,57,30,44,0,Nic Moore missed Jumper.
+SMU,TCU,60,57,30,44,0,Markus Kennedy Offensive Rebound.
+SMU,TCU,62,57,30,47,1,Markus Kennedy made Two Point Tip Shot.
+SMU,TCU,62,59,30,59,1,Malique Trent made Jumper.
+SMU,TCU,62,59,30,59,0,Foul on Nic Moore.
+SMU,TCU,62,60,30,59,1,Malique Trent made Free Throw.
+SMU,TCU,62,60,31,8,0,Markus Kennedy missed Jumper.
+SMU,TCU,62,60,31,8,0,Karviar Shepherd Defensive Rebound.
+SMU,TCU,62,62,31,26,1,Michael Williams made Layup.
+SMU,TCU,62,62,31,34,0,Shake Milton missed Three Point Jumper.
+SMU,TCU,62,62,31,34,0,Karviar Shepherd Defensive Rebound.
+SMU,TCU,62,62,31,55,0,Karviar Shepherd Turnover.
+SMU,TCU,62,62,31,55,0,Foul on Karviar Shepherd.
+SMU,TCU,62,62,32,3,0,Markus Kennedy Turnover.
+SMU,TCU,62,62,32,3,0,Foul on Markus Kennedy.
+SMU,TCU,62,62,32,3,0,Official TV Timeout
+SMU,TCU,62,62,32,23,0,Devonta Abron missed Jumper.
+SMU,TCU,62,62,32,23,0,Devonta Abron Offensive Rebound.
+SMU,TCU,62,64,32,28,1,Devonta Abron made Jumper.
+SMU,TCU,62,64,32,40,0,Jordan Tolbert missed Layup.
+SMU,TCU,62,64,32,40,0,Jordan Tolbert Offensive Rebound.
+SMU,TCU,62,64,32,42,0,Foul on Devonta Abron.
+SMU,TCU,62,64,32,42,0,Jordan Tolbert missed Free Throw.
+SMU,TCU,62,64,32,42,0,SMU Deadball Team Rebound.
+SMU,TCU,63,64,32,42,1,Jordan Tolbert made Free Throw.
+SMU,TCU,63,64,33,1,0,Brandon Parrish missed Three Point Jumper.
+SMU,TCU,63,64,33,1,0,Jordan Tolbert Defensive Rebound.
+SMU,TCU,63,64,33,14,0,Keith Frazier Turnover.
+SMU,TCU,63,64,33,14,0,Foul on Keith Frazier.
+SMU,TCU,63,66,33,32,1,Karviar Shepherd made Jumper. Assisted by Malique Trent.
+SMU,TCU,63,66,33,52,0,Keith Frazier missed Three Point Jumper.
+SMU,TCU,63,66,33,52,0,Karviar Shepherd Defensive Rebound.
+SMU,TCU,63,66,34,23,0,Karviar Shepherd missed Three Point Jumper.
+SMU,TCU,63,66,34,23,0,Keith Frazier Defensive Rebound.
+SMU,TCU,65,66,34,40,1,Nic Moore made Jumper.
+SMU,TCU,65,66,35,0,0,Malique Trent missed Three Point Jumper.
+SMU,TCU,65,66,35,0,0,Ben Moore Defensive Rebound.
+SMU,TCU,65,66,35,8,0,Shake Milton missed Layup.
+SMU,TCU,65,66,35,8,0,Karviar Shepherd Defensive Rebound.
+SMU,TCU,65,68,35,37,1,Michael Williams made Layup.
+SMU,TCU,67,68,36,0,1,Nic Moore made Jumper.
+SMU,TCU,67,70,36,28,1,Brandon Parrish made Jumper. Assisted by Michael Williams.
+SMU,TCU,67,70,36,46,0,Shake Milton missed Layup.
+SMU,TCU,67,70,36,46,0,Vladimir Brodziansky Defensive Rebound.
+SMU,TCU,67,70,37,7,0,Vladimir Brodziansky Turnover.
+SMU,TCU,67,70,37,7,0,Foul on Vladimir Brodziansky.
+SMU,TCU,70,70,37,17,1,Nic Moore made Three Point Jumper.
+SMU,TCU,70,70,37,51,0,Brandon Parrish missed Jumper.
+SMU,TCU,70,70,37,51,0,Markus Kennedy Defensive Rebound.
+SMU,TCU,72,70,38,19,1,Sterling Brown made Layup. Assisted by Shake Milton.
+SMU,TCU,72,70,38,30,0,TCU  Timeout
+SMU,TCU,72,70,38,46,0,Malique Trent missed Jumper.
+SMU,TCU,72,70,38,46,0,Shake Milton Defensive Rebound.
+SMU,TCU,74,70,39,11,1,Nic Moore made Layup.
+SMU,TCU,74,70,39,16,0,TCU  Timeout
+SMU,TCU,74,70,39,24,0,Karviar Shepherd missed Three Point Jumper.
+SMU,TCU,74,70,39,24,0,Sterling Brown Defensive Rebound.
+SMU,TCU,74,70,39,28,0,Foul on Brandon Parrish.
+SMU,TCU,75,70,39,28,1,Sterling Brown made Free Throw.
+SMU,TCU,75,70,39,28,0,Sterling Brown missed Free Throw.
+SMU,TCU,75,70,39,28,0,Karviar Shepherd Defensive Rebound.
+SMU,TCU,75,70,39,38,0,Chauncey Collins missed Three Point Jumper.
+SMU,TCU,75,70,39,38,0,Nic Moore Defensive Rebound.
+SMU,TCU,75,70,39,46,0,Foul on Karviar Shepherd.
+SMU,TCU,75,70,39,46,0,Shake Milton missed Free Throw.
+SMU,TCU,75,70,39,46,0,SMU Deadball Team Rebound.
+SMU,TCU,75,70,39,46,0,SMU  Timeout
+SMU,TCU,75,70,39,46,0,Shake Milton missed Free Throw.
+SMU,TCU,75,70,39,46,0,Vladimir Brodziansky Defensive Rebound.
+SMU,TCU,75,70,39,52,0,Brandon Parrish missed Three Point Jumper.
+SMU,TCU,75,70,39,52,0,Markus Kennedy Block.
+SMU,TCU,75,70,39,54,0,Ben Moore Defensive Rebound.
+SMU,TCU,75,70,40,0,0,End of Game

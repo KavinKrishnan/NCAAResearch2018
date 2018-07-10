@@ -1,0 +1,323 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Miami,Duke,0,0,0,0,0,Jump Ball won by Duke
+Miami,Duke,0,0,0,9,0,Grayson Allen missed Layup.
+Miami,Duke,0,0,0,9,0,Ja'Quan Newton Defensive Rebound.
+Miami,Duke,0,0,0,33,0,Kamari Murphy missed Jumper.
+Miami,Duke,0,0,0,33,0,Kamari Murphy Offensive Rebound.
+Miami,Duke,0,0,0,33,0,Kamari Murphy missed Two Point Tip Shot.
+Miami,Duke,0,0,0,33,0,Jayson Tatum Defensive Rebound.
+Miami,Duke,0,0,0,39,0,Jayson Tatum Turnover.
+Miami,Duke,0,0,0,39,0,Davon Reed Steal.
+Miami,Duke,0,0,1,0,0,Foul on Jayson Tatum.
+Miami,Duke,0,0,1,8,0,Ja'Quan Newton missed Jumper.
+Miami,Duke,0,0,1,8,0,Harry Giles Defensive Rebound.
+Miami,Duke,0,0,1,31,0,Jayson Tatum missed Three Point Jumper.
+Miami,Duke,0,0,1,31,0,Miami Defensive Rebound.
+Miami,Duke,2,0,1,44,1,Ja'Quan Newton made Layup.
+Miami,Duke,2,0,1,44,0,Foul on Amile Jefferson.
+Miami,Duke,3,0,1,44,1,Ja'Quan Newton made Free Throw.
+Miami,Duke,3,0,2,1,0,Grayson Allen missed Three Point Jumper.
+Miami,Duke,3,0,2,1,0,Bruce Brown Defensive Rebound.
+Miami,Duke,5,0,2,17,1,Dewan Huell made Layup. Assisted by Bruce Brown.
+Miami,Duke,5,0,2,29,0,Foul on Ja'Quan Newton.
+Miami,Duke,5,2,2,34,1,Grayson Allen made Layup.
+Miami,Duke,5,2,2,57,0,Davon Reed missed Jumper.
+Miami,Duke,5,2,2,57,0,Harry Giles Defensive Rebound.
+Miami,Duke,5,2,3,5,0,Foul on Kamari Murphy.
+Miami,Duke,5,2,3,5,0,Amile Jefferson missed Free Throw.
+Miami,Duke,5,2,3,5,0,Duke Deadball Team Rebound.
+Miami,Duke,5,3,3,5,1,Amile Jefferson made Free Throw.
+Miami,Duke,5,3,3,32,0,Ja'Quan Newton missed Jumper.
+Miami,Duke,5,3,3,32,0,Luke Kennard Defensive Rebound.
+Miami,Duke,5,3,3,48,0,Amile Jefferson missed Jumper.
+Miami,Duke,5,3,3,48,0,Kamari Murphy Defensive Rebound.
+Miami,Duke,5,3,4,16,0,Davon Reed missed Jumper.
+Miami,Duke,5,3,4,16,0,Kamari Murphy Offensive Rebound.
+Miami,Duke,5,3,4,17,0,Kamari Murphy Turnover.
+Miami,Duke,5,3,4,18,0,Official TV Timeout
+Miami,Duke,5,3,4,29,0,Foul on Davon Reed.
+Miami,Duke,5,4,4,29,1,Luke Kennard made Free Throw.
+Miami,Duke,5,5,4,29,1,Luke Kennard made Free Throw.
+Miami,Duke,5,5,4,41,0,Anthony Lawrence Jr. missed Three Point Jumper.
+Miami,Duke,5,5,4,41,0,Marques Bolden Defensive Rebound.
+Miami,Duke,5,5,4,51,0,Luke Kennard missed Three Point Jumper.
+Miami,Duke,5,5,4,51,0,Davon Reed Defensive Rebound.
+Miami,Duke,8,5,5,15,1,Davon Reed made Three Point Jumper. Assisted by Bruce Brown.
+Miami,Duke,8,5,5,38,0,Foul on Ebuka Izundu.
+Miami,Duke,8,6,5,38,1,Luke Kennard made Free Throw.
+Miami,Duke,8,7,5,38,1,Luke Kennard made Free Throw.
+Miami,Duke,8,7,5,48,0,Foul on Harry Giles.
+Miami,Duke,8,7,5,48,0,Ebuka Izundu missed Free Throw.
+Miami,Duke,8,7,5,48,0,Miami Deadball Team Rebound.
+Miami,Duke,8,7,5,48,0,Ebuka Izundu missed Free Throw.
+Miami,Duke,8,7,5,48,0,Duke Defensive Rebound.
+Miami,Duke,8,7,6,2,0,Foul on Anthony Lawrence Jr..
+Miami,Duke,8,9,6,9,1,Frank Jackson made Layup.
+Miami,Duke,8,9,6,31,0,Foul on Jayson Tatum.
+Miami,Duke,8,9,6,31,0,Ja'Quan Newton missed Free Throw.
+Miami,Duke,8,9,6,31,0,Miami Deadball Team Rebound.
+Miami,Duke,8,9,6,31,0,Ja'Quan Newton missed Free Throw.
+Miami,Duke,8,9,6,31,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,8,9,6,51,0,Matt Jones Turnover.
+Miami,Duke,8,9,6,51,0,Bruce Brown Steal.
+Miami,Duke,8,9,6,51,0,Foul on Matt Jones.
+Miami,Duke,10,9,7,0,1,Dewan Huell made Dunk. Assisted by Bruce Brown.
+Miami,Duke,10,9,7,17,0,Frank Jackson missed Jumper.
+Miami,Duke,10,9,7,17,0,Harry Giles Offensive Rebound.
+Miami,Duke,10,9,7,23,0,Harry Giles missed Layup.
+Miami,Duke,10,9,7,23,0,Davon Reed Defensive Rebound.
+Miami,Duke,10,9,7,28,0,Foul on Harry Giles.
+Miami,Duke,12,9,7,29,1,Dewan Huell made Layup. Assisted by Bruce Brown.
+Miami,Duke,12,9,7,45,0,Marques Bolden missed Layup.
+Miami,Duke,12,9,7,45,0,Bruce Brown Block.
+Miami,Duke,12,9,7,45,0,Marques Bolden Offensive Rebound.
+Miami,Duke,12,9,7,54,0,Marques Bolden Turnover.
+Miami,Duke,12,9,7,54,0,Davon Reed Steal.
+Miami,Duke,15,9,8,20,1,Bruce Brown made Three Point Jumper.
+Miami,Duke,15,11,8,34,1,Luke Kennard made Jumper.
+Miami,Duke,15,11,8,51,0,Dejan Vasiljevic missed Three Point Jumper.
+Miami,Duke,15,11,8,51,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,15,11,9,5,0,Frank Jackson missed Three Point Jumper.
+Miami,Duke,15,11,9,5,0,Davon Reed Defensive Rebound.
+Miami,Duke,18,11,9,13,1,Davon Reed made Three Point Jumper.
+Miami,Duke,18,11,9,39,0,Luke Kennard missed Jumper.
+Miami,Duke,18,11,9,39,0,Bruce Brown Defensive Rebound.
+Miami,Duke,18,11,9,48,0,Dewan Huell missed Jumper.
+Miami,Duke,18,11,9,48,0,Luke Kennard Defensive Rebound.
+Miami,Duke,18,11,10,12,0,Foul on Dejan Vasiljevic.
+Miami,Duke,18,11,10,12,0,Official TV Timeout
+Miami,Duke,18,11,10,15,0,Grayson Allen missed Three Point Jumper.
+Miami,Duke,18,11,10,15,0,Marques Bolden Offensive Rebound.
+Miami,Duke,18,13,10,15,1,Marques Bolden made Dunk.
+Miami,Duke,18,13,10,48,0,Miami  Turnover.
+Miami,Duke,18,13,10,53,0,Grayson Allen missed Jumper.
+Miami,Duke,18,13,10,53,0,Kamari Murphy Defensive Rebound.
+Miami,Duke,18,13,11,7,0,Ja'Quan Newton Turnover.
+Miami,Duke,18,13,11,7,0,Amile Jefferson Steal.
+Miami,Duke,18,13,11,22,0,Matt Jones missed Three Point Jumper.
+Miami,Duke,18,13,11,22,0,Dejan Vasiljevic Defensive Rebound.
+Miami,Duke,18,13,12,1,0,Davon Reed missed Layup.
+Miami,Duke,18,13,12,1,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,18,13,12,16,0,Luke Kennard missed Jumper.
+Miami,Duke,18,13,12,16,0,Amile Jefferson Offensive Rebound.
+Miami,Duke,18,13,12,16,0,Amile Jefferson missed Two Point Tip Shot.
+Miami,Duke,18,13,12,16,0,Ja'Quan Newton Defensive Rebound.
+Miami,Duke,18,13,12,25,0,Dejan Vasiljevic missed Three Point Jumper.
+Miami,Duke,18,13,12,25,0,Grayson Allen Defensive Rebound.
+Miami,Duke,18,13,12,25,0,Foul on Anthony Lawrence Jr..
+Miami,Duke,18,13,12,25,0,Official TV Timeout
+Miami,Duke,18,14,12,25,1,Grayson Allen made Free Throw.
+Miami,Duke,18,14,12,25,0,Grayson Allen missed Free Throw.
+Miami,Duke,18,14,12,25,0,Bruce Brown Defensive Rebound.
+Miami,Duke,18,14,12,46,0,Kamari Murphy Turnover.
+Miami,Duke,18,16,13,7,1,Jayson Tatum made Layup.
+Miami,Duke,18,16,13,33,0,Bruce Brown missed Three Point Jumper.
+Miami,Duke,18,16,13,33,0,Luke Kennard Defensive Rebound.
+Miami,Duke,18,16,13,49,0,Foul on Dewan Huell.
+Miami,Duke,18,17,13,49,1,Amile Jefferson made Free Throw.
+Miami,Duke,18,17,13,49,0,Amile Jefferson missed Free Throw.
+Miami,Duke,18,17,13,49,0,Kamari Murphy Defensive Rebound.
+Miami,Duke,21,17,14,3,1,Bruce Brown made Three Point Jumper. Assisted by Ja'Quan Newton.
+Miami,Duke,21,17,14,19,0,Grayson Allen missed Layup.
+Miami,Duke,21,17,14,19,0,Davon Reed Defensive Rebound.
+Miami,Duke,23,17,14,28,1,Bruce Brown made Dunk. Assisted by Davon Reed.
+Miami,Duke,23,17,14,47,0,Amile Jefferson missed Layup.
+Miami,Duke,23,17,14,47,0,Kamari Murphy Defensive Rebound.
+Miami,Duke,25,17,15,5,1,Ja'Quan Newton made Layup.
+Miami,Duke,25,17,15,8,0,Duke  Timeout
+Miami,Duke,25,17,15,16,0,Matt Jones missed Three Point Jumper.
+Miami,Duke,25,17,15,16,0,Kamari Murphy Defensive Rebound.
+Miami,Duke,25,17,15,38,0,Bruce Brown missed Jumper.
+Miami,Duke,25,17,15,38,0,Kamari Murphy Offensive Rebound.
+Miami,Duke,27,17,15,38,1,Kamari Murphy made Dunk.
+Miami,Duke,27,19,16,3,1,Marques Bolden made Jumper. Assisted by Frank Jackson.
+Miami,Duke,30,19,16,29,1,Davon Reed made Three Point Jumper. Assisted by Bruce Brown.
+Miami,Duke,30,19,16,54,0,Jayson Tatum missed Jumper.
+Miami,Duke,30,19,16,54,0,Ebuka Izundu Defensive Rebound.
+Miami,Duke,30,19,17,5,0,Bruce Brown Turnover.
+Miami,Duke,30,19,17,5,0,Official TV Timeout
+Miami,Duke,30,19,17,13,0,Foul on Bruce Brown.
+Miami,Duke,30,20,17,13,1,Grayson Allen made Free Throw.
+Miami,Duke,30,21,17,13,1,Grayson Allen made Free Throw.
+Miami,Duke,30,21,17,25,0,Ja'Quan Newton missed Jumper.
+Miami,Duke,30,21,17,25,0,Ebuka Izundu Offensive Rebound.
+Miami,Duke,30,21,17,35,0,Ebuka Izundu missed Two Point Tip Shot.
+Miami,Duke,30,21,17,35,0,Kamari Murphy Offensive Rebound.
+Miami,Duke,33,21,17,44,1,Davon Reed made Three Point Jumper. Assisted by Kamari Murphy.
+Miami,Duke,33,21,17,44,0,Jayson Tatum Turnover.
+Miami,Duke,33,21,18,1,0,Ja'Quan Newton Turnover.
+Miami,Duke,33,21,18,1,0,Grayson Allen Steal.
+Miami,Duke,33,21,18,7,0,Grayson Allen Turnover.
+Miami,Duke,33,21,18,12,0,Kamari Murphy missed Jumper.
+Miami,Duke,33,21,18,12,0,Frank Jackson Defensive Rebound.
+Miami,Duke,33,23,18,33,1,Frank Jackson made Layup.
+Miami,Duke,33,23,18,40,0,Miami  Timeout
+Miami,Duke,33,23,18,50,0,Davon Reed missed Three Point Jumper.
+Miami,Duke,33,23,18,50,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,33,23,19,0,0,Grayson Allen missed Three Point Jumper.
+Miami,Duke,33,23,19,0,0,Miami Defensive Rebound.
+Miami,Duke,33,23,19,1,0,Foul on Marques Bolden.
+Miami,Duke,33,23,19,1,0,Dewan Huell missed Free Throw.
+Miami,Duke,33,23,19,1,0,Kamari Murphy Offensive Rebound.
+Miami,Duke,35,23,19,15,1,Ja'Quan Newton made Jumper.
+Miami,Duke,35,25,19,34,1,Grayson Allen made Layup.
+Miami,Duke,35,25,19,58,0,Ja'Quan Newton missed Three Point Jumper.
+Miami,Duke,35,25,19,58,0,Dewan Huell Offensive Rebound.
+Miami,Duke,35,25,19,58,0,Foul on Grayson Allen.
+Miami,Duke,36,25,19,58,1,Dewan Huell made Free Throw.
+Miami,Duke,36,25,19,58,0,Dewan Huell missed Free Throw.
+Miami,Duke,36,25,19,58,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,36,25,20,0,0,End of 1st half
+Miami,Duke,36,25,20,0,0,Jump Ball won by Miami
+Miami,Duke,36,25,20,12,0,Davon Reed Turnover.
+Miami,Duke,36,25,20,44,0,Jayson Tatum missed Three Point Jumper.
+Miami,Duke,36,25,20,44,0,Kamari Murphy Defensive Rebound.
+Miami,Duke,36,25,20,44,0,Kamari Murphy Turnover.
+Miami,Duke,36,25,20,44,0,Matt Jones Steal.
+Miami,Duke,36,27,20,50,1,Matt Jones made Layup.
+Miami,Duke,36,27,21,8,0,Foul on Frank Jackson.
+Miami,Duke,37,27,21,8,1,Ja'Quan Newton made Free Throw.
+Miami,Duke,37,27,21,8,0,Ja'Quan Newton missed Free Throw.
+Miami,Duke,37,27,21,8,0,Dewan Huell Offensive Rebound.
+Miami,Duke,37,27,21,22,0,Ja'Quan Newton Turnover.
+Miami,Duke,37,27,21,22,0,Amile Jefferson Steal.
+Miami,Duke,37,27,21,28,0,Jayson Tatum missed Layup.
+Miami,Duke,37,27,21,28,0,Kamari Murphy Block.
+Miami,Duke,37,27,21,28,0,Duke Offensive Rebound.
+Miami,Duke,37,29,21,35,1,Amile Jefferson made Layup. Assisted by Jayson Tatum.
+Miami,Duke,37,29,21,51,0,Ja'Quan Newton missed Jumper.
+Miami,Duke,37,29,21,51,0,Miami Offensive Rebound.
+Miami,Duke,37,29,21,53,0,Foul on Matt Jones.
+Miami,Duke,37,29,21,58,0,Davon Reed missed Three Point Jumper.
+Miami,Duke,37,29,21,58,0,Jayson Tatum Block.
+Miami,Duke,37,29,21,58,0,Kamari Murphy Offensive Rebound.
+Miami,Duke,37,29,22,18,0,Bruce Brown missed Jumper.
+Miami,Duke,37,29,22,18,0,Jayson Tatum Defensive Rebound.
+Miami,Duke,37,29,22,19,0,Foul on Kamari Murphy.
+Miami,Duke,37,29,22,31,0,Jayson Tatum missed Three Point Jumper.
+Miami,Duke,37,29,22,31,0,Kamari Murphy Defensive Rebound.
+Miami,Duke,37,29,22,42,0,Ja'Quan Newton Turnover.
+Miami,Duke,37,29,22,42,0,Matt Jones Steal.
+Miami,Duke,37,32,22,49,1,Matt Jones made Three Point Jumper.
+Miami,Duke,37,32,22,51,0,Miami  Timeout
+Miami,Duke,37,32,23,13,0,Foul on Frank Jackson.
+Miami,Duke,37,32,23,38,0,Foul on Dewan Huell.
+Miami,Duke,37,32,23,38,0,Dewan Huell Turnover.
+Miami,Duke,37,34,23,59,1,Marques Bolden made Layup. Assisted by Frank Jackson.
+Miami,Duke,37,34,24,22,0,Ebuka Izundu Turnover.
+Miami,Duke,37,34,24,22,0,Frank Jackson Steal.
+Miami,Duke,37,37,24,29,1,Matt Jones made Three Point Jumper. Assisted by Frank Jackson.
+Miami,Duke,37,37,24,44,0,Davon Reed Turnover.
+Miami,Duke,37,37,24,44,0,Matt Jones Steal.
+Miami,Duke,37,39,24,51,1,Frank Jackson made Layup.
+Miami,Duke,37,39,25,0,0,Miami  Timeout
+Miami,Duke,37,39,25,18,0,Ja'Quan Newton missed Jumper.
+Miami,Duke,37,39,25,18,0,Jayson Tatum Defensive Rebound.
+Miami,Duke,37,39,25,32,0,Frank Jackson missed Jumper.
+Miami,Duke,37,39,25,32,0,Marques Bolden Offensive Rebound.
+Miami,Duke,37,41,25,32,1,Marques Bolden made Two Point Tip Shot.
+Miami,Duke,37,41,25,48,0,Ebuka Izundu missed Layup.
+Miami,Duke,37,41,25,48,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,37,41,26,0,0,Foul on Anthony Lawrence Jr..
+Miami,Duke,37,41,26,0,0,Jayson Tatum missed Free Throw.
+Miami,Duke,37,41,26,0,0,Duke Deadball Team Rebound.
+Miami,Duke,37,42,26,0,1,Jayson Tatum made Free Throw.
+Miami,Duke,37,42,26,12,0,Anthony Lawrence Jr. missed Layup.
+Miami,Duke,37,42,26,12,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,37,45,26,25,1,Matt Jones made Three Point Jumper. Assisted by Frank Jackson.
+Miami,Duke,37,45,26,46,0,Davon Reed Turnover.
+Miami,Duke,37,45,27,6,0,Foul on Anthony Lawrence Jr..
+Miami,Duke,37,46,27,6,1,Jayson Tatum made Free Throw.
+Miami,Duke,37,47,27,6,1,Jayson Tatum made Free Throw.
+Miami,Duke,40,47,27,26,1,Davon Reed made Three Point Jumper. Assisted by Bruce Brown.
+Miami,Duke,40,47,27,29,0,Foul on Luke Kennard.
+Miami,Duke,40,47,27,29,0,Luke Kennard Turnover.
+Miami,Duke,40,47,27,35,0,Foul on Dewan Huell.
+Miami,Duke,40,47,27,35,0,Dewan Huell Turnover.
+Miami,Duke,40,49,27,53,1,Matt Jones made Jumper.
+Miami,Duke,40,49,28,5,0,Foul on Jayson Tatum.
+Miami,Duke,40,49,28,5,0,Official TV Timeout
+Miami,Duke,40,49,28,30,0,Bruce Brown missed Jumper.
+Miami,Duke,40,49,28,30,0,Dewan Huell Offensive Rebound.
+Miami,Duke,40,49,28,30,0,Dewan Huell missed Two Point Tip Shot.
+Miami,Duke,40,49,28,30,0,Luke Kennard Defensive Rebound.
+Miami,Duke,40,49,28,42,0,Grayson Allen missed Layup.
+Miami,Duke,40,49,28,42,0,Kamari Murphy Block.
+Miami,Duke,40,49,28,42,0,Luke Kennard Offensive Rebound.
+Miami,Duke,40,49,29,4,0,Marques Bolden missed Layup.
+Miami,Duke,40,49,29,4,0,Ja'Quan Newton Defensive Rebound.
+Miami,Duke,40,49,29,26,0,Ja'Quan Newton missed Jumper.
+Miami,Duke,40,49,29,26,0,Luke Kennard Block.
+Miami,Duke,40,49,29,26,0,Matt Jones Defensive Rebound.
+Miami,Duke,40,49,29,34,0,Matt Jones Turnover.
+Miami,Duke,40,49,29,34,0,Ja'Quan Newton Steal.
+Miami,Duke,40,49,29,39,0,Davon Reed missed Three Point Jumper.
+Miami,Duke,40,49,29,39,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,40,49,29,58,0,Luke Kennard missed Three Point Jumper.
+Miami,Duke,40,49,29,58,0,Kamari Murphy Defensive Rebound.
+Miami,Duke,40,49,30,14,0,Dewan Huell Turnover.
+Miami,Duke,40,52,30,26,1,Jayson Tatum made Three Point Jumper. Assisted by Grayson Allen.
+Miami,Duke,40,52,30,44,0,Foul on Harry Giles.
+Miami,Duke,40,52,31,10,0,Dejan Vasiljevic Turnover.
+Miami,Duke,40,52,31,10,0,Grayson Allen Steal.
+Miami,Duke,40,54,31,15,1,Harry Giles made Layup. Assisted by Luke Kennard.
+Miami,Duke,40,54,31,27,0,Miami  Timeout
+Miami,Duke,40,54,31,39,0,Davon Reed Turnover.
+Miami,Duke,40,54,31,39,0,Frank Jackson Steal.
+Miami,Duke,40,54,31,43,0,Foul on Ja'Quan Newton.
+Miami,Duke,40,55,31,43,1,Frank Jackson made Free Throw.
+Miami,Duke,40,56,31,43,1,Frank Jackson made Free Throw.
+Miami,Duke,42,56,31,53,1,Ja'Quan Newton made Layup.
+Miami,Duke,42,56,31,53,0,Foul on Frank Jackson.
+Miami,Duke,43,56,31,53,1,Ja'Quan Newton made Free Throw.
+Miami,Duke,43,56,31,55,0,Foul on Davon Reed.
+Miami,Duke,43,56,31,55,0,Frank Jackson missed Free Throw.
+Miami,Duke,43,56,31,55,0,Bruce Brown Defensive Rebound.
+Miami,Duke,43,56,32,4,0,Ja'Quan Newton missed Jumper.
+Miami,Duke,43,56,32,4,0,Grayson Allen Defensive Rebound.
+Miami,Duke,43,58,32,12,1,Jayson Tatum made Layup. Assisted by Grayson Allen.
+Miami,Duke,43,58,32,33,0,Kamari Murphy missed Jumper.
+Miami,Duke,43,58,32,33,0,Matt Jones Defensive Rebound.
+Miami,Duke,43,58,32,51,0,Foul on Bruce Brown.
+Miami,Duke,43,58,32,51,0,Official TV Timeout
+Miami,Duke,43,59,32,51,1,Jayson Tatum made Free Throw.
+Miami,Duke,43,60,32,51,1,Jayson Tatum made Free Throw.
+Miami,Duke,43,60,33,11,0,Davon Reed missed Layup.
+Miami,Duke,43,60,33,11,0,Kamari Murphy Offensive Rebound.
+Miami,Duke,45,60,33,11,1,Kamari Murphy made Two Point Tip Shot.
+Miami,Duke,45,60,33,21,0,Duke  Timeout
+Miami,Duke,45,60,33,33,0,Foul on Ja'Quan Newton.
+Miami,Duke,45,61,33,33,1,Amile Jefferson made Free Throw.
+Miami,Duke,45,61,33,33,0,Amile Jefferson missed Free Throw.
+Miami,Duke,45,61,33,33,0,Miami Defensive Rebound.
+Miami,Duke,45,61,33,52,0,Kamari Murphy missed Jumper.
+Miami,Duke,45,61,33,52,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,45,63,34,14,1,Jayson Tatum made Jumper.
+Miami,Duke,45,63,34,29,0,Foul on Jayson Tatum.
+Miami,Duke,45,63,34,29,0,Kamari Murphy missed Free Throw.
+Miami,Duke,45,63,34,30,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,45,66,34,43,1,Luke Kennard made Three Point Jumper. Assisted by Amile Jefferson.
+Miami,Duke,47,66,35,6,1,Ja'Quan Newton made Layup.
+Miami,Duke,47,66,35,36,0,Luke Kennard missed Jumper.
+Miami,Duke,47,66,35,36,0,Bruce Brown Defensive Rebound.
+Miami,Duke,49,66,35,46,1,Bruce Brown made Layup.
+Miami,Duke,49,68,36,31,1,Luke Kennard made Jumper.
+Miami,Duke,49,68,37,2,0,Foul on Luke Kennard.
+Miami,Duke,49,68,37,2,0,Official TV Timeout
+Miami,Duke,50,68,37,2,1,Davon Reed made Free Throw.
+Miami,Duke,51,68,37,2,1,Davon Reed made Free Throw.
+Miami,Duke,51,70,37,28,1,Frank Jackson made Layup.
+Miami,Duke,51,70,37,48,0,Anthony Lawrence Jr. missed Three Point Jumper.
+Miami,Duke,51,70,37,48,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,51,70,38,19,0,Amile Jefferson Turnover.
+Miami,Duke,51,70,38,19,0,Davon Reed Steal.
+Miami,Duke,53,70,38,25,1,Davon Reed made Layup.
+Miami,Duke,53,70,38,55,0,Foul on Jayson Tatum.
+Miami,Duke,53,70,38,55,0,Jayson Tatum Turnover.
+Miami,Duke,55,70,39,8,1,Bruce Brown made Layup. Assisted by Ebuka Izundu.
+Miami,Duke,55,70,39,29,0,Grayson Allen Turnover.
+Miami,Duke,55,70,39,29,0,Bruce Brown Steal.
+Miami,Duke,57,70,39,33,1,Bruce Brown made Layup.
+Miami,Duke,57,70,39,33,0,Foul on Luke Kennard.
+Miami,Duke,58,70,39,33,1,Bruce Brown made Free Throw.
+Miami,Duke,58,70,40,0,0,End of Game

@@ -1,0 +1,341 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Louisiana,Michigan State,2,0,0,18,1,Elfrid Payton made Layup.
+Louisiana,Michigan State,2,0,0,43,0,Denzel Valentine missed Jumper.
+Louisiana,Michigan State,2,0,0,43,0,Denzel Valentine Offensive Rebound.
+Louisiana,Michigan State,2,0,0,54,0,Denzel Valentine Turnover.
+Louisiana,Michigan State,2,0,0,55,0,Steven Wronkoski Steal.
+Louisiana,Michigan State,2,0,1,16,0,Bryant Mbamalu missed Three Point Jumper.
+Louisiana,Michigan State,2,0,1,16,0,Shawn Long Offensive Rebound.
+Louisiana,Michigan State,2,0,1,19,0,Foul on Denzel Valentine
+Louisiana,Michigan State,5,0,1,34,1,Shawn Long made Three Point Jumper.  Assisted by Bryant Mbamalu.
+Louisiana,Michigan State,5,0,2,2,0,Foul on Bryant Mbamalu
+Louisiana,Michigan State,5,1,2,2,1,Branden Dawson made Free Throw.
+Louisiana,Michigan State,5,1,2,2,0,Branden Dawson missed Free Throw.
+Louisiana,Michigan State,5,1,2,2,0,Shawn Long Defensive Rebound.
+Louisiana,Michigan State,5,1,2,30,0,Elridge Moore Turnover.
+Louisiana,Michigan State,5,1,2,43,0,Keith Appling missed Three Point Jumper.
+Louisiana,Michigan State,5,1,2,43,0,Adreian Payne Offensive Rebound.
+Louisiana,Michigan State,5,1,2,47,0,Foul on Elridge Moore
+Louisiana,Michigan State,5,1,3,8,0,Keith Appling missed Jumper.
+Louisiana,Michigan State,5,1,3,8,0,Elridge Moore Defensive Rebound.
+Louisiana,Michigan State,5,1,3,20,0,Bryant Mbamalu missed Layup.
+Louisiana,Michigan State,5,1,3,20,0,Russell Byrd Block.
+Louisiana,Michigan State,5,1,3,22,0,Bryant Mbamalu Offensive Rebound.
+Louisiana,Michigan State,7,1,3,24,1,Shawn Long made Jumper.
+Louisiana,Michigan State,7,3,3,46,1,Derrick Nix made Layup.  Assisted by Keith Appling.
+Louisiana,Michigan State,10,3,4,3,1,Shawn Long made Three Point Jumper.  Assisted by Bryant Mbamalu.
+Louisiana,Michigan State,10,5,4,22,1,Branden Dawson made Jumper.
+Louisiana,Michigan State,10,5,4,34,0,Elfrid Payton missed Layup.
+Louisiana,Michigan State,10,5,4,34,0,Keith Appling Defensive Rebound.
+Louisiana,Michigan State,10,5,4,44,0,Branden Dawson missed Layup.
+Louisiana,Michigan State,10,5,4,44,0,Shawn Long Block.
+Louisiana,Michigan State,10,5,4,47,0,Branden Dawson Offensive Rebound.
+Louisiana,Michigan State,10,7,4,49,1,Branden Dawson made Layup.
+Louisiana,Michigan State,10,7,5,7,0,Shawn Long Turnover.
+Louisiana,Michigan State,10,7,5,8,0,Keith Appling Steal.
+Louisiana,Michigan State,10,9,5,34,1,Alex Gauna made Layup.  Assisted by Branden Dawson.
+Louisiana,Michigan State,10,9,5,57,0,Steven Wronkoski missed Layup.
+Louisiana,Michigan State,10,9,5,57,0,Elfrid Payton Offensive Rebound.
+Louisiana,Michigan State,12,9,6,0,1,Elfrid Payton made Layup.
+Louisiana,Michigan State,12,9,6,21,0,Branden Dawson missed Three Point Jumper.
+Louisiana,Michigan State,12,9,6,21,0,Shawn Long Defensive Rebound.
+Louisiana,Michigan State,12,9,6,40,0,Foul on Branden Dawson
+Louisiana,Michigan State,12,9,6,40,0,Official TV Timeout.
+Louisiana,Michigan State,12,9,6,40,0,Steven Wronkoski missed Free Throw.
+Louisiana,Michigan State,12,9,6,40,0,null
+Louisiana,Michigan State,13,9,6,40,1,Steven Wronkoski made Free Throw.
+Louisiana,Michigan State,13,9,6,57,0,Denzel Valentine missed Three Point Jumper.
+Louisiana,Michigan State,13,9,6,57,0,Elfrid Payton Defensive Rebound.
+Louisiana,Michigan State,13,9,7,6,0,Elridge Moore Turnover.
+Louisiana,Michigan State,13,9,7,21,0,Adreian Payne missed Jumper.
+Louisiana,Michigan State,13,9,7,21,0,Braylon Lazare Block.
+Louisiana,Michigan State,13,9,7,21,0,Michigan State Offensive Rebound.
+Louisiana,Michigan State,13,11,7,37,1,Brandan Kearney made Jumper.  Assisted by Denzel Valentine.
+Louisiana,Michigan State,15,11,7,56,1,Elridge Moore made Layup.
+Louisiana,Michigan State,15,11,8,13,0,Foul on Elfrid Payton
+Louisiana,Michigan State,15,11,8,14,0,Official TV Timeout.
+Louisiana,Michigan State,15,13,8,28,1,Derrick Nix made Layup.  Assisted by Keith Appling.
+Louisiana,Michigan State,17,13,8,44,1,Shawn Long made Jumper.
+Louisiana,Michigan State,17,13,8,53,0,Derrick Nix missed Jumper.
+Louisiana,Michigan State,17,13,8,53,0,Shawn Long Defensive Rebound.
+Louisiana,Michigan State,20,13,9,3,1,Shawn Long made Three Point Jumper.  Assisted by Elridge Moore.
+Louisiana,Michigan State,20,15,9,40,1,Keith Appling made Jumper.
+Louisiana,Michigan State,20,15,10,3,0,Foul on Denzel Valentine
+Louisiana,Michigan State,21,15,10,3,1,Shawn Long made Free Throw.
+Louisiana,Michigan State,21,15,10,3,0,Shawn Long missed Free Throw.
+Louisiana,Michigan State,21,15,10,3,0,Derrick Nix Defensive Rebound.
+Louisiana,Michigan State,21,15,10,19,0,Derrick Nix Turnover.
+Louisiana,Michigan State,21,15,10,30,0,Kevin Brown missed Layup.
+Louisiana,Michigan State,21,15,10,30,0,Branden Dawson Defensive Rebound.
+Louisiana,Michigan State,21,15,10,37,0,Keith Appling missed Layup.
+Louisiana,Michigan State,21,15,10,37,0,Derrick Nix Offensive Rebound.
+Louisiana,Michigan State,21,17,10,41,1,Derrick Nix made Layup.
+Louisiana,Michigan State,21,17,10,53,0,Shawn Long missed Three Point Jumper.
+Louisiana,Michigan State,21,17,10,53,0,Russell Byrd Defensive Rebound.
+Louisiana,Michigan State,21,17,11,11,0,Branden Dawson missed Layup.
+Louisiana,Michigan State,21,17,11,11,0,Elridge Moore Defensive Rebound.
+Louisiana,Michigan State,21,17,11,18,0,Louisiana-Lafayette Full Timeout.
+Louisiana,Michigan State,21,17,11,34,0,Steven Wronkoski missed Three Point Jumper.
+Louisiana,Michigan State,21,17,11,34,0,Derrick Nix Defensive Rebound.
+Louisiana,Michigan State,21,17,11,53,0,Brandan Kearney Turnover.
+Louisiana,Michigan State,21,17,11,55,0,Elfrid Payton Steal.
+Louisiana,Michigan State,21,17,11,55,0,Foul on Russell Byrd
+Louisiana,Michigan State,21,17,11,55,0,Elfrid Payton missed Free Throw.
+Louisiana,Michigan State,21,17,11,55,0,null
+Louisiana,Michigan State,21,17,11,55,0,Elfrid Payton missed Free Throw.
+Louisiana,Michigan State,21,17,11,55,0,Branden Dawson Defensive Rebound.
+Louisiana,Michigan State,21,20,12,10,1,Russell Byrd made Three Point Jumper.  Assisted by Keith Appling.
+Louisiana,Michigan State,21,20,12,28,0,Official TV Timeout.
+Louisiana,Michigan State,21,20,12,30,0,Shawn Long missed Three Point Jumper.
+Louisiana,Michigan State,21,20,12,30,0,Keith Appling Defensive Rebound.
+Louisiana,Michigan State,21,23,13,7,1,Brandan Kearney made Three Point Jumper.  Assisted by Russell Byrd.
+Louisiana,Michigan State,21,23,13,37,0,Bryant Mbamalu missed Three Point Jumper.
+Louisiana,Michigan State,21,23,13,37,0,Michigan State Defensive Rebound.
+Louisiana,Michigan State,21,23,13,51,0,Brandan Kearney missed Three Point Jumper.
+Louisiana,Michigan State,21,23,13,51,0,Bryant Mbamalu Defensive Rebound.
+Louisiana,Michigan State,23,23,14,1,1,Elfrid Payton made Layup.
+Louisiana,Michigan State,23,23,14,22,0,Foul on Bryant Mbamalu
+Louisiana,Michigan State,23,23,14,22,0,Adreian Payne missed Free Throw.
+Louisiana,Michigan State,23,23,14,22,0,null
+Louisiana,Michigan State,23,24,14,22,1,Adreian Payne made Free Throw.
+Louisiana,Michigan State,23,24,14,35,0,Foul on Branden Dawson
+Louisiana,Michigan State,25,24,14,53,1,Elfrid Payton made Layup.
+Louisiana,Michigan State,25,27,15,13,1,Brandan Kearney made Three Point Jumper.  Assisted by Branden Dawson.
+Louisiana,Michigan State,25,27,15,28,0,Steven Wronkoski Turnover.
+Louisiana,Michigan State,25,27,15,29,0,Branden Dawson Steal.
+Louisiana,Michigan State,25,27,15,32,0,Branden Dawson missed Layup.
+Louisiana,Michigan State,25,27,15,32,0,Steven Wronkoski Defensive Rebound.
+Louisiana,Michigan State,25,27,16,2,0,Official TV Timeout.
+Louisiana,Michigan State,25,27,16,2,0,Elfrid Payton missed Layup.
+Louisiana,Michigan State,25,27,16,2,0,Keith Appling Block.
+Louisiana,Michigan State,25,27,16,2,0,Keith Appling Defensive Rebound.
+Louisiana,Michigan State,25,27,16,13,0,Foul on Alan-Michael Thompson
+Louisiana,Michigan State,25,28,16,13,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,25,29,16,13,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,25,30,16,13,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,25,31,16,13,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,25,31,16,38,0,Steven Wronkoski missed Layup.
+Louisiana,Michigan State,25,31,16,38,0,Adreian Payne Defensive Rebound.
+Louisiana,Michigan State,25,31,16,48,0,Brandan Kearney Turnover.
+Louisiana,Michigan State,25,31,16,49,0,Elridge Moore Steal.
+Louisiana,Michigan State,25,31,16,52,0,Elfrid Payton missed Layup.
+Louisiana,Michigan State,25,31,16,52,0,Elfrid Payton Offensive Rebound.
+Louisiana,Michigan State,27,31,16,56,1,Elfrid Payton made Layup.
+Louisiana,Michigan State,27,31,17,17,0,Adreian Payne missed Jumper.
+Louisiana,Michigan State,27,31,17,17,0,Shawn Long Block.
+Louisiana,Michigan State,27,31,17,17,0,Michigan State Offensive Rebound.
+Louisiana,Michigan State,27,31,17,27,0,Brandan Kearney missed Jumper.
+Louisiana,Michigan State,27,31,17,27,0,Shawn Long Defensive Rebound.
+Louisiana,Michigan State,27,31,17,44,0,Shawn Long missed Jumper.
+Louisiana,Michigan State,27,31,17,44,0,Adreian Payne Defensive Rebound.
+Louisiana,Michigan State,27,31,17,53,0,Brandan Kearney Turnover.
+Louisiana,Michigan State,27,31,17,53,0,Elfrid Payton Steal.
+Louisiana,Michigan State,27,31,18,13,0,Shawn Long missed Jumper.
+Louisiana,Michigan State,27,31,18,13,0,Adreian Payne Defensive Rebound.
+Louisiana,Michigan State,27,33,18,23,1,Keith Appling made Layup.
+Louisiana,Michigan State,27,33,18,45,0,Shawn Long missed Jumper.
+Louisiana,Michigan State,27,33,18,45,0,Adreian Payne Defensive Rebound.
+Louisiana,Michigan State,27,33,18,59,0,Russell Byrd Turnover.
+Louisiana,Michigan State,27,33,19,14,0,Alan-Michael Thompson missed Three Point Jumper.
+Louisiana,Michigan State,27,33,19,14,0,Keith Appling Defensive Rebound.
+Louisiana,Michigan State,27,33,19,20,0,Michigan State Full Timeout.
+Louisiana,Michigan State,27,33,19,34,0,Russell Byrd missed Three Point Jumper.
+Louisiana,Michigan State,27,33,19,34,0,Matt Costello Offensive Rebound.
+Louisiana,Michigan State,27,33,19,39,0,Foul on Alan-Michael Thompson
+Louisiana,Michigan State,27,34,19,39,1,Matt Costello made Free Throw.
+Louisiana,Michigan State,27,34,19,39,0,Foul on Adreian Payne
+Louisiana,Michigan State,27,34,19,39,0,Matt Costello missed Free Throw.
+Louisiana,Michigan State,27,34,19,39,0,Brandan Kearney Offensive Rebound.
+Louisiana,Michigan State,27,34,19,59,0,Brandan Kearney missed Layup.
+Louisiana,Michigan State,27,34,19,59,0,Elfrid Payton Defensive Rebound.
+Louisiana,Michigan State,27,34,20,0,0,End of the 1st Half.
+Louisiana,Michigan State,27,34,20,8,0,Bryant Mbamalu missed Three Point Jumper.
+Louisiana,Michigan State,27,34,20,8,0,Elridge Moore Offensive Rebound.
+Louisiana,Michigan State,29,34,20,13,1,Elridge Moore made Layup.
+Louisiana,Michigan State,29,34,20,24,0,Keith Appling missed Three Point Jumper.
+Louisiana,Michigan State,29,34,20,24,0,Elridge Moore Defensive Rebound.
+Louisiana,Michigan State,31,34,20,29,1,Elfrid Payton made Layup.  Assisted by Elridge Moore.
+Louisiana,Michigan State,31,34,20,57,0,Keith Appling missed Three Point Jumper.
+Louisiana,Michigan State,31,34,20,57,0,Adreian Payne Offensive Rebound.
+Louisiana,Michigan State,31,34,21,1,0,Foul on Elridge Moore
+Louisiana,Michigan State,31,35,21,1,1,Adreian Payne made Free Throw.
+Louisiana,Michigan State,31,36,21,1,1,Adreian Payne made Free Throw.
+Louisiana,Michigan State,31,36,21,12,0,Bryant Mbamalu Turnover.
+Louisiana,Michigan State,31,36,21,12,0,Brandan Kearney Steal.
+Louisiana,Michigan State,31,38,21,15,1,Brandan Kearney made Layup.
+Louisiana,Michigan State,31,38,21,43,0,Shawn Long Turnover.
+Louisiana,Michigan State,31,38,21,43,0,Branden Dawson Steal.
+Louisiana,Michigan State,31,38,22,2,0,Foul on Derrick Nix
+Louisiana,Michigan State,31,38,22,2,0,Derrick Nix Turnover.
+Louisiana,Michigan State,31,38,22,33,0,Elfrid Payton missed Three Point Jumper.
+Louisiana,Michigan State,31,38,22,33,0,Michigan State Defensive Rebound.
+Louisiana,Michigan State,31,38,22,50,0,Brandan Kearney missed Three Point Jumper.
+Louisiana,Michigan State,31,38,22,50,0,Keith Appling Offensive Rebound.
+Louisiana,Michigan State,31,41,22,59,1,Keith Appling made Three Point Jumper.  Assisted by Derrick Nix.
+Louisiana,Michigan State,31,41,23,27,0,Elridge Moore Turnover.
+Louisiana,Michigan State,31,41,23,28,0,Keith Appling Steal.
+Louisiana,Michigan State,31,41,23,33,0,Keith Appling missed Jumper.
+Louisiana,Michigan State,31,41,23,33,0,Steven Wronkoski Defensive Rebound.
+Louisiana,Michigan State,31,41,24,4,0,Official TV Timeout.
+Louisiana,Michigan State,31,41,24,12,0,Shawn Long missed Layup.
+Louisiana,Michigan State,31,41,24,12,0,Branden Dawson Defensive Rebound.
+Louisiana,Michigan State,31,41,24,15,0,Branden Dawson Turnover.
+Louisiana,Michigan State,31,41,24,39,0,Foul on Keith Appling
+Louisiana,Michigan State,31,41,24,39,0,Elridge Moore missed Free Throw.
+Louisiana,Michigan State,31,41,24,39,0,null
+Louisiana,Michigan State,32,41,24,39,1,Elridge Moore made Free Throw.
+Louisiana,Michigan State,32,41,24,43,0,Foul on Steven Wronkoski
+Louisiana,Michigan State,32,42,24,43,1,Denzel Valentine made Free Throw.
+Louisiana,Michigan State,32,42,24,43,0,Denzel Valentine missed Free Throw.
+Louisiana,Michigan State,32,42,24,43,0,Bryant Mbamalu Defensive Rebound.
+Louisiana,Michigan State,32,42,24,49,0,Foul on Alex Gauna
+Louisiana,Michigan State,33,42,24,49,1,Elfrid Payton made Free Throw.
+Louisiana,Michigan State,34,42,24,49,1,Elfrid Payton made Free Throw.
+Louisiana,Michigan State,34,42,25,1,0,Branden Dawson missed Layup.
+Louisiana,Michigan State,34,42,25,1,0,Elridge Moore Block.
+Louisiana,Michigan State,34,42,25,4,0,Bryant Mbamalu Defensive Rebound.
+Louisiana,Michigan State,34,42,25,14,0,Bryant Mbamalu Turnover.
+Louisiana,Michigan State,34,42,25,33,0,Denzel Valentine Turnover.
+Louisiana,Michigan State,34,42,26,2,0,Foul on Alex Gauna
+Louisiana,Michigan State,34,42,26,2,0,Elridge Moore missed Free Throw.
+Louisiana,Michigan State,34,42,26,2,0,null
+Louisiana,Michigan State,34,42,26,2,0,Elridge Moore missed Free Throw.
+Louisiana,Michigan State,34,42,26,2,0,Adreian Payne Defensive Rebound.
+Louisiana,Michigan State,34,42,26,20,0,Russell Byrd Turnover.
+Louisiana,Michigan State,34,42,26,20,0,Elfrid Payton Steal.
+Louisiana,Michigan State,36,42,26,24,1,Elfrid Payton made Layup.
+Louisiana,Michigan State,36,42,26,26,0,Louisiana-Lafayette Full Timeout.
+Louisiana,Michigan State,36,42,26,56,0,Denzel Valentine missed Three Point Jumper.
+Louisiana,Michigan State,36,42,26,56,0,Elfrid Payton Defensive Rebound.
+Louisiana,Michigan State,36,42,27,30,0,Bryant Mbamalu missed Three Point Jumper.
+Louisiana,Michigan State,36,42,27,30,0,Michigan State Defensive Rebound.
+Louisiana,Michigan State,36,42,27,51,0,Keith Appling missed Three Point Jumper.
+Louisiana,Michigan State,36,42,27,51,0,Derrick Nix Offensive Rebound.
+Louisiana,Michigan State,36,44,27,54,1,Derrick Nix made Layup.
+Louisiana,Michigan State,36,44,27,54,0,Foul on Shawn Long
+Louisiana,Michigan State,36,45,27,54,1,Derrick Nix made Free Throw.
+Louisiana,Michigan State,36,45,28,6,0,Shawn Long missed Layup.
+Louisiana,Michigan State,36,45,28,6,0,Derrick Nix Defensive Rebound.
+Louisiana,Michigan State,36,45,28,13,0,Denzel Valentine Turnover.
+Louisiana,Michigan State,36,45,28,14,0,Official TV Timeout.
+Louisiana,Michigan State,36,45,28,25,0,Elridge Moore missed Layup.
+Louisiana,Michigan State,36,45,28,25,0,Adreian Payne Defensive Rebound.
+Louisiana,Michigan State,36,45,28,37,0,Foul on Elfrid Payton
+Louisiana,Michigan State,36,46,28,37,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,36,47,28,37,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,39,47,28,47,1,Kevin Brown made Three Point Jumper.
+Louisiana,Michigan State,39,47,28,54,0,Foul on Russell Byrd
+Louisiana,Michigan State,39,47,28,54,0,Russell Byrd Turnover.
+Louisiana,Michigan State,39,47,29,10,0,Kevin Brown Turnover.
+Louisiana,Michigan State,39,47,29,12,0,Bryant Mbamalu missed Three Point Jumper.
+Louisiana,Michigan State,39,47,29,12,0,Adreian Payne Block.
+Louisiana,Michigan State,39,47,29,13,0,Michigan State Defensive Rebound.
+Louisiana,Michigan State,39,47,29,29,0,Elfrid Payton missed Jumper.
+Louisiana,Michigan State,39,47,29,29,0,Keith Appling Block.
+Louisiana,Michigan State,39,47,29,30,0,null
+Louisiana,Michigan State,39,47,29,30,0,Louisiana-Lafayette Turnover.
+Louisiana,Michigan State,39,47,29,44,0,Denzel Valentine missed Layup.
+Louisiana,Michigan State,39,47,29,44,0,Shawn Long Block.
+Louisiana,Michigan State,39,47,29,46,0,Elfrid Payton Defensive Rebound.
+Louisiana,Michigan State,40,47,29,48,1,Kevin Brown made Free Throw.
+Louisiana,Michigan State,40,47,29,48,0,Foul on Brandan Kearney
+Louisiana,Michigan State,41,47,29,48,1,Kevin Brown made Free Throw.
+Louisiana,Michigan State,41,47,30,11,0,Kevin Brown Steal.
+Louisiana,Michigan State,41,47,30,11,0,Denzel Valentine Turnover.
+Louisiana,Michigan State,41,47,30,13,0,Kevin Brown Turnover.
+Louisiana,Michigan State,41,47,30,13,0,Denzel Valentine Steal.
+Louisiana,Michigan State,41,49,30,27,1,Branden Dawson made Dunk.  Assisted by Keith Appling.
+Louisiana,Michigan State,44,49,30,31,1,Kevin Brown made Three Point Jumper.  Assisted by Elfrid Payton.
+Louisiana,Michigan State,44,49,30,32,0,Louisiana-Lafayette Full Timeout.
+Louisiana,Michigan State,44,49,31,5,0,Keith Appling Turnover.
+Louisiana,Michigan State,44,49,31,6,0,Kevin Brown Steal.
+Louisiana,Michigan State,44,49,31,16,0,Kevin Brown missed Layup.
+Louisiana,Michigan State,44,49,31,16,0,Branden Dawson Block.
+Louisiana,Michigan State,44,49,31,17,0,Branden Dawson Defensive Rebound.
+Louisiana,Michigan State,44,52,31,24,1,Denzel Valentine made Three Point Jumper.  Assisted by Branden Dawson.
+Louisiana,Michigan State,47,52,31,41,1,Steven Wronkoski made Three Point Jumper.  Assisted by Elfrid Payton.
+Louisiana,Michigan State,47,52,31,48,0,Michigan State Full Timeout.
+Louisiana,Michigan State,47,52,32,4,0,Official TV Timeout.
+Louisiana,Michigan State,47,54,32,14,1,Branden Dawson made Dunk.  Assisted by Brandan Kearney.
+Louisiana,Michigan State,47,54,32,38,0,Elridge Moore missed Layup.
+Louisiana,Michigan State,47,54,32,38,0,Branden Dawson Block.
+Louisiana,Michigan State,47,54,32,41,0,Keith Appling Defensive Rebound.
+Louisiana,Michigan State,47,56,32,44,1,Keith Appling made Layup.
+Louisiana,Michigan State,47,56,33,4,0,Foul on Denzel Valentine
+Louisiana,Michigan State,47,56,33,4,0,Elridge Moore missed Free Throw.
+Louisiana,Michigan State,47,56,33,4,0,Branden Dawson Defensive Rebound.
+Louisiana,Michigan State,47,56,33,28,0,Foul on Steven Wronkoski
+Louisiana,Michigan State,47,57,33,28,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,47,57,33,28,0,Keith Appling missed Free Throw.
+Louisiana,Michigan State,47,57,33,28,0,Bryant Mbamalu Defensive Rebound.
+Louisiana,Michigan State,47,57,33,43,0,Steven Wronkoski Turnover.
+Louisiana,Michigan State,47,57,33,43,0,Adreian Payne Steal.
+Louisiana,Michigan State,47,57,33,56,0,Brandan Kearney Turnover.
+Louisiana,Michigan State,47,57,33,56,0,Foul on Brandan Kearney
+Louisiana,Michigan State,47,57,34,37,0,Bryant Mbamalu Turnover.
+Louisiana,Michigan State,47,57,34,37,0,Adreian Payne Steal.
+Louisiana,Michigan State,47,57,34,41,0,Denzel Valentine missed Three Point Jumper.
+Louisiana,Michigan State,47,57,34,41,0,Adreian Payne Offensive Rebound.
+Louisiana,Michigan State,47,57,34,45,0,Adreian Payne missed Layup.
+Louisiana,Michigan State,47,57,34,45,0,Kevin Brown Defensive Rebound.
+Louisiana,Michigan State,47,57,34,49,0,Shawn Long missed Layup.
+Louisiana,Michigan State,47,57,34,49,0,Shawn Long Offensive Rebound.
+Louisiana,Michigan State,49,57,34,51,1,Shawn Long made Jumper.
+Louisiana,Michigan State,49,57,34,51,0,Louisiana-Lafayette Full Timeout.
+Louisiana,Michigan State,49,59,35,24,1,Branden Dawson made Layup.  Assisted by Keith Appling.
+Louisiana,Michigan State,49,59,36,2,0,Louisiana-Lafayette Turnover.
+Louisiana,Michigan State,49,59,36,2,0,Official TV Timeout.
+Louisiana,Michigan State,49,59,36,14,0,Keith Appling Turnover.
+Louisiana,Michigan State,49,59,36,15,0,Elfrid Payton Steal.
+Louisiana,Michigan State,49,59,36,18,0,Kevin Brown missed Layup.
+Louisiana,Michigan State,49,59,36,18,0,Kevin Brown Offensive Rebound.
+Louisiana,Michigan State,49,59,36,20,0,Foul on Denzel Valentine
+Louisiana,Michigan State,50,59,36,20,1,Kevin Brown made Free Throw.
+Louisiana,Michigan State,50,59,36,20,0,Kevin Brown missed Free Throw.
+Louisiana,Michigan State,50,59,36,20,0,Branden Dawson Defensive Rebound.
+Louisiana,Michigan State,50,59,36,51,0,Foul on Bryant Mbamalu
+Louisiana,Michigan State,50,59,36,51,0,Keith Appling missed Free Throw.
+Louisiana,Michigan State,50,59,36,51,0,null
+Louisiana,Michigan State,50,60,36,51,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,50,61,36,51,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,52,61,37,16,1,Elfrid Payton made Layup.
+Louisiana,Michigan State,52,61,37,33,0,Keith Appling Turnover.
+Louisiana,Michigan State,52,61,37,35,0,Elfrid Payton Steal.
+Louisiana,Michigan State,52,61,37,37,0,Elfrid Payton Turnover.
+Louisiana,Michigan State,52,61,37,38,0,Russell Byrd Steal.
+Louisiana,Michigan State,52,61,37,41,0,Michigan State Full Timeout.
+Louisiana,Michigan State,52,61,37,53,0,Russell Byrd Turnover.
+Louisiana,Michigan State,52,61,37,53,0,Elfrid Payton Steal.
+Louisiana,Michigan State,52,61,37,58,0,Foul on Russell Byrd
+Louisiana,Michigan State,53,61,37,58,1,Bryant Mbamalu made Free Throw.
+Louisiana,Michigan State,53,61,37,58,0,Bryant Mbamalu missed Free Throw.
+Louisiana,Michigan State,53,61,37,58,0,Adreian Payne Defensive Rebound.
+Louisiana,Michigan State,53,61,38,11,0,Keith Appling Turnover.
+Louisiana,Michigan State,53,61,38,12,0,Bryant Mbamalu Steal.
+Louisiana,Michigan State,56,61,38,16,1,Kevin Brown made Three Point Jumper.
+Louisiana,Michigan State,56,61,38,19,0,Louisiana-Lafayette Full Timeout.
+Louisiana,Michigan State,56,61,38,34,0,Foul on Kevin Brown
+Louisiana,Michigan State,56,62,38,34,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,56,63,38,34,1,Keith Appling made Free Throw.
+Louisiana,Michigan State,56,63,38,43,0,Foul on Keith Appling
+Louisiana,Michigan State,57,63,38,43,1,Elfrid Payton made Free Throw.
+Louisiana,Michigan State,58,63,38,43,1,Elfrid Payton made Free Throw.
+Louisiana,Michigan State,58,63,39,0,0,Denzel Valentine Turnover.
+Louisiana,Michigan State,58,63,39,2,0,Elfrid Payton Steal.
+Louisiana,Michigan State,58,63,39,4,0,Elfrid Payton missed Layup.
+Louisiana,Michigan State,58,63,39,4,0,Denzel Valentine Block.
+Louisiana,Michigan State,58,63,39,8,0,Kevin Brown Offensive Rebound.
+Louisiana,Michigan State,60,63,39,9,1,Kevin Brown made Layup.
+Louisiana,Michigan State,60,63,39,9,0,Michigan State Full Timeout.
+Louisiana,Michigan State,60,63,39,36,0,Adreian Payne missed Layup.
+Louisiana,Michigan State,60,63,39,36,0,Shawn Long Defensive Rebound.
+Louisiana,Michigan State,60,63,39,52,0,Shawn Long missed Layup.
+Louisiana,Michigan State,60,63,39,52,0,Branden Dawson Defensive Rebound.
+Louisiana,Michigan State,60,63,39,54,0,Foul on Kevin Brown
+Louisiana,Michigan State,60,64,39,54,1,Branden Dawson made Free Throw.
+Louisiana,Michigan State,60,64,39,54,0,Michigan State Full Timeout.
+Louisiana,Michigan State,60,64,39,54,0,Branden Dawson missed Free Throw.
+Louisiana,Michigan State,60,64,39,54,0,Shawn Long Defensive Rebound.
+Louisiana,Michigan State,60,64,39,59,0,Elfrid Payton missed Three Point Jumper.
+Louisiana,Michigan State,60,64,39,59,0,Michigan State Defensive Rebound.
+Louisiana,Michigan State,60,64,40,0,0,End Game

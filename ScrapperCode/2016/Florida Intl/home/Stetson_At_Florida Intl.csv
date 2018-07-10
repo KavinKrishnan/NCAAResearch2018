@@ -1,0 +1,334 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Stetson,Florida Intl,0,0,0,9,0,Daviyon Draper Turnover.
+Stetson,Florida Intl,0,0,0,10,0,Brian Pegg Steal.
+Stetson,Florida Intl,0,0,0,29,0,Cameron Harvey Turnover.
+Stetson,Florida Intl,0,0,0,30,0,Jason Boswell Steal.
+Stetson,Florida Intl,0,0,0,38,0,Jason Boswell missed Three Point Jumper.
+Stetson,Florida Intl,0,0,0,38,0,Derick Newton Defensive Rebound.
+Stetson,Florida Intl,0,0,0,54,0,Brian Pegg missed Jumper.
+Stetson,Florida Intl,0,0,0,54,0,Adrian Diaz Block.
+Stetson,Florida Intl,0,0,0,57,0,Eric Nottage Defensive Rebound.
+Stetson,Florida Intl,0,0,1,10,0,Ray Rodriguez missed Three Point Jumper.
+Stetson,Florida Intl,0,0,1,10,0,Brian Pegg Defensive Rebound.
+Stetson,Florida Intl,0,0,1,35,0,Brian Pegg missed Layup.
+Stetson,Florida Intl,0,0,1,35,0,Eric Nottage Defensive Rebound.
+Stetson,Florida Intl,0,2,1,44,1,Daviyon Draper made Jumper.
+Stetson,Florida Intl,2,2,2,7,1,Divine Myles made Layup. Assisted by Grant Lozoya.
+Stetson,Florida Intl,2,4,2,31,1,Daviyon Draper made Layup. Assisted by Eric Nottage.
+Stetson,Florida Intl,2,4,2,47,0,Grant Lozoya missed Jumper.
+Stetson,Florida Intl,2,4,2,47,0,Eric Nottage Defensive Rebound.
+Stetson,Florida Intl,2,6,3,9,1,Adrian Diaz made Dunk. Assisted by Daviyon Draper.
+Stetson,Florida Intl,2,6,3,21,0,Derick Newton missed Layup.
+Stetson,Florida Intl,2,6,3,21,0,Adrian Diaz Block.
+Stetson,Florida Intl,2,6,3,25,0,Adrian Diaz Defensive Rebound.
+Stetson,Florida Intl,2,6,3,31,0,Ray Rodriguez Turnover.
+Stetson,Florida Intl,2,6,3,32,0,Brian Pegg Steal.
+Stetson,Florida Intl,2,6,3,37,0,Cameron Harvey missed Jumper.
+Stetson,Florida Intl,2,6,3,37,0,Brian Pegg Offensive Rebound.
+Stetson,Florida Intl,2,6,3,39,0,Foul on Ray Rodriguez.
+Stetson,Florida Intl,2,6,3,39,0,Ray Rodriguez Offensive Rebound.
+Stetson,Florida Intl,2,6,3,39,0,Brian Pegg missed Free Throw.
+Stetson,Florida Intl,2,6,3,39,0,Stetson Deadball Team Rebound.
+Stetson,Florida Intl,2,6,3,39,0,Brian Pegg missed Free Throw.
+Stetson,Florida Intl,2,6,3,39,0,Daviyon Draper Defensive Rebound.
+Stetson,Florida Intl,2,6,3,57,0,Adrian Diaz Turnover.
+Stetson,Florida Intl,2,6,3,59,0,Official TV Timeout
+Stetson,Florida Intl,2,6,4,16,0,Luke Doyle missed Three Point Jumper.
+Stetson,Florida Intl,2,6,4,16,0,Daviyon Draper Defensive Rebound.
+Stetson,Florida Intl,2,9,4,30,1,Eric Nottage made Three Point Jumper.
+Stetson,Florida Intl,2,9,4,48,0,Angel Rivera missed Layup.
+Stetson,Florida Intl,2,9,4,48,0,Brian Pegg Offensive Rebound.
+Stetson,Florida Intl,2,9,4,49,0,Brian Pegg Turnover.
+Stetson,Florida Intl,2,9,4,54,0,Foul on Angel Rivera.
+Stetson,Florida Intl,2,9,5,6,0,Jason Boswell missed Layup.
+Stetson,Florida Intl,2,9,5,6,0,Angel Rivera Defensive Rebound.
+Stetson,Florida Intl,4,9,5,12,1,Luke Doyle made Layup. Assisted by Angel Rivera.
+Stetson,Florida Intl,4,11,5,29,1,Daviyon Draper made Jumper.
+Stetson,Florida Intl,4,11,5,47,0,Angel Rivera missed Three Point Jumper.
+Stetson,Florida Intl,4,11,5,47,0,Jason Boswell Defensive Rebound.
+Stetson,Florida Intl,4,11,6,8,0,Eric Nottage missed Jumper.
+Stetson,Florida Intl,4,11,6,8,0,Adrian Diaz Offensive Rebound.
+Stetson,Florida Intl,4,13,6,12,1,Adrian Diaz made Layup.
+Stetson,Florida Intl,4,13,6,25,0,Ty Cockfield missed Three Point Jumper.
+Stetson,Florida Intl,4,13,6,25,0,Angel Rivera Offensive Rebound.
+Stetson,Florida Intl,4,13,6,35,0,Foul on Daviyon Draper.
+Stetson,Florida Intl,5,13,6,35,1,Luke Doyle made Free Throw.
+Stetson,Florida Intl,6,13,6,35,1,Luke Doyle made Free Throw.
+Stetson,Florida Intl,6,13,6,59,0,Daviyon Draper missed Jumper.
+Stetson,Florida Intl,6,13,6,59,0,Adrian Diaz Offensive Rebound.
+Stetson,Florida Intl,6,13,7,4,0,Donte McGill missed Three Point Jumper.
+Stetson,Florida Intl,6,13,7,4,0,Stetson Defensive Rebound.
+Stetson,Florida Intl,6,13,7,6,0,Foul on Adrian Diaz.
+Stetson,Florida Intl,8,13,7,14,1,Derick Newton made Layup.
+Stetson,Florida Intl,8,13,7,14,0,Foul on Cameron Smith.
+Stetson,Florida Intl,8,13,7,14,0,Derick Newton missed Free Throw.
+Stetson,Florida Intl,8,13,7,14,0,Leo Goodman Offensive Rebound.
+Stetson,Florida Intl,8,13,7,17,0,Leo Goodman missed Layup.
+Stetson,Florida Intl,8,13,7,17,0,Daviyon Draper Defensive Rebound.
+Stetson,Florida Intl,8,15,7,36,1,Daviyon Draper made Jumper. Assisted by Kimar Williams.
+Stetson,Florida Intl,11,15,7,50,1,Leo Goodman made Three Point Jumper. Assisted by Ty Cockfield.
+Stetson,Florida Intl,11,15,8,12,0,Daviyon Draper missed Jumper.
+Stetson,Florida Intl,11,15,8,12,0,Luke Doyle Defensive Rebound.
+Stetson,Florida Intl,11,15,8,30,0,Derick Newton Turnover.
+Stetson,Florida Intl,11,15,8,30,0,Official TV Timeout
+Stetson,Florida Intl,11,15,8,48,0,Adrian Diaz missed Jumper.
+Stetson,Florida Intl,11,15,8,48,0,Adrian Diaz Offensive Rebound.
+Stetson,Florida Intl,11,17,8,53,1,Adrian Diaz made Layup.
+Stetson,Florida Intl,11,17,9,12,0,Ty Cockfield missed Three Point Jumper.
+Stetson,Florida Intl,11,17,9,12,0,Adrian Diaz Defensive Rebound.
+Stetson,Florida Intl,11,17,9,25,0,Foul on Ty Cockfield.
+Stetson,Florida Intl,11,20,9,33,1,Jason Boswell made Three Point Jumper.
+Stetson,Florida Intl,13,20,9,49,1,Cameron Harvey made Jumper.
+Stetson,Florida Intl,13,20,10,11,0,Donte McGill Turnover.
+Stetson,Florida Intl,13,20,10,12,0,Grant Lozoya Steal.
+Stetson,Florida Intl,13,20,10,12,0,Grant Lozoya Turnover.
+Stetson,Florida Intl,13,22,10,12,1,Adrian Diaz made Layup.
+Stetson,Florida Intl,13,22,10,29,0,Derick Newton Turnover.
+Stetson,Florida Intl,13,24,10,45,1,Adrian Diaz made Layup. Assisted by Eric Nottage.
+Stetson,Florida Intl,13,24,10,58,0,Foul on Adrian Diaz.
+Stetson,Florida Intl,14,24,11,0,1,Derick Newton made Free Throw.
+Stetson,Florida Intl,14,24,11,0,0,Derick Newton missed Free Throw.
+Stetson,Florida Intl,14,24,11,0,0,Brian Pegg Offensive Rebound.
+Stetson,Florida Intl,16,24,11,3,1,Brian Pegg made Layup.
+Stetson,Florida Intl,16,24,11,28,0,Donte McGill missed Layup.
+Stetson,Florida Intl,16,24,11,28,0,Donte McGill Offensive Rebound.
+Stetson,Florida Intl,16,26,11,31,1,Donte McGill made Layup.
+Stetson,Florida Intl,16,26,11,36,0,Derick Newton Block.
+Stetson,Florida Intl,16,26,11,40,0,Foul on Cameron Smith.
+Stetson,Florida Intl,16,26,11,42,0,Grant Lozoya missed Layup.
+Stetson,Florida Intl,16,26,11,42,0,Cameron Smith Block.
+Stetson,Florida Intl,16,26,11,44,0,Eric Nottage Defensive Rebound.
+Stetson,Florida Intl,16,26,11,50,0,Donte McGill missed Layup.
+Stetson,Florida Intl,16,26,11,50,0,Cameron Smith Offensive Rebound.
+Stetson,Florida Intl,16,26,11,55,0,Foul on Cameron Harvey.
+Stetson,Florida Intl,16,26,11,55,0,Cameron Smith missed Free Throw.
+Stetson,Florida Intl,16,26,11,55,0,Florida International Deadball Team Rebound.
+Stetson,Florida Intl,16,26,12,8,0,Brian Pegg missed Layup.
+Stetson,Florida Intl,16,26,12,8,0,Eric Nottage Defensive Rebound.
+Stetson,Florida Intl,16,26,12,19,0,Daviyon Draper missed Layup.
+Stetson,Florida Intl,16,26,12,19,0,Brian Pegg Defensive Rebound.
+Stetson,Florida Intl,16,26,12,24,0,Divine Myles Turnover.
+Stetson,Florida Intl,16,26,12,24,0,Official TV Timeout
+Stetson,Florida Intl,16,28,12,38,1,Cameron Smith made Layup. Assisted by Daviyon Draper.
+Stetson,Florida Intl,16,28,13,5,0,Cameron Harvey missed Three Point Jumper.
+Stetson,Florida Intl,16,28,13,5,0,Brian Pegg Offensive Rebound.
+Stetson,Florida Intl,18,28,13,11,1,Grant Lozoya made Jumper. Assisted by Divine Myles.
+Stetson,Florida Intl,18,30,13,29,1,Daviyon Draper made Jumper.
+Stetson,Florida Intl,18,30,13,50,0,Derick Newton missed Three Point Jumper.
+Stetson,Florida Intl,18,30,13,50,0,Cameron Smith Defensive Rebound.
+Stetson,Florida Intl,18,32,14,12,1,Donte McGill made Jumper.
+Stetson,Florida Intl,18,32,14,12,0,Foul on Grant Lozoya.
+Stetson,Florida Intl,18,32,14,12,0,Donte McGill missed Free Throw.
+Stetson,Florida Intl,18,32,14,12,0,Donte McGill Offensive Rebound.
+Stetson,Florida Intl,18,34,14,24,1,Jason Boswell made Layup.
+Stetson,Florida Intl,18,34,14,40,0,Ty Cockfield missed Layup.
+Stetson,Florida Intl,18,34,14,50,0,Daviyon Draper Defensive Rebound.
+Stetson,Florida Intl,18,34,14,52,0,Foul on Donte McGill.
+Stetson,Florida Intl,18,34,14,52,0,Donte McGill Turnover.
+Stetson,Florida Intl,21,34,14,57,1,Leo Goodman made Three Point Jumper. Assisted by Ty Cockfield.
+Stetson,Florida Intl,21,37,15,15,1,Eric Nottage made Three Point Jumper. Assisted by Jason Boswell.
+Stetson,Florida Intl,21,37,15,35,0,Ty Cockfield missed Layup.
+Stetson,Florida Intl,21,37,15,35,0,Cameron Smith Block.
+Stetson,Florida Intl,21,37,15,37,0,Eric Nottage Offensive Rebound.
+Stetson,Florida Intl,21,39,15,46,1,Daviyon Draper made Layup.
+Stetson,Florida Intl,21,39,15,49,0,Stetson  Timeout
+Stetson,Florida Intl,23,39,15,50,1,Divine Myles made Layup.
+Stetson,Florida Intl,23,39,16,12,0,Eric Nottage missed Layup.
+Stetson,Florida Intl,23,39,16,23,0,Divine Myles Block.
+Stetson,Florida Intl,23,39,16,32,0,Florida International Offensive Rebound.
+Stetson,Florida Intl,23,39,16,37,0,Eric Nottage Turnover.
+Stetson,Florida Intl,23,39,16,41,0,Luke Doyle Steal.
+Stetson,Florida Intl,26,39,16,49,1,Leo Goodman made Three Point Jumper.
+Stetson,Florida Intl,26,39,17,6,0,Eric Nottage missed Three Point Jumper.
+Stetson,Florida Intl,26,39,17,6,0,Derick Newton Defensive Rebound.
+Stetson,Florida Intl,26,39,17,15,0,Grant Lozoya Turnover.
+Stetson,Florida Intl,26,39,17,17,0,Eric Nottage Steal.
+Stetson,Florida Intl,26,39,17,21,0,Jason Boswell missed Layup.
+Stetson,Florida Intl,26,39,17,21,0,Derick Newton Defensive Rebound.
+Stetson,Florida Intl,26,39,17,29,0,Luke Doyle missed Three Point Jumper.
+Stetson,Florida Intl,26,39,17,29,0,Stetson Offensive Rebound.
+Stetson,Florida Intl,26,39,17,33,0,Derick Newton Turnover.
+Stetson,Florida Intl,26,41,17,44,1,Ray Rodriguez made Layup.
+Stetson,Florida Intl,28,41,18,6,1,Divine Myles made Layup.
+Stetson,Florida Intl,28,41,18,26,0,Michael Douglas missed Three Point Jumper.
+Stetson,Florida Intl,28,41,18,26,0,Luke Doyle Defensive Rebound.
+Stetson,Florida Intl,30,41,18,35,1,Angel Rivera made Layup.
+Stetson,Florida Intl,30,41,18,39,0,Florida International  Timeout
+Stetson,Florida Intl,30,41,18,50,0,Daviyon Draper missed Jumper.
+Stetson,Florida Intl,30,41,18,50,0,Angel Rivera Defensive Rebound.
+Stetson,Florida Intl,33,41,18,56,1,Luke Doyle made Three Point Jumper. Assisted by Angel Rivera.
+Stetson,Florida Intl,33,41,19,6,0,Ray Rodriguez Turnover.
+Stetson,Florida Intl,33,41,19,7,0,Luke Doyle Steal.
+Stetson,Florida Intl,35,41,19,9,1,Luke Doyle made Layup.
+Stetson,Florida Intl,35,41,19,32,0,Donte McGill missed Jumper.
+Stetson,Florida Intl,35,41,19,32,0,Angel Rivera Defensive Rebound.
+Stetson,Florida Intl,35,41,19,35,0,Foul on Donte McGill.
+Stetson,Florida Intl,36,41,19,35,1,Angel Rivera made Free Throw.
+Stetson,Florida Intl,37,41,19,35,1,Angel Rivera made Free Throw.
+Stetson,Florida Intl,37,41,20,0,0,Kimar Williams missed Layup.
+Stetson,Florida Intl,37,41,20,0,0,Stetson Defensive Rebound.
+Stetson,Florida Intl,37,41,20,0,0,End of 1st half
+Stetson,Florida Intl,37,41,20,7,0,Eric Nottage missed Three Point Jumper.
+Stetson,Florida Intl,37,41,20,7,0,Grant Lozoya Defensive Rebound.
+Stetson,Florida Intl,37,41,20,20,0,Brian Pegg missed Layup.
+Stetson,Florida Intl,37,41,20,20,0,Adrian Diaz Block.
+Stetson,Florida Intl,37,41,20,21,0,Jason Boswell Defensive Rebound.
+Stetson,Florida Intl,37,41,20,27,0,Ray Rodriguez missed Three Point Jumper.
+Stetson,Florida Intl,37,41,20,27,0,Cameron Harvey Defensive Rebound.
+Stetson,Florida Intl,40,41,20,59,1,Grant Lozoya made Three Point Jumper. Assisted by Divine Myles.
+Stetson,Florida Intl,40,41,21,17,0,Foul on Grant Lozoya.
+Stetson,Florida Intl,40,41,21,30,0,Jason Boswell missed Layup.
+Stetson,Florida Intl,40,41,21,30,0,Donte McGill Offensive Rebound.
+Stetson,Florida Intl,40,44,21,47,1,Daviyon Draper made Three Point Jumper. Assisted by Eric Nottage.
+Stetson,Florida Intl,40,44,22,8,0,Divine Myles missed Three Point Jumper.
+Stetson,Florida Intl,40,44,22,8,0,Daviyon Draper Defensive Rebound.
+Stetson,Florida Intl,40,44,22,20,0,Eric Nottage Turnover.
+Stetson,Florida Intl,40,44,22,24,0,Divine Myles Steal.
+Stetson,Florida Intl,40,44,22,25,0,Foul on Daviyon Draper.
+Stetson,Florida Intl,41,44,22,25,1,Brian Pegg made Free Throw.
+Stetson,Florida Intl,41,44,22,25,0,Brian Pegg missed Free Throw.
+Stetson,Florida Intl,41,44,22,25,0,Stetson Deadball Team Rebound.
+Stetson,Florida Intl,43,44,22,39,1,Cameron Harvey made Jumper.
+Stetson,Florida Intl,43,44,22,52,0,Daviyon Draper missed Jumper.
+Stetson,Florida Intl,43,44,22,52,0,Derick Newton Defensive Rebound.
+Stetson,Florida Intl,45,44,22,57,1,Divine Myles made Layup. Assisted by Derick Newton.
+Stetson,Florida Intl,45,44,23,4,0,Foul on Divine Myles.
+Stetson,Florida Intl,45,44,23,16,0,Adrian Diaz missed Layup.
+Stetson,Florida Intl,45,44,23,16,0,Florida International Offensive Rebound.
+Stetson,Florida Intl,45,46,23,34,1,Donte McGill made Layup.
+Stetson,Florida Intl,45,46,23,48,0,Foul on Jason Boswell.
+Stetson,Florida Intl,45,46,23,50,0,Cameron Harvey Turnover.
+Stetson,Florida Intl,45,46,23,52,0,Jason Boswell Steal.
+Stetson,Florida Intl,45,46,23,56,0,Foul on Brian Pegg.
+Stetson,Florida Intl,45,47,23,56,1,Kimar Williams made Free Throw.
+Stetson,Florida Intl,45,48,23,56,1,Kimar Williams made Free Throw.
+Stetson,Florida Intl,45,48,24,12,0,Grant Lozoya missed Three Point Jumper.
+Stetson,Florida Intl,45,48,24,12,0,Adrian Diaz Defensive Rebound.
+Stetson,Florida Intl,45,48,24,19,0,Foul on Grant Lozoya.
+Stetson,Florida Intl,45,48,24,19,0,Official TV Timeout
+Stetson,Florida Intl,45,50,24,28,1,Adrian Diaz made Dunk. Assisted by Daviyon Draper.
+Stetson,Florida Intl,45,50,24,47,0,Luke Doyle Turnover.
+Stetson,Florida Intl,45,50,24,47,0,Jason Boswell Steal.
+Stetson,Florida Intl,45,50,24,56,0,Kimar Williams missed Layup.
+Stetson,Florida Intl,45,50,24,56,0,Brian Pegg Defensive Rebound.
+Stetson,Florida Intl,45,50,25,3,0,Luke Doyle missed Three Point Jumper.
+Stetson,Florida Intl,45,50,25,3,0,Daviyon Draper Defensive Rebound.
+Stetson,Florida Intl,45,50,25,17,0,Foul on Kimar Williams.
+Stetson,Florida Intl,45,50,25,17,0,Kimar Williams Turnover.
+Stetson,Florida Intl,47,50,25,44,1,Divine Myles made Layup.
+Stetson,Florida Intl,47,50,26,14,0,Donte McGill missed Jumper.
+Stetson,Florida Intl,47,50,26,14,0,Divine Myles Defensive Rebound.
+Stetson,Florida Intl,49,50,26,19,1,Luke Doyle made Layup. Assisted by Divine Myles.
+Stetson,Florida Intl,49,50,26,44,0,Foul on Adrian Diaz.
+Stetson,Florida Intl,49,50,26,44,0,Adrian Diaz Turnover.
+Stetson,Florida Intl,52,50,27,9,1,Leo Goodman made Three Point Jumper. Assisted by Angel Rivera.
+Stetson,Florida Intl,52,50,27,28,0,Daviyon Draper Turnover.
+Stetson,Florida Intl,52,50,27,56,0,Angel Rivera Turnover.
+Stetson,Florida Intl,52,50,27,58,0,Eric Nottage Steal.
+Stetson,Florida Intl,52,50,28,1,0,Donte McGill missed Layup.
+Stetson,Florida Intl,52,50,28,1,0,Leo Goodman Block.
+Stetson,Florida Intl,52,50,28,3,0,Leo Goodman Defensive Rebound.
+Stetson,Florida Intl,52,50,28,19,0,Divine Myles missed Layup.
+Stetson,Florida Intl,52,50,28,19,0,Adrian Diaz Block.
+Stetson,Florida Intl,52,50,28,20,0,Eric Nottage Defensive Rebound.
+Stetson,Florida Intl,52,52,28,36,1,Adrian Diaz made Layup. Assisted by Jason Boswell.
+Stetson,Florida Intl,52,52,28,54,0,Leo Goodman missed Jumper.
+Stetson,Florida Intl,52,52,28,54,0,Brian Pegg Offensive Rebound.
+Stetson,Florida Intl,54,52,28,59,1,Brian Pegg made Layup.
+Stetson,Florida Intl,54,54,29,16,1,Adrian Diaz made Dunk. Assisted by Cameron Smith.
+Stetson,Florida Intl,54,54,29,30,0,Luke Doyle missed Three Point Jumper.
+Stetson,Florida Intl,54,54,29,30,0,Donte McGill Defensive Rebound.
+Stetson,Florida Intl,54,54,29,59,0,Official TV Timeout
+Stetson,Florida Intl,54,54,30,1,0,Cameron Smith missed Dunk.
+Stetson,Florida Intl,54,54,30,1,0,Brian Pegg Block.
+Stetson,Florida Intl,54,54,30,3,0,Leo Goodman Defensive Rebound.
+Stetson,Florida Intl,54,54,30,6,0,Leo Goodman Turnover.
+Stetson,Florida Intl,54,54,30,7,0,Jason Boswell Steal.
+Stetson,Florida Intl,54,54,30,9,0,Jason Boswell Turnover.
+Stetson,Florida Intl,54,54,30,9,0,Leo Goodman Steal.
+Stetson,Florida Intl,54,54,30,12,0,Leo Goodman Turnover.
+Stetson,Florida Intl,54,54,30,12,0,Jason Boswell Steal.
+Stetson,Florida Intl,54,56,30,19,1,Donte McGill made Layup.
+Stetson,Florida Intl,54,56,30,48,0,Angel Rivera missed Three Point Jumper.
+Stetson,Florida Intl,54,56,30,59,0,Cameron Smith Defensive Rebound.
+Stetson,Florida Intl,54,56,31,9,0,Eric Nottage missed Three Point Jumper.
+Stetson,Florida Intl,54,56,31,9,0,Eric Nottage Offensive Rebound.
+Stetson,Florida Intl,54,58,31,14,1,Eric Nottage made Layup.
+Stetson,Florida Intl,54,58,31,42,0,Foul on Jason Boswell.
+Stetson,Florida Intl,56,58,31,49,1,Brian Pegg made Jumper.
+Stetson,Florida Intl,56,58,32,7,0,Official TV Timeout
+Stetson,Florida Intl,56,58,32,16,0,Jason Boswell missed Jumper.
+Stetson,Florida Intl,56,58,32,16,0,Brian Pegg Defensive Rebound.
+Stetson,Florida Intl,59,58,32,27,1,Cameron Harvey made Three Point Jumper. Assisted by Derick Newton.
+Stetson,Florida Intl,59,60,32,45,1,Adrian Diaz made Layup. Assisted by Donte McGill.
+Stetson,Florida Intl,59,60,33,17,0,Angel Rivera missed Jumper.
+Stetson,Florida Intl,59,60,33,17,0,Donte McGill Defensive Rebound.
+Stetson,Florida Intl,59,60,33,29,0,Donte McGill missed Layup.
+Stetson,Florida Intl,59,60,33,29,0,Derick Newton Block.
+Stetson,Florida Intl,59,60,33,30,0,Adrian Diaz Offensive Rebound.
+Stetson,Florida Intl,59,62,33,31,1,Adrian Diaz made Layup.
+Stetson,Florida Intl,59,62,34,1,0,Cameron Harvey missed Three Point Jumper.
+Stetson,Florida Intl,59,62,34,1,0,Stetson Offensive Rebound.
+Stetson,Florida Intl,59,62,34,3,0,Foul on Jason Boswell.
+Stetson,Florida Intl,59,62,34,8,0,Foul on Jason Boswell.
+Stetson,Florida Intl,60,62,34,8,1,Divine Myles made Free Throw.
+Stetson,Florida Intl,61,62,34,8,1,Divine Myles made Free Throw.
+Stetson,Florida Intl,61,62,34,33,0,Jason Boswell missed Jumper.
+Stetson,Florida Intl,61,62,34,33,0,Angel Rivera Defensive Rebound.
+Stetson,Florida Intl,61,62,34,36,0,Foul on Donte McGill.
+Stetson,Florida Intl,62,62,34,36,1,Angel Rivera made Free Throw.
+Stetson,Florida Intl,63,62,34,36,1,Angel Rivera made Free Throw.
+Stetson,Florida Intl,63,64,34,57,1,Adrian Diaz made Dunk. Assisted by Eric Nottage.
+Stetson,Florida Intl,63,64,35,17,0,Derick Newton missed Layup.
+Stetson,Florida Intl,63,64,35,17,0,Adrian Diaz Block.
+Stetson,Florida Intl,63,64,35,18,0,Cameron Harvey Offensive Rebound.
+Stetson,Florida Intl,66,64,35,26,1,Cameron Harvey made Three Point Jumper. Assisted by Angel Rivera.
+Stetson,Florida Intl,66,64,35,57,0,Eric Nottage missed Layup.
+Stetson,Florida Intl,66,64,35,57,0,Adrian Diaz Offensive Rebound.
+Stetson,Florida Intl,66,66,35,59,1,Adrian Diaz made Layup.
+Stetson,Florida Intl,66,66,36,1,0,Foul on Brian Pegg.
+Stetson,Florida Intl,66,66,36,1,0,Adrian Diaz missed Free Throw.
+Stetson,Florida Intl,66,66,36,1,0,Brian Pegg Defensive Rebound.
+Stetson,Florida Intl,69,66,36,22,1,Derick Newton made Three Point Jumper. Assisted by Divine Myles.
+Stetson,Florida Intl,69,66,36,45,0,Ray Rodriguez missed Three Point Jumper.
+Stetson,Florida Intl,69,66,36,45,0,Eric Nottage Offensive Rebound.
+Stetson,Florida Intl,69,66,36,47,0,Foul on Cameron Harvey.
+Stetson,Florida Intl,69,68,36,57,1,Donte McGill made Layup. Assisted by Adrian Diaz.
+Stetson,Florida Intl,71,68,37,21,1,Brian Pegg made Jumper.
+Stetson,Florida Intl,71,71,37,48,1,Eric Nottage made Three Point Jumper. Assisted by Adrian Diaz.
+Stetson,Florida Intl,71,71,38,3,0,Divine Myles missed Layup.
+Stetson,Florida Intl,71,71,38,3,0,Adrian Diaz Block.
+Stetson,Florida Intl,71,71,38,4,0,Derick Newton Offensive Rebound.
+Stetson,Florida Intl,71,71,38,17,0,Foul on Eric Nottage.
+Stetson,Florida Intl,71,71,38,17,0,Divine Myles missed Free Throw.
+Stetson,Florida Intl,71,71,38,17,0,Adrian Diaz Defensive Rebound.
+Stetson,Florida Intl,71,71,38,37,0,Eric Nottage Turnover.
+Stetson,Florida Intl,71,71,38,38,0,Divine Myles Steal.
+Stetson,Florida Intl,73,71,38,40,1,Divine Myles made Layup.
+Stetson,Florida Intl,73,71,38,42,0,Stetson  Timeout
+Stetson,Florida Intl,73,71,39,1,0,Foul on Brian Pegg.
+Stetson,Florida Intl,73,71,39,1,0,Adrian Diaz missed Free Throw.
+Stetson,Florida Intl,73,71,39,1,0,Florida International Deadball Team Rebound.
+Stetson,Florida Intl,73,71,39,1,0,Adrian Diaz missed Free Throw.
+Stetson,Florida Intl,73,71,39,1,0,Cameron Smith Offensive Rebound.
+Stetson,Florida Intl,73,73,39,3,1,Cameron Smith made Layup.
+Stetson,Florida Intl,73,73,39,7,0,Florida International  Timeout
+Stetson,Florida Intl,75,73,39,33,1,Divine Myles made Layup.
+Stetson,Florida Intl,75,73,39,34,0,Stetson  Timeout
+Stetson,Florida Intl,75,73,39,45,0,Foul on Brian Pegg.
+Stetson,Florida Intl,75,73,39,45,0,Adrian Diaz missed Free Throw.
+Stetson,Florida Intl,75,73,39,45,0,Derick Newton Defensive Rebound.
+Stetson,Florida Intl,75,73,39,48,0,Foul on Jason Boswell.
+Stetson,Florida Intl,76,73,39,48,1,Divine Myles made Free Throw.
+Stetson,Florida Intl,77,73,39,48,1,Divine Myles made Free Throw.
+Stetson,Florida Intl,77,75,39,51,1,Donte McGill made Layup.
+Stetson,Florida Intl,77,75,39,51,0,Florida International  Timeout
+Stetson,Florida Intl,77,75,39,52,0,Foul on Adrian Diaz.
+Stetson,Florida Intl,78,75,39,52,1,Derick Newton made Free Throw.
+Stetson,Florida Intl,79,75,39,52,1,Derick Newton made Free Throw.
+Stetson,Florida Intl,79,75,39,56,0,Donte McGill Turnover.
+Stetson,Florida Intl,79,75,39,57,0,Angel Rivera Steal.
+Stetson,Florida Intl,79,75,39,57,0,Foul on Eric Nottage.
+Stetson,Florida Intl,80,75,39,57,1,Angel Rivera made Free Throw.
+Stetson,Florida Intl,81,75,39,57,1,Angel Rivera made Free Throw.
+Stetson,Florida Intl,81,75,40,0,0,End of Game

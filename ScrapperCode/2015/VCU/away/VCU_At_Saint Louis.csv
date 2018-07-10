@@ -1,0 +1,321 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+VCU,Saint Louis,0,0,0,0,0,Jump Ball won by VCU
+VCU,Saint Louis,0,0,0,12,0,Foul on John Manning.
+VCU,Saint Louis,1,0,0,12,1,Briante Weber made Free Throw.
+VCU,Saint Louis,2,0,0,12,1,Briante Weber made Free Throw.
+VCU,Saint Louis,2,2,0,43,1,Achraf Yacoubou made Layup.
+VCU,Saint Louis,2,2,0,54,0,Treveon Graham missed Three Point Jumper.
+VCU,Saint Louis,2,2,0,54,0,John Manning Defensive Rebound.
+VCU,Saint Louis,2,2,1,15,0,Milik Yarbrough missed Jumper.
+VCU,Saint Louis,2,2,1,15,0,Treveon Graham Defensive Rebound.
+VCU,Saint Louis,2,2,1,26,0,Foul on Briante Weber.
+VCU,Saint Louis,2,2,1,26,0,Briante Weber Turnover.
+VCU,Saint Louis,2,2,1,38,0,Davell Roby missed Jumper.
+VCU,Saint Louis,2,2,1,38,0,Treveon Graham Defensive Rebound.
+VCU,Saint Louis,5,2,1,45,1,Treveon Graham made Three Point Jumper.
+VCU,Saint Louis,5,4,2,7,1,Davell Roby made Jumper. Assisted by Marcus Bartley.
+VCU,Saint Louis,5,4,2,7,0,Foul on Mo Alie-Cox.
+VCU,Saint Louis,5,4,2,7,0,Davell Roby missed Free Throw.
+VCU,Saint Louis,5,4,2,7,0,Treveon Graham Defensive Rebound.
+VCU,Saint Louis,5,4,2,27,0,Terry Larrier missed Layup.
+VCU,Saint Louis,5,4,2,27,0,Davell Roby Defensive Rebound.
+VCU,Saint Louis,5,4,2,39,0,Davell Roby missed Jumper.
+VCU,Saint Louis,5,4,2,39,0,Mo Alie-Cox Defensive Rebound.
+VCU,Saint Louis,7,4,2,54,1,Mo Alie-Cox made Dunk. Assisted by JeQuan Lewis.
+VCU,Saint Louis,7,6,3,19,1,Marcus Bartley made Jumper.
+VCU,Saint Louis,9,6,3,38,1,Melvin Johnson made Jumper. Assisted by JeQuan Lewis.
+VCU,Saint Louis,9,6,3,51,0,Foul on Terry Larrier.
+VCU,Saint Louis,9,9,3,59,1,Marcus Bartley made Three Point Jumper. Assisted by Milik Yarbrough.
+VCU,Saint Louis,9,9,4,7,0,Melvin Johnson missed Jumper.
+VCU,Saint Louis,9,9,4,7,0,Marcus Bartley Defensive Rebound.
+VCU,Saint Louis,9,9,4,19,0,Marcus Bartley missed Three Point Jumper.
+VCU,Saint Louis,9,9,4,19,0,Justin Tillman Defensive Rebound.
+VCU,Saint Louis,9,9,4,32,0,Jarred Guest missed Jumper.
+VCU,Saint Louis,9,9,4,32,0,Milik Yarbrough Defensive Rebound.
+VCU,Saint Louis,9,11,4,41,1,Austin McBroom made Jumper. Assisted by Milik Yarbrough.
+VCU,Saint Louis,9,11,4,57,0,Jarred Guest missed Jumper.
+VCU,Saint Louis,9,11,4,57,0,Milik Yarbrough Defensive Rebound.
+VCU,Saint Louis,9,11,5,2,0,Milik Yarbrough Turnover.
+VCU,Saint Louis,9,11,5,2,0,Terry Larrier Steal.
+VCU,Saint Louis,9,11,5,10,0,Melvin Johnson missed Jumper.
+VCU,Saint Louis,9,11,5,10,0,Austin Gillmann Defensive Rebound.
+VCU,Saint Louis,9,11,5,34,0,Achraf Yacoubou missed Three Point Jumper.
+VCU,Saint Louis,9,11,5,34,0,Jarred Guest Defensive Rebound.
+VCU,Saint Louis,9,11,5,57,0,JeQuan Lewis missed Jumper.
+VCU,Saint Louis,9,11,5,57,0,Marcus Bartley Defensive Rebound.
+VCU,Saint Louis,9,11,6,6,0,Foul on Jarred Guest.
+VCU,Saint Louis,9,11,6,6,0,Official TV Timeout
+VCU,Saint Louis,9,11,6,6,0,Achraf Yacoubou missed Free Throw.
+VCU,Saint Louis,9,11,6,6,0,Saint Louis Deadball Team Rebound.
+VCU,Saint Louis,9,12,6,6,1,Achraf Yacoubou made Free Throw.
+VCU,Saint Louis,12,12,6,25,1,Briante Weber made Three Point Jumper.
+VCU,Saint Louis,12,14,6,53,1,Reggie Agbeko made Jumper. Assisted by Austin McBroom.
+VCU,Saint Louis,12,14,7,23,0,Treveon Graham missed Three Point Jumper.
+VCU,Saint Louis,12,14,7,23,0,VCU Offensive Rebound.
+VCU,Saint Louis,12,14,7,38,0,Treveon Graham missed Three Point Jumper.
+VCU,Saint Louis,12,14,7,38,0,John Manning Defensive Rebound.
+VCU,Saint Louis,12,14,7,53,0,Davell Roby missed Three Point Jumper.
+VCU,Saint Louis,12,14,7,53,0,Austin McBroom Offensive Rebound.
+VCU,Saint Louis,12,14,8,8,0,Mike Crawford missed Three Point Jumper.
+VCU,Saint Louis,12,14,8,8,0,Mo Alie-Cox Defensive Rebound.
+VCU,Saint Louis,12,14,8,17,0,JeQuan Lewis missed Jumper.
+VCU,Saint Louis,12,14,8,17,0,Reggie Agbeko Defensive Rebound.
+VCU,Saint Louis,12,16,8,52,1,Reggie Agbeko made Jumper. Assisted by Austin McBroom.
+VCU,Saint Louis,12,16,9,6,0,Foul on Reggie Agbeko.
+VCU,Saint Louis,12,16,9,6,0,Official TV Timeout
+VCU,Saint Louis,13,16,9,6,1,Treveon Graham made Free Throw.
+VCU,Saint Louis,14,16,9,6,1,Treveon Graham made Free Throw.
+VCU,Saint Louis,14,16,9,21,0,Milik Yarbrough missed Three Point Jumper.
+VCU,Saint Louis,14,16,9,21,0,Terry Larrier Defensive Rebound.
+VCU,Saint Louis,17,16,9,29,1,Terry Larrier made Three Point Jumper. Assisted by Melvin Johnson.
+VCU,Saint Louis,17,16,9,45,0,Saint Louis  Timeout
+VCU,Saint Louis,17,16,10,5,0,John Manning missed Jumper.
+VCU,Saint Louis,17,16,10,5,0,Treveon Graham Defensive Rebound.
+VCU,Saint Louis,20,16,10,13,1,Treveon Graham made Three Point Jumper. Assisted by Briante Weber.
+VCU,Saint Louis,20,16,10,19,0,Saint Louis  Timeout
+VCU,Saint Louis,20,16,10,20,0,Milik Yarbrough Turnover.
+VCU,Saint Louis,20,16,10,20,0,Melvin Johnson Steal.
+VCU,Saint Louis,22,16,10,23,1,Terry Larrier made Dunk. Assisted by Treveon Graham.
+VCU,Saint Louis,22,16,10,34,0,Marcus Bartley Turnover.
+VCU,Saint Louis,22,16,10,34,0,Briante Weber Steal.
+VCU,Saint Louis,22,16,10,37,0,Foul on Marcus Bartley.
+VCU,Saint Louis,23,16,10,37,1,Briante Weber made Free Throw.
+VCU,Saint Louis,24,16,10,37,1,Briante Weber made Free Throw.
+VCU,Saint Louis,24,16,10,44,0,Foul on Jordan Burgess.
+VCU,Saint Louis,24,18,10,55,1,Reggie Agbeko made Jumper. Assisted by Davell Roby.
+VCU,Saint Louis,24,18,11,4,0,Melvin Johnson missed Three Point Jumper.
+VCU,Saint Louis,24,18,11,4,0,Saint Louis Defensive Rebound.
+VCU,Saint Louis,24,21,11,21,1,Austin McBroom made Three Point Jumper. Assisted by Marcus Bartley.
+VCU,Saint Louis,24,21,11,32,0,Jordan Burgess missed Three Point Jumper.
+VCU,Saint Louis,24,21,11,32,0,Saint Louis Defensive Rebound.
+VCU,Saint Louis,24,21,11,59,0,Marcus Bartley missed Three Point Jumper.
+VCU,Saint Louis,24,21,11,59,0,Mo Alie-Cox Defensive Rebound.
+VCU,Saint Louis,24,21,12,32,0,Melvin Johnson missed Jumper.
+VCU,Saint Louis,24,21,12,32,0,Melvin Johnson Offensive Rebound.
+VCU,Saint Louis,24,21,12,45,0,Foul on Davell Roby.
+VCU,Saint Louis,24,21,12,45,0,Official TV Timeout
+VCU,Saint Louis,25,21,12,45,1,Melvin Johnson made Free Throw.
+VCU,Saint Louis,26,21,12,45,1,Melvin Johnson made Free Throw.
+VCU,Saint Louis,26,21,12,52,0,Foul on Jonathan Williams.
+VCU,Saint Louis,26,24,13,0,1,Austin Gillmann made Three Point Jumper. Assisted by Marcus Bartley.
+VCU,Saint Louis,26,24,13,14,0,Foul on Briante Weber.
+VCU,Saint Louis,26,24,13,14,0,Briante Weber Turnover.
+VCU,Saint Louis,26,26,13,22,1,Austin McBroom made Jumper.
+VCU,Saint Louis,26,26,13,38,0,Justin Tillman Turnover.
+VCU,Saint Louis,26,26,14,5,0,Austin McBroom missed Three Point Jumper.
+VCU,Saint Louis,26,26,14,5,0,Justin Tillman Defensive Rebound.
+VCU,Saint Louis,26,26,14,18,0,Foul on Reggie Agbeko.
+VCU,Saint Louis,26,26,14,21,0,Treveon Graham Turnover.
+VCU,Saint Louis,26,26,14,21,0,Davell Roby Steal.
+VCU,Saint Louis,26,28,14,25,1,Davell Roby made Layup.
+VCU,Saint Louis,26,28,14,28,0,VCU  Timeout
+VCU,Saint Louis,26,28,14,38,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Saint Louis,26,28,14,38,0,Austin McBroom Defensive Rebound.
+VCU,Saint Louis,26,28,15,5,0,Milik Yarbrough Turnover.
+VCU,Saint Louis,26,28,15,19,0,Foul on Mo Alie-Cox.
+VCU,Saint Louis,26,28,15,19,0,Mo Alie-Cox Turnover.
+VCU,Saint Louis,26,28,15,29,0,Foul on John Manning.
+VCU,Saint Louis,26,28,15,29,0,John Manning Turnover.
+VCU,Saint Louis,26,28,15,45,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Saint Louis,26,28,15,45,0,John Manning Defensive Rebound.
+VCU,Saint Louis,26,28,15,54,0,Achraf Yacoubou missed Layup.
+VCU,Saint Louis,26,28,15,54,0,Treveon Graham Defensive Rebound.
+VCU,Saint Louis,28,28,16,5,1,Jarred Guest made Jumper. Assisted by JeQuan Lewis.
+VCU,Saint Louis,28,28,16,32,0,Milik Yarbrough missed Jumper.
+VCU,Saint Louis,28,28,16,32,0,Melvin Johnson Defensive Rebound.
+VCU,Saint Louis,28,28,16,40,0,JeQuan Lewis Turnover.
+VCU,Saint Louis,28,28,16,40,0,Achraf Yacoubou Steal.
+VCU,Saint Louis,28,30,16,45,1,Achraf Yacoubou made Layup.
+VCU,Saint Louis,28,30,16,57,0,Melvin Johnson missed Jumper.
+VCU,Saint Louis,28,30,16,57,0,John Manning Defensive Rebound.
+VCU,Saint Louis,28,32,17,3,1,Davell Roby made Layup. Assisted by Milik Yarbrough.
+VCU,Saint Louis,28,32,17,16,0,VCU  Timeout
+VCU,Saint Louis,30,32,17,23,1,Treveon Graham made Jumper.
+VCU,Saint Louis,30,32,17,46,0,Austin Gillmann Turnover.
+VCU,Saint Louis,30,32,17,47,0,Official TV Timeout
+VCU,Saint Louis,32,32,17,54,1,Treveon Graham made Jumper.
+VCU,Saint Louis,32,32,18,20,0,Foul on Austin Gillmann.
+VCU,Saint Louis,32,32,18,20,0,Austin Gillmann Turnover.
+VCU,Saint Louis,32,32,18,26,0,Foul on Davell Roby.
+VCU,Saint Louis,33,32,18,26,1,Treveon Graham made Free Throw.
+VCU,Saint Louis,33,32,18,26,0,Treveon Graham missed Free Throw.
+VCU,Saint Louis,33,32,18,26,0,VCU Deadball Team Rebound.
+VCU,Saint Louis,34,32,18,26,1,Treveon Graham made Free Throw.
+VCU,Saint Louis,34,34,18,39,1,Milik Yarbrough made Layup. Assisted by Marcus Bartley.
+VCU,Saint Louis,34,34,18,54,0,Terry Larrier Turnover.
+VCU,Saint Louis,34,34,19,0,0,Austin McBroom missed Layup.
+VCU,Saint Louis,34,34,19,0,0,JeQuan Lewis Defensive Rebound.
+VCU,Saint Louis,34,34,19,7,0,Melvin Johnson missed Three Point Jumper.
+VCU,Saint Louis,34,34,19,7,0,Melvin Johnson Offensive Rebound.
+VCU,Saint Louis,34,34,19,11,0,Melvin Johnson missed Jumper.
+VCU,Saint Louis,34,34,19,11,0,Austin Gillmann Defensive Rebound.
+VCU,Saint Louis,34,34,19,50,0,Saint Louis  Turnover.
+VCU,Saint Louis,34,34,19,58,0,Treveon Graham missed Three Point Jumper.
+VCU,Saint Louis,34,34,19,58,0,Saint Louis Defensive Rebound.
+VCU,Saint Louis,34,34,20,0,0,End of 1st half
+VCU,Saint Louis,34,34,20,0,0,Jump Ball won by Saint Louis
+VCU,Saint Louis,34,34,20,7,0,Foul on Treveon Graham.
+VCU,Saint Louis,34,34,20,20,0,Foul on Jordan Burgess.
+VCU,Saint Louis,34,34,20,29,0,Achraf Yacoubou missed Layup.
+VCU,Saint Louis,34,34,20,29,0,Mo Alie-Cox Block.
+VCU,Saint Louis,34,34,20,29,0,Saint Louis Offensive Rebound.
+VCU,Saint Louis,34,34,20,41,0,Marcus Bartley missed Three Point Jumper.
+VCU,Saint Louis,34,34,20,41,0,Melvin Johnson Defensive Rebound.
+VCU,Saint Louis,34,34,21,13,0,Briante Weber missed Jumper.
+VCU,Saint Louis,34,34,21,13,0,Melvin Johnson Offensive Rebound.
+VCU,Saint Louis,34,34,21,34,0,Briante Weber missed Jumper.
+VCU,Saint Louis,34,34,21,34,0,VCU Offensive Rebound.
+VCU,Saint Louis,34,34,21,41,0,Jump Ball won by VCU
+VCU,Saint Louis,34,34,21,51,0,Jordan Burgess missed Three Point Jumper.
+VCU,Saint Louis,34,34,21,51,0,Milik Yarbrough Defensive Rebound.
+VCU,Saint Louis,34,34,22,1,0,Achraf Yacoubou missed Layup.
+VCU,Saint Louis,34,34,22,1,0,Mo Alie-Cox Defensive Rebound.
+VCU,Saint Louis,37,34,22,24,1,Briante Weber made Three Point Jumper. Assisted by Melvin Johnson.
+VCU,Saint Louis,37,36,22,55,1,Milik Yarbrough made Layup. Assisted by Marcus Bartley.
+VCU,Saint Louis,37,36,23,2,0,Briante Weber missed Three Point Jumper.
+VCU,Saint Louis,37,36,23,2,0,Marcus Bartley Defensive Rebound.
+VCU,Saint Louis,37,36,23,36,0,Milik Yarbrough missed Jumper.
+VCU,Saint Louis,37,36,23,36,0,Briante Weber Defensive Rebound.
+VCU,Saint Louis,37,36,23,42,0,Treveon Graham missed Three Point Jumper.
+VCU,Saint Louis,37,36,23,42,0,Saint Louis Defensive Rebound.
+VCU,Saint Louis,37,38,24,0,1,Milik Yarbrough made Layup. Assisted by Achraf Yacoubou.
+VCU,Saint Louis,37,38,24,10,0,Treveon Graham Turnover.
+VCU,Saint Louis,37,38,24,11,0,Official TV Timeout
+VCU,Saint Louis,37,38,24,29,0,Milik Yarbrough Turnover.
+VCU,Saint Louis,37,38,24,34,0,Foul on Achraf Yacoubou.
+VCU,Saint Louis,40,38,24,47,1,JeQuan Lewis made Three Point Jumper. Assisted by Terry Larrier.
+VCU,Saint Louis,40,38,25,5,0,Austin McBroom missed Three Point Jumper.
+VCU,Saint Louis,40,38,25,5,0,Marcus Bartley Offensive Rebound.
+VCU,Saint Louis,40,38,25,25,0,Foul on Jarred Guest.
+VCU,Saint Louis,40,39,25,25,1,Milik Yarbrough made Free Throw.
+VCU,Saint Louis,40,40,25,25,1,Milik Yarbrough made Free Throw.
+VCU,Saint Louis,40,40,25,33,0,Briante Weber missed Jumper.
+VCU,Saint Louis,40,40,25,34,0,Treveon Graham Block.
+VCU,Saint Louis,40,40,25,35,0,Reggie Agbeko Defensive Rebound.
+VCU,Saint Louis,40,40,26,16,0,Davell Roby missed Jumper.
+VCU,Saint Louis,40,40,26,16,0,Treveon Graham Defensive Rebound.
+VCU,Saint Louis,40,40,26,37,0,Briante Weber Turnover.
+VCU,Saint Louis,40,40,27,1,0,Austin McBroom missed Three Point Jumper.
+VCU,Saint Louis,40,40,27,1,0,JeQuan Lewis Defensive Rebound.
+VCU,Saint Louis,40,40,27,13,0,Foul on Reggie Agbeko.
+VCU,Saint Louis,40,40,27,22,0,Foul on Achraf Yacoubou.
+VCU,Saint Louis,40,40,27,22,0,Treveon Graham missed Free Throw.
+VCU,Saint Louis,40,40,27,22,0,VCU Deadball Team Rebound.
+VCU,Saint Louis,40,40,27,22,0,Treveon Graham missed Free Throw.
+VCU,Saint Louis,40,40,27,22,0,Milik Yarbrough Defensive Rebound.
+VCU,Saint Louis,40,40,27,58,0,Saint Louis  Turnover.
+VCU,Saint Louis,40,40,28,10,0,Jordan Burgess missed Jumper.
+VCU,Saint Louis,40,40,28,10,0,Achraf Yacoubou Defensive Rebound.
+VCU,Saint Louis,40,40,28,24,0,Achraf Yacoubou missed Jumper.
+VCU,Saint Louis,40,40,28,24,0,Achraf Yacoubou Offensive Rebound.
+VCU,Saint Louis,40,40,28,44,0,Foul on Briante Weber.
+VCU,Saint Louis,40,40,28,56,0,Foul on Melvin Johnson.
+VCU,Saint Louis,40,41,28,56,1,Marcus Bartley made Free Throw.
+VCU,Saint Louis,40,42,28,56,1,Marcus Bartley made Free Throw.
+VCU,Saint Louis,40,43,28,56,1,Marcus Bartley made Free Throw.
+VCU,Saint Louis,40,43,29,11,0,Foul on Austin McBroom.
+VCU,Saint Louis,40,43,29,15,0,Foul on Marcus Bartley.
+VCU,Saint Louis,41,43,29,15,1,Treveon Graham made Free Throw.
+VCU,Saint Louis,41,43,29,15,0,Treveon Graham missed Free Throw.
+VCU,Saint Louis,41,43,29,15,0,Milik Yarbrough Defensive Rebound.
+VCU,Saint Louis,41,43,29,22,0,John Manning Turnover.
+VCU,Saint Louis,41,43,29,22,0,Briante Weber Steal.
+VCU,Saint Louis,43,43,29,49,1,Briante Weber made Layup. Assisted by Melvin Johnson.
+VCU,Saint Louis,43,43,30,1,0,Achraf Yacoubou Turnover.
+VCU,Saint Louis,43,43,30,1,0,Melvin Johnson Steal.
+VCU,Saint Louis,43,43,30,4,0,Treveon Graham missed Three Point Jumper.
+VCU,Saint Louis,43,43,30,4,0,Achraf Yacoubou Defensive Rebound.
+VCU,Saint Louis,43,43,30,15,0,Foul on Terry Larrier.
+VCU,Saint Louis,43,43,30,39,0,Achraf Yacoubou Turnover.
+VCU,Saint Louis,43,43,30,51,0,Foul on John Manning.
+VCU,Saint Louis,44,43,30,51,1,Mo Alie-Cox made Free Throw.
+VCU,Saint Louis,45,43,30,51,1,Mo Alie-Cox made Free Throw.
+VCU,Saint Louis,45,43,31,6,0,Foul on Mo Alie-Cox.
+VCU,Saint Louis,45,43,31,6,0,Austin Gillmann missed Free Throw.
+VCU,Saint Louis,45,43,31,6,0,Briante Weber Defensive Rebound.
+VCU,Saint Louis,47,43,31,24,1,Treveon Graham made Jumper.
+VCU,Saint Louis,47,45,32,2,1,Milik Yarbrough made Jumper. Assisted by Marcus Bartley.
+VCU,Saint Louis,47,45,32,2,0,Foul on Jarred Guest.
+VCU,Saint Louis,47,45,32,2,0,Official TV Timeout
+VCU,Saint Louis,47,46,32,2,1,Milik Yarbrough made Free Throw.
+VCU,Saint Louis,47,46,32,20,0,Foul on Austin Gillmann.
+VCU,Saint Louis,48,46,32,20,1,Briante Weber made Free Throw.
+VCU,Saint Louis,48,46,32,20,0,Briante Weber missed Free Throw.
+VCU,Saint Louis,48,46,32,20,0,Davell Roby Defensive Rebound.
+VCU,Saint Louis,48,46,32,47,0,Saint Louis  Timeout
+VCU,Saint Louis,48,46,32,52,0,Marcus Bartley Turnover.
+VCU,Saint Louis,48,46,32,52,0,JeQuan Lewis Steal.
+VCU,Saint Louis,50,46,32,57,1,JeQuan Lewis made Layup.
+VCU,Saint Louis,50,48,33,16,1,Davell Roby made Jumper. Assisted by Marcus Bartley.
+VCU,Saint Louis,50,48,33,47,0,Briante Weber missed Jumper.
+VCU,Saint Louis,50,48,33,47,0,Reggie Agbeko Defensive Rebound.
+VCU,Saint Louis,50,48,34,0,0,Foul on Melvin Johnson.
+VCU,Saint Louis,50,48,34,0,0,Reggie Agbeko missed Free Throw.
+VCU,Saint Louis,50,48,34,0,0,Mo Alie-Cox Defensive Rebound.
+VCU,Saint Louis,50,48,34,19,0,Foul on John Manning.
+VCU,Saint Louis,51,48,34,19,1,Treveon Graham made Free Throw.
+VCU,Saint Louis,52,48,34,19,1,Treveon Graham made Free Throw.
+VCU,Saint Louis,52,48,34,26,0,Davell Roby missed Jumper.
+VCU,Saint Louis,52,48,34,27,0,Mo Alie-Cox Block.
+VCU,Saint Louis,52,48,34,28,0,Achraf Yacoubou Offensive Rebound.
+VCU,Saint Louis,52,48,34,35,0,Foul on Briante Weber.
+VCU,Saint Louis,52,49,34,35,1,Austin McBroom made Free Throw.
+VCU,Saint Louis,52,50,34,35,1,Austin McBroom made Free Throw.
+VCU,Saint Louis,52,50,34,42,0,Treveon Graham Turnover.
+VCU,Saint Louis,52,50,34,57,0,Achraf Yacoubou missed Layup.
+VCU,Saint Louis,52,50,34,57,0,Mo Alie-Cox Block.
+VCU,Saint Louis,52,50,34,57,0,Terry Larrier Defensive Rebound.
+VCU,Saint Louis,52,50,35,0,0,Foul on Achraf Yacoubou.
+VCU,Saint Louis,53,50,35,0,1,Terry Larrier made Free Throw.
+VCU,Saint Louis,54,50,35,0,1,Terry Larrier made Free Throw.
+VCU,Saint Louis,54,50,35,11,0,Milik Yarbrough missed Layup.
+VCU,Saint Louis,54,50,35,11,0,Mo Alie-Cox Defensive Rebound.
+VCU,Saint Louis,56,50,35,32,1,Mo Alie-Cox made Layup. Assisted by Melvin Johnson.
+VCU,Saint Louis,56,50,35,52,0,Davell Roby missed Jumper.
+VCU,Saint Louis,56,50,35,52,0,Milik Yarbrough Offensive Rebound.
+VCU,Saint Louis,56,52,35,55,1,Milik Yarbrough made Dunk.
+VCU,Saint Louis,56,52,36,0,0,Terry Larrier missed Three Point Jumper.
+VCU,Saint Louis,56,52,36,0,0,Austin McBroom Defensive Rebound.
+VCU,Saint Louis,56,52,36,32,0,Foul on JeQuan Lewis.
+VCU,Saint Louis,56,52,36,32,0,Official TV Timeout
+VCU,Saint Louis,56,53,36,32,1,Achraf Yacoubou made Free Throw.
+VCU,Saint Louis,56,54,36,32,1,Achraf Yacoubou made Free Throw.
+VCU,Saint Louis,56,54,36,43,0,Foul on Davell Roby.
+VCU,Saint Louis,57,54,36,43,1,Briante Weber made Free Throw.
+VCU,Saint Louis,58,54,36,43,1,Briante Weber made Free Throw.
+VCU,Saint Louis,58,54,37,5,0,Foul on JeQuan Lewis.
+VCU,Saint Louis,58,55,37,5,1,Milik Yarbrough made Free Throw.
+VCU,Saint Louis,58,56,37,5,1,Milik Yarbrough made Free Throw.
+VCU,Saint Louis,58,56,37,17,0,Treveon Graham missed Three Point Jumper.
+VCU,Saint Louis,58,56,37,17,0,Melvin Johnson Offensive Rebound.
+VCU,Saint Louis,58,56,37,38,0,Mo Alie-Cox Turnover.
+VCU,Saint Louis,58,56,37,52,0,Foul on JeQuan Lewis.
+VCU,Saint Louis,58,56,37,52,0,Austin McBroom missed Free Throw.
+VCU,Saint Louis,58,56,37,52,0,Saint Louis Deadball Team Rebound.
+VCU,Saint Louis,58,57,37,52,1,Austin McBroom made Free Throw.
+VCU,Saint Louis,58,57,38,8,0,Foul on Achraf Yacoubou.
+VCU,Saint Louis,58,57,38,8,0,Treveon Graham missed Free Throw.
+VCU,Saint Louis,58,57,38,8,0,VCU Deadball Team Rebound.
+VCU,Saint Louis,58,57,38,8,0,Treveon Graham missed Free Throw.
+VCU,Saint Louis,58,57,38,8,0,Austin Gillmann Defensive Rebound.
+VCU,Saint Louis,58,57,38,23,0,Foul on Jordan Burgess.
+VCU,Saint Louis,58,57,38,23,0,Achraf Yacoubou missed Free Throw.
+VCU,Saint Louis,58,57,38,23,0,Saint Louis Deadball Team Rebound.
+VCU,Saint Louis,58,58,38,23,1,Achraf Yacoubou made Free Throw.
+VCU,Saint Louis,58,58,38,50,0,Jordan Burgess missed Three Point Jumper.
+VCU,Saint Louis,58,58,38,50,0,Achraf Yacoubou Defensive Rebound.
+VCU,Saint Louis,58,60,39,18,1,Austin McBroom made Jumper.
+VCU,Saint Louis,58,60,39,21,0,VCU  Timeout
+VCU,Saint Louis,61,60,39,37,1,Jordan Burgess made Three Point Jumper. Assisted by Melvin Johnson.
+VCU,Saint Louis,61,60,39,41,0,VCU  Timeout
+VCU,Saint Louis,61,60,39,47,0,Austin McBroom missed Jumper.
+VCU,Saint Louis,61,60,39,47,0,Achraf Yacoubou Offensive Rebound.
+VCU,Saint Louis,61,60,39,53,0,Foul on Jordan Burgess.
+VCU,Saint Louis,61,60,39,53,0,Achraf Yacoubou missed Free Throw.
+VCU,Saint Louis,61,60,39,53,0,Saint Louis Deadball Team Rebound.
+VCU,Saint Louis,61,60,39,53,0,VCU  Timeout
+VCU,Saint Louis,61,61,39,53,1,Achraf Yacoubou made Free Throw.
+VCU,Saint Louis,63,61,39,57,1,Treveon Graham made Jumper.
+VCU,Saint Louis,63,61,39,59,0,Saint Louis  Timeout
+VCU,Saint Louis,63,61,39,59,0,Saint Louis  Timeout
+VCU,Saint Louis,63,61,40,0,0,End of Game

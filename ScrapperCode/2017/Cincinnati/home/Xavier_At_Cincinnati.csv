@@ -1,0 +1,374 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Xavier,Cincinnati,0,0,0,0,0,Jump Ball won by Cincinnati
+Xavier,Cincinnati,0,0,0,12,0,Jacob Evans missed Three Point Jumper.
+Xavier,Cincinnati,0,0,0,12,0,Kyle Washington Offensive Rebound.
+Xavier,Cincinnati,0,2,0,33,1,Gary Clark made Jumper.
+Xavier,Cincinnati,0,2,0,46,0,RaShid Gaston missed Jumper.
+Xavier,Cincinnati,0,2,0,46,0,Kyle Washington Defensive Rebound.
+Xavier,Cincinnati,0,4,0,57,1,Gary Clark made Layup.
+Xavier,Cincinnati,0,4,1,14,0,RaShid Gaston missed Jumper.
+Xavier,Cincinnati,0,4,1,14,0,Kevin Johnson Defensive Rebound.
+Xavier,Cincinnati,0,4,1,28,0,Kyle Washington Turnover.
+Xavier,Cincinnati,0,4,1,28,0,Trevon Bluiett Steal.
+Xavier,Cincinnati,0,4,1,29,0,Jump Ball won by Xavier
+Xavier,Cincinnati,3,4,1,52,1,Kaiser Gates made Three Point Jumper. Assisted by J.P. Macura.
+Xavier,Cincinnati,3,7,2,23,1,Jacob Evans made Three Point Jumper. Assisted by Gary Clark.
+Xavier,Cincinnati,3,7,2,35,0,Kaiser Gates missed Three Point Jumper.
+Xavier,Cincinnati,3,7,2,35,0,Jacob Evans Defensive Rebound.
+Xavier,Cincinnati,3,7,2,57,0,Kevin Johnson missed Three Point Jumper.
+Xavier,Cincinnati,3,7,2,57,0,Kaiser Gates Defensive Rebound.
+Xavier,Cincinnati,6,7,3,6,1,J.P. Macura made Three Point Jumper. Assisted by Edmond Sumner.
+Xavier,Cincinnati,6,7,3,24,0,Kyle Washington missed Jumper.
+Xavier,Cincinnati,6,7,3,24,0,RaShid Gaston Block.
+Xavier,Cincinnati,6,7,3,24,0,Cincinnati Offensive Rebound.
+Xavier,Cincinnati,6,9,3,31,1,Troy Caupain made Jumper. Assisted by Kyle Washington.
+Xavier,Cincinnati,6,9,3,54,0,Foul on Troy Caupain.
+Xavier,Cincinnati,7,9,3,54,1,Edmond Sumner made Free Throw.
+Xavier,Cincinnati,8,9,3,54,1,Edmond Sumner made Free Throw.
+Xavier,Cincinnati,8,9,4,17,0,Kyle Washington missed Jumper.
+Xavier,Cincinnati,8,9,4,17,0,Edmond Sumner Defensive Rebound.
+Xavier,Cincinnati,8,9,4,24,0,Edmond Sumner missed Layup.
+Xavier,Cincinnati,8,9,4,24,0,Jacob Evans Block.
+Xavier,Cincinnati,8,9,4,24,0,Kevin Johnson Defensive Rebound.
+Xavier,Cincinnati,8,9,4,24,0,Foul on Edmond Sumner.
+Xavier,Cincinnati,8,9,4,24,0,Official TV Timeout
+Xavier,Cincinnati,8,9,4,42,0,Gary Clark missed Three Point Jumper.
+Xavier,Cincinnati,8,9,4,42,0,Kevin Johnson Offensive Rebound.
+Xavier,Cincinnati,8,11,4,47,1,Kevin Johnson made Layup.
+Xavier,Cincinnati,8,11,5,10,0,Foul on RaShid Gaston.
+Xavier,Cincinnati,8,11,5,10,0,RaShid Gaston Turnover.
+Xavier,Cincinnati,8,13,5,29,1,Gary Clark made Jumper. Assisted by Troy Caupain.
+Xavier,Cincinnati,10,13,5,47,1,J.P. Macura made Layup.
+Xavier,Cincinnati,10,13,6,13,0,Kevin Johnson missed Jumper.
+Xavier,Cincinnati,10,13,6,13,0,Sean O'Mara Defensive Rebound.
+Xavier,Cincinnati,12,13,6,28,1,Trevon Bluiett made Jumper. Assisted by Edmond Sumner.
+Xavier,Cincinnati,12,13,6,49,0,Kyle Washington missed Dunk.
+Xavier,Cincinnati,12,13,6,49,0,Malcolm Bernard Block.
+Xavier,Cincinnati,12,13,6,49,0,J.P. Macura Defensive Rebound.
+Xavier,Cincinnati,12,13,7,7,0,J.P. Macura missed Three Point Jumper.
+Xavier,Cincinnati,12,13,7,7,0,Kevin Johnson Defensive Rebound.
+Xavier,Cincinnati,12,13,7,10,0,Foul on Edmond Sumner.
+Xavier,Cincinnati,12,13,7,10,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,12,13,7,10,0,Cincinnati Deadball Team Rebound.
+Xavier,Cincinnati,12,13,7,10,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,12,13,7,10,0,J.P. Macura Defensive Rebound.
+Xavier,Cincinnati,15,13,7,28,1,J.P. Macura made Three Point Jumper. Assisted by Quentin Goodin.
+Xavier,Cincinnati,15,13,7,54,0,Jacob Evans missed Three Point Jumper.
+Xavier,Cincinnati,15,13,7,54,0,Kyle Washington Offensive Rebound.
+Xavier,Cincinnati,15,15,7,54,1,Kyle Washington made Two Point Tip Shot.
+Xavier,Cincinnati,18,15,8,19,1,Trevon Bluiett made Three Point Jumper. Assisted by Quentin Goodin.
+Xavier,Cincinnati,18,15,8,28,0,Foul on Quentin Goodin.
+Xavier,Cincinnati,18,15,8,28,0,Official TV Timeout
+Xavier,Cincinnati,18,16,8,28,1,Jarron Cumberland made Free Throw.
+Xavier,Cincinnati,18,16,8,28,0,Jarron Cumberland missed Free Throw.
+Xavier,Cincinnati,18,16,8,28,0,Trevon Bluiett Defensive Rebound.
+Xavier,Cincinnati,21,16,8,50,1,Trevon Bluiett made Three Point Jumper. Assisted by Quentin Goodin.
+Xavier,Cincinnati,21,16,9,23,0,Jarron Cumberland missed Layup.
+Xavier,Cincinnati,21,16,9,23,0,Trevon Bluiett Defensive Rebound.
+Xavier,Cincinnati,21,16,9,29,0,Foul on Justin Jenifer.
+Xavier,Cincinnati,22,16,9,29,1,Trevon Bluiett made Free Throw.
+Xavier,Cincinnati,23,16,9,29,1,Trevon Bluiett made Free Throw.
+Xavier,Cincinnati,23,16,9,44,0,Kyle Washington missed Jumper.
+Xavier,Cincinnati,23,16,9,44,0,Jarron Cumberland Offensive Rebound.
+Xavier,Cincinnati,23,19,9,50,1,Kevin Johnson made Three Point Jumper. Assisted by Troy Caupain.
+Xavier,Cincinnati,23,19,9,52,0,Foul on Tyrique Jones.
+Xavier,Cincinnati,23,19,9,52,0,Tyrique Jones Turnover.
+Xavier,Cincinnati,23,19,10,10,0,Foul on Tyrique Jones.
+Xavier,Cincinnati,23,19,10,14,0,Foul on Kaiser Gates.
+Xavier,Cincinnati,23,19,10,14,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,23,19,10,14,0,Tyrique Jones Defensive Rebound.
+Xavier,Cincinnati,25,19,10,28,1,Tyrique Jones made Layup. Assisted by Quentin Goodin.
+Xavier,Cincinnati,25,19,10,28,0,Foul on Kyle Washington.
+Xavier,Cincinnati,25,19,10,28,0,Tyrique Jones missed Free Throw.
+Xavier,Cincinnati,25,19,10,28,0,Gary Clark Defensive Rebound.
+Xavier,Cincinnati,25,19,10,34,0,Foul on Quentin Goodin.
+Xavier,Cincinnati,25,20,10,34,1,Jarron Cumberland made Free Throw.
+Xavier,Cincinnati,25,20,10,34,0,Jarron Cumberland missed Free Throw.
+Xavier,Cincinnati,25,20,10,34,0,Tyrique Jones Defensive Rebound.
+Xavier,Cincinnati,25,20,10,53,0,Quentin Goodin Turnover.
+Xavier,Cincinnati,25,20,10,53,0,Kevin Johnson Steal.
+Xavier,Cincinnati,25,22,11,14,1,Gary Clark made Jumper.
+Xavier,Cincinnati,28,22,11,40,1,Trevon Bluiett made Three Point Jumper. Assisted by Quentin Goodin.
+Xavier,Cincinnati,28,22,12,0,0,Foul on Tyrique Jones.
+Xavier,Cincinnati,28,23,12,0,1,Kyle Washington made Free Throw.
+Xavier,Cincinnati,28,23,12,0,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,28,23,12,0,0,RaShid Gaston Defensive Rebound.
+Xavier,Cincinnati,28,23,12,20,0,Foul on Gary Clark.
+Xavier,Cincinnati,28,23,12,20,0,Official TV Timeout
+Xavier,Cincinnati,28,23,12,27,0,Foul on Jarron Cumberland.
+Xavier,Cincinnati,28,23,12,29,0,Edmond Sumner Turnover.
+Xavier,Cincinnati,28,23,12,29,0,Gary Clark Steal.
+Xavier,Cincinnati,28,25,12,41,1,Troy Caupain made Jumper.
+Xavier,Cincinnati,28,25,13,14,0,Kaiser Gates missed Three Point Jumper.
+Xavier,Cincinnati,28,25,13,14,0,RaShid Gaston Offensive Rebound.
+Xavier,Cincinnati,28,25,13,18,0,J.P. Macura Turnover.
+Xavier,Cincinnati,28,25,13,30,0,Jarron Cumberland missed Three Point Jumper.
+Xavier,Cincinnati,28,25,13,30,0,Troy Caupain Offensive Rebound.
+Xavier,Cincinnati,28,25,13,41,0,Gary Clark missed Jumper.
+Xavier,Cincinnati,28,25,13,41,0,Gary Clark Offensive Rebound.
+Xavier,Cincinnati,28,25,13,45,0,Gary Clark Turnover.
+Xavier,Cincinnati,28,25,14,10,0,J.P. Macura missed Three Point Jumper.
+Xavier,Cincinnati,28,25,14,10,0,Gary Clark Defensive Rebound.
+Xavier,Cincinnati,28,27,14,19,1,Jacob Evans made Jumper.
+Xavier,Cincinnati,28,27,14,19,0,Foul on J.P. Macura.
+Xavier,Cincinnati,28,27,14,19,0,Foul on Jacob Evans.
+Xavier,Cincinnati,28,27,14,19,0,Technical Foul on Jacob Evans.
+Xavier,Cincinnati,29,27,14,19,1,Trevon Bluiett made Free Throw.
+Xavier,Cincinnati,30,27,14,19,1,Trevon Bluiett made Free Throw.
+Xavier,Cincinnati,30,28,14,19,1,Jacob Evans made Free Throw.
+Xavier,Cincinnati,30,28,14,37,0,Malcolm Bernard missed Three Point Jumper.
+Xavier,Cincinnati,30,28,14,37,0,RaShid Gaston Offensive Rebound.
+Xavier,Cincinnati,30,28,14,37,0,RaShid Gaston missed Two Point Tip Shot.
+Xavier,Cincinnati,30,28,14,37,0,Nysier Brooks Defensive Rebound.
+Xavier,Cincinnati,30,28,14,58,0,Nysier Brooks missed Jumper.
+Xavier,Cincinnati,30,28,14,58,0,Malcolm Bernard Defensive Rebound.
+Xavier,Cincinnati,33,28,15,14,1,Trevon Bluiett made Three Point Jumper.
+Xavier,Cincinnati,33,28,15,41,0,Foul on Trevon Bluiett.
+Xavier,Cincinnati,33,28,15,41,0,Gary Clark missed Free Throw.
+Xavier,Cincinnati,33,28,15,41,0,Cincinnati Deadball Team Rebound.
+Xavier,Cincinnati,33,29,15,41,1,Gary Clark made Free Throw.
+Xavier,Cincinnati,36,29,15,59,1,Trevon Bluiett made Three Point Jumper. Assisted by Edmond Sumner.
+Xavier,Cincinnati,36,29,16,27,0,Official TV Timeout
+Xavier,Cincinnati,36,32,16,31,1,Jacob Evans made Three Point Jumper. Assisted by Gary Clark.
+Xavier,Cincinnati,36,32,16,52,0,Trevon Bluiett Turnover.
+Xavier,Cincinnati,36,32,17,15,0,Kyle Washington Turnover.
+Xavier,Cincinnati,36,32,17,37,0,Malcolm Bernard missed Jumper.
+Xavier,Cincinnati,36,32,17,37,0,Nysier Brooks Block.
+Xavier,Cincinnati,36,32,17,37,0,Troy Caupain Defensive Rebound.
+Xavier,Cincinnati,36,32,17,45,0,Jacob Evans missed Three Point Jumper.
+Xavier,Cincinnati,36,32,17,45,0,J.P. Macura Defensive Rebound.
+Xavier,Cincinnati,38,32,17,53,1,Trevon Bluiett made Dunk. Assisted by J.P. Macura.
+Xavier,Cincinnati,38,32,17,59,0,Foul on J.P. Macura.
+Xavier,Cincinnati,38,32,17,59,0,Troy Caupain missed Free Throw.
+Xavier,Cincinnati,38,32,17,59,0,Cincinnati Deadball Team Rebound.
+Xavier,Cincinnati,38,33,17,59,1,Troy Caupain made Free Throw.
+Xavier,Cincinnati,38,33,18,23,0,Xavier  Timeout
+Xavier,Cincinnati,38,33,18,26,0,Trevon Bluiett Turnover.
+Xavier,Cincinnati,38,35,18,42,1,Gary Clark made Jumper. Assisted by Jacob Evans.
+Xavier,Cincinnati,38,35,18,58,0,Quentin Goodin missed Jumper.
+Xavier,Cincinnati,38,35,18,58,0,Kyle Washington Block.
+Xavier,Cincinnati,38,35,18,58,0,Xavier Offensive Rebound.
+Xavier,Cincinnati,38,35,19,17,0,Malcolm Bernard missed Jumper.
+Xavier,Cincinnati,38,35,19,17,0,Jacob Evans Defensive Rebound.
+Xavier,Cincinnati,38,35,19,17,0,Jacob Evans Turnover.
+Xavier,Cincinnati,41,35,19,26,1,Quentin Goodin made Three Point Jumper. Assisted by Malcolm Bernard.
+Xavier,Cincinnati,41,35,19,32,0,Cincinnati  Timeout
+Xavier,Cincinnati,41,35,19,54,0,Foul on Sean O'Mara.
+Xavier,Cincinnati,41,35,19,54,0,Troy Caupain missed Free Throw.
+Xavier,Cincinnati,41,35,19,54,0,Cincinnati Deadball Team Rebound.
+Xavier,Cincinnati,41,36,19,54,1,Troy Caupain made Free Throw.
+Xavier,Cincinnati,44,36,19,59,1,Trevon Bluiett made Three Point Jumper. Assisted by Edmond Sumner.
+Xavier,Cincinnati,44,36,20,0,0,End of 1st half
+Xavier,Cincinnati,44,36,20,0,0,Jump Ball won by Cincinnati
+Xavier,Cincinnati,44,38,20,14,1,Kyle Washington made Jumper. Assisted by Kevin Johnson.
+Xavier,Cincinnati,44,38,20,25,0,Foul on Gary Clark.
+Xavier,Cincinnati,47,38,20,32,1,Trevon Bluiett made Three Point Jumper. Assisted by Edmond Sumner.
+Xavier,Cincinnati,47,38,20,55,0,Kevin Johnson missed Three Point Jumper.
+Xavier,Cincinnati,47,38,20,55,0,Kyle Washington Offensive Rebound.
+Xavier,Cincinnati,47,38,21,5,0,Kevin Johnson missed Jumper.
+Xavier,Cincinnati,47,38,21,5,0,J.P. Macura Defensive Rebound.
+Xavier,Cincinnati,47,38,21,15,0,Trevon Bluiett Turnover.
+Xavier,Cincinnati,47,38,21,15,0,Gary Clark Steal.
+Xavier,Cincinnati,47,41,21,28,1,Troy Caupain made Three Point Jumper. Assisted by Jacob Evans.
+Xavier,Cincinnati,47,41,21,56,0,J.P. Macura Turnover.
+Xavier,Cincinnati,47,41,21,56,0,Kevin Johnson Steal.
+Xavier,Cincinnati,47,41,22,0,0,Kevin Johnson Turnover.
+Xavier,Cincinnati,47,41,22,15,0,RaShid Gaston missed Layup.
+Xavier,Cincinnati,47,41,22,15,0,Kyle Washington Defensive Rebound.
+Xavier,Cincinnati,47,41,22,22,0,Troy Caupain Turnover.
+Xavier,Cincinnati,47,41,22,22,0,J.P. Macura Steal.
+Xavier,Cincinnati,49,41,22,33,1,Edmond Sumner made Dunk. Assisted by Trevon Bluiett.
+Xavier,Cincinnati,49,43,22,58,1,Kyle Washington made Jumper.
+Xavier,Cincinnati,49,43,23,13,0,Edmond Sumner missed Three Point Jumper.
+Xavier,Cincinnati,49,43,23,13,0,RaShid Gaston Offensive Rebound.
+Xavier,Cincinnati,49,43,23,13,0,RaShid Gaston missed Two Point Tip Shot.
+Xavier,Cincinnati,49,43,23,13,0,Kyle Washington Defensive Rebound.
+Xavier,Cincinnati,49,43,23,28,0,Foul on Trevon Bluiett.
+Xavier,Cincinnati,49,43,23,37,0,Jacob Evans missed Jumper.
+Xavier,Cincinnati,49,43,23,37,0,Jacob Evans Offensive Rebound.
+Xavier,Cincinnati,49,43,23,37,0,Jacob Evans missed Two Point Tip Shot.
+Xavier,Cincinnati,49,43,23,37,0,Nysier Brooks Offensive Rebound.
+Xavier,Cincinnati,49,45,23,37,1,Nysier Brooks made Two Point Tip Shot.
+Xavier,Cincinnati,52,45,24,0,1,Trevon Bluiett made Three Point Jumper. Assisted by Edmond Sumner.
+Xavier,Cincinnati,52,45,24,27,0,Troy Caupain missed Three Point Jumper.
+Xavier,Cincinnati,52,45,24,27,0,Trevon Bluiett Defensive Rebound.
+Xavier,Cincinnati,52,45,24,54,0,Foul on Edmond Sumner.
+Xavier,Cincinnati,52,45,24,54,0,Edmond Sumner Turnover.
+Xavier,Cincinnati,52,45,24,54,0,Official TV Timeout
+Xavier,Cincinnati,52,45,25,26,0,Troy Caupain missed Three Point Jumper.
+Xavier,Cincinnati,52,45,25,26,0,Jacob Evans Offensive Rebound.
+Xavier,Cincinnati,52,45,25,27,0,Foul on Kaiser Gates.
+Xavier,Cincinnati,52,45,25,27,0,Jacob Evans missed Free Throw.
+Xavier,Cincinnati,52,45,25,27,0,Cincinnati Deadball Team Rebound.
+Xavier,Cincinnati,52,46,25,27,1,Jacob Evans made Free Throw.
+Xavier,Cincinnati,52,46,25,54,0,Trevon Bluiett missed Three Point Jumper.
+Xavier,Cincinnati,52,46,25,54,0,Gary Clark Defensive Rebound.
+Xavier,Cincinnati,52,46,26,9,0,Gary Clark Turnover.
+Xavier,Cincinnati,52,46,26,9,0,J.P. Macura Steal.
+Xavier,Cincinnati,52,46,26,13,0,Quentin Goodin missed Layup.
+Xavier,Cincinnati,52,46,26,13,0,J.P. Macura Offensive Rebound.
+Xavier,Cincinnati,52,46,26,13,0,Foul on Kyle Washington.
+Xavier,Cincinnati,52,48,26,20,1,Jacob Evans made Dunk. Assisted by Troy Caupain.
+Xavier,Cincinnati,52,48,26,20,0,Sean O'Mara Turnover.
+Xavier,Cincinnati,52,48,26,20,0,Troy Caupain Steal.
+Xavier,Cincinnati,52,48,26,46,0,Sean O'Mara missed Layup.
+Xavier,Cincinnati,52,48,26,46,0,Kyle Washington Block.
+Xavier,Cincinnati,52,48,26,46,0,Sean O'Mara Offensive Rebound.
+Xavier,Cincinnati,52,48,26,46,0,Sean O'Mara missed Layup.
+Xavier,Cincinnati,52,48,26,46,0,Gary Clark Defensive Rebound.
+Xavier,Cincinnati,52,48,26,46,0,Gary Clark missed Jumper.
+Xavier,Cincinnati,52,48,26,46,0,Sean O'Mara Block.
+Xavier,Cincinnati,52,48,26,46,0,Sean O'Mara Defensive Rebound.
+Xavier,Cincinnati,52,48,27,6,0,Jump Ball won by Xavier
+Xavier,Cincinnati,52,48,27,21,0,Edmond Sumner missed Layup.
+Xavier,Cincinnati,52,48,27,21,0,Jarron Cumberland Defensive Rebound.
+Xavier,Cincinnati,52,51,27,32,1,Jarron Cumberland made Three Point Jumper. Assisted by Troy Caupain.
+Xavier,Cincinnati,52,51,27,57,0,Foul on Jarron Cumberland.
+Xavier,Cincinnati,52,51,27,57,0,Foul on Nysier Brooks.
+Xavier,Cincinnati,53,51,27,57,1,Edmond Sumner made Free Throw.
+Xavier,Cincinnati,54,51,27,57,1,Edmond Sumner made Free Throw.
+Xavier,Cincinnati,54,51,28,2,0,Official TV Timeout
+Xavier,Cincinnati,54,51,28,30,0,Tre Scott missed Jumper.
+Xavier,Cincinnati,54,51,28,30,0,Jacob Evans Offensive Rebound.
+Xavier,Cincinnati,54,51,28,36,0,Jacob Evans missed Jumper.
+Xavier,Cincinnati,54,51,28,36,0,Jacob Evans Offensive Rebound.
+Xavier,Cincinnati,54,53,28,36,1,Jacob Evans made Two Point Tip Shot.
+Xavier,Cincinnati,54,53,29,2,0,J.P. Macura missed Jumper.
+Xavier,Cincinnati,54,53,29,2,0,Jarron Cumberland Defensive Rebound.
+Xavier,Cincinnati,54,55,29,5,1,Jarron Cumberland made Layup.
+Xavier,Cincinnati,54,55,29,5,0,Foul on Edmond Sumner.
+Xavier,Cincinnati,54,55,29,5,0,Jarron Cumberland missed Free Throw.
+Xavier,Cincinnati,54,55,29,5,0,Xavier Deadball Team Rebound.
+Xavier,Cincinnati,54,55,29,5,0,Foul on Tre Scott.
+Xavier,Cincinnati,54,55,29,13,0,Quentin Goodin missed Jumper.
+Xavier,Cincinnati,54,55,29,13,0,Jarron Cumberland Defensive Rebound.
+Xavier,Cincinnati,54,55,29,21,0,Tre Scott missed Jumper.
+Xavier,Cincinnati,54,55,29,21,0,Tre Scott Offensive Rebound.
+Xavier,Cincinnati,54,55,29,21,0,Foul on Malcolm Bernard.
+Xavier,Cincinnati,54,55,29,30,0,Foul on Malcolm Bernard.
+Xavier,Cincinnati,54,55,29,34,0,Foul on Tyrique Jones.
+Xavier,Cincinnati,54,56,29,34,1,Kyle Washington made Free Throw.
+Xavier,Cincinnati,54,56,29,34,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,54,56,29,34,0,Gary Clark Offensive Rebound.
+Xavier,Cincinnati,54,58,29,35,1,Gary Clark made Layup.
+Xavier,Cincinnati,54,58,29,55,0,Trevon Bluiett Turnover.
+Xavier,Cincinnati,54,58,30,7,0,Foul on Kaiser Gates.
+Xavier,Cincinnati,54,59,30,7,1,Troy Caupain made Free Throw.
+Xavier,Cincinnati,54,60,30,7,1,Troy Caupain made Free Throw.
+Xavier,Cincinnati,54,60,30,26,0,Foul on Kevin Johnson.
+Xavier,Cincinnati,54,60,30,26,0,Trevon Bluiett missed Free Throw.
+Xavier,Cincinnati,54,60,30,26,0,Xavier Deadball Team Rebound.
+Xavier,Cincinnati,55,60,30,26,1,Trevon Bluiett made Free Throw.
+Xavier,Cincinnati,56,60,30,26,1,Trevon Bluiett made Free Throw.
+Xavier,Cincinnati,56,62,30,44,1,Jacob Evans made Layup. Assisted by Gary Clark.
+Xavier,Cincinnati,56,62,30,54,0,Foul on Gary Clark.
+Xavier,Cincinnati,57,62,30,54,1,Quentin Goodin made Free Throw.
+Xavier,Cincinnati,58,62,30,54,1,Quentin Goodin made Free Throw.
+Xavier,Cincinnati,58,62,31,6,0,Foul on RaShid Gaston.
+Xavier,Cincinnati,58,62,31,6,0,Jarron Cumberland missed Free Throw.
+Xavier,Cincinnati,58,62,31,6,0,Cincinnati Deadball Team Rebound.
+Xavier,Cincinnati,58,62,31,6,0,Jarron Cumberland missed Free Throw.
+Xavier,Cincinnati,58,62,31,6,0,Malcolm Bernard Defensive Rebound.
+Xavier,Cincinnati,61,62,31,12,1,Malcolm Bernard made Three Point Jumper. Assisted by Quentin Goodin.
+Xavier,Cincinnati,61,62,31,35,0,Jacob Evans missed Three Point Jumper.
+Xavier,Cincinnati,61,62,31,35,0,Gary Clark Offensive Rebound.
+Xavier,Cincinnati,61,65,31,42,1,Jarron Cumberland made Three Point Jumper. Assisted by Jacob Evans.
+Xavier,Cincinnati,63,65,32,4,1,Quentin Goodin made Jumper.
+Xavier,Cincinnati,63,65,32,23,0,Jacob Evans missed Three Point Jumper.
+Xavier,Cincinnati,63,65,32,23,0,Nysier Brooks Offensive Rebound.
+Xavier,Cincinnati,63,67,32,23,1,Nysier Brooks made Two Point Tip Shot.
+Xavier,Cincinnati,63,67,32,48,0,Foul on Nysier Brooks.
+Xavier,Cincinnati,63,67,32,48,0,Official TV Timeout
+Xavier,Cincinnati,63,67,32,48,0,RaShid Gaston missed Free Throw.
+Xavier,Cincinnati,63,67,32,48,0,Kyle Washington Defensive Rebound.
+Xavier,Cincinnati,63,69,33,13,1,Kyle Washington made Jumper. Assisted by Jarron Cumberland.
+Xavier,Cincinnati,63,69,33,13,0,Foul on RaShid Gaston.
+Xavier,Cincinnati,63,69,33,13,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,63,69,33,13,0,Trevon Bluiett Defensive Rebound.
+Xavier,Cincinnati,63,69,33,26,0,J.P. Macura missed Jumper.
+Xavier,Cincinnati,63,69,33,26,0,Gary Clark Defensive Rebound.
+Xavier,Cincinnati,63,69,33,35,0,Jarron Cumberland missed Three Point Jumper.
+Xavier,Cincinnati,63,69,33,35,0,Gary Clark Offensive Rebound.
+Xavier,Cincinnati,63,69,33,38,0,Jump Ball won by Cincinnati
+Xavier,Cincinnati,63,71,33,46,1,Jarron Cumberland made Jumper.
+Xavier,Cincinnati,63,71,33,46,0,Foul on J.P. Macura.
+Xavier,Cincinnati,63,72,33,46,1,Jarron Cumberland made Free Throw.
+Xavier,Cincinnati,63,72,34,10,0,Foul on Nysier Brooks.
+Xavier,Cincinnati,64,72,34,10,1,J.P. Macura made Free Throw.
+Xavier,Cincinnati,65,72,34,10,1,J.P. Macura made Free Throw.
+Xavier,Cincinnati,65,72,34,21,0,Jacob Evans missed Three Point Jumper.
+Xavier,Cincinnati,65,72,34,21,0,Tyrique Jones Defensive Rebound.
+Xavier,Cincinnati,65,72,34,35,0,Malcolm Bernard missed Layup.
+Xavier,Cincinnati,65,72,34,36,0,Kyle Washington Block.
+Xavier,Cincinnati,65,72,34,37,0,Tyrique Jones Offensive Rebound.
+Xavier,Cincinnati,68,72,34,38,1,J.P. Macura made Three Point Jumper. Assisted by Tyrique Jones.
+Xavier,Cincinnati,68,74,34,59,1,Jarron Cumberland made Layup.
+Xavier,Cincinnati,71,74,35,24,1,Trevon Bluiett made Three Point Jumper. Assisted by Edmond Sumner.
+Xavier,Cincinnati,71,74,35,27,0,Xavier  Timeout
+Xavier,Cincinnati,71,74,35,27,0,Official TV Timeout
+Xavier,Cincinnati,71,74,35,36,0,Jarron Cumberland missed Three Point Jumper.
+Xavier,Cincinnati,71,74,35,36,0,Cincinnati Deadball Team Rebound.
+Xavier,Cincinnati,71,74,35,38,0,Foul on Trevon Bluiett.
+Xavier,Cincinnati,71,75,35,38,1,Kyle Washington made Free Throw.
+Xavier,Cincinnati,71,76,35,38,1,Kyle Washington made Free Throw.
+Xavier,Cincinnati,71,76,35,51,0,Foul on Kyle Washington.
+Xavier,Cincinnati,72,76,35,51,1,Tyrique Jones made Free Throw.
+Xavier,Cincinnati,73,76,35,51,1,Tyrique Jones made Free Throw.
+Xavier,Cincinnati,73,76,36,15,0,Foul on Jarron Cumberland.
+Xavier,Cincinnati,73,76,36,15,0,Jarron Cumberland Turnover.
+Xavier,Cincinnati,73,76,36,15,0,Official TV Timeout
+Xavier,Cincinnati,75,76,36,26,1,Trevon Bluiett made Layup.
+Xavier,Cincinnati,75,76,36,44,0,Troy Caupain missed Three Point Jumper.
+Xavier,Cincinnati,75,76,36,44,0,Gary Clark Offensive Rebound.
+Xavier,Cincinnati,75,79,36,51,1,Jacob Evans made Three Point Jumper. Assisted by Troy Caupain.
+Xavier,Cincinnati,75,79,37,15,0,J.P. Macura missed Three Point Jumper.
+Xavier,Cincinnati,75,79,37,15,0,Jacob Evans Defensive Rebound.
+Xavier,Cincinnati,75,79,37,27,0,Cincinnati  Timeout
+Xavier,Cincinnati,75,79,37,38,0,Foul on Malcolm Bernard.
+Xavier,Cincinnati,75,80,37,38,1,Jacob Evans made Free Throw.
+Xavier,Cincinnati,75,81,37,38,1,Jacob Evans made Free Throw.
+Xavier,Cincinnati,75,81,37,57,0,Foul on Gary Clark.
+Xavier,Cincinnati,76,81,37,57,1,Tyrique Jones made Free Throw.
+Xavier,Cincinnati,77,81,37,57,1,Tyrique Jones made Free Throw.
+Xavier,Cincinnati,77,81,38,17,0,Foul on Malcolm Bernard.
+Xavier,Cincinnati,77,81,38,17,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,77,81,38,17,0,Cincinnati Deadball Team Rebound.
+Xavier,Cincinnati,77,81,38,17,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,77,81,38,17,0,Tyrique Jones Defensive Rebound.
+Xavier,Cincinnati,77,81,38,26,0,Edmond Sumner missed Jumper.
+Xavier,Cincinnati,77,81,38,26,0,Kyle Washington Block.
+Xavier,Cincinnati,77,81,38,26,0,Malcolm Bernard Offensive Rebound.
+Xavier,Cincinnati,77,81,38,41,0,Trevon Bluiett missed Jumper.
+Xavier,Cincinnati,77,81,38,41,0,Gary Clark Defensive Rebound.
+Xavier,Cincinnati,77,84,39,3,1,Troy Caupain made Three Point Jumper.
+Xavier,Cincinnati,77,84,39,18,0,Edmond Sumner missed Three Point Jumper.
+Xavier,Cincinnati,77,84,39,18,0,Kyle Washington Defensive Rebound.
+Xavier,Cincinnati,77,84,39,19,0,Foul on Tyrique Jones.
+Xavier,Cincinnati,77,84,39,19,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,77,84,39,19,0,Cincinnati Deadball Team Rebound.
+Xavier,Cincinnati,77,84,39,19,0,Kyle Washington missed Free Throw.
+Xavier,Cincinnati,77,84,39,19,0,J.P. Macura Defensive Rebound.
+Xavier,Cincinnati,77,84,39,25,0,J.P. Macura missed Layup.
+Xavier,Cincinnati,77,84,39,25,0,Jacob Evans Block.
+Xavier,Cincinnati,77,84,39,25,0,Xavier Offensive Rebound.
+Xavier,Cincinnati,77,84,39,28,0,Trevon Bluiett missed Three Point Jumper.
+Xavier,Cincinnati,77,84,39,28,0,Troy Caupain Defensive Rebound.
+Xavier,Cincinnati,77,84,39,34,0,Foul on Sean O'Mara.
+Xavier,Cincinnati,77,85,39,34,1,Troy Caupain made Free Throw.
+Xavier,Cincinnati,77,86,39,34,1,Troy Caupain made Free Throw.
+Xavier,Cincinnati,77,86,39,43,0,J.P. Macura missed Three Point Jumper.
+Xavier,Cincinnati,77,86,39,43,0,Xavier Offensive Rebound.
+Xavier,Cincinnati,77,86,39,47,0,Kaiser Gates missed Three Point Jumper.
+Xavier,Cincinnati,77,86,39,47,0,Kevin Johnson Block.
+Xavier,Cincinnati,77,86,39,47,0,Xavier Offensive Rebound.
+Xavier,Cincinnati,77,86,39,51,0,Edmond Sumner missed Three Point Jumper.
+Xavier,Cincinnati,77,86,39,51,0,Kaiser Gates Offensive Rebound.
+Xavier,Cincinnati,77,86,39,56,0,Kaiser Gates missed Jumper.
+Xavier,Cincinnati,77,86,39,56,0,Nysier Brooks Block.
+Xavier,Cincinnati,77,86,39,56,0,J.P. Macura Offensive Rebound.
+Xavier,Cincinnati,77,86,39,56,0,Jump Ball won by Xavier
+Xavier,Cincinnati,77,86,39,59,0,Foul on Nysier Brooks.
+Xavier,Cincinnati,77,86,39,59,0,Trevon Bluiett missed Free Throw.
+Xavier,Cincinnati,77,86,39,59,0,Xavier Deadball Team Rebound.
+Xavier,Cincinnati,78,86,39,59,1,Trevon Bluiett made Free Throw.
+Xavier,Cincinnati,78,86,40,0,0,End of Game

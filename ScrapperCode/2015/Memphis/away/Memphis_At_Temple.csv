@@ -1,0 +1,344 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Memphis,Temple,0,0,0,0,0,Jump Ball won by Memphis
+Memphis,Temple,2,0,0,8,1,Calvin Godfrey made Layup. Assisted by Markel Crawford.
+Memphis,Temple,2,3,0,30,1,Jesse Morgan made Three Point Jumper. Assisted by Quenton DeCosey.
+Memphis,Temple,2,3,0,39,0,Markel Crawford missed Jumper.
+Memphis,Temple,2,3,0,39,0,Quenton DeCosey Defensive Rebound.
+Memphis,Temple,2,3,0,48,0,Will Cummings Turnover.
+Memphis,Temple,4,3,1,25,1,Shaq Goodwin made Jumper.
+Memphis,Temple,4,3,1,38,0,Foul on Trahson Burrell.
+Memphis,Temple,4,3,1,42,0,Foul on Kedren Johnson.
+Memphis,Temple,4,3,1,57,0,Jesse Morgan missed Layup.
+Memphis,Temple,4,3,1,57,0,Calvin Godfrey Defensive Rebound.
+Memphis,Temple,6,3,2,1,1,Markel Crawford made Layup. Assisted by Calvin Godfrey.
+Memphis,Temple,6,3,2,25,0,Will Cummings Turnover.
+Memphis,Temple,6,3,2,48,0,Calvin Godfrey missed Layup.
+Memphis,Temple,6,3,2,48,0,Temple Defensive Rebound.
+Memphis,Temple,6,3,3,1,0,Devontae Watson missed Layup.
+Memphis,Temple,6,3,3,1,0,Jaylen Bond Offensive Rebound.
+Memphis,Temple,6,3,3,1,0,Jaylen Bond missed Two Point Tip Shot.
+Memphis,Temple,6,3,3,1,0,Kedren Johnson Defensive Rebound.
+Memphis,Temple,9,3,3,12,1,Trahson Burrell made Three Point Jumper. Assisted by Kedren Johnson.
+Memphis,Temple,9,6,3,28,1,Jesse Morgan made Three Point Jumper.
+Memphis,Temple,9,6,3,50,0,Trahson Burrell missed Jumper.
+Memphis,Temple,9,6,3,50,0,Temple Defensive Rebound.
+Memphis,Temple,9,6,4,17,0,Will Cummings missed Three Point Jumper.
+Memphis,Temple,9,6,4,17,0,Memphis Defensive Rebound.
+Memphis,Temple,9,6,4,17,0,Foul on Devontae Watson.
+Memphis,Temple,9,6,4,20,0,Official TV Timeout
+Memphis,Temple,9,6,4,32,0,Foul on Devontae Watson.
+Memphis,Temple,9,6,4,32,0,Calvin Godfrey missed Free Throw.
+Memphis,Temple,9,6,4,32,0,Memphis Deadball Team Rebound.
+Memphis,Temple,9,6,4,32,0,Calvin Godfrey missed Free Throw.
+Memphis,Temple,9,6,4,32,0,Jaylen Bond Defensive Rebound.
+Memphis,Temple,9,6,4,33,0,Jesse Morgan missed Three Point Jumper.
+Memphis,Temple,9,6,4,33,0,Shaq Goodwin Defensive Rebound.
+Memphis,Temple,9,6,5,3,0,Kedren Johnson missed Jumper.
+Memphis,Temple,9,6,5,3,0,Quenton DeCosey Defensive Rebound.
+Memphis,Temple,9,6,5,12,0,Foul on Markel Crawford.
+Memphis,Temple,9,6,5,12,0,Quenton DeCosey missed Three Point Jumper.
+Memphis,Temple,9,6,5,12,0,Shaq Goodwin Defensive Rebound.
+Memphis,Temple,9,6,5,29,0,Markel Crawford missed Three Point Jumper.
+Memphis,Temple,9,6,5,29,0,Jesse Morgan Defensive Rebound.
+Memphis,Temple,9,6,5,56,0,Obi Enechionyia missed Layup.
+Memphis,Temple,9,6,5,56,0,Markel Crawford Block.
+Memphis,Temple,9,6,5,56,0,Markel Crawford Defensive Rebound.
+Memphis,Temple,11,6,6,5,1,Markel Crawford made Layup.
+Memphis,Temple,11,8,6,21,1,Quenton DeCosey made Jumper.
+Memphis,Temple,11,8,6,43,0,Shaq Goodwin missed Jumper.
+Memphis,Temple,11,8,6,43,0,Calvin Godfrey Offensive Rebound.
+Memphis,Temple,13,8,6,46,1,Calvin Godfrey made Dunk.
+Memphis,Temple,13,8,7,2,0,Jaylen Bond Turnover.
+Memphis,Temple,13,8,7,21,0,Shaq Goodwin missed Jumper.
+Memphis,Temple,13,8,7,21,0,Jaylen Bond Defensive Rebound.
+Memphis,Temple,13,8,7,32,0,Will Cummings Turnover.
+Memphis,Temple,16,8,7,42,1,Trahson Burrell made Three Point Jumper. Assisted by Avery Woodson.
+Memphis,Temple,16,8,8,25,0,Foul on Calvin Godfrey.
+Memphis,Temple,16,8,8,25,0,Official TV Timeout
+Memphis,Temple,16,8,8,25,0,Jaylen Bond missed Free Throw.
+Memphis,Temple,16,8,8,25,0,Temple Deadball Team Rebound.
+Memphis,Temple,16,9,8,25,1,Jaylen Bond made Free Throw.
+Memphis,Temple,18,9,9,0,1,Calvin Godfrey made Layup. Assisted by Markel Crawford.
+Memphis,Temple,18,11,9,4,1,Will Cummings made Layup.
+Memphis,Temple,18,11,9,15,0,Calvin Godfrey missed Jumper.
+Memphis,Temple,18,11,9,15,0,Obi Enechionyia Block.
+Memphis,Temple,18,11,9,15,0,Memphis Offensive Rebound.
+Memphis,Temple,18,11,9,33,0,Calvin Godfrey Turnover.
+Memphis,Temple,18,11,9,48,0,Jesse Morgan missed Jumper.
+Memphis,Temple,18,11,9,48,0,Jaylen Bond Offensive Rebound.
+Memphis,Temple,18,11,9,53,0,Jaylen Bond missed Layup.
+Memphis,Temple,18,11,9,53,0,Avery Woodson Defensive Rebound.
+Memphis,Temple,18,11,10,13,0,Shaq Goodwin missed Jumper.
+Memphis,Temple,18,11,10,13,0,Obi Enechionyia Defensive Rebound.
+Memphis,Temple,18,13,10,24,1,Quenton DeCosey made Jumper.
+Memphis,Temple,18,13,10,45,0,Markel Crawford missed Layup.
+Memphis,Temple,18,13,10,45,0,Obi Enechionyia Block.
+Memphis,Temple,18,13,10,45,0,Will Cummings Defensive Rebound.
+Memphis,Temple,18,13,11,3,0,Quenton DeCosey missed Three Point Jumper.
+Memphis,Temple,18,13,11,3,0,Kedren Johnson Defensive Rebound.
+Memphis,Temple,18,13,11,19,0,Foul on Obi Enechionyia.
+Memphis,Temple,20,13,11,20,1,Shaq Goodwin made Jumper. Assisted by Markel Crawford.
+Memphis,Temple,20,15,11,38,1,Jaylen Bond made Layup. Assisted by Josh Brown.
+Memphis,Temple,20,15,12,11,0,Markel Crawford missed Jumper.
+Memphis,Temple,20,15,12,11,0,Will Cummings Defensive Rebound.
+Memphis,Temple,20,17,12,17,1,Daniel Dingle made Layup. Assisted by Will Cummings.
+Memphis,Temple,20,17,12,25,0,Avery Woodson missed Three Point Jumper.
+Memphis,Temple,20,17,12,25,0,Devin Coleman Defensive Rebound.
+Memphis,Temple,20,17,12,50,0,Foul on Avery Woodson.
+Memphis,Temple,20,17,12,50,0,Official TV Timeout
+Memphis,Temple,20,18,12,50,1,Jaylen Bond made Free Throw.
+Memphis,Temple,20,18,12,50,0,Jaylen Bond missed Free Throw.
+Memphis,Temple,20,18,12,50,0,Shaq Goodwin Defensive Rebound.
+Memphis,Temple,20,18,13,5,0,Shaq Goodwin missed Three Point Jumper.
+Memphis,Temple,20,18,13,5,0,Trahson Burrell Offensive Rebound.
+Memphis,Temple,20,18,13,14,0,Foul on Jaylen Bond.
+Memphis,Temple,20,18,13,14,0,Trahson Burrell missed Free Throw.
+Memphis,Temple,20,18,13,14,0,Memphis Deadball Team Rebound.
+Memphis,Temple,21,18,13,14,1,Trahson Burrell made Free Throw.
+Memphis,Temple,21,18,13,25,0,Devin Coleman missed Three Point Jumper.
+Memphis,Temple,21,18,13,25,0,Trahson Burrell Defensive Rebound.
+Memphis,Temple,23,18,13,44,1,Shaq Goodwin made Jumper.
+Memphis,Temple,23,18,14,1,0,Foul on Avery Woodson.
+Memphis,Temple,23,21,14,2,1,Josh Brown made Three Point Jumper. Assisted by Will Cummings.
+Memphis,Temple,23,21,14,16,0,Kedren Johnson missed Layup.
+Memphis,Temple,23,21,14,16,0,Devin Coleman Defensive Rebound.
+Memphis,Temple,23,23,14,25,1,Obi Enechionyia made Jumper. Assisted by Daniel Dingle.
+Memphis,Temple,23,23,14,33,0,Trahson Burrell missed Layup.
+Memphis,Temple,23,23,14,33,0,Daniel Dingle Defensive Rebound.
+Memphis,Temple,23,26,14,42,1,Devin Coleman made Three Point Jumper. Assisted by Will Cummings.
+Memphis,Temple,23,26,14,48,0,Memphis  Timeout
+Memphis,Temple,23,26,15,8,0,Kedren Johnson missed Three Point Jumper.
+Memphis,Temple,23,26,15,8,0,Temple Defensive Rebound.
+Memphis,Temple,23,26,15,12,0,Foul on Trahson Burrell.
+Memphis,Temple,23,27,15,12,1,Jesse Morgan made Free Throw.
+Memphis,Temple,23,28,15,12,1,Jesse Morgan made Free Throw.
+Memphis,Temple,23,28,15,27,0,Trahson Burrell missed Three Point Jumper.
+Memphis,Temple,23,28,15,27,0,Devin Coleman Defensive Rebound.
+Memphis,Temple,23,28,15,46,0,Daniel Dingle missed Three Point Jumper.
+Memphis,Temple,23,28,15,46,0,Calvin Godfrey Defensive Rebound.
+Memphis,Temple,23,28,16,6,0,Shaq Goodwin missed Jumper.
+Memphis,Temple,23,28,16,6,0,Daniel Dingle Block.
+Memphis,Temple,23,28,16,6,0,Daniel Dingle Defensive Rebound.
+Memphis,Temple,23,28,16,6,0,Official TV Timeout
+Memphis,Temple,23,28,16,16,0,Daniel Dingle missed Jumper.
+Memphis,Temple,23,28,16,16,0,Calvin Godfrey Defensive Rebound.
+Memphis,Temple,23,28,16,28,0,Markel Crawford missed Three Point Jumper.
+Memphis,Temple,23,28,16,28,0,Trahson Burrell Offensive Rebound.
+Memphis,Temple,25,28,16,32,1,Trahson Burrell made Layup.
+Memphis,Temple,25,28,16,48,0,Jesse Morgan missed Jumper.
+Memphis,Temple,25,28,16,48,0,Kedren Johnson Defensive Rebound.
+Memphis,Temple,25,28,16,58,0,Shaq Goodwin missed Jumper.
+Memphis,Temple,25,28,16,58,0,Jesse Morgan Defensive Rebound.
+Memphis,Temple,25,28,17,32,0,Foul on Markel Crawford.
+Memphis,Temple,25,28,17,32,0,Jesse Morgan missed Free Throw.
+Memphis,Temple,25,28,17,32,0,Temple Deadball Team Rebound.
+Memphis,Temple,25,29,17,32,1,Jesse Morgan made Free Throw.
+Memphis,Temple,27,29,18,3,1,Calvin Godfrey made Layup.
+Memphis,Temple,27,29,18,3,0,Foul on Obi Enechionyia.
+Memphis,Temple,28,29,18,3,1,Calvin Godfrey made Free Throw.
+Memphis,Temple,28,29,18,27,0,Jaylen Bond Turnover.
+Memphis,Temple,30,29,18,47,1,Calvin Godfrey made Layup.
+Memphis,Temple,30,29,18,59,0,Foul on Calvin Godfrey.
+Memphis,Temple,30,29,18,59,0,Will Cummings missed Free Throw.
+Memphis,Temple,30,29,18,59,0,Shaq Goodwin Defensive Rebound.
+Memphis,Temple,30,29,19,5,0,Nick King missed Three Point Jumper.
+Memphis,Temple,30,29,19,5,0,Jesse Morgan Defensive Rebound.
+Memphis,Temple,30,31,19,27,1,Will Cummings made Jumper.
+Memphis,Temple,32,31,19,53,1,Kedren Johnson made Jumper.
+Memphis,Temple,32,31,20,0,0,End of 1st half
+Memphis,Temple,32,31,20,0,0,Jump Ball won by Memphis
+Memphis,Temple,32,31,20,20,0,Markel Crawford missed Jumper.
+Memphis,Temple,32,31,20,20,0,Devontae Watson Defensive Rebound.
+Memphis,Temple,32,31,20,28,0,Daniel Dingle Turnover.
+Memphis,Temple,32,31,20,28,0,Kedren Johnson Steal.
+Memphis,Temple,32,31,20,35,0,Foul on Will Cummings.
+Memphis,Temple,32,31,20,44,0,Kedren Johnson missed Jumper.
+Memphis,Temple,32,31,20,44,0,Trahson Burrell Offensive Rebound.
+Memphis,Temple,34,31,20,44,1,Trahson Burrell made Two Point Tip Shot.
+Memphis,Temple,34,31,20,59,0,Jesse Morgan missed Three Point Jumper.
+Memphis,Temple,34,31,20,59,0,Devontae Watson Offensive Rebound.
+Memphis,Temple,34,33,21,6,1,Devontae Watson made Layup.
+Memphis,Temple,36,33,21,18,1,Shaq Goodwin made Layup.
+Memphis,Temple,36,33,21,40,0,Jesse Morgan Turnover.
+Memphis,Temple,36,33,21,46,0,Kedren Johnson missed Three Point Jumper.
+Memphis,Temple,36,33,21,46,0,Jesse Morgan Defensive Rebound.
+Memphis,Temple,36,33,21,58,0,Foul on Trahson Burrell.
+Memphis,Temple,36,33,21,58,0,Jesse Morgan missed Free Throw.
+Memphis,Temple,36,33,21,58,0,Temple Deadball Team Rebound.
+Memphis,Temple,36,34,21,58,1,Jesse Morgan made Free Throw.
+Memphis,Temple,36,34,22,14,0,Shaq Goodwin Turnover.
+Memphis,Temple,36,34,22,14,0,Jesse Morgan Steal.
+Memphis,Temple,36,34,22,21,0,Foul on Calvin Godfrey.
+Memphis,Temple,36,34,22,37,0,Jesse Morgan missed Jumper.
+Memphis,Temple,36,34,22,37,0,Trahson Burrell Defensive Rebound.
+Memphis,Temple,36,34,22,43,0,Foul on Trahson Burrell.
+Memphis,Temple,36,34,22,43,0,Trahson Burrell Turnover.
+Memphis,Temple,36,34,22,54,0,Foul on Kedren Johnson.
+Memphis,Temple,36,34,23,6,0,Devontae Watson missed Jumper.
+Memphis,Temple,36,34,23,6,0,Daniel Dingle Offensive Rebound.
+Memphis,Temple,36,34,23,10,0,Foul on Shaq Goodwin.
+Memphis,Temple,36,34,23,10,0,Daniel Dingle missed Free Throw.
+Memphis,Temple,36,34,23,10,0,Temple Deadball Team Rebound.
+Memphis,Temple,36,34,23,10,0,Daniel Dingle missed Free Throw.
+Memphis,Temple,36,34,23,10,0,Shaq Goodwin Defensive Rebound.
+Memphis,Temple,36,34,23,33,0,Markel Crawford missed Jumper.
+Memphis,Temple,36,34,23,33,0,Quenton DeCosey Defensive Rebound.
+Memphis,Temple,36,34,23,40,0,Quenton DeCosey missed Jumper.
+Memphis,Temple,36,34,23,40,0,Devontae Watson Offensive Rebound.
+Memphis,Temple,36,34,23,40,0,Devontae Watson missed Two Point Tip Shot.
+Memphis,Temple,36,34,23,40,0,Daniel Dingle Offensive Rebound.
+Memphis,Temple,36,34,23,48,0,Will Cummings Turnover.
+Memphis,Temple,36,34,23,48,0,Kedren Johnson Steal.
+Memphis,Temple,36,34,24,0,0,Shaq Goodwin missed Layup.
+Memphis,Temple,36,34,24,0,0,Devontae Watson Block.
+Memphis,Temple,36,34,24,0,0,Jesse Morgan Defensive Rebound.
+Memphis,Temple,36,37,24,5,1,Quenton DeCosey made Three Point Jumper. Assisted by Will Cummings.
+Memphis,Temple,38,37,24,15,1,Markel Crawford made Layup. Assisted by Kedren Johnson.
+Memphis,Temple,38,37,24,15,0,Foul on Will Cummings.
+Memphis,Temple,38,37,24,15,0,Official TV Timeout
+Memphis,Temple,39,37,24,15,1,Markel Crawford made Free Throw.
+Memphis,Temple,39,37,24,34,0,Devontae Watson missed Jumper.
+Memphis,Temple,39,37,24,34,0,Calvin Godfrey Block.
+Memphis,Temple,39,37,24,34,0,Devontae Watson Offensive Rebound.
+Memphis,Temple,39,39,24,41,1,Devontae Watson made Layup.
+Memphis,Temple,39,39,25,3,0,Shaq Goodwin Turnover.
+Memphis,Temple,39,39,25,18,0,Daniel Dingle missed Three Point Jumper.
+Memphis,Temple,39,39,25,18,0,Shaq Goodwin Defensive Rebound.
+Memphis,Temple,39,39,25,22,0,Nick King missed Jumper.
+Memphis,Temple,39,39,25,22,0,Quenton DeCosey Defensive Rebound.
+Memphis,Temple,39,39,25,28,0,Quenton DeCosey missed Jumper.
+Memphis,Temple,39,39,25,28,0,Shaq Goodwin Defensive Rebound.
+Memphis,Temple,41,39,25,33,1,Markel Crawford made Layup. Assisted by Shaq Goodwin.
+Memphis,Temple,41,39,25,52,0,Jesse Morgan missed Three Point Jumper.
+Memphis,Temple,41,39,25,52,0,Nick King Defensive Rebound.
+Memphis,Temple,41,39,26,13,0,Avery Woodson missed Three Point Jumper.
+Memphis,Temple,41,39,26,13,0,Quenton DeCosey Defensive Rebound.
+Memphis,Temple,41,41,26,39,1,Quenton DeCosey made Jumper.
+Memphis,Temple,41,41,27,1,0,Markel Crawford missed Jumper.
+Memphis,Temple,41,41,27,1,0,Nick King Offensive Rebound.
+Memphis,Temple,43,41,27,5,1,Nick King made Layup.
+Memphis,Temple,43,43,27,25,1,Devontae Watson made Jumper.
+Memphis,Temple,43,43,27,57,0,Foul on Will Cummings.
+Memphis,Temple,45,43,28,0,1,Kedren Johnson made Layup.
+Memphis,Temple,45,45,28,19,1,Devontae Watson made Layup. Assisted by Quenton DeCosey.
+Memphis,Temple,47,45,28,37,1,Markel Crawford made Layup.
+Memphis,Temple,47,45,28,37,0,Foul on Quenton DeCosey.
+Memphis,Temple,47,45,28,37,0,Official TV Timeout
+Memphis,Temple,48,45,28,37,1,Markel Crawford made Free Throw.
+Memphis,Temple,48,48,28,59,1,Will Cummings made Three Point Jumper. Assisted by Quenton DeCosey.
+Memphis,Temple,48,48,29,28,0,Kedren Johnson missed Jumper.
+Memphis,Temple,48,48,29,28,0,Nick King Offensive Rebound.
+Memphis,Temple,48,48,29,44,0,Nick King missed Jumper.
+Memphis,Temple,48,48,29,44,0,Will Cummings Defensive Rebound.
+Memphis,Temple,48,50,29,55,1,Obi Enechionyia made Jumper. Assisted by Quenton DeCosey.
+Memphis,Temple,48,50,30,23,0,Foul on Josh Brown.
+Memphis,Temple,49,50,30,23,1,Kedren Johnson made Free Throw.
+Memphis,Temple,50,50,30,23,1,Kedren Johnson made Free Throw.
+Memphis,Temple,50,50,30,34,0,Will Cummings missed Layup.
+Memphis,Temple,50,50,30,34,0,Shaq Goodwin Block.
+Memphis,Temple,50,50,30,34,0,Avery Woodson Defensive Rebound.
+Memphis,Temple,52,50,30,53,1,Shaq Goodwin made Jumper.
+Memphis,Temple,52,50,31,10,0,Quenton DeCosey missed Jumper.
+Memphis,Temple,52,50,31,10,0,Nick King Block.
+Memphis,Temple,52,50,31,10,0,Kedren Johnson Defensive Rebound.
+Memphis,Temple,52,50,31,22,0,Shaq Goodwin missed Jumper.
+Memphis,Temple,52,50,31,22,0,Obi Enechionyia Block.
+Memphis,Temple,52,50,31,22,0,Obi Enechionyia Defensive Rebound.
+Memphis,Temple,52,50,31,48,0,Foul on Markel Crawford.
+Memphis,Temple,52,51,31,48,1,Will Cummings made Free Throw.
+Memphis,Temple,52,52,31,48,1,Will Cummings made Free Throw.
+Memphis,Temple,52,52,32,6,0,Markel Crawford missed Layup.
+Memphis,Temple,52,52,32,6,0,Quenton DeCosey Defensive Rebound.
+Memphis,Temple,52,55,32,10,1,Jesse Morgan made Three Point Jumper. Assisted by Quenton DeCosey.
+Memphis,Temple,52,55,32,46,0,Foul on Obi Enechionyia.
+Memphis,Temple,52,55,32,46,0,Official TV Timeout
+Memphis,Temple,52,55,32,50,0,Kedren Johnson Turnover.
+Memphis,Temple,52,55,32,50,0,Jesse Morgan Steal.
+Memphis,Temple,52,55,32,57,0,Jesse Morgan missed Layup.
+Memphis,Temple,52,55,32,57,0,Temple Offensive Rebound.
+Memphis,Temple,52,58,33,1,1,Josh Brown made Three Point Jumper. Assisted by Will Cummings.
+Memphis,Temple,52,58,33,7,0,Trahson Burrell missed Three Point Jumper.
+Memphis,Temple,52,58,33,7,0,Jesse Morgan Defensive Rebound.
+Memphis,Temple,52,58,33,17,0,Jesse Morgan missed Three Point Jumper.
+Memphis,Temple,52,58,33,17,0,Quenton DeCosey Offensive Rebound.
+Memphis,Temple,52,58,33,17,0,Quenton DeCosey missed Two Point Tip Shot.
+Memphis,Temple,52,58,33,17,0,Kedren Johnson Defensive Rebound.
+Memphis,Temple,52,58,33,29,0,Trahson Burrell missed Jumper.
+Memphis,Temple,52,58,33,29,0,Josh Brown Defensive Rebound.
+Memphis,Temple,52,58,33,40,0,Obi Enechionyia Turnover.
+Memphis,Temple,55,58,33,59,1,Kedren Johnson made Three Point Jumper. Assisted by Shaq Goodwin.
+Memphis,Temple,55,58,34,7,0,Memphis  Timeout
+Memphis,Temple,55,60,34,35,1,Will Cummings made Layup.
+Memphis,Temple,55,60,35,0,0,Shaq Goodwin Turnover.
+Memphis,Temple,55,60,35,0,0,Josh Brown Steal.
+Memphis,Temple,55,62,35,3,1,Will Cummings made Layup.
+Memphis,Temple,58,62,35,19,1,Avery Woodson made Three Point Jumper. Assisted by Shaq Goodwin.
+Memphis,Temple,58,62,35,44,0,Temple  Timeout
+Memphis,Temple,58,62,35,52,0,Obi Enechionyia missed Layup.
+Memphis,Temple,58,62,35,52,0,Trahson Burrell Block.
+Memphis,Temple,58,62,35,52,0,Temple Offensive Rebound.
+Memphis,Temple,58,62,35,59,0,Foul on Kedren Johnson.
+Memphis,Temple,58,63,35,59,1,Will Cummings made Free Throw.
+Memphis,Temple,58,64,35,59,1,Will Cummings made Free Throw.
+Memphis,Temple,58,64,36,11,0,Avery Woodson missed Three Point Jumper.
+Memphis,Temple,58,64,36,11,0,Jesse Morgan Defensive Rebound.
+Memphis,Temple,58,64,36,19,0,Foul on Avery Woodson.
+Memphis,Temple,58,64,36,19,0,Official TV Timeout
+Memphis,Temple,58,65,36,19,1,Quenton DeCosey made Free Throw.
+Memphis,Temple,58,66,36,19,1,Quenton DeCosey made Free Throw.
+Memphis,Temple,60,66,36,33,1,Shaq Goodwin made Jumper.
+Memphis,Temple,60,66,36,33,0,Foul on Quenton DeCosey.
+Memphis,Temple,60,66,36,33,0,Shaq Goodwin missed Free Throw.
+Memphis,Temple,60,66,36,33,0,Shaq Goodwin Offensive Rebound.
+Memphis,Temple,60,66,36,35,0,Trahson Burrell missed Three Point Jumper.
+Memphis,Temple,60,66,36,35,0,Shaq Goodwin Offensive Rebound.
+Memphis,Temple,60,66,36,45,0,Foul on Obi Enechionyia.
+Memphis,Temple,61,66,36,45,1,Shaq Goodwin made Free Throw.
+Memphis,Temple,61,66,36,45,0,Shaq Goodwin missed Free Throw.
+Memphis,Temple,61,66,36,45,0,Calvin Godfrey Offensive Rebound.
+Memphis,Temple,61,66,36,54,0,Avery Woodson missed Three Point Jumper.
+Memphis,Temple,61,66,36,54,0,Memphis Offensive Rebound.
+Memphis,Temple,63,66,37,8,1,Shaq Goodwin made Jumper.
+Memphis,Temple,63,68,37,32,1,Quenton DeCosey made Layup.
+Memphis,Temple,63,68,37,32,0,Foul on Shaq Goodwin.
+Memphis,Temple,63,69,37,32,1,Quenton DeCosey made Free Throw.
+Memphis,Temple,65,69,37,41,1,Kedren Johnson made Layup.
+Memphis,Temple,65,69,37,56,0,Quenton DeCosey Turnover.
+Memphis,Temple,65,69,37,56,0,Markel Crawford Steal.
+Memphis,Temple,65,69,37,59,0,Trahson Burrell missed Jumper.
+Memphis,Temple,65,69,37,59,0,Trahson Burrell Offensive Rebound.
+Memphis,Temple,67,69,38,3,1,Trahson Burrell made Layup.
+Memphis,Temple,67,69,38,3,0,Foul on Avery Woodson.
+Memphis,Temple,67,70,38,3,1,Will Cummings made Free Throw.
+Memphis,Temple,67,71,38,3,1,Will Cummings made Free Throw.
+Memphis,Temple,69,71,38,11,1,Calvin Godfrey made Jumper.
+Memphis,Temple,69,71,38,47,0,Obi Enechionyia missed Three Point Jumper.
+Memphis,Temple,69,71,38,47,0,Trahson Burrell Defensive Rebound.
+Memphis,Temple,71,71,39,10,1,Trahson Burrell made Jumper.
+Memphis,Temple,71,73,39,21,1,Obi Enechionyia made Jumper. Assisted by Will Cummings.
+Memphis,Temple,71,73,39,21,0,Foul on Avery Woodson.
+Memphis,Temple,71,74,39,21,1,Obi Enechionyia made Free Throw.
+Memphis,Temple,71,74,39,21,0,Temple  Timeout
+Memphis,Temple,71,74,39,33,0,Foul on Quenton DeCosey.
+Memphis,Temple,72,74,39,33,1,Trahson Burrell made Free Throw.
+Memphis,Temple,72,74,39,33,0,Trahson Burrell missed Free Throw.
+Memphis,Temple,72,74,39,33,0,Calvin Godfrey Offensive Rebound.
+Memphis,Temple,72,74,39,33,0,Calvin Godfrey missed Jumper.
+Memphis,Temple,72,74,39,33,0,Quenton DeCosey Defensive Rebound.
+Memphis,Temple,72,74,39,40,0,Foul on Calvin Godfrey.
+Memphis,Temple,72,75,39,40,1,Will Cummings made Free Throw.
+Memphis,Temple,72,76,39,40,1,Will Cummings made Free Throw.
+Memphis,Temple,72,76,39,40,0,Temple  Timeout
+Memphis,Temple,72,76,39,45,0,Trahson Burrell missed Three Point Jumper.
+Memphis,Temple,72,76,39,45,0,Obi Enechionyia Defensive Rebound.
+Memphis,Temple,72,76,39,50,0,Foul on Trahson Burrell.
+Memphis,Temple,72,77,39,50,1,Obi Enechionyia made Free Throw.
+Memphis,Temple,72,78,39,50,1,Obi Enechionyia made Free Throw.
+Memphis,Temple,75,78,39,53,1,Kedren Johnson made Three Point Jumper.
+Memphis,Temple,75,78,39,55,0,Memphis  Timeout
+Memphis,Temple,75,78,39,56,0,Foul on Markel Crawford.
+Memphis,Temple,75,79,39,56,1,Will Cummings made Free Throw.
+Memphis,Temple,75,80,39,56,1,Will Cummings made Free Throw.
+Memphis,Temple,75,80,39,58,0,Markel Crawford missed Three Point Jumper.
+Memphis,Temple,75,80,39,58,0,Calvin Godfrey Offensive Rebound.
+Memphis,Temple,75,80,40,0,0,End of Game

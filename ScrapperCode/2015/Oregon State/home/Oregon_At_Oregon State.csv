@@ -1,0 +1,329 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Oregon,Oregon State,0,0,0,0,0,Jump Ball won by Oregon
+Oregon,Oregon State,0,0,0,10,0,Foul on Justin Stangel.
+Oregon,Oregon State,1,0,0,10,1,Jalil Abdul-Bassit made Free Throw.
+Oregon,Oregon State,2,0,0,10,1,Jalil Abdul-Bassit made Free Throw.
+Oregon,Oregon State,2,0,0,15,0,AJ Hedgecock Turnover.
+Oregon,Oregon State,2,0,0,15,0,Elgin Cook Steal.
+Oregon,Oregon State,2,0,0,20,0,Foul on AJ Hedgecock.
+Oregon,Oregon State,3,0,0,20,1,Elgin Cook made Free Throw.
+Oregon,Oregon State,3,0,0,20,0,Elgin Cook missed Free Throw.
+Oregon,Oregon State,3,0,0,20,0,Oregon St Defensive Rebound.
+Oregon,Oregon State,3,0,0,28,0,Dylan Livesay Turnover.
+Oregon,Oregon State,3,0,0,37,0,Elgin Cook missed Layup.
+Oregon,Oregon State,3,0,0,37,0,Elgin Cook Offensive Rebound.
+Oregon,Oregon State,5,0,0,42,1,Elgin Cook made Layup.
+Oregon,Oregon State,5,0,0,49,0,Gary Payton II missed Three Point Jumper.
+Oregon,Oregon State,5,0,0,55,0,Gary Payton II Offensive Rebound.
+Oregon,Oregon State,5,0,1,1,0,Daniel Gomis Turnover.
+Oregon,Oregon State,5,0,1,1,0,Jalil Abdul-Bassit Steal.
+Oregon,Oregon State,8,0,1,21,1,Joseph Young made Three Point Jumper. Assisted by Dillon Brooks.
+Oregon,Oregon State,8,0,1,55,0,Gary Payton II missed Jumper.
+Oregon,Oregon State,8,0,1,55,0,Gary Payton II Offensive Rebound.
+Oregon,Oregon State,8,0,2,2,0,Gary Payton II missed Layup.
+Oregon,Oregon State,8,0,2,2,0,Gary Payton II Offensive Rebound.
+Oregon,Oregon State,8,3,2,11,1,Malcolm Duvivier made Three Point Jumper. Assisted by Gary Payton II.
+Oregon,Oregon State,10,3,2,16,1,Elgin Cook made Layup.
+Oregon,Oregon State,10,5,2,34,1,Daniel Gomis made Dunk. Assisted by Olaf Schaftenaar.
+Oregon,Oregon State,10,5,2,54,0,Joseph Young missed Three Point Jumper.
+Oregon,Oregon State,10,5,2,54,0,Oregon Offensive Rebound.
+Oregon,Oregon State,10,5,3,5,0,Jalil Abdul-Bassit missed Three Point Jumper.
+Oregon,Oregon State,10,5,3,5,0,Oregon Offensive Rebound.
+Oregon,Oregon State,10,5,3,8,0,Foul on Daniel Gomis.
+Oregon,Oregon State,10,5,3,13,0,Joseph Young missed Three Point Jumper.
+Oregon,Oregon State,10,5,3,13,0,Malcolm Duvivier Defensive Rebound.
+Oregon,Oregon State,10,5,3,24,0,Foul on Jalil Abdul-Bassit.
+Oregon,Oregon State,10,5,3,27,0,Malcolm Duvivier missed Three Point Jumper.
+Oregon,Oregon State,10,5,3,27,0,Jordan Bell Defensive Rebound.
+Oregon,Oregon State,10,5,3,48,0,Foul on Langston Morris-Walker.
+Oregon,Oregon State,10,5,3,48,0,Jordan Bell missed Free Throw.
+Oregon,Oregon State,10,5,3,48,0,Oregon Deadball Team Rebound.
+Oregon,Oregon State,11,5,3,48,1,Jordan Bell made Free Throw.
+Oregon,Oregon State,11,5,4,11,0,Gary Payton II missed Jumper.
+Oregon,Oregon State,11,5,4,11,0,Joseph Young Defensive Rebound.
+Oregon,Oregon State,11,5,4,20,0,Joseph Young Turnover.
+Oregon,Oregon State,11,5,4,20,0,Malcolm Duvivier Steal.
+Oregon,Oregon State,11,5,4,24,0,Malcolm Duvivier Turnover.
+Oregon,Oregon State,11,5,4,24,0,Dwayne Benjamin Steal.
+Oregon,Oregon State,11,5,4,28,0,Dwayne Benjamin missed Layup.
+Oregon,Oregon State,11,5,4,28,0,Daniel Gomis Defensive Rebound.
+Oregon,Oregon State,11,7,4,47,1,Gary Payton II made Layup. Assisted by Malcolm Duvivier.
+Oregon,Oregon State,11,7,4,47,0,Foul on Elgin Cook.
+Oregon,Oregon State,11,7,4,47,0,Official TV Timeout
+Oregon,Oregon State,11,8,4,47,1,Gary Payton II made Free Throw.
+Oregon,Oregon State,11,8,5,21,0,Elgin Cook missed Three Point Jumper.
+Oregon,Oregon State,11,8,5,21,0,Gary Payton II Defensive Rebound.
+Oregon,Oregon State,11,8,5,53,0,Malcolm Duvivier missed Jumper.
+Oregon,Oregon State,11,8,5,53,0,Daniel Gomis Offensive Rebound.
+Oregon,Oregon State,11,10,6,12,1,Olaf Schaftenaar made Jumper.
+Oregon,Oregon State,11,10,6,19,0,Dillon Brooks Turnover.
+Oregon,Oregon State,11,10,6,27,0,Gary Payton II missed Three Point Jumper.
+Oregon,Oregon State,11,10,6,27,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Oregon State,13,10,6,39,1,Elgin Cook made Dunk. Assisted by Dillon Brooks.
+Oregon,Oregon State,13,10,6,49,0,Langston Morris-Walker missed Layup.
+Oregon,Oregon State,13,10,6,49,0,Jordan Bell Block.
+Oregon,Oregon State,13,10,6,49,0,Dillon Brooks Defensive Rebound.
+Oregon,Oregon State,13,10,6,58,0,Dillon Brooks missed Layup.
+Oregon,Oregon State,13,10,6,58,0,Langston Morris-Walker Defensive Rebound.
+Oregon,Oregon State,13,10,6,59,0,Foul on Dillon Brooks.
+Oregon,Oregon State,13,12,7,16,1,Malcolm Duvivier made Jumper.
+Oregon,Oregon State,13,12,7,44,0,Dwayne Benjamin missed Three Point Jumper.
+Oregon,Oregon State,13,12,7,44,0,Langston Morris-Walker Defensive Rebound.
+Oregon,Oregon State,13,12,8,11,0,Daniel Gomis Turnover.
+Oregon,Oregon State,13,12,8,11,0,Jordan Bell Steal.
+Oregon,Oregon State,13,12,8,41,0,Dwayne Benjamin Turnover.
+Oregon,Oregon State,13,12,8,41,0,Malcolm Duvivier Steal.
+Oregon,Oregon State,13,14,8,54,1,Daniel Gomis made Layup. Assisted by Jarmal Reid.
+Oregon,Oregon State,13,14,9,5,0,Joseph Young missed Jumper.
+Oregon,Oregon State,13,14,9,5,0,Jarmal Reid Defensive Rebound.
+Oregon,Oregon State,13,14,9,36,0,Daniel Gomis missed Jumper.
+Oregon,Oregon State,13,14,9,36,0,Jordan Bell Defensive Rebound.
+Oregon,Oregon State,13,14,10,2,0,Elgin Cook missed Jumper.
+Oregon,Oregon State,13,14,10,2,0,Gary Payton II Defensive Rebound.
+Oregon,Oregon State,13,16,10,16,1,Jarmal Reid made Layup. Assisted by Gary Payton II.
+Oregon,Oregon State,13,16,10,16,0,Foul on Jordan Bell.
+Oregon,Oregon State,13,16,10,16,0,Official TV Timeout
+Oregon,Oregon State,13,16,10,16,0,Jarmal Reid missed Free Throw.
+Oregon,Oregon State,13,16,10,16,0,Dillon Brooks Defensive Rebound.
+Oregon,Oregon State,13,16,10,44,0,Joseph Young missed Three Point Jumper.
+Oregon,Oregon State,13,16,10,44,0,Oregon Offensive Rebound.
+Oregon,Oregon State,15,16,10,53,1,Elgin Cook made Jumper. Assisted by Joseph Young.
+Oregon,Oregon State,15,18,11,16,1,Jarmal Reid made Jumper.
+Oregon,Oregon State,15,18,11,41,0,Dillon Brooks missed Layup.
+Oregon,Oregon State,15,18,11,41,0,Olaf Schaftenaar Defensive Rebound.
+Oregon,Oregon State,15,18,12,0,0,Malcolm Duvivier Turnover.
+Oregon,Oregon State,15,18,12,0,0,Joseph Young Steal.
+Oregon,Oregon State,17,18,12,3,1,Ahmaad Rorie made Layup. Assisted by Joseph Young.
+Oregon,Oregon State,17,21,12,15,1,Gary Payton II made Three Point Jumper. Assisted by Malcolm Duvivier.
+Oregon,Oregon State,17,21,12,26,0,Jalil Abdul-Bassit missed Three Point Jumper.
+Oregon,Oregon State,17,21,12,26,0,Gary Payton II Defensive Rebound.
+Oregon,Oregon State,17,21,12,45,0,Foul on Jalil Abdul-Bassit.
+Oregon,Oregon State,17,21,12,45,0,Official TV Timeout
+Oregon,Oregon State,17,23,12,59,1,Jarmal Reid made Jumper. Assisted by Malcolm Duvivier.
+Oregon,Oregon State,17,23,13,17,0,Dillon Brooks missed Jumper.
+Oregon,Oregon State,17,23,13,17,0,Gary Payton II Defensive Rebound.
+Oregon,Oregon State,17,25,13,43,1,Malcolm Duvivier made Jumper.
+Oregon,Oregon State,17,25,14,11,0,Casey Benson missed Layup.
+Oregon,Oregon State,17,25,14,11,0,Cheikh N'diaye Block.
+Oregon,Oregon State,17,25,14,11,0,Olaf Schaftenaar Defensive Rebound.
+Oregon,Oregon State,17,25,14,29,0,Gary Payton II missed Three Point Jumper.
+Oregon,Oregon State,17,25,14,29,0,Joseph Young Defensive Rebound.
+Oregon,Oregon State,19,25,14,39,1,Dillon Brooks made Layup. Assisted by Joseph Young.
+Oregon,Oregon State,19,28,14,55,1,Olaf Schaftenaar made Three Point Jumper. Assisted by Gary Payton II.
+Oregon,Oregon State,21,28,15,6,1,Joseph Young made Jumper.
+Oregon,Oregon State,21,28,15,37,0,Cheikh N'diaye missed Layup.
+Oregon,Oregon State,21,28,15,37,0,Dillon Brooks Defensive Rebound.
+Oregon,Oregon State,21,28,15,56,0,Dillon Brooks missed Layup.
+Oregon,Oregon State,21,28,15,56,0,Cheikh N'diaye Defensive Rebound.
+Oregon,Oregon State,21,28,16,8,0,Jarmal Reid missed Layup.
+Oregon,Oregon State,21,28,16,8,0,Jordan Bell Defensive Rebound.
+Oregon,Oregon State,21,28,16,14,0,Foul on Jarmal Reid.
+Oregon,Oregon State,21,28,16,14,0,Official TV Timeout
+Oregon,Oregon State,21,28,16,35,0,Foul on Elgin Cook.
+Oregon,Oregon State,21,28,16,35,0,Elgin Cook Turnover.
+Oregon,Oregon State,21,28,17,3,0,Olaf Schaftenaar missed Three Point Jumper.
+Oregon,Oregon State,21,28,17,3,0,Jordan Bell Defensive Rebound.
+Oregon,Oregon State,21,28,17,6,0,Foul on Daniel Gomis.
+Oregon,Oregon State,23,28,17,24,1,Joseph Young made Jumper. Assisted by Jordan Bell.
+Oregon,Oregon State,23,28,17,35,0,Olaf Schaftenaar Turnover.
+Oregon,Oregon State,23,28,17,35,0,Jordan Bell Steal.
+Oregon,Oregon State,23,28,17,44,0,Dillon Brooks missed Layup.
+Oregon,Oregon State,23,28,17,44,0,Jordan Bell Offensive Rebound.
+Oregon,Oregon State,23,28,17,50,0,Casey Benson missed Three Point Jumper.
+Oregon,Oregon State,23,28,17,50,0,Dwayne Benjamin Offensive Rebound.
+Oregon,Oregon State,23,28,17,50,0,Dwayne Benjamin Turnover.
+Oregon,Oregon State,23,28,17,50,0,Technical Foul on Gary Payton II.
+Oregon,Oregon State,24,28,17,50,1,Joseph Young made Free Throw.
+Oregon,Oregon State,23,28,17,50,0,Foul on Gary Payton II.
+Oregon,Oregon State,25,28,17,50,1,Joseph Young made Free Throw.
+Oregon,Oregon State,25,28,18,4,0,Dwayne Benjamin missed Three Point Jumper.
+Oregon,Oregon State,25,28,18,4,0,Langston Morris-Walker Defensive Rebound.
+Oregon,Oregon State,25,28,18,28,0,Gary Payton II missed Jumper.
+Oregon,Oregon State,25,28,18,28,0,Dillon Brooks Defensive Rebound.
+Oregon,Oregon State,27,28,18,36,1,Joseph Young made Jumper.
+Oregon,Oregon State,27,28,18,39,0,Oregon St  Timeout
+Oregon,Oregon State,27,30,18,51,1,Malcolm Duvivier made Jumper. Assisted by Gary Payton II.
+Oregon,Oregon State,27,30,18,59,0,Foul on Gary Payton II.
+Oregon,Oregon State,28,30,18,59,1,Joseph Young made Free Throw.
+Oregon,Oregon State,29,30,18,59,1,Joseph Young made Free Throw.
+Oregon,Oregon State,29,30,19,13,0,Malcolm Duvivier missed Jumper.
+Oregon,Oregon State,29,30,19,18,0,Joseph Young Defensive Rebound.
+Oregon,Oregon State,32,30,19,27,1,Dwayne Benjamin made Three Point Jumper. Assisted by Joseph Young.
+Oregon,Oregon State,32,32,19,58,1,Malcolm Duvivier made Jumper.
+Oregon,Oregon State,32,32,20,0,0,End of 1st half
+Oregon,Oregon State,32,32,20,0,0,Jump Ball won by Oregon St
+Oregon,Oregon State,32,32,20,26,0,Langston Morris-Walker missed Three Point Jumper.
+Oregon,Oregon State,32,32,20,26,0,Joseph Young Defensive Rebound.
+Oregon,Oregon State,32,32,20,33,0,Joseph Young missed Layup.
+Oregon,Oregon State,32,32,20,33,0,Daniel Gomis Block.
+Oregon,Oregon State,32,32,20,33,0,Oregon Offensive Rebound.
+Oregon,Oregon State,32,32,20,35,0,Jalil Abdul-Bassit missed Jumper.
+Oregon,Oregon State,32,32,20,35,0,Gary Payton II Defensive Rebound.
+Oregon,Oregon State,32,32,20,56,0,Foul on Dillon Brooks.
+Oregon,Oregon State,32,32,21,6,0,Daniel Gomis missed Jumper.
+Oregon,Oregon State,32,32,21,6,0,Dillon Brooks Defensive Rebound.
+Oregon,Oregon State,32,32,21,13,0,Dillon Brooks Turnover.
+Oregon,Oregon State,32,32,21,13,0,Gary Payton II Steal.
+Oregon,Oregon State,32,35,21,23,1,Malcolm Duvivier made Three Point Jumper. Assisted by Gary Payton II.
+Oregon,Oregon State,32,35,21,46,0,Joseph Young Turnover.
+Oregon,Oregon State,32,35,21,46,0,Gary Payton II Steal.
+Oregon,Oregon State,32,38,21,54,1,Olaf Schaftenaar made Three Point Jumper. Assisted by Gary Payton II.
+Oregon,Oregon State,32,38,22,2,0,Oregon  Timeout
+Oregon,Oregon State,32,38,22,8,0,Joseph Young Turnover.
+Oregon,Oregon State,32,38,22,8,0,Gary Payton II Steal.
+Oregon,Oregon State,32,38,22,23,0,Malcolm Duvivier missed Three Point Jumper.
+Oregon,Oregon State,32,38,22,23,0,Daniel Gomis Offensive Rebound.
+Oregon,Oregon State,32,38,22,30,0,Jump Ball won by Oregon
+Oregon,Oregon State,32,38,22,30,0,Daniel Gomis Turnover.
+Oregon,Oregon State,32,38,22,30,0,Jalil Abdul-Bassit Steal.
+Oregon,Oregon State,32,38,22,34,0,Joseph Young missed Jumper.
+Oregon,Oregon State,32,38,22,34,0,Langston Morris-Walker Defensive Rebound.
+Oregon,Oregon State,32,38,23,0,0,Gary Payton II missed Layup.
+Oregon,Oregon State,32,38,23,0,0,Joseph Young Defensive Rebound.
+Oregon,Oregon State,35,38,23,7,1,Jalil Abdul-Bassit made Three Point Jumper. Assisted by Joseph Young.
+Oregon,Oregon State,35,38,23,26,0,Olaf Schaftenaar Turnover.
+Oregon,Oregon State,35,38,23,32,0,Jordan Bell missed Layup.
+Oregon,Oregon State,35,38,23,32,0,Daniel Gomis Block.
+Oregon,Oregon State,35,38,23,32,0,Jordan Bell Offensive Rebound.
+Oregon,Oregon State,35,38,23,40,0,Foul on Malcolm Duvivier.
+Oregon,Oregon State,36,38,23,40,1,Jalil Abdul-Bassit made Free Throw.
+Oregon,Oregon State,37,38,23,40,1,Jalil Abdul-Bassit made Free Throw.
+Oregon,Oregon State,37,38,23,40,0,Jalil Abdul-Bassit missed Free Throw.
+Oregon,Oregon State,37,38,23,40,0,Dillon Brooks Offensive Rebound.
+Oregon,Oregon State,37,38,23,40,0,Dillon Brooks missed Layup.
+Oregon,Oregon State,37,38,23,40,0,Elgin Cook Offensive Rebound.
+Oregon,Oregon State,39,38,23,47,1,Elgin Cook made Dunk.
+Oregon,Oregon State,39,38,23,48,0,Oregon St  Timeout
+Oregon,Oregon State,39,38,24,12,0,Jarmal Reid missed Jumper.
+Oregon,Oregon State,39,38,24,12,0,Jordan Bell Defensive Rebound.
+Oregon,Oregon State,39,38,24,23,0,Joseph Young missed Jumper.
+Oregon,Oregon State,39,38,24,23,0,Langston Morris-Walker Defensive Rebound.
+Oregon,Oregon State,39,38,24,37,0,Foul on Jordan Bell.
+Oregon,Oregon State,39,38,24,37,0,Official TV Timeout
+Oregon,Oregon State,39,39,24,37,1,Jarmal Reid made Free Throw.
+Oregon,Oregon State,39,40,24,37,1,Jarmal Reid made Free Throw.
+Oregon,Oregon State,39,40,25,6,0,Jalil Abdul-Bassit missed Jumper.
+Oregon,Oregon State,39,40,25,6,0,Elgin Cook Offensive Rebound.
+Oregon,Oregon State,41,40,25,6,1,Elgin Cook made Two Point Tip Shot.
+Oregon,Oregon State,41,40,25,20,0,Foul on Dillon Brooks.
+Oregon,Oregon State,41,41,25,20,1,Jarmal Reid made Free Throw.
+Oregon,Oregon State,41,42,25,20,1,Jarmal Reid made Free Throw.
+Oregon,Oregon State,41,42,25,28,0,Elgin Cook missed Layup.
+Oregon,Oregon State,41,42,25,28,0,Daniel Gomis Defensive Rebound.
+Oregon,Oregon State,41,44,25,38,1,Gary Payton II made Layup.
+Oregon,Oregon State,41,44,26,12,0,Casey Benson missed Three Point Jumper.
+Oregon,Oregon State,41,44,26,12,0,Gary Payton II Defensive Rebound.
+Oregon,Oregon State,41,44,26,28,0,Malcolm Duvivier missed Three Point Jumper.
+Oregon,Oregon State,41,44,26,28,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Oregon State,41,44,26,31,0,Foul on Gary Payton II.
+Oregon,Oregon State,41,44,26,46,0,Foul on Gary Payton II.
+Oregon,Oregon State,41,44,26,47,0,Joseph Young missed Three Point Jumper.
+Oregon,Oregon State,41,44,26,47,0,Elgin Cook Offensive Rebound.
+Oregon,Oregon State,44,44,26,55,1,Dwayne Benjamin made Three Point Jumper. Assisted by Elgin Cook.
+Oregon,Oregon State,44,44,27,8,0,Malcolm Duvivier missed Layup.
+Oregon,Oregon State,44,44,27,8,0,Elgin Cook Defensive Rebound.
+Oregon,Oregon State,44,44,27,15,0,Dwayne Benjamin missed Three Point Jumper.
+Oregon,Oregon State,44,44,27,15,0,Oregon St Defensive Rebound.
+Oregon,Oregon State,44,44,27,22,0,Foul on Elgin Cook.
+Oregon,Oregon State,44,44,27,49,0,Olaf Schaftenaar missed Jumper.
+Oregon,Oregon State,44,44,27,49,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Oregon State,44,44,27,59,0,Foul on Daniel Gomis.
+Oregon,Oregon State,45,44,27,59,1,Joseph Young made Free Throw.
+Oregon,Oregon State,46,44,27,59,1,Joseph Young made Free Throw.
+Oregon,Oregon State,46,44,28,22,0,Jarmal Reid missed Jumper.
+Oregon,Oregon State,46,44,28,22,0,Jordan Bell Block.
+Oregon,Oregon State,46,44,28,22,0,Jordan Bell Defensive Rebound.
+Oregon,Oregon State,48,44,28,31,1,Dwayne Benjamin made Layup. Assisted by Casey Benson.
+Oregon,Oregon State,48,44,28,32,0,Oregon St  Timeout
+Oregon,Oregon State,48,46,29,1,1,Jarmal Reid made Jumper. Assisted by Langston Morris-Walker.
+Oregon,Oregon State,48,46,29,21,0,Ahmaad Rorie Turnover.
+Oregon,Oregon State,48,46,29,21,0,Official TV Timeout
+Oregon,Oregon State,48,46,29,45,0,Langston Morris-Walker missed Three Point Jumper.
+Oregon,Oregon State,48,46,29,45,0,Jordan Bell Defensive Rebound.
+Oregon,Oregon State,48,46,30,13,0,Dwayne Benjamin missed Three Point Jumper.
+Oregon,Oregon State,48,46,30,13,0,Daniel Gomis Defensive Rebound.
+Oregon,Oregon State,48,48,30,36,1,Malcolm Duvivier made Jumper.
+Oregon,Oregon State,48,48,30,59,0,Joseph Young Turnover.
+Oregon,Oregon State,48,48,30,59,0,Malcolm Duvivier Steal.
+Oregon,Oregon State,48,48,31,6,0,Foul on Casey Benson.
+Oregon,Oregon State,48,48,31,6,0,Langston Morris-Walker missed Free Throw.
+Oregon,Oregon State,48,48,31,6,0,Oregon St Deadball Team Rebound.
+Oregon,Oregon State,48,48,31,6,0,Langston Morris-Walker missed Free Throw.
+Oregon,Oregon State,48,48,31,6,0,Malcolm Duvivier Offensive Rebound.
+Oregon,Oregon State,48,48,31,9,0,Malcolm Duvivier missed Layup.
+Oregon,Oregon State,48,48,31,9,0,Langston Morris-Walker Offensive Rebound.
+Oregon,Oregon State,48,48,31,17,0,Malcolm Duvivier missed Layup.
+Oregon,Oregon State,48,48,31,17,0,Ahmaad Rorie Defensive Rebound.
+Oregon,Oregon State,48,48,31,24,0,Dillon Brooks Turnover.
+Oregon,Oregon State,48,48,31,50,0,Malcolm Duvivier missed Three Point Jumper.
+Oregon,Oregon State,48,48,31,50,0,Joseph Young Defensive Rebound.
+Oregon,Oregon State,48,48,31,59,0,Foul on Cheikh N'diaye.
+Oregon,Oregon State,49,48,31,59,1,Dwayne Benjamin made Free Throw.
+Oregon,Oregon State,49,48,31,59,0,Dwayne Benjamin missed Free Throw.
+Oregon,Oregon State,49,48,31,59,0,Jarmal Reid Defensive Rebound.
+Oregon,Oregon State,49,48,32,12,0,Jarmal Reid Turnover.
+Oregon,Oregon State,49,48,32,12,0,Ahmaad Rorie Steal.
+Oregon,Oregon State,49,48,32,21,0,Jalil Abdul-Bassit missed Three Point Jumper.
+Oregon,Oregon State,49,48,32,21,0,Dwayne Benjamin Offensive Rebound.
+Oregon,Oregon State,49,48,32,50,0,Joseph Young missed Jumper.
+Oregon,Oregon State,49,48,32,50,0,Cheikh N'diaye Defensive Rebound.
+Oregon,Oregon State,49,48,33,28,0,Jarmal Reid missed Jumper.
+Oregon,Oregon State,49,48,33,28,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Oregon State,52,48,33,53,1,Jalil Abdul-Bassit made Three Point Jumper. Assisted by Ahmaad Rorie.
+Oregon,Oregon State,52,48,34,2,0,Oregon St  Timeout
+Oregon,Oregon State,52,48,34,16,0,Foul on Jalil Abdul-Bassit.
+Oregon,Oregon State,52,48,34,16,0,Official TV Timeout
+Oregon,Oregon State,52,48,34,18,0,Malcolm Duvivier missed Jumper.
+Oregon,Oregon State,52,48,34,18,0,Gary Payton II Offensive Rebound.
+Oregon,Oregon State,52,50,34,26,1,Gary Payton II made Layup.
+Oregon,Oregon State,52,50,35,2,0,Elgin Cook missed Three Point Jumper.
+Oregon,Oregon State,52,50,35,2,0,Olaf Schaftenaar Defensive Rebound.
+Oregon,Oregon State,52,50,35,22,0,Foul on Dwayne Benjamin.
+Oregon,Oregon State,52,51,35,22,1,Jarmal Reid made Free Throw.
+Oregon,Oregon State,52,52,35,22,1,Jarmal Reid made Free Throw.
+Oregon,Oregon State,52,52,35,48,0,Elgin Cook Turnover.
+Oregon,Oregon State,52,52,35,48,0,Gary Payton II Steal.
+Oregon,Oregon State,52,52,35,53,0,Olaf Schaftenaar missed Three Point Jumper.
+Oregon,Oregon State,52,52,35,53,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Oregon State,52,52,36,2,0,Oregon  Timeout
+Oregon,Oregon State,52,52,36,9,0,Foul on Malcolm Duvivier.
+Oregon,Oregon State,52,52,36,9,0,Official TV Timeout
+Oregon,Oregon State,55,52,36,12,1,Dwayne Benjamin made Three Point Jumper. Assisted by Casey Benson.
+Oregon,Oregon State,55,52,36,28,0,Malcolm Duvivier Turnover.
+Oregon,Oregon State,55,52,36,28,0,Joseph Young Steal.
+Oregon,Oregon State,57,52,36,34,1,Dillon Brooks made Layup. Assisted by Joseph Young.
+Oregon,Oregon State,57,52,36,35,0,Oregon St  Timeout
+Oregon,Oregon State,57,54,36,55,1,Jarmal Reid made Layup. Assisted by Gary Payton II.
+Oregon,Oregon State,57,54,37,21,0,Joseph Young Turnover.
+Oregon,Oregon State,57,54,37,21,0,Gary Payton II Steal.
+Oregon,Oregon State,57,54,37,39,0,Langston Morris-Walker missed Three Point Jumper.
+Oregon,Oregon State,57,54,37,39,0,Jarmal Reid Offensive Rebound.
+Oregon,Oregon State,57,56,37,45,1,Gary Payton II made Layup. Assisted by Jarmal Reid.
+Oregon,Oregon State,57,56,37,58,0,Oregon  Timeout
+Oregon,Oregon State,59,56,38,15,1,Elgin Cook made Layup. Assisted by Dillon Brooks.
+Oregon,Oregon State,59,56,38,15,0,Foul on Daniel Gomis.
+Oregon,Oregon State,59,56,38,15,0,Elgin Cook missed Free Throw.
+Oregon,Oregon State,59,56,38,15,0,Jarmal Reid Defensive Rebound.
+Oregon,Oregon State,59,56,38,31,0,Olaf Schaftenaar Turnover.
+Oregon,Oregon State,59,56,38,31,0,Jordan Bell Steal.
+Oregon,Oregon State,59,56,39,7,0,Jalil Abdul-Bassit missed Three Point Jumper.
+Oregon,Oregon State,59,56,39,7,0,Jalil Abdul-Bassit Offensive Rebound.
+Oregon,Oregon State,59,56,39,22,0,Jalil Abdul-Bassit Turnover.
+Oregon,Oregon State,59,56,39,22,0,Gary Payton II Steal.
+Oregon,Oregon State,59,58,39,27,1,Malcolm Duvivier made Layup. Assisted by Gary Payton II.
+Oregon,Oregon State,59,58,39,34,0,Foul on Olaf Schaftenaar.
+Oregon,Oregon State,60,58,39,34,1,Elgin Cook made Free Throw.
+Oregon,Oregon State,61,58,39,34,1,Elgin Cook made Free Throw.
+Oregon,Oregon State,61,58,39,47,0,Malcolm Duvivier Turnover.
+Oregon,Oregon State,61,58,39,47,0,Joseph Young Steal.
+Oregon,Oregon State,62,58,39,47,1,Dillon Brooks made Free Throw.
+Oregon,Oregon State,63,58,39,47,1,Dillon Brooks made Free Throw.
+Oregon,Oregon State,61,58,39,47,0,Oregon  Timeout
+Oregon,Oregon State,61,58,39,47,0,Foul on Daniel Gomis.
+Oregon,Oregon State,63,61,39,52,1,Olaf Schaftenaar made Three Point Jumper. Assisted by Gary Payton II.
+Oregon,Oregon State,63,61,39,54,0,Foul on Malcolm Duvivier.
+Oregon,Oregon State,64,61,39,55,1,Jalil Abdul-Bassit made Free Throw.
+Oregon,Oregon State,65,61,39,55,1,Jalil Abdul-Bassit made Free Throw.
+Oregon,Oregon State,65,61,39,58,0,Foul on Jordan Bell.
+Oregon,Oregon State,65,62,39,58,1,Gary Payton II made Free Throw.
+Oregon,Oregon State,65,62,40,0,0,End of Game

@@ -1,0 +1,300 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Texas,USC,0,0,0,0,0,Jump Ball won by Texas.
+Texas,USC,0,0,0,25,0,Javan Felix missed Jumper.
+Texas,USC,0,0,0,25,0,Byron Wesley Defensive Rebound.
+Texas,USC,0,0,0,35,0,J.T. Terrell missed Layup.
+Texas,USC,0,0,0,35,0,Ioannis Papapetrou Defensive Rebound.
+Texas,USC,0,0,1,6,0,Foul on J.T. Terrell
+Texas,USC,0,0,1,24,0,Foul on Dewayne Dedmon
+Texas,USC,0,0,1,24,0,Julien Lewis missed Free Throw.
+Texas,USC,0,0,1,24,0,null
+Texas,USC,1,0,1,24,1,Julien Lewis made Free Throw.
+Texas,USC,1,0,1,45,0,Jio Fontan Turnover.
+Texas,USC,1,0,2,0,0,Foul on Julien Lewis
+Texas,USC,1,0,2,0,0,Julien Lewis Turnover.
+Texas,USC,1,0,2,17,0,Foul on Ioannis Papapetrou
+Texas,USC,1,1,2,17,1,Dewayne Dedmon made Free Throw.
+Texas,USC,1,1,2,17,0,Dewayne Dedmon missed Free Throw.
+Texas,USC,1,1,2,17,0,Jonathan Holmes Defensive Rebound.
+Texas,USC,1,1,2,27,0,Ioannis Papapetrou Turnover.
+Texas,USC,1,1,2,27,0,Dewayne Dedmon Steal.
+Texas,USC,1,1,2,38,0,J.T. Terrell missed Three Point Jumper.
+Texas,USC,1,1,2,38,0,Cameron Ridley Defensive Rebound.
+Texas,USC,1,1,3,19,0,Texas Turnover.
+Texas,USC,1,3,3,32,1,Byron Wesley made Jumper.
+Texas,USC,1,3,3,38,0,Javan Felix missed Jumper.
+Texas,USC,1,3,3,38,0,J.T. Terrell Defensive Rebound.
+Texas,USC,1,6,3,47,1,Eric Wise made Three Point Jumper.  Assisted by Jio Fontan.
+Texas,USC,1,6,4,14,0,Official TV Timeout.
+Texas,USC,1,6,4,21,0,Connor Lammert Turnover.
+Texas,USC,1,6,4,21,0,Eric Wise Steal.
+Texas,USC,1,8,4,28,1,Byron Wesley made Jumper.  Assisted by Jio Fontan.
+Texas,USC,1,8,4,54,0,Connor Lammert missed Three Point Jumper.
+Texas,USC,1,8,4,54,0,Cameron Ridley Offensive Rebound.
+Texas,USC,1,8,5,4,0,Cameron Ridley missed Layup.
+Texas,USC,1,8,5,4,0,J.T. Terrell Defensive Rebound.
+Texas,USC,1,8,5,11,0,J.T. Terrell Turnover.
+Texas,USC,1,8,5,11,0,Ioannis Papapetrou Steal.
+Texas,USC,1,8,5,25,0,Foul on J.T. Terrell
+Texas,USC,2,8,5,25,1,Ioannis Papapetrou made Free Throw.
+Texas,USC,3,8,5,25,1,Ioannis Papapetrou made Free Throw.
+Texas,USC,3,10,5,56,1,Omar Oraby made Dunk.  Assisted by Jio Fontan.
+Texas,USC,5,10,6,22,1,Ioannis Papapetrou made Jumper.  Assisted by Prince Ibeh.
+Texas,USC,5,10,6,43,0,Omar Oraby missed Jumper.
+Texas,USC,5,10,6,43,0,Prince Ibeh Block.
+Texas,USC,5,10,6,43,0,USC Offensive Rebound.
+Texas,USC,5,12,6,55,1,Eric Wise made Jumper.  Assisted by Jio Fontan.
+Texas,USC,8,12,7,10,1,Julien Lewis made Three Point Jumper.  Assisted by Javan Felix.
+Texas,USC,8,12,7,29,0,Eric Wise missed Jumper.
+Texas,USC,8,12,7,29,0,Sheldon McClellan Defensive Rebound.
+Texas,USC,10,12,7,36,1,Javan Felix made Jumper.
+Texas,USC,10,12,7,38,0,USC Full Timeout.
+Texas,USC,10,14,8,3,1,Aaron Fuller made Layup.  Assisted by Dewayne Dedmon.
+Texas,USC,10,14,8,27,0,Ioannis Papapetrou Turnover.
+Texas,USC,10,14,8,27,0,Dewayne Dedmon Steal.
+Texas,USC,10,14,8,31,0,Foul on Dewayne Dedmon
+Texas,USC,10,14,8,31,0,Dewayne Dedmon Turnover.
+Texas,USC,10,14,8,31,0,Official TV Timeout.
+Texas,USC,10,14,8,36,0,Sheldon McClellan missed Jumper.
+Texas,USC,10,14,8,36,0,Aaron Fuller Defensive Rebound.
+Texas,USC,10,14,9,4,0,Omar Oraby missed Jumper.
+Texas,USC,10,14,9,4,0,Julien Lewis Defensive Rebound.
+Texas,USC,12,14,9,21,1,Sheldon McClellan made Layup.  Assisted by Julien Lewis.
+Texas,USC,12,14,9,21,0,Byron Wesley missed Three Point Jumper.
+Texas,USC,12,14,9,21,0,null
+Texas,USC,12,14,10,0,0,USC Turnover.
+Texas,USC,12,14,10,13,0,Cameron Ridley missed Jumper.
+Texas,USC,12,14,10,13,0,Texas Offensive Rebound.
+Texas,USC,14,14,10,18,1,Sheldon McClellan made Jumper.  Assisted by Javan Felix.
+Texas,USC,14,14,10,30,0,Foul on Aaron Fuller
+Texas,USC,14,14,10,30,0,Aaron Fuller Turnover.
+Texas,USC,14,14,10,42,0,Cameron Ridley missed Layup.
+Texas,USC,14,14,10,42,0,Omar Oraby Block.
+Texas,USC,14,14,10,42,0,Texas Offensive Rebound.
+Texas,USC,14,14,10,42,0,Foul on Julien Lewis
+Texas,USC,14,14,10,46,0,Julien Lewis Turnover.
+Texas,USC,14,14,10,59,0,Jio Fontan missed Jumper.
+Texas,USC,14,14,10,59,0,USC Offensive Rebound.
+Texas,USC,14,16,11,7,1,Omar Oraby made Layup.  Assisted by Jio Fontan.
+Texas,USC,14,16,11,14,0,Foul on Omar Oraby
+Texas,USC,14,16,11,15,0,Sheldon McClellan missed Jumper.
+Texas,USC,14,16,11,15,0,Omar Oraby Defensive Rebound.
+Texas,USC,14,16,11,24,0,Renaldo Woolridge missed Three Point Jumper.
+Texas,USC,14,16,11,24,0,Demarcus Holland Defensive Rebound.
+Texas,USC,16,16,11,34,1,Sheldon McClellan made Jumper.  Assisted by Javan Felix.
+Texas,USC,16,16,11,53,0,Foul on Cameron Ridley
+Texas,USC,16,16,11,58,0,Aaron Fuller missed Layup.
+Texas,USC,16,16,11,58,0,Prince Ibeh Block.
+Texas,USC,16,16,11,58,0,Javan Felix Defensive Rebound.
+Texas,USC,16,16,12,5,0,Foul on Chass Bryan
+Texas,USC,16,16,12,5,0,Official TV Timeout.
+Texas,USC,17,16,12,5,1,Javan Felix made Free Throw.
+Texas,USC,18,16,12,5,1,Javan Felix made Free Throw.
+Texas,USC,18,16,12,17,0,Jio Fontan Turnover.
+Texas,USC,18,16,12,34,0,Foul on Byron Wesley
+Texas,USC,19,16,12,34,1,Sheldon McClellan made Free Throw.
+Texas,USC,19,16,12,34,0,Sheldon McClellan missed Free Throw.
+Texas,USC,19,16,12,34,0,Byron Wesley Defensive Rebound.
+Texas,USC,19,16,12,43,0,Eric Wise missed Jumper.
+Texas,USC,19,16,12,43,0,Ioannis Papapetrou Block.
+Texas,USC,19,16,12,43,0,USC Offensive Rebound.
+Texas,USC,19,16,13,4,0,Jio Fontan missed Jumper.
+Texas,USC,19,16,13,4,0,Javan Felix Defensive Rebound.
+Texas,USC,19,16,13,16,0,Javan Felix Turnover.
+Texas,USC,19,16,13,16,0,Eric Wise Steal.
+Texas,USC,19,18,13,20,1,Byron Wesley made Layup.  Assisted by Eric Wise.
+Texas,USC,21,18,13,40,1,Sheldon McClellan made Layup.  Assisted by Ioannis Papapetrou.
+Texas,USC,21,18,14,4,0,Jio Fontan missed Layup.
+Texas,USC,21,18,14,4,0,Javan Felix Defensive Rebound.
+Texas,USC,23,18,14,10,1,Ioannis Papapetrou made Layup.  Assisted by Javan Felix.
+Texas,USC,23,18,14,15,0,USC Full Timeout.
+Texas,USC,23,20,14,26,1,Byron Wesley made Layup.
+Texas,USC,23,20,14,47,0,Javan Felix missed Three Point Jumper.
+Texas,USC,23,20,14,47,0,Omar Oraby Defensive Rebound.
+Texas,USC,23,22,15,5,1,Eric Wise made Jumper.
+Texas,USC,25,22,15,28,1,Javan Felix made Jumper.  Assisted by Ioannis Papapetrou.
+Texas,USC,25,24,15,58,1,Eric Wise made Layup.  Assisted by Chass Bryan.
+Texas,USC,25,24,16,14,0,Foul on Omar Oraby
+Texas,USC,25,24,16,14,0,Official TV Timeout.
+Texas,USC,25,24,16,14,0,Cameron Ridley missed Free Throw.
+Texas,USC,25,24,16,14,0,null
+Texas,USC,26,24,16,14,1,Cameron Ridley made Free Throw.
+Texas,USC,26,24,16,36,0,Greg Allen Turnover.
+Texas,USC,26,24,16,36,0,Javan Felix Steal.
+Texas,USC,26,24,16,41,0,Demarcus Holland missed Layup.
+Texas,USC,26,24,16,41,0,USC Defensive Rebound.
+Texas,USC,26,24,16,58,0,Byron Wesley Turnover.
+Texas,USC,26,24,17,18,0,Prince Ibeh Turnover.
+Texas,USC,26,24,17,27,0,Jio Fontan missed Jumper.
+Texas,USC,26,24,17,27,0,Jio Fontan Offensive Rebound.
+Texas,USC,26,24,17,43,0,Foul on Connor Lammert
+Texas,USC,26,25,17,43,1,Jio Fontan made Free Throw.
+Texas,USC,26,25,17,43,0,Jio Fontan missed Free Throw.
+Texas,USC,26,25,17,43,0,USC Offensive Rebound.
+Texas,USC,26,25,18,1,0,Foul on Jonathan Holmes
+Texas,USC,26,25,18,1,0,Eric Wise missed Free Throw.
+Texas,USC,26,25,18,1,0,null
+Texas,USC,26,26,18,1,1,Eric Wise made Free Throw.
+Texas,USC,26,26,18,26,0,Jonathan Holmes Turnover.
+Texas,USC,26,26,18,28,0,Jio Fontan missed Jumper.
+Texas,USC,26,26,18,29,0,Demarcus Holland Block.
+Texas,USC,26,26,18,30,0,Eric Wise Offensive Rebound.
+Texas,USC,26,26,18,32,0,Eric Wise missed Jumper.
+Texas,USC,26,26,18,32,0,Prince Ibeh Block.
+Texas,USC,26,26,18,32,0,Sheldon McClellan Defensive Rebound.
+Texas,USC,26,26,18,57,0,Javan Felix missed Layup.
+Texas,USC,26,26,18,57,0,James Blasczyk Defensive Rebound.
+Texas,USC,26,26,19,29,0,Chass Bryan Turnover.
+Texas,USC,26,26,19,29,0,Javan Felix Steal.
+Texas,USC,26,26,19,29,0,Texas Full Timeout.
+Texas,USC,26,26,19,56,0,Sheldon McClellan Turnover.
+Texas,USC,26,26,19,56,0,James Blasczyk Steal.
+Texas,USC,26,26,20,0,0,End of the 1st Half.
+Texas,USC,26,26,20,0,0,Jump Ball won by Texas.
+Texas,USC,26,26,20,13,0,Jonathan Holmes Turnover.
+Texas,USC,26,26,20,13,0,Eric Wise Steal.
+Texas,USC,26,26,20,21,0,Foul on Eric Wise
+Texas,USC,26,26,20,21,0,Eric Wise Turnover.
+Texas,USC,28,26,20,47,1,Julien Lewis made Layup.  Assisted by Ioannis Papapetrou.
+Texas,USC,28,28,21,12,1,Dewayne Dedmon made Layup.
+Texas,USC,28,28,21,21,0,Javan Felix missed Jumper.
+Texas,USC,28,28,21,21,0,Texas Offensive Rebound.
+Texas,USC,28,28,21,31,0,Ioannis Papapetrou missed Jumper.
+Texas,USC,28,28,21,31,0,Eric Wise Defensive Rebound.
+Texas,USC,28,30,21,39,1,Byron Wesley made Dunk.  Assisted by Jio Fontan.
+Texas,USC,28,30,21,44,0,Texas Full Timeout.
+Texas,USC,28,30,22,10,0,Ioannis Papapetrou missed Layup.
+Texas,USC,28,30,22,10,0,Jonathan Holmes Offensive Rebound.
+Texas,USC,30,30,22,16,1,Jonathan Holmes made Layup.
+Texas,USC,30,30,22,34,0,Dewayne Dedmon missed Jumper.
+Texas,USC,30,30,22,34,0,Ioannis Papapetrou Defensive Rebound.
+Texas,USC,30,30,23,6,0,Ioannis Papapetrou Turnover.
+Texas,USC,30,30,23,22,0,Dewayne Dedmon missed Jumper.
+Texas,USC,30,30,23,22,0,Sheldon McClellan Defensive Rebound.
+Texas,USC,30,30,23,44,0,Ioannis Papapetrou missed Layup.
+Texas,USC,30,30,23,44,0,Dewayne Dedmon Block.
+Texas,USC,30,30,23,44,0,J.T. Terrell Defensive Rebound.
+Texas,USC,30,30,23,54,0,Foul on Prince Ibeh
+Texas,USC,30,32,24,6,1,Jio Fontan made Jumper.  Assisted by Dewayne Dedmon.
+Texas,USC,30,32,24,10,0,Foul on Javan Felix
+Texas,USC,30,32,24,10,0,Javan Felix Turnover.
+Texas,USC,30,32,24,10,0,Official TV Timeout.
+Texas,USC,30,32,24,23,0,Byron Wesley missed Layup.
+Texas,USC,30,32,24,23,0,Cameron Ridley Block.
+Texas,USC,30,32,24,23,0,USC Offensive Rebound.
+Texas,USC,30,32,24,33,0,J.T. Terrell missed Three Point Jumper.
+Texas,USC,30,32,24,33,0,Dewayne Dedmon Offensive Rebound.
+Texas,USC,30,32,24,50,0,Dewayne Dedmon missed Layup.
+Texas,USC,30,32,24,50,0,Dewayne Dedmon Offensive Rebound.
+Texas,USC,30,32,24,57,0,Dewayne Dedmon missed Jumper.
+Texas,USC,30,32,24,57,0,USC Offensive Rebound.
+Texas,USC,30,32,25,14,0,J.T. Terrell missed Jumper.
+Texas,USC,30,32,25,14,0,Jonathan Holmes Defensive Rebound.
+Texas,USC,32,32,25,21,1,Ioannis Papapetrou made Layup.  Assisted by Javan Felix.
+Texas,USC,32,32,25,45,0,Jio Fontan missed Jumper.
+Texas,USC,32,32,25,45,0,Jonathan Holmes Defensive Rebound.
+Texas,USC,32,32,25,51,0,Sheldon McClellan missed Three Point Jumper.
+Texas,USC,32,32,25,51,0,Byron Wesley Defensive Rebound.
+Texas,USC,32,32,26,3,0,Omar Oraby missed Jumper.
+Texas,USC,32,32,26,3,0,Jonathan Holmes Defensive Rebound.
+Texas,USC,34,32,26,21,1,Cameron Ridley made Dunk.  Assisted by Sheldon McClellan.
+Texas,USC,34,32,26,54,0,Aaron Fuller missed Jumper.
+Texas,USC,34,32,26,54,0,Jonathan Holmes Defensive Rebound.
+Texas,USC,34,32,27,2,0,Cameron Ridley missed Jumper.
+Texas,USC,34,32,27,3,0,USC Defensive Rebound.
+Texas,USC,34,32,27,15,0,Omar Oraby missed Layup.
+Texas,USC,34,32,27,15,0,Omar Oraby Offensive Rebound.
+Texas,USC,34,34,27,22,1,Omar Oraby made Layup.
+Texas,USC,34,34,27,36,0,Sheldon McClellan missed Jumper.
+Texas,USC,34,34,27,36,0,Omar Oraby Defensive Rebound.
+Texas,USC,34,34,27,43,0,Jio Fontan missed Jumper.
+Texas,USC,34,34,27,43,0,Cameron Ridley Defensive Rebound.
+Texas,USC,34,34,27,53,0,Foul on Jio Fontan
+Texas,USC,34,34,28,7,0,Julien Lewis missed Jumper.
+Texas,USC,34,34,28,7,0,Prince Ibeh Offensive Rebound.
+Texas,USC,34,34,28,13,0,Prince Ibeh missed Layup.
+Texas,USC,34,34,28,13,0,Dewayne Dedmon Defensive Rebound.
+Texas,USC,34,37,28,20,1,J.T. Terrell made Three Point Jumper.  Assisted by Chass Bryan.
+Texas,USC,34,37,28,44,0,Connor Lammert missed Three Point Jumper.
+Texas,USC,34,37,28,44,0,Byron Wesley Defensive Rebound.
+Texas,USC,34,37,29,6,0,Dewayne Dedmon missed Jumper.
+Texas,USC,34,37,29,6,0,Prince Ibeh Defensive Rebound.
+Texas,USC,34,37,29,28,0,Ioannis Papapetrou Turnover.
+Texas,USC,34,37,29,28,0,Official TV Timeout.
+Texas,USC,34,37,29,45,0,Dewayne Dedmon missed Jumper.
+Texas,USC,34,37,29,45,0,Prince Ibeh Block.
+Texas,USC,34,37,29,45,0,Julien Lewis Defensive Rebound.
+Texas,USC,36,37,30,8,1,Julien Lewis made Jumper.  Assisted by Javan Felix.
+Texas,USC,36,37,30,30,0,Eric Wise missed Jumper.
+Texas,USC,36,37,30,30,0,Javan Felix Defensive Rebound.
+Texas,USC,36,37,30,54,0,Sheldon McClellan Turnover.
+Texas,USC,36,37,31,9,0,Jio Fontan missed Jumper.
+Texas,USC,36,37,31,9,0,Eric Wise Offensive Rebound.
+Texas,USC,36,37,31,21,0,Jio Fontan missed Three Point Jumper.
+Texas,USC,36,37,31,21,0,Sheldon McClellan Defensive Rebound.
+Texas,USC,36,37,31,47,0,Javan Felix missed Jumper.
+Texas,USC,36,37,31,47,0,Eric Wise Defensive Rebound.
+Texas,USC,36,37,31,57,0,Foul on Ioannis Papapetrou
+Texas,USC,36,37,31,57,0,Eric Wise missed Free Throw.
+Texas,USC,36,37,31,57,0,null
+Texas,USC,36,38,31,57,1,Eric Wise made Free Throw.
+Texas,USC,39,38,32,19,1,Julien Lewis made Three Point Jumper.
+Texas,USC,39,38,32,38,0,Omar Oraby missed Jumper.
+Texas,USC,39,38,32,38,0,Jonathan Holmes Defensive Rebound.
+Texas,USC,39,38,32,48,0,Jonathan Holmes missed Jumper.
+Texas,USC,39,38,32,48,0,Omar Oraby Block.
+Texas,USC,39,38,32,48,0,Aaron Fuller Defensive Rebound.
+Texas,USC,39,40,32,55,1,Jio Fontan made Layup.
+Texas,USC,39,40,32,55,0,USC Full Timeout.
+Texas,USC,41,40,33,10,1,Cameron Ridley made Jumper.
+Texas,USC,41,40,33,43,0,Chass Bryan missed Three Point Jumper.
+Texas,USC,41,40,33,43,0,Julien Lewis Defensive Rebound.
+Texas,USC,43,40,34,6,1,Cameron Ridley made Layup.  Assisted by Julien Lewis.
+Texas,USC,43,42,34,23,1,Jio Fontan made Jumper.
+Texas,USC,43,42,34,23,0,Foul on Demarcus Holland
+Texas,USC,43,42,34,23,0,Official TV Timeout.
+Texas,USC,43,42,34,23,0,Jio Fontan missed Free Throw.
+Texas,USC,43,42,34,23,0,Jonathan Holmes Defensive Rebound.
+Texas,USC,43,42,34,47,0,Jonathan Holmes missed Three Point Jumper.
+Texas,USC,43,42,34,47,0,Dewayne Dedmon Defensive Rebound.
+Texas,USC,43,42,35,19,0,Dewayne Dedmon missed Jumper.
+Texas,USC,43,42,35,19,0,Javan Felix Defensive Rebound.
+Texas,USC,43,42,35,27,0,Javan Felix missed Jumper.
+Texas,USC,43,42,35,27,0,Dewayne Dedmon Defensive Rebound.
+Texas,USC,43,42,35,33,0,J.T. Terrell missed Jumper.
+Texas,USC,43,42,35,33,0,Javan Felix Defensive Rebound.
+Texas,USC,43,42,35,59,0,Sheldon McClellan missed Three Point Jumper.
+Texas,USC,43,42,35,59,0,Dewayne Dedmon Defensive Rebound.
+Texas,USC,43,42,36,9,0,Foul on Cameron Ridley
+Texas,USC,43,42,36,9,0,Official TV Timeout.
+Texas,USC,43,43,36,9,1,Jio Fontan made Free Throw.
+Texas,USC,43,43,36,9,0,null
+Texas,USC,43,43,36,9,0,Jio Fontan missed Free Throw.
+Texas,USC,43,43,36,9,0,Sheldon McClellan Defensive Rebound.
+Texas,USC,43,43,36,40,0,Foul on Dewayne Dedmon
+Texas,USC,44,43,36,40,1,Julien Lewis made Free Throw.
+Texas,USC,45,43,36,40,1,Julien Lewis made Free Throw.
+Texas,USC,45,45,36,57,1,Dewayne Dedmon made Jumper.
+Texas,USC,45,45,37,20,0,Ioannis Papapetrou missed Jumper.
+Texas,USC,45,45,37,20,0,USC Defensive Rebound.
+Texas,USC,45,45,37,39,0,Byron Wesley missed Jumper.
+Texas,USC,45,45,37,39,0,Dewayne Dedmon Offensive Rebound.
+Texas,USC,45,45,37,50,0,J.T. Terrell missed Three Point Jumper.
+Texas,USC,45,45,37,50,0,Byron Wesley Offensive Rebound.
+Texas,USC,45,45,37,55,0,Foul on Prince Ibeh
+Texas,USC,45,45,38,8,0,Dewayne Dedmon Turnover.
+Texas,USC,45,45,38,8,0,Foul on Dewayne Dedmon
+Texas,USC,45,45,38,8,0,Texas Full Timeout.
+Texas,USC,47,45,38,23,1,Julien Lewis made Jumper.  Assisted by Javan Felix.
+Texas,USC,47,45,38,48,0,Jio Fontan missed Three Point Jumper.
+Texas,USC,47,45,38,48,0,USC Offensive Rebound.
+Texas,USC,47,45,38,53,0,J.T. Terrell missed Jumper.
+Texas,USC,47,45,38,53,0,Sheldon McClellan Defensive Rebound.
+Texas,USC,47,45,39,30,0,Javan Felix missed Jumper.
+Texas,USC,47,45,39,30,0,Dewayne Dedmon Block.
+Texas,USC,47,45,39,30,0,Dewayne Dedmon Defensive Rebound.
+Texas,USC,47,47,39,42,1,J.T. Terrell made Dunk.  Assisted by Dewayne Dedmon.
+Texas,USC,47,47,39,42,0,Texas Full Timeout.
+Texas,USC,47,47,39,55,0,Julien Lewis missed Three Point Jumper.
+Texas,USC,47,47,39,55,0,Byron Wesley Defensive Rebound.
+Texas,USC,47,47,40,0,0,End of the 2nd Half.

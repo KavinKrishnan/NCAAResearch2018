@@ -1,0 +1,330 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Iowa,Indiana,0,0,0,0,0,Jump Ball won by Iowa
+Iowa,Indiana,0,0,0,9,0,Peter Jok Turnover.
+Iowa,Indiana,0,3,0,25,1,Yogi Ferrell made Three Point Jumper. Assisted by Robert Johnson.
+Iowa,Indiana,2,3,0,39,1,Aaron White made Jumper.
+Iowa,Indiana,2,3,1,9,0,James Blackmon Jr. Turnover.
+Iowa,Indiana,2,3,1,9,0,Peter Jok Steal.
+Iowa,Indiana,2,3,1,15,0,Foul on James Blackmon Jr..
+Iowa,Indiana,3,3,1,15,1,Peter Jok made Free Throw.
+Iowa,Indiana,4,3,1,15,1,Peter Jok made Free Throw.
+Iowa,Indiana,4,3,1,29,0,James Blackmon Jr. missed Three Point Jumper.
+Iowa,Indiana,4,3,1,29,0,Troy Williams Offensive Rebound.
+Iowa,Indiana,4,3,1,35,0,Troy Williams missed Layup.
+Iowa,Indiana,4,3,1,35,0,Adam Woodbury Defensive Rebound.
+Iowa,Indiana,4,3,1,41,0,Peter Jok missed Three Point Jumper.
+Iowa,Indiana,4,3,1,41,0,Troy Williams Defensive Rebound.
+Iowa,Indiana,4,5,1,53,1,James Blackmon Jr. made Layup.
+Iowa,Indiana,4,5,1,58,0,Peter Jok Turnover.
+Iowa,Indiana,4,5,1,58,0,Troy Williams Steal.
+Iowa,Indiana,4,5,1,58,0,Jump Ball won by Indiana
+Iowa,Indiana,4,7,2,5,1,Troy Williams made Layup.
+Iowa,Indiana,4,7,2,25,0,Mike Gesell Turnover.
+Iowa,Indiana,4,7,2,25,0,Hanner Mosquera-Perea Steal.
+Iowa,Indiana,4,7,2,38,0,Yogi Ferrell missed Three Point Jumper.
+Iowa,Indiana,4,7,2,38,0,Aaron White Defensive Rebound.
+Iowa,Indiana,4,7,2,55,0,Adam Woodbury missed Jumper.
+Iowa,Indiana,4,7,2,55,0,Hanner Mosquera-Perea Defensive Rebound.
+Iowa,Indiana,4,7,3,20,0,James Blackmon Jr. Turnover.
+Iowa,Indiana,4,7,3,20,0,Jarrod Uthoff Steal.
+Iowa,Indiana,6,7,3,28,1,Mike Gesell made Jumper. Assisted by Anthony Clemmons.
+Iowa,Indiana,6,7,4,12,0,Official TV Timeout
+Iowa,Indiana,6,10,4,14,1,Nick Zeisloft made Three Point Jumper.
+Iowa,Indiana,6,10,4,34,0,Peter Jok Turnover.
+Iowa,Indiana,6,10,4,34,0,Yogi Ferrell Steal.
+Iowa,Indiana,6,10,4,41,0,Stanford Robinson Turnover.
+Iowa,Indiana,8,10,4,56,1,Aaron White made Layup. Assisted by Gabriel Olaseni.
+Iowa,Indiana,8,10,5,11,0,Troy Williams missed Layup.
+Iowa,Indiana,8,10,5,11,0,Gabriel Olaseni Defensive Rebound.
+Iowa,Indiana,8,10,5,30,0,Foul on Stanford Robinson.
+Iowa,Indiana,8,10,5,48,0,Foul on Emmitt Holt.
+Iowa,Indiana,9,10,5,48,1,Aaron White made Free Throw.
+Iowa,Indiana,10,10,5,48,1,Aaron White made Free Throw.
+Iowa,Indiana,10,10,5,55,0,Stanford Robinson missed Layup.
+Iowa,Indiana,10,10,5,55,0,Troy Williams Offensive Rebound.
+Iowa,Indiana,10,13,6,11,1,Nick Zeisloft made Three Point Jumper. Assisted by Stanford Robinson.
+Iowa,Indiana,10,13,6,41,0,Foul on Stanford Robinson.
+Iowa,Indiana,11,13,6,41,1,Gabriel Olaseni made Free Throw.
+Iowa,Indiana,11,13,6,41,0,Gabriel Olaseni missed Free Throw.
+Iowa,Indiana,11,13,6,41,0,Emmitt Holt Defensive Rebound.
+Iowa,Indiana,11,15,6,52,1,Emmitt Holt made Layup. Assisted by James Blackmon Jr..
+Iowa,Indiana,11,15,7,3,0,Anthony Clemmons missed Layup.
+Iowa,Indiana,11,15,7,3,0,Emmitt Holt Defensive Rebound.
+Iowa,Indiana,11,15,7,11,0,Jump Ball won by Iowa
+Iowa,Indiana,11,15,7,11,0,James Blackmon Jr. Turnover.
+Iowa,Indiana,11,15,7,11,0,Mike Gesell Steal.
+Iowa,Indiana,13,15,7,19,1,Jarrod Uthoff made Jumper. Assisted by Peter Jok.
+Iowa,Indiana,13,15,7,38,0,Foul on Max Hoetzel.
+Iowa,Indiana,13,15,7,38,0,Max Hoetzel Turnover.
+Iowa,Indiana,13,15,7,55,0,Gabriel Olaseni missed Jumper.
+Iowa,Indiana,13,15,7,55,0,Robert Johnson Defensive Rebound.
+Iowa,Indiana,13,15,8,3,0,Robert Johnson Turnover.
+Iowa,Indiana,13,15,8,3,0,Anthony Clemmons Steal.
+Iowa,Indiana,13,15,8,9,0,Gabriel Olaseni missed Layup.
+Iowa,Indiana,13,15,8,9,0,James Blackmon Jr. Defensive Rebound.
+Iowa,Indiana,13,15,8,18,0,Official TV Timeout
+Iowa,Indiana,13,15,8,18,0,Foul on Josh Oglesby.
+Iowa,Indiana,13,15,8,30,0,James Blackmon Jr. missed Three Point Jumper.
+Iowa,Indiana,13,15,8,30,0,Peter Jok Defensive Rebound.
+Iowa,Indiana,13,15,8,50,0,Foul on Adam Woodbury.
+Iowa,Indiana,13,15,8,50,0,Adam Woodbury Turnover.
+Iowa,Indiana,13,17,8,59,1,Yogi Ferrell made Jumper.
+Iowa,Indiana,15,17,9,16,1,Jarrod Uthoff made Jumper.
+Iowa,Indiana,15,19,9,44,1,Hanner Mosquera-Perea made Layup.
+Iowa,Indiana,17,19,9,55,1,Mike Gesell made Jumper. Assisted by Peter Jok.
+Iowa,Indiana,17,19,10,9,0,Robert Johnson missed Three Point Jumper.
+Iowa,Indiana,17,19,10,9,0,Iowa Defensive Rebound.
+Iowa,Indiana,17,19,10,13,0,Foul on Hanner Mosquera-Perea.
+Iowa,Indiana,17,19,10,16,0,Peter Jok missed Three Point Jumper.
+Iowa,Indiana,17,19,10,16,0,James Blackmon Jr. Defensive Rebound.
+Iowa,Indiana,17,19,10,27,0,James Blackmon Jr. missed Three Point Jumper.
+Iowa,Indiana,17,19,10,27,0,Jarrod Uthoff Defensive Rebound.
+Iowa,Indiana,17,19,10,37,0,Mike Gesell missed Jumper.
+Iowa,Indiana,17,19,10,37,0,Adam Woodbury Offensive Rebound.
+Iowa,Indiana,17,19,10,47,0,Foul on James Blackmon Jr..
+Iowa,Indiana,18,19,10,47,1,Jarrod Uthoff made Free Throw.
+Iowa,Indiana,19,19,10,47,1,Jarrod Uthoff made Free Throw.
+Iowa,Indiana,19,19,11,4,0,Foul on Mike Gesell.
+Iowa,Indiana,19,19,11,4,0,Troy Williams missed Free Throw.
+Iowa,Indiana,19,19,11,4,0,Indiana Deadball Team Rebound.
+Iowa,Indiana,19,20,11,4,1,Troy Williams made Free Throw.
+Iowa,Indiana,19,20,11,29,0,Josh Oglesby missed Three Point Jumper.
+Iowa,Indiana,19,20,11,29,0,Troy Williams Defensive Rebound.
+Iowa,Indiana,19,20,11,40,0,Troy Williams missed Layup.
+Iowa,Indiana,19,20,11,40,0,Iowa Defensive Rebound.
+Iowa,Indiana,21,20,11,58,1,Adam Woodbury made Layup. Assisted by Mike Gesell.
+Iowa,Indiana,21,20,12,30,0,Troy Williams missed Jumper.
+Iowa,Indiana,21,20,12,30,0,Indiana Deadball Team Rebound.
+Iowa,Indiana,21,20,12,38,0,Indiana  Turnover.
+Iowa,Indiana,21,20,12,38,0,Official TV Timeout
+Iowa,Indiana,23,20,13,3,1,Adam Woodbury made Layup.
+Iowa,Indiana,23,20,13,32,0,Foul on Aaron White.
+Iowa,Indiana,23,21,13,32,1,Stanford Robinson made Free Throw.
+Iowa,Indiana,23,22,13,32,1,Stanford Robinson made Free Throw.
+Iowa,Indiana,23,22,13,48,0,Anthony Clemmons missed Layup.
+Iowa,Indiana,23,22,13,48,0,Hanner Mosquera-Perea Block.
+Iowa,Indiana,23,22,13,48,0,Iowa Offensive Rebound.
+Iowa,Indiana,23,22,13,52,0,Peter Jok missed Three Point Jumper.
+Iowa,Indiana,23,22,13,52,0,Yogi Ferrell Defensive Rebound.
+Iowa,Indiana,23,24,14,0,1,Hanner Mosquera-Perea made Layup. Assisted by Yogi Ferrell.
+Iowa,Indiana,25,24,14,18,1,Gabriel Olaseni made Layup. Assisted by Dominque Uhl.
+Iowa,Indiana,25,24,14,52,0,Nick Zeisloft missed Three Point Jumper.
+Iowa,Indiana,25,24,14,52,0,Peter Jok Defensive Rebound.
+Iowa,Indiana,25,24,14,56,0,Peter Jok Turnover.
+Iowa,Indiana,25,24,15,28,0,Yogi Ferrell missed Layup.
+Iowa,Indiana,25,24,15,28,0,Emmitt Holt Offensive Rebound.
+Iowa,Indiana,25,24,15,33,0,Emmitt Holt missed Layup.
+Iowa,Indiana,25,24,15,33,0,Jarrod Uthoff Defensive Rebound.
+Iowa,Indiana,25,24,16,2,0,Mike Gesell missed Layup.
+Iowa,Indiana,25,24,16,2,0,Troy Williams Defensive Rebound.
+Iowa,Indiana,25,24,16,5,0,Foul on Mike Gesell.
+Iowa,Indiana,25,24,16,5,0,Official TV Timeout
+Iowa,Indiana,25,24,16,33,0,Robert Johnson missed Three Point Jumper.
+Iowa,Indiana,25,24,16,33,0,Jarrod Uthoff Block.
+Iowa,Indiana,25,24,16,33,0,Emmitt Holt Offensive Rebound.
+Iowa,Indiana,25,24,16,41,0,Indiana  Turnover.
+Iowa,Indiana,25,24,16,54,0,Aaron White missed Jumper.
+Iowa,Indiana,25,24,16,54,0,Gabriel Olaseni Offensive Rebound.
+Iowa,Indiana,25,24,16,54,0,Gabriel Olaseni missed Two Point Tip Shot.
+Iowa,Indiana,25,24,16,54,0,Troy Williams Defensive Rebound.
+Iowa,Indiana,25,24,17,5,0,Foul on Anthony Clemmons.
+Iowa,Indiana,25,24,17,23,0,Robert Johnson missed Three Point Jumper.
+Iowa,Indiana,25,24,17,23,0,Peter Jok Defensive Rebound.
+Iowa,Indiana,25,24,17,29,0,Foul on Troy Williams.
+Iowa,Indiana,25,24,17,29,0,Peter Jok missed Free Throw.
+Iowa,Indiana,25,24,17,29,0,Aaron White Offensive Rebound.
+Iowa,Indiana,28,24,17,45,1,Jarrod Uthoff made Three Point Jumper. Assisted by Anthony Clemmons.
+Iowa,Indiana,28,24,18,22,0,Foul on Gabriel Olaseni.
+Iowa,Indiana,28,25,18,22,1,Yogi Ferrell made Free Throw.
+Iowa,Indiana,28,26,18,22,1,Yogi Ferrell made Free Throw.
+Iowa,Indiana,28,26,18,33,0,Foul on Hanner Mosquera-Perea.
+Iowa,Indiana,29,26,18,33,1,Gabriel Olaseni made Free Throw.
+Iowa,Indiana,30,26,18,33,1,Gabriel Olaseni made Free Throw.
+Iowa,Indiana,30,26,18,51,0,Robert Johnson missed Three Point Jumper.
+Iowa,Indiana,30,26,18,51,0,Troy Williams Offensive Rebound.
+Iowa,Indiana,30,26,18,55,0,Troy Williams missed Layup.
+Iowa,Indiana,30,26,18,55,0,Hanner Mosquera-Perea Offensive Rebound.
+Iowa,Indiana,30,26,19,0,0,Hanner Mosquera-Perea missed Layup.
+Iowa,Indiana,30,26,19,1,0,Jarrod Uthoff Block.
+Iowa,Indiana,30,26,19,2,0,Peter Jok Defensive Rebound.
+Iowa,Indiana,30,26,19,3,0,Peter Jok Turnover.
+Iowa,Indiana,30,26,19,3,0,Robert Johnson Steal.
+Iowa,Indiana,30,26,19,8,0,Robert Johnson Turnover.
+Iowa,Indiana,30,26,19,8,0,Jarrod Uthoff Steal.
+Iowa,Indiana,30,26,19,13,0,Iowa  Timeout
+Iowa,Indiana,32,26,19,37,1,Aaron White made Layup.
+Iowa,Indiana,32,26,19,50,0,Indiana  Timeout
+Iowa,Indiana,32,28,19,59,1,Robert Johnson made Jumper.
+Iowa,Indiana,32,28,20,0,0,End of 1st half
+Iowa,Indiana,32,28,20,0,0,Jump Ball won by Indiana
+Iowa,Indiana,32,28,20,31,0,Foul on Peter Jok.
+Iowa,Indiana,32,28,20,43,0,Hanner Mosquera-Perea missed Layup.
+Iowa,Indiana,32,28,20,43,0,Jarrod Uthoff Defensive Rebound.
+Iowa,Indiana,32,28,20,57,0,Adam Woodbury missed Jumper.
+Iowa,Indiana,32,28,20,57,0,Troy Williams Defensive Rebound.
+Iowa,Indiana,32,31,21,12,1,James Blackmon Jr. made Three Point Jumper. Assisted by Troy Williams.
+Iowa,Indiana,32,31,21,31,0,Peter Jok missed Jumper.
+Iowa,Indiana,32,31,21,31,0,Peter Jok Offensive Rebound.
+Iowa,Indiana,32,31,21,53,0,Adam Woodbury missed Layup.
+Iowa,Indiana,32,31,21,53,0,Adam Woodbury Offensive Rebound.
+Iowa,Indiana,34,31,21,56,1,Adam Woodbury made Layup.
+Iowa,Indiana,34,31,22,19,0,Foul on Yogi Ferrell.
+Iowa,Indiana,34,31,22,19,0,Yogi Ferrell Turnover.
+Iowa,Indiana,34,31,22,40,0,Foul on Adam Woodbury.
+Iowa,Indiana,34,31,22,40,0,Adam Woodbury Turnover.
+Iowa,Indiana,34,31,22,57,0,Robert Johnson Turnover.
+Iowa,Indiana,34,31,22,57,0,Gabriel Olaseni Steal.
+Iowa,Indiana,34,31,23,3,0,Anthony Clemmons missed Layup.
+Iowa,Indiana,34,31,23,3,0,Gabriel Olaseni Offensive Rebound.
+Iowa,Indiana,36,31,23,9,1,Gabriel Olaseni made Dunk.
+Iowa,Indiana,36,31,23,21,0,Foul on Mike Gesell.
+Iowa,Indiana,36,31,23,36,0,James Blackmon Jr. missed Three Point Jumper.
+Iowa,Indiana,36,31,23,36,0,Gabriel Olaseni Defensive Rebound.
+Iowa,Indiana,36,31,23,41,0,Foul on Hanner Mosquera-Perea.
+Iowa,Indiana,38,31,24,0,1,Aaron White made Jumper.
+Iowa,Indiana,38,31,24,16,0,Yogi Ferrell missed Layup.
+Iowa,Indiana,38,31,24,16,0,Jarrod Uthoff Defensive Rebound.
+Iowa,Indiana,38,31,24,30,0,Aaron White missed Jumper.
+Iowa,Indiana,38,31,24,30,0,Emmitt Holt Defensive Rebound.
+Iowa,Indiana,38,31,24,58,0,Troy Williams missed Layup.
+Iowa,Indiana,38,31,24,58,0,Gabriel Olaseni Block.
+Iowa,Indiana,38,31,24,58,0,Gabriel Olaseni Defensive Rebound.
+Iowa,Indiana,40,31,25,6,1,Aaron White made Layup. Assisted by Josh Oglesby.
+Iowa,Indiana,40,31,25,10,0,Indiana  Timeout
+Iowa,Indiana,40,33,25,26,1,Emmitt Holt made Layup. Assisted by Troy Williams.
+Iowa,Indiana,42,33,25,35,1,Aaron White made Dunk. Assisted by Josh Oglesby.
+Iowa,Indiana,42,33,25,54,0,Troy Williams missed Layup.
+Iowa,Indiana,42,33,25,54,0,Gabriel Olaseni Defensive Rebound.
+Iowa,Indiana,44,33,26,4,1,Gabriel Olaseni made Jumper. Assisted by Anthony Clemmons.
+Iowa,Indiana,44,35,26,24,1,Troy Williams made Layup. Assisted by Yogi Ferrell.
+Iowa,Indiana,44,35,26,33,0,Anthony Clemmons Turnover.
+Iowa,Indiana,44,35,26,33,0,Official TV Timeout
+Iowa,Indiana,44,38,26,55,1,Yogi Ferrell made Three Point Jumper. Assisted by Stanford Robinson.
+Iowa,Indiana,46,38,27,8,1,Gabriel Olaseni made Jumper.
+Iowa,Indiana,46,40,27,18,1,James Blackmon Jr. made Layup.
+Iowa,Indiana,46,40,27,25,0,Foul on Emmitt Holt.
+Iowa,Indiana,46,40,27,39,0,Josh Oglesby Turnover.
+Iowa,Indiana,46,40,27,48,0,Yogi Ferrell Turnover.
+Iowa,Indiana,46,40,27,48,0,Jarrod Uthoff Steal.
+Iowa,Indiana,46,40,27,57,0,Josh Oglesby missed Three Point Jumper.
+Iowa,Indiana,46,40,27,57,0,Hanner Mosquera-Perea Defensive Rebound.
+Iowa,Indiana,46,40,28,6,0,James Blackmon Jr. missed Layup.
+Iowa,Indiana,46,40,28,6,0,Gabriel Olaseni Block.
+Iowa,Indiana,46,40,28,6,0,Aaron White Defensive Rebound.
+Iowa,Indiana,46,40,28,30,0,Aaron White missed Layup.
+Iowa,Indiana,46,40,28,30,0,Gabriel Olaseni Offensive Rebound.
+Iowa,Indiana,48,40,28,38,1,Gabriel Olaseni made Dunk.
+Iowa,Indiana,48,43,28,42,1,Nick Zeisloft made Three Point Jumper. Assisted by Stanford Robinson.
+Iowa,Indiana,48,43,28,57,0,Jarrod Uthoff missed Three Point Jumper.
+Iowa,Indiana,48,43,28,57,0,Yogi Ferrell Defensive Rebound.
+Iowa,Indiana,48,43,29,8,0,Yogi Ferrell missed Three Point Jumper.
+Iowa,Indiana,48,43,29,8,0,Josh Oglesby Defensive Rebound.
+Iowa,Indiana,51,43,29,27,1,Anthony Clemmons made Three Point Jumper.
+Iowa,Indiana,51,43,29,50,0,Stanford Robinson Turnover.
+Iowa,Indiana,51,43,29,50,0,Official TV Timeout
+Iowa,Indiana,51,43,30,7,0,Mike Gesell missed Jumper.
+Iowa,Indiana,51,43,30,7,0,Iowa Offensive Rebound.
+Iowa,Indiana,51,43,30,25,0,Aaron White missed Jumper.
+Iowa,Indiana,51,43,30,25,0,James Blackmon Jr. Defensive Rebound.
+Iowa,Indiana,51,43,30,39,0,Yogi Ferrell missed Layup.
+Iowa,Indiana,51,43,30,39,0,Troy Williams Offensive Rebound.
+Iowa,Indiana,51,43,30,39,0,Troy Williams missed Two Point Tip Shot.
+Iowa,Indiana,51,43,30,39,0,Jordan Fuchs Offensive Rebound.
+Iowa,Indiana,51,43,30,39,0,Jordan Fuchs missed Two Point Tip Shot.
+Iowa,Indiana,51,43,30,39,0,Adam Woodbury Block.
+Iowa,Indiana,51,43,30,39,0,Peter Jok Defensive Rebound.
+Iowa,Indiana,51,43,30,50,0,Foul on Nick Zeisloft.
+Iowa,Indiana,52,43,30,50,1,Aaron White made Free Throw.
+Iowa,Indiana,53,43,30,50,1,Aaron White made Free Throw.
+Iowa,Indiana,53,43,31,2,0,James Blackmon Jr. missed Layup.
+Iowa,Indiana,53,43,31,2,0,James Blackmon Jr. Offensive Rebound.
+Iowa,Indiana,53,43,31,9,0,Yogi Ferrell missed Jumper.
+Iowa,Indiana,53,43,31,9,0,Jordan Fuchs Offensive Rebound.
+Iowa,Indiana,53,43,31,12,0,Foul on Josh Oglesby.
+Iowa,Indiana,53,46,31,15,1,James Blackmon Jr. made Three Point Jumper.
+Iowa,Indiana,56,46,31,44,1,Peter Jok made Three Point Jumper.
+Iowa,Indiana,56,46,32,0,0,Indiana  Timeout
+Iowa,Indiana,56,46,32,18,0,Yogi Ferrell missed Jumper.
+Iowa,Indiana,56,46,32,18,0,Troy Williams Offensive Rebound.
+Iowa,Indiana,56,48,32,18,1,Troy Williams made Two Point Tip Shot.
+Iowa,Indiana,56,48,32,37,0,Official TV Timeout
+Iowa,Indiana,56,48,32,38,0,Aaron White missed Layup.
+Iowa,Indiana,56,48,32,38,0,Hanner Mosquera-Perea Defensive Rebound.
+Iowa,Indiana,56,48,33,0,0,James Blackmon Jr. missed Three Point Jumper.
+Iowa,Indiana,56,48,33,0,0,Peter Jok Defensive Rebound.
+Iowa,Indiana,56,48,33,10,0,Aaron White missed Three Point Jumper.
+Iowa,Indiana,56,48,33,10,0,Adam Woodbury Offensive Rebound.
+Iowa,Indiana,59,48,33,15,1,Peter Jok made Three Point Jumper. Assisted by Aaron White.
+Iowa,Indiana,59,48,33,38,0,Troy Williams missed Jumper.
+Iowa,Indiana,59,48,33,38,0,Anthony Clemmons Defensive Rebound.
+Iowa,Indiana,61,48,33,57,1,Jarrod Uthoff made Jumper.
+Iowa,Indiana,61,48,34,21,0,Foul on Peter Jok.
+Iowa,Indiana,61,48,34,25,0,Foul on Gabriel Olaseni.
+Iowa,Indiana,61,48,34,25,0,Troy Williams missed Free Throw.
+Iowa,Indiana,61,48,34,25,0,Indiana Deadball Team Rebound.
+Iowa,Indiana,61,49,34,25,1,Troy Williams made Free Throw.
+Iowa,Indiana,61,49,34,34,0,Foul on James Blackmon Jr..
+Iowa,Indiana,62,49,34,34,1,Anthony Clemmons made Free Throw.
+Iowa,Indiana,63,49,34,34,1,Anthony Clemmons made Free Throw.
+Iowa,Indiana,63,52,34,45,1,Nick Zeisloft made Three Point Jumper. Assisted by Yogi Ferrell.
+Iowa,Indiana,63,52,35,17,0,Gabriel Olaseni missed Jumper.
+Iowa,Indiana,63,52,35,17,0,Indiana Defensive Rebound.
+Iowa,Indiana,63,52,35,32,0,Foul on Gabriel Olaseni.
+Iowa,Indiana,63,52,35,32,0,Yogi Ferrell missed Free Throw.
+Iowa,Indiana,63,52,35,32,0,Indiana Deadball Team Rebound.
+Iowa,Indiana,63,53,35,32,1,Yogi Ferrell made Free Throw.
+Iowa,Indiana,63,53,35,40,0,Josh Oglesby missed Three Point Jumper.
+Iowa,Indiana,63,53,35,40,0,James Blackmon Jr. Defensive Rebound.
+Iowa,Indiana,63,53,35,53,0,Troy Williams missed Layup.
+Iowa,Indiana,63,53,35,53,0,Gabriel Olaseni Defensive Rebound.
+Iowa,Indiana,63,53,36,23,0,Aaron White missed Jumper.
+Iowa,Indiana,63,53,36,23,0,Jarrod Uthoff Offensive Rebound.
+Iowa,Indiana,65,53,36,25,1,Jarrod Uthoff made Layup.
+Iowa,Indiana,65,53,36,25,0,Foul on Yogi Ferrell.
+Iowa,Indiana,65,53,36,25,0,Official TV Timeout
+Iowa,Indiana,66,53,36,25,1,Jarrod Uthoff made Free Throw.
+Iowa,Indiana,66,53,36,39,0,Foul on Gabriel Olaseni.
+Iowa,Indiana,66,53,36,39,0,Hanner Mosquera-Perea missed Free Throw.
+Iowa,Indiana,66,53,36,39,0,Adam Woodbury Defensive Rebound.
+Iowa,Indiana,66,53,36,52,0,Iowa  Timeout
+Iowa,Indiana,68,53,37,5,1,Anthony Clemmons made Layup.
+Iowa,Indiana,68,53,37,23,0,Jump Ball won by Iowa
+Iowa,Indiana,68,53,37,23,0,Yogi Ferrell Turnover.
+Iowa,Indiana,68,53,37,23,0,Adam Woodbury Steal.
+Iowa,Indiana,68,53,37,37,0,Anthony Clemmons missed Layup.
+Iowa,Indiana,68,53,37,37,0,Emmitt Holt Block.
+Iowa,Indiana,68,53,37,37,0,Troy Williams Defensive Rebound.
+Iowa,Indiana,68,56,37,44,1,Robert Johnson made Three Point Jumper. Assisted by Troy Williams.
+Iowa,Indiana,68,56,38,8,0,Foul on Troy Williams.
+Iowa,Indiana,69,56,38,8,1,Aaron White made Free Throw.
+Iowa,Indiana,70,56,38,8,1,Aaron White made Free Throw.
+Iowa,Indiana,70,58,38,19,1,James Blackmon Jr. made Layup.
+Iowa,Indiana,70,58,38,28,0,Foul on Troy Williams.
+Iowa,Indiana,71,58,38,28,1,Mike Gesell made Free Throw.
+Iowa,Indiana,71,58,38,28,0,Mike Gesell missed Free Throw.
+Iowa,Indiana,71,58,38,28,0,Troy Williams Defensive Rebound.
+Iowa,Indiana,71,58,38,36,0,Robert Johnson missed Three Point Jumper.
+Iowa,Indiana,71,58,38,36,0,Jarrod Uthoff Block.
+Iowa,Indiana,71,58,38,36,0,Aaron White Defensive Rebound.
+Iowa,Indiana,71,58,38,36,0,Foul on James Blackmon Jr..
+Iowa,Indiana,72,58,38,36,1,Aaron White made Free Throw.
+Iowa,Indiana,73,58,38,36,1,Aaron White made Free Throw.
+Iowa,Indiana,73,58,38,39,0,Yogi Ferrell missed Three Point Jumper.
+Iowa,Indiana,73,58,38,39,0,Jarrod Uthoff Defensive Rebound.
+Iowa,Indiana,73,58,38,50,0,Foul on Robert Johnson.
+Iowa,Indiana,73,58,38,50,0,Indiana  Timeout
+Iowa,Indiana,73,58,38,50,0,Anthony Clemmons missed Free Throw.
+Iowa,Indiana,73,58,38,50,0,Iowa Deadball Team Rebound.
+Iowa,Indiana,74,58,38,50,1,Anthony Clemmons made Free Throw.
+Iowa,Indiana,74,61,38,56,1,Nick Zeisloft made Three Point Jumper. Assisted by Troy Williams.
+Iowa,Indiana,74,61,39,13,0,Foul on Troy Williams.
+Iowa,Indiana,75,61,39,13,1,Aaron White made Free Throw.
+Iowa,Indiana,75,61,39,13,0,Aaron White missed Free Throw.
+Iowa,Indiana,75,61,39,13,0,Troy Williams Defensive Rebound.
+Iowa,Indiana,75,63,39,20,1,James Blackmon Jr. made Layup.
+Iowa,Indiana,75,63,39,23,0,Foul on Yogi Ferrell.
+Iowa,Indiana,76,63,39,23,1,Anthony Clemmons made Free Throw.
+Iowa,Indiana,77,63,39,23,1,Anthony Clemmons made Free Throw.
+Iowa,Indiana,77,63,39,27,0,Nick Zeisloft missed Three Point Jumper.
+Iowa,Indiana,77,63,39,27,0,Aaron White Defensive Rebound.
+Iowa,Indiana,77,63,40,0,0,End of Game

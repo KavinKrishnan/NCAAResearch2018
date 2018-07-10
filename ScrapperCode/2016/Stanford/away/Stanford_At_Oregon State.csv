@@ -1,0 +1,361 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,Oregon State,0,0,0,0,0,Jump Ball won by Oregon St
+Stanford,Oregon State,0,0,0,29,0,Drew Eubanks missed Jumper.
+Stanford,Oregon State,0,0,0,29,0,Michael Humphrey Defensive Rebound.
+Stanford,Oregon State,0,0,0,46,0,Marcus Allen Turnover.
+Stanford,Oregon State,0,0,0,46,0,Drew Eubanks Steal.
+Stanford,Oregon State,0,0,1,1,0,Foul on Christian Sanders.
+Stanford,Oregon State,0,1,1,1,1,Drew Eubanks made Free Throw.
+Stanford,Oregon State,0,1,1,1,0,Drew Eubanks missed Free Throw.
+Stanford,Oregon State,0,1,1,1,0,Michael Humphrey Defensive Rebound.
+Stanford,Oregon State,0,1,1,4,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Oregon State,0,1,1,4,0,Michael Humphrey Offensive Rebound.
+Stanford,Oregon State,0,1,1,19,0,Michael Humphrey missed Layup.
+Stanford,Oregon State,0,1,1,19,0,Michael Humphrey Offensive Rebound.
+Stanford,Oregon State,0,1,1,29,0,Michael Humphrey missed Layup.
+Stanford,Oregon State,0,1,1,29,0,Drew Eubanks Defensive Rebound.
+Stanford,Oregon State,0,1,1,37,0,Gary Payton II Turnover.
+Stanford,Oregon State,0,1,1,37,0,Christian Sanders Steal.
+Stanford,Oregon State,3,1,1,44,1,Rosco Allen made Three Point Jumper. Assisted by Christian Sanders.
+Stanford,Oregon State,3,1,1,45,0,Langston Morris-Walker missed Layup.
+Stanford,Oregon State,3,1,1,45,0,Rosco Allen Defensive Rebound.
+Stanford,Oregon State,3,1,1,50,0,Foul on Langston Morris-Walker.
+Stanford,Oregon State,3,1,2,8,0,Christian Sanders missed Three Point Jumper.
+Stanford,Oregon State,3,1,2,8,0,Rosco Allen Offensive Rebound.
+Stanford,Oregon State,3,1,2,14,0,Rosco Allen Turnover.
+Stanford,Oregon State,3,1,2,14,0,Gary Payton II Steal.
+Stanford,Oregon State,3,1,2,20,0,Olaf Schaftenaar missed Three Point Jumper.
+Stanford,Oregon State,3,1,2,20,0,Marcus Allen Defensive Rebound.
+Stanford,Oregon State,3,1,2,28,0,Rosco Allen Turnover.
+Stanford,Oregon State,3,4,2,39,1,Olaf Schaftenaar made Three Point Jumper. Assisted by Langston Morris-Walker.
+Stanford,Oregon State,3,4,3,0,0,Marcus Allen missed Jumper.
+Stanford,Oregon State,3,4,3,0,0,Olaf Schaftenaar Block.
+Stanford,Oregon State,3,4,3,3,0,Marcus Allen Offensive Rebound.
+Stanford,Oregon State,3,4,3,3,0,Marcus Allen missed Layup.
+Stanford,Oregon State,3,4,3,5,0,Olaf Schaftenaar Block.
+Stanford,Oregon State,3,4,3,5,0,Langston Morris-Walker Defensive Rebound.
+Stanford,Oregon State,3,4,3,11,0,Langston Morris-Walker missed Layup.
+Stanford,Oregon State,3,4,3,11,0,Oregon St Offensive Rebound.
+Stanford,Oregon State,3,6,3,29,1,Olaf Schaftenaar made Jumper. Assisted by Gary Payton II.
+Stanford,Oregon State,3,6,3,45,0,Foul on Gary Payton II.
+Stanford,Oregon State,3,6,4,3,0,Foul on Olaf Schaftenaar.
+Stanford,Oregon State,3,6,4,3,0,Official TV Timeout
+Stanford,Oregon State,5,6,4,3,1,Michael Humphrey made Jumper. Assisted by Dorian Pickens.
+Stanford,Oregon State,5,6,4,24,0,Foul on Drew Eubanks.
+Stanford,Oregon State,5,6,4,24,0,Drew Eubanks Turnover.
+Stanford,Oregon State,5,6,4,49,0,Marcus Allen missed Three Point Jumper.
+Stanford,Oregon State,5,6,4,49,0,Olaf Schaftenaar Defensive Rebound.
+Stanford,Oregon State,5,6,5,1,0,Gary Payton II missed Three Point Jumper.
+Stanford,Oregon State,5,6,5,1,0,Marcus Sheffield Defensive Rebound.
+Stanford,Oregon State,5,6,5,20,0,Foul on Marcus Sheffield.
+Stanford,Oregon State,5,6,5,20,0,Marcus Sheffield Turnover.
+Stanford,Oregon State,5,6,5,34,0,Tres Tinkle Turnover.
+Stanford,Oregon State,5,6,5,34,0,Marcus Allen Steal.
+Stanford,Oregon State,7,6,5,40,1,Marcus Allen made Layup.
+Stanford,Oregon State,7,6,5,47,0,Foul on Michael Humphrey.
+Stanford,Oregon State,7,6,5,47,0,Derrick Bruce missed Free Throw.
+Stanford,Oregon State,7,6,5,47,0,Oregon St Deadball Team Rebound.
+Stanford,Oregon State,7,7,5,47,1,Derrick Bruce made Free Throw.
+Stanford,Oregon State,10,7,6,15,1,Marcus Allen made Three Point Jumper. Assisted by Dorian Pickens.
+Stanford,Oregon State,10,7,6,36,0,Daniel Gomis missed Jumper.
+Stanford,Oregon State,10,7,6,36,0,Rosco Allen Defensive Rebound.
+Stanford,Oregon State,10,7,6,45,0,Foul on Daniel Gomis.
+Stanford,Oregon State,12,7,6,48,1,Marcus Sheffield made Layup. Assisted by Malcolm Allen.
+Stanford,Oregon State,12,9,7,4,1,Daniel Gomis made Layup. Assisted by Tres Tinkle.
+Stanford,Oregon State,15,9,7,29,1,Rosco Allen made Three Point Jumper. Assisted by Marcus Sheffield.
+Stanford,Oregon State,15,11,7,41,1,Gary Payton II made Jumper.
+Stanford,Oregon State,15,11,8,6,0,Foul on Jarmal Reid.
+Stanford,Oregon State,15,11,8,6,0,Official TV Timeout
+Stanford,Oregon State,15,11,8,6,0,Rosco Allen missed Free Throw.
+Stanford,Oregon State,15,11,8,6,0,Stanford Deadball Team Rebound.
+Stanford,Oregon State,16,11,8,6,1,Rosco Allen made Free Throw.
+Stanford,Oregon State,16,11,8,18,0,Jarmal Reid Turnover.
+Stanford,Oregon State,16,11,8,18,0,Marcus Allen Steal.
+Stanford,Oregon State,16,11,8,25,0,Marcus Allen missed Jumper.
+Stanford,Oregon State,16,11,8,25,0,Jarmal Reid Defensive Rebound.
+Stanford,Oregon State,16,11,8,43,0,Tres Tinkle missed Jumper.
+Stanford,Oregon State,16,11,8,43,0,Rosco Allen Defensive Rebound.
+Stanford,Oregon State,16,11,9,8,0,Rosco Allen missed Layup.
+Stanford,Oregon State,16,11,9,8,0,Derrick Bruce Defensive Rebound.
+Stanford,Oregon State,16,11,9,14,0,Foul on Marcus Sheffield.
+Stanford,Oregon State,16,11,9,16,0,Malcolm Duvivier missed Three Point Jumper.
+Stanford,Oregon State,16,11,9,16,0,Michael Humphrey Defensive Rebound.
+Stanford,Oregon State,16,11,9,44,0,Cameron Walker missed Three Point Jumper.
+Stanford,Oregon State,16,11,9,44,0,Dorian Pickens Offensive Rebound.
+Stanford,Oregon State,18,11,9,44,1,Dorian Pickens made Two Point Tip Shot.
+Stanford,Oregon State,18,11,10,5,0,Foul on Michael Humphrey.
+Stanford,Oregon State,18,11,10,8,0,Stephen Thompson Jr. Turnover.
+Stanford,Oregon State,18,11,10,8,0,Grant Verhoeven Steal.
+Stanford,Oregon State,18,11,10,21,0,Foul on Jarmal Reid.
+Stanford,Oregon State,19,11,10,21,1,Dorian Pickens made Free Throw.
+Stanford,Oregon State,20,11,10,21,1,Dorian Pickens made Free Throw.
+Stanford,Oregon State,20,11,10,48,0,Stephen Thompson Jr. missed Three Point Jumper.
+Stanford,Oregon State,20,11,10,48,0,Grant Verhoeven Defensive Rebound.
+Stanford,Oregon State,20,11,11,6,0,Dorian Pickens missed Jumper.
+Stanford,Oregon State,20,11,11,6,0,Grant Verhoeven Offensive Rebound.
+Stanford,Oregon State,20,11,11,41,0,Christian Sanders missed Jumper.
+Stanford,Oregon State,20,11,11,41,0,Gary Payton II Defensive Rebound.
+Stanford,Oregon State,20,11,11,45,0,Foul on Grant Verhoeven.
+Stanford,Oregon State,20,11,12,7,0,Malcolm Duvivier missed Jumper.
+Stanford,Oregon State,20,11,12,7,0,Grant Verhoeven Defensive Rebound.
+Stanford,Oregon State,20,11,12,25,0,Marcus Allen missed Three Point Jumper.
+Stanford,Oregon State,20,11,12,25,0,Dorian Pickens Offensive Rebound.
+Stanford,Oregon State,22,11,12,32,1,Dorian Pickens made Layup.
+Stanford,Oregon State,22,11,12,59,0,Foul on Christian Sanders.
+Stanford,Oregon State,22,11,12,59,0,Official TV Timeout
+Stanford,Oregon State,22,12,12,59,1,Malcolm Duvivier made Free Throw.
+Stanford,Oregon State,22,12,12,59,0,Malcolm Duvivier missed Free Throw.
+Stanford,Oregon State,22,12,12,59,0,Dorian Pickens Defensive Rebound.
+Stanford,Oregon State,24,12,13,22,1,Josh Sharma made Dunk. Assisted by Christian Sanders.
+Stanford,Oregon State,24,12,13,38,0,Gary Payton II missed Layup.
+Stanford,Oregon State,24,12,13,38,0,Olaf Schaftenaar Offensive Rebound.
+Stanford,Oregon State,24,12,13,43,0,Olaf Schaftenaar missed Layup.
+Stanford,Oregon State,24,12,13,43,0,Josh Sharma Block.
+Stanford,Oregon State,24,12,13,44,0,Christian Sanders Defensive Rebound.
+Stanford,Oregon State,24,12,14,11,0,Josh Sharma missed Jumper.
+Stanford,Oregon State,24,12,14,11,0,Marcus Allen Offensive Rebound.
+Stanford,Oregon State,26,12,14,19,1,Josh Sharma made Layup. Assisted by Christian Sanders.
+Stanford,Oregon State,26,12,14,21,0,Oregon St  Timeout
+Stanford,Oregon State,26,12,14,40,0,Foul on Marcus Allen.
+Stanford,Oregon State,26,12,14,40,0,Gary Payton II missed Free Throw.
+Stanford,Oregon State,26,12,14,40,0,Malcolm Duvivier Offensive Rebound.
+Stanford,Oregon State,26,14,14,42,1,Tres Tinkle made Jumper.
+Stanford,Oregon State,28,14,15,6,1,Josh Sharma made Layup. Assisted by Dorian Pickens.
+Stanford,Oregon State,28,16,15,33,1,Gary Payton II made Jumper. Assisted by Malcolm Duvivier.
+Stanford,Oregon State,28,16,15,58,0,Foul on Tres Tinkle.
+Stanford,Oregon State,28,16,15,58,0,Rosco Allen missed Free Throw.
+Stanford,Oregon State,28,16,15,58,0,Josh Sharma Offensive Rebound.
+Stanford,Oregon State,28,16,15,58,0,Josh Sharma Turnover.
+Stanford,Oregon State,28,16,16,13,0,Malcolm Duvivier Turnover.
+Stanford,Oregon State,28,16,16,13,0,Official TV Timeout
+Stanford,Oregon State,28,16,16,35,0,Josh Sharma missed Three Point Jumper.
+Stanford,Oregon State,28,16,16,35,0,Derrick Bruce Defensive Rebound.
+Stanford,Oregon State,28,16,16,49,0,Derrick Bruce Turnover.
+Stanford,Oregon State,28,16,16,49,0,Rosco Allen Steal.
+Stanford,Oregon State,28,16,16,49,0,Foul on Cheikh N'diaye.
+Stanford,Oregon State,29,16,16,49,1,Rosco Allen made Free Throw.
+Stanford,Oregon State,30,16,16,49,1,Rosco Allen made Free Throw.
+Stanford,Oregon State,30,16,16,59,0,Tres Tinkle missed Three Point Jumper.
+Stanford,Oregon State,30,16,16,59,0,Malcolm Duvivier Offensive Rebound.
+Stanford,Oregon State,30,18,17,6,1,Gary Payton II made Layup. Assisted by Malcolm Duvivier.
+Stanford,Oregon State,32,18,17,25,1,Marcus Allen made Layup.
+Stanford,Oregon State,32,18,17,38,0,Foul on Marcus Allen.
+Stanford,Oregon State,32,19,17,38,1,Gary Payton II made Free Throw.
+Stanford,Oregon State,32,19,17,38,0,Gary Payton II missed Free Throw.
+Stanford,Oregon State,32,19,17,38,0,Cameron Walker Defensive Rebound.
+Stanford,Oregon State,32,19,18,6,0,Foul on Malcolm Duvivier.
+Stanford,Oregon State,32,19,18,6,0,Cameron Walker missed Free Throw.
+Stanford,Oregon State,32,19,18,6,0,Stanford Deadball Team Rebound.
+Stanford,Oregon State,33,19,18,6,1,Cameron Walker made Free Throw.
+Stanford,Oregon State,33,19,18,6,0,Cameron Walker missed Free Throw.
+Stanford,Oregon State,33,19,18,6,0,Tres Tinkle Defensive Rebound.
+Stanford,Oregon State,33,22,18,12,1,Stephen Thompson Jr. made Three Point Jumper. Assisted by Gary Payton II.
+Stanford,Oregon State,35,22,18,48,1,Rosco Allen made Dunk. Assisted by Malcolm Allen.
+Stanford,Oregon State,35,22,19,0,0,Foul on Tres Tinkle.
+Stanford,Oregon State,35,22,19,0,0,Tres Tinkle Turnover.
+Stanford,Oregon State,35,22,19,0,0,Stanford  Timeout
+Stanford,Oregon State,37,22,19,18,1,Grant Verhoeven made Jumper. Assisted by Cameron Walker.
+Stanford,Oregon State,37,22,19,34,0,Foul on Malcolm Allen.
+Stanford,Oregon State,37,23,19,34,1,Olaf Schaftenaar made Free Throw.
+Stanford,Oregon State,37,24,19,34,1,Olaf Schaftenaar made Free Throw.
+Stanford,Oregon State,37,24,19,55,0,Malcolm Allen Turnover.
+Stanford,Oregon State,37,24,20,0,0,Gary Payton II missed Jumper.
+Stanford,Oregon State,37,24,20,0,0,Stanford Deadball Team Rebound.
+Stanford,Oregon State,37,24,20,0,0,End of 1st half
+Stanford,Oregon State,37,24,20,0,0,Jump Ball won by Stanford
+Stanford,Oregon State,37,24,20,11,0,Foul on Michael Humphrey.
+Stanford,Oregon State,37,24,20,11,0,Michael Humphrey Turnover.
+Stanford,Oregon State,37,24,20,26,0,Foul on Dorian Pickens.
+Stanford,Oregon State,37,25,20,26,1,Drew Eubanks made Free Throw.
+Stanford,Oregon State,37,26,20,26,1,Drew Eubanks made Free Throw.
+Stanford,Oregon State,37,26,20,40,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Oregon State,37,26,20,40,0,Gary Payton II Defensive Rebound.
+Stanford,Oregon State,37,28,20,59,1,Drew Eubanks made Jumper. Assisted by Langston Morris-Walker.
+Stanford,Oregon State,37,28,21,30,0,Rosco Allen missed Three Point Jumper.
+Stanford,Oregon State,37,28,21,30,0,Christian Sanders Offensive Rebound.
+Stanford,Oregon State,37,28,21,51,0,Marcus Allen missed Jumper.
+Stanford,Oregon State,37,28,21,51,0,Michael Humphrey Offensive Rebound.
+Stanford,Oregon State,39,28,21,51,1,Michael Humphrey made Dunk.
+Stanford,Oregon State,39,28,22,21,0,Drew Eubanks missed Jumper.
+Stanford,Oregon State,39,28,22,21,0,Christian Sanders Defensive Rebound.
+Stanford,Oregon State,41,28,22,39,1,Michael Humphrey made Layup.
+Stanford,Oregon State,41,28,22,48,0,Foul on Rosco Allen.
+Stanford,Oregon State,41,29,22,48,1,Olaf Schaftenaar made Free Throw.
+Stanford,Oregon State,41,30,22,48,1,Olaf Schaftenaar made Free Throw.
+Stanford,Oregon State,41,30,22,48,0,Olaf Schaftenaar missed Free Throw.
+Stanford,Oregon State,41,30,22,48,0,Marcus Allen Defensive Rebound.
+Stanford,Oregon State,41,30,23,4,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Oregon State,41,30,23,4,0,Olaf Schaftenaar Defensive Rebound.
+Stanford,Oregon State,41,30,23,14,0,Malcolm Duvivier Turnover.
+Stanford,Oregon State,41,30,23,14,0,Christian Sanders Steal.
+Stanford,Oregon State,41,30,23,21,0,Rosco Allen missed Layup.
+Stanford,Oregon State,41,30,23,21,0,Marcus Allen Offensive Rebound.
+Stanford,Oregon State,43,30,23,21,1,Marcus Allen made Two Point Tip Shot.
+Stanford,Oregon State,43,33,23,35,1,Malcolm Duvivier made Three Point Jumper. Assisted by Gary Payton II.
+Stanford,Oregon State,43,33,23,56,0,Rosco Allen missed Three Point Jumper.
+Stanford,Oregon State,43,33,23,56,0,Marcus Allen Offensive Rebound.
+Stanford,Oregon State,46,33,24,9,1,Dorian Pickens made Three Point Jumper. Assisted by Rosco Allen.
+Stanford,Oregon State,46,33,24,33,0,Drew Eubanks missed Jumper.
+Stanford,Oregon State,46,33,24,33,0,Drew Eubanks Offensive Rebound.
+Stanford,Oregon State,46,35,24,33,1,Drew Eubanks made Two Point Tip Shot.
+Stanford,Oregon State,46,35,24,59,0,Christian Sanders missed Three Point Jumper.
+Stanford,Oregon State,46,35,24,59,0,Rosco Allen Offensive Rebound.
+Stanford,Oregon State,46,35,25,18,0,Michael Humphrey missed Layup.
+Stanford,Oregon State,46,35,25,18,0,Drew Eubanks Block.
+Stanford,Oregon State,46,35,25,18,0,Oregon St Defensive Rebound.
+Stanford,Oregon State,46,35,25,18,0,Official TV Timeout
+Stanford,Oregon State,46,37,25,33,1,Drew Eubanks made Jumper. Assisted by Olaf Schaftenaar.
+Stanford,Oregon State,46,37,25,52,0,Dorian Pickens missed Jumper.
+Stanford,Oregon State,46,37,25,52,0,Grant Verhoeven Offensive Rebound.
+Stanford,Oregon State,46,37,26,8,0,Foul on Olaf Schaftenaar.
+Stanford,Oregon State,46,37,26,31,0,Rosco Allen missed Layup.
+Stanford,Oregon State,46,37,26,31,0,Tres Tinkle Defensive Rebound.
+Stanford,Oregon State,46,37,26,40,0,Foul on Grant Verhoeven.
+Stanford,Oregon State,46,37,26,46,0,Drew Eubanks missed Jumper.
+Stanford,Oregon State,46,37,26,46,0,Grant Verhoeven Defensive Rebound.
+Stanford,Oregon State,49,37,27,5,1,Dorian Pickens made Three Point Jumper. Assisted by Marcus Allen.
+Stanford,Oregon State,49,39,27,19,1,Tres Tinkle made Jumper. Assisted by Gary Payton II.
+Stanford,Oregon State,49,39,27,33,0,Foul on Malcolm Duvivier.
+Stanford,Oregon State,51,39,27,38,1,Dorian Pickens made Layup.
+Stanford,Oregon State,51,41,27,47,1,Gary Payton II made Jumper.
+Stanford,Oregon State,51,41,28,1,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Oregon State,51,41,28,1,0,Gary Payton II Defensive Rebound.
+Stanford,Oregon State,51,41,28,11,0,Olaf Schaftenaar missed Three Point Jumper.
+Stanford,Oregon State,51,41,28,11,0,Dorian Pickens Defensive Rebound.
+Stanford,Oregon State,51,41,28,14,0,Foul on Tres Tinkle.
+Stanford,Oregon State,51,41,28,14,0,Official TV Timeout
+Stanford,Oregon State,51,41,28,34,0,Foul on Jarmal Reid.
+Stanford,Oregon State,51,41,28,43,0,Grant Verhoeven missed Jumper.
+Stanford,Oregon State,51,41,28,43,0,Dorian Pickens Offensive Rebound.
+Stanford,Oregon State,51,41,28,43,0,Dorian Pickens missed Two Point Tip Shot.
+Stanford,Oregon State,51,41,28,43,0,Grant Verhoeven Offensive Rebound.
+Stanford,Oregon State,51,41,29,2,0,Grant Verhoeven Turnover.
+Stanford,Oregon State,51,41,29,2,0,Jarmal Reid Steal.
+Stanford,Oregon State,51,41,29,7,0,Tres Tinkle missed Three Point Jumper.
+Stanford,Oregon State,51,41,29,7,0,Marcus Sheffield Defensive Rebound.
+Stanford,Oregon State,54,41,29,11,1,Marcus Sheffield made Free Throw.
+Stanford,Oregon State,53,41,29,11,1,Marcus Sheffield made Layup.
+Stanford,Oregon State,53,41,29,11,0,Foul on Stephen Thompson Jr..
+Stanford,Oregon State,54,41,29,21,0,Stephen Thompson Jr. missed Jumper.
+Stanford,Oregon State,54,41,29,21,0,Stephen Thompson Jr. Offensive Rebound.
+Stanford,Oregon State,54,41,29,52,0,Foul on Marcus Sheffield.
+Stanford,Oregon State,54,41,29,55,0,Tres Tinkle Turnover.
+Stanford,Oregon State,54,41,30,21,0,Michael Humphrey missed Jumper.
+Stanford,Oregon State,54,41,30,21,0,Jarmal Reid Block.
+Stanford,Oregon State,54,41,30,21,0,Stanford Offensive Rebound.
+Stanford,Oregon State,54,41,30,22,0,Grant Verhoeven missed Jumper.
+Stanford,Oregon State,54,41,30,22,0,Derrick Bruce Defensive Rebound.
+Stanford,Oregon State,54,41,30,34,0,Stephen Thompson Jr. missed Three Point Jumper.
+Stanford,Oregon State,54,41,30,34,0,Christian Sanders Defensive Rebound.
+Stanford,Oregon State,54,41,30,36,0,Foul on Gligorije Rakocevic.
+Stanford,Oregon State,54,41,30,57,0,Marcus Sheffield missed Jumper.
+Stanford,Oregon State,54,41,30,57,0,Stephen Thompson Jr. Defensive Rebound.
+Stanford,Oregon State,54,43,31,20,1,Tres Tinkle made Layup. Assisted by Derrick Bruce.
+Stanford,Oregon State,56,43,31,36,1,Rosco Allen made Jumper.
+Stanford,Oregon State,56,43,31,36,0,Foul on Jarmal Reid.
+Stanford,Oregon State,56,43,31,36,0,Rosco Allen missed Free Throw.
+Stanford,Oregon State,56,43,31,36,0,Gary Payton II Defensive Rebound.
+Stanford,Oregon State,56,43,31,43,0,Foul on Michael Humphrey.
+Stanford,Oregon State,56,44,31,43,1,Drew Eubanks made Free Throw.
+Stanford,Oregon State,56,44,31,43,0,Drew Eubanks missed Free Throw.
+Stanford,Oregon State,56,44,31,43,0,Stanford Defensive Rebound.
+Stanford,Oregon State,58,44,32,5,1,Josh Sharma made Layup. Assisted by Marcus Sheffield.
+Stanford,Oregon State,58,46,32,18,1,Tres Tinkle made Layup.
+Stanford,Oregon State,58,46,32,18,0,Foul on Josh Sharma.
+Stanford,Oregon State,58,46,32,18,0,Official TV Timeout
+Stanford,Oregon State,58,46,32,18,0,Tres Tinkle missed Free Throw.
+Stanford,Oregon State,58,46,32,18,0,Josh Sharma Defensive Rebound.
+Stanford,Oregon State,58,46,32,29,0,Stanford  Turnover.
+Stanford,Oregon State,58,49,32,35,1,Stephen Thompson Jr. made Three Point Jumper. Assisted by Gary Payton II.
+Stanford,Oregon State,58,49,33,2,0,Christian Sanders missed Layup.
+Stanford,Oregon State,58,49,33,2,0,Gary Payton II Defensive Rebound.
+Stanford,Oregon State,58,51,33,9,1,Stephen Thompson Jr. made Layup. Assisted by Gary Payton II.
+Stanford,Oregon State,58,51,33,12,0,Stanford  Timeout
+Stanford,Oregon State,58,51,33,21,0,Foul on Drew Eubanks.
+Stanford,Oregon State,59,51,33,21,1,Michael Humphrey made Free Throw.
+Stanford,Oregon State,60,51,33,21,1,Michael Humphrey made Free Throw.
+Stanford,Oregon State,60,51,33,32,0,Tres Tinkle missed Three Point Jumper.
+Stanford,Oregon State,60,51,33,32,0,Drew Eubanks Offensive Rebound.
+Stanford,Oregon State,60,51,33,42,0,Derrick Bruce missed Layup.
+Stanford,Oregon State,60,51,33,42,0,Michael Humphrey Defensive Rebound.
+Stanford,Oregon State,60,51,33,55,0,Marcus Allen Turnover.
+Stanford,Oregon State,60,51,33,55,0,Drew Eubanks Steal.
+Stanford,Oregon State,60,51,34,12,0,Gary Payton II Turnover.
+Stanford,Oregon State,60,51,34,12,0,Marcus Allen Steal.
+Stanford,Oregon State,60,51,34,17,0,Foul on Derrick Bruce.
+Stanford,Oregon State,61,51,34,17,1,Marcus Allen made Free Throw.
+Stanford,Oregon State,61,51,34,17,0,Marcus Allen missed Free Throw.
+Stanford,Oregon State,61,51,34,17,0,Gary Payton II Defensive Rebound.
+Stanford,Oregon State,61,51,34,40,0,Langston Morris-Walker missed Three Point Jumper.
+Stanford,Oregon State,61,51,34,40,0,Drew Eubanks Offensive Rebound.
+Stanford,Oregon State,61,51,34,43,0,Foul on Dorian Pickens.
+Stanford,Oregon State,61,52,34,43,1,Drew Eubanks made Free Throw.
+Stanford,Oregon State,61,52,34,43,0,Drew Eubanks missed Free Throw.
+Stanford,Oregon State,61,52,34,43,0,Michael Humphrey Defensive Rebound.
+Stanford,Oregon State,63,52,35,0,1,Marcus Allen made Layup.
+Stanford,Oregon State,63,54,35,7,1,Gary Payton II made Layup.
+Stanford,Oregon State,63,54,35,7,0,Foul on Michael Humphrey.
+Stanford,Oregon State,63,55,35,7,1,Gary Payton II made Free Throw.
+Stanford,Oregon State,63,55,35,7,0,Oregon St  Timeout
+Stanford,Oregon State,63,55,35,25,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Oregon State,63,55,35,25,0,Grant Verhoeven Offensive Rebound.
+Stanford,Oregon State,63,55,35,45,0,Foul on Drew Eubanks.
+Stanford,Oregon State,64,55,35,45,1,Rosco Allen made Free Throw.
+Stanford,Oregon State,65,55,35,45,1,Rosco Allen made Free Throw.
+Stanford,Oregon State,65,55,35,56,0,Foul on Rosco Allen.
+Stanford,Oregon State,65,55,35,56,0,Gary Payton II missed Free Throw.
+Stanford,Oregon State,65,55,35,56,0,Oregon St Deadball Team Rebound.
+Stanford,Oregon State,65,55,35,56,0,Gary Payton II missed Free Throw.
+Stanford,Oregon State,65,55,35,56,0,Rosco Allen Defensive Rebound.
+Stanford,Oregon State,65,55,36,27,0,Stanford  Turnover.
+Stanford,Oregon State,65,55,36,27,0,Official TV Timeout
+Stanford,Oregon State,65,57,36,40,1,Stephen Thompson Jr. made Jumper.
+Stanford,Oregon State,68,57,36,58,1,Rosco Allen made Three Point Jumper. Assisted by Dorian Pickens.
+Stanford,Oregon State,68,57,37,24,0,Stephen Thompson Jr. missed Three Point Jumper.
+Stanford,Oregon State,68,57,37,24,0,Gary Payton II Offensive Rebound.
+Stanford,Oregon State,68,57,37,31,0,Foul on Dorian Pickens.
+Stanford,Oregon State,68,57,37,31,0,Gary Payton II missed Free Throw.
+Stanford,Oregon State,68,57,37,31,0,Oregon St Deadball Team Rebound.
+Stanford,Oregon State,68,58,37,31,1,Gary Payton II made Free Throw.
+Stanford,Oregon State,70,58,37,52,1,Christian Sanders made Layup.
+Stanford,Oregon State,70,60,38,5,1,Gary Payton II made Jumper.
+Stanford,Oregon State,70,60,38,8,0,Oregon St  Timeout
+Stanford,Oregon State,70,60,38,35,0,Christian Sanders missed Jumper.
+Stanford,Oregon State,70,60,38,35,0,Gary Payton II Defensive Rebound.
+Stanford,Oregon State,70,60,38,38,0,Foul on Grant Verhoeven.
+Stanford,Oregon State,70,61,38,38,1,Gary Payton II made Free Throw.
+Stanford,Oregon State,70,61,38,38,0,Oregon St  Timeout
+Stanford,Oregon State,70,61,38,38,0,Gary Payton II missed Free Throw.
+Stanford,Oregon State,70,61,38,38,0,Rosco Allen Defensive Rebound.
+Stanford,Oregon State,70,61,38,42,0,Rosco Allen Turnover.
+Stanford,Oregon State,70,63,38,48,1,Drew Eubanks made Jumper. Assisted by Malcolm Duvivier.
+Stanford,Oregon State,70,63,38,57,0,Foul on Gary Payton II.
+Stanford,Oregon State,71,63,38,57,1,Marcus Allen made Free Throw.
+Stanford,Oregon State,71,63,38,57,0,Marcus Allen missed Free Throw.
+Stanford,Oregon State,71,63,38,57,0,Stanford Offensive Rebound.
+Stanford,Oregon State,71,63,38,59,0,Foul on Olaf Schaftenaar.
+Stanford,Oregon State,71,63,38,59,0,Rosco Allen missed Free Throw.
+Stanford,Oregon State,71,63,38,59,0,Stanford Deadball Team Rebound.
+Stanford,Oregon State,72,63,38,59,1,Rosco Allen made Free Throw.
+Stanford,Oregon State,72,66,39,5,1,Stephen Thompson Jr. made Three Point Jumper. Assisted by Malcolm Duvivier.
+Stanford,Oregon State,72,66,39,12,0,Foul on Stephen Thompson Jr..
+Stanford,Oregon State,72,66,39,12,0,Grant Verhoeven missed Free Throw.
+Stanford,Oregon State,72,66,39,12,0,Stanford Deadball Team Rebound.
+Stanford,Oregon State,73,66,39,12,1,Grant Verhoeven made Free Throw.
+Stanford,Oregon State,73,66,39,22,0,Tres Tinkle missed Jumper.
+Stanford,Oregon State,73,66,39,22,0,Rosco Allen Defensive Rebound.
+Stanford,Oregon State,73,66,39,24,0,Foul on Gary Payton II.
+Stanford,Oregon State,74,66,39,24,1,Rosco Allen made Free Throw.
+Stanford,Oregon State,75,66,39,24,1,Rosco Allen made Free Throw.
+Stanford,Oregon State,75,68,39,28,1,Gary Payton II made Layup.
+Stanford,Oregon State,75,68,39,36,0,Foul on Gary Payton II.
+Stanford,Oregon State,76,68,39,36,1,Marcus Sheffield made Free Throw.
+Stanford,Oregon State,76,68,39,36,0,Marcus Sheffield missed Free Throw.
+Stanford,Oregon State,76,68,39,36,0,Gary Payton II Defensive Rebound.
+Stanford,Oregon State,76,70,39,46,1,Gary Payton II made Layup.
+Stanford,Oregon State,76,70,39,48,0,Stanford  Timeout
+Stanford,Oregon State,76,70,39,49,0,Foul on Tres Tinkle.
+Stanford,Oregon State,77,70,39,49,1,Marcus Allen made Free Throw.
+Stanford,Oregon State,78,70,39,49,1,Marcus Allen made Free Throw.
+Stanford,Oregon State,78,72,39,53,1,Gary Payton II made Layup.
+Stanford,Oregon State,78,72,40,0,0,End of Game

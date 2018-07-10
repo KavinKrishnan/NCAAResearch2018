@@ -1,0 +1,344 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+VCU,Davidson,0,0,0,0,0,Jump Ball won by VCU
+VCU,Davidson,0,0,0,15,0,Michael Gilmore missed Three Point Jumper.
+VCU,Davidson,0,0,0,15,0,Jack Gibbs Defensive Rebound.
+VCU,Davidson,0,0,0,24,0,Jack Gibbs Turnover.
+VCU,Davidson,2,0,0,43,1,Mo Alie-Cox made Jumper. Assisted by Melvin Johnson.
+VCU,Davidson,2,0,0,59,0,Peyton Aldridge missed Three Point Jumper.
+VCU,Davidson,2,0,0,59,0,Korey Billbury Defensive Rebound.
+VCU,Davidson,2,0,1,10,0,Michael Gilmore Turnover.
+VCU,Davidson,2,0,1,26,0,Jack Gibbs missed Jumper.
+VCU,Davidson,2,0,1,26,0,Michael Gilmore Defensive Rebound.
+VCU,Davidson,4,0,1,31,1,Michael Gilmore made Jumper.
+VCU,Davidson,4,0,1,50,0,Nathan Ekwu missed Jumper.
+VCU,Davidson,4,0,1,50,0,Michael Gilmore Defensive Rebound.
+VCU,Davidson,6,0,2,11,1,Melvin Johnson made Layup.
+VCU,Davidson,6,0,2,27,0,Foul on Korey Billbury.
+VCU,Davidson,6,0,2,34,0,Jack Gibbs missed Three Point Jumper.
+VCU,Davidson,6,0,2,34,0,Peyton Aldridge Offensive Rebound.
+VCU,Davidson,6,3,2,44,1,Oskar Michelsen made Three Point Jumper. Assisted by Peyton Aldridge.
+VCU,Davidson,6,3,2,59,0,JeQuan Lewis Turnover.
+VCU,Davidson,6,3,2,59,0,Peyton Aldridge Steal.
+VCU,Davidson,6,3,3,3,0,Foul on Jack Gibbs.
+VCU,Davidson,6,3,3,3,0,Jack Gibbs Turnover.
+VCU,Davidson,6,3,3,13,0,Foul on Peyton Aldridge.
+VCU,Davidson,6,3,3,21,0,JeQuan Lewis missed Layup.
+VCU,Davidson,6,3,3,21,0,Jack Gibbs Defensive Rebound.
+VCU,Davidson,6,3,3,26,0,Oskar Michelsen missed Three Point Jumper.
+VCU,Davidson,6,3,3,26,0,JeQuan Lewis Defensive Rebound.
+VCU,Davidson,9,3,3,34,1,Melvin Johnson made Three Point Jumper. Assisted by JeQuan Lewis.
+VCU,Davidson,9,3,3,48,0,Jordan Watkins missed Three Point Jumper.
+VCU,Davidson,9,3,3,48,0,Andrew McAuliffe Offensive Rebound.
+VCU,Davidson,9,3,3,53,0,Jordan Watkins Turnover.
+VCU,Davidson,9,3,3,53,0,Melvin Johnson Steal.
+VCU,Davidson,11,3,3,57,1,Melvin Johnson made Dunk.
+VCU,Davidson,11,3,4,21,0,Official TV Timeout
+VCU,Davidson,11,5,4,23,1,Peyton Aldridge made Jumper. Assisted by Brian Sullivan.
+VCU,Davidson,11,5,4,38,0,Mo Alie-Cox missed Jumper.
+VCU,Davidson,11,5,4,38,0,Peyton Aldridge Defensive Rebound.
+VCU,Davidson,11,5,4,56,0,Brian Sullivan missed Three Point Jumper.
+VCU,Davidson,11,5,4,56,0,Doug Brooks Block.
+VCU,Davidson,11,5,4,56,0,Andrew McAuliffe Offensive Rebound.
+VCU,Davidson,11,5,5,2,0,Oskar Michelsen missed Three Point Jumper.
+VCU,Davidson,11,5,5,2,0,Mo Alie-Cox Defensive Rebound.
+VCU,Davidson,13,5,5,20,1,Mo Alie-Cox made Jumper. Assisted by JeQuan Lewis.
+VCU,Davidson,13,5,5,31,0,Brian Sullivan Turnover.
+VCU,Davidson,13,5,5,31,0,JeQuan Lewis Steal.
+VCU,Davidson,13,5,5,34,0,JeQuan Lewis missed Layup.
+VCU,Davidson,13,5,5,34,0,Jordan Watkins Block.
+VCU,Davidson,13,5,5,34,0,VCU Offensive Rebound.
+VCU,Davidson,15,5,5,46,1,Melvin Johnson made Jumper.
+VCU,Davidson,15,5,5,55,0,Jack Gibbs Turnover.
+VCU,Davidson,15,5,5,55,0,Doug Brooks Steal.
+VCU,Davidson,18,5,5,59,1,Melvin Johnson made Three Point Jumper. Assisted by Doug Brooks.
+VCU,Davidson,18,5,6,0,0,Davidson  Timeout
+VCU,Davidson,18,5,6,13,0,Foul on Jonathan Williams.
+VCU,Davidson,18,6,6,13,1,Brian Sullivan made Free Throw.
+VCU,Davidson,18,7,6,13,1,Brian Sullivan made Free Throw.
+VCU,Davidson,20,7,6,30,1,Ahmed Hamdy Mohamed made Layup.
+VCU,Davidson,20,7,6,31,0,Foul on Jordan Barham.
+VCU,Davidson,20,7,6,31,0,Ahmed Hamdy Mohamed missed Free Throw.
+VCU,Davidson,20,7,6,31,0,Jordan Barham Defensive Rebound.
+VCU,Davidson,20,7,6,44,0,Foul on Jonathan Williams.
+VCU,Davidson,20,7,6,50,0,Peyton Aldridge missed Jumper.
+VCU,Davidson,20,7,6,50,0,Ahmed Hamdy Mohamed Block.
+VCU,Davidson,20,7,6,50,0,Doug Brooks Defensive Rebound.
+VCU,Davidson,20,7,6,58,0,Doug Brooks Turnover.
+VCU,Davidson,20,7,6,58,0,Peyton Aldridge Steal.
+VCU,Davidson,20,7,7,5,0,Jack Gibbs Turnover.
+VCU,Davidson,20,7,7,5,0,Doug Brooks Steal.
+VCU,Davidson,20,7,7,11,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Davidson,20,7,7,11,0,Peyton Aldridge Defensive Rebound.
+VCU,Davidson,20,7,7,36,0,Jordan Barham missed Jumper.
+VCU,Davidson,20,7,7,36,0,Ahmed Hamdy Mohamed Defensive Rebound.
+VCU,Davidson,22,7,7,42,1,JeQuan Lewis made Layup.
+VCU,Davidson,22,7,8,10,0,Jack Gibbs Turnover.
+VCU,Davidson,22,7,8,10,0,Justin Tillman Steal.
+VCU,Davidson,22,7,8,18,0,Ahmed Hamdy Mohamed missed Layup.
+VCU,Davidson,22,7,8,19,0,Jordan Barham Block.
+VCU,Davidson,22,7,8,20,0,Brian Sullivan Defensive Rebound.
+VCU,Davidson,22,7,8,21,0,Official TV Timeout
+VCU,Davidson,22,7,8,44,0,Rusty Reigel missed Three Point Jumper.
+VCU,Davidson,22,7,8,44,0,Mo Alie-Cox Defensive Rebound.
+VCU,Davidson,22,7,8,50,0,Foul on Rusty Reigel.
+VCU,Davidson,22,7,9,3,0,Mo Alie-Cox missed Layup.
+VCU,Davidson,22,7,9,3,0,Peyton Aldridge Defensive Rebound.
+VCU,Davidson,22,7,9,5,0,Jack Gibbs Turnover.
+VCU,Davidson,22,7,9,5,0,Doug Brooks Steal.
+VCU,Davidson,24,7,9,18,1,Mo Alie-Cox made Jumper. Assisted by Doug Brooks.
+VCU,Davidson,24,7,9,25,0,Foul on Doug Brooks.
+VCU,Davidson,24,7,9,34,0,Jack Gibbs missed Jumper.
+VCU,Davidson,24,7,9,34,0,Mo Alie-Cox Defensive Rebound.
+VCU,Davidson,26,7,9,55,1,Mo Alie-Cox made Layup.
+VCU,Davidson,26,7,10,12,0,Foul on JeQuan Lewis.
+VCU,Davidson,26,7,10,22,0,Jack Gibbs missed Three Point Jumper.
+VCU,Davidson,26,7,10,22,0,Michael Gilmore Defensive Rebound.
+VCU,Davidson,26,7,10,30,0,Melvin Johnson Turnover.
+VCU,Davidson,26,7,10,47,0,Andrew McAuliffe missed Jumper.
+VCU,Davidson,26,7,10,47,0,Korey Billbury Defensive Rebound.
+VCU,Davidson,29,7,11,11,1,JeQuan Lewis made Three Point Jumper. Assisted by Korey Billbury.
+VCU,Davidson,29,7,11,20,0,Foul on Korey Billbury.
+VCU,Davidson,29,7,11,24,0,Peyton Aldridge missed Three Point Jumper.
+VCU,Davidson,29,7,11,24,0,Doug Brooks Defensive Rebound.
+VCU,Davidson,29,7,11,47,0,Foul on Doug Brooks.
+VCU,Davidson,29,7,11,47,0,Doug Brooks Turnover.
+VCU,Davidson,29,7,11,54,0,Foul on Jonathan Williams.
+VCU,Davidson,29,8,11,54,1,Jack Gibbs made Free Throw.
+VCU,Davidson,29,9,11,54,1,Jack Gibbs made Free Throw.
+VCU,Davidson,29,9,12,18,0,Melvin Johnson missed Jumper.
+VCU,Davidson,29,9,12,18,0,Andrew McAuliffe Defensive Rebound.
+VCU,Davidson,29,11,12,28,1,Brian Sullivan made Jumper.
+VCU,Davidson,29,11,12,49,0,Michael Gilmore missed Three Point Jumper.
+VCU,Davidson,29,11,12,49,0,Brian Sullivan Defensive Rebound.
+VCU,Davidson,29,11,13,6,0,Foul on Torey Burston.
+VCU,Davidson,29,11,13,6,0,Official TV Timeout
+VCU,Davidson,29,12,13,6,1,Jack Gibbs made Free Throw.
+VCU,Davidson,29,13,13,6,1,Jack Gibbs made Free Throw.
+VCU,Davidson,29,13,13,6,0,Jack Gibbs missed Free Throw.
+VCU,Davidson,29,13,13,10,0,Justin Tillman Defensive Rebound.
+VCU,Davidson,29,13,13,37,0,JeQuan Lewis missed Jumper.
+VCU,Davidson,29,13,13,37,0,Justin Tillman Offensive Rebound.
+VCU,Davidson,31,13,13,37,1,Justin Tillman made Two Point Tip Shot.
+VCU,Davidson,31,13,14,3,0,Peyton Aldridge missed Jumper.
+VCU,Davidson,31,13,14,3,0,Justin Tillman Defensive Rebound.
+VCU,Davidson,31,13,14,29,0,Melvin Johnson missed Layup.
+VCU,Davidson,31,13,14,29,0,Mo Alie-Cox Offensive Rebound.
+VCU,Davidson,33,13,14,29,1,Mo Alie-Cox made Two Point Tip Shot.
+VCU,Davidson,33,13,15,2,0,Brian Sullivan missed Three Point Jumper.
+VCU,Davidson,33,13,15,2,0,Justin Tillman Defensive Rebound.
+VCU,Davidson,33,13,15,10,0,Foul on Jordan Watkins.
+VCU,Davidson,33,13,15,10,0,Foul on Peyton Aldridge.
+VCU,Davidson,33,13,15,13,0,Melvin Johnson missed Jumper.
+VCU,Davidson,33,13,15,13,0,Oskar Michelsen Defensive Rebound.
+VCU,Davidson,33,13,15,33,0,Foul on Justin Tillman.
+VCU,Davidson,33,14,15,33,1,Jordan Barham made Free Throw.
+VCU,Davidson,33,15,15,33,1,Jordan Barham made Free Throw.
+VCU,Davidson,35,15,15,51,1,Mo Alie-Cox made Jumper.
+VCU,Davidson,35,17,16,7,1,Andrew McAuliffe made Jumper.
+VCU,Davidson,37,17,16,29,1,Melvin Johnson made Layup.
+VCU,Davidson,37,17,16,39,0,Brian Sullivan missed Three Point Jumper.
+VCU,Davidson,37,17,16,39,0,Mo Alie-Cox Defensive Rebound.
+VCU,Davidson,37,17,16,48,0,Foul on Oskar Michelsen.
+VCU,Davidson,37,17,16,48,0,Official TV Timeout
+VCU,Davidson,38,17,16,48,1,Melvin Johnson made Free Throw.
+VCU,Davidson,38,17,16,48,0,Melvin Johnson missed Free Throw.
+VCU,Davidson,38,17,16,49,0,Jordan Barham Defensive Rebound.
+VCU,Davidson,38,20,17,8,1,Jack Gibbs made Three Point Jumper. Assisted by Brian Sullivan.
+VCU,Davidson,38,20,17,29,0,JeQuan Lewis missed Layup.
+VCU,Davidson,38,20,17,29,0,Jack Gibbs Defensive Rebound.
+VCU,Davidson,38,20,17,40,0,Jack Gibbs missed Three Point Jumper.
+VCU,Davidson,38,20,17,40,0,Melvin Johnson Defensive Rebound.
+VCU,Davidson,38,20,17,52,0,Melvin Johnson missed Three Point Jumper.
+VCU,Davidson,38,20,17,52,0,Andrew McAuliffe Defensive Rebound.
+VCU,Davidson,38,20,18,18,0,Jordan Barham missed Layup.
+VCU,Davidson,38,20,18,18,0,Mo Alie-Cox Defensive Rebound.
+VCU,Davidson,38,20,18,45,0,JeQuan Lewis missed Layup.
+VCU,Davidson,38,20,18,45,0,Jordan Barham Defensive Rebound.
+VCU,Davidson,38,22,18,59,1,Jack Gibbs made Jumper.
+VCU,Davidson,38,22,19,28,0,Melvin Johnson Turnover.
+VCU,Davidson,38,22,19,28,0,Brian Sullivan Steal.
+VCU,Davidson,38,25,19,54,1,Jack Gibbs made Three Point Jumper.
+VCU,Davidson,38,25,19,57,0,JeQuan Lewis Turnover.
+VCU,Davidson,38,28,19,59,1,Peyton Aldridge made Three Point Jumper. Assisted by Oskar Michelsen.
+VCU,Davidson,38,28,20,0,0,End of 1st half
+VCU,Davidson,38,28,20,0,0,Jump Ball won by Davidson
+VCU,Davidson,38,28,20,12,0,Brian Sullivan Turnover.
+VCU,Davidson,38,28,20,12,0,JeQuan Lewis Steal.
+VCU,Davidson,40,28,20,33,1,Melvin Johnson made Jumper.
+VCU,Davidson,40,31,20,57,1,Jack Gibbs made Three Point Jumper. Assisted by Nathan Ekwu.
+VCU,Davidson,42,31,21,13,1,Mo Alie-Cox made Dunk. Assisted by JeQuan Lewis.
+VCU,Davidson,42,31,21,42,0,Brian Sullivan missed Layup.
+VCU,Davidson,42,31,21,42,0,JeQuan Lewis Defensive Rebound.
+VCU,Davidson,44,31,21,52,1,Melvin Johnson made Jumper.
+VCU,Davidson,44,33,22,21,1,Jack Gibbs made Jumper.
+VCU,Davidson,47,33,22,39,1,JeQuan Lewis made Three Point Jumper.
+VCU,Davidson,47,33,23,2,0,Peyton Aldridge missed Jumper.
+VCU,Davidson,47,33,23,2,0,Peyton Aldridge Offensive Rebound.
+VCU,Davidson,47,36,23,6,1,Brian Sullivan made Three Point Jumper. Assisted by Peyton Aldridge.
+VCU,Davidson,47,36,23,26,0,JeQuan Lewis Turnover.
+VCU,Davidson,47,36,23,26,0,Jack Gibbs Steal.
+VCU,Davidson,47,36,23,35,0,Brian Sullivan missed Layup.
+VCU,Davidson,47,36,23,35,0,Mo Alie-Cox Block.
+VCU,Davidson,47,36,23,35,0,Melvin Johnson Defensive Rebound.
+VCU,Davidson,47,36,23,38,0,Melvin Johnson missed Three Point Jumper.
+VCU,Davidson,47,36,23,38,0,Michael Gilmore Offensive Rebound.
+VCU,Davidson,47,36,23,41,0,Foul on Andrew McAuliffe.
+VCU,Davidson,47,36,23,41,0,Michael Gilmore missed Free Throw.
+VCU,Davidson,47,36,23,41,0,VCU Deadball Team Rebound.
+VCU,Davidson,47,36,23,41,0,Michael Gilmore missed Free Throw.
+VCU,Davidson,47,36,23,41,0,Andrew McAuliffe Defensive Rebound.
+VCU,Davidson,47,36,24,4,0,Jack Gibbs missed Three Point Jumper.
+VCU,Davidson,47,36,24,4,0,Michael Gilmore Defensive Rebound.
+VCU,Davidson,49,36,24,24,1,Melvin Johnson made Jumper.
+VCU,Davidson,49,36,24,37,0,Foul on Doug Brooks.
+VCU,Davidson,49,36,24,37,0,Official TV Timeout
+VCU,Davidson,49,36,24,41,0,Foul on Ahmed Hamdy Mohamed.
+VCU,Davidson,49,36,24,44,0,Peyton Aldridge missed Layup.
+VCU,Davidson,49,36,24,44,0,Melvin Johnson Block.
+VCU,Davidson,49,36,24,44,0,JeQuan Lewis Defensive Rebound.
+VCU,Davidson,49,36,25,10,0,Melvin Johnson missed Three Point Jumper.
+VCU,Davidson,49,36,25,10,0,Justin Tillman Offensive Rebound.
+VCU,Davidson,49,36,25,19,0,Ahmed Hamdy Mohamed missed Layup.
+VCU,Davidson,49,36,25,19,0,Brian Sullivan Block.
+VCU,Davidson,49,36,25,19,0,Peyton Aldridge Defensive Rebound.
+VCU,Davidson,49,38,25,26,1,Jack Gibbs made Layup.
+VCU,Davidson,49,38,25,54,0,Melvin Johnson Turnover.
+VCU,Davidson,49,38,25,54,0,Peyton Aldridge Steal.
+VCU,Davidson,49,38,25,59,0,Brian Sullivan missed Three Point Jumper.
+VCU,Davidson,49,38,25,59,0,Korey Billbury Defensive Rebound.
+VCU,Davidson,49,38,26,7,0,Foul on Oskar Michelsen.
+VCU,Davidson,50,38,26,7,1,Korey Billbury made Free Throw.
+VCU,Davidson,51,38,26,7,1,Korey Billbury made Free Throw.
+VCU,Davidson,51,38,26,21,0,Oskar Michelsen Turnover.
+VCU,Davidson,51,38,26,21,0,JeQuan Lewis Steal.
+VCU,Davidson,51,38,26,31,0,Korey Billbury missed Layup.
+VCU,Davidson,51,38,26,31,0,Oskar Michelsen Block.
+VCU,Davidson,51,38,26,31,0,Jordan Barham Defensive Rebound.
+VCU,Davidson,51,38,26,41,0,Jack Gibbs Turnover.
+VCU,Davidson,51,38,26,41,0,JeQuan Lewis Steal.
+VCU,Davidson,51,38,26,41,0,Jump Ball won by VCU
+VCU,Davidson,51,38,26,49,0,Foul on Peyton Aldridge.
+VCU,Davidson,53,38,26,53,1,Korey Billbury made Jumper.
+VCU,Davidson,53,38,27,22,0,Jordan Barham missed Jumper.
+VCU,Davidson,53,38,27,22,0,Melvin Johnson Defensive Rebound.
+VCU,Davidson,53,38,27,40,0,JeQuan Lewis Turnover.
+VCU,Davidson,53,38,27,54,0,Foul on JeQuan Lewis.
+VCU,Davidson,53,41,28,20,1,Jack Gibbs made Three Point Jumper.
+VCU,Davidson,53,41,28,24,0,Official TV Timeout
+VCU,Davidson,53,41,28,34,0,Foul on Andrew McAuliffe.
+VCU,Davidson,53,41,28,40,0,JeQuan Lewis Turnover.
+VCU,Davidson,53,41,28,40,0,Brian Sullivan Steal.
+VCU,Davidson,53,43,28,45,1,Brian Sullivan made Layup.
+VCU,Davidson,53,43,29,12,0,Melvin Johnson missed Jumper.
+VCU,Davidson,53,43,29,12,0,Andrew McAuliffe Defensive Rebound.
+VCU,Davidson,53,43,29,16,0,Foul on Melvin Johnson.
+VCU,Davidson,53,43,29,30,0,Oskar Michelsen missed Three Point Jumper.
+VCU,Davidson,53,43,29,30,0,Doug Brooks Defensive Rebound.
+VCU,Davidson,53,43,29,48,0,Doug Brooks missed Jumper.
+VCU,Davidson,53,43,29,48,0,Justin Tillman Offensive Rebound.
+VCU,Davidson,53,43,29,51,0,Justin Tillman missed Layup.
+VCU,Davidson,53,43,29,51,0,Justin Tillman Offensive Rebound.
+VCU,Davidson,55,43,29,56,1,Justin Tillman made Layup.
+VCU,Davidson,55,46,30,12,1,Brian Sullivan made Three Point Jumper.
+VCU,Davidson,55,46,30,26,0,Doug Brooks Turnover.
+VCU,Davidson,55,46,30,26,0,Oskar Michelsen Steal.
+VCU,Davidson,55,46,30,52,0,Brian Sullivan missed Three Point Jumper.
+VCU,Davidson,55,46,30,52,0,Doug Brooks Defensive Rebound.
+VCU,Davidson,55,46,31,3,0,VCU  Timeout
+VCU,Davidson,55,46,31,7,0,Korey Billbury Turnover.
+VCU,Davidson,55,46,31,7,0,Oskar Michelsen Steal.
+VCU,Davidson,55,46,31,9,0,Foul on Korey Billbury.
+VCU,Davidson,55,48,31,14,1,Jack Gibbs made Layup.
+VCU,Davidson,55,48,31,27,0,Doug Brooks missed Three Point Jumper.
+VCU,Davidson,55,48,31,27,0,Andrew McAuliffe Defensive Rebound.
+VCU,Davidson,55,50,31,46,1,Andrew McAuliffe made Dunk. Assisted by Jack Gibbs.
+VCU,Davidson,57,50,32,4,1,Justin Tillman made Jumper. Assisted by Korey Billbury.
+VCU,Davidson,57,50,32,14,0,Foul on Doug Brooks.
+VCU,Davidson,57,50,32,14,0,Official TV Timeout
+VCU,Davidson,57,50,32,15,0,Peyton Aldridge Turnover.
+VCU,Davidson,57,50,32,28,0,Mo Alie-Cox Turnover.
+VCU,Davidson,57,50,32,28,0,Foul on Mo Alie-Cox.
+VCU,Davidson,57,52,32,38,1,Andrew McAuliffe made Dunk. Assisted by Jack Gibbs.
+VCU,Davidson,57,52,32,56,0,Korey Billbury missed Layup.
+VCU,Davidson,57,52,32,56,0,Oskar Michelsen Defensive Rebound.
+VCU,Davidson,57,55,33,9,1,Jack Gibbs made Three Point Jumper.
+VCU,Davidson,59,55,33,28,1,JeQuan Lewis made Layup.
+VCU,Davidson,59,55,33,38,0,Brian Sullivan Turnover.
+VCU,Davidson,59,55,33,48,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Davidson,59,55,33,48,0,Mo Alie-Cox Offensive Rebound.
+VCU,Davidson,59,55,33,51,0,Foul on Oskar Michelsen.
+VCU,Davidson,60,55,33,51,1,Mo Alie-Cox made Free Throw.
+VCU,Davidson,61,55,33,51,1,Mo Alie-Cox made Free Throw.
+VCU,Davidson,61,55,34,3,0,Jack Gibbs missed Three Point Jumper.
+VCU,Davidson,61,55,34,3,0,Mo Alie-Cox Defensive Rebound.
+VCU,Davidson,61,55,34,31,0,Melvin Johnson missed Jumper.
+VCU,Davidson,61,55,34,31,0,Oskar Michelsen Defensive Rebound.
+VCU,Davidson,61,55,34,38,0,Jack Gibbs missed Layup.
+VCU,Davidson,61,55,34,38,0,Mo Alie-Cox Block.
+VCU,Davidson,61,55,34,38,0,JeQuan Lewis Defensive Rebound.
+VCU,Davidson,63,55,34,44,1,Justin Tillman made Layup. Assisted by JeQuan Lewis.
+VCU,Davidson,63,55,34,45,0,Foul on Brian Sullivan.
+VCU,Davidson,64,55,34,45,1,Justin Tillman made Free Throw.
+VCU,Davidson,64,55,34,51,0,Foul on JeQuan Lewis.
+VCU,Davidson,64,55,34,51,0,Peyton Aldridge missed Free Throw.
+VCU,Davidson,64,55,34,51,0,Doug Brooks Defensive Rebound.
+VCU,Davidson,64,55,35,5,0,JeQuan Lewis missed Layup.
+VCU,Davidson,64,55,35,5,0,Mo Alie-Cox Offensive Rebound.
+VCU,Davidson,64,55,35,7,0,Mo Alie-Cox missed Layup.
+VCU,Davidson,64,55,35,7,0,Doug Brooks Offensive Rebound.
+VCU,Davidson,66,55,35,30,1,JeQuan Lewis made Layup.
+VCU,Davidson,66,57,35,44,1,Jack Gibbs made Jumper.
+VCU,Davidson,66,57,36,4,0,Foul on Michael Gilmore.
+VCU,Davidson,66,57,36,4,0,Michael Gilmore Turnover.
+VCU,Davidson,66,57,36,4,0,Official TV Timeout
+VCU,Davidson,66,57,36,15,0,Foul on JeQuan Lewis.
+VCU,Davidson,66,58,36,15,1,Jack Gibbs made Free Throw.
+VCU,Davidson,66,59,36,15,1,Jack Gibbs made Free Throw.
+VCU,Davidson,66,59,36,30,0,JeQuan Lewis missed Layup.
+VCU,Davidson,66,59,36,30,0,Andrew McAuliffe Block.
+VCU,Davidson,66,59,36,30,0,Mo Alie-Cox Offensive Rebound.
+VCU,Davidson,66,59,36,37,0,Melvin Johnson missed Jumper.
+VCU,Davidson,66,59,36,37,0,Mo Alie-Cox Offensive Rebound.
+VCU,Davidson,66,59,36,40,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Davidson,66,59,36,40,0,VCU Offensive Rebound.
+VCU,Davidson,66,59,36,47,0,Foul on Jack Gibbs.
+VCU,Davidson,66,59,36,47,0,Justin Tillman missed Free Throw.
+VCU,Davidson,66,59,36,47,0,VCU Deadball Team Rebound.
+VCU,Davidson,67,59,36,47,1,Justin Tillman made Free Throw.
+VCU,Davidson,67,59,36,55,0,Jack Gibbs Turnover.
+VCU,Davidson,67,59,36,55,0,Justin Tillman Steal.
+VCU,Davidson,70,59,37,2,1,JeQuan Lewis made Three Point Jumper. Assisted by Doug Brooks.
+VCU,Davidson,70,59,37,7,0,Peyton Aldridge Turnover.
+VCU,Davidson,70,59,37,7,0,Doug Brooks Steal.
+VCU,Davidson,72,59,37,17,1,Mo Alie-Cox made Dunk. Assisted by JeQuan Lewis.
+VCU,Davidson,72,59,37,19,0,Davidson  Timeout
+VCU,Davidson,72,59,37,26,0,Jack Gibbs Turnover.
+VCU,Davidson,72,59,37,39,0,Mo Alie-Cox Turnover.
+VCU,Davidson,72,61,37,48,1,Andrew McAuliffe made Jumper. Assisted by Jack Gibbs.
+VCU,Davidson,72,61,37,54,0,Foul on Jack Gibbs.
+VCU,Davidson,73,61,37,54,1,JeQuan Lewis made Free Throw.
+VCU,Davidson,74,61,37,54,1,JeQuan Lewis made Free Throw.
+VCU,Davidson,74,63,38,17,1,Andrew McAuliffe made Jumper. Assisted by Brian Sullivan.
+VCU,Davidson,76,63,38,36,1,JeQuan Lewis made Layup.
+VCU,Davidson,76,66,38,47,1,Jack Gibbs made Three Point Jumper. Assisted by Brian Sullivan.
+VCU,Davidson,76,66,38,49,0,Davidson  Timeout
+VCU,Davidson,76,66,38,50,0,Foul on Jordan Watkins.
+VCU,Davidson,76,66,38,50,0,Melvin Johnson missed Free Throw.
+VCU,Davidson,76,66,38,50,0,Peyton Aldridge Defensive Rebound.
+VCU,Davidson,76,66,39,4,0,Peyton Aldridge missed Three Point Jumper.
+VCU,Davidson,76,66,39,4,0,Justin Tillman Defensive Rebound.
+VCU,Davidson,76,66,39,13,0,Foul on Brian Sullivan.
+VCU,Davidson,77,66,39,13,1,JeQuan Lewis made Free Throw.
+VCU,Davidson,78,66,39,13,1,JeQuan Lewis made Free Throw.
+VCU,Davidson,78,66,39,23,0,Brian Sullivan missed Three Point Jumper.
+VCU,Davidson,78,66,39,23,0,Korey Billbury Defensive Rebound.
+VCU,Davidson,78,66,39,27,0,Foul on Peyton Aldridge.
+VCU,Davidson,78,66,39,27,0,JeQuan Lewis missed Free Throw.
+VCU,Davidson,78,66,39,27,0,VCU Deadball Team Rebound.
+VCU,Davidson,79,66,39,27,1,JeQuan Lewis made Free Throw.
+VCU,Davidson,79,69,39,33,1,Jack Gibbs made Three Point Jumper.
+VCU,Davidson,79,69,39,55,0,Jonathan Williams Turnover.
+VCU,Davidson,79,69,39,55,0,Brian Sullivan Steal.
+VCU,Davidson,79,69,39,59,0,Jack Gibbs missed Three Point Jumper.
+VCU,Davidson,79,69,39,59,0,Davidson Deadball Team Rebound.
+VCU,Davidson,79,69,40,0,0,End of Game

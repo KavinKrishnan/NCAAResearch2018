@@ -1,0 +1,365 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Pacific,Hawai'i,2,0,0,20,1,Lorenzo McCloud made Layup.
+Pacific,Hawai'i,2,0,0,35,0,Brandon Jawato missed Three Point Jumper.
+Pacific,Hawai'i,2,0,0,35,0,Khalil Kelley Defensive Rebound.
+Pacific,Hawai'i,2,0,0,53,0,Colin Beatty missed Three Point Jumper.
+Pacific,Hawai'i,2,0,0,53,0,Travis Fulton Offensive Rebound.
+Pacific,Hawai'i,2,0,0,58,0,Travis Fulton Turnover.
+Pacific,Hawai'i,2,2,1,28,1,Vander Joaquim made Jumper.
+Pacific,Hawai'i,2,2,1,37,0,Travis Fulton missed Three Point Jumper.
+Pacific,Hawai'i,2,2,1,37,0,Khalil Kelley Offensive Rebound.
+Pacific,Hawai'i,2,2,1,39,0,Khalil Kelley missed Jumper.
+Pacific,Hawai'i,2,2,1,39,0,Isaac Fotu Defensive Rebound.
+Pacific,Hawai'i,2,2,1,56,0,Foul on Lorenzo McCloud
+Pacific,Hawai'i,2,2,2,0,0,Brandon Jawato missed Three Point Jumper.
+Pacific,Hawai'i,2,2,2,0,0,Colin Beatty Defensive Rebound.
+Pacific,Hawai'i,2,2,2,26,0,Lorenzo McCloud missed Jumper.
+Pacific,Hawai'i,2,2,2,26,0,Travis Fulton Offensive Rebound.
+Pacific,Hawai'i,4,2,2,30,1,Colin Beatty made Jumper.  Assisted by Travis Fulton.
+Pacific,Hawai'i,4,2,2,46,0,Isaac Fotu missed Jumper.
+Pacific,Hawai'i,4,2,2,46,0,Khalil Kelley Block.
+Pacific,Hawai'i,4,2,2,47,0,Khalil Kelley Defensive Rebound.
+Pacific,Hawai'i,4,2,3,0,0,Colin Beatty missed Three Point Jumper.
+Pacific,Hawai'i,4,2,3,0,0,Brandon Jawato Defensive Rebound.
+Pacific,Hawai'i,4,4,3,11,1,Vander Joaquim made Jumper.
+Pacific,Hawai'i,6,4,3,27,1,Sama Taku made Jumper.
+Pacific,Hawai'i,6,4,3,46,0,Foul on Khalil Kelley
+Pacific,Hawai'i,6,4,4,5,0,Jace Tavita Turnover.
+Pacific,Hawai'i,6,4,4,5,0,Lorenzo McCloud Steal.
+Pacific,Hawai'i,6,4,4,10,0,Foul on Brandon Jawato
+Pacific,Hawai'i,6,4,4,10,0,Official TV Timeout.
+Pacific,Hawai'i,6,4,4,20,0,Sama Taku missed Three Point Jumper.
+Pacific,Hawai'i,6,4,4,20,0,Vander Joaquim Defensive Rebound.
+Pacific,Hawai'i,6,4,4,32,0,Christian Standhardinger missed Jumper.
+Pacific,Hawai'i,6,4,4,32,0,Lorenzo McCloud Defensive Rebound.
+Pacific,Hawai'i,6,4,4,40,0,Lorenzo McCloud Turnover.
+Pacific,Hawai'i,6,4,4,41,0,Christian Standhardinger Steal.
+Pacific,Hawai'i,6,4,4,44,0,Brandon Jawato Turnover.
+Pacific,Hawai'i,6,4,4,44,0,Foul on Brandon Jawato
+Pacific,Hawai'i,8,4,4,49,1,Tony Gill made Jumper.  Assisted by Sama Taku.
+Pacific,Hawai'i,8,4,5,31,0,Hawaii Turnover.
+Pacific,Hawai'i,8,4,5,43,0,Travis Fulton missed Jumper.
+Pacific,Hawai'i,8,4,5,43,0,Colin Beatty Offensive Rebound.
+Pacific,Hawai'i,8,4,5,45,0,Lorenzo McCloud missed Three Point Jumper.
+Pacific,Hawai'i,8,4,5,45,0,Hauns Brereton Defensive Rebound.
+Pacific,Hawai'i,8,4,6,10,0,Hauns Brereton Turnover.
+Pacific,Hawai'i,8,4,6,11,0,Trevin Harris Steal.
+Pacific,Hawai'i,8,4,6,11,0,Rodrigo De Souza Turnover.
+Pacific,Hawai'i,8,4,6,11,0,Ozren Pavlovic Steal.
+Pacific,Hawai'i,8,4,6,16,0,Brandon Spearman missed Three Point Jumper.
+Pacific,Hawai'i,8,4,6,16,0,Isaac Fotu Offensive Rebound.
+Pacific,Hawai'i,8,4,6,18,0,Foul on Ross Rivera
+Pacific,Hawai'i,8,7,6,42,1,Hauns Brereton made Three Point Jumper.  Assisted by Ozren Pavlovic.
+Pacific,Hawai'i,10,7,6,59,1,Sama Taku made Jumper.
+Pacific,Hawai'i,10,9,7,2,1,Hauns Brereton made Jumper.
+Pacific,Hawai'i,10,9,7,24,0,Sama Taku missed Three Point Jumper.
+Pacific,Hawai'i,10,9,7,24,0,Brandon Spearman Defensive Rebound.
+Pacific,Hawai'i,10,12,7,38,1,Hauns Brereton made Three Point Jumper.  Assisted by Brandon Spearman.
+Pacific,Hawai'i,12,12,8,10,1,Sama Taku made Layup.  Assisted by Ross Rivera.
+Pacific,Hawai'i,12,12,8,15,0,Ozren Pavlovic Turnover.
+Pacific,Hawai'i,12,12,8,15,0,Rodrigo De Souza Steal.
+Pacific,Hawai'i,14,12,8,15,1,Rodrigo De Souza made Layup.
+Pacific,Hawai'i,14,12,8,37,0,Vander Joaquim missed Jumper.
+Pacific,Hawai'i,14,12,8,37,0,Ozren Pavlovic Offensive Rebound.
+Pacific,Hawai'i,14,12,8,54,0,Isaac Fotu Turnover.
+Pacific,Hawai'i,14,12,8,54,0,Rodrigo De Souza Steal.
+Pacific,Hawai'i,14,12,8,54,0,Official TV Timeout.
+Pacific,Hawai'i,14,12,9,27,0,Ross Rivera missed Layup.
+Pacific,Hawai'i,14,12,9,27,0,Khalil Kelley Offensive Rebound.
+Pacific,Hawai'i,14,12,9,31,0,Khalil Kelley missed Jumper.
+Pacific,Hawai'i,14,12,9,31,0,Trevin Harris Offensive Rebound.
+Pacific,Hawai'i,14,12,9,34,0,Markus Duran missed Three Point Jumper.
+Pacific,Hawai'i,14,12,9,34,0,Hawaii Defensive Rebound.
+Pacific,Hawai'i,14,12,9,44,0,Ozren Pavlovic missed Layup.
+Pacific,Hawai'i,14,12,9,44,0,Khalil Kelley Block.
+Pacific,Hawai'i,14,12,9,51,0,Pacific Defensive Rebound.
+Pacific,Hawai'i,14,12,10,4,0,Pacific Turnover.
+Pacific,Hawai'i,14,15,10,10,1,Ozren Pavlovic made Three Point Jumper.  Assisted by Brandon Spearman.
+Pacific,Hawai'i,14,15,10,29,0,Trevin Harris missed Jumper.
+Pacific,Hawai'i,14,15,10,29,0,Travis Fulton Offensive Rebound.
+Pacific,Hawai'i,14,15,10,35,0,Markus Duran missed Three Point Jumper.
+Pacific,Hawai'i,14,15,10,35,0,Brandon Spearman Defensive Rebound.
+Pacific,Hawai'i,14,18,10,42,1,Hauns Brereton made Three Point Jumper.  Assisted by Brandon Spearman.
+Pacific,Hawai'i,14,18,11,6,0,Sama Taku Turnover.
+Pacific,Hawai'i,14,18,11,6,0,Christian Standhardinger Steal.
+Pacific,Hawai'i,14,18,11,16,0,Foul on Colin Beatty
+Pacific,Hawai'i,14,19,11,16,1,Ozren Pavlovic made Free Throw.
+Pacific,Hawai'i,14,20,11,16,1,Ozren Pavlovic made Free Throw.
+Pacific,Hawai'i,14,20,11,16,0,Ozren Pavlovic missed Free Throw.
+Pacific,Hawai'i,14,20,11,16,0,Colin Beatty Defensive Rebound.
+Pacific,Hawai'i,14,20,11,27,0,Pacific Turnover.
+Pacific,Hawai'i,14,20,11,38,0,Ozren Pavlovic missed Layup.
+Pacific,Hawai'i,14,20,11,38,0,Khalil Kelley Defensive Rebound.
+Pacific,Hawai'i,14,20,11,58,0,Colin Beatty missed Jumper.
+Pacific,Hawai'i,14,20,11,58,0,Khalil Kelley Offensive Rebound.
+Pacific,Hawai'i,16,20,12,3,1,Khalil Kelley made Jumper.
+Pacific,Hawai'i,16,20,12,18,0,Christian Standhardinger missed Jumper.
+Pacific,Hawai'i,16,20,12,18,0,Pacific Defensive Rebound.
+Pacific,Hawai'i,16,20,12,21,0,Official TV Timeout.
+Pacific,Hawai'i,16,20,12,55,0,Colin Beatty missed Jumper.
+Pacific,Hawai'i,16,20,12,55,0,Vander Joaquim Defensive Rebound.
+Pacific,Hawai'i,16,20,12,56,0,Foul on Khalil Kelley
+Pacific,Hawai'i,16,20,13,0,0,Christian Standhardinger missed Jumper.
+Pacific,Hawai'i,16,20,13,0,0,Travis Fulton Defensive Rebound.
+Pacific,Hawai'i,19,20,13,37,1,Trevin Harris made Three Point Jumper.  Assisted by Lorenzo McCloud.
+Pacific,Hawai'i,19,20,13,43,0,Garrett Jefferson Turnover.
+Pacific,Hawai'i,19,20,13,49,0,Tony Gill missed Three Point Jumper.
+Pacific,Hawai'i,19,20,13,49,0,Isaac Fotu Defensive Rebound.
+Pacific,Hawai'i,19,20,14,4,0,Foul on Travis Fulton
+Pacific,Hawai'i,19,22,14,4,1,Christian Standhardinger made Jumper.  Assisted by Jace Tavita.
+Pacific,Hawai'i,21,22,14,5,1,Tony Gill made Jumper.  Assisted by Sama Taku.
+Pacific,Hawai'i,21,22,14,5,0,Foul on Isaac Fotu
+Pacific,Hawai'i,22,22,14,5,1,Tony Gill made Free Throw.
+Pacific,Hawai'i,22,22,14,54,0,Jace Tavita missed Three Point Jumper.
+Pacific,Hawai'i,22,22,14,54,0,Travis Fulton Defensive Rebound.
+Pacific,Hawai'i,22,22,15,9,0,Sama Taku missed Layup.
+Pacific,Hawai'i,22,22,15,9,0,Christian Standhardinger Defensive Rebound.
+Pacific,Hawai'i,22,22,15,10,0,Davis Rozitis missed Jumper.
+Pacific,Hawai'i,22,22,15,10,0,Vander Joaquim Offensive Rebound.
+Pacific,Hawai'i,22,22,15,11,0,Vander Joaquim missed Jumper.
+Pacific,Hawai'i,22,22,15,11,0,null
+Pacific,Hawai'i,22,22,15,11,0,Foul on Davis Rozitis
+Pacific,Hawai'i,25,22,15,40,1,Trevin Harris made Three Point Jumper.  Assisted by Rodrigo De Souza.
+Pacific,Hawai'i,25,24,15,51,1,Vander Joaquim made Jumper.
+Pacific,Hawai'i,25,24,15,51,0,Foul on Sama Taku
+Pacific,Hawai'i,25,24,15,51,0,Vander Joaquim missed Free Throw.
+Pacific,Hawai'i,25,24,15,51,0,Christian Standhardinger Offensive Rebound.
+Pacific,Hawai'i,25,26,15,51,1,Christian Standhardinger made Jumper.
+Pacific,Hawai'i,25,26,16,22,0,Trevin Harris missed Three Point Jumper.
+Pacific,Hawai'i,25,26,16,22,0,Pacific Offensive Rebound.
+Pacific,Hawai'i,25,26,16,26,0,Official TV Timeout.
+Pacific,Hawai'i,27,26,16,43,1,Tony Gill made Jumper.  Assisted by Sama Taku.
+Pacific,Hawai'i,27,26,17,1,0,Ozren Pavlovic missed Jumper.
+Pacific,Hawai'i,27,26,17,1,0,Vander Joaquim Offensive Rebound.
+Pacific,Hawai'i,27,28,17,3,1,Vander Joaquim made Jumper.
+Pacific,Hawai'i,27,28,17,28,0,Travis Fulton missed Three Point Jumper.
+Pacific,Hawai'i,27,28,17,28,0,Davis Rozitis Defensive Rebound.
+Pacific,Hawai'i,27,28,17,47,0,Vander Joaquim Turnover.
+Pacific,Hawai'i,27,28,17,47,0,Foul on Vander Joaquim
+Pacific,Hawai'i,29,28,17,54,1,Sama Taku made Jumper.  Assisted by Trevin Harris.
+Pacific,Hawai'i,29,28,18,17,0,Vander Joaquim Turnover.
+Pacific,Hawai'i,29,28,18,18,0,Travis Fulton Steal.
+Pacific,Hawai'i,29,28,18,18,0,Tony Gill missed Three Point Jumper.
+Pacific,Hawai'i,29,28,18,18,0,Ozren Pavlovic Defensive Rebound.
+Pacific,Hawai'i,29,28,18,28,0,Ozren Pavlovic missed Jumper.
+Pacific,Hawai'i,29,28,18,28,0,null
+Pacific,Hawai'i,29,28,18,35,0,Foul on Tony Gill
+Pacific,Hawai'i,29,28,18,36,0,Davis Rozitis missed Free Throw.
+Pacific,Hawai'i,29,28,18,36,0,Trevin Harris Defensive Rebound.
+Pacific,Hawai'i,29,28,18,46,0,Trevin Harris Turnover.
+Pacific,Hawai'i,29,28,18,48,0,Christian Standhardinger Steal.
+Pacific,Hawai'i,29,30,18,51,1,Ozren Pavlovic made Jumper.  Assisted by Isaac Fotu.
+Pacific,Hawai'i,29,30,19,16,0,Sama Taku missed Three Point Jumper.
+Pacific,Hawai'i,29,30,19,16,0,Hawaii Defensive Rebound.
+Pacific,Hawai'i,29,30,19,51,0,Hauns Brereton Turnover.
+Pacific,Hawai'i,29,30,19,53,0,Colin Beatty Steal.
+Pacific,Hawai'i,29,30,19,54,0,Colin Beatty missed Layup.
+Pacific,Hawai'i,29,30,19,55,0,Hauns Brereton Block.
+Pacific,Hawai'i,29,30,19,56,0,Davis Rozitis Defensive Rebound.
+Pacific,Hawai'i,29,30,19,59,0,Christian Standhardinger Turnover.
+Pacific,Hawai'i,29,30,20,0,0,Colin Beatty Steal.
+Pacific,Hawai'i,29,30,20,21,0,Sama Taku missed Three Point Jumper.
+Pacific,Hawai'i,29,30,20,21,0,Colin Beatty Offensive Rebound.
+Pacific,Hawai'i,29,30,20,26,0,Colin Beatty missed Jumper.
+Pacific,Hawai'i,29,30,20,26,0,Brandon Jawato Defensive Rebound.
+Pacific,Hawai'i,29,30,20,54,0,Christian Standhardinger missed Three Point Jumper.
+Pacific,Hawai'i,29,30,20,54,0,Travis Fulton Defensive Rebound.
+Pacific,Hawai'i,29,30,20,56,0,Lorenzo McCloud missed Jumper.
+Pacific,Hawai'i,29,30,20,56,0,Khalil Kelley Offensive Rebound.
+Pacific,Hawai'i,29,30,21,6,0,Foul on Brandon Jawato
+Pacific,Hawai'i,29,30,21,10,0,Colin Beatty missed Jumper.
+Pacific,Hawai'i,29,30,21,10,0,Christian Standhardinger Block.
+Pacific,Hawai'i,29,30,21,11,0,Christian Standhardinger Defensive Rebound.
+Pacific,Hawai'i,29,30,21,17,0,Ozren Pavlovic missed Three Point Jumper.
+Pacific,Hawai'i,29,30,21,17,0,Colin Beatty Defensive Rebound.
+Pacific,Hawai'i,29,30,21,22,0,Colin Beatty Turnover.
+Pacific,Hawai'i,29,30,21,22,0,Brandon Spearman Steal.
+Pacific,Hawai'i,29,32,21,23,1,Isaac Fotu made Layup.
+Pacific,Hawai'i,29,32,21,55,0,Khalil Kelley missed Jumper.
+Pacific,Hawai'i,29,32,21,55,0,Christian Standhardinger Defensive Rebound.
+Pacific,Hawai'i,29,32,22,12,0,Brandon Spearman missed Jumper.
+Pacific,Hawai'i,29,32,22,12,0,Travis Fulton Defensive Rebound.
+Pacific,Hawai'i,29,32,22,19,0,Sama Taku Turnover.
+Pacific,Hawai'i,29,32,22,43,0,Foul on Trevin Harris
+Pacific,Hawai'i,29,32,22,43,0,Christian Standhardinger missed Free Throw.
+Pacific,Hawai'i,29,32,22,43,0,null
+Pacific,Hawai'i,29,33,22,43,1,Christian Standhardinger made Free Throw.
+Pacific,Hawai'i,29,33,22,54,0,Trevin Harris missed Three Point Jumper.
+Pacific,Hawai'i,29,33,22,54,0,Isaac Fotu Defensive Rebound.
+Pacific,Hawai'i,29,33,23,0,0,Garrett Jefferson missed Jumper.
+Pacific,Hawai'i,29,33,23,0,0,Vander Joaquim Offensive Rebound.
+Pacific,Hawai'i,29,33,23,3,0,Vander Joaquim missed Jumper.
+Pacific,Hawai'i,29,33,23,3,0,Vander Joaquim Offensive Rebound.
+Pacific,Hawai'i,29,33,23,6,0,Vander Joaquim missed Jumper.
+Pacific,Hawai'i,29,33,23,6,0,Isaac Fotu Offensive Rebound.
+Pacific,Hawai'i,29,33,23,13,0,Christian Standhardinger missed Three Point Jumper.
+Pacific,Hawai'i,29,33,23,13,0,Tony Gill Defensive Rebound.
+Pacific,Hawai'i,29,33,23,22,0,Trevin Harris missed Three Point Jumper.
+Pacific,Hawai'i,29,33,23,22,0,Isaac Fotu Defensive Rebound.
+Pacific,Hawai'i,29,33,23,48,0,Foul on Travis Fulton
+Pacific,Hawai'i,29,33,23,57,0,Ozren Pavlovic Turnover.
+Pacific,Hawai'i,29,33,23,59,0,Lorenzo McCloud Steal.
+Pacific,Hawai'i,31,33,24,1,1,Trevin Harris made Layup.  Assisted by Lorenzo McCloud.
+Pacific,Hawai'i,31,33,24,17,0,Hawaii Full Timeout.
+Pacific,Hawai'i,31,33,24,28,0,Hawaii Full Timeout.
+Pacific,Hawai'i,31,33,24,29,0,Ozren Pavlovic missed Jumper.
+Pacific,Hawai'i,31,33,24,29,0,Tony Gill Defensive Rebound.
+Pacific,Hawai'i,31,33,24,46,0,Tony Gill Turnover.
+Pacific,Hawai'i,31,33,24,48,0,Hauns Brereton Steal.
+Pacific,Hawai'i,31,33,24,50,0,Ozren Pavlovic missed Jumper.
+Pacific,Hawai'i,31,33,24,50,0,Trevin Harris Block.
+Pacific,Hawai'i,31,33,24,50,0,Hawaii Offensive Rebound.
+Pacific,Hawai'i,31,33,24,50,0,Official TV Timeout.
+Pacific,Hawai'i,31,33,24,53,0,Vander Joaquim missed Jumper.
+Pacific,Hawai'i,31,33,24,53,0,Travis Fulton Defensive Rebound.
+Pacific,Hawai'i,31,33,25,19,0,Travis Fulton missed Three Point Jumper.
+Pacific,Hawai'i,31,33,25,19,0,Tony Gill Offensive Rebound.
+Pacific,Hawai'i,33,33,25,22,1,Tony Gill made Jumper.
+Pacific,Hawai'i,33,33,25,36,0,Foul on Trevin Harris
+Pacific,Hawai'i,33,34,25,36,1,Brandon Jawato made Free Throw.
+Pacific,Hawai'i,33,34,25,36,0,Brandon Jawato missed Free Throw.
+Pacific,Hawai'i,33,34,25,36,0,Travis Fulton Defensive Rebound.
+Pacific,Hawai'i,35,34,26,1,1,Travis Fulton made Jumper.  Assisted by Lorenzo McCloud.
+Pacific,Hawai'i,35,34,26,19,0,Brandon Jawato Turnover.
+Pacific,Hawai'i,35,34,26,27,0,Ross Rivera missed Jumper.
+Pacific,Hawai'i,35,34,26,27,0,Hawaii Defensive Rebound.
+Pacific,Hawai'i,35,37,27,3,1,Jace Tavita made Three Point Jumper.  Assisted by Christian Standhardinger.
+Pacific,Hawai'i,37,37,27,15,1,Sama Taku made Jumper.
+Pacific,Hawai'i,37,37,27,32,0,Davis Rozitis Turnover.
+Pacific,Hawai'i,37,37,27,40,0,Ross Rivera missed Jumper.
+Pacific,Hawai'i,37,37,27,40,0,Sama Taku Offensive Rebound.
+Pacific,Hawai'i,37,37,27,46,0,Foul on Davis Rozitis
+Pacific,Hawai'i,38,37,27,46,1,Sama Taku made Free Throw.
+Pacific,Hawai'i,39,37,27,46,1,Sama Taku made Free Throw.
+Pacific,Hawai'i,39,37,27,50,0,Foul on Khalil Kelley
+Pacific,Hawai'i,39,37,28,7,0,Christian Standhardinger Turnover.
+Pacific,Hawai'i,39,37,28,8,0,Sama Taku Steal.
+Pacific,Hawai'i,39,37,28,11,0,Sama Taku missed Layup.
+Pacific,Hawai'i,39,37,28,11,0,Davis Rozitis Block.
+Pacific,Hawai'i,39,37,28,12,0,Pacific Offensive Rebound.
+Pacific,Hawai'i,39,37,28,12,0,Official TV Timeout.
+Pacific,Hawai'i,39,37,28,14,0,Ross Rivera Turnover.
+Pacific,Hawai'i,39,37,28,30,0,Garrett Jefferson Turnover.
+Pacific,Hawai'i,39,37,28,32,0,Sama Taku Steal.
+Pacific,Hawai'i,41,37,28,38,1,Lorenzo McCloud made Jumper.  Assisted by Rodrigo De Souza.
+Pacific,Hawai'i,41,37,28,49,0,Garrett Jefferson Turnover.
+Pacific,Hawai'i,41,37,28,50,0,Sama Taku Steal.
+Pacific,Hawai'i,41,37,28,52,0,Rodrigo De Souza missed Layup.
+Pacific,Hawai'i,41,37,28,52,0,Davis Rozitis Block.
+Pacific,Hawai'i,41,37,28,53,0,Khalil Kelley Offensive Rebound.
+Pacific,Hawai'i,41,37,29,23,0,Sama Taku Turnover.
+Pacific,Hawai'i,41,37,29,25,0,Davis Rozitis Steal.
+Pacific,Hawai'i,41,37,29,35,0,Garrett Jefferson missed Three Point Jumper.
+Pacific,Hawai'i,41,37,29,35,0,Isaac Fotu Offensive Rebound.
+Pacific,Hawai'i,41,37,29,42,0,Foul on Rodrigo De Souza
+Pacific,Hawai'i,41,37,29,46,0,Foul on Ross Rivera
+Pacific,Hawai'i,41,40,29,47,1,Brandon Jawato made Three Point Jumper.  Assisted by Ozren Pavlovic.
+Pacific,Hawai'i,41,40,30,3,0,Ross Rivera missed Three Point Jumper.
+Pacific,Hawai'i,41,40,30,3,0,null
+Pacific,Hawai'i,41,40,30,6,0,Foul on Vander Joaquim
+Pacific,Hawai'i,43,40,30,6,1,Khalil Kelley made Dunk.  Assisted by Rodrigo De Souza.
+Pacific,Hawai'i,43,40,30,8,0,Technical Foul on Khalil Kelley
+Pacific,Hawai'i,43,40,30,8,0,Foul on Khalil Kelley
+Pacific,Hawai'i,43,41,30,8,1,Ozren Pavlovic made Free Throw.
+Pacific,Hawai'i,43,42,30,8,1,Ozren Pavlovic made Free Throw.
+Pacific,Hawai'i,43,42,30,15,0,Isaac Fotu Turnover.
+Pacific,Hawai'i,43,42,30,23,0,Ross Rivera missed Three Point Jumper.
+Pacific,Hawai'i,43,42,30,23,0,Vander Joaquim Defensive Rebound.
+Pacific,Hawai'i,43,44,30,45,1,Vander Joaquim made Jumper.  Assisted by Ozren Pavlovic.
+Pacific,Hawai'i,43,44,31,10,0,Tony Gill missed Jumper.
+Pacific,Hawai'i,43,44,31,10,0,Ozren Pavlovic Defensive Rebound.
+Pacific,Hawai'i,43,44,31,28,0,Isaac Fotu missed Three Point Jumper.
+Pacific,Hawai'i,43,44,31,28,0,Lorenzo McCloud Defensive Rebound.
+Pacific,Hawai'i,43,44,31,39,0,Lorenzo McCloud missed Layup.
+Pacific,Hawai'i,43,44,31,39,0,Isaac Fotu Defensive Rebound.
+Pacific,Hawai'i,43,44,31,46,0,Isaac Fotu Turnover.
+Pacific,Hawai'i,43,44,31,46,0,Foul on Isaac Fotu
+Pacific,Hawai'i,43,44,32,13,0,Foul on Ozren Pavlovic
+Pacific,Hawai'i,43,44,32,13,0,Official TV Timeout.
+Pacific,Hawai'i,44,44,32,13,1,Tony Gill made Free Throw.
+Pacific,Hawai'i,45,44,32,13,1,Tony Gill made Free Throw.
+Pacific,Hawai'i,45,44,32,26,0,Vander Joaquim missed Jumper.
+Pacific,Hawai'i,45,44,32,26,0,Tony Gill Defensive Rebound.
+Pacific,Hawai'i,45,44,32,29,0,Tony Gill Turnover.
+Pacific,Hawai'i,45,44,32,29,0,Hauns Brereton Steal.
+Pacific,Hawai'i,45,44,32,36,0,Foul on Rodrigo De Souza
+Pacific,Hawai'i,45,44,32,36,0,Christian Standhardinger missed Free Throw.
+Pacific,Hawai'i,45,44,32,36,0,null
+Pacific,Hawai'i,45,45,32,36,1,Christian Standhardinger made Free Throw.
+Pacific,Hawai'i,45,45,32,49,0,Trevin Harris Turnover.
+Pacific,Hawai'i,45,45,32,49,0,Vander Joaquim Steal.
+Pacific,Hawai'i,45,47,33,23,1,Vander Joaquim made Jumper.  Assisted by Christian Standhardinger.
+Pacific,Hawai'i,45,47,33,47,0,Travis Fulton missed Three Point Jumper.
+Pacific,Hawai'i,45,47,33,47,0,null
+Pacific,Hawai'i,45,47,33,51,0,Foul on Christian Standhardinger
+Pacific,Hawai'i,45,47,33,57,0,Trevin Harris missed Three Point Jumper.
+Pacific,Hawai'i,45,47,33,57,0,Hawaii Defensive Rebound.
+Pacific,Hawai'i,45,47,34,13,0,Foul on Travis Fulton
+Pacific,Hawai'i,45,48,34,13,1,Christian Standhardinger made Free Throw.
+Pacific,Hawai'i,45,48,34,13,0,Christian Standhardinger missed Free Throw.
+Pacific,Hawai'i,45,48,34,13,0,Vander Joaquim Offensive Rebound.
+Pacific,Hawai'i,45,48,34,16,0,Foul on Sama Taku
+Pacific,Hawai'i,45,48,34,16,0,Vander Joaquim missed Free Throw.
+Pacific,Hawai'i,45,48,34,16,0,null
+Pacific,Hawai'i,45,49,34,16,1,Vander Joaquim made Free Throw.
+Pacific,Hawai'i,45,49,34,29,0,Tony Gill missed Jumper.
+Pacific,Hawai'i,45,49,34,29,0,Hauns Brereton Defensive Rebound.
+Pacific,Hawai'i,45,49,34,44,0,Ozren Pavlovic Turnover.
+Pacific,Hawai'i,45,49,34,44,0,Tony Gill Steal.
+Pacific,Hawai'i,45,49,35,1,0,Foul on Brandon Jawato
+Pacific,Hawai'i,45,49,35,1,0,Tony Gill missed Free Throw.
+Pacific,Hawai'i,45,49,35,1,0,null
+Pacific,Hawai'i,46,49,35,1,1,Tony Gill made Free Throw.
+Pacific,Hawai'i,46,49,35,9,0,Ozren Pavlovic Turnover.
+Pacific,Hawai'i,48,49,35,32,1,Lorenzo McCloud made Jumper.
+Pacific,Hawai'i,48,49,35,40,0,Christian Standhardinger missed Jumper.
+Pacific,Hawai'i,48,49,35,40,0,Hawaii Offensive Rebound.
+Pacific,Hawai'i,48,49,36,3,0,Vander Joaquim missed Jumper.
+Pacific,Hawai'i,48,49,36,3,0,Isaac Fotu Offensive Rebound.
+Pacific,Hawai'i,48,51,36,5,1,Isaac Fotu made Jumper.
+Pacific,Hawai'i,48,51,36,20,0,Lorenzo McCloud missed Jumper.
+Pacific,Hawai'i,48,51,36,20,0,Isaac Fotu Block.
+Pacific,Hawai'i,48,51,36,21,0,Rodrigo De Souza Offensive Rebound.
+Pacific,Hawai'i,48,51,36,26,0,Sama Taku Turnover.
+Pacific,Hawai'i,48,51,36,26,0,Official TV Timeout.
+Pacific,Hawai'i,48,51,36,54,0,Brandon Jawato missed Three Point Jumper.
+Pacific,Hawai'i,48,51,36,54,0,Khalil Kelley Defensive Rebound.
+Pacific,Hawai'i,48,51,37,3,0,Pacific Full Timeout.
+Pacific,Hawai'i,48,51,37,18,0,Lorenzo McCloud missed Three Point Jumper.
+Pacific,Hawai'i,48,51,37,18,0,Vander Joaquim Defensive Rebound.
+Pacific,Hawai'i,48,51,37,47,0,Ozren Pavlovic Turnover.
+Pacific,Hawai'i,48,51,37,47,0,Rodrigo De Souza Steal.
+Pacific,Hawai'i,48,51,38,0,0,Foul on Ozren Pavlovic
+Pacific,Hawai'i,48,51,38,0,0,Ross Rivera missed Free Throw.
+Pacific,Hawai'i,48,51,38,0,0,null
+Pacific,Hawai'i,49,51,38,0,1,Ross Rivera made Free Throw.
+Pacific,Hawai'i,49,51,38,9,0,Hauns Brereton missed Three Point Jumper.
+Pacific,Hawai'i,49,51,38,9,0,Khalil Kelley Defensive Rebound.
+Pacific,Hawai'i,49,51,38,28,0,Foul on Hauns Brereton
+Pacific,Hawai'i,49,51,38,28,0,Lorenzo McCloud missed Free Throw.
+Pacific,Hawai'i,49,51,38,28,0,null
+Pacific,Hawai'i,49,51,38,28,0,Lorenzo McCloud missed Free Throw.
+Pacific,Hawai'i,49,51,38,28,0,Isaac Fotu Defensive Rebound.
+Pacific,Hawai'i,49,54,38,54,1,Vander Joaquim made Three Point Jumper.  Assisted by Ozren Pavlovic.
+Pacific,Hawai'i,49,54,39,0,0,Pacific Full Timeout.
+Pacific,Hawai'i,49,54,39,11,0,Lorenzo McCloud missed Jumper.
+Pacific,Hawai'i,49,54,39,15,0,Isaac Fotu Defensive Rebound.
+Pacific,Hawai'i,49,54,39,19,0,Foul on Sama Taku
+Pacific,Hawai'i,49,55,39,19,1,Ozren Pavlovic made Free Throw.
+Pacific,Hawai'i,49,56,39,19,1,Ozren Pavlovic made Free Throw.
+Pacific,Hawai'i,49,56,39,23,0,Hawaii Full Timeout.
+Pacific,Hawai'i,49,56,39,24,0,Foul on Travis Fulton
+Pacific,Hawai'i,49,57,39,24,1,Ozren Pavlovic made Free Throw.
+Pacific,Hawai'i,49,58,39,24,1,Ozren Pavlovic made Free Throw.
+Pacific,Hawai'i,52,58,39,30,1,Sama Taku made Three Point Jumper.  Assisted by Lorenzo McCloud.
+Pacific,Hawai'i,52,58,39,32,0,Pacific Full Timeout.
+Pacific,Hawai'i,52,58,39,32,0,Isaac Fotu Turnover.
+Pacific,Hawai'i,52,58,39,32,0,Rodrigo De Souza Steal.
+Pacific,Hawai'i,52,58,39,35,0,Ross Rivera missed Three Point Jumper.
+Pacific,Hawai'i,52,58,39,35,0,null
+Pacific,Hawai'i,52,58,39,39,0,Foul on Trevin Harris
+Pacific,Hawai'i,52,59,39,39,1,Brandon Spearman made Free Throw.
+Pacific,Hawai'i,52,60,39,39,1,Brandon Spearman made Free Throw.
+Pacific,Hawai'i,52,60,39,44,0,Sama Taku missed Three Point Jumper.
+Pacific,Hawai'i,52,60,39,44,0,Davis Rozitis Defensive Rebound.
+Pacific,Hawai'i,52,60,40,0,0,End Game

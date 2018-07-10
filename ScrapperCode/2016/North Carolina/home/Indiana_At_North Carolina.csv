@@ -1,0 +1,360 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Indiana,North Carolina,0,0,0,0,0,Jump Ball won by North Carolina
+Indiana,North Carolina,0,0,0,10,0,Kennedy Meeks missed Jumper.
+Indiana,North Carolina,0,0,0,10,0,Troy Williams Defensive Rebound.
+Indiana,North Carolina,0,0,0,17,0,Troy Williams Turnover.
+Indiana,North Carolina,0,3,0,32,1,Marcus Paige made Three Point Jumper.
+Indiana,North Carolina,0,3,0,52,0,Nick Zeisloft missed Three Point Jumper.
+Indiana,North Carolina,0,3,0,52,0,Indiana Offensive Rebound.
+Indiana,North Carolina,3,3,1,10,1,Collin Hartman made Three Point Jumper. Assisted by Troy Williams.
+Indiana,North Carolina,3,3,1,18,0,Joel Berry II Turnover.
+Indiana,North Carolina,3,3,1,29,0,Troy Williams missed Jumper.
+Indiana,North Carolina,3,3,1,29,0,Nick Zeisloft Offensive Rebound.
+Indiana,North Carolina,3,3,1,43,0,Collin Hartman missed Three Point Jumper.
+Indiana,North Carolina,3,3,1,43,0,Kennedy Meeks Defensive Rebound.
+Indiana,North Carolina,3,3,1,52,0,Joel Berry II missed Layup.
+Indiana,North Carolina,3,3,1,52,0,Thomas Bryant Block.
+Indiana,North Carolina,3,3,1,52,0,Thomas Bryant Defensive Rebound.
+Indiana,North Carolina,3,3,1,57,0,Nick Zeisloft Turnover.
+Indiana,North Carolina,3,3,2,16,0,Brice Johnson missed Jumper.
+Indiana,North Carolina,3,3,2,16,0,North Carolina Offensive Rebound.
+Indiana,North Carolina,3,5,2,23,1,Brice Johnson made Jumper. Assisted by Marcus Paige.
+Indiana,North Carolina,3,5,2,39,0,Thomas Bryant missed Layup.
+Indiana,North Carolina,3,5,2,39,0,Indiana Deadball Team Rebound.
+Indiana,North Carolina,3,5,2,39,0,Jump Ball won by Indiana
+Indiana,North Carolina,3,5,2,49,0,Troy Williams missed Layup.
+Indiana,North Carolina,3,5,2,49,0,Marcus Paige Defensive Rebound.
+Indiana,North Carolina,3,8,3,3,1,Marcus Paige made Three Point Jumper. Assisted by Justin Jackson.
+Indiana,North Carolina,3,8,3,33,0,Nick Zeisloft missed Three Point Jumper.
+Indiana,North Carolina,3,8,3,33,0,Collin Hartman Offensive Rebound.
+Indiana,North Carolina,5,8,3,43,1,Thomas Bryant made Dunk. Assisted by Yogi Ferrell.
+Indiana,North Carolina,5,8,3,59,0,Brice Johnson missed Layup.
+Indiana,North Carolina,5,8,3,59,0,Thomas Bryant Defensive Rebound.
+Indiana,North Carolina,8,8,4,4,1,Yogi Ferrell made Three Point Jumper.
+Indiana,North Carolina,8,11,4,20,1,Marcus Paige made Three Point Jumper. Assisted by Joel Berry II.
+Indiana,North Carolina,8,11,4,31,0,Yogi Ferrell Turnover.
+Indiana,North Carolina,8,11,4,31,0,Joel Berry II Steal.
+Indiana,North Carolina,8,14,4,41,1,Marcus Paige made Three Point Jumper. Assisted by Joel Berry II.
+Indiana,North Carolina,8,14,5,2,0,Foul on Isaiah Hicks.
+Indiana,North Carolina,8,14,5,2,0,Official TV Timeout
+Indiana,North Carolina,8,14,5,19,0,Yogi Ferrell missed Jumper.
+Indiana,North Carolina,8,14,5,19,0,Brice Johnson Defensive Rebound.
+Indiana,North Carolina,8,16,5,34,1,Isaiah Hicks made Jumper. Assisted by Marcus Paige.
+Indiana,North Carolina,8,16,5,57,0,Yogi Ferrell missed Three Point Jumper.
+Indiana,North Carolina,8,16,5,57,0,Thomas Bryant Offensive Rebound.
+Indiana,North Carolina,10,16,5,57,1,Thomas Bryant made Two Point Tip Shot.
+Indiana,North Carolina,10,16,6,19,0,Isaiah Hicks Turnover.
+Indiana,North Carolina,10,16,6,19,0,Thomas Bryant Steal.
+Indiana,North Carolina,10,16,6,25,0,Foul on Marcus Paige.
+Indiana,North Carolina,11,16,6,25,1,Troy Williams made Free Throw.
+Indiana,North Carolina,11,16,6,25,0,Troy Williams missed Free Throw.
+Indiana,North Carolina,11,16,6,25,0,Juwan Morgan Offensive Rebound.
+Indiana,North Carolina,11,16,6,26,0,Foul on Isaiah Hicks.
+Indiana,North Carolina,13,16,6,30,1,Max Bielfeldt made Layup.
+Indiana,North Carolina,13,16,6,49,0,Foul on Yogi Ferrell.
+Indiana,North Carolina,13,16,7,6,0,Foul on Juwan Morgan.
+Indiana,North Carolina,13,16,7,16,0,Kennedy Meeks missed Layup.
+Indiana,North Carolina,13,16,7,16,0,Theo Pinson Offensive Rebound.
+Indiana,North Carolina,13,18,7,16,1,Theo Pinson made Two Point Tip Shot.
+Indiana,North Carolina,13,18,7,34,0,Max Bielfeldt missed Jumper.
+Indiana,North Carolina,13,18,7,34,0,Kennedy Meeks Defensive Rebound.
+Indiana,North Carolina,13,18,7,49,0,Brice Johnson Turnover.
+Indiana,North Carolina,13,18,8,10,0,Foul on Nate Britt.
+Indiana,North Carolina,13,18,8,10,0,Official TV Timeout
+Indiana,North Carolina,14,18,8,10,1,Juwan Morgan made Free Throw.
+Indiana,North Carolina,15,18,8,10,1,Juwan Morgan made Free Throw.
+Indiana,North Carolina,15,21,8,17,1,Justin Jackson made Three Point Jumper. Assisted by Marcus Paige.
+Indiana,North Carolina,15,21,8,34,0,OG Anunoby Turnover.
+Indiana,North Carolina,15,21,8,34,0,Theo Pinson Steal.
+Indiana,North Carolina,15,23,8,38,1,Nate Britt made Layup.
+Indiana,North Carolina,17,23,9,9,1,Collin Hartman made Jumper.
+Indiana,North Carolina,17,25,9,22,1,Marcus Paige made Jumper.
+Indiana,North Carolina,17,25,9,50,0,Foul on OG Anunoby.
+Indiana,North Carolina,17,25,9,50,0,OG Anunoby Turnover.
+Indiana,North Carolina,17,25,10,11,0,Foul on Collin Hartman.
+Indiana,North Carolina,17,26,10,11,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,17,27,10,11,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,17,27,10,26,0,Foul on Marcus Paige.
+Indiana,North Carolina,17,27,10,35,0,Yogi Ferrell missed Jumper.
+Indiana,North Carolina,17,27,10,35,0,Brice Johnson Defensive Rebound.
+Indiana,North Carolina,17,29,10,45,1,Nate Britt made Jumper. Assisted by Marcus Paige.
+Indiana,North Carolina,17,29,10,49,0,Indiana  Timeout
+Indiana,North Carolina,17,29,11,3,0,Foul on Justin Jackson.
+Indiana,North Carolina,17,29,11,6,0,Foul on Troy Williams.
+Indiana,North Carolina,17,29,11,6,0,Troy Williams Turnover.
+Indiana,North Carolina,17,29,11,15,0,Foul on Ryan Burton.
+Indiana,North Carolina,17,29,11,15,0,Foul on Ryan Burton.
+Indiana,North Carolina,17,30,11,15,1,Justin Jackson made Free Throw.
+Indiana,North Carolina,17,31,11,15,1,Justin Jackson made Free Throw.
+Indiana,North Carolina,17,31,11,22,0,Collin Hartman missed Three Point Jumper.
+Indiana,North Carolina,17,31,11,22,0,Justin Jackson Defensive Rebound.
+Indiana,North Carolina,17,31,11,27,0,Justin Jackson Turnover.
+Indiana,North Carolina,17,31,11,27,0,Troy Williams Steal.
+Indiana,North Carolina,19,31,11,31,1,Yogi Ferrell made Jumper.
+Indiana,North Carolina,19,31,11,44,0,Foul on Yogi Ferrell.
+Indiana,North Carolina,19,32,11,44,1,Justin Jackson made Free Throw.
+Indiana,North Carolina,19,33,11,44,1,Justin Jackson made Free Throw.
+Indiana,North Carolina,19,33,11,59,0,OG Anunoby missed Layup.
+Indiana,North Carolina,19,33,11,59,0,Justin Jackson Block.
+Indiana,North Carolina,19,33,11,59,0,Indiana Offensive Rebound.
+Indiana,North Carolina,19,33,12,9,0,Troy Williams missed Jumper.
+Indiana,North Carolina,19,33,12,9,0,Kennedy Meeks Defensive Rebound.
+Indiana,North Carolina,19,33,12,24,0,Marcus Paige missed Jumper.
+Indiana,North Carolina,19,33,12,24,0,Kennedy Meeks Offensive Rebound.
+Indiana,North Carolina,19,35,12,24,1,Kennedy Meeks made Two Point Tip Shot.
+Indiana,North Carolina,21,35,12,49,1,Collin Hartman made Layup. Assisted by Troy Williams.
+Indiana,North Carolina,21,35,13,2,0,Brice Johnson missed Layup.
+Indiana,North Carolina,21,35,13,2,0,OG Anunoby Defensive Rebound.
+Indiana,North Carolina,21,35,13,12,0,Foul on Kennedy Meeks.
+Indiana,North Carolina,21,35,13,12,0,Official TV Timeout
+Indiana,North Carolina,22,35,13,12,1,Thomas Bryant made Free Throw.
+Indiana,North Carolina,23,35,13,12,1,Thomas Bryant made Free Throw.
+Indiana,North Carolina,23,37,13,32,1,Joel James made Layup. Assisted by Joel Berry II.
+Indiana,North Carolina,25,37,13,59,1,Max Bielfeldt made Jumper.
+Indiana,North Carolina,25,37,14,8,0,Joel Berry II missed Layup.
+Indiana,North Carolina,25,37,14,8,0,Justin Jackson Offensive Rebound.
+Indiana,North Carolina,25,39,14,12,1,Justin Jackson made Jumper.
+Indiana,North Carolina,25,39,14,29,0,Foul on Joel Berry II.
+Indiana,North Carolina,26,39,14,29,1,Yogi Ferrell made Free Throw.
+Indiana,North Carolina,27,39,14,29,1,Yogi Ferrell made Free Throw.
+Indiana,North Carolina,27,42,14,37,1,Justin Jackson made Three Point Jumper.
+Indiana,North Carolina,27,42,15,6,0,OG Anunoby missed Jumper.
+Indiana,North Carolina,27,42,15,6,0,Brice Johnson Block.
+Indiana,North Carolina,27,42,15,6,0,OG Anunoby Offensive Rebound.
+Indiana,North Carolina,27,42,15,11,0,OG Anunoby missed Layup.
+Indiana,North Carolina,27,42,15,11,0,Brice Johnson Block.
+Indiana,North Carolina,27,42,15,11,0,Indiana Offensive Rebound.
+Indiana,North Carolina,27,42,15,12,0,Max Bielfeldt Turnover.
+Indiana,North Carolina,27,42,15,12,0,Joel Berry II Steal.
+Indiana,North Carolina,27,42,15,15,0,Foul on Thomas Bryant.
+Indiana,North Carolina,27,42,15,15,0,Justin Jackson missed Free Throw.
+Indiana,North Carolina,27,42,15,15,0,North Carolina Deadball Team Rebound.
+Indiana,North Carolina,27,43,15,15,1,Justin Jackson made Free Throw.
+Indiana,North Carolina,27,43,15,27,0,Max Bielfeldt missed Jumper.
+Indiana,North Carolina,27,43,15,27,0,OG Anunoby Offensive Rebound.
+Indiana,North Carolina,29,43,15,33,1,OG Anunoby made Layup.
+Indiana,North Carolina,29,43,15,50,0,Kennedy Meeks missed Jumper.
+Indiana,North Carolina,29,43,15,50,0,Justin Jackson Offensive Rebound.
+Indiana,North Carolina,29,43,15,53,0,Justin Jackson missed Jumper.
+Indiana,North Carolina,29,43,15,53,0,Kennedy Meeks Offensive Rebound.
+Indiana,North Carolina,29,45,15,53,1,Kennedy Meeks made Two Point Tip Shot.
+Indiana,North Carolina,32,45,16,12,1,Yogi Ferrell made Three Point Jumper.
+Indiana,North Carolina,32,45,16,32,0,Foul on Max Bielfeldt.
+Indiana,North Carolina,32,45,16,32,0,Official TV Timeout
+Indiana,North Carolina,32,46,16,32,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,32,47,16,32,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,32,47,16,50,0,Foul on Brice Johnson.
+Indiana,North Carolina,33,47,16,50,1,Max Bielfeldt made Free Throw.
+Indiana,North Carolina,34,47,16,50,1,Max Bielfeldt made Free Throw.
+Indiana,North Carolina,34,50,16,59,1,Nate Britt made Three Point Jumper. Assisted by Joel Berry II.
+Indiana,North Carolina,36,50,17,12,1,Thomas Bryant made Layup. Assisted by Yogi Ferrell.
+Indiana,North Carolina,36,50,17,22,0,Nate Britt Turnover.
+Indiana,North Carolina,36,50,17,47,0,Yogi Ferrell missed Three Point Jumper.
+Indiana,North Carolina,36,50,17,47,0,Collin Hartman Offensive Rebound.
+Indiana,North Carolina,36,50,18,9,0,Troy Williams missed Three Point Jumper.
+Indiana,North Carolina,36,50,18,9,0,Nate Britt Defensive Rebound.
+Indiana,North Carolina,36,50,18,18,0,Theo Pinson Turnover.
+Indiana,North Carolina,36,50,18,43,0,Troy Williams missed Three Point Jumper.
+Indiana,North Carolina,36,50,18,43,0,Nate Britt Defensive Rebound.
+Indiana,North Carolina,36,52,18,53,1,Kennedy Meeks made Layup. Assisted by Theo Pinson.
+Indiana,North Carolina,36,52,19,9,0,Foul on Nate Britt.
+Indiana,North Carolina,37,52,19,9,1,Yogi Ferrell made Free Throw.
+Indiana,North Carolina,38,52,19,9,1,Yogi Ferrell made Free Throw.
+Indiana,North Carolina,38,52,19,21,0,Kennedy Meeks Turnover.
+Indiana,North Carolina,41,52,19,29,1,Max Bielfeldt made Three Point Jumper. Assisted by OG Anunoby.
+Indiana,North Carolina,41,52,19,58,0,Theo Pinson missed Three Point Jumper.
+Indiana,North Carolina,41,52,19,59,0,Thomas Bryant Defensive Rebound.
+Indiana,North Carolina,41,52,20,0,0,End of 1st half
+Indiana,North Carolina,41,52,20,0,0,Jump Ball won by North Carolina
+Indiana,North Carolina,41,54,20,13,1,Kennedy Meeks made Jumper. Assisted by Justin Jackson.
+Indiana,North Carolina,41,54,20,13,0,Foul on Thomas Bryant.
+Indiana,North Carolina,41,54,20,13,0,Kennedy Meeks missed Free Throw.
+Indiana,North Carolina,41,54,20,13,0,Thomas Bryant Defensive Rebound.
+Indiana,North Carolina,43,54,20,37,1,Thomas Bryant made Layup. Assisted by Troy Williams.
+Indiana,North Carolina,43,54,20,53,0,Marcus Paige missed Jumper.
+Indiana,North Carolina,43,54,20,53,0,Brice Johnson Offensive Rebound.
+Indiana,North Carolina,43,54,20,58,0,Brice Johnson missed Jumper.
+Indiana,North Carolina,43,54,20,58,0,Nick Zeisloft Defensive Rebound.
+Indiana,North Carolina,43,54,21,5,0,Collin Hartman missed Three Point Jumper.
+Indiana,North Carolina,43,54,21,5,0,Joel Berry II Defensive Rebound.
+Indiana,North Carolina,43,54,21,17,0,Foul on Collin Hartman.
+Indiana,North Carolina,43,54,21,24,0,Brice Johnson missed Layup.
+Indiana,North Carolina,43,54,21,24,0,Thomas Bryant Defensive Rebound.
+Indiana,North Carolina,43,54,21,29,0,Thomas Bryant Turnover.
+Indiana,North Carolina,43,54,21,29,0,Justin Jackson Steal.
+Indiana,North Carolina,43,54,21,31,0,Foul on Troy Williams.
+Indiana,North Carolina,43,56,21,41,1,Brice Johnson made Jumper. Assisted by Marcus Paige.
+Indiana,North Carolina,43,56,21,41,0,Foul on Collin Hartman.
+Indiana,North Carolina,43,56,21,41,0,Brice Johnson missed Free Throw.
+Indiana,North Carolina,43,56,21,41,0,Thomas Bryant Defensive Rebound.
+Indiana,North Carolina,43,56,21,49,0,Foul on Joel Berry II.
+Indiana,North Carolina,43,56,22,2,0,Thomas Bryant missed Three Point Jumper.
+Indiana,North Carolina,43,56,22,2,0,Brice Johnson Defensive Rebound.
+Indiana,North Carolina,43,59,22,9,1,Marcus Paige made Three Point Jumper. Assisted by Justin Jackson.
+Indiana,North Carolina,46,59,22,34,1,Troy Williams made Three Point Jumper. Assisted by Collin Hartman.
+Indiana,North Carolina,46,59,22,50,0,Marcus Paige missed Three Point Jumper.
+Indiana,North Carolina,46,59,22,50,0,North Carolina Deadball Team Rebound.
+Indiana,North Carolina,46,59,22,51,0,Foul on OG Anunoby.
+Indiana,North Carolina,46,59,22,55,0,Brice Johnson missed Jumper.
+Indiana,North Carolina,46,59,22,55,0,Yogi Ferrell Defensive Rebound.
+Indiana,North Carolina,49,59,23,3,1,Troy Williams made Three Point Jumper. Assisted by Yogi Ferrell.
+Indiana,North Carolina,49,59,23,21,0,Kennedy Meeks missed Layup.
+Indiana,North Carolina,49,59,23,21,0,Kennedy Meeks Offensive Rebound.
+Indiana,North Carolina,49,59,23,23,0,Foul on Max Bielfeldt.
+Indiana,North Carolina,49,60,23,23,1,Kennedy Meeks made Free Throw.
+Indiana,North Carolina,49,61,23,23,1,Kennedy Meeks made Free Throw.
+Indiana,North Carolina,49,61,23,36,0,Foul on Marcus Paige.
+Indiana,North Carolina,50,61,23,36,1,Troy Williams made Free Throw.
+Indiana,North Carolina,51,61,23,36,1,Troy Williams made Free Throw.
+Indiana,North Carolina,51,61,23,58,0,Foul on Max Bielfeldt.
+Indiana,North Carolina,51,62,23,58,1,Joel Berry II made Free Throw.
+Indiana,North Carolina,51,63,23,58,1,Joel Berry II made Free Throw.
+Indiana,North Carolina,51,63,24,9,0,Max Bielfeldt missed Three Point Jumper.
+Indiana,North Carolina,51,63,24,9,0,Brice Johnson Defensive Rebound.
+Indiana,North Carolina,51,65,24,23,1,Kennedy Meeks made Layup. Assisted by Brice Johnson.
+Indiana,North Carolina,51,65,24,41,0,Yogi Ferrell missed Layup.
+Indiana,North Carolina,51,65,24,41,0,Brice Johnson Block.
+Indiana,North Carolina,51,65,24,41,0,Collin Hartman Offensive Rebound.
+Indiana,North Carolina,54,65,24,50,1,Troy Williams made Three Point Jumper.
+Indiana,North Carolina,54,65,25,9,0,Foul on Juwan Morgan.
+Indiana,North Carolina,54,65,25,9,0,Official TV Timeout
+Indiana,North Carolina,54,66,25,9,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,54,67,25,9,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,54,67,25,17,0,Yogi Ferrell Turnover.
+Indiana,North Carolina,54,67,25,17,0,Brice Johnson Steal.
+Indiana,North Carolina,54,67,25,24,0,Justin Jackson missed Jumper.
+Indiana,North Carolina,54,67,25,24,0,Juwan Morgan Defensive Rebound.
+Indiana,North Carolina,54,67,25,31,0,Juwan Morgan missed Three Point Jumper.
+Indiana,North Carolina,54,67,25,31,0,Troy Williams Offensive Rebound.
+Indiana,North Carolina,56,67,25,36,1,Troy Williams made Layup.
+Indiana,North Carolina,56,67,25,36,0,Foul on Isaiah Hicks.
+Indiana,North Carolina,57,67,25,36,1,Troy Williams made Free Throw.
+Indiana,North Carolina,57,70,25,46,1,Joel Berry II made Three Point Jumper. Assisted by Nate Britt.
+Indiana,North Carolina,57,70,25,54,0,Foul on Joel Berry II.
+Indiana,North Carolina,57,70,26,10,0,Foul on Isaiah Hicks.
+Indiana,North Carolina,57,70,26,24,0,Yogi Ferrell missed Three Point Jumper.
+Indiana,North Carolina,57,70,26,24,0,Brice Johnson Defensive Rebound.
+Indiana,North Carolina,57,72,26,39,1,Brice Johnson made Dunk. Assisted by Theo Pinson.
+Indiana,North Carolina,57,72,26,45,0,Troy Williams missed Jumper.
+Indiana,North Carolina,57,72,26,45,0,Juwan Morgan Offensive Rebound.
+Indiana,North Carolina,57,72,26,53,0,Juwan Morgan missed Layup.
+Indiana,North Carolina,57,72,26,53,0,Theo Pinson Defensive Rebound.
+Indiana,North Carolina,57,72,27,8,0,Foul on Troy Williams.
+Indiana,North Carolina,57,73,27,8,1,Kennedy Meeks made Free Throw.
+Indiana,North Carolina,57,73,27,8,0,Kennedy Meeks missed Free Throw.
+Indiana,North Carolina,57,73,27,8,0,North Carolina Offensive Rebound.
+Indiana,North Carolina,57,73,27,19,0,Kennedy Meeks Turnover.
+Indiana,North Carolina,57,73,27,33,0,Thomas Bryant missed Jumper.
+Indiana,North Carolina,57,73,27,33,0,Indiana Deadball Team Rebound.
+Indiana,North Carolina,57,73,27,34,0,Foul on Theo Pinson.
+Indiana,North Carolina,59,73,27,50,1,Yogi Ferrell made Jumper. Assisted by Collin Hartman.
+Indiana,North Carolina,59,75,28,18,1,Theo Pinson made Jumper.
+Indiana,North Carolina,59,75,28,27,0,Foul on Kennedy Meeks.
+Indiana,North Carolina,59,75,28,27,0,Official TV Timeout
+Indiana,North Carolina,60,75,28,27,1,Thomas Bryant made Free Throw.
+Indiana,North Carolina,61,75,28,27,1,Thomas Bryant made Free Throw.
+Indiana,North Carolina,61,75,28,34,0,Foul on OG Anunoby.
+Indiana,North Carolina,61,75,28,34,0,Brice Johnson missed Free Throw.
+Indiana,North Carolina,61,75,28,34,0,North Carolina Deadball Team Rebound.
+Indiana,North Carolina,61,76,28,34,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,61,76,28,49,0,Collin Hartman Turnover.
+Indiana,North Carolina,61,76,28,49,0,Theo Pinson Steal.
+Indiana,North Carolina,61,78,29,13,1,Brice Johnson made Layup. Assisted by Nate Britt.
+Indiana,North Carolina,61,78,29,13,0,Foul on Collin Hartman.
+Indiana,North Carolina,61,79,29,13,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,64,79,29,25,1,Max Bielfeldt made Three Point Jumper.
+Indiana,North Carolina,64,82,29,42,1,Joel Berry II made Three Point Jumper. Assisted by Kennedy Meeks.
+Indiana,North Carolina,64,82,29,59,0,Troy Williams missed Three Point Jumper.
+Indiana,North Carolina,64,82,29,59,0,Brice Johnson Defensive Rebound.
+Indiana,North Carolina,64,84,30,10,1,Joel Berry II made Layup.
+Indiana,North Carolina,64,84,30,16,0,Indiana  Timeout
+Indiana,North Carolina,64,84,30,33,0,Max Bielfeldt missed Three Point Jumper.
+Indiana,North Carolina,64,84,30,33,0,Joel Berry II Defensive Rebound.
+Indiana,North Carolina,64,84,30,41,0,Theo Pinson missed Layup.
+Indiana,North Carolina,64,84,30,41,0,Thomas Bryant Defensive Rebound.
+Indiana,North Carolina,67,84,30,52,1,Yogi Ferrell made Three Point Jumper.
+Indiana,North Carolina,67,84,31,10,0,Foul on Max Bielfeldt.
+Indiana,North Carolina,67,85,31,10,1,Kennedy Meeks made Free Throw.
+Indiana,North Carolina,67,86,31,10,1,Kennedy Meeks made Free Throw.
+Indiana,North Carolina,67,86,31,26,0,Foul on Kennedy Meeks.
+Indiana,North Carolina,68,86,31,26,1,Yogi Ferrell made Free Throw.
+Indiana,North Carolina,68,86,31,26,0,Yogi Ferrell missed Free Throw.
+Indiana,North Carolina,68,86,31,26,0,Brice Johnson Defensive Rebound.
+Indiana,North Carolina,68,86,31,41,0,Nate Britt missed Jumper.
+Indiana,North Carolina,68,86,31,41,0,Nate Britt Offensive Rebound.
+Indiana,North Carolina,68,86,31,47,0,Justin Jackson missed Three Point Jumper.
+Indiana,North Carolina,68,86,31,47,0,Collin Hartman Defensive Rebound.
+Indiana,North Carolina,68,86,31,50,0,Jump Ball won by Indiana
+Indiana,North Carolina,68,86,32,1,0,Max Bielfeldt missed Jumper.
+Indiana,North Carolina,68,86,32,1,0,Brice Johnson Defensive Rebound.
+Indiana,North Carolina,68,86,32,34,0,Isaiah Hicks missed Layup.
+Indiana,North Carolina,68,86,32,34,0,Yogi Ferrell Defensive Rebound.
+Indiana,North Carolina,68,86,32,40,0,Nick Zeisloft missed Three Point Jumper.
+Indiana,North Carolina,68,86,32,40,0,Isaiah Hicks Defensive Rebound.
+Indiana,North Carolina,68,88,32,51,1,Joel Berry II made Jumper.
+Indiana,North Carolina,68,88,33,12,0,Troy Williams Turnover.
+Indiana,North Carolina,68,88,33,12,0,Justin Jackson Steal.
+Indiana,North Carolina,68,88,33,17,0,Foul on Troy Williams.
+Indiana,North Carolina,68,88,33,17,0,Official TV Timeout
+Indiana,North Carolina,68,88,33,17,0,Justin Jackson missed Free Throw.
+Indiana,North Carolina,68,88,33,17,0,North Carolina Deadball Team Rebound.
+Indiana,North Carolina,68,89,33,17,1,Justin Jackson made Free Throw.
+Indiana,North Carolina,71,89,33,36,1,Yogi Ferrell made Three Point Jumper. Assisted by Thomas Bryant.
+Indiana,North Carolina,71,89,33,54,0,Isaiah Hicks missed Layup.
+Indiana,North Carolina,71,89,33,54,0,Justin Jackson Offensive Rebound.
+Indiana,North Carolina,71,89,33,54,0,Justin Jackson missed Two Point Tip Shot.
+Indiana,North Carolina,71,89,33,54,0,Isaiah Hicks Offensive Rebound.
+Indiana,North Carolina,71,89,33,58,0,Foul on Collin Hartman.
+Indiana,North Carolina,71,90,33,58,1,Isaiah Hicks made Free Throw.
+Indiana,North Carolina,71,91,33,58,1,Isaiah Hicks made Free Throw.
+Indiana,North Carolina,71,91,34,18,0,Thomas Bryant missed Jumper.
+Indiana,North Carolina,71,91,34,18,0,Justin Jackson Block.
+Indiana,North Carolina,71,91,34,18,0,Nate Britt Defensive Rebound.
+Indiana,North Carolina,71,91,34,24,0,Brice Johnson Turnover.
+Indiana,North Carolina,71,91,34,32,0,Foul on Isaiah Hicks.
+Indiana,North Carolina,71,91,34,32,0,Thomas Bryant missed Free Throw.
+Indiana,North Carolina,71,91,34,32,0,Kennedy Meeks Defensive Rebound.
+Indiana,North Carolina,71,91,34,47,0,Marcus Paige missed Three Point Jumper.
+Indiana,North Carolina,71,91,34,47,0,Justin Jackson Offensive Rebound.
+Indiana,North Carolina,71,91,34,52,0,Marcus Paige missed Three Point Jumper.
+Indiana,North Carolina,71,91,34,52,0,Kennedy Meeks Offensive Rebound.
+Indiana,North Carolina,71,91,35,2,0,Justin Jackson missed Three Point Jumper.
+Indiana,North Carolina,71,91,35,2,0,Brice Johnson Offensive Rebound.
+Indiana,North Carolina,71,91,35,8,0,Foul on OG Anunoby.
+Indiana,North Carolina,71,92,35,8,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,71,93,35,8,1,Brice Johnson made Free Throw.
+Indiana,North Carolina,71,93,35,18,0,Foul on Joel Berry II.
+Indiana,North Carolina,72,93,35,18,1,Yogi Ferrell made Free Throw.
+Indiana,North Carolina,73,93,35,18,1,Yogi Ferrell made Free Throw.
+Indiana,North Carolina,73,93,35,47,0,Nate Britt missed Three Point Jumper.
+Indiana,North Carolina,73,93,35,47,0,Indiana Defensive Rebound.
+Indiana,North Carolina,76,93,36,3,1,Max Bielfeldt made Three Point Jumper. Assisted by Yogi Ferrell.
+Indiana,North Carolina,76,95,36,30,1,Brice Johnson made Jumper. Assisted by Marcus Paige.
+Indiana,North Carolina,76,95,36,43,0,Foul on Nate Britt.
+Indiana,North Carolina,76,95,36,43,0,Official TV Timeout
+Indiana,North Carolina,77,95,36,43,1,Yogi Ferrell made Free Throw.
+Indiana,North Carolina,78,95,36,43,1,Yogi Ferrell made Free Throw.
+Indiana,North Carolina,78,98,37,10,1,Marcus Paige made Three Point Jumper. Assisted by Joel Berry II.
+Indiana,North Carolina,78,98,37,20,0,Foul on Thomas Bryant.
+Indiana,North Carolina,78,98,37,20,0,Thomas Bryant Turnover.
+Indiana,North Carolina,78,98,37,48,0,Justin Jackson missed Three Point Jumper.
+Indiana,North Carolina,78,98,37,48,0,Max Bielfeldt Defensive Rebound.
+Indiana,North Carolina,78,98,37,57,0,Yogi Ferrell missed Three Point Jumper.
+Indiana,North Carolina,78,98,37,57,0,Max Bielfeldt Offensive Rebound.
+Indiana,North Carolina,78,98,38,2,0,Yogi Ferrell missed Three Point Jumper.
+Indiana,North Carolina,78,98,38,2,0,Max Bielfeldt Offensive Rebound.
+Indiana,North Carolina,78,98,38,16,0,Troy Williams missed Layup.
+Indiana,North Carolina,78,98,38,16,0,Kennedy Meeks Defensive Rebound.
+Indiana,North Carolina,78,98,38,42,0,Joel Berry II missed Three Point Jumper.
+Indiana,North Carolina,78,98,38,42,0,Yogi Ferrell Defensive Rebound.
+Indiana,North Carolina,81,98,38,56,1,Troy Williams made Three Point Jumper. Assisted by Thomas Bryant.
+Indiana,North Carolina,81,100,39,25,1,Joel Berry II made Layup.
+Indiana,North Carolina,84,100,39,28,1,Troy Williams made Three Point Jumper. Assisted by Ryan Burton.
+Indiana,North Carolina,84,100,39,36,0,Foul on Yogi Ferrell.
+Indiana,North Carolina,84,100,39,36,0,Marcus Paige missed Free Throw.
+Indiana,North Carolina,84,100,39,36,0,North Carolina Deadball Team Rebound.
+Indiana,North Carolina,84,101,39,36,1,Marcus Paige made Free Throw.
+Indiana,North Carolina,84,101,39,48,0,Foul on Kenny Williams.
+Indiana,North Carolina,85,101,39,48,1,Juwan Morgan made Free Throw.
+Indiana,North Carolina,86,101,39,48,1,Juwan Morgan made Free Throw.
+Indiana,North Carolina,86,101,40,0,0,End of Game

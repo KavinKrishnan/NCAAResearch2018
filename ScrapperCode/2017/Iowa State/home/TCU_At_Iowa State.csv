@@ -1,0 +1,293 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+TCU,Iowa State,0,0,0,0,0,Jump Ball won by Iowa State
+TCU,Iowa State,0,0,0,15,0,Solomon Young missed Jumper.
+TCU,Iowa State,0,0,0,15,0,Alex Robinson Defensive Rebound.
+TCU,Iowa State,0,0,0,23,0,Alex Robinson missed Layup.
+TCU,Iowa State,0,0,0,23,0,Solomon Young Block.
+TCU,Iowa State,0,0,0,23,0,Alex Robinson Offensive Rebound.
+TCU,Iowa State,0,0,0,44,0,Vladimir Brodziansky missed Jumper.
+TCU,Iowa State,0,0,0,44,0,Deonte Burton Defensive Rebound.
+TCU,Iowa State,0,0,0,56,0,Deonte Burton missed Three Point Jumper.
+TCU,Iowa State,0,0,0,56,0,Kenrich Williams Defensive Rebound.
+TCU,Iowa State,0,0,1,25,0,JD Miller Turnover.
+TCU,Iowa State,0,0,1,25,0,Deonte Burton Steal.
+TCU,Iowa State,0,2,1,46,1,Deonte Burton made Jumper.
+TCU,Iowa State,0,2,2,15,0,Jaylen Fisher missed Layup.
+TCU,Iowa State,0,2,2,15,0,Solomon Young Block.
+TCU,Iowa State,0,2,2,15,0,Vladimir Brodziansky Offensive Rebound.
+TCU,Iowa State,2,2,2,25,1,Vladimir Brodziansky made Layup.
+TCU,Iowa State,2,2,2,37,0,Nazareth Mitrou-Long missed Three Point Jumper.
+TCU,Iowa State,2,2,2,37,0,JD Miller Defensive Rebound.
+TCU,Iowa State,2,2,2,48,0,Vladimir Brodziansky missed Layup.
+TCU,Iowa State,2,2,2,48,0,Solomon Young Block.
+TCU,Iowa State,2,2,2,48,0,Solomon Young Defensive Rebound.
+TCU,Iowa State,2,4,3,3,1,Deonte Burton made Jumper.
+TCU,Iowa State,4,4,3,27,1,Vladimir Brodziansky made Jumper. Assisted by Jaylen Fisher.
+TCU,Iowa State,4,4,4,4,0,Matt Thomas Turnover.
+TCU,Iowa State,4,4,4,4,0,Official TV Timeout
+TCU,Iowa State,4,4,4,31,0,Alex Robinson missed Three Point Jumper.
+TCU,Iowa State,4,4,4,31,0,Monte Morris Defensive Rebound.
+TCU,Iowa State,4,4,4,37,0,Monte Morris missed Layup.
+TCU,Iowa State,4,4,4,37,0,Solomon Young Offensive Rebound.
+TCU,Iowa State,4,6,4,43,1,Monte Morris made Layup.
+TCU,Iowa State,7,6,4,57,1,Brandon Parrish made Three Point Jumper. Assisted by Alex Robinson.
+TCU,Iowa State,7,6,5,27,0,Matt Thomas Turnover.
+TCU,Iowa State,7,6,5,27,0,Jaylen Fisher Steal.
+TCU,Iowa State,10,6,5,33,1,Jaylen Fisher made Three Point Jumper. Assisted by Kenrich Williams.
+TCU,Iowa State,10,6,6,3,0,Matt Thomas missed Jumper.
+TCU,Iowa State,10,6,6,3,0,Kenrich Williams Block.
+TCU,Iowa State,10,6,6,3,0,Deonte Burton Offensive Rebound.
+TCU,Iowa State,10,8,6,10,1,Deonte Burton made Layup.
+TCU,Iowa State,10,8,6,20,0,Brandon Parrish missed Three Point Jumper.
+TCU,Iowa State,10,8,6,20,0,Monte Morris Defensive Rebound.
+TCU,Iowa State,10,11,6,32,1,Deonte Burton made Three Point Jumper. Assisted by Monte Morris.
+TCU,Iowa State,10,11,6,55,0,Vladimir Brodziansky missed Jumper.
+TCU,Iowa State,10,11,6,55,0,Jaylen Fisher Offensive Rebound.
+TCU,Iowa State,10,11,7,3,0,Jaylen Fisher Turnover.
+TCU,Iowa State,10,11,7,3,0,Monte Morris Steal.
+TCU,Iowa State,10,11,7,13,0,Deonte Burton missed Three Point Jumper.
+TCU,Iowa State,10,11,7,13,0,Kenrich Williams Defensive Rebound.
+TCU,Iowa State,10,11,7,22,0,Kenrich Williams missed Layup.
+TCU,Iowa State,10,11,7,22,0,Nazareth Mitrou-Long Defensive Rebound.
+TCU,Iowa State,10,13,7,30,1,Nazareth Mitrou-Long made Layup.
+TCU,Iowa State,10,13,7,50,0,Brandon Parrish missed Three Point Jumper.
+TCU,Iowa State,10,13,7,50,0,Nazareth Mitrou-Long Defensive Rebound.
+TCU,Iowa State,10,16,7,59,1,Monte Morris made Three Point Jumper. Assisted by Nazareth Mitrou-Long.
+TCU,Iowa State,10,16,8,21,0,Foul on Matt Thomas.
+TCU,Iowa State,10,16,8,21,0,Official TV Timeout
+TCU,Iowa State,12,16,8,33,1,Brandon Parrish made Layup.
+TCU,Iowa State,12,18,8,51,1,Deonte Burton made Jumper. Assisted by Monte Morris.
+TCU,Iowa State,12,18,9,5,0,Foul on Deonte Burton.
+TCU,Iowa State,14,18,9,20,1,Karviar Shepherd made Layup. Assisted by Alex Robinson.
+TCU,Iowa State,14,18,9,45,0,Deonte Burton missed Three Point Jumper.
+TCU,Iowa State,14,18,9,45,0,Alex Robinson Defensive Rebound.
+TCU,Iowa State,14,18,9,53,0,Alex Robinson Turnover.
+TCU,Iowa State,14,18,9,53,0,Monte Morris Steal.
+TCU,Iowa State,14,18,10,12,0,Darrell Bowie missed Layup.
+TCU,Iowa State,14,18,10,12,0,Brandon Parrish Block.
+TCU,Iowa State,14,18,10,12,0,Kenrich Williams Defensive Rebound.
+TCU,Iowa State,16,18,10,23,1,Desmond Bane made Layup.
+TCU,Iowa State,16,20,10,48,1,Monte Morris made Jumper.
+TCU,Iowa State,16,20,10,58,0,Jaylen Fisher missed Layup.
+TCU,Iowa State,16,20,10,58,0,Darrell Bowie Defensive Rebound.
+TCU,Iowa State,16,20,10,59,0,Foul on Karviar Shepherd.
+TCU,Iowa State,16,23,11,5,1,Matt Thomas made Three Point Jumper. Assisted by Darrell Bowie.
+TCU,Iowa State,18,23,11,28,1,Vladimir Brodziansky made Dunk. Assisted by Kenrich Williams.
+TCU,Iowa State,18,25,11,44,1,Matt Thomas made Jumper.
+TCU,Iowa State,18,25,12,7,0,Kenrich Williams Turnover.
+TCU,Iowa State,18,25,12,7,0,Official TV Timeout
+TCU,Iowa State,18,25,12,30,0,Foul on Alex Robinson.
+TCU,Iowa State,18,26,12,30,1,Monte Morris made Free Throw.
+TCU,Iowa State,18,27,12,30,1,Monte Morris made Free Throw.
+TCU,Iowa State,20,27,12,50,1,JD Miller made Jumper. Assisted by Alex Robinson.
+TCU,Iowa State,20,27,13,4,0,Foul on Desmond Bane.
+TCU,Iowa State,20,27,13,8,0,Deonte Burton missed Three Point Jumper.
+TCU,Iowa State,20,27,13,8,0,JD Miller Defensive Rebound.
+TCU,Iowa State,20,27,13,30,0,Foul on Solomon Young.
+TCU,Iowa State,20,27,13,44,0,JD Miller missed Jumper.
+TCU,Iowa State,20,27,13,44,0,Nazareth Mitrou-Long Defensive Rebound.
+TCU,Iowa State,20,29,14,1,1,Solomon Young made Layup. Assisted by Matt Thomas.
+TCU,Iowa State,20,29,14,7,0,TCU  Timeout
+TCU,Iowa State,23,29,14,20,1,Brandon Parrish made Three Point Jumper. Assisted by Kenrich Williams.
+TCU,Iowa State,23,32,14,44,1,Nazareth Mitrou-Long made Three Point Jumper.
+TCU,Iowa State,25,32,14,55,1,Vladimir Brodziansky made Layup. Assisted by Kenrich Williams.
+TCU,Iowa State,25,32,15,21,0,Foul on Brandon Parrish.
+TCU,Iowa State,25,32,15,21,0,Deonte Burton missed Free Throw.
+TCU,Iowa State,25,32,15,21,0,Iowa State Deadball Team Rebound.
+TCU,Iowa State,25,32,15,21,0,Deonte Burton missed Free Throw.
+TCU,Iowa State,25,32,15,21,0,Kenrich Williams Defensive Rebound.
+TCU,Iowa State,25,32,15,31,0,Brandon Parrish missed Three Point Jumper.
+TCU,Iowa State,25,32,15,31,0,Kenrich Williams Offensive Rebound.
+TCU,Iowa State,25,32,15,33,0,Foul on Matt Thomas.
+TCU,Iowa State,25,32,15,43,0,Vladimir Brodziansky missed Layup.
+TCU,Iowa State,25,32,15,43,0,Solomon Young Defensive Rebound.
+TCU,Iowa State,25,32,15,59,0,Foul on Vladimir Brodziansky.
+TCU,Iowa State,25,35,16,7,1,Donovan Jackson made Three Point Jumper. Assisted by Monte Morris.
+TCU,Iowa State,25,35,16,11,0,TCU  Timeout
+TCU,Iowa State,25,35,16,28,0,Vladimir Brodziansky missed Jumper.
+TCU,Iowa State,25,35,16,28,0,Deonte Burton Block.
+TCU,Iowa State,25,35,16,28,0,Solomon Young Defensive Rebound.
+TCU,Iowa State,25,35,16,47,0,Donovan Jackson missed Three Point Jumper.
+TCU,Iowa State,25,35,16,47,0,Brandon Parrish Defensive Rebound.
+TCU,Iowa State,25,35,17,9,0,Vladimir Brodziansky missed Jumper.
+TCU,Iowa State,25,35,17,9,0,Donovan Jackson Defensive Rebound.
+TCU,Iowa State,25,35,17,19,0,Deonte Burton missed Jumper.
+TCU,Iowa State,25,35,17,19,0,Solomon Young Offensive Rebound.
+TCU,Iowa State,25,37,17,25,1,Solomon Young made Layup.
+TCU,Iowa State,25,37,17,49,0,Brandon Parrish missed Jumper.
+TCU,Iowa State,25,37,17,49,0,Deonte Burton Defensive Rebound.
+TCU,Iowa State,25,37,18,9,0,Foul on Alex Robinson.
+TCU,Iowa State,25,38,18,9,1,Deonte Burton made Free Throw.
+TCU,Iowa State,25,39,18,9,1,Deonte Burton made Free Throw.
+TCU,Iowa State,27,39,18,19,1,Karviar Shepherd made Jumper.
+TCU,Iowa State,27,42,18,37,1,Monte Morris made Three Point Jumper.
+TCU,Iowa State,27,42,19,8,0,Karviar Shepherd Turnover.
+TCU,Iowa State,27,42,19,34,0,Monte Morris missed Three Point Jumper.
+TCU,Iowa State,27,42,19,34,0,Iowa State Offensive Rebound.
+TCU,Iowa State,27,42,19,39,0,Iowa State  Timeout
+TCU,Iowa State,27,44,19,58,1,Solomon Young made Layup. Assisted by Deonte Burton.
+TCU,Iowa State,27,44,20,0,0,End of 1st half
+TCU,Iowa State,27,44,20,0,0,Jump Ball won by TCU
+TCU,Iowa State,27,44,20,8,0,Vladimir Brodziansky missed Layup.
+TCU,Iowa State,27,44,20,8,0,Solomon Young Block.
+TCU,Iowa State,27,44,20,8,0,Solomon Young Defensive Rebound.
+TCU,Iowa State,27,46,20,33,1,Deonte Burton made Jumper.
+TCU,Iowa State,29,46,20,46,1,Kenrich Williams made Jumper.
+TCU,Iowa State,29,46,21,17,0,Foul on Vladimir Brodziansky.
+TCU,Iowa State,29,48,21,23,1,Deonte Burton made Jumper.
+TCU,Iowa State,29,48,21,42,0,Kenrich Williams Turnover.
+TCU,Iowa State,29,51,21,55,1,Deonte Burton made Three Point Jumper. Assisted by Matt Thomas.
+TCU,Iowa State,32,51,22,8,1,JD Miller made Three Point Jumper. Assisted by Alex Robinson.
+TCU,Iowa State,32,51,22,34,0,Foul on JD Miller.
+TCU,Iowa State,32,51,22,34,0,Solomon Young missed Free Throw.
+TCU,Iowa State,32,51,22,34,0,Iowa State Deadball Team Rebound.
+TCU,Iowa State,32,52,22,34,1,Solomon Young made Free Throw.
+TCU,Iowa State,32,52,22,43,0,Alex Robinson Turnover.
+TCU,Iowa State,32,52,22,43,0,Monte Morris Steal.
+TCU,Iowa State,32,52,22,51,0,Monte Morris missed Layup.
+TCU,Iowa State,32,52,22,51,0,Kenrich Williams Block.
+TCU,Iowa State,32,52,22,51,0,Monte Morris Offensive Rebound.
+TCU,Iowa State,32,52,23,5,0,Monte Morris Turnover.
+TCU,Iowa State,32,52,23,5,0,Karviar Shepherd Steal.
+TCU,Iowa State,34,52,23,8,1,Jaylen Fisher made Layup. Assisted by Alex Robinson.
+TCU,Iowa State,34,52,23,21,0,Deonte Burton missed Jumper.
+TCU,Iowa State,34,52,23,21,0,Jaylen Fisher Defensive Rebound.
+TCU,Iowa State,34,52,23,36,0,Foul on Solomon Young.
+TCU,Iowa State,35,52,23,36,1,Karviar Shepherd made Free Throw.
+TCU,Iowa State,36,52,23,36,1,Karviar Shepherd made Free Throw.
+TCU,Iowa State,36,52,23,48,0,Matt Thomas missed Three Point Jumper.
+TCU,Iowa State,36,52,23,48,0,Jaylen Fisher Defensive Rebound.
+TCU,Iowa State,36,52,23,57,0,Brandon Parrish missed Three Point Jumper.
+TCU,Iowa State,36,52,23,57,0,Nazareth Mitrou-Long Defensive Rebound.
+TCU,Iowa State,36,52,24,12,0,Foul on Deonte Burton.
+TCU,Iowa State,36,52,24,12,0,Deonte Burton Turnover.
+TCU,Iowa State,36,52,24,12,0,Official TV Timeout
+TCU,Iowa State,38,52,24,24,1,Karviar Shepherd made Layup. Assisted by Jaylen Fisher.
+TCU,Iowa State,38,52,24,54,0,Deonte Burton missed Jumper.
+TCU,Iowa State,38,52,24,54,0,Kenrich Williams Defensive Rebound.
+TCU,Iowa State,38,52,25,14,0,Jaylen Fisher missed Jumper.
+TCU,Iowa State,38,52,25,14,0,Solomon Young Defensive Rebound.
+TCU,Iowa State,38,55,25,26,1,Nazareth Mitrou-Long made Three Point Jumper. Assisted by Deonte Burton.
+TCU,Iowa State,38,55,25,53,0,Alex Robinson missed Three Point Jumper.
+TCU,Iowa State,38,55,25,53,0,Nazareth Mitrou-Long Defensive Rebound.
+TCU,Iowa State,38,57,26,4,1,Matt Thomas made Layup. Assisted by Nazareth Mitrou-Long.
+TCU,Iowa State,38,57,26,19,0,Jaylen Fisher missed Three Point Jumper.
+TCU,Iowa State,38,57,26,19,0,Deonte Burton Defensive Rebound.
+TCU,Iowa State,38,57,26,29,0,Monte Morris missed Layup.
+TCU,Iowa State,38,57,26,29,0,Alex Robinson Block.
+TCU,Iowa State,38,57,26,29,0,Alex Robinson Defensive Rebound.
+TCU,Iowa State,38,57,26,36,0,Alex Robinson missed Jumper.
+TCU,Iowa State,38,57,26,36,0,Solomon Young Defensive Rebound.
+TCU,Iowa State,38,59,27,2,1,Solomon Young made Layup.
+TCU,Iowa State,38,59,27,5,0,TCU  Timeout
+TCU,Iowa State,38,59,27,33,0,Brandon Parrish missed Three Point Jumper.
+TCU,Iowa State,38,59,27,33,0,Deonte Burton Defensive Rebound.
+TCU,Iowa State,38,62,27,50,1,Monte Morris made Three Point Jumper. Assisted by Deonte Burton.
+TCU,Iowa State,38,62,28,4,0,Kenrich Williams missed Jumper.
+TCU,Iowa State,38,62,28,4,0,Iowa State Defensive Rebound.
+TCU,Iowa State,38,62,28,7,0,Official TV Timeout
+TCU,Iowa State,38,64,28,14,1,Darrell Bowie made Dunk. Assisted by Deonte Burton.
+TCU,Iowa State,38,64,28,28,0,Kenrich Williams missed Three Point Jumper.
+TCU,Iowa State,38,64,28,28,0,Kenrich Williams Offensive Rebound.
+TCU,Iowa State,40,64,28,34,1,Kenrich Williams made Jumper.
+TCU,Iowa State,40,64,28,54,0,Darrell Bowie missed Jumper.
+TCU,Iowa State,40,64,28,54,0,Brandon Parrish Defensive Rebound.
+TCU,Iowa State,40,64,29,3,0,Kenrich Williams missed Jumper.
+TCU,Iowa State,40,64,29,5,0,Nazareth Mitrou-Long Defensive Rebound.
+TCU,Iowa State,40,64,29,11,0,Monte Morris missed Three Point Jumper.
+TCU,Iowa State,40,64,29,11,0,Desmond Bane Defensive Rebound.
+TCU,Iowa State,40,64,29,16,0,Foul on Nazareth Mitrou-Long.
+TCU,Iowa State,41,64,29,16,1,Desmond Bane made Free Throw.
+TCU,Iowa State,42,64,29,16,1,Desmond Bane made Free Throw.
+TCU,Iowa State,42,64,29,47,0,Deonte Burton missed Three Point Jumper.
+TCU,Iowa State,42,64,29,47,0,Michael Williams Defensive Rebound.
+TCU,Iowa State,42,64,29,54,0,Vladimir Brodziansky missed Three Point Jumper.
+TCU,Iowa State,42,64,29,54,0,Nick Weiler-Babb Defensive Rebound.
+TCU,Iowa State,42,66,30,1,1,Donovan Jackson made Layup.
+TCU,Iowa State,44,66,30,27,1,Alex Robinson made Layup.
+TCU,Iowa State,44,69,30,40,1,Donovan Jackson made Three Point Jumper.
+TCU,Iowa State,44,69,30,47,0,Alex Robinson missed Layup.
+TCU,Iowa State,44,69,30,47,0,Nick Weiler-Babb Block.
+TCU,Iowa State,44,69,30,47,0,TCU Offensive Rebound.
+TCU,Iowa State,44,69,31,1,0,Foul on Nick Weiler-Babb.
+TCU,Iowa State,45,69,31,1,1,Vladimir Brodziansky made Free Throw.
+TCU,Iowa State,46,69,31,1,1,Vladimir Brodziansky made Free Throw.
+TCU,Iowa State,46,69,31,26,0,Foul on Chris Washburn.
+TCU,Iowa State,46,69,31,26,0,Solomon Young missed Free Throw.
+TCU,Iowa State,46,69,31,26,0,Iowa State Deadball Team Rebound.
+TCU,Iowa State,46,69,31,26,0,Solomon Young missed Free Throw.
+TCU,Iowa State,46,69,31,26,0,Alex Robinson Defensive Rebound.
+TCU,Iowa State,46,69,31,26,0,Desmond Bane missed Three Point Jumper.
+TCU,Iowa State,46,69,31,26,0,Solomon Young Defensive Rebound.
+TCU,Iowa State,46,69,31,34,0,Foul on Kenrich Williams.
+TCU,Iowa State,46,69,31,41,0,Matt Thomas missed Three Point Jumper.
+TCU,Iowa State,46,69,31,41,0,Vladimir Brodziansky Defensive Rebound.
+TCU,Iowa State,46,69,32,3,0,Kenrich Williams missed Three Point Jumper.
+TCU,Iowa State,46,69,32,3,0,Nick Weiler-Babb Defensive Rebound.
+TCU,Iowa State,46,72,32,29,1,Nick Weiler-Babb made Three Point Jumper.
+TCU,Iowa State,48,72,32,49,1,Jaylen Fisher made Layup.
+TCU,Iowa State,48,74,33,7,1,Nazareth Mitrou-Long made Layup.
+TCU,Iowa State,48,74,33,28,0,Vladimir Brodziansky missed Jumper.
+TCU,Iowa State,48,74,33,28,0,Kenrich Williams Offensive Rebound.
+TCU,Iowa State,50,74,33,29,1,Kenrich Williams made Jumper.
+TCU,Iowa State,50,74,33,29,0,Foul on Solomon Young.
+TCU,Iowa State,50,74,33,29,0,Official TV Timeout
+TCU,Iowa State,51,74,33,29,1,Kenrich Williams made Free Throw.
+TCU,Iowa State,51,77,33,54,1,Nick Weiler-Babb made Three Point Jumper.
+TCU,Iowa State,51,77,34,10,0,Alex Robinson missed Jumper.
+TCU,Iowa State,51,77,34,10,0,Nazareth Mitrou-Long Defensive Rebound.
+TCU,Iowa State,51,77,34,33,0,Foul on Chris Washburn.
+TCU,Iowa State,51,77,34,50,0,Solomon Young Turnover.
+TCU,Iowa State,51,77,34,50,0,Alex Robinson Steal.
+TCU,Iowa State,53,77,34,59,1,Chris Washburn made Jumper. Assisted by Kenrich Williams.
+TCU,Iowa State,53,77,35,18,0,Nazareth Mitrou-Long missed Three Point Jumper.
+TCU,Iowa State,53,77,35,18,0,TCU Deadball Team Rebound.
+TCU,Iowa State,53,77,35,29,0,Jaylen Fisher missed Layup.
+TCU,Iowa State,53,77,35,29,0,TCU Offensive Rebound.
+TCU,Iowa State,53,77,35,35,0,Alex Robinson missed Three Point Jumper.
+TCU,Iowa State,53,77,35,35,0,Chris Washburn Offensive Rebound.
+TCU,Iowa State,56,77,35,43,1,Jaylen Fisher made Three Point Jumper. Assisted by Chris Washburn.
+TCU,Iowa State,56,77,36,9,0,Foul on Kenrich Williams.
+TCU,Iowa State,56,77,36,9,0,Official TV Timeout
+TCU,Iowa State,56,78,36,9,1,Deonte Burton made Free Throw.
+TCU,Iowa State,56,79,36,9,1,Deonte Burton made Free Throw.
+TCU,Iowa State,56,79,36,21,0,Foul on Darrell Bowie.
+TCU,Iowa State,56,79,36,21,0,Chris Washburn missed Free Throw.
+TCU,Iowa State,56,79,36,21,0,TCU Deadball Team Rebound.
+TCU,Iowa State,57,79,36,21,1,Chris Washburn made Free Throw.
+TCU,Iowa State,57,79,36,43,0,Foul on Alex Robinson.
+TCU,Iowa State,57,79,36,43,0,Nazareth Mitrou-Long missed Free Throw.
+TCU,Iowa State,57,79,36,43,0,Iowa State Deadball Team Rebound.
+TCU,Iowa State,57,80,36,43,1,Nazareth Mitrou-Long made Free Throw.
+TCU,Iowa State,59,80,36,51,1,Kenrich Williams made Jumper. Assisted by Jaylen Fisher.
+TCU,Iowa State,59,80,37,4,0,Foul on Darrell Bowie.
+TCU,Iowa State,59,80,37,4,0,Darrell Bowie Turnover.
+TCU,Iowa State,59,80,37,9,0,Foul on Merrill Holden.
+TCU,Iowa State,59,80,37,9,0,Iowa State  Timeout
+TCU,Iowa State,59,80,37,9,0,Chris Washburn missed Free Throw.
+TCU,Iowa State,59,80,37,9,0,TCU Deadball Team Rebound.
+TCU,Iowa State,60,80,37,9,1,Chris Washburn made Free Throw.
+TCU,Iowa State,60,82,37,30,1,Darrell Bowie made Layup. Assisted by Nick Weiler-Babb.
+TCU,Iowa State,60,82,37,52,0,Jaylen Fisher Turnover.
+TCU,Iowa State,60,82,38,20,0,Donovan Jackson missed Three Point Jumper.
+TCU,Iowa State,60,82,38,20,0,TCU Defensive Rebound.
+TCU,Iowa State,60,82,38,32,0,Kenrich Williams missed Layup.
+TCU,Iowa State,60,82,38,32,0,Jakolby Long Defensive Rebound.
+TCU,Iowa State,60,82,38,41,0,Foul on Chris Washburn.
+TCU,Iowa State,60,83,38,41,1,Nick Weiler-Babb made Free Throw.
+TCU,Iowa State,60,84,38,41,1,Nick Weiler-Babb made Free Throw.
+TCU,Iowa State,60,84,38,57,0,Foul on Wes Greder.
+TCU,Iowa State,60,84,38,57,0,Dalton Dry missed Free Throw.
+TCU,Iowa State,60,84,38,57,0,TCU Deadball Team Rebound.
+TCU,Iowa State,61,84,38,57,1,Dalton Dry made Free Throw.
+TCU,Iowa State,61,84,39,1,0,Foul on Chris Washburn.
+TCU,Iowa State,61,84,39,1,0,Jakolby Long missed Free Throw.
+TCU,Iowa State,61,84,39,1,0,Austin Sottile Defensive Rebound.
+TCU,Iowa State,63,84,39,15,1,Austin Sottile made Layup. Assisted by Chris Washburn.
+TCU,Iowa State,63,84,39,31,0,Jakolby Long missed Jumper.
+TCU,Iowa State,63,84,39,31,0,Austin Sottile Defensive Rebound.
+TCU,Iowa State,63,84,39,43,0,Dalton Dry missed Jumper.
+TCU,Iowa State,63,84,39,43,0,Dalton Dry Offensive Rebound.
+TCU,Iowa State,63,84,39,50,0,Michael Williams missed Three Point Jumper.
+TCU,Iowa State,63,84,39,50,0,Simeon Carter Defensive Rebound.
+TCU,Iowa State,63,84,40,0,0,End of Game

@@ -1,0 +1,370 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Marshall,West Virginia,0,0,0,0,0,Jump Ball won by Marshall
+Marshall,West Virginia,0,0,0,8,0,Aleksa Nikolic Turnover.
+Marshall,West Virginia,0,0,0,8,0,Devin Williams Steal.
+Marshall,West Virginia,0,0,0,21,0,Jaysean Paige Turnover.
+Marshall,West Virginia,0,0,0,21,0,Austin Loop Steal.
+Marshall,West Virginia,0,0,0,37,0,Austin Loop missed Layup.
+Marshall,West Virginia,0,0,0,37,0,Jonathan Holton Block.
+Marshall,West Virginia,0,0,0,37,0,Jonathan Holton Defensive Rebound.
+Marshall,West Virginia,0,0,0,48,0,Devin Williams Turnover.
+Marshall,West Virginia,0,0,1,4,0,Aleksa Nikolic Turnover.
+Marshall,West Virginia,0,0,1,4,0,Juwan Staten Steal.
+Marshall,West Virginia,0,2,1,10,1,Juwan Staten made Layup.
+Marshall,West Virginia,2,2,1,14,1,Cheikh Sane made Layup. Assisted by Justin Edmonds.
+Marshall,West Virginia,2,2,1,36,0,Daxter Miles Jr. missed Three Point Jumper.
+Marshall,West Virginia,2,2,1,36,0,Justin Edmonds Defensive Rebound.
+Marshall,West Virginia,5,2,1,51,1,Austin Loop made Three Point Jumper. Assisted by Cheikh Sane.
+Marshall,West Virginia,5,2,2,10,0,Devin Williams missed Jumper.
+Marshall,West Virginia,5,2,2,10,0,Justin Edmonds Defensive Rebound.
+Marshall,West Virginia,5,2,2,19,0,Ryan Taylor missed Three Point Jumper.
+Marshall,West Virginia,5,2,2,19,0,Gary Browne Defensive Rebound.
+Marshall,West Virginia,5,2,2,32,0,Juwan Staten missed Layup.
+Marshall,West Virginia,5,2,2,32,0,Devin Williams Offensive Rebound.
+Marshall,West Virginia,5,2,2,32,0,Devin Williams missed Layup.
+Marshall,West Virginia,5,2,2,32,0,Aleksa Nikolic Block.
+Marshall,West Virginia,5,2,2,32,0,Aleksa Nikolic Defensive Rebound.
+Marshall,West Virginia,5,2,2,32,0,Aleksa Nikolic Turnover.
+Marshall,West Virginia,5,2,2,32,0,Juwan Staten Steal.
+Marshall,West Virginia,5,4,2,57,1,Devin Williams made Layup. Assisted by Daxter Miles Jr..
+Marshall,West Virginia,5,4,2,57,0,Foul on Cheikh Sane.
+Marshall,West Virginia,5,5,2,57,1,Devin Williams made Free Throw.
+Marshall,West Virginia,5,5,3,7,0,Ryan Taylor Turnover.
+Marshall,West Virginia,5,5,3,28,0,Nathan Adrian missed Three Point Jumper.
+Marshall,West Virginia,5,5,3,28,0,Jevon Carter Offensive Rebound.
+Marshall,West Virginia,5,7,3,47,1,Elijah Macon made Layup. Assisted by Nathan Adrian.
+Marshall,West Virginia,5,7,4,4,0,Foul on Nathan Adrian.
+Marshall,West Virginia,5,7,4,4,0,Official TV Timeout
+Marshall,West Virginia,8,7,4,7,1,Justin Edmonds made Three Point Jumper. Assisted by Ryan Taylor.
+Marshall,West Virginia,8,9,4,36,1,Juwan Staten made Jumper.
+Marshall,West Virginia,8,9,4,50,0,Foul on Jevon Carter.
+Marshall,West Virginia,8,9,5,2,0,Ryan Taylor Turnover.
+Marshall,West Virginia,8,9,5,18,0,Juwan Staten missed Jumper.
+Marshall,West Virginia,8,9,5,18,0,Nathan Adrian Offensive Rebound.
+Marshall,West Virginia,8,11,5,37,1,Nathan Adrian made Layup. Assisted by Gary Browne.
+Marshall,West Virginia,8,11,5,44,0,JP Kambola Turnover.
+Marshall,West Virginia,8,11,6,8,0,Foul on Aleksa Nikolic.
+Marshall,West Virginia,8,11,6,12,0,Juwan Staten Turnover.
+Marshall,West Virginia,8,11,6,12,0,Tamron Manning Steal.
+Marshall,West Virginia,10,11,6,18,1,JP Kambola made Dunk. Assisted by Tamron Manning.
+Marshall,West Virginia,10,11,6,36,0,Nathan Adrian missed Three Point Jumper.
+Marshall,West Virginia,10,11,6,36,0,JP Kambola Defensive Rebound.
+Marshall,West Virginia,13,11,6,45,1,Justin Edmonds made Three Point Jumper.
+Marshall,West Virginia,13,11,7,6,0,Foul on Tamron Manning.
+Marshall,West Virginia,13,11,7,18,0,Brandon Watkins Turnover.
+Marshall,West Virginia,13,11,7,18,0,Aleksa Nikolic Steal.
+Marshall,West Virginia,13,11,7,28,0,Tamron Manning missed Three Point Jumper.
+Marshall,West Virginia,13,11,7,28,0,Aleksa Nikolic Offensive Rebound.
+Marshall,West Virginia,13,11,8,0,0,Jay Johnson missed Three Point Jumper.
+Marshall,West Virginia,13,11,8,0,0,Brandon Watkins Defensive Rebound.
+Marshall,West Virginia,13,13,8,5,1,Jevon Carter made Layup. Assisted by Juwan Staten.
+Marshall,West Virginia,13,13,8,5,0,Foul on Jay Johnson.
+Marshall,West Virginia,13,13,8,5,0,Official TV Timeout
+Marshall,West Virginia,13,14,8,5,1,Jevon Carter made Free Throw.
+Marshall,West Virginia,13,14,8,19,0,Foul on Tamron Manning.
+Marshall,West Virginia,13,14,8,19,0,Tamron Manning Turnover.
+Marshall,West Virginia,13,14,8,39,0,Jonathan Holton missed Three Point Jumper.
+Marshall,West Virginia,13,14,8,39,0,West Virginia Offensive Rebound.
+Marshall,West Virginia,13,14,8,49,0,Gary Browne missed Jumper.
+Marshall,West Virginia,13,14,8,49,0,Brandon Watkins Offensive Rebound.
+Marshall,West Virginia,13,16,8,54,1,Brandon Watkins made Jumper.
+Marshall,West Virginia,13,16,9,2,0,Foul on Tarik Phillip.
+Marshall,West Virginia,13,16,9,6,0,DeVince Boykins missed Layup.
+Marshall,West Virginia,13,16,9,6,0,JP Kambola Offensive Rebound.
+Marshall,West Virginia,15,16,9,11,1,JP Kambola made Layup.
+Marshall,West Virginia,15,16,9,25,0,Jevon Carter Turnover.
+Marshall,West Virginia,15,16,9,38,0,Marshall  Timeout
+Marshall,West Virginia,15,16,9,39,0,DeVince Boykins Turnover.
+Marshall,West Virginia,15,16,9,39,0,Tarik Phillip Steal.
+Marshall,West Virginia,15,18,9,45,1,Juwan Staten made Layup. Assisted by Tarik Phillip.
+Marshall,West Virginia,15,18,9,50,0,Aleksa Nikolic Turnover.
+Marshall,West Virginia,15,18,9,50,0,Jonathan Holton Steal.
+Marshall,West Virginia,15,18,9,59,0,Tarik Phillip missed Layup.
+Marshall,West Virginia,15,18,9,59,0,JP Kambola Block.
+Marshall,West Virginia,15,18,9,59,0,DeVince Boykins Defensive Rebound.
+Marshall,West Virginia,15,18,10,3,0,Foul on Juwan Staten.
+Marshall,West Virginia,15,18,10,14,0,Foul on Jay Johnson.
+Marshall,West Virginia,15,18,10,14,0,Jay Johnson Turnover.
+Marshall,West Virginia,15,18,10,33,0,Brandon Watkins Turnover.
+Marshall,West Virginia,15,18,10,38,0,Foul on Devin Williams.
+Marshall,West Virginia,15,18,10,39,0,Austin Loop missed Three Point Jumper.
+Marshall,West Virginia,15,18,10,39,0,Juwan Staten Defensive Rebound.
+Marshall,West Virginia,15,20,11,2,1,Jonathan Holton made Layup. Assisted by Devin Williams.
+Marshall,West Virginia,15,20,11,24,0,Aleksa Nikolic missed Three Point Jumper.
+Marshall,West Virginia,15,20,11,24,0,Devin Williams Defensive Rebound.
+Marshall,West Virginia,15,20,11,46,0,Foul on Jaysean Paige.
+Marshall,West Virginia,18,20,11,48,1,Justin Edmonds made Three Point Jumper. Assisted by Ryan Taylor.
+Marshall,West Virginia,18,20,12,17,0,Foul on Daxter Miles Jr..
+Marshall,West Virginia,18,20,12,17,0,Daxter Miles Jr. Turnover.
+Marshall,West Virginia,18,20,12,17,0,Official TV Timeout
+Marshall,West Virginia,18,20,12,17,0,Technical Foul on Juwan Staten.
+Marshall,West Virginia,18,20,12,17,0,Foul on Juwan Staten.
+Marshall,West Virginia,18,20,12,17,0,Technical Foul on Cheikh Sane.
+Marshall,West Virginia,18,20,12,17,0,Foul on Cheikh Sane.
+Marshall,West Virginia,18,20,12,21,0,Aleksa Nikolic Turnover.
+Marshall,West Virginia,18,20,12,21,0,Daxter Miles Jr. Steal.
+Marshall,West Virginia,18,20,12,35,0,Juwan Staten missed Jumper.
+Marshall,West Virginia,18,20,12,35,0,Juwan Staten Offensive Rebound.
+Marshall,West Virginia,18,22,13,4,1,Gary Browne made Jumper. Assisted by Daxter Miles Jr..
+Marshall,West Virginia,18,22,13,17,0,Ryan Taylor Turnover.
+Marshall,West Virginia,18,22,13,31,0,Daxter Miles Jr. missed Three Point Jumper.
+Marshall,West Virginia,18,22,13,31,0,JP Kambola Defensive Rebound.
+Marshall,West Virginia,18,22,13,37,0,Justin Edmonds missed Three Point Jumper.
+Marshall,West Virginia,18,22,13,37,0,Nathan Adrian Defensive Rebound.
+Marshall,West Virginia,18,22,14,1,0,Daxter Miles Jr. missed Three Point Jumper.
+Marshall,West Virginia,18,22,14,1,0,Nathan Adrian Offensive Rebound.
+Marshall,West Virginia,18,22,14,36,0,Foul on JP Kambola.
+Marshall,West Virginia,18,23,14,36,1,Juwan Staten made Free Throw.
+Marshall,West Virginia,18,24,14,36,1,Juwan Staten made Free Throw.
+Marshall,West Virginia,18,24,14,59,0,Tamron Manning missed Three Point Jumper.
+Marshall,West Virginia,18,24,14,59,0,Jonathan Holton Defensive Rebound.
+Marshall,West Virginia,18,24,15,23,0,Juwan Staten Turnover.
+Marshall,West Virginia,18,24,15,23,0,Justin Edmonds Steal.
+Marshall,West Virginia,18,24,15,28,0,Austin Loop missed Three Point Jumper.
+Marshall,West Virginia,18,24,15,28,0,Justin Edmonds Offensive Rebound.
+Marshall,West Virginia,20,24,15,35,1,Ryan Taylor made Layup. Assisted by Justin Edmonds.
+Marshall,West Virginia,20,24,15,52,0,Gary Browne missed Three Point Jumper.
+Marshall,West Virginia,20,24,15,52,0,Elijah Macon Offensive Rebound.
+Marshall,West Virginia,20,24,16,3,0,Elijah Macon missed Layup.
+Marshall,West Virginia,20,24,16,3,0,JP Kambola Block.
+Marshall,West Virginia,20,24,16,3,0,Justin Edmonds Defensive Rebound.
+Marshall,West Virginia,22,24,16,15,1,JP Kambola made Dunk. Assisted by Austin Loop.
+Marshall,West Virginia,22,24,17,10,0,Juwan Staten missed Jumper.
+Marshall,West Virginia,22,24,17,10,0,Ryan Taylor Defensive Rebound.
+Marshall,West Virginia,22,24,17,14,0,Foul on Gary Browne.
+Marshall,West Virginia,22,24,17,14,0,Official TV Timeout
+Marshall,West Virginia,23,24,17,14,1,Ryan Taylor made Free Throw.
+Marshall,West Virginia,24,24,17,14,1,Ryan Taylor made Free Throw.
+Marshall,West Virginia,24,24,17,24,0,Jonathan Holton Turnover.
+Marshall,West Virginia,24,24,17,24,0,Austin Loop Steal.
+Marshall,West Virginia,24,24,17,45,0,JP Kambola missed Three Point Jumper.
+Marshall,West Virginia,24,24,17,45,0,Austin Loop Offensive Rebound.
+Marshall,West Virginia,24,24,18,5,0,Foul on Devin Williams.
+Marshall,West Virginia,24,24,18,5,0,Tamron Manning missed Free Throw.
+Marshall,West Virginia,24,24,18,5,0,Marshall Deadball Team Rebound.
+Marshall,West Virginia,25,24,18,5,1,Tamron Manning made Free Throw.
+Marshall,West Virginia,25,24,18,30,0,Brandon Watkins Turnover.
+Marshall,West Virginia,25,24,18,32,0,Foul on Daxter Miles Jr..
+Marshall,West Virginia,26,24,18,32,1,Ryan Taylor made Free Throw.
+Marshall,West Virginia,27,24,18,32,1,Ryan Taylor made Free Throw.
+Marshall,West Virginia,27,24,18,50,0,Brandon Watkins missed Jumper.
+Marshall,West Virginia,27,24,18,50,0,Jonathan Holton Offensive Rebound.
+Marshall,West Virginia,27,24,18,55,0,Foul on Ryan Taylor.
+Marshall,West Virginia,27,24,18,55,0,Jonathan Holton missed Free Throw.
+Marshall,West Virginia,27,24,18,55,0,West Virginia Deadball Team Rebound.
+Marshall,West Virginia,27,25,18,55,1,Jonathan Holton made Free Throw.
+Marshall,West Virginia,27,25,19,2,0,Austin Loop Turnover.
+Marshall,West Virginia,27,25,19,2,0,Daxter Miles Jr. Steal.
+Marshall,West Virginia,27,25,19,9,0,Gary Browne missed Jumper.
+Marshall,West Virginia,27,25,19,9,0,Austin Loop Defensive Rebound.
+Marshall,West Virginia,27,25,19,17,0,Foul on Justin Edmonds.
+Marshall,West Virginia,27,25,19,17,0,Justin Edmonds Turnover.
+Marshall,West Virginia,27,25,19,17,0,West Virginia  Timeout
+Marshall,West Virginia,27,25,19,46,0,Elijah Macon missed Jumper.
+Marshall,West Virginia,27,25,19,46,0,Elijah Macon Offensive Rebound.
+Marshall,West Virginia,27,27,19,59,1,Jevon Carter made Jumper.
+Marshall,West Virginia,27,27,20,0,0,End of 1st half
+Marshall,West Virginia,27,27,20,0,0,Jump Ball won by West Virginia
+Marshall,West Virginia,27,27,20,13,0,Devin Williams missed Jumper.
+Marshall,West Virginia,27,27,20,13,0,Jonathan Holton Offensive Rebound.
+Marshall,West Virginia,27,29,20,13,1,Jonathan Holton made Two Point Tip Shot.
+Marshall,West Virginia,27,29,20,32,0,Foul on Jaysean Paige.
+Marshall,West Virginia,27,29,20,36,0,Foul on Ryan Taylor.
+Marshall,West Virginia,27,29,20,36,0,Ryan Taylor Turnover.
+Marshall,West Virginia,27,29,20,45,0,Daxter Miles Jr. missed Three Point Jumper.
+Marshall,West Virginia,27,29,20,45,0,Cheikh Sane Defensive Rebound.
+Marshall,West Virginia,30,29,21,0,1,Ryan Taylor made Three Point Jumper. Assisted by Justin Edmonds.
+Marshall,West Virginia,30,29,21,16,0,Devin Williams Turnover.
+Marshall,West Virginia,30,29,21,27,0,Foul on Jonathan Holton.
+Marshall,West Virginia,30,29,21,36,0,Foul on Jonathan Holton.
+Marshall,West Virginia,33,29,21,37,1,Aleksa Nikolic made Three Point Jumper. Assisted by Ryan Taylor.
+Marshall,West Virginia,33,29,21,45,0,Foul on Austin Loop.
+Marshall,West Virginia,33,29,21,48,0,Devin Williams missed Jumper.
+Marshall,West Virginia,33,29,21,48,0,Ryan Taylor Defensive Rebound.
+Marshall,West Virginia,33,29,21,51,0,Foul on Jaysean Paige.
+Marshall,West Virginia,33,29,22,3,0,Marshall  Timeout
+Marshall,West Virginia,33,29,22,17,0,Austin Loop Turnover.
+Marshall,West Virginia,33,32,22,31,1,Jevon Carter made Three Point Jumper. Assisted by Nathan Adrian.
+Marshall,West Virginia,35,32,22,41,1,Austin Loop made Dunk. Assisted by Justin Edmonds.
+Marshall,West Virginia,35,32,23,8,0,Foul on Cheikh Sane.
+Marshall,West Virginia,35,32,23,8,0,Tarik Phillip missed Free Throw.
+Marshall,West Virginia,35,32,23,8,0,West Virginia Deadball Team Rebound.
+Marshall,West Virginia,35,32,23,8,0,Tarik Phillip missed Free Throw.
+Marshall,West Virginia,35,32,23,8,0,Justin Edmonds Defensive Rebound.
+Marshall,West Virginia,35,32,23,26,0,Foul on Devin Williams.
+Marshall,West Virginia,36,32,23,26,1,Ryan Taylor made Free Throw.
+Marshall,West Virginia,37,32,23,26,1,Ryan Taylor made Free Throw.
+Marshall,West Virginia,37,32,23,41,0,Foul on Austin Loop.
+Marshall,West Virginia,37,32,23,56,0,Jevon Carter missed Three Point Jumper.
+Marshall,West Virginia,37,32,23,56,0,Elijah Macon Offensive Rebound.
+Marshall,West Virginia,37,35,24,1,1,Juwan Staten made Three Point Jumper. Assisted by Elijah Macon.
+Marshall,West Virginia,39,35,24,21,1,Justin Edmonds made Layup.
+Marshall,West Virginia,39,35,24,39,0,Elijah Macon Turnover.
+Marshall,West Virginia,39,35,24,39,0,Austin Loop Steal.
+Marshall,West Virginia,41,35,24,44,1,Justin Edmonds made Jumper. Assisted by Austin Loop.
+Marshall,West Virginia,41,35,25,17,0,Foul on Juwan Staten.
+Marshall,West Virginia,41,35,25,17,0,Juwan Staten Turnover.
+Marshall,West Virginia,41,35,25,17,0,Official TV Timeout
+Marshall,West Virginia,41,35,25,20,0,Ryan Taylor Turnover.
+Marshall,West Virginia,41,35,25,20,0,Nathan Adrian Steal.
+Marshall,West Virginia,41,37,25,28,1,Jevon Carter made Layup. Assisted by Nathan Adrian.
+Marshall,West Virginia,41,37,25,36,0,JP Kambola Turnover.
+Marshall,West Virginia,41,37,25,36,0,Tarik Phillip Steal.
+Marshall,West Virginia,41,37,25,41,0,Juwan Staten missed Layup.
+Marshall,West Virginia,41,37,25,41,0,Jevon Carter Offensive Rebound.
+Marshall,West Virginia,41,37,25,56,0,Juwan Staten missed Jumper.
+Marshall,West Virginia,41,37,25,56,0,West Virginia Offensive Rebound.
+Marshall,West Virginia,41,37,26,6,0,Jevon Carter missed Jumper.
+Marshall,West Virginia,41,37,26,6,0,Jevon Carter Offensive Rebound.
+Marshall,West Virginia,41,37,26,23,0,Foul on Austin Loop.
+Marshall,West Virginia,41,37,26,38,0,Foul on Justin Edmonds.
+Marshall,West Virginia,41,39,26,38,1,Jevon Carter made Jumper. Assisted by Juwan Staten.
+Marshall,West Virginia,44,39,26,45,1,Austin Loop made Three Point Jumper. Assisted by Justin Edmonds.
+Marshall,West Virginia,44,39,26,56,0,Jevon Carter missed Three Point Jumper.
+Marshall,West Virginia,44,39,26,56,0,Ryan Taylor Defensive Rebound.
+Marshall,West Virginia,44,39,27,25,0,JP Kambola Turnover.
+Marshall,West Virginia,44,41,27,40,1,Brandon Watkins made Layup. Assisted by Jevon Carter.
+Marshall,West Virginia,46,41,27,53,1,JP Kambola made Dunk. Assisted by Justin Edmonds.
+Marshall,West Virginia,46,41,28,8,0,Jevon Carter missed Layup.
+Marshall,West Virginia,46,41,28,8,0,Tamron Manning Defensive Rebound.
+Marshall,West Virginia,49,41,28,29,1,Austin Loop made Three Point Jumper. Assisted by Ryan Taylor.
+Marshall,West Virginia,49,41,28,41,0,West Virginia  Timeout
+Marshall,West Virginia,49,41,28,48,0,Foul on Jay Johnson.
+Marshall,West Virginia,49,41,28,48,0,Official TV Timeout
+Marshall,West Virginia,49,42,28,48,1,Jonathan Holton made Free Throw.
+Marshall,West Virginia,49,43,28,48,1,Jonathan Holton made Free Throw.
+Marshall,West Virginia,49,43,28,53,0,Ryan Taylor Turnover.
+Marshall,West Virginia,49,43,28,53,0,Gary Browne Steal.
+Marshall,West Virginia,49,43,28,58,0,Tarik Phillip missed Three Point Jumper.
+Marshall,West Virginia,49,43,28,58,0,Jevon Carter Offensive Rebound.
+Marshall,West Virginia,49,43,29,11,0,Jevon Carter missed Jumper.
+Marshall,West Virginia,49,43,29,11,0,Justin Edmonds Defensive Rebound.
+Marshall,West Virginia,49,43,29,32,0,Ryan Taylor Turnover.
+Marshall,West Virginia,49,43,29,43,0,Foul on Austin Loop.
+Marshall,West Virginia,49,44,29,43,1,Jevon Carter made Free Throw.
+Marshall,West Virginia,49,44,29,43,0,Jevon Carter missed Free Throw.
+Marshall,West Virginia,49,44,29,43,0,West Virginia Offensive Rebound.
+Marshall,West Virginia,49,44,29,50,0,Foul on Tamron Manning.
+Marshall,West Virginia,49,45,29,50,1,Jevon Carter made Free Throw.
+Marshall,West Virginia,49,45,29,50,0,Jevon Carter missed Free Throw.
+Marshall,West Virginia,49,45,29,50,0,Ryan Taylor Defensive Rebound.
+Marshall,West Virginia,49,45,29,56,0,Brett Bowling missed Layup.
+Marshall,West Virginia,49,45,29,56,0,Brandon Watkins Block.
+Marshall,West Virginia,49,45,29,56,0,Tarik Phillip Defensive Rebound.
+Marshall,West Virginia,49,45,30,7,0,Foul on Ryan Taylor.
+Marshall,West Virginia,49,45,30,7,0,Brandon Watkins missed Free Throw.
+Marshall,West Virginia,49,45,30,7,0,West Virginia Deadball Team Rebound.
+Marshall,West Virginia,49,46,30,7,1,Brandon Watkins made Free Throw.
+Marshall,West Virginia,49,46,30,9,0,Brett Bowling missed Three Point Jumper.
+Marshall,West Virginia,49,46,30,9,0,Brandon Watkins Defensive Rebound.
+Marshall,West Virginia,49,46,30,33,0,Jevon Carter missed Three Point Jumper.
+Marshall,West Virginia,49,46,30,33,0,Marshall Defensive Rebound.
+Marshall,West Virginia,49,46,30,44,0,Foul on Daxter Miles Jr..
+Marshall,West Virginia,49,46,30,44,0,Jay Johnson Turnover.
+Marshall,West Virginia,49,46,30,57,0,Foul on DeVince Boykins.
+Marshall,West Virginia,49,47,30,57,1,Gary Browne made Free Throw.
+Marshall,West Virginia,49,47,30,57,0,Gary Browne missed Free Throw.
+Marshall,West Virginia,49,47,30,57,0,West Virginia Offensive Rebound.
+Marshall,West Virginia,49,47,31,22,0,Daxter Miles Jr. Turnover.
+Marshall,West Virginia,49,47,31,22,0,Jay Johnson Steal.
+Marshall,West Virginia,49,47,31,28,0,Jay Johnson Turnover.
+Marshall,West Virginia,49,47,31,28,0,Gary Browne Steal.
+Marshall,West Virginia,49,49,31,35,1,Gary Browne made Jumper.
+Marshall,West Virginia,49,49,31,39,0,Foul on Daxter Miles Jr..
+Marshall,West Virginia,50,49,31,39,1,Tamron Manning made Free Throw.
+Marshall,West Virginia,51,49,31,39,1,Tamron Manning made Free Throw.
+Marshall,West Virginia,51,49,31,58,0,Brandon Watkins Turnover.
+Marshall,West Virginia,51,49,31,58,0,Jay Johnson Steal.
+Marshall,West Virginia,51,49,32,2,0,Brett Bowling missed Three Point Jumper.
+Marshall,West Virginia,51,49,32,2,0,Jonathan Holton Defensive Rebound.
+Marshall,West Virginia,51,49,32,24,0,West Virginia  Timeout
+Marshall,West Virginia,51,49,32,38,0,Devin Williams missed Jumper.
+Marshall,West Virginia,51,49,32,38,0,Jonathan Holton Offensive Rebound.
+Marshall,West Virginia,51,49,32,42,0,Foul on Jay Johnson.
+Marshall,West Virginia,51,49,32,42,0,Official TV Timeout
+Marshall,West Virginia,51,50,32,42,1,Jonathan Holton made Free Throw.
+Marshall,West Virginia,51,50,32,42,0,Jonathan Holton missed Free Throw.
+Marshall,West Virginia,51,50,32,42,0,Jevon Carter Offensive Rebound.
+Marshall,West Virginia,51,50,32,46,0,Foul on DeVince Boykins.
+Marshall,West Virginia,51,50,32,46,0,Devin Williams missed Free Throw.
+Marshall,West Virginia,51,50,32,46,0,West Virginia Deadball Team Rebound.
+Marshall,West Virginia,51,50,32,46,0,Devin Williams missed Free Throw.
+Marshall,West Virginia,51,50,32,46,0,Tamron Manning Defensive Rebound.
+Marshall,West Virginia,51,50,32,51,0,Jump Ball won by Marshall
+Marshall,West Virginia,51,50,32,55,0,Justin Edmonds missed Three Point Jumper.
+Marshall,West Virginia,51,50,32,55,0,Tarik Phillip Defensive Rebound.
+Marshall,West Virginia,51,50,32,59,0,Foul on Ryan Taylor.
+Marshall,West Virginia,51,50,32,59,0,Tarik Phillip missed Free Throw.
+Marshall,West Virginia,51,50,32,59,0,West Virginia Deadball Team Rebound.
+Marshall,West Virginia,51,51,32,59,1,Tarik Phillip made Free Throw.
+Marshall,West Virginia,51,51,33,33,0,Foul on Tamron Manning.
+Marshall,West Virginia,51,51,33,33,0,Tamron Manning Turnover.
+Marshall,West Virginia,51,51,33,53,0,West Virginia  Timeout
+Marshall,West Virginia,51,51,34,2,0,Foul on Justin Edmonds.
+Marshall,West Virginia,51,52,34,2,1,Gary Browne made Free Throw.
+Marshall,West Virginia,51,53,34,2,1,Gary Browne made Free Throw.
+Marshall,West Virginia,51,53,34,10,0,JP Kambola missed Three Point Jumper.
+Marshall,West Virginia,51,53,34,10,0,Cheikh Sane Offensive Rebound.
+Marshall,West Virginia,51,53,34,12,0,Foul on Tarik Phillip.
+Marshall,West Virginia,52,53,34,12,1,Cheikh Sane made Free Throw.
+Marshall,West Virginia,53,53,34,12,1,Cheikh Sane made Free Throw.
+Marshall,West Virginia,53,56,34,36,1,Gary Browne made Three Point Jumper.
+Marshall,West Virginia,53,56,34,58,0,Foul on Tarik Phillip.
+Marshall,West Virginia,54,56,34,58,1,Cheikh Sane made Free Throw.
+Marshall,West Virginia,55,56,34,58,1,Cheikh Sane made Free Throw.
+Marshall,West Virginia,55,56,35,32,0,Tarik Phillip missed Three Point Jumper.
+Marshall,West Virginia,55,56,35,32,0,Justin Edmonds Block.
+Marshall,West Virginia,55,56,35,32,0,Devin Williams Offensive Rebound.
+Marshall,West Virginia,55,58,35,39,1,Devin Williams made Layup.
+Marshall,West Virginia,55,58,35,44,0,Foul on Jonathan Holton.
+Marshall,West Virginia,55,58,35,44,0,Austin Loop missed Free Throw.
+Marshall,West Virginia,55,58,35,44,0,Marshall Deadball Team Rebound.
+Marshall,West Virginia,56,58,35,44,1,Austin Loop made Free Throw.
+Marshall,West Virginia,57,58,35,44,1,Austin Loop made Free Throw.
+Marshall,West Virginia,57,60,36,15,1,Jonathan Holton made Layup. Assisted by Juwan Staten.
+Marshall,West Virginia,59,60,36,38,1,Tamron Manning made Jumper.
+Marshall,West Virginia,59,60,37,13,0,Jevon Carter missed Three Point Jumper.
+Marshall,West Virginia,59,60,37,13,0,Marshall Defensive Rebound.
+Marshall,West Virginia,59,60,37,16,0,Foul on Devin Williams.
+Marshall,West Virginia,59,60,37,16,0,Official TV Timeout
+Marshall,West Virginia,59,60,37,16,0,Cheikh Sane missed Free Throw.
+Marshall,West Virginia,59,60,37,16,0,Marshall Deadball Team Rebound.
+Marshall,West Virginia,60,60,37,16,1,Cheikh Sane made Free Throw.
+Marshall,West Virginia,60,62,37,42,1,Juwan Staten made Jumper.
+Marshall,West Virginia,60,62,38,1,0,Austin Loop missed Three Point Jumper.
+Marshall,West Virginia,60,62,38,1,0,West Virginia Defensive Rebound.
+Marshall,West Virginia,60,62,38,5,0,Foul on JP Kambola.
+Marshall,West Virginia,60,63,38,5,1,Jonathan Holton made Free Throw.
+Marshall,West Virginia,60,64,38,5,1,Jonathan Holton made Free Throw.
+Marshall,West Virginia,60,64,38,37,0,Foul on Devin Williams.
+Marshall,West Virginia,60,64,38,37,0,Ryan Taylor missed Free Throw.
+Marshall,West Virginia,60,64,38,37,0,Marshall Deadball Team Rebound.
+Marshall,West Virginia,60,64,38,37,0,Ryan Taylor missed Free Throw.
+Marshall,West Virginia,60,64,38,37,0,Nathan Adrian Defensive Rebound.
+Marshall,West Virginia,60,64,38,38,0,Foul on Tamron Manning.
+Marshall,West Virginia,60,64,38,38,0,Nathan Adrian missed Free Throw.
+Marshall,West Virginia,60,64,38,38,0,West Virginia Deadball Team Rebound.
+Marshall,West Virginia,60,65,38,38,1,Nathan Adrian made Free Throw.
+Marshall,West Virginia,60,65,38,46,0,Foul on Nathan Adrian.
+Marshall,West Virginia,61,65,38,46,1,Justin Edmonds made Free Throw.
+Marshall,West Virginia,62,65,38,46,1,Justin Edmonds made Free Throw.
+Marshall,West Virginia,62,65,39,18,0,Juwan Staten missed Layup.
+Marshall,West Virginia,62,65,39,18,0,Cheikh Sane Block.
+Marshall,West Virginia,62,65,39,18,0,Cheikh Sane Defensive Rebound.
+Marshall,West Virginia,62,65,39,32,0,Ryan Taylor missed Jumper.
+Marshall,West Virginia,62,65,39,32,0,Cheikh Sane Offensive Rebound.
+Marshall,West Virginia,62,65,39,35,0,Foul on Nathan Adrian.
+Marshall,West Virginia,63,65,39,35,1,Cheikh Sane made Free Throw.
+Marshall,West Virginia,63,65,39,35,0,Cheikh Sane missed Free Throw.
+Marshall,West Virginia,63,65,39,35,0,Jevon Carter Defensive Rebound.
+Marshall,West Virginia,63,65,39,37,0,Foul on Ryan Taylor.
+Marshall,West Virginia,63,66,39,37,1,Jonathan Holton made Free Throw.
+Marshall,West Virginia,63,67,39,37,1,Jonathan Holton made Free Throw.
+Marshall,West Virginia,66,67,39,44,1,Justin Edmonds made Three Point Jumper. Assisted by DeVince Boykins.
+Marshall,West Virginia,66,67,39,47,0,Marshall  Timeout
+Marshall,West Virginia,66,67,39,53,0,Foul on Cheikh Sane.
+Marshall,West Virginia,66,68,39,53,1,Juwan Staten made Free Throw.
+Marshall,West Virginia,66,69,39,53,1,Juwan Staten made Free Throw.
+Marshall,West Virginia,66,69,39,59,0,JP Kambola missed Three Point Jumper.
+Marshall,West Virginia,66,69,39,59,0,Gary Browne Defensive Rebound.
+Marshall,West Virginia,66,69,40,0,0,End of Game

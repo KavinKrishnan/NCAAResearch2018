@@ -1,0 +1,335 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Wagner,Providence,0,0,0,22,0,Foul on Michael Carey.
+Wagner,Providence,0,3,0,25,1,Kyron Cartwright made Three Point Jumper. Assisted by Isaiah Jackson.
+Wagner,Providence,3,3,0,50,1,Corey Henson made Three Point Jumper.
+Wagner,Providence,3,3,1,13,0,Isaiah Jackson missed Three Point Jumper.
+Wagner,Providence,3,3,1,13,0,Michael Carey Defensive Rebound.
+Wagner,Providence,5,3,1,19,1,Elijah Davis made Layup. Assisted by Michael Carey.
+Wagner,Providence,5,3,1,19,0,Providence  Timeout
+Wagner,Providence,5,3,1,29,0,Kyron Cartwright missed Jumper.
+Wagner,Providence,5,3,1,29,0,Jalen Lindsey Offensive Rebound.
+Wagner,Providence,5,3,1,33,0,Foul on Elijah Davis.
+Wagner,Providence,5,3,1,33,0,Jalen Lindsey missed Free Throw.
+Wagner,Providence,5,3,1,33,0,Providence Deadball Team Rebound.
+Wagner,Providence,5,4,1,33,1,Jalen Lindsey made Free Throw.
+Wagner,Providence,5,4,1,49,0,AJ Sumbry missed Jumper.
+Wagner,Providence,5,4,1,49,0,Rodney Bullock Defensive Rebound.
+Wagner,Providence,5,4,1,58,0,Isaiah Jackson missed Three Point Jumper.
+Wagner,Providence,5,4,1,58,0,Elijah Davis Defensive Rebound.
+Wagner,Providence,5,4,2,25,0,AJ Sumbry Turnover.
+Wagner,Providence,5,4,2,27,0,Rodney Bullock Turnover.
+Wagner,Providence,5,4,2,28,0,JoJo Cooper Steal.
+Wagner,Providence,7,4,2,51,1,Elijah Davis made Jumper.
+Wagner,Providence,7,4,3,11,0,Emmitt Holt missed Jumper.
+Wagner,Providence,7,4,3,11,0,Michael Carey Defensive Rebound.
+Wagner,Providence,7,4,3,19,0,AJ Sumbry missed Layup.
+Wagner,Providence,7,4,3,19,0,Wagner Offensive Rebound.
+Wagner,Providence,10,4,3,41,1,JoJo Cooper made Three Point Jumper. Assisted by Corey Henson.
+Wagner,Providence,10,4,3,52,0,Rodney Bullock missed Jumper.
+Wagner,Providence,10,4,3,52,0,Providence Offensive Rebound.
+Wagner,Providence,10,6,4,14,1,Kalif Young made Jumper.
+Wagner,Providence,10,6,4,36,0,Elijah Davis missed Three Point Jumper.
+Wagner,Providence,10,6,4,36,0,Jalen Lindsey Defensive Rebound.
+Wagner,Providence,10,6,4,38,0,Foul on Greg Senat.
+Wagner,Providence,10,6,4,38,0,Providence  Timeout
+Wagner,Providence,10,8,4,57,1,Rodney Bullock made Jumper.
+Wagner,Providence,10,8,5,24,0,Corey Henson Turnover.
+Wagner,Providence,10,8,5,26,0,Jalen Lindsey Steal.
+Wagner,Providence,10,8,5,29,0,Rodney Bullock missed Three Point Jumper.
+Wagner,Providence,10,8,5,29,0,Jalen Lindsey Offensive Rebound.
+Wagner,Providence,10,10,5,32,1,Jalen Lindsey made Layup.
+Wagner,Providence,10,10,6,3,0,JoJo Cooper missed Three Point Jumper.
+Wagner,Providence,10,10,6,3,0,Rodney Bullock Defensive Rebound.
+Wagner,Providence,10,10,6,13,0,Foul on Corey Henson.
+Wagner,Providence,10,10,6,13,0,Foul on Connor Ferrell.
+Wagner,Providence,10,10,6,16,0,Kyron Cartwright missed Jumper.
+Wagner,Providence,10,10,6,16,0,Corey Henson Defensive Rebound.
+Wagner,Providence,10,10,6,41,0,Connor Ferrell missed Three Point Jumper.
+Wagner,Providence,10,10,6,41,0,Providence Defensive Rebound.
+Wagner,Providence,10,12,7,3,1,Maliek White made Layup.
+Wagner,Providence,10,12,7,24,0,Shack Scott missed Jumper.
+Wagner,Providence,10,12,7,24,0,Alpha Diallo Defensive Rebound.
+Wagner,Providence,10,12,7,34,0,Alpha Diallo Turnover.
+Wagner,Providence,10,12,8,0,0,Corey Henson missed Jumper.
+Wagner,Providence,10,12,8,0,0,Rodney Bullock Defensive Rebound.
+Wagner,Providence,10,12,8,17,0,Rodney Bullock missed Jumper.
+Wagner,Providence,10,12,8,17,0,Wagner Defensive Rebound.
+Wagner,Providence,10,12,8,18,0,Foul on Alpha Diallo.
+Wagner,Providence,10,12,8,18,0,Wagner  Timeout
+Wagner,Providence,10,12,8,38,0,AJ Sumbry Turnover.
+Wagner,Providence,10,12,8,38,0,Foul on AJ Sumbry.
+Wagner,Providence,10,14,8,53,1,Emmitt Holt made Jumper. Assisted by Alpha Diallo.
+Wagner,Providence,10,14,9,10,0,Michael Carey missed Jumper.
+Wagner,Providence,10,14,9,10,0,Wagner Offensive Rebound.
+Wagner,Providence,10,14,9,18,0,Michael Carey missed Layup.
+Wagner,Providence,10,14,9,18,0,Emmitt Holt Block.
+Wagner,Providence,10,14,9,18,0,Wagner Offensive Rebound.
+Wagner,Providence,10,14,9,34,0,JoJo Cooper Turnover.
+Wagner,Providence,10,14,9,34,0,Alpha Diallo Steal.
+Wagner,Providence,10,14,9,45,0,Ryan Fazekas missed Three Point Jumper.
+Wagner,Providence,10,14,9,45,0,Emmitt Holt Offensive Rebound.
+Wagner,Providence,10,14,9,47,0,Foul on Shack Scott.
+Wagner,Providence,10,15,9,47,1,Emmitt Holt made Free Throw.
+Wagner,Providence,10,16,9,47,1,Emmitt Holt made Free Throw.
+Wagner,Providence,10,16,10,5,0,Mike Aaman missed Layup.
+Wagner,Providence,10,16,10,5,0,Mike Aaman Offensive Rebound.
+Wagner,Providence,10,16,10,7,0,Foul on Ryan Fazekas.
+Wagner,Providence,10,16,10,19,0,Foul on Emmitt Holt.
+Wagner,Providence,10,16,10,25,0,Mike Aaman missed Jumper.
+Wagner,Providence,10,16,10,25,0,Emmitt Holt Defensive Rebound.
+Wagner,Providence,10,18,10,31,1,Alpha Diallo made Jumper. Assisted by Kyron Cartwright.
+Wagner,Providence,10,18,10,51,0,Foul on Rodney Bullock.
+Wagner,Providence,10,18,11,5,0,Corey Henson missed Layup.
+Wagner,Providence,10,18,11,5,0,Kyron Cartwright Defensive Rebound.
+Wagner,Providence,10,20,11,12,1,Alpha Diallo made Dunk. Assisted by Kyron Cartwright.
+Wagner,Providence,10,20,11,40,0,Elijah Davis Turnover.
+Wagner,Providence,10,20,11,40,0,Foul on Elijah Davis.
+Wagner,Providence,10,23,12,3,1,Jalen Lindsey made Three Point Jumper. Assisted by Kyron Cartwright.
+Wagner,Providence,10,23,12,21,0,Michael Carey missed Three Point Jumper.
+Wagner,Providence,10,23,12,21,0,Rodney Bullock Defensive Rebound.
+Wagner,Providence,10,26,12,36,1,Alpha Diallo made Three Point Jumper. Assisted by Emmitt Holt.
+Wagner,Providence,10,26,12,38,0,Wagner  Timeout
+Wagner,Providence,10,26,12,59,0,Corey Henson Turnover.
+Wagner,Providence,10,26,12,59,0,Kyron Cartwright Turnover.
+Wagner,Providence,10,26,13,43,0,Corey Henson Turnover.
+Wagner,Providence,10,26,13,44,0,Alpha Diallo Steal.
+Wagner,Providence,10,26,13,46,0,Foul on Devin Liggeons.
+Wagner,Providence,10,27,13,46,1,Jalen Lindsey made Free Throw.
+Wagner,Providence,10,28,13,46,1,Jalen Lindsey made Free Throw.
+Wagner,Providence,10,28,14,4,0,Mike Aaman missed Layup.
+Wagner,Providence,10,28,14,4,0,Kalif Young Defensive Rebound.
+Wagner,Providence,10,28,14,11,0,Kyron Cartwright Turnover.
+Wagner,Providence,10,28,14,11,0,Foul on Kyron Cartwright.
+Wagner,Providence,10,28,14,31,0,Blake Francis missed Three Point Jumper.
+Wagner,Providence,10,28,14,31,0,Rodney Bullock Block.
+Wagner,Providence,10,28,14,31,0,Wagner Offensive Rebound.
+Wagner,Providence,10,28,14,32,0,Foul on Kalif Young.
+Wagner,Providence,10,28,14,43,0,Michael Carey missed Jumper.
+Wagner,Providence,10,28,14,43,0,Jalen Lindsey Defensive Rebound.
+Wagner,Providence,10,28,14,43,0,Foul on AJ Sumbry.
+Wagner,Providence,10,29,14,43,1,Jalen Lindsey made Free Throw.
+Wagner,Providence,10,30,14,43,1,Jalen Lindsey made Free Throw.
+Wagner,Providence,10,30,15,3,0,Ryan Fazekas missed Layup.
+Wagner,Providence,10,30,15,3,0,JoJo Cooper Defensive Rebound.
+Wagner,Providence,10,32,15,15,1,Kalif Young made Layup. Assisted by Kyron Cartwright.
+Wagner,Providence,10,32,15,36,0,Michael Carey missed Jumper.
+Wagner,Providence,10,32,15,36,0,Rodney Bullock Defensive Rebound.
+Wagner,Providence,10,32,15,45,0,Jalen Lindsey missed Three Point Jumper.
+Wagner,Providence,10,32,15,45,0,Corey Henson Defensive Rebound.
+Wagner,Providence,10,32,15,54,0,Devin Liggeons Turnover.
+Wagner,Providence,10,32,15,54,0,Foul on Devin Liggeons.
+Wagner,Providence,10,35,16,6,1,Maliek White made Three Point Jumper. Assisted by Jalen Lindsey.
+Wagner,Providence,10,35,16,28,0,JoJo Cooper missed Three Point Jumper.
+Wagner,Providence,10,35,16,28,0,Greg Senat Offensive Rebound.
+Wagner,Providence,10,35,16,28,0,Foul on Kalif Young.
+Wagner,Providence,10,35,16,28,0,Wagner  Timeout
+Wagner,Providence,11,35,16,28,1,Greg Senat made Free Throw.
+Wagner,Providence,12,35,16,28,1,Greg Senat made Free Throw.
+Wagner,Providence,12,37,16,40,1,Rodney Bullock made Dunk. Assisted by Kalif Young.
+Wagner,Providence,14,37,16,56,1,Greg Senat made Layup.
+Wagner,Providence,14,37,17,17,0,Drew Edwards missed Layup.
+Wagner,Providence,14,37,17,17,0,Elijah Davis Defensive Rebound.
+Wagner,Providence,14,37,17,17,0,Foul on Kalif Young.
+Wagner,Providence,14,37,17,17,0,Elijah Davis missed Free Throw.
+Wagner,Providence,14,37,17,17,0,Devin Liggeons Offensive Rebound.
+Wagner,Providence,14,37,17,17,0,Foul on Drew Edwards.
+Wagner,Providence,15,37,17,17,1,Devin Liggeons made Free Throw.
+Wagner,Providence,16,37,17,17,1,Devin Liggeons made Free Throw.
+Wagner,Providence,16,39,17,26,1,Emmitt Holt made Layup. Assisted by Isaiah Jackson.
+Wagner,Providence,16,39,17,38,0,Elijah Davis missed Layup.
+Wagner,Providence,16,39,17,38,0,Elijah Davis Offensive Rebound.
+Wagner,Providence,16,39,17,40,0,Elijah Davis Turnover.
+Wagner,Providence,16,39,17,42,0,Rodney Bullock Steal.
+Wagner,Providence,16,39,17,46,0,Emmitt Holt missed Layup.
+Wagner,Providence,16,39,17,46,0,Devin Liggeons Block.
+Wagner,Providence,16,39,17,46,0,Providence Offensive Rebound.
+Wagner,Providence,16,39,17,50,0,Rodney Bullock missed Jumper.
+Wagner,Providence,16,39,17,50,0,JoJo Cooper Defensive Rebound.
+Wagner,Providence,16,39,17,58,0,Devin Liggeons missed Jumper.
+Wagner,Providence,16,39,17,58,0,Elijah Davis Offensive Rebound.
+Wagner,Providence,18,39,18,1,1,Elijah Davis made Layup.
+Wagner,Providence,18,39,18,30,0,Rodney Bullock missed Jumper.
+Wagner,Providence,18,39,18,30,0,Isaiah Jackson Offensive Rebound.
+Wagner,Providence,18,42,18,35,1,Drew Edwards made Three Point Jumper. Assisted by Isaiah Jackson.
+Wagner,Providence,20,42,19,7,1,Elijah Davis made Jumper.
+Wagner,Providence,20,45,19,34,1,Emmitt Holt made Three Point Jumper. Assisted by Kyron Cartwright.
+Wagner,Providence,20,45,19,57,0,Corey Henson missed Three Point Jumper.
+Wagner,Providence,20,45,19,57,0,Kyron Cartwright Defensive Rebound.
+Wagner,Providence,20,45,20,0,0,End of 1st half
+Wagner,Providence,20,45,20,14,0,Rodney Bullock missed Layup.
+Wagner,Providence,20,45,20,14,0,AJ Sumbry Defensive Rebound.
+Wagner,Providence,20,45,20,20,0,Corey Henson missed Three Point Jumper.
+Wagner,Providence,20,45,20,20,0,Emmitt Holt Defensive Rebound.
+Wagner,Providence,20,48,20,28,1,Jalen Lindsey made Three Point Jumper. Assisted by Kyron Cartwright.
+Wagner,Providence,20,48,20,51,0,Elijah Davis missed Layup.
+Wagner,Providence,20,48,20,51,0,Elijah Davis Offensive Rebound.
+Wagner,Providence,20,48,20,56,0,Elijah Davis missed Jumper.
+Wagner,Providence,20,48,20,56,0,Jalen Lindsey Defensive Rebound.
+Wagner,Providence,20,48,21,6,0,Emmitt Holt missed Layup.
+Wagner,Providence,20,48,21,6,0,Jalen Lindsey Offensive Rebound.
+Wagner,Providence,20,50,21,14,1,Rodney Bullock made Jumper.
+Wagner,Providence,22,50,21,29,1,Corey Henson made Jumper.
+Wagner,Providence,22,53,21,36,1,Isaiah Jackson made Three Point Jumper. Assisted by Kyron Cartwright.
+Wagner,Providence,22,53,21,54,0,Foul on AJ Sumbry.
+Wagner,Providence,22,53,21,54,0,AJ Sumbry Turnover.
+Wagner,Providence,22,53,22,10,0,Foul on Michael Carey.
+Wagner,Providence,22,54,22,10,1,Rodney Bullock made Free Throw.
+Wagner,Providence,22,54,22,10,0,Rodney Bullock missed Free Throw.
+Wagner,Providence,22,54,22,10,0,JoJo Cooper Defensive Rebound.
+Wagner,Providence,25,54,22,33,1,Corey Henson made Three Point Jumper. Assisted by JoJo Cooper.
+Wagner,Providence,25,54,22,35,0,Rodney Bullock Turnover.
+Wagner,Providence,25,54,22,43,0,Corey Henson missed Three Point Jumper.
+Wagner,Providence,25,54,22,43,0,Emmitt Holt Defensive Rebound.
+Wagner,Providence,25,56,22,50,1,Isaiah Jackson made Layup. Assisted by Kyron Cartwright.
+Wagner,Providence,25,56,23,19,0,Corey Henson missed Three Point Jumper.
+Wagner,Providence,25,56,23,19,0,Rodney Bullock Defensive Rebound.
+Wagner,Providence,25,56,23,26,0,Foul on Corey Henson.
+Wagner,Providence,25,56,23,35,0,Foul on Shack Scott.
+Wagner,Providence,25,56,23,55,0,Emmitt Holt missed Jumper.
+Wagner,Providence,25,56,23,55,0,Michael Carey Defensive Rebound.
+Wagner,Providence,27,56,24,15,1,Michael Carey made Jumper.
+Wagner,Providence,27,56,24,26,0,Isaiah Jackson Turnover.
+Wagner,Providence,27,56,24,28,0,JoJo Cooper Steal.
+Wagner,Providence,27,56,24,32,0,Michael Carey missed Layup.
+Wagner,Providence,27,56,24,32,0,Isaiah Jackson Block.
+Wagner,Providence,27,56,24,34,0,Jalen Lindsey Defensive Rebound.
+Wagner,Providence,27,58,24,36,1,Kyron Cartwright made Layup. Assisted by Jalen Lindsey.
+Wagner,Providence,27,58,25,6,0,JoJo Cooper Turnover.
+Wagner,Providence,27,58,25,6,0,Providence  Timeout
+Wagner,Providence,27,58,25,16,0,Maliek White Turnover.
+Wagner,Providence,27,58,25,32,0,Shack Scott Turnover.
+Wagner,Providence,27,58,25,52,0,Foul on Rodney Bullock.
+Wagner,Providence,27,58,25,52,0,Rodney Bullock Turnover.
+Wagner,Providence,27,58,26,13,0,Corey Henson missed Layup.
+Wagner,Providence,27,58,26,13,0,Jalen Lindsey Defensive Rebound.
+Wagner,Providence,27,58,26,17,0,Maliek White Turnover.
+Wagner,Providence,30,58,26,39,1,Elijah Davis made Three Point Jumper. Assisted by Corey Henson.
+Wagner,Providence,30,61,26,56,1,Jalen Lindsey made Three Point Jumper. Assisted by Emmitt Holt.
+Wagner,Providence,30,61,27,21,0,Corey Henson Turnover.
+Wagner,Providence,30,61,27,21,0,Jalen Lindsey Steal.
+Wagner,Providence,30,61,27,21,0,Foul on Elijah Davis.
+Wagner,Providence,30,61,27,40,0,Alpha Diallo missed Jumper.
+Wagner,Providence,30,61,27,40,0,Shack Scott Defensive Rebound.
+Wagner,Providence,30,61,27,48,0,Corey Henson missed Layup.
+Wagner,Providence,30,61,27,48,0,Wagner Offensive Rebound.
+Wagner,Providence,32,61,27,59,1,AJ Sumbry made Layup. Assisted by Elijah Davis.
+Wagner,Providence,32,61,28,13,0,Foul on Blake Francis.
+Wagner,Providence,32,61,28,13,0,Providence  Timeout
+Wagner,Providence,32,62,28,13,1,Emmitt Holt made Free Throw.
+Wagner,Providence,32,63,28,13,1,Emmitt Holt made Free Throw.
+Wagner,Providence,32,63,28,33,0,Foul on Maliek White.
+Wagner,Providence,32,63,28,50,0,JoJo Cooper missed Three Point Jumper.
+Wagner,Providence,32,63,28,50,0,Blake Francis Offensive Rebound.
+Wagner,Providence,32,63,28,55,0,Shack Scott missed Layup.
+Wagner,Providence,32,63,28,55,0,AJ Sumbry Offensive Rebound.
+Wagner,Providence,32,63,28,58,0,Foul on Maliek White.
+Wagner,Providence,33,63,28,58,1,AJ Sumbry made Free Throw.
+Wagner,Providence,34,63,28,58,1,AJ Sumbry made Free Throw.
+Wagner,Providence,34,65,29,3,1,Ryan Fazekas made Jumper. Assisted by Kyron Cartwright.
+Wagner,Providence,34,65,29,29,0,AJ Sumbry missed Jumper.
+Wagner,Providence,34,65,29,29,0,Rodney Bullock Defensive Rebound.
+Wagner,Providence,34,65,29,29,0,Foul on Shack Scott.
+Wagner,Providence,34,65,29,29,0,Rodney Bullock missed Free Throw.
+Wagner,Providence,34,65,29,29,0,AJ Sumbry Defensive Rebound.
+Wagner,Providence,37,65,29,42,1,JoJo Cooper made Three Point Jumper. Assisted by AJ Sumbry.
+Wagner,Providence,37,66,29,50,1,Kalif Young made Free Throw.
+Wagner,Providence,37,68,29,50,1,Kalif Young made Dunk. Assisted by Kyron Cartwright.
+Wagner,Providence,37,68,29,51,0,Foul on JoJo Cooper.
+Wagner,Providence,37,68,29,51,0,Alpha Diallo Turnover.
+Wagner,Providence,37,68,30,1,0,Foul on Alpha Diallo.
+Wagner,Providence,37,68,30,5,0,Shack Scott missed Layup.
+Wagner,Providence,37,68,30,5,0,Rodney Bullock Block.
+Wagner,Providence,37,68,30,7,0,Mike Aaman Offensive Rebound.
+Wagner,Providence,39,68,30,9,1,Mike Aaman made Layup.
+Wagner,Providence,39,68,30,14,0,Ryan Fazekas missed Three Point Jumper.
+Wagner,Providence,39,68,30,14,0,Elijah Davis Defensive Rebound.
+Wagner,Providence,39,68,30,23,0,Corey Henson missed Three Point Jumper.
+Wagner,Providence,39,68,30,23,0,Wagner Offensive Rebound.
+Wagner,Providence,39,68,30,26,0,Foul on Ryan Fazekas.
+Wagner,Providence,39,68,30,53,0,JoJo Cooper Turnover.
+Wagner,Providence,39,68,30,58,0,Rodney Bullock missed Three Point Jumper.
+Wagner,Providence,39,68,30,58,0,Elijah Davis Defensive Rebound.
+Wagner,Providence,39,68,31,10,0,Shack Scott missed Jumper.
+Wagner,Providence,39,68,31,10,0,Corey Henson Offensive Rebound.
+Wagner,Providence,39,68,31,14,0,JoJo Cooper missed Three Point Jumper.
+Wagner,Providence,39,68,31,14,0,Rodney Bullock Defensive Rebound.
+Wagner,Providence,39,68,31,26,0,Kalif Young missed Layup.
+Wagner,Providence,39,68,31,26,0,Rodney Bullock Offensive Rebound.
+Wagner,Providence,39,68,31,28,0,Foul on Shack Scott.
+Wagner,Providence,39,68,31,28,0,Rodney Bullock missed Free Throw.
+Wagner,Providence,39,68,31,28,0,Providence Deadball Team Rebound.
+Wagner,Providence,39,69,31,28,1,Rodney Bullock made Free Throw.
+Wagner,Providence,39,69,31,40,0,Corey Henson missed Jumper.
+Wagner,Providence,39,69,31,40,0,Michael Carey Offensive Rebound.
+Wagner,Providence,39,69,31,45,0,Foul on Jalen Lindsey.
+Wagner,Providence,39,69,31,46,0,Corey Henson missed Jumper.
+Wagner,Providence,39,69,31,46,0,Greg Senat Offensive Rebound.
+Wagner,Providence,39,69,31,58,0,Foul on Ryan Fazekas.
+Wagner,Providence,39,69,31,58,0,Greg Senat missed Free Throw.
+Wagner,Providence,39,69,31,58,0,Wagner Deadball Team Rebound.
+Wagner,Providence,40,69,31,58,1,Greg Senat made Free Throw.
+Wagner,Providence,40,71,32,6,1,Ryan Fazekas made Layup. Assisted by Kalif Young.
+Wagner,Providence,42,71,32,34,1,Greg Senat made Layup. Assisted by JoJo Cooper.
+Wagner,Providence,42,71,32,54,0,Ryan Fazekas missed Three Point Jumper.
+Wagner,Providence,42,71,32,54,0,Michael Carey Defensive Rebound.
+Wagner,Providence,42,71,33,15,0,Corey Henson Turnover.
+Wagner,Providence,42,71,33,16,0,Alpha Diallo Steal.
+Wagner,Providence,42,73,33,19,1,Alpha Diallo made Dunk. Assisted by Kyron Cartwright.
+Wagner,Providence,42,73,33,37,0,JoJo Cooper Turnover.
+Wagner,Providence,42,73,33,37,0,Foul on JoJo Cooper.
+Wagner,Providence,42,73,33,37,0,Providence  Timeout
+Wagner,Providence,42,73,33,56,0,Drew Edwards missed Three Point Jumper.
+Wagner,Providence,42,73,33,56,0,Wagner Defensive Rebound.
+Wagner,Providence,44,73,34,17,1,Mike Aaman made Jumper.
+Wagner,Providence,44,73,34,50,0,Kyron Cartwright missed Three Point Jumper.
+Wagner,Providence,44,73,34,50,0,Michael Carey Defensive Rebound.
+Wagner,Providence,44,73,34,55,0,Michael Carey Turnover.
+Wagner,Providence,44,73,34,55,0,Alpha Diallo Steal.
+Wagner,Providence,44,73,35,8,0,Kalif Young Turnover.
+Wagner,Providence,44,73,35,9,0,Devin Liggeons Steal.
+Wagner,Providence,44,73,35,11,0,Devin Liggeons Turnover.
+Wagner,Providence,44,73,35,14,0,Foul on Devin Liggeons.
+Wagner,Providence,44,74,35,14,1,Drew Edwards made Free Throw.
+Wagner,Providence,44,74,35,14,0,Drew Edwards missed Free Throw.
+Wagner,Providence,44,74,35,14,0,Elijah Davis Defensive Rebound.
+Wagner,Providence,44,74,35,36,0,Devin Liggeons missed Three Point Jumper.
+Wagner,Providence,44,74,35,36,0,Maliek White Defensive Rebound.
+Wagner,Providence,44,74,35,50,0,Alpha Diallo missed Jumper.
+Wagner,Providence,44,74,35,50,0,Michael Carey Defensive Rebound.
+Wagner,Providence,44,74,35,56,0,Foul on Ryan Fazekas.
+Wagner,Providence,44,74,35,56,0,Elijah Davis missed Free Throw.
+Wagner,Providence,44,74,35,56,0,Wagner Deadball Team Rebound.
+Wagner,Providence,44,74,35,56,0,Elijah Davis missed Free Throw.
+Wagner,Providence,44,74,35,56,0,Alpha Diallo Defensive Rebound.
+Wagner,Providence,44,74,36,14,0,Drew Edwards missed Three Point Jumper.
+Wagner,Providence,44,74,36,14,0,Elijah Davis Defensive Rebound.
+Wagner,Providence,44,74,36,29,0,Blake Francis Turnover.
+Wagner,Providence,44,74,36,29,0,Providence  Timeout
+Wagner,Providence,44,74,36,51,0,Ricky Council II missed Three Point Jumper.
+Wagner,Providence,44,74,36,51,0,Greg Senat Defensive Rebound.
+Wagner,Providence,44,74,37,14,0,Devin Liggeons missed Three Point Jumper.
+Wagner,Providence,44,74,37,14,0,Shack Scott Offensive Rebound.
+Wagner,Providence,46,74,37,17,1,Shack Scott made Layup.
+Wagner,Providence,46,74,37,36,0,Ricky Council II missed Three Point Jumper.
+Wagner,Providence,46,74,37,36,0,Greg Senat Defensive Rebound.
+Wagner,Providence,46,74,37,49,0,Elijah Davis Turnover.
+Wagner,Providence,46,74,37,51,0,Kalif Young Steal.
+Wagner,Providence,46,76,37,53,1,Maliek White made Dunk. Assisted by Drew Edwards.
+Wagner,Providence,46,76,38,18,0,Blake Francis missed Jumper.
+Wagner,Providence,46,76,38,18,0,Alpha Diallo Defensive Rebound.
+Wagner,Providence,46,76,38,21,0,Providence  Timeout
+Wagner,Providence,46,76,38,30,0,Maliek White Turnover.
+Wagner,Providence,46,76,38,32,0,Devin Liggeons Steal.
+Wagner,Providence,46,76,38,36,0,Devin Liggeons missed Layup.
+Wagner,Providence,46,76,38,36,0,Greg Senat Offensive Rebound.
+Wagner,Providence,48,76,38,38,1,Greg Senat made Layup.
+Wagner,Providence,48,76,38,50,0,Casey Woodring missed Three Point Jumper.
+Wagner,Providence,48,76,38,50,0,Tom Planek Offensive Rebound.
+Wagner,Providence,48,76,38,56,0,Tom Planek Turnover.
+Wagner,Providence,48,76,38,58,0,Blake Francis Steal.
+Wagner,Providence,50,76,39,3,1,Elijah Davis made Layup. Assisted by Blake Francis.
+Wagner,Providence,50,76,39,17,0,Ricky Council II Turnover.
+Wagner,Providence,52,76,39,28,1,Blake Francis made Jumper.
+Wagner,Providence,52,76,39,30,0,Ricky Council II Turnover.
+Wagner,Providence,54,76,39,37,1,Blake Francis made Layup.
+Wagner,Providence,54,76,40,0,0,End of Game

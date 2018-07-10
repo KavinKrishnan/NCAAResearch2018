@@ -1,0 +1,326 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+BYU,Pacific,2,0,0,16,1,TJ Haws made Jumper.
+BYU,Pacific,2,0,0,42,0,T.J. Wallace missed Three Point Jumper.
+BYU,Pacific,2,0,0,42,0,Eric Mika Defensive Rebound.
+BYU,Pacific,2,0,0,47,0,TJ Haws missed Jumper.
+BYU,Pacific,2,0,0,47,0,T.J. Wallace Block.
+BYU,Pacific,2,0,0,51,0,Ray Bowles Defensive Rebound.
+BYU,Pacific,2,0,1,6,0,David Taylor missed Jumper.
+BYU,Pacific,2,0,1,6,0,Yoeli Childs Block.
+BYU,Pacific,2,0,1,7,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,2,0,1,20,0,Foul on Anthony Townes.
+BYU,Pacific,2,0,1,20,0,TJ Haws missed Free Throw.
+BYU,Pacific,2,0,1,20,0,BYU Deadball Team Rebound.
+BYU,Pacific,3,0,1,20,1,TJ Haws made Free Throw.
+BYU,Pacific,3,0,1,50,0,T.J. Wallace missed Jumper.
+BYU,Pacific,3,0,1,50,0,Jacob Lampkin Offensive Rebound.
+BYU,Pacific,3,0,1,57,0,Foul on Nick Emery.
+BYU,Pacific,3,0,1,57,0,Ray Bowles missed Free Throw.
+BYU,Pacific,3,0,1,57,0,Pacific Deadball Team Rebound.
+BYU,Pacific,3,0,1,57,0,Ray Bowles missed Free Throw.
+BYU,Pacific,3,0,1,57,0,Eric Mika Defensive Rebound.
+BYU,Pacific,3,0,2,8,0,L.J. Rose Turnover.
+BYU,Pacific,3,2,2,25,1,Jacob Lampkin made Layup.
+BYU,Pacific,3,2,2,30,0,Nick Emery missed Three Point Jumper.
+BYU,Pacific,3,2,2,30,0,T.J. Wallace Defensive Rebound.
+BYU,Pacific,3,4,2,45,1,Ray Bowles made Jumper.
+BYU,Pacific,5,4,3,2,1,Yoeli Childs made Layup. Assisted by Nick Emery.
+BYU,Pacific,5,4,3,2,0,Foul on Anthony Townes.
+BYU,Pacific,6,4,3,2,1,Yoeli Childs made Free Throw.
+BYU,Pacific,6,4,3,21,0,Ray Bowles missed Jumper.
+BYU,Pacific,6,4,3,21,0,Eric Mika Defensive Rebound.
+BYU,Pacific,6,4,3,30,0,Foul on David Taylor.
+BYU,Pacific,6,4,3,43,0,Eric Mika missed Layup.
+BYU,Pacific,6,4,3,43,0,Jack Williams Defensive Rebound.
+BYU,Pacific,6,7,3,50,1,Ray Bowles made Three Point Jumper. Assisted by T.J. Wallace.
+BYU,Pacific,6,7,4,4,0,L.J. Rose missed Layup.
+BYU,Pacific,6,7,4,4,0,David Taylor Defensive Rebound.
+BYU,Pacific,6,7,4,10,0,David Taylor Turnover.
+BYU,Pacific,6,7,4,10,0,Official TV Timeout
+BYU,Pacific,8,7,4,27,1,Eric Mika made Jumper. Assisted by Nick Emery.
+BYU,Pacific,8,7,4,53,0,Jack Williams missed Three Point Jumper.
+BYU,Pacific,8,7,4,53,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,10,7,5,3,1,TJ Haws made Layup.
+BYU,Pacific,10,7,5,3,0,Foul on David Taylor.
+BYU,Pacific,10,7,5,3,0,TJ Haws missed Free Throw.
+BYU,Pacific,10,7,5,3,0,Jack Williams Defensive Rebound.
+BYU,Pacific,10,7,5,15,0,Foul on Eric Mika.
+BYU,Pacific,10,7,5,25,0,Jacob Lampkin missed Jumper.
+BYU,Pacific,10,7,5,25,0,BYU Defensive Rebound.
+BYU,Pacific,13,7,5,46,1,TJ Haws made Three Point Jumper. Assisted by Nick Emery.
+BYU,Pacific,13,7,6,7,0,Jack Williams missed Three Point Jumper.
+BYU,Pacific,13,7,6,7,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,13,7,6,15,0,Nick Emery missed Three Point Jumper.
+BYU,Pacific,13,7,6,15,0,Yoeli Childs Offensive Rebound.
+BYU,Pacific,13,7,6,22,0,TJ Haws Turnover.
+BYU,Pacific,13,7,6,23,0,Jacob Lampkin Steal.
+BYU,Pacific,13,7,6,49,0,Jacob Lampkin missed Jumper.
+BYU,Pacific,13,7,6,49,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,15,7,7,4,1,Eric Mika made Jumper.
+BYU,Pacific,15,7,7,26,0,Foul on Yoeli Childs.
+BYU,Pacific,15,7,7,37,0,Jacob Lampkin missed Jumper.
+BYU,Pacific,15,7,7,37,0,Anthony Townes Offensive Rebound.
+BYU,Pacific,15,7,7,38,0,Foul on TJ Haws.
+BYU,Pacific,15,7,7,38,0,Anthony Townes missed Free Throw.
+BYU,Pacific,15,7,7,38,0,Pacific Deadball Team Rebound.
+BYU,Pacific,15,8,7,38,1,Anthony Townes made Free Throw.
+BYU,Pacific,15,8,7,48,0,Elijah Bryant missed Jumper.
+BYU,Pacific,15,8,7,48,0,Jacob Lampkin Defensive Rebound.
+BYU,Pacific,15,8,8,9,0,Jacob Lampkin Turnover.
+BYU,Pacific,15,8,8,10,0,Elijah Bryant Steal.
+BYU,Pacific,15,8,8,15,0,Nick Emery missed Layup.
+BYU,Pacific,15,8,8,15,0,Jacob Lampkin Defensive Rebound.
+BYU,Pacific,15,8,8,15,0,Foul on Jamal Aytes.
+BYU,Pacific,15,8,8,15,0,Official TV Timeout
+BYU,Pacific,15,8,8,35,0,Anthony Townes missed Jumper.
+BYU,Pacific,15,8,8,35,0,Corbin Kaufusi Block.
+BYU,Pacific,15,8,8,36,0,Corbin Kaufusi Defensive Rebound.
+BYU,Pacific,15,8,8,39,0,Foul on Jamal Aytes.
+BYU,Pacific,15,8,8,39,0,Jamal Aytes Turnover.
+BYU,Pacific,15,8,8,53,0,David Taylor Turnover.
+BYU,Pacific,15,8,8,57,0,Nick Emery Steal.
+BYU,Pacific,15,8,9,2,0,Yoeli Childs missed Jumper.
+BYU,Pacific,15,8,9,2,0,Anthony Townes Defensive Rebound.
+BYU,Pacific,15,8,9,9,0,David Taylor missed Three Point Jumper.
+BYU,Pacific,15,8,9,9,0,L.J. Rose Defensive Rebound.
+BYU,Pacific,17,8,9,30,1,TJ Haws made Jumper.
+BYU,Pacific,17,8,9,50,0,Jacob Lampkin missed Jumper.
+BYU,Pacific,17,8,9,50,0,Corbin Kaufusi Block.
+BYU,Pacific,17,8,9,51,0,Elijah Bryant Defensive Rebound.
+BYU,Pacific,17,8,10,4,0,Corbin Kaufusi missed Jumper.
+BYU,Pacific,17,8,10,4,0,Jacob Lampkin Defensive Rebound.
+BYU,Pacific,17,10,10,29,1,T.J. Wallace made Jumper.
+BYU,Pacific,17,10,10,40,0,Yoeli Childs missed Jumper.
+BYU,Pacific,17,10,10,40,0,Anthony Townes Block.
+BYU,Pacific,17,10,10,42,0,Anthony Townes Defensive Rebound.
+BYU,Pacific,17,13,10,47,1,Ray Bowles made Three Point Jumper. Assisted by David Taylor.
+BYU,Pacific,17,13,11,3,0,Yoeli Childs missed Jumper.
+BYU,Pacific,17,13,11,3,0,T.J. Wallace Defensive Rebound.
+BYU,Pacific,17,13,11,34,0,Ray Bowles missed Three Point Jumper.
+BYU,Pacific,17,13,11,34,0,Jacob Lampkin Offensive Rebound.
+BYU,Pacific,17,13,11,58,0,Jacob Lampkin missed Jumper.
+BYU,Pacific,17,13,11,58,0,TJ Haws Defensive Rebound.
+BYU,Pacific,17,13,12,6,0,Elijah Bryant missed Three Point Jumper.
+BYU,Pacific,17,13,12,6,0,Jacob Lampkin Defensive Rebound.
+BYU,Pacific,17,13,12,18,0,T.J. Wallace missed Jumper.
+BYU,Pacific,17,13,12,18,0,Jacob Lampkin Offensive Rebound.
+BYU,Pacific,17,13,12,19,0,Foul on L.J. Rose.
+BYU,Pacific,17,14,12,22,1,Jacob Lampkin made Free Throw.
+BYU,Pacific,17,14,12,22,0,Jacob Lampkin missed Free Throw.
+BYU,Pacific,17,14,12,22,0,TJ Haws Defensive Rebound.
+BYU,Pacific,17,14,12,35,0,TJ Haws missed Three Point Jumper.
+BYU,Pacific,17,14,12,35,0,T.J. Wallace Defensive Rebound.
+BYU,Pacific,17,14,12,45,0,T.J. Wallace missed Jumper.
+BYU,Pacific,17,14,12,45,0,Eric Mika Block.
+BYU,Pacific,17,14,12,46,0,Nick Emery Defensive Rebound.
+BYU,Pacific,17,14,12,49,0,Elijah Bryant missed Jumper.
+BYU,Pacific,17,14,12,49,0,Ray Bowles Block.
+BYU,Pacific,17,14,12,51,0,Eric Mika Offensive Rebound.
+BYU,Pacific,17,14,12,56,0,Yoeli Childs Turnover.
+BYU,Pacific,17,14,12,58,0,Ray Bowles Steal.
+BYU,Pacific,17,14,13,21,0,Ray Bowles missed Three Point Jumper.
+BYU,Pacific,17,14,13,21,0,Elijah Bryant Defensive Rebound.
+BYU,Pacific,17,14,13,30,0,Foul on Jack Williams.
+BYU,Pacific,17,14,13,39,0,Eric Mika Turnover.
+BYU,Pacific,17,16,13,55,1,D.J. Ursery made Layup.
+BYU,Pacific,17,16,14,0,0,Nick Emery missed Three Point Jumper.
+BYU,Pacific,17,16,14,0,0,BYU Offensive Rebound.
+BYU,Pacific,17,16,14,2,0,Foul on Sami Eleraky.
+BYU,Pacific,17,16,14,6,0,Eric Mika missed Jumper.
+BYU,Pacific,17,16,14,6,0,T.J. Wallace Defensive Rebound.
+BYU,Pacific,17,16,14,11,0,Foul on Nick Emery.
+BYU,Pacific,17,17,14,11,1,T.J. Wallace made Free Throw.
+BYU,Pacific,17,17,14,11,0,T.J. Wallace missed Free Throw.
+BYU,Pacific,17,17,14,11,0,Eric Mika Defensive Rebound.
+BYU,Pacific,19,17,14,25,1,Eric Mika made Jumper. Assisted by Elijah Bryant.
+BYU,Pacific,19,17,14,56,0,T.J. Wallace missed Three Point Jumper.
+BYU,Pacific,19,17,14,56,0,Sami Eleraky Offensive Rebound.
+BYU,Pacific,19,17,15,8,0,T.J. Wallace Turnover.
+BYU,Pacific,19,17,15,9,0,TJ Haws Steal.
+BYU,Pacific,21,17,15,13,1,Steven Beo made Layup.
+BYU,Pacific,21,17,15,34,0,Foul on Yoeli Childs.
+BYU,Pacific,21,17,15,34,0,K.J. Smith missed Free Throw.
+BYU,Pacific,21,17,15,34,0,Braiden Shaw Defensive Rebound.
+BYU,Pacific,24,17,15,51,1,Elijah Bryant made Three Point Jumper. Assisted by TJ Haws.
+BYU,Pacific,24,17,16,12,0,Anthony Townes missed Jumper.
+BYU,Pacific,24,17,16,12,0,Eric Mika Block.
+BYU,Pacific,24,17,16,14,0,Eric Mika Defensive Rebound.
+BYU,Pacific,24,17,16,22,0,Eric Mika missed Layup.
+BYU,Pacific,24,17,16,22,0,Eric Mika Offensive Rebound.
+BYU,Pacific,24,17,16,23,0,Foul on T.J. Wallace.
+BYU,Pacific,24,17,16,23,0,Official TV Timeout
+BYU,Pacific,25,17,16,23,1,Eric Mika made Free Throw.
+BYU,Pacific,26,17,16,23,1,Eric Mika made Free Throw.
+BYU,Pacific,26,17,16,36,0,Anthony Townes Turnover.
+BYU,Pacific,26,17,16,37,0,Braiden Shaw Steal.
+BYU,Pacific,28,17,16,40,1,Braiden Shaw made Layup.
+BYU,Pacific,28,17,17,2,0,Ray Bowles Turnover.
+BYU,Pacific,28,17,17,26,0,Eric Mika Turnover.
+BYU,Pacific,28,17,17,27,0,David Taylor Steal.
+BYU,Pacific,28,17,17,36,0,Jacob Lampkin missed Jumper.
+BYU,Pacific,28,17,17,36,0,Eric Mika Block.
+BYU,Pacific,28,17,17,36,0,Jacob Lampkin Offensive Rebound.
+BYU,Pacific,28,17,17,45,0,Anthony Townes missed Layup.
+BYU,Pacific,28,17,17,45,0,Steven Beo Defensive Rebound.
+BYU,Pacific,28,17,17,53,0,Steven Beo missed Three Point Jumper.
+BYU,Pacific,28,17,17,53,0,David Taylor Defensive Rebound.
+BYU,Pacific,28,17,18,8,0,Jacob Lampkin missed Jumper.
+BYU,Pacific,28,17,18,8,0,Eric Mika Defensive Rebound.
+BYU,Pacific,28,17,18,22,0,TJ Haws Turnover.
+BYU,Pacific,28,17,18,40,0,Foul on Steven Beo.
+BYU,Pacific,28,18,18,45,1,David Taylor made Free Throw.
+BYU,Pacific,28,19,18,45,1,David Taylor made Free Throw.
+BYU,Pacific,28,19,19,14,0,Corbin Kaufusi Turnover.
+BYU,Pacific,28,22,19,25,1,Jack Williams made Three Point Jumper. Assisted by T.J. Wallace.
+BYU,Pacific,28,22,19,57,0,Foul on Anthony Townes.
+BYU,Pacific,29,22,19,57,1,Corbin Kaufusi made Free Throw.
+BYU,Pacific,29,22,19,57,0,Corbin Kaufusi missed Free Throw.
+BYU,Pacific,29,22,19,57,0,Jack Williams Defensive Rebound.
+BYU,Pacific,29,22,20,0,0,End of 1st half
+BYU,Pacific,29,22,20,12,0,Yoeli Childs Turnover.
+BYU,Pacific,29,22,20,12,0,T.J. Wallace Steal.
+BYU,Pacific,29,22,20,13,0,Ray Bowles missed Layup.
+BYU,Pacific,29,22,20,13,0,Ray Bowles Offensive Rebound.
+BYU,Pacific,29,24,20,19,1,Ray Bowles made Two Point Tip Shot.
+BYU,Pacific,29,24,20,25,0,Foul on Yoeli Childs.
+BYU,Pacific,29,24,20,41,0,Ray Bowles missed Free Throw.
+BYU,Pacific,29,24,20,41,0,Jacob Lampkin Offensive Rebound.
+BYU,Pacific,29,26,20,55,1,T.J. Wallace made Jumper.
+BYU,Pacific,29,26,21,14,0,Eric Mika missed Jumper.
+BYU,Pacific,29,26,21,14,0,Anthony Townes Block.
+BYU,Pacific,29,26,21,14,0,Anthony Townes Defensive Rebound.
+BYU,Pacific,29,26,21,52,0,Ray Bowles missed Three Point Jumper.
+BYU,Pacific,29,26,21,52,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,29,26,22,4,0,TJ Haws missed Three Point Jumper.
+BYU,Pacific,29,26,22,4,0,Anthony Townes Defensive Rebound.
+BYU,Pacific,29,26,22,27,0,T.J. Wallace missed Layup.
+BYU,Pacific,29,26,22,27,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,31,26,22,32,1,Nick Emery made Jumper. Assisted by Yoeli Childs.
+BYU,Pacific,31,28,22,57,1,Anthony Townes made Jumper. Assisted by Jacob Lampkin.
+BYU,Pacific,34,28,23,13,1,Nick Emery made Three Point Jumper. Assisted by TJ Haws.
+BYU,Pacific,34,28,23,40,0,Ray Bowles missed Layup.
+BYU,Pacific,34,28,23,40,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,34,28,23,49,0,TJ Haws Turnover.
+BYU,Pacific,34,28,23,50,0,Ray Bowles Steal.
+BYU,Pacific,34,28,23,54,0,Ray Bowles missed Layup.
+BYU,Pacific,34,28,23,54,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,37,28,24,0,1,Nick Emery made Three Point Jumper. Assisted by TJ Haws.
+BYU,Pacific,37,28,24,57,0,T.J. Wallace missed Three Point Jumper.
+BYU,Pacific,37,28,24,57,0,TJ Haws Defensive Rebound.
+BYU,Pacific,37,28,25,2,0,Foul on Ray Bowles.
+BYU,Pacific,37,28,25,2,0,Official TV Timeout
+BYU,Pacific,37,28,25,13,0,Eric Mika Turnover.
+BYU,Pacific,37,28,25,23,0,T.J. Wallace Turnover.
+BYU,Pacific,37,28,25,25,0,Nick Emery Steal.
+BYU,Pacific,37,28,25,26,0,TJ Haws Turnover.
+BYU,Pacific,37,28,25,26,0,Technical Foul on TJ Haws.
+BYU,Pacific,37,29,25,26,1,T.J. Wallace made Free Throw.
+BYU,Pacific,37,31,25,46,1,Anthony Townes made Layup. Assisted by D.J. Ursery.
+BYU,Pacific,40,31,25,57,1,TJ Haws made Three Point Jumper.
+BYU,Pacific,40,33,26,21,1,Ray Bowles made Layup.
+BYU,Pacific,42,33,26,28,1,Eric Mika made Dunk. Assisted by Elijah Bryant.
+BYU,Pacific,42,33,26,45,0,Foul on Elijah Bryant.
+BYU,Pacific,42,33,26,59,0,T.J. Wallace missed Jumper.
+BYU,Pacific,42,33,26,59,0,Anthony Townes Offensive Rebound.
+BYU,Pacific,42,33,27,2,0,Anthony Townes missed Layup.
+BYU,Pacific,42,33,27,2,0,Yoeli Childs Block.
+BYU,Pacific,42,33,27,5,0,D.J. Ursery Offensive Rebound.
+BYU,Pacific,42,33,27,19,0,Ray Bowles missed Jumper.
+BYU,Pacific,42,33,27,19,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,42,33,27,20,0,Foul on Ray Bowles.
+BYU,Pacific,44,33,27,34,1,Eric Mika made Dunk. Assisted by Elijah Bryant.
+BYU,Pacific,44,33,27,34,0,Foul on D.J. Ursery.
+BYU,Pacific,44,33,27,34,0,Pacific  Timeout
+BYU,Pacific,45,33,27,34,1,Eric Mika made Free Throw.
+BYU,Pacific,45,33,27,52,0,T.J. Wallace missed Layup.
+BYU,Pacific,45,33,27,52,0,L.J. Rose Defensive Rebound.
+BYU,Pacific,47,33,28,8,1,Eric Mika made Jumper.
+BYU,Pacific,47,33,28,43,0,Jacob Lampkin missed Jumper.
+BYU,Pacific,47,33,28,43,0,Ray Bowles Offensive Rebound.
+BYU,Pacific,47,35,28,44,1,Ray Bowles made Layup.
+BYU,Pacific,47,35,28,52,0,TJ Haws missed Three Point Jumper.
+BYU,Pacific,47,35,28,52,0,Elijah Bryant Offensive Rebound.
+BYU,Pacific,47,35,28,59,0,L.J. Rose missed Three Point Jumper.
+BYU,Pacific,47,35,28,59,0,BYU Offensive Rebound.
+BYU,Pacific,47,35,29,1,0,Official TV Timeout
+BYU,Pacific,47,35,29,14,0,Steven Beo Turnover.
+BYU,Pacific,47,35,29,15,0,T.J. Wallace Steal.
+BYU,Pacific,47,37,29,18,1,T.J. Wallace made Layup.
+BYU,Pacific,49,37,29,40,1,Elijah Bryant made Jumper.
+BYU,Pacific,49,37,30,1,0,Jacob Lampkin missed Jumper.
+BYU,Pacific,49,37,30,1,0,Eric Mika Defensive Rebound.
+BYU,Pacific,49,37,30,16,0,Foul on T.J. Wallace.
+BYU,Pacific,49,37,30,36,0,Steven Beo missed Three Point Jumper.
+BYU,Pacific,49,37,30,36,0,Ray Bowles Defensive Rebound.
+BYU,Pacific,49,39,30,53,1,Jack Williams made Jumper. Assisted by David Taylor.
+BYU,Pacific,52,39,31,14,1,TJ Haws made Three Point Jumper. Assisted by Steven Beo.
+BYU,Pacific,52,39,31,39,0,Pacific  Timeout
+BYU,Pacific,52,39,31,53,0,T.J. Wallace missed Three Point Jumper.
+BYU,Pacific,52,39,31,53,0,L.J. Rose Defensive Rebound.
+BYU,Pacific,52,39,32,17,0,Eric Mika missed Jumper.
+BYU,Pacific,52,39,32,17,0,T.J. Wallace Defensive Rebound.
+BYU,Pacific,52,39,32,32,0,David Taylor missed Three Point Jumper.
+BYU,Pacific,52,39,32,32,0,Jack Williams Offensive Rebound.
+BYU,Pacific,52,39,32,36,0,Ray Bowles missed Three Point Jumper.
+BYU,Pacific,52,39,32,36,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,52,39,32,52,0,Eric Mika missed Jumper.
+BYU,Pacific,52,39,32,52,0,Anthony Townes Defensive Rebound.
+BYU,Pacific,52,39,33,0,0,Foul on TJ Haws.
+BYU,Pacific,52,39,33,21,0,Jack Williams missed Layup.
+BYU,Pacific,52,39,33,21,0,Eric Mika Defensive Rebound.
+BYU,Pacific,52,39,33,28,0,Elijah Bryant missed Three Point Jumper.
+BYU,Pacific,52,39,33,28,0,Jack Williams Defensive Rebound.
+BYU,Pacific,52,39,33,36,0,Anthony Townes missed Layup.
+BYU,Pacific,52,39,33,36,0,Anthony Townes Offensive Rebound.
+BYU,Pacific,52,39,33,38,0,Anthony Townes missed Jumper.
+BYU,Pacific,52,39,33,38,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,52,39,34,1,0,Eric Mika missed Jumper.
+BYU,Pacific,52,39,34,1,0,Yoeli Childs Offensive Rebound.
+BYU,Pacific,54,39,34,7,1,Yoeli Childs made Jumper.
+BYU,Pacific,54,39,34,22,0,Jack Williams missed Three Point Jumper.
+BYU,Pacific,54,39,34,22,0,Eric Mika Defensive Rebound.
+BYU,Pacific,54,39,34,43,0,Yoeli Childs missed Jumper.
+BYU,Pacific,54,39,34,43,0,Eric Mika Offensive Rebound.
+BYU,Pacific,54,39,34,45,0,Foul on Jacob Lampkin.
+BYU,Pacific,55,39,34,45,1,Eric Mika made Free Throw.
+BYU,Pacific,56,39,34,45,1,Eric Mika made Free Throw.
+BYU,Pacific,56,39,34,59,0,Jacob Lampkin Turnover.
+BYU,Pacific,56,39,34,59,0,TJ Haws Steal.
+BYU,Pacific,58,39,35,3,1,Elijah Bryant made Jumper. Assisted by TJ Haws.
+BYU,Pacific,58,39,35,3,0,Foul on Jack Williams.
+BYU,Pacific,58,39,35,3,0,Elijah Bryant missed Free Throw.
+BYU,Pacific,58,39,35,3,0,Jacob Lampkin Defensive Rebound.
+BYU,Pacific,58,41,35,24,1,Anthony Townes made Dunk. Assisted by Jacob Lampkin.
+BYU,Pacific,58,41,35,39,0,TJ Haws missed Jumper.
+BYU,Pacific,58,41,35,39,0,T.J. Wallace Defensive Rebound.
+BYU,Pacific,58,41,35,48,0,Foul on Elijah Bryant.
+BYU,Pacific,58,43,36,4,1,Anthony Townes made Layup.
+BYU,Pacific,58,43,36,25,0,BYU  Timeout
+BYU,Pacific,60,43,36,32,1,Yoeli Childs made Dunk. Assisted by TJ Haws.
+BYU,Pacific,60,43,36,54,0,Foul on TJ Haws.
+BYU,Pacific,60,43,37,3,0,Anthony Townes Turnover.
+BYU,Pacific,60,43,37,4,0,L.J. Rose Steal.
+BYU,Pacific,60,43,37,28,0,Elijah Bryant missed Three Point Jumper.
+BYU,Pacific,60,43,37,28,0,Jacob Lampkin Defensive Rebound.
+BYU,Pacific,60,43,37,48,0,T.J. Wallace missed Jumper.
+BYU,Pacific,60,43,37,48,0,Anthony Townes Offensive Rebound.
+BYU,Pacific,60,43,37,52,0,Foul on TJ Haws.
+BYU,Pacific,60,43,37,52,0,Anthony Townes missed Free Throw.
+BYU,Pacific,60,43,37,52,0,Pacific Deadball Team Rebound.
+BYU,Pacific,60,43,37,52,0,Anthony Townes missed Free Throw.
+BYU,Pacific,60,43,37,52,0,Yoeli Childs Defensive Rebound.
+BYU,Pacific,62,43,38,18,1,Elijah Bryant made Jumper.
+BYU,Pacific,62,43,38,30,0,D.J. Ursery Turnover.
+BYU,Pacific,62,43,38,32,0,Yoeli Childs Steal.
+BYU,Pacific,62,43,38,38,0,BYU  Timeout
+BYU,Pacific,62,43,38,50,0,Foul on Payton Dastrup.
+BYU,Pacific,62,43,38,50,0,Payton Dastrup Turnover.
+BYU,Pacific,62,43,39,2,0,D.J. Ursery Turnover.
+BYU,Pacific,62,43,39,5,0,Braiden Shaw Steal.
+BYU,Pacific,62,43,39,8,0,Davin Guinn missed Jumper.
+BYU,Pacific,62,43,39,8,0,Ilias Theodorou Defensive Rebound.
+BYU,Pacific,62,45,39,15,1,K.J. Smith made Layup.
+BYU,Pacific,62,45,39,43,0,Payton Dastrup missed Jumper.
+BYU,Pacific,62,45,39,43,0,Ilias Theodorou Defensive Rebound.
+BYU,Pacific,62,47,39,51,1,Jack Williams made Layup. Assisted by D.J. Ursery.
+BYU,Pacific,62,47,40,0,0,End of Game

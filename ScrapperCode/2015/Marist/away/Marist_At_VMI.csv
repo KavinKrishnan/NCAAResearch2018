@@ -1,0 +1,368 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Marist,VMI,2,0,0,59,1,James Griffin made Layup.
+Marist,VMI,2,0,0,59,0,Foul on Tim Marshall.
+Marist,VMI,3,0,0,59,1,James Griffin made Free Throw.
+Marist,VMI,3,0,1,0,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,3,0,1,0,0,Phillip Lawrence Defensive Rebound.
+Marist,VMI,3,0,1,0,0,Eric Truog missed Jumper.
+Marist,VMI,3,0,1,0,0,K.J. Lee Offensive Rebound.
+Marist,VMI,5,0,1,0,1,K.J. Lee made Layup.
+Marist,VMI,5,3,1,4,1,Tim Marshall made Three Point Jumper. Assisted by Jarid Watson.
+Marist,VMI,5,3,1,9,0,Manny Thomas missed Jumper.
+Marist,VMI,5,3,1,9,0,QJ Peterson Defensive Rebound.
+Marist,VMI,5,3,1,13,0,Brian Brown missed Three Point Jumper.
+Marist,VMI,5,3,1,13,0,K.J. Lee Defensive Rebound.
+Marist,VMI,7,3,1,29,1,K.J. Lee made Layup. Assisted by Manny Thomas.
+Marist,VMI,7,3,1,36,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,7,3,1,36,0,Phillip Lawrence Defensive Rebound.
+Marist,VMI,7,3,1,51,0,Eric Truog missed Jumper.
+Marist,VMI,7,3,1,51,0,QJ Peterson Defensive Rebound.
+Marist,VMI,7,6,1,56,1,Brian Brown made Three Point Jumper. Assisted by QJ Peterson.
+Marist,VMI,7,6,2,33,0,Foul on Jordan Weethee.
+Marist,VMI,9,6,2,35,1,Eric Truog made Layup. Assisted by Manny Thomas.
+Marist,VMI,9,6,2,40,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,9,6,2,40,0,VMI Offensive Rebound.
+Marist,VMI,9,6,2,48,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,9,6,2,48,0,Eric Truog Defensive Rebound.
+Marist,VMI,9,6,3,31,0,James Griffin Turnover.
+Marist,VMI,9,6,3,46,0,Brian Brown missed Three Point Jumper.
+Marist,VMI,9,6,3,46,0,Phillip Anglade Offensive Rebound.
+Marist,VMI,9,9,3,52,1,Julian Eleby made Three Point Jumper. Assisted by Phillip Anglade.
+Marist,VMI,9,9,4,4,0,Nick Colletta missed Jumper.
+Marist,VMI,9,9,4,4,0,Julian Eleby Defensive Rebound.
+Marist,VMI,9,12,4,15,1,Brian Brown made Three Point Jumper. Assisted by Trey Chapman.
+Marist,VMI,9,12,4,26,0,James Griffin Turnover.
+Marist,VMI,9,12,4,26,0,Official TV Timeout
+Marist,VMI,9,12,4,28,0,Foul on James Griffin.
+Marist,VMI,9,12,4,29,0,Brian Brown missed Three Point Jumper.
+Marist,VMI,9,12,4,29,0,K.J. Lee Defensive Rebound.
+Marist,VMI,9,12,4,36,0,Phillip Lawrence missed Jumper.
+Marist,VMI,9,12,4,36,0,Phillip Anglade Block.
+Marist,VMI,9,12,4,39,0,Julian Eleby Defensive Rebound.
+Marist,VMI,9,14,4,48,1,Phillip Anglade made Dunk. Assisted by Brian Brown.
+Marist,VMI,11,14,5,5,1,James Griffin made Layup.
+Marist,VMI,11,17,5,18,1,QJ Peterson made Three Point Jumper. Assisted by Trey Chapman.
+Marist,VMI,11,17,5,57,0,Eric Truog missed Jumper.
+Marist,VMI,11,17,5,57,0,Jarid Watson Defensive Rebound.
+Marist,VMI,11,17,6,6,0,Julian Eleby missed Three Point Jumper.
+Marist,VMI,11,17,6,6,0,Jarid Watson Offensive Rebound.
+Marist,VMI,11,17,6,11,0,Foul on Phillip Lawrence.
+Marist,VMI,11,18,6,11,1,Jarid Watson made Free Throw.
+Marist,VMI,11,18,6,11,0,Jarid Watson missed Free Throw.
+Marist,VMI,11,18,6,11,0,Eric Truog Defensive Rebound.
+Marist,VMI,14,18,6,29,1,Eric Truog made Three Point Jumper.
+Marist,VMI,14,18,6,40,0,Foul on Nick Colletta.
+Marist,VMI,14,18,6,44,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,14,18,6,44,0,Tim Marshall Offensive Rebound.
+Marist,VMI,14,18,6,52,0,Jordan Weethee missed Three Point Jumper.
+Marist,VMI,14,18,6,52,0,Jarid Watson Offensive Rebound.
+Marist,VMI,14,18,7,7,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,14,18,7,7,0,Eric Truog Defensive Rebound.
+Marist,VMI,14,18,7,12,0,Foul on Jarid Watson.
+Marist,VMI,14,18,7,23,0,Foul on Craig Hinton.
+Marist,VMI,14,18,7,30,0,Foul on Craig Hinton.
+Marist,VMI,14,18,7,32,0,K.J. Lee Turnover.
+Marist,VMI,14,18,7,32,0,Trey Chapman Steal.
+Marist,VMI,14,20,7,57,1,Jordan Weethee made Dunk. Assisted by Jarid Watson.
+Marist,VMI,16,20,8,8,1,Manny Thomas made Layup.
+Marist,VMI,16,20,8,8,0,Foul on Jarid Watson.
+Marist,VMI,16,20,8,8,0,Official TV Timeout
+Marist,VMI,17,20,8,8,1,Manny Thomas made Free Throw.
+Marist,VMI,17,20,8,15,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,17,20,8,15,0,Trey Chapman Offensive Rebound.
+Marist,VMI,17,20,8,18,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,17,20,8,18,0,Tim Marshall Offensive Rebound.
+Marist,VMI,17,22,8,21,1,Tim Marshall made Layup.
+Marist,VMI,20,22,8,28,1,Connor McClenaghan made Three Point Jumper.
+Marist,VMI,20,22,8,59,0,Tim Marshall Turnover.
+Marist,VMI,20,22,9,0,0,K.J. Lee Steal.
+Marist,VMI,20,22,9,9,0,Manny Thomas missed Jumper.
+Marist,VMI,20,22,9,9,0,Phillip Anglade Defensive Rebound.
+Marist,VMI,20,22,9,18,0,QJ Peterson missed Jumper.
+Marist,VMI,20,22,9,18,0,Phillip Anglade Offensive Rebound.
+Marist,VMI,20,25,9,22,1,Jordan Weethee made Three Point Jumper. Assisted by Phillip Anglade.
+Marist,VMI,20,25,9,32,0,Eric Truog Turnover.
+Marist,VMI,20,25,9,34,0,QJ Peterson Steal.
+Marist,VMI,20,25,9,46,0,Brian Brown missed Three Point Jumper.
+Marist,VMI,20,25,9,46,0,VMI Offensive Rebound.
+Marist,VMI,20,25,9,54,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,20,25,9,54,0,Marist Deadball Team Rebound.
+Marist,VMI,20,25,9,56,0,Foul on Phillip Anglade.
+Marist,VMI,21,25,9,56,1,Eric Truog made Free Throw.
+Marist,VMI,21,25,9,56,0,Eric Truog missed Free Throw.
+Marist,VMI,21,25,9,56,0,Phillip Anglade Defensive Rebound.
+Marist,VMI,21,25,10,1,0,Brian Brown missed Three Point Jumper.
+Marist,VMI,21,25,10,1,0,Eric Truog Defensive Rebound.
+Marist,VMI,21,25,10,27,0,K.J. Lee Turnover.
+Marist,VMI,21,25,10,28,0,Phillip Anglade Steal.
+Marist,VMI,21,25,10,38,0,Julian Eleby missed Three Point Jumper.
+Marist,VMI,21,25,10,38,0,Julian Eleby Offensive Rebound.
+Marist,VMI,21,25,10,45,0,QJ Peterson missed Jumper.
+Marist,VMI,21,25,10,45,0,Eric Truog Defensive Rebound.
+Marist,VMI,24,25,11,6,1,Eric Truog made Three Point Jumper.
+Marist,VMI,24,28,11,22,1,QJ Peterson made Three Point Jumper. Assisted by Jordan Weethee.
+Marist,VMI,24,28,11,34,0,Phillip Lawrence Turnover.
+Marist,VMI,24,28,11,36,0,QJ Peterson Steal.
+Marist,VMI,24,30,11,41,1,Julian Eleby made Layup. Assisted by QJ Peterson.
+Marist,VMI,24,30,11,41,0,Foul on James Griffin.
+Marist,VMI,24,30,11,41,0,Julian Eleby missed Free Throw.
+Marist,VMI,24,30,11,41,0,Connor McClenaghan Defensive Rebound.
+Marist,VMI,24,30,11,49,0,Connor McClenaghan missed Three Point Jumper.
+Marist,VMI,24,30,11,49,0,Trey Chapman Defensive Rebound.
+Marist,VMI,24,30,11,55,0,Foul on Obi Momah.
+Marist,VMI,24,33,12,5,1,Armani Branch made Three Point Jumper. Assisted by Trey Chapman.
+Marist,VMI,24,33,12,22,0,Foul on Tim Marshall.
+Marist,VMI,24,33,12,22,0,Official TV Timeout
+Marist,VMI,25,33,12,22,1,James Griffin made Free Throw.
+Marist,VMI,26,33,12,22,1,James Griffin made Free Throw.
+Marist,VMI,26,33,12,36,0,Trey Chapman Turnover.
+Marist,VMI,26,33,12,36,0,Foul on Trey Chapman.
+Marist,VMI,26,33,12,42,0,K.J. Lee Turnover.
+Marist,VMI,26,33,13,6,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,26,33,13,6,0,K.J. Lee Defensive Rebound.
+Marist,VMI,26,33,13,21,0,James Griffin missed Three Point Jumper.
+Marist,VMI,26,33,13,21,0,Julian Eleby Defensive Rebound.
+Marist,VMI,26,35,13,32,1,Trey Chapman made Jumper.
+Marist,VMI,26,35,13,32,0,Foul on Phillip Lawrence.
+Marist,VMI,26,36,13,32,1,Trey Chapman made Free Throw.
+Marist,VMI,26,36,13,47,0,K.J. Lee Turnover.
+Marist,VMI,26,36,13,48,0,Phillip Anglade Steal.
+Marist,VMI,26,36,13,49,0,Foul on Connor McClenaghan.
+Marist,VMI,26,37,13,49,1,QJ Peterson made Free Throw.
+Marist,VMI,26,38,13,49,1,QJ Peterson made Free Throw.
+Marist,VMI,26,38,13,56,0,Manny Thomas missed Jumper.
+Marist,VMI,26,38,13,56,0,Marist Offensive Rebound.
+Marist,VMI,26,38,14,5,0,James Griffin missed Jumper.
+Marist,VMI,26,38,14,5,0,Phillip Anglade Block.
+Marist,VMI,26,38,14,6,0,VMI Defensive Rebound.
+Marist,VMI,26,40,14,19,1,QJ Peterson made Jumper.
+Marist,VMI,26,40,14,34,0,K.J. Lee Turnover.
+Marist,VMI,26,42,14,46,1,Julian Eleby made Layup.
+Marist,VMI,26,42,14,56,0,Phillip Lawrence missed Three Point Jumper.
+Marist,VMI,26,42,14,56,0,QJ Peterson Defensive Rebound.
+Marist,VMI,26,44,15,6,1,Phillip Anglade made Dunk. Assisted by QJ Peterson.
+Marist,VMI,26,44,15,9,0,Marist  Timeout
+Marist,VMI,26,44,15,14,0,Foul on QJ Peterson.
+Marist,VMI,27,44,15,14,1,Phillip Lawrence made Free Throw.
+Marist,VMI,28,44,15,14,1,Phillip Lawrence made Free Throw.
+Marist,VMI,28,44,15,29,0,Brian Brown missed Three Point Jumper.
+Marist,VMI,28,44,15,29,0,Eric Truog Defensive Rebound.
+Marist,VMI,28,44,15,39,0,K.J. Lee missed Layup.
+Marist,VMI,28,44,15,39,0,Trey Chapman Defensive Rebound.
+Marist,VMI,28,47,15,47,1,Trey Chapman made Three Point Jumper. Assisted by QJ Peterson.
+Marist,VMI,28,47,16,9,0,Foul on Phillip Anglade.
+Marist,VMI,28,47,16,9,0,Official TV Timeout
+Marist,VMI,29,47,16,9,1,Phillip Lawrence made Free Throw.
+Marist,VMI,30,47,16,9,1,Phillip Lawrence made Free Throw.
+Marist,VMI,30,50,16,17,1,Brian Brown made Three Point Jumper. Assisted by Trey Chapman.
+Marist,VMI,32,50,16,39,1,Phillip Lawrence made Jumper.
+Marist,VMI,32,50,16,39,0,Foul on Fred Iruafemi.
+Marist,VMI,33,50,16,39,1,Phillip Lawrence made Free Throw.
+Marist,VMI,33,53,16,55,1,QJ Peterson made Three Point Jumper. Assisted by Fred Iruafemi.
+Marist,VMI,35,53,17,20,1,Eric Truog made Jumper.
+Marist,VMI,35,53,17,30,0,Craig Hinton missed Three Point Jumper.
+Marist,VMI,35,53,17,30,0,Eric Truog Defensive Rebound.
+Marist,VMI,37,53,17,39,1,Phillip Lawrence made Dunk.
+Marist,VMI,37,53,17,49,0,Craig Hinton Turnover.
+Marist,VMI,37,53,17,49,0,Eric Truog Steal.
+Marist,VMI,37,53,18,16,0,Foul on Jordan Weethee.
+Marist,VMI,37,53,18,16,0,Eric Truog missed Free Throw.
+Marist,VMI,37,53,18,16,0,Marist Deadball Team Rebound.
+Marist,VMI,37,53,18,16,0,Eric Truog missed Free Throw.
+Marist,VMI,37,53,18,16,0,Tim Marshall Defensive Rebound.
+Marist,VMI,37,53,18,29,0,Brian Brown missed Three Point Jumper.
+Marist,VMI,37,53,18,29,0,Eric Truog Defensive Rebound.
+Marist,VMI,37,53,18,42,0,Manny Thomas missed Jumper.
+Marist,VMI,37,53,18,42,0,Jordan Weethee Defensive Rebound.
+Marist,VMI,37,53,18,47,0,Jordan Weethee Turnover.
+Marist,VMI,37,53,18,49,0,James Griffin Steal.
+Marist,VMI,37,53,18,50,0,Foul on Jordan Weethee.
+Marist,VMI,37,53,18,50,0,James Griffin missed Free Throw.
+Marist,VMI,37,53,18,50,0,Marist Deadball Team Rebound.
+Marist,VMI,38,53,18,50,1,James Griffin made Free Throw.
+Marist,VMI,38,53,18,58,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,38,53,18,58,0,Eric Truog Defensive Rebound.
+Marist,VMI,40,53,19,15,1,K.J. Lee made Layup.
+Marist,VMI,40,53,19,40,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,40,53,19,40,0,K.J. Lee Defensive Rebound.
+Marist,VMI,42,53,19,48,1,Manny Thomas made Layup. Assisted by K.J. Lee.
+Marist,VMI,42,56,19,59,1,QJ Peterson made Three Point Jumper. Assisted by Trey Chapman.
+Marist,VMI,42,56,20,0,0,End of 1st half
+Marist,VMI,42,56,20,17,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,42,56,20,17,0,Eric Truog Defensive Rebound.
+Marist,VMI,42,56,20,41,0,K.J. Lee missed Layup.
+Marist,VMI,42,56,20,41,0,Eric Truog Offensive Rebound.
+Marist,VMI,42,56,20,49,0,Eric Truog Turnover.
+Marist,VMI,42,56,21,10,0,Jarid Watson missed Jumper.
+Marist,VMI,42,56,21,10,0,Jarid Watson Offensive Rebound.
+Marist,VMI,42,59,21,20,1,Tim Marshall made Three Point Jumper. Assisted by Brian Brown.
+Marist,VMI,45,59,21,32,1,Manny Thomas made Three Point Jumper. Assisted by Phillip Lawrence.
+Marist,VMI,45,59,21,47,0,Jordan Weethee Turnover.
+Marist,VMI,45,59,21,49,0,James Griffin Steal.
+Marist,VMI,45,59,21,51,0,Foul on Jordan Weethee.
+Marist,VMI,46,59,21,51,1,James Griffin made Free Throw.
+Marist,VMI,46,59,21,51,0,James Griffin missed Free Throw.
+Marist,VMI,46,59,21,51,0,Jarid Watson Defensive Rebound.
+Marist,VMI,46,62,22,7,1,Tim Marshall made Three Point Jumper. Assisted by Brian Brown.
+Marist,VMI,46,62,22,20,0,Foul on Phillip Lawrence.
+Marist,VMI,46,62,22,20,0,Phillip Lawrence Turnover.
+Marist,VMI,46,62,22,38,0,QJ Peterson missed Jumper.
+Marist,VMI,46,62,22,38,0,Jarid Watson Offensive Rebound.
+Marist,VMI,46,65,22,49,1,Tim Marshall made Three Point Jumper. Assisted by Brian Brown.
+Marist,VMI,46,65,23,7,0,Foul on Trey Chapman.
+Marist,VMI,48,65,23,14,1,Eric Truog made Layup. Assisted by K.J. Lee.
+Marist,VMI,48,65,23,25,0,Trey Chapman Turnover.
+Marist,VMI,48,65,23,27,0,Eric Truog Steal.
+Marist,VMI,50,65,23,29,1,James Griffin made Layup. Assisted by Eric Truog.
+Marist,VMI,50,65,23,43,0,Foul on Eric Truog.
+Marist,VMI,50,65,23,43,0,Trey Chapman missed Free Throw.
+Marist,VMI,50,65,23,43,0,VMI Deadball Team Rebound.
+Marist,VMI,50,65,23,43,0,Trey Chapman missed Free Throw.
+Marist,VMI,50,65,23,43,0,Manny Thomas Defensive Rebound.
+Marist,VMI,52,65,24,1,1,James Griffin made Layup.
+Marist,VMI,52,65,24,18,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,52,65,24,18,0,Trey Chapman Offensive Rebound.
+Marist,VMI,52,65,24,23,0,Foul on Manny Thomas.
+Marist,VMI,52,65,24,23,0,Official TV Timeout
+Marist,VMI,52,65,24,26,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,52,65,24,26,0,Phillip Anglade Offensive Rebound.
+Marist,VMI,52,68,24,43,1,Tim Marshall made Three Point Jumper. Assisted by Trey Chapman.
+Marist,VMI,52,68,25,4,0,Nick Colletta missed Three Point Jumper.
+Marist,VMI,52,68,25,4,0,Phillip Anglade Defensive Rebound.
+Marist,VMI,52,71,25,13,1,Tim Marshall made Three Point Jumper.
+Marist,VMI,54,71,25,26,1,Nick Colletta made Layup.
+Marist,VMI,54,71,25,34,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,54,71,25,34,0,Phillip Lawrence Defensive Rebound.
+Marist,VMI,54,71,25,55,0,James Griffin missed Three Point Jumper.
+Marist,VMI,54,71,25,55,0,Trey Chapman Defensive Rebound.
+Marist,VMI,54,73,26,6,1,Phillip Anglade made Layup. Assisted by Tim Marshall.
+Marist,VMI,54,73,26,31,0,K.J. Lee missed Jumper.
+Marist,VMI,54,73,26,31,0,Marist Deadball Team Rebound.
+Marist,VMI,54,73,26,33,0,Foul on Phillip Anglade.
+Marist,VMI,56,73,26,43,1,Eric Truog made Jumper.
+Marist,VMI,56,73,26,57,0,Armani Branch missed Three Point Jumper.
+Marist,VMI,56,73,26,57,0,K.J. Lee Defensive Rebound.
+Marist,VMI,56,73,27,3,0,K.J. Lee Turnover.
+Marist,VMI,56,73,27,4,0,Julian Eleby Steal.
+Marist,VMI,56,73,27,8,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,56,73,27,8,0,Marist Defensive Rebound.
+Marist,VMI,56,73,27,21,0,Manny Thomas missed Three Point Jumper.
+Marist,VMI,56,73,27,21,0,Jarid Watson Defensive Rebound.
+Marist,VMI,56,73,27,39,0,Armani Branch missed Three Point Jumper.
+Marist,VMI,56,73,27,39,0,Phillip Lawrence Defensive Rebound.
+Marist,VMI,56,73,27,56,0,Eric Truog missed Layup.
+Marist,VMI,56,73,27,56,0,Brian Brown Defensive Rebound.
+Marist,VMI,56,73,28,4,0,Julian Eleby Turnover.
+Marist,VMI,56,73,28,4,0,Official TV Timeout
+Marist,VMI,56,73,28,26,0,Manny Thomas Turnover.
+Marist,VMI,56,73,28,28,0,Brian Brown Steal.
+Marist,VMI,56,73,28,29,0,Foul on James Griffin.
+Marist,VMI,56,74,28,29,1,Brian Brown made Free Throw.
+Marist,VMI,56,75,28,29,1,Brian Brown made Free Throw.
+Marist,VMI,56,75,28,43,0,Phillip Lawrence missed Jumper.
+Marist,VMI,56,75,28,43,0,Jarid Watson Block.
+Marist,VMI,56,75,28,43,0,Marist Offensive Rebound.
+Marist,VMI,56,75,28,46,0,Phillip Lawrence missed Three Point Jumper.
+Marist,VMI,56,75,28,46,0,QJ Peterson Defensive Rebound.
+Marist,VMI,56,77,28,55,1,Brian Brown made Jumper.
+Marist,VMI,56,77,28,59,0,K.J. Lee missed Layup.
+Marist,VMI,56,77,28,59,0,QJ Peterson Defensive Rebound.
+Marist,VMI,56,77,29,4,0,QJ Peterson missed Jumper.
+Marist,VMI,56,77,29,4,0,Manny Thomas Defensive Rebound.
+Marist,VMI,56,77,29,45,0,Foul on Craig Hinton.
+Marist,VMI,56,77,30,5,0,Foul on Phillip Anglade.
+Marist,VMI,56,77,30,5,0,Eric Truog missed Free Throw.
+Marist,VMI,56,77,30,5,0,Marist Deadball Team Rebound.
+Marist,VMI,57,77,30,5,1,Eric Truog made Free Throw.
+Marist,VMI,57,77,30,14,0,Trey Chapman missed Three Point Jumper.
+Marist,VMI,57,77,30,14,0,Eric Truog Defensive Rebound.
+Marist,VMI,60,77,30,57,1,Eric Truog made Three Point Jumper.
+Marist,VMI,60,77,31,8,0,Foul on James Griffin.
+Marist,VMI,60,77,31,24,0,QJ Peterson Turnover.
+Marist,VMI,60,77,31,25,0,Phillip Lawrence Steal.
+Marist,VMI,62,77,31,31,1,Nick Colletta made Jumper.
+Marist,VMI,62,77,31,41,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,62,77,31,41,0,Tim Marshall Offensive Rebound.
+Marist,VMI,62,77,31,45,0,Tim Marshall missed Jumper.
+Marist,VMI,62,77,31,45,0,K.J. Lee Defensive Rebound.
+Marist,VMI,62,77,31,52,0,Eric Truog missed Layup.
+Marist,VMI,62,77,31,52,0,Phillip Lawrence Offensive Rebound.
+Marist,VMI,62,77,31,55,0,Foul on Tim Marshall.
+Marist,VMI,64,77,32,8,1,Connor McClenaghan made Jumper.
+Marist,VMI,64,77,32,29,0,Julian Eleby missed Three Point Jumper.
+Marist,VMI,64,77,32,29,0,Manny Thomas Defensive Rebound.
+Marist,VMI,64,77,32,37,0,Nick Colletta missed Three Point Jumper.
+Marist,VMI,64,77,32,37,0,Jarid Watson Defensive Rebound.
+Marist,VMI,64,77,32,45,0,Foul on Connor McClenaghan.
+Marist,VMI,64,77,32,45,0,Official TV Timeout
+Marist,VMI,64,77,32,49,0,Julian Eleby Turnover.
+Marist,VMI,64,77,32,51,0,Phillip Lawrence Steal.
+Marist,VMI,66,77,33,8,1,Eric Truog made Layup.
+Marist,VMI,66,80,33,13,1,QJ Peterson made Three Point Jumper. Assisted by Julian Eleby.
+Marist,VMI,66,80,33,18,0,K.J. Lee Turnover.
+Marist,VMI,66,80,33,21,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,66,80,33,21,0,Eric Truog Defensive Rebound.
+Marist,VMI,66,80,33,25,0,Foul on Jarid Watson.
+Marist,VMI,66,80,33,59,0,Eric Truog missed Free Throw.
+Marist,VMI,66,80,33,59,0,Jarid Watson Defensive Rebound.
+Marist,VMI,66,83,34,16,1,QJ Peterson made Three Point Jumper. Assisted by Julian Eleby.
+Marist,VMI,66,83,34,21,0,VMI  Timeout
+Marist,VMI,66,83,34,33,0,Eric Truog Turnover.
+Marist,VMI,66,83,34,36,0,QJ Peterson missed Three Point Jumper.
+Marist,VMI,66,83,34,36,0,Marist Defensive Rebound.
+Marist,VMI,66,83,34,47,0,Manny Thomas missed Three Point Jumper.
+Marist,VMI,66,83,34,47,0,Tim Marshall Defensive Rebound.
+Marist,VMI,66,83,35,0,0,Tim Marshall missed Three Point Jumper.
+Marist,VMI,66,83,35,0,0,K.J. Lee Defensive Rebound.
+Marist,VMI,66,83,35,4,0,Foul on Tim Marshall.
+Marist,VMI,66,83,35,4,0,K.J. Lee missed Free Throw.
+Marist,VMI,66,83,35,4,0,Jarid Watson Defensive Rebound.
+Marist,VMI,66,83,35,29,0,Tim Marshall Turnover.
+Marist,VMI,66,83,36,0,0,Phillip Lawrence missed Jumper.
+Marist,VMI,66,83,36,0,0,Manny Thomas Offensive Rebound.
+Marist,VMI,68,83,36,3,1,Manny Thomas made Layup.
+Marist,VMI,68,83,36,3,0,Marist  Timeout
+Marist,VMI,68,83,36,23,0,QJ Peterson missed Jumper.
+Marist,VMI,68,83,36,23,0,Phillip Lawrence Defensive Rebound.
+Marist,VMI,68,83,36,25,0,Official TV Timeout
+Marist,VMI,68,83,36,33,0,James Griffin Turnover.
+Marist,VMI,68,83,36,35,0,Brian Brown Steal.
+Marist,VMI,68,85,36,38,1,Trey Chapman made Layup. Assisted by Brian Brown.
+Marist,VMI,70,85,36,53,1,Eric Truog made Jumper.
+Marist,VMI,70,85,36,53,0,Foul on Jarid Watson.
+Marist,VMI,71,85,36,53,1,Eric Truog made Free Throw.
+Marist,VMI,71,85,37,41,0,Jordan Weethee missed Layup.
+Marist,VMI,71,85,37,41,0,Jarid Watson Offensive Rebound.
+Marist,VMI,71,85,37,44,0,Jarid Watson missed Jumper.
+Marist,VMI,71,85,37,44,0,Phillip Lawrence Defensive Rebound.
+Marist,VMI,73,85,37,55,1,Eric Truog made Layup. Assisted by Manny Thomas.
+Marist,VMI,73,85,37,56,0,Marist  Timeout
+Marist,VMI,73,85,38,1,0,Foul on Manny Thomas.
+Marist,VMI,73,86,38,1,1,Trey Chapman made Free Throw.
+Marist,VMI,73,87,38,1,1,Trey Chapman made Free Throw.
+Marist,VMI,73,87,38,9,0,Manny Thomas missed Three Point Jumper.
+Marist,VMI,73,87,38,9,0,Jordan Weethee Defensive Rebound.
+Marist,VMI,73,87,38,21,0,QJ Peterson Turnover.
+Marist,VMI,73,87,38,31,0,Phillip Lawrence missed Three Point Jumper.
+Marist,VMI,73,87,38,31,0,Trey Chapman Defensive Rebound.
+Marist,VMI,73,87,38,37,0,Foul on Manny Thomas.
+Marist,VMI,73,88,38,37,1,QJ Peterson made Free Throw.
+Marist,VMI,73,89,38,37,1,QJ Peterson made Free Throw.
+Marist,VMI,75,89,38,44,1,Phillip Lawrence made Dunk. Assisted by K.J. Lee.
+Marist,VMI,75,89,38,44,0,Marist  Timeout
+Marist,VMI,75,89,38,45,0,Brian Brown Turnover.
+Marist,VMI,75,89,38,49,0,Foul on Jarid Watson.
+Marist,VMI,76,89,38,49,1,Manny Thomas made Free Throw.
+Marist,VMI,77,89,38,49,1,Manny Thomas made Free Throw.
+Marist,VMI,77,89,39,2,0,Foul on Manny Thomas.
+Marist,VMI,77,90,39,2,1,QJ Peterson made Free Throw.
+Marist,VMI,77,90,39,2,0,QJ Peterson missed Free Throw.
+Marist,VMI,77,90,39,2,0,Phillip Lawrence Defensive Rebound.
+Marist,VMI,77,90,39,14,0,Tourron Whitfield missed Three Point Jumper.
+Marist,VMI,77,90,39,14,0,Phillip Anglade Defensive Rebound.
+Marist,VMI,77,90,39,25,0,Foul on Phillip Lawrence.
+Marist,VMI,77,91,39,25,1,Julian Eleby made Free Throw.
+Marist,VMI,77,92,39,25,1,Julian Eleby made Free Throw.
+Marist,VMI,77,92,39,35,0,Manny Thomas missed Jumper.
+Marist,VMI,77,92,39,35,0,Jordan Weethee Defensive Rebound.
+Marist,VMI,77,92,40,0,0,End of Game

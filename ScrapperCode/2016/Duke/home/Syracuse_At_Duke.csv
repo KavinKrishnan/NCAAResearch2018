@@ -1,0 +1,322 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Syracuse,Duke,0,0,0,0,0,Jump Ball won by Syracuse
+Syracuse,Duke,0,0,0,16,0,DaJuan Coleman missed Layup.
+Syracuse,Duke,0,0,0,16,0,Marshall Plumlee Block.
+Syracuse,Duke,0,0,0,16,0,Brandon Ingram Defensive Rebound.
+Syracuse,Duke,0,0,0,27,0,Luke Kennard missed Three Point Jumper.
+Syracuse,Duke,0,0,0,27,0,Malachi Richardson Defensive Rebound.
+Syracuse,Duke,0,0,0,40,0,DaJuan Coleman missed Layup.
+Syracuse,Duke,0,0,0,40,0,Luke Kennard Defensive Rebound.
+Syracuse,Duke,0,0,1,7,0,Brandon Ingram missed Three Point Jumper.
+Syracuse,Duke,0,0,1,7,0,Tyler Roberson Defensive Rebound.
+Syracuse,Duke,0,0,1,18,0,Foul on Matt Jones.
+Syracuse,Duke,0,0,1,24,0,DaJuan Coleman missed Jumper.
+Syracuse,Duke,0,0,1,24,0,Luke Kennard Defensive Rebound.
+Syracuse,Duke,0,0,1,55,0,Matt Jones missed Three Point Jumper.
+Syracuse,Duke,0,0,1,55,0,Brandon Ingram Offensive Rebound.
+Syracuse,Duke,0,0,2,1,0,Luke Kennard missed Three Point Jumper.
+Syracuse,Duke,0,0,2,1,0,Malachi Richardson Defensive Rebound.
+Syracuse,Duke,3,0,2,10,1,Malachi Richardson made Three Point Jumper. Assisted by Michael Gbinije.
+Syracuse,Duke,3,0,2,37,0,Grayson Allen missed Jumper.
+Syracuse,Duke,3,0,2,44,0,DaJuan Coleman Defensive Rebound.
+Syracuse,Duke,3,0,2,49,0,DaJuan Coleman Turnover.
+Syracuse,Duke,3,0,2,49,0,Marshall Plumlee Steal.
+Syracuse,Duke,3,0,2,57,0,Luke Kennard missed Jumper.
+Syracuse,Duke,3,0,2,57,0,DaJuan Coleman Defensive Rebound.
+Syracuse,Duke,3,0,3,2,0,Foul on Luke Kennard.
+Syracuse,Duke,3,0,3,26,0,Michael Gbinije missed Three Point Jumper.
+Syracuse,Duke,3,0,3,26,0,Marshall Plumlee Defensive Rebound.
+Syracuse,Duke,3,0,3,46,0,Brandon Ingram Turnover.
+Syracuse,Duke,3,0,3,46,0,Michael Gbinije Steal.
+Syracuse,Duke,5,0,3,52,1,Tyler Roberson made Jumper. Assisted by Michael Gbinije.
+Syracuse,Duke,5,0,4,14,0,Matt Jones missed Three Point Jumper.
+Syracuse,Duke,5,0,4,14,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,5,0,4,17,0,Foul on Malachi Richardson.
+Syracuse,Duke,5,0,4,17,0,Official TV Timeout
+Syracuse,Duke,5,0,4,25,0,Grayson Allen missed Three Point Jumper.
+Syracuse,Duke,5,0,4,25,0,Tyler Roberson Defensive Rebound.
+Syracuse,Duke,5,0,4,48,0,Malachi Richardson missed Jumper.
+Syracuse,Duke,5,0,4,48,0,Luke Kennard Defensive Rebound.
+Syracuse,Duke,5,3,5,19,1,Matt Jones made Three Point Jumper. Assisted by Luke Kennard.
+Syracuse,Duke,5,3,5,35,0,Trevor Cooney missed Jumper.
+Syracuse,Duke,5,3,5,35,0,Brandon Ingram Defensive Rebound.
+Syracuse,Duke,5,3,5,46,0,Foul on DaJuan Coleman.
+Syracuse,Duke,5,4,5,46,1,Marshall Plumlee made Free Throw.
+Syracuse,Duke,5,5,5,46,1,Marshall Plumlee made Free Throw.
+Syracuse,Duke,7,5,5,51,1,Michael Gbinije made Layup.
+Syracuse,Duke,7,5,6,18,0,Matt Jones missed Three Point Jumper.
+Syracuse,Duke,7,5,6,18,0,Brandon Ingram Offensive Rebound.
+Syracuse,Duke,7,7,6,18,1,Brandon Ingram made Two Point Tip Shot.
+Syracuse,Duke,9,7,6,46,1,Tyler Roberson made Layup.
+Syracuse,Duke,9,10,7,0,1,Brandon Ingram made Three Point Jumper. Assisted by Matt Jones.
+Syracuse,Duke,9,10,7,13,0,Foul on Michael Gbinije.
+Syracuse,Duke,9,10,7,13,0,Michael Gbinije Turnover.
+Syracuse,Duke,9,10,7,30,0,Derryck Thornton Turnover.
+Syracuse,Duke,9,10,7,53,0,Malachi Richardson missed Jumper.
+Syracuse,Duke,9,10,7,53,0,DaJuan Coleman Offensive Rebound.
+Syracuse,Duke,9,10,7,56,0,Foul on Sean Obi.
+Syracuse,Duke,9,10,8,25,0,Franklin Howard Turnover.
+Syracuse,Duke,9,10,8,25,0,Official TV Timeout
+Syracuse,Duke,9,10,8,36,0,Luke Kennard missed Three Point Jumper.
+Syracuse,Duke,9,10,8,36,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,9,10,8,59,0,Derryck Thornton missed Three Point Jumper.
+Syracuse,Duke,9,10,8,59,0,Malachi Richardson Defensive Rebound.
+Syracuse,Duke,9,10,9,27,0,Malachi Richardson missed Jumper.
+Syracuse,Duke,9,10,9,27,0,Tyler Lydon Offensive Rebound.
+Syracuse,Duke,9,10,9,32,0,Malachi Richardson missed Jumper.
+Syracuse,Duke,9,10,9,32,0,Brandon Ingram Defensive Rebound.
+Syracuse,Duke,9,10,9,46,0,Grayson Allen missed Three Point Jumper.
+Syracuse,Duke,9,10,9,46,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,9,12,9,51,1,Marshall Plumlee made Layup.
+Syracuse,Duke,9,12,9,51,0,Foul on DaJuan Coleman.
+Syracuse,Duke,9,13,9,51,1,Marshall Plumlee made Free Throw.
+Syracuse,Duke,11,13,10,10,1,Tyler Roberson made Dunk. Assisted by Michael Gbinije.
+Syracuse,Duke,11,16,10,32,1,Brandon Ingram made Three Point Jumper. Assisted by Matt Jones.
+Syracuse,Duke,11,16,10,56,0,Tyler Roberson missed Jumper.
+Syracuse,Duke,11,16,10,56,0,Derryck Thornton Defensive Rebound.
+Syracuse,Duke,11,16,11,17,0,Luke Kennard missed Three Point Jumper.
+Syracuse,Duke,11,16,11,17,0,Tyler Lydon Defensive Rebound.
+Syracuse,Duke,14,16,11,41,1,Tyler Lydon made Three Point Jumper. Assisted by Michael Gbinije.
+Syracuse,Duke,14,16,12,3,0,Grayson Allen Turnover.
+Syracuse,Duke,14,16,12,3,0,Tyler Lydon Steal.
+Syracuse,Duke,16,16,12,9,1,Michael Gbinije made Layup.
+Syracuse,Duke,16,18,12,25,1,Marshall Plumlee made Layup. Assisted by Matt Jones.
+Syracuse,Duke,16,18,12,52,0,Trevor Cooney Turnover.
+Syracuse,Duke,16,18,12,52,0,Grayson Allen Steal.
+Syracuse,Duke,16,18,13,1,0,Official TV Timeout
+Syracuse,Duke,16,18,13,18,0,Matt Jones missed Three Point Jumper.
+Syracuse,Duke,16,18,13,18,0,Tyler Roberson Defensive Rebound.
+Syracuse,Duke,16,18,13,38,0,Tyler Lydon missed Jumper.
+Syracuse,Duke,16,18,13,38,0,Luke Kennard Defensive Rebound.
+Syracuse,Duke,16,18,13,46,0,Matt Jones missed Three Point Jumper.
+Syracuse,Duke,16,18,13,46,0,Duke Offensive Rebound.
+Syracuse,Duke,16,18,14,0,0,Luke Kennard missed Jumper.
+Syracuse,Duke,16,18,14,0,0,Syracuse Defensive Rebound.
+Syracuse,Duke,16,18,14,3,0,Foul on Luke Kennard.
+Syracuse,Duke,16,18,14,13,0,Michael Gbinije Turnover.
+Syracuse,Duke,16,18,14,13,0,Matt Jones Steal.
+Syracuse,Duke,16,18,14,13,0,Foul on Malachi Richardson.
+Syracuse,Duke,16,18,14,23,0,Foul on Tyler Roberson.
+Syracuse,Duke,16,18,14,32,0,Derryck Thornton Turnover.
+Syracuse,Duke,16,18,14,53,0,Tyler Lydon missed Jumper.
+Syracuse,Duke,16,18,14,53,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,16,18,14,58,0,Tyler Roberson missed Layup.
+Syracuse,Duke,16,18,14,58,0,Marshall Plumlee Block.
+Syracuse,Duke,16,18,14,58,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,16,18,15,3,0,Tyler Lydon missed Layup.
+Syracuse,Duke,16,18,15,3,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,18,18,15,4,1,Tyler Roberson made Layup.
+Syracuse,Duke,18,18,15,4,0,Foul on Derryck Thornton.
+Syracuse,Duke,18,18,15,4,0,Tyler Roberson missed Free Throw.
+Syracuse,Duke,18,18,15,4,0,Duke Deadball Team Rebound.
+Syracuse,Duke,18,18,15,14,0,Brandon Ingram missed Layup.
+Syracuse,Duke,18,18,15,14,0,Tyler Lydon Defensive Rebound.
+Syracuse,Duke,18,18,15,19,0,Franklin Howard missed Jumper.
+Syracuse,Duke,18,18,15,19,0,Tyler Lydon Offensive Rebound.
+Syracuse,Duke,18,18,15,24,0,Michael Gbinije missed Three Point Jumper.
+Syracuse,Duke,18,18,15,24,0,Duke Defensive Rebound.
+Syracuse,Duke,18,18,15,47,0,Derryck Thornton missed Jumper.
+Syracuse,Duke,18,18,15,47,0,Tyler Roberson Defensive Rebound.
+Syracuse,Duke,21,18,15,55,1,Trevor Cooney made Three Point Jumper. Assisted by Franklin Howard.
+Syracuse,Duke,21,18,16,12,0,Foul on Michael Gbinije.
+Syracuse,Duke,21,18,16,12,0,Official TV Timeout
+Syracuse,Duke,21,19,16,12,1,Marshall Plumlee made Free Throw.
+Syracuse,Duke,21,20,16,12,1,Marshall Plumlee made Free Throw.
+Syracuse,Duke,21,20,16,26,0,Foul on Grayson Allen.
+Syracuse,Duke,22,20,16,26,1,Trevor Cooney made Free Throw.
+Syracuse,Duke,23,20,16,26,1,Trevor Cooney made Free Throw.
+Syracuse,Duke,23,23,16,53,1,Grayson Allen made Three Point Jumper. Assisted by Matt Jones.
+Syracuse,Duke,23,23,17,9,0,Tyler Roberson missed Layup.
+Syracuse,Duke,23,23,17,9,0,Marshall Plumlee Block.
+Syracuse,Duke,23,23,17,9,0,Franklin Howard Offensive Rebound.
+Syracuse,Duke,23,23,17,9,0,Franklin Howard missed Layup.
+Syracuse,Duke,23,23,17,9,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,23,23,17,14,0,Tyler Roberson missed Layup.
+Syracuse,Duke,23,23,17,14,0,Marshall Plumlee Defensive Rebound.
+Syracuse,Duke,23,23,17,27,0,Brandon Ingram missed Three Point Jumper.
+Syracuse,Duke,23,23,17,27,0,Tyler Roberson Defensive Rebound.
+Syracuse,Duke,23,23,17,37,0,Foul on Michael Gbinije.
+Syracuse,Duke,23,23,17,37,0,Michael Gbinije Turnover.
+Syracuse,Duke,23,26,17,49,1,Grayson Allen made Three Point Jumper. Assisted by Luke Kennard.
+Syracuse,Duke,23,26,17,53,0,Syracuse  Timeout
+Syracuse,Duke,23,26,18,6,0,Malachi Richardson missed Jumper.
+Syracuse,Duke,23,26,18,6,0,Syracuse Offensive Rebound.
+Syracuse,Duke,23,26,18,9,0,Foul on Matt Jones.
+Syracuse,Duke,23,26,18,9,0,Tyler Roberson missed Free Throw.
+Syracuse,Duke,23,26,18,9,0,Marshall Plumlee Defensive Rebound.
+Syracuse,Duke,23,26,18,24,0,Matt Jones missed Three Point Jumper.
+Syracuse,Duke,23,26,18,24,0,Brandon Ingram Offensive Rebound.
+Syracuse,Duke,23,28,18,35,1,Grayson Allen made Layup.
+Syracuse,Duke,23,28,18,35,0,Foul on Tyler Lydon.
+Syracuse,Duke,23,29,18,35,1,Grayson Allen made Free Throw.
+Syracuse,Duke,23,29,18,53,0,Trevor Cooney missed Jumper.
+Syracuse,Duke,23,29,18,53,0,Duke Defensive Rebound.
+Syracuse,Duke,23,29,19,25,0,Grayson Allen missed Three Point Jumper.
+Syracuse,Duke,23,29,19,25,0,Malachi Richardson Defensive Rebound.
+Syracuse,Duke,23,29,19,43,0,Trevor Cooney missed Jumper.
+Syracuse,Duke,23,29,19,43,0,Syracuse Offensive Rebound.
+Syracuse,Duke,26,29,19,54,1,Trevor Cooney made Three Point Jumper.
+Syracuse,Duke,26,29,19,57,0,Duke  Timeout
+Syracuse,Duke,26,29,20,0,0,End of 1st half
+Syracuse,Duke,26,29,20,0,0,Jump Ball won by Duke
+Syracuse,Duke,26,29,20,14,0,Luke Kennard missed Three Point Jumper.
+Syracuse,Duke,26,29,20,14,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,26,31,20,35,1,Grayson Allen made Layup.
+Syracuse,Duke,28,31,20,45,1,Michael Gbinije made Layup.
+Syracuse,Duke,28,33,21,2,1,Marshall Plumlee made Layup. Assisted by Matt Jones.
+Syracuse,Duke,28,33,21,2,0,Foul on DaJuan Coleman.
+Syracuse,Duke,28,33,21,2,0,Marshall Plumlee missed Free Throw.
+Syracuse,Duke,28,33,21,2,0,DaJuan Coleman Defensive Rebound.
+Syracuse,Duke,28,33,21,19,0,Malachi Richardson missed Jumper.
+Syracuse,Duke,28,33,21,19,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,28,33,21,23,0,Foul on Matt Jones.
+Syracuse,Duke,28,33,21,29,0,Tyler Roberson missed Layup.
+Syracuse,Duke,28,33,21,29,0,DaJuan Coleman Offensive Rebound.
+Syracuse,Duke,28,33,21,34,0,DaJuan Coleman missed Layup.
+Syracuse,Duke,28,33,21,34,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,28,33,21,38,0,Malachi Richardson missed Three Point Jumper.
+Syracuse,Duke,28,33,21,38,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,28,33,21,50,0,Michael Gbinije missed Layup.
+Syracuse,Duke,28,33,21,50,0,Marshall Plumlee Block.
+Syracuse,Duke,28,33,21,50,0,Syracuse Offensive Rebound.
+Syracuse,Duke,28,33,21,55,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,Duke,28,33,21,55,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,28,33,22,0,0,Tyler Roberson missed Layup.
+Syracuse,Duke,28,33,22,0,0,Marshall Plumlee Defensive Rebound.
+Syracuse,Duke,28,33,22,20,0,Brandon Ingram missed Three Point Jumper.
+Syracuse,Duke,28,33,22,20,0,Tyler Roberson Defensive Rebound.
+Syracuse,Duke,30,33,22,36,1,Malachi Richardson made Layup.
+Syracuse,Duke,30,33,23,3,0,Luke Kennard missed Three Point Jumper.
+Syracuse,Duke,30,33,23,3,0,Trevor Cooney Defensive Rebound.
+Syracuse,Duke,30,33,23,11,0,Malachi Richardson missed Three Point Jumper.
+Syracuse,Duke,30,33,23,11,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,30,33,23,17,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,Duke,30,33,23,17,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,33,33,23,22,1,Michael Gbinije made Three Point Jumper. Assisted by Tyler Roberson.
+Syracuse,Duke,33,33,23,42,0,Brandon Ingram Turnover.
+Syracuse,Duke,33,33,23,42,0,DaJuan Coleman Steal.
+Syracuse,Duke,33,33,23,50,0,Michael Gbinije missed Three Point Jumper.
+Syracuse,Duke,33,33,23,50,0,Brandon Ingram Defensive Rebound.
+Syracuse,Duke,33,36,24,8,1,Matt Jones made Three Point Jumper. Assisted by Brandon Ingram.
+Syracuse,Duke,33,36,24,31,0,Foul on Marshall Plumlee.
+Syracuse,Duke,33,36,24,31,0,Official TV Timeout
+Syracuse,Duke,33,36,24,36,0,Michael Gbinije missed Jumper.
+Syracuse,Duke,33,36,24,36,0,Tyler Lydon Offensive Rebound.
+Syracuse,Duke,33,36,24,40,0,Tyler Lydon missed Jumper.
+Syracuse,Duke,33,36,24,40,0,Tyler Lydon Offensive Rebound.
+Syracuse,Duke,35,36,24,47,1,Tyler Lydon made Layup.
+Syracuse,Duke,35,38,25,12,1,Marshall Plumlee made Dunk. Assisted by Brandon Ingram.
+Syracuse,Duke,35,38,25,33,0,DaJuan Coleman Turnover.
+Syracuse,Duke,35,38,25,33,0,Matt Jones Steal.
+Syracuse,Duke,35,38,25,44,0,Grayson Allen Turnover.
+Syracuse,Duke,35,38,26,1,0,Trevor Cooney missed Jumper.
+Syracuse,Duke,35,38,26,1,0,Michael Gbinije Offensive Rebound.
+Syracuse,Duke,35,38,26,8,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,Duke,35,38,26,8,0,Marshall Plumlee Defensive Rebound.
+Syracuse,Duke,35,38,26,18,0,Grayson Allen missed Layup.
+Syracuse,Duke,35,38,26,18,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,35,41,26,23,1,Brandon Ingram made Three Point Jumper. Assisted by Matt Jones.
+Syracuse,Duke,35,41,26,41,0,Tyler Lydon missed Layup.
+Syracuse,Duke,35,41,26,41,0,Tyler Lydon Offensive Rebound.
+Syracuse,Duke,37,41,26,46,1,Malachi Richardson made Jumper.
+Syracuse,Duke,37,41,27,14,0,Brandon Ingram missed Three Point Jumper.
+Syracuse,Duke,37,41,27,14,0,Duke Offensive Rebound.
+Syracuse,Duke,37,41,27,34,0,Sean Obi Turnover.
+Syracuse,Duke,37,41,27,34,0,Malachi Richardson Steal.
+Syracuse,Duke,40,41,27,40,1,Trevor Cooney made Three Point Jumper. Assisted by Tyler Roberson.
+Syracuse,Duke,40,41,28,9,0,Brandon Ingram missed Three Point Jumper.
+Syracuse,Duke,40,41,28,9,0,Malachi Richardson Defensive Rebound.
+Syracuse,Duke,43,41,28,17,1,Malachi Richardson made Three Point Jumper. Assisted by Michael Gbinije.
+Syracuse,Duke,43,41,28,20,0,Duke  Timeout
+Syracuse,Duke,43,41,28,43,0,Marshall Plumlee missed Layup.
+Syracuse,Duke,43,41,28,43,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,43,41,28,49,0,Marshall Plumlee missed Layup.
+Syracuse,Duke,43,41,28,49,0,Tyler Lydon Block.
+Syracuse,Duke,43,41,28,49,0,Tyler Roberson Defensive Rebound.
+Syracuse,Duke,43,41,28,53,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,Duke,43,41,28,53,0,Tyler Lydon Offensive Rebound.
+Syracuse,Duke,43,41,28,58,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,Duke,43,41,28,58,0,Matt Jones Defensive Rebound.
+Syracuse,Duke,43,41,29,17,0,Matt Jones missed Three Point Jumper.
+Syracuse,Duke,43,41,29,17,0,Tyler Roberson Defensive Rebound.
+Syracuse,Duke,43,41,29,33,0,Foul on Matt Jones.
+Syracuse,Duke,43,41,29,33,0,Official TV Timeout
+Syracuse,Duke,43,41,29,40,0,Malachi Richardson missed Jumper.
+Syracuse,Duke,43,41,29,40,0,Brandon Ingram Defensive Rebound.
+Syracuse,Duke,43,43,30,5,1,Grayson Allen made Layup.
+Syracuse,Duke,45,43,30,20,1,Tyler Roberson made Dunk. Assisted by Michael Gbinije.
+Syracuse,Duke,45,43,30,31,0,Foul on Trevor Cooney.
+Syracuse,Duke,45,46,30,41,1,Grayson Allen made Three Point Jumper. Assisted by Derryck Thornton.
+Syracuse,Duke,47,46,30,54,1,Michael Gbinije made Layup.
+Syracuse,Duke,47,48,31,9,1,Marshall Plumlee made Layup.
+Syracuse,Duke,50,48,31,20,1,Malachi Richardson made Three Point Jumper. Assisted by Michael Gbinije.
+Syracuse,Duke,50,48,31,34,0,Foul on Brandon Ingram.
+Syracuse,Duke,50,48,31,34,0,Brandon Ingram Turnover.
+Syracuse,Duke,50,48,31,50,0,Foul on Grayson Allen.
+Syracuse,Duke,50,48,31,58,0,Michael Gbinije Turnover.
+Syracuse,Duke,50,48,32,17,0,Luke Kennard missed Three Point Jumper.
+Syracuse,Duke,50,48,32,17,0,Syracuse Defensive Rebound.
+Syracuse,Duke,50,48,32,22,0,Official TV Timeout
+Syracuse,Duke,50,48,32,43,0,Malachi Richardson missed Jumper.
+Syracuse,Duke,50,48,32,43,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,53,48,32,48,1,Trevor Cooney made Three Point Jumper. Assisted by Tyler Roberson.
+Syracuse,Duke,53,51,33,21,1,Derryck Thornton made Three Point Jumper. Assisted by Brandon Ingram.
+Syracuse,Duke,56,51,33,36,1,Tyler Lydon made Three Point Jumper. Assisted by Malachi Richardson.
+Syracuse,Duke,56,51,34,12,0,Brandon Ingram missed Jumper.
+Syracuse,Duke,56,51,34,12,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,56,51,34,17,0,Foul on Tyler Lydon.
+Syracuse,Duke,56,51,34,17,0,Marshall Plumlee missed Free Throw.
+Syracuse,Duke,56,51,34,17,0,Duke Deadball Team Rebound.
+Syracuse,Duke,56,51,34,17,0,Marshall Plumlee missed Free Throw.
+Syracuse,Duke,56,51,34,17,0,Tyler Lydon Defensive Rebound.
+Syracuse,Duke,59,51,34,36,1,Michael Gbinije made Three Point Jumper.
+Syracuse,Duke,59,53,35,5,1,Marshall Plumlee made Dunk. Assisted by Matt Jones.
+Syracuse,Duke,59,53,35,19,0,Trevor Cooney missed Jumper.
+Syracuse,Duke,59,53,35,19,0,Grayson Allen Block.
+Syracuse,Duke,59,53,35,19,0,Syracuse Offensive Rebound.
+Syracuse,Duke,61,53,35,35,1,Tyler Roberson made Layup. Assisted by Michael Gbinije.
+Syracuse,Duke,61,53,36,0,0,Grayson Allen missed Three Point Jumper.
+Syracuse,Duke,61,53,36,0,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,61,53,36,4,0,Marshall Plumlee missed Layup.
+Syracuse,Duke,61,53,36,4,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,61,53,36,4,0,Marshall Plumlee missed Two Point Tip Shot.
+Syracuse,Duke,61,53,36,4,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,61,53,36,7,0,Marshall Plumlee Turnover.
+Syracuse,Duke,61,53,36,7,0,Michael Gbinije Steal.
+Syracuse,Duke,61,53,36,13,0,Malachi Richardson missed Three Point Jumper.
+Syracuse,Duke,61,53,36,13,0,Tyler Roberson Offensive Rebound.
+Syracuse,Duke,61,53,36,22,0,Tyler Lydon missed Three Point Jumper.
+Syracuse,Duke,61,53,36,22,0,Derryck Thornton Defensive Rebound.
+Syracuse,Duke,61,56,36,38,1,Derryck Thornton made Three Point Jumper. Assisted by Grayson Allen.
+Syracuse,Duke,61,56,37,0,0,Tyler Roberson missed Jumper.
+Syracuse,Duke,61,56,37,0,0,Grayson Allen Defensive Rebound.
+Syracuse,Duke,61,56,37,18,0,Matt Jones missed Three Point Jumper.
+Syracuse,Duke,61,56,37,18,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,61,56,37,34,0,Grayson Allen missed Three Point Jumper.
+Syracuse,Duke,61,56,37,34,0,Derryck Thornton Offensive Rebound.
+Syracuse,Duke,61,56,37,38,0,Matt Jones missed Three Point Jumper.
+Syracuse,Duke,61,56,37,38,0,Brandon Ingram Offensive Rebound.
+Syracuse,Duke,61,58,37,41,1,Brandon Ingram made Two Point Tip Shot.
+Syracuse,Duke,61,58,37,42,0,Duke  Timeout
+Syracuse,Duke,61,58,37,42,0,Official TV Timeout
+Syracuse,Duke,63,58,38,2,1,Tyler Roberson made Layup. Assisted by Michael Gbinije.
+Syracuse,Duke,63,58,38,2,0,Foul on Brandon Ingram.
+Syracuse,Duke,63,58,38,2,0,Tyler Roberson missed Free Throw.
+Syracuse,Duke,63,58,38,2,0,Brandon Ingram Defensive Rebound.
+Syracuse,Duke,63,60,38,31,1,Grayson Allen made Layup.
+Syracuse,Duke,63,60,38,32,0,Duke  Timeout
+Syracuse,Duke,63,60,38,57,0,Trevor Cooney missed Jumper.
+Syracuse,Duke,63,60,38,57,0,Marshall Plumlee Defensive Rebound.
+Syracuse,Duke,63,62,39,28,1,Marshall Plumlee made Layup.
+Syracuse,Duke,63,62,39,30,0,Foul on Derryck Thornton.
+Syracuse,Duke,63,62,39,30,0,Michael Gbinije missed Free Throw.
+Syracuse,Duke,63,62,39,30,0,Brandon Ingram Defensive Rebound.
+Syracuse,Duke,63,62,39,47,0,Foul on Trevor Cooney.
+Syracuse,Duke,63,62,39,49,0,Foul on Michael Gbinije.
+Syracuse,Duke,63,62,39,53,0,Grayson Allen missed Layup.
+Syracuse,Duke,63,62,39,53,0,Malachi Richardson Defensive Rebound.
+Syracuse,Duke,63,62,39,57,0,Foul on Derryck Thornton.
+Syracuse,Duke,64,62,39,57,1,Malachi Richardson made Free Throw.
+Syracuse,Duke,64,62,39,57,0,Malachi Richardson missed Free Throw.
+Syracuse,Duke,64,62,39,57,0,Matt Jones Defensive Rebound.
+Syracuse,Duke,64,62,40,0,0,End of Game

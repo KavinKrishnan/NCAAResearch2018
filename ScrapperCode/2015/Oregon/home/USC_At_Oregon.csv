@@ -1,0 +1,391 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+USC,Oregon,0,2,0,15,1,Elgin Cook made Layup.
+USC,Oregon,0,2,0,33,0,Julian Jacobs missed Layup.
+USC,Oregon,0,2,0,33,0,Jordan Bell Block.
+USC,Oregon,0,2,0,34,0,Joseph Young Defensive Rebound.
+USC,Oregon,0,5,1,4,1,Joseph Young made Three Point Jumper. Assisted by Ahmaad Rorie.
+USC,Oregon,0,5,1,27,0,Jordan McLaughlin missed Jumper.
+USC,Oregon,0,5,1,27,0,Malik Martin Offensive Rebound.
+USC,Oregon,0,5,1,34,0,Malik Marquetti missed Layup.
+USC,Oregon,0,5,1,34,0,Jordan Bell Block.
+USC,Oregon,0,5,1,36,0,Jordan Bell Defensive Rebound.
+USC,Oregon,0,7,1,46,1,Ahmaad Rorie made Jumper.
+USC,Oregon,0,7,1,50,0,USC  Timeout
+USC,Oregon,2,7,2,15,1,Malik Marquetti made Jumper.
+USC,Oregon,2,9,2,31,1,Elgin Cook made Layup.
+USC,Oregon,2,9,2,43,0,Malik Martin missed Layup.
+USC,Oregon,2,9,2,43,0,Joseph Young Defensive Rebound.
+USC,Oregon,2,9,2,49,0,Foul on Julian Jacobs.
+USC,Oregon,2,10,2,49,1,Dillon Brooks made Free Throw.
+USC,Oregon,2,11,2,49,1,Dillon Brooks made Free Throw.
+USC,Oregon,2,11,3,9,0,Strahinja Gavrilovic missed Jumper.
+USC,Oregon,2,11,3,9,0,Jordan Bell Defensive Rebound.
+USC,Oregon,2,11,3,21,0,Dillon Brooks missed Three Point Jumper.
+USC,Oregon,2,11,3,21,0,Jordan Bell Offensive Rebound.
+USC,Oregon,2,13,3,24,1,Jordan Bell made Two Point Tip Shot.
+USC,Oregon,2,13,3,42,0,Julian Jacobs Turnover.
+USC,Oregon,2,13,3,43,0,Jordan Bell Steal.
+USC,Oregon,2,16,3,47,1,Joseph Young made Three Point Jumper. Assisted by Jordan Bell.
+USC,Oregon,2,16,3,49,0,USC  Timeout
+USC,Oregon,2,16,4,4,0,Malik Marquetti missed Three Point Jumper.
+USC,Oregon,2,16,4,4,0,Jordan Bell Defensive Rebound.
+USC,Oregon,2,16,4,11,0,Jordan Bell Turnover.
+USC,Oregon,2,16,4,11,0,Official TV Timeout
+USC,Oregon,2,16,4,26,0,Foul on Elgin Cook.
+USC,Oregon,5,16,4,28,1,Jordan McLaughlin made Three Point Jumper. Assisted by Nikola Jovanovic.
+USC,Oregon,5,16,4,58,0,Dillon Brooks Turnover.
+USC,Oregon,7,16,5,8,1,Katin Reinhardt made Jumper. Assisted by Malik Marquetti.
+USC,Oregon,7,16,5,32,0,Foul on Malik Marquetti.
+USC,Oregon,7,19,5,42,1,Jalil Abdul-Bassit made Three Point Jumper. Assisted by Casey Benson.
+USC,Oregon,9,19,6,7,1,Strahinja Gavrilovic made Layup.
+USC,Oregon,9,19,6,28,0,Jalil Abdul-Bassit missed Jumper.
+USC,Oregon,9,19,6,28,0,Nikola Jovanovic Defensive Rebound.
+USC,Oregon,9,19,6,35,0,Foul on Casey Benson.
+USC,Oregon,10,19,6,35,1,Jordan McLaughlin made Free Throw.
+USC,Oregon,11,19,6,35,1,Jordan McLaughlin made Free Throw.
+USC,Oregon,11,19,6,40,0,Joseph Young missed Three Point Jumper.
+USC,Oregon,11,19,6,40,0,Elijah Stewart Defensive Rebound.
+USC,Oregon,13,19,6,49,1,Strahinja Gavrilovic made Layup. Assisted by Darion Clark.
+USC,Oregon,13,19,6,49,0,Foul on Dwayne Benjamin.
+USC,Oregon,13,19,6,49,0,Strahinja Gavrilovic missed Free Throw.
+USC,Oregon,13,19,6,49,0,Casey Benson Defensive Rebound.
+USC,Oregon,13,19,6,59,0,Joseph Young missed Layup.
+USC,Oregon,13,19,6,59,0,Darion Clark Defensive Rebound.
+USC,Oregon,13,19,7,9,0,Jordan McLaughlin missed Jumper.
+USC,Oregon,13,19,7,9,0,USC Offensive Rebound.
+USC,Oregon,13,19,7,25,0,Strahinja Gavrilovic missed Jumper.
+USC,Oregon,13,19,7,25,0,Joseph Young Defensive Rebound.
+USC,Oregon,13,19,7,32,0,Joseph Young missed Layup.
+USC,Oregon,13,19,7,32,0,USC Deadball Team Rebound.
+USC,Oregon,13,19,7,33,0,Technical Foul on Elgin Cook.
+USC,Oregon,13,19,7,33,0,Katin Reinhardt missed Free Throw.
+USC,Oregon,13,19,7,33,0,USC Deadball Team Rebound.
+USC,Oregon,14,19,7,33,1,Katin Reinhardt made Free Throw.
+USC,Oregon,14,19,7,46,0,Strahinja Gavrilovic Turnover.
+USC,Oregon,14,19,7,46,0,Michael Chandler Steal.
+USC,Oregon,14,19,8,4,0,Jalil Abdul-Bassit missed Three Point Jumper.
+USC,Oregon,14,19,8,4,0,Elgin Cook Offensive Rebound.
+USC,Oregon,14,19,8,10,0,Ahmaad Rorie missed Layup.
+USC,Oregon,14,19,8,10,0,Elijah Stewart Block.
+USC,Oregon,14,19,8,11,0,Michael Chandler Offensive Rebound.
+USC,Oregon,14,19,8,13,0,Foul on Malik Martin.
+USC,Oregon,14,19,8,13,0,Official TV Timeout
+USC,Oregon,14,20,8,13,1,Michael Chandler made Free Throw.
+USC,Oregon,14,21,8,13,1,Michael Chandler made Free Throw.
+USC,Oregon,14,21,8,22,0,Katin Reinhardt missed Three Point Jumper.
+USC,Oregon,14,21,8,22,0,Ahmaad Rorie Defensive Rebound.
+USC,Oregon,14,24,8,29,1,Jalil Abdul-Bassit made Three Point Jumper. Assisted by Ahmaad Rorie.
+USC,Oregon,16,24,9,3,1,Katin Reinhardt made Jumper.
+USC,Oregon,16,24,9,14,0,Jalil Abdul-Bassit missed Three Point Jumper.
+USC,Oregon,16,24,9,14,0,Malik Martin Defensive Rebound.
+USC,Oregon,16,24,9,27,0,Elijah Stewart missed Jumper.
+USC,Oregon,16,24,9,27,0,Michael Chandler Defensive Rebound.
+USC,Oregon,16,24,9,39,0,Michael Chandler Turnover.
+USC,Oregon,16,24,9,40,0,Elijah Stewart Steal.
+USC,Oregon,16,24,9,44,0,Foul on Ahmaad Rorie.
+USC,Oregon,17,24,9,44,1,Katin Reinhardt made Free Throw.
+USC,Oregon,18,24,9,44,1,Katin Reinhardt made Free Throw.
+USC,Oregon,18,24,10,4,0,Dillon Brooks missed Three Point Jumper.
+USC,Oregon,18,24,10,4,0,Joseph Young Offensive Rebound.
+USC,Oregon,18,24,10,10,0,Joseph Young missed Three Point Jumper.
+USC,Oregon,18,24,10,10,0,Jordan McLaughlin Defensive Rebound.
+USC,Oregon,20,24,10,16,1,Jordan McLaughlin made Jumper.
+USC,Oregon,20,26,10,25,1,Dillon Brooks made Layup. Assisted by Ahmaad Rorie.
+USC,Oregon,20,26,10,25,0,Foul on Malik Martin.
+USC,Oregon,20,27,10,25,1,Dillon Brooks made Free Throw.
+USC,Oregon,20,27,10,30,0,Foul on Joseph Young.
+USC,Oregon,20,27,10,49,0,Nikola Jovanovic Turnover.
+USC,Oregon,20,27,10,50,0,Elgin Cook Steal.
+USC,Oregon,20,27,10,51,0,Foul on Nikola Jovanovic.
+USC,Oregon,20,27,11,0,0,Joseph Young Turnover.
+USC,Oregon,20,27,11,11,0,Malik Martin missed Layup.
+USC,Oregon,20,27,11,11,0,Katin Reinhardt Offensive Rebound.
+USC,Oregon,22,27,11,16,1,Nikola Jovanovic made Layup. Assisted by Katin Reinhardt.
+USC,Oregon,22,27,11,35,0,Joseph Young missed Three Point Jumper.
+USC,Oregon,22,27,11,35,0,Julian Jacobs Defensive Rebound.
+USC,Oregon,22,27,11,42,0,Julian Jacobs missed Layup.
+USC,Oregon,22,27,11,42,0,Jordan Bell Defensive Rebound.
+USC,Oregon,22,27,11,48,0,Ahmaad Rorie missed Layup.
+USC,Oregon,22,27,11,48,0,Jordan McLaughlin Defensive Rebound.
+USC,Oregon,22,27,11,56,0,Katin Reinhardt missed Layup.
+USC,Oregon,22,27,11,56,0,Oregon Defensive Rebound.
+USC,Oregon,22,27,12,18,0,Foul on Malik Marquetti.
+USC,Oregon,22,27,12,18,0,Official TV Timeout
+USC,Oregon,22,28,12,18,1,Dillon Brooks made Free Throw.
+USC,Oregon,22,29,12,18,1,Dillon Brooks made Free Throw.
+USC,Oregon,22,29,12,37,0,Katin Reinhardt missed Three Point Jumper.
+USC,Oregon,22,29,12,37,0,Casey Benson Defensive Rebound.
+USC,Oregon,22,29,12,45,0,Dillon Brooks Turnover.
+USC,Oregon,22,29,12,46,0,Darion Clark Steal.
+USC,Oregon,22,29,12,49,0,Katin Reinhardt missed Three Point Jumper.
+USC,Oregon,22,29,12,49,0,Elgin Cook Defensive Rebound.
+USC,Oregon,22,29,13,0,0,Elgin Cook missed Jumper.
+USC,Oregon,22,29,13,0,0,Julian Jacobs Block.
+USC,Oregon,22,29,13,2,0,Darion Clark Defensive Rebound.
+USC,Oregon,22,29,13,21,0,Strahinja Gavrilovic missed Jumper.
+USC,Oregon,22,29,13,21,0,Joseph Young Defensive Rebound.
+USC,Oregon,22,31,13,38,1,Elgin Cook made Dunk.
+USC,Oregon,25,31,13,58,1,Jordan McLaughlin made Three Point Jumper. Assisted by Katin Reinhardt.
+USC,Oregon,25,33,14,8,1,Joseph Young made Jumper.
+USC,Oregon,25,33,14,11,0,USC  Timeout
+USC,Oregon,27,33,14,26,1,Darion Clark made Layup. Assisted by Julian Jacobs.
+USC,Oregon,27,36,14,40,1,Casey Benson made Three Point Jumper. Assisted by Joseph Young.
+USC,Oregon,30,36,15,4,1,Julian Jacobs made Three Point Jumper. Assisted by Jordan McLaughlin.
+USC,Oregon,30,36,15,18,0,Jordan Bell Turnover.
+USC,Oregon,30,36,15,19,0,Darion Clark Steal.
+USC,Oregon,30,36,15,21,0,Jordan McLaughlin missed Jumper.
+USC,Oregon,30,36,15,21,0,Elgin Cook Defensive Rebound.
+USC,Oregon,30,36,15,33,0,Joseph Young missed Three Point Jumper.
+USC,Oregon,30,36,15,33,0,Nikola Jovanovic Defensive Rebound.
+USC,Oregon,30,36,15,53,0,Julian Jacobs missed Jumper.
+USC,Oregon,30,36,15,53,0,Oregon Deadball Team Rebound.
+USC,Oregon,30,36,15,53,0,Foul on Nikola Jovanovic.
+USC,Oregon,30,36,15,53,0,Jordan Bell missed Free Throw.
+USC,Oregon,30,36,15,53,0,Darion Clark Defensive Rebound.
+USC,Oregon,30,36,16,27,0,Malik Martin missed Three Point Jumper.
+USC,Oregon,30,36,16,27,0,Joseph Young Defensive Rebound.
+USC,Oregon,30,36,16,34,0,Ahmaad Rorie missed Jumper.
+USC,Oregon,30,36,16,34,0,Jordan Bell Offensive Rebound.
+USC,Oregon,30,36,16,37,0,Casey Benson missed Three Point Jumper.
+USC,Oregon,30,36,16,37,0,USC Deadball Team Rebound.
+USC,Oregon,30,36,16,39,0,Foul on Jordan Bell.
+USC,Oregon,30,36,16,39,0,Official TV Timeout
+USC,Oregon,30,36,16,57,0,Darion Clark missed Jumper.
+USC,Oregon,30,36,16,57,0,Jordan Bell Defensive Rebound.
+USC,Oregon,30,36,16,57,0,Darion Clark missed Jumper.
+USC,Oregon,30,36,16,57,0,Jordan Bell Defensive Rebound.
+USC,Oregon,30,39,17,9,1,Joseph Young made Three Point Jumper. Assisted by Jordan Bell.
+USC,Oregon,30,39,17,9,1,Joseph Young made Three Point Jumper. Assisted by Jordan Bell.
+USC,Oregon,30,39,17,27,0,Julian Jacobs Turnover.
+USC,Oregon,30,39,17,27,0,Julian Jacobs Turnover.
+USC,Oregon,30,39,17,59,0,Dillon Brooks missed Three Point Jumper.
+USC,Oregon,30,39,17,59,0,USC Deadball Team Rebound.
+USC,Oregon,30,39,17,59,0,Dillon Brooks missed Three Point Jumper.
+USC,Oregon,30,39,17,59,0,USC Deadball Team Rebound.
+USC,Oregon,30,39,18,13,0,Jordan McLaughlin missed Jumper.
+USC,Oregon,30,39,18,13,0,Jalil Abdul-Bassit Block.
+USC,Oregon,30,39,18,13,0,Jordan McLaughlin missed Jumper.
+USC,Oregon,30,39,18,13,0,Jalil Abdul-Bassit Block.
+USC,Oregon,30,39,18,14,0,Strahinja Gavrilovic Offensive Rebound.
+USC,Oregon,30,39,18,14,0,Strahinja Gavrilovic Offensive Rebound.
+USC,Oregon,30,39,18,16,0,Foul on Elgin Cook.
+USC,Oregon,30,39,18,16,0,Strahinja Gavrilovic missed Free Throw.
+USC,Oregon,30,39,18,16,0,USC Deadball Team Rebound.
+USC,Oregon,31,39,18,16,1,Strahinja Gavrilovic made Free Throw.
+USC,Oregon,30,39,18,16,0,Strahinja Gavrilovic missed Free Throw.
+USC,Oregon,30,39,18,16,0,USC Deadball Team Rebound.
+USC,Oregon,31,39,18,16,1,Strahinja Gavrilovic made Free Throw.
+USC,Oregon,31,39,18,33,0,Jalil Abdul-Bassit Turnover.
+USC,Oregon,31,39,18,33,0,Jalil Abdul-Bassit Turnover.
+USC,Oregon,31,39,18,44,0,Elijah Stewart missed Three Point Jumper.
+USC,Oregon,31,39,18,44,0,Dillon Brooks Defensive Rebound.
+USC,Oregon,31,39,18,44,0,Elijah Stewart missed Three Point Jumper.
+USC,Oregon,31,39,18,44,0,Dillon Brooks Defensive Rebound.
+USC,Oregon,31,42,18,52,1,Jalil Abdul-Bassit made Three Point Jumper. Assisted by Joseph Young.
+USC,Oregon,31,42,18,52,1,Jalil Abdul-Bassit made Three Point Jumper. Assisted by Joseph Young.
+USC,Oregon,31,42,19,15,0,Strahinja Gavrilovic Turnover.
+USC,Oregon,31,42,19,15,0,Foul on Strahinja Gavrilovic.
+USC,Oregon,31,42,19,15,0,Strahinja Gavrilovic Turnover.
+USC,Oregon,31,42,19,15,0,Foul on Strahinja Gavrilovic.
+USC,Oregon,31,44,19,37,1,Joseph Young made Jumper.
+USC,Oregon,31,44,19,52,0,Jordan McLaughlin Turnover.
+USC,Oregon,31,44,19,57,0,Joseph Young missed Three Point Jumper.
+USC,Oregon,31,44,19,57,0,Oregon Deadball Team Rebound.
+USC,Oregon,31,44,20,0,0,End of 1st half
+USC,Oregon,33,44,20,11,1,Malik Marquetti made Layup.
+USC,Oregon,33,46,20,29,1,Elgin Cook made Layup.
+USC,Oregon,33,46,20,59,0,Malik Marquetti missed Jumper.
+USC,Oregon,33,46,20,59,0,Jordan Bell Defensive Rebound.
+USC,Oregon,33,46,21,5,0,Foul on Malik Marquetti.
+USC,Oregon,33,47,21,5,1,Elgin Cook made Free Throw.
+USC,Oregon,33,48,21,5,1,Elgin Cook made Free Throw.
+USC,Oregon,35,48,21,20,1,Nikola Jovanovic made Layup.
+USC,Oregon,35,48,21,39,0,Foul on Julian Jacobs.
+USC,Oregon,35,49,21,39,1,Joseph Young made Free Throw.
+USC,Oregon,35,50,21,39,1,Joseph Young made Free Throw.
+USC,Oregon,37,50,21,51,1,Nikola Jovanovic made Jumper. Assisted by Jordan McLaughlin.
+USC,Oregon,37,50,22,8,0,Elgin Cook missed Layup.
+USC,Oregon,37,50,22,8,0,Elgin Cook Offensive Rebound.
+USC,Oregon,37,50,22,23,0,Dillon Brooks missed Jumper.
+USC,Oregon,37,50,22,23,0,Jordan Bell Offensive Rebound.
+USC,Oregon,37,50,22,25,0,Ahmaad Rorie missed Three Point Jumper.
+USC,Oregon,37,50,22,25,0,Jordan Bell Offensive Rebound.
+USC,Oregon,37,50,22,35,0,Dillon Brooks missed Jumper.
+USC,Oregon,37,50,22,35,0,Malik Marquetti Block.
+USC,Oregon,37,50,22,37,0,Nikola Jovanovic Defensive Rebound.
+USC,Oregon,39,50,22,47,1,Jordan McLaughlin made Layup.
+USC,Oregon,39,50,23,12,0,Elgin Cook Turnover.
+USC,Oregon,39,50,23,12,0,Foul on Elgin Cook.
+USC,Oregon,39,50,23,28,0,Nikola Jovanovic missed Layup.
+USC,Oregon,39,50,23,28,0,Julian Jacobs Offensive Rebound.
+USC,Oregon,41,50,23,31,1,Julian Jacobs made Two Point Tip Shot.
+USC,Oregon,41,50,23,42,0,Joseph Young missed Three Point Jumper.
+USC,Oregon,41,50,23,42,0,Katin Reinhardt Defensive Rebound.
+USC,Oregon,41,50,23,50,0,Katin Reinhardt missed Layup.
+USC,Oregon,41,50,23,50,0,Malik Marquetti Offensive Rebound.
+USC,Oregon,41,50,24,10,0,Katin Reinhardt Turnover.
+USC,Oregon,41,50,24,12,0,Ahmaad Rorie Turnover.
+USC,Oregon,41,50,24,13,0,Jordan McLaughlin Steal.
+USC,Oregon,41,50,24,15,0,Jordan McLaughlin missed Jumper.
+USC,Oregon,41,50,24,15,0,Nikola Jovanovic Offensive Rebound.
+USC,Oregon,41,50,24,18,0,Foul on Ahmaad Rorie.
+USC,Oregon,41,50,24,18,0,Official TV Timeout
+USC,Oregon,42,50,24,18,1,Nikola Jovanovic made Free Throw.
+USC,Oregon,42,50,24,18,0,Nikola Jovanovic missed Free Throw.
+USC,Oregon,42,50,24,18,0,Jordan Bell Defensive Rebound.
+USC,Oregon,42,50,24,44,0,Jalil Abdul-Bassit missed Jumper.
+USC,Oregon,42,50,24,44,0,Jordan Bell Offensive Rebound.
+USC,Oregon,42,50,24,47,0,Jordan Bell missed Two Point Tip Shot.
+USC,Oregon,42,50,24,47,0,Jalil Abdul-Bassit Offensive Rebound.
+USC,Oregon,42,50,24,50,0,Foul on Katin Reinhardt.
+USC,Oregon,42,51,24,50,1,Jalil Abdul-Bassit made Free Throw.
+USC,Oregon,42,52,24,50,1,Jalil Abdul-Bassit made Free Throw.
+USC,Oregon,44,52,25,6,1,Julian Jacobs made Layup. Assisted by Malik Marquetti.
+USC,Oregon,44,52,25,36,0,Michael Chandler missed Layup.
+USC,Oregon,44,52,25,36,0,Michael Chandler Offensive Rebound.
+USC,Oregon,44,52,25,38,0,Foul on Julian Jacobs.
+USC,Oregon,44,52,25,38,0,Michael Chandler missed Free Throw.
+USC,Oregon,44,52,25,38,0,Oregon Deadball Team Rebound.
+USC,Oregon,44,52,25,38,0,Michael Chandler missed Free Throw.
+USC,Oregon,44,52,25,38,0,Nikola Jovanovic Defensive Rebound.
+USC,Oregon,47,52,25,49,1,Katin Reinhardt made Three Point Jumper. Assisted by Kahlil Dukes.
+USC,Oregon,47,52,26,9,0,Michael Chandler Turnover.
+USC,Oregon,47,52,26,9,0,Foul on Michael Chandler.
+USC,Oregon,47,52,26,26,0,Foul on Elgin Cook.
+USC,Oregon,48,52,26,26,1,Nikola Jovanovic made Free Throw.
+USC,Oregon,48,52,26,26,0,Nikola Jovanovic missed Free Throw.
+USC,Oregon,48,52,26,26,0,Jordan Bell Defensive Rebound.
+USC,Oregon,48,55,26,40,1,Dwayne Benjamin made Three Point Jumper. Assisted by Jordan Bell.
+USC,Oregon,48,55,27,1,0,Nikola Jovanovic missed Layup.
+USC,Oregon,48,55,27,1,0,Katin Reinhardt Offensive Rebound.
+USC,Oregon,51,55,27,10,1,Katin Reinhardt made Three Point Jumper.
+USC,Oregon,51,57,27,27,1,Joseph Young made Layup.
+USC,Oregon,51,57,27,28,0,Oregon  Timeout
+USC,Oregon,51,57,27,41,0,Julian Jacobs missed Jumper.
+USC,Oregon,51,57,27,41,0,Oregon Defensive Rebound.
+USC,Oregon,51,57,28,12,0,Dwayne Benjamin missed Three Point Jumper.
+USC,Oregon,51,57,28,12,0,Casey Benson Offensive Rebound.
+USC,Oregon,51,59,28,33,1,Casey Benson made Jumper.
+USC,Oregon,51,59,28,48,0,USC  Timeout
+USC,Oregon,51,59,29,2,0,Foul on Jordan Bell.
+USC,Oregon,51,59,29,2,0,Official TV Timeout
+USC,Oregon,53,59,29,6,1,Nikola Jovanovic made Layup.
+USC,Oregon,53,59,29,19,0,Joseph Young missed Jumper.
+USC,Oregon,53,59,29,19,0,Katin Reinhardt Defensive Rebound.
+USC,Oregon,56,59,29,40,1,Katin Reinhardt made Three Point Jumper. Assisted by Malik Marquetti.
+USC,Oregon,56,59,29,57,0,Jalil Abdul-Bassit missed Jumper.
+USC,Oregon,56,59,29,57,0,Oregon Deadball Team Rebound.
+USC,Oregon,56,59,29,59,0,Foul on Strahinja Gavrilovic.
+USC,Oregon,56,59,30,8,0,Joseph Young missed Three Point Jumper.
+USC,Oregon,56,59,30,8,0,Malik Marquetti Defensive Rebound.
+USC,Oregon,56,59,30,25,0,Nikola Jovanovic Turnover.
+USC,Oregon,56,59,30,40,0,Foul on Malik Marquetti.
+USC,Oregon,56,61,30,45,1,Dwayne Benjamin made Layup. Assisted by Jordan Bell.
+USC,Oregon,56,61,30,45,0,Foul on Malik Martin.
+USC,Oregon,56,61,30,45,0,Dwayne Benjamin missed Free Throw.
+USC,Oregon,56,61,30,45,0,Strahinja Gavrilovic Defensive Rebound.
+USC,Oregon,56,61,31,7,0,Katin Reinhardt missed Three Point Jumper.
+USC,Oregon,56,61,31,7,0,Julian Jacobs Offensive Rebound.
+USC,Oregon,58,61,31,11,1,Julian Jacobs made Two Point Tip Shot.
+USC,Oregon,58,61,31,19,0,Joseph Young missed Three Point Jumper.
+USC,Oregon,58,61,31,19,0,Nikola Jovanovic Defensive Rebound.
+USC,Oregon,58,61,31,30,0,Julian Jacobs missed Layup.
+USC,Oregon,58,61,31,30,0,Jordan Bell Block.
+USC,Oregon,58,61,31,31,0,Jalil Abdul-Bassit Defensive Rebound.
+USC,Oregon,58,61,31,34,0,Jalil Abdul-Bassit Turnover.
+USC,Oregon,58,61,31,34,0,Katin Reinhardt Steal.
+USC,Oregon,58,61,31,58,0,Jordan McLaughlin missed Three Point Jumper.
+USC,Oregon,58,61,31,58,0,Malik Martin Offensive Rebound.
+USC,Oregon,58,61,32,9,0,Katin Reinhardt missed Jumper.
+USC,Oregon,58,61,32,9,0,Dwayne Benjamin Defensive Rebound.
+USC,Oregon,58,61,32,40,0,Jalil Abdul-Bassit Turnover.
+USC,Oregon,58,61,32,43,0,Katin Reinhardt Steal.
+USC,Oregon,58,61,32,53,0,Foul on Casey Benson.
+USC,Oregon,58,61,32,53,0,Official TV Timeout
+USC,Oregon,58,61,32,53,0,Malik Martin Turnover.
+USC,Oregon,58,61,32,53,0,Foul on Malik Martin.
+USC,Oregon,58,61,33,6,0,Dillon Brooks Turnover.
+USC,Oregon,58,61,33,6,0,Foul on Dillon Brooks.
+USC,Oregon,58,61,33,21,0,Katin Reinhardt missed Three Point Jumper.
+USC,Oregon,58,61,33,21,0,Malik Marquetti Offensive Rebound.
+USC,Oregon,58,61,33,27,0,Nikola Jovanovic Turnover.
+USC,Oregon,58,61,33,29,0,Joseph Young Steal.
+USC,Oregon,58,61,33,31,0,Joseph Young missed Layup.
+USC,Oregon,58,61,33,31,0,Dwayne Benjamin Offensive Rebound.
+USC,Oregon,58,61,33,33,0,Dwayne Benjamin missed Two Point Tip Shot.
+USC,Oregon,58,61,33,33,0,Nikola Jovanovic Defensive Rebound.
+USC,Oregon,58,61,33,36,0,Nikola Jovanovic Turnover.
+USC,Oregon,58,61,34,4,0,Joseph Young missed Layup.
+USC,Oregon,58,61,34,4,0,Dwayne Benjamin Offensive Rebound.
+USC,Oregon,58,61,34,10,0,Joseph Young missed Three Point Jumper.
+USC,Oregon,58,61,34,10,0,Malik Marquetti Defensive Rebound.
+USC,Oregon,60,61,34,20,1,Julian Jacobs made Layup.
+USC,Oregon,60,61,34,20,0,Foul on Dwayne Benjamin.
+USC,Oregon,61,61,34,20,1,Julian Jacobs made Free Throw.
+USC,Oregon,61,61,34,42,0,Foul on Nikola Jovanovic.
+USC,Oregon,61,62,34,42,1,Elgin Cook made Free Throw.
+USC,Oregon,61,63,34,42,1,Elgin Cook made Free Throw.
+USC,Oregon,61,63,34,55,0,Katin Reinhardt Turnover.
+USC,Oregon,61,63,34,55,0,Elgin Cook Steal.
+USC,Oregon,61,63,35,7,0,Elgin Cook missed Jumper.
+USC,Oregon,61,63,35,7,0,Julian Jacobs Defensive Rebound.
+USC,Oregon,61,63,35,15,0,Julian Jacobs Turnover.
+USC,Oregon,61,63,35,35,0,Foul on Malik Marquetti.
+USC,Oregon,61,64,35,35,1,Elgin Cook made Free Throw.
+USC,Oregon,61,64,35,35,0,Elgin Cook missed Free Throw.
+USC,Oregon,61,64,35,35,0,Nikola Jovanovic Defensive Rebound.
+USC,Oregon,61,64,36,9,0,Jordan McLaughlin missed Three Point Jumper.
+USC,Oregon,61,64,36,9,0,Elgin Cook Defensive Rebound.
+USC,Oregon,61,64,36,34,0,Elgin Cook missed Dunk.
+USC,Oregon,61,64,36,34,0,Nikola Jovanovic Defensive Rebound.
+USC,Oregon,61,64,36,41,0,Jordan McLaughlin missed Three Point Jumper.
+USC,Oregon,61,64,36,41,0,Julian Jacobs Offensive Rebound.
+USC,Oregon,61,64,36,47,0,Official TV Timeout
+USC,Oregon,61,64,36,53,0,Nikola Jovanovic missed Layup.
+USC,Oregon,61,64,36,53,0,Joseph Young Defensive Rebound.
+USC,Oregon,61,66,37,10,1,Dillon Brooks made Layup. Assisted by Elgin Cook.
+USC,Oregon,61,66,37,31,0,Katin Reinhardt missed Layup.
+USC,Oregon,61,66,37,31,0,Jalil Abdul-Bassit Block.
+USC,Oregon,61,66,37,32,0,Jalil Abdul-Bassit Defensive Rebound.
+USC,Oregon,61,66,37,59,0,Foul on Jordan McLaughlin.
+USC,Oregon,61,67,37,59,1,Joseph Young made Free Throw.
+USC,Oregon,61,68,37,59,1,Joseph Young made Free Throw.
+USC,Oregon,61,68,38,18,0,Katin Reinhardt missed Layup.
+USC,Oregon,61,68,38,18,0,Malik Martin Offensive Rebound.
+USC,Oregon,61,68,38,23,0,Foul on Jalil Abdul-Bassit.
+USC,Oregon,61,68,38,23,0,Malik Martin missed Free Throw.
+USC,Oregon,61,68,38,23,0,USC Deadball Team Rebound.
+USC,Oregon,61,68,38,23,0,Malik Martin missed Free Throw.
+USC,Oregon,61,68,38,23,0,Dillon Brooks Defensive Rebound.
+USC,Oregon,61,68,38,56,0,Jalil Abdul-Bassit Turnover.
+USC,Oregon,61,68,38,58,0,Julian Jacobs Steal.
+USC,Oregon,61,68,39,2,0,Katin Reinhardt missed Three Point Jumper.
+USC,Oregon,61,68,39,2,0,Oregon Defensive Rebound.
+USC,Oregon,61,68,39,9,0,Oregon  Timeout
+USC,Oregon,61,68,39,11,0,Foul on Chass Bryan.
+USC,Oregon,61,69,39,11,1,Elgin Cook made Free Throw.
+USC,Oregon,61,70,39,11,1,Elgin Cook made Free Throw.
+USC,Oregon,63,70,39,16,1,Julian Jacobs made Layup.
+USC,Oregon,63,70,39,18,0,Foul on Julian Jacobs.
+USC,Oregon,63,71,39,18,1,Dillon Brooks made Free Throw.
+USC,Oregon,63,71,39,18,0,Dillon Brooks missed Free Throw.
+USC,Oregon,63,71,39,18,0,Nikola Jovanovic Defensive Rebound.
+USC,Oregon,65,71,39,24,1,Julian Jacobs made Layup.
+USC,Oregon,65,71,39,26,0,Dillon Brooks Turnover.
+USC,Oregon,65,71,39,27,0,Kahlil Dukes Steal.
+USC,Oregon,65,71,39,28,0,Jordan McLaughlin missed Layup.
+USC,Oregon,65,71,39,28,0,Dillon Brooks Defensive Rebound.
+USC,Oregon,65,71,39,28,0,Foul on Julian Jacobs.
+USC,Oregon,65,72,39,28,1,Dillon Brooks made Free Throw.
+USC,Oregon,65,73,39,28,1,Dillon Brooks made Free Throw.
+USC,Oregon,65,73,39,33,0,Foul on Casey Benson.
+USC,Oregon,66,73,39,33,1,Jordan McLaughlin made Free Throw.
+USC,Oregon,67,73,39,33,1,Jordan McLaughlin made Free Throw.
+USC,Oregon,67,73,39,35,0,Foul on Chass Bryan.
+USC,Oregon,67,74,39,35,1,Ahmaad Rorie made Free Throw.
+USC,Oregon,67,75,39,35,1,Ahmaad Rorie made Free Throw.
+USC,Oregon,67,75,39,40,0,Jordan McLaughlin missed Layup.
+USC,Oregon,67,75,39,40,0,Kahlil Dukes Offensive Rebound.
+USC,Oregon,67,75,39,44,0,Jordan McLaughlin missed Three Point Jumper.
+USC,Oregon,67,75,39,44,0,Ahmaad Rorie Defensive Rebound.
+USC,Oregon,67,75,40,0,0,End of Game

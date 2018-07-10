@@ -1,0 +1,307 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Washington,Oregon,0,0,0,0,0,Jump Ball won by Oregon.
+Washington,Oregon,0,0,0,26,0,Arsalan Kazemi missed Layup.
+Washington,Oregon,0,0,0,26,0,Shawn Kemp, Jr. Defensive Rebound.
+Washington,Oregon,0,0,0,45,0,C.J. Wilcox missed Jumper.
+Washington,Oregon,0,0,0,45,0,C.J. Wilcox Offensive Rebound.
+Washington,Oregon,0,0,0,51,0,C.J. Wilcox Turnover.
+Washington,Oregon,0,2,0,58,1,Tony Woods made Dunk.  Assisted by Dominic Artis.
+Washington,Oregon,0,2,1,21,0,Abdul Gaddy missed Jumper.
+Washington,Oregon,0,2,1,21,0,E.J. Singler Defensive Rebound.
+Washington,Oregon,0,2,1,28,0,E.J. Singler Turnover.
+Washington,Oregon,0,2,1,28,0,C.J. Wilcox Steal.
+Washington,Oregon,0,2,1,38,0,Abdul Gaddy missed Layup.
+Washington,Oregon,0,2,1,38,0,Dominic Artis Block.
+Washington,Oregon,0,2,1,38,0,Oregon Defensive Rebound.
+Washington,Oregon,0,2,1,57,0,Damyean Dotson missed Jumper.
+Washington,Oregon,0,2,1,57,0,Aziz N'Diaye Defensive Rebound.
+Washington,Oregon,0,2,1,57,0,Foul on E.J. Singler
+Washington,Oregon,0,2,2,4,0,Foul on Dominic Artis
+Washington,Oregon,2,2,2,30,1,Abdul Gaddy made Layup.  Assisted by C.J. Wilcox.
+Washington,Oregon,2,4,2,42,1,Tony Woods made Layup.  Assisted by E.J. Singler.
+Washington,Oregon,5,4,2,55,1,Scott Suggs made Three Point Jumper.
+Washington,Oregon,5,6,3,8,1,Damyean Dotson made Jumper.
+Washington,Oregon,5,6,3,25,0,Scott Suggs missed Three Point Jumper.
+Washington,Oregon,5,6,3,25,0,Tony Woods Defensive Rebound.
+Washington,Oregon,5,6,4,2,0,Tony Woods missed Jumper.
+Washington,Oregon,5,6,4,2,0,Shawn Kemp, Jr. Block.
+Washington,Oregon,5,6,4,2,0,C.J. Wilcox Defensive Rebound.
+Washington,Oregon,5,6,4,9,0,Scott Suggs missed Three Point Jumper.
+Washington,Oregon,5,6,4,9,0,Abdul Gaddy Offensive Rebound.
+Washington,Oregon,8,6,4,12,1,C.J. Wilcox made Three Point Jumper.  Assisted by Abdul Gaddy.
+Washington,Oregon,8,6,4,35,0,Arsalan Kazemi Turnover.
+Washington,Oregon,8,6,4,35,0,Abdul Gaddy Steal.
+Washington,Oregon,8,6,4,40,0,Abdul Gaddy missed Layup.
+Washington,Oregon,8,6,4,40,0,Washington Offensive Rebound.
+Washington,Oregon,8,6,4,48,0,Official TV Timeout.
+Washington,Oregon,10,6,5,2,1,Desmond Simmons made Jumper.  Assisted by Andrew Andrews.
+Washington,Oregon,10,9,5,13,1,E.J. Singler made Three Point Jumper.  Assisted by Johnathan Loyd.
+Washington,Oregon,10,9,5,27,0,Andrew Andrews missed Jumper.
+Washington,Oregon,10,9,5,27,0,Johnathan Loyd Defensive Rebound.
+Washington,Oregon,10,12,5,47,1,Damyean Dotson made Three Point Jumper.  Assisted by Johnathan Loyd.
+Washington,Oregon,12,12,6,3,1,Scott Suggs made Jumper.
+Washington,Oregon,12,14,6,36,1,Damyean Dotson made Jumper.
+Washington,Oregon,12,14,6,57,0,Foul on Waverly Austin
+Washington,Oregon,15,14,7,13,1,C.J. Wilcox made Three Point Jumper.
+Washington,Oregon,15,14,7,33,0,Foul on Desmond Simmons
+Washington,Oregon,15,14,7,50,0,Carlos Emory missed Three Point Jumper.
+Washington,Oregon,15,14,7,50,0,Andrew Andrews Defensive Rebound.
+Washington,Oregon,17,14,7,58,1,Desmond Simmons made Jumper.  Assisted by Jernard Jarreau.
+Washington,Oregon,17,14,8,14,0,Foul on Andrew Andrews
+Washington,Oregon,17,14,8,14,0,Official TV Timeout.
+Washington,Oregon,17,14,8,28,0,Carlos Emory missed Jumper.
+Washington,Oregon,17,14,8,28,0,Abdul Gaddy Block.
+Washington,Oregon,17,14,8,28,0,Abdul Gaddy Defensive Rebound.
+Washington,Oregon,19,14,8,32,1,Andrew Andrews made Layup.  Assisted by Abdul Gaddy.
+Washington,Oregon,19,14,8,32,0,Foul on Dominic Artis
+Washington,Oregon,20,14,8,32,1,Andrew Andrews made Free Throw.
+Washington,Oregon,20,14,8,57,0,E.J. Singler missed Layup.
+Washington,Oregon,20,14,8,57,0,Arsalan Kazemi Offensive Rebound.
+Washington,Oregon,20,14,9,2,0,Arsalan Kazemi missed Layup.
+Washington,Oregon,20,14,9,2,0,Desmond Simmons Defensive Rebound.
+Washington,Oregon,23,14,9,7,1,Scott Suggs made Three Point Jumper.  Assisted by Abdul Gaddy.
+Washington,Oregon,23,16,9,41,1,Tony Woods made Jumper.
+Washington,Oregon,23,16,9,41,0,Foul on Jernard Jarreau
+Washington,Oregon,23,16,9,41,0,Tony Woods missed Free Throw.
+Washington,Oregon,23,16,9,41,0,Jernard Jarreau Defensive Rebound.
+Washington,Oregon,23,16,9,56,0,Abdul Gaddy missed Jumper.
+Washington,Oregon,23,16,9,56,0,Arsalan Kazemi Defensive Rebound.
+Washington,Oregon,23,18,10,13,1,E.J. Singler made Jumper.  Assisted by Carlos Emory.
+Washington,Oregon,25,18,10,24,1,Scott Suggs made Jumper.
+Washington,Oregon,25,18,10,37,0,Carlos Emory missed Jumper.
+Washington,Oregon,25,18,10,37,0,Scott Suggs Defensive Rebound.
+Washington,Oregon,25,18,11,0,0,Abdul Gaddy Turnover.
+Washington,Oregon,25,18,11,0,0,Arsalan Kazemi Steal.
+Washington,Oregon,25,18,11,7,0,Foul on Abdul Gaddy
+Washington,Oregon,25,18,11,7,0,Carlos Emory missed Free Throw.
+Washington,Oregon,25,18,11,7,0,null
+Washington,Oregon,25,19,11,7,1,Carlos Emory made Free Throw.
+Washington,Oregon,25,19,11,16,0,C.J. Wilcox missed Jumper.
+Washington,Oregon,25,19,11,16,0,Oregon Defensive Rebound.
+Washington,Oregon,25,22,11,29,1,Damyean Dotson made Three Point Jumper.
+Washington,Oregon,25,22,11,53,0,Jernard Jarreau Turnover.
+Washington,Oregon,25,22,12,10,0,Damyean Dotson missed Three Point Jumper.
+Washington,Oregon,25,22,12,10,0,C.J. Wilcox Defensive Rebound.
+Washington,Oregon,27,22,12,18,1,C.J. Wilcox made Layup.
+Washington,Oregon,27,25,12,28,1,Damyean Dotson made Three Point Jumper.  Assisted by Ben Carter.
+Washington,Oregon,27,25,12,45,0,C.J. Wilcox Turnover.
+Washington,Oregon,27,25,12,46,0,Official TV Timeout.
+Washington,Oregon,27,25,13,6,0,Foul on Andrew Andrews
+Washington,Oregon,27,27,13,21,1,Ben Carter made Jumper.  Assisted by Carlos Emory.
+Washington,Oregon,27,27,13,45,0,Abdul Gaddy Turnover.
+Washington,Oregon,27,27,13,45,0,Damyean Dotson Steal.
+Washington,Oregon,27,27,13,49,0,Foul on Abdul Gaddy
+Washington,Oregon,27,27,13,49,0,Carlos Emory missed Layup.
+Washington,Oregon,27,27,13,49,0,Shawn Kemp, Jr. Defensive Rebound.
+Washington,Oregon,29,27,13,54,1,C.J. Wilcox made Layup.
+Washington,Oregon,29,27,14,8,0,Damyean Dotson missed Jumper.
+Washington,Oregon,29,27,14,8,0,Scott Suggs Defensive Rebound.
+Washington,Oregon,31,27,14,17,1,Abdul Gaddy made Jumper.
+Washington,Oregon,31,27,14,48,0,Foul on Aziz N'Diaye
+Washington,Oregon,31,28,14,48,1,Tony Woods made Free Throw.
+Washington,Oregon,31,28,14,48,0,Tony Woods missed Free Throw.
+Washington,Oregon,31,28,14,48,0,Aziz N'Diaye Defensive Rebound.
+Washington,Oregon,31,28,15,2,0,Abdul Gaddy missed Jumper.
+Washington,Oregon,31,28,15,2,0,Johnathan Loyd Defensive Rebound.
+Washington,Oregon,31,28,15,14,0,Johnathan Loyd missed Jumper.
+Washington,Oregon,31,28,15,14,0,Oregon Offensive Rebound.
+Washington,Oregon,31,28,15,14,0,Foul on Shawn Kemp, Jr.
+Washington,Oregon,31,29,15,14,1,Ben Carter made Free Throw.
+Washington,Oregon,31,30,15,14,1,Ben Carter made Free Throw.
+Washington,Oregon,31,30,15,39,0,Scott Suggs missed Jumper.
+Washington,Oregon,31,30,15,39,0,Oregon Defensive Rebound.
+Washington,Oregon,31,32,15,57,1,Waverly Austin made Layup.
+Washington,Oregon,31,32,16,15,0,Andrew Andrews Turnover.
+Washington,Oregon,31,32,16,15,0,Johnathan Loyd Steal.
+Washington,Oregon,31,32,16,20,0,Carlos Emory missed Layup.
+Washington,Oregon,31,32,16,20,0,Desmond Simmons Block.
+Washington,Oregon,31,32,16,20,0,Oregon Offensive Rebound.
+Washington,Oregon,31,32,16,22,0,Official TV Timeout.
+Washington,Oregon,31,34,16,34,1,E.J. Singler made Layup.
+Washington,Oregon,31,34,17,8,0,Foul on Arsalan Kazemi
+Washington,Oregon,32,34,17,8,1,C.J. Wilcox made Free Throw.
+Washington,Oregon,33,34,17,8,1,C.J. Wilcox made Free Throw.
+Washington,Oregon,33,34,17,16,0,Foul on Desmond Simmons
+Washington,Oregon,33,34,17,16,0,Arsalan Kazemi missed Free Throw.
+Washington,Oregon,33,34,17,16,0,null
+Washington,Oregon,33,35,17,16,1,Arsalan Kazemi made Free Throw.
+Washington,Oregon,33,35,17,27,0,Aziz N'Diaye Turnover.
+Washington,Oregon,33,35,17,27,0,E.J. Singler Steal.
+Washington,Oregon,33,35,17,37,0,E.J. Singler Turnover.
+Washington,Oregon,33,35,17,49,0,Foul on Johnathan Loyd
+Washington,Oregon,33,35,18,9,0,Jernard Jarreau missed Jumper.
+Washington,Oregon,33,35,18,9,0,E.J. Singler Defensive Rebound.
+Washington,Oregon,33,35,18,15,0,Johnathan Loyd Turnover.
+Washington,Oregon,33,35,18,25,0,Foul on Johnathan Loyd
+Washington,Oregon,34,35,18,25,1,Andrew Andrews made Free Throw.
+Washington,Oregon,34,35,18,25,0,Andrew Andrews missed Free Throw.
+Washington,Oregon,34,35,18,25,0,Arsalan Kazemi Defensive Rebound.
+Washington,Oregon,34,35,18,40,0,Tony Woods missed Layup.
+Washington,Oregon,34,35,18,40,0,Tony Woods Offensive Rebound.
+Washington,Oregon,34,35,18,43,0,Foul on Jernard Jarreau
+Washington,Oregon,34,36,18,43,1,Tony Woods made Free Throw.
+Washington,Oregon,34,37,18,43,1,Tony Woods made Free Throw.
+Washington,Oregon,34,37,19,2,0,Washington Full Timeout.
+Washington,Oregon,34,37,19,15,0,Scott Suggs missed Jumper.
+Washington,Oregon,34,37,19,15,0,Washington Offensive Rebound.
+Washington,Oregon,34,37,19,22,0,Jernard Jarreau missed Jumper.
+Washington,Oregon,34,37,19,22,0,Oregon Defensive Rebound.
+Washington,Oregon,34,37,19,24,0,Oregon Full Timeout.
+Washington,Oregon,34,39,19,51,1,E.J. Singler made Layup.
+Washington,Oregon,34,39,20,0,0,End of the 1st Half.
+Washington,Oregon,34,39,20,0,0,Jump Ball won by Washington.
+Washington,Oregon,36,39,20,13,1,Aziz N'Diaye made Jumper.
+Washington,Oregon,36,39,20,29,0,Tony Woods missed Jumper.
+Washington,Oregon,36,39,20,29,0,Tony Woods Offensive Rebound.
+Washington,Oregon,36,39,20,34,0,Tony Woods missed Layup.
+Washington,Oregon,36,39,20,34,0,Aziz N'Diaye Defensive Rebound.
+Washington,Oregon,38,39,20,39,1,Shawn Kemp, Jr. made Layup.  Assisted by Abdul Gaddy.
+Washington,Oregon,38,41,21,0,1,E.J. Singler made Layup.
+Washington,Oregon,38,41,21,0,0,Foul on Scott Suggs
+Washington,Oregon,38,41,21,0,0,E.J. Singler missed Free Throw.
+Washington,Oregon,38,41,21,0,0,Shawn Kemp, Jr. Defensive Rebound.
+Washington,Oregon,38,41,21,13,0,Shawn Kemp, Jr. missed Jumper.
+Washington,Oregon,38,41,21,13,0,Waverly Austin Defensive Rebound.
+Washington,Oregon,38,43,21,23,1,Damyean Dotson made Layup.  Assisted by Dominic Artis.
+Washington,Oregon,38,43,21,42,0,Aziz N'Diaye missed Layup.
+Washington,Oregon,38,43,21,42,0,Oregon Defensive Rebound.
+Washington,Oregon,38,43,21,47,0,Dominic Artis missed Three Point Jumper.
+Washington,Oregon,38,43,21,47,0,C.J. Wilcox Defensive Rebound.
+Washington,Oregon,41,43,21,56,1,C.J. Wilcox made Three Point Jumper.
+Washington,Oregon,41,43,22,30,0,Damyean Dotson missed Three Point Jumper.
+Washington,Oregon,41,43,22,30,0,Shawn Kemp, Jr. Defensive Rebound.
+Washington,Oregon,41,43,22,38,0,Foul on Waverly Austin
+Washington,Oregon,41,43,22,38,0,Aziz N'Diaye missed Free Throw.
+Washington,Oregon,41,43,22,38,0,null
+Washington,Oregon,42,43,22,38,1,Aziz N'Diaye made Free Throw.
+Washington,Oregon,42,43,22,54,0,Dominic Artis missed Jumper.
+Washington,Oregon,42,43,22,54,0,null
+Washington,Oregon,42,43,22,57,0,Foul on Waverly Austin
+Washington,Oregon,42,43,23,16,0,Aziz N'Diaye missed Layup.
+Washington,Oregon,42,43,23,16,0,Waverly Austin Block.
+Washington,Oregon,42,43,23,16,0,E.J. Singler Defensive Rebound.
+Washington,Oregon,42,43,23,51,0,Waverly Austin Turnover.
+Washington,Oregon,42,43,23,51,0,Desmond Simmons Steal.
+Washington,Oregon,42,43,23,58,0,Abdul Gaddy missed Layup.
+Washington,Oregon,42,43,23,58,0,Desmond Simmons Offensive Rebound.
+Washington,Oregon,42,43,23,58,0,Desmond Simmons missed Tip Shot.
+Washington,Oregon,42,43,23,58,0,Desmond Simmons Offensive Rebound.
+Washington,Oregon,44,43,24,9,1,Aziz N'Diaye made Jumper.
+Washington,Oregon,44,43,24,10,0,Official TV Timeout.
+Washington,Oregon,44,43,24,19,0,Tony Woods missed Jumper.
+Washington,Oregon,44,43,24,19,0,Aziz N'Diaye Defensive Rebound.
+Washington,Oregon,44,43,24,31,0,Abdul Gaddy Turnover.
+Washington,Oregon,44,43,24,57,0,Carlos Emory missed Jumper.
+Washington,Oregon,44,43,24,57,0,Scott Suggs Defensive Rebound.
+Washington,Oregon,44,43,25,14,0,Scott Suggs missed Jumper.
+Washington,Oregon,44,43,25,14,0,Tony Woods Defensive Rebound.
+Washington,Oregon,44,45,25,24,1,Carlos Emory made Dunk.  Assisted by Damyean Dotson.
+Washington,Oregon,44,45,25,49,0,Aziz N'Diaye missed Jumper.
+Washington,Oregon,44,45,25,49,0,Tony Woods Defensive Rebound.
+Washington,Oregon,44,45,26,11,0,Damyean Dotson missed Jumper.
+Washington,Oregon,44,45,26,11,0,Aziz N'Diaye Defensive Rebound.
+Washington,Oregon,46,45,26,30,1,Abdul Gaddy made Layup.
+Washington,Oregon,46,48,26,46,1,E.J. Singler made Three Point Jumper.  Assisted by Carlos Emory.
+Washington,Oregon,46,48,26,56,0,Oregon Full Timeout.
+Washington,Oregon,46,48,27,14,0,Foul on Tony Woods
+Washington,Oregon,46,48,27,14,0,Andrew Andrews missed Free Throw.
+Washington,Oregon,46,48,27,14,0,null
+Washington,Oregon,46,48,27,14,0,Andrew Andrews missed Free Throw.
+Washington,Oregon,46,48,27,14,0,Johnathan Loyd Defensive Rebound.
+Washington,Oregon,46,48,27,27,0,E.J. Singler Turnover.
+Washington,Oregon,46,48,27,27,0,Andrew Andrews Steal.
+Washington,Oregon,46,48,27,44,0,C.J. Wilcox missed Three Point Jumper.
+Washington,Oregon,46,48,27,44,0,Desmond Simmons Offensive Rebound.
+Washington,Oregon,48,48,27,44,1,Desmond Simmons made Tip Shot.
+Washington,Oregon,48,48,27,58,0,Johnathan Loyd missed Layup.
+Washington,Oregon,48,48,27,58,0,Andrew Andrews Block.
+Washington,Oregon,48,48,27,58,0,Oregon Offensive Rebound.
+Washington,Oregon,48,48,28,6,0,Tony Woods missed Jumper.
+Washington,Oregon,48,48,28,6,0,Washington Defensive Rebound.
+Washington,Oregon,48,48,28,7,0,Official TV Timeout.
+Washington,Oregon,51,48,28,39,1,Andrew Andrews made Three Point Jumper.  Assisted by Abdul Gaddy.
+Washington,Oregon,51,48,29,12,0,Damyean Dotson Turnover.
+Washington,Oregon,51,48,29,12,0,C.J. Wilcox Steal.
+Washington,Oregon,51,48,29,17,0,C.J. Wilcox missed Layup.
+Washington,Oregon,51,48,29,17,0,Tony Woods Defensive Rebound.
+Washington,Oregon,51,48,29,25,0,Johnathan Loyd missed Jumper.
+Washington,Oregon,51,48,29,25,0,Abdul Gaddy Defensive Rebound.
+Washington,Oregon,51,48,29,36,0,Abdul Gaddy missed Jumper.
+Washington,Oregon,51,48,29,36,0,Ben Carter Defensive Rebound.
+Washington,Oregon,51,48,29,56,0,Carlos Emory Turnover.
+Washington,Oregon,51,48,29,56,0,Andrew Andrews Steal.
+Washington,Oregon,51,48,30,2,0,Foul on Johnathan Loyd
+Washington,Oregon,52,48,30,2,1,Andrew Andrews made Free Throw.
+Washington,Oregon,52,48,30,2,0,Andrew Andrews missed Free Throw.
+Washington,Oregon,52,48,30,2,0,Aziz N'Diaye Offensive Rebound.
+Washington,Oregon,52,48,30,2,0,Aziz N'Diaye missed Layup.
+Washington,Oregon,52,48,30,2,0,Waverly Austin Defensive Rebound.
+Washington,Oregon,52,48,30,27,0,E.J. Singler missed Jumper.
+Washington,Oregon,52,48,30,27,0,Andrew Andrews Defensive Rebound.
+Washington,Oregon,52,48,30,57,0,Andrew Andrews missed Three Point Jumper.
+Washington,Oregon,52,48,30,57,0,Arsalan Kazemi Defensive Rebound.
+Washington,Oregon,52,50,31,18,1,Arsalan Kazemi made Layup.
+Washington,Oregon,52,50,31,24,0,Foul on Dominic Artis
+Washington,Oregon,52,50,31,43,0,Aziz N'Diaye Turnover.
+Washington,Oregon,52,50,31,51,0,Foul on Desmond Simmons
+Washington,Oregon,52,50,32,3,0,Dominic Artis Turnover.
+Washington,Oregon,52,50,32,3,0,Abdul Gaddy Steal.
+Washington,Oregon,54,50,32,10,1,Abdul Gaddy made Layup.
+Washington,Oregon,54,50,32,32,0,Damyean Dotson missed Jumper.
+Washington,Oregon,54,50,32,32,0,Washington Defensive Rebound.
+Washington,Oregon,54,50,32,35,0,Official TV Timeout.
+Washington,Oregon,54,50,32,48,0,Scott Suggs missed Three Point Jumper.
+Washington,Oregon,54,50,32,48,0,Arsalan Kazemi Defensive Rebound.
+Washington,Oregon,54,50,32,54,0,Arsalan Kazemi Turnover.
+Washington,Oregon,56,50,32,58,1,Aziz N'Diaye made Layup.
+Washington,Oregon,56,52,33,14,1,Tony Woods made Jumper.
+Washington,Oregon,56,52,33,30,0,Abdul Gaddy missed Jumper.
+Washington,Oregon,56,52,33,30,0,Abdul Gaddy Offensive Rebound.
+Washington,Oregon,58,52,33,36,1,Abdul Gaddy made Layup.
+Washington,Oregon,58,52,33,41,0,Damyean Dotson missed Three Point Jumper.
+Washington,Oregon,58,52,33,41,0,Aziz N'Diaye Defensive Rebound.
+Washington,Oregon,58,52,34,14,0,Abdul Gaddy missed Jumper.
+Washington,Oregon,58,52,34,14,0,Tony Woods Defensive Rebound.
+Washington,Oregon,58,54,34,29,1,Tony Woods made Layup.
+Washington,Oregon,58,54,34,29,0,Foul on Aziz N'Diaye
+Washington,Oregon,58,55,34,29,1,Tony Woods made Free Throw.
+Washington,Oregon,58,55,34,50,0,Desmond Simmons Turnover.
+Washington,Oregon,58,57,35,7,1,E.J. Singler made Jumper.  Assisted by Tony Woods.
+Washington,Oregon,58,57,35,17,0,Washington Full Timeout.
+Washington,Oregon,60,57,35,37,1,Scott Suggs made Layup.
+Washington,Oregon,60,57,35,42,0,Foul on C.J. Wilcox
+Washington,Oregon,60,60,35,47,1,Johnathan Loyd made Three Point Jumper.  Assisted by E.J. Singler.
+Washington,Oregon,60,60,36,1,0,Aziz N'Diaye missed Layup.
+Washington,Oregon,60,60,36,1,0,C.J. Wilcox Offensive Rebound.
+Washington,Oregon,60,60,36,15,0,Scott Suggs missed Layup.
+Washington,Oregon,60,60,36,15,0,Arsalan Kazemi Block.
+Washington,Oregon,60,60,36,15,0,Carlos Emory Defensive Rebound.
+Washington,Oregon,60,60,36,25,0,Oregon Full Timeout.
+Washington,Oregon,60,60,36,33,0,E.J. Singler missed Jumper.
+Washington,Oregon,60,60,36,33,0,Washington Defensive Rebound.
+Washington,Oregon,60,60,36,36,0,Official TV Timeout.
+Washington,Oregon,60,60,36,39,0,Scott Suggs Turnover.
+Washington,Oregon,60,60,36,54,0,Tony Woods missed Jumper.
+Washington,Oregon,60,60,36,55,0,Aziz N'Diaye Block.
+Washington,Oregon,60,60,36,55,0,null
+Washington,Oregon,60,60,36,56,0,Foul on Desmond Simmons
+Washington,Oregon,60,60,37,12,0,Tony Woods missed Jumper.
+Washington,Oregon,60,60,37,12,0,Aziz N'Diaye Defensive Rebound.
+Washington,Oregon,60,60,37,39,0,C.J. Wilcox missed Jumper.
+Washington,Oregon,60,60,37,39,0,Arsalan Kazemi Defensive Rebound.
+Washington,Oregon,60,62,37,45,1,Tony Woods made Dunk.  Assisted by Dominic Artis.
+Washington,Oregon,62,62,38,9,1,C.J. Wilcox made Jumper.
+Washington,Oregon,62,62,38,35,0,Arsalan Kazemi missed Jumper.
+Washington,Oregon,62,62,38,35,0,Scott Suggs Defensive Rebound.
+Washington,Oregon,62,62,38,47,0,Washington Full Timeout.
+Washington,Oregon,64,62,39,10,1,C.J. Wilcox made Jumper.
+Washington,Oregon,64,62,39,21,0,Oregon Full Timeout.
+Washington,Oregon,64,62,39,21,0,Washington Full Timeout.
+Washington,Oregon,64,62,39,35,0,Johnathan Loyd missed Three Point Jumper.
+Washington,Oregon,64,62,39,35,0,Oregon Offensive Rebound.
+Washington,Oregon,64,62,39,44,0,Foul on Abdul Gaddy
+Washington,Oregon,64,63,39,44,1,Johnathan Loyd made Free Throw.
+Washington,Oregon,64,64,39,44,1,Johnathan Loyd made Free Throw.
+Washington,Oregon,64,64,39,56,0,Foul on E.J. Singler
+Washington,Oregon,64,64,39,56,0,Washington Full Timeout.
+Washington,Oregon,64,64,40,0,0,End of the 2nd Half.

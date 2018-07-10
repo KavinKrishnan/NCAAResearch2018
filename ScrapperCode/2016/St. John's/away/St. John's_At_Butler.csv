@@ -1,0 +1,365 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+St. John's,Butler,0,0,0,0,0,Jump Ball won by Butler
+St. John's,Butler,0,0,0,8,0,Roosevelt Jones missed Jumper.
+St. John's,Butler,0,0,0,8,0,Kassoum Yakwe Defensive Rebound.
+St. John's,Butler,0,0,0,30,0,Kassoum Yakwe Turnover.
+St. John's,Butler,0,0,0,44,0,Andrew Chrabascz missed Jumper.
+St. John's,Butler,0,0,0,44,0,Kassoum Yakwe Block.
+St. John's,Butler,0,0,0,44,0,Tyler Wideman Offensive Rebound.
+St. John's,Butler,0,2,0,52,1,Tyler Wideman made Layup.
+St. John's,Butler,0,2,1,14,0,Amar Alibegovic missed Three Point Jumper.
+St. John's,Butler,0,2,1,14,0,Tyler Wideman Defensive Rebound.
+St. John's,Butler,0,2,1,30,0,Kellen Dunham missed Three Point Jumper.
+St. John's,Butler,0,2,1,30,0,Ron Mvouika Defensive Rebound.
+St. John's,Butler,0,2,1,49,0,Ron Mvouika Turnover.
+St. John's,Butler,0,2,1,49,0,Tyler Wideman Steal.
+St. John's,Butler,0,2,1,59,0,Tyler Lewis missed Three Point Jumper.
+St. John's,Butler,0,2,1,59,0,Ron Mvouika Defensive Rebound.
+St. John's,Butler,0,2,2,15,0,Federico Mussini Turnover.
+St. John's,Butler,0,2,2,15,0,Kellen Dunham Steal.
+St. John's,Butler,0,2,2,22,0,Kellen Dunham Turnover.
+St. John's,Butler,0,2,2,22,0,Kassoum Yakwe Steal.
+St. John's,Butler,2,2,2,27,1,Federico Mussini made Layup. Assisted by Amar Alibegovic.
+St. John's,Butler,2,2,2,43,0,Tyler Lewis missed Three Point Jumper.
+St. John's,Butler,2,2,2,43,0,Butler Offensive Rebound.
+St. John's,Butler,2,2,2,58,0,Tyler Wideman Turnover.
+St. John's,Butler,4,2,3,2,1,Felix Balamou made Jumper.
+St. John's,Butler,4,2,3,20,0,Jackson Davis Turnover.
+St. John's,Butler,4,2,3,20,0,Foul on Tyler Wideman.
+St. John's,Butler,4,2,3,34,0,Christian Jones Turnover.
+St. John's,Butler,4,4,3,49,1,Roosevelt Jones made Layup.
+St. John's,Butler,4,4,3,49,0,Foul on Ron Mvouika.
+St. John's,Butler,4,4,3,49,0,Roosevelt Jones missed Free Throw.
+St. John's,Butler,4,4,3,49,0,Christian Jones Defensive Rebound.
+St. John's,Butler,4,4,4,4,0,Foul on Tyler Wideman.
+St. John's,Butler,4,4,4,4,0,Official TV Timeout
+St. John's,Butler,4,4,4,21,0,Christian Jones missed Jumper.
+St. John's,Butler,4,4,4,21,0,Kellen Dunham Defensive Rebound.
+St. John's,Butler,4,4,4,48,0,Kelan Martin missed Jumper.
+St. John's,Butler,4,4,4,48,0,Christian Jones Block.
+St. John's,Butler,4,4,4,48,0,Butler Offensive Rebound.
+St. John's,Butler,4,4,4,58,0,Kellen Dunham Turnover.
+St. John's,Butler,4,4,5,5,0,Amar Alibegovic missed Jumper.
+St. John's,Butler,4,4,5,5,0,Roosevelt Jones Defensive Rebound.
+St. John's,Butler,4,6,5,18,1,Kellen Dunham made Jumper.
+St. John's,Butler,4,6,5,18,0,Foul on Federico Mussini.
+St. John's,Butler,4,7,5,18,1,Kellen Dunham made Free Throw.
+St. John's,Butler,4,7,5,36,0,Christian Jones missed Layup.
+St. John's,Butler,4,7,5,36,0,Kelan Martin Defensive Rebound.
+St. John's,Butler,4,7,5,44,0,Kelan Martin Turnover.
+St. John's,Butler,4,7,5,44,0,Federico Mussini Steal.
+St. John's,Butler,6,7,5,50,1,Federico Mussini made Layup.
+St. John's,Butler,6,7,6,10,0,Kellen Dunham Turnover.
+St. John's,Butler,6,7,6,10,0,Durand Johnson Steal.
+St. John's,Butler,6,7,6,15,0,Federico Mussini missed Three Point Jumper.
+St. John's,Butler,6,7,6,15,0,Jordan Gathers Defensive Rebound.
+St. John's,Butler,6,7,6,23,0,Foul on Jordan Gathers.
+St. John's,Butler,6,7,6,23,0,Jordan Gathers Turnover.
+St. John's,Butler,6,7,6,33,0,Malik Ellison Turnover.
+St. John's,Butler,6,7,6,33,0,Roosevelt Jones Steal.
+St. John's,Butler,6,7,6,38,0,Roosevelt Jones missed Layup.
+St. John's,Butler,6,7,6,38,0,Federico Mussini Defensive Rebound.
+St. John's,Butler,6,7,6,47,0,Durand Johnson missed Three Point Jumper.
+St. John's,Butler,6,7,6,47,0,Kelan Martin Defensive Rebound.
+St. John's,Butler,6,7,7,9,0,Foul on Malik Ellison.
+St. John's,Butler,6,8,7,9,1,Kellen Dunham made Free Throw.
+St. John's,Butler,6,9,7,9,1,Kellen Dunham made Free Throw.
+St. John's,Butler,6,9,7,15,0,Felix Balamou missed Jumper.
+St. John's,Butler,6,9,7,15,0,Kelan Martin Defensive Rebound.
+St. John's,Butler,6,9,7,32,0,Andrew Chrabascz Turnover.
+St. John's,Butler,8,9,7,39,1,Felix Balamou made Jumper.
+St. John's,Butler,8,9,7,57,0,Kelan Martin missed Jumper.
+St. John's,Butler,8,9,7,57,0,Kelan Martin Offensive Rebound.
+St. John's,Butler,8,9,8,5,0,Foul on Durand Johnson.
+St. John's,Butler,8,9,8,5,0,Official TV Timeout
+St. John's,Butler,8,10,8,5,1,Kelan Martin made Free Throw.
+St. John's,Butler,8,10,8,5,0,Kelan Martin missed Free Throw.
+St. John's,Butler,8,10,8,5,0,Kassoum Yakwe Defensive Rebound.
+St. John's,Butler,8,10,8,24,0,Malik Ellison Turnover.
+St. John's,Butler,8,10,8,24,0,Nate Fowler Steal.
+St. John's,Butler,8,13,8,49,1,Jordan Gathers made Three Point Jumper. Assisted by Andrew Chrabascz.
+St. John's,Butler,8,13,9,12,0,Foul on Tyler Lewis.
+St. John's,Butler,9,13,9,12,1,Malik Ellison made Free Throw.
+St. John's,Butler,9,13,9,12,0,Malik Ellison missed Free Throw.
+St. John's,Butler,9,13,9,12,0,Kelan Martin Defensive Rebound.
+St. John's,Butler,9,13,9,26,0,Kelan Martin missed Jumper.
+St. John's,Butler,9,13,9,26,0,Kassoum Yakwe Block.
+St. John's,Butler,9,13,9,26,0,Ron Mvouika Defensive Rebound.
+St. John's,Butler,11,13,9,39,1,Durand Johnson made Layup.
+St. John's,Butler,11,13,9,53,0,Foul on Felix Balamou.
+St. John's,Butler,11,16,9,55,1,Andrew Chrabascz made Three Point Jumper. Assisted by Jordan Gathers.
+St. John's,Butler,11,16,10,14,0,Foul on Kellen Dunham.
+St. John's,Butler,11,16,10,14,0,Felix Balamou Turnover.
+St. John's,Butler,11,16,10,14,0,Tyler Lewis Steal.
+St. John's,Butler,11,16,10,21,0,Kellen Dunham missed Three Point Jumper.
+St. John's,Butler,11,16,10,21,0,Kassoum Yakwe Defensive Rebound.
+St. John's,Butler,11,16,10,35,0,Foul on Durand Johnson.
+St. John's,Butler,11,16,10,35,0,Durand Johnson Turnover.
+St. John's,Butler,11,16,10,51,0,Foul on Roosevelt Jones.
+St. John's,Butler,11,16,10,51,0,Roosevelt Jones Turnover.
+St. John's,Butler,13,16,11,5,1,Kassoum Yakwe made Jumper.
+St. John's,Butler,13,16,11,5,0,Foul on Andrew Chrabascz.
+St. John's,Butler,13,16,11,5,0,Kassoum Yakwe missed Free Throw.
+St. John's,Butler,13,16,11,5,0,Kassoum Yakwe Offensive Rebound.
+St. John's,Butler,16,16,11,22,1,Amar Alibegovic made Three Point Jumper. Assisted by Federico Mussini.
+St. John's,Butler,16,16,11,44,0,Kellen Dunham missed Jumper.
+St. John's,Butler,16,16,11,44,0,Kassoum Yakwe Block.
+St. John's,Butler,16,16,11,44,0,Amar Alibegovic Defensive Rebound.
+St. John's,Butler,16,16,11,54,0,Ron Mvouika missed Three Point Jumper.
+St. John's,Butler,16,16,11,54,0,Butler Defensive Rebound.
+St. John's,Butler,16,18,12,9,1,Roosevelt Jones made Layup.
+St. John's,Butler,16,18,12,33,0,Kassoum Yakwe missed Jumper.
+St. John's,Butler,16,18,12,33,0,Roosevelt Jones Defensive Rebound.
+St. John's,Butler,16,18,12,43,0,Official TV Timeout
+St. John's,Butler,16,18,12,49,0,Kellen Dunham missed Three Point Jumper.
+St. John's,Butler,16,18,12,49,0,Kelan Martin Offensive Rebound.
+St. John's,Butler,16,20,12,55,1,Andrew Chrabascz made Layup.
+St. John's,Butler,16,20,13,10,0,Amar Alibegovic missed Three Point Jumper.
+St. John's,Butler,16,20,13,10,0,Roosevelt Jones Defensive Rebound.
+St. John's,Butler,16,20,13,21,0,Foul on Ron Mvouika.
+St. John's,Butler,16,21,13,21,1,Kellen Dunham made Free Throw.
+St. John's,Butler,16,22,13,21,1,Kellen Dunham made Free Throw.
+St. John's,Butler,16,22,13,40,0,Federico Mussini missed Three Point Jumper.
+St. John's,Butler,16,22,13,40,0,Kellen Dunham Defensive Rebound.
+St. John's,Butler,16,22,13,51,0,Kellen Dunham Turnover.
+St. John's,Butler,16,22,13,51,0,Federico Mussini Steal.
+St. John's,Butler,16,22,14,11,0,Foul on Kelan Martin.
+St. John's,Butler,16,22,14,11,0,Christian Jones missed Free Throw.
+St. John's,Butler,16,22,14,11,0,St. John's Deadball Team Rebound.
+St. John's,Butler,17,22,14,11,1,Christian Jones made Free Throw.
+St. John's,Butler,17,22,14,27,0,Nate Fowler Turnover.
+St. John's,Butler,17,22,14,27,0,Federico Mussini Steal.
+St. John's,Butler,17,22,14,33,0,Foul on Nate Fowler.
+St. John's,Butler,18,22,14,33,1,Federico Mussini made Free Throw.
+St. John's,Butler,19,22,14,33,1,Federico Mussini made Free Throw.
+St. John's,Butler,19,22,14,54,0,Kelan Martin missed Jumper.
+St. John's,Butler,19,22,14,54,0,Christian Jones Block.
+St. John's,Butler,19,22,14,54,0,Jordan Gathers Offensive Rebound.
+St. John's,Butler,19,22,15,4,0,Jordan Gathers missed Layup.
+St. John's,Butler,19,22,15,4,0,Kassoum Yakwe Defensive Rebound.
+St. John's,Butler,19,22,15,11,0,Foul on Andrew Chrabascz.
+St. John's,Butler,19,22,15,11,0,Kassoum Yakwe missed Free Throw.
+St. John's,Butler,19,22,15,11,0,St. John's Deadball Team Rebound.
+St. John's,Butler,19,22,15,11,0,Kassoum Yakwe missed Free Throw.
+St. John's,Butler,19,22,15,11,0,Roosevelt Jones Defensive Rebound.
+St. John's,Butler,19,24,15,23,1,Andrew Chrabascz made Layup. Assisted by Kellen Dunham.
+St. John's,Butler,19,24,15,45,0,Foul on Austin Etherington.
+St. John's,Butler,20,24,15,45,1,Federico Mussini made Free Throw.
+St. John's,Butler,21,24,15,45,1,Federico Mussini made Free Throw.
+St. John's,Butler,21,26,16,2,1,Andrew Chrabascz made Layup. Assisted by Austin Etherington.
+St. John's,Butler,23,26,16,26,1,Christian Jones made Jumper.
+St. John's,Butler,23,29,16,41,1,Kellen Dunham made Three Point Jumper. Assisted by Kelan Martin.
+St. John's,Butler,25,29,16,59,1,Felix Balamou made Layup.
+St. John's,Butler,25,29,17,17,0,Foul on Malik Ellison.
+St. John's,Butler,25,29,17,17,0,Official TV Timeout
+St. John's,Butler,25,30,17,17,1,Kelan Martin made Free Throw.
+St. John's,Butler,25,31,17,17,1,Kelan Martin made Free Throw.
+St. John's,Butler,25,31,17,38,0,Amar Alibegovic missed Jumper.
+St. John's,Butler,25,31,17,38,0,Kellen Dunham Defensive Rebound.
+St. John's,Butler,25,31,18,0,0,Foul on Federico Mussini.
+St. John's,Butler,25,32,18,0,1,Kellen Dunham made Free Throw.
+St. John's,Butler,25,33,18,0,1,Kellen Dunham made Free Throw.
+St. John's,Butler,25,33,18,10,0,Durand Johnson missed Three Point Jumper.
+St. John's,Butler,25,33,18,10,0,Kelan Martin Defensive Rebound.
+St. John's,Butler,25,33,18,34,0,Foul on Felix Balamou.
+St. John's,Butler,25,33,18,34,0,Austin Etherington missed Free Throw.
+St. John's,Butler,25,33,18,34,0,Butler Deadball Team Rebound.
+St. John's,Butler,25,34,18,34,1,Austin Etherington made Free Throw.
+St. John's,Butler,25,34,18,50,0,Christian Jones missed Jumper.
+St. John's,Butler,25,34,18,50,0,Kelan Martin Defensive Rebound.
+St. John's,Butler,25,36,19,3,1,Kelan Martin made Jumper.
+St. John's,Butler,25,36,19,21,0,Malik Ellison missed Jumper.
+St. John's,Butler,25,36,19,21,0,Kellen Dunham Defensive Rebound.
+St. John's,Butler,25,39,19,35,1,Kelan Martin made Three Point Jumper. Assisted by Roosevelt Jones.
+St. John's,Butler,25,39,19,39,0,St. John's  Timeout
+St. John's,Butler,25,39,19,57,0,Amar Alibegovic missed Three Point Jumper.
+St. John's,Butler,25,39,19,57,0,Butler Deadball Team Rebound.
+St. John's,Butler,25,39,20,0,0,End of 1st half
+St. John's,Butler,25,39,20,0,0,Jump Ball won by St. John's
+St. John's,Butler,25,39,20,11,0,Amar Alibegovic missed Three Point Jumper.
+St. John's,Butler,25,39,20,11,0,St. John's Offensive Rebound.
+St. John's,Butler,25,39,20,33,0,Kassoum Yakwe Turnover.
+St. John's,Butler,25,39,20,40,0,Roosevelt Jones Turnover.
+St. John's,Butler,25,39,20,40,0,Amar Alibegovic Steal.
+St. John's,Butler,25,39,20,45,0,Amar Alibegovic Turnover.
+St. John's,Butler,25,39,20,54,0,Roosevelt Jones missed Jumper.
+St. John's,Butler,25,39,20,54,0,Kassoum Yakwe Block.
+St. John's,Butler,25,39,20,54,0,Ron Mvouika Defensive Rebound.
+St. John's,Butler,28,39,21,3,1,Federico Mussini made Three Point Jumper. Assisted by Felix Balamou.
+St. John's,Butler,28,42,21,22,1,Kellen Dunham made Three Point Jumper. Assisted by Tyler Wideman.
+St. John's,Butler,31,42,21,51,1,Ron Mvouika made Three Point Jumper. Assisted by Federico Mussini.
+St. John's,Butler,31,44,22,24,1,Kelan Martin made Jumper.
+St. John's,Butler,33,44,22,39,1,Felix Balamou made Layup.
+St. John's,Butler,33,44,22,57,0,Andrew Chrabascz missed Jumper.
+St. John's,Butler,33,44,22,57,0,Tyler Wideman Offensive Rebound.
+St. John's,Butler,33,46,23,6,1,Tyler Wideman made Layup.
+St. John's,Butler,33,46,23,6,0,Butler  Timeout
+St. John's,Butler,33,46,23,13,0,Kassoum Yakwe missed Jumper.
+St. John's,Butler,33,46,23,13,0,Roosevelt Jones Defensive Rebound.
+St. John's,Butler,33,48,23,21,1,Kelan Martin made Jumper.
+St. John's,Butler,35,48,23,36,1,Christian Jones made Jumper. Assisted by Felix Balamou.
+St. John's,Butler,35,51,23,56,1,Kellen Dunham made Three Point Jumper. Assisted by Andrew Chrabascz.
+St. John's,Butler,35,51,24,16,0,Ron Mvouika missed Layup.
+St. John's,Butler,35,51,24,16,0,Kelan Martin Defensive Rebound.
+St. John's,Butler,35,51,24,22,0,Foul on Kassoum Yakwe.
+St. John's,Butler,35,51,24,22,0,Official TV Timeout
+St. John's,Butler,35,53,24,25,1,Kelan Martin made Layup.
+St. John's,Butler,35,53,24,47,0,Foul on Tyler Wideman.
+St. John's,Butler,35,53,24,47,0,Kassoum Yakwe missed Free Throw.
+St. John's,Butler,35,53,24,47,0,St. John's Deadball Team Rebound.
+St. John's,Butler,35,53,24,47,0,Kassoum Yakwe missed Free Throw.
+St. John's,Butler,35,53,24,47,0,Tyler Wideman Defensive Rebound.
+St. John's,Butler,35,53,25,0,0,Kelan Martin missed Jumper.
+St. John's,Butler,35,53,25,1,0,Kelan Martin Offensive Rebound.
+St. John's,Butler,35,53,25,4,0,Kelan Martin missed Three Point Jumper.
+St. John's,Butler,35,53,25,4,0,Malik Ellison Defensive Rebound.
+St. John's,Butler,35,53,25,24,0,Malik Ellison missed Layup.
+St. John's,Butler,35,53,25,24,0,St. John's Offensive Rebound.
+St. John's,Butler,35,53,25,32,0,Kassoum Yakwe Turnover.
+St. John's,Butler,35,53,25,48,0,Andrew Chrabascz missed Three Point Jumper.
+St. John's,Butler,35,53,25,48,0,Malik Ellison Defensive Rebound.
+St. John's,Butler,37,53,26,1,1,Durand Johnson made Layup. Assisted by Malik Ellison.
+St. John's,Butler,37,53,26,1,0,Foul on Andrew Chrabascz.
+St. John's,Butler,38,53,26,1,1,Durand Johnson made Free Throw.
+St. John's,Butler,38,53,26,17,0,Tyler Wideman missed Jumper.
+St. John's,Butler,38,53,26,17,0,Amar Alibegovic Defensive Rebound.
+St. John's,Butler,38,53,26,30,0,Durand Johnson missed Three Point Jumper.
+St. John's,Butler,38,53,26,30,0,Amar Alibegovic Offensive Rebound.
+St. John's,Butler,38,53,26,35,0,Ron Mvouika missed Three Point Jumper.
+St. John's,Butler,38,53,26,35,0,Austin Etherington Defensive Rebound.
+St. John's,Butler,38,53,26,43,0,Foul on Roosevelt Jones.
+St. John's,Butler,38,53,26,43,0,Roosevelt Jones Turnover.
+St. John's,Butler,38,53,27,3,0,Foul on Roosevelt Jones.
+St. John's,Butler,38,53,27,12,0,Durand Johnson Turnover.
+St. John's,Butler,38,53,27,18,0,Foul on Malik Ellison.
+St. John's,Butler,38,55,27,29,1,Tyler Wideman made Dunk. Assisted by Roosevelt Jones.
+St. John's,Butler,38,55,27,42,0,Foul on Kellen Dunham.
+St. John's,Butler,39,55,27,42,1,Malik Ellison made Free Throw.
+St. John's,Butler,39,55,27,42,0,Malik Ellison missed Free Throw.
+St. John's,Butler,39,55,27,42,0,Roosevelt Jones Defensive Rebound.
+St. John's,Butler,39,55,27,48,0,Foul on Christian Jones.
+St. John's,Butler,39,55,27,52,0,Foul on Malik Ellison.
+St. John's,Butler,39,55,28,3,0,Jordan Gathers missed Three Point Jumper.
+St. John's,Butler,39,55,28,3,0,Butler Offensive Rebound.
+St. John's,Butler,39,55,28,7,0,Official TV Timeout
+St. John's,Butler,39,55,28,17,0,Tyler Lewis Turnover.
+St. John's,Butler,39,55,28,17,0,Felix Balamou Steal.
+St. John's,Butler,39,55,28,21,0,Foul on Austin Etherington.
+St. John's,Butler,39,55,28,31,0,Felix Balamou Turnover.
+St. John's,Butler,39,55,28,31,0,Roosevelt Jones Steal.
+St. John's,Butler,39,55,28,47,0,Jordan Gathers missed Layup.
+St. John's,Butler,39,55,28,47,0,Jordan Gathers Offensive Rebound.
+St. John's,Butler,39,55,29,0,0,Roosevelt Jones Turnover.
+St. John's,Butler,39,55,29,26,0,Foul on Austin Etherington.
+St. John's,Butler,39,55,29,26,0,Felix Balamou missed Free Throw.
+St. John's,Butler,39,55,29,26,0,St. John's Deadball Team Rebound.
+St. John's,Butler,40,55,29,26,1,Felix Balamou made Free Throw.
+St. John's,Butler,40,55,29,46,0,Foul on Felix Balamou.
+St. John's,Butler,40,57,29,50,1,Kelan Martin made Jumper.
+St. John's,Butler,40,57,30,9,0,Federico Mussini missed Three Point Jumper.
+St. John's,Butler,40,57,30,9,0,Roosevelt Jones Defensive Rebound.
+St. John's,Butler,40,57,30,19,0,Foul on Tyler Wideman.
+St. John's,Butler,40,57,30,19,0,Tyler Wideman Turnover.
+St. John's,Butler,40,57,30,34,0,Felix Balamou missed Jumper.
+St. John's,Butler,40,57,30,34,0,Ron Mvouika Offensive Rebound.
+St. John's,Butler,40,57,30,47,0,Ron Mvouika missed Layup.
+St. John's,Butler,40,57,30,47,0,Durand Johnson Offensive Rebound.
+St. John's,Butler,40,57,30,47,0,Foul on Nate Fowler.
+St. John's,Butler,41,57,30,47,1,Durand Johnson made Free Throw.
+St. John's,Butler,42,57,30,47,1,Durand Johnson made Free Throw.
+St. John's,Butler,42,57,31,8,0,Foul on Kassoum Yakwe.
+St. John's,Butler,42,57,31,8,0,Kellen Dunham missed Free Throw.
+St. John's,Butler,42,57,31,8,0,Butler Deadball Team Rebound.
+St. John's,Butler,42,58,31,8,1,Kellen Dunham made Free Throw.
+St. John's,Butler,44,58,31,15,1,Felix Balamou made Jumper.
+St. John's,Butler,44,58,31,34,0,Foul on Felix Balamou.
+St. John's,Butler,44,59,31,34,1,Andrew Chrabascz made Free Throw.
+St. John's,Butler,44,60,31,34,1,Andrew Chrabascz made Free Throw.
+St. John's,Butler,44,60,31,39,0,Durand Johnson missed Three Point Jumper.
+St. John's,Butler,44,60,31,39,0,Malik Ellison Offensive Rebound.
+St. John's,Butler,47,60,31,49,1,Federico Mussini made Three Point Jumper. Assisted by Malik Ellison.
+St. John's,Butler,47,62,32,16,1,Kelan Martin made Layup. Assisted by Roosevelt Jones.
+St. John's,Butler,47,62,32,34,0,Jump Ball won by Butler
+St. John's,Butler,47,62,32,34,0,Malik Ellison Turnover.
+St. John's,Butler,47,62,32,34,0,Kelan Martin Steal.
+St. John's,Butler,47,62,32,34,0,Official TV Timeout
+St. John's,Butler,47,62,32,40,0,Foul on Kassoum Yakwe.
+St. John's,Butler,47,63,32,40,1,Kellen Dunham made Free Throw.
+St. John's,Butler,47,64,32,40,1,Kellen Dunham made Free Throw.
+St. John's,Butler,47,64,32,47,0,Foul on Kellen Dunham.
+St. John's,Butler,48,64,32,47,1,Malik Ellison made Free Throw.
+St. John's,Butler,48,64,32,47,0,Malik Ellison missed Free Throw.
+St. John's,Butler,48,64,32,47,0,Kellen Dunham Defensive Rebound.
+St. John's,Butler,48,64,33,6,0,Foul on Nate Fowler.
+St. John's,Butler,48,64,33,6,0,Nate Fowler Turnover.
+St. John's,Butler,50,64,33,14,1,Ron Mvouika made Jumper.
+St. John's,Butler,50,64,33,29,0,Roosevelt Jones Turnover.
+St. John's,Butler,50,64,33,29,0,Durand Johnson Steal.
+St. John's,Butler,50,64,33,36,0,Federico Mussini missed Layup.
+St. John's,Butler,50,64,33,36,0,Kelan Martin Block.
+St. John's,Butler,50,64,33,36,0,Butler Defensive Rebound.
+St. John's,Butler,50,64,33,41,0,Andrew Chrabascz Turnover.
+St. John's,Butler,50,64,33,41,0,Federico Mussini Steal.
+St. John's,Butler,50,64,33,50,0,Federico Mussini missed Layup.
+St. John's,Butler,50,64,33,50,0,Roosevelt Jones Defensive Rebound.
+St. John's,Butler,50,66,33,55,1,Kelan Martin made Layup.
+St. John's,Butler,50,66,34,11,0,Malik Ellison Turnover.
+St. John's,Butler,50,66,34,11,0,Foul on Malik Ellison.
+St. John's,Butler,50,68,34,27,1,Kelan Martin made Layup. Assisted by Roosevelt Jones.
+St. John's,Butler,50,68,34,47,0,Kassoum Yakwe missed Jumper.
+St. John's,Butler,50,68,34,47,0,Kassoum Yakwe Offensive Rebound.
+St. John's,Butler,50,68,34,52,0,Kassoum Yakwe missed Layup.
+St. John's,Butler,50,68,34,52,0,Durand Johnson Offensive Rebound.
+St. John's,Butler,50,68,34,55,0,Foul on Roosevelt Jones.
+St. John's,Butler,51,68,34,55,1,Durand Johnson made Free Throw.
+St. John's,Butler,52,68,34,55,1,Durand Johnson made Free Throw.
+St. John's,Butler,52,68,35,13,0,Foul on Durand Johnson.
+St. John's,Butler,52,69,35,13,1,Roosevelt Jones made Free Throw.
+St. John's,Butler,52,69,35,13,0,Roosevelt Jones missed Free Throw.
+St. John's,Butler,52,69,35,13,0,Kassoum Yakwe Defensive Rebound.
+St. John's,Butler,52,69,35,20,0,Durand Johnson missed Jumper.
+St. John's,Butler,52,69,35,20,0,Tyler Wideman Defensive Rebound.
+St. John's,Butler,52,69,35,35,0,Kellen Dunham missed Jumper.
+St. John's,Butler,52,69,35,35,0,Durand Johnson Defensive Rebound.
+St. John's,Butler,52,69,35,45,0,Federico Mussini Turnover.
+St. John's,Butler,52,69,35,45,0,Roosevelt Jones Steal.
+St. John's,Butler,52,69,35,51,0,Kelan Martin missed Layup.
+St. John's,Butler,52,69,35,51,0,Tyler Wideman Offensive Rebound.
+St. John's,Butler,52,69,35,58,0,Tyler Wideman missed Layup.
+St. John's,Butler,52,69,35,58,0,Federico Mussini Defensive Rebound.
+St. John's,Butler,52,69,35,59,0,Elijah Holifield missed Layup.
+St. John's,Butler,52,69,35,59,0,St. John's Offensive Rebound.
+St. John's,Butler,54,69,36,8,1,Felix Balamou made Jumper.
+St. John's,Butler,54,72,36,17,1,Kellen Dunham made Three Point Jumper. Assisted by Tyler Lewis.
+St. John's,Butler,54,72,36,37,0,Durand Johnson missed Three Point Jumper.
+St. John's,Butler,54,72,36,37,0,Butler Defensive Rebound.
+St. John's,Butler,54,72,36,37,0,Official TV Timeout
+St. John's,Butler,54,74,37,5,1,Tyler Lewis made Jumper. Assisted by Tyler Wideman.
+St. John's,Butler,54,74,37,23,0,Federico Mussini missed Three Point Jumper.
+St. John's,Butler,54,74,37,23,0,Andrew Chrabascz Defensive Rebound.
+St. John's,Butler,54,74,37,24,0,Foul on Ron Mvouika.
+St. John's,Butler,54,75,37,24,1,Andrew Chrabascz made Free Throw.
+St. John's,Butler,54,76,37,24,1,Andrew Chrabascz made Free Throw.
+St. John's,Butler,56,76,37,51,1,Durand Johnson made Jumper.
+St. John's,Butler,56,76,37,51,0,Foul on Jordan Gathers.
+St. John's,Butler,57,76,37,51,1,Durand Johnson made Free Throw.
+St. John's,Butler,57,76,38,11,0,Jordan Gathers missed Three Point Jumper.
+St. John's,Butler,57,76,38,11,0,Kassoum Yakwe Defensive Rebound.
+St. John's,Butler,57,76,38,17,0,Ron Mvouika Turnover.
+St. John's,Butler,57,76,38,17,0,Austin Etherington Steal.
+St. John's,Butler,57,76,38,24,0,Tyler Lewis missed Jumper.
+St. John's,Butler,57,76,38,24,0,Ron Mvouika Defensive Rebound.
+St. John's,Butler,57,76,38,30,0,Foul on Austin Etherington.
+St. John's,Butler,57,76,38,30,0,Kassoum Yakwe missed Free Throw.
+St. John's,Butler,57,76,38,30,0,St. John's Deadball Team Rebound.
+St. John's,Butler,58,76,38,30,1,Kassoum Yakwe made Free Throw.
+St. John's,Butler,58,78,38,51,1,Jackson Davis made Jumper.
+St. John's,Butler,58,78,39,7,0,Durand Johnson missed Three Point Jumper.
+St. John's,Butler,58,78,39,7,0,Steven Bennett Defensive Rebound.
+St. John's,Butler,58,78,39,31,0,Tyler Lewis missed Layup.
+St. John's,Butler,58,78,39,31,0,Durand Johnson Defensive Rebound.
+St. John's,Butler,58,78,39,43,0,Abdul Dial missed Jumper.
+St. John's,Butler,58,78,39,43,0,Federico Mussini Offensive Rebound.
+St. John's,Butler,58,78,39,57,0,Elijah Holifield missed Three Point Jumper.
+St. John's,Butler,58,78,39,57,0,Jordan Gathers Defensive Rebound.
+St. John's,Butler,58,78,40,0,0,End of Game

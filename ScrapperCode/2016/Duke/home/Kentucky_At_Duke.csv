@@ -1,0 +1,358 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Kentucky,Duke,0,0,0,0,0,Jump Ball won by Kentucky
+Kentucky,Duke,2,0,0,20,1,Jamal Murray made Layup. Assisted by Tyler Ulis.
+Kentucky,Duke,2,0,0,41,0,Grayson Allen missed Three Point Jumper.
+Kentucky,Duke,2,0,0,41,0,Marshall Plumlee Offensive Rebound.
+Kentucky,Duke,2,2,0,46,1,Marshall Plumlee made Layup.
+Kentucky,Duke,2,2,1,12,0,Foul on Amile Jefferson.
+Kentucky,Duke,2,2,1,12,0,Skal Labissiere missed Free Throw.
+Kentucky,Duke,2,2,1,12,0,Kentucky Deadball Team Rebound.
+Kentucky,Duke,3,2,1,12,1,Skal Labissiere made Free Throw.
+Kentucky,Duke,3,2,1,29,0,Foul on Marcus Lee.
+Kentucky,Duke,3,2,1,31,0,Grayson Allen missed Jumper.
+Kentucky,Duke,3,2,1,31,0,Marcus Lee Block.
+Kentucky,Duke,3,2,1,31,0,Isaiah Briscoe Defensive Rebound.
+Kentucky,Duke,5,2,1,40,1,Skal Labissiere made Dunk. Assisted by Tyler Ulis.
+Kentucky,Duke,5,2,2,3,0,Brandon Ingram missed Jumper.
+Kentucky,Duke,5,2,2,3,0,Marcus Lee Defensive Rebound.
+Kentucky,Duke,7,2,2,11,1,Isaiah Briscoe made Layup. Assisted by Jamal Murray.
+Kentucky,Duke,7,2,2,38,0,Amile Jefferson missed Jumper.
+Kentucky,Duke,7,2,2,38,0,Marshall Plumlee Offensive Rebound.
+Kentucky,Duke,7,4,2,41,1,Marshall Plumlee made Layup.
+Kentucky,Duke,9,4,2,57,1,Isaiah Briscoe made Layup. Assisted by Skal Labissiere.
+Kentucky,Duke,9,4,3,22,0,Grayson Allen missed Jumper.
+Kentucky,Duke,9,4,3,22,0,Marshall Plumlee Offensive Rebound.
+Kentucky,Duke,9,6,3,27,1,Marshall Plumlee made Layup.
+Kentucky,Duke,9,6,3,32,0,Marcus Lee Turnover.
+Kentucky,Duke,9,6,3,41,0,Brandon Ingram missed Layup.
+Kentucky,Duke,9,6,3,41,0,Marshall Plumlee Offensive Rebound.
+Kentucky,Duke,9,8,3,47,1,Marshall Plumlee made Layup.
+Kentucky,Duke,9,8,3,47,0,Foul on Skal Labissiere.
+Kentucky,Duke,9,9,3,47,1,Marshall Plumlee made Free Throw.
+Kentucky,Duke,9,9,3,50,0,Jamal Murray missed Jumper.
+Kentucky,Duke,9,9,3,50,0,Marshall Plumlee Block.
+Kentucky,Duke,9,9,3,50,0,Marshall Plumlee Defensive Rebound.
+Kentucky,Duke,9,9,4,16,0,Foul on Brandon Ingram.
+Kentucky,Duke,9,9,4,16,0,Brandon Ingram Turnover.
+Kentucky,Duke,9,9,4,16,0,Official TV Timeout
+Kentucky,Duke,12,9,4,29,1,Jamal Murray made Three Point Jumper. Assisted by Tyler Ulis.
+Kentucky,Duke,12,9,4,48,0,Grayson Allen missed Jumper.
+Kentucky,Duke,12,9,4,48,0,Isaac Humphries Block.
+Kentucky,Duke,12,9,4,48,0,Tyler Ulis Defensive Rebound.
+Kentucky,Duke,14,9,4,55,1,Tyler Ulis made Layup.
+Kentucky,Duke,14,9,5,9,0,Matt Jones missed Jumper.
+Kentucky,Duke,14,9,5,9,0,Kentucky Defensive Rebound.
+Kentucky,Duke,14,9,5,32,0,Alex Poythress missed Jumper.
+Kentucky,Duke,14,9,5,32,0,Amile Jefferson Defensive Rebound.
+Kentucky,Duke,14,9,5,47,0,Luke Kennard missed Three Point Jumper.
+Kentucky,Duke,14,9,5,47,0,Kentucky Defensive Rebound.
+Kentucky,Duke,14,9,6,5,0,Isaac Humphries missed Jumper.
+Kentucky,Duke,14,9,6,5,0,Marshall Plumlee Defensive Rebound.
+Kentucky,Duke,14,11,6,21,1,Amile Jefferson made Layup. Assisted by Matt Jones.
+Kentucky,Duke,14,11,6,21,0,Foul on Isaac Humphries.
+Kentucky,Duke,14,11,6,21,0,Amile Jefferson missed Free Throw.
+Kentucky,Duke,14,11,6,21,0,Luke Kennard Offensive Rebound.
+Kentucky,Duke,14,14,6,22,1,Matt Jones made Three Point Jumper. Assisted by Luke Kennard.
+Kentucky,Duke,14,14,6,40,0,Foul on Derryck Thornton.
+Kentucky,Duke,14,14,6,52,0,Skal Labissiere Turnover.
+Kentucky,Duke,14,14,6,54,0,Matt Jones missed Layup.
+Kentucky,Duke,14,14,6,54,0,Skal Labissiere Defensive Rebound.
+Kentucky,Duke,14,14,6,59,0,Derek Willis missed Three Point Jumper.
+Kentucky,Duke,14,14,6,59,0,Jamal Murray Offensive Rebound.
+Kentucky,Duke,14,14,7,8,0,Jamal Murray missed Jumper.
+Kentucky,Duke,14,14,7,8,0,Skal Labissiere Offensive Rebound.
+Kentucky,Duke,14,14,7,13,0,Skal Labissiere missed Layup.
+Kentucky,Duke,14,14,7,13,0,Marshall Plumlee Block.
+Kentucky,Duke,14,14,7,13,0,Jamal Murray Offensive Rebound.
+Kentucky,Duke,14,14,7,21,0,Jamal Murray missed Three Point Jumper.
+Kentucky,Duke,14,14,7,21,0,Derryck Thornton Defensive Rebound.
+Kentucky,Duke,14,14,7,25,0,Derryck Thornton missed Jumper.
+Kentucky,Duke,14,14,7,25,0,Skal Labissiere Block.
+Kentucky,Duke,14,14,7,25,0,Alex Poythress Defensive Rebound.
+Kentucky,Duke,14,14,7,31,0,Foul on Matt Jones.
+Kentucky,Duke,14,14,7,57,0,Foul on Skal Labissiere.
+Kentucky,Duke,14,14,7,57,0,Skal Labissiere Turnover.
+Kentucky,Duke,14,14,8,2,0,Luke Kennard missed Layup.
+Kentucky,Duke,14,14,8,2,0,Alex Poythress Defensive Rebound.
+Kentucky,Duke,14,14,8,9,0,Foul on Chase Jeter.
+Kentucky,Duke,14,14,8,9,0,Official TV Timeout
+Kentucky,Duke,14,14,8,25,0,Alex Poythress missed Jumper.
+Kentucky,Duke,14,14,8,25,0,Derryck Thornton Defensive Rebound.
+Kentucky,Duke,14,14,8,45,0,Chase Jeter Turnover.
+Kentucky,Duke,14,14,8,55,0,Foul on Chase Jeter.
+Kentucky,Duke,14,14,9,8,0,Marcus Lee missed Layup.
+Kentucky,Duke,14,14,9,8,0,Amile Jefferson Defensive Rebound.
+Kentucky,Duke,14,14,9,26,0,Marshall Plumlee missed Jumper.
+Kentucky,Duke,14,14,9,26,0,Tyler Ulis Block.
+Kentucky,Duke,14,14,9,26,0,Duke Offensive Rebound.
+Kentucky,Duke,14,14,9,26,0,Jump Ball won by Duke
+Kentucky,Duke,14,14,9,43,0,Duke  Turnover.
+Kentucky,Duke,14,14,9,48,0,Isaiah Briscoe missed Jumper.
+Kentucky,Duke,14,14,9,48,0,Isaac Humphries Offensive Rebound.
+Kentucky,Duke,16,14,10,9,1,Isaac Humphries made Jumper. Assisted by Marcus Lee.
+Kentucky,Duke,16,16,10,24,1,Amile Jefferson made Dunk. Assisted by Brandon Ingram.
+Kentucky,Duke,18,16,10,43,1,Isaiah Briscoe made Jumper.
+Kentucky,Duke,18,16,10,52,0,Foul on Jamal Murray.
+Kentucky,Duke,18,17,10,52,1,Matt Jones made Free Throw.
+Kentucky,Duke,18,18,10,52,1,Matt Jones made Free Throw.
+Kentucky,Duke,18,18,11,0,0,Foul on Brandon Ingram.
+Kentucky,Duke,18,18,11,0,0,Isaiah Briscoe missed Free Throw.
+Kentucky,Duke,18,18,11,0,0,Marshall Plumlee Defensive Rebound.
+Kentucky,Duke,18,18,11,6,0,Grayson Allen missed Jumper.
+Kentucky,Duke,18,18,11,6,0,Amile Jefferson Offensive Rebound.
+Kentucky,Duke,18,20,11,10,1,Amile Jefferson made Layup.
+Kentucky,Duke,18,20,11,23,0,Foul on Grayson Allen.
+Kentucky,Duke,19,20,11,23,1,Tyler Ulis made Free Throw.
+Kentucky,Duke,20,20,11,23,1,Tyler Ulis made Free Throw.
+Kentucky,Duke,20,20,11,38,0,Grayson Allen missed Jumper.
+Kentucky,Duke,20,20,11,38,0,Isaac Humphries Block.
+Kentucky,Duke,20,20,11,38,0,Isaac Humphries Defensive Rebound.
+Kentucky,Duke,20,20,11,45,0,Jamal Murray missed Layup.
+Kentucky,Duke,20,20,11,45,0,Alex Poythress Offensive Rebound.
+Kentucky,Duke,22,20,11,49,1,Alex Poythress made Layup.
+Kentucky,Duke,22,20,11,49,0,Foul on Marshall Plumlee.
+Kentucky,Duke,22,20,11,49,0,Alex Poythress missed Free Throw.
+Kentucky,Duke,22,20,11,49,0,Isaac Humphries Offensive Rebound.
+Kentucky,Duke,22,20,11,51,0,Isaac Humphries Turnover.
+Kentucky,Duke,22,20,11,51,0,Matt Jones Steal.
+Kentucky,Duke,22,20,12,5,0,Foul on Isaac Humphries.
+Kentucky,Duke,22,20,12,5,0,Official TV Timeout
+Kentucky,Duke,22,20,12,6,0,Luke Kennard missed Three Point Jumper.
+Kentucky,Duke,22,20,12,6,0,Isaiah Briscoe Defensive Rebound.
+Kentucky,Duke,22,20,12,35,0,Isaac Humphries missed Jumper.
+Kentucky,Duke,22,20,12,35,0,Marshall Plumlee Defensive Rebound.
+Kentucky,Duke,22,20,12,42,0,Grayson Allen missed Jumper.
+Kentucky,Duke,22,20,12,42,0,Amile Jefferson Offensive Rebound.
+Kentucky,Duke,22,20,12,51,0,Foul on Isaac Humphries.
+Kentucky,Duke,22,20,12,51,0,Amile Jefferson missed Free Throw.
+Kentucky,Duke,22,20,12,51,0,Marcus Lee Defensive Rebound.
+Kentucky,Duke,24,20,13,10,1,Tyler Ulis made Jumper. Assisted by Jamal Murray.
+Kentucky,Duke,24,22,13,28,1,Matt Jones made Jumper.
+Kentucky,Duke,24,22,13,49,0,Alex Poythress missed Layup.
+Kentucky,Duke,24,22,13,49,0,Marshall Plumlee Block.
+Kentucky,Duke,24,22,13,49,0,Amile Jefferson Defensive Rebound.
+Kentucky,Duke,24,22,14,7,0,Foul on Alex Poythress.
+Kentucky,Duke,24,23,14,7,1,Marshall Plumlee made Free Throw.
+Kentucky,Duke,24,23,14,7,0,Marshall Plumlee missed Free Throw.
+Kentucky,Duke,24,23,14,7,0,Marcus Lee Defensive Rebound.
+Kentucky,Duke,24,23,14,18,0,Alex Poythress missed Three Point Jumper.
+Kentucky,Duke,24,23,14,18,0,Marcus Lee Offensive Rebound.
+Kentucky,Duke,24,23,14,23,0,Marcus Lee missed Jumper.
+Kentucky,Duke,24,23,14,23,0,Marshall Plumlee Block.
+Kentucky,Duke,24,23,14,23,0,Marcus Lee Offensive Rebound.
+Kentucky,Duke,24,23,14,35,0,Marcus Lee missed Jumper.
+Kentucky,Duke,24,23,14,35,0,Alex Poythress Offensive Rebound.
+Kentucky,Duke,24,23,14,37,0,Alex Poythress missed Jumper.
+Kentucky,Duke,24,23,14,37,0,Marshall Plumlee Block.
+Kentucky,Duke,24,23,14,37,0,Marcus Lee Offensive Rebound.
+Kentucky,Duke,24,23,14,43,0,Marcus Lee missed Layup.
+Kentucky,Duke,24,23,14,43,0,Amile Jefferson Defensive Rebound.
+Kentucky,Duke,24,23,14,58,0,Matt Jones missed Three Point Jumper.
+Kentucky,Duke,24,23,14,58,0,Tyler Ulis Defensive Rebound.
+Kentucky,Duke,27,23,15,28,1,Isaiah Briscoe made Three Point Jumper.
+Kentucky,Duke,27,23,15,53,0,Foul on Marcus Lee.
+Kentucky,Duke,27,23,15,53,0,Marshall Plumlee missed Free Throw.
+Kentucky,Duke,27,23,15,53,0,Duke Deadball Team Rebound.
+Kentucky,Duke,27,24,15,53,1,Marshall Plumlee made Free Throw.
+Kentucky,Duke,27,24,16,10,0,Alex Poythress missed Layup.
+Kentucky,Duke,27,24,16,10,0,Amile Jefferson Defensive Rebound.
+Kentucky,Duke,27,24,16,22,0,Matt Jones missed Three Point Jumper.
+Kentucky,Duke,27,24,16,22,0,Isaiah Briscoe Defensive Rebound.
+Kentucky,Duke,29,24,16,30,1,Marcus Lee made Dunk. Assisted by Isaiah Briscoe.
+Kentucky,Duke,29,24,16,51,0,Grayson Allen missed Layup.
+Kentucky,Duke,29,24,16,51,0,Marcus Lee Defensive Rebound.
+Kentucky,Duke,31,24,16,59,1,Tyler Ulis made Layup.
+Kentucky,Duke,31,24,17,3,0,Duke  Timeout
+Kentucky,Duke,31,27,17,18,1,Derryck Thornton made Three Point Jumper. Assisted by Grayson Allen.
+Kentucky,Duke,31,27,17,46,0,Jamal Murray missed Jumper.
+Kentucky,Duke,31,27,17,46,0,Marcus Lee Offensive Rebound.
+Kentucky,Duke,33,27,17,50,1,Marcus Lee made Layup.
+Kentucky,Duke,33,29,18,15,1,Derryck Thornton made Jumper.
+Kentucky,Duke,35,29,18,23,1,Marcus Lee made Dunk. Assisted by Tyler Ulis.
+Kentucky,Duke,35,31,18,47,1,Matt Jones made Jumper. Assisted by Marshall Plumlee.
+Kentucky,Duke,35,31,19,7,0,Isaiah Briscoe Turnover.
+Kentucky,Duke,35,31,19,14,0,Grayson Allen missed Layup.
+Kentucky,Duke,35,31,19,14,0,Marcus Lee Defensive Rebound.
+Kentucky,Duke,35,31,19,21,0,Tyler Ulis missed Three Point Jumper.
+Kentucky,Duke,35,31,19,21,0,Duke Defensive Rebound.
+Kentucky,Duke,35,31,19,26,0,Kentucky  Timeout
+Kentucky,Duke,35,31,19,50,0,Grayson Allen Turnover.
+Kentucky,Duke,35,31,19,50,0,Isaiah Briscoe Steal.
+Kentucky,Duke,37,31,19,54,1,Isaiah Briscoe made Layup. Assisted by Jamal Murray.
+Kentucky,Duke,37,31,20,0,0,End of 1st half
+Kentucky,Duke,37,31,20,0,0,Jump Ball won by Kentucky
+Kentucky,Duke,37,31,20,18,0,Foul on Marshall Plumlee.
+Kentucky,Duke,37,31,20,18,0,Jamal Murray missed Free Throw.
+Kentucky,Duke,37,31,20,18,0,Kentucky Deadball Team Rebound.
+Kentucky,Duke,37,31,20,18,0,Jamal Murray missed Free Throw.
+Kentucky,Duke,37,31,20,18,0,Amile Jefferson Defensive Rebound.
+Kentucky,Duke,37,31,20,33,0,Foul on Brandon Ingram.
+Kentucky,Duke,37,31,20,33,0,Brandon Ingram Turnover.
+Kentucky,Duke,37,31,20,56,0,Isaiah Briscoe missed Layup.
+Kentucky,Duke,37,31,20,56,0,Amile Jefferson Defensive Rebound.
+Kentucky,Duke,37,33,21,8,1,Brandon Ingram made Layup.
+Kentucky,Duke,39,33,21,26,1,Marcus Lee made Layup. Assisted by Jamal Murray.
+Kentucky,Duke,39,33,21,40,0,Grayson Allen Turnover.
+Kentucky,Duke,39,33,21,40,0,Jamal Murray Steal.
+Kentucky,Duke,39,33,21,40,0,Foul on Grayson Allen.
+Kentucky,Duke,39,33,22,1,0,Isaiah Briscoe missed Layup.
+Kentucky,Duke,39,33,22,1,0,Brandon Ingram Block.
+Kentucky,Duke,39,33,22,1,0,Kentucky Offensive Rebound.
+Kentucky,Duke,39,33,22,3,0,Tyler Ulis missed Three Point Jumper.
+Kentucky,Duke,39,33,22,3,0,Brandon Ingram Defensive Rebound.
+Kentucky,Duke,39,36,22,22,1,Matt Jones made Three Point Jumper. Assisted by Derryck Thornton.
+Kentucky,Duke,41,36,22,48,1,Jamal Murray made Layup.
+Kentucky,Duke,41,36,23,4,0,Brandon Ingram missed Jumper.
+Kentucky,Duke,41,36,23,4,0,Amile Jefferson Offensive Rebound.
+Kentucky,Duke,41,36,23,12,0,Amile Jefferson Turnover.
+Kentucky,Duke,41,36,23,12,0,Tyler Ulis Steal.
+Kentucky,Duke,43,36,23,16,1,Jamal Murray made Dunk. Assisted by Tyler Ulis.
+Kentucky,Duke,43,36,23,41,0,Brandon Ingram missed Layup.
+Kentucky,Duke,43,36,23,41,0,Marcus Lee Block.
+Kentucky,Duke,43,36,23,41,0,Tyler Ulis Defensive Rebound.
+Kentucky,Duke,43,36,23,41,0,Foul on Amile Jefferson.
+Kentucky,Duke,43,36,23,55,0,Jamal Murray missed Jumper.
+Kentucky,Duke,43,36,23,55,0,Skal Labissiere Offensive Rebound.
+Kentucky,Duke,45,36,24,0,1,Skal Labissiere made Layup.
+Kentucky,Duke,45,36,24,13,0,Derryck Thornton Turnover.
+Kentucky,Duke,45,36,24,13,0,Jamal Murray Steal.
+Kentucky,Duke,45,36,24,18,0,Jamal Murray missed Layup.
+Kentucky,Duke,45,36,24,18,0,Marcus Lee Offensive Rebound.
+Kentucky,Duke,47,36,24,18,1,Marcus Lee made Two Point Tip Shot.
+Kentucky,Duke,47,36,24,42,0,Foul on Jamal Murray.
+Kentucky,Duke,47,36,24,42,0,Official TV Timeout
+Kentucky,Duke,47,37,24,42,1,Brandon Ingram made Free Throw.
+Kentucky,Duke,47,38,24,42,1,Brandon Ingram made Free Throw.
+Kentucky,Duke,49,38,25,10,1,Skal Labissiere made Jumper. Assisted by Tyler Ulis.
+Kentucky,Duke,49,38,25,24,0,Brandon Ingram missed Jumper.
+Kentucky,Duke,49,38,25,24,0,Skal Labissiere Defensive Rebound.
+Kentucky,Duke,49,38,25,36,0,Skal Labissiere missed Jumper.
+Kentucky,Duke,49,38,25,36,0,Marshall Plumlee Defensive Rebound.
+Kentucky,Duke,49,38,25,42,0,Foul on Marcus Lee.
+Kentucky,Duke,49,38,25,55,0,Foul on Derek Willis.
+Kentucky,Duke,49,39,25,55,1,Luke Kennard made Free Throw.
+Kentucky,Duke,49,40,25,55,1,Luke Kennard made Free Throw.
+Kentucky,Duke,49,40,26,14,0,Tyler Ulis missed Jumper.
+Kentucky,Duke,49,40,26,14,0,Alex Poythress Offensive Rebound.
+Kentucky,Duke,51,40,26,19,1,Alex Poythress made Layup.
+Kentucky,Duke,51,40,26,31,0,Luke Kennard missed Three Point Jumper.
+Kentucky,Duke,51,40,26,31,0,Tyler Ulis Defensive Rebound.
+Kentucky,Duke,51,40,27,1,0,Tyler Ulis missed Three Point Jumper.
+Kentucky,Duke,51,40,27,1,0,Duke Defensive Rebound.
+Kentucky,Duke,51,40,27,5,0,Foul on Skal Labissiere.
+Kentucky,Duke,51,42,27,18,1,Derryck Thornton made Jumper.
+Kentucky,Duke,51,42,27,41,0,Foul on Derryck Thornton.
+Kentucky,Duke,52,42,27,41,1,Alex Poythress made Free Throw.
+Kentucky,Duke,53,42,27,41,1,Alex Poythress made Free Throw.
+Kentucky,Duke,53,45,27,51,1,Grayson Allen made Three Point Jumper. Assisted by Derryck Thornton.
+Kentucky,Duke,53,45,28,9,0,Jamal Murray missed Jumper.
+Kentucky,Duke,53,45,28,9,0,Duke Defensive Rebound.
+Kentucky,Duke,53,45,28,18,0,Jump Ball won by Duke
+Kentucky,Duke,53,45,28,18,0,Official TV Timeout
+Kentucky,Duke,53,45,28,27,0,Derryck Thornton missed Three Point Jumper.
+Kentucky,Duke,53,45,28,27,0,Jamal Murray Defensive Rebound.
+Kentucky,Duke,53,45,28,57,0,Tyler Ulis missed Three Point Jumper.
+Kentucky,Duke,53,45,28,57,0,Alex Poythress Offensive Rebound.
+Kentucky,Duke,55,45,29,2,1,Jamal Murray made Layup.
+Kentucky,Duke,55,45,29,17,0,Derryck Thornton Turnover.
+Kentucky,Duke,55,45,29,17,0,Isaiah Briscoe Steal.
+Kentucky,Duke,55,45,29,21,0,Jamal Murray Turnover.
+Kentucky,Duke,55,45,29,21,0,Grayson Allen Steal.
+Kentucky,Duke,55,45,29,44,0,Foul on Isaiah Briscoe.
+Kentucky,Duke,55,45,29,48,0,Grayson Allen Turnover.
+Kentucky,Duke,55,45,29,48,0,Foul on Grayson Allen.
+Kentucky,Duke,55,45,30,1,0,Jamal Murray missed Jumper.
+Kentucky,Duke,55,45,30,1,0,Grayson Allen Defensive Rebound.
+Kentucky,Duke,55,45,30,11,0,Luke Kennard missed Jumper.
+Kentucky,Duke,55,45,30,11,0,Duke Offensive Rebound.
+Kentucky,Duke,55,45,30,18,0,Foul on Alex Poythress.
+Kentucky,Duke,55,45,30,19,0,Brandon Ingram Turnover.
+Kentucky,Duke,55,45,30,19,0,Jamal Murray Steal.
+Kentucky,Duke,57,45,30,22,1,Jamal Murray made Layup.
+Kentucky,Duke,57,45,30,45,0,Foul on Skal Labissiere.
+Kentucky,Duke,57,45,30,45,0,Matt Jones missed Free Throw.
+Kentucky,Duke,57,45,30,45,0,Duke Deadball Team Rebound.
+Kentucky,Duke,57,46,30,45,1,Matt Jones made Free Throw.
+Kentucky,Duke,57,46,31,2,0,Foul on Derryck Thornton.
+Kentucky,Duke,58,46,31,2,1,Tyler Ulis made Free Throw.
+Kentucky,Duke,59,46,31,2,1,Tyler Ulis made Free Throw.
+Kentucky,Duke,59,49,31,13,1,Matt Jones made Three Point Jumper. Assisted by Derryck Thornton.
+Kentucky,Duke,59,49,31,45,0,Alex Poythress missed Jumper.
+Kentucky,Duke,59,49,31,45,0,Marshall Plumlee Block.
+Kentucky,Duke,59,49,31,45,0,Grayson Allen Defensive Rebound.
+Kentucky,Duke,59,49,31,48,0,Foul on Marcus Lee.
+Kentucky,Duke,59,49,31,48,0,Grayson Allen missed Free Throw.
+Kentucky,Duke,59,49,31,48,0,Alex Poythress Defensive Rebound.
+Kentucky,Duke,61,49,31,58,1,Tyler Ulis made Jumper.
+Kentucky,Duke,61,49,32,14,0,Foul on Brandon Ingram.
+Kentucky,Duke,61,49,32,14,0,Brandon Ingram Turnover.
+Kentucky,Duke,61,49,32,14,0,Official TV Timeout
+Kentucky,Duke,63,49,32,41,1,Alex Poythress made Dunk. Assisted by Jamal Murray.
+Kentucky,Duke,63,49,32,58,0,Matt Jones missed Three Point Jumper.
+Kentucky,Duke,63,49,32,58,0,Jamal Murray Defensive Rebound.
+Kentucky,Duke,63,49,33,9,0,Marcus Lee missed Dunk.
+Kentucky,Duke,63,49,33,9,0,Derryck Thornton Defensive Rebound.
+Kentucky,Duke,63,49,33,17,0,Derryck Thornton missed Layup.
+Kentucky,Duke,63,49,33,17,0,Amile Jefferson Offensive Rebound.
+Kentucky,Duke,63,51,33,21,1,Amile Jefferson made Layup.
+Kentucky,Duke,63,51,33,38,0,Tyler Ulis missed Jumper.
+Kentucky,Duke,63,51,33,38,0,Grayson Allen Defensive Rebound.
+Kentucky,Duke,63,53,33,46,1,Grayson Allen made Layup.
+Kentucky,Duke,63,53,34,4,0,Foul on Grayson Allen.
+Kentucky,Duke,64,53,34,4,1,Isaiah Briscoe made Free Throw.
+Kentucky,Duke,64,53,34,4,0,Isaiah Briscoe missed Free Throw.
+Kentucky,Duke,64,53,34,4,0,Marshall Plumlee Defensive Rebound.
+Kentucky,Duke,64,53,34,5,0,Foul on Marcus Lee.
+Kentucky,Duke,64,53,34,5,0,Marshall Plumlee missed Free Throw.
+Kentucky,Duke,64,53,34,5,0,Amile Jefferson Offensive Rebound.
+Kentucky,Duke,64,53,34,26,0,Foul on Alex Poythress.
+Kentucky,Duke,64,53,34,26,0,Marshall Plumlee missed Free Throw.
+Kentucky,Duke,64,53,34,26,0,Duke Deadball Team Rebound.
+Kentucky,Duke,64,54,34,26,1,Marshall Plumlee made Free Throw.
+Kentucky,Duke,64,54,34,26,0,Duke  Timeout
+Kentucky,Duke,66,54,34,46,1,Tyler Ulis made Jumper.
+Kentucky,Duke,66,54,35,3,0,Foul on Skal Labissiere.
+Kentucky,Duke,66,54,35,3,0,Grayson Allen missed Free Throw.
+Kentucky,Duke,66,54,35,3,0,Duke Deadball Team Rebound.
+Kentucky,Duke,66,55,35,3,1,Grayson Allen made Free Throw.
+Kentucky,Duke,69,55,35,14,1,Jamal Murray made Three Point Jumper. Assisted by Isaac Humphries.
+Kentucky,Duke,69,55,35,30,0,Derryck Thornton Turnover.
+Kentucky,Duke,69,55,35,30,0,Charles Matthews Steal.
+Kentucky,Duke,71,55,35,47,1,Tyler Ulis made Jumper.
+Kentucky,Duke,71,55,36,13,0,Marshall Plumlee missed Layup.
+Kentucky,Duke,71,55,36,13,0,Alex Poythress Block.
+Kentucky,Duke,71,55,36,13,0,Amile Jefferson Offensive Rebound.
+Kentucky,Duke,71,57,36,18,1,Amile Jefferson made Layup.
+Kentucky,Duke,71,57,36,32,0,Foul on Matt Jones.
+Kentucky,Duke,71,57,36,32,0,Official TV Timeout
+Kentucky,Duke,71,57,36,32,0,Alex Poythress missed Free Throw.
+Kentucky,Duke,71,57,36,32,0,Kentucky Deadball Team Rebound.
+Kentucky,Duke,72,57,36,32,1,Alex Poythress made Free Throw.
+Kentucky,Duke,72,57,36,45,0,Matt Jones missed Jumper.
+Kentucky,Duke,72,57,36,45,0,Amile Jefferson Offensive Rebound.
+Kentucky,Duke,72,57,36,51,0,Foul on Alex Poythress.
+Kentucky,Duke,72,58,36,51,1,Amile Jefferson made Free Throw.
+Kentucky,Duke,72,59,36,51,1,Amile Jefferson made Free Throw.
+Kentucky,Duke,72,59,37,13,0,Jamal Murray Turnover.
+Kentucky,Duke,72,59,37,21,0,Grayson Allen Turnover.
+Kentucky,Duke,72,59,37,21,0,Tyler Ulis Steal.
+Kentucky,Duke,72,59,37,51,0,Jamal Murray Turnover.
+Kentucky,Duke,72,59,37,51,0,Matt Jones Steal.
+Kentucky,Duke,72,61,37,56,1,Amile Jefferson made Layup. Assisted by Matt Jones.
+Kentucky,Duke,72,61,38,13,0,Kentucky  Timeout
+Kentucky,Duke,72,61,38,24,0,Foul on Chase Jeter.
+Kentucky,Duke,73,61,38,24,1,Tyler Ulis made Free Throw.
+Kentucky,Duke,74,61,38,24,1,Tyler Ulis made Free Throw.
+Kentucky,Duke,74,61,38,36,0,Derryck Thornton missed Jumper.
+Kentucky,Duke,74,61,38,36,0,Amile Jefferson Offensive Rebound.
+Kentucky,Duke,74,63,38,40,1,Amile Jefferson made Layup.
+Kentucky,Duke,74,63,39,2,0,Tyler Ulis missed Jumper.
+Kentucky,Duke,74,63,39,2,0,Luke Kennard Defensive Rebound.
+Kentucky,Duke,74,63,39,15,0,Derryck Thornton Turnover.
+Kentucky,Duke,74,63,39,38,0,Jamal Murray missed Jumper.
+Kentucky,Duke,74,63,39,38,0,Chase Jeter Block.
+Kentucky,Duke,74,63,39,38,0,Jamal Murray Offensive Rebound.
+Kentucky,Duke,74,63,39,46,0,Kentucky  Turnover.
+Kentucky,Duke,74,63,39,59,0,Amile Jefferson Turnover.
+Kentucky,Duke,74,63,39,59,0,Jamal Murray Steal.
+Kentucky,Duke,74,63,40,0,0,End of Game

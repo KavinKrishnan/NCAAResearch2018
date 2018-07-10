@@ -1,0 +1,350 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UConn,Memphis,0,0,0,0,0,Jump Ball won by Memphis
+UConn,Memphis,0,0,0,21,0,Markel Crawford missed Layup.
+UConn,Memphis,0,0,0,21,0,Markel Crawford Offensive Rebound.
+UConn,Memphis,0,2,0,21,1,Markel Crawford made Layup.
+UConn,Memphis,0,2,0,40,0,Shonn Miller missed Layup.
+UConn,Memphis,0,2,0,40,0,Shonn Miller Offensive Rebound.
+UConn,Memphis,0,2,0,44,0,Foul on Shaq Goodwin.
+UConn,Memphis,1,2,0,44,1,Shonn Miller made Free Throw.
+UConn,Memphis,2,2,0,44,1,Shonn Miller made Free Throw.
+UConn,Memphis,2,2,0,54,0,Foul on Jalen Adams.
+UConn,Memphis,2,2,1,10,0,Ricky Tarrant Jr. missed Jumper.
+UConn,Memphis,2,2,1,10,0,Sterling Gibbs Defensive Rebound.
+UConn,Memphis,5,2,1,24,1,Daniel Hamilton made Three Point Jumper. Assisted by Sterling Gibbs.
+UConn,Memphis,5,2,1,38,0,Dedric Lawson missed Jumper.
+UConn,Memphis,5,2,1,38,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,5,2,1,47,0,Daniel Hamilton Turnover.
+UConn,Memphis,5,5,2,0,1,Ricky Tarrant Jr. made Three Point Jumper. Assisted by Shaq Goodwin.
+UConn,Memphis,7,5,2,24,1,Daniel Hamilton made Jumper.
+UConn,Memphis,7,5,2,53,0,Dedric Lawson Turnover.
+UConn,Memphis,7,5,3,6,0,Sterling Gibbs missed Three Point Jumper.
+UConn,Memphis,7,5,3,7,0,Sam Craft Defensive Rebound.
+UConn,Memphis,7,5,3,22,0,Foul on Shonn Miller.
+UConn,Memphis,7,5,3,27,0,Shaq Goodwin missed Jumper.
+UConn,Memphis,7,5,3,27,0,Connecticut Defensive Rebound.
+UConn,Memphis,7,5,3,36,0,Daniel Hamilton missed Three Point Jumper.
+UConn,Memphis,7,5,3,36,0,Memphis Deadball Team Rebound.
+UConn,Memphis,7,5,3,55,0,Shaq Goodwin Turnover.
+UConn,Memphis,7,5,3,55,0,Amida Brimah Steal.
+UConn,Memphis,7,5,4,23,0,Sterling Gibbs Turnover.
+UConn,Memphis,7,5,4,23,0,Official TV Timeout
+UConn,Memphis,7,8,4,33,1,Ricky Tarrant Jr. made Three Point Jumper. Assisted by Sam Craft.
+UConn,Memphis,7,8,5,5,0,Rodney Purvis missed Jumper.
+UConn,Memphis,7,8,5,5,0,Connecticut Offensive Rebound.
+UConn,Memphis,7,8,5,29,0,Foul on Amida Brimah.
+UConn,Memphis,7,10,5,38,1,Sam Craft made Jumper.
+UConn,Memphis,7,10,6,3,0,Omar Calhoun missed Jumper.
+UConn,Memphis,7,10,6,3,0,Kentan Facey Offensive Rebound.
+UConn,Memphis,9,10,6,3,1,Kentan Facey made Two Point Tip Shot.
+UConn,Memphis,9,10,6,16,0,Foul on Rodney Purvis.
+UConn,Memphis,9,10,6,22,0,Ricky Tarrant Jr. missed Three Point Jumper.
+UConn,Memphis,9,10,6,22,0,Memphis Offensive Rebound.
+UConn,Memphis,9,10,6,47,0,Foul on Kentan Facey.
+UConn,Memphis,9,10,6,47,0,Shaq Goodwin missed Free Throw.
+UConn,Memphis,9,10,6,47,0,Memphis Deadball Team Rebound.
+UConn,Memphis,9,11,6,47,1,Shaq Goodwin made Free Throw.
+UConn,Memphis,9,11,7,8,0,Omar Calhoun missed Jumper.
+UConn,Memphis,9,11,7,8,0,Ricky Tarrant Jr. Defensive Rebound.
+UConn,Memphis,9,11,7,16,0,Avery Woodson missed Three Point Jumper.
+UConn,Memphis,9,11,7,16,0,Kentan Facey Defensive Rebound.
+UConn,Memphis,9,11,7,29,0,Kentan Facey Turnover.
+UConn,Memphis,9,11,7,29,0,Markel Crawford Steal.
+UConn,Memphis,9,13,7,36,1,Markel Crawford made Dunk. Assisted by Ricky Tarrant Jr..
+UConn,Memphis,9,13,7,54,0,Kentan Facey Turnover.
+UConn,Memphis,9,13,7,54,0,Markel Crawford Steal.
+UConn,Memphis,9,15,7,59,1,Markel Crawford made Layup.
+UConn,Memphis,9,15,8,3,0,Connecticut  Timeout
+UConn,Memphis,9,15,8,3,0,Official TV Timeout
+UConn,Memphis,9,15,8,30,0,Foul on Markel Crawford.
+UConn,Memphis,10,15,8,30,1,Rodney Purvis made Free Throw.
+UConn,Memphis,10,15,8,30,0,Rodney Purvis missed Free Throw.
+UConn,Memphis,10,15,8,30,0,Shaq Goodwin Defensive Rebound.
+UConn,Memphis,10,15,8,45,0,Foul on Shonn Miller.
+UConn,Memphis,10,15,8,57,0,Shaq Goodwin missed Jumper.
+UConn,Memphis,10,15,8,57,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,12,15,9,2,1,Rodney Purvis made Layup. Assisted by Daniel Hamilton.
+UConn,Memphis,12,17,9,22,1,Markel Crawford made Jumper.
+UConn,Memphis,12,17,9,39,0,Rodney Purvis missed Three Point Jumper.
+UConn,Memphis,12,17,9,39,0,Ricky Tarrant Jr. Defensive Rebound.
+UConn,Memphis,12,17,9,46,0,Ricky Tarrant Jr. Turnover.
+UConn,Memphis,12,17,9,46,0,Rodney Purvis Steal.
+UConn,Memphis,12,17,9,52,0,Foul on Markel Crawford.
+UConn,Memphis,13,17,9,52,1,Rodney Purvis made Free Throw.
+UConn,Memphis,14,17,9,52,1,Rodney Purvis made Free Throw.
+UConn,Memphis,14,17,10,12,0,Shaq Goodwin Turnover.
+UConn,Memphis,14,17,10,25,0,Sterling Gibbs missed Three Point Jumper.
+UConn,Memphis,14,17,10,25,0,Jalen Adams Offensive Rebound.
+UConn,Memphis,14,17,10,31,0,Jalen Adams Turnover.
+UConn,Memphis,14,17,10,49,0,Ricky Tarrant Jr. Turnover.
+UConn,Memphis,14,17,10,49,0,Jalen Adams Steal.
+UConn,Memphis,14,17,10,53,0,Rodney Purvis missed Layup.
+UConn,Memphis,14,17,10,53,0,Shaq Goodwin Defensive Rebound.
+UConn,Memphis,14,19,10,59,1,Jeremiah Martin made Layup.
+UConn,Memphis,14,19,11,24,0,Jalen Adams missed Jumper.
+UConn,Memphis,14,19,11,24,0,Nick Marshall Defensive Rebound.
+UConn,Memphis,14,19,11,29,0,Nick Marshall Turnover.
+UConn,Memphis,14,19,11,29,0,Rodney Purvis Steal.
+UConn,Memphis,14,19,11,34,0,Sterling Gibbs missed Three Point Jumper.
+UConn,Memphis,14,19,11,34,0,Nick Marshall Defensive Rebound.
+UConn,Memphis,14,21,12,0,1,Shaq Goodwin made Layup. Assisted by Ricky Tarrant Jr..
+UConn,Memphis,16,21,12,12,1,Daniel Hamilton made Jumper. Assisted by Jalen Adams.
+UConn,Memphis,16,21,12,27,0,Foul on Amida Brimah.
+UConn,Memphis,16,21,12,27,0,Official TV Timeout
+UConn,Memphis,16,22,12,27,1,Shaq Goodwin made Free Throw.
+UConn,Memphis,16,23,12,27,1,Shaq Goodwin made Free Throw.
+UConn,Memphis,18,23,12,41,1,Daniel Hamilton made Jumper.
+UConn,Memphis,18,23,13,0,0,Foul on Phillip Nolan.
+UConn,Memphis,18,23,13,0,0,Shaq Goodwin missed Free Throw.
+UConn,Memphis,18,23,13,0,0,Memphis Deadball Team Rebound.
+UConn,Memphis,18,23,13,0,0,Shaq Goodwin missed Free Throw.
+UConn,Memphis,18,23,13,0,0,Phillip Nolan Defensive Rebound.
+UConn,Memphis,18,23,13,18,0,Jalen Adams missed Three Point Jumper.
+UConn,Memphis,18,23,13,18,0,Shaq Goodwin Defensive Rebound.
+UConn,Memphis,18,23,13,27,0,Ricky Tarrant Jr. missed Three Point Jumper.
+UConn,Memphis,18,23,13,27,0,Connecticut Deadball Team Rebound.
+UConn,Memphis,18,23,13,32,0,Foul on Dedric Lawson.
+UConn,Memphis,18,23,13,36,0,Daniel Hamilton missed Jumper.
+UConn,Memphis,18,23,13,36,0,Phillip Nolan Offensive Rebound.
+UConn,Memphis,20,23,13,42,1,Phillip Nolan made Layup.
+UConn,Memphis,20,25,13,50,1,Jeremiah Martin made Jumper.
+UConn,Memphis,20,25,14,3,0,Foul on Rodney Purvis.
+UConn,Memphis,20,25,14,3,0,Rodney Purvis Turnover.
+UConn,Memphis,20,25,14,25,0,Shaq Goodwin missed Jumper.
+UConn,Memphis,20,25,14,25,0,Dedric Lawson Offensive Rebound.
+UConn,Memphis,20,25,14,25,0,Dedric Lawson missed Layup.
+UConn,Memphis,20,25,14,25,0,Jalen Adams Block.
+UConn,Memphis,20,25,14,25,0,Dedric Lawson Offensive Rebound.
+UConn,Memphis,20,27,14,34,1,Dedric Lawson made Two Point Tip Shot.
+UConn,Memphis,20,27,14,50,0,Omar Calhoun missed Three Point Jumper.
+UConn,Memphis,20,27,14,50,0,Shaq Goodwin Defensive Rebound.
+UConn,Memphis,20,27,15,3,0,Dedric Lawson missed Jumper.
+UConn,Memphis,20,27,15,3,0,Omar Calhoun Block.
+UConn,Memphis,20,27,15,3,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,22,27,15,12,1,Sterling Gibbs made Layup. Assisted by Daniel Hamilton.
+UConn,Memphis,22,27,15,27,0,Dedric Lawson missed Jumper.
+UConn,Memphis,22,27,15,27,0,Steven Enoch Defensive Rebound.
+UConn,Memphis,22,27,15,35,0,Jalen Adams missed Jumper.
+UConn,Memphis,22,27,15,35,0,Steven Enoch Offensive Rebound.
+UConn,Memphis,24,27,15,42,1,Steven Enoch made Layup.
+UConn,Memphis,24,27,15,46,0,Foul on Daniel Hamilton.
+UConn,Memphis,24,28,15,46,1,Jeremiah Martin made Free Throw.
+UConn,Memphis,24,29,15,46,1,Jeremiah Martin made Free Throw.
+UConn,Memphis,26,29,15,57,1,Steven Enoch made Jumper. Assisted by Omar Calhoun.
+UConn,Memphis,26,29,16,14,0,Foul on Omar Calhoun.
+UConn,Memphis,26,29,16,14,0,Official TV Timeout
+UConn,Memphis,26,30,16,14,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,26,30,16,14,0,Ricky Tarrant Jr. missed Free Throw.
+UConn,Memphis,26,30,16,14,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,29,30,16,35,1,Sterling Gibbs made Three Point Jumper. Assisted by Jalen Adams.
+UConn,Memphis,29,33,17,4,1,Jeremiah Martin made Three Point Jumper. Assisted by Nick Marshall.
+UConn,Memphis,29,33,17,14,0,Omar Calhoun missed Three Point Jumper.
+UConn,Memphis,29,33,17,14,0,Dedric Lawson Defensive Rebound.
+UConn,Memphis,29,33,17,25,0,Dedric Lawson Turnover.
+UConn,Memphis,29,33,17,25,0,Jalen Adams Steal.
+UConn,Memphis,29,33,17,31,0,Sterling Gibbs missed Jumper.
+UConn,Memphis,29,33,17,31,0,Memphis Defensive Rebound.
+UConn,Memphis,29,33,17,35,0,Foul on Omar Calhoun.
+UConn,Memphis,29,33,17,35,0,Ricky Tarrant Jr. missed Free Throw.
+UConn,Memphis,29,33,17,35,0,Memphis Deadball Team Rebound.
+UConn,Memphis,29,34,17,35,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,32,34,17,45,1,Daniel Hamilton made Three Point Jumper. Assisted by Jalen Adams.
+UConn,Memphis,32,34,17,56,0,Foul on Steven Enoch.
+UConn,Memphis,32,34,17,56,0,Ricky Tarrant Jr. missed Free Throw.
+UConn,Memphis,32,34,17,56,0,Memphis Deadball Team Rebound.
+UConn,Memphis,32,35,17,56,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,32,35,18,8,0,Steven Enoch missed Jumper.
+UConn,Memphis,32,35,18,8,0,Markel Crawford Defensive Rebound.
+UConn,Memphis,32,35,18,36,0,Shaq Goodwin missed Jumper.
+UConn,Memphis,32,35,18,36,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,32,35,18,51,0,Foul on Jeremiah Martin.
+UConn,Memphis,32,35,18,58,0,Daniel Hamilton missed Three Point Jumper.
+UConn,Memphis,32,35,18,58,0,Jalen Adams Offensive Rebound.
+UConn,Memphis,32,35,19,4,0,Foul on Markel Crawford.
+UConn,Memphis,32,35,19,4,0,Jalen Adams missed Free Throw.
+UConn,Memphis,32,35,19,4,0,Connecticut Deadball Team Rebound.
+UConn,Memphis,33,35,19,4,1,Jalen Adams made Free Throw.
+UConn,Memphis,33,35,19,26,0,Foul on Sterling Gibbs.
+UConn,Memphis,33,36,19,26,1,Avery Woodson made Free Throw.
+UConn,Memphis,33,37,19,26,1,Avery Woodson made Free Throw.
+UConn,Memphis,36,37,19,51,1,Omar Calhoun made Three Point Jumper. Assisted by Jalen Adams.
+UConn,Memphis,36,37,20,0,0,End of 1st half
+UConn,Memphis,36,37,20,0,0,Jump Ball won by Connecticut
+UConn,Memphis,38,37,20,10,1,Shonn Miller made Jumper.
+UConn,Memphis,38,37,20,32,0,Shaq Goodwin Turnover.
+UConn,Memphis,38,37,20,43,0,Foul on Avery Woodson.
+UConn,Memphis,38,37,20,48,0,Shonn Miller missed Jumper.
+UConn,Memphis,38,37,20,48,0,Connecticut Deadball Team Rebound.
+UConn,Memphis,38,37,20,52,0,Foul on Dedric Lawson.
+UConn,Memphis,40,37,20,54,1,Shonn Miller made Jumper. Assisted by Daniel Hamilton.
+UConn,Memphis,40,37,21,9,0,Foul on Amida Brimah.
+UConn,Memphis,40,37,21,9,0,Shaq Goodwin missed Free Throw.
+UConn,Memphis,40,37,21,9,0,Memphis Deadball Team Rebound.
+UConn,Memphis,40,38,21,9,1,Shaq Goodwin made Free Throw.
+UConn,Memphis,42,38,21,33,1,Daniel Hamilton made Jumper.
+UConn,Memphis,42,38,21,49,0,Dedric Lawson missed Jumper.
+UConn,Memphis,42,38,21,49,0,Phillip Nolan Defensive Rebound.
+UConn,Memphis,42,38,22,3,0,Daniel Hamilton missed Jumper.
+UConn,Memphis,42,38,22,3,0,Dedric Lawson Defensive Rebound.
+UConn,Memphis,42,38,22,31,0,Foul on Dedric Lawson.
+UConn,Memphis,42,38,22,31,0,Dedric Lawson Turnover.
+UConn,Memphis,42,38,22,44,0,Jalen Adams missed Jumper.
+UConn,Memphis,42,38,22,44,0,Sam Craft Defensive Rebound.
+UConn,Memphis,42,38,23,0,0,Foul on Phillip Nolan.
+UConn,Memphis,42,38,23,15,0,Foul on Phillip Nolan.
+UConn,Memphis,42,38,23,15,0,Ricky Tarrant Jr. missed Free Throw.
+UConn,Memphis,42,38,23,15,0,Memphis Deadball Team Rebound.
+UConn,Memphis,42,39,23,15,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,42,39,23,39,0,Foul on Sam Craft.
+UConn,Memphis,44,39,23,40,1,Shonn Miller made Jumper. Assisted by Daniel Hamilton.
+UConn,Memphis,44,39,23,56,0,Foul on Steven Enoch.
+UConn,Memphis,44,39,24,4,0,Foul on Steven Enoch.
+UConn,Memphis,44,39,24,4,0,Official TV Timeout
+UConn,Memphis,44,39,24,7,0,Ricky Tarrant Jr. missed Three Point Jumper.
+UConn,Memphis,44,39,24,7,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,44,39,24,34,0,Rodney Purvis missed Jumper.
+UConn,Memphis,44,39,24,34,0,Shaq Goodwin Block.
+UConn,Memphis,44,39,24,34,0,Connecticut Offensive Rebound.
+UConn,Memphis,44,39,24,45,0,Rodney Purvis missed Jumper.
+UConn,Memphis,44,39,24,45,0,Avery Woodson Block.
+UConn,Memphis,44,39,24,45,0,Shonn Miller Offensive Rebound.
+UConn,Memphis,46,39,24,48,1,Shonn Miller made Jumper.
+UConn,Memphis,46,39,24,48,0,Markel Crawford Turnover.
+UConn,Memphis,46,39,24,48,0,Foul on Markel Crawford.
+UConn,Memphis,46,39,25,0,0,Daniel Hamilton missed Jumper.
+UConn,Memphis,46,39,25,0,0,Dedric Lawson Block.
+UConn,Memphis,46,39,25,0,0,Jeremiah Martin Defensive Rebound.
+UConn,Memphis,46,39,25,10,0,Foul on Shonn Miller.
+UConn,Memphis,46,40,25,10,1,Jeremiah Martin made Free Throw.
+UConn,Memphis,46,41,25,10,1,Jeremiah Martin made Free Throw.
+UConn,Memphis,48,41,25,24,1,Jalen Adams made Layup.
+UConn,Memphis,48,41,25,30,0,Dedric Lawson Turnover.
+UConn,Memphis,48,41,25,30,0,Sterling Gibbs Steal.
+UConn,Memphis,48,41,25,35,0,Sterling Gibbs missed Three Point Jumper.
+UConn,Memphis,48,41,25,35,0,Jeremiah Martin Defensive Rebound.
+UConn,Memphis,48,44,25,41,1,Avery Woodson made Three Point Jumper. Assisted by Sam Craft.
+UConn,Memphis,48,44,26,8,0,Foul on Sam Craft.
+UConn,Memphis,49,44,26,8,1,Sterling Gibbs made Free Throw.
+UConn,Memphis,50,44,26,8,1,Sterling Gibbs made Free Throw.
+UConn,Memphis,50,44,26,16,0,Avery Woodson missed Three Point Jumper.
+UConn,Memphis,50,44,26,16,0,Jalen Adams Defensive Rebound.
+UConn,Memphis,50,44,26,38,0,Daniel Hamilton missed Jumper.
+UConn,Memphis,50,44,26,38,0,Dedric Lawson Block.
+UConn,Memphis,50,44,26,38,0,Memphis Defensive Rebound.
+UConn,Memphis,50,44,26,50,0,Dedric Lawson Turnover.
+UConn,Memphis,50,44,27,5,0,Rodney Purvis missed Jumper.
+UConn,Memphis,50,44,27,5,0,Rodney Purvis Offensive Rebound.
+UConn,Memphis,52,44,27,10,1,Rodney Purvis made Jumper.
+UConn,Memphis,52,46,27,27,1,Dedric Lawson made Layup. Assisted by Shaq Goodwin.
+UConn,Memphis,54,46,28,2,1,Phillip Nolan made Layup. Assisted by Daniel Hamilton.
+UConn,Memphis,54,46,28,2,0,Foul on Dedric Lawson.
+UConn,Memphis,54,46,28,2,0,Official TV Timeout
+UConn,Memphis,55,46,28,2,1,Phillip Nolan made Free Throw.
+UConn,Memphis,55,46,28,18,0,Foul on Phillip Nolan.
+UConn,Memphis,55,46,28,18,0,Shaq Goodwin missed Free Throw.
+UConn,Memphis,55,46,28,18,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,55,46,28,37,0,Daniel Hamilton missed Jumper.
+UConn,Memphis,55,46,28,37,0,Phillip Nolan Offensive Rebound.
+UConn,Memphis,55,46,28,55,0,Omar Calhoun missed Three Point Jumper.
+UConn,Memphis,55,46,28,55,0,Connecticut Offensive Rebound.
+UConn,Memphis,55,46,29,19,0,Omar Calhoun missed Jumper.
+UConn,Memphis,55,46,29,19,0,Memphis Defensive Rebound.
+UConn,Memphis,55,46,29,29,0,Avery Woodson Turnover.
+UConn,Memphis,55,46,29,29,0,Rodney Purvis Steal.
+UConn,Memphis,57,46,29,33,1,Rodney Purvis made Layup.
+UConn,Memphis,57,46,29,39,0,Avery Woodson Turnover.
+UConn,Memphis,57,46,29,39,0,Jalen Adams Steal.
+UConn,Memphis,59,46,29,44,1,Daniel Hamilton made Dunk. Assisted by Rodney Purvis.
+UConn,Memphis,59,46,29,48,0,Memphis  Timeout
+UConn,Memphis,59,46,29,48,0,Official TV Timeout
+UConn,Memphis,59,46,30,4,0,Foul on Sterling Gibbs.
+UConn,Memphis,59,47,30,4,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,59,47,30,4,0,Ricky Tarrant Jr. missed Free Throw.
+UConn,Memphis,59,47,30,4,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,59,47,30,11,0,Rodney Purvis missed Three Point Jumper.
+UConn,Memphis,59,47,30,11,0,Shaq Goodwin Defensive Rebound.
+UConn,Memphis,59,47,30,23,0,Ricky Tarrant Jr. Turnover.
+UConn,Memphis,59,47,30,23,0,Rodney Purvis Steal.
+UConn,Memphis,61,47,30,28,1,Jalen Adams made Layup. Assisted by Rodney Purvis.
+UConn,Memphis,61,49,30,49,1,Dedric Lawson made Layup. Assisted by Shaq Goodwin.
+UConn,Memphis,61,49,30,49,0,Foul on Daniel Hamilton.
+UConn,Memphis,61,49,30,49,0,Dedric Lawson missed Free Throw.
+UConn,Memphis,61,49,30,49,0,Shonn Miller Defensive Rebound.
+UConn,Memphis,63,49,31,12,1,Shonn Miller made Jumper.
+UConn,Memphis,63,49,31,25,0,Shaq Goodwin missed Jumper.
+UConn,Memphis,63,49,31,25,0,Shonn Miller Defensive Rebound.
+UConn,Memphis,63,49,31,41,0,Sterling Gibbs missed Three Point Jumper.
+UConn,Memphis,63,49,31,41,0,Sam Craft Defensive Rebound.
+UConn,Memphis,63,49,31,51,0,Foul on Shonn Miller.
+UConn,Memphis,63,50,31,51,1,Sam Craft made Free Throw.
+UConn,Memphis,63,50,31,51,0,Sam Craft missed Free Throw.
+UConn,Memphis,63,50,31,51,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,63,50,32,1,0,Jalen Adams missed Jumper.
+UConn,Memphis,63,50,32,1,0,Amida Brimah Offensive Rebound.
+UConn,Memphis,65,50,32,1,1,Amida Brimah made Two Point Tip Shot.
+UConn,Memphis,65,50,32,19,0,Dedric Lawson missed Layup.
+UConn,Memphis,65,50,32,19,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,65,50,32,36,0,Rodney Purvis missed Three Point Jumper.
+UConn,Memphis,65,50,32,36,0,Sam Craft Defensive Rebound.
+UConn,Memphis,65,50,32,43,0,Sam Craft missed Jumper.
+UConn,Memphis,65,50,32,43,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,65,50,33,5,0,Daniel Hamilton missed Three Point Jumper.
+UConn,Memphis,65,50,33,5,0,Ricky Tarrant Jr. Defensive Rebound.
+UConn,Memphis,65,50,33,16,0,Foul on Jalen Adams.
+UConn,Memphis,65,50,33,16,0,Official TV Timeout
+UConn,Memphis,65,51,33,16,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,65,52,33,16,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,67,52,33,38,1,Amida Brimah made Dunk. Assisted by Daniel Hamilton.
+UConn,Memphis,67,52,33,47,0,Jeremiah Martin Turnover.
+UConn,Memphis,67,52,33,59,0,Foul on Amida Brimah.
+UConn,Memphis,67,52,33,59,0,Amida Brimah Turnover.
+UConn,Memphis,67,52,34,9,0,Foul on Amida Brimah.
+UConn,Memphis,67,52,34,9,0,Ricky Tarrant Jr. missed Free Throw.
+UConn,Memphis,67,52,34,9,0,Memphis Deadball Team Rebound.
+UConn,Memphis,67,52,34,9,0,Ricky Tarrant Jr. missed Free Throw.
+UConn,Memphis,67,52,34,9,0,Rodney Purvis Defensive Rebound.
+UConn,Memphis,69,52,34,26,1,Jalen Adams made Layup.
+UConn,Memphis,69,52,34,43,0,Foul on Rodney Purvis.
+UConn,Memphis,69,52,34,43,0,Ricky Tarrant Jr. missed Free Throw.
+UConn,Memphis,69,52,34,43,0,Memphis Deadball Team Rebound.
+UConn,Memphis,69,53,34,43,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,69,53,34,59,0,Daniel Hamilton Turnover.
+UConn,Memphis,69,53,34,59,0,Markel Crawford Steal.
+UConn,Memphis,69,53,35,8,0,Foul on Sterling Gibbs.
+UConn,Memphis,69,54,35,8,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,69,55,35,8,1,Ricky Tarrant Jr. made Free Throw.
+UConn,Memphis,69,55,35,17,0,Jalen Adams missed Layup.
+UConn,Memphis,69,55,35,17,0,Ricky Tarrant Jr. Defensive Rebound.
+UConn,Memphis,69,55,35,24,0,Foul on Ricky Tarrant Jr..
+UConn,Memphis,69,55,35,24,0,Ricky Tarrant Jr. Turnover.
+UConn,Memphis,69,55,35,27,0,Connecticut  Timeout
+UConn,Memphis,69,55,35,48,0,Jalen Adams Turnover.
+UConn,Memphis,69,55,35,48,0,Markel Crawford Steal.
+UConn,Memphis,69,57,35,54,1,Shaq Goodwin made Dunk. Assisted by Dedric Lawson.
+UConn,Memphis,69,57,36,23,0,Rodney Purvis missed Jumper.
+UConn,Memphis,69,57,36,23,0,Rodney Purvis Offensive Rebound.
+UConn,Memphis,71,57,36,27,1,Rodney Purvis made Jumper.
+UConn,Memphis,71,57,36,43,0,Ricky Tarrant Jr. Turnover.
+UConn,Memphis,71,57,36,43,0,Jalen Adams Steal.
+UConn,Memphis,73,57,36,49,1,Rodney Purvis made Dunk. Assisted by Sterling Gibbs.
+UConn,Memphis,73,57,37,7,0,Ricky Tarrant Jr. missed Three Point Jumper.
+UConn,Memphis,73,57,37,7,0,Phillip Nolan Defensive Rebound.
+UConn,Memphis,73,57,37,35,0,Rodney Purvis missed Layup.
+UConn,Memphis,73,57,37,35,0,Shaq Goodwin Defensive Rebound.
+UConn,Memphis,73,57,37,44,0,Official TV Timeout
+UConn,Memphis,73,57,37,55,0,Dedric Lawson Turnover.
+UConn,Memphis,75,57,38,1,1,Shonn Miller made Dunk. Assisted by Daniel Hamilton.
+UConn,Memphis,75,57,38,16,0,Nick Marshall missed Jumper.
+UConn,Memphis,75,57,38,16,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,77,57,38,20,1,Rodney Purvis made Layup. Assisted by Daniel Hamilton.
+UConn,Memphis,77,57,38,32,0,Dedric Lawson missed Jumper.
+UConn,Memphis,77,57,38,32,0,Dedric Lawson Offensive Rebound.
+UConn,Memphis,77,57,38,36,0,Dedric Lawson missed Jumper.
+UConn,Memphis,77,57,38,36,0,Jalen Adams Defensive Rebound.
+UConn,Memphis,77,57,39,10,0,Connecticut  Turnover.
+UConn,Memphis,77,57,39,21,0,Avery Woodson missed Jumper.
+UConn,Memphis,77,57,39,21,0,Daniel Hamilton Defensive Rebound.
+UConn,Memphis,77,57,39,56,0,Connecticut  Turnover.
+UConn,Memphis,77,57,39,58,0,Jeremiah Martin missed Three Point Jumper.
+UConn,Memphis,77,57,39,58,0,Memphis Deadball Team Rebound.
+UConn,Memphis,77,57,40,0,0,End of Game

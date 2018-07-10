@@ -1,0 +1,358 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Duke,Louisville,0,0,0,0,0,Jump Ball won by Louisville
+Duke,Louisville,0,0,0,20,0,Mangok Mathiang Turnover.
+Duke,Louisville,0,0,0,40,0,Luke Kennard missed Three Point Jumper.
+Duke,Louisville,0,0,0,40,0,Deng Adel Defensive Rebound.
+Duke,Louisville,0,0,0,55,0,Foul on Matt Jones.
+Duke,Louisville,0,0,0,55,0,Donovan Mitchell missed Free Throw.
+Duke,Louisville,0,0,0,55,0,Louisville Deadball Team Rebound.
+Duke,Louisville,0,1,0,55,1,Donovan Mitchell made Free Throw.
+Duke,Louisville,0,1,1,12,0,Jayson Tatum missed Jumper.
+Duke,Louisville,0,1,1,12,0,Deng Adel Defensive Rebound.
+Duke,Louisville,0,1,1,27,0,Quentin Snider missed Jumper.
+Duke,Louisville,0,1,1,27,0,Louisville Offensive Rebound.
+Duke,Louisville,0,1,1,29,0,Foul on Frank Jackson.
+Duke,Louisville,0,1,1,43,0,Deng Adel missed Three Point Jumper.
+Duke,Louisville,0,1,1,43,0,Mangok Mathiang Offensive Rebound.
+Duke,Louisville,0,1,1,51,0,Donovan Mitchell missed Three Point Jumper.
+Duke,Louisville,0,1,1,51,0,Jayson Tatum Defensive Rebound.
+Duke,Louisville,2,1,2,21,1,Luke Kennard made Jumper.
+Duke,Louisville,2,1,2,46,0,Donovan Mitchell missed Layup.
+Duke,Louisville,2,1,2,46,0,Luke Kennard Block.
+Duke,Louisville,2,1,2,46,0,Frank Jackson Defensive Rebound.
+Duke,Louisville,2,1,2,55,0,Luke Kennard Turnover.
+Duke,Louisville,2,1,3,10,0,Mangok Mathiang missed Layup.
+Duke,Louisville,2,1,3,10,0,Amile Jefferson Block.
+Duke,Louisville,2,1,3,10,0,Luke Kennard Defensive Rebound.
+Duke,Louisville,2,1,3,17,0,Luke Kennard Turnover.
+Duke,Louisville,2,1,3,17,0,Mangok Mathiang Steal.
+Duke,Louisville,2,1,3,28,0,Foul on Amile Jefferson.
+Duke,Louisville,2,1,3,28,0,Deng Adel missed Free Throw.
+Duke,Louisville,2,1,3,28,0,Louisville Deadball Team Rebound.
+Duke,Louisville,2,2,3,28,1,Deng Adel made Free Throw.
+Duke,Louisville,2,2,3,35,0,Foul on Jaylen Johnson.
+Duke,Louisville,3,2,3,35,1,Frank Jackson made Free Throw.
+Duke,Louisville,3,2,3,35,0,Frank Jackson missed Free Throw.
+Duke,Louisville,3,2,3,35,0,Jaylen Johnson Defensive Rebound.
+Duke,Louisville,3,2,3,53,0,Quentin Snider missed Three Point Jumper.
+Duke,Louisville,3,2,3,53,0,Duke Deadball Team Rebound.
+Duke,Louisville,3,2,4,11,0,Grayson Allen missed Jumper.
+Duke,Louisville,3,2,4,11,0,Donovan Mitchell Defensive Rebound.
+Duke,Louisville,3,2,4,36,0,Foul on Jayson Tatum.
+Duke,Louisville,3,2,4,36,0,Official TV Timeout
+Duke,Louisville,3,4,4,50,1,Anas Mahmoud made Jumper. Assisted by Jaylen Johnson.
+Duke,Louisville,3,4,5,14,0,Grayson Allen Turnover.
+Duke,Louisville,3,6,5,36,1,Jaylen Johnson made Layup. Assisted by Anas Mahmoud.
+Duke,Louisville,5,6,5,57,1,Jayson Tatum made Jumper.
+Duke,Louisville,5,8,6,17,1,Deng Adel made Layup. Assisted by Anas Mahmoud.
+Duke,Louisville,7,8,6,37,1,Amile Jefferson made Layup. Assisted by Luke Kennard.
+Duke,Louisville,7,8,6,53,0,Jaylen Johnson Turnover.
+Duke,Louisville,7,8,6,53,0,Foul on Jaylen Johnson.
+Duke,Louisville,9,8,7,5,1,Harry Giles made Layup. Assisted by Luke Kennard.
+Duke,Louisville,9,8,7,26,0,Ray Spalding missed Jumper.
+Duke,Louisville,9,8,7,26,0,Harry Giles Defensive Rebound.
+Duke,Louisville,11,8,7,43,1,Jayson Tatum made Jumper.
+Duke,Louisville,11,10,8,2,1,Anas Mahmoud made Layup.
+Duke,Louisville,13,10,8,22,1,Grayson Allen made Layup. Assisted by Luke Kennard.
+Duke,Louisville,13,12,8,42,1,Ray Spalding made Jumper. Assisted by Quentin Snider.
+Duke,Louisville,13,12,8,58,0,Luke Kennard missed Three Point Jumper.
+Duke,Louisville,13,12,8,58,0,Ray Spalding Defensive Rebound.
+Duke,Louisville,13,14,9,13,1,Quentin Snider made Layup.
+Duke,Louisville,13,14,9,49,0,Duke  Turnover.
+Duke,Louisville,13,14,9,49,0,Official TV Timeout
+Duke,Louisville,13,16,9,59,1,Donovan Mitchell made Layup.
+Duke,Louisville,13,16,10,25,0,Matt Jones missed Jumper.
+Duke,Louisville,13,16,10,25,0,Anas Mahmoud Block.
+Duke,Louisville,13,16,10,25,0,Anas Mahmoud Defensive Rebound.
+Duke,Louisville,13,18,10,31,1,Deng Adel made Dunk. Assisted by Quentin Snider.
+Duke,Louisville,13,18,10,52,0,Harry Giles missed Jumper.
+Duke,Louisville,13,18,10,52,0,Anas Mahmoud Defensive Rebound.
+Duke,Louisville,13,18,11,1,0,Donovan Mitchell missed Layup.
+Duke,Louisville,13,18,11,1,0,Amile Jefferson Defensive Rebound.
+Duke,Louisville,13,18,11,3,0,Foul on Donovan Mitchell.
+Duke,Louisville,13,18,11,13,0,Jayson Tatum missed Jumper.
+Duke,Louisville,13,18,11,13,0,David Levitch Defensive Rebound.
+Duke,Louisville,13,20,11,21,1,Quentin Snider made Layup.
+Duke,Louisville,15,20,11,43,1,Frank Jackson made Layup.
+Duke,Louisville,15,20,11,43,0,Foul on Deng Adel.
+Duke,Louisville,16,20,11,43,1,Frank Jackson made Free Throw.
+Duke,Louisville,16,20,12,0,0,Quentin Snider missed Three Point Jumper.
+Duke,Louisville,16,20,12,0,0,Luke Kennard Defensive Rebound.
+Duke,Louisville,16,20,12,13,0,Frank Jackson missed Layup.
+Duke,Louisville,16,20,12,13,0,Anas Mahmoud Block.
+Duke,Louisville,16,20,12,13,0,Duke Offensive Rebound.
+Duke,Louisville,16,20,12,17,0,Official TV Timeout
+Duke,Louisville,16,20,12,20,0,Jayson Tatum missed Jumper.
+Duke,Louisville,16,20,12,20,0,Mangok Mathiang Block.
+Duke,Louisville,16,20,12,20,0,Luke Kennard Offensive Rebound.
+Duke,Louisville,19,20,12,30,1,Frank Jackson made Three Point Jumper.
+Duke,Louisville,19,20,12,46,0,Foul on Frank Jackson.
+Duke,Louisville,19,20,12,47,0,Deng Adel missed Jumper.
+Duke,Louisville,19,20,12,47,0,David Levitch Offensive Rebound.
+Duke,Louisville,19,20,12,54,0,David Levitch Turnover.
+Duke,Louisville,19,20,12,54,0,Jayson Tatum Steal.
+Duke,Louisville,19,20,13,17,0,Amile Jefferson missed Layup.
+Duke,Louisville,19,20,13,17,0,Deng Adel Defensive Rebound.
+Duke,Louisville,19,20,13,23,0,Donovan Mitchell missed Three Point Jumper.
+Duke,Louisville,19,20,13,23,0,Mangok Mathiang Offensive Rebound.
+Duke,Louisville,19,20,13,26,0,Foul on Frank Jackson.
+Duke,Louisville,19,22,13,28,1,Ray Spalding made Jumper.
+Duke,Louisville,19,22,13,28,0,Foul on Luke Kennard.
+Duke,Louisville,19,22,13,28,0,Ray Spalding missed Free Throw.
+Duke,Louisville,19,22,13,28,0,Amile Jefferson Defensive Rebound.
+Duke,Louisville,19,22,13,44,0,Foul on Ray Spalding.
+Duke,Louisville,19,22,13,54,0,Grayson Allen missed Jumper.
+Duke,Louisville,19,22,13,54,0,Amile Jefferson Offensive Rebound.
+Duke,Louisville,19,22,14,1,0,Grayson Allen missed Three Point Jumper.
+Duke,Louisville,19,22,14,1,0,Quentin Snider Defensive Rebound.
+Duke,Louisville,19,22,14,10,0,Donovan Mitchell missed Jumper.
+Duke,Louisville,19,22,14,10,0,Luke Kennard Defensive Rebound.
+Duke,Louisville,19,22,14,32,0,Matt Jones missed Three Point Jumper.
+Duke,Louisville,19,22,14,32,0,Ray Spalding Defensive Rebound.
+Duke,Louisville,19,22,14,40,0,Donovan Mitchell missed Layup.
+Duke,Louisville,19,22,14,40,0,Amile Jefferson Defensive Rebound.
+Duke,Louisville,21,22,14,48,1,Jayson Tatum made Layup.
+Duke,Louisville,21,22,14,54,0,Louisville  Timeout
+Duke,Louisville,21,24,15,6,1,Mangok Mathiang made Layup. Assisted by Quentin Snider.
+Duke,Louisville,21,24,15,20,0,Matt Jones missed Three Point Jumper.
+Duke,Louisville,21,24,15,20,0,Ray Spalding Defensive Rebound.
+Duke,Louisville,21,26,15,29,1,V.J. King made Layup. Assisted by Quentin Snider.
+Duke,Louisville,21,26,15,48,0,Foul on Donovan Mitchell.
+Duke,Louisville,21,26,15,48,0,Grayson Allen missed Free Throw.
+Duke,Louisville,21,26,15,48,0,Duke Deadball Team Rebound.
+Duke,Louisville,22,26,15,48,1,Grayson Allen made Free Throw.
+Duke,Louisville,22,28,15,59,1,Quentin Snider made Layup.
+Duke,Louisville,22,28,16,20,0,Luke Kennard missed Jumper.
+Duke,Louisville,22,28,16,20,0,Luke Kennard Offensive Rebound.
+Duke,Louisville,24,28,16,25,1,Luke Kennard made Jumper.
+Duke,Louisville,24,28,16,25,0,Foul on Quentin Snider.
+Duke,Louisville,24,28,16,25,0,Official TV Timeout
+Duke,Louisville,25,28,16,25,1,Luke Kennard made Free Throw.
+Duke,Louisville,25,28,16,35,0,V.J. King missed Three Point Jumper.
+Duke,Louisville,25,28,16,35,0,Harry Giles Defensive Rebound.
+Duke,Louisville,27,28,16,48,1,Jayson Tatum made Layup.
+Duke,Louisville,27,31,17,11,1,Deng Adel made Three Point Jumper. Assisted by Ray Spalding.
+Duke,Louisville,30,31,17,30,1,Grayson Allen made Three Point Jumper.
+Duke,Louisville,30,33,17,51,1,Ray Spalding made Layup. Assisted by Mangok Mathiang.
+Duke,Louisville,30,33,18,11,0,Foul on V.J. King.
+Duke,Louisville,31,33,18,11,1,Luke Kennard made Free Throw.
+Duke,Louisville,31,33,18,11,0,Luke Kennard missed Free Throw.
+Duke,Louisville,31,33,18,11,0,David Levitch Defensive Rebound.
+Duke,Louisville,31,33,18,24,0,Ray Spalding Turnover.
+Duke,Louisville,31,33,18,24,0,Harry Giles Steal.
+Duke,Louisville,31,33,18,29,0,Foul on Quentin Snider.
+Duke,Louisville,32,33,18,29,1,Jayson Tatum made Free Throw.
+Duke,Louisville,33,33,18,29,1,Jayson Tatum made Free Throw.
+Duke,Louisville,33,33,18,44,0,Foul on Grayson Allen.
+Duke,Louisville,33,34,18,44,1,Deng Adel made Free Throw.
+Duke,Louisville,33,35,18,44,1,Deng Adel made Free Throw.
+Duke,Louisville,33,35,18,52,0,Foul on Anas Mahmoud.
+Duke,Louisville,34,35,18,52,1,Jayson Tatum made Free Throw.
+Duke,Louisville,35,35,18,52,1,Jayson Tatum made Free Throw.
+Duke,Louisville,35,35,19,9,0,Deng Adel missed Layup.
+Duke,Louisville,35,35,19,9,0,Anas Mahmoud Offensive Rebound.
+Duke,Louisville,35,35,19,11,0,Foul on Harry Giles.
+Duke,Louisville,35,35,19,11,0,Anas Mahmoud missed Free Throw.
+Duke,Louisville,35,35,19,11,0,Louisville Deadball Team Rebound.
+Duke,Louisville,35,35,19,11,0,Anas Mahmoud missed Free Throw.
+Duke,Louisville,35,35,19,11,0,Amile Jefferson Defensive Rebound.
+Duke,Louisville,37,35,19,19,1,Harry Giles made Dunk. Assisted by Jayson Tatum.
+Duke,Louisville,37,37,19,35,1,Anas Mahmoud made Layup. Assisted by David Levitch.
+Duke,Louisville,37,37,19,39,0,Duke  Timeout
+Duke,Louisville,37,37,19,54,0,Foul on Mangok Mathiang.
+Duke,Louisville,38,37,19,54,1,Grayson Allen made Free Throw.
+Duke,Louisville,39,37,19,54,1,Grayson Allen made Free Throw.
+Duke,Louisville,39,37,19,59,0,David Levitch missed Three Point Jumper.
+Duke,Louisville,39,37,19,59,0,Duke Deadball Team Rebound.
+Duke,Louisville,39,37,20,0,0,End of 1st half
+Duke,Louisville,39,37,20,0,0,Jump Ball won by Duke
+Duke,Louisville,39,37,20,15,0,Foul on Mangok Mathiang.
+Duke,Louisville,39,37,20,15,0,Frank Jackson missed Free Throw.
+Duke,Louisville,39,37,20,15,0,Duke Deadball Team Rebound.
+Duke,Louisville,40,37,20,15,1,Frank Jackson made Free Throw.
+Duke,Louisville,40,39,20,35,1,Mangok Mathiang made Jumper.
+Duke,Louisville,40,39,20,50,0,Amile Jefferson missed Layup.
+Duke,Louisville,40,39,20,50,0,Donovan Mitchell Block.
+Duke,Louisville,40,39,20,50,0,Jaylen Johnson Defensive Rebound.
+Duke,Louisville,40,42,20,58,1,Deng Adel made Three Point Jumper. Assisted by Donovan Mitchell.
+Duke,Louisville,42,42,21,19,1,Jayson Tatum made Jumper.
+Duke,Louisville,42,42,21,36,0,Donovan Mitchell missed Jumper.
+Duke,Louisville,42,42,21,36,0,Jayson Tatum Defensive Rebound.
+Duke,Louisville,42,42,21,43,0,Jayson Tatum missed Three Point Jumper.
+Duke,Louisville,42,42,21,43,0,Louisville Defensive Rebound.
+Duke,Louisville,42,44,22,6,1,Jaylen Johnson made Jumper.
+Duke,Louisville,42,44,22,26,0,Luke Kennard missed Jumper.
+Duke,Louisville,42,44,22,26,0,Jaylen Johnson Defensive Rebound.
+Duke,Louisville,42,46,22,35,1,Deng Adel made Layup.
+Duke,Louisville,42,46,22,54,0,Frank Jackson missed Jumper.
+Duke,Louisville,42,46,22,54,0,Deng Adel Defensive Rebound.
+Duke,Louisville,42,48,23,1,1,Quentin Snider made Layup.
+Duke,Louisville,42,48,23,3,0,Duke  Timeout
+Duke,Louisville,42,48,23,18,0,Jayson Tatum missed Layup.
+Duke,Louisville,42,48,23,18,0,Donovan Mitchell Defensive Rebound.
+Duke,Louisville,42,48,23,24,0,Foul on Jayson Tatum.
+Duke,Louisville,42,49,23,24,1,Mangok Mathiang made Free Throw.
+Duke,Louisville,42,50,23,24,1,Mangok Mathiang made Free Throw.
+Duke,Louisville,44,50,23,41,1,Jayson Tatum made Layup. Assisted by Harry Giles.
+Duke,Louisville,44,52,24,0,1,Donovan Mitchell made Layup.
+Duke,Louisville,46,52,24,34,1,Grayson Allen made Jumper.
+Duke,Louisville,46,55,24,47,1,Quentin Snider made Three Point Jumper. Assisted by Mangok Mathiang.
+Duke,Louisville,46,55,25,7,0,Grayson Allen missed Jumper.
+Duke,Louisville,46,55,25,7,0,Grayson Allen Offensive Rebound.
+Duke,Louisville,46,55,25,12,0,Grayson Allen missed Layup.
+Duke,Louisville,46,55,25,12,0,Quentin Snider Defensive Rebound.
+Duke,Louisville,46,55,25,17,0,Jaylen Johnson missed Dunk.
+Duke,Louisville,46,55,25,17,0,Grayson Allen Defensive Rebound.
+Duke,Louisville,46,55,25,30,0,Harry Giles missed Layup.
+Duke,Louisville,46,55,25,30,0,Mangok Mathiang Defensive Rebound.
+Duke,Louisville,46,55,25,46,0,Donovan Mitchell Turnover.
+Duke,Louisville,46,55,25,46,0,Harry Giles Steal.
+Duke,Louisville,46,55,25,50,0,Foul on Quentin Snider.
+Duke,Louisville,46,55,25,50,0,Official TV Timeout
+Duke,Louisville,46,55,25,50,0,Frank Jackson missed Free Throw.
+Duke,Louisville,46,55,25,50,0,Duke Deadball Team Rebound.
+Duke,Louisville,46,55,25,50,0,Frank Jackson missed Free Throw.
+Duke,Louisville,46,55,25,50,0,Harry Giles Offensive Rebound.
+Duke,Louisville,49,55,25,52,1,Grayson Allen made Three Point Jumper. Assisted by Harry Giles.
+Duke,Louisville,49,55,26,12,0,Donovan Mitchell missed Three Point Jumper.
+Duke,Louisville,49,55,26,12,0,Ray Spalding Offensive Rebound.
+Duke,Louisville,49,55,26,15,0,Jump Ball won by Louisville
+Duke,Louisville,49,55,26,16,0,Foul on Luke Kennard.
+Duke,Louisville,49,58,26,19,1,Donovan Mitchell made Three Point Jumper. Assisted by Deng Adel.
+Duke,Louisville,49,58,26,44,0,Grayson Allen missed Jumper.
+Duke,Louisville,49,58,26,44,0,Donovan Mitchell Defensive Rebound.
+Duke,Louisville,49,60,26,53,1,Deng Adel made Layup.
+Duke,Louisville,49,60,26,53,0,Foul on Grayson Allen.
+Duke,Louisville,49,61,26,53,1,Deng Adel made Free Throw.
+Duke,Louisville,51,61,26,59,1,Luke Kennard made Layup. Assisted by Jayson Tatum.
+Duke,Louisville,51,61,27,21,0,Donovan Mitchell missed Three Point Jumper.
+Duke,Louisville,51,61,27,21,0,Grayson Allen Defensive Rebound.
+Duke,Louisville,53,61,27,42,1,Jayson Tatum made Jumper.
+Duke,Louisville,53,61,27,42,0,Foul on Donovan Mitchell.
+Duke,Louisville,54,61,27,42,1,Jayson Tatum made Free Throw.
+Duke,Louisville,54,61,28,2,0,Deng Adel missed Three Point Jumper.
+Duke,Louisville,54,61,28,2,0,Luke Kennard Defensive Rebound.
+Duke,Louisville,54,61,28,2,0,Foul on Ray Spalding.
+Duke,Louisville,54,61,28,4,0,Official TV Timeout
+Duke,Louisville,54,61,28,18,0,Luke Kennard missed Three Point Jumper.
+Duke,Louisville,54,61,28,18,0,Grayson Allen Offensive Rebound.
+Duke,Louisville,54,61,28,30,0,Luke Kennard missed Three Point Jumper.
+Duke,Louisville,54,61,28,30,0,Matt Jones Offensive Rebound.
+Duke,Louisville,54,61,28,37,0,Luke Kennard missed Three Point Jumper.
+Duke,Louisville,54,61,28,37,0,Anas Mahmoud Defensive Rebound.
+Duke,Louisville,54,61,28,45,0,Foul on Jayson Tatum.
+Duke,Louisville,54,62,28,45,1,Ray Spalding made Free Throw.
+Duke,Louisville,54,62,28,45,0,Ray Spalding missed Free Throw.
+Duke,Louisville,54,62,28,45,0,Jayson Tatum Defensive Rebound.
+Duke,Louisville,56,62,28,58,1,Grayson Allen made Jumper.
+Duke,Louisville,56,62,29,16,0,Donovan Mitchell missed Three Point Jumper.
+Duke,Louisville,56,62,29,16,0,Anas Mahmoud Offensive Rebound.
+Duke,Louisville,56,62,29,22,0,Louisville  Timeout
+Duke,Louisville,56,62,29,35,0,Foul on Marques Bolden.
+Duke,Louisville,56,62,29,46,0,Quentin Snider Turnover.
+Duke,Louisville,56,62,29,46,0,Jayson Tatum Steal.
+Duke,Louisville,58,62,29,50,1,Jayson Tatum made Dunk. Assisted by Matt Jones.
+Duke,Louisville,58,62,30,8,0,Quentin Snider missed Three Point Jumper.
+Duke,Louisville,58,62,30,8,0,Ray Spalding Offensive Rebound.
+Duke,Louisville,58,64,30,14,1,Ray Spalding made Layup.
+Duke,Louisville,58,64,30,34,0,Jayson Tatum missed Jumper.
+Duke,Louisville,58,64,30,34,0,Ray Spalding Defensive Rebound.
+Duke,Louisville,58,64,30,41,0,Quentin Snider missed Jumper.
+Duke,Louisville,58,64,30,41,0,Jayson Tatum Defensive Rebound.
+Duke,Louisville,58,64,30,55,0,Foul on Donovan Mitchell.
+Duke,Louisville,58,64,30,59,0,Foul on David Levitch.
+Duke,Louisville,58,64,31,2,0,Foul on David Levitch.
+Duke,Louisville,59,64,31,2,1,Grayson Allen made Free Throw.
+Duke,Louisville,60,64,31,2,1,Grayson Allen made Free Throw.
+Duke,Louisville,61,64,31,2,1,Grayson Allen made Free Throw.
+Duke,Louisville,61,64,31,20,0,Quentin Snider missed Three Point Jumper.
+Duke,Louisville,61,64,31,20,0,Luke Kennard Defensive Rebound.
+Duke,Louisville,64,64,31,27,1,Luke Kennard made Three Point Jumper.
+Duke,Louisville,64,64,31,38,0,Ray Spalding Turnover.
+Duke,Louisville,64,64,31,38,0,Matt Jones Steal.
+Duke,Louisville,64,64,31,54,0,Foul on Deng Adel.
+Duke,Louisville,64,64,31,54,0,Jayson Tatum missed Free Throw.
+Duke,Louisville,64,64,31,54,0,Duke Deadball Team Rebound.
+Duke,Louisville,65,64,31,54,1,Jayson Tatum made Free Throw.
+Duke,Louisville,65,66,32,8,1,Deng Adel made Layup. Assisted by Quentin Snider.
+Duke,Louisville,65,66,32,8,0,Foul on Harry Giles.
+Duke,Louisville,65,66,32,8,0,Official TV Timeout
+Duke,Louisville,65,67,32,8,1,Deng Adel made Free Throw.
+Duke,Louisville,65,67,32,19,0,Foul on Jaylen Johnson.
+Duke,Louisville,65,67,32,19,0,Jayson Tatum missed Free Throw.
+Duke,Louisville,65,67,32,19,0,Anas Mahmoud Defensive Rebound.
+Duke,Louisville,65,69,32,43,1,V.J. King made Jumper.
+Duke,Louisville,65,69,33,3,0,Grayson Allen Turnover.
+Duke,Louisville,65,69,33,20,0,Deng Adel missed Layup.
+Duke,Louisville,65,69,33,20,0,Harry Giles Block.
+Duke,Louisville,65,69,33,20,0,Luke Kennard Defensive Rebound.
+Duke,Louisville,68,69,33,27,1,Luke Kennard made Three Point Jumper.
+Duke,Louisville,68,69,33,42,0,Foul on Harry Giles.
+Duke,Louisville,68,69,33,42,0,Anas Mahmoud missed Free Throw.
+Duke,Louisville,68,69,33,42,0,Louisville Deadball Team Rebound.
+Duke,Louisville,68,70,33,42,1,Anas Mahmoud made Free Throw.
+Duke,Louisville,68,70,33,57,0,Grayson Allen missed Jumper.
+Duke,Louisville,68,70,33,57,0,Jaylen Johnson Defensive Rebound.
+Duke,Louisville,68,70,34,2,0,Foul on Amile Jefferson.
+Duke,Louisville,68,70,34,2,0,Jaylen Johnson missed Free Throw.
+Duke,Louisville,68,70,34,2,0,Jayson Tatum Defensive Rebound.
+Duke,Louisville,68,70,34,12,0,Foul on V.J. King.
+Duke,Louisville,69,70,34,12,1,Luke Kennard made Free Throw.
+Duke,Louisville,70,70,34,12,1,Luke Kennard made Free Throw.
+Duke,Louisville,70,70,34,33,0,Deng Adel Turnover.
+Duke,Louisville,70,70,34,33,0,Jayson Tatum Steal.
+Duke,Louisville,70,70,34,38,0,Frank Jackson missed Three Point Jumper.
+Duke,Louisville,70,70,34,38,0,Anas Mahmoud Defensive Rebound.
+Duke,Louisville,70,70,34,48,0,Donovan Mitchell missed Three Point Jumper.
+Duke,Louisville,70,70,34,48,0,Frank Jackson Defensive Rebound.
+Duke,Louisville,73,70,35,5,1,Luke Kennard made Three Point Jumper.
+Duke,Louisville,73,70,35,15,0,Louisville  Timeout
+Duke,Louisville,73,70,35,36,0,Deng Adel missed Three Point Jumper.
+Duke,Louisville,73,70,35,36,0,Luke Kennard Defensive Rebound.
+Duke,Louisville,73,70,36,2,0,Jayson Tatum Turnover.
+Duke,Louisville,73,70,36,2,0,Official TV Timeout
+Duke,Louisville,73,72,36,14,1,Mangok Mathiang made Jumper. Assisted by Ray Spalding.
+Duke,Louisville,75,72,36,31,1,Luke Kennard made Jumper.
+Duke,Louisville,75,72,36,49,0,Deng Adel missed Three Point Jumper.
+Duke,Louisville,75,72,36,49,0,Jayson Tatum Defensive Rebound.
+Duke,Louisville,75,72,37,15,0,Jayson Tatum Turnover.
+Duke,Louisville,75,72,37,15,0,Ray Spalding Steal.
+Duke,Louisville,75,72,37,18,0,Foul on Grayson Allen.
+Duke,Louisville,75,72,37,18,0,Quentin Snider missed Free Throw.
+Duke,Louisville,75,72,37,18,0,Louisville Deadball Team Rebound.
+Duke,Louisville,75,73,37,18,1,Quentin Snider made Free Throw.
+Duke,Louisville,78,73,37,34,1,Jayson Tatum made Three Point Jumper. Assisted by Grayson Allen.
+Duke,Louisville,78,73,37,55,0,Foul on Amile Jefferson.
+Duke,Louisville,78,73,37,55,0,Mangok Mathiang missed Free Throw.
+Duke,Louisville,78,73,37,55,0,Louisville Deadball Team Rebound.
+Duke,Louisville,78,74,37,55,1,Mangok Mathiang made Free Throw.
+Duke,Louisville,78,74,38,18,0,Luke Kennard missed Layup.
+Duke,Louisville,78,74,38,18,0,Mangok Mathiang Block.
+Duke,Louisville,78,74,38,18,0,Amile Jefferson Offensive Rebound.
+Duke,Louisville,78,74,38,26,0,Frank Jackson missed Three Point Jumper.
+Duke,Louisville,78,74,38,26,0,Deng Adel Defensive Rebound.
+Duke,Louisville,78,74,38,35,0,Quentin Snider missed Layup.
+Duke,Louisville,78,74,38,35,0,Duke Defensive Rebound.
+Duke,Louisville,78,74,39,5,0,Luke Kennard missed Layup.
+Duke,Louisville,78,74,39,5,0,Mangok Mathiang Block.
+Duke,Louisville,78,74,39,5,0,Quentin Snider Defensive Rebound.
+Duke,Louisville,78,74,39,11,0,Foul on Jayson Tatum.
+Duke,Louisville,78,74,39,11,0,Quentin Snider missed Free Throw.
+Duke,Louisville,78,74,39,11,0,Louisville Deadball Team Rebound.
+Duke,Louisville,78,75,39,11,1,Quentin Snider made Free Throw.
+Duke,Louisville,78,75,39,33,0,Duke  Timeout
+Duke,Louisville,78,75,39,34,0,Jayson Tatum Turnover.
+Duke,Louisville,78,75,39,34,0,Quentin Snider Steal.
+Duke,Louisville,78,75,39,37,0,Foul on Jayson Tatum.
+Duke,Louisville,78,76,39,37,1,Quentin Snider made Free Throw.
+Duke,Louisville,78,77,39,37,1,Quentin Snider made Free Throw.
+Duke,Louisville,78,77,39,38,0,Foul on Ray Spalding.
+Duke,Louisville,79,77,39,38,1,Luke Kennard made Free Throw.
+Duke,Louisville,80,77,39,38,1,Luke Kennard made Free Throw.
+Duke,Louisville,80,77,39,51,0,Quentin Snider missed Three Point Jumper.
+Duke,Louisville,80,77,39,51,0,Luke Kennard Defensive Rebound.
+Duke,Louisville,80,77,39,56,0,Foul on Quentin Snider.
+Duke,Louisville,81,77,39,56,1,Luke Kennard made Free Throw.
+Duke,Louisville,81,77,39,56,0,Luke Kennard missed Free Throw.
+Duke,Louisville,81,77,39,56,0,Mangok Mathiang Defensive Rebound.
+Duke,Louisville,81,77,40,0,0,End of Game

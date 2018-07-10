@@ -1,0 +1,351 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+SMU,Texas State,2,0,0,8,1,Nick Russell made Jumper.  Assisted by Cannen Cunningham.
+SMU,Texas State,2,3,0,19,1,Wesley Davis made Three Point Jumper.  Assisted by Joel Wright.
+SMU,Texas State,2,3,0,47,0,Foul on Nick Russell
+SMU,Texas State,2,3,0,47,0,Nick Russell Turnover.
+SMU,Texas State,2,3,0,59,0,Joel Wright missed Jumper.
+SMU,Texas State,2,3,0,59,0,Wesley Davis Offensive Rebound.
+SMU,Texas State,2,3,1,5,0,Wesley Davis missed Three Point Jumper.
+SMU,Texas State,2,3,1,5,0,Ryan Manuel Defensive Rebound.
+SMU,Texas State,4,3,1,21,1,Nick Russell made Layup.
+SMU,Texas State,4,3,1,27,0,Vonn Jones missed Three Point Jumper.
+SMU,Texas State,4,3,1,27,0,Cannen Cunningham Defensive Rebound.
+SMU,Texas State,4,3,1,32,0,Cannen Cunningham Turnover.
+SMU,Texas State,4,3,1,33,0,Matt Staff Steal.
+SMU,Texas State,4,3,1,34,0,Matt Staff missed Layup.
+SMU,Texas State,4,3,1,34,0,Jalen Jones Defensive Rebound.
+SMU,Texas State,4,3,1,47,0,Foul on Ryan Manuel
+SMU,Texas State,4,3,1,47,0,Ryan Manuel Turnover.
+SMU,Texas State,4,3,1,57,0,Reid Koenen missed Jumper.
+SMU,Texas State,4,3,1,57,0,Shawn Williams Block.
+SMU,Texas State,4,3,1,59,0,Shawn Williams Defensive Rebound.
+SMU,Texas State,4,3,2,10,0,Foul on Matt Staff
+SMU,Texas State,4,3,2,10,0,Jalen Jones missed Free Throw.
+SMU,Texas State,4,3,2,10,0,null
+SMU,Texas State,5,3,2,10,1,Jalen Jones made Free Throw.
+SMU,Texas State,5,5,2,20,1,Joel Wright made Jumper.
+SMU,Texas State,7,5,2,47,1,Jalen Jones made Layup.
+SMU,Texas State,7,5,3,10,0,Joel Wright Turnover.
+SMU,Texas State,7,5,3,12,0,Nick Russell Steal.
+SMU,Texas State,9,5,3,14,1,Jalen Jones made Dunk.  Assisted by Nick Russell.
+SMU,Texas State,9,5,3,31,0,Foul on Jalen Jones
+SMU,Texas State,9,6,3,31,1,Joel Wright made Free Throw.
+SMU,Texas State,9,7,3,31,1,Joel Wright made Free Throw.
+SMU,Texas State,9,7,3,51,0,Shawn Williams missed Three Point Jumper.
+SMU,Texas State,9,7,3,51,0,Joel Wright Defensive Rebound.
+SMU,Texas State,9,7,4,0,0,Foul on Shawn Williams
+SMU,Texas State,9,7,4,0,0,Darius Richardson Turnover.
+SMU,Texas State,9,7,4,11,0,Official TV Timeout.
+SMU,Texas State,9,7,4,19,0,Ryan Manuel missed Jumper.
+SMU,Texas State,9,7,4,19,0,Vonn Jones Defensive Rebound.
+SMU,Texas State,9,7,4,22,0,Foul on Shawn Williams
+SMU,Texas State,9,7,4,34,0,Matt Staff missed Jumper.
+SMU,Texas State,9,7,4,34,0,Cannen Cunningham Block.
+SMU,Texas State,9,7,4,34,0,Texas State Offensive Rebound.
+SMU,Texas State,9,7,4,34,0,Joel Wright missed Jumper.
+SMU,Texas State,9,7,4,34,0,London Giles Defensive Rebound.
+SMU,Texas State,9,7,5,5,0,Foul on Joel Wright
+SMU,Texas State,9,7,5,13,0,Cannen Cunningham missed Jumper.
+SMU,Texas State,9,7,5,13,0,Matt Staff Defensive Rebound.
+SMU,Texas State,9,7,5,25,0,Joel Wright Turnover.
+SMU,Texas State,9,7,5,26,0,Nick Russell Steal.
+SMU,Texas State,9,7,5,30,0,Nick Russell Turnover.
+SMU,Texas State,9,7,5,44,0,Matt Staff missed Jumper.
+SMU,Texas State,9,7,5,44,0,Ryan Manuel Defensive Rebound.
+SMU,Texas State,11,7,6,2,1,Ryan Manuel made Jumper.
+SMU,Texas State,11,7,6,28,0,Matt Staff missed Jumper.
+SMU,Texas State,11,7,6,28,0,Nick Russell Defensive Rebound.
+SMU,Texas State,11,7,6,55,0,London Giles missed Three Point Jumper.
+SMU,Texas State,11,7,6,55,0,Corey Stern Defensive Rebound.
+SMU,Texas State,11,7,7,15,0,Matt Staff missed Jumper.
+SMU,Texas State,11,7,7,15,0,Corey Stern Offensive Rebound.
+SMU,Texas State,11,7,7,18,0,Corey Stern missed Tip Shot.
+SMU,Texas State,11,7,7,18,0,Nick Russell Defensive Rebound.
+SMU,Texas State,11,7,7,24,0,Foul on Matt Staff
+SMU,Texas State,11,7,7,43,0,Foul on Vonn Jones
+SMU,Texas State,11,7,7,43,0,Jalen Jones missed Free Throw.
+SMU,Texas State,11,7,7,43,0,null
+SMU,Texas State,12,7,7,43,1,Jalen Jones made Free Throw.
+SMU,Texas State,12,9,7,53,1,Wesley Davis made Jumper.
+SMU,Texas State,14,9,8,12,1,Jalen Jones made Layup.
+SMU,Texas State,14,9,8,22,0,Joel Wright Turnover.
+SMU,Texas State,14,9,8,22,0,Official TV Timeout.
+SMU,Texas State,14,9,8,36,0,Nick Russell missed Three Point Jumper.
+SMU,Texas State,14,9,8,36,0,Uche Ofoegbu Offensive Rebound.
+SMU,Texas State,14,9,8,40,0,Uche Ofoegbu missed Jumper.
+SMU,Texas State,14,9,8,40,0,Jalen Jones Offensive Rebound.
+SMU,Texas State,16,9,8,43,1,Jalen Jones made Layup.
+SMU,Texas State,16,9,8,43,0,Foul on Joel Wright
+SMU,Texas State,17,9,8,43,1,Jalen Jones made Free Throw.
+SMU,Texas State,17,9,9,17,0,Phil Hawkins missed Layup.
+SMU,Texas State,17,9,9,17,0,Ryan Manuel Block.
+SMU,Texas State,17,9,9,19,0,London Giles Defensive Rebound.
+SMU,Texas State,17,9,9,24,0,Ryan Manuel missed Jumper.
+SMU,Texas State,17,9,9,24,0,Corey Stern Defensive Rebound.
+SMU,Texas State,17,9,9,33,0,Corey Stern Turnover.
+SMU,Texas State,17,9,9,49,0,London Giles Turnover.
+SMU,Texas State,17,11,10,8,1,Ray Dorsey made Jumper.
+SMU,Texas State,17,11,10,26,0,Ryan Manuel missed Three Point Jumper.
+SMU,Texas State,17,11,10,26,0,Phil Hawkins Defensive Rebound.
+SMU,Texas State,17,14,10,42,1,Corey Stern made Three Point Jumper.  Assisted by Nick Hinton.
+SMU,Texas State,17,14,11,1,0,Foul on Corey Stern
+SMU,Texas State,20,14,11,19,1,Brian Bernardi made Three Point Jumper.  Assisted by Ryan Manuel.
+SMU,Texas State,20,14,11,38,0,Wesley Davis missed Jumper.
+SMU,Texas State,20,14,11,38,0,Jalen Jones Block.
+SMU,Texas State,20,14,11,40,0,Jalen Jones Defensive Rebound.
+SMU,Texas State,20,14,11,44,0,Foul on Ray Dorsey
+SMU,Texas State,21,14,11,44,1,Jalen Jones made Free Throw.
+SMU,Texas State,22,14,11,44,1,Jalen Jones made Free Throw.
+SMU,Texas State,22,14,12,8,0,Reid Koenen missed Three Point Jumper.
+SMU,Texas State,22,14,12,8,0,Ryan Manuel Defensive Rebound.
+SMU,Texas State,24,14,12,26,1,London Giles made Jumper.
+SMU,Texas State,24,14,12,41,0,Deonte' Jones missed Three Point Jumper.
+SMU,Texas State,24,14,12,41,0,Jalen Jones Defensive Rebound.
+SMU,Texas State,27,14,13,7,1,Brian Bernardi made Three Point Jumper.  Assisted by London Giles.
+SMU,Texas State,27,14,13,11,0,Texas State Full Timeout.
+SMU,Texas State,27,14,13,29,0,Phil Hawkins missed Three Point Jumper.
+SMU,Texas State,27,14,13,29,0,Texas State Offensive Rebound.
+SMU,Texas State,27,14,13,40,0,Foul on Uche Ofoegbu
+SMU,Texas State,27,14,13,43,0,Reid Koenen missed Three Point Jumper.
+SMU,Texas State,27,14,13,43,0,Jalen Jones Block.
+SMU,Texas State,27,14,13,47,0,Brian Bernardi Defensive Rebound.
+SMU,Texas State,27,14,13,59,0,Uche Ofoegbu missed Jumper.
+SMU,Texas State,27,14,13,59,0,Deonte' Jones Defensive Rebound.
+SMU,Texas State,27,16,14,7,1,Joel Wright made Layup.  Assisted by Deonte' Jones.
+SMU,Texas State,27,16,14,27,0,Foul on Jalen Jones
+SMU,Texas State,27,16,14,27,0,Jalen Jones Turnover.
+SMU,Texas State,27,18,14,39,1,Matt Staff made Layup.  Assisted by Deonte' Jones.
+SMU,Texas State,27,18,14,56,0,Nick Russell Turnover.
+SMU,Texas State,27,18,14,58,0,Reid Koenen Steal.
+SMU,Texas State,27,18,15,2,0,Joel Wright missed Layup.
+SMU,Texas State,27,18,15,2,0,Reid Koenen Offensive Rebound.
+SMU,Texas State,27,18,15,9,0,Deonte' Jones missed Jumper.
+SMU,Texas State,27,18,15,9,0,Cannen Cunningham Defensive Rebound.
+SMU,Texas State,27,18,15,34,0,Brian Bernardi Turnover.
+SMU,Texas State,27,18,15,44,0,Matt Staff Turnover.
+SMU,Texas State,27,18,16,2,0,Foul on Corey Stern
+SMU,Texas State,27,18,16,2,0,Official TV Timeout.
+SMU,Texas State,28,18,16,2,1,Ryan Manuel made Free Throw.
+SMU,Texas State,29,18,16,2,1,Ryan Manuel made Free Throw.
+SMU,Texas State,29,18,16,13,0,Matt Staff Turnover.
+SMU,Texas State,29,18,16,14,0,Cannen Cunningham Steal.
+SMU,Texas State,29,18,16,17,0,Foul on Darius Richardson
+SMU,Texas State,30,18,16,17,1,Uche Ofoegbu made Free Throw.
+SMU,Texas State,31,18,16,17,1,Uche Ofoegbu made Free Throw.
+SMU,Texas State,31,20,16,27,1,Joel Wright made Jumper.
+SMU,Texas State,33,20,16,57,1,Nick Russell made Jumper.
+SMU,Texas State,33,20,17,14,0,Vonn Jones missed Jumper.
+SMU,Texas State,33,20,17,14,0,Joel Wright Offensive Rebound.
+SMU,Texas State,33,20,17,19,0,Darius Richardson missed Jumper.
+SMU,Texas State,33,20,17,19,0,Ryan Manuel Defensive Rebound.
+SMU,Texas State,33,20,17,45,0,Nick Russell missed Jumper.
+SMU,Texas State,33,20,17,45,0,Joel Wright Defensive Rebound.
+SMU,Texas State,33,23,17,54,1,Vonn Jones made Three Point Jumper.
+SMU,Texas State,35,23,18,18,1,Nick Russell made Jumper.
+SMU,Texas State,35,23,18,35,0,Foul on Uche Ofoegbu
+SMU,Texas State,35,24,18,35,1,Joel Wright made Free Throw.
+SMU,Texas State,35,25,18,35,1,Joel Wright made Free Throw.
+SMU,Texas State,37,25,18,47,1,Ryan Manuel made Layup.
+SMU,Texas State,37,25,18,56,0,Foul on Cannen Cunningham
+SMU,Texas State,37,26,18,56,1,Reid Koenen made Free Throw.
+SMU,Texas State,37,27,18,56,1,Reid Koenen made Free Throw.
+SMU,Texas State,37,27,19,8,0,Ryan Manuel missed Jumper.
+SMU,Texas State,37,27,19,8,0,Ryan Manuel Offensive Rebound.
+SMU,Texas State,37,27,19,11,0,Foul on Nick Hinton
+SMU,Texas State,38,27,19,11,1,Ryan Manuel made Free Throw.
+SMU,Texas State,39,27,19,11,1,Ryan Manuel made Free Throw.
+SMU,Texas State,39,30,19,24,1,Reid Koenen made Three Point Jumper.  Assisted by Phil Hawkins.
+SMU,Texas State,39,30,19,38,0,Ryan Manuel Turnover.
+SMU,Texas State,39,30,19,39,0,Wesley Davis Steal.
+SMU,Texas State,39,30,19,44,0,Wesley Davis missed Layup.
+SMU,Texas State,39,30,19,44,0,Nick Hinton Offensive Rebound.
+SMU,Texas State,39,32,19,46,1,Nick Hinton made Tip Shot.
+SMU,Texas State,39,32,19,49,0,Southern Methodist Full Timeout.
+SMU,Texas State,39,32,19,59,0,Nick Russell missed Three Point Jumper.
+SMU,Texas State,39,32,19,59,0,Texas State Defensive Rebound.
+SMU,Texas State,39,32,20,0,0,End of the 1st Half.
+SMU,Texas State,39,32,20,0,0,End of the 1st Half.
+SMU,Texas State,39,32,20,13,0,Nick Russell Turnover.
+SMU,Texas State,39,32,20,13,0,Wesley Davis Steal.
+SMU,Texas State,39,34,20,24,1,Joel Wright made Layup.
+SMU,Texas State,39,34,20,46,0,Jalen Jones missed Jumper.
+SMU,Texas State,39,34,20,46,0,Cannen Cunningham Offensive Rebound.
+SMU,Texas State,39,34,20,51,0,Cannen Cunningham Turnover.
+SMU,Texas State,39,34,20,52,0,Joel Wright Steal.
+SMU,Texas State,39,34,20,56,0,Foul on Ryan Manuel
+SMU,Texas State,39,34,21,16,0,Vonn Jones missed Layup.
+SMU,Texas State,39,34,21,16,0,Shawn Williams Defensive Rebound.
+SMU,Texas State,39,34,21,33,0,Jalen Jones missed Three Point Jumper.
+SMU,Texas State,39,34,21,33,0,Shawn Williams Offensive Rebound.
+SMU,Texas State,41,34,21,37,1,Shawn Williams made Layup.
+SMU,Texas State,41,34,21,42,0,Reid Koenen missed Three Point Jumper.
+SMU,Texas State,41,34,21,42,0,Vonn Jones Offensive Rebound.
+SMU,Texas State,41,36,21,54,1,Matt Staff made Jumper.  Assisted by Vonn Jones.
+SMU,Texas State,41,36,22,10,0,Ryan Manuel Turnover.
+SMU,Texas State,41,36,22,11,0,Wesley Davis Steal.
+SMU,Texas State,41,38,22,15,1,Wesley Davis made Jumper.
+SMU,Texas State,41,38,22,27,0,Jalen Jones missed Layup.
+SMU,Texas State,41,38,22,27,0,Jalen Jones Offensive Rebound.
+SMU,Texas State,43,38,22,30,1,Jalen Jones made Layup.
+SMU,Texas State,43,38,22,48,0,Reid Koenen missed Layup.
+SMU,Texas State,43,38,22,48,0,Shawn Williams Block.
+SMU,Texas State,43,38,22,49,0,Shawn Williams Defensive Rebound.
+SMU,Texas State,45,38,22,53,1,Jalen Jones made Layup.  Assisted by Shawn Williams.
+SMU,Texas State,45,38,22,53,0,Foul on Matt Staff
+SMU,Texas State,46,38,22,53,1,Jalen Jones made Free Throw.
+SMU,Texas State,46,40,23,5,1,Joel Wright made Layup.
+SMU,Texas State,50,38,23,28,1,Nick Russell made Jumper.
+SMU,Texas State,50,40,23,41,1,Joel Wright made Jumper.
+SMU,Texas State,50,40,23,56,0,Foul on Nick Hinton
+SMU,Texas State,50,40,23,57,0,Nick Russell missed Jumper.
+SMU,Texas State,50,40,23,57,0,Shawn Williams Offensive Rebound.
+SMU,Texas State,50,40,24,0,0,Foul on Vonn Jones
+SMU,Texas State,51,40,24,0,1,Shawn Williams made Free Throw.
+SMU,Texas State,51,40,24,0,0,Shawn Williams missed Free Throw.
+SMU,Texas State,51,40,24,0,0,Nick Hinton Defensive Rebound.
+SMU,Texas State,51,40,24,6,0,Foul on Brian Bernardi
+SMU,Texas State,51,40,24,6,0,Official TV Timeout.
+SMU,Texas State,51,40,24,6,0,Corey Stern missed Free Throw.
+SMU,Texas State,51,40,24,6,0,null
+SMU,Texas State,51,40,24,6,0,Corey Stern missed Free Throw.
+SMU,Texas State,51,40,24,6,0,Cannen Cunningham Defensive Rebound.
+SMU,Texas State,51,40,24,15,0,Brian Bernardi missed Three Point Jumper.
+SMU,Texas State,51,40,24,15,0,Texas State Defensive Rebound.
+SMU,Texas State,51,40,24,27,0,Foul on Vonn Jones
+SMU,Texas State,51,40,24,27,0,Vonn Jones Turnover.
+SMU,Texas State,51,40,24,35,0,Nick Russell Turnover.
+SMU,Texas State,51,40,24,36,0,Wesley Davis Steal.
+SMU,Texas State,51,42,24,48,1,Reid Koenen made Jumper.
+SMU,Texas State,51,42,25,13,0,Foul on Shawn Williams
+SMU,Texas State,51,42,25,13,0,Shawn Williams Turnover.
+SMU,Texas State,51,44,25,27,1,Joel Wright made Dunk.  Assisted by Wesley Davis.
+SMU,Texas State,51,44,25,34,0,Foul on Joel Wright
+SMU,Texas State,53,44,25,52,1,Nick Russell made Jumper.
+SMU,Texas State,53,44,26,12,0,Foul on Nick Russell
+SMU,Texas State,53,44,26,34,0,Reid Koenen missed Jumper.
+SMU,Texas State,53,44,26,34,0,Cannen Cunningham Block.
+SMU,Texas State,53,44,26,35,0,Nick Russell Defensive Rebound.
+SMU,Texas State,53,44,27,4,0,Nick Russell missed Jumper.
+SMU,Texas State,53,44,27,4,0,Phil Hawkins Defensive Rebound.
+SMU,Texas State,53,44,27,12,0,Reid Koenen missed Three Point Jumper.
+SMU,Texas State,53,44,27,12,0,London Giles Defensive Rebound.
+SMU,Texas State,53,44,27,36,0,Jalen Jones missed Jumper.
+SMU,Texas State,53,44,27,36,0,Southern Methodist Offensive Reb.
+SMU,Texas State,53,44,27,44,0,Foul on Ray Dorsey
+SMU,Texas State,54,44,27,44,1,Nick Russell made Free Throw.
+SMU,Texas State,55,44,27,44,1,Nick Russell made Free Throw.
+SMU,Texas State,55,44,28,9,0,Wesley Davis missed Jumper.
+SMU,Texas State,55,44,28,9,0,Cannen Cunningham Block.
+SMU,Texas State,55,44,28,11,0,Texas State Offensive Rebound.
+SMU,Texas State,55,44,28,11,0,Official TV Timeout.
+SMU,Texas State,55,44,28,13,0,Joel Wright missed Three Point Jumper.
+SMU,Texas State,55,44,28,13,0,Nick Russell Defensive Rebound.
+SMU,Texas State,55,44,28,36,0,Foul on London Giles
+SMU,Texas State,55,44,28,36,0,London Giles Turnover.
+SMU,Texas State,55,44,28,54,0,Joel Wright missed Layup.
+SMU,Texas State,55,44,28,54,0,Nick Russell Defensive Rebound.
+SMU,Texas State,57,44,29,0,1,Nick Russell made Layup.
+SMU,Texas State,57,44,29,13,0,Joel Wright missed Layup.
+SMU,Texas State,57,44,29,13,0,Ryan Manuel Defensive Rebound.
+SMU,Texas State,59,44,29,19,1,Ryan Manuel made Layup.
+SMU,Texas State,59,44,29,39,0,Foul on Jalen Jones
+SMU,Texas State,59,46,29,44,1,Joel Wright made Jumper.
+SMU,Texas State,61,46,30,9,1,Nick Russell made Jumper.
+SMU,Texas State,61,49,30,22,1,Darius Richardson made Three Point Jumper.  Assisted by Phil Hawkins.
+SMU,Texas State,63,49,30,43,1,Ryan Manuel made Layup.
+SMU,Texas State,63,49,30,56,0,Foul on Shawn Williams
+SMU,Texas State,63,50,30,56,1,Joel Wright made Free Throw.
+SMU,Texas State,63,51,30,56,1,Joel Wright made Free Throw.
+SMU,Texas State,63,51,31,21,0,Ryan Manuel missed Three Point Jumper.
+SMU,Texas State,63,51,31,21,0,Texas State Defensive Rebound.
+SMU,Texas State,63,51,31,35,0,Reid Koenen Turnover.
+SMU,Texas State,63,51,31,36,0,London Giles Steal.
+SMU,Texas State,65,51,31,40,1,Jalen Jones made Layup.
+SMU,Texas State,65,51,31,55,0,Reid Koenen missed Jumper.
+SMU,Texas State,65,51,31,55,0,Cannen Cunningham Block.
+SMU,Texas State,65,51,31,55,0,Texas State Offensive Rebound.
+SMU,Texas State,65,51,31,55,0,Darius Richardson missed Three Point Jumper.
+SMU,Texas State,65,51,31,55,0,Reid Koenen Offensive Rebound.
+SMU,Texas State,65,54,31,55,1,Wesley Davis made Three Point Jumper.
+SMU,Texas State,65,54,32,9,0,Southern Methodist Full Timeout.
+SMU,Texas State,65,54,32,28,0,Foul on Darius Richardson
+SMU,Texas State,65,54,32,28,0,Official TV Timeout.
+SMU,Texas State,66,54,32,28,1,Nick Russell made Free Throw.
+SMU,Texas State,67,54,32,28,1,Nick Russell made Free Throw.
+SMU,Texas State,67,54,32,42,0,Foul on Cannen Cunningham
+SMU,Texas State,67,55,32,42,1,Joel Wright made Free Throw.
+SMU,Texas State,67,56,32,42,1,Joel Wright made Free Throw.
+SMU,Texas State,67,56,32,58,0,Cannen Cunningham missed Jumper.
+SMU,Texas State,67,56,32,58,0,Wesley Davis Defensive Rebound.
+SMU,Texas State,67,56,33,16,0,Foul on London Giles
+SMU,Texas State,67,57,33,16,1,Wesley Davis made Free Throw.
+SMU,Texas State,67,58,33,16,1,Wesley Davis made Free Throw.
+SMU,Texas State,69,58,33,27,1,Cannen Cunningham made Jumper.  Assisted by Nick Russell.
+SMU,Texas State,69,58,33,34,0,Wesley Davis missed Three Point Jumper.
+SMU,Texas State,69,58,33,34,0,Joel Wright Offensive Rebound.
+SMU,Texas State,69,58,33,41,0,Joel Wright Turnover.
+SMU,Texas State,69,58,33,43,0,Cannen Cunningham Steal.
+SMU,Texas State,69,58,34,2,0,Cannen Cunningham missed Jumper.
+SMU,Texas State,69,58,34,2,0,Corey Stern Defensive Rebound.
+SMU,Texas State,69,58,34,8,0,Reid Koenen missed Three Point Jumper.
+SMU,Texas State,69,58,34,8,0,Texas State Offensive Rebound.
+SMU,Texas State,69,58,34,21,0,Foul on Ryan Manuel
+SMU,Texas State,69,58,34,21,0,Phil Hawkins missed Free Throw.
+SMU,Texas State,69,58,34,21,0,null
+SMU,Texas State,69,59,34,21,1,Phil Hawkins made Free Throw.
+SMU,Texas State,69,59,34,37,0,Nick Russell missed Jumper.
+SMU,Texas State,69,59,34,37,0,Darius Richardson Defensive Rebound.
+SMU,Texas State,69,61,34,43,1,Joel Wright made Layup.  Assisted by Darius Richardson.
+SMU,Texas State,69,61,35,6,0,Nick Russell missed Three Point Jumper.
+SMU,Texas State,69,61,35,6,0,Jalen Jones Offensive Rebound.
+SMU,Texas State,71,61,35,11,1,Jalen Jones made Layup.
+SMU,Texas State,71,61,35,31,0,Foul on Shawn Williams
+SMU,Texas State,71,62,35,31,1,Reid Koenen made Free Throw.
+SMU,Texas State,71,63,35,31,1,Reid Koenen made Free Throw.
+SMU,Texas State,71,63,35,36,0,Jalen Jones Turnover.
+SMU,Texas State,71,63,36,7,0,Foul on Ryan Manuel
+SMU,Texas State,71,63,36,7,0,Official TV Timeout.
+SMU,Texas State,71,64,36,7,1,Phil Hawkins made Free Throw.
+SMU,Texas State,71,65,36,7,1,Phil Hawkins made Free Throw.
+SMU,Texas State,71,65,36,31,0,Foul on Corey Stern
+SMU,Texas State,72,65,36,31,1,Ryan Manuel made Free Throw.
+SMU,Texas State,73,65,36,31,1,Ryan Manuel made Free Throw.
+SMU,Texas State,73,65,36,48,0,Joel Wright Turnover.
+SMU,Texas State,73,65,37,1,0,Nick Russell missed Jumper.
+SMU,Texas State,73,65,37,1,0,Wesley Davis Block.
+SMU,Texas State,73,65,37,3,0,Texas State Defensive Rebound.
+SMU,Texas State,73,65,37,14,0,Darius Richardson missed Jumper.
+SMU,Texas State,73,65,37,14,0,Uche Ofoegbu Block.
+SMU,Texas State,73,65,37,18,0,Wesley Davis Offensive Rebound.
+SMU,Texas State,73,67,37,20,1,Wesley Davis made Layup.
+SMU,Texas State,73,67,37,35,0,Foul on Corey Stern
+SMU,Texas State,74,67,37,35,1,Jalen Jones made Free Throw.
+SMU,Texas State,75,67,37,35,1,Jalen Jones made Free Throw.
+SMU,Texas State,75,69,37,44,1,Joel Wright made Layup.
+SMU,Texas State,75,69,38,4,0,Foul on Joel Wright
+SMU,Texas State,76,69,38,4,1,Nick Russell made Free Throw.
+SMU,Texas State,76,69,38,4,0,Nick Russell missed Free Throw.
+SMU,Texas State,76,69,38,4,0,Jalen Jones Offensive Rebound.
+SMU,Texas State,76,69,38,10,0,Jalen Jones missed Jumper.
+SMU,Texas State,76,69,38,10,0,Joel Wright Defensive Rebound.
+SMU,Texas State,76,71,38,18,1,Phil Hawkins made Jumper.
+SMU,Texas State,78,71,38,42,1,Nick Russell made Jumper.
+SMU,Texas State,78,71,38,56,0,Corey Stern missed Layup.
+SMU,Texas State,78,71,38,56,0,Jalen Jones Block.
+SMU,Texas State,78,71,38,58,0,Ryan Manuel Defensive Rebound.
+SMU,Texas State,78,71,39,8,0,Ryan Manuel Turnover.
+SMU,Texas State,78,71,39,9,0,Corey Stern Steal.
+SMU,Texas State,78,73,39,10,1,Darius Richardson made Layup.  Assisted by Corey Stern.
+SMU,Texas State,78,73,39,25,0,Nick Russell missed Jumper.
+SMU,Texas State,78,73,39,25,0,Texas State Defensive Rebound.
+SMU,Texas State,78,73,39,29,0,Texas State Full Timeout.
+SMU,Texas State,78,73,39,41,0,Texas State Full Timeout.
+SMU,Texas State,78,73,39,52,0,Joel Wright missed Jumper.
+SMU,Texas State,78,73,39,52,0,Nick Russell Defensive Rebound.
+SMU,Texas State,78,73,39,54,0,Foul on Joel Wright
+SMU,Texas State,79,73,39,54,1,Nick Russell made Free Throw.
+SMU,Texas State,80,73,39,54,1,Nick Russell made Free Throw.
+SMU,Texas State,78,75,39,54,0,Southern Methodist Full Timeout.
+SMU,Texas State,78,75,39,58,0,Jalen Jones Defensive Rebound.
+SMU,Texas State,78,75,39,58,0,Phil Hawkins missed Three Point Jumper.
+SMU,Texas State,78,75,40,0,0,End Game

@@ -1,0 +1,312 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UCF,SMU,0,0,0,0,0,Jump Ball won by UCF
+UCF,SMU,0,0,0,14,0,Tacko Fall missed Layup.
+UCF,SMU,0,0,0,14,0,SMU Defensive Rebound.
+UCF,SMU,0,2,0,36,1,Shake Milton made Jumper.
+UCF,SMU,2,2,1,7,1,Tacko Fall made Layup. Assisted by Adonys Henriquez.
+UCF,SMU,2,4,1,19,1,Ben Moore made Dunk. Assisted by Shake Milton.
+UCF,SMU,2,4,1,35,0,Matt Williams Turnover.
+UCF,SMU,2,4,1,35,0,Sterling Brown Steal.
+UCF,SMU,2,4,1,46,0,Foul on Matt Williams.
+UCF,SMU,2,4,1,46,0,Sterling Brown missed Free Throw.
+UCF,SMU,2,4,1,46,0,SMU Deadball Team Rebound.
+UCF,SMU,2,5,1,46,1,Sterling Brown made Free Throw.
+UCF,SMU,5,5,2,4,1,Matt Williams made Three Point Jumper. Assisted by Adonys Henriquez.
+UCF,SMU,5,7,2,22,1,Ben Moore made Jumper. Assisted by Sterling Brown.
+UCF,SMU,7,7,2,37,1,A.J. Davis made Layup.
+UCF,SMU,7,7,2,37,0,Foul on Ben Moore.
+UCF,SMU,8,7,2,37,1,A.J. Davis made Free Throw.
+UCF,SMU,8,7,2,56,0,Foul on Tacko Fall.
+UCF,SMU,8,8,2,56,1,Jordan Tolbert made Free Throw.
+UCF,SMU,8,9,2,56,1,Jordan Tolbert made Free Throw.
+UCF,SMU,8,9,3,19,0,Tacko Fall missed Jumper.
+UCF,SMU,8,9,3,19,0,Sterling Brown Defensive Rebound.
+UCF,SMU,8,9,3,29,0,Jordan Tolbert missed Layup.
+UCF,SMU,8,9,3,29,0,Ben Moore Offensive Rebound.
+UCF,SMU,8,11,3,29,1,Ben Moore made Two Point Tip Shot.
+UCF,SMU,8,11,3,56,0,A.J. Davis missed Jumper.
+UCF,SMU,8,11,3,56,0,A.J. Davis Offensive Rebound.
+UCF,SMU,8,11,4,2,0,A.J. Davis missed Layup.
+UCF,SMU,8,11,4,2,0,Sterling Brown Block.
+UCF,SMU,8,11,4,2,0,Shake Milton Defensive Rebound.
+UCF,SMU,8,11,4,6,0,Foul on Tacko Fall.
+UCF,SMU,8,11,4,6,0,Official TV Timeout
+UCF,SMU,8,12,4,6,1,Sterling Brown made Free Throw.
+UCF,SMU,8,13,4,6,1,Sterling Brown made Free Throw.
+UCF,SMU,8,13,4,23,0,Matt Williams missed Three Point Jumper.
+UCF,SMU,8,13,4,23,0,Sterling Brown Defensive Rebound.
+UCF,SMU,8,16,4,27,1,Sterling Brown made Three Point Jumper.
+UCF,SMU,8,16,4,51,0,Justin McBride missed Layup.
+UCF,SMU,8,16,4,51,0,Jordan Tolbert Defensive Rebound.
+UCF,SMU,8,19,5,10,1,Sterling Brown made Three Point Jumper.
+UCF,SMU,8,19,5,24,0,Matt Williams Turnover.
+UCF,SMU,8,19,5,24,0,Sterling Brown Steal.
+UCF,SMU,8,22,5,31,1,Nic Moore made Three Point Jumper. Assisted by Sterling Brown.
+UCF,SMU,8,22,5,36,0,UCF  Timeout
+UCF,SMU,8,22,5,51,0,Daiquan Walker missed Three Point Jumper.
+UCF,SMU,8,22,5,51,0,Daiquan Walker Offensive Rebound.
+UCF,SMU,8,22,6,2,0,Daiquan Walker Turnover.
+UCF,SMU,8,22,6,25,0,Markus Kennedy missed Jumper.
+UCF,SMU,8,22,6,25,0,A.J. Davis Defensive Rebound.
+UCF,SMU,8,22,6,36,0,Foul on Sterling Brown.
+UCF,SMU,9,22,6,36,1,A.J. Davis made Free Throw.
+UCF,SMU,9,22,6,36,0,A.J. Davis missed Free Throw.
+UCF,SMU,9,22,6,36,0,Shake Milton Defensive Rebound.
+UCF,SMU,9,22,6,56,0,Ben Moore missed Jumper.
+UCF,SMU,9,22,6,56,0,Justin McBride Block.
+UCF,SMU,9,22,6,56,0,Justin McBride Defensive Rebound.
+UCF,SMU,9,22,7,23,0,A.J. Davis missed Three Point Jumper.
+UCF,SMU,9,22,7,23,0,Justin McBride Offensive Rebound.
+UCF,SMU,9,22,7,25,0,Justin McBride Turnover.
+UCF,SMU,9,22,7,25,0,Markus Kennedy Steal.
+UCF,SMU,9,24,7,31,1,Ben Moore made Layup. Assisted by Nic Moore.
+UCF,SMU,9,24,7,53,0,Daiquan Walker missed Jumper.
+UCF,SMU,9,24,7,53,0,Markus Kennedy Block.
+UCF,SMU,9,24,7,53,0,Shake Milton Defensive Rebound.
+UCF,SMU,9,24,7,59,0,Shake Milton Turnover.
+UCF,SMU,9,24,8,4,0,Justin McBride missed Jumper.
+UCF,SMU,9,24,8,4,0,Jarrey Foster Defensive Rebound.
+UCF,SMU,9,26,8,11,1,Shake Milton made Jumper.
+UCF,SMU,9,26,8,42,0,A.J. Davis missed Jumper.
+UCF,SMU,9,26,8,42,0,Shaheed Davis Offensive Rebound.
+UCF,SMU,9,26,8,56,0,Chance McSpadden missed Layup.
+UCF,SMU,9,26,8,56,0,Justin McBride Offensive Rebound.
+UCF,SMU,11,26,8,56,1,Justin McBride made Two Point Tip Shot.
+UCF,SMU,11,26,9,10,0,Ben Moore missed Layup.
+UCF,SMU,11,26,9,10,0,Jordan Tolbert Offensive Rebound.
+UCF,SMU,11,26,9,14,0,Jordan Tolbert Turnover.
+UCF,SMU,13,26,9,16,1,Tanksley Efianayi made Jumper.
+UCF,SMU,13,26,9,16,0,Foul on Nic Moore.
+UCF,SMU,13,26,9,33,0,Tanksley Efianayi missed Free Throw.
+UCF,SMU,13,26,9,33,0,Jarrey Foster Defensive Rebound.
+UCF,SMU,13,26,9,33,0,Foul on A.J. Davis.
+UCF,SMU,13,27,9,33,1,Jordan Tolbert made Free Throw.
+UCF,SMU,13,28,9,33,1,Jordan Tolbert made Free Throw.
+UCF,SMU,13,28,9,46,0,A.J. Davis Turnover.
+UCF,SMU,13,28,9,46,0,Sterling Brown Steal.
+UCF,SMU,13,28,10,0,0,Foul on Markus Kennedy.
+UCF,SMU,13,28,10,0,0,Markus Kennedy Turnover.
+UCF,SMU,13,28,10,21,0,Staphon Blair Turnover.
+UCF,SMU,13,28,10,21,0,Jarrey Foster Steal.
+UCF,SMU,13,28,10,37,0,Jarrey Foster missed Three Point Jumper.
+UCF,SMU,13,28,10,37,0,Jordan Tolbert Offensive Rebound.
+UCF,SMU,13,30,10,42,1,Jordan Tolbert made Dunk.
+UCF,SMU,15,30,11,2,1,Shaheed Davis made Jumper.
+UCF,SMU,15,30,11,17,0,Markus Kennedy Turnover.
+UCF,SMU,15,30,11,17,0,Adonys Henriquez Steal.
+UCF,SMU,15,30,11,23,0,Adonys Henriquez missed Jumper.
+UCF,SMU,15,30,11,23,0,Markus Kennedy Defensive Rebound.
+UCF,SMU,15,30,11,30,0,Jarrey Foster missed Jumper.
+UCF,SMU,15,30,11,30,0,Jarrey Foster Offensive Rebound.
+UCF,SMU,15,30,11,37,0,Foul on Chance McSpadden.
+UCF,SMU,15,30,11,37,0,Jarrey Foster missed Free Throw.
+UCF,SMU,15,30,11,37,0,SMU Deadball Team Rebound.
+UCF,SMU,15,30,11,37,0,Jarrey Foster missed Free Throw.
+UCF,SMU,15,30,11,37,0,Shaheed Davis Defensive Rebound.
+UCF,SMU,17,30,11,52,1,Tanksley Efianayi made Jumper.
+UCF,SMU,17,32,11,57,1,Jordan Tolbert made Dunk. Assisted by Sterling Brown.
+UCF,SMU,17,32,12,25,0,Tanksley Efianayi missed Three Point Jumper.
+UCF,SMU,17,32,12,25,0,UCF Offensive Rebound.
+UCF,SMU,17,32,12,28,0,Official TV Timeout
+UCF,SMU,17,32,12,35,0,UCF  Turnover.
+UCF,SMU,17,32,12,44,0,Sterling Brown Turnover.
+UCF,SMU,17,32,12,44,0,Matt Williams Steal.
+UCF,SMU,17,32,13,4,0,Justin McBride Turnover.
+UCF,SMU,17,32,13,4,0,Sterling Brown Steal.
+UCF,SMU,17,34,13,8,1,Ben Moore made Dunk. Assisted by Nic Moore.
+UCF,SMU,17,34,13,33,0,Justin McBride missed Jumper.
+UCF,SMU,17,34,13,33,0,Jarrey Foster Defensive Rebound.
+UCF,SMU,17,34,13,44,0,Sterling Brown Turnover.
+UCF,SMU,17,34,13,59,0,Shaheed Davis missed Three Point Jumper.
+UCF,SMU,17,34,13,59,0,Justin McBride Offensive Rebound.
+UCF,SMU,19,34,14,4,1,Justin McBride made Layup.
+UCF,SMU,19,37,14,24,1,Nic Moore made Three Point Jumper. Assisted by Shake Milton.
+UCF,SMU,22,37,14,44,1,Matt Williams made Three Point Jumper. Assisted by A.J. Davis.
+UCF,SMU,22,37,15,6,0,Shake Milton missed Jumper.
+UCF,SMU,22,37,15,6,0,Justin McBride Defensive Rebound.
+UCF,SMU,24,37,15,14,1,Justin McBride made Layup. Assisted by A.J. Davis.
+UCF,SMU,24,37,15,45,0,Shake Milton missed Three Point Jumper.
+UCF,SMU,24,37,15,45,0,Justin McBride Defensive Rebound.
+UCF,SMU,24,37,15,58,0,Foul on Nic Moore.
+UCF,SMU,24,37,15,58,0,Daiquan Walker missed Free Throw.
+UCF,SMU,24,37,15,58,0,UCF Deadball Team Rebound.
+UCF,SMU,24,37,15,58,0,Daiquan Walker missed Free Throw.
+UCF,SMU,24,37,15,58,0,Ben Moore Defensive Rebound.
+UCF,SMU,24,39,16,18,1,Jordan Tolbert made Jumper. Assisted by Sterling Brown.
+UCF,SMU,24,39,16,38,0,Shaheed Davis missed Jumper.
+UCF,SMU,24,39,16,38,0,Shake Milton Defensive Rebound.
+UCF,SMU,24,39,16,45,0,Sterling Brown Turnover.
+UCF,SMU,24,39,16,45,0,A.J. Davis Steal.
+UCF,SMU,24,39,16,50,0,A.J. Davis Turnover.
+UCF,SMU,24,39,16,50,0,Foul on A.J. Davis.
+UCF,SMU,24,39,16,50,0,Official TV Timeout
+UCF,SMU,24,39,17,4,0,Jordan Tolbert missed Jumper.
+UCF,SMU,24,39,17,4,0,Ben Moore Offensive Rebound.
+UCF,SMU,24,39,17,21,0,Sterling Brown Turnover.
+UCF,SMU,24,39,17,21,0,A.J. Davis Steal.
+UCF,SMU,24,39,17,29,0,Daiquan Walker missed Layup.
+UCF,SMU,24,39,17,29,0,Jarrey Foster Block.
+UCF,SMU,24,39,17,29,0,Shake Milton Defensive Rebound.
+UCF,SMU,24,41,17,35,1,Ben Moore made Dunk. Assisted by Shake Milton.
+UCF,SMU,26,41,17,52,1,Justin McBride made Layup.
+UCF,SMU,26,41,17,52,0,Foul on Jordan Tolbert.
+UCF,SMU,26,41,17,52,0,Justin McBride missed Free Throw.
+UCF,SMU,26,41,17,52,0,Jarrey Foster Defensive Rebound.
+UCF,SMU,26,41,18,15,0,Ben Moore missed Jumper.
+UCF,SMU,26,41,18,15,0,Jordan Tolbert Offensive Rebound.
+UCF,SMU,26,43,18,21,1,Ben Moore made Layup.
+UCF,SMU,28,43,18,40,1,Justin McBride made Jumper. Assisted by Matt Williams.
+UCF,SMU,28,43,19,1,0,Sterling Brown missed Jumper.
+UCF,SMU,28,43,19,1,0,Jarrey Foster Offensive Rebound.
+UCF,SMU,28,43,19,9,0,Ben Moore missed Jumper.
+UCF,SMU,28,43,19,9,0,Adonys Henriquez Defensive Rebound.
+UCF,SMU,31,43,19,23,1,Chance McSpadden made Three Point Jumper. Assisted by Adonys Henriquez.
+UCF,SMU,31,45,19,56,1,Shake Milton made Jumper.
+UCF,SMU,31,45,20,0,0,End of 1st half
+UCF,SMU,31,45,20,0,0,Jump Ball won by SMU
+UCF,SMU,31,47,20,13,1,Jordan Tolbert made Dunk. Assisted by Jarrey Foster.
+UCF,SMU,33,47,20,38,1,Justin McBride made Layup.
+UCF,SMU,33,50,20,48,1,Nic Moore made Three Point Jumper.
+UCF,SMU,35,50,21,5,1,Justin McBride made Layup. Assisted by Daiquan Walker.
+UCF,SMU,35,50,21,15,0,Nic Moore missed Jumper.
+UCF,SMU,35,50,21,15,0,Daiquan Walker Defensive Rebound.
+UCF,SMU,35,50,21,34,0,A.J. Davis missed Jumper.
+UCF,SMU,35,50,21,34,0,Jordan Tolbert Defensive Rebound.
+UCF,SMU,35,52,21,53,1,Ben Moore made Layup.
+UCF,SMU,35,52,21,53,0,Foul on Justin McBride.
+UCF,SMU,35,53,21,53,1,Ben Moore made Free Throw.
+UCF,SMU,38,53,22,4,1,Adonys Henriquez made Three Point Jumper. Assisted by Matt Williams.
+UCF,SMU,38,55,22,19,1,Ben Moore made Jumper.
+UCF,SMU,38,55,22,35,0,Adonys Henriquez missed Three Point Jumper.
+UCF,SMU,38,55,22,35,0,Ben Moore Defensive Rebound.
+UCF,SMU,38,55,22,45,0,Nic Moore missed Three Point Jumper.
+UCF,SMU,38,55,22,45,0,Daiquan Walker Defensive Rebound.
+UCF,SMU,41,55,22,55,1,Matt Williams made Three Point Jumper. Assisted by Daiquan Walker.
+UCF,SMU,41,57,23,23,1,Jordan Tolbert made Layup. Assisted by Sterling Brown.
+UCF,SMU,41,57,23,38,0,Foul on Jordan Tolbert.
+UCF,SMU,42,57,23,38,1,Justin McBride made Free Throw.
+UCF,SMU,42,57,23,38,0,Justin McBride missed Free Throw.
+UCF,SMU,42,57,23,38,0,Jarrey Foster Defensive Rebound.
+UCF,SMU,42,57,23,53,0,Shake Milton Turnover.
+UCF,SMU,42,57,23,53,0,Matt Williams Steal.
+UCF,SMU,42,57,24,21,0,Daiquan Walker missed Three Point Jumper.
+UCF,SMU,42,57,24,21,0,Daiquan Walker Offensive Rebound.
+UCF,SMU,42,57,24,22,0,Foul on Nic Moore.
+UCF,SMU,42,57,24,22,0,Official TV Timeout
+UCF,SMU,42,57,24,22,0,Justin McBride missed Free Throw.
+UCF,SMU,42,57,24,22,0,UCF Deadball Team Rebound.
+UCF,SMU,43,57,24,22,1,Justin McBride made Free Throw.
+UCF,SMU,43,60,24,36,1,Nic Moore made Three Point Jumper. Assisted by Ben Moore.
+UCF,SMU,43,60,25,4,0,Tacko Fall Turnover.
+UCF,SMU,43,60,25,4,0,Markus Kennedy Steal.
+UCF,SMU,43,63,25,10,1,Nic Moore made Three Point Jumper. Assisted by Shake Milton.
+UCF,SMU,43,63,25,37,0,A.J. Davis missed Jumper.
+UCF,SMU,43,63,25,37,0,Jarrey Foster Defensive Rebound.
+UCF,SMU,43,63,25,44,0,Nic Moore Turnover.
+UCF,SMU,43,63,25,59,0,Foul on Jarrey Foster.
+UCF,SMU,43,63,25,59,0,Adonys Henriquez missed Free Throw.
+UCF,SMU,43,63,25,59,0,UCF Deadball Team Rebound.
+UCF,SMU,44,63,25,59,1,Adonys Henriquez made Free Throw.
+UCF,SMU,44,65,26,13,1,Markus Kennedy made Dunk. Assisted by Ben Moore.
+UCF,SMU,44,65,26,35,0,Foul on Markus Kennedy.
+UCF,SMU,44,65,26,52,0,A.J. Davis missed Three Point Jumper.
+UCF,SMU,44,65,26,52,0,Tacko Fall Offensive Rebound.
+UCF,SMU,46,65,26,57,1,Tacko Fall made Layup.
+UCF,SMU,46,65,26,57,0,Foul on Markus Kennedy.
+UCF,SMU,47,65,26,57,1,Tacko Fall made Free Throw.
+UCF,SMU,47,65,27,14,0,Nic Moore missed Three Point Jumper.
+UCF,SMU,47,65,27,14,0,Jordan Tolbert Offensive Rebound.
+UCF,SMU,47,65,27,22,0,Jarrey Foster missed Layup.
+UCF,SMU,47,65,27,22,0,A.J. Davis Defensive Rebound.
+UCF,SMU,47,65,27,29,0,Matt Williams missed Three Point Jumper.
+UCF,SMU,47,65,27,29,0,Shake Milton Defensive Rebound.
+UCF,SMU,47,65,27,38,0,Shake Milton missed Layup.
+UCF,SMU,47,65,27,38,0,A.J. Davis Block.
+UCF,SMU,47,65,27,38,0,SMU Offensive Rebound.
+UCF,SMU,47,65,27,44,0,Ben Moore Turnover.
+UCF,SMU,47,65,27,44,0,Daiquan Walker Steal.
+UCF,SMU,47,65,27,52,0,Daiquan Walker missed Three Point Jumper.
+UCF,SMU,47,65,27,52,0,Ben Moore Defensive Rebound.
+UCF,SMU,47,65,28,18,0,Nic Moore Turnover.
+UCF,SMU,47,65,28,19,0,Official TV Timeout
+UCF,SMU,47,65,28,34,0,Foul on Jarrey Foster.
+UCF,SMU,48,65,28,34,1,A.J. Davis made Free Throw.
+UCF,SMU,49,65,28,34,1,A.J. Davis made Free Throw.
+UCF,SMU,49,65,28,49,0,Shake Milton Turnover.
+UCF,SMU,49,65,28,49,0,Justin McBride Steal.
+UCF,SMU,49,65,28,55,0,A.J. Davis Turnover.
+UCF,SMU,49,65,28,55,0,Jarrey Foster Steal.
+UCF,SMU,49,65,29,16,0,Nic Moore missed Three Point Jumper.
+UCF,SMU,49,65,29,16,0,Jarrey Foster Offensive Rebound.
+UCF,SMU,49,67,29,21,1,Jarrey Foster made Layup.
+UCF,SMU,49,67,29,43,0,Adonys Henriquez missed Layup.
+UCF,SMU,49,67,29,43,0,Sterling Brown Defensive Rebound.
+UCF,SMU,49,67,29,49,0,Shake Milton missed Three Point Jumper.
+UCF,SMU,49,67,29,49,0,Justin McBride Defensive Rebound.
+UCF,SMU,51,67,29,56,1,Adonys Henriquez made Layup. Assisted by Justin McBride.
+UCF,SMU,51,67,30,25,0,Nic Moore missed Jumper.
+UCF,SMU,51,67,30,25,0,A.J. Davis Defensive Rebound.
+UCF,SMU,53,67,30,54,1,Justin McBride made Layup.
+UCF,SMU,53,69,31,20,1,Sterling Brown made Jumper.
+UCF,SMU,53,69,31,52,0,A.J. Davis missed Three Point Jumper.
+UCF,SMU,53,69,31,52,0,Jordan Tolbert Defensive Rebound.
+UCF,SMU,53,69,32,4,0,Shake Milton missed Jumper.
+UCF,SMU,53,69,32,4,0,Jarrey Foster Offensive Rebound.
+UCF,SMU,53,69,32,4,0,Jarrey Foster missed Two Point Tip Shot.
+UCF,SMU,53,69,32,4,0,SMU Offensive Rebound.
+UCF,SMU,53,69,32,6,0,Official TV Timeout
+UCF,SMU,53,72,32,20,1,Jarrey Foster made Three Point Jumper. Assisted by Nic Moore.
+UCF,SMU,55,72,32,44,1,Tacko Fall made Jumper. Assisted by Chance McSpadden.
+UCF,SMU,55,72,32,55,0,Foul on Chance McSpadden.
+UCF,SMU,55,72,33,8,0,Foul on Chance McSpadden.
+UCF,SMU,55,73,33,8,1,Nic Moore made Free Throw.
+UCF,SMU,55,74,33,8,1,Nic Moore made Free Throw.
+UCF,SMU,57,74,33,21,1,Chance McSpadden made Jumper.
+UCF,SMU,57,76,33,40,1,Sterling Brown made Jumper.
+UCF,SMU,57,76,33,50,0,Foul on Sterling Brown.
+UCF,SMU,58,76,33,50,1,A.J. Davis made Free Throw.
+UCF,SMU,59,76,33,50,1,A.J. Davis made Free Throw.
+UCF,SMU,59,76,34,3,0,Foul on Shaheed Davis.
+UCF,SMU,59,76,34,16,0,Foul on Shaheed Davis.
+UCF,SMU,59,76,34,29,0,Nic Moore missed Jumper.
+UCF,SMU,59,76,34,29,0,Tanksley Efianayi Defensive Rebound.
+UCF,SMU,59,76,34,56,0,Tanksley Efianayi missed Jumper.
+UCF,SMU,59,76,34,56,0,Markus Kennedy Defensive Rebound.
+UCF,SMU,59,76,35,2,0,Jarrey Foster missed Jumper.
+UCF,SMU,59,76,35,2,0,A.J. Davis Defensive Rebound.
+UCF,SMU,59,76,35,16,0,Foul on Sterling Brown.
+UCF,SMU,60,76,35,16,1,A.J. Davis made Free Throw.
+UCF,SMU,61,76,35,16,1,A.J. Davis made Free Throw.
+UCF,SMU,61,76,35,29,0,Ben Moore missed Jumper.
+UCF,SMU,61,76,35,29,0,Tacko Fall Defensive Rebound.
+UCF,SMU,61,76,35,43,0,Tacko Fall missed Jumper.
+UCF,SMU,61,76,35,43,0,Ben Moore Defensive Rebound.
+UCF,SMU,61,78,36,4,1,Ben Moore made Layup. Assisted by Shake Milton.
+UCF,SMU,61,78,36,28,0,Foul on Markus Kennedy.
+UCF,SMU,61,78,36,28,0,Official TV Timeout
+UCF,SMU,62,78,36,28,1,Chance McSpadden made Free Throw.
+UCF,SMU,63,78,36,28,1,Chance McSpadden made Free Throw.
+UCF,SMU,63,81,36,47,1,Nic Moore made Three Point Jumper. Assisted by Ben Moore.
+UCF,SMU,63,81,37,8,0,Foul on Markus Kennedy.
+UCF,SMU,63,81,37,8,0,Justin McBride missed Free Throw.
+UCF,SMU,63,81,37,8,0,UCF Deadball Team Rebound.
+UCF,SMU,63,81,37,8,0,Justin McBride missed Free Throw.
+UCF,SMU,63,81,37,8,0,Shake Milton Defensive Rebound.
+UCF,SMU,63,83,37,21,1,Jordan Tolbert made Layup.
+UCF,SMU,63,83,37,21,0,Foul on Justin McBride.
+UCF,SMU,63,84,37,21,1,Jordan Tolbert made Free Throw.
+UCF,SMU,65,84,37,27,1,Chance McSpadden made Jumper.
+UCF,SMU,65,86,37,47,1,Ben Moore made Layup. Assisted by Jarrey Foster.
+UCF,SMU,68,86,37,54,1,Matt Williams made Three Point Jumper.
+UCF,SMU,68,88,38,15,1,Jordan Tolbert made Dunk. Assisted by Sterling Brown.
+UCF,SMU,70,88,38,34,1,Justin McBride made Jumper. Assisted by Adonys Henriquez.
+UCF,SMU,70,88,38,47,0,SMU  Timeout
+UCF,SMU,70,88,39,8,0,Shake Milton missed Three Point Jumper.
+UCF,SMU,70,88,39,8,0,Justin McBride Defensive Rebound.
+UCF,SMU,73,88,39,23,1,Adonys Henriquez made Three Point Jumper.
+UCF,SMU,73,88,39,47,0,Ben Moore missed Layup.
+UCF,SMU,73,88,39,47,0,Justin McBride Block.
+UCF,SMU,73,88,39,47,0,Justin McBride Defensive Rebound.
+UCF,SMU,73,88,39,51,0,Justin McBride Turnover.
+UCF,SMU,73,88,40,0,0,End of Game
+UCF,SMU,73,88,40,0,0,End of 2nd half

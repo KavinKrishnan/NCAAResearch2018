@@ -1,0 +1,313 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Houston,SMU,0,3,0,20,1,Nic Moore made Three Point Jumper. Assisted by Ben Moore.
+Houston,SMU,3,3,0,45,1,Danrad Knowles made Three Point Jumper. Assisted by L.J. Rose.
+Houston,SMU,3,3,1,3,0,Ben Moore Turnover.
+Houston,SMU,3,3,1,4,0,LeRon Barnes Steal.
+Houston,SMU,3,3,1,7,0,Devonta Pollard Turnover.
+Houston,SMU,3,3,1,25,0,Foul on Devonta Pollard.
+Houston,SMU,3,4,1,25,1,Ryan Manuel made Free Throw.
+Houston,SMU,3,4,1,25,0,Ryan Manuel missed Free Throw.
+Houston,SMU,3,4,1,25,0,Devonta Pollard Defensive Rebound.
+Houston,SMU,3,4,1,35,0,Foul on Ryan Manuel.
+Houston,SMU,4,4,1,35,1,Jherrod Stiggers made Free Throw.
+Houston,SMU,5,4,1,35,1,Jherrod Stiggers made Free Throw.
+Houston,SMU,6,4,1,35,1,Jherrod Stiggers made Free Throw.
+Houston,SMU,6,4,2,1,0,Yanick Moreira missed Jumper.
+Houston,SMU,6,4,2,1,0,Ben Moore Offensive Rebound.
+Houston,SMU,6,4,2,6,0,Ben Moore missed Jumper.
+Houston,SMU,6,4,2,6,0,Yanick Moreira Offensive Rebound.
+Houston,SMU,6,4,2,8,0,Yanick Moreira missed Two Point Tip Shot.
+Houston,SMU,6,4,2,8,0,LeRon Barnes Defensive Rebound.
+Houston,SMU,6,4,2,14,0,Devonta Pollard missed Jumper.
+Houston,SMU,6,4,2,14,0,Ben Moore Defensive Rebound.
+Houston,SMU,6,4,2,20,0,Foul on Devonta Pollard.
+Houston,SMU,6,5,2,20,1,Nic Moore made Free Throw.
+Houston,SMU,6,6,2,20,1,Nic Moore made Free Throw.
+Houston,SMU,6,6,2,32,0,Jherrod Stiggers missed Jumper.
+Houston,SMU,6,6,2,32,0,Sterling Brown Defensive Rebound.
+Houston,SMU,6,6,2,43,0,Foul on Mikhail McLean.
+Houston,SMU,6,7,2,43,1,Yanick Moreira made Free Throw.
+Houston,SMU,6,8,2,43,1,Yanick Moreira made Free Throw.
+Houston,SMU,6,8,2,57,0,LeRon Barnes missed Jumper.
+Houston,SMU,6,8,2,57,0,Yanick Moreira Defensive Rebound.
+Houston,SMU,6,8,2,58,0,Foul on Mikhail McLean.
+Houston,SMU,6,8,3,16,0,Ryan Manuel missed Jumper.
+Houston,SMU,6,8,3,16,0,Danrad Knowles Defensive Rebound.
+Houston,SMU,8,8,3,44,1,L.J. Rose made Jumper. Assisted by Mikhail McLean.
+Houston,SMU,8,8,4,5,0,Nic Moore Turnover.
+Houston,SMU,8,8,4,6,0,Danrad Knowles Steal.
+Houston,SMU,8,8,4,10,0,Jherrod Stiggers missed Jumper.
+Houston,SMU,8,8,4,10,0,Danrad Knowles Offensive Rebound.
+Houston,SMU,10,8,4,12,1,Danrad Knowles made Two Point Tip Shot.
+Houston,SMU,10,8,4,37,0,Sterling Brown missed Three Point Jumper.
+Houston,SMU,10,8,4,37,0,Ben Moore Offensive Rebound.
+Houston,SMU,10,10,4,49,1,Ben Moore made Jumper. Assisted by Nic Moore.
+Houston,SMU,10,10,5,9,0,Danrad Knowles missed Three Point Jumper.
+Houston,SMU,10,10,5,9,0,Sterling Brown Defensive Rebound.
+Houston,SMU,10,10,5,15,0,Nic Moore missed Three Point Jumper.
+Houston,SMU,10,10,5,15,0,Yanick Moreira Offensive Rebound.
+Houston,SMU,10,10,5,22,0,Yanick Moreira missed Jumper.
+Houston,SMU,10,10,5,22,0,Yanick Moreira Offensive Rebound.
+Houston,SMU,10,10,5,28,0,Foul on Jherrod Stiggers.
+Houston,SMU,10,10,5,28,0,Official TV Timeout
+Houston,SMU,10,10,5,28,0,Yanick Moreira missed Free Throw.
+Houston,SMU,10,10,5,28,0,SMU Deadball Team Rebound.
+Houston,SMU,10,11,5,28,1,Yanick Moreira made Free Throw.
+Houston,SMU,13,11,5,48,1,LeRon Barnes made Three Point Jumper. Assisted by L.J. Rose.
+Houston,SMU,13,11,6,8,0,Yanick Moreira missed Layup.
+Houston,SMU,13,11,6,8,0,Danrad Knowles Block.
+Houston,SMU,13,11,6,10,0,LeRon Barnes Defensive Rebound.
+Houston,SMU,13,11,6,14,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,SMU,13,11,6,14,0,LeRon Barnes Offensive Rebound.
+Houston,SMU,13,11,6,25,0,Danrad Knowles missed Three Point Jumper.
+Houston,SMU,13,11,6,25,0,Yanick Moreira Defensive Rebound.
+Houston,SMU,13,11,6,33,0,Foul on Mikhail McLean.
+Houston,SMU,13,12,6,33,1,Nic Moore made Free Throw.
+Houston,SMU,13,13,6,33,1,Nic Moore made Free Throw.
+Houston,SMU,13,13,6,56,0,Jherrod Stiggers Turnover.
+Houston,SMU,13,13,6,57,0,Nic Moore Steal.
+Houston,SMU,13,15,7,4,1,Ben Emelogu made Jumper. Assisted by Ryan Manuel.
+Houston,SMU,15,15,7,30,1,J.C. Washington made Layup. Assisted by L.J. Rose.
+Houston,SMU,15,15,7,49,0,Markus Kennedy Turnover.
+Houston,SMU,15,15,8,3,0,Foul on Cannen Cunningham.
+Houston,SMU,15,15,8,3,0,Official TV Timeout
+Houston,SMU,16,15,8,3,1,Danrad Knowles made Free Throw.
+Houston,SMU,17,15,8,3,1,Danrad Knowles made Free Throw.
+Houston,SMU,17,15,8,17,0,Foul on Danrad Knowles.
+Houston,SMU,17,15,8,17,0,Markus Kennedy missed Free Throw.
+Houston,SMU,17,15,8,17,0,Cannen Cunningham Offensive Rebound.
+Houston,SMU,17,15,8,20,0,Cannen Cunningham Turnover.
+Houston,SMU,17,15,8,21,0,L.J. Rose Steal.
+Houston,SMU,17,15,8,25,0,Houston  Turnover.
+Houston,SMU,17,18,8,46,1,Nic Moore made Three Point Jumper. Assisted by Cannen Cunningham.
+Houston,SMU,17,18,9,26,0,L.J. Rose missed Layup.
+Houston,SMU,17,18,9,27,0,Markus Kennedy Block.
+Houston,SMU,17,18,9,28,0,Houston Deadball Team Rebound.
+Houston,SMU,17,18,9,28,0,Houston  Turnover.
+Houston,SMU,17,18,9,39,0,Ben Emelogu missed Three Point Jumper.
+Houston,SMU,17,18,9,39,0,Sterling Brown Offensive Rebound.
+Houston,SMU,17,20,9,42,1,Sterling Brown made Layup.
+Houston,SMU,17,20,9,58,0,Danrad Knowles Turnover.
+Houston,SMU,17,20,9,59,0,Markus Kennedy Steal.
+Houston,SMU,17,20,10,7,0,Cannen Cunningham missed Layup.
+Houston,SMU,17,20,10,7,0,LeRon Barnes Defensive Rebound.
+Houston,SMU,17,20,10,11,0,Foul on Markus Kennedy.
+Houston,SMU,17,20,10,28,0,Foul on Cannen Cunningham.
+Houston,SMU,17,20,10,41,0,LeRon Barnes missed Three Point Jumper.
+Houston,SMU,17,20,10,41,0,Sterling Brown Defensive Rebound.
+Houston,SMU,17,20,10,52,0,Sterling Brown missed Jumper.
+Houston,SMU,17,20,10,52,0,Ben Moore Offensive Rebound.
+Houston,SMU,17,22,10,57,1,Sterling Brown made Jumper. Assisted by Ben Emelogu.
+Houston,SMU,17,22,11,11,0,L.J. Rose Turnover.
+Houston,SMU,17,22,11,11,0,Foul on L.J. Rose.
+Houston,SMU,17,22,11,34,0,Ben Moore Turnover.
+Houston,SMU,17,22,11,44,0,Danrad Knowles missed Three Point Jumper.
+Houston,SMU,17,22,11,44,0,Ryan Manuel Defensive Rebound.
+Houston,SMU,17,22,11,52,0,Ben Moore Turnover.
+Houston,SMU,17,22,11,52,0,Foul on Ben Moore.
+Houston,SMU,17,22,12,9,0,Foul on Yanick Moreira.
+Houston,SMU,17,22,12,9,0,Official TV Timeout
+Houston,SMU,17,22,12,21,0,Devonta Pollard missed Jumper.
+Houston,SMU,17,22,12,21,0,Ben Moore Defensive Rebound.
+Houston,SMU,17,22,12,37,0,Ben Emelogu missed Three Point Jumper.
+Houston,SMU,17,22,12,37,0,Yanick Moreira Offensive Rebound.
+Houston,SMU,17,24,12,40,1,Yanick Moreira made Layup.
+Houston,SMU,17,24,13,1,0,L.J. Rose missed Three Point Jumper.
+Houston,SMU,17,24,13,1,0,Sterling Brown Defensive Rebound.
+Houston,SMU,17,26,13,8,1,Yanick Moreira made Dunk. Assisted by Sterling Brown.
+Houston,SMU,17,26,13,14,0,Houston  Timeout
+Houston,SMU,17,26,13,37,0,Danrad Knowles missed Jumper.
+Houston,SMU,17,26,13,37,0,Ben Moore Block.
+Houston,SMU,17,26,13,39,0,Yanick Moreira Defensive Rebound.
+Houston,SMU,17,26,13,42,0,Ryan Manuel missed Layup.
+Houston,SMU,17,26,13,42,0,Danrad Knowles Defensive Rebound.
+Houston,SMU,17,26,13,53,0,Foul on Sterling Brown.
+Houston,SMU,17,26,13,53,0,Danrad Knowles missed Free Throw.
+Houston,SMU,17,26,13,53,0,Yanick Moreira Defensive Rebound.
+Houston,SMU,17,28,14,17,1,Yanick Moreira made Layup. Assisted by Nic Moore.
+Houston,SMU,17,28,14,20,0,Houston  Timeout
+Houston,SMU,19,28,14,36,1,Jherrod Stiggers made Jumper.
+Houston,SMU,19,30,14,54,1,Ryan Manuel made Layup. Assisted by Nic Moore.
+Houston,SMU,19,30,15,15,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,SMU,19,30,15,15,0,Nic Moore Defensive Rebound.
+Houston,SMU,19,30,15,26,0,Foul on J.C. Washington.
+Houston,SMU,19,30,15,26,0,Ben Moore missed Free Throw.
+Houston,SMU,19,30,15,26,0,Sterling Brown Offensive Rebound.
+Houston,SMU,19,30,15,28,0,Foul on LeRon Barnes.
+Houston,SMU,19,31,15,28,1,Sterling Brown made Free Throw.
+Houston,SMU,19,31,15,28,0,Sterling Brown missed Free Throw.
+Houston,SMU,19,31,15,28,0,J.C. Washington Defensive Rebound.
+Houston,SMU,21,31,15,49,1,J.C. Washington made Jumper. Assisted by Jherrod Stiggers.
+Houston,SMU,21,31,16,20,0,Yanick Moreira missed Jumper.
+Houston,SMU,21,31,16,20,0,Eric Weary Jr. Defensive Rebound.
+Houston,SMU,24,31,16,29,1,Jherrod Stiggers made Three Point Jumper. Assisted by L.J. Rose.
+Houston,SMU,24,31,16,52,0,Ryan Manuel Turnover.
+Houston,SMU,24,31,16,52,0,Foul on Ryan Manuel.
+Houston,SMU,24,31,16,52,0,Official TV Timeout
+Houston,SMU,24,31,17,11,0,Eric Weary Jr. missed Three Point Jumper.
+Houston,SMU,24,31,17,11,0,Markus Kennedy Defensive Rebound.
+Houston,SMU,24,31,17,22,0,Foul on J.C. Washington.
+Houston,SMU,24,31,17,22,0,Yanick Moreira missed Free Throw.
+Houston,SMU,24,31,17,22,0,SMU Deadball Team Rebound.
+Houston,SMU,24,32,17,22,1,Yanick Moreira made Free Throw.
+Houston,SMU,24,32,17,50,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,SMU,24,32,17,50,0,Sterling Brown Defensive Rebound.
+Houston,SMU,24,34,17,59,1,Ben Moore made Layup. Assisted by Sterling Brown.
+Houston,SMU,24,34,18,18,0,J.C. Washington Turnover.
+Houston,SMU,24,34,18,36,0,Nic Moore missed Three Point Jumper.
+Houston,SMU,24,34,18,36,0,Eric Weary Jr. Defensive Rebound.
+Houston,SMU,24,34,19,3,0,LeRon Barnes missed Three Point Jumper.
+Houston,SMU,24,34,19,3,0,Markus Kennedy Defensive Rebound.
+Houston,SMU,24,34,19,6,0,Foul on Eric Weary Jr..
+Houston,SMU,24,35,19,6,1,Markus Kennedy made Free Throw.
+Houston,SMU,24,35,19,6,0,Markus Kennedy missed Free Throw.
+Houston,SMU,24,35,19,6,0,Sterling Brown Offensive Rebound.
+Houston,SMU,24,35,19,10,0,SMU  Timeout
+Houston,SMU,24,37,19,18,1,Markus Kennedy made Layup. Assisted by Nic Moore.
+Houston,SMU,27,37,19,43,1,Jherrod Stiggers made Three Point Jumper. Assisted by L.J. Rose.
+Houston,SMU,27,37,19,53,0,Ben Emelogu missed Jumper.
+Houston,SMU,27,37,19,53,0,Jherrod Stiggers Defensive Rebound.
+Houston,SMU,27,37,19,58,0,Foul on Nic Moore.
+Houston,SMU,28,37,19,58,1,Jherrod Stiggers made Free Throw.
+Houston,SMU,29,37,19,58,1,Jherrod Stiggers made Free Throw.
+Houston,SMU,29,37,20,0,0,End of 1st half
+Houston,SMU,32,37,20,8,1,Jherrod Stiggers made Three Point Jumper. Assisted by L.J. Rose.
+Houston,SMU,32,37,20,32,0,Yanick Moreira missed Jumper.
+Houston,SMU,32,37,20,32,0,Danrad Knowles Block.
+Houston,SMU,32,37,20,33,0,Eric Weary Jr. Defensive Rebound.
+Houston,SMU,32,37,21,1,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,SMU,32,37,21,1,0,Ben Moore Defensive Rebound.
+Houston,SMU,32,37,21,24,0,Foul on LeRon Barnes.
+Houston,SMU,32,37,21,28,0,Sterling Brown missed Three Point Jumper.
+Houston,SMU,32,37,21,28,0,Ben Moore Offensive Rebound.
+Houston,SMU,32,39,21,32,1,Yanick Moreira made Dunk. Assisted by Ben Moore.
+Houston,SMU,32,39,21,51,0,Eric Weary Jr. missed Three Point Jumper.
+Houston,SMU,32,39,21,54,0,Ben Moore Defensive Rebound.
+Houston,SMU,32,39,21,54,0,Foul on Danrad Knowles.
+Houston,SMU,32,42,22,13,1,Nic Moore made Three Point Jumper. Assisted by Ben Moore.
+Houston,SMU,34,42,22,36,1,Jherrod Stiggers made Layup.
+Houston,SMU,34,45,22,54,1,Nic Moore made Three Point Jumper. Assisted by Sterling Brown.
+Houston,SMU,34,45,23,13,0,Eric Weary Jr. missed Three Point Jumper.
+Houston,SMU,34,45,23,13,0,Danrad Knowles Offensive Rebound.
+Houston,SMU,34,45,23,15,0,Danrad Knowles missed Two Point Tip Shot.
+Houston,SMU,34,45,23,16,0,Yanick Moreira Defensive Rebound.
+Houston,SMU,34,45,23,25,0,Foul on LeRon Barnes.
+Houston,SMU,34,46,23,25,1,Ryan Manuel made Free Throw.
+Houston,SMU,34,47,23,25,1,Ryan Manuel made Free Throw.
+Houston,SMU,34,47,23,45,0,Danrad Knowles missed Three Point Jumper.
+Houston,SMU,34,47,23,45,0,Ben Moore Defensive Rebound.
+Houston,SMU,34,49,23,56,1,Ben Moore made Jumper. Assisted by Sterling Brown.
+Houston,SMU,34,49,24,0,0,Houston  Timeout
+Houston,SMU,36,49,24,8,1,Danrad Knowles made Layup. Assisted by Devonta Pollard.
+Houston,SMU,36,49,24,25,0,Nic Moore missed Three Point Jumper.
+Houston,SMU,36,49,24,25,0,LeRon Barnes Defensive Rebound.
+Houston,SMU,36,49,25,0,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,SMU,36,49,25,0,0,Danrad Knowles Offensive Rebound.
+Houston,SMU,36,49,25,3,0,Foul on Nic Moore.
+Houston,SMU,36,49,25,3,0,Official TV Timeout
+Houston,SMU,37,49,25,3,1,Danrad Knowles made Free Throw.
+Houston,SMU,37,49,25,3,0,Danrad Knowles missed Free Throw.
+Houston,SMU,37,49,25,3,0,Ben Moore Defensive Rebound.
+Houston,SMU,37,49,25,35,0,Ben Moore Turnover.
+Houston,SMU,37,49,25,36,0,Jherrod Stiggers Steal.
+Houston,SMU,37,49,26,5,0,Foul on Yanick Moreira.
+Houston,SMU,37,49,26,5,0,Foul on Yanick Moreira.
+Houston,SMU,37,49,26,5,0,Technical Foul on Yanick Moreira.
+Houston,SMU,37,49,26,5,0,Jherrod Stiggers missed Free Throw.
+Houston,SMU,37,49,26,5,0,Houston Deadball Team Rebound.
+Houston,SMU,38,49,26,5,1,Jherrod Stiggers made Free Throw.
+Houston,SMU,38,49,26,25,0,L.J. Rose missed Three Point Jumper.
+Houston,SMU,38,49,26,25,0,Cannen Cunningham Defensive Rebound.
+Houston,SMU,38,51,26,53,1,Cannen Cunningham made Jumper. Assisted by Nic Moore.
+Houston,SMU,38,51,27,0,0,Danrad Knowles missed Layup.
+Houston,SMU,38,51,27,0,0,Ryan Manuel Block.
+Houston,SMU,38,51,27,2,0,Markus Kennedy Defensive Rebound.
+Houston,SMU,38,51,27,20,0,Foul on Danrad Knowles.
+Houston,SMU,38,54,27,21,1,Nic Moore made Three Point Jumper. Assisted by Sterling Brown.
+Houston,SMU,38,54,27,34,0,Foul on Cannen Cunningham.
+Houston,SMU,40,54,27,46,1,Devonta Pollard made Layup.
+Houston,SMU,40,57,28,3,1,Nic Moore made Three Point Jumper. Assisted by Ryan Manuel.
+Houston,SMU,40,57,28,9,0,Foul on Nic Moore.
+Houston,SMU,40,57,28,9,0,Official TV Timeout
+Houston,SMU,42,57,28,18,1,Devonta Pollard made Jumper.
+Houston,SMU,42,59,28,34,1,Ryan Manuel made Dunk.
+Houston,SMU,44,59,29,10,1,Devonta Pollard made Jumper. Assisted by L.J. Rose.
+Houston,SMU,44,59,29,33,0,Ben Moore missed Jumper.
+Houston,SMU,44,59,29,33,0,Markus Kennedy Offensive Rebound.
+Houston,SMU,44,59,29,58,0,Ben Moore Turnover.
+Houston,SMU,44,59,29,58,0,Foul on Ben Moore.
+Houston,SMU,44,59,30,26,0,L.J. Rose missed Jumper.
+Houston,SMU,44,59,30,27,0,Sterling Brown Defensive Rebound.
+Houston,SMU,44,59,30,28,0,Foul on L.J. Rose.
+Houston,SMU,44,59,30,38,0,Foul on LeRon Barnes.
+Houston,SMU,44,59,30,43,0,Markus Kennedy Turnover.
+Houston,SMU,44,59,30,44,0,Cavon Baker Steal.
+Houston,SMU,44,59,31,6,0,L.J. Rose Turnover.
+Houston,SMU,44,59,31,8,0,Sterling Brown Steal.
+Houston,SMU,44,59,31,35,0,Foul on Jherrod Stiggers.
+Houston,SMU,44,60,31,35,1,Markus Kennedy made Free Throw.
+Houston,SMU,44,61,31,35,1,Markus Kennedy made Free Throw.
+Houston,SMU,44,61,31,57,0,Mikhail McLean missed Layup.
+Houston,SMU,44,61,31,57,0,Markus Kennedy Defensive Rebound.
+Houston,SMU,44,64,32,16,1,Nic Moore made Three Point Jumper. Assisted by Ben Emelogu.
+Houston,SMU,44,64,32,32,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,SMU,44,64,32,32,0,Cavon Baker Offensive Rebound.
+Houston,SMU,44,64,32,34,0,Cavon Baker missed Two Point Tip Shot.
+Houston,SMU,44,64,32,35,0,Cavon Baker Offensive Rebound.
+Houston,SMU,44,64,32,37,0,Foul on Ben Moore.
+Houston,SMU,44,64,32,37,0,Official TV Timeout
+Houston,SMU,44,64,32,37,0,Cavon Baker missed Free Throw.
+Houston,SMU,44,64,32,37,0,Houston Deadball Team Rebound.
+Houston,SMU,45,64,32,37,1,Cavon Baker made Free Throw.
+Houston,SMU,45,67,32,51,1,Nic Moore made Three Point Jumper. Assisted by Yanick Moreira.
+Houston,SMU,48,67,33,5,1,Jherrod Stiggers made Three Point Jumper. Assisted by L.J. Rose.
+Houston,SMU,48,67,33,30,0,Yanick Moreira Turnover.
+Houston,SMU,48,67,33,40,0,Devonta Pollard Turnover.
+Houston,SMU,48,70,33,56,1,Sterling Brown made Three Point Jumper. Assisted by Yanick Moreira.
+Houston,SMU,51,70,34,9,1,Jherrod Stiggers made Three Point Jumper. Assisted by L.J. Rose.
+Houston,SMU,51,72,34,38,1,Yanick Moreira made Layup.
+Houston,SMU,51,72,34,46,0,Houston  Timeout
+Houston,SMU,51,72,35,1,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,SMU,51,72,35,1,0,Cannen Cunningham Defensive Rebound.
+Houston,SMU,51,74,35,8,1,Markus Kennedy made Layup. Assisted by Sterling Brown.
+Houston,SMU,51,74,35,28,0,Devonta Pollard missed Jumper.
+Houston,SMU,51,74,35,28,0,Ben Emelogu Defensive Rebound.
+Houston,SMU,51,77,35,52,1,Sterling Brown made Three Point Jumper. Assisted by Ryan Manuel.
+Houston,SMU,51,77,35,57,0,Houston  Timeout
+Houston,SMU,54,77,36,28,1,Cavon Baker made Three Point Jumper. Assisted by L.J. Rose.
+Houston,SMU,54,80,36,51,1,Ben Emelogu made Three Point Jumper. Assisted by Nic Moore.
+Houston,SMU,54,80,37,4,0,L.J. Rose missed Jumper.
+Houston,SMU,54,80,37,4,0,Markus Kennedy Defensive Rebound.
+Houston,SMU,54,80,37,26,0,Markus Kennedy missed Three Point Jumper.
+Houston,SMU,54,80,37,26,0,LeRon Barnes Defensive Rebound.
+Houston,SMU,57,80,37,38,1,Eric Weary Jr. made Three Point Jumper. Assisted by LeRon Barnes.
+Houston,SMU,57,80,37,46,0,SMU  Timeout
+Houston,SMU,57,80,37,58,0,Official TV Timeout
+Houston,SMU,57,80,38,1,0,Markus Kennedy missed Layup.
+Houston,SMU,57,80,38,2,0,Wes VanBeck Defensive Rebound.
+Houston,SMU,57,80,38,3,0,Foul on Markus Kennedy.
+Houston,SMU,58,80,38,3,1,Wes VanBeck made Free Throw.
+Houston,SMU,59,80,38,3,1,Wes VanBeck made Free Throw.
+Houston,SMU,59,80,38,10,0,Jean-Micheal Mudiay Turnover.
+Houston,SMU,59,80,38,11,0,Cavon Baker Steal.
+Houston,SMU,59,80,38,12,0,Foul on Jean-Micheal Mudiay.
+Houston,SMU,59,80,38,12,0,Cavon Baker missed Free Throw.
+Houston,SMU,59,80,38,12,0,Houston Deadball Team Rebound.
+Houston,SMU,59,80,38,12,0,Cavon Baker missed Free Throw.
+Houston,SMU,59,80,38,12,0,Ben Emelogu Defensive Rebound.
+Houston,SMU,59,80,38,19,0,Jean-Micheal Mudiay missed Jumper.
+Houston,SMU,59,80,38,19,0,Eric Weary Jr. Block.
+Houston,SMU,59,80,38,20,0,Cavon Baker Defensive Rebound.
+Houston,SMU,59,80,38,24,0,Cavon Baker Turnover.
+Houston,SMU,59,80,38,26,0,Markus Kennedy Steal.
+Houston,SMU,59,80,38,42,0,Ben Emelogu missed Jumper.
+Houston,SMU,59,80,38,42,0,Eric Weary Jr. Defensive Rebound.
+Houston,SMU,59,80,38,49,0,Adam Drexler missed Three Point Jumper.
+Houston,SMU,59,80,38,49,0,Eric Weary Jr. Offensive Rebound.
+Houston,SMU,59,80,38,51,0,Eric Weary Jr. missed Two Point Tip Shot.
+Houston,SMU,59,80,38,54,0,Markus Kennedy Defensive Rebound.
+Houston,SMU,59,80,39,16,0,Jean-Micheal Mudiay missed Three Point Jumper.
+Houston,SMU,59,80,39,16,0,Wes VanBeck Defensive Rebound.
+Houston,SMU,59,80,39,25,0,Wes VanBeck missed Three Point Jumper.
+Houston,SMU,59,80,39,27,0,SMU Defensive Rebound.
+Houston,SMU,59,80,40,0,0,End of Game

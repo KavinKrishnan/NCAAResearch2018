@@ -1,0 +1,338 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UCLA,Colorado,0,0,0,0,0,Jump Ball won by Colorado
+UCLA,Colorado,0,2,0,21,1,Josh Scott made Jumper. Assisted by Xavier Johnson.
+UCLA,Colorado,2,2,0,40,1,Norman Powell made Layup. Assisted by Travis Wear.
+UCLA,Colorado,2,2,0,59,0,Foul on Travis Wear.
+UCLA,Colorado,2,2,1,10,0,Xavier Johnson missed Three Point Jumper.
+UCLA,Colorado,2,2,1,10,0,Norman Powell Defensive Rebound.
+UCLA,Colorado,2,2,1,20,0,Jordan Adams missed Three Point Jumper.
+UCLA,Colorado,2,2,1,20,0,Jaron Hopkins Defensive Rebound.
+UCLA,Colorado,2,2,1,38,0,Jaron Hopkins missed Jumper.
+UCLA,Colorado,2,2,1,38,0,Travis Wear Defensive Rebound.
+UCLA,Colorado,4,2,1,51,1,Kyle Anderson made Jumper.
+UCLA,Colorado,4,2,2,23,0,Wesley Gordon missed Jumper.
+UCLA,Colorado,4,2,2,23,0,Jordan Adams Defensive Rebound.
+UCLA,Colorado,4,2,2,33,0,Norman Powell missed Three Point Jumper.
+UCLA,Colorado,4,2,2,33,0,Travis Wear Offensive Rebound.
+UCLA,Colorado,6,2,2,38,1,Travis Wear made Jumper.
+UCLA,Colorado,6,2,3,9,0,Foul on Kyle Anderson.
+UCLA,Colorado,6,2,3,10,0,Askia Booker Turnover.
+UCLA,Colorado,6,2,3,10,0,Kyle Anderson Steal.
+UCLA,Colorado,6,2,3,12,0,Norman Powell missed Dunk.
+UCLA,Colorado,6,2,3,12,0,Josh Scott Defensive Rebound.
+UCLA,Colorado,6,4,3,21,1,Josh Scott made Jumper. Assisted by Wesley Gordon.
+UCLA,Colorado,6,4,3,40,0,Jordan Adams missed Jumper.
+UCLA,Colorado,6,4,3,40,0,Josh Scott Block.
+UCLA,Colorado,6,4,3,40,0,Wesley Gordon Defensive Rebound.
+UCLA,Colorado,6,6,3,48,1,Xavier Johnson made Layup.
+UCLA,Colorado,8,6,4,0,1,Kyle Anderson made Jumper.
+UCLA,Colorado,8,6,4,13,0,Official TV Timeout
+UCLA,Colorado,8,9,4,27,1,Askia Booker made Three Point Jumper. Assisted by Jaron Hopkins.
+UCLA,Colorado,8,9,4,35,0,Foul on Askia Booker.
+UCLA,Colorado,9,9,4,35,1,Norman Powell made Free Throw.
+UCLA,Colorado,9,9,4,35,0,Norman Powell missed Free Throw.
+UCLA,Colorado,9,9,4,35,0,Xavier Johnson Defensive Rebound.
+UCLA,Colorado,9,9,4,53,0,Josh Scott missed Jumper.
+UCLA,Colorado,9,9,4,53,0,Travis Wear Defensive Rebound.
+UCLA,Colorado,11,9,5,17,1,Tony Parker made Layup. Assisted by Travis Wear.
+UCLA,Colorado,11,9,5,37,0,Xavier Talton Turnover.
+UCLA,Colorado,11,9,5,37,0,Norman Powell Steal.
+UCLA,Colorado,13,9,5,42,1,Norman Powell made Dunk.
+UCLA,Colorado,13,11,6,17,1,Xavier Talton made Jumper.
+UCLA,Colorado,15,11,6,36,1,Travis Wear made Jumper. Assisted by Kyle Anderson.
+UCLA,Colorado,15,13,7,5,1,Dustin Thomas made Jumper. Assisted by Askia Booker.
+UCLA,Colorado,15,13,7,17,0,Kyle Anderson missed Three Point Jumper.
+UCLA,Colorado,15,13,7,17,0,Dustin Thomas Defensive Rebound.
+UCLA,Colorado,15,13,7,28,0,Askia Booker Turnover.
+UCLA,Colorado,17,13,7,41,1,Tony Parker made Layup.
+UCLA,Colorado,17,13,7,51,0,Askia Booker Turnover.
+UCLA,Colorado,17,13,7,51,0,Kyle Anderson Steal.
+UCLA,Colorado,20,13,7,58,1,Jordan Adams made Three Point Jumper. Assisted by Kyle Anderson.
+UCLA,Colorado,20,13,8,12,0,Askia Booker missed Jumper.
+UCLA,Colorado,20,13,8,12,0,Josh Scott Offensive Rebound.
+UCLA,Colorado,20,13,8,16,0,Josh Scott missed Jumper.
+UCLA,Colorado,20,13,8,16,0,Tony Parker Defensive Rebound.
+UCLA,Colorado,20,13,8,26,0,Bryce Alford missed Three Point Jumper.
+UCLA,Colorado,20,13,8,26,0,Josh Scott Defensive Rebound.
+UCLA,Colorado,20,16,8,33,1,Askia Booker made Three Point Jumper. Assisted by Xavier Talton.
+UCLA,Colorado,20,16,8,59,0,Zach LaVine missed Three Point Jumper.
+UCLA,Colorado,20,16,8,59,0,Dustin Thomas Defensive Rebound.
+UCLA,Colorado,20,18,9,11,1,Josh Scott made Dunk. Assisted by Xavier Talton.
+UCLA,Colorado,20,18,9,33,0,Bryce Alford missed Three Point Jumper.
+UCLA,Colorado,20,18,9,33,0,Askia Booker Defensive Rebound.
+UCLA,Colorado,20,18,10,4,0,Foul on Kyle Anderson.
+UCLA,Colorado,20,18,10,4,0,Official TV Timeout
+UCLA,Colorado,20,19,10,4,1,Askia Booker made Free Throw.
+UCLA,Colorado,20,20,10,4,1,Askia Booker made Free Throw.
+UCLA,Colorado,20,20,10,35,0,Zach LaVine missed Jumper.
+UCLA,Colorado,20,20,10,35,0,Xavier Johnson Defensive Rebound.
+UCLA,Colorado,20,20,11,1,0,Xavier Johnson missed Jumper.
+UCLA,Colorado,20,20,11,1,0,David Wear Defensive Rebound.
+UCLA,Colorado,23,20,11,16,1,Norman Powell made Three Point Jumper. Assisted by Zach LaVine.
+UCLA,Colorado,23,22,11,25,1,Eli Stalzer made Jumper. Assisted by Xavier Talton.
+UCLA,Colorado,23,22,11,46,0,Zach LaVine missed Jumper.
+UCLA,Colorado,23,22,11,46,0,Xavier Johnson Defensive Rebound.
+UCLA,Colorado,23,22,11,57,0,Jaron Hopkins missed Three Point Jumper.
+UCLA,Colorado,23,22,11,57,0,David Wear Defensive Rebound.
+UCLA,Colorado,26,22,12,24,1,Norman Powell made Three Point Jumper. Assisted by Bryce Alford.
+UCLA,Colorado,26,24,12,42,1,Xavier Talton made Jumper.
+UCLA,Colorado,26,24,13,0,0,Foul on Jaron Hopkins.
+UCLA,Colorado,26,24,13,0,0,Official TV Timeout
+UCLA,Colorado,26,24,13,18,0,Bryce Alford Turnover.
+UCLA,Colorado,26,24,13,18,0,Wesley Gordon Steal.
+UCLA,Colorado,26,24,13,21,0,Wesley Gordon Turnover.
+UCLA,Colorado,26,24,13,21,0,Zach LaVine Steal.
+UCLA,Colorado,26,24,13,42,0,Bryce Alford missed Jumper.
+UCLA,Colorado,26,24,13,42,0,Josh Scott Block.
+UCLA,Colorado,26,24,13,42,0,UCLA Offensive Rebound.
+UCLA,Colorado,28,24,13,46,1,Norman Powell made Layup. Assisted by Kyle Anderson.
+UCLA,Colorado,28,24,13,52,0,Foul on Jaron Hopkins.
+UCLA,Colorado,28,24,13,52,0,Jaron Hopkins Turnover.
+UCLA,Colorado,28,24,14,7,0,Norman Powell missed Jumper.
+UCLA,Colorado,28,24,14,8,0,David Wear Offensive Rebound.
+UCLA,Colorado,31,24,14,10,1,David Wear made Three Point Jumper. Assisted by Kyle Anderson.
+UCLA,Colorado,31,24,14,39,0,Wesley Gordon missed Jumper.
+UCLA,Colorado,31,24,14,44,0,Norman Powell Defensive Rebound.
+UCLA,Colorado,31,24,14,50,0,David Wear missed Three Point Jumper.
+UCLA,Colorado,31,24,14,50,0,Josh Scott Defensive Rebound.
+UCLA,Colorado,31,27,15,3,1,Askia Booker made Three Point Jumper.
+UCLA,Colorado,31,27,15,18,0,Kyle Anderson Turnover.
+UCLA,Colorado,31,29,15,35,1,Askia Booker made Jumper.
+UCLA,Colorado,31,29,16,10,0,Kyle Anderson Turnover.
+UCLA,Colorado,31,29,16,11,0,Official TV Timeout
+UCLA,Colorado,31,29,16,35,0,Xavier Johnson missed Three Point Jumper.
+UCLA,Colorado,31,29,16,35,0,David Wear Defensive Rebound.
+UCLA,Colorado,31,29,16,48,0,Jordan Adams missed Three Point Jumper.
+UCLA,Colorado,31,29,16,48,0,David Wear Offensive Rebound.
+UCLA,Colorado,31,29,17,13,0,Zach LaVine Turnover.
+UCLA,Colorado,31,29,17,21,0,Josh Scott missed Jumper.
+UCLA,Colorado,31,29,17,21,0,Tony Parker Block.
+UCLA,Colorado,31,29,17,21,0,Zach LaVine Defensive Rebound.
+UCLA,Colorado,31,29,17,27,0,Zach LaVine Turnover.
+UCLA,Colorado,31,29,17,58,0,Foul on Tony Parker.
+UCLA,Colorado,31,29,17,58,0,Askia Booker missed Free Throw.
+UCLA,Colorado,31,29,17,58,0,Colorado Deadball Team Rebound.
+UCLA,Colorado,31,29,17,58,0,Askia Booker missed Free Throw.
+UCLA,Colorado,31,29,17,58,0,Jordan Adams Defensive Rebound.
+UCLA,Colorado,34,29,18,22,1,Zach LaVine made Three Point Jumper. Assisted by Travis Wear.
+UCLA,Colorado,34,29,18,42,0,Xavier Talton missed Three Point Jumper.
+UCLA,Colorado,34,29,18,42,0,Xavier Johnson Offensive Rebound.
+UCLA,Colorado,34,29,18,47,0,Xavier Johnson missed Layup.
+UCLA,Colorado,34,29,18,47,0,Xavier Johnson Offensive Rebound.
+UCLA,Colorado,34,29,19,4,0,Askia Booker Turnover.
+UCLA,Colorado,34,29,19,4,0,Jordan Adams Steal.
+UCLA,Colorado,36,29,19,10,1,Jordan Adams made Layup.
+UCLA,Colorado,36,29,19,10,0,Foul on Wesley Gordon.
+UCLA,Colorado,36,29,19,10,0,Jordan Adams missed Free Throw.
+UCLA,Colorado,36,29,19,10,0,Wesley Gordon Defensive Rebound.
+UCLA,Colorado,36,29,19,21,0,Colorado  Timeout
+UCLA,Colorado,36,29,19,38,0,Xavier Talton missed Three Point Jumper.
+UCLA,Colorado,36,29,19,38,0,Wesley Gordon Offensive Rebound.
+UCLA,Colorado,36,29,19,43,0,Wesley Gordon missed Layup.
+UCLA,Colorado,36,29,19,43,0,Bryce Alford Defensive Rebound.
+UCLA,Colorado,36,29,19,46,0,UCLA  Timeout
+UCLA,Colorado,36,29,19,55,0,Bryce Alford missed Jumper.
+UCLA,Colorado,36,29,19,55,0,Wesley Gordon Defensive Rebound.
+UCLA,Colorado,36,29,20,0,0,End of 1st half
+UCLA,Colorado,36,29,20,0,0,Jump Ball won by UCLA
+UCLA,Colorado,36,29,20,10,0,Travis Wear Turnover.
+UCLA,Colorado,36,29,20,43,0,Jaron Hopkins missed Three Point Jumper.
+UCLA,Colorado,36,29,20,43,0,Jordan Adams Defensive Rebound.
+UCLA,Colorado,36,29,20,59,0,Norman Powell Turnover.
+UCLA,Colorado,36,29,20,59,0,Jaron Hopkins Steal.
+UCLA,Colorado,36,31,21,3,1,Jaron Hopkins made Dunk.
+UCLA,Colorado,36,31,21,20,0,Jordan Adams missed Three Point Jumper.
+UCLA,Colorado,36,31,21,20,0,Travis Wear Offensive Rebound.
+UCLA,Colorado,36,31,21,30,0,Kyle Anderson missed Jumper.
+UCLA,Colorado,36,31,21,30,0,Wesley Gordon Block.
+UCLA,Colorado,36,31,21,30,0,Xavier Johnson Defensive Rebound.
+UCLA,Colorado,36,31,21,50,0,Wesley Gordon Turnover.
+UCLA,Colorado,36,31,22,12,0,Jordan Adams missed Layup.
+UCLA,Colorado,36,31,22,12,0,Xavier Johnson Block.
+UCLA,Colorado,36,31,22,12,0,Xavier Johnson Defensive Rebound.
+UCLA,Colorado,36,31,22,24,0,Jaron Hopkins missed Three Point Jumper.
+UCLA,Colorado,36,31,22,24,0,Norman Powell Defensive Rebound.
+UCLA,Colorado,36,31,22,36,0,David Wear missed Layup.
+UCLA,Colorado,36,31,22,36,0,David Wear Offensive Rebound.
+UCLA,Colorado,38,31,22,40,1,David Wear made Jumper.
+UCLA,Colorado,38,31,22,47,0,Foul on Travis Wear.
+UCLA,Colorado,38,31,22,54,0,Foul on Travis Wear.
+UCLA,Colorado,38,32,22,54,1,Josh Scott made Free Throw.
+UCLA,Colorado,38,33,22,54,1,Josh Scott made Free Throw.
+UCLA,Colorado,38,33,23,20,0,Tony Parker Turnover.
+UCLA,Colorado,38,33,23,20,0,Wesley Gordon Steal.
+UCLA,Colorado,38,33,23,21,0,Wesley Gordon Turnover.
+UCLA,Colorado,38,33,23,21,0,Norman Powell Steal.
+UCLA,Colorado,40,33,23,25,1,Norman Powell made Layup.
+UCLA,Colorado,40,36,23,29,1,Askia Booker made Three Point Jumper.
+UCLA,Colorado,40,36,23,44,0,David Wear missed Jumper.
+UCLA,Colorado,40,36,23,44,0,Josh Scott Defensive Rebound.
+UCLA,Colorado,40,36,23,53,0,Foul on David Wear.
+UCLA,Colorado,40,36,23,53,0,Josh Scott missed Free Throw.
+UCLA,Colorado,40,36,23,53,0,Colorado Deadball Team Rebound.
+UCLA,Colorado,40,37,23,53,1,Josh Scott made Free Throw.
+UCLA,Colorado,42,37,24,10,1,David Wear made Layup.
+UCLA,Colorado,42,37,24,32,0,Josh Scott missed Jumper.
+UCLA,Colorado,42,37,24,32,0,Jordan Adams Defensive Rebound.
+UCLA,Colorado,42,37,24,42,0,Tony Parker missed Layup.
+UCLA,Colorado,42,37,24,42,0,Josh Scott Block.
+UCLA,Colorado,42,37,24,42,0,Josh Scott Defensive Rebound.
+UCLA,Colorado,42,37,24,58,0,Xavier Johnson Turnover.
+UCLA,Colorado,42,37,24,58,0,Tony Parker Steal.
+UCLA,Colorado,42,37,25,3,0,Foul on Askia Booker.
+UCLA,Colorado,42,37,25,4,0,Official TV Timeout
+UCLA,Colorado,42,37,25,6,0,David Wear missed Three Point Jumper.
+UCLA,Colorado,42,37,25,6,0,Dustin Thomas Defensive Rebound.
+UCLA,Colorado,42,37,25,27,0,Foul on Tony Parker.
+UCLA,Colorado,42,38,25,27,1,Josh Scott made Free Throw.
+UCLA,Colorado,42,39,25,27,1,Josh Scott made Free Throw.
+UCLA,Colorado,45,39,25,39,1,Zach LaVine made Three Point Jumper. Assisted by Kyle Anderson.
+UCLA,Colorado,45,39,26,6,0,Foul on Tony Parker.
+UCLA,Colorado,45,39,26,31,0,Dustin Thomas missed Jumper.
+UCLA,Colorado,45,39,26,31,0,Bryce Alford Defensive Rebound.
+UCLA,Colorado,45,39,26,39,0,Tony Parker missed Layup.
+UCLA,Colorado,45,39,26,39,0,Jordan Adams Offensive Rebound.
+UCLA,Colorado,45,39,26,40,0,Foul on Dustin Thomas.
+UCLA,Colorado,46,39,26,40,1,Jordan Adams made Free Throw.
+UCLA,Colorado,47,39,26,40,1,Jordan Adams made Free Throw.
+UCLA,Colorado,47,41,27,1,1,Josh Scott made Layup. Assisted by Dustin Thomas.
+UCLA,Colorado,47,41,27,18,0,Kyle Anderson missed Jumper.
+UCLA,Colorado,47,41,27,18,0,Zach LaVine Offensive Rebound.
+UCLA,Colorado,49,41,27,18,1,Zach LaVine made Two Point Tip Shot.
+UCLA,Colorado,49,43,27,38,1,Askia Booker made Jumper.
+UCLA,Colorado,49,43,27,51,0,Foul on Xavier Talton.
+UCLA,Colorado,49,43,27,53,0,Bryce Alford missed Three Point Jumper.
+UCLA,Colorado,49,43,27,53,0,Jaron Hopkins Defensive Rebound.
+UCLA,Colorado,49,43,27,53,0,Jaron Hopkins Turnover.
+UCLA,Colorado,49,43,27,53,0,Kyle Anderson Steal.
+UCLA,Colorado,49,43,28,8,0,Zach LaVine missed Jumper.
+UCLA,Colorado,49,43,28,8,0,Bryce Alford Offensive Rebound.
+UCLA,Colorado,49,43,28,20,0,Jordan Adams missed Layup.
+UCLA,Colorado,49,43,28,20,0,Xavier Johnson Defensive Rebound.
+UCLA,Colorado,49,43,28,25,0,Official TV Timeout
+UCLA,Colorado,49,43,28,47,0,Eli Stalzer missed Jumper.
+UCLA,Colorado,49,43,28,47,0,Jordan Adams Defensive Rebound.
+UCLA,Colorado,49,43,29,12,0,Zach LaVine missed Three Point Jumper.
+UCLA,Colorado,49,43,29,12,0,Eli Stalzer Defensive Rebound.
+UCLA,Colorado,49,43,29,47,0,Jaron Hopkins missed Jumper.
+UCLA,Colorado,49,43,29,47,0,Dustin Thomas Offensive Rebound.
+UCLA,Colorado,49,43,30,8,0,Jaron Hopkins Turnover.
+UCLA,Colorado,49,43,30,8,0,Travis Wear Steal.
+UCLA,Colorado,49,43,30,15,0,Norman Powell missed Three Point Jumper.
+UCLA,Colorado,49,43,30,15,0,Eli Stalzer Defensive Rebound.
+UCLA,Colorado,49,43,30,23,0,Xavier Talton missed Three Point Jumper.
+UCLA,Colorado,49,43,30,23,0,Travis Wear Defensive Rebound.
+UCLA,Colorado,49,43,30,29,0,Kyle Anderson Turnover.
+UCLA,Colorado,49,43,30,44,0,Foul on Norman Powell.
+UCLA,Colorado,49,43,31,19,0,Foul on Zach LaVine.
+UCLA,Colorado,49,43,31,19,0,Askia Booker missed Free Throw.
+UCLA,Colorado,49,43,31,19,0,Kyle Anderson Defensive Rebound.
+UCLA,Colorado,49,43,31,51,0,Kyle Anderson missed Three Point Jumper.
+UCLA,Colorado,49,43,31,51,0,Askia Booker Defensive Rebound.
+UCLA,Colorado,49,43,32,0,0,Askia Booker missed Layup.
+UCLA,Colorado,49,43,32,0,0,Wesley Gordon Offensive Rebound.
+UCLA,Colorado,49,43,32,2,0,Foul on Norman Powell.
+UCLA,Colorado,49,43,32,2,0,Official TV Timeout
+UCLA,Colorado,49,43,32,2,0,Wesley Gordon missed Free Throw.
+UCLA,Colorado,49,43,32,2,0,Colorado Deadball Team Rebound.
+UCLA,Colorado,49,44,32,2,1,Wesley Gordon made Free Throw.
+UCLA,Colorado,49,44,32,22,0,Bryce Alford missed Jumper.
+UCLA,Colorado,49,44,32,22,0,Jordan Adams Offensive Rebound.
+UCLA,Colorado,49,44,32,26,0,Foul on Askia Booker.
+UCLA,Colorado,49,44,32,26,0,Jordan Adams missed Free Throw.
+UCLA,Colorado,49,44,32,26,0,UCLA Deadball Team Rebound.
+UCLA,Colorado,50,44,32,26,1,Jordan Adams made Free Throw.
+UCLA,Colorado,50,44,32,54,0,Eli Stalzer missed Three Point Jumper.
+UCLA,Colorado,50,44,32,54,0,Jordan Adams Defensive Rebound.
+UCLA,Colorado,52,44,33,2,1,Jordan Adams made Layup.
+UCLA,Colorado,52,44,33,13,0,Foul on Jordan Adams.
+UCLA,Colorado,52,44,33,13,0,Dustin Thomas missed Free Throw.
+UCLA,Colorado,52,44,33,13,0,Colorado Deadball Team Rebound.
+UCLA,Colorado,52,45,33,13,1,Dustin Thomas made Free Throw.
+UCLA,Colorado,52,45,33,36,0,Bryce Alford missed Three Point Jumper.
+UCLA,Colorado,52,45,33,36,0,Jordan Adams Offensive Rebound.
+UCLA,Colorado,52,45,33,39,0,Foul on Dustin Thomas.
+UCLA,Colorado,54,45,33,47,1,Norman Powell made Layup.
+UCLA,Colorado,54,45,33,57,0,Josh Scott missed Layup.
+UCLA,Colorado,54,45,33,57,0,Kyle Anderson Defensive Rebound.
+UCLA,Colorado,54,45,34,3,0,Jordan Adams missed Three Point Jumper.
+UCLA,Colorado,54,45,34,3,0,Josh Scott Defensive Rebound.
+UCLA,Colorado,54,45,34,10,0,Foul on Jordan Adams.
+UCLA,Colorado,54,45,34,10,0,Xavier Talton missed Free Throw.
+UCLA,Colorado,54,45,34,10,0,Colorado Deadball Team Rebound.
+UCLA,Colorado,54,46,34,10,1,Xavier Talton made Free Throw.
+UCLA,Colorado,54,46,34,28,0,Jordan Adams missed Jumper.
+UCLA,Colorado,54,46,34,28,0,Tony Parker Offensive Rebound.
+UCLA,Colorado,56,46,34,34,1,Tony Parker made Layup.
+UCLA,Colorado,56,46,35,2,0,Xavier Talton Turnover.
+UCLA,Colorado,56,46,35,2,0,Norman Powell Steal.
+UCLA,Colorado,58,46,35,7,1,Norman Powell made Dunk. Assisted by Kyle Anderson.
+UCLA,Colorado,58,46,35,7,0,Colorado  Timeout
+UCLA,Colorado,58,46,35,29,0,Jaron Hopkins Turnover.
+UCLA,Colorado,58,46,35,29,0,Norman Powell Steal.
+UCLA,Colorado,58,46,35,31,0,Jump Ball won by Colorado
+UCLA,Colorado,58,46,35,31,0,Norman Powell Turnover.
+UCLA,Colorado,58,46,35,31,0,Jaron Hopkins Steal.
+UCLA,Colorado,58,46,35,50,0,Jaron Hopkins Turnover.
+UCLA,Colorado,58,46,35,50,0,Jordan Adams Steal.
+UCLA,Colorado,58,46,35,54,0,Foul on Askia Booker.
+UCLA,Colorado,58,46,35,58,0,Kyle Anderson missed Jumper.
+UCLA,Colorado,58,46,35,58,0,Askia Booker Defensive Rebound.
+UCLA,Colorado,58,48,36,5,1,Josh Scott made Dunk. Assisted by Askia Booker.
+UCLA,Colorado,58,48,36,26,0,Jordan Adams missed Three Point Jumper.
+UCLA,Colorado,58,48,36,26,0,Askia Booker Defensive Rebound.
+UCLA,Colorado,58,51,36,34,1,Askia Booker made Three Point Jumper.
+UCLA,Colorado,58,51,36,42,0,UCLA  Timeout
+UCLA,Colorado,58,51,36,49,0,Foul on Josh Scott.
+UCLA,Colorado,58,51,36,49,0,Norman Powell missed Free Throw.
+UCLA,Colorado,58,51,36,49,0,UCLA Deadball Team Rebound.
+UCLA,Colorado,58,51,36,49,0,Norman Powell missed Free Throw.
+UCLA,Colorado,58,51,36,49,0,Jordan Adams Offensive Rebound.
+UCLA,Colorado,58,51,36,53,0,Jordan Adams missed Jumper.
+UCLA,Colorado,58,51,36,54,0,Xavier Talton Defensive Rebound.
+UCLA,Colorado,58,51,36,57,0,Xavier Talton Turnover.
+UCLA,Colorado,58,51,37,30,0,Zach LaVine missed Three Point Jumper.
+UCLA,Colorado,58,51,37,31,0,Jordan Adams Offensive Rebound.
+UCLA,Colorado,58,51,37,32,0,Jordan Adams missed Layup.
+UCLA,Colorado,58,51,37,35,0,Jordan Adams Offensive Rebound.
+UCLA,Colorado,60,51,37,35,1,Jordan Adams made Two Point Tip Shot.
+UCLA,Colorado,60,51,37,40,0,Colorado  Timeout
+UCLA,Colorado,60,51,37,53,0,Xavier Johnson missed Layup.
+UCLA,Colorado,60,51,37,53,0,Jordan Adams Defensive Rebound.
+UCLA,Colorado,60,51,38,23,0,Norman Powell missed Three Point Jumper.
+UCLA,Colorado,60,51,38,23,0,Wesley Gordon Defensive Rebound.
+UCLA,Colorado,60,51,38,25,0,Foul on David Wear.
+UCLA,Colorado,60,52,38,25,1,Wesley Gordon made Free Throw.
+UCLA,Colorado,60,52,38,25,0,Wesley Gordon missed Free Throw.
+UCLA,Colorado,60,52,38,25,0,Kyle Anderson Defensive Rebound.
+UCLA,Colorado,62,52,38,44,1,David Wear made Dunk. Assisted by Zach LaVine.
+UCLA,Colorado,62,54,38,53,1,Josh Scott made Layup. Assisted by Jaron Hopkins.
+UCLA,Colorado,62,54,38,53,0,Colorado  Timeout
+UCLA,Colorado,62,54,38,53,0,Foul on Jaron Hopkins.
+UCLA,Colorado,63,54,38,53,1,Jordan Adams made Free Throw.
+UCLA,Colorado,64,54,38,53,1,Jordan Adams made Free Throw.
+UCLA,Colorado,64,54,38,59,0,Askia Booker missed Three Point Jumper.
+UCLA,Colorado,64,54,38,59,0,Kyle Anderson Defensive Rebound.
+UCLA,Colorado,64,54,39,4,0,Foul on Eli Stalzer.
+UCLA,Colorado,64,54,39,4,0,Kyle Anderson missed Free Throw.
+UCLA,Colorado,64,54,39,4,0,Josh Scott Defensive Rebound.
+UCLA,Colorado,64,54,39,11,0,Xavier Talton missed Jumper.
+UCLA,Colorado,64,54,39,11,0,Xavier Talton Offensive Rebound.
+UCLA,Colorado,64,54,39,16,0,Askia Booker missed Three Point Jumper.
+UCLA,Colorado,64,54,39,16,0,David Wear Defensive Rebound.
+UCLA,Colorado,64,54,39,20,0,Foul on Xavier Talton.
+UCLA,Colorado,65,54,39,20,1,David Wear made Free Throw.
+UCLA,Colorado,66,54,39,20,1,David Wear made Free Throw.
+UCLA,Colorado,66,56,39,29,1,Josh Scott made Jumper. Assisted by Xavier Talton.
+UCLA,Colorado,66,56,39,33,0,Foul on Eli Stalzer.
+UCLA,Colorado,67,56,39,33,1,Zach LaVine made Free Throw.
+UCLA,Colorado,67,56,39,33,0,Zach LaVine missed Free Throw.
+UCLA,Colorado,67,56,39,33,0,Josh Scott Defensive Rebound.
+UCLA,Colorado,67,56,39,35,0,Xavier Talton missed Three Point Jumper.
+UCLA,Colorado,67,56,39,35,0,Zach LaVine Block.
+UCLA,Colorado,67,56,39,35,0,Kyle Anderson Defensive Rebound.
+UCLA,Colorado,67,56,39,39,0,Foul on Wesley Gordon.
+UCLA,Colorado,68,56,39,39,1,Kyle Anderson made Free Throw.
+UCLA,Colorado,69,56,39,39,1,Kyle Anderson made Free Throw.
+UCLA,Colorado,69,56,39,49,0,Eli Stalzer Turnover.
+UCLA,Colorado,69,56,40,0,0,End of Game

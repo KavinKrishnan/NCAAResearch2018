@@ -1,0 +1,337 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Milwaukee,UMKC,0,0,0,20,0,Matt Tiby missed Jumper.
+Milwaukee,UMKC,0,0,0,20,0,Fred Chatmon Block.
+Milwaukee,UMKC,0,0,0,23,0,Nelson Kirksey Defensive Rebound.
+Milwaukee,UMKC,0,0,0,45,0,Fred Chatmon Turnover.
+Milwaukee,UMKC,0,0,0,51,0,Foul on Fred Chatmon.
+Milwaukee,UMKC,0,0,1,18,0,Foul on Aaron Washington.
+Milwaukee,UMKC,1,0,1,18,1,Jordan Aaron made Free Throw.
+Milwaukee,UMKC,1,0,1,18,0,Jordan Aaron missed Free Throw.
+Milwaukee,UMKC,1,0,1,18,0,UMKC Deadball Team Rebound.
+Milwaukee,UMKC,1,0,1,18,0,Foul on Matt Tiby.
+Milwaukee,UMKC,1,0,1,38,0,Nelson Kirksey missed Jumper.
+Milwaukee,UMKC,1,0,1,38,0,Fred Chatmon Offensive Rebound.
+Milwaukee,UMKC,1,0,1,41,0,Foul on Steve McWhorter.
+Milwaukee,UMKC,1,0,1,53,0,Trinity Hall missed Layup.
+Milwaukee,UMKC,1,0,1,53,0,Trinity Hall Offensive Rebound.
+Milwaukee,UMKC,1,2,1,57,1,Trinity Hall made Layup.
+Milwaukee,UMKC,1,2,2,16,0,Foul on Martez Harrison.
+Milwaukee,UMKC,1,2,2,21,0,Austin Arians missed Three Point Jumper.
+Milwaukee,UMKC,1,2,2,21,0,Kyle Kelm Offensive Rebound.
+Milwaukee,UMKC,3,2,2,25,1,Kyle Kelm made Layup.
+Milwaukee,UMKC,3,2,2,36,0,Nelson Kirksey Turnover.
+Milwaukee,UMKC,3,2,2,37,0,Austin Arians Steal.
+Milwaukee,UMKC,3,2,2,42,0,Steve McWhorter Turnover.
+Milwaukee,UMKC,3,2,2,58,0,Foul on Matt Tiby.
+Milwaukee,UMKC,3,2,2,58,0,Nelson Kirksey missed Free Throw.
+Milwaukee,UMKC,3,2,2,58,0,UMKC Deadball Team Rebound.
+Milwaukee,UMKC,3,2,2,58,0,Nelson Kirksey missed Free Throw.
+Milwaukee,UMKC,3,2,2,58,0,J.J. Panoske Defensive Rebound.
+Milwaukee,UMKC,3,2,3,10,0,Foul on Isaac Kreuer.
+Milwaukee,UMKC,5,2,3,13,1,Austin Arians made Jumper. Assisted by J.J. Panoske.
+Milwaukee,UMKC,5,4,3,36,1,Nelson Kirksey made Layup.
+Milwaukee,UMKC,5,4,3,53,0,J.J. Panoske Turnover.
+Milwaukee,UMKC,5,4,4,6,0,Nelson Kirksey missed Jumper.
+Milwaukee,UMKC,5,4,4,6,0,Fred Chatmon Offensive Rebound.
+Milwaukee,UMKC,5,6,4,9,1,Fred Chatmon made Layup.
+Milwaukee,UMKC,5,6,4,28,0,Kyle Kelm Turnover.
+Milwaukee,UMKC,5,6,4,29,0,Trinity Hall Steal.
+Milwaukee,UMKC,5,6,4,48,0,Martez Harrison missed Three Point Jumper.
+Milwaukee,UMKC,5,6,4,48,0,Trinity Hall Offensive Rebound.
+Milwaukee,UMKC,5,8,4,51,1,Trinity Hall made Two Point Tip Shot.
+Milwaukee,UMKC,5,8,5,12,0,Foul on Trinity Hall.
+Milwaukee,UMKC,5,8,5,12,0,Official TV Timeout
+Milwaukee,UMKC,5,8,5,19,0,Foul on Nelson Kirksey.
+Milwaukee,UMKC,8,8,5,33,1,Jordan Aaron made Three Point Jumper.
+Milwaukee,UMKC,8,8,5,49,0,Fred Chatmon missed Jumper.
+Milwaukee,UMKC,8,8,5,49,0,Austin Arians Defensive Rebound.
+Milwaukee,UMKC,8,8,5,57,0,Foul on Aaron Washington.
+Milwaukee,UMKC,9,8,5,57,1,Steve McWhorter made Free Throw.
+Milwaukee,UMKC,10,8,5,57,1,Steve McWhorter made Free Throw.
+Milwaukee,UMKC,10,8,6,13,0,Martez Harrison Turnover.
+Milwaukee,UMKC,10,8,6,14,0,Steve McWhorter Steal.
+Milwaukee,UMKC,10,8,6,22,0,Kyle Kelm Turnover.
+Milwaukee,UMKC,10,8,6,37,0,Martez Harrison missed Jumper.
+Milwaukee,UMKC,10,8,6,37,0,Malcolm Moore Defensive Rebound.
+Milwaukee,UMKC,13,8,6,57,1,Jordan Aaron made Three Point Jumper. Assisted by Steve McWhorter.
+Milwaukee,UMKC,13,8,7,10,0,Caleb Johnson missed Jumper.
+Milwaukee,UMKC,13,8,7,10,0,Malcolm Moore Defensive Rebound.
+Milwaukee,UMKC,13,8,7,23,0,Foul on Fred Chatmon.
+Milwaukee,UMKC,13,8,7,23,0,Steve McWhorter missed Free Throw.
+Milwaukee,UMKC,13,8,7,23,0,Milwaukee Deadball Team Rebound.
+Milwaukee,UMKC,13,8,7,23,0,Steve McWhorter missed Free Throw.
+Milwaukee,UMKC,13,8,7,23,0,Isaac Kreuer Defensive Rebound.
+Milwaukee,UMKC,13,8,7,43,0,Foul on Jevon Lyle.
+Milwaukee,UMKC,13,8,7,54,0,Isaac Kreuer Turnover.
+Milwaukee,UMKC,13,8,7,55,0,Steve McWhorter Steal.
+Milwaukee,UMKC,13,8,8,1,0,Jordan Aaron missed Three Point Jumper.
+Milwaukee,UMKC,13,8,8,1,0,UMKC Defensive Rebound.
+Milwaukee,UMKC,13,8,8,4,0,Official TV Timeout
+Milwaukee,UMKC,13,10,8,26,1,Nelson Kirksey made Jumper.
+Milwaukee,UMKC,13,10,8,39,0,Austin Arians Turnover.
+Milwaukee,UMKC,13,10,8,41,0,Trinity Hall Steal.
+Milwaukee,UMKC,13,10,8,46,0,Foul on J.J. Panoske.
+Milwaukee,UMKC,13,10,8,46,0,Trinity Hall missed Free Throw.
+Milwaukee,UMKC,13,10,8,46,0,UMKC Deadball Team Rebound.
+Milwaukee,UMKC,13,11,8,46,1,Trinity Hall made Free Throw.
+Milwaukee,UMKC,15,11,9,3,1,Austin Arians made Layup. Assisted by Kyle Kelm.
+Milwaukee,UMKC,15,13,9,33,1,Isaac Kreuer made Jumper.
+Milwaukee,UMKC,17,13,9,50,1,Jordan Aaron made Layup.
+Milwaukee,UMKC,17,15,10,12,1,Martez Harrison made Layup.
+Milwaukee,UMKC,17,15,10,25,0,Foul on Nelson Kirksey.
+Milwaukee,UMKC,18,15,10,25,1,Steve McWhorter made Free Throw.
+Milwaukee,UMKC,18,15,10,25,0,Steve McWhorter missed Free Throw.
+Milwaukee,UMKC,18,15,10,25,0,Isaac Kreuer Defensive Rebound.
+Milwaukee,UMKC,18,15,10,51,0,Martez Harrison Turnover.
+Milwaukee,UMKC,18,15,11,9,0,Kyle Kelm Turnover.
+Milwaukee,UMKC,18,17,11,23,1,Trinity Hall made Jumper.
+Milwaukee,UMKC,18,17,11,38,0,Mitch Roelke missed Jumper.
+Milwaukee,UMKC,18,17,11,38,0,Kyle Kelm Offensive Rebound.
+Milwaukee,UMKC,18,17,11,42,0,Kyle Kelm missed Two Point Tip Shot.
+Milwaukee,UMKC,18,17,11,42,0,Isaac Kreuer Defensive Rebound.
+Milwaukee,UMKC,18,17,11,50,0,Jacobby Bledsoe Turnover.
+Milwaukee,UMKC,20,17,12,2,1,Kyle Kelm made Layup.
+Milwaukee,UMKC,20,19,12,20,1,Isaac Kreuer made Jumper. Assisted by John Burke.
+Milwaukee,UMKC,20,19,12,48,0,Official TV Timeout
+Milwaukee,UMKC,20,19,13,1,0,Kyle Kelm Turnover.
+Milwaukee,UMKC,20,19,13,2,0,John Burke Steal.
+Milwaukee,UMKC,20,19,13,9,0,John Burke missed Layup.
+Milwaukee,UMKC,20,19,13,9,0,Austin Arians Defensive Rebound.
+Milwaukee,UMKC,23,19,13,27,1,Steve McWhorter made Three Point Jumper. Assisted by Kyle Kelm.
+Milwaukee,UMKC,23,19,14,2,0,Martez Harrison missed Three Point Jumper.
+Milwaukee,UMKC,23,19,14,2,0,J.J. Panoske Defensive Rebound.
+Milwaukee,UMKC,23,19,14,18,0,Jordan Aaron Turnover.
+Milwaukee,UMKC,23,19,14,19,0,Isaac Kreuer Steal.
+Milwaukee,UMKC,23,19,14,24,0,Foul on J.J. Panoske.
+Milwaukee,UMKC,23,19,14,24,0,Martez Harrison missed Free Throw.
+Milwaukee,UMKC,23,19,14,24,0,UMKC Deadball Team Rebound.
+Milwaukee,UMKC,23,20,14,24,1,Martez Harrison made Free Throw.
+Milwaukee,UMKC,25,20,14,57,1,Jordan Aaron made Layup.
+Milwaukee,UMKC,25,20,15,11,0,John Burke Turnover.
+Milwaukee,UMKC,25,20,15,12,0,Steve McWhorter Steal.
+Milwaukee,UMKC,25,20,15,15,0,Foul on John Burke.
+Milwaukee,UMKC,26,20,15,15,1,Steve McWhorter made Free Throw.
+Milwaukee,UMKC,26,20,15,15,0,Steve McWhorter missed Free Throw.
+Milwaukee,UMKC,26,20,15,15,0,Austin Arians Offensive Rebound.
+Milwaukee,UMKC,29,20,15,27,1,Jordan Aaron made Three Point Jumper.
+Milwaukee,UMKC,29,20,15,54,0,Jacobby Bledsoe missed Three Point Jumper.
+Milwaukee,UMKC,29,20,15,54,0,Austin Arians Defensive Rebound.
+Milwaukee,UMKC,32,20,16,10,1,Jordan Aaron made Three Point Jumper. Assisted by Steve McWhorter.
+Milwaukee,UMKC,32,22,16,34,1,Martez Harrison made Jumper.
+Milwaukee,UMKC,32,22,16,49,0,Official TV Timeout
+Milwaukee,UMKC,34,22,16,54,1,Kyle Kelm made Layup. Assisted by Jordan Aaron.
+Milwaukee,UMKC,34,22,17,26,0,Foul on Austin Arians.
+Milwaukee,UMKC,34,22,17,26,0,Aaron Washington missed Free Throw.
+Milwaukee,UMKC,34,22,17,26,0,Kyle Kelm Defensive Rebound.
+Milwaukee,UMKC,36,22,17,46,1,Malcolm Moore made Layup. Assisted by Jordan Aaron.
+Milwaukee,UMKC,36,22,17,55,0,Foul on Steve McWhorter.
+Milwaukee,UMKC,36,23,17,55,1,Martez Harrison made Free Throw.
+Milwaukee,UMKC,36,24,17,55,1,Martez Harrison made Free Throw.
+Milwaukee,UMKC,38,24,18,8,1,Jevon Lyle made Layup. Assisted by Malcolm Moore.
+Milwaukee,UMKC,38,24,18,37,0,Jacobby Bledsoe Turnover.
+Milwaukee,UMKC,41,24,18,45,1,Jordan Aaron made Three Point Jumper.
+Milwaukee,UMKC,41,24,19,20,0,Trinity Hall missed Three Point Jumper.
+Milwaukee,UMKC,41,24,19,20,0,Austin Arians Defensive Rebound.
+Milwaukee,UMKC,41,24,19,34,0,Jordan Aaron Turnover.
+Milwaukee,UMKC,41,24,19,35,0,Martez Harrison Steal.
+Milwaukee,UMKC,41,26,19,38,1,Martez Harrison made Layup.
+Milwaukee,UMKC,41,26,19,59,0,Jordan Aaron missed Jumper.
+Milwaukee,UMKC,41,26,19,59,0,Martez Harrison Defensive Rebound.
+Milwaukee,UMKC,41,29,20,0,1,Martez Harrison made Three Point Jumper.
+Milwaukee,UMKC,41,29,20,0,0,End of 1st half
+Milwaukee,UMKC,41,31,20,15,1,Fred Chatmon made Dunk. Assisted by Martez Harrison.
+Milwaukee,UMKC,43,31,20,30,1,Matt Tiby made Layup. Assisted by Kyle Kelm.
+Milwaukee,UMKC,43,31,20,51,0,Foul on Kyle Kelm.
+Milwaukee,UMKC,43,32,20,51,1,Martez Harrison made Free Throw.
+Milwaukee,UMKC,43,32,20,51,0,Martez Harrison missed Free Throw.
+Milwaukee,UMKC,43,32,20,51,0,Kyle Kelm Defensive Rebound.
+Milwaukee,UMKC,43,32,20,59,0,Steve McWhorter Turnover.
+Milwaukee,UMKC,43,32,21,0,0,Aaron Washington Steal.
+Milwaukee,UMKC,43,34,21,4,1,Trinity Hall made Layup. Assisted by Aaron Washington.
+Milwaukee,UMKC,43,34,21,20,0,Jordan Aaron Turnover.
+Milwaukee,UMKC,43,34,21,21,0,Aaron Washington Steal.
+Milwaukee,UMKC,43,36,21,21,1,Trinity Hall made Layup. Assisted by Aaron Washington.
+Milwaukee,UMKC,43,36,21,25,0,Foul on Matt Tiby.
+Milwaukee,UMKC,43,36,21,25,0,Trinity Hall missed Free Throw.
+Milwaukee,UMKC,43,36,21,25,0,Matt Tiby Defensive Rebound.
+Milwaukee,UMKC,43,36,21,36,0,Foul on Trinity Hall.
+Milwaukee,UMKC,46,36,21,42,1,Jordan Aaron made Three Point Jumper. Assisted by Matt Tiby.
+Milwaukee,UMKC,46,38,21,59,1,Martez Harrison made Jumper.
+Milwaukee,UMKC,46,38,22,17,0,Foul on Kyle Kelm.
+Milwaukee,UMKC,46,38,22,17,0,Kyle Kelm Turnover.
+Milwaukee,UMKC,46,40,22,30,1,Trinity Hall made Layup.
+Milwaukee,UMKC,48,40,22,52,1,Kyle Kelm made Layup.
+Milwaukee,UMKC,48,42,23,1,1,Nelson Kirksey made Jumper.
+Milwaukee,UMKC,48,42,23,2,0,Foul on Kyle Kelm.
+Milwaukee,UMKC,48,43,23,2,1,Nelson Kirksey made Free Throw.
+Milwaukee,UMKC,48,43,23,21,0,Foul on Fred Chatmon.
+Milwaukee,UMKC,48,43,23,22,0,Steve McWhorter Turnover.
+Milwaukee,UMKC,48,43,23,23,0,Nelson Kirksey Steal.
+Milwaukee,UMKC,48,45,23,26,1,Nelson Kirksey made Layup.
+Milwaukee,UMKC,48,45,23,42,0,Foul on Martez Harrison.
+Milwaukee,UMKC,48,45,23,46,0,Jordan Aaron missed Three Point Jumper.
+Milwaukee,UMKC,48,45,23,46,0,Nelson Kirksey Defensive Rebound.
+Milwaukee,UMKC,48,47,23,55,1,Trinity Hall made Dunk. Assisted by Aaron Washington.
+Milwaukee,UMKC,48,47,24,2,0,Milwaukee  Timeout
+Milwaukee,UMKC,50,47,24,19,1,Jordan Aaron made Layup. Assisted by Austin Arians.
+Milwaukee,UMKC,50,49,24,26,1,Martez Harrison made Layup. Assisted by Aaron Washington.
+Milwaukee,UMKC,50,49,24,42,0,Austin Arians missed Jumper.
+Milwaukee,UMKC,50,49,24,42,0,Nelson Kirksey Defensive Rebound.
+Milwaukee,UMKC,50,51,24,50,1,Nelson Kirksey made Layup.
+Milwaukee,UMKC,50,51,25,0,0,Foul on Caleb Johnson.
+Milwaukee,UMKC,50,51,25,0,0,Official TV Timeout
+Milwaukee,UMKC,50,51,25,15,0,Steve McWhorter missed Layup.
+Milwaukee,UMKC,50,51,25,15,0,Milwaukee Deadball Team Rebound.
+Milwaukee,UMKC,50,51,25,15,0,Foul on Caleb Johnson.
+Milwaukee,UMKC,53,51,25,17,1,Jordan Aaron made Three Point Jumper. Assisted by Steve McWhorter.
+Milwaukee,UMKC,53,51,25,33,0,Nelson Kirksey missed Jumper.
+Milwaukee,UMKC,53,51,25,33,0,Steve McWhorter Defensive Rebound.
+Milwaukee,UMKC,53,51,25,43,0,Foul on Aaron Washington.
+Milwaukee,UMKC,55,51,25,52,1,Kyle Kelm made Layup.
+Milwaukee,UMKC,55,51,26,0,0,UMKC  Timeout
+Milwaukee,UMKC,55,51,26,9,0,Foul on Steve McWhorter.
+Milwaukee,UMKC,55,51,26,17,0,Nelson Kirksey missed Jumper.
+Milwaukee,UMKC,55,51,26,17,0,Fred Chatmon Offensive Rebound.
+Milwaukee,UMKC,55,51,26,35,0,Martez Harrison missed Three Point Jumper.
+Milwaukee,UMKC,55,51,26,35,0,Milwaukee Deadball Team Rebound.
+Milwaukee,UMKC,55,51,26,38,0,Foul on Fred Chatmon.
+Milwaukee,UMKC,56,51,26,38,1,Kyle Kelm made Free Throw.
+Milwaukee,UMKC,56,51,26,38,0,Kyle Kelm missed Free Throw.
+Milwaukee,UMKC,56,51,26,38,0,Caleb Johnson Defensive Rebound.
+Milwaukee,UMKC,56,51,26,50,0,Foul on Jordan Aaron.
+Milwaukee,UMKC,56,53,27,23,1,Nelson Kirksey made Jumper. Assisted by Martez Harrison.
+Milwaukee,UMKC,56,53,27,41,0,Jevon Lyle missed Three Point Jumper.
+Milwaukee,UMKC,56,53,27,41,0,Martez Harrison Defensive Rebound.
+Milwaukee,UMKC,56,53,27,45,0,Martez Harrison Turnover.
+Milwaukee,UMKC,56,53,27,46,0,Jevon Lyle Steal.
+Milwaukee,UMKC,56,53,27,50,0,Foul on Matt Tiby.
+Milwaukee,UMKC,56,53,27,50,0,Matt Tiby Turnover.
+Milwaukee,UMKC,56,53,27,56,0,Jacobby Bledsoe missed Jumper.
+Milwaukee,UMKC,56,53,27,56,0,Kyle Kelm Defensive Rebound.
+Milwaukee,UMKC,56,53,28,15,0,Jevon Lyle Turnover.
+Milwaukee,UMKC,56,53,28,17,0,Jacobby Bledsoe Steal.
+Milwaukee,UMKC,56,53,28,20,0,Trinity Hall missed Layup.
+Milwaukee,UMKC,56,53,28,20,0,Jevon Lyle Defensive Rebound.
+Milwaukee,UMKC,56,53,28,26,0,Jordan Aaron Turnover.
+Milwaukee,UMKC,56,53,28,28,0,Trinity Hall Steal.
+Milwaukee,UMKC,56,53,28,48,0,Caleb Johnson missed Layup.
+Milwaukee,UMKC,56,53,28,48,0,J.J. Panoske Block.
+Milwaukee,UMKC,56,53,28,49,0,J.J. Panoske Defensive Rebound.
+Milwaukee,UMKC,58,53,29,5,1,J.J. Panoske made Jumper. Assisted by Kyle Kelm.
+Milwaukee,UMKC,58,55,29,30,1,Nelson Kirksey made Layup.
+Milwaukee,UMKC,58,55,29,30,0,Foul on Kyle Kelm.
+Milwaukee,UMKC,58,55,29,30,0,Official TV Timeout
+Milwaukee,UMKC,58,56,29,30,1,Nelson Kirksey made Free Throw.
+Milwaukee,UMKC,58,56,29,41,0,Foul on Isaac Kreuer.
+Milwaukee,UMKC,58,56,29,41,0,J.J. Panoske missed Free Throw.
+Milwaukee,UMKC,58,56,29,41,0,Isaac Kreuer Defensive Rebound.
+Milwaukee,UMKC,58,56,29,58,0,Martez Harrison missed Jumper.
+Milwaukee,UMKC,58,56,29,58,0,Malcolm Moore Defensive Rebound.
+Milwaukee,UMKC,60,56,30,25,1,Steve McWhorter made Jumper.
+Milwaukee,UMKC,60,56,30,45,0,Trinity Hall missed Three Point Jumper.
+Milwaukee,UMKC,60,56,30,45,0,Milwaukee Deadball Team Rebound.
+Milwaukee,UMKC,60,56,30,46,0,Foul on Isaac Kreuer.
+Milwaukee,UMKC,61,56,30,46,1,J.J. Panoske made Free Throw.
+Milwaukee,UMKC,62,56,30,46,1,J.J. Panoske made Free Throw.
+Milwaukee,UMKC,62,58,31,2,1,Martez Harrison made Jumper.
+Milwaukee,UMKC,62,58,31,2,0,Foul on Jevon Lyle.
+Milwaukee,UMKC,62,59,31,2,1,Martez Harrison made Free Throw.
+Milwaukee,UMKC,62,59,31,8,0,Steve McWhorter Turnover.
+Milwaukee,UMKC,62,59,31,9,0,Martez Harrison Steal.
+Milwaukee,UMKC,62,61,31,10,1,Martez Harrison made Layup.
+Milwaukee,UMKC,62,61,31,10,0,Foul on J.J. Panoske.
+Milwaukee,UMKC,62,61,31,10,0,Martez Harrison missed Free Throw.
+Milwaukee,UMKC,62,61,31,10,0,Milwaukee Deadball Team Rebound.
+Milwaukee,UMKC,62,61,31,11,0,Foul on Trinity Hall.
+Milwaukee,UMKC,63,61,31,11,1,J.J. Panoske made Free Throw.
+Milwaukee,UMKC,64,61,31,11,1,J.J. Panoske made Free Throw.
+Milwaukee,UMKC,64,61,31,26,0,Foul on Malcolm Moore.
+Milwaukee,UMKC,64,62,31,26,1,Trinity Hall made Free Throw.
+Milwaukee,UMKC,64,63,31,26,1,Trinity Hall made Free Throw.
+Milwaukee,UMKC,64,63,31,42,0,J.J. Panoske missed Layup.
+Milwaukee,UMKC,64,63,31,42,0,Caleb Johnson Defensive Rebound.
+Milwaukee,UMKC,64,65,31,57,1,Caleb Johnson made Dunk. Assisted by Nelson Kirksey.
+Milwaukee,UMKC,64,65,32,15,0,Jordan Aaron missed Three Point Jumper.
+Milwaukee,UMKC,64,65,32,15,0,Malcolm Moore Offensive Rebound.
+Milwaukee,UMKC,64,65,32,22,0,Malcolm Moore Turnover.
+Milwaukee,UMKC,64,65,32,23,0,Jacobby Bledsoe Steal.
+Milwaukee,UMKC,64,65,32,42,0,Foul on Nelson Kirksey.
+Milwaukee,UMKC,64,65,32,42,0,Nelson Kirksey Turnover.
+Milwaukee,UMKC,64,65,32,42,0,Official TV Timeout
+Milwaukee,UMKC,64,65,33,13,0,Foul on Trinity Hall.
+Milwaukee,UMKC,65,65,33,13,1,Matt Tiby made Free Throw.
+Milwaukee,UMKC,66,65,33,13,1,Matt Tiby made Free Throw.
+Milwaukee,UMKC,66,67,33,43,1,Trinity Hall made Layup. Assisted by Martez Harrison.
+Milwaukee,UMKC,66,67,33,59,0,Austin Arians missed Three Point Jumper.
+Milwaukee,UMKC,66,67,33,59,0,UMKC Defensive Rebound.
+Milwaukee,UMKC,66,67,34,32,0,Aaron Washington missed Jumper.
+Milwaukee,UMKC,66,67,34,33,0,Caleb Johnson Offensive Rebound.
+Milwaukee,UMKC,66,69,34,34,1,Caleb Johnson made Two Point Tip Shot.
+Milwaukee,UMKC,66,69,34,50,0,Matt Tiby missed Three Point Jumper.
+Milwaukee,UMKC,66,69,34,50,0,UMKC Deadball Team Rebound.
+Milwaukee,UMKC,66,69,34,52,0,Foul on Austin Arians.
+Milwaukee,UMKC,66,69,34,52,0,Nelson Kirksey missed Free Throw.
+Milwaukee,UMKC,66,69,34,52,0,UMKC Deadball Team Rebound.
+Milwaukee,UMKC,66,70,34,52,1,Nelson Kirksey made Free Throw.
+Milwaukee,UMKC,66,70,35,5,0,Foul on Caleb Johnson.
+Milwaukee,UMKC,67,70,35,5,1,Matt Tiby made Free Throw.
+Milwaukee,UMKC,68,70,35,5,1,Matt Tiby made Free Throw.
+Milwaukee,UMKC,68,70,35,33,0,Foul on Jordan Aaron.
+Milwaukee,UMKC,68,70,35,33,0,Caleb Johnson missed Free Throw.
+Milwaukee,UMKC,68,70,35,33,0,UMKC Deadball Team Rebound.
+Milwaukee,UMKC,68,71,35,33,1,Caleb Johnson made Free Throw.
+Milwaukee,UMKC,70,71,35,50,1,Austin Arians made Layup. Assisted by Kyle Kelm.
+Milwaukee,UMKC,70,71,36,12,0,Martez Harrison missed Layup.
+Milwaukee,UMKC,70,71,36,12,0,Isaac Kreuer Offensive Rebound.
+Milwaukee,UMKC,70,73,36,15,1,Isaac Kreuer made Jumper.
+Milwaukee,UMKC,72,73,36,36,1,Matt Tiby made Layup.
+Milwaukee,UMKC,72,73,36,45,0,UMKC  Timeout
+Milwaukee,UMKC,72,73,36,59,0,Nelson Kirksey missed Three Point Jumper.
+Milwaukee,UMKC,72,73,36,59,0,Jordan Aaron Defensive Rebound.
+Milwaukee,UMKC,72,73,37,15,0,Foul on Aaron Washington.
+Milwaukee,UMKC,72,73,37,15,0,Official TV Timeout
+Milwaukee,UMKC,73,73,37,15,1,Matt Tiby made Free Throw.
+Milwaukee,UMKC,74,73,37,15,1,Matt Tiby made Free Throw.
+Milwaukee,UMKC,74,73,37,47,0,Nelson Kirksey Turnover.
+Milwaukee,UMKC,76,73,37,55,1,Kyle Kelm made Jumper.
+Milwaukee,UMKC,76,73,37,57,0,Foul on Fred Chatmon.
+Milwaukee,UMKC,76,73,37,57,0,Kyle Kelm missed Free Throw.
+Milwaukee,UMKC,76,73,37,57,0,Trinity Hall Defensive Rebound.
+Milwaukee,UMKC,76,73,38,3,0,Martez Harrison missed Three Point Jumper.
+Milwaukee,UMKC,76,73,38,3,0,Matt Tiby Defensive Rebound.
+Milwaukee,UMKC,76,73,38,20,0,Kyle Kelm Turnover.
+Milwaukee,UMKC,76,73,38,22,0,UMKC  Timeout
+Milwaukee,UMKC,76,75,38,34,1,Martez Harrison made Layup.
+Milwaukee,UMKC,76,75,38,43,0,Milwaukee  Timeout
+Milwaukee,UMKC,76,75,38,56,0,Foul on Nelson Kirksey.
+Milwaukee,UMKC,77,75,38,56,1,Matt Tiby made Free Throw.
+Milwaukee,UMKC,78,75,38,56,1,Matt Tiby made Free Throw.
+Milwaukee,UMKC,78,75,39,8,0,Aaron Washington Turnover.
+Milwaukee,UMKC,78,75,39,12,0,Foul on Martez Harrison.
+Milwaukee,UMKC,79,75,39,12,1,Jordan Aaron made Free Throw.
+Milwaukee,UMKC,80,75,39,12,1,Jordan Aaron made Free Throw.
+Milwaukee,UMKC,80,75,39,12,0,Milwaukee  Timeout
+Milwaukee,UMKC,80,75,39,21,0,Foul on Matt Tiby.
+Milwaukee,UMKC,80,75,39,21,0,Martez Harrison missed Free Throw.
+Milwaukee,UMKC,80,75,39,21,0,UMKC Deadball Team Rebound.
+Milwaukee,UMKC,80,76,39,21,1,Martez Harrison made Free Throw.
+Milwaukee,UMKC,80,76,39,27,0,Foul on Aaron Washington.
+Milwaukee,UMKC,81,76,39,27,1,Jordan Aaron made Free Throw.
+Milwaukee,UMKC,82,76,39,27,1,Jordan Aaron made Free Throw.
+Milwaukee,UMKC,82,76,39,38,0,Foul on Steve McWhorter.
+Milwaukee,UMKC,82,77,39,38,1,Martez Harrison made Free Throw.
+Milwaukee,UMKC,82,78,39,38,1,Martez Harrison made Free Throw.
+Milwaukee,UMKC,82,79,39,38,1,Martez Harrison made Free Throw.
+Milwaukee,UMKC,82,79,39,39,0,Foul on Jacobby Bledsoe.
+Milwaukee,UMKC,83,79,39,39,1,Jordan Aaron made Free Throw.
+Milwaukee,UMKC,83,79,39,39,0,Jordan Aaron missed Free Throw.
+Milwaukee,UMKC,83,79,39,39,0,Trinity Hall Defensive Rebound.
+Milwaukee,UMKC,83,79,39,47,0,Martez Harrison Turnover.
+Milwaukee,UMKC,83,79,39,48,0,Jordan Aaron Steal.
+Milwaukee,UMKC,83,79,39,49,0,Foul on John Burke.
+Milwaukee,UMKC,83,79,39,49,0,Austin Arians missed Free Throw.
+Milwaukee,UMKC,83,79,39,49,0,Milwaukee Deadball Team Rebound.
+Milwaukee,UMKC,84,79,39,49,1,Austin Arians made Free Throw.
+Milwaukee,UMKC,84,79,39,53,0,Nelson Kirksey missed Three Point Jumper.
+Milwaukee,UMKC,84,79,39,53,0,Kyle Kelm Defensive Rebound.
+Milwaukee,UMKC,84,79,40,0,0,End of Game

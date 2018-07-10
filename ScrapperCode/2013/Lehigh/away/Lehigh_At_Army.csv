@@ -1,0 +1,332 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Lehigh,Army,2,0,0,17,1,Gabe Knutson made Layup.
+Lehigh,Army,2,0,0,41,0,Foul on B.J. Bailey
+Lehigh,Army,2,0,0,42,0,Kevin Ferguson missed Jumper.
+Lehigh,Army,2,0,0,42,0,B.J. Bailey Defensive Rebound.
+Lehigh,Army,4,0,1,2,1,B.J. Bailey made Jumper.
+Lehigh,Army,4,2,1,19,1,Kyle Wilson made Layup.  Assisted by Larry Toomey.
+Lehigh,Army,6,2,1,44,1,Mackey McKnight made Layup.
+Lehigh,Army,6,2,1,50,0,Larry Toomey Turnover.
+Lehigh,Army,6,2,1,51,0,Anthony D'Orazio Steal.
+Lehigh,Army,8,2,1,54,1,Anthony D'Orazio made Layup.  Assisted by Mackey McKnight.
+Lehigh,Army,8,2,2,2,0,Dylan Cox missed Layup.
+Lehigh,Army,8,2,2,2,0,Larry Toomey Offensive Rebound.
+Lehigh,Army,8,2,2,10,0,Kyle Toth missed Three Point Jumper.
+Lehigh,Army,8,2,2,10,0,B.J. Bailey Defensive Rebound.
+Lehigh,Army,8,2,2,20,0,Foul on Kyle Toth
+Lehigh,Army,8,2,2,33,0,B.J. Bailey Turnover.
+Lehigh,Army,8,2,2,42,0,Ella Ellis missed Three Point Jumper.
+Lehigh,Army,8,2,2,42,0,Army Offensive Rebound.
+Lehigh,Army,8,2,3,15,0,Kyle Toth missed Three Point Jumper.
+Lehigh,Army,8,2,3,15,0,Kyle Toth Offensive Rebound.
+Lehigh,Army,8,5,3,22,1,Kyle Wilson made Three Point Jumper.  Assisted by Kyle Toth.
+Lehigh,Army,8,5,3,44,0,Mackey McKnight missed Three Point Jumper.
+Lehigh,Army,8,5,3,44,0,Jordan Springer Defensive Rebound.
+Lehigh,Army,8,5,3,56,0,Ella Ellis missed Three Point Jumper.
+Lehigh,Army,8,5,3,56,0,Cartavious Kincade Offensive Rebound.
+Lehigh,Army,8,7,4,2,1,Cartavious Kincade made Layup.
+Lehigh,Army,8,7,4,18,0,Official TV Timeout.
+Lehigh,Army,10,7,4,20,1,Mackey McKnight made Layup.  Assisted by Anthony D'Orazio.
+Lehigh,Army,10,7,4,32,0,Dylan Cox missed Layup.
+Lehigh,Army,10,7,4,32,0,Mackey McKnight Defensive Rebound.
+Lehigh,Army,12,7,4,38,1,Mackey McKnight made Layup.
+Lehigh,Army,12,7,4,48,0,Cartavious Kincade Turnover.
+Lehigh,Army,12,7,5,4,0,Justin Goldsborough missed Layup.
+Lehigh,Army,12,7,5,4,0,Andrew Stire Block.
+Lehigh,Army,12,7,5,7,0,Justin Goldsborough Offensive Rebound.
+Lehigh,Army,14,7,5,10,1,Justin Goldsborough made Layup.
+Lehigh,Army,14,7,5,12,0,Army Full Timeout.
+Lehigh,Army,14,7,5,41,0,Kyle Wilson missed Jumper.
+Lehigh,Army,14,7,5,41,0,Holden Greiner Defensive Rebound.
+Lehigh,Army,16,7,5,53,1,Justin Goldsborough made Layup.  Assisted by Holden Greiner.
+Lehigh,Army,16,9,6,19,1,Kevin Ferguson made Layup.  Assisted by Larry Toomey.
+Lehigh,Army,16,9,6,42,0,Holden Greiner missed Three Point Jumper.
+Lehigh,Army,16,9,6,42,0,Kevin Ferguson Defensive Rebound.
+Lehigh,Army,16,11,7,16,1,Kyle Wilson made Jumper.
+Lehigh,Army,19,11,7,31,1,Mackey McKnight made Three Point Jumper.  Assisted by Anthony D'Orazio.
+Lehigh,Army,19,11,7,48,0,Ella Ellis Turnover.
+Lehigh,Army,19,11,7,49,0,Justin Goldsborough Steal.
+Lehigh,Army,22,11,7,58,1,Anthony D'Orazio made Three Point Jumper.  Assisted by Holden Greiner.
+Lehigh,Army,22,13,8,14,1,Kyle Wilson made Layup.  Assisted by Maxwell Lenox.
+Lehigh,Army,25,13,8,33,1,Holden Greiner made Three Point Jumper.  Assisted by Corey Schaefer.
+Lehigh,Army,25,13,8,52,0,Foul on Gabe Knutson
+Lehigh,Army,25,13,8,52,0,Official TV Timeout.
+Lehigh,Army,25,14,8,52,1,Ella Ellis made Free Throw.
+Lehigh,Army,25,15,8,52,1,Ella Ellis made Free Throw.
+Lehigh,Army,28,15,9,2,1,Anthony D'Orazio made Three Point Jumper.  Assisted by Stefan Cvrkalj.
+Lehigh,Army,28,15,9,17,0,Mo Williams missed Jumper.
+Lehigh,Army,28,15,9,17,0,Stefan Cvrkalj Block.
+Lehigh,Army,28,15,9,19,0,Gabe Knutson Defensive Rebound.
+Lehigh,Army,31,15,9,26,1,Anthony D'Orazio made Three Point Jumper.  Assisted by Gabe Knutson.
+Lehigh,Army,31,15,9,31,0,Army Full Timeout.
+Lehigh,Army,31,15,9,38,0,Kevin Ferguson Turnover.
+Lehigh,Army,31,15,9,52,0,Stefan Cvrkalj Turnover.
+Lehigh,Army,31,15,9,52,0,Foul on Stefan Cvrkalj
+Lehigh,Army,31,15,10,22,0,Foul on Conroy Baltimore
+Lehigh,Army,31,15,10,41,0,Dylan Cox missed Three Point Jumper.
+Lehigh,Army,31,15,10,41,0,null
+Lehigh,Army,31,15,10,48,0,Foul on Ella Ellis
+Lehigh,Army,31,15,10,58,0,Foul on Dylan Cox
+Lehigh,Army,31,15,11,10,0,Foul on Jordan Springer
+Lehigh,Army,31,15,11,10,0,Gabe Knutson missed Free Throw.
+Lehigh,Army,31,15,11,10,0,null
+Lehigh,Army,32,15,11,10,1,Gabe Knutson made Free Throw.
+Lehigh,Army,32,15,11,15,0,Ella Ellis missed Three Point Jumper.
+Lehigh,Army,32,15,11,15,0,Lehigh Defensive Rebound.
+Lehigh,Army,32,15,11,28,0,Corey Schaefer missed Layup.
+Lehigh,Army,32,15,11,28,0,Jordan Springer Defensive Rebound.
+Lehigh,Army,32,18,11,50,1,Kyle Toth made Three Point Jumper.  Assisted by Matt Gramling.
+Lehigh,Army,32,18,12,8,0,Official TV Timeout.
+Lehigh,Army,32,18,12,22,0,Holden Greiner missed Three Point Jumper.
+Lehigh,Army,32,18,12,22,0,Anthony D'Orazio Offensive Rebound.
+Lehigh,Army,34,18,12,26,1,Anthony D'Orazio made Jumper.
+Lehigh,Army,34,18,12,35,0,Kyle Toth missed Three Point Jumper.
+Lehigh,Army,34,18,12,35,0,Andrew Stire Offensive Rebound.
+Lehigh,Army,34,21,12,56,1,Larry Toomey made Three Point Jumper.
+Lehigh,Army,34,21,13,28,0,Anthony D'Orazio missed Layup.
+Lehigh,Army,34,21,13,28,0,Anthony D'Orazio Offensive Rebound.
+Lehigh,Army,34,21,13,32,0,Foul on Larry Toomey
+Lehigh,Army,34,21,13,46,0,Justin Goldsborough missed Jumper.
+Lehigh,Army,34,21,13,46,0,Holden Greiner Offensive Rebound.
+Lehigh,Army,36,21,13,50,1,Holden Greiner made Jumper.
+Lehigh,Army,36,21,13,56,0,Larry Toomey missed Three Point Jumper.
+Lehigh,Army,36,21,13,56,0,Larry Toomey Offensive Rebound.
+Lehigh,Army,36,21,14,3,0,Foul on Justin Goldsborough
+Lehigh,Army,36,22,14,3,1,Larry Toomey made Free Throw.
+Lehigh,Army,36,23,14,3,1,Larry Toomey made Free Throw.
+Lehigh,Army,38,23,14,34,1,Mackey McKnight made Jumper.
+Lehigh,Army,38,23,14,41,0,Larry Toomey missed Three Point Jumper.
+Lehigh,Army,38,23,14,41,0,Mackey McKnight Defensive Rebound.
+Lehigh,Army,38,23,14,59,0,Foul on Andrew Stire
+Lehigh,Army,38,23,15,11,0,Stefan Cvrkalj Turnover.
+Lehigh,Army,38,23,15,11,0,Foul on Stefan Cvrkalj
+Lehigh,Army,38,23,15,26,0,Kevin Ferguson Turnover.
+Lehigh,Army,40,23,15,32,1,Gabe Knutson made Layup.
+Lehigh,Army,40,23,15,40,0,Maxwell Lenox Turnover.
+Lehigh,Army,42,23,15,50,1,Gabe Knutson made Layup.  Assisted by Mackey McKnight.
+Lehigh,Army,42,23,16,15,0,Official TV Timeout.
+Lehigh,Army,42,23,16,23,0,Larry Toomey missed Layup.
+Lehigh,Army,42,23,16,23,0,Gabe Knutson Block.
+Lehigh,Army,42,23,16,25,0,Ella Ellis Offensive Rebound.
+Lehigh,Army,42,23,16,27,0,Ella Ellis missed Jumper.
+Lehigh,Army,42,23,16,27,0,Jordan Springer Offensive Rebound.
+Lehigh,Army,42,23,16,34,0,Foul on B.J. Bailey
+Lehigh,Army,42,23,16,34,0,Ella Ellis missed Free Throw.
+Lehigh,Army,42,23,16,34,0,Holden Greiner Defensive Rebound.
+Lehigh,Army,42,23,16,50,0,Gabe Knutson missed Three Point Jumper.
+Lehigh,Army,42,23,16,50,0,Dylan Cox Defensive Rebound.
+Lehigh,Army,42,23,17,9,0,Larry Toomey missed Layup.
+Lehigh,Army,42,23,17,9,0,Mackey McKnight Defensive Rebound.
+Lehigh,Army,42,23,17,19,0,Foul on Ella Ellis
+Lehigh,Army,43,23,17,19,1,Mackey McKnight made Free Throw.
+Lehigh,Army,44,23,17,19,1,Mackey McKnight made Free Throw.
+Lehigh,Army,44,25,17,33,1,Larry Toomey made Layup.
+Lehigh,Army,44,25,17,49,0,Foul on Jordan Springer
+Lehigh,Army,45,25,17,49,1,Gabe Knutson made Free Throw.
+Lehigh,Army,45,25,17,49,0,Gabe Knutson missed Free Throw.
+Lehigh,Army,45,25,17,49,0,Larry Toomey Defensive Rebound.
+Lehigh,Army,45,25,17,57,0,Andrew Stire Turnover.
+Lehigh,Army,45,25,18,13,0,Foul on Kevin Ferguson
+Lehigh,Army,46,25,18,13,1,Gabe Knutson made Free Throw.
+Lehigh,Army,47,25,18,13,1,Gabe Knutson made Free Throw.
+Lehigh,Army,47,25,18,22,0,Kyle Toth missed Jumper.
+Lehigh,Army,47,25,18,22,0,Anthony D'Orazio Defensive Rebound.
+Lehigh,Army,47,25,18,35,0,Anthony D'Orazio missed Jumper.
+Lehigh,Army,47,25,18,35,0,Kyle Toth Defensive Rebound.
+Lehigh,Army,47,28,18,46,1,Dylan Cox made Three Point Jumper.  Assisted by Kyle Wilson.
+Lehigh,Army,47,28,18,49,0,Lehigh Full Timeout.
+Lehigh,Army,47,28,19,10,0,Gabe Knutson missed Jumper.
+Lehigh,Army,47,28,19,10,0,Kyle Toth Defensive Rebound.
+Lehigh,Army,47,28,19,22,0,Foul on Holden Greiner
+Lehigh,Army,47,29,19,22,1,Andrew Stire made Free Throw.
+Lehigh,Army,47,30,19,22,1,Andrew Stire made Free Throw.
+Lehigh,Army,47,30,19,45,0,Mackey McKnight Turnover.
+Lehigh,Army,47,30,19,56,0,Foul on Gabe Knutson
+Lehigh,Army,47,30,19,56,0,Andrew Stire missed Free Throw.
+Lehigh,Army,47,30,19,56,0,null
+Lehigh,Army,47,31,19,56,1,Andrew Stire made Free Throw.
+Lehigh,Army,47,31,19,58,0,Mackey McKnight missed Layup.
+Lehigh,Army,47,31,19,59,0,Andrew Stire Defensive Rebound.
+Lehigh,Army,47,31,20,0,0,End of the 1st Half.
+Lehigh,Army,47,31,20,31,0,Holden Greiner missed Jumper.
+Lehigh,Army,47,31,20,31,0,Holden Greiner Offensive Rebound.
+Lehigh,Army,47,31,20,34,0,Holden Greiner missed Layup.
+Lehigh,Army,47,31,20,34,0,Jordan Springer Defensive Rebound.
+Lehigh,Army,47,31,20,48,0,Larry Toomey missed Three Point Jumper.
+Lehigh,Army,47,31,20,48,0,Anthony D'Orazio Defensive Rebound.
+Lehigh,Army,49,31,20,58,1,B.J. Bailey made Jumper.
+Lehigh,Army,49,31,21,18,0,Foul on B.J. Bailey
+Lehigh,Army,49,32,21,18,1,Larry Toomey made Free Throw.
+Lehigh,Army,49,33,21,18,1,Larry Toomey made Free Throw.
+Lehigh,Army,49,33,21,29,0,Gabe Knutson missed Layup.
+Lehigh,Army,49,33,21,29,0,Jordan Springer Block.
+Lehigh,Army,49,33,21,32,0,Dylan Cox Defensive Rebound.
+Lehigh,Army,49,33,21,40,0,Kyle Wilson Turnover.
+Lehigh,Army,49,33,21,42,0,Holden Greiner Steal.
+Lehigh,Army,51,33,21,45,1,Gabe Knutson made Layup.  Assisted by Anthony D'Orazio.
+Lehigh,Army,51,33,21,57,0,Kyle Toth missed Three Point Jumper.
+Lehigh,Army,51,33,21,57,0,Anthony D'Orazio Defensive Rebound.
+Lehigh,Army,51,33,22,9,0,Anthony D'Orazio Turnover.
+Lehigh,Army,51,33,22,9,0,Foul on Anthony D'Orazio
+Lehigh,Army,51,36,22,24,1,Ella Ellis made Three Point Jumper.  Assisted by Dylan Cox.
+Lehigh,Army,51,36,22,56,0,Foul on Andrew Stire
+Lehigh,Army,51,36,23,1,0,Foul on Maxwell Lenox
+Lehigh,Army,51,36,23,7,0,Holden Greiner missed Jumper.
+Lehigh,Army,51,36,23,7,0,Army Defensive Rebound.
+Lehigh,Army,51,39,23,28,1,Ella Ellis made Three Point Jumper.  Assisted by Maxwell Lenox.
+Lehigh,Army,53,39,23,54,1,Gabe Knutson made Layup.  Assisted by Anthony D'Orazio.
+Lehigh,Army,53,39,23,54,0,Foul on Andrew Stire
+Lehigh,Army,53,39,23,54,0,Gabe Knutson missed Free Throw.
+Lehigh,Army,53,39,23,54,0,Ella Ellis Defensive Rebound.
+Lehigh,Army,53,39,24,9,0,Ella Ellis missed Three Point Jumper.
+Lehigh,Army,53,39,24,9,0,Army Offensive Rebound.
+Lehigh,Army,53,39,24,14,0,Official TV Timeout.
+Lehigh,Army,53,41,24,22,1,Cartavious Kincade made Layup.  Assisted by Maxwell Lenox.
+Lehigh,Army,53,41,24,23,0,Foul on Gabe Knutson
+Lehigh,Army,53,42,24,23,1,Cartavious Kincade made Free Throw.
+Lehigh,Army,53,42,24,49,0,Foul on Ella Ellis
+Lehigh,Army,53,42,24,54,0,Gabe Knutson missed Layup.
+Lehigh,Army,53,42,24,54,0,Larry Toomey Defensive Rebound.
+Lehigh,Army,53,42,25,4,0,Larry Toomey Turnover.
+Lehigh,Army,53,42,25,4,0,Foul on Larry Toomey
+Lehigh,Army,53,42,25,6,0,Stefan Cvrkalj Turnover.
+Lehigh,Army,53,44,25,9,1,Kyle Toth made Layup.  Assisted by Larry Toomey.
+Lehigh,Army,56,44,25,32,1,Stefan Cvrkalj made Three Point Jumper.  Assisted by Mackey McKnight.
+Lehigh,Army,56,47,25,49,1,Kyle Toth made Three Point Jumper.  Assisted by Jordan Springer.
+Lehigh,Army,56,47,26,10,0,Anthony D'Orazio missed Three Point Jumper.
+Lehigh,Army,56,47,26,10,0,Larry Toomey Defensive Rebound.
+Lehigh,Army,56,47,26,22,0,Team Technical Foul
+Lehigh,Army,57,47,26,22,1,Mackey McKnight made Free Throw.
+Lehigh,Army,58,47,26,22,1,Mackey McKnight made Free Throw.
+Lehigh,Army,58,47,26,44,0,Dylan Cox missed Three Point Jumper.
+Lehigh,Army,58,47,26,44,0,Kyle Toth Offensive Rebound.
+Lehigh,Army,58,47,26,50,0,Kyle Wilson missed Three Point Jumper.
+Lehigh,Army,58,47,26,50,0,Justin Goldsborough Defensive Rebound.
+Lehigh,Army,61,47,26,58,1,Corey Schaefer made Three Point Jumper.  Assisted by Mackey McKnight.
+Lehigh,Army,61,47,27,29,0,Kyle Toth Turnover.
+Lehigh,Army,61,47,27,30,0,Corey Schaefer Steal.
+Lehigh,Army,63,47,27,33,1,Mackey McKnight made Layup.
+Lehigh,Army,63,47,27,39,0,Army Full Timeout.
+Lehigh,Army,63,47,27,57,0,Dylan Cox missed Layup.
+Lehigh,Army,63,47,27,57,0,Holden Greiner Defensive Rebound.
+Lehigh,Army,63,47,28,15,0,Justin Goldsborough missed Layup.
+Lehigh,Army,63,47,28,15,0,Larry Toomey Defensive Rebound.
+Lehigh,Army,63,49,28,28,1,Kyle Toth made Jumper.
+Lehigh,Army,63,49,28,51,0,Holden Greiner missed Jumper.
+Lehigh,Army,63,49,28,51,0,Kevin Ferguson Defensive Rebound.
+Lehigh,Army,63,49,28,54,0,Foul on Justin Goldsborough
+Lehigh,Army,63,49,28,54,0,Official TV Timeout.
+Lehigh,Army,63,49,29,6,0,Ella Ellis missed Three Point Jumper.
+Lehigh,Army,63,49,29,6,0,Dylan Cox Offensive Rebound.
+Lehigh,Army,63,49,29,13,0,Foul on Justin Goldsborough
+Lehigh,Army,63,49,29,19,0,Foul on B.J. Bailey
+Lehigh,Army,63,50,29,19,1,Ella Ellis made Free Throw.
+Lehigh,Army,63,51,29,19,1,Ella Ellis made Free Throw.
+Lehigh,Army,63,51,29,31,0,Gabe Knutson missed Layup.
+Lehigh,Army,63,51,29,31,0,Kevin Ferguson Block.
+Lehigh,Army,63,51,29,33,0,Dylan Cox Defensive Rebound.
+Lehigh,Army,63,53,29,38,1,Kevin Ferguson made Layup.  Assisted by Kyle Wilson.
+Lehigh,Army,63,53,29,55,0,Corey Schaefer missed Three Point Jumper.
+Lehigh,Army,63,53,29,55,0,Dylan Cox Defensive Rebound.
+Lehigh,Army,63,56,30,2,1,Ella Ellis made Three Point Jumper.  Assisted by Dylan Cox.
+Lehigh,Army,63,56,30,8,0,Lehigh Full Timeout.
+Lehigh,Army,65,56,30,34,1,Gabe Knutson made Dunk.  Assisted by Anthony D'Orazio.
+Lehigh,Army,65,58,31,10,1,Kyle Toth made Jumper.
+Lehigh,Army,67,58,31,36,1,Gabe Knutson made Layup.
+Lehigh,Army,67,58,31,51,0,Foul on Anthony D'Orazio
+Lehigh,Army,67,59,31,51,1,Kyle Wilson made Free Throw.
+Lehigh,Army,67,59,31,51,0,Kyle Wilson missed Free Throw.
+Lehigh,Army,67,59,31,51,0,Larry Toomey Offensive Rebound.
+Lehigh,Army,67,59,31,52,0,Larry Toomey missed Layup.
+Lehigh,Army,67,59,31,52,0,Jordan Springer Offensive Rebound.
+Lehigh,Army,67,59,31,59,0,Ella Ellis Turnover.
+Lehigh,Army,67,59,31,59,0,Foul on Ella Ellis
+Lehigh,Army,67,59,32,8,0,Foul on Matt Gramling
+Lehigh,Army,67,59,32,8,0,Official TV Timeout.
+Lehigh,Army,67,59,32,8,0,Mackey McKnight missed Free Throw.
+Lehigh,Army,67,59,32,8,0,null
+Lehigh,Army,68,59,32,8,1,Mackey McKnight made Free Throw.
+Lehigh,Army,68,61,32,18,1,Larry Toomey made Layup.  Assisted by Kyle Wilson.
+Lehigh,Army,68,61,32,41,0,Anthony D'Orazio missed Three Point Jumper.
+Lehigh,Army,68,61,32,41,0,Army Defensive Rebound.
+Lehigh,Army,68,63,33,3,1,Jordan Springer made Jumper.  Assisted by Kyle Wilson.
+Lehigh,Army,68,63,33,28,0,Gabe Knutson missed Three Point Jumper.
+Lehigh,Army,68,63,33,28,0,Anthony D'Orazio Offensive Rebound.
+Lehigh,Army,68,63,33,32,0,Foul on Jordan Springer
+Lehigh,Army,68,63,33,32,0,Anthony D'Orazio missed Free Throw.
+Lehigh,Army,68,63,33,32,0,Kevin Ferguson Defensive Rebound.
+Lehigh,Army,68,63,33,45,0,Ella Ellis missed Three Point Jumper.
+Lehigh,Army,68,63,33,45,0,Anthony D'Orazio Defensive Rebound.
+Lehigh,Army,68,63,34,13,0,Foul on Kyle Wilson
+Lehigh,Army,68,63,34,13,0,B.J. Bailey missed Free Throw.
+Lehigh,Army,68,63,34,13,0,null
+Lehigh,Army,69,63,34,13,1,B.J. Bailey made Free Throw.
+Lehigh,Army,69,63,34,25,0,Kyle Wilson missed Jumper.
+Lehigh,Army,69,63,34,25,0,Dylan Cox Offensive Rebound.
+Lehigh,Army,69,63,34,29,0,Foul on Gabe Knutson
+Lehigh,Army,69,63,34,29,0,Dylan Cox missed Free Throw.
+Lehigh,Army,69,63,34,29,0,null
+Lehigh,Army,69,63,34,29,0,Dylan Cox missed Free Throw.
+Lehigh,Army,69,63,34,29,0,Anthony D'Orazio Defensive Rebound.
+Lehigh,Army,71,63,34,47,1,Holden Greiner made Jumper.
+Lehigh,Army,71,65,35,11,1,Kyle Wilson made Layup.
+Lehigh,Army,71,65,35,43,0,B.J. Bailey missed Layup.
+Lehigh,Army,71,65,35,43,0,Anthony D'Orazio Offensive Rebound.
+Lehigh,Army,73,65,35,47,1,Anthony D'Orazio made Tip Shot.
+Lehigh,Army,73,65,36,14,0,Jordan Springer Turnover.
+Lehigh,Army,73,65,36,14,0,Foul on Jordan Springer
+Lehigh,Army,73,65,36,16,0,Official TV Timeout.
+Lehigh,Army,73,65,36,28,0,Mackey McKnight Turnover.
+Lehigh,Army,73,65,36,33,0,Foul on Holden Greiner
+Lehigh,Army,73,65,36,33,0,Ella Ellis missed Free Throw.
+Lehigh,Army,73,65,36,33,0,null
+Lehigh,Army,73,66,36,33,1,Ella Ellis made Free Throw.
+Lehigh,Army,73,66,36,57,0,Mackey McKnight missed Three Point Jumper.
+Lehigh,Army,73,66,36,57,0,Kyle Wilson Defensive Rebound.
+Lehigh,Army,73,66,37,10,0,Kyle Wilson missed Jumper.
+Lehigh,Army,73,66,37,10,0,B.J. Bailey Defensive Rebound.
+Lehigh,Army,73,66,37,35,0,Holden Greiner missed Jumper.
+Lehigh,Army,73,66,37,35,0,Lehigh Offensive Rebound.
+Lehigh,Army,73,66,37,42,0,Mackey McKnight Turnover.
+Lehigh,Army,73,66,37,42,0,Jordan Springer Steal.
+Lehigh,Army,73,66,37,44,0,Army Full Timeout.
+Lehigh,Army,73,66,37,51,0,Ella Ellis missed Jumper.
+Lehigh,Army,73,66,37,51,0,B.J. Bailey Defensive Rebound.
+Lehigh,Army,73,66,37,55,0,Foul on Ella Ellis
+Lehigh,Army,73,66,37,55,0,B.J. Bailey missed Free Throw.
+Lehigh,Army,73,66,37,55,0,null
+Lehigh,Army,74,66,37,55,1,B.J. Bailey made Free Throw.
+Lehigh,Army,74,69,38,1,1,Kyle Toth made Three Point Jumper.  Assisted by Kyle Wilson.
+Lehigh,Army,76,69,38,34,1,B.J. Bailey made Jumper.
+Lehigh,Army,76,69,38,40,0,Kyle Wilson missed Three Point Jumper.
+Lehigh,Army,76,69,38,40,0,Anthony D'Orazio Defensive Rebound.
+Lehigh,Army,76,69,38,48,0,Foul on Larry Toomey
+Lehigh,Army,77,69,38,48,1,Mackey McKnight made Free Throw.
+Lehigh,Army,78,69,38,48,1,Mackey McKnight made Free Throw.
+Lehigh,Army,78,72,38,53,1,Kyle Toth made Three Point Jumper.  Assisted by Dylan Cox.
+Lehigh,Army,78,72,38,57,0,Army Full Timeout.
+Lehigh,Army,78,72,39,5,0,Foul on Dylan Cox
+Lehigh,Army,78,72,39,5,0,Mackey McKnight missed Free Throw.
+Lehigh,Army,78,72,39,5,0,null
+Lehigh,Army,79,72,39,5,1,Mackey McKnight made Free Throw.
+Lehigh,Army,79,72,39,12,0,Foul on Mackey McKnight
+Lehigh,Army,79,73,39,12,1,Kyle Toth made Free Throw.
+Lehigh,Army,79,74,39,12,1,Kyle Toth made Free Throw.
+Lehigh,Army,79,74,39,14,0,Foul on Kyle Toth
+Lehigh,Army,80,74,39,14,1,Holden Greiner made Free Throw.
+Lehigh,Army,81,74,39,14,1,Holden Greiner made Free Throw.
+Lehigh,Army,81,76,39,24,1,Kevin Ferguson made Dunk.  Assisted by Dylan Cox.
+Lehigh,Army,81,76,39,25,0,Foul on Kyle Wilson
+Lehigh,Army,82,76,39,25,1,B.J. Bailey made Free Throw.
+Lehigh,Army,83,76,39,25,1,B.J. Bailey made Free Throw.
+Lehigh,Army,83,76,39,34,0,Kyle Wilson missed Three Point Jumper.
+Lehigh,Army,83,76,39,34,0,Holden Greiner Block.
+Lehigh,Army,83,76,39,36,0,Mackey McKnight Defensive Rebound.
+Lehigh,Army,85,76,39,41,1,Holden Greiner made Dunk.  Assisted by Mackey McKnight.
+Lehigh,Army,85,76,39,49,0,Kyle Toth missed Three Point Jumper.
+Lehigh,Army,85,76,39,49,0,Kevin Ferguson Offensive Rebound.
+Lehigh,Army,85,76,39,54,0,Dylan Cox missed Three Point Jumper.
+Lehigh,Army,85,76,39,54,0,Kevin Ferguson Offensive Rebound.
+Lehigh,Army,85,76,39,59,0,Larry Toomey missed Three Point Jumper.
+Lehigh,Army,85,76,39,59,0,null
+Lehigh,Army,85,76,40,0,0,End Game

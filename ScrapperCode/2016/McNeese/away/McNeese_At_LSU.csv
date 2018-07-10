@@ -1,0 +1,374 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+McNeese,LSU,0,0,0,0,0,Jump Ball won by McNeese St
+McNeese,LSU,0,0,0,17,0,Austin Lewis missed Jumper.
+McNeese,LSU,0,0,0,18,0,Antonio Blakeney Defensive Rebound.
+McNeese,LSU,0,0,0,25,0,Foul on Craig McFerrin.
+McNeese,LSU,0,1,0,25,1,Ben Simmons made Free Throw.
+McNeese,LSU,0,1,0,25,0,Ben Simmons missed Free Throw.
+McNeese,LSU,0,1,0,25,0,Ben Simmons missed Jumper.
+McNeese,LSU,0,1,0,25,0,Austin Lewis Defensive Rebound.
+McNeese,LSU,0,1,0,25,0,Elbert Robinson III Offensive Rebound.
+McNeese,LSU,3,1,0,29,1,Shaun Johnson made Three Point Jumper.
+McNeese,LSU,3,1,0,40,0,Antonio Blakeney missed Three Point Jumper.
+McNeese,LSU,3,1,0,40,0,Shaun Johnson Defensive Rebound.
+McNeese,LSU,3,1,1,6,0,Foul on Tim Quarterman.
+McNeese,LSU,3,1,1,6,0,Shaun Johnson missed Three Point Jumper.
+McNeese,LSU,3,1,1,6,0,Tim Quarterman Defensive Rebound.
+McNeese,LSU,3,1,1,9,0,Foul on Shaun Johnson.
+McNeese,LSU,3,1,1,9,0,Brandon Sampson missed Free Throw.
+McNeese,LSU,3,1,1,9,0,LSU Deadball Team Rebound.
+McNeese,LSU,3,2,1,9,1,Brandon Sampson made Free Throw.
+McNeese,LSU,3,2,1,24,0,Foul on Elbert Robinson III.
+McNeese,LSU,3,2,1,39,0,Lance Potier missed Three Point Jumper.
+McNeese,LSU,3,2,1,39,0,Antonio Blakeney Defensive Rebound.
+McNeese,LSU,3,2,1,49,0,Brandon Sampson missed Jumper.
+McNeese,LSU,3,2,1,49,0,Austin Lewis Defensive Rebound.
+McNeese,LSU,3,2,2,11,0,Jamaya Burr missed Layup.
+McNeese,LSU,3,2,2,11,0,Elbert Robinson III Defensive Rebound.
+McNeese,LSU,3,4,2,18,1,Tim Quarterman made Layup. Assisted by Ben Simmons.
+McNeese,LSU,3,4,2,25,0,Foul on Brandon Sampson.
+McNeese,LSU,3,4,3,4,0,Foul on Elbert Robinson III.
+McNeese,LSU,3,4,3,4,0,Austin Lewis missed Jumper.
+McNeese,LSU,3,4,3,4,0,Austin Lewis Offensive Rebound.
+McNeese,LSU,5,4,3,4,1,Austin Lewis made Dunk.
+McNeese,LSU,5,4,3,4,0,Foul on Shaun Johnson.
+McNeese,LSU,5,4,3,9,0,Brandon Sampson missed Three Point Jumper.
+McNeese,LSU,5,4,3,9,0,Brandon Sampson Offensive Rebound.
+McNeese,LSU,5,4,3,14,0,Tim Quarterman missed Three Point Jumper.
+McNeese,LSU,5,4,3,14,0,Antonio Blakeney Offensive Rebound.
+McNeese,LSU,5,4,3,22,0,Tim Quarterman missed Layup.
+McNeese,LSU,5,4,3,22,0,Shaun Johnson Defensive Rebound.
+McNeese,LSU,5,4,3,31,0,Jamaya Burr missed Jumper.
+McNeese,LSU,5,4,3,31,0,Ben Simmons Defensive Rebound.
+McNeese,LSU,5,6,3,34,1,Brandon Sampson made Layup. Assisted by Ben Simmons.
+McNeese,LSU,5,6,4,40,0,McNeese St  Timeout
+McNeese,LSU,5,6,4,53,0,Tevin Jackson Turnover.
+McNeese,LSU,5,6,4,53,0,Brandon Sampson Steal.
+McNeese,LSU,5,6,4,57,0,Antonio Blakeney missed Layup.
+McNeese,LSU,5,6,4,57,0,Lance Potier Block.
+McNeese,LSU,5,6,4,57,0,LSU Offensive Rebound.
+McNeese,LSU,5,6,5,13,0,Aaron Epps missed Jumper.
+McNeese,LSU,5,6,5,13,0,Jamaya Burr Defensive Rebound.
+McNeese,LSU,5,6,5,21,0,Jamaya Burr missed Three Point Jumper.
+McNeese,LSU,5,6,5,21,0,Tevin Jackson Offensive Rebound.
+McNeese,LSU,5,6,5,40,0,Jarren Greenwood missed Three Point Jumper.
+McNeese,LSU,5,6,5,40,0,Antonio Blakeney Defensive Rebound.
+McNeese,LSU,5,9,5,51,1,Antonio Blakeney made Three Point Jumper. Assisted by Brandon Sampson.
+McNeese,LSU,5,9,6,6,0,Lance Potier missed Three Point Jumper.
+McNeese,LSU,5,9,6,6,0,Tim Quarterman Defensive Rebound.
+McNeese,LSU,5,9,6,15,0,Foul on Aaron Epps.
+McNeese,LSU,5,9,6,15,0,Aaron Epps Turnover.
+McNeese,LSU,8,9,6,49,1,Jamaya Burr made Three Point Jumper. Assisted by Lance Potier.
+McNeese,LSU,8,9,6,55,0,Tim Quarterman missed Layup.
+McNeese,LSU,8,9,6,55,0,Ben Simmons Offensive Rebound.
+McNeese,LSU,8,11,7,0,1,Ben Simmons made Layup.
+McNeese,LSU,8,11,7,17,0,Jamaya Burr Turnover.
+McNeese,LSU,8,11,7,17,0,Brandon Sampson Steal.
+McNeese,LSU,8,11,7,20,0,Foul on Matthew Moss.
+McNeese,LSU,8,11,7,23,0,Ben Simmons Turnover.
+McNeese,LSU,8,11,7,44,0,Tevin Jackson missed Three Point Jumper.
+McNeese,LSU,8,11,7,44,0,Ben Simmons Block.
+McNeese,LSU,8,11,7,44,0,Antonio Blakeney Defensive Rebound.
+McNeese,LSU,8,11,7,52,0,Antonio Blakeney missed Jumper.
+McNeese,LSU,8,11,7,52,0,Matthew Moss Defensive Rebound.
+McNeese,LSU,8,11,7,55,0,Foul on Aaron Epps.
+McNeese,LSU,10,11,8,15,1,Matthew Moss made Layup. Assisted by Lance Potier.
+McNeese,LSU,10,11,8,15,0,Foul on Aaron Epps.
+McNeese,LSU,10,11,8,15,0,Official TV Timeout
+McNeese,LSU,10,11,8,15,0,Matthew Moss missed Free Throw.
+McNeese,LSU,10,11,8,15,0,Ben Simmons Defensive Rebound.
+McNeese,LSU,10,11,8,37,0,Jalyn Patterson missed Three Point Jumper.
+McNeese,LSU,10,11,8,37,0,Tim Quarterman Offensive Rebound.
+McNeese,LSU,10,13,8,41,1,Tim Quarterman made Layup.
+McNeese,LSU,10,13,8,59,0,Matthew Moss missed Three Point Jumper.
+McNeese,LSU,10,13,8,59,0,Tim Quarterman Defensive Rebound.
+McNeese,LSU,10,13,9,18,0,Foul on Matthew Moss.
+McNeese,LSU,10,13,9,35,0,Antonio Blakeney missed Jumper.
+McNeese,LSU,10,13,9,35,0,Ben Simmons Offensive Rebound.
+McNeese,LSU,10,15,9,35,1,Ben Simmons made Two Point Tip Shot.
+McNeese,LSU,10,15,9,53,0,James Harvey missed Three Point Jumper.
+McNeese,LSU,10,15,9,53,0,Craig McFerrin Offensive Rebound.
+McNeese,LSU,12,15,9,57,1,Craig McFerrin made Jumper.
+McNeese,LSU,12,15,10,5,0,Antonio Blakeney missed Three Point Jumper.
+McNeese,LSU,12,15,10,5,0,Ben Simmons Offensive Rebound.
+McNeese,LSU,12,15,10,13,0,Antonio Blakeney missed Layup.
+McNeese,LSU,12,15,10,21,0,Brian Bridgewater Offensive Rebound.
+McNeese,LSU,12,17,10,24,1,Brian Bridgewater made Layup.
+McNeese,LSU,14,17,10,30,1,Stephen Ugochukwu made Jumper.
+McNeese,LSU,14,17,10,51,0,Foul on Lance Potier.
+McNeese,LSU,14,17,10,51,0,Antonio Blakeney missed Free Throw.
+McNeese,LSU,14,17,10,51,0,LSU Deadball Team Rebound.
+McNeese,LSU,14,17,10,51,0,Antonio Blakeney missed Free Throw.
+McNeese,LSU,14,17,10,51,0,Craig McFerrin Defensive Rebound.
+McNeese,LSU,14,17,11,4,0,Stephen Ugochukwu Turnover.
+McNeese,LSU,14,17,11,4,0,Brian Bridgewater Steal.
+McNeese,LSU,14,19,11,19,1,Tim Quarterman made Layup. Assisted by Jalyn Patterson.
+McNeese,LSU,14,19,11,19,0,Foul on Jamaya Burr.
+McNeese,LSU,14,19,11,19,0,Tim Quarterman missed Free Throw.
+McNeese,LSU,14,19,11,19,0,Brian Bridgewater Offensive Rebound.
+McNeese,LSU,14,19,11,19,0,Brian Bridgewater missed Layup.
+McNeese,LSU,14,19,11,19,0,Stephen Ugochukwu Block.
+McNeese,LSU,14,19,11,19,0,Craig McFerrin Defensive Rebound.
+McNeese,LSU,16,19,11,20,1,Lance Potier made Layup. Assisted by Jamaya Burr.
+McNeese,LSU,16,19,11,20,0,Tim Quarterman missed Three Point Jumper.
+McNeese,LSU,16,19,11,20,0,Ben Simmons Offensive Rebound.
+McNeese,LSU,16,22,11,38,1,Antonio Blakeney made Three Point Jumper. Assisted by Jalyn Patterson.
+McNeese,LSU,16,22,11,56,0,Lance Potier Turnover.
+McNeese,LSU,16,22,11,56,0,Jalyn Patterson Steal.
+McNeese,LSU,16,24,12,6,1,Jalyn Patterson made Layup. Assisted by Ben Simmons.
+McNeese,LSU,16,24,12,35,0,McNeese St  Timeout
+McNeese,LSU,19,24,12,43,1,Lance Potier made Three Point Jumper. Assisted by Jamaya Burr.
+McNeese,LSU,19,27,13,13,1,Jalyn Patterson made Three Point Jumper. Assisted by Ben Simmons.
+McNeese,LSU,19,27,13,44,0,Craig McFerrin Turnover.
+McNeese,LSU,19,27,14,3,0,Foul on Jarren Greenwood.
+McNeese,LSU,19,28,14,3,1,Tim Quarterman made Free Throw.
+McNeese,LSU,19,29,14,3,1,Tim Quarterman made Free Throw.
+McNeese,LSU,19,29,14,16,0,Jamaya Burr Turnover.
+McNeese,LSU,19,29,14,16,0,Jalyn Patterson Steal.
+McNeese,LSU,19,29,14,19,0,Brandon Sampson missed Three Point Jumper.
+McNeese,LSU,19,29,14,19,0,Ben Simmons Offensive Rebound.
+McNeese,LSU,19,29,14,34,0,Brian Bridgewater missed Jumper.
+McNeese,LSU,19,29,14,34,0,Craig McFerrin Defensive Rebound.
+McNeese,LSU,19,29,14,41,0,Austin Lewis missed Jumper.
+McNeese,LSU,19,29,14,41,0,Craig McFerrin Offensive Rebound.
+McNeese,LSU,21,29,14,46,1,Craig McFerrin made Layup.
+McNeese,LSU,21,31,14,52,1,Ben Simmons made Dunk. Assisted by Tim Quarterman.
+McNeese,LSU,21,31,15,9,0,Foul on Ben Simmons.
+McNeese,LSU,22,31,15,9,1,Austin Lewis made Free Throw.
+McNeese,LSU,23,31,15,9,1,Austin Lewis made Free Throw.
+McNeese,LSU,23,34,15,23,1,Brandon Sampson made Three Point Jumper. Assisted by Darcy Malone.
+McNeese,LSU,23,34,15,47,0,Jamaya Burr missed Jumper.
+McNeese,LSU,23,34,15,47,0,Darcy Malone Defensive Rebound.
+McNeese,LSU,23,34,15,49,0,Tim Quarterman Turnover.
+McNeese,LSU,23,34,15,49,0,Jamaya Burr Steal.
+McNeese,LSU,23,34,15,52,0,Foul on Tim Quarterman.
+McNeese,LSU,23,34,15,52,0,Austin Lewis missed Free Throw.
+McNeese,LSU,23,34,15,52,0,McNeese St Deadball Team Rebound.
+McNeese,LSU,23,34,15,52,0,Austin Lewis missed Free Throw.
+McNeese,LSU,23,34,15,52,0,Brian Bridgewater Defensive Rebound.
+McNeese,LSU,23,34,16,3,0,Darcy Malone Turnover.
+McNeese,LSU,23,34,16,3,0,Official TV Timeout
+McNeese,LSU,23,34,16,28,0,Tevin Jackson missed Three Point Jumper.
+McNeese,LSU,23,34,16,28,0,Ben Simmons Defensive Rebound.
+McNeese,LSU,23,34,16,40,0,Jalyn Patterson missed Jumper.
+McNeese,LSU,23,34,16,40,0,Tevin Jackson Defensive Rebound.
+McNeese,LSU,23,34,16,49,0,Jarren Greenwood missed Jumper.
+McNeese,LSU,23,34,16,49,0,Tevin Jackson Offensive Rebound.
+McNeese,LSU,25,34,17,8,1,Jarren Greenwood made Jumper.
+McNeese,LSU,25,34,17,20,0,Jalyn Patterson Turnover.
+McNeese,LSU,25,34,17,35,0,Foul on Darcy Malone.
+McNeese,LSU,26,34,17,35,1,Jamaya Burr made Free Throw.
+McNeese,LSU,27,34,17,35,1,Jamaya Burr made Free Throw.
+McNeese,LSU,27,34,17,45,0,Foul on Jarren Greenwood.
+McNeese,LSU,27,35,17,45,1,Antonio Blakeney made Free Throw.
+McNeese,LSU,27,35,17,45,0,Antonio Blakeney missed Free Throw.
+McNeese,LSU,27,35,17,45,0,Craig McFerrin Defensive Rebound.
+McNeese,LSU,27,35,17,46,0,LSU  Timeout
+McNeese,LSU,27,35,18,7,0,Adrian Brown Turnover.
+McNeese,LSU,27,35,18,7,0,Jalyn Patterson Steal.
+McNeese,LSU,27,35,18,16,0,Jalyn Patterson missed Three Point Jumper.
+McNeese,LSU,27,35,18,16,0,Antonio Blakeney Offensive Rebound.
+McNeese,LSU,27,35,18,21,0,Antonio Blakeney missed Jumper.
+McNeese,LSU,27,35,18,21,0,Tevin Jackson Defensive Rebound.
+McNeese,LSU,27,35,18,33,0,James Harvey missed Three Point Jumper.
+McNeese,LSU,27,35,18,33,0,Ben Simmons Defensive Rebound.
+McNeese,LSU,27,37,18,41,1,Antonio Blakeney made Dunk. Assisted by Brandon Sampson.
+McNeese,LSU,27,37,18,44,0,McNeese St  Timeout
+McNeese,LSU,27,37,19,3,0,Craig McFerrin missed Three Point Jumper.
+McNeese,LSU,27,37,19,3,0,Antonio Blakeney Defensive Rebound.
+McNeese,LSU,27,37,19,9,0,Foul on Adrian Brown.
+McNeese,LSU,27,38,19,9,1,Antonio Blakeney made Free Throw.
+McNeese,LSU,27,39,19,9,1,Antonio Blakeney made Free Throw.
+McNeese,LSU,27,39,19,9,0,LSU  Timeout
+McNeese,LSU,27,39,19,33,0,Craig McFerrin missed Jumper.
+McNeese,LSU,27,39,19,33,0,Ben Simmons Defensive Rebound.
+McNeese,LSU,27,39,19,41,0,Brandon Sampson missed Jumper.
+McNeese,LSU,27,39,19,41,0,James Harvey Defensive Rebound.
+McNeese,LSU,27,39,19,48,0,James Harvey Turnover.
+McNeese,LSU,27,39,19,48,0,Antonio Blakeney Steal.
+McNeese,LSU,27,41,19,54,1,Ben Simmons made Dunk. Assisted by Antonio Blakeney.
+McNeese,LSU,27,41,20,0,0,End of 1st half
+McNeese,LSU,27,41,20,0,0,Jump Ball won by LSU
+McNeese,LSU,27,41,20,11,0,Ben Simmons missed Jumper.
+McNeese,LSU,27,41,20,11,0,Elbert Robinson III Offensive Rebound.
+McNeese,LSU,27,43,20,17,1,Elbert Robinson III made Layup.
+McNeese,LSU,27,43,20,51,0,McNeese St  Turnover.
+McNeese,LSU,27,45,21,2,1,Elbert Robinson III made Jumper. Assisted by Ben Simmons.
+McNeese,LSU,27,45,21,26,0,Lance Potier missed Three Point Jumper.
+McNeese,LSU,27,45,21,26,0,Ben Simmons Defensive Rebound.
+McNeese,LSU,27,45,21,36,0,Foul on Jamaya Burr.
+McNeese,LSU,27,48,21,38,1,Brandon Sampson made Three Point Jumper. Assisted by Tim Quarterman.
+McNeese,LSU,27,48,21,57,0,Jamaya Burr missed Jumper.
+McNeese,LSU,27,48,21,57,0,Antonio Blakeney Defensive Rebound.
+McNeese,LSU,27,48,22,16,0,Elbert Robinson III Turnover.
+McNeese,LSU,27,48,22,41,0,Foul on Ben Simmons.
+McNeese,LSU,27,48,22,52,0,Lance Potier missed Three Point Jumper.
+McNeese,LSU,27,48,22,52,0,Craig McFerrin Offensive Rebound.
+McNeese,LSU,27,48,22,58,0,Craig McFerrin missed Layup.
+McNeese,LSU,27,48,22,58,0,Ben Simmons Defensive Rebound.
+McNeese,LSU,27,48,23,5,0,Foul on Ben Simmons.
+McNeese,LSU,27,48,23,5,0,Ben Simmons Turnover.
+McNeese,LSU,27,48,23,13,0,Shaun Johnson missed Jumper.
+McNeese,LSU,27,48,23,13,0,Ben Simmons Block.
+McNeese,LSU,27,48,23,13,0,Elbert Robinson III Defensive Rebound.
+McNeese,LSU,27,50,23,40,1,Antonio Blakeney made Layup.
+McNeese,LSU,27,50,23,57,0,Jamaya Burr Turnover.
+McNeese,LSU,27,53,24,2,1,Tim Quarterman made Three Point Jumper.
+McNeese,LSU,27,53,24,26,0,Austin Lewis missed Jumper.
+McNeese,LSU,27,53,24,26,0,Tim Quarterman Defensive Rebound.
+McNeese,LSU,27,56,24,38,1,Brandon Sampson made Three Point Jumper. Assisted by Tim Quarterman.
+McNeese,LSU,27,56,24,46,0,LSU  Timeout
+McNeese,LSU,27,56,24,57,0,Jarren Greenwood missed Jumper.
+McNeese,LSU,27,56,24,57,0,Tim Quarterman Defensive Rebound.
+McNeese,LSU,27,56,25,1,0,Foul on Austin Lewis.
+McNeese,LSU,27,56,25,1,0,Official TV Timeout
+McNeese,LSU,27,56,25,21,0,Foul on Austin Lewis.
+McNeese,LSU,27,57,25,21,1,Ben Simmons made Free Throw.
+McNeese,LSU,27,58,25,21,1,Ben Simmons made Free Throw.
+McNeese,LSU,27,58,25,47,0,Lance Potier missed Three Point Jumper.
+McNeese,LSU,27,58,25,47,0,LSU Defensive Rebound.
+McNeese,LSU,27,61,26,6,1,Brandon Sampson made Three Point Jumper. Assisted by Elbert Robinson III.
+McNeese,LSU,27,61,26,28,0,Lance Potier missed Layup.
+McNeese,LSU,27,61,26,28,0,Austin Lewis Offensive Rebound.
+McNeese,LSU,29,61,26,34,1,Austin Lewis made Layup.
+McNeese,LSU,29,61,26,39,0,Ben Simmons Turnover.
+McNeese,LSU,29,61,26,39,0,Jarren Greenwood Steal.
+McNeese,LSU,31,61,26,48,1,Lance Potier made Layup.
+McNeese,LSU,31,61,26,48,0,Foul on Tim Quarterman.
+McNeese,LSU,32,61,26,48,1,Lance Potier made Free Throw.
+McNeese,LSU,32,61,27,3,0,Foul on Austin Lewis.
+McNeese,LSU,32,62,27,3,1,Elbert Robinson III made Free Throw.
+McNeese,LSU,32,63,27,3,1,Elbert Robinson III made Free Throw.
+McNeese,LSU,32,63,27,29,0,Foul on Darcy Malone.
+McNeese,LSU,32,63,27,36,0,Foul on Aaron Epps.
+McNeese,LSU,33,63,27,36,1,Jamaya Burr made Free Throw.
+McNeese,LSU,34,63,27,36,1,Jamaya Burr made Free Throw.
+McNeese,LSU,34,65,27,43,1,Antonio Blakeney made Layup.
+McNeese,LSU,34,65,27,50,0,Andrija Milovanovic missed Three Point Jumper.
+McNeese,LSU,34,65,27,50,0,Antonio Blakeney Defensive Rebound.
+McNeese,LSU,34,65,27,59,0,Antonio Blakeney missed Three Point Jumper.
+McNeese,LSU,34,65,27,59,0,Lance Potier Defensive Rebound.
+McNeese,LSU,36,65,28,11,1,Craig McFerrin made Jumper.
+McNeese,LSU,36,65,28,44,0,Foul on Jarren Greenwood.
+McNeese,LSU,36,65,28,44,0,Official TV Timeout
+McNeese,LSU,36,66,28,44,1,Jalyn Patterson made Free Throw.
+McNeese,LSU,36,66,28,44,0,Jalyn Patterson missed Free Throw.
+McNeese,LSU,36,66,28,44,0,Craig McFerrin Defensive Rebound.
+McNeese,LSU,36,66,29,1,0,Jarren Greenwood missed Jumper.
+McNeese,LSU,36,66,29,1,0,McNeese St Offensive Rebound.
+McNeese,LSU,36,66,29,11,0,Jarren Greenwood missed Three Point Jumper.
+McNeese,LSU,36,66,29,11,0,McNeese St Offensive Rebound.
+McNeese,LSU,36,66,29,20,0,Lance Potier missed Jumper.
+McNeese,LSU,36,66,29,20,0,Darcy Malone Defensive Rebound.
+McNeese,LSU,36,68,29,29,1,Antonio Blakeney made Layup.
+McNeese,LSU,38,68,29,51,1,Jamaya Burr made Jumper.
+McNeese,LSU,38,70,30,9,1,Antonio Blakeney made Layup.
+McNeese,LSU,38,70,30,25,0,Jamaya Burr missed Layup.
+McNeese,LSU,38,70,30,25,0,Craig McFerrin Offensive Rebound.
+McNeese,LSU,38,70,30,27,0,Craig McFerrin missed Jumper.
+McNeese,LSU,38,70,30,27,0,Antonio Blakeney Defensive Rebound.
+McNeese,LSU,38,70,30,34,0,Tim Quarterman missed Jumper.
+McNeese,LSU,38,70,30,34,0,Matthew Moss Defensive Rebound.
+McNeese,LSU,38,70,30,51,0,Foul on Darcy Malone.
+McNeese,LSU,41,70,30,57,1,Andrija Milovanovic made Three Point Jumper. Assisted by James Harvey.
+McNeese,LSU,41,70,31,20,0,Foul on James Harvey.
+McNeese,LSU,41,70,31,21,0,Tim Quarterman missed Jumper.
+McNeese,LSU,41,70,31,21,0,Andrija Milovanovic Defensive Rebound.
+McNeese,LSU,41,70,31,27,0,Foul on Tim Quarterman.
+McNeese,LSU,42,70,31,27,1,Andrija Milovanovic made Free Throw.
+McNeese,LSU,43,70,31,27,1,Andrija Milovanovic made Free Throw.
+McNeese,LSU,43,70,31,39,0,Foul on Andrija Milovanovic.
+McNeese,LSU,43,70,31,39,0,Tim Quarterman missed Free Throw.
+McNeese,LSU,43,70,31,39,0,Craig McFerrin Defensive Rebound.
+McNeese,LSU,45,70,31,50,1,Craig McFerrin made Layup.
+McNeese,LSU,45,70,32,3,0,Official TV Timeout
+McNeese,LSU,45,70,32,17,0,Brandon Sampson missed Layup.
+McNeese,LSU,45,70,32,17,0,James Harvey Defensive Rebound.
+McNeese,LSU,47,70,32,35,1,Tevin Jackson made Layup.
+McNeese,LSU,47,70,32,40,0,Jalyn Patterson missed Jumper.
+McNeese,LSU,47,70,32,40,0,Brandon Sampson Offensive Rebound.
+McNeese,LSU,47,70,32,55,0,Jalyn Patterson missed Three Point Jumper.
+McNeese,LSU,47,70,32,55,0,Craig McFerrin Defensive Rebound.
+McNeese,LSU,49,70,33,2,1,Craig McFerrin made Jumper.
+McNeese,LSU,49,70,33,13,0,Foul on Tevin Jackson.
+McNeese,LSU,49,70,33,13,0,Darcy Malone missed Free Throw.
+McNeese,LSU,49,70,33,13,0,Craig McFerrin Defensive Rebound.
+McNeese,LSU,49,70,33,13,0,James Harvey missed Three Point Jumper.
+McNeese,LSU,49,70,33,13,0,Craig McFerrin Offensive Rebound.
+McNeese,LSU,51,70,33,13,1,Craig McFerrin made Layup.
+McNeese,LSU,51,70,33,18,0,Ben Simmons missed Jumper.
+McNeese,LSU,51,70,33,18,0,James Harvey Defensive Rebound.
+McNeese,LSU,51,70,33,25,0,Jarren Greenwood missed Three Point Jumper.
+McNeese,LSU,51,70,33,25,0,Darcy Malone Defensive Rebound.
+McNeese,LSU,51,70,33,49,0,Antonio Blakeney missed Jumper.
+McNeese,LSU,51,70,33,49,0,Brandon Sampson Offensive Rebound.
+McNeese,LSU,51,72,33,53,1,Brandon Sampson made Layup.
+McNeese,LSU,51,72,34,52,0,Foul on Darcy Malone.
+McNeese,LSU,52,72,34,52,1,Tevin Jackson made Free Throw.
+McNeese,LSU,53,72,34,52,1,Tevin Jackson made Free Throw.
+McNeese,LSU,53,72,35,7,0,Foul on Craig McFerrin.
+McNeese,LSU,53,72,35,7,0,Elbert Robinson III missed Free Throw.
+McNeese,LSU,53,72,35,7,0,Stephen Ugochukwu Defensive Rebound.
+McNeese,LSU,53,72,35,32,0,Foul on Elbert Robinson III.
+McNeese,LSU,53,72,35,32,0,Stephen Ugochukwu missed Free Throw.
+McNeese,LSU,53,72,35,32,0,McNeese St Deadball Team Rebound.
+McNeese,LSU,54,72,35,32,1,Stephen Ugochukwu made Free Throw.
+McNeese,LSU,54,74,35,46,1,Elbert Robinson III made Jumper. Assisted by Jalyn Patterson.
+McNeese,LSU,54,74,36,0,0,Foul on Ben Simmons.
+McNeese,LSU,55,74,36,0,1,Adrian Brown made Free Throw.
+McNeese,LSU,55,74,36,0,0,Adrian Brown missed Free Throw.
+McNeese,LSU,55,74,36,0,0,Ben Simmons Defensive Rebound.
+McNeese,LSU,55,74,36,13,0,Foul on Adrian Brown.
+McNeese,LSU,55,75,36,13,1,Antonio Blakeney made Free Throw.
+McNeese,LSU,55,74,36,13,0,Official TV Timeout
+McNeese,LSU,55,75,36,13,0,Antonio Blakeney missed Free Throw.
+McNeese,LSU,55,75,36,13,0,Adrian Brown Defensive Rebound.
+McNeese,LSU,55,75,36,13,0,Foul on Elbert Robinson III.
+McNeese,LSU,55,75,36,13,0,Adrian Brown missed Free Throw.
+McNeese,LSU,55,75,36,13,0,McNeese St Deadball Team Rebound.
+McNeese,LSU,56,75,36,13,1,Adrian Brown made Free Throw.
+McNeese,LSU,56,75,36,18,0,Foul on Adrian Brown.
+McNeese,LSU,56,76,36,18,1,Antonio Blakeney made Free Throw.
+McNeese,LSU,56,77,36,18,1,Antonio Blakeney made Free Throw.
+McNeese,LSU,58,77,36,29,1,Jamaya Burr made Layup.
+McNeese,LSU,58,77,36,29,0,Foul on Aaron Epps.
+McNeese,LSU,59,77,36,29,1,Jamaya Burr made Free Throw.
+McNeese,LSU,59,77,36,50,0,Foul on Adrian Brown.
+McNeese,LSU,59,77,36,50,0,Tim Quarterman missed Free Throw.
+McNeese,LSU,59,77,36,50,0,LSU Deadball Team Rebound.
+McNeese,LSU,59,77,36,50,0,Tim Quarterman missed Free Throw.
+McNeese,LSU,59,77,36,50,0,Adrian Brown Defensive Rebound.
+McNeese,LSU,61,77,37,2,1,Derrell Joubert made Layup.
+McNeese,LSU,61,80,37,13,1,Jalyn Patterson made Three Point Jumper. Assisted by Brian Bridgewater.
+McNeese,LSU,61,80,37,36,0,Foul on Jalyn Patterson.
+McNeese,LSU,62,80,37,36,1,Jamaya Burr made Free Throw.
+McNeese,LSU,63,80,37,36,1,Jamaya Burr made Free Throw.
+McNeese,LSU,63,80,37,43,0,Foul on Jamaya Burr.
+McNeese,LSU,63,80,37,43,0,Brandon Sampson missed Free Throw.
+McNeese,LSU,63,80,37,43,0,LSU Deadball Team Rebound.
+McNeese,LSU,63,81,37,43,1,Brandon Sampson made Free Throw.
+McNeese,LSU,65,81,37,47,1,Jamaya Burr made Layup.
+McNeese,LSU,65,81,38,8,0,Brian Bridgewater Turnover.
+McNeese,LSU,65,81,38,8,0,Stephen Ugochukwu Steal.
+McNeese,LSU,67,81,38,13,1,Jamaya Burr made Layup. Assisted by Stephen Ugochukwu.
+McNeese,LSU,67,81,38,20,0,Brandon Sampson missed Layup.
+McNeese,LSU,67,81,38,20,0,Derrell Joubert Defensive Rebound.
+McNeese,LSU,70,81,38,31,1,Stephen Ugochukwu made Three Point Jumper. Assisted by Jamaya Burr.
+McNeese,LSU,70,81,38,44,0,LSU  Timeout
+McNeese,LSU,70,81,38,48,0,Foul on Stephen Ugochukwu.
+McNeese,LSU,70,81,38,48,0,Brian Bridgewater missed Free Throw.
+McNeese,LSU,70,81,38,48,0,LSU Deadball Team Rebound.
+McNeese,LSU,70,81,38,48,0,Brian Bridgewater missed Free Throw.
+McNeese,LSU,70,81,38,48,0,Adrian Brown Defensive Rebound.
+McNeese,LSU,70,81,38,53,0,Shaun Johnson missed Jumper.
+McNeese,LSU,70,81,38,53,0,Brandon Sampson Block.
+McNeese,LSU,70,81,38,53,0,Brian Bridgewater Defensive Rebound.
+McNeese,LSU,70,81,39,17,0,Brandon Sampson Turnover.
+McNeese,LSU,70,81,39,17,0,Derrell Joubert Steal.
+McNeese,LSU,70,81,39,24,0,Derrell Joubert Turnover.
+McNeese,LSU,70,81,39,24,0,Henry Shortess Steal.
+McNeese,LSU,70,81,39,36,0,Brandon Eddlestone missed Three Point Jumper.
+McNeese,LSU,70,81,39,36,0,Jamaya Burr Defensive Rebound.
+McNeese,LSU,70,81,39,44,0,Jamaya Burr missed Layup.
+McNeese,LSU,70,81,39,44,0,Brian Bridgewater Defensive Rebound.
+McNeese,LSU,70,81,40,0,0,End of Game

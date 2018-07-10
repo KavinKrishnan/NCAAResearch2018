@@ -1,0 +1,338 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Temple,Butler,2,0,0,24,1,Jaylen Bond made Jumper.
+Temple,Butler,2,0,0,41,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,2,0,0,41,0,Jaylen Bond Defensive Rebound.
+Temple,Butler,2,0,0,59,0,Foul on Tyler Wideman.
+Temple,Butler,4,0,1,10,1,Devin Coleman made Jumper.
+Temple,Butler,4,0,1,23,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,4,0,1,23,0,Jaylen Bond Defensive Rebound.
+Temple,Butler,6,0,1,54,1,Jaylen Bond made Layup. Assisted by Quenton DeCosey.
+Temple,Butler,6,0,2,12,0,Andrew Chrabascz missed Layup.
+Temple,Butler,6,0,2,12,0,Obi Enechionyia Block.
+Temple,Butler,6,0,2,14,0,Andrew Chrabascz Offensive Rebound.
+Temple,Butler,6,0,2,24,0,Tyler Lewis missed Three Point Jumper.
+Temple,Butler,6,0,2,24,0,Quenton DeCosey Defensive Rebound.
+Temple,Butler,6,0,2,32,0,Quenton DeCosey Turnover.
+Temple,Butler,6,0,2,47,0,Kellen Dunham missed Jumper.
+Temple,Butler,6,0,2,47,0,Devin Coleman Defensive Rebound.
+Temple,Butler,6,0,3,3,0,Obi Enechionyia missed Three Point Jumper.
+Temple,Butler,6,0,3,3,0,Roosevelt Jones Defensive Rebound.
+Temple,Butler,6,2,3,12,1,Roosevelt Jones made Layup.
+Temple,Butler,6,2,3,40,0,Devin Coleman missed Three Point Jumper.
+Temple,Butler,6,2,3,40,0,Roosevelt Jones Defensive Rebound.
+Temple,Butler,6,2,3,48,0,Roosevelt Jones missed Layup.
+Temple,Butler,6,2,3,48,0,Devin Coleman Defensive Rebound.
+Temple,Butler,6,2,3,54,0,Devin Coleman missed Jumper.
+Temple,Butler,6,2,3,54,0,Quenton DeCosey Offensive Rebound.
+Temple,Butler,6,2,3,56,0,Quenton DeCosey missed Layup.
+Temple,Butler,6,2,3,57,0,Tyler Wideman Block.
+Temple,Butler,6,2,3,58,0,Temple Offensive Rebound.
+Temple,Butler,8,2,4,5,1,Obi Enechionyia made Jumper. Assisted by Devin Coleman.
+Temple,Butler,8,2,4,26,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,8,2,4,26,0,Jaylen Bond Defensive Rebound.
+Temple,Butler,10,2,4,34,1,Josh Brown made Jumper.
+Temple,Butler,10,2,4,58,0,Tyler Lewis missed Layup.
+Temple,Butler,10,2,4,58,0,Quenton DeCosey Defensive Rebound.
+Temple,Butler,10,2,5,6,0,Quenton DeCosey missed Layup.
+Temple,Butler,10,2,5,6,0,Jaylen Bond Offensive Rebound.
+Temple,Butler,12,2,5,10,1,Jaylen Bond made Two Point Tip Shot.
+Temple,Butler,12,2,5,21,0,Butler  Timeout
+Temple,Butler,12,2,5,34,0,Foul on Obi Enechionyia.
+Temple,Butler,12,3,5,34,1,Andrew Chrabascz made Free Throw.
+Temple,Butler,12,4,5,34,1,Andrew Chrabascz made Free Throw.
+Temple,Butler,14,4,5,46,1,Quenton DeCosey made Layup.
+Temple,Butler,14,4,6,2,0,Kellen Dunham missed Jumper.
+Temple,Butler,14,4,6,2,0,Roosevelt Jones Offensive Rebound.
+Temple,Butler,14,4,6,4,0,Foul on Quenton DeCosey.
+Temple,Butler,14,4,6,4,0,Roosevelt Jones missed Free Throw.
+Temple,Butler,14,4,6,4,0,Butler Deadball Team Rebound.
+Temple,Butler,14,5,6,4,1,Roosevelt Jones made Free Throw.
+Temple,Butler,14,5,6,20,0,Obi Enechionyia missed Layup.
+Temple,Butler,14,5,6,20,0,Kelan Martin Block.
+Temple,Butler,14,5,6,21,0,Roosevelt Jones Defensive Rebound.
+Temple,Butler,14,7,6,25,1,Roosevelt Jones made Layup.
+Temple,Butler,17,7,6,57,1,Josh Brown made Three Point Jumper. Assisted by Quenton DeCosey.
+Temple,Butler,17,7,7,28,0,Roosevelt Jones missed Jumper.
+Temple,Butler,17,7,7,28,0,Temple Defensive Rebound.
+Temple,Butler,17,7,7,55,0,Josh Brown missed Three Point Jumper.
+Temple,Butler,17,7,7,55,0,Roosevelt Jones Defensive Rebound.
+Temple,Butler,17,7,8,10,0,Foul on Obi Enechionyia.
+Temple,Butler,17,7,8,10,0,Official TV Timeout
+Temple,Butler,17,8,8,10,1,Tyler Lewis made Free Throw.
+Temple,Butler,17,9,8,10,1,Tyler Lewis made Free Throw.
+Temple,Butler,19,9,8,31,1,Jaylen Bond made Layup.
+Temple,Butler,19,9,8,50,0,Kelan Martin Turnover.
+Temple,Butler,21,9,9,8,1,Quenton DeCosey made Layup.
+Temple,Butler,21,11,9,31,1,Kelan Martin made Jumper. Assisted by Kellen Dunham.
+Temple,Butler,21,11,9,45,0,Jaylen Bond missed Jumper.
+Temple,Butler,21,11,9,45,0,Kelan Martin Defensive Rebound.
+Temple,Butler,21,11,9,55,0,Kelan Martin missed Three Point Jumper.
+Temple,Butler,21,11,9,55,0,Tyler Wideman Offensive Rebound.
+Temple,Butler,21,13,9,58,1,Tyler Wideman made Layup.
+Temple,Butler,21,13,9,58,0,Foul on Mark Williams.
+Temple,Butler,21,14,9,58,1,Tyler Wideman made Free Throw.
+Temple,Butler,23,14,10,15,1,Mark Williams made Jumper.
+Temple,Butler,23,14,10,34,0,Roosevelt Jones missed Layup.
+Temple,Butler,23,14,10,34,0,Roosevelt Jones Offensive Rebound.
+Temple,Butler,23,16,10,37,1,Roosevelt Jones made Layup.
+Temple,Butler,23,16,10,48,0,Mark Williams Turnover.
+Temple,Butler,23,18,11,3,1,Kelan Martin made Jumper. Assisted by Roosevelt Jones.
+Temple,Butler,23,18,11,25,0,Trey Lowe missed Layup.
+Temple,Butler,23,18,11,25,0,Andrew Chrabascz Defensive Rebound.
+Temple,Butler,23,18,11,53,0,Tyler Wideman missed Jumper.
+Temple,Butler,23,18,11,53,0,Roosevelt Jones Offensive Rebound.
+Temple,Butler,23,18,11,59,0,Roosevelt Jones missed Layup.
+Temple,Butler,23,18,11,59,0,Tyler Wideman Offensive Rebound.
+Temple,Butler,23,20,12,2,1,Tyler Wideman made Layup.
+Temple,Butler,23,20,12,21,0,Foul on Roosevelt Jones.
+Temple,Butler,23,20,12,21,0,Official TV Timeout
+Temple,Butler,23,20,12,21,0,Temple  Timeout
+Temple,Butler,23,20,12,24,0,Jaylen Bond missed Layup.
+Temple,Butler,23,20,12,24,0,Jaylen Bond Offensive Rebound.
+Temple,Butler,23,20,12,26,0,Jaylen Bond missed Layup.
+Temple,Butler,23,20,12,26,0,Kelan Martin Defensive Rebound.
+Temple,Butler,23,20,12,36,0,Tyler Wideman missed Jumper.
+Temple,Butler,23,20,12,36,0,Kelan Martin Offensive Rebound.
+Temple,Butler,23,20,12,41,0,Foul on Jaylen Bond.
+Temple,Butler,23,21,12,41,1,Andrew Chrabascz made Free Throw.
+Temple,Butler,23,22,12,41,1,Andrew Chrabascz made Free Throw.
+Temple,Butler,26,22,12,57,1,Trey Lowe made Three Point Jumper. Assisted by Daniel Dingle.
+Temple,Butler,26,22,13,18,0,Andrew Chrabascz missed Layup.
+Temple,Butler,26,22,13,18,0,Daniel Dingle Block.
+Temple,Butler,26,22,13,20,0,Andrew Chrabascz Offensive Rebound.
+Temple,Butler,26,22,13,21,0,Andrew Chrabascz missed Layup.
+Temple,Butler,26,22,13,21,0,Daniel Dingle Block.
+Temple,Butler,26,22,13,22,0,Andrew Chrabascz Offensive Rebound.
+Temple,Butler,26,22,13,30,0,Tyler Lewis missed Three Point Jumper.
+Temple,Butler,26,22,13,30,0,Kelan Martin Offensive Rebound.
+Temple,Butler,26,22,13,33,0,Foul on Levan Shawn Alston Jr..
+Temple,Butler,26,22,13,45,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,26,22,13,45,0,Andrew Chrabascz Offensive Rebound.
+Temple,Butler,26,24,13,53,1,Kellen Dunham made Layup.
+Temple,Butler,26,24,14,8,0,Josh Brown missed Jumper.
+Temple,Butler,26,24,14,8,0,Andrew Chrabascz Defensive Rebound.
+Temple,Butler,26,24,14,26,0,Kellen Dunham missed Layup.
+Temple,Butler,26,24,14,26,0,Kellen Dunham Offensive Rebound.
+Temple,Butler,26,27,14,32,1,Kellen Dunham made Three Point Jumper.
+Temple,Butler,26,27,15,0,0,Daniel Dingle missed Layup.
+Temple,Butler,26,27,15,0,0,Tyler Wideman Block.
+Temple,Butler,26,27,15,2,0,Andrew Chrabascz Defensive Rebound.
+Temple,Butler,26,27,15,7,0,Kelan Martin missed Layup.
+Temple,Butler,26,27,15,7,0,Mark Williams Defensive Rebound.
+Temple,Butler,26,27,15,17,0,Daniel Dingle missed Three Point Jumper.
+Temple,Butler,26,27,15,17,0,Kelan Martin Defensive Rebound.
+Temple,Butler,26,27,15,49,0,Kelan Martin missed Three Point Jumper.
+Temple,Butler,26,27,15,49,0,Josh Brown Defensive Rebound.
+Temple,Butler,26,27,16,4,0,Trey Lowe missed Jumper.
+Temple,Butler,26,27,16,4,0,Tyler Wideman Defensive Rebound.
+Temple,Butler,26,27,16,27,0,Andrew Chrabascz missed Jumper.
+Temple,Butler,26,27,16,27,0,Mark Williams Defensive Rebound.
+Temple,Butler,26,27,16,51,0,Foul on Kelan Martin.
+Temple,Butler,26,27,16,51,0,Official TV Timeout
+Temple,Butler,26,27,16,56,0,Devin Coleman Turnover.
+Temple,Butler,26,27,16,56,0,Foul on Devin Coleman.
+Temple,Butler,26,29,17,11,1,Andrew Chrabascz made Layup. Assisted by Kellen Dunham.
+Temple,Butler,26,29,17,29,0,Obi Enechionyia missed Three Point Jumper.
+Temple,Butler,26,29,17,29,0,Jaylen Bond Offensive Rebound.
+Temple,Butler,26,29,17,33,0,Foul on Tyler Lewis.
+Temple,Butler,26,29,17,36,0,Foul on Kellen Dunham.
+Temple,Butler,26,29,17,40,0,Devin Coleman missed Jumper.
+Temple,Butler,26,29,17,40,0,Jaylen Bond Offensive Rebound.
+Temple,Butler,26,29,17,43,0,Foul on Tyler Lewis.
+Temple,Butler,27,29,17,43,1,Jaylen Bond made Free Throw.
+Temple,Butler,27,29,17,43,0,Jaylen Bond missed Free Throw.
+Temple,Butler,27,29,17,43,0,Kelan Martin Defensive Rebound.
+Temple,Butler,27,31,18,4,1,Andrew Chrabascz made Layup.
+Temple,Butler,27,31,18,24,0,Quenton DeCosey missed Jumper.
+Temple,Butler,27,31,18,24,0,Kelan Martin Defensive Rebound.
+Temple,Butler,27,31,18,31,0,Andrew Chrabascz missed Layup.
+Temple,Butler,27,31,18,31,0,Mark Williams Defensive Rebound.
+Temple,Butler,29,31,18,37,1,Quenton DeCosey made Jumper. Assisted by Devin Coleman.
+Temple,Butler,29,31,18,48,0,Kelan Martin missed Jumper.
+Temple,Butler,29,31,18,48,0,Quenton DeCosey Defensive Rebound.
+Temple,Butler,31,31,19,3,1,Quenton DeCosey made Layup.
+Temple,Butler,31,33,19,10,1,Roosevelt Jones made Layup.
+Temple,Butler,31,33,19,33,0,Mark Williams missed Three Point Jumper.
+Temple,Butler,31,33,19,33,0,Kelan Martin Defensive Rebound.
+Temple,Butler,31,35,19,59,1,Kellen Dunham made Jumper.
+Temple,Butler,31,35,20,0,0,End of 1st half
+Temple,Butler,34,35,20,9,1,Obi Enechionyia made Three Point Jumper. Assisted by Quenton DeCosey.
+Temple,Butler,34,35,20,33,0,Roosevelt Jones missed Layup.
+Temple,Butler,34,35,20,33,0,Roosevelt Jones Offensive Rebound.
+Temple,Butler,34,37,20,35,1,Roosevelt Jones made Layup.
+Temple,Butler,34,37,20,58,0,Jaylen Bond missed Three Point Jumper.
+Temple,Butler,34,37,20,58,0,Butler Defensive Rebound.
+Temple,Butler,34,37,21,23,0,Kellen Dunham missed Jumper.
+Temple,Butler,34,37,21,23,0,Devin Coleman Block.
+Temple,Butler,34,37,21,23,0,Butler Offensive Rebound.
+Temple,Butler,34,39,21,24,1,Tyler Wideman made Layup. Assisted by Roosevelt Jones.
+Temple,Butler,34,39,21,44,0,Foul on Andrew Chrabascz.
+Temple,Butler,36,39,21,53,1,Jaylen Bond made Jumper.
+Temple,Butler,36,42,22,12,1,Kellen Dunham made Three Point Jumper. Assisted by Andrew Chrabascz.
+Temple,Butler,36,42,22,36,0,Foul on Roosevelt Jones.
+Temple,Butler,38,42,22,45,1,Devin Coleman made Jumper.
+Temple,Butler,38,42,23,4,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,38,42,23,4,0,Quenton DeCosey Defensive Rebound.
+Temple,Butler,41,42,23,11,1,Devin Coleman made Three Point Jumper. Assisted by Quenton DeCosey.
+Temple,Butler,41,45,23,29,1,Andrew Chrabascz made Three Point Jumper. Assisted by Tyler Wideman.
+Temple,Butler,41,45,23,46,0,Devin Coleman missed Three Point Jumper.
+Temple,Butler,41,45,23,46,0,Andrew Chrabascz Defensive Rebound.
+Temple,Butler,41,45,24,0,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,41,45,24,0,0,Josh Brown Defensive Rebound.
+Temple,Butler,41,45,24,18,0,Obi Enechionyia missed Three Point Jumper.
+Temple,Butler,41,45,24,18,0,Jaylen Bond Offensive Rebound.
+Temple,Butler,41,45,24,23,0,Jaylen Bond missed Layup.
+Temple,Butler,41,45,24,23,0,Tyler Lewis Defensive Rebound.
+Temple,Butler,41,45,24,26,0,Foul on Obi Enechionyia.
+Temple,Butler,41,45,24,26,0,Official TV Timeout
+Temple,Butler,41,46,24,26,1,Tyler Lewis made Free Throw.
+Temple,Butler,41,47,24,26,1,Tyler Lewis made Free Throw.
+Temple,Butler,41,47,24,52,0,Jaylen Bond missed Jumper.
+Temple,Butler,41,47,24,52,0,Quenton DeCosey Offensive Rebound.
+Temple,Butler,41,47,24,55,0,Quenton DeCosey missed Layup.
+Temple,Butler,41,47,24,55,0,Jaylen Bond Offensive Rebound.
+Temple,Butler,43,47,25,0,1,Jaylen Bond made Layup.
+Temple,Butler,43,49,25,13,1,Kelan Martin made Layup. Assisted by Roosevelt Jones.
+Temple,Butler,43,49,25,41,0,Jaylen Bond missed Jumper.
+Temple,Butler,43,49,25,41,0,Butler Defensive Rebound.
+Temple,Butler,43,49,26,1,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,43,49,26,1,0,Temple Defensive Rebound.
+Temple,Butler,43,49,26,18,0,Jaylen Bond missed Layup.
+Temple,Butler,43,49,26,18,0,Jaylen Bond Offensive Rebound.
+Temple,Butler,43,49,26,23,0,Foul on Tyler Wideman.
+Temple,Butler,43,49,26,39,0,Devin Coleman missed Jumper.
+Temple,Butler,43,49,26,39,0,Andrew Chrabascz Defensive Rebound.
+Temple,Butler,43,49,26,54,0,Kelan Martin Turnover.
+Temple,Butler,45,49,27,6,1,Quenton DeCosey made Layup.
+Temple,Butler,45,49,27,26,0,Butler  Timeout
+Temple,Butler,45,49,27,37,0,Roosevelt Jones missed Layup.
+Temple,Butler,45,49,27,37,0,Mark Williams Defensive Rebound.
+Temple,Butler,45,49,27,44,0,Foul on Kelan Martin.
+Temple,Butler,45,49,28,1,0,Josh Brown missed Jumper.
+Temple,Butler,45,49,28,1,0,Jaylen Bond Offensive Rebound.
+Temple,Butler,45,49,28,8,0,Quenton DeCosey Turnover.
+Temple,Butler,45,49,28,8,0,Andrew Chrabascz Steal.
+Temple,Butler,45,49,28,8,0,Official TV Timeout
+Temple,Butler,45,49,28,32,0,Foul on Quenton DeCosey.
+Temple,Butler,45,49,28,32,0,Roosevelt Jones missed Free Throw.
+Temple,Butler,45,49,28,32,0,Butler Deadball Team Rebound.
+Temple,Butler,45,49,28,32,0,Roosevelt Jones missed Free Throw.
+Temple,Butler,45,49,28,32,0,Obi Enechionyia Defensive Rebound.
+Temple,Butler,45,49,28,50,0,Quenton DeCosey missed Three Point Jumper.
+Temple,Butler,45,49,28,50,0,Trey Lowe Offensive Rebound.
+Temple,Butler,45,49,28,54,0,Trey Lowe missed Two Point Tip Shot.
+Temple,Butler,45,49,28,54,0,Tyler Lewis Defensive Rebound.
+Temple,Butler,45,49,28,56,0,Foul on Quenton DeCosey.
+Temple,Butler,45,49,29,8,0,Foul on Mark Williams.
+Temple,Butler,45,49,29,14,0,Foul on Josh Brown.
+Temple,Butler,45,49,29,14,0,Roosevelt Jones missed Free Throw.
+Temple,Butler,45,49,29,14,0,Butler Deadball Team Rebound.
+Temple,Butler,45,50,29,14,1,Roosevelt Jones made Free Throw.
+Temple,Butler,45,50,29,34,0,Trey Lowe missed Layup.
+Temple,Butler,45,50,29,34,0,Mark Williams Offensive Rebound.
+Temple,Butler,45,50,29,39,0,Mark Williams Turnover.
+Temple,Butler,45,50,29,39,0,Foul on Mark Williams.
+Temple,Butler,45,50,29,52,0,Kelan Martin missed Layup.
+Temple,Butler,45,50,29,52,0,Mark Williams Defensive Rebound.
+Temple,Butler,45,50,30,1,0,Levan Shawn Alston Jr. missed Three Point Jumper.
+Temple,Butler,45,50,30,1,0,Roosevelt Jones Defensive Rebound.
+Temple,Butler,45,50,30,8,0,Kelan Martin missed Three Point Jumper.
+Temple,Butler,45,50,30,8,0,Temple Defensive Rebound.
+Temple,Butler,45,50,30,38,0,Levan Shawn Alston Jr. missed Jumper.
+Temple,Butler,45,50,30,38,0,Jaylen Bond Offensive Rebound.
+Temple,Butler,47,50,30,51,1,Devin Coleman made Layup. Assisted by Jaylen Bond.
+Temple,Butler,47,50,30,52,0,Foul on Roosevelt Jones.
+Temple,Butler,48,50,30,52,1,Devin Coleman made Free Throw.
+Temple,Butler,48,50,31,14,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,48,50,31,14,0,Tyler Wideman Offensive Rebound.
+Temple,Butler,48,53,31,25,1,Tyler Lewis made Three Point Jumper. Assisted by Kellen Dunham.
+Temple,Butler,48,53,31,40,0,Levan Shawn Alston Jr. missed Three Point Jumper.
+Temple,Butler,48,53,31,40,0,Butler Defensive Rebound.
+Temple,Butler,48,53,31,44,0,Foul on Jaylen Bond.
+Temple,Butler,48,54,31,44,1,Tyler Wideman made Free Throw.
+Temple,Butler,48,55,31,44,1,Tyler Wideman made Free Throw.
+Temple,Butler,48,55,32,13,0,Jaylen Bond missed Jumper.
+Temple,Butler,48,55,32,13,0,Quenton DeCosey Offensive Rebound.
+Temple,Butler,50,55,32,17,1,Quenton DeCosey made Layup.
+Temple,Butler,50,58,32,37,1,Tyler Lewis made Three Point Jumper. Assisted by Kellen Dunham.
+Temple,Butler,50,58,32,53,0,Obi Enechionyia Turnover.
+Temple,Butler,50,58,32,54,0,Andrew Chrabascz Steal.
+Temple,Butler,50,58,33,1,0,Kelan Martin missed Layup.
+Temple,Butler,50,58,33,1,0,Kelan Martin Offensive Rebound.
+Temple,Butler,50,58,33,3,0,Kelan Martin missed Layup.
+Temple,Butler,50,58,33,6,0,Jaylen Bond Block.
+Temple,Butler,50,58,33,6,0,Jaylen Bond Defensive Rebound.
+Temple,Butler,50,58,33,15,0,Foul on Kelan Martin.
+Temple,Butler,50,58,33,15,0,Official TV Timeout
+Temple,Butler,50,58,33,21,0,Devin Coleman missed Three Point Jumper.
+Temple,Butler,50,58,33,21,0,Tyler Lewis Defensive Rebound.
+Temple,Butler,50,58,33,33,0,Tyler Lewis missed Jumper.
+Temple,Butler,50,58,33,33,0,Tyler Lewis Offensive Rebound.
+Temple,Butler,50,58,33,50,0,Roosevelt Jones Offensive Rebound.
+Temple,Butler,50,58,33,50,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,50,58,34,5,0,Andrew Chrabascz missed Jumper.
+Temple,Butler,50,58,34,5,0,Temple Defensive Rebound.
+Temple,Butler,50,58,34,13,0,Foul on Roosevelt Jones.
+Temple,Butler,51,58,34,13,1,Josh Brown made Free Throw.
+Temple,Butler,52,58,34,13,1,Josh Brown made Free Throw.
+Temple,Butler,52,58,34,46,0,Tyler Wideman missed Jumper.
+Temple,Butler,52,58,34,46,0,Josh Brown Block.
+Temple,Butler,52,58,34,47,0,Quenton DeCosey Defensive Rebound.
+Temple,Butler,52,58,34,53,0,Josh Brown missed Jumper.
+Temple,Butler,52,58,34,53,0,Roosevelt Jones Defensive Rebound.
+Temple,Butler,52,60,34,59,1,Tyler Lewis made Layup. Assisted by Roosevelt Jones.
+Temple,Butler,52,60,35,20,0,Obi Enechionyia missed Three Point Jumper.
+Temple,Butler,52,60,35,20,0,Tyler Wideman Defensive Rebound.
+Temple,Butler,52,60,35,45,0,Foul on Devin Coleman.
+Temple,Butler,52,61,35,45,1,Kellen Dunham made Free Throw.
+Temple,Butler,52,62,35,45,1,Kellen Dunham made Free Throw.
+Temple,Butler,55,62,35,59,1,Quenton DeCosey made Three Point Jumper. Assisted by Devin Coleman.
+Temple,Butler,55,64,36,16,1,Andrew Chrabascz made Layup.
+Temple,Butler,55,64,36,32,0,Foul on Tyler Lewis.
+Temple,Butler,55,64,36,32,0,Official TV Timeout
+Temple,Butler,56,64,36,32,1,Quenton DeCosey made Free Throw.
+Temple,Butler,57,64,36,32,1,Quenton DeCosey made Free Throw.
+Temple,Butler,57,64,36,37,0,Foul on Jaylen Bond.
+Temple,Butler,57,65,36,37,1,Kellen Dunham made Free Throw.
+Temple,Butler,57,66,36,37,1,Kellen Dunham made Free Throw.
+Temple,Butler,57,66,36,48,0,Jaylen Bond missed Layup.
+Temple,Butler,57,66,36,48,0,Tyler Wideman Block.
+Temple,Butler,57,66,36,59,0,Tyler Wideman Defensive Rebound.
+Temple,Butler,57,66,37,15,0,Quenton DeCosey Defensive Rebound.
+Temple,Butler,57,66,37,15,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,57,66,37,30,0,Foul on Roosevelt Jones.
+Temple,Butler,58,66,37,30,1,Quenton DeCosey made Free Throw.
+Temple,Butler,59,66,37,30,1,Quenton DeCosey made Free Throw.
+Temple,Butler,59,66,37,47,0,Kelan Martin Turnover.
+Temple,Butler,61,66,37,57,1,Quenton DeCosey made Layup.
+Temple,Butler,61,66,38,7,0,Tyler Lewis Turnover.
+Temple,Butler,61,66,38,9,0,Josh Brown Steal.
+Temple,Butler,61,66,38,11,0,Josh Brown missed Layup.
+Temple,Butler,61,66,38,11,0,Quenton DeCosey Offensive Rebound.
+Temple,Butler,61,66,38,16,0,Quenton DeCosey missed Layup.
+Temple,Butler,61,66,38,16,0,Butler Defensive Rebound.
+Temple,Butler,61,66,38,17,0,Temple  Timeout
+Temple,Butler,61,66,38,48,0,Kellen Dunham missed Three Point Jumper.
+Temple,Butler,61,66,38,48,0,Butler Offensive Rebound.
+Temple,Butler,61,66,38,49,0,Butler  Turnover.
+Temple,Butler,61,66,39,10,0,Jaylen Bond Turnover.
+Temple,Butler,61,66,39,14,0,Tyler Wideman Steal.
+Temple,Butler,61,66,39,16,0,Foul on Trey Lowe.
+Temple,Butler,61,67,39,16,1,Tyler Lewis made Free Throw.
+Temple,Butler,61,68,39,16,1,Tyler Lewis made Free Throw.
+Temple,Butler,61,68,39,21,0,Josh Brown missed Layup.
+Temple,Butler,61,68,39,24,0,Tyler Wideman Block.
+Temple,Butler,61,68,39,24,0,Andrew Chrabascz Defensive Rebound.
+Temple,Butler,61,70,39,31,1,Kellen Dunham made Layup.
+Temple,Butler,61,70,39,43,0,Quenton DeCosey missed Three Point Jumper.
+Temple,Butler,61,70,39,43,0,Josh Brown Offensive Rebound.
+Temple,Butler,63,70,39,44,1,Josh Brown made Layup.
+Temple,Butler,63,70,39,44,0,Temple  Timeout
+Temple,Butler,63,72,39,53,1,Kelan Martin made Dunk. Assisted by Jordan Gathers.
+Temple,Butler,66,72,39,57,1,Josh Brown made Three Point Jumper.
+Temple,Butler,66,72,39,57,0,Temple  Timeout
+Temple,Butler,66,72,39,57,0,Foul on Josh Brown.
+Temple,Butler,66,73,39,57,1,Tyler Lewis made Free Throw.
+Temple,Butler,66,74,39,57,1,Tyler Lewis made Free Throw.
+Temple,Butler,69,74,40,0,1,Quenton DeCosey made Three Point Jumper.
+Temple,Butler,69,74,40,0,0,End of Game

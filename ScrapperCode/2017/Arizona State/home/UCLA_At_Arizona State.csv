@@ -1,0 +1,333 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+UCLA,Arizona State,0,0,0,0,0,Jump Ball won by UCLA
+UCLA,Arizona State,0,0,0,8,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,0,0,0,8,0,Thomas Welsh Offensive Rebound.
+UCLA,Arizona State,2,0,0,18,1,Thomas Welsh made Layup. Assisted by TJ Leaf.
+UCLA,Arizona State,2,2,0,39,1,Obinna Oleka made Dunk. Assisted by Kodi Justice.
+UCLA,Arizona State,2,2,1,5,0,Thomas Welsh missed Jumper.
+UCLA,Arizona State,2,2,1,5,0,Torian Graham Defensive Rebound.
+UCLA,Arizona State,2,2,1,22,0,Obinna Oleka missed Jumper.
+UCLA,Arizona State,2,2,1,22,0,Bryce Alford Defensive Rebound.
+UCLA,Arizona State,2,2,1,28,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,2,2,1,28,0,TJ Leaf Offensive Rebound.
+UCLA,Arizona State,4,2,1,28,1,TJ Leaf made Two Point Tip Shot.
+UCLA,Arizona State,4,2,1,47,0,Kodi Justice missed Layup.
+UCLA,Arizona State,4,2,1,47,0,Lonzo Ball Defensive Rebound.
+UCLA,Arizona State,4,2,2,1,0,Thomas Welsh missed Jumper.
+UCLA,Arizona State,4,2,2,1,0,Obinna Oleka Defensive Rebound.
+UCLA,Arizona State,4,5,2,22,1,Torian Graham made Three Point Jumper. Assisted by Tra Holder.
+UCLA,Arizona State,4,5,2,41,0,Isaac Hamilton Turnover.
+UCLA,Arizona State,4,5,3,3,0,Tra Holder missed Layup.
+UCLA,Arizona State,4,5,3,3,0,Lonzo Ball Defensive Rebound.
+UCLA,Arizona State,4,5,3,6,0,Lonzo Ball Turnover.
+UCLA,Arizona State,4,5,3,6,0,Torian Graham Steal.
+UCLA,Arizona State,4,5,3,7,0,Foul on TJ Leaf.
+UCLA,Arizona State,4,5,3,7,0,Torian Graham missed Free Throw.
+UCLA,Arizona State,4,5,3,7,0,Arizona State Deadball Team Rebound.
+UCLA,Arizona State,4,6,3,7,1,Torian Graham made Free Throw.
+UCLA,Arizona State,4,6,3,21,0,Isaac Hamilton missed Three Point Jumper.
+UCLA,Arizona State,4,6,3,21,0,Thomas Welsh Offensive Rebound.
+UCLA,Arizona State,4,6,3,31,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,4,6,3,31,0,Thomas Welsh Offensive Rebound.
+UCLA,Arizona State,4,6,3,35,0,Thomas Welsh missed Layup.
+UCLA,Arizona State,4,6,3,35,0,Arizona State Defensive Rebound.
+UCLA,Arizona State,4,6,3,36,0,Foul on Thomas Welsh.
+UCLA,Arizona State,4,6,3,49,0,Shannon Evans II missed Three Point Jumper.
+UCLA,Arizona State,4,6,3,49,0,Obinna Oleka Offensive Rebound.
+UCLA,Arizona State,4,6,3,53,0,Obinna Oleka Turnover.
+UCLA,Arizona State,4,6,4,6,0,Isaac Hamilton missed Jumper.
+UCLA,Arizona State,4,6,4,6,0,Obinna Oleka Defensive Rebound.
+UCLA,Arizona State,4,6,4,26,0,Official TV Timeout
+UCLA,Arizona State,4,6,4,26,0,Tra Holder Turnover.
+UCLA,Arizona State,4,6,4,26,0,Lonzo Ball Steal.
+UCLA,Arizona State,6,6,4,32,1,TJ Leaf made Layup. Assisted by Bryce Alford.
+UCLA,Arizona State,6,9,4,50,1,Shannon Evans II made Three Point Jumper.
+UCLA,Arizona State,8,9,5,8,1,TJ Leaf made Jumper. Assisted by Bryce Alford.
+UCLA,Arizona State,8,9,5,22,0,Shannon Evans II missed Layup.
+UCLA,Arizona State,8,9,5,22,0,Thomas Welsh Block.
+UCLA,Arizona State,8,9,5,22,0,Thomas Welsh Defensive Rebound.
+UCLA,Arizona State,8,9,5,40,0,TJ Leaf missed Jumper.
+UCLA,Arizona State,8,9,5,40,0,Lonzo Ball Offensive Rebound.
+UCLA,Arizona State,10,9,5,40,1,Lonzo Ball made Two Point Tip Shot.
+UCLA,Arizona State,10,12,5,52,1,Kodi Justice made Three Point Jumper. Assisted by Shannon Evans II.
+UCLA,Arizona State,10,12,6,23,0,Foul on Isaac Hamilton.
+UCLA,Arizona State,10,12,6,23,0,Isaac Hamilton Turnover.
+UCLA,Arizona State,10,12,6,33,0,Foul on Isaac Hamilton.
+UCLA,Arizona State,10,13,6,33,1,Torian Graham made Free Throw.
+UCLA,Arizona State,10,14,6,33,1,Torian Graham made Free Throw.
+UCLA,Arizona State,10,14,6,46,0,Thomas Welsh Turnover.
+UCLA,Arizona State,10,14,6,46,0,Obinna Oleka Steal.
+UCLA,Arizona State,10,14,6,52,0,Kodi Justice missed Three Point Jumper.
+UCLA,Arizona State,10,14,6,52,0,Thomas Welsh Defensive Rebound.
+UCLA,Arizona State,10,14,7,5,0,Aaron Holiday Turnover.
+UCLA,Arizona State,10,14,7,21,0,Tra Holder missed Layup.
+UCLA,Arizona State,10,14,7,21,0,Ike Anigbogu Defensive Rebound.
+UCLA,Arizona State,12,14,7,30,1,TJ Leaf made Layup. Assisted by Bryce Alford.
+UCLA,Arizona State,12,14,7,59,0,Kodi Justice missed Jumper.
+UCLA,Arizona State,12,14,7,59,0,Obinna Oleka Offensive Rebound.
+UCLA,Arizona State,12,14,8,17,0,Obinna Oleka missed Three Point Jumper.
+UCLA,Arizona State,12,14,8,17,0,Ike Anigbogu Defensive Rebound.
+UCLA,Arizona State,12,14,8,33,0,TJ Leaf missed Jumper.
+UCLA,Arizona State,12,14,8,33,0,TJ Leaf Offensive Rebound.
+UCLA,Arizona State,12,14,8,35,0,Lonzo Ball missed Three Point Jumper.
+UCLA,Arizona State,12,14,8,35,0,TJ Leaf Offensive Rebound.
+UCLA,Arizona State,14,14,8,48,1,TJ Leaf made Dunk. Assisted by Lonzo Ball.
+UCLA,Arizona State,14,14,9,11,0,Foul on Ike Anigbogu.
+UCLA,Arizona State,14,14,9,11,0,Official TV Timeout
+UCLA,Arizona State,14,15,9,11,1,Tra Holder made Free Throw.
+UCLA,Arizona State,14,16,9,11,1,Tra Holder made Free Throw.
+UCLA,Arizona State,14,16,9,32,0,Ike Anigbogu missed Jumper.
+UCLA,Arizona State,14,16,9,32,0,Obinna Oleka Defensive Rebound.
+UCLA,Arizona State,14,16,9,55,0,Torian Graham Turnover.
+UCLA,Arizona State,14,16,10,9,0,Foul on Obinna Oleka.
+UCLA,Arizona State,15,16,10,9,1,Ike Anigbogu made Free Throw.
+UCLA,Arizona State,16,16,10,9,1,Ike Anigbogu made Free Throw.
+UCLA,Arizona State,16,18,10,21,1,Obinna Oleka made Dunk. Assisted by Kodi Justice.
+UCLA,Arizona State,16,18,10,32,0,Aaron Holiday Turnover.
+UCLA,Arizona State,16,18,10,42,0,Torian Graham missed Three Point Jumper.
+UCLA,Arizona State,16,18,10,42,0,Lonzo Ball Defensive Rebound.
+UCLA,Arizona State,16,18,10,48,0,Lonzo Ball Turnover.
+UCLA,Arizona State,16,18,10,48,0,Kodi Justice Steal.
+UCLA,Arizona State,16,18,10,48,0,Kodi Justice Turnover.
+UCLA,Arizona State,16,18,11,12,0,Gyorgy Goloman missed Three Point Jumper.
+UCLA,Arizona State,16,18,11,12,0,UCLA Offensive Rebound.
+UCLA,Arizona State,18,18,11,17,1,Gyorgy Goloman made Layup. Assisted by Lonzo Ball.
+UCLA,Arizona State,18,18,11,28,0,Shannon Evans II Turnover.
+UCLA,Arizona State,18,18,11,28,0,Lonzo Ball Steal.
+UCLA,Arizona State,18,18,11,35,0,Lonzo Ball missed Layup.
+UCLA,Arizona State,18,18,11,35,0,Ike Anigbogu Offensive Rebound.
+UCLA,Arizona State,20,18,11,35,1,Ike Anigbogu made Two Point Tip Shot.
+UCLA,Arizona State,20,18,11,56,0,Shannon Evans II Turnover.
+UCLA,Arizona State,20,18,11,56,0,Bryce Alford Steal.
+UCLA,Arizona State,22,18,12,6,1,Ike Anigbogu made Layup. Assisted by Aaron Holiday.
+UCLA,Arizona State,22,21,12,25,1,Kodi Justice made Three Point Jumper. Assisted by Torian Graham.
+UCLA,Arizona State,25,21,12,52,1,Bryce Alford made Three Point Jumper. Assisted by Gyorgy Goloman.
+UCLA,Arizona State,25,21,13,11,0,Tra Holder missed Three Point Jumper.
+UCLA,Arizona State,25,21,13,11,0,Aaron Holiday Defensive Rebound.
+UCLA,Arizona State,27,21,13,22,1,Aaron Holiday made Layup.
+UCLA,Arizona State,27,21,13,38,0,Tra Holder missed Layup.
+UCLA,Arizona State,27,21,13,38,0,Gyorgy Goloman Block.
+UCLA,Arizona State,27,21,13,38,0,Gyorgy Goloman Defensive Rebound.
+UCLA,Arizona State,29,21,13,45,1,Ike Anigbogu made Dunk. Assisted by Lonzo Ball.
+UCLA,Arizona State,29,21,13,45,0,Arizona State  Timeout
+UCLA,Arizona State,29,24,13,51,1,Torian Graham made Three Point Jumper. Assisted by Shannon Evans II.
+UCLA,Arizona State,29,24,14,11,0,Foul on Tra Holder.
+UCLA,Arizona State,30,24,14,11,1,Aaron Holiday made Free Throw.
+UCLA,Arizona State,31,24,14,11,1,Aaron Holiday made Free Throw.
+UCLA,Arizona State,31,27,14,23,1,Torian Graham made Three Point Jumper. Assisted by Tra Holder.
+UCLA,Arizona State,33,27,14,48,1,TJ Leaf made Dunk. Assisted by Thomas Welsh.
+UCLA,Arizona State,33,27,15,15,0,Kodi Justice missed Jumper.
+UCLA,Arizona State,33,27,15,15,0,TJ Leaf Block.
+UCLA,Arizona State,33,27,15,15,0,Arizona State Offensive Rebound.
+UCLA,Arizona State,33,27,15,21,0,Shannon Evans II missed Three Point Jumper.
+UCLA,Arizona State,33,27,15,21,0,Aaron Holiday Defensive Rebound.
+UCLA,Arizona State,36,27,15,46,1,Aaron Holiday made Three Point Jumper. Assisted by Thomas Welsh.
+UCLA,Arizona State,36,27,16,0,0,Kodi Justice missed Three Point Jumper.
+UCLA,Arizona State,36,27,16,0,0,Aaron Holiday Defensive Rebound.
+UCLA,Arizona State,38,27,16,8,1,TJ Leaf made Layup. Assisted by Aaron Holiday.
+UCLA,Arizona State,38,27,16,11,0,Arizona State  Timeout
+UCLA,Arizona State,38,27,16,11,0,Official TV Timeout
+UCLA,Arizona State,38,27,16,23,0,Torian Graham missed Three Point Jumper.
+UCLA,Arizona State,38,27,16,23,0,Thomas Welsh Defensive Rebound.
+UCLA,Arizona State,38,27,16,38,0,Aaron Holiday missed Three Point Jumper.
+UCLA,Arizona State,38,27,16,38,0,Thomas Welsh Offensive Rebound.
+UCLA,Arizona State,40,27,16,38,1,Thomas Welsh made Two Point Tip Shot.
+UCLA,Arizona State,40,27,16,54,0,Obinna Oleka missed Three Point Jumper.
+UCLA,Arizona State,40,27,16,54,0,Isaac Hamilton Defensive Rebound.
+UCLA,Arizona State,40,27,17,10,0,Foul on Shannon Evans II.
+UCLA,Arizona State,40,27,17,11,0,Isaac Hamilton missed Three Point Jumper.
+UCLA,Arizona State,40,27,17,11,0,Obinna Oleka Defensive Rebound.
+UCLA,Arizona State,40,27,17,22,0,Tra Holder missed Jumper.
+UCLA,Arizona State,40,27,17,22,0,Torian Graham Offensive Rebound.
+UCLA,Arizona State,40,29,17,26,1,Torian Graham made Dunk.
+UCLA,Arizona State,43,29,17,40,1,Bryce Alford made Three Point Jumper. Assisted by Aaron Holiday.
+UCLA,Arizona State,43,29,17,55,0,Shannon Evans II missed Three Point Jumper.
+UCLA,Arizona State,43,29,17,55,0,Obinna Oleka Offensive Rebound.
+UCLA,Arizona State,43,31,18,1,1,Obinna Oleka made Layup.
+UCLA,Arizona State,43,31,18,4,0,UCLA  Timeout
+UCLA,Arizona State,43,31,18,5,0,Bryce Alford missed Layup.
+UCLA,Arizona State,43,31,18,5,0,Shannon Evans II Block.
+UCLA,Arizona State,43,31,18,5,0,Kodi Justice Defensive Rebound.
+UCLA,Arizona State,43,34,18,25,1,Torian Graham made Three Point Jumper. Assisted by Tra Holder.
+UCLA,Arizona State,43,34,18,50,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,43,34,18,50,0,Arizona State Defensive Rebound.
+UCLA,Arizona State,43,34,19,2,0,Torian Graham missed Dunk.
+UCLA,Arizona State,43,34,19,2,0,Bryce Alford Defensive Rebound.
+UCLA,Arizona State,43,34,19,7,0,Lonzo Ball Turnover.
+UCLA,Arizona State,43,34,19,24,0,Kodi Justice Turnover.
+UCLA,Arizona State,45,34,19,42,1,TJ Leaf made Layup. Assisted by Aaron Holiday.
+UCLA,Arizona State,45,36,19,57,1,Obinna Oleka made Layup. Assisted by Shannon Evans II.
+UCLA,Arizona State,45,36,20,0,0,End of 1st half
+UCLA,Arizona State,45,36,20,0,0,Jump Ball won by Arizona State
+UCLA,Arizona State,45,36,20,10,0,Tra Holder Turnover.
+UCLA,Arizona State,45,36,20,25,0,Isaac Hamilton Turnover.
+UCLA,Arizona State,45,36,20,25,0,Kodi Justice Steal.
+UCLA,Arizona State,45,36,20,36,0,Torian Graham missed Three Point Jumper.
+UCLA,Arizona State,45,36,20,36,0,Lonzo Ball Defensive Rebound.
+UCLA,Arizona State,45,36,20,48,0,Lonzo Ball missed Three Point Jumper.
+UCLA,Arizona State,45,36,20,48,0,Shannon Evans II Defensive Rebound.
+UCLA,Arizona State,45,36,21,0,0,Shannon Evans II missed Jumper.
+UCLA,Arizona State,45,36,21,0,0,Thomas Welsh Defensive Rebound.
+UCLA,Arizona State,45,36,21,8,0,Isaac Hamilton missed Three Point Jumper.
+UCLA,Arizona State,45,36,21,8,0,Torian Graham Defensive Rebound.
+UCLA,Arizona State,45,38,21,27,1,Torian Graham made Layup.
+UCLA,Arizona State,45,38,21,53,0,Bryce Alford Turnover.
+UCLA,Arizona State,45,38,21,53,0,Shannon Evans II Steal.
+UCLA,Arizona State,45,38,21,58,0,Torian Graham missed Layup.
+UCLA,Arizona State,45,38,21,58,0,Lonzo Ball Block.
+UCLA,Arizona State,45,38,21,58,0,Arizona State Offensive Rebound.
+UCLA,Arizona State,45,41,22,7,1,Torian Graham made Three Point Jumper. Assisted by Shannon Evans II.
+UCLA,Arizona State,45,41,22,28,0,TJ Leaf missed Jumper.
+UCLA,Arizona State,45,41,22,28,0,Obinna Oleka Block.
+UCLA,Arizona State,45,41,22,28,0,Shannon Evans II Defensive Rebound.
+UCLA,Arizona State,45,43,22,35,1,Shannon Evans II made Layup.
+UCLA,Arizona State,45,43,22,45,0,UCLA  Timeout
+UCLA,Arizona State,47,43,22,56,1,TJ Leaf made Layup. Assisted by Lonzo Ball.
+UCLA,Arizona State,47,43,23,12,0,Torian Graham missed Three Point Jumper.
+UCLA,Arizona State,47,43,23,12,0,TJ Leaf Defensive Rebound.
+UCLA,Arizona State,47,43,23,27,0,Thomas Welsh missed Jumper.
+UCLA,Arizona State,47,43,23,27,0,Kodi Justice Defensive Rebound.
+UCLA,Arizona State,47,45,23,37,1,Obinna Oleka made Dunk. Assisted by Shannon Evans II.
+UCLA,Arizona State,47,45,23,56,0,Lonzo Ball missed Three Point Jumper.
+UCLA,Arizona State,47,45,23,56,0,Thomas Welsh Offensive Rebound.
+UCLA,Arizona State,50,45,24,0,1,Bryce Alford made Three Point Jumper. Assisted by Thomas Welsh.
+UCLA,Arizona State,50,45,24,19,0,Foul on TJ Leaf.
+UCLA,Arizona State,50,45,24,19,0,Official TV Timeout
+UCLA,Arizona State,50,46,24,19,1,Kodi Justice made Free Throw.
+UCLA,Arizona State,50,47,24,19,1,Kodi Justice made Free Throw.
+UCLA,Arizona State,50,47,24,34,0,TJ Leaf Turnover.
+UCLA,Arizona State,50,47,24,34,0,Torian Graham Steal.
+UCLA,Arizona State,50,49,24,39,1,Shannon Evans II made Dunk. Assisted by Torian Graham.
+UCLA,Arizona State,52,49,24,49,1,Thomas Welsh made Jumper. Assisted by Bryce Alford.
+UCLA,Arizona State,52,49,25,14,0,Shannon Evans II missed Layup.
+UCLA,Arizona State,52,49,25,14,0,Thomas Welsh Defensive Rebound.
+UCLA,Arizona State,54,49,25,34,1,TJ Leaf made Layup. Assisted by Isaac Hamilton.
+UCLA,Arizona State,54,49,25,34,0,Foul on Obinna Oleka.
+UCLA,Arizona State,55,49,25,34,1,TJ Leaf made Free Throw.
+UCLA,Arizona State,55,49,25,55,0,Foul on Bryce Alford.
+UCLA,Arizona State,55,50,25,55,1,Shannon Evans II made Free Throw.
+UCLA,Arizona State,55,50,25,55,0,Shannon Evans II missed Free Throw.
+UCLA,Arizona State,55,50,25,55,0,Obinna Oleka Offensive Rebound.
+UCLA,Arizona State,55,50,25,56,0,Obinna Oleka missed Layup.
+UCLA,Arizona State,55,50,25,56,0,TJ Leaf Defensive Rebound.
+UCLA,Arizona State,55,50,26,3,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,55,50,26,3,0,Lonzo Ball Offensive Rebound.
+UCLA,Arizona State,58,50,26,14,1,Aaron Holiday made Three Point Jumper. Assisted by Bryce Alford.
+UCLA,Arizona State,58,52,26,35,1,Kodi Justice made Layup.
+UCLA,Arizona State,58,52,26,54,0,Foul on Torian Graham.
+UCLA,Arizona State,58,52,27,3,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,58,52,27,3,0,Ike Anigbogu Offensive Rebound.
+UCLA,Arizona State,58,52,27,11,0,Foul on Shannon Evans II.
+UCLA,Arizona State,59,52,27,11,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,60,52,27,11,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,60,54,27,20,1,Obinna Oleka made Layup. Assisted by Shannon Evans II.
+UCLA,Arizona State,60,54,27,30,0,TJ Leaf missed Jumper.
+UCLA,Arizona State,60,54,27,30,0,Ike Anigbogu Offensive Rebound.
+UCLA,Arizona State,63,54,27,35,1,Aaron Holiday made Three Point Jumper. Assisted by Ike Anigbogu.
+UCLA,Arizona State,63,57,28,4,1,Torian Graham made Three Point Jumper. Assisted by Tra Holder.
+UCLA,Arizona State,63,57,28,15,0,Foul on Torian Graham.
+UCLA,Arizona State,63,57,28,15,0,Official TV Timeout
+UCLA,Arizona State,63,57,28,27,0,Gyorgy Goloman missed Layup.
+UCLA,Arizona State,63,57,28,27,0,Obinna Oleka Defensive Rebound.
+UCLA,Arizona State,63,57,28,41,0,Tra Holder Turnover.
+UCLA,Arizona State,65,57,29,1,1,Lonzo Ball made Dunk. Assisted by Aaron Holiday.
+UCLA,Arizona State,65,57,29,17,0,Foul on Gyorgy Goloman.
+UCLA,Arizona State,65,57,29,39,0,Shannon Evans II missed Three Point Jumper.
+UCLA,Arizona State,65,57,29,39,0,TJ Leaf Defensive Rebound.
+UCLA,Arizona State,67,57,29,48,1,Ike Anigbogu made Dunk. Assisted by Lonzo Ball.
+UCLA,Arizona State,67,57,30,7,0,Torian Graham missed Three Point Jumper.
+UCLA,Arizona State,67,57,30,7,0,Tra Holder Offensive Rebound.
+UCLA,Arizona State,67,57,30,7,0,Foul on Isaac Hamilton.
+UCLA,Arizona State,67,57,30,24,0,Shannon Evans II missed Layup.
+UCLA,Arizona State,67,57,30,24,0,Ike Anigbogu Block.
+UCLA,Arizona State,67,57,30,24,0,Obinna Oleka Offensive Rebound.
+UCLA,Arizona State,67,57,30,29,0,Obinna Oleka missed Layup.
+UCLA,Arizona State,67,57,30,29,0,Ike Anigbogu Block.
+UCLA,Arizona State,67,57,30,29,0,Ike Anigbogu Defensive Rebound.
+UCLA,Arizona State,67,57,30,36,0,Aaron Holiday missed Three Point Jumper.
+UCLA,Arizona State,67,57,30,36,0,Shannon Evans II Defensive Rebound.
+UCLA,Arizona State,67,57,30,51,0,Kodi Justice missed Three Point Jumper.
+UCLA,Arizona State,67,57,30,51,0,Lonzo Ball Defensive Rebound.
+UCLA,Arizona State,69,57,31,4,1,Gyorgy Goloman made Jumper.
+UCLA,Arizona State,69,57,31,14,0,Arizona State  Timeout
+UCLA,Arizona State,69,60,31,16,1,Shannon Evans II made Three Point Jumper. Assisted by Kodi Justice.
+UCLA,Arizona State,69,60,31,31,0,Aaron Holiday missed Layup.
+UCLA,Arizona State,69,60,31,31,0,Obinna Oleka Block.
+UCLA,Arizona State,69,60,31,31,0,UCLA Offensive Rebound.
+UCLA,Arizona State,71,60,31,52,1,Ike Anigbogu made Layup. Assisted by Isaac Hamilton.
+UCLA,Arizona State,71,60,32,6,0,Kodi Justice missed Three Point Jumper.
+UCLA,Arizona State,71,60,32,6,0,Lonzo Ball Defensive Rebound.
+UCLA,Arizona State,71,60,32,15,0,Aaron Holiday missed Jumper.
+UCLA,Arizona State,71,60,32,15,0,Obinna Oleka Defensive Rebound.
+UCLA,Arizona State,71,60,32,26,0,Kodi Justice Turnover.
+UCLA,Arizona State,71,60,32,26,0,Gyorgy Goloman Steal.
+UCLA,Arizona State,74,60,32,32,1,Aaron Holiday made Three Point Jumper. Assisted by Isaac Hamilton.
+UCLA,Arizona State,74,60,32,57,0,Shannon Evans II missed Layup.
+UCLA,Arizona State,74,60,32,57,0,Lonzo Ball Defensive Rebound.
+UCLA,Arizona State,74,60,33,7,0,Aaron Holiday missed Three Point Jumper.
+UCLA,Arizona State,74,60,33,7,0,Torian Graham Defensive Rebound.
+UCLA,Arizona State,74,60,33,33,0,Torian Graham missed Three Point Jumper.
+UCLA,Arizona State,74,60,33,33,0,Lonzo Ball Defensive Rebound.
+UCLA,Arizona State,74,60,33,50,0,Ike Anigbogu missed Jumper.
+UCLA,Arizona State,74,60,33,50,0,Lonzo Ball Offensive Rebound.
+UCLA,Arizona State,74,60,33,51,0,Foul on Tra Holder.
+UCLA,Arizona State,74,60,33,51,0,Official TV Timeout
+UCLA,Arizona State,74,60,34,9,0,Foul on Kodi Justice.
+UCLA,Arizona State,74,60,34,9,0,Foul on Shannon Evans II.
+UCLA,Arizona State,75,60,34,9,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,76,60,34,9,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,76,60,34,26,0,Tra Holder missed Layup.
+UCLA,Arizona State,76,60,34,26,0,Ike Anigbogu Block.
+UCLA,Arizona State,76,60,34,26,0,Aaron Holiday Defensive Rebound.
+UCLA,Arizona State,78,60,34,43,1,Isaac Hamilton made Layup. Assisted by Aaron Holiday.
+UCLA,Arizona State,78,63,34,49,1,Kodi Justice made Three Point Jumper. Assisted by Shannon Evans II.
+UCLA,Arizona State,78,63,35,25,0,Aaron Holiday missed Jumper.
+UCLA,Arizona State,78,63,35,25,0,Tra Holder Defensive Rebound.
+UCLA,Arizona State,78,63,35,34,0,Shannon Evans II missed Three Point Jumper.
+UCLA,Arizona State,78,63,35,34,0,Isaac Hamilton Defensive Rebound.
+UCLA,Arizona State,78,63,35,47,0,TJ Leaf Turnover.
+UCLA,Arizona State,78,63,35,47,0,Kodi Justice Steal.
+UCLA,Arizona State,78,66,35,54,1,Torian Graham made Three Point Jumper. Assisted by Shannon Evans II.
+UCLA,Arizona State,80,66,36,18,1,TJ Leaf made Dunk. Assisted by Bryce Alford.
+UCLA,Arizona State,80,66,36,45,0,Official TV Timeout
+UCLA,Arizona State,80,69,36,48,1,Kodi Justice made Three Point Jumper. Assisted by Torian Graham.
+UCLA,Arizona State,80,69,37,9,0,TJ Leaf missed Layup.
+UCLA,Arizona State,80,69,37,9,0,Kodi Justice Defensive Rebound.
+UCLA,Arizona State,80,69,37,11,0,Foul on TJ Leaf.
+UCLA,Arizona State,80,69,37,23,0,Torian Graham missed Jumper.
+UCLA,Arizona State,80,69,37,23,0,TJ Leaf Defensive Rebound.
+UCLA,Arizona State,80,69,37,40,0,Thomas Welsh missed Layup.
+UCLA,Arizona State,80,69,37,40,0,Thomas Welsh Offensive Rebound.
+UCLA,Arizona State,82,69,37,44,1,Thomas Welsh made Layup.
+UCLA,Arizona State,82,72,37,53,1,Kodi Justice made Three Point Jumper. Assisted by Tra Holder.
+UCLA,Arizona State,82,72,37,55,0,Arizona State  Timeout
+UCLA,Arizona State,82,72,38,8,0,Aaron Holiday Turnover.
+UCLA,Arizona State,82,72,38,8,0,Tra Holder Steal.
+UCLA,Arizona State,82,72,38,13,0,Foul on Aaron Holiday.
+UCLA,Arizona State,82,72,38,13,0,Tra Holder missed Free Throw.
+UCLA,Arizona State,82,72,38,13,0,Arizona State Deadball Team Rebound.
+UCLA,Arizona State,82,73,38,13,1,Tra Holder made Free Throw.
+UCLA,Arizona State,82,73,38,30,0,Foul on Torian Graham.
+UCLA,Arizona State,82,73,38,30,0,Lonzo Ball missed Free Throw.
+UCLA,Arizona State,82,73,38,30,0,Torian Graham Defensive Rebound.
+UCLA,Arizona State,82,73,38,36,0,Tra Holder missed Three Point Jumper.
+UCLA,Arizona State,82,73,38,36,0,TJ Leaf Defensive Rebound.
+UCLA,Arizona State,82,73,38,44,0,Foul on Kodi Justice.
+UCLA,Arizona State,83,73,38,44,1,TJ Leaf made Free Throw.
+UCLA,Arizona State,84,73,38,44,1,TJ Leaf made Free Throw.
+UCLA,Arizona State,84,75,38,59,1,Tra Holder made Layup.
+UCLA,Arizona State,84,75,39,3,0,Foul on Tra Holder.
+UCLA,Arizona State,85,75,39,3,1,Aaron Holiday made Free Throw.
+UCLA,Arizona State,85,75,39,3,0,Aaron Holiday missed Free Throw.
+UCLA,Arizona State,85,75,39,3,0,Kodi Justice Defensive Rebound.
+UCLA,Arizona State,85,75,39,12,0,Kodi Justice missed Dunk.
+UCLA,Arizona State,85,75,39,12,0,TJ Leaf Defensive Rebound.
+UCLA,Arizona State,85,75,39,37,0,Foul on Tra Holder.
+UCLA,Arizona State,86,75,39,37,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,87,75,39,37,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,87,75,39,37,0,UCLA  Timeout
+UCLA,Arizona State,87,75,39,54,0,Obinna Oleka missed Layup.
+UCLA,Arizona State,87,75,39,54,0,Torian Graham Offensive Rebound.
+UCLA,Arizona State,87,75,39,58,0,Torian Graham missed Three Point Jumper.
+UCLA,Arizona State,87,75,39,58,0,UCLA Defensive Rebound.
+UCLA,Arizona State,87,75,40,0,0,End of Game

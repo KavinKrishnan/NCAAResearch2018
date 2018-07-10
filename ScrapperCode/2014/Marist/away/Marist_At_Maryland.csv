@@ -1,0 +1,358 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Marist,Maryland,0,0,0,0,0,Jump Ball won by Maryland
+Marist,Maryland,0,0,0,5,0,Jake Layman missed Layup.
+Marist,Maryland,0,0,0,5,0,Shaquille Cleare Offensive Rebound.
+Marist,Maryland,0,2,0,5,1,Shaquille Cleare made Two Point Tip Shot.
+Marist,Maryland,0,2,0,28,0,Chavaughn Lewis Turnover.
+Marist,Maryland,0,2,0,28,0,Nick Faust Steal.
+Marist,Maryland,0,2,0,33,0,Foul on Chavaughn Lewis.
+Marist,Maryland,0,2,0,34,0,Jake Layman missed Three Point Jumper.
+Marist,Maryland,0,2,0,34,0,Chavaughn Lewis Defensive Rebound.
+Marist,Maryland,0,2,0,42,0,Chavaughn Lewis Turnover.
+Marist,Maryland,0,2,0,57,0,Dez Wells Turnover.
+Marist,Maryland,0,2,0,57,0,Jay Bowie Steal.
+Marist,Maryland,0,2,1,18,0,Foul on Roddy Peters.
+Marist,Maryland,0,2,1,56,0,Foul on Dez Wells.
+Marist,Maryland,0,2,1,56,0,Jay Bowie missed Free Throw.
+Marist,Maryland,0,2,1,56,0,Marist Deadball Team Rebound.
+Marist,Maryland,1,2,1,56,1,Jay Bowie made Free Throw.
+Marist,Maryland,1,2,2,13,0,Jake Layman missed Three Point Jumper.
+Marist,Maryland,1,2,2,13,0,Adam Kemp Defensive Rebound.
+Marist,Maryland,1,2,2,29,0,Khallid Hart missed Layup.
+Marist,Maryland,1,2,2,29,0,Adam Kemp Offensive Rebound.
+Marist,Maryland,3,2,2,29,1,Adam Kemp made Two Point Tip Shot.
+Marist,Maryland,3,2,3,6,0,Roddy Peters missed Layup.
+Marist,Maryland,3,2,3,6,0,Adam Kemp Block.
+Marist,Maryland,3,2,3,6,0,Maryland Offensive Rebound.
+Marist,Maryland,3,2,3,6,0,Dez Wells missed Jumper.
+Marist,Maryland,3,2,3,6,0,Jay Bowie Defensive Rebound.
+Marist,Maryland,3,2,3,7,0,Foul on Evan Smotrycz.
+Marist,Maryland,3,2,3,18,0,Jay Bowie missed Three Point Jumper.
+Marist,Maryland,3,2,3,18,0,Nick Faust Defensive Rebound.
+Marist,Maryland,3,4,3,29,1,Nick Faust made Jumper.
+Marist,Maryland,3,4,3,36,0,Foul on Dez Wells.
+Marist,Maryland,3,4,3,40,0,Jay Bowie missed Jumper.
+Marist,Maryland,3,4,3,40,0,Pieter Prinsloo Offensive Rebound.
+Marist,Maryland,3,4,3,50,0,Khallid Hart missed Layup.
+Marist,Maryland,3,4,3,50,0,Adam Kemp Offensive Rebound.
+Marist,Maryland,3,4,3,51,0,Foul on Shaquille Cleare.
+Marist,Maryland,3,4,4,4,0,Official TV Timeout
+Marist,Maryland,3,4,4,17,0,Chavaughn Lewis Turnover.
+Marist,Maryland,3,4,4,28,0,Evan Smotrycz missed Three Point Jumper.
+Marist,Maryland,3,4,4,28,0,Khallid Hart Defensive Rebound.
+Marist,Maryland,3,4,4,53,0,Chavaughn Lewis missed Jumper.
+Marist,Maryland,3,4,4,53,0,Charles Mitchell Defensive Rebound.
+Marist,Maryland,3,4,5,16,0,Jake Layman missed Dunk.
+Marist,Maryland,3,4,5,16,0,Manny Thomas Defensive Rebound.
+Marist,Maryland,3,4,5,34,0,Khallid Hart Turnover.
+Marist,Maryland,3,4,5,34,0,Maryland  Timeout
+Marist,Maryland,3,4,5,44,0,Foul on Adam Kemp.
+Marist,Maryland,3,4,5,47,0,Official TV Timeout
+Marist,Maryland,3,4,5,56,0,Foul on Jay Bowie.
+Marist,Maryland,3,4,5,56,0,Charles Mitchell missed Free Throw.
+Marist,Maryland,3,4,5,56,0,Maryland Deadball Team Rebound.
+Marist,Maryland,3,4,5,56,0,Charles Mitchell missed Free Throw.
+Marist,Maryland,3,4,5,56,0,Chavaughn Lewis Defensive Rebound.
+Marist,Maryland,3,4,6,15,0,Adam Kemp missed Jumper.
+Marist,Maryland,3,4,6,15,0,Charles Mitchell Defensive Rebound.
+Marist,Maryland,3,4,6,34,0,Foul on Jay Bowie.
+Marist,Maryland,3,5,6,34,1,Evan Smotrycz made Free Throw.
+Marist,Maryland,3,6,6,34,1,Evan Smotrycz made Free Throw.
+Marist,Maryland,5,6,7,3,1,Khallid Hart made Layup.
+Marist,Maryland,5,8,7,26,1,Charles Mitchell made Jumper.
+Marist,Maryland,5,8,7,45,0,Foul on Chavaughn Lewis.
+Marist,Maryland,5,8,7,45,0,Chavaughn Lewis Turnover.
+Marist,Maryland,5,8,8,13,0,Roddy Peters Turnover.
+Marist,Maryland,5,8,8,13,0,Isaiah Morton Steal.
+Marist,Maryland,5,8,8,26,0,Official TV Timeout
+Marist,Maryland,5,8,8,34,0,Foul on Evan Smotrycz.
+Marist,Maryland,5,8,8,49,0,Isaiah Morton missed Three Point Jumper.
+Marist,Maryland,5,8,8,49,0,Phillip Lawrence Offensive Rebound.
+Marist,Maryland,5,8,8,55,0,Phillip Lawrence Turnover.
+Marist,Maryland,5,8,8,55,0,Damonte Dodd Steal.
+Marist,Maryland,5,10,9,5,1,Charles Mitchell made Layup.
+Marist,Maryland,5,10,9,40,0,Foul on Varun Ram.
+Marist,Maryland,6,10,9,40,1,Isaiah Morton made Free Throw.
+Marist,Maryland,6,10,9,40,0,Isaiah Morton missed Free Throw.
+Marist,Maryland,6,10,9,40,0,Shaquille Cleare Defensive Rebound.
+Marist,Maryland,6,10,10,1,0,Nick Faust missed Jumper.
+Marist,Maryland,6,10,10,1,0,Phillip Lawrence Block.
+Marist,Maryland,6,10,10,1,0,Marist Defensive Rebound.
+Marist,Maryland,6,10,10,1,0,Foul on Damonte Dodd.
+Marist,Maryland,6,10,10,1,0,Chavaughn Lewis missed Free Throw.
+Marist,Maryland,6,10,10,1,0,Marist Deadball Team Rebound.
+Marist,Maryland,6,10,10,1,0,Chavaughn Lewis missed Free Throw.
+Marist,Maryland,6,10,10,1,0,Nick Faust Defensive Rebound.
+Marist,Maryland,6,10,10,6,0,Roddy Peters missed Layup.
+Marist,Maryland,6,10,10,6,0,Maryland Offensive Rebound.
+Marist,Maryland,6,10,10,16,0,Jake Layman Turnover.
+Marist,Maryland,6,10,10,28,0,Chavaughn Lewis missed Jumper.
+Marist,Maryland,6,10,10,28,0,Nick Faust Defensive Rebound.
+Marist,Maryland,6,10,10,39,0,Foul on Phillip Lawrence.
+Marist,Maryland,6,10,10,46,0,Dez Wells missed Jumper.
+Marist,Maryland,6,10,10,46,0,Jake Layman Offensive Rebound.
+Marist,Maryland,6,10,11,4,0,Foul on T.J. Curry.
+Marist,Maryland,6,11,11,4,1,Roddy Peters made Free Throw.
+Marist,Maryland,6,12,11,4,1,Roddy Peters made Free Throw.
+Marist,Maryland,6,12,11,41,0,Adam Kemp missed Jumper.
+Marist,Maryland,6,12,11,41,0,Jake Layman Block.
+Marist,Maryland,6,12,11,41,0,Adam Kemp Offensive Rebound.
+Marist,Maryland,6,12,11,53,0,Adam Kemp Turnover.
+Marist,Maryland,6,12,11,53,0,Shaquille Cleare Steal.
+Marist,Maryland,6,12,11,56,0,Nick Faust missed Layup.
+Marist,Maryland,6,12,11,56,0,Isaiah Morton Defensive Rebound.
+Marist,Maryland,8,12,12,1,1,Chavaughn Lewis made Layup. Assisted by Isaiah Morton.
+Marist,Maryland,8,14,12,6,1,Jake Layman made Dunk. Assisted by Nick Faust.
+Marist,Maryland,8,14,12,25,0,T.J. Curry missed Three Point Jumper.
+Marist,Maryland,8,14,12,25,0,Jake Layman Defensive Rebound.
+Marist,Maryland,8,17,12,37,1,Jake Layman made Three Point Jumper. Assisted by Varun Ram.
+Marist,Maryland,8,17,12,42,0,Marist  Timeout
+Marist,Maryland,10,17,13,2,1,Chavaughn Lewis made Layup.
+Marist,Maryland,10,17,13,19,0,Nick Faust missed Three Point Jumper.
+Marist,Maryland,10,17,13,19,0,Jake Layman Offensive Rebound.
+Marist,Maryland,10,17,13,31,0,Roddy Peters missed Layup.
+Marist,Maryland,10,17,13,31,0,Adam Kemp Block.
+Marist,Maryland,10,17,13,31,0,Maryland Offensive Rebound.
+Marist,Maryland,10,17,13,33,0,Official TV Timeout
+Marist,Maryland,10,17,13,37,0,Jump Ball won by Marist
+Marist,Maryland,10,17,13,37,0,Evan Smotrycz Turnover.
+Marist,Maryland,10,17,13,37,0,Khallid Hart Steal.
+Marist,Maryland,10,17,13,46,0,Khallid Hart Turnover.
+Marist,Maryland,10,17,13,46,0,Charles Mitchell Steal.
+Marist,Maryland,10,17,13,51,0,Foul on Adam Kemp.
+Marist,Maryland,10,17,13,51,0,Charles Mitchell missed Free Throw.
+Marist,Maryland,10,17,13,51,0,Marist Defensive Rebound.
+Marist,Maryland,10,17,14,3,0,Khallid Hart missed Jumper.
+Marist,Maryland,10,17,14,3,0,Charles Mitchell Defensive Rebound.
+Marist,Maryland,10,17,14,39,0,Foul on Damonte Dodd.
+Marist,Maryland,10,17,14,39,0,Damonte Dodd Turnover.
+Marist,Maryland,12,17,14,50,1,Pieter Prinsloo made Layup. Assisted by Chavaughn Lewis.
+Marist,Maryland,12,17,14,50,0,Foul on Varun Ram.
+Marist,Maryland,12,17,14,51,0,Pieter Prinsloo missed Free Throw.
+Marist,Maryland,12,17,14,52,0,Charles Mitchell Defensive Rebound.
+Marist,Maryland,12,17,15,8,0,Dez Wells Turnover.
+Marist,Maryland,12,17,15,21,0,Foul on Nick Faust.
+Marist,Maryland,13,17,15,21,1,Chavaughn Lewis made Free Throw.
+Marist,Maryland,14,17,15,21,1,Chavaughn Lewis made Free Throw.
+Marist,Maryland,14,17,15,34,0,Foul on T.J. Curry.
+Marist,Maryland,14,17,15,34,0,Charles Mitchell missed Free Throw.
+Marist,Maryland,14,17,15,34,0,Maryland Deadball Team Rebound.
+Marist,Maryland,14,18,15,35,1,Charles Mitchell made Free Throw.
+Marist,Maryland,16,18,15,44,1,Khallid Hart made Layup.
+Marist,Maryland,16,18,15,59,0,Nick Faust Turnover.
+Marist,Maryland,16,18,15,59,0,Phillip Lawrence Steal.
+Marist,Maryland,16,18,16,4,0,Official TV Timeout
+Marist,Maryland,16,18,16,4,0,Foul on Roddy Peters.
+Marist,Maryland,17,18,16,4,1,Khallid Hart made Free Throw.
+Marist,Maryland,18,18,16,4,1,Khallid Hart made Free Throw.
+Marist,Maryland,18,18,16,46,0,Dez Wells missed Layup.
+Marist,Maryland,18,18,16,56,0,Roddy Peters Offensive Rebound.
+Marist,Maryland,18,18,16,56,0,Roddy Peters missed Layup.
+Marist,Maryland,18,18,16,56,0,Phillip Lawrence Block.
+Marist,Maryland,18,18,16,56,0,Khallid Hart Defensive Rebound.
+Marist,Maryland,18,18,16,56,0,Khallid Hart missed Layup.
+Marist,Maryland,18,18,16,56,0,Dez Wells Block.
+Marist,Maryland,18,18,16,56,0,Chavaughn Lewis Offensive Rebound.
+Marist,Maryland,18,18,16,56,0,Chavaughn Lewis Turnover.
+Marist,Maryland,18,21,17,1,1,Jake Layman made Three Point Jumper. Assisted by Varun Ram.
+Marist,Maryland,18,21,17,35,0,T.J. Curry Turnover.
+Marist,Maryland,18,21,17,35,0,Varun Ram Steal.
+Marist,Maryland,18,23,17,42,1,Jake Layman made Layup. Assisted by Varun Ram.
+Marist,Maryland,18,23,17,42,0,Marist  Timeout
+Marist,Maryland,18,23,18,7,0,Khallid Hart missed Jumper.
+Marist,Maryland,18,23,18,7,0,Jake Layman Defensive Rebound.
+Marist,Maryland,18,23,18,17,0,Varun Ram Turnover.
+Marist,Maryland,18,23,18,17,0,Khallid Hart Steal.
+Marist,Maryland,18,23,18,22,0,Khallid Hart missed Layup.
+Marist,Maryland,18,23,18,22,0,Shaquille Cleare Defensive Rebound.
+Marist,Maryland,18,23,18,28,0,Jake Layman missed Layup.
+Marist,Maryland,18,23,18,28,0,Charles Mitchell Offensive Rebound.
+Marist,Maryland,18,25,18,28,1,Charles Mitchell made Two Point Tip Shot.
+Marist,Maryland,18,25,18,44,0,T.J. Curry missed Jumper.
+Marist,Maryland,18,25,18,44,0,Charles Mitchell Block.
+Marist,Maryland,18,25,18,44,0,Pieter Prinsloo Offensive Rebound.
+Marist,Maryland,20,25,18,54,1,Pieter Prinsloo made Jumper.
+Marist,Maryland,20,25,19,2,0,Jake Layman missed Jumper.
+Marist,Maryland,20,25,19,2,0,Nick Faust Offensive Rebound.
+Marist,Maryland,20,25,19,15,0,Foul on Phillip Lawrence.
+Marist,Maryland,20,26,19,15,1,Charles Mitchell made Free Throw.
+Marist,Maryland,20,26,19,15,0,Charles Mitchell missed Free Throw.
+Marist,Maryland,20,26,19,15,0,Pieter Prinsloo Defensive Rebound.
+Marist,Maryland,20,26,19,38,0,Isaiah Morton missed Jumper.
+Marist,Maryland,20,26,19,38,0,Jake Layman Defensive Rebound.
+Marist,Maryland,20,26,19,56,0,Nick Faust missed Three Point Jumper.
+Marist,Maryland,20,26,19,56,0,Isaiah Morton Defensive Rebound.
+Marist,Maryland,20,26,20,0,0,End of 1st half
+Marist,Maryland,20,26,20,0,0,Jump Ball won by Maryland
+Marist,Maryland,20,28,20,8,1,Shaquille Cleare made Dunk. Assisted by Dez Wells.
+Marist,Maryland,20,28,20,28,0,Adam Kemp missed Layup.
+Marist,Maryland,20,28,20,28,0,Jake Layman Defensive Rebound.
+Marist,Maryland,20,31,20,39,1,Dez Wells made Three Point Jumper. Assisted by Shaquille Cleare.
+Marist,Maryland,20,31,21,3,0,Chavaughn Lewis missed Layup.
+Marist,Maryland,20,31,21,3,0,Shaquille Cleare Defensive Rebound.
+Marist,Maryland,20,31,21,12,0,Shaquille Cleare Turnover.
+Marist,Maryland,20,31,21,12,0,Chavaughn Lewis Steal.
+Marist,Maryland,20,31,21,24,0,Chavaughn Lewis missed Three Point Jumper.
+Marist,Maryland,20,31,21,24,0,Jake Layman Defensive Rebound.
+Marist,Maryland,20,31,21,49,0,Dez Wells missed Jumper.
+Marist,Maryland,20,31,21,49,0,Chavaughn Lewis Defensive Rebound.
+Marist,Maryland,20,31,21,57,0,Foul on Nick Faust.
+Marist,Maryland,20,31,22,4,0,Jay Bowie missed Jumper.
+Marist,Maryland,20,31,22,4,0,Dez Wells Defensive Rebound.
+Marist,Maryland,20,31,22,17,0,Foul on Pieter Prinsloo.
+Marist,Maryland,20,32,22,17,1,Dez Wells made Free Throw.
+Marist,Maryland,20,33,22,17,1,Dez Wells made Free Throw.
+Marist,Maryland,20,33,22,31,0,Chavaughn Lewis missed Layup.
+Marist,Maryland,20,33,22,31,0,Maryland Defensive Rebound.
+Marist,Maryland,20,36,22,45,1,Jake Layman made Three Point Jumper. Assisted by Nick Faust.
+Marist,Maryland,20,36,23,0,0,Marist  Timeout
+Marist,Maryland,20,36,23,14,0,Khallid Hart Turnover.
+Marist,Maryland,20,36,23,14,0,Dez Wells Steal.
+Marist,Maryland,20,36,23,19,0,Dez Wells missed Jumper.
+Marist,Maryland,20,36,23,19,0,Adam Kemp Defensive Rebound.
+Marist,Maryland,23,36,23,27,1,Jay Bowie made Three Point Jumper. Assisted by Chavaughn Lewis.
+Marist,Maryland,23,36,23,39,0,Dez Wells Turnover.
+Marist,Maryland,23,36,23,55,0,Foul on Shaquille Cleare.
+Marist,Maryland,23,36,24,17,0,Jay Bowie Turnover.
+Marist,Maryland,23,36,24,17,0,Jake Layman Steal.
+Marist,Maryland,23,36,24,25,0,Official TV Timeout
+Marist,Maryland,25,36,24,42,1,Adam Kemp made Jumper.
+Marist,Maryland,25,36,25,7,0,Foul on Evan Smotrycz.
+Marist,Maryland,25,36,25,7,0,Evan Smotrycz Turnover.
+Marist,Maryland,25,36,25,28,0,Foul on Isaiah Morton.
+Marist,Maryland,25,37,25,28,1,Roddy Peters made Free Throw.
+Marist,Maryland,25,38,25,28,1,Roddy Peters made Free Throw.
+Marist,Maryland,25,38,25,39,0,Jay Bowie missed Three Point Jumper.
+Marist,Maryland,25,38,25,39,0,Adam Kemp Offensive Rebound.
+Marist,Maryland,25,38,25,41,0,Foul on Damonte Dodd.
+Marist,Maryland,26,38,25,41,1,Adam Kemp made Free Throw.
+Marist,Maryland,26,38,25,41,0,Adam Kemp missed Free Throw.
+Marist,Maryland,26,38,25,41,0,Charles Mitchell Defensive Rebound.
+Marist,Maryland,26,38,25,59,0,Damonte Dodd Turnover.
+Marist,Maryland,26,38,25,59,0,Khallid Hart Steal.
+Marist,Maryland,28,38,26,4,1,Chavaughn Lewis made Layup. Assisted by Khallid Hart.
+Marist,Maryland,28,38,26,19,0,Dez Wells missed Layup.
+Marist,Maryland,28,38,26,19,0,Dez Wells Offensive Rebound.
+Marist,Maryland,28,38,26,22,0,Foul on Adam Kemp.
+Marist,Maryland,28,39,26,22,1,Dez Wells made Free Throw.
+Marist,Maryland,28,40,26,22,1,Dez Wells made Free Throw.
+Marist,Maryland,28,40,26,47,0,Jay Bowie missed Jumper.
+Marist,Maryland,28,40,26,47,0,Jay Bowie Offensive Rebound.
+Marist,Maryland,28,40,26,49,0,Jay Bowie missed Layup.
+Marist,Maryland,28,40,26,49,0,Charles Mitchell Block.
+Marist,Maryland,28,40,26,49,0,Marist Offensive Rebound.
+Marist,Maryland,28,40,27,3,0,Khallid Hart missed Jumper.
+Marist,Maryland,28,40,27,3,0,Khallid Hart Offensive Rebound.
+Marist,Maryland,28,40,27,11,0,Khallid Hart Turnover.
+Marist,Maryland,28,40,27,11,0,Varun Ram Steal.
+Marist,Maryland,28,42,27,30,1,Charles Mitchell made Layup. Assisted by Roddy Peters.
+Marist,Maryland,28,42,27,30,0,Foul on Isaiah Morton.
+Marist,Maryland,28,42,27,30,0,Isaiah Morton Turnover.
+Marist,Maryland,28,42,27,45,0,Foul on Manny Thomas.
+Marist,Maryland,28,44,27,46,1,Charles Mitchell made Jumper. Assisted by Roddy Peters.
+Marist,Maryland,28,44,28,7,0,Chavaughn Lewis missed Layup.
+Marist,Maryland,28,44,28,7,0,Damonte Dodd Defensive Rebound.
+Marist,Maryland,28,46,28,16,1,Roddy Peters made Layup.
+Marist,Maryland,28,46,28,19,0,Official TV Timeout
+Marist,Maryland,28,46,28,32,0,Adam Kemp Turnover.
+Marist,Maryland,28,46,28,46,0,Roddy Peters missed Layup.
+Marist,Maryland,28,46,28,47,0,Chavaughn Lewis Block.
+Marist,Maryland,28,46,28,48,0,Maryland Offensive Rebound.
+Marist,Maryland,28,46,28,59,0,Nick Faust missed Jumper.
+Marist,Maryland,28,46,28,59,0,Nick Faust Offensive Rebound.
+Marist,Maryland,28,46,29,6,0,Roddy Peters missed Three Point Jumper.
+Marist,Maryland,28,46,29,6,0,Adam Kemp Defensive Rebound.
+Marist,Maryland,28,46,29,18,0,Jay Bowie missed Three Point Jumper.
+Marist,Maryland,28,46,29,18,0,Charles Mitchell Defensive Rebound.
+Marist,Maryland,28,46,29,49,0,Charles Mitchell missed Jumper.
+Marist,Maryland,28,46,29,49,0,Damonte Dodd Offensive Rebound.
+Marist,Maryland,28,46,29,58,0,Damonte Dodd missed Jumper.
+Marist,Maryland,28,46,29,58,0,Jay Bowie Defensive Rebound.
+Marist,Maryland,28,46,30,2,0,Chavaughn Lewis Turnover.
+Marist,Maryland,28,46,30,3,0,Technical Foul on Marist.
+Marist,Maryland,28,47,30,3,1,Nick Faust made Free Throw.
+Marist,Maryland,28,47,30,3,0,Nick Faust missed Free Throw.
+Marist,Maryland,28,47,30,3,0,Maryland Deadball Team Rebound.
+Marist,Maryland,28,47,30,8,0,Dez Wells Turnover.
+Marist,Maryland,28,47,30,19,0,Jay Bowie missed Layup.
+Marist,Maryland,28,47,30,19,0,Adam Kemp Offensive Rebound.
+Marist,Maryland,28,47,30,19,0,Foul on Evan Smotrycz.
+Marist,Maryland,29,47,30,19,1,Adam Kemp made Free Throw.
+Marist,Maryland,30,47,30,19,1,Adam Kemp made Free Throw.
+Marist,Maryland,30,47,30,52,0,Jake Layman missed Jumper.
+Marist,Maryland,30,47,30,52,0,Shaquille Cleare Offensive Rebound.
+Marist,Maryland,30,49,30,52,1,Shaquille Cleare made Two Point Tip Shot.
+Marist,Maryland,30,49,31,17,0,Chavaughn Lewis missed Layup.
+Marist,Maryland,30,49,31,17,0,Evan Smotrycz Defensive Rebound.
+Marist,Maryland,30,52,31,29,1,Jake Layman made Three Point Jumper. Assisted by Shaquille Cleare.
+Marist,Maryland,30,52,31,50,0,Adam Kemp Turnover.
+Marist,Maryland,30,52,31,57,0,Nick Faust missed Dunk.
+Marist,Maryland,30,52,31,57,0,Adam Kemp Block.
+Marist,Maryland,30,52,31,57,0,Chavaughn Lewis Defensive Rebound.
+Marist,Maryland,30,52,32,3,0,Official TV Timeout
+Marist,Maryland,30,52,32,22,0,Khallid Hart missed Jumper.
+Marist,Maryland,30,52,32,22,0,Nick Faust Defensive Rebound.
+Marist,Maryland,30,54,32,41,1,Shaquille Cleare made Layup.
+Marist,Maryland,30,54,32,57,0,Jay Bowie Turnover.
+Marist,Maryland,30,54,33,9,0,Foul on Eric Truog.
+Marist,Maryland,30,54,33,9,0,Shaquille Cleare missed Free Throw.
+Marist,Maryland,30,54,33,9,0,Maryland Deadball Team Rebound.
+Marist,Maryland,30,54,33,9,0,Shaquille Cleare missed Free Throw.
+Marist,Maryland,30,54,33,9,0,Adam Kemp Defensive Rebound.
+Marist,Maryland,30,54,33,23,0,Chavaughn Lewis missed Three Point Jumper.
+Marist,Maryland,30,54,33,23,0,Jake Layman Defensive Rebound.
+Marist,Maryland,30,54,33,32,0,Nick Faust Turnover.
+Marist,Maryland,30,54,33,32,0,Foul on Nick Faust.
+Marist,Maryland,30,54,33,42,0,Adam Kemp Turnover.
+Marist,Maryland,30,56,33,48,1,Nick Faust made Layup. Assisted by Jake Layman.
+Marist,Maryland,30,56,34,1,0,Marist  Timeout
+Marist,Maryland,30,56,34,15,0,Foul on Dez Wells.
+Marist,Maryland,31,56,34,15,1,Chavaughn Lewis made Free Throw.
+Marist,Maryland,32,56,34,15,1,Chavaughn Lewis made Free Throw.
+Marist,Maryland,32,56,34,21,0,Foul on Chavaughn Lewis.
+Marist,Maryland,32,56,34,21,0,Charles Mitchell missed Free Throw.
+Marist,Maryland,32,56,34,21,0,Maryland Deadball Team Rebound.
+Marist,Maryland,32,56,34,21,0,Charles Mitchell missed Free Throw.
+Marist,Maryland,32,56,34,21,0,Marist Deadball Team Rebound.
+Marist,Maryland,32,56,34,34,0,Phillip Lawrence missed Three Point Jumper.
+Marist,Maryland,32,56,34,34,0,Kentrall Brooks Offensive Rebound.
+Marist,Maryland,35,56,34,44,1,Chavaughn Lewis made Three Point Jumper. Assisted by Kentrall Brooks.
+Marist,Maryland,35,58,34,54,1,Evan Smotrycz made Layup. Assisted by Dez Wells.
+Marist,Maryland,35,58,35,12,0,Chavaughn Lewis missed Jumper.
+Marist,Maryland,35,58,35,12,0,Dez Wells Defensive Rebound.
+Marist,Maryland,35,60,35,19,1,Dez Wells made Layup.
+Marist,Maryland,35,60,35,38,0,Kentrall Brooks missed Layup.
+Marist,Maryland,35,60,35,38,0,Charles Mitchell Defensive Rebound.
+Marist,Maryland,35,60,35,47,0,Evan Smotrycz missed Three Point Jumper.
+Marist,Maryland,35,60,35,47,0,Marist Defensive Rebound.
+Marist,Maryland,35,60,36,3,0,Khallid Hart missed Layup.
+Marist,Maryland,35,60,36,3,0,Eric Truog Offensive Rebound.
+Marist,Maryland,35,60,36,5,0,Foul on Varun Ram.
+Marist,Maryland,35,60,36,5,0,Eric Truog missed Free Throw.
+Marist,Maryland,35,60,36,7,0,Jonathan Graham Defensive Rebound.
+Marist,Maryland,35,60,36,17,0,Jonathan Graham missed Jumper.
+Marist,Maryland,35,60,36,17,0,Eric Truog Block.
+Marist,Maryland,35,60,36,17,0,Eric Truog Defensive Rebound.
+Marist,Maryland,35,60,36,17,0,Foul on Nick Faust.
+Marist,Maryland,35,60,36,22,0,Foul on Varun Ram.
+Marist,Maryland,36,60,36,22,1,Phillip Lawrence made Free Throw.
+Marist,Maryland,36,60,36,22,0,Phillip Lawrence missed Free Throw.
+Marist,Maryland,36,60,36,22,0,Varun Ram Defensive Rebound.
+Marist,Maryland,36,63,36,36,1,Varun Ram made Three Point Jumper. Assisted by Jonathan Graham.
+Marist,Maryland,36,63,37,10,0,Eric Truog missed Layup.
+Marist,Maryland,36,63,37,10,0,Jonathan Graham Defensive Rebound.
+Marist,Maryland,36,66,37,46,1,Roddy Peters made Three Point Jumper.
+Marist,Maryland,36,66,37,58,0,Foul on Varun Ram.
+Marist,Maryland,37,66,37,58,1,Isaiah Morton made Free Throw.
+Marist,Maryland,38,66,37,58,1,Isaiah Morton made Free Throw.
+Marist,Maryland,38,68,38,23,1,Jonathan Graham made Layup.
+Marist,Maryland,41,68,38,33,1,Manny Thomas made Three Point Jumper. Assisted by Isaiah Morton.
+Marist,Maryland,41,68,38,54,0,Foul on Kentrall Brooks.
+Marist,Maryland,41,68,38,54,0,Jonathan Graham missed Free Throw.
+Marist,Maryland,41,68,38,54,0,Kentrall Brooks Defensive Rebound.
+Marist,Maryland,41,68,39,0,0,Phillip Lawrence missed Three Point Jumper.
+Marist,Maryland,41,68,39,0,0,Jacob Susskind Defensive Rebound.
+Marist,Maryland,41,68,39,28,0,Jacob Susskind missed Three Point Jumper.
+Marist,Maryland,41,68,39,28,0,Isaiah Morton Defensive Rebound.
+Marist,Maryland,43,68,39,37,1,Eric Truog made Layup. Assisted by Isaiah Morton.
+Marist,Maryland,43,68,40,0,0,End of Game

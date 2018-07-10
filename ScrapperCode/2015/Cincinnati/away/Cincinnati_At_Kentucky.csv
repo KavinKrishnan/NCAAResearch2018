@@ -1,0 +1,353 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Cincinnati,Kentucky,0,0,0,0,0,Jump Ball won by Kentucky
+Cincinnati,Kentucky,0,0,0,18,0,Trey Lyles missed Jumper.
+Cincinnati,Kentucky,0,0,0,18,0,Farad Cobb Defensive Rebound.
+Cincinnati,Kentucky,2,0,0,48,1,Shaquille Thomas made Jumper.
+Cincinnati,Kentucky,2,0,1,4,0,Aaron Harrison missed Three Point Jumper.
+Cincinnati,Kentucky,2,0,1,4,0,Farad Cobb Defensive Rebound.
+Cincinnati,Kentucky,2,0,1,45,0,Cincinnati  Turnover.
+Cincinnati,Kentucky,2,2,1,52,1,Karl-Anthony Towns made Jumper.
+Cincinnati,Kentucky,2,2,2,18,0,Troy Caupain missed Jumper.
+Cincinnati,Kentucky,2,2,2,18,0,Octavius Ellis Offensive Rebound.
+Cincinnati,Kentucky,4,2,2,18,1,Octavius Ellis made Two Point Tip Shot.
+Cincinnati,Kentucky,4,2,3,0,0,Foul on Octavius Ellis.
+Cincinnati,Kentucky,4,3,3,0,1,Karl-Anthony Towns made Free Throw.
+Cincinnati,Kentucky,4,4,3,0,1,Karl-Anthony Towns made Free Throw.
+Cincinnati,Kentucky,4,4,3,20,0,Troy Caupain missed Jumper.
+Cincinnati,Kentucky,4,4,3,20,0,Karl-Anthony Towns Block.
+Cincinnati,Kentucky,4,4,3,22,0,Farad Cobb Offensive Rebound.
+Cincinnati,Kentucky,4,4,3,25,0,Farad Cobb Turnover.
+Cincinnati,Kentucky,4,4,3,25,0,Trey Lyles Steal.
+Cincinnati,Kentucky,4,4,3,30,0,Aaron Harrison missed Layup.
+Cincinnati,Kentucky,4,4,3,31,0,Trey Lyles Offensive Rebound.
+Cincinnati,Kentucky,4,4,3,37,0,Trey Lyles missed Jumper.
+Cincinnati,Kentucky,4,4,3,38,0,Gary Clark Defensive Rebound.
+Cincinnati,Kentucky,4,4,3,41,0,Farad Cobb missed Three Point Jumper.
+Cincinnati,Kentucky,4,4,3,42,0,Trey Lyles Defensive Rebound.
+Cincinnati,Kentucky,4,4,3,46,0,Willie Cauley-Stein missed Jumper.
+Cincinnati,Kentucky,4,4,3,46,0,Shaquille Thomas Defensive Rebound.
+Cincinnati,Kentucky,4,4,4,2,0,Shaquille Thomas missed Jumper.
+Cincinnati,Kentucky,4,4,4,2,0,Andrew Harrison Defensive Rebound.
+Cincinnati,Kentucky,4,4,4,7,0,Foul on Gary Clark.
+Cincinnati,Kentucky,4,4,4,12,0,Official TV Timeout
+Cincinnati,Kentucky,4,4,4,30,0,Dakari Johnson missed Jumper.
+Cincinnati,Kentucky,4,4,4,30,0,Gary Clark Block.
+Cincinnati,Kentucky,4,4,4,30,0,Marcus Lee Offensive Rebound.
+Cincinnati,Kentucky,4,4,4,38,0,Foul on Shaquille Thomas.
+Cincinnati,Kentucky,4,4,4,38,0,Marcus Lee missed Free Throw.
+Cincinnati,Kentucky,4,4,4,38,0,Kentucky Deadball Team Rebound.
+Cincinnati,Kentucky,4,4,4,38,0,Marcus Lee missed Free Throw.
+Cincinnati,Kentucky,4,4,4,38,0,Coreontae DeBerry Defensive Rebound.
+Cincinnati,Kentucky,4,4,4,59,0,Foul on Tyler Ulis.
+Cincinnati,Kentucky,4,4,4,59,0,Cincinnati  Turnover.
+Cincinnati,Kentucky,4,4,5,13,0,Foul on Dakari Johnson.
+Cincinnati,Kentucky,4,4,5,13,0,Dakari Johnson Turnover.
+Cincinnati,Kentucky,4,4,5,35,0,Coreontae DeBerry missed Dunk.
+Cincinnati,Kentucky,4,4,5,35,0,Dakari Johnson Block.
+Cincinnati,Kentucky,4,4,5,35,0,Dakari Johnson Defensive Rebound.
+Cincinnati,Kentucky,4,4,5,45,0,Devin Booker missed Three Point Jumper.
+Cincinnati,Kentucky,4,4,5,45,0,Kevin Johnson Defensive Rebound.
+Cincinnati,Kentucky,4,4,6,5,0,Shaquille Thomas missed Jumper.
+Cincinnati,Kentucky,4,4,6,5,0,Dakari Johnson Defensive Rebound.
+Cincinnati,Kentucky,4,4,6,36,0,Tyler Ulis missed Jumper.
+Cincinnati,Kentucky,4,4,6,36,0,Octavius Ellis Defensive Rebound.
+Cincinnati,Kentucky,6,4,6,54,1,Octavius Ellis made Layup. Assisted by Troy Caupain.
+Cincinnati,Kentucky,6,6,7,9,1,Willie Cauley-Stein made Dunk. Assisted by Tyler Ulis.
+Cincinnati,Kentucky,9,6,7,24,1,Jermaine Sanders made Three Point Jumper. Assisted by Troy Caupain.
+Cincinnati,Kentucky,9,6,7,41,0,Foul on Gary Clark.
+Cincinnati,Kentucky,9,6,8,3,0,Karl-Anthony Towns Turnover.
+Cincinnati,Kentucky,9,6,8,3,0,Official TV Timeout
+Cincinnati,Kentucky,11,6,8,17,1,Coreontae DeBerry made Jumper.
+Cincinnati,Kentucky,11,6,8,25,0,Devin Booker missed Layup.
+Cincinnati,Kentucky,11,6,8,25,0,Coreontae DeBerry Block.
+Cincinnati,Kentucky,11,6,8,25,0,Karl-Anthony Towns Offensive Rebound.
+Cincinnati,Kentucky,11,8,8,34,1,Karl-Anthony Towns made Layup.
+Cincinnati,Kentucky,11,8,8,53,0,Kevin Johnson Turnover.
+Cincinnati,Kentucky,11,8,8,53,0,Willie Cauley-Stein Steal.
+Cincinnati,Kentucky,11,8,9,5,0,Foul on Jermaine Sanders.
+Cincinnati,Kentucky,11,9,9,5,1,Karl-Anthony Towns made Free Throw.
+Cincinnati,Kentucky,11,10,9,5,1,Karl-Anthony Towns made Free Throw.
+Cincinnati,Kentucky,11,10,9,35,0,Jermaine Sanders missed Three Point Jumper.
+Cincinnati,Kentucky,11,10,9,35,0,Coreontae DeBerry Offensive Rebound.
+Cincinnati,Kentucky,13,10,9,35,1,Coreontae DeBerry made Two Point Tip Shot.
+Cincinnati,Kentucky,13,10,9,59,0,Devin Booker missed Three Point Jumper.
+Cincinnati,Kentucky,13,10,9,59,0,Trey Lyles Offensive Rebound.
+Cincinnati,Kentucky,13,10,10,8,0,Willie Cauley-Stein missed Jumper.
+Cincinnati,Kentucky,13,10,10,8,0,Trey Lyles Offensive Rebound.
+Cincinnati,Kentucky,13,10,10,9,0,Trey Lyles missed Layup.
+Cincinnati,Kentucky,13,10,10,9,0,Coreontae DeBerry Block.
+Cincinnati,Kentucky,13,10,10,9,0,Kentucky Offensive Rebound.
+Cincinnati,Kentucky,13,10,10,18,0,Aaron Harrison missed Three Point Jumper.
+Cincinnati,Kentucky,13,10,10,18,0,Willie Cauley-Stein Offensive Rebound.
+Cincinnati,Kentucky,13,13,10,34,1,Aaron Harrison made Three Point Jumper. Assisted by Dakari Johnson.
+Cincinnati,Kentucky,13,13,11,1,0,Coreontae DeBerry missed Jumper.
+Cincinnati,Kentucky,13,13,11,1,0,Andrew Harrison Defensive Rebound.
+Cincinnati,Kentucky,13,13,11,14,0,Foul on Jermaine Sanders.
+Cincinnati,Kentucky,13,15,11,24,1,Trey Lyles made Layup.
+Cincinnati,Kentucky,16,15,11,48,1,Kevin Johnson made Three Point Jumper. Assisted by Coreontae DeBerry.
+Cincinnati,Kentucky,16,17,12,7,1,Trey Lyles made Dunk.
+Cincinnati,Kentucky,16,17,12,21,0,Troy Caupain Turnover.
+Cincinnati,Kentucky,16,17,12,21,0,Tyler Ulis Steal.
+Cincinnati,Kentucky,16,17,12,26,0,Foul on Farad Cobb.
+Cincinnati,Kentucky,16,17,12,26,0,Official TV Timeout
+Cincinnati,Kentucky,16,18,12,26,1,Tyler Ulis made Free Throw.
+Cincinnati,Kentucky,16,19,12,26,1,Tyler Ulis made Free Throw.
+Cincinnati,Kentucky,16,19,12,56,0,Farad Cobb missed Jumper.
+Cincinnati,Kentucky,16,19,12,56,0,Coreontae DeBerry Offensive Rebound.
+Cincinnati,Kentucky,18,19,13,1,1,Coreontae DeBerry made Jumper.
+Cincinnati,Kentucky,18,19,13,20,0,Aaron Harrison missed Three Point Jumper.
+Cincinnati,Kentucky,18,19,13,20,0,Kentucky Offensive Rebound.
+Cincinnati,Kentucky,18,19,13,38,0,Aaron Harrison missed Jumper.
+Cincinnati,Kentucky,18,19,13,38,0,Coreontae DeBerry Defensive Rebound.
+Cincinnati,Kentucky,18,19,13,48,0,Foul on Karl-Anthony Towns.
+Cincinnati,Kentucky,20,19,13,52,1,Troy Caupain made Layup.
+Cincinnati,Kentucky,20,19,14,8,0,Foul on Shaquille Thomas.
+Cincinnati,Kentucky,20,20,14,8,1,Trey Lyles made Free Throw.
+Cincinnati,Kentucky,20,21,14,8,1,Trey Lyles made Free Throw.
+Cincinnati,Kentucky,20,21,14,22,0,Troy Caupain missed Three Point Jumper.
+Cincinnati,Kentucky,20,21,14,22,0,Tyler Ulis Defensive Rebound.
+Cincinnati,Kentucky,20,21,14,48,0,Karl-Anthony Towns missed Layup.
+Cincinnati,Kentucky,20,21,14,48,0,Octavius Ellis Defensive Rebound.
+Cincinnati,Kentucky,20,21,14,56,0,Farad Cobb missed Three Point Jumper.
+Cincinnati,Kentucky,20,21,14,56,0,Trey Lyles Defensive Rebound.
+Cincinnati,Kentucky,20,21,15,6,0,Andrew Harrison missed Layup.
+Cincinnati,Kentucky,20,21,15,6,0,Farad Cobb Defensive Rebound.
+Cincinnati,Kentucky,22,21,15,12,1,Farad Cobb made Layup.
+Cincinnati,Kentucky,22,21,15,14,0,Kentucky  Timeout
+Cincinnati,Kentucky,22,21,15,42,0,Devin Booker Turnover.
+Cincinnati,Kentucky,22,21,15,42,0,Octavius Ellis Steal.
+Cincinnati,Kentucky,22,21,15,58,0,Octavius Ellis missed Layup.
+Cincinnati,Kentucky,22,21,15,58,0,Trey Lyles Defensive Rebound.
+Cincinnati,Kentucky,22,21,16,13,0,Trey Lyles Turnover.
+Cincinnati,Kentucky,22,21,16,13,0,Troy Caupain Steal.
+Cincinnati,Kentucky,24,21,16,17,1,Shaquille Thomas made Dunk. Assisted by Troy Caupain.
+Cincinnati,Kentucky,24,23,16,43,1,Devin Booker made Layup. Assisted by Trey Lyles.
+Cincinnati,Kentucky,24,23,17,4,0,Quadri Moore missed Three Point Jumper.
+Cincinnati,Kentucky,24,23,17,4,0,Devin Booker Defensive Rebound.
+Cincinnati,Kentucky,24,25,17,12,1,Willie Cauley-Stein made Dunk. Assisted by Tyler Ulis.
+Cincinnati,Kentucky,24,25,17,12,0,Foul on Quadri Moore.
+Cincinnati,Kentucky,24,25,17,12,0,Official TV Timeout
+Cincinnati,Kentucky,24,26,17,12,1,Willie Cauley-Stein made Free Throw.
+Cincinnati,Kentucky,24,26,17,34,0,Shaquille Thomas missed Jumper.
+Cincinnati,Kentucky,24,26,17,34,0,Tyler Ulis Defensive Rebound.
+Cincinnati,Kentucky,24,26,17,42,0,Devin Booker missed Three Point Jumper.
+Cincinnati,Kentucky,24,26,17,42,0,Troy Caupain Defensive Rebound.
+Cincinnati,Kentucky,24,26,18,0,0,Troy Caupain missed Layup.
+Cincinnati,Kentucky,24,26,18,0,0,Willie Cauley-Stein Block.
+Cincinnati,Kentucky,24,26,18,0,0,Devin Booker Defensive Rebound.
+Cincinnati,Kentucky,24,28,18,29,1,Tyler Ulis made Jumper. Assisted by Willie Cauley-Stein.
+Cincinnati,Kentucky,24,28,18,46,0,Troy Caupain Turnover.
+Cincinnati,Kentucky,24,31,19,14,1,Aaron Harrison made Three Point Jumper. Assisted by Tyler Ulis.
+Cincinnati,Kentucky,24,31,19,20,0,Cincinnati  Timeout
+Cincinnati,Kentucky,24,31,19,37,0,Foul on Devin Booker.
+Cincinnati,Kentucky,24,31,19,58,0,Farad Cobb Turnover.
+Cincinnati,Kentucky,24,31,19,59,0,Andrew Harrison missed Three Point Jumper.
+Cincinnati,Kentucky,24,31,19,59,0,Cincinnati Deadball Team Rebound.
+Cincinnati,Kentucky,24,31,20,0,0,End of 1st half
+Cincinnati,Kentucky,24,31,20,0,0,Jump Ball won by Cincinnati
+Cincinnati,Kentucky,24,31,20,9,0,Foul on Willie Cauley-Stein.
+Cincinnati,Kentucky,25,31,20,9,1,Octavius Ellis made Free Throw.
+Cincinnati,Kentucky,25,31,20,9,0,Octavius Ellis missed Free Throw.
+Cincinnati,Kentucky,25,31,20,9,0,Devin Booker Defensive Rebound.
+Cincinnati,Kentucky,25,31,20,33,0,Tyler Ulis missed Three Point Jumper.
+Cincinnati,Kentucky,25,31,20,33,0,Octavius Ellis Defensive Rebound.
+Cincinnati,Kentucky,25,31,20,34,0,Foul on Karl-Anthony Towns.
+Cincinnati,Kentucky,25,31,20,47,0,Farad Cobb missed Three Point Jumper.
+Cincinnati,Kentucky,25,31,20,47,0,Karl-Anthony Towns Defensive Rebound.
+Cincinnati,Kentucky,25,31,20,54,0,Devin Booker missed Three Point Jumper.
+Cincinnati,Kentucky,25,31,20,54,0,Shaquille Thomas Defensive Rebound.
+Cincinnati,Kentucky,25,31,21,6,0,Shaquille Thomas missed Layup.
+Cincinnati,Kentucky,25,31,21,6,0,Karl-Anthony Towns Defensive Rebound.
+Cincinnati,Kentucky,25,31,21,22,0,Foul on Troy Caupain.
+Cincinnati,Kentucky,25,31,21,39,0,Willie Cauley-Stein missed Jumper.
+Cincinnati,Kentucky,25,31,21,39,0,Troy Caupain Defensive Rebound.
+Cincinnati,Kentucky,27,31,21,46,1,Troy Caupain made Layup.
+Cincinnati,Kentucky,27,31,21,46,0,Foul on Devin Booker.
+Cincinnati,Kentucky,28,31,21,46,1,Troy Caupain made Free Throw.
+Cincinnati,Kentucky,28,33,22,5,1,Aaron Harrison made Layup.
+Cincinnati,Kentucky,28,33,22,28,0,Gary Clark missed Jumper.
+Cincinnati,Kentucky,28,33,22,28,0,Trey Lyles Defensive Rebound.
+Cincinnati,Kentucky,28,33,22,41,0,Devin Booker missed Three Point Jumper.
+Cincinnati,Kentucky,28,33,22,41,0,Troy Caupain Defensive Rebound.
+Cincinnati,Kentucky,28,33,22,49,0,Troy Caupain missed Layup.
+Cincinnati,Kentucky,28,33,22,49,0,Gary Clark Offensive Rebound.
+Cincinnati,Kentucky,28,33,22,49,0,Gary Clark missed Two Point Tip Shot.
+Cincinnati,Kentucky,28,33,22,49,0,Karl-Anthony Towns Defensive Rebound.
+Cincinnati,Kentucky,28,33,23,0,0,Foul on Gary Clark.
+Cincinnati,Kentucky,28,33,23,5,0,Foul on Shaquille Thomas.
+Cincinnati,Kentucky,28,33,23,5,0,Trey Lyles missed Free Throw.
+Cincinnati,Kentucky,28,33,23,5,0,Kentucky Deadball Team Rebound.
+Cincinnati,Kentucky,28,33,23,5,0,Trey Lyles missed Free Throw.
+Cincinnati,Kentucky,28,33,23,5,0,Kentucky Deadball Team Rebound.
+Cincinnati,Kentucky,28,33,23,5,0,Technical Foul on Aaron Harrison.
+Cincinnati,Kentucky,28,33,23,5,0,Foul on Aaron Harrison.
+Cincinnati,Kentucky,29,33,23,5,1,Troy Caupain made Free Throw.
+Cincinnati,Kentucky,30,33,23,5,1,Troy Caupain made Free Throw.
+Cincinnati,Kentucky,30,33,23,15,0,Gary Clark missed Jumper.
+Cincinnati,Kentucky,30,33,23,15,0,Karl-Anthony Towns Defensive Rebound.
+Cincinnati,Kentucky,30,35,23,22,1,Devin Booker made Layup.
+Cincinnati,Kentucky,30,35,23,54,0,Troy Caupain missed Jumper.
+Cincinnati,Kentucky,30,35,23,54,0,Willie Cauley-Stein Defensive Rebound.
+Cincinnati,Kentucky,30,35,24,3,0,Andrew Harrison missed Jumper.
+Cincinnati,Kentucky,30,35,24,3,0,Gary Clark Defensive Rebound.
+Cincinnati,Kentucky,30,35,24,15,0,Official TV Timeout
+Cincinnati,Kentucky,30,35,24,15,0,Foul on Willie Cauley-Stein.
+Cincinnati,Kentucky,32,35,24,22,1,Octavius Ellis made Jumper.
+Cincinnati,Kentucky,32,37,24,40,1,Willie Cauley-Stein made Jumper.
+Cincinnati,Kentucky,32,37,25,2,0,Troy Caupain missed Jumper.
+Cincinnati,Kentucky,32,37,25,2,0,Willie Cauley-Stein Block.
+Cincinnati,Kentucky,32,37,25,2,0,Devin Booker Defensive Rebound.
+Cincinnati,Kentucky,32,39,25,8,1,Devin Booker made Layup.
+Cincinnati,Kentucky,32,39,25,24,0,Cincinnati  Timeout
+Cincinnati,Kentucky,32,39,25,43,0,Farad Cobb missed Jumper.
+Cincinnati,Kentucky,32,39,25,43,0,Octavius Ellis Offensive Rebound.
+Cincinnati,Kentucky,34,39,25,49,1,Octavius Ellis made Dunk.
+Cincinnati,Kentucky,34,39,26,0,0,Karl-Anthony Towns missed Jumper.
+Cincinnati,Kentucky,34,39,26,0,0,Gary Clark Defensive Rebound.
+Cincinnati,Kentucky,34,39,26,33,0,Troy Caupain missed Three Point Jumper.
+Cincinnati,Kentucky,34,39,26,33,0,Aaron Harrison Defensive Rebound.
+Cincinnati,Kentucky,34,39,26,45,0,Trey Lyles missed Jumper.
+Cincinnati,Kentucky,34,39,26,45,0,Gary Clark Block.
+Cincinnati,Kentucky,34,39,26,45,0,Gary Clark Defensive Rebound.
+Cincinnati,Kentucky,34,39,27,4,0,Foul on Devin Booker.
+Cincinnati,Kentucky,34,39,27,4,0,Coreontae DeBerry missed Free Throw.
+Cincinnati,Kentucky,34,39,27,4,0,Cincinnati Deadball Team Rebound.
+Cincinnati,Kentucky,34,39,27,4,0,Coreontae DeBerry missed Free Throw.
+Cincinnati,Kentucky,34,39,27,4,0,Gary Clark Offensive Rebound.
+Cincinnati,Kentucky,34,39,27,21,0,Kevin Johnson missed Jumper.
+Cincinnati,Kentucky,34,39,27,21,0,Gary Clark Offensive Rebound.
+Cincinnati,Kentucky,34,39,27,27,0,Kevin Johnson missed Three Point Jumper.
+Cincinnati,Kentucky,34,39,27,27,0,Coreontae DeBerry Offensive Rebound.
+Cincinnati,Kentucky,34,39,27,32,0,Coreontae DeBerry missed Jumper.
+Cincinnati,Kentucky,34,39,27,32,0,Aaron Harrison Defensive Rebound.
+Cincinnati,Kentucky,34,42,28,1,1,Aaron Harrison made Three Point Jumper. Assisted by Tyler Ulis.
+Cincinnati,Kentucky,34,42,28,32,0,Foul on Willie Cauley-Stein.
+Cincinnati,Kentucky,34,42,28,32,0,Official TV Timeout
+Cincinnati,Kentucky,35,42,28,32,1,Coreontae DeBerry made Free Throw.
+Cincinnati,Kentucky,35,42,28,32,0,Coreontae DeBerry missed Free Throw.
+Cincinnati,Kentucky,35,42,28,32,0,Karl-Anthony Towns Defensive Rebound.
+Cincinnati,Kentucky,35,42,29,0,0,Aaron Harrison missed Three Point Jumper.
+Cincinnati,Kentucky,35,42,29,0,0,Trey Lyles Offensive Rebound.
+Cincinnati,Kentucky,35,42,29,4,0,Foul on Gary Clark.
+Cincinnati,Kentucky,35,43,29,4,1,Trey Lyles made Free Throw.
+Cincinnati,Kentucky,35,44,29,4,1,Trey Lyles made Free Throw.
+Cincinnati,Kentucky,35,44,29,18,0,Octavius Ellis missed Jumper.
+Cincinnati,Kentucky,35,44,29,18,0,Trey Lyles Defensive Rebound.
+Cincinnati,Kentucky,35,44,29,44,0,Trey Lyles missed Jumper.
+Cincinnati,Kentucky,35,44,29,44,0,Octavius Ellis Defensive Rebound.
+Cincinnati,Kentucky,35,44,30,11,0,Octavius Ellis missed Jumper.
+Cincinnati,Kentucky,35,44,30,11,0,Karl-Anthony Towns Block.
+Cincinnati,Kentucky,35,44,30,11,0,Cincinnati Offensive Rebound.
+Cincinnati,Kentucky,35,44,30,21,0,Coreontae DeBerry Turnover.
+Cincinnati,Kentucky,35,44,30,21,0,Dakari Johnson Steal.
+Cincinnati,Kentucky,35,46,30,27,1,Andrew Harrison made Layup.
+Cincinnati,Kentucky,35,46,30,34,0,Cincinnati  Timeout
+Cincinnati,Kentucky,35,46,30,52,0,Farad Cobb missed Three Point Jumper.
+Cincinnati,Kentucky,35,46,30,52,0,Jermaine Sanders Offensive Rebound.
+Cincinnati,Kentucky,37,46,30,59,1,Jermaine Sanders made Layup.
+Cincinnati,Kentucky,37,48,31,27,1,Andrew Harrison made Layup.
+Cincinnati,Kentucky,37,48,31,27,0,Foul on Octavius Ellis.
+Cincinnati,Kentucky,37,49,31,27,1,Andrew Harrison made Free Throw.
+Cincinnati,Kentucky,39,49,31,35,1,Troy Caupain made Jumper.
+Cincinnati,Kentucky,39,49,31,58,0,Foul on Octavius Ellis.
+Cincinnati,Kentucky,39,49,31,58,0,Dakari Johnson missed Free Throw.
+Cincinnati,Kentucky,39,49,31,58,0,Kentucky Deadball Team Rebound.
+Cincinnati,Kentucky,39,50,31,58,1,Dakari Johnson made Free Throw.
+Cincinnati,Kentucky,39,50,32,28,0,Troy Caupain missed Layup.
+Cincinnati,Kentucky,39,50,32,28,0,Karl-Anthony Towns Defensive Rebound.
+Cincinnati,Kentucky,39,50,32,29,0,Karl-Anthony Towns Turnover.
+Cincinnati,Kentucky,39,50,32,30,0,Official TV Timeout
+Cincinnati,Kentucky,39,50,32,31,0,Foul on Karl-Anthony Towns.
+Cincinnati,Kentucky,39,50,32,31,0,Foul on Octavius Ellis.
+Cincinnati,Kentucky,39,50,32,34,0,Troy Caupain Turnover.
+Cincinnati,Kentucky,39,50,32,34,0,Tyler Ulis Steal.
+Cincinnati,Kentucky,39,50,32,38,0,Andrew Harrison missed Layup.
+Cincinnati,Kentucky,39,50,32,38,0,Farad Cobb Defensive Rebound.
+Cincinnati,Kentucky,39,50,32,45,0,Troy Caupain missed Three Point Jumper.
+Cincinnati,Kentucky,39,50,32,45,0,Jermaine Sanders Offensive Rebound.
+Cincinnati,Kentucky,39,50,32,52,0,Farad Cobb Turnover.
+Cincinnati,Kentucky,39,50,33,18,0,Tyler Ulis missed Jumper.
+Cincinnati,Kentucky,39,50,33,18,0,Tyler Ulis Offensive Rebound.
+Cincinnati,Kentucky,39,50,33,18,0,Tyler Ulis missed Two Point Tip Shot.
+Cincinnati,Kentucky,39,50,33,18,0,Trey Lyles Offensive Rebound.
+Cincinnati,Kentucky,39,50,33,22,0,Foul on Coreontae DeBerry.
+Cincinnati,Kentucky,39,51,33,22,1,Trey Lyles made Free Throw.
+Cincinnati,Kentucky,39,51,33,22,0,Trey Lyles missed Free Throw.
+Cincinnati,Kentucky,39,51,33,22,0,Coreontae DeBerry Defensive Rebound.
+Cincinnati,Kentucky,39,51,33,49,0,Troy Caupain missed Jumper.
+Cincinnati,Kentucky,39,51,33,49,0,Shaquille Thomas Offensive Rebound.
+Cincinnati,Kentucky,41,51,33,49,1,Shaquille Thomas made Two Point Tip Shot.
+Cincinnati,Kentucky,41,53,33,57,1,Aaron Harrison made Layup. Assisted by Tyler Ulis.
+Cincinnati,Kentucky,41,53,34,20,0,Gary Clark missed Jumper.
+Cincinnati,Kentucky,41,53,34,20,0,Gary Clark Offensive Rebound.
+Cincinnati,Kentucky,41,53,34,42,0,Shaquille Thomas missed Jumper.
+Cincinnati,Kentucky,41,53,34,42,0,Trey Lyles Block.
+Cincinnati,Kentucky,41,53,34,42,0,Shaquille Thomas Offensive Rebound.
+Cincinnati,Kentucky,41,53,34,46,0,Octavius Ellis missed Jumper.
+Cincinnati,Kentucky,41,53,34,46,0,Karl-Anthony Towns Block.
+Cincinnati,Kentucky,41,53,34,46,0,Octavius Ellis Offensive Rebound.
+Cincinnati,Kentucky,41,53,34,53,0,Octavius Ellis missed Layup.
+Cincinnati,Kentucky,41,53,34,53,0,Trey Lyles Block.
+Cincinnati,Kentucky,41,53,34,53,0,Cincinnati Offensive Rebound.
+Cincinnati,Kentucky,41,53,34,59,0,Troy Caupain missed Jumper.
+Cincinnati,Kentucky,41,53,34,59,0,Andrew Harrison Block.
+Cincinnati,Kentucky,41,53,34,59,0,Troy Caupain Offensive Rebound.
+Cincinnati,Kentucky,43,53,35,7,1,Troy Caupain made Jumper.
+Cincinnati,Kentucky,43,56,35,27,1,Tyler Ulis made Three Point Jumper. Assisted by Andrew Harrison.
+Cincinnati,Kentucky,43,56,35,50,0,Foul on Karl-Anthony Towns.
+Cincinnati,Kentucky,43,56,35,50,0,Octavius Ellis missed Free Throw.
+Cincinnati,Kentucky,43,56,35,50,0,Gary Clark Offensive Rebound.
+Cincinnati,Kentucky,43,56,35,51,0,Foul on Kevin Johnson.
+Cincinnati,Kentucky,43,56,35,51,0,Kevin Johnson Turnover.
+Cincinnati,Kentucky,43,56,35,59,0,Kentucky  Timeout
+Cincinnati,Kentucky,43,56,36,6,0,Foul on Jermaine Sanders.
+Cincinnati,Kentucky,43,56,36,6,0,Official TV Timeout
+Cincinnati,Kentucky,43,57,36,6,1,Tyler Ulis made Free Throw.
+Cincinnati,Kentucky,43,58,36,6,1,Tyler Ulis made Free Throw.
+Cincinnati,Kentucky,43,58,36,28,0,Jermaine Sanders missed Jumper.
+Cincinnati,Kentucky,43,58,36,28,0,Octavius Ellis Offensive Rebound.
+Cincinnati,Kentucky,43,58,36,34,0,Octavius Ellis missed Layup.
+Cincinnati,Kentucky,43,58,36,34,0,Octavius Ellis Offensive Rebound.
+Cincinnati,Kentucky,43,58,36,38,0,Octavius Ellis Turnover.
+Cincinnati,Kentucky,43,58,36,38,0,Tyler Ulis Steal.
+Cincinnati,Kentucky,43,58,36,39,0,Tyler Ulis missed Jumper.
+Cincinnati,Kentucky,43,58,36,39,0,Jermaine Sanders Block.
+Cincinnati,Kentucky,43,58,36,39,0,Kentucky Offensive Rebound.
+Cincinnati,Kentucky,43,58,36,56,0,Andrew Harrison missed Jumper.
+Cincinnati,Kentucky,43,58,36,56,0,Octavius Ellis Offensive Rebound.
+Cincinnati,Kentucky,43,58,36,57,0,Octavius Ellis Turnover.
+Cincinnati,Kentucky,43,60,37,22,1,Trey Lyles made Layup.
+Cincinnati,Kentucky,43,60,37,39,0,Jermaine Sanders missed Three Point Jumper.
+Cincinnati,Kentucky,43,60,37,39,0,Trey Lyles Defensive Rebound.
+Cincinnati,Kentucky,43,60,38,16,0,Foul on Octavius Ellis.
+Cincinnati,Kentucky,43,61,38,16,1,Willie Cauley-Stein made Free Throw.
+Cincinnati,Kentucky,43,62,38,16,1,Willie Cauley-Stein made Free Throw.
+Cincinnati,Kentucky,43,62,38,26,0,Foul on Andrew Harrison.
+Cincinnati,Kentucky,44,62,38,26,1,Troy Caupain made Free Throw.
+Cincinnati,Kentucky,45,62,38,26,1,Troy Caupain made Free Throw.
+Cincinnati,Kentucky,45,62,38,34,0,Aaron Harrison Turnover.
+Cincinnati,Kentucky,45,62,38,34,0,Jermaine Sanders Steal.
+Cincinnati,Kentucky,45,62,38,37,0,Shaquille Thomas Turnover.
+Cincinnati,Kentucky,45,62,38,37,0,Aaron Harrison Steal.
+Cincinnati,Kentucky,45,62,38,39,0,Trey Lyles missed Dunk.
+Cincinnati,Kentucky,45,62,38,39,0,Gary Clark Block.
+Cincinnati,Kentucky,45,62,38,39,0,Jermaine Sanders Defensive Rebound.
+Cincinnati,Kentucky,45,62,38,49,0,Troy Caupain missed Three Point Jumper.
+Cincinnati,Kentucky,45,62,38,49,0,Dakari Johnson Defensive Rebound.
+Cincinnati,Kentucky,45,62,38,49,0,Foul on Jermaine Sanders.
+Cincinnati,Kentucky,45,63,38,49,1,Dakari Johnson made Free Throw.
+Cincinnati,Kentucky,45,64,38,49,1,Dakari Johnson made Free Throw.
+Cincinnati,Kentucky,47,64,38,57,1,Shaquille Thomas made Dunk. Assisted by Troy Caupain.
+Cincinnati,Kentucky,47,64,39,0,0,Cincinnati  Timeout
+Cincinnati,Kentucky,47,64,39,27,0,Dakari Johnson Turnover.
+Cincinnati,Kentucky,47,64,39,27,0,Gary Clark Steal.
+Cincinnati,Kentucky,47,64,39,27,0,Foul on Dakari Johnson.
+Cincinnati,Kentucky,48,64,39,27,1,Gary Clark made Free Throw.
+Cincinnati,Kentucky,49,64,39,27,1,Gary Clark made Free Throw.
+Cincinnati,Kentucky,49,64,39,36,0,Foul on Shaquille Thomas.
+Cincinnati,Kentucky,49,64,39,36,0,Andrew Harrison missed Free Throw.
+Cincinnati,Kentucky,49,64,39,36,0,Kentucky Deadball Team Rebound.
+Cincinnati,Kentucky,49,64,39,36,0,Andrew Harrison missed Free Throw.
+Cincinnati,Kentucky,49,64,39,36,0,Shaquille Thomas Defensive Rebound.
+Cincinnati,Kentucky,51,64,39,39,1,Shaquille Thomas made Layup.
+Cincinnati,Kentucky,51,64,40,0,0,End of Game

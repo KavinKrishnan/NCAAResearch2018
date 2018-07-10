@@ -1,0 +1,365 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+VCU,Virginia,0,0,0,0,0,Jump Ball won by VCU
+VCU,Virginia,2,0,0,26,1,Treveon Graham made Layup.
+VCU,Virginia,2,0,0,40,0,Malcolm Brogdon Turnover.
+VCU,Virginia,5,0,0,52,1,Juvonte Reddic made Three Point Jumper. Assisted by Rob Brandenberg.
+VCU,Virginia,5,0,1,31,0,Justin Anderson missed Three Point Jumper.
+VCU,Virginia,5,0,1,31,0,Terrance Shannon Defensive Rebound.
+VCU,Virginia,5,0,1,58,0,Briante Weber Turnover.
+VCU,Virginia,5,0,2,18,0,Foul on Juvonte Reddic.
+VCU,Virginia,5,1,2,18,1,Akil Mitchell made Free Throw.
+VCU,Virginia,5,2,2,18,1,Akil Mitchell made Free Throw.
+VCU,Virginia,5,2,2,34,0,Juvonte Reddic Turnover.
+VCU,Virginia,5,2,2,53,0,Foul on Rob Brandenberg.
+VCU,Virginia,5,2,2,58,0,Justin Anderson missed Jumper.
+VCU,Virginia,5,2,2,58,0,Jarred Guest Block.
+VCU,Virginia,5,2,2,58,0,Briante Weber Defensive Rebound.
+VCU,Virginia,5,2,3,4,0,Foul on Malcolm Brogdon.
+VCU,Virginia,5,2,3,11,0,Briante Weber missed Jumper.
+VCU,Virginia,5,2,3,11,0,Melvin Johnson Offensive Rebound.
+VCU,Virginia,5,2,3,33,0,Terrance Shannon missed Layup.
+VCU,Virginia,5,2,3,33,0,Anthony Gill Defensive Rebound.
+VCU,Virginia,5,2,3,34,0,Foul on Jarred Guest.
+VCU,Virginia,5,5,3,51,1,Joe Harris made Three Point Jumper. Assisted by London Perrantes.
+VCU,Virginia,5,5,4,9,0,Foul on Jordan Burgess.
+VCU,Virginia,5,5,4,9,0,Jordan Burgess Turnover.
+VCU,Virginia,5,5,4,9,0,Official TV Timeout
+VCU,Virginia,5,5,4,18,0,Joe Harris missed Three Point Jumper.
+VCU,Virginia,5,5,4,18,0,Justin Anderson Offensive Rebound.
+VCU,Virginia,5,5,4,22,0,Foul on Jordan Burgess.
+VCU,Virginia,5,5,4,37,0,London Perrantes Turnover.
+VCU,Virginia,5,5,4,52,0,Foul on Justin Anderson.
+VCU,Virginia,5,5,4,57,0,Treveon Graham missed Jumper.
+VCU,Virginia,5,5,4,57,0,London Perrantes Defensive Rebound.
+VCU,Virginia,5,5,5,1,0,Akil Mitchell missed Dunk.
+VCU,Virginia,5,5,5,1,0,Juvonte Reddic Defensive Rebound.
+VCU,Virginia,5,5,5,1,0,Foul on Joe Harris.
+VCU,Virginia,5,5,5,4,0,Foul on Anthony Gill.
+VCU,Virginia,7,5,5,17,1,Melvin Johnson made Jumper.
+VCU,Virginia,7,7,5,35,1,Joe Harris made Layup.
+VCU,Virginia,7,7,5,40,0,Foul on Anthony Gill.
+VCU,Virginia,7,7,5,43,0,Melvin Johnson missed Jumper.
+VCU,Virginia,7,7,5,43,0,London Perrantes Defensive Rebound.
+VCU,Virginia,7,7,5,50,0,Joe Harris Turnover.
+VCU,Virginia,7,7,5,50,0,Juvonte Reddic Steal.
+VCU,Virginia,7,7,5,55,0,Treveon Graham missed Layup.
+VCU,Virginia,7,7,6,0,0,Darion Atkins Defensive Rebound.
+VCU,Virginia,7,7,6,1,0,Darion Atkins Turnover.
+VCU,Virginia,7,7,6,11,0,Treveon Graham Turnover.
+VCU,Virginia,7,7,6,21,0,London Perrantes Turnover.
+VCU,Virginia,9,7,6,27,1,Briante Weber made Layup.
+VCU,Virginia,9,7,6,40,0,Malcolm Brogdon missed Jumper.
+VCU,Virginia,9,7,6,40,0,Mike Tobey Offensive Rebound.
+VCU,Virginia,9,7,6,45,0,Mike Tobey missed Layup.
+VCU,Virginia,9,7,6,45,0,Mike Tobey Offensive Rebound.
+VCU,Virginia,9,7,6,52,0,Foul on Terrance Shannon.
+VCU,Virginia,9,7,6,52,0,Mike Tobey missed Free Throw.
+VCU,Virginia,9,7,6,52,0,Virginia Deadball Team Rebound.
+VCU,Virginia,9,8,6,52,1,Mike Tobey made Free Throw.
+VCU,Virginia,9,8,7,0,0,Juvonte Reddic missed Jumper.
+VCU,Virginia,9,8,7,0,0,Mike Tobey Defensive Rebound.
+VCU,Virginia,9,8,7,14,0,London Perrantes missed Jumper.
+VCU,Virginia,9,8,7,14,0,Mike Tobey Offensive Rebound.
+VCU,Virginia,9,8,7,31,0,Malcolm Brogdon missed Three Point Jumper.
+VCU,Virginia,9,8,7,31,0,Treveon Graham Defensive Rebound.
+VCU,Virginia,9,8,7,43,0,Foul on Darion Atkins.
+VCU,Virginia,10,8,7,43,1,Treveon Graham made Free Throw.
+VCU,Virginia,11,8,7,43,1,Treveon Graham made Free Throw.
+VCU,Virginia,11,8,7,50,0,Foul on Justin Anderson.
+VCU,Virginia,11,8,7,50,0,Justin Anderson Turnover.
+VCU,Virginia,11,8,8,1,0,Melvin Johnson missed Layup.
+VCU,Virginia,11,8,8,1,0,Joe Harris Defensive Rebound.
+VCU,Virginia,11,8,8,9,0,Joe Harris Turnover.
+VCU,Virginia,11,8,8,9,0,Jarred Guest Steal.
+VCU,Virginia,11,8,8,37,0,Foul on Mike Tobey.
+VCU,Virginia,11,8,8,37,0,Official TV Timeout
+VCU,Virginia,11,8,8,37,0,Terrance Shannon missed Free Throw.
+VCU,Virginia,11,8,8,37,0,VCU Deadball Team Rebound.
+VCU,Virginia,12,8,8,37,1,Terrance Shannon made Free Throw.
+VCU,Virginia,12,8,9,7,0,Akil Mitchell missed Jumper.
+VCU,Virginia,12,8,9,7,0,Mike Tobey Offensive Rebound.
+VCU,Virginia,12,8,9,16,0,Foul on Melvin Johnson.
+VCU,Virginia,12,9,9,16,1,Joe Harris made Free Throw.
+VCU,Virginia,12,10,9,16,1,Joe Harris made Free Throw.
+VCU,Virginia,14,10,9,33,1,Melvin Johnson made Layup.
+VCU,Virginia,14,10,10,9,0,Malcolm Brogdon missed Jumper.
+VCU,Virginia,14,10,10,9,0,Virginia Deadball Team Rebound.
+VCU,Virginia,14,10,10,12,0,Virginia  Turnover.
+VCU,Virginia,16,10,10,24,1,Treveon Graham made Jumper.
+VCU,Virginia,16,10,10,43,0,Mike Tobey missed Layup.
+VCU,Virginia,16,10,10,43,0,JeQuan Lewis Defensive Rebound.
+VCU,Virginia,16,10,10,52,0,Rob Brandenberg missed Jumper.
+VCU,Virginia,16,10,10,52,0,Mike Tobey Defensive Rebound.
+VCU,Virginia,16,12,11,1,1,Akil Mitchell made Layup. Assisted by Joe Harris.
+VCU,Virginia,16,12,11,1,0,Foul on Rob Brandenberg.
+VCU,Virginia,16,12,11,1,0,Akil Mitchell missed Free Throw.
+VCU,Virginia,16,12,11,1,0,Juvonte Reddic Defensive Rebound.
+VCU,Virginia,18,12,11,11,1,Juvonte Reddic made Jumper.
+VCU,Virginia,18,12,11,33,0,Foul on Juvonte Reddic.
+VCU,Virginia,18,12,11,33,0,Darion Atkins missed Free Throw.
+VCU,Virginia,18,12,11,33,0,Virginia Deadball Team Rebound.
+VCU,Virginia,18,12,11,33,0,Darion Atkins missed Free Throw.
+VCU,Virginia,18,12,11,33,0,Jarred Guest Defensive Rebound.
+VCU,Virginia,18,12,11,40,0,Melvin Johnson Turnover.
+VCU,Virginia,18,12,11,40,0,London Perrantes Steal.
+VCU,Virginia,18,12,12,4,0,Foul on Terrance Shannon.
+VCU,Virginia,18,12,12,4,0,Official TV Timeout
+VCU,Virginia,18,13,12,4,1,Malcolm Brogdon made Free Throw.
+VCU,Virginia,18,14,12,4,1,Malcolm Brogdon made Free Throw.
+VCU,Virginia,18,14,12,9,0,JeQuan Lewis Turnover.
+VCU,Virginia,18,14,12,9,0,Malcolm Brogdon Steal.
+VCU,Virginia,18,14,12,28,0,Foul on Akil Mitchell.
+VCU,Virginia,18,14,12,28,0,Akil Mitchell Turnover.
+VCU,Virginia,20,14,12,50,1,JeQuan Lewis made Jumper.
+VCU,Virginia,20,14,12,50,0,Foul on London Perrantes.
+VCU,Virginia,21,14,12,50,1,JeQuan Lewis made Free Throw.
+VCU,Virginia,21,16,13,4,1,Joe Harris made Layup.
+VCU,Virginia,21,16,13,12,0,JeQuan Lewis missed Layup.
+VCU,Virginia,21,16,13,12,0,Akil Mitchell Block.
+VCU,Virginia,21,16,13,12,0,VCU Offensive Rebound.
+VCU,Virginia,21,16,13,24,0,Treveon Graham missed Three Point Jumper.
+VCU,Virginia,21,16,13,24,0,Jarred Guest Offensive Rebound.
+VCU,Virginia,21,16,13,42,0,Treveon Graham missed Jumper.
+VCU,Virginia,21,16,13,42,0,Virginia Deadball Team Rebound.
+VCU,Virginia,21,16,13,46,0,Foul on Mo Alie-Cox.
+VCU,Virginia,21,17,13,46,1,Akil Mitchell made Free Throw.
+VCU,Virginia,21,18,13,46,1,Akil Mitchell made Free Throw.
+VCU,Virginia,21,18,14,16,0,Briante Weber missed Three Point Jumper.
+VCU,Virginia,21,18,14,16,0,Darion Atkins Defensive Rebound.
+VCU,Virginia,21,18,14,48,0,London Perrantes Turnover.
+VCU,Virginia,21,18,15,4,0,Treveon Graham Turnover.
+VCU,Virginia,21,18,15,26,0,Foul on Treveon Graham.
+VCU,Virginia,21,18,15,26,0,Joe Harris missed Free Throw.
+VCU,Virginia,21,18,15,26,0,Virginia Deadball Team Rebound.
+VCU,Virginia,21,19,15,26,1,Joe Harris made Free Throw.
+VCU,Virginia,21,19,15,54,0,Briante Weber missed Jumper.
+VCU,Virginia,21,19,15,54,0,London Perrantes Defensive Rebound.
+VCU,Virginia,21,19,16,12,0,Foul on Mo Alie-Cox.
+VCU,Virginia,21,19,16,12,0,Official TV Timeout
+VCU,Virginia,21,20,16,12,1,London Perrantes made Free Throw.
+VCU,Virginia,21,21,16,12,1,London Perrantes made Free Throw.
+VCU,Virginia,21,21,16,33,0,Melvin Johnson missed Jumper.
+VCU,Virginia,21,21,16,33,0,Mike Tobey Defensive Rebound.
+VCU,Virginia,21,21,16,59,0,Foul on Jarred Guest.
+VCU,Virginia,21,21,16,59,0,Akil Mitchell missed Free Throw.
+VCU,Virginia,21,21,16,59,0,Virginia Deadball Team Rebound.
+VCU,Virginia,21,22,16,59,1,Akil Mitchell made Free Throw.
+VCU,Virginia,21,22,17,34,0,Foul on Melvin Johnson.
+VCU,Virginia,21,22,17,34,0,Melvin Johnson Turnover.
+VCU,Virginia,21,24,17,47,1,Mike Tobey made Jumper.
+VCU,Virginia,21,24,17,55,0,Briante Weber missed Layup.
+VCU,Virginia,21,24,17,55,0,Mike Tobey Block.
+VCU,Virginia,21,24,17,55,0,Malcolm Brogdon Defensive Rebound.
+VCU,Virginia,21,24,18,4,0,Malcolm Brogdon Turnover.
+VCU,Virginia,21,24,18,4,0,Briante Weber Steal.
+VCU,Virginia,21,24,18,4,0,VCU  Timeout
+VCU,Virginia,23,24,18,14,1,Treveon Graham made Jumper.
+VCU,Virginia,23,24,18,14,0,Foul on Akil Mitchell.
+VCU,Virginia,23,24,18,14,0,Treveon Graham missed Free Throw.
+VCU,Virginia,23,24,18,14,0,Mike Tobey Defensive Rebound.
+VCU,Virginia,23,24,18,33,0,London Perrantes missed Three Point Jumper.
+VCU,Virginia,23,24,18,33,0,Mike Tobey Offensive Rebound.
+VCU,Virginia,23,26,18,47,1,Joe Harris made Layup.
+VCU,Virginia,23,26,19,0,0,Terrance Shannon missed Layup.
+VCU,Virginia,23,26,19,0,0,Mike Tobey Block.
+VCU,Virginia,23,26,19,0,0,Darion Atkins Defensive Rebound.
+VCU,Virginia,23,26,19,18,0,Darion Atkins missed Jumper.
+VCU,Virginia,23,26,19,18,0,VCU Defensive Rebound.
+VCU,Virginia,23,26,19,21,0,Foul on Mike Tobey.
+VCU,Virginia,23,26,19,21,0,Treveon Graham missed Free Throw.
+VCU,Virginia,23,26,19,21,0,VCU Deadball Team Rebound.
+VCU,Virginia,24,26,19,21,1,Treveon Graham made Free Throw.
+VCU,Virginia,24,26,19,21,0,Virginia  Timeout
+VCU,Virginia,24,26,19,29,0,Teven Jones Turnover.
+VCU,Virginia,24,26,19,29,0,Briante Weber Steal.
+VCU,Virginia,24,26,19,36,0,JeQuan Lewis missed Layup.
+VCU,Virginia,24,26,19,36,0,VCU Offensive Rebound.
+VCU,Virginia,24,26,19,57,0,Melvin Johnson missed Three Point Jumper.
+VCU,Virginia,24,26,19,58,0,Virginia Defensive Rebound.
+VCU,Virginia,24,26,20,0,0,End of 1st half
+VCU,Virginia,24,26,20,0,0,Jump Ball won by Virginia
+VCU,Virginia,24,28,20,14,1,Akil Mitchell made Layup.
+VCU,Virginia,24,28,20,34,0,Juvonte Reddic missed Jumper.
+VCU,Virginia,24,28,20,34,0,Akil Mitchell Block.
+VCU,Virginia,24,28,20,34,0,VCU Offensive Rebound.
+VCU,Virginia,27,28,20,48,1,Rob Brandenberg made Three Point Jumper. Assisted by Juvonte Reddic.
+VCU,Virginia,27,28,21,25,0,Justin Anderson missed Jumper.
+VCU,Virginia,27,28,21,25,0,Rob Brandenberg Defensive Rebound.
+VCU,Virginia,30,28,21,33,1,Treveon Graham made Three Point Jumper. Assisted by Rob Brandenberg.
+VCU,Virginia,30,28,21,40,0,Malcolm Brogdon missed Layup.
+VCU,Virginia,30,28,21,40,0,Terrance Shannon Block.
+VCU,Virginia,30,28,21,40,0,Doug Brooks Defensive Rebound.
+VCU,Virginia,30,28,21,51,0,Rob Brandenberg missed Three Point Jumper.
+VCU,Virginia,30,28,21,51,0,Virginia Defensive Rebound.
+VCU,Virginia,30,28,21,54,0,Foul on Juvonte Reddic.
+VCU,Virginia,30,30,22,3,1,Justin Anderson made Layup. Assisted by Akil Mitchell.
+VCU,Virginia,30,30,22,27,0,Foul on Anthony Gill.
+VCU,Virginia,32,30,22,33,1,Briante Weber made Layup.
+VCU,Virginia,32,32,22,40,1,Mike Tobey made Dunk. Assisted by Akil Mitchell.
+VCU,Virginia,34,32,22,58,1,Terrance Shannon made Layup.
+VCU,Virginia,34,32,22,58,0,Foul on Mike Tobey.
+VCU,Virginia,34,32,22,58,0,Terrance Shannon missed Free Throw.
+VCU,Virginia,34,32,22,58,0,Akil Mitchell Defensive Rebound.
+VCU,Virginia,34,32,23,18,0,Foul on Briante Weber.
+VCU,Virginia,34,34,23,25,1,Malcolm Brogdon made Layup. Assisted by Joe Harris.
+VCU,Virginia,34,34,23,39,0,Rob Brandenberg missed Layup.
+VCU,Virginia,34,34,23,39,0,Darion Atkins Block.
+VCU,Virginia,34,34,23,39,0,VCU Offensive Rebound.
+VCU,Virginia,34,34,23,52,0,Briante Weber Turnover.
+VCU,Virginia,34,34,24,6,0,Foul on Terrance Shannon.
+VCU,Virginia,34,34,24,6,0,Official TV Timeout
+VCU,Virginia,34,35,24,6,1,Malcolm Brogdon made Free Throw.
+VCU,Virginia,34,35,24,6,0,Malcolm Brogdon missed Free Throw.
+VCU,Virginia,34,35,24,6,0,Darion Atkins Offensive Rebound.
+VCU,Virginia,34,37,24,18,1,Joe Harris made Layup.
+VCU,Virginia,34,37,24,33,0,Rob Brandenberg Turnover.
+VCU,Virginia,34,37,24,35,0,Malcolm Brogdon Turnover.
+VCU,Virginia,34,37,24,35,0,Rob Brandenberg Steal.
+VCU,Virginia,36,37,24,40,1,Rob Brandenberg made Layup. Assisted by Briante Weber.
+VCU,Virginia,36,37,25,4,0,Akil Mitchell Turnover.
+VCU,Virginia,36,37,25,4,0,Rob Brandenberg Steal.
+VCU,Virginia,36,37,25,12,0,Treveon Graham missed Three Point Jumper.
+VCU,Virginia,36,37,25,12,0,Joe Harris Defensive Rebound.
+VCU,Virginia,36,37,25,34,0,Joe Harris missed Jumper.
+VCU,Virginia,36,37,25,34,0,Treveon Graham Defensive Rebound.
+VCU,Virginia,38,37,26,3,1,Jordan Burgess made Jumper.
+VCU,Virginia,38,37,26,16,0,Joe Harris missed Three Point Jumper.
+VCU,Virginia,38,37,26,16,0,Jordan Burgess Defensive Rebound.
+VCU,Virginia,38,37,26,34,0,Foul on Jordan Burgess.
+VCU,Virginia,38,37,26,34,0,Jordan Burgess Turnover.
+VCU,Virginia,38,37,26,41,0,Foul on Melvin Johnson.
+VCU,Virginia,38,37,26,50,0,London Perrantes missed Jumper.
+VCU,Virginia,38,37,26,50,0,Justin Anderson Offensive Rebound.
+VCU,Virginia,38,37,26,50,0,Justin Anderson missed Two Point Tip Shot.
+VCU,Virginia,38,37,26,50,0,Darion Atkins Offensive Rebound.
+VCU,Virginia,38,37,26,50,0,Darion Atkins missed Two Point Tip Shot.
+VCU,Virginia,38,37,27,1,0,Melvin Johnson Defensive Rebound.
+VCU,Virginia,40,37,27,5,1,JeQuan Lewis made Layup.
+VCU,Virginia,40,37,27,28,0,Foul on Melvin Johnson.
+VCU,Virginia,40,37,27,28,0,Darion Atkins missed Free Throw.
+VCU,Virginia,40,37,27,28,0,Virginia Deadball Team Rebound.
+VCU,Virginia,40,38,27,28,1,Darion Atkins made Free Throw.
+VCU,Virginia,40,38,27,41,0,JeQuan Lewis missed Jumper.
+VCU,Virginia,40,38,27,41,0,Justin Anderson Block.
+VCU,Virginia,40,38,27,41,0,Joe Harris Defensive Rebound.
+VCU,Virginia,40,40,27,49,1,Joe Harris made Layup.
+VCU,Virginia,42,40,27,58,1,Juvonte Reddic made Layup.
+VCU,Virginia,42,40,28,8,0,Justin Anderson missed Layup.
+VCU,Virginia,42,40,28,8,0,Treveon Graham Defensive Rebound.
+VCU,Virginia,42,40,28,8,0,Foul on Justin Anderson.
+VCU,Virginia,42,40,28,8,0,Official TV Timeout
+VCU,Virginia,42,40,28,13,0,JeQuan Lewis Turnover.
+VCU,Virginia,42,40,28,13,0,Darion Atkins Steal.
+VCU,Virginia,42,40,28,37,0,Teven Jones missed Jumper.
+VCU,Virginia,42,40,28,37,0,JeQuan Lewis Defensive Rebound.
+VCU,Virginia,42,40,28,46,0,Doug Brooks missed Three Point Jumper.
+VCU,Virginia,42,40,28,46,0,London Perrantes Defensive Rebound.
+VCU,Virginia,42,40,28,52,0,Foul on JeQuan Lewis.
+VCU,Virginia,42,40,28,52,0,London Perrantes missed Free Throw.
+VCU,Virginia,42,40,28,52,0,Mo Alie-Cox Defensive Rebound.
+VCU,Virginia,42,40,29,24,0,Foul on London Perrantes.
+VCU,Virginia,42,40,29,26,0,Jarred Guest missed Jumper.
+VCU,Virginia,42,40,29,26,0,Darion Atkins Defensive Rebound.
+VCU,Virginia,42,42,29,42,1,Darion Atkins made Layup. Assisted by Malcolm Brogdon.
+VCU,Virginia,42,42,29,53,0,Jarred Guest missed Layup.
+VCU,Virginia,42,42,29,53,0,Malcolm Brogdon Block.
+VCU,Virginia,42,42,29,53,0,Anthony Gill Defensive Rebound.
+VCU,Virginia,42,44,30,0,1,Joe Harris made Layup. Assisted by Teven Jones.
+VCU,Virginia,42,44,30,22,0,Jarred Guest Turnover.
+VCU,Virginia,42,44,30,22,0,Anthony Gill Steal.
+VCU,Virginia,42,44,30,30,0,Foul on Briante Weber.
+VCU,Virginia,42,45,30,30,1,Teven Jones made Free Throw.
+VCU,Virginia,42,45,30,30,0,Teven Jones missed Free Throw.
+VCU,Virginia,42,45,30,30,0,Juvonte Reddic Defensive Rebound.
+VCU,Virginia,42,45,30,53,0,Foul on Joe Harris.
+VCU,Virginia,42,45,30,53,0,Terrance Shannon missed Free Throw.
+VCU,Virginia,42,45,30,53,0,VCU Deadball Team Rebound.
+VCU,Virginia,42,45,30,53,0,Terrance Shannon missed Free Throw.
+VCU,Virginia,42,45,30,53,0,Malcolm Brogdon Defensive Rebound.
+VCU,Virginia,42,45,31,7,0,Anthony Gill Turnover.
+VCU,Virginia,44,45,31,30,1,Rob Brandenberg made Layup.
+VCU,Virginia,44,45,31,43,0,Malcolm Brogdon missed Layup.
+VCU,Virginia,44,45,31,43,0,Darion Atkins Offensive Rebound.
+VCU,Virginia,44,45,31,43,0,Darion Atkins missed Two Point Tip Shot.
+VCU,Virginia,44,45,31,43,0,Darion Atkins Offensive Rebound.
+VCU,Virginia,44,47,31,45,1,Darion Atkins made Layup.
+VCU,Virginia,44,47,31,45,0,Foul on Terrance Shannon.
+VCU,Virginia,44,48,31,45,1,Darion Atkins made Free Throw.
+VCU,Virginia,44,48,31,46,0,Virginia  Timeout
+VCU,Virginia,44,48,31,59,0,Jordan Burgess missed Three Point Jumper.
+VCU,Virginia,44,48,31,59,0,Malcolm Brogdon Defensive Rebound.
+VCU,Virginia,44,50,32,31,1,Malcolm Brogdon made Jumper. Assisted by Justin Anderson.
+VCU,Virginia,44,50,32,43,0,Mo Alie-Cox missed Jumper.
+VCU,Virginia,44,50,32,43,0,Malcolm Brogdon Defensive Rebound.
+VCU,Virginia,44,50,33,0,0,Foul on Mo Alie-Cox.
+VCU,Virginia,44,50,33,0,0,Official TV Timeout
+VCU,Virginia,44,50,33,0,0,Justin Anderson missed Free Throw.
+VCU,Virginia,44,50,33,0,0,Virginia Deadball Team Rebound.
+VCU,Virginia,44,51,33,0,1,Justin Anderson made Free Throw.
+VCU,Virginia,46,51,33,18,1,Treveon Graham made Layup. Assisted by Briante Weber.
+VCU,Virginia,46,51,33,33,0,Virginia  Timeout
+VCU,Virginia,46,51,33,48,0,London Perrantes missed Three Point Jumper.
+VCU,Virginia,46,51,33,48,0,Briante Weber Defensive Rebound.
+VCU,Virginia,46,51,33,59,0,Rob Brandenberg missed Dunk.
+VCU,Virginia,46,51,33,59,0,Darion Atkins Block.
+VCU,Virginia,46,51,33,59,0,Rob Brandenberg Offensive Rebound.
+VCU,Virginia,48,51,34,11,1,Treveon Graham made Layup.
+VCU,Virginia,48,51,34,18,0,London Perrantes Turnover.
+VCU,Virginia,48,51,34,42,0,Treveon Graham missed Jumper.
+VCU,Virginia,48,51,34,42,0,Joe Harris Defensive Rebound.
+VCU,Virginia,48,53,34,59,1,Malcolm Brogdon made Jumper.
+VCU,Virginia,48,53,35,31,0,Foul on Malcolm Brogdon.
+VCU,Virginia,48,53,35,31,0,Treveon Graham missed Free Throw.
+VCU,Virginia,48,53,35,31,0,VCU Deadball Team Rebound.
+VCU,Virginia,49,53,35,31,1,Treveon Graham made Free Throw.
+VCU,Virginia,49,53,35,39,0,Malcolm Brogdon Turnover.
+VCU,Virginia,49,53,35,39,0,Treveon Graham Steal.
+VCU,Virginia,49,53,35,41,0,Foul on Joe Harris.
+VCU,Virginia,49,53,35,41,0,Briante Weber missed Free Throw.
+VCU,Virginia,49,53,35,41,0,Anthony Gill Defensive Rebound.
+VCU,Virginia,49,53,36,0,0,Akil Mitchell missed Layup.
+VCU,Virginia,49,53,36,0,0,Joe Harris Offensive Rebound.
+VCU,Virginia,49,53,36,2,0,Foul on Juvonte Reddic.
+VCU,Virginia,49,53,36,2,0,Official TV Timeout
+VCU,Virginia,49,53,36,2,0,Joe Harris missed Free Throw.
+VCU,Virginia,49,53,36,2,0,Virginia Deadball Team Rebound.
+VCU,Virginia,49,53,36,2,0,Joe Harris missed Free Throw.
+VCU,Virginia,49,53,36,2,0,Briante Weber Defensive Rebound.
+VCU,Virginia,49,53,36,10,0,Treveon Graham missed Three Point Jumper.
+VCU,Virginia,49,53,36,10,0,Akil Mitchell Defensive Rebound.
+VCU,Virginia,49,53,36,37,0,Darion Atkins Turnover.
+VCU,Virginia,49,53,36,37,0,Rob Brandenberg Steal.
+VCU,Virginia,49,53,36,45,0,Jordan Burgess missed Jumper.
+VCU,Virginia,49,53,36,45,0,Malcolm Brogdon Defensive Rebound.
+VCU,Virginia,49,55,37,5,1,Darion Atkins made Jumper. Assisted by Malcolm Brogdon.
+VCU,Virginia,49,55,37,14,0,Rob Brandenberg missed Jumper.
+VCU,Virginia,49,55,37,14,0,Juvonte Reddic Offensive Rebound.
+VCU,Virginia,51,55,37,15,1,Juvonte Reddic made Dunk.
+VCU,Virginia,51,55,37,31,0,Foul on Joe Harris.
+VCU,Virginia,51,55,37,31,0,Joe Harris Turnover.
+VCU,Virginia,51,55,37,31,0,VCU  Timeout
+VCU,Virginia,54,55,37,39,1,Jordan Burgess made Three Point Jumper. Assisted by Treveon Graham.
+VCU,Virginia,54,55,38,10,0,Joe Harris missed Jumper.
+VCU,Virginia,54,55,38,10,0,Briante Weber Defensive Rebound.
+VCU,Virginia,54,55,38,18,0,Jordan Burgess missed Three Point Jumper.
+VCU,Virginia,54,55,38,18,0,Justin Anderson Defensive Rebound.
+VCU,Virginia,54,55,38,34,0,Justin Anderson Turnover.
+VCU,Virginia,54,55,38,34,0,Treveon Graham Steal.
+VCU,Virginia,56,55,38,42,1,Treveon Graham made Jumper.
+VCU,Virginia,56,55,39,19,0,Joe Harris missed Three Point Jumper.
+VCU,Virginia,56,55,39,19,0,Juvonte Reddic Defensive Rebound.
+VCU,Virginia,56,55,39,33,0,Foul on London Perrantes.
+VCU,Virginia,56,55,39,33,0,Briante Weber missed Free Throw.
+VCU,Virginia,56,55,39,33,0,Anthony Gill Defensive Rebound.
+VCU,Virginia,56,55,39,50,0,Foul on Jordan Burgess.
+VCU,Virginia,56,55,39,50,0,VCU  Timeout
+VCU,Virginia,56,55,39,50,0,Malcolm Brogdon missed Free Throw.
+VCU,Virginia,56,55,39,50,0,Virginia Deadball Team Rebound.
+VCU,Virginia,56,55,39,50,0,VCU  Timeout
+VCU,Virginia,56,56,39,50,1,Malcolm Brogdon made Free Throw.
+VCU,Virginia,59,56,39,57,1,Treveon Graham made Three Point Jumper. Assisted by Rob Brandenberg.
+VCU,Virginia,59,56,39,58,0,Virginia  Timeout
+VCU,Virginia,59,56,39,59,0,VCU  Timeout
+VCU,Virginia,59,56,39,59,0,Justin Anderson missed Three Point Jumper.
+VCU,Virginia,59,56,39,59,0,Virginia Deadball Team Rebound.
+VCU,Virginia,59,56,40,0,0,End of Game

@@ -1,0 +1,264 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Rider,Princeton,0,0,0,24,0,Anthony Myles Turnover.
+Rider,Princeton,0,0,0,25,0,Ian Hummer Steal.
+Rider,Princeton,0,0,0,39,0,Ian Hummer missed Layup.
+Rider,Princeton,0,0,0,39,0,Nurideen Lindsey Defensive Rebound.
+Rider,Princeton,0,0,1,12,0,Nurideen Lindsey missed Layup.
+Rider,Princeton,0,0,1,12,0,Princeton Defensive Rebound.
+Rider,Princeton,0,0,1,33,0,Foul on Daniel Stewart
+Rider,Princeton,0,1,1,33,1,Hans Brase made Free Throw.
+Rider,Princeton,0,2,1,33,1,Hans Brase made Free Throw.
+Rider,Princeton,0,2,2,2,0,Anthony Myles Turnover.
+Rider,Princeton,0,2,2,2,0,T.J. Bray Steal.
+Rider,Princeton,0,2,2,15,0,Hans Brase missed Layup.
+Rider,Princeton,0,2,2,15,0,Daniel Stewart Defensive Rebound.
+Rider,Princeton,3,2,2,34,1,Anthony Myles made Three Point Jumper.  Assisted by Daniel Stewart.
+Rider,Princeton,3,5,3,2,1,Will Barrett made Three Point Jumper.  Assisted by Hans Brase.
+Rider,Princeton,3,5,3,16,0,Nurideen Lindsey missed Three Point Jumper.
+Rider,Princeton,3,5,3,16,0,Ian Hummer Defensive Rebound.
+Rider,Princeton,3,5,3,30,0,Will Barrett Turnover.
+Rider,Princeton,3,5,3,34,0,Nurideen Lindsey Steal.
+Rider,Princeton,3,5,3,42,0,Foul on Dera Nd-Ezuma
+Rider,Princeton,3,5,3,42,0,Dera Nd-Ezuma Turnover.
+Rider,Princeton,3,7,4,4,1,Ian Hummer made Jumper.  Assisted by Hans Brase.
+Rider,Princeton,6,7,4,33,1,Anthony Myles made Three Point Jumper.  Assisted by Daniel Stewart.
+Rider,Princeton,6,9,4,54,1,Hans Brase made Layup.  Assisted by Will Barrett.
+Rider,Princeton,8,9,5,14,1,Jonathon Thompson made Layup.
+Rider,Princeton,8,9,5,31,0,Denton Koon Turnover.
+Rider,Princeton,8,9,5,31,0,Official TV Timeout.
+Rider,Princeton,8,9,5,52,0,Nurideen Lindsey Turnover.
+Rider,Princeton,8,9,6,12,0,Denton Koon missed Layup.
+Rider,Princeton,8,9,6,12,0,Dera Nd-Ezuma Block.
+Rider,Princeton,8,9,6,13,0,Zedric Sadler Defensive Rebound.
+Rider,Princeton,8,9,6,44,0,Foul on Will Barrett
+Rider,Princeton,8,9,6,49,0,Daniel Stewart missed Layup.
+Rider,Princeton,8,9,6,49,0,T.J. Bray Defensive Rebound.
+Rider,Princeton,8,9,7,10,0,T.J. Bray Turnover.
+Rider,Princeton,8,9,7,14,0,Nurideen Lindsey Steal.
+Rider,Princeton,8,9,7,15,0,Zedric Sadler missed Layup.
+Rider,Princeton,8,9,7,15,0,Daniel Stewart Offensive Rebound.
+Rider,Princeton,8,9,7,18,0,Daniel Stewart missed Layup.
+Rider,Princeton,8,9,7,18,0,Denton Koon Defensive Rebound.
+Rider,Princeton,8,9,7,35,0,T.J. Bray missed Three Point Jumper.
+Rider,Princeton,8,9,7,35,0,Anthony Myles Defensive Rebound.
+Rider,Princeton,8,9,7,55,0,Nurideen Lindsey missed Layup.
+Rider,Princeton,8,9,7,55,0,Ian Hummer Defensive Rebound.
+Rider,Princeton,8,9,8,7,0,Ian Hummer missed Layup.
+Rider,Princeton,8,9,8,7,0,Ian Hummer Offensive Rebound.
+Rider,Princeton,8,9,8,10,0,Ian Hummer missed Layup.
+Rider,Princeton,8,9,8,10,0,Daniel Stewart Defensive Rebound.
+Rider,Princeton,8,9,8,19,0,Zedric Sadler missed Jumper.
+Rider,Princeton,8,9,8,19,0,Denton Koon Defensive Rebound.
+Rider,Princeton,8,11,8,37,1,Denton Koon made Layup.  Assisted by Ian Hummer.
+Rider,Princeton,10,11,8,58,1,Nurideen Lindsey made Layup.
+Rider,Princeton,10,13,9,25,1,Denton Koon made Jumper.  Assisted by Brendan Connolly.
+Rider,Princeton,10,13,9,49,0,Foul on Denton Koon
+Rider,Princeton,10,13,9,49,0,Official TV Timeout.
+Rider,Princeton,10,13,10,19,0,Jonathon Thompson missed Jumper.
+Rider,Princeton,10,13,10,19,0,Will Barrett Defensive Rebound.
+Rider,Princeton,10,13,10,41,0,Clay Wilson missed Jumper.
+Rider,Princeton,10,13,10,41,0,Zedric Sadler Defensive Rebound.
+Rider,Princeton,10,13,10,56,0,Anthony Myles missed Three Point Jumper.
+Rider,Princeton,10,13,10,56,0,Brendan Connolly Defensive Rebound.
+Rider,Princeton,10,13,10,57,0,Foul on Junior Fortunat
+Rider,Princeton,10,13,11,5,0,Hans Brase Turnover.
+Rider,Princeton,10,13,11,5,0,Shawn Valentine Steal.
+Rider,Princeton,10,13,11,6,0,Foul on Hans Brase
+Rider,Princeton,10,13,11,30,0,Junior Fortunat missed Layup.
+Rider,Princeton,10,13,11,30,0,Mack Darrow Defensive Rebound.
+Rider,Princeton,10,13,11,51,0,Hans Brase Turnover.
+Rider,Princeton,10,13,11,52,0,Shawn Valentine Steal.
+Rider,Princeton,12,13,12,9,1,Junior Fortunat made Layup.  Assisted by Nurideen Lindsey.
+Rider,Princeton,12,15,12,28,1,Ian Hummer made Layup.
+Rider,Princeton,12,15,12,36,0,Foul on Chris Clement
+Rider,Princeton,12,15,12,36,0,Official TV Timeout.
+Rider,Princeton,12,15,12,56,0,Nurideen Lindsey Turnover.
+Rider,Princeton,12,15,12,57,0,Clay Wilson Steal.
+Rider,Princeton,12,15,13,25,0,Ian Hummer missed Layup.
+Rider,Princeton,12,15,13,25,0,Will Barrett Offensive Rebound.
+Rider,Princeton,12,17,13,28,1,Will Barrett made Layup.
+Rider,Princeton,12,17,13,59,0,Nurideen Lindsey missed Jumper.
+Rider,Princeton,12,17,13,59,0,Denton Koon Defensive Rebound.
+Rider,Princeton,12,17,14,13,0,Clay Wilson missed Layup.
+Rider,Princeton,12,17,14,13,0,Jonathon Thompson Defensive Rebound.
+Rider,Princeton,14,17,14,18,1,Jonathon Thompson made Layup.
+Rider,Princeton,14,17,14,20,0,Princeton Full Timeout.
+Rider,Princeton,14,17,14,31,0,Denton Koon Turnover.
+Rider,Princeton,14,17,14,41,0,Daniel Stewart Turnover.
+Rider,Princeton,14,17,15,16,0,T.J. Bray Turnover.
+Rider,Princeton,14,17,15,18,0,Tommy Pereira Steal.
+Rider,Princeton,14,17,15,19,0,Foul on Mack Darrow
+Rider,Princeton,15,17,15,19,1,Jonathon Thompson made Free Throw.
+Rider,Princeton,15,17,15,19,0,Jonathon Thompson missed Free Throw.
+Rider,Princeton,15,17,15,19,0,Ian Hummer Defensive Rebound.
+Rider,Princeton,15,19,15,41,1,Denton Koon made Layup.  Assisted by Will Barrett.
+Rider,Princeton,15,19,15,53,0,Foul on T.J. Bray
+Rider,Princeton,15,19,15,53,0,Daniel Stewart missed Free Throw.
+Rider,Princeton,15,19,15,53,0,null
+Rider,Princeton,15,19,15,53,0,Daniel Stewart missed Free Throw.
+Rider,Princeton,15,19,15,53,0,Hans Brase Defensive Rebound.
+Rider,Princeton,15,21,16,11,1,Hans Brase made Layup.
+Rider,Princeton,15,21,16,11,0,Foul on Shawn Valentine
+Rider,Princeton,15,21,16,11,0,Official TV Timeout.
+Rider,Princeton,15,22,16,11,1,Hans Brase made Free Throw.
+Rider,Princeton,18,22,16,43,1,Jonathon Thompson made Three Point Jumper.  Assisted by Anthony Myles.
+Rider,Princeton,18,22,17,22,0,T.J. Bray missed Three Point Jumper.
+Rider,Princeton,18,22,17,22,0,Rider Defensive Rebound.
+Rider,Princeton,18,22,17,56,0,Nurideen Lindsey missed Layup.
+Rider,Princeton,18,22,17,56,0,Hans Brase Block.
+Rider,Princeton,18,22,17,57,0,Ian Hummer Defensive Rebound.
+Rider,Princeton,18,22,18,5,0,Denton Koon missed Jumper.
+Rider,Princeton,18,22,18,5,0,T.J. Bray Offensive Rebound.
+Rider,Princeton,18,24,18,15,1,Ian Hummer made Layup.
+Rider,Princeton,18,24,18,25,0,Foul on Hans Brase
+Rider,Princeton,19,24,18,25,1,Dera Nd-Ezuma made Free Throw.
+Rider,Princeton,19,24,18,25,0,Dera Nd-Ezuma missed Free Throw.
+Rider,Princeton,19,24,18,25,0,Brendan Connolly Defensive Rebound.
+Rider,Princeton,19,26,18,49,1,Brendan Connolly made Layup.
+Rider,Princeton,19,26,19,15,0,Foul on T.J. Bray
+Rider,Princeton,20,26,19,15,1,Jonathon Thompson made Free Throw.
+Rider,Princeton,21,26,19,15,1,Jonathon Thompson made Free Throw.
+Rider,Princeton,21,26,19,51,0,Ian Hummer missed Three Point Jumper.
+Rider,Princeton,21,26,19,51,0,Will Barrett Offensive Rebound.
+Rider,Princeton,21,26,19,54,0,Foul on Anthony Myles
+Rider,Princeton,21,27,19,54,1,Will Barrett made Free Throw.
+Rider,Princeton,21,27,19,54,0,Will Barrett missed Free Throw.
+Rider,Princeton,21,27,19,54,0,Junior Fortunat Defensive Rebound.
+Rider,Princeton,21,27,20,0,0,End of the 1st Half.
+Rider,Princeton,23,27,20,29,1,Anthony Myles made Layup.
+Rider,Princeton,23,29,20,43,1,Ian Hummer made Dunk.  Assisted by Will Barrett.
+Rider,Princeton,23,29,21,10,0,Dera Nd-Ezuma missed Dunk.
+Rider,Princeton,23,29,21,10,0,Daniel Stewart Offensive Rebound.
+Rider,Princeton,23,29,21,11,0,Daniel Stewart Turnover.
+Rider,Princeton,23,29,21,32,0,Ian Hummer missed Jumper.
+Rider,Princeton,23,29,21,32,0,Dera Nd-Ezuma Defensive Rebound.
+Rider,Princeton,23,29,21,41,0,Foul on Nurideen Lindsey
+Rider,Princeton,23,29,21,41,0,Nurideen Lindsey Turnover.
+Rider,Princeton,23,29,22,3,0,Denton Koon missed Layup.
+Rider,Princeton,23,29,22,3,0,Dera Nd-Ezuma Defensive Rebound.
+Rider,Princeton,23,29,22,9,0,Jonathon Thompson missed Three Point Jumper.
+Rider,Princeton,23,29,22,9,0,Anthony Myles Offensive Rebound.
+Rider,Princeton,23,29,22,14,0,Anthony Myles missed Three Point Jumper.
+Rider,Princeton,23,29,22,14,0,Denton Koon Defensive Rebound.
+Rider,Princeton,23,31,22,28,1,Ian Hummer made Layup.
+Rider,Princeton,23,31,22,33,0,Rider Full Timeout.
+Rider,Princeton,25,31,22,53,1,Anthony Myles made Layup.  Assisted by Nurideen Lindsey.
+Rider,Princeton,25,31,23,7,0,Denton Koon Turnover.
+Rider,Princeton,25,31,23,23,0,Dera Nd-Ezuma missed Layup.
+Rider,Princeton,25,31,23,23,0,Will Barrett Defensive Rebound.
+Rider,Princeton,25,31,23,48,0,Ian Hummer Turnover.
+Rider,Princeton,25,31,23,49,0,Nurideen Lindsey Steal.
+Rider,Princeton,25,31,23,50,0,Nurideen Lindsey Turnover.
+Rider,Princeton,25,31,23,51,0,Ian Hummer Steal.
+Rider,Princeton,25,33,23,52,1,Ian Hummer made Layup.
+Rider,Princeton,27,33,23,58,1,Nurideen Lindsey made Layup.
+Rider,Princeton,27,35,24,16,1,Denton Koon made Jumper.  Assisted by T.J. Bray.
+Rider,Princeton,27,35,24,33,0,Anthony Myles Turnover.
+Rider,Princeton,27,35,24,33,0,Official TV Timeout.
+Rider,Princeton,27,37,24,47,1,Will Barrett made Dunk.  Assisted by Ian Hummer.
+Rider,Princeton,27,37,25,3,0,Nurideen Lindsey missed Layup.
+Rider,Princeton,27,37,25,3,0,T.J. Bray Defensive Rebound.
+Rider,Princeton,27,37,25,12,0,Foul on Junior Fortunat
+Rider,Princeton,27,37,25,13,0,Clay Wilson missed Three Point Jumper.
+Rider,Princeton,27,37,25,13,0,Daniel Stewart Defensive Rebound.
+Rider,Princeton,29,37,25,20,1,Jonathon Thompson made Dunk.  Assisted by Daniel Stewart.
+Rider,Princeton,29,37,26,4,0,Foul on Clay Wilson
+Rider,Princeton,29,37,26,4,0,Clay Wilson Turnover.
+Rider,Princeton,29,37,26,23,0,Anthony Myles missed Jumper.
+Rider,Princeton,29,37,26,23,0,Ian Hummer Defensive Rebound.
+Rider,Princeton,29,37,26,47,0,Mack Darrow missed Three Point Jumper.
+Rider,Princeton,29,37,26,47,0,Anthony Myles Defensive Rebound.
+Rider,Princeton,29,37,27,23,0,Jonathon Thompson missed Three Point Jumper.
+Rider,Princeton,29,37,27,23,0,Hans Brase Defensive Rebound.
+Rider,Princeton,29,39,27,45,1,Denton Koon made Layup.  Assisted by Hans Brase.
+Rider,Princeton,29,39,28,2,0,Tommy Pereira missed Three Point Jumper.
+Rider,Princeton,29,39,28,2,0,Princeton Defensive Rebound.
+Rider,Princeton,29,39,28,5,0,Official TV Timeout.
+Rider,Princeton,29,39,28,18,0,Will Barrett Turnover.
+Rider,Princeton,29,39,28,18,0,Anthony Myles Steal.
+Rider,Princeton,29,39,28,18,0,Foul on Hans Brase
+Rider,Princeton,29,39,28,28,0,Shawn Valentine missed Three Point Jumper.
+Rider,Princeton,29,39,28,28,0,T.J. Bray Defensive Rebound.
+Rider,Princeton,29,39,28,51,0,Hans Brase missed Layup.
+Rider,Princeton,29,39,28,51,0,Princeton Offensive Rebound.
+Rider,Princeton,29,39,29,2,0,T.J. Bray missed Jumper.
+Rider,Princeton,29,39,29,2,0,Daniel Stewart Defensive Rebound.
+Rider,Princeton,31,39,29,7,1,Shawn Valentine made Layup.  Assisted by Jonathon Thompson.
+Rider,Princeton,31,39,29,10,0,Princeton Full Timeout.
+Rider,Princeton,31,41,29,20,1,Hans Brase made Layup.  Assisted by T.J. Bray.
+Rider,Princeton,31,41,29,42,0,Foul on Daniel Stewart
+Rider,Princeton,31,41,29,42,0,Daniel Stewart Turnover.
+Rider,Princeton,31,41,29,55,0,Foul on Tommy Pereira
+Rider,Princeton,31,42,29,55,1,Ian Hummer made Free Throw.
+Rider,Princeton,31,42,29,55,0,Ian Hummer missed Free Throw.
+Rider,Princeton,31,42,29,55,0,Princeton Offensive Rebound.
+Rider,Princeton,31,42,30,8,0,Will Barrett missed Layup.
+Rider,Princeton,31,42,30,8,0,Shawn Valentine Block.
+Rider,Princeton,31,42,30,10,0,Anthony Myles Defensive Rebound.
+Rider,Princeton,31,42,30,14,0,Nurideen Lindsey missed Layup.
+Rider,Princeton,31,42,30,14,0,Ian Hummer Block.
+Rider,Princeton,31,42,30,15,0,T.J. Bray Defensive Rebound.
+Rider,Princeton,31,45,30,40,1,T.J. Bray made Three Point Jumper.  Assisted by Ian Hummer.
+Rider,Princeton,31,45,30,51,0,Anthony Myles missed Layup.
+Rider,Princeton,31,45,30,51,0,Anthony Myles Offensive Rebound.
+Rider,Princeton,33,45,30,51,1,Anthony Myles made Tip Shot.
+Rider,Princeton,33,45,30,51,0,Foul on Brendan Connolly
+Rider,Princeton,34,45,30,51,1,Anthony Myles made Free Throw.
+Rider,Princeton,34,47,31,1,1,Denton Koon made Layup.
+Rider,Princeton,34,47,31,1,0,Foul on Anthony Myles
+Rider,Princeton,34,48,31,1,1,Denton Koon made Free Throw.
+Rider,Princeton,34,48,31,14,0,Foul on Brendan Connolly
+Rider,Princeton,34,48,31,22,0,Daniel Stewart missed Jumper.
+Rider,Princeton,34,48,31,22,0,Princeton Defensive Rebound.
+Rider,Princeton,34,48,31,39,0,Clay Wilson missed Three Point Jumper.
+Rider,Princeton,34,48,31,39,0,Ian Hummer Offensive Rebound.
+Rider,Princeton,34,50,32,7,1,Hans Brase made Layup.  Assisted by Ian Hummer.
+Rider,Princeton,34,50,32,15,0,Foul on Nurideen Lindsey
+Rider,Princeton,34,50,32,15,0,Nurideen Lindsey Turnover.
+Rider,Princeton,34,50,32,15,0,Official TV Timeout.
+Rider,Princeton,34,52,32,22,1,Ian Hummer made Layup.
+Rider,Princeton,34,52,32,50,0,Zedric Sadler missed Jumper.
+Rider,Princeton,34,52,32,50,0,Denton Koon Defensive Rebound.
+Rider,Princeton,34,54,33,15,1,Hans Brase made Layup.
+Rider,Princeton,36,54,33,36,1,Anthony Myles made Jumper.
+Rider,Princeton,36,56,34,3,1,Denton Koon made Layup.  Assisted by Clay Wilson.
+Rider,Princeton,36,56,34,35,0,Anthony Myles missed Layup.
+Rider,Princeton,36,56,34,35,0,Hans Brase Block.
+Rider,Princeton,36,56,34,36,0,Denton Koon Defensive Rebound.
+Rider,Princeton,36,56,35,10,0,Princeton Turnover.
+Rider,Princeton,36,56,35,36,0,Foul on Brendan Connolly
+Rider,Princeton,37,56,35,36,1,Jonathon Thompson made Free Throw.
+Rider,Princeton,38,56,35,36,1,Jonathon Thompson made Free Throw.
+Rider,Princeton,38,56,35,36,0,Rider Full Timeout.
+Rider,Princeton,38,56,35,43,0,Foul on Anthony Myles
+Rider,Princeton,38,56,35,43,0,Chris Clement missed Free Throw.
+Rider,Princeton,38,56,35,43,0,Anthony Myles Defensive Rebound.
+Rider,Princeton,40,56,36,5,1,Anthony Myles made Layup.
+Rider,Princeton,40,56,36,5,0,Foul on Hans Brase
+Rider,Princeton,40,56,36,5,0,Official TV Timeout.
+Rider,Princeton,41,56,36,5,1,Anthony Myles made Free Throw.
+Rider,Princeton,41,56,36,32,0,Foul on Jamal Nwaniemeka
+Rider,Princeton,41,57,36,32,1,T.J. Bray made Free Throw.
+Rider,Princeton,41,58,36,32,1,T.J. Bray made Free Throw.
+Rider,Princeton,41,58,37,5,0,Jonathon Thompson missed Layup.
+Rider,Princeton,41,58,37,5,0,Princeton Defensive Rebound.
+Rider,Princeton,41,58,37,38,0,Ian Hummer missed Layup.
+Rider,Princeton,41,58,37,38,0,Hans Brase Offensive Rebound.
+Rider,Princeton,41,60,37,41,1,Hans Brase made Layup.
+Rider,Princeton,41,60,37,52,0,Jonathon Thompson Turnover.
+Rider,Princeton,41,62,38,22,1,Hans Brase made Dunk.  Assisted by Ian Hummer.
+Rider,Princeton,41,62,38,37,0,Dera Nd-Ezuma missed Layup.
+Rider,Princeton,41,62,38,37,0,T.J. Bray Defensive Rebound.
+Rider,Princeton,41,62,38,54,0,Princeton Full Timeout.
+Rider,Princeton,41,62,39,11,0,Chris Clement missed Layup.
+Rider,Princeton,41,62,39,11,0,Dera Nd-Ezuma Block.
+Rider,Princeton,41,62,39,13,0,Bobby Garbade Offensive Rebound.
+Rider,Princeton,41,62,39,14,0,Princeton Turnover.
+Rider,Princeton,41,62,39,24,0,Foul on Ameer Elbuluk
+Rider,Princeton,42,62,39,24,1,Jamal Nwaniemeka made Free Throw.
+Rider,Princeton,43,62,39,24,1,Jamal Nwaniemeka made Free Throw.
+Rider,Princeton,43,62,39,50,0,Foul on Ameer Elbuluk
+Rider,Princeton,43,62,39,50,0,Ameer Elbuluk Turnover.
+Rider,Princeton,45,62,40,0,1,Myles Melville made Jumper.
+Rider,Princeton,45,62,40,0,0,End of the 2nd Half.
+Rider,Princeton,45,62,40,0,0,End Game

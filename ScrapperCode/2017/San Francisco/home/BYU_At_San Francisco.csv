@@ -1,0 +1,366 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+BYU,San Francisco,0,0,0,29,0,Nate Renfro missed Layup.
+BYU,San Francisco,0,0,0,29,0,Eric Mika Defensive Rebound.
+BYU,San Francisco,2,0,0,56,1,Nick Emery made Jumper.
+BYU,San Francisco,2,0,1,7,0,Nate Renfro Turnover.
+BYU,San Francisco,2,0,1,17,0,Yoeli Childs missed Jumper.
+BYU,San Francisco,2,0,1,17,0,Matt McCarthy Defensive Rebound.
+BYU,San Francisco,2,0,1,25,0,Charles Minlend missed Three Point Jumper.
+BYU,San Francisco,2,0,1,25,0,Elijah Bryant Defensive Rebound.
+BYU,San Francisco,2,0,1,37,0,Eric Mika missed Layup.
+BYU,San Francisco,2,0,1,37,0,Eric Mika Offensive Rebound.
+BYU,San Francisco,4,0,1,39,1,Eric Mika made Layup.
+BYU,San Francisco,4,3,1,53,1,Charles Minlend made Three Point Jumper. Assisted by Matt McCarthy.
+BYU,San Francisco,4,3,2,12,0,Yoeli Childs missed Jumper.
+BYU,San Francisco,4,3,2,12,0,Jordan Ratinho Defensive Rebound.
+BYU,San Francisco,4,3,2,28,0,Charles Minlend missed Three Point Jumper.
+BYU,San Francisco,4,3,2,28,0,Nick Emery Defensive Rebound.
+BYU,San Francisco,4,3,2,36,0,TJ Haws Turnover.
+BYU,San Francisco,4,3,2,50,0,Matt McCarthy missed Three Point Jumper.
+BYU,San Francisco,4,3,2,50,0,Elijah Bryant Defensive Rebound.
+BYU,San Francisco,4,3,3,1,0,TJ Haws Turnover.
+BYU,San Francisco,4,3,3,2,0,Charles Minlend Steal.
+BYU,San Francisco,4,3,3,5,0,Charles Minlend missed Layup.
+BYU,San Francisco,4,3,3,5,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,4,3,3,13,0,TJ Haws missed Three Point Jumper.
+BYU,San Francisco,4,3,3,13,0,Yoeli Childs Offensive Rebound.
+BYU,San Francisco,4,3,3,31,0,Foul on Nate Renfro.
+BYU,San Francisco,4,3,3,31,0,Yoeli Childs missed Free Throw.
+BYU,San Francisco,4,3,3,31,0,BYU Deadball Team Rebound.
+BYU,San Francisco,4,3,3,31,0,Yoeli Childs missed Free Throw.
+BYU,San Francisco,4,3,3,31,0,Ronnie Boyce Defensive Rebound.
+BYU,San Francisco,4,3,3,47,0,Ronnie Boyce missed Three Point Jumper.
+BYU,San Francisco,4,3,3,47,0,Remu Raitanen Offensive Rebound.
+BYU,San Francisco,4,3,3,56,0,Remu Raitanen missed Three Point Jumper.
+BYU,San Francisco,4,3,3,56,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,4,3,4,7,0,Eric Mika missed Jumper.
+BYU,San Francisco,4,3,4,7,0,Remu Raitanen Defensive Rebound.
+BYU,San Francisco,4,6,4,25,1,Jordan Ratinho made Three Point Jumper. Assisted by Ronnie Boyce.
+BYU,San Francisco,4,6,4,46,0,Foul on Ronnie Boyce.
+BYU,San Francisco,4,6,4,46,0,Official TV Timeout
+BYU,San Francisco,4,6,4,48,0,Foul on Jimbo Lull.
+BYU,San Francisco,5,6,4,48,1,Eric Mika made Free Throw.
+BYU,San Francisco,6,6,4,48,1,Eric Mika made Free Throw.
+BYU,San Francisco,6,6,4,59,0,Frankie Ferrari missed Three Point Jumper.
+BYU,San Francisco,6,6,4,59,0,Eric Mika Defensive Rebound.
+BYU,San Francisco,8,6,5,22,1,Eric Mika made Jumper.
+BYU,San Francisco,8,6,5,47,0,Ronnie Boyce missed Layup.
+BYU,San Francisco,8,6,5,47,0,Eric Mika Block.
+BYU,San Francisco,8,6,5,49,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,8,6,5,57,0,Nick Emery missed Three Point Jumper.
+BYU,San Francisco,8,6,5,57,0,Jimbo Lull Defensive Rebound.
+BYU,San Francisco,8,6,6,10,0,Chase Foster missed Three Point Jumper.
+BYU,San Francisco,8,6,6,10,0,Eric Mika Defensive Rebound.
+BYU,San Francisco,8,6,6,18,0,Elijah Bryant Turnover.
+BYU,San Francisco,8,6,6,20,0,Ronnie Boyce Steal.
+BYU,San Francisco,8,6,6,23,0,Ronnie Boyce missed Layup.
+BYU,San Francisco,8,6,6,23,0,Elijah Bryant Block.
+BYU,San Francisco,8,6,6,25,0,San Francisco Offensive Rebound.
+BYU,San Francisco,8,6,6,40,0,Foul on Eric Mika.
+BYU,San Francisco,8,6,6,55,0,Remu Raitanen Turnover.
+BYU,San Francisco,8,6,6,57,0,Eric Mika Steal.
+BYU,San Francisco,10,6,7,16,1,Yoeli Childs made Layup.
+BYU,San Francisco,10,6,7,29,0,Foul on TJ Haws.
+BYU,San Francisco,10,6,7,36,0,Remu Raitanen missed Three Point Jumper.
+BYU,San Francisco,10,6,7,36,0,TJ Haws Defensive Rebound.
+BYU,San Francisco,10,6,7,46,0,TJ Haws Turnover.
+BYU,San Francisco,10,6,7,49,0,Ronnie Boyce Steal.
+BYU,San Francisco,10,6,7,50,0,Ronnie Boyce missed Layup.
+BYU,San Francisco,10,6,7,50,0,Eric Mika Block.
+BYU,San Francisco,10,6,7,51,0,San Francisco Offensive Rebound.
+BYU,San Francisco,10,6,8,6,0,Chase Foster missed Three Point Jumper.
+BYU,San Francisco,10,6,8,6,0,Eric Mika Defensive Rebound.
+BYU,San Francisco,10,6,8,34,0,Official TV Timeout
+BYU,San Francisco,13,6,8,39,1,Elijah Bryant made Three Point Jumper. Assisted by TJ Haws.
+BYU,San Francisco,13,6,9,10,0,Charles Minlend missed Jumper.
+BYU,San Francisco,13,6,9,10,0,TJ Haws Defensive Rebound.
+BYU,San Francisco,13,6,9,16,0,Foul on Frankie Ferrari.
+BYU,San Francisco,14,6,9,16,1,Eric Mika made Free Throw.
+BYU,San Francisco,15,6,9,16,1,Eric Mika made Free Throw.
+BYU,San Francisco,15,6,9,48,0,Frankie Ferrari missed Three Point Jumper.
+BYU,San Francisco,15,6,9,48,0,Elijah Bryant Block.
+BYU,San Francisco,15,6,9,48,0,BYU Deadball Team Rebound.
+BYU,San Francisco,15,6,9,53,0,Foul on Frankie Ferrari.
+BYU,San Francisco,15,6,10,2,0,Elijah Bryant missed Three Point Jumper.
+BYU,San Francisco,15,6,10,2,0,Nate Renfro Defensive Rebound.
+BYU,San Francisco,15,6,10,20,0,Charles Minlend missed Jumper.
+BYU,San Francisco,15,6,10,20,0,Yoeli Childs Block.
+BYU,San Francisco,15,6,10,21,0,Nick Emery Defensive Rebound.
+BYU,San Francisco,15,6,10,27,0,BYU  Timeout
+BYU,San Francisco,15,6,10,39,0,Payton Dastrup missed Three Point Jumper.
+BYU,San Francisco,15,6,10,39,0,Yoeli Childs Offensive Rebound.
+BYU,San Francisco,15,6,10,45,0,Yoeli Childs missed Layup.
+BYU,San Francisco,15,6,10,45,0,Matt McCarthy Block.
+BYU,San Francisco,15,6,10,46,0,Nate Renfro Defensive Rebound.
+BYU,San Francisco,15,6,10,47,0,Foul on Elijah Bryant.
+BYU,San Francisco,15,9,10,58,1,Jordan Ratinho made Three Point Jumper. Assisted by Mladen Djordjevic.
+BYU,San Francisco,15,9,11,21,0,Nick Emery Turnover.
+BYU,San Francisco,15,9,11,22,0,Nate Renfro Steal.
+BYU,San Francisco,15,12,11,26,1,Jordan Ratinho made Three Point Jumper. Assisted by Charles Minlend.
+BYU,San Francisco,15,12,11,29,0,BYU  Timeout
+BYU,San Francisco,17,12,11,49,1,Elijah Bryant made Layup.
+BYU,San Francisco,17,12,12,7,0,Jordan Ratinho missed Three Point Jumper.
+BYU,San Francisco,17,12,12,7,0,Nick Emery Defensive Rebound.
+BYU,San Francisco,17,12,12,16,0,Foul on Mladen Djordjevic.
+BYU,San Francisco,17,12,12,16,0,Official TV Timeout
+BYU,San Francisco,18,12,12,16,1,Yoeli Childs made Free Throw.
+BYU,San Francisco,18,12,12,16,0,Yoeli Childs missed Free Throw.
+BYU,San Francisco,18,12,12,16,0,Jimbo Lull Defensive Rebound.
+BYU,San Francisco,18,12,12,36,0,Ronnie Boyce missed Three Point Jumper.
+BYU,San Francisco,18,12,12,36,0,BYU Defensive Rebound.
+BYU,San Francisco,20,12,12,53,1,Yoeli Childs made Dunk. Assisted by TJ Haws.
+BYU,San Francisco,20,12,13,10,0,Ronnie Boyce missed Layup.
+BYU,San Francisco,20,12,13,10,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,20,12,13,19,0,Yoeli Childs Turnover.
+BYU,San Francisco,20,12,13,20,0,Nate Renfro Steal.
+BYU,San Francisco,20,12,13,21,0,Nate Renfro Turnover.
+BYU,San Francisco,20,12,13,23,0,TJ Haws Steal.
+BYU,San Francisco,20,12,13,26,0,Yoeli Childs missed Three Point Jumper.
+BYU,San Francisco,20,12,13,26,0,Ronnie Boyce Defensive Rebound.
+BYU,San Francisco,20,12,13,30,0,Ronnie Boyce missed Layup.
+BYU,San Francisco,20,12,13,30,0,Nate Renfro Offensive Rebound.
+BYU,San Francisco,20,14,13,34,1,Nate Renfro made Two Point Tip Shot.
+BYU,San Francisco,23,14,13,43,1,TJ Haws made Three Point Jumper. Assisted by Eric Mika.
+BYU,San Francisco,23,14,14,2,0,Ronnie Boyce missed Jumper.
+BYU,San Francisco,23,14,14,2,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,23,14,14,16,0,Eric Mika missed Jumper.
+BYU,San Francisco,23,14,14,16,0,Jimbo Lull Block.
+BYU,San Francisco,23,14,14,20,0,Jimbo Lull Defensive Rebound.
+BYU,San Francisco,23,14,14,26,0,Foul on Elijah Bryant.
+BYU,San Francisco,23,14,14,34,0,Jordan Ratinho missed Layup.
+BYU,San Francisco,23,14,14,34,0,Remu Raitanen Offensive Rebound.
+BYU,San Francisco,23,14,14,42,0,Remu Raitanen missed Layup.
+BYU,San Francisco,23,14,14,42,0,Yoeli Childs Block.
+BYU,San Francisco,23,14,14,44,0,Matt McCarthy Offensive Rebound.
+BYU,San Francisco,23,14,14,57,0,Jordan Ratinho missed Three Point Jumper.
+BYU,San Francisco,23,14,14,57,0,Nick Emery Defensive Rebound.
+BYU,San Francisco,25,14,15,1,1,Yoeli Childs made Jumper.
+BYU,San Francisco,25,16,15,21,1,Remu Raitanen made Layup.
+BYU,San Francisco,27,16,15,40,1,Yoeli Childs made Layup.
+BYU,San Francisco,27,16,16,6,0,Foul on Braiden Shaw.
+BYU,San Francisco,27,16,16,6,0,Official TV Timeout
+BYU,San Francisco,27,16,16,24,0,Jordan Ratinho missed Three Point Jumper.
+BYU,San Francisco,27,16,16,24,0,BYU Defensive Rebound.
+BYU,San Francisco,29,16,16,34,1,Yoeli Childs made Jumper. Assisted by TJ Haws.
+BYU,San Francisco,29,16,16,48,0,Frankie Ferrari Turnover.
+BYU,San Francisco,29,16,16,50,0,TJ Haws Steal.
+BYU,San Francisco,29,16,16,51,0,Nick Emery missed Three Point Jumper.
+BYU,San Francisco,29,16,16,51,0,Jordan Ratinho Defensive Rebound.
+BYU,San Francisco,29,19,16,58,1,Frankie Ferrari made Three Point Jumper.
+BYU,San Francisco,31,19,17,9,1,Eric Mika made Jumper.
+BYU,San Francisco,31,19,17,23,0,Foul on Jordan Ratinho.
+BYU,San Francisco,31,19,17,23,0,Jordan Ratinho Turnover.
+BYU,San Francisco,31,19,17,35,0,Eric Mika Turnover.
+BYU,San Francisco,31,19,17,59,0,Frankie Ferrari Turnover.
+BYU,San Francisco,31,19,18,2,0,TJ Haws Steal.
+BYU,San Francisco,33,19,18,3,1,TJ Haws made Layup.
+BYU,San Francisco,33,19,18,27,0,Remu Raitanen missed Three Point Jumper.
+BYU,San Francisco,33,19,18,27,0,Eric Mika Defensive Rebound.
+BYU,San Francisco,35,19,18,43,1,Yoeli Childs made Jumper.
+BYU,San Francisco,35,19,18,58,0,Chance Anderson Turnover.
+BYU,San Francisco,35,19,18,58,0,Steven Beo Steal.
+BYU,San Francisco,35,19,19,5,0,Foul on Chance Anderson.
+BYU,San Francisco,36,19,19,5,1,Davin Guinn made Free Throw.
+BYU,San Francisco,36,19,19,5,0,Davin Guinn missed Free Throw.
+BYU,San Francisco,36,19,19,5,0,Chase Foster Defensive Rebound.
+BYU,San Francisco,36,19,19,6,0,Chase Foster missed Three Point Jumper.
+BYU,San Francisco,36,19,19,6,0,Nate Renfro Offensive Rebound.
+BYU,San Francisco,36,22,19,36,1,Frankie Ferrari made Three Point Jumper.
+BYU,San Francisco,36,22,19,56,0,TJ Haws missed Three Point Jumper.
+BYU,San Francisco,36,22,19,56,0,Nate Renfro Defensive Rebound.
+BYU,San Francisco,36,22,19,59,0,Foul on Davin Guinn.
+BYU,San Francisco,36,22,20,0,0,End of 1st half
+BYU,San Francisco,36,22,20,19,0,Nick Emery missed Jumper.
+BYU,San Francisco,36,22,20,19,0,Jordan Ratinho Defensive Rebound.
+BYU,San Francisco,36,22,20,34,0,Charles Minlend missed Three Point Jumper.
+BYU,San Francisco,36,22,20,34,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,38,22,20,44,1,TJ Haws made Jumper.
+BYU,San Francisco,38,22,21,17,0,Nate Renfro missed Three Point Jumper.
+BYU,San Francisco,38,22,21,17,0,Elijah Bryant Defensive Rebound.
+BYU,San Francisco,38,22,21,26,0,Foul on Nate Renfro.
+BYU,San Francisco,38,22,21,43,0,Foul on Elijah Bryant.
+BYU,San Francisco,38,22,21,43,0,Elijah Bryant Turnover.
+BYU,San Francisco,38,22,21,52,0,Foul on Elijah Bryant.
+BYU,San Francisco,38,22,21,52,0,Mladen Djordjevic missed Free Throw.
+BYU,San Francisco,38,22,21,52,0,San Francisco Deadball Team Rebound.
+BYU,San Francisco,38,22,21,52,0,Mladen Djordjevic missed Free Throw.
+BYU,San Francisco,38,22,21,52,0,Remu Raitanen Offensive Rebound.
+BYU,San Francisco,38,22,21,59,0,Foul on Eric Mika.
+BYU,San Francisco,38,22,22,13,0,Charles Minlend missed Three Point Jumper.
+BYU,San Francisco,38,22,22,13,0,Matt McCarthy Offensive Rebound.
+BYU,San Francisco,38,22,22,13,0,Remu Raitanen missed Three Point Jumper.
+BYU,San Francisco,38,22,22,13,0,TJ Haws Defensive Rebound.
+BYU,San Francisco,38,22,22,34,0,Foul on Jordan Ratinho.
+BYU,San Francisco,38,22,22,44,0,Foul on Matt McCarthy.
+BYU,San Francisco,41,22,22,45,1,TJ Haws made Three Point Jumper. Assisted by Eric Mika.
+BYU,San Francisco,41,25,23,4,1,Mladen Djordjevic made Three Point Jumper. Assisted by Matt McCarthy.
+BYU,San Francisco,43,25,23,15,1,TJ Haws made Jumper.
+BYU,San Francisco,43,25,23,34,0,Jordan Ratinho missed Layup.
+BYU,San Francisco,43,25,23,34,0,Yoeli Childs Block.
+BYU,San Francisco,43,25,23,37,0,Jordan Ratinho Offensive Rebound.
+BYU,San Francisco,43,25,23,39,0,Remu Raitanen missed Three Point Jumper.
+BYU,San Francisco,43,25,23,39,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,43,25,23,56,0,Foul on Eric Mika.
+BYU,San Francisco,43,25,23,56,0,Eric Mika Turnover.
+BYU,San Francisco,43,25,24,23,0,Nate Renfro missed Layup.
+BYU,San Francisco,43,25,24,23,0,Matt McCarthy Offensive Rebound.
+BYU,San Francisco,43,25,24,26,0,Foul on Davin Guinn.
+BYU,San Francisco,43,25,24,26,0,Official TV Timeout
+BYU,San Francisco,43,25,24,32,0,Ronnie Boyce missed Three Point Jumper.
+BYU,San Francisco,43,25,24,32,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,43,25,24,57,0,Payton Dastrup missed Three Point Jumper.
+BYU,San Francisco,43,25,24,57,0,Ronnie Boyce Defensive Rebound.
+BYU,San Francisco,43,25,25,3,0,Ronnie Boyce missed Layup.
+BYU,San Francisco,43,25,25,3,0,Payton Dastrup Block.
+BYU,San Francisco,43,25,25,6,0,TJ Haws Defensive Rebound.
+BYU,San Francisco,43,25,25,24,0,Foul on Remu Raitanen.
+BYU,San Francisco,43,25,25,28,0,Yoeli Childs missed Jumper.
+BYU,San Francisco,43,25,25,28,0,Ronnie Boyce Defensive Rebound.
+BYU,San Francisco,43,25,25,37,0,Foul on TJ Haws.
+BYU,San Francisco,43,28,25,47,1,Chase Foster made Three Point Jumper. Assisted by Remu Raitanen.
+BYU,San Francisco,43,28,25,55,0,TJ Haws missed Jumper.
+BYU,San Francisco,43,28,25,55,0,Nate Renfro Defensive Rebound.
+BYU,San Francisco,43,28,26,14,0,Chase Foster missed Three Point Jumper.
+BYU,San Francisco,43,28,26,14,0,Payton Dastrup Defensive Rebound.
+BYU,San Francisco,43,28,26,23,0,Nick Emery missed Three Point Jumper.
+BYU,San Francisco,43,28,26,23,0,Nate Renfro Defensive Rebound.
+BYU,San Francisco,43,28,26,33,0,Ronnie Boyce missed Jumper.
+BYU,San Francisco,43,28,26,33,0,Chase Foster Offensive Rebound.
+BYU,San Francisco,43,28,26,38,0,Chase Foster missed Two Point Tip Shot.
+BYU,San Francisco,43,28,26,38,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,43,28,26,52,0,TJ Haws missed Three Point Jumper.
+BYU,San Francisco,43,28,26,52,0,Ronnie Boyce Defensive Rebound.
+BYU,San Francisco,43,28,27,5,0,Frankie Ferrari missed Three Point Jumper.
+BYU,San Francisco,43,28,27,5,0,Davin Guinn Defensive Rebound.
+BYU,San Francisco,46,28,27,14,1,TJ Haws made Three Point Jumper. Assisted by Davin Guinn.
+BYU,San Francisco,46,28,27,18,0,San Francisco  Timeout
+BYU,San Francisco,46,28,27,26,0,Nate Renfro missed Layup.
+BYU,San Francisco,46,28,27,26,0,Eric Mika Defensive Rebound.
+BYU,San Francisco,46,28,27,47,0,Davin Guinn Turnover.
+BYU,San Francisco,46,28,27,49,0,Chase Foster Steal.
+BYU,San Francisco,46,28,27,54,0,Remu Raitanen missed Layup.
+BYU,San Francisco,46,28,27,54,0,Matt McCarthy Offensive Rebound.
+BYU,San Francisco,46,28,27,57,0,Matt McCarthy missed Two Point Tip Shot.
+BYU,San Francisco,46,28,27,57,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,46,28,28,5,0,Foul on Matt McCarthy.
+BYU,San Francisco,46,28,28,5,0,Official TV Timeout
+BYU,San Francisco,48,28,28,11,1,Eric Mika made Jumper.
+BYU,San Francisco,48,31,28,28,1,Chase Foster made Three Point Jumper. Assisted by Jordan Ratinho.
+BYU,San Francisco,48,31,28,38,0,Nick Emery missed Three Point Jumper.
+BYU,San Francisco,48,31,28,38,0,Yoeli Childs Offensive Rebound.
+BYU,San Francisco,50,31,28,44,1,Yoeli Childs made Layup.
+BYU,San Francisco,50,34,29,0,1,Remu Raitanen made Three Point Jumper. Assisted by Matt McCarthy.
+BYU,San Francisco,50,34,29,28,0,Yoeli Childs Turnover.
+BYU,San Francisco,50,34,29,29,0,Chase Foster Steal.
+BYU,San Francisco,50,36,29,32,1,Chase Foster made Layup.
+BYU,San Francisco,50,36,29,38,0,Foul on Matt McCarthy.
+BYU,San Francisco,50,36,29,39,0,Eric Mika Turnover.
+BYU,San Francisco,50,36,29,40,0,Frankie Ferrari Steal.
+BYU,San Francisco,50,36,29,43,0,Jordan Ratinho missed Three Point Jumper.
+BYU,San Francisco,50,36,29,43,0,BYU Defensive Rebound.
+BYU,San Francisco,50,36,29,58,0,Foul on Eric Mika.
+BYU,San Francisco,50,36,29,58,0,Technical Foul on Eric Mika.
+BYU,San Francisco,50,36,29,58,0,Chase Foster missed Free Throw.
+BYU,San Francisco,50,36,29,58,0,San Francisco Deadball Team Rebound.
+BYU,San Francisco,50,36,30,16,0,Chase Foster missed Layup.
+BYU,San Francisco,50,36,30,16,0,BYU Defensive Rebound.
+BYU,San Francisco,50,36,30,46,0,TJ Haws missed Layup.
+BYU,San Francisco,50,36,30,46,0,Charles Minlend Defensive Rebound.
+BYU,San Francisco,50,36,30,52,0,Chase Foster missed Three Point Jumper.
+BYU,San Francisco,50,36,30,52,0,Matt McCarthy Offensive Rebound.
+BYU,San Francisco,50,36,31,7,0,Foul on TJ Haws.
+BYU,San Francisco,50,36,31,7,0,Foul on Charles Minlend.
+BYU,San Francisco,50,36,31,25,0,Foul on Steven Beo.
+BYU,San Francisco,50,37,31,25,1,Charles Minlend made Free Throw.
+BYU,San Francisco,50,37,31,25,0,Charles Minlend missed Free Throw.
+BYU,San Francisco,50,37,31,25,0,Davin Guinn Defensive Rebound.
+BYU,San Francisco,50,37,31,38,0,Nick Emery Turnover.
+BYU,San Francisco,50,37,31,47,0,Charles Minlend missed Three Point Jumper.
+BYU,San Francisco,50,37,31,47,0,TJ Haws Defensive Rebound.
+BYU,San Francisco,50,37,31,56,0,Foul on Jordan Ratinho.
+BYU,San Francisco,51,37,31,56,1,TJ Haws made Free Throw.
+BYU,San Francisco,52,37,31,56,1,TJ Haws made Free Throw.
+BYU,San Francisco,52,37,32,4,0,Chase Foster missed Jumper.
+BYU,San Francisco,52,37,32,4,0,Davin Guinn Defensive Rebound.
+BYU,San Francisco,52,37,32,22,0,Elijah Bryant Turnover.
+BYU,San Francisco,52,37,32,22,0,Official TV Timeout
+BYU,San Francisco,52,39,32,32,1,Charles Minlend made Layup.
+BYU,San Francisco,52,39,32,54,0,Foul on Charles Minlend.
+BYU,San Francisco,53,39,32,54,1,Elijah Bryant made Free Throw.
+BYU,San Francisco,54,39,32,54,1,Elijah Bryant made Free Throw.
+BYU,San Francisco,54,39,33,13,0,Matt McCarthy Turnover.
+BYU,San Francisco,54,39,33,42,0,Nick Emery missed Layup.
+BYU,San Francisco,54,39,33,42,0,Yoeli Childs Offensive Rebound.
+BYU,San Francisco,56,39,33,45,1,Yoeli Childs made Two Point Tip Shot.
+BYU,San Francisco,56,39,33,55,0,Matt McCarthy Turnover.
+BYU,San Francisco,56,39,33,55,0,Yoeli Childs Steal.
+BYU,San Francisco,58,39,33,59,1,Elijah Bryant made Layup.
+BYU,San Francisco,58,39,34,3,0,San Francisco  Timeout
+BYU,San Francisco,58,39,34,10,0,Remu Raitanen missed Three Point Jumper.
+BYU,San Francisco,58,39,34,10,0,Nick Emery Defensive Rebound.
+BYU,San Francisco,58,39,34,16,0,Nick Emery Turnover.
+BYU,San Francisco,58,39,34,19,0,Mladen Djordjevic Steal.
+BYU,San Francisco,58,39,34,22,0,Foul on Nick Emery.
+BYU,San Francisco,58,40,34,22,1,Charles Minlend made Free Throw.
+BYU,San Francisco,58,40,34,22,0,Charles Minlend missed Free Throw.
+BYU,San Francisco,58,40,34,22,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,58,40,34,40,0,Nick Emery missed Layup.
+BYU,San Francisco,58,40,34,40,0,Jimbo Lull Block.
+BYU,San Francisco,58,40,34,41,0,BYU Offensive Rebound.
+BYU,San Francisco,58,40,34,48,0,TJ Haws missed Three Point Jumper.
+BYU,San Francisco,58,40,35,5,0,Davin Guinn Offensive Rebound.
+BYU,San Francisco,58,42,35,10,1,Chase Foster made Layup.
+BYU,San Francisco,58,42,35,30,0,Elijah Bryant missed Three Point Jumper.
+BYU,San Francisco,58,42,35,30,0,Jimbo Lull Defensive Rebound.
+BYU,San Francisco,58,42,35,38,0,Yoeli Childs missed Layup.
+BYU,San Francisco,58,42,35,38,0,Mladen Djordjevic Defensive Rebound.
+BYU,San Francisco,58,42,35,43,0,Mladen Djordjevic Turnover.
+BYU,San Francisco,58,42,35,50,0,Davin Guinn Steal.
+BYU,San Francisco,60,42,36,6,1,Yoeli Childs made Dunk.
+BYU,San Francisco,60,44,36,13,1,Ronnie Boyce made Layup.
+BYU,San Francisco,60,44,36,34,0,Foul on Nate Renfro.
+BYU,San Francisco,60,44,36,34,0,Official TV Timeout
+BYU,San Francisco,61,44,36,34,1,Nick Emery made Free Throw.
+BYU,San Francisco,62,44,36,34,1,Nick Emery made Free Throw.
+BYU,San Francisco,62,47,36,34,1,Ronnie Boyce made Three Point Jumper.
+BYU,San Francisco,62,47,36,34,0,Foul on Chase Foster.
+BYU,San Francisco,62,47,36,34,0,Elijah Bryant missed Free Throw.
+BYU,San Francisco,62,47,36,34,0,BYU Deadball Team Rebound.
+BYU,San Francisco,63,47,36,34,1,Elijah Bryant made Free Throw.
+BYU,San Francisco,63,47,37,4,0,Foul on Nick Emery.
+BYU,San Francisco,63,48,37,4,1,Ronnie Boyce made Free Throw.
+BYU,San Francisco,63,49,37,4,1,Ronnie Boyce made Free Throw.
+BYU,San Francisco,63,49,37,25,0,Elijah Bryant missed Jumper.
+BYU,San Francisco,63,49,37,25,0,Jordan Ratinho Block.
+BYU,San Francisco,63,49,37,25,0,BYU Offensive Rebound.
+BYU,San Francisco,63,49,37,31,0,Foul on Jordan Ratinho.
+BYU,San Francisco,64,49,37,31,1,Yoeli Childs made Free Throw.
+BYU,San Francisco,64,49,37,31,0,Yoeli Childs missed Free Throw.
+BYU,San Francisco,64,49,37,31,0,Ronnie Boyce Defensive Rebound.
+BYU,San Francisco,64,49,37,33,0,Ronnie Boyce missed Jumper.
+BYU,San Francisco,64,49,37,33,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,64,49,37,40,0,Foul on Ronnie Boyce.
+BYU,San Francisco,65,49,37,40,1,Yoeli Childs made Free Throw.
+BYU,San Francisco,65,49,37,40,0,Yoeli Childs missed Free Throw.
+BYU,San Francisco,65,49,37,40,0,Chase Foster Defensive Rebound.
+BYU,San Francisco,65,49,37,46,0,Chase Foster missed Three Point Jumper.
+BYU,San Francisco,65,49,37,46,0,Nick Emery Defensive Rebound.
+BYU,San Francisco,65,49,38,10,0,Foul on Jimbo Lull.
+BYU,San Francisco,66,49,38,10,1,Elijah Bryant made Free Throw.
+BYU,San Francisco,66,49,38,10,0,Elijah Bryant missed Free Throw.
+BYU,San Francisco,66,49,38,10,0,Remu Raitanen Defensive Rebound.
+BYU,San Francisco,66,49,38,13,0,Ronnie Boyce missed Three Point Jumper.
+BYU,San Francisco,66,49,38,13,0,Yoeli Childs Defensive Rebound.
+BYU,San Francisco,66,49,38,28,0,TJ Haws Turnover.
+BYU,San Francisco,66,49,38,43,0,Jordan Ratinho Turnover.
+BYU,San Francisco,66,49,38,45,0,Elijah Bryant Steal.
+BYU,San Francisco,66,49,39,0,0,Nick Emery missed Layup.
+BYU,San Francisco,66,49,39,0,0,Frankie Ferrari Defensive Rebound.
+BYU,San Francisco,66,49,39,7,0,Charles Minlend missed Three Point Jumper.
+BYU,San Francisco,66,49,39,7,0,Remu Raitanen Offensive Rebound.
+BYU,San Francisco,66,49,39,10,0,Charles Minlend missed Layup.
+BYU,San Francisco,66,49,39,10,0,Eric Mika Defensive Rebound.
+BYU,San Francisco,68,49,39,28,1,Yoeli Childs made Dunk. Assisted by Nick Emery.
+BYU,San Francisco,68,52,39,54,1,Frankie Ferrari made Three Point Jumper. Assisted by Charles Minlend.
+BYU,San Francisco,68,52,40,0,0,Official TV Timeout
+BYU,San Francisco,68,52,40,0,0,End of Game

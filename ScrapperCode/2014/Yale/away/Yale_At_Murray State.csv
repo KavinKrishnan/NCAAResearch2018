@@ -1,0 +1,363 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Yale,Murray State,0,3,0,18,1,Cameron Payne made Three Point Jumper.
+Yale,Murray State,0,3,0,42,0,Brandon Sherrod missed Layup.
+Yale,Murray State,0,3,0,42,0,Brandon Sherrod Offensive Rebound.
+Yale,Murray State,0,3,0,45,0,Brandon Sherrod missed Layup.
+Yale,Murray State,0,3,0,45,0,Javier Duren Offensive Rebound.
+Yale,Murray State,0,3,1,4,0,Javier Duren missed Three Point Jumper.
+Yale,Murray State,0,3,1,4,0,Dexter Fields Defensive Rebound.
+Yale,Murray State,0,5,1,10,1,Cameron Payne made Layup. Assisted by Dexter Fields.
+Yale,Murray State,0,5,1,42,0,Nick Victor missed Layup.
+Yale,Murray State,0,5,1,42,0,Dexter Fields Block.
+Yale,Murray State,0,5,1,44,0,Jonathan Fairell Defensive Rebound.
+Yale,Murray State,0,5,1,49,0,Cameron Payne missed Three Point Jumper.
+Yale,Murray State,0,5,1,49,0,Matt Townsend Defensive Rebound.
+Yale,Murray State,0,5,1,58,0,Armani Cotton missed Three Point Jumper.
+Yale,Murray State,0,5,1,58,0,Brandon Sherrod Offensive Rebound.
+Yale,Murray State,0,5,2,2,0,Brandon Sherrod missed Layup.
+Yale,Murray State,0,5,2,2,0,Jarvis Williams Block.
+Yale,Murray State,0,5,2,4,0,Brandon Sherrod Offensive Rebound.
+Yale,Murray State,0,5,2,5,0,Brandon Sherrod missed Layup.
+Yale,Murray State,0,5,2,5,0,Jarvis Williams Block.
+Yale,Murray State,0,5,2,5,0,Jonathan Fairell Defensive Rebound.
+Yale,Murray State,0,5,2,11,0,Dexter Fields missed Three Point Jumper.
+Yale,Murray State,0,5,2,11,0,Matt Townsend Defensive Rebound.
+Yale,Murray State,0,5,2,32,0,Matt Townsend missed Layup.
+Yale,Murray State,0,5,2,32,0,Jarvis Williams Defensive Rebound.
+Yale,Murray State,0,7,2,54,1,Jarvis Williams made Dunk. Assisted by Cameron Payne.
+Yale,Murray State,2,7,3,13,1,Matt Townsend made Jumper. Assisted by Nick Victor.
+Yale,Murray State,2,7,3,25,0,Dexter Fields missed Layup.
+Yale,Murray State,2,7,3,25,0,Brandon Sherrod Block.
+Yale,Murray State,2,7,3,27,0,Brandon Sherrod Defensive Rebound.
+Yale,Murray State,5,7,3,37,1,Javier Duren made Three Point Jumper. Assisted by Matt Townsend.
+Yale,Murray State,5,9,3,47,1,Jarvis Williams made Layup. Assisted by Cameron Payne.
+Yale,Murray State,5,9,3,56,0,Brandon Sherrod missed Jumper.
+Yale,Murray State,5,9,3,56,0,Nick Victor Offensive Rebound.
+Yale,Murray State,5,9,4,1,0,Nick Victor missed Layup.
+Yale,Murray State,5,9,4,1,0,Armani Cotton Offensive Rebound.
+Yale,Murray State,5,9,4,3,0,Armani Cotton missed Layup.
+Yale,Murray State,5,9,4,3,0,Murray St Defensive Rebound.
+Yale,Murray State,5,9,4,7,0,Official TV Timeout
+Yale,Murray State,5,9,4,39,0,Cameron Payne missed Layup.
+Yale,Murray State,5,9,4,39,0,Brandon Sherrod Block.
+Yale,Murray State,5,9,4,41,0,Murray St Offensive Rebound.
+Yale,Murray State,5,9,4,43,0,Murray St  Turnover.
+Yale,Murray State,5,9,5,1,0,Matt Townsend missed Layup.
+Yale,Murray State,5,9,5,1,0,Jonathan Fairell Block.
+Yale,Murray State,5,9,5,2,0,Brandon Sherrod Offensive Rebound.
+Yale,Murray State,5,9,5,5,0,Brandon Sherrod missed Layup.
+Yale,Murray State,5,9,5,5,0,Jonathan Fairell Block.
+Yale,Murray State,5,9,5,7,0,Cameron Payne Defensive Rebound.
+Yale,Murray State,5,11,5,11,1,Jonathan Fairell made Layup. Assisted by Cameron Payne.
+Yale,Murray State,5,11,5,38,0,Greg Kelley missed Three Point Jumper.
+Yale,Murray State,5,11,5,38,0,Murray St Defensive Rebound.
+Yale,Murray State,5,11,5,59,0,Jeffery Moss missed Three Point Jumper.
+Yale,Murray State,5,11,5,59,0,Javier Duren Defensive Rebound.
+Yale,Murray State,5,11,6,10,0,Armani Cotton missed Three Point Jumper.
+Yale,Murray State,5,11,6,10,0,Greg Kelley Offensive Rebound.
+Yale,Murray State,7,11,6,17,1,Armani Cotton made Layup. Assisted by Javier Duren.
+Yale,Murray State,7,13,6,39,1,Jarvis Williams made Dunk. Assisted by Cameron Payne.
+Yale,Murray State,7,13,7,4,0,Brandon Sherrod missed Layup.
+Yale,Murray State,7,13,7,4,0,Jonathan Fairell Block.
+Yale,Murray State,7,13,7,5,0,Jeffery Moss Defensive Rebound.
+Yale,Murray State,7,15,7,9,1,Cameron Payne made Layup. Assisted by Jeffery Moss.
+Yale,Murray State,7,15,7,16,0,Nick Victor missed Layup.
+Yale,Murray State,7,15,7,16,0,Brandon Sherrod Offensive Rebound.
+Yale,Murray State,7,15,7,19,0,Foul on Jonathan Fairell.
+Yale,Murray State,7,15,7,20,0,Foul on Dexter Fields.
+Yale,Murray State,8,15,7,20,1,Armani Cotton made Free Throw.
+Yale,Murray State,9,15,7,20,1,Armani Cotton made Free Throw.
+Yale,Murray State,9,15,7,36,0,T.J. Sapp missed Three Point Jumper.
+Yale,Murray State,9,15,7,36,0,Armani Cotton Defensive Rebound.
+Yale,Murray State,9,15,7,48,0,Javier Duren missed Layup.
+Yale,Murray State,9,15,7,48,0,Terron Gilmore Defensive Rebound.
+Yale,Murray State,9,15,7,56,0,Terron Gilmore Turnover.
+Yale,Murray State,9,15,7,57,0,Greg Kelley Steal.
+Yale,Murray State,9,15,8,3,0,Javier Duren Turnover.
+Yale,Murray State,9,15,8,4,0,T.J. Sapp Steal.
+Yale,Murray State,9,15,8,8,0,Foul on Javier Duren.
+Yale,Murray State,9,16,8,8,1,Cameron Payne made Free Throw.
+Yale,Murray State,9,17,8,8,1,Cameron Payne made Free Throw.
+Yale,Murray State,9,17,8,8,0,T.J. Sapp Turnover.
+Yale,Murray State,9,17,8,9,0,Anthony Dallier Steal.
+Yale,Murray State,12,17,8,27,1,Jack Montague made Three Point Jumper. Assisted by Matt Townsend.
+Yale,Murray State,12,17,8,51,0,Terron Gilmore Turnover.
+Yale,Murray State,12,17,9,8,0,Brandon Sherrod Turnover.
+Yale,Murray State,12,17,9,9,0,Tyler Rambo Steal.
+Yale,Murray State,12,17,9,39,0,Jeffery Moss missed Layup.
+Yale,Murray State,12,17,9,39,0,Brandon Sherrod Defensive Rebound.
+Yale,Murray State,14,17,9,49,1,Will Childs-Klein made Layup.
+Yale,Murray State,14,17,9,58,0,T.J. Sapp missed Layup.
+Yale,Murray State,14,17,9,58,0,Brandon Sherrod Defensive Rebound.
+Yale,Murray State,14,17,10,9,0,Will Childs-Klein missed Jumper.
+Yale,Murray State,14,17,10,9,0,Murray St Defensive Rebound.
+Yale,Murray State,14,17,10,24,0,Foul on Will Childs-Klein.
+Yale,Murray State,14,17,10,44,0,Foul on Nick Victor.
+Yale,Murray State,14,17,10,44,0,Jonathan Fairell missed Free Throw.
+Yale,Murray State,14,17,10,44,0,Murray St Deadball Team Rebound.
+Yale,Murray State,14,18,10,44,1,Jonathan Fairell made Free Throw.
+Yale,Murray State,14,18,10,59,0,Jesse Pritchard missed Three Point Jumper.
+Yale,Murray State,14,18,10,59,0,T.J. Sapp Defensive Rebound.
+Yale,Murray State,14,20,11,27,1,Cameron Payne made Jumper.
+Yale,Murray State,14,20,11,52,0,Will Childs-Klein Turnover.
+Yale,Murray State,14,20,11,53,0,Cameron Payne Steal.
+Yale,Murray State,14,20,11,57,0,T.J. Sapp missed Three Point Jumper.
+Yale,Murray State,14,20,11,57,0,Jesse Pritchard Defensive Rebound.
+Yale,Murray State,14,20,12,17,0,Jesse Pritchard Turnover.
+Yale,Murray State,14,20,12,18,0,Jeffery Moss Steal.
+Yale,Murray State,14,22,12,20,1,Jarvis Williams made Dunk. Assisted by Jeffery Moss.
+Yale,Murray State,15,22,12,22,1,Javier Duren made Free Throw.
+Yale,Murray State,14,22,12,22,0,Official TV Timeout
+Yale,Murray State,14,22,12,22,0,Technical Foul on Jarvis Williams.
+Yale,Murray State,16,22,12,22,1,Javier Duren made Free Throw.
+Yale,Murray State,16,22,12,40,0,Jack Montague Turnover.
+Yale,Murray State,16,22,12,40,0,Jonathan Fairell Steal.
+Yale,Murray State,16,22,13,7,0,Dexter Fields missed Three Point Jumper.
+Yale,Murray State,16,22,13,7,0,Jonathan Fairell Offensive Rebound.
+Yale,Murray State,16,22,13,11,0,Jonathan Fairell missed Layup.
+Yale,Murray State,16,22,13,11,0,Jack Montague Defensive Rebound.
+Yale,Murray State,19,22,13,37,1,Armani Cotton made Three Point Jumper.
+Yale,Murray State,19,22,13,45,0,Jeffery Moss missed Three Point Jumper.
+Yale,Murray State,19,22,13,45,0,Jack Montague Defensive Rebound.
+Yale,Murray State,19,22,13,58,0,Javier Duren Turnover.
+Yale,Murray State,19,22,13,59,0,Jeffery Moss Steal.
+Yale,Murray State,19,24,14,1,1,Jarvis Williams made Dunk. Assisted by Jeffery Moss.
+Yale,Murray State,19,24,14,15,0,Yale  Timeout
+Yale,Murray State,19,24,14,29,0,Javier Duren Turnover.
+Yale,Murray State,19,24,14,31,0,Dexter Fields Steal.
+Yale,Murray State,19,24,14,33,0,Cameron Payne missed Three Point Jumper.
+Yale,Murray State,19,24,14,33,0,Brandon Sherrod Defensive Rebound.
+Yale,Murray State,19,24,14,40,0,Yale  Timeout
+Yale,Murray State,21,24,15,2,1,Brandon Sherrod made Layup. Assisted by Javier Duren.
+Yale,Murray State,21,24,15,9,0,Dexter Fields missed Layup.
+Yale,Murray State,21,24,15,9,0,Brandon Sherrod Block.
+Yale,Murray State,21,24,15,11,0,Brandon Sherrod Defensive Rebound.
+Yale,Murray State,21,24,15,16,0,Armani Cotton missed Three Point Jumper.
+Yale,Murray State,21,24,15,16,0,Anthony Dallier Offensive Rebound.
+Yale,Murray State,21,24,15,52,0,Anthony Dallier missed Jumper.
+Yale,Murray State,21,24,15,52,0,Cameron Payne Defensive Rebound.
+Yale,Murray State,21,24,15,59,0,Dexter Fields missed Layup.
+Yale,Murray State,21,24,15,59,0,Jeffery Moss Offensive Rebound.
+Yale,Murray State,21,26,16,1,1,Jeffery Moss made Jumper.
+Yale,Murray State,21,26,16,20,0,Matt Townsend missed Layup.
+Yale,Murray State,21,26,16,20,0,Jeffery Moss Defensive Rebound.
+Yale,Murray State,21,26,16,28,0,Cameron Payne missed Jumper.
+Yale,Murray State,21,26,16,28,0,Javier Duren Defensive Rebound.
+Yale,Murray State,21,26,16,33,0,Foul on Jeffery Moss.
+Yale,Murray State,21,26,16,33,0,Official TV Timeout
+Yale,Murray State,21,26,16,57,0,Greg Kelley missed Three Point Jumper.
+Yale,Murray State,21,26,16,57,0,Matt Townsend Offensive Rebound.
+Yale,Murray State,21,26,17,2,0,Armani Cotton missed Layup.
+Yale,Murray State,21,26,17,2,0,Cameron Payne Defensive Rebound.
+Yale,Murray State,21,26,17,14,0,Jeffery Moss missed Layup.
+Yale,Murray State,21,26,17,14,0,Greg Kelley Defensive Rebound.
+Yale,Murray State,21,26,17,27,0,Javier Duren missed Layup.
+Yale,Murray State,21,26,17,27,0,Cameron Payne Block.
+Yale,Murray State,21,26,17,28,0,T.J. Sapp Defensive Rebound.
+Yale,Murray State,21,26,17,36,0,Jeffery Moss missed Three Point Jumper.
+Yale,Murray State,21,26,17,36,0,Armani Cotton Defensive Rebound.
+Yale,Murray State,21,26,17,57,0,Foul on Tyler Rambo.
+Yale,Murray State,21,26,17,59,0,Foul on Cameron Payne.
+Yale,Murray State,21,26,18,1,0,Anthony Dallier missed Layup.
+Yale,Murray State,21,26,18,1,0,Greg Kelley Offensive Rebound.
+Yale,Murray State,21,26,18,3,0,Greg Kelley missed Layup.
+Yale,Murray State,21,26,18,3,0,Jonathan Fairell Block.
+Yale,Murray State,21,26,18,4,0,Tyler Rambo Defensive Rebound.
+Yale,Murray State,21,26,18,29,0,Foul on Brandon Sherrod.
+Yale,Murray State,21,26,18,29,0,Tyler Rambo missed Free Throw.
+Yale,Murray State,21,26,18,29,0,Murray St Deadball Team Rebound.
+Yale,Murray State,21,27,18,29,1,Tyler Rambo made Free Throw.
+Yale,Murray State,21,27,18,43,0,Javier Duren missed Layup.
+Yale,Murray State,21,27,18,43,0,Cameron Payne Defensive Rebound.
+Yale,Murray State,21,27,18,53,0,T.J. Sapp Turnover.
+Yale,Murray State,21,27,18,53,0,Foul on T.J. Sapp.
+Yale,Murray State,24,27,19,0,1,Greg Kelley made Three Point Jumper. Assisted by Nick Victor.
+Yale,Murray State,24,27,19,24,0,Cameron Payne missed Jumper.
+Yale,Murray State,24,27,19,24,0,Yale Defensive Rebound.
+Yale,Murray State,24,27,19,27,0,Foul on Jarvis Williams.
+Yale,Murray State,25,27,19,27,1,Nick Victor made Free Throw.
+Yale,Murray State,26,27,19,27,1,Nick Victor made Free Throw.
+Yale,Murray State,26,27,19,55,0,Jeffery Moss missed Layup.
+Yale,Murray State,26,27,19,55,0,Nick Victor Defensive Rebound.
+Yale,Murray State,26,27,20,0,0,End of 1st half
+Yale,Murray State,26,27,20,21,0,Armani Cotton missed Three Point Jumper.
+Yale,Murray State,26,27,20,21,0,Matt Townsend Offensive Rebound.
+Yale,Murray State,26,27,20,25,0,Matt Townsend missed Layup.
+Yale,Murray State,26,27,20,25,0,Javier Duren Offensive Rebound.
+Yale,Murray State,26,27,20,27,0,Foul on Jonathan Fairell.
+Yale,Murray State,26,27,20,42,0,Nick Victor Turnover.
+Yale,Murray State,26,27,20,52,0,Cameron Payne Turnover.
+Yale,Murray State,26,27,20,53,0,Javier Duren Steal.
+Yale,Murray State,28,27,21,8,1,Armani Cotton made Layup.
+Yale,Murray State,28,29,21,21,1,Jarvis Williams made Layup.
+Yale,Murray State,28,29,21,41,0,Brandon Sherrod missed Layup.
+Yale,Murray State,28,29,21,41,0,Jonathan Fairell Block.
+Yale,Murray State,28,29,21,42,0,Murray St Defensive Rebound.
+Yale,Murray State,28,31,21,58,1,Jeffery Moss made Jumper.
+Yale,Murray State,28,31,22,17,0,Javier Duren missed Three Point Jumper.
+Yale,Murray State,28,31,22,17,0,Dexter Fields Defensive Rebound.
+Yale,Murray State,28,31,22,25,0,Jarvis Williams Turnover.
+Yale,Murray State,28,31,22,26,0,Javier Duren Steal.
+Yale,Murray State,28,31,22,32,0,Javier Duren missed Layup.
+Yale,Murray State,28,31,22,32,0,Jonathan Fairell Defensive Rebound.
+Yale,Murray State,28,33,23,2,1,Jarvis Williams made Layup. Assisted by Cameron Payne.
+Yale,Murray State,28,33,23,22,0,Foul on Dexter Fields.
+Yale,Murray State,28,33,23,22,0,Nick Victor missed Free Throw.
+Yale,Murray State,28,33,23,22,0,Yale Deadball Team Rebound.
+Yale,Murray State,29,33,23,22,1,Nick Victor made Free Throw.
+Yale,Murray State,29,33,23,41,0,Dexter Fields missed Three Point Jumper.
+Yale,Murray State,29,33,23,41,0,Jonathan Fairell Offensive Rebound.
+Yale,Murray State,29,33,23,44,0,Foul on Brandon Sherrod.
+Yale,Murray State,29,33,23,56,0,Cameron Payne missed Jumper.
+Yale,Murray State,29,33,23,56,0,Jonathan Fairell Offensive Rebound.
+Yale,Murray State,29,36,24,0,1,Cameron Payne made Three Point Jumper. Assisted by Jonathan Fairell.
+Yale,Murray State,29,36,24,24,0,Brandon Sherrod missed Layup.
+Yale,Murray State,29,36,24,24,0,Jarvis Williams Block.
+Yale,Murray State,29,36,24,27,0,Matt Townsend Offensive Rebound.
+Yale,Murray State,29,36,24,29,0,Matt Townsend missed Layup.
+Yale,Murray State,29,36,24,29,0,Matt Townsend Offensive Rebound.
+Yale,Murray State,31,36,24,30,1,Matt Townsend made Two Point Tip Shot.
+Yale,Murray State,31,36,24,54,0,Cameron Payne missed Three Point Jumper.
+Yale,Murray State,31,36,24,54,0,Yale Defensive Rebound.
+Yale,Murray State,31,36,24,58,0,Official TV Timeout
+Yale,Murray State,31,36,25,10,0,Foul on Cameron Payne.
+Yale,Murray State,31,36,25,26,0,Armani Cotton missed Three Point Jumper.
+Yale,Murray State,31,36,25,26,0,Nick Victor Offensive Rebound.
+Yale,Murray State,33,36,25,56,1,Brandon Sherrod made Dunk. Assisted by Javier Duren.
+Yale,Murray State,33,36,26,13,0,Tyler Rambo Turnover.
+Yale,Murray State,33,36,26,14,0,Greg Kelley Steal.
+Yale,Murray State,35,36,26,19,1,Nick Victor made Layup.
+Yale,Murray State,35,36,26,56,0,Foul on Matt Townsend.
+Yale,Murray State,35,37,26,56,1,Cameron Payne made Free Throw.
+Yale,Murray State,35,37,26,56,0,Cameron Payne missed Free Throw.
+Yale,Murray State,35,37,26,56,0,Matt Townsend Defensive Rebound.
+Yale,Murray State,35,37,27,12,0,Javier Duren missed Layup.
+Yale,Murray State,35,37,27,12,0,T.J. Sapp Defensive Rebound.
+Yale,Murray State,35,39,27,19,1,Cameron Payne made Jumper.
+Yale,Murray State,35,39,27,41,0,Javier Duren missed Layup.
+Yale,Murray State,35,39,27,41,0,Jarvis Williams Block.
+Yale,Murray State,35,39,27,43,0,Dexter Fields Defensive Rebound.
+Yale,Murray State,35,41,27,46,1,Jeffery Moss made Layup. Assisted by Dexter Fields.
+Yale,Murray State,35,41,27,51,0,Yale  Timeout
+Yale,Murray State,35,41,28,2,0,Foul on Jarvis Williams.
+Yale,Murray State,35,41,28,2,0,Official TV Timeout
+Yale,Murray State,35,41,28,2,0,Armani Cotton missed Free Throw.
+Yale,Murray State,35,41,28,2,0,Yale Deadball Team Rebound.
+Yale,Murray State,35,41,28,2,0,Armani Cotton missed Free Throw.
+Yale,Murray State,35,41,28,2,0,T.J. Sapp Defensive Rebound.
+Yale,Murray State,35,43,28,12,1,T.J. Sapp made Layup.
+Yale,Murray State,35,43,28,32,0,Armani Cotton missed Three Point Jumper.
+Yale,Murray State,35,43,28,32,0,Jack Montague Offensive Rebound.
+Yale,Murray State,35,43,28,37,0,Anthony Dallier missed Three Point Jumper.
+Yale,Murray State,35,43,28,37,0,Armani Cotton Offensive Rebound.
+Yale,Murray State,35,43,28,41,0,Armani Cotton missed Layup.
+Yale,Murray State,35,43,28,41,0,Jeffery Moss Block.
+Yale,Murray State,35,43,28,42,0,Yale Offensive Rebound.
+Yale,Murray State,35,43,28,42,0,Foul on Jarvis Williams.
+Yale,Murray State,35,43,28,53,0,Greg Kelley missed Three Point Jumper.
+Yale,Murray State,35,43,28,53,0,Jarvis Williams Defensive Rebound.
+Yale,Murray State,35,43,29,1,0,Dexter Fields missed Three Point Jumper.
+Yale,Murray State,35,43,29,1,0,Nick Victor Defensive Rebound.
+Yale,Murray State,35,43,29,14,0,Greg Kelley missed Layup.
+Yale,Murray State,35,43,29,14,0,Jarvis Williams Block.
+Yale,Murray State,35,43,29,15,0,Cameron Payne Defensive Rebound.
+Yale,Murray State,35,43,29,20,0,Dexter Fields missed Three Point Jumper.
+Yale,Murray State,35,43,29,20,0,Yale Deadball Team Rebound.
+Yale,Murray State,35,43,29,42,0,Jack Montague missed Three Point Jumper.
+Yale,Murray State,35,43,29,42,0,Brandon Sherrod Offensive Rebound.
+Yale,Murray State,35,43,29,47,0,Brandon Sherrod missed Layup.
+Yale,Murray State,35,43,29,47,0,Yale Deadball Team Rebound.
+Yale,Murray State,35,43,29,49,0,Nick Victor missed Layup.
+Yale,Murray State,35,43,29,49,0,Cameron Payne Defensive Rebound.
+Yale,Murray State,35,46,30,0,1,Cameron Payne made Three Point Jumper.
+Yale,Murray State,38,46,30,30,1,Javier Duren made Three Point Jumper.
+Yale,Murray State,38,46,30,39,0,Cameron Payne missed Three Point Jumper.
+Yale,Murray State,38,46,30,39,0,T.J. Sapp Offensive Rebound.
+Yale,Murray State,38,46,30,43,0,T.J. Sapp missed Three Point Jumper.
+Yale,Murray State,38,46,30,43,0,Nick Victor Defensive Rebound.
+Yale,Murray State,38,46,30,58,0,Nick Victor missed Layup.
+Yale,Murray State,38,46,30,58,0,Matt Townsend Offensive Rebound.
+Yale,Murray State,41,46,31,2,1,Jack Montague made Three Point Jumper. Assisted by Matt Townsend.
+Yale,Murray State,41,46,31,18,0,Murray St  Timeout
+Yale,Murray State,41,46,31,29,0,Jeffery Moss missed Jumper.
+Yale,Murray State,41,46,31,29,0,Javier Duren Defensive Rebound.
+Yale,Murray State,43,46,31,46,1,Brandon Sherrod made Layup. Assisted by Javier Duren.
+Yale,Murray State,43,46,31,46,0,Foul on T.J. Sapp.
+Yale,Murray State,43,46,31,46,0,Brandon Sherrod missed Free Throw.
+Yale,Murray State,43,46,31,46,0,Jarvis Williams Defensive Rebound.
+Yale,Murray State,43,46,31,54,0,Jeffery Moss missed Three Point Jumper.
+Yale,Murray State,43,46,31,54,0,Jack Montague Defensive Rebound.
+Yale,Murray State,45,46,32,18,1,Jack Montague made Jumper.
+Yale,Murray State,45,48,32,43,1,Jarvis Williams made Dunk. Assisted by Jonathan Fairell.
+Yale,Murray State,45,48,33,2,0,Javier Duren Turnover.
+Yale,Murray State,45,48,33,2,0,Cameron Payne Steal.
+Yale,Murray State,45,51,33,11,1,T.J. Sapp made Three Point Jumper. Assisted by Jonathan Fairell.
+Yale,Murray State,45,51,33,33,0,Jack Montague Turnover.
+Yale,Murray State,45,51,33,34,0,Jeffery Moss Steal.
+Yale,Murray State,45,51,33,38,0,Foul on Jesse Pritchard.
+Yale,Murray State,45,52,33,38,1,T.J. Sapp made Free Throw.
+Yale,Murray State,45,53,33,38,1,T.J. Sapp made Free Throw.
+Yale,Murray State,45,53,34,5,0,Brandon Sherrod missed Layup.
+Yale,Murray State,45,53,34,5,0,Jarvis Williams Defensive Rebound.
+Yale,Murray State,45,53,34,27,0,T.J. Sapp missed Three Point Jumper.
+Yale,Murray State,45,53,34,27,0,Jonathan Fairell Offensive Rebound.
+Yale,Murray State,45,53,34,29,0,Foul on Jack Montague.
+Yale,Murray State,45,55,34,50,1,Cameron Payne made Layup.
+Yale,Murray State,47,55,35,3,1,Matt Townsend made Jumper. Assisted by Javier Duren.
+Yale,Murray State,47,55,35,31,0,Jeffery Moss Turnover.
+Yale,Murray State,47,55,35,32,0,Javier Duren Steal.
+Yale,Murray State,47,55,35,35,0,Javier Duren missed Layup.
+Yale,Murray State,47,55,35,35,0,Jeffery Moss Block.
+Yale,Murray State,47,55,35,35,0,Yale Offensive Rebound.
+Yale,Murray State,47,55,35,50,0,Matt Townsend missed Layup.
+Yale,Murray State,47,55,35,50,0,Cameron Payne Defensive Rebound.
+Yale,Murray State,47,55,36,11,0,T.J. Sapp missed Layup.
+Yale,Murray State,47,55,36,11,0,Matt Townsend Block.
+Yale,Murray State,47,55,36,13,0,Matt Townsend Defensive Rebound.
+Yale,Murray State,50,55,36,28,1,Javier Duren made Three Point Jumper. Assisted by Anthony Dallier.
+Yale,Murray State,50,58,37,2,1,Dexter Fields made Three Point Jumper. Assisted by Cameron Payne.
+Yale,Murray State,50,58,37,7,0,Murray St  Timeout
+Yale,Murray State,50,58,37,15,0,Greg Kelley missed Three Point Jumper.
+Yale,Murray State,50,58,37,15,0,Jonathan Fairell Defensive Rebound.
+Yale,Murray State,50,58,37,38,0,Foul on Greg Kelley.
+Yale,Murray State,50,58,37,38,0,Official TV Timeout
+Yale,Murray State,50,58,37,38,0,Jeffery Moss missed Free Throw.
+Yale,Murray State,50,58,37,38,0,Murray St Deadball Team Rebound.
+Yale,Murray State,50,58,37,38,0,Jeffery Moss missed Free Throw.
+Yale,Murray State,50,58,37,38,0,Armani Cotton Defensive Rebound.
+Yale,Murray State,50,58,37,50,0,Javier Duren missed Three Point Jumper.
+Yale,Murray State,50,58,37,50,0,Yale Offensive Rebound.
+Yale,Murray State,50,58,37,57,0,Javier Duren missed Layup.
+Yale,Murray State,50,58,37,57,0,Jonathan Fairell Defensive Rebound.
+Yale,Murray State,50,58,38,1,0,Foul on Nick Victor.
+Yale,Murray State,50,58,38,4,0,Foul on Nick Victor.
+Yale,Murray State,50,59,38,4,1,Jeffery Moss made Free Throw.
+Yale,Murray State,50,59,38,4,0,Jeffery Moss missed Free Throw.
+Yale,Murray State,50,59,38,4,0,Greg Kelley Defensive Rebound.
+Yale,Murray State,50,59,38,16,0,Foul on Dexter Fields.
+Yale,Murray State,51,59,38,16,1,Javier Duren made Free Throw.
+Yale,Murray State,52,59,38,16,1,Javier Duren made Free Throw.
+Yale,Murray State,52,59,38,30,0,Foul on Armani Cotton.
+Yale,Murray State,52,59,38,30,0,T.J. Sapp missed Free Throw.
+Yale,Murray State,52,59,38,30,0,Brandon Sherrod Defensive Rebound.
+Yale,Murray State,52,59,38,41,0,Brandon Sherrod missed Layup.
+Yale,Murray State,52,59,38,41,0,T.J. Sapp Defensive Rebound.
+Yale,Murray State,52,59,38,46,0,Foul on Greg Kelley.
+Yale,Murray State,52,60,38,46,1,Jeffery Moss made Free Throw.
+Yale,Murray State,52,61,38,46,1,Jeffery Moss made Free Throw.
+Yale,Murray State,52,61,38,53,0,Yale  Timeout
+Yale,Murray State,52,61,38,55,0,Greg Kelley missed Three Point Jumper.
+Yale,Murray State,52,61,38,55,0,Murray St Defensive Rebound.
+Yale,Murray State,52,61,38,59,0,Foul on Armani Cotton.
+Yale,Murray State,52,62,38,59,1,T.J. Sapp made Free Throw.
+Yale,Murray State,52,63,38,59,1,T.J. Sapp made Free Throw.
+Yale,Murray State,54,63,39,7,1,Javier Duren made Layup.
+Yale,Murray State,54,63,39,10,0,Foul on Matt Townsend.
+Yale,Murray State,54,64,39,10,1,Cameron Payne made Free Throw.
+Yale,Murray State,54,65,39,10,1,Cameron Payne made Free Throw.
+Yale,Murray State,54,65,39,19,0,Javier Duren missed Three Point Jumper.
+Yale,Murray State,54,65,39,19,0,Matt Townsend Offensive Rebound.
+Yale,Murray State,57,65,39,25,1,Javier Duren made Three Point Jumper. Assisted by Matt Townsend.
+Yale,Murray State,57,65,39,26,0,Yale  Timeout
+Yale,Murray State,57,65,39,46,0,Murray St  Timeout
+Yale,Murray State,57,65,40,0,0,End of Game

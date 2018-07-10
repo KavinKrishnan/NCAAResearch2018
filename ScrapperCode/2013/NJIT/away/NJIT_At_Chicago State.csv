@@ -1,0 +1,326 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+NJIT,Chicago State,0,0,0,21,0,Foul on Matt Ross
+NJIT,Chicago State,1,0,0,21,1,Chris Flores made Free Throw.
+NJIT,Chicago State,1,0,0,21,0,Chris Flores missed Free Throw.
+NJIT,Chicago State,1,0,0,21,0,Jeremy Robinson Defensive Rebound.
+NJIT,Chicago State,1,3,0,51,1,Jeremy Robinson made Three Point Jumper.  Assisted by Matt Ross.
+NJIT,Chicago State,1,3,1,4,0,Pj Miller missed Jumper.
+NJIT,Chicago State,1,3,1,4,0,Pj Miller Offensive Rebound.
+NJIT,Chicago State,1,3,1,12,0,Daquan Holiday missed Layup.
+NJIT,Chicago State,1,3,1,12,0,Matt Ross Defensive Rebound.
+NJIT,Chicago State,1,3,1,18,0,Jamere Dismukes Turnover.
+NJIT,Chicago State,1,3,1,19,0,Chris Flores Steal.
+NJIT,Chicago State,1,3,1,23,0,Foul on Chris Flores
+NJIT,Chicago State,1,3,1,23,0,Chris Flores Turnover.
+NJIT,Chicago State,1,3,1,38,0,Jeremy Robinson missed Layup.
+NJIT,Chicago State,1,3,1,38,0,Daquan Holiday Defensive Rebound.
+NJIT,Chicago State,1,3,1,53,0,Daquan Holiday missed Layup.
+NJIT,Chicago State,1,3,1,53,0,Sean McCarthy Offensive Rebound.
+NJIT,Chicago State,3,3,1,57,1,Sean McCarthy made Layup.
+NJIT,Chicago State,3,5,2,14,1,Nate Duhon made Jumper.  Assisted by Jeremy Robinson.
+NJIT,Chicago State,3,5,2,34,0,Ryan Woods missed Jumper.
+NJIT,Chicago State,3,5,2,34,0,Pj Miller Offensive Rebound.
+NJIT,Chicago State,3,5,2,38,0,Pj Miller missed Layup.
+NJIT,Chicago State,3,5,2,38,0,Daquan Holiday Offensive Rebound.
+NJIT,Chicago State,3,5,2,53,0,Ryan Woods missed Jumper.
+NJIT,Chicago State,3,5,2,53,0,Chicago State Defensive Rebound.
+NJIT,Chicago State,3,5,3,12,0,Jeremy Robinson missed Jumper.
+NJIT,Chicago State,3,5,3,12,0,Jeremy Robinson Offensive Rebound.
+NJIT,Chicago State,3,5,3,16,0,Foul on Odera Nweke
+NJIT,Chicago State,3,5,3,30,0,Corey Gray missed Three Point Jumper.
+NJIT,Chicago State,3,5,3,30,0,Odera Nweke Defensive Rebound.
+NJIT,Chicago State,3,5,3,51,0,Sean McCarthy Turnover.
+NJIT,Chicago State,3,5,4,12,0,Nate Duhon missed Three Point Jumper.
+NJIT,Chicago State,3,5,4,12,0,null
+NJIT,Chicago State,3,5,4,15,0,Foul on Sean McCarthy
+NJIT,Chicago State,3,5,4,15,0,Official TV Timeout.
+NJIT,Chicago State,3,5,4,18,0,Matt Ross missed Three Point Jumper.
+NJIT,Chicago State,3,5,4,18,0,Quentin Bastian Defensive Rebound.
+NJIT,Chicago State,3,5,4,44,0,Quentin Bastian missed Jumper.
+NJIT,Chicago State,3,5,4,44,0,Jeremy Robinson Block.
+NJIT,Chicago State,3,5,4,47,0,Jamere Dismukes Defensive Rebound.
+NJIT,Chicago State,3,5,4,55,0,Jeremy Robinson missed Jumper.
+NJIT,Chicago State,3,5,4,55,0,Chris Flores Defensive Rebound.
+NJIT,Chicago State,5,5,5,0,1,Pj Miller made Jumper.
+NJIT,Chicago State,5,5,5,21,0,Foul on Quentin Bastian
+NJIT,Chicago State,5,5,5,21,0,Jeremy Robinson missed Free Throw.
+NJIT,Chicago State,5,5,5,21,0,null
+NJIT,Chicago State,5,6,5,21,1,Jeremy Robinson made Free Throw.
+NJIT,Chicago State,5,6,5,21,0,N.J.I.T. Full Timeout.
+NJIT,Chicago State,5,6,5,33,0,Quentin Bastian missed Layup.
+NJIT,Chicago State,5,6,5,33,0,Ky Howard Offensive Rebound.
+NJIT,Chicago State,5,6,5,43,0,Foul on Corey Gray
+NJIT,Chicago State,5,6,5,43,0,Ryan Woods missed Free Throw.
+NJIT,Chicago State,5,6,5,43,0,null
+NJIT,Chicago State,6,6,5,43,1,Ryan Woods made Free Throw.
+NJIT,Chicago State,6,6,6,8,0,Nate Duhon missed Jumper.
+NJIT,Chicago State,6,6,6,8,0,Ky Howard Defensive Rebound.
+NJIT,Chicago State,6,6,6,13,0,Ky Howard Turnover.
+NJIT,Chicago State,6,6,6,22,0,Jeremy Robinson missed Three Point Jumper.
+NJIT,Chicago State,6,6,6,22,0,Ky Howard Defensive Rebound.
+NJIT,Chicago State,6,6,6,39,0,Ky Howard missed Layup.
+NJIT,Chicago State,6,6,6,39,0,Jeremy Robinson Block.
+NJIT,Chicago State,6,6,6,40,0,N.J.I.T. Offensive Rebound.
+NJIT,Chicago State,6,6,6,45,0,Foul on Corey Gray
+NJIT,Chicago State,8,6,6,47,1,Odera Nweke made Layup.  Assisted by Chris Flores.
+NJIT,Chicago State,8,6,7,0,0,Jamere Dismukes missed Three Point Jumper.
+NJIT,Chicago State,8,6,7,0,0,N.J.I.T. Defensive Rebound.
+NJIT,Chicago State,8,6,7,22,0,Chris Flores Turnover.
+NJIT,Chicago State,8,6,7,39,0,Quinton Pippen missed Three Point Jumper.
+NJIT,Chicago State,8,6,7,39,0,N.J.I.T. Defensive Rebound.
+NJIT,Chicago State,8,6,8,7,0,Foul on Mashawn Chamberlain
+NJIT,Chicago State,8,6,8,7,0,Official TV Timeout.
+NJIT,Chicago State,8,6,8,28,0,Nigel Sydnor Turnover.
+NJIT,Chicago State,8,6,8,31,0,Quinton Pippen Steal.
+NJIT,Chicago State,8,9,8,52,1,Quinton Pippen made Three Point Jumper.
+NJIT,Chicago State,11,9,9,20,1,Chris Flores made Three Point Jumper.
+NJIT,Chicago State,11,9,9,20,0,Foul on Jamere Dismukes
+NJIT,Chicago State,11,9,9,20,0,Chris Flores missed Free Throw.
+NJIT,Chicago State,11,9,9,20,0,Jeremy Robinson Defensive Rebound.
+NJIT,Chicago State,11,9,9,26,0,Matt Ross Turnover.
+NJIT,Chicago State,11,9,9,28,0,Pj Miller Steal.
+NJIT,Chicago State,14,9,9,30,1,Chris Flores made Three Point Jumper.  Assisted by Pj Miller.
+NJIT,Chicago State,14,9,10,0,0,Matt Ross missed Three Point Jumper.
+NJIT,Chicago State,14,9,10,0,0,Ky Howard Defensive Rebound.
+NJIT,Chicago State,17,9,10,16,1,Nigel Sydnor made Three Point Jumper.  Assisted by Chris Flores.
+NJIT,Chicago State,17,12,10,26,1,Quinton Pippen made Three Point Jumper.  Assisted by Jamere Dismukes.
+NJIT,Chicago State,17,12,11,1,0,Nigel Sydnor missed Three Point Jumper.
+NJIT,Chicago State,17,12,11,1,0,Nate Duhon Defensive Rebound.
+NJIT,Chicago State,17,12,11,10,0,Nate Duhon missed Layup.
+NJIT,Chicago State,17,12,11,10,0,N.J.I.T. Defensive Rebound.
+NJIT,Chicago State,17,12,11,27,0,Chris Flores Turnover.
+NJIT,Chicago State,17,12,11,28,0,Nate Duhon Steal.
+NJIT,Chicago State,17,14,11,32,1,Jeremy Robinson made Layup.  Assisted by Nate Duhon.
+NJIT,Chicago State,17,14,11,40,0,Foul on Jeremy Robinson
+NJIT,Chicago State,17,14,11,40,0,Ky Howard missed Free Throw.
+NJIT,Chicago State,17,14,11,40,0,null
+NJIT,Chicago State,18,14,11,40,1,Ky Howard made Free Throw.
+NJIT,Chicago State,18,16,12,2,1,Jeremy Robinson made Layup.  Assisted by Jamere Dismukes.
+NJIT,Chicago State,20,16,12,12,1,Nigel Sydnor made Layup.
+NJIT,Chicago State,20,18,12,23,1,Nate Duhon made Jumper.  Assisted by Jeremy Robinson.
+NJIT,Chicago State,20,18,12,39,0,Official TV Timeout.
+NJIT,Chicago State,20,18,12,49,0,Ryan Woods missed Three Point Jumper.
+NJIT,Chicago State,20,18,12,49,0,Quinton Pippen Defensive Rebound.
+NJIT,Chicago State,20,18,13,6,0,Mashawn Chamberlain missed Three Point Jumper.
+NJIT,Chicago State,20,18,13,6,0,Pj Miller Defensive Rebound.
+NJIT,Chicago State,20,18,13,42,0,Pj Miller missed Layup.
+NJIT,Chicago State,20,18,13,42,0,Jeremy Robinson Block.
+NJIT,Chicago State,20,18,13,45,0,Odera Nweke Offensive Rebound.
+NJIT,Chicago State,20,18,13,45,0,N.J.I.T. Turnover.
+NJIT,Chicago State,20,18,14,0,0,Quinton Pippen missed Three Point Jumper.
+NJIT,Chicago State,20,18,14,0,0,Ky Howard Defensive Rebound.
+NJIT,Chicago State,20,18,14,21,0,Foul on Nate Duhon
+NJIT,Chicago State,20,18,14,21,0,Daquan Holiday missed Free Throw.
+NJIT,Chicago State,20,18,14,21,0,null
+NJIT,Chicago State,21,18,14,21,1,Daquan Holiday made Free Throw.
+NJIT,Chicago State,21,18,14,39,0,Foul on Chris Flores
+NJIT,Chicago State,21,21,15,10,1,Corey Gray made Three Point Jumper.  Assisted by Jamere Dismukes.
+NJIT,Chicago State,21,21,15,18,0,Pj Miller Turnover.
+NJIT,Chicago State,21,21,15,21,0,Nate Duhon Steal.
+NJIT,Chicago State,21,23,15,22,1,Nate Duhon made Dunk.
+NJIT,Chicago State,21,23,15,30,0,Nigel Sydnor Turnover.
+NJIT,Chicago State,21,23,15,30,0,Nate Duhon Steal.
+NJIT,Chicago State,21,23,15,30,0,Foul on Nigel Sydnor
+NJIT,Chicago State,21,23,15,41,0,Quinton Pippen missed Three Point Jumper.
+NJIT,Chicago State,21,23,15,41,0,Pj Miller Defensive Rebound.
+NJIT,Chicago State,24,23,15,50,1,Nigel Sydnor made Three Point Jumper.  Assisted by Pj Miller.
+NJIT,Chicago State,24,23,16,4,0,Official TV Timeout.
+NJIT,Chicago State,24,23,16,19,0,Jeremy Robinson missed Layup.
+NJIT,Chicago State,24,23,16,19,0,null
+NJIT,Chicago State,24,23,16,21,0,Foul on Jeremy Robinson
+NJIT,Chicago State,25,23,16,21,1,Daquan Holiday made Free Throw.
+NJIT,Chicago State,26,23,16,21,1,Daquan Holiday made Free Throw.
+NJIT,Chicago State,26,23,16,32,0,Foul on Nigel Sydnor
+NJIT,Chicago State,26,23,16,32,0,Jamere Dismukes missed Free Throw.
+NJIT,Chicago State,26,23,16,32,0,null
+NJIT,Chicago State,26,24,16,32,1,Jamere Dismukes made Free Throw.
+NJIT,Chicago State,28,24,16,41,1,Odera Nweke made Layup.  Assisted by Ky Howard.
+NJIT,Chicago State,28,24,16,50,0,Jamere Dismukes Turnover.
+NJIT,Chicago State,28,24,16,51,0,Pj Miller Steal.
+NJIT,Chicago State,28,24,16,54,0,Foul on Quinton Pippen
+NJIT,Chicago State,28,24,16,54,0,Pj Miller missed Free Throw.
+NJIT,Chicago State,28,24,16,54,0,null
+NJIT,Chicago State,28,24,16,54,0,Pj Miller missed Free Throw.
+NJIT,Chicago State,28,24,16,54,0,Corey Gray Defensive Rebound.
+NJIT,Chicago State,28,24,17,2,0,Corey Gray missed Jumper.
+NJIT,Chicago State,28,24,17,2,0,Pj Miller Defensive Rebound.
+NJIT,Chicago State,28,24,17,22,0,Daquan Holiday missed Jumper.
+NJIT,Chicago State,28,24,17,22,0,Odera Nweke Offensive Rebound.
+NJIT,Chicago State,30,24,17,25,1,Odera Nweke made Tip Shot.
+NJIT,Chicago State,30,24,17,39,0,Jamere Dismukes missed Jumper.
+NJIT,Chicago State,30,24,17,39,0,Odera Nweke Defensive Rebound.
+NJIT,Chicago State,30,24,17,39,0,Foul on Nate Duhon
+NJIT,Chicago State,31,24,17,39,1,Daquan Holiday made Free Throw.
+NJIT,Chicago State,32,24,17,39,1,Daquan Holiday made Free Throw.
+NJIT,Chicago State,32,26,17,55,1,Matt Ross made Layup.
+NJIT,Chicago State,32,26,18,5,0,Ryan Woods missed Three Point Jumper.
+NJIT,Chicago State,32,26,18,5,0,Ky Howard Offensive Rebound.
+NJIT,Chicago State,32,26,18,22,0,Foul on Corey Gray
+NJIT,Chicago State,33,26,18,22,1,Ky Howard made Free Throw.
+NJIT,Chicago State,33,26,18,22,0,Ky Howard missed Free Throw.
+NJIT,Chicago State,33,26,18,22,0,Mashawn Chamberlain Defensive Rebound.
+NJIT,Chicago State,33,26,18,31,0,Nate Duhon missed Jumper.
+NJIT,Chicago State,33,26,18,31,0,Ryan Woods Defensive Rebound.
+NJIT,Chicago State,33,26,19,3,0,Foul on Quinton Pippen
+NJIT,Chicago State,34,26,19,3,1,Ky Howard made Free Throw.
+NJIT,Chicago State,35,26,19,3,1,Ky Howard made Free Throw.
+NJIT,Chicago State,35,26,19,24,0,Foul on Nate Duhon
+NJIT,Chicago State,35,26,19,24,0,Nate Duhon Turnover.
+NJIT,Chicago State,35,26,19,59,0,N.J.I.T. Turnover.
+NJIT,Chicago State,35,26,20,0,0,End of the 1st Half.
+NJIT,Chicago State,35,26,20,21,0,Foul on Quinton Pippen
+NJIT,Chicago State,35,26,20,21,0,Sean McCarthy missed Free Throw.
+NJIT,Chicago State,35,26,20,21,0,null
+NJIT,Chicago State,35,26,20,21,0,Sean McCarthy missed Free Throw.
+NJIT,Chicago State,35,26,20,21,0,Jeremy Robinson Defensive Rebound.
+NJIT,Chicago State,35,26,20,28,0,Jeremy Robinson missed Jumper.
+NJIT,Chicago State,35,26,20,28,0,Chris Flores Defensive Rebound.
+NJIT,Chicago State,35,26,20,49,0,Pj Miller Turnover.
+NJIT,Chicago State,35,26,21,5,0,Quinton Pippen missed Three Point Jumper.
+NJIT,Chicago State,35,26,21,5,0,null
+NJIT,Chicago State,35,26,21,7,0,Foul on Matt Ross
+NJIT,Chicago State,35,26,21,26,0,Odera Nweke missed Layup.
+NJIT,Chicago State,35,26,21,26,0,Matt Ross Block.
+NJIT,Chicago State,35,26,21,28,0,Jamere Dismukes Defensive Rebound.
+NJIT,Chicago State,35,28,21,31,1,Jeremy Robinson made Layup.  Assisted by Jamere Dismukes.
+NJIT,Chicago State,35,28,21,32,0,Foul on Ryan Woods
+NJIT,Chicago State,35,29,21,32,1,Jeremy Robinson made Free Throw.
+NJIT,Chicago State,37,29,22,5,1,Pj Miller made Jumper.  Assisted by Chris Flores.
+NJIT,Chicago State,37,29,22,29,0,Jamere Dismukes missed Jumper.
+NJIT,Chicago State,37,29,22,29,0,Daquan Holiday Defensive Rebound.
+NJIT,Chicago State,37,29,23,4,0,Pj Miller Turnover.
+NJIT,Chicago State,37,32,23,11,1,Quinton Pippen made Three Point Jumper.  Assisted by Jeremy Robinson.
+NJIT,Chicago State,37,32,23,25,0,Ryan Woods Turnover.
+NJIT,Chicago State,37,32,23,26,0,Jeremy Robinson Steal.
+NJIT,Chicago State,37,32,23,29,0,Quinton Pippen missed Three Point Jumper.
+NJIT,Chicago State,37,32,23,29,0,Chris Flores Defensive Rebound.
+NJIT,Chicago State,37,32,23,37,0,Foul on Chris Flores
+NJIT,Chicago State,37,32,23,37,0,Chris Flores Turnover.
+NJIT,Chicago State,37,32,23,43,0,Quinton Pippen missed Jumper.
+NJIT,Chicago State,37,32,23,43,0,Matt Ross Offensive Rebound.
+NJIT,Chicago State,37,32,23,48,0,Matt Ross missed Layup.
+NJIT,Chicago State,37,32,23,48,0,Jeremy Robinson Offensive Rebound.
+NJIT,Chicago State,37,34,23,51,1,Jeremy Robinson made Layup.
+NJIT,Chicago State,37,34,23,51,0,Foul on Daquan Holiday
+NJIT,Chicago State,37,34,23,51,0,Official TV Timeout.
+NJIT,Chicago State,37,35,23,51,1,Jeremy Robinson made Free Throw.
+NJIT,Chicago State,37,35,24,11,0,Ryan Woods missed Three Point Jumper.
+NJIT,Chicago State,37,35,24,11,0,Chicago State Defensive Rebound.
+NJIT,Chicago State,37,37,24,39,1,Jeremy Robinson made Dunk.  Assisted by Matt Ross.
+NJIT,Chicago State,40,37,24,58,1,Ryan Woods made Three Point Jumper.
+NJIT,Chicago State,40,37,25,15,0,Jeremy Robinson Turnover.
+NJIT,Chicago State,40,37,25,39,0,Ryan Woods missed Jumper.
+NJIT,Chicago State,40,37,25,39,0,Ky Howard Offensive Rebound.
+NJIT,Chicago State,40,37,25,48,0,Ryan Woods missed Three Point Jumper.
+NJIT,Chicago State,40,37,25,48,0,Jeremy Robinson Defensive Rebound.
+NJIT,Chicago State,40,37,26,6,0,Foul on Nigel Sydnor
+NJIT,Chicago State,40,37,26,21,0,Corey Gray missed Three Point Jumper.
+NJIT,Chicago State,40,37,26,21,0,Quinton Pippen Offensive Rebound.
+NJIT,Chicago State,40,37,26,39,0,Quinton Pippen missed Three Point Jumper.
+NJIT,Chicago State,40,37,26,39,0,Odera Nweke Defensive Rebound.
+NJIT,Chicago State,42,37,27,8,1,Ky Howard made Layup.
+NJIT,Chicago State,42,37,27,23,0,Nate Duhon Turnover.
+NJIT,Chicago State,42,37,27,24,0,Daquan Holiday Steal.
+NJIT,Chicago State,42,37,27,31,0,Foul on Nate Duhon
+NJIT,Chicago State,42,37,27,31,0,Pj Miller missed Free Throw.
+NJIT,Chicago State,42,37,27,31,0,null
+NJIT,Chicago State,43,37,27,31,1,Pj Miller made Free Throw.
+NJIT,Chicago State,43,40,27,41,1,Jamere Dismukes made Three Point Jumper.
+NJIT,Chicago State,43,40,28,10,0,Ky Howard missed Layup.
+NJIT,Chicago State,43,40,28,10,0,Matt Ross Defensive Rebound.
+NJIT,Chicago State,43,40,28,35,0,Official TV Timeout.
+NJIT,Chicago State,43,43,28,44,1,Quinton Pippen made Three Point Jumper.  Assisted by Jamere Dismukes.
+NJIT,Chicago State,43,43,29,6,0,Ryan Woods missed Three Point Jumper.
+NJIT,Chicago State,43,43,29,6,0,Clarke Rosenberg Defensive Rebound.
+NJIT,Chicago State,43,43,29,14,0,Mashawn Chamberlain Turnover.
+NJIT,Chicago State,43,43,29,35,0,Daquan Holiday missed Layup.
+NJIT,Chicago State,43,43,29,35,0,Quinton Pippen Block.
+NJIT,Chicago State,43,43,29,36,0,Ky Howard Defensive Rebound.
+NJIT,Chicago State,43,43,29,44,0,Ryan Woods Turnover.
+NJIT,Chicago State,43,43,29,44,0,Nate Duhon Steal.
+NJIT,Chicago State,43,45,30,7,1,Jeremy Robinson made Layup.  Assisted by Mashawn Chamberlain.
+NJIT,Chicago State,43,45,30,20,0,Foul on Jeremy Robinson
+NJIT,Chicago State,44,45,30,20,1,Odera Nweke made Free Throw.
+NJIT,Chicago State,45,45,30,20,1,Odera Nweke made Free Throw.
+NJIT,Chicago State,45,45,30,30,0,Jamere Dismukes missed Jumper.
+NJIT,Chicago State,45,45,30,30,0,Pj Miller Defensive Rebound.
+NJIT,Chicago State,45,45,30,40,0,Odera Nweke missed Layup.
+NJIT,Chicago State,45,45,30,40,0,Jeremy Robinson Block.
+NJIT,Chicago State,45,45,30,43,0,Nate Duhon Defensive Rebound.
+NJIT,Chicago State,45,47,30,47,1,Nate Duhon made Layup.
+NJIT,Chicago State,45,47,31,4,0,Foul on Jeremy Robinson
+NJIT,Chicago State,45,47,31,31,0,Odera Nweke Turnover.
+NJIT,Chicago State,45,47,31,32,0,Quinton Pippen Steal.
+NJIT,Chicago State,45,47,31,56,0,Markus Starks Turnover.
+NJIT,Chicago State,45,47,32,20,0,Ryan Woods missed Three Point Jumper.
+NJIT,Chicago State,45,47,32,20,0,Jamere Dismukes Defensive Rebound.
+NJIT,Chicago State,45,47,32,22,0,Foul on Odera Nweke
+NJIT,Chicago State,45,47,32,22,0,Official TV Timeout.
+NJIT,Chicago State,45,47,32,45,0,Mashawn Chamberlain Turnover.
+NJIT,Chicago State,45,47,32,47,0,Pj Miller Steal.
+NJIT,Chicago State,45,47,32,57,0,Ky Howard missed Three Point Jumper.
+NJIT,Chicago State,48,47,33,8,1,Chris Flores made Three Point Jumper.  Assisted by Pj Miller.
+NJIT,Chicago State,48,50,33,23,1,Quinton Pippen made Three Point Jumper.  Assisted by Jamere Dismukes.
+NJIT,Chicago State,48,50,33,39,0,Pj Miller Turnover.
+NJIT,Chicago State,48,50,33,40,0,Quinton Pippen Steal.
+NJIT,Chicago State,48,53,33,42,1,Quinton Pippen made Three Point Jumper.
+NJIT,Chicago State,48,53,33,53,0,N.J.I.T. Full Timeout.
+NJIT,Chicago State,50,53,34,22,1,Ky Howard made Layup.
+NJIT,Chicago State,50,53,34,41,0,Nate Duhon Turnover.
+NJIT,Chicago State,50,53,34,42,0,Ryan Woods Steal.
+NJIT,Chicago State,52,53,34,45,1,Pj Miller made Layup.
+NJIT,Chicago State,52,53,35,6,0,Jamere Dismukes Turnover.
+NJIT,Chicago State,52,53,35,10,0,Chris Flores Steal.
+NJIT,Chicago State,52,53,35,12,0,N.J.I.T. Full Timeout.
+NJIT,Chicago State,55,53,35,30,1,Chris Flores made Three Point Jumper.  Assisted by Ryan Woods.
+NJIT,Chicago State,55,53,35,39,0,Chicago State Full Timeout.
+NJIT,Chicago State,55,53,35,45,0,Quinton Pippen missed Jumper.
+NJIT,Chicago State,55,53,35,45,0,Ky Howard Defensive Rebound.
+NJIT,Chicago State,57,53,35,57,1,Chris Flores made Layup.
+NJIT,Chicago State,57,53,36,24,0,Clarke Rosenberg missed Jumper.
+NJIT,Chicago State,57,53,36,24,0,Chicago State Offensive Rebound.
+NJIT,Chicago State,57,53,36,27,0,Official TV Timeout.
+NJIT,Chicago State,57,53,36,29,0,Jeremy Robinson Turnover.
+NJIT,Chicago State,57,53,36,31,0,Chris Flores Steal.
+NJIT,Chicago State,57,53,36,46,0,Chris Flores missed Jumper.
+NJIT,Chicago State,57,53,36,46,0,Jeremy Robinson Block.
+NJIT,Chicago State,57,53,36,48,0,Jamere Dismukes Defensive Rebound.
+NJIT,Chicago State,57,53,36,51,0,Jamere Dismukes missed Layup.
+NJIT,Chicago State,57,53,36,51,0,Chris Flores Defensive Rebound.
+NJIT,Chicago State,57,53,36,56,0,Chris Flores Turnover.
+NJIT,Chicago State,57,53,37,8,0,Jeremy Robinson missed Layup.
+NJIT,Chicago State,57,53,37,8,0,Odera Nweke Block.
+NJIT,Chicago State,57,53,37,11,0,Chris Flores Defensive Rebound.
+NJIT,Chicago State,59,53,37,27,1,Ky Howard made Jumper.
+NJIT,Chicago State,59,53,37,49,0,Chicago State Full Timeout.
+NJIT,Chicago State,59,53,37,51,0,Jeremy Robinson missed Jumper.
+NJIT,Chicago State,59,53,37,51,0,Matt Ross Offensive Rebound.
+NJIT,Chicago State,59,53,38,0,0,Quinton Pippen missed Three Point Jumper.
+NJIT,Chicago State,59,53,38,0,0,null
+NJIT,Chicago State,59,53,38,31,0,Foul on Jamere Dismukes
+NJIT,Chicago State,60,53,38,31,1,Chris Flores made Free Throw.
+NJIT,Chicago State,60,53,38,31,0,Chris Flores missed Free Throw.
+NJIT,Chicago State,60,53,38,31,0,Clarke Rosenberg Defensive Rebound.
+NJIT,Chicago State,60,55,38,40,1,Jeremy Robinson made Layup.
+NJIT,Chicago State,60,55,38,40,0,Chris Flores Turnover.
+NJIT,Chicago State,60,55,38,53,0,Matt Ross missed Three Point Jumper.
+NJIT,Chicago State,60,55,38,53,0,Odera Nweke Defensive Rebound.
+NJIT,Chicago State,60,55,39,15,0,Foul on Jeremy Robinson
+NJIT,Chicago State,61,55,39,15,1,Odera Nweke made Free Throw.
+NJIT,Chicago State,62,55,39,15,1,Odera Nweke made Free Throw.
+NJIT,Chicago State,62,55,39,23,0,Clarke Rosenberg missed Layup.
+NJIT,Chicago State,62,55,39,23,0,Daquan Holiday Block.
+NJIT,Chicago State,62,55,39,24,0,Chicago State Offensive Rebound.
+NJIT,Chicago State,62,55,39,26,0,Matt Ross missed Three Point Jumper.
+NJIT,Chicago State,62,55,39,26,0,N.J.I.T. Defensive Rebound.
+NJIT,Chicago State,62,55,39,32,0,Foul on Clarke Rosenberg
+NJIT,Chicago State,63,55,39,32,1,Pj Miller made Free Throw.
+NJIT,Chicago State,63,55,39,32,0,Pj Miller missed Free Throw.
+NJIT,Chicago State,63,55,39,32,0,Clarke Rosenberg Defensive Rebound.
+NJIT,Chicago State,63,58,39,41,1,Corey Gray made Three Point Jumper.  Assisted by Quinton Pippen.
+NJIT,Chicago State,63,58,39,44,0,Foul on Corey Gray
+NJIT,Chicago State,63,58,39,44,0,Pj Miller missed Free Throw.
+NJIT,Chicago State,63,58,39,44,0,Matt Ross Defensive Rebound.
+NJIT,Chicago State,63,58,39,48,0,Corey Gray missed Three Point Jumper.
+NJIT,Chicago State,63,58,39,48,0,Pj Miller Defensive Rebound.
+NJIT,Chicago State,63,58,40,0,0,End Game

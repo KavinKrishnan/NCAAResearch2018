@@ -1,0 +1,373 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,UCLA,0,0,0,0,0,Jump Ball won by UCLA
+Stanford,UCLA,0,2,0,19,1,Isaac Hamilton made Jumper.
+Stanford,UCLA,0,2,0,44,0,Michael Humphrey missed Jumper.
+Stanford,UCLA,0,2,0,44,0,TJ Leaf Defensive Rebound.
+Stanford,UCLA,0,5,0,53,1,Lonzo Ball made Three Point Jumper. Assisted by TJ Leaf.
+Stanford,UCLA,0,5,1,8,0,Foul on TJ Leaf.
+Stanford,UCLA,2,5,1,12,1,Grant Verhoeven made Jumper. Assisted by Marcus Sheffield.
+Stanford,UCLA,2,8,1,22,1,Lonzo Ball made Three Point Jumper.
+Stanford,UCLA,2,8,1,38,0,Dorian Pickens missed Three Point Jumper.
+Stanford,UCLA,2,8,1,38,0,Thomas Welsh Defensive Rebound.
+Stanford,UCLA,2,8,1,51,0,Isaac Hamilton missed Three Point Jumper.
+Stanford,UCLA,2,8,1,51,0,Michael Humphrey Defensive Rebound.
+Stanford,UCLA,2,8,2,14,0,Marcus Sheffield missed Jumper.
+Stanford,UCLA,2,8,2,14,0,Isaac Hamilton Defensive Rebound.
+Stanford,UCLA,2,8,2,28,0,Isaac Hamilton Turnover.
+Stanford,UCLA,5,8,2,37,1,Dorian Pickens made Three Point Jumper. Assisted by Robert Cartwright.
+Stanford,UCLA,5,11,2,53,1,TJ Leaf made Three Point Jumper. Assisted by Lonzo Ball.
+Stanford,UCLA,5,11,3,11,0,Michael Humphrey missed Jumper.
+Stanford,UCLA,5,11,3,11,0,TJ Leaf Defensive Rebound.
+Stanford,UCLA,5,11,3,19,0,TJ Leaf missed Jumper.
+Stanford,UCLA,5,11,3,19,0,Josh Sharma Block.
+Stanford,UCLA,5,11,3,19,0,Thomas Welsh Offensive Rebound.
+Stanford,UCLA,5,11,3,29,0,Isaac Hamilton missed Three Point Jumper.
+Stanford,UCLA,5,11,3,29,0,TJ Leaf Offensive Rebound.
+Stanford,UCLA,5,11,3,29,0,Thomas Welsh missed Jumper.
+Stanford,UCLA,5,11,3,29,0,Josh Sharma Defensive Rebound.
+Stanford,UCLA,5,11,3,30,0,Foul on Thomas Welsh.
+Stanford,UCLA,5,11,3,39,0,Robert Cartwright missed Jumper.
+Stanford,UCLA,5,11,3,39,0,Lonzo Ball Defensive Rebound.
+Stanford,UCLA,5,11,3,51,0,Foul on Josh Sharma.
+Stanford,UCLA,5,11,3,51,0,Bryce Alford missed Free Throw.
+Stanford,UCLA,5,11,3,51,0,UCLA Deadball Team Rebound.
+Stanford,UCLA,5,12,3,51,1,Bryce Alford made Free Throw.
+Stanford,UCLA,5,12,4,5,0,Marcus Allen Turnover.
+Stanford,UCLA,5,12,4,5,0,Official TV Timeout
+Stanford,UCLA,5,12,4,17,0,Thomas Welsh missed Jumper.
+Stanford,UCLA,5,12,4,17,0,UCLA Offensive Rebound.
+Stanford,UCLA,5,14,4,23,1,Thomas Welsh made Jumper. Assisted by TJ Leaf.
+Stanford,UCLA,5,14,4,52,0,Marcus Allen missed Layup.
+Stanford,UCLA,5,14,4,52,0,Lonzo Ball Defensive Rebound.
+Stanford,UCLA,5,16,4,57,1,Isaac Hamilton made Layup. Assisted by Lonzo Ball.
+Stanford,UCLA,7,16,5,20,1,Josh Sharma made Jumper. Assisted by Robert Cartwright.
+Stanford,UCLA,7,18,5,37,1,TJ Leaf made Layup. Assisted by Bryce Alford.
+Stanford,UCLA,7,18,5,37,0,Foul on Marcus Allen.
+Stanford,UCLA,7,18,5,37,0,TJ Leaf missed Free Throw.
+Stanford,UCLA,7,18,5,37,0,Michael Humphrey Defensive Rebound.
+Stanford,UCLA,7,18,6,0,0,Christian Sanders missed Jumper.
+Stanford,UCLA,7,18,6,0,0,Ike Anigbogu Defensive Rebound.
+Stanford,UCLA,7,18,6,10,0,Isaac Hamilton missed Jumper.
+Stanford,UCLA,7,18,6,10,0,Robert Cartwright Defensive Rebound.
+Stanford,UCLA,7,18,6,22,0,Dorian Pickens missed Three Point Jumper.
+Stanford,UCLA,7,18,6,22,0,Michael Humphrey Offensive Rebound.
+Stanford,UCLA,7,18,6,51,0,Foul on Isaac Hamilton.
+Stanford,UCLA,7,18,6,52,0,Dorian Pickens missed Three Point Jumper.
+Stanford,UCLA,7,18,6,52,0,Stanford Offensive Rebound.
+Stanford,UCLA,7,18,7,15,0,Michael Humphrey missed Layup.
+Stanford,UCLA,7,18,7,15,0,TJ Leaf Block.
+Stanford,UCLA,7,18,7,15,0,Stanford Offensive Rebound.
+Stanford,UCLA,7,18,7,24,0,Christian Sanders missed Jumper.
+Stanford,UCLA,7,18,7,24,0,Aaron Holiday Defensive Rebound.
+Stanford,UCLA,7,18,7,31,0,Gyorgy Goloman Turnover.
+Stanford,UCLA,7,18,7,31,0,Robert Cartwright Steal.
+Stanford,UCLA,7,18,7,48,0,Christian Sanders missed Three Point Jumper.
+Stanford,UCLA,7,18,7,48,0,Isaac Hamilton Defensive Rebound.
+Stanford,UCLA,7,18,7,56,0,Lonzo Ball missed Three Point Jumper.
+Stanford,UCLA,7,18,7,56,0,Robert Cartwright Defensive Rebound.
+Stanford,UCLA,7,18,8,3,0,Marcus Sheffield missed Layup.
+Stanford,UCLA,7,18,8,3,0,Lonzo Ball Block.
+Stanford,UCLA,7,18,8,3,0,Aaron Holiday Defensive Rebound.
+Stanford,UCLA,7,18,8,7,0,Aaron Holiday Turnover.
+Stanford,UCLA,7,18,8,7,0,Official TV Timeout
+Stanford,UCLA,7,18,8,23,0,Grant Verhoeven missed Layup.
+Stanford,UCLA,7,18,8,23,0,Ike Anigbogu Defensive Rebound.
+Stanford,UCLA,7,20,8,41,1,Lonzo Ball made Dunk. Assisted by Aaron Holiday.
+Stanford,UCLA,7,20,8,50,0,Christian Sanders Turnover.
+Stanford,UCLA,7,20,8,50,0,Aaron Holiday Steal.
+Stanford,UCLA,7,20,8,57,0,Foul on Christian Sanders.
+Stanford,UCLA,7,20,9,0,0,Lonzo Ball Turnover.
+Stanford,UCLA,7,20,9,0,0,Grant Verhoeven Steal.
+Stanford,UCLA,9,20,9,5,1,Dorian Pickens made Layup.
+Stanford,UCLA,9,20,9,14,0,Foul on Michael Humphrey.
+Stanford,UCLA,9,20,9,19,0,Ike Anigbogu missed Jumper.
+Stanford,UCLA,9,20,9,19,0,Cameron Walker Defensive Rebound.
+Stanford,UCLA,9,20,9,26,0,Foul on Lonzo Ball.
+Stanford,UCLA,9,20,9,34,0,Dorian Pickens missed Jumper.
+Stanford,UCLA,9,20,9,34,0,Gyorgy Goloman Defensive Rebound.
+Stanford,UCLA,9,22,9,46,1,Ike Anigbogu made Jumper. Assisted by Lonzo Ball.
+Stanford,UCLA,11,22,10,5,1,Michael Humphrey made Layup. Assisted by Marcus Sheffield.
+Stanford,UCLA,11,25,10,21,1,Isaac Hamilton made Three Point Jumper. Assisted by Gyorgy Goloman.
+Stanford,UCLA,11,25,10,53,0,Marcus Sheffield missed Jumper.
+Stanford,UCLA,11,25,10,53,0,Aaron Holiday Defensive Rebound.
+Stanford,UCLA,11,25,11,0,0,Isaac Hamilton Turnover.
+Stanford,UCLA,11,25,11,0,0,Marcus Sheffield Steal.
+Stanford,UCLA,11,25,11,4,0,Jump Ball won by Stanford
+Stanford,UCLA,11,25,11,26,0,Cameron Walker Turnover.
+Stanford,UCLA,11,25,11,26,0,Gyorgy Goloman Steal.
+Stanford,UCLA,11,27,11,31,1,Lonzo Ball made Layup. Assisted by Bryce Alford.
+Stanford,UCLA,13,27,12,0,1,Michael Humphrey made Jumper. Assisted by Robert Cartwright.
+Stanford,UCLA,13,30,12,19,1,Bryce Alford made Three Point Jumper. Assisted by Aaron Holiday.
+Stanford,UCLA,13,30,12,30,0,Cameron Walker Turnover.
+Stanford,UCLA,13,30,12,30,0,Lonzo Ball Steal.
+Stanford,UCLA,13,32,12,34,1,Lonzo Ball made Layup.
+Stanford,UCLA,16,32,13,0,1,Robert Cartwright made Three Point Jumper. Assisted by Dorian Pickens.
+Stanford,UCLA,16,32,13,6,0,Bryce Alford missed Three Point Jumper.
+Stanford,UCLA,16,32,13,6,0,Josh Sharma Defensive Rebound.
+Stanford,UCLA,16,32,13,20,0,Josh Sharma missed Jumper.
+Stanford,UCLA,16,32,13,20,0,Bryce Alford Defensive Rebound.
+Stanford,UCLA,16,32,13,28,0,Aaron Holiday missed Jumper.
+Stanford,UCLA,16,32,13,28,0,Michael Humphrey Defensive Rebound.
+Stanford,UCLA,16,32,13,40,0,Cameron Walker Turnover.
+Stanford,UCLA,16,32,13,40,0,Lonzo Ball Steal.
+Stanford,UCLA,16,32,13,46,0,Lonzo Ball missed Layup.
+Stanford,UCLA,16,32,13,47,0,Gyorgy Goloman Offensive Rebound.
+Stanford,UCLA,16,32,13,48,0,Gyorgy Goloman missed Two Point Tip Shot.
+Stanford,UCLA,16,32,13,49,0,Michael Humphrey Defensive Rebound.
+Stanford,UCLA,16,32,14,7,0,Foul on Gyorgy Goloman.
+Stanford,UCLA,16,32,14,7,0,Official TV Timeout
+Stanford,UCLA,16,32,14,17,0,Michael Humphrey missed Three Point Jumper.
+Stanford,UCLA,16,32,14,17,0,UCLA Defensive Rebound.
+Stanford,UCLA,16,32,14,44,0,Bryce Alford missed Jumper.
+Stanford,UCLA,16,32,14,44,0,Robert Cartwright Defensive Rebound.
+Stanford,UCLA,18,32,14,52,1,Michael Humphrey made Dunk. Assisted by Robert Cartwright.
+Stanford,UCLA,18,32,14,55,0,Technical Foul on Michael Humphrey.
+Stanford,UCLA,18,33,14,55,1,Bryce Alford made Free Throw.
+Stanford,UCLA,18,35,15,13,1,Thomas Welsh made Dunk. Assisted by TJ Leaf.
+Stanford,UCLA,18,35,15,30,0,Robert Cartwright missed Three Point Jumper.
+Stanford,UCLA,18,35,15,30,0,Aaron Holiday Defensive Rebound.
+Stanford,UCLA,18,35,15,41,0,Foul on Robert Cartwright.
+Stanford,UCLA,18,38,15,42,1,Bryce Alford made Three Point Jumper. Assisted by TJ Leaf.
+Stanford,UCLA,21,38,16,5,1,Michael Humphrey made Three Point Jumper. Assisted by Robert Cartwright.
+Stanford,UCLA,21,38,16,24,0,Thomas Welsh missed Jumper.
+Stanford,UCLA,21,38,16,24,0,Robert Cartwright Defensive Rebound.
+Stanford,UCLA,21,38,16,34,0,Foul on Thomas Welsh.
+Stanford,UCLA,21,38,16,34,0,Official TV Timeout
+Stanford,UCLA,21,38,16,34,0,Dorian Pickens missed Free Throw.
+Stanford,UCLA,21,38,16,34,0,Stanford Deadball Team Rebound.
+Stanford,UCLA,22,38,16,34,1,Dorian Pickens made Free Throw.
+Stanford,UCLA,22,38,16,44,0,Isaac Hamilton missed Three Point Jumper.
+Stanford,UCLA,22,38,16,44,0,Christian Sanders Defensive Rebound.
+Stanford,UCLA,22,38,16,57,0,Dorian Pickens missed Three Point Jumper.
+Stanford,UCLA,22,38,16,57,0,Grant Verhoeven Offensive Rebound.
+Stanford,UCLA,22,38,17,7,0,Grant Verhoeven Turnover.
+Stanford,UCLA,22,38,17,7,0,TJ Leaf Steal.
+Stanford,UCLA,22,38,17,11,0,Bryce Alford Turnover.
+Stanford,UCLA,22,38,17,11,0,Dorian Pickens Steal.
+Stanford,UCLA,24,38,17,17,1,Robert Cartwright made Layup. Assisted by Dorian Pickens.
+Stanford,UCLA,24,40,17,24,1,Isaac Hamilton made Layup. Assisted by Aaron Holiday.
+Stanford,UCLA,24,40,17,24,0,Foul on Grant Verhoeven.
+Stanford,UCLA,24,40,17,24,0,Isaac Hamilton missed Free Throw.
+Stanford,UCLA,24,40,17,24,0,Michael Humphrey Defensive Rebound.
+Stanford,UCLA,24,40,17,43,0,Dorian Pickens missed Jumper.
+Stanford,UCLA,24,40,17,43,0,Dorian Pickens Offensive Rebound.
+Stanford,UCLA,26,40,17,48,1,Dorian Pickens made Layup.
+Stanford,UCLA,26,40,18,0,0,Isaac Hamilton Turnover.
+Stanford,UCLA,26,40,18,8,0,Michael Humphrey missed Three Point Jumper.
+Stanford,UCLA,26,40,18,8,0,Isaac Hamilton Defensive Rebound.
+Stanford,UCLA,26,42,18,20,1,TJ Leaf made Jumper.
+Stanford,UCLA,26,42,18,39,0,Marcus Allen Turnover.
+Stanford,UCLA,26,42,18,39,0,Lonzo Ball Steal.
+Stanford,UCLA,26,45,18,43,1,Lonzo Ball made Three Point Jumper. Assisted by TJ Leaf.
+Stanford,UCLA,26,45,18,58,0,Stanford  Timeout
+Stanford,UCLA,26,45,19,10,0,Robert Cartwright missed Layup.
+Stanford,UCLA,26,45,19,10,0,Grant Verhoeven Offensive Rebound.
+Stanford,UCLA,28,45,19,18,1,Grant Verhoeven made Layup.
+Stanford,UCLA,28,48,19,24,1,Bryce Alford made Three Point Jumper. Assisted by Aaron Holiday.
+Stanford,UCLA,30,48,19,54,1,Marcus Allen made Layup.
+Stanford,UCLA,30,48,19,55,0,UCLA  Timeout
+Stanford,UCLA,30,48,19,57,0,Aaron Holiday missed Three Point Jumper.
+Stanford,UCLA,30,48,19,57,0,Isaac Hamilton Offensive Rebound.
+Stanford,UCLA,30,48,19,59,0,Isaac Hamilton missed Jumper.
+Stanford,UCLA,30,48,19,59,0,TJ Leaf Offensive Rebound.
+Stanford,UCLA,30,48,20,0,0,End of 1st half
+Stanford,UCLA,30,48,20,0,0,Jump Ball won by UCLA
+Stanford,UCLA,30,48,20,7,0,Thomas Welsh missed Jumper.
+Stanford,UCLA,30,48,20,7,0,Lonzo Ball Offensive Rebound.
+Stanford,UCLA,30,50,20,13,1,Thomas Welsh made Jumper. Assisted by Lonzo Ball.
+Stanford,UCLA,30,50,20,31,0,Marcus Allen missed Jumper.
+Stanford,UCLA,30,50,20,31,0,Josh Sharma Offensive Rebound.
+Stanford,UCLA,30,50,20,36,0,Josh Sharma missed Jumper.
+Stanford,UCLA,30,50,20,36,0,Lonzo Ball Defensive Rebound.
+Stanford,UCLA,30,50,20,42,0,Foul on Dorian Pickens.
+Stanford,UCLA,30,51,20,42,1,Isaac Hamilton made Free Throw.
+Stanford,UCLA,30,52,20,42,1,Isaac Hamilton made Free Throw.
+Stanford,UCLA,30,52,21,6,0,Dorian Pickens missed Layup.
+Stanford,UCLA,30,52,21,6,0,Thomas Welsh Defensive Rebound.
+Stanford,UCLA,30,52,21,12,0,Isaac Hamilton missed Three Point Jumper.
+Stanford,UCLA,30,52,21,12,0,Josh Sharma Defensive Rebound.
+Stanford,UCLA,32,52,21,26,1,Robert Cartwright made Layup.
+Stanford,UCLA,32,55,21,37,1,Bryce Alford made Three Point Jumper. Assisted by Lonzo Ball.
+Stanford,UCLA,32,55,22,3,0,Michael Humphrey missed Layup.
+Stanford,UCLA,32,55,22,3,0,Michael Humphrey Offensive Rebound.
+Stanford,UCLA,32,55,22,6,0,Foul on TJ Leaf.
+Stanford,UCLA,33,55,22,6,1,Michael Humphrey made Free Throw.
+Stanford,UCLA,34,55,22,6,1,Michael Humphrey made Free Throw.
+Stanford,UCLA,34,55,22,12,0,Foul on Robert Cartwright.
+Stanford,UCLA,34,55,22,18,0,Thomas Welsh missed Jumper.
+Stanford,UCLA,34,55,22,18,0,TJ Leaf Offensive Rebound.
+Stanford,UCLA,34,55,22,18,0,TJ Leaf missed Two Point Tip Shot.
+Stanford,UCLA,34,55,22,18,0,Stanford Defensive Rebound.
+Stanford,UCLA,37,55,22,30,1,Dorian Pickens made Three Point Jumper. Assisted by Robert Cartwright.
+Stanford,UCLA,37,57,22,46,1,TJ Leaf made Jumper.
+Stanford,UCLA,40,57,22,56,1,Robert Cartwright made Three Point Jumper.
+Stanford,UCLA,40,57,23,15,0,TJ Leaf missed Jumper.
+Stanford,UCLA,40,57,23,15,0,Dorian Pickens Defensive Rebound.
+Stanford,UCLA,42,57,23,25,1,Michael Humphrey made Layup. Assisted by Robert Cartwright.
+Stanford,UCLA,42,57,23,25,0,Foul on Thomas Welsh.
+Stanford,UCLA,42,57,23,25,0,Michael Humphrey missed Free Throw.
+Stanford,UCLA,42,57,23,25,0,Ike Anigbogu Defensive Rebound.
+Stanford,UCLA,42,57,23,39,0,Foul on Dorian Pickens.
+Stanford,UCLA,42,57,23,39,0,Bryce Alford missed Free Throw.
+Stanford,UCLA,42,57,23,39,0,UCLA Deadball Team Rebound.
+Stanford,UCLA,42,57,23,39,0,Bryce Alford missed Free Throw.
+Stanford,UCLA,42,57,23,39,0,Michael Humphrey Defensive Rebound.
+Stanford,UCLA,42,57,23,55,0,Michael Humphrey missed Jumper.
+Stanford,UCLA,42,57,23,55,0,Lonzo Ball Defensive Rebound.
+Stanford,UCLA,42,57,24,2,0,Foul on Michael Humphrey.
+Stanford,UCLA,42,57,24,2,0,Official TV Timeout
+Stanford,UCLA,42,57,24,2,0,TJ Leaf missed Free Throw.
+Stanford,UCLA,42,57,24,2,0,UCLA Deadball Team Rebound.
+Stanford,UCLA,42,57,24,2,0,TJ Leaf missed Free Throw.
+Stanford,UCLA,42,57,24,2,0,Cameron Walker Defensive Rebound.
+Stanford,UCLA,42,57,24,9,0,Dorian Pickens missed Three Point Jumper.
+Stanford,UCLA,42,57,24,9,0,Michael Humphrey Offensive Rebound.
+Stanford,UCLA,42,57,24,14,0,Michael Humphrey missed Layup.
+Stanford,UCLA,42,57,24,14,0,Ike Anigbogu Block.
+Stanford,UCLA,42,57,24,14,0,Stanford Offensive Rebound.
+Stanford,UCLA,44,57,24,22,1,Robert Cartwright made Layup.
+Stanford,UCLA,44,57,24,39,0,Foul on Cameron Walker.
+Stanford,UCLA,44,57,24,51,0,Isaac Hamilton missed Jumper.
+Stanford,UCLA,44,57,24,51,0,TJ Leaf Offensive Rebound.
+Stanford,UCLA,44,59,24,51,1,TJ Leaf made Two Point Tip Shot.
+Stanford,UCLA,44,59,25,5,0,Robert Cartwright missed Layup.
+Stanford,UCLA,44,59,25,5,0,Bryce Alford Defensive Rebound.
+Stanford,UCLA,44,59,25,11,0,Isaac Hamilton missed Three Point Jumper.
+Stanford,UCLA,44,59,25,11,0,Robert Cartwright Defensive Rebound.
+Stanford,UCLA,44,59,25,34,0,Michael Humphrey missed Jumper.
+Stanford,UCLA,44,59,25,34,0,TJ Leaf Defensive Rebound.
+Stanford,UCLA,44,59,25,41,0,Foul on Ike Anigbogu.
+Stanford,UCLA,44,59,25,41,0,Ike Anigbogu Turnover.
+Stanford,UCLA,44,59,25,46,0,Foul on Ike Anigbogu.
+Stanford,UCLA,45,59,25,46,1,Michael Humphrey made Free Throw.
+Stanford,UCLA,46,59,25,46,1,Michael Humphrey made Free Throw.
+Stanford,UCLA,46,59,25,58,0,Foul on Michael Humphrey.
+Stanford,UCLA,46,59,26,9,0,Aaron Holiday Turnover.
+Stanford,UCLA,46,59,26,9,0,Cameron Walker Steal.
+Stanford,UCLA,46,59,26,16,0,Robert Cartwright missed Layup.
+Stanford,UCLA,46,59,26,16,0,Josh Sharma Offensive Rebound.
+Stanford,UCLA,48,59,26,16,1,Josh Sharma made Two Point Tip Shot.
+Stanford,UCLA,48,59,26,26,0,UCLA  Timeout
+Stanford,UCLA,48,59,26,33,0,Foul on Cameron Walker.
+Stanford,UCLA,48,60,26,33,1,TJ Leaf made Free Throw.
+Stanford,UCLA,48,61,26,33,1,TJ Leaf made Free Throw.
+Stanford,UCLA,48,61,26,46,0,Foul on TJ Leaf.
+Stanford,UCLA,49,61,26,46,1,Cameron Walker made Free Throw.
+Stanford,UCLA,50,61,26,46,1,Cameron Walker made Free Throw.
+Stanford,UCLA,50,64,26,57,1,Aaron Holiday made Three Point Jumper.
+Stanford,UCLA,50,64,27,11,0,Marcus Sheffield Turnover.
+Stanford,UCLA,50,67,27,21,1,Lonzo Ball made Three Point Jumper. Assisted by TJ Leaf.
+Stanford,UCLA,50,67,27,52,0,Robert Cartwright missed Jumper.
+Stanford,UCLA,50,67,27,52,0,TJ Leaf Block.
+Stanford,UCLA,50,67,27,52,0,TJ Leaf Defensive Rebound.
+Stanford,UCLA,50,67,28,2,0,Foul on Josh Sharma.
+Stanford,UCLA,50,67,28,2,0,Official TV Timeout
+Stanford,UCLA,50,67,28,2,0,Ike Anigbogu missed Free Throw.
+Stanford,UCLA,50,67,28,2,0,Cameron Walker Defensive Rebound.
+Stanford,UCLA,52,67,28,11,1,Michael Humphrey made Jumper. Assisted by Robert Cartwright.
+Stanford,UCLA,52,69,28,20,1,Ike Anigbogu made Dunk. Assisted by Lonzo Ball.
+Stanford,UCLA,54,69,28,52,1,Michael Humphrey made Jumper. Assisted by Dorian Pickens.
+Stanford,UCLA,54,69,29,11,0,Foul on Dorian Pickens.
+Stanford,UCLA,54,70,29,11,1,Aaron Holiday made Free Throw.
+Stanford,UCLA,54,71,29,11,1,Aaron Holiday made Free Throw.
+Stanford,UCLA,54,71,29,30,0,Foul on Lonzo Ball.
+Stanford,UCLA,54,71,29,30,0,Dorian Pickens missed Free Throw.
+Stanford,UCLA,54,71,29,30,0,Stanford Deadball Team Rebound.
+Stanford,UCLA,55,71,29,30,1,Dorian Pickens made Free Throw.
+Stanford,UCLA,55,71,29,46,0,Thomas Welsh missed Jumper.
+Stanford,UCLA,55,71,29,46,0,Thomas Welsh Offensive Rebound.
+Stanford,UCLA,55,71,29,54,0,Aaron Holiday missed Jumper.
+Stanford,UCLA,55,71,29,54,0,Dorian Pickens Defensive Rebound.
+Stanford,UCLA,57,71,30,1,1,Robert Cartwright made Layup.
+Stanford,UCLA,57,71,30,6,0,Aaron Holiday Turnover.
+Stanford,UCLA,57,71,30,22,0,Foul on Aaron Holiday.
+Stanford,UCLA,58,71,30,22,1,Robert Cartwright made Free Throw.
+Stanford,UCLA,59,71,30,22,1,Robert Cartwright made Free Throw.
+Stanford,UCLA,59,71,30,36,0,Foul on Marcus Allen.
+Stanford,UCLA,59,72,30,36,1,Bryce Alford made Free Throw.
+Stanford,UCLA,59,73,30,36,1,Bryce Alford made Free Throw.
+Stanford,UCLA,59,74,30,36,1,Bryce Alford made Free Throw.
+Stanford,UCLA,59,74,31,1,0,Cameron Walker missed Layup.
+Stanford,UCLA,59,74,31,1,0,Thomas Welsh Block.
+Stanford,UCLA,59,74,31,1,0,Stanford Offensive Rebound.
+Stanford,UCLA,59,74,31,7,0,Stanford  Turnover.
+Stanford,UCLA,59,74,31,15,0,Isaac Hamilton missed Three Point Jumper.
+Stanford,UCLA,59,74,31,15,0,Isaac Hamilton Offensive Rebound.
+Stanford,UCLA,59,76,31,21,1,Isaac Hamilton made Jumper.
+Stanford,UCLA,59,76,31,33,0,Michael Humphrey missed Jumper.
+Stanford,UCLA,59,76,31,33,0,Thomas Welsh Defensive Rebound.
+Stanford,UCLA,59,76,31,41,0,Foul on Robert Cartwright.
+Stanford,UCLA,59,77,31,41,1,Lonzo Ball made Free Throw.
+Stanford,UCLA,59,78,31,41,1,Lonzo Ball made Free Throw.
+Stanford,UCLA,59,78,31,55,0,Michael Humphrey missed Dunk.
+Stanford,UCLA,59,78,31,55,0,Aaron Holiday Defensive Rebound.
+Stanford,UCLA,59,78,32,0,0,Aaron Holiday Turnover.
+Stanford,UCLA,59,78,32,9,0,Robert Cartwright missed Three Point Jumper.
+Stanford,UCLA,59,78,32,9,0,TJ Leaf Defensive Rebound.
+Stanford,UCLA,59,78,32,23,0,Thomas Welsh missed Dunk.
+Stanford,UCLA,59,78,32,23,0,Josh Sharma Block.
+Stanford,UCLA,59,78,32,23,0,Thomas Welsh Offensive Rebound.
+Stanford,UCLA,59,78,32,28,0,Thomas Welsh Turnover.
+Stanford,UCLA,59,78,32,28,0,Official TV Timeout
+Stanford,UCLA,59,78,32,46,0,Dorian Pickens missed Three Point Jumper.
+Stanford,UCLA,59,78,32,46,0,Thomas Welsh Defensive Rebound.
+Stanford,UCLA,59,78,33,4,0,Thomas Welsh missed Jumper.
+Stanford,UCLA,59,78,33,4,0,Dorian Pickens Defensive Rebound.
+Stanford,UCLA,59,78,33,26,0,Foul on Thomas Welsh.
+Stanford,UCLA,60,78,33,26,1,Josh Sharma made Free Throw.
+Stanford,UCLA,61,78,33,26,1,Josh Sharma made Free Throw.
+Stanford,UCLA,61,78,33,38,0,Lonzo Ball missed Jumper.
+Stanford,UCLA,61,78,33,38,0,Michael Humphrey Defensive Rebound.
+Stanford,UCLA,61,78,33,51,0,Foul on Lonzo Ball.
+Stanford,UCLA,61,78,33,51,0,Michael Humphrey missed Free Throw.
+Stanford,UCLA,61,78,33,51,0,TJ Leaf Defensive Rebound.
+Stanford,UCLA,61,80,33,58,1,Aaron Holiday made Layup.
+Stanford,UCLA,61,80,34,12,0,Robert Cartwright missed Layup.
+Stanford,UCLA,61,80,34,12,0,Michael Humphrey Offensive Rebound.
+Stanford,UCLA,61,80,34,21,0,Michael Humphrey missed Jumper.
+Stanford,UCLA,61,80,34,21,0,Michael Humphrey Offensive Rebound.
+Stanford,UCLA,63,80,34,26,1,Michael Humphrey made Layup.
+Stanford,UCLA,63,80,34,40,0,Isaac Hamilton Turnover.
+Stanford,UCLA,63,80,34,40,0,Cameron Walker Steal.
+Stanford,UCLA,63,80,35,8,0,Marcus Sheffield missed Jumper.
+Stanford,UCLA,63,80,35,8,0,Lonzo Ball Block.
+Stanford,UCLA,63,80,35,8,0,Aaron Holiday Defensive Rebound.
+Stanford,UCLA,63,82,35,17,1,Isaac Hamilton made Layup. Assisted by Aaron Holiday.
+Stanford,UCLA,63,82,35,35,0,Cameron Walker missed Layup.
+Stanford,UCLA,63,82,35,35,0,Michael Humphrey Offensive Rebound.
+Stanford,UCLA,65,82,35,47,1,Michael Humphrey made Dunk.
+Stanford,UCLA,65,82,35,52,0,Aaron Holiday missed Jumper.
+Stanford,UCLA,65,82,35,52,0,Michael Humphrey Defensive Rebound.
+Stanford,UCLA,65,82,36,5,0,Stanford  Timeout
+Stanford,UCLA,65,82,36,5,0,Official TV Timeout
+Stanford,UCLA,65,82,36,13,0,Robert Cartwright Turnover.
+Stanford,UCLA,65,82,36,13,0,Isaac Hamilton Steal.
+Stanford,UCLA,65,82,36,34,0,Aaron Holiday Turnover.
+Stanford,UCLA,65,82,36,34,0,Michael Humphrey Steal.
+Stanford,UCLA,65,82,37,2,0,Foul on TJ Leaf.
+Stanford,UCLA,66,82,37,2,1,Michael Humphrey made Free Throw.
+Stanford,UCLA,67,82,37,2,1,Michael Humphrey made Free Throw.
+Stanford,UCLA,67,84,37,22,1,Aaron Holiday made Layup. Assisted by Lonzo Ball.
+Stanford,UCLA,69,84,37,34,1,Michael Humphrey made Dunk. Assisted by Robert Cartwright.
+Stanford,UCLA,69,84,37,43,0,Foul on Michael Humphrey.
+Stanford,UCLA,69,84,37,43,0,Lonzo Ball missed Free Throw.
+Stanford,UCLA,69,84,37,43,0,UCLA Deadball Team Rebound.
+Stanford,UCLA,69,85,37,43,1,Lonzo Ball made Free Throw.
+Stanford,UCLA,69,85,37,54,0,Robert Cartwright missed Three Point Jumper.
+Stanford,UCLA,69,85,37,54,0,Lonzo Ball Defensive Rebound.
+Stanford,UCLA,69,85,38,4,0,Foul on Michael Humphrey.
+Stanford,UCLA,69,86,38,4,1,TJ Leaf made Free Throw.
+Stanford,UCLA,69,87,38,4,1,TJ Leaf made Free Throw.
+Stanford,UCLA,71,87,38,14,1,Robert Cartwright made Layup.
+Stanford,UCLA,71,89,38,24,1,Ike Anigbogu made Layup. Assisted by Lonzo Ball.
+Stanford,UCLA,73,89,38,38,1,Marcus Allen made Layup.
+Stanford,UCLA,73,89,38,58,0,Isaac Hamilton Turnover.
+Stanford,UCLA,73,89,39,17,0,Marcus Allen missed Layup.
+Stanford,UCLA,73,89,39,17,0,Ike Anigbogu Block.
+Stanford,UCLA,73,89,39,17,0,Marcus Allen Offensive Rebound.
+Stanford,UCLA,75,89,39,25,1,Cameron Walker made Layup.
+Stanford,UCLA,75,89,39,35,0,Lonzo Ball Turnover.
+Stanford,UCLA,75,89,39,35,0,Malcolm Allen Steal.
+Stanford,UCLA,75,89,39,41,0,Josh Sharma missed Layup.
+Stanford,UCLA,75,89,39,41,0,Bryce Alford Defensive Rebound.
+Stanford,UCLA,75,89,40,0,0,End of Game

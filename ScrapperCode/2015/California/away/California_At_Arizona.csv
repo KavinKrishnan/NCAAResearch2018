@@ -1,0 +1,311 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+California,Arizona,0,0,0,0,0,Jump Ball won by California
+California,Arizona,0,0,0,18,0,David Kravish Turnover.
+California,Arizona,0,0,0,18,0,T.J. McConnell Steal.
+California,Arizona,0,2,0,25,1,T.J. McConnell made Layup.
+California,Arizona,3,2,0,49,1,Tyrone Wallace made Three Point Jumper. Assisted by Dwight Tarwater.
+California,Arizona,3,2,1,6,0,Foul on Tyrone Wallace.
+California,Arizona,3,2,1,25,0,T.J. McConnell missed Three Point Jumper.
+California,Arizona,3,2,1,25,0,Dwight Tarwater Defensive Rebound.
+California,Arizona,3,2,1,29,0,Dwight Tarwater Turnover.
+California,Arizona,3,4,1,30,1,Brandon Ashley made Layup. Assisted by T.J. McConnell.
+California,Arizona,3,4,1,46,0,Jabari Bird Turnover.
+California,Arizona,3,4,2,0,0,Kaleb Tarczewski missed Layup.
+California,Arizona,3,4,2,1,0,David Kravish Block.
+California,Arizona,3,4,2,2,0,Jabari Bird Defensive Rebound.
+California,Arizona,3,4,2,10,0,Jabari Bird missed Three Point Jumper.
+California,Arizona,3,4,2,10,0,Brandon Ashley Defensive Rebound.
+California,Arizona,3,4,2,24,0,T.J. McConnell missed Jumper.
+California,Arizona,3,4,2,24,0,Tyrone Wallace Defensive Rebound.
+California,Arizona,5,4,2,33,1,Tyrone Wallace made Jumper.
+California,Arizona,5,4,2,44,0,Stanley Johnson missed Three Point Jumper.
+California,Arizona,5,4,2,44,0,David Kravish Defensive Rebound.
+California,Arizona,5,4,2,57,0,Tyrone Wallace missed Three Point Jumper.
+California,Arizona,5,4,2,57,0,Brandon Ashley Defensive Rebound.
+California,Arizona,5,4,3,9,0,T.J. McConnell Turnover.
+California,Arizona,5,4,3,23,0,Christian Behrens missed Layup.
+California,Arizona,5,4,3,23,0,Rondae Hollis-Jefferson Defensive Rebound.
+California,Arizona,5,6,3,29,1,Rondae Hollis-Jefferson made Layup.
+California,Arizona,8,6,3,44,1,Jordan Mathews made Three Point Jumper.
+California,Arizona,8,6,4,1,0,Brandon Ashley Turnover.
+California,Arizona,8,6,4,1,0,Official TV Timeout
+California,Arizona,8,6,4,14,0,Tyrone Wallace missed Jumper.
+California,Arizona,8,6,4,14,0,David Kravish Offensive Rebound.
+California,Arizona,8,6,4,27,0,David Kravish missed Jumper.
+California,Arizona,8,6,4,27,0,Brandon Ashley Defensive Rebound.
+California,Arizona,8,8,4,36,1,T.J. McConnell made Jumper.
+California,Arizona,8,8,4,48,0,Jordan Mathews missed Layup.
+California,Arizona,8,8,4,49,0,Gabe York Block.
+California,Arizona,8,8,4,50,0,California Offensive Rebound.
+California,Arizona,10,8,4,57,1,David Kravish made Jumper. Assisted by Tyrone Wallace.
+California,Arizona,10,8,5,28,0,Elliott Pitts Turnover.
+California,Arizona,10,8,5,28,0,Jabari Bird Steal.
+California,Arizona,12,8,5,34,1,Tyrone Wallace made Dunk. Assisted by Jordan Mathews.
+California,Arizona,12,8,5,50,0,Dusan Ristic missed Jumper.
+California,Arizona,12,8,5,50,0,Kingsley Okoroh Block.
+California,Arizona,12,8,5,50,0,Dusan Ristic Offensive Rebound.
+California,Arizona,12,8,5,54,0,Dusan Ristic missed Layup.
+California,Arizona,12,8,5,54,0,Jordan Mathews Defensive Rebound.
+California,Arizona,12,8,6,1,0,Jordan Mathews missed Three Point Jumper.
+California,Arizona,12,8,6,1,0,T.J. McConnell Defensive Rebound.
+California,Arizona,12,10,6,12,1,T.J. McConnell made Jumper.
+California,Arizona,12,10,6,32,0,Jabari Bird Turnover.
+California,Arizona,12,12,6,41,1,Rondae Hollis-Jefferson made Dunk. Assisted by Gabe York.
+California,Arizona,12,12,6,59,0,Jordan Mathews Turnover.
+California,Arizona,12,12,6,59,0,Gabe York Steal.
+California,Arizona,12,12,7,6,0,Foul on Jabari Bird.
+California,Arizona,12,13,7,6,1,Rondae Hollis-Jefferson made Free Throw.
+California,Arizona,12,13,7,6,0,Rondae Hollis-Jefferson missed Free Throw.
+California,Arizona,12,13,7,6,0,Dwight Tarwater Defensive Rebound.
+California,Arizona,12,13,7,37,0,Tyrone Wallace missed Jumper.
+California,Arizona,12,13,7,37,0,Rondae Hollis-Jefferson Defensive Rebound.
+California,Arizona,12,15,7,44,1,Stanley Johnson made Jumper.
+California,Arizona,12,15,8,4,0,Sam Singer missed Jumper.
+California,Arizona,12,15,8,4,0,Rondae Hollis-Jefferson Block.
+California,Arizona,12,15,8,4,0,Rondae Hollis-Jefferson Defensive Rebound.
+California,Arizona,12,15,8,12,0,Foul on Dwight Tarwater.
+California,Arizona,12,15,8,12,0,Official TV Timeout
+California,Arizona,12,16,8,12,1,Rondae Hollis-Jefferson made Free Throw.
+California,Arizona,12,16,8,12,0,Rondae Hollis-Jefferson missed Free Throw.
+California,Arizona,12,16,8,12,0,David Kravish Defensive Rebound.
+California,Arizona,12,16,8,30,0,David Kravish missed Jumper.
+California,Arizona,12,16,8,30,0,Brandon Ashley Defensive Rebound.
+California,Arizona,12,16,8,53,0,Kaleb Tarczewski missed Layup.
+California,Arizona,12,16,8,53,0,Sam Singer Defensive Rebound.
+California,Arizona,12,16,8,56,0,Sam Singer Turnover.
+California,Arizona,12,18,8,58,1,Stanley Johnson made Jumper.
+California,Arizona,14,18,9,21,1,Jabari Bird made Layup. Assisted by Tyrone Wallace.
+California,Arizona,14,18,9,31,0,Rondae Hollis-Jefferson Turnover.
+California,Arizona,14,18,9,31,0,Jabari Bird Steal.
+California,Arizona,14,18,9,36,0,Foul on T.J. McConnell.
+California,Arizona,15,18,9,36,1,Sam Singer made Free Throw.
+California,Arizona,15,18,9,36,0,Sam Singer missed Free Throw.
+California,Arizona,15,18,9,36,0,Rondae Hollis-Jefferson Defensive Rebound.
+California,Arizona,15,18,9,50,0,Kaleb Tarczewski missed Layup.
+California,Arizona,15,18,9,50,0,California Defensive Rebound.
+California,Arizona,17,18,10,2,1,Jabari Bird made Jumper.
+California,Arizona,17,18,10,20,0,Brandon Ashley missed Jumper.
+California,Arizona,17,18,10,20,0,California Defensive Rebound.
+California,Arizona,17,18,10,26,0,Foul on Kaleb Tarczewski.
+California,Arizona,17,18,10,34,0,Tyrone Wallace missed Jumper.
+California,Arizona,17,18,10,34,0,David Kravish Offensive Rebound.
+California,Arizona,17,18,10,49,0,Jabari Bird missed Jumper.
+California,Arizona,17,18,10,49,0,Kaleb Tarczewski Defensive Rebound.
+California,Arizona,17,21,10,59,1,Stanley Johnson made Three Point Jumper. Assisted by T.J. McConnell.
+California,Arizona,17,21,11,36,0,David Kravish missed Jumper.
+California,Arizona,17,21,11,36,0,Brandon Ashley Block.
+California,Arizona,17,21,11,36,0,Kaleb Tarczewski Defensive Rebound.
+California,Arizona,17,21,11,49,0,Gabe York missed Layup.
+California,Arizona,17,21,11,49,0,David Kravish Defensive Rebound.
+California,Arizona,17,21,12,3,0,Foul on Stanley Johnson.
+California,Arizona,17,21,12,3,0,Official TV Timeout
+California,Arizona,17,21,12,3,0,Tyrone Wallace missed Free Throw.
+California,Arizona,17,21,12,3,0,California Deadball Team Rebound.
+California,Arizona,18,21,12,3,1,Tyrone Wallace made Free Throw.
+California,Arizona,18,21,12,16,0,Rondae Hollis-Jefferson missed Jumper.
+California,Arizona,18,21,12,16,0,Kingsley Okoroh Defensive Rebound.
+California,Arizona,18,21,12,39,0,Foul on Elliott Pitts.
+California,Arizona,20,21,12,42,1,Kingsley Okoroh made Jumper. Assisted by Tyrone Wallace.
+California,Arizona,20,21,12,57,0,Gabe York Turnover.
+California,Arizona,20,21,12,57,0,Tyrone Wallace Steal.
+California,Arizona,20,21,13,2,0,Tyrone Wallace missed Layup.
+California,Arizona,20,21,13,2,0,Rondae Hollis-Jefferson Block.
+California,Arizona,20,21,13,2,0,Gabe York Defensive Rebound.
+California,Arizona,20,21,13,10,0,Foul on Kingsley Okoroh.
+California,Arizona,20,23,13,20,1,Brandon Ashley made Jumper. Assisted by T.J. McConnell.
+California,Arizona,20,23,13,39,0,David Kravish Turnover.
+California,Arizona,20,23,13,39,0,T.J. McConnell Steal.
+California,Arizona,20,23,13,45,0,Gabe York missed Dunk.
+California,Arizona,20,23,13,45,0,Jordan Mathews Defensive Rebound.
+California,Arizona,20,23,14,2,0,Foul on Elliott Pitts.
+California,Arizona,20,23,14,31,0,Jordan Mathews missed Three Point Jumper.
+California,Arizona,20,23,14,31,0,Stanley Johnson Defensive Rebound.
+California,Arizona,20,23,14,41,0,Foul on Stanley Johnson.
+California,Arizona,20,23,14,41,0,Stanley Johnson Turnover.
+California,Arizona,20,23,14,53,0,Tyrone Wallace missed Layup.
+California,Arizona,20,23,14,53,0,David Kravish Offensive Rebound.
+California,Arizona,20,23,14,57,0,David Kravish missed Layup.
+California,Arizona,20,23,14,57,0,Rondae Hollis-Jefferson Defensive Rebound.
+California,Arizona,20,23,14,59,0,Foul on Jabari Bird.
+California,Arizona,20,23,15,11,0,Kaleb Tarczewski missed Jumper.
+California,Arizona,20,23,15,11,0,Jordan Mathews Defensive Rebound.
+California,Arizona,20,23,15,38,0,Tyrone Wallace Turnover.
+California,Arizona,20,23,15,38,0,Rondae Hollis-Jefferson Steal.
+California,Arizona,20,23,15,42,0,Gabe York missed Layup.
+California,Arizona,20,23,15,42,0,Dwight Tarwater Block.
+California,Arizona,20,23,15,42,0,Dwight Tarwater Defensive Rebound.
+California,Arizona,20,23,15,50,0,Foul on Rondae Hollis-Jefferson.
+California,Arizona,21,23,15,50,1,Dwight Tarwater made Free Throw.
+California,Arizona,22,23,15,50,1,Dwight Tarwater made Free Throw.
+California,Arizona,22,26,16,2,1,Gabe York made Three Point Jumper. Assisted by Rondae Hollis-Jefferson.
+California,Arizona,24,26,16,21,1,Sam Singer made Jumper.
+California,Arizona,24,26,16,46,0,Arizona  Timeout
+California,Arizona,24,26,16,49,0,Gabe York missed Three Point Jumper.
+California,Arizona,24,26,16,49,0,Jordan Mathews Defensive Rebound.
+California,Arizona,24,26,17,18,0,David Kravish missed Jumper.
+California,Arizona,24,26,17,18,0,Kaleb Tarczewski Defensive Rebound.
+California,Arizona,24,28,17,36,1,Brandon Ashley made Layup.
+California,Arizona,26,28,17,49,1,Sam Singer made Jumper.
+California,Arizona,26,30,18,4,1,Stanley Johnson made Jumper.
+California,Arizona,26,30,18,28,0,Foul on Brandon Ashley.
+California,Arizona,26,30,18,28,0,Official TV Timeout
+California,Arizona,27,30,18,28,1,Tyrone Wallace made Free Throw.
+California,Arizona,27,30,18,28,0,Tyrone Wallace missed Free Throw.
+California,Arizona,27,30,18,28,0,Brandon Ashley Defensive Rebound.
+California,Arizona,27,32,18,42,1,Brandon Ashley made Layup.
+California,Arizona,27,32,18,42,0,Foul on Jordan Mathews.
+California,Arizona,27,33,18,42,1,Brandon Ashley made Free Throw.
+California,Arizona,27,33,18,55,0,Sam Singer missed Jumper.
+California,Arizona,27,33,18,55,0,T.J. McConnell Defensive Rebound.
+California,Arizona,27,33,19,14,0,Foul on Brandon Ashley.
+California,Arizona,27,33,19,14,0,Brandon Ashley Turnover.
+California,Arizona,27,33,19,14,0,California  Timeout
+California,Arizona,27,33,19,28,0,David Kravish missed Jumper.
+California,Arizona,27,33,19,28,0,T.J. McConnell Defensive Rebound.
+California,Arizona,27,33,19,52,0,Rondae Hollis-Jefferson missed Jumper.
+California,Arizona,27,33,19,52,0,Jordan Mathews Defensive Rebound.
+California,Arizona,27,33,20,0,0,End of 1st half
+California,Arizona,27,33,20,0,0,Jump Ball won by Arizona
+California,Arizona,27,33,20,14,0,Brandon Ashley missed Layup.
+California,Arizona,27,33,20,14,0,David Kravish Block.
+California,Arizona,27,33,20,14,0,Tyrone Wallace Defensive Rebound.
+California,Arizona,27,33,20,16,0,Tyrone Wallace Turnover.
+California,Arizona,27,33,20,23,0,Rondae Hollis-Jefferson missed Jumper.
+California,Arizona,27,33,20,23,0,David Kravish Defensive Rebound.
+California,Arizona,30,33,20,31,1,Jabari Bird made Three Point Jumper. Assisted by Tyrone Wallace.
+California,Arizona,30,33,20,51,0,Foul on Dwight Tarwater.
+California,Arizona,30,34,20,51,1,Brandon Ashley made Free Throw.
+California,Arizona,30,35,20,51,1,Brandon Ashley made Free Throw.
+California,Arizona,30,35,21,23,0,Tyrone Wallace missed Jumper.
+California,Arizona,30,35,21,23,0,Stanley Johnson Defensive Rebound.
+California,Arizona,30,35,21,30,0,Foul on Stanley Johnson.
+California,Arizona,30,35,21,30,0,Stanley Johnson Turnover.
+California,Arizona,30,35,21,34,0,Tyrone Wallace Turnover.
+California,Arizona,30,35,21,34,0,Rondae Hollis-Jefferson Steal.
+California,Arizona,30,35,21,40,0,Stanley Johnson missed Layup.
+California,Arizona,30,35,21,40,0,Stanley Johnson Offensive Rebound.
+California,Arizona,30,37,21,40,1,Stanley Johnson made Two Point Tip Shot.
+California,Arizona,32,37,21,55,1,David Kravish made Jumper.
+California,Arizona,32,40,22,8,1,Stanley Johnson made Three Point Jumper. Assisted by T.J. McConnell.
+California,Arizona,32,40,22,32,0,David Kravish Turnover.
+California,Arizona,32,40,22,32,0,T.J. McConnell Steal.
+California,Arizona,32,42,22,37,1,Rondae Hollis-Jefferson made Dunk. Assisted by T.J. McConnell.
+California,Arizona,32,42,22,46,0,California  Timeout
+California,Arizona,32,42,22,56,0,Jabari Bird missed Jumper.
+California,Arizona,32,42,22,56,0,Rondae Hollis-Jefferson Defensive Rebound.
+California,Arizona,32,44,23,6,1,Rondae Hollis-Jefferson made Layup.
+California,Arizona,32,44,23,27,0,Jordan Mathews missed Jumper.
+California,Arizona,32,44,23,27,0,Kaleb Tarczewski Defensive Rebound.
+California,Arizona,32,44,23,36,0,Foul on David Kravish.
+California,Arizona,32,44,24,2,0,Stanley Johnson missed Jumper.
+California,Arizona,32,44,24,2,0,Kaleb Tarczewski Offensive Rebound.
+California,Arizona,32,44,24,10,0,Foul on Christian Behrens.
+California,Arizona,32,44,24,10,0,Official TV Timeout
+California,Arizona,32,45,24,10,1,Kaleb Tarczewski made Free Throw.
+California,Arizona,32,46,24,10,1,Kaleb Tarczewski made Free Throw.
+California,Arizona,32,46,24,19,0,Foul on Kaleb Tarczewski.
+California,Arizona,32,46,24,29,0,Tyrone Wallace missed Three Point Jumper.
+California,Arizona,32,46,24,29,0,Kaleb Tarczewski Defensive Rebound.
+California,Arizona,32,46,24,47,0,Kaleb Tarczewski missed Jumper.
+California,Arizona,32,46,24,47,0,Jabari Bird Defensive Rebound.
+California,Arizona,32,46,25,4,0,Foul on Tyrone Wallace.
+California,Arizona,32,46,25,4,0,Tyrone Wallace Turnover.
+California,Arizona,32,46,25,27,0,T.J. McConnell Turnover.
+California,Arizona,32,46,25,47,0,David Kravish missed Jumper.
+California,Arizona,32,46,25,47,0,Sam Singer Offensive Rebound.
+California,Arizona,32,46,25,55,0,Jabari Bird Turnover.
+California,Arizona,32,46,25,55,0,Elliott Pitts Steal.
+California,Arizona,32,46,26,3,0,T.J. McConnell missed Three Point Jumper.
+California,Arizona,32,46,26,3,0,David Kravish Defensive Rebound.
+California,Arizona,32,46,26,14,0,Jordan Mathews missed Three Point Jumper.
+California,Arizona,32,46,26,14,0,Stanley Johnson Defensive Rebound.
+California,Arizona,32,46,26,31,0,Arizona  Timeout
+California,Arizona,32,46,26,39,0,Brandon Ashley missed Jumper.
+California,Arizona,32,46,26,39,0,Jordan Mathews Defensive Rebound.
+California,Arizona,34,46,26,49,1,David Kravish made Jumper. Assisted by Sam Singer.
+California,Arizona,34,48,27,5,1,Kaleb Tarczewski made Layup.
+California,Arizona,36,48,27,40,1,Tyrone Wallace made Layup.
+California,Arizona,36,48,28,0,0,Stanley Johnson missed Three Point Jumper.
+California,Arizona,36,48,28,0,0,California Defensive Rebound.
+California,Arizona,36,48,28,8,0,Official TV Timeout
+California,Arizona,36,48,28,15,0,Tyrone Wallace missed Layup.
+California,Arizona,36,48,28,16,0,Brandon Ashley Block.
+California,Arizona,36,48,28,17,0,Parker Jackson-Cartwright Defensive Rebound.
+California,Arizona,36,48,28,25,0,Stanley Johnson missed Jumper.
+California,Arizona,36,48,28,25,0,Jordan Mathews Defensive Rebound.
+California,Arizona,36,48,28,50,0,Dwight Tarwater missed Three Point Jumper.
+California,Arizona,36,48,28,50,0,Jordan Mathews Offensive Rebound.
+California,Arizona,38,48,29,0,1,Tyrone Wallace made Layup.
+California,Arizona,38,48,29,37,0,Parker Jackson-Cartwright missed Jumper.
+California,Arizona,38,48,29,37,0,David Kravish Defensive Rebound.
+California,Arizona,38,48,29,54,0,Tyrone Wallace missed Jumper.
+California,Arizona,38,48,29,54,0,David Kravish Offensive Rebound.
+California,Arizona,38,48,29,58,0,David Kravish missed Jumper.
+California,Arizona,38,48,29,58,0,Brandon Ashley Defensive Rebound.
+California,Arizona,38,50,30,35,1,Parker Jackson-Cartwright made Layup.
+California,Arizona,38,50,30,55,0,Foul on Rondae Hollis-Jefferson.
+California,Arizona,40,50,31,0,1,Christian Behrens made Layup. Assisted by Sam Singer.
+California,Arizona,40,50,31,11,0,Foul on Christian Behrens.
+California,Arizona,40,51,31,11,1,Brandon Ashley made Free Throw.
+California,Arizona,40,52,31,11,1,Brandon Ashley made Free Throw.
+California,Arizona,42,52,31,28,1,Tyrone Wallace made Jumper.
+California,Arizona,42,55,31,45,1,Gabe York made Three Point Jumper. Assisted by Elliott Pitts.
+California,Arizona,45,55,32,0,1,Jabari Bird made Three Point Jumper. Assisted by Tyrone Wallace.
+California,Arizona,45,55,32,4,0,California  Timeout
+California,Arizona,45,55,32,26,0,Foul on Christian Behrens.
+California,Arizona,45,55,32,26,0,Official TV Timeout
+California,Arizona,45,56,32,26,1,Brandon Ashley made Free Throw.
+California,Arizona,45,57,32,26,1,Brandon Ashley made Free Throw.
+California,Arizona,45,57,32,37,0,Jabari Bird missed Jumper.
+California,Arizona,45,57,32,37,0,Brandon Ashley Defensive Rebound.
+California,Arizona,45,59,33,2,1,Gabe York made Jumper.
+California,Arizona,45,59,33,28,0,Jabari Bird missed Three Point Jumper.
+California,Arizona,45,59,33,28,0,Dusan Ristic Defensive Rebound.
+California,Arizona,45,59,33,40,0,T.J. McConnell missed Jumper.
+California,Arizona,45,59,33,40,0,David Kravish Defensive Rebound.
+California,Arizona,45,59,33,56,0,David Kravish missed Jumper.
+California,Arizona,45,59,33,56,0,Stanley Johnson Defensive Rebound.
+California,Arizona,45,59,34,30,0,Stanley Johnson missed Jumper.
+California,Arizona,45,59,34,30,0,David Kravish Defensive Rebound.
+California,Arizona,47,59,35,4,1,Tyrone Wallace made Layup.
+California,Arizona,47,62,35,22,1,T.J. McConnell made Three Point Jumper. Assisted by Gabe York.
+California,Arizona,49,62,35,42,1,Tyrone Wallace made Jumper.
+California,Arizona,49,64,35,55,1,Stanley Johnson made Layup. Assisted by T.J. McConnell.
+California,Arizona,49,64,36,9,0,Sam Singer missed Three Point Jumper.
+California,Arizona,49,64,36,9,0,Jordan Mathews Offensive Rebound.
+California,Arizona,49,64,36,14,0,Jordan Mathews Turnover.
+California,Arizona,49,64,36,14,0,Stanley Johnson Steal.
+California,Arizona,49,64,36,16,0,Stanley Johnson Turnover.
+California,Arizona,49,64,36,16,0,Jordan Mathews Steal.
+California,Arizona,49,64,36,20,0,Jordan Mathews missed Layup.
+California,Arizona,49,64,36,20,0,Dusan Ristic Block.
+California,Arizona,49,64,36,20,0,California Offensive Rebound.
+California,Arizona,49,64,36,22,0,Official TV Timeout
+California,Arizona,49,64,36,25,0,Tyrone Wallace missed Jumper.
+California,Arizona,49,64,36,25,0,California Offensive Rebound.
+California,Arizona,49,64,36,29,0,David Kravish missed Jumper.
+California,Arizona,49,64,36,29,0,Stanley Johnson Defensive Rebound.
+California,Arizona,49,64,36,39,0,Foul on Sam Singer.
+California,Arizona,49,65,36,39,1,T.J. McConnell made Free Throw.
+California,Arizona,49,66,36,39,1,T.J. McConnell made Free Throw.
+California,Arizona,49,66,37,11,0,Tyrone Wallace missed Three Point Jumper.
+California,Arizona,49,66,37,11,0,Stanley Johnson Defensive Rebound.
+California,Arizona,49,66,37,19,0,Technical Foul on David Kravish.
+California,Arizona,49,66,37,19,0,Technical Foul on Brandon Ashley.
+California,Arizona,49,66,37,19,0,Foul on David Kravish.
+California,Arizona,49,66,37,19,0,Foul on Brandon Ashley.
+California,Arizona,49,66,37,43,0,Foul on Sam Singer.
+California,Arizona,49,67,37,43,1,T.J. McConnell made Free Throw.
+California,Arizona,49,68,37,43,1,T.J. McConnell made Free Throw.
+California,Arizona,49,68,37,53,0,Jabari Bird missed Layup.
+California,Arizona,49,68,37,53,0,Kaleb Tarczewski Defensive Rebound.
+California,Arizona,49,71,38,24,1,Stanley Johnson made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+California,Arizona,49,71,38,55,0,Foul on Stanley Johnson.
+California,Arizona,49,71,38,57,0,Dwight Tarwater missed Layup.
+California,Arizona,49,71,38,57,0,Parker Jackson-Cartwright Defensive Rebound.
+California,Arizona,49,71,39,13,0,Arizona  Timeout
+California,Arizona,49,71,39,31,0,Parker Jackson-Cartwright missed Layup.
+California,Arizona,49,71,39,31,0,Elliott Pitts Offensive Rebound.
+California,Arizona,49,73,39,31,1,Elliott Pitts made Two Point Tip Shot.
+California,Arizona,51,73,39,56,1,Brandon Chauca made Jumper.
+California,Arizona,51,73,40,0,0,End of Game

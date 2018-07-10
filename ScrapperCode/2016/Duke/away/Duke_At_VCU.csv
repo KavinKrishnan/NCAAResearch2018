@@ -1,0 +1,349 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Duke,VCU,0,0,0,0,0,Jump Ball won by VCU
+Duke,VCU,0,0,0,17,0,JeQuan Lewis Turnover.
+Duke,VCU,0,0,0,17,0,Derryck Thornton Steal.
+Duke,VCU,0,0,0,42,0,Derryck Thornton missed Jumper.
+Duke,VCU,0,0,0,42,0,Justin Tillman Defensive Rebound.
+Duke,VCU,0,0,1,5,0,Jordan Burgess missed Jumper.
+Duke,VCU,0,0,1,5,0,Mo Alie-Cox Offensive Rebound.
+Duke,VCU,0,2,1,11,1,Mo Alie-Cox made Jumper.
+Duke,VCU,0,2,1,35,0,Amile Jefferson Turnover.
+Duke,VCU,0,2,1,53,0,Justin Tillman missed Jumper.
+Duke,VCU,0,2,1,53,0,Mo Alie-Cox Offensive Rebound.
+Duke,VCU,0,4,1,58,1,Mo Alie-Cox made Layup.
+Duke,VCU,0,4,2,18,0,Brandon Ingram missed Jumper.
+Duke,VCU,0,4,2,18,0,Brandon Ingram Offensive Rebound.
+Duke,VCU,2,4,2,25,1,Brandon Ingram made Layup.
+Duke,VCU,2,6,2,40,1,Jordan Burgess made Jumper.
+Duke,VCU,4,6,3,9,1,Derryck Thornton made Jumper.
+Duke,VCU,4,6,3,36,0,Jordan Burgess Turnover.
+Duke,VCU,4,6,3,53,0,Amile Jefferson Turnover.
+Duke,VCU,4,6,3,53,0,Mo Alie-Cox Steal.
+Duke,VCU,4,8,3,59,1,Melvin Johnson made Layup.
+Duke,VCU,7,8,4,12,1,Grayson Allen made Three Point Jumper.
+Duke,VCU,7,8,4,23,0,Justin Tillman missed Jumper.
+Duke,VCU,7,8,4,23,0,Amile Jefferson Block.
+Duke,VCU,7,8,4,23,0,Grayson Allen Defensive Rebound.
+Duke,VCU,7,8,4,27,0,Foul on JeQuan Lewis.
+Duke,VCU,7,8,4,27,0,Official TV Timeout
+Duke,VCU,8,8,4,28,1,Grayson Allen made Free Throw.
+Duke,VCU,9,8,4,28,1,Grayson Allen made Free Throw.
+Duke,VCU,9,8,4,46,0,Jordan Burgess Turnover.
+Duke,VCU,9,8,4,53,0,Foul on Korey Billbury.
+Duke,VCU,9,8,5,4,0,Foul on Korey Billbury.
+Duke,VCU,11,8,5,17,1,Derryck Thornton made Layup.
+Duke,VCU,11,8,5,31,0,Foul on Derryck Thornton.
+Duke,VCU,11,9,5,31,1,Mo Alie-Cox made Free Throw.
+Duke,VCU,11,9,5,31,0,Mo Alie-Cox missed Free Throw.
+Duke,VCU,11,9,5,31,0,Brandon Ingram Defensive Rebound.
+Duke,VCU,11,9,5,31,0,Foul on Michael Gilmore.
+Duke,VCU,11,9,5,47,0,Derryck Thornton missed Jumper.
+Duke,VCU,11,9,5,47,0,Korey Billbury Defensive Rebound.
+Duke,VCU,11,9,6,6,0,Foul on Matt Jones.
+Duke,VCU,11,11,6,13,1,Korey Billbury made Layup.
+Duke,VCU,11,11,6,29,0,Foul on Michael Gilmore.
+Duke,VCU,13,11,6,36,1,Marshall Plumlee made Jumper. Assisted by Matt Jones.
+Duke,VCU,13,11,6,47,0,Korey Billbury missed Jumper.
+Duke,VCU,13,11,6,47,0,Grayson Allen Defensive Rebound.
+Duke,VCU,13,11,6,54,0,Grayson Allen missed Jumper.
+Duke,VCU,13,11,6,54,0,Ahmad Hamdy-Mohamed Defensive Rebound.
+Duke,VCU,13,11,7,0,0,Foul on Derryck Thornton.
+Duke,VCU,13,11,7,5,0,Korey Billbury missed Jumper.
+Duke,VCU,13,11,7,5,0,Marshall Plumlee Defensive Rebound.
+Duke,VCU,13,11,7,19,0,Matt Jones missed Three Point Jumper.
+Duke,VCU,13,11,7,19,0,Jonathan Williams Defensive Rebound.
+Duke,VCU,13,13,7,28,1,Melvin Johnson made Jumper.
+Duke,VCU,15,13,7,43,1,Marshall Plumlee made Dunk. Assisted by Brandon Ingram.
+Duke,VCU,15,15,8,2,1,Jordan Burgess made Layup.
+Duke,VCU,15,15,8,14,0,Luke Kennard missed Three Point Jumper.
+Duke,VCU,15,15,8,14,0,Korey Billbury Defensive Rebound.
+Duke,VCU,15,17,8,21,1,Korey Billbury made Layup.
+Duke,VCU,15,17,8,46,0,Luke Kennard missed Jumper.
+Duke,VCU,15,17,8,46,0,Jordan Burgess Defensive Rebound.
+Duke,VCU,15,17,8,51,0,Melvin Johnson missed Layup.
+Duke,VCU,15,17,8,51,0,Ahmad Hamdy-Mohamed Offensive Rebound.
+Duke,VCU,15,19,8,51,1,Ahmad Hamdy-Mohamed made Two Point Tip Shot.
+Duke,VCU,15,19,9,6,0,Foul on Matt Jones.
+Duke,VCU,15,19,9,6,0,Matt Jones Turnover.
+Duke,VCU,15,19,9,8,0,Official TV Timeout
+Duke,VCU,15,22,9,30,1,Melvin Johnson made Three Point Jumper. Assisted by JeQuan Lewis.
+Duke,VCU,17,22,9,55,1,Grayson Allen made Jumper.
+Duke,VCU,17,22,10,16,0,Ahmad Hamdy-Mohamed missed Jumper.
+Duke,VCU,17,22,10,16,0,Brandon Ingram Defensive Rebound.
+Duke,VCU,19,22,10,23,1,Amile Jefferson made Layup. Assisted by Brandon Ingram.
+Duke,VCU,19,22,10,23,0,Foul on Justin Tillman.
+Duke,VCU,19,22,10,23,0,Amile Jefferson missed Free Throw.
+Duke,VCU,19,22,10,23,0,Jordan Burgess Defensive Rebound.
+Duke,VCU,19,24,10,56,1,Mo Alie-Cox made Layup. Assisted by JeQuan Lewis.
+Duke,VCU,19,24,11,11,0,Grayson Allen Turnover.
+Duke,VCU,19,24,11,23,0,Jordan Burgess missed Layup.
+Duke,VCU,19,24,11,23,0,VCU Offensive Rebound.
+Duke,VCU,19,24,11,40,0,Mo Alie-Cox missed Jumper.
+Duke,VCU,19,24,11,40,0,Brandon Ingram Defensive Rebound.
+Duke,VCU,22,24,11,46,1,Derryck Thornton made Three Point Jumper. Assisted by Grayson Allen.
+Duke,VCU,22,24,12,8,0,Official TV Timeout
+Duke,VCU,22,24,12,20,0,Korey Billbury missed Three Point Jumper.
+Duke,VCU,22,24,12,20,0,Duke Defensive Rebound.
+Duke,VCU,22,24,12,45,0,Brandon Ingram missed Three Point Jumper.
+Duke,VCU,22,24,12,45,0,Amile Jefferson Offensive Rebound.
+Duke,VCU,24,24,12,52,1,Brandon Ingram made Jumper. Assisted by Derryck Thornton.
+Duke,VCU,24,26,13,14,1,Jordan Burgess made Jumper.
+Duke,VCU,26,26,13,35,1,Amile Jefferson made Jumper. Assisted by Grayson Allen.
+Duke,VCU,26,26,13,57,0,Jonathan Williams Turnover.
+Duke,VCU,26,26,14,8,0,Matt Jones Turnover.
+Duke,VCU,26,26,14,8,0,Korey Billbury Steal.
+Duke,VCU,26,28,14,15,1,Korey Billbury made Layup.
+Duke,VCU,26,28,14,41,0,Brandon Ingram missed Jumper.
+Duke,VCU,26,28,14,41,0,Jordan Burgess Defensive Rebound.
+Duke,VCU,26,28,14,48,0,Jonathan Williams missed Jumper.
+Duke,VCU,26,28,14,48,0,Grayson Allen Defensive Rebound.
+Duke,VCU,28,28,14,54,1,Grayson Allen made Jumper.
+Duke,VCU,28,28,14,54,0,Foul on Jonathan Williams.
+Duke,VCU,29,28,14,54,1,Grayson Allen made Free Throw.
+Duke,VCU,29,28,14,59,0,Doug Brooks missed Three Point Jumper.
+Duke,VCU,29,28,14,59,0,Matt Jones Defensive Rebound.
+Duke,VCU,31,28,15,25,1,Matt Jones made Jumper.
+Duke,VCU,31,31,15,38,1,Melvin Johnson made Three Point Jumper. Assisted by Ahmad Hamdy-Mohamed.
+Duke,VCU,33,31,15,55,1,Grayson Allen made Jumper.
+Duke,VCU,33,31,16,7,0,Mo Alie-Cox Turnover.
+Duke,VCU,33,31,16,9,0,Official TV Timeout
+Duke,VCU,33,31,16,19,0,Grayson Allen Turnover.
+Duke,VCU,33,33,16,38,1,Ahmad Hamdy-Mohamed made Layup.
+Duke,VCU,33,33,16,51,0,Grayson Allen missed Three Point Jumper.
+Duke,VCU,33,33,16,51,0,Amile Jefferson Offensive Rebound.
+Duke,VCU,33,33,16,56,0,Luke Kennard missed Three Point Jumper.
+Duke,VCU,33,33,16,56,0,VCU Defensive Rebound.
+Duke,VCU,33,33,16,57,0,Foul on Marshall Plumlee.
+Duke,VCU,33,33,17,21,0,Ahmad Hamdy-Mohamed missed Layup.
+Duke,VCU,33,33,17,21,0,Jordan Burgess Offensive Rebound.
+Duke,VCU,33,33,17,28,0,JeQuan Lewis Turnover.
+Duke,VCU,33,33,17,28,0,Amile Jefferson Steal.
+Duke,VCU,33,33,17,42,0,Matt Jones Turnover.
+Duke,VCU,33,33,17,42,0,JeQuan Lewis Steal.
+Duke,VCU,33,35,17,47,1,Korey Billbury made Layup. Assisted by JeQuan Lewis.
+Duke,VCU,33,35,18,1,0,Foul on Korey Billbury.
+Duke,VCU,33,35,18,1,0,Brandon Ingram missed Free Throw.
+Duke,VCU,33,35,18,1,0,Jordan Burgess Defensive Rebound.
+Duke,VCU,33,35,18,13,0,Mo Alie-Cox Turnover.
+Duke,VCU,33,35,18,13,0,Foul on Mo Alie-Cox.
+Duke,VCU,33,35,18,28,0,Grayson Allen missed Layup.
+Duke,VCU,33,35,18,28,0,Amile Jefferson Offensive Rebound.
+Duke,VCU,33,35,18,37,0,Grayson Allen missed Three Point Jumper.
+Duke,VCU,33,35,18,37,0,Duke Offensive Rebound.
+Duke,VCU,33,35,18,39,0,Foul on Jordan Burgess.
+Duke,VCU,33,35,18,39,0,Amile Jefferson missed Free Throw.
+Duke,VCU,33,35,18,39,0,Duke Deadball Team Rebound.
+Duke,VCU,34,35,18,39,1,Amile Jefferson made Free Throw.
+Duke,VCU,34,37,18,58,1,Ahmad Hamdy-Mohamed made Jumper. Assisted by JeQuan Lewis.
+Duke,VCU,34,37,18,59,0,Duke  Timeout
+Duke,VCU,34,37,19,15,0,Foul on Ahmad Hamdy-Mohamed.
+Duke,VCU,34,37,19,15,0,Brandon Ingram missed Free Throw.
+Duke,VCU,34,37,19,15,0,Duke Deadball Team Rebound.
+Duke,VCU,35,37,19,15,1,Brandon Ingram made Free Throw.
+Duke,VCU,35,39,19,39,1,Melvin Johnson made Jumper.
+Duke,VCU,35,39,19,47,0,VCU  Timeout
+Duke,VCU,38,39,19,53,1,Grayson Allen made Three Point Jumper. Assisted by Brandon Ingram.
+Duke,VCU,38,39,20,0,0,End of 1st half
+Duke,VCU,38,39,20,0,0,Jump Ball won by VCU
+Duke,VCU,38,42,20,15,1,Melvin Johnson made Three Point Jumper.
+Duke,VCU,40,42,20,35,1,Grayson Allen made Jumper.
+Duke,VCU,40,42,20,54,0,Mo Alie-Cox missed Jumper.
+Duke,VCU,40,42,20,54,0,Justin Tillman Offensive Rebound.
+Duke,VCU,40,44,20,54,1,Justin Tillman made Two Point Tip Shot.
+Duke,VCU,40,44,21,34,0,Brandon Ingram missed Three Point Jumper.
+Duke,VCU,40,44,21,34,0,Justin Tillman Defensive Rebound.
+Duke,VCU,40,44,21,40,0,Justin Tillman Turnover.
+Duke,VCU,40,44,21,41,0,Amile Jefferson Turnover.
+Duke,VCU,40,44,21,49,0,JeQuan Lewis Turnover.
+Duke,VCU,40,44,21,49,0,Brandon Ingram Steal.
+Duke,VCU,40,44,21,55,0,Jump Ball won by Duke
+Duke,VCU,40,44,21,55,0,Duke  Timeout
+Duke,VCU,40,44,22,3,0,Derryck Thornton missed Jumper.
+Duke,VCU,40,44,22,3,0,Justin Tillman Defensive Rebound.
+Duke,VCU,40,44,22,10,0,Jordan Burgess missed Three Point Jumper.
+Duke,VCU,40,44,22,10,0,Justin Tillman Offensive Rebound.
+Duke,VCU,40,44,22,12,0,Foul on Amile Jefferson.
+Duke,VCU,40,45,22,12,1,Justin Tillman made Free Throw.
+Duke,VCU,40,45,22,12,0,Justin Tillman missed Free Throw.
+Duke,VCU,40,45,22,12,0,Marshall Plumlee Defensive Rebound.
+Duke,VCU,40,45,22,35,0,Brandon Ingram Turnover.
+Duke,VCU,40,45,22,35,0,JeQuan Lewis Steal.
+Duke,VCU,40,45,22,40,0,Justin Tillman missed Layup.
+Duke,VCU,40,45,22,40,0,Matt Jones Defensive Rebound.
+Duke,VCU,40,45,22,40,0,Foul on Jordan Burgess.
+Duke,VCU,42,45,22,48,1,Matt Jones made Layup.
+Duke,VCU,42,45,23,8,0,Mo Alie-Cox Turnover.
+Duke,VCU,42,45,23,8,0,Derryck Thornton Steal.
+Duke,VCU,44,45,23,12,1,Derryck Thornton made Layup.
+Duke,VCU,44,47,23,36,1,Mo Alie-Cox made Jumper.
+Duke,VCU,44,47,24,3,0,Matt Jones missed Jumper.
+Duke,VCU,44,47,24,3,0,Matt Jones Offensive Rebound.
+Duke,VCU,44,47,24,3,0,Matt Jones missed Two Point Tip Shot.
+Duke,VCU,44,47,24,3,0,Justin Tillman Defensive Rebound.
+Duke,VCU,44,47,24,8,0,Official TV Timeout
+Duke,VCU,44,47,24,26,0,Melvin Johnson missed Jumper.
+Duke,VCU,44,47,24,26,0,Grayson Allen Defensive Rebound.
+Duke,VCU,44,47,24,37,0,Derryck Thornton Turnover.
+Duke,VCU,44,47,24,37,0,Korey Billbury Steal.
+Duke,VCU,44,47,24,40,0,Korey Billbury Turnover.
+Duke,VCU,46,47,24,53,1,Derryck Thornton made Jumper.
+Duke,VCU,46,47,25,10,0,JeQuan Lewis missed Three Point Jumper.
+Duke,VCU,46,47,25,10,0,Brandon Ingram Defensive Rebound.
+Duke,VCU,46,47,25,19,0,Brandon Ingram Turnover.
+Duke,VCU,46,47,25,19,0,Justin Tillman Steal.
+Duke,VCU,46,49,25,27,1,JeQuan Lewis made Layup.
+Duke,VCU,46,49,25,46,0,Derryck Thornton missed Jumper.
+Duke,VCU,46,49,25,46,0,Justin Tillman Defensive Rebound.
+Duke,VCU,46,51,25,59,1,Mo Alie-Cox made Dunk. Assisted by JeQuan Lewis.
+Duke,VCU,46,51,25,59,0,Foul on Brandon Ingram.
+Duke,VCU,46,52,25,59,1,Mo Alie-Cox made Free Throw.
+Duke,VCU,46,52,26,6,0,Matt Jones Turnover.
+Duke,VCU,46,52,26,22,0,Korey Billbury missed Layup.
+Duke,VCU,46,52,26,22,0,Grayson Allen Block.
+Duke,VCU,46,52,26,22,0,Luke Kennard Defensive Rebound.
+Duke,VCU,49,52,26,36,1,Derryck Thornton made Three Point Jumper. Assisted by Amile Jefferson.
+Duke,VCU,49,52,26,57,0,Korey Billbury Turnover.
+Duke,VCU,49,52,26,57,0,Grayson Allen Steal.
+Duke,VCU,49,52,27,15,0,Foul on Michael Gilmore.
+Duke,VCU,49,52,27,15,0,Grayson Allen missed Free Throw.
+Duke,VCU,49,52,27,15,0,Duke Deadball Team Rebound.
+Duke,VCU,50,52,27,15,1,Grayson Allen made Free Throw.
+Duke,VCU,50,52,27,29,0,Korey Billbury missed Jumper.
+Duke,VCU,50,52,27,29,0,Luke Kennard Defensive Rebound.
+Duke,VCU,53,52,27,36,1,Matt Jones made Three Point Jumper. Assisted by Luke Kennard.
+Duke,VCU,53,54,27,56,1,Ahmad Hamdy-Mohamed made Jumper.
+Duke,VCU,53,54,28,22,0,Foul on Jordan Burgess.
+Duke,VCU,53,54,28,22,0,Official TV Timeout
+Duke,VCU,53,54,28,24,0,Foul on Doug Brooks.
+Duke,VCU,55,54,28,34,1,Derryck Thornton made Layup.
+Duke,VCU,55,54,28,44,0,Foul on Amile Jefferson.
+Duke,VCU,55,54,28,44,0,Jonathan Williams missed Free Throw.
+Duke,VCU,55,54,28,44,0,VCU Deadball Team Rebound.
+Duke,VCU,55,55,28,44,1,Jonathan Williams made Free Throw.
+Duke,VCU,55,55,28,53,0,Foul on Doug Brooks.
+Duke,VCU,56,55,28,53,1,Grayson Allen made Free Throw.
+Duke,VCU,57,55,28,53,1,Grayson Allen made Free Throw.
+Duke,VCU,57,55,29,12,0,JeQuan Lewis missed Jumper.
+Duke,VCU,57,55,29,12,0,Matt Jones Defensive Rebound.
+Duke,VCU,57,55,29,16,0,Grayson Allen Turnover.
+Duke,VCU,57,55,29,34,0,Melvin Johnson missed Jumper.
+Duke,VCU,57,55,29,34,0,Amile Jefferson Defensive Rebound.
+Duke,VCU,57,55,29,45,0,Luke Kennard missed Three Point Jumper.
+Duke,VCU,57,55,29,45,0,Duke Offensive Rebound.
+Duke,VCU,60,55,29,55,1,Grayson Allen made Three Point Jumper. Assisted by Matt Jones.
+Duke,VCU,60,55,30,0,0,Foul on Derryck Thornton.
+Duke,VCU,60,58,30,11,1,Melvin Johnson made Three Point Jumper. Assisted by Justin Tillman.
+Duke,VCU,60,58,30,21,0,Foul on Mo Alie-Cox.
+Duke,VCU,61,58,30,21,1,Luke Kennard made Free Throw.
+Duke,VCU,62,58,30,21,1,Luke Kennard made Free Throw.
+Duke,VCU,62,58,30,33,0,Melvin Johnson missed Three Point Jumper.
+Duke,VCU,62,58,30,33,0,Justin Tillman Offensive Rebound.
+Duke,VCU,62,58,30,38,0,Justin Tillman missed Jumper.
+Duke,VCU,62,58,30,38,0,Grayson Allen Defensive Rebound.
+Duke,VCU,62,58,30,55,0,Luke Kennard missed Three Point Jumper.
+Duke,VCU,62,58,30,55,0,Luke Kennard Offensive Rebound.
+Duke,VCU,65,58,31,2,1,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.
+Duke,VCU,65,58,31,20,0,Melvin Johnson missed Three Point Jumper.
+Duke,VCU,65,58,31,20,0,Luke Kennard Defensive Rebound.
+Duke,VCU,65,58,31,41,0,Foul on JeQuan Lewis.
+Duke,VCU,65,58,31,41,0,Derryck Thornton missed Free Throw.
+Duke,VCU,65,58,31,41,0,Matt Jones Offensive Rebound.
+Duke,VCU,65,58,31,52,0,Grayson Allen missed Three Point Jumper.
+Duke,VCU,65,58,31,52,0,Ahmad Hamdy-Mohamed Defensive Rebound.
+Duke,VCU,65,58,31,56,0,Ahmad Hamdy-Mohamed Turnover.
+Duke,VCU,65,58,32,1,0,Matt Jones missed Three Point Jumper.
+Duke,VCU,65,58,32,1,0,Jordan Burgess Defensive Rebound.
+Duke,VCU,65,58,32,12,0,JeQuan Lewis Turnover.
+Duke,VCU,65,58,32,12,0,Matt Jones Steal.
+Duke,VCU,65,58,32,16,0,Matt Jones missed Jumper.
+Duke,VCU,65,58,32,16,0,Doug Brooks Defensive Rebound.
+Duke,VCU,65,58,32,23,0,Jordan Burgess missed Three Point Jumper.
+Duke,VCU,65,58,32,23,0,Matt Jones Defensive Rebound.
+Duke,VCU,65,58,32,52,0,Derryck Thornton Turnover.
+Duke,VCU,65,58,32,53,0,Official TV Timeout
+Duke,VCU,65,58,33,9,0,Jordan Burgess Turnover.
+Duke,VCU,68,58,33,34,1,Grayson Allen made Three Point Jumper.
+Duke,VCU,68,58,33,55,0,Jordan Burgess missed Jumper.
+Duke,VCU,68,58,33,55,0,Amile Jefferson Block.
+Duke,VCU,68,58,33,55,0,VCU Offensive Rebound.
+Duke,VCU,68,58,34,0,0,Mo Alie-Cox missed Jumper.
+Duke,VCU,68,58,34,0,0,Amile Jefferson Defensive Rebound.
+Duke,VCU,68,58,34,17,0,Foul on JeQuan Lewis.
+Duke,VCU,69,58,34,17,1,Derryck Thornton made Free Throw.
+Duke,VCU,70,58,34,17,1,Derryck Thornton made Free Throw.
+Duke,VCU,70,58,34,30,0,Foul on Derryck Thornton.
+Duke,VCU,70,58,34,35,0,Ahmad Hamdy-Mohamed missed Jumper.
+Duke,VCU,70,58,34,35,0,Brandon Ingram Block.
+Duke,VCU,70,58,34,35,0,Matt Jones Defensive Rebound.
+Duke,VCU,70,58,34,58,0,Amile Jefferson missed Layup.
+Duke,VCU,70,58,34,58,0,Amile Jefferson Offensive Rebound.
+Duke,VCU,70,58,35,2,0,Grayson Allen missed Three Point Jumper.
+Duke,VCU,70,58,35,3,0,VCU Defensive Rebound.
+Duke,VCU,70,58,35,3,0,Foul on Luke Kennard.
+Duke,VCU,70,60,35,13,1,Ahmad Hamdy-Mohamed made Jumper. Assisted by JeQuan Lewis.
+Duke,VCU,72,60,35,24,1,Grayson Allen made Layup.
+Duke,VCU,72,60,35,32,0,Foul on Matt Jones.
+Duke,VCU,72,61,35,32,1,JeQuan Lewis made Free Throw.
+Duke,VCU,72,62,35,32,1,JeQuan Lewis made Free Throw.
+Duke,VCU,72,62,35,43,0,Matt Jones missed Three Point Jumper.
+Duke,VCU,72,62,35,43,0,Torey Burston Defensive Rebound.
+Duke,VCU,72,62,36,11,0,Korey Billbury missed Jumper.
+Duke,VCU,72,62,36,11,0,Marshall Plumlee Defensive Rebound.
+Duke,VCU,72,62,36,33,0,Brandon Ingram missed Three Point Jumper.
+Duke,VCU,72,62,36,33,0,VCU Defensive Rebound.
+Duke,VCU,72,62,36,42,0,Official TV Timeout
+Duke,VCU,72,64,36,57,1,Mo Alie-Cox made Dunk. Assisted by Korey Billbury.
+Duke,VCU,72,64,37,19,0,Foul on Jordan Burgess.
+Duke,VCU,72,64,37,19,0,Brandon Ingram missed Free Throw.
+Duke,VCU,72,64,37,19,0,Duke Deadball Team Rebound.
+Duke,VCU,73,64,37,19,1,Brandon Ingram made Free Throw.
+Duke,VCU,73,66,37,28,1,Jordan Burgess made Jumper.
+Duke,VCU,73,66,38,1,0,Foul on Mo Alie-Cox.
+Duke,VCU,73,66,38,1,0,Amile Jefferson missed Free Throw.
+Duke,VCU,73,66,38,1,0,Duke Deadball Team Rebound.
+Duke,VCU,74,66,38,1,1,Amile Jefferson made Free Throw.
+Duke,VCU,74,66,38,8,0,JeQuan Lewis missed Layup.
+Duke,VCU,74,66,38,8,0,Grayson Allen Defensive Rebound.
+Duke,VCU,74,66,38,35,0,Matt Jones missed Three Point Jumper.
+Duke,VCU,74,66,38,35,0,Duke Offensive Rebound.
+Duke,VCU,74,66,38,36,0,Foul on Korey Billbury.
+Duke,VCU,74,66,38,36,0,Amile Jefferson missed Free Throw.
+Duke,VCU,74,66,38,36,0,Duke Deadball Team Rebound.
+Duke,VCU,74,66,38,36,0,Amile Jefferson missed Free Throw.
+Duke,VCU,74,66,38,36,0,Korey Billbury Defensive Rebound.
+Duke,VCU,74,66,38,46,0,Foul on Grayson Allen.
+Duke,VCU,74,67,38,46,1,Melvin Johnson made Free Throw.
+Duke,VCU,74,68,38,46,1,Melvin Johnson made Free Throw.
+Duke,VCU,74,68,39,3,0,Foul on Melvin Johnson.
+Duke,VCU,75,68,39,3,1,Grayson Allen made Free Throw.
+Duke,VCU,76,68,39,3,1,Grayson Allen made Free Throw.
+Duke,VCU,76,68,39,10,0,Foul on Amile Jefferson.
+Duke,VCU,76,68,39,10,0,Mo Alie-Cox missed Free Throw.
+Duke,VCU,76,68,39,10,0,VCU Deadball Team Rebound.
+Duke,VCU,76,69,39,10,1,Mo Alie-Cox made Free Throw.
+Duke,VCU,76,69,39,15,0,Foul on Mo Alie-Cox.
+Duke,VCU,76,69,39,15,0,Brandon Ingram missed Free Throw.
+Duke,VCU,76,69,39,15,0,Duke Deadball Team Rebound.
+Duke,VCU,76,69,39,15,0,Brandon Ingram missed Free Throw.
+Duke,VCU,76,69,39,15,0,Jordan Burgess Defensive Rebound.
+Duke,VCU,76,69,39,23,0,Jordan Burgess missed Three Point Jumper.
+Duke,VCU,76,69,39,23,0,Duke Defensive Rebound.
+Duke,VCU,76,69,39,26,0,Foul on Melvin Johnson.
+Duke,VCU,76,69,39,26,0,Brandon Ingram missed Free Throw.
+Duke,VCU,76,69,39,26,0,Duke Deadball Team Rebound.
+Duke,VCU,76,69,39,26,0,Brandon Ingram missed Free Throw.
+Duke,VCU,76,69,39,26,0,Jordan Burgess Defensive Rebound.
+Duke,VCU,76,69,39,33,0,Melvin Johnson missed Three Point Jumper.
+Duke,VCU,76,69,39,33,0,Brandon Ingram Defensive Rebound.
+Duke,VCU,76,69,39,38,0,Foul on JeQuan Lewis.
+Duke,VCU,77,69,39,38,1,Brandon Ingram made Free Throw.
+Duke,VCU,78,69,39,38,1,Brandon Ingram made Free Throw.
+Duke,VCU,78,71,39,45,1,JeQuan Lewis made Layup.
+Duke,VCU,78,71,39,45,0,VCU  Timeout
+Duke,VCU,78,71,39,46,0,Foul on JeQuan Lewis.
+Duke,VCU,79,71,39,46,1,Derryck Thornton made Free Throw.
+Duke,VCU,79,71,39,46,0,Derryck Thornton missed Free Throw.
+Duke,VCU,79,71,39,46,0,VCU Defensive Rebound.
+Duke,VCU,79,71,39,58,0,Michael Gilmore missed Jumper.
+Duke,VCU,79,71,39,58,0,Amile Jefferson Defensive Rebound.
+Duke,VCU,79,71,40,0,0,End of Game

@@ -1,0 +1,351 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+UNLV,San Jose State,0,0,0,13,0,Christian Jones Turnover.
+UNLV,San Jose State,0,0,0,29,0,Jalen James missed Jumper.
+UNLV,San Jose State,0,0,0,29,0,UNLV Deadball Team Rebound.
+UNLV,San Jose State,0,0,0,32,0,Foul on Jaycee Hillsman.
+UNLV,San Jose State,2,0,0,45,1,Christian Jones made Layup.
+UNLV,San Jose State,2,0,0,58,0,Jalen James missed Three Point Jumper.
+UNLV,San Jose State,2,0,0,58,0,Cheickna Dembele Defensive Rebound.
+UNLV,San Jose State,4,0,1,9,1,Uche Ofoegbu made Jumper.
+UNLV,San Jose State,4,0,1,28,0,Jalen James Turnover.
+UNLV,San Jose State,4,0,1,30,0,Uche Ofoegbu Steal.
+UNLV,San Jose State,4,0,1,32,0,Christian Jones Turnover.
+UNLV,San Jose State,4,0,1,32,0,Foul on Christian Jones.
+UNLV,San Jose State,4,2,1,44,1,Brandon Clarke made Layup. Assisted by Jaycee Hillsman.
+UNLV,San Jose State,4,2,2,0,0,Cheickna Dembele missed Layup.
+UNLV,San Jose State,4,2,2,0,0,Terrell Brown Defensive Rebound.
+UNLV,San Jose State,4,2,2,12,0,Foul on Uche Ofoegbu.
+UNLV,San Jose State,4,2,2,12,0,Isaiah Nichols missed Free Throw.
+UNLV,San Jose State,4,2,2,12,0,San Jos St Deadball Team Rebound.
+UNLV,San Jose State,4,3,2,12,1,Isaiah Nichols made Free Throw.
+UNLV,San Jose State,6,3,2,35,1,Christian Jones made Jumper. Assisted by Jovan Mooring.
+UNLV,San Jose State,6,3,2,50,0,Isaiah Nichols Turnover.
+UNLV,San Jose State,6,3,2,52,0,Zion Morgan Steal.
+UNLV,San Jose State,6,3,2,55,0,Zion Morgan missed Layup.
+UNLV,San Jose State,6,3,2,55,0,Isaiah Nichols Defensive Rebound.
+UNLV,San Jose State,6,3,3,0,0,Isaiah Nichols Turnover.
+UNLV,San Jose State,6,3,3,2,0,Zion Morgan Steal.
+UNLV,San Jose State,6,3,3,3,0,Cheickna Dembele missed Layup.
+UNLV,San Jose State,6,3,3,3,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,6,3,3,9,0,Brandon Clarke missed Jumper.
+UNLV,San Jose State,6,3,3,9,0,Cheickna Dembele Defensive Rebound.
+UNLV,San Jose State,6,3,3,38,0,Uche Ofoegbu missed Three Point Jumper.
+UNLV,San Jose State,6,3,3,38,0,Ryan Welage Defensive Rebound.
+UNLV,San Jose State,6,3,3,47,0,Jaycee Hillsman Turnover.
+UNLV,San Jose State,6,3,4,1,0,Christian Jones missed Layup.
+UNLV,San Jose State,6,3,4,1,0,Brandon Clarke Block.
+UNLV,San Jose State,6,3,4,3,0,Uche Ofoegbu Offensive Rebound.
+UNLV,San Jose State,6,3,4,8,0,Christian Jones missed Jumper.
+UNLV,San Jose State,6,3,4,8,0,Brandon Clarke Block.
+UNLV,San Jose State,6,3,4,10,0,Uche Ofoegbu Offensive Rebound.
+UNLV,San Jose State,8,3,4,15,1,Uche Ofoegbu made Jumper.
+UNLV,San Jose State,8,3,4,23,0,Foul on Cheickna Dembele.
+UNLV,San Jose State,8,3,4,23,0,Official TV Timeout
+UNLV,San Jose State,8,4,4,23,1,Ryan Welage made Free Throw.
+UNLV,San Jose State,8,5,4,23,1,Ryan Welage made Free Throw.
+UNLV,San Jose State,8,5,4,45,0,Christian Jones missed Jumper.
+UNLV,San Jose State,8,5,4,45,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,8,7,4,56,1,Ryan Welage made Jumper.
+UNLV,San Jose State,8,7,5,14,0,Tyrell Green missed Jumper.
+UNLV,San Jose State,8,7,5,14,0,Isaac Thornton Defensive Rebound.
+UNLV,San Jose State,8,7,5,29,0,Isaac Thornton Turnover.
+UNLV,San Jose State,8,7,5,29,0,Foul on Isaac Thornton.
+UNLV,San Jose State,10,7,5,56,1,Christian Jones made Jumper.
+UNLV,San Jose State,10,7,6,21,0,Foul on Zion Morgan.
+UNLV,San Jose State,10,8,6,21,1,Terrell Brown made Free Throw.
+UNLV,San Jose State,10,9,6,21,1,Terrell Brown made Free Throw.
+UNLV,San Jose State,10,9,6,32,0,Foul on Brandon Clarke.
+UNLV,San Jose State,10,9,6,44,0,Zion Morgan missed Three Point Jumper.
+UNLV,San Jose State,10,9,6,44,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,10,9,6,55,0,Jaycee Hillsman Turnover.
+UNLV,San Jose State,10,9,6,55,0,Foul on Jaycee Hillsman.
+UNLV,San Jose State,10,9,7,10,0,Zion Morgan Turnover.
+UNLV,San Jose State,10,9,7,10,0,Foul on Zion Morgan.
+UNLV,San Jose State,10,11,7,22,1,Terrell Brown made Layup.
+UNLV,San Jose State,12,11,7,30,1,Jalen Poyser made Layup.
+UNLV,San Jose State,12,11,7,30,0,Foul on Isaac Thornton.
+UNLV,San Jose State,12,11,7,31,0,Jalen Poyser missed Free Throw.
+UNLV,San Jose State,12,11,7,31,0,Isaac Thornton Defensive Rebound.
+UNLV,San Jose State,12,13,7,45,1,Brandon Clarke made Layup.
+UNLV,San Jose State,12,13,8,7,0,Foul on Brandon Mitchell.
+UNLV,San Jose State,12,13,8,7,0,Official TV Timeout
+UNLV,San Jose State,12,13,8,30,0,Tyrell Green missed Three Point Jumper.
+UNLV,San Jose State,12,13,8,30,0,Terrell Brown Defensive Rebound.
+UNLV,San Jose State,12,16,9,1,1,Terrell Brown made Three Point Jumper. Assisted by Cody Schwartz.
+UNLV,San Jose State,14,16,9,29,1,Tyrell Green made Jumper.
+UNLV,San Jose State,14,16,9,46,0,Terrell Brown missed Three Point Jumper.
+UNLV,San Jose State,14,16,9,46,0,Uche Ofoegbu Defensive Rebound.
+UNLV,San Jose State,16,16,9,55,1,Tyrell Green made Layup. Assisted by Uche Ofoegbu.
+UNLV,San Jose State,16,16,10,7,0,San Jos St  Timeout
+UNLV,San Jose State,16,16,10,20,0,Foul on Kris Clyburn.
+UNLV,San Jose State,16,16,10,20,0,Ryan Welage missed Three Point Jumper.
+UNLV,San Jose State,16,16,10,20,0,Cheickna Dembele Defensive Rebound.
+UNLV,San Jose State,16,16,10,24,0,Jovan Mooring Turnover.
+UNLV,San Jose State,16,16,10,28,0,Ryan Welage Steal.
+UNLV,San Jose State,16,16,10,30,0,Jaycee Hillsman missed Dunk.
+UNLV,San Jose State,16,16,10,30,0,Cheickna Dembele Block.
+UNLV,San Jose State,16,16,10,33,0,UNLV Deadball Team Rebound.
+UNLV,San Jose State,16,16,10,43,0,Technical Foul on Uche Ofoegbu.
+UNLV,San Jose State,16,17,10,43,1,Terrell Brown made Free Throw.
+UNLV,San Jose State,16,17,11,4,0,Brandon Mitchell missed Jumper.
+UNLV,San Jose State,16,17,11,4,0,Jalen Poyser Defensive Rebound.
+UNLV,San Jose State,16,17,11,17,0,Foul on Ryan Welage.
+UNLV,San Jose State,17,17,11,17,1,Christian Jones made Free Throw.
+UNLV,San Jose State,18,17,11,17,1,Christian Jones made Free Throw.
+UNLV,San Jose State,18,17,11,33,0,Foul on Jovan Mooring.
+UNLV,San Jose State,18,17,11,33,0,Brandon Mitchell missed Free Throw.
+UNLV,San Jose State,18,17,11,33,0,Jovan Mooring Defensive Rebound.
+UNLV,San Jose State,18,17,11,43,0,Cheickna Dembele Turnover.
+UNLV,San Jose State,18,17,11,43,0,Foul on Cheickna Dembele.
+UNLV,San Jose State,18,17,12,8,0,Terrell Brown missed Three Point Jumper.
+UNLV,San Jose State,18,17,12,8,0,Christian Jones Defensive Rebound.
+UNLV,San Jose State,18,17,12,15,0,Foul on Terrell Brown.
+UNLV,San Jose State,18,17,12,15,0,Official TV Timeout
+UNLV,San Jose State,19,17,12,15,1,Jovan Mooring made Free Throw.
+UNLV,San Jose State,20,17,12,15,1,Jovan Mooring made Free Throw.
+UNLV,San Jose State,20,19,12,34,1,Brandon Clarke made Jumper.
+UNLV,San Jose State,20,19,12,43,0,Jovan Mooring missed Jumper.
+UNLV,San Jose State,20,19,12,43,0,UNLV Offensive Rebound.
+UNLV,San Jose State,22,19,12,55,1,Jovan Mooring made Jumper.
+UNLV,San Jose State,22,19,13,26,0,Ryan Welage missed Three Point Jumper.
+UNLV,San Jose State,22,19,13,26,0,Christian Jones Defensive Rebound.
+UNLV,San Jose State,22,19,13,35,0,Jovan Mooring Turnover.
+UNLV,San Jose State,22,19,13,36,0,Brandon Clarke Steal.
+UNLV,San Jose State,22,21,13,49,1,Ryan Welage made Jumper. Assisted by Isaiah Nichols.
+UNLV,San Jose State,22,21,14,8,0,Jalen Poyser missed Layup.
+UNLV,San Jose State,22,21,14,8,0,Jalen Poyser Offensive Rebound.
+UNLV,San Jose State,22,21,14,13,0,Jalen Poyser missed Layup.
+UNLV,San Jose State,22,21,14,13,0,Jalen Poyser Offensive Rebound.
+UNLV,San Jose State,22,21,14,19,0,Christian Jones missed Jumper.
+UNLV,San Jose State,22,21,14,19,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,22,21,14,30,0,E.J. Boyce missed Three Point Jumper.
+UNLV,San Jose State,22,21,14,30,0,Christian Jones Defensive Rebound.
+UNLV,San Jose State,25,21,14,44,1,Kris Clyburn made Three Point Jumper. Assisted by Jalen Poyser.
+UNLV,San Jose State,25,21,15,12,0,Terrell Brown missed Jumper.
+UNLV,San Jose State,25,21,15,12,0,Brandon Clarke Offensive Rebound.
+UNLV,San Jose State,25,21,15,13,0,Foul on Tyrell Green.
+UNLV,San Jose State,25,22,15,13,1,Brandon Clarke made Free Throw.
+UNLV,San Jose State,25,23,15,13,1,Brandon Clarke made Free Throw.
+UNLV,San Jose State,25,23,15,26,0,Tyrell Green missed Layup.
+UNLV,San Jose State,25,23,15,26,0,Brandon Clarke Block.
+UNLV,San Jose State,25,23,15,28,0,Brandon Mitchell Defensive Rebound.
+UNLV,San Jose State,25,23,15,31,0,Brandon Mitchell Turnover.
+UNLV,San Jose State,25,23,15,33,0,Kris Clyburn Steal.
+UNLV,San Jose State,25,23,15,35,0,Kris Clyburn missed Layup.
+UNLV,San Jose State,25,23,15,35,0,Jalen James Defensive Rebound.
+UNLV,San Jose State,25,23,15,48,0,Brandon Clarke missed Layup.
+UNLV,San Jose State,25,23,15,48,0,Kris Clyburn Defensive Rebound.
+UNLV,San Jose State,25,23,15,55,0,Jalen Poyser missed Layup.
+UNLV,San Jose State,25,23,15,55,0,Cheickna Dembele Offensive Rebound.
+UNLV,San Jose State,25,23,16,19,0,Foul on Brandon Mitchell.
+UNLV,San Jose State,25,23,16,19,0,Official TV Timeout
+UNLV,San Jose State,26,23,16,19,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,27,23,16,19,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,27,23,16,39,0,Brandon Clarke missed Layup.
+UNLV,San Jose State,27,23,16,39,0,Christian Jones Block.
+UNLV,San Jose State,27,23,16,39,0,San Jos St Offensive Rebound.
+UNLV,San Jose State,27,23,16,40,0,Ryan Welage missed Three Point Jumper.
+UNLV,San Jose State,27,23,16,40,0,Cheickna Dembele Defensive Rebound.
+UNLV,San Jose State,30,23,16,49,1,Uche Ofoegbu made Three Point Jumper. Assisted by Zion Morgan.
+UNLV,San Jose State,30,23,17,16,0,Foul on Jovan Mooring.
+UNLV,San Jose State,30,24,17,16,1,Terrell Brown made Free Throw.
+UNLV,San Jose State,30,25,17,16,1,Terrell Brown made Free Throw.
+UNLV,San Jose State,33,25,17,35,1,Jovan Mooring made Three Point Jumper. Assisted by Uche Ofoegbu.
+UNLV,San Jose State,33,25,17,51,0,Brandon Clarke missed Jumper.
+UNLV,San Jose State,33,25,17,51,0,Christian Jones Defensive Rebound.
+UNLV,San Jose State,33,25,18,12,0,Jovan Mooring missed Three Point Jumper.
+UNLV,San Jose State,33,25,18,12,0,San Jos St Defensive Rebound.
+UNLV,San Jose State,33,27,18,28,1,Ryan Welage made Jumper. Assisted by Jalen James.
+UNLV,San Jose State,33,27,18,47,0,Cheickna Dembele missed Jumper.
+UNLV,San Jose State,33,27,18,47,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,33,27,19,1,0,Ryan Welage missed Jumper.
+UNLV,San Jose State,33,27,19,1,0,Uche Ofoegbu Defensive Rebound.
+UNLV,San Jose State,33,27,19,12,0,UNLV  Timeout
+UNLV,San Jose State,33,27,19,24,0,Uche Ofoegbu missed Jumper.
+UNLV,San Jose State,33,27,19,24,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,33,27,19,51,0,Terrell Brown Turnover.
+UNLV,San Jose State,36,27,19,59,1,Uche Ofoegbu made Three Point Jumper. Assisted by Jovan Mooring.
+UNLV,San Jose State,36,27,20,0,0,End of 1st half
+UNLV,San Jose State,38,27,20,11,1,Cheickna Dembele made Layup. Assisted by Jovan Mooring.
+UNLV,San Jose State,38,27,20,39,0,Jaycee Hillsman missed Jumper.
+UNLV,San Jose State,38,27,20,39,0,Cheickna Dembele Block.
+UNLV,San Jose State,38,27,20,41,0,Christian Jones Defensive Rebound.
+UNLV,San Jose State,38,27,20,53,0,Uche Ofoegbu missed Layup.
+UNLV,San Jose State,38,27,20,53,0,San Jos St Defensive Rebound.
+UNLV,San Jose State,38,27,21,6,0,Jalen James Turnover.
+UNLV,San Jose State,38,27,21,7,0,Zion Morgan Steal.
+UNLV,San Jose State,40,27,21,9,1,Zion Morgan made Layup.
+UNLV,San Jose State,40,27,21,16,0,Foul on Zion Morgan.
+UNLV,San Jose State,40,29,21,30,1,Brandon Clarke made Layup. Assisted by Ryan Welage.
+UNLV,San Jose State,40,29,21,51,0,Christian Jones Turnover.
+UNLV,San Jose State,40,29,22,5,0,Foul on Cheickna Dembele.
+UNLV,San Jose State,40,29,22,5,0,Brandon Clarke missed Free Throw.
+UNLV,San Jose State,40,29,22,5,0,San Jos St Deadball Team Rebound.
+UNLV,San Jose State,40,30,22,5,1,Brandon Clarke made Free Throw.
+UNLV,San Jose State,40,30,22,13,0,Zion Morgan missed Jumper.
+UNLV,San Jose State,40,30,22,13,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,40,30,22,31,0,Ryan Welage missed Jumper.
+UNLV,San Jose State,40,30,22,31,0,Brandon Clarke Offensive Rebound.
+UNLV,San Jose State,40,30,22,35,0,Brandon Clarke Turnover.
+UNLV,San Jose State,40,30,22,36,0,Cheickna Dembele Steal.
+UNLV,San Jose State,42,30,22,56,1,Jovan Mooring made Jumper.
+UNLV,San Jose State,42,32,23,14,1,Ryan Welage made Jumper. Assisted by Jaycee Hillsman.
+UNLV,San Jose State,42,32,23,41,0,Uche Ofoegbu missed Three Point Jumper.
+UNLV,San Jose State,42,32,23,41,0,Ryan Welage Defensive Rebound.
+UNLV,San Jose State,42,34,23,51,1,Isaiah Nichols made Layup.
+UNLV,San Jose State,44,34,24,10,1,Zion Morgan made Layup.
+UNLV,San Jose State,44,36,24,20,1,Ryan Welage made Jumper.
+UNLV,San Jose State,46,36,24,35,1,Cheickna Dembele made Layup. Assisted by Christian Jones.
+UNLV,San Jose State,46,38,24,47,1,Ryan Welage made Layup. Assisted by Isaiah Nichols.
+UNLV,San Jose State,46,38,25,5,0,Jovan Mooring missed Jumper.
+UNLV,San Jose State,46,38,25,5,0,Jaycee Hillsman Defensive Rebound.
+UNLV,San Jose State,46,41,25,13,1,Isaiah Nichols made Three Point Jumper. Assisted by Jaycee Hillsman.
+UNLV,San Jose State,46,41,25,45,0,Cheickna Dembele Turnover.
+UNLV,San Jose State,46,41,25,45,0,Official TV Timeout
+UNLV,San Jose State,46,41,26,3,0,Ryan Welage missed Layup.
+UNLV,San Jose State,46,41,26,3,0,Tyrell Green Defensive Rebound.
+UNLV,San Jose State,46,41,26,9,0,Foul on Isaiah Nichols.
+UNLV,San Jose State,47,41,26,9,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,48,41,26,9,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,48,44,26,16,1,Terrell Brown made Three Point Jumper. Assisted by Ryan Welage.
+UNLV,San Jose State,48,44,26,34,0,Kris Clyburn missed Three Point Jumper.
+UNLV,San Jose State,48,44,26,34,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,48,44,26,58,0,Terrell Brown missed Layup.
+UNLV,San Jose State,48,44,26,58,0,Christian Jones Defensive Rebound.
+UNLV,San Jose State,48,44,27,3,0,Foul on Isaiah Nichols.
+UNLV,San Jose State,49,44,27,3,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,50,44,27,3,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,50,44,27,19,0,Foul on Christian Jones.
+UNLV,San Jose State,50,45,27,19,1,Brandon Clarke made Free Throw.
+UNLV,San Jose State,50,46,27,19,1,Brandon Clarke made Free Throw.
+UNLV,San Jose State,50,46,27,48,0,Kris Clyburn missed Three Point Jumper.
+UNLV,San Jose State,50,46,27,48,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,50,48,27,57,1,Brandon Clarke made Layup.
+UNLV,San Jose State,50,48,28,12,0,Foul on Terrell Brown.
+UNLV,San Jose State,50,48,28,12,0,Official TV Timeout
+UNLV,San Jose State,50,48,28,18,0,Jovan Mooring missed Jumper.
+UNLV,San Jose State,50,48,28,18,0,Cheickna Dembele Offensive Rebound.
+UNLV,San Jose State,50,48,28,24,0,Foul on Isaiah Nichols.
+UNLV,San Jose State,50,48,28,26,0,Tyrell Green missed Jumper.
+UNLV,San Jose State,50,48,28,26,0,Brandon Clarke Defensive Rebound.
+UNLV,San Jose State,50,48,28,36,0,Brandon Clarke missed Layup.
+UNLV,San Jose State,50,48,28,36,0,Jaycee Hillsman Offensive Rebound.
+UNLV,San Jose State,50,48,28,52,0,Isaiah Nichols Turnover.
+UNLV,San Jose State,50,48,28,54,0,Jovan Mooring Steal.
+UNLV,San Jose State,50,48,28,56,0,Zion Morgan missed Layup.
+UNLV,San Jose State,50,48,28,56,0,UNLV Offensive Rebound.
+UNLV,San Jose State,50,48,29,17,0,Jovan Mooring missed Jumper.
+UNLV,San Jose State,50,48,29,17,0,Ryan Welage Defensive Rebound.
+UNLV,San Jose State,50,50,29,35,1,Ryan Welage made Layup. Assisted by Brandon Clarke.
+UNLV,San Jose State,50,50,29,40,0,Foul on Isaac Thornton.
+UNLV,San Jose State,50,50,29,40,0,Jalen Poyser missed Free Throw.
+UNLV,San Jose State,50,50,29,40,0,UNLV Deadball Team Rebound.
+UNLV,San Jose State,51,50,29,40,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,51,52,29,50,1,Brandon Clarke made Layup. Assisted by Jaycee Hillsman.
+UNLV,San Jose State,51,52,29,50,0,Foul on Zion Morgan.
+UNLV,San Jose State,51,52,29,56,0,Brandon Clarke missed Free Throw.
+UNLV,San Jose State,51,52,29,56,0,Cheickna Dembele Defensive Rebound.
+UNLV,San Jose State,51,52,30,28,0,Jovan Mooring Turnover.
+UNLV,San Jose State,51,52,30,43,0,Jaycee Hillsman Turnover.
+UNLV,San Jose State,51,52,30,43,0,Foul on Jaycee Hillsman.
+UNLV,San Jose State,51,52,30,53,0,Jovan Mooring Turnover.
+UNLV,San Jose State,51,52,30,53,0,UNLV  Timeout
+UNLV,San Jose State,51,52,30,53,0,Official TV Timeout
+UNLV,San Jose State,51,52,31,15,0,Foul on Jovan Mooring.
+UNLV,San Jose State,51,53,31,15,1,Jaycee Hillsman made Free Throw.
+UNLV,San Jose State,51,54,31,15,1,Jaycee Hillsman made Free Throw.
+UNLV,San Jose State,51,54,31,25,0,Christian Jones missed Layup.
+UNLV,San Jose State,51,54,31,25,0,Isaiah Nichols Defensive Rebound.
+UNLV,San Jose State,51,56,31,42,1,Brandon Clarke made Layup. Assisted by Isaiah Nichols.
+UNLV,San Jose State,51,56,31,56,0,Kris Clyburn Turnover.
+UNLV,San Jose State,51,56,31,58,0,Isaiah Nichols Steal.
+UNLV,San Jose State,51,56,32,18,0,Terrell Brown missed Three Point Jumper.
+UNLV,San Jose State,51,56,32,18,0,Uche Ofoegbu Defensive Rebound.
+UNLV,San Jose State,51,56,32,30,0,Foul on Ryan Welage.
+UNLV,San Jose State,51,56,32,30,0,Official TV Timeout
+UNLV,San Jose State,52,56,32,30,1,Kris Clyburn made Free Throw.
+UNLV,San Jose State,53,56,32,30,1,Kris Clyburn made Free Throw.
+UNLV,San Jose State,53,56,32,42,0,Brandon Clarke Turnover.
+UNLV,San Jose State,53,56,32,43,0,Jalen Poyser Steal.
+UNLV,San Jose State,53,56,32,45,0,Foul on Terrell Brown.
+UNLV,San Jose State,54,56,32,45,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,55,56,32,45,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,55,56,33,0,0,Brandon Clarke missed Layup.
+UNLV,San Jose State,55,56,33,0,0,Brandon Clarke Offensive Rebound.
+UNLV,San Jose State,55,56,33,3,0,Brandon Clarke missed Layup.
+UNLV,San Jose State,55,56,33,3,0,Kris Clyburn Defensive Rebound.
+UNLV,San Jose State,55,56,33,9,0,Foul on Brandon Clarke.
+UNLV,San Jose State,56,56,33,9,1,Cheickna Dembele made Free Throw.
+UNLV,San Jose State,57,56,33,9,1,Cheickna Dembele made Free Throw.
+UNLV,San Jose State,57,59,33,35,1,Jaycee Hillsman made Three Point Jumper. Assisted by Terrell Brown.
+UNLV,San Jose State,57,59,33,46,0,Jalen Poyser missed Three Point Jumper.
+UNLV,San Jose State,57,59,33,46,0,San Jos St Deadball Team Rebound.
+UNLV,San Jose State,57,59,33,51,0,Foul on Kris Clyburn.
+UNLV,San Jose State,57,59,34,9,0,Terrell Brown missed Three Point Jumper.
+UNLV,San Jose State,57,59,34,9,0,Jalen Poyser Defensive Rebound.
+UNLV,San Jose State,57,59,34,16,0,Foul on Terrell Brown.
+UNLV,San Jose State,58,59,34,16,1,Jovan Mooring made Free Throw.
+UNLV,San Jose State,59,59,34,16,1,Jovan Mooring made Free Throw.
+UNLV,San Jose State,59,59,34,34,0,Foul on Cheickna Dembele.
+UNLV,San Jose State,59,60,34,34,1,Jalen James made Free Throw.
+UNLV,San Jose State,59,61,34,34,1,Jalen James made Free Throw.
+UNLV,San Jose State,59,61,34,57,0,Tyrell Green missed Three Point Jumper.
+UNLV,San Jose State,59,61,34,57,0,Isaac Thornton Defensive Rebound.
+UNLV,San Jose State,59,61,35,27,0,Jalen James missed Layup.
+UNLV,San Jose State,59,61,35,27,0,Kris Clyburn Block.
+UNLV,San Jose State,59,61,35,29,0,Christian Jones Defensive Rebound.
+UNLV,San Jose State,59,61,35,33,0,Jalen Poyser missed Layup.
+UNLV,San Jose State,59,61,35,33,0,Brandon Clarke Block.
+UNLV,San Jose State,59,61,35,36,0,Tyrell Green Offensive Rebound.
+UNLV,San Jose State,61,61,35,38,1,Tyrell Green made Layup.
+UNLV,San Jose State,61,61,35,58,0,Foul on Kris Clyburn.
+UNLV,San Jose State,61,62,35,58,1,Isaac Thornton made Free Throw.
+UNLV,San Jose State,61,63,35,58,1,Isaac Thornton made Free Throw.
+UNLV,San Jose State,61,63,36,4,0,Foul on Isaiah Nichols.
+UNLV,San Jose State,61,63,36,4,0,Official TV Timeout
+UNLV,San Jose State,62,63,36,4,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,63,63,36,4,1,Jalen Poyser made Free Throw.
+UNLV,San Jose State,63,63,36,22,0,Jalen James Turnover.
+UNLV,San Jose State,63,63,36,22,0,Foul on Jalen James.
+UNLV,San Jose State,63,63,36,47,0,Jalen Poyser missed Layup.
+UNLV,San Jose State,63,63,36,47,0,Brandon Clarke Block.
+UNLV,San Jose State,63,63,36,50,0,Jaycee Hillsman Defensive Rebound.
+UNLV,San Jose State,63,66,37,11,1,Ryan Welage made Three Point Jumper. Assisted by Jaycee Hillsman.
+UNLV,San Jose State,63,66,37,27,0,UNLV  Timeout
+UNLV,San Jose State,63,66,37,34,0,Jovan Mooring missed Layup.
+UNLV,San Jose State,63,66,37,34,0,Isaiah Nichols Defensive Rebound.
+UNLV,San Jose State,63,66,37,46,0,San Jos St  Timeout
+UNLV,San Jose State,63,66,38,0,0,Terrell Brown missed Layup.
+UNLV,San Jose State,63,66,38,0,0,Brandon Clarke Offensive Rebound.
+UNLV,San Jose State,63,68,38,5,1,Brandon Clarke made Layup.
+UNLV,San Jose State,63,68,38,12,0,Foul on Brandon Clarke.
+UNLV,San Jose State,64,68,38,12,1,Jovan Mooring made Free Throw.
+UNLV,San Jose State,65,68,38,12,1,Jovan Mooring made Free Throw.
+UNLV,San Jose State,65,68,38,33,0,Jaycee Hillsman missed Layup.
+UNLV,San Jose State,65,68,38,33,0,Brandon Clarke Offensive Rebound.
+UNLV,San Jose State,65,70,38,37,1,Brandon Clarke made Layup.
+UNLV,San Jose State,68,70,38,49,1,Zion Morgan made Three Point Jumper. Assisted by Jovan Mooring.
+UNLV,San Jose State,68,73,39,12,1,Isaiah Nichols made Three Point Jumper.
+UNLV,San Jose State,68,73,39,21,0,Tyrell Green missed Three Point Jumper.
+UNLV,San Jose State,68,73,39,21,0,Terrell Brown Defensive Rebound.
+UNLV,San Jose State,68,73,39,32,0,Foul on Tyrell Green.
+UNLV,San Jose State,68,73,39,32,0,Terrell Brown missed Free Throw.
+UNLV,San Jose State,68,73,39,32,0,Christian Jones Defensive Rebound.
+UNLV,San Jose State,71,73,39,39,1,Jovan Mooring made Three Point Jumper.
+UNLV,San Jose State,71,73,39,39,0,UNLV  Timeout
+UNLV,San Jose State,71,73,39,39,0,San Jos St  Timeout
+UNLV,San Jose State,71,73,39,46,0,Foul on Jalen Poyser.
+UNLV,San Jose State,71,73,39,46,0,Terrell Brown missed Free Throw.
+UNLV,San Jose State,71,73,39,46,0,San Jos St Deadball Team Rebound.
+UNLV,San Jose State,71,74,39,46,1,Terrell Brown made Free Throw.
+UNLV,San Jose State,71,74,39,53,0,Foul on Terrell Brown.
+UNLV,San Jose State,71,74,39,53,0,Jovan Mooring missed Free Throw.
+UNLV,San Jose State,71,74,39,53,0,UNLV Deadball Team Rebound.
+UNLV,San Jose State,72,74,39,53,1,Jovan Mooring made Free Throw.
+UNLV,San Jose State,72,74,39,53,0,San Jos St  Timeout
+UNLV,San Jose State,72,74,39,54,0,Foul on Jovan Mooring.
+UNLV,San Jose State,72,75,39,54,1,Jaycee Hillsman made Free Throw.
+UNLV,San Jose State,72,76,39,54,1,Jaycee Hillsman made Free Throw.
+UNLV,San Jose State,72,76,39,59,0,Jovan Mooring missed Three Point Jumper.
+UNLV,San Jose State,72,76,39,59,0,Jaycee Hillsman Defensive Rebound.
+UNLV,San Jose State,72,76,40,0,0,End of Game

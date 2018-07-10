@@ -1,0 +1,346 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Washington,Seattle,0,0,0,16,0,Mike Anderson missed Three Point Jumper.
+Washington,Seattle,0,0,0,16,0,Jack Crook Defensive Rebound.
+Washington,Seattle,0,0,0,36,0,Jack Crook missed Jumper.
+Washington,Seattle,0,0,0,36,0,Shawn Kemp Jr. Defensive Rebound.
+Washington,Seattle,0,0,0,46,0,Andrew Andrews missed Three Point Jumper.
+Washington,Seattle,0,0,0,46,0,Isiah Umipig Defensive Rebound.
+Washington,Seattle,0,2,0,58,1,Jarell Flora made Jumper. Assisted by Isiah Umipig.
+Washington,Seattle,0,2,1,21,0,Nigel Williams-Goss missed Jumper.
+Washington,Seattle,0,2,1,21,0,Jarell Flora Defensive Rebound.
+Washington,Seattle,0,2,1,43,0,William Powell Turnover.
+Washington,Seattle,0,2,1,57,0,Jernard Jarreau Turnover.
+Washington,Seattle,0,2,1,58,0,Emmanuel Chibuogwu Steal.
+Washington,Seattle,0,2,2,13,0,Emmanuel Chibuogwu missed Three Point Jumper.
+Washington,Seattle,0,2,2,13,0,Mike Anderson Defensive Rebound.
+Washington,Seattle,0,2,2,23,0,Nigel Williams-Goss missed Layup.
+Washington,Seattle,0,2,2,23,0,Shawn Kemp Jr. Offensive Rebound.
+Washington,Seattle,0,2,2,26,0,Foul on Isiah Umipig.
+Washington,Seattle,0,2,2,26,0,Shawn Kemp Jr. missed Free Throw.
+Washington,Seattle,0,2,2,26,0,Washington Deadball Team Rebound.
+Washington,Seattle,1,2,2,26,1,Shawn Kemp Jr. made Free Throw.
+Washington,Seattle,1,2,2,48,0,Emmanuel Chibuogwu Turnover.
+Washington,Seattle,1,2,2,49,0,Mike Anderson Steal.
+Washington,Seattle,3,2,2,53,1,Jernard Jarreau made Jumper. Assisted by Mike Anderson.
+Washington,Seattle,3,2,3,10,0,Jack Crook missed Jumper.
+Washington,Seattle,3,2,3,10,0,Isiah Umipig Offensive Rebound.
+Washington,Seattle,3,2,3,15,0,Isiah Umipig missed Layup.
+Washington,Seattle,3,2,3,15,0,William Powell Offensive Rebound.
+Washington,Seattle,3,2,3,18,0,Foul on Jernard Jarreau.
+Washington,Seattle,3,2,3,18,0,William Powell missed Free Throw.
+Washington,Seattle,3,2,3,18,0,Seattle Deadball Team Rebound.
+Washington,Seattle,3,3,3,18,1,William Powell made Free Throw.
+Washington,Seattle,3,3,3,53,0,Andrew Andrews missed Three Point Jumper.
+Washington,Seattle,3,3,3,53,0,Jernard Jarreau Offensive Rebound.
+Washington,Seattle,5,3,3,56,1,Jernard Jarreau made Layup.
+Washington,Seattle,5,5,4,7,1,William Powell made Layup. Assisted by Isiah Umipig.
+Washington,Seattle,5,5,4,7,0,Foul on Shawn Kemp Jr..
+Washington,Seattle,5,5,4,7,0,Official TV Timeout
+Washington,Seattle,5,5,4,7,0,William Powell missed Free Throw.
+Washington,Seattle,5,5,4,7,0,Jack Crook Offensive Rebound.
+Washington,Seattle,5,7,4,15,1,Isiah Umipig made Jumper. Assisted by Jack Crook.
+Washington,Seattle,5,7,4,21,0,Nigel Williams-Goss Turnover.
+Washington,Seattle,5,7,4,23,0,Emerson Murray Steal.
+Washington,Seattle,5,7,4,27,0,Jarell Flora missed Three Point Jumper.
+Washington,Seattle,5,7,4,27,0,Washington Deadball Team Rebound.
+Washington,Seattle,5,7,4,29,0,Foul on William Powell.
+Washington,Seattle,5,7,4,54,0,Darin Johnson missed Jumper.
+Washington,Seattle,5,7,4,54,0,Jack Crook Defensive Rebound.
+Washington,Seattle,5,7,5,14,0,Jarell Flora missed Three Point Jumper.
+Washington,Seattle,5,7,5,14,0,Washington Defensive Rebound.
+Washington,Seattle,5,7,5,40,0,Foul on Jarell Flora.
+Washington,Seattle,5,7,5,46,0,Jernard Jarreau missed Jumper.
+Washington,Seattle,5,7,5,46,0,Isiah Umipig Defensive Rebound.
+Washington,Seattle,5,7,5,58,0,Foul on Jernard Jarreau.
+Washington,Seattle,5,9,6,1,1,Shore Adenekan made Layup. Assisted by Isiah Umipig.
+Washington,Seattle,5,9,6,22,0,Nigel Williams-Goss missed Three Point Jumper.
+Washington,Seattle,5,9,6,22,0,Washington Offensive Rebound.
+Washington,Seattle,5,9,6,44,0,Donaven Dorsey Turnover.
+Washington,Seattle,5,9,6,45,0,Jarell Flora Steal.
+Washington,Seattle,5,9,6,50,0,Emerson Murray missed Three Point Jumper.
+Washington,Seattle,5,9,6,50,0,Robert Upshaw Block.
+Washington,Seattle,5,9,6,50,0,Seattle Offensive Rebound.
+Washington,Seattle,5,9,7,9,0,Jarell Flora missed Three Point Jumper.
+Washington,Seattle,5,9,7,9,0,Donaven Dorsey Defensive Rebound.
+Washington,Seattle,5,9,7,17,0,Darin Johnson Turnover.
+Washington,Seattle,5,9,7,34,0,Isiah Umipig missed Three Point Jumper.
+Washington,Seattle,5,9,7,34,0,Darin Johnson Defensive Rebound.
+Washington,Seattle,5,9,7,50,0,Robert Upshaw missed Jumper.
+Washington,Seattle,5,9,7,50,0,Emerson Murray Defensive Rebound.
+Washington,Seattle,5,9,8,9,0,Jack Crook missed Layup.
+Washington,Seattle,5,9,8,9,0,Robert Upshaw Block.
+Washington,Seattle,5,9,8,11,0,Darin Johnson Defensive Rebound.
+Washington,Seattle,5,9,8,22,0,Robert Upshaw Turnover.
+Washington,Seattle,5,9,8,22,0,Official TV Timeout
+Washington,Seattle,5,9,8,51,0,Emerson Murray missed Three Point Jumper.
+Washington,Seattle,5,9,8,51,0,Robert Upshaw Defensive Rebound.
+Washington,Seattle,5,9,9,1,0,Andrew Andrews Turnover.
+Washington,Seattle,5,9,9,3,0,Isiah Umipig Steal.
+Washington,Seattle,5,9,9,26,0,William Powell missed Layup.
+Washington,Seattle,5,9,9,26,0,Donaven Dorsey Defensive Rebound.
+Washington,Seattle,8,9,9,32,1,Quevyn Winters made Three Point Jumper.
+Washington,Seattle,8,11,9,47,1,Isiah Umipig made Layup.
+Washington,Seattle,8,11,10,16,0,Donaven Dorsey missed Three Point Jumper.
+Washington,Seattle,8,11,10,16,0,William Powell Defensive Rebound.
+Washington,Seattle,8,11,10,39,0,Seattle  Timeout
+Washington,Seattle,8,11,10,47,0,Jadon Cohee Turnover.
+Washington,Seattle,11,11,10,57,1,Quevyn Winters made Three Point Jumper. Assisted by Andrew Andrews.
+Washington,Seattle,11,11,11,20,0,Emmanuel Chibuogwu Turnover.
+Washington,Seattle,11,11,11,40,0,Andrew Andrews Turnover.
+Washington,Seattle,11,11,11,41,0,Jadon Cohee Steal.
+Washington,Seattle,11,11,11,44,0,Foul on Andrew Andrews.
+Washington,Seattle,11,11,11,44,0,Jadon Cohee missed Free Throw.
+Washington,Seattle,11,11,11,44,0,Seattle Deadball Team Rebound.
+Washington,Seattle,11,12,11,44,1,Jadon Cohee made Free Throw.
+Washington,Seattle,11,12,11,59,0,Quevyn Winters missed Three Point Jumper.
+Washington,Seattle,11,12,11,59,0,Shore Adenekan Defensive Rebound.
+Washington,Seattle,11,12,12,11,0,Jadon Cohee missed Jumper.
+Washington,Seattle,11,12,12,11,0,Shore Adenekan Offensive Rebound.
+Washington,Seattle,11,14,12,25,1,Jarell Flora made Jumper.
+Washington,Seattle,11,14,12,41,0,Robert Upshaw missed Layup.
+Washington,Seattle,11,14,12,41,0,Jarell Flora Defensive Rebound.
+Washington,Seattle,11,17,12,46,1,Jadon Cohee made Three Point Jumper. Assisted by Jarell Flora.
+Washington,Seattle,11,17,12,52,0,Washington  Timeout
+Washington,Seattle,11,17,13,7,0,Andrew Andrews missed Three Point Jumper.
+Washington,Seattle,11,17,13,7,0,Jack Crook Defensive Rebound.
+Washington,Seattle,11,17,13,16,0,Jadon Cohee Turnover.
+Washington,Seattle,11,17,13,18,0,Nigel Williams-Goss Steal.
+Washington,Seattle,11,17,13,18,0,Official TV Timeout
+Washington,Seattle,11,17,13,24,0,Nigel Williams-Goss missed Three Point Jumper.
+Washington,Seattle,11,17,13,24,0,Seattle Deadball Team Rebound.
+Washington,Seattle,11,17,13,26,0,Foul on Donaven Dorsey.
+Washington,Seattle,11,17,13,36,0,William Powell missed Jumper.
+Washington,Seattle,11,17,13,36,0,Seattle Offensive Rebound.
+Washington,Seattle,11,17,13,56,0,Jadon Cohee missed Layup.
+Washington,Seattle,11,17,13,56,0,William Powell Offensive Rebound.
+Washington,Seattle,11,19,13,59,1,William Powell made Two Point Tip Shot.
+Washington,Seattle,11,19,14,9,0,Donaven Dorsey missed Three Point Jumper.
+Washington,Seattle,11,19,14,9,0,Jadon Cohee Defensive Rebound.
+Washington,Seattle,11,19,14,17,0,Foul on Jack Crook.
+Washington,Seattle,11,19,14,17,0,Jack Crook Turnover.
+Washington,Seattle,11,19,14,40,0,Nigel Williams-Goss missed Layup.
+Washington,Seattle,11,19,14,40,0,Shawn Kemp Jr. Offensive Rebound.
+Washington,Seattle,11,19,14,51,0,Mike Anderson missed Layup.
+Washington,Seattle,11,19,14,51,0,Jack Crook Defensive Rebound.
+Washington,Seattle,11,19,14,52,0,Foul on Shawn Kemp Jr..
+Washington,Seattle,11,19,15,7,0,Emmanuel Chibuogwu Turnover.
+Washington,Seattle,11,19,15,35,0,Quevyn Winters missed Jumper.
+Washington,Seattle,11,19,15,35,0,William Powell Defensive Rebound.
+Washington,Seattle,11,19,15,48,0,Jack Crook missed Jumper.
+Washington,Seattle,11,19,15,48,0,Andrew Andrews Defensive Rebound.
+Washington,Seattle,13,19,15,59,1,Nigel Williams-Goss made Layup.
+Washington,Seattle,13,19,16,16,0,Jack Crook Turnover.
+Washington,Seattle,13,19,16,17,0,Quevyn Winters Steal.
+Washington,Seattle,16,19,16,35,1,Quevyn Winters made Three Point Jumper. Assisted by Mike Anderson.
+Washington,Seattle,16,19,16,45,0,Seattle  Timeout
+Washington,Seattle,16,19,17,6,0,Isiah Umipig missed Jumper.
+Washington,Seattle,16,19,17,6,0,William Powell Offensive Rebound.
+Washington,Seattle,16,19,17,10,0,William Powell missed Layup.
+Washington,Seattle,16,19,17,10,0,Washington Defensive Rebound.
+Washington,Seattle,16,19,17,10,0,Official TV Timeout
+Washington,Seattle,16,19,17,28,0,Quevyn Winters missed Three Point Jumper.
+Washington,Seattle,16,19,17,28,0,Jarell Flora Defensive Rebound.
+Washington,Seattle,16,19,17,35,0,Jarell Flora missed Dunk.
+Washington,Seattle,16,19,17,35,0,Shore Adenekan Offensive Rebound.
+Washington,Seattle,16,19,17,40,0,Jarell Flora missed Three Point Jumper.
+Washington,Seattle,16,19,17,40,0,Quevyn Winters Defensive Rebound.
+Washington,Seattle,18,19,17,48,1,Shawn Kemp Jr. made Dunk. Assisted by Nigel Williams-Goss.
+Washington,Seattle,18,19,18,17,0,Jarell Flora missed Jumper.
+Washington,Seattle,18,19,18,17,0,Jarell Flora Offensive Rebound.
+Washington,Seattle,18,19,18,20,0,Jarell Flora missed Jumper.
+Washington,Seattle,18,19,18,20,0,Quevyn Winters Defensive Rebound.
+Washington,Seattle,18,19,18,42,0,Nigel Williams-Goss missed Three Point Jumper.
+Washington,Seattle,18,19,18,42,0,William Powell Defensive Rebound.
+Washington,Seattle,18,21,19,12,1,Shore Adenekan made Jumper. Assisted by William Powell.
+Washington,Seattle,18,21,19,34,0,Robert Upshaw missed Jumper.
+Washington,Seattle,18,21,19,34,0,Nigel Williams-Goss Offensive Rebound.
+Washington,Seattle,20,21,19,38,1,Nigel Williams-Goss made Layup.
+Washington,Seattle,20,21,19,58,0,Isiah Umipig missed Three Point Jumper.
+Washington,Seattle,20,21,19,58,0,Washington Deadball Team Rebound.
+Washington,Seattle,20,21,20,0,0,End of 1st half
+Washington,Seattle,20,21,20,16,0,William Powell Turnover.
+Washington,Seattle,20,21,20,18,0,Jernard Jarreau Steal.
+Washington,Seattle,20,21,20,46,0,Nigel Williams-Goss missed Jumper.
+Washington,Seattle,20,21,20,46,0,Mike Anderson Offensive Rebound.
+Washington,Seattle,23,21,21,0,1,Andrew Andrews made Three Point Jumper. Assisted by Nigel Williams-Goss.
+Washington,Seattle,23,21,21,17,0,Andrew Andrews Defensive Rebound.
+Washington,Seattle,23,21,21,17,0,William Powell missed Layup.
+Washington,Seattle,23,21,21,17,0,Shawn Kemp Jr. Block.
+Washington,Seattle,23,21,21,29,0,Mike Anderson Turnover.
+Washington,Seattle,23,21,21,30,0,Jack Crook Steal.
+Washington,Seattle,23,21,21,33,0,Isiah Umipig missed Three Point Jumper.
+Washington,Seattle,23,21,21,33,0,Shawn Kemp Jr. Defensive Rebound.
+Washington,Seattle,23,21,21,43,0,Mike Anderson missed Three Point Jumper.
+Washington,Seattle,23,21,21,43,0,Nigel Williams-Goss Offensive Rebound.
+Washington,Seattle,25,21,21,46,1,Nigel Williams-Goss made Layup.
+Washington,Seattle,25,21,21,58,0,Jack Crook missed Jumper.
+Washington,Seattle,25,21,21,58,0,Seattle Offensive Rebound.
+Washington,Seattle,25,21,22,3,0,Isiah Umipig missed Three Point Jumper.
+Washington,Seattle,25,21,22,3,0,Mike Anderson Block.
+Washington,Seattle,25,21,22,5,0,Jack Crook Offensive Rebound.
+Washington,Seattle,25,21,22,12,0,Jack Crook Turnover.
+Washington,Seattle,25,21,22,14,0,Mike Anderson Steal.
+Washington,Seattle,28,21,22,21,1,Andrew Andrews made Three Point Jumper. Assisted by Nigel Williams-Goss.
+Washington,Seattle,28,21,22,37,0,Seattle  Timeout
+Washington,Seattle,28,21,22,37,0,Official TV Timeout
+Washington,Seattle,28,21,22,49,0,Isiah Umipig missed Three Point Jumper.
+Washington,Seattle,28,21,22,49,0,Jack Crook Offensive Rebound.
+Washington,Seattle,28,21,22,52,0,Foul on Andrew Andrews.
+Washington,Seattle,28,21,22,52,0,Technical Foul on Jack Crook.
+Washington,Seattle,28,21,22,52,0,Foul on Jack Crook.
+Washington,Seattle,28,21,22,52,0,Technical Foul on Mike Anderson.
+Washington,Seattle,28,21,22,52,0,Foul on Mike Anderson.
+Washington,Seattle,28,23,22,54,1,Jarell Flora made Layup. Assisted by Emmanuel Chibuogwu.
+Washington,Seattle,28,23,23,8,0,Jernard Jarreau Turnover.
+Washington,Seattle,28,23,23,9,0,Jarell Flora Steal.
+Washington,Seattle,28,23,23,11,0,Isiah Umipig missed Layup.
+Washington,Seattle,28,23,23,11,0,Jernard Jarreau Block.
+Washington,Seattle,28,23,23,14,0,Andrew Andrews Defensive Rebound.
+Washington,Seattle,30,23,23,17,1,Shawn Kemp Jr. made Dunk. Assisted by Andrew Andrews.
+Washington,Seattle,30,25,23,35,1,Jarell Flora made Jumper.
+Washington,Seattle,33,25,23,55,1,Andrew Andrews made Three Point Jumper. Assisted by Nigel Williams-Goss.
+Washington,Seattle,33,25,24,19,0,Isiah Umipig Turnover.
+Washington,Seattle,33,25,24,19,0,Official TV Timeout
+Washington,Seattle,35,25,24,31,1,Shawn Kemp Jr. made Dunk. Assisted by Nigel Williams-Goss.
+Washington,Seattle,35,25,24,41,0,Isiah Umipig missed Three Point Jumper.
+Washington,Seattle,35,25,24,41,0,Shawn Kemp Jr. Defensive Rebound.
+Washington,Seattle,35,25,24,50,0,Andrew Andrews missed Three Point Jumper.
+Washington,Seattle,35,25,24,50,0,Washington Deadball Team Rebound.
+Washington,Seattle,37,25,25,13,1,Shawn Kemp Jr. made Dunk. Assisted by Mike Anderson.
+Washington,Seattle,37,25,25,30,0,Jarell Flora missed Jumper.
+Washington,Seattle,37,25,25,30,0,Shawn Kemp Jr. Defensive Rebound.
+Washington,Seattle,37,25,25,37,0,Foul on Jarell Flora.
+Washington,Seattle,38,25,25,37,1,Andrew Andrews made Free Throw.
+Washington,Seattle,39,25,25,37,1,Andrew Andrews made Free Throw.
+Washington,Seattle,39,25,25,57,0,Foul on Jernard Jarreau.
+Washington,Seattle,39,25,25,58,0,Foul on Jernard Jarreau.
+Washington,Seattle,39,25,26,0,0,Deshaun Sunderhaus missed Jumper.
+Washington,Seattle,39,25,26,0,0,Robert Upshaw Defensive Rebound.
+Washington,Seattle,39,25,26,18,0,Quevyn Winters Turnover.
+Washington,Seattle,39,25,26,19,0,Isiah Umipig Steal.
+Washington,Seattle,39,27,26,21,1,Jadon Cohee made Dunk. Assisted by Isiah Umipig.
+Washington,Seattle,39,27,26,50,0,Robert Upshaw missed Jumper.
+Washington,Seattle,39,27,26,50,0,Robert Upshaw Offensive Rebound.
+Washington,Seattle,41,27,26,54,1,Robert Upshaw made Jumper.
+Washington,Seattle,41,27,27,5,0,Jadon Cohee missed Jumper.
+Washington,Seattle,41,27,27,5,0,Deshaun Sunderhaus Offensive Rebound.
+Washington,Seattle,41,27,27,10,0,Deshaun Sunderhaus missed Layup.
+Washington,Seattle,41,27,27,10,0,Deshaun Sunderhaus Offensive Rebound.
+Washington,Seattle,41,30,27,18,1,Isiah Umipig made Three Point Jumper.
+Washington,Seattle,41,30,27,37,0,Foul on Isiah Umipig.
+Washington,Seattle,42,30,27,37,1,Nigel Williams-Goss made Free Throw.
+Washington,Seattle,43,30,27,37,1,Nigel Williams-Goss made Free Throw.
+Washington,Seattle,43,30,27,51,0,Deshaun Sunderhaus missed Layup.
+Washington,Seattle,43,30,27,51,0,Robert Upshaw Block.
+Washington,Seattle,43,30,27,53,0,Mike Anderson Defensive Rebound.
+Washington,Seattle,43,30,27,57,0,Quevyn Winters missed Three Point Jumper.
+Washington,Seattle,43,30,27,57,0,Jarell Flora Defensive Rebound.
+Washington,Seattle,43,30,28,2,0,Jarell Flora missed Layup.
+Washington,Seattle,43,30,28,2,0,Mike Anderson Defensive Rebound.
+Washington,Seattle,45,30,28,18,1,Robert Upshaw made Dunk. Assisted by Mike Anderson.
+Washington,Seattle,45,30,28,40,0,Jarell Flora missed Three Point Jumper.
+Washington,Seattle,45,30,28,40,0,Deshaun Sunderhaus Offensive Rebound.
+Washington,Seattle,45,32,28,43,1,Deshaun Sunderhaus made Layup.
+Washington,Seattle,45,32,29,15,0,Shawn Kemp Jr. missed Jumper.
+Washington,Seattle,45,32,29,15,0,Emerson Murray Defensive Rebound.
+Washington,Seattle,45,32,29,30,0,Official TV Timeout
+Washington,Seattle,45,32,29,42,0,Emerson Murray missed Jumper.
+Washington,Seattle,45,32,29,42,0,Shore Adenekan Offensive Rebound.
+Washington,Seattle,45,32,29,46,0,Shore Adenekan missed Layup.
+Washington,Seattle,45,32,29,46,0,Robert Upshaw Defensive Rebound.
+Washington,Seattle,48,32,30,1,1,Quevyn Winters made Three Point Jumper. Assisted by Robert Upshaw.
+Washington,Seattle,48,34,30,16,1,Jadon Cohee made Jumper.
+Washington,Seattle,48,34,30,35,0,Quevyn Winters missed Three Point Jumper.
+Washington,Seattle,48,34,30,35,0,Mike Anderson Offensive Rebound.
+Washington,Seattle,48,34,30,43,0,Quevyn Winters missed Layup.
+Washington,Seattle,48,34,30,43,0,Jadon Cohee Defensive Rebound.
+Washington,Seattle,48,36,30,52,1,Emmanuel Chibuogwu made Layup.
+Washington,Seattle,51,36,31,23,1,Mike Anderson made Three Point Jumper. Assisted by Nigel Williams-Goss.
+Washington,Seattle,51,38,31,39,1,Jack Crook made Layup.
+Washington,Seattle,51,38,31,39,0,Foul on Quevyn Winters.
+Washington,Seattle,51,39,31,39,1,Jack Crook made Free Throw.
+Washington,Seattle,51,39,31,48,0,Nigel Williams-Goss missed Jumper.
+Washington,Seattle,51,39,31,48,0,Isiah Umipig Defensive Rebound.
+Washington,Seattle,51,39,32,0,0,Emmanuel Chibuogwu Turnover.
+Washington,Seattle,51,39,32,1,0,Nigel Williams-Goss Steal.
+Washington,Seattle,53,39,32,16,1,Shawn Kemp Jr. made Layup. Assisted by Jernard Jarreau.
+Washington,Seattle,53,39,32,37,0,Jadon Cohee missed Jumper.
+Washington,Seattle,53,39,32,37,0,Jernard Jarreau Defensive Rebound.
+Washington,Seattle,53,39,32,50,0,Mike Anderson missed Three Point Jumper.
+Washington,Seattle,53,39,32,50,0,Jadon Cohee Defensive Rebound.
+Washington,Seattle,53,39,33,5,0,Isiah Umipig missed Jumper.
+Washington,Seattle,53,39,33,5,0,Jack Crook Offensive Rebound.
+Washington,Seattle,53,41,33,9,1,Jack Crook made Two Point Tip Shot.
+Washington,Seattle,53,41,33,27,0,Shawn Kemp Jr. missed Jumper.
+Washington,Seattle,53,41,33,27,0,Shore Adenekan Defensive Rebound.
+Washington,Seattle,53,41,33,52,0,Isiah Umipig missed Three Point Jumper.
+Washington,Seattle,53,41,33,52,0,Jernard Jarreau Defensive Rebound.
+Washington,Seattle,53,41,34,14,0,Quevyn Winters Turnover.
+Washington,Seattle,53,41,34,15,0,Jack Crook Steal.
+Washington,Seattle,53,44,34,17,1,Isiah Umipig made Three Point Jumper.
+Washington,Seattle,53,44,34,44,0,Quevyn Winters missed Three Point Jumper.
+Washington,Seattle,53,44,34,44,0,Jack Crook Defensive Rebound.
+Washington,Seattle,53,44,35,7,0,Seattle  Timeout
+Washington,Seattle,53,44,35,13,0,Jarell Flora missed Jumper.
+Washington,Seattle,53,44,35,13,0,William Powell Offensive Rebound.
+Washington,Seattle,53,44,35,15,0,Foul on Andrew Andrews.
+Washington,Seattle,53,44,35,15,0,Official TV Timeout
+Washington,Seattle,53,45,35,15,1,William Powell made Free Throw.
+Washington,Seattle,53,46,35,15,1,William Powell made Free Throw.
+Washington,Seattle,53,46,35,30,0,Foul on Isiah Umipig.
+Washington,Seattle,53,46,35,51,0,Shawn Kemp Jr. missed Layup.
+Washington,Seattle,53,46,35,51,0,Deshaun Sunderhaus Block.
+Washington,Seattle,53,46,35,53,0,Washington Offensive Rebound.
+Washington,Seattle,53,46,36,3,0,Andrew Andrews missed Three Point Jumper.
+Washington,Seattle,53,46,36,3,0,Jarell Flora Defensive Rebound.
+Washington,Seattle,53,46,36,24,0,William Powell missed Layup.
+Washington,Seattle,53,46,36,24,0,William Powell Offensive Rebound.
+Washington,Seattle,53,46,36,27,0,Isiah Umipig missed Three Point Jumper.
+Washington,Seattle,53,46,36,27,0,Andrew Andrews Defensive Rebound.
+Washington,Seattle,53,46,36,48,0,Foul on Deshaun Sunderhaus.
+Washington,Seattle,53,46,36,48,0,Official TV Timeout
+Washington,Seattle,53,46,36,48,0,Shawn Kemp Jr. missed Free Throw.
+Washington,Seattle,53,46,36,48,0,Washington Deadball Team Rebound.
+Washington,Seattle,54,46,36,48,1,Shawn Kemp Jr. made Free Throw.
+Washington,Seattle,54,48,37,7,1,Jadon Cohee made Jumper.
+Washington,Seattle,56,48,37,26,1,Nigel Williams-Goss made Jumper.
+Washington,Seattle,56,48,37,38,0,Isiah Umipig missed Jumper.
+Washington,Seattle,56,48,37,38,0,Mike Anderson Defensive Rebound.
+Washington,Seattle,56,48,37,52,0,Foul on Jack Crook.
+Washington,Seattle,56,48,38,16,0,Washington  Timeout
+Washington,Seattle,56,48,38,16,0,Washington  Timeout
+Washington,Seattle,56,48,38,27,0,Nigel Williams-Goss missed Layup.
+Washington,Seattle,56,48,38,27,0,Shawn Kemp Jr. Offensive Rebound.
+Washington,Seattle,56,48,38,27,0,Shawn Kemp Jr. missed Layup.
+Washington,Seattle,56,48,38,27,0,Seattle Deadball Team Rebound.
+Washington,Seattle,56,48,38,37,0,Isiah Umipig missed Three Point Jumper.
+Washington,Seattle,56,48,38,37,0,Seattle Deadball Team Rebound.
+Washington,Seattle,56,48,38,39,0,Foul on Andrew Andrews.
+Washington,Seattle,56,48,38,39,0,William Powell missed Free Throw.
+Washington,Seattle,56,48,38,39,0,Robert Upshaw Defensive Rebound.
+Washington,Seattle,56,48,38,39,0,Foul on Jack Crook.
+Washington,Seattle,57,48,38,39,1,Robert Upshaw made Free Throw.
+Washington,Seattle,57,48,38,39,0,Robert Upshaw missed Free Throw.
+Washington,Seattle,57,48,38,39,0,Mike Anderson Offensive Rebound.
+Washington,Seattle,57,48,38,46,0,Foul on Jarell Flora.
+Washington,Seattle,58,48,38,46,1,Nigel Williams-Goss made Free Throw.
+Washington,Seattle,58,48,38,46,0,Nigel Williams-Goss missed Free Throw.
+Washington,Seattle,58,48,38,46,0,William Powell Defensive Rebound.
+Washington,Seattle,58,48,38,57,0,Isiah Umipig missed Layup.
+Washington,Seattle,58,48,38,57,0,Shawn Kemp Jr. Block.
+Washington,Seattle,58,48,38,58,0,Seattle Offensive Rebound.
+Washington,Seattle,58,48,39,1,0,Jarell Flora missed Three Point Jumper.
+Washington,Seattle,58,48,39,1,0,Robert Upshaw Defensive Rebound.
+Washington,Seattle,58,48,39,5,0,Foul on Jadon Cohee.
+Washington,Seattle,59,48,39,5,1,Robert Upshaw made Free Throw.
+Washington,Seattle,60,48,39,5,1,Robert Upshaw made Free Throw.
+Washington,Seattle,60,48,39,12,0,Isiah Umipig Turnover.
+Washington,Seattle,60,48,39,13,0,Andrew Andrews Steal.
+Washington,Seattle,60,48,39,16,0,Foul on Jack Crook.
+Washington,Seattle,60,48,39,16,0,Mike Anderson missed Free Throw.
+Washington,Seattle,60,48,39,16,0,Washington Deadball Team Rebound.
+Washington,Seattle,61,48,39,16,1,Mike Anderson made Free Throw.
+Washington,Seattle,61,48,39,23,0,Shore Adenekan missed Layup.
+Washington,Seattle,61,48,39,23,0,Robert Upshaw Defensive Rebound.
+Washington,Seattle,63,48,39,57,1,Robert Upshaw made Dunk. Assisted by Andrew Andrews.
+Washington,Seattle,63,48,40,0,0,End of Game

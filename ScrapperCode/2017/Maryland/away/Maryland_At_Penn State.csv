@@ -1,0 +1,373 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Maryland,Penn State,0,0,0,0,0,Jump Ball won by Penn State
+Maryland,Penn State,0,0,0,12,0,Lamar Stevens missed Jumper.
+Maryland,Penn State,0,0,0,12,0,Justin Jackson Defensive Rebound.
+Maryland,Penn State,0,0,0,31,0,Anthony Cowan missed Jumper.
+Maryland,Penn State,0,0,0,31,0,Mike Watkins Block.
+Maryland,Penn State,0,0,0,31,0,Maryland Offensive Rebound.
+Maryland,Penn State,0,0,0,40,0,Melo Trimble missed Three Point Jumper.
+Maryland,Penn State,0,0,0,40,0,Justin Jackson Offensive Rebound.
+Maryland,Penn State,0,0,0,47,0,Justin Jackson missed Layup.
+Maryland,Penn State,0,0,0,47,0,Mike Watkins Block.
+Maryland,Penn State,0,0,0,48,0,Mike Watkins Defensive Rebound.
+Maryland,Penn State,0,0,1,0,0,Mike Watkins missed Jumper.
+Maryland,Penn State,0,0,1,0,0,Mike Watkins Offensive Rebound.
+Maryland,Penn State,0,2,1,4,1,Lamar Stevens made Jumper.
+Maryland,Penn State,2,2,1,17,1,Melo Trimble made Layup.
+Maryland,Penn State,2,2,1,17,0,Foul on Mike Watkins.
+Maryland,Penn State,3,2,1,17,1,Melo Trimble made Free Throw.
+Maryland,Penn State,3,2,1,36,0,Foul on Damonte Dodd.
+Maryland,Penn State,3,3,1,36,1,Mike Watkins made Free Throw.
+Maryland,Penn State,3,4,1,36,1,Mike Watkins made Free Throw.
+Maryland,Penn State,3,4,1,50,0,Justin Jackson Turnover.
+Maryland,Penn State,3,6,1,58,1,Tony Carr made Jumper. Assisted by Josh Reaves.
+Maryland,Penn State,3,6,2,17,0,Justin Jackson missed Layup.
+Maryland,Penn State,3,6,2,17,0,Mike Watkins Block.
+Maryland,Penn State,3,6,2,17,0,Mike Watkins Defensive Rebound.
+Maryland,Penn State,3,6,2,32,0,Shep Garner missed Three Point Jumper.
+Maryland,Penn State,3,6,2,32,0,Justin Jackson Defensive Rebound.
+Maryland,Penn State,3,6,2,52,0,Melo Trimble missed Jumper.
+Maryland,Penn State,3,6,2,52,0,Mike Watkins Defensive Rebound.
+Maryland,Penn State,3,8,3,3,1,Lamar Stevens made Jumper.
+Maryland,Penn State,3,8,3,18,0,Justin Jackson Turnover.
+Maryland,Penn State,3,8,3,18,0,Lamar Stevens Steal.
+Maryland,Penn State,3,8,3,37,0,Josh Reaves missed Jumper.
+Maryland,Penn State,3,8,3,37,0,Kevin Huerter Defensive Rebound.
+Maryland,Penn State,5,8,3,43,1,Melo Trimble made Layup.
+Maryland,Penn State,5,8,4,1,0,Lamar Stevens Turnover.
+Maryland,Penn State,5,8,4,1,0,Melo Trimble Steal.
+Maryland,Penn State,5,8,4,32,0,Official TV Timeout
+Maryland,Penn State,5,8,4,37,0,Michal Cekovsky missed Layup.
+Maryland,Penn State,5,8,4,37,0,Julian Moore Defensive Rebound.
+Maryland,Penn State,5,8,4,50,0,Shep Garner missed Three Point Jumper.
+Maryland,Penn State,5,8,4,50,0,Michal Cekovsky Defensive Rebound.
+Maryland,Penn State,5,8,5,10,0,Michal Cekovsky Turnover.
+Maryland,Penn State,5,8,5,21,0,Foul on Julian Moore.
+Maryland,Penn State,5,8,5,21,0,Julian Moore Turnover.
+Maryland,Penn State,5,8,5,33,0,Justin Jackson missed Three Point Jumper.
+Maryland,Penn State,5,8,5,33,0,Tony Carr Defensive Rebound.
+Maryland,Penn State,5,10,5,45,1,Julian Moore made Jumper.
+Maryland,Penn State,7,10,6,0,1,Ivan Bender made Layup. Assisted by Jared Nickens.
+Maryland,Penn State,7,10,6,25,0,Payton Banks missed Three Point Jumper.
+Maryland,Penn State,7,10,6,25,0,Justin Jackson Defensive Rebound.
+Maryland,Penn State,7,10,6,37,0,Ivan Bender Turnover.
+Maryland,Penn State,7,10,6,37,0,Julian Moore Steal.
+Maryland,Penn State,7,10,6,42,0,Shep Garner missed Layup.
+Maryland,Penn State,7,10,6,42,0,Ivan Bender Defensive Rebound.
+Maryland,Penn State,10,10,6,50,1,Melo Trimble made Three Point Jumper. Assisted by Jaylen Brantley.
+Maryland,Penn State,10,10,7,8,0,Foul on Ivan Bender.
+Maryland,Penn State,10,11,7,8,1,Julian Moore made Free Throw.
+Maryland,Penn State,10,12,7,8,1,Julian Moore made Free Throw.
+Maryland,Penn State,10,12,7,18,0,Jared Nickens missed Three Point Jumper.
+Maryland,Penn State,10,12,7,18,0,L.G. Gill Offensive Rebound.
+Maryland,Penn State,10,12,7,18,0,Foul on Payton Banks.
+Maryland,Penn State,10,12,7,35,0,Ivan Bender missed Layup.
+Maryland,Penn State,10,12,7,35,0,L.G. Gill Offensive Rebound.
+Maryland,Penn State,10,12,7,36,0,Foul on Julian Moore.
+Maryland,Penn State,10,12,7,36,0,L.G. Gill missed Free Throw.
+Maryland,Penn State,10,12,7,36,0,Maryland Deadball Team Rebound.
+Maryland,Penn State,11,12,7,36,1,L.G. Gill made Free Throw.
+Maryland,Penn State,11,14,7,54,1,Tony Carr made Jumper.
+Maryland,Penn State,11,14,8,20,0,Foul on Josh Reaves.
+Maryland,Penn State,11,14,8,20,0,Official TV Timeout
+Maryland,Penn State,11,14,8,35,0,L.G. Gill missed Jumper.
+Maryland,Penn State,11,14,8,35,0,Maryland Offensive Rebound.
+Maryland,Penn State,11,14,8,59,0,Jared Nickens missed Three Point Jumper.
+Maryland,Penn State,11,14,8,59,0,Shep Garner Defensive Rebound.
+Maryland,Penn State,11,16,9,28,1,Lamar Stevens made Jumper.
+Maryland,Penn State,11,16,9,39,0,Kevin Huerter missed Three Point Jumper.
+Maryland,Penn State,11,16,9,39,0,Damonte Dodd Offensive Rebound.
+Maryland,Penn State,13,16,9,59,1,Jared Nickens made Jumper.
+Maryland,Penn State,13,19,10,24,1,Lamar Stevens made Three Point Jumper. Assisted by Nazeer Bostick.
+Maryland,Penn State,13,19,10,45,0,Kevin Huerter Turnover.
+Maryland,Penn State,13,19,11,6,0,Tony Carr missed Jumper.
+Maryland,Penn State,13,19,11,6,0,Tony Carr Offensive Rebound.
+Maryland,Penn State,13,19,11,17,0,Shep Garner missed Jumper.
+Maryland,Penn State,13,19,11,17,0,Justin Jackson Defensive Rebound.
+Maryland,Penn State,13,19,11,25,0,Foul on Tony Carr.
+Maryland,Penn State,16,19,11,30,1,Kevin Huerter made Three Point Jumper. Assisted by Melo Trimble.
+Maryland,Penn State,16,21,11,46,1,Josh Reaves made Jumper.
+Maryland,Penn State,16,21,12,10,0,Anthony Cowan Turnover.
+Maryland,Penn State,16,21,12,10,0,Tony Carr Steal.
+Maryland,Penn State,16,21,12,17,0,Foul on Damonte Dodd.
+Maryland,Penn State,16,21,12,17,0,Official TV Timeout
+Maryland,Penn State,16,22,12,17,1,Mike Watkins made Free Throw.
+Maryland,Penn State,16,23,12,17,1,Mike Watkins made Free Throw.
+Maryland,Penn State,18,23,12,34,1,Michal Cekovsky made Layup. Assisted by Kevin Huerter.
+Maryland,Penn State,18,23,12,34,0,Foul on Deividas Zemgulis.
+Maryland,Penn State,19,23,12,34,1,Michal Cekovsky made Free Throw.
+Maryland,Penn State,19,23,12,57,0,Mike Watkins missed Jumper.
+Maryland,Penn State,19,23,12,57,0,Deividas Zemgulis Offensive Rebound.
+Maryland,Penn State,19,23,13,3,0,Deividas Zemgulis Turnover.
+Maryland,Penn State,19,23,13,3,0,Kevin Huerter Steal.
+Maryland,Penn State,19,23,13,24,0,Melo Trimble Turnover.
+Maryland,Penn State,19,23,13,44,0,Foul on Michal Cekovsky.
+Maryland,Penn State,19,24,13,44,1,Mike Watkins made Free Throw.
+Maryland,Penn State,19,25,13,44,1,Mike Watkins made Free Throw.
+Maryland,Penn State,19,25,13,55,0,Anthony Cowan missed Jumper.
+Maryland,Penn State,19,25,13,55,0,Michal Cekovsky Offensive Rebound.
+Maryland,Penn State,19,25,13,59,0,Foul on Shep Garner.
+Maryland,Penn State,20,25,13,59,1,Michal Cekovsky made Free Throw.
+Maryland,Penn State,20,25,13,59,0,Michal Cekovsky missed Free Throw.
+Maryland,Penn State,20,25,13,59,0,Mike Watkins Defensive Rebound.
+Maryland,Penn State,20,25,13,59,0,Foul on Justin Jackson.
+Maryland,Penn State,20,25,14,7,0,Lamar Stevens missed Jumper.
+Maryland,Penn State,20,25,14,7,0,Justin Jackson Block.
+Maryland,Penn State,20,25,14,7,0,Anthony Cowan Defensive Rebound.
+Maryland,Penn State,20,25,14,16,0,Melo Trimble missed Three Point Jumper.
+Maryland,Penn State,20,25,14,16,0,Lamar Stevens Defensive Rebound.
+Maryland,Penn State,20,28,14,20,1,Shep Garner made Three Point Jumper. Assisted by Tony Carr.
+Maryland,Penn State,20,28,14,41,0,Kevin Huerter missed Three Point Jumper.
+Maryland,Penn State,20,28,14,41,0,Tony Carr Defensive Rebound.
+Maryland,Penn State,20,28,14,51,0,Tony Carr missed Layup.
+Maryland,Penn State,20,28,14,51,0,Michal Cekovsky Block.
+Maryland,Penn State,20,28,14,51,0,Kevin Huerter Defensive Rebound.
+Maryland,Penn State,22,28,14,58,1,Melo Trimble made Layup. Assisted by Kevin Huerter.
+Maryland,Penn State,22,28,15,34,0,Foul on Kevin Huerter.
+Maryland,Penn State,22,28,15,41,0,Payton Banks missed Three Point Jumper.
+Maryland,Penn State,22,28,15,41,0,Maryland Defensive Rebound.
+Maryland,Penn State,22,28,16,2,0,Foul on Shep Garner.
+Maryland,Penn State,22,28,16,2,0,Official TV Timeout
+Maryland,Penn State,23,28,16,2,1,Ivan Bender made Free Throw.
+Maryland,Penn State,24,28,16,2,1,Ivan Bender made Free Throw.
+Maryland,Penn State,24,30,16,13,1,Tony Carr made Jumper.
+Maryland,Penn State,24,30,16,38,0,Anthony Cowan missed Layup.
+Maryland,Penn State,24,30,16,38,0,Anthony Cowan Offensive Rebound.
+Maryland,Penn State,24,30,16,44,0,Jaylen Brantley missed Three Point Jumper.
+Maryland,Penn State,24,30,16,44,0,Justin Jackson Offensive Rebound.
+Maryland,Penn State,24,30,16,44,0,Justin Jackson Turnover.
+Maryland,Penn State,24,30,16,52,0,Foul on Melo Trimble.
+Maryland,Penn State,24,31,16,52,1,Tony Carr made Free Throw.
+Maryland,Penn State,24,31,16,52,0,Tony Carr missed Free Throw.
+Maryland,Penn State,24,31,16,52,0,Jaylen Brantley Defensive Rebound.
+Maryland,Penn State,24,31,17,11,0,Foul on Mike Watkins.
+Maryland,Penn State,24,31,17,11,0,Michal Cekovsky missed Free Throw.
+Maryland,Penn State,24,31,17,11,0,Maryland Deadball Team Rebound.
+Maryland,Penn State,25,31,17,11,1,Michal Cekovsky made Free Throw.
+Maryland,Penn State,25,31,17,25,0,Foul on Michal Cekovsky.
+Maryland,Penn State,25,31,17,25,0,Julian Moore missed Free Throw.
+Maryland,Penn State,25,31,17,25,0,Penn State Deadball Team Rebound.
+Maryland,Penn State,25,32,17,25,1,Julian Moore made Free Throw.
+Maryland,Penn State,27,32,17,41,1,Kevin Huerter made Jumper.
+Maryland,Penn State,27,32,17,57,0,Payton Banks missed Three Point Jumper.
+Maryland,Penn State,27,32,17,57,0,Tony Carr Offensive Rebound.
+Maryland,Penn State,27,32,18,9,0,Foul on Melo Trimble.
+Maryland,Penn State,27,33,18,9,1,Julian Moore made Free Throw.
+Maryland,Penn State,27,34,18,9,1,Julian Moore made Free Throw.
+Maryland,Penn State,27,34,18,21,0,Justin Jackson missed Three Point Jumper.
+Maryland,Penn State,27,34,18,21,0,Tony Carr Defensive Rebound.
+Maryland,Penn State,27,34,18,44,0,Tony Carr missed Three Point Jumper.
+Maryland,Penn State,27,34,18,44,0,Melo Trimble Defensive Rebound.
+Maryland,Penn State,29,34,18,54,1,Ivan Bender made Layup. Assisted by Melo Trimble.
+Maryland,Penn State,29,34,18,57,0,Maryland  Timeout
+Maryland,Penn State,29,34,19,18,0,Lamar Stevens missed Three Point Jumper.
+Maryland,Penn State,29,34,19,18,0,Kevin Huerter Defensive Rebound.
+Maryland,Penn State,29,34,19,38,0,Jaylen Brantley missed Three Point Jumper.
+Maryland,Penn State,29,34,19,38,0,Nazeer Bostick Defensive Rebound.
+Maryland,Penn State,29,34,19,43,0,Penn State  Timeout
+Maryland,Penn State,29,34,19,58,0,Foul on Jaylen Brantley.
+Maryland,Penn State,29,34,19,58,0,Tony Carr missed Free Throw.
+Maryland,Penn State,29,34,19,58,0,Penn State Deadball Team Rebound.
+Maryland,Penn State,29,35,19,58,1,Tony Carr made Free Throw.
+Maryland,Penn State,29,35,19,59,0,Kevin Huerter Turnover.
+Maryland,Penn State,29,35,19,59,0,Lamar Stevens Steal.
+Maryland,Penn State,29,35,20,0,0,End of 1st half
+Maryland,Penn State,29,35,20,0,0,Jump Ball won by Maryland
+Maryland,Penn State,29,35,20,18,0,Kevin Huerter Turnover.
+Maryland,Penn State,29,35,20,18,0,Lamar Stevens Steal.
+Maryland,Penn State,29,35,20,24,0,Foul on Anthony Cowan.
+Maryland,Penn State,29,35,20,24,0,Lamar Stevens missed Free Throw.
+Maryland,Penn State,29,35,20,24,0,Penn State Deadball Team Rebound.
+Maryland,Penn State,29,36,20,24,1,Lamar Stevens made Free Throw.
+Maryland,Penn State,29,36,20,47,0,Anthony Cowan missed Three Point Jumper.
+Maryland,Penn State,29,36,20,47,0,Josh Reaves Defensive Rebound.
+Maryland,Penn State,29,36,20,56,0,Shep Garner missed Three Point Jumper.
+Maryland,Penn State,29,36,20,56,0,Damonte Dodd Defensive Rebound.
+Maryland,Penn State,29,36,21,0,0,Foul on Mike Watkins.
+Maryland,Penn State,29,36,21,18,0,Foul on Julian Moore.
+Maryland,Penn State,29,36,21,49,0,Maryland  Turnover.
+Maryland,Penn State,29,36,22,0,0,Lamar Stevens missed Three Point Jumper.
+Maryland,Penn State,29,36,22,0,0,Penn State Offensive Rebound.
+Maryland,Penn State,29,36,22,26,0,Josh Reaves missed Three Point Jumper.
+Maryland,Penn State,29,36,22,26,0,Lamar Stevens Offensive Rebound.
+Maryland,Penn State,29,36,22,46,0,Tony Carr missed Jumper.
+Maryland,Penn State,29,36,22,46,0,Melo Trimble Defensive Rebound.
+Maryland,Penn State,29,36,22,46,0,Foul on Tony Carr.
+Maryland,Penn State,29,36,22,59,0,Damonte Dodd missed Layup.
+Maryland,Penn State,29,36,22,59,0,Josh Reaves Block.
+Maryland,Penn State,29,36,22,59,0,Damonte Dodd Offensive Rebound.
+Maryland,Penn State,29,36,22,59,0,Foul on Lamar Stevens.
+Maryland,Penn State,30,36,22,59,1,Damonte Dodd made Free Throw.
+Maryland,Penn State,31,36,22,59,1,Damonte Dodd made Free Throw.
+Maryland,Penn State,31,36,23,15,0,Payton Banks Turnover.
+Maryland,Penn State,31,36,23,15,0,Melo Trimble Steal.
+Maryland,Penn State,31,36,23,22,0,Jaylen Brantley missed Layup.
+Maryland,Penn State,31,36,23,22,0,Julian Moore Defensive Rebound.
+Maryland,Penn State,31,38,23,29,1,Lamar Stevens made Jumper.
+Maryland,Penn State,31,38,23,51,0,Foul on Lamar Stevens.
+Maryland,Penn State,31,38,23,51,0,Damonte Dodd missed Free Throw.
+Maryland,Penn State,31,38,23,51,0,Maryland Deadball Team Rebound.
+Maryland,Penn State,31,38,23,51,0,Damonte Dodd missed Free Throw.
+Maryland,Penn State,31,38,23,51,0,Tony Carr Defensive Rebound.
+Maryland,Penn State,31,38,24,8,0,Shep Garner missed Three Point Jumper.
+Maryland,Penn State,31,38,24,8,0,Lamar Stevens Offensive Rebound.
+Maryland,Penn State,31,40,24,11,1,Lamar Stevens made Layup.
+Maryland,Penn State,31,40,24,27,0,Justin Jackson missed Three Point Jumper.
+Maryland,Penn State,31,40,24,27,0,Shep Garner Defensive Rebound.
+Maryland,Penn State,31,40,24,44,0,Foul on Damonte Dodd.
+Maryland,Penn State,31,40,24,44,0,Official TV Timeout
+Maryland,Penn State,31,42,24,46,1,Lamar Stevens made Dunk. Assisted by Tony Carr.
+Maryland,Penn State,31,42,25,8,0,Melo Trimble missed Jumper.
+Maryland,Penn State,31,42,25,8,0,Shep Garner Defensive Rebound.
+Maryland,Penn State,31,44,25,25,1,Tony Carr made Jumper.
+Maryland,Penn State,31,44,25,33,0,Maryland  Timeout
+Maryland,Penn State,31,44,25,39,0,Foul on Deividas Zemgulis.
+Maryland,Penn State,31,44,25,49,0,Foul on Julian Moore.
+Maryland,Penn State,32,44,25,49,1,Anthony Cowan made Free Throw.
+Maryland,Penn State,33,44,25,49,1,Anthony Cowan made Free Throw.
+Maryland,Penn State,33,44,26,14,0,Josh Reaves Turnover.
+Maryland,Penn State,35,44,26,36,1,L.G. Gill made Jumper. Assisted by Kevin Huerter.
+Maryland,Penn State,35,46,27,3,1,Tony Carr made Jumper.
+Maryland,Penn State,35,46,27,21,0,Foul on Deividas Zemgulis.
+Maryland,Penn State,35,46,27,21,0,Michal Cekovsky missed Free Throw.
+Maryland,Penn State,35,46,27,21,0,Lamar Stevens Defensive Rebound.
+Maryland,Penn State,35,46,27,26,0,Payton Banks missed Three Point Jumper.
+Maryland,Penn State,35,46,27,26,0,Michal Cekovsky Defensive Rebound.
+Maryland,Penn State,35,46,27,46,0,L.G. Gill missed Three Point Jumper.
+Maryland,Penn State,35,46,27,46,0,Mike Watkins Defensive Rebound.
+Maryland,Penn State,35,46,27,53,0,Foul on Michal Cekovsky.
+Maryland,Penn State,35,46,28,6,0,Josh Reaves Turnover.
+Maryland,Penn State,35,46,28,6,0,Kevin Huerter Steal.
+Maryland,Penn State,38,46,28,16,1,Kevin Huerter made Three Point Jumper. Assisted by Anthony Cowan.
+Maryland,Penn State,38,46,28,30,0,Penn State  Timeout
+Maryland,Penn State,38,48,28,47,1,Mike Watkins made Dunk. Assisted by Lamar Stevens.
+Maryland,Penn State,38,48,29,17,0,Anthony Cowan Turnover.
+Maryland,Penn State,38,48,29,17,0,Mike Watkins Steal.
+Maryland,Penn State,38,48,29,18,0,Tony Carr missed Three Point Jumper.
+Maryland,Penn State,38,48,29,18,0,Josh Reaves Offensive Rebound.
+Maryland,Penn State,38,48,29,19,0,Foul on Anthony Cowan.
+Maryland,Penn State,38,49,29,19,1,Josh Reaves made Free Throw.
+Maryland,Penn State,38,50,29,19,1,Josh Reaves made Free Throw.
+Maryland,Penn State,38,50,29,38,0,Melo Trimble missed Jumper.
+Maryland,Penn State,38,50,29,38,0,Mike Watkins Defensive Rebound.
+Maryland,Penn State,38,52,30,12,1,Mike Watkins made Jumper. Assisted by Tony Carr.
+Maryland,Penn State,38,52,30,13,0,Maryland  Timeout
+Maryland,Penn State,41,52,30,19,1,Justin Jackson made Three Point Jumper. Assisted by Kevin Huerter.
+Maryland,Penn State,41,52,30,39,0,Shep Garner Turnover.
+Maryland,Penn State,41,52,30,39,0,Justin Jackson Steal.
+Maryland,Penn State,41,52,30,39,0,Foul on Mike Watkins.
+Maryland,Penn State,42,52,30,39,1,Justin Jackson made Free Throw.
+Maryland,Penn State,43,52,30,39,1,Justin Jackson made Free Throw.
+Maryland,Penn State,43,52,30,50,0,Tony Carr missed Jumper.
+Maryland,Penn State,43,52,30,50,0,Jared Nickens Defensive Rebound.
+Maryland,Penn State,43,52,30,57,0,Foul on Lamar Stevens.
+Maryland,Penn State,43,52,30,57,0,Justin Jackson missed Free Throw.
+Maryland,Penn State,43,52,30,57,0,Maryland Deadball Team Rebound.
+Maryland,Penn State,44,52,30,57,1,Justin Jackson made Free Throw.
+Maryland,Penn State,44,52,31,12,0,Shep Garner missed Three Point Jumper.
+Maryland,Penn State,44,52,31,12,0,Ivan Bender Defensive Rebound.
+Maryland,Penn State,44,52,31,26,0,Ivan Bender missed Layup.
+Maryland,Penn State,44,52,31,26,0,Julian Moore Defensive Rebound.
+Maryland,Penn State,44,52,31,38,0,Foul on Ivan Bender.
+Maryland,Penn State,44,53,31,38,1,Lamar Stevens made Free Throw.
+Maryland,Penn State,44,53,31,38,0,Lamar Stevens missed Free Throw.
+Maryland,Penn State,44,53,31,38,0,Justin Jackson Defensive Rebound.
+Maryland,Penn State,46,53,31,53,1,Damonte Dodd made Layup. Assisted by Melo Trimble.
+Maryland,Penn State,46,55,32,6,1,Nazeer Bostick made Layup. Assisted by Payton Banks.
+Maryland,Penn State,46,55,32,24,0,Jared Nickens missed Three Point Jumper.
+Maryland,Penn State,46,55,32,24,0,Lamar Stevens Defensive Rebound.
+Maryland,Penn State,46,55,32,24,0,Foul on Kevin Huerter.
+Maryland,Penn State,46,55,32,24,0,Official TV Timeout
+Maryland,Penn State,46,55,32,48,0,Lamar Stevens missed Jumper.
+Maryland,Penn State,46,55,32,48,0,Kevin Huerter Defensive Rebound.
+Maryland,Penn State,46,55,32,56,0,Foul on Tony Carr.
+Maryland,Penn State,46,55,32,56,0,Kevin Huerter missed Free Throw.
+Maryland,Penn State,46,55,32,56,0,Maryland Deadball Team Rebound.
+Maryland,Penn State,47,55,32,56,1,Kevin Huerter made Free Throw.
+Maryland,Penn State,47,55,33,7,0,Tony Carr Turnover.
+Maryland,Penn State,47,55,33,23,0,Foul on Tony Carr.
+Maryland,Penn State,47,55,33,23,0,Melo Trimble missed Free Throw.
+Maryland,Penn State,47,55,33,23,0,Maryland Deadball Team Rebound.
+Maryland,Penn State,48,55,33,23,1,Melo Trimble made Free Throw.
+Maryland,Penn State,48,55,33,28,0,Lamar Stevens Turnover.
+Maryland,Penn State,48,55,33,28,0,Damonte Dodd Steal.
+Maryland,Penn State,48,55,33,34,0,Melo Trimble missed Layup.
+Maryland,Penn State,48,55,33,34,0,Lamar Stevens Defensive Rebound.
+Maryland,Penn State,48,55,33,39,0,Foul on Justin Jackson.
+Maryland,Penn State,48,56,33,39,1,Lamar Stevens made Free Throw.
+Maryland,Penn State,48,57,33,39,1,Lamar Stevens made Free Throw.
+Maryland,Penn State,48,57,33,58,0,Melo Trimble missed Jumper.
+Maryland,Penn State,48,57,33,58,0,Anthony Cowan Offensive Rebound.
+Maryland,Penn State,48,57,34,2,0,Melo Trimble missed Layup.
+Maryland,Penn State,48,57,34,2,0,Lamar Stevens Defensive Rebound.
+Maryland,Penn State,48,59,34,22,1,Lamar Stevens made Jumper.
+Maryland,Penn State,51,59,34,41,1,Kevin Huerter made Three Point Jumper. Assisted by Melo Trimble.
+Maryland,Penn State,51,59,34,49,0,Foul on Kevin Huerter.
+Maryland,Penn State,51,60,34,49,1,Lamar Stevens made Free Throw.
+Maryland,Penn State,51,60,34,49,0,Lamar Stevens missed Free Throw.
+Maryland,Penn State,51,60,34,49,0,Justin Jackson Defensive Rebound.
+Maryland,Penn State,51,60,35,4,0,Foul on Lamar Stevens.
+Maryland,Penn State,51,60,35,4,0,Justin Jackson missed Free Throw.
+Maryland,Penn State,51,60,35,4,0,Maryland Deadball Team Rebound.
+Maryland,Penn State,52,60,35,4,1,Justin Jackson made Free Throw.
+Maryland,Penn State,52,62,35,30,1,Julian Moore made Dunk. Assisted by Shep Garner.
+Maryland,Penn State,55,62,35,46,1,Justin Jackson made Three Point Jumper. Assisted by Kevin Huerter.
+Maryland,Penn State,55,62,36,21,0,Nazeer Bostick Turnover.
+Maryland,Penn State,55,62,36,21,0,Jaylen Brantley Steal.
+Maryland,Penn State,55,62,36,30,0,Kevin Huerter missed Three Point Jumper.
+Maryland,Penn State,55,62,36,30,0,Anthony Cowan Offensive Rebound.
+Maryland,Penn State,58,62,36,36,1,Jaylen Brantley made Three Point Jumper. Assisted by Anthony Cowan.
+Maryland,Penn State,58,62,36,57,0,Shep Garner missed Three Point Jumper.
+Maryland,Penn State,58,62,36,57,0,Nazeer Bostick Offensive Rebound.
+Maryland,Penn State,58,64,36,59,1,Nazeer Bostick made Layup.
+Maryland,Penn State,58,64,37,20,0,Anthony Cowan missed Layup.
+Maryland,Penn State,58,64,37,20,0,Nazeer Bostick Block.
+Maryland,Penn State,58,64,37,20,0,Maryland Offensive Rebound.
+Maryland,Penn State,58,64,37,20,0,Official TV Timeout
+Maryland,Penn State,58,64,37,20,0,Maryland  Turnover.
+Maryland,Penn State,58,64,37,49,0,Tony Carr missed Three Point Jumper.
+Maryland,Penn State,58,64,37,49,0,Maryland Defensive Rebound.
+Maryland,Penn State,58,64,38,4,0,Justin Jackson missed Jumper.
+Maryland,Penn State,58,64,38,4,0,Damonte Dodd Offensive Rebound.
+Maryland,Penn State,60,64,38,6,1,Damonte Dodd made Layup.
+Maryland,Penn State,60,64,38,24,0,Lamar Stevens Turnover.
+Maryland,Penn State,60,64,38,34,0,Jaylen Brantley missed Three Point Jumper.
+Maryland,Penn State,60,64,38,34,0,Tony Carr Defensive Rebound.
+Maryland,Penn State,60,64,38,39,0,Foul on Kevin Huerter.
+Maryland,Penn State,60,65,38,39,1,Tony Carr made Free Throw.
+Maryland,Penn State,60,66,38,39,1,Tony Carr made Free Throw.
+Maryland,Penn State,60,66,38,47,0,Melo Trimble missed Three Point Jumper.
+Maryland,Penn State,60,66,38,47,0,Maryland Offensive Rebound.
+Maryland,Penn State,60,66,38,58,0,Justin Jackson missed Layup.
+Maryland,Penn State,60,66,38,58,0,Mike Watkins Block.
+Maryland,Penn State,60,66,38,58,0,Mike Watkins Defensive Rebound.
+Maryland,Penn State,60,66,39,4,0,Penn State  Timeout
+Maryland,Penn State,60,66,39,6,0,Foul on Jaylen Brantley.
+Maryland,Penn State,60,67,39,6,1,Lamar Stevens made Free Throw.
+Maryland,Penn State,60,68,39,6,1,Lamar Stevens made Free Throw.
+Maryland,Penn State,60,68,39,18,0,Kevin Huerter missed Three Point Jumper.
+Maryland,Penn State,60,68,39,18,0,Shep Garner Defensive Rebound.
+Maryland,Penn State,60,68,39,22,0,Foul on Damonte Dodd.
+Maryland,Penn State,60,68,39,22,0,Shep Garner missed Free Throw.
+Maryland,Penn State,60,68,39,22,0,Penn State Deadball Team Rebound.
+Maryland,Penn State,60,68,39,22,0,Shep Garner missed Free Throw.
+Maryland,Penn State,60,68,39,22,0,Jaylen Brantley Defensive Rebound.
+Maryland,Penn State,62,68,39,33,1,Justin Jackson made Layup.
+Maryland,Penn State,62,68,39,33,0,Penn State  Timeout
+Maryland,Penn State,62,68,39,35,0,Foul on Justin Jackson.
+Maryland,Penn State,62,69,39,35,1,Lamar Stevens made Free Throw.
+Maryland,Penn State,62,69,39,35,0,Lamar Stevens missed Free Throw.
+Maryland,Penn State,62,69,39,35,0,Josh Reaves Offensive Rebound.
+Maryland,Penn State,62,69,39,37,0,Foul on Justin Jackson.
+Maryland,Penn State,62,69,39,37,0,Josh Reaves missed Free Throw.
+Maryland,Penn State,62,69,39,37,0,Penn State Deadball Team Rebound.
+Maryland,Penn State,62,70,39,37,1,Josh Reaves made Free Throw.
+Maryland,Penn State,64,70,39,49,1,Justin Jackson made Layup.
+Maryland,Penn State,64,70,39,50,0,Foul on Jaylen Brantley.
+Maryland,Penn State,64,70,39,50,0,Tony Carr missed Free Throw.
+Maryland,Penn State,64,70,39,50,0,Penn State Deadball Team Rebound.
+Maryland,Penn State,64,70,39,50,0,Tony Carr missed Free Throw.
+Maryland,Penn State,64,70,39,50,0,Justin Jackson Defensive Rebound.
+Maryland,Penn State,64,70,39,58,0,Kevin Huerter missed Three Point Jumper.
+Maryland,Penn State,64,70,39,58,0,Mike Watkins Defensive Rebound.
+Maryland,Penn State,64,70,40,0,0,End of Game

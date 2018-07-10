@@ -1,0 +1,363 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Washington,UCLA,0,0,0,0,0,Jump Ball won by UCLA
+Washington,UCLA,0,2,0,15,1,Isaac Hamilton made Jumper.
+Washington,UCLA,0,2,0,23,0,Sam Timmins missed Layup.
+Washington,UCLA,0,2,0,23,0,Thomas Welsh Block.
+Washington,UCLA,0,2,0,23,0,Thomas Welsh Defensive Rebound.
+Washington,UCLA,0,5,0,35,1,Bryce Alford made Three Point Jumper. Assisted by Lonzo Ball.
+Washington,UCLA,0,5,1,3,0,David Crisp Turnover.
+Washington,UCLA,0,8,1,5,1,Bryce Alford made Three Point Jumper. Assisted by Lonzo Ball.
+Washington,UCLA,0,8,1,9,0,Washington  Timeout
+Washington,UCLA,0,8,1,23,0,Matisse Thybulle missed Jumper.
+Washington,UCLA,0,8,1,23,0,Thomas Welsh Defensive Rebound.
+Washington,UCLA,0,11,1,33,1,Lonzo Ball made Three Point Jumper. Assisted by TJ Leaf.
+Washington,UCLA,0,11,1,52,0,David Crisp Turnover.
+Washington,UCLA,0,11,1,52,0,TJ Leaf Steal.
+Washington,UCLA,0,11,1,58,0,Foul on Matisse Thybulle.
+Washington,UCLA,0,11,2,0,0,Thomas Welsh missed Jumper.
+Washington,UCLA,0,11,2,0,0,Sam Timmins Defensive Rebound.
+Washington,UCLA,0,11,2,6,0,David Crisp missed Jumper.
+Washington,UCLA,0,11,2,6,0,David Crisp Offensive Rebound.
+Washington,UCLA,2,11,2,12,1,Carlos Johnson made Jumper. Assisted by David Crisp.
+Washington,UCLA,2,11,2,22,0,Thomas Welsh missed Layup.
+Washington,UCLA,2,11,2,22,0,Sam Timmins Block.
+Washington,UCLA,2,11,2,22,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,2,11,2,32,0,David Crisp missed Jumper.
+Washington,UCLA,2,11,2,32,0,Lonzo Ball Defensive Rebound.
+Washington,UCLA,2,13,2,39,1,TJ Leaf made Layup. Assisted by Bryce Alford.
+Washington,UCLA,4,13,3,12,1,Matisse Thybulle made Jumper.
+Washington,UCLA,4,13,3,33,0,TJ Leaf missed Jumper.
+Washington,UCLA,4,13,3,33,0,Sam Timmins Defensive Rebound.
+Washington,UCLA,4,13,3,43,0,Matisse Thybulle missed Jumper.
+Washington,UCLA,4,13,3,43,0,TJ Leaf Defensive Rebound.
+Washington,UCLA,4,13,3,50,0,Lonzo Ball missed Jumper.
+Washington,UCLA,4,13,3,50,0,Sam Timmins Defensive Rebound.
+Washington,UCLA,6,13,4,8,1,Noah Dickerson made Layup. Assisted by Matisse Thybulle.
+Washington,UCLA,6,13,4,16,0,Isaac Hamilton missed Jumper.
+Washington,UCLA,6,13,4,16,0,Sam Timmins Defensive Rebound.
+Washington,UCLA,6,13,4,35,0,Noah Dickerson missed Layup.
+Washington,UCLA,6,13,4,35,0,TJ Leaf Block.
+Washington,UCLA,6,13,4,35,0,Isaac Hamilton Defensive Rebound.
+Washington,UCLA,6,13,4,41,0,Bryce Alford missed Three Point Jumper.
+Washington,UCLA,6,13,4,41,0,Bryce Alford Offensive Rebound.
+Washington,UCLA,6,16,4,45,1,Bryce Alford made Three Point Jumper.
+Washington,UCLA,6,16,4,50,0,Official TV Timeout
+Washington,UCLA,6,16,5,3,0,Malik Dime missed Layup.
+Washington,UCLA,6,16,5,3,0,Lonzo Ball Block.
+Washington,UCLA,6,16,5,3,0,Malik Dime Offensive Rebound.
+Washington,UCLA,6,16,5,10,0,Dan Kingma missed Three Point Jumper.
+Washington,UCLA,6,16,5,10,0,Malik Dime Offensive Rebound.
+Washington,UCLA,6,16,5,11,0,Foul on Lonzo Ball.
+Washington,UCLA,9,16,5,14,1,Matisse Thybulle made Three Point Jumper. Assisted by Dan Kingma.
+Washington,UCLA,9,18,5,35,1,Gyorgy Goloman made Jumper.
+Washington,UCLA,9,18,5,43,0,Carlos Johnson Turnover.
+Washington,UCLA,9,18,5,43,0,Aaron Holiday Steal.
+Washington,UCLA,9,21,5,52,1,Bryce Alford made Three Point Jumper. Assisted by Lonzo Ball.
+Washington,UCLA,12,21,6,4,1,Matisse Thybulle made Three Point Jumper. Assisted by Dan Kingma.
+Washington,UCLA,12,21,6,26,0,Bryce Alford missed Three Point Jumper.
+Washington,UCLA,12,21,6,26,0,Dan Kingma Defensive Rebound.
+Washington,UCLA,12,21,6,42,0,Foul on Ike Anigbogu.
+Washington,UCLA,13,21,6,42,1,Carlos Johnson made Free Throw.
+Washington,UCLA,14,21,6,42,1,Carlos Johnson made Free Throw.
+Washington,UCLA,14,21,7,5,0,Gyorgy Goloman missed Jumper.
+Washington,UCLA,14,21,7,5,0,Sam Timmins Defensive Rebound.
+Washington,UCLA,14,21,7,26,0,Malik Dime missed Layup.
+Washington,UCLA,14,21,7,26,0,Ike Anigbogu Defensive Rebound.
+Washington,UCLA,14,21,7,33,0,Foul on Aaron Holiday.
+Washington,UCLA,14,21,7,33,0,Aaron Holiday Turnover.
+Washington,UCLA,14,21,7,36,0,Matisse Thybulle Turnover.
+Washington,UCLA,14,21,7,36,0,Gyorgy Goloman Steal.
+Washington,UCLA,14,21,7,42,0,Foul on Matisse Thybulle.
+Washington,UCLA,14,22,7,42,1,Gyorgy Goloman made Free Throw.
+Washington,UCLA,14,22,7,42,0,Gyorgy Goloman missed Free Throw.
+Washington,UCLA,14,22,7,42,0,Sam Timmins Defensive Rebound.
+Washington,UCLA,14,22,7,59,0,Dan Kingma Turnover.
+Washington,UCLA,14,22,7,59,0,Gyorgy Goloman Steal.
+Washington,UCLA,14,24,8,6,1,Ike Anigbogu made Jumper. Assisted by Bryce Alford.
+Washington,UCLA,14,24,8,6,0,Foul on Malik Dime.
+Washington,UCLA,14,24,8,6,0,Official TV Timeout
+Washington,UCLA,14,25,8,6,1,Ike Anigbogu made Free Throw.
+Washington,UCLA,14,25,8,15,0,Carlos Johnson missed Jumper.
+Washington,UCLA,14,25,8,15,0,Malik Dime Offensive Rebound.
+Washington,UCLA,14,25,8,19,0,Malik Dime Turnover.
+Washington,UCLA,14,25,8,19,0,Lonzo Ball Steal.
+Washington,UCLA,14,27,8,28,1,Lonzo Ball made Dunk. Assisted by Aaron Holiday.
+Washington,UCLA,16,27,8,48,1,Malik Dime made Jumper. Assisted by Carlos Johnson.
+Washington,UCLA,16,29,9,7,1,Gyorgy Goloman made Layup. Assisted by Lonzo Ball.
+Washington,UCLA,16,29,9,14,0,Carlos Johnson missed Three Point Jumper.
+Washington,UCLA,16,29,9,14,0,Gyorgy Goloman Defensive Rebound.
+Washington,UCLA,16,31,9,23,1,Aaron Holiday made Jumper.
+Washington,UCLA,16,31,9,26,0,Washington  Timeout
+Washington,UCLA,16,31,9,44,0,Dominic Green Turnover.
+Washington,UCLA,16,31,9,44,0,Lonzo Ball Steal.
+Washington,UCLA,16,31,9,50,0,Foul on David Crisp.
+Washington,UCLA,16,32,9,50,1,Aaron Holiday made Free Throw.
+Washington,UCLA,16,33,9,50,1,Aaron Holiday made Free Throw.
+Washington,UCLA,16,33,9,59,0,Foul on Lonzo Ball.
+Washington,UCLA,16,33,10,11,0,Dan Kingma Turnover.
+Washington,UCLA,16,33,10,17,0,Isaac Hamilton missed Jumper.
+Washington,UCLA,16,33,10,17,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,16,33,10,44,0,Dominic Green Turnover.
+Washington,UCLA,16,35,10,52,1,Thomas Welsh made Jumper. Assisted by Gyorgy Goloman.
+Washington,UCLA,16,35,11,1,0,Dan Kingma Turnover.
+Washington,UCLA,16,35,11,1,0,Isaac Hamilton Steal.
+Washington,UCLA,16,37,11,6,1,Isaac Hamilton made Layup. Assisted by Thomas Welsh.
+Washington,UCLA,16,37,11,28,0,Matisse Thybulle Turnover.
+Washington,UCLA,16,37,11,28,0,Aaron Holiday Steal.
+Washington,UCLA,16,37,11,35,0,Aaron Holiday missed Layup.
+Washington,UCLA,16,37,11,35,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,18,37,11,42,1,David Crisp made Jumper.
+Washington,UCLA,18,37,11,52,0,Isaac Hamilton missed Jumper.
+Washington,UCLA,18,37,11,52,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,18,37,12,0,0,David Crisp missed Layup.
+Washington,UCLA,18,37,12,0,0,Bryce Alford Defensive Rebound.
+Washington,UCLA,18,37,12,23,0,Thomas Welsh missed Jumper.
+Washington,UCLA,18,37,12,23,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,18,37,12,35,0,David Crisp missed Three Point Jumper.
+Washington,UCLA,18,37,12,35,0,Aaron Holiday Defensive Rebound.
+Washington,UCLA,18,37,12,40,0,Bryce Alford missed Three Point Jumper.
+Washington,UCLA,18,37,12,40,0,Dan Kingma Defensive Rebound.
+Washington,UCLA,18,37,12,56,0,Noah Dickerson missed Layup.
+Washington,UCLA,18,37,12,56,0,Gyorgy Goloman Block.
+Washington,UCLA,18,37,12,56,0,Sam Timmins Offensive Rebound.
+Washington,UCLA,20,37,13,2,1,Sam Timmins made Layup.
+Washington,UCLA,20,40,13,13,1,Isaac Hamilton made Three Point Jumper. Assisted by Aaron Holiday.
+Washington,UCLA,20,40,13,25,0,David Crisp missed Three Point Jumper.
+Washington,UCLA,20,40,13,25,0,Thomas Welsh Defensive Rebound.
+Washington,UCLA,20,40,13,35,0,Isaac Hamilton missed Jumper.
+Washington,UCLA,20,40,13,35,0,Sam Timmins Defensive Rebound.
+Washington,UCLA,23,40,13,49,1,Matisse Thybulle made Three Point Jumper. Assisted by David Crisp.
+Washington,UCLA,23,40,14,12,0,Thomas Welsh missed Jumper.
+Washington,UCLA,23,40,14,12,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,25,40,14,24,1,Noah Dickerson made Layup. Assisted by Matisse Thybulle.
+Washington,UCLA,25,40,14,42,0,Bryce Alford missed Jumper.
+Washington,UCLA,25,40,14,42,0,Sam Timmins Defensive Rebound.
+Washington,UCLA,25,40,14,50,0,Foul on Gyorgy Goloman.
+Washington,UCLA,25,40,14,50,0,Official TV Timeout
+Washington,UCLA,25,40,15,6,0,Matisse Thybulle missed Three Point Jumper.
+Washington,UCLA,25,40,15,6,0,Sam Timmins Offensive Rebound.
+Washington,UCLA,25,40,15,10,0,Foul on Bryce Alford.
+Washington,UCLA,25,40,15,22,0,David Crisp missed Three Point Jumper.
+Washington,UCLA,25,40,15,22,0,Noah Dickerson Offensive Rebound.
+Washington,UCLA,25,40,15,29,0,Jump Ball won by Washington
+Washington,UCLA,25,40,15,38,0,David Crisp missed Jumper.
+Washington,UCLA,25,40,15,38,0,Lonzo Ball Defensive Rebound.
+Washington,UCLA,25,40,15,50,0,Ike Anigbogu Turnover.
+Washington,UCLA,25,40,16,15,0,David Crisp missed Three Point Jumper.
+Washington,UCLA,25,40,16,15,0,Lonzo Ball Defensive Rebound.
+Washington,UCLA,25,40,16,22,0,Isaac Hamilton missed Three Point Jumper.
+Washington,UCLA,25,40,16,22,0,Ike Anigbogu Offensive Rebound.
+Washington,UCLA,25,40,16,25,0,Foul on Noah Dickerson.
+Washington,UCLA,25,40,16,25,0,Official TV Timeout
+Washington,UCLA,25,43,16,27,1,Isaac Hamilton made Three Point Jumper. Assisted by Lonzo Ball.
+Washington,UCLA,25,43,16,57,0,Sam Timmins missed Jumper.
+Washington,UCLA,25,43,16,57,0,Ike Anigbogu Defensive Rebound.
+Washington,UCLA,25,43,17,4,0,Aaron Holiday Turnover.
+Washington,UCLA,25,43,17,4,0,Matisse Thybulle Steal.
+Washington,UCLA,25,43,17,27,0,Foul on Ike Anigbogu.
+Washington,UCLA,26,43,17,27,1,Noah Dickerson made Free Throw.
+Washington,UCLA,26,43,17,27,0,Noah Dickerson missed Free Throw.
+Washington,UCLA,26,43,17,27,0,Thomas Welsh Defensive Rebound.
+Washington,UCLA,26,45,17,31,1,Lonzo Ball made Jumper. Assisted by Isaac Hamilton.
+Washington,UCLA,26,45,17,40,0,David Crisp Turnover.
+Washington,UCLA,26,45,17,55,0,Foul on Carlos Johnson.
+Washington,UCLA,26,45,17,58,0,Bryce Alford missed Three Point Jumper.
+Washington,UCLA,26,45,17,58,0,Gyorgy Goloman Offensive Rebound.
+Washington,UCLA,26,47,18,5,1,Aaron Holiday made Dunk.
+Washington,UCLA,26,47,18,24,0,Carlos Johnson missed Layup.
+Washington,UCLA,26,47,18,24,0,Thomas Welsh Defensive Rebound.
+Washington,UCLA,26,47,18,32,0,Aaron Holiday Turnover.
+Washington,UCLA,26,47,18,32,0,Malik Dime Steal.
+Washington,UCLA,26,47,18,37,0,Carlos Johnson missed Layup.
+Washington,UCLA,26,47,18,37,0,Gyorgy Goloman Defensive Rebound.
+Washington,UCLA,26,47,18,43,0,Isaac Hamilton missed Three Point Jumper.
+Washington,UCLA,26,47,18,43,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,28,47,19,6,1,Noah Dickerson made Jumper. Assisted by David Crisp.
+Washington,UCLA,28,49,19,27,1,Thomas Welsh made Jumper. Assisted by Aaron Holiday.
+Washington,UCLA,28,49,19,46,0,Matisse Thybulle missed Three Point Jumper.
+Washington,UCLA,28,49,19,46,0,Aaron Holiday Defensive Rebound.
+Washington,UCLA,28,49,19,54,0,UCLA  Timeout
+Washington,UCLA,28,49,19,57,0,Aaron Holiday missed Three Point Jumper.
+Washington,UCLA,28,49,19,57,0,Washington Deadball Team Rebound.
+Washington,UCLA,28,49,20,0,0,End of 1st half
+Washington,UCLA,28,49,20,0,0,Jump Ball won by UCLA
+Washington,UCLA,28,51,20,13,1,Thomas Welsh made Jumper.
+Washington,UCLA,28,51,20,34,0,Matisse Thybulle missed Jumper.
+Washington,UCLA,28,51,20,34,0,Isaac Hamilton Defensive Rebound.
+Washington,UCLA,28,51,20,45,0,Foul on Gyorgy Goloman.
+Washington,UCLA,28,51,20,45,0,Gyorgy Goloman Turnover.
+Washington,UCLA,28,51,20,56,0,Foul on Bryce Alford.
+Washington,UCLA,28,51,20,56,0,Carlos Johnson missed Free Throw.
+Washington,UCLA,28,51,20,56,0,Washington Deadball Team Rebound.
+Washington,UCLA,28,51,20,56,0,Carlos Johnson missed Free Throw.
+Washington,UCLA,28,51,20,56,0,Noah Dickerson Offensive Rebound.
+Washington,UCLA,30,51,20,57,1,Noah Dickerson made Layup.
+Washington,UCLA,30,53,21,13,1,Lonzo Ball made Layup. Assisted by Isaac Hamilton.
+Washington,UCLA,30,53,21,20,0,David Crisp missed Three Point Jumper.
+Washington,UCLA,30,53,21,20,0,Lonzo Ball Defensive Rebound.
+Washington,UCLA,30,55,21,29,1,Lonzo Ball made Layup. Assisted by Bryce Alford.
+Washington,UCLA,30,55,21,48,0,Noah Dickerson missed Layup.
+Washington,UCLA,30,55,21,48,0,Thomas Welsh Defensive Rebound.
+Washington,UCLA,30,55,22,2,0,Isaac Hamilton Turnover.
+Washington,UCLA,30,55,22,2,0,Carlos Johnson Steal.
+Washington,UCLA,32,55,22,8,1,Noah Dickerson made Dunk. Assisted by Carlos Johnson.
+Washington,UCLA,32,55,22,23,0,Bryce Alford missed Three Point Jumper.
+Washington,UCLA,32,55,22,23,0,Thomas Welsh Offensive Rebound.
+Washington,UCLA,32,57,22,31,1,Bryce Alford made Layup.
+Washington,UCLA,32,57,22,50,0,David Crisp missed Layup.
+Washington,UCLA,32,57,22,50,0,Gyorgy Goloman Block.
+Washington,UCLA,32,57,22,50,0,Washington Offensive Rebound.
+Washington,UCLA,32,57,22,56,0,Sam Timmins Turnover.
+Washington,UCLA,32,57,22,56,0,Lonzo Ball Steal.
+Washington,UCLA,32,59,23,2,1,Bryce Alford made Jumper. Assisted by Lonzo Ball.
+Washington,UCLA,34,59,23,19,1,Noah Dickerson made Layup. Assisted by David Crisp.
+Washington,UCLA,34,59,23,28,0,Isaac Hamilton missed Three Point Jumper.
+Washington,UCLA,34,59,23,28,0,Sam Timmins Defensive Rebound.
+Washington,UCLA,36,59,23,38,1,David Crisp made Layup.
+Washington,UCLA,36,59,23,58,0,Bryce Alford missed Layup.
+Washington,UCLA,36,59,23,58,0,Matisse Thybulle Defensive Rebound.
+Washington,UCLA,36,59,24,4,0,David Crisp Turnover.
+Washington,UCLA,36,59,24,4,0,Bryce Alford Steal.
+Washington,UCLA,36,61,24,12,1,Lonzo Ball made Dunk.
+Washington,UCLA,36,61,24,34,0,Matisse Thybulle missed Three Point Jumper.
+Washington,UCLA,36,61,24,34,0,Lonzo Ball Defensive Rebound.
+Washington,UCLA,36,61,24,46,0,Foul on Carlos Johnson.
+Washington,UCLA,36,61,24,46,0,Official TV Timeout
+Washington,UCLA,36,61,25,1,0,Isaac Hamilton Turnover.
+Washington,UCLA,36,61,25,1,0,Noah Dickerson Steal.
+Washington,UCLA,36,61,25,24,0,David Crisp missed Layup.
+Washington,UCLA,36,61,25,24,0,Malik Dime Offensive Rebound.
+Washington,UCLA,36,61,25,27,0,Foul on Thomas Welsh.
+Washington,UCLA,36,61,25,27,0,Noah Dickerson missed Free Throw.
+Washington,UCLA,36,61,25,27,0,Washington Deadball Team Rebound.
+Washington,UCLA,36,61,25,27,0,Noah Dickerson missed Free Throw.
+Washington,UCLA,36,61,25,27,0,Ike Anigbogu Defensive Rebound.
+Washington,UCLA,36,61,25,47,0,Gyorgy Goloman missed Jumper.
+Washington,UCLA,36,61,25,47,0,Malik Dime Defensive Rebound.
+Washington,UCLA,38,61,26,8,1,Noah Dickerson made Layup. Assisted by Carlos Johnson.
+Washington,UCLA,38,61,26,24,0,Ike Anigbogu missed Jumper.
+Washington,UCLA,38,61,26,24,0,Gyorgy Goloman Offensive Rebound.
+Washington,UCLA,38,61,26,28,0,Foul on Malik Dime.
+Washington,UCLA,38,61,26,29,0,Foul on Dominic Green.
+Washington,UCLA,38,61,26,29,0,Gyorgy Goloman missed Free Throw.
+Washington,UCLA,38,61,26,29,0,UCLA Deadball Team Rebound.
+Washington,UCLA,38,62,26,29,1,Gyorgy Goloman made Free Throw.
+Washington,UCLA,38,62,26,48,0,Dominic Green missed Three Point Jumper.
+Washington,UCLA,38,62,26,48,0,Lonzo Ball Defensive Rebound.
+Washington,UCLA,38,64,26,56,1,Isaac Hamilton made Jumper.
+Washington,UCLA,38,64,27,3,0,Noah Dickerson Turnover.
+Washington,UCLA,38,64,27,3,0,Lonzo Ball Steal.
+Washington,UCLA,38,67,27,12,1,Lonzo Ball made Three Point Jumper.
+Washington,UCLA,40,67,27,24,1,Matisse Thybulle made Jumper.
+Washington,UCLA,40,67,27,41,0,Foul on Noah Dickerson.
+Washington,UCLA,40,70,27,43,1,Lonzo Ball made Three Point Jumper. Assisted by Gyorgy Goloman.
+Washington,UCLA,40,70,28,6,0,Dominic Green missed Three Point Jumper.
+Washington,UCLA,40,70,28,6,0,Aaron Holiday Defensive Rebound.
+Washington,UCLA,40,70,28,18,0,Lonzo Ball missed Three Point Jumper.
+Washington,UCLA,40,70,28,18,0,Malik Dime Defensive Rebound.
+Washington,UCLA,40,70,28,30,0,Dominic Green missed Jumper.
+Washington,UCLA,40,70,28,30,0,Gyorgy Goloman Block.
+Washington,UCLA,40,70,28,30,0,Lonzo Ball Defensive Rebound.
+Washington,UCLA,40,72,28,39,1,Ike Anigbogu made Dunk. Assisted by Lonzo Ball.
+Washington,UCLA,42,72,28,49,1,Sam Timmins made Jumper.
+Washington,UCLA,42,72,29,15,0,Foul on Sam Timmins.
+Washington,UCLA,42,72,29,15,0,Official TV Timeout
+Washington,UCLA,42,75,29,25,1,Isaac Hamilton made Three Point Jumper. Assisted by Bryce Alford.
+Washington,UCLA,42,75,29,43,0,Malik Dime Turnover.
+Washington,UCLA,42,75,29,43,0,Ike Anigbogu Steal.
+Washington,UCLA,42,77,29,48,1,Ike Anigbogu made Dunk. Assisted by Lonzo Ball.
+Washington,UCLA,42,77,30,13,0,Foul on Aaron Holiday.
+Washington,UCLA,42,77,30,13,0,Malik Dime missed Free Throw.
+Washington,UCLA,42,77,30,13,0,Washington Deadball Team Rebound.
+Washington,UCLA,43,77,30,13,1,Malik Dime made Free Throw.
+Washington,UCLA,43,77,30,24,0,Isaac Hamilton missed Three Point Jumper.
+Washington,UCLA,43,77,30,24,0,Malik Dime Defensive Rebound.
+Washington,UCLA,43,77,30,36,0,Matisse Thybulle Turnover.
+Washington,UCLA,43,77,30,45,0,Foul on Bitumba Baruti.
+Washington,UCLA,43,80,30,46,1,Bryce Alford made Three Point Jumper.
+Washington,UCLA,43,80,31,12,0,David Crisp missed Three Point Jumper.
+Washington,UCLA,43,80,31,12,0,Malik Dime Offensive Rebound.
+Washington,UCLA,45,80,31,17,1,Malik Dime made Dunk.
+Washington,UCLA,45,82,31,31,1,Aaron Holiday made Jumper.
+Washington,UCLA,45,82,31,49,0,Matisse Thybulle missed Three Point Jumper.
+Washington,UCLA,45,82,31,49,0,Sam Timmins Offensive Rebound.
+Washington,UCLA,45,82,31,53,0,Foul on Bryce Alford.
+Washington,UCLA,45,82,32,2,0,David Crisp missed Three Point Jumper.
+Washington,UCLA,45,82,32,2,0,Bryce Alford Defensive Rebound.
+Washington,UCLA,45,82,32,11,0,Thomas Welsh missed Jumper.
+Washington,UCLA,45,82,32,11,0,Malik Dime Defensive Rebound.
+Washington,UCLA,45,82,32,20,0,Official TV Timeout
+Washington,UCLA,45,82,32,39,0,Sam Timmins Turnover.
+Washington,UCLA,45,82,32,39,0,Bryce Alford Steal.
+Washington,UCLA,45,82,32,47,0,Foul on David Crisp.
+Washington,UCLA,45,83,32,47,1,Bryce Alford made Free Throw.
+Washington,UCLA,45,83,32,47,0,Bryce Alford missed Free Throw.
+Washington,UCLA,45,83,32,47,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,45,83,32,47,0,Foul on Gyorgy Goloman.
+Washington,UCLA,45,83,33,1,0,Bitumba Baruti Turnover.
+Washington,UCLA,45,83,33,10,0,Foul on Bitumba Baruti.
+Washington,UCLA,45,83,33,10,0,Aaron Holiday missed Free Throw.
+Washington,UCLA,45,83,33,10,0,UCLA Deadball Team Rebound.
+Washington,UCLA,45,84,33,10,1,Aaron Holiday made Free Throw.
+Washington,UCLA,47,84,33,24,1,Noah Dickerson made Jumper.
+Washington,UCLA,47,84,33,48,0,Gyorgy Goloman Turnover.
+Washington,UCLA,47,84,34,2,0,Noah Dickerson missed Jumper.
+Washington,UCLA,47,84,34,2,0,Noah Dickerson Offensive Rebound.
+Washington,UCLA,47,84,34,8,0,Foul on Gyorgy Goloman.
+Washington,UCLA,48,84,34,8,1,Noah Dickerson made Free Throw.
+Washington,UCLA,49,84,34,8,1,Noah Dickerson made Free Throw.
+Washington,UCLA,49,87,34,27,1,Bryce Alford made Three Point Jumper.
+Washington,UCLA,51,87,34,40,1,David Crisp made Jumper.
+Washington,UCLA,51,90,34,53,1,Bryce Alford made Three Point Jumper. Assisted by Isaac Hamilton.
+Washington,UCLA,51,90,35,5,0,Matisse Thybulle missed Three Point Jumper.
+Washington,UCLA,51,90,35,5,0,Isaac Hamilton Defensive Rebound.
+Washington,UCLA,51,90,35,17,0,Aaron Holiday missed Jumper.
+Washington,UCLA,51,90,35,17,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,51,90,35,22,0,Bitumba Baruti missed Three Point Jumper.
+Washington,UCLA,51,90,35,22,0,UCLA Deadball Team Rebound.
+Washington,UCLA,51,93,35,32,1,Bryce Alford made Three Point Jumper. Assisted by Isaac Hamilton.
+Washington,UCLA,51,93,35,46,0,Foul on Bryce Alford.
+Washington,UCLA,52,93,35,46,1,Matisse Thybulle made Free Throw.
+Washington,UCLA,53,93,35,46,1,Matisse Thybulle made Free Throw.
+Washington,UCLA,53,93,35,55,0,Ike Anigbogu missed Jumper.
+Washington,UCLA,53,93,35,55,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,55,93,36,5,1,Noah Dickerson made Layup. Assisted by Matisse Thybulle.
+Washington,UCLA,55,93,36,15,0,Bryce Alford missed Three Point Jumper.
+Washington,UCLA,55,93,36,15,0,Noah Dickerson Defensive Rebound.
+Washington,UCLA,55,93,36,32,0,Official TV Timeout
+Washington,UCLA,55,93,36,50,0,Washington  Turnover.
+Washington,UCLA,55,93,37,4,0,Foul on Bitumba Baruti.
+Washington,UCLA,55,93,37,4,0,Aaron Holiday missed Free Throw.
+Washington,UCLA,55,93,37,4,0,Carlos Johnson Defensive Rebound.
+Washington,UCLA,55,93,37,15,0,David Crisp missed Three Point Jumper.
+Washington,UCLA,55,93,37,15,0,Noah Dickerson Offensive Rebound.
+Washington,UCLA,57,93,37,21,1,Noah Dickerson made Layup.
+Washington,UCLA,57,93,37,36,0,Gyorgy Goloman missed Layup.
+Washington,UCLA,57,93,37,36,0,Gyorgy Goloman Offensive Rebound.
+Washington,UCLA,57,95,37,40,1,Gyorgy Goloman made Layup.
+Washington,UCLA,57,95,37,46,0,Noah Dickerson missed Jumper.
+Washington,UCLA,57,95,37,46,0,Gyorgy Goloman Defensive Rebound.
+Washington,UCLA,57,95,38,2,0,UCLA  Timeout
+Washington,UCLA,57,95,38,13,0,Foul on David Crisp.
+Washington,UCLA,57,95,38,13,0,Ikenna Okwarabizie missed Free Throw.
+Washington,UCLA,57,95,38,13,0,UCLA Deadball Team Rebound.
+Washington,UCLA,57,95,38,13,0,Ikenna Okwarabizie missed Free Throw.
+Washington,UCLA,57,95,38,13,0,Greg Bowman Defensive Rebound.
+Washington,UCLA,59,95,38,28,1,Greg Bowman made Layup. Assisted by Dominic Green.
+Washington,UCLA,59,95,38,28,0,Foul on Jerrold Smith.
+Washington,UCLA,60,95,38,28,1,Greg Bowman made Free Throw.
+Washington,UCLA,60,95,38,41,0,Jerrold Smith missed Layup.
+Washington,UCLA,60,95,38,41,0,Dominic Green Block.
+Washington,UCLA,60,95,38,41,0,UCLA Offensive Rebound.
+Washington,UCLA,60,95,38,51,0,Jerrold Smith missed Layup.
+Washington,UCLA,60,95,38,51,0,Armani Dodson Offensive Rebound.
+Washington,UCLA,60,97,38,56,1,Armani Dodson made Layup.
+Washington,UCLA,63,97,39,5,1,Quin Barnard made Three Point Jumper. Assisted by David Crisp.
+Washington,UCLA,63,97,39,27,0,Alec Wulff missed Three Point Jumper.
+Washington,UCLA,63,97,39,27,0,Ikenna Okwarabizie Offensive Rebound.
+Washington,UCLA,63,97,39,30,0,Foul on David Crisp.
+Washington,UCLA,63,98,39,30,1,Ikenna Okwarabizie made Free Throw.
+Washington,UCLA,63,98,39,30,0,Ikenna Okwarabizie missed Free Throw.
+Washington,UCLA,63,98,39,30,0,Greg Bowman Defensive Rebound.
+Washington,UCLA,66,98,39,38,1,Quin Barnard made Three Point Jumper. Assisted by Dominic Green.
+Washington,UCLA,66,98,40,0,0,End of Game

@@ -1,0 +1,300 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Princeton,Cornell,0,2,0,20,1,Jordan Abdur-Ra'oof made Layup.
+Princeton,Cornell,3,2,0,51,1,Spencer Weisz made Three Point Jumper. Assisted by Amir Bell.
+Princeton,Cornell,3,2,1,19,0,David Onuorah Turnover.
+Princeton,Cornell,3,2,1,20,0,Henry Caruso Steal.
+Princeton,Cornell,3,2,1,40,0,Henry Caruso missed Layup.
+Princeton,Cornell,3,2,1,40,0,Pete Miller Offensive Rebound.
+Princeton,Cornell,5,2,1,42,1,Pete Miller made Two Point Tip Shot.
+Princeton,Cornell,5,2,2,5,0,Jordan Abdur-Ra'oof missed Layup.
+Princeton,Cornell,5,2,2,5,0,Pete Miller Defensive Rebound.
+Princeton,Cornell,5,2,2,25,0,Spencer Weisz missed Three Point Jumper.
+Princeton,Cornell,5,2,2,25,0,Cornell Deadball Team Rebound.
+Princeton,Cornell,5,2,2,44,0,Foul on Pete Miller.
+Princeton,Cornell,5,4,2,51,1,David Onuorah made Layup. Assisted by Matt Morgan.
+Princeton,Cornell,7,4,3,10,1,Amir Bell made Layup.
+Princeton,Cornell,7,4,3,10,0,Foul on Darryl Smith.
+Princeton,Cornell,8,4,3,10,1,Amir Bell made Free Throw.
+Princeton,Cornell,8,4,3,19,0,Jordan Abdur-Ra'oof Turnover.
+Princeton,Cornell,8,4,3,20,0,Henry Caruso Steal.
+Princeton,Cornell,8,4,3,25,0,Henry Caruso Turnover.
+Princeton,Cornell,8,4,3,27,0,Matt Morgan Steal.
+Princeton,Cornell,8,4,3,30,0,Matt Morgan missed Layup.
+Princeton,Cornell,8,4,3,30,0,Henry Caruso Defensive Rebound.
+Princeton,Cornell,11,4,3,47,1,Amir Bell made Three Point Jumper. Assisted by Henry Caruso.
+Princeton,Cornell,11,4,4,10,0,Troy Whiteside missed Jumper.
+Princeton,Cornell,11,4,4,10,0,David Onuorah Offensive Rebound.
+Princeton,Cornell,11,4,4,15,0,David Onuorah missed Jumper.
+Princeton,Cornell,11,4,4,15,0,Steven Cook Defensive Rebound.
+Princeton,Cornell,14,4,4,33,1,Amir Bell made Three Point Jumper. Assisted by Henry Caruso.
+Princeton,Cornell,14,4,4,37,0,Cornell  Timeout
+Princeton,Cornell,14,4,4,37,0,Official TV Timeout
+Princeton,Cornell,14,4,4,46,0,Foul on Devin Cannady.
+Princeton,Cornell,14,5,4,46,1,David Onuorah made Free Throw.
+Princeton,Cornell,14,6,4,46,1,David Onuorah made Free Throw.
+Princeton,Cornell,17,6,5,4,1,Spencer Weisz made Three Point Jumper. Assisted by Amir Bell.
+Princeton,Cornell,17,6,5,28,0,Matt Morgan missed Jumper.
+Princeton,Cornell,17,6,5,28,0,Henry Caruso Defensive Rebound.
+Princeton,Cornell,17,6,5,56,0,Amir Bell missed Layup.
+Princeton,Cornell,17,6,5,56,0,David Onuorah Block.
+Princeton,Cornell,17,6,5,58,0,Robert Hatter Defensive Rebound.
+Princeton,Cornell,17,6,6,2,0,Troy Whiteside missed Layup.
+Princeton,Cornell,17,6,6,2,0,Alec Brennan Block.
+Princeton,Cornell,17,6,6,5,0,Devin Cannady Defensive Rebound.
+Princeton,Cornell,20,6,6,16,1,Alec Brennan made Three Point Jumper. Assisted by Spencer Weisz.
+Princeton,Cornell,20,8,6,38,1,Troy Whiteside made Jumper.
+Princeton,Cornell,22,8,7,3,1,Amir Bell made Layup.
+Princeton,Cornell,22,8,7,13,0,Robert Hatter missed Three Point Jumper.
+Princeton,Cornell,22,8,7,13,0,David Onuorah Offensive Rebound.
+Princeton,Cornell,22,8,7,20,0,David Onuorah missed Jumper.
+Princeton,Cornell,22,8,7,20,0,Spencer Weisz Defensive Rebound.
+Princeton,Cornell,22,8,7,30,0,Foul on Desmond Fleming.
+Princeton,Cornell,25,8,7,30,1,Devin Cannady made Three Point Jumper.
+Princeton,Cornell,25,8,7,33,0,JoJo Fallas missed Three Point Jumper.
+Princeton,Cornell,25,8,7,33,0,Steven Cook Defensive Rebound.
+Princeton,Cornell,25,8,7,33,0,Myles Stephens missed Layup.
+Princeton,Cornell,25,8,7,33,0,Myles Stephens Offensive Rebound.
+Princeton,Cornell,25,8,7,33,0,Myles Stephens missed Layup.
+Princeton,Cornell,25,8,7,33,0,Stone Gettings Defensive Rebound.
+Princeton,Cornell,25,8,8,23,0,Robert Hatter missed Three Point Jumper.
+Princeton,Cornell,25,8,8,23,0,Pete Miller Defensive Rebound.
+Princeton,Cornell,27,8,8,42,1,Steven Cook made Layup.
+Princeton,Cornell,27,8,8,45,0,Cornell  Timeout
+Princeton,Cornell,27,8,8,45,0,Official TV Timeout
+Princeton,Cornell,27,8,9,11,0,Stone Gettings missed Jumper.
+Princeton,Cornell,27,8,9,11,0,Pete Miller Block.
+Princeton,Cornell,27,8,9,13,0,Steven Cook Defensive Rebound.
+Princeton,Cornell,27,8,9,19,0,Foul on JoJo Fallas.
+Princeton,Cornell,28,8,9,19,1,Devin Cannady made Free Throw.
+Princeton,Cornell,29,8,9,19,1,Devin Cannady made Free Throw.
+Princeton,Cornell,29,8,9,43,0,Troy Whiteside missed Jumper.
+Princeton,Cornell,29,8,9,43,0,Pete Miller Defensive Rebound.
+Princeton,Cornell,31,8,9,57,1,Myles Stephens made Dunk. Assisted by Pete Miller.
+Princeton,Cornell,31,8,10,13,0,David Onuorah missed Jumper.
+Princeton,Cornell,31,8,10,13,0,Steven Cook Defensive Rebound.
+Princeton,Cornell,33,8,10,20,1,Myles Stephens made Layup. Assisted by Steven Cook.
+Princeton,Cornell,33,10,10,31,1,Robert Hatter made Layup.
+Princeton,Cornell,33,10,10,46,0,Steven Cook missed Jumper.
+Princeton,Cornell,33,10,10,46,0,David Onuorah Defensive Rebound.
+Princeton,Cornell,33,10,10,57,0,Robert Hatter missed Layup.
+Princeton,Cornell,33,10,10,57,0,Devin Cannady Defensive Rebound.
+Princeton,Cornell,33,10,11,10,0,Devin Cannady Turnover.
+Princeton,Cornell,33,10,11,20,0,Robert Hatter missed Jumper.
+Princeton,Cornell,33,10,11,20,0,Troy Whiteside Offensive Rebound.
+Princeton,Cornell,33,10,11,26,0,Troy Whiteside missed Layup.
+Princeton,Cornell,33,10,11,26,0,Spencer Weisz Defensive Rebound.
+Princeton,Cornell,33,10,11,40,0,Amir Bell Turnover.
+Princeton,Cornell,33,10,11,54,0,JoJo Fallas missed Layup.
+Princeton,Cornell,33,10,11,54,0,Alec Brennan Defensive Rebound.
+Princeton,Cornell,33,10,12,18,0,Amir Bell missed Three Point Jumper.
+Princeton,Cornell,33,10,12,18,0,Darryl Smith Defensive Rebound.
+Princeton,Cornell,33,12,12,30,1,Matt Morgan made Layup.
+Princeton,Cornell,33,12,12,38,0,Foul on JoJo Fallas.
+Princeton,Cornell,33,12,12,40,0,Official TV Timeout
+Princeton,Cornell,33,12,13,5,0,Spencer Weisz missed Layup.
+Princeton,Cornell,33,12,13,5,0,Darryl Smith Defensive Rebound.
+Princeton,Cornell,33,14,13,33,1,Matt Morgan made Layup.
+Princeton,Cornell,36,14,13,55,1,Devin Cannady made Three Point Jumper. Assisted by Alec Brennan.
+Princeton,Cornell,36,16,14,11,1,Matt Morgan made Layup.
+Princeton,Cornell,36,16,14,11,0,Foul on Alec Brennan.
+Princeton,Cornell,36,17,14,11,1,Matt Morgan made Free Throw.
+Princeton,Cornell,36,17,14,29,0,Pete Miller missed Jumper.
+Princeton,Cornell,36,17,14,29,0,Matt Morgan Defensive Rebound.
+Princeton,Cornell,36,17,14,29,0,Foul on Pete Miller.
+Princeton,Cornell,36,17,14,40,0,Troy Whiteside missed Jumper.
+Princeton,Cornell,36,17,14,40,0,Troy Whiteside Offensive Rebound.
+Princeton,Cornell,36,17,14,43,0,Troy Whiteside missed Layup.
+Princeton,Cornell,36,17,14,43,0,Spencer Weisz Defensive Rebound.
+Princeton,Cornell,36,17,14,54,0,Steven Cook missed Layup.
+Princeton,Cornell,36,17,14,54,0,David Onuorah Defensive Rebound.
+Princeton,Cornell,36,19,14,59,1,Matt Morgan made Layup.
+Princeton,Cornell,36,19,14,59,0,Foul on Spencer Weisz.
+Princeton,Cornell,36,20,14,59,1,Matt Morgan made Free Throw.
+Princeton,Cornell,39,20,15,11,1,Henry Caruso made Three Point Jumper.
+Princeton,Cornell,39,22,15,19,1,Darryl Smith made Jumper.
+Princeton,Cornell,42,22,15,36,1,Henry Caruso made Three Point Jumper. Assisted by Amir Bell.
+Princeton,Cornell,42,22,15,50,0,Troy Whiteside missed Three Point Jumper.
+Princeton,Cornell,42,22,15,50,0,Steven Cook Defensive Rebound.
+Princeton,Cornell,42,22,16,15,0,Amir Bell missed Three Point Jumper.
+Princeton,Cornell,42,22,16,15,0,Princeton Deadball Team Rebound.
+Princeton,Cornell,42,22,16,15,0,Foul on Troy Whiteside.
+Princeton,Cornell,42,22,16,15,0,Official TV Timeout
+Princeton,Cornell,44,22,16,17,1,Henry Caruso made Layup. Assisted by Spencer Weisz.
+Princeton,Cornell,44,22,16,17,0,Foul on Joel Davis.
+Princeton,Cornell,45,22,16,17,1,Henry Caruso made Free Throw.
+Princeton,Cornell,45,22,16,24,0,Foul on Henry Caruso.
+Princeton,Cornell,45,22,16,26,0,Matt Morgan missed Three Point Jumper.
+Princeton,Cornell,45,22,16,26,0,Princeton Defensive Rebound.
+Princeton,Cornell,45,22,16,30,0,Spencer Weisz missed Three Point Jumper.
+Princeton,Cornell,45,22,16,30,0,Matt Morgan Defensive Rebound.
+Princeton,Cornell,45,22,16,34,0,Joel Davis Turnover.
+Princeton,Cornell,45,22,17,20,0,Henry Caruso missed Three Point Jumper.
+Princeton,Cornell,45,22,17,20,0,Cornell Deadball Team Rebound.
+Princeton,Cornell,45,24,17,33,1,David Onuorah made Jumper.
+Princeton,Cornell,47,24,17,51,1,Myles Stephens made Layup.
+Princeton,Cornell,47,24,17,51,0,Foul on David Onuorah.
+Princeton,Cornell,48,24,17,51,1,Myles Stephens made Free Throw.
+Princeton,Cornell,48,27,18,1,1,Robert Hatter made Three Point Jumper. Assisted by Robert Mischler.
+Princeton,Cornell,48,27,18,18,0,Alec Brennan missed Layup.
+Princeton,Cornell,48,27,18,18,0,David Onuorah Block.
+Princeton,Cornell,48,27,18,20,0,Devin Cannady Offensive Rebound.
+Princeton,Cornell,50,27,18,25,1,Steven Cook made Layup.
+Princeton,Cornell,50,27,18,45,0,Matt Morgan Turnover.
+Princeton,Cornell,52,27,19,8,1,Steven Cook made Dunk. Assisted by Alec Brennan.
+Princeton,Cornell,52,27,19,20,0,Foul on Alec Brennan.
+Princeton,Cornell,52,28,19,20,1,Matt Morgan made Free Throw.
+Princeton,Cornell,52,29,19,20,1,Matt Morgan made Free Throw.
+Princeton,Cornell,52,29,19,41,0,Devin Cannady Turnover.
+Princeton,Cornell,52,29,19,42,0,Robert Hatter Steal.
+Princeton,Cornell,52,29,19,58,0,Darryl Smith missed Three Point Jumper.
+Princeton,Cornell,52,29,19,58,0,Myles Stephens Defensive Rebound.
+Princeton,Cornell,52,29,19,59,0,Princeton  Timeout
+Princeton,Cornell,52,29,20,0,0,Spencer Weisz Turnover.
+Princeton,Cornell,52,29,20,0,0,Darryl Smith Steal.
+Princeton,Cornell,52,29,20,0,0,End of 1st half
+Princeton,Cornell,52,29,20,20,0,Amir Bell Turnover.
+Princeton,Cornell,52,29,20,21,0,Troy Whiteside Steal.
+Princeton,Cornell,52,29,20,28,0,Foul on Spencer Weisz.
+Princeton,Cornell,52,30,20,28,1,Matt Morgan made Free Throw.
+Princeton,Cornell,52,30,20,28,0,Matt Morgan missed Free Throw.
+Princeton,Cornell,52,30,20,28,0,Pete Miller Defensive Rebound.
+Princeton,Cornell,54,30,20,46,1,Henry Caruso made Jumper.
+Princeton,Cornell,54,30,21,15,0,Jordan Abdur-Ra'oof missed Jumper.
+Princeton,Cornell,54,30,21,15,0,David Onuorah Offensive Rebound.
+Princeton,Cornell,54,30,21,21,0,Matt Morgan Turnover.
+Princeton,Cornell,54,30,21,23,0,Spencer Weisz Steal.
+Princeton,Cornell,54,30,21,25,0,Henry Caruso Turnover.
+Princeton,Cornell,54,30,21,26,0,Troy Whiteside Steal.
+Princeton,Cornell,54,30,21,29,0,Matt Morgan missed Three Point Jumper.
+Princeton,Cornell,54,30,21,29,0,Pete Miller Defensive Rebound.
+Princeton,Cornell,54,30,21,42,0,Foul on Jordan Abdur-Ra'oof.
+Princeton,Cornell,55,30,21,42,1,Pete Miller made Free Throw.
+Princeton,Cornell,56,30,21,42,1,Pete Miller made Free Throw.
+Princeton,Cornell,56,30,21,56,0,Wil Bathurst Turnover.
+Princeton,Cornell,56,30,21,57,0,Steven Cook Steal.
+Princeton,Cornell,56,30,22,16,0,Amir Bell Turnover.
+Princeton,Cornell,56,30,22,17,0,Matt Morgan Steal.
+Princeton,Cornell,56,32,22,35,1,Darryl Smith made Layup.
+Princeton,Cornell,56,32,22,47,0,Spencer Weisz Turnover.
+Princeton,Cornell,56,32,22,49,0,David Onuorah Steal.
+Princeton,Cornell,56,32,22,52,0,David Onuorah missed Dunk.
+Princeton,Cornell,56,32,22,52,0,David Onuorah Offensive Rebound.
+Princeton,Cornell,56,32,22,55,0,David Onuorah missed Layup.
+Princeton,Cornell,56,32,22,55,0,Pete Miller Block.
+Princeton,Cornell,56,32,22,58,0,Henry Caruso Defensive Rebound.
+Princeton,Cornell,58,32,23,21,1,Henry Caruso made Layup.
+Princeton,Cornell,58,32,23,39,0,Wil Bathurst missed Jumper.
+Princeton,Cornell,58,32,23,39,0,Pete Miller Defensive Rebound.
+Princeton,Cornell,58,32,24,6,0,Spencer Weisz missed Three Point Jumper.
+Princeton,Cornell,58,32,24,6,0,Pete Miller Offensive Rebound.
+Princeton,Cornell,58,32,24,10,0,Official TV Timeout
+Princeton,Cornell,58,32,24,24,0,Foul on Troy Whiteside.
+Princeton,Cornell,58,32,24,24,0,Alec Brennan missed Free Throw.
+Princeton,Cornell,58,32,24,24,0,Princeton Deadball Team Rebound.
+Princeton,Cornell,59,32,24,24,1,Alec Brennan made Free Throw.
+Princeton,Cornell,59,34,24,36,1,Robert Hatter made Layup.
+Princeton,Cornell,59,34,24,48,0,Foul on Robert Hatter.
+Princeton,Cornell,62,34,25,8,1,Devin Cannady made Three Point Jumper. Assisted by Myles Stephens.
+Princeton,Cornell,62,34,25,31,0,Robert Hatter Turnover.
+Princeton,Cornell,62,34,25,31,0,Foul on Robert Hatter.
+Princeton,Cornell,62,34,25,50,0,Alec Brennan missed Three Point Jumper.
+Princeton,Cornell,62,34,25,50,0,JoJo Fallas Defensive Rebound.
+Princeton,Cornell,62,34,25,52,0,JoJo Fallas Turnover.
+Princeton,Cornell,62,34,26,6,0,Spencer Weisz Turnover.
+Princeton,Cornell,62,34,26,17,0,Stone Gettings missed Three Point Jumper.
+Princeton,Cornell,62,34,26,17,0,Henry Caruso Defensive Rebound.
+Princeton,Cornell,62,34,26,40,0,Myles Stephens missed Three Point Jumper.
+Princeton,Cornell,62,34,26,40,0,Henry Caruso Offensive Rebound.
+Princeton,Cornell,65,34,26,52,1,Myles Stephens made Three Point Jumper. Assisted by Steven Cook.
+Princeton,Cornell,65,34,27,10,0,Robert Hatter Turnover.
+Princeton,Cornell,65,34,27,29,0,Henry Caruso missed Three Point Jumper.
+Princeton,Cornell,65,34,27,29,0,Wil Bathurst Defensive Rebound.
+Princeton,Cornell,65,34,27,38,0,Robert Hatter missed Three Point Jumper.
+Princeton,Cornell,65,34,27,38,0,Henry Caruso Defensive Rebound.
+Princeton,Cornell,65,34,27,38,0,Foul on Robert Hatter.
+Princeton,Cornell,65,34,27,57,0,Devin Cannady missed Three Point Jumper.
+Princeton,Cornell,65,34,27,57,0,Noah Bramlage Offensive Rebound.
+Princeton,Cornell,65,34,28,9,0,Myles Stephens Turnover.
+Princeton,Cornell,65,34,28,10,0,Wil Bathurst Steal.
+Princeton,Cornell,65,34,28,14,0,Darryl Smith missed Layup.
+Princeton,Cornell,65,34,28,14,0,Myles Stephens Defensive Rebound.
+Princeton,Cornell,65,34,28,29,0,Noah Bramlage missed Jumper.
+Princeton,Cornell,65,34,28,29,0,Robert Hatter Defensive Rebound.
+Princeton,Cornell,65,34,28,37,0,Robert Hatter missed Layup.
+Princeton,Cornell,65,34,28,37,0,Henry Caruso Defensive Rebound.
+Princeton,Cornell,65,34,29,2,0,Mike Washington Jr. missed Jumper.
+Princeton,Cornell,65,34,29,2,0,Matt Morgan Defensive Rebound.
+Princeton,Cornell,65,34,29,5,0,Foul on Devin Cannady.
+Princeton,Cornell,65,34,29,5,0,Official TV Timeout
+Princeton,Cornell,65,34,29,16,0,Wil Bathurst missed Layup.
+Princeton,Cornell,65,34,29,16,0,Pete Miller Defensive Rebound.
+Princeton,Cornell,65,34,29,38,0,Amir Bell missed Three Point Jumper.
+Princeton,Cornell,65,34,29,38,0,Darryl Smith Defensive Rebound.
+Princeton,Cornell,65,34,29,54,0,Wil Bathurst missed Jumper.
+Princeton,Cornell,65,34,29,54,0,Spencer Weisz Defensive Rebound.
+Princeton,Cornell,65,34,30,11,0,Pete Miller missed Jumper.
+Princeton,Cornell,65,34,30,11,0,Wil Bathurst Defensive Rebound.
+Princeton,Cornell,65,36,30,28,1,Matt Morgan made Layup.
+Princeton,Cornell,67,36,30,45,1,Amir Bell made Jumper.
+Princeton,Cornell,67,36,31,0,0,Matt Morgan Turnover.
+Princeton,Cornell,69,36,31,10,1,Pete Miller made Jumper. Assisted by Amir Bell.
+Princeton,Cornell,69,36,31,38,0,Foul on Amir Bell.
+Princeton,Cornell,69,36,32,5,0,Desmond Fleming missed Jumper.
+Princeton,Cornell,69,36,32,5,0,Khyan Rayner Defensive Rebound.
+Princeton,Cornell,69,36,32,20,0,Mike LeBlanc missed Three Point Jumper.
+Princeton,Cornell,69,36,32,20,0,Darryl Smith Defensive Rebound.
+Princeton,Cornell,69,36,32,43,0,Foul on Khyan Rayner.
+Princeton,Cornell,69,36,32,43,0,Official TV Timeout
+Princeton,Cornell,69,38,32,50,1,Stone Gettings made Layup.
+Princeton,Cornell,69,38,33,8,0,Mike LeBlanc missed Layup.
+Princeton,Cornell,69,38,33,8,0,Stone Gettings Block.
+Princeton,Cornell,69,38,33,9,0,Darryl Smith Defensive Rebound.
+Princeton,Cornell,69,38,33,30,0,Wil Bathurst missed Jumper.
+Princeton,Cornell,69,38,33,30,0,Noah Bramlage Defensive Rebound.
+Princeton,Cornell,69,38,33,47,0,Khyan Rayner missed Layup.
+Princeton,Cornell,69,38,33,47,0,Wil Bathurst Defensive Rebound.
+Princeton,Cornell,69,38,34,7,0,Desmond Fleming Turnover.
+Princeton,Cornell,69,41,34,16,1,Joel Davis made Three Point Jumper. Assisted by Robert Mischler.
+Princeton,Cornell,71,41,34,33,1,Noah Bramlage made Layup.
+Princeton,Cornell,71,41,34,33,0,Foul on Joel Davis.
+Princeton,Cornell,72,41,34,33,1,Noah Bramlage made Free Throw.
+Princeton,Cornell,72,44,34,44,1,Robert Mischler made Three Point Jumper. Assisted by Desmond Fleming.
+Princeton,Cornell,72,44,35,9,0,Foul on Stone Gettings.
+Princeton,Cornell,73,44,35,9,1,Noah Bramlage made Free Throw.
+Princeton,Cornell,74,44,35,9,1,Noah Bramlage made Free Throw.
+Princeton,Cornell,74,44,35,18,0,Kyle Brown Turnover.
+Princeton,Cornell,74,44,35,19,0,Jackson Forbes Steal.
+Princeton,Cornell,76,44,35,22,1,Jackson Forbes made Layup.
+Princeton,Cornell,76,46,35,37,1,Desmond Fleming made Layup.
+Princeton,Cornell,78,46,36,7,1,Noah Bramlage made Jumper.
+Princeton,Cornell,78,46,36,40,0,Kyle Brown missed Three Point Jumper.
+Princeton,Cornell,78,46,36,40,0,Jackson Forbes Defensive Rebound.
+Princeton,Cornell,78,46,36,52,0,Jackson Forbes missed Three Point Jumper.
+Princeton,Cornell,78,46,36,52,0,Desmond Fleming Defensive Rebound.
+Princeton,Cornell,78,46,36,57,0,Foul on Khyan Rayner.
+Princeton,Cornell,78,46,36,57,0,Official TV Timeout
+Princeton,Cornell,78,47,36,57,1,Desmond Fleming made Free Throw.
+Princeton,Cornell,78,48,36,57,1,Desmond Fleming made Free Throw.
+Princeton,Cornell,78,48,37,12,0,Foul on Stone Gettings.
+Princeton,Cornell,79,48,37,12,1,Noah Bramlage made Free Throw.
+Princeton,Cornell,80,48,37,12,1,Noah Bramlage made Free Throw.
+Princeton,Cornell,80,51,37,23,1,Robert Mischler made Three Point Jumper.
+Princeton,Cornell,80,51,37,37,0,Foul on Stone Gettings.
+Princeton,Cornell,81,51,37,37,1,Khyan Rayner made Free Throw.
+Princeton,Cornell,82,51,37,37,1,Khyan Rayner made Free Throw.
+Princeton,Cornell,82,51,37,54,0,Stone Gettings missed Three Point Jumper.
+Princeton,Cornell,82,51,37,54,0,Mike LeBlanc Defensive Rebound.
+Princeton,Cornell,82,51,38,2,0,Noah Bramlage missed Three Point Jumper.
+Princeton,Cornell,82,51,38,2,0,Robert Mischler Defensive Rebound.
+Princeton,Cornell,82,53,38,14,1,Desmond Fleming made Jumper.
+Princeton,Cornell,82,53,38,30,0,Foul on Desmond Fleming.
+Princeton,Cornell,83,53,38,30,1,Khyan Rayner made Free Throw.
+Princeton,Cornell,83,53,38,30,0,Khyan Rayner missed Free Throw.
+Princeton,Cornell,83,53,38,30,0,Joseph Bayless Defensive Rebound.
+Princeton,Cornell,83,56,38,43,1,Robert Mischler made Three Point Jumper. Assisted by Xavier Eaglin.
+Princeton,Cornell,83,56,39,11,0,Foul on Robert Mischler.
+Princeton,Cornell,84,56,39,11,1,Khyan Rayner made Free Throw.
+Princeton,Cornell,85,56,39,11,1,Khyan Rayner made Free Throw.
+Princeton,Cornell,85,56,39,31,0,Xavier Eaglin Turnover.
+Princeton,Cornell,85,56,39,33,0,Noah Bramlage Steal.
+Princeton,Cornell,85,56,40,0,0,End of Game

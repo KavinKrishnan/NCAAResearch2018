@@ -1,0 +1,354 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UC Davis,Hawai'i,0,0,0,22,0,Isaac Fotu missed Jumper.
+UC Davis,Hawai'i,0,0,0,22,0,Vander Joaquim Offensive Rebound.
+UC Davis,Hawai'i,0,2,0,25,1,Vander Joaquim made Jumper.
+UC Davis,Hawai'i,3,2,0,38,1,Josh Ritchart made Three Point Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,3,2,0,52,0,Foul on Corey Hawkins
+UC Davis,Hawai'i,3,2,0,55,0,Ozren Pavlovic missed Jumper.
+UC Davis,Hawai'i,3,2,0,55,0,Vander Joaquim Offensive Rebound.
+UC Davis,Hawai'i,3,2,0,58,0,Vander Joaquim missed Jumper.
+UC Davis,Hawai'i,3,2,0,58,0,null
+UC Davis,Hawai'i,3,2,1,1,0,Foul on J.T. Adenrele
+UC Davis,Hawai'i,3,5,1,8,1,Ozren Pavlovic made Three Point Jumper.
+UC Davis,Hawai'i,3,5,1,31,0,Ryan Sypkens missed Three Point Jumper.
+UC Davis,Hawai'i,3,5,1,31,0,Corey Hawkins Offensive Rebound.
+UC Davis,Hawai'i,3,5,1,44,0,Ryan Sypkens missed Jumper.
+UC Davis,Hawai'i,3,5,1,44,0,J.T. Adenrele Offensive Rebound.
+UC Davis,Hawai'i,3,5,1,48,0,J.T. Adenrele missed Dunk.
+UC Davis,Hawai'i,3,5,1,48,0,Corey Hawkins Offensive Rebound.
+UC Davis,Hawai'i,5,5,2,0,1,Paolo Mancasola made Layup.
+UC Davis,Hawai'i,5,5,2,39,0,Ozren Pavlovic missed Three Point Jumper.
+UC Davis,Hawai'i,5,5,2,39,0,Isaac Fotu Offensive Rebound.
+UC Davis,Hawai'i,5,5,2,43,0,Hawaii Turnover.
+UC Davis,Hawai'i,8,5,3,2,1,Corey Hawkins made Three Point Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,8,5,3,22,0,Brandon Jawato missed Three Point Jumper.
+UC Davis,Hawai'i,8,5,3,22,0,Vander Joaquim Offensive Rebound.
+UC Davis,Hawai'i,8,7,3,27,1,Vander Joaquim made Jumper.
+UC Davis,Hawai'i,11,7,3,40,1,Ryan Sypkens made Three Point Jumper.
+UC Davis,Hawai'i,11,9,4,1,1,Isaac Fotu made Jumper.
+UC Davis,Hawai'i,11,9,4,26,0,Foul on Vander Joaquim
+UC Davis,Hawai'i,11,9,4,26,0,Official TV Timeout.
+UC Davis,Hawai'i,11,9,4,26,0,Josh Ritchart missed Free Throw.
+UC Davis,Hawai'i,11,9,4,26,0,null
+UC Davis,Hawai'i,12,9,4,26,1,Josh Ritchart made Free Throw.
+UC Davis,Hawai'i,12,9,4,26,0,Josh Ritchart missed Free Throw.
+UC Davis,Hawai'i,12,9,4,26,0,Brandon Jawato Defensive Rebound.
+UC Davis,Hawai'i,12,9,5,2,0,Ozren Pavlovic missed Jumper.
+UC Davis,Hawai'i,12,9,5,2,0,null
+UC Davis,Hawai'i,12,9,5,4,0,Foul on Isaac Fotu
+UC Davis,Hawai'i,14,9,5,15,1,J.T. Adenrele made Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,14,9,5,25,0,Ozren Pavlovic missed Three Point Jumper.
+UC Davis,Hawai'i,14,9,5,25,0,J.T. Adenrele Defensive Rebound.
+UC Davis,Hawai'i,17,9,5,43,1,Josh Ritchart made Three Point Jumper.
+UC Davis,Hawai'i,17,9,6,0,0,Foul on Josh Ritchart
+UC Davis,Hawai'i,17,9,6,5,0,Isaac Fotu missed Jumper.
+UC Davis,Hawai'i,17,9,6,5,0,Corey Hawkins Defensive Rebound.
+UC Davis,Hawai'i,17,9,6,13,0,Corey Hawkins missed Three Point Jumper.
+UC Davis,Hawai'i,17,9,6,13,0,Brandon Spearman Defensive Rebound.
+UC Davis,Hawai'i,17,9,6,23,0,Davis Rozitis missed Jumper.
+UC Davis,Hawai'i,17,9,6,23,0,Clint Bozner Block.
+UC Davis,Hawai'i,17,9,6,25,0,Clint Bozner Defensive Rebound.
+UC Davis,Hawai'i,20,9,6,37,1,Ryan Sypkens made Three Point Jumper.  Assisted by Corey Hawkins.
+UC Davis,Hawai'i,20,9,6,56,0,Davis Rozitis Turnover.
+UC Davis,Hawai'i,20,9,6,57,0,Corey Hawkins Steal.
+UC Davis,Hawai'i,20,9,7,14,0,Josh Ritchart missed Three Point Jumper.
+UC Davis,Hawai'i,20,9,7,14,0,Jace Tavita Defensive Rebound.
+UC Davis,Hawai'i,20,9,7,41,0,Brandon Spearman missed Three Point Jumper.
+UC Davis,Hawai'i,20,9,7,41,0,Corey Hawkins Defensive Rebound.
+UC Davis,Hawai'i,20,9,7,49,0,Corey Hawkins Turnover.
+UC Davis,Hawai'i,20,9,7,51,0,Brandon Spearman Steal.
+UC Davis,Hawai'i,20,11,7,54,1,Brandon Spearman made Layup.
+UC Davis,Hawai'i,20,11,7,54,0,Foul on Josh Ritchart
+UC Davis,Hawai'i,20,12,7,54,1,Brandon Spearman made Free Throw.
+UC Davis,Hawai'i,23,12,8,13,1,Tyler Les made Three Point Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,23,12,8,33,0,Foul on Clint Bozner
+UC Davis,Hawai'i,23,12,8,33,0,Official TV Timeout.
+UC Davis,Hawai'i,23,13,8,33,1,Christian Standhardinger made Free Throw.
+UC Davis,Hawai'i,23,14,8,33,1,Christian Standhardinger made Free Throw.
+UC Davis,Hawai'i,25,14,8,41,1,Paolo Mancasola made Layup.
+UC Davis,Hawai'i,25,14,8,58,0,Vander Joaquim Turnover.
+UC Davis,Hawai'i,25,14,8,58,0,Foul on Vander Joaquim
+UC Davis,Hawai'i,28,14,9,10,1,Tyler Les made Three Point Jumper.  Assisted by Corey Hawkins.
+UC Davis,Hawai'i,28,14,9,19,0,Foul on Clint Bozner
+UC Davis,Hawai'i,28,14,9,26,0,Manroop Clair missed Three Point Jumper.
+UC Davis,Hawai'i,28,14,9,26,0,Isaac Fotu Offensive Rebound.
+UC Davis,Hawai'i,28,16,9,30,1,Isaac Fotu made Layup.
+UC Davis,Hawai'i,30,16,9,48,1,Ryan Howley made Jumper.  Assisted by Tyler Les.
+UC Davis,Hawai'i,30,16,9,54,0,Hawaii Full Timeout.
+UC Davis,Hawai'i,30,18,10,14,1,Isaac Fotu made Jumper.  Assisted by Christian Standhardinger.
+UC Davis,Hawai'i,30,18,10,25,0,Foul on Manroop Clair
+UC Davis,Hawai'i,30,18,10,28,0,J.T. Adenrele Turnover.
+UC Davis,Hawai'i,30,20,10,41,1,Brandon Spearman made Jumper.
+UC Davis,Hawai'i,30,20,11,2,0,Ryan Sypkens missed Three Point Jumper.
+UC Davis,Hawai'i,30,20,11,2,0,Ryan Howley Offensive Rebound.
+UC Davis,Hawai'i,30,20,11,8,0,Ryan Howley Turnover.
+UC Davis,Hawai'i,30,20,11,9,0,Brandon Spearman Steal.
+UC Davis,Hawai'i,30,20,11,13,0,Brandon Spearman Turnover.
+UC Davis,Hawai'i,30,20,11,13,0,Foul on Brandon Spearman
+UC Davis,Hawai'i,30,20,11,25,0,J.T. Adenrele Turnover.
+UC Davis,Hawai'i,30,23,11,33,1,Christian Standhardinger made Three Point Jumper.
+UC Davis,Hawai'i,30,23,11,35,0,UC Davis Full Timeout.
+UC Davis,Hawai'i,30,23,11,44,0,Foul on Garrett Jefferson
+UC Davis,Hawai'i,30,23,11,57,0,Corey Hawkins missed Layup.
+UC Davis,Hawai'i,30,23,11,57,0,Garrett Jefferson Defensive Rebound.
+UC Davis,Hawai'i,30,23,12,9,0,Isaac Fotu missed Jumper.
+UC Davis,Hawai'i,30,23,12,9,0,Ryan Howley Defensive Rebound.
+UC Davis,Hawai'i,30,23,12,31,0,Corey Hawkins Turnover.
+UC Davis,Hawai'i,30,23,12,32,0,Garrett Jefferson Steal.
+UC Davis,Hawai'i,30,23,12,34,0,Foul on Ryan Sypkens
+UC Davis,Hawai'i,30,23,12,34,0,Official TV Timeout.
+UC Davis,Hawai'i,30,24,12,34,1,Garrett Jefferson made Free Throw.
+UC Davis,Hawai'i,30,25,12,34,1,Garrett Jefferson made Free Throw.
+UC Davis,Hawai'i,30,25,12,42,0,Ryan Sypkens Turnover.
+UC Davis,Hawai'i,30,25,12,44,0,Manroop Clair Steal.
+UC Davis,Hawai'i,30,28,12,47,1,Brandon Jawato made Three Point Jumper.  Assisted by Manroop Clair.
+UC Davis,Hawai'i,30,28,12,57,0,Ryan Howley Turnover.
+UC Davis,Hawai'i,30,28,12,58,0,Brandon Jawato missed Three Point Jumper.
+UC Davis,Hawai'i,30,28,12,58,0,Garrett Jefferson Offensive Rebound.
+UC Davis,Hawai'i,30,28,13,2,0,Garrett Jefferson Turnover.
+UC Davis,Hawai'i,30,28,13,10,0,UC Davis Full Timeout.
+UC Davis,Hawai'i,33,28,13,14,1,Corey Hawkins made Three Point Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,33,30,13,38,1,Christian Standhardinger made Jumper.
+UC Davis,Hawai'i,33,30,13,52,0,Josh Ritchart missed Three Point Jumper.
+UC Davis,Hawai'i,33,30,13,52,0,Christian Standhardinger Defensive Rebound.
+UC Davis,Hawai'i,33,30,14,2,0,Christian Standhardinger missed Three Point Jumper.
+UC Davis,Hawai'i,33,30,14,2,0,Isaac Fotu Offensive Rebound.
+UC Davis,Hawai'i,33,30,14,7,0,Isaac Fotu Turnover.
+UC Davis,Hawai'i,33,30,14,8,0,Paolo Mancasola Steal.
+UC Davis,Hawai'i,33,30,14,11,0,Foul on Manroop Clair
+UC Davis,Hawai'i,33,30,14,11,0,Paolo Mancasola missed Free Throw.
+UC Davis,Hawai'i,33,30,14,11,0,null
+UC Davis,Hawai'i,33,30,14,11,0,Paolo Mancasola missed Free Throw.
+UC Davis,Hawai'i,33,30,14,11,0,Garrett Jefferson Defensive Rebound.
+UC Davis,Hawai'i,33,30,14,19,0,Ozren Pavlovic Turnover.
+UC Davis,Hawai'i,33,30,14,21,0,J.T. Adenrele Steal.
+UC Davis,Hawai'i,33,30,14,23,0,Ryan Sypkens missed Three Point Jumper.
+UC Davis,Hawai'i,33,30,14,23,0,J.T. Adenrele Offensive Rebound.
+UC Davis,Hawai'i,33,30,14,30,0,J.T. Adenrele missed Jumper.
+UC Davis,Hawai'i,33,30,14,30,0,J.T. Adenrele Offensive Rebound.
+UC Davis,Hawai'i,33,30,14,33,0,J.T. Adenrele missed Jumper.
+UC Davis,Hawai'i,33,30,14,33,0,Christian Standhardinger Defensive Rebound.
+UC Davis,Hawai'i,33,30,14,54,0,Isaac Fotu Turnover.
+UC Davis,Hawai'i,33,30,14,55,0,J.T. Adenrele Steal.
+UC Davis,Hawai'i,36,30,14,59,1,Corey Hawkins made Three Point Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,36,30,15,28,0,Isaac Fotu Turnover.
+UC Davis,Hawai'i,36,30,15,29,0,Ryan Sypkens Steal.
+UC Davis,Hawai'i,36,30,15,31,0,Foul on Ozren Pavlovic
+UC Davis,Hawai'i,37,30,15,31,1,Paolo Mancasola made Free Throw.
+UC Davis,Hawai'i,37,30,15,31,0,Paolo Mancasola missed Free Throw.
+UC Davis,Hawai'i,37,30,15,31,0,Christian Standhardinger Defensive Rebound.
+UC Davis,Hawai'i,37,32,15,46,1,Brandon Spearman made Jumper.  Assisted by Vander Joaquim.
+UC Davis,Hawai'i,37,32,16,1,0,Ryan Sypkens missed Three Point Jumper.
+UC Davis,Hawai'i,37,32,16,1,0,J.T. Adenrele Offensive Rebound.
+UC Davis,Hawai'i,39,32,16,5,1,J.T. Adenrele made Jumper.
+UC Davis,Hawai'i,39,32,16,21,0,Vander Joaquim missed Jumper.
+UC Davis,Hawai'i,39,32,16,21,0,Corey Hawkins Defensive Rebound.
+UC Davis,Hawai'i,39,32,16,39,0,Corey Hawkins missed Jumper.
+UC Davis,Hawai'i,39,32,16,39,0,Vander Joaquim Defensive Rebound.
+UC Davis,Hawai'i,39,32,16,50,0,Brandon Jawato missed Jumper.
+UC Davis,Hawai'i,39,32,16,50,0,J.T. Adenrele Block.
+UC Davis,Hawai'i,39,32,16,53,0,Tyler Les Defensive Rebound.
+UC Davis,Hawai'i,39,32,16,59,0,Paolo Mancasola missed Jumper.
+UC Davis,Hawai'i,39,32,16,59,0,Paolo Mancasola Offensive Rebound.
+UC Davis,Hawai'i,42,32,17,3,1,Corey Hawkins made Three Point Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,42,32,17,22,0,Christian Standhardinger missed Jumper.
+UC Davis,Hawai'i,42,32,17,22,0,Vander Joaquim Offensive Rebound.
+UC Davis,Hawai'i,42,32,17,24,0,Foul on Ryan Sypkens
+UC Davis,Hawai'i,42,32,17,24,0,Official TV Timeout.
+UC Davis,Hawai'i,42,33,17,24,1,Vander Joaquim made Free Throw.
+UC Davis,Hawai'i,42,34,17,24,1,Vander Joaquim made Free Throw.
+UC Davis,Hawai'i,45,34,17,46,1,Ryan Howley made Three Point Jumper.  Assisted by Tyler Les.
+UC Davis,Hawai'i,45,34,18,3,0,Brandon Jawato missed Three Point Jumper.
+UC Davis,Hawai'i,45,34,18,3,0,Tyler Les Defensive Rebound.
+UC Davis,Hawai'i,48,34,18,17,1,Corey Hawkins made Three Point Jumper.  Assisted by Tyler Les.
+UC Davis,Hawai'i,48,34,18,23,0,Hawaii Full Timeout.
+UC Davis,Hawai'i,48,34,18,38,0,Foul on Ryan Howley
+UC Davis,Hawai'i,48,35,18,38,1,Christian Standhardinger made Free Throw.
+UC Davis,Hawai'i,48,35,18,38,0,Christian Standhardinger missed Free Throw.
+UC Davis,Hawai'i,48,35,18,38,0,null
+UC Davis,Hawai'i,51,35,19,3,1,Corey Hawkins made Three Point Jumper.
+UC Davis,Hawai'i,51,37,19,23,1,Christian Standhardinger made Jumper.  Assisted by Davis Rozitis.
+UC Davis,Hawai'i,54,37,19,37,1,Corey Hawkins made Three Point Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,54,37,19,59,0,Garrett Jefferson missed Jumper.
+UC Davis,Hawai'i,54,37,19,59,0,J.T. Adenrele Block.
+UC Davis,Hawai'i,54,37,20,0,0,Davis Rozitis Offensive Rebound.
+UC Davis,Hawai'i,54,37,20,0,0,Davis Rozitis missed Jumper.
+UC Davis,Hawai'i,54,37,20,0,0,null
+UC Davis,Hawai'i,54,37,20,0,0,End of the 1st Half.
+UC Davis,Hawai'i,54,37,20,25,0,Josh Ritchart missed Jumper.
+UC Davis,Hawai'i,54,37,20,25,0,Brandon Spearman Defensive Rebound.
+UC Davis,Hawai'i,54,37,20,36,0,Vander Joaquim missed Jumper.
+UC Davis,Hawai'i,54,37,20,36,0,Christian Standhardinger Offensive Rebound.
+UC Davis,Hawai'i,54,39,20,39,1,Christian Standhardinger made Jumper.
+UC Davis,Hawai'i,56,39,21,5,1,J.T. Adenrele made Dunk.  Assisted by Josh Ritchart.
+UC Davis,Hawai'i,56,39,21,26,0,Vander Joaquim missed Jumper.
+UC Davis,Hawai'i,56,39,21,26,0,Vander Joaquim Offensive Rebound.
+UC Davis,Hawai'i,56,39,21,29,0,Foul on Josh Ritchart
+UC Davis,Hawai'i,56,40,21,29,1,Vander Joaquim made Free Throw.
+UC Davis,Hawai'i,56,41,21,29,1,Vander Joaquim made Free Throw.
+UC Davis,Hawai'i,58,41,21,59,1,Ryan Howley made Jumper.
+UC Davis,Hawai'i,58,41,22,14,0,Christian Standhardinger missed Jumper.
+UC Davis,Hawai'i,58,41,22,14,0,Christian Standhardinger Offensive Rebound.
+UC Davis,Hawai'i,58,41,22,17,0,Christian Standhardinger missed Jumper.
+UC Davis,Hawai'i,58,41,22,17,0,Vander Joaquim Offensive Rebound.
+UC Davis,Hawai'i,58,41,22,21,0,Foul on Ryan Sypkens
+UC Davis,Hawai'i,58,42,22,21,1,Vander Joaquim made Free Throw.
+UC Davis,Hawai'i,58,43,22,21,1,Vander Joaquim made Free Throw.
+UC Davis,Hawai'i,58,43,22,25,0,Corey Hawkins Turnover.
+UC Davis,Hawai'i,58,43,22,27,0,Brandon Jawato Steal.
+UC Davis,Hawai'i,58,43,22,30,0,Ozren Pavlovic Turnover.
+UC Davis,Hawai'i,58,43,22,31,0,J.T. Adenrele Steal.
+UC Davis,Hawai'i,58,43,23,1,0,Foul on Davis Rozitis
+UC Davis,Hawai'i,59,43,23,1,1,J.T. Adenrele made Free Throw.
+UC Davis,Hawai'i,60,43,23,1,1,J.T. Adenrele made Free Throw.
+UC Davis,Hawai'i,60,43,23,16,0,Christian Standhardinger missed Jumper.
+UC Davis,Hawai'i,60,43,23,16,0,Corey Hawkins Defensive Rebound.
+UC Davis,Hawai'i,62,43,23,24,1,J.T. Adenrele made Dunk.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,62,43,23,53,0,Foul on J.T. Adenrele
+UC Davis,Hawai'i,62,44,23,53,1,Vander Joaquim made Free Throw.
+UC Davis,Hawai'i,62,45,23,53,1,Vander Joaquim made Free Throw.
+UC Davis,Hawai'i,62,45,23,57,0,Corey Hawkins Turnover.
+UC Davis,Hawai'i,62,45,23,59,0,Jace Tavita Steal.
+UC Davis,Hawai'i,62,48,24,2,1,Brandon Spearman made Three Point Jumper.  Assisted by Jace Tavita.
+UC Davis,Hawai'i,65,48,24,22,1,Corey Hawkins made Three Point Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,65,50,24,34,1,Vander Joaquim made Jumper.
+UC Davis,Hawai'i,65,50,24,47,0,Ryan Howley Turnover.
+UC Davis,Hawai'i,65,50,24,48,0,Brandon Spearman Steal.
+UC Davis,Hawai'i,65,50,24,50,0,Brandon Jawato Turnover.
+UC Davis,Hawai'i,65,50,24,50,0,Foul on Brandon Jawato
+UC Davis,Hawai'i,65,50,25,3,0,Foul on Jace Tavita
+UC Davis,Hawai'i,65,50,25,32,0,Tyler Les missed Three Point Jumper.
+UC Davis,Hawai'i,65,50,25,32,0,Christian Standhardinger Defensive Rebound.
+UC Davis,Hawai'i,65,52,25,46,1,Christian Standhardinger made Jumper.  Assisted by Jace Tavita.
+UC Davis,Hawai'i,67,52,25,56,1,Ryan Howley made Jumper.  Assisted by Paolo Mancasola.
+UC Davis,Hawai'i,67,55,26,8,1,Brandon Jawato made Three Point Jumper.  Assisted by Jace Tavita.
+UC Davis,Hawai'i,67,55,26,47,0,Foul on Vander Joaquim
+UC Davis,Hawai'i,68,55,26,47,1,Josh Ritchart made Free Throw.
+UC Davis,Hawai'i,68,55,26,47,0,Josh Ritchart missed Free Throw.
+UC Davis,Hawai'i,68,55,26,47,0,Vander Joaquim Defensive Rebound.
+UC Davis,Hawai'i,68,55,27,11,0,Vander Joaquim missed Jumper.
+UC Davis,Hawai'i,68,55,27,11,0,Paolo Mancasola Defensive Rebound.
+UC Davis,Hawai'i,68,55,27,27,0,Ryan Sypkens missed Jumper.
+UC Davis,Hawai'i,68,55,27,27,0,Vander Joaquim Defensive Rebound.
+UC Davis,Hawai'i,68,55,27,39,0,Garrett Jefferson Turnover.
+UC Davis,Hawai'i,68,55,27,46,0,Tyler Les missed Three Point Jumper.
+UC Davis,Hawai'i,68,55,27,46,0,Garrett Jefferson Defensive Rebound.
+UC Davis,Hawai'i,68,55,28,5,0,Vander Joaquim missed Jumper.
+UC Davis,Hawai'i,68,55,28,5,0,Garrett Jefferson Offensive Rebound.
+UC Davis,Hawai'i,68,55,28,8,0,Foul on Paolo Mancasola
+UC Davis,Hawai'i,68,55,28,8,0,Official TV Timeout.
+UC Davis,Hawai'i,68,55,28,8,0,Garrett Jefferson missed Free Throw.
+UC Davis,Hawai'i,68,55,28,8,0,null
+UC Davis,Hawai'i,68,55,28,8,0,Garrett Jefferson missed Free Throw.
+UC Davis,Hawai'i,68,55,28,8,0,Corey Hawkins Defensive Rebound.
+UC Davis,Hawai'i,68,55,28,23,0,Josh Ritchart Turnover.
+UC Davis,Hawai'i,68,55,28,24,0,Ozren Pavlovic Steal.
+UC Davis,Hawai'i,68,55,28,29,0,Christian Standhardinger Turnover.
+UC Davis,Hawai'i,68,55,28,29,0,UC Davis Full Timeout.
+UC Davis,Hawai'i,68,55,28,56,0,Foul on Christian Standhardinger
+UC Davis,Hawai'i,68,55,29,6,0,Paolo Mancasola missed Jumper.
+UC Davis,Hawai'i,68,55,29,6,0,Jace Tavita Defensive Rebound.
+UC Davis,Hawai'i,68,55,29,12,0,Ozren Pavlovic missed Three Point Jumper.
+UC Davis,Hawai'i,68,55,29,12,0,J.T. Adenrele Defensive Rebound.
+UC Davis,Hawai'i,70,55,29,28,1,Corey Hawkins made Jumper.
+UC Davis,Hawai'i,70,55,29,45,0,Christian Standhardinger missed Jumper.
+UC Davis,Hawai'i,70,55,29,45,0,Ryan Howley Defensive Rebound.
+UC Davis,Hawai'i,70,55,29,52,0,Paolo Mancasola Turnover.
+UC Davis,Hawai'i,70,55,29,53,0,Garrett Jefferson Steal.
+UC Davis,Hawai'i,70,57,29,54,1,Garrett Jefferson made Layup.
+UC Davis,Hawai'i,70,57,29,58,0,Foul on Ozren Pavlovic
+UC Davis,Hawai'i,70,57,30,7,0,J.T. Adenrele Turnover.
+UC Davis,Hawai'i,70,57,30,8,0,Garrett Jefferson Steal.
+UC Davis,Hawai'i,70,57,30,10,0,Garrett Jefferson missed Layup.
+UC Davis,Hawai'i,70,57,30,10,0,Ryan Howley Defensive Rebound.
+UC Davis,Hawai'i,73,57,30,20,1,Ryan Sypkens made Three Point Jumper.  Assisted by Clint Bozner.
+UC Davis,Hawai'i,73,57,30,29,0,Brandon Jawato missed Three Point Jumper.
+UC Davis,Hawai'i,73,57,30,29,0,J.T. Adenrele Defensive Rebound.
+UC Davis,Hawai'i,73,57,30,52,0,Ryan Sypkens missed Jumper.
+UC Davis,Hawai'i,73,57,30,52,0,Vander Joaquim Defensive Rebound.
+UC Davis,Hawai'i,73,57,31,3,0,Manroop Clair missed Three Point Jumper.
+UC Davis,Hawai'i,73,57,31,3,0,Corey Hawkins Defensive Rebound.
+UC Davis,Hawai'i,73,57,31,34,0,J.T. Adenrele missed Jumper.
+UC Davis,Hawai'i,73,57,31,34,0,Garrett Jefferson Defensive Rebound.
+UC Davis,Hawai'i,73,57,31,46,0,Brandon Spearman missed Jumper.
+UC Davis,Hawai'i,73,57,31,46,0,Corey Hawkins Defensive Rebound.
+UC Davis,Hawai'i,73,57,32,3,0,Foul on Garrett Jefferson
+UC Davis,Hawai'i,73,57,32,3,0,Official TV Timeout.
+UC Davis,Hawai'i,74,57,32,3,1,Paolo Mancasola made Free Throw.
+UC Davis,Hawai'i,74,57,32,3,0,Paolo Mancasola missed Free Throw.
+UC Davis,Hawai'i,74,57,32,3,0,Davis Rozitis Defensive Rebound.
+UC Davis,Hawai'i,74,57,32,14,0,Foul on Josh Ritchart
+UC Davis,Hawai'i,74,57,32,19,0,Foul on Ryan Sypkens
+UC Davis,Hawai'i,74,59,32,20,1,Davis Rozitis made Jumper.  Assisted by Jace Tavita.
+UC Davis,Hawai'i,76,59,32,34,1,J.T. Adenrele made Jumper.
+UC Davis,Hawai'i,76,61,32,51,1,Davis Rozitis made Jumper.  Assisted by Jace Tavita.
+UC Davis,Hawai'i,76,61,33,25,0,Paolo Mancasola Turnover.
+UC Davis,Hawai'i,76,61,33,37,0,Foul on Corey Hawkins
+UC Davis,Hawai'i,76,62,33,37,1,Isaac Fotu made Free Throw.
+UC Davis,Hawai'i,76,63,33,37,1,Isaac Fotu made Free Throw.
+UC Davis,Hawai'i,76,63,34,8,0,Paolo Mancasola missed Three Point Jumper.
+UC Davis,Hawai'i,76,63,34,8,0,Brandon Jawato Defensive Rebound.
+UC Davis,Hawai'i,76,63,34,12,0,Foul on Corey Hawkins
+UC Davis,Hawai'i,76,64,34,12,1,Brandon Jawato made Free Throw.
+UC Davis,Hawai'i,76,65,34,12,1,Brandon Jawato made Free Throw.
+UC Davis,Hawai'i,76,65,34,34,0,Josh Ritchart missed Jumper.
+UC Davis,Hawai'i,76,65,34,34,0,Christian Standhardinger Defensive Rebound.
+UC Davis,Hawai'i,76,65,34,47,0,Foul on Josh Ritchart
+UC Davis,Hawai'i,76,65,34,47,0,Isaac Fotu missed Free Throw.
+UC Davis,Hawai'i,76,65,34,47,0,J.T. Adenrele Defensive Rebound.
+UC Davis,Hawai'i,76,65,35,19,0,Ryan Howley missed Jumper.
+UC Davis,Hawai'i,76,65,35,19,0,J.T. Adenrele Offensive Rebound.
+UC Davis,Hawai'i,76,65,35,23,0,J.T. Adenrele missed Jumper.
+UC Davis,Hawai'i,76,65,35,23,0,Christian Standhardinger Defensive Rebound.
+UC Davis,Hawai'i,76,67,35,31,1,Isaac Fotu made Layup.  Assisted by Brandon Spearman.
+UC Davis,Hawai'i,76,67,35,51,0,Corey Hawkins missed Jumper.
+UC Davis,Hawai'i,76,67,35,51,0,Corey Hawkins Offensive Rebound.
+UC Davis,Hawai'i,78,67,36,17,1,Corey Hawkins made Jumper.
+UC Davis,Hawai'i,78,67,36,24,0,Brandon Spearman missed Three Point Jumper.
+UC Davis,Hawai'i,78,67,36,24,0,Tyler Les Defensive Rebound.
+UC Davis,Hawai'i,78,67,36,41,0,Foul on Christian Standhardinger
+UC Davis,Hawai'i,78,67,36,41,0,Official TV Timeout.
+UC Davis,Hawai'i,79,67,36,41,1,Paolo Mancasola made Free Throw.
+UC Davis,Hawai'i,79,67,36,41,0,J.T. Adenrele Turnover.
+UC Davis,Hawai'i,79,70,36,55,1,Ozren Pavlovic made Three Point Jumper.
+UC Davis,Hawai'i,79,70,36,59,0,Hawaii Full Timeout.
+UC Davis,Hawai'i,81,70,37,24,1,J.T. Adenrele made Jumper.  Assisted by Ryan Sypkens.
+UC Davis,Hawai'i,81,72,37,45,1,Davis Rozitis made Jumper.  Assisted by Christian Standhardinger.
+UC Davis,Hawai'i,81,72,37,46,0,Hawaii Full Timeout.
+UC Davis,Hawai'i,81,72,37,50,0,Ryan Sypkens Turnover.
+UC Davis,Hawai'i,81,72,37,50,0,Garrett Jefferson Steal.
+UC Davis,Hawai'i,81,74,38,4,1,Christian Standhardinger made Jumper.  Assisted by Jace Tavita.
+UC Davis,Hawai'i,81,74,38,6,0,Hawaii Full Timeout.
+UC Davis,Hawai'i,81,74,38,7,0,Foul on Garrett Jefferson
+UC Davis,Hawai'i,82,74,38,7,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,83,74,38,7,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,83,74,38,21,0,Vander Joaquim missed Jumper.
+UC Davis,Hawai'i,83,74,38,21,0,Corey Hawkins Defensive Rebound.
+UC Davis,Hawai'i,83,74,38,25,0,Foul on Brandon Jawato
+UC Davis,Hawai'i,84,74,38,25,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,85,74,38,25,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,85,76,38,31,1,Ozren Pavlovic made Dunk.
+UC Davis,Hawai'i,85,76,38,40,0,Corey Hawkins Turnover.
+UC Davis,Hawai'i,85,76,38,41,0,Christian Standhardinger Steal.
+UC Davis,Hawai'i,85,78,38,43,1,Christian Standhardinger made Jumper.
+UC Davis,Hawai'i,85,78,38,53,0,Foul on Jace Tavita
+UC Davis,Hawai'i,86,78,38,53,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,87,78,38,53,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,87,78,38,58,0,Brandon Jawato missed Three Point Jumper.
+UC Davis,Hawai'i,87,78,38,58,0,Corey Hawkins Defensive Rebound.
+UC Davis,Hawai'i,87,78,39,2,0,Foul on Ozren Pavlovic
+UC Davis,Hawai'i,88,78,39,2,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,89,78,39,2,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,89,78,39,8,0,Ozren Pavlovic missed Three Point Jumper.
+UC Davis,Hawai'i,89,78,39,8,0,Vander Joaquim Offensive Rebound.
+UC Davis,Hawai'i,89,80,39,10,1,Vander Joaquim made Jumper.
+UC Davis,Hawai'i,89,80,39,14,0,Foul on Vander Joaquim
+UC Davis,Hawai'i,90,80,39,14,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,91,80,39,14,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,91,82,39,26,1,Christian Standhardinger made Jumper.  Assisted by Brandon Spearman.
+UC Davis,Hawai'i,91,82,39,34,0,Foul on Ozren Pavlovic
+UC Davis,Hawai'i,92,82,39,34,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,93,82,39,34,1,Corey Hawkins made Free Throw.
+UC Davis,Hawai'i,93,82,39,40,0,Manroop Clair missed Three Point Jumper.
+UC Davis,Hawai'i,93,82,39,40,0,Ryan Howley Defensive Rebound.
+UC Davis,Hawai'i,93,82,40,0,0,End Game

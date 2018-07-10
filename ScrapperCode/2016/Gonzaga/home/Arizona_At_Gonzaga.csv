@@ -1,0 +1,328 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Arizona,Gonzaga,0,0,0,0,0,Jump Ball won by Arizona
+Arizona,Gonzaga,0,0,0,17,0,Allonzo Trier Turnover.
+Arizona,Gonzaga,0,0,0,18,0,Kyle Wiltjer missed Three Point Jumper.
+Arizona,Gonzaga,0,0,0,18,0,Kadeem Allen Defensive Rebound.
+Arizona,Gonzaga,0,0,0,34,0,Ryan Anderson missed Layup.
+Arizona,Gonzaga,0,0,0,34,0,Kyle Wiltjer Defensive Rebound.
+Arizona,Gonzaga,0,2,0,57,1,Domantas Sabonis made Layup.
+Arizona,Gonzaga,2,2,1,14,1,Gabe York made Layup.
+Arizona,Gonzaga,2,2,1,25,0,Domantas Sabonis missed Jumper.
+Arizona,Gonzaga,2,2,1,25,0,Ryan Anderson Defensive Rebound.
+Arizona,Gonzaga,4,2,1,51,1,Dusan Ristic made Layup.
+Arizona,Gonzaga,4,2,2,12,0,Domantas Sabonis missed Jumper.
+Arizona,Gonzaga,4,2,2,12,0,Ryan Anderson Defensive Rebound.
+Arizona,Gonzaga,4,2,2,25,0,Gabe York missed Jumper.
+Arizona,Gonzaga,4,2,2,25,0,Josh Perkins Defensive Rebound.
+Arizona,Gonzaga,4,5,2,32,1,Kyle Wiltjer made Three Point Jumper. Assisted by Josh Perkins.
+Arizona,Gonzaga,4,5,2,47,0,Allonzo Trier missed Jumper.
+Arizona,Gonzaga,4,5,2,47,0,Josh Perkins Defensive Rebound.
+Arizona,Gonzaga,4,5,2,59,0,Kyle Wiltjer missed Jumper.
+Arizona,Gonzaga,4,5,2,59,0,Domantas Sabonis Offensive Rebound.
+Arizona,Gonzaga,4,7,3,5,1,Domantas Sabonis made Jumper.
+Arizona,Gonzaga,6,7,3,33,1,Dusan Ristic made Layup. Assisted by Kadeem Allen.
+Arizona,Gonzaga,6,7,3,53,0,Domantas Sabonis Turnover.
+Arizona,Gonzaga,6,7,4,15,0,Dusan Ristic Turnover.
+Arizona,Gonzaga,6,7,4,15,0,Official TV Timeout
+Arizona,Gonzaga,6,7,4,33,0,Foul on Mark Tollefsen.
+Arizona,Gonzaga,6,8,4,33,1,Kyle Wiltjer made Free Throw.
+Arizona,Gonzaga,6,9,4,33,1,Kyle Wiltjer made Free Throw.
+Arizona,Gonzaga,6,9,4,44,0,Ryan Anderson missed Layup.
+Arizona,Gonzaga,6,9,4,44,0,Eric McClellan Defensive Rebound.
+Arizona,Gonzaga,6,9,4,52,0,Domantas Sabonis missed Layup.
+Arizona,Gonzaga,6,9,4,52,0,Ryan Anderson Defensive Rebound.
+Arizona,Gonzaga,6,9,5,1,0,Parker Jackson-Cartwright missed Layup.
+Arizona,Gonzaga,6,9,5,1,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,6,9,5,15,0,Kyle Wiltjer Turnover.
+Arizona,Gonzaga,6,9,5,15,0,Parker Jackson-Cartwright Steal.
+Arizona,Gonzaga,8,9,5,20,1,Gabe York made Layup. Assisted by Elliott Pitts.
+Arizona,Gonzaga,8,12,5,38,1,Kyle Wiltjer made Three Point Jumper. Assisted by Kyle Dranginis.
+Arizona,Gonzaga,8,12,6,3,0,Foul on Kyle Dranginis.
+Arizona,Gonzaga,8,12,6,22,0,Mark Tollefsen missed Jumper.
+Arizona,Gonzaga,8,12,6,22,0,Ryan Edwards Defensive Rebound.
+Arizona,Gonzaga,8,12,6,34,0,Foul on Ryan Edwards.
+Arizona,Gonzaga,8,12,6,34,0,Ryan Edwards Turnover.
+Arizona,Gonzaga,8,12,6,43,0,Elliott Pitts missed Three Point Jumper.
+Arizona,Gonzaga,8,12,6,43,0,Eric McClellan Defensive Rebound.
+Arizona,Gonzaga,8,14,6,53,1,Kyle Wiltjer made Layup. Assisted by Eric McClellan.
+Arizona,Gonzaga,8,14,7,2,0,Arizona  Timeout
+Arizona,Gonzaga,11,14,7,15,1,Parker Jackson-Cartwright made Three Point Jumper. Assisted by Allonzo Trier.
+Arizona,Gonzaga,11,14,7,42,0,Josh Perkins missed Jumper.
+Arizona,Gonzaga,11,14,7,42,0,Elliott Pitts Defensive Rebound.
+Arizona,Gonzaga,11,14,7,56,0,Foul on Ryan Edwards.
+Arizona,Gonzaga,12,14,7,56,1,Chance Comanche made Free Throw.
+Arizona,Gonzaga,13,14,7,56,1,Chance Comanche made Free Throw.
+Arizona,Gonzaga,13,14,8,4,0,Josh Perkins Turnover.
+Arizona,Gonzaga,13,14,8,4,0,Elliott Pitts Steal.
+Arizona,Gonzaga,13,14,8,17,0,Chance Comanche missed Jumper.
+Arizona,Gonzaga,13,14,8,17,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,13,16,8,33,1,Domantas Sabonis made Layup.
+Arizona,Gonzaga,15,16,8,54,1,Elliott Pitts made Layup.
+Arizona,Gonzaga,15,16,9,10,0,Kyle Wiltjer missed Three Point Jumper.
+Arizona,Gonzaga,15,16,9,10,0,Elliott Pitts Defensive Rebound.
+Arizona,Gonzaga,15,16,9,20,0,Elliott Pitts Turnover.
+Arizona,Gonzaga,15,16,9,20,0,Eric McClellan Steal.
+Arizona,Gonzaga,15,16,9,29,0,Foul on Chance Comanche.
+Arizona,Gonzaga,15,16,9,31,0,Official TV Timeout
+Arizona,Gonzaga,15,16,9,39,0,Kyle Wiltjer missed Jumper.
+Arizona,Gonzaga,15,16,9,39,0,Kadeem Allen Defensive Rebound.
+Arizona,Gonzaga,15,16,9,55,0,Kadeem Allen missed Three Point Jumper.
+Arizona,Gonzaga,15,16,9,55,0,Kadeem Allen Offensive Rebound.
+Arizona,Gonzaga,15,16,10,2,0,Dusan Ristic missed Layup.
+Arizona,Gonzaga,15,16,10,2,0,Kyle Wiltjer Defensive Rebound.
+Arizona,Gonzaga,15,18,10,14,1,Domantas Sabonis made Jumper.
+Arizona,Gonzaga,15,18,10,35,0,Kadeem Allen missed Layup.
+Arizona,Gonzaga,15,18,10,35,0,Allonzo Trier Offensive Rebound.
+Arizona,Gonzaga,15,18,10,56,0,Parker Jackson-Cartwright missed Three Point Jumper.
+Arizona,Gonzaga,15,18,10,56,0,Silas Melson Defensive Rebound.
+Arizona,Gonzaga,15,18,11,4,0,Foul on Silas Melson.
+Arizona,Gonzaga,15,18,11,4,0,Silas Melson Turnover.
+Arizona,Gonzaga,15,18,11,19,0,Gabe York missed Dunk.
+Arizona,Gonzaga,15,18,11,19,0,Domantas Sabonis Block.
+Arizona,Gonzaga,15,18,11,19,0,Kyle Dranginis Defensive Rebound.
+Arizona,Gonzaga,15,20,11,31,1,Kyle Wiltjer made Layup.
+Arizona,Gonzaga,15,20,11,39,0,Ryan Anderson missed Layup.
+Arizona,Gonzaga,15,20,11,39,0,Kyle Wiltjer Block.
+Arizona,Gonzaga,15,20,11,39,0,Kyle Wiltjer Defensive Rebound.
+Arizona,Gonzaga,15,22,11,50,1,Domantas Sabonis made Layup. Assisted by Josh Perkins.
+Arizona,Gonzaga,15,22,11,57,0,Arizona  Timeout
+Arizona,Gonzaga,15,22,12,13,0,Gabe York Turnover.
+Arizona,Gonzaga,15,22,12,13,0,Silas Melson Steal.
+Arizona,Gonzaga,15,24,12,21,1,Kyle Wiltjer made Jumper. Assisted by Josh Perkins.
+Arizona,Gonzaga,15,24,12,38,0,Parker Jackson-Cartwright missed Jumper.
+Arizona,Gonzaga,15,24,12,38,0,Parker Jackson-Cartwright Offensive Rebound.
+Arizona,Gonzaga,15,24,12,46,0,Ryan Anderson missed Jumper.
+Arizona,Gonzaga,15,24,12,46,0,Josh Perkins Defensive Rebound.
+Arizona,Gonzaga,15,26,13,5,1,Kyle Wiltjer made Jumper. Assisted by Josh Perkins.
+Arizona,Gonzaga,15,26,13,22,0,Allonzo Trier missed Three Point Jumper.
+Arizona,Gonzaga,15,26,13,22,0,Silas Melson Defensive Rebound.
+Arizona,Gonzaga,15,26,13,34,0,Domantas Sabonis Turnover.
+Arizona,Gonzaga,15,26,13,34,0,Dusan Ristic Steal.
+Arizona,Gonzaga,15,26,13,42,0,Parker Jackson-Cartwright missed Layup.
+Arizona,Gonzaga,15,26,13,42,0,Ryan Anderson Offensive Rebound.
+Arizona,Gonzaga,15,26,13,48,0,Foul on Silas Melson.
+Arizona,Gonzaga,16,26,13,48,1,Ryan Anderson made Free Throw.
+Arizona,Gonzaga,17,26,13,48,1,Ryan Anderson made Free Throw.
+Arizona,Gonzaga,17,26,14,12,0,Domantas Sabonis missed Jumper.
+Arizona,Gonzaga,17,26,14,12,0,Dusan Ristic Block.
+Arizona,Gonzaga,17,26,14,12,0,Mark Tollefsen Defensive Rebound.
+Arizona,Gonzaga,17,26,14,24,0,Foul on Eric McClellan.
+Arizona,Gonzaga,17,26,14,24,0,Dusan Ristic missed Free Throw.
+Arizona,Gonzaga,17,26,14,24,0,Arizona Deadball Team Rebound.
+Arizona,Gonzaga,18,26,14,24,1,Dusan Ristic made Free Throw.
+Arizona,Gonzaga,18,26,14,34,0,Foul on Justin Simon.
+Arizona,Gonzaga,18,28,14,38,1,Ryan Edwards made Jumper.
+Arizona,Gonzaga,18,28,14,56,0,Foul on Josh Perkins.
+Arizona,Gonzaga,18,28,14,56,0,Kadeem Allen missed Free Throw.
+Arizona,Gonzaga,18,28,14,56,0,Mark Tollefsen Offensive Rebound.
+Arizona,Gonzaga,20,28,14,56,1,Mark Tollefsen made Two Point Tip Shot.
+Arizona,Gonzaga,20,28,15,9,0,Josh Perkins missed Jumper.
+Arizona,Gonzaga,20,28,15,9,0,Mark Tollefsen Defensive Rebound.
+Arizona,Gonzaga,20,28,15,22,0,Kadeem Allen missed Jumper.
+Arizona,Gonzaga,20,28,15,22,0,Kyle Dranginis Defensive Rebound.
+Arizona,Gonzaga,20,28,15,41,0,Foul on Dusan Ristic.
+Arizona,Gonzaga,20,30,15,42,1,Eric McClellan made Layup. Assisted by Kyle Dranginis.
+Arizona,Gonzaga,20,30,15,50,0,Foul on Kyle Dranginis.
+Arizona,Gonzaga,20,30,15,50,0,Justin Simon missed Free Throw.
+Arizona,Gonzaga,20,30,15,50,0,Arizona Deadball Team Rebound.
+Arizona,Gonzaga,20,30,15,50,0,Justin Simon missed Free Throw.
+Arizona,Gonzaga,20,30,15,50,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,20,30,16,6,0,Foul on Ryan Anderson.
+Arizona,Gonzaga,20,30,16,6,0,Official TV Timeout
+Arizona,Gonzaga,20,32,16,17,1,Domantas Sabonis made Layup. Assisted by Kyle Dranginis.
+Arizona,Gonzaga,22,32,16,37,1,Allonzo Trier made Layup.
+Arizona,Gonzaga,22,32,16,56,0,Josh Perkins missed Three Point Jumper.
+Arizona,Gonzaga,22,32,16,56,0,Eric McClellan Offensive Rebound.
+Arizona,Gonzaga,22,34,17,8,1,Kyle Wiltjer made Jumper.
+Arizona,Gonzaga,22,34,17,27,0,Gabe York missed Jumper.
+Arizona,Gonzaga,22,34,17,27,0,Kyle Wiltjer Defensive Rebound.
+Arizona,Gonzaga,22,36,17,37,1,Josh Perkins made Layup.
+Arizona,Gonzaga,22,36,18,3,0,Mark Tollefsen missed Three Point Jumper.
+Arizona,Gonzaga,22,36,18,3,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,22,36,18,19,0,Domantas Sabonis Turnover.
+Arizona,Gonzaga,24,36,18,32,1,Allonzo Trier made Jumper.
+Arizona,Gonzaga,24,36,18,54,0,Domantas Sabonis Turnover.
+Arizona,Gonzaga,24,36,18,54,0,Mark Tollefsen Steal.
+Arizona,Gonzaga,24,36,19,8,0,Foul on Josh Perkins.
+Arizona,Gonzaga,25,36,19,8,1,Allonzo Trier made Free Throw.
+Arizona,Gonzaga,26,36,19,8,1,Allonzo Trier made Free Throw.
+Arizona,Gonzaga,26,38,19,16,1,Kyle Wiltjer made Layup. Assisted by Eric McClellan.
+Arizona,Gonzaga,28,38,19,44,1,Allonzo Trier made Jumper.
+Arizona,Gonzaga,28,38,19,52,0,Eric McClellan missed Three Point Jumper.
+Arizona,Gonzaga,28,38,19,52,0,Parker Jackson-Cartwright Defensive Rebound.
+Arizona,Gonzaga,28,38,20,0,0,End of 1st half
+Arizona,Gonzaga,28,38,20,0,0,Jump Ball won by Gonzaga
+Arizona,Gonzaga,28,40,20,12,1,Kyle Wiltjer made Jumper.
+Arizona,Gonzaga,30,40,20,32,1,Dusan Ristic made Layup. Assisted by Gabe York.
+Arizona,Gonzaga,30,40,20,57,0,Foul on Dusan Ristic.
+Arizona,Gonzaga,30,40,21,7,0,Kyle Wiltjer missed Jumper.
+Arizona,Gonzaga,30,40,21,7,0,Allonzo Trier Defensive Rebound.
+Arizona,Gonzaga,30,40,21,39,0,Foul on Josh Perkins.
+Arizona,Gonzaga,30,40,21,44,0,Foul on Kyle Dranginis.
+Arizona,Gonzaga,33,40,21,47,1,Gabe York made Three Point Jumper. Assisted by Kadeem Allen.
+Arizona,Gonzaga,33,43,22,6,1,Kyle Wiltjer made Three Point Jumper.
+Arizona,Gonzaga,35,43,22,37,1,Mark Tollefsen made Dunk.
+Arizona,Gonzaga,35,43,22,37,0,Foul on Kyle Wiltjer.
+Arizona,Gonzaga,35,43,22,37,0,Mark Tollefsen missed Free Throw.
+Arizona,Gonzaga,35,43,22,37,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,35,45,22,57,1,Domantas Sabonis made Jumper.
+Arizona,Gonzaga,35,45,23,7,0,Gabe York missed Jumper.
+Arizona,Gonzaga,35,45,23,7,0,Gabe York Offensive Rebound.
+Arizona,Gonzaga,37,45,23,14,1,Gabe York made Jumper.
+Arizona,Gonzaga,37,45,23,22,0,Eric McClellan missed Layup.
+Arizona,Gonzaga,37,45,23,22,0,Dusan Ristic Defensive Rebound.
+Arizona,Gonzaga,37,45,23,34,0,Kadeem Allen missed Dunk.
+Arizona,Gonzaga,37,45,23,34,0,Kyle Wiltjer Block.
+Arizona,Gonzaga,37,45,23,34,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,37,45,23,43,0,Eric McClellan missed Layup.
+Arizona,Gonzaga,37,45,23,43,0,Dusan Ristic Defensive Rebound.
+Arizona,Gonzaga,40,45,23,49,1,Gabe York made Three Point Jumper.
+Arizona,Gonzaga,40,45,23,49,0,Gonzaga  Timeout
+Arizona,Gonzaga,40,45,23,50,0,Kyle Dranginis Turnover.
+Arizona,Gonzaga,40,45,23,50,0,Allonzo Trier Steal.
+Arizona,Gonzaga,42,45,24,8,1,Ryan Anderson made Jumper.
+Arizona,Gonzaga,42,45,24,8,0,Foul on Domantas Sabonis.
+Arizona,Gonzaga,42,45,24,8,0,Official TV Timeout
+Arizona,Gonzaga,42,45,24,8,0,Ryan Anderson missed Free Throw.
+Arizona,Gonzaga,42,45,24,8,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,42,47,24,17,1,Domantas Sabonis made Dunk. Assisted by Kyle Dranginis.
+Arizona,Gonzaga,42,47,24,31,0,Gabe York Turnover.
+Arizona,Gonzaga,42,47,24,31,0,Josh Perkins Steal.
+Arizona,Gonzaga,42,47,24,41,0,Silas Melson missed Three Point Jumper.
+Arizona,Gonzaga,42,47,24,41,0,Parker Jackson-Cartwright Defensive Rebound.
+Arizona,Gonzaga,42,47,24,52,0,Mark Tollefsen missed Three Point Jumper.
+Arizona,Gonzaga,42,47,24,52,0,Gabe York Offensive Rebound.
+Arizona,Gonzaga,42,47,25,1,0,Elliott Pitts missed Three Point Jumper.
+Arizona,Gonzaga,42,47,25,1,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,42,49,25,20,1,Josh Perkins made Jumper.
+Arizona,Gonzaga,42,49,25,20,0,Foul on Parker Jackson-Cartwright.
+Arizona,Gonzaga,42,50,25,20,1,Josh Perkins made Free Throw.
+Arizona,Gonzaga,45,50,25,32,1,Gabe York made Three Point Jumper.
+Arizona,Gonzaga,45,50,25,50,0,Domantas Sabonis missed Jumper.
+Arizona,Gonzaga,45,50,25,50,0,Allonzo Trier Defensive Rebound.
+Arizona,Gonzaga,47,50,26,0,1,Allonzo Trier made Layup.
+Arizona,Gonzaga,47,50,26,17,0,Kyle Wiltjer missed Jumper.
+Arizona,Gonzaga,47,50,26,17,0,Domantas Sabonis Offensive Rebound.
+Arizona,Gonzaga,47,50,26,25,0,Foul on Domantas Sabonis.
+Arizona,Gonzaga,47,50,26,25,0,Domantas Sabonis Turnover.
+Arizona,Gonzaga,47,50,26,30,0,Parker Jackson-Cartwright Turnover.
+Arizona,Gonzaga,47,50,26,30,0,Josh Perkins Steal.
+Arizona,Gonzaga,47,50,26,52,0,Silas Melson missed Jumper.
+Arizona,Gonzaga,47,50,26,52,0,Dusan Ristic Defensive Rebound.
+Arizona,Gonzaga,50,50,26,57,1,Gabe York made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Arizona,Gonzaga,50,50,27,7,0,Gonzaga  Timeout
+Arizona,Gonzaga,50,50,27,23,0,Foul on Gabe York.
+Arizona,Gonzaga,50,51,27,23,1,Ryan Edwards made Free Throw.
+Arizona,Gonzaga,50,52,27,23,1,Ryan Edwards made Free Throw.
+Arizona,Gonzaga,52,52,27,39,1,Ryan Anderson made Jumper.
+Arizona,Gonzaga,52,54,27,52,1,Kyle Wiltjer made Jumper. Assisted by Josh Perkins.
+Arizona,Gonzaga,54,54,28,9,1,Ryan Anderson made Jumper.
+Arizona,Gonzaga,54,56,28,27,1,Kyle Wiltjer made Jumper.
+Arizona,Gonzaga,54,56,28,46,0,Dusan Ristic missed Layup.
+Arizona,Gonzaga,54,56,28,46,0,Dusan Ristic Offensive Rebound.
+Arizona,Gonzaga,56,56,28,54,1,Dusan Ristic made Layup.
+Arizona,Gonzaga,56,56,28,57,0,Official TV Timeout
+Arizona,Gonzaga,56,56,28,57,0,Gonzaga  Turnover.
+Arizona,Gonzaga,56,56,29,11,0,Allonzo Trier missed Jumper.
+Arizona,Gonzaga,56,56,29,11,0,Gonzaga Defensive Rebound.
+Arizona,Gonzaga,56,56,29,20,0,Josh Perkins Turnover.
+Arizona,Gonzaga,56,56,29,20,0,Kadeem Allen Steal.
+Arizona,Gonzaga,56,56,29,25,0,Kadeem Allen missed Layup.
+Arizona,Gonzaga,56,56,29,25,0,Josh Perkins Defensive Rebound.
+Arizona,Gonzaga,56,56,29,45,0,Kyle Dranginis Turnover.
+Arizona,Gonzaga,56,56,29,45,0,Gabe York Steal.
+Arizona,Gonzaga,56,56,29,50,0,Gabe York missed Jumper.
+Arizona,Gonzaga,56,56,29,50,0,Kyle Wiltjer Defensive Rebound.
+Arizona,Gonzaga,56,56,29,58,0,Josh Perkins Turnover.
+Arizona,Gonzaga,56,56,30,3,0,Gabe York missed Three Point Jumper.
+Arizona,Gonzaga,56,56,30,3,0,Kyle Dranginis Defensive Rebound.
+Arizona,Gonzaga,56,56,30,25,0,Foul on Elliott Pitts.
+Arizona,Gonzaga,56,56,30,28,0,Foul on Elliott Pitts.
+Arizona,Gonzaga,56,56,30,36,0,Foul on Parker Jackson-Cartwright.
+Arizona,Gonzaga,56,57,30,36,1,Josh Perkins made Free Throw.
+Arizona,Gonzaga,56,57,30,36,0,Josh Perkins missed Free Throw.
+Arizona,Gonzaga,56,57,30,36,0,Gabe York Defensive Rebound.
+Arizona,Gonzaga,56,57,30,51,0,Parker Jackson-Cartwright missed Jumper.
+Arizona,Gonzaga,56,57,30,51,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,56,57,31,12,0,Josh Perkins missed Three Point Jumper.
+Arizona,Gonzaga,56,57,31,12,0,Arizona Defensive Rebound.
+Arizona,Gonzaga,58,57,31,35,1,Allonzo Trier made Layup.
+Arizona,Gonzaga,58,57,31,44,0,Josh Perkins Turnover.
+Arizona,Gonzaga,60,57,31,57,1,Parker Jackson-Cartwright made Layup. Assisted by Allonzo Trier.
+Arizona,Gonzaga,60,57,32,14,0,Kyle Dranginis missed Jumper.
+Arizona,Gonzaga,60,57,32,14,0,Kyle Wiltjer Offensive Rebound.
+Arizona,Gonzaga,60,59,32,14,1,Kyle Wiltjer made Two Point Tip Shot.
+Arizona,Gonzaga,60,59,32,48,0,Gabe York missed Jumper.
+Arizona,Gonzaga,60,59,32,48,0,Eric McClellan Defensive Rebound.
+Arizona,Gonzaga,60,59,33,5,0,Kyle Wiltjer missed Jumper.
+Arizona,Gonzaga,60,59,33,5,0,Domantas Sabonis Offensive Rebound.
+Arizona,Gonzaga,60,61,33,5,1,Domantas Sabonis made Two Point Tip Shot.
+Arizona,Gonzaga,60,61,33,34,0,Ryan Anderson missed Layup.
+Arizona,Gonzaga,60,61,33,34,0,Elliott Pitts Offensive Rebound.
+Arizona,Gonzaga,60,61,33,40,0,Parker Jackson-Cartwright missed Three Point Jumper.
+Arizona,Gonzaga,60,61,33,40,0,Ryan Anderson Offensive Rebound.
+Arizona,Gonzaga,62,61,33,45,1,Ryan Anderson made Layup.
+Arizona,Gonzaga,62,61,34,1,0,Kyle Wiltjer missed Layup.
+Arizona,Gonzaga,62,61,34,1,0,Gabe York Defensive Rebound.
+Arizona,Gonzaga,62,61,34,28,0,Foul on Josh Perkins.
+Arizona,Gonzaga,62,61,34,28,0,Official TV Timeout
+Arizona,Gonzaga,63,61,34,28,1,Parker Jackson-Cartwright made Free Throw.
+Arizona,Gonzaga,63,61,34,28,0,Parker Jackson-Cartwright missed Free Throw.
+Arizona,Gonzaga,63,61,34,28,0,Kyle Wiltjer Defensive Rebound.
+Arizona,Gonzaga,63,61,34,38,0,Kyle Wiltjer missed Three Point Jumper.
+Arizona,Gonzaga,63,61,34,38,0,Allonzo Trier Defensive Rebound.
+Arizona,Gonzaga,65,61,34,46,1,Allonzo Trier made Layup.
+Arizona,Gonzaga,65,61,35,5,0,Kyle Wiltjer missed Jumper.
+Arizona,Gonzaga,65,61,35,5,0,Allonzo Trier Defensive Rebound.
+Arizona,Gonzaga,65,61,35,40,0,Arizona  Turnover.
+Arizona,Gonzaga,65,61,36,4,0,Domantas Sabonis missed Layup.
+Arizona,Gonzaga,65,61,36,4,0,Kyle Dranginis Offensive Rebound.
+Arizona,Gonzaga,65,61,36,11,0,Foul on Dusan Ristic.
+Arizona,Gonzaga,65,61,36,11,0,Official TV Timeout
+Arizona,Gonzaga,65,61,36,11,0,Domantas Sabonis missed Free Throw.
+Arizona,Gonzaga,65,61,36,11,0,Allonzo Trier Defensive Rebound.
+Arizona,Gonzaga,65,61,36,27,0,Foul on Domantas Sabonis.
+Arizona,Gonzaga,65,61,36,27,0,Ryan Anderson missed Free Throw.
+Arizona,Gonzaga,65,61,36,27,0,Arizona Deadball Team Rebound.
+Arizona,Gonzaga,66,61,36,27,1,Ryan Anderson made Free Throw.
+Arizona,Gonzaga,66,61,36,45,0,Josh Perkins missed Three Point Jumper.
+Arizona,Gonzaga,66,61,36,45,0,Arizona Defensive Rebound.
+Arizona,Gonzaga,66,61,36,54,0,Gabe York missed Three Point Jumper.
+Arizona,Gonzaga,66,61,36,54,0,Kyle Wiltjer Defensive Rebound.
+Arizona,Gonzaga,66,61,37,15,0,Josh Perkins Turnover.
+Arizona,Gonzaga,66,61,37,15,0,Kadeem Allen Steal.
+Arizona,Gonzaga,66,61,37,24,0,Kadeem Allen missed Layup.
+Arizona,Gonzaga,66,61,37,24,0,Kyle Dranginis Block.
+Arizona,Gonzaga,66,61,37,24,0,Arizona Offensive Rebound.
+Arizona,Gonzaga,66,61,37,31,0,Gabe York Turnover.
+Arizona,Gonzaga,66,61,37,31,0,Domantas Sabonis Steal.
+Arizona,Gonzaga,66,61,37,48,0,Kyle Wiltjer missed Jumper.
+Arizona,Gonzaga,66,61,37,48,0,Kyle Wiltjer Offensive Rebound.
+Arizona,Gonzaga,66,63,37,54,1,Kyle Wiltjer made Jumper.
+Arizona,Gonzaga,66,63,38,12,0,Foul on Kyle Dranginis.
+Arizona,Gonzaga,66,63,38,12,0,Gabe York missed Free Throw.
+Arizona,Gonzaga,66,63,38,12,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,66,63,38,24,0,Josh Perkins missed Three Point Jumper.
+Arizona,Gonzaga,66,63,38,24,0,Gabe York Defensive Rebound.
+Arizona,Gonzaga,66,63,38,46,0,Gabe York missed Jumper.
+Arizona,Gonzaga,66,63,38,46,0,Kadeem Allen Offensive Rebound.
+Arizona,Gonzaga,66,63,38,51,0,Kadeem Allen missed Jumper.
+Arizona,Gonzaga,66,63,38,51,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,66,63,38,57,0,Josh Perkins missed Layup.
+Arizona,Gonzaga,66,63,38,57,0,Kadeem Allen Block.
+Arizona,Gonzaga,66,63,38,57,0,Ryan Anderson Defensive Rebound.
+Arizona,Gonzaga,66,63,39,3,0,Ryan Anderson Turnover.
+Arizona,Gonzaga,66,63,39,11,0,Kyle Wiltjer missed Jumper.
+Arizona,Gonzaga,66,63,39,11,0,Domantas Sabonis Offensive Rebound.
+Arizona,Gonzaga,66,63,39,11,0,Domantas Sabonis missed Two Point Tip Shot.
+Arizona,Gonzaga,66,63,39,11,0,Kadeem Allen Defensive Rebound.
+Arizona,Gonzaga,66,63,39,31,0,Arizona  Timeout
+Arizona,Gonzaga,68,63,39,39,1,Ryan Anderson made Jumper. Assisted by Gabe York.
+Arizona,Gonzaga,68,63,39,49,0,Kyle Wiltjer missed Three Point Jumper.
+Arizona,Gonzaga,68,63,39,49,0,Gabe York Defensive Rebound.
+Arizona,Gonzaga,68,63,39,56,0,Foul on Josh Perkins.
+Arizona,Gonzaga,68,63,39,56,0,Gabe York missed Free Throw.
+Arizona,Gonzaga,68,63,39,56,0,Domantas Sabonis Defensive Rebound.
+Arizona,Gonzaga,68,63,39,56,0,Silas Melson missed Jumper.
+Arizona,Gonzaga,68,63,39,56,0,Arizona Defensive Rebound.
+Arizona,Gonzaga,68,63,40,0,0,End of Game

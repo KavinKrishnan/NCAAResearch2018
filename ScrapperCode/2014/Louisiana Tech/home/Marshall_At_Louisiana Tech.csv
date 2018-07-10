@@ -1,0 +1,355 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Marshall,Louisiana Tech,2,0,0,22,1,Ryan Taylor made Layup.
+Marshall,Louisiana Tech,2,2,0,50,1,Alex Hamilton made Layup.
+Marshall,Louisiana Tech,2,2,0,59,0,Ryan Taylor Turnover.
+Marshall,Louisiana Tech,2,2,1,0,0,Kenneth Smith Steal.
+Marshall,Louisiana Tech,2,2,1,0,0,Foul on Ryan Taylor.
+Marshall,Louisiana Tech,2,3,1,0,1,Chris Anderson made Free Throw.
+Marshall,Louisiana Tech,2,4,1,0,1,Chris Anderson made Free Throw.
+Marshall,Louisiana Tech,2,4,1,10,0,Kareem Canty Turnover.
+Marshall,Louisiana Tech,2,4,1,12,0,Kenneth Smith Steal.
+Marshall,Louisiana Tech,2,6,1,15,1,Alex Hamilton made Layup. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,2,6,1,33,0,TyQuane Goard Turnover.
+Marshall,Louisiana Tech,2,6,1,35,0,Alex Hamilton Steal.
+Marshall,Louisiana Tech,2,8,1,37,1,Kenneth Smith made Layup. Assisted by Alex Hamilton.
+Marshall,Louisiana Tech,2,8,1,40,0,Marshall  Timeout
+Marshall,Louisiana Tech,2,8,1,45,0,Ryan Taylor Turnover.
+Marshall,Louisiana Tech,2,8,1,47,0,Cordarius Johnson Steal.
+Marshall,Louisiana Tech,2,11,1,49,1,Alex Hamilton made Three Point Jumper. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,2,11,1,58,0,Ryan Taylor Turnover.
+Marshall,Louisiana Tech,2,11,1,59,0,Kenneth Smith Steal.
+Marshall,Louisiana Tech,2,13,2,1,1,Chris Anderson made Dunk. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,2,13,2,3,0,Marshall  Timeout
+Marshall,Louisiana Tech,2,13,2,12,0,Kareem Canty missed Three Point Jumper.
+Marshall,Louisiana Tech,2,13,2,12,0,Chris Anderson Defensive Rebound.
+Marshall,Louisiana Tech,2,13,2,22,0,Foul on Chris Anderson.
+Marshall,Louisiana Tech,2,13,2,22,0,Chris Anderson Turnover.
+Marshall,Louisiana Tech,2,13,2,39,0,TyQuane Goard Turnover.
+Marshall,Louisiana Tech,2,13,2,43,0,Alex Hamilton Steal.
+Marshall,Louisiana Tech,2,13,2,43,0,Foul on TyQuane Goard.
+Marshall,Louisiana Tech,2,15,2,52,1,Jaron Johnson made Dunk.
+Marshall,Louisiana Tech,2,15,3,4,0,Chris Thomas missed Jumper.
+Marshall,Louisiana Tech,2,15,3,4,0,Alex Hamilton Defensive Rebound.
+Marshall,Louisiana Tech,2,17,3,19,1,Kenneth Smith made Layup.
+Marshall,Louisiana Tech,2,17,3,31,0,Foul on Isaiah Massey.
+Marshall,Louisiana Tech,3,17,3,31,1,TyQuane Goard made Free Throw.
+Marshall,Louisiana Tech,4,17,3,31,1,TyQuane Goard made Free Throw.
+Marshall,Louisiana Tech,4,17,3,38,0,Foul on DeVince Boykins.
+Marshall,Louisiana Tech,4,17,3,40,0,Jaron Johnson missed Jumper.
+Marshall,Louisiana Tech,4,17,3,40,0,Chris Thomas Defensive Rebound.
+Marshall,Louisiana Tech,4,17,3,42,0,Foul on Gilbert Talbot.
+Marshall,Louisiana Tech,4,17,3,58,0,Chris Thomas missed Jumper.
+Marshall,Louisiana Tech,4,17,3,58,0,TyQuane Goard Offensive Rebound.
+Marshall,Louisiana Tech,6,17,4,3,1,TyQuane Goard made Two Point Tip Shot.
+Marshall,Louisiana Tech,6,17,4,9,0,Foul on DeVince Boykins.
+Marshall,Louisiana Tech,6,17,4,9,0,Official TV Timeout
+Marshall,Louisiana Tech,6,17,4,9,0,Foul on Chris Thomas.
+Marshall,Louisiana Tech,6,19,4,9,1,Kenyon McNeail made Free Throw.
+Marshall,Louisiana Tech,6,18,4,9,1,Kenyon McNeail made Free Throw.
+Marshall,Louisiana Tech,6,19,4,9,0,Technical Foul on Chris Thomas.
+Marshall,Louisiana Tech,6,19,4,20,0,Cordarius Johnson missed Jumper.
+Marshall,Louisiana Tech,6,19,4,20,0,TyQuane Goard Defensive Rebound.
+Marshall,Louisiana Tech,8,19,4,30,1,Kareem Canty made Jumper.
+Marshall,Louisiana Tech,8,19,4,40,0,Alex Hamilton missed Three Point Jumper.
+Marshall,Louisiana Tech,8,19,4,40,0,Jaron Johnson Offensive Rebound.
+Marshall,Louisiana Tech,8,19,4,45,0,Jaron Johnson Turnover.
+Marshall,Louisiana Tech,10,19,4,54,1,Chris Thomas made Jumper.
+Marshall,Louisiana Tech,10,21,5,11,1,Kenneth Smith made Layup.
+Marshall,Louisiana Tech,12,21,5,18,1,Chris Thomas made Dunk. Assisted by Kareem Canty.
+Marshall,Louisiana Tech,12,21,5,18,0,Foul on Gilbert Talbot.
+Marshall,Louisiana Tech,12,21,5,18,0,Chris Thomas missed Free Throw.
+Marshall,Louisiana Tech,12,21,5,18,0,Cordarius Johnson Defensive Rebound.
+Marshall,Louisiana Tech,12,21,5,36,0,Kenneth Smith missed Three Point Jumper.
+Marshall,Louisiana Tech,12,21,5,36,0,Chris Thomas Defensive Rebound.
+Marshall,Louisiana Tech,12,21,5,54,0,Foul on Isaiah Massey.
+Marshall,Louisiana Tech,13,21,5,54,1,Ryan Taylor made Free Throw.
+Marshall,Louisiana Tech,14,21,5,54,1,Ryan Taylor made Free Throw.
+Marshall,Louisiana Tech,14,21,6,5,0,Kenneth Smith missed Jumper.
+Marshall,Louisiana Tech,14,21,6,5,0,Chris Thomas Defensive Rebound.
+Marshall,Louisiana Tech,14,21,6,8,0,Foul on Chris Anderson.
+Marshall,Louisiana Tech,16,21,6,36,1,Chris Thomas made Layup.
+Marshall,Louisiana Tech,16,21,7,11,0,Cordarius Johnson missed Layup.
+Marshall,Louisiana Tech,16,21,7,11,0,Ryan Taylor Block.
+Marshall,Louisiana Tech,16,21,7,12,0,Kareem Canty Defensive Rebound.
+Marshall,Louisiana Tech,16,21,7,18,0,Kareem Canty Turnover.
+Marshall,Louisiana Tech,16,21,7,19,0,Chris Anderson Steal.
+Marshall,Louisiana Tech,16,21,7,21,0,Chris Anderson Turnover.
+Marshall,Louisiana Tech,16,21,7,22,0,Kareem Canty Steal.
+Marshall,Louisiana Tech,18,21,7,25,1,Ryan Taylor made Layup. Assisted by Kareem Canty.
+Marshall,Louisiana Tech,18,21,7,31,0,Louisiana Tech  Timeout
+Marshall,Louisiana Tech,18,23,7,51,1,Cordarius Johnson made Jumper.
+Marshall,Louisiana Tech,18,23,8,0,0,Tamron Manning Turnover.
+Marshall,Louisiana Tech,18,23,8,8,0,Alex Hamilton missed Jumper.
+Marshall,Louisiana Tech,18,23,8,8,0,Stojan Gjuroski Offensive Rebound.
+Marshall,Louisiana Tech,18,23,8,14,0,Kenyon McNeail missed Jumper.
+Marshall,Louisiana Tech,18,23,8,14,0,Cheikh Sane Defensive Rebound.
+Marshall,Louisiana Tech,18,23,8,26,0,Ryan Taylor Turnover.
+Marshall,Louisiana Tech,18,23,8,26,0,Official TV Timeout
+Marshall,Louisiana Tech,18,23,8,35,0,Alex Hamilton missed Jumper.
+Marshall,Louisiana Tech,18,23,8,35,0,Cheikh Sane Block.
+Marshall,Louisiana Tech,18,23,8,37,0,Alex Hamilton Offensive Rebound.
+Marshall,Louisiana Tech,18,23,8,38,0,Alex Hamilton missed Jumper.
+Marshall,Louisiana Tech,18,23,8,38,0,Cheikh Sane Block.
+Marshall,Louisiana Tech,18,23,8,39,0,Tamron Manning Defensive Rebound.
+Marshall,Louisiana Tech,20,23,8,44,1,Chris Thomas made Layup.
+Marshall,Louisiana Tech,20,26,8,50,1,Kenyon McNeail made Three Point Jumper. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,20,26,9,3,0,Kareem Canty missed Layup.
+Marshall,Louisiana Tech,20,26,9,3,0,Jaron Johnson Defensive Rebound.
+Marshall,Louisiana Tech,20,29,9,12,1,Stojan Gjuroski made Three Point Jumper. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,20,29,9,24,0,Ryan Taylor Turnover.
+Marshall,Louisiana Tech,20,29,9,25,0,Kenneth Smith Steal.
+Marshall,Louisiana Tech,20,31,9,26,1,Jaron Johnson made Dunk. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,20,31,9,28,0,Marshall  Timeout
+Marshall,Louisiana Tech,20,31,9,38,0,Foul on Kenneth Smith.
+Marshall,Louisiana Tech,21,31,9,38,1,Kareem Canty made Free Throw.
+Marshall,Louisiana Tech,22,31,9,38,1,Kareem Canty made Free Throw.
+Marshall,Louisiana Tech,22,34,9,47,1,Kenyon McNeail made Three Point Jumper. Assisted by Alex Hamilton.
+Marshall,Louisiana Tech,22,34,10,15,0,Kareem Canty missed Three Point Jumper.
+Marshall,Louisiana Tech,22,34,10,15,0,Shawn Smith Offensive Rebound.
+Marshall,Louisiana Tech,24,34,10,18,1,Shawn Smith made Two Point Tip Shot.
+Marshall,Louisiana Tech,24,36,10,23,1,Alex Hamilton made Layup. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,24,36,10,42,0,Foul on Stojan Gjuroski.
+Marshall,Louisiana Tech,25,36,10,42,1,Shawn Smith made Free Throw.
+Marshall,Louisiana Tech,26,36,10,42,1,Shawn Smith made Free Throw.
+Marshall,Louisiana Tech,26,36,10,51,0,Foul on Kareem Canty.
+Marshall,Louisiana Tech,26,38,10,54,1,Kenyon McNeail made Layup.
+Marshall,Louisiana Tech,28,38,11,4,1,Shawn Smith made Layup. Assisted by Ryan Taylor.
+Marshall,Louisiana Tech,28,41,11,15,1,Kenyon McNeail made Three Point Jumper. Assisted by Jaron Johnson.
+Marshall,Louisiana Tech,28,41,11,35,0,Foul on Cordarius Johnson.
+Marshall,Louisiana Tech,29,41,11,35,1,Ryan Taylor made Free Throw.
+Marshall,Louisiana Tech,29,41,11,35,0,Ryan Taylor missed Free Throw.
+Marshall,Louisiana Tech,29,41,11,35,0,Cordarius Johnson Defensive Rebound.
+Marshall,Louisiana Tech,29,44,11,58,1,Alex Hamilton made Three Point Jumper. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,29,44,12,36,0,Kareem Canty missed Three Point Jumper.
+Marshall,Louisiana Tech,29,44,12,36,0,Ryan Taylor Offensive Rebound.
+Marshall,Louisiana Tech,29,44,12,41,0,Foul on Stojan Gjuroski.
+Marshall,Louisiana Tech,29,44,12,41,0,Official TV Timeout
+Marshall,Louisiana Tech,30,44,12,41,1,Ryan Taylor made Free Throw.
+Marshall,Louisiana Tech,31,44,12,41,1,Ryan Taylor made Free Throw.
+Marshall,Louisiana Tech,31,44,12,55,0,Cordarius Johnson missed Three Point Jumper.
+Marshall,Louisiana Tech,31,44,12,55,0,Ryan Taylor Defensive Rebound.
+Marshall,Louisiana Tech,31,44,13,21,0,Kareem Canty Turnover.
+Marshall,Louisiana Tech,31,44,13,22,0,Jaron Johnson Steal.
+Marshall,Louisiana Tech,31,44,13,30,0,Cordarius Johnson missed Layup.
+Marshall,Louisiana Tech,31,44,13,30,0,Shawn Smith Block.
+Marshall,Louisiana Tech,31,44,13,33,0,Marshall Defensive Rebound.
+Marshall,Louisiana Tech,31,44,13,40,0,TyQuane Goard Turnover.
+Marshall,Louisiana Tech,31,44,13,42,0,Jaron Johnson Steal.
+Marshall,Louisiana Tech,31,47,13,48,1,Jaron Johnson made Three Point Jumper. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,33,47,14,2,1,Tamron Manning made Jumper.
+Marshall,Louisiana Tech,33,47,14,15,0,Alex Hamilton missed Three Point Jumper.
+Marshall,Louisiana Tech,33,47,14,15,0,Ryan Taylor Defensive Rebound.
+Marshall,Louisiana Tech,33,47,14,18,0,Foul on Cordarius Johnson.
+Marshall,Louisiana Tech,33,47,14,18,0,Ryan Taylor missed Free Throw.
+Marshall,Louisiana Tech,33,47,14,18,0,Marshall Deadball Team Rebound.
+Marshall,Louisiana Tech,33,47,14,18,0,Ryan Taylor missed Free Throw.
+Marshall,Louisiana Tech,33,47,14,18,0,Jaron Johnson Defensive Rebound.
+Marshall,Louisiana Tech,33,47,14,30,0,Jaron Johnson missed Three Point Jumper.
+Marshall,Louisiana Tech,33,47,14,30,0,Stojan Gjuroski Offensive Rebound.
+Marshall,Louisiana Tech,33,47,14,36,0,Alex Hamilton missed Layup.
+Marshall,Louisiana Tech,33,47,14,36,0,Chris Thomas Block.
+Marshall,Louisiana Tech,33,47,14,39,0,Chris Thomas Defensive Rebound.
+Marshall,Louisiana Tech,33,47,14,42,0,Ryan Taylor Turnover.
+Marshall,Louisiana Tech,33,47,14,49,0,Kenneth Smith Steal.
+Marshall,Louisiana Tech,33,47,14,51,0,Kenneth Smith missed Jumper.
+Marshall,Louisiana Tech,33,47,14,51,0,Ryan Taylor Defensive Rebound.
+Marshall,Louisiana Tech,33,47,15,7,0,Ryan Taylor missed Jumper.
+Marshall,Louisiana Tech,33,47,15,7,0,Stojan Gjuroski Defensive Rebound.
+Marshall,Louisiana Tech,33,49,15,13,1,Alex Hamilton made Layup. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,33,49,15,22,0,Chris Thomas Turnover.
+Marshall,Louisiana Tech,33,49,15,23,0,Stojan Gjuroski Steal.
+Marshall,Louisiana Tech,33,49,15,26,0,Alex Hamilton missed Three Point Jumper.
+Marshall,Louisiana Tech,33,49,15,26,0,Ryan Taylor Defensive Rebound.
+Marshall,Louisiana Tech,35,49,15,45,1,TyQuane Goard made Jumper.
+Marshall,Louisiana Tech,35,49,15,54,0,Foul on Tamron Manning.
+Marshall,Louisiana Tech,35,50,15,54,1,Kenyon McNeail made Free Throw.
+Marshall,Louisiana Tech,35,51,15,54,1,Kenyon McNeail made Free Throw.
+Marshall,Louisiana Tech,35,51,16,27,0,Kareem Canty missed Three Point Jumper.
+Marshall,Louisiana Tech,35,51,16,27,0,Marshall Offensive Rebound.
+Marshall,Louisiana Tech,35,51,16,29,0,Marshall  Turnover.
+Marshall,Louisiana Tech,35,51,16,29,0,Official TV Timeout
+Marshall,Louisiana Tech,35,53,16,39,1,Jaron Johnson made Layup. Assisted by Alex Hamilton.
+Marshall,Louisiana Tech,35,53,17,8,0,Kareem Canty missed Jumper.
+Marshall,Louisiana Tech,35,53,17,8,0,Stojan Gjuroski Defensive Rebound.
+Marshall,Louisiana Tech,35,55,17,34,1,Jaron Johnson made Layup.
+Marshall,Louisiana Tech,35,55,18,5,0,Kareem Canty Turnover.
+Marshall,Louisiana Tech,35,55,18,7,0,Alex Hamilton Steal.
+Marshall,Louisiana Tech,35,55,18,10,0,Kenneth Smith missed Layup.
+Marshall,Louisiana Tech,35,55,18,10,0,Stojan Gjuroski Offensive Rebound.
+Marshall,Louisiana Tech,35,55,18,13,0,Stojan Gjuroski missed Layup.
+Marshall,Louisiana Tech,35,55,18,13,0,TyQuane Goard Defensive Rebound.
+Marshall,Louisiana Tech,37,55,18,19,1,Chris Thomas made Layup.
+Marshall,Louisiana Tech,37,55,18,37,0,Cordarius Johnson missed Three Point Jumper.
+Marshall,Louisiana Tech,37,55,18,37,0,Stojan Gjuroski Offensive Rebound.
+Marshall,Louisiana Tech,37,55,18,43,0,Foul on Cordarius Johnson.
+Marshall,Louisiana Tech,37,55,18,43,0,Cordarius Johnson Turnover.
+Marshall,Louisiana Tech,39,55,19,2,1,Ryan Taylor made Layup.
+Marshall,Louisiana Tech,39,55,19,17,0,Cordarius Johnson missed Three Point Jumper.
+Marshall,Louisiana Tech,39,55,19,17,0,Cheikh Sane Defensive Rebound.
+Marshall,Louisiana Tech,39,55,19,50,0,Kareem Canty missed Layup.
+Marshall,Louisiana Tech,39,55,19,50,0,Kenneth Smith Defensive Rebound.
+Marshall,Louisiana Tech,39,55,19,52,0,Foul on Cheikh Sane.
+Marshall,Louisiana Tech,39,56,19,52,1,Kenneth Smith made Free Throw.
+Marshall,Louisiana Tech,39,57,19,52,1,Kenneth Smith made Free Throw.
+Marshall,Louisiana Tech,39,57,19,55,0,Chris Thomas Turnover.
+Marshall,Louisiana Tech,39,57,19,56,0,Kenneth Smith Steal.
+Marshall,Louisiana Tech,39,57,20,0,0,End of 1st half
+Marshall,Louisiana Tech,39,57,20,17,0,Jaron Johnson missed Three Point Jumper.
+Marshall,Louisiana Tech,39,57,20,17,0,Shawn Smith Defensive Rebound.
+Marshall,Louisiana Tech,41,57,20,47,1,Ryan Taylor made Jumper.
+Marshall,Louisiana Tech,41,59,21,4,1,Jaron Johnson made Layup. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,41,59,21,20,0,Kareem Canty missed Layup.
+Marshall,Louisiana Tech,41,59,21,20,0,TyQuane Goard Offensive Rebound.
+Marshall,Louisiana Tech,41,59,21,47,0,Shawn Smith missed Three Point Jumper.
+Marshall,Louisiana Tech,41,59,21,47,0,Jaron Johnson Defensive Rebound.
+Marshall,Louisiana Tech,41,61,22,17,1,Jaron Johnson made Layup. Assisted by Chris Anderson.
+Marshall,Louisiana Tech,43,61,22,43,1,Ryan Taylor made Dunk. Assisted by Tamron Manning.
+Marshall,Louisiana Tech,43,64,23,8,1,Kenneth Smith made Three Point Jumper.
+Marshall,Louisiana Tech,43,64,23,31,0,Foul on Shawn Smith.
+Marshall,Louisiana Tech,43,64,23,31,0,Shawn Smith Turnover.
+Marshall,Louisiana Tech,43,64,23,31,0,Technical Foul on Marshall.
+Marshall,Louisiana Tech,43,65,23,31,1,Alex Hamilton made Free Throw.
+Marshall,Louisiana Tech,43,66,23,31,1,Alex Hamilton made Free Throw.
+Marshall,Louisiana Tech,43,68,23,40,1,Kenneth Smith made Layup.
+Marshall,Louisiana Tech,43,68,24,7,0,Kareem Canty missed Three Point Jumper.
+Marshall,Louisiana Tech,43,68,24,7,0,TyQuane Goard Offensive Rebound.
+Marshall,Louisiana Tech,45,68,24,14,1,Tamron Manning made Jumper. Assisted by TyQuane Goard.
+Marshall,Louisiana Tech,45,68,24,39,0,Chris Anderson missed Jumper.
+Marshall,Louisiana Tech,45,68,24,39,0,Ryan Taylor Defensive Rebound.
+Marshall,Louisiana Tech,45,68,24,41,0,Foul on Chris Anderson.
+Marshall,Louisiana Tech,45,68,24,42,0,Official TV Timeout
+Marshall,Louisiana Tech,45,68,25,9,0,Kareem Canty missed Jumper.
+Marshall,Louisiana Tech,45,68,25,9,0,TyQuane Goard Offensive Rebound.
+Marshall,Louisiana Tech,48,68,25,24,1,Tamron Manning made Three Point Jumper. Assisted by Kareem Canty.
+Marshall,Louisiana Tech,48,68,25,42,0,Kenyon McNeail missed Three Point Jumper.
+Marshall,Louisiana Tech,48,68,25,42,0,Jaron Johnson Offensive Rebound.
+Marshall,Louisiana Tech,48,68,25,49,0,Jaron Johnson Turnover.
+Marshall,Louisiana Tech,51,68,25,49,1,Shawn Smith made Three Point Jumper. Assisted by Tamron Manning.
+Marshall,Louisiana Tech,51,68,25,49,0,Isaiah Massey missed Jumper.
+Marshall,Louisiana Tech,51,68,25,49,0,Ryan Taylor Defensive Rebound.
+Marshall,Louisiana Tech,51,68,25,49,0,Shawn Smith missed Three Point Jumper.
+Marshall,Louisiana Tech,51,68,25,49,0,Chris Anderson Defensive Rebound.
+Marshall,Louisiana Tech,51,71,25,49,1,Kenneth Smith made Three Point Jumper.
+Marshall,Louisiana Tech,51,71,26,49,0,Louisiana Tech  Timeout
+Marshall,Louisiana Tech,51,71,27,23,0,Kareem Canty missed Three Point Jumper.
+Marshall,Louisiana Tech,51,71,27,23,0,Ryan Taylor Offensive Rebound.
+Marshall,Louisiana Tech,51,71,27,27,0,Ryan Taylor missed Layup.
+Marshall,Louisiana Tech,51,71,27,27,0,Kenneth Smith Defensive Rebound.
+Marshall,Louisiana Tech,51,71,27,43,0,Foul on Isaiah Massey.
+Marshall,Louisiana Tech,51,71,27,43,0,Isaiah Massey Turnover.
+Marshall,Louisiana Tech,51,71,27,51,0,Foul on Gilbert Talbot.
+Marshall,Louisiana Tech,52,71,27,51,1,Kareem Canty made Free Throw.
+Marshall,Louisiana Tech,53,71,27,51,1,Kareem Canty made Free Throw.
+Marshall,Louisiana Tech,53,71,27,58,0,Alex Hamilton missed Layup.
+Marshall,Louisiana Tech,53,71,27,58,0,Ryan Taylor Defensive Rebound.
+Marshall,Louisiana Tech,53,71,28,17,0,Kareem Canty missed Jumper.
+Marshall,Louisiana Tech,53,71,28,17,0,Chris Anderson Defensive Rebound.
+Marshall,Louisiana Tech,53,71,28,26,0,Stojan Gjuroski missed Three Point Jumper.
+Marshall,Louisiana Tech,53,71,28,26,0,Chris Anderson Offensive Rebound.
+Marshall,Louisiana Tech,53,71,28,46,0,Chris Anderson missed Three Point Jumper.
+Marshall,Louisiana Tech,53,71,28,46,0,Chris Thomas Defensive Rebound.
+Marshall,Louisiana Tech,53,71,28,53,0,Foul on Chris Thomas.
+Marshall,Louisiana Tech,53,71,28,53,0,Chris Thomas Turnover.
+Marshall,Louisiana Tech,53,71,28,53,0,Official TV Timeout
+Marshall,Louisiana Tech,53,71,29,10,0,Foul on DeVince Boykins.
+Marshall,Louisiana Tech,53,72,29,10,1,Chris Anderson made Free Throw.
+Marshall,Louisiana Tech,53,72,29,10,0,Chris Anderson missed Free Throw.
+Marshall,Louisiana Tech,53,72,29,10,0,TyQuane Goard Defensive Rebound.
+Marshall,Louisiana Tech,55,72,29,37,1,Chris Thomas made Layup.
+Marshall,Louisiana Tech,55,72,29,47,0,Foul on Chris Thomas.
+Marshall,Louisiana Tech,55,74,29,58,1,Alex Hamilton made Layup.
+Marshall,Louisiana Tech,55,74,30,5,0,Kareem Canty Turnover.
+Marshall,Louisiana Tech,55,74,30,6,0,Chris Anderson Steal.
+Marshall,Louisiana Tech,55,74,30,10,0,Alex Hamilton Turnover.
+Marshall,Louisiana Tech,55,74,30,22,0,Foul on Jaron Johnson.
+Marshall,Louisiana Tech,55,74,30,22,0,DeVince Boykins missed Free Throw.
+Marshall,Louisiana Tech,56,74,30,22,1,DeVince Boykins made Free Throw.
+Marshall,Louisiana Tech,56,74,30,22,0,Marshall Deadball Team Rebound.
+Marshall,Louisiana Tech,56,74,30,33,0,Kenyon McNeail missed Three Point Jumper.
+Marshall,Louisiana Tech,56,74,30,33,0,Kenyon McNeail Offensive Rebound.
+Marshall,Louisiana Tech,56,76,30,38,1,Kenyon McNeail made Layup.
+Marshall,Louisiana Tech,58,76,31,11,1,Kareem Canty made Jumper.
+Marshall,Louisiana Tech,58,78,31,20,1,Alex Hamilton made Jumper.
+Marshall,Louisiana Tech,60,78,31,35,1,Cheikh Sane made Dunk. Assisted by Tamron Manning.
+Marshall,Louisiana Tech,60,78,31,50,0,Kenyon McNeail Turnover.
+Marshall,Louisiana Tech,60,78,32,9,0,Tamron Manning missed Layup.
+Marshall,Louisiana Tech,60,78,32,9,0,Louisiana Tech Defensive Rebound.
+Marshall,Louisiana Tech,60,78,32,21,0,Chris Anderson missed Jumper.
+Marshall,Louisiana Tech,60,78,32,21,0,Alex Hamilton Offensive Rebound.
+Marshall,Louisiana Tech,60,80,32,25,1,Alex Hamilton made Layup.
+Marshall,Louisiana Tech,60,80,32,33,0,Chris Thomas Turnover.
+Marshall,Louisiana Tech,60,80,32,34,0,Kenyon McNeail Steal.
+Marshall,Louisiana Tech,60,82,32,36,1,Kenyon McNeail made Layup.
+Marshall,Louisiana Tech,60,82,33,8,0,Tamron Manning missed Jumper.
+Marshall,Louisiana Tech,60,82,33,8,0,Chris Anderson Defensive Rebound.
+Marshall,Louisiana Tech,60,82,33,15,0,Alex Hamilton Turnover.
+Marshall,Louisiana Tech,60,82,33,17,0,DeVince Boykins Steal.
+Marshall,Louisiana Tech,62,82,33,19,1,DeVince Boykins made Dunk.
+Marshall,Louisiana Tech,62,84,33,33,1,Alex Hamilton made Layup.
+Marshall,Louisiana Tech,64,84,34,3,1,Cheikh Sane made Jumper.
+Marshall,Louisiana Tech,64,84,34,29,0,Foul on Cheikh Sane.
+Marshall,Louisiana Tech,64,85,34,29,1,Cordarius Johnson made Free Throw.
+Marshall,Louisiana Tech,64,86,34,29,1,Cordarius Johnson made Free Throw.
+Marshall,Louisiana Tech,66,86,34,47,1,Kareem Canty made Jumper.
+Marshall,Louisiana Tech,66,86,35,6,0,Cordarius Johnson missed Three Point Jumper.
+Marshall,Louisiana Tech,66,86,35,6,0,Louisiana Tech Offensive Rebound.
+Marshall,Louisiana Tech,66,86,35,9,0,Foul on Ryan Taylor.
+Marshall,Louisiana Tech,66,86,35,9,0,Gilbert Talbot missed Free Throw.
+Marshall,Louisiana Tech,66,86,35,9,0,Cordarius Johnson Offensive Rebound.
+Marshall,Louisiana Tech,66,86,35,31,0,Kenyon McNeail missed Three Point Jumper.
+Marshall,Louisiana Tech,66,86,35,31,0,Chris Thomas Defensive Rebound.
+Marshall,Louisiana Tech,66,86,35,39,0,TyQuane Goard missed Dunk.
+Marshall,Louisiana Tech,66,86,35,39,0,Shawn Smith Offensive Rebound.
+Marshall,Louisiana Tech,66,86,35,41,0,Shawn Smith missed Jumper.
+Marshall,Louisiana Tech,66,86,35,41,0,Kenyon McNeail Defensive Rebound.
+Marshall,Louisiana Tech,66,88,35,58,1,Gilbert Talbot made Layup. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,66,88,36,18,0,Foul on Gilbert Talbot.
+Marshall,Louisiana Tech,66,88,36,18,0,Official TV Timeout
+Marshall,Louisiana Tech,67,88,36,18,1,Chris Thomas made Free Throw.
+Marshall,Louisiana Tech,67,88,36,18,0,Chris Thomas missed Free Throw.
+Marshall,Louisiana Tech,67,88,36,18,0,Isaiah Massey Defensive Rebound.
+Marshall,Louisiana Tech,67,88,36,33,0,Kenneth Smith Turnover.
+Marshall,Louisiana Tech,67,88,36,46,0,Ryan Taylor missed Jumper.
+Marshall,Louisiana Tech,67,88,36,46,0,Ryan Taylor Offensive Rebound.
+Marshall,Louisiana Tech,67,88,36,51,0,Ryan Taylor missed Jumper.
+Marshall,Louisiana Tech,67,88,36,51,0,Chris Anderson Defensive Rebound.
+Marshall,Louisiana Tech,67,88,37,19,0,Chris Thomas missed Jumper.
+Marshall,Louisiana Tech,67,88,37,19,0,Isaiah Massey Block.
+Marshall,Louisiana Tech,67,88,37,20,0,Chris Thomas Offensive Rebound.
+Marshall,Louisiana Tech,67,88,37,35,0,Kareem Canty missed Jumper.
+Marshall,Louisiana Tech,67,88,37,35,0,Jaron Johnson Defensive Rebound.
+Marshall,Louisiana Tech,67,88,37,52,0,Foul on Ryan Taylor.
+Marshall,Louisiana Tech,67,89,37,52,1,Chris Anderson made Free Throw.
+Marshall,Louisiana Tech,67,89,37,52,0,Chris Anderson missed Free Throw.
+Marshall,Louisiana Tech,67,89,37,52,0,Shawn Smith Defensive Rebound.
+Marshall,Louisiana Tech,67,89,37,55,0,Shawn Smith Turnover.
+Marshall,Louisiana Tech,67,89,37,56,0,Chris Anderson Steal.
+Marshall,Louisiana Tech,67,89,38,0,0,Foul on TyQuane Goard.
+Marshall,Louisiana Tech,67,90,38,0,1,Chris Anderson made Free Throw.
+Marshall,Louisiana Tech,67,91,38,0,1,Chris Anderson made Free Throw.
+Marshall,Louisiana Tech,69,91,38,5,1,Kareem Canty made Jumper.
+Marshall,Louisiana Tech,69,91,38,22,0,Foul on TyQuane Goard.
+Marshall,Louisiana Tech,69,92,38,22,1,Chris Anderson made Free Throw.
+Marshall,Louisiana Tech,69,92,38,22,0,Chris Anderson missed Free Throw.
+Marshall,Louisiana Tech,69,92,38,22,0,Marshall Defensive Rebound.
+Marshall,Louisiana Tech,69,92,38,22,0,Foul on Isaiah Massey.
+Marshall,Louisiana Tech,69,92,38,31,0,Chris Thomas missed Layup.
+Marshall,Louisiana Tech,69,92,38,31,0,Chris Anderson Block.
+Marshall,Louisiana Tech,69,92,38,33,0,Ryan Taylor Offensive Rebound.
+Marshall,Louisiana Tech,69,92,38,33,0,Foul on Chris Anderson.
+Marshall,Louisiana Tech,70,92,38,33,1,Ryan Taylor made Free Throw.
+Marshall,Louisiana Tech,71,92,38,33,1,Ryan Taylor made Free Throw.
+Marshall,Louisiana Tech,71,94,38,38,1,Kenyon McNeail made Layup.
+Marshall,Louisiana Tech,71,94,38,38,0,Foul on Ryan Taylor.
+Marshall,Louisiana Tech,71,95,38,38,1,Kenyon McNeail made Free Throw.
+Marshall,Louisiana Tech,71,95,38,43,0,Kareem Canty missed Three Point Jumper.
+Marshall,Louisiana Tech,71,95,38,43,0,Shawn Smith Offensive Rebound.
+Marshall,Louisiana Tech,73,95,38,57,1,TyQuane Goard made Dunk. Assisted by Chris Thomas.
+Marshall,Louisiana Tech,73,97,39,14,1,Jaron Johnson made Layup. Assisted by Kenneth Smith.
+Marshall,Louisiana Tech,75,97,39,26,1,Kareem Canty made Jumper.
+Marshall,Louisiana Tech,75,97,39,31,0,Foul on TyQuane Goard.
+Marshall,Louisiana Tech,75,97,39,31,0,Kenneth Smith missed Free Throw.
+Marshall,Louisiana Tech,75,97,39,31,0,Louisiana Tech Deadball Team Rebound.
+Marshall,Louisiana Tech,75,98,39,31,1,Kenneth Smith made Free Throw.
+Marshall,Louisiana Tech,77,98,39,40,1,Kareem Canty made Layup.
+Marshall,Louisiana Tech,77,98,40,0,0,End of Game

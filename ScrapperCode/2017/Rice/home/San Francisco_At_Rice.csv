@@ -1,0 +1,364 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+San Francisco,Rice,0,0,0,17,0,Foul on Marquez Letcher-Ellis.
+San Francisco,Rice,0,0,0,17,0,Marquez Letcher-Ellis Turnover.
+San Francisco,Rice,2,0,0,31,1,Jordan Ratinho made Layup. Assisted by Nate Renfro.
+San Francisco,Rice,2,2,0,42,1,Connor Cashaw made Layup.
+San Francisco,Rice,2,2,1,1,0,Jordan Ratinho missed Three Point Jumper.
+San Francisco,Rice,2,2,1,1,0,Connor Cashaw Defensive Rebound.
+San Francisco,Rice,2,4,1,32,1,Egor Koulechov made Layup. Assisted by Connor Cashaw.
+San Francisco,Rice,2,4,1,53,0,Charles Minlend Turnover.
+San Francisco,Rice,2,4,1,54,0,Marcus Evans Steal.
+San Francisco,Rice,2,4,2,1,0,Marquez Letcher-Ellis missed Three Point Jumper.
+San Francisco,Rice,2,4,2,1,0,Jordan Ratinho Defensive Rebound.
+San Francisco,Rice,2,4,2,9,0,Charles Minlend missed Three Point Jumper.
+San Francisco,Rice,2,4,2,9,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,2,4,2,20,0,Foul on Nate Renfro.
+San Francisco,Rice,2,5,2,20,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,2,6,2,20,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,2,6,2,29,0,Ronnie Boyce missed Three Point Jumper.
+San Francisco,Rice,2,6,2,29,0,Rice Defensive Rebound.
+San Francisco,Rice,2,6,2,47,0,Marquez Letcher-Ellis missed Layup.
+San Francisco,Rice,2,6,2,47,0,Matt McCarthy Defensive Rebound.
+San Francisco,Rice,2,6,2,55,0,Jordan Ratinho missed Layup.
+San Francisco,Rice,2,6,2,55,0,Connor Cashaw Defensive Rebound.
+San Francisco,Rice,2,6,3,8,0,Marcus Evans missed Jumper.
+San Francisco,Rice,2,6,3,8,0,Ronnie Boyce Block.
+San Francisco,Rice,2,6,3,10,0,Rice Offensive Rebound.
+San Francisco,Rice,2,8,3,17,1,Chad Lott made Jumper. Assisted by Ako Adams.
+San Francisco,Rice,2,8,3,48,0,Matt McCarthy missed Three Point Jumper.
+San Francisco,Rice,2,8,3,48,0,Ako Adams Defensive Rebound.
+San Francisco,Rice,2,10,4,0,1,Marcus Evans made Jumper. Assisted by Chad Lott.
+San Francisco,Rice,2,10,4,8,0,Jordan Ratinho missed Layup.
+San Francisco,Rice,2,10,4,8,0,Austin Meyer Block.
+San Francisco,Rice,2,10,4,9,0,San Francisco Offensive Rebound.
+San Francisco,Rice,2,10,4,11,0,Official TV Timeout
+San Francisco,Rice,2,10,4,23,0,Chase Foster missed Three Point Jumper.
+San Francisco,Rice,2,10,4,23,0,Austin Meyer Defensive Rebound.
+San Francisco,Rice,2,10,4,37,0,Egor Koulechov missed Layup.
+San Francisco,Rice,2,10,4,37,0,San Francisco Defensive Rebound.
+San Francisco,Rice,2,10,4,48,0,Foul on Austin Meyer.
+San Francisco,Rice,2,10,4,57,0,Matt McCarthy missed Jumper.
+San Francisco,Rice,2,10,4,57,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,2,10,5,5,0,Foul on Matt McCarthy.
+San Francisco,Rice,2,10,5,5,0,Marcus Jackson missed Free Throw.
+San Francisco,Rice,2,10,5,5,0,Rice Deadball Team Rebound.
+San Francisco,Rice,2,11,5,5,1,Marcus Jackson made Free Throw.
+San Francisco,Rice,2,11,5,28,0,Charles Minlend missed Jumper.
+San Francisco,Rice,2,11,5,28,0,Rice Defensive Rebound.
+San Francisco,Rice,2,11,5,41,0,Marquez Letcher-Ellis missed Dunk.
+San Francisco,Rice,2,11,5,41,0,Matt McCarthy Defensive Rebound.
+San Francisco,Rice,2,11,5,46,0,Frankie Ferrari missed Three Point Jumper.
+San Francisco,Rice,2,11,5,46,0,Remu Raitanen Offensive Rebound.
+San Francisco,Rice,2,11,5,49,0,Foul on Austin Meyer.
+San Francisco,Rice,3,11,5,49,1,Remu Raitanen made Free Throw.
+San Francisco,Rice,4,11,5,49,1,Remu Raitanen made Free Throw.
+San Francisco,Rice,4,14,6,0,1,Marcus Jackson made Three Point Jumper. Assisted by Marcus Evans.
+San Francisco,Rice,7,14,6,18,1,Charles Minlend made Three Point Jumper. Assisted by Frankie Ferrari.
+San Francisco,Rice,7,14,6,37,0,Marcus Jackson Turnover.
+San Francisco,Rice,7,14,6,38,0,Chase Foster Steal.
+San Francisco,Rice,9,14,6,41,1,Chase Foster made Layup.
+San Francisco,Rice,9,14,7,4,0,Foul on Remu Raitanen.
+San Francisco,Rice,9,16,7,22,1,Tim Harrison made Dunk. Assisted by Ako Adams.
+San Francisco,Rice,11,16,7,39,1,Charles Minlend made Layup.
+San Francisco,Rice,11,16,7,49,0,Marquez Letcher-Ellis missed Three Point Jumper.
+San Francisco,Rice,11,16,7,49,0,Chase Foster Defensive Rebound.
+San Francisco,Rice,13,16,8,0,1,Jimbo Lull made Jumper. Assisted by Frankie Ferrari.
+San Francisco,Rice,13,16,8,18,0,Foul on Jimbo Lull.
+San Francisco,Rice,13,16,8,18,0,Official TV Timeout
+San Francisco,Rice,13,18,8,34,1,Marcus Evans made Layup.
+San Francisco,Rice,15,18,8,56,1,Jimbo Lull made Jumper.
+San Francisco,Rice,15,20,9,9,1,Tim Harrison made Layup. Assisted by Connor Cashaw.
+San Francisco,Rice,15,20,9,22,0,Charles Minlend missed Jumper.
+San Francisco,Rice,15,20,9,22,0,Connor Cashaw Defensive Rebound.
+San Francisco,Rice,15,22,9,32,1,Chad Lott made Dunk. Assisted by Connor Cashaw.
+San Francisco,Rice,15,22,9,41,0,Remu Raitanen missed Three Point Jumper.
+San Francisco,Rice,15,22,9,41,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,15,22,9,53,0,Chad Lott Turnover.
+San Francisco,Rice,15,22,10,9,0,Mladen Djordjevic missed Three Point Jumper.
+San Francisco,Rice,15,22,10,9,0,Chad Lott Defensive Rebound.
+San Francisco,Rice,15,24,10,26,1,Egor Koulechov made Jumper.
+San Francisco,Rice,15,24,10,40,0,Jordan Ratinho missed Three Point Jumper.
+San Francisco,Rice,15,24,10,40,0,Remu Raitanen Offensive Rebound.
+San Francisco,Rice,17,24,10,45,1,Remu Raitanen made Layup.
+San Francisco,Rice,17,24,10,59,0,Marcus Evans Turnover.
+San Francisco,Rice,17,24,10,59,0,Nate Renfro Steal.
+San Francisco,Rice,19,24,11,3,1,Charles Minlend made Layup. Assisted by Mladen Djordjevic.
+San Francisco,Rice,19,24,11,11,0,Marcus Evans missed Jumper.
+San Francisco,Rice,19,24,11,11,0,Nate Renfro Defensive Rebound.
+San Francisco,Rice,19,24,11,38,0,Remu Raitanen missed Three Point Jumper.
+San Francisco,Rice,19,24,11,38,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,19,26,11,55,1,Chad Lott made Jumper.
+San Francisco,Rice,19,26,12,14,0,Charles Minlend missed Three Point Jumper.
+San Francisco,Rice,19,26,12,14,0,Andrew Drone Defensive Rebound.
+San Francisco,Rice,19,29,12,23,1,Egor Koulechov made Three Point Jumper. Assisted by Marcus Evans.
+San Francisco,Rice,19,29,12,50,0,Jordan Ratinho missed Three Point Jumper.
+San Francisco,Rice,19,29,12,50,0,Jordan Ratinho Offensive Rebound.
+San Francisco,Rice,19,29,12,50,0,Jordan Ratinho missed Layup.
+San Francisco,Rice,19,29,12,50,0,Andrew Drone Block.
+San Francisco,Rice,19,29,12,50,0,Matt McCarthy Offensive Rebound.
+San Francisco,Rice,22,29,12,50,1,Frankie Ferrari made Three Point Jumper. Assisted by Matt McCarthy.
+San Francisco,Rice,22,31,13,22,1,Ako Adams made Jumper. Assisted by Marquez Letcher-Ellis.
+San Francisco,Rice,22,31,13,25,0,San Francisco  Timeout
+San Francisco,Rice,22,31,13,48,0,Chase Foster missed Three Point Jumper.
+San Francisco,Rice,22,31,13,48,0,Matt McCarthy Offensive Rebound.
+San Francisco,Rice,22,31,13,54,0,Chase Foster missed Three Point Jumper.
+San Francisco,Rice,22,31,13,54,0,Connor Cashaw Defensive Rebound.
+San Francisco,Rice,22,31,14,6,0,Marquez Letcher-Ellis missed Jumper.
+San Francisco,Rice,22,31,14,6,0,Nate Renfro Block.
+San Francisco,Rice,22,31,14,8,0,Frankie Ferrari Defensive Rebound.
+San Francisco,Rice,22,31,14,12,0,Frankie Ferrari missed Jumper.
+San Francisco,Rice,22,31,14,12,0,Rice Defensive Rebound.
+San Francisco,Rice,22,31,14,37,0,Marcus Evans Turnover.
+San Francisco,Rice,22,31,14,38,0,Nate Renfro Steal.
+San Francisco,Rice,22,31,14,39,0,Nate Renfro Turnover.
+San Francisco,Rice,22,31,14,40,0,Connor Cashaw Steal.
+San Francisco,Rice,22,33,14,42,1,Connor Cashaw made Jumper.
+San Francisco,Rice,22,33,14,57,0,Jordan Ratinho missed Three Point Jumper.
+San Francisco,Rice,22,33,14,57,0,Marquez Letcher-Ellis Defensive Rebound.
+San Francisco,Rice,22,33,15,4,0,Ako Adams Turnover.
+San Francisco,Rice,22,33,15,5,0,Frankie Ferrari Steal.
+San Francisco,Rice,24,33,15,10,1,Matt McCarthy made Layup. Assisted by Frankie Ferrari.
+San Francisco,Rice,24,33,15,38,0,Marcus Evans missed Three Point Jumper.
+San Francisco,Rice,24,33,15,38,0,Matt McCarthy Defensive Rebound.
+San Francisco,Rice,24,33,15,46,0,Jordan Ratinho missed Layup.
+San Francisco,Rice,24,33,15,46,0,Connor Cashaw Defensive Rebound.
+San Francisco,Rice,24,35,15,58,1,Bishop Mency made Layup.
+San Francisco,Rice,24,35,15,58,0,Foul on Nate Renfro.
+San Francisco,Rice,24,35,15,58,0,Bishop Mency missed Free Throw.
+San Francisco,Rice,24,35,15,58,0,Matt McCarthy Defensive Rebound.
+San Francisco,Rice,24,35,16,19,0,Foul on Bishop Mency.
+San Francisco,Rice,24,35,16,19,0,Official TV Timeout
+San Francisco,Rice,24,35,16,19,0,Foul on Robert Martin.
+San Francisco,Rice,24,35,16,20,0,Frankie Ferrari Turnover.
+San Francisco,Rice,24,35,16,31,0,Egor Koulechov missed Jumper.
+San Francisco,Rice,24,35,16,31,0,Matt McCarthy Defensive Rebound.
+San Francisco,Rice,24,35,16,40,0,Ronnie Boyce missed Three Point Jumper.
+San Francisco,Rice,24,35,16,40,0,Remu Raitanen Offensive Rebound.
+San Francisco,Rice,24,35,16,46,0,Chase Foster missed Three Point Jumper.
+San Francisco,Rice,24,35,16,46,0,Chad Lott Defensive Rebound.
+San Francisco,Rice,24,35,16,59,0,Foul on Matt McCarthy.
+San Francisco,Rice,24,35,17,0,0,Robert Martin missed Three Point Jumper.
+San Francisco,Rice,24,35,17,0,0,Ronnie Boyce Defensive Rebound.
+San Francisco,Rice,24,35,17,9,0,Remu Raitanen missed Three Point Jumper.
+San Francisco,Rice,24,35,17,9,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,24,35,17,17,0,Egor Koulechov missed Jumper.
+San Francisco,Rice,24,35,17,17,0,Chase Foster Defensive Rebound.
+San Francisco,Rice,26,35,17,28,1,Ronnie Boyce made Layup.
+San Francisco,Rice,26,35,17,28,0,Foul on Robert Martin.
+San Francisco,Rice,27,35,17,28,1,Ronnie Boyce made Free Throw.
+San Francisco,Rice,27,35,17,51,0,Marcus Evans missed Three Point Jumper.
+San Francisco,Rice,27,35,17,51,0,Austin Meyer Offensive Rebound.
+San Francisco,Rice,27,35,17,58,0,Chad Lott missed Jumper.
+San Francisco,Rice,27,35,17,58,0,Jimbo Lull Block.
+San Francisco,Rice,27,35,18,0,0,Ronnie Boyce Defensive Rebound.
+San Francisco,Rice,30,35,18,15,1,Chase Foster made Three Point Jumper. Assisted by Ronnie Boyce.
+San Francisco,Rice,30,35,18,34,0,Marcus Evans Turnover.
+San Francisco,Rice,30,35,18,35,0,Ronnie Boyce Steal.
+San Francisco,Rice,32,35,18,39,1,Ronnie Boyce made Layup.
+San Francisco,Rice,32,35,18,39,0,Rice  Timeout
+San Francisco,Rice,32,35,18,57,0,Connor Cashaw missed Jumper.
+San Francisco,Rice,32,35,18,57,0,Jimbo Lull Defensive Rebound.
+San Francisco,Rice,32,35,19,3,0,Foul on Egor Koulechov.
+San Francisco,Rice,32,35,19,20,0,Ronnie Boyce missed Jumper.
+San Francisco,Rice,32,35,19,20,0,Chase Foster Offensive Rebound.
+San Francisco,Rice,32,35,19,23,0,Chase Foster missed Jumper.
+San Francisco,Rice,32,35,19,23,0,Austin Meyer Defensive Rebound.
+San Francisco,Rice,32,35,19,29,0,Egor Koulechov missed Three Point Jumper.
+San Francisco,Rice,32,35,19,29,0,Frankie Ferrari Defensive Rebound.
+San Francisco,Rice,34,35,19,41,1,Charles Minlend made Layup.
+San Francisco,Rice,34,35,19,41,0,Foul on Connor Cashaw.
+San Francisco,Rice,35,35,19,41,1,Charles Minlend made Free Throw.
+San Francisco,Rice,35,35,19,58,0,Foul on Frankie Ferrari.
+San Francisco,Rice,35,35,19,59,0,Andrew Drone Turnover.
+San Francisco,Rice,35,35,19,59,0,Chase Foster Steal.
+San Francisco,Rice,35,35,20,0,0,End of 1st half
+San Francisco,Rice,37,35,20,8,1,Jimbo Lull made Dunk. Assisted by Frankie Ferrari.
+San Francisco,Rice,37,35,20,44,0,Egor Koulechov Turnover.
+San Francisco,Rice,37,35,20,44,0,Jimbo Lull Steal.
+San Francisco,Rice,37,35,21,0,0,Chase Foster Turnover.
+San Francisco,Rice,37,35,21,2,0,Marcus Jackson Steal.
+San Francisco,Rice,37,35,21,17,0,Connor Cashaw missed Three Point Jumper.
+San Francisco,Rice,37,35,21,17,0,Jimbo Lull Defensive Rebound.
+San Francisco,Rice,37,35,21,30,0,Foul on Marquez Letcher-Ellis.
+San Francisco,Rice,38,35,21,30,1,Ronnie Boyce made Free Throw.
+San Francisco,Rice,38,35,21,30,0,Ronnie Boyce missed Free Throw.
+San Francisco,Rice,38,35,21,30,0,Ronnie Boyce Offensive Rebound.
+San Francisco,Rice,38,35,21,35,0,Foul on Marcus Evans.
+San Francisco,Rice,40,35,21,45,1,Jimbo Lull made Jumper.
+San Francisco,Rice,40,35,21,55,0,Foul on Jimbo Lull.
+San Francisco,Rice,40,35,21,57,0,Marcus Jackson missed Three Point Jumper.
+San Francisco,Rice,40,35,21,57,0,Jimbo Lull Defensive Rebound.
+San Francisco,Rice,40,35,22,10,0,Ronnie Boyce Turnover.
+San Francisco,Rice,40,38,22,24,1,Marcus Evans made Three Point Jumper. Assisted by Connor Cashaw.
+San Francisco,Rice,42,38,22,46,1,Ronnie Boyce made Layup. Assisted by Charles Minlend.
+San Francisco,Rice,42,38,22,59,0,Foul on Jimbo Lull.
+San Francisco,Rice,42,38,23,11,0,Marcus Evans missed Jumper.
+San Francisco,Rice,42,38,23,11,0,San Francisco Defensive Rebound.
+San Francisco,Rice,42,38,23,25,0,Matt McCarthy Turnover.
+San Francisco,Rice,42,38,23,26,0,Marquez Letcher-Ellis Steal.
+San Francisco,Rice,42,38,23,30,0,Marquez Letcher-Ellis Turnover.
+San Francisco,Rice,42,38,23,31,0,Frankie Ferrari Steal.
+San Francisco,Rice,44,38,23,32,1,Frankie Ferrari made Layup.
+San Francisco,Rice,44,38,23,45,0,Ako Adams missed Jumper.
+San Francisco,Rice,44,38,23,45,0,Matt McCarthy Defensive Rebound.
+San Francisco,Rice,44,38,23,53,0,Foul on Ako Adams.
+San Francisco,Rice,46,38,23,57,1,Chase Foster made Jumper.
+San Francisco,Rice,46,40,24,12,1,Chad Lott made Jumper.
+San Francisco,Rice,46,40,24,12,0,Official TV Timeout
+San Francisco,Rice,46,40,24,23,0,Jordan Ratinho Turnover.
+San Francisco,Rice,46,40,24,24,0,Marcus Evans Steal.
+San Francisco,Rice,46,40,24,24,0,Foul on Matt McCarthy.
+San Francisco,Rice,46,40,24,32,0,Foul on Jordan Ratinho.
+San Francisco,Rice,46,41,24,32,1,Chad Lott made Free Throw.
+San Francisco,Rice,46,42,24,32,1,Chad Lott made Free Throw.
+San Francisco,Rice,46,42,24,41,0,Foul on Austin Meyer.
+San Francisco,Rice,46,42,24,48,0,Frankie Ferrari missed Three Point Jumper.
+San Francisco,Rice,46,42,24,48,0,Remu Raitanen Offensive Rebound.
+San Francisco,Rice,49,42,24,55,1,Chase Foster made Three Point Jumper. Assisted by Mladen Djordjevic.
+San Francisco,Rice,49,44,25,27,1,Marcus Evans made Jumper.
+San Francisco,Rice,49,44,25,38,0,Chase Foster missed Layup.
+San Francisco,Rice,49,44,25,38,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,49,47,25,43,1,Egor Koulechov made Three Point Jumper.
+San Francisco,Rice,52,47,26,0,1,Chase Foster made Three Point Jumper. Assisted by Mladen Djordjevic.
+San Francisco,Rice,52,49,26,9,1,Austin Meyer made Layup. Assisted by Ako Adams.
+San Francisco,Rice,52,49,26,24,0,Mladen Djordjevic Turnover.
+San Francisco,Rice,52,49,26,37,0,Foul on Nate Renfro.
+San Francisco,Rice,52,50,26,37,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,52,51,26,37,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,52,51,26,42,0,Foul on Ako Adams.
+San Francisco,Rice,53,51,26,42,1,Frankie Ferrari made Free Throw.
+San Francisco,Rice,54,51,26,42,1,Frankie Ferrari made Free Throw.
+San Francisco,Rice,54,53,26,57,1,Tim Harrison made Jumper. Assisted by Connor Cashaw.
+San Francisco,Rice,54,53,27,16,0,Charles Minlend missed Three Point Jumper.
+San Francisco,Rice,54,53,27,16,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,54,53,27,18,0,Foul on Remu Raitanen.
+San Francisco,Rice,54,54,27,18,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,54,55,27,18,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,54,55,27,30,0,Ronnie Boyce missed Three Point Jumper.
+San Francisco,Rice,54,55,27,30,0,Marquez Letcher-Ellis Defensive Rebound.
+San Francisco,Rice,54,55,27,32,0,Foul on Jimbo Lull.
+San Francisco,Rice,54,56,27,32,1,Marquez Letcher-Ellis made Free Throw.
+San Francisco,Rice,54,57,27,32,1,Marquez Letcher-Ellis made Free Throw.
+San Francisco,Rice,54,57,27,48,0,Charles Minlend missed Jumper.
+San Francisco,Rice,54,57,27,48,0,Marquez Letcher-Ellis Defensive Rebound.
+San Francisco,Rice,54,57,27,58,0,Foul on Remu Raitanen.
+San Francisco,Rice,54,58,27,58,1,Marquez Letcher-Ellis made Free Throw.
+San Francisco,Rice,54,59,27,58,1,Marquez Letcher-Ellis made Free Throw.
+San Francisco,Rice,54,59,28,15,0,Chase Foster missed Three Point Jumper.
+San Francisco,Rice,54,59,28,15,0,Chance Anderson Offensive Rebound.
+San Francisco,Rice,54,59,28,20,0,Chance Anderson missed Jumper.
+San Francisco,Rice,54,59,28,20,0,Chad Lott Defensive Rebound.
+San Francisco,Rice,54,59,28,26,0,Foul on Chad Lott.
+San Francisco,Rice,54,59,28,26,0,Chad Lott Turnover.
+San Francisco,Rice,54,59,28,26,0,Official TV Timeout
+San Francisco,Rice,54,59,28,43,0,Frankie Ferrari missed Jumper.
+San Francisco,Rice,54,59,28,43,0,Chance Anderson Offensive Rebound.
+San Francisco,Rice,54,59,28,57,0,Charles Minlend missed Jumper.
+San Francisco,Rice,54,59,28,57,0,Marquez Letcher-Ellis Block.
+San Francisco,Rice,54,59,28,58,0,Ako Adams Defensive Rebound.
+San Francisco,Rice,54,62,29,0,1,Egor Koulechov made Three Point Jumper. Assisted by Ako Adams.
+San Francisco,Rice,54,62,29,18,0,Ronnie Boyce Turnover.
+San Francisco,Rice,54,62,29,19,0,Marquez Letcher-Ellis Steal.
+San Francisco,Rice,54,64,29,22,1,Marquez Letcher-Ellis made Layup.
+San Francisco,Rice,54,64,29,24,0,San Francisco  Timeout
+San Francisco,Rice,54,64,29,33,0,Ronnie Boyce missed Layup.
+San Francisco,Rice,54,64,29,33,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,54,64,29,39,0,Ako Adams Turnover.
+San Francisco,Rice,56,64,29,54,1,Ronnie Boyce made Layup.
+San Francisco,Rice,56,64,30,14,0,Egor Koulechov missed Three Point Jumper.
+San Francisco,Rice,56,64,30,14,0,Charles Minlend Defensive Rebound.
+San Francisco,Rice,56,64,30,33,0,Chase Foster missed Three Point Jumper.
+San Francisco,Rice,56,64,30,33,0,Frankie Ferrari Offensive Rebound.
+San Francisco,Rice,59,64,30,37,1,Frankie Ferrari made Three Point Jumper.
+San Francisco,Rice,59,64,30,43,0,Foul on Frankie Ferrari.
+San Francisco,Rice,59,65,30,43,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,59,66,30,43,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,59,66,30,58,0,Matt McCarthy missed Jumper.
+San Francisco,Rice,59,66,30,58,0,Marquez Letcher-Ellis Defensive Rebound.
+San Francisco,Rice,59,66,31,21,0,Marquez Letcher-Ellis missed Jumper.
+San Francisco,Rice,59,66,31,21,0,Matt McCarthy Defensive Rebound.
+San Francisco,Rice,59,66,31,33,0,Charles Minlend missed Jumper.
+San Francisco,Rice,59,66,31,33,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,59,66,32,6,0,Connor Cashaw missed Jumper.
+San Francisco,Rice,59,66,32,6,0,Marquez Letcher-Ellis Offensive Rebound.
+San Francisco,Rice,59,66,32,13,0,Marquez Letcher-Ellis Turnover.
+San Francisco,Rice,59,66,32,13,0,Remu Raitanen Steal.
+San Francisco,Rice,59,66,32,13,0,Official TV Timeout
+San Francisco,Rice,61,66,32,28,1,Ronnie Boyce made Jumper. Assisted by Frankie Ferrari.
+San Francisco,Rice,61,66,32,47,0,Marcus Jackson missed Three Point Jumper.
+San Francisco,Rice,61,66,32,47,0,Jimbo Lull Defensive Rebound.
+San Francisco,Rice,61,66,32,56,0,Ronnie Boyce missed Layup.
+San Francisco,Rice,61,66,32,56,0,Connor Cashaw Defensive Rebound.
+San Francisco,Rice,61,66,33,3,0,Connor Cashaw missed Jumper.
+San Francisco,Rice,61,66,33,3,0,Jimbo Lull Defensive Rebound.
+San Francisco,Rice,61,66,33,14,0,Frankie Ferrari Turnover.
+San Francisco,Rice,61,66,33,16,0,Marcus Evans Steal.
+San Francisco,Rice,61,66,33,30,0,Marcus Evans missed Three Point Jumper.
+San Francisco,Rice,61,66,33,30,0,Jimbo Lull Defensive Rebound.
+San Francisco,Rice,61,66,33,46,0,Jordan Ratinho missed Three Point Jumper.
+San Francisco,Rice,61,66,33,46,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,61,68,34,1,1,Marcus Jackson made Jumper.
+San Francisco,Rice,61,68,34,19,0,Foul on Austin Meyer.
+San Francisco,Rice,62,68,34,19,1,Jimbo Lull made Free Throw.
+San Francisco,Rice,63,68,34,19,1,Jimbo Lull made Free Throw.
+San Francisco,Rice,63,70,34,33,1,Marquez Letcher-Ellis made Layup.
+San Francisco,Rice,63,70,34,44,0,Foul on Jimbo Lull.
+San Francisco,Rice,63,70,34,44,0,Jimbo Lull Turnover.
+San Francisco,Rice,63,70,34,55,0,Egor Koulechov missed Jumper.
+San Francisco,Rice,63,70,34,55,0,Matt McCarthy Defensive Rebound.
+San Francisco,Rice,66,70,35,8,1,Frankie Ferrari made Three Point Jumper. Assisted by Remu Raitanen.
+San Francisco,Rice,66,70,35,19,0,Egor Koulechov Turnover.
+San Francisco,Rice,66,70,35,20,0,Ronnie Boyce Steal.
+San Francisco,Rice,66,70,35,26,0,Foul on Ako Adams.
+San Francisco,Rice,67,70,35,26,1,Frankie Ferrari made Free Throw.
+San Francisco,Rice,68,70,35,26,1,Frankie Ferrari made Free Throw.
+San Francisco,Rice,68,70,35,45,0,Marcus Jackson Turnover.
+San Francisco,Rice,68,70,35,45,0,Rice  Timeout
+San Francisco,Rice,68,70,35,57,0,Frankie Ferrari missed Three Point Jumper.
+San Francisco,Rice,68,70,35,57,0,Remu Raitanen Offensive Rebound.
+San Francisco,Rice,68,70,36,7,0,Chase Foster missed Three Point Jumper.
+San Francisco,Rice,68,70,36,7,0,Marquez Letcher-Ellis Defensive Rebound.
+San Francisco,Rice,68,70,36,27,0,Connor Cashaw missed Jumper.
+San Francisco,Rice,68,70,36,27,0,Chase Foster Defensive Rebound.
+San Francisco,Rice,70,70,36,52,1,Ronnie Boyce made Layup.
+San Francisco,Rice,70,70,37,15,0,Marquez Letcher-Ellis Turnover.
+San Francisco,Rice,70,70,37,16,0,Matt McCarthy Steal.
+San Francisco,Rice,72,70,37,22,1,Ronnie Boyce made Layup.
+San Francisco,Rice,72,73,37,40,1,Marcus Evans made Three Point Jumper. Assisted by Connor Cashaw.
+San Francisco,Rice,72,73,37,57,0,Foul on Marcus Jackson.
+San Francisco,Rice,73,73,37,57,1,Ronnie Boyce made Free Throw.
+San Francisco,Rice,74,73,37,57,1,Ronnie Boyce made Free Throw.
+San Francisco,Rice,74,76,38,11,1,Marcus Evans made Three Point Jumper. Assisted by Egor Koulechov.
+San Francisco,Rice,74,76,38,28,0,Ronnie Boyce missed Jumper.
+San Francisco,Rice,74,76,38,28,0,Marquez Letcher-Ellis Block.
+San Francisco,Rice,74,76,38,30,0,Marquez Letcher-Ellis Defensive Rebound.
+San Francisco,Rice,74,76,38,46,0,Chad Lott Turnover.
+San Francisco,Rice,76,76,38,56,1,Matt McCarthy made Layup. Assisted by Ronnie Boyce.
+San Francisco,Rice,76,76,38,57,0,San Francisco  Timeout
+San Francisco,Rice,76,79,39,15,1,Marcus Evans made Three Point Jumper. Assisted by Egor Koulechov.
+San Francisco,Rice,76,79,39,17,0,Rice  Timeout
+San Francisco,Rice,76,79,39,23,0,Ronnie Boyce missed Three Point Jumper.
+San Francisco,Rice,76,79,39,23,0,Marcus Evans Defensive Rebound.
+San Francisco,Rice,76,81,39,35,1,Marcus Evans made Jumper.
+San Francisco,Rice,76,81,39,35,0,Foul on Remu Raitanen.
+San Francisco,Rice,76,82,39,35,1,Marcus Evans made Free Throw.
+San Francisco,Rice,76,82,39,39,0,Charles Minlend missed Jumper.
+San Francisco,Rice,76,82,39,39,0,Marquez Letcher-Ellis Block.
+San Francisco,Rice,76,82,39,41,0,Marcus Evans Defensive Rebound.
+San Francisco,Rice,76,82,39,41,0,Foul on Matt McCarthy.
+San Francisco,Rice,76,82,39,41,0,Foul on Egor Koulechov.
+San Francisco,Rice,76,82,39,41,0,Egor Koulechov Turnover.
+San Francisco,Rice,76,82,39,42,0,Charles Minlend missed Three Point Jumper.
+San Francisco,Rice,76,82,39,42,0,Egor Koulechov Defensive Rebound.
+San Francisco,Rice,76,82,39,45,0,Foul on Nate Renfro.
+San Francisco,Rice,76,83,39,45,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,76,83,39,45,0,Egor Koulechov missed Free Throw.
+San Francisco,Rice,76,83,39,45,0,Charles Minlend Defensive Rebound.
+San Francisco,Rice,76,83,39,53,0,Frankie Ferrari missed Three Point Jumper.
+San Francisco,Rice,76,83,39,55,0,Rice Defensive Rebound.
+San Francisco,Rice,76,83,39,55,0,Foul on Frankie Ferrari.
+San Francisco,Rice,76,84,39,55,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,76,85,39,55,1,Egor Koulechov made Free Throw.
+San Francisco,Rice,76,85,39,58,0,Charles Minlend missed Three Point Jumper.
+San Francisco,Rice,76,85,39,58,0,Nate Renfro Offensive Rebound.
+San Francisco,Rice,76,85,40,0,0,End of Game

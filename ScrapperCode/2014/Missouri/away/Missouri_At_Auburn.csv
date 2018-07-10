@@ -1,0 +1,380 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Missouri,Auburn,0,0,0,0,0,Jump Ball won by Auburn
+Missouri,Auburn,0,0,0,12,0,Asauhn Dixon-Tatum missed Jumper.
+Missouri,Auburn,0,0,0,12,0,Earnest Ross Defensive Rebound.
+Missouri,Auburn,0,0,0,25,0,Jabari Brown missed Jumper.
+Missouri,Auburn,0,0,0,25,0,Asauhn Dixon-Tatum Defensive Rebound.
+Missouri,Auburn,0,0,0,38,0,Tahj Shamsid-Deen Turnover.
+Missouri,Auburn,0,0,0,58,0,Ryan Rosburg Turnover.
+Missouri,Auburn,0,0,0,58,0,Asauhn Dixon-Tatum Steal.
+Missouri,Auburn,0,0,1,6,0,Tahj Shamsid-Deen missed Three Point Jumper.
+Missouri,Auburn,0,0,1,6,0,Earnest Ross Defensive Rebound.
+Missouri,Auburn,2,0,1,15,1,Earnest Ross made Layup.
+Missouri,Auburn,2,0,1,34,0,Chris Denson missed Three Point Jumper.
+Missouri,Auburn,2,0,1,34,0,Ryan Rosburg Defensive Rebound.
+Missouri,Auburn,2,0,1,43,0,Jabari Brown Turnover.
+Missouri,Auburn,2,0,1,43,0,Tahj Shamsid-Deen Steal.
+Missouri,Auburn,2,0,1,50,0,KT Harrell missed Three Point Jumper.
+Missouri,Auburn,2,0,1,50,0,Jabari Brown Defensive Rebound.
+Missouri,Auburn,4,0,2,3,1,Ryan Rosburg made Dunk. Assisted by Jabari Brown.
+Missouri,Auburn,4,0,2,3,0,Foul on Chris Denson.
+Missouri,Auburn,4,0,2,3,0,Ryan Rosburg missed Free Throw.
+Missouri,Auburn,4,0,2,3,0,Matthew Atewe Defensive Rebound.
+Missouri,Auburn,4,2,2,21,1,KT Harrell made Layup.
+Missouri,Auburn,4,2,2,21,0,Foul on Ryan Rosburg.
+Missouri,Auburn,4,3,2,21,1,KT Harrell made Free Throw.
+Missouri,Auburn,4,3,2,43,0,Earnest Ross missed Layup.
+Missouri,Auburn,4,3,2,43,0,Auburn Defensive Rebound.
+Missouri,Auburn,4,3,3,2,0,Jordon Granger missed Jumper.
+Missouri,Auburn,4,3,3,2,0,Matthew Atewe Offensive Rebound.
+Missouri,Auburn,4,3,3,5,0,Foul on Ryan Rosburg.
+Missouri,Auburn,4,6,3,12,1,Tahj Shamsid-Deen made Three Point Jumper. Assisted by Chris Denson.
+Missouri,Auburn,4,6,3,48,0,Keanau Post missed Jumper.
+Missouri,Auburn,4,6,3,48,0,Matthew Atewe Block.
+Missouri,Auburn,4,6,3,48,0,Torren Jones Offensive Rebound.
+Missouri,Auburn,4,6,3,58,0,Torren Jones missed Jumper.
+Missouri,Auburn,4,6,3,58,0,Matthew Atewe Block.
+Missouri,Auburn,4,6,4,0,0,Auburn Defensive Rebound.
+Missouri,Auburn,4,6,4,5,0,Chris Denson Turnover.
+Missouri,Auburn,4,6,4,5,0,Wes Clark Steal.
+Missouri,Auburn,6,6,4,10,1,Jabari Brown made Layup. Assisted by Wes Clark.
+Missouri,Auburn,6,6,4,32,0,Foul on Jabari Brown.
+Missouri,Auburn,6,6,4,33,0,Official TV Timeout
+Missouri,Auburn,6,7,4,33,1,Chris Denson made Free Throw.
+Missouri,Auburn,6,7,4,33,0,Chris Denson missed Free Throw.
+Missouri,Auburn,6,7,4,34,0,Jordan Clarkson Defensive Rebound.
+Missouri,Auburn,6,7,4,43,0,Foul on Tahj Shamsid-Deen.
+Missouri,Auburn,6,7,4,59,0,Wes Clark Turnover.
+Missouri,Auburn,6,7,4,59,0,Tahj Shamsid-Deen Steal.
+Missouri,Auburn,6,7,4,59,0,Foul on Jordon Granger.
+Missouri,Auburn,6,7,4,59,0,Jordon Granger Turnover.
+Missouri,Auburn,6,7,5,9,0,Earnest Ross missed Layup.
+Missouri,Auburn,6,7,5,9,0,Torren Jones Offensive Rebound.
+Missouri,Auburn,6,7,5,16,0,Johnathan Williams III missed Layup.
+Missouri,Auburn,6,7,5,16,0,Torren Jones Offensive Rebound.
+Missouri,Auburn,9,7,5,27,1,Earnest Ross made Three Point Jumper. Assisted by Wes Clark.
+Missouri,Auburn,9,7,5,44,0,Foul on Matthew Atewe.
+Missouri,Auburn,9,7,5,44,0,Matthew Atewe Turnover.
+Missouri,Auburn,9,7,6,3,0,Wes Clark missed Jumper.
+Missouri,Auburn,9,7,6,3,0,Torren Jones Offensive Rebound.
+Missouri,Auburn,9,7,6,11,0,Torren Jones Turnover.
+Missouri,Auburn,9,7,6,11,0,Jordon Granger Steal.
+Missouri,Auburn,9,7,6,25,0,Foul on Johnathan Williams III.
+Missouri,Auburn,9,7,6,25,0,KT Harrell missed Free Throw.
+Missouri,Auburn,9,7,6,25,0,Auburn Deadball Team Rebound.
+Missouri,Auburn,9,7,6,25,0,KT Harrell missed Free Throw.
+Missouri,Auburn,9,7,6,25,0,Keanau Post Defensive Rebound.
+Missouri,Auburn,9,7,6,31,0,Wes Clark missed Jumper.
+Missouri,Auburn,9,7,6,31,0,Keanau Post Offensive Rebound.
+Missouri,Auburn,9,7,6,46,0,Foul on Jordon Granger.
+Missouri,Auburn,9,7,6,54,0,Keanau Post missed Layup.
+Missouri,Auburn,9,7,6,54,0,Dion Wade Block.
+Missouri,Auburn,9,7,6,54,0,Keanau Post Offensive Rebound.
+Missouri,Auburn,9,7,6,56,0,Foul on Asauhn Dixon-Tatum.
+Missouri,Auburn,10,7,6,56,1,Earnest Ross made Free Throw.
+Missouri,Auburn,11,7,6,56,1,Earnest Ross made Free Throw.
+Missouri,Auburn,11,7,7,12,0,Foul on Wes Clark.
+Missouri,Auburn,11,7,7,21,0,Dion Wade missed Three Point Jumper.
+Missouri,Auburn,11,7,7,21,0,Chris Denson Offensive Rebound.
+Missouri,Auburn,11,7,7,28,0,Chris Denson missed Jumper.
+Missouri,Auburn,11,7,7,28,0,Johnathan Williams III Block.
+Missouri,Auburn,11,7,7,28,0,Asauhn Dixon-Tatum Offensive Rebound.
+Missouri,Auburn,11,9,7,28,1,Asauhn Dixon-Tatum made Two Point Tip Shot.
+Missouri,Auburn,11,9,7,35,0,Foul on Chris Denson.
+Missouri,Auburn,12,9,7,35,1,Jordan Clarkson made Free Throw.
+Missouri,Auburn,13,9,7,35,1,Jordan Clarkson made Free Throw.
+Missouri,Auburn,13,9,7,50,0,KT Harrell missed Layup.
+Missouri,Auburn,13,9,7,50,0,Keanau Post Defensive Rebound.
+Missouri,Auburn,13,9,7,50,0,Keanau Post Turnover.
+Missouri,Auburn,13,12,7,56,1,KT Harrell made Three Point Jumper. Assisted by Tahj Shamsid-Deen.
+Missouri,Auburn,13,12,8,6,0,Foul on Alex Thompson.
+Missouri,Auburn,14,12,8,6,1,Jabari Brown made Free Throw.
+Missouri,Auburn,13,12,8,6,0,Official TV Timeout
+Missouri,Auburn,15,12,8,6,1,Jabari Brown made Free Throw.
+Missouri,Auburn,15,12,8,33,0,Foul on Earnest Ross.
+Missouri,Auburn,15,13,8,33,1,Dion Wade made Free Throw.
+Missouri,Auburn,15,13,8,33,0,Dion Wade missed Free Throw.
+Missouri,Auburn,15,13,8,33,0,Auburn Deadball Team Rebound.
+Missouri,Auburn,15,14,8,33,1,Dion Wade made Free Throw.
+Missouri,Auburn,15,14,8,57,0,Jordan Clarkson missed Jumper.
+Missouri,Auburn,15,14,8,57,0,Matthew Atewe Defensive Rebound.
+Missouri,Auburn,15,14,9,11,0,Tahj Shamsid-Deen missed Jumper.
+Missouri,Auburn,15,14,9,11,0,Johnathan Williams III Defensive Rebound.
+Missouri,Auburn,15,14,9,32,0,Jordan Clarkson missed Three Point Jumper.
+Missouri,Auburn,15,14,9,32,0,Dion Wade Defensive Rebound.
+Missouri,Auburn,15,14,9,41,0,Foul on Jabari Brown.
+Missouri,Auburn,15,15,9,41,1,Tahj Shamsid-Deen made Free Throw.
+Missouri,Auburn,15,16,9,41,1,Tahj Shamsid-Deen made Free Throw.
+Missouri,Auburn,17,16,9,59,1,Jordan Clarkson made Layup.
+Missouri,Auburn,17,18,10,7,1,Chris Denson made Jumper.
+Missouri,Auburn,17,18,10,22,0,Foul on Matthew Atewe.
+Missouri,Auburn,17,18,10,22,0,Keanau Post missed Free Throw.
+Missouri,Auburn,17,18,10,22,0,Johnathan Williams III Offensive Rebound.
+Missouri,Auburn,17,18,10,28,0,Earnest Ross missed Three Point Jumper.
+Missouri,Auburn,17,18,10,28,0,Asauhn Dixon-Tatum Defensive Rebound.
+Missouri,Auburn,17,18,10,43,0,Tahj Shamsid-Deen missed Three Point Jumper.
+Missouri,Auburn,17,18,10,43,0,Earnest Ross Defensive Rebound.
+Missouri,Auburn,17,18,10,51,0,Jordan Clarkson Turnover.
+Missouri,Auburn,17,18,11,11,0,KT Harrell missed Three Point Jumper.
+Missouri,Auburn,17,18,11,11,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,17,18,11,13,0,Foul on Jordon Granger.
+Missouri,Auburn,17,18,11,13,0,Jordan Clarkson missed Free Throw.
+Missouri,Auburn,17,18,11,13,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,18,18,11,13,1,Jordan Clarkson made Free Throw.
+Missouri,Auburn,18,18,11,43,0,Alex Thompson missed Three Point Jumper.
+Missouri,Auburn,18,18,11,43,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,18,18,11,44,0,Foul on Asauhn Dixon-Tatum.
+Missouri,Auburn,18,18,11,44,0,Johnathan Williams III missed Free Throw.
+Missouri,Auburn,18,18,11,44,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,19,18,11,44,1,Johnathan Williams III made Free Throw.
+Missouri,Auburn,19,18,12,8,0,KT Harrell missed Three Point Jumper.
+Missouri,Auburn,19,18,12,8,0,Missouri Defensive Rebound.
+Missouri,Auburn,19,18,12,14,0,Official TV Timeout
+Missouri,Auburn,19,18,12,18,0,Earnest Ross Turnover.
+Missouri,Auburn,19,18,12,18,0,Dion Wade Steal.
+Missouri,Auburn,19,21,12,42,1,Alex Thompson made Three Point Jumper. Assisted by Tahj Shamsid-Deen.
+Missouri,Auburn,19,21,13,1,0,Wes Clark missed Three Point Jumper.
+Missouri,Auburn,19,21,13,1,0,Torren Jones Offensive Rebound.
+Missouri,Auburn,19,21,13,5,0,Foul on Dion Wade.
+Missouri,Auburn,20,21,13,5,1,Torren Jones made Free Throw.
+Missouri,Auburn,21,21,13,5,1,Torren Jones made Free Throw.
+Missouri,Auburn,21,24,13,30,1,KT Harrell made Three Point Jumper. Assisted by Tahj Shamsid-Deen.
+Missouri,Auburn,21,24,14,7,0,Wes Clark missed Jumper.
+Missouri,Auburn,21,24,14,7,0,Torren Jones Offensive Rebound.
+Missouri,Auburn,21,24,14,7,0,Foul on Matthew Atewe.
+Missouri,Auburn,22,24,14,7,1,Torren Jones made Free Throw.
+Missouri,Auburn,23,24,14,7,1,Torren Jones made Free Throw.
+Missouri,Auburn,23,24,14,33,0,Foul on Jordan Clarkson.
+Missouri,Auburn,23,25,14,33,1,KT Harrell made Free Throw.
+Missouri,Auburn,23,26,14,33,1,KT Harrell made Free Throw.
+Missouri,Auburn,23,26,14,47,0,Torren Jones missed Jumper.
+Missouri,Auburn,23,26,14,47,0,Johnathan Williams III Offensive Rebound.
+Missouri,Auburn,23,26,14,52,0,Johnathan Williams III missed Layup.
+Missouri,Auburn,23,26,14,52,0,Dion Wade Block.
+Missouri,Auburn,23,26,14,52,0,Missouri Offensive Rebound.
+Missouri,Auburn,23,26,14,57,0,Jordan Clarkson missed Three Point Jumper.
+Missouri,Auburn,23,26,14,57,0,KT Harrell Defensive Rebound.
+Missouri,Auburn,23,26,15,0,0,Foul on Wes Clark.
+Missouri,Auburn,23,26,15,0,0,KT Harrell missed Free Throw.
+Missouri,Auburn,23,26,15,0,0,Torren Jones Defensive Rebound.
+Missouri,Auburn,23,26,15,11,0,Foul on Earnest Ross.
+Missouri,Auburn,23,26,15,11,0,Earnest Ross Turnover.
+Missouri,Auburn,23,26,15,28,0,Asauhn Dixon-Tatum Turnover.
+Missouri,Auburn,23,26,15,28,0,Earnest Ross Steal.
+Missouri,Auburn,23,26,15,36,0,Wes Clark missed Jumper.
+Missouri,Auburn,23,26,15,36,0,Earnest Ross Offensive Rebound.
+Missouri,Auburn,23,26,15,44,0,Earnest Ross Turnover.
+Missouri,Auburn,23,26,15,44,0,KT Harrell Steal.
+Missouri,Auburn,23,26,15,49,0,Auburn  Timeout
+Missouri,Auburn,23,26,16,2,0,Foul on Johnathan Williams III.
+Missouri,Auburn,23,26,16,2,0,Official TV Timeout
+Missouri,Auburn,23,26,16,2,0,Chris Denson missed Free Throw.
+Missouri,Auburn,23,26,16,2,0,Auburn Deadball Team Rebound.
+Missouri,Auburn,23,26,16,2,0,Chris Denson missed Free Throw.
+Missouri,Auburn,23,26,16,2,0,Earnest Ross Defensive Rebound.
+Missouri,Auburn,23,26,16,11,0,Foul on Keanau Post.
+Missouri,Auburn,23,26,16,11,0,Keanau Post Turnover.
+Missouri,Auburn,23,26,16,45,0,Malcolm Canada missed Layup.
+Missouri,Auburn,23,26,16,45,0,Asauhn Dixon-Tatum Offensive Rebound.
+Missouri,Auburn,23,28,16,45,1,Asauhn Dixon-Tatum made Two Point Tip Shot.
+Missouri,Auburn,25,28,17,8,1,Jordan Clarkson made Layup.
+Missouri,Auburn,25,28,17,27,0,Foul on Torren Jones.
+Missouri,Auburn,25,29,17,27,1,KT Harrell made Free Throw.
+Missouri,Auburn,25,30,17,27,1,KT Harrell made Free Throw.
+Missouri,Auburn,25,30,17,47,0,Foul on Asauhn Dixon-Tatum.
+Missouri,Auburn,26,30,17,47,1,Keanau Post made Free Throw.
+Missouri,Auburn,26,30,17,47,0,Keanau Post missed Free Throw.
+Missouri,Auburn,26,30,17,47,0,Alex Thompson Defensive Rebound.
+Missouri,Auburn,26,30,18,1,0,Asauhn Dixon-Tatum Turnover.
+Missouri,Auburn,26,30,18,1,0,Torren Jones Steal.
+Missouri,Auburn,28,30,18,8,1,Keanau Post made Layup. Assisted by Torren Jones.
+Missouri,Auburn,28,30,18,22,0,KT Harrell missed Three Point Jumper.
+Missouri,Auburn,28,30,18,22,0,Shane Rector Defensive Rebound.
+Missouri,Auburn,28,30,18,33,0,Foul on KT Harrell.
+Missouri,Auburn,29,30,18,33,1,Shane Rector made Free Throw.
+Missouri,Auburn,30,30,18,33,1,Shane Rector made Free Throw.
+Missouri,Auburn,30,30,19,5,0,Tahj Shamsid-Deen missed Three Point Jumper.
+Missouri,Auburn,30,30,19,5,0,Asauhn Dixon-Tatum Offensive Rebound.
+Missouri,Auburn,30,30,19,34,0,Dion Wade Turnover.
+Missouri,Auburn,30,30,19,39,0,Missouri  Timeout
+Missouri,Auburn,33,30,19,53,1,Jabari Brown made Three Point Jumper. Assisted by Wes Clark.
+Missouri,Auburn,33,30,19,59,0,Tahj Shamsid-Deen missed Three Point Jumper.
+Missouri,Auburn,33,30,19,59,0,Dion Wade Offensive Rebound.
+Missouri,Auburn,33,30,20,0,0,End of 1st half
+Missouri,Auburn,33,30,20,0,0,Jump Ball won by Missouri
+Missouri,Auburn,33,30,20,9,0,Foul on Alex Thompson.
+Missouri,Auburn,33,30,20,12,0,Jabari Brown missed Jumper.
+Missouri,Auburn,33,30,20,12,0,Tahj Shamsid-Deen Defensive Rebound.
+Missouri,Auburn,33,32,20,44,1,KT Harrell made Layup.
+Missouri,Auburn,35,32,20,58,1,Johnathan Williams III made Layup.
+Missouri,Auburn,35,32,21,19,0,KT Harrell missed Three Point Jumper.
+Missouri,Auburn,35,32,21,19,0,KT Harrell Offensive Rebound.
+Missouri,Auburn,35,34,21,32,1,Alex Thompson made Jumper. Assisted by Tahj Shamsid-Deen.
+Missouri,Auburn,35,34,21,42,0,Foul on Tahj Shamsid-Deen.
+Missouri,Auburn,36,34,21,42,1,Jordan Clarkson made Free Throw.
+Missouri,Auburn,37,34,21,42,1,Jordan Clarkson made Free Throw.
+Missouri,Auburn,37,36,22,4,1,Chris Denson made Layup. Assisted by KT Harrell.
+Missouri,Auburn,37,36,22,12,0,Earnest Ross missed Layup.
+Missouri,Auburn,37,36,22,12,0,Asauhn Dixon-Tatum Defensive Rebound.
+Missouri,Auburn,37,36,22,15,0,Foul on Earnest Ross.
+Missouri,Auburn,37,36,22,22,0,KT Harrell Turnover.
+Missouri,Auburn,39,36,22,35,1,Johnathan Williams III made Jumper.
+Missouri,Auburn,39,38,22,53,1,KT Harrell made Jumper.
+Missouri,Auburn,39,38,23,18,0,Jabari Brown missed Jumper.
+Missouri,Auburn,39,38,23,18,0,KT Harrell Defensive Rebound.
+Missouri,Auburn,39,38,23,25,0,Foul on Torren Jones.
+Missouri,Auburn,39,39,23,25,1,Chris Denson made Free Throw.
+Missouri,Auburn,39,39,23,25,0,Chris Denson missed Free Throw.
+Missouri,Auburn,39,39,23,25,0,Torren Jones Defensive Rebound.
+Missouri,Auburn,39,39,23,42,0,Torren Jones Turnover.
+Missouri,Auburn,39,39,24,9,0,Chris Denson missed Jumper.
+Missouri,Auburn,39,39,24,9,0,Torren Jones Defensive Rebound.
+Missouri,Auburn,39,39,24,28,0,Torren Jones missed Layup.
+Missouri,Auburn,39,39,24,28,0,Jordon Granger Block.
+Missouri,Auburn,39,39,24,28,0,Torren Jones Offensive Rebound.
+Missouri,Auburn,39,39,24,32,0,Torren Jones missed Layup.
+Missouri,Auburn,39,39,24,32,0,Jordon Granger Block.
+Missouri,Auburn,39,39,24,32,0,Auburn Defensive Rebound.
+Missouri,Auburn,39,39,24,32,0,Official TV Timeout
+Missouri,Auburn,39,39,24,42,0,KT Harrell Turnover.
+Missouri,Auburn,39,39,24,57,0,Jabari Brown missed Three Point Jumper.
+Missouri,Auburn,39,39,24,57,0,Jordan Clarkson Offensive Rebound.
+Missouri,Auburn,41,39,24,57,1,Jordan Clarkson made Two Point Tip Shot.
+Missouri,Auburn,41,39,25,14,0,Foul on Johnathan Williams III.
+Missouri,Auburn,41,39,25,19,0,Dion Wade missed Three Point Jumper.
+Missouri,Auburn,41,39,25,19,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,41,39,25,19,0,Foul on Matthew Atewe.
+Missouri,Auburn,41,39,25,37,0,Foul on Dion Wade.
+Missouri,Auburn,41,39,25,37,0,Johnathan Williams III missed Free Throw.
+Missouri,Auburn,41,39,25,37,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,42,39,25,37,1,Johnathan Williams III made Free Throw.
+Missouri,Auburn,42,39,25,53,0,Jordon Granger missed Layup.
+Missouri,Auburn,42,39,25,53,0,Johnathan Williams III Block.
+Missouri,Auburn,42,39,25,53,0,Jordon Granger Offensive Rebound.
+Missouri,Auburn,42,39,26,2,0,Jordon Granger missed Layup.
+Missouri,Auburn,42,39,26,2,0,Keanau Post Defensive Rebound.
+Missouri,Auburn,42,39,26,2,0,Jabari Brown missed Layup.
+Missouri,Auburn,42,39,26,2,0,Asauhn Dixon-Tatum Block.
+Missouri,Auburn,42,39,26,2,0,Missouri Offensive Rebound.
+Missouri,Auburn,42,39,26,4,0,Jordan Clarkson missed Layup.
+Missouri,Auburn,42,39,26,4,0,Dion Wade Block.
+Missouri,Auburn,42,39,26,4,0,Missouri Offensive Rebound.
+Missouri,Auburn,42,39,26,10,0,Johnathan Williams III missed Layup.
+Missouri,Auburn,42,39,26,10,0,Johnathan Williams III Offensive Rebound.
+Missouri,Auburn,42,39,26,12,0,Foul on Dion Wade.
+Missouri,Auburn,43,39,26,12,1,Johnathan Williams III made Free Throw.
+Missouri,Auburn,44,39,26,12,1,Johnathan Williams III made Free Throw.
+Missouri,Auburn,44,39,26,26,0,Tahj Shamsid-Deen missed Jumper.
+Missouri,Auburn,44,39,26,26,0,Asauhn Dixon-Tatum Offensive Rebound.
+Missouri,Auburn,44,41,26,26,1,Asauhn Dixon-Tatum made Dunk.
+Missouri,Auburn,44,41,26,40,0,Jordan Clarkson missed Jumper.
+Missouri,Auburn,44,41,26,40,0,Keanau Post Offensive Rebound.
+Missouri,Auburn,44,41,26,45,0,Foul on Jordon Granger.
+Missouri,Auburn,44,41,26,45,0,Keanau Post missed Free Throw.
+Missouri,Auburn,44,41,26,45,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,44,41,26,45,0,Keanau Post missed Free Throw.
+Missouri,Auburn,44,41,26,45,0,Alex Thompson Defensive Rebound.
+Missouri,Auburn,44,43,27,1,1,Chris Denson made Layup.
+Missouri,Auburn,44,43,27,11,0,Johnathan Williams III Turnover.
+Missouri,Auburn,44,43,27,11,0,Alex Thompson Steal.
+Missouri,Auburn,44,46,27,20,1,KT Harrell made Three Point Jumper. Assisted by Tahj Shamsid-Deen.
+Missouri,Auburn,44,46,27,39,0,Earnest Ross missed Three Point Jumper.
+Missouri,Auburn,44,46,27,39,0,Jordan Clarkson Offensive Rebound.
+Missouri,Auburn,44,46,27,57,0,Jabari Brown missed Three Point Jumper.
+Missouri,Auburn,44,46,27,57,0,Earnest Ross Offensive Rebound.
+Missouri,Auburn,44,46,27,57,0,Foul on KT Harrell.
+Missouri,Auburn,44,46,28,1,0,Official TV Timeout
+Missouri,Auburn,44,46,28,1,0,Jordan Clarkson missed Free Throw.
+Missouri,Auburn,44,46,28,1,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,45,46,28,1,1,Jordan Clarkson made Free Throw.
+Missouri,Auburn,45,46,28,22,0,Chris Denson missed Jumper.
+Missouri,Auburn,45,46,28,22,0,Ryan Rosburg Block.
+Missouri,Auburn,45,46,28,22,0,Jordan Clarkson Defensive Rebound.
+Missouri,Auburn,48,46,28,44,1,Jabari Brown made Three Point Jumper. Assisted by Ryan Rosburg.
+Missouri,Auburn,48,48,29,2,1,Tahj Shamsid-Deen made Jumper.
+Missouri,Auburn,48,48,29,17,0,Jabari Brown missed Three Point Jumper.
+Missouri,Auburn,48,48,29,17,0,Chris Denson Defensive Rebound.
+Missouri,Auburn,48,51,29,28,1,Tahj Shamsid-Deen made Three Point Jumper. Assisted by Chris Denson.
+Missouri,Auburn,50,51,29,59,1,Jordan Clarkson made Jumper. Assisted by Jabari Brown.
+Missouri,Auburn,50,51,30,2,0,Missouri  Timeout
+Missouri,Auburn,50,51,30,27,0,KT Harrell missed Three Point Jumper.
+Missouri,Auburn,50,51,30,27,0,Earnest Ross Defensive Rebound.
+Missouri,Auburn,53,51,30,54,1,Earnest Ross made Three Point Jumper. Assisted by Ryan Rosburg.
+Missouri,Auburn,53,51,31,16,0,Foul on Ryan Rosburg.
+Missouri,Auburn,53,51,31,24,0,Jordon Granger missed Jumper.
+Missouri,Auburn,53,51,31,24,0,Ryan Rosburg Defensive Rebound.
+Missouri,Auburn,53,51,31,47,0,Foul on Matthew Atewe.
+Missouri,Auburn,53,51,31,47,0,Technical Foul on Matthew Atewe.
+Missouri,Auburn,54,51,31,47,1,Jordan Clarkson made Free Throw.
+Missouri,Auburn,55,51,31,47,1,Jabari Brown made Free Throw.
+Missouri,Auburn,53,51,31,47,0,Foul on Auburn.
+Missouri,Auburn,54,51,31,47,0,Jordan Clarkson missed Free Throw.
+Missouri,Auburn,54,51,31,47,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,56,51,31,47,1,Jabari Brown made Free Throw.
+Missouri,Auburn,56,51,32,13,0,Foul on Ryan Rosburg.
+Missouri,Auburn,56,51,32,13,0,Official TV Timeout
+Missouri,Auburn,56,51,32,13,0,Asauhn Dixon-Tatum missed Free Throw.
+Missouri,Auburn,56,51,32,13,0,Auburn Deadball Team Rebound.
+Missouri,Auburn,56,52,32,13,1,Asauhn Dixon-Tatum made Free Throw.
+Missouri,Auburn,58,52,32,34,1,Jordan Clarkson made Layup.
+Missouri,Auburn,58,55,32,50,1,Tahj Shamsid-Deen made Three Point Jumper.
+Missouri,Auburn,58,55,33,12,0,Foul on Jabari Brown.
+Missouri,Auburn,58,55,33,12,0,Jabari Brown Turnover.
+Missouri,Auburn,58,57,33,22,1,KT Harrell made Layup.
+Missouri,Auburn,60,57,33,53,1,Jordan Clarkson made Layup.
+Missouri,Auburn,60,57,33,53,0,Foul on Asauhn Dixon-Tatum.
+Missouri,Auburn,61,57,33,53,1,Jordan Clarkson made Free Throw.
+Missouri,Auburn,61,59,34,3,1,KT Harrell made Layup.
+Missouri,Auburn,61,59,34,3,0,Foul on Johnathan Williams III.
+Missouri,Auburn,61,60,34,3,1,KT Harrell made Free Throw.
+Missouri,Auburn,61,60,34,3,0,Auburn  Timeout
+Missouri,Auburn,64,60,34,26,1,Jabari Brown made Three Point Jumper. Assisted by Jordan Clarkson.
+Missouri,Auburn,64,63,34,39,1,Alex Thompson made Three Point Jumper. Assisted by Tahj Shamsid-Deen.
+Missouri,Auburn,64,63,35,12,0,Jabari Brown missed Three Point Jumper.
+Missouri,Auburn,64,63,35,12,0,KT Harrell Defensive Rebound.
+Missouri,Auburn,64,63,35,20,0,Foul on Ryan Rosburg.
+Missouri,Auburn,64,63,35,20,0,Chris Denson missed Free Throw.
+Missouri,Auburn,64,63,35,20,0,Auburn Deadball Team Rebound.
+Missouri,Auburn,64,63,35,20,0,Chris Denson missed Free Throw.
+Missouri,Auburn,64,63,35,20,0,Missouri Deadball Team Rebound.
+Missouri,Auburn,64,63,35,20,0,Foul on Alex Thompson.
+Missouri,Auburn,65,63,35,20,1,Earnest Ross made Free Throw.
+Missouri,Auburn,66,63,35,20,1,Earnest Ross made Free Throw.
+Missouri,Auburn,66,63,35,38,0,Chris Denson missed Three Point Jumper.
+Missouri,Auburn,66,63,35,38,0,Wes Clark Defensive Rebound.
+Missouri,Auburn,66,63,36,19,0,Wes Clark missed Jumper.
+Missouri,Auburn,66,63,36,19,0,KT Harrell Defensive Rebound.
+Missouri,Auburn,66,65,36,39,1,KT Harrell made Layup.
+Missouri,Auburn,66,65,36,43,0,Auburn  Timeout
+Missouri,Auburn,66,65,37,13,0,Earnest Ross missed Jumper.
+Missouri,Auburn,66,65,37,13,0,Jordon Granger Defensive Rebound.
+Missouri,Auburn,66,65,37,29,0,Asauhn Dixon-Tatum missed Jumper.
+Missouri,Auburn,66,65,37,29,0,Johnathan Williams III Block.
+Missouri,Auburn,66,65,37,29,0,Jabari Brown Defensive Rebound.
+Missouri,Auburn,66,65,38,1,0,Jabari Brown missed Three Point Jumper.
+Missouri,Auburn,66,65,38,1,0,Jordon Granger Defensive Rebound.
+Missouri,Auburn,66,67,38,9,1,Chris Denson made Layup.
+Missouri,Auburn,66,67,38,9,0,Official TV Timeout
+Missouri,Auburn,66,67,38,25,0,Foul on Alex Thompson.
+Missouri,Auburn,67,67,38,25,1,Earnest Ross made Free Throw.
+Missouri,Auburn,68,67,38,25,1,Earnest Ross made Free Throw.
+Missouri,Auburn,68,67,38,42,0,KT Harrell missed Jumper.
+Missouri,Auburn,68,67,38,42,0,Earnest Ross Block.
+Missouri,Auburn,68,67,38,42,0,Wes Clark Defensive Rebound.
+Missouri,Auburn,68,67,38,44,0,Missouri  Timeout
+Missouri,Auburn,68,67,38,57,0,Foul on Jordan Clarkson.
+Missouri,Auburn,68,67,38,57,0,Jordan Clarkson Turnover.
+Missouri,Auburn,68,67,39,0,0,Auburn  Timeout
+Missouri,Auburn,68,67,39,11,0,Chris Denson missed Jumper.
+Missouri,Auburn,68,67,39,11,0,Johnathan Williams III Defensive Rebound.
+Missouri,Auburn,68,67,39,31,0,Foul on Tahj Shamsid-Deen.
+Missouri,Auburn,69,67,39,31,1,Earnest Ross made Free Throw.
+Missouri,Auburn,70,67,39,31,1,Earnest Ross made Free Throw.
+Missouri,Auburn,70,67,39,34,0,Auburn  Timeout
+Missouri,Auburn,70,67,39,55,0,Foul on Johnathan Williams III.
+Missouri,Auburn,70,68,39,55,1,Chris Denson made Free Throw.
+Missouri,Auburn,70,68,39,55,0,Chris Denson missed Free Throw.
+Missouri,Auburn,70,68,39,55,0,Torren Jones Defensive Rebound.
+Missouri,Auburn,70,68,39,57,0,Torren Jones Turnover.
+Missouri,Auburn,70,68,39,57,0,Tahj Shamsid-Deen Turnover.
+Missouri,Auburn,70,68,40,0,0,End of Game

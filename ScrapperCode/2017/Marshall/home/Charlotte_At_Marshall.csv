@@ -1,0 +1,377 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Charlotte,Marshall,0,2,0,18,1,Jon Elmore made Layup.
+Charlotte,Marshall,0,2,0,35,0,Austin Ajukwa missed Jumper.
+Charlotte,Marshall,0,2,0,35,0,Stevie Browning Defensive Rebound.
+Charlotte,Marshall,0,2,0,47,0,Stevie Browning missed Jumper.
+Charlotte,Marshall,0,2,0,47,0,Stevie Browning Offensive Rebound.
+Charlotte,Marshall,0,2,0,49,0,Stevie Browning missed Layup.
+Charlotte,Marshall,0,2,0,49,0,Austin Ajukwa Defensive Rebound.
+Charlotte,Marshall,0,2,0,57,0,Jon Davis missed Jumper.
+Charlotte,Marshall,0,2,0,57,0,Ajdin Penava Block.
+Charlotte,Marshall,0,2,0,57,0,Charlotte Offensive Rebound.
+Charlotte,Marshall,0,2,1,4,0,Jon Davis Turnover.
+Charlotte,Marshall,0,2,1,6,0,Jon Elmore Steal.
+Charlotte,Marshall,0,4,1,8,1,Stevie Browning made Jumper. Assisted by Jon Elmore.
+Charlotte,Marshall,0,4,1,28,0,Benas Griciunas missed Layup.
+Charlotte,Marshall,0,4,1,28,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,0,4,1,33,0,Jon Elmore missed Three Point Jumper.
+Charlotte,Marshall,0,4,1,33,0,Braxton Ogbueze Defensive Rebound.
+Charlotte,Marshall,0,4,1,42,0,Braxton Ogbueze Turnover.
+Charlotte,Marshall,0,4,1,43,0,Stevie Browning Steal.
+Charlotte,Marshall,0,4,1,47,0,Ryan Taylor Turnover.
+Charlotte,Marshall,2,4,2,5,1,Hudson Price made Jumper. Assisted by Benas Griciunas.
+Charlotte,Marshall,2,4,2,17,0,Foul on Austin Ajukwa.
+Charlotte,Marshall,2,4,2,23,0,Jon Elmore missed Layup.
+Charlotte,Marshall,2,4,2,23,0,Ajdin Penava Offensive Rebound.
+Charlotte,Marshall,2,4,2,26,0,Ajdin Penava missed Layup.
+Charlotte,Marshall,2,4,2,26,0,Jon Elmore Offensive Rebound.
+Charlotte,Marshall,2,4,2,29,0,Stevie Browning missed Three Point Jumper.
+Charlotte,Marshall,2,4,2,29,0,Austin Ajukwa Defensive Rebound.
+Charlotte,Marshall,4,4,2,42,1,Benas Griciunas made Layup.
+Charlotte,Marshall,4,4,3,2,0,Ryan Taylor missed Three Point Jumper.
+Charlotte,Marshall,4,4,3,2,0,Marshall Offensive Rebound.
+Charlotte,Marshall,4,4,3,9,0,Stevie Browning missed Layup.
+Charlotte,Marshall,4,4,3,9,0,Marshall Offensive Rebound.
+Charlotte,Marshall,4,4,3,10,0,Foul on Benas Griciunas.
+Charlotte,Marshall,4,4,3,18,0,Ryan Taylor missed Layup.
+Charlotte,Marshall,4,4,3,18,0,Ryan Taylor Offensive Rebound.
+Charlotte,Marshall,4,4,3,22,0,Ryan Taylor Turnover.
+Charlotte,Marshall,4,4,3,32,0,Foul on Stevie Browning.
+Charlotte,Marshall,4,4,3,37,0,Jon Davis missed Three Point Jumper.
+Charlotte,Marshall,4,4,3,37,0,Ajdin Penava Defensive Rebound.
+Charlotte,Marshall,4,4,3,47,0,Ryan Taylor Turnover.
+Charlotte,Marshall,4,4,3,58,0,Foul on Jon Elmore.
+Charlotte,Marshall,5,4,3,58,1,Anthony Vanhook made Free Throw.
+Charlotte,Marshall,6,4,3,58,1,Anthony Vanhook made Free Throw.
+Charlotte,Marshall,6,4,4,7,0,Foul on Braxton Ogbueze.
+Charlotte,Marshall,6,4,4,7,0,Official TV Timeout
+Charlotte,Marshall,6,5,4,7,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,6,5,4,7,0,Jon Elmore missed Free Throw.
+Charlotte,Marshall,6,5,4,7,0,Anthony Vanhook Defensive Rebound.
+Charlotte,Marshall,6,5,4,24,0,Anthony Vanhook Turnover.
+Charlotte,Marshall,6,5,4,25,0,Austin Loop Steal.
+Charlotte,Marshall,6,5,4,45,0,Ryan Taylor Turnover.
+Charlotte,Marshall,6,5,4,46,0,Quentin Jackson Steal.
+Charlotte,Marshall,8,5,4,51,1,Quentin Jackson made Layup.
+Charlotte,Marshall,8,5,4,51,0,Foul on Ajdin Penava.
+Charlotte,Marshall,9,5,4,51,1,Quentin Jackson made Free Throw.
+Charlotte,Marshall,9,5,5,1,0,Foul on Anthony Vanhook.
+Charlotte,Marshall,9,5,5,1,0,Ryan Taylor missed Free Throw.
+Charlotte,Marshall,9,5,5,1,0,Marshall Deadball Team Rebound.
+Charlotte,Marshall,9,6,5,1,1,Ryan Taylor made Free Throw.
+Charlotte,Marshall,11,6,5,11,1,Jon Davis made Layup.
+Charlotte,Marshall,11,8,5,22,1,Ryan Taylor made Layup.
+Charlotte,Marshall,14,8,5,31,1,Hudson Price made Three Point Jumper. Assisted by Jon Davis.
+Charlotte,Marshall,14,11,5,42,1,Austin Loop made Three Point Jumper. Assisted by Jon Elmore.
+Charlotte,Marshall,14,11,5,58,0,Foul on Ryan Taylor.
+Charlotte,Marshall,15,11,5,58,1,Anthony Vanhook made Free Throw.
+Charlotte,Marshall,15,11,5,58,0,Anthony Vanhook missed Free Throw.
+Charlotte,Marshall,15,11,5,58,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,15,11,6,18,0,Jon Elmore missed Layup.
+Charlotte,Marshall,15,11,6,18,0,Jon Elmore Offensive Rebound.
+Charlotte,Marshall,15,14,6,24,1,Austin Loop made Three Point Jumper. Assisted by Jon Elmore.
+Charlotte,Marshall,15,14,6,34,0,Quentin Jackson missed Three Point Jumper.
+Charlotte,Marshall,15,14,6,34,0,Anthony Vanhook Offensive Rebound.
+Charlotte,Marshall,15,14,6,37,0,Foul on Ajdin Penava.
+Charlotte,Marshall,15,14,6,41,0,Quentin Jackson Turnover.
+Charlotte,Marshall,15,14,6,42,0,Austin Loop Steal.
+Charlotte,Marshall,15,17,6,51,1,Ryan Taylor made Three Point Jumper. Assisted by Jon Elmore.
+Charlotte,Marshall,17,17,7,14,1,Hudson Price made Layup.
+Charlotte,Marshall,17,19,7,28,1,C.J. Burks made Jumper. Assisted by Jon Elmore.
+Charlotte,Marshall,17,19,7,48,0,Braxton Ogbueze missed Jumper.
+Charlotte,Marshall,17,19,7,48,0,Anthony Vanhook Offensive Rebound.
+Charlotte,Marshall,20,19,7,53,1,Andrien White made Three Point Jumper. Assisted by Anthony Vanhook.
+Charlotte,Marshall,20,19,8,8,0,Jon Elmore Turnover.
+Charlotte,Marshall,20,19,8,8,0,Anthony Vanhook Steal.
+Charlotte,Marshall,20,19,8,16,0,Andrien White Turnover.
+Charlotte,Marshall,20,19,8,16,0,Austin Loop Steal.
+Charlotte,Marshall,20,19,8,16,0,Official TV Timeout
+Charlotte,Marshall,20,19,8,30,0,C.J. Burks Turnover.
+Charlotte,Marshall,20,19,8,42,0,Hudson Price Turnover.
+Charlotte,Marshall,20,19,8,43,0,Ryan Taylor Steal.
+Charlotte,Marshall,20,19,8,51,0,C.J. Burks missed Layup.
+Charlotte,Marshall,20,19,8,51,0,Hudson Price Defensive Rebound.
+Charlotte,Marshall,23,19,9,7,1,Braxton Ogbueze made Three Point Jumper. Assisted by Anthony Vanhook.
+Charlotte,Marshall,23,21,9,19,1,Stevie Browning made Jumper.
+Charlotte,Marshall,25,21,9,28,1,Jon Davis made Jumper.
+Charlotte,Marshall,25,21,9,36,0,Foul on Braxton Ogbueze.
+Charlotte,Marshall,25,22,9,36,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,25,23,9,36,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,25,23,9,54,0,Austin Ajukwa missed Three Point Jumper.
+Charlotte,Marshall,25,23,9,54,0,C.J. Burks Defensive Rebound.
+Charlotte,Marshall,25,23,10,6,0,C.J. Burks missed Layup.
+Charlotte,Marshall,25,23,10,6,0,Quentin Jackson Defensive Rebound.
+Charlotte,Marshall,27,23,10,14,1,Quentin Jackson made Jumper.
+Charlotte,Marshall,27,25,10,42,1,Ryan Taylor made Layup.
+Charlotte,Marshall,29,25,10,56,1,Austin Ajukwa made Layup.
+Charlotte,Marshall,29,25,11,3,0,Stevie Browning missed Jumper.
+Charlotte,Marshall,29,25,11,3,0,Austin Ajukwa Defensive Rebound.
+Charlotte,Marshall,29,25,11,13,0,Anthony Vanhook missed Jumper.
+Charlotte,Marshall,29,25,11,13,0,Christian Thieneman Defensive Rebound.
+Charlotte,Marshall,29,28,11,31,1,Christian Thieneman made Three Point Jumper. Assisted by Stevie Browning.
+Charlotte,Marshall,29,28,11,46,0,Foul on Christian Thieneman.
+Charlotte,Marshall,29,28,11,46,0,Anthony Vanhook missed Free Throw.
+Charlotte,Marshall,29,28,11,46,0,Charlotte Deadball Team Rebound.
+Charlotte,Marshall,30,28,11,46,1,Anthony Vanhook made Free Throw.
+Charlotte,Marshall,30,30,12,7,1,Ryan Taylor made Layup.
+Charlotte,Marshall,30,30,12,19,0,Foul on Ky're Allison.
+Charlotte,Marshall,30,30,12,19,0,Official TV Timeout
+Charlotte,Marshall,30,30,12,19,0,Quentin Jackson missed Free Throw.
+Charlotte,Marshall,30,30,12,19,0,Charlotte Offensive Rebound.
+Charlotte,Marshall,33,30,12,26,1,Quentin Jackson made Three Point Jumper. Assisted by Najee Garvin.
+Charlotte,Marshall,33,30,12,40,0,Foul on Austin Ajukwa.
+Charlotte,Marshall,33,30,12,45,0,Ky're Allison missed Three Point Jumper.
+Charlotte,Marshall,33,30,12,45,0,C.J. Burks Offensive Rebound.
+Charlotte,Marshall,33,30,12,53,0,Stevie Browning missed Three Point Jumper.
+Charlotte,Marshall,33,30,12,53,0,Aleksa Nikolic Offensive Rebound.
+Charlotte,Marshall,33,30,12,56,0,Aleksa Nikolic Turnover.
+Charlotte,Marshall,33,30,13,17,0,Quentin Jackson missed Three Point Jumper.
+Charlotte,Marshall,33,30,13,17,0,Christian Thieneman Defensive Rebound.
+Charlotte,Marshall,33,30,13,22,0,Christian Thieneman Turnover.
+Charlotte,Marshall,33,30,13,23,0,Quentin Jackson Steal.
+Charlotte,Marshall,35,30,13,26,1,Najee Garvin made Dunk.
+Charlotte,Marshall,35,30,13,34,0,Foul on Hudson Price.
+Charlotte,Marshall,35,31,13,34,1,Stevie Browning made Free Throw.
+Charlotte,Marshall,35,32,13,34,1,Stevie Browning made Free Throw.
+Charlotte,Marshall,35,32,13,50,0,Quentin Jackson Turnover.
+Charlotte,Marshall,35,32,14,3,0,Foul on Jon Davis.
+Charlotte,Marshall,35,33,14,3,1,Stevie Browning made Free Throw.
+Charlotte,Marshall,35,34,14,3,1,Stevie Browning made Free Throw.
+Charlotte,Marshall,35,34,14,12,0,Anthony Vanhook missed Layup.
+Charlotte,Marshall,35,34,14,12,0,Anthony Vanhook Offensive Rebound.
+Charlotte,Marshall,35,34,14,16,0,Anthony Vanhook missed Layup.
+Charlotte,Marshall,35,34,14,16,0,Aleksa Nikolic Block.
+Charlotte,Marshall,35,34,14,17,0,Hudson Price Offensive Rebound.
+Charlotte,Marshall,35,34,14,21,0,Hudson Price missed Three Point Jumper.
+Charlotte,Marshall,35,34,14,21,0,Hudson Price Offensive Rebound.
+Charlotte,Marshall,37,34,14,22,1,Andrien White made Layup.
+Charlotte,Marshall,37,34,14,22,0,Foul on Aleksa Nikolic.
+Charlotte,Marshall,37,34,14,22,0,Anthony Vanhook Turnover.
+Charlotte,Marshall,37,34,14,31,0,Foul on Hudson Price.
+Charlotte,Marshall,37,34,14,31,0,Christian Thieneman missed Free Throw.
+Charlotte,Marshall,37,34,14,31,0,Marshall Deadball Team Rebound.
+Charlotte,Marshall,37,35,14,31,1,Christian Thieneman made Free Throw.
+Charlotte,Marshall,37,35,14,48,0,Anthony Vanhook Turnover.
+Charlotte,Marshall,37,35,14,49,0,Aleksa Nikolic Steal.
+Charlotte,Marshall,37,35,15,1,0,Austin Loop missed Three Point Jumper.
+Charlotte,Marshall,37,35,15,1,0,Andrien White Defensive Rebound.
+Charlotte,Marshall,39,35,15,13,1,Anthony Vanhook made Layup. Assisted by Quentin Jackson.
+Charlotte,Marshall,39,35,15,25,0,Foul on Jon Davis.
+Charlotte,Marshall,39,36,15,25,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,39,37,15,25,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,42,37,15,38,1,Andrien White made Three Point Jumper. Assisted by Quentin Jackson.
+Charlotte,Marshall,42,37,15,47,0,Foul on Quentin Jackson.
+Charlotte,Marshall,42,38,15,47,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,42,39,15,47,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,42,39,15,54,0,Charlotte Deadball Team Rebound.
+Charlotte,Marshall,42,39,15,54,0,Foul on Aleksa Nikolic.
+Charlotte,Marshall,43,39,15,54,1,Quentin Jackson made Free Throw.
+Charlotte,Marshall,43,39,16,6,0,Aleksa Nikolic missed Layup.
+Charlotte,Marshall,43,39,16,6,0,Austin Ajukwa Defensive Rebound.
+Charlotte,Marshall,43,39,16,17,0,Austin Ajukwa missed Jumper.
+Charlotte,Marshall,43,39,16,17,0,Aleksa Nikolic Defensive Rebound.
+Charlotte,Marshall,43,41,16,29,1,Aleksa Nikolic made Layup.
+Charlotte,Marshall,45,41,16,48,1,Najee Garvin made Layup. Assisted by Braxton Ogbueze.
+Charlotte,Marshall,45,41,17,0,0,Jon Elmore missed Layup.
+Charlotte,Marshall,45,41,17,0,0,Jon Elmore Offensive Rebound.
+Charlotte,Marshall,45,44,17,3,1,Austin Loop made Three Point Jumper. Assisted by Jon Elmore.
+Charlotte,Marshall,45,44,17,21,0,Charlotte  Timeout
+Charlotte,Marshall,45,44,17,21,0,Official TV Timeout
+Charlotte,Marshall,45,44,17,21,0,Quentin Jackson missed Free Throw.
+Charlotte,Marshall,45,44,17,24,0,Quentin Jackson missed Layup.
+Charlotte,Marshall,45,44,17,24,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,45,44,17,30,0,Austin Loop missed Three Point Jumper.
+Charlotte,Marshall,45,44,17,30,0,Ryan Taylor Offensive Rebound.
+Charlotte,Marshall,45,44,17,35,0,Ryan Taylor Turnover.
+Charlotte,Marshall,45,44,17,50,0,Austin Ajukwa missed Jumper.
+Charlotte,Marshall,45,44,17,50,0,Reid Aube Offensive Rebound.
+Charlotte,Marshall,45,44,17,54,0,Reid Aube missed Layup.
+Charlotte,Marshall,45,44,17,54,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,45,47,18,13,1,Jon Elmore made Three Point Jumper. Assisted by Ryan Taylor.
+Charlotte,Marshall,45,47,18,13,0,Foul on Quentin Jackson.
+Charlotte,Marshall,45,48,18,13,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,45,48,18,32,0,Andrien White Turnover.
+Charlotte,Marshall,45,48,18,33,0,Jon Elmore Steal.
+Charlotte,Marshall,45,48,18,35,0,Foul on Reid Aube.
+Charlotte,Marshall,45,48,18,35,0,Jon Elmore missed Free Throw.
+Charlotte,Marshall,45,48,18,35,0,Marshall Deadball Team Rebound.
+Charlotte,Marshall,45,49,18,35,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,47,49,18,50,1,Austin Ajukwa made Jumper. Assisted by Anthony Vanhook.
+Charlotte,Marshall,47,49,19,3,0,Jon Elmore missed Layup.
+Charlotte,Marshall,47,49,19,3,0,Anthony Vanhook Defensive Rebound.
+Charlotte,Marshall,49,49,19,8,1,Andrien White made Layup. Assisted by Anthony Vanhook.
+Charlotte,Marshall,49,49,19,12,0,Marshall  Timeout
+Charlotte,Marshall,49,49,19,22,0,Foul on Anthony Vanhook.
+Charlotte,Marshall,49,50,19,22,1,Ryan Taylor made Free Throw.
+Charlotte,Marshall,49,51,19,22,1,Ryan Taylor made Free Throw.
+Charlotte,Marshall,51,51,19,37,1,Anthony Vanhook made Layup. Assisted by Quentin Jackson.
+Charlotte,Marshall,51,51,19,48,0,Austin Loop Turnover.
+Charlotte,Marshall,51,51,20,0,0,Quentin Jackson missed Jumper.
+Charlotte,Marshall,51,51,20,0,0,Charlotte Offensive Rebound.
+Charlotte,Marshall,51,51,20,0,0,End of 1st half
+Charlotte,Marshall,53,51,20,18,1,Jon Davis made Jumper.
+Charlotte,Marshall,53,51,20,38,0,Foul on Hudson Price.
+Charlotte,Marshall,53,51,20,38,0,Ryan Taylor missed Free Throw.
+Charlotte,Marshall,53,51,20,38,0,Marshall Deadball Team Rebound.
+Charlotte,Marshall,53,51,20,38,0,Ryan Taylor missed Free Throw.
+Charlotte,Marshall,53,51,20,38,0,Benas Griciunas Defensive Rebound.
+Charlotte,Marshall,53,51,20,48,0,Benas Griciunas missed Dunk.
+Charlotte,Marshall,53,51,20,48,0,Benas Griciunas Offensive Rebound.
+Charlotte,Marshall,53,51,20,53,0,Benas Griciunas missed Layup.
+Charlotte,Marshall,53,51,20,53,0,Jon Elmore Defensive Rebound.
+Charlotte,Marshall,53,51,20,58,0,Stevie Browning missed Layup.
+Charlotte,Marshall,53,51,20,58,0,Benas Griciunas Defensive Rebound.
+Charlotte,Marshall,53,51,21,11,0,Foul on Jon Davis.
+Charlotte,Marshall,53,51,21,11,0,Jon Davis Turnover.
+Charlotte,Marshall,53,51,21,27,0,Stevie Browning missed Jumper.
+Charlotte,Marshall,53,51,21,27,0,Stevie Browning Offensive Rebound.
+Charlotte,Marshall,53,53,21,30,1,Stevie Browning made Layup.
+Charlotte,Marshall,53,53,21,47,0,Foul on Austin Loop.
+Charlotte,Marshall,53,53,21,47,0,Hudson Price missed Free Throw.
+Charlotte,Marshall,53,53,21,47,0,Charlotte Deadball Team Rebound.
+Charlotte,Marshall,54,53,21,47,1,Hudson Price made Free Throw.
+Charlotte,Marshall,54,55,21,58,1,Ajdin Penava made Layup. Assisted by Jon Elmore.
+Charlotte,Marshall,54,55,22,7,0,Hudson Price missed Three Point Jumper.
+Charlotte,Marshall,54,55,22,7,0,Marshall Defensive Rebound.
+Charlotte,Marshall,54,57,22,19,1,Jon Elmore made Jumper.
+Charlotte,Marshall,54,57,22,37,0,Braxton Ogbueze missed Three Point Jumper.
+Charlotte,Marshall,54,57,22,37,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,54,59,22,52,1,Jon Elmore made Jumper.
+Charlotte,Marshall,57,59,23,7,1,Austin Ajukwa made Three Point Jumper. Assisted by Benas Griciunas.
+Charlotte,Marshall,57,59,23,9,0,Charlotte  Timeout
+Charlotte,Marshall,57,59,23,9,0,Official TV Timeout
+Charlotte,Marshall,57,59,23,25,0,Ryan Taylor missed Layup.
+Charlotte,Marshall,57,59,23,25,0,Ajdin Penava Offensive Rebound.
+Charlotte,Marshall,57,62,23,28,1,Austin Loop made Three Point Jumper. Assisted by Ajdin Penava.
+Charlotte,Marshall,57,62,23,36,0,Jon Davis missed Three Point Jumper.
+Charlotte,Marshall,57,62,23,36,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,57,62,23,45,0,Ryan Taylor missed Layup.
+Charlotte,Marshall,57,62,23,45,0,Ajdin Penava Offensive Rebound.
+Charlotte,Marshall,57,64,23,49,1,Ajdin Penava made Layup.
+Charlotte,Marshall,59,64,24,0,1,Anthony Vanhook made Layup.
+Charlotte,Marshall,59,66,24,14,1,Jon Elmore made Layup.
+Charlotte,Marshall,61,66,24,25,1,Anthony Vanhook made Jumper.
+Charlotte,Marshall,61,69,24,47,1,Ajdin Penava made Three Point Jumper. Assisted by Ryan Taylor.
+Charlotte,Marshall,61,69,24,59,0,Jon Davis Turnover.
+Charlotte,Marshall,61,69,24,59,0,Official TV Timeout
+Charlotte,Marshall,61,69,25,13,0,Ryan Taylor missed Layup.
+Charlotte,Marshall,61,69,25,13,0,Quentin Jackson Defensive Rebound.
+Charlotte,Marshall,61,69,25,19,0,Quentin Jackson missed Layup.
+Charlotte,Marshall,61,69,25,19,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,61,71,25,29,1,Jon Elmore made Layup.
+Charlotte,Marshall,61,71,25,56,0,Austin Ajukwa missed Three Point Jumper.
+Charlotte,Marshall,61,71,25,56,0,Ajdin Penava Block.
+Charlotte,Marshall,61,71,25,58,0,Austin Ajukwa Offensive Rebound.
+Charlotte,Marshall,64,71,26,1,1,Austin Ajukwa made Three Point Jumper.
+Charlotte,Marshall,64,73,26,16,1,Jon Elmore made Layup.
+Charlotte,Marshall,64,73,26,36,0,Braxton Ogbueze missed Layup.
+Charlotte,Marshall,64,73,26,36,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,64,73,26,41,0,C.J. Burks Turnover.
+Charlotte,Marshall,66,73,27,2,1,Anthony Vanhook made Layup.
+Charlotte,Marshall,66,75,27,15,1,Jon Elmore made Layup.
+Charlotte,Marshall,68,75,27,28,1,Anthony Vanhook made Layup. Assisted by Austin Ajukwa.
+Charlotte,Marshall,68,78,27,43,1,Austin Loop made Three Point Jumper. Assisted by Jon Elmore.
+Charlotte,Marshall,68,78,27,46,0,Foul on Quentin Jackson.
+Charlotte,Marshall,68,78,27,48,0,Foul on C.J. Burks.
+Charlotte,Marshall,68,78,27,48,0,C.J. Burks Turnover.
+Charlotte,Marshall,70,78,28,4,1,Jon Davis made Layup.
+Charlotte,Marshall,70,78,28,19,0,Jon Elmore missed Three Point Jumper.
+Charlotte,Marshall,70,78,28,19,0,Andrien White Defensive Rebound.
+Charlotte,Marshall,70,78,28,30,0,Jon Davis missed Jumper.
+Charlotte,Marshall,70,78,28,30,0,Ajdin Penava Defensive Rebound.
+Charlotte,Marshall,70,78,28,34,0,Official TV Timeout
+Charlotte,Marshall,70,80,28,48,1,Ryan Taylor made Layup.
+Charlotte,Marshall,70,80,28,48,0,Foul on Anthony Vanhook.
+Charlotte,Marshall,70,81,28,48,1,Ryan Taylor made Free Throw.
+Charlotte,Marshall,70,81,29,2,0,Quentin Jackson missed Layup.
+Charlotte,Marshall,70,81,29,2,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,70,84,29,22,1,Ryan Taylor made Three Point Jumper. Assisted by Jon Elmore.
+Charlotte,Marshall,70,84,29,38,0,Jon Davis missed Jumper.
+Charlotte,Marshall,70,84,29,38,0,Ajdin Penava Defensive Rebound.
+Charlotte,Marshall,70,84,29,48,0,Jon Elmore missed Jumper.
+Charlotte,Marshall,70,84,29,48,0,Anthony Vanhook Defensive Rebound.
+Charlotte,Marshall,72,84,29,56,1,Najee Garvin made Layup. Assisted by Anthony Vanhook.
+Charlotte,Marshall,72,84,30,11,0,Austin Loop missed Jumper.
+Charlotte,Marshall,72,84,30,11,0,Anthony Vanhook Defensive Rebound.
+Charlotte,Marshall,74,84,30,21,1,Najee Garvin made Layup. Assisted by Anthony Vanhook.
+Charlotte,Marshall,74,84,30,44,0,Ajdin Penava missed Three Point Jumper.
+Charlotte,Marshall,74,84,30,44,0,Anthony Vanhook Defensive Rebound.
+Charlotte,Marshall,74,84,30,53,0,Jon Davis missed Layup.
+Charlotte,Marshall,74,84,30,53,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,74,86,31,10,1,Ryan Taylor made Layup.
+Charlotte,Marshall,74,86,31,24,0,Quentin Jackson Turnover.
+Charlotte,Marshall,74,86,31,34,0,Christian Thieneman missed Three Point Jumper.
+Charlotte,Marshall,74,86,31,34,0,Andrien White Defensive Rebound.
+Charlotte,Marshall,76,86,31,40,1,Andrien White made Layup.
+Charlotte,Marshall,76,86,31,53,0,C.J. Burks missed Jumper.
+Charlotte,Marshall,76,86,31,53,0,Najee Garvin Defensive Rebound.
+Charlotte,Marshall,76,86,32,3,0,Braxton Ogbueze missed Jumper.
+Charlotte,Marshall,76,86,32,3,0,Stevie Browning Defensive Rebound.
+Charlotte,Marshall,76,88,32,14,1,Stevie Browning made Jumper.
+Charlotte,Marshall,76,88,32,34,0,Andrien White missed Three Point Jumper.
+Charlotte,Marshall,76,88,32,34,0,Najee Garvin Offensive Rebound.
+Charlotte,Marshall,76,88,32,39,0,Foul on Ajdin Penava.
+Charlotte,Marshall,76,88,32,39,0,Official TV Timeout
+Charlotte,Marshall,76,88,32,39,0,Najee Garvin missed Free Throw.
+Charlotte,Marshall,76,88,32,39,0,Charlotte Deadball Team Rebound.
+Charlotte,Marshall,76,88,32,39,0,Najee Garvin missed Free Throw.
+Charlotte,Marshall,76,88,32,39,0,Christian Thieneman Defensive Rebound.
+Charlotte,Marshall,76,90,33,4,1,C.J. Burks made Layup.
+Charlotte,Marshall,78,90,33,25,1,Hudson Price made Jumper.
+Charlotte,Marshall,78,90,33,51,0,Foul on Hudson Price.
+Charlotte,Marshall,78,91,33,51,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,78,91,33,51,0,Jon Elmore missed Free Throw.
+Charlotte,Marshall,78,91,33,51,0,Andrien White Defensive Rebound.
+Charlotte,Marshall,78,91,34,16,0,Foul on Aleksa Nikolic.
+Charlotte,Marshall,78,91,34,16,0,Jon Davis missed Free Throw.
+Charlotte,Marshall,78,91,34,16,0,Charlotte Deadball Team Rebound.
+Charlotte,Marshall,79,91,34,16,1,Jon Davis made Free Throw.
+Charlotte,Marshall,79,91,34,25,0,Stevie Browning missed Layup.
+Charlotte,Marshall,79,91,34,25,0,Hudson Price Defensive Rebound.
+Charlotte,Marshall,79,91,34,42,0,Austin Ajukwa missed Jumper.
+Charlotte,Marshall,79,91,34,42,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,79,94,34,55,1,C.J. Burks made Three Point Jumper. Assisted by Stevie Browning.
+Charlotte,Marshall,81,94,35,7,1,Jon Davis made Layup.
+Charlotte,Marshall,81,94,35,14,0,Foul on Najee Garvin.
+Charlotte,Marshall,81,94,35,15,0,Stevie Browning missed Jumper.
+Charlotte,Marshall,81,94,35,15,0,Austin Ajukwa Defensive Rebound.
+Charlotte,Marshall,83,94,35,26,1,Najee Garvin made Layup. Assisted by Austin Ajukwa.
+Charlotte,Marshall,83,96,35,37,1,Stevie Browning made Layup. Assisted by Ryan Taylor.
+Charlotte,Marshall,83,96,35,48,0,Jon Davis missed Layup.
+Charlotte,Marshall,83,96,35,48,0,Ryan Taylor Block.
+Charlotte,Marshall,83,96,35,50,0,Ky're Allison Defensive Rebound.
+Charlotte,Marshall,83,98,35,58,1,Ky're Allison made Layup.
+Charlotte,Marshall,83,98,36,1,0,Foul on Ky're Allison.
+Charlotte,Marshall,83,98,36,1,0,Official TV Timeout
+Charlotte,Marshall,85,98,36,16,1,Andrien White made Layup.
+Charlotte,Marshall,85,100,36,33,1,Ryan Taylor made Layup. Assisted by C.J. Burks.
+Charlotte,Marshall,85,100,36,44,0,Jon Davis Turnover.
+Charlotte,Marshall,85,100,36,45,0,Ryan Taylor Steal.
+Charlotte,Marshall,85,102,36,56,1,Stevie Browning made Layup. Assisted by Jon Elmore.
+Charlotte,Marshall,85,102,36,56,0,Foul on Andrien White.
+Charlotte,Marshall,85,103,36,56,1,Stevie Browning made Free Throw.
+Charlotte,Marshall,87,103,37,13,1,Anthony Vanhook made Layup.
+Charlotte,Marshall,87,105,37,41,1,Ryan Taylor made Layup. Assisted by Stevie Browning.
+Charlotte,Marshall,87,105,37,48,0,Jon Davis missed Layup.
+Charlotte,Marshall,87,105,37,48,0,Ryan Taylor Defensive Rebound.
+Charlotte,Marshall,87,105,38,14,0,Foul on Anthony Vanhook.
+Charlotte,Marshall,87,106,38,14,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,87,107,38,14,1,Jon Elmore made Free Throw.
+Charlotte,Marshall,87,107,38,23,0,Anthony Vanhook Turnover.
+Charlotte,Marshall,87,107,38,50,0,Aleksa Nikolic missed Layup.
+Charlotte,Marshall,87,107,38,50,0,Andrien White Block.
+Charlotte,Marshall,87,107,38,52,0,Marshall Offensive Rebound.
+Charlotte,Marshall,87,110,38,54,1,Ky're Allison made Three Point Jumper. Assisted by Aleksa Nikolic.
+Charlotte,Marshall,87,110,39,4,0,Andrien White missed Three Point Jumper.
+Charlotte,Marshall,87,110,39,4,0,Andrien White Offensive Rebound.
+Charlotte,Marshall,87,110,39,11,0,Andrien White missed Layup.
+Charlotte,Marshall,87,110,39,11,0,Austin Ajukwa Offensive Rebound.
+Charlotte,Marshall,89,110,39,11,1,Austin Ajukwa made Layup.
+Charlotte,Marshall,89,110,39,32,0,Phil Bledsoe missed Jumper.
+Charlotte,Marshall,89,110,39,32,0,Anthony Vanhook Defensive Rebound.
+Charlotte,Marshall,89,110,39,34,0,Foul on Milan Mijovic.
+Charlotte,Marshall,91,110,39,42,1,Anthony Vanhook made Layup.
+Charlotte,Marshall,91,110,39,54,0,Phil Bledsoe Turnover.
+Charlotte,Marshall,91,110,39,55,0,Quentin Jackson Steal.
+Charlotte,Marshall,93,110,39,56,1,Quentin Jackson made Dunk.
+Charlotte,Marshall,93,110,40,0,0,End of Game

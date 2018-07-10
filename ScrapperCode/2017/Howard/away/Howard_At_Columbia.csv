@@ -1,0 +1,363 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Howard,Columbia,0,3,0,10,1,Jeff Coby made Three Point Jumper. Assisted by Mike Smith.
+Howard,Columbia,0,3,0,28,0,James Daniel missed Three Point Jumper.
+Howard,Columbia,0,3,0,28,0,Nate Hickman Defensive Rebound.
+Howard,Columbia,0,3,0,54,0,Jake Killingsworth missed Layup.
+Howard,Columbia,0,3,0,54,0,Marcel Boyd Block.
+Howard,Columbia,0,3,0,56,0,Jeff Coby Offensive Rebound.
+Howard,Columbia,0,6,0,58,1,Nate Hickman made Three Point Jumper. Assisted by Mike Smith.
+Howard,Columbia,0,6,1,17,0,James Daniel missed Three Point Jumper.
+Howard,Columbia,0,6,1,17,0,Jeff Coby Defensive Rebound.
+Howard,Columbia,0,6,1,32,0,Jake Killingsworth missed Three Point Jumper.
+Howard,Columbia,0,6,1,32,0,Luke Petrasek Offensive Rebound.
+Howard,Columbia,0,6,1,38,0,Luke Petrasek Turnover.
+Howard,Columbia,0,6,1,38,0,James Miller Steal.
+Howard,Columbia,0,6,2,7,0,James Daniel missed Jumper.
+Howard,Columbia,0,6,2,7,0,Nate Hickman Defensive Rebound.
+Howard,Columbia,0,6,2,16,0,Mike Smith missed Three Point Jumper.
+Howard,Columbia,0,6,2,16,0,Damon Collins Defensive Rebound.
+Howard,Columbia,0,6,2,27,0,Damon Collins Turnover.
+Howard,Columbia,0,6,2,27,0,Nate Hickman Steal.
+Howard,Columbia,0,8,2,32,1,Nate Hickman made Layup. Assisted by Mike Smith.
+Howard,Columbia,0,8,2,39,0,Howard  Timeout
+Howard,Columbia,0,8,2,57,0,Foul on Jake Killingsworth.
+Howard,Columbia,3,8,3,7,1,James Miller made Three Point Jumper.
+Howard,Columbia,3,8,3,24,0,Nate Hickman missed Three Point Jumper.
+Howard,Columbia,3,8,3,24,0,Tyler Stone Defensive Rebound.
+Howard,Columbia,3,8,3,37,0,Tyler Stone missed Three Point Jumper.
+Howard,Columbia,3,8,3,37,0,Nate Hickman Defensive Rebound.
+Howard,Columbia,3,8,3,45,0,Mike Smith Turnover.
+Howard,Columbia,3,8,3,56,0,Damon Collins missed Three Point Jumper.
+Howard,Columbia,3,8,3,56,0,Luke Petrasek Defensive Rebound.
+Howard,Columbia,3,8,4,6,0,Foul on Marcel Boyd.
+Howard,Columbia,3,8,4,6,0,Official TV Timeout
+Howard,Columbia,3,9,4,6,1,Nate Hickman made Free Throw.
+Howard,Columbia,3,10,4,6,1,Nate Hickman made Free Throw.
+Howard,Columbia,3,10,4,17,0,James Miller Turnover.
+Howard,Columbia,3,10,4,31,0,Nate Hickman missed Jumper.
+Howard,Columbia,3,10,4,31,0,Solomon Mangham Defensive Rebound.
+Howard,Columbia,3,10,4,41,0,Solomon Mangham missed Three Point Jumper.
+Howard,Columbia,3,10,4,41,0,Patrick Tape Defensive Rebound.
+Howard,Columbia,3,12,4,52,1,Rodney Hunter made Layup.
+Howard,Columbia,3,12,5,22,0,Foul on CJ Davis.
+Howard,Columbia,3,12,5,37,0,James Daniel missed Three Point Jumper.
+Howard,Columbia,3,12,5,37,0,Rodney Hunter Defensive Rebound.
+Howard,Columbia,3,12,5,43,0,Rodney Hunter missed Layup.
+Howard,Columbia,3,12,5,43,0,Charles Williams Defensive Rebound.
+Howard,Columbia,3,12,5,45,0,Foul on Luke Petrasek.
+Howard,Columbia,5,12,5,56,1,James Miller made Dunk.
+Howard,Columbia,5,12,6,14,0,CJ Davis missed Three Point Jumper.
+Howard,Columbia,5,12,6,14,0,Luke Petrasek Offensive Rebound.
+Howard,Columbia,5,12,6,19,0,CJ Davis missed Jumper.
+Howard,Columbia,5,12,6,19,0,Solomon Mangham Defensive Rebound.
+Howard,Columbia,5,12,6,43,0,Charles Williams missed Three Point Jumper.
+Howard,Columbia,5,12,6,43,0,Marcel Boyd Offensive Rebound.
+Howard,Columbia,5,12,6,46,0,Foul on Rodney Hunter.
+Howard,Columbia,5,12,6,58,0,Solomon Mangham missed Three Point Jumper.
+Howard,Columbia,5,12,6,58,0,Charles Williams Offensive Rebound.
+Howard,Columbia,8,12,7,5,1,James Daniel made Three Point Jumper. Assisted by Solomon Mangham.
+Howard,Columbia,8,12,7,23,0,Mike Smith missed Three Point Jumper.
+Howard,Columbia,8,12,7,23,0,Jake Killingsworth Offensive Rebound.
+Howard,Columbia,8,12,7,30,0,Luke Petrasek missed Layup.
+Howard,Columbia,8,12,7,30,0,Solomon Mangham Block.
+Howard,Columbia,8,12,7,31,0,Solomon Mangham Defensive Rebound.
+Howard,Columbia,8,12,7,37,0,Foul on James Daniel.
+Howard,Columbia,8,12,7,37,0,James Daniel Turnover.
+Howard,Columbia,8,14,7,53,1,Luke Petrasek made Layup. Assisted by Conor Voss.
+Howard,Columbia,8,14,8,13,0,Marcel Boyd missed Layup.
+Howard,Columbia,8,14,8,13,0,Mike Smith Defensive Rebound.
+Howard,Columbia,8,14,8,20,0,Luke Petrasek missed Three Point Jumper.
+Howard,Columbia,8,14,8,20,0,Damon Collins Defensive Rebound.
+Howard,Columbia,8,14,8,28,0,Official TV Timeout
+Howard,Columbia,8,14,8,37,0,Foul on Chris McComber.
+Howard,Columbia,8,14,8,37,0,James Miller missed Free Throw.
+Howard,Columbia,8,14,8,37,0,Howard Deadball Team Rebound.
+Howard,Columbia,8,14,8,37,0,James Miller missed Free Throw.
+Howard,Columbia,8,14,8,37,0,Patrick Tape Defensive Rebound.
+Howard,Columbia,8,14,8,56,0,Jake Killingsworth missed Three Point Jumper.
+Howard,Columbia,8,14,8,56,0,James Miller Defensive Rebound.
+Howard,Columbia,8,14,9,4,0,Foul on Damon Collins.
+Howard,Columbia,8,14,9,4,0,Damon Collins Turnover.
+Howard,Columbia,8,14,9,24,0,Nate Hickman missed Three Point Jumper.
+Howard,Columbia,8,14,9,24,0,Howard Defensive Rebound.
+Howard,Columbia,8,14,9,27,0,Foul on Chris McComber.
+Howard,Columbia,8,14,9,43,0,Damon Collins missed Layup.
+Howard,Columbia,8,14,9,43,0,Patrick Tape Defensive Rebound.
+Howard,Columbia,8,14,9,49,0,Jake Killingsworth Turnover.
+Howard,Columbia,11,14,10,12,1,James Miller made Three Point Jumper. Assisted by Damon Collins.
+Howard,Columbia,11,14,10,20,0,Mike Smith missed Layup.
+Howard,Columbia,11,14,10,20,0,Marcel Boyd Defensive Rebound.
+Howard,Columbia,11,14,10,39,0,James Miller missed Three Point Jumper.
+Howard,Columbia,11,14,10,39,0,Marcel Boyd Offensive Rebound.
+Howard,Columbia,11,14,10,46,0,James Miller Turnover.
+Howard,Columbia,11,14,10,53,0,Nate Hickman Turnover.
+Howard,Columbia,11,14,10,54,0,James Daniel Steal.
+Howard,Columbia,13,14,10,58,1,James Miller made Layup. Assisted by James Daniel.
+Howard,Columbia,13,14,11,10,0,Mike Smith missed Three Point Jumper.
+Howard,Columbia,13,14,11,10,0,Jake Killingsworth Offensive Rebound.
+Howard,Columbia,13,14,11,15,0,Jake Killingsworth missed Layup.
+Howard,Columbia,13,14,11,15,0,Marcel Boyd Block.
+Howard,Columbia,13,14,11,17,0,Damon Collins Defensive Rebound.
+Howard,Columbia,13,14,11,21,0,James Miller missed Three Point Jumper.
+Howard,Columbia,13,14,11,21,0,Jake Killingsworth Defensive Rebound.
+Howard,Columbia,13,14,11,28,0,Foul on Damon Collins.
+Howard,Columbia,13,14,11,31,0,Luke Petrasek missed Jumper.
+Howard,Columbia,13,14,11,31,0,Jeff Coby Offensive Rebound.
+Howard,Columbia,13,14,11,38,0,Jeff Coby missed Layup.
+Howard,Columbia,13,14,11,39,0,Damon Collins Block.
+Howard,Columbia,13,14,11,40,0,Damon Collins Defensive Rebound.
+Howard,Columbia,13,14,11,58,0,Charles Williams missed Three Point Jumper.
+Howard,Columbia,13,14,11,58,0,Quinton Adlesh Defensive Rebound.
+Howard,Columbia,13,14,12,0,0,Foul on Charles Williams.
+Howard,Columbia,13,14,12,0,0,Foul on Jeff Coby.
+Howard,Columbia,13,14,12,0,0,Jeff Coby Turnover.
+Howard,Columbia,13,14,12,17,0,James Daniel missed Three Point Jumper.
+Howard,Columbia,13,14,12,17,0,Luke Petrasek Defensive Rebound.
+Howard,Columbia,13,14,12,24,0,Nate Hickman missed Three Point Jumper.
+Howard,Columbia,13,14,12,24,0,Howard Defensive Rebound.
+Howard,Columbia,13,14,12,28,0,Official TV Timeout
+Howard,Columbia,13,14,12,43,0,Foul on Tyler Stone.
+Howard,Columbia,13,14,12,43,0,Tyler Stone Turnover.
+Howard,Columbia,13,14,12,44,0,Luke Petrasek missed Three Point Jumper.
+Howard,Columbia,13,14,12,44,0,James Miller Defensive Rebound.
+Howard,Columbia,13,14,13,24,0,Kofi Andoh missed Jumper.
+Howard,Columbia,13,14,13,24,0,Solomon Mangham Offensive Rebound.
+Howard,Columbia,13,14,13,28,0,Solomon Mangham missed Layup.
+Howard,Columbia,13,14,13,28,0,Jeff Coby Defensive Rebound.
+Howard,Columbia,13,14,13,28,0,Foul on Solomon Mangham.
+Howard,Columbia,13,14,13,28,0,Luke Petrasek missed Free Throw.
+Howard,Columbia,13,14,13,28,0,Jeff Coby Offensive Rebound.
+Howard,Columbia,13,16,13,34,1,Jeff Coby made Layup.
+Howard,Columbia,13,16,13,45,0,Kofi Andoh missed Jumper.
+Howard,Columbia,13,16,13,45,0,Marcel Boyd Offensive Rebound.
+Howard,Columbia,13,16,13,50,0,Marcel Boyd missed Layup.
+Howard,Columbia,13,16,13,50,0,Quinton Adlesh Defensive Rebound.
+Howard,Columbia,13,16,13,57,0,Mike Smith missed Layup.
+Howard,Columbia,13,16,13,57,0,James Miller Defensive Rebound.
+Howard,Columbia,13,16,14,5,0,James Miller Turnover.
+Howard,Columbia,13,16,14,5,0,Nate Hickman Steal.
+Howard,Columbia,13,18,14,11,1,Nate Hickman made Layup.
+Howard,Columbia,13,18,14,11,0,Foul on Solomon Mangham.
+Howard,Columbia,13,19,14,11,1,Nate Hickman made Free Throw.
+Howard,Columbia,13,19,14,32,0,Solomon Mangham missed Layup.
+Howard,Columbia,13,19,14,32,0,CJ Davis Defensive Rebound.
+Howard,Columbia,13,19,14,38,0,Quinton Adlesh missed Layup.
+Howard,Columbia,13,19,14,38,0,Columbia Offensive Rebound.
+Howard,Columbia,13,22,14,48,1,CJ Davis made Three Point Jumper. Assisted by Quinton Adlesh.
+Howard,Columbia,13,22,15,22,0,James Daniel missed Jumper.
+Howard,Columbia,13,22,15,22,0,Marcel Boyd Offensive Rebound.
+Howard,Columbia,13,22,15,27,0,Marcel Boyd missed Layup.
+Howard,Columbia,13,22,15,27,0,CJ Davis Defensive Rebound.
+Howard,Columbia,13,24,15,34,1,Luke Petrasek made Layup. Assisted by Quinton Adlesh.
+Howard,Columbia,13,24,15,37,0,Howard  Timeout
+Howard,Columbia,13,24,15,37,0,Official TV Timeout
+Howard,Columbia,13,24,16,8,0,Howard  Turnover.
+Howard,Columbia,13,26,16,27,1,Conor Voss made Layup. Assisted by CJ Davis.
+Howard,Columbia,16,26,16,40,1,James Daniel made Three Point Jumper. Assisted by James Miller.
+Howard,Columbia,16,29,16,51,1,Mike Smith made Three Point Jumper.
+Howard,Columbia,18,29,17,25,1,James Miller made Jumper.
+Howard,Columbia,18,29,17,49,0,Quinton Adlesh Turnover.
+Howard,Columbia,18,29,17,50,0,Marcel Boyd Steal.
+Howard,Columbia,18,29,18,9,0,Cameron Lewis missed Jumper.
+Howard,Columbia,18,29,18,9,0,Nate Hickman Defensive Rebound.
+Howard,Columbia,18,29,18,29,0,Jeff Coby missed Jumper.
+Howard,Columbia,18,29,18,29,0,Cameron Lewis Defensive Rebound.
+Howard,Columbia,21,29,18,40,1,Charles Williams made Three Point Jumper. Assisted by James Daniel.
+Howard,Columbia,21,29,18,48,0,Foul on Cameron Lewis.
+Howard,Columbia,21,30,18,48,1,Nate Hickman made Free Throw.
+Howard,Columbia,21,31,18,48,1,Nate Hickman made Free Throw.
+Howard,Columbia,21,31,19,6,0,Charles Williams missed Jumper.
+Howard,Columbia,21,31,19,6,0,Patrick Tape Defensive Rebound.
+Howard,Columbia,21,33,19,14,1,Mike Smith made Jumper.
+Howard,Columbia,21,33,19,34,0,Columbia  Timeout
+Howard,Columbia,21,33,19,38,0,Cameron Lewis Turnover.
+Howard,Columbia,21,33,19,56,0,Mike Smith missed Three Point Jumper.
+Howard,Columbia,21,33,19,56,0,Kofi Andoh Defensive Rebound.
+Howard,Columbia,21,33,20,0,0,End of 1st half
+Howard,Columbia,21,33,20,19,0,Mike Smith missed Three Point Jumper.
+Howard,Columbia,21,33,20,19,0,Jeff Coby Offensive Rebound.
+Howard,Columbia,21,33,20,36,0,Foul on Solomon Mangham.
+Howard,Columbia,21,34,20,36,1,Luke Petrasek made Free Throw.
+Howard,Columbia,21,35,20,36,1,Luke Petrasek made Free Throw.
+Howard,Columbia,24,35,20,51,1,Solomon Mangham made Three Point Jumper. Assisted by James Miller.
+Howard,Columbia,24,35,21,17,0,Mike Smith missed Three Point Jumper.
+Howard,Columbia,24,35,21,17,0,Luke Petrasek Offensive Rebound.
+Howard,Columbia,24,35,21,27,0,Luke Petrasek missed Layup.
+Howard,Columbia,24,35,21,27,0,Marcel Boyd Defensive Rebound.
+Howard,Columbia,24,35,21,37,0,Solomon Mangham missed Three Point Jumper.
+Howard,Columbia,24,35,21,37,0,Nate Hickman Defensive Rebound.
+Howard,Columbia,24,35,21,47,0,Nate Hickman missed Three Point Jumper.
+Howard,Columbia,24,35,21,47,0,Solomon Mangham Defensive Rebound.
+Howard,Columbia,24,35,21,55,0,Damon Collins missed Jumper.
+Howard,Columbia,24,35,21,55,0,Nate Hickman Defensive Rebound.
+Howard,Columbia,24,35,22,4,0,Jake Killingsworth missed Layup.
+Howard,Columbia,24,35,22,5,0,Marcel Boyd Block.
+Howard,Columbia,24,35,22,6,0,Jeff Coby Offensive Rebound.
+Howard,Columbia,24,37,22,6,1,Jeff Coby made Layup.
+Howard,Columbia,24,37,22,32,0,James Daniel missed Three Point Jumper.
+Howard,Columbia,24,37,22,32,0,Luke Petrasek Defensive Rebound.
+Howard,Columbia,24,37,22,36,0,Foul on Solomon Mangham.
+Howard,Columbia,24,37,22,52,0,Jake Killingsworth missed Three Point Jumper.
+Howard,Columbia,24,37,22,52,0,Tyler Stone Defensive Rebound.
+Howard,Columbia,24,37,23,3,0,Foul on Luke Petrasek.
+Howard,Columbia,24,37,23,3,0,James Miller missed Free Throw.
+Howard,Columbia,24,37,23,3,0,Howard Deadball Team Rebound.
+Howard,Columbia,24,37,23,3,0,James Miller missed Free Throw.
+Howard,Columbia,24,37,23,3,0,Conor Voss Defensive Rebound.
+Howard,Columbia,24,37,23,33,0,Columbia  Turnover.
+Howard,Columbia,24,37,23,50,0,James Daniel missed Jumper.
+Howard,Columbia,24,37,23,50,0,Mike Smith Defensive Rebound.
+Howard,Columbia,24,37,23,56,0,Nate Hickman missed Layup.
+Howard,Columbia,24,37,23,56,0,Rodney Hunter Offensive Rebound.
+Howard,Columbia,24,39,23,59,1,Rodney Hunter made Two Point Tip Shot.
+Howard,Columbia,24,39,24,14,0,James Miller missed Three Point Jumper.
+Howard,Columbia,24,39,24,14,0,Rodney Hunter Defensive Rebound.
+Howard,Columbia,24,39,24,23,0,Mike Smith missed Three Point Jumper.
+Howard,Columbia,24,39,24,23,0,Marcel Boyd Defensive Rebound.
+Howard,Columbia,24,39,24,31,0,Foul on Mike Smith.
+Howard,Columbia,24,39,24,31,0,Official TV Timeout
+Howard,Columbia,24,39,24,58,0,Damon Collins missed Layup.
+Howard,Columbia,24,39,24,58,0,Chris McComber Defensive Rebound.
+Howard,Columbia,24,39,25,5,0,Chris McComber missed Three Point Jumper.
+Howard,Columbia,24,39,25,5,0,Nate Hickman Offensive Rebound.
+Howard,Columbia,24,39,25,23,0,Foul on James Miller.
+Howard,Columbia,24,41,25,25,1,Rodney Hunter made Jumper. Assisted by Chris McComber.
+Howard,Columbia,26,41,25,43,1,Kofi Andoh made Jumper. Assisted by James Daniel.
+Howard,Columbia,26,41,25,57,0,Rodney Hunter missed Jumper.
+Howard,Columbia,26,41,25,57,0,Kofi Andoh Defensive Rebound.
+Howard,Columbia,26,41,26,14,0,Foul on Rodney Hunter.
+Howard,Columbia,26,41,26,22,0,Foul on Patrick Tape.
+Howard,Columbia,29,41,26,28,1,James Daniel made Three Point Jumper. Assisted by James Miller.
+Howard,Columbia,29,43,26,53,1,CJ Davis made Layup.
+Howard,Columbia,29,43,26,54,0,Foul on Marcel Boyd.
+Howard,Columbia,29,43,26,54,0,CJ Davis missed Free Throw.
+Howard,Columbia,29,43,26,54,0,Jeff Coby Offensive Rebound.
+Howard,Columbia,29,46,27,14,1,Luke Petrasek made Three Point Jumper. Assisted by CJ Davis.
+Howard,Columbia,29,46,27,39,0,Damon Collins missed Jumper.
+Howard,Columbia,29,46,27,39,0,Luke Petrasek Defensive Rebound.
+Howard,Columbia,29,48,27,47,1,CJ Davis made Jumper.
+Howard,Columbia,29,48,27,47,0,Foul on James Miller.
+Howard,Columbia,29,48,27,47,0,CJ Davis missed Free Throw.
+Howard,Columbia,29,48,27,47,0,Damon Collins Defensive Rebound.
+Howard,Columbia,29,48,28,1,0,Cameron Lewis missed Jumper.
+Howard,Columbia,29,48,28,1,0,Jeff Coby Defensive Rebound.
+Howard,Columbia,29,48,28,13,0,Columbia  Turnover.
+Howard,Columbia,29,48,28,13,0,Official TV Timeout
+Howard,Columbia,29,48,28,19,0,James Miller missed Jumper.
+Howard,Columbia,29,48,28,19,0,Conor Voss Defensive Rebound.
+Howard,Columbia,29,50,28,26,1,Mike Smith made Jumper.
+Howard,Columbia,29,50,28,38,0,Foul on Luke Petrasek.
+Howard,Columbia,29,50,28,58,0,Foul on Rodney Hunter.
+Howard,Columbia,29,50,29,9,0,Solomon Mangham missed Three Point Jumper.
+Howard,Columbia,29,50,29,9,0,Damon Collins Offensive Rebound.
+Howard,Columbia,29,50,29,13,0,Damon Collins missed Jumper.
+Howard,Columbia,29,50,29,13,0,Conor Voss Block.
+Howard,Columbia,29,50,29,15,0,Conor Voss Defensive Rebound.
+Howard,Columbia,29,50,29,16,0,Foul on Solomon Mangham.
+Howard,Columbia,29,50,29,32,0,CJ Davis missed Jumper.
+Howard,Columbia,29,50,29,32,0,Tyler Stone Defensive Rebound.
+Howard,Columbia,29,50,29,40,0,Foul on Quinton Adlesh.
+Howard,Columbia,29,50,29,40,0,James Miller missed Free Throw.
+Howard,Columbia,29,50,29,40,0,Howard Deadball Team Rebound.
+Howard,Columbia,29,50,29,40,0,James Miller missed Free Throw.
+Howard,Columbia,29,50,29,40,0,Mike Smith Defensive Rebound.
+Howard,Columbia,29,50,29,54,0,Mike Smith missed Three Point Jumper.
+Howard,Columbia,29,50,29,54,0,James Miller Defensive Rebound.
+Howard,Columbia,29,50,30,18,0,James Miller missed Layup.
+Howard,Columbia,29,50,30,18,0,Cameron Lewis Offensive Rebound.
+Howard,Columbia,31,50,30,21,1,Cameron Lewis made Layup.
+Howard,Columbia,31,52,30,34,1,CJ Davis made Layup. Assisted by Rodney Hunter.
+Howard,Columbia,31,52,30,43,0,James Miller missed Jumper.
+Howard,Columbia,31,52,30,43,0,Rodney Hunter Defensive Rebound.
+Howard,Columbia,31,52,30,49,0,Rodney Hunter Turnover.
+Howard,Columbia,31,52,30,50,0,James Miller Steal.
+Howard,Columbia,31,52,30,53,0,Foul on Jeff Coby.
+Howard,Columbia,32,52,30,53,1,Tyler Stone made Free Throw.
+Howard,Columbia,32,52,30,53,0,Tyler Stone missed Free Throw.
+Howard,Columbia,32,52,30,53,0,Luke Petrasek Defensive Rebound.
+Howard,Columbia,32,52,31,18,0,Quinton Adlesh Turnover.
+Howard,Columbia,32,52,31,31,0,Charles Williams missed Three Point Jumper.
+Howard,Columbia,32,52,31,31,0,Patrick Tape Defensive Rebound.
+Howard,Columbia,32,55,31,48,1,Quinton Adlesh made Three Point Jumper. Assisted by Luke Petrasek.
+Howard,Columbia,34,55,32,17,1,Charles Williams made Jumper. Assisted by James Daniel.
+Howard,Columbia,34,55,32,29,0,Patrick Tape Turnover.
+Howard,Columbia,34,55,32,29,0,Official TV Timeout
+Howard,Columbia,37,55,32,40,1,Charles Williams made Three Point Jumper. Assisted by Damon Collins.
+Howard,Columbia,37,55,33,1,0,Quinton Adlesh Turnover.
+Howard,Columbia,39,55,33,16,1,Cameron Lewis made Layup. Assisted by Tyler Stone.
+Howard,Columbia,39,55,33,26,0,Foul on Luke Petrasek.
+Howard,Columbia,39,55,33,26,0,Luke Petrasek Turnover.
+Howard,Columbia,39,55,33,39,0,Damon Collins missed Layup.
+Howard,Columbia,39,55,33,39,0,Howard Offensive Rebound.
+Howard,Columbia,39,55,33,54,0,Damon Collins missed Jumper.
+Howard,Columbia,39,55,33,54,0,Jake Killingsworth Defensive Rebound.
+Howard,Columbia,39,55,33,57,0,Foul on Cameron Lewis.
+Howard,Columbia,39,55,33,57,0,Jake Killingsworth missed Free Throw.
+Howard,Columbia,39,55,33,57,0,Tyler Stone Defensive Rebound.
+Howard,Columbia,39,55,34,5,0,Tyler Stone missed Jumper.
+Howard,Columbia,39,55,34,5,0,Jeff Coby Defensive Rebound.
+Howard,Columbia,39,55,34,12,0,Nate Hickman missed Layup.
+Howard,Columbia,39,55,34,12,0,Charles Williams Block.
+Howard,Columbia,39,55,34,14,0,Columbia Offensive Rebound.
+Howard,Columbia,39,55,34,21,0,Nate Hickman missed Jumper.
+Howard,Columbia,39,55,34,21,0,Tyler Stone Defensive Rebound.
+Howard,Columbia,39,55,34,39,0,Charles Williams missed Three Point Jumper.
+Howard,Columbia,39,55,34,39,0,Mike Smith Defensive Rebound.
+Howard,Columbia,39,55,34,55,0,Foul on Cameron Lewis.
+Howard,Columbia,39,56,34,55,1,Jeff Coby made Free Throw.
+Howard,Columbia,39,57,34,55,1,Jeff Coby made Free Throw.
+Howard,Columbia,39,57,35,16,0,Charles Williams missed Jumper.
+Howard,Columbia,39,57,35,16,0,Jeff Coby Defensive Rebound.
+Howard,Columbia,39,59,35,48,1,Nate Hickman made Layup.
+Howard,Columbia,39,59,35,59,0,James Miller Turnover.
+Howard,Columbia,39,59,36,0,0,CJ Davis Steal.
+Howard,Columbia,39,59,36,3,0,CJ Davis missed Layup.
+Howard,Columbia,39,59,36,3,0,James Miller Block.
+Howard,Columbia,39,59,36,5,0,Jeff Coby Offensive Rebound.
+Howard,Columbia,39,61,36,7,1,Jeff Coby made Layup.
+Howard,Columbia,39,61,36,19,0,Foul on Chris McComber.
+Howard,Columbia,39,61,36,19,0,Official TV Timeout
+Howard,Columbia,40,61,36,19,1,James Daniel made Free Throw.
+Howard,Columbia,40,61,36,19,0,James Daniel missed Free Throw.
+Howard,Columbia,40,61,36,19,0,Jeff Coby Defensive Rebound.
+Howard,Columbia,40,61,36,49,0,Jeff Coby Turnover.
+Howard,Columbia,43,61,37,8,1,James Miller made Three Point Jumper. Assisted by Chuck Smith.
+Howard,Columbia,43,63,37,22,1,Jeff Coby made Jumper. Assisted by Nate Hickman.
+Howard,Columbia,43,63,37,35,0,James Miller missed Three Point Jumper.
+Howard,Columbia,43,63,37,35,0,Columbia Defensive Rebound.
+Howard,Columbia,43,63,37,55,0,Foul on Cameron Lewis.
+Howard,Columbia,43,63,37,55,0,Chris McComber missed Free Throw.
+Howard,Columbia,43,63,37,55,0,Columbia Deadball Team Rebound.
+Howard,Columbia,43,64,37,55,1,Chris McComber made Free Throw.
+Howard,Columbia,45,64,38,13,1,Kofi Andoh made Jumper. Assisted by Chuck Smith.
+Howard,Columbia,45,64,38,32,0,John Sica missed Three Point Jumper.
+Howard,Columbia,45,64,38,32,0,Peter Barba Offensive Rebound.
+Howard,Columbia,45,64,38,37,0,John Sica missed Layup.
+Howard,Columbia,45,64,38,37,0,Andrew Panayiotou Offensive Rebound.
+Howard,Columbia,45,64,38,41,0,Andrew Panayiotou Turnover.
+Howard,Columbia,45,64,38,42,0,Chuck Smith Steal.
+Howard,Columbia,45,64,38,53,0,Kofi Andoh missed Jumper.
+Howard,Columbia,45,64,38,53,0,Kofi Andoh Offensive Rebound.
+Howard,Columbia,45,64,39,7,0,Foul on Andrew Panayiotou.
+Howard,Columbia,45,64,39,7,0,Jalen Jones missed Free Throw.
+Howard,Columbia,45,64,39,7,0,Howard Deadball Team Rebound.
+Howard,Columbia,46,64,39,7,1,Jalen Jones made Free Throw.
+Howard,Columbia,46,64,39,14,0,Kendall Jackson Turnover.
+Howard,Columbia,46,64,39,14,0,Jalen Jones Steal.
+Howard,Columbia,46,64,39,15,0,Foul on Kendall Jackson.
+Howard,Columbia,46,64,39,15,0,Jalen Jones missed Free Throw.
+Howard,Columbia,46,64,39,15,0,Howard Deadball Team Rebound.
+Howard,Columbia,46,64,39,15,0,Jalen Jones missed Free Throw.
+Howard,Columbia,46,64,39,15,0,Chuck Smith Offensive Rebound.
+Howard,Columbia,46,64,39,20,0,Chuck Smith missed Three Point Jumper.
+Howard,Columbia,46,64,39,20,0,Charles Williams Offensive Rebound.
+Howard,Columbia,46,64,39,25,0,Charles Williams missed Layup.
+Howard,Columbia,46,64,39,25,0,Conor Voss Block.
+Howard,Columbia,46,64,39,26,0,Kofi Andoh Offensive Rebound.
+Howard,Columbia,48,64,39,27,1,Kofi Andoh made Jumper.
+Howard,Columbia,48,64,39,35,0,Foul on Chuck Smith.
+Howard,Columbia,48,65,39,35,1,Kendall Jackson made Free Throw.
+Howard,Columbia,48,66,39,35,1,Kendall Jackson made Free Throw.
+Howard,Columbia,48,66,39,46,0,Charles Williams missed Three Point Jumper.
+Howard,Columbia,48,66,39,46,0,Kendall Jackson Defensive Rebound.
+Howard,Columbia,48,66,40,0,0,End of Game

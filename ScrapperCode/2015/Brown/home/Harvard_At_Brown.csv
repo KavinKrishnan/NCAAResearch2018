@@ -1,0 +1,520 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Harvard,Brown,3,0,0,28,1,Wesley Saunders made Three Point Jumper. Assisted by Steve Moundou-Missi.
+Harvard,Brown,3,0,0,28,1,Wesley Saunders made Three Point Jumper.
+Harvard,Brown,3,0,0,55,0,Cedric Kuakumensah Turnover.
+Harvard,Brown,3,0,0,56,0,Zena Edosomwan Steal.
+Harvard,Brown,5,0,1,20,1,Wesley Saunders made Jumper.
+Harvard,Brown,5,2,1,36,1,Steven Spieth made Jumper.
+Harvard,Brown,5,2,1,47,0,Wesley Saunders missed Three Point Jumper.
+Harvard,Brown,5,2,1,47,0,Steven Spieth Defensive Rebound.
+Harvard,Brown,5,2,2,3,0,Cedric Kuakumensah missed Jumper.
+Harvard,Brown,5,2,2,3,0,Cedric Kuakumensah Offensive Rebound.
+Harvard,Brown,5,2,2,7,0,Cedric Kuakumensah missed Layup.
+Harvard,Brown,5,2,2,7,0,Agunwa Okolie Defensive Rebound.
+Harvard,Brown,5,2,2,21,0,Foul on Cedric Kuakumensah.
+Harvard,Brown,5,2,2,21,0,Agunwa Okolie missed Free Throw.
+Harvard,Brown,5,2,2,21,0,Harvard Deadball Team Rebound.
+Harvard,Brown,6,2,2,21,1,Agunwa Okolie made Free Throw.
+Harvard,Brown,6,2,2,39,0,Rafael Maia missed Layup.
+Harvard,Brown,6,2,2,39,0,Jonah Travis Block.
+Harvard,Brown,6,2,2,41,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Brown,8,2,2,59,1,Siyani Chambers made Jumper.
+Harvard,Brown,8,5,3,29,1,Cedric Kuakumensah made Three Point Jumper. Assisted by Tavon Blackmon.
+Harvard,Brown,10,5,3,59,1,Jonah Travis made Layup.
+Harvard,Brown,10,5,3,59,1,Jonah Travis made Layup.
+Harvard,Brown,10,5,4,8,0,Official TV Timeout
+Harvard,Brown,10,5,4,24,0,Steven Spieth missed Layup.
+Harvard,Brown,10,5,4,24,0,Steve Moundou-Missi Block.
+Harvard,Brown,10,5,4,24,0,Steve Moundou-Missi Block.
+Harvard,Brown,10,5,4,26,0,Brown Offensive Rebound.
+Harvard,Brown,10,5,4,31,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,10,5,4,31,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,10,5,4,31,0,Rafael Maia missed Free Throw.
+Harvard,Brown,10,5,4,31,0,Brown Deadball Team Rebound.
+Harvard,Brown,10,5,4,31,0,Brown Deadball Team Rebound.
+Harvard,Brown,10,6,4,31,1,Rafael Maia made Free Throw.
+Harvard,Brown,10,6,4,45,0,Jonah Travis missed Jumper.
+Harvard,Brown,10,6,4,45,0,Dockery Walker Defensive Rebound.
+Harvard,Brown,10,6,4,45,0,Dockery Walker Defensive Rebound.
+Harvard,Brown,10,6,4,52,0,Foul on Jonah Travis.
+Harvard,Brown,10,6,4,52,0,Foul on Jonah Travis.
+Harvard,Brown,10,7,4,52,1,Tavon Blackmon made Free Throw.
+Harvard,Brown,10,7,4,52,1,Tavon Blackmon made Free Throw.
+Harvard,Brown,10,8,4,52,1,Tavon Blackmon made Free Throw.
+Harvard,Brown,10,8,4,52,1,Tavon Blackmon made Free Throw.
+Harvard,Brown,10,8,5,6,0,Corbin Miller missed Three Point Jumper.
+Harvard,Brown,10,8,5,6,0,Corbin Miller missed Three Point Jumper.
+Harvard,Brown,10,8,5,6,0,Jonah Travis Offensive Rebound.
+Harvard,Brown,10,8,5,6,0,Jonah Travis Offensive Rebound.
+Harvard,Brown,10,8,5,9,0,Foul on Dockery Walker.
+Harvard,Brown,10,8,5,9,0,Foul on Dockery Walker.
+Harvard,Brown,12,8,5,17,1,Wesley Saunders made Layup.
+Harvard,Brown,12,10,5,44,1,Rafael Maia made Layup. Assisted by Tavon Blackmon.
+Harvard,Brown,12,10,6,15,0,Foul on Steven Spieth.
+Harvard,Brown,12,10,6,15,0,Foul on Steven Spieth.
+Harvard,Brown,13,10,6,15,1,Wesley Saunders made Free Throw.
+Harvard,Brown,14,10,6,15,1,Wesley Saunders made Free Throw.
+Harvard,Brown,14,10,6,15,1,Wesley Saunders made Free Throw.
+Harvard,Brown,14,10,6,29,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,14,10,6,29,0,Brown Offensive Rebound.
+Harvard,Brown,14,10,6,29,0,Brown Offensive Rebound.
+Harvard,Brown,14,10,6,40,0,Dockery Walker Turnover.
+Harvard,Brown,14,10,6,40,0,Foul on Dockery Walker.
+Harvard,Brown,14,10,6,58,0,Zena Edosomwan missed Layup.
+Harvard,Brown,14,10,6,58,0,Jason Massey Defensive Rebound.
+Harvard,Brown,14,10,6,58,0,Jason Massey Defensive Rebound.
+Harvard,Brown,14,10,7,29,0,Rafael Maia Turnover.
+Harvard,Brown,14,10,7,29,0,Rafael Maia Turnover.
+Harvard,Brown,16,10,7,52,1,Jonah Travis made Layup.
+Harvard,Brown,16,10,7,52,1,Jonah Travis made Layup.
+Harvard,Brown,16,10,8,5,0,Tavon Blackmon Turnover.
+Harvard,Brown,16,10,8,6,0,Siyani Chambers Steal.
+Harvard,Brown,16,10,8,6,0,Siyani Chambers Steal.
+Harvard,Brown,18,10,8,17,1,Zena Edosomwan made Dunk. Assisted by Jonah Travis.
+Harvard,Brown,18,10,8,18,0,Brown  Timeout
+Harvard,Brown,18,10,8,18,0,Brown  Timeout
+Harvard,Brown,18,10,8,38,0,Foul on Jonah Travis.
+Harvard,Brown,18,10,8,38,0,Foul on Jonah Travis.
+Harvard,Brown,18,10,8,38,0,Official TV Timeout
+Harvard,Brown,18,10,8,38,0,Official TV Timeout
+Harvard,Brown,18,11,8,38,1,JR Hobbie made Free Throw.
+Harvard,Brown,18,11,8,38,1,JR Hobbie made Free Throw.
+Harvard,Brown,18,12,8,38,1,JR Hobbie made Free Throw.
+Harvard,Brown,18,13,8,38,1,JR Hobbie made Free Throw.
+Harvard,Brown,18,13,8,38,1,JR Hobbie made Free Throw.
+Harvard,Brown,18,13,9,3,0,Zena Edosomwan missed Jumper.
+Harvard,Brown,18,13,9,3,0,Zena Edosomwan missed Jumper.
+Harvard,Brown,18,13,9,3,0,Cedric Kuakumensah Defensive Rebound.
+Harvard,Brown,18,13,9,3,0,Cedric Kuakumensah Defensive Rebound.
+Harvard,Brown,18,15,9,9,1,Tavon Blackmon made Layup. Assisted by Cedric Kuakumensah.
+Harvard,Brown,18,15,9,9,1,Tavon Blackmon made Layup. Assisted by Cedric Kuakumensah.
+Harvard,Brown,20,15,9,24,1,Zena Edosomwan made Dunk. Assisted by Matt Brown.
+Harvard,Brown,20,15,9,41,0,Foul on Matt Brown.
+Harvard,Brown,20,15,10,8,0,Tavon Blackmon missed Jumper.
+Harvard,Brown,20,15,10,8,0,Steve Moundou-Missi Block.
+Harvard,Brown,20,15,10,8,0,Steve Moundou-Missi Block.
+Harvard,Brown,20,15,10,10,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Brown,20,15,10,10,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Brown,20,15,10,22,0,Wesley Saunders missed Jumper.
+Harvard,Brown,20,15,10,22,0,Wesley Saunders missed Jumper.
+Harvard,Brown,20,15,10,22,0,Cedric Kuakumensah Defensive Rebound.
+Harvard,Brown,20,15,10,22,0,Cedric Kuakumensah Defensive Rebound.
+Harvard,Brown,20,15,10,38,0,Steven Spieth missed Three Point Jumper.
+Harvard,Brown,20,15,10,38,0,Steven Spieth missed Three Point Jumper.
+Harvard,Brown,20,15,10,38,0,Steven Spieth Offensive Rebound.
+Harvard,Brown,20,15,10,38,0,Steven Spieth Offensive Rebound.
+Harvard,Brown,20,15,10,47,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,20,15,10,47,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,20,16,10,47,1,Tavon Blackmon made Free Throw.
+Harvard,Brown,20,16,10,47,1,Tavon Blackmon made Free Throw.
+Harvard,Brown,20,17,10,47,1,Tavon Blackmon made Free Throw.
+Harvard,Brown,20,17,10,55,0,Agunwa Okolie missed Layup.
+Harvard,Brown,20,17,10,55,0,Agunwa Okolie Offensive Rebound.
+Harvard,Brown,20,17,10,57,0,Foul on Jason Massey.
+Harvard,Brown,20,17,10,57,0,Agunwa Okolie missed Free Throw.
+Harvard,Brown,20,17,10,57,0,Harvard Deadball Team Rebound.
+Harvard,Brown,21,17,10,57,1,Agunwa Okolie made Free Throw.
+Harvard,Brown,21,17,11,7,0,Tyler Williams Turnover.
+Harvard,Brown,21,17,11,7,0,Tyler Williams Turnover.
+Harvard,Brown,21,17,11,8,0,Wesley Saunders Steal.
+Harvard,Brown,21,17,11,8,0,Wesley Saunders Steal.
+Harvard,Brown,21,17,11,10,0,Foul on Cedric Kuakumensah.
+Harvard,Brown,21,17,11,10,0,Foul on Cedric Kuakumensah.
+Harvard,Brown,21,17,11,10,0,Wesley Saunders missed Free Throw.
+Harvard,Brown,21,17,11,10,0,Harvard Deadball Team Rebound.
+Harvard,Brown,22,17,11,10,1,Wesley Saunders made Free Throw.
+Harvard,Brown,22,17,11,28,0,Steven Spieth missed Jumper.
+Harvard,Brown,22,17,11,28,0,Steven Spieth missed Jumper.
+Harvard,Brown,22,17,11,28,0,Corbin Miller Defensive Rebound.
+Harvard,Brown,25,17,11,35,1,Corbin Miller made Three Point Jumper. Assisted by Siyani Chambers.
+Harvard,Brown,25,19,12,2,1,Rafael Maia made Jumper. Assisted by Tyler Williams.
+Harvard,Brown,27,19,12,23,1,Wesley Saunders made Jumper.
+Harvard,Brown,27,19,12,40,0,Rafael Maia missed Layup.
+Harvard,Brown,27,19,12,40,0,Rafael Maia missed Layup.
+Harvard,Brown,27,19,12,40,0,Wesley Saunders Defensive Rebound.
+Harvard,Brown,27,19,12,40,0,Wesley Saunders Defensive Rebound.
+Harvard,Brown,27,19,12,47,0,Wesley Saunders missed Jumper.
+Harvard,Brown,27,19,12,47,0,Rafael Maia Defensive Rebound.
+Harvard,Brown,27,19,13,4,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,27,19,13,4,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,27,19,13,4,0,Zena Edosomwan Defensive Rebound.
+Harvard,Brown,27,19,13,4,0,Zena Edosomwan Defensive Rebound.
+Harvard,Brown,29,19,13,13,1,Siyani Chambers made Jumper.
+Harvard,Brown,29,19,13,13,1,Siyani Chambers made Jumper.
+Harvard,Brown,29,19,13,48,0,Tyler Williams missed Three Point Jumper.
+Harvard,Brown,29,19,13,48,0,Tyler Williams missed Three Point Jumper.
+Harvard,Brown,29,19,13,48,0,Corbin Miller Defensive Rebound.
+Harvard,Brown,29,19,13,48,0,Corbin Miller Defensive Rebound.
+Harvard,Brown,29,19,13,59,0,Wesley Saunders missed Jumper.
+Harvard,Brown,29,19,13,59,0,Wesley Saunders missed Jumper.
+Harvard,Brown,29,19,13,59,0,Rafael Maia Defensive Rebound.
+Harvard,Brown,29,19,13,59,0,Rafael Maia Defensive Rebound.
+Harvard,Brown,29,19,14,10,0,Rafael Maia missed Layup.
+Harvard,Brown,29,19,14,10,0,Wesley Saunders Defensive Rebound.
+Harvard,Brown,29,19,14,10,0,Wesley Saunders Defensive Rebound.
+Harvard,Brown,29,19,14,14,0,Harvard  Timeout
+Harvard,Brown,29,19,14,14,0,Harvard  Timeout
+Harvard,Brown,29,19,14,35,0,Agunwa Okolie missed Jumper.
+Harvard,Brown,29,19,14,35,0,Agunwa Okolie Offensive Rebound.
+Harvard,Brown,29,19,14,35,0,Agunwa Okolie missed Jumper.
+Harvard,Brown,29,19,14,35,0,Agunwa Okolie Offensive Rebound.
+Harvard,Brown,29,19,14,36,0,Official TV Timeout
+Harvard,Brown,29,19,14,36,0,Official TV Timeout
+Harvard,Brown,29,19,14,58,0,Siyani Chambers missed Three Point Jumper.
+Harvard,Brown,29,19,14,58,0,Siyani Chambers missed Three Point Jumper.
+Harvard,Brown,29,19,14,58,0,Zena Edosomwan Offensive Rebound.
+Harvard,Brown,29,19,14,58,0,Zena Edosomwan Offensive Rebound.
+Harvard,Brown,29,19,15,14,0,Foul on Dockery Walker.
+Harvard,Brown,29,19,15,14,0,Foul on Dockery Walker.
+Harvard,Brown,29,19,15,14,0,Agunwa Okolie missed Free Throw.
+Harvard,Brown,29,19,15,14,0,Agunwa Okolie missed Free Throw.
+Harvard,Brown,29,19,15,14,0,Harvard Deadball Team Rebound.
+Harvard,Brown,29,19,15,14,0,Harvard Deadball Team Rebound.
+Harvard,Brown,30,19,15,14,1,Agunwa Okolie made Free Throw.
+Harvard,Brown,30,19,15,14,1,Agunwa Okolie made Free Throw.
+Harvard,Brown,30,19,15,26,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,30,19,15,26,0,Corbin Miller Defensive Rebound.
+Harvard,Brown,30,19,15,26,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,30,19,15,26,0,Corbin Miller Defensive Rebound.
+Harvard,Brown,30,19,15,38,0,Zena Edosomwan missed Jumper.
+Harvard,Brown,30,19,15,38,0,Zena Edosomwan missed Jumper.
+Harvard,Brown,30,19,15,38,0,Cedric Kuakumensah Block.
+Harvard,Brown,30,19,15,38,0,Harvard Offensive Rebound.
+Harvard,Brown,30,19,15,38,0,Cedric Kuakumensah Block.
+Harvard,Brown,30,19,15,38,0,Harvard Offensive Rebound.
+Harvard,Brown,32,19,15,50,1,Evan Cummins made Layup.
+Harvard,Brown,32,19,15,50,1,Evan Cummins made Layup.
+Harvard,Brown,32,21,16,3,1,Cedric Kuakumensah made Jumper. Assisted by Rafael Maia.
+Harvard,Brown,32,21,16,3,1,Cedric Kuakumensah made Jumper. Assisted by Rafael Maia.
+Harvard,Brown,32,21,16,33,0,Agunwa Okolie Turnover.
+Harvard,Brown,32,21,16,33,0,Agunwa Okolie Turnover.
+Harvard,Brown,32,21,16,34,0,Tavon Blackmon Steal.
+Harvard,Brown,32,21,16,34,0,Tavon Blackmon Steal.
+Harvard,Brown,32,21,16,37,0,Tavon Blackmon missed Layup.
+Harvard,Brown,32,21,16,37,0,Agunwa Okolie Block.
+Harvard,Brown,32,21,16,37,0,Tavon Blackmon missed Layup.
+Harvard,Brown,32,21,16,37,0,Agunwa Okolie Block.
+Harvard,Brown,32,21,16,38,0,Rafael Maia Offensive Rebound.
+Harvard,Brown,32,21,16,38,0,Rafael Maia Offensive Rebound.
+Harvard,Brown,32,21,16,38,0,Foul on Corbin Miller.
+Harvard,Brown,32,21,16,38,0,Foul on Corbin Miller.
+Harvard,Brown,32,21,16,38,0,Official TV Timeout
+Harvard,Brown,32,21,16,38,0,Official TV Timeout
+Harvard,Brown,32,23,16,41,1,Cedric Kuakumensah made Jumper. Assisted by Tavon Blackmon.
+Harvard,Brown,32,23,16,41,1,Cedric Kuakumensah made Jumper. Assisted by Tavon Blackmon.
+Harvard,Brown,32,23,16,56,0,Siyani Chambers Turnover.
+Harvard,Brown,32,23,16,56,0,Siyani Chambers Turnover.
+Harvard,Brown,32,26,17,7,1,Cedric Kuakumensah made Three Point Jumper. Assisted by Tavon Blackmon.
+Harvard,Brown,32,26,17,7,1,Cedric Kuakumensah made Three Point Jumper. Assisted by Tavon Blackmon.
+Harvard,Brown,32,26,17,26,0,Foul on Patrick Triplett.
+Harvard,Brown,32,26,17,26,0,Foul on Patrick Triplett.
+Harvard,Brown,33,26,17,26,1,Wesley Saunders made Free Throw.
+Harvard,Brown,33,26,17,26,1,Wesley Saunders made Free Throw.
+Harvard,Brown,34,26,17,26,1,Wesley Saunders made Free Throw.
+Harvard,Brown,34,26,17,26,1,Wesley Saunders made Free Throw.
+Harvard,Brown,34,26,17,38,0,Cedric Kuakumensah Turnover.
+Harvard,Brown,34,26,17,38,0,Cedric Kuakumensah Turnover.
+Harvard,Brown,34,26,17,40,0,Wesley Saunders Steal.
+Harvard,Brown,34,26,17,40,0,Wesley Saunders Steal.
+Harvard,Brown,36,26,17,46,1,Agunwa Okolie made Layup. Assisted by Wesley Saunders.
+Harvard,Brown,36,26,17,46,1,Agunwa Okolie made Layup. Assisted by Wesley Saunders.
+Harvard,Brown,36,28,17,56,1,Tavon Blackmon made Jumper.
+Harvard,Brown,36,28,17,56,1,Tavon Blackmon made Jumper.
+Harvard,Brown,36,28,18,27,0,Evan Cummins missed Layup.
+Harvard,Brown,36,28,18,27,0,Evan Cummins missed Layup.
+Harvard,Brown,36,28,18,27,0,Cedric Kuakumensah Block.
+Harvard,Brown,36,28,18,28,0,Brown Defensive Rebound.
+Harvard,Brown,36,28,18,28,0,Brown Defensive Rebound.
+Harvard,Brown,36,28,18,41,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,36,28,18,41,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,36,28,18,41,0,Wesley Saunders Defensive Rebound.
+Harvard,Brown,36,28,18,41,0,Wesley Saunders Defensive Rebound.
+Harvard,Brown,36,28,19,11,0,Foul on Rafael Maia.
+Harvard,Brown,36,28,19,11,0,Foul on Rafael Maia.
+Harvard,Brown,36,28,19,11,0,Agunwa Okolie missed Free Throw.
+Harvard,Brown,36,28,19,11,0,Harvard Deadball Team Rebound.
+Harvard,Brown,36,28,19,11,0,Agunwa Okolie missed Free Throw.
+Harvard,Brown,36,28,19,11,0,Rafael Maia Defensive Rebound.
+Harvard,Brown,36,28,19,11,0,Agunwa Okolie missed Free Throw.
+Harvard,Brown,36,28,19,11,0,Rafael Maia Defensive Rebound.
+Harvard,Brown,36,30,19,24,1,Rafael Maia made Dunk. Assisted by Tavon Blackmon.
+Harvard,Brown,36,30,19,24,1,Rafael Maia made Dunk. Assisted by Tavon Blackmon.
+Harvard,Brown,36,30,19,56,0,Siyani Chambers missed Jumper.
+Harvard,Brown,36,30,19,56,0,Siyani Chambers missed Jumper.
+Harvard,Brown,36,30,19,56,0,Patrick Triplett Defensive Rebound.
+Harvard,Brown,36,30,19,56,0,Patrick Triplett Defensive Rebound.
+Harvard,Brown,36,30,20,0,0,End of 1st half
+Harvard,Brown,36,30,20,22,0,Tavon Blackmon Turnover.
+Harvard,Brown,36,30,20,25,0,Wesley Saunders Steal.
+Harvard,Brown,36,30,20,27,0,Zena Edosomwan Turnover.
+Harvard,Brown,36,30,20,29,0,Rafael Maia Steal.
+Harvard,Brown,36,32,20,33,1,Tavon Blackmon made Layup.
+Harvard,Brown,36,32,20,33,1,Tavon Blackmon made Layup.
+Harvard,Brown,36,32,20,42,0,Zena Edosomwan Turnover.
+Harvard,Brown,36,32,20,54,0,Cedric Kuakumensah missed Three Point Jumper.
+Harvard,Brown,36,32,20,54,0,Zena Edosomwan Defensive Rebound.
+Harvard,Brown,36,32,21,3,0,Wesley Saunders Turnover.
+Harvard,Brown,36,32,21,21,0,Rafael Maia missed Layup.
+Harvard,Brown,36,32,21,21,0,Agunwa Okolie Defensive Rebound.
+Harvard,Brown,36,32,21,50,0,Wesley Saunders Turnover.
+Harvard,Brown,36,32,22,20,0,Tavon Blackmon missed Jumper.
+Harvard,Brown,36,32,22,20,0,Agunwa Okolie Defensive Rebound.
+Harvard,Brown,36,32,22,27,0,Siyani Chambers missed Layup.
+Harvard,Brown,36,32,22,27,0,Siyani Chambers Offensive Rebound.
+Harvard,Brown,36,32,22,35,0,Steve Moundou-Missi missed Jumper.
+Harvard,Brown,36,32,22,35,0,Wesley Saunders Offensive Rebound.
+Harvard,Brown,36,32,22,42,0,Siyani Chambers missed Three Point Jumper.
+Harvard,Brown,36,32,22,42,0,Agunwa Okolie Offensive Rebound.
+Harvard,Brown,36,32,22,57,0,Steve Moundou-Missi Turnover.
+Harvard,Brown,36,32,23,14,0,Foul on Zena Edosomwan.
+Harvard,Brown,36,34,23,15,1,JR Hobbie made Jumper. Assisted by Tavon Blackmon.
+Harvard,Brown,36,34,23,46,0,Zena Edosomwan Turnover.
+Harvard,Brown,36,34,23,47,0,JR Hobbie Steal.
+Harvard,Brown,36,37,23,57,1,Cedric Kuakumensah made Three Point Jumper. Assisted by Tavon Blackmon.
+Harvard,Brown,36,37,24,16,0,Wesley Saunders missed Three Point Jumper.
+Harvard,Brown,36,37,24,16,0,Wesley Saunders missed Three Point Jumper.
+Harvard,Brown,36,37,24,16,0,Wesley Saunders Offensive Rebound.
+Harvard,Brown,36,37,24,16,0,Wesley Saunders Offensive Rebound.
+Harvard,Brown,36,37,24,30,0,Wesley Saunders missed Layup.
+Harvard,Brown,36,37,24,30,0,Cedric Kuakumensah Block.
+Harvard,Brown,36,37,24,31,0,Harvard Offensive Rebound.
+Harvard,Brown,36,37,24,31,0,Official TV Timeout
+Harvard,Brown,36,37,24,48,0,Wesley Saunders Turnover.
+Harvard,Brown,36,37,24,49,0,Steven Spieth Steal.
+Harvard,Brown,36,39,24,53,1,Steven Spieth made Layup.
+Harvard,Brown,36,39,25,4,0,Foul on Cedric Kuakumensah.
+Harvard,Brown,36,39,25,19,0,Wesley Saunders missed Jumper.
+Harvard,Brown,36,39,25,19,0,Harvard Offensive Rebound.
+Harvard,Brown,36,39,25,19,0,Harvard Offensive Rebound.
+Harvard,Brown,36,39,25,53,0,Foul on Tavon Blackmon.
+Harvard,Brown,37,39,25,53,1,Wesley Saunders made Free Throw.
+Harvard,Brown,37,39,25,53,0,Wesley Saunders missed Free Throw.
+Harvard,Brown,37,39,25,53,0,Wesley Saunders missed Free Throw.
+Harvard,Brown,37,39,25,53,0,Steve Moundou-Missi Offensive Rebound.
+Harvard,Brown,37,39,25,53,0,Steve Moundou-Missi Offensive Rebound.
+Harvard,Brown,37,39,25,58,0,Steve Moundou-Missi Turnover.
+Harvard,Brown,37,41,26,11,1,Dockery Walker made Jumper.
+Harvard,Brown,39,41,26,22,1,Wesley Saunders made Jumper.
+Harvard,Brown,39,43,26,41,1,Tavon Blackmon made Layup.
+Harvard,Brown,41,43,26,56,1,Agunwa Okolie made Layup. Assisted by Wesley Saunders.
+Harvard,Brown,41,43,27,12,0,Dockery Walker Turnover.
+Harvard,Brown,41,43,27,12,0,Foul on Dockery Walker.
+Harvard,Brown,41,43,27,12,0,Foul on Dockery Walker.
+Harvard,Brown,43,43,27,35,1,Steve Moundou-Missi made Jumper.
+Harvard,Brown,43,43,27,48,0,Rafael Maia Turnover.
+Harvard,Brown,43,43,27,48,0,Foul on Rafael Maia.
+Harvard,Brown,43,43,28,2,0,Corbin Miller Turnover.
+Harvard,Brown,43,43,28,2,0,Corbin Miller Turnover.
+Harvard,Brown,43,43,28,2,0,Official TV Timeout
+Harvard,Brown,43,43,28,15,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,43,43,28,15,0,Steve Moundou-Missi Block.
+Harvard,Brown,43,43,28,15,0,Steve Moundou-Missi Block.
+Harvard,Brown,43,43,28,17,0,JR Hobbie Offensive Rebound.
+Harvard,Brown,43,43,28,17,0,JR Hobbie Offensive Rebound.
+Harvard,Brown,43,43,28,27,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,43,43,28,27,0,Agunwa Okolie Defensive Rebound.
+Harvard,Brown,43,43,28,27,0,Agunwa Okolie Defensive Rebound.
+Harvard,Brown,43,43,28,33,0,Foul on Tavon Blackmon.
+Harvard,Brown,43,43,28,33,0,Foul on Tavon Blackmon.
+Harvard,Brown,43,43,28,33,0,Steve Moundou-Missi missed Free Throw.
+Harvard,Brown,43,43,28,33,0,Harvard Deadball Team Rebound.
+Harvard,Brown,43,43,28,33,0,Harvard Deadball Team Rebound.
+Harvard,Brown,44,43,28,33,1,Steve Moundou-Missi made Free Throw.
+Harvard,Brown,44,43,28,56,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,44,43,28,56,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,44,45,29,1,1,Jason Massey made Layup. Assisted by Steven Spieth.
+Harvard,Brown,44,45,29,1,1,Jason Massey made Layup. Assisted by Steven Spieth.
+Harvard,Brown,44,45,29,21,0,Steve Moundou-Missi missed Layup.
+Harvard,Brown,44,45,29,21,0,Steve Moundou-Missi missed Layup.
+Harvard,Brown,44,45,29,21,0,Tavon Blackmon Defensive Rebound.
+Harvard,Brown,44,45,29,21,0,Tavon Blackmon Defensive Rebound.
+Harvard,Brown,44,45,29,29,0,Foul on Agunwa Okolie.
+Harvard,Brown,44,46,29,29,1,Steven Spieth made Free Throw.
+Harvard,Brown,44,47,29,29,1,Steven Spieth made Free Throw.
+Harvard,Brown,44,47,29,29,1,Steven Spieth made Free Throw.
+Harvard,Brown,44,47,29,41,0,Foul on Rafael Maia.
+Harvard,Brown,46,47,29,54,1,Agunwa Okolie made Layup. Assisted by Jonah Travis.
+Harvard,Brown,46,49,30,19,1,Jason Massey made Jumper. Assisted by Tavon Blackmon.
+Harvard,Brown,48,49,30,44,1,Agunwa Okolie made Layup. Assisted by Wesley Saunders.
+Harvard,Brown,48,49,30,44,1,Agunwa Okolie made Layup. Assisted by Wesley Saunders.
+Harvard,Brown,48,49,31,10,0,Cedric Kuakumensah missed Three Point Jumper.
+Harvard,Brown,48,49,31,10,0,Corbin Miller Defensive Rebound.
+Harvard,Brown,48,49,31,10,0,Corbin Miller Defensive Rebound.
+Harvard,Brown,51,49,31,48,1,Wesley Saunders made Three Point Jumper. Assisted by Corbin Miller.
+Harvard,Brown,51,49,31,48,1,Wesley Saunders made Three Point Jumper. Assisted by Corbin Miller.
+Harvard,Brown,51,49,32,0,0,Brown  Timeout
+Harvard,Brown,51,49,32,22,0,Foul on Jonah Travis.
+Harvard,Brown,51,49,32,22,0,Official TV Timeout
+Harvard,Brown,51,49,32,22,0,Foul on Jonah Travis.
+Harvard,Brown,51,49,32,22,0,Official TV Timeout
+Harvard,Brown,51,49,32,22,0,Cedric Kuakumensah missed Free Throw.
+Harvard,Brown,51,49,32,22,0,Brown Deadball Team Rebound.
+Harvard,Brown,51,49,32,22,0,Brown Deadball Team Rebound.
+Harvard,Brown,51,50,32,22,1,Cedric Kuakumensah made Free Throw.
+Harvard,Brown,51,50,32,52,0,Corbin Miller missed Three Point Jumper.
+Harvard,Brown,51,50,32,52,0,Jonah Travis Offensive Rebound.
+Harvard,Brown,51,50,32,52,0,Jonah Travis Offensive Rebound.
+Harvard,Brown,51,50,32,55,0,Foul on JR Hobbie.
+Harvard,Brown,51,50,32,55,0,Foul on JR Hobbie.
+Harvard,Brown,52,50,32,55,1,Jonah Travis made Free Throw.
+Harvard,Brown,52,50,32,55,1,Jonah Travis made Free Throw.
+Harvard,Brown,53,50,32,55,1,Jonah Travis made Free Throw.
+Harvard,Brown,53,50,32,55,1,Jonah Travis made Free Throw.
+Harvard,Brown,53,50,33,8,0,Steven Spieth missed Layup.
+Harvard,Brown,53,50,33,8,0,Steven Spieth missed Layup.
+Harvard,Brown,53,50,33,8,0,Wesley Saunders Defensive Rebound.
+Harvard,Brown,53,50,33,8,0,Wesley Saunders Defensive Rebound.
+Harvard,Brown,53,50,33,21,0,Wesley Saunders missed Layup.
+Harvard,Brown,53,50,33,21,0,Wesley Saunders missed Layup.
+Harvard,Brown,53,50,33,21,0,Jonah Travis Offensive Rebound.
+Harvard,Brown,53,50,33,22,0,Foul on Cedric Kuakumensah.
+Harvard,Brown,53,50,33,22,0,Foul on Cedric Kuakumensah.
+Harvard,Brown,54,50,33,22,1,Jonah Travis made Free Throw.
+Harvard,Brown,54,50,33,22,0,Jonah Travis missed Free Throw.
+Harvard,Brown,54,50,33,22,0,Jonah Travis missed Free Throw.
+Harvard,Brown,54,50,33,22,0,Rafael Maia Defensive Rebound.
+Harvard,Brown,54,50,33,22,0,Rafael Maia Defensive Rebound.
+Harvard,Brown,54,50,33,32,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,54,50,33,32,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,54,51,33,32,1,Cedric Kuakumensah made Free Throw.
+Harvard,Brown,54,51,33,32,1,Cedric Kuakumensah made Free Throw.
+Harvard,Brown,54,51,33,32,0,Cedric Kuakumensah missed Free Throw.
+Harvard,Brown,54,51,33,32,0,Agunwa Okolie Defensive Rebound.
+Harvard,Brown,54,51,33,52,0,Wesley Saunders missed Layup.
+Harvard,Brown,54,51,33,52,0,Harvard Offensive Rebound.
+Harvard,Brown,54,51,33,52,0,Harvard Offensive Rebound.
+Harvard,Brown,54,51,34,8,0,Wesley Saunders missed Jumper.
+Harvard,Brown,54,51,34,8,0,Evan Cummins Offensive Rebound.
+Harvard,Brown,54,51,34,8,0,Wesley Saunders missed Jumper.
+Harvard,Brown,54,51,34,8,0,Evan Cummins Offensive Rebound.
+Harvard,Brown,54,51,34,22,0,Foul on Rafael Maia.
+Harvard,Brown,55,51,34,22,1,Jonah Travis made Free Throw.
+Harvard,Brown,54,51,34,22,0,Foul on Rafael Maia.
+Harvard,Brown,55,51,34,22,1,Jonah Travis made Free Throw.
+Harvard,Brown,55,51,34,22,0,Jonah Travis missed Free Throw.
+Harvard,Brown,55,51,34,22,0,Jonah Travis missed Free Throw.
+Harvard,Brown,55,51,34,22,0,Dockery Walker Defensive Rebound.
+Harvard,Brown,55,51,34,22,0,Dockery Walker Defensive Rebound.
+Harvard,Brown,55,51,34,47,0,Tavon Blackmon missed Jumper.
+Harvard,Brown,55,51,34,47,0,Rafael Maia Offensive Rebound.
+Harvard,Brown,55,51,34,47,0,Tavon Blackmon missed Jumper.
+Harvard,Brown,55,51,34,47,0,Rafael Maia Offensive Rebound.
+Harvard,Brown,55,51,34,51,0,Rafael Maia missed Layup.
+Harvard,Brown,55,51,34,51,0,Rafael Maia missed Layup.
+Harvard,Brown,55,51,34,51,0,Rafael Maia Offensive Rebound.
+Harvard,Brown,55,51,34,51,0,Rafael Maia Offensive Rebound.
+Harvard,Brown,55,51,34,52,0,Foul on Evan Cummins.
+Harvard,Brown,55,51,34,52,0,Foul on Evan Cummins.
+Harvard,Brown,55,52,34,52,1,Rafael Maia made Free Throw.
+Harvard,Brown,55,52,34,52,1,Rafael Maia made Free Throw.
+Harvard,Brown,55,52,34,52,0,Rafael Maia missed Free Throw.
+Harvard,Brown,55,52,34,52,0,Wesley Saunders Defensive Rebound.
+Harvard,Brown,55,52,35,21,0,Wesley Saunders Turnover.
+Harvard,Brown,55,52,35,21,0,Wesley Saunders Turnover.
+Harvard,Brown,55,52,35,22,0,Dockery Walker Steal.
+Harvard,Brown,55,52,35,22,0,Dockery Walker Steal.
+Harvard,Brown,55,54,35,29,1,Dockery Walker made Layup. Assisted by Tavon Blackmon.
+Harvard,Brown,55,54,35,35,0,Harvard  Timeout
+Harvard,Brown,55,54,35,35,0,Harvard  Timeout
+Harvard,Brown,55,54,35,41,0,Corbin Miller missed Three Point Jumper.
+Harvard,Brown,55,54,35,41,0,Rafael Maia Defensive Rebound.
+Harvard,Brown,55,54,35,41,0,Rafael Maia Defensive Rebound.
+Harvard,Brown,55,54,36,3,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,55,54,36,3,0,Siyani Chambers Defensive Rebound.
+Harvard,Brown,55,54,36,3,0,JR Hobbie missed Three Point Jumper.
+Harvard,Brown,55,54,36,3,0,Siyani Chambers Defensive Rebound.
+Harvard,Brown,55,54,36,7,0,Siyani Chambers Turnover.
+Harvard,Brown,55,54,36,7,0,Siyani Chambers Turnover.
+Harvard,Brown,55,54,36,8,0,Dockery Walker Steal.
+Harvard,Brown,55,54,36,38,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,55,54,36,38,0,Official TV Timeout
+Harvard,Brown,55,54,36,38,0,Foul on Steve Moundou-Missi.
+Harvard,Brown,55,54,36,38,0,Official TV Timeout
+Harvard,Brown,55,54,36,38,0,Dockery Walker missed Free Throw.
+Harvard,Brown,55,54,36,38,0,Dockery Walker missed Free Throw.
+Harvard,Brown,55,54,36,38,0,Brown Deadball Team Rebound.
+Harvard,Brown,55,54,36,38,0,Brown Deadball Team Rebound.
+Harvard,Brown,55,55,36,38,1,Dockery Walker made Free Throw.
+Harvard,Brown,57,55,36,46,1,Wesley Saunders made Jumper.
+Harvard,Brown,57,55,36,46,1,Wesley Saunders made Jumper.
+Harvard,Brown,57,55,37,3,0,Rafael Maia missed Layup.
+Harvard,Brown,57,55,37,3,0,Jonah Travis Block.
+Harvard,Brown,57,55,37,3,0,Jonah Travis Block.
+Harvard,Brown,57,55,37,4,0,Brown Offensive Rebound.
+Harvard,Brown,57,55,37,4,0,Brown Offensive Rebound.
+Harvard,Brown,57,57,37,25,1,Tavon Blackmon made Layup.
+Harvard,Brown,57,57,37,25,1,Tavon Blackmon made Layup.
+Harvard,Brown,57,57,37,32,0,Harvard  Timeout
+Harvard,Brown,57,57,37,32,0,Harvard  Timeout
+Harvard,Brown,57,57,37,39,0,Wesley Saunders missed Layup.
+Harvard,Brown,57,57,37,39,0,Wesley Saunders missed Layup.
+Harvard,Brown,57,57,37,39,0,Cedric Kuakumensah Block.
+Harvard,Brown,57,57,37,39,0,Cedric Kuakumensah Block.
+Harvard,Brown,57,57,37,40,0,Steven Spieth Defensive Rebound.
+Harvard,Brown,57,57,37,40,0,Steven Spieth Defensive Rebound.
+Harvard,Brown,57,57,37,40,0,Foul on Wesley Saunders.
+Harvard,Brown,57,57,37,40,0,Foul on Wesley Saunders.
+Harvard,Brown,57,58,37,40,1,Steven Spieth made Free Throw.
+Harvard,Brown,57,58,37,40,1,Steven Spieth made Free Throw.
+Harvard,Brown,57,59,37,40,1,Steven Spieth made Free Throw.
+Harvard,Brown,59,59,38,2,1,Wesley Saunders made Jumper.
+Harvard,Brown,59,59,38,2,1,Wesley Saunders made Jumper.
+Harvard,Brown,59,59,38,15,0,Brown  Timeout
+Harvard,Brown,59,59,38,15,0,Brown  Timeout
+Harvard,Brown,59,59,38,17,0,Tavon Blackmon Turnover.
+Harvard,Brown,59,59,38,17,0,Tavon Blackmon Turnover.
+Harvard,Brown,59,59,38,18,0,Evan Cummins Steal.
+Harvard,Brown,59,59,38,18,0,Evan Cummins Steal.
+Harvard,Brown,59,59,38,19,0,Foul on Rafael Maia.
+Harvard,Brown,59,59,38,19,0,Foul on Rafael Maia.
+Harvard,Brown,60,59,38,19,1,Wesley Saunders made Free Throw.
+Harvard,Brown,60,59,38,19,1,Wesley Saunders made Free Throw.
+Harvard,Brown,61,59,38,19,1,Wesley Saunders made Free Throw.
+Harvard,Brown,61,59,38,19,1,Wesley Saunders made Free Throw.
+Harvard,Brown,61,59,38,38,0,Foul on Corbin Miller.
+Harvard,Brown,61,59,38,38,0,Foul on Corbin Miller.
+Harvard,Brown,61,60,38,38,1,Steven Spieth made Free Throw.
+Harvard,Brown,61,60,38,38,1,Steven Spieth made Free Throw.
+Harvard,Brown,61,61,38,38,1,Steven Spieth made Free Throw.
+Harvard,Brown,61,61,38,38,1,Steven Spieth made Free Throw.
+Harvard,Brown,61,61,38,42,0,Harvard  Timeout
+Harvard,Brown,61,61,38,42,0,Harvard  Timeout
+Harvard,Brown,61,61,39,11,0,Wesley Saunders missed Jumper.
+Harvard,Brown,61,61,39,11,0,Steven Spieth Block.
+Harvard,Brown,61,61,39,11,0,Wesley Saunders missed Jumper.
+Harvard,Brown,61,61,39,11,0,Steven Spieth Block.
+Harvard,Brown,61,61,39,12,0,Cedric Kuakumensah Defensive Rebound.
+Harvard,Brown,61,61,39,12,0,Cedric Kuakumensah Defensive Rebound.
+Harvard,Brown,61,63,39,18,1,Tavon Blackmon made Jumper.
+Harvard,Brown,61,63,39,18,1,Tavon Blackmon made Jumper.
+Harvard,Brown,61,63,39,46,0,Siyani Chambers missed Layup.
+Harvard,Brown,61,63,39,46,0,Jonah Travis Offensive Rebound.
+Harvard,Brown,61,63,39,46,0,Siyani Chambers missed Layup.
+Harvard,Brown,61,63,39,46,0,Jonah Travis Offensive Rebound.
+Harvard,Brown,61,63,39,48,0,Foul on Steven Spieth.
+Harvard,Brown,61,63,39,48,0,Foul on Steven Spieth.
+Harvard,Brown,61,63,39,48,0,Jonah Travis missed Free Throw.
+Harvard,Brown,61,63,39,48,0,Harvard Deadball Team Rebound.
+Harvard,Brown,61,63,39,48,0,Jonah Travis missed Free Throw.
+Harvard,Brown,61,63,39,48,0,Harvard Deadball Team Rebound.
+Harvard,Brown,62,63,39,48,1,Jonah Travis made Free Throw.
+Harvard,Brown,62,63,39,48,0,Brown  Timeout
+Harvard,Brown,62,63,39,48,1,Jonah Travis made Free Throw.
+Harvard,Brown,62,63,39,48,0,Brown  Timeout
+Harvard,Brown,62,63,39,50,0,Brown  Timeout
+Harvard,Brown,62,63,39,50,0,Brown  Timeout
+Harvard,Brown,62,63,39,52,0,Foul on Siyani Chambers.
+Harvard,Brown,62,63,39,52,0,Foul on Siyani Chambers.
+Harvard,Brown,62,63,39,52,0,Tavon Blackmon missed Free Throw.
+Harvard,Brown,62,63,39,52,0,Brown Deadball Team Rebound.
+Harvard,Brown,62,63,39,52,0,Tavon Blackmon missed Free Throw.
+Harvard,Brown,62,63,39,52,0,Brown Deadball Team Rebound.
+Harvard,Brown,62,64,39,52,1,Tavon Blackmon made Free Throw.
+Harvard,Brown,62,64,39,52,1,Tavon Blackmon made Free Throw.
+Harvard,Brown,62,64,39,57,0,Wesley Saunders missed Jumper.
+Harvard,Brown,62,64,39,57,0,Wesley Saunders Offensive Rebound.
+Harvard,Brown,62,64,39,57,0,Wesley Saunders missed Jumper.
+Harvard,Brown,62,64,39,57,0,Wesley Saunders Offensive Rebound.
+Harvard,Brown,64,64,39,59,1,Wesley Saunders made Layup.
+Harvard,Brown,64,64,39,59,1,Wesley Saunders made Layup.
+Harvard,Brown,64,64,40,0,0,End of 2nd half

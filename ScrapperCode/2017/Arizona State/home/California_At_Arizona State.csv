@@ -1,0 +1,315 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+California,Arizona State,0,0,0,0,0,Jump Ball won by Arizona State
+California,Arizona State,0,0,0,21,0,Torian Graham Turnover.
+California,Arizona State,0,0,0,41,0,Charlie Moore Turnover.
+California,Arizona State,0,0,0,52,0,Torian Graham missed Three Point Jumper.
+California,Arizona State,0,0,0,52,0,Kingsley Okoroh Defensive Rebound.
+California,Arizona State,0,0,1,4,0,Kingsley Okoroh missed Layup.
+California,Arizona State,0,0,1,4,0,Torian Graham Defensive Rebound.
+California,Arizona State,0,0,1,8,0,Foul on Kingsley Okoroh.
+California,Arizona State,0,0,1,26,0,Tra Holder missed Jumper.
+California,Arizona State,0,0,1,26,0,Charlie Moore Defensive Rebound.
+California,Arizona State,2,0,1,33,1,Charlie Moore made Layup.
+California,Arizona State,2,0,1,45,0,Kodi Justice missed Three Point Jumper.
+California,Arizona State,2,0,1,50,0,Obinna Oleka Offensive Rebound.
+California,Arizona State,2,0,2,15,0,Obinna Oleka missed Three Point Jumper.
+California,Arizona State,2,0,2,15,0,Jabari Bird Defensive Rebound.
+California,Arizona State,5,0,2,35,1,Grant Mullins made Three Point Jumper. Assisted by Charlie Moore.
+California,Arizona State,5,2,2,52,1,Shannon Evans II made Layup.
+California,Arizona State,5,2,3,21,0,Jabari Bird missed Three Point Jumper.
+California,Arizona State,5,2,3,21,0,Obinna Oleka Defensive Rebound.
+California,Arizona State,5,2,3,41,0,Tra Holder Turnover.
+California,Arizona State,7,2,4,2,1,Ivan Rabb made Layup.
+California,Arizona State,7,2,4,22,0,Tra Holder missed Jumper.
+California,Arizona State,7,2,4,22,0,Ivan Rabb Defensive Rebound.
+California,Arizona State,7,2,4,32,0,Charlie Moore missed Jumper.
+California,Arizona State,7,2,4,32,0,Shannon Evans II Defensive Rebound.
+California,Arizona State,7,4,4,42,1,Shannon Evans II made Layup.
+California,Arizona State,7,4,5,2,0,Charlie Moore missed Three Point Jumper.
+California,Arizona State,7,4,5,2,0,Ivan Rabb Offensive Rebound.
+California,Arizona State,7,4,5,8,0,Ivan Rabb missed Layup.
+California,Arizona State,7,4,5,8,0,Ivan Rabb Offensive Rebound.
+California,Arizona State,7,4,5,8,0,Ivan Rabb Turnover.
+California,Arizona State,7,4,5,8,0,Shannon Evans II Steal.
+California,Arizona State,7,4,5,18,0,Foul on Charlie Moore.
+California,Arizona State,7,4,5,18,0,Official TV Timeout
+California,Arizona State,7,4,5,40,0,Obinna Oleka missed Three Point Jumper.
+California,Arizona State,7,4,5,40,0,Jabari Bird Defensive Rebound.
+California,Arizona State,7,4,5,55,0,Grant Mullins Turnover.
+California,Arizona State,7,4,5,55,0,Kodi Justice Steal.
+California,Arizona State,7,4,6,1,0,Shannon Evans II missed Three Point Jumper.
+California,Arizona State,7,4,6,1,0,Kameron Rooks Defensive Rebound.
+California,Arizona State,9,4,6,18,1,Kameron Rooks made Layup. Assisted by Stephen Domingo.
+California,Arizona State,9,4,6,43,0,Torian Graham missed Three Point Jumper.
+California,Arizona State,9,4,6,43,0,Grant Mullins Defensive Rebound.
+California,Arizona State,11,4,6,59,1,Sam Singer made Layup. Assisted by Grant Mullins.
+California,Arizona State,11,4,7,28,0,Shannon Evans II Turnover.
+California,Arizona State,11,4,7,40,0,Jabari Bird Turnover.
+California,Arizona State,11,7,8,2,1,Kodi Justice made Three Point Jumper. Assisted by Torian Graham.
+California,Arizona State,11,7,8,29,0,Stephen Domingo missed Three Point Jumper.
+California,Arizona State,11,7,8,29,0,Arizona State Defensive Rebound.
+California,Arizona State,11,7,8,35,0,Official TV Timeout
+California,Arizona State,11,9,8,46,1,Tra Holder made Layup.
+California,Arizona State,14,9,9,12,1,Charlie Moore made Three Point Jumper. Assisted by Sam Singer.
+California,Arizona State,14,9,9,35,0,Tra Holder missed Jumper.
+California,Arizona State,14,9,9,35,0,Grant Mullins Defensive Rebound.
+California,Arizona State,14,9,9,45,0,Foul on Charlie Moore.
+California,Arizona State,14,9,9,45,0,Charlie Moore Turnover.
+California,Arizona State,14,11,10,9,1,Ramon Vila made Layup. Assisted by Obinna Oleka.
+California,Arizona State,14,11,10,33,0,Grant Mullins Turnover.
+California,Arizona State,14,11,10,44,0,Tra Holder missed Jumper.
+California,Arizona State,14,11,10,44,0,Ramon Vila Offensive Rebound.
+California,Arizona State,14,13,10,51,1,Torian Graham made Layup. Assisted by Obinna Oleka.
+California,Arizona State,14,13,11,16,0,Foul on Kameron Rooks.
+California,Arizona State,14,13,11,16,0,Kameron Rooks Turnover.
+California,Arizona State,14,13,11,35,0,Torian Graham Turnover.
+California,Arizona State,14,13,11,53,0,Foul on Stephen Domingo.
+California,Arizona State,14,13,11,53,0,Stephen Domingo Turnover.
+California,Arizona State,14,13,12,3,0,Obinna Oleka missed Jumper.
+California,Arizona State,14,13,12,3,0,Stephen Domingo Block.
+California,Arizona State,14,13,12,3,0,Jabari Bird Defensive Rebound.
+California,Arizona State,14,13,12,18,0,Foul on Ramon Vila.
+California,Arizona State,14,13,12,18,0,Official TV Timeout
+California,Arizona State,14,13,12,18,0,Grant Mullins Turnover.
+California,Arizona State,14,13,12,18,0,Kodi Justice Steal.
+California,Arizona State,14,15,12,30,1,Shannon Evans II made Layup. Assisted by Kodi Justice.
+California,Arizona State,17,15,12,44,1,Jabari Bird made Three Point Jumper. Assisted by Ivan Rabb.
+California,Arizona State,17,15,13,3,0,Shannon Evans II Turnover.
+California,Arizona State,17,15,13,3,0,Jabari Bird Steal.
+California,Arizona State,17,15,13,9,0,Foul on Kodi Justice.
+California,Arizona State,17,15,13,10,0,Kameron Rooks missed Layup.
+California,Arizona State,17,15,13,10,0,Ramon Vila Block.
+California,Arizona State,17,15,13,10,0,Obinna Oleka Defensive Rebound.
+California,Arizona State,17,15,13,29,0,Torian Graham missed Jumper.
+California,Arizona State,17,15,13,29,0,Obinna Oleka Offensive Rebound.
+California,Arizona State,17,15,13,33,0,Foul on Kameron Rooks.
+California,Arizona State,17,16,13,33,1,Obinna Oleka made Free Throw.
+California,Arizona State,17,17,13,33,1,Obinna Oleka made Free Throw.
+California,Arizona State,17,17,13,41,0,Don Coleman missed Jumper.
+California,Arizona State,17,17,13,52,0,Kingsley Okoroh Offensive Rebound.
+California,Arizona State,17,17,13,52,0,Don Coleman Turnover.
+California,Arizona State,17,17,13,52,0,Kodi Justice Steal.
+California,Arizona State,17,17,13,52,0,Arizona State  Timeout
+California,Arizona State,17,17,14,5,0,Obinna Oleka missed Layup.
+California,Arizona State,17,17,14,5,0,Kingsley Okoroh Block.
+California,Arizona State,17,17,14,5,0,Jabari Bird Defensive Rebound.
+California,Arizona State,17,17,14,15,0,Foul on Obinna Oleka.
+California,Arizona State,18,17,14,15,1,Ivan Rabb made Free Throw.
+California,Arizona State,19,17,14,15,1,Ivan Rabb made Free Throw.
+California,Arizona State,19,17,14,19,0,Foul on Don Coleman.
+California,Arizona State,19,17,14,19,0,Kodi Justice missed Free Throw.
+California,Arizona State,19,17,14,19,0,Ivan Rabb Defensive Rebound.
+California,Arizona State,19,17,14,35,0,Jabari Bird missed Three Point Jumper.
+California,Arizona State,19,17,14,35,0,Shannon Evans II Defensive Rebound.
+California,Arizona State,19,17,15,5,0,Shannon Evans II missed Three Point Jumper.
+California,Arizona State,19,17,15,5,0,Ivan Rabb Defensive Rebound.
+California,Arizona State,22,17,15,23,1,Grant Mullins made Three Point Jumper. Assisted by Jabari Bird.
+California,Arizona State,22,17,15,43,0,Foul on Ivan Rabb.
+California,Arizona State,22,17,15,43,0,Shannon Evans II missed Free Throw.
+California,Arizona State,22,17,15,43,0,Arizona State Deadball Team Rebound.
+California,Arizona State,22,17,15,43,0,Shannon Evans II missed Free Throw.
+California,Arizona State,22,17,15,43,0,Stephen Domingo Defensive Rebound.
+California,Arizona State,22,17,16,9,0,Ivan Rabb missed Layup.
+California,Arizona State,22,17,16,9,0,Ivan Rabb Offensive Rebound.
+California,Arizona State,24,17,16,9,1,Ivan Rabb made Two Point Tip Shot.
+California,Arizona State,24,17,16,31,0,Shannon Evans II missed Three Point Jumper.
+California,Arizona State,24,17,16,31,0,Ivan Rabb Defensive Rebound.
+California,Arizona State,24,17,16,48,0,Ivan Rabb Turnover.
+California,Arizona State,24,17,16,49,0,Official TV Timeout
+California,Arizona State,24,17,17,3,0,Kodi Justice missed Jumper.
+California,Arizona State,24,17,17,3,0,Stephen Domingo Defensive Rebound.
+California,Arizona State,26,17,17,16,1,Stephen Domingo made Layup. Assisted by Ivan Rabb.
+California,Arizona State,26,17,17,27,0,Obinna Oleka missed Layup.
+California,Arizona State,26,17,17,27,0,Obinna Oleka Offensive Rebound.
+California,Arizona State,26,17,17,32,0,Obinna Oleka missed Layup.
+California,Arizona State,26,17,17,32,0,Jabari Bird Defensive Rebound.
+California,Arizona State,28,17,17,49,1,Ivan Rabb made Layup. Assisted by Jabari Bird.
+California,Arizona State,28,17,18,16,0,Shannon Evans II missed Three Point Jumper.
+California,Arizona State,28,17,18,16,0,California Defensive Rebound.
+California,Arizona State,28,17,18,42,0,Jabari Bird missed Three Point Jumper.
+California,Arizona State,28,17,18,42,0,Ramon Vila Defensive Rebound.
+California,Arizona State,28,17,18,54,0,Kodi Justice missed Three Point Jumper.
+California,Arizona State,28,17,18,54,0,Stephen Domingo Defensive Rebound.
+California,Arizona State,28,17,19,10,0,California  Timeout
+California,Arizona State,28,17,19,28,0,Sam Singer missed Three Point Jumper.
+California,Arizona State,28,17,19,28,0,Tra Holder Defensive Rebound.
+California,Arizona State,28,17,19,35,0,Tra Holder missed Layup.
+California,Arizona State,28,17,19,35,0,Stephen Domingo Block.
+California,Arizona State,28,17,19,35,0,Arizona State Offensive Rebound.
+California,Arizona State,28,17,19,53,0,Torian Graham missed Jumper.
+California,Arizona State,28,17,19,53,0,Sam Singer Defensive Rebound.
+California,Arizona State,28,17,20,0,0,End of 1st half
+California,Arizona State,28,17,20,0,0,Jump Ball won by California
+California,Arizona State,31,17,20,9,1,Grant Mullins made Three Point Jumper. Assisted by Charlie Moore.
+California,Arizona State,31,17,20,25,0,Torian Graham missed Three Point Jumper.
+California,Arizona State,31,17,20,25,0,Jabari Bird Defensive Rebound.
+California,Arizona State,31,17,20,39,0,Foul on Shannon Evans II.
+California,Arizona State,31,17,20,39,0,Kingsley Okoroh missed Free Throw.
+California,Arizona State,31,17,20,39,0,California Deadball Team Rebound.
+California,Arizona State,32,17,20,39,1,Kingsley Okoroh made Free Throw.
+California,Arizona State,32,17,20,51,0,Torian Graham missed Three Point Jumper.
+California,Arizona State,32,17,20,51,0,Kingsley Okoroh Defensive Rebound.
+California,Arizona State,32,17,21,17,0,Jabari Bird missed Three Point Jumper.
+California,Arizona State,32,17,21,17,0,Obinna Oleka Defensive Rebound.
+California,Arizona State,32,17,21,31,0,Shannon Evans II missed Layup.
+California,Arizona State,32,17,21,31,0,Kingsley Okoroh Block.
+California,Arizona State,32,17,21,31,0,Grant Mullins Defensive Rebound.
+California,Arizona State,32,17,21,51,0,Charlie Moore missed Jumper.
+California,Arizona State,32,17,21,51,0,Kodi Justice Defensive Rebound.
+California,Arizona State,32,17,22,2,0,Torian Graham missed Jumper.
+California,Arizona State,32,17,22,6,0,Obinna Oleka Offensive Rebound.
+California,Arizona State,32,17,22,6,0,Foul on Ivan Rabb.
+California,Arizona State,32,17,22,6,0,Obinna Oleka missed Free Throw.
+California,Arizona State,32,17,22,6,0,Arizona State Deadball Team Rebound.
+California,Arizona State,32,18,22,6,1,Obinna Oleka made Free Throw.
+California,Arizona State,32,18,22,30,0,Foul on Kodi Justice.
+California,Arizona State,32,18,22,30,0,Ivan Rabb missed Free Throw.
+California,Arizona State,32,18,22,30,0,California Deadball Team Rebound.
+California,Arizona State,33,18,22,30,1,Ivan Rabb made Free Throw.
+California,Arizona State,33,18,22,37,0,Obinna Oleka missed Jumper.
+California,Arizona State,33,18,22,37,0,Ivan Rabb Defensive Rebound.
+California,Arizona State,35,18,22,57,1,Ivan Rabb made Layup.
+California,Arizona State,35,18,23,13,0,Shannon Evans II missed Layup.
+California,Arizona State,35,18,23,13,0,Obinna Oleka Offensive Rebound.
+California,Arizona State,35,20,23,18,1,Obinna Oleka made Layup.
+California,Arizona State,37,20,23,31,1,Charlie Moore made Layup.
+California,Arizona State,37,20,23,45,0,Tra Holder missed Three Point Jumper.
+California,Arizona State,37,20,23,45,0,Kingsley Okoroh Defensive Rebound.
+California,Arizona State,37,20,24,8,0,Charlie Moore Turnover.
+California,Arizona State,37,20,24,8,0,Shannon Evans II Steal.
+California,Arizona State,37,22,24,13,1,Obinna Oleka made Dunk. Assisted by Shannon Evans II.
+California,Arizona State,37,22,24,21,0,Official TV Timeout
+California,Arizona State,37,22,24,43,0,Sam Singer Turnover.
+California,Arizona State,37,22,24,43,0,Shannon Evans II Steal.
+California,Arizona State,37,22,24,52,0,Foul on Stephen Domingo.
+California,Arizona State,37,23,24,52,1,Shannon Evans II made Free Throw.
+California,Arizona State,37,24,24,52,1,Shannon Evans II made Free Throw.
+California,Arizona State,40,24,25,15,1,Grant Mullins made Three Point Jumper. Assisted by Stephen Domingo.
+California,Arizona State,40,24,25,45,0,Torian Graham missed Jumper.
+California,Arizona State,40,24,25,45,0,Grant Mullins Defensive Rebound.
+California,Arizona State,40,24,26,6,0,Foul on Ramon Vila.
+California,Arizona State,41,24,26,6,1,Kameron Rooks made Free Throw.
+California,Arizona State,41,24,26,6,0,Kameron Rooks missed Free Throw.
+California,Arizona State,41,24,26,6,0,Obinna Oleka Defensive Rebound.
+California,Arizona State,41,26,26,16,1,Obinna Oleka made Dunk. Assisted by Shannon Evans II.
+California,Arizona State,41,26,26,42,0,Stephen Domingo missed Three Point Jumper.
+California,Arizona State,41,26,26,42,0,Jabari Bird Offensive Rebound.
+California,Arizona State,43,26,26,48,1,Jabari Bird made Layup.
+California,Arizona State,43,26,26,55,0,Shannon Evans II missed Three Point Jumper.
+California,Arizona State,43,26,26,55,0,Stephen Domingo Defensive Rebound.
+California,Arizona State,43,26,27,10,0,Ivan Rabb missed Jumper.
+California,Arizona State,43,26,27,10,0,Arizona State Defensive Rebound.
+California,Arizona State,43,26,27,13,0,Foul on Kameron Rooks.
+California,Arizona State,43,26,27,17,0,Foul on Ivan Rabb.
+California,Arizona State,43,26,27,19,0,Torian Graham missed Three Point Jumper.
+California,Arizona State,43,26,27,19,0,Stephen Domingo Defensive Rebound.
+California,Arizona State,46,26,27,26,1,Grant Mullins made Three Point Jumper. Assisted by Charlie Moore.
+California,Arizona State,46,26,27,45,0,Obinna Oleka missed Jumper.
+California,Arizona State,46,26,27,45,0,Grant Mullins Defensive Rebound.
+California,Arizona State,46,26,28,4,0,Foul on Kodi Justice.
+California,Arizona State,46,26,28,4,0,Official TV Timeout
+California,Arizona State,47,26,28,4,1,Charlie Moore made Free Throw.
+California,Arizona State,48,26,28,4,1,Charlie Moore made Free Throw.
+California,Arizona State,48,26,28,19,0,Kodi Justice missed Jumper.
+California,Arizona State,48,26,28,19,0,Obinna Oleka Offensive Rebound.
+California,Arizona State,48,26,28,23,0,Obinna Oleka missed Layup.
+California,Arizona State,48,26,28,23,0,Stephen Domingo Defensive Rebound.
+California,Arizona State,48,26,28,49,0,Charlie Moore missed Three Point Jumper.
+California,Arizona State,48,26,28,49,0,Tra Holder Defensive Rebound.
+California,Arizona State,48,26,28,58,0,Shannon Evans II Turnover.
+California,Arizona State,48,26,28,58,0,Charlie Moore Steal.
+California,Arizona State,50,26,29,3,1,Charlie Moore made Layup.
+California,Arizona State,50,29,29,9,1,Kodi Justice made Three Point Jumper. Assisted by Tra Holder.
+California,Arizona State,50,29,29,26,0,Kameron Rooks missed Layup.
+California,Arizona State,50,29,29,26,0,Kameron Rooks Offensive Rebound.
+California,Arizona State,52,29,29,26,1,Kameron Rooks made Two Point Tip Shot.
+California,Arizona State,52,29,29,47,0,Foul on Charlie Moore.
+California,Arizona State,52,29,29,53,0,Torian Graham missed Three Point Jumper.
+California,Arizona State,52,29,29,53,0,Tra Holder Offensive Rebound.
+California,Arizona State,52,31,29,58,1,Tra Holder made Layup.
+California,Arizona State,55,31,30,13,1,Grant Mullins made Three Point Jumper. Assisted by Jabari Bird.
+California,Arizona State,55,34,30,26,1,Kodi Justice made Three Point Jumper. Assisted by Shannon Evans II.
+California,Arizona State,55,34,30,53,0,Kingsley Okoroh missed Layup.
+California,Arizona State,55,34,30,53,0,Ivan Rabb Offensive Rebound.
+California,Arizona State,57,34,30,58,1,Ivan Rabb made Dunk.
+California,Arizona State,57,34,31,20,0,Tra Holder missed Layup.
+California,Arizona State,57,34,31,20,0,Grant Mullins Defensive Rebound.
+California,Arizona State,57,34,31,45,0,Jabari Bird missed Three Point Jumper.
+California,Arizona State,57,34,31,45,0,Obinna Oleka Defensive Rebound.
+California,Arizona State,57,34,31,55,0,Foul on Grant Mullins.
+California,Arizona State,57,34,32,2,0,Torian Graham missed Three Point Jumper.
+California,Arizona State,57,34,32,2,0,Ivan Rabb Block.
+California,Arizona State,57,34,32,2,0,Kingsley Okoroh Defensive Rebound.
+California,Arizona State,59,34,32,19,1,Kingsley Okoroh made Dunk. Assisted by Ivan Rabb.
+California,Arizona State,59,34,32,36,0,Torian Graham missed Three Point Jumper.
+California,Arizona State,59,34,32,36,0,Charlie Moore Defensive Rebound.
+California,Arizona State,59,34,32,51,0,Foul on Kingsley Okoroh.
+California,Arizona State,59,34,32,51,0,Kingsley Okoroh Turnover.
+California,Arizona State,59,34,32,51,0,Official TV Timeout
+California,Arizona State,59,34,33,3,0,Foul on Jabari Bird.
+California,Arizona State,59,34,33,3,0,Obinna Oleka missed Free Throw.
+California,Arizona State,59,34,33,3,0,Arizona State Deadball Team Rebound.
+California,Arizona State,59,35,33,3,1,Obinna Oleka made Free Throw.
+California,Arizona State,59,35,33,3,0,California  Timeout
+California,Arizona State,59,35,33,6,0,Ivan Rabb Turnover.
+California,Arizona State,59,37,33,10,1,Tra Holder made Jumper.
+California,Arizona State,59,37,33,19,0,Foul on Shannon Evans II.
+California,Arizona State,59,37,33,40,0,Grant Mullins missed Three Point Jumper.
+California,Arizona State,59,37,33,40,0,Ivan Rabb Offensive Rebound.
+California,Arizona State,59,37,33,44,0,Grant Mullins missed Three Point Jumper.
+California,Arizona State,59,37,33,44,0,Ivan Rabb Offensive Rebound.
+California,Arizona State,59,37,33,49,0,Foul on Kodi Justice.
+California,Arizona State,59,37,34,6,0,Grant Mullins missed Three Point Jumper.
+California,Arizona State,59,37,34,6,0,Torian Graham Defensive Rebound.
+California,Arizona State,59,37,34,21,0,Shannon Evans II missed Three Point Jumper.
+California,Arizona State,59,37,34,21,0,Jabari Bird Defensive Rebound.
+California,Arizona State,59,37,34,49,0,Ivan Rabb Turnover.
+California,Arizona State,59,37,34,49,0,Tra Holder Steal.
+California,Arizona State,59,37,34,52,0,Foul on Grant Mullins.
+California,Arizona State,59,38,34,52,1,Tra Holder made Free Throw.
+California,Arizona State,59,39,34,52,1,Tra Holder made Free Throw.
+California,Arizona State,61,39,35,15,1,Jabari Bird made Layup. Assisted by Kameron Rooks.
+California,Arizona State,61,39,35,26,0,Shannon Evans II Turnover.
+California,Arizona State,61,39,35,26,0,Ivan Rabb Steal.
+California,Arizona State,61,39,35,26,0,Foul on Shannon Evans II.
+California,Arizona State,62,39,35,26,1,Ivan Rabb made Free Throw.
+California,Arizona State,62,39,35,26,0,Ivan Rabb missed Free Throw.
+California,Arizona State,62,39,35,26,0,Obinna Oleka Defensive Rebound.
+California,Arizona State,62,39,35,44,0,Kodi Justice Turnover.
+California,Arizona State,62,39,35,44,0,Ivan Rabb Steal.
+California,Arizona State,64,39,36,3,1,Jabari Bird made Jumper.
+California,Arizona State,64,39,36,16,0,Torian Graham missed Three Point Jumper.
+California,Arizona State,64,39,36,16,0,Obinna Oleka Offensive Rebound.
+California,Arizona State,64,39,36,22,0,Foul on Jabari Bird.
+California,Arizona State,64,39,36,22,0,Official TV Timeout
+California,Arizona State,64,40,36,22,1,Obinna Oleka made Free Throw.
+California,Arizona State,64,41,36,22,1,Obinna Oleka made Free Throw.
+California,Arizona State,64,41,36,42,0,Kameron Rooks missed Layup.
+California,Arizona State,64,41,36,42,0,Kameron Rooks Offensive Rebound.
+California,Arizona State,66,41,36,46,1,Kameron Rooks made Layup.
+California,Arizona State,66,41,37,15,0,Obinna Oleka Turnover.
+California,Arizona State,66,41,37,15,0,Grant Mullins Steal.
+California,Arizona State,66,41,37,34,0,Kameron Rooks Turnover.
+California,Arizona State,66,41,37,44,0,Obinna Oleka missed Layup.
+California,Arizona State,66,41,37,44,0,Kameron Rooks Defensive Rebound.
+California,Arizona State,66,41,37,58,0,Kameron Rooks missed Layup.
+California,Arizona State,66,41,37,58,0,Sam Singer Offensive Rebound.
+California,Arizona State,68,41,37,58,1,Sam Singer made Two Point Tip Shot.
+California,Arizona State,68,41,38,14,0,Tra Holder missed Three Point Jumper.
+California,Arizona State,68,41,38,14,0,Kameron Rooks Defensive Rebound.
+California,Arizona State,68,41,38,27,0,California  Timeout
+California,Arizona State,68,41,38,33,0,Cole Welle missed Layup.
+California,Arizona State,68,41,38,33,0,Obinna Oleka Block.
+California,Arizona State,68,41,38,33,0,Cole Welle Offensive Rebound.
+California,Arizona State,68,41,38,42,0,Cole Welle missed Layup.
+California,Arizona State,68,41,38,42,0,Obinna Oleka Block.
+California,Arizona State,68,41,38,42,0,Shannon Evans II Defensive Rebound.
+California,Arizona State,68,43,38,45,1,Shannon Evans II made Layup.
+California,Arizona State,68,43,39,2,0,Stephen Domingo missed Three Point Jumper.
+California,Arizona State,68,43,39,2,0,Tra Holder Defensive Rebound.
+California,Arizona State,68,43,39,11,0,Kodi Justice missed Three Point Jumper.
+California,Arizona State,68,43,39,11,0,Roman Davis Defensive Rebound.
+California,Arizona State,68,43,39,30,0,Nick Hamilton missed Three Point Jumper.
+California,Arizona State,68,43,39,30,0,Kodi Justice Block.
+California,Arizona State,68,43,39,30,0,Obinna Oleka Defensive Rebound.
+California,Arizona State,68,43,40,0,0,End of Game

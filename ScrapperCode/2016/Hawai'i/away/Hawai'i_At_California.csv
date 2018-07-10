@@ -1,0 +1,335 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Hawai'i,California,0,0,0,0,0,Jump Ball won by California
+Hawai'i,California,0,0,0,18,0,Ivan Rabb missed Jumper.
+Hawai'i,California,0,0,0,18,0,Michael Thomas Defensive Rebound.
+Hawai'i,California,0,0,0,32,0,Roderick Bobbitt missed Three Point Jumper.
+Hawai'i,California,0,0,0,32,0,Sam Singer Defensive Rebound.
+Hawai'i,California,0,0,0,41,0,Foul on Jaylen Brown.
+Hawai'i,California,0,0,0,41,0,Jaylen Brown Turnover.
+Hawai'i,California,2,0,1,2,1,Roderick Bobbitt made Jumper.
+Hawai'i,California,2,0,1,26,0,Jaylen Brown Turnover.
+Hawai'i,California,2,0,1,44,0,Stefan Jankovic missed Jumper.
+Hawai'i,California,2,0,1,44,0,Ivan Rabb Defensive Rebound.
+Hawai'i,California,2,2,2,6,1,Jordan Mathews made Layup.
+Hawai'i,California,2,2,2,21,0,Foul on Sam Singer.
+Hawai'i,California,2,2,2,24,0,Aaron Valdes missed Jumper.
+Hawai'i,California,2,2,2,24,0,Jordan Mathews Defensive Rebound.
+Hawai'i,California,2,4,2,36,1,Jordan Mathews made Layup.
+Hawai'i,California,2,4,2,55,0,Roderick Bobbitt missed Jumper.
+Hawai'i,California,2,4,2,55,0,Ivan Rabb Block.
+Hawai'i,California,2,4,2,55,0,Jaylen Brown Defensive Rebound.
+Hawai'i,California,2,6,3,1,1,Jaylen Brown made Layup.
+Hawai'i,California,2,6,3,15,0,Foul on Jordan Mathews.
+Hawai'i,California,4,6,3,20,1,Stefan Jankovic made Layup.
+Hawai'i,California,4,6,3,32,0,Jordan Mathews missed Three Point Jumper.
+Hawai'i,California,4,6,3,32,0,Michael Thomas Defensive Rebound.
+Hawai'i,California,4,6,3,47,0,Quincy Smith Turnover.
+Hawai'i,California,4,6,4,1,0,Foul on Michael Thomas.
+Hawai'i,California,4,6,4,1,0,Official TV Timeout
+Hawai'i,California,4,8,4,10,1,Sam Singer made Layup.
+Hawai'i,California,4,8,4,10,0,Foul on Michael Thomas.
+Hawai'i,California,4,8,4,10,0,Sam Singer missed Free Throw.
+Hawai'i,California,4,8,4,10,0,Stefan Jankovic Defensive Rebound.
+Hawai'i,California,6,8,4,25,1,Stefan Jankovic made Layup.
+Hawai'i,California,6,8,4,37,0,Foul on Stefan Jankovic.
+Hawai'i,California,6,8,4,37,0,Kingsley Okoroh missed Free Throw.
+Hawai'i,California,6,8,4,37,0,California Deadball Team Rebound.
+Hawai'i,California,6,9,4,37,1,Kingsley Okoroh made Free Throw.
+Hawai'i,California,8,9,4,43,1,Stefan Jankovic made Layup. Assisted by Aaron Valdes.
+Hawai'i,California,8,9,4,55,0,Foul on Aaron Valdes.
+Hawai'i,California,8,10,4,55,1,Jordan Mathews made Free Throw.
+Hawai'i,California,8,11,4,55,1,Jordan Mathews made Free Throw.
+Hawai'i,California,8,11,5,4,0,Sai Tummala missed Three Point Jumper.
+Hawai'i,California,8,11,5,4,0,Hawaii Offensive Rebound.
+Hawai'i,California,8,11,5,6,0,Foul on Kameron Rooks.
+Hawai'i,California,8,11,5,19,0,Sai Tummala Turnover.
+Hawai'i,California,8,11,5,31,0,Jaylen Brown Turnover.
+Hawai'i,California,10,11,5,41,1,Aaron Valdes made Jumper.
+Hawai'i,California,10,11,5,57,0,Foul on Quincy Smith.
+Hawai'i,California,10,11,6,19,0,Roger Moute a Bidias missed Jumper.
+Hawai'i,California,10,11,6,19,0,Kameron Rooks Offensive Rebound.
+Hawai'i,California,10,11,6,24,0,Kameron Rooks missed Layup.
+Hawai'i,California,10,11,6,24,0,Roderick Bobbitt Defensive Rebound.
+Hawai'i,California,10,11,6,32,0,Stefan Jovanovic missed Jumper.
+Hawai'i,California,10,11,6,32,0,Roger Moute a Bidias Defensive Rebound.
+Hawai'i,California,10,11,6,50,0,Foul on Aaron Valdes.
+Hawai'i,California,10,11,6,52,0,Sam Singer missed Three Point Jumper.
+Hawai'i,California,10,11,6,52,0,California Offensive Rebound.
+Hawai'i,California,10,11,6,53,0,Foul on Sai Tummala.
+Hawai'i,California,10,12,6,53,1,Roger Moute a Bidias made Free Throw.
+Hawai'i,California,10,13,6,53,1,Roger Moute a Bidias made Free Throw.
+Hawai'i,California,10,13,7,15,0,Quincy Smith Turnover.
+Hawai'i,California,10,13,7,28,0,Sam Singer Turnover.
+Hawai'i,California,10,13,7,28,0,Sai Tummala Steal.
+Hawai'i,California,12,13,7,37,1,Sai Tummala made Layup. Assisted by Sheriff Drammeh.
+Hawai'i,California,12,13,8,2,0,Kameron Rooks Turnover.
+Hawai'i,California,12,13,8,2,0,Official TV Timeout
+Hawai'i,California,14,13,8,19,1,Roderick Bobbitt made Jumper.
+Hawai'i,California,14,13,8,44,0,Foul on Stefan Jovanovic.
+Hawai'i,California,14,13,8,44,0,Kingsley Okoroh missed Free Throw.
+Hawai'i,California,14,13,8,44,0,Sai Tummala Defensive Rebound.
+Hawai'i,California,16,13,9,8,1,Stefan Jovanovic made Jumper.
+Hawai'i,California,16,15,9,31,1,Kingsley Okoroh made Layup.
+Hawai'i,California,16,15,9,45,0,Foul on Sam Singer.
+Hawai'i,California,18,15,9,56,1,Stefan Jankovic made Jumper. Assisted by Roderick Bobbitt.
+Hawai'i,California,18,15,10,19,0,Ivan Rabb missed Jumper.
+Hawai'i,California,18,15,10,19,0,Stefan Jankovic Block.
+Hawai'i,California,18,15,10,19,0,Stefan Jankovic Defensive Rebound.
+Hawai'i,California,18,15,10,29,0,Roderick Bobbitt missed Three Point Jumper.
+Hawai'i,California,18,15,10,29,0,Ivan Rabb Defensive Rebound.
+Hawai'i,California,18,15,10,38,0,Foul on Jaylen Brown.
+Hawai'i,California,18,15,10,38,0,Jaylen Brown Turnover.
+Hawai'i,California,18,15,10,49,0,Foul on Ivan Rabb.
+Hawai'i,California,19,15,10,49,1,Stefan Jankovic made Free Throw.
+Hawai'i,California,20,15,10,49,1,Stefan Jankovic made Free Throw.
+Hawai'i,California,20,17,11,7,1,Ivan Rabb made Layup.
+Hawai'i,California,22,17,11,25,1,Quincy Smith made Layup.
+Hawai'i,California,22,20,11,50,1,Jordan Mathews made Three Point Jumper. Assisted by Brandon Chauca.
+Hawai'i,California,22,20,12,4,0,Stefan Jovanovic missed Jumper.
+Hawai'i,California,22,20,12,4,0,Ivan Rabb Defensive Rebound.
+Hawai'i,California,22,20,12,10,0,Foul on Brandon Chauca.
+Hawai'i,California,22,20,12,10,0,Brandon Chauca Turnover.
+Hawai'i,California,22,20,12,10,0,Official TV Timeout
+Hawai'i,California,22,20,12,10,0,Sheriff Drammeh missed Free Throw.
+Hawai'i,California,22,20,12,15,0,Kingsley Okoroh Defensive Rebound.
+Hawai'i,California,22,20,12,22,0,Ivan Rabb missed Jumper.
+Hawai'i,California,22,20,12,22,0,Roderick Bobbitt Defensive Rebound.
+Hawai'i,California,25,20,12,36,1,Roderick Bobbitt made Three Point Jumper. Assisted by Stefan Jankovic.
+Hawai'i,California,25,20,12,54,0,Jordan Mathews missed Three Point Jumper.
+Hawai'i,California,25,20,12,54,0,Stefan Jankovic Defensive Rebound.
+Hawai'i,California,27,20,13,4,1,Quincy Smith made Jumper.
+Hawai'i,California,27,20,13,6,0,California  Timeout
+Hawai'i,California,27,22,13,14,1,Ivan Rabb made Jumper.
+Hawai'i,California,27,22,13,50,0,Stefan Jankovic missed Three Point Jumper.
+Hawai'i,California,27,22,13,50,0,Quincy Smith Offensive Rebound.
+Hawai'i,California,27,22,13,56,0,Foul on Jordan Mathews.
+Hawai'i,California,28,22,13,56,1,Quincy Smith made Free Throw.
+Hawai'i,California,29,22,13,56,1,Quincy Smith made Free Throw.
+Hawai'i,California,29,22,14,6,0,Foul on Sheriff Drammeh.
+Hawai'i,California,29,23,14,6,1,Roger Moute a Bidias made Free Throw.
+Hawai'i,California,29,23,14,6,0,Roger Moute a Bidias missed Free Throw.
+Hawai'i,California,29,23,14,6,0,Sheriff Drammeh Defensive Rebound.
+Hawai'i,California,29,23,14,31,0,Quincy Smith missed Layup.
+Hawai'i,California,29,23,14,31,0,Sam Singer Defensive Rebound.
+Hawai'i,California,29,23,14,40,0,Roger Moute a Bidias missed Three Point Jumper.
+Hawai'i,California,29,23,14,40,0,Stefan Jankovic Defensive Rebound.
+Hawai'i,California,29,23,14,47,0,Stefan Jankovic missed Three Point Jumper.
+Hawai'i,California,29,23,14,47,0,Ivan Rabb Defensive Rebound.
+Hawai'i,California,29,23,14,50,0,Foul on Quincy Smith.
+Hawai'i,California,29,24,14,50,1,Ivan Rabb made Free Throw.
+Hawai'i,California,29,25,14,50,1,Ivan Rabb made Free Throw.
+Hawai'i,California,29,25,15,4,0,Stefan Jankovic missed Layup.
+Hawai'i,California,29,25,15,4,0,Ivan Rabb Defensive Rebound.
+Hawai'i,California,29,25,15,11,0,Foul on Jaylen Brown.
+Hawai'i,California,29,25,15,11,0,Jaylen Brown Turnover.
+Hawai'i,California,29,25,15,24,0,Foul on Sai Tummala.
+Hawai'i,California,29,25,15,24,0,Sai Tummala Turnover.
+Hawai'i,California,29,25,15,39,0,Kingsley Okoroh Turnover.
+Hawai'i,California,29,25,16,7,0,Quincy Smith missed Jumper.
+Hawai'i,California,29,25,16,7,0,Stephen Domingo Defensive Rebound.
+Hawai'i,California,29,25,16,23,0,Roger Moute a Bidias missed Three Point Jumper.
+Hawai'i,California,29,25,16,23,0,Quincy Smith Defensive Rebound.
+Hawai'i,California,29,25,16,33,0,Foul on Sam Singer.
+Hawai'i,California,29,25,16,33,0,Official TV Timeout
+Hawai'i,California,30,25,16,33,1,Quincy Smith made Free Throw.
+Hawai'i,California,31,25,16,33,1,Quincy Smith made Free Throw.
+Hawai'i,California,31,25,16,54,0,Brandon Chauca missed Three Point Jumper.
+Hawai'i,California,31,25,16,54,0,California Offensive Rebound.
+Hawai'i,California,31,25,16,57,0,Foul on Stefan Jankovic.
+Hawai'i,California,31,25,16,57,0,Ivan Rabb missed Free Throw.
+Hawai'i,California,31,25,16,57,0,California Deadball Team Rebound.
+Hawai'i,California,31,26,16,57,1,Ivan Rabb made Free Throw.
+Hawai'i,California,31,26,17,12,0,Foul on Roger Moute a Bidias.
+Hawai'i,California,31,26,17,12,0,Roderick Bobbitt missed Free Throw.
+Hawai'i,California,31,26,17,12,0,Hawaii Deadball Team Rebound.
+Hawai'i,California,31,26,17,12,0,Roderick Bobbitt missed Free Throw.
+Hawai'i,California,31,26,17,12,0,Ivan Rabb Defensive Rebound.
+Hawai'i,California,31,26,17,36,0,Foul on Stefan Jovanovic.
+Hawai'i,California,31,27,17,36,1,Kameron Rooks made Free Throw.
+Hawai'i,California,31,28,17,36,1,Kameron Rooks made Free Throw.
+Hawai'i,California,31,28,18,4,0,Quincy Smith Turnover.
+Hawai'i,California,31,28,18,25,0,Stephen Domingo missed Three Point Jumper.
+Hawai'i,California,31,28,18,25,0,Stephen Domingo Offensive Rebound.
+Hawai'i,California,31,28,18,32,0,Stephen Domingo missed Layup.
+Hawai'i,California,31,28,18,32,0,Brandon Chauca Offensive Rebound.
+Hawai'i,California,31,30,18,32,1,Ivan Rabb made Two Point Tip Shot.
+Hawai'i,California,34,30,18,45,1,Sai Tummala made Three Point Jumper. Assisted by Stefan Jovanovic.
+Hawai'i,California,34,30,19,19,0,Brandon Chauca missed Three Point Jumper.
+Hawai'i,California,34,30,19,19,0,Hawaii Defensive Rebound.
+Hawai'i,California,34,30,19,20,0,Hawaii  Timeout
+Hawai'i,California,36,30,19,47,1,Roderick Bobbitt made Jumper.
+Hawai'i,California,36,32,20,0,0,End of 1st half
+Hawai'i,California,36,30,20,0,0,Jump Ball won by Hawaii
+Hawai'i,California,36,30,20,11,0,Roderick Bobbitt missed Three Point Jumper.
+Hawai'i,California,36,30,20,11,0,Ivan Rabb Defensive Rebound.
+Hawai'i,California,36,32,20,19,1,Ivan Rabb made Dunk. Assisted by Jordan Mathews.
+Hawai'i,California,38,32,20,41,1,Stefan Jankovic made Jumper.
+Hawai'i,California,38,32,20,56,0,Jaylen Brown missed Jumper.
+Hawai'i,California,38,32,20,56,0,Aaron Valdes Defensive Rebound.
+Hawai'i,California,38,32,21,5,0,Michael Thomas missed Layup.
+Hawai'i,California,38,32,21,5,0,Ivan Rabb Defensive Rebound.
+Hawai'i,California,38,32,21,12,0,Foul on Roderick Bobbitt.
+Hawai'i,California,38,32,21,14,0,Jordan Mathews missed Three Point Jumper.
+Hawai'i,California,38,32,21,14,0,Aaron Valdes Defensive Rebound.
+Hawai'i,California,40,32,21,46,1,Roderick Bobbitt made Layup.
+Hawai'i,California,40,34,22,9,1,Jordan Mathews made Layup.
+Hawai'i,California,40,34,22,28,0,Foul on Kameron Rooks.
+Hawai'i,California,41,34,22,28,1,Stefan Jankovic made Free Throw.
+Hawai'i,California,42,34,22,28,1,Stefan Jankovic made Free Throw.
+Hawai'i,California,42,34,22,45,0,Jaylen Brown missed Three Point Jumper.
+Hawai'i,California,42,34,22,45,0,Stefan Jankovic Defensive Rebound.
+Hawai'i,California,42,34,22,57,0,Michael Thomas missed Three Point Jumper.
+Hawai'i,California,42,34,22,57,0,California Defensive Rebound.
+Hawai'i,California,42,34,22,59,0,Foul on Stefan Jankovic.
+Hawai'i,California,42,34,23,16,0,Jordan Mathews missed Jumper.
+Hawai'i,California,42,34,23,16,0,Jordan Mathews Offensive Rebound.
+Hawai'i,California,42,34,23,18,0,Foul on Stefan Jankovic.
+Hawai'i,California,42,34,23,22,0,Sam Singer missed Jumper.
+Hawai'i,California,42,34,23,22,0,Roderick Bobbitt Defensive Rebound.
+Hawai'i,California,42,34,23,31,0,Foul on Kameron Rooks.
+Hawai'i,California,43,34,23,31,1,Stefan Jovanovic made Free Throw.
+Hawai'i,California,43,34,23,31,0,Stefan Jovanovic missed Free Throw.
+Hawai'i,California,43,34,23,31,0,Kingsley Okoroh Defensive Rebound.
+Hawai'i,California,43,34,23,47,0,Foul on Quincy Smith.
+Hawai'i,California,43,34,23,52,0,Jaylen Brown missed Layup.
+Hawai'i,California,43,34,23,52,0,Michael Thomas Block.
+Hawai'i,California,43,34,23,52,0,Jaylen Brown Offensive Rebound.
+Hawai'i,California,43,34,24,0,0,Jaylen Brown missed Layup.
+Hawai'i,California,43,34,24,0,0,Ivan Rabb Offensive Rebound.
+Hawai'i,California,43,34,24,0,0,Ivan Rabb missed Two Point Tip Shot.
+Hawai'i,California,43,34,24,0,0,Roderick Bobbitt Defensive Rebound.
+Hawai'i,California,43,34,24,11,0,Official TV Timeout
+Hawai'i,California,45,34,24,14,1,Aaron Valdes made Dunk. Assisted by Roderick Bobbitt.
+Hawai'i,California,45,37,24,39,1,Jordan Mathews made Three Point Jumper.
+Hawai'i,California,45,37,25,4,0,Foul on Jaylen Brown.
+Hawai'i,California,46,37,25,4,1,Aaron Valdes made Free Throw.
+Hawai'i,California,47,37,25,4,1,Aaron Valdes made Free Throw.
+Hawai'i,California,47,37,25,17,0,Stephen Domingo Turnover.
+Hawai'i,California,47,37,25,17,0,Aaron Valdes Steal.
+Hawai'i,California,47,37,25,20,0,Aaron Valdes Turnover.
+Hawai'i,California,47,37,25,20,0,Sam Singer Steal.
+Hawai'i,California,47,37,25,32,0,Stephen Domingo missed Three Point Jumper.
+Hawai'i,California,47,37,25,32,0,Ivan Rabb Offensive Rebound.
+Hawai'i,California,47,37,25,37,0,Ivan Rabb Turnover.
+Hawai'i,California,47,37,25,49,0,Jump Ball won by California
+Hawai'i,California,47,37,25,49,0,Stefan Jovanovic Turnover.
+Hawai'i,California,47,37,25,49,0,Jordan Mathews Steal.
+Hawai'i,California,47,37,26,5,0,Foul on Sai Tummala.
+Hawai'i,California,47,37,26,8,0,Stephen Domingo missed Jumper.
+Hawai'i,California,47,37,26,8,0,Stefan Jovanovic Defensive Rebound.
+Hawai'i,California,47,37,26,18,0,Roderick Bobbitt missed Three Point Jumper.
+Hawai'i,California,47,37,26,18,0,Jordan Mathews Defensive Rebound.
+Hawai'i,California,47,39,26,26,1,Sam Singer made Layup.
+Hawai'i,California,47,39,26,46,0,Stefan Jovanovic missed Jumper.
+Hawai'i,California,47,39,26,46,0,Kameron Rooks Defensive Rebound.
+Hawai'i,California,47,39,26,55,0,Foul on Sai Tummala.
+Hawai'i,California,47,39,27,2,0,Foul on Michael Thomas.
+Hawai'i,California,47,40,27,2,1,Sam Singer made Free Throw.
+Hawai'i,California,47,41,27,2,1,Sam Singer made Free Throw.
+Hawai'i,California,47,41,27,20,0,Roderick Bobbitt missed Three Point Jumper.
+Hawai'i,California,47,41,27,20,0,Sam Singer Defensive Rebound.
+Hawai'i,California,47,43,27,30,1,Sam Singer made Layup.
+Hawai'i,California,47,43,27,47,0,Aaron Valdes Turnover.
+Hawai'i,California,47,45,28,4,1,Kameron Rooks made Layup. Assisted by Ivan Rabb.
+Hawai'i,California,47,45,28,4,0,Foul on Stefan Jovanovic.
+Hawai'i,California,47,45,28,4,0,Official TV Timeout
+Hawai'i,California,47,46,28,4,1,Kameron Rooks made Free Throw.
+Hawai'i,California,47,46,28,19,0,Aaron Valdes missed Jumper.
+Hawai'i,California,47,46,28,19,0,Sam Singer Defensive Rebound.
+Hawai'i,California,47,46,28,36,0,Jordan Mathews Turnover.
+Hawai'i,California,47,46,28,56,0,Roderick Bobbitt missed Layup.
+Hawai'i,California,47,46,28,56,0,Kameron Rooks Defensive Rebound.
+Hawai'i,California,47,46,28,59,0,Foul on Roderick Bobbitt.
+Hawai'i,California,47,46,28,59,0,Kameron Rooks missed Free Throw.
+Hawai'i,California,47,46,28,59,0,Michael Thomas Defensive Rebound.
+Hawai'i,California,49,46,29,18,1,Aaron Valdes made Jumper.
+Hawai'i,California,49,46,29,44,0,Roger Moute a Bidias Turnover.
+Hawai'i,California,49,46,29,54,0,Foul on Ivan Rabb.
+Hawai'i,California,51,46,29,55,1,Michael Thomas made Layup. Assisted by Roderick Bobbitt.
+Hawai'i,California,51,46,30,14,0,Jordan Mathews missed Three Point Jumper.
+Hawai'i,California,51,46,30,14,0,California Offensive Rebound.
+Hawai'i,California,51,46,30,16,0,Foul on Aaron Valdes.
+Hawai'i,California,51,47,30,16,1,Kameron Rooks made Free Throw.
+Hawai'i,California,51,47,30,16,0,Kameron Rooks missed Free Throw.
+Hawai'i,California,51,47,30,17,0,Quincy Smith Defensive Rebound.
+Hawai'i,California,53,47,30,43,1,Quincy Smith made Jumper.
+Hawai'i,California,53,47,30,46,0,Jaylen Brown Turnover.
+Hawai'i,California,53,47,30,58,0,Stefan Jovanovic missed Jumper.
+Hawai'i,California,53,47,30,58,0,Sam Singer Defensive Rebound.
+Hawai'i,California,53,49,31,8,1,Jordan Mathews made Layup.
+Hawai'i,California,53,49,31,25,0,Aaron Valdes missed Layup.
+Hawai'i,California,53,49,31,25,0,Michael Thomas Offensive Rebound.
+Hawai'i,California,55,49,31,30,1,Michael Thomas made Layup.
+Hawai'i,California,55,49,31,42,0,Foul on Aaron Valdes.
+Hawai'i,California,55,50,31,42,1,Jaylen Brown made Free Throw.
+Hawai'i,California,55,51,31,42,1,Jaylen Brown made Free Throw.
+Hawai'i,California,57,51,32,0,1,Quincy Smith made Jumper.
+Hawai'i,California,57,53,32,29,1,Kameron Rooks made Layup. Assisted by Ivan Rabb.
+Hawai'i,California,59,53,32,48,1,Roderick Bobbitt made Jumper.
+Hawai'i,California,59,53,33,6,0,Jaylen Brown Turnover.
+Hawai'i,California,59,53,33,6,0,Quincy Smith Steal.
+Hawai'i,California,61,53,33,12,1,Quincy Smith made Layup.
+Hawai'i,California,61,53,33,35,0,Jaylen Brown missed Three Point Jumper.
+Hawai'i,California,61,53,33,35,0,Sheriff Drammeh Defensive Rebound.
+Hawai'i,California,61,53,33,38,0,Foul on Jaylen Brown.
+Hawai'i,California,61,53,33,38,0,Official TV Timeout
+Hawai'i,California,64,53,33,53,1,Michael Thomas made Three Point Jumper. Assisted by Roderick Bobbitt.
+Hawai'i,California,64,56,34,14,1,Jordan Mathews made Three Point Jumper. Assisted by Roger Moute a Bidias.
+Hawai'i,California,64,56,34,16,0,California  Timeout
+Hawai'i,California,64,56,34,35,0,Foul on Roger Moute a Bidias.
+Hawai'i,California,64,56,34,42,0,Sheriff Drammeh Turnover.
+Hawai'i,California,64,56,34,42,0,Sam Singer Steal.
+Hawai'i,California,64,58,34,45,1,Sam Singer made Layup. Assisted by Roger Moute a Bidias.
+Hawai'i,California,64,58,35,7,0,Roderick Bobbitt missed Three Point Jumper.
+Hawai'i,California,64,58,35,7,0,California Defensive Rebound.
+Hawai'i,California,64,58,35,31,0,Sam Singer missed Layup.
+Hawai'i,California,64,58,35,31,0,Stefan Jovanovic Block.
+Hawai'i,California,64,58,35,31,0,Roderick Bobbitt Defensive Rebound.
+Hawai'i,California,66,58,35,44,1,Quincy Smith made Layup.
+Hawai'i,California,66,60,36,2,1,Jordan Mathews made Layup.
+Hawai'i,California,66,60,36,14,0,California  Timeout
+Hawai'i,California,66,60,36,28,0,Foul on Kameron Rooks.
+Hawai'i,California,67,60,36,28,1,Stefan Jankovic made Free Throw.
+Hawai'i,California,68,60,36,28,1,Stefan Jankovic made Free Throw.
+Hawai'i,California,68,60,36,40,0,Ivan Rabb missed Layup.
+Hawai'i,California,68,60,36,40,0,Aaron Valdes Defensive Rebound.
+Hawai'i,California,68,60,36,51,0,Foul on Jordan Mathews.
+Hawai'i,California,69,60,36,51,1,Quincy Smith made Free Throw.
+Hawai'i,California,70,60,36,51,1,Quincy Smith made Free Throw.
+Hawai'i,California,70,60,37,10,0,Roger Moute a Bidias missed Jumper.
+Hawai'i,California,70,60,37,10,0,Roderick Bobbitt Defensive Rebound.
+Hawai'i,California,72,60,37,37,1,Roderick Bobbitt made Jumper.
+Hawai'i,California,72,62,37,47,1,Sam Singer made Jumper.
+Hawai'i,California,72,62,37,56,0,Foul on Sam Singer.
+Hawai'i,California,73,62,37,56,1,Roderick Bobbitt made Free Throw.
+Hawai'i,California,74,62,37,56,1,Roderick Bobbitt made Free Throw.
+Hawai'i,California,74,62,38,7,0,Roger Moute a Bidias missed Three Point Jumper.
+Hawai'i,California,74,62,38,7,0,Roderick Bobbitt Defensive Rebound.
+Hawai'i,California,74,62,38,23,0,Aaron Valdes Turnover.
+Hawai'i,California,74,62,38,31,0,Sam Singer missed Jumper.
+Hawai'i,California,74,62,38,31,0,Ivan Rabb Offensive Rebound.
+Hawai'i,California,74,64,38,36,1,Ivan Rabb made Layup.
+Hawai'i,California,74,64,38,46,0,Hawaii  Timeout
+Hawai'i,California,74,64,38,47,0,Quincy Smith Turnover.
+Hawai'i,California,74,64,38,49,0,Jordan Mathews missed Three Point Jumper.
+Hawai'i,California,74,64,38,49,0,Roger Moute a Bidias Offensive Rebound.
+Hawai'i,California,74,64,38,55,0,Foul on Stefan Jovanovic.
+Hawai'i,California,74,64,38,55,0,Roger Moute a Bidias missed Free Throw.
+Hawai'i,California,74,64,38,55,0,California Deadball Team Rebound.
+Hawai'i,California,74,64,38,55,0,Roger Moute a Bidias missed Free Throw.
+Hawai'i,California,74,64,38,55,0,Michael Thomas Defensive Rebound.
+Hawai'i,California,74,64,38,57,0,Foul on Stephen Domingo.
+Hawai'i,California,75,64,38,57,1,Michael Thomas made Free Throw.
+Hawai'i,California,76,64,38,57,1,Michael Thomas made Free Throw.
+Hawai'i,California,76,64,39,3,0,Foul on Sam Singer.
+Hawai'i,California,76,64,39,3,0,Sam Singer Turnover.
+Hawai'i,California,76,64,39,5,0,Foul on Ivan Rabb.
+Hawai'i,California,77,64,39,5,1,Quincy Smith made Free Throw.
+Hawai'i,California,77,64,39,5,0,Quincy Smith missed Free Throw.
+Hawai'i,California,77,64,39,5,0,Ivan Rabb Defensive Rebound.
+Hawai'i,California,77,64,39,14,0,Ivan Rabb missed Three Point Jumper.
+Hawai'i,California,77,64,39,14,0,Michael Thomas Defensive Rebound.
+Hawai'i,California,77,64,39,44,0,Roderick Bobbitt missed Three Point Jumper.
+Hawai'i,California,77,64,39,44,0,Jordan Mathews Defensive Rebound.
+Hawai'i,California,77,66,39,52,1,Jordan Mathews made Jumper.
+Hawai'i,California,77,66,40,0,0,End of Game

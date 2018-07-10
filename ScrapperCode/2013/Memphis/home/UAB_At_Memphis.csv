@@ -1,0 +1,376 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UAB,Memphis,0,0,0,19,0,Shaq Goodwin missed Jumper.
+UAB,Memphis,0,0,0,19,0,Robert Williams Defensive Rebound.
+UAB,Memphis,0,0,0,42,0,Robert Williams missed Three Point Jumper.
+UAB,Memphis,0,0,0,42,0,null
+UAB,Memphis,0,0,0,45,0,Foul on Preston Purifoy
+UAB,Memphis,0,0,1,2,0,Adonis Thomas missed Jumper.
+UAB,Memphis,0,0,1,2,0,Robert Williams Defensive Rebound.
+UAB,Memphis,0,0,1,18,0,Preston Purifoy Turnover.
+UAB,Memphis,0,0,1,20,0,Joe Jackson Steal.
+UAB,Memphis,0,0,1,26,0,Geron Johnson missed Three Point Jumper.
+UAB,Memphis,0,0,1,26,0,Rod Rucker Defensive Rebound.
+UAB,Memphis,2,0,1,39,1,Rod Rucker made Jumper.
+UAB,Memphis,2,0,1,56,0,Foul on Preston Purifoy
+UAB,Memphis,2,2,2,6,1,Shaq Goodwin made Layup.  Assisted by Joe Jackson.
+UAB,Memphis,2,2,2,21,0,Fahro Alihodzic Turnover.
+UAB,Memphis,2,2,2,23,0,D.J. Stephens Steal.
+UAB,Memphis,2,4,2,24,1,D.J. Stephens made Dunk.
+UAB,Memphis,2,4,2,37,0,Jordan Swing missed Three Point Jumper.
+UAB,Memphis,2,4,2,37,0,Rod Rucker Offensive Rebound.
+UAB,Memphis,2,4,2,42,0,Rod Rucker missed Layup.
+UAB,Memphis,2,4,2,42,0,Robert Williams Offensive Rebound.
+UAB,Memphis,2,4,2,47,0,Robert Williams missed Tip Shot.
+UAB,Memphis,2,4,2,47,0,Shaq Goodwin Block.
+UAB,Memphis,2,4,2,48,0,Joe Jackson Defensive Rebound.
+UAB,Memphis,2,4,2,51,0,Geron Johnson missed Jumper.
+UAB,Memphis,2,4,2,51,0,Fahro Alihodzic Defensive Rebound.
+UAB,Memphis,2,4,3,3,0,Quincy Taylor Turnover.
+UAB,Memphis,2,4,3,4,0,Geron Johnson Steal.
+UAB,Memphis,2,4,3,5,0,Geron Johnson missed Layup.
+UAB,Memphis,2,4,3,5,0,Jordan Swing Defensive Rebound.
+UAB,Memphis,2,4,3,11,0,Rod Rucker missed Jumper.
+UAB,Memphis,2,4,3,11,0,D.J. Stephens Defensive Rebound.
+UAB,Memphis,2,4,3,23,0,Foul on Fahro Alihodzic
+UAB,Memphis,2,4,3,24,0,Foul on Jordan Swing
+UAB,Memphis,2,4,3,35,0,Adonis Thomas missed Jumper.
+UAB,Memphis,2,4,3,35,0,UAB Defensive Rebound.
+UAB,Memphis,2,4,3,58,0,Terence Jones Turnover.
+UAB,Memphis,2,4,3,59,0,Adonis Thomas Steal.
+UAB,Memphis,2,6,4,0,1,Joe Jackson made Dunk.  Assisted by Adonis Thomas.
+UAB,Memphis,2,6,4,15,0,Rod Rucker missed Jumper.
+UAB,Memphis,2,6,4,15,0,Robert Williams Offensive Rebound.
+UAB,Memphis,2,6,4,19,0,Foul on Shaq Goodwin
+UAB,Memphis,2,6,4,19,0,Official TV Timeout.
+UAB,Memphis,2,6,4,19,0,Robert Williams missed Free Throw.
+UAB,Memphis,2,6,4,19,0,null
+UAB,Memphis,3,6,4,19,1,Robert Williams made Free Throw.
+UAB,Memphis,3,6,4,42,0,Shaq Goodwin missed Layup.
+UAB,Memphis,3,6,4,42,0,Shaq Goodwin Offensive Rebound.
+UAB,Memphis,3,8,4,44,1,Shaq Goodwin made Tip Shot.
+UAB,Memphis,3,8,4,59,0,Rod Rucker missed Jumper.
+UAB,Memphis,3,8,4,59,0,Fahro Alihodzic Offensive Rebound.
+UAB,Memphis,3,8,5,3,0,Fahro Alihodzic missed Tip Shot.
+UAB,Memphis,3,8,5,3,0,Tarik Black Defensive Rebound.
+UAB,Memphis,3,8,5,12,0,Joe Jackson missed Jumper.
+UAB,Memphis,3,8,5,12,0,Robert Williams Defensive Rebound.
+UAB,Memphis,3,8,5,18,0,Robert Williams Turnover.
+UAB,Memphis,3,8,5,19,0,Geron Johnson Steal.
+UAB,Memphis,3,10,5,21,1,Geron Johnson made Dunk.
+UAB,Memphis,3,10,5,37,0,Foul on Tarik Black
+UAB,Memphis,5,10,5,39,1,Jordan Swing made Jumper.  Assisted by Terence Jones.
+UAB,Memphis,5,13,6,1,1,Chris Crawford made Three Point Jumper.  Assisted by Joe Jackson.
+UAB,Memphis,5,13,6,14,0,Terence Jones Turnover.
+UAB,Memphis,5,13,6,15,0,Shaq Goodwin Steal.
+UAB,Memphis,5,13,6,17,0,Shaq Goodwin missed Layup.
+UAB,Memphis,5,13,6,17,0,Geron Johnson Offensive Rebound.
+UAB,Memphis,5,13,6,22,0,Geron Johnson missed Jumper.
+UAB,Memphis,5,13,6,22,0,Jordan Swing Defensive Rebound.
+UAB,Memphis,8,13,6,28,1,Robert Williams made Three Point Jumper.  Assisted by Jordan Swing.
+UAB,Memphis,8,16,6,44,1,Chris Crawford made Three Point Jumper.  Assisted by Joe Jackson.
+UAB,Memphis,8,16,6,44,0,Foul on Terence Jones
+UAB,Memphis,8,17,6,44,1,Chris Crawford made Free Throw.
+UAB,Memphis,8,17,6,55,0,Jordan Swing missed Jumper.
+UAB,Memphis,8,17,6,55,0,Chris Crawford Defensive Rebound.
+UAB,Memphis,8,17,7,2,0,Chris Crawford missed Three Point Jumper.
+UAB,Memphis,8,17,7,2,0,Jordan Swing Defensive Rebound.
+UAB,Memphis,8,17,7,9,0,Jordan Swing missed Three Point Jumper.
+UAB,Memphis,8,17,7,9,0,Tarik Black Defensive Rebound.
+UAB,Memphis,8,17,7,28,0,Chris Crawford Turnover.
+UAB,Memphis,8,17,7,29,0,Quincy Taylor Steal.
+UAB,Memphis,10,17,7,35,1,Fahro Alihodzic made Jumper.  Assisted by Quincy Taylor.
+UAB,Memphis,10,17,8,3,0,Adonis Thomas missed Jumper.
+UAB,Memphis,10,17,8,3,0,Shaq Goodwin Offensive Rebound.
+UAB,Memphis,10,17,8,9,0,Adonis Thomas missed Jumper.
+UAB,Memphis,10,17,8,9,0,UAB Defensive Rebound.
+UAB,Memphis,10,17,8,12,0,Official TV Timeout.
+UAB,Memphis,10,17,8,30,0,Quincy Taylor Turnover.
+UAB,Memphis,10,17,8,31,0,D.J. Stephens Steal.
+UAB,Memphis,10,19,8,33,1,Joe Jackson made Layup.
+UAB,Memphis,10,19,8,51,0,Rod Rucker missed Jumper.
+UAB,Memphis,10,19,8,51,0,D.J. Stephens Defensive Rebound.
+UAB,Memphis,10,19,9,8,0,Joe Jackson Turnover.
+UAB,Memphis,10,19,9,9,0,Preston Purifoy Turnover.
+UAB,Memphis,10,19,9,10,0,D.J. Stephens Steal.
+UAB,Memphis,10,19,9,17,0,Tarik Black Turnover.
+UAB,Memphis,10,19,9,18,0,Preston Purifoy Steal.
+UAB,Memphis,12,19,9,25,1,Preston Purifoy made Jumper.
+UAB,Memphis,12,22,9,47,1,Adonis Thomas made Three Point Jumper.  Assisted by Tarik Black.
+UAB,Memphis,14,22,10,3,1,Preston Purifoy made Layup.
+UAB,Memphis,14,22,10,23,0,D.J. Stephens missed Jumper.
+UAB,Memphis,14,22,10,23,0,Robert Williams Defensive Rebound.
+UAB,Memphis,14,22,10,45,0,Preston Purifoy missed Three Point Jumper.
+UAB,Memphis,14,22,10,45,0,D.J. Stephens Defensive Rebound.
+UAB,Memphis,14,22,10,53,0,Chris Crawford Turnover.
+UAB,Memphis,16,22,11,9,1,Fahro Alihodzic made Jumper.
+UAB,Memphis,16,22,11,22,0,Adonis Thomas missed Jumper.
+UAB,Memphis,16,22,11,22,0,Shaq Goodwin Offensive Rebound.
+UAB,Memphis,16,22,11,24,0,Foul on Preston Purifoy
+UAB,Memphis,16,22,11,26,0,Chris Crawford missed Three Point Jumper.
+UAB,Memphis,16,22,11,26,0,Fahro Alihodzic Defensive Rebound.
+UAB,Memphis,18,22,11,39,1,Rod Rucker made Jumper.  Assisted by Isiah Jones.
+UAB,Memphis,18,22,12,0,0,Joe Jackson missed Jumper.
+UAB,Memphis,18,22,12,0,0,Rod Rucker Defensive Rebound.
+UAB,Memphis,18,22,12,8,0,Isiah Jones missed Three Point Jumper.
+UAB,Memphis,18,22,12,8,0,Joe Jackson Defensive Rebound.
+UAB,Memphis,18,22,12,18,0,Chris Crawford missed Dunk.
+UAB,Memphis,18,22,12,18,0,Joe Jackson Offensive Rebound.
+UAB,Memphis,18,22,12,22,0,Official TV Timeout.
+UAB,Memphis,18,22,12,31,0,Adonis Thomas missed Three Point Jumper.
+UAB,Memphis,18,22,12,31,0,Rod Rucker Defensive Rebound.
+UAB,Memphis,18,22,12,46,0,Rod Rucker missed Jumper.
+UAB,Memphis,18,22,12,46,0,Joe Jackson Defensive Rebound.
+UAB,Memphis,18,24,12,57,1,Geron Johnson made Jumper.
+UAB,Memphis,20,24,13,12,1,Rod Rucker made Jumper.  Assisted by Jordan Swing.
+UAB,Memphis,20,24,13,31,0,Geron Johnson missed Jumper.
+UAB,Memphis,20,24,13,31,0,Geron Johnson Offensive Rebound.
+UAB,Memphis,20,26,13,36,1,Geron Johnson made Jumper.
+UAB,Memphis,20,26,14,5,0,Foul on Shaq Goodwin
+UAB,Memphis,20,26,14,21,0,Fahro Alihodzic missed Layup.
+UAB,Memphis,20,26,14,21,0,Tarik Black Defensive Rebound.
+UAB,Memphis,20,29,14,39,1,Geron Johnson made Three Point Jumper.  Assisted by Joe Jackson.
+UAB,Memphis,20,29,15,3,0,Rod Rucker missed Jumper.
+UAB,Memphis,20,29,15,3,0,Memphis Defensive Rebound.
+UAB,Memphis,20,29,15,23,0,Adonis Thomas missed Jumper.
+UAB,Memphis,20,29,15,23,0,D.J. Stephens Offensive Rebound.
+UAB,Memphis,20,29,15,25,0,Foul on Rod Rucker
+UAB,Memphis,20,30,15,25,1,D.J. Stephens made Free Throw.
+UAB,Memphis,20,31,15,25,1,D.J. Stephens made Free Throw.
+UAB,Memphis,20,31,15,32,0,Quincy Taylor Turnover.
+UAB,Memphis,20,31,15,35,0,Joe Jackson Steal.
+UAB,Memphis,20,31,15,37,0,Geron Johnson missed Layup.
+UAB,Memphis,20,31,15,37,0,Jordan Swing Defensive Rebound.
+UAB,Memphis,22,31,15,43,1,Robert Williams made Layup.
+UAB,Memphis,22,31,15,56,0,Foul on Adonis Thomas
+UAB,Memphis,22,31,15,56,0,Adonis Thomas Turnover.
+UAB,Memphis,22,31,16,6,0,Foul on Geron Johnson
+UAB,Memphis,22,31,16,6,0,Official TV Timeout.
+UAB,Memphis,23,31,16,6,1,Rod Rucker made Free Throw.
+UAB,Memphis,24,31,16,6,1,Rod Rucker made Free Throw.
+UAB,Memphis,24,33,16,31,1,D.J. Stephens made Layup.  Assisted by Geron Johnson.
+UAB,Memphis,24,33,16,46,0,Robert Williams Turnover.
+UAB,Memphis,24,33,16,48,0,Joe Jackson Steal.
+UAB,Memphis,24,35,16,50,1,Geron Johnson made Dunk.  Assisted by Joe Jackson.
+UAB,Memphis,26,35,17,8,1,Rod Rucker made Jumper.
+UAB,Memphis,26,35,17,24,0,Tarik Black Turnover.
+UAB,Memphis,26,35,17,26,0,Jordan Swing Steal.
+UAB,Memphis,26,35,17,26,0,Jordan Swing Turnover.
+UAB,Memphis,26,35,17,26,0,Joe Jackson Steal.
+UAB,Memphis,26,35,17,26,0,Foul on Jordan Swing
+UAB,Memphis,26,36,17,26,1,Joe Jackson made Free Throw.
+UAB,Memphis,26,37,17,26,1,Joe Jackson made Free Throw.
+UAB,Memphis,26,37,17,33,0,UAB Full Timeout.
+UAB,Memphis,26,37,18,2,0,Fahro Alihodzic missed Jumper.
+UAB,Memphis,26,37,18,2,0,Memphis Defensive Rebound.
+UAB,Memphis,26,40,18,17,1,Geron Johnson made Three Point Jumper.  Assisted by Chris Crawford.
+UAB,Memphis,26,40,18,39,0,Foul on D.J. Stephens
+UAB,Memphis,26,40,18,39,0,Rod Rucker missed Free Throw.
+UAB,Memphis,26,40,18,39,0,null
+UAB,Memphis,26,40,18,39,0,Rod Rucker missed Free Throw.
+UAB,Memphis,26,40,18,39,0,D.J. Stephens Defensive Rebound.
+UAB,Memphis,26,40,18,53,0,Chris Crawford missed Three Point Jumper.
+UAB,Memphis,26,40,18,53,0,Robert Williams Defensive Rebound.
+UAB,Memphis,26,40,18,59,0,Robert Williams missed Layup.
+UAB,Memphis,26,40,18,59,0,Joe Jackson Block.
+UAB,Memphis,26,40,19,0,0,Chris Crawford Defensive Rebound.
+UAB,Memphis,26,43,19,11,1,Chris Crawford made Three Point Jumper.  Assisted by Joe Jackson.
+UAB,Memphis,26,43,19,36,0,Rod Rucker Turnover.
+UAB,Memphis,26,43,19,37,0,Joe Jackson Steal.
+UAB,Memphis,26,43,19,38,0,Foul on Quincy Taylor
+UAB,Memphis,26,43,19,38,0,Foul on Geron Johnson
+UAB,Memphis,26,43,19,38,0,Technical Foul on Geron Johnson
+UAB,Memphis,27,43,19,38,1,Jordan Swing made Free Throw.
+UAB,Memphis,28,43,19,38,1,Jordan Swing made Free Throw.
+UAB,Memphis,28,43,19,38,0,Geron Johnson Turnover.
+UAB,Memphis,28,43,19,38,0,Joe Jackson missed Free Throw.
+UAB,Memphis,28,43,19,38,0,null
+UAB,Memphis,28,43,19,38,0,Joe Jackson missed Free Throw.
+UAB,Memphis,28,43,19,38,0,Jordan Swing Defensive Rebound.
+UAB,Memphis,28,43,19,55,0,Jordan Swing missed Jumper.
+UAB,Memphis,28,43,19,55,0,Joe Jackson Defensive Rebound.
+UAB,Memphis,28,43,20,0,0,End of the 1st Half.
+UAB,Memphis,28,43,20,14,0,Shaq Goodwin missed Jumper.
+UAB,Memphis,28,43,20,14,0,UAB Defensive Rebound.
+UAB,Memphis,28,43,20,25,0,Rod Rucker Turnover.
+UAB,Memphis,28,43,20,35,0,Joe Jackson Turnover.
+UAB,Memphis,28,43,20,36,0,Robert Williams Steal.
+UAB,Memphis,30,43,20,38,1,Rod Rucker made Dunk.
+UAB,Memphis,30,43,21,7,0,Adonis Thomas missed Jumper.
+UAB,Memphis,30,43,21,7,0,D.J. Stephens Offensive Rebound.
+UAB,Memphis,30,43,21,12,0,D.J. Stephens Turnover.
+UAB,Memphis,30,43,21,13,0,Quincy Taylor Steal.
+UAB,Memphis,30,43,21,14,0,Foul on D.J. Stephens
+UAB,Memphis,30,43,21,18,0,Foul on Shaq Goodwin
+UAB,Memphis,33,43,21,29,1,Quincy Taylor made Three Point Jumper.  Assisted by Jordan Swing.
+UAB,Memphis,33,43,21,46,0,Shaq Goodwin missed Layup.
+UAB,Memphis,33,43,21,46,0,Preston Purifoy Block.
+UAB,Memphis,33,43,21,46,0,Preston Purifoy Defensive Rebound.
+UAB,Memphis,33,43,21,58,0,Jordan Swing missed Three Point Jumper.
+UAB,Memphis,33,43,21,58,0,Damien Wilson Defensive Rebound.
+UAB,Memphis,33,43,22,11,0,Foul on Robert Williams
+UAB,Memphis,33,43,22,13,0,Chris Crawford missed Layup.
+UAB,Memphis,33,43,22,13,0,Rod Rucker Defensive Rebound.
+UAB,Memphis,35,43,22,20,1,Preston Purifoy made Jumper.  Assisted by Quincy Taylor.
+UAB,Memphis,35,43,22,38,0,Foul on Preston Purifoy
+UAB,Memphis,35,43,22,38,0,Damien Wilson missed Free Throw.
+UAB,Memphis,35,43,22,38,0,null
+UAB,Memphis,35,43,22,38,0,Damien Wilson missed Free Throw.
+UAB,Memphis,35,43,22,38,0,Rod Rucker Defensive Rebound.
+UAB,Memphis,35,43,22,49,0,Robert Williams missed Three Point Jumper.
+UAB,Memphis,35,43,22,49,0,Damien Wilson Block.
+UAB,Memphis,35,43,22,50,0,Chris Crawford Defensive Rebound.
+UAB,Memphis,35,43,23,0,0,Chris Crawford missed Three Point Jumper.
+UAB,Memphis,35,43,23,0,0,Memphis Offensive Rebound.
+UAB,Memphis,35,45,23,4,1,Joe Jackson made Jumper.  Assisted by Tarik Black.
+UAB,Memphis,35,45,23,34,0,Fahro Alihodzic missed Jumper.
+UAB,Memphis,35,45,23,34,0,Joe Jackson Defensive Rebound.
+UAB,Memphis,35,45,23,42,0,Chris Crawford Turnover.
+UAB,Memphis,35,45,23,43,0,Quincy Taylor Steal.
+UAB,Memphis,37,45,23,46,1,Robert Williams made Dunk.  Assisted by Quincy Taylor.
+UAB,Memphis,37,45,24,3,0,Joe Jackson Turnover.
+UAB,Memphis,37,45,24,4,0,Jordan Swing Steal.
+UAB,Memphis,39,45,24,6,1,Jordan Swing made Layup.
+UAB,Memphis,39,45,24,35,0,Joe Jackson missed Jumper.
+UAB,Memphis,39,45,24,35,0,Tarik Black Offensive Rebound.
+UAB,Memphis,39,45,24,40,0,Foul on Alexander Scotland-Williamson
+UAB,Memphis,39,45,24,40,0,Official TV Timeout.
+UAB,Memphis,39,45,24,40,0,Tarik Black missed Free Throw.
+UAB,Memphis,39,45,24,40,0,null
+UAB,Memphis,39,45,24,40,0,Tarik Black missed Free Throw.
+UAB,Memphis,39,45,24,40,0,Isiah Jones Defensive Rebound.
+UAB,Memphis,41,45,24,56,1,Rod Rucker made Jumper.  Assisted by Jordan Swing.
+UAB,Memphis,41,45,25,1,0,Joe Jackson Turnover.
+UAB,Memphis,41,45,25,14,0,Terence Jones missed Three Point Jumper.
+UAB,Memphis,41,45,25,14,0,Jordan Swing Offensive Rebound.
+UAB,Memphis,44,45,25,19,1,Jordan Swing made Three Point Jumper.
+UAB,Memphis,44,45,25,37,0,Chris Crawford missed Layup.
+UAB,Memphis,44,45,25,37,0,Jordan Swing Defensive Rebound.
+UAB,Memphis,44,45,25,44,0,Jordan Swing Turnover.
+UAB,Memphis,44,45,25,45,0,Geron Johnson Steal.
+UAB,Memphis,44,47,25,49,1,D.J. Stephens made Layup.  Assisted by Chris Crawford.
+UAB,Memphis,44,47,25,49,0,Foul on Terence Jones
+UAB,Memphis,44,48,25,49,1,D.J. Stephens made Free Throw.
+UAB,Memphis,44,48,26,22,0,Foul on Tarik Black
+UAB,Memphis,44,48,26,22,0,Jordan Swing missed Free Throw.
+UAB,Memphis,44,48,26,22,0,null
+UAB,Memphis,45,48,26,22,1,Jordan Swing made Free Throw.
+UAB,Memphis,45,51,26,40,1,Joe Jackson made Three Point Jumper.  Assisted by Chris Crawford.
+UAB,Memphis,45,51,26,53,0,Jordan Swing Turnover.
+UAB,Memphis,45,51,26,53,0,Joe Jackson Steal.
+UAB,Memphis,45,51,26,55,0,Joe Jackson missed Layup.
+UAB,Memphis,45,51,26,55,0,D.J. Stephens Offensive Rebound.
+UAB,Memphis,45,53,26,58,1,D.J. Stephens made Dunk.
+UAB,Memphis,45,53,27,12,0,Foul on Geron Johnson
+UAB,Memphis,47,53,27,22,1,Rod Rucker made Jumper.
+UAB,Memphis,47,53,27,45,0,Chris Crawford missed Jumper.
+UAB,Memphis,47,53,27,45,0,Tarik Black Offensive Rebound.
+UAB,Memphis,47,55,28,3,1,Geron Johnson made Layup.
+UAB,Memphis,47,55,28,33,0,Official TV Timeout.
+UAB,Memphis,47,55,28,41,0,Quincy Taylor missed Three Point Jumper.
+UAB,Memphis,47,55,28,41,0,Joe Jackson Defensive Rebound.
+UAB,Memphis,47,58,28,54,1,Geron Johnson made Three Point Jumper.  Assisted by Joe Jackson.
+UAB,Memphis,47,58,29,15,0,Rod Rucker missed Jumper.
+UAB,Memphis,47,58,29,15,0,Memphis Defensive Rebound.
+UAB,Memphis,47,60,29,36,1,Tarik Black made Layup.  Assisted by Joe Jackson.
+UAB,Memphis,47,60,29,36,0,Foul on Rod Rucker
+UAB,Memphis,47,60,29,36,0,Tarik Black missed Free Throw.
+UAB,Memphis,47,60,29,36,0,null
+UAB,Memphis,47,60,29,36,0,Foul on Shaq Goodwin
+UAB,Memphis,50,60,29,45,1,Quincy Taylor made Three Point Jumper.
+UAB,Memphis,50,60,30,7,0,Foul on Fahro Alihodzic
+UAB,Memphis,50,62,30,20,1,Tarik Black made Layup.
+UAB,Memphis,52,62,30,26,1,Jordan Swing made Layup.  Assisted by Quincy Taylor.
+UAB,Memphis,52,62,30,26,0,Foul on Tarik Black
+UAB,Memphis,52,62,30,26,0,Jordan Swing missed Free Throw.
+UAB,Memphis,52,62,30,26,0,Geron Johnson Defensive Rebound.
+UAB,Memphis,52,64,30,34,1,D.J. Stephens made Dunk.  Assisted by Joe Jackson.
+UAB,Memphis,52,64,30,56,0,Preston Purifoy missed Layup.
+UAB,Memphis,52,64,30,56,0,UAB Offensive Rebound.
+UAB,Memphis,52,64,31,5,0,Jordan Swing missed Three Point Jumper.
+UAB,Memphis,52,64,31,5,0,Memphis Defensive Rebound.
+UAB,Memphis,52,66,31,31,1,Joe Jackson made Jumper.  Assisted by Geron Johnson.
+UAB,Memphis,54,66,32,0,1,Jordan Swing made Layup.
+UAB,Memphis,54,66,32,7,0,Foul on Jordan Swing
+UAB,Memphis,54,66,32,7,0,Official TV Timeout.
+UAB,Memphis,54,67,32,7,1,Joe Jackson made Free Throw.
+UAB,Memphis,54,68,32,7,1,Joe Jackson made Free Throw.
+UAB,Memphis,54,68,32,29,0,UAB Turnover.
+UAB,Memphis,54,68,32,42,0,Foul on Quincy Taylor
+UAB,Memphis,54,69,32,42,1,Tarik Black made Free Throw.
+UAB,Memphis,54,70,32,42,1,Tarik Black made Free Throw.
+UAB,Memphis,57,70,33,2,1,Quincy Taylor made Three Point Jumper.  Assisted by Preston Purifoy.
+UAB,Memphis,57,70,33,19,0,Foul on Rod Rucker
+UAB,Memphis,57,71,33,19,1,Adonis Thomas made Free Throw.
+UAB,Memphis,57,72,33,19,1,Adonis Thomas made Free Throw.
+UAB,Memphis,57,72,33,51,0,Quincy Taylor Turnover.
+UAB,Memphis,57,72,33,53,0,Adonis Thomas Steal.
+UAB,Memphis,57,72,33,55,0,Chris Crawford Turnover.
+UAB,Memphis,57,72,33,56,0,Preston Purifoy Steal.
+UAB,Memphis,59,72,34,4,1,Jordan Swing made Layup.
+UAB,Memphis,59,75,34,20,1,Chris Crawford made Three Point Jumper.  Assisted by Joe Jackson.
+UAB,Memphis,61,75,34,38,1,Jordan Swing made Jumper.
+UAB,Memphis,61,75,34,38,0,Foul on Joe Jackson
+UAB,Memphis,61,75,34,38,0,Technical Foul on Jordan Swing
+UAB,Memphis,61,75,34,38,0,Foul on Jordan Swing
+UAB,Memphis,61,75,34,38,0,Jordan Swing Turnover.
+UAB,Memphis,61,76,34,38,1,Chris Crawford made Free Throw.
+UAB,Memphis,61,77,34,38,1,Chris Crawford made Free Throw.
+UAB,Memphis,62,77,34,38,1,Jordan Swing made Free Throw.
+UAB,Memphis,62,79,35,7,1,Chris Crawford made Layup.  Assisted by Tarik Black.
+UAB,Memphis,62,79,35,19,0,Rod Rucker missed Jumper.
+UAB,Memphis,62,79,35,19,0,Joe Jackson Defensive Rebound.
+UAB,Memphis,62,79,35,26,0,Chris Crawford missed Three Point Jumper.
+UAB,Memphis,62,79,35,26,0,Robert Williams Defensive Rebound.
+UAB,Memphis,62,79,35,33,0,Foul on Preston Purifoy
+UAB,Memphis,62,79,35,33,0,Preston Purifoy Turnover.
+UAB,Memphis,62,79,35,50,0,Foul on Robert Williams
+UAB,Memphis,62,80,35,50,1,Adonis Thomas made Free Throw.
+UAB,Memphis,62,81,35,50,1,Adonis Thomas made Free Throw.
+UAB,Memphis,62,81,35,57,0,Jordan Swing missed Three Point Jumper.
+UAB,Memphis,62,81,35,57,0,Fahro Alihodzic Offensive Rebound.
+UAB,Memphis,62,81,36,10,0,Robert Williams missed Three Point Jumper.
+UAB,Memphis,62,81,36,10,0,Fahro Alihodzic Offensive Rebound.
+UAB,Memphis,62,81,36,22,0,Robert Williams missed Jumper.
+UAB,Memphis,62,81,36,22,0,Tarik Black Block.
+UAB,Memphis,62,81,36,23,0,Tarik Black Defensive Rebound.
+UAB,Memphis,62,83,36,50,1,Joe Jackson made Jumper.
+UAB,Memphis,62,83,37,0,0,Jordan Swing missed Layup.
+UAB,Memphis,62,83,37,0,0,Joe Jackson Defensive Rebound.
+UAB,Memphis,62,86,37,7,1,Chris Crawford made Three Point Jumper.  Assisted by Geron Johnson.
+UAB,Memphis,65,86,37,19,1,Quincy Taylor made Three Point Jumper.
+UAB,Memphis,65,86,37,20,0,UAB Full Timeout.
+UAB,Memphis,65,86,37,40,0,Ferrakohn Hall Turnover.
+UAB,Memphis,65,86,37,40,0,Isiah Jones Steal.
+UAB,Memphis,65,86,37,40,0,Foul on Ferrakohn Hall
+UAB,Memphis,65,86,37,40,0,Official TV Timeout.
+UAB,Memphis,65,86,37,40,0,Robert Williams missed Free Throw.
+UAB,Memphis,65,86,37,40,0,Ferrakohn Hall Defensive Rebound.
+UAB,Memphis,65,86,38,8,0,Ferrakohn Hall missed Three Point Jumper.
+UAB,Memphis,65,86,38,8,0,D.J. Stephens Offensive Rebound.
+UAB,Memphis,65,86,38,14,0,Charles Holt missed Three Point Jumper.
+UAB,Memphis,65,86,38,14,0,null
+UAB,Memphis,65,86,38,16,0,Foul on D.J. Stephens
+UAB,Memphis,65,86,38,16,0,Isiah Jones missed Free Throw.
+UAB,Memphis,65,86,38,16,0,Fahro Alihodzic Offensive Rebound.
+UAB,Memphis,67,86,38,22,1,Fahro Alihodzic made Jumper.  Assisted by Isiah Jones.
+UAB,Memphis,67,86,38,35,0,Ferrakohn Hall Turnover.
+UAB,Memphis,67,86,38,47,0,Fahro Alihodzic missed Layup.
+UAB,Memphis,67,86,38,47,0,Stan Simpson Block.
+UAB,Memphis,67,86,38,49,0,Anthony Cole Defensive Rebound.
+UAB,Memphis,67,86,38,55,0,Damien Wilson Turnover.
+UAB,Memphis,69,86,39,8,1,Alexander Scotland-Williamson made Layup.  Assisted by Isiah Jones.
+UAB,Memphis,69,86,39,19,0,Charles Holt missed Layup.
+UAB,Memphis,69,86,39,19,0,Isiah Jones Defensive Rebound.
+UAB,Memphis,69,86,39,25,0,Isiah Jones missed Three Point Jumper.
+UAB,Memphis,69,86,39,25,0,Damien Wilson Defensive Rebound.
+UAB,Memphis,69,86,39,33,0,Damien Wilson Turnover.
+UAB,Memphis,69,86,39,33,0,Karl Moton Steal.
+UAB,Memphis,69,86,39,40,0,Foul on Hippolyte Tsafack
+UAB,Memphis,70,86,39,40,1,Fahro Alihodzic made Free Throw.
+UAB,Memphis,71,86,39,40,1,Fahro Alihodzic made Free Throw.
+UAB,Memphis,71,86,39,52,0,Trey Draper missed Layup.
+UAB,Memphis,71,86,39,52,0,Fahro Alihodzic Block.
+UAB,Memphis,71,86,39,52,0,Memphis Offensive Rebound.
+UAB,Memphis,71,86,39,54,0,Trey Draper Turnover.
+UAB,Memphis,71,86,39,55,0,Quincy Taylor Steal.
+UAB,Memphis,71,86,40,0,0,End Game

@@ -1,0 +1,339 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,USC,0,0,0,0,0,Jump Ball won by Stanford
+Stanford,USC,0,0,0,22,0,Michael Humphrey missed Jumper.
+Stanford,USC,0,0,0,22,0,Grant Verhoeven Offensive Rebound.
+Stanford,USC,0,0,0,22,0,Grant Verhoeven missed Two Point Tip Shot.
+Stanford,USC,0,0,0,22,0,Chimezie Metu Defensive Rebound.
+Stanford,USC,0,0,0,35,0,De'Anthony Melton missed Three Point Jumper.
+Stanford,USC,0,0,0,35,0,Marcus Allen Defensive Rebound.
+Stanford,USC,0,0,0,49,0,Grant Verhoeven missed Layup.
+Stanford,USC,0,0,0,49,0,USC Defensive Rebound.
+Stanford,USC,0,0,1,1,0,Jordan McLaughlin Turnover.
+Stanford,USC,0,0,1,1,0,Grant Verhoeven Steal.
+Stanford,USC,0,0,1,12,0,Dorian Pickens Turnover.
+Stanford,USC,0,0,1,12,0,De'Anthony Melton Steal.
+Stanford,USC,0,0,1,18,0,Elijah Stewart missed Three Point Jumper.
+Stanford,USC,0,0,1,18,0,Stanford Defensive Rebound.
+Stanford,USC,0,0,1,23,0,Foul on Nick Rakocevic.
+Stanford,USC,0,0,1,36,0,Marcus Sheffield Turnover.
+Stanford,USC,0,0,1,36,0,Jordan McLaughlin Steal.
+Stanford,USC,0,2,1,39,1,Jordan McLaughlin made Layup.
+Stanford,USC,0,2,2,1,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,USC,0,2,2,1,0,Michael Humphrey Offensive Rebound.
+Stanford,USC,2,2,2,13,1,Marcus Sheffield made Jumper.
+Stanford,USC,2,5,2,46,1,Jordan McLaughlin made Three Point Jumper. Assisted by Elijah Stewart.
+Stanford,USC,2,5,3,6,0,Michael Humphrey missed Jumper.
+Stanford,USC,2,5,3,6,0,De'Anthony Melton Defensive Rebound.
+Stanford,USC,2,5,3,22,0,Chimezie Metu missed Jumper.
+Stanford,USC,2,5,3,22,0,Grant Verhoeven Defensive Rebound.
+Stanford,USC,2,5,3,38,0,Marcus Sheffield missed Jumper.
+Stanford,USC,2,5,3,38,0,Jordan McLaughlin Defensive Rebound.
+Stanford,USC,2,5,3,45,0,Foul on Dorian Pickens.
+Stanford,USC,2,6,3,45,1,De'Anthony Melton made Free Throw.
+Stanford,USC,2,7,3,45,1,De'Anthony Melton made Free Throw.
+Stanford,USC,2,7,3,54,0,Christian Sanders Turnover.
+Stanford,USC,2,7,3,54,0,Charles Buggs Steal.
+Stanford,USC,2,7,4,1,0,De'Anthony Melton missed Layup.
+Stanford,USC,2,7,4,1,0,Dorian Pickens Defensive Rebound.
+Stanford,USC,2,7,4,5,0,Christian Sanders Turnover.
+Stanford,USC,2,7,4,6,0,Official TV Timeout
+Stanford,USC,2,7,4,19,0,Foul on Christian Sanders.
+Stanford,USC,2,10,4,28,1,Elijah Stewart made Three Point Jumper. Assisted by Chimezie Metu.
+Stanford,USC,2,10,4,52,0,Foul on De'Anthony Melton.
+Stanford,USC,3,10,4,52,1,Dorian Pickens made Free Throw.
+Stanford,USC,4,10,4,52,1,Dorian Pickens made Free Throw.
+Stanford,USC,4,10,4,52,0,Dorian Pickens missed Free Throw.
+Stanford,USC,4,10,4,52,0,USC Defensive Rebound.
+Stanford,USC,4,10,5,1,0,Foul on Michael Humphrey.
+Stanford,USC,4,11,5,1,1,Chimezie Metu made Free Throw.
+Stanford,USC,4,12,5,1,1,Chimezie Metu made Free Throw.
+Stanford,USC,4,12,5,27,0,Robert Cartwright missed Three Point Jumper.
+Stanford,USC,4,12,5,27,0,Michael Humphrey Offensive Rebound.
+Stanford,USC,6,12,5,27,1,Michael Humphrey made Two Point Tip Shot.
+Stanford,USC,6,12,5,48,0,Chimezie Metu missed Jumper.
+Stanford,USC,6,12,5,48,0,Dorian Pickens Defensive Rebound.
+Stanford,USC,6,12,6,2,0,Foul on Charles Buggs.
+Stanford,USC,8,12,6,7,1,Michael Humphrey made Dunk. Assisted by Christian Sanders.
+Stanford,USC,8,12,6,20,0,Chimezie Metu Turnover.
+Stanford,USC,8,12,6,30,0,Michael Humphrey missed Three Point Jumper.
+Stanford,USC,8,12,6,30,0,Jonah Mathews Defensive Rebound.
+Stanford,USC,8,12,6,40,0,Jordan McLaughlin Turnover.
+Stanford,USC,8,12,6,56,0,Josh Sharma Turnover.
+Stanford,USC,8,12,6,56,0,Elijah Stewart Steal.
+Stanford,USC,8,12,7,7,0,Foul on Josh Sharma.
+Stanford,USC,8,12,7,16,0,Foul on Grant Verhoeven.
+Stanford,USC,8,12,7,16,0,Nick Rakocevic missed Free Throw.
+Stanford,USC,8,12,7,16,0,USC Deadball Team Rebound.
+Stanford,USC,8,12,7,16,0,Nick Rakocevic missed Free Throw.
+Stanford,USC,8,12,7,16,0,Michael Humphrey Defensive Rebound.
+Stanford,USC,8,12,7,24,0,Robert Cartwright Turnover.
+Stanford,USC,8,12,7,24,0,Jonah Mathews Steal.
+Stanford,USC,8,14,7,27,1,Jonah Mathews made Layup.
+Stanford,USC,8,14,7,44,0,Grant Verhoeven Turnover.
+Stanford,USC,8,14,7,44,0,Jonah Mathews Steal.
+Stanford,USC,8,16,7,48,1,Jordan McLaughlin made Dunk. Assisted by Jonah Mathews.
+Stanford,USC,8,16,7,54,0,Stanford  Timeout
+Stanford,USC,8,16,8,19,0,Stanford  Timeout
+Stanford,USC,8,16,8,19,0,Official TV Timeout
+Stanford,USC,8,16,8,23,0,Dorian Pickens missed Three Point Jumper.
+Stanford,USC,8,16,8,23,0,USC Defensive Rebound.
+Stanford,USC,8,16,8,43,0,Nick Rakocevic missed Jumper.
+Stanford,USC,8,16,8,43,0,Marcus Sheffield Defensive Rebound.
+Stanford,USC,8,16,8,46,0,Marcus Sheffield Turnover.
+Stanford,USC,8,19,9,3,1,Shaqquan Aaron made Three Point Jumper. Assisted by De'Anthony Melton.
+Stanford,USC,8,19,9,24,0,Marcus Allen missed Three Point Jumper.
+Stanford,USC,8,19,9,24,0,Grant Verhoeven Offensive Rebound.
+Stanford,USC,8,19,9,37,0,Dorian Pickens missed Jumper.
+Stanford,USC,8,19,9,37,0,Shaqquan Aaron Defensive Rebound.
+Stanford,USC,8,19,9,46,0,Shaqquan Aaron missed Jumper.
+Stanford,USC,8,19,9,46,0,Nick Rakocevic Offensive Rebound.
+Stanford,USC,8,19,9,46,0,Nick Rakocevic missed Two Point Tip Shot.
+Stanford,USC,8,19,9,46,0,Marcus Allen Defensive Rebound.
+Stanford,USC,10,19,10,2,1,Marcus Sheffield made Jumper.
+Stanford,USC,10,19,10,16,0,Shaqquan Aaron Turnover.
+Stanford,USC,10,19,10,30,0,Marcus Sheffield missed Jumper.
+Stanford,USC,10,19,10,30,0,Charles Buggs Defensive Rebound.
+Stanford,USC,10,19,10,41,0,Charles Buggs missed Three Point Jumper.
+Stanford,USC,10,19,10,41,0,Marcus Sheffield Defensive Rebound.
+Stanford,USC,10,19,10,52,0,Dorian Pickens missed Jumper.
+Stanford,USC,10,19,10,52,0,Michael Humphrey Offensive Rebound.
+Stanford,USC,10,19,10,59,0,Marcus Sheffield missed Layup.
+Stanford,USC,10,19,10,59,0,Shaqquan Aaron Defensive Rebound.
+Stanford,USC,10,19,11,4,0,Shaqquan Aaron Turnover.
+Stanford,USC,10,19,11,23,0,Michael Humphrey missed Jumper.
+Stanford,USC,10,19,11,23,0,USC Defensive Rebound.
+Stanford,USC,10,19,11,46,0,Foul on Grant Verhoeven.
+Stanford,USC,10,20,11,46,1,De'Anthony Melton made Free Throw.
+Stanford,USC,10,21,11,46,1,De'Anthony Melton made Free Throw.
+Stanford,USC,12,21,12,8,1,Michael Humphrey made Dunk. Assisted by Robert Cartwright.
+Stanford,USC,12,21,12,22,0,Charles Buggs missed Three Point Jumper.
+Stanford,USC,12,21,12,22,0,Josh Sharma Defensive Rebound.
+Stanford,USC,14,21,12,40,1,Josh Sharma made Jumper. Assisted by Michael Humphrey.
+Stanford,USC,14,21,13,1,0,Elijah Stewart Turnover.
+Stanford,USC,14,21,13,1,0,Marcus Allen Steal.
+Stanford,USC,16,21,13,25,1,Marcus Allen made Layup.
+Stanford,USC,16,21,13,27,0,Official TV Timeout
+Stanford,USC,16,21,13,27,0,USC  Timeout
+Stanford,USC,16,23,13,37,1,Chimezie Metu made Jumper. Assisted by Nick Rakocevic.
+Stanford,USC,18,23,14,7,1,Josh Sharma made Jumper. Assisted by Michael Humphrey.
+Stanford,USC,18,23,14,25,0,Foul on Michael Humphrey.
+Stanford,USC,18,24,14,25,1,Chimezie Metu made Free Throw.
+Stanford,USC,18,25,14,25,1,Chimezie Metu made Free Throw.
+Stanford,USC,21,25,14,46,1,Robert Cartwright made Three Point Jumper. Assisted by Dorian Pickens.
+Stanford,USC,21,25,15,6,0,Chimezie Metu missed Layup.
+Stanford,USC,21,25,15,6,0,Grant Verhoeven Block.
+Stanford,USC,21,25,15,6,0,USC Offensive Rebound.
+Stanford,USC,21,25,15,9,0,Jonah Mathews missed Jumper.
+Stanford,USC,21,25,15,9,0,Marcus Allen Defensive Rebound.
+Stanford,USC,23,25,15,32,1,Grant Verhoeven made Layup. Assisted by Marcus Allen.
+Stanford,USC,23,25,15,45,0,Foul on Nick Rakocevic.
+Stanford,USC,23,25,15,45,0,Nick Rakocevic Turnover.
+Stanford,USC,23,25,15,58,0,Robert Cartwright missed Layup.
+Stanford,USC,23,25,15,58,0,Grant Verhoeven Offensive Rebound.
+Stanford,USC,23,25,15,58,0,Grant Verhoeven missed Two Point Tip Shot.
+Stanford,USC,23,25,15,58,0,Chimezie Metu Defensive Rebound.
+Stanford,USC,23,25,16,4,0,Chimezie Metu Turnover.
+Stanford,USC,23,25,16,4,0,Robert Cartwright Steal.
+Stanford,USC,23,25,16,6,0,Robert Cartwright missed Layup.
+Stanford,USC,23,25,16,6,0,Charles Buggs Block.
+Stanford,USC,23,25,16,6,0,Chimezie Metu Defensive Rebound.
+Stanford,USC,23,27,16,13,1,Jordan McLaughlin made Layup.
+Stanford,USC,25,27,16,39,1,Grant Verhoeven made Layup. Assisted by Robert Cartwright.
+Stanford,USC,25,27,16,39,0,Official TV Timeout
+Stanford,USC,25,27,16,39,0,Foul on Charles Buggs.
+Stanford,USC,26,27,16,39,1,Grant Verhoeven made Free Throw.
+Stanford,USC,26,30,16,56,1,Jonah Mathews made Three Point Jumper. Assisted by Chimezie Metu.
+Stanford,USC,28,30,17,29,1,Marcus Allen made Layup.
+Stanford,USC,28,30,17,50,0,Jordan McLaughlin Turnover.
+Stanford,USC,28,30,17,50,0,Robert Cartwright Steal.
+Stanford,USC,28,30,17,55,0,Josh Sharma Turnover.
+Stanford,USC,28,32,18,10,1,Charles Buggs made Layup. Assisted by Jonah Mathews.
+Stanford,USC,28,32,18,47,0,Robert Cartwright missed Three Point Jumper.
+Stanford,USC,28,32,18,47,0,Josh Sharma Offensive Rebound.
+Stanford,USC,28,32,18,47,0,Josh Sharma missed Two Point Tip Shot.
+Stanford,USC,28,32,18,47,0,Chimezie Metu Block.
+Stanford,USC,28,32,18,47,0,Chimezie Metu Defensive Rebound.
+Stanford,USC,28,32,18,58,0,Foul on Dorian Pickens.
+Stanford,USC,28,33,18,58,1,Elijah Stewart made Free Throw.
+Stanford,USC,28,34,18,58,1,Elijah Stewart made Free Throw.
+Stanford,USC,28,34,19,16,0,Marcus Sheffield Turnover.
+Stanford,USC,28,34,19,33,0,Elijah Stewart missed Three Point Jumper.
+Stanford,USC,28,34,19,33,0,Grant Verhoeven Defensive Rebound.
+Stanford,USC,28,34,19,55,0,Robert Cartwright Turnover.
+Stanford,USC,28,36,19,59,1,Jordan McLaughlin made Layup.
+Stanford,USC,28,36,20,0,0,End of 1st half
+Stanford,USC,28,36,20,0,0,Jump Ball won by USC
+Stanford,USC,28,36,20,12,0,Nick Rakocevic missed Layup.
+Stanford,USC,28,36,20,12,0,USC Offensive Rebound.
+Stanford,USC,28,36,20,15,0,Foul on Dorian Pickens.
+Stanford,USC,28,36,20,17,0,Jordan McLaughlin missed Jumper.
+Stanford,USC,28,36,20,17,0,Chimezie Metu Offensive Rebound.
+Stanford,USC,28,36,20,24,0,Foul on Grant Verhoeven.
+Stanford,USC,28,38,20,31,1,Chimezie Metu made Layup.
+Stanford,USC,30,38,20,50,1,Marcus Allen made Layup.
+Stanford,USC,30,38,20,50,0,Foul on De'Anthony Melton.
+Stanford,USC,31,38,20,50,1,Marcus Allen made Free Throw.
+Stanford,USC,31,38,21,1,0,Jordan McLaughlin Turnover.
+Stanford,USC,31,38,21,1,0,Josh Sharma Steal.
+Stanford,USC,31,38,21,27,0,Michael Humphrey missed Layup.
+Stanford,USC,31,38,21,27,0,De'Anthony Melton Block.
+Stanford,USC,31,38,21,27,0,Josh Sharma Offensive Rebound.
+Stanford,USC,31,38,21,27,0,Foul on Nick Rakocevic.
+Stanford,USC,32,38,21,27,1,Josh Sharma made Free Throw.
+Stanford,USC,32,38,21,27,0,Josh Sharma missed Free Throw.
+Stanford,USC,32,38,21,27,0,De'Anthony Melton Defensive Rebound.
+Stanford,USC,32,38,21,55,0,Chimezie Metu missed Jumper.
+Stanford,USC,32,38,21,55,0,Chimezie Metu Offensive Rebound.
+Stanford,USC,32,40,21,55,1,Chimezie Metu made Two Point Tip Shot.
+Stanford,USC,32,40,22,22,0,Marcus Sheffield Turnover.
+Stanford,USC,32,40,22,38,0,Chimezie Metu Turnover.
+Stanford,USC,32,40,22,38,0,Christian Sanders Steal.
+Stanford,USC,32,40,22,50,0,Josh Sharma missed Layup.
+Stanford,USC,32,40,22,50,0,Chimezie Metu Block.
+Stanford,USC,32,40,22,50,0,Elijah Stewart Defensive Rebound.
+Stanford,USC,32,40,22,59,0,Shaqquan Aaron missed Three Point Jumper.
+Stanford,USC,32,40,22,59,0,Stanford Defensive Rebound.
+Stanford,USC,32,40,23,15,0,Foul on Chimezie Metu.
+Stanford,USC,32,40,23,26,0,Michael Humphrey missed Jumper.
+Stanford,USC,32,40,23,26,0,USC Defensive Rebound.
+Stanford,USC,32,43,23,33,1,Shaqquan Aaron made Three Point Jumper. Assisted by Jordan McLaughlin.
+Stanford,USC,32,43,23,53,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,USC,32,43,23,53,0,De'Anthony Melton Defensive Rebound.
+Stanford,USC,32,43,24,7,0,Elijah Stewart missed Three Point Jumper.
+Stanford,USC,32,43,24,7,0,Michael Humphrey Defensive Rebound.
+Stanford,USC,32,43,24,29,0,Marcus Sheffield Turnover.
+Stanford,USC,32,43,24,29,0,De'Anthony Melton Steal.
+Stanford,USC,32,45,24,35,1,Elijah Stewart made Dunk. Assisted by Jordan McLaughlin.
+Stanford,USC,32,45,25,0,0,Michael Humphrey missed Jumper.
+Stanford,USC,32,45,25,0,0,Shaqquan Aaron Defensive Rebound.
+Stanford,USC,32,45,25,8,0,Jordan McLaughlin missed Layup.
+Stanford,USC,32,45,25,8,0,Josh Sharma Defensive Rebound.
+Stanford,USC,32,45,25,27,0,Stanford  Timeout
+Stanford,USC,32,45,25,27,0,Official TV Timeout
+Stanford,USC,32,45,25,34,0,Michael Humphrey Turnover.
+Stanford,USC,32,45,25,44,0,Shaqquan Aaron missed Three Point Jumper.
+Stanford,USC,32,45,25,44,0,Robert Cartwright Defensive Rebound.
+Stanford,USC,34,45,26,5,1,Marcus Allen made Layup. Assisted by Michael Humphrey.
+Stanford,USC,34,45,26,27,0,Shaqquan Aaron Turnover.
+Stanford,USC,34,45,26,54,0,Marcus Allen missed Three Point Jumper.
+Stanford,USC,34,45,26,54,0,Elijah Stewart Defensive Rebound.
+Stanford,USC,34,45,27,3,0,Jonah Mathews missed Three Point Jumper.
+Stanford,USC,34,45,27,3,0,Elijah Stewart Offensive Rebound.
+Stanford,USC,34,45,27,14,0,Elijah Stewart Turnover.
+Stanford,USC,34,45,27,14,0,Dorian Pickens Steal.
+Stanford,USC,34,45,27,18,0,Dorian Pickens missed Layup.
+Stanford,USC,34,45,27,18,0,Jonah Mathews Block.
+Stanford,USC,34,45,27,18,0,Chimezie Metu Defensive Rebound.
+Stanford,USC,34,45,27,26,0,Foul on Chimezie Metu.
+Stanford,USC,34,45,27,26,0,Chimezie Metu Turnover.
+Stanford,USC,34,45,27,56,0,Stanford  Turnover.
+Stanford,USC,34,48,28,9,1,Jonah Mathews made Three Point Jumper. Assisted by Jordan McLaughlin.
+Stanford,USC,34,48,28,18,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,USC,34,48,28,18,0,Nick Rakocevic Defensive Rebound.
+Stanford,USC,34,48,28,32,0,Jordan McLaughlin missed Three Point Jumper.
+Stanford,USC,34,48,28,32,0,Grant Verhoeven Defensive Rebound.
+Stanford,USC,34,48,28,37,0,Official TV Timeout
+Stanford,USC,34,48,28,37,0,Jump Ball won by Stanford
+Stanford,USC,34,48,29,2,0,Josh Sharma missed Jumper.
+Stanford,USC,34,48,29,2,0,Elijah Stewart Defensive Rebound.
+Stanford,USC,34,48,29,9,0,Elijah Stewart missed Jumper.
+Stanford,USC,34,48,29,9,0,Charles Buggs Offensive Rebound.
+Stanford,USC,34,48,29,9,0,Foul on Grant Verhoeven.
+Stanford,USC,34,48,29,22,0,Elijah Stewart missed Jumper.
+Stanford,USC,34,48,29,22,0,USC Offensive Rebound.
+Stanford,USC,34,48,29,22,0,Foul on Christian Sanders.
+Stanford,USC,34,48,29,32,0,Jonah Mathews missed Three Point Jumper.
+Stanford,USC,34,48,29,32,0,Josh Sharma Defensive Rebound.
+Stanford,USC,37,48,29,48,1,Josh Sharma made Three Point Jumper.
+Stanford,USC,37,48,30,7,0,Jonah Mathews Turnover.
+Stanford,USC,39,48,30,21,1,Christian Sanders made Jumper. Assisted by Michael Humphrey.
+Stanford,USC,39,48,30,47,0,Foul on Nick Rakocevic.
+Stanford,USC,39,48,30,47,0,Nick Rakocevic Turnover.
+Stanford,USC,39,48,31,14,0,Michael Humphrey missed Jumper.
+Stanford,USC,39,48,31,14,0,Stanford Offensive Rebound.
+Stanford,USC,39,48,31,16,0,Foul on Elijah Stewart.
+Stanford,USC,39,48,31,26,0,Foul on Michael Humphrey.
+Stanford,USC,39,48,31,26,0,Michael Humphrey Turnover.
+Stanford,USC,39,48,31,38,0,Shaqquan Aaron missed Three Point Jumper.
+Stanford,USC,39,48,31,38,0,Josh Sharma Defensive Rebound.
+Stanford,USC,39,48,31,56,0,Michael Humphrey missed Jumper.
+Stanford,USC,39,48,31,56,0,Chimezie Metu Defensive Rebound.
+Stanford,USC,39,48,32,4,0,Foul on Michael Humphrey.
+Stanford,USC,39,48,32,4,0,Official TV Timeout
+Stanford,USC,39,49,32,4,1,Shaqquan Aaron made Free Throw.
+Stanford,USC,39,50,32,4,1,Shaqquan Aaron made Free Throw.
+Stanford,USC,39,50,32,26,0,Grant Verhoeven Turnover.
+Stanford,USC,39,50,32,26,0,Jonah Mathews Steal.
+Stanford,USC,39,50,32,33,0,Elijah Stewart missed Three Point Jumper.
+Stanford,USC,39,50,32,33,0,Josh Sharma Defensive Rebound.
+Stanford,USC,42,50,32,51,1,Dorian Pickens made Three Point Jumper. Assisted by Marcus Allen.
+Stanford,USC,42,52,33,16,1,Chimezie Metu made Jumper.
+Stanford,USC,44,52,33,38,1,Marcus Allen made Layup.
+Stanford,USC,44,52,33,56,0,Foul on Marcus Allen.
+Stanford,USC,44,53,33,56,1,Jordan McLaughlin made Free Throw.
+Stanford,USC,44,54,33,56,1,Jordan McLaughlin made Free Throw.
+Stanford,USC,44,54,34,5,0,Christian Sanders Turnover.
+Stanford,USC,44,54,34,5,0,Jordan McLaughlin Steal.
+Stanford,USC,44,54,34,16,0,Jordan McLaughlin missed Three Point Jumper.
+Stanford,USC,44,54,34,16,0,Chimezie Metu Offensive Rebound.
+Stanford,USC,44,54,34,16,0,Foul on Josh Sharma.
+Stanford,USC,44,55,34,16,1,Chimezie Metu made Free Throw.
+Stanford,USC,44,56,34,16,1,Chimezie Metu made Free Throw.
+Stanford,USC,44,56,34,25,0,Dorian Pickens missed Three Point Jumper.
+Stanford,USC,44,56,34,25,0,Elijah Stewart Defensive Rebound.
+Stanford,USC,44,56,34,35,0,De'Anthony Melton Turnover.
+Stanford,USC,44,56,34,35,0,Marcus Allen Steal.
+Stanford,USC,44,56,34,40,0,Foul on Jonah Mathews.
+Stanford,USC,45,56,34,40,1,Dorian Pickens made Free Throw.
+Stanford,USC,46,56,34,40,1,Dorian Pickens made Free Throw.
+Stanford,USC,46,59,34,49,1,De'Anthony Melton made Three Point Jumper.
+Stanford,USC,48,59,35,9,1,Marcus Allen made Layup.
+Stanford,USC,48,62,35,20,1,De'Anthony Melton made Three Point Jumper.
+Stanford,USC,48,62,35,39,0,Marcus Allen missed Jumper.
+Stanford,USC,48,62,35,39,0,Nick Rakocevic Defensive Rebound.
+Stanford,USC,48,62,35,54,0,Jonah Mathews missed Three Point Jumper.
+Stanford,USC,48,62,35,54,0,Marcus Allen Defensive Rebound.
+Stanford,USC,48,62,36,1,0,Foul on Elijah Stewart.
+Stanford,USC,48,62,36,1,0,Official TV Timeout
+Stanford,USC,48,62,36,1,0,Marcus Allen missed Free Throw.
+Stanford,USC,48,62,36,1,0,Jonah Mathews Defensive Rebound.
+Stanford,USC,48,64,36,17,1,Jonah Mathews made Jumper. Assisted by Jordan McLaughlin.
+Stanford,USC,48,64,36,24,0,Robert Cartwright Turnover.
+Stanford,USC,48,64,36,24,0,Jonah Mathews Steal.
+Stanford,USC,48,64,36,27,0,Jonah Mathews Turnover.
+Stanford,USC,48,64,36,27,0,Dorian Pickens Steal.
+Stanford,USC,48,64,36,35,0,Foul on Jordan McLaughlin.
+Stanford,USC,49,64,36,35,1,Dorian Pickens made Free Throw.
+Stanford,USC,50,64,36,35,1,Dorian Pickens made Free Throw.
+Stanford,USC,50,66,36,53,1,Jordan McLaughlin made Layup. Assisted by De'Anthony Melton.
+Stanford,USC,50,66,36,58,0,Josh Sharma Turnover.
+Stanford,USC,50,68,37,1,1,De'Anthony Melton made Layup. Assisted by Jordan McLaughlin.
+Stanford,USC,50,68,37,11,0,Dorian Pickens missed Three Point Jumper.
+Stanford,USC,50,68,37,11,0,Chimezie Metu Defensive Rebound.
+Stanford,USC,50,68,37,32,0,Jonah Mathews missed Jumper.
+Stanford,USC,50,68,37,32,0,Marcus Allen Defensive Rebound.
+Stanford,USC,53,68,37,39,1,Dorian Pickens made Three Point Jumper. Assisted by Christian Sanders.
+Stanford,USC,53,68,37,59,0,Jordan McLaughlin missed Jumper.
+Stanford,USC,53,68,37,59,0,Michael Humphrey Defensive Rebound.
+Stanford,USC,53,68,38,7,0,Foul on De'Anthony Melton.
+Stanford,USC,53,68,38,7,0,Dorian Pickens missed Free Throw.
+Stanford,USC,53,68,38,7,0,Stanford Deadball Team Rebound.
+Stanford,USC,53,68,38,7,0,USC  Timeout
+Stanford,USC,54,68,38,7,1,Dorian Pickens made Free Throw.
+Stanford,USC,54,68,38,14,0,Foul on Grant Verhoeven.
+Stanford,USC,54,68,38,14,0,Chimezie Metu missed Free Throw.
+Stanford,USC,54,68,38,14,0,Dorian Pickens Defensive Rebound.
+Stanford,USC,54,68,38,29,0,Michael Humphrey missed Jumper.
+Stanford,USC,54,68,38,29,0,De'Anthony Melton Defensive Rebound.
+Stanford,USC,54,68,38,47,0,Elijah Stewart missed Three Point Jumper.
+Stanford,USC,54,68,38,47,0,Christian Sanders Defensive Rebound.
+Stanford,USC,54,68,38,55,0,Foul on Jonah Mathews.
+Stanford,USC,55,68,38,55,1,Christian Sanders made Free Throw.
+Stanford,USC,56,68,38,55,1,Christian Sanders made Free Throw.
+Stanford,USC,56,68,39,25,0,Jonah Mathews missed Three Point Jumper.
+Stanford,USC,56,68,39,25,0,Elijah Stewart Offensive Rebound.
+Stanford,USC,56,70,39,25,1,Elijah Stewart made Two Point Tip Shot.
+Stanford,USC,56,70,39,26,0,Foul on Christian Sanders.
+Stanford,USC,56,70,39,26,0,Christian Sanders Turnover.
+Stanford,USC,56,72,39,58,1,Harrison Henderson made Layup. Assisted by Jordan McLaughlin.
+Stanford,USC,56,72,40,0,0,End of Game

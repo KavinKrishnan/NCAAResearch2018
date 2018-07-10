@@ -1,0 +1,345 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,Oregon State,0,2,0,8,1,Roberto Nelson made Layup.
+Stanford,Oregon State,0,2,0,24,0,Anthony Brown missed Three Point Jumper.
+Stanford,Oregon State,0,2,0,24,0,Dwight Powell Offensive Rebound.
+Stanford,Oregon State,0,2,0,27,0,Dwight Powell missed Layup.
+Stanford,Oregon State,0,2,0,27,0,Eric Moreland Block.
+Stanford,Oregon State,0,2,0,27,0,Oregon St Defensive Rebound.
+Stanford,Oregon State,0,2,0,52,0,Roberto Nelson missed Layup.
+Stanford,Oregon State,0,2,0,52,0,Stefan Nastic Defensive Rebound.
+Stanford,Oregon State,0,2,1,0,0,Foul on Angus Brandt.
+Stanford,Oregon State,2,2,1,6,1,Stefan Nastic made Jumper. Assisted by Anthony Brown.
+Stanford,Oregon State,2,4,1,25,1,Angus Brandt made Jumper.
+Stanford,Oregon State,2,4,1,36,0,Dwight Powell Turnover.
+Stanford,Oregon State,2,4,2,4,0,Hallice Cooke missed Jumper.
+Stanford,Oregon State,2,4,2,4,0,Angus Brandt Offensive Rebound.
+Stanford,Oregon State,2,4,2,13,0,Roberto Nelson missed Layup.
+Stanford,Oregon State,2,4,2,13,0,Stefan Nastic Block.
+Stanford,Oregon State,2,4,2,13,0,Stanford Defensive Rebound.
+Stanford,Oregon State,2,4,2,25,0,Dwight Powell missed Jumper.
+Stanford,Oregon State,2,4,2,25,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,2,4,2,33,0,Eric Moreland missed Layup.
+Stanford,Oregon State,2,4,2,33,0,Stefan Nastic Defensive Rebound.
+Stanford,Oregon State,2,4,2,47,0,Anthony Brown Turnover.
+Stanford,Oregon State,2,4,2,48,0,Roberto Nelson Steal.
+Stanford,Oregon State,2,4,2,56,0,Hallice Cooke missed Three Point Jumper.
+Stanford,Oregon State,2,4,2,56,0,Dwight Powell Defensive Rebound.
+Stanford,Oregon State,2,4,3,11,0,Josh Huestis missed Jumper.
+Stanford,Oregon State,2,4,3,11,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,2,7,3,18,1,Roberto Nelson made Three Point Jumper.
+Stanford,Oregon State,4,7,3,39,1,Chasson Randle made Layup. Assisted by Dwight Powell.
+Stanford,Oregon State,4,9,3,57,1,Eric Moreland made Layup.
+Stanford,Oregon State,4,9,3,57,0,Foul on Stefan Nastic.
+Stanford,Oregon State,4,10,3,57,1,Eric Moreland made Free Throw.
+Stanford,Oregon State,6,10,4,15,1,Stefan Nastic made Layup. Assisted by Dwight Powell.
+Stanford,Oregon State,6,10,4,30,0,Foul on Stefan Nastic.
+Stanford,Oregon State,6,10,4,54,0,Foul on John Gage.
+Stanford,Oregon State,6,12,4,56,1,Roberto Nelson made Jumper. Assisted by Hallice Cooke.
+Stanford,Oregon State,6,12,5,11,0,Foul on Hallice Cooke.
+Stanford,Oregon State,6,12,5,17,0,Dwight Powell missed Layup.
+Stanford,Oregon State,6,12,5,17,0,Daniel Gomis Defensive Rebound.
+Stanford,Oregon State,6,12,5,23,0,Daniel Gomis Turnover.
+Stanford,Oregon State,6,12,5,23,0,Foul on Daniel Gomis.
+Stanford,Oregon State,6,12,5,32,0,Dwight Powell Turnover.
+Stanford,Oregon State,6,12,5,55,0,Daniel Gomis Turnover.
+Stanford,Oregon State,6,12,5,55,0,Foul on Daniel Gomis.
+Stanford,Oregon State,6,12,6,17,0,Anthony Brown missed Layup.
+Stanford,Oregon State,6,12,6,17,0,Josh Huestis Offensive Rebound.
+Stanford,Oregon State,6,12,6,20,0,Josh Huestis missed Jumper.
+Stanford,Oregon State,6,12,6,20,0,Josh Huestis Offensive Rebound.
+Stanford,Oregon State,8,12,6,25,1,Josh Huestis made Layup.
+Stanford,Oregon State,8,12,6,43,0,Langston Morris-Walker Turnover.
+Stanford,Oregon State,8,12,6,44,0,Dwight Powell Steal.
+Stanford,Oregon State,8,12,6,48,0,Anthony Brown missed Jumper.
+Stanford,Oregon State,8,12,6,48,0,Roberto Nelson Defensive Rebound.
+Stanford,Oregon State,8,12,7,16,0,Angus Brandt missed Jumper.
+Stanford,Oregon State,8,12,7,16,0,Josh Huestis Defensive Rebound.
+Stanford,Oregon State,10,12,7,37,1,Chasson Randle made Layup.
+Stanford,Oregon State,10,12,7,37,0,Foul on Langston Morris-Walker.
+Stanford,Oregon State,11,12,7,37,1,Chasson Randle made Free Throw.
+Stanford,Oregon State,11,12,8,1,0,Roberto Nelson missed Three Point Jumper.
+Stanford,Oregon State,11,12,8,1,0,Marcus Allen Defensive Rebound.
+Stanford,Oregon State,13,12,8,20,1,Josh Huestis made Jumper. Assisted by Chasson Randle.
+Stanford,Oregon State,13,14,8,33,1,Devon Collier made Layup. Assisted by Eric Moreland.
+Stanford,Oregon State,13,14,8,33,0,Foul on Dwight Powell.
+Stanford,Oregon State,13,14,8,33,0,Devon Collier missed Free Throw.
+Stanford,Oregon State,13,14,8,33,0,Josh Huestis Defensive Rebound.
+Stanford,Oregon State,13,14,8,51,0,Marcus Allen missed Jumper.
+Stanford,Oregon State,13,14,8,51,0,Josh Huestis Offensive Rebound.
+Stanford,Oregon State,13,14,8,56,0,Josh Huestis missed Jumper.
+Stanford,Oregon State,13,14,8,56,0,Eric Moreland Block.
+Stanford,Oregon State,13,14,8,57,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,13,14,9,5,0,Eric Moreland missed Layup.
+Stanford,Oregon State,13,14,9,5,0,Grant Verhoeven Defensive Rebound.
+Stanford,Oregon State,15,14,9,19,1,Chasson Randle made Jumper.
+Stanford,Oregon State,15,17,9,43,1,Malcolm Duvivier made Three Point Jumper. Assisted by Challe Barton.
+Stanford,Oregon State,18,17,9,56,1,Chasson Randle made Three Point Jumper. Assisted by Marcus Allen.
+Stanford,Oregon State,18,17,10,19,0,Devon Collier missed Layup.
+Stanford,Oregon State,18,17,10,19,0,Angus Brandt Offensive Rebound.
+Stanford,Oregon State,18,19,10,23,1,Angus Brandt made Dunk.
+Stanford,Oregon State,18,19,10,25,0,Foul on Malcolm Duvivier.
+Stanford,Oregon State,18,19,10,30,0,Chasson Randle missed Jumper.
+Stanford,Oregon State,18,19,10,30,0,Roberto Nelson Defensive Rebound.
+Stanford,Oregon State,18,19,10,45,0,Foul on Grant Verhoeven.
+Stanford,Oregon State,18,21,10,52,1,Eric Moreland made Layup.
+Stanford,Oregon State,18,21,11,8,0,Dwight Powell missed Jumper.
+Stanford,Oregon State,18,21,11,8,0,Olaf Schaftenaar Defensive Rebound.
+Stanford,Oregon State,18,21,11,19,0,Foul on Chasson Randle.
+Stanford,Oregon State,18,24,11,26,1,Olaf Schaftenaar made Three Point Jumper. Assisted by Eric Moreland.
+Stanford,Oregon State,18,24,11,45,0,John Gage Turnover.
+Stanford,Oregon State,18,24,11,47,0,Angus Brandt Steal.
+Stanford,Oregon State,18,24,11,55,0,Eric Moreland Turnover.
+Stanford,Oregon State,18,24,11,56,0,Dwight Powell Steal.
+Stanford,Oregon State,18,24,11,56,0,Dwight Powell Turnover.
+Stanford,Oregon State,18,24,11,56,0,Roberto Nelson Steal.
+Stanford,Oregon State,18,24,12,13,0,Foul on Grant Verhoeven.
+Stanford,Oregon State,18,24,12,13,0,Official TV Timeout
+Stanford,Oregon State,18,24,12,13,0,Eric Moreland missed Free Throw.
+Stanford,Oregon State,18,24,12,13,0,Oregon St Deadball Team Rebound.
+Stanford,Oregon State,18,25,12,13,1,Eric Moreland made Free Throw.
+Stanford,Oregon State,18,25,12,37,0,Josh Huestis missed Jumper.
+Stanford,Oregon State,18,25,12,37,0,Eric Moreland Block.
+Stanford,Oregon State,18,25,12,38,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,18,27,12,57,1,Angus Brandt made Jumper. Assisted by Eric Moreland.
+Stanford,Oregon State,18,27,13,18,0,Dwight Powell Turnover.
+Stanford,Oregon State,18,27,13,37,0,Angus Brandt missed Jumper.
+Stanford,Oregon State,18,27,13,37,0,Olaf Schaftenaar Offensive Rebound.
+Stanford,Oregon State,18,27,13,42,0,Olaf Schaftenaar Turnover.
+Stanford,Oregon State,18,27,14,4,0,Anthony Brown missed Jumper.
+Stanford,Oregon State,18,27,14,4,0,Dwight Powell Offensive Rebound.
+Stanford,Oregon State,18,27,14,11,0,Dwight Powell missed Three Point Jumper.
+Stanford,Oregon State,18,27,14,11,0,Challe Barton Defensive Rebound.
+Stanford,Oregon State,18,27,14,24,0,Olaf Schaftenaar missed Three Point Jumper.
+Stanford,Oregon State,18,27,14,24,0,Chasson Randle Defensive Rebound.
+Stanford,Oregon State,18,27,14,36,0,Foul on Cheikh N'diaye.
+Stanford,Oregon State,19,27,14,36,1,Stefan Nastic made Free Throw.
+Stanford,Oregon State,19,27,14,36,0,Stefan Nastic missed Free Throw.
+Stanford,Oregon State,19,27,14,36,0,Hallice Cooke Defensive Rebound.
+Stanford,Oregon State,19,29,15,6,1,Roberto Nelson made Jumper.
+Stanford,Oregon State,21,29,15,17,1,Dwight Powell made Jumper. Assisted by Stefan Nastic.
+Stanford,Oregon State,21,29,15,35,0,Cheikh N'diaye missed Layup.
+Stanford,Oregon State,21,29,15,35,0,Dwight Powell Block.
+Stanford,Oregon State,21,29,15,37,0,Anthony Brown Defensive Rebound.
+Stanford,Oregon State,23,29,15,44,1,Josh Huestis made Jumper. Assisted by Anthony Brown.
+Stanford,Oregon State,23,29,16,4,0,Devon Collier Turnover.
+Stanford,Oregon State,23,29,16,4,0,Official TV Timeout
+Stanford,Oregon State,23,29,16,19,0,Foul on Eric Moreland.
+Stanford,Oregon State,24,29,16,19,1,Dwight Powell made Free Throw.
+Stanford,Oregon State,24,29,16,19,0,Dwight Powell missed Free Throw.
+Stanford,Oregon State,24,29,16,19,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,24,32,16,35,1,Hallice Cooke made Three Point Jumper. Assisted by Roberto Nelson.
+Stanford,Oregon State,24,32,16,55,0,Anthony Brown missed Jumper.
+Stanford,Oregon State,24,32,16,55,0,Hallice Cooke Defensive Rebound.
+Stanford,Oregon State,24,32,17,7,0,Hallice Cooke missed Jumper.
+Stanford,Oregon State,24,32,17,7,0,Anthony Brown Defensive Rebound.
+Stanford,Oregon State,26,32,17,22,1,Stefan Nastic made Jumper. Assisted by Anthony Brown.
+Stanford,Oregon State,26,32,17,37,0,Hallice Cooke missed Three Point Jumper.
+Stanford,Oregon State,26,32,17,37,0,Angus Brandt Offensive Rebound.
+Stanford,Oregon State,26,34,17,40,1,Eric Moreland made Layup. Assisted by Angus Brandt.
+Stanford,Oregon State,26,34,17,40,0,Foul on Josh Huestis.
+Stanford,Oregon State,26,34,17,40,0,Eric Moreland missed Free Throw.
+Stanford,Oregon State,26,34,17,40,0,Stefan Nastic Defensive Rebound.
+Stanford,Oregon State,26,34,17,50,0,Foul on Cheikh N'diaye.
+Stanford,Oregon State,27,34,17,50,1,Stefan Nastic made Free Throw.
+Stanford,Oregon State,28,34,17,50,1,Stefan Nastic made Free Throw.
+Stanford,Oregon State,28,36,18,11,1,Eric Moreland made Layup.
+Stanford,Oregon State,28,36,18,11,0,Foul on Grant Verhoeven.
+Stanford,Oregon State,28,37,18,11,1,Eric Moreland made Free Throw.
+Stanford,Oregon State,28,37,18,23,0,Marcus Allen missed Jumper.
+Stanford,Oregon State,28,37,18,23,0,Hallice Cooke Defensive Rebound.
+Stanford,Oregon State,28,37,18,33,0,Angus Brandt missed Three Point Jumper.
+Stanford,Oregon State,28,37,18,33,0,Stanford Defensive Rebound.
+Stanford,Oregon State,30,37,19,1,1,Chasson Randle made Jumper.
+Stanford,Oregon State,30,37,19,26,0,Angus Brandt missed Layup.
+Stanford,Oregon State,30,37,19,26,0,Anthony Brown Defensive Rebound.
+Stanford,Oregon State,30,37,19,28,0,Stanford  Timeout
+Stanford,Oregon State,30,37,19,54,0,Chasson Randle missed Jumper.
+Stanford,Oregon State,30,37,19,54,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,32,37,19,58,1,Chasson Randle made Layup.
+Stanford,Oregon State,32,37,20,0,0,End of 1st half
+Stanford,Oregon State,32,37,20,14,0,Foul on Eric Moreland.
+Stanford,Oregon State,33,37,20,14,1,Dwight Powell made Free Throw.
+Stanford,Oregon State,34,37,20,14,1,Dwight Powell made Free Throw.
+Stanford,Oregon State,34,37,20,29,0,Foul on Anthony Brown.
+Stanford,Oregon State,34,38,20,29,1,Roberto Nelson made Free Throw.
+Stanford,Oregon State,34,39,20,29,1,Roberto Nelson made Free Throw.
+Stanford,Oregon State,34,40,20,29,1,Roberto Nelson made Free Throw.
+Stanford,Oregon State,34,40,20,46,0,Foul on Angus Brandt.
+Stanford,Oregon State,34,40,20,50,0,Chasson Randle missed Jumper.
+Stanford,Oregon State,34,40,20,50,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,34,40,21,1,0,Eric Moreland missed Layup.
+Stanford,Oregon State,34,40,21,1,0,Dwight Powell Defensive Rebound.
+Stanford,Oregon State,34,40,21,7,0,Foul on Roberto Nelson.
+Stanford,Oregon State,35,40,21,7,1,Anthony Brown made Free Throw.
+Stanford,Oregon State,36,40,21,7,1,Anthony Brown made Free Throw.
+Stanford,Oregon State,36,43,21,21,1,Roberto Nelson made Three Point Jumper. Assisted by Hallice Cooke.
+Stanford,Oregon State,36,43,21,56,0,Stefan Nastic Turnover.
+Stanford,Oregon State,36,43,22,11,0,Angus Brandt missed Jumper.
+Stanford,Oregon State,36,43,22,11,0,Roberto Nelson Offensive Rebound.
+Stanford,Oregon State,36,46,22,23,1,Langston Morris-Walker made Three Point Jumper. Assisted by Roberto Nelson.
+Stanford,Oregon State,36,46,22,32,0,Stanford  Timeout
+Stanford,Oregon State,36,46,22,48,0,Dwight Powell missed Jumper.
+Stanford,Oregon State,36,46,22,48,0,Angus Brandt Block.
+Stanford,Oregon State,36,46,22,50,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,36,46,23,16,0,Angus Brandt Turnover.
+Stanford,Oregon State,36,46,23,33,0,Josh Huestis missed Jumper.
+Stanford,Oregon State,36,46,23,33,0,Anthony Brown Offensive Rebound.
+Stanford,Oregon State,36,46,23,36,0,Anthony Brown missed Layup.
+Stanford,Oregon State,36,46,23,36,0,Eric Moreland Block.
+Stanford,Oregon State,36,46,23,36,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,36,46,23,57,0,Angus Brandt missed Jumper.
+Stanford,Oregon State,36,46,23,57,0,Dwight Powell Defensive Rebound.
+Stanford,Oregon State,36,46,24,11,0,Foul on Angus Brandt.
+Stanford,Oregon State,36,46,24,11,0,Official TV Timeout
+Stanford,Oregon State,37,46,24,11,1,Dwight Powell made Free Throw.
+Stanford,Oregon State,38,46,24,11,1,Dwight Powell made Free Throw.
+Stanford,Oregon State,38,46,24,23,0,Foul on Stefan Nastic.
+Stanford,Oregon State,38,46,24,31,0,Eric Moreland missed Jumper.
+Stanford,Oregon State,38,46,24,31,0,Dwight Powell Defensive Rebound.
+Stanford,Oregon State,40,46,24,42,1,Stefan Nastic made Dunk. Assisted by Dwight Powell.
+Stanford,Oregon State,40,46,25,7,0,Hallice Cooke Turnover.
+Stanford,Oregon State,40,46,25,9,0,Stefan Nastic Steal.
+Stanford,Oregon State,40,46,25,9,0,Foul on Roberto Nelson.
+Stanford,Oregon State,40,46,25,18,0,Josh Huestis missed Three Point Jumper.
+Stanford,Oregon State,40,46,25,18,0,Devon Collier Defensive Rebound.
+Stanford,Oregon State,40,48,25,33,1,Roberto Nelson made Jumper.
+Stanford,Oregon State,42,48,25,50,1,Chasson Randle made Jumper.
+Stanford,Oregon State,42,48,25,50,0,Foul on Hallice Cooke.
+Stanford,Oregon State,43,48,25,50,1,Chasson Randle made Free Throw.
+Stanford,Oregon State,43,48,26,9,0,Foul on Grant Verhoeven.
+Stanford,Oregon State,43,50,26,20,1,Hallice Cooke made Layup.
+Stanford,Oregon State,43,50,26,20,0,Foul on Grant Verhoeven.
+Stanford,Oregon State,43,51,26,20,1,Hallice Cooke made Free Throw.
+Stanford,Oregon State,45,51,26,34,1,Josh Huestis made Jumper.
+Stanford,Oregon State,45,51,26,49,0,Foul on Stefan Nastic.
+Stanford,Oregon State,45,51,26,55,0,Daniel Gomis missed Layup.
+Stanford,Oregon State,45,51,26,55,0,Devon Collier Offensive Rebound.
+Stanford,Oregon State,45,51,26,56,0,Foul on Josh Huestis.
+Stanford,Oregon State,45,52,26,56,1,Devon Collier made Free Throw.
+Stanford,Oregon State,45,53,26,56,1,Devon Collier made Free Throw.
+Stanford,Oregon State,45,53,27,8,0,Dwight Powell Turnover.
+Stanford,Oregon State,45,53,27,9,0,Daniel Gomis Steal.
+Stanford,Oregon State,45,53,27,13,0,Roberto Nelson missed Layup.
+Stanford,Oregon State,45,53,27,13,0,Josh Huestis Defensive Rebound.
+Stanford,Oregon State,45,53,27,19,0,Foul on Challe Barton.
+Stanford,Oregon State,46,53,27,19,1,Chasson Randle made Free Throw.
+Stanford,Oregon State,47,53,27,19,1,Chasson Randle made Free Throw.
+Stanford,Oregon State,47,53,27,32,0,Foul on Dwight Powell.
+Stanford,Oregon State,47,54,27,32,1,Angus Brandt made Free Throw.
+Stanford,Oregon State,47,55,27,32,1,Angus Brandt made Free Throw.
+Stanford,Oregon State,47,55,27,32,0,Foul on Challe Barton.
+Stanford,Oregon State,48,55,27,32,1,Chasson Randle made Free Throw.
+Stanford,Oregon State,49,55,27,32,1,Chasson Randle made Free Throw.
+Stanford,Oregon State,49,57,27,44,1,Eric Moreland made Layup. Assisted by Challe Barton.
+Stanford,Oregon State,51,57,27,58,1,Marcus Allen made Jumper. Assisted by John Gage.
+Stanford,Oregon State,51,57,28,15,0,Challe Barton Turnover.
+Stanford,Oregon State,51,57,28,17,0,Dwight Powell Steal.
+Stanford,Oregon State,53,57,28,25,1,Dwight Powell made Dunk.
+Stanford,Oregon State,53,57,28,46,0,Challe Barton Turnover.
+Stanford,Oregon State,53,57,28,46,0,Official TV Timeout
+Stanford,Oregon State,55,57,29,5,1,Chasson Randle made Layup.
+Stanford,Oregon State,55,57,29,22,0,Olaf Schaftenaar missed Three Point Jumper.
+Stanford,Oregon State,55,57,29,22,0,Chasson Randle Defensive Rebound.
+Stanford,Oregon State,55,57,29,31,0,Chasson Randle missed Layup.
+Stanford,Oregon State,55,57,29,31,0,Dwight Powell Offensive Rebound.
+Stanford,Oregon State,55,57,29,34,0,Dwight Powell missed Layup.
+Stanford,Oregon State,55,57,29,34,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,55,60,29,53,1,Hallice Cooke made Three Point Jumper. Assisted by Eric Moreland.
+Stanford,Oregon State,55,60,30,13,0,Chasson Randle missed Jumper.
+Stanford,Oregon State,55,60,30,13,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,55,60,30,37,0,Olaf Schaftenaar missed Three Point Jumper.
+Stanford,Oregon State,55,60,30,37,0,Dwight Powell Defensive Rebound.
+Stanford,Oregon State,55,60,30,51,0,Josh Huestis missed Three Point Jumper.
+Stanford,Oregon State,55,60,30,51,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,55,60,31,20,0,Roberto Nelson Turnover.
+Stanford,Oregon State,55,60,31,20,0,Foul on Roberto Nelson.
+Stanford,Oregon State,55,60,31,31,0,Dwight Powell Turnover.
+Stanford,Oregon State,55,60,31,31,0,Foul on Dwight Powell.
+Stanford,Oregon State,55,62,31,50,1,Eric Moreland made Layup. Assisted by Angus Brandt.
+Stanford,Oregon State,55,62,31,57,0,Foul on Angus Brandt.
+Stanford,Oregon State,56,62,31,57,1,Anthony Brown made Free Throw.
+Stanford,Oregon State,57,62,31,57,1,Anthony Brown made Free Throw.
+Stanford,Oregon State,57,62,32,12,0,Foul on Dwight Powell.
+Stanford,Oregon State,57,62,32,12,0,Official TV Timeout
+Stanford,Oregon State,57,63,32,12,1,Eric Moreland made Free Throw.
+Stanford,Oregon State,57,63,32,12,0,Eric Moreland missed Free Throw.
+Stanford,Oregon State,57,63,32,12,0,Josh Huestis Defensive Rebound.
+Stanford,Oregon State,57,63,32,35,0,Josh Huestis missed Jumper.
+Stanford,Oregon State,57,63,32,35,0,Devon Collier Defensive Rebound.
+Stanford,Oregon State,57,63,33,4,0,Roberto Nelson missed Jumper.
+Stanford,Oregon State,57,63,33,4,0,Stefan Nastic Block.
+Stanford,Oregon State,57,63,33,6,0,Marcus Allen Defensive Rebound.
+Stanford,Oregon State,57,63,33,13,0,Foul on Devon Collier.
+Stanford,Oregon State,58,63,33,13,1,Josh Huestis made Free Throw.
+Stanford,Oregon State,58,63,33,13,0,Josh Huestis missed Free Throw.
+Stanford,Oregon State,58,63,33,13,0,Hallice Cooke Defensive Rebound.
+Stanford,Oregon State,58,63,33,36,0,Foul on Anthony Brown.
+Stanford,Oregon State,58,64,33,36,1,Roberto Nelson made Free Throw.
+Stanford,Oregon State,58,65,33,36,1,Roberto Nelson made Free Throw.
+Stanford,Oregon State,58,65,33,51,0,Chasson Randle missed Three Point Jumper.
+Stanford,Oregon State,58,65,33,51,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,58,65,34,24,0,Roberto Nelson Turnover.
+Stanford,Oregon State,58,65,34,30,0,Stanford  Timeout
+Stanford,Oregon State,60,65,34,45,1,Dwight Powell made Jumper. Assisted by Chasson Randle.
+Stanford,Oregon State,60,65,35,22,0,Eric Moreland missed Layup.
+Stanford,Oregon State,60,65,35,22,0,Josh Huestis Block.
+Stanford,Oregon State,60,65,35,23,0,Stefan Nastic Defensive Rebound.
+Stanford,Oregon State,63,65,35,33,1,Anthony Brown made Three Point Jumper. Assisted by Stefan Nastic.
+Stanford,Oregon State,63,65,35,50,0,Devon Collier missed Layup.
+Stanford,Oregon State,63,65,35,50,0,Dwight Powell Block.
+Stanford,Oregon State,63,65,35,50,0,Oregon St Offensive Rebound.
+Stanford,Oregon State,63,65,36,0,0,Foul on Josh Huestis.
+Stanford,Oregon State,63,66,36,0,1,Angus Brandt made Free Throw.
+Stanford,Oregon State,63,67,36,0,1,Angus Brandt made Free Throw.
+Stanford,Oregon State,63,67,36,15,0,Chasson Randle missed Layup.
+Stanford,Oregon State,63,67,36,15,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,63,67,36,15,0,Foul on Chasson Randle.
+Stanford,Oregon State,63,67,36,15,0,Official TV Timeout
+Stanford,Oregon State,63,68,36,15,1,Eric Moreland made Free Throw.
+Stanford,Oregon State,63,68,36,15,0,Eric Moreland missed Free Throw.
+Stanford,Oregon State,63,68,36,15,0,Langston Morris-Walker Offensive Rebound.
+Stanford,Oregon State,63,68,36,45,0,Roberto Nelson missed Jumper.
+Stanford,Oregon State,63,68,36,45,0,Josh Huestis Defensive Rebound.
+Stanford,Oregon State,65,68,37,1,1,Chasson Randle made Layup. Assisted by Dwight Powell.
+Stanford,Oregon State,65,68,37,1,0,Foul on Langston Morris-Walker.
+Stanford,Oregon State,66,68,37,1,1,Chasson Randle made Free Throw.
+Stanford,Oregon State,66,71,37,23,1,Hallice Cooke made Three Point Jumper. Assisted by Angus Brandt.
+Stanford,Oregon State,66,71,37,44,0,Anthony Brown missed Layup.
+Stanford,Oregon State,66,71,37,44,0,Roberto Nelson Defensive Rebound.
+Stanford,Oregon State,66,73,38,19,1,Angus Brandt made Layup. Assisted by Roberto Nelson.
+Stanford,Oregon State,66,73,38,26,0,Foul on Angus Brandt.
+Stanford,Oregon State,67,73,38,26,1,Chasson Randle made Free Throw.
+Stanford,Oregon State,68,73,38,26,1,Chasson Randle made Free Throw.
+Stanford,Oregon State,68,73,38,33,0,Foul on Chasson Randle.
+Stanford,Oregon State,68,74,38,33,1,Hallice Cooke made Free Throw.
+Stanford,Oregon State,68,74,38,33,0,Hallice Cooke missed Free Throw.
+Stanford,Oregon State,68,74,38,33,0,Roberto Nelson Offensive Rebound.
+Stanford,Oregon State,68,74,38,42,0,Oregon St  Timeout
+Stanford,Oregon State,68,74,38,57,0,Foul on Josh Huestis.
+Stanford,Oregon State,68,75,38,57,1,Olaf Schaftenaar made Free Throw.
+Stanford,Oregon State,68,76,38,57,1,Olaf Schaftenaar made Free Throw.
+Stanford,Oregon State,68,76,39,3,0,Anthony Brown missed Three Point Jumper.
+Stanford,Oregon State,68,76,39,3,0,Devon Collier Defensive Rebound.
+Stanford,Oregon State,68,76,39,7,0,Foul on Josh Huestis.
+Stanford,Oregon State,68,76,39,7,0,Devon Collier missed Free Throw.
+Stanford,Oregon State,68,76,39,7,0,Oregon St Deadball Team Rebound.
+Stanford,Oregon State,68,76,39,7,0,Devon Collier missed Free Throw.
+Stanford,Oregon State,68,76,39,7,0,Dwight Powell Defensive Rebound.
+Stanford,Oregon State,68,76,39,15,0,John Gage Turnover.
+Stanford,Oregon State,68,76,39,18,0,Hallice Cooke Steal.
+Stanford,Oregon State,68,78,39,19,1,Hallice Cooke made Dunk.
+Stanford,Oregon State,70,78,39,24,1,Chasson Randle made Layup.
+Stanford,Oregon State,70,78,39,24,0,Stanford  Timeout
+Stanford,Oregon State,70,78,39,25,0,Foul on Robbie Lemons.
+Stanford,Oregon State,70,79,39,25,1,Roberto Nelson made Free Throw.
+Stanford,Oregon State,70,80,39,25,1,Roberto Nelson made Free Throw.
+Stanford,Oregon State,70,80,39,31,0,Anthony Brown missed Layup.
+Stanford,Oregon State,70,80,39,31,0,Eric Moreland Defensive Rebound.
+Stanford,Oregon State,70,80,39,55,0,Foul on Marcus Allen.
+Stanford,Oregon State,70,80,39,55,0,Hallice Cooke missed Free Throw.
+Stanford,Oregon State,70,80,39,55,0,Oregon St Deadball Team Rebound.
+Stanford,Oregon State,70,81,39,55,1,Hallice Cooke made Free Throw.
+Stanford,Oregon State,70,81,39,58,0,Chasson Randle missed Layup.
+Stanford,Oregon State,70,81,39,59,0,Dwight Powell Offensive Rebound.
+Stanford,Oregon State,72,81,39,59,1,Dwight Powell made Layup.
+Stanford,Oregon State,72,81,40,0,0,End of Game

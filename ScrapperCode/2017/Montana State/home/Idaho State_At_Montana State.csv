@@ -1,0 +1,329 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Idaho State,Montana State,0,0,0,27,0,Foul on Devonte Klines.
+Idaho State,Montana State,0,0,0,50,0,Ethan Telfair missed Three Point Jumper.
+Idaho State,Montana State,0,0,0,50,0,Devonte Klines Defensive Rebound.
+Idaho State,Montana State,0,0,1,3,0,Geno Luzcando Steal.
+Idaho State,Montana State,0,0,1,5,0,Sam Neumann Turnover.
+Idaho State,Montana State,0,0,1,8,0,Geno Luzcando missed Layup.
+Idaho State,Montana State,0,0,1,8,0,Devonte Klines Defensive Rebound.
+Idaho State,Montana State,0,0,1,14,0,Harald Frey Turnover.
+Idaho State,Montana State,0,0,1,15,0,Foul on Devonte Klines.
+Idaho State,Montana State,0,0,1,15,0,Ethan Telfair missed Free Throw.
+Idaho State,Montana State,0,0,1,15,0,Idaho State Deadball Team Rebound.
+Idaho State,Montana State,1,0,1,15,1,Ethan Telfair made Free Throw.
+Idaho State,Montana State,1,0,1,16,0,Ethan Telfair Steal.
+Idaho State,Montana State,1,0,1,29,0,Zach Green missed Three Point Jumper.
+Idaho State,Montana State,1,0,1,29,0,Novak Topalovic Defensive Rebound.
+Idaho State,Montana State,1,0,1,40,0,Brandon Boyd missed Layup.
+Idaho State,Montana State,1,0,1,40,0,Brandon Boyd Offensive Rebound.
+Idaho State,Montana State,1,0,1,44,0,Ethan Telfair missed Three Point Jumper.
+Idaho State,Montana State,1,0,1,44,0,Harald Frey Defensive Rebound.
+Idaho State,Montana State,1,3,1,49,1,Quinton Everett made Three Point Jumper.
+Idaho State,Montana State,3,3,2,11,1,Novak Topalovic made Jumper.
+Idaho State,Montana State,3,5,2,29,1,Harald Frey made Jumper. Assisted by Quinton Everett.
+Idaho State,Montana State,6,5,2,58,1,Brandon Boyd made Three Point Jumper. Assisted by Novak Topalovic.
+Idaho State,Montana State,6,5,3,13,0,Zach Green missed Three Point Jumper.
+Idaho State,Montana State,6,5,3,13,0,Brandon Boyd Defensive Rebound.
+Idaho State,Montana State,6,5,3,44,0,Erik Nakken missed Three Point Jumper.
+Idaho State,Montana State,6,5,3,44,0,Sam Neumann Defensive Rebound.
+Idaho State,Montana State,6,5,3,54,0,Quinton Everett missed Layup.
+Idaho State,Montana State,6,5,3,54,0,Benson Osayande Offensive Rebound.
+Idaho State,Montana State,6,5,3,55,0,Foul on Geno Luzcando.
+Idaho State,Montana State,6,6,3,55,1,Benson Osayande made Free Throw.
+Idaho State,Montana State,6,6,3,55,0,Benson Osayande missed Free Throw.
+Idaho State,Montana State,6,6,3,55,0,Geno Luzcando Defensive Rebound.
+Idaho State,Montana State,6,6,4,21,0,Novak Topalovic missed Jumper.
+Idaho State,Montana State,6,6,4,21,0,Tyler Hall Defensive Rebound.
+Idaho State,Montana State,6,9,4,29,1,Quinton Everett made Three Point Jumper. Assisted by Tyler Hall.
+Idaho State,Montana State,8,9,4,56,1,Novak Topalovic made Layup.
+Idaho State,Montana State,8,9,5,11,0,Quinton Everett Turnover.
+Idaho State,Montana State,8,9,5,12,0,Official TV Timeout
+Idaho State,Montana State,8,9,5,20,0,Ethan Telfair Turnover.
+Idaho State,Montana State,8,11,5,39,1,Devin Kirby made Layup. Assisted by Quinton Everett.
+Idaho State,Montana State,8,11,6,9,0,Geno Luzcando missed Three Point Jumper.
+Idaho State,Montana State,8,11,6,9,0,Mandrell Worthy Defensive Rebound.
+Idaho State,Montana State,8,11,6,32,0,Mandrell Worthy Turnover.
+Idaho State,Montana State,8,11,6,42,0,Foul on Zach Green.
+Idaho State,Montana State,9,11,6,42,1,Geno Luzcando made Free Throw.
+Idaho State,Montana State,10,11,6,42,1,Geno Luzcando made Free Throw.
+Idaho State,Montana State,10,14,6,56,1,Harald Frey made Three Point Jumper.
+Idaho State,Montana State,10,14,7,15,0,Ethan Telfair missed Jumper.
+Idaho State,Montana State,10,14,7,15,0,Devin Kirby Defensive Rebound.
+Idaho State,Montana State,10,17,7,31,1,Tyler Hall made Three Point Jumper. Assisted by Devonte Klines.
+Idaho State,Montana State,10,17,7,58,0,Geno Luzcando missed Jumper.
+Idaho State,Montana State,10,17,7,58,0,Zach Green Defensive Rebound.
+Idaho State,Montana State,10,17,8,5,0,Tyler Hall missed Three Point Jumper.
+Idaho State,Montana State,10,17,8,5,0,Novak Topalovic Defensive Rebound.
+Idaho State,Montana State,10,17,8,6,0,Foul on Devin Kirby.
+Idaho State,Montana State,10,17,8,6,0,Official TV Timeout
+Idaho State,Montana State,12,17,8,29,1,Geno Luzcando made Jumper. Assisted by Robert Jones III.
+Idaho State,Montana State,12,17,8,53,0,Sam Neumann Turnover.
+Idaho State,Montana State,12,17,9,6,0,Foul on Sam Neumann.
+Idaho State,Montana State,14,17,9,15,1,Stephen Lennox made Layup. Assisted by Ethan Telfair.
+Idaho State,Montana State,14,17,9,36,0,Quinton Everett missed Jumper.
+Idaho State,Montana State,14,17,9,36,0,Stephen Lennox Defensive Rebound.
+Idaho State,Montana State,14,17,9,44,0,Balint Mocsan missed Three Point Jumper.
+Idaho State,Montana State,14,17,9,44,0,Mandrell Worthy Defensive Rebound.
+Idaho State,Montana State,14,17,9,52,0,Foul on Balint Mocsan.
+Idaho State,Montana State,14,17,9,53,0,Harald Frey Turnover.
+Idaho State,Montana State,14,17,9,54,0,Balint Mocsan Steal.
+Idaho State,Montana State,14,17,9,58,0,Foul on Balint Mocsan.
+Idaho State,Montana State,14,17,9,58,0,Balint Mocsan Turnover.
+Idaho State,Montana State,14,17,10,19,0,Zach Green missed Layup.
+Idaho State,Montana State,14,17,10,19,0,Idaho State Defensive Rebound.
+Idaho State,Montana State,14,17,10,32,0,Ethan Telfair Turnover.
+Idaho State,Montana State,14,17,10,34,0,Mandrell Worthy Steal.
+Idaho State,Montana State,14,20,10,45,1,Quinton Everett made Three Point Jumper. Assisted by Harald Frey.
+Idaho State,Montana State,16,20,11,11,1,Ethan Telfair made Layup.
+Idaho State,Montana State,16,20,11,27,0,Zach Green missed Three Point Jumper.
+Idaho State,Montana State,16,20,11,27,0,Mandrell Worthy Offensive Rebound.
+Idaho State,Montana State,16,20,11,31,0,Foul on Robert Jones III.
+Idaho State,Montana State,16,22,11,44,1,Devonte Klines made Jumper.
+Idaho State,Montana State,16,22,11,57,0,Foul on Benson Osayande.
+Idaho State,Montana State,17,22,11,57,1,Ethan Telfair made Free Throw.
+Idaho State,Montana State,17,22,11,57,0,Ethan Telfair missed Free Throw.
+Idaho State,Montana State,17,22,11,57,0,Zach Green Defensive Rebound.
+Idaho State,Montana State,17,25,12,19,1,Devonte Klines made Three Point Jumper. Assisted by Harald Frey.
+Idaho State,Montana State,17,25,12,36,0,Ethan Telfair missed Three Point Jumper.
+Idaho State,Montana State,17,25,12,36,0,Sam Neumann Defensive Rebound.
+Idaho State,Montana State,17,25,13,9,0,Devonte Klines missed Jumper.
+Idaho State,Montana State,17,25,13,9,0,Stephen Lennox Defensive Rebound.
+Idaho State,Montana State,19,25,13,39,1,Brandon Boyd made Layup.
+Idaho State,Montana State,19,25,14,1,0,Cooper Olson missed Three Point Jumper.
+Idaho State,Montana State,19,25,14,1,0,Robert Jones III Defensive Rebound.
+Idaho State,Montana State,19,25,14,3,0,Foul on Robert Jones III.
+Idaho State,Montana State,19,25,14,3,0,Official TV Timeout
+Idaho State,Montana State,19,28,14,8,1,Harald Frey made Three Point Jumper. Assisted by Sam Neumann.
+Idaho State,Montana State,19,28,14,29,0,Erik Nakken missed Three Point Jumper.
+Idaho State,Montana State,19,28,14,29,0,Tyler Hall Defensive Rebound.
+Idaho State,Montana State,19,28,14,40,0,Harald Frey missed Three Point Jumper.
+Idaho State,Montana State,19,28,14,40,0,Harald Frey Offensive Rebound.
+Idaho State,Montana State,19,28,14,48,0,Benson Osayande missed Jumper.
+Idaho State,Montana State,19,28,14,48,0,Ethan Telfair Defensive Rebound.
+Idaho State,Montana State,21,28,14,54,1,Brandon Boyd made Layup. Assisted by Ethan Telfair.
+Idaho State,Montana State,21,31,15,12,1,Harald Frey made Three Point Jumper. Assisted by Tyler Hall.
+Idaho State,Montana State,21,31,15,36,0,Novak Topalovic Turnover.
+Idaho State,Montana State,21,31,15,38,0,Benson Osayande Steal.
+Idaho State,Montana State,21,31,15,43,0,Quinton Everett missed Three Point Jumper.
+Idaho State,Montana State,21,31,15,43,0,Geno Luzcando Defensive Rebound.
+Idaho State,Montana State,21,31,15,49,0,Geno Luzcando Turnover.
+Idaho State,Montana State,21,34,16,1,1,Tyler Hall made Three Point Jumper. Assisted by Quinton Everett.
+Idaho State,Montana State,21,34,16,18,0,Foul on Tyler Hall.
+Idaho State,Montana State,21,34,16,18,0,Official TV Timeout
+Idaho State,Montana State,22,34,16,18,1,Geno Luzcando made Free Throw.
+Idaho State,Montana State,23,34,16,18,1,Geno Luzcando made Free Throw.
+Idaho State,Montana State,23,34,16,40,0,Devin Kirby Turnover.
+Idaho State,Montana State,23,34,16,54,0,Geno Luzcando Turnover.
+Idaho State,Montana State,23,36,17,9,1,Harald Frey made Jumper.
+Idaho State,Montana State,23,36,17,28,0,Foul on Zach Green.
+Idaho State,Montana State,24,36,17,28,1,Geno Luzcando made Free Throw.
+Idaho State,Montana State,25,36,17,28,1,Geno Luzcando made Free Throw.
+Idaho State,Montana State,25,36,17,44,0,Quinton Everett Turnover.
+Idaho State,Montana State,25,36,17,51,0,Foul on Geno Luzcando.
+Idaho State,Montana State,25,36,17,51,0,Geno Luzcando Turnover.
+Idaho State,Montana State,25,36,18,8,0,Tyler Hall missed Jumper.
+Idaho State,Montana State,25,36,18,8,0,Quinton Everett Offensive Rebound.
+Idaho State,Montana State,25,38,18,12,1,Quinton Everett made Layup.
+Idaho State,Montana State,25,38,18,20,0,Ethan Telfair missed Layup.
+Idaho State,Montana State,25,38,18,20,0,Benson Osayande Defensive Rebound.
+Idaho State,Montana State,25,38,18,32,0,Sam Neumann missed Layup.
+Idaho State,Montana State,25,38,18,32,0,Sam Neumann Offensive Rebound.
+Idaho State,Montana State,25,38,18,37,0,Tyler Hall missed Three Point Jumper.
+Idaho State,Montana State,25,38,18,37,0,Sam Neumann Offensive Rebound.
+Idaho State,Montana State,25,38,19,3,0,Tyler Hall missed Jumper.
+Idaho State,Montana State,25,38,19,3,0,Novak Topalovic Defensive Rebound.
+Idaho State,Montana State,25,38,19,21,0,Foul on Benson Osayande.
+Idaho State,Montana State,25,38,19,21,0,Novak Topalovic missed Free Throw.
+Idaho State,Montana State,25,38,19,21,0,Idaho State Deadball Team Rebound.
+Idaho State,Montana State,26,38,19,21,1,Novak Topalovic made Free Throw.
+Idaho State,Montana State,26,38,19,21,0,Montana St  Timeout
+Idaho State,Montana State,26,38,19,46,0,Foul on Brandon Boyd.
+Idaho State,Montana State,26,39,19,46,1,Harald Frey made Free Throw.
+Idaho State,Montana State,26,40,19,46,1,Harald Frey made Free Throw.
+Idaho State,Montana State,26,40,19,58,0,Foul on Devin Kirby.
+Idaho State,Montana State,26,40,19,58,0,Novak Topalovic missed Free Throw.
+Idaho State,Montana State,26,40,19,58,0,Idaho State Deadball Team Rebound.
+Idaho State,Montana State,27,40,19,58,1,Novak Topalovic made Free Throw.
+Idaho State,Montana State,27,40,20,0,0,Quinton Everett missed Three Point Jumper.
+Idaho State,Montana State,27,40,20,0,0,Montana St Deadball Team Rebound.
+Idaho State,Montana State,27,40,20,0,0,End of 1st half
+Idaho State,Montana State,27,42,20,10,1,Zach Green made Layup. Assisted by Sam Neumann.
+Idaho State,Montana State,27,42,20,35,0,Erik Nakken Turnover.
+Idaho State,Montana State,27,42,20,36,0,Harald Frey Steal.
+Idaho State,Montana State,27,44,20,39,1,Devonte Klines made Layup. Assisted by Tyler Hall.
+Idaho State,Montana State,27,44,21,8,0,Foul on Sam Neumann.
+Idaho State,Montana State,28,44,21,8,1,Novak Topalovic made Free Throw.
+Idaho State,Montana State,28,44,21,8,0,Novak Topalovic missed Free Throw.
+Idaho State,Montana State,28,44,21,8,0,Zach Green Defensive Rebound.
+Idaho State,Montana State,28,44,21,21,0,Tyler Hall Turnover.
+Idaho State,Montana State,28,44,21,23,0,Ethan Telfair Steal.
+Idaho State,Montana State,28,44,21,28,0,Brandon Boyd Turnover.
+Idaho State,Montana State,28,44,21,30,0,Devonte Klines Steal.
+Idaho State,Montana State,28,44,21,30,0,Foul on Erik Nakken.
+Idaho State,Montana State,28,45,21,30,1,Tyler Hall made Free Throw.
+Idaho State,Montana State,28,46,21,30,1,Tyler Hall made Free Throw.
+Idaho State,Montana State,28,46,22,7,0,Ethan Telfair missed Jumper.
+Idaho State,Montana State,28,46,22,7,0,Sam Neumann Defensive Rebound.
+Idaho State,Montana State,28,46,22,14,0,Tyler Hall missed Three Point Jumper.
+Idaho State,Montana State,28,46,22,14,0,Novak Topalovic Defensive Rebound.
+Idaho State,Montana State,28,46,22,35,0,Geno Luzcando missed Jumper.
+Idaho State,Montana State,28,46,22,36,0,Harald Frey Defensive Rebound.
+Idaho State,Montana State,28,46,22,36,0,Foul on Quinton Everett.
+Idaho State,Montana State,28,46,22,44,0,Erik Nakken missed Three Point Jumper.
+Idaho State,Montana State,28,46,22,44,0,Sam Neumann Defensive Rebound.
+Idaho State,Montana State,28,48,23,3,1,Tyler Hall made Jumper.
+Idaho State,Montana State,28,48,23,30,0,Ethan Telfair missed Jumper.
+Idaho State,Montana State,28,48,23,30,0,Tyler Hall Block.
+Idaho State,Montana State,28,48,23,32,0,Geno Luzcando Offensive Rebound.
+Idaho State,Montana State,28,48,23,36,0,Geno Luzcando missed Jumper.
+Idaho State,Montana State,28,48,23,36,0,Benson Osayande Block.
+Idaho State,Montana State,28,48,23,36,0,Erik Nakken Offensive Rebound.
+Idaho State,Montana State,28,48,23,36,0,Foul on Harald Frey.
+Idaho State,Montana State,28,48,23,56,0,Ethan Telfair Turnover.
+Idaho State,Montana State,28,48,23,58,0,Tyler Hall Steal.
+Idaho State,Montana State,28,48,23,58,0,Foul on Ethan Telfair.
+Idaho State,Montana State,28,48,24,12,0,Foul on Novak Topalovic.
+Idaho State,Montana State,28,48,24,12,0,Official TV Timeout
+Idaho State,Montana State,28,48,24,12,0,Sam Neumann missed Free Throw.
+Idaho State,Montana State,28,48,24,12,0,Montana St Deadball Team Rebound.
+Idaho State,Montana State,28,48,24,12,0,Sam Neumann missed Free Throw.
+Idaho State,Montana State,28,48,24,12,0,Robert Jones III Defensive Rebound.
+Idaho State,Montana State,28,48,24,15,0,Robert Jones III Turnover.
+Idaho State,Montana State,28,48,24,38,0,Benson Osayande missed Jumper.
+Idaho State,Montana State,28,48,24,38,0,Novak Topalovic Block.
+Idaho State,Montana State,28,48,24,40,0,Mandrell Worthy Offensive Rebound.
+Idaho State,Montana State,28,50,24,42,1,Mandrell Worthy made Layup.
+Idaho State,Montana State,30,50,24,50,1,Novak Topalovic made Layup.
+Idaho State,Montana State,30,50,25,21,0,Quinton Everett missed Jumper.
+Idaho State,Montana State,30,50,25,21,0,Robert Jones III Defensive Rebound.
+Idaho State,Montana State,30,50,25,27,0,Robert Jones III Turnover.
+Idaho State,Montana State,30,50,25,46,0,Foul on Balint Mocsan.
+Idaho State,Montana State,30,50,25,53,0,Benson Osayande Turnover.
+Idaho State,Montana State,30,50,25,54,0,Novak Topalovic Steal.
+Idaho State,Montana State,30,50,25,58,0,Ethan Telfair missed Three Point Jumper.
+Idaho State,Montana State,30,50,25,58,0,Benson Osayande Defensive Rebound.
+Idaho State,Montana State,30,50,26,7,0,Tyler Hall Turnover.
+Idaho State,Montana State,30,50,26,9,0,Brandon Boyd Steal.
+Idaho State,Montana State,32,50,26,12,1,Brandon Boyd made Layup.
+Idaho State,Montana State,32,50,26,12,0,Montana St  Timeout
+Idaho State,Montana State,32,52,26,26,1,Tyler Hall made Jumper.
+Idaho State,Montana State,34,52,26,35,1,Novak Topalovic made Layup.
+Idaho State,Montana State,34,52,26,35,0,Foul on Tyler Hall.
+Idaho State,Montana State,34,52,26,35,0,Novak Topalovic missed Free Throw.
+Idaho State,Montana State,34,52,26,35,0,Zach Green Defensive Rebound.
+Idaho State,Montana State,34,54,26,52,1,Harald Frey made Jumper.
+Idaho State,Montana State,34,54,27,10,0,Foul on Mandrell Worthy.
+Idaho State,Montana State,34,54,27,17,0,Brandon Boyd missed Three Point Jumper.
+Idaho State,Montana State,34,54,27,17,0,Brandon Boyd Offensive Rebound.
+Idaho State,Montana State,37,54,27,22,1,Ethan Telfair made Three Point Jumper. Assisted by Brandon Boyd.
+Idaho State,Montana State,37,56,27,50,1,Devin Kirby made Jumper. Assisted by Mandrell Worthy.
+Idaho State,Montana State,37,56,28,9,0,Foul on Devin Kirby.
+Idaho State,Montana State,37,56,28,9,0,Official TV Timeout
+Idaho State,Montana State,37,56,28,28,0,Ethan Telfair missed Three Point Jumper.
+Idaho State,Montana State,37,56,28,28,0,Novak Topalovic Offensive Rebound.
+Idaho State,Montana State,37,56,28,34,0,Brandon Boyd Turnover.
+Idaho State,Montana State,37,56,28,38,0,Tyler Hall Steal.
+Idaho State,Montana State,37,56,28,57,0,Devin Kirby Turnover.
+Idaho State,Montana State,37,56,29,10,0,Foul on Devin Kirby.
+Idaho State,Montana State,38,56,29,10,1,Novak Topalovic made Free Throw.
+Idaho State,Montana State,39,56,29,10,1,Novak Topalovic made Free Throw.
+Idaho State,Montana State,39,59,29,24,1,Quinton Everett made Three Point Jumper. Assisted by Harald Frey.
+Idaho State,Montana State,39,59,29,37,0,Quinton Everett Steal.
+Idaho State,Montana State,39,59,29,38,0,Brandon Boyd Turnover.
+Idaho State,Montana State,39,59,29,38,0,Foul on Ethan Telfair.
+Idaho State,Montana State,39,60,29,38,1,Quinton Everett made Free Throw.
+Idaho State,Montana State,39,60,29,38,0,Quinton Everett missed Free Throw.
+Idaho State,Montana State,39,60,29,38,0,Geno Luzcando Defensive Rebound.
+Idaho State,Montana State,39,60,29,55,0,Stephen Lennox missed Three Point Jumper.
+Idaho State,Montana State,39,60,29,55,0,Quinton Everett Defensive Rebound.
+Idaho State,Montana State,39,60,30,11,0,Foul on Brandon Boyd.
+Idaho State,Montana State,39,61,30,11,1,Quinton Everett made Free Throw.
+Idaho State,Montana State,39,62,30,11,1,Quinton Everett made Free Throw.
+Idaho State,Montana State,42,62,30,32,1,Ethan Telfair made Three Point Jumper. Assisted by Stephen Lennox.
+Idaho State,Montana State,42,62,30,53,0,Devonte Klines Turnover.
+Idaho State,Montana State,42,62,30,55,0,Robert Jones III Steal.
+Idaho State,Montana State,44,62,30,59,1,Ethan Telfair made Layup.
+Idaho State,Montana State,44,62,31,10,0,Montana St  Timeout
+Idaho State,Montana State,44,62,31,22,0,Foul on Geno Luzcando.
+Idaho State,Montana State,44,63,31,22,1,Mandrell Worthy made Free Throw.
+Idaho State,Montana State,44,64,31,22,1,Mandrell Worthy made Free Throw.
+Idaho State,Montana State,44,64,31,34,0,Foul on Zach Green.
+Idaho State,Montana State,45,64,31,34,1,Novak Topalovic made Free Throw.
+Idaho State,Montana State,46,64,31,34,1,Novak Topalovic made Free Throw.
+Idaho State,Montana State,46,67,31,55,1,Mandrell Worthy made Three Point Jumper. Assisted by Sam Neumann.
+Idaho State,Montana State,46,67,32,16,0,Robert Jones III missed Three Point Jumper.
+Idaho State,Montana State,46,67,32,16,0,Sam Neumann Defensive Rebound.
+Idaho State,Montana State,46,69,32,27,1,Devonte Klines made Layup.
+Idaho State,Montana State,46,69,32,34,0,Foul on Devonte Klines.
+Idaho State,Montana State,46,69,32,34,0,Official TV Timeout
+Idaho State,Montana State,47,69,32,34,1,Ethan Telfair made Free Throw.
+Idaho State,Montana State,48,69,32,34,1,Ethan Telfair made Free Throw.
+Idaho State,Montana State,48,69,32,42,0,Foul on Robert Jones III.
+Idaho State,Montana State,48,70,32,42,1,Zach Green made Free Throw.
+Idaho State,Montana State,48,71,32,42,1,Zach Green made Free Throw.
+Idaho State,Montana State,48,71,33,5,0,Ethan Telfair missed Jumper.
+Idaho State,Montana State,48,71,33,5,0,Zach Green Defensive Rebound.
+Idaho State,Montana State,48,71,33,8,0,Foul on Geno Luzcando.
+Idaho State,Montana State,48,72,33,8,1,Zach Green made Free Throw.
+Idaho State,Montana State,48,73,33,8,1,Zach Green made Free Throw.
+Idaho State,Montana State,48,73,33,30,0,Foul on Quinton Everett.
+Idaho State,Montana State,49,73,33,30,1,Ethan Telfair made Free Throw.
+Idaho State,Montana State,50,73,33,30,1,Ethan Telfair made Free Throw.
+Idaho State,Montana State,50,73,33,46,0,Quinton Everett missed Jumper.
+Idaho State,Montana State,50,73,33,46,0,Stephen Lennox Defensive Rebound.
+Idaho State,Montana State,50,73,33,54,0,Ethan Telfair missed Three Point Jumper.
+Idaho State,Montana State,50,73,33,54,0,Sam Neumann Defensive Rebound.
+Idaho State,Montana State,50,73,34,21,0,Quinton Everett missed Layup.
+Idaho State,Montana State,50,73,34,21,0,Stephen Lennox Defensive Rebound.
+Idaho State,Montana State,50,73,34,31,0,Geno Luzcando missed Jumper.
+Idaho State,Montana State,50,73,34,31,0,Stephen Lennox Offensive Rebound.
+Idaho State,Montana State,52,73,34,36,1,Stephen Lennox made Layup.
+Idaho State,Montana State,52,73,34,42,0,Montana St  Timeout
+Idaho State,Montana State,52,73,34,52,0,Sam Neumann missed Three Point Jumper.
+Idaho State,Montana State,52,73,34,52,0,Robert Jones III Defensive Rebound.
+Idaho State,Montana State,52,73,35,0,0,Robert Jones III missed Three Point Jumper.
+Idaho State,Montana State,52,73,35,0,0,Stephen Lennox Offensive Rebound.
+Idaho State,Montana State,52,73,35,7,0,Foul on Benson Osayande.
+Idaho State,Montana State,53,73,35,7,1,Stephen Lennox made Free Throw.
+Idaho State,Montana State,54,73,35,7,1,Stephen Lennox made Free Throw.
+Idaho State,Montana State,54,73,35,21,0,Devonte Klines missed Jumper.
+Idaho State,Montana State,54,73,35,21,0,Stephen Lennox Defensive Rebound.
+Idaho State,Montana State,56,73,35,31,1,Geno Luzcando made Layup.
+Idaho State,Montana State,56,73,35,47,0,Foul on Geno Luzcando.
+Idaho State,Montana State,56,73,35,47,0,Harald Frey missed Free Throw.
+Idaho State,Montana State,56,73,35,47,0,Montana St Deadball Team Rebound.
+Idaho State,Montana State,56,74,35,47,1,Harald Frey made Free Throw.
+Idaho State,Montana State,56,74,36,2,0,Foul on Zach Green.
+Idaho State,Montana State,56,74,36,2,0,Official TV Timeout
+Idaho State,Montana State,57,74,36,2,1,Brandon Boyd made Free Throw.
+Idaho State,Montana State,58,74,36,2,1,Brandon Boyd made Free Throw.
+Idaho State,Montana State,58,76,36,30,1,Zach Green made Layup.
+Idaho State,Montana State,60,76,36,40,1,Balint Mocsan made Jumper. Assisted by Brandon Boyd.
+Idaho State,Montana State,60,78,37,2,1,Harald Frey made Layup.
+Idaho State,Montana State,60,78,37,16,0,Brandon Boyd missed Layup.
+Idaho State,Montana State,60,78,37,16,0,Devonte Klines Defensive Rebound.
+Idaho State,Montana State,60,78,37,40,0,Foul on Clark Wilkinson.
+Idaho State,Montana State,60,78,37,40,0,Devonte Klines missed Free Throw.
+Idaho State,Montana State,60,78,37,40,0,Montana St Deadball Team Rebound.
+Idaho State,Montana State,60,78,37,40,0,Devonte Klines missed Free Throw.
+Idaho State,Montana State,60,78,37,40,0,Keshawn Liggins Defensive Rebound.
+Idaho State,Montana State,60,78,37,48,0,Foul on Erik Nakken.
+Idaho State,Montana State,60,78,37,48,0,Erik Nakken Turnover.
+Idaho State,Montana State,60,78,38,4,0,Devonte Klines missed Layup.
+Idaho State,Montana State,60,78,38,4,0,Devonte Klines Offensive Rebound.
+Idaho State,Montana State,60,80,38,9,1,Devonte Klines made Layup.
+Idaho State,Montana State,60,80,38,24,0,Foul on Devonte Klines.
+Idaho State,Montana State,61,80,38,24,1,Clark Wilkinson made Free Throw.
+Idaho State,Montana State,62,80,38,24,1,Clark Wilkinson made Free Throw.
+Idaho State,Montana State,62,80,38,42,0,Devonte Klines missed Jumper.
+Idaho State,Montana State,62,80,38,42,0,Idaho State Defensive Rebound.
+Idaho State,Montana State,62,80,38,43,0,Foul on Zach Green.
+Idaho State,Montana State,63,80,38,43,1,Keshawn Liggins made Free Throw.
+Idaho State,Montana State,63,80,38,43,0,Keshawn Liggins missed Free Throw.
+Idaho State,Montana State,63,80,38,43,0,Devonte Klines Defensive Rebound.
+Idaho State,Montana State,63,80,39,7,0,Mandrell Worthy missed Jumper.
+Idaho State,Montana State,63,80,39,7,0,Erik Nakken Defensive Rebound.
+Idaho State,Montana State,63,80,39,16,0,Brandon Boyd missed Layup.
+Idaho State,Montana State,63,80,39,16,0,Sam Neumann Defensive Rebound.
+Idaho State,Montana State,63,80,39,47,0,Montana St  Turnover.
+Idaho State,Montana State,63,80,40,0,0,End of Game

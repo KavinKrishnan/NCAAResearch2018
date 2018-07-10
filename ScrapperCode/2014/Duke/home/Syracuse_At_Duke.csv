@@ -1,0 +1,326 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Syracuse,Duke,0,0,0,0,0,Jump Ball won by Duke
+Syracuse,Duke,0,0,0,15,0,Jabari Parker Turnover.
+Syracuse,Duke,0,0,0,15,0,Trevor Cooney Steal.
+Syracuse,Duke,2,0,0,37,1,Rakeem Christmas made Jumper. Assisted by Jerami Grant.
+Syracuse,Duke,2,0,0,52,0,Rodney Hood missed Three Point Jumper.
+Syracuse,Duke,2,0,0,52,0,Jabari Parker Offensive Rebound.
+Syracuse,Duke,2,0,0,59,0,Foul on Rakeem Christmas.
+Syracuse,Duke,2,1,0,59,1,Jabari Parker made Free Throw.
+Syracuse,Duke,2,2,0,59,1,Jabari Parker made Free Throw.
+Syracuse,Duke,2,2,1,14,0,Rakeem Christmas missed Jumper.
+Syracuse,Duke,2,2,1,14,0,Rakeem Christmas Offensive Rebound.
+Syracuse,Duke,4,2,1,19,1,C.J. Fair made Jumper.
+Syracuse,Duke,4,2,1,36,0,Jabari Parker missed Jumper.
+Syracuse,Duke,4,2,1,36,0,C.J. Fair Defensive Rebound.
+Syracuse,Duke,4,2,1,44,0,Jerami Grant missed Jumper.
+Syracuse,Duke,4,2,1,44,0,Rodney Hood Defensive Rebound.
+Syracuse,Duke,4,4,1,57,1,Amile Jefferson made Jumper. Assisted by Jabari Parker.
+Syracuse,Duke,6,4,2,10,1,Trevor Cooney made Layup.
+Syracuse,Duke,6,4,2,31,0,Jabari Parker missed Jumper.
+Syracuse,Duke,6,4,2,31,0,Duke Offensive Rebound.
+Syracuse,Duke,6,6,2,41,1,Marshall Plumlee made Layup. Assisted by Rasheed Sulaimon.
+Syracuse,Duke,6,6,2,57,0,Foul on Tyler Thornton.
+Syracuse,Duke,6,6,3,4,0,Rakeem Christmas missed Jumper.
+Syracuse,Duke,6,6,3,4,0,Jerami Grant Offensive Rebound.
+Syracuse,Duke,8,6,3,8,1,Jerami Grant made Layup.
+Syracuse,Duke,8,6,3,25,0,Tyler Thornton Turnover.
+Syracuse,Duke,8,6,3,25,0,C.J. Fair Steal.
+Syracuse,Duke,8,6,3,35,0,C.J. Fair Turnover.
+Syracuse,Duke,8,6,3,47,0,Rasheed Sulaimon missed Three Point Jumper.
+Syracuse,Duke,8,6,3,47,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,8,8,3,51,1,Marshall Plumlee made Dunk.
+Syracuse,Duke,10,8,4,11,1,Jerami Grant made Jumper.
+Syracuse,Duke,10,8,4,47,0,Quinn Cook missed Layup.
+Syracuse,Duke,10,8,4,47,0,Rakeem Christmas Block.
+Syracuse,Duke,10,8,4,47,0,Rakeem Christmas Defensive Rebound.
+Syracuse,Duke,10,8,4,59,0,Official TV Timeout
+Syracuse,Duke,10,8,5,8,0,Jerami Grant missed Jumper.
+Syracuse,Duke,10,8,5,8,0,Marshall Plumlee Block.
+Syracuse,Duke,10,8,5,8,0,Marshall Plumlee Defensive Rebound.
+Syracuse,Duke,10,8,5,19,0,Andre Dawkins missed Three Point Jumper.
+Syracuse,Duke,10,8,5,19,0,Marshall Plumlee Offensive Rebound.
+Syracuse,Duke,10,8,5,25,0,Andre Dawkins missed Three Point Jumper.
+Syracuse,Duke,10,8,5,25,0,C.J. Fair Defensive Rebound.
+Syracuse,Duke,10,8,5,34,0,Jump Ball won by Syracuse
+Syracuse,Duke,10,8,5,38,0,Tyler Ennis missed Jumper.
+Syracuse,Duke,10,8,5,38,0,Amile Jefferson Defensive Rebound.
+Syracuse,Duke,10,8,5,43,0,Foul on Jerami Grant.
+Syracuse,Duke,10,8,6,10,0,Foul on Amile Jefferson.
+Syracuse,Duke,10,8,6,10,0,Amile Jefferson Turnover.
+Syracuse,Duke,10,8,6,19,0,Jerami Grant missed Jumper.
+Syracuse,Duke,10,8,6,19,0,Jabari Parker Defensive Rebound.
+Syracuse,Duke,10,8,6,25,0,Jabari Parker Turnover.
+Syracuse,Duke,10,8,6,25,0,Michael Gbinije Steal.
+Syracuse,Duke,10,8,6,29,0,Foul on Andre Dawkins.
+Syracuse,Duke,11,8,6,29,1,Michael Gbinije made Free Throw.
+Syracuse,Duke,12,8,6,29,1,Michael Gbinije made Free Throw.
+Syracuse,Duke,12,8,6,55,0,Michael Gbinije missed Jumper.
+Syracuse,Duke,12,8,6,55,0,Marshall Plumlee Defensive Rebound.
+Syracuse,Duke,12,8,7,25,0,Rodney Hood missed Three Point Jumper.
+Syracuse,Duke,12,8,7,25,0,Jerami Grant Defensive Rebound.
+Syracuse,Duke,14,8,7,38,1,C.J. Fair made Jumper.
+Syracuse,Duke,14,8,8,1,0,Jabari Parker Turnover.
+Syracuse,Duke,14,8,8,1,0,Tyler Ennis Steal.
+Syracuse,Duke,17,8,8,5,1,Michael Gbinije made Three Point Jumper. Assisted by Tyler Ennis.
+Syracuse,Duke,17,11,8,45,1,Rodney Hood made Three Point Jumper. Assisted by Marshall Plumlee.
+Syracuse,Duke,17,11,9,0,0,Jerami Grant missed Jumper.
+Syracuse,Duke,17,11,9,0,0,Syracuse Offensive Rebound.
+Syracuse,Duke,17,11,9,5,0,Official TV Timeout
+Syracuse,Duke,17,11,9,14,0,Tyler Ennis missed Jumper.
+Syracuse,Duke,17,11,9,14,0,Marshall Plumlee Defensive Rebound.
+Syracuse,Duke,17,11,9,34,0,Rodney Hood missed Three Point Jumper.
+Syracuse,Duke,17,11,9,34,0,C.J. Fair Defensive Rebound.
+Syracuse,Duke,17,11,9,40,0,Foul on Rasheed Sulaimon.
+Syracuse,Duke,17,11,10,7,0,Michael Gbinije missed Three Point Jumper.
+Syracuse,Duke,17,11,10,7,0,Baye Keita Offensive Rebound.
+Syracuse,Duke,17,11,10,12,0,Baye Keita missed Layup.
+Syracuse,Duke,17,11,10,12,0,Amile Jefferson Defensive Rebound.
+Syracuse,Duke,17,13,10,36,1,Tyler Thornton made Jumper.
+Syracuse,Duke,17,13,11,3,0,C.J. Fair missed Jumper.
+Syracuse,Duke,17,13,11,3,0,Baye Keita Offensive Rebound.
+Syracuse,Duke,19,13,11,8,1,Baye Keita made Jumper.
+Syracuse,Duke,19,13,11,22,0,Marshall Plumlee Turnover.
+Syracuse,Duke,19,13,11,42,0,Jerami Grant missed Dunk.
+Syracuse,Duke,19,13,11,42,0,Marshall Plumlee Block.
+Syracuse,Duke,19,13,11,42,0,Trevor Cooney Offensive Rebound.
+Syracuse,Duke,19,13,11,47,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,Duke,19,13,11,47,0,Rodney Hood Defensive Rebound.
+Syracuse,Duke,19,13,12,2,0,Foul on Rakeem Christmas.
+Syracuse,Duke,19,13,12,2,0,Official TV Timeout
+Syracuse,Duke,19,13,12,2,0,Marshall Plumlee missed Free Throw.
+Syracuse,Duke,19,13,12,2,0,Duke Deadball Team Rebound.
+Syracuse,Duke,19,13,12,2,0,Marshall Plumlee missed Free Throw.
+Syracuse,Duke,19,13,12,2,0,Jerami Grant Defensive Rebound.
+Syracuse,Duke,19,13,12,32,0,Foul on Baye Keita.
+Syracuse,Duke,19,13,12,32,0,Baye Keita Turnover.
+Syracuse,Duke,19,13,12,47,0,Quinn Cook missed Three Point Jumper.
+Syracuse,Duke,19,13,12,47,0,Jerami Grant Defensive Rebound.
+Syracuse,Duke,19,13,13,10,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,Duke,19,13,13,10,0,Rodney Hood Defensive Rebound.
+Syracuse,Duke,19,16,13,18,1,Jabari Parker made Three Point Jumper. Assisted by Rodney Hood.
+Syracuse,Duke,19,16,13,35,0,Michael Gbinije missed Three Point Jumper.
+Syracuse,Duke,19,16,13,35,0,Rodney Hood Defensive Rebound.
+Syracuse,Duke,19,16,13,43,0,Rodney Hood missed Jumper.
+Syracuse,Duke,19,16,13,43,0,Tyler Ennis Defensive Rebound.
+Syracuse,Duke,19,16,13,49,0,Foul on Andre Dawkins.
+Syracuse,Duke,20,16,13,49,1,Tyler Ennis made Free Throw.
+Syracuse,Duke,21,16,13,49,1,Tyler Ennis made Free Throw.
+Syracuse,Duke,21,16,13,58,0,Jabari Parker Turnover.
+Syracuse,Duke,21,16,13,58,0,Trevor Cooney Steal.
+Syracuse,Duke,23,16,14,5,1,Jerami Grant made Layup.
+Syracuse,Duke,23,16,14,9,0,Duke  Timeout
+Syracuse,Duke,23,16,14,14,0,Quinn Cook missed Three Point Jumper.
+Syracuse,Duke,23,16,14,14,0,Jerami Grant Defensive Rebound.
+Syracuse,Duke,23,16,14,22,0,Tyler Ennis Turnover.
+Syracuse,Duke,23,16,14,22,0,Quinn Cook Steal.
+Syracuse,Duke,23,16,14,29,0,Foul on C.J. Fair.
+Syracuse,Duke,23,16,14,29,0,Rasheed Sulaimon missed Free Throw.
+Syracuse,Duke,23,16,14,29,0,Duke Deadball Team Rebound.
+Syracuse,Duke,23,17,14,29,1,Rasheed Sulaimon made Free Throw.
+Syracuse,Duke,23,17,14,41,0,Tyler Ennis Turnover.
+Syracuse,Duke,23,17,14,41,0,Tyler Thornton Steal.
+Syracuse,Duke,23,17,14,46,0,Quinn Cook missed Layup.
+Syracuse,Duke,23,17,14,46,0,Tyler Ennis Block.
+Syracuse,Duke,23,17,14,46,0,Duke Offensive Rebound.
+Syracuse,Duke,23,17,14,58,0,Foul on Baye Keita.
+Syracuse,Duke,23,19,15,4,1,Rodney Hood made Jumper.
+Syracuse,Duke,23,19,15,31,0,Tyler Ennis missed Three Point Jumper.
+Syracuse,Duke,23,19,15,31,0,Baye Keita Offensive Rebound.
+Syracuse,Duke,23,19,15,31,0,Baye Keita missed Two Point Tip Shot.
+Syracuse,Duke,23,19,15,31,0,Jerami Grant Offensive Rebound.
+Syracuse,Duke,23,19,15,36,0,Foul on Rodney Hood.
+Syracuse,Duke,23,19,15,36,0,Jerami Grant missed Free Throw.
+Syracuse,Duke,23,19,15,36,0,Syracuse Deadball Team Rebound.
+Syracuse,Duke,23,19,15,36,0,Jerami Grant missed Free Throw.
+Syracuse,Duke,23,19,15,36,0,Rasheed Sulaimon Defensive Rebound.
+Syracuse,Duke,23,19,16,0,0,Foul on Jerami Grant.
+Syracuse,Duke,23,19,16,0,0,Rodney Hood missed Free Throw.
+Syracuse,Duke,23,19,16,0,0,Baye Keita Defensive Rebound.
+Syracuse,Duke,23,19,16,11,0,C.J. Fair missed Jumper.
+Syracuse,Duke,23,19,16,11,0,Baye Keita Offensive Rebound.
+Syracuse,Duke,23,19,16,15,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,Duke,23,19,16,15,0,Rodney Hood Defensive Rebound.
+Syracuse,Duke,23,19,16,28,0,Official TV Timeout
+Syracuse,Duke,23,21,16,42,1,Rodney Hood made Jumper. Assisted by Tyler Thornton.
+Syracuse,Duke,26,21,16,58,1,Michael Gbinije made Three Point Jumper. Assisted by Tyler Ennis.
+Syracuse,Duke,26,24,17,17,1,Jabari Parker made Three Point Jumper. Assisted by Tyler Thornton.
+Syracuse,Duke,26,24,17,36,0,C.J. Fair missed Jumper.
+Syracuse,Duke,26,24,17,36,0,Baye Keita Offensive Rebound.
+Syracuse,Duke,26,24,18,1,0,Foul on Baye Keita.
+Syracuse,Duke,26,24,18,1,0,Baye Keita Turnover.
+Syracuse,Duke,26,24,18,15,0,Rodney Hood missed Jumper.
+Syracuse,Duke,26,24,18,15,0,Jabari Parker Offensive Rebound.
+Syracuse,Duke,26,24,18,30,0,Foul on Michael Gbinije.
+Syracuse,Duke,26,24,18,30,0,Rodney Hood missed Free Throw.
+Syracuse,Duke,26,24,18,30,0,Duke Deadball Team Rebound.
+Syracuse,Duke,26,24,18,30,0,Rodney Hood missed Free Throw.
+Syracuse,Duke,26,24,18,30,0,Michael Gbinije Defensive Rebound.
+Syracuse,Duke,26,24,18,45,0,C.J. Fair Turnover.
+Syracuse,Duke,26,24,18,45,0,Tyler Thornton Steal.
+Syracuse,Duke,26,26,18,50,1,Rasheed Sulaimon made Layup. Assisted by Tyler Thornton.
+Syracuse,Duke,26,26,18,59,0,Syracuse  Timeout
+Syracuse,Duke,26,26,19,24,0,Tyler Ennis missed Jumper.
+Syracuse,Duke,26,26,19,24,0,Baye Keita Offensive Rebound.
+Syracuse,Duke,26,26,19,28,0,Baye Keita missed Layup.
+Syracuse,Duke,26,26,19,28,0,Marshall Plumlee Block.
+Syracuse,Duke,26,26,19,28,0,Michael Gbinije Offensive Rebound.
+Syracuse,Duke,26,26,19,34,0,Tyler Ennis missed Jumper.
+Syracuse,Duke,26,26,19,34,0,Baye Keita Offensive Rebound.
+Syracuse,Duke,26,26,19,53,0,C.J. Fair missed Jumper.
+Syracuse,Duke,26,26,19,53,0,Rasheed Sulaimon Defensive Rebound.
+Syracuse,Duke,26,26,20,0,0,End of 1st half
+Syracuse,Duke,26,26,20,0,0,Jump Ball won by Duke
+Syracuse,Duke,26,26,20,17,0,Rodney Hood missed Layup.
+Syracuse,Duke,26,26,20,17,0,Amile Jefferson Offensive Rebound.
+Syracuse,Duke,26,26,20,20,0,Foul on Rakeem Christmas.
+Syracuse,Duke,26,27,20,20,1,Amile Jefferson made Free Throw.
+Syracuse,Duke,26,27,20,20,0,Amile Jefferson missed Free Throw.
+Syracuse,Duke,26,27,20,20,0,Rodney Hood Offensive Rebound.
+Syracuse,Duke,26,27,20,24,0,Rodney Hood missed Three Point Jumper.
+Syracuse,Duke,26,27,20,24,0,Jerami Grant Defensive Rebound.
+Syracuse,Duke,28,27,20,52,1,Rakeem Christmas made Jumper.
+Syracuse,Duke,28,30,21,10,1,Jabari Parker made Three Point Jumper. Assisted by Rasheed Sulaimon.
+Syracuse,Duke,28,30,21,25,0,Foul on Amile Jefferson.
+Syracuse,Duke,28,30,21,30,0,Foul on Amile Jefferson.
+Syracuse,Duke,30,30,21,31,1,C.J. Fair made Jumper.
+Syracuse,Duke,30,30,21,50,0,Rodney Hood missed Jumper.
+Syracuse,Duke,30,30,21,50,0,Tyler Ennis Defensive Rebound.
+Syracuse,Duke,30,30,22,2,0,C.J. Fair missed Jumper.
+Syracuse,Duke,30,30,22,2,0,Jabari Parker Defensive Rebound.
+Syracuse,Duke,30,33,22,33,1,Tyler Thornton made Three Point Jumper. Assisted by Rasheed Sulaimon.
+Syracuse,Duke,32,33,22,57,1,Jerami Grant made Dunk. Assisted by Tyler Ennis.
+Syracuse,Duke,32,33,23,40,0,Foul on Rakeem Christmas.
+Syracuse,Duke,32,33,23,40,0,Jabari Parker missed Free Throw.
+Syracuse,Duke,32,33,23,40,0,Duke Deadball Team Rebound.
+Syracuse,Duke,32,34,23,40,1,Jabari Parker made Free Throw.
+Syracuse,Duke,32,34,23,54,0,C.J. Fair Turnover.
+Syracuse,Duke,32,34,23,54,0,Tyler Thornton Steal.
+Syracuse,Duke,32,36,23,59,1,Rasheed Sulaimon made Layup.
+Syracuse,Duke,32,36,24,15,0,Foul on Rasheed Sulaimon.
+Syracuse,Duke,32,36,24,15,0,Official TV Timeout
+Syracuse,Duke,32,36,24,33,0,Tyler Ennis missed Jumper.
+Syracuse,Duke,32,36,24,33,0,Baye Keita Offensive Rebound.
+Syracuse,Duke,34,36,24,33,1,Baye Keita made Two Point Tip Shot.
+Syracuse,Duke,34,36,24,52,0,Amile Jefferson Turnover.
+Syracuse,Duke,34,36,24,52,0,Tyler Ennis Steal.
+Syracuse,Duke,36,36,25,2,1,C.J. Fair made Jumper.
+Syracuse,Duke,36,36,25,7,0,Duke  Timeout
+Syracuse,Duke,36,36,25,13,0,Rasheed Sulaimon missed Jumper.
+Syracuse,Duke,36,36,25,13,0,Rasheed Sulaimon Offensive Rebound.
+Syracuse,Duke,36,36,25,21,0,Jump Ball won by Syracuse
+Syracuse,Duke,36,36,25,21,0,Rasheed Sulaimon Turnover.
+Syracuse,Duke,36,36,25,21,0,Michael Gbinije Steal.
+Syracuse,Duke,36,36,25,40,0,Foul on Tyler Thornton.
+Syracuse,Duke,38,36,25,46,1,Jerami Grant made Layup.
+Syracuse,Duke,38,36,26,17,0,Rasheed Sulaimon missed Jumper.
+Syracuse,Duke,38,36,26,17,0,Tyler Ennis Defensive Rebound.
+Syracuse,Duke,38,36,26,36,0,Jerami Grant missed Jumper.
+Syracuse,Duke,38,36,26,36,0,Duke Defensive Rebound.
+Syracuse,Duke,38,36,27,9,0,Foul on Baye Keita.
+Syracuse,Duke,38,36,27,28,0,Quinn Cook missed Three Point Jumper.
+Syracuse,Duke,38,36,27,28,0,Jabari Parker Offensive Rebound.
+Syracuse,Duke,38,39,27,54,1,Quinn Cook made Three Point Jumper. Assisted by Rasheed Sulaimon.
+Syracuse,Duke,40,39,28,10,1,Tyler Ennis made Jumper.
+Syracuse,Duke,40,39,28,10,0,Foul on Quinn Cook.
+Syracuse,Duke,40,39,28,10,0,Official TV Timeout
+Syracuse,Duke,41,39,28,10,1,Tyler Ennis made Free Throw.
+Syracuse,Duke,41,39,28,20,0,Foul on Jerami Grant.
+Syracuse,Duke,41,39,28,26,0,Quinn Cook missed Three Point Jumper.
+Syracuse,Duke,41,39,28,26,0,C.J. Fair Defensive Rebound.
+Syracuse,Duke,41,39,28,44,0,Tyler Ennis missed Layup.
+Syracuse,Duke,41,39,28,44,0,Amile Jefferson Defensive Rebound.
+Syracuse,Duke,41,39,28,47,0,Foul on Michael Gbinije.
+Syracuse,Duke,41,41,29,7,1,Amile Jefferson made Layup.
+Syracuse,Duke,41,41,29,22,0,C.J. Fair missed Jumper.
+Syracuse,Duke,41,41,29,22,0,Rasheed Sulaimon Defensive Rebound.
+Syracuse,Duke,41,43,29,28,1,Jabari Parker made Jumper. Assisted by Rasheed Sulaimon.
+Syracuse,Duke,41,43,29,28,0,Foul on Michael Gbinije.
+Syracuse,Duke,41,44,29,28,1,Jabari Parker made Free Throw.
+Syracuse,Duke,41,44,29,47,0,Tyler Ennis missed Jumper.
+Syracuse,Duke,41,44,29,47,0,Tyler Ennis Offensive Rebound.
+Syracuse,Duke,43,44,30,0,1,C.J. Fair made Jumper. Assisted by Jerami Grant.
+Syracuse,Duke,43,46,30,24,1,Rodney Hood made Jumper. Assisted by Quinn Cook.
+Syracuse,Duke,45,46,30,44,1,Jerami Grant made Jumper. Assisted by Tyler Ennis.
+Syracuse,Duke,45,48,31,5,1,Rodney Hood made Jumper. Assisted by Rasheed Sulaimon.
+Syracuse,Duke,45,48,31,7,0,Duke  Timeout
+Syracuse,Duke,45,48,31,16,0,Baye Keita missed Jumper.
+Syracuse,Duke,45,48,31,16,0,Syracuse Offensive Rebound.
+Syracuse,Duke,45,48,31,33,0,Jerami Grant missed Jumper.
+Syracuse,Duke,45,48,31,33,0,Jabari Parker Block.
+Syracuse,Duke,45,48,31,33,0,Jabari Parker Defensive Rebound.
+Syracuse,Duke,45,48,31,44,0,Jabari Parker Turnover.
+Syracuse,Duke,45,48,31,44,0,Tyler Ennis Steal.
+Syracuse,Duke,45,48,31,47,0,Tyler Ennis missed Jumper.
+Syracuse,Duke,45,48,31,47,0,Amile Jefferson Defensive Rebound.
+Syracuse,Duke,45,51,32,12,1,Quinn Cook made Three Point Jumper. Assisted by Rodney Hood.
+Syracuse,Duke,45,51,32,23,0,Syracuse  Timeout
+Syracuse,Duke,47,51,32,37,1,C.J. Fair made Jumper.
+Syracuse,Duke,47,53,33,11,1,Rasheed Sulaimon made Jumper.
+Syracuse,Duke,47,53,33,33,0,Foul on Amile Jefferson.
+Syracuse,Duke,47,53,33,33,0,Official TV Timeout
+Syracuse,Duke,47,53,33,50,0,Rakeem Christmas missed Layup.
+Syracuse,Duke,47,53,33,50,0,Jabari Parker Defensive Rebound.
+Syracuse,Duke,47,53,34,18,0,Rasheed Sulaimon Turnover.
+Syracuse,Duke,47,53,34,18,0,Tyler Ennis Steal.
+Syracuse,Duke,49,53,34,31,1,Jerami Grant made Layup.
+Syracuse,Duke,49,53,34,51,0,Quinn Cook missed Three Point Jumper.
+Syracuse,Duke,49,53,34,51,0,C.J. Fair Defensive Rebound.
+Syracuse,Duke,49,53,35,4,0,Tyler Ennis missed Jumper.
+Syracuse,Duke,49,53,35,4,0,Rodney Hood Defensive Rebound.
+Syracuse,Duke,49,53,35,31,0,Rodney Hood missed Three Point Jumper.
+Syracuse,Duke,49,53,35,31,0,Jabari Parker Offensive Rebound.
+Syracuse,Duke,49,55,35,36,1,Jabari Parker made Dunk.
+Syracuse,Duke,51,55,35,49,1,Tyler Ennis made Layup.
+Syracuse,Duke,51,55,36,22,0,Jabari Parker missed Jumper.
+Syracuse,Duke,51,55,36,22,0,Jerami Grant Defensive Rebound.
+Syracuse,Duke,53,55,36,30,1,Jerami Grant made Jumper. Assisted by Tyler Ennis.
+Syracuse,Duke,53,55,36,41,0,Duke  Timeout
+Syracuse,Duke,53,57,37,9,1,Rodney Hood made Jumper. Assisted by Rasheed Sulaimon.
+Syracuse,Duke,53,57,37,24,0,Foul on Jabari Parker.
+Syracuse,Duke,53,57,37,24,0,Official TV Timeout
+Syracuse,Duke,53,57,37,24,0,Jerami Grant missed Free Throw.
+Syracuse,Duke,53,57,37,24,0,Syracuse Deadball Team Rebound.
+Syracuse,Duke,54,57,37,24,1,Jerami Grant made Free Throw.
+Syracuse,Duke,54,57,37,52,0,Quinn Cook missed Three Point Jumper.
+Syracuse,Duke,54,57,37,52,0,Trevor Cooney Defensive Rebound.
+Syracuse,Duke,54,57,38,0,0,Foul on Tyler Thornton.
+Syracuse,Duke,55,57,38,0,1,Trevor Cooney made Free Throw.
+Syracuse,Duke,56,57,38,0,1,Trevor Cooney made Free Throw.
+Syracuse,Duke,56,59,38,29,1,Jabari Parker made Jumper.
+Syracuse,Duke,56,59,38,37,0,Syracuse  Timeout
+Syracuse,Duke,56,59,39,1,0,Trevor Cooney missed Jumper.
+Syracuse,Duke,56,59,39,1,0,Jabari Parker Defensive Rebound.
+Syracuse,Duke,56,59,39,8,0,Foul on Jerami Grant.
+Syracuse,Duke,56,59,39,8,0,Jabari Parker missed Free Throw.
+Syracuse,Duke,56,59,39,8,0,Rakeem Christmas Defensive Rebound.
+Syracuse,Duke,58,59,39,21,1,Rakeem Christmas made Dunk. Assisted by Tyler Ennis.
+Syracuse,Duke,58,59,39,36,0,Foul on C.J. Fair.
+Syracuse,Duke,58,60,39,36,1,Rasheed Sulaimon made Free Throw.
+Syracuse,Duke,58,60,39,36,0,Syracuse  Timeout
+Syracuse,Duke,58,60,39,36,0,Rasheed Sulaimon missed Free Throw.
+Syracuse,Duke,58,60,39,36,0,C.J. Fair Defensive Rebound.
+Syracuse,Duke,58,60,39,50,0,Foul on C.J. Fair.
+Syracuse,Duke,58,60,39,50,0,C.J. Fair Turnover.
+Syracuse,Duke,58,60,39,50,0,Technical Foul on Syracuse.
+Syracuse,Duke,58,61,39,50,1,Quinn Cook made Free Throw.
+Syracuse,Duke,58,61,39,50,0,Quinn Cook missed Free Throw.
+Syracuse,Duke,58,61,39,50,0,Technical Foul on Syracuse.
+Syracuse,Duke,58,62,39,50,1,Quinn Cook made Free Throw.
+Syracuse,Duke,58,63,39,50,1,Quinn Cook made Free Throw.
+Syracuse,Duke,58,63,39,50,0,Duke  Timeout
+Syracuse,Duke,58,63,39,51,0,Foul on Jerami Grant.
+Syracuse,Duke,58,64,39,51,1,Tyler Thornton made Free Throw.
+Syracuse,Duke,58,64,39,51,0,Tyler Thornton missed Free Throw.
+Syracuse,Duke,58,64,39,51,0,C.J. Fair Defensive Rebound.
+Syracuse,Duke,58,64,39,56,0,Foul on Quinn Cook.
+Syracuse,Duke,58,64,39,56,0,Tyler Ennis missed Free Throw.
+Syracuse,Duke,58,64,39,56,0,Syracuse Deadball Team Rebound.
+Syracuse,Duke,59,64,39,56,1,Tyler Ennis made Free Throw.
+Syracuse,Duke,60,64,39,56,1,Tyler Ennis made Free Throw.
+Syracuse,Duke,60,64,39,57,0,Foul on Trevor Cooney.
+Syracuse,Duke,60,65,39,57,1,Tyler Thornton made Free Throw.
+Syracuse,Duke,60,66,39,57,1,Tyler Thornton made Free Throw.
+Syracuse,Duke,60,66,39,59,0,Tyler Ennis missed Three Point Jumper.
+Syracuse,Duke,60,66,39,59,0,Jabari Parker Defensive Rebound.
+Syracuse,Duke,60,66,40,0,0,End of Game

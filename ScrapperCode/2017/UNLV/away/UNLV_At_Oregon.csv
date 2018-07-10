@@ -1,0 +1,338 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+UNLV,Oregon,0,0,0,0,0,Jump Ball won by Oregon
+UNLV,Oregon,0,0,0,14,0,Dillon Brooks missed Three Point Jumper.
+UNLV,Oregon,0,0,0,14,0,Jordan Bell Offensive Rebound.
+UNLV,Oregon,0,3,0,29,1,Payton Pritchard made Three Point Jumper. Assisted by Dillon Brooks.
+UNLV,Oregon,0,3,0,47,0,Tyrell Green missed Three Point Jumper.
+UNLV,Oregon,0,3,0,47,0,Jordan Bell Defensive Rebound.
+UNLV,Oregon,0,3,1,1,0,Payton Pritchard missed Three Point Jumper.
+UNLV,Oregon,0,3,1,1,0,UNLV Defensive Rebound.
+UNLV,Oregon,0,3,1,3,0,Foul on Jordan Bell.
+UNLV,Oregon,0,3,1,25,0,Cheickna Dembele missed Jumper.
+UNLV,Oregon,0,3,1,25,0,Dylan Ennis Defensive Rebound.
+UNLV,Oregon,0,5,1,33,1,Jordan Bell made Dunk. Assisted by Dylan Ennis.
+UNLV,Oregon,0,5,2,10,0,Tyrell Green Turnover.
+UNLV,Oregon,0,5,2,10,0,Dillon Brooks Steal.
+UNLV,Oregon,0,5,2,17,0,Foul on Cheickna Dembele.
+UNLV,Oregon,0,6,2,17,1,Jordan Bell made Free Throw.
+UNLV,Oregon,0,7,2,17,1,Jordan Bell made Free Throw.
+UNLV,Oregon,0,7,2,27,0,Foul on Payton Pritchard.
+UNLV,Oregon,1,7,2,27,1,Jalen Poyser made Free Throw.
+UNLV,Oregon,2,7,2,27,1,Jalen Poyser made Free Throw.
+UNLV,Oregon,2,7,2,34,0,Foul on Jovan Mooring.
+UNLV,Oregon,2,8,2,34,1,Dillon Brooks made Free Throw.
+UNLV,Oregon,2,9,2,34,1,Dillon Brooks made Free Throw.
+UNLV,Oregon,2,9,2,50,0,Jovan Mooring missed Three Point Jumper.
+UNLV,Oregon,2,9,2,57,0,Jordan Bell Defensive Rebound.
+UNLV,Oregon,2,9,3,15,0,Foul on Dillon Brooks.
+UNLV,Oregon,2,9,3,15,0,Dillon Brooks Turnover.
+UNLV,Oregon,2,9,3,29,0,Kris Clyburn missed Dunk.
+UNLV,Oregon,2,9,3,29,0,Kavell Bigby-Williams Block.
+UNLV,Oregon,2,9,3,29,0,Keith Smith Defensive Rebound.
+UNLV,Oregon,2,9,3,37,0,Foul on Kris Clyburn.
+UNLV,Oregon,2,10,3,37,1,Kavell Bigby-Williams made Free Throw.
+UNLV,Oregon,2,11,3,37,1,Kavell Bigby-Williams made Free Throw.
+UNLV,Oregon,4,11,3,49,1,Cheickna Dembele made Layup. Assisted by Jovan Mooring.
+UNLV,Oregon,4,13,4,2,1,Kavell Bigby-Williams made Layup. Assisted by Keith Smith.
+UNLV,Oregon,4,13,4,18,0,Cheickna Dembele missed Jumper.
+UNLV,Oregon,4,13,4,18,0,Kavell Bigby-Williams Block.
+UNLV,Oregon,4,13,4,18,0,Dylan Ennis Defensive Rebound.
+UNLV,Oregon,4,13,4,25,0,Keith Smith Turnover.
+UNLV,Oregon,4,13,4,28,0,Official TV Timeout
+UNLV,Oregon,4,13,4,48,0,Uche Ofoegbu missed Layup.
+UNLV,Oregon,4,13,4,48,0,Keith Smith Defensive Rebound.
+UNLV,Oregon,4,13,5,11,0,Foul on Jovan Mooring.
+UNLV,Oregon,4,13,5,11,0,Dylan Ennis missed Three Point Jumper.
+UNLV,Oregon,4,13,5,11,0,UNLV Defensive Rebound.
+UNLV,Oregon,4,13,5,29,0,Troy Baxter Jr. missed Jumper.
+UNLV,Oregon,4,13,5,29,0,UNLV Offensive Rebound.
+UNLV,Oregon,4,13,5,31,0,Foul on Keith Smith.
+UNLV,Oregon,4,13,5,37,0,Kris Clyburn missed Three Point Jumper.
+UNLV,Oregon,4,13,5,37,0,UNLV Offensive Rebound.
+UNLV,Oregon,4,13,5,40,0,Foul on Keith Smith.
+UNLV,Oregon,4,13,5,54,0,Tyrell Green missed Jumper.
+UNLV,Oregon,4,13,5,54,0,Dillon Brooks Defensive Rebound.
+UNLV,Oregon,4,13,6,5,0,Casey Benson missed Jumper.
+UNLV,Oregon,4,13,6,5,0,Roman Sorkin Offensive Rebound.
+UNLV,Oregon,4,13,6,14,0,Tyler Dorsey Turnover.
+UNLV,Oregon,4,13,6,14,0,Kris Clyburn Steal.
+UNLV,Oregon,6,13,6,18,1,Kris Clyburn made Layup.
+UNLV,Oregon,6,13,6,38,0,Tyler Dorsey missed Three Point Jumper.
+UNLV,Oregon,6,13,6,38,0,Troy Baxter Jr. Defensive Rebound.
+UNLV,Oregon,9,13,6,59,1,Tyrell Green made Three Point Jumper. Assisted by Jalen Poyser.
+UNLV,Oregon,9,15,7,18,1,Tyler Dorsey made Jumper.
+UNLV,Oregon,9,15,7,37,0,Troy Baxter Jr. missed Jumper.
+UNLV,Oregon,9,15,7,37,0,UNLV Offensive Rebound.
+UNLV,Oregon,9,15,7,45,0,Tyrell Green missed Jumper.
+UNLV,Oregon,9,15,7,45,0,Kavell Bigby-Williams Block.
+UNLV,Oregon,9,15,7,45,0,Troy Baxter Jr. Offensive Rebound.
+UNLV,Oregon,9,15,8,7,0,Jalen Poyser missed Three Point Jumper.
+UNLV,Oregon,9,15,8,7,0,Dylan Ennis Block.
+UNLV,Oregon,9,15,8,7,0,Kavell Bigby-Williams Defensive Rebound.
+UNLV,Oregon,9,15,8,16,0,Kavell Bigby-Williams Turnover.
+UNLV,Oregon,9,15,8,16,0,Official TV Timeout
+UNLV,Oregon,9,15,8,23,0,Cheickna Dembele Turnover.
+UNLV,Oregon,9,15,8,23,0,Dylan Ennis Steal.
+UNLV,Oregon,9,15,8,33,0,Dylan Ennis missed Three Point Jumper.
+UNLV,Oregon,9,15,8,33,0,UNLV Defensive Rebound.
+UNLV,Oregon,9,15,8,59,0,Zion Morgan missed Jumper.
+UNLV,Oregon,9,15,8,59,0,Jordan Bell Defensive Rebound.
+UNLV,Oregon,9,15,9,7,0,Foul on Roman Sorkin.
+UNLV,Oregon,9,15,9,7,0,Roman Sorkin Turnover.
+UNLV,Oregon,9,15,9,28,0,Jalen Poyser missed Jumper.
+UNLV,Oregon,9,15,9,28,0,Payton Pritchard Defensive Rebound.
+UNLV,Oregon,9,17,9,35,1,Dylan Ennis made Layup. Assisted by Payton Pritchard.
+UNLV,Oregon,9,17,9,43,0,Zion Morgan Turnover.
+UNLV,Oregon,9,17,9,43,0,Dillon Brooks Steal.
+UNLV,Oregon,9,19,9,52,1,Dillon Brooks made Jumper.
+UNLV,Oregon,9,19,9,57,0,UNLV  Timeout
+UNLV,Oregon,9,19,10,14,0,Troy Baxter Jr. missed Three Point Jumper.
+UNLV,Oregon,9,19,10,14,0,Zion Morgan Offensive Rebound.
+UNLV,Oregon,11,19,10,22,1,Tyrell Green made Jumper.
+UNLV,Oregon,11,19,10,32,0,Dillon Brooks missed Jumper.
+UNLV,Oregon,11,19,10,32,0,Tyrell Green Defensive Rebound.
+UNLV,Oregon,11,19,10,42,0,Jovan Mooring missed Jumper.
+UNLV,Oregon,11,19,10,42,0,Roman Sorkin Defensive Rebound.
+UNLV,Oregon,11,19,10,58,0,Roman Sorkin missed Dunk.
+UNLV,Oregon,11,19,10,58,0,Cheickna Dembele Block.
+UNLV,Oregon,11,19,10,58,0,Oregon Offensive Rebound.
+UNLV,Oregon,11,19,11,2,0,Foul on Troy Baxter Jr..
+UNLV,Oregon,11,19,11,20,0,Dillon Brooks missed Jumper.
+UNLV,Oregon,11,19,11,20,0,Jordan Bell Offensive Rebound.
+UNLV,Oregon,11,19,11,35,0,Foul on Dillon Brooks.
+UNLV,Oregon,11,19,11,35,0,Dillon Brooks Turnover.
+UNLV,Oregon,14,19,11,41,1,Tyrell Green made Three Point Jumper. Assisted by Jovan Mooring.
+UNLV,Oregon,14,21,11,56,1,Roman Sorkin made Layup. Assisted by Payton Pritchard.
+UNLV,Oregon,14,21,12,12,0,Zion Morgan missed Layup.
+UNLV,Oregon,14,21,12,12,0,Jordan Bell Defensive Rebound.
+UNLV,Oregon,14,21,12,16,0,Foul on Cheickna Dembele.
+UNLV,Oregon,14,21,12,16,0,Official TV Timeout
+UNLV,Oregon,14,23,12,31,1,Tyler Dorsey made Jumper.
+UNLV,Oregon,14,23,12,44,0,Foul on Payton Pritchard.
+UNLV,Oregon,15,23,12,44,1,Jovan Mooring made Free Throw.
+UNLV,Oregon,16,23,12,44,1,Jovan Mooring made Free Throw.
+UNLV,Oregon,16,23,12,48,0,Casey Benson Turnover.
+UNLV,Oregon,16,23,12,48,0,Jovan Mooring Steal.
+UNLV,Oregon,16,23,12,53,0,Jovan Mooring missed Layup.
+UNLV,Oregon,16,23,12,53,0,Jordan Bell Block.
+UNLV,Oregon,16,23,12,53,0,Oregon Defensive Rebound.
+UNLV,Oregon,16,23,12,53,0,Kris Clyburn missed Jumper.
+UNLV,Oregon,16,23,12,53,0,Dylan Ennis Defensive Rebound.
+UNLV,Oregon,16,23,13,24,0,Jordan Bell missed Jumper.
+UNLV,Oregon,16,23,13,24,0,Tyrell Green Defensive Rebound.
+UNLV,Oregon,18,23,13,38,1,Troy Baxter Jr. made Layup.
+UNLV,Oregon,18,23,13,58,0,Dylan Ennis missed Layup.
+UNLV,Oregon,18,23,13,58,0,Jovan Mooring Defensive Rebound.
+UNLV,Oregon,18,23,14,21,0,Kris Clyburn missed Layup.
+UNLV,Oregon,18,23,14,21,0,Roman Sorkin Defensive Rebound.
+UNLV,Oregon,18,25,14,39,1,Tyler Dorsey made Layup.
+UNLV,Oregon,18,25,14,47,0,UNLV  Turnover.
+UNLV,Oregon,18,27,14,49,1,Jordan Bell made Layup. Assisted by Casey Benson.
+UNLV,Oregon,18,27,15,10,0,Foul on Roman Sorkin.
+UNLV,Oregon,19,27,15,10,1,Troy Baxter Jr. made Free Throw.
+UNLV,Oregon,19,27,15,10,0,Troy Baxter Jr. missed Free Throw.
+UNLV,Oregon,19,27,15,10,0,Kavell Bigby-Williams Defensive Rebound.
+UNLV,Oregon,19,27,15,25,0,Foul on Troy Baxter Jr..
+UNLV,Oregon,19,28,15,25,1,Dylan Ennis made Free Throw.
+UNLV,Oregon,19,29,15,25,1,Dylan Ennis made Free Throw.
+UNLV,Oregon,19,29,15,39,0,Kris Clyburn Turnover.
+UNLV,Oregon,19,29,15,48,0,Foul on Uche Ofoegbu.
+UNLV,Oregon,19,30,15,48,1,Kavell Bigby-Williams made Free Throw.
+UNLV,Oregon,19,30,15,48,0,Kavell Bigby-Williams missed Free Throw.
+UNLV,Oregon,19,30,15,48,0,Dylan Ennis Offensive Rebound.
+UNLV,Oregon,19,30,15,48,0,Tyler Dorsey missed Three Point Jumper.
+UNLV,Oregon,19,30,15,48,0,UNLV Defensive Rebound.
+UNLV,Oregon,19,30,15,52,0,Foul on Keith Smith.
+UNLV,Oregon,20,30,15,52,1,Kris Clyburn made Free Throw.
+UNLV,Oregon,21,30,15,52,1,Kris Clyburn made Free Throw.
+UNLV,Oregon,21,30,16,28,0,Tyler Dorsey missed Jumper.
+UNLV,Oregon,21,30,16,28,0,Jordan Bell Offensive Rebound.
+UNLV,Oregon,21,32,16,28,1,Jordan Bell made Two Point Tip Shot.
+UNLV,Oregon,21,32,16,38,0,Foul on Kavell Bigby-Williams.
+UNLV,Oregon,21,32,16,38,0,Official TV Timeout
+UNLV,Oregon,22,32,16,38,1,Kris Clyburn made Free Throw.
+UNLV,Oregon,23,32,16,38,1,Kris Clyburn made Free Throw.
+UNLV,Oregon,23,32,16,54,0,Kavell Bigby-Williams missed Layup.
+UNLV,Oregon,23,32,16,54,0,Tyrell Green Defensive Rebound.
+UNLV,Oregon,23,32,16,55,0,Foul on Kavell Bigby-Williams.
+UNLV,Oregon,24,32,16,55,1,Tyrell Green made Free Throw.
+UNLV,Oregon,25,32,16,55,1,Tyrell Green made Free Throw.
+UNLV,Oregon,25,32,17,6,0,Foul on Dylan Ennis.
+UNLV,Oregon,25,32,17,6,0,Dylan Ennis Turnover.
+UNLV,Oregon,27,32,17,12,1,Jalen Poyser made Layup.
+UNLV,Oregon,27,34,17,32,1,Dylan Ennis made Layup. Assisted by Casey Benson.
+UNLV,Oregon,27,34,17,50,0,Uche Ofoegbu missed Jumper.
+UNLV,Oregon,27,34,17,50,0,Tyrell Green Offensive Rebound.
+UNLV,Oregon,29,34,17,50,1,Tyrell Green made Two Point Tip Shot.
+UNLV,Oregon,29,37,18,21,1,Tyler Dorsey made Three Point Jumper. Assisted by Dylan Ennis.
+UNLV,Oregon,29,37,18,57,0,Troy Baxter Jr. missed Free Throw.
+UNLV,Oregon,29,37,18,57,0,UNLV Deadball Team Rebound.
+UNLV,Oregon,30,37,18,57,1,Troy Baxter Jr. made Free Throw.
+UNLV,Oregon,30,37,19,11,0,Dillon Brooks missed Three Point Jumper.
+UNLV,Oregon,30,37,19,11,0,Troy Baxter Jr. Defensive Rebound.
+UNLV,Oregon,30,37,19,25,0,Jalen Poyser missed Jumper.
+UNLV,Oregon,30,37,19,25,0,Jordan Bell Block.
+UNLV,Oregon,30,37,19,25,0,Dylan Ennis Defensive Rebound.
+UNLV,Oregon,30,37,19,33,0,Dylan Ennis missed Layup.
+UNLV,Oregon,30,37,19,33,0,Tyrell Green Defensive Rebound.
+UNLV,Oregon,33,37,19,57,1,Tyrell Green made Three Point Jumper. Assisted by Jalen Poyser.
+UNLV,Oregon,33,37,20,0,0,End of 1st half
+UNLV,Oregon,33,37,20,0,0,Jump Ball won by UNLV
+UNLV,Oregon,33,37,20,15,0,Uche Ofoegbu missed Three Point Jumper.
+UNLV,Oregon,33,37,20,15,0,Tyler Dorsey Defensive Rebound.
+UNLV,Oregon,33,39,20,22,1,Jordan Bell made Layup. Assisted by Tyler Dorsey.
+UNLV,Oregon,33,39,20,41,0,Jalen Poyser missed Three Point Jumper.
+UNLV,Oregon,33,39,20,41,0,Tyrell Green Offensive Rebound.
+UNLV,Oregon,33,39,20,43,0,Tyrell Green Turnover.
+UNLV,Oregon,33,39,20,54,0,Payton Pritchard missed Jumper.
+UNLV,Oregon,33,39,20,54,0,Payton Pritchard Offensive Rebound.
+UNLV,Oregon,33,39,21,3,0,Foul on Uche Ofoegbu.
+UNLV,Oregon,33,39,21,8,0,Dylan Ennis missed Layup.
+UNLV,Oregon,33,39,21,8,0,Kris Clyburn Defensive Rebound.
+UNLV,Oregon,33,39,21,24,0,Uche Ofoegbu Turnover.
+UNLV,Oregon,33,39,21,39,0,Tyler Dorsey missed Three Point Jumper.
+UNLV,Oregon,33,39,21,39,0,Jordan Bell Offensive Rebound.
+UNLV,Oregon,33,42,21,49,1,Dillon Brooks made Three Point Jumper. Assisted by Payton Pritchard.
+UNLV,Oregon,33,42,22,5,0,Kris Clyburn Turnover.
+UNLV,Oregon,33,42,22,12,0,Foul on Tyrell Green.
+UNLV,Oregon,33,42,22,16,0,Foul on Zion Morgan.
+UNLV,Oregon,33,42,22,20,0,Dillon Brooks missed Jumper.
+UNLV,Oregon,33,42,22,20,0,Tyrell Green Defensive Rebound.
+UNLV,Oregon,33,42,22,26,0,Tyrell Green Turnover.
+UNLV,Oregon,33,44,22,33,1,Jordan Bell made Layup.
+UNLV,Oregon,33,44,23,3,0,Jalen Poyser Turnover.
+UNLV,Oregon,33,44,23,3,0,UNLV  Timeout
+UNLV,Oregon,33,47,23,16,1,Payton Pritchard made Three Point Jumper. Assisted by Dylan Ennis.
+UNLV,Oregon,33,47,23,46,0,Kris Clyburn missed Layup.
+UNLV,Oregon,33,47,23,46,0,Cheickna Dembele Offensive Rebound.
+UNLV,Oregon,35,47,23,55,1,Cheickna Dembele made Layup.
+UNLV,Oregon,35,49,24,1,1,Tyler Dorsey made Layup. Assisted by Dylan Ennis.
+UNLV,Oregon,35,49,24,8,0,Jalen Poyser Turnover.
+UNLV,Oregon,35,49,24,11,0,Official TV Timeout
+UNLV,Oregon,35,51,24,32,1,Jordan Bell made Jumper.
+UNLV,Oregon,35,51,24,46,0,Foul on Payton Pritchard.
+UNLV,Oregon,35,51,24,46,0,Jovan Mooring missed Free Throw.
+UNLV,Oregon,35,51,24,46,0,UNLV Deadball Team Rebound.
+UNLV,Oregon,35,51,24,46,0,Jovan Mooring missed Free Throw.
+UNLV,Oregon,35,51,24,46,0,Oregon Defensive Rebound.
+UNLV,Oregon,35,51,24,46,0,Foul on Troy Baxter Jr..
+UNLV,Oregon,35,53,25,6,1,Dillon Brooks made Jumper.
+UNLV,Oregon,35,53,25,37,0,Tyrell Green missed Jumper.
+UNLV,Oregon,35,53,25,37,0,Jordan Bell Defensive Rebound.
+UNLV,Oregon,35,53,25,59,0,Payton Pritchard Turnover.
+UNLV,Oregon,35,53,25,59,0,Jovan Mooring Steal.
+UNLV,Oregon,35,53,26,8,0,Foul on Casey Benson.
+UNLV,Oregon,35,53,26,8,0,Troy Baxter Jr. missed Free Throw.
+UNLV,Oregon,35,53,26,8,0,UNLV Deadball Team Rebound.
+UNLV,Oregon,36,53,26,8,1,Troy Baxter Jr. made Free Throw.
+UNLV,Oregon,36,55,26,26,1,Tyler Dorsey made Layup.
+UNLV,Oregon,36,55,26,54,0,Jovan Mooring missed Three Point Jumper.
+UNLV,Oregon,36,55,26,54,0,Jordan Bell Defensive Rebound.
+UNLV,Oregon,36,55,26,59,0,Foul on Kris Clyburn.
+UNLV,Oregon,36,55,27,17,0,Dillon Brooks Turnover.
+UNLV,Oregon,36,55,27,17,0,Jalen Poyser Steal.
+UNLV,Oregon,36,55,27,23,0,Uche Ofoegbu Turnover.
+UNLV,Oregon,36,55,27,23,0,Dillon Brooks Steal.
+UNLV,Oregon,36,55,27,24,0,Foul on Uche Ofoegbu.
+UNLV,Oregon,36,55,27,33,0,Keith Smith Turnover.
+UNLV,Oregon,36,55,27,56,0,Jalen Poyser missed Three Point Jumper.
+UNLV,Oregon,36,55,27,56,0,Casey Benson Defensive Rebound.
+UNLV,Oregon,36,55,28,12,0,Dylan Ennis missed Layup.
+UNLV,Oregon,36,55,28,12,0,Troy Baxter Jr. Block.
+UNLV,Oregon,36,55,28,12,0,Oregon Offensive Rebound.
+UNLV,Oregon,36,55,28,12,0,Official TV Timeout
+UNLV,Oregon,36,55,28,24,0,Dylan Ennis Turnover.
+UNLV,Oregon,36,55,28,24,0,Uche Ofoegbu Steal.
+UNLV,Oregon,36,55,28,33,0,Jalen Poyser Turnover.
+UNLV,Oregon,36,55,28,55,0,Foul on Uche Ofoegbu.
+UNLV,Oregon,36,55,28,55,0,Keith Smith missed Free Throw.
+UNLV,Oregon,36,55,28,55,0,Oregon Deadball Team Rebound.
+UNLV,Oregon,36,56,28,55,1,Keith Smith made Free Throw.
+UNLV,Oregon,36,56,29,9,0,Foul on Keith Smith.
+UNLV,Oregon,37,56,29,9,1,Jovan Mooring made Free Throw.
+UNLV,Oregon,38,56,29,9,1,Jovan Mooring made Free Throw.
+UNLV,Oregon,38,56,29,30,0,Foul on Uche Ofoegbu.
+UNLV,Oregon,38,57,29,30,1,Roman Sorkin made Free Throw.
+UNLV,Oregon,38,58,29,30,1,Roman Sorkin made Free Throw.
+UNLV,Oregon,40,58,29,43,1,Troy Baxter Jr. made Jumper. Assisted by Jovan Mooring.
+UNLV,Oregon,40,58,30,5,0,Kavell Bigby-Williams missed Jumper.
+UNLV,Oregon,40,58,30,5,0,Kris Clyburn Defensive Rebound.
+UNLV,Oregon,40,58,30,16,0,Troy Baxter Jr. Turnover.
+UNLV,Oregon,40,58,30,16,0,Dylan Ennis Steal.
+UNLV,Oregon,40,60,30,21,1,Dillon Brooks made Dunk. Assisted by Dylan Ennis.
+UNLV,Oregon,43,60,30,38,1,Jovan Mooring made Three Point Jumper. Assisted by Ben Coupet Jr..
+UNLV,Oregon,43,60,30,41,0,UNLV  Timeout
+UNLV,Oregon,43,60,31,7,0,Tyler Dorsey missed Three Point Jumper.
+UNLV,Oregon,43,60,31,7,0,Dillon Brooks Offensive Rebound.
+UNLV,Oregon,43,62,31,13,1,Dillon Brooks made Layup.
+UNLV,Oregon,43,62,31,25,0,Tyrell Green missed Three Point Jumper.
+UNLV,Oregon,43,62,31,25,0,Tyler Dorsey Defensive Rebound.
+UNLV,Oregon,43,64,31,31,1,Dillon Brooks made Jumper. Assisted by Tyler Dorsey.
+UNLV,Oregon,43,64,32,1,0,Tyrell Green missed Layup.
+UNLV,Oregon,43,64,32,1,0,Roman Sorkin Block.
+UNLV,Oregon,43,64,32,1,0,Dillon Brooks Defensive Rebound.
+UNLV,Oregon,43,64,32,8,0,Roman Sorkin missed Three Point Jumper.
+UNLV,Oregon,43,64,32,8,0,UNLV Defensive Rebound.
+UNLV,Oregon,43,64,32,10,0,Foul on Dillon Brooks.
+UNLV,Oregon,43,64,32,10,0,Official TV Timeout
+UNLV,Oregon,46,64,32,22,1,Jovan Mooring made Three Point Jumper.
+UNLV,Oregon,46,66,32,35,1,Kavell Bigby-Williams made Dunk. Assisted by Dillon Brooks.
+UNLV,Oregon,49,66,32,43,1,Jovan Mooring made Three Point Jumper.
+UNLV,Oregon,49,66,33,6,0,Foul on Kavell Bigby-Williams.
+UNLV,Oregon,49,66,33,6,0,Kavell Bigby-Williams Turnover.
+UNLV,Oregon,49,66,33,21,0,Ben Coupet Jr. missed Three Point Jumper.
+UNLV,Oregon,49,66,33,21,0,Cheickna Dembele Offensive Rebound.
+UNLV,Oregon,49,66,33,26,0,Cheickna Dembele missed Jumper.
+UNLV,Oregon,49,66,33,26,0,Tyrell Green Offensive Rebound.
+UNLV,Oregon,52,66,33,33,1,Tyrell Green made Three Point Jumper. Assisted by Jalen Poyser.
+UNLV,Oregon,52,66,33,38,0,UNLV  Timeout
+UNLV,Oregon,52,69,33,53,1,Tyler Dorsey made Three Point Jumper. Assisted by Dillon Brooks.
+UNLV,Oregon,52,69,34,8,0,Jovan Mooring missed Jumper.
+UNLV,Oregon,52,69,34,8,0,Cheickna Dembele Offensive Rebound.
+UNLV,Oregon,52,69,34,14,0,Cheickna Dembele missed Jumper.
+UNLV,Oregon,52,69,34,14,0,Jordan Bell Block.
+UNLV,Oregon,52,69,34,14,0,Dylan Ennis Defensive Rebound.
+UNLV,Oregon,52,71,34,33,1,Dylan Ennis made Jumper.
+UNLV,Oregon,52,71,35,1,0,Cheickna Dembele Turnover.
+UNLV,Oregon,52,71,35,1,0,Jordan Bell Steal.
+UNLV,Oregon,52,71,35,1,0,Jump Ball won by Oregon
+UNLV,Oregon,52,73,35,21,1,Tyler Dorsey made Layup. Assisted by Dillon Brooks.
+UNLV,Oregon,52,73,35,33,0,Kris Clyburn missed Three Point Jumper.
+UNLV,Oregon,52,73,35,33,0,Jordan Bell Defensive Rebound.
+UNLV,Oregon,52,73,35,55,0,Jordan Bell Turnover.
+UNLV,Oregon,55,73,36,8,1,Jovan Mooring made Three Point Jumper.
+UNLV,Oregon,55,75,36,25,1,Dillon Brooks made Layup.
+UNLV,Oregon,55,75,36,25,0,Foul on Kris Clyburn.
+UNLV,Oregon,55,75,36,25,0,Official TV Timeout
+UNLV,Oregon,55,76,36,25,1,Dillon Brooks made Free Throw.
+UNLV,Oregon,55,76,36,33,0,Foul on Dylan Ennis.
+UNLV,Oregon,56,76,36,33,1,Jovan Mooring made Free Throw.
+UNLV,Oregon,57,76,36,33,1,Jovan Mooring made Free Throw.
+UNLV,Oregon,57,76,36,37,0,Dillon Brooks missed Three Point Jumper.
+UNLV,Oregon,57,76,36,37,0,Jordan Bell Offensive Rebound.
+UNLV,Oregon,57,78,36,45,1,Jordan Bell made Layup.
+UNLV,Oregon,57,78,37,3,0,Jovan Mooring missed Jumper.
+UNLV,Oregon,57,78,37,3,0,UNLV Offensive Rebound.
+UNLV,Oregon,57,78,37,12,0,Zion Morgan Turnover.
+UNLV,Oregon,57,78,37,12,0,Payton Pritchard Steal.
+UNLV,Oregon,57,78,37,18,0,Dylan Ennis missed Jumper.
+UNLV,Oregon,57,78,37,18,0,Dillon Brooks Offensive Rebound.
+UNLV,Oregon,57,80,37,18,1,Dillon Brooks made Two Point Tip Shot.
+UNLV,Oregon,57,80,37,31,0,Oregon  Timeout
+UNLV,Oregon,59,80,37,56,1,Kris Clyburn made Jumper.
+UNLV,Oregon,59,80,38,26,0,Payton Pritchard missed Three Point Jumper.
+UNLV,Oregon,59,80,38,26,0,Casey Benson Offensive Rebound.
+UNLV,Oregon,59,82,38,31,1,Casey Benson made Jumper.
+UNLV,Oregon,61,82,38,46,1,Jovan Mooring made Jumper.
+UNLV,Oregon,61,82,39,6,0,Foul on Jovan Mooring.
+UNLV,Oregon,61,82,39,6,0,Keith Smith missed Free Throw.
+UNLV,Oregon,61,82,39,6,0,Oregon Deadball Team Rebound.
+UNLV,Oregon,61,83,39,6,1,Keith Smith made Free Throw.
+UNLV,Oregon,61,83,39,14,0,Foul on Kavell Bigby-Williams.
+UNLV,Oregon,62,83,39,14,1,Kris Clyburn made Free Throw.
+UNLV,Oregon,63,83,39,14,1,Kris Clyburn made Free Throw.
+UNLV,Oregon,63,83,39,38,0,Roman Sorkin missed Jumper.
+UNLV,Oregon,63,83,39,38,0,Zion Morgan Defensive Rebound.
+UNLV,Oregon,63,83,39,55,0,Troy Baxter Jr. missed Three Point Jumper.
+UNLV,Oregon,63,83,39,55,0,Charlie Noebel Defensive Rebound.
+UNLV,Oregon,63,83,40,0,0,End of Game

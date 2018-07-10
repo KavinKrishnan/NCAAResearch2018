@@ -1,0 +1,370 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Temple,Kent State,0,0,0,16,0,Darren Goodson missed Three Point Jumper.
+Temple,Kent State,0,0,0,16,0,Anthony Lee Defensive Rebound.
+Temple,Kent State,0,0,0,32,0,Khalif Wyatt missed Three Point Jumper.
+Temple,Kent State,0,0,0,32,0,Randal Holt Defensive Rebound.
+Temple,Kent State,0,0,0,56,0,Darren Goodson missed Jumper.
+Temple,Kent State,0,0,0,56,0,Chris Evans Offensive Rebound.
+Temple,Kent State,0,0,1,0,0,Foul on Anthony Lee
+Temple,Kent State,0,1,1,0,1,Chris Evans made Free Throw.
+Temple,Kent State,0,2,1,0,1,Chris Evans made Free Throw.
+Temple,Kent State,0,2,1,18,0,Khalif Wyatt missed Jumper.
+Temple,Kent State,0,2,1,18,0,Kris Brewer Defensive Rebound.
+Temple,Kent State,0,2,1,43,0,Chris Evans missed Three Point Jumper.
+Temple,Kent State,0,2,1,43,0,Anthony Lee Defensive Rebound.
+Temple,Kent State,0,2,2,4,0,Scootie Randall missed Three Point Jumper.
+Temple,Kent State,0,2,2,4,0,Randal Holt Defensive Rebound.
+Temple,Kent State,0,2,2,12,0,Chris Evans Turnover.
+Temple,Kent State,2,2,2,26,1,Khalif Wyatt made Layup.
+Temple,Kent State,2,2,2,26,0,Foul on Mark Henniger
+Temple,Kent State,3,2,2,26,1,Khalif Wyatt made Free Throw.
+Temple,Kent State,3,4,2,47,1,Mark Henniger made Layup.  Assisted by Chris Evans.
+Temple,Kent State,3,4,2,59,0,Rahlir Hollis-Jefferson Turnover.
+Temple,Kent State,3,4,3,1,0,Kris Brewer Steal.
+Temple,Kent State,3,4,3,7,0,Randal Holt missed Three Point Jumper.
+Temple,Kent State,3,4,3,7,0,Khalif Wyatt Defensive Rebound.
+Temple,Kent State,5,4,3,16,1,Scootie Randall made Jumper.
+Temple,Kent State,5,4,3,42,0,Kris Brewer missed Three Point Jumper.
+Temple,Kent State,5,4,3,42,0,Will Cummings Defensive Rebound.
+Temple,Kent State,7,4,3,48,1,Scootie Randall made Layup.  Assisted by Will Cummings.
+Temple,Kent State,7,4,4,8,0,Kris Brewer missed Layup.
+Temple,Kent State,7,4,4,8,0,Anthony Lee Defensive Rebound.
+Temple,Kent State,10,4,4,16,1,Scootie Randall made Three Point Jumper.  Assisted by Khalif Wyatt.
+Temple,Kent State,10,4,4,44,0,Mark Henniger missed Layup.
+Temple,Kent State,10,4,4,44,0,Anthony Lee Defensive Rebound.
+Temple,Kent State,12,4,4,57,1,Rahlir Hollis-Jefferson made Jumper.  Assisted by Scootie Randall.
+Temple,Kent State,12,4,5,5,0,Temple Full Timeout.
+Temple,Kent State,12,4,5,22,0,Devareaux Manley missed Three Point Jumper.
+Temple,Kent State,12,4,5,22,0,Melvin Tabb Offensive Rebound.
+Temple,Kent State,12,4,5,25,0,Foul on Scootie Randall
+Temple,Kent State,12,4,5,25,0,Official TV Timeout.
+Temple,Kent State,12,4,5,29,0,Kris Brewer Turnover.
+Temple,Kent State,12,4,5,36,0,Rahlir Hollis-Jefferson Steal.
+Temple,Kent State,12,4,5,38,0,Will Cummings Turnover.
+Temple,Kent State,12,4,5,39,0,Devareaux Manley Steal.
+Temple,Kent State,12,4,5,44,0,Bryson Pope missed Jumper.
+Temple,Kent State,12,4,5,44,0,Bryson Pope Offensive Rebound.
+Temple,Kent State,12,6,5,50,1,Bryson Pope made Layup.
+Temple,Kent State,12,6,6,12,0,Khalif Wyatt Turnover.
+Temple,Kent State,12,6,6,27,0,Bryson Pope missed Three Point Jumper.
+Temple,Kent State,12,6,6,27,0,Temple Defensive Rebound.
+Temple,Kent State,12,6,6,45,0,Khalif Wyatt Turnover.
+Temple,Kent State,12,6,6,57,0,Kellon Thomas missed Jumper.
+Temple,Kent State,12,6,6,57,0,Scootie Randall Defensive Rebound.
+Temple,Kent State,12,6,7,16,0,Scootie Randall missed Three Point Jumper.
+Temple,Kent State,12,6,7,16,0,Devareaux Manley Defensive Rebound.
+Temple,Kent State,12,6,7,23,0,Darren Goodson Turnover.
+Temple,Kent State,12,6,7,23,0,Foul on Darren Goodson
+Temple,Kent State,12,6,7,31,0,Khalif Wyatt missed Jumper.
+Temple,Kent State,12,6,7,31,0,Melvin Tabb Defensive Rebound.
+Temple,Kent State,12,9,7,55,1,Earvin Morris Jr. made Three Point Jumper.  Assisted by Kellon Thomas.
+Temple,Kent State,14,9,8,30,1,Anthony Lee made Layup.  Assisted by Scootie Randall.
+Temple,Kent State,14,9,8,43,0,Earvin Morris Jr. missed Jumper.
+Temple,Kent State,14,9,8,43,0,Temple Defensive Rebound.
+Temple,Kent State,14,9,8,43,0,Foul on Bryson Pope
+Temple,Kent State,14,9,9,3,0,Foul on Earvin Morris Jr.
+Temple,Kent State,17,9,9,7,1,Jake O'Brien made Three Point Jumper.  Assisted by T.J. DiLeo.
+Temple,Kent State,17,9,9,27,0,Kellon Thomas Turnover.
+Temple,Kent State,17,9,9,34,0,Jake O'Brien Steal.
+Temple,Kent State,17,9,9,38,0,Scootie Randall missed Three Point Jumper.
+Temple,Kent State,17,9,9,38,0,Melvin Tabb Defensive Rebound.
+Temple,Kent State,17,11,10,2,1,Earvin Morris Jr. made Jumper.
+Temple,Kent State,20,11,10,10,1,Scootie Randall made Three Point Jumper.
+Temple,Kent State,20,11,10,33,0,Melvin Tabb missed Jumper.
+Temple,Kent State,20,11,10,33,0,Bryson Pope Offensive Rebound.
+Temple,Kent State,20,11,10,37,0,Bryson Pope missed Layup.
+Temple,Kent State,20,11,10,42,0,Melvin Tabb Offensive Rebound.
+Temple,Kent State,20,11,10,42,0,Melvin Tabb missed Layup.
+Temple,Kent State,20,11,10,42,0,Rahlir Hollis-Jefferson Block.
+Temple,Kent State,20,11,10,42,0,Dalton Pepper Defensive Rebound.
+Temple,Kent State,23,11,10,43,1,Scootie Randall made Three Point Jumper.  Assisted by Dalton Pepper.
+Temple,Kent State,23,11,10,48,0,Official TV Timeout.
+Temple,Kent State,23,11,10,48,0,Randal Holt Turnover.
+Temple,Kent State,23,11,10,48,0,Dalton Pepper Steal.
+Temple,Kent State,23,11,10,58,0,Foul on Randal Holt
+Temple,Kent State,24,11,10,58,1,Dalton Pepper made Free Throw.
+Temple,Kent State,25,11,10,58,1,Dalton Pepper made Free Throw.
+Temple,Kent State,25,11,11,3,0,Foul on Dalton Pepper
+Temple,Kent State,25,11,11,18,0,Chris Evans missed Jumper.
+Temple,Kent State,25,11,11,18,0,Mark Henniger Offensive Rebound.
+Temple,Kent State,25,13,11,22,1,Chris Ortiz made Jumper.
+Temple,Kent State,27,13,11,36,1,Khalif Wyatt made Layup.
+Temple,Kent State,27,16,11,37,1,Randal Holt made Three Point Jumper.  Assisted by Kris Brewer.
+Temple,Kent State,27,16,11,41,0,Foul on T.J. DiLeo
+Temple,Kent State,27,16,11,54,0,Chris Evans Turnover.
+Temple,Kent State,27,16,11,56,0,Dalton Pepper Steal.
+Temple,Kent State,27,16,11,58,0,Dalton Pepper Turnover.
+Temple,Kent State,27,16,12,2,0,Mark Henniger Steal.
+Temple,Kent State,27,18,12,6,1,Chris Evans made Dunk.  Assisted by Chris Ortiz.
+Temple,Kent State,30,18,12,21,1,T.J. DiLeo made Three Point Jumper.  Assisted by Khalif Wyatt.
+Temple,Kent State,30,18,12,23,0,Kent State Full Timeout.
+Temple,Kent State,30,18,12,49,0,Randal Holt missed Free Throw.
+Temple,Kent State,30,18,12,49,0,Anthony Lee Defensive Rebound.
+Temple,Kent State,30,18,13,8,0,Jake O'Brien missed Jumper.
+Temple,Kent State,30,18,13,8,0,Chris Ortiz Defensive Rebound.
+Temple,Kent State,30,20,13,20,1,Kris Brewer made Jumper.
+Temple,Kent State,30,20,13,32,0,Jake O'Brien missed Three Point Jumper.
+Temple,Kent State,30,20,13,32,0,Dalton Pepper Offensive Rebound.
+Temple,Kent State,32,20,13,38,1,Dalton Pepper made Layup.
+Temple,Kent State,32,20,14,4,0,Randal Holt Turnover.
+Temple,Kent State,32,20,14,4,0,Scootie Randall Steal.
+Temple,Kent State,32,20,14,4,0,Temple Full Timeout.
+Temple,Kent State,34,20,14,6,1,Scootie Randall made Layup.
+Temple,Kent State,34,20,14,36,0,Chris Ortiz missed Three Point Jumper.
+Temple,Kent State,34,20,14,36,0,Scootie Randall Defensive Rebound.
+Temple,Kent State,34,20,14,40,0,Foul on Mark Henniger
+Temple,Kent State,34,20,14,43,0,Dalton Pepper Turnover.
+Temple,Kent State,34,20,14,49,0,Chris Evans Steal.
+Temple,Kent State,34,20,14,52,0,Kris Brewer missed Layup.
+Temple,Kent State,34,20,14,52,0,Jake O'Brien Block.
+Temple,Kent State,34,20,14,54,0,Kent State Offensive Rebound.
+Temple,Kent State,34,22,15,1,1,Kris Brewer made Jumper.
+Temple,Kent State,34,22,15,10,0,Dalton Pepper missed Three Point Jumper.
+Temple,Kent State,34,22,15,10,0,Chris Ortiz Defensive Rebound.
+Temple,Kent State,34,22,15,25,0,Darren Goodson missed Jumper.
+Temple,Kent State,34,22,15,25,0,Scootie Randall Defensive Rebound.
+Temple,Kent State,36,22,15,43,1,Anthony Lee made Layup.
+Temple,Kent State,36,22,15,50,0,Foul on Darren Goodson
+Temple,Kent State,36,22,16,12,0,Official TV Timeout.
+Temple,Kent State,36,22,16,13,0,Anthony Lee missed Free Throw.
+Temple,Kent State,36,22,16,13,0,Melvin Tabb Defensive Rebound.
+Temple,Kent State,36,24,16,19,1,Melvin Tabb made Jumper.  Assisted by Chris Evans.
+Temple,Kent State,36,24,16,28,0,Will Cummings Turnover.
+Temple,Kent State,36,24,16,51,0,Kris Brewer Turnover.
+Temple,Kent State,36,24,16,54,0,Scootie Randall Steal.
+Temple,Kent State,36,24,17,35,0,Scootie Randall Turnover.
+Temple,Kent State,36,24,17,47,0,Bryson Pope missed Jumper.
+Temple,Kent State,36,24,17,47,0,Dalton Pepper Defensive Rebound.
+Temple,Kent State,38,24,18,6,1,Scootie Randall made Jumper.
+Temple,Kent State,38,24,18,33,0,Chris Evans missed Jumper.
+Temple,Kent State,38,24,18,33,0,Chris Evans Offensive Rebound.
+Temple,Kent State,38,26,18,39,1,Chris Evans made Jumper.
+Temple,Kent State,38,26,18,41,0,Foul on Jake O'Brien
+Temple,Kent State,38,27,18,41,1,Chris Evans made Free Throw.
+Temple,Kent State,38,27,18,43,0,Dalton Pepper Turnover.
+Temple,Kent State,38,27,18,44,0,Chris Evans Steal.
+Temple,Kent State,38,29,18,46,1,Kris Brewer made Layup.  Assisted by Chris Evans.
+Temple,Kent State,38,29,18,51,0,Foul on Will Cummings
+Temple,Kent State,38,30,18,51,1,Kris Brewer made Free Throw.
+Temple,Kent State,38,30,19,7,0,Rahlir Hollis-Jefferson Turnover.
+Temple,Kent State,38,30,19,13,0,Randal Holt missed Three Point Jumper.
+Temple,Kent State,38,30,19,13,0,T.J. DiLeo Defensive Rebound.
+Temple,Kent State,38,30,19,22,0,Foul on Melvin Tabb
+Temple,Kent State,39,30,19,22,1,T.J. DiLeo made Free Throw.
+Temple,Kent State,40,30,19,22,1,T.J. DiLeo made Free Throw.
+Temple,Kent State,40,32,19,49,1,Chris Evans made Jumper.
+Temple,Kent State,40,32,19,58,0,T.J. DiLeo missed Three Point Jumper.
+Temple,Kent State,40,32,19,58,0,Kent State Defensive Rebound.
+Temple,Kent State,40,32,20,0,0,End of the 1st Half.
+Temple,Kent State,40,32,20,11,0,Scootie Randall missed Three Point Jumper.
+Temple,Kent State,40,32,20,11,0,Dalton Pepper Offensive Rebound.
+Temple,Kent State,40,32,20,17,0,Scootie Randall Turnover.
+Temple,Kent State,40,35,20,25,1,Randal Holt made Three Point Jumper.  Assisted by Mark Henniger.
+Temple,Kent State,40,35,20,36,0,Anthony Lee missed Jumper.
+Temple,Kent State,40,35,20,36,0,Darren Goodson Defensive Rebound.
+Temple,Kent State,40,37,20,51,1,Darren Goodson made Jumper.
+Temple,Kent State,40,37,20,58,0,Foul on Darren Goodson
+Temple,Kent State,42,37,21,21,1,Anthony Lee made Layup.  Assisted by Will Cummings.
+Temple,Kent State,42,37,21,21,0,Foul on Randal Holt
+Temple,Kent State,43,37,21,21,1,Anthony Lee made Free Throw.
+Temple,Kent State,43,37,21,39,0,Foul on Will Cummings
+Temple,Kent State,43,38,21,39,1,Randal Holt made Free Throw.
+Temple,Kent State,43,39,21,39,1,Randal Holt made Free Throw.
+Temple,Kent State,43,39,21,53,0,Foul on Randal Holt
+Temple,Kent State,44,39,21,53,1,Anthony Lee made Free Throw.
+Temple,Kent State,45,39,21,53,1,Anthony Lee made Free Throw.
+Temple,Kent State,45,39,22,8,0,Chris Evans Turnover.
+Temple,Kent State,45,39,22,9,0,Anthony Lee Steal.
+Temple,Kent State,45,39,22,14,0,Will Cummings missed Layup.
+Temple,Kent State,45,39,22,15,0,Chris Ortiz Block.
+Temple,Kent State,45,39,22,16,0,Chris Evans Defensive Rebound.
+Temple,Kent State,45,42,22,23,1,Kris Brewer made Three Point Jumper.
+Temple,Kent State,45,42,22,46,0,Dalton Pepper missed Jumper.
+Temple,Kent State,45,42,22,46,0,Rahlir Hollis-Jefferson Offensive Rebou.
+Temple,Kent State,45,42,22,52,0,Rahlir Hollis-Jefferson Turnover.
+Temple,Kent State,45,42,22,53,0,Mark Henniger Steal.
+Temple,Kent State,45,42,22,58,0,Randal Holt missed Three Point Jumper.
+Temple,Kent State,45,42,22,58,0,Chris Evans Offensive Rebound.
+Temple,Kent State,45,44,23,2,1,Chris Evans made Dunk.
+Temple,Kent State,45,44,23,22,0,Foul on Chris Evans
+Temple,Kent State,45,44,23,33,0,Foul on Kris Brewer
+Temple,Kent State,46,44,23,33,1,Anthony Lee made Free Throw.
+Temple,Kent State,46,44,23,33,0,Anthony Lee missed Free Throw.
+Temple,Kent State,46,44,23,33,0,Kent State Defensive Rebound.
+Temple,Kent State,46,44,24,5,0,Earvin Morris Jr. missed Jumper.
+Temple,Kent State,46,44,24,5,0,Will Cummings Block.
+Temple,Kent State,46,44,24,8,0,Will Cummings Defensive Rebound.
+Temple,Kent State,46,44,24,8,0,Will Cummings Turnover.
+Temple,Kent State,46,44,24,27,0,Kris Brewer Steal.
+Temple,Kent State,46,46,24,27,1,Kris Brewer made Dunk.
+Temple,Kent State,49,46,24,29,1,Scootie Randall made Three Point Jumper.  Assisted by Will Cummings.
+Temple,Kent State,49,46,24,36,0,Mark Henniger Turnover.
+Temple,Kent State,49,46,24,36,0,Will Cummings Steal.
+Temple,Kent State,49,46,24,42,0,Scootie Randall missed Three Point Jumper.
+Temple,Kent State,49,46,24,42,0,Kent State Defensive Rebound.
+Temple,Kent State,49,46,24,53,0,Official TV Timeout.
+Temple,Kent State,49,46,25,15,0,Bryson Pope missed Jumper.
+Temple,Kent State,49,46,25,15,0,Rahlir Hollis-Jefferson Block.
+Temple,Kent State,49,46,25,15,0,Bryson Pope Offensive Rebound.
+Temple,Kent State,49,46,25,16,0,Bryson Pope missed Jumper.
+Temple,Kent State,49,46,25,16,0,Anthony Lee Defensive Rebound.
+Temple,Kent State,49,46,25,33,0,Dalton Pepper Turnover.
+Temple,Kent State,49,46,25,40,0,Kris Brewer Turnover.
+Temple,Kent State,49,46,25,43,0,Anthony Lee Steal.
+Temple,Kent State,49,46,26,16,0,Foul on Earvin Morris Jr.
+Temple,Kent State,52,46,26,20,1,Scootie Randall made Three Point Jumper.  Assisted by Khalif Wyatt.
+Temple,Kent State,52,46,26,36,0,Kris Brewer missed Jumper.
+Temple,Kent State,52,46,26,36,0,Anthony Lee Defensive Rebound.
+Temple,Kent State,52,46,26,50,0,Scootie Randall Turnover.
+Temple,Kent State,52,46,26,52,0,Kris Brewer Steal.
+Temple,Kent State,52,48,27,8,1,Chris Evans made Jumper.  Assisted by Darren Goodson.
+Temple,Kent State,52,48,27,8,0,Foul on Anthony Lee
+Temple,Kent State,52,49,27,8,1,Chris Evans made Free Throw.
+Temple,Kent State,54,49,27,27,1,Anthony Lee made Layup.  Assisted by Khalif Wyatt.
+Temple,Kent State,54,49,27,27,0,Foul on Darren Goodson
+Temple,Kent State,54,49,27,27,0,Anthony Lee missed Free Throw.
+Temple,Kent State,54,49,27,27,0,Melvin Tabb Defensive Rebound.
+Temple,Kent State,54,49,27,44,0,Chris Evans Turnover.
+Temple,Kent State,54,49,27,56,0,Scootie Randall missed Three Point Jumper.
+Temple,Kent State,54,49,27,56,0,Chris Ortiz Defensive Rebound.
+Temple,Kent State,54,49,28,5,0,Randal Holt Turnover.
+Temple,Kent State,56,49,28,28,1,Anthony Lee made Dunk.  Assisted by Rahlir Hollis-Jefferson.
+Temple,Kent State,56,51,28,35,1,Randal Holt made Jumper.
+Temple,Kent State,56,51,28,51,0,Foul on Chris Evans
+Temple,Kent State,56,51,28,51,0,Official TV Timeout.
+Temple,Kent State,57,51,28,51,1,Scootie Randall made Free Throw.
+Temple,Kent State,58,51,28,51,1,Scootie Randall made Free Throw.
+Temple,Kent State,58,51,29,16,0,Chris Evans missed Three Point Jumper.
+Temple,Kent State,58,51,29,16,0,Chris Ortiz Offensive Rebound.
+Temple,Kent State,58,51,29,28,0,Chris Evans Turnover.
+Temple,Kent State,58,51,29,31,0,Scootie Randall Steal.
+Temple,Kent State,58,51,29,33,0,Scootie Randall Turnover.
+Temple,Kent State,58,51,29,35,0,Chris Evans Steal.
+Temple,Kent State,58,51,29,39,0,Chris Evans Turnover.
+Temple,Kent State,58,51,29,41,0,T.J. DiLeo Steal.
+Temple,Kent State,61,51,29,52,1,Jake O'Brien made Three Point Jumper.  Assisted by T.J. DiLeo.
+Temple,Kent State,61,51,29,55,0,Kent State Full Timeout.
+Temple,Kent State,61,51,30,24,0,Foul on Jake O'Brien
+Temple,Kent State,61,51,30,24,0,Melvin Tabb missed Free Throw.
+Temple,Kent State,61,51,30,24,0,null
+Temple,Kent State,61,51,30,24,0,Melvin Tabb missed Free Throw.
+Temple,Kent State,61,51,30,24,0,T.J. DiLeo Defensive Rebound.
+Temple,Kent State,61,51,30,35,0,Jake O'Brien missed Three Point Jumper.
+Temple,Kent State,61,51,30,35,0,Randal Holt Defensive Rebound.
+Temple,Kent State,61,51,30,50,0,Randal Holt missed Three Point Jumper.
+Temple,Kent State,61,51,30,50,0,Khalif Wyatt Defensive Rebound.
+Temple,Kent State,61,51,31,10,0,Khalif Wyatt missed Three Point Jumper.
+Temple,Kent State,61,51,31,10,0,Randal Holt Defensive Rebound.
+Temple,Kent State,61,51,31,20,0,Randal Holt Turnover.
+Temple,Kent State,61,51,31,21,0,Scootie Randall Steal.
+Temple,Kent State,63,51,31,25,1,Scootie Randall made Layup.  Assisted by Khalif Wyatt.
+Temple,Kent State,63,51,31,25,0,Foul on Kris Brewer
+Temple,Kent State,64,51,31,25,1,Scootie Randall made Free Throw.
+Temple,Kent State,64,51,31,44,0,Bryson Pope missed Three Point Jumper.
+Temple,Kent State,64,51,31,44,0,Scootie Randall Defensive Rebound.
+Temple,Kent State,64,51,31,59,0,Foul on Earvin Morris Jr.
+Temple,Kent State,64,51,31,59,0,T.J. DiLeo missed Free Throw.
+Temple,Kent State,64,51,31,59,0,T.J. DiLeo missed Free Throw.
+Temple,Kent State,64,51,31,59,0,T.J. DiLeo Offensive Rebound.
+Temple,Kent State,66,51,32,1,1,T.J. DiLeo made Layup.
+Temple,Kent State,66,53,32,17,1,Kris Brewer made Jumper.
+Temple,Kent State,66,53,32,30,0,Rahlir Hollis-Jefferson Turnover.
+Temple,Kent State,66,53,32,34,0,Bryson Pope Steal.
+Temple,Kent State,66,53,32,39,0,Devareaux Manley missed Three Point Jumper.
+Temple,Kent State,66,53,32,39,0,Chris Evans Offensive Rebound.
+Temple,Kent State,66,53,32,39,0,Chris Evans missed Tip Shot.
+Temple,Kent State,66,53,32,39,0,Rahlir Hollis-Jefferson Defensive Rebou.
+Temple,Kent State,66,53,32,48,0,Foul on Mark Henniger
+Temple,Kent State,66,53,32,48,0,Official TV Timeout.
+Temple,Kent State,66,53,32,48,0,Rahlir Hollis-Jefferson missed Free Throw.
+Temple,Kent State,66,53,32,48,0,null
+Temple,Kent State,67,53,32,48,1,Rahlir Hollis-Jefferson made Free Throw.
+Temple,Kent State,67,53,33,2,0,Bryson Pope missed Jumper.
+Temple,Kent State,67,53,33,2,0,Rahlir Hollis-Jefferson Block.
+Temple,Kent State,67,53,33,6,0,Anthony Lee Defensive Rebound.
+Temple,Kent State,67,53,33,9,0,Dalton Pepper missed Three Point Jumper.
+Temple,Kent State,67,53,33,9,0,Bryson Pope Defensive Rebound.
+Temple,Kent State,67,53,33,18,0,Devareaux Manley missed Jumper.
+Temple,Kent State,67,53,33,18,0,Chris Evans Offensive Rebound.
+Temple,Kent State,67,55,33,24,1,Chris Evans made Layup.
+Temple,Kent State,67,55,33,25,0,Foul on Dalton Pepper
+Temple,Kent State,67,56,33,25,1,Chris Evans made Free Throw.
+Temple,Kent State,69,56,33,47,1,T.J. DiLeo made Layup.  Assisted by Anthony Lee.
+Temple,Kent State,69,56,34,4,0,Bryson Pope Turnover.
+Temple,Kent State,69,56,34,7,0,Khalif Wyatt Steal.
+Temple,Kent State,71,56,34,9,1,Anthony Lee made Dunk.  Assisted by Khalif Wyatt.
+Temple,Kent State,71,56,34,15,0,Kent State Full Timeout.
+Temple,Kent State,71,56,34,22,0,Team Technical Foul
+Temple,Kent State,72,56,34,22,1,Scootie Randall made Free Throw.
+Temple,Kent State,73,56,34,22,1,Scootie Randall made Free Throw.
+Temple,Kent State,73,56,34,26,0,Chris Evans missed Three Point Jumper.
+Temple,Kent State,73,56,34,26,0,Mark Henniger Offensive Rebound.
+Temple,Kent State,73,56,34,32,0,Foul on Anthony Lee
+Temple,Kent State,73,56,34,32,0,Mark Henniger missed Free Throw.
+Temple,Kent State,73,56,34,32,0,null
+Temple,Kent State,73,56,34,32,0,Mark Henniger missed Free Throw.
+Temple,Kent State,73,56,34,32,0,Rahlir Hollis-Jefferson Defensive Rebou.
+Temple,Kent State,73,56,34,57,0,Scootie Randall Turnover.
+Temple,Kent State,73,56,35,1,0,Randal Holt missed Layup.
+Temple,Kent State,73,56,35,1,0,Chris Evans Offensive Rebound.
+Temple,Kent State,73,56,35,9,0,Chris Evans Turnover.
+Temple,Kent State,73,56,35,17,0,Scootie Randall missed Jumper.
+Temple,Kent State,73,56,35,17,0,Mark Henniger Defensive Rebound.
+Temple,Kent State,73,56,35,32,0,Foul on Khalif Wyatt
+Temple,Kent State,73,56,35,32,0,Randal Holt missed Free Throw.
+Temple,Kent State,73,56,35,32,0,null
+Temple,Kent State,73,57,35,32,1,Randal Holt made Free Throw.
+Temple,Kent State,73,57,35,37,0,Foul on Earvin Morris Jr.
+Temple,Kent State,73,57,35,37,0,Rahlir Hollis-Jefferson missed Free Throw.
+Temple,Kent State,73,57,35,37,0,null
+Temple,Kent State,73,57,35,37,0,Rahlir Hollis-Jefferson missed Free Throw.
+Temple,Kent State,73,57,35,37,0,Earvin Morris Jr. Defensive Rebound.
+Temple,Kent State,73,57,35,57,0,Chris Evans Turnover.
+Temple,Kent State,73,57,36,0,0,Rahlir Hollis-Jefferson Steal.
+Temple,Kent State,73,57,36,29,0,Scootie Randall missed Jumper.
+Temple,Kent State,73,57,36,29,0,Kris Brewer Defensive Rebound.
+Temple,Kent State,73,57,36,39,0,Chris Evans missed Jumper.
+Temple,Kent State,73,57,36,39,0,Bryson Pope Offensive Rebound.
+Temple,Kent State,73,57,36,45,0,Foul on Chris Evans
+Temple,Kent State,73,57,36,45,0,Technical Foul on Chris Evans
+Temple,Kent State,73,57,36,45,0,Scootie Randall missed Free Throw.
+Temple,Kent State,73,57,36,45,0,null
+Temple,Kent State,74,57,36,45,1,Scootie Randall made Free Throw.
+Temple,Kent State,74,57,36,51,0,Official TV Timeout.
+Temple,Kent State,74,60,36,58,1,Kris Brewer made Three Point Jumper.  Assisted by Mark Henniger.
+Temple,Kent State,74,60,37,36,0,Anthony Lee missed Layup.
+Temple,Kent State,74,60,37,36,0,Mark Henniger Defensive Rebound.
+Temple,Kent State,74,60,37,47,0,Kris Brewer missed Three Point Jumper.
+Temple,Kent State,74,60,37,47,0,Chris Ortiz Offensive Rebound.
+Temple,Kent State,74,60,37,53,0,Foul on Anthony Lee
+Temple,Kent State,74,61,37,55,1,Chris Ortiz made Free Throw.
+Temple,Kent State,74,62,37,55,1,Chris Ortiz made Free Throw.
+Temple,Kent State,74,62,38,4,0,Temple Full Timeout.
+Temple,Kent State,74,62,38,20,0,Scootie Randall missed Three Point Jumper.
+Temple,Kent State,74,62,38,20,0,Jake O'Brien Offensive Rebound.
+Temple,Kent State,74,62,38,23,0,Jake O'Brien missed Jumper.
+Temple,Kent State,74,62,38,23,0,Melvin Tabb Defensive Rebound.
+Temple,Kent State,74,64,38,37,1,Kris Brewer made Layup.
+Temple,Kent State,76,64,38,40,1,Khalif Wyatt made Layup.
+Temple,Kent State,76,64,38,52,0,Kellon Thomas Turnover.
+Temple,Kent State,76,64,38,54,0,Rahlir Hollis-Jefferson Steal.
+Temple,Kent State,76,64,38,57,0,T.J. DiLeo Turnover.
+Temple,Kent State,76,64,38,59,0,Kris Brewer Steal.
+Temple,Kent State,76,64,39,2,0,Kris Brewer Turnover.
+Temple,Kent State,76,64,39,4,0,Khalif Wyatt Steal.
+Temple,Kent State,76,64,39,13,0,Foul on Melvin Tabb
+Temple,Kent State,77,64,39,15,1,Khalif Wyatt made Free Throw.
+Temple,Kent State,78,64,39,15,1,Khalif Wyatt made Free Throw.
+Temple,Kent State,78,64,39,15,0,Temple Full Timeout.
+Temple,Kent State,78,64,39,25,0,Devareaux Manley missed Three Point Jumper.
+Temple,Kent State,78,64,39,25,0,Melvin Tabb Offensive Rebound.
+Temple,Kent State,78,64,39,27,0,Melvin Tabb missed Layup.
+Temple,Kent State,78,64,39,27,0,Devontae Watson Block.
+Temple,Kent State,78,64,39,31,0,Kent State Offensive Rebound.
+Temple,Kent State,78,64,39,35,0,Earvin Morris Jr. missed Three Point Jumper.
+Temple,Kent State,78,64,39,35,0,Chris Ortiz Offensive Rebound.
+Temple,Kent State,78,66,39,39,1,Chris Ortiz made Layup.
+Temple,Kent State,80,66,39,45,1,Quenton DeCosey made Dunk.
+Temple,Kent State,80,66,39,49,0,Kellon Thomas missed Three Point Jumper.
+Temple,Kent State,80,66,39,58,0,Jake O'Brien Defensive Rebound.
+Temple,Kent State,80,66,40,0,0,End Game

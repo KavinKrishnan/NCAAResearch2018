@@ -1,0 +1,362 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,Houston,0,0,0,0,0,Jump Ball won by Stanford
+Stanford,Houston,2,0,0,19,1,Stefan Nastic made Jumper.
+Stanford,Houston,2,0,0,56,0,L.J. Rose missed Jumper.
+Stanford,Houston,2,0,0,56,0,Josh Huestis Defensive Rebound.
+Stanford,Houston,2,0,1,11,0,Stefan Nastic Turnover.
+Stanford,Houston,2,0,1,11,0,TaShawn Thomas Steal.
+Stanford,Houston,2,0,1,37,0,Mikhail McLean missed Layup.
+Stanford,Houston,2,0,1,37,0,Danuel House Offensive Rebound.
+Stanford,Houston,2,0,1,39,0,Foul on Stefan Nastic.
+Stanford,Houston,2,1,1,39,1,Danuel House made Free Throw.
+Stanford,Houston,2,1,1,39,0,Danuel House missed Free Throw.
+Stanford,Houston,2,1,1,39,0,Anthony Brown Defensive Rebound.
+Stanford,Houston,2,1,1,44,0,Foul on TaShawn Thomas.
+Stanford,Houston,2,1,1,44,0,Stefan Nastic missed Free Throw.
+Stanford,Houston,2,1,1,44,0,Stanford Deadball Team Rebound.
+Stanford,Houston,2,1,1,44,0,Stefan Nastic missed Free Throw.
+Stanford,Houston,2,1,1,44,0,Josh Huestis Offensive Rebound.
+Stanford,Houston,4,1,1,48,1,Anthony Brown made Jumper. Assisted by Josh Huestis.
+Stanford,Houston,4,1,2,9,0,TaShawn Thomas missed Jumper.
+Stanford,Houston,4,1,2,9,0,Chasson Randle Defensive Rebound.
+Stanford,Houston,4,1,2,12,0,Foul on Jherrod Stiggers.
+Stanford,Houston,4,1,2,23,0,Dwight Powell missed Three Point Jumper.
+Stanford,Houston,4,1,2,23,0,Danuel House Defensive Rebound.
+Stanford,Houston,4,1,2,30,0,Jherrod Stiggers missed Three Point Jumper.
+Stanford,Houston,4,1,2,30,0,Chasson Randle Defensive Rebound.
+Stanford,Houston,4,1,2,40,0,Chasson Randle missed Jumper.
+Stanford,Houston,4,1,2,40,0,Josh Huestis Offensive Rebound.
+Stanford,Houston,4,1,2,44,0,Josh Huestis Turnover.
+Stanford,Houston,4,1,2,44,0,L.J. Rose Steal.
+Stanford,Houston,4,3,2,52,1,L.J. Rose made Layup.
+Stanford,Houston,4,3,3,2,0,Chasson Randle missed Three Point Jumper.
+Stanford,Houston,4,3,3,2,0,Danuel House Defensive Rebound.
+Stanford,Houston,4,3,3,12,0,Jherrod Stiggers missed Three Point Jumper.
+Stanford,Houston,4,3,3,12,0,TaShawn Thomas Offensive Rebound.
+Stanford,Houston,4,3,3,22,0,Jump Ball won by Houston
+Stanford,Houston,4,3,3,37,0,J.J. Richardson Turnover.
+Stanford,Houston,4,3,3,56,0,Anthony Brown Turnover.
+Stanford,Houston,4,3,3,56,0,J.J. Richardson Steal.
+Stanford,Houston,4,6,4,2,1,Tione Womack made Three Point Jumper. Assisted by L.J. Rose.
+Stanford,Houston,7,6,4,16,1,Anthony Brown made Three Point Jumper. Assisted by Dwight Powell.
+Stanford,Houston,7,6,4,38,0,Danuel House missed Three Point Jumper.
+Stanford,Houston,7,6,4,38,0,Josh Huestis Defensive Rebound.
+Stanford,Houston,7,6,4,48,0,Anthony Brown missed Jumper.
+Stanford,Houston,7,6,4,48,0,TaShawn Thomas Block.
+Stanford,Houston,7,6,4,48,0,TaShawn Thomas Defensive Rebound.
+Stanford,Houston,7,6,4,53,0,L.J. Rose Turnover.
+Stanford,Houston,7,6,4,53,0,Official TV Timeout
+Stanford,Houston,7,6,5,17,0,Anthony Brown Turnover.
+Stanford,Houston,7,6,5,17,0,L.J. Rose Steal.
+Stanford,Houston,7,8,5,23,1,L.J. Rose made Jumper.
+Stanford,Houston,7,8,5,37,0,Dwight Powell missed Jumper.
+Stanford,Houston,7,8,5,37,0,Grant Verhoeven Offensive Rebound.
+Stanford,Houston,7,8,5,41,0,Chasson Randle missed Three Point Jumper.
+Stanford,Houston,7,8,5,41,0,Anthony Brown Offensive Rebound.
+Stanford,Houston,9,8,5,46,1,Chasson Randle made Jumper. Assisted by Anthony Brown.
+Stanford,Houston,9,8,5,46,0,Foul on J.J. Richardson.
+Stanford,Houston,9,8,5,46,0,Chasson Randle missed Free Throw.
+Stanford,Houston,9,8,5,46,0,Danrad Knowles Defensive Rebound.
+Stanford,Houston,9,8,6,12,0,Tione Womack missed Jumper.
+Stanford,Houston,9,8,6,12,0,Josh Huestis Defensive Rebound.
+Stanford,Houston,9,8,6,21,0,Foul on Brandon Morris.
+Stanford,Houston,9,8,6,37,0,Dwight Powell missed Jumper.
+Stanford,Houston,9,8,6,37,0,Danrad Knowles Defensive Rebound.
+Stanford,Houston,9,8,6,55,0,Brandon Morris missed Three Point Jumper.
+Stanford,Houston,9,8,6,55,0,Grant Verhoeven Defensive Rebound.
+Stanford,Houston,9,8,7,14,0,Josh Huestis missed Three Point Jumper.
+Stanford,Houston,9,8,7,14,0,Dwight Powell Offensive Rebound.
+Stanford,Houston,9,8,7,21,0,Dwight Powell Turnover.
+Stanford,Houston,9,8,7,21,0,J.J. Richardson Steal.
+Stanford,Houston,9,8,7,32,0,Foul on Grant Verhoeven.
+Stanford,Houston,9,8,7,40,0,Foul on LeRon Barnes.
+Stanford,Houston,9,8,7,40,0,LeRon Barnes Turnover.
+Stanford,Houston,9,8,7,58,0,Foul on Chasson Randle.
+Stanford,Houston,9,8,7,58,0,Chasson Randle Turnover.
+Stanford,Houston,9,11,8,26,1,Danuel House made Three Point Jumper. Assisted by Tione Womack.
+Stanford,Houston,9,11,9,2,0,Chasson Randle missed Three Point Jumper.
+Stanford,Houston,9,11,9,2,0,Grant Verhoeven Offensive Rebound.
+Stanford,Houston,9,11,9,13,0,Anthony Brown missed Jumper.
+Stanford,Houston,9,11,9,13,0,TaShawn Thomas Defensive Rebound.
+Stanford,Houston,9,11,9,30,0,Foul on Grant Verhoeven.
+Stanford,Houston,9,11,9,30,0,Official TV Timeout
+Stanford,Houston,9,11,9,49,0,Jherrod Stiggers Turnover.
+Stanford,Houston,9,11,9,49,0,Anthony Brown Steal.
+Stanford,Houston,9,11,9,49,0,Foul on Jherrod Stiggers.
+Stanford,Houston,9,11,10,10,0,Stefan Nastic missed Jumper.
+Stanford,Houston,9,11,10,10,0,TaShawn Thomas Defensive Rebound.
+Stanford,Houston,9,11,10,26,0,Danrad Knowles missed Jumper.
+Stanford,Houston,9,11,10,26,0,Anthony Brown Defensive Rebound.
+Stanford,Houston,11,11,10,42,1,Josh Huestis made Layup.
+Stanford,Houston,11,11,11,15,0,L.J. Rose missed Three Point Jumper.
+Stanford,Houston,11,11,11,15,0,TaShawn Thomas Offensive Rebound.
+Stanford,Houston,11,11,11,21,0,TaShawn Thomas missed Jumper.
+Stanford,Houston,11,11,11,21,0,Josh Huestis Block.
+Stanford,Houston,11,11,11,21,0,Josh Huestis Defensive Rebound.
+Stanford,Houston,13,11,11,29,1,Dwight Powell made Jumper.
+Stanford,Houston,13,11,11,39,0,Foul on Aaron Bright.
+Stanford,Houston,13,13,11,49,1,TaShawn Thomas made Layup.
+Stanford,Houston,13,13,11,58,0,Robbie Lemons missed Three Point Jumper.
+Stanford,Houston,13,13,11,58,0,Josh Huestis Offensive Rebound.
+Stanford,Houston,15,13,12,2,1,Josh Huestis made Dunk.
+Stanford,Houston,15,13,12,9,0,Danuel House missed Three Point Jumper.
+Stanford,Houston,15,13,12,9,0,Stefan Nastic Defensive Rebound.
+Stanford,Houston,15,13,12,33,0,Robbie Lemons missed Three Point Jumper.
+Stanford,Houston,15,13,12,33,0,Danrad Knowles Defensive Rebound.
+Stanford,Houston,15,13,12,41,0,L.J. Rose Turnover.
+Stanford,Houston,15,13,12,41,0,Official TV Timeout
+Stanford,Houston,15,13,13,7,0,Chasson Randle Turnover.
+Stanford,Houston,15,13,13,7,0,TaShawn Thomas Steal.
+Stanford,Houston,15,15,13,13,1,TaShawn Thomas made Dunk. Assisted by Danrad Knowles.
+Stanford,Houston,15,15,13,32,0,Aaron Bright missed Three Point Jumper.
+Stanford,Houston,15,15,13,32,0,Danuel House Defensive Rebound.
+Stanford,Houston,15,18,13,40,1,Tione Womack made Three Point Jumper. Assisted by Danuel House.
+Stanford,Houston,15,18,13,49,0,Foul on J.J. Richardson.
+Stanford,Houston,16,18,13,49,1,Stefan Nastic made Free Throw.
+Stanford,Houston,17,18,13,49,1,Stefan Nastic made Free Throw.
+Stanford,Houston,17,18,13,54,0,Dwight Powell missed Layup.
+Stanford,Houston,17,18,13,54,0,TaShawn Thomas Defensive Rebound.
+Stanford,Houston,17,20,14,16,1,TaShawn Thomas made Dunk. Assisted by Danrad Knowles.
+Stanford,Houston,17,20,14,37,0,John Gage missed Three Point Jumper.
+Stanford,Houston,17,20,14,37,0,Danuel House Defensive Rebound.
+Stanford,Houston,17,22,14,47,1,Danuel House made Layup. Assisted by L.J. Rose.
+Stanford,Houston,17,22,14,49,0,Stanford  Timeout
+Stanford,Houston,19,22,15,7,1,Dwight Powell made Layup.
+Stanford,Houston,19,24,15,13,1,Danuel House made Dunk. Assisted by L.J. Rose.
+Stanford,Houston,19,24,15,31,0,Anthony Brown missed Three Point Jumper.
+Stanford,Houston,19,24,15,31,0,TaShawn Thomas Defensive Rebound.
+Stanford,Houston,19,24,15,40,0,Danuel House missed Dunk.
+Stanford,Houston,19,24,15,40,0,Tione Womack Offensive Rebound.
+Stanford,Houston,19,24,15,55,0,Foul on Anthony Brown.
+Stanford,Houston,19,26,15,56,1,TaShawn Thomas made Layup. Assisted by Tione Womack.
+Stanford,Houston,19,26,16,16,0,Dwight Powell missed Jumper.
+Stanford,Houston,19,26,16,16,0,TaShawn Thomas Defensive Rebound.
+Stanford,Houston,19,26,16,30,0,L.J. Rose missed Layup.
+Stanford,Houston,19,26,16,30,0,TaShawn Thomas Offensive Rebound.
+Stanford,Houston,19,28,16,30,1,TaShawn Thomas made Two Point Tip Shot.
+Stanford,Houston,22,28,16,46,1,Aaron Bright made Three Point Jumper. Assisted by Chasson Randle.
+Stanford,Houston,22,28,17,12,0,TaShawn Thomas missed Layup.
+Stanford,Houston,22,28,17,12,0,Josh Huestis Defensive Rebound.
+Stanford,Houston,22,28,17,22,0,Jump Ball won by Stanford
+Stanford,Houston,22,28,17,22,0,Official TV Timeout
+Stanford,Houston,22,28,17,23,0,Josh Huestis missed Jumper.
+Stanford,Houston,22,28,17,23,0,L.J. Rose Defensive Rebound.
+Stanford,Houston,22,30,17,38,1,Danrad Knowles made Jumper. Assisted by L.J. Rose.
+Stanford,Houston,22,30,17,55,0,Foul on Mikhail McLean.
+Stanford,Houston,23,30,17,55,1,Stefan Nastic made Free Throw.
+Stanford,Houston,24,30,17,55,1,Stefan Nastic made Free Throw.
+Stanford,Houston,24,32,18,14,1,Danuel House made Layup. Assisted by TaShawn Thomas.
+Stanford,Houston,24,32,18,24,0,Josh Huestis missed Three Point Jumper.
+Stanford,Houston,24,32,18,24,0,Stefan Nastic Offensive Rebound.
+Stanford,Houston,27,32,18,28,1,Anthony Brown made Three Point Jumper. Assisted by Stefan Nastic.
+Stanford,Houston,27,32,18,34,0,Danrad Knowles Turnover.
+Stanford,Houston,30,32,18,39,1,Anthony Brown made Three Point Jumper. Assisted by Aaron Bright.
+Stanford,Houston,30,32,19,5,0,TaShawn Thomas missed Free Throw.
+Stanford,Houston,30,32,19,5,0,Foul on Josh Huestis.
+Stanford,Houston,30,32,19,5,0,Houston Deadball Team Rebound.
+Stanford,Houston,30,32,19,6,0,TaShawn Thomas missed Free Throw.
+Stanford,Houston,30,32,19,11,0,Josh Huestis Defensive Rebound.
+Stanford,Houston,32,32,19,18,1,Dwight Powell made Jumper. Assisted by Aaron Bright.
+Stanford,Houston,32,32,19,25,0,Houston  Timeout
+Stanford,Houston,32,32,19,54,0,Danuel House Turnover.
+Stanford,Houston,32,32,19,54,0,Dwight Powell Steal.
+Stanford,Houston,32,32,19,59,0,Aaron Bright missed Layup.
+Stanford,Houston,32,32,19,59,0,Houston Defensive Rebound.
+Stanford,Houston,32,32,20,0,0,End of 1st half
+Stanford,Houston,32,32,20,0,0,Jump Ball won by Houston
+Stanford,Houston,32,34,20,12,1,L.J. Rose made Jumper.
+Stanford,Houston,34,34,20,31,1,Stefan Nastic made Jumper.
+Stanford,Houston,34,34,20,31,0,Foul on Mikhail McLean.
+Stanford,Houston,34,34,20,31,0,Stefan Nastic missed Free Throw.
+Stanford,Houston,34,34,20,31,0,TaShawn Thomas Defensive Rebound.
+Stanford,Houston,34,34,20,36,0,Jherrod Stiggers missed Three Point Jumper.
+Stanford,Houston,34,34,20,36,0,Anthony Brown Defensive Rebound.
+Stanford,Houston,37,34,20,55,1,Chasson Randle made Three Point Jumper. Assisted by Josh Huestis.
+Stanford,Houston,37,34,21,28,0,Jherrod Stiggers missed Jumper.
+Stanford,Houston,37,34,21,28,0,TaShawn Thomas Offensive Rebound.
+Stanford,Houston,37,34,21,28,0,Foul on Stefan Nastic.
+Stanford,Houston,37,34,21,28,0,TaShawn Thomas missed Free Throw.
+Stanford,Houston,37,34,21,28,0,Houston Deadball Team Rebound.
+Stanford,Houston,37,35,21,28,1,TaShawn Thomas made Free Throw.
+Stanford,Houston,37,35,21,44,0,Dwight Powell missed Three Point Jumper.
+Stanford,Houston,37,35,21,44,0,Anthony Brown Offensive Rebound.
+Stanford,Houston,39,35,21,52,1,Stefan Nastic made Jumper. Assisted by Chasson Randle.
+Stanford,Houston,39,37,22,28,1,Mikhail McLean made Jumper. Assisted by Danuel House.
+Stanford,Houston,39,37,22,42,0,Chasson Randle Turnover.
+Stanford,Houston,39,37,22,42,0,Danuel House Steal.
+Stanford,Houston,39,39,22,45,1,TaShawn Thomas made Dunk.
+Stanford,Houston,39,39,23,3,0,Chasson Randle missed Three Point Jumper.
+Stanford,Houston,39,39,23,3,0,TaShawn Thomas Defensive Rebound.
+Stanford,Houston,39,39,23,5,0,Foul on Stefan Nastic.
+Stanford,Houston,39,39,23,18,0,L.J. Rose Turnover.
+Stanford,Houston,39,39,23,18,0,Grant Verhoeven Steal.
+Stanford,Houston,41,39,23,24,1,Dwight Powell made Dunk.
+Stanford,Houston,41,39,24,0,0,Jherrod Stiggers missed Three Point Jumper.
+Stanford,Houston,41,39,24,0,0,Josh Huestis Defensive Rebound.
+Stanford,Houston,41,39,24,14,0,Dwight Powell missed Dunk.
+Stanford,Houston,41,39,24,14,0,Stanford Offensive Rebound.
+Stanford,Houston,43,39,24,23,1,Anthony Brown made Jumper.
+Stanford,Houston,43,39,24,53,0,Jherrod Stiggers missed Jumper.
+Stanford,Houston,43,39,24,53,0,Dwight Powell Defensive Rebound.
+Stanford,Houston,43,39,25,0,0,Chasson Randle missed Layup.
+Stanford,Houston,43,39,25,0,0,Houston Defensive Rebound.
+Stanford,Houston,43,39,25,0,0,Official TV Timeout
+Stanford,Houston,43,39,25,15,0,Foul on Grant Verhoeven.
+Stanford,Houston,43,40,25,15,1,TaShawn Thomas made Free Throw.
+Stanford,Houston,43,40,25,15,0,TaShawn Thomas missed Free Throw.
+Stanford,Houston,43,40,25,15,0,Anthony Brown Defensive Rebound.
+Stanford,Houston,46,40,25,33,1,Anthony Brown made Three Point Jumper. Assisted by Chasson Randle.
+Stanford,Houston,46,43,26,8,1,Tione Womack made Three Point Jumper. Assisted by J.J. Richardson.
+Stanford,Houston,48,43,26,22,1,Dwight Powell made Jumper. Assisted by Josh Huestis.
+Stanford,Houston,48,46,26,43,1,L.J. Rose made Three Point Jumper. Assisted by Danuel House.
+Stanford,Houston,48,46,27,1,0,Josh Huestis missed Jumper.
+Stanford,Houston,48,46,27,1,0,Houston Defensive Rebound.
+Stanford,Houston,48,46,27,26,0,J.J. Richardson missed Jumper.
+Stanford,Houston,48,46,27,26,0,Anthony Brown Defensive Rebound.
+Stanford,Houston,50,46,27,36,1,Josh Huestis made Dunk. Assisted by Aaron Bright.
+Stanford,Houston,50,46,27,36,0,Foul on Danrad Knowles.
+Stanford,Houston,51,46,27,36,1,Josh Huestis made Free Throw.
+Stanford,Houston,51,46,27,55,0,Danuel House missed Jumper.
+Stanford,Houston,51,46,27,55,0,Dwight Powell Defensive Rebound.
+Stanford,Houston,53,46,28,12,1,Dwight Powell made Dunk.
+Stanford,Houston,53,46,28,16,0,Houston  Timeout
+Stanford,Houston,53,46,28,34,0,Jherrod Stiggers missed Jumper.
+Stanford,Houston,53,46,28,34,0,Jherrod Stiggers Offensive Rebound.
+Stanford,Houston,53,48,28,40,1,Jherrod Stiggers made Layup.
+Stanford,Houston,53,48,28,51,0,Foul on TaShawn Thomas.
+Stanford,Houston,53,48,28,51,0,Official TV Timeout
+Stanford,Houston,53,48,28,52,0,Josh Huestis missed Jumper.
+Stanford,Houston,53,48,28,52,0,Anthony Brown Offensive Rebound.
+Stanford,Houston,53,48,28,57,0,Anthony Brown missed Layup.
+Stanford,Houston,53,48,28,57,0,TaShawn Thomas Block.
+Stanford,Houston,53,48,28,57,0,Tione Womack Defensive Rebound.
+Stanford,Houston,53,48,29,9,0,L.J. Rose Turnover.
+Stanford,Houston,53,48,29,9,0,Aaron Bright Steal.
+Stanford,Houston,55,48,29,12,1,Aaron Bright made Layup.
+Stanford,Houston,55,48,29,31,0,Foul on Stefan Nastic.
+Stanford,Houston,55,49,29,31,1,TaShawn Thomas made Free Throw.
+Stanford,Houston,55,49,29,31,0,TaShawn Thomas missed Free Throw.
+Stanford,Houston,55,49,29,31,0,Dwight Powell Defensive Rebound.
+Stanford,Houston,57,49,29,48,1,Dwight Powell made Jumper.
+Stanford,Houston,57,49,29,48,0,Foul on J.J. Richardson.
+Stanford,Houston,58,49,29,48,1,Dwight Powell made Free Throw.
+Stanford,Houston,58,49,30,10,0,L.J. Rose missed Layup.
+Stanford,Houston,58,49,30,10,0,Dwight Powell Defensive Rebound.
+Stanford,Houston,58,49,30,23,0,Dwight Powell missed Three Point Jumper.
+Stanford,Houston,58,49,30,23,0,L.J. Rose Defensive Rebound.
+Stanford,Houston,58,49,30,32,0,Jherrod Stiggers missed Layup.
+Stanford,Houston,58,49,30,32,0,TaShawn Thomas Offensive Rebound.
+Stanford,Houston,58,51,30,32,1,TaShawn Thomas made Layup.
+Stanford,Houston,58,51,30,32,0,Foul on Chasson Randle.
+Stanford,Houston,58,51,30,32,0,TaShawn Thomas missed Free Throw.
+Stanford,Houston,58,51,30,32,0,Josh Huestis Defensive Rebound.
+Stanford,Houston,58,51,30,42,0,Aaron Bright Turnover.
+Stanford,Houston,58,51,30,42,0,TaShawn Thomas Steal.
+Stanford,Houston,58,51,30,49,0,J.J. Richardson missed Layup.
+Stanford,Houston,58,51,30,49,0,Josh Huestis Defensive Rebound.
+Stanford,Houston,60,51,30,56,1,Anthony Brown made Layup. Assisted by Chasson Randle.
+Stanford,Houston,60,51,31,8,0,Foul on Dwight Powell.
+Stanford,Houston,60,52,31,8,1,TaShawn Thomas made Free Throw.
+Stanford,Houston,60,53,31,8,1,TaShawn Thomas made Free Throw.
+Stanford,Houston,60,53,31,16,0,Josh Huestis missed Jumper.
+Stanford,Houston,60,53,31,16,0,TaShawn Thomas Block.
+Stanford,Houston,60,53,31,16,0,Stanford Offensive Rebound.
+Stanford,Houston,60,53,31,17,0,Stanford  Timeout
+Stanford,Houston,60,53,31,29,0,Foul on TaShawn Thomas.
+Stanford,Houston,60,53,31,29,0,Dwight Powell missed Free Throw.
+Stanford,Houston,60,53,31,29,0,Stanford Deadball Team Rebound.
+Stanford,Houston,61,53,31,29,1,Dwight Powell made Free Throw.
+Stanford,Houston,61,53,31,35,0,L.J. Rose Turnover.
+Stanford,Houston,63,53,31,57,1,Josh Huestis made Jumper.
+Stanford,Houston,63,53,32,13,0,Danuel House missed Jumper.
+Stanford,Houston,63,53,32,13,0,Dwight Powell Defensive Rebound.
+Stanford,Houston,65,53,32,23,1,Dwight Powell made Jumper.
+Stanford,Houston,65,53,32,26,0,Houston  Timeout
+Stanford,Houston,65,53,32,45,0,Foul on Aaron Bright.
+Stanford,Houston,65,53,32,45,0,Official TV Timeout
+Stanford,Houston,65,54,32,45,1,Jaaron Simmons made Free Throw.
+Stanford,Houston,65,55,32,45,1,Jaaron Simmons made Free Throw.
+Stanford,Houston,65,55,33,7,0,Dwight Powell missed Jumper.
+Stanford,Houston,65,55,33,7,0,Houston Defensive Rebound.
+Stanford,Houston,65,55,33,9,0,Foul on Anthony Brown.
+Stanford,Houston,65,56,33,9,1,Danuel House made Free Throw.
+Stanford,Houston,65,57,33,9,1,Danuel House made Free Throw.
+Stanford,Houston,67,57,33,32,1,Josh Huestis made Jumper.
+Stanford,Houston,67,59,33,46,1,TaShawn Thomas made Jumper.
+Stanford,Houston,67,59,33,53,0,Foul on Jaaron Simmons.
+Stanford,Houston,70,59,34,6,1,Chasson Randle made Three Point Jumper. Assisted by Stefan Nastic.
+Stanford,Houston,70,59,34,26,0,Foul on Chasson Randle.
+Stanford,Houston,70,60,34,26,1,Jaaron Simmons made Free Throw.
+Stanford,Houston,70,61,34,26,1,Jaaron Simmons made Free Throw.
+Stanford,Houston,70,61,34,30,0,Stanford  Timeout
+Stanford,Houston,70,61,34,40,0,Foul on Jaaron Simmons.
+Stanford,Houston,70,61,34,40,0,Chasson Randle missed Free Throw.
+Stanford,Houston,70,61,34,40,0,Danrad Knowles Defensive Rebound.
+Stanford,Houston,70,61,34,54,0,Danuel House missed Jumper.
+Stanford,Houston,70,61,34,54,0,Danuel House Offensive Rebound.
+Stanford,Houston,70,61,34,57,0,Foul on Chasson Randle.
+Stanford,Houston,70,62,34,57,1,Danrad Knowles made Free Throw.
+Stanford,Houston,70,63,34,57,1,Danrad Knowles made Free Throw.
+Stanford,Houston,70,63,35,23,0,Anthony Brown Turnover.
+Stanford,Houston,70,63,35,35,0,Foul on Josh Huestis.
+Stanford,Houston,70,64,35,35,1,Danuel House made Free Throw.
+Stanford,Houston,70,64,35,35,0,Danuel House missed Free Throw.
+Stanford,Houston,70,64,35,35,0,Anthony Brown Defensive Rebound.
+Stanford,Houston,70,64,35,52,0,Dwight Powell Turnover.
+Stanford,Houston,70,64,36,10,0,Foul on Chasson Randle.
+Stanford,Houston,70,64,36,10,0,Official TV Timeout
+Stanford,Houston,70,64,36,10,0,TaShawn Thomas missed Free Throw.
+Stanford,Houston,70,64,36,10,0,Houston Deadball Team Rebound.
+Stanford,Houston,70,65,36,10,1,TaShawn Thomas made Free Throw.
+Stanford,Houston,72,65,36,26,1,Stefan Nastic made Dunk. Assisted by Anthony Brown.
+Stanford,Houston,72,67,36,59,1,Danrad Knowles made Dunk. Assisted by Tione Womack.
+Stanford,Houston,72,67,37,20,0,Foul on Jaaron Simmons.
+Stanford,Houston,73,67,37,20,1,Stefan Nastic made Free Throw.
+Stanford,Houston,74,67,37,20,1,Stefan Nastic made Free Throw.
+Stanford,Houston,74,67,37,40,0,Danuel House missed Three Point Jumper.
+Stanford,Houston,74,67,37,40,0,Stefan Nastic Defensive Rebound.
+Stanford,Houston,74,67,37,44,0,Foul on Stefan Nastic.
+Stanford,Houston,74,68,37,44,1,Danrad Knowles made Free Throw.
+Stanford,Houston,74,69,37,44,1,Danrad Knowles made Free Throw.
+Stanford,Houston,76,69,38,4,1,Anthony Brown made Layup.
+Stanford,Houston,76,69,38,4,0,Foul on TaShawn Thomas.
+Stanford,Houston,76,69,38,4,0,Anthony Brown missed Free Throw.
+Stanford,Houston,76,69,38,4,0,Danrad Knowles Defensive Rebound.
+Stanford,Houston,76,69,38,19,0,Danrad Knowles missed Layup.
+Stanford,Houston,76,69,38,19,0,Josh Huestis Block.
+Stanford,Houston,76,69,38,19,0,Aaron Bright Defensive Rebound.
+Stanford,Houston,76,69,38,23,0,Foul on L.J. Rose.
+Stanford,Houston,76,69,38,23,0,Aaron Bright missed Free Throw.
+Stanford,Houston,76,69,38,23,0,Stanford Deadball Team Rebound.
+Stanford,Houston,77,69,38,23,1,Aaron Bright made Free Throw.
+Stanford,Houston,77,72,38,42,1,L.J. Rose made Three Point Jumper. Assisted by Danuel House.
+Stanford,Houston,77,72,38,51,0,Foul on Danuel House.
+Stanford,Houston,78,72,38,51,1,Dwight Powell made Free Throw.
+Stanford,Houston,79,72,38,51,1,Dwight Powell made Free Throw.
+Stanford,Houston,79,72,39,0,0,L.J. Rose missed Three Point Jumper.
+Stanford,Houston,79,72,39,0,0,Dwight Powell Defensive Rebound.
+Stanford,Houston,79,72,39,9,0,Foul on Danrad Knowles.
+Stanford,Houston,80,72,39,9,1,Aaron Bright made Free Throw.
+Stanford,Houston,80,72,39,9,0,Aaron Bright missed Free Throw.
+Stanford,Houston,80,72,39,9,0,Danrad Knowles Defensive Rebound.
+Stanford,Houston,80,72,39,19,0,Danuel House missed Three Point Jumper.
+Stanford,Houston,80,72,39,19,0,Dwight Powell Defensive Rebound.
+Stanford,Houston,80,72,39,28,0,Foul on L.J. Rose.
+Stanford,Houston,81,72,39,28,1,Josh Huestis made Free Throw.
+Stanford,Houston,82,72,39,28,1,Josh Huestis made Free Throw.
+Stanford,Houston,82,72,39,33,0,Danuel House missed Three Point Jumper.
+Stanford,Houston,82,72,39,33,0,Danrad Knowles Offensive Rebound.
+Stanford,Houston,82,72,39,43,0,TaShawn Thomas missed Jumper.
+Stanford,Houston,82,72,39,43,0,Danuel House Offensive Rebound.
+Stanford,Houston,82,74,39,43,1,Danuel House made Two Point Tip Shot.
+Stanford,Houston,82,74,39,44,0,Houston  Timeout
+Stanford,Houston,82,74,39,45,0,Foul on Danuel House.
+Stanford,Houston,83,74,39,45,1,Aaron Bright made Free Throw.
+Stanford,Houston,84,74,39,45,1,Aaron Bright made Free Throw.
+Stanford,Houston,84,76,39,50,1,L.J. Rose made Layup.
+Stanford,Houston,84,76,39,50,0,Foul on Danuel House.
+Stanford,Houston,85,76,39,50,1,Aaron Bright made Free Throw.
+Stanford,Houston,86,76,39,50,1,Aaron Bright made Free Throw.
+Stanford,Houston,86,76,39,55,0,L.J. Rose missed Three Point Jumper.
+Stanford,Houston,86,76,39,55,0,Aaron Bright Defensive Rebound.
+Stanford,Houston,86,76,40,0,0,End of Game

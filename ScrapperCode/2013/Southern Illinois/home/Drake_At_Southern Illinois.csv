@@ -1,0 +1,304 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Drake,Southern Illinois,0,0,0,16,0,Seth VanDeest Turnover.
+Drake,Southern Illinois,0,0,0,30,0,Josh Swan Turnover.
+Drake,Southern Illinois,0,0,0,30,0,Foul on Josh Swan
+Drake,Southern Illinois,0,0,0,56,0,Chris Hines missed Jumper.
+Drake,Southern Illinois,0,0,0,56,0,Seth VanDeest Offensive Rebound.
+Drake,Southern Illinois,0,0,1,7,0,Seth VanDeest missed Jumper.
+Drake,Southern Illinois,0,0,1,7,0,Jordan Clarke Offensive Rebound.
+Drake,Southern Illinois,0,0,1,9,0,Foul on Kendal Brown-Surles
+Drake,Southern Illinois,1,0,1,9,1,Jordan Clarke made Free Throw.
+Drake,Southern Illinois,2,0,1,9,1,Jordan Clarke made Free Throw.
+Drake,Southern Illinois,2,0,1,21,0,Foul on Seth VanDeest
+Drake,Southern Illinois,2,0,1,23,0,Foul on Jordan Clarke
+Drake,Southern Illinois,2,0,1,28,0,Jr Beane missed Three Point Jumper.
+Drake,Southern Illinois,2,0,1,28,0,Micah Mason Defensive Rebound.
+Drake,Southern Illinois,4,0,1,35,1,Ben Simons made Jumper.  Assisted by Micah Mason.
+Drake,Southern Illinois,4,2,1,52,1,Josh Swan made Layup.
+Drake,Southern Illinois,4,2,2,14,0,Seth VanDeest Turnover.
+Drake,Southern Illinois,4,2,2,16,0,Dantiel Daniels Steal.
+Drake,Southern Illinois,4,2,2,25,0,Dantiel Daniels missed Jumper.
+Drake,Southern Illinois,4,2,2,25,0,Seth VanDeest Defensive Rebound.
+Drake,Southern Illinois,4,2,2,36,0,Jordan Clarke missed Jumper.
+Drake,Southern Illinois,4,2,2,36,0,Desmar Jackson Defensive Rebound.
+Drake,Southern Illinois,4,2,2,42,0,Kendal Brown-Surles missed Three Point Jumper.
+Drake,Southern Illinois,4,2,2,42,0,Seth VanDeest Defensive Rebound.
+Drake,Southern Illinois,4,2,2,56,0,Chris Hines missed Three Point Jumper.
+Drake,Southern Illinois,4,2,2,56,0,Desmar Jackson Defensive Rebound.
+Drake,Southern Illinois,4,2,3,1,0,Foul on Micah Mason
+Drake,Southern Illinois,4,4,3,8,1,Josh Swan made Jumper.  Assisted by Kendal Brown-Surles.
+Drake,Southern Illinois,4,4,3,20,0,Micah Mason Turnover.
+Drake,Southern Illinois,4,4,3,21,0,Desmar Jackson Steal.
+Drake,Southern Illinois,4,7,3,29,1,Desmar Jackson made Three Point Jumper.  Assisted by Jeff Early.
+Drake,Southern Illinois,6,7,4,3,1,Richard Carter made Layup.
+Drake,Southern Illinois,6,7,4,27,0,Foul on Chris Hines
+Drake,Southern Illinois,6,7,4,28,0,Official TV Timeout.
+Drake,Southern Illinois,6,10,4,41,1,Colby Long made Three Point Jumper.  Assisted by Desmar Jackson.
+Drake,Southern Illinois,6,10,5,10,0,Jordan Clarke Turnover.
+Drake,Southern Illinois,6,10,5,36,0,Jeff Early Turnover.
+Drake,Southern Illinois,6,10,5,36,0,Richard Carter Steal.
+Drake,Southern Illinois,6,10,5,36,0,Foul on Jeff Early
+Drake,Southern Illinois,8,10,5,50,1,Joey King made Jumper.
+Drake,Southern Illinois,8,10,6,4,0,Desmar Jackson missed Three Point Jumper.
+Drake,Southern Illinois,8,10,6,4,0,Jeff Early Offensive Rebound.
+Drake,Southern Illinois,8,10,6,36,0,Colby Long Turnover.
+Drake,Southern Illinois,10,10,6,49,1,Joey King made Jumper.
+Drake,Southern Illinois,10,10,7,0,0,Foul on Joey King
+Drake,Southern Illinois,10,10,7,0,0,Jr Beane missed Free Throw.
+Drake,Southern Illinois,10,10,7,0,0,null
+Drake,Southern Illinois,10,11,7,0,1,Jr Beane made Free Throw.
+Drake,Southern Illinois,10,11,7,10,0,Richard Carter Turnover.
+Drake,Southern Illinois,10,11,7,10,0,Foul on Richard Carter
+Drake,Southern Illinois,10,11,7,35,0,Jr Beane missed Jumper.
+Drake,Southern Illinois,10,11,7,35,0,Dantiel Daniels Offensive Rebound.
+Drake,Southern Illinois,10,11,7,39,0,Dantiel Daniels missed Jumper.
+Drake,Southern Illinois,10,11,7,39,0,Joey King Block.
+Drake,Southern Illinois,10,11,7,40,0,Jeff Early Offensive Rebound.
+Drake,Southern Illinois,10,11,7,48,0,Foul on Seth VanDeest
+Drake,Southern Illinois,10,11,7,48,0,Kendal Brown-Surles missed Free Throw.
+Drake,Southern Illinois,10,11,7,48,0,Ben Simons Defensive Rebound.
+Drake,Southern Illinois,10,11,8,21,0,Jordan Clarke missed Jumper.
+Drake,Southern Illinois,10,11,8,21,0,Dantiel Daniels Block.
+Drake,Southern Illinois,10,11,8,23,0,Jeff Early Defensive Rebound.
+Drake,Southern Illinois,10,11,8,28,0,Kendal Brown-Surles missed Three Point Jumper.
+Drake,Southern Illinois,10,11,8,28,0,Ben Simons Defensive Rebound.
+Drake,Southern Illinois,10,11,8,36,0,Ben Simons Turnover.
+Drake,Southern Illinois,10,11,8,36,0,Official TV Timeout.
+Drake,Southern Illinois,10,11,8,58,0,Jeff Early missed Three Point Jumper.
+Drake,Southern Illinois,10,11,8,58,0,Ben Simons Defensive Rebound.
+Drake,Southern Illinois,13,11,9,14,1,Gary Ricks Jr. made Three Point Jumper.  Assisted by Jeremy Jeffers.
+Drake,Southern Illinois,13,14,9,32,1,T.J. Lindsay made Three Point Jumper.  Assisted by Jr Beane.
+Drake,Southern Illinois,13,14,9,52,0,Jordan Clarke Turnover.
+Drake,Southern Illinois,13,14,9,53,0,Kendal Brown-Surles Steal.
+Drake,Southern Illinois,13,14,10,1,0,Jr Beane missed Layup.
+Drake,Southern Illinois,13,14,10,1,0,Gary Ricks Jr. Defensive Rebound.
+Drake,Southern Illinois,13,14,10,9,0,Ben Simons missed Three Point Jumper.
+Drake,Southern Illinois,13,14,10,9,0,Jr Beane Defensive Rebound.
+Drake,Southern Illinois,13,14,10,25,0,T.J. Lindsay missed Three Point Jumper.
+Drake,Southern Illinois,13,14,10,25,0,T.J. Lindsay Offensive Rebound.
+Drake,Southern Illinois,13,17,10,30,1,Kendal Brown-Surles made Three Point Jumper.  Assisted by T.J. Lindsay.
+Drake,Southern Illinois,13,17,10,49,0,Foul on Kendal Brown-Surles
+Drake,Southern Illinois,15,17,10,53,1,Jeremy Jeffers made Layup.
+Drake,Southern Illinois,15,17,11,21,0,Colby Long Turnover.
+Drake,Southern Illinois,15,17,11,22,0,Ben Simons Steal.
+Drake,Southern Illinois,15,17,11,26,0,Gary Ricks Jr. missed Three Point Jumper.
+Drake,Southern Illinois,15,17,11,26,0,Desmar Jackson Defensive Rebound.
+Drake,Southern Illinois,15,17,11,41,0,Foul on Ben Simons
+Drake,Southern Illinois,15,17,11,41,0,Josh Swan missed Free Throw.
+Drake,Southern Illinois,15,17,11,41,0,null
+Drake,Southern Illinois,15,18,11,41,1,Josh Swan made Free Throw.
+Drake,Southern Illinois,15,18,11,59,0,Richard Carter missed Jumper.
+Drake,Southern Illinois,15,18,11,59,0,Desmar Jackson Defensive Rebound.
+Drake,Southern Illinois,15,18,12,13,0,Foul on Joey King
+Drake,Southern Illinois,15,18,12,13,0,Official TV Timeout.
+Drake,Southern Illinois,15,19,12,13,1,T.J. Lindsay made Free Throw.
+Drake,Southern Illinois,15,20,12,13,1,T.J. Lindsay made Free Throw.
+Drake,Southern Illinois,15,20,12,20,0,Foul on Dantiel Daniels
+Drake,Southern Illinois,18,20,12,30,1,Chris Hines made Three Point Jumper.  Assisted by Jordan Clarke.
+Drake,Southern Illinois,18,20,12,58,0,Desmar Jackson missed Three Point Jumper.
+Drake,Southern Illinois,18,20,12,58,0,Jordan Clarke Defensive Rebound.
+Drake,Southern Illinois,18,20,13,6,0,Richard Carter Turnover.
+Drake,Southern Illinois,18,20,13,7,0,Jr Beane Steal.
+Drake,Southern Illinois,18,20,13,11,0,Foul on Richard Carter
+Drake,Southern Illinois,18,20,13,11,0,Jr Beane missed Free Throw.
+Drake,Southern Illinois,18,20,13,11,0,null
+Drake,Southern Illinois,18,21,13,11,1,Jr Beane made Free Throw.
+Drake,Southern Illinois,18,21,13,24,0,Ben Simons missed Jumper.
+Drake,Southern Illinois,18,21,13,24,0,Dantiel Daniels Defensive Rebound.
+Drake,Southern Illinois,18,21,13,29,0,Foul on Micah Mason
+Drake,Southern Illinois,18,22,13,29,1,Desmar Jackson made Free Throw.
+Drake,Southern Illinois,18,22,13,29,0,Desmar Jackson missed Free Throw.
+Drake,Southern Illinois,18,22,13,29,0,Jeremy Jeffers Defensive Rebound.
+Drake,Southern Illinois,20,22,13,43,1,Ben Simons made Jumper.
+Drake,Southern Illinois,20,22,13,43,0,Foul on Jeff Early
+Drake,Southern Illinois,21,22,13,43,1,Ben Simons made Free Throw.
+Drake,Southern Illinois,21,22,14,10,0,Colby Long Turnover.
+Drake,Southern Illinois,21,22,14,11,0,Micah Mason Steal.
+Drake,Southern Illinois,24,22,14,15,1,Chris Hines made Three Point Jumper.  Assisted by Jeremy Jeffers.
+Drake,Southern Illinois,24,22,14,44,0,Foul on Micah Mason
+Drake,Southern Illinois,24,22,14,44,0,Desmar Jackson missed Free Throw.
+Drake,Southern Illinois,24,22,14,44,0,null
+Drake,Southern Illinois,24,23,14,44,1,Desmar Jackson made Free Throw.
+Drake,Southern Illinois,24,23,14,59,0,Jeremy Jeffers missed Jumper.
+Drake,Southern Illinois,24,23,14,59,0,Desmar Jackson Defensive Rebound.
+Drake,Southern Illinois,24,23,15,7,0,Desmar Jackson missed Layup.
+Drake,Southern Illinois,24,23,15,7,0,Ben Simons Defensive Rebound.
+Drake,Southern Illinois,24,23,15,18,0,Foul on Jr Beane
+Drake,Southern Illinois,24,23,15,18,0,Micah Mason missed Free Throw.
+Drake,Southern Illinois,24,23,15,18,0,Josh Swan Defensive Rebound.
+Drake,Southern Illinois,24,23,15,51,0,Josh Swan missed Jumper.
+Drake,Southern Illinois,24,23,15,51,0,Jordan Clarke Defensive Rebound.
+Drake,Southern Illinois,24,23,16,3,0,Drake Full Timeout.
+Drake,Southern Illinois,27,23,16,11,1,Chris Hines made Three Point Jumper.  Assisted by Ben Simons.
+Drake,Southern Illinois,27,23,16,32,0,Calvin Belts missed Jumper.
+Drake,Southern Illinois,27,23,16,32,0,Ben Simons Defensive Rebound.
+Drake,Southern Illinois,27,23,16,47,0,Official TV Timeout.
+Drake,Southern Illinois,27,23,16,53,0,Chris Hines missed Three Point Jumper.
+Drake,Southern Illinois,27,23,16,53,0,Jordan Clarke Offensive Rebound.
+Drake,Southern Illinois,30,23,17,2,1,Micah Mason made Three Point Jumper.  Assisted by Gary Ricks Jr..
+Drake,Southern Illinois,30,23,17,19,0,Desmar Jackson missed Three Point Jumper.
+Drake,Southern Illinois,30,23,17,19,0,Micah Mason Defensive Rebound.
+Drake,Southern Illinois,32,23,17,41,1,Jordan Clarke made Layup.
+Drake,Southern Illinois,32,23,17,45,0,Southern Illinois Full Timeout.
+Drake,Southern Illinois,32,23,18,0,0,T.J. Lindsay missed Jumper.
+Drake,Southern Illinois,32,23,18,0,0,Jeff Early Offensive Rebound.
+Drake,Southern Illinois,32,23,18,4,0,Jeff Early missed Tip Shot.
+Drake,Southern Illinois,32,23,18,4,0,Josh Swan Offensive Rebound.
+Drake,Southern Illinois,32,25,18,7,1,Jeff Early made Jumper.  Assisted by Josh Swan.
+Drake,Southern Illinois,32,25,18,29,0,Chris Hines Turnover.
+Drake,Southern Illinois,32,25,18,29,0,Foul on Chris Hines
+Drake,Southern Illinois,32,28,18,53,1,T.J. Lindsay made Three Point Jumper.  Assisted by Desmar Jackson.
+Drake,Southern Illinois,34,28,19,17,1,Jordan Clarke made Layup.
+Drake,Southern Illinois,34,28,19,56,0,Southern Illinois Turnover.
+Drake,Southern Illinois,34,28,20,0,0,Kori Babineaux missed Three Point Jumper.
+Drake,Southern Illinois,34,28,20,0,0,Southern Illinois Defensive Rebo.
+Drake,Southern Illinois,34,28,20,0,0,End of the 1st Half.
+Drake,Southern Illinois,34,28,20,20,0,Dantiel Daniels missed Jumper.
+Drake,Southern Illinois,34,28,20,20,0,Seth VanDeest Defensive Rebound.
+Drake,Southern Illinois,34,28,20,37,0,Foul on Dantiel Daniels
+Drake,Southern Illinois,34,28,20,37,0,Seth VanDeest missed Free Throw.
+Drake,Southern Illinois,34,28,20,37,0,null
+Drake,Southern Illinois,35,28,20,37,1,Seth VanDeest made Free Throw.
+Drake,Southern Illinois,35,30,20,53,1,Desmar Jackson made Layup.
+Drake,Southern Illinois,35,30,21,0,0,Foul on Jr Beane
+Drake,Southern Illinois,35,30,21,0,0,Richard Carter missed Free Throw.
+Drake,Southern Illinois,35,30,21,0,0,null
+Drake,Southern Illinois,36,30,21,0,1,Richard Carter made Free Throw.
+Drake,Southern Illinois,36,30,21,21,0,Kendal Brown-Surles missed Three Point Jumper.
+Drake,Southern Illinois,36,30,21,21,0,Seth VanDeest Defensive Rebound.
+Drake,Southern Illinois,36,30,21,43,0,Seth VanDeest Turnover.
+Drake,Southern Illinois,36,32,21,58,1,Jr Beane made Jumper.
+Drake,Southern Illinois,36,32,22,14,0,Chris Hines missed Three Point Jumper.
+Drake,Southern Illinois,36,32,22,14,0,Dantiel Daniels Defensive Rebound.
+Drake,Southern Illinois,36,32,22,44,0,Kendal Brown-Surles missed Three Point Jumper.
+Drake,Southern Illinois,36,32,22,44,0,Seth VanDeest Defensive Rebound.
+Drake,Southern Illinois,38,32,22,54,1,Jordan Clarke made Layup.
+Drake,Southern Illinois,38,34,23,18,1,Desmar Jackson made Jumper.  Assisted by Kendal Brown-Surles.
+Drake,Southern Illinois,40,34,23,37,1,Seth VanDeest made Jumper.
+Drake,Southern Illinois,40,34,23,56,0,Jr Beane missed Three Point Jumper.
+Drake,Southern Illinois,40,34,23,56,0,Seth VanDeest Defensive Rebound.
+Drake,Southern Illinois,40,34,24,3,0,Official TV Timeout.
+Drake,Southern Illinois,40,34,24,5,0,Foul on Desmar Jackson
+Drake,Southern Illinois,41,34,24,5,1,Jordan Clarke made Free Throw.
+Drake,Southern Illinois,42,34,24,5,1,Jordan Clarke made Free Throw.
+Drake,Southern Illinois,42,34,24,20,0,Colby Long missed Three Point Jumper.
+Drake,Southern Illinois,42,34,24,20,0,Drake Defensive Rebound.
+Drake,Southern Illinois,44,34,24,41,1,Joey King made Jumper.
+Drake,Southern Illinois,44,34,24,54,0,Jr Beane missed Jumper.
+Drake,Southern Illinois,44,34,24,54,0,Drake Defensive Rebound.
+Drake,Southern Illinois,44,34,25,12,0,Chris Hines Turnover.
+Drake,Southern Illinois,44,34,25,12,0,Desmar Jackson Steal.
+Drake,Southern Illinois,44,34,25,12,0,Foul on Chris Hines
+Drake,Southern Illinois,44,34,25,40,0,Jeff Early Turnover.
+Drake,Southern Illinois,44,34,25,40,0,Joey King Steal.
+Drake,Southern Illinois,44,34,26,0,0,Joey King Turnover.
+Drake,Southern Illinois,44,37,26,17,1,T.J. Lindsay made Three Point Jumper.  Assisted by Colby Long.
+Drake,Southern Illinois,44,37,26,36,0,Foul on T.J. Lindsay
+Drake,Southern Illinois,47,37,26,38,1,Joey King made Three Point Jumper.  Assisted by Gary Ricks Jr..
+Drake,Southern Illinois,47,39,27,6,1,Josh Swan made Jumper.  Assisted by Desmar Jackson.
+Drake,Southern Illinois,47,39,27,31,0,Joey King Turnover.
+Drake,Southern Illinois,47,39,27,31,0,Foul on Joey King
+Drake,Southern Illinois,47,41,27,43,1,Desmar Jackson made Jumper.
+Drake,Southern Illinois,47,41,27,46,0,Southern Illinois Full Timeout.
+Drake,Southern Illinois,47,41,28,16,0,Jeremy Jeffers Turnover.
+Drake,Southern Illinois,47,41,28,16,0,Official TV Timeout.
+Drake,Southern Illinois,47,41,28,46,0,Jeff Early missed Jumper.
+Drake,Southern Illinois,47,41,28,46,0,Southern Illinois Offensive Rebo.
+Drake,Southern Illinois,47,41,28,52,0,Southern Illinois Turnover.
+Drake,Southern Illinois,47,41,29,6,0,Foul on Desmar Jackson
+Drake,Southern Illinois,47,41,29,11,0,Jordan Clarke Turnover.
+Drake,Southern Illinois,47,41,29,11,0,Jeff Early Steal.
+Drake,Southern Illinois,47,41,29,26,0,T.J. Lindsay missed Three Point Jumper.
+Drake,Southern Illinois,47,41,29,26,0,Joey King Defensive Rebound.
+Drake,Southern Illinois,47,41,29,31,0,Foul on Desmar Jackson
+Drake,Southern Illinois,47,41,29,46,0,Foul on Jr Beane
+Drake,Southern Illinois,48,41,29,46,1,Joey King made Free Throw.
+Drake,Southern Illinois,48,41,29,46,0,Joey King missed Free Throw.
+Drake,Southern Illinois,48,41,29,46,0,Jeff Early Defensive Rebound.
+Drake,Southern Illinois,48,41,30,11,0,T.J. Lindsay missed Jumper.
+Drake,Southern Illinois,48,41,30,11,0,Joey King Defensive Rebound.
+Drake,Southern Illinois,48,41,30,31,0,Joey King Turnover.
+Drake,Southern Illinois,48,41,30,31,0,Foul on Joey King
+Drake,Southern Illinois,48,41,30,41,0,Foul on Chris Hines
+Drake,Southern Illinois,48,41,30,53,0,Foul on Gary Ricks Jr.
+Drake,Southern Illinois,48,41,31,0,0,Jr Beane missed Jumper.
+Drake,Southern Illinois,48,41,31,0,0,Jeff Early Offensive Rebound.
+Drake,Southern Illinois,48,43,31,3,1,Jeff Early made Jumper.
+Drake,Southern Illinois,48,43,31,16,0,Richard Carter missed Layup.
+Drake,Southern Illinois,48,43,31,16,0,Dantiel Daniels Block.
+Drake,Southern Illinois,48,43,31,18,0,Jordan Clarke Offensive Rebound.
+Drake,Southern Illinois,48,43,31,19,0,Foul on Dantiel Daniels
+Drake,Southern Illinois,49,43,31,19,1,Jordan Clarke made Free Throw.
+Drake,Southern Illinois,49,43,31,19,0,Jordan Clarke missed Free Throw.
+Drake,Southern Illinois,49,43,31,19,0,Desmar Jackson Defensive Rebound.
+Drake,Southern Illinois,49,43,31,53,0,Jr Beane missed Three Point Jumper.
+Drake,Southern Illinois,49,43,31,53,0,Ben Simons Defensive Rebound.
+Drake,Southern Illinois,49,43,32,14,0,Ben Simons missed Jumper.
+Drake,Southern Illinois,49,43,32,14,0,Desmar Jackson Defensive Rebound.
+Drake,Southern Illinois,49,43,32,49,0,Desmar Jackson missed Three Point Jumper.
+Drake,Southern Illinois,49,43,32,49,0,Drake Defensive Rebound.
+Drake,Southern Illinois,49,43,33,12,0,Richard Carter missed Layup.
+Drake,Southern Illinois,49,43,33,12,0,Dantiel Daniels Defensive Rebound.
+Drake,Southern Illinois,49,43,33,23,0,Foul on Seth VanDeest
+Drake,Southern Illinois,49,45,33,30,1,Josh Swan made Jumper.  Assisted by Desmar Jackson.
+Drake,Southern Illinois,49,45,33,45,0,Foul on Dantiel Daniels
+Drake,Southern Illinois,50,45,33,45,1,Seth VanDeest made Free Throw.
+Drake,Southern Illinois,51,45,33,45,1,Seth VanDeest made Free Throw.
+Drake,Southern Illinois,51,45,34,6,0,Desmar Jackson Turnover.
+Drake,Southern Illinois,51,45,34,8,0,Richard Carter Steal.
+Drake,Southern Illinois,51,45,34,11,0,Richard Carter missed Layup.
+Drake,Southern Illinois,51,45,34,11,0,Desmar Jackson Defensive Rebound.
+Drake,Southern Illinois,51,47,34,17,1,Desmar Jackson made Layup.
+Drake,Southern Illinois,51,47,34,20,0,Southern Illinois Full Timeout.
+Drake,Southern Illinois,51,47,34,32,0,Drake Full Timeout.
+Drake,Southern Illinois,51,47,34,42,0,Micah Mason Turnover.
+Drake,Southern Illinois,51,47,34,43,0,Desmar Jackson Steal.
+Drake,Southern Illinois,51,49,34,45,1,Kendal Brown-Surles made Layup.  Assisted by Desmar Jackson.
+Drake,Southern Illinois,51,49,35,7,0,Ben Simons Turnover.
+Drake,Southern Illinois,51,49,35,7,0,Josh Swan Steal.
+Drake,Southern Illinois,51,49,35,7,0,Foul on Gary Ricks Jr.
+Drake,Southern Illinois,51,50,35,7,1,Desmar Jackson made Free Throw.
+Drake,Southern Illinois,51,51,35,7,1,Desmar Jackson made Free Throw.
+Drake,Southern Illinois,51,51,35,27,0,Drake Full Timeout.
+Drake,Southern Illinois,51,51,35,36,0,Seth VanDeest missed Jumper.
+Drake,Southern Illinois,51,51,35,36,0,Jeff Early Defensive Rebound.
+Drake,Southern Illinois,51,51,35,46,0,Desmar Jackson Turnover.
+Drake,Southern Illinois,51,51,35,46,0,Seth VanDeest Steal.
+Drake,Southern Illinois,54,51,35,56,1,Chris Hines made Three Point Jumper.  Assisted by Ben Simons.
+Drake,Southern Illinois,54,53,36,19,1,Jeff Early made Jumper.  Assisted by Desmar Jackson.
+Drake,Southern Illinois,54,53,36,32,0,Chris Hines missed Three Point Jumper.
+Drake,Southern Illinois,54,53,36,32,0,Desmar Jackson Defensive Rebound.
+Drake,Southern Illinois,54,53,36,55,0,Josh Swan Turnover.
+Drake,Southern Illinois,54,53,37,31,0,Drake Turnover.
+Drake,Southern Illinois,54,53,38,1,0,Jr Beane Turnover.
+Drake,Southern Illinois,54,53,38,24,0,Joey King Turnover.
+Drake,Southern Illinois,54,53,38,24,0,Kendal Brown-Surles Steal.
+Drake,Southern Illinois,54,53,38,27,0,Foul on Joey King
+Drake,Southern Illinois,54,53,38,27,0,Josh Swan missed Free Throw.
+Drake,Southern Illinois,54,53,38,27,0,null
+Drake,Southern Illinois,54,54,38,27,1,Josh Swan made Free Throw.
+Drake,Southern Illinois,54,54,38,43,0,Drake Full Timeout.
+Drake,Southern Illinois,57,54,38,55,1,Richard Carter made Three Point Jumper.
+Drake,Southern Illinois,57,54,39,14,0,Desmar Jackson missed Three Point Jumper.
+Drake,Southern Illinois,57,54,39,14,0,Jordan Clarke Defensive Rebound.
+Drake,Southern Illinois,57,54,39,20,0,Foul on Kendal Brown-Surles
+Drake,Southern Illinois,57,54,39,20,0,Richard Carter missed Free Throw.
+Drake,Southern Illinois,57,54,39,20,0,null
+Drake,Southern Illinois,58,54,39,20,1,Richard Carter made Free Throw.
+Drake,Southern Illinois,58,54,39,31,0,Jr Beane missed Three Point Jumper.
+Drake,Southern Illinois,58,54,39,31,0,Kendal Brown-Surles Offensive Rebound.
+Drake,Southern Illinois,58,54,39,35,0,Kendal Brown-Surles missed Three Point Jumper.
+Drake,Southern Illinois,58,54,39,35,0,Drake Defensive Rebound.
+Drake,Southern Illinois,58,54,39,38,0,Foul on Josh Swan
+Drake,Southern Illinois,59,54,39,38,1,Ben Simons made Free Throw.
+Drake,Southern Illinois,59,54,39,38,0,Ben Simons missed Free Throw.
+Drake,Southern Illinois,59,54,39,38,0,Jeff Early Defensive Rebound.
+Drake,Southern Illinois,59,54,39,45,0,Desmar Jackson missed Three Point Jumper.
+Drake,Southern Illinois,59,54,39,45,0,Ben Simons Defensive Rebound.
+Drake,Southern Illinois,59,54,39,48,0,Foul on Jeff Early
+Drake,Southern Illinois,60,54,39,48,1,Ben Simons made Free Throw.
+Drake,Southern Illinois,61,54,39,48,1,Ben Simons made Free Throw.
+Drake,Southern Illinois,61,54,39,52,0,Foul on Jordan Clarke
+Drake,Southern Illinois,61,55,39,52,1,Jeff Early made Free Throw.
+Drake,Southern Illinois,61,56,39,52,1,Jeff Early made Free Throw.
+Drake,Southern Illinois,61,56,40,0,0,End Game

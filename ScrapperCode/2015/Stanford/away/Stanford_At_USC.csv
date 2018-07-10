@@ -1,0 +1,332 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,USC,0,0,0,0,0,Jump Ball won by Stanford
+Stanford,USC,0,0,0,13,0,Stefan Nastic missed Jumper.
+Stanford,USC,0,0,0,13,0,Stefan Nastic Offensive Rebound.
+Stanford,USC,0,0,0,38,0,Stefan Nastic Turnover.
+Stanford,USC,0,0,1,1,0,Julian Jacobs Turnover.
+Stanford,USC,3,0,1,11,1,Chasson Randle made Three Point Jumper.
+Stanford,USC,3,0,1,32,0,Foul on Chasson Randle.
+Stanford,USC,3,0,1,36,0,Katin Reinhardt missed Layup.
+Stanford,USC,3,0,1,36,0,Grant Verhoeven Defensive Rebound.
+Stanford,USC,5,0,2,1,1,Stefan Nastic made Jumper.
+Stanford,USC,5,2,2,21,1,Malik Marquetti made Jumper.
+Stanford,USC,8,2,2,33,1,Anthony Brown made Three Point Jumper. Assisted by Grant Verhoeven.
+Stanford,USC,8,2,2,35,0,USC  Timeout
+Stanford,USC,8,2,2,52,0,Foul on Grant Verhoeven.
+Stanford,USC,8,2,2,52,0,Nikola Jovanovic missed Free Throw.
+Stanford,USC,8,2,2,52,0,USC Deadball Team Rebound.
+Stanford,USC,8,3,2,52,1,Nikola Jovanovic made Free Throw.
+Stanford,USC,10,3,3,12,1,Stefan Nastic made Layup.
+Stanford,USC,10,3,3,29,0,Foul on Chasson Randle.
+Stanford,USC,10,5,3,39,1,Nikola Jovanovic made Jumper.
+Stanford,USC,10,5,3,55,0,Christian Sanders missed Three Point Jumper.
+Stanford,USC,10,5,3,55,0,Grant Verhoeven Offensive Rebound.
+Stanford,USC,10,5,3,59,0,Foul on Malik Martin.
+Stanford,USC,10,5,3,59,0,Grant Verhoeven missed Free Throw.
+Stanford,USC,10,5,3,59,0,Stanford Deadball Team Rebound.
+Stanford,USC,11,5,3,59,1,Grant Verhoeven made Free Throw.
+Stanford,USC,11,7,4,4,1,Katin Reinhardt made Jumper. Assisted by Julian Jacobs.
+Stanford,USC,13,7,4,30,1,Stefan Nastic made Jumper. Assisted by Christian Sanders.
+Stanford,USC,13,9,4,40,1,Julian Jacobs made Jumper.
+Stanford,USC,13,9,4,59,0,Christian Sanders missed Layup.
+Stanford,USC,13,9,4,59,0,Nikola Jovanovic Block.
+Stanford,USC,13,9,4,59,0,Julian Jacobs Defensive Rebound.
+Stanford,USC,13,9,5,2,0,Foul on Stefan Nastic.
+Stanford,USC,13,10,5,2,1,Darion Clark made Free Throw.
+Stanford,USC,13,9,5,2,0,Official TV Timeout
+Stanford,USC,13,11,5,2,1,Darion Clark made Free Throw.
+Stanford,USC,13,11,5,18,0,Foul on Darion Clark.
+Stanford,USC,14,11,5,18,1,Anthony Brown made Free Throw.
+Stanford,USC,15,11,5,18,1,Anthony Brown made Free Throw.
+Stanford,USC,15,11,5,44,0,Darion Clark missed Jumper.
+Stanford,USC,15,11,5,44,0,Rosco Allen Defensive Rebound.
+Stanford,USC,17,11,5,54,1,Robert Cartwright made Jumper. Assisted by Anthony Brown.
+Stanford,USC,17,11,6,19,0,Jordan McLaughlin missed Jumper.
+Stanford,USC,17,11,6,19,0,Anthony Brown Defensive Rebound.
+Stanford,USC,17,11,6,28,0,Rosco Allen missed Layup.
+Stanford,USC,17,11,6,28,0,Strahinja Gavrilovic Defensive Rebound.
+Stanford,USC,17,11,6,35,0,Jordan McLaughlin missed Layup.
+Stanford,USC,17,11,6,35,0,USC Offensive Rebound.
+Stanford,USC,17,11,6,41,0,Elijah Stewart missed Three Point Jumper.
+Stanford,USC,17,11,6,41,0,Rosco Allen Defensive Rebound.
+Stanford,USC,17,11,6,50,0,Rosco Allen missed Layup.
+Stanford,USC,17,11,6,50,0,Elijah Stewart Block.
+Stanford,USC,17,11,6,50,0,Elijah Stewart Defensive Rebound.
+Stanford,USC,17,11,6,50,0,Jordan McLaughlin missed Layup.
+Stanford,USC,17,11,6,50,0,Rosco Allen Block.
+Stanford,USC,17,11,6,50,0,Anthony Brown Defensive Rebound.
+Stanford,USC,17,11,7,11,0,Anthony Brown missed Three Point Jumper.
+Stanford,USC,17,11,7,11,0,Katin Reinhardt Defensive Rebound.
+Stanford,USC,17,11,7,34,0,Darion Clark missed Layup.
+Stanford,USC,17,11,7,34,0,Robert Cartwright Defensive Rebound.
+Stanford,USC,20,11,7,42,1,Rosco Allen made Three Point Jumper. Assisted by Anthony Brown.
+Stanford,USC,20,11,8,1,0,Foul on Grant Verhoeven.
+Stanford,USC,20,11,8,1,0,Official TV Timeout
+Stanford,USC,20,12,8,1,1,Nikola Jovanovic made Free Throw.
+Stanford,USC,20,13,8,1,1,Nikola Jovanovic made Free Throw.
+Stanford,USC,20,13,8,30,0,Foul on Elijah Stewart.
+Stanford,USC,20,13,8,39,0,Foul on Nikola Jovanovic.
+Stanford,USC,22,13,8,40,1,Anthony Brown made Jumper.
+Stanford,USC,22,15,9,8,1,Malik Martin made Jumper. Assisted by Nikola Jovanovic.
+Stanford,USC,22,15,9,17,0,Marcus Allen missed Layup.
+Stanford,USC,22,15,9,17,0,Marcus Allen Offensive Rebound.
+Stanford,USC,24,15,9,17,1,Marcus Allen made Two Point Tip Shot.
+Stanford,USC,24,15,9,30,0,Foul on Robert Cartwright.
+Stanford,USC,24,18,9,35,1,Katin Reinhardt made Three Point Jumper. Assisted by Malik Martin.
+Stanford,USC,26,18,9,58,1,Rosco Allen made Dunk. Assisted by Dorian Pickens.
+Stanford,USC,26,18,10,6,0,Foul on Stefan Nastic.
+Stanford,USC,26,19,10,6,1,Malik Marquetti made Free Throw.
+Stanford,USC,26,20,10,6,1,Malik Marquetti made Free Throw.
+Stanford,USC,26,20,10,19,0,Chasson Randle missed Three Point Jumper.
+Stanford,USC,26,20,10,19,0,Malik Martin Defensive Rebound.
+Stanford,USC,26,20,10,39,0,Nikola Jovanovic Turnover.
+Stanford,USC,28,20,10,53,1,Marcus Allen made Jumper. Assisted by Grant Verhoeven.
+Stanford,USC,28,22,11,15,1,Nikola Jovanovic made Layup. Assisted by Julian Jacobs.
+Stanford,USC,28,22,11,32,0,Marcus Allen missed Jumper.
+Stanford,USC,28,22,11,32,0,Malik Martin Defensive Rebound.
+Stanford,USC,28,22,11,50,0,Foul on Grant Verhoeven.
+Stanford,USC,28,23,11,50,1,Nikola Jovanovic made Free Throw.
+Stanford,USC,28,24,11,50,1,Nikola Jovanovic made Free Throw.
+Stanford,USC,28,24,12,3,0,Chasson Randle missed Layup.
+Stanford,USC,28,24,12,3,0,Malik Marquetti Defensive Rebound.
+Stanford,USC,28,24,12,8,0,Katin Reinhardt missed Jumper.
+Stanford,USC,28,24,12,8,0,Anthony Brown Defensive Rebound.
+Stanford,USC,31,24,12,27,1,Rosco Allen made Three Point Jumper. Assisted by Chasson Randle.
+Stanford,USC,31,27,12,51,1,Julian Jacobs made Three Point Jumper. Assisted by Malik Marquetti.
+Stanford,USC,34,27,13,3,1,Anthony Brown made Three Point Jumper. Assisted by Chasson Randle.
+Stanford,USC,34,27,13,22,0,Katin Reinhardt missed Jumper.
+Stanford,USC,34,27,13,22,0,Michael Humphrey Defensive Rebound.
+Stanford,USC,37,27,13,31,1,Anthony Brown made Three Point Jumper. Assisted by Chasson Randle.
+Stanford,USC,37,27,13,36,0,USC  Timeout
+Stanford,USC,37,30,13,54,1,Elijah Stewart made Three Point Jumper. Assisted by Jordan McLaughlin.
+Stanford,USC,40,30,14,11,1,Rosco Allen made Three Point Jumper. Assisted by Anthony Brown.
+Stanford,USC,40,30,14,28,0,Julian Jacobs missed Jumper.
+Stanford,USC,40,30,14,28,0,Michael Humphrey Defensive Rebound.
+Stanford,USC,40,30,14,35,0,Foul on Michael Humphrey.
+Stanford,USC,40,30,14,35,0,Michael Humphrey Turnover.
+Stanford,USC,40,30,14,35,0,Official TV Timeout
+Stanford,USC,40,30,14,35,0,Jordan McLaughlin missed Layup.
+Stanford,USC,40,30,14,35,0,Strahinja Gavrilovic Offensive Rebound.
+Stanford,USC,40,30,14,35,0,Strahinja Gavrilovic missed Layup.
+Stanford,USC,40,30,14,35,0,Strahinja Gavrilovic Offensive Rebound.
+Stanford,USC,40,32,15,2,1,Strahinja Gavrilovic made Layup.
+Stanford,USC,40,32,15,30,0,Rosco Allen Turnover.
+Stanford,USC,40,34,15,39,1,Jordan McLaughlin made Layup.
+Stanford,USC,40,34,16,0,0,Chasson Randle missed Layup.
+Stanford,USC,40,34,16,0,0,Strahinja Gavrilovic Block.
+Stanford,USC,40,34,16,0,0,Stanford Offensive Rebound.
+Stanford,USC,43,34,16,14,1,Chasson Randle made Three Point Jumper.
+Stanford,USC,43,34,16,28,0,Foul on Strahinja Gavrilovic.
+Stanford,USC,43,34,16,28,0,Strahinja Gavrilovic Turnover.
+Stanford,USC,43,34,16,28,0,Official TV Timeout
+Stanford,USC,43,34,16,38,0,Dorian Pickens Turnover.
+Stanford,USC,43,34,16,38,0,Elijah Stewart Steal.
+Stanford,USC,43,34,16,41,0,Katin Reinhardt Turnover.
+Stanford,USC,43,34,16,41,0,Michael Humphrey Steal.
+Stanford,USC,43,34,16,41,0,Stanford  Timeout
+Stanford,USC,43,34,16,54,0,Foul on Anthony Brown.
+Stanford,USC,43,34,16,54,0,Anthony Brown Turnover.
+Stanford,USC,43,34,17,9,0,Jordan McLaughlin missed Three Point Jumper.
+Stanford,USC,43,34,17,9,0,Malik Martin Offensive Rebound.
+Stanford,USC,43,34,17,13,0,Foul on Rosco Allen.
+Stanford,USC,43,35,17,13,1,Malik Martin made Free Throw.
+Stanford,USC,43,36,17,13,1,Malik Martin made Free Throw.
+Stanford,USC,43,36,17,23,0,Dorian Pickens missed Three Point Jumper.
+Stanford,USC,43,36,17,23,0,Rosco Allen Offensive Rebound.
+Stanford,USC,45,36,17,28,1,Rosco Allen made Layup.
+Stanford,USC,45,39,17,48,1,Jordan McLaughlin made Three Point Jumper. Assisted by Katin Reinhardt.
+Stanford,USC,45,39,18,16,0,Michael Humphrey Turnover.
+Stanford,USC,45,39,18,16,0,Katin Reinhardt Steal.
+Stanford,USC,45,39,18,21,0,Katin Reinhardt Turnover.
+Stanford,USC,45,39,18,21,0,Dorian Pickens Steal.
+Stanford,USC,45,39,18,28,0,Foul on Malik Martin.
+Stanford,USC,46,39,18,28,1,Dorian Pickens made Free Throw.
+Stanford,USC,46,39,18,28,0,Dorian Pickens missed Free Throw.
+Stanford,USC,46,39,18,28,0,Nikola Jovanovic Defensive Rebound.
+Stanford,USC,46,42,18,50,1,Julian Jacobs made Three Point Jumper. Assisted by Malik Marquetti.
+Stanford,USC,49,42,19,9,1,Chasson Randle made Three Point Jumper.
+Stanford,USC,49,42,19,40,0,Nikola Jovanovic missed Jumper.
+Stanford,USC,49,42,19,40,0,Michael Humphrey Block.
+Stanford,USC,49,42,19,40,0,Anthony Brown Defensive Rebound.
+Stanford,USC,49,42,19,45,0,Anthony Brown Turnover.
+Stanford,USC,49,42,19,45,0,Elijah Stewart Steal.
+Stanford,USC,49,42,19,46,0,Foul on Michael Humphrey.
+Stanford,USC,49,42,19,46,0,Julian Jacobs missed Free Throw.
+Stanford,USC,49,42,19,46,0,USC Deadball Team Rebound.
+Stanford,USC,49,43,19,46,1,Julian Jacobs made Free Throw.
+Stanford,USC,49,43,19,57,0,Chasson Randle missed Jumper.
+Stanford,USC,49,43,19,57,0,Darion Clark Defensive Rebound.
+Stanford,USC,49,43,20,0,0,End of 1st half
+Stanford,USC,49,43,20,0,0,Jump Ball won by USC
+Stanford,USC,49,43,20,13,0,Nikola Jovanovic Turnover.
+Stanford,USC,49,43,20,39,0,Anthony Brown missed Three Point Jumper.
+Stanford,USC,49,43,20,39,0,Anthony Brown Offensive Rebound.
+Stanford,USC,49,43,20,51,0,Chasson Randle missed Three Point Jumper.
+Stanford,USC,49,43,20,51,0,Katin Reinhardt Defensive Rebound.
+Stanford,USC,49,45,21,3,1,Malik Martin made Layup. Assisted by Katin Reinhardt.
+Stanford,USC,49,45,21,14,0,Chasson Randle missed Three Point Jumper.
+Stanford,USC,49,45,21,14,0,Nikola Jovanovic Defensive Rebound.
+Stanford,USC,49,45,21,22,0,Malik Marquetti missed Jumper.
+Stanford,USC,49,45,21,22,0,Stefan Nastic Defensive Rebound.
+Stanford,USC,49,45,21,42,0,Grant Verhoeven missed Jumper.
+Stanford,USC,49,45,21,42,0,Stanford Offensive Rebound.
+Stanford,USC,49,45,21,42,0,Foul on Malik Martin.
+Stanford,USC,51,45,21,43,1,Stefan Nastic made Jumper.
+Stanford,USC,51,45,22,5,0,Julian Jacobs missed Jumper.
+Stanford,USC,51,45,22,5,0,Anthony Brown Defensive Rebound.
+Stanford,USC,51,45,22,28,0,Grant Verhoeven missed Jumper.
+Stanford,USC,51,45,22,28,0,Malik Martin Defensive Rebound.
+Stanford,USC,51,47,22,38,1,Julian Jacobs made Layup.
+Stanford,USC,53,47,23,1,1,Chasson Randle made Layup.
+Stanford,USC,53,47,23,15,0,Foul on Nikola Jovanovic.
+Stanford,USC,53,47,23,15,0,Nikola Jovanovic Turnover.
+Stanford,USC,53,47,23,27,0,Grant Verhoeven Turnover.
+Stanford,USC,53,47,23,27,0,Julian Jacobs Steal.
+Stanford,USC,53,47,23,34,0,Katin Reinhardt missed Three Point Jumper.
+Stanford,USC,53,47,23,34,0,USC Offensive Rebound.
+Stanford,USC,53,49,23,40,1,Nikola Jovanovic made Layup.
+Stanford,USC,53,49,23,40,0,Foul on Grant Verhoeven.
+Stanford,USC,53,49,23,40,0,Nikola Jovanovic missed Free Throw.
+Stanford,USC,53,49,23,40,0,Anthony Brown Defensive Rebound.
+Stanford,USC,55,49,23,56,1,Anthony Brown made Layup.
+Stanford,USC,55,51,24,15,1,Nikola Jovanovic made Layup.
+Stanford,USC,55,51,24,31,0,Stefan Nastic missed Jumper.
+Stanford,USC,55,51,24,31,0,Darion Clark Defensive Rebound.
+Stanford,USC,55,51,24,38,0,Julian Jacobs missed Jumper.
+Stanford,USC,55,51,24,38,0,Chasson Randle Defensive Rebound.
+Stanford,USC,55,51,24,46,0,Chasson Randle missed Layup.
+Stanford,USC,55,51,24,46,0,Anthony Brown Offensive Rebound.
+Stanford,USC,57,51,24,46,1,Anthony Brown made Two Point Tip Shot.
+Stanford,USC,57,51,24,57,0,Foul on Darion Clark.
+Stanford,USC,57,51,24,57,0,Darion Clark Turnover.
+Stanford,USC,57,51,24,57,0,Official TV Timeout
+Stanford,USC,59,51,25,14,1,Stefan Nastic made Layup. Assisted by Marcus Allen.
+Stanford,USC,59,53,25,50,1,Strahinja Gavrilovic made Jumper. Assisted by Jordan McLaughlin.
+Stanford,USC,59,53,26,9,0,Rosco Allen missed Layup.
+Stanford,USC,59,53,26,9,0,Darion Clark Defensive Rebound.
+Stanford,USC,59,55,26,25,1,Darion Clark made Layup.
+Stanford,USC,62,55,26,36,1,Rosco Allen made Three Point Jumper. Assisted by Anthony Brown.
+Stanford,USC,62,55,26,57,0,Jordan McLaughlin missed Jumper.
+Stanford,USC,62,55,26,57,0,Stefan Nastic Block.
+Stanford,USC,62,55,26,57,0,Stefan Nastic Defensive Rebound.
+Stanford,USC,62,55,27,6,0,Rosco Allen missed Three Point Jumper.
+Stanford,USC,62,55,27,6,0,Stanford Offensive Rebound.
+Stanford,USC,62,55,27,6,0,Foul on Strahinja Gavrilovic.
+Stanford,USC,62,55,27,23,0,Stefan Nastic missed Layup.
+Stanford,USC,62,55,27,23,0,Stefan Nastic Offensive Rebound.
+Stanford,USC,62,55,27,23,0,Stefan Nastic missed Two Point Tip Shot.
+Stanford,USC,62,55,27,23,0,Malik Martin Defensive Rebound.
+Stanford,USC,62,55,27,33,0,Katin Reinhardt missed Layup.
+Stanford,USC,62,55,27,33,0,Robert Cartwright Defensive Rebound.
+Stanford,USC,62,55,27,38,0,Marcus Allen missed Layup.
+Stanford,USC,62,55,27,38,0,Malik Martin Block.
+Stanford,USC,62,55,27,38,0,Nikola Jovanovic Defensive Rebound.
+Stanford,USC,62,55,27,47,0,Jordan McLaughlin Turnover.
+Stanford,USC,62,55,27,47,0,Marcus Allen Steal.
+Stanford,USC,64,55,27,49,1,Marcus Allen made Layup. Assisted by Anthony Brown.
+Stanford,USC,64,55,28,6,0,Foul on Marcus Allen.
+Stanford,USC,64,55,28,6,0,Official TV Timeout
+Stanford,USC,64,55,28,15,0,Malik Martin Turnover.
+Stanford,USC,66,55,28,31,1,Anthony Brown made Layup.
+Stanford,USC,66,55,28,49,0,Katin Reinhardt missed Jumper.
+Stanford,USC,66,55,28,49,0,Stanford Defensive Rebound.
+Stanford,USC,66,55,29,5,0,Foul on Julian Jacobs.
+Stanford,USC,67,55,29,5,1,Michael Humphrey made Free Throw.
+Stanford,USC,68,55,29,5,1,Michael Humphrey made Free Throw.
+Stanford,USC,68,57,29,18,1,Jordan McLaughlin made Layup.
+Stanford,USC,70,57,29,46,1,Rosco Allen made Layup.
+Stanford,USC,70,59,30,4,1,Jordan McLaughlin made Jumper.
+Stanford,USC,70,59,30,29,0,Rosco Allen missed Three Point Jumper.
+Stanford,USC,70,59,30,29,0,Anthony Brown Offensive Rebound.
+Stanford,USC,72,59,30,36,1,Anthony Brown made Layup.
+Stanford,USC,72,59,30,55,0,Malik Marquetti missed Three Point Jumper.
+Stanford,USC,72,59,30,55,0,USC Offensive Rebound.
+Stanford,USC,72,59,31,0,0,Foul on Michael Humphrey.
+Stanford,USC,72,59,31,7,0,Foul on Michael Humphrey.
+Stanford,USC,72,59,31,7,0,Foul on Marcus Allen.
+Stanford,USC,72,59,31,10,0,Nikola Jovanovic Turnover.
+Stanford,USC,72,59,31,10,0,Rosco Allen Steal.
+Stanford,USC,72,59,31,13,0,Rosco Allen Turnover.
+Stanford,USC,72,59,31,13,0,Malik Marquetti Steal.
+Stanford,USC,72,61,31,15,1,Malik Martin made Dunk. Assisted by Malik Marquetti.
+Stanford,USC,74,61,31,36,1,Stefan Nastic made Layup.
+Stanford,USC,74,61,32,11,0,Malik Marquetti Turnover.
+Stanford,USC,74,61,32,11,0,Official TV Timeout
+Stanford,USC,74,61,32,20,0,Chasson Randle missed Layup.
+Stanford,USC,74,61,32,20,0,Nikola Jovanovic Defensive Rebound.
+Stanford,USC,74,61,32,33,0,Foul on Stefan Nastic.
+Stanford,USC,74,62,32,33,1,Jordan McLaughlin made Free Throw.
+Stanford,USC,74,62,32,33,0,Jordan McLaughlin missed Free Throw.
+Stanford,USC,74,62,32,33,0,Anthony Brown Defensive Rebound.
+Stanford,USC,74,62,32,45,0,Chasson Randle Turnover.
+Stanford,USC,74,62,32,45,0,Jordan McLaughlin Steal.
+Stanford,USC,74,62,32,48,0,Jordan McLaughlin Turnover.
+Stanford,USC,74,62,33,7,0,Foul on Julian Jacobs.
+Stanford,USC,74,62,33,7,0,Chasson Randle missed Free Throw.
+Stanford,USC,74,62,33,7,0,Stanford Deadball Team Rebound.
+Stanford,USC,74,62,33,7,0,USC  Timeout
+Stanford,USC,75,62,33,7,1,Chasson Randle made Free Throw.
+Stanford,USC,75,62,33,24,0,Malik Martin missed Layup.
+Stanford,USC,75,62,33,24,0,Stefan Nastic Defensive Rebound.
+Stanford,USC,75,62,33,34,0,Stefan Nastic Turnover.
+Stanford,USC,75,62,33,34,0,Julian Jacobs Steal.
+Stanford,USC,75,64,33,37,1,Julian Jacobs made Dunk.
+Stanford,USC,75,64,34,15,0,Rosco Allen missed Layup.
+Stanford,USC,75,64,34,15,0,Elijah Stewart Defensive Rebound.
+Stanford,USC,75,64,34,19,0,Foul on Rosco Allen.
+Stanford,USC,75,65,34,19,1,Elijah Stewart made Free Throw.
+Stanford,USC,75,66,34,19,1,Elijah Stewart made Free Throw.
+Stanford,USC,77,66,34,31,1,Stefan Nastic made Jumper.
+Stanford,USC,77,66,34,52,0,Elijah Stewart missed Jumper.
+Stanford,USC,77,66,34,52,0,Julian Jacobs Offensive Rebound.
+Stanford,USC,77,68,35,0,1,Julian Jacobs made Layup.
+Stanford,USC,77,68,35,0,0,Foul on Stefan Nastic.
+Stanford,USC,77,69,35,0,1,Julian Jacobs made Free Throw.
+Stanford,USC,77,69,35,13,0,Chasson Randle Turnover.
+Stanford,USC,77,69,35,13,0,Julian Jacobs Steal.
+Stanford,USC,77,69,35,21,0,Jordan McLaughlin missed Three Point Jumper.
+Stanford,USC,77,69,35,21,0,Elijah Stewart Offensive Rebound.
+Stanford,USC,77,71,35,21,1,Elijah Stewart made Two Point Tip Shot.
+Stanford,USC,77,71,35,35,0,Stanford  Timeout
+Stanford,USC,77,71,35,47,0,Chasson Randle missed Three Point Jumper.
+Stanford,USC,77,71,35,47,0,Julian Jacobs Defensive Rebound.
+Stanford,USC,77,71,35,57,0,Elijah Stewart missed Three Point Jumper.
+Stanford,USC,77,71,35,57,0,Marcus Allen Defensive Rebound.
+Stanford,USC,77,71,36,16,0,Rosco Allen missed Three Point Jumper.
+Stanford,USC,77,71,36,16,0,Marcus Allen Offensive Rebound.
+Stanford,USC,77,71,36,21,0,Anthony Brown missed Three Point Jumper.
+Stanford,USC,77,71,36,21,0,Malik Martin Defensive Rebound.
+Stanford,USC,77,71,36,38,0,Malik Martin Turnover.
+Stanford,USC,77,71,36,38,0,Foul on Malik Martin.
+Stanford,USC,77,71,36,38,0,Official TV Timeout
+Stanford,USC,77,71,36,48,0,Anthony Brown missed Three Point Jumper.
+Stanford,USC,77,71,36,48,0,Nikola Jovanovic Defensive Rebound.
+Stanford,USC,77,71,37,10,0,USC  Timeout
+Stanford,USC,77,71,37,19,0,Nikola Jovanovic missed Layup.
+Stanford,USC,77,71,37,19,0,Stefan Nastic Defensive Rebound.
+Stanford,USC,77,71,37,52,0,Rosco Allen missed Three Point Jumper.
+Stanford,USC,77,71,37,52,0,Malik Martin Defensive Rebound.
+Stanford,USC,77,71,38,8,0,Foul on Rosco Allen.
+Stanford,USC,77,71,38,8,0,Malik Martin missed Free Throw.
+Stanford,USC,77,71,38,8,0,USC Deadball Team Rebound.
+Stanford,USC,77,72,38,8,1,Malik Martin made Free Throw.
+Stanford,USC,77,72,38,28,0,Rosco Allen Turnover.
+Stanford,USC,77,72,38,28,0,Jordan McLaughlin Steal.
+Stanford,USC,77,72,38,33,0,Foul on Anthony Brown.
+Stanford,USC,77,73,38,33,1,Jordan McLaughlin made Free Throw.
+Stanford,USC,77,74,38,33,1,Jordan McLaughlin made Free Throw.
+Stanford,USC,77,74,38,44,0,Stanford  Timeout
+Stanford,USC,77,74,39,4,0,Anthony Brown missed Three Point Jumper.
+Stanford,USC,77,74,39,4,0,Elijah Stewart Defensive Rebound.
+Stanford,USC,77,76,39,11,1,Jordan McLaughlin made Layup. Assisted by Elijah Stewart.
+Stanford,USC,77,76,39,11,0,Stanford  Timeout
+Stanford,USC,77,76,39,45,0,Anthony Brown missed Jumper.
+Stanford,USC,77,76,39,45,0,Malik Marquetti Defensive Rebound.
+Stanford,USC,77,76,39,53,0,USC  Timeout
+Stanford,USC,77,76,39,57,0,Jordan McLaughlin Turnover.
+Stanford,USC,77,76,39,57,0,Stefan Nastic Steal.
+Stanford,USC,77,76,39,58,0,Foul on Nikola Jovanovic.
+Stanford,USC,78,76,39,58,1,Stefan Nastic made Free Throw.
+Stanford,USC,78,76,39,58,0,Stefan Nastic missed Free Throw.
+Stanford,USC,78,76,39,58,0,Elijah Stewart Defensive Rebound.
+Stanford,USC,78,76,40,0,0,End of Game

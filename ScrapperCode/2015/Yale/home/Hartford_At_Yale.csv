@@ -1,0 +1,335 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Hartford,Yale,0,0,0,27,0,Foul on Corban Wroe.
+Hartford,Yale,0,2,0,44,1,Matt Townsend made Jumper.
+Hartford,Yale,2,2,1,1,1,Nate Sikma made Layup. Assisted by Mark Nwakamma.
+Hartford,Yale,2,2,1,25,0,Jack Montague missed Three Point Jumper.
+Hartford,Yale,2,2,1,25,0,Nate Sikma Defensive Rebound.
+Hartford,Yale,4,2,1,36,1,Nate Sikma made Jumper.
+Hartford,Yale,4,5,2,5,1,Javier Duren made Three Point Jumper.
+Hartford,Yale,4,5,2,31,0,Mark Nwakamma missed Jumper.
+Hartford,Yale,4,5,2,31,0,Javier Duren Defensive Rebound.
+Hartford,Yale,4,5,2,43,0,Justin Sears Turnover.
+Hartford,Yale,4,5,3,2,0,Taylor Dyson missed Layup.
+Hartford,Yale,4,5,3,2,0,Justin Sears Block.
+Hartford,Yale,4,5,3,4,0,John Carroll Offensive Rebound.
+Hartford,Yale,4,5,3,7,0,John Carroll missed Layup.
+Hartford,Yale,4,5,3,7,0,Justin Sears Defensive Rebound.
+Hartford,Yale,4,5,3,17,0,Armani Cotton missed Three Point Jumper.
+Hartford,Yale,4,5,3,17,0,Mark Nwakamma Defensive Rebound.
+Hartford,Yale,4,5,3,32,0,Mark Nwakamma missed Layup.
+Hartford,Yale,4,5,3,32,0,Javier Duren Defensive Rebound.
+Hartford,Yale,4,5,3,39,0,Armani Cotton Turnover.
+Hartford,Yale,6,5,4,1,1,John Carroll made Layup.
+Hartford,Yale,6,5,4,1,0,Foul on Justin Sears.
+Hartford,Yale,6,5,4,1,0,Official TV Timeout
+Hartford,Yale,7,5,4,1,1,John Carroll made Free Throw.
+Hartford,Yale,7,5,4,24,0,Matt Townsend missed Jumper.
+Hartford,Yale,7,5,4,24,0,Corban Wroe Defensive Rebound.
+Hartford,Yale,7,5,4,59,0,Taylor Dyson missed Jumper.
+Hartford,Yale,7,5,4,59,0,Justin Sears Block.
+Hartford,Yale,7,5,5,0,0,John Carroll Offensive Rebound.
+Hartford,Yale,9,5,5,0,1,John Carroll made Layup.
+Hartford,Yale,9,5,5,0,0,Foul on Javier Duren.
+Hartford,Yale,9,5,5,0,0,John Carroll missed Free Throw.
+Hartford,Yale,9,5,5,0,0,Anthony Dallier Defensive Rebound.
+Hartford,Yale,9,5,5,17,0,Foul on Mark Nwakamma.
+Hartford,Yale,9,7,5,21,1,Justin Sears made Jumper. Assisted by Greg Kelley.
+Hartford,Yale,9,7,5,53,0,John Carroll Turnover.
+Hartford,Yale,9,7,6,4,0,Justin Sears missed Three Point Jumper.
+Hartford,Yale,9,7,6,4,0,Anthony Dallier Offensive Rebound.
+Hartford,Yale,9,9,6,7,1,Anthony Dallier made Layup.
+Hartford,Yale,9,9,6,7,0,Foul on Wes Cole.
+Hartford,Yale,9,10,6,7,1,Anthony Dallier made Free Throw.
+Hartford,Yale,9,10,6,32,0,John Carroll missed Jumper.
+Hartford,Yale,9,10,6,32,0,Anthony Dallier Defensive Rebound.
+Hartford,Yale,9,10,6,50,0,Makai Mason missed Three Point Jumper.
+Hartford,Yale,9,10,6,50,0,Anthony Dallier Offensive Rebound.
+Hartford,Yale,9,10,6,56,0,Anthony Dallier missed Layup.
+Hartford,Yale,9,10,6,56,0,Makai Mason Offensive Rebound.
+Hartford,Yale,9,10,6,58,0,Foul on Yolonzo Moore II.
+Hartford,Yale,9,10,7,1,0,Justin Sears missed Layup.
+Hartford,Yale,9,10,7,1,0,Justin Sears Offensive Rebound.
+Hartford,Yale,9,12,7,9,1,Greg Kelley made Layup. Assisted by Makai Mason.
+Hartford,Yale,9,12,7,9,0,Foul on Nate Sikma.
+Hartford,Yale,9,13,7,9,1,Greg Kelley made Free Throw.
+Hartford,Yale,12,13,7,40,1,Yolonzo Moore II made Three Point Jumper. Assisted by Wes Cole.
+Hartford,Yale,12,13,8,4,0,Justin Sears Turnover.
+Hartford,Yale,12,13,8,4,0,Foul on Justin Sears.
+Hartford,Yale,12,13,8,4,0,Official TV Timeout
+Hartford,Yale,12,13,8,18,0,Wes Cole missed Three Point Jumper.
+Hartford,Yale,12,13,8,18,0,Makai Mason Defensive Rebound.
+Hartford,Yale,12,13,8,24,0,Javier Duren Turnover.
+Hartford,Yale,15,13,8,41,1,Corban Wroe made Three Point Jumper. Assisted by Nate Sikma.
+Hartford,Yale,15,13,9,10,0,Anthony Dallier missed Jumper.
+Hartford,Yale,15,13,9,10,0,Justin Graham Defensive Rebound.
+Hartford,Yale,17,13,9,30,1,Mark Nwakamma made Layup.
+Hartford,Yale,17,13,9,30,0,Foul on Matt Townsend.
+Hartford,Yale,17,13,9,30,0,Mark Nwakamma missed Free Throw.
+Hartford,Yale,17,13,9,30,0,Anthony Dallier Defensive Rebound.
+Hartford,Yale,17,13,9,46,0,Sam Downey missed Layup.
+Hartford,Yale,17,13,9,46,0,Taylor Dyson Defensive Rebound.
+Hartford,Yale,17,13,10,5,0,Justin Graham Turnover.
+Hartford,Yale,17,15,10,31,1,Anthony Dallier made Layup.
+Hartford,Yale,17,15,10,50,0,Foul on Anthony Dallier.
+Hartford,Yale,18,15,10,50,1,Taylor Dyson made Free Throw.
+Hartford,Yale,19,15,10,50,1,Taylor Dyson made Free Throw.
+Hartford,Yale,19,15,10,50,0,Taylor Dyson missed Free Throw.
+Hartford,Yale,19,15,10,50,0,Armani Cotton Defensive Rebound.
+Hartford,Yale,19,15,11,9,0,Foul on Jamie Schneck.
+Hartford,Yale,19,15,11,13,0,Jack Montague missed Jumper.
+Hartford,Yale,19,15,11,13,0,Corban Wroe Defensive Rebound.
+Hartford,Yale,19,15,11,44,0,Corban Wroe missed Jumper.
+Hartford,Yale,19,15,11,44,0,Corban Wroe Offensive Rebound.
+Hartford,Yale,19,15,11,49,0,Corban Wroe Turnover.
+Hartford,Yale,19,15,12,5,0,Anthony Dallier Turnover.
+Hartford,Yale,19,15,12,5,0,Foul on Anthony Dallier.
+Hartford,Yale,19,15,12,5,0,Official TV Timeout
+Hartford,Yale,19,15,12,20,0,Mark Nwakamma Turnover.
+Hartford,Yale,19,18,12,45,1,Javier Duren made Three Point Jumper.
+Hartford,Yale,19,18,13,0,0,John Carroll missed Jumper.
+Hartford,Yale,19,18,13,0,0,Armani Cotton Defensive Rebound.
+Hartford,Yale,19,21,13,13,1,Javier Duren made Three Point Jumper. Assisted by Matt Townsend.
+Hartford,Yale,22,21,13,32,1,Taylor Dyson made Three Point Jumper. Assisted by Yolonzo Moore II.
+Hartford,Yale,22,23,13,53,1,Jack Montague made Layup. Assisted by Matt Townsend.
+Hartford,Yale,22,23,14,10,0,Foul on Javier Duren.
+Hartford,Yale,22,23,14,10,0,John Carroll missed Free Throw.
+Hartford,Yale,22,23,14,10,0,Hartford Deadball Team Rebound.
+Hartford,Yale,23,23,14,10,1,John Carroll made Free Throw.
+Hartford,Yale,23,23,14,39,0,Foul on Wes Cole.
+Hartford,Yale,23,23,14,39,0,Justin Sears missed Free Throw.
+Hartford,Yale,23,23,14,39,0,Yale Deadball Team Rebound.
+Hartford,Yale,23,23,14,39,0,Justin Sears missed Free Throw.
+Hartford,Yale,23,23,14,39,0,Corban Wroe Defensive Rebound.
+Hartford,Yale,23,23,14,56,0,Nate Sikma missed Jumper.
+Hartford,Yale,23,23,14,56,0,Justin Sears Block.
+Hartford,Yale,23,23,14,57,0,Hartford Offensive Rebound.
+Hartford,Yale,23,23,15,10,0,Mark Nwakamma missed Jumper.
+Hartford,Yale,23,23,15,10,0,Javier Duren Defensive Rebound.
+Hartford,Yale,23,23,15,23,0,Justin Sears missed Jumper.
+Hartford,Yale,23,23,15,23,0,Corban Wroe Defensive Rebound.
+Hartford,Yale,25,23,15,39,1,Mark Nwakamma made Jumper.
+Hartford,Yale,25,25,16,2,1,Armani Cotton made Jumper. Assisted by Matt Townsend.
+Hartford,Yale,25,25,16,37,0,Mark Nwakamma missed Jumper.
+Hartford,Yale,25,25,16,37,0,Justin Sears Defensive Rebound.
+Hartford,Yale,25,25,16,39,0,Yale  Timeout
+Hartford,Yale,25,25,17,2,0,Matt Townsend missed Jumper.
+Hartford,Yale,25,25,17,2,0,Yolonzo Moore II Defensive Rebound.
+Hartford,Yale,25,25,17,23,0,Mark Nwakamma missed Jumper.
+Hartford,Yale,25,25,17,23,0,Greg Kelley Defensive Rebound.
+Hartford,Yale,25,25,17,47,0,Greg Kelley missed Three Point Jumper.
+Hartford,Yale,25,25,17,47,0,Taylor Dyson Defensive Rebound.
+Hartford,Yale,25,25,18,5,0,Corban Wroe Turnover.
+Hartford,Yale,25,25,18,5,0,Official TV Timeout
+Hartford,Yale,25,25,18,22,0,Jack Montague missed Jumper.
+Hartford,Yale,25,25,18,22,0,Hartford Defensive Rebound.
+Hartford,Yale,25,25,18,44,0,Nate Sikma missed Three Point Jumper.
+Hartford,Yale,25,25,18,44,0,Greg Kelley Defensive Rebound.
+Hartford,Yale,25,25,19,16,0,Greg Kelley missed Three Point Jumper.
+Hartford,Yale,25,25,19,16,0,Jack Montague Offensive Rebound.
+Hartford,Yale,25,25,19,20,0,Jack Montague missed Jumper.
+Hartford,Yale,25,25,19,20,0,Nate Sikma Defensive Rebound.
+Hartford,Yale,25,25,19,22,0,Nate Sikma Turnover.
+Hartford,Yale,25,27,19,50,1,Jack Montague made Jumper. Assisted by Javier Duren.
+Hartford,Yale,25,27,19,53,0,Hartford  Timeout
+Hartford,Yale,25,27,20,0,0,Yolonzo Moore II missed Three Point Jumper.
+Hartford,Yale,25,27,20,0,0,Yale Defensive Rebound.
+Hartford,Yale,25,27,20,0,0,End of 1st half
+Hartford,Yale,25,27,20,24,0,Matt Townsend missed Jumper.
+Hartford,Yale,25,27,20,24,0,Justin Sears Offensive Rebound.
+Hartford,Yale,25,29,20,29,1,Justin Sears made Layup.
+Hartford,Yale,25,29,20,42,0,Yolonzo Moore II Turnover.
+Hartford,Yale,25,29,20,43,0,Javier Duren Steal.
+Hartford,Yale,25,29,20,46,0,Javier Duren missed Three Point Jumper.
+Hartford,Yale,25,29,20,46,0,Armani Cotton Offensive Rebound.
+Hartford,Yale,25,31,20,58,1,Justin Sears made Jumper. Assisted by Javier Duren.
+Hartford,Yale,25,31,21,21,0,Corban Wroe missed Layup.
+Hartford,Yale,25,31,21,21,0,Jack Montague Defensive Rebound.
+Hartford,Yale,25,33,21,26,1,Jack Montague made Jumper.
+Hartford,Yale,25,33,21,28,0,Hartford  Timeout
+Hartford,Yale,25,33,21,48,0,Mark Nwakamma missed Jumper.
+Hartford,Yale,25,33,21,48,0,Armani Cotton Defensive Rebound.
+Hartford,Yale,25,33,22,17,0,Justin Sears missed Jumper.
+Hartford,Yale,25,33,22,17,0,Jack Montague Offensive Rebound.
+Hartford,Yale,25,33,22,34,0,Javier Duren Turnover.
+Hartford,Yale,25,33,22,36,0,Corban Wroe Steal.
+Hartford,Yale,25,33,22,59,0,Yolonzo Moore II missed Three Point Jumper.
+Hartford,Yale,25,33,22,59,0,Justin Sears Defensive Rebound.
+Hartford,Yale,25,33,23,3,0,Foul on Corban Wroe.
+Hartford,Yale,25,34,23,3,1,Justin Sears made Free Throw.
+Hartford,Yale,25,34,23,3,0,Justin Sears missed Free Throw.
+Hartford,Yale,25,34,23,3,0,John Carroll Defensive Rebound.
+Hartford,Yale,25,34,23,22,0,Yolonzo Moore II missed Layup.
+Hartford,Yale,25,34,23,22,0,John Carroll Offensive Rebound.
+Hartford,Yale,25,34,23,25,0,John Carroll missed Layup.
+Hartford,Yale,25,34,23,25,0,Justin Sears Defensive Rebound.
+Hartford,Yale,25,37,23,44,1,Jack Montague made Three Point Jumper. Assisted by Matt Townsend.
+Hartford,Yale,25,37,24,6,0,Mark Nwakamma missed Three Point Jumper.
+Hartford,Yale,25,37,24,6,0,Matt Townsend Defensive Rebound.
+Hartford,Yale,25,40,24,12,1,Jack Montague made Three Point Jumper. Assisted by Armani Cotton.
+Hartford,Yale,25,40,24,15,0,Hartford  Timeout
+Hartford,Yale,27,40,24,36,1,John Carroll made Jumper.
+Hartford,Yale,27,42,25,7,1,Matt Townsend made Jumper. Assisted by Armani Cotton.
+Hartford,Yale,27,42,25,29,0,John Carroll missed Jumper.
+Hartford,Yale,27,42,25,29,0,Justin Sears Block.
+Hartford,Yale,27,42,25,31,0,Jack Montague Defensive Rebound.
+Hartford,Yale,27,42,25,34,0,Jack Montague Turnover.
+Hartford,Yale,27,42,25,34,0,Official TV Timeout
+Hartford,Yale,27,42,25,45,0,Wes Cole missed Jumper.
+Hartford,Yale,27,42,25,45,0,Armani Cotton Defensive Rebound.
+Hartford,Yale,27,42,26,10,0,Foul on Corban Wroe.
+Hartford,Yale,27,42,26,10,0,Matt Townsend missed Free Throw.
+Hartford,Yale,27,42,26,10,0,Yale Deadball Team Rebound.
+Hartford,Yale,27,43,26,10,1,Matt Townsend made Free Throw.
+Hartford,Yale,27,43,26,18,0,Yolonzo Moore II Turnover.
+Hartford,Yale,27,43,26,21,0,Justin Sears Steal.
+Hartford,Yale,27,45,26,22,1,Justin Sears made Dunk.
+Hartford,Yale,29,45,26,36,1,Corban Wroe made Layup.
+Hartford,Yale,29,45,26,58,0,Javier Duren missed Three Point Jumper.
+Hartford,Yale,29,45,26,58,0,Yolonzo Moore II Defensive Rebound.
+Hartford,Yale,29,45,27,17,0,John Carroll missed Layup.
+Hartford,Yale,29,45,27,17,0,Armani Cotton Defensive Rebound.
+Hartford,Yale,29,47,27,23,1,Matt Townsend made Layup. Assisted by Javier Duren.
+Hartford,Yale,29,47,27,23,0,Foul on Wes Cole.
+Hartford,Yale,29,48,27,23,1,Matt Townsend made Free Throw.
+Hartford,Yale,31,48,27,33,1,Yolonzo Moore II made Layup.
+Hartford,Yale,31,48,27,33,0,Foul on Greg Kelley.
+Hartford,Yale,32,48,27,33,1,Yolonzo Moore II made Free Throw.
+Hartford,Yale,32,48,27,55,0,Javier Duren Turnover.
+Hartford,Yale,32,48,27,56,0,Mark Nwakamma Steal.
+Hartford,Yale,32,48,28,3,0,Wes Cole Turnover.
+Hartford,Yale,32,48,28,4,0,Justin Sears Steal.
+Hartford,Yale,32,48,28,21,0,Makai Mason missed Jumper.
+Hartford,Yale,32,48,28,21,0,Javier Duren Offensive Rebound.
+Hartford,Yale,32,50,28,47,1,Greg Kelley made Layup. Assisted by Anthony Dallier.
+Hartford,Yale,32,50,28,59,0,Corban Wroe missed Layup.
+Hartford,Yale,32,50,28,59,0,Justin Sears Block.
+Hartford,Yale,32,50,29,0,0,Greg Kelley Defensive Rebound.
+Hartford,Yale,32,50,29,0,0,Foul on Mark Nwakamma.
+Hartford,Yale,32,50,29,0,0,Official TV Timeout
+Hartford,Yale,32,50,29,15,0,Foul on Mark Nwakamma.
+Hartford,Yale,32,51,29,15,1,Greg Kelley made Free Throw.
+Hartford,Yale,32,52,29,15,1,Greg Kelley made Free Throw.
+Hartford,Yale,34,52,29,35,1,Justin Graham made Layup. Assisted by Mark Nwakamma.
+Hartford,Yale,34,52,29,59,0,Foul on Mark Nwakamma.
+Hartford,Yale,34,52,29,59,0,Makai Mason missed Free Throw.
+Hartford,Yale,34,52,29,59,0,Yale Deadball Team Rebound.
+Hartford,Yale,34,53,29,59,1,Makai Mason made Free Throw.
+Hartford,Yale,34,53,30,9,0,Foul on Makai Mason.
+Hartford,Yale,37,53,30,14,1,Taylor Dyson made Three Point Jumper. Assisted by Nate Sikma.
+Hartford,Yale,37,53,30,33,0,Foul on John Carroll.
+Hartford,Yale,37,53,30,33,0,Matt Townsend missed Free Throw.
+Hartford,Yale,37,53,30,33,0,John Carroll Defensive Rebound.
+Hartford,Yale,37,53,30,47,0,Yolonzo Moore II Turnover.
+Hartford,Yale,37,53,30,49,0,Greg Kelley Steal.
+Hartford,Yale,37,53,31,7,0,Greg Kelley Turnover.
+Hartford,Yale,37,53,31,7,0,Nate Sikma Steal.
+Hartford,Yale,37,53,31,13,0,Foul on Makai Mason.
+Hartford,Yale,37,53,31,24,0,Mark Nwakamma missed Jumper.
+Hartford,Yale,37,53,31,24,0,Justin Sears Defensive Rebound.
+Hartford,Yale,37,55,31,44,1,Matt Townsend made Layup. Assisted by Javier Duren.
+Hartford,Yale,37,55,32,4,0,Justin Graham missed Layup.
+Hartford,Yale,37,55,32,4,0,Anthony Dallier Defensive Rebound.
+Hartford,Yale,37,55,32,10,0,Anthony Dallier Turnover.
+Hartford,Yale,37,55,32,11,0,Yolonzo Moore II Steal.
+Hartford,Yale,37,55,32,17,0,Yolonzo Moore II missed Three Point Jumper.
+Hartford,Yale,37,55,32,17,0,Justin Sears Defensive Rebound.
+Hartford,Yale,37,55,32,56,0,Justin Sears missed Jumper.
+Hartford,Yale,37,55,32,56,0,Anthony Dallier Offensive Rebound.
+Hartford,Yale,37,55,33,0,0,Anthony Dallier missed Two Point Tip Shot.
+Hartford,Yale,37,55,33,0,0,Mark Nwakamma Defensive Rebound.
+Hartford,Yale,39,55,33,6,1,Justin Graham made Layup.
+Hartford,Yale,39,55,33,28,0,Justin Sears missed Layup.
+Hartford,Yale,39,55,33,28,0,Mark Nwakamma Defensive Rebound.
+Hartford,Yale,39,55,33,37,0,Foul on Anthony Dallier.
+Hartford,Yale,39,55,33,37,0,Official TV Timeout
+Hartford,Yale,39,55,33,38,0,Foul on Armani Cotton.
+Hartford,Yale,39,55,33,46,0,Taylor Dyson missed Three Point Jumper.
+Hartford,Yale,39,55,33,46,0,Javier Duren Defensive Rebound.
+Hartford,Yale,39,55,34,2,0,Armani Cotton Turnover.
+Hartford,Yale,39,55,34,3,0,Justin Graham Steal.
+Hartford,Yale,41,55,34,5,1,Yolonzo Moore II made Layup. Assisted by Justin Graham.
+Hartford,Yale,41,55,34,5,0,Foul on Makai Mason.
+Hartford,Yale,42,55,34,5,1,Yolonzo Moore II made Free Throw.
+Hartford,Yale,42,55,34,26,0,Javier Duren Turnover.
+Hartford,Yale,42,55,34,27,0,Corban Wroe Steal.
+Hartford,Yale,42,55,34,33,0,Foul on Makai Mason.
+Hartford,Yale,42,55,34,33,0,Yale  Timeout
+Hartford,Yale,42,55,34,33,0,Justin Graham missed Free Throw.
+Hartford,Yale,42,55,34,33,0,Hartford Deadball Team Rebound.
+Hartford,Yale,42,55,34,33,0,Justin Graham missed Free Throw.
+Hartford,Yale,42,55,34,33,0,Hartford Deadball Team Rebound.
+Hartford,Yale,42,55,34,33,0,Justin Graham missed Free Throw.
+Hartford,Yale,42,55,34,33,0,Justin Sears Defensive Rebound.
+Hartford,Yale,42,55,34,35,0,Justin Sears Turnover.
+Hartford,Yale,42,55,34,36,0,Corban Wroe Steal.
+Hartford,Yale,44,55,34,46,1,Yolonzo Moore II made Jumper.
+Hartford,Yale,44,55,35,18,0,Matt Townsend Turnover.
+Hartford,Yale,44,55,35,37,0,Justin Graham missed Layup.
+Hartford,Yale,44,55,35,37,0,Justin Sears Defensive Rebound.
+Hartford,Yale,44,55,35,40,0,Jack Montague Turnover.
+Hartford,Yale,44,55,35,50,0,Mark Nwakamma missed Layup.
+Hartford,Yale,44,55,35,50,0,Hartford Offensive Rebound.
+Hartford,Yale,47,55,35,54,1,Taylor Dyson made Three Point Jumper. Assisted by Corban Wroe.
+Hartford,Yale,47,55,36,15,0,Foul on Taylor Dyson.
+Hartford,Yale,47,55,36,15,0,Official TV Timeout
+Hartford,Yale,47,56,36,15,1,Armani Cotton made Free Throw.
+Hartford,Yale,47,57,36,15,1,Armani Cotton made Free Throw.
+Hartford,Yale,47,57,36,32,0,Yolonzo Moore II Turnover.
+Hartford,Yale,47,57,36,33,0,Armani Cotton Steal.
+Hartford,Yale,47,57,36,58,0,Jack Montague missed Three Point Jumper.
+Hartford,Yale,47,57,36,58,0,Taylor Dyson Defensive Rebound.
+Hartford,Yale,47,57,37,13,0,Taylor Dyson missed Three Point Jumper.
+Hartford,Yale,47,57,37,13,0,Justin Graham Offensive Rebound.
+Hartford,Yale,47,57,37,15,0,Foul on Javier Duren.
+Hartford,Yale,48,57,37,15,1,Justin Graham made Free Throw.
+Hartford,Yale,49,57,37,15,1,Justin Graham made Free Throw.
+Hartford,Yale,49,57,37,16,0,Foul on Taylor Dyson.
+Hartford,Yale,49,58,37,16,1,Anthony Dallier made Free Throw.
+Hartford,Yale,49,59,37,16,1,Anthony Dallier made Free Throw.
+Hartford,Yale,49,59,37,25,0,Justin Graham missed Jumper.
+Hartford,Yale,49,59,37,25,0,Justin Sears Defensive Rebound.
+Hartford,Yale,49,59,37,27,0,Foul on Justin Graham.
+Hartford,Yale,49,60,37,27,1,Justin Sears made Free Throw.
+Hartford,Yale,49,60,37,27,0,Justin Sears missed Free Throw.
+Hartford,Yale,49,60,37,27,0,Corban Wroe Defensive Rebound.
+Hartford,Yale,49,60,37,35,0,Taylor Dyson missed Three Point Jumper.
+Hartford,Yale,49,60,37,35,0,Javier Duren Defensive Rebound.
+Hartford,Yale,49,60,37,49,0,Foul on Mark Nwakamma.
+Hartford,Yale,49,61,37,49,1,Justin Sears made Free Throw.
+Hartford,Yale,49,62,37,49,1,Justin Sears made Free Throw.
+Hartford,Yale,52,62,37,56,1,Corban Wroe made Three Point Jumper. Assisted by Yolonzo Moore II.
+Hartford,Yale,52,62,38,10,0,Foul on John Carroll.
+Hartford,Yale,52,63,38,10,1,Justin Sears made Free Throw.
+Hartford,Yale,52,64,38,10,1,Justin Sears made Free Throw.
+Hartford,Yale,52,64,38,20,0,John Carroll missed Layup.
+Hartford,Yale,52,64,38,20,0,John Carroll Offensive Rebound.
+Hartford,Yale,52,64,38,22,0,John Carroll missed Layup.
+Hartford,Yale,52,64,38,22,0,John Carroll Offensive Rebound.
+Hartford,Yale,52,64,38,25,0,John Carroll missed Layup.
+Hartford,Yale,52,64,38,25,0,John Carroll Offensive Rebound.
+Hartford,Yale,52,64,38,25,0,Foul on Anthony Dallier.
+Hartford,Yale,53,64,38,25,1,John Carroll made Free Throw.
+Hartford,Yale,53,64,38,25,0,John Carroll missed Free Throw.
+Hartford,Yale,53,64,38,25,0,Hartford Offensive Rebound.
+Hartford,Yale,53,64,38,29,0,Corban Wroe missed Three Point Jumper.
+Hartford,Yale,53,64,38,29,0,Javier Duren Defensive Rebound.
+Hartford,Yale,53,66,39,2,1,Armani Cotton made Layup.
+Hartford,Yale,53,66,39,8,0,Foul on Jack Montague.
+Hartford,Yale,54,66,39,8,1,Justin Graham made Free Throw.
+Hartford,Yale,55,66,39,8,1,Justin Graham made Free Throw.
+Hartford,Yale,55,66,39,8,0,Hartford  Timeout
+Hartford,Yale,55,66,39,14,0,Foul on Justin Graham.
+Hartford,Yale,55,67,39,14,1,Javier Duren made Free Throw.
+Hartford,Yale,55,68,39,14,1,Javier Duren made Free Throw.
+Hartford,Yale,55,68,39,23,0,Foul on Anthony Dallier.
+Hartford,Yale,56,68,39,23,1,Taylor Dyson made Free Throw.
+Hartford,Yale,57,68,39,23,1,Taylor Dyson made Free Throw.
+Hartford,Yale,57,68,39,31,0,Foul on Corban Wroe.
+Hartford,Yale,57,69,39,31,1,Jack Montague made Free Throw.
+Hartford,Yale,57,69,39,31,0,Jack Montague missed Free Throw.
+Hartford,Yale,57,69,39,31,0,John Carroll Defensive Rebound.
+Hartford,Yale,57,69,39,42,0,Wes Cole missed Three Point Jumper.
+Hartford,Yale,57,69,39,42,0,Hartford Offensive Rebound.
+Hartford,Yale,57,69,39,54,0,Justin Graham missed Three Point Jumper.
+Hartford,Yale,57,69,39,54,0,Makai Mason Defensive Rebound.
+Hartford,Yale,57,69,40,0,0,End of Game

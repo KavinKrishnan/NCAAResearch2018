@@ -1,0 +1,367 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,Utah,0,0,0,0,0,Jump Ball won by Stanford
+Stanford,Utah,2,0,0,18,1,Dorian Pickens made Jumper.
+Stanford,Utah,2,0,0,34,0,Jordan Loveridge Turnover.
+Stanford,Utah,2,0,0,34,0,Michael Humphrey Steal.
+Stanford,Utah,2,0,0,41,0,Michael Humphrey missed Layup.
+Stanford,Utah,2,0,0,41,0,Brandon Taylor Defensive Rebound.
+Stanford,Utah,2,0,1,15,0,Lorenzo Bonam Turnover.
+Stanford,Utah,2,0,1,15,0,Christian Sanders Steal.
+Stanford,Utah,2,0,1,31,0,Rosco Allen missed Layup.
+Stanford,Utah,2,0,1,31,0,Jakob Poeltl Defensive Rebound.
+Stanford,Utah,2,0,1,51,0,Jordan Loveridge missed Three Point Jumper.
+Stanford,Utah,2,0,1,51,0,Brandon Taylor Offensive Rebound.
+Stanford,Utah,2,2,2,7,1,Kyle Kuzma made Jumper.
+Stanford,Utah,2,2,2,32,0,Michael Humphrey missed Jumper.
+Stanford,Utah,2,2,2,32,0,Michael Humphrey Offensive Rebound.
+Stanford,Utah,2,2,2,46,0,Rosco Allen missed Three Point Jumper.
+Stanford,Utah,2,2,2,46,0,Dorian Pickens Offensive Rebound.
+Stanford,Utah,4,2,2,53,1,Dorian Pickens made Layup.
+Stanford,Utah,4,2,3,15,0,Foul on Christian Sanders.
+Stanford,Utah,4,4,3,23,1,Kyle Kuzma made Layup.
+Stanford,Utah,4,4,3,38,0,Christian Sanders Turnover.
+Stanford,Utah,4,4,3,38,0,Lorenzo Bonam Steal.
+Stanford,Utah,4,6,3,42,1,Lorenzo Bonam made Dunk.
+Stanford,Utah,6,6,4,8,1,Michael Humphrey made Layup. Assisted by Marcus Allen.
+Stanford,Utah,6,6,4,38,0,Foul on Rosco Allen.
+Stanford,Utah,6,6,4,38,0,Official TV Timeout
+Stanford,Utah,6,7,4,38,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,6,8,4,38,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,6,8,4,43,0,Marcus Allen missed Layup.
+Stanford,Utah,6,8,4,43,0,Grant Verhoeven Offensive Rebound.
+Stanford,Utah,8,8,4,52,1,Grant Verhoeven made Layup.
+Stanford,Utah,8,8,5,2,0,Jakob Poeltl Turnover.
+Stanford,Utah,8,8,5,2,0,Marcus Allen Steal.
+Stanford,Utah,8,8,5,18,0,Rosco Allen missed Three Point Jumper.
+Stanford,Utah,8,8,5,18,0,Lorenzo Bonam Defensive Rebound.
+Stanford,Utah,8,11,5,38,1,Dakarai Tucker made Three Point Jumper. Assisted by Brandon Taylor.
+Stanford,Utah,8,11,5,38,0,Foul on Dorian Pickens.
+Stanford,Utah,8,11,5,38,0,Dakarai Tucker missed Free Throw.
+Stanford,Utah,8,11,5,38,0,Dorian Pickens Defensive Rebound.
+Stanford,Utah,8,11,5,46,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,Utah,8,11,5,46,0,Rosco Allen Offensive Rebound.
+Stanford,Utah,8,11,5,52,0,Foul on Brekkott Chapman.
+Stanford,Utah,8,11,5,58,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Utah,8,11,5,58,0,Dakarai Tucker Defensive Rebound.
+Stanford,Utah,8,11,6,16,0,Foul on Grant Verhoeven.
+Stanford,Utah,8,11,6,26,0,Foul on Grant Verhoeven.
+Stanford,Utah,8,13,6,29,1,Brandon Taylor made Jumper. Assisted by Lorenzo Bonam.
+Stanford,Utah,8,13,6,36,0,Stanford  Timeout
+Stanford,Utah,8,13,6,57,0,Michael Humphrey missed Layup.
+Stanford,Utah,8,13,6,57,0,Kyle Kuzma Block.
+Stanford,Utah,8,13,6,57,0,Michael Humphrey Offensive Rebound.
+Stanford,Utah,10,13,7,3,1,Michael Humphrey made Layup.
+Stanford,Utah,10,13,7,10,0,Foul on Marcus Sheffield.
+Stanford,Utah,10,13,7,10,0,Kyle Kuzma missed Free Throw.
+Stanford,Utah,10,13,7,10,0,Utah Deadball Team Rebound.
+Stanford,Utah,10,13,7,10,0,Kyle Kuzma missed Free Throw.
+Stanford,Utah,10,13,7,10,0,Michael Humphrey Defensive Rebound.
+Stanford,Utah,10,13,7,24,0,Dorian Pickens Turnover.
+Stanford,Utah,10,13,7,24,0,Brandon Taylor Steal.
+Stanford,Utah,10,15,7,29,1,Brandon Taylor made Layup.
+Stanford,Utah,13,15,7,44,1,Rosco Allen made Three Point Jumper. Assisted by Dorian Pickens.
+Stanford,Utah,13,15,8,4,0,Lorenzo Bonam Turnover.
+Stanford,Utah,13,15,8,4,0,Michael Humphrey Steal.
+Stanford,Utah,15,15,8,22,1,Dorian Pickens made Jumper.
+Stanford,Utah,15,15,8,22,0,Foul on Lorenzo Bonam.
+Stanford,Utah,15,15,8,22,0,Official TV Timeout
+Stanford,Utah,16,15,8,22,1,Dorian Pickens made Free Throw.
+Stanford,Utah,16,15,8,33,0,Foul on Cameron Walker.
+Stanford,Utah,16,16,8,33,1,Dakarai Tucker made Free Throw.
+Stanford,Utah,16,17,8,33,1,Dakarai Tucker made Free Throw.
+Stanford,Utah,16,17,8,42,0,Cameron Walker missed Jumper.
+Stanford,Utah,16,17,8,42,0,Dakarai Tucker Defensive Rebound.
+Stanford,Utah,16,19,8,58,1,Jordan Loveridge made Layup.
+Stanford,Utah,16,19,8,58,0,Foul on Cameron Walker.
+Stanford,Utah,16,20,8,58,1,Jordan Loveridge made Free Throw.
+Stanford,Utah,16,20,9,6,0,Marcus Allen missed Three Point Jumper.
+Stanford,Utah,16,20,9,6,0,Rosco Allen Offensive Rebound.
+Stanford,Utah,18,20,9,16,1,Rosco Allen made Layup.
+Stanford,Utah,18,20,9,22,0,Dakarai Tucker missed Three Point Jumper.
+Stanford,Utah,18,20,9,22,0,Marcus Sheffield Defensive Rebound.
+Stanford,Utah,20,20,9,31,1,Marcus Sheffield made Layup.
+Stanford,Utah,20,20,9,48,0,Lorenzo Bonam missed Three Point Jumper.
+Stanford,Utah,20,20,9,48,0,Jakob Poeltl Offensive Rebound.
+Stanford,Utah,20,20,10,0,0,Jakob Poeltl missed Layup.
+Stanford,Utah,20,20,10,0,0,Kyle Kuzma Offensive Rebound.
+Stanford,Utah,20,22,10,6,1,Kyle Kuzma made Layup.
+Stanford,Utah,20,22,10,10,0,Foul on Kyle Kuzma.
+Stanford,Utah,20,22,10,10,0,Marcus Sheffield missed Free Throw.
+Stanford,Utah,20,22,10,10,0,Stanford Deadball Team Rebound.
+Stanford,Utah,21,22,10,10,1,Marcus Sheffield made Free Throw.
+Stanford,Utah,21,24,10,26,1,Jakob Poeltl made Layup. Assisted by Jordan Loveridge.
+Stanford,Utah,23,24,10,53,1,Michael Humphrey made Jumper. Assisted by Rosco Allen.
+Stanford,Utah,23,24,11,21,0,Jordan Loveridge missed Three Point Jumper.
+Stanford,Utah,23,24,11,21,0,Kyle Kuzma Offensive Rebound.
+Stanford,Utah,23,26,11,32,1,Kyle Kuzma made Layup. Assisted by Lorenzo Bonam.
+Stanford,Utah,23,26,11,52,0,Marcus Sheffield Turnover.
+Stanford,Utah,23,26,11,52,0,Kyle Kuzma Steal.
+Stanford,Utah,23,26,11,57,0,Foul on Marcus Sheffield.
+Stanford,Utah,23,26,11,57,0,Lorenzo Bonam missed Free Throw.
+Stanford,Utah,23,26,11,57,0,Utah Deadball Team Rebound.
+Stanford,Utah,23,27,11,57,1,Lorenzo Bonam made Free Throw.
+Stanford,Utah,25,27,12,11,1,Rosco Allen made Jumper.
+Stanford,Utah,25,27,12,36,0,Foul on Christian Sanders.
+Stanford,Utah,25,27,12,36,0,Official TV Timeout
+Stanford,Utah,25,28,12,36,1,Lorenzo Bonam made Free Throw.
+Stanford,Utah,25,29,12,36,1,Lorenzo Bonam made Free Throw.
+Stanford,Utah,27,29,12,52,1,Marcus Allen made Layup.
+Stanford,Utah,27,32,13,26,1,Jordan Loveridge made Three Point Jumper. Assisted by Lorenzo Bonam.
+Stanford,Utah,27,32,13,52,0,Foul on Lorenzo Bonam.
+Stanford,Utah,27,32,13,56,0,Marcus Allen missed Three Point Jumper.
+Stanford,Utah,27,32,13,56,0,Kyle Kuzma Defensive Rebound.
+Stanford,Utah,27,34,14,22,1,Dakarai Tucker made Layup.
+Stanford,Utah,30,34,14,46,1,Dorian Pickens made Three Point Jumper. Assisted by Christian Sanders.
+Stanford,Utah,30,34,15,10,0,Kyle Kuzma missed Dunk.
+Stanford,Utah,30,34,15,10,0,Utah Offensive Rebound.
+Stanford,Utah,30,34,15,16,0,Dakarai Tucker Turnover.
+Stanford,Utah,30,34,15,22,0,Marcus Allen missed Layup.
+Stanford,Utah,30,34,15,22,0,Brekkott Chapman Block.
+Stanford,Utah,30,34,15,22,0,Brandon Taylor Defensive Rebound.
+Stanford,Utah,30,37,15,34,1,Brandon Taylor made Three Point Jumper.
+Stanford,Utah,30,37,15,44,0,Dorian Pickens missed Layup.
+Stanford,Utah,30,37,15,44,0,Dorian Pickens Offensive Rebound.
+Stanford,Utah,30,37,15,55,0,Foul on Jordan Loveridge.
+Stanford,Utah,31,37,15,55,1,Dorian Pickens made Free Throw.
+Stanford,Utah,32,37,15,55,1,Dorian Pickens made Free Throw.
+Stanford,Utah,32,39,16,5,1,Jakob Poeltl made Layup.
+Stanford,Utah,32,39,16,18,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Utah,32,39,16,18,0,Brandon Taylor Defensive Rebound.
+Stanford,Utah,32,39,16,30,0,Brandon Taylor Turnover.
+Stanford,Utah,32,39,16,30,0,Official TV Timeout
+Stanford,Utah,32,39,16,51,0,Foul on Michael Humphrey.
+Stanford,Utah,32,39,16,51,0,Michael Humphrey Turnover.
+Stanford,Utah,32,42,17,3,1,Dakarai Tucker made Three Point Jumper. Assisted by Jakob Poeltl.
+Stanford,Utah,32,42,17,26,0,Rosco Allen missed Layup.
+Stanford,Utah,32,42,17,26,0,Jakob Poeltl Defensive Rebound.
+Stanford,Utah,32,42,17,34,0,Brandon Taylor Turnover.
+Stanford,Utah,32,42,17,34,0,Dorian Pickens Steal.
+Stanford,Utah,32,42,17,42,0,Marcus Sheffield missed Jumper.
+Stanford,Utah,32,42,17,42,0,Rosco Allen Offensive Rebound.
+Stanford,Utah,32,42,17,50,0,Foul on Jordan Loveridge.
+Stanford,Utah,32,42,17,51,0,Marcus Sheffield Turnover.
+Stanford,Utah,32,42,17,51,0,Brandon Taylor Steal.
+Stanford,Utah,32,45,17,55,1,Brekkott Chapman made Three Point Jumper. Assisted by Brandon Taylor.
+Stanford,Utah,34,45,18,15,1,Grant Verhoeven made Jumper. Assisted by Cameron Walker.
+Stanford,Utah,34,45,18,45,0,Brekkott Chapman missed Jumper.
+Stanford,Utah,34,45,18,45,0,Grant Verhoeven Defensive Rebound.
+Stanford,Utah,36,45,19,4,1,Dorian Pickens made Layup. Assisted by Grant Verhoeven.
+Stanford,Utah,36,45,19,4,0,Foul on Dakarai Tucker.
+Stanford,Utah,37,45,19,4,1,Dorian Pickens made Free Throw.
+Stanford,Utah,37,48,19,21,1,Brandon Taylor made Three Point Jumper.
+Stanford,Utah,39,48,19,55,1,Marcus Sheffield made Layup.
+Stanford,Utah,39,48,20,0,0,End of 1st half
+Stanford,Utah,39,48,20,0,0,Jump Ball won by Utah
+Stanford,Utah,39,48,20,7,0,Foul on Dorian Pickens.
+Stanford,Utah,39,48,20,10,0,Foul on Jakob Poeltl.
+Stanford,Utah,39,48,20,10,0,Jakob Poeltl Turnover.
+Stanford,Utah,39,48,20,28,0,Foul on Jakob Poeltl.
+Stanford,Utah,40,48,20,28,1,Michael Humphrey made Free Throw.
+Stanford,Utah,40,48,20,28,0,Michael Humphrey missed Free Throw.
+Stanford,Utah,40,48,20,28,0,Lorenzo Bonam Defensive Rebound.
+Stanford,Utah,40,50,20,38,1,Kyle Kuzma made Layup. Assisted by Jakob Poeltl.
+Stanford,Utah,42,50,20,58,1,Christian Sanders made Layup.
+Stanford,Utah,42,52,21,11,1,Kyle Kuzma made Jumper. Assisted by Lorenzo Bonam.
+Stanford,Utah,42,52,21,29,0,Rosco Allen missed Three Point Jumper.
+Stanford,Utah,42,52,21,29,0,Jakob Poeltl Defensive Rebound.
+Stanford,Utah,42,52,21,54,0,Jakob Poeltl Turnover.
+Stanford,Utah,42,52,21,54,0,Michael Humphrey Steal.
+Stanford,Utah,42,52,22,5,0,Marcus Allen Turnover.
+Stanford,Utah,42,52,22,18,0,Foul on Michael Humphrey.
+Stanford,Utah,42,52,22,19,0,Foul on Dorian Pickens.
+Stanford,Utah,42,52,22,20,0,Brandon Taylor missed Three Point Jumper.
+Stanford,Utah,42,52,22,20,0,Christian Sanders Defensive Rebound.
+Stanford,Utah,42,52,22,29,0,Christian Sanders missed Layup.
+Stanford,Utah,42,52,22,29,0,Brandon Taylor Defensive Rebound.
+Stanford,Utah,42,54,22,37,1,Lorenzo Bonam made Layup. Assisted by Brandon Taylor.
+Stanford,Utah,44,54,22,46,1,Marcus Allen made Layup.
+Stanford,Utah,44,54,23,7,0,Foul on Rosco Allen.
+Stanford,Utah,44,55,23,7,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,44,56,23,7,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,44,56,23,27,0,Marcus Allen missed Jumper.
+Stanford,Utah,44,56,23,27,0,Lorenzo Bonam Defensive Rebound.
+Stanford,Utah,44,56,23,38,0,Jordan Loveridge missed Layup.
+Stanford,Utah,44,56,23,38,0,Utah Offensive Rebound.
+Stanford,Utah,44,56,23,45,0,Kyle Kuzma missed Jumper.
+Stanford,Utah,44,56,23,45,0,Lorenzo Bonam Offensive Rebound.
+Stanford,Utah,44,58,23,50,1,Lorenzo Bonam made Layup.
+Stanford,Utah,47,58,24,12,1,Rosco Allen made Three Point Jumper.
+Stanford,Utah,47,58,24,35,0,Foul on Marcus Sheffield.
+Stanford,Utah,47,58,24,35,0,Technical Foul on Lorenzo Bonam.
+Stanford,Utah,47,58,24,35,0,Foul on Lorenzo Bonam.
+Stanford,Utah,47,58,24,35,0,Technical Foul on Michael Humphrey.
+Stanford,Utah,47,58,24,35,0,Foul on Michael Humphrey.
+Stanford,Utah,47,58,24,36,0,Official TV Timeout
+Stanford,Utah,47,58,24,38,0,Lorenzo Bonam missed Layup.
+Stanford,Utah,47,58,24,38,0,Jakob Poeltl Offensive Rebound.
+Stanford,Utah,47,60,24,44,1,Jakob Poeltl made Layup.
+Stanford,Utah,47,60,24,55,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Utah,47,60,24,55,0,Kyle Kuzma Defensive Rebound.
+Stanford,Utah,47,60,25,9,0,Foul on Kyle Kuzma.
+Stanford,Utah,47,60,25,9,0,Kyle Kuzma Turnover.
+Stanford,Utah,49,60,25,24,1,Rosco Allen made Layup.
+Stanford,Utah,49,62,25,49,1,Jakob Poeltl made Layup.
+Stanford,Utah,49,62,26,13,0,Foul on Jordan Loveridge.
+Stanford,Utah,50,62,26,13,1,Marcus Allen made Free Throw.
+Stanford,Utah,51,62,26,13,1,Marcus Allen made Free Throw.
+Stanford,Utah,51,62,26,19,0,Brekkott Chapman missed Three Point Jumper.
+Stanford,Utah,51,62,26,19,0,Malcolm Allen Defensive Rebound.
+Stanford,Utah,51,62,26,29,0,Malcolm Allen Turnover.
+Stanford,Utah,51,62,26,50,0,Dakarai Tucker missed Three Point Jumper.
+Stanford,Utah,51,62,26,50,0,Marcus Sheffield Defensive Rebound.
+Stanford,Utah,51,62,27,4,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Utah,51,62,27,4,0,Dakarai Tucker Defensive Rebound.
+Stanford,Utah,51,62,27,13,0,Brandon Taylor missed Layup.
+Stanford,Utah,51,62,27,13,0,Malcolm Allen Block.
+Stanford,Utah,51,62,27,13,0,Utah Offensive Rebound.
+Stanford,Utah,51,62,27,37,0,Brandon Taylor Turnover.
+Stanford,Utah,51,62,27,37,0,Malcolm Allen Steal.
+Stanford,Utah,51,62,27,42,0,Rosco Allen Turnover.
+Stanford,Utah,51,62,27,42,0,Brandon Taylor Steal.
+Stanford,Utah,51,62,27,50,0,Foul on Grant Verhoeven.
+Stanford,Utah,51,62,27,50,0,Brekkott Chapman missed Free Throw.
+Stanford,Utah,51,62,27,50,0,Utah Deadball Team Rebound.
+Stanford,Utah,51,62,27,50,0,Brekkott Chapman missed Free Throw.
+Stanford,Utah,51,62,27,50,0,Marcus Sheffield Defensive Rebound.
+Stanford,Utah,53,62,28,4,1,Marcus Sheffield made Layup.
+Stanford,Utah,53,62,28,18,0,Foul on Cameron Walker.
+Stanford,Utah,53,62,28,18,0,Official TV Timeout
+Stanford,Utah,53,62,28,18,0,Brekkott Chapman missed Free Throw.
+Stanford,Utah,53,62,28,18,0,Cameron Walker Defensive Rebound.
+Stanford,Utah,53,62,28,42,0,Foul on Kyle Kuzma.
+Stanford,Utah,53,62,28,45,0,Rosco Allen missed Jumper.
+Stanford,Utah,53,62,28,45,0,Brandon Taylor Defensive Rebound.
+Stanford,Utah,53,62,28,51,0,Brandon Taylor Turnover.
+Stanford,Utah,53,62,29,6,0,Foul on Brandon Taylor.
+Stanford,Utah,53,62,29,6,0,Dorian Pickens missed Free Throw.
+Stanford,Utah,53,62,29,6,0,Stanford Deadball Team Rebound.
+Stanford,Utah,54,62,29,6,1,Dorian Pickens made Free Throw.
+Stanford,Utah,54,62,29,6,0,Dorian Pickens missed Free Throw.
+Stanford,Utah,54,62,29,6,0,Lorenzo Bonam Defensive Rebound.
+Stanford,Utah,54,62,29,15,0,Foul on Grant Verhoeven.
+Stanford,Utah,54,63,29,15,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,54,64,29,15,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,54,64,29,33,0,Marcus Allen missed Three Point Jumper.
+Stanford,Utah,54,64,29,33,0,Lorenzo Bonam Defensive Rebound.
+Stanford,Utah,54,64,29,42,0,Lorenzo Bonam Turnover.
+Stanford,Utah,54,64,29,42,0,Marcus Allen Steal.
+Stanford,Utah,54,64,29,51,0,Rosco Allen missed Three Point Jumper.
+Stanford,Utah,54,64,29,51,0,Jordan Loveridge Defensive Rebound.
+Stanford,Utah,54,66,30,11,1,Jakob Poeltl made Dunk. Assisted by Lorenzo Bonam.
+Stanford,Utah,54,66,30,11,0,Foul on Marcus Allen.
+Stanford,Utah,54,66,30,11,0,Jakob Poeltl missed Free Throw.
+Stanford,Utah,54,66,30,11,0,Rosco Allen Defensive Rebound.
+Stanford,Utah,54,66,30,34,0,Rosco Allen missed Jumper.
+Stanford,Utah,54,66,30,34,0,Jakob Poeltl Defensive Rebound.
+Stanford,Utah,54,66,30,57,0,Lorenzo Bonam Turnover.
+Stanford,Utah,54,66,30,57,0,Marcus Sheffield Steal.
+Stanford,Utah,54,66,31,13,0,Marcus Sheffield missed Jumper.
+Stanford,Utah,54,66,31,13,0,Utah Defensive Rebound.
+Stanford,Utah,54,66,31,36,0,Foul on Josh Sharma.
+Stanford,Utah,54,67,31,36,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,54,68,31,36,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,54,68,31,58,0,Foul on Jakob Poeltl.
+Stanford,Utah,55,68,31,58,1,Rosco Allen made Free Throw.
+Stanford,Utah,56,68,31,58,1,Rosco Allen made Free Throw.
+Stanford,Utah,56,68,32,15,0,Jakob Poeltl missed Layup.
+Stanford,Utah,56,68,32,15,0,Kyle Kuzma Offensive Rebound.
+Stanford,Utah,56,70,32,21,1,Kyle Kuzma made Layup.
+Stanford,Utah,56,70,32,36,0,Dorian Pickens Turnover.
+Stanford,Utah,56,70,32,36,0,Lorenzo Bonam Steal.
+Stanford,Utah,56,70,32,45,0,Foul on Dorian Pickens.
+Stanford,Utah,56,70,32,45,0,Official TV Timeout
+Stanford,Utah,56,71,32,45,1,Lorenzo Bonam made Free Throw.
+Stanford,Utah,56,72,32,45,1,Lorenzo Bonam made Free Throw.
+Stanford,Utah,56,72,32,51,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Utah,56,72,32,51,0,Grant Verhoeven Offensive Rebound.
+Stanford,Utah,58,72,32,58,1,Grant Verhoeven made Layup.
+Stanford,Utah,58,75,33,6,1,Brandon Taylor made Three Point Jumper.
+Stanford,Utah,58,75,33,23,0,Dorian Pickens Turnover.
+Stanford,Utah,58,75,33,23,0,Jordan Loveridge Steal.
+Stanford,Utah,58,75,33,51,0,Lorenzo Bonam missed Jumper.
+Stanford,Utah,58,75,33,51,0,Josh Sharma Defensive Rebound.
+Stanford,Utah,58,75,34,7,0,Foul on Lorenzo Bonam.
+Stanford,Utah,59,75,34,7,1,Marcus Sheffield made Free Throw.
+Stanford,Utah,60,75,34,7,1,Marcus Sheffield made Free Throw.
+Stanford,Utah,60,75,34,18,0,Lorenzo Bonam missed Three Point Jumper.
+Stanford,Utah,60,75,34,18,0,Marcus Sheffield Defensive Rebound.
+Stanford,Utah,60,75,34,38,0,Rosco Allen missed Three Point Jumper.
+Stanford,Utah,60,75,34,38,0,Kyle Kuzma Defensive Rebound.
+Stanford,Utah,60,75,34,56,0,Foul on Josh Sharma.
+Stanford,Utah,60,76,34,56,1,Kyle Kuzma made Free Throw.
+Stanford,Utah,60,77,34,56,1,Kyle Kuzma made Free Throw.
+Stanford,Utah,60,77,35,14,0,Rosco Allen missed Layup.
+Stanford,Utah,60,77,35,14,0,Marcus Allen Offensive Rebound.
+Stanford,Utah,62,77,35,22,1,Marcus Allen made Jumper.
+Stanford,Utah,62,77,35,53,0,Kyle Kuzma missed Dunk.
+Stanford,Utah,62,77,35,53,0,Rosco Allen Defensive Rebound.
+Stanford,Utah,62,77,36,4,0,Marcus Allen Turnover.
+Stanford,Utah,62,77,36,4,0,Official TV Timeout
+Stanford,Utah,62,77,36,28,0,Brandon Taylor missed Three Point Jumper.
+Stanford,Utah,62,77,36,28,0,Dorian Pickens Defensive Rebound.
+Stanford,Utah,62,77,36,44,0,Foul on Jakob Poeltl.
+Stanford,Utah,63,77,36,44,1,Rosco Allen made Free Throw.
+Stanford,Utah,64,77,36,44,1,Rosco Allen made Free Throw.
+Stanford,Utah,64,77,36,48,0,Foul on Cameron Walker.
+Stanford,Utah,64,77,36,48,0,Lorenzo Bonam missed Free Throw.
+Stanford,Utah,64,77,36,48,0,Utah Deadball Team Rebound.
+Stanford,Utah,64,78,36,48,1,Lorenzo Bonam made Free Throw.
+Stanford,Utah,64,78,36,53,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,Utah,64,78,36,53,0,Cameron Walker Offensive Rebound.
+Stanford,Utah,66,78,37,1,1,Cameron Walker made Dunk.
+Stanford,Utah,66,78,37,3,0,Stanford  Timeout
+Stanford,Utah,66,78,37,17,0,Foul on Rosco Allen.
+Stanford,Utah,66,79,37,17,1,Dakarai Tucker made Free Throw.
+Stanford,Utah,66,80,37,17,1,Dakarai Tucker made Free Throw.
+Stanford,Utah,66,80,37,22,0,Rosco Allen missed Three Point Jumper.
+Stanford,Utah,66,80,37,22,0,Utah Defensive Rebound.
+Stanford,Utah,66,80,37,30,0,Foul on Cameron Walker.
+Stanford,Utah,66,81,37,30,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,66,81,37,30,0,Jakob Poeltl missed Free Throw.
+Stanford,Utah,66,81,37,30,0,Dorian Pickens Defensive Rebound.
+Stanford,Utah,66,81,37,38,0,Foul on Kyle Kuzma.
+Stanford,Utah,67,81,37,38,1,Marcus Sheffield made Free Throw.
+Stanford,Utah,68,81,37,38,1,Marcus Sheffield made Free Throw.
+Stanford,Utah,68,81,37,39,0,Foul on Christian Sanders.
+Stanford,Utah,68,82,37,39,1,Lorenzo Bonam made Free Throw.
+Stanford,Utah,68,83,37,39,1,Lorenzo Bonam made Free Throw.
+Stanford,Utah,70,83,37,48,1,Marcus Sheffield made Jumper.
+Stanford,Utah,70,83,37,50,0,Stanford  Timeout
+Stanford,Utah,70,83,37,53,0,Foul on Marcus Allen.
+Stanford,Utah,70,84,37,53,1,Brandon Taylor made Free Throw.
+Stanford,Utah,70,85,37,53,1,Brandon Taylor made Free Throw.
+Stanford,Utah,70,85,37,56,0,Marcus Allen missed Layup.
+Stanford,Utah,70,85,37,56,0,Jakob Poeltl Defensive Rebound.
+Stanford,Utah,70,85,38,2,0,Brandon Taylor Turnover.
+Stanford,Utah,70,85,38,2,0,Malcolm Allen Steal.
+Stanford,Utah,72,85,38,10,1,Malcolm Allen made Layup. Assisted by Marcus Sheffield.
+Stanford,Utah,72,85,38,16,0,Stanford  Timeout
+Stanford,Utah,72,85,38,17,0,Foul on Malcolm Allen.
+Stanford,Utah,72,86,38,17,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,72,87,38,17,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,72,87,38,21,0,Foul on Dakarai Tucker.
+Stanford,Utah,73,87,38,21,1,Marcus Allen made Free Throw.
+Stanford,Utah,74,87,38,21,1,Marcus Allen made Free Throw.
+Stanford,Utah,74,87,38,22,0,Foul on Christian Sanders.
+Stanford,Utah,74,88,38,22,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,74,89,38,22,1,Jakob Poeltl made Free Throw.
+Stanford,Utah,74,89,38,26,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,Utah,74,89,38,26,0,Marcus Allen Offensive Rebound.
+Stanford,Utah,74,89,38,38,0,Marcus Allen Turnover.
+Stanford,Utah,74,89,38,38,0,Utah  Timeout
+Stanford,Utah,74,91,38,40,1,Dakarai Tucker made Layup. Assisted by Jordan Loveridge.
+Stanford,Utah,74,91,38,47,0,Rosco Allen missed Three Point Jumper.
+Stanford,Utah,74,91,38,47,0,Jordan Loveridge Defensive Rebound.
+Stanford,Utah,74,91,38,49,0,Foul on Marcus Sheffield.
+Stanford,Utah,74,92,38,49,1,Jordan Loveridge made Free Throw.
+Stanford,Utah,74,93,38,49,1,Jordan Loveridge made Free Throw.
+Stanford,Utah,74,93,38,55,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,Utah,74,93,38,55,0,Marcus Allen Offensive Rebound.
+Stanford,Utah,74,93,39,4,0,Marcus Allen missed Three Point Jumper.
+Stanford,Utah,74,93,39,4,0,Christian Sanders Offensive Rebound.
+Stanford,Utah,74,93,39,10,0,Christian Sanders missed Three Point Jumper.
+Stanford,Utah,74,93,39,10,0,Brandon Taylor Defensive Rebound.
+Stanford,Utah,74,96,39,35,1,Dakarai Tucker made Three Point Jumper. Assisted by Brandon Taylor.
+Stanford,Utah,74,96,39,47,0,Marcus Allen missed Three Point Jumper.
+Stanford,Utah,74,96,39,47,0,Brekkott Chapman Defensive Rebound.
+Stanford,Utah,74,96,40,0,0,End of Game

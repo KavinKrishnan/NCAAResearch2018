@@ -1,0 +1,390 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Harvard,Stanford,0,0,0,0,0,Jump Ball won by Harvard
+Harvard,Stanford,0,0,0,16,0,Zena Edosomwan Turnover.
+Harvard,Stanford,0,0,0,35,0,Reid Travis missed Layup.
+Harvard,Stanford,0,0,0,35,0,Reid Travis Offensive Rebound.
+Harvard,Stanford,0,2,0,39,1,Reid Travis made Layup.
+Harvard,Stanford,0,2,1,4,0,Siyani Chambers missed Three Point Jumper.
+Harvard,Stanford,0,2,1,4,0,Marcus Allen Defensive Rebound.
+Harvard,Stanford,0,4,1,11,1,Michael Humphrey made Layup. Assisted by Dorian Pickens.
+Harvard,Stanford,0,4,1,29,0,Chris Egi missed Layup.
+Harvard,Stanford,0,4,1,29,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,0,4,1,38,0,Foul on Corey Johnson.
+Harvard,Stanford,0,5,1,38,1,Dorian Pickens made Free Throw.
+Harvard,Stanford,0,5,1,38,0,Dorian Pickens missed Free Throw.
+Harvard,Stanford,0,5,1,38,0,Zena Edosomwan Defensive Rebound.
+Harvard,Stanford,2,5,1,52,1,Zena Edosomwan made Layup. Assisted by Siyani Chambers.
+Harvard,Stanford,2,5,2,15,0,Reid Travis Turnover.
+Harvard,Stanford,2,5,2,40,0,Bryce Aiken missed Three Point Jumper.
+Harvard,Stanford,2,5,2,40,0,Marcus Allen Defensive Rebound.
+Harvard,Stanford,2,7,2,54,1,Michael Humphrey made Jumper. Assisted by Marcus Allen.
+Harvard,Stanford,2,7,3,17,0,Zena Edosomwan missed Layup.
+Harvard,Stanford,2,7,3,17,0,Michael Humphrey Defensive Rebound.
+Harvard,Stanford,2,7,3,25,0,Dorian Pickens missed Layup.
+Harvard,Stanford,2,7,3,25,0,Zena Edosomwan Defensive Rebound.
+Harvard,Stanford,4,7,3,30,1,Seth Towns made Jumper. Assisted by Bryce Aiken.
+Harvard,Stanford,4,7,3,42,0,Christian Sanders Turnover.
+Harvard,Stanford,4,7,3,42,0,Seth Towns Steal.
+Harvard,Stanford,4,7,3,42,0,Foul on Michael Humphrey.
+Harvard,Stanford,4,7,4,3,0,Foul on Michael Humphrey.
+Harvard,Stanford,4,7,4,3,0,Official TV Timeout
+Harvard,Stanford,4,7,4,15,0,Seth Towns Turnover.
+Harvard,Stanford,4,7,4,27,0,Foul on Bryce Aiken.
+Harvard,Stanford,4,7,4,41,0,Josh Sharma missed Jumper.
+Harvard,Stanford,4,7,4,41,0,Chris Lewis Block.
+Harvard,Stanford,4,7,4,41,0,Reid Travis Offensive Rebound.
+Harvard,Stanford,4,7,4,41,0,Grant Verhoeven missed Layup.
+Harvard,Stanford,4,7,4,41,0,Chris Lewis Block.
+Harvard,Stanford,4,7,4,41,0,Seth Towns Defensive Rebound.
+Harvard,Stanford,6,7,5,0,1,Chris Lewis made Jumper. Assisted by Seth Towns.
+Harvard,Stanford,6,7,5,30,0,Foul on Siyani Chambers.
+Harvard,Stanford,6,7,5,40,0,Josh Sharma missed Three Point Jumper.
+Harvard,Stanford,6,7,5,40,0,Chris Egi Defensive Rebound.
+Harvard,Stanford,6,7,5,50,0,Bryce Aiken missed Jumper.
+Harvard,Stanford,6,7,5,50,0,Chris Egi Offensive Rebound.
+Harvard,Stanford,6,7,5,53,0,Foul on Grant Verhoeven.
+Harvard,Stanford,6,7,5,55,0,Chris Lewis Turnover.
+Harvard,Stanford,6,7,5,55,0,Robert Cartwright Steal.
+Harvard,Stanford,6,9,6,2,1,Robert Cartwright made Layup.
+Harvard,Stanford,6,9,6,25,0,Chris Egi missed Jumper.
+Harvard,Stanford,6,9,6,25,0,Chris Lewis Offensive Rebound.
+Harvard,Stanford,8,9,6,29,1,Chris Lewis made Dunk.
+Harvard,Stanford,8,9,6,51,0,Foul on Chris Egi.
+Harvard,Stanford,8,10,6,51,1,Reid Travis made Free Throw.
+Harvard,Stanford,8,10,6,51,0,Reid Travis missed Free Throw.
+Harvard,Stanford,8,10,6,51,0,Corey Johnson Defensive Rebound.
+Harvard,Stanford,8,10,6,55,0,Christian Juzang missed Layup.
+Harvard,Stanford,8,10,6,55,0,Marcus Sheffield Defensive Rebound.
+Harvard,Stanford,8,10,7,1,0,Marcus Sheffield missed Layup.
+Harvard,Stanford,8,10,7,1,0,Harvard Defensive Rebound.
+Harvard,Stanford,8,10,7,27,0,Bryce Aiken missed Layup.
+Harvard,Stanford,8,10,7,27,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,8,10,7,58,0,Robert Cartwright missed Three Point Jumper.
+Harvard,Stanford,8,10,7,58,0,Chris Egi Defensive Rebound.
+Harvard,Stanford,8,10,8,19,0,Christian Juzang missed Three Point Jumper.
+Harvard,Stanford,8,10,8,19,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,8,10,8,33,0,Foul on Corey Johnson.
+Harvard,Stanford,8,10,8,33,0,Official TV Timeout
+Harvard,Stanford,8,10,8,42,0,Trevor Stanback Turnover.
+Harvard,Stanford,8,10,8,42,0,Chris Egi Steal.
+Harvard,Stanford,8,10,9,0,0,Foul on Robert Cartwright.
+Harvard,Stanford,8,10,9,0,0,Zena Edosomwan missed Free Throw.
+Harvard,Stanford,8,10,9,0,0,Harvard Deadball Team Rebound.
+Harvard,Stanford,8,10,9,0,0,Zena Edosomwan missed Free Throw.
+Harvard,Stanford,8,10,9,0,0,Josh Sharma Defensive Rebound.
+Harvard,Stanford,8,10,9,11,0,Foul on Zena Edosomwan.
+Harvard,Stanford,8,10,9,11,0,Marcus Sheffield missed Free Throw.
+Harvard,Stanford,8,10,9,11,0,Stanford Deadball Team Rebound.
+Harvard,Stanford,8,11,9,11,1,Marcus Sheffield made Free Throw.
+Harvard,Stanford,8,11,9,17,0,Foul on Marcus Sheffield.
+Harvard,Stanford,8,11,9,19,0,Seth Towns missed Jumper.
+Harvard,Stanford,8,11,9,19,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,8,11,9,34,0,Christian Sanders missed Layup.
+Harvard,Stanford,8,11,9,34,0,Zena Edosomwan Defensive Rebound.
+Harvard,Stanford,8,11,9,53,0,Foul on Reid Travis.
+Harvard,Stanford,9,11,9,53,1,Zena Edosomwan made Free Throw.
+Harvard,Stanford,9,11,9,53,0,Zena Edosomwan missed Free Throw.
+Harvard,Stanford,9,11,9,53,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,9,11,10,13,0,Foul on Zena Edosomwan.
+Harvard,Stanford,9,11,10,13,0,Reid Travis missed Free Throw.
+Harvard,Stanford,9,11,10,13,0,Chris Lewis Defensive Rebound.
+Harvard,Stanford,9,11,10,13,0,Foul on Josh Sharma.
+Harvard,Stanford,10,11,10,13,1,Henry Welsh made Free Throw.
+Harvard,Stanford,11,11,10,13,1,Henry Welsh made Free Throw.
+Harvard,Stanford,11,11,10,28,0,Foul on Dorian Pickens.
+Harvard,Stanford,11,11,10,28,0,Dorian Pickens Turnover.
+Harvard,Stanford,13,11,10,40,1,Henry Welsh made Jumper.
+Harvard,Stanford,13,11,10,56,0,Marcus Allen missed Jumper.
+Harvard,Stanford,13,11,10,56,0,Henry Welsh Defensive Rebound.
+Harvard,Stanford,13,11,11,7,0,Christian Juzang missed Three Point Jumper.
+Harvard,Stanford,13,11,11,7,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,13,11,11,28,0,Foul on Chris Lewis.
+Harvard,Stanford,13,12,11,28,1,Reid Travis made Free Throw.
+Harvard,Stanford,13,12,11,28,0,Reid Travis missed Free Throw.
+Harvard,Stanford,13,12,11,28,0,Christian Juzang Defensive Rebound.
+Harvard,Stanford,13,12,11,45,0,Henry Welsh Turnover.
+Harvard,Stanford,13,12,11,45,0,Marcus Sheffield Steal.
+Harvard,Stanford,13,12,11,51,0,Dorian Pickens missed Three Point Jumper.
+Harvard,Stanford,13,12,11,51,0,Reid Travis Offensive Rebound.
+Harvard,Stanford,13,12,11,55,0,Reid Travis missed Jumper.
+Harvard,Stanford,13,12,11,55,0,Grant Verhoeven Offensive Rebound.
+Harvard,Stanford,13,12,12,1,0,Foul on Tommy McCarthy.
+Harvard,Stanford,13,12,12,1,0,Official TV Timeout
+Harvard,Stanford,13,13,12,1,1,Grant Verhoeven made Free Throw.
+Harvard,Stanford,13,14,12,1,1,Grant Verhoeven made Free Throw.
+Harvard,Stanford,15,14,12,18,1,Henry Welsh made Layup. Assisted by Chris Lewis.
+Harvard,Stanford,15,14,12,35,0,Robert Cartwright missed Jumper.
+Harvard,Stanford,15,14,12,35,0,Grant Verhoeven Offensive Rebound.
+Harvard,Stanford,15,14,12,41,0,Foul on Henry Welsh.
+Harvard,Stanford,15,15,12,41,1,Grant Verhoeven made Free Throw.
+Harvard,Stanford,15,16,12,41,1,Grant Verhoeven made Free Throw.
+Harvard,Stanford,15,16,12,58,0,Bryce Aiken missed Jumper.
+Harvard,Stanford,15,16,12,58,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,15,18,13,21,1,Marcus Sheffield made Jumper.
+Harvard,Stanford,15,18,13,46,0,Henry Welsh Turnover.
+Harvard,Stanford,15,18,13,46,0,Grant Verhoeven Steal.
+Harvard,Stanford,15,18,13,55,0,Reid Travis missed Layup.
+Harvard,Stanford,15,18,13,55,0,Reid Travis Offensive Rebound.
+Harvard,Stanford,15,18,14,0,0,Foul on Christian Juzang.
+Harvard,Stanford,15,19,14,0,1,Reid Travis made Free Throw.
+Harvard,Stanford,15,19,14,0,0,Reid Travis missed Free Throw.
+Harvard,Stanford,15,19,14,0,0,Grant Verhoeven Offensive Rebound.
+Harvard,Stanford,15,19,14,2,0,Foul on Reid Travis.
+Harvard,Stanford,15,19,14,2,0,Reid Travis Turnover.
+Harvard,Stanford,15,19,14,11,0,Bryce Aiken missed Three Point Jumper.
+Harvard,Stanford,15,19,14,11,0,Seth Towns Offensive Rebound.
+Harvard,Stanford,15,19,14,17,0,Foul on Marcus Sheffield.
+Harvard,Stanford,15,19,14,17,0,Seth Towns missed Free Throw.
+Harvard,Stanford,15,19,14,17,0,Harvard Deadball Team Rebound.
+Harvard,Stanford,15,19,14,17,0,Seth Towns missed Free Throw.
+Harvard,Stanford,15,19,14,17,0,Robert Cartwright Defensive Rebound.
+Harvard,Stanford,15,21,14,20,1,Marcus Allen made Layup. Assisted by Robert Cartwright.
+Harvard,Stanford,15,21,14,37,0,Zena Edosomwan missed Layup.
+Harvard,Stanford,15,21,14,37,0,Zena Edosomwan Offensive Rebound.
+Harvard,Stanford,15,21,14,44,0,Zena Edosomwan missed Layup.
+Harvard,Stanford,15,21,14,44,0,Marcus Allen Defensive Rebound.
+Harvard,Stanford,15,21,14,47,0,Foul on Marcus Allen.
+Harvard,Stanford,15,21,14,47,0,Marcus Allen Turnover.
+Harvard,Stanford,15,21,15,2,0,Chris Lewis missed Jumper.
+Harvard,Stanford,15,21,15,2,0,Harvard Offensive Rebound.
+Harvard,Stanford,15,21,15,6,0,Foul on Josh Sharma.
+Harvard,Stanford,16,21,15,6,1,Chris Egi made Free Throw.
+Harvard,Stanford,17,21,15,6,1,Chris Egi made Free Throw.
+Harvard,Stanford,17,23,15,18,1,Grant Verhoeven made Jumper. Assisted by Marcus Allen.
+Harvard,Stanford,20,23,15,30,1,Bryce Aiken made Three Point Jumper.
+Harvard,Stanford,20,23,15,40,0,Foul on Bryce Aiken.
+Harvard,Stanford,20,24,15,40,1,Robert Cartwright made Free Throw.
+Harvard,Stanford,20,25,15,40,1,Robert Cartwright made Free Throw.
+Harvard,Stanford,20,25,16,9,0,Christian Juzang missed Jumper.
+Harvard,Stanford,20,25,16,9,0,Grant Verhoeven Defensive Rebound.
+Harvard,Stanford,20,27,16,18,1,Grant Verhoeven made Layup. Assisted by Robert Cartwright.
+Harvard,Stanford,20,27,16,23,0,Harvard  Timeout
+Harvard,Stanford,23,27,16,34,1,Bryce Aiken made Three Point Jumper. Assisted by Chris Lewis.
+Harvard,Stanford,23,27,16,54,0,Foul on Chris Lewis.
+Harvard,Stanford,23,27,16,54,0,Robert Cartwright missed Free Throw.
+Harvard,Stanford,23,27,16,54,0,Stanford Deadball Team Rebound.
+Harvard,Stanford,23,28,16,54,1,Robert Cartwright made Free Throw.
+Harvard,Stanford,23,28,17,6,0,Bryce Aiken missed Jumper.
+Harvard,Stanford,23,28,17,6,0,Grant Verhoeven Defensive Rebound.
+Harvard,Stanford,23,28,17,15,0,Trevor Stanback missed Layup.
+Harvard,Stanford,23,28,17,15,0,Chris Egi Defensive Rebound.
+Harvard,Stanford,23,28,17,29,0,Seth Towns missed Jumper.
+Harvard,Stanford,23,28,17,29,0,Dorian Pickens Defensive Rebound.
+Harvard,Stanford,23,28,18,1,0,Marcus Allen Turnover.
+Harvard,Stanford,23,28,18,1,0,Bryce Aiken Steal.
+Harvard,Stanford,23,28,18,2,0,Seth Towns missed Jumper.
+Harvard,Stanford,23,28,18,2,0,Grant Verhoeven Defensive Rebound.
+Harvard,Stanford,23,28,18,20,0,Dorian Pickens missed Jumper.
+Harvard,Stanford,23,28,18,20,0,Henry Welsh Defensive Rebound.
+Harvard,Stanford,23,28,18,33,0,Henry Welsh missed Jumper.
+Harvard,Stanford,23,28,18,33,0,Seth Towns Offensive Rebound.
+Harvard,Stanford,25,28,18,37,1,Seth Towns made Layup.
+Harvard,Stanford,25,28,18,56,0,Robert Cartwright missed Layup.
+Harvard,Stanford,25,28,18,56,0,Chris Egi Block.
+Harvard,Stanford,25,28,18,56,0,Harvard Defensive Rebound.
+Harvard,Stanford,25,28,19,17,0,Foul on Trevor Stanback.
+Harvard,Stanford,25,28,19,17,0,Henry Welsh missed Free Throw.
+Harvard,Stanford,25,28,19,17,0,Harvard Deadball Team Rebound.
+Harvard,Stanford,26,28,19,17,1,Henry Welsh made Free Throw.
+Harvard,Stanford,26,30,19,28,1,Dorian Pickens made Layup. Assisted by Grant Verhoeven.
+Harvard,Stanford,26,30,19,56,0,Foul on Trevor Stanback.
+Harvard,Stanford,27,30,19,56,1,Siyani Chambers made Free Throw.
+Harvard,Stanford,27,30,19,56,0,Stanford  Timeout
+Harvard,Stanford,28,30,19,56,1,Siyani Chambers made Free Throw.
+Harvard,Stanford,28,30,20,0,0,End of 1st half
+Harvard,Stanford,28,30,20,0,0,Jump Ball won by Stanford
+Harvard,Stanford,28,33,20,16,1,Michael Humphrey made Three Point Jumper. Assisted by Christian Sanders.
+Harvard,Stanford,28,33,20,40,0,Corey Johnson missed Three Point Jumper.
+Harvard,Stanford,28,33,20,40,0,Christian Sanders Defensive Rebound.
+Harvard,Stanford,28,33,20,56,0,Dorian Pickens missed Jumper.
+Harvard,Stanford,28,33,20,56,0,Seth Towns Block.
+Harvard,Stanford,28,33,20,56,0,Zena Edosomwan Defensive Rebound.
+Harvard,Stanford,28,33,21,4,0,Seth Towns missed Jumper.
+Harvard,Stanford,28,33,21,4,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,28,33,21,15,0,Michael Humphrey Turnover.
+Harvard,Stanford,28,33,21,15,0,Corey Johnson Steal.
+Harvard,Stanford,28,33,21,22,0,Foul on Christian Sanders.
+Harvard,Stanford,28,33,21,25,0,Foul on Christian Sanders.
+Harvard,Stanford,29,33,21,25,1,Siyani Chambers made Free Throw.
+Harvard,Stanford,30,33,21,25,1,Siyani Chambers made Free Throw.
+Harvard,Stanford,30,33,21,36,0,Foul on Corey Johnson.
+Harvard,Stanford,30,34,21,36,1,Dorian Pickens made Free Throw.
+Harvard,Stanford,30,35,21,36,1,Dorian Pickens made Free Throw.
+Harvard,Stanford,30,35,21,45,0,Zena Edosomwan Turnover.
+Harvard,Stanford,30,35,21,58,0,Foul on Chris Egi.
+Harvard,Stanford,30,35,21,59,0,Michael Humphrey missed Jumper.
+Harvard,Stanford,30,35,21,59,0,Zena Edosomwan Defensive Rebound.
+Harvard,Stanford,30,35,22,16,0,Bryce Aiken missed Three Point Jumper.
+Harvard,Stanford,30,35,22,16,0,Dorian Pickens Defensive Rebound.
+Harvard,Stanford,30,37,22,28,1,Reid Travis made Layup. Assisted by Christian Sanders.
+Harvard,Stanford,30,37,22,28,0,Foul on Bryce Aiken.
+Harvard,Stanford,30,37,22,28,0,Reid Travis missed Free Throw.
+Harvard,Stanford,30,37,22,28,0,Henry Welsh Defensive Rebound.
+Harvard,Stanford,30,37,22,40,0,Bryce Aiken Turnover.
+Harvard,Stanford,30,39,22,46,1,Reid Travis made Dunk. Assisted by Christian Sanders.
+Harvard,Stanford,30,39,23,9,0,Henry Welsh missed Jumper.
+Harvard,Stanford,30,39,23,9,0,Henry Welsh Offensive Rebound.
+Harvard,Stanford,32,39,23,16,1,Siyani Chambers made Jumper.
+Harvard,Stanford,32,39,23,34,0,Dorian Pickens Turnover.
+Harvard,Stanford,32,39,23,34,0,Christian Juzang Steal.
+Harvard,Stanford,34,39,23,44,1,Henry Welsh made Jumper. Assisted by Siyani Chambers.
+Harvard,Stanford,34,39,23,59,0,Foul on Henry Welsh.
+Harvard,Stanford,34,41,24,7,1,Grant Verhoeven made Layup. Assisted by Marcus Allen.
+Harvard,Stanford,36,41,24,19,1,Chris Lewis made Layup. Assisted by Henry Welsh.
+Harvard,Stanford,36,43,24,28,1,Reid Travis made Jumper. Assisted by Dorian Pickens.
+Harvard,Stanford,36,43,24,39,0,Foul on Grant Verhoeven.
+Harvard,Stanford,36,43,24,40,0,Official TV Timeout
+Harvard,Stanford,36,43,25,4,0,Foul on Grant Verhoeven.
+Harvard,Stanford,39,43,25,27,1,Siyani Chambers made Three Point Jumper.
+Harvard,Stanford,39,45,25,46,1,Reid Travis made Dunk. Assisted by Marcus Sheffield.
+Harvard,Stanford,39,45,26,7,0,Corey Johnson Turnover.
+Harvard,Stanford,39,45,26,7,0,Marcus Allen Steal.
+Harvard,Stanford,39,47,26,13,1,Marcus Allen made Layup.
+Harvard,Stanford,39,47,26,28,0,Chris Lewis Turnover.
+Harvard,Stanford,39,47,26,28,0,Michael Humphrey Steal.
+Harvard,Stanford,39,47,26,44,0,Reid Travis missed Jumper.
+Harvard,Stanford,39,47,26,44,0,Corey Johnson Defensive Rebound.
+Harvard,Stanford,39,47,26,57,0,Bryce Aiken missed Three Point Jumper.
+Harvard,Stanford,39,47,26,57,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,39,47,27,7,0,Robert Cartwright missed Layup.
+Harvard,Stanford,39,47,27,7,0,Bryce Aiken Defensive Rebound.
+Harvard,Stanford,39,47,27,20,0,Chris Lewis Turnover.
+Harvard,Stanford,39,47,27,20,0,Michael Humphrey Steal.
+Harvard,Stanford,39,47,27,28,0,Foul on Michael Humphrey.
+Harvard,Stanford,39,47,27,28,0,Michael Humphrey Turnover.
+Harvard,Stanford,41,47,27,42,1,Chris Egi made Layup. Assisted by Bryce Aiken.
+Harvard,Stanford,41,47,27,53,0,Marcus Sheffield missed Jumper.
+Harvard,Stanford,41,47,27,53,0,Harvard Deadball Team Rebound.
+Harvard,Stanford,41,47,27,57,0,Foul on Josh Sharma.
+Harvard,Stanford,43,47,28,12,1,Seth Towns made Dunk.
+Harvard,Stanford,43,47,28,12,0,Foul on Josh Sharma.
+Harvard,Stanford,43,47,28,12,0,Official TV Timeout
+Harvard,Stanford,44,47,28,12,1,Seth Towns made Free Throw.
+Harvard,Stanford,44,47,28,33,0,Reid Travis missed Jumper.
+Harvard,Stanford,44,47,28,33,0,Christian Juzang Defensive Rebound.
+Harvard,Stanford,44,47,28,58,0,Bryce Aiken missed Layup.
+Harvard,Stanford,44,47,28,58,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,44,47,29,7,0,Marcus Allen missed Jumper.
+Harvard,Stanford,44,47,29,7,0,Corey Johnson Defensive Rebound.
+Harvard,Stanford,44,47,29,19,0,Seth Towns missed Three Point Jumper.
+Harvard,Stanford,44,47,29,19,0,Marcus Sheffield Defensive Rebound.
+Harvard,Stanford,44,49,29,34,1,Marcus Sheffield made Jumper.
+Harvard,Stanford,44,49,29,58,0,Foul on Marcus Sheffield.
+Harvard,Stanford,45,49,29,58,1,Christian Juzang made Free Throw.
+Harvard,Stanford,46,49,29,58,1,Christian Juzang made Free Throw.
+Harvard,Stanford,46,49,30,19,0,Foul on Seth Towns.
+Harvard,Stanford,46,50,30,19,1,Reid Travis made Free Throw.
+Harvard,Stanford,46,51,30,19,1,Reid Travis made Free Throw.
+Harvard,Stanford,48,51,30,30,1,Bryce Aiken made Jumper.
+Harvard,Stanford,48,53,30,38,1,Michael Humphrey made Dunk. Assisted by Christian Sanders.
+Harvard,Stanford,48,53,30,38,0,Foul on Seth Towns.
+Harvard,Stanford,48,53,30,38,0,Michael Humphrey missed Free Throw.
+Harvard,Stanford,48,53,30,38,0,Reid Travis Offensive Rebound.
+Harvard,Stanford,48,55,30,39,1,Reid Travis made Layup.
+Harvard,Stanford,48,55,30,49,0,Corey Johnson missed Three Point Jumper.
+Harvard,Stanford,48,55,30,49,0,Michael Humphrey Defensive Rebound.
+Harvard,Stanford,48,55,31,1,0,Foul on Corey Johnson.
+Harvard,Stanford,48,56,31,1,1,Christian Sanders made Free Throw.
+Harvard,Stanford,48,56,31,1,0,Christian Sanders missed Free Throw.
+Harvard,Stanford,48,56,31,1,0,Christian Juzang Defensive Rebound.
+Harvard,Stanford,50,56,31,7,1,Chris Lewis made Layup. Assisted by Christian Juzang.
+Harvard,Stanford,50,58,31,35,1,Reid Travis made Jumper. Assisted by Christian Sanders.
+Harvard,Stanford,50,58,31,48,0,Foul on Marcus Allen.
+Harvard,Stanford,50,58,31,48,0,Henry Welsh missed Free Throw.
+Harvard,Stanford,50,58,31,48,0,Marcus Allen Defensive Rebound.
+Harvard,Stanford,50,58,32,2,0,Foul on Christian Juzang.
+Harvard,Stanford,50,58,32,2,0,Official TV Timeout
+Harvard,Stanford,50,59,32,2,1,Dorian Pickens made Free Throw.
+Harvard,Stanford,50,60,32,2,1,Dorian Pickens made Free Throw.
+Harvard,Stanford,50,60,32,7,0,Bryce Aiken Turnover.
+Harvard,Stanford,50,62,32,15,1,Marcus Allen made Layup.
+Harvard,Stanford,50,62,32,38,0,Foul on Marcus Allen.
+Harvard,Stanford,51,62,32,38,1,Bryce Aiken made Free Throw.
+Harvard,Stanford,52,62,32,38,1,Bryce Aiken made Free Throw.
+Harvard,Stanford,52,62,32,57,0,Marcus Allen missed Three Point Jumper.
+Harvard,Stanford,52,62,32,57,0,Chris Lewis Defensive Rebound.
+Harvard,Stanford,52,62,33,9,0,Zena Edosomwan missed Jumper.
+Harvard,Stanford,52,62,33,9,0,Stanford Defensive Rebound.
+Harvard,Stanford,52,62,33,27,0,Foul on Zena Edosomwan.
+Harvard,Stanford,52,62,33,27,0,Reid Travis missed Free Throw.
+Harvard,Stanford,52,62,33,27,0,Bryce Aiken Defensive Rebound.
+Harvard,Stanford,54,62,33,30,1,Bryce Aiken made Jumper.
+Harvard,Stanford,54,62,33,56,0,Michael Humphrey missed Jumper.
+Harvard,Stanford,54,62,33,56,0,Stanford Deadball Team Rebound.
+Harvard,Stanford,54,62,34,2,0,Foul on Zena Edosomwan.
+Harvard,Stanford,54,63,34,2,1,Reid Travis made Free Throw.
+Harvard,Stanford,54,64,34,2,1,Reid Travis made Free Throw.
+Harvard,Stanford,56,64,34,14,1,Chris Lewis made Dunk. Assisted by Bryce Aiken.
+Harvard,Stanford,56,64,34,31,0,Reid Travis missed Jumper.
+Harvard,Stanford,56,64,34,31,0,Siyani Chambers Defensive Rebound.
+Harvard,Stanford,56,64,34,38,0,Siyani Chambers missed Layup.
+Harvard,Stanford,56,64,34,38,0,Christian Sanders Block.
+Harvard,Stanford,56,64,34,38,0,Michael Humphrey Defensive Rebound.
+Harvard,Stanford,56,64,34,45,0,Dorian Pickens missed Three Point Jumper.
+Harvard,Stanford,56,64,34,45,0,Michael Humphrey Offensive Rebound.
+Harvard,Stanford,56,64,34,51,0,Michael Humphrey missed Layup.
+Harvard,Stanford,56,64,34,51,0,Dorian Pickens Offensive Rebound.
+Harvard,Stanford,56,66,34,52,1,Dorian Pickens made Layup.
+Harvard,Stanford,56,66,34,52,0,Foul on Chris Lewis.
+Harvard,Stanford,56,67,34,52,1,Dorian Pickens made Free Throw.
+Harvard,Stanford,56,67,35,10,0,Henry Welsh missed Layup.
+Harvard,Stanford,56,67,35,10,0,Siyani Chambers Offensive Rebound.
+Harvard,Stanford,59,67,35,19,1,Bryce Aiken made Three Point Jumper. Assisted by Siyani Chambers.
+Harvard,Stanford,59,67,35,26,0,Harvard  Timeout
+Harvard,Stanford,59,67,35,40,0,Foul on Bryce Aiken.
+Harvard,Stanford,59,67,35,40,0,Reid Travis missed Free Throw.
+Harvard,Stanford,59,67,35,40,0,Stanford Deadball Team Rebound.
+Harvard,Stanford,59,67,35,40,0,Reid Travis missed Free Throw.
+Harvard,Stanford,59,67,35,40,0,Henry Welsh Defensive Rebound.
+Harvard,Stanford,59,67,35,48,0,Christian Juzang missed Three Point Jumper.
+Harvard,Stanford,59,67,35,48,0,Henry Welsh Offensive Rebound.
+Harvard,Stanford,61,67,36,0,1,Siyani Chambers made Layup.
+Harvard,Stanford,61,67,36,17,0,Foul on Seth Towns.
+Harvard,Stanford,61,67,36,17,0,Official TV Timeout
+Harvard,Stanford,61,68,36,17,1,Michael Humphrey made Free Throw.
+Harvard,Stanford,61,69,36,17,1,Michael Humphrey made Free Throw.
+Harvard,Stanford,61,69,36,21,0,Christian Juzang missed Three Point Jumper.
+Harvard,Stanford,61,69,36,21,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,61,69,36,50,0,Stanford  Timeout
+Harvard,Stanford,61,69,36,52,0,Foul on Seth Towns.
+Harvard,Stanford,61,69,36,52,0,Reid Travis missed Free Throw.
+Harvard,Stanford,61,69,36,52,0,Stanford Deadball Team Rebound.
+Harvard,Stanford,61,70,36,52,1,Reid Travis made Free Throw.
+Harvard,Stanford,61,70,37,0,0,Foul on Reid Travis.
+Harvard,Stanford,62,70,37,0,1,Bryce Aiken made Free Throw.
+Harvard,Stanford,63,70,37,0,1,Bryce Aiken made Free Throw.
+Harvard,Stanford,63,72,37,8,1,Marcus Allen made Dunk. Assisted by Reid Travis.
+Harvard,Stanford,63,72,37,26,0,Foul on Marcus Allen.
+Harvard,Stanford,64,72,37,26,1,Bryce Aiken made Free Throw.
+Harvard,Stanford,65,72,37,26,1,Bryce Aiken made Free Throw.
+Harvard,Stanford,65,74,37,48,1,Michael Humphrey made Jumper. Assisted by Robert Cartwright.
+Harvard,Stanford,65,74,38,1,0,Christian Juzang Turnover.
+Harvard,Stanford,65,74,38,1,0,Dorian Pickens Steal.
+Harvard,Stanford,65,76,38,6,1,Marcus Allen made Layup.
+Harvard,Stanford,67,76,38,15,1,Henry Welsh made Layup. Assisted by Siyani Chambers.
+Harvard,Stanford,67,76,38,16,0,Harvard  Timeout
+Harvard,Stanford,67,76,38,29,0,Robert Cartwright Turnover.
+Harvard,Stanford,67,76,38,29,0,Siyani Chambers Steal.
+Harvard,Stanford,67,76,38,38,0,Foul on Reid Travis.
+Harvard,Stanford,68,76,38,38,1,Siyani Chambers made Free Throw.
+Harvard,Stanford,68,76,38,38,0,Siyani Chambers missed Free Throw.
+Harvard,Stanford,68,76,38,38,0,Siyani Chambers Offensive Rebound.
+Harvard,Stanford,68,76,38,39,0,Siyani Chambers missed Jumper.
+Harvard,Stanford,68,76,38,39,0,Dorian Pickens Defensive Rebound.
+Harvard,Stanford,68,76,38,57,0,Foul on Seth Towns.
+Harvard,Stanford,68,77,38,57,1,Michael Humphrey made Free Throw.
+Harvard,Stanford,68,78,38,57,1,Michael Humphrey made Free Throw.
+Harvard,Stanford,68,78,39,5,0,Foul on Marcus Sheffield.
+Harvard,Stanford,69,78,39,5,1,Bryce Aiken made Free Throw.
+Harvard,Stanford,70,78,39,5,1,Bryce Aiken made Free Throw.
+Harvard,Stanford,70,78,39,29,0,Robert Cartwright missed Layup.
+Harvard,Stanford,70,78,39,29,0,Christian Juzang Block.
+Harvard,Stanford,70,78,39,29,0,Christian Juzang Defensive Rebound.
+Harvard,Stanford,70,78,39,38,0,Siyani Chambers missed Layup.
+Harvard,Stanford,70,78,39,38,0,Reid Travis Defensive Rebound.
+Harvard,Stanford,70,78,39,42,0,Foul on Christian Juzang.
+Harvard,Stanford,70,79,39,42,1,Reid Travis made Free Throw.
+Harvard,Stanford,70,80,39,42,1,Reid Travis made Free Throw.
+Harvard,Stanford,70,80,39,44,0,Bryce Aiken missed Three Point Jumper.
+Harvard,Stanford,70,80,39,44,0,Marcus Allen Defensive Rebound.
+Harvard,Stanford,70,80,40,0,0,End of Game

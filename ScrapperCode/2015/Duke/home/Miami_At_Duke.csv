@@ -1,0 +1,362 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Miami,Duke,0,0,0,0,0,Jump Ball won by Miami (FL)
+Miami,Duke,3,0,0,21,1,Omar Sherman made Three Point Jumper. Assisted by Angel Rodriguez.
+Miami,Duke,3,2,0,47,1,Jahlil Okafor made Jumper.
+Miami,Duke,3,2,1,2,0,Omar Sherman missed Three Point Jumper.
+Miami,Duke,3,2,1,2,0,Quinn Cook Defensive Rebound.
+Miami,Duke,3,2,1,16,0,Tyus Jones Turnover.
+Miami,Duke,3,2,1,16,0,Tonye Jekiri Steal.
+Miami,Duke,3,2,1,33,0,Deandre Burnett missed Three Point Jumper.
+Miami,Duke,3,2,1,33,0,Justise Winslow Defensive Rebound.
+Miami,Duke,3,2,1,42,0,Justise Winslow missed Layup.
+Miami,Duke,3,2,1,42,0,Jahlil Okafor Offensive Rebound.
+Miami,Duke,3,2,1,48,0,Jahlil Okafor missed Dunk.
+Miami,Duke,3,2,1,48,0,Sheldon McClellan Defensive Rebound.
+Miami,Duke,3,2,1,49,0,Foul on Tyus Jones.
+Miami,Duke,3,2,1,49,0,Deandre Burnett missed Free Throw.
+Miami,Duke,3,2,1,49,0,Miami (FL) Deadball Team Rebound.
+Miami,Duke,4,2,1,49,1,Deandre Burnett made Free Throw.
+Miami,Duke,4,4,2,6,1,Amile Jefferson made Layup. Assisted by Tyus Jones.
+Miami,Duke,4,4,2,18,0,Angel Rodriguez missed Jumper.
+Miami,Duke,4,4,2,18,0,Tonye Jekiri Offensive Rebound.
+Miami,Duke,4,4,2,24,0,Foul on Amile Jefferson.
+Miami,Duke,5,4,2,24,1,Tonye Jekiri made Free Throw.
+Miami,Duke,5,4,2,24,0,Tonye Jekiri missed Free Throw.
+Miami,Duke,5,4,2,24,0,Quinn Cook Defensive Rebound.
+Miami,Duke,5,4,2,36,0,Tyus Jones missed Three Point Jumper.
+Miami,Duke,5,4,2,36,0,Tonye Jekiri Defensive Rebound.
+Miami,Duke,5,4,2,57,0,Sheldon McClellan missed Jumper.
+Miami,Duke,5,4,2,57,0,Quinn Cook Defensive Rebound.
+Miami,Duke,5,4,3,11,0,Jahlil Okafor Turnover.
+Miami,Duke,5,4,3,11,0,Angel Rodriguez Steal.
+Miami,Duke,7,4,3,20,1,Sheldon McClellan made Jumper. Assisted by Angel Rodriguez.
+Miami,Duke,7,6,3,46,1,Jahlil Okafor made Layup.
+Miami,Duke,7,6,4,9,0,Deandre Burnett Turnover.
+Miami,Duke,7,6,4,9,0,Rasheed Sulaimon Steal.
+Miami,Duke,7,6,4,15,0,Foul on Deandre Burnett.
+Miami,Duke,7,6,4,15,0,Official TV Timeout
+Miami,Duke,7,7,4,15,1,Jahlil Okafor made Free Throw.
+Miami,Duke,7,7,4,15,0,Jahlil Okafor missed Free Throw.
+Miami,Duke,7,7,4,16,0,Miami (FL) Deadball Team Rebound.
+Miami,Duke,7,7,4,16,0,Foul on Matt Jones.
+Miami,Duke,7,7,4,26,0,Manu Lecomte missed Layup.
+Miami,Duke,7,7,4,26,0,Davon Reed Offensive Rebound.
+Miami,Duke,9,7,4,35,1,Davon Reed made Layup.
+Miami,Duke,9,7,4,46,0,Justise Winslow missed Jumper.
+Miami,Duke,9,7,4,46,0,Davon Reed Block.
+Miami,Duke,9,7,4,46,0,Angel Rodriguez Defensive Rebound.
+Miami,Duke,11,7,4,57,1,Sheldon McClellan made Dunk. Assisted by Angel Rodriguez.
+Miami,Duke,11,10,5,5,1,Quinn Cook made Three Point Jumper. Assisted by Rasheed Sulaimon.
+Miami,Duke,11,10,5,36,0,Foul on Rasheed Sulaimon.
+Miami,Duke,11,10,5,53,0,Foul on Matt Jones.
+Miami,Duke,11,10,5,53,0,Tonye Jekiri missed Free Throw.
+Miami,Duke,11,10,5,53,0,Miami (FL) Deadball Team Rebound.
+Miami,Duke,12,10,5,53,1,Tonye Jekiri made Free Throw.
+Miami,Duke,12,10,6,11,0,Foul on Tonye Jekiri.
+Miami,Duke,12,10,6,17,0,Quinn Cook missed Three Point Jumper.
+Miami,Duke,12,10,6,17,0,Davon Reed Defensive Rebound.
+Miami,Duke,14,10,6,33,1,Ja'Quan Newton made Dunk.
+Miami,Duke,14,10,6,33,0,Foul on Rasheed Sulaimon.
+Miami,Duke,14,10,6,33,0,Ja'Quan Newton missed Free Throw.
+Miami,Duke,14,10,6,33,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,14,10,6,49,0,Foul on Ja'Quan Newton.
+Miami,Duke,14,10,6,51,0,Foul on Davon Reed.
+Miami,Duke,14,11,6,51,1,Jahlil Okafor made Free Throw.
+Miami,Duke,14,12,6,51,1,Jahlil Okafor made Free Throw.
+Miami,Duke,14,12,7,3,0,Ja'Quan Newton Turnover.
+Miami,Duke,14,14,7,19,1,Amile Jefferson made Jumper.
+Miami,Duke,16,14,7,46,1,Tonye Jekiri made Layup. Assisted by Ja'Quan Newton.
+Miami,Duke,16,16,8,2,1,Amile Jefferson made Layup.
+Miami,Duke,16,16,8,20,0,Davon Reed missed Jumper.
+Miami,Duke,16,16,8,20,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,16,18,8,29,1,Tyus Jones made Jumper.
+Miami,Duke,16,18,8,49,0,Foul on Quinn Cook.
+Miami,Duke,16,18,8,49,0,Official TV Timeout
+Miami,Duke,16,18,8,49,0,Manu Lecomte missed Free Throw.
+Miami,Duke,16,18,8,49,0,Miami (FL) Deadball Team Rebound.
+Miami,Duke,17,18,8,49,1,Manu Lecomte made Free Throw.
+Miami,Duke,18,18,8,49,1,Manu Lecomte made Free Throw.
+Miami,Duke,18,18,9,6,0,Tyus Jones missed Jumper.
+Miami,Duke,18,18,9,6,0,Amile Jefferson Offensive Rebound.
+Miami,Duke,18,18,9,14,0,Grayson Allen missed Three Point Jumper.
+Miami,Duke,18,18,9,14,0,Duke Offensive Rebound.
+Miami,Duke,18,18,9,27,0,Quinn Cook missed Jumper.
+Miami,Duke,18,18,9,27,0,Amile Jefferson Offensive Rebound.
+Miami,Duke,18,18,9,33,0,Amile Jefferson Turnover.
+Miami,Duke,18,18,9,33,0,Tonye Jekiri Steal.
+Miami,Duke,18,18,9,39,0,Tonye Jekiri Turnover.
+Miami,Duke,18,20,9,49,1,Jahlil Okafor made Dunk. Assisted by Justise Winslow.
+Miami,Duke,18,20,10,6,0,Sheldon McClellan missed Three Point Jumper.
+Miami,Duke,18,20,10,6,0,Jahlil Okafor Defensive Rebound.
+Miami,Duke,18,20,10,13,0,Justise Winslow missed Layup.
+Miami,Duke,18,20,10,13,0,Angel Rodriguez Block.
+Miami,Duke,18,20,10,13,0,Amile Jefferson Offensive Rebound.
+Miami,Duke,18,20,10,39,0,Foul on Sheldon McClellan.
+Miami,Duke,18,22,10,53,1,Quinn Cook made Layup.
+Miami,Duke,21,22,11,5,1,Angel Rodriguez made Three Point Jumper.
+Miami,Duke,21,22,11,16,0,Foul on Omar Sherman.
+Miami,Duke,21,23,11,16,1,Tyus Jones made Free Throw.
+Miami,Duke,21,24,11,16,1,Tyus Jones made Free Throw.
+Miami,Duke,24,24,11,26,1,Angel Rodriguez made Three Point Jumper.
+Miami,Duke,24,24,11,36,0,Quinn Cook Turnover.
+Miami,Duke,24,24,11,36,0,Tonye Jekiri Steal.
+Miami,Duke,26,24,11,44,1,Angel Rodriguez made Layup.
+Miami,Duke,26,24,12,2,0,Tyus Jones missed Jumper.
+Miami,Duke,26,24,12,2,0,James Palmer Defensive Rebound.
+Miami,Duke,26,24,12,9,0,Davon Reed missed Jumper.
+Miami,Duke,26,24,12,9,0,Duke Defensive Rebound.
+Miami,Duke,26,24,12,14,0,Official TV Timeout
+Miami,Duke,26,26,12,21,1,Rasheed Sulaimon made Jumper.
+Miami,Duke,26,26,12,43,0,Tonye Jekiri missed Jumper.
+Miami,Duke,26,26,12,43,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,26,26,12,57,0,Foul on Davon Reed.
+Miami,Duke,26,26,12,57,0,Amile Jefferson missed Free Throw.
+Miami,Duke,26,26,12,57,0,Duke Deadball Team Rebound.
+Miami,Duke,26,26,12,57,0,Amile Jefferson missed Free Throw.
+Miami,Duke,26,26,12,57,0,Tonye Jekiri Defensive Rebound.
+Miami,Duke,26,26,13,10,0,James Palmer missed Three Point Jumper.
+Miami,Duke,26,26,13,10,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,26,26,13,27,0,Rasheed Sulaimon missed Three Point Jumper.
+Miami,Duke,26,26,13,27,0,James Palmer Defensive Rebound.
+Miami,Duke,26,26,13,38,0,Foul on Ja'Quan Newton.
+Miami,Duke,26,26,13,38,0,Ja'Quan Newton Turnover.
+Miami,Duke,26,26,13,57,0,Justise Winslow missed Three Point Jumper.
+Miami,Duke,26,26,13,57,0,Ja'Quan Newton Defensive Rebound.
+Miami,Duke,28,26,14,4,1,James Palmer made Dunk. Assisted by Ja'Quan Newton.
+Miami,Duke,28,26,14,19,0,Foul on Omar Sherman.
+Miami,Duke,28,26,14,19,0,Jahlil Okafor missed Free Throw.
+Miami,Duke,28,26,14,19,0,Joe Thomas Defensive Rebound.
+Miami,Duke,28,26,14,30,0,Angel Rodriguez missed Jumper.
+Miami,Duke,28,26,14,30,0,Jahlil Okafor Defensive Rebound.
+Miami,Duke,28,26,14,53,0,Foul on James Palmer.
+Miami,Duke,28,26,14,53,0,Matt Jones missed Free Throw.
+Miami,Duke,28,26,14,53,0,Duke Deadball Team Rebound.
+Miami,Duke,28,27,14,53,1,Matt Jones made Free Throw.
+Miami,Duke,28,27,15,3,0,Tonye Jekiri missed Jumper.
+Miami,Duke,28,27,15,3,0,Matt Jones Defensive Rebound.
+Miami,Duke,28,30,15,17,1,Rasheed Sulaimon made Three Point Jumper. Assisted by Matt Jones.
+Miami,Duke,28,30,15,44,0,Foul on Matt Jones.
+Miami,Duke,29,30,15,44,1,Angel Rodriguez made Free Throw.
+Miami,Duke,29,30,15,44,0,Angel Rodriguez missed Free Throw.
+Miami,Duke,29,30,15,44,0,Jahlil Okafor Defensive Rebound.
+Miami,Duke,29,30,15,58,0,Rasheed Sulaimon missed Three Point Jumper.
+Miami,Duke,29,30,15,58,0,Tonye Jekiri Defensive Rebound.
+Miami,Duke,29,30,16,1,0,Foul on Jahlil Okafor.
+Miami,Duke,30,30,16,1,1,Tonye Jekiri made Free Throw.
+Miami,Duke,31,30,16,1,1,Tonye Jekiri made Free Throw.
+Miami,Duke,31,30,16,2,0,Official TV Timeout
+Miami,Duke,31,30,16,25,0,Quinn Cook missed Jumper.
+Miami,Duke,31,30,16,25,0,Joe Thomas Defensive Rebound.
+Miami,Duke,34,30,16,34,1,Manu Lecomte made Three Point Jumper. Assisted by Sheldon McClellan.
+Miami,Duke,34,30,16,57,0,Jahlil Okafor missed Jumper.
+Miami,Duke,34,30,16,57,0,Joe Thomas Defensive Rebound.
+Miami,Duke,34,30,17,3,0,Sheldon McClellan Turnover.
+Miami,Duke,34,30,17,3,0,Rasheed Sulaimon Steal.
+Miami,Duke,34,30,17,12,0,Rasheed Sulaimon Turnover.
+Miami,Duke,34,30,17,12,0,Tonye Jekiri Steal.
+Miami,Duke,34,30,17,17,0,Angel Rodriguez missed Layup.
+Miami,Duke,34,30,17,17,0,Justise Winslow Block.
+Miami,Duke,34,30,17,17,0,Quinn Cook Defensive Rebound.
+Miami,Duke,34,32,17,27,1,Amile Jefferson made Jumper. Assisted by Quinn Cook.
+Miami,Duke,34,32,17,47,0,Sheldon McClellan missed Three Point Jumper.
+Miami,Duke,34,32,17,47,0,Quinn Cook Defensive Rebound.
+Miami,Duke,34,32,18,5,0,Jahlil Okafor missed Jumper.
+Miami,Duke,34,32,18,5,0,Angel Rodriguez Defensive Rebound.
+Miami,Duke,34,32,18,13,0,Sheldon McClellan missed Three Point Jumper.
+Miami,Duke,34,32,18,13,0,Justise Winslow Defensive Rebound.
+Miami,Duke,34,32,18,23,0,Jahlil Okafor Turnover.
+Miami,Duke,34,32,18,50,0,Manu Lecomte missed Layup.
+Miami,Duke,34,32,18,50,0,Jahlil Okafor Defensive Rebound.
+Miami,Duke,34,35,18,57,1,Rasheed Sulaimon made Three Point Jumper. Assisted by Quinn Cook.
+Miami,Duke,34,35,19,13,0,Miami (FL)  Timeout
+Miami,Duke,34,35,19,25,0,Ja'Quan Newton missed Jumper.
+Miami,Duke,34,35,19,25,0,Ja'Quan Newton Offensive Rebound.
+Miami,Duke,34,35,19,52,0,Angel Rodriguez missed Three Point Jumper.
+Miami,Duke,34,35,19,52,0,Joe Thomas Offensive Rebound.
+Miami,Duke,34,35,19,58,0,Foul on Manu Lecomte.
+Miami,Duke,34,35,19,58,0,Manu Lecomte Turnover.
+Miami,Duke,34,35,19,58,0,Duke  Timeout
+Miami,Duke,34,35,20,0,0,End of 1st half
+Miami,Duke,34,35,20,0,0,Jump Ball won by Duke
+Miami,Duke,34,37,20,15,1,Justise Winslow made Layup.
+Miami,Duke,36,37,20,32,1,Angel Rodriguez made Layup.
+Miami,Duke,36,39,20,48,1,Amile Jefferson made Layup. Assisted by Quinn Cook.
+Miami,Duke,36,39,21,20,0,Angel Rodriguez missed Layup.
+Miami,Duke,36,39,21,20,0,Jahlil Okafor Defensive Rebound.
+Miami,Duke,36,39,21,36,0,Justise Winslow missed Three Point Jumper.
+Miami,Duke,36,39,21,36,0,Jahlil Okafor Offensive Rebound.
+Miami,Duke,36,39,21,48,0,Foul on Tonye Jekiri.
+Miami,Duke,36,39,21,48,0,Justise Winslow missed Free Throw.
+Miami,Duke,36,39,21,48,0,Duke Deadball Team Rebound.
+Miami,Duke,36,39,21,48,0,Justise Winslow missed Free Throw.
+Miami,Duke,36,39,21,48,0,Manu Lecomte Defensive Rebound.
+Miami,Duke,36,39,21,54,0,Sheldon McClellan missed Three Point Jumper.
+Miami,Duke,36,39,21,54,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,36,39,22,0,0,Foul on Angel Rodriguez.
+Miami,Duke,36,39,22,16,0,Justise Winslow Turnover.
+Miami,Duke,38,39,22,47,1,Davon Reed made Layup.
+Miami,Duke,38,39,23,4,0,Quinn Cook missed Three Point Jumper.
+Miami,Duke,38,39,23,4,0,Angel Rodriguez Defensive Rebound.
+Miami,Duke,38,39,23,13,0,Manu Lecomte missed Jumper.
+Miami,Duke,38,39,23,13,0,Tyus Jones Defensive Rebound.
+Miami,Duke,38,39,23,19,0,Tyus Jones missed Layup.
+Miami,Duke,38,39,23,19,0,Tonye Jekiri Defensive Rebound.
+Miami,Duke,41,39,23,26,1,Manu Lecomte made Three Point Jumper.
+Miami,Duke,41,39,23,53,0,Amile Jefferson Turnover.
+Miami,Duke,41,39,23,53,0,Duke  Timeout
+Miami,Duke,43,39,24,19,1,Angel Rodriguez made Layup.
+Miami,Duke,43,39,24,32,0,Rasheed Sulaimon Turnover.
+Miami,Duke,43,39,24,32,0,Davon Reed Steal.
+Miami,Duke,45,39,24,38,1,Manu Lecomte made Layup. Assisted by Davon Reed.
+Miami,Duke,45,39,24,39,0,Official TV Timeout
+Miami,Duke,45,39,24,54,0,Jahlil Okafor missed Jumper.
+Miami,Duke,45,39,24,54,0,Amile Jefferson Offensive Rebound.
+Miami,Duke,45,41,25,3,1,Amile Jefferson made Layup.
+Miami,Duke,45,41,25,18,0,Manu Lecomte missed Three Point Jumper.
+Miami,Duke,45,41,25,18,0,Amile Jefferson Defensive Rebound.
+Miami,Duke,45,43,25,32,1,Tyus Jones made Layup.
+Miami,Duke,45,43,25,52,0,Foul on Amile Jefferson.
+Miami,Duke,47,43,25,57,1,Omar Sherman made Dunk. Assisted by Davon Reed.
+Miami,Duke,47,46,26,15,1,Quinn Cook made Three Point Jumper. Assisted by Rasheed Sulaimon.
+Miami,Duke,50,46,26,31,1,Angel Rodriguez made Three Point Jumper.
+Miami,Duke,50,46,26,42,0,Rasheed Sulaimon missed Three Point Jumper.
+Miami,Duke,50,46,26,46,0,Jahlil Okafor Offensive Rebound.
+Miami,Duke,50,46,26,46,0,Miami (FL)  Timeout
+Miami,Duke,50,46,26,46,0,Foul on Omar Sherman.
+Miami,Duke,50,46,26,47,0,Foul on Joe Thomas.
+Miami,Duke,50,46,26,51,0,Rasheed Sulaimon missed Jumper.
+Miami,Duke,50,46,26,51,0,Tonye Jekiri Defensive Rebound.
+Miami,Duke,50,46,26,51,0,Foul on Matt Jones.
+Miami,Duke,50,46,27,4,0,Foul on Justise Winslow.
+Miami,Duke,52,46,27,18,1,Tonye Jekiri made Layup. Assisted by Sheldon McClellan.
+Miami,Duke,52,46,27,35,0,Jahlil Okafor missed Layup.
+Miami,Duke,52,46,27,35,0,Tonye Jekiri Defensive Rebound.
+Miami,Duke,54,46,27,43,1,Sheldon McClellan made Dunk. Assisted by Ja'Quan Newton.
+Miami,Duke,54,46,28,9,0,Tyus Jones missed Jumper.
+Miami,Duke,54,46,28,9,0,Tonye Jekiri Defensive Rebound.
+Miami,Duke,57,46,28,15,1,Manu Lecomte made Three Point Jumper.
+Miami,Duke,57,46,28,19,0,Duke  Timeout
+Miami,Duke,57,48,28,30,1,Jahlil Okafor made Dunk. Assisted by Amile Jefferson.
+Miami,Duke,57,48,28,48,0,Ja'Quan Newton Turnover.
+Miami,Duke,57,48,28,48,0,Official TV Timeout
+Miami,Duke,57,48,29,0,0,Rasheed Sulaimon missed Jumper.
+Miami,Duke,57,48,29,0,0,Jahlil Okafor Offensive Rebound.
+Miami,Duke,57,50,29,15,1,Jahlil Okafor made Jumper. Assisted by Quinn Cook.
+Miami,Duke,59,50,29,35,1,Ja'Quan Newton made Jumper.
+Miami,Duke,59,50,29,41,0,Quinn Cook missed Layup.
+Miami,Duke,59,50,29,42,0,Amile Jefferson Offensive Rebound.
+Miami,Duke,59,52,29,42,1,Amile Jefferson made Two Point Tip Shot.
+Miami,Duke,59,52,29,49,0,Miami (FL)  Timeout
+Miami,Duke,59,52,30,21,0,Joe Thomas missed Layup.
+Miami,Duke,59,52,30,21,0,Tonye Jekiri Offensive Rebound.
+Miami,Duke,62,52,30,28,1,Sheldon McClellan made Three Point Jumper. Assisted by Manu Lecomte.
+Miami,Duke,62,52,30,41,0,Justise Winslow Turnover.
+Miami,Duke,62,52,30,41,0,Sheldon McClellan Steal.
+Miami,Duke,62,52,30,46,0,Foul on Justise Winslow.
+Miami,Duke,62,52,30,46,0,Sheldon McClellan missed Free Throw.
+Miami,Duke,62,52,30,46,0,Miami (FL) Deadball Team Rebound.
+Miami,Duke,63,52,30,46,1,Sheldon McClellan made Free Throw.
+Miami,Duke,63,52,30,58,0,Amile Jefferson missed Layup.
+Miami,Duke,63,52,30,58,0,Tonye Jekiri Block.
+Miami,Duke,63,52,30,58,0,Joe Thomas Defensive Rebound.
+Miami,Duke,63,52,31,7,0,Angel Rodriguez missed Three Point Jumper.
+Miami,Duke,63,52,31,7,0,Quinn Cook Defensive Rebound.
+Miami,Duke,63,52,31,16,0,Rasheed Sulaimon missed Jumper.
+Miami,Duke,63,52,31,16,0,Jahlil Okafor Offensive Rebound.
+Miami,Duke,63,54,31,16,1,Jahlil Okafor made Two Point Tip Shot.
+Miami,Duke,63,54,31,35,0,Foul on Quinn Cook.
+Miami,Duke,63,54,31,36,0,Foul on Quinn Cook.
+Miami,Duke,63,54,31,38,0,Manu Lecomte missed Jumper.
+Miami,Duke,63,54,31,38,0,Jahlil Okafor Defensive Rebound.
+Miami,Duke,63,54,31,52,0,Quinn Cook missed Three Point Jumper.
+Miami,Duke,63,54,31,52,0,Omar Sherman Defensive Rebound.
+Miami,Duke,66,54,32,9,1,Angel Rodriguez made Three Point Jumper.
+Miami,Duke,66,54,32,25,0,Jahlil Okafor missed Jumper.
+Miami,Duke,66,54,32,25,0,Tonye Jekiri Defensive Rebound.
+Miami,Duke,66,54,32,28,0,Tonye Jekiri Turnover.
+Miami,Duke,66,54,32,28,0,Official TV Timeout
+Miami,Duke,66,54,32,37,0,Tyus Jones Turnover.
+Miami,Duke,66,54,32,37,0,Angel Rodriguez Steal.
+Miami,Duke,69,54,32,45,1,Omar Sherman made Three Point Jumper. Assisted by Angel Rodriguez.
+Miami,Duke,69,54,33,6,0,Amile Jefferson missed Jumper.
+Miami,Duke,69,54,33,6,0,Jahlil Okafor Offensive Rebound.
+Miami,Duke,69,54,33,9,0,Jahlil Okafor missed Layup.
+Miami,Duke,69,54,33,9,0,Tyus Jones Offensive Rebound.
+Miami,Duke,69,57,33,17,1,Quinn Cook made Three Point Jumper. Assisted by Tyus Jones.
+Miami,Duke,69,57,33,33,0,Foul on Jahlil Okafor.
+Miami,Duke,70,57,33,33,1,Angel Rodriguez made Free Throw.
+Miami,Duke,71,57,33,33,1,Angel Rodriguez made Free Throw.
+Miami,Duke,71,57,33,42,0,Rasheed Sulaimon missed Three Point Jumper.
+Miami,Duke,71,57,33,42,0,Jahlil Okafor Offensive Rebound.
+Miami,Duke,71,57,33,52,0,Foul on Tonye Jekiri.
+Miami,Duke,71,57,33,52,0,Justise Winslow missed Free Throw.
+Miami,Duke,71,57,33,52,0,Duke Deadball Team Rebound.
+Miami,Duke,71,57,33,52,0,Justise Winslow missed Free Throw.
+Miami,Duke,71,57,33,52,0,Amile Jefferson Offensive Rebound.
+Miami,Duke,71,57,33,55,0,Rasheed Sulaimon missed Three Point Jumper.
+Miami,Duke,71,57,33,55,0,Jahlil Okafor Offensive Rebound.
+Miami,Duke,71,57,33,59,0,Foul on Angel Rodriguez.
+Miami,Duke,71,57,34,11,0,Foul on Angel Rodriguez.
+Miami,Duke,71,57,34,11,0,Amile Jefferson missed Free Throw.
+Miami,Duke,71,57,34,11,0,Angel Rodriguez Defensive Rebound.
+Miami,Duke,71,57,34,24,0,Angel Rodriguez Turnover.
+Miami,Duke,71,57,34,24,0,Marshall Plumlee Steal.
+Miami,Duke,71,60,34,29,1,Quinn Cook made Three Point Jumper. Assisted by Rasheed Sulaimon.
+Miami,Duke,71,60,34,52,0,Foul on Marshall Plumlee.
+Miami,Duke,72,60,34,52,1,Manu Lecomte made Free Throw.
+Miami,Duke,73,60,34,52,1,Manu Lecomte made Free Throw.
+Miami,Duke,73,60,35,18,0,Rasheed Sulaimon Turnover.
+Miami,Duke,73,60,35,18,0,Manu Lecomte Steal.
+Miami,Duke,75,60,35,24,1,Manu Lecomte made Jumper.
+Miami,Duke,75,62,35,31,1,Quinn Cook made Jumper.
+Miami,Duke,75,62,35,55,0,Foul on Rasheed Sulaimon.
+Miami,Duke,76,62,35,55,1,Manu Lecomte made Free Throw.
+Miami,Duke,77,62,35,55,1,Manu Lecomte made Free Throw.
+Miami,Duke,77,62,36,3,0,Foul on Angel Rodriguez.
+Miami,Duke,77,62,36,3,0,Official TV Timeout
+Miami,Duke,77,63,36,3,1,Rasheed Sulaimon made Free Throw.
+Miami,Duke,77,64,36,3,1,Rasheed Sulaimon made Free Throw.
+Miami,Duke,77,64,36,37,0,Foul on Rasheed Sulaimon.
+Miami,Duke,78,64,36,37,1,Manu Lecomte made Free Throw.
+Miami,Duke,79,64,36,37,1,Manu Lecomte made Free Throw.
+Miami,Duke,79,64,36,40,0,Rasheed Sulaimon missed Three Point Jumper.
+Miami,Duke,79,64,36,40,0,Sheldon McClellan Defensive Rebound.
+Miami,Duke,79,64,36,56,0,Angel Rodriguez missed Jumper.
+Miami,Duke,79,64,36,56,0,Davon Reed Offensive Rebound.
+Miami,Duke,79,64,37,13,0,Sheldon McClellan missed Jumper.
+Miami,Duke,79,64,37,13,0,Jahlil Okafor Defensive Rebound.
+Miami,Duke,79,66,37,20,1,Quinn Cook made Layup.
+Miami,Duke,79,66,37,20,0,Duke  Timeout
+Miami,Duke,79,66,37,25,0,Angel Rodriguez Turnover.
+Miami,Duke,79,66,37,25,0,Amile Jefferson Steal.
+Miami,Duke,79,66,37,30,0,Foul on Manu Lecomte.
+Miami,Duke,79,67,37,30,1,Grayson Allen made Free Throw.
+Miami,Duke,79,68,37,30,1,Grayson Allen made Free Throw.
+Miami,Duke,79,68,37,38,0,Foul on Marshall Plumlee.
+Miami,Duke,80,68,37,38,1,Sheldon McClellan made Free Throw.
+Miami,Duke,81,68,37,38,1,Sheldon McClellan made Free Throw.
+Miami,Duke,81,68,37,45,0,Grayson Allen Turnover.
+Miami,Duke,81,68,37,45,0,Angel Rodriguez Steal.
+Miami,Duke,83,68,37,49,1,Angel Rodriguez made Layup.
+Miami,Duke,83,68,37,57,0,Tyus Jones missed Three Point Jumper.
+Miami,Duke,83,68,37,57,0,Sheldon McClellan Defensive Rebound.
+Miami,Duke,85,68,38,35,1,Tonye Jekiri made Dunk. Assisted by Manu Lecomte.
+Miami,Duke,85,68,38,40,0,Quinn Cook Turnover.
+Miami,Duke,85,68,38,40,0,Angel Rodriguez Steal.
+Miami,Duke,85,68,38,41,0,Foul on Tyus Jones.
+Miami,Duke,85,68,38,42,0,Angel Rodriguez missed Free Throw.
+Miami,Duke,85,68,38,42,0,Miami (FL) Deadball Team Rebound.
+Miami,Duke,86,68,38,42,1,Angel Rodriguez made Free Throw.
+Miami,Duke,86,68,38,44,0,Matt Jones Turnover.
+Miami,Duke,86,68,38,44,0,Angel Rodriguez Steal.
+Miami,Duke,88,68,38,51,1,Sheldon McClellan made Dunk. Assisted by Angel Rodriguez.
+Miami,Duke,88,70,39,3,1,Rasheed Sulaimon made Layup.
+Miami,Duke,88,70,39,24,0,Foul on Tyus Jones.
+Miami,Duke,89,70,39,24,1,Manu Lecomte made Free Throw.
+Miami,Duke,90,70,39,24,1,Manu Lecomte made Free Throw.
+Miami,Duke,90,72,39,28,1,Rasheed Sulaimon made Dunk.
+Miami,Duke,90,72,39,53,0,Ja'Quan Newton Turnover.
+Miami,Duke,90,72,39,55,0,Tyus Jones missed Three Point Jumper.
+Miami,Duke,90,72,39,55,0,Grayson Allen Offensive Rebound.
+Miami,Duke,90,74,39,58,1,Grayson Allen made Layup.
+Miami,Duke,90,74,40,0,0,End of Game

@@ -1,0 +1,355 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Illinois State,San Francisco,0,0,0,0,0,Technical Foul on Tao Xu.
+Illinois State,San Francisco,1,0,0,0,1,Zach Lofton made Free Throw.
+Illinois State,San Francisco,2,0,0,0,1,Zach Lofton made Free Throw.
+Illinois State,San Francisco,2,0,0,21,0,Tim Derksen Turnover.
+Illinois State,San Francisco,2,0,0,23,0,Zach Lofton Steal.
+Illinois State,San Francisco,2,0,0,29,0,Foul on Tim Derksen.
+Illinois State,San Francisco,2,0,0,29,0,Zach Lofton missed Free Throw.
+Illinois State,San Francisco,2,0,0,29,0,Illinois St Deadball Team Rebound.
+Illinois State,San Francisco,3,0,0,29,1,Zach Lofton made Free Throw.
+Illinois State,San Francisco,3,3,0,36,1,Tim Derksen made Three Point Jumper. Assisted by Matt Glover.
+Illinois State,San Francisco,5,3,0,54,1,Zach Lofton made Jumper.
+Illinois State,San Francisco,5,3,1,16,0,Avry Holmes missed Three Point Jumper.
+Illinois State,San Francisco,5,3,1,16,0,Nick Zeisloft Defensive Rebound.
+Illinois State,San Francisco,5,3,1,21,0,Zach Lofton Turnover.
+Illinois State,San Francisco,5,5,1,21,1,Mark Tollefsen made Layup. Assisted by Matt Glover.
+Illinois State,San Francisco,5,5,1,52,0,Zach Lofton missed Three Point Jumper.
+Illinois State,San Francisco,5,5,1,52,0,Cole Dickerson Defensive Rebound.
+Illinois State,San Francisco,5,7,2,10,1,Tim Derksen made Jumper. Assisted by Mark Tollefsen.
+Illinois State,San Francisco,8,7,2,21,1,Zach Lofton made Three Point Jumper. Assisted by Daishon Knight.
+Illinois State,San Francisco,8,9,2,41,1,Cole Dickerson made Layup. Assisted by Mark Tollefsen.
+Illinois State,San Francisco,8,9,2,41,0,Foul on John Jones.
+Illinois State,San Francisco,8,10,2,41,1,Cole Dickerson made Free Throw.
+Illinois State,San Francisco,8,10,2,58,0,Bobby Hunter missed Jumper.
+Illinois State,San Francisco,8,10,2,58,0,Mark Tollefsen Block.
+Illinois State,San Francisco,8,10,3,0,0,Mark Tollefsen Defensive Rebound.
+Illinois State,San Francisco,8,12,3,15,1,Matt Glover made Layup.
+Illinois State,San Francisco,8,12,3,29,0,Zach Lofton missed Three Point Jumper.
+Illinois State,San Francisco,8,12,3,29,0,Paris Lee Offensive Rebound.
+Illinois State,San Francisco,10,12,3,33,1,Nick Zeisloft made Jumper. Assisted by Paris Lee.
+Illinois State,San Francisco,10,14,3,56,1,Cole Dickerson made Jumper.
+Illinois State,San Francisco,10,14,4,10,0,Bobby Hunter Turnover.
+Illinois State,San Francisco,10,14,4,10,0,Official TV Timeout
+Illinois State,San Francisco,10,14,4,41,0,Avry Holmes Turnover.
+Illinois State,San Francisco,10,14,4,42,0,Paris Lee Steal.
+Illinois State,San Francisco,10,14,4,46,0,Paris Lee missed Layup.
+Illinois State,San Francisco,10,14,4,46,0,Corey Hilliard Defensive Rebound.
+Illinois State,San Francisco,10,16,5,4,1,Mark Tollefsen made Jumper.
+Illinois State,San Francisco,10,16,5,16,0,Reggie Lynch missed Layup.
+Illinois State,San Francisco,10,16,5,16,0,Kruize Pinkins Defensive Rebound.
+Illinois State,San Francisco,10,16,5,41,0,Chris Adams missed Three Point Jumper.
+Illinois State,San Francisco,10,16,5,41,0,Nick Zeisloft Defensive Rebound.
+Illinois State,San Francisco,10,16,5,50,0,Zach Lofton missed Layup.
+Illinois State,San Francisco,10,16,5,50,0,Mark Tollefsen Defensive Rebound.
+Illinois State,San Francisco,10,16,6,3,0,Avry Holmes missed Three Point Jumper.
+Illinois State,San Francisco,10,16,6,3,0,Kruize Pinkins Offensive Rebound.
+Illinois State,San Francisco,10,16,6,9,0,Chris Adams missed Three Point Jumper.
+Illinois State,San Francisco,10,16,6,9,0,Nick Zeisloft Defensive Rebound.
+Illinois State,San Francisco,10,16,6,12,0,Foul on Mark Tollefsen.
+Illinois State,San Francisco,12,16,6,16,1,Kaza Keane made Layup.
+Illinois State,San Francisco,12,18,6,22,1,Corey Hilliard made Layup.
+Illinois State,San Francisco,14,18,6,46,1,Daishon Knight made Jumper.
+Illinois State,San Francisco,14,18,6,59,0,Chris Adams Turnover.
+Illinois State,San Francisco,14,18,7,8,0,Bobby Hunter Turnover.
+Illinois State,San Francisco,14,18,7,10,0,Avry Holmes Steal.
+Illinois State,San Francisco,14,18,7,26,0,Foul on Bobby Hunter.
+Illinois State,San Francisco,14,19,7,26,1,Matt Glover made Free Throw.
+Illinois State,San Francisco,14,19,7,26,0,Matt Glover missed Free Throw.
+Illinois State,San Francisco,14,19,7,26,0,Daishon Knight Defensive Rebound.
+Illinois State,San Francisco,14,19,7,39,0,Nick Zeisloft missed Three Point Jumper.
+Illinois State,San Francisco,14,19,7,39,0,Mark Tollefsen Defensive Rebound.
+Illinois State,San Francisco,14,19,7,56,0,Cole Dickerson Turnover.
+Illinois State,San Francisco,14,19,7,57,0,Daishon Knight Steal.
+Illinois State,San Francisco,16,19,7,59,1,Daishon Knight made Jumper. Assisted by Kaza Keane.
+Illinois State,San Francisco,16,19,8,40,0,Matt Glover missed Three Point Jumper.
+Illinois State,San Francisco,16,19,8,40,0,Daishon Knight Defensive Rebound.
+Illinois State,San Francisco,18,19,8,59,1,Reggie Lynch made Layup. Assisted by Daishon Knight.
+Illinois State,San Francisco,18,19,9,5,0,Matt Glover Turnover.
+Illinois State,San Francisco,18,19,9,6,0,Official TV Timeout
+Illinois State,San Francisco,18,19,9,17,0,John Jones missed Jumper.
+Illinois State,San Francisco,18,19,9,17,0,Kruize Pinkins Block.
+Illinois State,San Francisco,18,19,9,17,0,Illinois St Offensive Rebound.
+Illinois State,San Francisco,21,19,9,32,1,Zach Lofton made Three Point Jumper. Assisted by Daishon Knight.
+Illinois State,San Francisco,21,19,9,52,0,Cole Dickerson missed Jumper.
+Illinois State,San Francisco,21,19,9,52,0,John Jones Defensive Rebound.
+Illinois State,San Francisco,21,19,10,5,0,John Jones missed Dunk.
+Illinois State,San Francisco,21,19,10,5,0,Avry Holmes Defensive Rebound.
+Illinois State,San Francisco,21,19,10,15,0,Foul on Kaza Keane.
+Illinois State,San Francisco,21,20,10,15,1,Cole Dickerson made Free Throw.
+Illinois State,San Francisco,21,20,10,18,0,Kruize Pinkins missed Free Throw.
+Illinois State,San Francisco,21,20,10,19,0,Illinois St Defensive Rebound.
+Illinois State,San Francisco,21,20,10,20,0,Cole Dickerson missed Free Throw.
+Illinois State,San Francisco,21,20,10,21,0,Kruize Pinkins Offensive Rebound.
+Illinois State,San Francisco,21,20,10,30,0,Foul on Tony Wills.
+Illinois State,San Francisco,21,20,10,30,0,Kruize Pinkins missed Free Throw.
+Illinois State,San Francisco,21,20,10,30,0,San Francisco Deadball Team Rebound.
+Illinois State,San Francisco,21,20,10,42,0,Daishon Knight missed Three Point Jumper.
+Illinois State,San Francisco,21,20,10,43,0,Tim Derksen Defensive Rebound.
+Illinois State,San Francisco,21,22,10,49,0,Kaza Keane Turnover.
+Illinois State,San Francisco,21,22,11,2,0,Kruize Pinkins missed Layup.
+Illinois State,San Francisco,21,22,11,2,0,John Jones Defensive Rebound.
+Illinois State,San Francisco,21,22,11,12,0,Daishon Knight Turnover.
+Illinois State,San Francisco,21,22,11,27,0,Matt Glover Turnover.
+Illinois State,San Francisco,21,22,11,28,0,Tony Wills Steal.
+Illinois State,San Francisco,23,22,11,30,1,Tony Wills made Layup.
+Illinois State,San Francisco,23,22,11,43,0,Corey Hilliard missed Three Point Jumper.
+Illinois State,San Francisco,23,22,11,43,0,Bobby Hunter Defensive Rebound.
+Illinois State,San Francisco,23,22,11,50,0,Bobby Hunter missed Jumper.
+Illinois State,San Francisco,23,22,11,50,0,San Francisco Defensive Rebound.
+Illinois State,San Francisco,23,22,12,3,0,Official TV Timeout
+Illinois State,San Francisco,23,22,12,36,0,San Francisco  Turnover.
+Illinois State,San Francisco,23,22,12,39,0,San Francisco  Timeout
+Illinois State,San Francisco,23,22,12,54,0,Zach Lofton missed Three Point Jumper.
+Illinois State,San Francisco,23,22,12,54,0,Kruize Pinkins Defensive Rebound.
+Illinois State,San Francisco,23,22,13,10,0,Mark Tollefsen Turnover.
+Illinois State,San Francisco,23,22,13,36,0,Zach Lofton missed Jumper.
+Illinois State,San Francisco,23,22,13,36,0,Mark Tollefsen Defensive Rebound.
+Illinois State,San Francisco,23,22,13,46,0,Mark Tollefsen Turnover.
+Illinois State,San Francisco,23,22,13,46,0,Paris Lee missed Jumper.
+Illinois State,San Francisco,23,22,13,46,0,Kruize Pinkins Defensive Rebound.
+Illinois State,San Francisco,23,22,14,5,0,Foul on Bobby Hunter.
+Illinois State,San Francisco,23,22,14,25,0,Foul on Reggie Lynch.
+Illinois State,San Francisco,23,23,14,25,1,Cole Dickerson made Free Throw.
+Illinois State,San Francisco,23,24,14,25,1,Cole Dickerson made Free Throw.
+Illinois State,San Francisco,25,24,14,48,1,Zach Lofton made Layup.
+Illinois State,San Francisco,25,24,14,55,0,Corey Hilliard missed Three Point Jumper.
+Illinois State,San Francisco,25,24,14,55,0,Nick Zeisloft Defensive Rebound.
+Illinois State,San Francisco,25,24,15,6,0,Nick Zeisloft missed Three Point Jumper.
+Illinois State,San Francisco,25,24,15,6,0,Avry Holmes Defensive Rebound.
+Illinois State,San Francisco,25,24,15,18,0,Cole Dickerson Turnover.
+Illinois State,San Francisco,25,24,15,32,0,Foul on Kruize Pinkins.
+Illinois State,San Francisco,25,24,15,50,0,Nick Zeisloft missed Three Point Jumper.
+Illinois State,San Francisco,25,24,15,50,0,Kruize Pinkins Defensive Rebound.
+Illinois State,San Francisco,25,24,16,9,0,Corey Hilliard Turnover.
+Illinois State,San Francisco,25,24,16,10,0,Nick Zeisloft Steal.
+Illinois State,San Francisco,25,24,16,12,0,Paris Lee missed Jumper.
+Illinois State,San Francisco,25,24,16,12,0,Kaza Keane Offensive Rebound.
+Illinois State,San Francisco,27,24,16,24,1,John Jones made Layup. Assisted by Paris Lee.
+Illinois State,San Francisco,27,24,16,24,0,Foul on Kruize Pinkins.
+Illinois State,San Francisco,27,24,16,24,0,Official TV Timeout
+Illinois State,San Francisco,28,24,16,24,1,John Jones made Free Throw.
+Illinois State,San Francisco,28,24,16,43,0,Cole Dickerson Turnover.
+Illinois State,San Francisco,28,24,17,2,0,Foul on Kaza Keane.
+Illinois State,San Francisco,28,24,17,2,0,Kaza Keane Turnover.
+Illinois State,San Francisco,28,24,17,17,0,Cole Dickerson missed Jumper.
+Illinois State,San Francisco,28,24,17,17,0,Paris Lee Defensive Rebound.
+Illinois State,San Francisco,28,24,17,41,0,Tony Wills missed Layup.
+Illinois State,San Francisco,28,24,17,41,0,Cole Dickerson Defensive Rebound.
+Illinois State,San Francisco,28,24,17,42,0,Foul on John Jones.
+Illinois State,San Francisco,28,24,17,42,0,Cole Dickerson missed Free Throw.
+Illinois State,San Francisco,28,24,17,42,0,Daishon Knight Defensive Rebound.
+Illinois State,San Francisco,30,24,17,53,1,Paris Lee made Jumper.
+Illinois State,San Francisco,30,26,18,6,1,Mark Tollefsen made Layup. Assisted by Chris Adams.
+Illinois State,San Francisco,30,26,18,28,0,Zach Lofton missed Three Point Jumper.
+Illinois State,San Francisco,30,26,18,28,0,Mark Tollefsen Defensive Rebound.
+Illinois State,San Francisco,30,28,18,41,1,Mark Tollefsen made Layup. Assisted by Cole Dickerson.
+Illinois State,San Francisco,30,28,18,52,0,Illinois St  Timeout
+Illinois State,San Francisco,32,28,19,2,1,Reggie Lynch made Dunk. Assisted by Zach Lofton.
+Illinois State,San Francisco,32,28,19,17,0,Chris Adams missed Three Point Jumper.
+Illinois State,San Francisco,32,28,19,17,0,Paris Lee Defensive Rebound.
+Illinois State,San Francisco,32,28,19,21,0,Foul on Mark Tollefsen.
+Illinois State,San Francisco,34,28,19,50,1,Reggie Lynch made Dunk. Assisted by Zach Lofton.
+Illinois State,San Francisco,34,28,20,0,0,Mark Tollefsen missed Three Point Jumper.
+Illinois State,San Francisco,34,28,20,0,0,San Francisco Offensive Rebound.
+Illinois State,San Francisco,34,28,20,0,0,End of 1st half
+Illinois State,San Francisco,34,28,20,14,0,Nick Zeisloft missed Three Point Jumper.
+Illinois State,San Francisco,34,28,20,14,0,Daishon Knight Offensive Rebound.
+Illinois State,San Francisco,34,28,20,25,0,Zach Lofton missed Jumper.
+Illinois State,San Francisco,34,28,20,25,0,Illinois St Offensive Rebound.
+Illinois State,San Francisco,34,28,20,27,0,Foul on Avry Holmes.
+Illinois State,San Francisco,37,28,20,32,1,Paris Lee made Three Point Jumper. Assisted by Zach Lofton.
+Illinois State,San Francisco,37,28,20,45,0,Cole Dickerson missed Three Point Jumper.
+Illinois State,San Francisco,37,28,20,45,0,John Jones Defensive Rebound.
+Illinois State,San Francisco,40,28,20,59,1,Nick Zeisloft made Three Point Jumper. Assisted by Paris Lee.
+Illinois State,San Francisco,40,30,21,15,1,Matt Glover made Layup.
+Illinois State,San Francisco,40,30,21,24,0,Foul on Avry Holmes.
+Illinois State,San Francisco,43,30,21,27,1,Daishon Knight made Three Point Jumper. Assisted by Zach Lofton.
+Illinois State,San Francisco,43,30,21,47,0,Mark Tollefsen missed Jumper.
+Illinois State,San Francisco,43,30,21,48,0,Matt Christiansen Offensive Rebound.
+Illinois State,San Francisco,46,30,21,50,1,Paris Lee made Three Point Jumper. Assisted by Daishon Knight.
+Illinois State,San Francisco,46,32,22,4,1,Mark Tollefsen made Jumper.
+Illinois State,San Francisco,46,32,22,18,0,Foul on Tim Derksen.
+Illinois State,San Francisco,46,32,22,23,0,Zach Lofton missed Three Point Jumper.
+Illinois State,San Francisco,46,32,22,23,0,Mark Tollefsen Defensive Rebound.
+Illinois State,San Francisco,46,32,22,34,0,Foul on Paris Lee.
+Illinois State,San Francisco,46,32,22,34,0,Matt Glover missed Free Throw.
+Illinois State,San Francisco,46,32,22,34,0,San Francisco Deadball Team Rebound.
+Illinois State,San Francisco,46,32,22,34,0,Matt Glover missed Free Throw.
+Illinois State,San Francisco,46,32,22,34,0,Daishon Knight Defensive Rebound.
+Illinois State,San Francisco,46,32,22,38,0,Foul on Daishon Knight.
+Illinois State,San Francisco,46,32,22,38,0,Paris Lee Turnover.
+Illinois State,San Francisco,46,32,22,45,0,Chris Adams Turnover.
+Illinois State,San Francisco,46,32,23,0,0,Daishon Knight missed Jumper.
+Illinois State,San Francisco,46,32,23,0,0,Cole Dickerson Defensive Rebound.
+Illinois State,San Francisco,46,32,23,6,0,Matt Glover Turnover.
+Illinois State,San Francisco,46,32,23,18,0,Reggie Lynch Turnover.
+Illinois State,San Francisco,46,32,23,48,0,Bobby Hunter missed Jumper.
+Illinois State,San Francisco,46,32,23,48,0,Cole Dickerson Defensive Rebound.
+Illinois State,San Francisco,46,32,23,51,0,Cole Dickerson missed Three Point Jumper.
+Illinois State,San Francisco,46,32,23,51,0,San Francisco Offensive Rebound.
+Illinois State,San Francisco,46,32,23,55,0,Tim Derksen missed Three Point Jumper.
+Illinois State,San Francisco,46,32,23,55,0,San Francisco Offensive Rebound.
+Illinois State,San Francisco,46,32,24,5,0,Official TV Timeout
+Illinois State,San Francisco,46,34,24,11,1,Kruize Pinkins made Layup.
+Illinois State,San Francisco,46,34,24,11,0,Foul on Reggie Lynch.
+Illinois State,San Francisco,46,34,24,11,0,Kruize Pinkins missed Free Throw.
+Illinois State,San Francisco,46,34,24,11,0,Daishon Knight Defensive Rebound.
+Illinois State,San Francisco,48,34,24,19,1,Reggie Lynch made Layup. Assisted by Daishon Knight.
+Illinois State,San Francisco,48,36,24,42,1,Avry Holmes made Jumper.
+Illinois State,San Francisco,48,36,25,10,0,Kaza Keane Turnover.
+Illinois State,San Francisco,48,36,25,11,0,Corey Hilliard Steal.
+Illinois State,San Francisco,48,36,25,11,0,Foul on Kaza Keane.
+Illinois State,San Francisco,48,36,25,21,0,Avry Holmes missed Three Point Jumper.
+Illinois State,San Francisco,48,36,25,21,0,Bobby Hunter Defensive Rebound.
+Illinois State,San Francisco,51,36,25,29,1,Nick Zeisloft made Three Point Jumper. Assisted by Bobby Hunter.
+Illinois State,San Francisco,51,36,26,7,0,Avry Holmes Turnover.
+Illinois State,San Francisco,51,36,26,11,0,Daishon Knight Steal.
+Illinois State,San Francisco,51,36,26,17,0,Foul on Matt Glover.
+Illinois State,San Francisco,53,36,26,25,1,Reggie Lynch made Layup. Assisted by Bobby Hunter.
+Illinois State,San Francisco,53,36,26,25,0,Foul on Zach Lofton.
+Illinois State,San Francisco,53,36,26,48,0,Avry Holmes missed Three Point Jumper.
+Illinois State,San Francisco,53,36,26,48,0,San Francisco Offensive Rebound.
+Illinois State,San Francisco,53,36,26,50,0,Foul on Nick Zeisloft.
+Illinois State,San Francisco,53,38,27,2,1,Avry Holmes made Jumper.
+Illinois State,San Francisco,53,38,27,16,0,Zach Lofton missed Layup.
+Illinois State,San Francisco,53,38,27,16,0,Matt Glover Defensive Rebound.
+Illinois State,San Francisco,53,40,27,23,1,Mark Tollefsen made Dunk. Assisted by Matt Glover.
+Illinois State,San Francisco,53,40,27,26,0,Illinois St  Timeout
+Illinois State,San Francisco,53,40,27,37,0,Nick Zeisloft missed Three Point Jumper.
+Illinois State,San Francisco,53,40,27,37,0,Kaza Keane Offensive Rebound.
+Illinois State,San Francisco,53,40,27,45,0,Foul on Reggie Lynch.
+Illinois State,San Francisco,53,40,27,45,0,Reggie Lynch Turnover.
+Illinois State,San Francisco,53,42,27,46,1,Tim Derksen made Layup.
+Illinois State,San Francisco,53,42,27,46,0,Foul on Nick Zeisloft.
+Illinois State,San Francisco,53,43,27,46,1,Tim Derksen made Free Throw.
+Illinois State,San Francisco,56,43,28,9,1,Bobby Hunter made Three Point Jumper. Assisted by Zach Lofton.
+Illinois State,San Francisco,56,45,28,21,1,Tim Derksen made Layup.
+Illinois State,San Francisco,56,45,28,40,0,Official TV Timeout
+Illinois State,San Francisco,56,45,28,47,0,Zach Lofton missed Jumper.
+Illinois State,San Francisco,56,45,28,47,0,Kruize Pinkins Block.
+Illinois State,San Francisco,56,45,28,47,0,Illinois St Offensive Rebound.
+Illinois State,San Francisco,59,45,29,0,1,Bobby Hunter made Three Point Jumper. Assisted by Paris Lee.
+Illinois State,San Francisco,59,45,29,11,0,Avry Holmes Turnover.
+Illinois State,San Francisco,59,45,29,13,0,Bobby Hunter Steal.
+Illinois State,San Francisco,61,45,29,22,1,Paris Lee made Layup. Assisted by Bobby Hunter.
+Illinois State,San Francisco,61,45,29,32,0,Avry Holmes missed Jumper.
+Illinois State,San Francisco,61,45,29,32,0,Nick Zeisloft Defensive Rebound.
+Illinois State,San Francisco,64,45,29,37,1,Paris Lee made Three Point Jumper. Assisted by Bobby Hunter.
+Illinois State,San Francisco,64,45,29,48,0,Matt Glover Turnover.
+Illinois State,San Francisco,64,45,29,50,0,John Jones Steal.
+Illinois State,San Francisco,64,45,29,54,0,Zach Lofton missed Layup.
+Illinois State,San Francisco,64,45,29,54,0,Matt Glover Block.
+Illinois State,San Francisco,64,45,29,57,0,Bobby Hunter Offensive Rebound.
+Illinois State,San Francisco,64,45,30,1,0,Bobby Hunter missed Three Point Jumper.
+Illinois State,San Francisco,64,45,30,1,0,San Francisco Defensive Rebound.
+Illinois State,San Francisco,64,47,30,18,1,Mark Tollefsen made Layup.
+Illinois State,San Francisco,64,47,30,30,0,John Jones missed Layup.
+Illinois State,San Francisco,64,47,30,30,0,Cole Dickerson Defensive Rebound.
+Illinois State,San Francisco,64,47,30,39,0,Tim Derksen Turnover.
+Illinois State,San Francisco,64,47,30,43,0,Paris Lee Steal.
+Illinois State,San Francisco,66,47,30,44,1,Paris Lee made Layup.
+Illinois State,San Francisco,66,47,31,2,0,Tim Derksen missed Three Point Jumper.
+Illinois State,San Francisco,66,47,31,2,0,San Francisco Offensive Rebound.
+Illinois State,San Francisco,66,49,31,16,1,Cole Dickerson made Layup. Assisted by Kruize Pinkins.
+Illinois State,San Francisco,66,49,31,41,0,Nick Zeisloft missed Three Point Jumper.
+Illinois State,San Francisco,66,49,31,41,0,Cole Dickerson Defensive Rebound.
+Illinois State,San Francisco,66,49,32,7,0,Chris Adams missed Three Point Jumper.
+Illinois State,San Francisco,66,49,32,7,0,Daishon Knight Defensive Rebound.
+Illinois State,San Francisco,69,49,32,17,1,Nick Zeisloft made Three Point Jumper. Assisted by Daishon Knight.
+Illinois State,San Francisco,69,49,32,39,0,Cole Dickerson missed Three Point Jumper.
+Illinois State,San Francisco,69,49,32,39,0,Reggie Lynch Defensive Rebound.
+Illinois State,San Francisco,71,49,32,58,1,Bobby Hunter made Jumper.
+Illinois State,San Francisco,71,49,32,58,0,Foul on Matt Glover.
+Illinois State,San Francisco,71,49,32,58,0,Official TV Timeout
+Illinois State,San Francisco,72,49,32,58,1,Bobby Hunter made Free Throw.
+Illinois State,San Francisco,72,49,33,4,0,Foul on Daishon Knight.
+Illinois State,San Francisco,72,49,33,4,0,Avry Holmes missed Free Throw.
+Illinois State,San Francisco,72,49,33,4,0,Tony Wills Defensive Rebound.
+Illinois State,San Francisco,72,49,33,27,0,Daishon Knight missed Layup.
+Illinois State,San Francisco,72,49,33,27,0,Reggie Lynch Offensive Rebound.
+Illinois State,San Francisco,72,49,33,31,0,Reggie Lynch missed Two Point Tip Shot.
+Illinois State,San Francisco,72,49,33,31,0,Cole Dickerson Defensive Rebound.
+Illinois State,San Francisco,72,49,33,34,0,Avry Holmes Turnover.
+Illinois State,San Francisco,72,49,33,36,0,Daishon Knight Steal.
+Illinois State,San Francisco,72,49,33,38,0,Illinois St  Timeout
+Illinois State,San Francisco,72,49,34,8,0,Kaza Keane Turnover.
+Illinois State,San Francisco,72,49,34,9,0,Cole Dickerson Steal.
+Illinois State,San Francisco,72,52,34,13,1,Chris Adams made Three Point Jumper. Assisted by Cole Dickerson.
+Illinois State,San Francisco,72,52,34,41,0,Zach Lofton Turnover.
+Illinois State,San Francisco,72,52,34,47,0,Matt Glover missed Jumper.
+Illinois State,San Francisco,72,52,34,47,0,Reggie Lynch Block.
+Illinois State,San Francisco,72,52,34,51,0,Nick Zeisloft Defensive Rebound.
+Illinois State,San Francisco,72,52,34,53,0,Foul on Matt Glover.
+Illinois State,San Francisco,75,52,35,2,1,Daishon Knight made Three Point Jumper. Assisted by Kaza Keane.
+Illinois State,San Francisco,75,52,35,23,0,Cole Dickerson missed Three Point Jumper.
+Illinois State,San Francisco,75,52,35,23,0,Kruize Pinkins Offensive Rebound.
+Illinois State,San Francisco,75,54,35,29,1,Kruize Pinkins made Layup.
+Illinois State,San Francisco,75,54,35,44,0,Daishon Knight missed Three Point Jumper.
+Illinois State,San Francisco,75,54,35,44,0,Cole Dickerson Defensive Rebound.
+Illinois State,San Francisco,75,54,35,57,0,Kruize Pinkins missed Jumper.
+Illinois State,San Francisco,75,54,35,57,0,Reggie Lynch Block.
+Illinois State,San Francisco,75,54,36,1,0,Nick Zeisloft Defensive Rebound.
+Illinois State,San Francisco,78,54,36,29,1,Nick Zeisloft made Three Point Jumper. Assisted by Kaza Keane.
+Illinois State,San Francisco,78,54,36,42,0,Foul on Nick Zeisloft.
+Illinois State,San Francisco,78,55,36,42,1,Matt Glover made Free Throw.
+Illinois State,San Francisco,78,56,36,42,1,Matt Glover made Free Throw.
+Illinois State,San Francisco,78,56,36,51,0,Foul on Matt Glover.
+Illinois State,San Francisco,79,56,36,51,1,Kaza Keane made Free Throw.
+Illinois State,San Francisco,80,56,36,51,1,Kaza Keane made Free Throw.
+Illinois State,San Francisco,80,56,36,56,0,Foul on Paris Lee.
+Illinois State,San Francisco,80,56,36,56,0,Matt Glover missed Free Throw.
+Illinois State,San Francisco,80,56,36,56,0,San Francisco Deadball Team Rebound.
+Illinois State,San Francisco,80,56,36,56,0,Matt Glover missed Free Throw.
+Illinois State,San Francisco,80,56,36,56,0,Matt Glover Offensive Rebound.
+Illinois State,San Francisco,80,58,36,56,1,Matt Glover made Layup.
+Illinois State,San Francisco,82,58,37,30,1,Bobby Hunter made Jumper.
+Illinois State,San Francisco,82,60,37,36,1,Chris Adams made Jumper. Assisted by Matt Glover.
+Illinois State,San Francisco,82,60,37,40,0,San Francisco  Timeout
+Illinois State,San Francisco,82,60,38,2,0,Foul on Cole Dickerson.
+Illinois State,San Francisco,83,60,38,2,1,Bobby Hunter made Free Throw.
+Illinois State,San Francisco,84,60,38,2,1,Bobby Hunter made Free Throw.
+Illinois State,San Francisco,84,60,38,10,0,Mark Tollefsen missed Three Point Jumper.
+Illinois State,San Francisco,84,60,38,10,0,Kruize Pinkins Offensive Rebound.
+Illinois State,San Francisco,84,60,38,14,0,Kruize Pinkins missed Jumper.
+Illinois State,San Francisco,84,60,38,14,0,Kruize Pinkins Offensive Rebound.
+Illinois State,San Francisco,84,60,38,18,0,Kruize Pinkins missed Free Throw.
+Illinois State,San Francisco,84,60,38,18,0,Matt Glover Offensive Rebound.
+Illinois State,San Francisco,84,63,38,19,1,Mark Tollefsen made Three Point Jumper. Assisted by Matt Glover.
+Illinois State,San Francisco,84,63,38,22,0,Foul on John Jones.
+Illinois State,San Francisco,84,63,38,23,0,San Francisco  Timeout
+Illinois State,San Francisco,84,64,38,23,1,Kruize Pinkins made Free Throw.
+Illinois State,San Francisco,84,64,38,36,0,Zach Lofton Turnover.
+Illinois State,San Francisco,84,64,38,37,0,Tim Derksen Steal.
+Illinois State,San Francisco,84,66,38,40,1,Tim Derksen made Layup.
+Illinois State,San Francisco,84,66,38,46,0,Foul on Tim Derksen.
+Illinois State,San Francisco,85,66,38,46,1,Zach Lofton made Free Throw.
+Illinois State,San Francisco,86,66,38,46,1,Zach Lofton made Free Throw.
+Illinois State,San Francisco,86,66,38,47,0,Cole Dickerson missed Three Point Jumper.
+Illinois State,San Francisco,86,66,38,47,0,Matt Glover Offensive Rebound.
+Illinois State,San Francisco,86,66,38,54,0,Matt Glover missed Three Point Jumper.
+Illinois State,San Francisco,86,66,38,54,0,Tim Derksen Offensive Rebound.
+Illinois State,San Francisco,86,68,38,58,1,Tim Derksen made Layup.
+Illinois State,San Francisco,86,68,38,58,0,San Francisco  Timeout
+Illinois State,San Francisco,86,68,39,2,0,Daishon Knight Turnover.
+Illinois State,San Francisco,86,68,39,6,0,Matt Glover Steal.
+Illinois State,San Francisco,86,70,39,7,1,Tim Derksen made Layup.
+Illinois State,San Francisco,86,70,39,9,0,San Francisco  Timeout
+Illinois State,San Francisco,86,70,39,16,0,Foul on Kruize Pinkins.
+Illinois State,San Francisco,87,70,39,16,1,Bobby Hunter made Free Throw.
+Illinois State,San Francisco,88,70,39,16,1,Bobby Hunter made Free Throw.
+Illinois State,San Francisco,88,70,39,21,0,Cole Dickerson missed Three Point Jumper.
+Illinois State,San Francisco,88,70,39,21,0,Kruize Pinkins Offensive Rebound.
+Illinois State,San Francisco,88,72,39,30,1,Kruize Pinkins made Two Point Tip Shot.
+Illinois State,San Francisco,88,72,39,32,0,Daishon Knight Turnover.
+Illinois State,San Francisco,88,72,39,36,0,Foul on Jamaal Samuel.
+Illinois State,San Francisco,88,73,39,36,1,Matt Glover made Free Throw.
+Illinois State,San Francisco,88,73,39,36,0,Matt Glover missed Free Throw.
+Illinois State,San Francisco,88,73,39,36,0,San Francisco Offensive Rebound.
+Illinois State,San Francisco,88,73,39,43,0,Chris Adams missed Three Point Jumper.
+Illinois State,San Francisco,88,73,39,43,0,Daishon Knight Defensive Rebound.
+Illinois State,San Francisco,88,73,39,48,0,Foul on Chris Adams.
+Illinois State,San Francisco,89,73,39,48,1,Daishon Knight made Free Throw.
+Illinois State,San Francisco,90,73,39,48,1,Daishon Knight made Free Throw.
+Illinois State,San Francisco,90,76,39,56,1,Cole Dickerson made Three Point Jumper. Assisted by Matt Glover.
+Illinois State,San Francisco,93,73,40,0,0,End of Game

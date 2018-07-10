@@ -1,0 +1,391 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Georgia Tech,Georgia,0,0,0,25,0,Charles Mann Turnover.
+Georgia Tech,Georgia,0,0,0,26,0,Daniel Miller Steal.
+Georgia Tech,Georgia,0,0,0,30,0,Marcus Georges-Hunt missed Layup.
+Georgia Tech,Georgia,0,0,0,30,0,Cameron Forte Defensive Rebound.
+Georgia Tech,Georgia,0,0,0,40,0,Foul on Charles Mann.
+Georgia Tech,Georgia,0,0,0,40,0,Charles Mann Turnover.
+Georgia Tech,Georgia,0,0,1,2,0,Solomon Poole missed Three Point Jumper.
+Georgia Tech,Georgia,0,0,1,2,0,Cameron Forte Defensive Rebound.
+Georgia Tech,Georgia,0,0,1,15,0,Foul on Marcus Georges-Hunt.
+Georgia Tech,Georgia,0,1,1,15,1,Cameron Forte made Free Throw.
+Georgia Tech,Georgia,0,2,1,15,1,Cameron Forte made Free Throw.
+Georgia Tech,Georgia,0,2,1,30,0,Foul on Nemanja Djurisic.
+Georgia Tech,Georgia,1,2,1,30,1,Marcus Georges-Hunt made Free Throw.
+Georgia Tech,Georgia,2,2,1,30,1,Marcus Georges-Hunt made Free Throw.
+Georgia Tech,Georgia,2,2,1,44,0,Foul on Robert Carter Jr..
+Georgia Tech,Georgia,2,2,2,6,0,Foul on Robert Carter Jr..
+Georgia Tech,Georgia,2,2,2,18,0,J.J. Frazier missed Three Point Jumper.
+Georgia Tech,Georgia,2,2,2,18,0,Kammeon Holsey Defensive Rebound.
+Georgia Tech,Georgia,2,2,2,24,0,Foul on Donte' Williams.
+Georgia Tech,Georgia,3,2,2,24,1,Marcus Georges-Hunt made Free Throw.
+Georgia Tech,Georgia,4,2,2,24,1,Marcus Georges-Hunt made Free Throw.
+Georgia Tech,Georgia,4,2,2,51,0,J.J. Frazier missed Jumper.
+Georgia Tech,Georgia,4,2,2,51,0,Donte' Williams Offensive Rebound.
+Georgia Tech,Georgia,4,4,2,55,1,Donte' Williams made Two Point Tip Shot.
+Georgia Tech,Georgia,4,4,2,59,0,Kammeon Holsey Turnover.
+Georgia Tech,Georgia,4,4,3,11,0,Kenny Gaines missed Three Point Jumper.
+Georgia Tech,Georgia,4,4,3,11,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,4,4,3,21,0,Solomon Poole missed Three Point Jumper.
+Georgia Tech,Georgia,4,4,3,21,0,Kenny Gaines Defensive Rebound.
+Georgia Tech,Georgia,4,4,3,29,0,Kenny Gaines missed Three Point Jumper.
+Georgia Tech,Georgia,4,4,3,29,0,Kammeon Holsey Defensive Rebound.
+Georgia Tech,Georgia,6,4,3,38,1,Trae Golden made Layup.
+Georgia Tech,Georgia,6,4,3,58,0,Tim Dixon Turnover.
+Georgia Tech,Georgia,6,4,3,59,0,Marcus Georges-Hunt Steal.
+Georgia Tech,Georgia,6,4,4,4,0,Marcus Georges-Hunt missed Layup.
+Georgia Tech,Georgia,6,4,4,4,0,Kammeon Holsey Offensive Rebound.
+Georgia Tech,Georgia,8,4,4,7,1,Kammeon Holsey made Two Point Tip Shot.
+Georgia Tech,Georgia,8,6,4,21,1,Cameron Forte made Layup. Assisted by J.J. Frazier.
+Georgia Tech,Georgia,8,6,4,34,0,Trae Golden missed Three Point Jumper.
+Georgia Tech,Georgia,8,6,4,34,0,Cameron Forte Defensive Rebound.
+Georgia Tech,Georgia,8,6,4,42,0,J.J. Frazier missed Three Point Jumper.
+Georgia Tech,Georgia,8,6,4,42,0,Marcus Georges-Hunt Defensive Rebound.
+Georgia Tech,Georgia,10,6,4,51,1,Daniel Miller made Layup. Assisted by Trae Golden.
+Georgia Tech,Georgia,10,6,4,51,0,Foul on Donte' Williams.
+Georgia Tech,Georgia,10,6,4,51,0,Official TV Timeout
+Georgia Tech,Georgia,11,6,4,51,1,Daniel Miller made Free Throw.
+Georgia Tech,Georgia,11,6,5,10,0,Charles Mann missed Jumper.
+Georgia Tech,Georgia,11,6,5,10,0,Stacey Poole Jr. Defensive Rebound.
+Georgia Tech,Georgia,11,6,5,19,0,Kammeon Holsey Turnover.
+Georgia Tech,Georgia,11,6,5,28,0,Marcus Thornton missed Jumper.
+Georgia Tech,Georgia,11,6,5,28,0,Kammeon Holsey Defensive Rebound.
+Georgia Tech,Georgia,11,6,5,38,0,Trae Golden missed Jumper.
+Georgia Tech,Georgia,11,6,5,38,0,Marcus Thornton Defensive Rebound.
+Georgia Tech,Georgia,11,6,5,48,0,Charles Mann missed Jumper.
+Georgia Tech,Georgia,11,6,5,48,0,Kammeon Holsey Defensive Rebound.
+Georgia Tech,Georgia,11,6,6,0,0,Foul on Tim Dixon.
+Georgia Tech,Georgia,11,6,6,17,0,Quinton Stephens missed Jumper.
+Georgia Tech,Georgia,11,6,6,17,0,Quinton Stephens Offensive Rebound.
+Georgia Tech,Georgia,11,6,6,18,0,Quinton Stephens missed Two Point Tip Shot.
+Georgia Tech,Georgia,11,6,6,18,0,Kammeon Holsey Offensive Rebound.
+Georgia Tech,Georgia,11,6,6,24,0,Stacey Poole Jr. missed Layup.
+Georgia Tech,Georgia,11,6,6,24,0,Quinton Stephens Offensive Rebound.
+Georgia Tech,Georgia,11,6,6,27,0,Quinton Stephens missed Two Point Tip Shot.
+Georgia Tech,Georgia,11,6,6,27,0,John Cannon Block.
+Georgia Tech,Georgia,11,6,6,30,0,Georgia Defensive Rebound.
+Georgia Tech,Georgia,11,8,6,50,1,Nemanja Djurisic made Layup. Assisted by Marcus Thornton.
+Georgia Tech,Georgia,11,8,6,50,0,Foul on Quinton Stephens.
+Georgia Tech,Georgia,11,9,6,50,1,Nemanja Djurisic made Free Throw.
+Georgia Tech,Georgia,11,9,6,58,0,Stacey Poole Jr. missed Jumper.
+Georgia Tech,Georgia,11,9,6,58,0,Daniel Miller Offensive Rebound.
+Georgia Tech,Georgia,13,9,7,1,1,Daniel Miller made Two Point Tip Shot.
+Georgia Tech,Georgia,13,12,7,12,1,Charles Mann made Three Point Jumper. Assisted by Juwan Parker.
+Georgia Tech,Georgia,13,12,7,38,0,Kammeon Holsey missed Jumper.
+Georgia Tech,Georgia,13,12,7,38,0,Cameron Forte Defensive Rebound.
+Georgia Tech,Georgia,13,12,8,2,0,Charles Mann Turnover.
+Georgia Tech,Georgia,13,12,8,4,0,Corey Heyward Steal.
+Georgia Tech,Georgia,13,12,8,7,0,Travis Jorgenson missed Jumper.
+Georgia Tech,Georgia,13,12,8,7,0,Kammeon Holsey Offensive Rebound.
+Georgia Tech,Georgia,15,12,8,13,1,Kammeon Holsey made Two Point Tip Shot.
+Georgia Tech,Georgia,15,14,8,28,1,Charles Mann made Layup.
+Georgia Tech,Georgia,18,14,8,56,1,Stacey Poole Jr. made Three Point Jumper. Assisted by Corey Heyward.
+Georgia Tech,Georgia,18,14,9,5,0,Cameron Forte missed Jumper.
+Georgia Tech,Georgia,18,14,9,5,0,Kammeon Holsey Defensive Rebound.
+Georgia Tech,Georgia,18,14,9,12,0,Travis Jorgenson Turnover.
+Georgia Tech,Georgia,18,14,9,12,0,Official TV Timeout
+Georgia Tech,Georgia,18,17,9,24,1,Charles Mann made Three Point Jumper. Assisted by Cameron Forte.
+Georgia Tech,Georgia,18,17,9,34,0,Quinton Stephens Turnover.
+Georgia Tech,Georgia,18,17,9,51,0,Marcus Thornton missed Layup.
+Georgia Tech,Georgia,18,17,9,51,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,18,17,10,3,0,Trae Golden missed Layup.
+Georgia Tech,Georgia,18,17,10,3,0,Nemanja Djurisic Defensive Rebound.
+Georgia Tech,Georgia,18,17,10,7,0,Cameron Forte missed Jumper.
+Georgia Tech,Georgia,18,17,10,12,0,Charles Mann Offensive Rebound.
+Georgia Tech,Georgia,18,19,10,16,1,Nemanja Djurisic made Layup. Assisted by Marcus Thornton.
+Georgia Tech,Georgia,20,19,10,32,1,Quinton Stephens made Jumper. Assisted by Marcus Georges-Hunt.
+Georgia Tech,Georgia,20,19,10,47,0,Marcus Thornton missed Jumper.
+Georgia Tech,Georgia,20,19,10,47,0,Quinton Stephens Defensive Rebound.
+Georgia Tech,Georgia,22,19,10,56,1,Quinton Stephens made Layup. Assisted by Solomon Poole.
+Georgia Tech,Georgia,22,19,10,56,0,Foul on Kenny Gaines.
+Georgia Tech,Georgia,23,19,10,57,1,Quinton Stephens made Free Throw.
+Georgia Tech,Georgia,23,19,11,12,0,Foul on Corey Heyward.
+Georgia Tech,Georgia,23,19,11,12,0,Marcus Thornton missed Free Throw.
+Georgia Tech,Georgia,23,19,11,12,0,Georgia Deadball Team Rebound.
+Georgia Tech,Georgia,23,20,11,12,1,Marcus Thornton made Free Throw.
+Georgia Tech,Georgia,23,20,11,32,0,Corey Heyward missed Jumper.
+Georgia Tech,Georgia,23,20,11,32,0,Marcus Thornton Block.
+Georgia Tech,Georgia,23,20,11,34,0,Cameron Forte Defensive Rebound.
+Georgia Tech,Georgia,23,20,11,50,0,Cameron Forte Turnover.
+Georgia Tech,Georgia,23,20,11,51,0,Corey Heyward Steal.
+Georgia Tech,Georgia,23,20,11,59,0,Marcus Georges-Hunt missed Three Point Jumper.
+Georgia Tech,Georgia,23,20,11,59,0,Nemanja Djurisic Defensive Rebound.
+Georgia Tech,Georgia,23,20,12,1,0,Foul on Kammeon Holsey.
+Georgia Tech,Georgia,23,20,12,1,0,Official TV Timeout
+Georgia Tech,Georgia,23,20,12,15,0,Juwan Parker missed Three Point Jumper.
+Georgia Tech,Georgia,23,20,12,15,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,23,20,12,23,0,Foul on Nemanja Djurisic.
+Georgia Tech,Georgia,24,20,12,23,1,Trae Golden made Free Throw.
+Georgia Tech,Georgia,25,20,12,23,1,Trae Golden made Free Throw.
+Georgia Tech,Georgia,25,20,12,37,0,Tim Dixon Turnover.
+Georgia Tech,Georgia,25,20,12,56,0,Marcus Georges-Hunt Turnover.
+Georgia Tech,Georgia,25,22,13,7,1,Cameron Forte made Layup.
+Georgia Tech,Georgia,27,22,13,25,1,Trae Golden made Layup.
+Georgia Tech,Georgia,27,24,13,37,1,Cameron Forte made Jumper.
+Georgia Tech,Georgia,27,24,13,43,0,Foul on J.J. Frazier.
+Georgia Tech,Georgia,27,24,13,43,0,Trae Golden missed Free Throw.
+Georgia Tech,Georgia,27,24,13,43,0,Georgia Tech Deadball Team Rebound.
+Georgia Tech,Georgia,28,24,13,43,1,Trae Golden made Free Throw.
+Georgia Tech,Georgia,28,27,13,55,1,J.J. Frazier made Three Point Jumper.
+Georgia Tech,Georgia,28,27,14,14,0,Kammeon Holsey missed Layup.
+Georgia Tech,Georgia,28,27,14,14,0,Kammeon Holsey Offensive Rebound.
+Georgia Tech,Georgia,28,27,14,17,0,Kammeon Holsey missed Two Point Tip Shot.
+Georgia Tech,Georgia,28,27,14,17,0,Tim Dixon Defensive Rebound.
+Georgia Tech,Georgia,28,29,14,26,1,Juwan Parker made Jumper.
+Georgia Tech,Georgia,28,29,14,54,0,Quinton Stephens missed Jumper.
+Georgia Tech,Georgia,28,29,14,54,0,Quinton Stephens Offensive Rebound.
+Georgia Tech,Georgia,30,29,15,1,1,Quinton Stephens made Two Point Tip Shot.
+Georgia Tech,Georgia,30,29,15,1,0,Foul on Stacey Poole Jr..
+Georgia Tech,Georgia,30,30,15,1,1,Kenny Gaines made Free Throw.
+Georgia Tech,Georgia,30,31,15,1,1,Kenny Gaines made Free Throw.
+Georgia Tech,Georgia,30,31,15,34,0,Travis Jorgenson missed Jumper.
+Georgia Tech,Georgia,30,31,15,34,0,John Cannon Defensive Rebound.
+Georgia Tech,Georgia,30,33,15,49,1,Juwan Parker made Jumper.
+Georgia Tech,Georgia,30,33,16,19,0,Quinton Stephens missed Jumper.
+Georgia Tech,Georgia,30,33,16,19,0,Juwan Parker Defensive Rebound.
+Georgia Tech,Georgia,30,33,16,29,0,Juwan Parker missed Three Point Jumper.
+Georgia Tech,Georgia,30,33,16,29,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,30,33,16,35,0,Georgia Tech  Timeout
+Georgia Tech,Georgia,30,33,16,50,0,Foul on John Cannon.
+Georgia Tech,Georgia,30,33,16,50,0,Official TV Timeout
+Georgia Tech,Georgia,31,33,16,50,1,Trae Golden made Free Throw.
+Georgia Tech,Georgia,32,33,16,50,1,Trae Golden made Free Throw.
+Georgia Tech,Georgia,32,33,17,3,0,Cameron Forte missed Layup.
+Georgia Tech,Georgia,32,33,17,3,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,32,33,17,13,0,Marcus Georges-Hunt missed Layup.
+Georgia Tech,Georgia,32,33,17,13,0,Cameron Forte Block.
+Georgia Tech,Georgia,32,33,17,15,0,Kammeon Holsey Offensive Rebound.
+Georgia Tech,Georgia,34,33,17,17,1,Kammeon Holsey made Two Point Tip Shot.
+Georgia Tech,Georgia,34,35,17,42,1,Charles Mann made Layup.
+Georgia Tech,Georgia,37,35,18,4,1,Trae Golden made Three Point Jumper.
+Georgia Tech,Georgia,37,35,18,22,0,Cameron Forte missed Jumper.
+Georgia Tech,Georgia,37,35,18,22,0,Marcus Georges-Hunt Block.
+Georgia Tech,Georgia,37,35,18,25,0,Marcus Georges-Hunt Defensive Rebound.
+Georgia Tech,Georgia,37,35,18,26,0,Georgia  Timeout
+Georgia Tech,Georgia,39,35,18,26,1,Travis Jorgenson made Layup.
+Georgia Tech,Georgia,39,35,18,26,0,Foul on Kammeon Holsey.
+Georgia Tech,Georgia,39,36,18,26,1,Charles Mann made Free Throw.
+Georgia Tech,Georgia,39,36,18,26,0,Charles Mann missed Free Throw.
+Georgia Tech,Georgia,39,36,18,26,0,Marcus Georges-Hunt Defensive Rebound.
+Georgia Tech,Georgia,39,36,18,28,0,Travis Jorgenson Turnover.
+Georgia Tech,Georgia,39,36,18,29,0,Charles Mann Steal.
+Georgia Tech,Georgia,39,36,18,32,0,Charles Mann Turnover.
+Georgia Tech,Georgia,41,36,18,45,1,Daniel Miller made Dunk. Assisted by Travis Jorgenson.
+Georgia Tech,Georgia,41,36,19,3,0,Kenny Gaines Turnover.
+Georgia Tech,Georgia,41,36,19,4,0,Travis Jorgenson Steal.
+Georgia Tech,Georgia,43,36,19,5,1,Travis Jorgenson made Layup.
+Georgia Tech,Georgia,43,38,19,25,1,Marcus Thornton made Layup. Assisted by Juwan Parker.
+Georgia Tech,Georgia,43,38,19,54,0,Trae Golden missed Three Point Jumper.
+Georgia Tech,Georgia,43,38,19,54,0,Kenny Gaines Defensive Rebound.
+Georgia Tech,Georgia,43,38,20,0,0,End of 1st half
+Georgia Tech,Georgia,43,38,20,13,0,Trae Golden Turnover.
+Georgia Tech,Georgia,43,38,20,13,0,Nemanja Djurisic Steal.
+Georgia Tech,Georgia,43,38,20,17,0,Foul on Trae Golden.
+Georgia Tech,Georgia,43,39,20,17,1,Nemanja Djurisic made Free Throw.
+Georgia Tech,Georgia,43,40,20,17,1,Nemanja Djurisic made Free Throw.
+Georgia Tech,Georgia,43,40,20,25,0,Solomon Poole Turnover.
+Georgia Tech,Georgia,43,40,20,26,0,Nemanja Djurisic Steal.
+Georgia Tech,Georgia,43,40,20,33,0,Donte' Williams missed Jumper.
+Georgia Tech,Georgia,43,40,20,33,0,Trae Golden Defensive Rebound.
+Georgia Tech,Georgia,45,40,20,42,1,Daniel Miller made Dunk. Assisted by Robert Carter Jr..
+Georgia Tech,Georgia,45,40,20,58,0,Nemanja Djurisic missed Three Point Jumper.
+Georgia Tech,Georgia,45,40,20,58,0,Robert Carter Jr. Defensive Rebound.
+Georgia Tech,Georgia,45,40,21,0,0,Foul on Charles Mann.
+Georgia Tech,Georgia,47,40,21,16,1,Solomon Poole made Jumper.
+Georgia Tech,Georgia,47,40,21,23,0,Kenny Gaines missed Layup.
+Georgia Tech,Georgia,47,40,21,23,0,Robert Carter Jr. Block.
+Georgia Tech,Georgia,47,40,21,24,0,Robert Carter Jr. Defensive Rebound.
+Georgia Tech,Georgia,47,40,21,28,0,Marcus Georges-Hunt missed Layup.
+Georgia Tech,Georgia,47,40,21,28,0,Robert Carter Jr. Offensive Rebound.
+Georgia Tech,Georgia,47,40,21,33,0,Robert Carter Jr. Turnover.
+Georgia Tech,Georgia,47,40,21,34,0,Charles Mann Steal.
+Georgia Tech,Georgia,47,40,21,36,0,Foul on Marcus Georges-Hunt.
+Georgia Tech,Georgia,47,40,21,36,0,Cameron Forte missed Free Throw.
+Georgia Tech,Georgia,47,40,21,36,0,Georgia Deadball Team Rebound.
+Georgia Tech,Georgia,47,40,21,36,0,Cameron Forte missed Free Throw.
+Georgia Tech,Georgia,47,40,21,36,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,49,40,21,55,1,Marcus Georges-Hunt made Layup.
+Georgia Tech,Georgia,49,40,22,2,0,Foul on Daniel Miller.
+Georgia Tech,Georgia,49,40,22,2,0,Georgia Deadball Team Rebound.
+Georgia Tech,Georgia,49,40,22,2,0,Cameron Forte missed Free Throw.
+Georgia Tech,Georgia,49,40,22,2,0,Robert Carter Jr. Defensive Rebound.
+Georgia Tech,Georgia,49,40,22,2,0,Cameron Forte missed Free Throw.
+Georgia Tech,Georgia,49,40,22,16,0,Daniel Miller missed Jumper.
+Georgia Tech,Georgia,49,40,22,16,0,Donte' Williams Defensive Rebound.
+Georgia Tech,Georgia,49,40,22,21,0,Charles Mann Turnover.
+Georgia Tech,Georgia,52,40,22,36,1,Solomon Poole made Three Point Jumper.
+Georgia Tech,Georgia,52,40,23,6,0,Nemanja Djurisic missed Three Point Jumper.
+Georgia Tech,Georgia,52,40,23,6,0,Solomon Poole Defensive Rebound.
+Georgia Tech,Georgia,55,40,23,14,1,Trae Golden made Three Point Jumper. Assisted by Solomon Poole.
+Georgia Tech,Georgia,55,40,23,17,0,Georgia  Timeout
+Georgia Tech,Georgia,55,40,23,29,0,Charles Mann missed Jumper.
+Georgia Tech,Georgia,55,40,23,29,0,Robert Carter Jr. Defensive Rebound.
+Georgia Tech,Georgia,55,40,23,42,0,Robert Carter Jr. missed Three Point Jumper.
+Georgia Tech,Georgia,55,40,23,42,0,Juwan Parker Defensive Rebound.
+Georgia Tech,Georgia,55,40,23,58,0,Juwan Parker missed Three Point Jumper.
+Georgia Tech,Georgia,55,40,23,58,0,Donte' Williams Offensive Rebound.
+Georgia Tech,Georgia,55,43,24,18,1,Charles Mann made Three Point Jumper. Assisted by Juwan Parker.
+Georgia Tech,Georgia,55,43,24,25,0,Solomon Poole missed Three Point Jumper.
+Georgia Tech,Georgia,55,43,24,25,0,Juwan Parker Defensive Rebound.
+Georgia Tech,Georgia,55,43,24,33,0,Foul on Trae Golden.
+Georgia Tech,Georgia,55,43,24,33,0,Official TV Timeout
+Georgia Tech,Georgia,55,43,24,34,0,Charles Mann Turnover.
+Georgia Tech,Georgia,55,43,25,1,0,Marcus Georges-Hunt Turnover.
+Georgia Tech,Georgia,55,46,25,29,1,Charles Mann made Three Point Jumper.
+Georgia Tech,Georgia,55,46,26,0,0,Travis Jorgenson missed Jumper.
+Georgia Tech,Georgia,55,46,26,0,0,Kammeon Holsey Offensive Rebound.
+Georgia Tech,Georgia,57,46,26,3,1,Kammeon Holsey made Two Point Tip Shot.
+Georgia Tech,Georgia,57,46,26,3,0,Foul on Juwan Parker.
+Georgia Tech,Georgia,58,46,26,3,1,Kammeon Holsey made Free Throw.
+Georgia Tech,Georgia,58,46,26,14,0,Foul on Stacey Poole Jr..
+Georgia Tech,Georgia,58,46,26,27,0,Kenny Gaines missed Three Point Jumper.
+Georgia Tech,Georgia,58,46,26,27,0,Robert Carter Jr. Defensive Rebound.
+Georgia Tech,Georgia,58,46,26,46,0,Foul on Donte' Williams.
+Georgia Tech,Georgia,60,46,26,54,1,Stacey Poole Jr. made Layup.
+Georgia Tech,Georgia,60,46,27,13,0,J.J. Frazier missed Jumper.
+Georgia Tech,Georgia,60,46,27,13,0,Travis Jorgenson Defensive Rebound.
+Georgia Tech,Georgia,60,46,27,18,0,Stacey Poole Jr. missed Jumper.
+Georgia Tech,Georgia,60,46,27,18,0,Kenny Gaines Block.
+Georgia Tech,Georgia,60,46,27,18,0,Georgia Tech Offensive Rebound.
+Georgia Tech,Georgia,60,46,27,20,0,Travis Jorgenson Turnover.
+Georgia Tech,Georgia,60,46,27,33,0,Kenny Paul Geno missed Three Point Jumper.
+Georgia Tech,Georgia,60,46,27,33,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,60,46,27,41,0,Foul on J.J. Frazier.
+Georgia Tech,Georgia,60,46,27,47,0,Robert Carter Jr. missed Jumper.
+Georgia Tech,Georgia,60,46,27,47,0,Charles Mann Defensive Rebound.
+Georgia Tech,Georgia,60,49,27,55,1,Kenny Gaines made Three Point Jumper. Assisted by Charles Mann.
+Georgia Tech,Georgia,60,49,28,4,0,Robert Carter Jr. missed Three Point Jumper.
+Georgia Tech,Georgia,60,49,28,4,0,Juwan Parker Defensive Rebound.
+Georgia Tech,Georgia,60,49,28,17,0,Juwan Parker missed Layup.
+Georgia Tech,Georgia,60,49,28,17,0,Robert Carter Jr. Block.
+Georgia Tech,Georgia,60,49,28,19,0,Kenny Gaines Offensive Rebound.
+Georgia Tech,Georgia,60,49,28,20,0,Foul on Robert Carter Jr..
+Georgia Tech,Georgia,60,49,28,20,0,Official TV Timeout
+Georgia Tech,Georgia,60,50,28,20,1,Kenny Gaines made Free Throw.
+Georgia Tech,Georgia,60,51,28,20,1,Kenny Gaines made Free Throw.
+Georgia Tech,Georgia,60,51,28,45,0,Kammeon Holsey missed Jumper.
+Georgia Tech,Georgia,60,51,28,45,0,Marcus Thornton Defensive Rebound.
+Georgia Tech,Georgia,60,51,28,58,0,Juwan Parker missed Jumper.
+Georgia Tech,Georgia,60,51,28,58,0,Marcus Georges-Hunt Defensive Rebound.
+Georgia Tech,Georgia,60,51,29,6,0,Trae Golden missed Three Point Jumper.
+Georgia Tech,Georgia,60,51,29,6,0,Daniel Miller Offensive Rebound.
+Georgia Tech,Georgia,62,51,29,10,1,Daniel Miller made Two Point Tip Shot.
+Georgia Tech,Georgia,62,51,29,27,0,Foul on Daniel Miller.
+Georgia Tech,Georgia,62,51,29,27,0,Charles Mann missed Free Throw.
+Georgia Tech,Georgia,62,51,29,27,0,Georgia Deadball Team Rebound.
+Georgia Tech,Georgia,62,52,29,27,1,Charles Mann made Free Throw.
+Georgia Tech,Georgia,62,52,29,39,0,Foul on Kenny Gaines.
+Georgia Tech,Georgia,62,52,29,40,0,Foul on Donte' Williams.
+Georgia Tech,Georgia,63,52,29,40,1,Daniel Miller made Free Throw.
+Georgia Tech,Georgia,63,52,29,40,0,Daniel Miller missed Free Throw.
+Georgia Tech,Georgia,63,52,29,40,0,Kenny Gaines Defensive Rebound.
+Georgia Tech,Georgia,63,52,29,49,0,Charles Mann Turnover.
+Georgia Tech,Georgia,63,52,29,50,0,Marcus Georges-Hunt Steal.
+Georgia Tech,Georgia,63,52,29,54,0,Daniel Miller missed Layup.
+Georgia Tech,Georgia,63,52,29,54,0,Nemanja Djurisic Defensive Rebound.
+Georgia Tech,Georgia,63,52,29,55,0,Foul on Marcus Georges-Hunt.
+Georgia Tech,Georgia,63,52,29,55,0,Nemanja Djurisic missed Free Throw.
+Georgia Tech,Georgia,63,52,29,55,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,65,52,30,1,1,Marcus Georges-Hunt made Layup.
+Georgia Tech,Georgia,65,52,30,9,0,Georgia  Timeout
+Georgia Tech,Georgia,65,52,30,31,0,Foul on Kammeon Holsey.
+Georgia Tech,Georgia,65,53,30,31,1,Charles Mann made Free Throw.
+Georgia Tech,Georgia,65,54,30,31,1,Charles Mann made Free Throw.
+Georgia Tech,Georgia,65,54,30,46,0,Foul on Cameron Forte.
+Georgia Tech,Georgia,66,54,30,46,1,Marcus Georges-Hunt made Free Throw.
+Georgia Tech,Georgia,67,54,30,46,1,Marcus Georges-Hunt made Free Throw.
+Georgia Tech,Georgia,67,56,30,54,1,Kenny Gaines made Jumper.
+Georgia Tech,Georgia,69,56,31,27,1,Robert Carter Jr. made Jumper.
+Georgia Tech,Georgia,69,56,31,38,0,Charles Mann missed Jumper.
+Georgia Tech,Georgia,69,56,31,38,0,Kammeon Holsey Defensive Rebound.
+Georgia Tech,Georgia,69,56,31,43,0,Corey Heyward missed Layup.
+Georgia Tech,Georgia,69,56,31,43,0,John Cannon Block.
+Georgia Tech,Georgia,69,56,31,43,0,Georgia Tech Offensive Rebound.
+Georgia Tech,Georgia,69,56,31,45,0,Foul on John Cannon.
+Georgia Tech,Georgia,70,56,31,45,1,Kammeon Holsey made Free Throw.
+Georgia Tech,Georgia,70,56,31,45,0,Kammeon Holsey missed Free Throw.
+Georgia Tech,Georgia,70,56,31,45,0,Juwan Parker Defensive Rebound.
+Georgia Tech,Georgia,70,56,31,55,0,Foul on Kammeon Holsey.
+Georgia Tech,Georgia,70,57,31,55,1,Kenny Gaines made Free Throw.
+Georgia Tech,Georgia,70,58,31,55,1,Kenny Gaines made Free Throw.
+Georgia Tech,Georgia,70,58,32,27,0,Solomon Poole missed Three Point Jumper.
+Georgia Tech,Georgia,70,58,32,27,0,Daniel Miller Offensive Rebound.
+Georgia Tech,Georgia,70,58,32,50,0,Daniel Miller missed Jumper.
+Georgia Tech,Georgia,70,58,32,50,0,Juwan Parker Defensive Rebound.
+Georgia Tech,Georgia,70,58,32,57,0,Foul on Trae Golden.
+Georgia Tech,Georgia,70,58,32,57,0,Official TV Timeout
+Georgia Tech,Georgia,70,59,32,57,1,Juwan Parker made Free Throw.
+Georgia Tech,Georgia,70,59,32,57,0,Juwan Parker missed Free Throw.
+Georgia Tech,Georgia,70,59,32,57,0,Robert Carter Jr. Defensive Rebound.
+Georgia Tech,Georgia,72,59,33,24,1,Daniel Miller made Jumper. Assisted by Robert Carter Jr..
+Georgia Tech,Georgia,72,61,33,57,1,John Cannon made Jumper. Assisted by Charles Mann.
+Georgia Tech,Georgia,72,61,34,17,0,Marcus Georges-Hunt missed Jumper.
+Georgia Tech,Georgia,72,61,34,17,0,John Cannon Defensive Rebound.
+Georgia Tech,Georgia,72,61,34,30,0,Kenny Gaines missed Jumper.
+Georgia Tech,Georgia,72,61,34,30,0,Robert Carter Jr. Defensive Rebound.
+Georgia Tech,Georgia,72,61,34,42,0,Trae Golden missed Layup.
+Georgia Tech,Georgia,72,61,34,42,0,John Cannon Block.
+Georgia Tech,Georgia,72,61,34,44,0,Tim Dixon Defensive Rebound.
+Georgia Tech,Georgia,72,61,34,48,0,Tim Dixon Turnover.
+Georgia Tech,Georgia,72,61,34,49,0,Robert Carter Jr. Steal.
+Georgia Tech,Georgia,72,61,34,55,0,Georgia Tech  Timeout
+Georgia Tech,Georgia,72,61,35,12,0,Foul on Marcus Thornton.
+Georgia Tech,Georgia,73,61,35,12,1,Trae Golden made Free Throw.
+Georgia Tech,Georgia,74,61,35,12,1,Trae Golden made Free Throw.
+Georgia Tech,Georgia,74,61,35,26,0,Juwan Parker missed Three Point Jumper.
+Georgia Tech,Georgia,74,61,35,26,0,Travis Jorgenson Defensive Rebound.
+Georgia Tech,Georgia,74,61,35,52,0,Foul on J.J. Frazier.
+Georgia Tech,Georgia,74,61,35,52,0,Robert Carter Jr. missed Free Throw.
+Georgia Tech,Georgia,74,61,35,52,0,Georgia Tech Deadball Team Rebound.
+Georgia Tech,Georgia,75,61,35,52,1,Robert Carter Jr. made Free Throw.
+Georgia Tech,Georgia,75,63,36,5,1,Charles Mann made Jumper.
+Georgia Tech,Georgia,75,63,36,5,0,Foul on Daniel Miller.
+Georgia Tech,Georgia,75,63,36,5,0,Official TV Timeout
+Georgia Tech,Georgia,75,63,36,5,0,Charles Mann missed Free Throw.
+Georgia Tech,Georgia,75,63,36,5,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,75,63,36,39,0,Foul on Kenny Gaines.
+Georgia Tech,Georgia,76,63,36,39,1,Travis Jorgenson made Free Throw.
+Georgia Tech,Georgia,76,63,36,39,0,Travis Jorgenson missed Free Throw.
+Georgia Tech,Georgia,76,63,36,39,0,Kenny Gaines Defensive Rebound.
+Georgia Tech,Georgia,76,63,36,59,0,Donte' Williams Turnover.
+Georgia Tech,Georgia,76,63,37,1,0,Robert Carter Jr. Steal.
+Georgia Tech,Georgia,76,63,37,21,0,Robert Carter Jr. missed Jumper.
+Georgia Tech,Georgia,76,63,37,21,0,Donte' Williams Block.
+Georgia Tech,Georgia,76,63,37,23,0,Charles Mann Defensive Rebound.
+Georgia Tech,Georgia,76,63,37,27,0,Marcus Thornton missed Layup.
+Georgia Tech,Georgia,76,63,37,27,0,Marcus Thornton Offensive Rebound.
+Georgia Tech,Georgia,76,63,37,39,0,Nemanja Djurisic missed Layup.
+Georgia Tech,Georgia,76,63,37,40,0,Robert Carter Jr. Block.
+Georgia Tech,Georgia,76,63,37,40,0,Georgia Offensive Rebound.
+Georgia Tech,Georgia,76,63,37,43,0,Kenny Gaines missed Three Point Jumper.
+Georgia Tech,Georgia,76,63,37,43,0,Daniel Miller Defensive Rebound.
+Georgia Tech,Georgia,76,63,37,55,0,Foul on Marcus Thornton.
+Georgia Tech,Georgia,77,63,37,56,1,Marcus Georges-Hunt made Free Throw.
+Georgia Tech,Georgia,77,63,37,57,0,Marcus Georges-Hunt missed Free Throw.
+Georgia Tech,Georgia,77,63,37,58,0,Marcus Thornton Defensive Rebound.
+Georgia Tech,Georgia,77,63,38,19,0,Kenny Gaines missed Three Point Jumper.
+Georgia Tech,Georgia,77,63,38,19,0,Trae Golden Defensive Rebound.
+Georgia Tech,Georgia,77,63,38,35,0,Foul on Kenny Gaines.
+Georgia Tech,Georgia,78,63,38,35,1,Trae Golden made Free Throw.
+Georgia Tech,Georgia,78,63,38,35,0,Trae Golden missed Free Throw.
+Georgia Tech,Georgia,78,63,38,35,0,Donte' Williams Defensive Rebound.
+Georgia Tech,Georgia,78,63,38,46,0,Nemanja Djurisic missed Jumper.
+Georgia Tech,Georgia,78,63,38,46,0,Marcus Thornton Offensive Rebound.
+Georgia Tech,Georgia,78,63,38,48,0,Marcus Thornton missed Two Point Tip Shot.
+Georgia Tech,Georgia,78,63,38,48,0,Kenny Gaines Offensive Rebound.
+Georgia Tech,Georgia,78,65,38,50,1,Kenny Gaines made Two Point Tip Shot.
+Georgia Tech,Georgia,78,65,38,50,0,Georgia  Timeout
+Georgia Tech,Georgia,78,65,39,7,0,Marcus Georges-Hunt Turnover.
+Georgia Tech,Georgia,78,65,39,12,0,Charles Mann missed Jumper.
+Georgia Tech,Georgia,78,65,39,12,0,Donte' Williams Offensive Rebound.
+Georgia Tech,Georgia,78,67,39,16,1,Donte' Williams made Two Point Tip Shot.
+Georgia Tech,Georgia,78,67,39,16,0,Foul on Charles Mann.
+Georgia Tech,Georgia,79,67,39,16,1,Travis Jorgenson made Free Throw.
+Georgia Tech,Georgia,80,67,39,16,1,Travis Jorgenson made Free Throw.
+Georgia Tech,Georgia,80,67,39,20,0,Foul on Robert Carter Jr..
+Georgia Tech,Georgia,80,68,39,20,1,Charles Mann made Free Throw.
+Georgia Tech,Georgia,80,69,39,20,1,Charles Mann made Free Throw.
+Georgia Tech,Georgia,80,69,39,49,0,Trae Golden missed Jumper.
+Georgia Tech,Georgia,80,69,39,49,0,Marcus Thornton Defensive Rebound.
+Georgia Tech,Georgia,80,71,39,55,1,Nemanja Djurisic made Layup. Assisted by Charles Mann.
+Georgia Tech,Georgia,80,71,40,0,0,End of Game

@@ -1,0 +1,401 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+VMI,George Washington,0,0,0,30,0,Joe McDonald missed Jumper.
+VMI,George Washington,0,0,0,30,0,Julian Eleby Defensive Rebound.
+VMI,George Washington,2,0,0,45,1,Tim Marshall made Layup.
+VMI,George Washington,2,2,0,56,1,Patricio Garino made Layup.
+VMI,George Washington,2,2,0,57,0,Foul on Jarid Watson.
+VMI,George Washington,2,3,0,57,1,Patricio Garino made Free Throw.
+VMI,George Washington,2,3,1,8,0,Tim Marshall Turnover.
+VMI,George Washington,2,3,1,24,0,Kevin Larsen missed Jumper.
+VMI,George Washington,2,3,1,24,0,Brian Brown Defensive Rebound.
+VMI,George Washington,2,3,1,35,0,Brian Brown Turnover.
+VMI,George Washington,2,3,1,44,0,Kevin Larsen missed Layup.
+VMI,George Washington,2,3,1,44,0,Jarid Watson Block.
+VMI,George Washington,2,3,1,45,0,Jarid Watson Defensive Rebound.
+VMI,George Washington,2,3,1,50,0,Brian Brown missed Three Point Jumper.
+VMI,George Washington,2,3,1,50,0,Patricio Garino Defensive Rebound.
+VMI,George Washington,2,3,1,59,0,Foul on Julian Eleby.
+VMI,George Washington,2,4,1,59,1,Kethan Savage made Free Throw.
+VMI,George Washington,2,5,1,59,1,Kethan Savage made Free Throw.
+VMI,George Washington,2,5,2,2,0,QJ Peterson Turnover.
+VMI,George Washington,2,5,2,3,0,Joe McDonald Steal.
+VMI,George Washington,2,5,2,5,0,Patricio Garino missed Layup.
+VMI,George Washington,2,5,2,5,0,Kevin Larsen Offensive Rebound.
+VMI,George Washington,2,7,2,8,1,Kevin Larsen made Layup.
+VMI,George Washington,2,7,2,13,0,Craig Hinton missed Three Point Jumper.
+VMI,George Washington,2,7,2,13,0,VMI Offensive Rebound.
+VMI,George Washington,2,7,2,32,0,Foul on Jordan Weethee.
+VMI,George Washington,2,7,2,32,0,Jordan Weethee Turnover.
+VMI,George Washington,2,7,2,39,0,Joe McDonald missed Jumper.
+VMI,George Washington,2,7,2,39,0,Trey Chapman Defensive Rebound.
+VMI,George Washington,2,7,2,44,0,Christian Burton missed Three Point Jumper.
+VMI,George Washington,2,7,2,44,0,Phillip Anglade Offensive Rebound.
+VMI,George Washington,2,7,2,48,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,2,7,2,48,0,Patricio Garino Defensive Rebound.
+VMI,George Washington,2,7,3,1,0,John Kopriva missed Jumper.
+VMI,George Washington,2,7,3,1,0,Phillip Anglade Block.
+VMI,George Washington,2,7,3,2,0,Kevin Larsen Offensive Rebound.
+VMI,George Washington,2,9,3,6,1,Kevin Larsen made Two Point Tip Shot.
+VMI,George Washington,2,9,3,10,0,Foul on Kevin Larsen.
+VMI,George Washington,3,9,3,10,1,Trey Chapman made Free Throw.
+VMI,George Washington,3,9,3,10,0,Trey Chapman missed Free Throw.
+VMI,George Washington,3,9,3,10,0,Yuta Watanabe Defensive Rebound.
+VMI,George Washington,3,9,3,18,0,Darian Bryant missed Layup.
+VMI,George Washington,3,9,3,18,0,Trey Chapman Defensive Rebound.
+VMI,George Washington,3,9,3,23,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,3,9,3,23,0,QJ Peterson Offensive Rebound.
+VMI,George Washington,6,9,3,28,1,Christian Burton made Three Point Jumper. Assisted by QJ Peterson.
+VMI,George Washington,6,9,3,57,0,Paul Jorgensen missed Jumper.
+VMI,George Washington,6,9,3,57,0,Trey Chapman Defensive Rebound.
+VMI,George Washington,6,9,4,6,0,QJ Peterson Turnover.
+VMI,George Washington,6,9,4,7,0,Yuta Watanabe Steal.
+VMI,George Washington,6,9,4,11,0,Darian Bryant missed Layup.
+VMI,George Washington,6,9,4,11,0,Craig Hinton Block.
+VMI,George Washington,6,9,4,12,0,George Washington Offensive Rebound.
+VMI,George Washington,6,9,4,13,0,Official TV Timeout
+VMI,George Washington,6,11,4,23,1,Kethan Savage made Layup.
+VMI,George Washington,6,11,4,23,0,Foul on Julian Eleby.
+VMI,George Washington,6,11,4,23,0,Kethan Savage missed Free Throw.
+VMI,George Washington,6,11,4,23,0,Jordan Weethee Defensive Rebound.
+VMI,George Washington,9,11,4,35,1,Brian Brown made Three Point Jumper. Assisted by QJ Peterson.
+VMI,George Washington,9,11,4,50,0,Paul Jorgensen missed Jumper.
+VMI,George Washington,9,11,4,50,0,Paul Jorgensen Offensive Rebound.
+VMI,George Washington,9,11,5,11,0,Kethan Savage missed Jumper.
+VMI,George Washington,9,11,5,11,0,Tim Marshall Defensive Rebound.
+VMI,George Washington,9,11,5,28,0,Foul on Kethan Savage.
+VMI,George Washington,12,11,5,47,1,Jordan Weethee made Three Point Jumper. Assisted by Tim Marshall.
+VMI,George Washington,12,13,5,58,1,Yuta Watanabe made Dunk. Assisted by Kevin Larsen.
+VMI,George Washington,12,13,6,13,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,12,13,6,13,0,Joe McDonald Defensive Rebound.
+VMI,George Washington,12,13,6,27,0,Kevin Larsen missed Dunk.
+VMI,George Washington,12,13,6,27,0,QJ Peterson Block.
+VMI,George Washington,12,13,6,28,0,George Washington Offensive Rebound.
+VMI,George Washington,12,13,6,30,0,Foul on Craig Hinton.
+VMI,George Washington,12,15,6,35,1,Joe McDonald made Jumper. Assisted by Kevin Larsen.
+VMI,George Washington,12,15,6,45,0,Foul on Craig Hinton.
+VMI,George Washington,12,15,6,45,0,Craig Hinton Turnover.
+VMI,George Washington,12,15,6,58,0,Foul on Trey Chapman.
+VMI,George Washington,12,15,6,58,0,Joe McDonald missed Free Throw.
+VMI,George Washington,12,15,6,58,0,Craig Hinton Defensive Rebound.
+VMI,George Washington,12,15,7,6,0,Foul on Darian Bryant.
+VMI,George Washington,12,15,7,9,0,Foul on Paul Jorgensen.
+VMI,George Washington,12,15,7,21,0,Trey Chapman missed Three Point Jumper.
+VMI,George Washington,12,15,7,21,0,Darian Bryant Defensive Rebound.
+VMI,George Washington,12,17,7,45,1,Ryan McCoy made Jumper.
+VMI,George Washington,12,17,7,57,0,Trey Chapman missed Jumper.
+VMI,George Washington,12,17,7,57,0,Matt Cimino Defensive Rebound.
+VMI,George Washington,12,17,8,11,0,Paul Jorgensen Turnover.
+VMI,George Washington,12,17,8,11,0,Official TV Timeout
+VMI,George Washington,12,17,8,21,0,Jordan Weethee missed Three Point Jumper.
+VMI,George Washington,12,17,8,21,0,Kethan Savage Defensive Rebound.
+VMI,George Washington,12,17,8,37,0,Joe McDonald missed Layup.
+VMI,George Washington,12,17,8,37,0,Joe McDonald Offensive Rebound.
+VMI,George Washington,12,17,8,39,0,Joe McDonald missed Layup.
+VMI,George Washington,12,17,8,39,0,Tim Marshall Defensive Rebound.
+VMI,George Washington,12,17,8,46,0,Tim Marshall missed Three Point Jumper.
+VMI,George Washington,12,17,8,46,0,Kethan Savage Defensive Rebound.
+VMI,George Washington,12,17,9,18,0,Patricio Garino missed Layup.
+VMI,George Washington,12,17,9,18,0,QJ Peterson Defensive Rebound.
+VMI,George Washington,12,17,9,25,0,Tim Marshall missed Three Point Jumper.
+VMI,George Washington,12,17,9,25,0,Patricio Garino Defensive Rebound.
+VMI,George Washington,12,19,9,51,1,John Kopriva made Layup.
+VMI,George Washington,12,19,9,51,0,Foul on Jordan Weethee.
+VMI,George Washington,12,19,9,51,0,John Kopriva missed Free Throw.
+VMI,George Washington,12,19,9,51,0,Trey Chapman Defensive Rebound.
+VMI,George Washington,12,19,10,7,0,Foul on Joe McDonald.
+VMI,George Washington,14,19,10,12,1,QJ Peterson made Layup.
+VMI,George Washington,14,19,10,25,0,Yuta Watanabe missed Three Point Jumper.
+VMI,George Washington,14,19,10,25,0,QJ Peterson Defensive Rebound.
+VMI,George Washington,14,19,10,33,0,QJ Peterson missed Layup.
+VMI,George Washington,14,19,10,33,0,Joe McDonald Defensive Rebound.
+VMI,George Washington,14,19,10,43,0,Yuta Watanabe missed Layup.
+VMI,George Washington,14,19,10,43,0,Jarid Watson Defensive Rebound.
+VMI,George Washington,14,19,10,54,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,14,19,10,54,0,Trey Chapman Offensive Rebound.
+VMI,George Washington,14,19,10,59,0,Trey Chapman Turnover.
+VMI,George Washington,14,19,11,0,0,Kethan Savage Steal.
+VMI,George Washington,14,19,11,0,0,Foul on Trey Chapman.
+VMI,George Washington,14,20,11,0,1,Kethan Savage made Free Throw.
+VMI,George Washington,14,21,11,0,1,Kethan Savage made Free Throw.
+VMI,George Washington,14,21,11,12,0,Craig Hinton missed Three Point Jumper.
+VMI,George Washington,14,21,11,12,0,Anthony Swan Defensive Rebound.
+VMI,George Washington,14,21,11,25,0,Kevin Larsen missed Three Point Jumper.
+VMI,George Washington,14,21,11,25,0,Anthony Swan Offensive Rebound.
+VMI,George Washington,14,21,11,28,0,Foul on Jordan Weethee.
+VMI,George Washington,14,21,11,28,0,Anthony Swan missed Free Throw.
+VMI,George Washington,14,21,11,28,0,George Washington Deadball Team Rebound.
+VMI,George Washington,14,21,11,28,0,Anthony Swan missed Free Throw.
+VMI,George Washington,14,21,11,28,0,Julian Eleby Defensive Rebound.
+VMI,George Washington,14,21,11,44,0,Foul on Armani Branch.
+VMI,George Washington,14,21,11,44,0,Armani Branch Turnover.
+VMI,George Washington,14,21,11,56,0,Kethan Savage missed Jumper.
+VMI,George Washington,14,21,11,56,0,Phillip Anglade Defensive Rebound.
+VMI,George Washington,16,21,12,17,1,Phillip Anglade made Layup. Assisted by Christian Burton.
+VMI,George Washington,16,21,12,20,0,George Washington  Timeout
+VMI,George Washington,16,23,12,24,1,Kethan Savage made Layup.
+VMI,George Washington,16,23,12,41,0,Trey Chapman missed Layup.
+VMI,George Washington,16,23,12,41,0,Patricio Garino Block.
+VMI,George Washington,16,23,12,45,0,Patricio Garino Defensive Rebound.
+VMI,George Washington,16,25,13,1,1,Kevin Larsen made Layup.
+VMI,George Washington,18,25,13,11,1,Jarid Watson made Jumper. Assisted by Tim Marshall.
+VMI,George Washington,18,25,13,24,0,Official TV Timeout
+VMI,George Washington,18,25,13,43,0,Kethan Savage missed Three Point Jumper.
+VMI,George Washington,18,25,13,43,0,Joe McDonald Offensive Rebound.
+VMI,George Washington,18,27,13,47,1,Joe McDonald made Layup.
+VMI,George Washington,18,27,14,7,0,Brian Brown Turnover.
+VMI,George Washington,18,27,14,15,0,John Kopriva missed Three Point Jumper.
+VMI,George Washington,18,27,14,15,0,Patricio Garino Offensive Rebound.
+VMI,George Washington,18,27,14,38,0,Kethan Savage missed Jumper.
+VMI,George Washington,18,27,14,38,0,Jarid Watson Block.
+VMI,George Washington,18,27,14,39,0,QJ Peterson Defensive Rebound.
+VMI,George Washington,18,27,14,44,0,Brian Brown missed Three Point Jumper.
+VMI,George Washington,18,27,14,44,0,QJ Peterson Offensive Rebound.
+VMI,George Washington,20,27,14,55,1,Jarid Watson made Jumper.
+VMI,George Washington,20,27,15,14,0,John Kopriva missed Layup.
+VMI,George Washington,20,27,15,14,0,George Washington Offensive Rebound.
+VMI,George Washington,20,27,15,17,0,Yuta Watanabe missed Three Point Jumper.
+VMI,George Washington,20,27,15,17,0,Craig Hinton Defensive Rebound.
+VMI,George Washington,20,27,15,25,0,QJ Peterson missed Layup.
+VMI,George Washington,20,27,15,25,0,Patricio Garino Defensive Rebound.
+VMI,George Washington,20,29,15,34,1,Yuta Watanabe made Layup. Assisted by Patricio Garino.
+VMI,George Washington,20,29,16,1,0,Official TV Timeout
+VMI,George Washington,22,29,16,5,1,Phillip Anglade made Layup.
+VMI,George Washington,22,29,16,15,0,Darian Bryant missed Layup.
+VMI,George Washington,22,29,16,15,0,Julian Eleby Defensive Rebound.
+VMI,George Washington,24,29,16,24,1,QJ Peterson made Jumper.
+VMI,George Washington,24,29,16,31,0,Kevin Larsen Turnover.
+VMI,George Washington,24,29,16,32,0,Julian Eleby Steal.
+VMI,George Washington,24,29,16,36,0,QJ Peterson missed Jumper.
+VMI,George Washington,24,29,16,36,0,George Washington Defensive Rebound.
+VMI,George Washington,24,29,17,6,0,Foul on QJ Peterson.
+VMI,George Washington,24,29,17,6,0,John Kopriva missed Free Throw.
+VMI,George Washington,24,29,17,6,0,George Washington Deadball Team Rebound.
+VMI,George Washington,24,29,17,6,0,John Kopriva missed Free Throw.
+VMI,George Washington,24,29,17,6,0,Jarid Watson Defensive Rebound.
+VMI,George Washington,24,29,17,14,0,QJ Peterson missed Layup.
+VMI,George Washington,24,29,17,14,0,QJ Peterson Offensive Rebound.
+VMI,George Washington,24,29,17,21,0,Tim Marshall missed Three Point Jumper.
+VMI,George Washington,24,29,17,21,0,Kethan Savage Defensive Rebound.
+VMI,George Washington,24,29,17,50,0,Patricio Garino missed Layup.
+VMI,George Washington,24,29,17,50,0,Brian Brown Defensive Rebound.
+VMI,George Washington,24,29,17,55,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,24,29,17,55,0,Brian Brown Offensive Rebound.
+VMI,George Washington,24,29,18,4,0,QJ Peterson missed Jumper.
+VMI,George Washington,24,29,18,4,0,Patricio Garino Block.
+VMI,George Washington,24,29,18,5,0,Patricio Garino Defensive Rebound.
+VMI,George Washington,24,29,18,8,0,Patricio Garino Turnover.
+VMI,George Washington,24,29,18,24,0,QJ Peterson missed Jumper.
+VMI,George Washington,24,29,18,24,0,QJ Peterson Offensive Rebound.
+VMI,George Washington,24,29,18,29,0,QJ Peterson Turnover.
+VMI,George Washington,24,29,18,31,0,Yuta Watanabe Steal.
+VMI,George Washington,24,29,18,33,0,Foul on Tim Marshall.
+VMI,George Washington,24,30,18,33,1,Kethan Savage made Free Throw.
+VMI,George Washington,24,31,18,33,1,Kethan Savage made Free Throw.
+VMI,George Washington,24,31,18,47,0,VMI  Timeout
+VMI,George Washington,24,31,18,52,0,Foul on Yuta Watanabe.
+VMI,George Washington,26,31,19,1,1,Jarid Watson made Layup. Assisted by QJ Peterson.
+VMI,George Washington,26,31,19,7,0,Joe McDonald Turnover.
+VMI,George Washington,26,31,19,7,0,Brian Brown Steal.
+VMI,George Washington,26,31,19,11,0,Phillip Anglade missed Layup.
+VMI,George Washington,26,31,19,11,0,Yuta Watanabe Block.
+VMI,George Washington,26,31,19,12,0,Patricio Garino Defensive Rebound.
+VMI,George Washington,26,31,19,15,0,Foul on Tim Marshall.
+VMI,George Washington,26,32,19,15,1,Patricio Garino made Free Throw.
+VMI,George Washington,26,33,19,15,1,Patricio Garino made Free Throw.
+VMI,George Washington,26,33,19,24,0,QJ Peterson Turnover.
+VMI,George Washington,26,33,19,30,0,Kevin Larsen missed Layup.
+VMI,George Washington,26,33,19,30,0,Kethan Savage Offensive Rebound.
+VMI,George Washington,26,35,19,32,1,Kethan Savage made Layup.
+VMI,George Washington,29,35,19,56,1,QJ Peterson made Three Point Jumper.
+VMI,George Washington,29,35,20,0,0,End of 1st half
+VMI,George Washington,29,37,20,29,1,John Kopriva made Dunk. Assisted by Kethan Savage.
+VMI,George Washington,29,37,20,45,0,Tim Marshall missed Three Point Jumper.
+VMI,George Washington,29,37,20,45,0,Joe McDonald Defensive Rebound.
+VMI,George Washington,29,39,20,57,1,Kevin Larsen made Jumper.
+VMI,George Washington,29,39,21,15,0,Tim Marshall missed Jumper.
+VMI,George Washington,29,39,21,15,0,Kethan Savage Defensive Rebound.
+VMI,George Washington,29,39,21,25,0,Kethan Savage Turnover.
+VMI,George Washington,29,39,21,26,0,Tim Marshall Steal.
+VMI,George Washington,29,39,21,34,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,29,39,21,34,0,Joe McDonald Defensive Rebound.
+VMI,George Washington,29,39,21,41,0,Foul on Tim Marshall.
+VMI,George Washington,29,40,21,41,1,Patricio Garino made Free Throw.
+VMI,George Washington,29,41,21,41,1,Patricio Garino made Free Throw.
+VMI,George Washington,29,41,21,55,0,Julian Eleby missed Layup.
+VMI,George Washington,29,41,21,55,0,John Kopriva Block.
+VMI,George Washington,29,41,21,57,0,John Kopriva Defensive Rebound.
+VMI,George Washington,29,41,21,58,0,Joe McDonald Turnover.
+VMI,George Washington,31,41,22,15,1,Phillip Anglade made Layup.
+VMI,George Washington,31,41,22,32,0,Joe McDonald Turnover.
+VMI,George Washington,31,41,22,33,0,Christian Burton Steal.
+VMI,George Washington,31,41,22,42,0,Christian Burton missed Three Point Jumper.
+VMI,George Washington,31,41,22,42,0,George Washington Defensive Rebound.
+VMI,George Washington,31,43,23,5,1,Patricio Garino made Jumper.
+VMI,George Washington,31,43,23,27,0,Phillip Anglade missed Layup.
+VMI,George Washington,31,43,23,27,0,Kethan Savage Block.
+VMI,George Washington,31,43,23,29,0,Joe McDonald Defensive Rebound.
+VMI,George Washington,31,45,23,30,1,Kevin Larsen made Dunk. Assisted by Joe McDonald.
+VMI,George Washington,31,45,23,41,0,Foul on Patricio Garino.
+VMI,George Washington,31,45,23,41,0,Foul on Patricio Garino.
+VMI,George Washington,31,45,23,41,0,QJ Peterson missed Free Throw.
+VMI,George Washington,31,45,23,41,0,QJ Peterson missed Free Throw.
+VMI,George Washington,31,45,23,41,0,VMI Deadball Team Rebound.
+VMI,George Washington,31,45,23,41,0,VMI Deadball Team Rebound.
+VMI,George Washington,32,45,23,41,1,QJ Peterson made Free Throw.
+VMI,George Washington,32,45,23,50,0,Joe McDonald Turnover.
+VMI,George Washington,32,45,23,52,0,Trey Chapman Steal.
+VMI,George Washington,32,45,23,55,0,Craig Hinton missed Three Point Jumper.
+VMI,George Washington,32,45,23,55,0,Phillip Anglade Offensive Rebound.
+VMI,George Washington,32,45,24,0,0,Phillip Anglade missed Jumper.
+VMI,George Washington,32,45,24,0,0,Phillip Anglade Offensive Rebound.
+VMI,George Washington,32,45,24,6,0,VMI  Timeout
+VMI,George Washington,34,45,24,8,1,Phillip Anglade made Jumper.
+VMI,George Washington,34,47,24,19,1,Nick Griffin made Layup. Assisted by Paul Jorgensen.
+VMI,George Washington,34,47,24,37,0,Foul on Nick Griffin.
+VMI,George Washington,34,47,24,37,0,Official TV Timeout
+VMI,George Washington,36,47,24,40,1,Craig Hinton made Jumper. Assisted by Trey Chapman.
+VMI,George Washington,36,47,24,48,0,Kevin Larsen Turnover.
+VMI,George Washington,36,47,25,8,0,Phillip Anglade missed Layup.
+VMI,George Washington,36,47,25,8,0,Yuta Watanabe Block.
+VMI,George Washington,36,47,25,10,0,Kevin Larsen Defensive Rebound.
+VMI,George Washington,36,47,25,25,0,Joe McDonald missed Jumper.
+VMI,George Washington,36,47,25,25,0,Trey Chapman Defensive Rebound.
+VMI,George Washington,36,47,25,40,0,Brian Brown missed Jumper.
+VMI,George Washington,36,47,25,40,0,Phillip Anglade Offensive Rebound.
+VMI,George Washington,36,47,25,50,0,Trey Chapman missed Layup.
+VMI,George Washington,36,47,25,50,0,Joe McDonald Defensive Rebound.
+VMI,George Washington,36,49,25,55,1,Yuta Watanabe made Layup. Assisted by Joe McDonald.
+VMI,George Washington,36,49,26,10,0,Brian Brown missed Three Point Jumper.
+VMI,George Washington,36,49,26,10,0,Craig Hinton Offensive Rebound.
+VMI,George Washington,36,49,26,21,0,QJ Peterson missed Jumper.
+VMI,George Washington,36,49,26,21,0,Kethan Savage Defensive Rebound.
+VMI,George Washington,36,49,26,40,0,Kevin Larsen missed Layup.
+VMI,George Washington,36,49,26,40,0,Phillip Anglade Defensive Rebound.
+VMI,George Washington,39,49,26,55,1,Trey Chapman made Three Point Jumper. Assisted by Brian Brown.
+VMI,George Washington,39,49,27,24,0,Kevin Larsen missed Layup.
+VMI,George Washington,39,49,27,24,0,VMI Defensive Rebound.
+VMI,George Washington,39,49,28,1,0,Julian Eleby missed Jumper.
+VMI,George Washington,39,49,28,1,0,Joe McDonald Defensive Rebound.
+VMI,George Washington,39,49,28,3,0,Official TV Timeout
+VMI,George Washington,39,51,28,27,1,Patricio Garino made Layup.
+VMI,George Washington,39,51,28,46,0,Foul on Yuta Watanabe.
+VMI,George Washington,39,51,28,53,0,Brian Brown Turnover.
+VMI,George Washington,39,51,28,54,0,Foul on Phillip Anglade.
+VMI,George Washington,39,51,29,0,0,Kethan Savage missed Layup.
+VMI,George Washington,39,51,29,0,0,Phillip Anglade Block.
+VMI,George Washington,39,51,29,4,0,Craig Hinton Defensive Rebound.
+VMI,George Washington,39,51,29,8,0,QJ Peterson missed Layup.
+VMI,George Washington,39,51,29,8,0,Phillip Anglade Offensive Rebound.
+VMI,George Washington,41,51,29,12,1,Phillip Anglade made Layup.
+VMI,George Washington,41,53,29,37,1,Joe McDonald made Layup.
+VMI,George Washington,41,53,29,49,0,Foul on Trey Chapman.
+VMI,George Washington,41,53,29,49,0,Trey Chapman Turnover.
+VMI,George Washington,41,55,30,7,1,John Kopriva made Layup. Assisted by Joe McDonald.
+VMI,George Washington,41,55,30,23,0,Foul on John Kopriva.
+VMI,George Washington,42,55,30,23,1,Tim Marshall made Free Throw.
+VMI,George Washington,43,55,30,23,1,Tim Marshall made Free Throw.
+VMI,George Washington,44,55,30,23,1,Tim Marshall made Free Throw.
+VMI,George Washington,44,55,30,51,0,Joe McDonald missed Jumper.
+VMI,George Washington,44,55,30,51,0,Kevin Larsen Offensive Rebound.
+VMI,George Washington,44,57,30,57,1,Kethan Savage made Layup. Assisted by Kevin Larsen.
+VMI,George Washington,44,57,31,12,0,Craig Hinton missed Three Point Jumper.
+VMI,George Washington,44,57,31,12,0,Kethan Savage Defensive Rebound.
+VMI,George Washington,44,57,31,15,0,Foul on Tim Marshall.
+VMI,George Washington,44,59,31,25,1,Kevin Larsen made Dunk. Assisted by Yuta Watanabe.
+VMI,George Washington,46,59,31,47,1,Phillip Anglade made Dunk. Assisted by Trey Chapman.
+VMI,George Washington,46,59,31,50,0,VMI  Timeout
+VMI,George Washington,46,59,31,53,0,Foul on Kethan Savage.
+VMI,George Washington,46,59,31,53,0,Kethan Savage Turnover.
+VMI,George Washington,49,59,32,3,1,Tim Marshall made Three Point Jumper. Assisted by Trey Chapman.
+VMI,George Washington,49,59,32,12,0,Foul on Brian Brown.
+VMI,George Washington,49,59,32,12,0,Official TV Timeout
+VMI,George Washington,49,61,32,23,1,Yuta Watanabe made Layup. Assisted by Kevin Larsen.
+VMI,George Washington,49,61,32,33,0,Trey Chapman missed Jumper.
+VMI,George Washington,49,61,32,33,0,Joe McDonald Defensive Rebound.
+VMI,George Washington,49,61,32,43,0,Yuta Watanabe missed Layup.
+VMI,George Washington,49,61,32,43,0,Trey Chapman Block.
+VMI,George Washington,49,61,32,46,0,Tim Marshall Defensive Rebound.
+VMI,George Washington,52,61,33,1,1,Trey Chapman made Three Point Jumper. Assisted by Tim Marshall.
+VMI,George Washington,52,61,33,42,0,Foul on Tim Marshall.
+VMI,George Washington,52,61,33,42,0,Yuta Watanabe missed Free Throw.
+VMI,George Washington,52,61,33,42,0,George Washington Deadball Team Rebound.
+VMI,George Washington,52,62,33,42,1,Yuta Watanabe made Free Throw.
+VMI,George Washington,52,63,33,42,1,Yuta Watanabe made Free Throw.
+VMI,George Washington,52,63,33,48,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,52,63,33,48,0,Joe McDonald Defensive Rebound.
+VMI,George Washington,52,63,33,58,0,Joe McDonald missed Layup.
+VMI,George Washington,52,63,33,58,0,Kevin Larsen Offensive Rebound.
+VMI,George Washington,52,63,34,5,0,Foul on Christian Burton.
+VMI,George Washington,52,63,34,5,0,Joe McDonald missed Free Throw.
+VMI,George Washington,52,63,34,5,0,VMI Defensive Rebound.
+VMI,George Washington,52,63,34,13,0,Foul on Jarid Watson.
+VMI,George Washington,52,63,34,13,0,Jarid Watson Turnover.
+VMI,George Washington,52,63,34,28,0,Foul on QJ Peterson.
+VMI,George Washington,52,64,34,28,1,Kethan Savage made Free Throw.
+VMI,George Washington,52,65,34,28,1,Kethan Savage made Free Throw.
+VMI,George Washington,52,65,34,40,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,52,65,34,40,0,Christian Burton Offensive Rebound.
+VMI,George Washington,52,65,34,44,0,Christian Burton missed Layup.
+VMI,George Washington,52,65,34,44,0,Kethan Savage Defensive Rebound.
+VMI,George Washington,52,65,34,47,0,Foul on Christian Burton.
+VMI,George Washington,52,66,34,47,1,Kethan Savage made Free Throw.
+VMI,George Washington,52,67,34,47,1,Kethan Savage made Free Throw.
+VMI,George Washington,52,67,34,58,0,Julian Eleby missed Three Point Jumper.
+VMI,George Washington,52,67,34,58,0,Patricio Garino Defensive Rebound.
+VMI,George Washington,52,67,35,20,0,Foul on Trey Chapman.
+VMI,George Washington,52,67,35,20,0,John Kopriva missed Free Throw.
+VMI,George Washington,52,67,35,20,0,George Washington Deadball Team Rebound.
+VMI,George Washington,52,68,35,20,1,John Kopriva made Free Throw.
+VMI,George Washington,52,68,35,40,0,Trey Chapman Turnover.
+VMI,George Washington,52,68,36,6,0,George Washington  Timeout
+VMI,George Washington,52,68,36,6,0,George Washington  Timeout
+VMI,George Washington,52,70,36,13,1,Nick Griffin made Jumper.
+VMI,George Washington,52,70,36,13,1,Nick Griffin made Jumper.
+VMI,George Washington,52,70,36,21,0,Foul on Paul Jorgensen.
+VMI,George Washington,52,70,36,21,0,Foul on Paul Jorgensen.
+VMI,George Washington,52,70,36,21,0,Official TV Timeout
+VMI,George Washington,52,70,36,21,0,Official TV Timeout
+VMI,George Washington,53,70,36,21,1,QJ Peterson made Free Throw.
+VMI,George Washington,54,70,36,21,1,QJ Peterson made Free Throw.
+VMI,George Washington,53,70,36,21,1,QJ Peterson made Free Throw.
+VMI,George Washington,55,70,36,21,1,QJ Peterson made Free Throw.
+VMI,George Washington,54,70,36,21,1,QJ Peterson made Free Throw.
+VMI,George Washington,55,70,36,21,1,QJ Peterson made Free Throw.
+VMI,George Washington,55,70,36,22,0,Foul on Fred Iruafemi.
+VMI,George Washington,55,71,36,22,1,Patricio Garino made Free Throw.
+VMI,George Washington,55,71,36,22,0,Patricio Garino missed Free Throw.
+VMI,George Washington,55,71,36,22,0,Trey Chapman Defensive Rebound.
+VMI,George Washington,55,71,36,30,0,Julian Eleby missed Three Point Jumper.
+VMI,George Washington,55,71,36,30,0,Patricio Garino Defensive Rebound.
+VMI,George Washington,55,71,37,8,0,George Washington  Turnover.
+VMI,George Washington,55,71,37,22,0,Trey Chapman missed Jumper.
+VMI,George Washington,55,71,37,22,0,Fred Iruafemi Offensive Rebound.
+VMI,George Washington,55,71,37,24,0,Foul on Matt Cimino.
+VMI,George Washington,55,71,37,24,0,Fred Iruafemi missed Free Throw.
+VMI,George Washington,55,71,37,24,0,VMI Deadball Team Rebound.
+VMI,George Washington,56,71,37,24,1,Fred Iruafemi made Free Throw.
+VMI,George Washington,56,73,37,28,1,Patricio Garino made Layup.
+VMI,George Washington,56,73,37,39,0,Brian Brown missed Three Point Jumper.
+VMI,George Washington,56,73,37,39,0,Darian Bryant Defensive Rebound.
+VMI,George Washington,56,75,37,49,1,Patricio Garino made Layup. Assisted by Kethan Savage.
+VMI,George Washington,56,75,37,56,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,56,75,37,56,0,Kethan Savage Defensive Rebound.
+VMI,George Washington,56,75,38,6,0,Darian Bryant missed Layup.
+VMI,George Washington,56,75,38,6,0,Fred Iruafemi Block.
+VMI,George Washington,56,75,38,9,0,Christian Burton Defensive Rebound.
+VMI,George Washington,56,75,38,20,0,QJ Peterson missed Three Point Jumper.
+VMI,George Washington,56,75,38,20,0,Kethan Savage Defensive Rebound.
+VMI,George Washington,56,75,38,32,0,George Washington  Timeout
+VMI,George Washington,56,78,38,50,1,Paul Jorgensen made Three Point Jumper.
+VMI,George Washington,59,78,39,2,1,Craig Hinton made Three Point Jumper. Assisted by Julian Eleby.
+VMI,George Washington,59,78,39,19,0,Matt Cimino missed Three Point Jumper.
+VMI,George Washington,59,78,39,19,0,Fred Iruafemi Defensive Rebound.
+VMI,George Washington,59,78,39,21,0,Foul on Paul Jorgensen.
+VMI,George Washington,59,78,39,21,0,Craig Hinton missed Free Throw.
+VMI,George Washington,59,78,39,21,0,VMI Deadball Team Rebound.
+VMI,George Washington,60,78,39,21,1,Craig Hinton made Free Throw.
+VMI,George Washington,60,80,39,38,1,Paul Jorgensen made Layup.
+VMI,George Washington,60,80,39,38,1,Paul Jorgensen made Layup.
+VMI,George Washington,60,80,39,50,0,Craig Hinton Turnover.
+VMI,George Washington,60,80,39,50,0,Craig Hinton Turnover.
+VMI,George Washington,60,80,40,0,0,End of Game

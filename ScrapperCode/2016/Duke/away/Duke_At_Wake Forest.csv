@@ -1,0 +1,342 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Duke,Wake Forest,0,0,0,0,0,Jump Ball won by Duke
+Duke,Wake Forest,2,0,0,12,1,Matt Jones made Layup.
+Duke,Wake Forest,2,3,0,34,1,Konstantinos Mitoglou made Three Point Jumper. Assisted by Bryant Crawford.
+Duke,Wake Forest,5,3,0,51,1,Brandon Ingram made Three Point Jumper. Assisted by Matt Jones.
+Duke,Wake Forest,5,3,1,5,0,Foul on Derryck Thornton.
+Duke,Wake Forest,5,5,1,23,1,Codi Miller-McIntyre made Jumper. Assisted by Devin Thomas.
+Duke,Wake Forest,5,5,1,35,0,Derryck Thornton Turnover.
+Duke,Wake Forest,5,5,1,35,0,Mitchell Wilbekin Steal.
+Duke,Wake Forest,5,7,1,40,1,Codi Miller-McIntyre made Layup. Assisted by Mitchell Wilbekin.
+Duke,Wake Forest,5,7,2,5,0,Brandon Ingram Turnover.
+Duke,Wake Forest,5,7,2,5,0,Mitchell Wilbekin Steal.
+Duke,Wake Forest,5,9,2,10,1,Codi Miller-McIntyre made Jumper.
+Duke,Wake Forest,8,9,2,28,1,Brandon Ingram made Three Point Jumper. Assisted by Grayson Allen.
+Duke,Wake Forest,8,9,2,51,0,Konstantinos Mitoglou Turnover.
+Duke,Wake Forest,8,9,2,51,0,Brandon Ingram Steal.
+Duke,Wake Forest,8,9,3,1,0,Derryck Thornton missed Jumper.
+Duke,Wake Forest,8,9,3,1,0,Devin Thomas Defensive Rebound.
+Duke,Wake Forest,8,9,3,29,0,Codi Miller-McIntyre missed Jumper.
+Duke,Wake Forest,8,9,3,29,0,Konstantinos Mitoglou Offensive Rebound.
+Duke,Wake Forest,8,9,3,41,0,Mitchell Wilbekin missed Three Point Jumper.
+Duke,Wake Forest,8,9,3,41,0,Brandon Ingram Defensive Rebound.
+Duke,Wake Forest,10,9,3,52,1,Marshall Plumlee made Dunk. Assisted by Derryck Thornton.
+Duke,Wake Forest,10,9,4,9,0,Bryant Crawford Turnover.
+Duke,Wake Forest,10,9,4,9,0,Grayson Allen Steal.
+Duke,Wake Forest,12,9,4,15,1,Grayson Allen made Layup.
+Duke,Wake Forest,12,11,4,33,1,Devin Thomas made Layup. Assisted by Konstantinos Mitoglou.
+Duke,Wake Forest,12,11,4,52,0,Brandon Ingram missed Three Point Jumper.
+Duke,Wake Forest,12,11,4,52,0,Devin Thomas Defensive Rebound.
+Duke,Wake Forest,12,11,5,6,0,Foul on Matt Jones.
+Duke,Wake Forest,12,11,5,6,0,Official TV Timeout
+Duke,Wake Forest,12,12,5,6,1,Konstantinos Mitoglou made Free Throw.
+Duke,Wake Forest,12,13,5,6,1,Konstantinos Mitoglou made Free Throw.
+Duke,Wake Forest,12,13,5,30,0,Brandon Ingram missed Jumper.
+Duke,Wake Forest,12,13,5,30,0,Devin Thomas Defensive Rebound.
+Duke,Wake Forest,12,13,5,38,0,Foul on Devin Thomas.
+Duke,Wake Forest,12,13,5,38,0,Devin Thomas Turnover.
+Duke,Wake Forest,14,13,5,54,1,Marshall Plumlee made Dunk. Assisted by Grayson Allen.
+Duke,Wake Forest,14,13,6,21,0,Bryant Crawford missed Jumper.
+Duke,Wake Forest,14,13,6,21,0,Marshall Plumlee Defensive Rebound.
+Duke,Wake Forest,16,13,6,38,1,Grayson Allen made Jumper.
+Duke,Wake Forest,16,13,6,58,0,John Collins missed Jumper.
+Duke,Wake Forest,16,13,6,58,0,Konstantinos Mitoglou Offensive Rebound.
+Duke,Wake Forest,16,15,7,3,1,Konstantinos Mitoglou made Layup.
+Duke,Wake Forest,19,15,7,27,1,Grayson Allen made Three Point Jumper. Assisted by Brandon Ingram.
+Duke,Wake Forest,19,15,7,45,0,Foul on Brandon Ingram.
+Duke,Wake Forest,19,15,7,59,0,Cornelius Hudson missed Three Point Jumper.
+Duke,Wake Forest,19,15,7,59,0,Grayson Allen Defensive Rebound.
+Duke,Wake Forest,19,15,8,19,0,Foul on Konstantinos Mitoglou.
+Duke,Wake Forest,19,15,8,19,0,Official TV Timeout
+Duke,Wake Forest,20,15,8,19,1,Brandon Ingram made Free Throw.
+Duke,Wake Forest,21,15,8,19,1,Brandon Ingram made Free Throw.
+Duke,Wake Forest,21,17,8,34,1,John Collins made Layup. Assisted by Cornelius Hudson.
+Duke,Wake Forest,23,17,8,51,1,Brandon Ingram made Jumper.
+Duke,Wake Forest,23,17,8,51,0,Foul on John Collins.
+Duke,Wake Forest,24,17,8,51,1,Brandon Ingram made Free Throw.
+Duke,Wake Forest,24,20,9,0,1,Cornelius Hudson made Three Point Jumper. Assisted by Codi Miller-McIntyre.
+Duke,Wake Forest,24,20,9,18,0,Matt Jones missed Three Point Jumper.
+Duke,Wake Forest,24,20,9,18,0,Codi Miller-McIntyre Defensive Rebound.
+Duke,Wake Forest,24,20,9,28,0,Codi Miller-McIntyre missed Layup.
+Duke,Wake Forest,24,20,9,28,0,Grayson Allen Block.
+Duke,Wake Forest,24,20,9,28,0,Wake Forest Offensive Rebound.
+Duke,Wake Forest,24,20,9,29,0,Wake Forest  Timeout
+Duke,Wake Forest,24,20,9,33,0,Cornelius Hudson Turnover.
+Duke,Wake Forest,24,20,9,33,0,Brandon Ingram Steal.
+Duke,Wake Forest,24,20,9,42,0,Derryck Thornton missed Layup.
+Duke,Wake Forest,24,20,9,42,0,Codi Miller-McIntyre Defensive Rebound.
+Duke,Wake Forest,24,22,9,46,1,John Collins made Dunk. Assisted by Codi Miller-McIntyre.
+Duke,Wake Forest,24,22,10,5,0,Foul on John Collins.
+Duke,Wake Forest,27,22,10,13,1,Derryck Thornton made Three Point Jumper. Assisted by Marshall Plumlee.
+Duke,Wake Forest,27,22,10,30,0,Foul on Marshall Plumlee.
+Duke,Wake Forest,27,22,10,30,0,Cornelius Hudson missed Jumper.
+Duke,Wake Forest,27,22,10,30,0,Luke Kennard Defensive Rebound.
+Duke,Wake Forest,29,22,10,40,1,Luke Kennard made Layup.
+Duke,Wake Forest,29,22,11,3,0,Codi Miller-McIntyre missed Three Point Jumper.
+Duke,Wake Forest,29,22,11,3,0,Devin Thomas Offensive Rebound.
+Duke,Wake Forest,29,24,11,3,1,Devin Thomas made Two Point Tip Shot.
+Duke,Wake Forest,32,24,11,20,1,Grayson Allen made Three Point Jumper. Assisted by Derryck Thornton.
+Duke,Wake Forest,32,24,11,28,0,Foul on Luke Kennard.
+Duke,Wake Forest,32,24,11,39,0,Konstantinos Mitoglou Turnover.
+Duke,Wake Forest,32,24,11,39,0,Matt Jones Steal.
+Duke,Wake Forest,32,24,11,46,0,Matt Jones missed Three Point Jumper.
+Duke,Wake Forest,32,24,11,46,0,Devin Thomas Defensive Rebound.
+Duke,Wake Forest,32,24,11,55,0,Foul on Matt Jones.
+Duke,Wake Forest,32,25,11,55,1,Devin Thomas made Free Throw.
+Duke,Wake Forest,32,26,11,55,1,Devin Thomas made Free Throw.
+Duke,Wake Forest,32,26,12,6,0,Foul on Konstantinos Mitoglou.
+Duke,Wake Forest,32,26,12,6,0,Official TV Timeout
+Duke,Wake Forest,33,26,12,6,1,Luke Kennard made Free Throw.
+Duke,Wake Forest,34,26,12,6,1,Luke Kennard made Free Throw.
+Duke,Wake Forest,34,26,12,28,0,Foul on Derryck Thornton.
+Duke,Wake Forest,34,27,12,28,1,Devin Thomas made Free Throw.
+Duke,Wake Forest,34,27,12,28,0,Devin Thomas missed Free Throw.
+Duke,Wake Forest,34,27,12,28,0,Codi Miller-McIntyre Offensive Rebound.
+Duke,Wake Forest,34,27,12,30,0,Codi Miller-McIntyre missed Layup.
+Duke,Wake Forest,34,27,12,30,0,Brandon Ingram Block.
+Duke,Wake Forest,34,27,12,30,0,Brandon Ingram Defensive Rebound.
+Duke,Wake Forest,36,27,12,42,1,Grayson Allen made Layup.
+Duke,Wake Forest,36,27,13,7,0,Foul on Marshall Plumlee.
+Duke,Wake Forest,36,27,13,7,0,Devin Thomas missed Free Throw.
+Duke,Wake Forest,36,27,13,7,0,Grayson Allen Defensive Rebound.
+Duke,Wake Forest,36,27,13,19,0,Grayson Allen missed Three Point Jumper.
+Duke,Wake Forest,36,27,13,19,0,Codi Miller-McIntyre Defensive Rebound.
+Duke,Wake Forest,36,27,13,40,0,Bryant Crawford missed Layup.
+Duke,Wake Forest,36,27,13,40,0,Devin Thomas Offensive Rebound.
+Duke,Wake Forest,36,29,13,40,1,Devin Thomas made Dunk.
+Duke,Wake Forest,38,29,13,52,1,Luke Kennard made Jumper.
+Duke,Wake Forest,38,29,14,6,0,Rondale Watson Turnover.
+Duke,Wake Forest,38,29,14,6,0,Brandon Ingram Steal.
+Duke,Wake Forest,40,29,14,12,1,Brandon Ingram made Layup.
+Duke,Wake Forest,40,29,14,12,0,Foul on Rondale Watson.
+Duke,Wake Forest,41,29,14,12,1,Brandon Ingram made Free Throw.
+Duke,Wake Forest,41,32,14,33,1,Rondale Watson made Three Point Jumper. Assisted by Devin Thomas.
+Duke,Wake Forest,41,32,14,54,0,Brandon Ingram missed Jumper.
+Duke,Wake Forest,41,32,14,54,0,Rondale Watson Defensive Rebound.
+Duke,Wake Forest,41,32,15,6,0,Devin Thomas missed Layup.
+Duke,Wake Forest,41,32,15,6,0,Brandon Ingram Block.
+Duke,Wake Forest,41,32,15,6,0,Wake Forest Offensive Rebound.
+Duke,Wake Forest,41,34,15,22,1,Devin Thomas made Layup. Assisted by Rondale Watson.
+Duke,Wake Forest,43,34,15,44,1,Luke Kennard made Jumper.
+Duke,Wake Forest,43,36,15,59,1,Devin Thomas made Layup. Assisted by Rondale Watson.
+Duke,Wake Forest,43,36,16,25,0,Luke Kennard missed Layup.
+Duke,Wake Forest,43,36,16,25,0,Rondale Watson Defensive Rebound.
+Duke,Wake Forest,43,36,16,33,0,Rondale Watson missed Layup.
+Duke,Wake Forest,43,36,16,33,0,Brandon Ingram Block.
+Duke,Wake Forest,43,36,16,33,0,Devin Thomas Offensive Rebound.
+Duke,Wake Forest,43,36,16,36,0,Devin Thomas missed Layup.
+Duke,Wake Forest,43,36,16,36,0,Codi Miller-McIntyre Offensive Rebound.
+Duke,Wake Forest,43,38,16,36,1,Codi Miller-McIntyre made Layup.
+Duke,Wake Forest,43,38,16,37,0,Duke  Timeout
+Duke,Wake Forest,43,38,16,42,0,Luke Kennard missed Three Point Jumper.
+Duke,Wake Forest,43,38,16,42,0,Codi Miller-McIntyre Defensive Rebound.
+Duke,Wake Forest,43,40,16,55,1,Devin Thomas made Layup.
+Duke,Wake Forest,45,40,17,24,1,Grayson Allen made Jumper.
+Duke,Wake Forest,45,40,17,36,0,Mitchell Wilbekin missed Three Point Jumper.
+Duke,Wake Forest,45,40,17,36,0,Brandon Ingram Defensive Rebound.
+Duke,Wake Forest,45,40,17,52,0,Foul on Mitchell Wilbekin.
+Duke,Wake Forest,45,40,17,52,0,Grayson Allen missed Free Throw.
+Duke,Wake Forest,45,40,17,52,0,Duke Deadball Team Rebound.
+Duke,Wake Forest,46,40,17,52,1,Grayson Allen made Free Throw.
+Duke,Wake Forest,46,42,18,14,1,Devin Thomas made Dunk. Assisted by Bryant Crawford.
+Duke,Wake Forest,46,42,18,29,0,Brandon Ingram missed Jumper.
+Duke,Wake Forest,46,42,18,29,0,Sean Obi Offensive Rebound.
+Duke,Wake Forest,46,42,18,29,0,Sean Obi Turnover.
+Duke,Wake Forest,46,42,18,29,0,Cornelius Hudson Steal.
+Duke,Wake Forest,46,44,18,34,1,Cornelius Hudson made Dunk.
+Duke,Wake Forest,46,44,18,34,0,Foul on Grayson Allen.
+Duke,Wake Forest,46,45,18,34,1,Cornelius Hudson made Free Throw.
+Duke,Wake Forest,46,45,18,44,0,Foul on Cornelius Hudson.
+Duke,Wake Forest,47,45,18,44,1,Grayson Allen made Free Throw.
+Duke,Wake Forest,48,45,18,44,1,Grayson Allen made Free Throw.
+Duke,Wake Forest,48,45,19,12,0,Bryant Crawford missed Three Point Jumper.
+Duke,Wake Forest,48,45,19,12,0,Devin Thomas Offensive Rebound.
+Duke,Wake Forest,48,45,19,16,0,Foul on Sean Obi.
+Duke,Wake Forest,48,45,19,16,0,Devin Thomas missed Free Throw.
+Duke,Wake Forest,48,45,19,16,0,Wake Forest Deadball Team Rebound.
+Duke,Wake Forest,48,45,19,16,0,Codi Miller-McIntyre Turnover.
+Duke,Wake Forest,50,45,19,20,1,Derryck Thornton made Layup.
+Duke,Wake Forest,50,45,19,35,0,Foul on Brandon Ingram.
+Duke,Wake Forest,50,46,19,35,1,Codi Miller-McIntyre made Free Throw.
+Duke,Wake Forest,50,47,19,35,1,Codi Miller-McIntyre made Free Throw.
+Duke,Wake Forest,50,47,19,56,0,Matt Jones missed Layup.
+Duke,Wake Forest,50,47,19,56,0,Matt Jones Offensive Rebound.
+Duke,Wake Forest,50,47,20,0,0,End of 1st half
+Duke,Wake Forest,50,47,20,0,0,Jump Ball won by Wake Forest
+Duke,Wake Forest,50,47,20,17,0,Codi Miller-McIntyre missed Layup.
+Duke,Wake Forest,50,47,20,17,0,Devin Thomas Offensive Rebound.
+Duke,Wake Forest,50,49,20,17,1,Devin Thomas made Dunk.
+Duke,Wake Forest,50,49,20,38,0,Derryck Thornton missed Jumper.
+Duke,Wake Forest,50,49,20,38,0,Marshall Plumlee Offensive Rebound.
+Duke,Wake Forest,50,49,20,48,0,Matt Jones missed Three Point Jumper.
+Duke,Wake Forest,50,49,20,48,0,Devin Thomas Defensive Rebound.
+Duke,Wake Forest,50,49,20,52,0,Mitchell Wilbekin missed Three Point Jumper.
+Duke,Wake Forest,50,49,20,52,0,Marshall Plumlee Defensive Rebound.
+Duke,Wake Forest,50,49,21,11,0,Foul on Konstantinos Mitoglou.
+Duke,Wake Forest,51,49,21,11,1,Marshall Plumlee made Free Throw.
+Duke,Wake Forest,52,49,21,11,1,Marshall Plumlee made Free Throw.
+Duke,Wake Forest,52,49,21,31,0,Konstantinos Mitoglou missed Three Point Jumper.
+Duke,Wake Forest,52,49,21,31,0,Matt Jones Defensive Rebound.
+Duke,Wake Forest,52,49,21,54,0,Foul on Devin Thomas.
+Duke,Wake Forest,52,49,21,54,0,Technical Foul on Devin Thomas.
+Duke,Wake Forest,52,49,21,54,0,Foul on Devin Thomas.
+Duke,Wake Forest,53,49,21,54,1,Grayson Allen made Free Throw.
+Duke,Wake Forest,54,49,21,54,1,Grayson Allen made Free Throw.
+Duke,Wake Forest,55,49,21,54,1,Marshall Plumlee made Free Throw.
+Duke,Wake Forest,56,49,21,54,1,Marshall Plumlee made Free Throw.
+Duke,Wake Forest,56,49,22,10,0,Codi Miller-McIntyre missed Layup.
+Duke,Wake Forest,56,49,22,10,0,Matt Jones Block.
+Duke,Wake Forest,56,49,22,10,0,Codi Miller-McIntyre Offensive Rebound.
+Duke,Wake Forest,56,49,22,13,0,Foul on Grayson Allen.
+Duke,Wake Forest,56,49,22,13,0,John Collins missed Free Throw.
+Duke,Wake Forest,56,49,22,13,0,Wake Forest Deadball Team Rebound.
+Duke,Wake Forest,56,50,22,13,1,John Collins made Free Throw.
+Duke,Wake Forest,58,50,22,27,1,Marshall Plumlee made Layup. Assisted by Brandon Ingram.
+Duke,Wake Forest,58,50,22,37,0,Bryant Crawford missed Jumper.
+Duke,Wake Forest,58,50,22,37,0,Marshall Plumlee Block.
+Duke,Wake Forest,58,50,22,37,0,Wake Forest Offensive Rebound.
+Duke,Wake Forest,58,50,22,40,0,Foul on Matt Jones.
+Duke,Wake Forest,58,51,22,40,1,John Collins made Free Throw.
+Duke,Wake Forest,58,52,22,40,1,John Collins made Free Throw.
+Duke,Wake Forest,58,52,22,49,0,Grayson Allen missed Layup.
+Duke,Wake Forest,58,52,22,49,0,Marshall Plumlee Offensive Rebound.
+Duke,Wake Forest,58,52,22,55,0,Matt Jones missed Three Point Jumper.
+Duke,Wake Forest,58,52,22,55,0,John Collins Defensive Rebound.
+Duke,Wake Forest,58,52,23,3,0,Cornelius Hudson missed Three Point Jumper.
+Duke,Wake Forest,58,52,23,3,0,John Collins Offensive Rebound.
+Duke,Wake Forest,58,52,23,7,0,John Collins missed Layup.
+Duke,Wake Forest,58,52,23,7,0,Grayson Allen Defensive Rebound.
+Duke,Wake Forest,58,52,23,30,0,Foul on Matt Jones.
+Duke,Wake Forest,58,52,23,30,0,Matt Jones Turnover.
+Duke,Wake Forest,58,52,23,46,0,Foul on Grayson Allen.
+Duke,Wake Forest,58,52,23,56,0,Foul on Grayson Allen.
+Duke,Wake Forest,58,54,23,59,1,Codi Miller-McIntyre made Jumper.
+Duke,Wake Forest,58,54,24,10,0,Duke  Timeout
+Duke,Wake Forest,58,54,24,19,0,Foul on Mitchell Wilbekin.
+Duke,Wake Forest,58,54,24,23,0,Official TV Timeout
+Duke,Wake Forest,60,54,24,33,1,Luke Kennard made Jumper.
+Duke,Wake Forest,60,54,24,57,0,Codi Miller-McIntyre missed Jumper.
+Duke,Wake Forest,60,54,24,57,0,Luke Kennard Defensive Rebound.
+Duke,Wake Forest,60,54,25,17,0,Derryck Thornton missed Jumper.
+Duke,Wake Forest,60,54,25,17,0,John Collins Defensive Rebound.
+Duke,Wake Forest,60,56,25,32,1,John Collins made Dunk. Assisted by Devin Thomas.
+Duke,Wake Forest,60,56,25,48,0,Luke Kennard missed Jumper.
+Duke,Wake Forest,60,56,25,48,0,Devin Thomas Defensive Rebound.
+Duke,Wake Forest,60,56,26,5,0,Rondale Watson missed Three Point Jumper.
+Duke,Wake Forest,60,56,26,5,0,Wake Forest Offensive Rebound.
+Duke,Wake Forest,60,58,26,12,1,John Collins made Jumper. Assisted by Rondale Watson.
+Duke,Wake Forest,60,58,26,30,0,Luke Kennard Turnover.
+Duke,Wake Forest,60,58,26,30,0,Rondale Watson Steal.
+Duke,Wake Forest,60,58,26,53,0,Foul on Codi Miller-McIntyre.
+Duke,Wake Forest,60,58,26,53,0,Codi Miller-McIntyre Turnover.
+Duke,Wake Forest,60,58,26,58,0,Derryck Thornton missed Jumper.
+Duke,Wake Forest,60,58,26,58,0,Devin Thomas Block.
+Duke,Wake Forest,60,58,26,58,0,John Collins Defensive Rebound.
+Duke,Wake Forest,60,58,27,5,0,Rondale Watson missed Three Point Jumper.
+Duke,Wake Forest,60,58,27,5,0,Duke Defensive Rebound.
+Duke,Wake Forest,60,58,27,32,0,Brandon Ingram missed Three Point Jumper.
+Duke,Wake Forest,60,58,27,32,0,Marshall Plumlee Offensive Rebound.
+Duke,Wake Forest,62,58,27,53,1,Brandon Ingram made Layup.
+Duke,Wake Forest,62,58,28,18,0,Official TV Timeout
+Duke,Wake Forest,62,58,28,20,0,Cornelius Hudson missed Three Point Jumper.
+Duke,Wake Forest,62,58,28,20,0,Brandon Ingram Defensive Rebound.
+Duke,Wake Forest,62,58,28,42,0,Foul on Codi Miller-McIntyre.
+Duke,Wake Forest,62,58,28,42,0,Brandon Ingram missed Free Throw.
+Duke,Wake Forest,62,58,28,42,0,Duke Deadball Team Rebound.
+Duke,Wake Forest,63,58,28,42,1,Brandon Ingram made Free Throw.
+Duke,Wake Forest,63,58,28,54,0,Foul on Chase Jeter.
+Duke,Wake Forest,63,58,28,56,0,John Collins missed Layup.
+Duke,Wake Forest,63,58,28,56,0,Brandon Ingram Block.
+Duke,Wake Forest,63,58,28,56,0,Matt Jones Defensive Rebound.
+Duke,Wake Forest,63,58,29,8,0,Brandon Ingram missed Jumper.
+Duke,Wake Forest,63,58,29,8,0,Derryck Thornton Offensive Rebound.
+Duke,Wake Forest,63,58,29,17,0,Brandon Ingram missed Three Point Jumper.
+Duke,Wake Forest,63,58,29,17,0,Bryant Crawford Defensive Rebound.
+Duke,Wake Forest,63,58,29,21,0,Bryant Crawford Turnover.
+Duke,Wake Forest,63,58,29,21,0,Luke Kennard Steal.
+Duke,Wake Forest,65,58,29,24,1,Luke Kennard made Layup.
+Duke,Wake Forest,65,61,29,42,1,Cornelius Hudson made Three Point Jumper. Assisted by Codi Miller-McIntyre.
+Duke,Wake Forest,65,61,29,58,0,Matt Jones missed Three Point Jumper.
+Duke,Wake Forest,65,61,29,58,0,Luke Kennard Offensive Rebound.
+Duke,Wake Forest,65,61,30,2,0,Luke Kennard missed Layup.
+Duke,Wake Forest,65,61,30,2,0,Devin Thomas Defensive Rebound.
+Duke,Wake Forest,65,63,30,11,1,Devin Thomas made Layup.
+Duke,Wake Forest,65,63,30,21,0,Duke  Timeout
+Duke,Wake Forest,65,63,30,29,0,Brandon Ingram missed Layup.
+Duke,Wake Forest,65,63,30,29,0,John Collins Block.
+Duke,Wake Forest,65,63,30,29,0,Wake Forest Defensive Rebound.
+Duke,Wake Forest,65,63,30,53,0,Devin Thomas Turnover.
+Duke,Wake Forest,67,63,31,6,1,Derryck Thornton made Jumper.
+Duke,Wake Forest,67,63,31,39,0,Bryant Crawford missed Jumper.
+Duke,Wake Forest,67,63,31,39,0,Duke Defensive Rebound.
+Duke,Wake Forest,67,63,32,0,0,Foul on Devin Thomas.
+Duke,Wake Forest,68,63,32,0,1,Luke Kennard made Free Throw.
+Duke,Wake Forest,69,63,32,0,1,Luke Kennard made Free Throw.
+Duke,Wake Forest,69,63,32,9,0,John Collins missed Layup.
+Duke,Wake Forest,69,63,32,9,0,John Collins Offensive Rebound.
+Duke,Wake Forest,69,63,32,14,0,Foul on Marshall Plumlee.
+Duke,Wake Forest,69,63,32,14,0,Official TV Timeout
+Duke,Wake Forest,69,63,32,14,0,John Collins missed Free Throw.
+Duke,Wake Forest,69,63,32,14,0,Wake Forest Deadball Team Rebound.
+Duke,Wake Forest,69,63,32,14,0,John Collins missed Free Throw.
+Duke,Wake Forest,69,63,32,14,0,Marshall Plumlee Defensive Rebound.
+Duke,Wake Forest,71,63,32,41,1,Marshall Plumlee made Dunk. Assisted by Grayson Allen.
+Duke,Wake Forest,71,63,32,55,0,Bryant Crawford Turnover.
+Duke,Wake Forest,71,63,32,55,0,Grayson Allen Steal.
+Duke,Wake Forest,73,63,33,14,1,Marshall Plumlee made Dunk. Assisted by Luke Kennard.
+Duke,Wake Forest,73,63,33,28,0,Bryant Crawford missed Jumper.
+Duke,Wake Forest,73,63,33,28,0,John Collins Offensive Rebound.
+Duke,Wake Forest,73,63,33,30,0,John Collins missed Layup.
+Duke,Wake Forest,73,63,33,30,0,Bryant Crawford Offensive Rebound.
+Duke,Wake Forest,73,63,33,31,0,Foul on Luke Kennard.
+Duke,Wake Forest,73,64,33,31,1,Bryant Crawford made Free Throw.
+Duke,Wake Forest,73,64,33,31,0,Bryant Crawford missed Free Throw.
+Duke,Wake Forest,73,64,33,31,0,Luke Kennard Defensive Rebound.
+Duke,Wake Forest,73,64,33,51,0,Derryck Thornton missed Jumper.
+Duke,Wake Forest,73,64,33,51,0,John Collins Defensive Rebound.
+Duke,Wake Forest,73,66,34,6,1,Codi Miller-McIntyre made Layup.
+Duke,Wake Forest,73,66,34,35,0,Foul on John Collins.
+Duke,Wake Forest,74,66,34,35,1,Grayson Allen made Free Throw.
+Duke,Wake Forest,75,66,34,35,1,Grayson Allen made Free Throw.
+Duke,Wake Forest,75,66,34,43,0,Codi Miller-McIntyre missed Layup.
+Duke,Wake Forest,75,66,34,43,0,Marshall Plumlee Block.
+Duke,Wake Forest,75,66,34,43,0,Wake Forest Offensive Rebound.
+Duke,Wake Forest,75,68,34,47,1,Codi Miller-McIntyre made Jumper. Assisted by Cornelius Hudson.
+Duke,Wake Forest,75,68,35,7,0,Foul on Konstantinos Mitoglou.
+Duke,Wake Forest,76,68,35,7,1,Luke Kennard made Free Throw.
+Duke,Wake Forest,77,68,35,7,1,Luke Kennard made Free Throw.
+Duke,Wake Forest,77,70,35,15,1,Codi Miller-McIntyre made Layup.
+Duke,Wake Forest,79,70,35,42,1,Luke Kennard made Layup.
+Duke,Wake Forest,79,70,35,42,0,Foul on Rondale Watson.
+Duke,Wake Forest,80,70,35,42,1,Luke Kennard made Free Throw.
+Duke,Wake Forest,80,72,35,50,1,Codi Miller-McIntyre made Layup.
+Duke,Wake Forest,80,72,35,50,0,Foul on Luke Kennard.
+Duke,Wake Forest,80,72,35,50,0,Codi Miller-McIntyre missed Free Throw.
+Duke,Wake Forest,80,72,35,50,0,Brandon Ingram Defensive Rebound.
+Duke,Wake Forest,82,72,36,10,1,Marshall Plumlee made Dunk. Assisted by Brandon Ingram.
+Duke,Wake Forest,82,72,36,25,0,Codi Miller-McIntyre missed Layup.
+Duke,Wake Forest,82,72,36,25,0,Luke Kennard Defensive Rebound.
+Duke,Wake Forest,85,72,36,47,1,Grayson Allen made Three Point Jumper. Assisted by Luke Kennard.
+Duke,Wake Forest,85,75,36,57,1,Cornelius Hudson made Three Point Jumper.
+Duke,Wake Forest,85,75,37,27,0,Grayson Allen missed Jumper.
+Duke,Wake Forest,85,75,37,27,0,John Collins Block.
+Duke,Wake Forest,85,75,37,27,0,Duke Offensive Rebound.
+Duke,Wake Forest,85,75,37,32,0,Official TV Timeout
+Duke,Wake Forest,87,75,37,34,1,Luke Kennard made Jumper.
+Duke,Wake Forest,87,75,37,49,0,Mitchell Wilbekin missed Three Point Jumper.
+Duke,Wake Forest,87,75,37,49,0,Marshall Plumlee Defensive Rebound.
+Duke,Wake Forest,89,75,38,19,1,Marshall Plumlee made Layup. Assisted by Luke Kennard.
+Duke,Wake Forest,89,75,38,30,0,Cornelius Hudson Turnover.
+Duke,Wake Forest,89,75,38,32,0,Wake Forest  Timeout
+Duke,Wake Forest,89,75,38,54,0,Grayson Allen Turnover.
+Duke,Wake Forest,89,75,38,54,0,Bryant Crawford Steal.
+Duke,Wake Forest,89,75,38,59,0,Codi Miller-McIntyre missed Layup.
+Duke,Wake Forest,89,75,38,59,0,Derryck Thornton Defensive Rebound.
+Duke,Wake Forest,89,75,39,12,0,Foul on Devin Thomas.
+Duke,Wake Forest,90,75,39,12,1,Luke Kennard made Free Throw.
+Duke,Wake Forest,91,75,39,12,1,Luke Kennard made Free Throw.
+Duke,Wake Forest,91,75,39,17,0,Mitchell Wilbekin missed Three Point Jumper.
+Duke,Wake Forest,91,75,39,17,0,Derryck Thornton Defensive Rebound.
+Duke,Wake Forest,91,75,39,49,0,Matt Jones missed Three Point Jumper.
+Duke,Wake Forest,91,75,39,49,0,Rondale Watson Defensive Rebound.
+Duke,Wake Forest,91,75,40,0,0,End of Game

@@ -1,0 +1,305 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Cornell,Princeton,0,0,0,16,0,Shonn Miller Turnover.
+Cornell,Princeton,0,0,0,17,0,Hans Brase Steal.
+Cornell,Princeton,0,0,0,29,0,Foul on Shonn Miller
+Cornell,Princeton,0,1,0,29,1,Ian Hummer made Free Throw.
+Cornell,Princeton,0,2,0,29,1,Ian Hummer made Free Throw.
+Cornell,Princeton,2,2,0,39,1,Johnathan Gray made Layup.
+Cornell,Princeton,2,2,1,8,0,T.J. Bray Turnover.
+Cornell,Princeton,2,2,1,9,0,Devin Cherry Steal.
+Cornell,Princeton,2,2,1,23,0,Foul on Hans Brase
+Cornell,Princeton,2,2,1,23,0,Foul on Ian Hummer
+Cornell,Princeton,2,2,1,26,0,Shonn Miller Turnover.
+Cornell,Princeton,2,2,1,26,0,T.J. Bray Steal.
+Cornell,Princeton,2,2,1,39,0,T.J. Bray missed Three Point Jumper.
+Cornell,Princeton,2,2,1,39,0,Errick Peck Defensive Rebound.
+Cornell,Princeton,2,2,1,46,0,Johnathan Gray Turnover.
+Cornell,Princeton,2,2,1,47,0,T.J. Bray Steal.
+Cornell,Princeton,2,2,1,51,0,Denton Koon missed Layup.
+Cornell,Princeton,2,2,1,51,0,Miles Asafo-Adjei Defensive Rebound.
+Cornell,Princeton,4,2,1,56,1,Johnathan Gray made Layup.  Assisted by Miles Asafo-Adjei.
+Cornell,Princeton,4,2,2,15,0,Denton Koon missed Jumper.
+Cornell,Princeton,4,2,2,15,0,Johnathan Gray Defensive Rebound.
+Cornell,Princeton,4,2,2,18,0,Johnathan Gray Turnover.
+Cornell,Princeton,4,2,2,19,0,Will Barrett Steal.
+Cornell,Princeton,4,2,2,21,0,Foul on Miles Asafo-Adjei
+Cornell,Princeton,4,3,2,21,1,Denton Koon made Free Throw.
+Cornell,Princeton,4,3,2,21,0,Denton Koon missed Free Throw.
+Cornell,Princeton,4,3,2,21,0,Devin Cherry Defensive Rebound.
+Cornell,Princeton,4,3,2,32,0,Errick Peck missed Jumper.
+Cornell,Princeton,4,3,2,32,0,T.J. Bray Defensive Rebound.
+Cornell,Princeton,4,3,2,56,0,T.J. Bray Turnover.
+Cornell,Princeton,4,3,2,57,0,Miles Asafo-Adjei Steal.
+Cornell,Princeton,6,3,2,59,1,Eitan Chemerinski made Layup.
+Cornell,Princeton,6,3,3,35,0,Will Barrett missed Jumper.
+Cornell,Princeton,6,3,3,35,0,Hans Brase Offensive Rebound.
+Cornell,Princeton,6,3,3,38,0,Hans Brase missed Jumper.
+Cornell,Princeton,6,3,3,38,0,Hans Brase Offensive Rebound.
+Cornell,Princeton,6,3,3,38,0,Foul on Errick Peck
+Cornell,Princeton,6,4,3,38,1,Hans Brase made Free Throw.
+Cornell,Princeton,6,4,3,38,0,Hans Brase missed Free Throw.
+Cornell,Princeton,6,4,3,38,0,Nolan Cressler Defensive Rebound.
+Cornell,Princeton,6,4,3,46,0,Devin Cherry missed Layup.
+Cornell,Princeton,6,4,3,46,0,Hans Brase Defensive Rebound.
+Cornell,Princeton,6,6,3,59,1,T.J. Bray made Jumper.
+Cornell,Princeton,8,6,4,22,1,Josh Figini made Jumper.  Assisted by Nolan Cressler.
+Cornell,Princeton,8,6,4,42,0,Ian Hummer Turnover.
+Cornell,Princeton,8,6,4,42,0,Official TV Timeout.
+Cornell,Princeton,8,6,4,56,0,Josh Figini missed Layup.
+Cornell,Princeton,8,6,4,56,0,Will Barrett Block.
+Cornell,Princeton,8,6,4,56,0,Cornell Offensive Rebound.
+Cornell,Princeton,8,6,5,1,0,Nolan Cressler missed Layup.
+Cornell,Princeton,8,6,5,1,0,T.J. Bray Defensive Rebound.
+Cornell,Princeton,8,6,5,12,0,Foul on Josh Figini
+Cornell,Princeton,8,7,5,12,1,Ian Hummer made Free Throw.
+Cornell,Princeton,8,8,5,12,1,Ian Hummer made Free Throw.
+Cornell,Princeton,10,8,5,38,1,Dominick Scelfo made Layup.
+Cornell,Princeton,10,8,5,50,0,Clay Wilson Turnover.
+Cornell,Princeton,10,8,5,50,0,Foul on Clay Wilson
+Cornell,Princeton,10,8,6,8,0,Errick Peck missed Jumper.
+Cornell,Princeton,10,8,6,8,0,Will Barrett Defensive Rebound.
+Cornell,Princeton,10,8,6,28,0,Mack Darrow missed Three Point Jumper.
+Cornell,Princeton,10,8,6,28,0,Will Barrett Offensive Rebound.
+Cornell,Princeton,10,8,6,30,0,Foul on Nolan Cressler
+Cornell,Princeton,10,8,6,31,0,Mack Darrow missed Three Point Jumper.
+Cornell,Princeton,10,8,6,31,0,Dominick Scelfo Defensive Rebound.
+Cornell,Princeton,12,8,7,6,1,Shonn Miller made Jumper.
+Cornell,Princeton,12,8,7,44,0,Will Barrett missed Three Point Jumper.
+Cornell,Princeton,12,8,7,44,0,Galal Cancer Defensive Rebound.
+Cornell,Princeton,15,8,7,56,1,Josh Figini made Three Point Jumper.  Assisted by Dominick Scelfo.
+Cornell,Princeton,15,8,8,13,0,Clay Wilson Turnover.
+Cornell,Princeton,15,8,8,14,0,Shonn Miller Steal.
+Cornell,Princeton,17,8,8,16,1,Shonn Miller made Layup.
+Cornell,Princeton,17,8,8,16,0,Princeton Full Timeout.
+Cornell,Princeton,17,8,8,21,0,Foul on Galal Cancer
+Cornell,Princeton,17,8,8,21,0,Official TV Timeout.
+Cornell,Princeton,17,8,8,44,0,Clay Wilson missed Three Point Jumper.
+Cornell,Princeton,17,8,8,44,0,Shonn Miller Defensive Rebound.
+Cornell,Princeton,17,8,8,54,0,Johnathan Gray missed Three Point Jumper.
+Cornell,Princeton,17,8,8,54,0,T.J. Bray Defensive Rebound.
+Cornell,Princeton,17,11,9,13,1,Hans Brase made Three Point Jumper.  Assisted by Mack Darrow.
+Cornell,Princeton,17,11,9,37,0,Galal Cancer missed Three Point Jumper.
+Cornell,Princeton,17,11,9,37,0,Hans Brase Defensive Rebound.
+Cornell,Princeton,17,13,9,56,1,Ian Hummer made Layup.  Assisted by T.J. Bray.
+Cornell,Princeton,17,13,10,21,0,Johnathan Gray missed Three Point Jumper.
+Cornell,Princeton,17,13,10,21,0,Ian Hummer Defensive Rebound.
+Cornell,Princeton,17,13,10,49,0,Mack Darrow missed Jumper.
+Cornell,Princeton,17,13,10,49,0,Devin Cherry Defensive Rebound.
+Cornell,Princeton,19,13,11,7,1,Eitan Chemerinski made Layup.
+Cornell,Princeton,19,16,11,24,1,Clay Wilson made Three Point Jumper.  Assisted by T.J. Bray.
+Cornell,Princeton,19,16,12,0,0,Nolan Cressler missed Three Point Jumper.
+Cornell,Princeton,19,16,12,0,0,Nolan Cressler Offensive Rebound.
+Cornell,Princeton,21,16,12,8,1,Josh Figini made Dunk.  Assisted by Dominick Scelfo.
+Cornell,Princeton,21,18,12,26,1,Ian Hummer made Layup.  Assisted by T.J. Bray.
+Cornell,Princeton,21,18,12,46,0,Devin Cherry Turnover.
+Cornell,Princeton,21,18,12,47,0,Denton Koon Steal.
+Cornell,Princeton,21,18,12,56,0,Official TV Timeout.
+Cornell,Princeton,21,18,12,59,0,Will Barrett missed Layup.
+Cornell,Princeton,21,18,12,59,0,Shonn Miller Block.
+Cornell,Princeton,21,18,13,0,0,Josh Figini Defensive Rebound.
+Cornell,Princeton,21,18,13,15,0,Devin Cherry missed Layup.
+Cornell,Princeton,21,18,13,15,0,Mack Darrow Defensive Rebound.
+Cornell,Princeton,21,21,13,41,1,Denton Koon made Three Point Jumper.  Assisted by Ian Hummer.
+Cornell,Princeton,23,21,14,3,1,Devin Cherry made Layup.
+Cornell,Princeton,23,21,14,30,0,Mack Darrow missed Three Point Jumper.
+Cornell,Princeton,23,21,14,30,0,Shonn Miller Defensive Rebound.
+Cornell,Princeton,23,21,14,39,0,Devin Cherry Turnover.
+Cornell,Princeton,23,21,14,40,0,Denton Koon Steal.
+Cornell,Princeton,23,21,14,49,0,Will Barrett missed Three Point Jumper.
+Cornell,Princeton,23,21,14,49,0,Ian Hummer Offensive Rebound.
+Cornell,Princeton,23,21,14,51,0,Ian Hummer missed Layup.
+Cornell,Princeton,23,21,14,51,0,Ian Hummer Offensive Rebound.
+Cornell,Princeton,23,23,14,54,1,Ian Hummer made Layup.
+Cornell,Princeton,26,23,15,12,1,Nolan Cressler made Three Point Jumper.  Assisted by Dominick Scelfo.
+Cornell,Princeton,26,24,15,29,1,Will Barrett made Free Throw.
+Cornell,Princeton,26,24,15,29,0,Foul on Nolan Cressler
+Cornell,Princeton,26,24,15,29,0,Will Barrett missed Free Throw.
+Cornell,Princeton,26,24,15,29,0,Josh Figini Defensive Rebound.
+Cornell,Princeton,26,24,15,51,0,Errick Peck missed Jumper.
+Cornell,Princeton,26,24,15,51,0,Cornell Offensive Rebound.
+Cornell,Princeton,26,24,16,7,0,Official TV Timeout.
+Cornell,Princeton,28,24,16,10,1,Dominick Scelfo made Layup.
+Cornell,Princeton,28,26,16,31,1,Ian Hummer made Layup.
+Cornell,Princeton,28,26,16,44,0,Dominick Scelfo missed Three Point Jumper.
+Cornell,Princeton,28,26,16,44,0,T.J. Bray Defensive Rebound.
+Cornell,Princeton,28,28,17,6,1,Ian Hummer made Layup.  Assisted by Hans Brase.
+Cornell,Princeton,28,28,17,19,0,Foul on Will Barrett
+Cornell,Princeton,30,28,17,19,1,Miles Asafo-Adjei made Layup.
+Cornell,Princeton,30,28,17,19,0,Miles Asafo-Adjei missed Free Throw.
+Cornell,Princeton,30,28,17,19,0,Ian Hummer Defensive Rebound.
+Cornell,Princeton,30,30,17,40,1,Ian Hummer made Jumper.
+Cornell,Princeton,30,30,17,48,0,Shonn Miller missed Three Point Jumper.
+Cornell,Princeton,30,30,17,48,0,Ian Hummer Defensive Rebound.
+Cornell,Princeton,30,30,18,10,0,Foul on Dominick Scelfo
+Cornell,Princeton,30,31,18,10,1,Denton Koon made Free Throw.
+Cornell,Princeton,30,32,18,10,1,Denton Koon made Free Throw.
+Cornell,Princeton,30,32,18,31,0,Galal Cancer missed Layup.
+Cornell,Princeton,30,32,18,31,0,Josh Figini Offensive Rebound.
+Cornell,Princeton,30,32,18,39,0,Galal Cancer missed Layup.
+Cornell,Princeton,30,32,18,39,0,T.J. Bray Defensive Rebound.
+Cornell,Princeton,30,32,19,0,0,Foul on Johnathan Gray
+Cornell,Princeton,30,33,19,0,1,Denton Koon made Free Throw.
+Cornell,Princeton,30,33,19,0,0,Denton Koon missed Free Throw.
+Cornell,Princeton,30,33,19,0,0,Shonn Miller Defensive Rebound.
+Cornell,Princeton,30,33,19,8,0,Cornell Full Timeout.
+Cornell,Princeton,30,33,19,13,0,Devin Cherry Turnover.
+Cornell,Princeton,30,35,19,39,1,Ian Hummer made Jumper.  Assisted by Will Barrett.
+Cornell,Princeton,30,35,19,52,0,Foul on Denton Koon
+Cornell,Princeton,30,35,19,54,0,Foul on Chris Clement
+Cornell,Princeton,30,35,20,0,0,Devin Cherry missed Jumper.
+Cornell,Princeton,30,35,20,0,0,Devin Cherry Offensive Rebound.
+Cornell,Princeton,30,35,20,0,0,End of the 1st Half.
+Cornell,Princeton,30,37,20,17,1,Denton Koon made Layup.
+Cornell,Princeton,30,37,20,31,0,Foul on Hans Brase
+Cornell,Princeton,32,37,20,40,1,Miles Asafo-Adjei made Layup.
+Cornell,Princeton,32,37,20,52,0,Denton Koon Turnover.
+Cornell,Princeton,32,37,20,53,0,Shonn Miller Steal.
+Cornell,Princeton,34,37,20,54,1,Shonn Miller made Dunk.
+Cornell,Princeton,34,37,20,54,0,Foul on Ian Hummer
+Cornell,Princeton,35,37,20,54,1,Shonn Miller made Free Throw.
+Cornell,Princeton,35,37,21,25,0,Ian Hummer Turnover.
+Cornell,Princeton,35,37,21,26,0,Shonn Miller Steal.
+Cornell,Princeton,35,37,21,27,0,Devin Cherry Turnover.
+Cornell,Princeton,35,37,21,29,0,T.J. Bray Steal.
+Cornell,Princeton,35,39,21,33,1,T.J. Bray made Jumper.
+Cornell,Princeton,35,39,21,45,0,Miles Asafo-Adjei missed Layup.
+Cornell,Princeton,35,39,21,45,0,Will Barrett Defensive Rebound.
+Cornell,Princeton,35,39,22,5,0,Ian Hummer missed Layup.
+Cornell,Princeton,35,39,22,5,0,Shonn Miller Defensive Rebound.
+Cornell,Princeton,35,39,22,11,0,Foul on T.J. Bray
+Cornell,Princeton,36,39,22,11,1,Johnathan Gray made Free Throw.
+Cornell,Princeton,37,39,22,11,1,Johnathan Gray made Free Throw.
+Cornell,Princeton,37,39,22,28,0,Foul on Nolan Cressler
+Cornell,Princeton,37,40,22,28,1,Will Barrett made Free Throw.
+Cornell,Princeton,37,41,22,28,1,Will Barrett made Free Throw.
+Cornell,Princeton,40,41,22,50,1,Shonn Miller made Three Point Jumper.  Assisted by Nolan Cressler.
+Cornell,Princeton,40,41,23,12,0,Ian Hummer missed Layup.
+Cornell,Princeton,40,41,23,12,0,Ian Hummer Offensive Rebound.
+Cornell,Princeton,40,41,23,13,0,Foul on Johnathan Gray
+Cornell,Princeton,40,41,23,19,0,Foul on Miles Asafo-Adjei
+Cornell,Princeton,40,41,23,19,0,T.J. Bray missed Free Throw.
+Cornell,Princeton,40,41,23,19,0,null
+Cornell,Princeton,40,41,23,19,0,T.J. Bray missed Free Throw.
+Cornell,Princeton,40,41,23,19,0,Shonn Miller Defensive Rebound.
+Cornell,Princeton,40,41,23,27,0,Johnathan Gray Turnover.
+Cornell,Princeton,40,43,23,36,1,Ian Hummer made Layup.
+Cornell,Princeton,40,43,24,0,0,Shonn Miller missed Three Point Jumper.
+Cornell,Princeton,40,43,24,0,0,Denton Koon Defensive Rebound.
+Cornell,Princeton,40,45,24,16,1,Denton Koon made Layup.  Assisted by Will Barrett.
+Cornell,Princeton,40,45,24,16,0,Foul on Johnathan Gray
+Cornell,Princeton,40,45,24,16,0,Official TV Timeout.
+Cornell,Princeton,40,45,24,16,0,Denton Koon missed Free Throw.
+Cornell,Princeton,40,45,24,16,0,Shonn Miller Defensive Rebound.
+Cornell,Princeton,40,45,24,46,0,Dominick Scelfo missed Three Point Jumper.
+Cornell,Princeton,40,45,24,46,0,Will Barrett Defensive Rebound.
+Cornell,Princeton,40,48,25,13,1,T.J. Bray made Three Point Jumper.  Assisted by Ian Hummer.
+Cornell,Princeton,40,48,25,36,0,Josh Figini missed Three Point Jumper.
+Cornell,Princeton,40,48,25,36,0,Nolan Cressler Offensive Rebound.
+Cornell,Princeton,40,48,26,5,0,Dominick Scelfo missed Three Point Jumper.
+Cornell,Princeton,40,48,26,5,0,Will Barrett Block.
+Cornell,Princeton,40,48,26,8,0,Hans Brase Defensive Rebound.
+Cornell,Princeton,40,50,26,30,1,T.J. Bray made Layup.
+Cornell,Princeton,40,50,26,41,0,Josh Figini missed Layup.
+Cornell,Princeton,40,50,26,41,0,T.J. Bray Defensive Rebound.
+Cornell,Princeton,40,50,27,11,0,Ian Hummer Turnover.
+Cornell,Princeton,40,50,27,29,0,Errick Peck missed Jumper.
+Cornell,Princeton,40,50,27,29,0,Ian Hummer Defensive Rebound.
+Cornell,Princeton,40,52,27,45,1,Denton Koon made Layup.  Assisted by Ian Hummer.
+Cornell,Princeton,40,52,27,54,0,Josh Figini missed Jumper.
+Cornell,Princeton,40,52,27,54,0,Will Barrett Defensive Rebound.
+Cornell,Princeton,40,52,28,20,0,Foul on Devin Cherry
+Cornell,Princeton,40,52,28,20,0,Official TV Timeout.
+Cornell,Princeton,40,54,28,45,1,Denton Koon made Layup.  Assisted by Will Barrett.
+Cornell,Princeton,40,54,28,58,0,Devin Cherry Turnover.
+Cornell,Princeton,40,54,28,59,0,Will Barrett Steal.
+Cornell,Princeton,40,56,29,1,1,Will Barrett made Dunk.
+Cornell,Princeton,40,56,29,11,0,Foul on Chris Clement
+Cornell,Princeton,40,56,29,21,0,Foul on Denton Koon
+Cornell,Princeton,41,56,29,21,1,Shonn Miller made Free Throw.
+Cornell,Princeton,42,56,29,21,1,Shonn Miller made Free Throw.
+Cornell,Princeton,42,56,29,58,0,T.J. Bray missed Three Point Jumper.
+Cornell,Princeton,42,56,29,58,0,Hans Brase Offensive Rebound.
+Cornell,Princeton,42,56,30,1,0,Hans Brase missed Jumper.
+Cornell,Princeton,42,56,30,1,0,Johnathan Gray Defensive Rebound.
+Cornell,Princeton,44,56,30,6,1,Josh Figini made Layup.  Assisted by Miles Asafo-Adjei.
+Cornell,Princeton,44,56,30,6,0,Foul on Denton Koon
+Cornell,Princeton,45,56,30,6,1,Josh Figini made Free Throw.
+Cornell,Princeton,45,56,30,25,0,Foul on Josh Figini
+Cornell,Princeton,45,58,30,28,1,Hans Brase made Dunk.
+Cornell,Princeton,45,58,30,39,0,Miles Asafo-Adjei missed Layup.
+Cornell,Princeton,45,58,30,39,0,Denton Koon Block.
+Cornell,Princeton,45,58,30,41,0,Hans Brase Defensive Rebound.
+Cornell,Princeton,45,58,30,58,0,Hans Brase Turnover.
+Cornell,Princeton,45,58,31,7,0,Nolan Cressler Turnover.
+Cornell,Princeton,45,58,31,7,0,Foul on Nolan Cressler
+Cornell,Princeton,45,61,31,18,1,Will Barrett made Three Point Jumper.  Assisted by T.J. Bray.
+Cornell,Princeton,47,61,31,43,1,Eitan Chemerinski made Layup.
+Cornell,Princeton,47,63,32,6,1,Denton Koon made Jumper.
+Cornell,Princeton,47,63,32,16,0,Ian Hummer Turnover.
+Cornell,Princeton,47,63,32,16,0,Foul on Hans Brase
+Cornell,Princeton,48,63,32,16,1,Eitan Chemerinski made Free Throw.
+Cornell,Princeton,48,63,32,16,0,Official TV Timeout.
+Cornell,Princeton,49,63,32,16,1,Eitan Chemerinski made Free Throw.
+Cornell,Princeton,49,63,32,20,0,Princeton Full Timeout.
+Cornell,Princeton,49,65,32,24,1,Will Barrett made Dunk.  Assisted by Ian Hummer.
+Cornell,Princeton,49,65,32,46,0,Dominick Scelfo missed Layup.
+Cornell,Princeton,49,65,32,46,0,Eitan Chemerinski Offensive Rebound.
+Cornell,Princeton,49,65,32,50,0,Eitan Chemerinski missed Layup.
+Cornell,Princeton,49,65,32,50,0,Galal Cancer Offensive Rebound.
+Cornell,Princeton,49,65,32,55,0,Eitan Chemerinski missed Layup.
+Cornell,Princeton,49,65,32,55,0,Hans Brase Defensive Rebound.
+Cornell,Princeton,49,65,33,29,0,Denton Koon missed Layup.
+Cornell,Princeton,49,65,33,29,0,Eitan Chemerinski Defensive Rebound.
+Cornell,Princeton,51,65,33,36,1,Galal Cancer made Layup.
+Cornell,Princeton,51,65,33,36,0,Foul on Will Barrett
+Cornell,Princeton,51,65,33,36,0,Galal Cancer missed Free Throw.
+Cornell,Princeton,51,65,33,36,0,Ian Hummer Defensive Rebound.
+Cornell,Princeton,51,65,34,3,0,T.J. Bray missed Layup.
+Cornell,Princeton,51,65,34,3,0,Galal Cancer Defensive Rebound.
+Cornell,Princeton,51,65,34,14,0,Galal Cancer Turnover.
+Cornell,Princeton,51,65,34,15,0,Denton Koon Steal.
+Cornell,Princeton,51,65,34,17,0,Foul on Dwight Tarwater
+Cornell,Princeton,51,65,34,17,0,Denton Koon missed Free Throw.
+Cornell,Princeton,51,65,34,17,0,null
+Cornell,Princeton,51,66,34,17,1,Denton Koon made Free Throw.
+Cornell,Princeton,54,66,34,36,1,Dominick Scelfo made Three Point Jumper.  Assisted by Miles Asafo-Adjei.
+Cornell,Princeton,54,66,34,37,0,Cornell Full Timeout.
+Cornell,Princeton,54,66,34,47,0,Princeton Full Timeout.
+Cornell,Princeton,54,66,35,8,0,Foul on Johnathan Gray
+Cornell,Princeton,54,67,35,8,1,Denton Koon made Free Throw.
+Cornell,Princeton,54,68,35,8,1,Denton Koon made Free Throw.
+Cornell,Princeton,54,68,35,25,0,Nolan Cressler missed Layup.
+Cornell,Princeton,54,68,35,25,0,Errick Peck Offensive Rebound.
+Cornell,Princeton,54,68,35,29,0,Errick Peck Turnover.
+Cornell,Princeton,54,68,35,30,0,Will Barrett Steal.
+Cornell,Princeton,54,68,35,43,0,Ian Hummer missed Layup.
+Cornell,Princeton,54,68,35,43,0,Eitan Chemerinski Defensive Rebound.
+Cornell,Princeton,54,68,35,51,0,Nolan Cressler missed Jumper.
+Cornell,Princeton,54,68,35,51,0,Hans Brase Defensive Rebound.
+Cornell,Princeton,54,70,36,17,1,Denton Koon made Layup.
+Cornell,Princeton,54,70,36,23,0,Dominick Scelfo missed Three Point Jumper.
+Cornell,Princeton,54,70,36,23,0,Will Barrett Defensive Rebound.
+Cornell,Princeton,54,70,36,49,0,Foul on Eitan Chemerinski
+Cornell,Princeton,54,70,36,49,0,Official TV Timeout.
+Cornell,Princeton,54,71,36,49,1,Will Barrett made Free Throw.
+Cornell,Princeton,54,72,36,49,1,Will Barrett made Free Throw.
+Cornell,Princeton,54,72,37,1,0,Foul on Denton Koon
+Cornell,Princeton,54,72,37,1,0,Josh Figini missed Free Throw.
+Cornell,Princeton,54,72,37,1,0,null
+Cornell,Princeton,55,72,37,1,1,Josh Figini made Free Throw.
+Cornell,Princeton,55,74,37,9,1,Will Barrett made Dunk.  Assisted by Denton Koon.
+Cornell,Princeton,55,74,37,30,0,Dominick Scelfo Turnover.
+Cornell,Princeton,55,74,37,31,0,T.J. Bray Steal.
+Cornell,Princeton,55,76,37,57,1,Ian Hummer made Jumper.
+Cornell,Princeton,57,76,38,24,1,Josh Figini made Jumper.
+Cornell,Princeton,57,76,39,2,0,Ian Hummer missed Layup.
+Cornell,Princeton,57,76,39,2,0,Shonn Miller Block.
+Cornell,Princeton,57,76,39,4,0,Ian Hummer Offensive Rebound.
+Cornell,Princeton,57,76,39,6,0,Ian Hummer missed Layup.
+Cornell,Princeton,57,76,39,6,0,Princeton Offensive Rebound.
+Cornell,Princeton,57,76,39,40,0,Brendan Connolly missed Layup.
+Cornell,Princeton,57,76,39,40,0,Nolan Cressler Defensive Rebound.
+Cornell,Princeton,57,76,39,46,0,Foul on Brendan Connolly
+Cornell,Princeton,58,76,39,46,1,Nolan Cressler made Free Throw.
+Cornell,Princeton,59,76,39,46,1,Nolan Cressler made Free Throw.
+Cornell,Princeton,59,76,40,0,0,End Game

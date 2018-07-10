@@ -1,0 +1,337 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Duke,Elon,0,0,0,0,0,Jump Ball won by Elon
+Duke,Elon,0,0,0,18,0,Tyler Seibring Turnover.
+Duke,Elon,0,0,0,18,0,Matt Jones Steal.
+Duke,Elon,2,0,0,22,1,Jayson Tatum made Layup.
+Duke,Elon,2,0,0,22,0,Foul on Steven Santa Ana.
+Duke,Elon,3,0,0,22,1,Jayson Tatum made Free Throw.
+Duke,Elon,3,0,0,36,0,Dainan Swoope missed Three Point Jumper.
+Duke,Elon,3,0,0,36,0,Amile Jefferson Defensive Rebound.
+Duke,Elon,3,0,0,44,0,Jayson Tatum missed Three Point Jumper.
+Duke,Elon,3,0,0,44,0,Steven Santa Ana Defensive Rebound.
+Duke,Elon,3,0,1,21,0,Brian Dawkins Turnover.
+Duke,Elon,3,0,1,34,0,Amile Jefferson missed Jumper.
+Duke,Elon,3,0,1,34,0,Dainan Swoope Defensive Rebound.
+Duke,Elon,3,0,1,40,0,Brian Dawkins missed Layup.
+Duke,Elon,3,0,1,40,0,Amile Jefferson Defensive Rebound.
+Duke,Elon,5,0,1,48,1,Jayson Tatum made Jumper.
+Duke,Elon,5,0,2,3,0,Steven Santa Ana missed Jumper.
+Duke,Elon,5,0,2,3,0,Jayson Tatum Defensive Rebound.
+Duke,Elon,5,0,2,8,0,Luke Kennard missed Three Point Jumper.
+Duke,Elon,5,0,2,8,0,Brian Dawkins Defensive Rebound.
+Duke,Elon,5,0,2,24,0,Foul on Jayson Tatum.
+Duke,Elon,5,0,2,24,0,Tyler Seibring missed Free Throw.
+Duke,Elon,5,0,2,24,0,Elon Deadball Team Rebound.
+Duke,Elon,5,1,2,24,1,Tyler Seibring made Free Throw.
+Duke,Elon,5,1,2,34,0,Jayson Tatum missed Jumper.
+Duke,Elon,5,1,2,34,0,Jayson Tatum Offensive Rebound.
+Duke,Elon,5,1,2,38,0,Grayson Allen missed Three Point Jumper.
+Duke,Elon,5,1,2,38,0,Dmitri Thompson Defensive Rebound.
+Duke,Elon,5,4,2,52,1,Steven Santa Ana made Three Point Jumper. Assisted by Dainan Swoope.
+Duke,Elon,5,4,3,0,0,Grayson Allen missed Jumper.
+Duke,Elon,5,4,3,0,0,Tyler Seibring Defensive Rebound.
+Duke,Elon,5,6,3,14,1,Dmitri Thompson made Layup.
+Duke,Elon,5,6,3,20,0,Jayson Tatum missed Jumper.
+Duke,Elon,5,6,3,20,0,Dmitri Thompson Defensive Rebound.
+Duke,Elon,5,9,3,30,1,Brian Dawkins made Three Point Jumper. Assisted by Dainan Swoope.
+Duke,Elon,5,9,3,47,0,Grayson Allen missed Three Point Jumper.
+Duke,Elon,5,9,3,47,0,Steven Santa Ana Defensive Rebound.
+Duke,Elon,5,9,3,55,0,Steven Santa Ana missed Three Point Jumper.
+Duke,Elon,5,9,3,55,0,Luke Kennard Defensive Rebound.
+Duke,Elon,7,9,4,4,1,Jayson Tatum made Layup.
+Duke,Elon,7,12,4,29,1,Brian Dawkins made Three Point Jumper. Assisted by Dmitri Thompson.
+Duke,Elon,10,12,4,51,1,Luke Kennard made Three Point Jumper. Assisted by Jayson Tatum.
+Duke,Elon,10,12,5,14,0,Foul on Matt Jones.
+Duke,Elon,10,12,5,14,0,Official TV Timeout
+Duke,Elon,10,14,5,35,1,Tyler Seibring made Jumper. Assisted by Sheldon Eberhardt.
+Duke,Elon,10,14,5,45,0,Jayson Tatum Turnover.
+Duke,Elon,10,14,5,45,0,Sheldon Eberhardt Steal.
+Duke,Elon,10,16,5,53,1,Karolis Kundrotas made Layup. Assisted by Sheldon Eberhardt.
+Duke,Elon,10,16,6,8,0,Foul on Luke Eddy.
+Duke,Elon,11,16,6,8,1,Frank Jackson made Free Throw.
+Duke,Elon,12,16,6,8,1,Frank Jackson made Free Throw.
+Duke,Elon,12,16,6,33,0,Karolis Kundrotas missed Jumper.
+Duke,Elon,12,16,6,33,0,Jayson Tatum Block.
+Duke,Elon,12,16,6,33,0,Grayson Allen Defensive Rebound.
+Duke,Elon,12,16,6,43,0,Grayson Allen missed Three Point Jumper.
+Duke,Elon,12,16,6,43,0,Tyler Seibring Defensive Rebound.
+Duke,Elon,12,16,6,55,0,Tyler Seibring missed Layup.
+Duke,Elon,12,16,6,55,0,Amile Jefferson Defensive Rebound.
+Duke,Elon,12,16,7,2,0,Jayson Tatum missed Three Point Jumper.
+Duke,Elon,12,16,7,2,0,Tyler Seibring Defensive Rebound.
+Duke,Elon,12,16,7,28,0,Sheldon Eberhardt missed Layup.
+Duke,Elon,12,16,7,28,0,Luke Kennard Block.
+Duke,Elon,12,16,7,28,0,Sheldon Eberhardt Offensive Rebound.
+Duke,Elon,12,16,7,34,0,Sheldon Eberhardt missed Layup.
+Duke,Elon,12,16,7,34,0,Jayson Tatum Defensive Rebound.
+Duke,Elon,12,16,7,37,0,Foul on Luke Eddy.
+Duke,Elon,15,16,7,38,1,Grayson Allen made Three Point Jumper. Assisted by Frank Jackson.
+Duke,Elon,15,19,8,3,1,Luke Eddy made Three Point Jumper. Assisted by Christian Hairston.
+Duke,Elon,15,19,8,20,0,Grayson Allen missed Layup.
+Duke,Elon,15,19,8,20,0,Harry Giles Offensive Rebound.
+Duke,Elon,15,19,8,26,0,Harry Giles missed Jumper.
+Duke,Elon,15,19,8,26,0,Brian Dawkins Defensive Rebound.
+Duke,Elon,15,19,8,51,0,Luke Eddy missed Three Point Jumper.
+Duke,Elon,15,19,8,51,0,Grayson Allen Defensive Rebound.
+Duke,Elon,17,19,9,4,1,Matt Jones made Jumper.
+Duke,Elon,17,19,9,9,0,Luke Eddy Turnover.
+Duke,Elon,17,19,9,9,0,Frank Jackson Steal.
+Duke,Elon,17,19,9,19,0,Harry Giles missed Jumper.
+Duke,Elon,17,19,9,19,0,Sheldon Eberhardt Defensive Rebound.
+Duke,Elon,17,19,9,33,0,Steven Santa Ana Turnover.
+Duke,Elon,17,19,9,33,0,Official TV Timeout
+Duke,Elon,19,19,9,44,1,Jayson Tatum made Jumper.
+Duke,Elon,19,19,10,2,0,Tyler Seibring Turnover.
+Duke,Elon,19,19,10,2,0,Matt Jones Steal.
+Duke,Elon,21,19,10,5,1,Matt Jones made Dunk.
+Duke,Elon,21,22,10,26,1,Karolis Kundrotas made Three Point Jumper. Assisted by Tyler Seibring.
+Duke,Elon,24,22,10,41,1,Matt Jones made Three Point Jumper. Assisted by Jayson Tatum.
+Duke,Elon,24,22,11,11,0,Dainan Swoope Turnover.
+Duke,Elon,24,22,11,22,0,Frank Jackson missed Three Point Jumper.
+Duke,Elon,24,22,11,22,0,Sheldon Eberhardt Defensive Rebound.
+Duke,Elon,24,22,11,39,0,Jump Ball won by Duke
+Duke,Elon,24,22,11,39,0,Sheldon Eberhardt Turnover.
+Duke,Elon,24,22,11,39,0,Matt Jones Steal.
+Duke,Elon,26,22,11,49,1,Luke Kennard made Jumper.
+Duke,Elon,26,22,12,17,0,Steven Santa Ana missed Layup.
+Duke,Elon,26,22,12,17,0,Christian Hairston Offensive Rebound.
+Duke,Elon,26,24,12,17,1,Christian Hairston made Two Point Tip Shot.
+Duke,Elon,26,24,12,17,0,Foul on Luke Kennard.
+Duke,Elon,26,24,12,17,0,Official TV Timeout
+Duke,Elon,26,24,12,17,0,Christian Hairston missed Free Throw.
+Duke,Elon,26,24,12,17,0,Amile Jefferson Defensive Rebound.
+Duke,Elon,26,24,12,24,0,Luke Kennard missed Jumper.
+Duke,Elon,26,24,12,24,0,Jayson Tatum Offensive Rebound.
+Duke,Elon,26,24,12,38,0,Frank Jackson missed Jumper.
+Duke,Elon,26,24,12,38,0,Dmitri Thompson Defensive Rebound.
+Duke,Elon,26,24,12,44,0,Dainan Swoope missed Three Point Jumper.
+Duke,Elon,26,24,12,44,0,Steven Santa Ana Offensive Rebound.
+Duke,Elon,26,24,12,58,0,Foul on Amile Jefferson.
+Duke,Elon,26,24,13,15,0,Foul on Amile Jefferson.
+Duke,Elon,26,24,13,26,0,Tyler Seibring missed Three Point Jumper.
+Duke,Elon,26,24,13,26,0,Matt Jones Defensive Rebound.
+Duke,Elon,26,24,13,31,0,Foul on Steven Santa Ana.
+Duke,Elon,28,24,13,43,1,Jayson Tatum made Jumper.
+Duke,Elon,28,24,13,52,0,Dainan Swoope missed Layup.
+Duke,Elon,28,24,13,52,0,Chase Jeter Defensive Rebound.
+Duke,Elon,28,24,14,0,0,Jayson Tatum missed Jumper.
+Duke,Elon,28,24,14,0,0,Luke Kennard Offensive Rebound.
+Duke,Elon,30,24,14,7,1,Luke Kennard made Layup.
+Duke,Elon,30,24,14,12,0,Elon  Timeout
+Duke,Elon,30,24,14,26,0,Sheldon Eberhardt missed Three Point Jumper.
+Duke,Elon,30,24,14,26,0,Tyler Seibring Offensive Rebound.
+Duke,Elon,30,24,14,30,0,Sheldon Eberhardt Turnover.
+Duke,Elon,30,24,14,30,0,Matt Jones Steal.
+Duke,Elon,32,24,14,35,1,Luke Kennard made Layup. Assisted by Matt Jones.
+Duke,Elon,32,24,14,56,0,Foul on Matt Jones.
+Duke,Elon,32,24,15,18,0,Brian Dawkins missed Jumper.
+Duke,Elon,32,24,15,18,0,Luke Kennard Defensive Rebound.
+Duke,Elon,32,24,15,27,0,Luke Kennard missed Layup.
+Duke,Elon,32,24,15,27,0,Brian Dawkins Defensive Rebound.
+Duke,Elon,32,24,15,45,0,Foul on Grayson Allen.
+Duke,Elon,32,24,15,45,0,Technical Foul on Grayson Allen.
+Duke,Elon,32,24,15,45,0,Foul on Grayson Allen.
+Duke,Elon,32,25,15,45,1,Steven Santa Ana made Free Throw.
+Duke,Elon,32,26,15,45,1,Steven Santa Ana made Free Throw.
+Duke,Elon,32,26,15,45,0,Steven Santa Ana missed Free Throw.
+Duke,Elon,32,26,15,45,0,Elon Deadball Team Rebound.
+Duke,Elon,32,27,15,45,1,Steven Santa Ana made Free Throw.
+Duke,Elon,32,27,15,55,0,Tyler Seibring missed Jumper.
+Duke,Elon,32,27,15,55,0,Jayson Tatum Block.
+Duke,Elon,32,27,15,55,0,Elon Offensive Rebound.
+Duke,Elon,32,27,15,58,0,Dmitri Thompson Turnover.
+Duke,Elon,32,27,15,58,0,Chase Jeter Steal.
+Duke,Elon,32,27,16,5,0,Jayson Tatum missed Jumper.
+Duke,Elon,32,27,16,5,0,Brian Dawkins Defensive Rebound.
+Duke,Elon,32,30,16,14,1,Brian Dawkins made Three Point Jumper. Assisted by Luke Eddy.
+Duke,Elon,32,30,16,27,0,Luke Kennard missed Jumper.
+Duke,Elon,32,30,16,27,0,Luke Kennard Offensive Rebound.
+Duke,Elon,32,30,16,34,0,Foul on Brian Dawkins.
+Duke,Elon,32,30,16,34,0,Official TV Timeout
+Duke,Elon,33,30,16,34,1,Luke Kennard made Free Throw.
+Duke,Elon,34,30,16,34,1,Luke Kennard made Free Throw.
+Duke,Elon,34,30,16,54,0,Dmitri Thompson missed Layup.
+Duke,Elon,34,30,16,54,0,Jayson Tatum Block.
+Duke,Elon,34,30,16,54,0,Luke Kennard Defensive Rebound.
+Duke,Elon,34,30,17,2,0,Jayson Tatum missed Jumper.
+Duke,Elon,34,30,17,2,0,Frank Jackson Offensive Rebound.
+Duke,Elon,34,30,17,20,0,Luke Kennard missed Three Point Jumper.
+Duke,Elon,34,30,17,20,0,Dainan Swoope Defensive Rebound.
+Duke,Elon,34,33,17,28,1,Dmitri Thompson made Three Point Jumper. Assisted by Dainan Swoope.
+Duke,Elon,34,33,17,47,0,Frank Jackson missed Three Point Jumper.
+Duke,Elon,34,33,17,47,0,Brian Dawkins Defensive Rebound.
+Duke,Elon,34,33,18,4,0,Dainan Swoope missed Three Point Jumper.
+Duke,Elon,34,33,18,4,0,Jayson Tatum Defensive Rebound.
+Duke,Elon,34,33,18,13,0,Duke  Timeout
+Duke,Elon,34,33,18,33,0,Luke Kennard missed Jumper.
+Duke,Elon,34,33,18,33,0,Dmitri Thompson Block.
+Duke,Elon,34,33,18,33,0,Dainan Swoope Defensive Rebound.
+Duke,Elon,34,35,18,38,1,Dainan Swoope made Layup. Assisted by Sheldon Eberhardt.
+Duke,Elon,34,35,18,56,0,Matt Jones missed Three Point Jumper.
+Duke,Elon,34,35,18,56,0,Sheldon Eberhardt Defensive Rebound.
+Duke,Elon,34,35,19,23,0,Brian Dawkins missed Jumper.
+Duke,Elon,34,35,19,23,0,Luke Kennard Defensive Rebound.
+Duke,Elon,34,35,19,50,0,Jayson Tatum missed Three Point Jumper.
+Duke,Elon,34,35,19,50,0,Matt Jones Offensive Rebound.
+Duke,Elon,34,35,19,57,0,Luke Kennard missed Jumper.
+Duke,Elon,34,35,19,57,0,Chase Jeter Offensive Rebound.
+Duke,Elon,34,35,20,0,0,End of 1st half
+Duke,Elon,34,35,20,0,0,Jump Ball won by Elon
+Duke,Elon,34,35,20,11,0,Steven Santa Ana missed Three Point Jumper.
+Duke,Elon,34,35,20,11,0,Frank Jackson Defensive Rebound.
+Duke,Elon,34,35,20,21,0,Jayson Tatum missed Dunk.
+Duke,Elon,34,35,20,21,0,Jayson Tatum Offensive Rebound.
+Duke,Elon,34,35,20,21,0,Jayson Tatum missed Two Point Tip Shot.
+Duke,Elon,34,35,20,21,0,Dmitri Thompson Block.
+Duke,Elon,34,35,20,21,0,Brian Dawkins Defensive Rebound.
+Duke,Elon,34,35,20,30,0,Tyler Seibring missed Layup.
+Duke,Elon,34,35,20,30,0,Matt Jones Block.
+Duke,Elon,34,35,20,30,0,Elon Offensive Rebound.
+Duke,Elon,34,35,20,35,0,Dainan Swoope missed Jumper.
+Duke,Elon,34,35,20,35,0,Amile Jefferson Block.
+Duke,Elon,34,35,20,35,0,Matt Jones Defensive Rebound.
+Duke,Elon,34,35,21,4,0,Foul on Brian Dawkins.
+Duke,Elon,35,35,21,4,1,Amile Jefferson made Free Throw.
+Duke,Elon,36,35,21,4,1,Amile Jefferson made Free Throw.
+Duke,Elon,36,35,21,19,0,Foul on Brian Dawkins.
+Duke,Elon,36,35,21,19,0,Brian Dawkins Turnover.
+Duke,Elon,38,35,21,32,1,Jayson Tatum made Jumper.
+Duke,Elon,38,35,21,47,0,Foul on Luke Kennard.
+Duke,Elon,38,35,21,52,0,Dainan Swoope missed Jumper.
+Duke,Elon,38,35,21,52,0,Jayson Tatum Block.
+Duke,Elon,38,35,21,52,0,Elon Offensive Rebound.
+Duke,Elon,38,35,21,55,0,Dainan Swoope Turnover.
+Duke,Elon,38,35,21,55,0,Luke Kennard Steal.
+Duke,Elon,38,35,22,12,0,Foul on Dainan Swoope.
+Duke,Elon,39,35,22,12,1,Amile Jefferson made Free Throw.
+Duke,Elon,39,35,22,12,0,Amile Jefferson missed Free Throw.
+Duke,Elon,39,35,22,12,0,Tyler Seibring Defensive Rebound.
+Duke,Elon,39,35,22,22,0,Foul on Luke Kennard.
+Duke,Elon,39,37,22,33,1,Karolis Kundrotas made Layup.
+Duke,Elon,39,37,22,50,0,Jayson Tatum missed Three Point Jumper.
+Duke,Elon,39,37,22,50,0,Matt Jones Offensive Rebound.
+Duke,Elon,41,37,22,56,1,Matt Jones made Layup.
+Duke,Elon,41,39,23,13,1,Tyler Seibring made Layup. Assisted by Steven Santa Ana.
+Duke,Elon,43,39,23,28,1,Luke Kennard made Jumper.
+Duke,Elon,43,39,23,28,0,Foul on Dmitri Thompson.
+Duke,Elon,44,39,23,29,1,Luke Kennard made Free Throw.
+Duke,Elon,44,39,23,46,0,Foul on Grayson Allen.
+Duke,Elon,44,39,23,46,0,Steven Santa Ana missed Free Throw.
+Duke,Elon,44,39,23,46,0,Elon Deadball Team Rebound.
+Duke,Elon,44,40,23,46,1,Steven Santa Ana made Free Throw.
+Duke,Elon,47,40,23,58,1,Frank Jackson made Three Point Jumper. Assisted by Jayson Tatum.
+Duke,Elon,47,40,24,14,0,Luke Eddy Turnover.
+Duke,Elon,47,40,24,14,0,Jayson Tatum Steal.
+Duke,Elon,47,40,24,18,0,Foul on Luke Eddy.
+Duke,Elon,47,40,24,18,0,Official TV Timeout
+Duke,Elon,48,40,24,18,1,Jayson Tatum made Free Throw.
+Duke,Elon,49,40,24,18,1,Jayson Tatum made Free Throw.
+Duke,Elon,49,42,24,46,1,Steven Santa Ana made Jumper.
+Duke,Elon,51,42,25,0,1,Frank Jackson made Layup. Assisted by Grayson Allen.
+Duke,Elon,51,42,25,32,0,Elon  Turnover.
+Duke,Elon,53,42,25,52,1,Jayson Tatum made Layup.
+Duke,Elon,53,42,25,52,0,Foul on Karolis Kundrotas.
+Duke,Elon,54,42,25,52,1,Jayson Tatum made Free Throw.
+Duke,Elon,54,42,26,13,0,Steven Santa Ana missed Three Point Jumper.
+Duke,Elon,54,42,26,13,0,Grayson Allen Defensive Rebound.
+Duke,Elon,54,42,26,21,0,Matt Jones missed Three Point Jumper.
+Duke,Elon,54,42,26,21,0,Dmitri Thompson Defensive Rebound.
+Duke,Elon,54,44,26,32,1,Brian Dawkins made Layup. Assisted by Dainan Swoope.
+Duke,Elon,54,44,26,36,0,Elon  Timeout
+Duke,Elon,57,44,26,44,1,Luke Kennard made Three Point Jumper.
+Duke,Elon,57,44,27,10,0,Dmitri Thompson missed Jumper.
+Duke,Elon,57,44,27,10,0,Luke Kennard Defensive Rebound.
+Duke,Elon,57,44,27,27,0,Grayson Allen missed Three Point Jumper.
+Duke,Elon,57,44,27,27,0,Dmitri Thompson Defensive Rebound.
+Duke,Elon,57,44,27,56,0,Brian Dawkins missed Jumper.
+Duke,Elon,57,44,27,56,0,Jayson Tatum Defensive Rebound.
+Duke,Elon,57,44,28,22,0,Foul on Steven Santa Ana.
+Duke,Elon,57,44,28,22,0,Official TV Timeout
+Duke,Elon,58,44,28,22,1,Luke Kennard made Free Throw.
+Duke,Elon,59,44,28,22,1,Luke Kennard made Free Throw.
+Duke,Elon,59,44,28,33,0,Steven Santa Ana missed Layup.
+Duke,Elon,59,44,28,33,0,Matt Jones Defensive Rebound.
+Duke,Elon,59,44,28,33,0,Matt Jones Turnover.
+Duke,Elon,59,46,28,49,1,Sheldon Eberhardt made Layup. Assisted by Brian Dawkins.
+Duke,Elon,59,46,29,5,0,Luke Kennard missed Jumper.
+Duke,Elon,59,46,29,5,0,Brian Dawkins Defensive Rebound.
+Duke,Elon,59,48,29,21,1,Brian Dawkins made Layup.
+Duke,Elon,59,48,29,44,0,Jayson Tatum Turnover.
+Duke,Elon,59,48,29,44,0,Tyler Seibring Steal.
+Duke,Elon,59,48,29,58,0,Foul on Luke Eddy.
+Duke,Elon,59,48,29,58,0,Luke Eddy Turnover.
+Duke,Elon,59,48,30,13,0,Luke Kennard missed Jumper.
+Duke,Elon,59,48,30,13,0,Brian Dawkins Defensive Rebound.
+Duke,Elon,59,48,30,28,0,Foul on Harry Giles.
+Duke,Elon,59,51,30,43,1,Brian Dawkins made Three Point Jumper.
+Duke,Elon,61,51,31,3,1,Luke Kennard made Layup.
+Duke,Elon,61,51,31,3,0,Foul on Sheldon Eberhardt.
+Duke,Elon,61,51,31,3,0,Luke Kennard missed Free Throw.
+Duke,Elon,61,51,31,3,0,Christian Hairston Defensive Rebound.
+Duke,Elon,61,51,31,3,0,Foul on Harry Giles.
+Duke,Elon,61,51,31,11,0,Steven Santa Ana missed Three Point Jumper.
+Duke,Elon,61,51,31,11,0,Matt Jones Defensive Rebound.
+Duke,Elon,61,51,31,35,0,Jayson Tatum missed Jumper.
+Duke,Elon,61,51,31,35,0,Steven Santa Ana Block.
+Duke,Elon,61,51,31,35,0,Dainan Swoope Defensive Rebound.
+Duke,Elon,61,51,32,1,0,Brian Dawkins missed Layup.
+Duke,Elon,61,51,32,1,0,Harry Giles Defensive Rebound.
+Duke,Elon,61,51,32,20,0,Foul on Brian Dawkins.
+Duke,Elon,61,51,32,20,0,Official TV Timeout
+Duke,Elon,61,51,32,20,0,Harry Giles missed Free Throw.
+Duke,Elon,61,51,32,20,0,Duke Deadball Team Rebound.
+Duke,Elon,62,51,32,20,1,Harry Giles made Free Throw.
+Duke,Elon,62,51,32,38,0,Sheldon Eberhardt missed Three Point Jumper.
+Duke,Elon,62,51,32,38,0,Elon Offensive Rebound.
+Duke,Elon,62,51,32,59,0,Tyler Seibring missed Three Point Jumper.
+Duke,Elon,62,51,32,59,0,Steven Santa Ana Offensive Rebound.
+Duke,Elon,62,51,33,6,0,Tyler Seibring Turnover.
+Duke,Elon,62,51,33,6,0,Matt Jones Steal.
+Duke,Elon,64,51,33,36,1,Amile Jefferson made Jumper.
+Duke,Elon,64,51,33,47,0,Karolis Kundrotas missed Layup.
+Duke,Elon,64,51,33,47,0,Karolis Kundrotas Offensive Rebound.
+Duke,Elon,64,53,33,52,1,Tyler Seibring made Layup.
+Duke,Elon,64,53,34,12,0,Jayson Tatum missed Layup.
+Duke,Elon,64,53,34,12,0,Amile Jefferson Offensive Rebound.
+Duke,Elon,64,53,34,16,0,Foul on Dmitri Thompson.
+Duke,Elon,65,53,34,16,1,Amile Jefferson made Free Throw.
+Duke,Elon,66,53,34,16,1,Amile Jefferson made Free Throw.
+Duke,Elon,66,53,34,32,0,Dainan Swoope Turnover.
+Duke,Elon,66,53,34,32,0,Jayson Tatum Steal.
+Duke,Elon,66,53,34,48,0,Jayson Tatum missed Jumper.
+Duke,Elon,66,53,34,48,0,Dmitri Thompson Defensive Rebound.
+Duke,Elon,66,53,35,8,0,Dmitri Thompson Turnover.
+Duke,Elon,68,53,35,16,1,Amile Jefferson made Layup. Assisted by Grayson Allen.
+Duke,Elon,68,53,35,16,0,Foul on Sheldon Eberhardt.
+Duke,Elon,69,53,35,16,1,Amile Jefferson made Free Throw.
+Duke,Elon,69,55,35,30,1,Brian Dawkins made Layup.
+Duke,Elon,69,55,35,54,0,Grayson Allen missed Three Point Jumper.
+Duke,Elon,69,55,35,54,0,Brian Dawkins Defensive Rebound.
+Duke,Elon,69,55,36,29,0,Foul on Frank Jackson.
+Duke,Elon,69,55,36,29,0,Official TV Timeout
+Duke,Elon,69,55,36,39,0,Tyler Seibring missed Jumper.
+Duke,Elon,69,55,36,39,0,Amile Jefferson Block.
+Duke,Elon,69,55,36,39,0,Amile Jefferson Defensive Rebound.
+Duke,Elon,69,55,36,44,0,Foul on Tyler Seibring.
+Duke,Elon,69,55,36,44,0,Amile Jefferson missed Free Throw.
+Duke,Elon,69,55,36,44,0,Duke Deadball Team Rebound.
+Duke,Elon,70,55,36,44,1,Amile Jefferson made Free Throw.
+Duke,Elon,70,55,37,5,0,Brian Dawkins missed Jumper.
+Duke,Elon,70,55,37,5,0,Amile Jefferson Defensive Rebound.
+Duke,Elon,70,55,37,9,0,Foul on Brian Dawkins.
+Duke,Elon,71,55,37,9,1,Amile Jefferson made Free Throw.
+Duke,Elon,72,55,37,9,1,Amile Jefferson made Free Throw.
+Duke,Elon,72,57,37,19,1,Steven Santa Ana made Layup.
+Duke,Elon,72,57,37,46,0,Jayson Tatum missed Jumper.
+Duke,Elon,72,57,37,46,0,Sheldon Eberhardt Defensive Rebound.
+Duke,Elon,72,59,38,3,1,Sheldon Eberhardt made Layup. Assisted by Steven Santa Ana.
+Duke,Elon,72,59,38,5,0,Elon  Timeout
+Duke,Elon,72,59,38,32,0,Luke Kennard missed Jumper.
+Duke,Elon,72,59,38,32,0,Karolis Kundrotas Defensive Rebound.
+Duke,Elon,72,59,38,43,0,Steven Santa Ana missed Three Point Jumper.
+Duke,Elon,72,59,38,43,0,Jayson Tatum Defensive Rebound.
+Duke,Elon,72,59,39,8,0,Amile Jefferson Turnover.
+Duke,Elon,72,59,39,26,0,Sheldon Eberhardt missed Three Point Jumper.
+Duke,Elon,72,59,39,26,0,Karolis Kundrotas Offensive Rebound.
+Duke,Elon,72,61,39,36,1,Karolis Kundrotas made Jumper.
+Duke,Elon,72,61,40,0,0,End of Game

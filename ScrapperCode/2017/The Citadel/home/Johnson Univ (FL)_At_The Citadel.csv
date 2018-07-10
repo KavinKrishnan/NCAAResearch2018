@@ -1,0 +1,525 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Johnson Univ (FL),The Citadel,0,3,0,14,1,Frankie Johnson made Three Point Jumper.
+Johnson Univ (FL),The Citadel,0,3,0,20,0,Douet Broughton Turnover.
+Johnson Univ (FL),The Citadel,0,3,0,21,0,Matt Frierson Steal.
+Johnson Univ (FL),The Citadel,0,3,0,26,0,Matt Frierson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,0,3,0,26,0,Frankie Johnson Offensive Rebound.
+Johnson Univ (FL),The Citadel,0,5,0,36,1,Leandro Allende made Layup.
+Johnson Univ (FL),The Citadel,0,5,0,55,0,Caleb Winfrey missed Jumper.
+Johnson Univ (FL),The Citadel,0,5,0,55,0,Frankie Johnson Defensive Rebound.
+Johnson Univ (FL),The Citadel,0,5,1,6,0,Frankie Johnson Turnover.
+Johnson Univ (FL),The Citadel,0,5,1,9,0,Douet Broughton Steal.
+Johnson Univ (FL),The Citadel,2,5,1,10,1,Duane Howard made Layup. Assisted by Douet Broughton.
+Johnson Univ (FL),The Citadel,2,5,1,20,0,Leandro Allende missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,2,5,1,20,0,Warren Sledge Offensive Rebound.
+Johnson Univ (FL),The Citadel,2,5,1,29,0,Foul on Jon Baker.
+Johnson Univ (FL),The Citadel,2,5,1,38,0,Foul on Caleb Winfrey.
+Johnson Univ (FL),The Citadel,2,5,1,38,0,Zane Najdawi missed Free Throw.
+Johnson Univ (FL),The Citadel,2,5,1,38,0,The Citadel Deadball Team Rebound.
+Johnson Univ (FL),The Citadel,2,6,1,38,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,2,6,1,43,0,Duane Howard Turnover.
+Johnson Univ (FL),The Citadel,2,6,1,45,0,Matt Frierson Steal.
+Johnson Univ (FL),The Citadel,2,8,1,51,1,Zane Najdawi made Layup. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,2,8,2,7,0,Josh Grover missed Jumper.
+Johnson Univ (FL),The Citadel,2,8,2,7,0,Zane Najdawi Defensive Rebound.
+Johnson Univ (FL),The Citadel,2,8,2,12,0,Matt Frierson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,2,8,2,12,0,Douet Broughton Defensive Rebound.
+Johnson Univ (FL),The Citadel,2,8,2,24,0,Duane Howard Turnover.
+Johnson Univ (FL),The Citadel,2,8,2,40,0,Tom Koopman missed Jumper.
+Johnson Univ (FL),The Citadel,2,8,2,40,0,Tim Gunn Defensive Rebound.
+Johnson Univ (FL),The Citadel,2,8,3,2,0,Mikhail Lobatos missed Jumper.
+Johnson Univ (FL),The Citadel,2,8,3,2,0,Brian White Defensive Rebound.
+Johnson Univ (FL),The Citadel,2,8,3,11,0,Preston Parks missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,2,8,3,11,0,Tom Koopman Offensive Rebound.
+Johnson Univ (FL),The Citadel,2,8,3,16,0,Foul on Isaiah Louis.
+Johnson Univ (FL),The Citadel,2,9,3,16,1,Tom Koopman made Free Throw.
+Johnson Univ (FL),The Citadel,2,10,3,16,1,Tom Koopman made Free Throw.
+Johnson Univ (FL),The Citadel,2,10,3,32,0,Foul on Tom Koopman.
+Johnson Univ (FL),The Citadel,5,10,3,33,1,Mikhail Lobatos made Three Point Jumper. Assisted by Josh Grover.
+Johnson Univ (FL),The Citadel,5,13,3,44,1,Aaron Washington made Three Point Jumper. Assisted by Tom Koopman.
+Johnson Univ (FL),The Citadel,5,13,3,56,0,Mikhail Lobatos missed Layup.
+Johnson Univ (FL),The Citadel,5,13,3,56,0,Brian White Defensive Rebound.
+Johnson Univ (FL),The Citadel,5,13,4,1,0,Brian White Turnover.
+Johnson Univ (FL),The Citadel,5,13,4,5,0,Foul on Izic Vanegas.
+Johnson Univ (FL),The Citadel,5,13,4,5,0,Official TV Timeout
+Johnson Univ (FL),The Citadel,5,13,4,15,0,Foul on Mikhail Lobatos.
+Johnson Univ (FL),The Citadel,5,14,4,15,1,Frankie Johnson made Free Throw.
+Johnson Univ (FL),The Citadel,5,15,4,15,1,Frankie Johnson made Free Throw.
+Johnson Univ (FL),The Citadel,5,15,4,19,0,Tim Gunn Turnover.
+Johnson Univ (FL),The Citadel,5,15,4,35,0,Aaron Washington missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,5,15,4,35,0,Leandro Allende Offensive Rebound.
+Johnson Univ (FL),The Citadel,5,17,4,41,1,Leandro Allende made Layup.
+Johnson Univ (FL),The Citadel,7,17,4,54,1,Tim Gunn made Layup. Assisted by Izic Vanegas.
+Johnson Univ (FL),The Citadel,7,17,4,54,0,Foul on Aaron Washington.
+Johnson Univ (FL),The Citadel,7,17,4,54,0,Tim Gunn missed Free Throw.
+Johnson Univ (FL),The Citadel,7,17,4,54,0,Zane Najdawi Defensive Rebound.
+Johnson Univ (FL),The Citadel,7,20,5,4,1,Matt Frierson made Three Point Jumper. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,7,20,5,16,0,Jon Baker Turnover.
+Johnson Univ (FL),The Citadel,7,22,5,26,1,Zane Najdawi made Layup. Assisted by Matt Frierson.
+Johnson Univ (FL),The Citadel,9,22,5,37,1,Duane Howard made Layup.
+Johnson Univ (FL),The Citadel,9,22,5,45,0,Preston Parks missed Layup.
+Johnson Univ (FL),The Citadel,9,22,5,45,0,Mikhail Lobatos Defensive Rebound.
+Johnson Univ (FL),The Citadel,12,22,6,4,1,Douet Broughton made Three Point Jumper. Assisted by Duane Howard.
+Johnson Univ (FL),The Citadel,12,22,6,11,0,Preston Parks Turnover.
+Johnson Univ (FL),The Citadel,15,22,6,20,1,Caleb Winfrey made Three Point Jumper. Assisted by Jon Baker.
+Johnson Univ (FL),The Citadel,15,22,6,33,0,Zane Najdawi missed Jumper.
+Johnson Univ (FL),The Citadel,15,22,6,33,0,Mikhail Lobatos Defensive Rebound.
+Johnson Univ (FL),The Citadel,15,22,6,44,0,Josh Grover missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,15,22,6,44,0,Matt Frierson Defensive Rebound.
+Johnson Univ (FL),The Citadel,15,22,6,48,0,Foul on Caleb Winfrey.
+Johnson Univ (FL),The Citadel,15,22,6,55,0,Leandro Allende missed Jumper.
+Johnson Univ (FL),The Citadel,15,22,6,55,0,Douet Broughton Defensive Rebound.
+Johnson Univ (FL),The Citadel,15,22,7,1,0,Foul on Leandro Allende.
+Johnson Univ (FL),The Citadel,16,22,7,1,1,Douet Broughton made Free Throw.
+Johnson Univ (FL),The Citadel,17,22,7,1,1,Douet Broughton made Free Throw.
+Johnson Univ (FL),The Citadel,17,22,7,5,0,Warren Sledge missed Layup.
+Johnson Univ (FL),The Citadel,17,22,7,5,0,Jon Baker Block.
+Johnson Univ (FL),The Citadel,17,22,7,5,0,The Citadel Offensive Rebound.
+Johnson Univ (FL),The Citadel,17,22,7,7,0,Tom Koopman missed Jumper.
+Johnson Univ (FL),The Citadel,17,22,7,7,0,Johnson University Florida Defensive Rebound.
+Johnson Univ (FL),The Citadel,17,22,7,27,0,Douet Broughton missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,17,22,7,27,0,Warren Sledge Defensive Rebound.
+Johnson Univ (FL),The Citadel,17,22,7,34,0,Warren Sledge Turnover.
+Johnson Univ (FL),The Citadel,17,22,7,35,0,Josh Grover Steal.
+Johnson Univ (FL),The Citadel,17,22,7,41,0,Josh Grover missed Jumper.
+Johnson Univ (FL),The Citadel,17,22,7,41,0,Tom Koopman Block.
+Johnson Univ (FL),The Citadel,17,22,7,41,0,The Citadel Defensive Rebound.
+Johnson Univ (FL),The Citadel,17,22,7,42,0,Matt Frierson Turnover.
+Johnson Univ (FL),The Citadel,17,22,7,55,0,Foul on Frankie Johnson.
+Johnson Univ (FL),The Citadel,17,22,7,58,0,Frankie Johnson Steal.
+Johnson Univ (FL),The Citadel,17,24,8,0,1,Frankie Johnson made Layup.
+Johnson Univ (FL),The Citadel,19,24,8,5,1,Duane Howard made Layup. Assisted by Josh Grover.
+Johnson Univ (FL),The Citadel,20,24,8,5,1,Duane Howard made Free Throw.
+Johnson Univ (FL),The Citadel,20,24,8,5,0,Matt Frierson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,20,24,8,5,0,Caleb Winfrey Defensive Rebound.
+Johnson Univ (FL),The Citadel,20,24,8,11,0,Caleb Winfrey Turnover.
+Johnson Univ (FL),The Citadel,20,24,8,12,0,Brian White Steal.
+Johnson Univ (FL),The Citadel,20,26,8,14,1,Brian White made Layup.
+Johnson Univ (FL),The Citadel,22,26,8,27,1,Caleb Winfrey made Jumper. Assisted by Duane Howard.
+Johnson Univ (FL),The Citadel,22,26,8,41,0,Tom Koopman Turnover.
+Johnson Univ (FL),The Citadel,22,26,8,44,0,Josh Grover Steal.
+Johnson Univ (FL),The Citadel,24,26,8,45,1,Caleb Winfrey made Layup.
+Johnson Univ (FL),The Citadel,24,26,8,58,0,Matt Frierson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,24,26,8,58,0,Duane Howard Defensive Rebound.
+Johnson Univ (FL),The Citadel,24,26,9,11,0,Foul on Brian White.
+Johnson Univ (FL),The Citadel,24,26,9,11,0,Official TV Timeout
+Johnson Univ (FL),The Citadel,24,26,9,18,0,Josh Grover Turnover.
+Johnson Univ (FL),The Citadel,24,26,9,19,0,Matt Frierson Steal.
+Johnson Univ (FL),The Citadel,24,26,9,22,0,Foul on Izic Vanegas.
+Johnson Univ (FL),The Citadel,24,27,9,22,1,Preston Parks made Free Throw.
+Johnson Univ (FL),The Citadel,24,28,9,22,1,Preston Parks made Free Throw.
+Johnson Univ (FL),The Citadel,24,28,9,22,0,Foul on Leandro Allende.
+Johnson Univ (FL),The Citadel,24,28,9,31,0,Jon Baker missed Jumper.
+Johnson Univ (FL),The Citadel,24,28,9,31,0,The Citadel Defensive Rebound.
+Johnson Univ (FL),The Citadel,24,28,9,36,0,Matt Frierson Turnover.
+Johnson Univ (FL),The Citadel,24,28,9,38,0,Josh Grover Turnover.
+Johnson Univ (FL),The Citadel,24,28,9,40,0,Aaron Washington Steal.
+Johnson Univ (FL),The Citadel,24,28,9,52,0,Leandro Allende missed Jumper.
+Johnson Univ (FL),The Citadel,24,28,9,52,0,Preston Parks Offensive Rebound.
+Johnson Univ (FL),The Citadel,24,30,10,0,1,Zane Najdawi made Layup. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,24,30,10,0,0,Foul on Tim Gunn.
+Johnson Univ (FL),The Citadel,24,31,10,0,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,24,31,10,7,0,Johnson University Florida  Timeout
+Johnson Univ (FL),The Citadel,24,31,10,15,0,Jon Baker Turnover.
+Johnson Univ (FL),The Citadel,24,31,10,15,0,Preston Parks Steal.
+Johnson Univ (FL),The Citadel,24,34,10,24,1,Leandro Allende made Three Point Jumper. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,24,34,10,35,0,Josh Grover missed Layup.
+Johnson Univ (FL),The Citadel,24,34,10,35,0,Zane Najdawi Block.
+Johnson Univ (FL),The Citadel,24,34,10,37,0,Aaron Washington Defensive Rebound.
+Johnson Univ (FL),The Citadel,24,34,10,41,0,Foul on Izic Vanegas.
+Johnson Univ (FL),The Citadel,24,34,10,41,0,Aaron Washington missed Free Throw.
+Johnson Univ (FL),The Citadel,24,34,10,41,0,Leandro Allende Offensive Rebound.
+Johnson Univ (FL),The Citadel,24,34,10,47,0,Foul on Michael Levy.
+Johnson Univ (FL),The Citadel,24,35,10,48,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,24,36,10,50,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,24,36,10,55,0,Izic Vanegas Turnover.
+Johnson Univ (FL),The Citadel,24,38,11,1,1,Zane Najdawi made Jumper. Assisted by Matt Frierson.
+Johnson Univ (FL),The Citadel,24,38,11,13,0,Michael Levy missed Layup.
+Johnson Univ (FL),The Citadel,24,38,11,13,0,Frankie Johnson Defensive Rebound.
+Johnson Univ (FL),The Citadel,24,38,11,20,0,Preston Parks missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,24,38,11,20,0,Michael Levy Defensive Rebound.
+Johnson Univ (FL),The Citadel,24,38,11,40,0,Foul on Leandro Allende.
+Johnson Univ (FL),The Citadel,24,38,11,40,0,Jon Baker missed Free Throw.
+Johnson Univ (FL),The Citadel,24,38,11,40,0,Brian White Defensive Rebound.
+Johnson Univ (FL),The Citadel,24,41,11,46,1,Matt Frierson made Three Point Jumper. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,24,41,12,3,0,Foul on Jon Baker.
+Johnson Univ (FL),The Citadel,24,41,12,3,0,Official TV Timeout
+Johnson Univ (FL),The Citadel,24,41,12,5,0,Warren Sledge missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,24,41,12,5,0,Brian White Offensive Rebound.
+Johnson Univ (FL),The Citadel,24,41,12,12,0,Foul on Duane Howard.
+Johnson Univ (FL),The Citadel,24,41,12,12,0,Brian White missed Free Throw.
+Johnson Univ (FL),The Citadel,24,41,12,12,0,The Citadel Deadball Team Rebound.
+Johnson Univ (FL),The Citadel,24,42,12,12,1,Brian White made Free Throw.
+Johnson Univ (FL),The Citadel,24,42,12,15,0,Mikhail Lobatos Turnover.
+Johnson Univ (FL),The Citadel,24,42,12,16,0,Frankie Johnson Steal.
+Johnson Univ (FL),The Citadel,24,42,12,16,0,Foul on Duane Howard.
+Johnson Univ (FL),The Citadel,24,43,12,16,1,Brian White made Free Throw.
+Johnson Univ (FL),The Citadel,24,44,12,16,1,Brian White made Free Throw.
+Johnson Univ (FL),The Citadel,26,44,12,23,1,Josh Grover made Layup. Assisted by Duane Howard.
+Johnson Univ (FL),The Citadel,26,44,12,25,0,Foul on Bobby Duncan.
+Johnson Univ (FL),The Citadel,26,44,12,25,0,Josh Grover missed Free Throw.
+Johnson Univ (FL),The Citadel,26,44,12,25,0,Bobby Duncan Defensive Rebound.
+Johnson Univ (FL),The Citadel,26,46,12,28,1,Brian White made Layup. Assisted by Frankie Johnson.
+Johnson Univ (FL),The Citadel,26,46,12,45,0,Josh Grover missed Jumper.
+Johnson Univ (FL),The Citadel,26,46,12,45,0,Warren Sledge Defensive Rebound.
+Johnson Univ (FL),The Citadel,26,46,12,53,0,Frankie Johnson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,26,46,12,53,0,Frankie Johnson Offensive Rebound.
+Johnson Univ (FL),The Citadel,26,49,13,1,1,Matt Frierson made Three Point Jumper. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,26,49,13,18,0,Isaiah Louis Turnover.
+Johnson Univ (FL),The Citadel,26,49,13,20,0,Matt Frierson Steal.
+Johnson Univ (FL),The Citadel,26,51,13,23,1,Bobby Duncan made Jumper. Assisted by Matt Frierson.
+Johnson Univ (FL),The Citadel,26,51,13,23,0,Foul on Mikhail Lobatos.
+Johnson Univ (FL),The Citadel,26,52,13,23,1,Bobby Duncan made Free Throw.
+Johnson Univ (FL),The Citadel,26,52,13,44,0,Josh Grover missed Jumper.
+Johnson Univ (FL),The Citadel,26,52,13,44,0,Aaron Washington Defensive Rebound.
+Johnson Univ (FL),The Citadel,26,52,13,51,0,Tyler Burgess missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,26,52,13,51,0,Mikhail Lobatos Defensive Rebound.
+Johnson Univ (FL),The Citadel,26,52,13,56,0,Foul on Aaron Washington.
+Johnson Univ (FL),The Citadel,26,52,13,56,0,Mikhail Lobatos missed Free Throw.
+Johnson Univ (FL),The Citadel,26,52,13,56,0,Tyler Burgess Defensive Rebound.
+Johnson Univ (FL),The Citadel,26,52,14,0,0,Preston Parks missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,26,52,14,0,0,Zane Najdawi Offensive Rebound.
+Johnson Univ (FL),The Citadel,26,52,14,4,0,Zane Najdawi missed Layup.
+Johnson Univ (FL),The Citadel,26,52,14,4,0,Caleb Winfrey Defensive Rebound.
+Johnson Univ (FL),The Citadel,26,52,14,19,0,Jon Baker Turnover.
+Johnson Univ (FL),The Citadel,26,52,14,27,0,Tyler Burgess missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,26,52,14,27,0,Jon Baker Defensive Rebound.
+Johnson Univ (FL),The Citadel,26,52,14,37,0,Duane Howard missed Jumper.
+Johnson Univ (FL),The Citadel,26,52,14,37,0,Frankie Johnson Block.
+Johnson Univ (FL),The Citadel,26,52,14,37,0,Johnson University Florida Offensive Rebound.
+Johnson Univ (FL),The Citadel,26,52,14,41,0,Foul on Warren Sledge.
+Johnson Univ (FL),The Citadel,27,52,14,41,1,Duane Howard made Free Throw.
+Johnson Univ (FL),The Citadel,28,52,14,41,1,Duane Howard made Free Throw.
+Johnson Univ (FL),The Citadel,28,54,14,44,1,Zane Najdawi made Layup. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,28,54,14,58,0,Foul on Aaron Washington.
+Johnson Univ (FL),The Citadel,28,54,14,58,0,Caleb Winfrey missed Free Throw.
+Johnson Univ (FL),The Citadel,28,54,14,58,0,Johnson University Florida Deadball Team Rebound.
+Johnson Univ (FL),The Citadel,29,54,14,58,1,Caleb Winfrey made Free Throw.
+Johnson Univ (FL),The Citadel,29,54,14,58,0,Caleb Winfrey missed Free Throw.
+Johnson Univ (FL),The Citadel,29,54,14,58,0,Zane Najdawi Defensive Rebound.
+Johnson Univ (FL),The Citadel,29,54,15,3,0,Matt Frierson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,29,54,15,3,0,Zane Najdawi Offensive Rebound.
+Johnson Univ (FL),The Citadel,29,54,15,9,0,Foul on Duane Howard.
+Johnson Univ (FL),The Citadel,29,55,15,9,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,29,56,15,9,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,29,56,15,14,0,Jon Baker Turnover.
+Johnson Univ (FL),The Citadel,29,56,15,15,0,Preston Parks Steal.
+Johnson Univ (FL),The Citadel,29,56,15,21,0,Matt Frierson Turnover.
+Johnson Univ (FL),The Citadel,29,56,15,23,0,Caleb Winfrey Steal.
+Johnson Univ (FL),The Citadel,31,56,15,29,1,Douet Broughton made Jumper.
+Johnson Univ (FL),The Citadel,31,56,15,45,0,Zane Najdawi missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,31,56,15,45,0,Douet Broughton Defensive Rebound.
+Johnson Univ (FL),The Citadel,31,56,16,2,0,Jon Baker missed Layup.
+Johnson Univ (FL),The Citadel,31,56,16,2,0,Matt Frierson Defensive Rebound.
+Johnson Univ (FL),The Citadel,31,56,16,9,0,Zane Najdawi missed Layup.
+Johnson Univ (FL),The Citadel,31,56,16,9,0,Jon Baker Defensive Rebound.
+Johnson Univ (FL),The Citadel,31,56,16,16,0,Jon Baker Turnover.
+Johnson Univ (FL),The Citadel,31,56,16,17,0,Matt Frierson Steal.
+Johnson Univ (FL),The Citadel,31,59,16,18,1,Matt Frierson made Three Point Jumper. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,31,59,16,25,0,Official TV Timeout
+Johnson Univ (FL),The Citadel,31,59,16,51,0,Foul on Josh Grover.
+Johnson Univ (FL),The Citadel,31,59,16,51,0,Josh Grover Turnover.
+Johnson Univ (FL),The Citadel,31,59,16,54,0,Frankie Johnson missed Layup.
+Johnson Univ (FL),The Citadel,31,59,16,54,0,Josh Grover Defensive Rebound.
+Johnson Univ (FL),The Citadel,33,59,17,0,1,Caleb Winfrey made Layup. Assisted by Josh Grover.
+Johnson Univ (FL),The Citadel,33,59,17,7,0,Frankie Johnson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,33,59,17,7,0,Michael Levy Defensive Rebound.
+Johnson Univ (FL),The Citadel,33,59,17,17,0,Caleb Winfrey missed Jumper.
+Johnson Univ (FL),The Citadel,33,59,17,17,0,Bobby Duncan Defensive Rebound.
+Johnson Univ (FL),The Citadel,33,59,17,31,0,Foul on Jon Baker.
+Johnson Univ (FL),The Citadel,33,60,17,31,1,Bobby Duncan made Free Throw.
+Johnson Univ (FL),The Citadel,33,61,17,31,1,Bobby Duncan made Free Throw.
+Johnson Univ (FL),The Citadel,35,61,17,34,1,Douet Broughton made Layup. Assisted by Michael Levy.
+Johnson Univ (FL),The Citadel,35,61,18,0,0,Chris Ross missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,35,61,18,0,0,Caleb Winfrey Block.
+Johnson Univ (FL),The Citadel,35,61,18,5,0,Bobby Duncan Offensive Rebound.
+Johnson Univ (FL),The Citadel,35,61,18,7,0,Bobby Duncan missed Jumper.
+Johnson Univ (FL),The Citadel,35,61,18,7,0,Johnson University Florida Defensive Rebound.
+Johnson Univ (FL),The Citadel,37,61,18,10,1,Michael Levy made Layup.
+Johnson Univ (FL),The Citadel,37,61,18,14,0,Preston Parks Turnover.
+Johnson Univ (FL),The Citadel,37,61,18,17,0,Douet Broughton missed Layup.
+Johnson Univ (FL),The Citadel,37,61,18,17,0,Preston Parks Defensive Rebound.
+Johnson Univ (FL),The Citadel,37,61,18,21,0,Foul on Caleb Winfrey.
+Johnson Univ (FL),The Citadel,37,62,18,21,1,Preston Parks made Free Throw.
+Johnson Univ (FL),The Citadel,37,62,18,21,0,Preston Parks missed Free Throw.
+Johnson Univ (FL),The Citadel,37,62,18,21,0,Isaiah Louis Defensive Rebound.
+Johnson Univ (FL),The Citadel,37,62,18,21,0,Foul on Brian White.
+Johnson Univ (FL),The Citadel,38,62,18,21,1,Isaiah Louis made Free Throw.
+Johnson Univ (FL),The Citadel,39,62,18,21,1,Isaiah Louis made Free Throw.
+Johnson Univ (FL),The Citadel,39,64,18,29,1,Preston Parks made Jumper. Assisted by Brian White.
+Johnson Univ (FL),The Citadel,39,64,18,50,0,Tim Gunn Turnover.
+Johnson Univ (FL),The Citadel,39,64,19,4,0,Zane Najdawi missed Layup.
+Johnson Univ (FL),The Citadel,39,64,19,4,0,Douet Broughton Defensive Rebound.
+Johnson Univ (FL),The Citadel,39,64,19,11,0,Tim Gunn Turnover.
+Johnson Univ (FL),The Citadel,39,64,19,15,0,Warren Sledge missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,39,64,19,15,0,Zane Najdawi Offensive Rebound.
+Johnson Univ (FL),The Citadel,39,66,19,20,1,Zane Najdawi made Layup.
+Johnson Univ (FL),The Citadel,39,66,19,31,0,Michael Levy missed Jumper.
+Johnson Univ (FL),The Citadel,39,66,19,31,0,Isaiah Louis Offensive Rebound.
+Johnson Univ (FL),The Citadel,41,66,19,37,1,Isaiah Louis made Layup.
+Johnson Univ (FL),The Citadel,41,66,19,42,0,Preston Parks Turnover.
+Johnson Univ (FL),The Citadel,43,66,19,54,1,Douet Broughton made Layup.
+Johnson Univ (FL),The Citadel,43,66,20,0,0,Preston Parks missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,43,66,20,0,0,Johnson University Florida Defensive Rebound.
+Johnson Univ (FL),The Citadel,43,66,20,0,0,End of 1st half
+Johnson Univ (FL),The Citadel,43,66,20,2,0,Josh Grover Turnover.
+Johnson Univ (FL),The Citadel,43,66,20,3,0,Zane Najdawi Steal.
+Johnson Univ (FL),The Citadel,43,66,20,13,0,Zane Najdawi Turnover.
+Johnson Univ (FL),The Citadel,43,66,20,14,0,Duane Howard Steal.
+Johnson Univ (FL),The Citadel,45,66,20,17,1,Josh Grover made Layup.
+Johnson Univ (FL),The Citadel,45,66,20,24,0,Matt Frierson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,45,66,20,24,0,Warren Sledge Offensive Rebound.
+Johnson Univ (FL),The Citadel,45,66,20,33,0,Leandro Allende missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,45,66,20,33,0,Johnson University Florida Defensive Rebound.
+Johnson Univ (FL),The Citadel,45,66,20,38,0,Jon Baker Turnover.
+Johnson Univ (FL),The Citadel,45,68,20,39,1,Zane Najdawi made Layup. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,45,68,20,47,0,Josh Grover missed Jumper.
+Johnson Univ (FL),The Citadel,45,68,20,47,0,Zane Najdawi Block.
+Johnson Univ (FL),The Citadel,45,68,20,50,0,Matt Frierson Defensive Rebound.
+Johnson Univ (FL),The Citadel,45,71,20,54,1,Frankie Johnson made Three Point Jumper. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,47,71,21,3,1,Duane Howard made Layup. Assisted by Josh Grover.
+Johnson Univ (FL),The Citadel,47,74,21,10,1,Matt Frierson made Three Point Jumper. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,47,74,21,22,0,Caleb Winfrey missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,47,74,21,22,0,Zane Najdawi Defensive Rebound.
+Johnson Univ (FL),The Citadel,47,74,21,26,0,Foul on Caleb Winfrey.
+Johnson Univ (FL),The Citadel,47,74,21,35,0,Warren Sledge missed Layup.
+Johnson Univ (FL),The Citadel,47,74,21,35,0,Zane Najdawi Offensive Rebound.
+Johnson Univ (FL),The Citadel,47,74,21,36,0,Foul on Jon Baker.
+Johnson Univ (FL),The Citadel,47,74,21,36,0,Warren Sledge Turnover.
+Johnson Univ (FL),The Citadel,47,74,21,42,0,Jon Baker Steal.
+Johnson Univ (FL),The Citadel,47,76,21,47,1,Warren Sledge made Layup.
+Johnson Univ (FL),The Citadel,47,76,21,50,0,Jon Baker missed Layup.
+Johnson Univ (FL),The Citadel,47,76,21,50,0,Warren Sledge Defensive Rebound.
+Johnson Univ (FL),The Citadel,47,78,22,7,1,Warren Sledge made Layup.
+Johnson Univ (FL),The Citadel,49,78,22,15,1,Duane Howard made Layup. Assisted by Douet Broughton.
+Johnson Univ (FL),The Citadel,49,78,22,30,0,Preston Parks Turnover.
+Johnson Univ (FL),The Citadel,49,78,22,35,0,Jon Baker missed Layup.
+Johnson Univ (FL),The Citadel,49,78,22,35,0,Ezekiel Balogun Defensive Rebound.
+Johnson Univ (FL),The Citadel,49,78,22,42,0,Frankie Johnson missed Layup.
+Johnson Univ (FL),The Citadel,49,78,22,42,0,Zane Najdawi Offensive Rebound.
+Johnson Univ (FL),The Citadel,49,78,22,49,0,Quayson Williams missed Layup.
+Johnson Univ (FL),The Citadel,49,78,22,49,0,Ezekiel Balogun Offensive Rebound.
+Johnson Univ (FL),The Citadel,49,78,23,3,0,Douet Broughton missed Jumper.
+Johnson Univ (FL),The Citadel,49,78,23,3,0,Ezekiel Balogun Defensive Rebound.
+Johnson Univ (FL),The Citadel,49,78,23,9,0,Quayson Williams missed Jumper.
+Johnson Univ (FL),The Citadel,49,78,23,9,0,Frankie Johnson Offensive Rebound.
+Johnson Univ (FL),The Citadel,49,81,23,17,1,Quayson Williams made Three Point Jumper. Assisted by Frankie Johnson.
+Johnson Univ (FL),The Citadel,49,81,23,26,0,Foul on Zane Najdawi.
+Johnson Univ (FL),The Citadel,50,81,23,26,1,Caleb Winfrey made Free Throw.
+Johnson Univ (FL),The Citadel,50,81,23,26,0,Caleb Winfrey missed Free Throw.
+Johnson Univ (FL),The Citadel,50,81,23,26,0,Tom Koopman Defensive Rebound.
+Johnson Univ (FL),The Citadel,50,81,23,48,0,Quayson Williams missed Layup.
+Johnson Univ (FL),The Citadel,50,81,23,48,0,Josh Grover Defensive Rebound.
+Johnson Univ (FL),The Citadel,50,81,23,48,0,Foul on Preston Parks.
+Johnson Univ (FL),The Citadel,51,81,23,48,1,Caleb Winfrey made Free Throw.
+Johnson Univ (FL),The Citadel,51,81,23,48,0,Caleb Winfrey missed Free Throw.
+Johnson Univ (FL),The Citadel,51,81,23,48,0,Tom Koopman Defensive Rebound.
+Johnson Univ (FL),The Citadel,51,81,23,52,0,Matt Frierson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,51,81,23,52,0,Johnson University Florida Defensive Rebound.
+Johnson Univ (FL),The Citadel,51,81,23,53,0,Foul on Tom Koopman.
+Johnson Univ (FL),The Citadel,51,81,23,55,0,Mikhail Lobatos Turnover.
+Johnson Univ (FL),The Citadel,51,81,23,57,0,Preston Parks Steal.
+Johnson Univ (FL),The Citadel,51,83,23,58,1,Ezekiel Balogun made Jumper.
+Johnson Univ (FL),The Citadel,51,83,23,59,0,Foul on Mikhail Lobatos.
+Johnson Univ (FL),The Citadel,51,83,23,59,0,Ezekiel Balogun missed Free Throw.
+Johnson Univ (FL),The Citadel,51,83,23,59,0,Mikhail Lobatos Defensive Rebound.
+Johnson Univ (FL),The Citadel,51,83,24,2,0,Josh Grover missed Jumper.
+Johnson Univ (FL),The Citadel,51,83,24,2,0,Tom Koopman Defensive Rebound.
+Johnson Univ (FL),The Citadel,51,83,24,12,0,Preston Parks missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,51,83,24,12,0,The Citadel Offensive Rebound.
+Johnson Univ (FL),The Citadel,51,83,24,15,0,Official TV Timeout
+Johnson Univ (FL),The Citadel,51,85,24,17,1,Ezekiel Balogun made Layup. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,51,85,24,35,0,Mikhail Lobatos missed Jumper.
+Johnson Univ (FL),The Citadel,51,85,24,35,0,Caleb Winfrey Offensive Rebound.
+Johnson Univ (FL),The Citadel,51,85,24,43,0,Caleb Winfrey Turnover.
+Johnson Univ (FL),The Citadel,51,85,24,45,0,Preston Parks Steal.
+Johnson Univ (FL),The Citadel,51,87,24,47,1,Quayson Williams made Layup. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,51,87,24,55,0,Josh Grover missed Jumper.
+Johnson Univ (FL),The Citadel,51,87,24,55,0,Mikhail Lobatos Offensive Rebound.
+Johnson Univ (FL),The Citadel,51,87,24,59,0,Mikhail Lobatos Turnover.
+Johnson Univ (FL),The Citadel,51,89,25,4,1,Tom Koopman made Layup. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,51,89,25,15,0,Caleb Winfrey Turnover.
+Johnson Univ (FL),The Citadel,51,89,25,17,0,Preston Parks Steal.
+Johnson Univ (FL),The Citadel,51,89,25,24,0,Tom Koopman Turnover.
+Johnson Univ (FL),The Citadel,51,89,25,33,0,Caleb Winfrey missed Jumper.
+Johnson Univ (FL),The Citadel,51,89,25,33,0,Izic Vanegas Offensive Rebound.
+Johnson Univ (FL),The Citadel,54,89,25,42,1,Caleb Winfrey made Three Point Jumper. Assisted by Duane Howard.
+Johnson Univ (FL),The Citadel,54,91,25,51,1,Zane Najdawi made Layup. Assisted by Frankie Johnson.
+Johnson Univ (FL),The Citadel,54,91,26,11,0,Douet Broughton Turnover.
+Johnson Univ (FL),The Citadel,54,91,26,13,0,Zane Najdawi Steal.
+Johnson Univ (FL),The Citadel,54,91,26,16,0,Leandro Allende missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,54,91,26,16,0,Brian White Offensive Rebound.
+Johnson Univ (FL),The Citadel,54,91,26,20,0,Foul on Izic Vanegas.
+Johnson Univ (FL),The Citadel,54,92,26,20,1,Brian White made Free Throw.
+Johnson Univ (FL),The Citadel,54,93,26,20,1,Brian White made Free Throw.
+Johnson Univ (FL),The Citadel,54,93,26,24,0,Izic Vanegas Turnover.
+Johnson Univ (FL),The Citadel,54,93,26,25,0,Frankie Johnson Steal.
+Johnson Univ (FL),The Citadel,54,96,26,28,1,Frankie Johnson made Three Point Jumper. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,54,96,26,36,0,Josh Grover Turnover.
+Johnson Univ (FL),The Citadel,54,96,26,38,0,Warren Sledge missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,54,96,26,38,0,Douet Broughton Defensive Rebound.
+Johnson Univ (FL),The Citadel,54,96,26,58,0,Josh Grover missed Jumper.
+Johnson Univ (FL),The Citadel,54,96,26,58,0,Frankie Johnson Defensive Rebound.
+Johnson Univ (FL),The Citadel,54,96,27,0,0,Foul on Josh Grover.
+Johnson Univ (FL),The Citadel,54,96,27,7,0,Foul on Isaiah Louis.
+Johnson Univ (FL),The Citadel,54,96,27,14,0,Brian White missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,54,96,27,14,0,Douet Broughton Defensive Rebound.
+Johnson Univ (FL),The Citadel,54,96,27,15,0,Frankie Johnson Offensive Rebound.
+Johnson Univ (FL),The Citadel,54,96,27,16,0,Frankie Johnson missed Jumper.
+Johnson Univ (FL),The Citadel,54,96,27,17,0,Leandro Allende Offensive Rebound.
+Johnson Univ (FL),The Citadel,54,98,27,22,1,Leandro Allende made Jumper.
+Johnson Univ (FL),The Citadel,54,98,27,38,0,Foul on Zane Najdawi.
+Johnson Univ (FL),The Citadel,54,98,27,38,0,Josh Grover missed Free Throw.
+Johnson Univ (FL),The Citadel,54,98,27,38,0,Johnson University Florida Deadball Team Rebound.
+Johnson Univ (FL),The Citadel,54,98,27,38,0,Josh Grover missed Free Throw.
+Johnson Univ (FL),The Citadel,54,98,27,38,0,Zane Najdawi Defensive Rebound.
+Johnson Univ (FL),The Citadel,54,99,27,57,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,54,99,27,57,0,Foul on Izic Vanegas.
+Johnson Univ (FL),The Citadel,54,100,27,57,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,54,100,28,2,0,Josh Grover Turnover.
+Johnson Univ (FL),The Citadel,54,100,28,3,0,Leandro Allende Steal.
+Johnson Univ (FL),The Citadel,54,100,28,12,0,Foul on Jon Baker.
+Johnson Univ (FL),The Citadel,54,100,28,12,0,Johnson University Florida  Timeout
+Johnson Univ (FL),The Citadel,54,100,28,12,0,Johnson University Florida  Timeout
+Johnson Univ (FL),The Citadel,54,101,28,12,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,54,102,28,12,1,Zane Najdawi made Free Throw.
+Johnson Univ (FL),The Citadel,56,102,28,18,1,Douet Broughton made Jumper. Assisted by Duane Howard.
+Johnson Univ (FL),The Citadel,56,102,28,26,0,Warren Sledge missed Layup.
+Johnson Univ (FL),The Citadel,56,102,28,26,0,Douet Broughton Defensive Rebound.
+Johnson Univ (FL),The Citadel,56,102,28,30,0,Foul on Ezekiel Balogun.
+Johnson Univ (FL),The Citadel,58,102,28,45,1,Douet Broughton made Layup. Assisted by Duane Howard.
+Johnson Univ (FL),The Citadel,58,105,28,53,1,Quayson Williams made Three Point Jumper. Assisted by Warren Sledge.
+Johnson Univ (FL),The Citadel,60,105,29,9,1,Isaiah Louis made Jumper.
+Johnson Univ (FL),The Citadel,60,105,29,14,0,The Citadel  Timeout
+Johnson Univ (FL),The Citadel,60,105,29,30,0,Aaron Washington missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,60,105,29,30,0,Isaiah Louis Defensive Rebound.
+Johnson Univ (FL),The Citadel,60,105,29,45,0,Josh Grover missed Layup.
+Johnson Univ (FL),The Citadel,60,105,29,45,0,Ezekiel Balogun Block.
+Johnson Univ (FL),The Citadel,60,105,29,48,0,Isaiah Louis Offensive Rebound.
+Johnson Univ (FL),The Citadel,62,105,29,55,1,Josh Grover made Layup. Assisted by Duane Howard.
+Johnson Univ (FL),The Citadel,62,105,30,2,0,Matt Frierson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,62,105,30,2,0,Douet Broughton Defensive Rebound.
+Johnson Univ (FL),The Citadel,62,105,30,5,0,Douet Broughton Turnover.
+Johnson Univ (FL),The Citadel,62,105,30,11,0,Preston Parks missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,62,105,30,11,0,Brian White Offensive Rebound.
+Johnson Univ (FL),The Citadel,62,105,30,18,0,Ezekiel Balogun missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,62,105,30,18,0,Preston Parks Offensive Rebound.
+Johnson Univ (FL),The Citadel,62,105,30,24,0,Preston Parks missed Jumper.
+Johnson Univ (FL),The Citadel,62,105,30,24,0,Preston Parks Offensive Rebound.
+Johnson Univ (FL),The Citadel,62,107,30,24,1,Brian White made Jumper. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,62,107,30,24,0,Foul on Douet Broughton.
+Johnson Univ (FL),The Citadel,62,108,30,24,1,Brian White made Free Throw.
+Johnson Univ (FL),The Citadel,62,108,30,27,0,Duane Howard Turnover.
+Johnson Univ (FL),The Citadel,62,108,30,29,0,Aaron Washington Steal.
+Johnson Univ (FL),The Citadel,62,110,30,30,1,Aaron Washington made Layup.
+Johnson Univ (FL),The Citadel,62,110,30,48,0,Duane Howard missed Jumper.
+Johnson Univ (FL),The Citadel,62,110,30,48,0,Matt Frierson Defensive Rebound.
+Johnson Univ (FL),The Citadel,62,112,30,59,1,Brian White made Layup. Assisted by Matt Frierson.
+Johnson Univ (FL),The Citadel,62,112,31,6,0,Josh Grover Turnover.
+Johnson Univ (FL),The Citadel,62,112,31,8,0,Brian White Steal.
+Johnson Univ (FL),The Citadel,62,114,31,12,1,Ezekiel Balogun made Layup. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,62,114,31,21,0,Foul on Brian White.
+Johnson Univ (FL),The Citadel,62,114,31,24,0,Michael Levy Turnover.
+Johnson Univ (FL),The Citadel,62,114,31,25,0,Tom Koopman Steal.
+Johnson Univ (FL),The Citadel,62,114,31,31,0,Matt Frierson missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,62,114,31,31,0,Tom Koopman Offensive Rebound.
+Johnson Univ (FL),The Citadel,62,117,31,36,1,Matt Frierson made Three Point Jumper. Assisted by Tom Koopman.
+Johnson Univ (FL),The Citadel,62,117,31,56,0,Foul on Aaron Washington.
+Johnson Univ (FL),The Citadel,62,117,31,56,0,Isaiah Louis missed Free Throw.
+Johnson Univ (FL),The Citadel,62,117,31,56,0,Brian White Defensive Rebound.
+Johnson Univ (FL),The Citadel,62,117,32,1,0,Preston Parks Turnover.
+Johnson Univ (FL),The Citadel,62,117,32,1,0,Official TV Timeout
+Johnson Univ (FL),The Citadel,62,117,32,15,0,Michael Levy Turnover.
+Johnson Univ (FL),The Citadel,62,117,32,15,0,Tom Koopman Steal.
+Johnson Univ (FL),The Citadel,62,120,32,19,1,Matt Frierson made Three Point Jumper. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,64,120,32,37,1,Josh Grover made Jumper.
+Johnson Univ (FL),The Citadel,64,120,32,45,0,Brian White Turnover.
+Johnson Univ (FL),The Citadel,64,120,32,46,0,Caleb Winfrey Steal.
+Johnson Univ (FL),The Citadel,64,120,32,49,0,Isaiah Louis missed Layup.
+Johnson Univ (FL),The Citadel,64,120,32,49,0,Brian White Defensive Rebound.
+Johnson Univ (FL),The Citadel,64,120,32,53,0,Preston Parks missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,64,120,32,53,0,Brian White Offensive Rebound.
+Johnson Univ (FL),The Citadel,64,122,32,56,1,Brian White made Layup.
+Johnson Univ (FL),The Citadel,64,122,33,15,0,Josh Grover Turnover.
+Johnson Univ (FL),The Citadel,64,122,33,15,0,Brian White Steal.
+Johnson Univ (FL),The Citadel,64,122,33,15,0,Foul on Josh Grover.
+Johnson Univ (FL),The Citadel,64,123,33,15,1,Brian White made Free Throw.
+Johnson Univ (FL),The Citadel,64,124,33,15,1,Brian White made Free Throw.
+Johnson Univ (FL),The Citadel,64,124,33,23,0,Foul on Preston Parks.
+Johnson Univ (FL),The Citadel,64,124,33,23,0,Josh Grover missed Free Throw.
+Johnson Univ (FL),The Citadel,64,124,33,23,0,Josh Grover Offensive Rebound.
+Johnson Univ (FL),The Citadel,64,124,33,24,0,Foul on Tom Koopman.
+Johnson Univ (FL),The Citadel,65,124,33,26,1,Josh Grover made Free Throw.
+Johnson Univ (FL),The Citadel,66,124,33,26,1,Josh Grover made Free Throw.
+Johnson Univ (FL),The Citadel,66,124,33,35,0,Foul on Mikhail Lobatos.
+Johnson Univ (FL),The Citadel,66,125,33,35,1,Warren Sledge made Free Throw.
+Johnson Univ (FL),The Citadel,66,126,33,35,1,Warren Sledge made Free Throw.
+Johnson Univ (FL),The Citadel,66,126,33,49,0,Mikhail Lobatos missed Jumper.
+Johnson Univ (FL),The Citadel,66,126,33,49,0,Ezekiel Balogun Defensive Rebound.
+Johnson Univ (FL),The Citadel,66,126,33,58,0,Warren Sledge Turnover.
+Johnson Univ (FL),The Citadel,68,126,34,9,1,Josh Grover made Layup.
+Johnson Univ (FL),The Citadel,68,126,34,27,0,Foul on Mikhail Lobatos.
+Johnson Univ (FL),The Citadel,68,127,34,27,1,Warren Sledge made Free Throw.
+Johnson Univ (FL),The Citadel,68,128,34,27,1,Warren Sledge made Free Throw.
+Johnson Univ (FL),The Citadel,68,128,34,39,0,Duane Howard Turnover.
+Johnson Univ (FL),The Citadel,68,128,34,40,0,Preston Parks Steal.
+Johnson Univ (FL),The Citadel,68,130,34,43,1,Ezekiel Balogun made Dunk. Assisted by Preston Parks.
+Johnson Univ (FL),The Citadel,68,130,35,0,0,Isaiah Louis Turnover.
+Johnson Univ (FL),The Citadel,68,130,35,1,0,Preston Parks Steal.
+Johnson Univ (FL),The Citadel,68,130,35,6,0,Ezekiel Balogun missed Layup.
+Johnson Univ (FL),The Citadel,68,130,35,6,0,Ezekiel Balogun Offensive Rebound.
+Johnson Univ (FL),The Citadel,68,130,35,9,0,Ezekiel Balogun missed Jumper.
+Johnson Univ (FL),The Citadel,68,130,35,9,0,Isaiah Louis Block.
+Johnson Univ (FL),The Citadel,68,130,35,11,0,Ezekiel Balogun Offensive Rebound.
+Johnson Univ (FL),The Citadel,68,130,35,13,0,Foul on Isaiah Louis.
+Johnson Univ (FL),The Citadel,68,131,35,13,1,Ezekiel Balogun made Free Throw.
+Johnson Univ (FL),The Citadel,68,131,35,13,0,Ezekiel Balogun missed Free Throw.
+Johnson Univ (FL),The Citadel,68,131,35,13,0,Johnson University Florida Defensive Rebound.
+Johnson Univ (FL),The Citadel,69,131,35,14,1,Tim Gunn made Free Throw.
+Johnson Univ (FL),The Citadel,69,131,35,19,0,Chris Ross missed Layup.
+Johnson Univ (FL),The Citadel,69,131,35,19,0,Chris Ross Offensive Rebound.
+Johnson Univ (FL),The Citadel,69,133,35,19,1,Chris Ross made Jumper.
+Johnson Univ (FL),The Citadel,69,133,35,21,0,Foul on Bobby Duncan.
+Johnson Univ (FL),The Citadel,70,133,35,26,1,Tim Gunn made Free Throw.
+Johnson Univ (FL),The Citadel,70,133,36,1,0,Douet Broughton Turnover.
+Johnson Univ (FL),The Citadel,70,133,36,2,0,Preston Parks Steal.
+Johnson Univ (FL),The Citadel,70,133,36,9,0,Preston Parks Turnover.
+Johnson Univ (FL),The Citadel,72,133,36,16,1,Josh Grover made Layup.
+Johnson Univ (FL),The Citadel,72,133,36,26,0,Tyler Burgess Turnover.
+Johnson Univ (FL),The Citadel,72,133,36,39,0,Tim Gunn Turnover.
+Johnson Univ (FL),The Citadel,72,133,36,47,0,Griffin Peevey missed Layup.
+Johnson Univ (FL),The Citadel,72,133,36,47,0,Isaiah Louis Defensive Rebound.
+Johnson Univ (FL),The Citadel,74,133,37,4,1,Douet Broughton made Layup.
+Johnson Univ (FL),The Citadel,74,136,37,11,1,Chris Ross made Three Point Jumper. Assisted by Bobby Duncan.
+Johnson Univ (FL),The Citadel,76,136,37,39,1,Josh Grover made Layup.
+Johnson Univ (FL),The Citadel,76,136,37,47,0,Foul on Bobby Duncan.
+Johnson Univ (FL),The Citadel,76,136,37,47,0,Bobby Duncan Turnover.
+Johnson Univ (FL),The Citadel,76,136,37,55,0,Foul on Bobby Duncan.
+Johnson Univ (FL),The Citadel,77,136,37,55,1,Douet Broughton made Free Throw.
+Johnson Univ (FL),The Citadel,77,136,37,55,0,Douet Broughton missed Free Throw.
+Johnson Univ (FL),The Citadel,77,136,37,55,0,Tyler Burgess Defensive Rebound.
+Johnson Univ (FL),The Citadel,77,136,38,3,0,Foul on Michael Levy.
+Johnson Univ (FL),The Citadel,77,137,38,3,1,Aaron Washington made Free Throw.
+Johnson Univ (FL),The Citadel,77,138,38,3,1,Aaron Washington made Free Throw.
+Johnson Univ (FL),The Citadel,79,138,38,18,1,Josh Grover made Layup.
+Johnson Univ (FL),The Citadel,79,138,38,32,0,Tyler Burgess missed Three Point Jumper.
+Johnson Univ (FL),The Citadel,79,138,38,32,0,Johnson University Florida Defensive Rebound.
+Johnson Univ (FL),The Citadel,79,138,38,34,0,Foul on Bobby Duncan.
+Johnson Univ (FL),The Citadel,79,138,38,34,0,Josh Grover missed Free Throw.
+Johnson Univ (FL),The Citadel,79,138,38,34,0,Johnson University Florida Deadball Team Rebound.
+Johnson Univ (FL),The Citadel,80,138,38,34,1,Josh Grover made Free Throw.
+Johnson Univ (FL),The Citadel,80,141,38,46,1,Chris Ross made Three Point Jumper. Assisted by Aaron Washington.
+Johnson Univ (FL),The Citadel,80,141,38,51,0,Foul on Brian White.
+Johnson Univ (FL),The Citadel,81,141,38,51,1,Tim Gunn made Free Throw.
+Johnson Univ (FL),The Citadel,82,141,38,51,1,Tim Gunn made Free Throw.
+Johnson Univ (FL),The Citadel,82,144,39,6,1,Tyler Burgess made Three Point Jumper. Assisted by Brian White.
+Johnson Univ (FL),The Citadel,84,144,39,32,1,Josh Grover made Jumper.
+Johnson Univ (FL),The Citadel,84,144,39,42,0,Aaron Washington missed Jumper.
+Johnson Univ (FL),The Citadel,84,144,39,42,0,Griffin Peevey Offensive Rebound.
+Johnson Univ (FL),The Citadel,84,144,39,45,0,Griffin Peevey missed Layup.
+Johnson Univ (FL),The Citadel,84,144,39,45,0,Griffin Peevey Offensive Rebound.
+Johnson Univ (FL),The Citadel,84,146,39,49,1,Griffin Peevey made Layup.
+Johnson Univ (FL),The Citadel,84,146,39,54,0,Douet Broughton Turnover.
+Johnson Univ (FL),The Citadel,84,146,39,54,0,Brian White Steal.
+Johnson Univ (FL),The Citadel,84,146,39,59,0,Aaron Washington Turnover.
+Johnson Univ (FL),The Citadel,84,146,40,0,0,End of Game

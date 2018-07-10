@@ -1,0 +1,333 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Indiana,Nebraska,0,0,0,0,0,Jump Ball won by Indiana
+Indiana,Nebraska,0,0,0,20,0,Robert Johnson missed Layup.
+Indiana,Nebraska,0,0,0,20,0,Michael Jacobson Defensive Rebound.
+Indiana,Nebraska,0,0,0,32,0,Shavon Shields missed Jumper.
+Indiana,Nebraska,0,0,0,32,0,Thomas Bryant Block.
+Indiana,Nebraska,0,0,0,32,0,Yogi Ferrell Defensive Rebound.
+Indiana,Nebraska,3,0,0,46,1,Collin Hartman made Three Point Jumper. Assisted by Robert Johnson.
+Indiana,Nebraska,3,0,1,0,0,Foul on Troy Williams.
+Indiana,Nebraska,3,0,1,8,0,Benny Parker missed Three Point Jumper.
+Indiana,Nebraska,3,0,1,8,0,Collin Hartman Defensive Rebound.
+Indiana,Nebraska,3,0,1,18,0,Troy Williams Turnover.
+Indiana,Nebraska,3,0,1,18,0,Michael Jacobson Steal.
+Indiana,Nebraska,3,2,1,24,1,Andrew White made Layup. Assisted by Shavon Shields.
+Indiana,Nebraska,3,2,1,33,0,Yogi Ferrell Turnover.
+Indiana,Nebraska,3,2,1,33,0,Michael Jacobson Steal.
+Indiana,Nebraska,3,2,1,53,0,Foul on Thomas Bryant.
+Indiana,Nebraska,3,2,2,4,0,Andrew White missed Jumper.
+Indiana,Nebraska,3,2,2,4,0,Nebraska Offensive Rebound.
+Indiana,Nebraska,3,2,2,19,0,Glynn Watson Jr. missed Three Point Jumper.
+Indiana,Nebraska,3,2,2,19,0,Troy Williams Defensive Rebound.
+Indiana,Nebraska,5,2,2,32,1,Thomas Bryant made Layup. Assisted by Robert Johnson.
+Indiana,Nebraska,5,2,2,50,0,Shavon Shields Turnover.
+Indiana,Nebraska,5,2,2,50,0,Yogi Ferrell Steal.
+Indiana,Nebraska,5,2,3,3,0,Troy Williams missed Jumper.
+Indiana,Nebraska,5,2,3,3,0,Glynn Watson Jr. Defensive Rebound.
+Indiana,Nebraska,5,4,3,12,1,Glynn Watson Jr. made Layup.
+Indiana,Nebraska,5,4,3,21,0,Foul on Ed Morrow.
+Indiana,Nebraska,5,4,3,32,0,Robert Johnson missed Three Point Jumper.
+Indiana,Nebraska,5,4,3,32,0,Glynn Watson Jr. Block.
+Indiana,Nebraska,5,4,3,32,0,Ed Morrow Defensive Rebound.
+Indiana,Nebraska,5,4,3,48,0,Glynn Watson Jr. missed Three Point Jumper.
+Indiana,Nebraska,5,4,3,48,0,Yogi Ferrell Defensive Rebound.
+Indiana,Nebraska,5,4,3,58,0,Collin Hartman missed Three Point Jumper.
+Indiana,Nebraska,5,4,3,58,0,Thomas Bryant Offensive Rebound.
+Indiana,Nebraska,7,4,3,58,1,Thomas Bryant made Jumper.
+Indiana,Nebraska,7,7,4,18,1,Shavon Shields made Three Point Jumper. Assisted by Jack McVeigh.
+Indiana,Nebraska,7,7,4,18,0,Foul on Ed Morrow.
+Indiana,Nebraska,7,7,4,37,0,Official TV Timeout
+Indiana,Nebraska,7,7,4,44,0,Foul on Tai Webster.
+Indiana,Nebraska,9,7,4,51,1,Troy Williams made Jumper. Assisted by Thomas Bryant.
+Indiana,Nebraska,9,9,5,19,1,Michael Jacobson made Layup.
+Indiana,Nebraska,9,9,5,28,0,Yogi Ferrell Turnover.
+Indiana,Nebraska,9,11,5,42,1,Jack McVeigh made Jumper.
+Indiana,Nebraska,9,11,6,3,0,Troy Williams missed Three Point Jumper.
+Indiana,Nebraska,9,11,6,3,0,Jack McVeigh Defensive Rebound.
+Indiana,Nebraska,9,11,6,8,0,Foul on Collin Hartman.
+Indiana,Nebraska,9,11,6,8,0,Technical Foul on Jack McVeigh.
+Indiana,Nebraska,9,11,6,8,0,Foul on Jack McVeigh.
+Indiana,Nebraska,10,11,6,8,1,Yogi Ferrell made Free Throw.
+Indiana,Nebraska,9,11,6,8,0,Jack McVeigh Turnover.
+Indiana,Nebraska,11,11,6,8,1,Yogi Ferrell made Free Throw.
+Indiana,Nebraska,11,11,6,24,0,Jack McVeigh missed Jumper.
+Indiana,Nebraska,11,11,6,24,0,Max Bielfeldt Defensive Rebound.
+Indiana,Nebraska,11,11,6,26,0,Foul on Tai Webster.
+Indiana,Nebraska,11,11,6,41,0,Foul on Michael Jacobson.
+Indiana,Nebraska,11,11,6,57,0,Collin Hartman missed Layup.
+Indiana,Nebraska,11,11,6,57,0,Max Bielfeldt Offensive Rebound.
+Indiana,Nebraska,11,11,7,18,0,Max Bielfeldt Turnover.
+Indiana,Nebraska,11,11,7,41,0,Foul on Nick Zeisloft.
+Indiana,Nebraska,11,12,7,41,1,Glynn Watson Jr. made Free Throw.
+Indiana,Nebraska,11,12,7,41,0,Glynn Watson Jr. missed Free Throw.
+Indiana,Nebraska,11,12,7,41,0,Max Bielfeldt Defensive Rebound.
+Indiana,Nebraska,13,12,7,52,1,O.G. Anunoby made Dunk. Assisted by Robert Johnson.
+Indiana,Nebraska,13,12,8,8,0,Foul on O.G. Anunoby.
+Indiana,Nebraska,13,12,8,8,0,Official TV Timeout
+Indiana,Nebraska,13,12,8,13,0,Andrew White missed Three Point Jumper.
+Indiana,Nebraska,13,12,8,13,0,Robert Johnson Defensive Rebound.
+Indiana,Nebraska,13,12,8,22,0,Robert Johnson Turnover.
+Indiana,Nebraska,13,12,8,34,0,Shavon Shields missed Layup.
+Indiana,Nebraska,13,12,8,34,0,Max Bielfeldt Defensive Rebound.
+Indiana,Nebraska,16,12,8,58,1,O.G. Anunoby made Three Point Jumper. Assisted by Collin Hartman.
+Indiana,Nebraska,16,15,9,16,1,Andrew White made Three Point Jumper. Assisted by Benny Parker.
+Indiana,Nebraska,16,15,9,30,0,Max Bielfeldt missed Layup.
+Indiana,Nebraska,16,15,9,30,0,Andrew White Defensive Rebound.
+Indiana,Nebraska,16,15,9,54,0,Andrew White missed Three Point Jumper.
+Indiana,Nebraska,16,15,9,54,0,Robert Johnson Defensive Rebound.
+Indiana,Nebraska,18,15,10,16,1,Thomas Bryant made Layup. Assisted by Yogi Ferrell.
+Indiana,Nebraska,18,17,10,32,1,Glynn Watson Jr. made Jumper.
+Indiana,Nebraska,18,17,10,49,0,Foul on Glynn Watson Jr..
+Indiana,Nebraska,18,17,10,49,0,Yogi Ferrell missed Free Throw.
+Indiana,Nebraska,18,17,10,49,0,Shavon Shields Defensive Rebound.
+Indiana,Nebraska,18,17,10,49,0,Foul on O.G. Anunoby.
+Indiana,Nebraska,18,17,11,4,0,Benny Parker missed Three Point Jumper.
+Indiana,Nebraska,18,17,11,4,0,Troy Williams Defensive Rebound.
+Indiana,Nebraska,20,17,11,12,1,Thomas Bryant made Dunk. Assisted by Yogi Ferrell.
+Indiana,Nebraska,20,19,11,40,1,Glynn Watson Jr. made Layup.
+Indiana,Nebraska,20,19,11,53,0,Troy Williams Turnover.
+Indiana,Nebraska,20,19,11,53,0,Benny Parker Steal.
+Indiana,Nebraska,20,21,11,59,1,Tai Webster made Layup. Assisted by Benny Parker.
+Indiana,Nebraska,20,21,12,12,0,Foul on Benny Parker.
+Indiana,Nebraska,20,21,12,12,0,Official TV Timeout
+Indiana,Nebraska,20,21,12,12,0,Robert Johnson missed Free Throw.
+Indiana,Nebraska,20,21,12,12,0,Indiana Deadball Team Rebound.
+Indiana,Nebraska,20,21,12,12,0,Robert Johnson missed Free Throw.
+Indiana,Nebraska,20,21,12,12,0,Tai Webster Defensive Rebound.
+Indiana,Nebraska,20,23,12,35,1,Michael Jacobson made Layup.
+Indiana,Nebraska,20,23,12,56,0,Thomas Bryant missed Layup.
+Indiana,Nebraska,20,23,12,56,0,Glynn Watson Jr. Defensive Rebound.
+Indiana,Nebraska,20,23,12,56,0,Glynn Watson Jr. missed Layup.
+Indiana,Nebraska,20,23,12,56,0,Thomas Bryant Block.
+Indiana,Nebraska,20,23,12,56,0,Benny Parker Offensive Rebound.
+Indiana,Nebraska,20,25,13,8,1,Benny Parker made Layup.
+Indiana,Nebraska,23,25,13,19,1,Robert Johnson made Three Point Jumper. Assisted by Troy Williams.
+Indiana,Nebraska,23,25,13,52,0,Andrew White Turnover.
+Indiana,Nebraska,25,25,14,4,1,Yogi Ferrell made Jumper.
+Indiana,Nebraska,25,25,14,25,0,Andrew White Turnover.
+Indiana,Nebraska,25,25,14,25,0,Juwan Morgan Steal.
+Indiana,Nebraska,28,25,14,32,1,Yogi Ferrell made Three Point Jumper.
+Indiana,Nebraska,28,25,14,37,0,Nebraska  Timeout
+Indiana,Nebraska,28,25,14,50,0,Jack McVeigh Turnover.
+Indiana,Nebraska,28,25,15,4,0,Max Bielfeldt missed Layup.
+Indiana,Nebraska,28,25,15,4,0,Shavon Shields Defensive Rebound.
+Indiana,Nebraska,28,27,15,16,1,Benny Parker made Layup. Assisted by Shavon Shields.
+Indiana,Nebraska,28,27,15,32,0,Yogi Ferrell missed Layup.
+Indiana,Nebraska,28,27,15,32,0,Jack McVeigh Defensive Rebound.
+Indiana,Nebraska,28,27,15,41,0,Foul on Collin Hartman.
+Indiana,Nebraska,28,28,15,41,1,Jake Hammond made Free Throw.
+Indiana,Nebraska,28,28,15,41,0,Jake Hammond missed Free Throw.
+Indiana,Nebraska,28,28,15,41,0,Max Bielfeldt Defensive Rebound.
+Indiana,Nebraska,28,28,15,47,0,Max Bielfeldt missed Three Point Jumper.
+Indiana,Nebraska,28,28,15,47,0,Juwan Morgan Offensive Rebound.
+Indiana,Nebraska,28,28,15,51,0,Foul on Jack McVeigh.
+Indiana,Nebraska,29,28,15,51,1,Juwan Morgan made Free Throw.
+Indiana,Nebraska,30,28,15,51,1,Juwan Morgan made Free Throw.
+Indiana,Nebraska,30,28,16,11,0,Foul on Robert Johnson.
+Indiana,Nebraska,30,28,16,11,0,Official TV Timeout
+Indiana,Nebraska,30,28,16,11,0,Jack McVeigh missed Free Throw.
+Indiana,Nebraska,30,28,16,11,0,Juwan Morgan Defensive Rebound.
+Indiana,Nebraska,30,28,16,32,0,Yogi Ferrell missed Layup.
+Indiana,Nebraska,30,28,16,32,0,Andrew White Defensive Rebound.
+Indiana,Nebraska,30,31,16,47,1,Jack McVeigh made Three Point Jumper. Assisted by Glynn Watson Jr..
+Indiana,Nebraska,30,31,16,59,0,Nick Zeisloft missed Three Point Jumper.
+Indiana,Nebraska,30,31,16,59,0,Jake Hammond Defensive Rebound.
+Indiana,Nebraska,30,31,17,12,0,Glynn Watson Jr. missed Jumper.
+Indiana,Nebraska,30,31,17,12,0,Shavon Shields Offensive Rebound.
+Indiana,Nebraska,30,34,17,19,1,Benny Parker made Three Point Jumper. Assisted by Shavon Shields.
+Indiana,Nebraska,30,34,17,45,0,Yogi Ferrell Turnover.
+Indiana,Nebraska,30,34,17,45,0,Benny Parker Steal.
+Indiana,Nebraska,30,34,17,53,0,Foul on Robert Johnson.
+Indiana,Nebraska,30,35,17,53,1,Andrew White made Free Throw.
+Indiana,Nebraska,30,36,17,53,1,Andrew White made Free Throw.
+Indiana,Nebraska,30,36,18,18,0,Foul on Glynn Watson Jr..
+Indiana,Nebraska,31,36,18,18,1,Thomas Bryant made Free Throw.
+Indiana,Nebraska,32,36,18,18,1,Thomas Bryant made Free Throw.
+Indiana,Nebraska,32,36,18,27,0,Shavon Shields missed Jumper.
+Indiana,Nebraska,32,36,18,27,0,O.G. Anunoby Defensive Rebound.
+Indiana,Nebraska,34,36,18,37,1,Troy Williams made Dunk. Assisted by Yogi Ferrell.
+Indiana,Nebraska,34,36,18,50,0,Benny Parker missed Layup.
+Indiana,Nebraska,34,36,18,50,0,Collin Hartman Defensive Rebound.
+Indiana,Nebraska,34,36,19,18,0,Troy Williams Turnover.
+Indiana,Nebraska,34,36,19,18,0,Jack McVeigh Steal.
+Indiana,Nebraska,34,39,19,25,1,Jack McVeigh made Three Point Jumper. Assisted by Andrew White.
+Indiana,Nebraska,34,39,19,28,0,Indiana  Timeout
+Indiana,Nebraska,36,39,19,53,1,Yogi Ferrell made Jumper.
+Indiana,Nebraska,36,39,20,0,0,End of 1st half
+Indiana,Nebraska,36,39,20,0,0,Jump Ball won by Nebraska
+Indiana,Nebraska,36,42,20,14,1,Andrew White made Three Point Jumper. Assisted by Shavon Shields.
+Indiana,Nebraska,38,42,20,39,1,Thomas Bryant made Layup. Assisted by Yogi Ferrell.
+Indiana,Nebraska,38,42,20,39,0,Foul on Andrew White.
+Indiana,Nebraska,39,42,20,39,1,Thomas Bryant made Free Throw.
+Indiana,Nebraska,39,42,21,3,0,Foul on Collin Hartman.
+Indiana,Nebraska,39,43,21,3,1,Shavon Shields made Free Throw.
+Indiana,Nebraska,39,44,21,3,1,Shavon Shields made Free Throw.
+Indiana,Nebraska,41,44,21,13,1,Troy Williams made Layup. Assisted by Robert Johnson.
+Indiana,Nebraska,41,44,21,40,0,Michael Jacobson missed Jumper.
+Indiana,Nebraska,41,44,21,40,0,Robert Johnson Defensive Rebound.
+Indiana,Nebraska,43,44,22,9,1,Thomas Bryant made Dunk. Assisted by Yogi Ferrell.
+Indiana,Nebraska,43,44,22,38,0,Foul on Troy Williams.
+Indiana,Nebraska,43,44,22,38,0,Andrew White missed Free Throw.
+Indiana,Nebraska,43,44,22,38,0,Nebraska Deadball Team Rebound.
+Indiana,Nebraska,43,45,22,38,1,Andrew White made Free Throw.
+Indiana,Nebraska,43,45,22,57,0,Robert Johnson Turnover.
+Indiana,Nebraska,43,45,22,57,0,Shavon Shields Steal.
+Indiana,Nebraska,43,45,23,14,0,Glynn Watson Jr. missed Jumper.
+Indiana,Nebraska,43,45,23,14,0,Indiana Defensive Rebound.
+Indiana,Nebraska,43,45,23,27,0,Yogi Ferrell missed Jumper.
+Indiana,Nebraska,43,45,23,27,0,Glynn Watson Jr. Defensive Rebound.
+Indiana,Nebraska,43,45,23,51,0,Glynn Watson Jr. Turnover.
+Indiana,Nebraska,45,45,24,2,1,Thomas Bryant made Layup. Assisted by Max Bielfeldt.
+Indiana,Nebraska,45,45,24,19,0,Foul on Thomas Bryant.
+Indiana,Nebraska,45,45,24,19,0,Official TV Timeout
+Indiana,Nebraska,45,45,24,19,0,Michael Jacobson missed Free Throw.
+Indiana,Nebraska,45,45,24,19,0,Nebraska Deadball Team Rebound.
+Indiana,Nebraska,45,46,24,19,1,Michael Jacobson made Free Throw.
+Indiana,Nebraska,45,46,24,33,0,Foul on Andrew White.
+Indiana,Nebraska,47,46,25,0,1,Yogi Ferrell made Jumper.
+Indiana,Nebraska,47,46,25,20,0,Shavon Shields missed Jumper.
+Indiana,Nebraska,47,46,25,20,0,Thomas Bryant Defensive Rebound.
+Indiana,Nebraska,50,46,25,33,1,Yogi Ferrell made Three Point Jumper.
+Indiana,Nebraska,50,49,25,49,1,Andrew White made Three Point Jumper. Assisted by Shavon Shields.
+Indiana,Nebraska,50,49,25,52,0,Nebraska  Timeout
+Indiana,Nebraska,50,49,25,52,0,Official TV Timeout
+Indiana,Nebraska,53,49,26,5,1,Nick Zeisloft made Three Point Jumper. Assisted by Yogi Ferrell.
+Indiana,Nebraska,53,49,26,21,0,Shavon Shields missed Jumper.
+Indiana,Nebraska,53,49,26,21,0,Troy Williams Defensive Rebound.
+Indiana,Nebraska,53,49,26,33,0,Yogi Ferrell missed Layup.
+Indiana,Nebraska,53,49,26,33,0,Andrew White Defensive Rebound.
+Indiana,Nebraska,53,49,26,46,0,Michael Jacobson Turnover.
+Indiana,Nebraska,53,49,26,46,0,Max Bielfeldt Steal.
+Indiana,Nebraska,53,49,27,6,0,Nick Zeisloft missed Three Point Jumper.
+Indiana,Nebraska,53,49,27,6,0,Andrew White Defensive Rebound.
+Indiana,Nebraska,53,49,27,19,0,Foul on Yogi Ferrell.
+Indiana,Nebraska,53,49,27,28,0,Andrew White missed Three Point Jumper.
+Indiana,Nebraska,53,49,27,28,0,Yogi Ferrell Defensive Rebound.
+Indiana,Nebraska,55,49,27,38,1,Yogi Ferrell made Layup.
+Indiana,Nebraska,55,49,27,54,0,Foul on O.G. Anunoby.
+Indiana,Nebraska,55,49,28,12,0,Glynn Watson Jr. missed Jumper.
+Indiana,Nebraska,55,49,28,12,0,Ed Morrow Offensive Rebound.
+Indiana,Nebraska,55,51,28,22,1,Jack McVeigh made Jumper.
+Indiana,Nebraska,55,51,28,27,0,Yogi Ferrell Turnover.
+Indiana,Nebraska,55,51,28,27,0,Tai Webster Steal.
+Indiana,Nebraska,55,51,28,41,0,Foul on Nick Zeisloft.
+Indiana,Nebraska,55,51,28,41,0,Official TV Timeout
+Indiana,Nebraska,55,51,28,41,0,Ed Morrow Turnover.
+Indiana,Nebraska,55,51,28,52,0,Foul on Ed Morrow.
+Indiana,Nebraska,55,51,29,13,0,Robert Johnson missed Jumper.
+Indiana,Nebraska,55,51,29,13,0,Jake Hammond Block.
+Indiana,Nebraska,55,51,29,13,0,Indiana Offensive Rebound.
+Indiana,Nebraska,58,51,29,17,1,Yogi Ferrell made Three Point Jumper.
+Indiana,Nebraska,58,51,29,33,0,Shavon Shields missed Jumper.
+Indiana,Nebraska,58,51,29,33,0,Thomas Bryant Block.
+Indiana,Nebraska,58,51,29,33,0,Collin Hartman Defensive Rebound.
+Indiana,Nebraska,58,51,29,37,0,Jump Ball won by Indiana
+Indiana,Nebraska,60,51,29,44,1,O.G. Anunoby made Layup.
+Indiana,Nebraska,60,51,30,4,0,Glynn Watson Jr. Turnover.
+Indiana,Nebraska,60,51,30,4,0,O.G. Anunoby Steal.
+Indiana,Nebraska,62,51,30,10,1,O.G. Anunoby made Layup.
+Indiana,Nebraska,62,51,30,15,0,Nebraska  Timeout
+Indiana,Nebraska,62,51,30,29,0,Michael Jacobson missed Three Point Jumper.
+Indiana,Nebraska,62,51,30,29,0,Jack McVeigh Offensive Rebound.
+Indiana,Nebraska,62,53,30,37,1,Jack McVeigh made Layup.
+Indiana,Nebraska,62,53,30,45,0,Foul on Michael Jacobson.
+Indiana,Nebraska,65,53,30,51,1,Yogi Ferrell made Three Point Jumper.
+Indiana,Nebraska,65,55,31,9,1,Shavon Shields made Layup.
+Indiana,Nebraska,65,55,31,9,0,Foul on Collin Hartman.
+Indiana,Nebraska,65,56,31,9,1,Shavon Shields made Free Throw.
+Indiana,Nebraska,65,56,31,30,0,Robert Johnson Turnover.
+Indiana,Nebraska,65,58,31,42,1,Shavon Shields made Layup.
+Indiana,Nebraska,65,58,32,0,0,Thomas Bryant Turnover.
+Indiana,Nebraska,65,58,32,0,0,Michael Jacobson Steal.
+Indiana,Nebraska,65,58,32,14,0,Official TV Timeout
+Indiana,Nebraska,65,58,32,19,0,Shavon Shields missed Jumper.
+Indiana,Nebraska,65,58,32,19,0,O.G. Anunoby Defensive Rebound.
+Indiana,Nebraska,65,58,32,37,0,Max Bielfeldt missed Jumper.
+Indiana,Nebraska,65,58,32,37,0,Michael Jacobson Block.
+Indiana,Nebraska,65,58,32,37,0,Andrew White Defensive Rebound.
+Indiana,Nebraska,65,58,32,49,0,Foul on Troy Williams.
+Indiana,Nebraska,65,58,32,49,0,Benny Parker missed Free Throw.
+Indiana,Nebraska,65,58,32,49,0,Nebraska Deadball Team Rebound.
+Indiana,Nebraska,65,59,32,49,1,Benny Parker made Free Throw.
+Indiana,Nebraska,65,59,33,1,0,Troy Williams missed Layup.
+Indiana,Nebraska,65,59,33,1,0,Shavon Shields Defensive Rebound.
+Indiana,Nebraska,65,59,33,7,0,Shavon Shields Turnover.
+Indiana,Nebraska,65,59,33,7,0,Troy Williams Steal.
+Indiana,Nebraska,67,59,33,19,1,Troy Williams made Layup.
+Indiana,Nebraska,67,59,33,42,0,Foul on Shavon Shields.
+Indiana,Nebraska,67,59,33,42,0,Shavon Shields Turnover.
+Indiana,Nebraska,67,59,33,50,0,Nick Zeisloft missed Three Point Jumper.
+Indiana,Nebraska,67,59,33,50,0,Benny Parker Defensive Rebound.
+Indiana,Nebraska,67,59,34,2,0,Foul on Yogi Ferrell.
+Indiana,Nebraska,67,60,34,2,1,Benny Parker made Free Throw.
+Indiana,Nebraska,67,61,34,2,1,Benny Parker made Free Throw.
+Indiana,Nebraska,69,61,34,21,1,Thomas Bryant made Layup. Assisted by Yogi Ferrell.
+Indiana,Nebraska,69,61,34,40,0,Shavon Shields missed Jumper.
+Indiana,Nebraska,69,61,34,40,0,Troy Williams Defensive Rebound.
+Indiana,Nebraska,69,61,34,43,0,Foul on Andrew White.
+Indiana,Nebraska,69,61,34,58,0,Foul on Michael Jacobson.
+Indiana,Nebraska,69,61,34,58,0,Thomas Bryant missed Free Throw.
+Indiana,Nebraska,69,61,34,58,0,Jack McVeigh Defensive Rebound.
+Indiana,Nebraska,69,61,35,4,0,Shavon Shields missed Jumper.
+Indiana,Nebraska,69,61,35,4,0,Nick Zeisloft Defensive Rebound.
+Indiana,Nebraska,72,61,35,27,1,Nick Zeisloft made Three Point Jumper. Assisted by Juwan Morgan.
+Indiana,Nebraska,72,61,35,41,0,Glynn Watson Jr. missed Three Point Jumper.
+Indiana,Nebraska,72,61,35,41,0,Thomas Bryant Defensive Rebound.
+Indiana,Nebraska,72,61,36,1,0,Official TV Timeout
+Indiana,Nebraska,72,61,36,11,0,Yogi Ferrell missed Three Point Jumper.
+Indiana,Nebraska,72,61,36,11,0,Andrew White Defensive Rebound.
+Indiana,Nebraska,72,63,36,36,1,Andrew White made Jumper.
+Indiana,Nebraska,72,63,36,56,0,Troy Williams Turnover.
+Indiana,Nebraska,72,63,37,19,0,Shavon Shields missed Layup.
+Indiana,Nebraska,72,63,37,19,0,Ed Morrow Offensive Rebound.
+Indiana,Nebraska,72,65,37,19,1,Ed Morrow made Two Point Tip Shot.
+Indiana,Nebraska,72,65,37,38,0,Thomas Bryant missed Layup.
+Indiana,Nebraska,72,65,37,38,0,Ed Morrow Block.
+Indiana,Nebraska,72,65,37,38,0,Shavon Shields Defensive Rebound.
+Indiana,Nebraska,72,65,37,44,0,Andrew White Turnover.
+Indiana,Nebraska,72,65,38,7,0,Nick Zeisloft missed Three Point Jumper.
+Indiana,Nebraska,72,65,38,7,0,Thomas Bryant Offensive Rebound.
+Indiana,Nebraska,72,65,38,11,0,Foul on Shavon Shields.
+Indiana,Nebraska,72,65,38,11,0,Thomas Bryant missed Free Throw.
+Indiana,Nebraska,72,65,38,11,0,Troy Williams Offensive Rebound.
+Indiana,Nebraska,72,65,38,44,0,Collin Hartman Turnover.
+Indiana,Nebraska,72,65,38,54,0,Benny Parker missed Jumper.
+Indiana,Nebraska,72,65,38,54,0,Collin Hartman Block.
+Indiana,Nebraska,72,65,38,54,0,Nebraska Offensive Rebound.
+Indiana,Nebraska,72,65,38,56,0,Andrew White Turnover.
+Indiana,Nebraska,72,65,38,56,0,O.G. Anunoby Steal.
+Indiana,Nebraska,72,65,38,57,0,Foul on Shavon Shields.
+Indiana,Nebraska,72,65,38,57,0,O.G. Anunoby missed Free Throw.
+Indiana,Nebraska,72,65,38,57,0,Jack McVeigh Defensive Rebound.
+Indiana,Nebraska,72,65,38,57,0,Foul on Troy Williams.
+Indiana,Nebraska,72,65,38,57,0,Jack McVeigh missed Free Throw.
+Indiana,Nebraska,72,65,38,57,0,Nebraska Deadball Team Rebound.
+Indiana,Nebraska,72,66,38,57,1,Jack McVeigh made Free Throw.
+Indiana,Nebraska,72,66,39,1,0,Foul on Glynn Watson Jr..
+Indiana,Nebraska,73,66,39,1,1,Yogi Ferrell made Free Throw.
+Indiana,Nebraska,74,66,39,1,1,Yogi Ferrell made Free Throw.
+Indiana,Nebraska,74,66,39,9,0,Tai Webster Turnover.
+Indiana,Nebraska,74,66,39,11,0,Foul on Benny Parker.
+Indiana,Nebraska,74,66,39,11,0,Yogi Ferrell missed Free Throw.
+Indiana,Nebraska,74,66,39,11,0,Indiana Deadball Team Rebound.
+Indiana,Nebraska,74,66,39,11,0,Yogi Ferrell missed Free Throw.
+Indiana,Nebraska,74,66,39,11,0,Jack McVeigh Defensive Rebound.
+Indiana,Nebraska,74,69,39,16,1,Jack McVeigh made Three Point Jumper. Assisted by Shavon Shields.
+Indiana,Nebraska,74,69,39,19,0,Nebraska  Timeout
+Indiana,Nebraska,74,69,39,22,0,Foul on Andrew White.
+Indiana,Nebraska,75,69,39,22,1,Max Bielfeldt made Free Throw.
+Indiana,Nebraska,75,69,39,22,0,Max Bielfeldt missed Free Throw.
+Indiana,Nebraska,75,69,39,22,0,Shavon Shields Defensive Rebound.
+Indiana,Nebraska,75,69,39,27,0,Andrew White missed Three Point Jumper.
+Indiana,Nebraska,75,69,39,27,0,Max Bielfeldt Defensive Rebound.
+Indiana,Nebraska,75,69,39,28,0,Foul on Glynn Watson Jr..
+Indiana,Nebraska,76,69,39,28,1,Max Bielfeldt made Free Throw.
+Indiana,Nebraska,77,69,39,28,1,Max Bielfeldt made Free Throw.
+Indiana,Nebraska,77,69,39,34,0,Glynn Watson Jr. missed Three Point Jumper.
+Indiana,Nebraska,77,69,39,34,0,O.G. Anunoby Defensive Rebound.
+Indiana,Nebraska,77,69,39,39,0,Foul on Shavon Shields.
+Indiana,Nebraska,78,69,39,39,1,O.G. Anunoby made Free Throw.
+Indiana,Nebraska,79,69,39,39,1,O.G. Anunoby made Free Throw.
+Indiana,Nebraska,79,69,39,44,0,Jack McVeigh missed Three Point Jumper.
+Indiana,Nebraska,79,69,39,44,0,Robert Johnson Defensive Rebound.
+Indiana,Nebraska,79,69,40,0,0,End of Game

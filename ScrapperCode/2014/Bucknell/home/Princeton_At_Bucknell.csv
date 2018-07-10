@@ -1,0 +1,305 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Princeton,Bucknell,2,0,0,34,1,Hans Brase made Layup. Assisted by Jimmy Sherburne.
+Princeton,Bucknell,2,2,1,11,1,Chris Hass made Jumper. Assisted by Cameron Ayers.
+Princeton,Bucknell,2,2,1,41,0,Jimmy Sherburne missed Three Point Jumper.
+Princeton,Bucknell,2,2,1,41,0,Chris Hass Defensive Rebound.
+Princeton,Bucknell,2,2,1,54,0,Cameron Ayers missed Layup.
+Princeton,Bucknell,2,2,1,54,0,Hans Brase Defensive Rebound.
+Princeton,Bucknell,2,2,2,6,0,Foul on Chris Hass.
+Princeton,Bucknell,3,2,2,6,1,Will Barrett made Free Throw.
+Princeton,Bucknell,3,2,2,6,0,Will Barrett missed Free Throw.
+Princeton,Bucknell,3,2,2,6,0,Ben Brackney Defensive Rebound.
+Princeton,Bucknell,3,5,2,18,1,Chris Hass made Three Point Jumper.
+Princeton,Bucknell,3,5,2,35,0,Jimmy Sherburne missed Layup.
+Princeton,Bucknell,3,5,2,35,0,Cameron Ayers Defensive Rebound.
+Princeton,Bucknell,3,5,2,48,0,Cameron Ayers missed Jumper.
+Princeton,Bucknell,3,5,2,48,0,T.J. Bray Defensive Rebound.
+Princeton,Bucknell,3,5,3,1,0,Hans Brase Turnover.
+Princeton,Bucknell,3,5,3,2,0,Steven Kaspar Steal.
+Princeton,Bucknell,3,5,3,7,0,Steven Kaspar missed Layup.
+Princeton,Bucknell,3,5,3,7,0,Bucknell Offensive Rebound.
+Princeton,Bucknell,3,7,3,11,1,Brian Fitzpatrick made Layup.
+Princeton,Bucknell,3,7,3,33,0,Foul on Brian Fitzpatrick.
+Princeton,Bucknell,3,7,3,33,0,Will Barrett missed Free Throw.
+Princeton,Bucknell,3,7,3,33,0,Princeton Deadball Team Rebound.
+Princeton,Bucknell,4,7,3,33,1,Will Barrett made Free Throw.
+Princeton,Bucknell,4,9,3,45,1,Cameron Ayers made Layup. Assisted by Dom Hoffman.
+Princeton,Bucknell,4,9,4,12,0,Foul on Will Barrett.
+Princeton,Bucknell,4,9,4,12,0,Will Barrett Turnover.
+Princeton,Bucknell,4,9,4,12,0,Official TV Timeout
+Princeton,Bucknell,4,11,4,44,1,Dom Hoffman made Layup. Assisted by Steven Kaspar.
+Princeton,Bucknell,4,11,5,3,0,Hans Brase missed Layup.
+Princeton,Bucknell,4,11,5,3,0,Dom Hoffman Defensive Rebound.
+Princeton,Bucknell,4,11,5,14,0,Chris Hass missed Three Point Jumper.
+Princeton,Bucknell,4,11,5,14,0,T.J. Bray Defensive Rebound.
+Princeton,Bucknell,4,11,5,43,0,T.J. Bray missed Three Point Jumper.
+Princeton,Bucknell,4,11,5,43,0,Denton Koon Offensive Rebound.
+Princeton,Bucknell,7,11,6,2,1,Hans Brase made Three Point Jumper. Assisted by Denton Koon.
+Princeton,Bucknell,7,11,6,33,0,Dom Hoffman missed Jumper.
+Princeton,Bucknell,7,11,6,33,0,Ryan Frazier Offensive Rebound.
+Princeton,Bucknell,7,11,6,45,0,Cameron Ayers missed Jumper.
+Princeton,Bucknell,7,11,6,45,0,Ben Hazel Defensive Rebound.
+Princeton,Bucknell,7,11,6,57,0,Ben Hazel missed Three Point Jumper.
+Princeton,Bucknell,7,11,6,57,0,Hans Brase Offensive Rebound.
+Princeton,Bucknell,7,11,7,8,0,T.J. Bray missed Three Point Jumper.
+Princeton,Bucknell,7,11,7,8,0,Ben Brackney Defensive Rebound.
+Princeton,Bucknell,7,11,7,18,0,Ben Brackney missed Three Point Jumper.
+Princeton,Bucknell,7,11,7,18,0,T.J. Bray Defensive Rebound.
+Princeton,Bucknell,7,11,7,34,0,Denton Koon missed Jumper.
+Princeton,Bucknell,7,11,7,34,0,Ben Brackney Defensive Rebound.
+Princeton,Bucknell,7,11,7,47,0,Ben Brackney missed Layup.
+Princeton,Bucknell,7,11,7,47,0,Spencer Weisz Block.
+Princeton,Bucknell,7,11,7,49,0,Spencer Weisz Defensive Rebound.
+Princeton,Bucknell,7,11,7,54,0,Ben Hazel missed Three Point Jumper.
+Princeton,Bucknell,7,11,7,54,0,Ben Brackney Defensive Rebound.
+Princeton,Bucknell,7,13,8,26,1,Ben Brackney made Layup. Assisted by Ryan Frazier.
+Princeton,Bucknell,10,13,8,37,1,Denton Koon made Three Point Jumper. Assisted by Hans Brase.
+Princeton,Bucknell,10,15,9,5,1,Dom Hoffman made Jumper.
+Princeton,Bucknell,10,15,9,15,0,Official TV Timeout
+Princeton,Bucknell,10,15,9,37,0,Denton Koon missed Layup.
+Princeton,Bucknell,10,15,9,37,0,Brian Fitzpatrick Defensive Rebound.
+Princeton,Bucknell,10,15,10,0,0,Foul on Spencer Weisz.
+Princeton,Bucknell,10,16,10,0,1,Ryan Frazier made Free Throw.
+Princeton,Bucknell,10,16,10,0,0,Ryan Frazier missed Free Throw.
+Princeton,Bucknell,10,16,10,0,0,Will Barrett Defensive Rebound.
+Princeton,Bucknell,10,16,10,22,0,T.J. Bray missed Jumper.
+Princeton,Bucknell,10,16,10,22,0,Brian Fitzpatrick Defensive Rebound.
+Princeton,Bucknell,10,18,10,41,1,Brian Fitzpatrick made Jumper.
+Princeton,Bucknell,10,18,11,13,0,Foul on John Azzinaro.
+Princeton,Bucknell,11,18,11,13,1,Denton Koon made Free Throw.
+Princeton,Bucknell,11,18,11,13,0,Denton Koon missed Free Throw.
+Princeton,Bucknell,11,18,11,13,0,Will Barrett Offensive Rebound.
+Princeton,Bucknell,11,18,11,15,0,Foul on Ryan Frazier.
+Princeton,Bucknell,11,18,11,24,0,Denton Koon missed Layup.
+Princeton,Bucknell,11,18,11,24,0,Cory Starkey Defensive Rebound.
+Princeton,Bucknell,11,18,11,52,0,Steven Kaspar missed Layup.
+Princeton,Bucknell,11,18,11,52,0,Will Barrett Block.
+Princeton,Bucknell,11,18,11,55,0,Hans Brase Defensive Rebound.
+Princeton,Bucknell,13,18,12,4,1,Spencer Weisz made Layup.
+Princeton,Bucknell,13,18,12,4,0,Foul on Ryan Frazier.
+Princeton,Bucknell,13,18,12,4,0,Official TV Timeout
+Princeton,Bucknell,14,18,12,4,1,Spencer Weisz made Free Throw.
+Princeton,Bucknell,14,18,12,22,0,Cameron Ayers missed Layup.
+Princeton,Bucknell,14,18,12,22,0,Denton Koon Block.
+Princeton,Bucknell,14,18,12,25,0,Chris Clement Defensive Rebound.
+Princeton,Bucknell,14,18,12,33,0,Chris Clement missed Three Point Jumper.
+Princeton,Bucknell,14,18,12,33,0,Brian Fitzpatrick Defensive Rebound.
+Princeton,Bucknell,14,18,12,47,0,Brian Fitzpatrick Turnover.
+Princeton,Bucknell,14,18,12,57,0,T.J. Bray missed Three Point Jumper.
+Princeton,Bucknell,14,18,12,57,0,Cory Starkey Defensive Rebound.
+Princeton,Bucknell,14,20,13,13,1,Brian Fitzpatrick made Jumper. Assisted by Steven Kaspar.
+Princeton,Bucknell,14,20,13,27,0,Spencer Weisz missed Three Point Jumper.
+Princeton,Bucknell,14,20,13,27,0,Bucknell Deadball Team Rebound.
+Princeton,Bucknell,14,20,13,47,0,Brian Fitzpatrick missed Jumper.
+Princeton,Bucknell,14,20,13,47,0,T.J. Bray Defensive Rebound.
+Princeton,Bucknell,16,20,14,4,1,T.J. Bray made Layup. Assisted by Hans Brase.
+Princeton,Bucknell,16,20,14,20,0,Brian Fitzpatrick Turnover.
+Princeton,Bucknell,16,20,14,23,0,T.J. Bray Steal.
+Princeton,Bucknell,19,20,14,36,1,Hans Brase made Three Point Jumper. Assisted by Denton Koon.
+Princeton,Bucknell,19,20,14,37,0,Bucknell  Timeout
+Princeton,Bucknell,19,20,14,49,0,Cameron Ayers missed Three Point Jumper.
+Princeton,Bucknell,19,20,14,53,0,Brian Fitzpatrick Offensive Rebound.
+Princeton,Bucknell,19,20,14,54,0,Foul on Jimmy Sherburne.
+Princeton,Bucknell,19,20,14,57,0,Foul on Brian Fitzpatrick.
+Princeton,Bucknell,19,20,14,57,0,Brian Fitzpatrick Turnover.
+Princeton,Bucknell,19,20,15,20,0,Ben Hazel missed Three Point Jumper.
+Princeton,Bucknell,19,20,15,20,0,Dom Hoffman Defensive Rebound.
+Princeton,Bucknell,19,20,15,32,0,Dom Hoffman missed Layup.
+Princeton,Bucknell,19,20,15,32,0,Hans Brase Defensive Rebound.
+Princeton,Bucknell,22,20,15,41,1,Hans Brase made Three Point Jumper. Assisted by Ben Hazel.
+Princeton,Bucknell,22,20,16,10,0,Cameron Ayers Turnover.
+Princeton,Bucknell,22,20,16,10,0,Official TV Timeout
+Princeton,Bucknell,22,20,16,31,0,Jimmy Sherburne missed Jumper.
+Princeton,Bucknell,22,20,16,31,0,Dom Hoffman Defensive Rebound.
+Princeton,Bucknell,22,22,16,55,1,Chris Hass made Dunk. Assisted by Dom Hoffman.
+Princeton,Bucknell,25,22,17,7,1,Spencer Weisz made Three Point Jumper. Assisted by Hans Brase.
+Princeton,Bucknell,25,24,17,24,1,Cameron Ayers made Layup. Assisted by Chris Hass.
+Princeton,Bucknell,25,24,17,24,0,Foul on Hans Brase.
+Princeton,Bucknell,25,25,17,24,1,Cameron Ayers made Free Throw.
+Princeton,Bucknell,25,25,17,49,0,Denton Koon missed Three Point Jumper.
+Princeton,Bucknell,25,25,17,49,0,Ryan Hill Defensive Rebound.
+Princeton,Bucknell,25,25,18,6,0,Ryan Hill missed Layup.
+Princeton,Bucknell,25,25,18,6,0,Jimmy Sherburne Defensive Rebound.
+Princeton,Bucknell,25,25,18,20,0,Denton Koon missed Jumper.
+Princeton,Bucknell,25,25,18,20,0,Dom Hoffman Defensive Rebound.
+Princeton,Bucknell,25,25,18,45,0,Cameron Ayers missed Jumper.
+Princeton,Bucknell,25,25,18,45,0,T.J. Bray Defensive Rebound.
+Princeton,Bucknell,28,25,18,59,1,Ben Hazel made Three Point Jumper. Assisted by Hans Brase.
+Princeton,Bucknell,28,25,19,0,0,Princeton  Timeout
+Princeton,Bucknell,28,27,19,10,1,Chris Hass made Jumper. Assisted by Dom Hoffman.
+Princeton,Bucknell,30,27,19,37,1,Will Barrett made Layup.
+Princeton,Bucknell,30,27,19,55,0,Foul on Jimmy Sherburne.
+Princeton,Bucknell,30,27,19,58,0,Chris Hass missed Jumper.
+Princeton,Bucknell,30,27,19,58,0,T.J. Bray Defensive Rebound.
+Princeton,Bucknell,30,27,20,0,0,End of 1st half
+Princeton,Bucknell,30,27,20,17,0,Ben Brackney Turnover.
+Princeton,Bucknell,30,27,20,18,0,T.J. Bray Steal.
+Princeton,Bucknell,30,27,20,29,0,Will Barrett missed Three Point Jumper.
+Princeton,Bucknell,30,27,20,29,0,Steven Kaspar Defensive Rebound.
+Princeton,Bucknell,30,29,20,44,1,Steven Kaspar made Layup.
+Princeton,Bucknell,30,29,21,4,0,Hans Brase missed Jumper.
+Princeton,Bucknell,30,29,21,4,0,Steven Kaspar Defensive Rebound.
+Princeton,Bucknell,30,29,21,11,0,Chris Hass missed Three Point Jumper.
+Princeton,Bucknell,30,29,21,11,0,Jimmy Sherburne Defensive Rebound.
+Princeton,Bucknell,30,29,21,27,0,Will Barrett missed Three Point Jumper.
+Princeton,Bucknell,30,29,21,27,0,Cameron Ayers Defensive Rebound.
+Princeton,Bucknell,30,29,21,39,0,Foul on Ben Hazel.
+Princeton,Bucknell,30,29,21,39,0,Steven Kaspar missed Free Throw.
+Princeton,Bucknell,30,29,21,39,0,Bucknell Deadball Team Rebound.
+Princeton,Bucknell,30,30,21,39,1,Steven Kaspar made Free Throw.
+Princeton,Bucknell,30,30,22,6,0,T.J. Bray missed Three Point Jumper.
+Princeton,Bucknell,30,30,22,6,0,Brian Fitzpatrick Defensive Rebound.
+Princeton,Bucknell,30,32,22,19,1,Cameron Ayers made Layup.
+Princeton,Bucknell,30,32,22,43,0,Foul on Chris Hass.
+Princeton,Bucknell,32,32,22,51,1,Hans Brase made Layup. Assisted by T.J. Bray.
+Princeton,Bucknell,32,32,23,12,0,Foul on Hans Brase.
+Princeton,Bucknell,32,32,23,12,0,Chris Hass missed Jumper.
+Princeton,Bucknell,32,32,23,15,0,Princeton Deadball Team Rebound.
+Princeton,Bucknell,32,32,23,15,0,Foul on Ben Brackney.
+Princeton,Bucknell,32,32,23,26,0,Ben Hazel missed Three Point Jumper.
+Princeton,Bucknell,32,32,23,26,0,Spencer Weisz Offensive Rebound.
+Princeton,Bucknell,32,32,23,29,0,Foul on Steven Kaspar.
+Princeton,Bucknell,33,32,23,29,1,Spencer Weisz made Free Throw.
+Princeton,Bucknell,34,32,23,29,1,Spencer Weisz made Free Throw.
+Princeton,Bucknell,34,32,23,42,0,Cameron Ayers missed Jumper.
+Princeton,Bucknell,34,32,23,42,0,Will Barrett Defensive Rebound.
+Princeton,Bucknell,34,32,23,58,0,Will Barrett missed Jumper.
+Princeton,Bucknell,34,32,23,58,0,Steven Kaspar Defensive Rebound.
+Princeton,Bucknell,34,32,24,6,0,Brian Fitzpatrick missed Three Point Jumper.
+Princeton,Bucknell,34,32,24,6,0,Will Barrett Defensive Rebound.
+Princeton,Bucknell,36,32,24,21,1,Hans Brase made Layup. Assisted by Will Barrett.
+Princeton,Bucknell,36,32,24,35,0,Brian Fitzpatrick Turnover.
+Princeton,Bucknell,36,32,24,36,0,Ben Hazel Steal.
+Princeton,Bucknell,36,32,24,40,0,Foul on Brian Fitzpatrick.
+Princeton,Bucknell,36,32,24,40,0,Official TV Timeout
+Princeton,Bucknell,37,32,24,40,1,Ben Hazel made Free Throw.
+Princeton,Bucknell,38,32,24,40,1,Ben Hazel made Free Throw.
+Princeton,Bucknell,38,32,24,54,0,Foul on T.J. Bray.
+Princeton,Bucknell,38,33,24,54,1,Ryan Frazier made Free Throw.
+Princeton,Bucknell,38,34,24,54,1,Ryan Frazier made Free Throw.
+Princeton,Bucknell,40,34,25,11,1,T.J. Bray made Jumper.
+Princeton,Bucknell,40,34,25,11,0,Foul on Ryan Frazier.
+Princeton,Bucknell,40,34,25,11,0,T.J. Bray missed Free Throw.
+Princeton,Bucknell,40,34,25,11,0,Dom Hoffman Defensive Rebound.
+Princeton,Bucknell,40,34,25,19,0,Steven Kaspar Turnover.
+Princeton,Bucknell,40,34,25,20,0,T.J. Bray Steal.
+Princeton,Bucknell,40,34,25,26,0,Ben Hazel missed Layup.
+Princeton,Bucknell,40,34,25,26,0,Chris Hass Defensive Rebound.
+Princeton,Bucknell,40,34,25,48,0,Joshea Singleton Turnover.
+Princeton,Bucknell,40,34,25,48,0,Spencer Weisz Steal.
+Princeton,Bucknell,40,34,25,54,0,T.J. Bray Turnover.
+Princeton,Bucknell,40,34,26,11,0,Dom Hoffman missed Layup.
+Princeton,Bucknell,40,34,26,11,0,Ben Hazel Defensive Rebound.
+Princeton,Bucknell,40,34,26,43,0,Denton Koon missed Jumper.
+Princeton,Bucknell,40,34,26,43,0,Dom Hoffman Defensive Rebound.
+Princeton,Bucknell,40,34,26,56,0,Foul on Dom Hoffman.
+Princeton,Bucknell,40,34,26,56,0,Dom Hoffman Turnover.
+Princeton,Bucknell,40,34,27,16,0,T.J. Bray Turnover.
+Princeton,Bucknell,40,34,27,35,0,Joshea Singleton missed Layup.
+Princeton,Bucknell,40,34,27,35,0,Denton Koon Block.
+Princeton,Bucknell,40,34,27,36,0,Bucknell Offensive Rebound.
+Princeton,Bucknell,40,36,27,47,1,Chris Hass made Layup.
+Princeton,Bucknell,40,36,28,6,0,Foul on Joshea Singleton.
+Princeton,Bucknell,40,36,28,6,0,Official TV Timeout
+Princeton,Bucknell,40,36,28,6,0,Denton Koon missed Free Throw.
+Princeton,Bucknell,40,36,28,6,0,Bucknell Defensive Rebound.
+Princeton,Bucknell,40,36,28,28,0,Joshea Singleton missed Layup.
+Princeton,Bucknell,40,36,28,28,0,Will Barrett Defensive Rebound.
+Princeton,Bucknell,40,36,28,30,0,Foul on Joshea Singleton.
+Princeton,Bucknell,41,36,28,30,1,Will Barrett made Free Throw.
+Princeton,Bucknell,42,36,28,30,1,Will Barrett made Free Throw.
+Princeton,Bucknell,42,36,28,30,0,Foul on Will Barrett.
+Princeton,Bucknell,42,37,28,30,1,Joshea Singleton made Free Throw.
+Princeton,Bucknell,42,37,28,30,0,Joshea Singleton missed Free Throw.
+Princeton,Bucknell,42,37,28,30,0,Bucknell Deadball Team Rebound.
+Princeton,Bucknell,42,37,28,39,0,Cameron Ayers missed Jumper.
+Princeton,Bucknell,42,37,28,39,0,Ben Hazel Defensive Rebound.
+Princeton,Bucknell,42,37,28,51,0,Hans Brase Turnover.
+Princeton,Bucknell,42,37,28,52,0,John Azzinaro Steal.
+Princeton,Bucknell,42,37,28,58,0,Foul on Joshea Singleton.
+Princeton,Bucknell,42,37,28,58,0,Joshea Singleton Turnover.
+Princeton,Bucknell,42,37,29,18,0,Foul on Steven Kaspar.
+Princeton,Bucknell,43,37,29,18,1,T.J. Bray made Free Throw.
+Princeton,Bucknell,44,37,29,18,1,T.J. Bray made Free Throw.
+Princeton,Bucknell,44,39,29,31,1,Chris Hass made Jumper. Assisted by Brian Fitzpatrick.
+Princeton,Bucknell,47,39,29,48,1,T.J. Bray made Three Point Jumper. Assisted by Hans Brase.
+Princeton,Bucknell,47,41,30,8,1,Cameron Ayers made Layup.
+Princeton,Bucknell,47,41,30,8,0,Foul on T.J. Bray.
+Princeton,Bucknell,47,42,30,8,1,Cameron Ayers made Free Throw.
+Princeton,Bucknell,47,42,30,25,0,Hans Brase missed Jumper.
+Princeton,Bucknell,47,42,30,26,0,Bucknell Deadball Team Rebound.
+Princeton,Bucknell,47,42,30,26,0,Foul on Hans Brase.
+Princeton,Bucknell,47,42,30,47,0,John Azzinaro missed Layup.
+Princeton,Bucknell,47,42,30,47,0,Ben Hazel Block.
+Princeton,Bucknell,47,42,30,49,0,Ben Hazel Defensive Rebound.
+Princeton,Bucknell,47,42,31,4,0,Hans Brase Turnover.
+Princeton,Bucknell,47,42,31,25,0,Chris Hass missed Layup.
+Princeton,Bucknell,47,42,31,25,0,Spencer Weisz Defensive Rebound.
+Princeton,Bucknell,47,42,31,45,0,Foul on John Azzinaro.
+Princeton,Bucknell,47,42,31,45,0,Ben Hazel missed Free Throw.
+Princeton,Bucknell,47,42,31,45,0,Princeton Deadball Team Rebound.
+Princeton,Bucknell,48,42,31,45,1,Ben Hazel made Free Throw.
+Princeton,Bucknell,48,42,31,59,0,Ryan Frazier missed Three Point Jumper.
+Princeton,Bucknell,48,42,31,59,0,Chris Hass Offensive Rebound.
+Princeton,Bucknell,48,44,32,5,1,Chris Hass made Two Point Tip Shot.
+Princeton,Bucknell,50,44,32,20,1,Jimmy Sherburne made Layup.
+Princeton,Bucknell,50,44,32,35,0,Steven Kaspar missed Layup.
+Princeton,Bucknell,50,44,32,35,0,T.J. Bray Defensive Rebound.
+Princeton,Bucknell,52,44,32,50,1,Will Barrett made Layup.
+Princeton,Bucknell,52,44,33,5,0,Foul on Spencer Weisz.
+Princeton,Bucknell,52,44,33,5,0,Official TV Timeout
+Princeton,Bucknell,52,45,33,5,1,Cameron Ayers made Free Throw.
+Princeton,Bucknell,52,46,33,5,1,Cameron Ayers made Free Throw.
+Princeton,Bucknell,52,46,33,24,0,Will Barrett missed Layup.
+Princeton,Bucknell,52,46,33,24,0,Chris Hass Defensive Rebound.
+Princeton,Bucknell,52,46,33,38,0,Chris Hass missed Layup.
+Princeton,Bucknell,52,46,33,38,0,Ben Hazel Defensive Rebound.
+Princeton,Bucknell,55,46,33,48,1,T.J. Bray made Three Point Jumper. Assisted by Hans Brase.
+Princeton,Bucknell,55,46,34,10,0,Cameron Ayers missed Jumper.
+Princeton,Bucknell,55,46,34,10,0,Ben Hazel Defensive Rebound.
+Princeton,Bucknell,55,46,34,26,0,Jimmy Sherburne missed Layup.
+Princeton,Bucknell,55,46,34,26,0,Dom Hoffman Defensive Rebound.
+Princeton,Bucknell,55,46,34,36,0,Cameron Ayers missed Jumper.
+Princeton,Bucknell,55,46,34,36,0,Hans Brase Defensive Rebound.
+Princeton,Bucknell,57,46,34,56,1,Jimmy Sherburne made Jumper.
+Princeton,Bucknell,57,46,35,5,0,Bucknell  Timeout
+Princeton,Bucknell,57,48,35,27,1,Brian Fitzpatrick made Layup. Assisted by Chris Hass.
+Princeton,Bucknell,57,48,35,48,0,Hans Brase missed Layup.
+Princeton,Bucknell,57,48,35,48,0,John Azzinaro Defensive Rebound.
+Princeton,Bucknell,57,48,36,1,0,Steven Kaspar Turnover.
+Princeton,Bucknell,57,48,36,1,0,Official TV Timeout
+Princeton,Bucknell,57,48,36,23,0,Ben Hazel missed Three Point Jumper.
+Princeton,Bucknell,57,48,36,23,0,T.J. Bray Offensive Rebound.
+Princeton,Bucknell,60,48,36,48,1,T.J. Bray made Three Point Jumper. Assisted by Hans Brase.
+Princeton,Bucknell,60,48,37,4,0,Foul on Hans Brase.
+Princeton,Bucknell,60,49,37,4,1,Brian Fitzpatrick made Free Throw.
+Princeton,Bucknell,60,49,37,4,0,Brian Fitzpatrick missed Free Throw.
+Princeton,Bucknell,60,49,37,4,0,Will Barrett Defensive Rebound.
+Princeton,Bucknell,63,49,37,37,1,Jimmy Sherburne made Three Point Jumper. Assisted by Spencer Weisz.
+Princeton,Bucknell,63,49,38,3,0,Foul on Hans Brase.
+Princeton,Bucknell,63,50,38,3,1,Cameron Ayers made Free Throw.
+Princeton,Bucknell,63,51,38,3,1,Cameron Ayers made Free Throw.
+Princeton,Bucknell,63,51,38,34,0,Jimmy Sherburne Turnover.
+Princeton,Bucknell,63,51,38,35,0,John Azzinaro Steal.
+Princeton,Bucknell,63,51,38,40,0,Cameron Ayers missed Three Point Jumper.
+Princeton,Bucknell,63,51,38,40,0,T.J. Bray Defensive Rebound.
+Princeton,Bucknell,63,51,38,44,0,Foul on Cameron Ayers.
+Princeton,Bucknell,63,51,38,44,0,Spencer Weisz missed Free Throw.
+Princeton,Bucknell,63,51,38,44,0,Princeton Deadball Team Rebound.
+Princeton,Bucknell,64,51,38,44,1,Spencer Weisz made Free Throw.
+Princeton,Bucknell,64,51,38,44,0,Princeton  Timeout
+Princeton,Bucknell,64,51,38,54,0,John Azzinaro missed Jumper.
+Princeton,Bucknell,64,51,38,54,0,Ben Hazel Defensive Rebound.
+Princeton,Bucknell,64,51,38,55,0,Foul on Cameron Ayers.
+Princeton,Bucknell,65,51,38,55,1,Ben Hazel made Free Throw.
+Princeton,Bucknell,66,51,38,55,1,Ben Hazel made Free Throw.
+Princeton,Bucknell,66,51,39,4,0,Chris Hass missed Three Point Jumper.
+Princeton,Bucknell,66,51,39,4,0,John Azzinaro Offensive Rebound.
+Princeton,Bucknell,66,51,39,10,0,Ryan Frazier missed Three Point Jumper.
+Princeton,Bucknell,66,51,39,12,0,Bucknell Offensive Rebound.
+Princeton,Bucknell,66,51,39,12,0,John Azzinaro missed Three Point Jumper.
+Princeton,Bucknell,66,51,39,12,0,Will Barrett Defensive Rebound.
+Princeton,Bucknell,66,51,39,44,0,Will Barrett missed Jumper.
+Princeton,Bucknell,66,51,39,44,0,Chris Hass Defensive Rebound.
+Princeton,Bucknell,66,53,39,59,1,Ryan Frazier made Layup.
+Princeton,Bucknell,66,53,40,0,0,End of Game

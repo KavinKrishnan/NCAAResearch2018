@@ -1,0 +1,354 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UMBC,Maine,0,0,0,6,0,Issac Vann Turnover.
+UMBC,Maine,2,0,0,6,1,Cody Joyce made Layup. Assisted by Will Darley.
+UMBC,Maine,2,0,0,33,0,Foul on Jourdan Grant.
+UMBC,Maine,2,0,0,57,0,Issac Vann missed Jumper.
+UMBC,Maine,2,0,0,57,0,Jairus Lyles Defensive Rebound.
+UMBC,Maine,4,0,1,19,1,Will Darley made Layup.
+UMBC,Maine,4,0,1,29,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,4,0,1,29,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,4,0,1,41,0,Foul on Aaron Calixte.
+UMBC,Maine,4,0,1,59,0,Will Darley Turnover.
+UMBC,Maine,4,0,2,17,0,Issac Vann missed Layup.
+UMBC,Maine,4,0,2,17,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,4,0,2,38,0,Will Darley Turnover.
+UMBC,Maine,4,0,2,39,0,Issac Vann Steal.
+UMBC,Maine,4,0,2,39,0,Foul on Will Darley.
+UMBC,Maine,4,2,2,48,1,Aaron Calixte made Layup. Assisted by Ilija Stojiljkovic.
+UMBC,Maine,4,2,3,6,0,Jairus Lyles Turnover.
+UMBC,Maine,4,2,3,21,0,Till Gloger Turnover.
+UMBC,Maine,4,2,3,22,0,Cody Joyce Steal.
+UMBC,Maine,6,2,3,25,1,Jairus Lyles made Layup. Assisted by Cody Joyce.
+UMBC,Maine,6,2,3,49,0,Issac Vann Turnover.
+UMBC,Maine,6,2,3,50,0,Jourdan Grant Steal.
+UMBC,Maine,9,2,4,2,1,Jairus Lyles made Three Point Jumper. Assisted by Cody Joyce.
+UMBC,Maine,9,2,4,14,0,Till Gloger missed Jumper.
+UMBC,Maine,9,2,4,14,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,9,2,4,30,0,Jairus Lyles missed Jumper.
+UMBC,Maine,9,2,4,30,0,Jairus Lyles Offensive Rebound.
+UMBC,Maine,11,2,4,33,1,Jairus Lyles made Layup.
+UMBC,Maine,11,5,4,52,1,Aaron Calixte made Three Point Jumper.
+UMBC,Maine,11,5,4,55,0,Official TV Timeout
+UMBC,Maine,13,5,5,8,1,Jairus Lyles made Jumper.
+UMBC,Maine,13,5,5,36,0,Ryan Bernstein missed Three Point Jumper.
+UMBC,Maine,13,5,5,36,0,Till Gloger Offensive Rebound.
+UMBC,Maine,13,7,5,49,1,Till Gloger made Layup. Assisted by Kevin Little.
+UMBC,Maine,13,7,5,58,0,Joe Sherburne missed Three Point Jumper.
+UMBC,Maine,13,7,5,58,0,Shaun Lawton Defensive Rebound.
+UMBC,Maine,13,7,6,5,0,Shaun Lawton Turnover.
+UMBC,Maine,13,7,6,12,0,Jairus Lyles Turnover.
+UMBC,Maine,13,7,6,26,0,Foul on Nolan Gerrity.
+UMBC,Maine,13,7,6,28,0,Ryan Bernstein Turnover.
+UMBC,Maine,13,7,6,30,0,Will Darley Steal.
+UMBC,Maine,15,7,6,34,1,Jourdan Grant made Layup. Assisted by Will Darley.
+UMBC,Maine,15,7,6,37,0,UMBC  Timeout
+UMBC,Maine,15,9,6,49,1,Till Gloger made Layup. Assisted by Troy Reid-Knight.
+UMBC,Maine,17,9,7,4,1,Nolan Gerrity made Layup. Assisted by Rodney Elliott.
+UMBC,Maine,17,9,7,24,0,Troy Reid-Knight missed Three Point Jumper.
+UMBC,Maine,17,9,7,24,0,UMBC Defensive Rebound.
+UMBC,Maine,17,9,7,26,0,Foul on Till Gloger.
+UMBC,Maine,17,9,7,35,0,Nolan Gerrity Turnover.
+UMBC,Maine,17,9,7,49,0,Shaun Lawton missed Layup.
+UMBC,Maine,17,9,7,49,0,Shaun Lawton Offensive Rebound.
+UMBC,Maine,17,9,7,51,0,Foul on Ishmail Jabbie.
+UMBC,Maine,17,9,7,51,0,Shaun Lawton missed Free Throw.
+UMBC,Maine,17,9,7,51,0,Maine Deadball Team Rebound.
+UMBC,Maine,17,10,7,51,1,Shaun Lawton made Free Throw.
+UMBC,Maine,17,10,8,9,0,Joe Sherburne missed Layup.
+UMBC,Maine,17,10,8,9,0,Ilija Stojiljkovic Defensive Rebound.
+UMBC,Maine,17,10,8,15,0,Official TV Timeout
+UMBC,Maine,17,13,8,25,1,Kevin Little made Three Point Jumper. Assisted by Aaron Calixte.
+UMBC,Maine,17,13,8,46,0,Jairus Lyles Turnover.
+UMBC,Maine,17,15,9,7,1,Ryan Bernstein made Layup. Assisted by Aaron Calixte.
+UMBC,Maine,20,15,9,19,1,Joe Sherburne made Three Point Jumper. Assisted by Ishmail Jabbie.
+UMBC,Maine,20,18,9,29,1,Aaron Calixte made Three Point Jumper. Assisted by Kevin Little.
+UMBC,Maine,20,18,9,50,0,Joe Sherburne missed Three Point Jumper.
+UMBC,Maine,20,18,9,50,0,Ilija Stojiljkovic Defensive Rebound.
+UMBC,Maine,20,18,10,1,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,20,18,10,1,0,Jairus Lyles Defensive Rebound.
+UMBC,Maine,20,18,10,13,0,Foul on Ilija Stojiljkovic.
+UMBC,Maine,21,18,10,13,1,Jairus Lyles made Free Throw.
+UMBC,Maine,22,18,10,13,1,Jairus Lyles made Free Throw.
+UMBC,Maine,22,20,10,21,1,Devine Eke made Layup. Assisted by Aaron Calixte.
+UMBC,Maine,22,20,10,21,0,Foul on Cody Joyce.
+UMBC,Maine,22,20,10,21,0,Devine Eke missed Free Throw.
+UMBC,Maine,22,20,10,21,0,Will Darley Defensive Rebound.
+UMBC,Maine,22,20,10,37,0,Foul on Jourdan Grant.
+UMBC,Maine,22,20,10,37,0,Jourdan Grant Turnover.
+UMBC,Maine,22,20,10,44,0,Devine Eke Turnover.
+UMBC,Maine,22,20,11,15,0,Jairus Lyles Turnover.
+UMBC,Maine,22,20,11,16,0,Devine Eke Steal.
+UMBC,Maine,22,23,11,20,1,Ilija Stojiljkovic made Three Point Jumper. Assisted by Devine Eke.
+UMBC,Maine,22,23,11,22,0,UMBC  Timeout
+UMBC,Maine,24,23,11,27,1,Jairus Lyles made Jumper.
+UMBC,Maine,24,23,11,47,0,Till Gloger missed Jumper.
+UMBC,Maine,24,23,11,47,0,Cody Joyce Defensive Rebound.
+UMBC,Maine,24,23,11,53,0,Jairus Lyles missed Three Point Jumper.
+UMBC,Maine,24,23,11,53,0,Shaun Lawton Defensive Rebound.
+UMBC,Maine,24,25,12,3,1,Issac Vann made Jumper.
+UMBC,Maine,27,25,12,16,1,Joe Sherburne made Three Point Jumper. Assisted by Will Darley.
+UMBC,Maine,27,25,12,33,0,Shaun Lawton Turnover.
+UMBC,Maine,27,25,12,34,0,Joe Sherburne Steal.
+UMBC,Maine,29,25,12,39,1,Cody Joyce made Layup. Assisted by Jairus Lyles.
+UMBC,Maine,29,27,12,50,1,Till Gloger made Layup. Assisted by Shaun Lawton.
+UMBC,Maine,29,27,12,50,0,Official TV Timeout
+UMBC,Maine,29,27,13,0,0,Foul on Till Gloger.
+UMBC,Maine,30,27,13,0,1,Cody Joyce made Free Throw.
+UMBC,Maine,31,27,13,0,1,Cody Joyce made Free Throw.
+UMBC,Maine,31,27,13,5,0,Foul on Jairus Lyles.
+UMBC,Maine,31,28,13,5,1,Aaron Calixte made Free Throw.
+UMBC,Maine,31,29,13,5,1,Aaron Calixte made Free Throw.
+UMBC,Maine,33,29,13,20,1,Cody Joyce made Layup. Assisted by Will Darley.
+UMBC,Maine,33,29,13,30,0,Issac Vann missed Three Point Jumper.
+UMBC,Maine,33,29,13,30,0,Joel Wincowski Defensive Rebound.
+UMBC,Maine,33,29,13,58,0,Jairus Lyles missed Layup.
+UMBC,Maine,33,29,13,58,0,Devine Eke Block.
+UMBC,Maine,33,29,14,1,0,Issac Vann Defensive Rebound.
+UMBC,Maine,33,32,14,6,1,Kevin Little made Three Point Jumper. Assisted by Issac Vann.
+UMBC,Maine,33,32,14,13,0,Foul on Issac Vann.
+UMBC,Maine,35,32,14,18,1,Will Darley made Jumper. Assisted by Joel Wincowski.
+UMBC,Maine,35,32,14,25,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,35,32,14,25,0,Will Darley Defensive Rebound.
+UMBC,Maine,35,32,14,49,0,Joe Sherburne Turnover.
+UMBC,Maine,35,32,14,52,0,Devine Eke Steal.
+UMBC,Maine,35,34,14,54,1,Devine Eke made Layup. Assisted by Aaron Calixte.
+UMBC,Maine,35,34,14,54,0,Foul on Rodney Elliott.
+UMBC,Maine,35,35,14,54,1,Devine Eke made Free Throw.
+UMBC,Maine,37,35,15,12,1,Nolan Gerrity made Layup. Assisted by Rodney Elliott.
+UMBC,Maine,37,35,15,32,0,Shaun Lawton Turnover.
+UMBC,Maine,37,35,15,34,0,Nolan Gerrity Steal.
+UMBC,Maine,37,35,15,52,0,Rodney Elliott Turnover.
+UMBC,Maine,37,37,16,14,1,Kevin Little made Jumper.
+UMBC,Maine,37,37,16,28,0,Will Darley missed Three Point Jumper.
+UMBC,Maine,37,37,16,28,0,Will Darley Offensive Rebound.
+UMBC,Maine,37,37,16,43,0,Joe Sherburne missed Three Point Jumper.
+UMBC,Maine,37,37,16,43,0,UMBC Offensive Rebound.
+UMBC,Maine,37,37,16,44,0,Foul on Aaron Calixte.
+UMBC,Maine,37,37,16,44,0,Official TV Timeout
+UMBC,Maine,37,37,16,54,0,Foul on Ilija Stojiljkovic.
+UMBC,Maine,37,37,16,54,0,Ishmail Jabbie missed Free Throw.
+UMBC,Maine,37,37,16,54,0,UMBC Deadball Team Rebound.
+UMBC,Maine,37,37,16,54,0,Ishmail Jabbie missed Free Throw.
+UMBC,Maine,37,37,16,54,0,Devine Eke Defensive Rebound.
+UMBC,Maine,37,37,17,10,0,Issac Vann Turnover.
+UMBC,Maine,37,37,17,11,0,Will Darley Steal.
+UMBC,Maine,37,37,17,14,0,Rodney Elliott missed Layup.
+UMBC,Maine,37,37,17,14,0,Devine Eke Defensive Rebound.
+UMBC,Maine,37,37,17,22,0,Aaron Calixte Turnover.
+UMBC,Maine,37,37,17,23,0,Will Darley Steal.
+UMBC,Maine,39,37,17,24,1,Cody Joyce made Layup. Assisted by Will Darley.
+UMBC,Maine,39,37,17,29,0,Kevin Little Turnover.
+UMBC,Maine,42,37,17,56,1,Ishmail Jabbie made Three Point Jumper. Assisted by Will Darley.
+UMBC,Maine,42,37,18,14,0,Issac Vann missed Three Point Jumper.
+UMBC,Maine,42,37,18,14,0,Cody Joyce Defensive Rebound.
+UMBC,Maine,42,37,18,31,0,Will Darley Turnover.
+UMBC,Maine,42,37,18,32,0,Issac Vann Steal.
+UMBC,Maine,42,37,18,41,0,Ryan Bernstein Turnover.
+UMBC,Maine,42,37,18,42,0,Jairus Lyles Steal.
+UMBC,Maine,44,37,18,45,1,Jairus Lyles made Layup.
+UMBC,Maine,44,37,18,45,0,UMBC  Timeout
+UMBC,Maine,44,37,19,10,0,Troy Reid-Knight missed Jumper.
+UMBC,Maine,44,37,19,10,0,Cody Joyce Defensive Rebound.
+UMBC,Maine,44,37,19,22,0,Jairus Lyles Turnover.
+UMBC,Maine,44,39,19,36,1,Aaron Calixte made Layup.
+UMBC,Maine,44,39,19,46,0,Foul on Kevin Little.
+UMBC,Maine,44,39,19,46,0,Jairus Lyles missed Free Throw.
+UMBC,Maine,44,39,19,46,0,Devine Eke Defensive Rebound.
+UMBC,Maine,44,39,20,0,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,44,39,20,0,0,UMBC Defensive Rebound.
+UMBC,Maine,44,39,20,0,0,End of 1st half
+UMBC,Maine,44,39,20,19,0,Jourdan Grant missed Layup.
+UMBC,Maine,44,39,20,19,0,Devine Eke Block.
+UMBC,Maine,44,39,20,21,0,Joe Sherburne Offensive Rebound.
+UMBC,Maine,46,39,20,25,1,Joe Sherburne made Layup.
+UMBC,Maine,46,39,20,47,0,Kevin Little missed Layup.
+UMBC,Maine,46,39,20,47,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,46,39,21,9,0,Will Darley missed Jumper.
+UMBC,Maine,46,39,21,9,0,Ilija Stojiljkovic Defensive Rebound.
+UMBC,Maine,46,41,21,16,1,Issac Vann made Layup. Assisted by Aaron Calixte.
+UMBC,Maine,46,41,21,47,0,Jourdan Grant Turnover.
+UMBC,Maine,46,41,21,48,0,Devine Eke Steal.
+UMBC,Maine,46,41,21,53,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,46,41,21,53,0,Will Darley Defensive Rebound.
+UMBC,Maine,46,41,22,11,0,Foul on Ilija Stojiljkovic.
+UMBC,Maine,46,41,22,15,0,Will Darley Turnover.
+UMBC,Maine,46,41,22,15,0,Shaun Lawton Steal.
+UMBC,Maine,46,41,22,15,0,Foul on Will Darley.
+UMBC,Maine,46,41,22,27,0,Will Darley Turnover.
+UMBC,Maine,46,41,22,46,0,Jourdan Grant Turnover.
+UMBC,Maine,46,41,22,59,0,Aaron Calixte missed Jumper.
+UMBC,Maine,46,41,22,59,0,Jairus Lyles Defensive Rebound.
+UMBC,Maine,46,41,23,6,0,Foul on Jairus Lyles.
+UMBC,Maine,46,41,23,6,0,Jairus Lyles Turnover.
+UMBC,Maine,46,43,23,14,1,Devine Eke made Layup. Assisted by Issac Vann.
+UMBC,Maine,46,43,23,28,0,Jourdan Grant Turnover.
+UMBC,Maine,46,43,23,31,0,Shaun Lawton Steal.
+UMBC,Maine,46,45,23,31,1,Shaun Lawton made Layup.
+UMBC,Maine,46,45,23,31,0,UMBC  Timeout
+UMBC,Maine,46,45,23,56,0,Cody Joyce Turnover.
+UMBC,Maine,46,45,23,57,0,Devine Eke Steal.
+UMBC,Maine,46,45,24,0,0,Foul on Shaun Lawton.
+UMBC,Maine,46,45,24,0,0,Shaun Lawton Turnover.
+UMBC,Maine,48,45,24,11,1,Joe Sherburne made Layup. Assisted by Will Darley.
+UMBC,Maine,48,45,24,19,0,Foul on Rodney Elliott.
+UMBC,Maine,48,45,24,19,0,Official TV Timeout
+UMBC,Maine,48,45,24,28,0,Foul on Will Darley.
+UMBC,Maine,48,45,24,31,0,Till Gloger missed Layup.
+UMBC,Maine,48,45,24,31,0,Nolan Gerrity Defensive Rebound.
+UMBC,Maine,48,45,24,52,0,Joe Sherburne missed Three Point Jumper.
+UMBC,Maine,48,45,24,52,0,Shaun Lawton Defensive Rebound.
+UMBC,Maine,48,45,25,6,0,Aaron Calixte missed Layup.
+UMBC,Maine,48,45,25,6,0,Nolan Gerrity Block.
+UMBC,Maine,48,45,25,9,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,48,45,25,32,0,Will Darley missed Layup.
+UMBC,Maine,48,45,25,32,0,Nolan Gerrity Offensive Rebound.
+UMBC,Maine,50,45,25,38,1,Nolan Gerrity made Layup.
+UMBC,Maine,50,45,25,41,0,Foul on Nolan Gerrity.
+UMBC,Maine,50,46,25,41,1,Issac Vann made Free Throw.
+UMBC,Maine,50,47,25,41,1,Issac Vann made Free Throw.
+UMBC,Maine,50,47,25,57,0,Nolan Gerrity Turnover.
+UMBC,Maine,50,47,25,59,0,Troy Reid-Knight Steal.
+UMBC,Maine,50,47,26,10,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,50,47,26,10,0,Malcolm Brent Defensive Rebound.
+UMBC,Maine,50,47,26,28,0,Foul on Kevin Little.
+UMBC,Maine,52,47,26,40,1,Jairus Lyles made Jumper.
+UMBC,Maine,52,47,26,58,0,Aaron Calixte missed Jumper.
+UMBC,Maine,52,47,26,58,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,52,47,27,16,0,Rodney Elliott missed Three Point Jumper.
+UMBC,Maine,52,47,27,16,0,Shaun Lawton Defensive Rebound.
+UMBC,Maine,52,49,27,24,1,Devine Eke made Layup. Assisted by Shaun Lawton.
+UMBC,Maine,52,49,27,44,0,Malcolm Brent missed Jumper.
+UMBC,Maine,52,49,27,44,0,Shaun Lawton Defensive Rebound.
+UMBC,Maine,52,51,27,53,1,Devine Eke made Layup. Assisted by Aaron Calixte.
+UMBC,Maine,52,51,27,53,0,Foul on Cody Joyce.
+UMBC,Maine,52,51,27,53,0,Devine Eke missed Free Throw.
+UMBC,Maine,52,51,27,53,0,Cody Joyce Defensive Rebound.
+UMBC,Maine,54,51,28,11,1,Jairus Lyles made Jumper.
+UMBC,Maine,54,53,28,20,1,Troy Reid-Knight made Jumper.
+UMBC,Maine,54,53,28,34,0,Malcolm Brent missed Three Point Jumper.
+UMBC,Maine,54,53,28,34,0,Ryan Bernstein Defensive Rebound.
+UMBC,Maine,54,53,28,37,0,Foul on Rodney Elliott.
+UMBC,Maine,54,53,28,37,0,Official TV Timeout
+UMBC,Maine,54,54,28,37,1,Issac Vann made Free Throw.
+UMBC,Maine,54,55,28,37,1,Issac Vann made Free Throw.
+UMBC,Maine,54,55,28,42,0,Devine Eke missed Jumper.
+UMBC,Maine,54,55,28,42,0,Malcolm Brent Defensive Rebound.
+UMBC,Maine,54,55,29,5,0,Foul on Shaun Lawton.
+UMBC,Maine,55,55,29,5,1,Jairus Lyles made Free Throw.
+UMBC,Maine,56,55,29,5,1,Jairus Lyles made Free Throw.
+UMBC,Maine,56,55,29,22,0,Shaun Lawton missed Jumper.
+UMBC,Maine,56,55,29,22,0,Cody Joyce Block.
+UMBC,Maine,56,55,29,24,0,Shaun Lawton Offensive Rebound.
+UMBC,Maine,56,57,29,27,1,Troy Reid-Knight made Jumper.
+UMBC,Maine,56,57,29,49,0,Jairus Lyles Turnover.
+UMBC,Maine,56,57,30,6,0,Shaun Lawton missed Three Point Jumper.
+UMBC,Maine,56,57,30,6,0,Troy Reid-Knight Offensive Rebound.
+UMBC,Maine,56,57,30,9,0,Troy Reid-Knight missed Jumper.
+UMBC,Maine,56,57,30,9,0,Jourdan Grant Defensive Rebound.
+UMBC,Maine,56,57,30,18,0,Foul on Jourdan Grant.
+UMBC,Maine,56,57,30,18,0,Jourdan Grant Turnover.
+UMBC,Maine,56,57,30,37,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,56,57,30,37,0,UMBC Defensive Rebound.
+UMBC,Maine,56,57,30,57,0,Rodney Elliott missed Jumper.
+UMBC,Maine,56,57,30,57,0,Rodney Elliott Offensive Rebound.
+UMBC,Maine,58,57,30,59,1,Rodney Elliott made Layup.
+UMBC,Maine,58,57,31,8,0,Foul on Cody Joyce.
+UMBC,Maine,58,58,31,8,1,Issac Vann made Free Throw.
+UMBC,Maine,58,59,31,8,1,Issac Vann made Free Throw.
+UMBC,Maine,61,59,31,21,1,Jairus Lyles made Three Point Jumper. Assisted by Cody Joyce.
+UMBC,Maine,61,59,31,34,0,Foul on Cody Joyce.
+UMBC,Maine,61,60,31,34,1,Issac Vann made Free Throw.
+UMBC,Maine,61,61,31,34,1,Issac Vann made Free Throw.
+UMBC,Maine,63,61,31,48,1,Nolan Gerrity made Layup. Assisted by Jourdan Grant.
+UMBC,Maine,63,63,31,56,1,Aaron Calixte made Layup.
+UMBC,Maine,65,63,32,5,1,Nolan Gerrity made Layup. Assisted by Rodney Elliott.
+UMBC,Maine,65,63,32,5,0,Foul on Aaron Calixte.
+UMBC,Maine,65,63,32,5,0,Official TV Timeout
+UMBC,Maine,65,63,32,5,0,Nolan Gerrity missed Free Throw.
+UMBC,Maine,65,63,32,5,0,Shaun Lawton Defensive Rebound.
+UMBC,Maine,65,63,32,27,0,Foul on Will Darley.
+UMBC,Maine,65,64,32,27,1,Till Gloger made Free Throw.
+UMBC,Maine,65,64,32,27,0,Till Gloger missed Free Throw.
+UMBC,Maine,65,64,32,27,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,68,64,32,38,1,Jairus Lyles made Three Point Jumper. Assisted by Rodney Elliott.
+UMBC,Maine,68,64,32,58,0,Issac Vann missed Layup.
+UMBC,Maine,68,64,32,58,0,Nolan Gerrity Defensive Rebound.
+UMBC,Maine,68,64,33,24,0,Rodney Elliott Turnover.
+UMBC,Maine,68,64,33,45,0,Foul on Rodney Elliott.
+UMBC,Maine,68,65,33,45,1,Aaron Calixte made Free Throw.
+UMBC,Maine,68,66,33,45,1,Aaron Calixte made Free Throw.
+UMBC,Maine,68,66,34,2,0,Jairus Lyles missed Jumper.
+UMBC,Maine,68,66,34,2,0,Shaun Lawton Defensive Rebound.
+UMBC,Maine,68,66,34,20,0,Shaun Lawton missed Three Point Jumper.
+UMBC,Maine,68,66,34,20,0,UMBC Defensive Rebound.
+UMBC,Maine,68,66,34,49,0,Jairus Lyles missed Three Point Jumper.
+UMBC,Maine,68,66,34,49,0,Shaun Lawton Defensive Rebound.
+UMBC,Maine,68,66,35,0,0,Issac Vann missed Layup.
+UMBC,Maine,68,66,35,0,0,Issac Vann Offensive Rebound.
+UMBC,Maine,68,66,35,2,0,Issac Vann missed Layup.
+UMBC,Maine,68,66,35,2,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,68,66,35,11,0,Joe Sherburne missed Layup.
+UMBC,Maine,68,66,35,11,0,Devine Eke Block.
+UMBC,Maine,68,66,35,11,0,Nolan Gerrity Offensive Rebound.
+UMBC,Maine,68,66,35,11,0,Foul on Shaun Lawton.
+UMBC,Maine,68,66,35,11,0,Nolan Gerrity missed Free Throw.
+UMBC,Maine,68,66,35,11,0,UMBC Deadball Team Rebound.
+UMBC,Maine,68,66,35,11,0,Nolan Gerrity missed Free Throw.
+UMBC,Maine,68,66,35,11,0,Joe Sherburne Offensive Rebound.
+UMBC,Maine,68,66,35,27,0,Nolan Gerrity missed Layup.
+UMBC,Maine,68,66,35,27,0,Troy Reid-Knight Defensive Rebound.
+UMBC,Maine,68,66,35,39,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,68,66,35,39,0,Jourdan Grant Defensive Rebound.
+UMBC,Maine,68,66,36,1,0,Jourdan Grant missed Layup.
+UMBC,Maine,68,66,36,1,0,Devine Eke Block.
+UMBC,Maine,68,66,36,1,0,UMBC Offensive Rebound.
+UMBC,Maine,68,66,36,1,0,Official TV Timeout
+UMBC,Maine,70,66,36,10,1,Jairus Lyles made Jumper.
+UMBC,Maine,70,66,36,23,0,Foul on Rodney Elliott.
+UMBC,Maine,70,67,36,23,1,Aaron Calixte made Free Throw.
+UMBC,Maine,70,68,36,23,1,Aaron Calixte made Free Throw.
+UMBC,Maine,72,68,36,43,1,Will Darley made Layup. Assisted by Joe Sherburne.
+UMBC,Maine,72,68,37,8,0,Aaron Calixte missed Jumper.
+UMBC,Maine,72,68,37,8,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,74,68,37,27,1,Jairus Lyles made Layup.
+UMBC,Maine,74,68,37,36,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,74,68,37,36,0,Jairus Lyles Defensive Rebound.
+UMBC,Maine,74,68,37,42,0,UMBC  Timeout
+UMBC,Maine,76,68,37,49,1,Jairus Lyles made Layup.
+UMBC,Maine,76,68,38,2,0,Kevin Little missed Layup.
+UMBC,Maine,76,68,38,2,0,Jourdan Grant Defensive Rebound.
+UMBC,Maine,76,68,38,14,0,Will Darley Turnover.
+UMBC,Maine,76,68,38,16,0,Shaun Lawton Steal.
+UMBC,Maine,76,70,38,17,1,Shaun Lawton made Layup.
+UMBC,Maine,78,70,38,45,1,Jairus Lyles made Layup.
+UMBC,Maine,78,72,38,57,1,Devine Eke made Dunk. Assisted by Kevin Little.
+UMBC,Maine,78,72,38,57,0,Maine  Timeout
+UMBC,Maine,78,72,39,8,0,Foul on Aaron Calixte.
+UMBC,Maine,78,72,39,9,0,Jourdan Grant missed Free Throw.
+UMBC,Maine,78,72,39,9,0,Devine Eke Defensive Rebound.
+UMBC,Maine,78,74,39,22,1,Shaun Lawton made Layup.
+UMBC,Maine,78,74,39,28,0,Foul on Shaun Lawton.
+UMBC,Maine,79,74,39,28,1,Jairus Lyles made Free Throw.
+UMBC,Maine,80,74,39,28,1,Jairus Lyles made Free Throw.
+UMBC,Maine,80,74,39,32,0,Foul on Jairus Lyles.
+UMBC,Maine,80,75,39,32,1,Kevin Little made Free Throw.
+UMBC,Maine,80,76,39,32,1,Kevin Little made Free Throw.
+UMBC,Maine,80,76,39,38,0,Foul on Ryan Bernstein.
+UMBC,Maine,80,76,39,38,0,Ben Grace missed Free Throw.
+UMBC,Maine,80,76,39,38,0,Shaun Lawton Defensive Rebound.
+UMBC,Maine,80,76,39,44,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,80,76,39,44,0,Troy Reid-Knight Offensive Rebound.
+UMBC,Maine,80,76,39,49,0,Shaun Lawton missed Layup.
+UMBC,Maine,80,76,39,49,0,Joe Sherburne Defensive Rebound.
+UMBC,Maine,80,76,39,51,0,Foul on Aaron Calixte.
+UMBC,Maine,81,76,39,51,1,Joe Sherburne made Free Throw.
+UMBC,Maine,82,76,39,51,1,Joe Sherburne made Free Throw.
+UMBC,Maine,82,79,39,55,1,Kevin Little made Three Point Jumper. Assisted by Shaun Lawton.
+UMBC,Maine,82,79,39,57,0,Maine  Timeout
+UMBC,Maine,82,79,39,58,0,Foul on Troy Reid-Knight.
+UMBC,Maine,82,79,39,58,0,Will Darley missed Free Throw.
+UMBC,Maine,82,79,39,58,0,UMBC Deadball Team Rebound.
+UMBC,Maine,83,79,39,58,1,Will Darley made Free Throw.
+UMBC,Maine,83,79,40,0,0,Kevin Little missed Three Point Jumper.
+UMBC,Maine,83,79,40,0,0,UMBC Defensive Rebound.
+UMBC,Maine,83,79,40,0,0,End of Game

@@ -1,0 +1,353 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Morgan State,Maryland,0,0,0,31,0,Cedric Blossom missed Layup.
+Morgan State,Maryland,0,0,0,31,0,Ian Chiles Offensive Rebound.
+Morgan State,Maryland,2,0,0,35,1,Ian Chiles made Dunk.
+Morgan State,Maryland,2,0,0,50,0,Shaquille Cleare Turnover.
+Morgan State,Maryland,2,0,0,56,0,Foul on Nick Faust.
+Morgan State,Maryland,2,0,0,56,0,Anthony Hubbard missed Free Throw.
+Morgan State,Maryland,2,0,0,56,0,Morgan St Deadball Team Rebound.
+Morgan State,Maryland,3,0,0,56,1,Anthony Hubbard made Free Throw.
+Morgan State,Maryland,3,3,1,13,1,Evan Smotrycz made Three Point Jumper. Assisted by Jake Layman.
+Morgan State,Maryland,5,3,1,25,1,Ian Chiles made Jumper.
+Morgan State,Maryland,5,3,1,37,0,Dez Wells missed Jumper.
+Morgan State,Maryland,5,3,1,37,0,Ian Chiles Defensive Rebound.
+Morgan State,Maryland,5,3,1,53,0,Ian Chiles Turnover.
+Morgan State,Maryland,5,5,2,7,1,Jake Layman made Dunk. Assisted by Nick Faust.
+Morgan State,Maryland,5,5,2,20,0,Blake Bozeman missed Three Point Jumper.
+Morgan State,Maryland,5,5,2,20,0,Anthony Hubbard Offensive Rebound.
+Morgan State,Maryland,5,5,2,23,0,Anthony Hubbard missed Jumper.
+Morgan State,Maryland,5,5,2,23,0,Evan Smotrycz Defensive Rebound.
+Morgan State,Maryland,5,7,2,32,1,Nick Faust made Layup. Assisted by Dez Wells.
+Morgan State,Maryland,5,7,2,47,0,Anthony Hubbard Turnover.
+Morgan State,Maryland,5,7,2,48,0,Nick Faust Steal.
+Morgan State,Maryland,5,9,2,50,1,Nick Faust made Dunk.
+Morgan State,Maryland,5,9,3,8,0,Justin Black Turnover.
+Morgan State,Maryland,5,11,3,27,1,Shaquille Cleare made Dunk. Assisted by Evan Smotrycz.
+Morgan State,Maryland,5,11,3,37,0,Anthony Hubbard missed Jumper.
+Morgan State,Maryland,5,11,3,37,0,Jake Layman Block.
+Morgan State,Maryland,5,11,3,39,0,Jake Layman Defensive Rebound.
+Morgan State,Maryland,5,14,3,51,1,Dez Wells made Three Point Jumper. Assisted by Shaquille Cleare.
+Morgan State,Maryland,5,14,4,18,0,Official TV Timeout
+Morgan State,Maryland,7,14,4,23,1,Shaquille Duncan made Layup.
+Morgan State,Maryland,7,14,4,37,0,Foul on Shaquille Duncan.
+Morgan State,Maryland,7,14,4,37,0,Evan Smotrycz missed Free Throw.
+Morgan State,Maryland,7,14,4,37,0,Maryland Deadball Team Rebound.
+Morgan State,Maryland,7,15,4,37,1,Evan Smotrycz made Free Throw.
+Morgan State,Maryland,7,15,4,45,0,Justin Black missed Three Point Jumper.
+Morgan State,Maryland,7,15,4,45,0,Evan Smotrycz Defensive Rebound.
+Morgan State,Maryland,7,15,5,9,0,Jake Layman missed Three Point Jumper.
+Morgan State,Maryland,7,15,5,9,0,Morgan St Defensive Rebound.
+Morgan State,Maryland,7,15,5,29,0,Donte Pretlow missed Three Point Jumper.
+Morgan State,Maryland,7,15,5,29,0,Charles Mitchell Defensive Rebound.
+Morgan State,Maryland,7,15,5,31,0,Foul on Shaquille Duncan.
+Morgan State,Maryland,7,15,5,44,0,Nick Faust missed Layup.
+Morgan State,Maryland,7,15,5,44,0,Ian Chiles Defensive Rebound.
+Morgan State,Maryland,7,15,5,51,0,Shaquille Duncan missed Jumper.
+Morgan State,Maryland,7,15,5,51,0,Dez Wells Defensive Rebound.
+Morgan State,Maryland,7,15,5,54,0,Foul on Blake Bozeman.
+Morgan State,Maryland,7,15,5,57,0,Charles Mitchell Turnover.
+Morgan State,Maryland,7,15,5,57,0,Ian Chiles Steal.
+Morgan State,Maryland,7,15,6,24,0,Ian Chiles missed Jumper.
+Morgan State,Maryland,7,15,6,24,0,Morgan St Offensive Rebound.
+Morgan State,Maryland,7,15,6,27,0,Justin Black missed Jumper.
+Morgan State,Maryland,7,15,6,27,0,Damonte Dodd Defensive Rebound.
+Morgan State,Maryland,7,15,6,29,0,Foul on Emmanuel Matey.
+Morgan State,Maryland,7,16,6,29,1,Roddy Peters made Free Throw.
+Morgan State,Maryland,7,17,6,29,1,Roddy Peters made Free Throw.
+Morgan State,Maryland,7,17,6,46,0,Ian Chiles missed Jumper.
+Morgan State,Maryland,7,17,6,46,0,Jake Layman Defensive Rebound.
+Morgan State,Maryland,7,19,7,1,1,Damonte Dodd made Layup. Assisted by Roddy Peters.
+Morgan State,Maryland,9,19,7,14,1,Ian Chiles made Jumper. Assisted by Anthony Hubbard.
+Morgan State,Maryland,9,19,7,29,0,Maryland  Timeout
+Morgan State,Maryland,9,22,7,37,1,Jake Layman made Three Point Jumper. Assisted by Roddy Peters.
+Morgan State,Maryland,9,22,8,4,0,Emmanuel Matey missed Three Point Jumper.
+Morgan State,Maryland,9,22,8,4,0,Cedric Blossom Offensive Rebound.
+Morgan State,Maryland,9,22,8,8,0,Cedric Blossom missed Layup.
+Morgan State,Maryland,9,22,8,8,0,Evan Smotrycz Defensive Rebound.
+Morgan State,Maryland,9,22,8,15,0,Jake Layman missed Three Point Jumper.
+Morgan State,Maryland,9,22,8,15,0,Evan Smotrycz Offensive Rebound.
+Morgan State,Maryland,9,22,8,19,0,Official TV Timeout
+Morgan State,Maryland,9,22,8,27,0,Varun Ram missed Three Point Jumper.
+Morgan State,Maryland,9,22,8,27,0,Varun Ram Offensive Rebound.
+Morgan State,Maryland,9,22,8,57,0,Evan Smotrycz missed Three Point Jumper.
+Morgan State,Maryland,9,22,8,57,0,Anthony Hubbard Defensive Rebound.
+Morgan State,Maryland,9,22,9,18,0,Foul on Evan Smotrycz.
+Morgan State,Maryland,9,22,9,18,0,Anthony Hubbard missed Free Throw.
+Morgan State,Maryland,9,22,9,18,0,Morgan St Deadball Team Rebound.
+Morgan State,Maryland,10,22,9,18,1,Anthony Hubbard made Free Throw.
+Morgan State,Maryland,10,22,9,33,0,Evan Smotrycz missed Three Point Jumper.
+Morgan State,Maryland,10,22,9,33,0,Shaquille Cleare Offensive Rebound.
+Morgan State,Maryland,10,22,9,36,0,Foul on Ian Chiles.
+Morgan State,Maryland,10,22,9,36,0,Shaquille Cleare missed Free Throw.
+Morgan State,Maryland,10,22,9,36,0,Maryland Deadball Team Rebound.
+Morgan State,Maryland,10,22,9,36,0,Shaquille Cleare missed Free Throw.
+Morgan State,Maryland,10,22,9,36,0,Evan Smotrycz Offensive Rebound.
+Morgan State,Maryland,10,22,9,38,0,Foul on Anthony Hubbard.
+Morgan State,Maryland,10,22,9,54,0,Evan Smotrycz Turnover.
+Morgan State,Maryland,12,22,10,8,1,Anthony Hubbard made Layup. Assisted by Shaquille Duncan.
+Morgan State,Maryland,12,22,10,8,0,Foul on Shaquille Cleare.
+Morgan State,Maryland,13,22,10,8,1,Anthony Hubbard made Free Throw.
+Morgan State,Maryland,13,24,10,29,1,Shaquille Cleare made Dunk. Assisted by Charles Mitchell.
+Morgan State,Maryland,13,24,10,40,0,Foul on Charles Mitchell.
+Morgan State,Maryland,15,24,10,55,1,Cedric Blossom made Jumper. Assisted by Justin Black.
+Morgan State,Maryland,15,27,11,14,1,Dez Wells made Three Point Jumper. Assisted by Nick Faust.
+Morgan State,Maryland,15,27,11,35,0,Blake Bozeman Turnover.
+Morgan State,Maryland,15,27,11,37,0,Charles Mitchell Steal.
+Morgan State,Maryland,15,29,11,42,1,Charles Mitchell made Layup. Assisted by Roddy Peters.
+Morgan State,Maryland,15,29,11,45,0,Morgan St  Timeout
+Morgan State,Maryland,15,29,12,1,0,Ian Chiles missed Jumper.
+Morgan State,Maryland,15,29,12,1,0,Anthony Hubbard Offensive Rebound.
+Morgan State,Maryland,17,29,12,4,1,Anthony Hubbard made Jumper.
+Morgan State,Maryland,17,29,12,29,0,Charles Mitchell missed Jumper.
+Morgan State,Maryland,17,29,12,29,0,Ian Chiles Defensive Rebound.
+Morgan State,Maryland,17,29,12,49,0,Foul on Ian Chiles.
+Morgan State,Maryland,17,29,12,49,0,Ian Chiles Turnover.
+Morgan State,Maryland,17,29,12,49,0,Official TV Timeout
+Morgan State,Maryland,17,29,13,0,0,Dez Wells Turnover.
+Morgan State,Maryland,17,29,13,23,0,Justin Black Turnover.
+Morgan State,Maryland,17,29,13,24,0,Nick Faust Steal.
+Morgan State,Maryland,17,32,13,30,1,Jake Layman made Three Point Jumper. Assisted by Charles Mitchell.
+Morgan State,Maryland,17,32,13,43,0,Justin Black missed Three Point Jumper.
+Morgan State,Maryland,17,32,13,43,0,Charles Mitchell Defensive Rebound.
+Morgan State,Maryland,17,32,13,47,0,Nick Faust missed Layup.
+Morgan State,Maryland,17,32,13,47,0,Justin Black Defensive Rebound.
+Morgan State,Maryland,17,32,13,54,0,Foul on Jake Layman.
+Morgan State,Maryland,18,32,13,54,1,Anthony Hubbard made Free Throw.
+Morgan State,Maryland,19,32,13,54,1,Anthony Hubbard made Free Throw.
+Morgan State,Maryland,19,32,14,9,0,Nick Faust missed Three Point Jumper.
+Morgan State,Maryland,19,32,14,9,0,Dez Wells Offensive Rebound.
+Morgan State,Maryland,19,34,14,13,1,Evan Smotrycz made Layup. Assisted by Dez Wells.
+Morgan State,Maryland,19,34,14,28,0,Shaquille Duncan missed Jumper.
+Morgan State,Maryland,19,34,14,28,0,Evan Smotrycz Defensive Rebound.
+Morgan State,Maryland,19,34,14,46,0,Foul on Shaquille Duncan.
+Morgan State,Maryland,19,35,14,46,1,Charles Mitchell made Free Throw.
+Morgan State,Maryland,19,35,14,46,0,Charles Mitchell missed Free Throw.
+Morgan State,Maryland,19,35,14,46,0,Anthony Hubbard Defensive Rebound.
+Morgan State,Maryland,22,35,15,12,1,Rasean Simpson made Three Point Jumper. Assisted by Justin Black.
+Morgan State,Maryland,22,35,15,31,0,Evan Smotrycz Turnover.
+Morgan State,Maryland,22,35,15,32,0,Anthony Hubbard Steal.
+Morgan State,Maryland,24,35,15,33,1,Justin Black made Layup. Assisted by Anthony Hubbard.
+Morgan State,Maryland,24,38,15,50,1,Jake Layman made Three Point Jumper. Assisted by Nick Faust.
+Morgan State,Maryland,27,38,16,0,1,Blake Bozeman made Three Point Jumper.
+Morgan State,Maryland,27,38,16,3,0,Morgan St  Timeout
+Morgan State,Maryland,27,40,16,28,1,Evan Smotrycz made Layup. Assisted by Roddy Peters.
+Morgan State,Maryland,27,40,17,2,0,Cedric Blossom missed Layup.
+Morgan State,Maryland,27,40,17,2,0,Varun Ram Defensive Rebound.
+Morgan State,Maryland,27,43,17,9,1,Evan Smotrycz made Three Point Jumper. Assisted by Varun Ram.
+Morgan State,Maryland,27,43,17,29,0,Blake Bozeman missed Three Point Jumper.
+Morgan State,Maryland,27,43,17,29,0,Charles Mitchell Defensive Rebound.
+Morgan State,Maryland,27,43,17,38,0,Roddy Peters Turnover.
+Morgan State,Maryland,27,43,17,38,0,Official TV Timeout
+Morgan State,Maryland,27,43,17,59,0,Justin Black missed Three Point Jumper.
+Morgan State,Maryland,27,43,17,59,0,Cedric Blossom Offensive Rebound.
+Morgan State,Maryland,27,43,18,5,0,Foul on Roddy Peters.
+Morgan State,Maryland,28,43,18,5,1,Cedric Blossom made Free Throw.
+Morgan State,Maryland,29,43,18,5,1,Cedric Blossom made Free Throw.
+Morgan State,Maryland,29,43,18,31,0,Roddy Peters Turnover.
+Morgan State,Maryland,29,43,18,33,0,Justin Black Steal.
+Morgan State,Maryland,29,43,18,36,0,Justin Black missed Layup.
+Morgan State,Maryland,29,43,18,36,0,Roddy Peters Defensive Rebound.
+Morgan State,Maryland,29,43,18,40,0,Roddy Peters Turnover.
+Morgan State,Maryland,31,43,18,44,1,Cedric Blossom made Layup. Assisted by Anthony Hubbard.
+Morgan State,Maryland,31,45,19,10,1,Charles Mitchell made Jumper.
+Morgan State,Maryland,31,45,19,43,0,Justin Black missed Jumper.
+Morgan State,Maryland,31,45,19,43,0,Charles Mitchell Defensive Rebound.
+Morgan State,Maryland,31,45,19,59,0,Dez Wells missed Jumper.
+Morgan State,Maryland,31,45,19,59,0,Charles Mitchell Offensive Rebound.
+Morgan State,Maryland,31,45,20,0,0,Charles Mitchell missed Jumper.
+Morgan State,Maryland,31,45,20,0,0,Rasean Simpson Defensive Rebound.
+Morgan State,Maryland,31,45,20,0,0,End of 1st half
+Morgan State,Maryland,31,45,20,18,0,Anthony Hubbard missed Three Point Jumper.
+Morgan State,Maryland,31,45,20,18,0,Jake Layman Defensive Rebound.
+Morgan State,Maryland,31,47,20,24,1,Jake Layman made Dunk.
+Morgan State,Maryland,31,47,20,48,0,Foul on Shaquille Cleare.
+Morgan State,Maryland,31,47,20,51,0,Foul on Shaquille Cleare.
+Morgan State,Maryland,32,47,20,51,1,Ian Chiles made Free Throw.
+Morgan State,Maryland,32,47,20,51,0,Ian Chiles missed Free Throw.
+Morgan State,Maryland,32,47,20,51,0,Charles Mitchell Defensive Rebound.
+Morgan State,Maryland,32,47,21,9,0,Evan Smotrycz Turnover.
+Morgan State,Maryland,32,47,21,22,0,Ian Chiles missed Layup.
+Morgan State,Maryland,32,47,21,22,0,Jake Layman Block.
+Morgan State,Maryland,32,47,21,24,0,Charles Mitchell Defensive Rebound.
+Morgan State,Maryland,32,50,21,28,1,Jake Layman made Three Point Jumper. Assisted by Nick Faust.
+Morgan State,Maryland,32,50,21,43,0,Foul on Charles Mitchell.
+Morgan State,Maryland,33,50,21,43,1,Ian Chiles made Free Throw.
+Morgan State,Maryland,34,50,21,43,1,Ian Chiles made Free Throw.
+Morgan State,Maryland,34,53,22,7,1,Evan Smotrycz made Three Point Jumper. Assisted by Dez Wells.
+Morgan State,Maryland,36,53,22,22,1,Ian Chiles made Layup. Assisted by Cedric Blossom.
+Morgan State,Maryland,36,53,22,22,0,Foul on Charles Mitchell.
+Morgan State,Maryland,36,53,22,22,0,Ian Chiles missed Free Throw.
+Morgan State,Maryland,36,53,22,22,0,Cedric Blossom Offensive Rebound.
+Morgan State,Maryland,36,53,22,32,0,Justin Black missed Three Point Jumper.
+Morgan State,Maryland,36,53,22,32,0,Nick Faust Defensive Rebound.
+Morgan State,Maryland,36,53,22,56,0,Foul on Justin Black.
+Morgan State,Maryland,36,53,22,56,0,Damonte Dodd missed Free Throw.
+Morgan State,Maryland,36,53,22,56,0,Maryland Deadball Team Rebound.
+Morgan State,Maryland,36,53,22,56,0,Damonte Dodd missed Free Throw.
+Morgan State,Maryland,36,53,22,56,0,Evan Smotrycz Offensive Rebound.
+Morgan State,Maryland,36,53,23,18,0,Foul on Cedric Blossom.
+Morgan State,Maryland,36,55,23,23,1,Dez Wells made Jumper. Assisted by Evan Smotrycz.
+Morgan State,Maryland,36,55,23,39,0,Blake Bozeman missed Three Point Jumper.
+Morgan State,Maryland,36,55,23,39,0,Donte Pretlow Offensive Rebound.
+Morgan State,Maryland,36,55,23,45,0,Donte Pretlow Turnover.
+Morgan State,Maryland,36,55,23,46,0,Nick Faust Steal.
+Morgan State,Maryland,36,57,23,49,1,Dez Wells made Dunk. Assisted by Jake Layman.
+Morgan State,Maryland,36,57,23,55,0,Blake Bozeman missed Jumper.
+Morgan State,Maryland,36,57,23,55,0,Evan Smotrycz Defensive Rebound.
+Morgan State,Maryland,36,57,24,10,0,Dez Wells Turnover.
+Morgan State,Maryland,36,57,24,11,0,Anthony Hubbard Steal.
+Morgan State,Maryland,38,57,24,31,1,Ian Chiles made Jumper. Assisted by Cedric Blossom.
+Morgan State,Maryland,38,57,24,39,0,Foul on Dez Wells.
+Morgan State,Maryland,38,57,24,39,0,Dez Wells Turnover.
+Morgan State,Maryland,38,57,24,39,0,Official TV Timeout
+Morgan State,Maryland,38,57,25,9,0,Donte Pretlow missed Jumper.
+Morgan State,Maryland,38,57,25,9,0,Morgan St Offensive Rebound.
+Morgan State,Maryland,41,57,25,25,1,Justin Black made Three Point Jumper. Assisted by Donte Pretlow.
+Morgan State,Maryland,41,59,26,2,1,Roddy Peters made Layup.
+Morgan State,Maryland,41,59,26,33,0,Foul on Damonte Dodd.
+Morgan State,Maryland,41,59,26,45,0,Ian Chiles missed Jumper.
+Morgan State,Maryland,41,59,26,45,0,Evan Smotrycz Defensive Rebound.
+Morgan State,Maryland,41,61,27,3,1,Nick Faust made Dunk. Assisted by Evan Smotrycz.
+Morgan State,Maryland,41,61,27,13,0,Emmanuel Matey Turnover.
+Morgan State,Maryland,41,61,27,15,0,Roddy Peters Steal.
+Morgan State,Maryland,41,64,27,18,1,Jake Layman made Three Point Jumper. Assisted by Roddy Peters.
+Morgan State,Maryland,41,64,27,35,0,Emmanuel Matey Turnover.
+Morgan State,Maryland,41,64,27,37,0,Nick Faust Steal.
+Morgan State,Maryland,41,64,27,38,0,Nick Faust Turnover.
+Morgan State,Maryland,41,64,27,39,0,Emmanuel Matey Steal.
+Morgan State,Maryland,43,64,27,41,1,Emmanuel Matey made Layup.
+Morgan State,Maryland,43,64,27,57,0,Jake Layman missed Three Point Jumper.
+Morgan State,Maryland,43,64,27,57,0,Justin Black Defensive Rebound.
+Morgan State,Maryland,43,64,28,5,0,Justin Black missed Layup.
+Morgan State,Maryland,43,64,28,5,0,Roddy Peters Defensive Rebound.
+Morgan State,Maryland,43,64,28,9,0,Foul on Ian Chiles.
+Morgan State,Maryland,43,64,28,9,0,Official TV Timeout
+Morgan State,Maryland,43,65,28,9,1,Jake Layman made Free Throw.
+Morgan State,Maryland,43,66,28,9,1,Jake Layman made Free Throw.
+Morgan State,Maryland,45,66,28,32,1,Shaquille Duncan made Jumper. Assisted by Justin Black.
+Morgan State,Maryland,45,66,28,52,0,Charles Mitchell missed Jumper.
+Morgan State,Maryland,45,66,28,52,0,Ian Chiles Block.
+Morgan State,Maryland,45,66,28,55,0,Ian Chiles Defensive Rebound.
+Morgan State,Maryland,45,66,28,59,0,Foul on Varun Ram.
+Morgan State,Maryland,45,66,28,59,0,Justin Black missed Free Throw.
+Morgan State,Maryland,45,66,28,59,0,Morgan St Deadball Team Rebound.
+Morgan State,Maryland,46,66,28,59,1,Justin Black made Free Throw.
+Morgan State,Maryland,46,68,29,26,1,Roddy Peters made Jumper.
+Morgan State,Maryland,48,68,29,43,1,Ian Chiles made Jumper.
+Morgan State,Maryland,48,68,29,54,0,Foul on Justin Black.
+Morgan State,Maryland,48,68,30,15,0,Charles Mitchell Turnover.
+Morgan State,Maryland,48,68,30,16,0,Donte Pretlow Steal.
+Morgan State,Maryland,50,68,30,19,1,Shaquille Duncan made Layup. Assisted by Donte Pretlow.
+Morgan State,Maryland,50,68,30,37,0,Dez Wells missed Jumper.
+Morgan State,Maryland,50,68,30,37,0,Donte Pretlow Defensive Rebound.
+Morgan State,Maryland,50,68,30,42,0,Donte Pretlow missed Jumper.
+Morgan State,Maryland,50,68,30,42,0,Varun Ram Defensive Rebound.
+Morgan State,Maryland,50,68,30,46,0,Foul on Emmanuel Matey.
+Morgan State,Maryland,50,68,31,3,0,Evan Smotrycz Turnover.
+Morgan State,Maryland,50,68,31,14,0,Foul on Shaquille Cleare.
+Morgan State,Maryland,51,68,31,14,1,Justin Black made Free Throw.
+Morgan State,Maryland,52,68,31,14,1,Justin Black made Free Throw.
+Morgan State,Maryland,52,68,31,25,0,Foul on Donte Pretlow.
+Morgan State,Maryland,52,68,31,44,0,Foul on Donte Pretlow.
+Morgan State,Maryland,52,68,31,44,0,Evan Smotrycz missed Free Throw.
+Morgan State,Maryland,52,68,31,44,0,Justin Black Defensive Rebound.
+Morgan State,Maryland,52,68,31,52,0,Donte Pretlow missed Layup.
+Morgan State,Maryland,52,68,31,52,0,Damonte Dodd Block.
+Morgan State,Maryland,52,68,31,52,0,Morgan St Offensive Rebound.
+Morgan State,Maryland,52,68,31,58,0,Ian Chiles missed Jumper.
+Morgan State,Maryland,52,68,31,58,0,Shaquille Duncan Offensive Rebound.
+Morgan State,Maryland,52,68,31,58,0,Foul on Evan Smotrycz.
+Morgan State,Maryland,52,68,31,58,0,Shaquille Duncan missed Free Throw.
+Morgan State,Maryland,52,68,31,58,0,Charles Mitchell Defensive Rebound.
+Morgan State,Maryland,52,68,31,59,0,Foul on Donte Pretlow.
+Morgan State,Maryland,52,68,31,59,0,Charles Mitchell missed Free Throw.
+Morgan State,Maryland,52,68,31,59,0,Shaquille Duncan Defensive Rebound.
+Morgan State,Maryland,54,68,32,18,1,Ian Chiles made Layup. Assisted by Emmanuel Matey.
+Morgan State,Maryland,54,68,32,34,0,Dez Wells Turnover.
+Morgan State,Maryland,54,68,32,35,0,Donte Pretlow Steal.
+Morgan State,Maryland,54,68,32,38,0,Donte Pretlow missed Layup.
+Morgan State,Maryland,54,68,32,38,0,Dez Wells Block.
+Morgan State,Maryland,54,68,32,39,0,Evan Smotrycz Defensive Rebound.
+Morgan State,Maryland,54,68,32,43,0,Foul on Ian Chiles.
+Morgan State,Maryland,54,68,32,43,0,Official TV Timeout
+Morgan State,Maryland,54,69,32,43,1,Charles Mitchell made Free Throw.
+Morgan State,Maryland,54,69,32,43,0,Charles Mitchell missed Free Throw.
+Morgan State,Maryland,54,69,32,43,0,Anthony Hubbard Defensive Rebound.
+Morgan State,Maryland,54,69,32,49,0,Foul on Charles Mitchell.
+Morgan State,Maryland,54,69,32,49,0,Emmanuel Matey missed Free Throw.
+Morgan State,Maryland,54,69,32,49,0,Morgan St Deadball Team Rebound.
+Morgan State,Maryland,54,69,32,49,0,Emmanuel Matey missed Free Throw.
+Morgan State,Maryland,54,69,32,49,0,Charles Mitchell Defensive Rebound.
+Morgan State,Maryland,54,69,33,18,0,Dez Wells missed Jumper.
+Morgan State,Maryland,54,69,33,18,0,Charles Mitchell Offensive Rebound.
+Morgan State,Maryland,54,69,33,18,0,Foul on Cedric Blossom.
+Morgan State,Maryland,54,69,33,18,0,Charles Mitchell missed Free Throw.
+Morgan State,Maryland,54,69,33,18,0,Maryland Deadball Team Rebound.
+Morgan State,Maryland,54,69,33,18,0,Charles Mitchell missed Free Throw.
+Morgan State,Maryland,54,69,33,18,0,Evan Smotrycz Offensive Rebound.
+Morgan State,Maryland,54,69,33,22,0,Evan Smotrycz missed Layup.
+Morgan State,Maryland,54,69,33,22,0,Dez Wells Offensive Rebound.
+Morgan State,Maryland,54,69,33,29,0,Nick Faust Turnover.
+Morgan State,Maryland,54,69,33,30,0,Cedric Blossom Steal.
+Morgan State,Maryland,54,69,33,33,0,Justin Black missed Layup.
+Morgan State,Maryland,54,69,33,33,0,Shaquille Duncan Offensive Rebound.
+Morgan State,Maryland,54,69,33,34,0,Foul on Evan Smotrycz.
+Morgan State,Maryland,55,69,33,34,1,Shaquille Duncan made Free Throw.
+Morgan State,Maryland,55,69,33,34,0,Shaquille Duncan missed Free Throw.
+Morgan State,Maryland,55,69,33,34,0,Evan Smotrycz Defensive Rebound.
+Morgan State,Maryland,55,69,33,45,0,Foul on Shaquille Duncan.
+Morgan State,Maryland,55,69,33,45,0,Roddy Peters missed Free Throw.
+Morgan State,Maryland,55,69,33,45,0,Maryland Deadball Team Rebound.
+Morgan State,Maryland,55,70,33,45,1,Roddy Peters made Free Throw.
+Morgan State,Maryland,55,70,33,45,0,Maryland  Timeout
+Morgan State,Maryland,57,70,33,52,1,Justin Black made Jumper.
+Morgan State,Maryland,57,72,34,13,1,Evan Smotrycz made Layup.
+Morgan State,Maryland,59,72,34,24,1,Justin Black made Jumper.
+Morgan State,Maryland,59,72,34,24,0,Foul on Nick Faust.
+Morgan State,Maryland,60,72,34,24,1,Justin Black made Free Throw.
+Morgan State,Maryland,60,74,34,36,1,Dez Wells made Dunk. Assisted by Roddy Peters.
+Morgan State,Maryland,60,74,34,42,0,Emmanuel Matey Turnover.
+Morgan State,Maryland,60,74,34,43,0,Dez Wells Steal.
+Morgan State,Maryland,60,77,34,50,1,Jake Layman made Three Point Jumper. Assisted by Evan Smotrycz.
+Morgan State,Maryland,60,77,35,1,0,Justin Black missed Jumper.
+Morgan State,Maryland,60,77,35,1,0,Cedric Blossom Offensive Rebound.
+Morgan State,Maryland,60,77,35,10,0,Rasean Simpson missed Jumper.
+Morgan State,Maryland,60,77,35,10,0,Dez Wells Defensive Rebound.
+Morgan State,Maryland,60,77,35,18,0,Roddy Peters missed Layup.
+Morgan State,Maryland,60,77,35,18,0,Dez Wells Offensive Rebound.
+Morgan State,Maryland,60,77,35,23,0,Dez Wells missed Jumper.
+Morgan State,Maryland,60,77,35,23,0,Rasean Simpson Block.
+Morgan State,Maryland,60,77,35,23,0,Maryland Offensive Rebound.
+Morgan State,Maryland,60,80,35,34,1,Jake Layman made Three Point Jumper. Assisted by Nick Faust.
+Morgan State,Maryland,60,80,35,48,0,Cedric Blossom Turnover.
+Morgan State,Maryland,60,83,36,10,1,Evan Smotrycz made Three Point Jumper. Assisted by Dez Wells.
+Morgan State,Maryland,60,83,36,25,0,Anthony Hubbard Turnover.
+Morgan State,Maryland,60,83,36,25,0,Official TV Timeout
+Morgan State,Maryland,60,85,36,40,1,Nick Faust made Dunk.
+Morgan State,Maryland,60,85,37,9,0,Foul on Anthony Hubbard.
+Morgan State,Maryland,60,85,37,9,0,Anthony Hubbard Turnover.
+Morgan State,Maryland,60,85,37,27,0,Varun Ram Turnover.
+Morgan State,Maryland,60,85,37,39,0,Donte Pretlow missed Jumper.
+Morgan State,Maryland,60,85,37,39,0,Varun Ram Defensive Rebound.
+Morgan State,Maryland,60,85,37,46,0,Roddy Peters Turnover.
+Morgan State,Maryland,60,85,38,6,0,Anthony Hubbard missed Three Point Jumper.
+Morgan State,Maryland,60,85,38,6,0,Cedric Blossom Offensive Rebound.
+Morgan State,Maryland,60,85,38,10,0,Foul on Jonathan Graham.
+Morgan State,Maryland,60,85,38,10,0,Ian Chiles missed Free Throw.
+Morgan State,Maryland,60,85,38,10,0,Morgan St Deadball Team Rebound.
+Morgan State,Maryland,60,85,38,10,0,Ian Chiles missed Free Throw.
+Morgan State,Maryland,60,85,38,10,0,Anthony Hubbard Offensive Rebound.
+Morgan State,Maryland,60,85,38,23,0,Foul on Anthony Hubbard.
+Morgan State,Maryland,60,85,38,23,0,Foul on Blake Bozeman.
+Morgan State,Maryland,60,85,38,23,0,Technical Foul on Blake Bozeman.
+Morgan State,Maryland,60,85,38,23,0,Anthony Hubbard Turnover.
+Morgan State,Maryland,60,86,38,23,1,John Auslander made Free Throw.
+Morgan State,Maryland,60,87,38,24,1,John Auslander made Free Throw.
+Morgan State,Maryland,60,89,38,36,1,Jonathan Graham made Layup. Assisted by Varun Ram.
+Morgan State,Maryland,60,89,39,7,0,Ian Chiles missed Jumper.
+Morgan State,Maryland,60,89,39,7,0,John Auslander Defensive Rebound.
+Morgan State,Maryland,60,89,39,30,0,Damonte Dodd missed Jumper.
+Morgan State,Maryland,60,89,39,30,0,Ian Chiles Block.
+Morgan State,Maryland,60,89,39,34,0,Ian Chiles Defensive Rebound.
+Morgan State,Maryland,62,89,39,39,1,Donte Pretlow made Jumper.
+Morgan State,Maryland,62,89,40,0,0,End of Game

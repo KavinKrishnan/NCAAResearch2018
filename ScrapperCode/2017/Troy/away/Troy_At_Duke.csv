@@ -1,0 +1,339 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Troy,Duke,0,0,0,0,0,Jump Ball won by Duke
+Troy,Duke,0,3,0,11,1,Jayson Tatum made Three Point Jumper. Assisted by Matt Jones.
+Troy,Duke,0,3,0,25,0,Juan Davis Jr. Turnover.
+Troy,Duke,0,3,0,25,0,Matt Jones Steal.
+Troy,Duke,0,5,0,30,1,Matt Jones made Layup.
+Troy,Duke,2,5,0,44,1,Wesley Person made Layup.
+Troy,Duke,2,5,1,4,0,Luke Kennard missed Jumper.
+Troy,Duke,2,5,1,4,0,Duke Offensive Rebound.
+Troy,Duke,2,5,1,20,0,Amile Jefferson Turnover.
+Troy,Duke,2,5,1,34,0,Wesley Person Turnover.
+Troy,Duke,2,5,1,50,0,Luke Kennard missed Three Point Jumper.
+Troy,Duke,2,5,1,50,0,Amile Jefferson Offensive Rebound.
+Troy,Duke,2,7,1,54,1,Amile Jefferson made Layup.
+Troy,Duke,2,7,2,17,0,Kevin Baker missed Three Point Jumper.
+Troy,Duke,2,7,2,17,0,Duke Defensive Rebound.
+Troy,Duke,2,7,2,34,0,Jayson Tatum missed Three Point Jumper.
+Troy,Duke,2,7,2,34,0,DeVon Walker Defensive Rebound.
+Troy,Duke,2,7,2,58,0,Wesley Person Turnover.
+Troy,Duke,2,7,3,11,0,Frank Jackson Turnover.
+Troy,Duke,2,7,3,23,0,Jordon Varnado missed Three Point Jumper.
+Troy,Duke,2,7,3,23,0,DeVon Walker Offensive Rebound.
+Troy,Duke,2,7,3,31,0,Foul on Frank Jackson.
+Troy,Duke,2,7,3,32,0,Jordon Varnado Turnover.
+Troy,Duke,2,7,3,32,0,Jayson Tatum Steal.
+Troy,Duke,2,10,3,39,1,Frank Jackson made Three Point Jumper. Assisted by Jayson Tatum.
+Troy,Duke,2,10,3,57,0,Foul on Luke Kennard.
+Troy,Duke,3,10,3,57,1,DeVon Walker made Free Throw.
+Troy,Duke,4,10,3,57,1,DeVon Walker made Free Throw.
+Troy,Duke,4,13,4,6,1,Luke Kennard made Three Point Jumper. Assisted by Matt Jones.
+Troy,Duke,4,13,4,28,0,DeVon Walker Turnover.
+Troy,Duke,4,13,4,28,0,Matt Jones Steal.
+Troy,Duke,4,16,4,34,1,Matt Jones made Three Point Jumper. Assisted by Amile Jefferson.
+Troy,Duke,4,16,4,38,0,Troy  Timeout
+Troy,Duke,4,16,4,49,0,Jordon Varnado Turnover.
+Troy,Duke,4,16,4,49,0,Jayson Tatum Steal.
+Troy,Duke,4,16,4,59,0,Foul on Jeremy Hollimon.
+Troy,Duke,4,16,4,59,0,Official TV Timeout
+Troy,Duke,4,16,5,2,0,Luke Kennard missed Jumper.
+Troy,Duke,4,16,5,2,0,Jeremy Hollimon Defensive Rebound.
+Troy,Duke,6,16,5,16,1,DeVon Walker made Jumper. Assisted by Jordon Varnado.
+Troy,Duke,6,16,5,33,0,Frank Jackson missed Three Point Jumper.
+Troy,Duke,6,16,5,33,0,Jayson Tatum Offensive Rebound.
+Troy,Duke,6,16,5,51,0,Foul on DeVon Walker.
+Troy,Duke,6,17,5,51,1,Jayson Tatum made Free Throw.
+Troy,Duke,6,17,5,51,0,Jayson Tatum missed Free Throw.
+Troy,Duke,6,17,5,51,0,Jordon Varnado Defensive Rebound.
+Troy,Duke,6,17,5,56,0,Wesley Person missed Three Point Jumper.
+Troy,Duke,6,17,5,56,0,Jayson Tatum Defensive Rebound.
+Troy,Duke,6,20,6,6,1,Luke Kennard made Three Point Jumper. Assisted by Grayson Allen.
+Troy,Duke,8,20,6,32,1,Alex Hicks made Dunk. Assisted by Wesley Person.
+Troy,Duke,8,22,6,45,1,Matt Jones made Layup.
+Troy,Duke,8,22,6,45,0,Foul on Alex Hicks.
+Troy,Duke,8,23,6,45,1,Matt Jones made Free Throw.
+Troy,Duke,8,23,6,59,0,Jeremy Hollimon missed Three Point Jumper.
+Troy,Duke,8,23,6,59,0,Daniel Peace Offensive Rebound.
+Troy,Duke,11,23,7,5,1,Jordon Varnado made Three Point Jumper. Assisted by Daniel Peace.
+Troy,Duke,11,23,7,23,0,Luke Kennard missed Jumper.
+Troy,Duke,11,23,7,23,0,Harry Giles Offensive Rebound.
+Troy,Duke,11,26,7,27,1,Matt Jones made Three Point Jumper. Assisted by Harry Giles.
+Troy,Duke,11,26,7,45,0,Foul on Harry Giles.
+Troy,Duke,11,26,7,53,0,Daniel Peace missed Jumper.
+Troy,Duke,11,26,7,53,0,Harry Giles Block.
+Troy,Duke,11,26,7,53,0,Jayson Tatum Defensive Rebound.
+Troy,Duke,11,26,8,2,0,Jayson Tatum missed Dunk.
+Troy,Duke,11,26,8,2,0,Wesley Person Defensive Rebound.
+Troy,Duke,11,26,8,8,0,Jordon Varnado missed Three Point Jumper.
+Troy,Duke,11,26,8,8,0,Jeremy Hollimon Offensive Rebound.
+Troy,Duke,13,26,8,27,1,Jordon Varnado made Jumper.
+Troy,Duke,13,26,8,38,0,Foul on Daniel Peace.
+Troy,Duke,13,26,8,38,0,Official TV Timeout
+Troy,Duke,13,26,8,38,0,Foul on Harry Giles.
+Troy,Duke,13,26,8,38,0,Harry Giles Turnover.
+Troy,Duke,13,26,8,49,0,Jeremy Hollimon missed Jumper.
+Troy,Duke,13,26,8,49,0,Alex Hicks Offensive Rebound.
+Troy,Duke,15,26,8,49,1,Alex Hicks made Two Point Tip Shot.
+Troy,Duke,15,29,9,6,1,Frank Jackson made Three Point Jumper. Assisted by Luke Kennard.
+Troy,Duke,17,29,9,16,1,Alex Hicks made Jumper. Assisted by Daniel Peace.
+Troy,Duke,17,29,9,45,0,Foul on Alex Hicks.
+Troy,Duke,17,30,9,45,1,Amile Jefferson made Free Throw.
+Troy,Duke,17,31,9,45,1,Amile Jefferson made Free Throw.
+Troy,Duke,20,31,10,11,1,Jeremy Hollimon made Three Point Jumper.
+Troy,Duke,20,31,10,26,0,Jayson Tatum missed Three Point Jumper.
+Troy,Duke,20,31,10,26,0,Amile Jefferson Offensive Rebound.
+Troy,Duke,20,31,10,31,0,Foul on Daniel Peace.
+Troy,Duke,20,33,10,33,1,Grayson Allen made Jumper. Assisted by Frank Jackson.
+Troy,Duke,20,33,10,50,0,Jeremy Hollimon missed Layup.
+Troy,Duke,20,33,10,50,0,Amile Jefferson Defensive Rebound.
+Troy,Duke,20,33,10,58,0,Foul on Daniel Peace.
+Troy,Duke,20,33,10,58,0,Frank Jackson missed Free Throw.
+Troy,Duke,20,33,10,58,0,Wesley Person Defensive Rebound.
+Troy,Duke,23,33,11,10,1,Wesley Person made Three Point Jumper. Assisted by Jordon Varnado.
+Troy,Duke,23,35,11,35,1,Jayson Tatum made Layup.
+Troy,Duke,23,35,11,53,0,Kevin Baker missed Three Point Jumper.
+Troy,Duke,23,35,11,53,0,DeVon Walker Offensive Rebound.
+Troy,Duke,23,35,11,59,0,DeVon Walker missed Layup.
+Troy,Duke,23,35,11,59,0,Amile Jefferson Block.
+Troy,Duke,23,35,11,59,0,Matt Jones Defensive Rebound.
+Troy,Duke,23,35,12,6,0,Foul on DeVon Walker.
+Troy,Duke,23,35,12,6,0,Official TV Timeout
+Troy,Duke,23,35,12,6,0,Grayson Allen missed Free Throw.
+Troy,Duke,23,35,12,6,0,Jordon Varnado Defensive Rebound.
+Troy,Duke,23,35,12,7,0,Jordon Varnado Turnover.
+Troy,Duke,23,35,12,7,0,Amile Jefferson Steal.
+Troy,Duke,23,35,12,7,0,Amile Jefferson Turnover.
+Troy,Duke,23,35,12,7,0,Kevin Baker Steal.
+Troy,Duke,23,35,12,17,0,Juan Davis Jr. missed Three Point Jumper.
+Troy,Duke,23,35,12,17,0,Jordon Varnado Offensive Rebound.
+Troy,Duke,25,35,12,21,1,Jordon Varnado made Layup.
+Troy,Duke,25,35,12,34,0,Amile Jefferson missed Layup.
+Troy,Duke,25,35,12,34,0,Jordon Varnado Defensive Rebound.
+Troy,Duke,25,35,12,47,0,Kevin Baker missed Layup.
+Troy,Duke,25,35,12,47,0,Amile Jefferson Block.
+Troy,Duke,25,35,12,47,0,Jayson Tatum Defensive Rebound.
+Troy,Duke,25,35,12,53,0,Jayson Tatum missed Layup.
+Troy,Duke,25,35,12,53,0,Juan Davis Jr. Defensive Rebound.
+Troy,Duke,25,35,13,0,0,Wesley Person Turnover.
+Troy,Duke,25,35,13,0,0,Frank Jackson Steal.
+Troy,Duke,25,38,13,5,1,Grayson Allen made Three Point Jumper. Assisted by Frank Jackson.
+Troy,Duke,25,38,13,47,0,DeVon Walker missed Jumper.
+Troy,Duke,25,38,13,47,0,Grayson Allen Defensive Rebound.
+Troy,Duke,25,38,13,50,0,Matt Jones missed Three Point Jumper.
+Troy,Duke,25,38,13,50,0,Alex Hicks Defensive Rebound.
+Troy,Duke,28,38,14,13,1,Wesley Person made Three Point Jumper. Assisted by Jordon Varnado.
+Troy,Duke,28,38,14,38,0,Matt Jones missed Three Point Jumper.
+Troy,Duke,28,38,14,38,0,Jordon Varnado Defensive Rebound.
+Troy,Duke,28,38,14,53,0,Alex Hicks missed Layup.
+Troy,Duke,28,38,14,53,0,Alex Hicks Offensive Rebound.
+Troy,Duke,28,38,14,58,0,Foul on Amile Jefferson.
+Troy,Duke,29,38,14,58,1,Alex Hicks made Free Throw.
+Troy,Duke,30,38,14,58,1,Alex Hicks made Free Throw.
+Troy,Duke,30,38,15,14,0,Luke Kennard missed Jumper.
+Troy,Duke,30,38,15,14,0,Jayson Tatum Offensive Rebound.
+Troy,Duke,30,41,15,21,1,Grayson Allen made Three Point Jumper. Assisted by Luke Kennard.
+Troy,Duke,30,41,15,46,0,Wesley Person missed Three Point Jumper.
+Troy,Duke,30,41,15,46,0,Jayson Tatum Block.
+Troy,Duke,30,41,15,46,0,Grayson Allen Defensive Rebound.
+Troy,Duke,30,43,15,55,1,Jayson Tatum made Dunk. Assisted by Grayson Allen.
+Troy,Duke,30,43,16,16,0,Foul on Amile Jefferson.
+Troy,Duke,30,43,16,16,0,Official TV Timeout
+Troy,Duke,32,43,16,22,1,Kevin Baker made Layup.
+Troy,Duke,32,43,16,37,0,Jayson Tatum missed Jumper.
+Troy,Duke,32,43,16,37,0,Kevin Baker Defensive Rebound.
+Troy,Duke,34,43,16,51,1,Alex Hicks made Jumper. Assisted by Jeremy Hollimon.
+Troy,Duke,34,43,17,17,0,Harry Giles missed Jumper.
+Troy,Duke,34,43,17,17,0,Troy Defensive Rebound.
+Troy,Duke,36,43,17,35,1,Jeremy Hollimon made Layup.
+Troy,Duke,36,43,17,38,0,Duke  Timeout
+Troy,Duke,36,45,17,52,1,Frank Jackson made Layup.
+Troy,Duke,36,45,18,13,0,Alex Hicks missed Jumper.
+Troy,Duke,36,45,18,13,0,Duke Defensive Rebound.
+Troy,Duke,36,45,18,31,0,Luke Kennard missed Three Point Jumper.
+Troy,Duke,36,45,18,31,0,Luke Kennard Offensive Rebound.
+Troy,Duke,36,45,18,38,0,Frank Jackson missed Jumper.
+Troy,Duke,36,45,18,38,0,Antonio Vrankovic Offensive Rebound.
+Troy,Duke,36,47,18,38,1,Antonio Vrankovic made Two Point Tip Shot.
+Troy,Duke,36,47,18,59,0,Foul on Jayson Tatum.
+Troy,Duke,37,47,18,59,1,Jordon Varnado made Free Throw.
+Troy,Duke,38,47,18,59,1,Jordon Varnado made Free Throw.
+Troy,Duke,38,49,19,10,1,Frank Jackson made Jumper.
+Troy,Duke,38,49,19,26,0,Wesley Person Turnover.
+Troy,Duke,38,52,19,49,1,Grayson Allen made Three Point Jumper.
+Troy,Duke,38,52,19,59,0,Jeremy Hollimon missed Layup.
+Troy,Duke,38,52,19,59,0,Jayson Tatum Block.
+Troy,Duke,38,52,19,59,0,Jayson Tatum Defensive Rebound.
+Troy,Duke,38,52,20,0,0,End of 1st half
+Troy,Duke,38,52,20,0,0,Jump Ball won by Troy
+Troy,Duke,40,52,20,13,1,Jordon Varnado made Jumper.
+Troy,Duke,40,52,20,35,0,Luke Kennard missed Jumper.
+Troy,Duke,40,52,20,35,0,DeVon Walker Defensive Rebound.
+Troy,Duke,40,52,20,49,0,Foul on Luke Kennard.
+Troy,Duke,40,52,20,53,0,Jordon Varnado Turnover.
+Troy,Duke,40,52,20,53,0,Jayson Tatum Steal.
+Troy,Duke,40,52,21,0,0,Foul on Jayson Tatum.
+Troy,Duke,40,52,21,0,0,Jayson Tatum Turnover.
+Troy,Duke,42,52,21,15,1,Jordon Varnado made Layup.
+Troy,Duke,42,52,21,15,0,Foul on Amile Jefferson.
+Troy,Duke,43,52,21,15,1,Jordon Varnado made Free Throw.
+Troy,Duke,43,52,21,29,0,Luke Kennard Turnover.
+Troy,Duke,43,52,21,43,0,Jordon Varnado missed Three Point Jumper.
+Troy,Duke,43,52,21,43,0,Jayson Tatum Defensive Rebound.
+Troy,Duke,43,52,21,53,0,Frank Jackson missed Three Point Jumper.
+Troy,Duke,43,52,21,53,0,Luke Kennard Offensive Rebound.
+Troy,Duke,43,52,22,0,0,Foul on Juan Davis Jr..
+Troy,Duke,43,53,22,0,1,Frank Jackson made Free Throw.
+Troy,Duke,43,54,22,0,1,Frank Jackson made Free Throw.
+Troy,Duke,43,54,22,24,0,Juan Davis Jr. missed Three Point Jumper.
+Troy,Duke,43,54,22,24,0,Jayson Tatum Block.
+Troy,Duke,43,54,22,24,0,Jordon Varnado Offensive Rebound.
+Troy,Duke,43,54,22,27,0,Jordon Varnado Turnover.
+Troy,Duke,43,54,22,41,0,Foul on Juan Davis Jr..
+Troy,Duke,43,54,22,42,0,Foul on Juan Davis Jr..
+Troy,Duke,43,54,22,42,0,Jayson Tatum missed Free Throw.
+Troy,Duke,43,54,22,42,0,Duke Deadball Team Rebound.
+Troy,Duke,43,55,22,42,1,Jayson Tatum made Free Throw.
+Troy,Duke,43,55,22,51,0,Alex Hicks Turnover.
+Troy,Duke,43,55,22,51,0,Amile Jefferson Steal.
+Troy,Duke,43,55,22,58,0,Jayson Tatum missed Layup.
+Troy,Duke,43,55,22,58,0,Jordon Varnado Block.
+Troy,Duke,43,55,22,58,0,Amile Jefferson Offensive Rebound.
+Troy,Duke,43,57,23,3,1,Amile Jefferson made Layup.
+Troy,Duke,46,57,23,10,1,Kevin Baker made Three Point Jumper.
+Troy,Duke,46,57,23,28,0,Luke Kennard missed Three Point Jumper.
+Troy,Duke,46,57,23,28,0,Jordon Varnado Defensive Rebound.
+Troy,Duke,46,57,23,49,0,Jordon Varnado Turnover.
+Troy,Duke,46,57,23,49,0,Frank Jackson Steal.
+Troy,Duke,46,57,24,3,0,Amile Jefferson missed Jumper.
+Troy,Duke,46,57,24,3,0,Jayson Tatum Offensive Rebound.
+Troy,Duke,46,59,24,7,1,Jayson Tatum made Layup.
+Troy,Duke,46,59,24,10,0,Official TV Timeout
+Troy,Duke,46,59,24,25,0,Wesley Person missed Jumper.
+Troy,Duke,46,59,24,25,0,Alex Hicks Offensive Rebound.
+Troy,Duke,46,59,24,31,0,Alex Hicks missed Dunk.
+Troy,Duke,46,59,24,31,0,Jordon Varnado Offensive Rebound.
+Troy,Duke,46,59,24,40,0,Jordon Varnado missed Jumper.
+Troy,Duke,46,59,24,40,0,Jayson Tatum Defensive Rebound.
+Troy,Duke,46,59,24,40,0,Frank Jackson missed Three Point Jumper.
+Troy,Duke,46,59,24,40,0,Alex Hicks Defensive Rebound.
+Troy,Duke,46,59,24,40,0,Foul on Jayson Tatum.
+Troy,Duke,48,59,24,54,1,Jordon Varnado made Jumper.
+Troy,Duke,48,59,25,8,0,Jayson Tatum missed Layup.
+Troy,Duke,48,59,25,8,0,Alex Hicks Block.
+Troy,Duke,48,59,25,8,0,Alex Hicks Defensive Rebound.
+Troy,Duke,50,59,25,22,1,Wesley Person made Dunk.
+Troy,Duke,50,62,25,41,1,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.
+Troy,Duke,50,62,25,51,0,Kevin Baker missed Three Point Jumper.
+Troy,Duke,50,62,25,51,0,Grayson Allen Defensive Rebound.
+Troy,Duke,50,65,26,13,1,Grayson Allen made Three Point Jumper. Assisted by Matt Jones.
+Troy,Duke,50,65,26,42,0,Kevin Baker missed Three Point Jumper.
+Troy,Duke,50,65,26,42,0,Jayson Tatum Defensive Rebound.
+Troy,Duke,50,65,26,55,0,Foul on Kevin Baker.
+Troy,Duke,50,65,26,55,0,Technical Foul on Kevin Baker.
+Troy,Duke,50,65,26,55,0,Jayson Tatum missed Free Throw.
+Troy,Duke,50,65,26,55,0,Duke Deadball Team Rebound.
+Troy,Duke,50,66,26,55,1,Jayson Tatum made Free Throw.
+Troy,Duke,50,66,27,3,0,Grayson Allen missed Three Point Jumper.
+Troy,Duke,50,66,27,3,0,Antonio Vrankovic Offensive Rebound.
+Troy,Duke,50,66,27,8,0,Foul on Alex Hicks.
+Troy,Duke,50,66,27,12,0,Foul on Jeremy Hollimon.
+Troy,Duke,50,67,27,12,1,Grayson Allen made Free Throw.
+Troy,Duke,50,68,27,12,1,Grayson Allen made Free Throw.
+Troy,Duke,50,68,27,17,0,Wesley Person missed Three Point Jumper.
+Troy,Duke,50,68,27,17,0,Matt Jones Defensive Rebound.
+Troy,Duke,50,68,27,33,0,Luke Kennard missed Jumper.
+Troy,Duke,50,68,27,33,0,DeVon Walker Defensive Rebound.
+Troy,Duke,50,68,27,36,0,Foul on Antonio Vrankovic.
+Troy,Duke,50,68,28,0,0,Daniel Peace missed Layup.
+Troy,Duke,50,68,28,0,0,Antonio Vrankovic Defensive Rebound.
+Troy,Duke,50,68,28,5,0,Official TV Timeout
+Troy,Duke,50,68,28,14,0,Foul on Daniel Peace.
+Troy,Duke,50,68,28,14,0,Frank Jackson missed Free Throw.
+Troy,Duke,50,68,28,14,0,Jeremy Hollimon Defensive Rebound.
+Troy,Duke,52,68,28,34,1,Jordon Varnado made Layup. Assisted by Jeremy Hollimon.
+Troy,Duke,52,68,28,52,0,Foul on Jeremy Hollimon.
+Troy,Duke,52,68,28,52,0,Grayson Allen missed Free Throw.
+Troy,Duke,52,68,28,52,0,DeVon Walker Defensive Rebound.
+Troy,Duke,52,68,29,16,0,Jordon Varnado missed Three Point Jumper.
+Troy,Duke,52,68,29,16,0,Grayson Allen Defensive Rebound.
+Troy,Duke,52,68,29,36,0,Grayson Allen missed Three Point Jumper.
+Troy,Duke,52,68,29,36,0,Troy Defensive Rebound.
+Troy,Duke,52,68,29,48,0,Jeremy Hollimon missed Three Point Jumper.
+Troy,Duke,52,68,29,48,0,Jayson Tatum Defensive Rebound.
+Troy,Duke,52,68,30,10,0,Amile Jefferson missed Layup.
+Troy,Duke,52,68,30,10,0,Wesley Person Defensive Rebound.
+Troy,Duke,52,68,30,18,0,Wesley Person missed Layup.
+Troy,Duke,52,68,30,18,0,Jayson Tatum Block.
+Troy,Duke,52,68,30,18,0,Troy Offensive Rebound.
+Troy,Duke,52,68,30,34,0,DeVon Walker missed Dunk.
+Troy,Duke,52,68,30,34,0,Amile Jefferson Block.
+Troy,Duke,52,68,30,34,0,Troy Offensive Rebound.
+Troy,Duke,52,68,30,39,0,Jeremy Hollimon missed Three Point Jumper.
+Troy,Duke,52,68,30,39,0,Jayson Tatum Defensive Rebound.
+Troy,Duke,52,68,30,42,0,Foul on DeVon Walker.
+Troy,Duke,52,69,30,42,1,Jayson Tatum made Free Throw.
+Troy,Duke,52,70,30,42,1,Jayson Tatum made Free Throw.
+Troy,Duke,54,70,31,0,1,Alex Hicks made Jumper. Assisted by Daniel Peace.
+Troy,Duke,54,70,31,24,0,Foul on Daniel Peace.
+Troy,Duke,54,71,31,24,1,Jayson Tatum made Free Throw.
+Troy,Duke,54,72,31,24,1,Jayson Tatum made Free Throw.
+Troy,Duke,56,72,31,40,1,Wesley Person made Layup.
+Troy,Duke,56,72,32,7,0,Grayson Allen missed Three Point Jumper.
+Troy,Duke,56,72,32,7,0,Jordon Varnado Defensive Rebound.
+Troy,Duke,58,72,32,24,1,Alex Hicks made Jumper. Assisted by Jordon Varnado.
+Troy,Duke,58,72,32,25,0,Troy  Timeout
+Troy,Duke,58,74,32,27,1,Jayson Tatum made Layup.
+Troy,Duke,58,74,32,53,0,Wesley Person Turnover.
+Troy,Duke,58,74,32,53,0,Jayson Tatum Steal.
+Troy,Duke,58,74,33,20,0,Grayson Allen missed Three Point Jumper.
+Troy,Duke,58,74,33,20,0,Luke Kennard Offensive Rebound.
+Troy,Duke,58,76,33,20,1,Luke Kennard made Two Point Tip Shot.
+Troy,Duke,58,76,33,44,0,Wesley Person Turnover.
+Troy,Duke,58,76,33,44,0,Matt Jones Steal.
+Troy,Duke,58,76,33,44,0,Official TV Timeout
+Troy,Duke,58,76,34,4,0,Foul on Matt Jones.
+Troy,Duke,58,76,34,4,0,Matt Jones Turnover.
+Troy,Duke,58,76,34,16,0,Jeremy Hollimon missed Jumper.
+Troy,Duke,58,76,34,16,0,Amile Jefferson Defensive Rebound.
+Troy,Duke,58,76,34,40,0,Jayson Tatum missed Jumper.
+Troy,Duke,58,76,34,40,0,Grayson Allen Offensive Rebound.
+Troy,Duke,58,78,35,6,1,Amile Jefferson made Layup. Assisted by Grayson Allen.
+Troy,Duke,60,78,35,31,1,DeVon Walker made Jumper.
+Troy,Duke,60,78,35,58,0,Foul on Wesley Person.
+Troy,Duke,60,79,35,58,1,Grayson Allen made Free Throw.
+Troy,Duke,60,80,35,58,1,Grayson Allen made Free Throw.
+Troy,Duke,60,80,36,17,0,Kevin Baker missed Three Point Jumper.
+Troy,Duke,60,80,36,17,0,Frank Jackson Defensive Rebound.
+Troy,Duke,60,80,36,37,0,Frank Jackson missed Three Point Jumper.
+Troy,Duke,60,80,36,37,0,Troy Defensive Rebound.
+Troy,Duke,60,80,36,43,0,Official TV Timeout
+Troy,Duke,60,80,36,56,0,Foul on Jayson Tatum.
+Troy,Duke,61,80,36,56,1,Wesley Person made Free Throw.
+Troy,Duke,62,80,36,56,1,Wesley Person made Free Throw.
+Troy,Duke,63,80,36,56,1,Wesley Person made Free Throw.
+Troy,Duke,63,80,37,13,0,Amile Jefferson missed Jumper.
+Troy,Duke,63,80,37,13,0,DeVon Walker Defensive Rebound.
+Troy,Duke,63,80,37,39,0,Kevin Baker missed Three Point Jumper.
+Troy,Duke,63,80,37,39,0,Amile Jefferson Defensive Rebound.
+Troy,Duke,63,80,37,46,0,Duke  Timeout
+Troy,Duke,63,83,37,52,1,Grayson Allen made Three Point Jumper. Assisted by Frank Jackson.
+Troy,Duke,63,83,38,9,0,DeVon Walker missed Layup.
+Troy,Duke,63,83,38,9,0,Jordon Varnado Offensive Rebound.
+Troy,Duke,63,83,38,11,0,Jordon Varnado Turnover.
+Troy,Duke,63,83,38,11,0,Grayson Allen Steal.
+Troy,Duke,63,83,38,27,0,Foul on Harry Giles.
+Troy,Duke,63,83,38,27,0,Harry Giles Turnover.
+Troy,Duke,63,83,38,45,0,Foul on Jack White.
+Troy,Duke,63,83,38,45,0,Jaro Moravek missed Free Throw.
+Troy,Duke,63,83,38,45,0,Troy Deadball Team Rebound.
+Troy,Duke,64,83,38,45,1,Jaro Moravek made Free Throw.
+Troy,Duke,64,85,39,1,1,Frank Jackson made Jumper.
+Troy,Duke,64,85,39,13,0,B.J. Miller Turnover.
+Troy,Duke,64,85,39,13,0,Javin DeLaurier Steal.
+Troy,Duke,64,87,39,18,1,Javin DeLaurier made Layup.
+Troy,Duke,64,87,39,30,0,Troy  Timeout
+Troy,Duke,64,87,39,39,0,Foul on Frank Jackson.
+Troy,Duke,64,87,39,39,0,Whit Moreman missed Free Throw.
+Troy,Duke,64,87,39,39,0,Troy Deadball Team Rebound.
+Troy,Duke,65,87,39,39,1,Whit Moreman made Free Throw.
+Troy,Duke,65,87,40,0,0,End of Game

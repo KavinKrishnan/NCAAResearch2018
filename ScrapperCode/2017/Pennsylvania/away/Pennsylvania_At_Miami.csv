@@ -1,0 +1,329 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Pennsylvania,Miami,0,0,0,19,0,Bruce Brown missed Jumper.
+Pennsylvania,Miami,0,0,0,19,0,Kamari Murphy Offensive Rebound.
+Pennsylvania,Miami,0,2,0,23,1,Kamari Murphy made Layup.
+Pennsylvania,Miami,0,2,0,53,0,Matt Howard missed Jumper.
+Pennsylvania,Miami,0,2,0,53,0,Ja'Quan Newton Defensive Rebound.
+Pennsylvania,Miami,0,4,1,1,1,Ja'Quan Newton made Layup.
+Pennsylvania,Miami,0,4,1,12,0,Caleb Wood Turnover.
+Pennsylvania,Miami,0,4,1,13,0,Ja'Quan Newton Steal.
+Pennsylvania,Miami,0,4,1,16,0,Anthony Lawrence Jr. missed Three Point Jumper.
+Pennsylvania,Miami,0,4,1,16,0,AJ Brodeur Defensive Rebound.
+Pennsylvania,Miami,0,4,1,43,0,Matt MacDonald missed Jumper.
+Pennsylvania,Miami,0,4,1,43,0,AJ Brodeur Offensive Rebound.
+Pennsylvania,Miami,2,4,1,50,1,Caleb Wood made Layup.
+Pennsylvania,Miami,2,4,2,22,0,Kamari Murphy Turnover.
+Pennsylvania,Miami,2,4,2,22,0,Matt Howard Steal.
+Pennsylvania,Miami,4,4,2,26,1,Matt Howard made Layup.
+Pennsylvania,Miami,4,4,2,53,0,Ja'Quan Newton missed Jumper.
+Pennsylvania,Miami,4,4,2,53,0,AJ Brodeur Defensive Rebound.
+Pennsylvania,Miami,4,4,3,4,0,Jackson Donahue missed Layup.
+Pennsylvania,Miami,4,4,3,4,0,Matt Howard Offensive Rebound.
+Pennsylvania,Miami,6,4,3,12,1,AJ Brodeur made Jumper.
+Pennsylvania,Miami,6,4,3,33,0,Kamari Murphy missed Jumper.
+Pennsylvania,Miami,6,4,3,33,0,Matt MacDonald Defensive Rebound.
+Pennsylvania,Miami,8,4,3,47,1,AJ Brodeur made Jumper.
+Pennsylvania,Miami,8,4,4,8,0,Foul on Jackson Donahue.
+Pennsylvania,Miami,8,4,4,8,0,Official TV Timeout
+Pennsylvania,Miami,8,4,4,11,0,Davon Reed missed Three Point Jumper.
+Pennsylvania,Miami,8,4,4,11,0,Caleb Wood Defensive Rebound.
+Pennsylvania,Miami,8,4,4,30,0,Matt Howard missed Layup.
+Pennsylvania,Miami,8,4,4,31,0,Kamari Murphy Defensive Rebound.
+Pennsylvania,Miami,8,6,4,37,1,Bruce Brown made Layup.
+Pennsylvania,Miami,8,6,4,37,0,Foul on AJ Brodeur.
+Pennsylvania,Miami,8,7,4,37,1,Bruce Brown made Free Throw.
+Pennsylvania,Miami,8,7,4,43,0,Max Rothschild Turnover.
+Pennsylvania,Miami,8,7,4,44,0,Anthony Lawrence Jr. Steal.
+Pennsylvania,Miami,8,7,4,47,0,Ja'Quan Newton missed Layup.
+Pennsylvania,Miami,8,7,4,47,0,Darnell Foreman Defensive Rebound.
+Pennsylvania,Miami,11,7,4,51,1,Matt MacDonald made Three Point Jumper. Assisted by Darnell Foreman.
+Pennsylvania,Miami,11,7,4,55,0,Dejan Vasiljevic missed Three Point Jumper.
+Pennsylvania,Miami,11,7,4,55,0,Dewan Huell Offensive Rebound.
+Pennsylvania,Miami,11,9,5,1,1,Dewan Huell made Dunk.
+Pennsylvania,Miami,11,9,5,42,0,Foul on Max Rothschild.
+Pennsylvania,Miami,11,10,5,42,1,Dewan Huell made Free Throw.
+Pennsylvania,Miami,11,10,5,44,0,Max Rothschild missed Jumper.
+Pennsylvania,Miami,11,10,5,44,0,Matt Howard Offensive Rebound.
+Pennsylvania,Miami,13,10,5,49,1,Matt Howard made Layup.
+Pennsylvania,Miami,13,10,5,53,0,Dejan Vasiljevic Turnover.
+Pennsylvania,Miami,13,10,6,15,0,Jackson Donahue missed Three Point Jumper.
+Pennsylvania,Miami,13,10,6,15,0,Matt Howard Offensive Rebound.
+Pennsylvania,Miami,13,10,6,19,0,Matt Howard missed Layup.
+Pennsylvania,Miami,13,10,6,19,0,Davon Reed Defensive Rebound.
+Pennsylvania,Miami,13,13,6,24,1,Dejan Vasiljevic made Three Point Jumper. Assisted by Davon Reed.
+Pennsylvania,Miami,13,13,6,33,0,Jackson Donahue Turnover.
+Pennsylvania,Miami,13,13,7,35,0,Ja'Quan Newton missed Jumper.
+Pennsylvania,Miami,13,13,7,35,0,Kamari Murphy Offensive Rebound.
+Pennsylvania,Miami,13,13,7,39,0,Kamari Murphy missed Layup.
+Pennsylvania,Miami,13,13,7,39,0,Dewan Huell Offensive Rebound.
+Pennsylvania,Miami,13,15,7,46,1,Dewan Huell made Dunk.
+Pennsylvania,Miami,13,15,7,55,0,Jackson Donahue Turnover.
+Pennsylvania,Miami,13,15,8,7,0,Official TV Timeout
+Pennsylvania,Miami,13,15,8,19,0,Dewan Huell Turnover.
+Pennsylvania,Miami,13,15,8,21,0,Max Rothschild Steal.
+Pennsylvania,Miami,13,15,8,32,0,Darnell Foreman Turnover.
+Pennsylvania,Miami,13,15,9,7,0,Bruce Brown missed Jumper.
+Pennsylvania,Miami,13,15,9,7,0,Pennsylvania Defensive Rebound.
+Pennsylvania,Miami,13,15,9,32,0,Foul on Davon Reed.
+Pennsylvania,Miami,13,15,9,42,0,AJ Brodeur Turnover.
+Pennsylvania,Miami,13,15,9,54,0,Foul on Dewan Huell.
+Pennsylvania,Miami,13,15,9,54,0,Dewan Huell Turnover.
+Pennsylvania,Miami,13,15,10,18,0,Max Rothschild Turnover.
+Pennsylvania,Miami,13,15,10,18,0,Anthony Lawrence Jr. Steal.
+Pennsylvania,Miami,13,15,10,32,0,Dejan Vasiljevic missed Jumper.
+Pennsylvania,Miami,13,15,10,32,0,Max Rothschild Defensive Rebound.
+Pennsylvania,Miami,15,15,10,49,1,AJ Brodeur made Layup. Assisted by Caleb Wood.
+Pennsylvania,Miami,15,15,11,16,0,Kamari Murphy missed Three Point Jumper.
+Pennsylvania,Miami,15,15,11,16,0,Dewan Huell Offensive Rebound.
+Pennsylvania,Miami,15,17,11,17,1,Dewan Huell made Dunk.
+Pennsylvania,Miami,15,17,11,49,0,Pennsylvania  Turnover.
+Pennsylvania,Miami,15,17,12,6,0,Ja'Quan Newton missed Jumper.
+Pennsylvania,Miami,15,17,12,6,0,Matt MacDonald Defensive Rebound.
+Pennsylvania,Miami,15,17,12,16,0,Matt Howard missed Three Point Jumper.
+Pennsylvania,Miami,15,17,12,16,0,AJ Brodeur Offensive Rebound.
+Pennsylvania,Miami,15,17,12,21,0,Jackson Donahue missed Three Point Jumper.
+Pennsylvania,Miami,15,17,12,21,0,Bruce Brown Defensive Rebound.
+Pennsylvania,Miami,15,17,12,29,0,Ja'Quan Newton missed Jumper.
+Pennsylvania,Miami,15,17,12,29,0,Matt MacDonald Defensive Rebound.
+Pennsylvania,Miami,15,17,12,39,0,Matt MacDonald missed Three Point Jumper.
+Pennsylvania,Miami,15,17,12,39,0,Miami Defensive Rebound.
+Pennsylvania,Miami,15,17,12,41,0,Official TV Timeout
+Pennsylvania,Miami,15,17,13,4,0,Ja'Quan Newton missed Jumper.
+Pennsylvania,Miami,15,17,13,4,0,Dewan Huell Offensive Rebound.
+Pennsylvania,Miami,15,19,13,14,1,Dewan Huell made Dunk.
+Pennsylvania,Miami,15,19,13,24,0,Foul on Bruce Brown.
+Pennsylvania,Miami,15,19,13,31,0,Sam Jones missed Three Point Jumper.
+Pennsylvania,Miami,15,19,13,31,0,Bruce Brown Defensive Rebound.
+Pennsylvania,Miami,15,19,13,38,0,Bruce Brown Turnover.
+Pennsylvania,Miami,15,19,13,40,0,Matt Howard Steal.
+Pennsylvania,Miami,15,19,13,44,0,Jackson Donahue missed Three Point Jumper.
+Pennsylvania,Miami,15,19,13,44,0,Miami Defensive Rebound.
+Pennsylvania,Miami,15,19,13,51,0,Dewan Huell missed Layup.
+Pennsylvania,Miami,15,19,13,51,0,Sam Jones Defensive Rebound.
+Pennsylvania,Miami,15,19,14,1,0,Darnell Foreman missed Three Point Jumper.
+Pennsylvania,Miami,15,19,14,1,0,Davon Reed Defensive Rebound.
+Pennsylvania,Miami,15,19,14,9,0,Foul on Matt Howard.
+Pennsylvania,Miami,15,19,14,14,0,Davon Reed missed Layup.
+Pennsylvania,Miami,15,19,14,14,0,Miami Offensive Rebound.
+Pennsylvania,Miami,15,19,14,29,0,Ja'Quan Newton Turnover.
+Pennsylvania,Miami,15,19,14,31,0,Jackson Donahue Steal.
+Pennsylvania,Miami,18,19,14,44,1,Caleb Wood made Three Point Jumper.
+Pennsylvania,Miami,18,19,15,5,0,Davon Reed missed Jumper.
+Pennsylvania,Miami,18,19,15,5,0,Dewan Huell Offensive Rebound.
+Pennsylvania,Miami,18,19,15,9,0,Davon Reed missed Three Point Jumper.
+Pennsylvania,Miami,18,19,15,9,0,Bruce Brown Offensive Rebound.
+Pennsylvania,Miami,18,21,15,13,1,Bruce Brown made Layup.
+Pennsylvania,Miami,18,21,15,13,0,Foul on Caleb Wood.
+Pennsylvania,Miami,18,22,15,13,1,Bruce Brown made Free Throw.
+Pennsylvania,Miami,18,22,15,23,0,Caleb Wood Turnover.
+Pennsylvania,Miami,18,22,15,23,0,Anthony Lawrence Jr. Steal.
+Pennsylvania,Miami,18,24,15,40,1,Dejan Vasiljevic made Jumper. Assisted by Ja'Quan Newton.
+Pennsylvania,Miami,18,24,16,0,0,Foul on Kamari Murphy.
+Pennsylvania,Miami,19,24,16,0,1,AJ Brodeur made Free Throw.
+Pennsylvania,Miami,20,24,16,0,1,AJ Brodeur made Free Throw.
+Pennsylvania,Miami,20,24,16,20,0,Davon Reed missed Jumper.
+Pennsylvania,Miami,20,24,16,20,0,AJ Brodeur Block.
+Pennsylvania,Miami,20,24,16,22,0,Matt MacDonald Defensive Rebound.
+Pennsylvania,Miami,20,24,16,41,0,AJ Brodeur Turnover.
+Pennsylvania,Miami,20,24,16,41,0,Official TV Timeout
+Pennsylvania,Miami,20,24,16,51,0,Anthony Lawrence Jr. missed Jumper.
+Pennsylvania,Miami,20,24,16,51,0,Darnell Foreman Defensive Rebound.
+Pennsylvania,Miami,23,24,17,2,1,Darnell Foreman made Three Point Jumper. Assisted by Matt MacDonald.
+Pennsylvania,Miami,23,24,17,5,0,Miami  Timeout
+Pennsylvania,Miami,23,24,17,27,0,Ja'Quan Newton missed Jumper.
+Pennsylvania,Miami,23,24,17,27,0,Max Rothschild Defensive Rebound.
+Pennsylvania,Miami,23,24,17,47,0,AJ Brodeur missed Jumper.
+Pennsylvania,Miami,23,24,17,47,0,Anthony Lawrence Jr. Defensive Rebound.
+Pennsylvania,Miami,23,26,17,55,1,Davon Reed made Layup.
+Pennsylvania,Miami,23,26,18,0,0,Pennsylvania  Timeout
+Pennsylvania,Miami,23,26,18,16,0,Jackson Donahue missed Three Point Jumper.
+Pennsylvania,Miami,23,26,18,16,0,Davon Reed Defensive Rebound.
+Pennsylvania,Miami,23,28,18,31,1,Davon Reed made Jumper.
+Pennsylvania,Miami,23,28,18,48,0,AJ Brodeur missed Jumper.
+Pennsylvania,Miami,23,28,18,48,0,Matt Howard Offensive Rebound.
+Pennsylvania,Miami,23,28,18,52,0,Caleb Wood missed Three Point Jumper.
+Pennsylvania,Miami,23,28,18,52,0,Anthony Lawrence Jr. Defensive Rebound.
+Pennsylvania,Miami,23,28,18,54,0,Foul on Matt Howard.
+Pennsylvania,Miami,23,28,19,1,0,Davon Reed missed Three Point Jumper.
+Pennsylvania,Miami,23,28,19,1,0,Darnell Foreman Defensive Rebound.
+Pennsylvania,Miami,23,28,19,19,0,AJ Brodeur missed Jumper.
+Pennsylvania,Miami,23,28,19,19,0,Davon Reed Defensive Rebound.
+Pennsylvania,Miami,23,28,19,34,0,Davon Reed missed Three Point Jumper.
+Pennsylvania,Miami,23,28,19,34,0,AJ Brodeur Block.
+Pennsylvania,Miami,23,28,19,35,0,Caleb Wood Defensive Rebound.
+Pennsylvania,Miami,23,28,19,58,0,Foul on Dewan Huell.
+Pennsylvania,Miami,23,28,20,0,0,Jackson Donahue missed Three Point Jumper.
+Pennsylvania,Miami,23,28,20,0,0,Miami Defensive Rebound.
+Pennsylvania,Miami,23,28,20,0,0,End of 1st half
+Pennsylvania,Miami,23,28,20,10,0,Jackson Donahue missed Jumper.
+Pennsylvania,Miami,23,28,20,10,0,Kamari Murphy Defensive Rebound.
+Pennsylvania,Miami,23,28,20,16,0,Foul on Caleb Wood.
+Pennsylvania,Miami,23,30,20,26,1,Kamari Murphy made Jumper.
+Pennsylvania,Miami,26,30,20,54,1,Caleb Wood made Three Point Jumper. Assisted by AJ Brodeur.
+Pennsylvania,Miami,26,30,21,26,0,Bruce Brown missed Three Point Jumper.
+Pennsylvania,Miami,26,30,21,26,0,Kamari Murphy Offensive Rebound.
+Pennsylvania,Miami,26,30,21,30,0,Kamari Murphy missed Layup.
+Pennsylvania,Miami,26,30,21,30,0,Bruce Brown Offensive Rebound.
+Pennsylvania,Miami,26,32,21,33,1,Bruce Brown made Two Point Tip Shot.
+Pennsylvania,Miami,26,32,21,46,0,Matt MacDonald missed Layup.
+Pennsylvania,Miami,26,32,21,46,0,AJ Brodeur Offensive Rebound.
+Pennsylvania,Miami,28,32,21,50,1,AJ Brodeur made Layup.
+Pennsylvania,Miami,28,32,22,15,0,Ja'Quan Newton Turnover.
+Pennsylvania,Miami,28,32,22,24,0,Foul on Kamari Murphy.
+Pennsylvania,Miami,28,32,22,24,0,AJ Brodeur missed Free Throw.
+Pennsylvania,Miami,28,32,22,24,0,Pennsylvania Deadball Team Rebound.
+Pennsylvania,Miami,29,32,22,24,1,AJ Brodeur made Free Throw.
+Pennsylvania,Miami,29,34,22,36,1,Kamari Murphy made Jumper. Assisted by Bruce Brown.
+Pennsylvania,Miami,29,34,22,54,0,Caleb Wood Turnover.
+Pennsylvania,Miami,29,34,22,55,0,Bruce Brown Steal.
+Pennsylvania,Miami,29,36,22,57,1,Bruce Brown made Dunk.
+Pennsylvania,Miami,29,36,23,8,0,Caleb Wood Turnover.
+Pennsylvania,Miami,29,36,23,9,0,Ja'Quan Newton Steal.
+Pennsylvania,Miami,29,36,23,10,0,Foul on Caleb Wood.
+Pennsylvania,Miami,29,37,23,10,1,Ja'Quan Newton made Free Throw.
+Pennsylvania,Miami,29,38,23,10,1,Ja'Quan Newton made Free Throw.
+Pennsylvania,Miami,29,38,23,25,0,Jackson Donahue missed Three Point Jumper.
+Pennsylvania,Miami,29,38,23,25,0,Davon Reed Defensive Rebound.
+Pennsylvania,Miami,29,38,23,37,0,Foul on AJ Brodeur.
+Pennsylvania,Miami,29,38,23,44,0,Anthony Lawrence Jr. Turnover.
+Pennsylvania,Miami,29,38,24,1,0,Max Rothschild Turnover.
+Pennsylvania,Miami,29,38,24,1,0,Bruce Brown Steal.
+Pennsylvania,Miami,29,38,24,4,0,Foul on Sam Jones.
+Pennsylvania,Miami,29,38,24,4,0,Official TV Timeout
+Pennsylvania,Miami,29,38,24,4,0,Ja'Quan Newton missed Free Throw.
+Pennsylvania,Miami,29,38,24,4,0,Miami Deadball Team Rebound.
+Pennsylvania,Miami,29,39,24,4,1,Ja'Quan Newton made Free Throw.
+Pennsylvania,Miami,29,39,24,17,0,Caleb Wood Turnover.
+Pennsylvania,Miami,29,39,24,18,0,Ja'Quan Newton Steal.
+Pennsylvania,Miami,29,41,24,27,1,Ja'Quan Newton made Layup.
+Pennsylvania,Miami,29,41,24,36,0,AJ Brodeur Turnover.
+Pennsylvania,Miami,29,41,24,59,0,Davon Reed missed Three Point Jumper.
+Pennsylvania,Miami,29,41,24,59,0,Caleb Wood Defensive Rebound.
+Pennsylvania,Miami,32,41,25,7,1,Matt Howard made Three Point Jumper. Assisted by Matt MacDonald.
+Pennsylvania,Miami,32,41,25,28,0,Dejan Vasiljevic Turnover.
+Pennsylvania,Miami,32,41,25,46,0,AJ Brodeur Turnover.
+Pennsylvania,Miami,32,41,26,11,0,Foul on Matt MacDonald.
+Pennsylvania,Miami,32,42,26,11,1,Ja'Quan Newton made Free Throw.
+Pennsylvania,Miami,32,43,26,11,1,Ja'Quan Newton made Free Throw.
+Pennsylvania,Miami,35,43,26,22,1,Caleb Wood made Three Point Jumper. Assisted by Matt MacDonald.
+Pennsylvania,Miami,35,46,26,48,1,Ja'Quan Newton made Three Point Jumper.
+Pennsylvania,Miami,35,46,27,5,0,AJ Brodeur missed Jumper.
+Pennsylvania,Miami,35,46,27,5,0,AJ Brodeur Offensive Rebound.
+Pennsylvania,Miami,35,46,27,8,0,AJ Brodeur missed Jumper.
+Pennsylvania,Miami,35,46,27,8,0,Kamari Murphy Defensive Rebound.
+Pennsylvania,Miami,35,48,27,11,1,Dewan Huell made Layup. Assisted by Kamari Murphy.
+Pennsylvania,Miami,35,48,27,29,0,Caleb Wood Turnover.
+Pennsylvania,Miami,35,48,27,46,0,Bruce Brown missed Three Point Jumper.
+Pennsylvania,Miami,35,48,27,46,0,Kamari Murphy Offensive Rebound.
+Pennsylvania,Miami,35,51,27,52,1,Dejan Vasiljevic made Three Point Jumper. Assisted by Kamari Murphy.
+Pennsylvania,Miami,35,51,27,56,0,Pennsylvania  Timeout
+Pennsylvania,Miami,35,51,27,56,0,Official TV Timeout
+Pennsylvania,Miami,35,51,28,12,0,Matt MacDonald Turnover.
+Pennsylvania,Miami,35,51,28,12,0,Kamari Murphy Steal.
+Pennsylvania,Miami,35,51,28,19,0,Foul on Caleb Wood.
+Pennsylvania,Miami,35,51,28,19,0,Official TV Timeout
+Pennsylvania,Miami,35,52,28,19,1,Davon Reed made Free Throw.
+Pennsylvania,Miami,35,53,28,19,1,Davon Reed made Free Throw.
+Pennsylvania,Miami,38,53,28,29,1,Sam Jones made Three Point Jumper. Assisted by Darnell Foreman.
+Pennsylvania,Miami,38,56,28,48,1,Dejan Vasiljevic made Three Point Jumper. Assisted by Anthony Lawrence Jr..
+Pennsylvania,Miami,38,56,29,13,0,Foul on Darnell Foreman.
+Pennsylvania,Miami,38,56,29,13,0,Darnell Foreman Turnover.
+Pennsylvania,Miami,38,59,29,32,1,Bruce Brown made Three Point Jumper. Assisted by Dejan Vasiljevic.
+Pennsylvania,Miami,38,59,29,52,0,Foul on Dejan Vasiljevic.
+Pennsylvania,Miami,39,59,29,52,1,AJ Brodeur made Free Throw.
+Pennsylvania,Miami,39,59,29,52,0,AJ Brodeur missed Free Throw.
+Pennsylvania,Miami,39,59,29,52,0,Kamari Murphy Defensive Rebound.
+Pennsylvania,Miami,39,59,30,12,0,Foul on Anthony Lawrence Jr..
+Pennsylvania,Miami,39,59,30,12,0,Anthony Lawrence Jr. Turnover.
+Pennsylvania,Miami,39,59,30,32,0,Sam Jones Turnover.
+Pennsylvania,Miami,39,59,30,35,0,Bruce Brown Steal.
+Pennsylvania,Miami,39,61,30,36,1,Bruce Brown made Layup.
+Pennsylvania,Miami,39,61,30,50,0,AJ Brodeur missed Jumper.
+Pennsylvania,Miami,39,61,30,50,0,Bruce Brown Block.
+Pennsylvania,Miami,39,61,30,53,0,Anthony Lawrence Jr. Defensive Rebound.
+Pennsylvania,Miami,39,61,30,58,0,Dejan Vasiljevic missed Three Point Jumper.
+Pennsylvania,Miami,39,61,30,58,0,Matt MacDonald Defensive Rebound.
+Pennsylvania,Miami,39,61,31,1,0,Foul on Bruce Brown.
+Pennsylvania,Miami,40,61,31,1,1,Matt MacDonald made Free Throw.
+Pennsylvania,Miami,40,61,31,1,0,Matt MacDonald missed Free Throw.
+Pennsylvania,Miami,40,61,31,1,0,Davon Reed Defensive Rebound.
+Pennsylvania,Miami,40,63,31,22,1,Rodney Miller made Layup. Assisted by Ja'Quan Newton.
+Pennsylvania,Miami,43,63,31,39,1,Tyler Hamilton made Three Point Jumper. Assisted by Max Rothschild.
+Pennsylvania,Miami,43,63,32,8,0,Anthony Lawrence Jr. missed Layup.
+Pennsylvania,Miami,43,63,32,8,0,Max Rothschild Block.
+Pennsylvania,Miami,43,63,32,10,0,Tyler Hamilton Defensive Rebound.
+Pennsylvania,Miami,45,63,32,14,1,Sam Jones made Layup. Assisted by Matt MacDonald.
+Pennsylvania,Miami,45,65,32,40,1,Ja'Quan Newton made Jumper.
+Pennsylvania,Miami,48,65,32,49,1,Sam Jones made Three Point Jumper. Assisted by Darnell Foreman.
+Pennsylvania,Miami,48,68,33,18,1,Davon Reed made Three Point Jumper. Assisted by Ja'Quan Newton.
+Pennsylvania,Miami,48,68,33,30,0,Sam Jones missed Three Point Jumper.
+Pennsylvania,Miami,48,68,33,30,0,Ja'Quan Newton Defensive Rebound.
+Pennsylvania,Miami,48,68,33,36,0,Ja'Quan Newton missed Layup.
+Pennsylvania,Miami,48,68,33,36,0,Darnell Foreman Block.
+Pennsylvania,Miami,48,68,33,38,0,Darnell Foreman Defensive Rebound.
+Pennsylvania,Miami,48,68,33,42,0,Max Rothschild missed Layup.
+Pennsylvania,Miami,48,68,33,42,0,Anthony Lawrence Jr. Block.
+Pennsylvania,Miami,48,68,33,42,0,Pennsylvania Offensive Rebound.
+Pennsylvania,Miami,48,68,33,42,0,Official TV Timeout
+Pennsylvania,Miami,48,68,33,48,0,Foul on Rodney Miller.
+Pennsylvania,Miami,50,68,33,59,1,AJ Brodeur made Jumper.
+Pennsylvania,Miami,50,68,34,25,0,Ja'Quan Newton missed Three Point Jumper.
+Pennsylvania,Miami,50,68,34,25,0,Pennsylvania Defensive Rebound.
+Pennsylvania,Miami,50,68,34,26,0,Foul on Kamari Murphy.
+Pennsylvania,Miami,50,68,34,47,0,Foul on Kamari Murphy.
+Pennsylvania,Miami,51,68,34,47,1,Max Rothschild made Free Throw.
+Pennsylvania,Miami,52,68,34,47,1,Max Rothschild made Free Throw.
+Pennsylvania,Miami,52,68,35,10,0,Davon Reed missed Three Point Jumper.
+Pennsylvania,Miami,52,68,35,10,0,AJ Brodeur Defensive Rebound.
+Pennsylvania,Miami,52,68,35,20,0,Jackson Donahue missed Three Point Jumper.
+Pennsylvania,Miami,52,68,35,20,0,Ja'Quan Newton Defensive Rebound.
+Pennsylvania,Miami,52,70,35,26,1,Ja'Quan Newton made Layup.
+Pennsylvania,Miami,52,70,35,28,0,Miami  Timeout
+Pennsylvania,Miami,52,70,35,42,0,AJ Brodeur Turnover.
+Pennsylvania,Miami,52,70,35,43,0,Anthony Lawrence Jr. Steal.
+Pennsylvania,Miami,52,72,35,45,1,Ja'Quan Newton made Dunk. Assisted by Anthony Lawrence Jr..
+Pennsylvania,Miami,52,72,36,10,0,Foul on Anthony Lawrence Jr..
+Pennsylvania,Miami,52,72,36,10,0,Official TV Timeout
+Pennsylvania,Miami,53,72,36,10,1,AJ Brodeur made Free Throw.
+Pennsylvania,Miami,54,72,36,10,1,AJ Brodeur made Free Throw.
+Pennsylvania,Miami,54,72,36,34,0,Ja'Quan Newton missed Three Point Jumper.
+Pennsylvania,Miami,54,72,36,34,0,Pennsylvania Defensive Rebound.
+Pennsylvania,Miami,54,72,36,34,0,Foul on Anthony Lawrence Jr..
+Pennsylvania,Miami,54,72,36,35,0,Darnell Foreman missed Free Throw.
+Pennsylvania,Miami,54,72,36,35,0,Bruce Brown Defensive Rebound.
+Pennsylvania,Miami,54,72,36,48,0,Anthony Lawrence Jr. Turnover.
+Pennsylvania,Miami,56,72,37,4,1,Tyler Hamilton made Layup. Assisted by AJ Brodeur.
+Pennsylvania,Miami,56,72,37,14,0,Ja'Quan Newton Turnover.
+Pennsylvania,Miami,56,72,37,15,0,Tyler Hamilton Steal.
+Pennsylvania,Miami,56,72,37,17,0,Tyler Hamilton missed Layup.
+Pennsylvania,Miami,56,72,37,17,0,Davon Reed Defensive Rebound.
+Pennsylvania,Miami,56,72,37,20,0,Davon Reed Turnover.
+Pennsylvania,Miami,56,72,37,22,0,Tyler Hamilton Steal.
+Pennsylvania,Miami,56,72,37,24,0,Darnell Foreman missed Layup.
+Pennsylvania,Miami,56,72,37,24,0,Davon Reed Block.
+Pennsylvania,Miami,56,72,37,28,0,Darnell Foreman Offensive Rebound.
+Pennsylvania,Miami,58,72,37,30,1,Darnell Foreman made Layup.
+Pennsylvania,Miami,58,72,37,53,0,Ja'Quan Newton Turnover.
+Pennsylvania,Miami,58,72,37,55,0,AJ Brodeur Steal.
+Pennsylvania,Miami,60,72,38,2,1,Darnell Foreman made Layup.
+Pennsylvania,Miami,60,72,38,20,0,Miami  Timeout
+Pennsylvania,Miami,60,72,38,35,0,Davon Reed Turnover.
+Pennsylvania,Miami,60,72,38,36,0,Devon Goodman Steal.
+Pennsylvania,Miami,60,72,38,38,0,Devon Goodman missed Layup.
+Pennsylvania,Miami,60,72,38,38,0,Bruce Brown Block.
+Pennsylvania,Miami,60,72,38,38,0,Pennsylvania Offensive Rebound.
+Pennsylvania,Miami,60,72,38,48,0,Pennsylvania  Timeout
+Pennsylvania,Miami,60,72,39,1,0,Devon Goodman missed Three Point Jumper.
+Pennsylvania,Miami,60,72,39,1,0,AJ Brodeur Offensive Rebound.
+Pennsylvania,Miami,62,72,39,12,1,Devon Goodman made Layup. Assisted by AJ Brodeur.
+Pennsylvania,Miami,62,72,39,32,0,Ja'Quan Newton Turnover.
+Pennsylvania,Miami,62,72,39,33,0,Darnell Foreman Steal.
+Pennsylvania,Miami,62,72,39,38,0,Tyler Hamilton missed Layup.
+Pennsylvania,Miami,62,72,39,38,0,Bruce Brown Block.
+Pennsylvania,Miami,62,72,39,40,0,Ja'Quan Newton Defensive Rebound.
+Pennsylvania,Miami,62,72,39,45,0,Foul on Darnell Foreman.
+Pennsylvania,Miami,62,73,39,45,1,Davon Reed made Free Throw.
+Pennsylvania,Miami,62,74,39,45,1,Davon Reed made Free Throw.
+Pennsylvania,Miami,62,74,39,54,0,Darnell Foreman missed Layup.
+Pennsylvania,Miami,62,74,39,54,0,Miami Defensive Rebound.
+Pennsylvania,Miami,62,74,40,0,0,End of Game

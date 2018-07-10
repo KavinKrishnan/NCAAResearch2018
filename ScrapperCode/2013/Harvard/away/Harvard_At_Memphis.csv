@@ -1,0 +1,334 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Harvard,Memphis,0,2,0,29,1,Geron Johnson made Jumper.
+Harvard,Memphis,2,2,1,3,1,Jonah Travis made Layup.
+Harvard,Memphis,2,2,1,25,0,Shaq Goodwin Turnover.
+Harvard,Memphis,2,2,1,25,0,Christian Webster Steal.
+Harvard,Memphis,2,2,1,25,0,Foul on Joe Jackson
+Harvard,Memphis,2,2,1,36,0,Wesley Saunders missed Layup.
+Harvard,Memphis,2,2,1,36,0,Adonis Thomas Defensive Rebound.
+Harvard,Memphis,2,4,1,43,1,Geron Johnson made Layup.  Assisted by Joe Jackson.
+Harvard,Memphis,2,4,1,43,0,Foul on Jonah Travis
+Harvard,Memphis,2,5,1,43,1,Geron Johnson made Free Throw.
+Harvard,Memphis,2,5,2,20,0,Siyani Chambers Turnover.
+Harvard,Memphis,2,5,2,20,0,Joe Jackson Steal.
+Harvard,Memphis,2,7,2,22,1,Shaq Goodwin made Layup.  Assisted by Joe Jackson.
+Harvard,Memphis,2,7,2,47,0,Laurent Rivard Turnover.
+Harvard,Memphis,2,7,2,49,0,Shaq Goodwin Steal.
+Harvard,Memphis,2,9,2,50,1,Shaq Goodwin made Dunk.
+Harvard,Memphis,2,9,2,51,0,Harvard Full Timeout.
+Harvard,Memphis,2,9,3,2,0,Laurent Rivard missed Three Point Jumper.
+Harvard,Memphis,2,9,3,2,0,Shaq Goodwin Defensive Rebound.
+Harvard,Memphis,2,9,3,10,0,Adonis Thomas missed Jumper.
+Harvard,Memphis,2,9,3,10,0,Adonis Thomas Offensive Rebound.
+Harvard,Memphis,2,9,3,13,0,Adonis Thomas missed Jumper.
+Harvard,Memphis,2,9,3,13,0,Shaq Goodwin Offensive Rebound.
+Harvard,Memphis,2,9,3,16,0,Foul on Jonah Travis
+Harvard,Memphis,2,10,3,16,1,Shaq Goodwin made Free Throw.
+Harvard,Memphis,2,11,3,16,1,Shaq Goodwin made Free Throw.
+Harvard,Memphis,2,11,3,47,0,Foul on Geron Johnson
+Harvard,Memphis,2,11,3,47,0,Wesley Saunders missed Free Throw.
+Harvard,Memphis,2,11,3,47,0,null
+Harvard,Memphis,2,11,3,47,0,Wesley Saunders missed Free Throw.
+Harvard,Memphis,2,11,3,47,0,Shaq Goodwin Defensive Rebound.
+Harvard,Memphis,2,11,3,56,0,Shaq Goodwin missed Layup.
+Harvard,Memphis,2,11,3,56,0,Kenyatta Smith Block.
+Harvard,Memphis,2,11,3,59,0,Wesley Saunders Defensive Rebound.
+Harvard,Memphis,2,11,4,2,0,Official TV Timeout.
+Harvard,Memphis,2,11,4,16,0,Foul on Geron Johnson
+Harvard,Memphis,2,11,4,23,0,Laurent Rivard missed Three Point Jumper.
+Harvard,Memphis,2,11,4,23,0,D.J. Stephens Defensive Rebound.
+Harvard,Memphis,2,11,4,38,0,Shaq Goodwin missed Dunk.
+Harvard,Memphis,2,11,4,38,0,Laurent Rivard Defensive Rebound.
+Harvard,Memphis,2,11,4,44,0,Siyani Chambers Turnover.
+Harvard,Memphis,2,11,4,45,0,Chris Crawford Steal.
+Harvard,Memphis,2,11,4,51,0,Adonis Thomas missed Jumper.
+Harvard,Memphis,2,11,4,51,0,Kenyatta Smith Defensive Rebound.
+Harvard,Memphis,2,11,5,10,0,Siyani Chambers Turnover.
+Harvard,Memphis,2,11,5,12,0,Joe Jackson Steal.
+Harvard,Memphis,2,11,5,17,0,Chris Crawford missed Three Point Jumper.
+Harvard,Memphis,2,11,5,17,0,Kenyatta Smith Defensive Rebound.
+Harvard,Memphis,2,11,5,24,0,Wesley Saunders Turnover.
+Harvard,Memphis,2,11,5,28,0,Chris Crawford Turnover.
+Harvard,Memphis,2,11,6,3,0,Kenyatta Smith missed Jumper.
+Harvard,Memphis,2,11,6,3,0,D.J. Stephens Block.
+Harvard,Memphis,2,11,6,4,0,null
+Harvard,Memphis,2,11,6,22,0,Tarik Black missed Jumper.
+Harvard,Memphis,2,11,6,22,0,Harvard Defensive Rebound.
+Harvard,Memphis,2,11,7,0,0,Christian Webster missed Three Point Jumper.
+Harvard,Memphis,2,11,7,0,0,Joe Jackson Defensive Rebound.
+Harvard,Memphis,2,11,7,8,0,Foul on Kenyatta Smith
+Harvard,Memphis,2,11,7,10,0,Chris Crawford Turnover.
+Harvard,Memphis,2,11,7,12,0,Wesley Saunders Steal.
+Harvard,Memphis,2,11,7,14,0,Foul on Tarik Black
+Harvard,Memphis,5,11,7,27,1,Christian Webster made Three Point Jumper.  Assisted by Kenyatta Smith.
+Harvard,Memphis,5,11,7,47,0,Tarik Black missed Jumper.
+Harvard,Memphis,5,11,7,47,0,Kenyatta Smith Block.
+Harvard,Memphis,5,11,7,49,0,D.J. Stephens Offensive Rebound.
+Harvard,Memphis,5,11,8,5,0,Joe Jackson missed Jumper.
+Harvard,Memphis,5,11,8,5,0,Kenyatta Smith Defensive Rebound.
+Harvard,Memphis,5,11,8,17,0,Christian Webster Turnover.
+Harvard,Memphis,5,11,8,17,0,Official TV Timeout.
+Harvard,Memphis,5,11,8,41,0,Chris Crawford Turnover.
+Harvard,Memphis,5,11,8,42,0,Christian Webster Steal.
+Harvard,Memphis,5,11,8,47,0,Laurent Rivard Turnover.
+Harvard,Memphis,5,11,9,2,0,Tarik Black missed Layup.
+Harvard,Memphis,5,11,9,2,0,Shaq Goodwin Offensive Rebound.
+Harvard,Memphis,5,11,9,5,0,Shaq Goodwin missed Layup.
+Harvard,Memphis,5,11,9,5,0,Tarik Black Offensive Rebound.
+Harvard,Memphis,5,11,9,8,0,Tarik Black missed Layup.
+Harvard,Memphis,5,11,9,9,0,Kenyatta Smith Block.
+Harvard,Memphis,5,11,9,10,0,Adonis Thomas Offensive Rebound.
+Harvard,Memphis,5,11,9,11,0,Adonis Thomas missed Layup.
+Harvard,Memphis,5,11,9,11,0,Wesley Saunders Defensive Rebound.
+Harvard,Memphis,5,11,9,23,0,Christian Webster missed Three Point Jumper.
+Harvard,Memphis,5,11,9,23,0,Shaq Goodwin Defensive Rebound.
+Harvard,Memphis,5,11,9,35,0,Joe Jackson missed Jumper.
+Harvard,Memphis,5,11,9,35,0,Kenyatta Smith Defensive Rebound.
+Harvard,Memphis,5,11,9,39,0,Wesley Saunders missed Layup.
+Harvard,Memphis,5,11,9,39,0,Antonio Barton Defensive Rebound.
+Harvard,Memphis,5,11,10,12,0,Adonis Thomas missed Jumper.
+Harvard,Memphis,5,11,10,12,0,Tarik Black Offensive Rebound.
+Harvard,Memphis,5,13,10,15,1,Tarik Black made Dunk.
+Harvard,Memphis,5,13,10,40,0,Kenyatta Smith missed Layup.
+Harvard,Memphis,5,13,10,40,0,Tarik Black Defensive Rebound.
+Harvard,Memphis,5,15,11,5,1,Adonis Thomas made Jumper.
+Harvard,Memphis,5,15,11,24,0,Wesley Saunders Turnover.
+Harvard,Memphis,5,15,11,24,0,Adonis Thomas Steal.
+Harvard,Memphis,5,17,11,39,1,Shaq Goodwin made Layup.  Assisted by Antonio Barton.
+Harvard,Memphis,5,17,11,39,0,Foul on Steve Moundou-Missi
+Harvard,Memphis,5,17,11,39,0,Shaq Goodwin missed Free Throw.
+Harvard,Memphis,5,17,11,39,0,Agunwa Okolie Defensive Rebound.
+Harvard,Memphis,5,17,11,46,0,Siyani Chambers Turnover.
+Harvard,Memphis,5,17,11,46,0,Joe Jackson Steal.
+Harvard,Memphis,5,17,11,46,0,Foul on Siyani Chambers
+Harvard,Memphis,5,17,12,0,0,Adonis Thomas Turnover.
+Harvard,Memphis,5,17,12,2,0,Agunwa Okolie Steal.
+Harvard,Memphis,5,17,12,6,0,Laurent Rivard missed Three Point Jumper.
+Harvard,Memphis,5,17,12,6,0,Memphis Defensive Rebound.
+Harvard,Memphis,5,17,12,10,0,Official TV Timeout.
+Harvard,Memphis,5,17,12,34,0,Antonio Barton missed Three Point Jumper.
+Harvard,Memphis,5,17,12,34,0,Adonis Thomas Offensive Rebound.
+Harvard,Memphis,5,19,12,37,1,Adonis Thomas made Jumper.
+Harvard,Memphis,5,19,12,49,0,Wesley Saunders missed Layup.
+Harvard,Memphis,5,19,12,49,0,Shaq Goodwin Block.
+Harvard,Memphis,5,19,12,51,0,D.J. Stephens Defensive Rebound.
+Harvard,Memphis,5,19,13,1,0,Shaq Goodwin missed Jumper.
+Harvard,Memphis,5,19,13,1,0,Antonio Barton Offensive Rebound.
+Harvard,Memphis,5,21,13,11,1,D.J. Stephens made Dunk.  Assisted by Joe Jackson.
+Harvard,Memphis,5,21,13,14,0,Harvard Full Timeout.
+Harvard,Memphis,5,21,13,21,0,Foul on D.J. Stephens
+Harvard,Memphis,6,21,13,21,1,Steve Moundou-Missi made Free Throw.
+Harvard,Memphis,7,21,13,21,1,Steve Moundou-Missi made Free Throw.
+Harvard,Memphis,7,24,13,52,1,Joe Jackson made Three Point Jumper.  Assisted by Antonio Barton.
+Harvard,Memphis,7,24,14,2,0,Steve Moundou-Missi missed Layup.
+Harvard,Memphis,7,24,14,3,0,D.J. Stephens Block.
+Harvard,Memphis,7,24,14,4,0,Antonio Barton Defensive Rebound.
+Harvard,Memphis,7,24,14,7,0,Antonio Barton missed Jumper.
+Harvard,Memphis,7,24,14,7,0,Harvard Defensive Rebound.
+Harvard,Memphis,7,24,14,30,0,Siyani Chambers missed Three Point Jumper.
+Harvard,Memphis,7,24,14,30,0,D.J. Stephens Defensive Rebound.
+Harvard,Memphis,7,24,14,37,0,Foul on Christian Webster
+Harvard,Memphis,7,24,14,37,0,Adonis Thomas missed Free Throw.
+Harvard,Memphis,7,24,14,37,0,null
+Harvard,Memphis,7,25,14,37,1,Adonis Thomas made Free Throw.
+Harvard,Memphis,7,25,14,53,0,Wesley Saunders Turnover.
+Harvard,Memphis,7,25,14,53,0,Shaq Goodwin Steal.
+Harvard,Memphis,7,27,14,57,1,Joe Jackson made Layup.  Assisted by Shaq Goodwin.
+Harvard,Memphis,10,27,15,25,1,Laurent Rivard made Three Point Jumper.  Assisted by Steve Moundou-Missi.
+Harvard,Memphis,10,27,15,51,0,Adonis Thomas missed Jumper.
+Harvard,Memphis,10,27,15,51,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Memphis,10,27,16,0,0,Siyani Chambers missed Jumper.
+Harvard,Memphis,10,27,16,0,0,Shaq Goodwin Block.
+Harvard,Memphis,10,27,16,0,0,Christian Webster Offensive Rebound.
+Harvard,Memphis,10,27,16,2,0,Foul on Shaq Goodwin
+Harvard,Memphis,10,27,16,2,0,Official TV Timeout.
+Harvard,Memphis,11,27,16,2,1,Christian Webster made Free Throw.
+Harvard,Memphis,12,27,16,2,1,Christian Webster made Free Throw.
+Harvard,Memphis,12,29,16,22,1,D.J. Stephens made Dunk.  Assisted by Chris Crawford.
+Harvard,Memphis,14,29,16,31,1,Steve Moundou-Missi made Layup.  Assisted by Siyani Chambers.
+Harvard,Memphis,14,32,16,43,1,Chris Crawford made Three Point Jumper.  Assisted by Antonio Barton.
+Harvard,Memphis,14,32,17,9,0,Siyani Chambers Turnover.
+Harvard,Memphis,14,32,17,23,0,D.J. Stephens missed Jumper.
+Harvard,Memphis,14,32,17,23,0,Agunwa Okolie Defensive Rebound.
+Harvard,Memphis,16,32,17,56,1,Wesley Saunders made Jumper.
+Harvard,Memphis,16,32,18,14,0,Joe Jackson missed Jumper.
+Harvard,Memphis,16,32,18,14,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Memphis,16,32,18,46,0,Siyani Chambers missed Jumper.
+Harvard,Memphis,16,32,18,46,0,Chris Crawford Defensive Rebound.
+Harvard,Memphis,16,32,18,53,0,Joe Jackson Turnover.
+Harvard,Memphis,16,32,18,54,0,Wesley Saunders Steal.
+Harvard,Memphis,16,32,18,59,0,Siyani Chambers Turnover.
+Harvard,Memphis,16,32,18,59,0,Chris Crawford Steal.
+Harvard,Memphis,16,32,18,59,0,Foul on Laurent Rivard
+Harvard,Memphis,16,32,18,59,0,Tarik Black missed Free Throw.
+Harvard,Memphis,16,32,18,59,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Memphis,16,32,19,1,0,Foul on Tarik Black
+Harvard,Memphis,16,32,19,1,0,Steve Moundou-Missi missed Free Throw.
+Harvard,Memphis,16,32,19,1,0,D.J. Stephens Defensive Rebound.
+Harvard,Memphis,16,32,19,9,0,Joe Jackson missed Jumper.
+Harvard,Memphis,16,32,19,9,0,Agunwa Okolie Defensive Rebound.
+Harvard,Memphis,16,32,19,23,0,Foul on Wesley Saunders
+Harvard,Memphis,16,32,19,23,0,Wesley Saunders Turnover.
+Harvard,Memphis,16,32,19,57,0,Shaq Goodwin missed Jumper.
+Harvard,Memphis,16,32,19,57,0,Siyani Chambers Defensive Rebound.
+Harvard,Memphis,16,32,20,0,0,End of the 1st Half.
+Harvard,Memphis,16,32,20,11,0,Jonah Travis missed Layup.
+Harvard,Memphis,16,32,20,11,0,D.J. Stephens Block.
+Harvard,Memphis,16,32,20,13,0,Adonis Thomas Defensive Rebound.
+Harvard,Memphis,16,34,20,19,1,Geron Johnson made Layup.  Assisted by Joe Jackson.
+Harvard,Memphis,16,34,20,25,0,Siyani Chambers Turnover.
+Harvard,Memphis,16,34,20,27,0,Shaq Goodwin Steal.
+Harvard,Memphis,16,36,20,29,1,Adonis Thomas made Layup.  Assisted by Shaq Goodwin.
+Harvard,Memphis,16,36,20,56,0,Wesley Saunders missed Jumper.
+Harvard,Memphis,16,36,20,56,0,Shaq Goodwin Defensive Rebound.
+Harvard,Memphis,16,36,21,3,0,Shaq Goodwin Turnover.
+Harvard,Memphis,16,36,21,4,0,Jonah Travis Steal.
+Harvard,Memphis,18,36,21,12,1,Jonah Travis made Layup.  Assisted by Wesley Saunders.
+Harvard,Memphis,18,36,21,30,0,Shaq Goodwin Turnover.
+Harvard,Memphis,20,36,21,49,1,Jonah Travis made Jumper.  Assisted by Siyani Chambers.
+Harvard,Memphis,20,36,22,10,0,Joe Jackson Turnover.
+Harvard,Memphis,20,36,22,11,0,Siyani Chambers Steal.
+Harvard,Memphis,22,36,22,15,1,Jonah Travis made Layup.  Assisted by Siyani Chambers.
+Harvard,Memphis,22,36,22,33,0,Shaq Goodwin Turnover.
+Harvard,Memphis,22,36,22,34,0,Laurent Rivard Steal.
+Harvard,Memphis,22,36,22,37,0,Laurent Rivard missed Three Point Jumper.
+Harvard,Memphis,22,36,22,37,0,Harvard Offensive Rebound.
+Harvard,Memphis,22,36,23,4,0,Siyani Chambers missed Three Point Jumper.
+Harvard,Memphis,22,36,23,4,0,Adonis Thomas Defensive Rebound.
+Harvard,Memphis,22,36,23,15,0,Foul on Jonah Travis
+Harvard,Memphis,22,36,23,21,0,Joe Jackson Turnover.
+Harvard,Memphis,22,36,23,41,0,Wesley Saunders Turnover.
+Harvard,Memphis,22,36,23,42,0,Chris Crawford Steal.
+Harvard,Memphis,22,36,23,43,0,Chris Crawford missed Layup.
+Harvard,Memphis,22,36,23,43,0,Chris Crawford Offensive Rebound.
+Harvard,Memphis,22,36,23,45,0,Chris Crawford missed Layup.
+Harvard,Memphis,22,36,23,45,0,Laurent Rivard Defensive Rebound.
+Harvard,Memphis,24,36,23,52,1,Siyani Chambers made Jumper.
+Harvard,Memphis,24,36,24,1,0,Chris Crawford Turnover.
+Harvard,Memphis,24,36,24,2,0,Wesley Saunders Steal.
+Harvard,Memphis,24,36,24,6,0,Laurent Rivard missed Three Point Jumper.
+Harvard,Memphis,24,36,24,6,0,Antonio Barton Defensive Rebound.
+Harvard,Memphis,24,36,24,13,0,Chris Crawford missed Jumper.
+Harvard,Memphis,24,36,24,13,0,Kenyatta Smith Defensive Rebound.
+Harvard,Memphis,27,36,24,25,1,Wesley Saunders made Three Point Jumper.  Assisted by Christian Webster.
+Harvard,Memphis,27,36,24,28,0,Memphis Full Timeout.
+Harvard,Memphis,27,36,24,52,0,Foul on Siyani Chambers
+Harvard,Memphis,27,36,24,52,0,Official TV Timeout.
+Harvard,Memphis,27,36,25,6,0,Shaq Goodwin missed Layup.
+Harvard,Memphis,27,36,25,6,0,Wesley Saunders Defensive Rebound.
+Harvard,Memphis,29,36,25,26,1,Wesley Saunders made Layup.
+Harvard,Memphis,29,38,25,36,1,Joe Jackson made Layup.
+Harvard,Memphis,29,38,25,36,0,Foul on Kenyatta Smith
+Harvard,Memphis,29,39,25,36,1,Joe Jackson made Free Throw.
+Harvard,Memphis,31,39,26,1,1,Kenyatta Smith made Jumper.  Assisted by Christian Webster.
+Harvard,Memphis,31,39,26,24,0,Damien Wilson missed Jumper.
+Harvard,Memphis,31,39,26,24,0,Shaq Goodwin Offensive Rebound.
+Harvard,Memphis,31,39,26,24,0,Foul on Laurent Rivard
+Harvard,Memphis,31,40,26,24,1,Shaq Goodwin made Free Throw.
+Harvard,Memphis,31,40,26,24,0,Shaq Goodwin missed Free Throw.
+Harvard,Memphis,31,40,26,24,0,Laurent Rivard Defensive Rebound.
+Harvard,Memphis,31,40,26,29,0,Steve Moundou-Missi missed Layup.
+Harvard,Memphis,31,40,26,29,0,Shaq Goodwin Block.
+Harvard,Memphis,31,40,26,31,0,D.J. Stephens Defensive Rebound.
+Harvard,Memphis,31,40,26,39,0,Foul on Shaq Goodwin
+Harvard,Memphis,31,40,26,39,0,Shaq Goodwin Turnover.
+Harvard,Memphis,31,40,26,56,0,Steve Moundou-Missi missed Jumper.
+Harvard,Memphis,31,40,26,56,0,Adonis Thomas Defensive Rebound.
+Harvard,Memphis,31,40,27,4,0,Foul on Steve Moundou-Missi
+Harvard,Memphis,31,40,27,7,0,Tarik Black Turnover.
+Harvard,Memphis,31,40,27,17,0,Agunwa Okolie missed Jumper.
+Harvard,Memphis,31,40,27,17,0,Tarik Black Defensive Rebound.
+Harvard,Memphis,31,40,27,50,0,D.J. Stephens missed Three Point Jumper.
+Harvard,Memphis,31,40,27,50,0,Wesley Saunders Defensive Rebound.
+Harvard,Memphis,33,40,28,24,1,Wesley Saunders made Layup.  Assisted by Agunwa Okolie.
+Harvard,Memphis,33,40,28,43,0,D.J. Stephens missed Layup.
+Harvard,Memphis,33,40,28,43,0,Steve Moundou-Missi Block.
+Harvard,Memphis,33,40,28,45,0,Memphis Offensive Rebound.
+Harvard,Memphis,33,40,28,46,0,Official TV Timeout.
+Harvard,Memphis,33,40,29,3,0,Shaq Goodwin missed Layup.
+Harvard,Memphis,33,40,29,3,0,D.J. Stephens Offensive Rebound.
+Harvard,Memphis,33,42,29,8,1,D.J. Stephens made Dunk.
+Harvard,Memphis,33,42,29,32,0,Wesley Saunders Turnover.
+Harvard,Memphis,33,42,29,34,0,Joe Jackson Steal.
+Harvard,Memphis,33,42,29,36,0,D.J. Stephens missed Layup.
+Harvard,Memphis,33,42,29,36,0,Shaq Goodwin Offensive Rebound.
+Harvard,Memphis,33,44,29,39,1,Shaq Goodwin made Dunk.
+Harvard,Memphis,33,44,29,41,0,Harvard Full Timeout.
+Harvard,Memphis,35,44,30,1,1,Steve Moundou-Missi made Layup.  Assisted by Siyani Chambers.
+Harvard,Memphis,35,44,30,33,0,Adonis Thomas missed Jumper.
+Harvard,Memphis,35,44,30,33,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Memphis,38,44,30,40,1,Laurent Rivard made Three Point Jumper.  Assisted by Siyani Chambers.
+Harvard,Memphis,38,44,30,57,0,Foul on Siyani Chambers
+Harvard,Memphis,38,44,30,57,0,Joe Jackson missed Free Throw.
+Harvard,Memphis,38,44,30,57,0,null
+Harvard,Memphis,38,44,30,57,0,Joe Jackson missed Free Throw.
+Harvard,Memphis,38,44,30,57,0,null
+Harvard,Memphis,38,44,30,58,0,Foul on Shaq Goodwin
+Harvard,Memphis,38,44,30,58,0,Technical Foul on Shaq Goodwin
+Harvard,Memphis,38,44,30,58,0,Foul on Shaq Goodwin
+Harvard,Memphis,39,44,30,58,1,Laurent Rivard made Free Throw.
+Harvard,Memphis,40,44,30,58,1,Laurent Rivard made Free Throw.
+Harvard,Memphis,40,44,31,14,0,Wesley Saunders missed Layup.
+Harvard,Memphis,40,44,31,14,0,Wesley Saunders Offensive Rebound.
+Harvard,Memphis,40,44,31,18,0,Foul on D.J. Stephens
+Harvard,Memphis,41,44,31,18,1,Wesley Saunders made Free Throw.
+Harvard,Memphis,42,44,31,18,1,Wesley Saunders made Free Throw.
+Harvard,Memphis,42,44,31,39,0,Geron Johnson Turnover.
+Harvard,Memphis,42,44,31,40,0,Agunwa Okolie Steal.
+Harvard,Memphis,42,44,31,49,0,Foul on Geron Johnson
+Harvard,Memphis,44,44,32,2,1,Siyani Chambers made Layup.
+Harvard,Memphis,44,44,32,8,0,Memphis Full Timeout.
+Harvard,Memphis,44,44,32,25,0,Chris Crawford missed Jumper.
+Harvard,Memphis,44,44,32,25,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Memphis,46,44,32,53,1,Steve Moundou-Missi made Dunk.  Assisted by Siyani Chambers.
+Harvard,Memphis,46,44,33,17,0,Adonis Thomas missed Jumper.
+Harvard,Memphis,46,44,33,17,0,D.J. Stephens Offensive Rebound.
+Harvard,Memphis,46,46,33,20,1,D.J. Stephens made Dunk.
+Harvard,Memphis,46,46,33,29,0,Steve Moundou-Missi missed Jumper.
+Harvard,Memphis,46,46,33,29,0,D.J. Stephens Block.
+Harvard,Memphis,46,46,33,30,0,Geron Johnson Defensive Rebound.
+Harvard,Memphis,46,48,33,33,1,Chris Crawford made Layup.  Assisted by Geron Johnson.
+Harvard,Memphis,46,48,34,2,0,Foul on Adonis Thomas
+Harvard,Memphis,46,48,34,2,0,Official TV Timeout.
+Harvard,Memphis,47,48,34,2,1,Steve Moundou-Missi made Free Throw.
+Harvard,Memphis,48,48,34,2,1,Steve Moundou-Missi made Free Throw.
+Harvard,Memphis,48,48,34,12,0,Foul on Siyani Chambers
+Harvard,Memphis,48,48,34,12,0,Joe Jackson missed Free Throw.
+Harvard,Memphis,48,48,34,12,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Memphis,48,48,34,43,0,Wesley Saunders missed Jumper.
+Harvard,Memphis,48,48,34,43,0,Geron Johnson Defensive Rebound.
+Harvard,Memphis,48,50,34,48,1,Joe Jackson made Layup.  Assisted by Geron Johnson.
+Harvard,Memphis,48,50,35,29,0,Wesley Saunders Turnover.
+Harvard,Memphis,48,50,35,55,0,Geron Johnson missed Jumper.
+Harvard,Memphis,48,50,35,55,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Memphis,48,50,36,20,0,Harvard Full Timeout.
+Harvard,Memphis,48,50,36,28,0,Wesley Saunders Turnover.
+Harvard,Memphis,48,50,36,29,0,Geron Johnson Steal.
+Harvard,Memphis,48,52,36,31,1,Chris Crawford made Dunk.  Assisted by Geron Johnson.
+Harvard,Memphis,48,52,37,8,0,Laurent Rivard missed Three Point Jumper.
+Harvard,Memphis,48,52,37,8,0,Adonis Thomas Defensive Rebound.
+Harvard,Memphis,48,52,37,40,0,Joe Jackson Turnover.
+Harvard,Memphis,48,52,37,40,0,Official TV Timeout.
+Harvard,Memphis,48,52,38,13,0,Siyani Chambers missed Jumper.
+Harvard,Memphis,48,52,38,13,0,Geron Johnson Block.
+Harvard,Memphis,48,52,38,15,0,Chris Crawford Defensive Rebound.
+Harvard,Memphis,48,52,38,18,0,Foul on Laurent Rivard
+Harvard,Memphis,48,53,38,18,1,Chris Crawford made Free Throw.
+Harvard,Memphis,48,54,38,18,1,Chris Crawford made Free Throw.
+Harvard,Memphis,50,54,38,31,1,Christian Webster made Jumper.  Assisted by Siyani Chambers.
+Harvard,Memphis,50,54,38,32,0,Harvard Full Timeout.
+Harvard,Memphis,50,54,38,50,0,Geron Johnson missed Jumper.
+Harvard,Memphis,50,54,38,50,0,Memphis Offensive Rebound.
+Harvard,Memphis,50,56,39,22,1,Chris Crawford made Jumper.
+Harvard,Memphis,50,56,39,37,0,Steve Moundou-Missi missed Jumper.
+Harvard,Memphis,50,56,39,37,0,null
+Harvard,Memphis,50,56,39,41,0,Foul on Christian Webster
+Harvard,Memphis,50,57,39,41,1,D.J. Stephens made Free Throw.
+Harvard,Memphis,50,58,39,41,1,D.J. Stephens made Free Throw.
+Harvard,Memphis,50,58,39,49,0,Siyani Chambers missed Three Point Jumper.
+Harvard,Memphis,50,58,39,49,0,Chris Crawford Defensive Rebound.
+Harvard,Memphis,50,60,39,54,1,Chris Crawford made Dunk.
+Harvard,Memphis,50,60,40,0,0,Christian Webster missed Three Point Jumper.
+Harvard,Memphis,50,60,40,0,0,null
+Harvard,Memphis,50,60,40,0,0,End of the 2nd Half.
+Harvard,Memphis,50,60,40,0,0,End Game

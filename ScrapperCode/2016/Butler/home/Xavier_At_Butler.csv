@@ -1,0 +1,295 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Xavier,Butler,0,0,0,0,0,Jump Ball won by Butler
+Xavier,Butler,0,0,0,16,0,Andrew Chrabascz missed Jumper.
+Xavier,Butler,0,0,0,16,0,Tyler Wideman Offensive Rebound.
+Xavier,Butler,0,2,0,22,1,Tyler Wideman made Layup.
+Xavier,Butler,2,2,0,47,1,Jalen Reynolds made Layup.
+Xavier,Butler,2,4,1,12,1,Roosevelt Jones made Layup.
+Xavier,Butler,4,4,1,38,1,Trevon Bluiett made Jumper.
+Xavier,Butler,4,6,2,8,1,Andrew Chrabascz made Layup.
+Xavier,Butler,4,6,2,13,0,Myles Davis Turnover.
+Xavier,Butler,4,6,2,13,0,Kellen Dunham Steal.
+Xavier,Butler,4,6,2,22,0,Kellen Dunham Turnover.
+Xavier,Butler,4,6,2,22,0,Trevon Bluiett Steal.
+Xavier,Butler,4,6,2,28,0,Trevon Bluiett missed Layup.
+Xavier,Butler,4,6,2,28,0,Roosevelt Jones Defensive Rebound.
+Xavier,Butler,4,6,2,36,0,Kelan Martin missed Jumper.
+Xavier,Butler,4,6,2,36,0,Kelan Martin Offensive Rebound.
+Xavier,Butler,4,8,2,41,1,Kelan Martin made Layup.
+Xavier,Butler,4,8,3,3,0,Foul on Jalen Reynolds.
+Xavier,Butler,4,8,3,3,0,Jalen Reynolds Turnover.
+Xavier,Butler,4,8,3,15,0,Roosevelt Jones missed Jumper.
+Xavier,Butler,4,8,3,15,0,Myles Davis Defensive Rebound.
+Xavier,Butler,7,8,3,24,1,Myles Davis made Three Point Jumper. Assisted by Trevon Bluiett.
+Xavier,Butler,7,10,3,46,1,Andrew Chrabascz made Jumper.
+Xavier,Butler,10,10,4,4,1,J.P. Macura made Three Point Jumper. Assisted by James Farr.
+Xavier,Butler,10,12,4,30,1,Roosevelt Jones made Layup.
+Xavier,Butler,10,12,4,55,0,James Farr Turnover.
+Xavier,Butler,10,12,4,55,0,Official TV Timeout
+Xavier,Butler,10,12,5,9,0,Foul on Myles Davis.
+Xavier,Butler,10,12,5,10,0,Kelan Martin missed Jumper.
+Xavier,Butler,10,12,5,10,0,Edmond Sumner Block.
+Xavier,Butler,10,12,5,10,0,Jalen Reynolds Defensive Rebound.
+Xavier,Butler,13,12,5,17,1,Myles Davis made Three Point Jumper. Assisted by J.P. Macura.
+Xavier,Butler,13,12,5,43,0,Kelan Martin missed Three Point Jumper.
+Xavier,Butler,13,12,5,43,0,Trevon Bluiett Defensive Rebound.
+Xavier,Butler,13,12,5,59,0,Jalen Reynolds missed Jumper.
+Xavier,Butler,13,12,5,59,0,Butler Deadball Team Rebound.
+Xavier,Butler,13,12,6,5,0,Foul on Jalen Reynolds.
+Xavier,Butler,13,12,6,14,0,Andrew Chrabascz Turnover.
+Xavier,Butler,13,12,6,20,0,J.P. Macura missed Layup.
+Xavier,Butler,13,12,6,20,0,Roosevelt Jones Defensive Rebound.
+Xavier,Butler,13,12,6,28,0,Kellen Dunham missed Jumper.
+Xavier,Butler,13,12,6,28,0,Kelan Martin Offensive Rebound.
+Xavier,Butler,13,12,6,33,0,Kelan Martin missed Layup.
+Xavier,Butler,13,12,6,33,0,Xavier Defensive Rebound.
+Xavier,Butler,13,12,7,1,0,Foul on Myles Davis.
+Xavier,Butler,13,12,7,1,0,Myles Davis Turnover.
+Xavier,Butler,13,14,7,14,1,Kelan Martin made Layup. Assisted by Roosevelt Jones.
+Xavier,Butler,13,14,7,14,0,Foul on James Farr.
+Xavier,Butler,13,15,7,14,1,Kelan Martin made Free Throw.
+Xavier,Butler,13,15,7,26,0,J.P. Macura missed Three Point Jumper.
+Xavier,Butler,13,15,7,26,0,Kellen Dunham Defensive Rebound.
+Xavier,Butler,13,15,7,44,0,Kelan Martin missed Jumper.
+Xavier,Butler,13,15,7,44,0,Austin Etherington Offensive Rebound.
+Xavier,Butler,13,15,7,52,0,Foul on Edmond Sumner.
+Xavier,Butler,13,18,7,53,1,Andrew Chrabascz made Three Point Jumper. Assisted by Kellen Dunham.
+Xavier,Butler,13,18,8,10,0,Sean O'Mara missed Jumper.
+Xavier,Butler,13,18,8,10,0,Kelan Martin Defensive Rebound.
+Xavier,Butler,13,18,8,20,0,Austin Etherington missed Three Point Jumper.
+Xavier,Butler,13,18,8,20,0,Kelan Martin Offensive Rebound.
+Xavier,Butler,13,21,8,34,1,Kellen Dunham made Three Point Jumper. Assisted by Austin Etherington.
+Xavier,Butler,16,21,8,49,1,Remy Abell made Three Point Jumper.
+Xavier,Butler,16,21,9,2,0,Kellen Dunham missed Three Point Jumper.
+Xavier,Butler,16,21,9,2,0,J.P. Macura Defensive Rebound.
+Xavier,Butler,18,21,9,12,1,Sean O'Mara made Jumper. Assisted by J.P. Macura.
+Xavier,Butler,18,21,9,27,0,Andrew Chrabascz missed Layup.
+Xavier,Butler,18,21,9,27,0,Kelan Martin Offensive Rebound.
+Xavier,Butler,18,21,9,33,0,Foul on Sean O'Mara.
+Xavier,Butler,18,21,9,33,0,Official TV Timeout
+Xavier,Butler,18,22,9,33,1,Kelan Martin made Free Throw.
+Xavier,Butler,18,23,9,33,1,Kelan Martin made Free Throw.
+Xavier,Butler,21,23,9,43,1,J.P. Macura made Three Point Jumper. Assisted by Edmond Sumner.
+Xavier,Butler,21,23,10,1,0,Roosevelt Jones missed Jumper.
+Xavier,Butler,21,23,10,1,0,Sean O'Mara Defensive Rebound.
+Xavier,Butler,21,23,10,7,0,Foul on Tyler Wideman.
+Xavier,Butler,23,23,10,20,1,Sean O'Mara made Layup.
+Xavier,Butler,23,23,10,54,0,Roosevelt Jones missed Jumper.
+Xavier,Butler,23,23,10,54,0,Trevon Bluiett Defensive Rebound.
+Xavier,Butler,23,23,11,6,0,J.P. Macura missed Three Point Jumper.
+Xavier,Butler,23,23,11,6,0,Tyler Wideman Defensive Rebound.
+Xavier,Butler,23,25,11,24,1,Kelan Martin made Jumper.
+Xavier,Butler,23,25,11,44,0,Foul on Roosevelt Jones.
+Xavier,Butler,25,25,11,51,1,Edmond Sumner made Layup.
+Xavier,Butler,25,25,12,21,0,Andrew Chrabascz missed Layup.
+Xavier,Butler,25,25,12,21,0,Sean O'Mara Defensive Rebound.
+Xavier,Butler,27,25,12,36,1,J.P. Macura made Layup. Assisted by Edmond Sumner.
+Xavier,Butler,27,25,13,7,0,Kellen Dunham Turnover.
+Xavier,Butler,27,25,13,7,0,Official TV Timeout
+Xavier,Butler,27,25,13,28,0,Remy Abell missed Three Point Jumper.
+Xavier,Butler,27,25,13,28,0,Butler Defensive Rebound.
+Xavier,Butler,27,25,13,53,0,Tyler Wideman missed Layup.
+Xavier,Butler,27,25,13,53,0,James Farr Defensive Rebound.
+Xavier,Butler,29,25,14,14,1,Remy Abell made Layup.
+Xavier,Butler,29,25,14,41,0,Kelan Martin missed Three Point Jumper.
+Xavier,Butler,29,25,14,41,0,James Farr Defensive Rebound.
+Xavier,Butler,29,25,14,50,0,Remy Abell missed Layup.
+Xavier,Butler,29,25,14,50,0,Andrew Chrabascz Block.
+Xavier,Butler,29,25,14,50,0,Roosevelt Jones Defensive Rebound.
+Xavier,Butler,29,25,14,59,0,Kelan Martin missed Jumper.
+Xavier,Butler,29,25,14,59,0,James Farr Defensive Rebound.
+Xavier,Butler,32,25,15,6,1,Kaiser Gates made Three Point Jumper. Assisted by Larry Austin Jr..
+Xavier,Butler,32,25,15,14,0,Butler  Timeout
+Xavier,Butler,32,25,15,27,0,Roosevelt Jones missed Jumper.
+Xavier,Butler,32,25,15,27,0,Xavier Defensive Rebound.
+Xavier,Butler,32,25,15,54,0,James Farr Turnover.
+Xavier,Butler,32,25,16,6,0,Kellen Dunham Turnover.
+Xavier,Butler,32,25,16,8,0,Official TV Timeout
+Xavier,Butler,35,25,16,18,1,Trevon Bluiett made Three Point Jumper. Assisted by Larry Austin Jr..
+Xavier,Butler,35,27,16,43,1,Jackson Davis made Jumper. Assisted by Kelan Martin.
+Xavier,Butler,37,27,17,7,1,Remy Abell made Layup.
+Xavier,Butler,37,27,17,7,0,Foul on Kelan Martin.
+Xavier,Butler,38,27,17,7,1,Remy Abell made Free Throw.
+Xavier,Butler,38,27,17,20,0,Kelan Martin missed Jumper.
+Xavier,Butler,38,27,17,20,0,Edmond Sumner Block.
+Xavier,Butler,38,27,17,20,0,James Farr Defensive Rebound.
+Xavier,Butler,38,27,17,28,0,Larry Austin Jr. Turnover.
+Xavier,Butler,38,27,17,40,0,Kelan Martin missed Layup.
+Xavier,Butler,38,27,17,40,0,James Farr Block.
+Xavier,Butler,38,27,17,40,0,Edmond Sumner Defensive Rebound.
+Xavier,Butler,38,27,17,48,0,Edmond Sumner missed Jumper.
+Xavier,Butler,38,27,17,48,0,Kelan Martin Defensive Rebound.
+Xavier,Butler,38,27,18,6,0,Jackson Davis missed Layup.
+Xavier,Butler,38,27,18,6,0,James Farr Block.
+Xavier,Butler,38,27,18,6,0,Edmond Sumner Defensive Rebound.
+Xavier,Butler,40,27,18,12,1,Remy Abell made Layup. Assisted by Edmond Sumner.
+Xavier,Butler,40,27,18,39,0,Andrew Chrabascz missed Three Point Jumper.
+Xavier,Butler,40,27,18,39,0,Kelan Martin Offensive Rebound.
+Xavier,Butler,40,29,18,44,1,Kelan Martin made Layup.
+Xavier,Butler,40,29,18,54,0,Remy Abell Turnover.
+Xavier,Butler,40,29,19,13,0,Foul on Kaiser Gates.
+Xavier,Butler,40,29,19,13,0,Roosevelt Jones missed Free Throw.
+Xavier,Butler,40,29,19,13,0,James Farr Defensive Rebound.
+Xavier,Butler,40,29,19,21,0,Xavier  Timeout
+Xavier,Butler,40,29,19,37,0,Foul on Kelan Martin.
+Xavier,Butler,43,29,19,40,1,Myles Davis made Three Point Jumper.
+Xavier,Butler,43,29,19,56,0,Roosevelt Jones missed Layup.
+Xavier,Butler,43,29,19,56,0,Edmond Sumner Defensive Rebound.
+Xavier,Butler,43,29,20,0,0,End of 1st half
+Xavier,Butler,43,29,20,0,0,Jump Ball won by Xavier
+Xavier,Butler,43,29,20,9,0,Remy Abell missed Three Point Jumper.
+Xavier,Butler,43,29,20,9,0,Kelan Martin Defensive Rebound.
+Xavier,Butler,43,29,20,31,0,Kellen Dunham missed Jumper.
+Xavier,Butler,43,29,20,31,0,Trevon Bluiett Defensive Rebound.
+Xavier,Butler,43,29,20,39,0,Edmond Sumner missed Layup.
+Xavier,Butler,43,29,20,39,0,Tyler Wideman Block.
+Xavier,Butler,43,29,20,39,0,Kelan Martin Defensive Rebound.
+Xavier,Butler,43,29,20,48,0,Kelan Martin missed Jumper.
+Xavier,Butler,43,29,20,48,0,Myles Davis Defensive Rebound.
+Xavier,Butler,43,29,21,5,0,Foul on James Farr.
+Xavier,Butler,43,29,21,5,0,James Farr Turnover.
+Xavier,Butler,43,29,21,18,0,Andrew Chrabascz missed Jumper.
+Xavier,Butler,43,29,21,18,0,Roosevelt Jones Offensive Rebound.
+Xavier,Butler,43,32,21,25,1,Andrew Chrabascz made Three Point Jumper. Assisted by Roosevelt Jones.
+Xavier,Butler,43,32,21,45,0,Trevon Bluiett Turnover.
+Xavier,Butler,43,32,22,1,0,Roosevelt Jones Turnover.
+Xavier,Butler,43,32,22,1,0,Edmond Sumner Steal.
+Xavier,Butler,43,32,22,6,0,Foul on Roosevelt Jones.
+Xavier,Butler,45,32,22,17,1,Edmond Sumner made Jumper.
+Xavier,Butler,45,32,22,37,0,Kelan Martin missed Three Point Jumper.
+Xavier,Butler,45,32,22,37,0,Myles Davis Defensive Rebound.
+Xavier,Butler,45,32,22,43,0,Myles Davis Turnover.
+Xavier,Butler,45,32,22,43,0,Andrew Chrabascz Steal.
+Xavier,Butler,45,32,22,49,0,Andrew Chrabascz missed Jumper.
+Xavier,Butler,45,32,22,49,0,Roosevelt Jones Offensive Rebound.
+Xavier,Butler,45,32,22,49,0,Roosevelt Jones missed Layup.
+Xavier,Butler,45,32,22,49,0,James Farr Defensive Rebound.
+Xavier,Butler,45,32,23,7,0,Trevon Bluiett missed Three Point Jumper.
+Xavier,Butler,45,32,23,7,0,Roosevelt Jones Defensive Rebound.
+Xavier,Butler,45,32,23,7,0,Foul on Edmond Sumner.
+Xavier,Butler,45,32,23,17,0,Kellen Dunham missed Three Point Jumper.
+Xavier,Butler,45,32,23,17,0,Xavier Deadball Team Rebound.
+Xavier,Butler,45,32,23,21,0,Foul on Roosevelt Jones.
+Xavier,Butler,45,32,23,44,0,Foul on Kellen Dunham.
+Xavier,Butler,45,32,23,46,0,James Farr missed Layup.
+Xavier,Butler,45,32,23,46,0,James Farr Offensive Rebound.
+Xavier,Butler,45,32,23,49,0,James Farr missed Layup.
+Xavier,Butler,45,32,23,49,0,Butler Defensive Rebound.
+Xavier,Butler,45,32,24,6,0,Foul on Edmond Sumner.
+Xavier,Butler,45,32,24,6,0,Official TV Timeout
+Xavier,Butler,45,35,24,9,1,Kellen Dunham made Three Point Jumper.
+Xavier,Butler,45,35,24,38,0,J.P. Macura Turnover.
+Xavier,Butler,45,35,24,38,0,Kelan Martin Steal.
+Xavier,Butler,45,37,24,55,1,Kellen Dunham made Jumper.
+Xavier,Butler,47,37,25,13,1,Jalen Reynolds made Dunk.
+Xavier,Butler,47,37,25,27,0,Roosevelt Jones missed Layup.
+Xavier,Butler,47,37,25,27,0,Jalen Reynolds Defensive Rebound.
+Xavier,Butler,47,37,25,38,0,Myles Davis missed Layup.
+Xavier,Butler,47,37,25,38,0,Andrew Chrabascz Block.
+Xavier,Butler,47,37,25,38,0,Roosevelt Jones Defensive Rebound.
+Xavier,Butler,47,40,25,46,1,Jordan Gathers made Three Point Jumper. Assisted by Roosevelt Jones.
+Xavier,Butler,47,40,26,16,0,Foul on Andrew Chrabascz.
+Xavier,Butler,47,40,26,25,0,Foul on Kellen Dunham.
+Xavier,Butler,49,40,26,39,1,Remy Abell made Layup.
+Xavier,Butler,49,40,26,54,0,Kelan Martin missed Three Point Jumper.
+Xavier,Butler,49,40,26,54,0,Trevon Bluiett Defensive Rebound.
+Xavier,Butler,51,40,27,3,1,Jalen Reynolds made Dunk. Assisted by Myles Davis.
+Xavier,Butler,51,40,27,26,0,Foul on Remy Abell.
+Xavier,Butler,51,40,27,26,0,Kellen Dunham missed Free Throw.
+Xavier,Butler,51,40,27,26,0,Butler Deadball Team Rebound.
+Xavier,Butler,51,41,27,26,1,Kellen Dunham made Free Throw.
+Xavier,Butler,54,41,27,42,1,J.P. Macura made Three Point Jumper. Assisted by Larry Austin Jr..
+Xavier,Butler,54,41,27,54,0,Kellen Dunham Turnover.
+Xavier,Butler,54,41,27,54,0,Trevon Bluiett Steal.
+Xavier,Butler,56,41,27,59,1,Trevon Bluiett made Layup.
+Xavier,Butler,56,41,28,17,0,Foul on Jalen Reynolds.
+Xavier,Butler,56,41,28,17,0,Official TV Timeout
+Xavier,Butler,56,41,28,17,0,Roosevelt Jones missed Free Throw.
+Xavier,Butler,56,41,28,17,0,Butler Deadball Team Rebound.
+Xavier,Butler,56,42,28,17,1,Roosevelt Jones made Free Throw.
+Xavier,Butler,56,42,28,33,0,Foul on Jalen Reynolds.
+Xavier,Butler,56,42,28,33,0,Jalen Reynolds Turnover.
+Xavier,Butler,56,44,28,44,1,Andrew Chrabascz made Layup. Assisted by Roosevelt Jones.
+Xavier,Butler,56,44,29,2,0,Trevon Bluiett missed Jumper.
+Xavier,Butler,56,44,29,2,0,Roosevelt Jones Defensive Rebound.
+Xavier,Butler,56,44,29,9,0,Jordan Gathers missed Three Point Jumper.
+Xavier,Butler,56,44,29,9,0,Roosevelt Jones Offensive Rebound.
+Xavier,Butler,56,44,29,15,0,Jordan Gathers missed Three Point Jumper.
+Xavier,Butler,56,44,29,15,0,James Farr Defensive Rebound.
+Xavier,Butler,56,44,29,42,0,Foul on Larry Austin Jr..
+Xavier,Butler,56,44,29,42,0,Larry Austin Jr. Turnover.
+Xavier,Butler,56,46,30,5,1,Kelan Martin made Layup.
+Xavier,Butler,56,46,30,32,0,Foul on Tyler Wideman.
+Xavier,Butler,58,46,30,38,1,Kaiser Gates made Jumper.
+Xavier,Butler,58,46,30,47,0,Roosevelt Jones missed Jumper.
+Xavier,Butler,58,46,30,47,0,Kaiser Gates Defensive Rebound.
+Xavier,Butler,58,46,31,19,0,Edmond Sumner Turnover.
+Xavier,Butler,58,46,31,34,0,Andrew Chrabascz missed Layup.
+Xavier,Butler,58,46,31,34,0,Xavier Deadball Team Rebound.
+Xavier,Butler,58,46,31,39,0,Foul on Tyler Wideman.
+Xavier,Butler,59,46,31,39,1,Kaiser Gates made Free Throw.
+Xavier,Butler,60,46,31,39,1,Kaiser Gates made Free Throw.
+Xavier,Butler,60,46,31,56,0,Kellen Dunham missed Three Point Jumper.
+Xavier,Butler,60,46,31,56,0,James Farr Defensive Rebound.
+Xavier,Butler,60,46,32,3,0,Trevon Bluiett missed Jumper.
+Xavier,Butler,60,46,32,3,0,Kelan Martin Defensive Rebound.
+Xavier,Butler,60,46,32,11,0,Tyler Lewis missed Three Point Jumper.
+Xavier,Butler,60,46,32,11,0,James Farr Defensive Rebound.
+Xavier,Butler,60,46,32,42,0,James Farr missed Jumper.
+Xavier,Butler,60,46,32,42,0,Kelan Martin Defensive Rebound.
+Xavier,Butler,60,46,32,57,0,Kelan Martin missed Jumper.
+Xavier,Butler,60,46,32,57,0,James Farr Defensive Rebound.
+Xavier,Butler,62,46,33,18,1,Edmond Sumner made Jumper.
+Xavier,Butler,62,46,33,30,0,Butler  Timeout
+Xavier,Butler,62,46,33,39,0,Roosevelt Jones Turnover.
+Xavier,Butler,62,46,33,39,0,Edmond Sumner Steal.
+Xavier,Butler,62,46,33,43,0,Edmond Sumner Turnover.
+Xavier,Butler,62,46,33,43,0,Kellen Dunham Steal.
+Xavier,Butler,62,46,33,51,0,Andrew Chrabascz missed Three Point Jumper.
+Xavier,Butler,62,46,33,51,0,Remy Abell Defensive Rebound.
+Xavier,Butler,64,46,34,15,1,Trevon Bluiett made Jumper. Assisted by Remy Abell.
+Xavier,Butler,64,48,34,26,1,Kelan Martin made Jumper. Assisted by Tyler Lewis.
+Xavier,Butler,66,48,34,56,1,Edmond Sumner made Layup.
+Xavier,Butler,66,48,35,15,0,Tyler Lewis missed Jumper.
+Xavier,Butler,66,48,35,15,0,Roosevelt Jones Offensive Rebound.
+Xavier,Butler,66,48,35,22,0,Roosevelt Jones missed Jumper.
+Xavier,Butler,66,48,35,22,0,Kaiser Gates Block.
+Xavier,Butler,66,48,35,22,0,James Farr Defensive Rebound.
+Xavier,Butler,66,48,35,48,0,Trevon Bluiett missed Three Point Jumper.
+Xavier,Butler,66,48,35,48,0,Kaiser Gates Offensive Rebound.
+Xavier,Butler,66,48,36,17,0,Kaiser Gates missed Three Point Jumper.
+Xavier,Butler,66,48,36,17,0,Xavier Deadball Team Rebound.
+Xavier,Butler,66,48,36,22,0,Foul on Roosevelt Jones.
+Xavier,Butler,66,48,36,22,0,Official TV Timeout
+Xavier,Butler,66,48,36,22,0,Trevon Bluiett missed Free Throw.
+Xavier,Butler,66,48,36,22,0,Tyler Wideman Defensive Rebound.
+Xavier,Butler,66,51,36,28,1,Jordan Gathers made Three Point Jumper.
+Xavier,Butler,66,51,37,5,0,Foul on Kellen Dunham.
+Xavier,Butler,66,51,37,5,0,Official TV Timeout
+Xavier,Butler,67,51,37,5,1,Edmond Sumner made Free Throw.
+Xavier,Butler,68,51,37,5,1,Edmond Sumner made Free Throw.
+Xavier,Butler,68,51,37,15,0,Kelan Martin missed Jumper.
+Xavier,Butler,68,51,37,15,0,Edmond Sumner Defensive Rebound.
+Xavier,Butler,68,51,37,37,0,Trevon Bluiett missed Three Point Jumper.
+Xavier,Butler,68,51,37,37,0,Xavier Deadball Team Rebound.
+Xavier,Butler,68,51,37,37,0,Foul on Austin Etherington.
+Xavier,Butler,68,51,37,38,0,Kaiser Gates missed Free Throw.
+Xavier,Butler,68,51,37,38,0,Xavier Deadball Team Rebound.
+Xavier,Butler,68,51,37,38,0,Kaiser Gates missed Free Throw.
+Xavier,Butler,68,51,37,38,0,Kelan Martin Defensive Rebound.
+Xavier,Butler,68,51,37,41,0,Tyler Lewis Turnover.
+Xavier,Butler,68,51,37,41,0,Kaiser Gates Steal.
+Xavier,Butler,68,51,38,9,0,Trevon Bluiett missed Three Point Jumper.
+Xavier,Butler,68,51,38,9,0,Jordan Gathers Defensive Rebound.
+Xavier,Butler,68,54,38,17,1,Austin Etherington made Three Point Jumper. Assisted by Jordan Gathers.
+Xavier,Butler,68,54,39,7,0,Foul on Austin Etherington.
+Xavier,Butler,69,54,39,7,1,Edmond Sumner made Free Throw.
+Xavier,Butler,70,54,39,7,1,Edmond Sumner made Free Throw.
+Xavier,Butler,70,57,39,13,1,Tyler Lewis made Three Point Jumper. Assisted by Jordan Gathers.
+Xavier,Butler,72,57,39,47,1,Trevon Bluiett made Layup.
+Xavier,Butler,72,57,39,54,0,Austin Etherington Turnover.
+Xavier,Butler,72,57,39,54,0,J.P. Macura Steal.
+Xavier,Butler,74,57,39,57,1,J.P. Macura made Dunk.
+Xavier,Butler,74,57,39,57,0,Tyler Lewis missed Three Point Jumper.
+Xavier,Butler,74,57,39,57,0,J.P. Macura Defensive Rebound.
+Xavier,Butler,74,57,40,0,0,End of Game

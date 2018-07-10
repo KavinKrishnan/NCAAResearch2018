@@ -1,0 +1,310 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+SMU,Stanford,0,0,0,0,0,Jump Ball won by Stanford
+SMU,Stanford,0,0,0,25,0,Dorian Pickens missed Layup.
+SMU,Stanford,0,0,0,25,0,Sterling Brown Defensive Rebound.
+SMU,Stanford,0,0,0,33,0,Markus Kennedy missed Layup.
+SMU,Stanford,0,0,0,33,0,Dorian Pickens Defensive Rebound.
+SMU,Stanford,0,0,0,57,0,Reid Travis missed Jumper.
+SMU,Stanford,0,0,0,57,0,Sterling Brown Defensive Rebound.
+SMU,Stanford,0,0,1,18,0,Ben Moore missed Jumper.
+SMU,Stanford,0,0,1,18,0,Michael Humphrey Defensive Rebound.
+SMU,Stanford,0,2,1,31,1,Christian Sanders made Layup.
+SMU,Stanford,0,2,1,31,0,Foul on Markus Kennedy.
+SMU,Stanford,0,3,1,31,1,Christian Sanders made Free Throw.
+SMU,Stanford,0,3,1,38,0,Nic Moore missed Three Point Jumper.
+SMU,Stanford,0,3,1,38,0,Stanford Defensive Rebound.
+SMU,Stanford,0,3,2,2,0,Reid Travis Turnover.
+SMU,Stanford,2,3,2,20,1,Keith Frazier made Jumper. Assisted by Ben Moore.
+SMU,Stanford,2,6,2,35,1,Rosco Allen made Three Point Jumper. Assisted by Christian Sanders.
+SMU,Stanford,4,6,2,53,1,Sterling Brown made Layup.
+SMU,Stanford,4,6,3,10,0,Christian Sanders missed Jumper.
+SMU,Stanford,4,6,3,10,0,Dorian Pickens Offensive Rebound.
+SMU,Stanford,4,6,3,23,0,Dorian Pickens Turnover.
+SMU,Stanford,6,6,3,29,1,Sterling Brown made Jumper.
+SMU,Stanford,6,6,3,48,0,Dorian Pickens missed Jumper.
+SMU,Stanford,6,6,3,48,0,Jordan Tolbert Defensive Rebound.
+SMU,Stanford,6,6,4,13,0,Jump Ball won by SMU
+SMU,Stanford,6,6,4,13,0,Official TV Timeout
+SMU,Stanford,6,6,4,15,0,Nic Moore missed Jumper.
+SMU,Stanford,6,6,4,15,0,Christian Sanders Defensive Rebound.
+SMU,Stanford,6,8,4,22,1,Dorian Pickens made Layup. Assisted by Christian Sanders.
+SMU,Stanford,6,8,4,36,0,Keith Frazier missed Three Point Jumper.
+SMU,Stanford,6,8,4,36,0,Ben Moore Offensive Rebound.
+SMU,Stanford,6,8,4,45,0,Foul on Michael Humphrey.
+SMU,Stanford,6,8,4,45,0,Ben Moore missed Free Throw.
+SMU,Stanford,6,8,4,45,0,SMU Deadball Team Rebound.
+SMU,Stanford,7,8,4,45,1,Ben Moore made Free Throw.
+SMU,Stanford,7,8,5,5,0,Christian Sanders missed Jumper.
+SMU,Stanford,7,8,5,5,0,Michael Humphrey Offensive Rebound.
+SMU,Stanford,7,10,5,10,1,Michael Humphrey made Layup.
+SMU,Stanford,9,10,5,18,1,Jordan Tolbert made Layup. Assisted by Ben Moore.
+SMU,Stanford,9,10,5,49,0,Foul on Sterling Brown.
+SMU,Stanford,9,10,5,50,0,Dorian Pickens Turnover.
+SMU,Stanford,12,10,6,1,1,Nic Moore made Three Point Jumper. Assisted by Jordan Tolbert.
+SMU,Stanford,12,10,6,20,0,Foul on Markus Kennedy.
+SMU,Stanford,12,11,6,20,1,Michael Humphrey made Free Throw.
+SMU,Stanford,12,12,6,20,1,Michael Humphrey made Free Throw.
+SMU,Stanford,12,12,6,37,0,Ben Moore missed Jumper.
+SMU,Stanford,12,12,6,37,0,Josh Sharma Defensive Rebound.
+SMU,Stanford,12,12,6,54,0,Dorian Pickens missed Jumper.
+SMU,Stanford,12,12,6,54,0,Rosco Allen Offensive Rebound.
+SMU,Stanford,12,14,7,9,1,Reid Travis made Layup.
+SMU,Stanford,14,14,7,27,1,Jordan Tolbert made Dunk. Assisted by Nic Moore.
+SMU,Stanford,14,14,7,52,0,Reid Travis missed Layup.
+SMU,Stanford,14,14,7,52,0,Reid Travis Offensive Rebound.
+SMU,Stanford,14,14,8,3,0,Reid Travis missed Layup.
+SMU,Stanford,14,14,8,3,0,Josh Sharma Offensive Rebound.
+SMU,Stanford,14,14,8,3,0,Josh Sharma missed Two Point Tip Shot.
+SMU,Stanford,14,14,8,3,0,Marcus Allen Offensive Rebound.
+SMU,Stanford,14,16,8,3,1,Marcus Allen made Two Point Tip Shot.
+SMU,Stanford,16,16,8,29,1,Ben Moore made Jumper.
+SMU,Stanford,16,16,8,41,0,Foul on Shake Milton.
+SMU,Stanford,16,16,8,41,0,Official TV Timeout
+SMU,Stanford,16,16,8,55,0,Josh Sharma Turnover.
+SMU,Stanford,16,16,8,55,0,Jordan Tolbert Steal.
+SMU,Stanford,18,16,9,0,1,Ben Moore made Layup.
+SMU,Stanford,18,16,9,32,0,Rosco Allen Turnover.
+SMU,Stanford,18,16,9,32,0,Jarrey Foster Steal.
+SMU,Stanford,20,16,9,48,1,Ben Moore made Layup. Assisted by Nic Moore.
+SMU,Stanford,20,16,10,7,0,Jump Ball won by Stanford
+SMU,Stanford,20,16,10,16,0,Malcolm Allen missed Three Point Jumper.
+SMU,Stanford,20,16,10,16,0,Jordan Tolbert Defensive Rebound.
+SMU,Stanford,22,16,10,25,1,Ben Moore made Layup. Assisted by Jordan Tolbert.
+SMU,Stanford,22,16,10,25,0,Foul on Malcolm Allen.
+SMU,Stanford,23,16,10,25,1,Ben Moore made Free Throw.
+SMU,Stanford,23,18,10,39,1,Marcus Allen made Layup.
+SMU,Stanford,23,18,10,56,0,Ben Moore missed Layup.
+SMU,Stanford,23,18,10,56,0,Michael Humphrey Block.
+SMU,Stanford,23,18,10,56,0,Michael Humphrey Defensive Rebound.
+SMU,Stanford,23,18,11,7,0,Foul on Jordan Tolbert.
+SMU,Stanford,23,19,11,7,1,Marcus Allen made Free Throw.
+SMU,Stanford,23,19,11,7,0,Marcus Allen missed Free Throw.
+SMU,Stanford,23,19,11,7,0,SMU Defensive Rebound.
+SMU,Stanford,25,19,11,24,1,Ben Moore made Jumper.
+SMU,Stanford,25,19,11,40,0,Michael Humphrey Turnover.
+SMU,Stanford,27,19,12,4,1,Shake Milton made Jumper.
+SMU,Stanford,27,19,12,26,0,Rosco Allen missed Three Point Jumper.
+SMU,Stanford,27,19,12,26,0,Nic Moore Defensive Rebound.
+SMU,Stanford,27,19,12,27,0,Official TV Timeout
+SMU,Stanford,27,19,12,41,0,Jarrey Foster missed Jumper.
+SMU,Stanford,27,19,12,41,0,SMU Deadball Team Rebound.
+SMU,Stanford,27,19,12,47,0,Foul on Marcus Allen.
+SMU,Stanford,29,19,13,5,1,Jarrey Foster made Jumper.
+SMU,Stanford,29,19,13,40,0,Michael Humphrey Turnover.
+SMU,Stanford,31,19,13,47,1,Jordan Tolbert made Layup. Assisted by Jarrey Foster.
+SMU,Stanford,31,19,13,51,0,Stanford  Timeout
+SMU,Stanford,31,19,14,17,0,Reid Travis Turnover.
+SMU,Stanford,31,19,14,31,0,Sterling Brown missed Jumper.
+SMU,Stanford,31,19,14,31,0,Reid Travis Block.
+SMU,Stanford,31,19,14,31,0,SMU Offensive Rebound.
+SMU,Stanford,31,19,14,43,0,Ben Moore missed Jumper.
+SMU,Stanford,31,19,14,43,0,Sterling Brown Offensive Rebound.
+SMU,Stanford,31,19,14,48,0,Sterling Brown Turnover.
+SMU,Stanford,31,19,14,48,0,Rosco Allen Steal.
+SMU,Stanford,31,19,14,57,0,Foul on Shake Milton.
+SMU,Stanford,31,20,14,57,1,Marcus Allen made Free Throw.
+SMU,Stanford,31,20,14,57,0,Marcus Allen missed Free Throw.
+SMU,Stanford,31,20,14,57,0,Jordan Tolbert Defensive Rebound.
+SMU,Stanford,31,20,15,3,0,Ben Moore Turnover.
+SMU,Stanford,31,20,15,34,0,Stanford  Turnover.
+SMU,Stanford,31,20,15,45,0,Nic Moore missed Three Point Jumper.
+SMU,Stanford,31,20,15,45,0,Keith Frazier Offensive Rebound.
+SMU,Stanford,31,20,16,9,0,Jordan Tolbert missed Jumper.
+SMU,Stanford,31,20,16,9,0,Reid Travis Defensive Rebound.
+SMU,Stanford,31,20,16,17,0,Technical Foul on Sterling Brown.
+SMU,Stanford,31,20,16,17,0,Foul on Sterling Brown.
+SMU,Stanford,31,20,16,17,0,Official TV Timeout
+SMU,Stanford,31,21,16,17,1,Dorian Pickens made Free Throw.
+SMU,Stanford,31,22,16,17,1,Dorian Pickens made Free Throw.
+SMU,Stanford,31,25,16,28,1,Rosco Allen made Three Point Jumper. Assisted by Christian Sanders.
+SMU,Stanford,33,25,16,42,1,Keith Frazier made Layup. Assisted by Nic Moore.
+SMU,Stanford,33,25,16,55,0,Marcus Sheffield missed Three Point Jumper.
+SMU,Stanford,33,25,16,55,0,Dorian Pickens Offensive Rebound.
+SMU,Stanford,33,27,17,0,1,Rosco Allen made Layup. Assisted by Dorian Pickens.
+SMU,Stanford,33,27,17,18,0,Ben Moore missed Layup.
+SMU,Stanford,33,27,17,18,0,Jarrey Foster Offensive Rebound.
+SMU,Stanford,35,27,17,18,1,Jarrey Foster made Two Point Tip Shot.
+SMU,Stanford,35,27,17,50,0,Reid Travis Turnover.
+SMU,Stanford,35,27,17,50,0,Jordan Tolbert Steal.
+SMU,Stanford,37,27,18,5,1,Jordan Tolbert made Dunk. Assisted by Nic Moore.
+SMU,Stanford,37,29,18,16,1,Reid Travis made Layup.
+SMU,Stanford,37,29,18,42,0,SMU  Timeout
+SMU,Stanford,37,29,18,43,0,Ben Moore missed Jumper.
+SMU,Stanford,37,29,18,43,0,Michael Humphrey Defensive Rebound.
+SMU,Stanford,37,29,18,48,0,Foul on Ben Moore.
+SMU,Stanford,37,29,18,48,0,Michael Humphrey missed Free Throw.
+SMU,Stanford,37,29,18,48,0,Jordan Tolbert Defensive Rebound.
+SMU,Stanford,37,29,19,1,0,Keith Frazier missed Three Point Jumper.
+SMU,Stanford,37,29,19,1,0,SMU Offensive Rebound.
+SMU,Stanford,39,29,19,8,1,Keith Frazier made Layup.
+SMU,Stanford,39,31,19,30,1,Reid Travis made Layup. Assisted by Michael Humphrey.
+SMU,Stanford,39,31,19,52,0,Keith Frazier missed Jumper.
+SMU,Stanford,39,31,19,52,0,Michael Humphrey Block.
+SMU,Stanford,39,31,19,52,0,Michael Humphrey Defensive Rebound.
+SMU,Stanford,39,31,20,0,0,End of 1st half
+SMU,Stanford,39,31,20,0,0,Jump Ball won by Stanford
+SMU,Stanford,39,31,20,10,0,Foul on Keith Frazier.
+SMU,Stanford,39,31,20,18,0,Michael Humphrey missed Jumper.
+SMU,Stanford,39,31,20,18,0,Keith Frazier Defensive Rebound.
+SMU,Stanford,41,31,20,29,1,Ben Moore made Layup. Assisted by Markus Kennedy.
+SMU,Stanford,41,33,20,51,1,Michael Humphrey made Layup. Assisted by Rosco Allen.
+SMU,Stanford,41,33,21,4,0,Foul on Michael Humphrey.
+SMU,Stanford,43,33,21,11,1,Markus Kennedy made Dunk. Assisted by Ben Moore.
+SMU,Stanford,43,35,21,39,1,Michael Humphrey made Dunk. Assisted by Dorian Pickens.
+SMU,Stanford,43,35,21,57,0,Ben Moore missed Layup.
+SMU,Stanford,43,35,21,57,0,Michael Humphrey Defensive Rebound.
+SMU,Stanford,43,35,22,6,0,Christian Sanders Turnover.
+SMU,Stanford,43,35,22,6,0,Sterling Brown Steal.
+SMU,Stanford,43,35,22,21,0,Nic Moore missed Layup.
+SMU,Stanford,43,35,22,21,0,Michael Humphrey Block.
+SMU,Stanford,43,35,22,21,0,SMU Offensive Rebound.
+SMU,Stanford,43,35,22,29,0,Jump Ball won by SMU
+SMU,Stanford,45,35,22,32,1,Keith Frazier made Jumper.
+SMU,Stanford,45,35,22,43,0,Michael Humphrey Turnover.
+SMU,Stanford,45,35,22,43,0,Keith Frazier Steal.
+SMU,Stanford,45,35,22,57,0,Foul on Michael Humphrey.
+SMU,Stanford,47,35,23,2,1,Markus Kennedy made Layup. Assisted by Nic Moore.
+SMU,Stanford,47,35,23,25,0,Foul on Markus Kennedy.
+SMU,Stanford,47,36,23,25,1,Christian Sanders made Free Throw.
+SMU,Stanford,47,37,23,25,1,Christian Sanders made Free Throw.
+SMU,Stanford,47,37,23,36,0,Nic Moore missed Jumper.
+SMU,Stanford,47,37,23,36,0,Ben Moore Offensive Rebound.
+SMU,Stanford,49,37,23,52,1,Markus Kennedy made Layup. Assisted by Ben Moore.
+SMU,Stanford,49,37,24,15,0,Dorian Pickens missed Three Point Jumper.
+SMU,Stanford,49,37,24,15,0,Nic Moore Defensive Rebound.
+SMU,Stanford,51,37,24,25,1,Markus Kennedy made Jumper.
+SMU,Stanford,51,37,24,38,0,Christian Sanders missed Jumper.
+SMU,Stanford,51,37,24,38,0,Markus Kennedy Defensive Rebound.
+SMU,Stanford,51,37,25,2,0,Foul on Marcus Allen.
+SMU,Stanford,51,37,25,2,0,Official TV Timeout
+SMU,Stanford,54,37,25,11,1,Shake Milton made Three Point Jumper. Assisted by Keith Frazier.
+SMU,Stanford,54,37,25,31,0,Foul on Keith Frazier.
+SMU,Stanford,54,38,25,31,1,Marcus Allen made Free Throw.
+SMU,Stanford,54,38,25,31,0,Marcus Allen missed Free Throw.
+SMU,Stanford,54,38,25,31,0,SMU Defensive Rebound.
+SMU,Stanford,54,38,25,38,0,Keith Frazier Turnover.
+SMU,Stanford,54,38,25,38,0,Reid Travis Steal.
+SMU,Stanford,54,38,25,38,0,Jump Ball won by Stanford
+SMU,Stanford,54,38,25,44,0,Marcus Allen missed Three Point Jumper.
+SMU,Stanford,54,38,25,44,0,Jarrey Foster Defensive Rebound.
+SMU,Stanford,54,38,25,59,0,Foul on Reid Travis.
+SMU,Stanford,54,38,25,59,0,Jarrey Foster missed Free Throw.
+SMU,Stanford,54,38,25,59,0,SMU Deadball Team Rebound.
+SMU,Stanford,55,38,25,59,1,Jarrey Foster made Free Throw.
+SMU,Stanford,55,38,26,21,0,Rosco Allen missed Jumper.
+SMU,Stanford,55,38,26,21,0,Shake Milton Defensive Rebound.
+SMU,Stanford,58,38,26,37,1,Jarrey Foster made Three Point Jumper. Assisted by Markus Kennedy.
+SMU,Stanford,58,38,27,4,0,Foul on Ben Moore.
+SMU,Stanford,58,39,27,4,1,Michael Humphrey made Free Throw.
+SMU,Stanford,58,40,27,4,1,Michael Humphrey made Free Throw.
+SMU,Stanford,58,40,27,32,0,Nic Moore missed Three Point Jumper.
+SMU,Stanford,58,40,27,32,0,Ben Moore Offensive Rebound.
+SMU,Stanford,58,40,27,38,0,Foul on Rosco Allen.
+SMU,Stanford,58,40,27,48,0,Ben Moore missed Jumper.
+SMU,Stanford,58,40,27,48,0,Marcus Allen Defensive Rebound.
+SMU,Stanford,58,40,28,3,0,Foul on Ben Moore.
+SMU,Stanford,58,40,28,3,0,Official TV Timeout
+SMU,Stanford,58,40,28,3,0,Marcus Allen missed Free Throw.
+SMU,Stanford,58,40,28,3,0,Stanford Deadball Team Rebound.
+SMU,Stanford,58,41,28,3,1,Marcus Allen made Free Throw.
+SMU,Stanford,58,41,28,11,0,Jarrey Foster Turnover.
+SMU,Stanford,58,41,28,11,0,Michael Humphrey Steal.
+SMU,Stanford,58,41,28,18,0,Rosco Allen missed Jumper.
+SMU,Stanford,58,41,28,18,0,Rosco Allen Offensive Rebound.
+SMU,Stanford,58,43,28,23,1,Rosco Allen made Layup.
+SMU,Stanford,58,43,28,23,0,Foul on Jarrey Foster.
+SMU,Stanford,58,44,28,23,1,Rosco Allen made Free Throw.
+SMU,Stanford,58,44,28,30,0,Markus Kennedy Turnover.
+SMU,Stanford,58,44,28,30,0,Rosco Allen Steal.
+SMU,Stanford,58,44,28,36,0,Malcolm Allen missed Three Point Jumper.
+SMU,Stanford,58,44,28,36,0,Markus Kennedy Defensive Rebound.
+SMU,Stanford,58,44,28,58,0,Foul on Michael Humphrey.
+SMU,Stanford,58,44,28,59,0,Jordan Tolbert missed Layup.
+SMU,Stanford,58,44,28,59,0,Markus Kennedy Offensive Rebound.
+SMU,Stanford,60,44,29,9,1,Markus Kennedy made Layup.
+SMU,Stanford,60,46,29,19,1,Reid Travis made Jumper.
+SMU,Stanford,60,46,29,40,0,Sterling Brown Turnover.
+SMU,Stanford,60,46,29,40,0,Dorian Pickens Steal.
+SMU,Stanford,60,48,29,48,1,Malcolm Allen made Layup. Assisted by Dorian Pickens.
+SMU,Stanford,60,48,29,54,0,Foul on Malcolm Allen.
+SMU,Stanford,61,48,29,54,1,Nic Moore made Free Throw.
+SMU,Stanford,62,48,29,54,1,Nic Moore made Free Throw.
+SMU,Stanford,62,48,30,8,0,Dorian Pickens missed Three Point Jumper.
+SMU,Stanford,62,48,30,8,0,Marcus Allen Offensive Rebound.
+SMU,Stanford,62,48,30,24,0,Foul on Nic Moore.
+SMU,Stanford,62,49,30,24,1,Dorian Pickens made Free Throw.
+SMU,Stanford,62,50,30,24,1,Dorian Pickens made Free Throw.
+SMU,Stanford,64,50,30,44,1,Ben Moore made Layup. Assisted by Sterling Brown.
+SMU,Stanford,64,50,31,0,0,Foul on Nic Moore.
+SMU,Stanford,64,50,31,0,0,Malcolm Allen missed Free Throw.
+SMU,Stanford,64,50,31,0,0,Ben Moore Defensive Rebound.
+SMU,Stanford,64,50,31,13,0,Foul on Dorian Pickens.
+SMU,Stanford,65,50,31,13,1,Markus Kennedy made Free Throw.
+SMU,Stanford,65,50,31,13,0,Markus Kennedy missed Free Throw.
+SMU,Stanford,65,50,31,13,0,Reid Travis Defensive Rebound.
+SMU,Stanford,65,53,31,24,1,Rosco Allen made Three Point Jumper. Assisted by Marcus Allen.
+SMU,Stanford,65,53,31,50,0,Markus Kennedy missed Jumper.
+SMU,Stanford,65,53,31,50,0,Reid Travis Defensive Rebound.
+SMU,Stanford,65,53,31,56,0,Dorian Pickens missed Three Point Jumper.
+SMU,Stanford,65,53,31,56,0,SMU Defensive Rebound.
+SMU,Stanford,65,53,32,2,0,Official TV Timeout
+SMU,Stanford,65,53,32,25,0,Nic Moore missed Three Point Jumper.
+SMU,Stanford,65,53,32,25,0,Reid Travis Defensive Rebound.
+SMU,Stanford,65,53,32,56,0,Rosco Allen missed Three Point Jumper.
+SMU,Stanford,65,53,32,56,0,Markus Kennedy Block.
+SMU,Stanford,65,53,32,56,0,SMU Deadball Team Rebound.
+SMU,Stanford,65,53,33,32,0,SMU  Turnover.
+SMU,Stanford,65,53,33,41,0,Marcus Allen missed Jumper.
+SMU,Stanford,65,53,33,41,0,Ben Moore Defensive Rebound.
+SMU,Stanford,65,53,34,1,0,Keith Frazier missed Three Point Jumper.
+SMU,Stanford,65,53,34,1,0,Ben Moore Offensive Rebound.
+SMU,Stanford,68,53,34,17,1,Nic Moore made Three Point Jumper. Assisted by Shake Milton.
+SMU,Stanford,68,55,34,33,1,Reid Travis made Layup. Assisted by Rosco Allen.
+SMU,Stanford,68,55,34,33,0,Foul on Shake Milton.
+SMU,Stanford,68,55,34,33,0,Reid Travis missed Free Throw.
+SMU,Stanford,68,55,34,33,0,Ben Moore Defensive Rebound.
+SMU,Stanford,68,55,34,50,0,Foul on Reid Travis.
+SMU,Stanford,69,55,34,50,1,Nic Moore made Free Throw.
+SMU,Stanford,70,55,34,50,1,Nic Moore made Free Throw.
+SMU,Stanford,70,58,34,53,1,Marcus Allen made Three Point Jumper. Assisted by Christian Sanders.
+SMU,Stanford,72,58,35,15,1,Nic Moore made Jumper.
+SMU,Stanford,72,58,35,31,0,Foul on Jarrey Foster.
+SMU,Stanford,72,59,35,31,1,Marcus Allen made Free Throw.
+SMU,Stanford,72,60,35,31,1,Marcus Allen made Free Throw.
+SMU,Stanford,74,60,35,49,1,Nic Moore made Jumper.
+SMU,Stanford,74,62,36,5,1,Reid Travis made Jumper. Assisted by Dorian Pickens.
+SMU,Stanford,74,62,36,28,0,Nic Moore missed Three Point Jumper.
+SMU,Stanford,74,62,36,28,0,Reid Travis Defensive Rebound.
+SMU,Stanford,74,62,36,39,0,Foul on Markus Kennedy.
+SMU,Stanford,74,62,36,39,0,Official TV Timeout
+SMU,Stanford,74,63,36,39,1,Marcus Allen made Free Throw.
+SMU,Stanford,74,64,36,39,1,Marcus Allen made Free Throw.
+SMU,Stanford,74,64,36,44,0,Keith Frazier missed Dunk.
+SMU,Stanford,74,64,36,44,0,Nic Moore Offensive Rebound.
+SMU,Stanford,76,64,37,8,1,Jordan Tolbert made Jumper.
+SMU,Stanford,76,64,37,31,0,Marcus Allen missed Jumper.
+SMU,Stanford,76,64,37,31,0,Shake Milton Defensive Rebound.
+SMU,Stanford,76,64,37,50,0,Jordan Tolbert Turnover.
+SMU,Stanford,76,64,37,50,0,Marcus Allen Steal.
+SMU,Stanford,76,67,37,59,1,Malcolm Allen made Three Point Jumper. Assisted by Marcus Allen.
+SMU,Stanford,76,67,38,6,0,Stanford  Timeout
+SMU,Stanford,79,67,38,23,1,Nic Moore made Three Point Jumper. Assisted by Sterling Brown.
+SMU,Stanford,79,69,38,33,1,Marcus Allen made Layup. Assisted by Malcolm Allen.
+SMU,Stanford,79,69,38,33,0,Foul on Jordan Tolbert.
+SMU,Stanford,79,70,38,33,1,Marcus Allen made Free Throw.
+SMU,Stanford,79,70,38,39,0,Foul on Rosco Allen.
+SMU,Stanford,79,70,38,39,0,Ben Moore missed Free Throw.
+SMU,Stanford,79,70,38,39,0,SMU Deadball Team Rebound.
+SMU,Stanford,80,70,38,39,1,Ben Moore made Free Throw.
+SMU,Stanford,80,70,38,45,0,Marcus Allen missed Three Point Jumper.
+SMU,Stanford,80,70,38,45,0,Nic Moore Defensive Rebound.
+SMU,Stanford,80,70,39,4,0,Foul on Rosco Allen.
+SMU,Stanford,81,70,39,4,1,Shake Milton made Free Throw.
+SMU,Stanford,82,70,39,4,1,Shake Milton made Free Throw.
+SMU,Stanford,82,70,39,10,0,Malcolm Allen missed Layup.
+SMU,Stanford,82,70,39,10,0,SMU Defensive Rebound.
+SMU,Stanford,82,70,39,28,0,SMU  Timeout
+SMU,Stanford,85,70,39,44,1,Markus Kennedy made Three Point Jumper. Assisted by Keith Frazier.
+SMU,Stanford,85,70,39,59,0,Malcolm Allen Turnover.
+SMU,Stanford,85,70,39,59,0,Ben Moore Steal.
+SMU,Stanford,85,70,40,0,0,End of Game

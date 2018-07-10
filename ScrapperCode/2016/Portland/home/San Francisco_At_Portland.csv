@@ -1,0 +1,366 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+San Francisco,Portland,2,0,0,9,1,Tim Derksen made Layup. Assisted by Dont'e Reynolds.
+San Francisco,Portland,2,0,0,27,0,Gabe Taylor missed Jumper.
+San Francisco,Portland,2,0,0,27,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,Portland,2,0,0,44,0,Dont'e Reynolds Turnover.
+San Francisco,Portland,2,0,1,0,0,Bryce Pressley missed Jumper.
+San Francisco,Portland,2,0,1,0,0,Tim Derksen Defensive Rebound.
+San Francisco,Portland,4,0,1,8,1,Ronnie Boyce III made Layup.
+San Francisco,Portland,4,0,1,18,0,Alec Wintering missed Layup.
+San Francisco,Portland,4,0,1,18,0,Ronnie Boyce III Block.
+San Francisco,Portland,4,0,1,20,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,Portland,4,0,1,22,0,Dont'e Reynolds Turnover.
+San Francisco,Portland,4,0,1,30,0,Gabe Taylor missed Three Point Jumper.
+San Francisco,Portland,4,0,1,30,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,Portland,4,0,1,48,0,Ronnie Boyce III missed Layup.
+San Francisco,Portland,4,0,1,48,0,Gabe Taylor Block.
+San Francisco,Portland,4,0,1,49,0,Dont'e Reynolds Offensive Rebound.
+San Francisco,Portland,4,0,1,52,0,Dont'e Reynolds Turnover.
+San Francisco,Portland,4,0,2,6,0,Foul on Devin Watson.
+San Francisco,Portland,4,0,2,16,0,Foul on Uche Ofoegbu.
+San Francisco,Portland,4,3,2,25,1,D'Marques Tyson made Three Point Jumper. Assisted by Alec Wintering.
+San Francisco,Portland,4,3,2,48,0,Foul on Philipp Hartwich.
+San Francisco,Portland,4,3,2,50,0,Foul on Philipp Hartwich.
+San Francisco,Portland,5,3,2,50,1,Uche Ofoegbu made Free Throw.
+San Francisco,Portland,6,3,2,50,1,Uche Ofoegbu made Free Throw.
+San Francisco,Portland,6,5,3,0,1,Gabe Taylor made Layup. Assisted by Alec Wintering.
+San Francisco,Portland,9,5,3,10,1,Ronnie Boyce III made Three Point Jumper. Assisted by Devin Watson.
+San Francisco,Portland,9,5,3,25,0,D'Marques Tyson missed Layup.
+San Francisco,Portland,9,5,3,25,0,Ronnie Boyce III Defensive Rebound.
+San Francisco,Portland,9,5,3,31,0,Devin Watson missed Three Point Jumper.
+San Francisco,Portland,9,5,3,31,0,Gabe Taylor Defensive Rebound.
+San Francisco,Portland,9,5,3,49,0,D'Marques Tyson missed Jumper.
+San Francisco,Portland,9,5,3,49,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,Portland,9,5,4,8,0,Tim Derksen missed Jumper.
+San Francisco,Portland,9,5,4,8,0,Bryce Pressley Block.
+San Francisco,Portland,9,5,4,9,0,San Francisco Deadball Team Rebound.
+San Francisco,Portland,9,5,4,9,0,Official TV Timeout
+San Francisco,Portland,9,5,4,9,0,Foul on Gabe Taylor.
+San Francisco,Portland,9,5,4,12,0,Tim Derksen missed Jumper.
+San Francisco,Portland,9,5,4,12,0,Portland Deadball Team Rebound.
+San Francisco,Portland,9,5,4,14,0,Foul on Matthew McCarthy.
+San Francisco,Portland,9,5,4,29,0,Foul on Chase Foster.
+San Francisco,Portland,9,6,4,29,1,Bryce Pressley made Free Throw.
+San Francisco,Portland,9,7,4,29,1,Bryce Pressley made Free Throw.
+San Francisco,Portland,11,7,4,44,1,Tim Derksen made Layup. Assisted by Devin Watson.
+San Francisco,Portland,11,7,5,9,0,Jazz Johnson missed Three Point Jumper.
+San Francisco,Portland,11,7,5,9,0,Gabe Taylor Offensive Rebound.
+San Francisco,Portland,11,9,5,27,1,Jazz Johnson made Jumper.
+San Francisco,Portland,11,9,5,43,0,Dont'e Reynolds missed Jumper.
+San Francisco,Portland,11,9,5,43,0,Bryce Pressley Defensive Rebound.
+San Francisco,Portland,11,12,5,52,1,D'Marques Tyson made Three Point Jumper. Assisted by Bryce Pressley.
+San Francisco,Portland,11,12,5,59,0,Devin Watson missed Jumper.
+San Francisco,Portland,11,12,5,59,0,Dont'e Reynolds Offensive Rebound.
+San Francisco,Portland,11,12,6,3,0,Foul on Gabe Taylor.
+San Francisco,Portland,14,12,6,6,1,Devin Watson made Three Point Jumper.
+San Francisco,Portland,14,12,6,22,0,Jason Todd missed Layup.
+San Francisco,Portland,14,12,6,22,0,Matthew McCarthy Defensive Rebound.
+San Francisco,Portland,17,12,6,29,1,Chase Foster made Three Point Jumper. Assisted by Devin Watson.
+San Francisco,Portland,17,12,6,52,0,Jazz Johnson missed Jumper.
+San Francisco,Portland,17,12,6,52,0,Matthew McCarthy Defensive Rebound.
+San Francisco,Portland,17,12,7,17,0,Mladen Djordjevic Turnover.
+San Francisco,Portland,17,12,7,19,0,Alec Wintering Steal.
+San Francisco,Portland,17,12,7,20,0,Foul on Mladen Djordjevic.
+San Francisco,Portland,17,15,7,21,1,Jarrel Marshall made Three Point Jumper. Assisted by Alec Wintering.
+San Francisco,Portland,17,15,7,49,0,Chase Foster missed Jumper.
+San Francisco,Portland,17,15,7,49,0,Jason Todd Defensive Rebound.
+San Francisco,Portland,17,15,7,59,0,Jarrel Marshall missed Three Point Jumper.
+San Francisco,Portland,17,15,7,59,0,Chase Foster Defensive Rebound.
+San Francisco,Portland,17,15,8,7,0,Tim Derksen missed Layup.
+San Francisco,Portland,17,15,8,7,0,Jason Todd Block.
+San Francisco,Portland,17,15,8,8,0,Alec Wintering Defensive Rebound.
+San Francisco,Portland,17,15,8,13,0,Foul on Chase Foster.
+San Francisco,Portland,17,15,8,13,0,Official TV Timeout
+San Francisco,Portland,17,15,8,13,0,Alec Wintering missed Free Throw.
+San Francisco,Portland,17,15,8,13,0,Portland Deadball Team Rebound.
+San Francisco,Portland,17,16,8,13,1,Alec Wintering made Free Throw.
+San Francisco,Portland,20,16,8,27,1,Ronnie Boyce III made Three Point Jumper. Assisted by Devin Watson.
+San Francisco,Portland,20,16,8,49,0,Bryce Pressley missed Jumper.
+San Francisco,Portland,20,16,8,49,0,Philipp Hartwich Offensive Rebound.
+San Francisco,Portland,20,18,9,2,1,Bryce Pressley made Jumper.
+San Francisco,Portland,22,18,9,18,1,Matthew McCarthy made Layup.
+San Francisco,Portland,22,18,9,24,0,Jason Todd missed Layup.
+San Francisco,Portland,22,18,9,24,0,Matthew McCarthy Defensive Rebound.
+San Francisco,Portland,25,18,9,33,1,Uche Ofoegbu made Three Point Jumper. Assisted by Tim Derksen.
+San Francisco,Portland,25,18,9,50,0,Jarrel Marshall missed Jumper.
+San Francisco,Portland,25,18,9,50,0,Ronnie Boyce III Defensive Rebound.
+San Francisco,Portland,27,18,9,59,1,Ronnie Boyce III made Layup.
+San Francisco,Portland,27,18,10,18,0,Alec Wintering missed Three Point Jumper.
+San Francisco,Portland,27,18,10,18,0,Devin Watson Defensive Rebound.
+San Francisco,Portland,29,18,10,26,1,Tim Derksen made Layup. Assisted by Devin Watson.
+San Francisco,Portland,29,18,10,43,0,Jarrel Marshall missed Three Point Jumper.
+San Francisco,Portland,29,18,10,43,0,Devin Watson Defensive Rebound.
+San Francisco,Portland,29,18,10,46,0,Foul on Jarrel Marshall.
+San Francisco,Portland,29,18,10,46,0,Portland  Timeout
+San Francisco,Portland,31,18,10,56,1,Dont'e Reynolds made Layup. Assisted by Ronnie Boyce III.
+San Francisco,Portland,31,18,11,19,0,Alec Wintering Turnover.
+San Francisco,Portland,31,18,11,20,0,Devin Watson Steal.
+San Francisco,Portland,31,18,11,24,0,Foul on Bryce Pressley.
+San Francisco,Portland,34,18,11,32,1,Ronnie Boyce III made Three Point Jumper. Assisted by Devin Watson.
+San Francisco,Portland,34,21,11,40,1,D'Marques Tyson made Three Point Jumper. Assisted by Alec Wintering.
+San Francisco,Portland,36,21,12,1,1,Tim Derksen made Jumper.
+San Francisco,Portland,36,21,12,10,0,Alec Wintering missed Jumper.
+San Francisco,Portland,36,21,12,10,0,Gabe Taylor Offensive Rebound.
+San Francisco,Portland,36,21,12,14,0,Foul on Dont'e Reynolds.
+San Francisco,Portland,36,21,12,14,0,Official TV Timeout
+San Francisco,Portland,36,21,12,14,0,Gabe Taylor missed Free Throw.
+San Francisco,Portland,36,21,12,14,0,Portland Deadball Team Rebound.
+San Francisco,Portland,36,21,12,14,0,Gabe Taylor missed Free Throw.
+San Francisco,Portland,36,21,12,14,0,Matthew McCarthy Defensive Rebound.
+San Francisco,Portland,36,21,12,27,0,Chase Foster missed Three Point Jumper.
+San Francisco,Portland,36,21,12,27,0,Jason Todd Defensive Rebound.
+San Francisco,Portland,36,23,12,37,1,Alec Wintering made Layup.
+San Francisco,Portland,36,23,12,58,0,Devin Watson missed Three Point Jumper.
+San Francisco,Portland,36,23,12,58,0,Matthew McCarthy Offensive Rebound.
+San Francisco,Portland,38,23,13,2,1,Matthew McCarthy made Two Point Tip Shot.
+San Francisco,Portland,38,23,13,10,0,D'Marques Tyson missed Three Point Jumper.
+San Francisco,Portland,38,23,13,10,0,Chase Foster Defensive Rebound.
+San Francisco,Portland,41,23,13,25,1,Uche Ofoegbu made Three Point Jumper.
+San Francisco,Portland,41,23,13,43,0,Foul on Chase Foster.
+San Francisco,Portland,41,24,13,43,1,Alec Wintering made Free Throw.
+San Francisco,Portland,41,25,13,43,1,Alec Wintering made Free Throw.
+San Francisco,Portland,41,25,13,59,0,Ronnie Boyce III missed Layup.
+San Francisco,Portland,41,25,13,59,0,Philipp Hartwich Block.
+San Francisco,Portland,41,25,14,0,0,San Francisco Offensive Rebound.
+San Francisco,Portland,41,25,14,0,0,Ronnie Boyce III Turnover.
+San Francisco,Portland,41,25,14,23,0,Foul on Mladen Djordjevic.
+San Francisco,Portland,41,26,14,23,1,Max Livingston made Free Throw.
+San Francisco,Portland,41,27,14,23,1,Max Livingston made Free Throw.
+San Francisco,Portland,41,27,14,43,0,Uche Ofoegbu missed Layup.
+San Francisco,Portland,41,27,14,43,0,Philipp Hartwich Block.
+San Francisco,Portland,41,27,14,43,0,San Francisco Offensive Rebound.
+San Francisco,Portland,41,27,14,49,0,Tim Derksen missed Three Point Jumper.
+San Francisco,Portland,41,27,14,49,0,Portland Defensive Rebound.
+San Francisco,Portland,41,27,15,12,0,Jazz Johnson missed Three Point Jumper.
+San Francisco,Portland,41,27,15,12,0,Tim Derksen Defensive Rebound.
+San Francisco,Portland,41,27,15,29,0,Foul on Max Livingston.
+San Francisco,Portland,42,27,15,29,1,Devin Watson made Free Throw.
+San Francisco,Portland,43,27,15,29,1,Devin Watson made Free Throw.
+San Francisco,Portland,43,30,15,40,1,Bryce Pressley made Three Point Jumper.
+San Francisco,Portland,45,30,15,46,1,Ronnie Boyce III made Layup.
+San Francisco,Portland,45,30,16,0,0,Jazz Johnson Turnover.
+San Francisco,Portland,45,30,16,20,0,Ronnie Boyce III missed Three Point Jumper.
+San Francisco,Portland,45,30,16,20,0,Jason Todd Defensive Rebound.
+San Francisco,Portland,45,32,16,24,1,Alec Wintering made Layup. Assisted by Jason Todd.
+San Francisco,Portland,45,32,16,40,0,Devin Watson Turnover.
+San Francisco,Portland,45,32,16,41,0,Alec Wintering Steal.
+San Francisco,Portland,45,34,16,42,1,Alec Wintering made Layup.
+San Francisco,Portland,45,34,16,54,0,Foul on Alec Wintering.
+San Francisco,Portland,45,34,16,54,0,Official TV Timeout
+San Francisco,Portland,45,34,16,54,0,Ronnie Boyce III missed Free Throw.
+San Francisco,Portland,45,34,16,54,0,Philipp Hartwich Defensive Rebound.
+San Francisco,Portland,45,34,17,6,0,Bryce Pressley missed Three Point Jumper.
+San Francisco,Portland,45,34,17,6,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,Portland,45,34,17,23,0,Ronnie Boyce III missed Jumper.
+San Francisco,Portland,45,34,17,23,0,Philipp Hartwich Defensive Rebound.
+San Francisco,Portland,45,34,17,30,0,D'Marques Tyson missed Three Point Jumper.
+San Francisco,Portland,45,34,17,30,0,Bryce Pressley Offensive Rebound.
+San Francisco,Portland,45,34,17,42,0,Foul on Ronnie Boyce III.
+San Francisco,Portland,45,35,17,42,1,Alec Wintering made Free Throw.
+San Francisco,Portland,45,35,17,42,0,Alec Wintering missed Free Throw.
+San Francisco,Portland,45,35,17,42,0,Portland Offensive Rebound.
+San Francisco,Portland,45,35,17,46,0,D'Marques Tyson missed Three Point Jumper.
+San Francisco,Portland,45,35,17,46,0,Philipp Hartwich Offensive Rebound.
+San Francisco,Portland,45,35,17,52,0,Philipp Hartwich missed Jumper.
+San Francisco,Portland,45,35,17,52,0,Bryce Pressley Offensive Rebound.
+San Francisco,Portland,45,38,17,57,1,D'Marques Tyson made Three Point Jumper. Assisted by Bryce Pressley.
+San Francisco,Portland,45,38,18,28,0,Devin Watson Turnover.
+San Francisco,Portland,45,38,18,43,0,Foul on Dont'e Reynolds.
+San Francisco,Portland,45,39,18,43,1,Alec Wintering made Free Throw.
+San Francisco,Portland,45,40,18,43,1,Alec Wintering made Free Throw.
+San Francisco,Portland,45,40,18,58,0,Dont'e Reynolds missed Layup.
+San Francisco,Portland,45,40,18,58,0,D'Marques Tyson Block.
+San Francisco,Portland,45,40,18,58,0,San Francisco Deadball Team Rebound.
+San Francisco,Portland,48,40,19,7,1,Devin Watson made Three Point Jumper.
+San Francisco,Portland,48,43,19,17,1,D'Marques Tyson made Three Point Jumper. Assisted by Alec Wintering.
+San Francisco,Portland,51,43,19,50,1,Devin Watson made Three Point Jumper.
+San Francisco,Portland,51,43,19,56,0,Foul on Ronnie Boyce III.
+San Francisco,Portland,51,44,19,56,1,Alec Wintering made Free Throw.
+San Francisco,Portland,51,45,19,56,1,Alec Wintering made Free Throw.
+San Francisco,Portland,51,45,20,0,0,Devin Watson missed Three Point Jumper.
+San Francisco,Portland,51,45,20,0,0,Bryce Pressley Defensive Rebound.
+San Francisco,Portland,51,45,20,0,0,End of 1st half
+San Francisco,Portland,51,45,20,28,0,D'Marques Tyson Turnover.
+San Francisco,Portland,51,45,20,29,0,Dont'e Reynolds Steal.
+San Francisco,Portland,51,45,20,47,0,Devin Watson Turnover.
+San Francisco,Portland,51,45,21,1,0,Bryce Pressley missed Jumper.
+San Francisco,Portland,51,45,21,1,0,San Francisco Deadball Team Rebound.
+San Francisco,Portland,51,45,21,3,0,Foul on Philipp Hartwich.
+San Francisco,Portland,51,45,21,17,0,Foul on Bryce Pressley.
+San Francisco,Portland,53,45,21,33,1,Dont'e Reynolds made Layup.
+San Francisco,Portland,53,45,21,45,0,D'Marques Tyson missed Three Point Jumper.
+San Francisco,Portland,53,45,21,45,0,Tim Derksen Defensive Rebound.
+San Francisco,Portland,53,45,21,59,0,Devin Watson missed Three Point Jumper.
+San Francisco,Portland,53,45,21,59,0,Gabe Taylor Defensive Rebound.
+San Francisco,Portland,53,45,22,9,0,D'Marques Tyson Turnover.
+San Francisco,Portland,53,45,22,10,0,Ronnie Boyce III Steal.
+San Francisco,Portland,55,45,22,13,1,Ronnie Boyce III made Dunk.
+San Francisco,Portland,55,45,22,37,0,Alec Wintering Turnover.
+San Francisco,Portland,55,45,22,38,0,Devin Watson Steal.
+San Francisco,Portland,55,45,22,40,0,Foul on D'Marques Tyson.
+San Francisco,Portland,55,45,22,59,0,Uche Ofoegbu missed Three Point Jumper.
+San Francisco,Portland,55,45,22,59,0,Alec Wintering Defensive Rebound.
+San Francisco,Portland,55,45,23,13,0,Jason Todd missed Three Point Jumper.
+San Francisco,Portland,55,45,23,13,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,Portland,55,45,23,37,0,Devin Watson missed Three Point Jumper.
+San Francisco,Portland,55,45,23,37,0,Jason Todd Defensive Rebound.
+San Francisco,Portland,55,45,23,51,0,Bryce Pressley missed Three Point Jumper.
+San Francisco,Portland,55,45,23,51,0,Uche Ofoegbu Defensive Rebound.
+San Francisco,Portland,57,45,24,12,1,Dont'e Reynolds made Layup.
+San Francisco,Portland,57,45,24,19,0,Max Livingston missed Three Point Jumper.
+San Francisco,Portland,57,45,24,19,0,Portland Offensive Rebound.
+San Francisco,Portland,57,45,24,23,0,Official TV Timeout
+San Francisco,Portland,57,45,24,38,0,Foul on Mladen Djordjevic.
+San Francisco,Portland,57,45,24,38,0,Foul on Chase Foster.
+San Francisco,Portland,57,47,24,46,1,Jazz Johnson made Jumper.
+San Francisco,Portland,57,47,25,4,0,Foul on Mladen Djordjevic.
+San Francisco,Portland,57,47,25,4,0,Mladen Djordjevic Turnover.
+San Francisco,Portland,57,47,25,14,0,Foul on Jazz Johnson.
+San Francisco,Portland,57,47,25,14,0,Jazz Johnson Turnover.
+San Francisco,Portland,57,47,25,26,0,Tim Derksen missed Three Point Jumper.
+San Francisco,Portland,57,47,25,26,0,Jazz Johnson Defensive Rebound.
+San Francisco,Portland,57,47,25,34,0,Jazz Johnson missed Jumper.
+San Francisco,Portland,57,47,25,34,0,San Francisco Deadball Team Rebound.
+San Francisco,Portland,57,47,25,36,0,Foul on Gabe Taylor.
+San Francisco,Portland,59,47,26,5,1,Tim Derksen made Layup. Assisted by Devin Watson.
+San Francisco,Portland,59,47,26,29,0,Jarrel Marshall missed Jumper.
+San Francisco,Portland,59,47,26,29,0,Ronnie Boyce III Defensive Rebound.
+San Francisco,Portland,59,47,26,47,0,Matthew McCarthy missed Jumper.
+San Francisco,Portland,59,47,26,47,0,San Francisco Deadball Team Rebound.
+San Francisco,Portland,59,47,26,48,0,Foul on Jarrel Marshall.
+San Francisco,Portland,59,47,27,0,0,Ronnie Boyce III Turnover.
+San Francisco,Portland,59,47,27,2,0,Bryce Pressley Steal.
+San Francisco,Portland,59,47,27,8,0,Colin Russell missed Layup.
+San Francisco,Portland,59,47,27,8,0,Dont'e Reynolds Block.
+San Francisco,Portland,59,47,27,12,0,Colin Russell Offensive Rebound.
+San Francisco,Portland,59,47,27,15,0,Foul on Alec Wintering.
+San Francisco,Portland,60,47,27,15,1,Ronnie Boyce III made Free Throw.
+San Francisco,Portland,61,47,27,15,1,Ronnie Boyce III made Free Throw.
+San Francisco,Portland,61,49,27,33,1,Alec Wintering made Layup.
+San Francisco,Portland,61,49,27,58,0,Ronnie Boyce III missed Three Point Jumper.
+San Francisco,Portland,61,49,27,58,0,Uche Ofoegbu Offensive Rebound.
+San Francisco,Portland,63,49,28,0,1,Uche Ofoegbu made Two Point Tip Shot.
+San Francisco,Portland,63,49,28,10,0,Alec Wintering missed Layup.
+San Francisco,Portland,63,49,28,10,0,Ronnie Boyce III Defensive Rebound.
+San Francisco,Portland,63,49,28,18,0,Ronnie Boyce III missed Layup.
+San Francisco,Portland,63,49,28,18,0,Jason Todd Defensive Rebound.
+San Francisco,Portland,63,49,28,20,0,Official TV Timeout
+San Francisco,Portland,63,52,28,31,1,Alec Wintering made Three Point Jumper. Assisted by D'Marques Tyson.
+San Francisco,Portland,63,52,28,49,0,Foul on Alec Wintering.
+San Francisco,Portland,64,52,28,49,1,Chase Foster made Free Throw.
+San Francisco,Portland,64,52,28,49,0,Chase Foster missed Free Throw.
+San Francisco,Portland,64,52,28,49,0,Jason Todd Defensive Rebound.
+San Francisco,Portland,64,52,29,7,0,Foul on Dont'e Reynolds.
+San Francisco,Portland,64,52,29,16,0,Alec Wintering missed Layup.
+San Francisco,Portland,64,52,29,16,0,Tim Derksen Defensive Rebound.
+San Francisco,Portland,64,52,29,36,0,Foul on D'Marques Tyson.
+San Francisco,Portland,65,52,29,36,1,Tim Derksen made Free Throw.
+San Francisco,Portland,66,52,29,37,1,Tim Derksen made Free Throw.
+San Francisco,Portland,66,55,29,50,1,D'Marques Tyson made Three Point Jumper.
+San Francisco,Portland,66,55,30,11,0,Tim Derksen Turnover.
+San Francisco,Portland,66,55,30,18,0,Foul on Matthew McCarthy.
+San Francisco,Portland,66,55,30,28,0,D'Marques Tyson missed Three Point Jumper.
+San Francisco,Portland,66,55,30,28,0,Tim Derksen Block.
+San Francisco,Portland,66,55,30,29,0,Tim Derksen Defensive Rebound.
+San Francisco,Portland,66,55,30,51,0,Matthew McCarthy missed Jumper.
+San Francisco,Portland,66,55,30,51,0,Bryce Pressley Defensive Rebound.
+San Francisco,Portland,66,55,31,0,0,Bryce Pressley missed Layup.
+San Francisco,Portland,66,55,31,0,0,Philipp Hartwich Offensive Rebound.
+San Francisco,Portland,66,55,31,12,0,D'Marques Tyson Turnover.
+San Francisco,Portland,66,55,31,24,0,Foul on Matthew McCarthy.
+San Francisco,Portland,66,55,31,24,0,Matthew McCarthy Turnover.
+San Francisco,Portland,66,58,31,35,1,Alec Wintering made Three Point Jumper.
+San Francisco,Portland,68,58,31,44,1,Devin Watson made Layup.
+San Francisco,Portland,68,58,31,56,0,Alec Wintering missed Jumper.
+San Francisco,Portland,68,58,31,56,0,Jason Todd Offensive Rebound.
+San Francisco,Portland,68,60,32,12,1,Bryce Pressley made Jumper.
+San Francisco,Portland,68,60,32,12,0,Foul on Uche Ofoegbu.
+San Francisco,Portland,68,60,32,12,0,Official TV Timeout
+San Francisco,Portland,68,60,32,12,0,Bryce Pressley missed Free Throw.
+San Francisco,Portland,68,60,32,12,0,San Francisco Deadball Team Rebound.
+San Francisco,Portland,68,60,32,14,0,Foul on Jason Todd.
+San Francisco,Portland,69,60,32,14,1,Tim Derksen made Free Throw.
+San Francisco,Portland,70,60,32,14,1,Tim Derksen made Free Throw.
+San Francisco,Portland,70,60,32,34,0,D'Marques Tyson missed Three Point Jumper.
+San Francisco,Portland,70,60,32,34,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,Portland,70,60,32,38,0,Foul on Philipp Hartwich.
+San Francisco,Portland,71,60,32,38,1,Dont'e Reynolds made Free Throw.
+San Francisco,Portland,71,60,32,38,0,Dont'e Reynolds missed Free Throw.
+San Francisco,Portland,71,60,32,38,0,D'Marques Tyson Defensive Rebound.
+San Francisco,Portland,71,63,32,55,1,D'Marques Tyson made Three Point Jumper. Assisted by Alec Wintering.
+San Francisco,Portland,71,63,33,1,0,Portland  Timeout
+San Francisco,Portland,71,63,33,6,0,San Francisco  Timeout
+San Francisco,Portland,71,63,33,33,0,Uche Ofoegbu missed Layup.
+San Francisco,Portland,71,63,33,33,0,Gabe Taylor Defensive Rebound.
+San Francisco,Portland,71,63,34,3,0,Bryce Pressley missed Jumper.
+San Francisco,Portland,71,63,34,3,0,D'Marques Tyson Offensive Rebound.
+San Francisco,Portland,71,66,34,21,1,Jazz Johnson made Three Point Jumper. Assisted by Bryce Pressley.
+San Francisco,Portland,71,66,34,42,0,Tim Derksen missed Layup.
+San Francisco,Portland,71,66,34,42,0,D'Marques Tyson Block.
+San Francisco,Portland,71,66,34,43,0,Tim Derksen Offensive Rebound.
+San Francisco,Portland,73,66,34,46,1,Dont'e Reynolds made Layup. Assisted by Tim Derksen.
+San Francisco,Portland,73,66,34,46,0,Foul on Gabe Taylor.
+San Francisco,Portland,74,66,34,46,1,Dont'e Reynolds made Free Throw.
+San Francisco,Portland,74,66,34,57,0,Alec Wintering missed Layup.
+San Francisco,Portland,74,66,34,57,0,Dont'e Reynolds Block.
+San Francisco,Portland,74,66,34,58,0,Philipp Hartwich Offensive Rebound.
+San Francisco,Portland,74,68,35,1,1,Philipp Hartwich made Dunk.
+San Francisco,Portland,74,68,35,21,0,Ronnie Boyce III missed Jumper.
+San Francisco,Portland,74,68,35,21,0,Bryce Pressley Defensive Rebound.
+San Francisco,Portland,74,68,35,26,0,D'Marques Tyson missed Three Point Jumper.
+San Francisco,Portland,74,68,35,26,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,Portland,74,68,35,56,0,Devin Watson missed Jumper.
+San Francisco,Portland,74,68,35,56,0,Dont'e Reynolds Offensive Rebound.
+San Francisco,Portland,74,68,36,0,0,Dont'e Reynolds missed Two Point Tip Shot.
+San Francisco,Portland,74,68,36,0,0,Dont'e Reynolds Offensive Rebound.
+San Francisco,Portland,74,68,36,2,0,Foul on D'Marques Tyson.
+San Francisco,Portland,75,68,36,2,1,Tim Derksen made Free Throw.
+San Francisco,Portland,76,68,36,2,1,Tim Derksen made Free Throw.
+San Francisco,Portland,76,68,36,17,0,Bryce Pressley missed Layup.
+San Francisco,Portland,76,68,36,17,0,Dont'e Reynolds Block.
+San Francisco,Portland,76,68,36,17,0,Portland Offensive Rebound.
+San Francisco,Portland,76,68,36,17,0,Official TV Timeout
+San Francisco,Portland,76,71,36,19,1,D'Marques Tyson made Three Point Jumper. Assisted by Alec Wintering.
+San Francisco,Portland,78,71,36,46,1,Chase Foster made Layup. Assisted by Devin Watson.
+San Francisco,Portland,78,71,36,46,0,Foul on Philipp Hartwich.
+San Francisco,Portland,79,71,36,46,1,Chase Foster made Free Throw.
+San Francisco,Portland,79,71,37,17,0,Portland  Turnover.
+San Francisco,Portland,79,71,37,47,0,Devin Watson missed Three Point Jumper.
+San Francisco,Portland,79,71,37,47,0,Jazz Johnson Defensive Rebound.
+San Francisco,Portland,79,71,37,54,0,Bryce Pressley missed Three Point Jumper.
+San Francisco,Portland,79,71,37,54,0,Portland Offensive Rebound.
+San Francisco,Portland,79,71,38,0,0,Alec Wintering missed Three Point Jumper.
+San Francisco,Portland,79,71,38,0,0,D'Marques Tyson Offensive Rebound.
+San Francisco,Portland,79,73,38,4,1,D'Marques Tyson made Two Point Tip Shot.
+San Francisco,Portland,79,73,38,4,0,Foul on Tim Derksen.
+San Francisco,Portland,79,74,38,4,1,D'Marques Tyson made Free Throw.
+San Francisco,Portland,81,74,38,28,1,Uche Ofoegbu made Layup.
+San Francisco,Portland,81,74,38,29,0,Foul on Bryce Pressley.
+San Francisco,Portland,82,74,38,29,1,Uche Ofoegbu made Free Throw.
+San Francisco,Portland,82,74,38,29,0,San Francisco  Timeout
+San Francisco,Portland,82,74,38,40,0,Alec Wintering Turnover.
+San Francisco,Portland,82,74,38,41,0,Uche Ofoegbu Steal.
+San Francisco,Portland,82,74,39,0,0,Foul on Bryce Pressley.
+San Francisco,Portland,82,74,39,0,0,Chase Foster missed Free Throw.
+San Francisco,Portland,82,74,39,0,0,San Francisco Deadball Team Rebound.
+San Francisco,Portland,82,74,39,0,0,Portland  Timeout
+San Francisco,Portland,83,74,39,0,1,Chase Foster made Free Throw.
+San Francisco,Portland,83,74,39,12,0,Colin Russell Turnover.
+San Francisco,Portland,83,74,39,13,0,Tim Derksen Steal.
+San Francisco,Portland,83,74,39,17,0,Uche Ofoegbu Turnover.
+San Francisco,Portland,83,74,39,19,0,Alec Wintering Steal.
+San Francisco,Portland,83,76,39,20,1,Alec Wintering made Layup.
+San Francisco,Portland,83,76,39,21,0,San Francisco  Timeout
+San Francisco,Portland,83,76,39,26,0,Foul on Alec Wintering.
+San Francisco,Portland,84,76,39,26,1,Chase Foster made Free Throw.
+San Francisco,Portland,85,76,39,26,1,Chase Foster made Free Throw.
+San Francisco,Portland,85,76,39,33,0,D'Marques Tyson missed Three Point Jumper.
+San Francisco,Portland,85,76,39,33,0,D'Marques Tyson Offensive Rebound.
+San Francisco,Portland,85,76,39,38,0,D'Marques Tyson missed Three Point Jumper.
+San Francisco,Portland,85,76,39,38,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,Portland,85,76,39,41,0,Foul on Gabe Taylor.
+San Francisco,Portland,86,76,39,41,1,Dont'e Reynolds made Free Throw.
+San Francisco,Portland,87,76,39,41,1,Dont'e Reynolds made Free Throw.
+San Francisco,Portland,87,76,39,48,0,Alec Wintering missed Layup.
+San Francisco,Portland,87,76,39,48,0,Tim Derksen Defensive Rebound.
+San Francisco,Portland,87,76,40,0,0,End of Game

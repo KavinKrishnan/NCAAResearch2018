@@ -1,0 +1,355 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+St. Edward's,Grand Canyon,0,2,0,13,1,Jerome Garrison made Jumper.
+St. Edward's,Grand Canyon,0,2,0,13,0,Foul on Ramir Burton.
+St. Edward's,Grand Canyon,0,3,0,13,1,Jerome Garrison made Free Throw.
+St. Edward's,Grand Canyon,0,3,0,23,0,Ramir Burton missed Jumper.
+St. Edward's,Grand Canyon,0,3,0,23,0,Frankie Mgbolu Offensive Rebound.
+St. Edward's,Grand Canyon,0,3,0,30,0,Trey Lindsey missed Three Point Jumper.
+St. Edward's,Grand Canyon,0,3,0,30,0,Grand Canyon Defensive Rebound.
+St. Edward's,Grand Canyon,0,5,0,42,1,DeWayne Russell made Jumper.
+St. Edward's,Grand Canyon,0,5,1,13,0,Frankie Mgbolu missed Layup.
+St. Edward's,Grand Canyon,0,5,1,13,0,John Gramlich Offensive Rebound.
+St. Edward's,Grand Canyon,2,5,1,19,1,John Gramlich made Jumper.
+St. Edward's,Grand Canyon,2,5,1,42,0,Jerome Garrison missed Jumper.
+St. Edward's,Grand Canyon,2,5,1,42,0,John Gramlich Defensive Rebound.
+St. Edward's,Grand Canyon,4,5,2,1,1,Trey Lindsey made Jumper.
+St. Edward's,Grand Canyon,4,5,2,24,0,Kerwin Smith missed Jumper.
+St. Edward's,Grand Canyon,4,5,2,24,0,John Gramlich Defensive Rebound.
+St. Edward's,Grand Canyon,6,5,2,36,1,Ramir Burton made Layup.
+St. Edward's,Grand Canyon,6,8,2,51,1,Joshua Braun made Three Point Jumper. Assisted by Ryan Majerle.
+St. Edward's,Grand Canyon,6,8,3,21,0,Ramir Burton missed Jumper.
+St. Edward's,Grand Canyon,6,8,3,21,0,Kerwin Smith Defensive Rebound.
+St. Edward's,Grand Canyon,6,8,3,37,0,Kerwin Smith Turnover.
+St. Edward's,Grand Canyon,6,8,3,37,0,Foul on Kerwin Smith.
+St. Edward's,Grand Canyon,6,8,3,51,0,Frankie Mgbolu missed Layup.
+St. Edward's,Grand Canyon,6,8,3,51,0,Trey Lindsey Offensive Rebound.
+St. Edward's,Grand Canyon,8,8,3,54,1,Trey Lindsey made Layup.
+St. Edward's,Grand Canyon,8,8,4,11,0,Kerwin Smith missed Layup.
+St. Edward's,Grand Canyon,8,8,4,11,0,Grand Canyon Offensive Rebound.
+St. Edward's,Grand Canyon,8,8,4,12,0,Official TV Timeout
+St. Edward's,Grand Canyon,8,8,4,18,0,Kerwin Smith Turnover.
+St. Edward's,Grand Canyon,8,8,4,19,0,Trey Lindsey Steal.
+St. Edward's,Grand Canyon,8,8,4,24,0,John Gramlich missed Layup.
+St. Edward's,Grand Canyon,8,8,4,24,0,St. Edwards Offensive Rebound.
+St. Edward's,Grand Canyon,10,8,4,32,1,Harley Nussman made Layup. Assisted by Trey Lindsey.
+St. Edward's,Grand Canyon,10,8,4,52,0,Daniel Alexander missed Three Point Jumper.
+St. Edward's,Grand Canyon,10,8,4,52,0,Jerome Garrison Offensive Rebound.
+St. Edward's,Grand Canyon,10,8,5,6,0,Daniel Alexander missed Layup.
+St. Edward's,Grand Canyon,10,8,5,6,0,Harley Nussman Block.
+St. Edward's,Grand Canyon,10,8,5,8,0,DeWayne Russell Offensive Rebound.
+St. Edward's,Grand Canyon,10,8,5,14,0,Joshua Braun Turnover.
+St. Edward's,Grand Canyon,10,8,5,14,0,Grand Canyon  Timeout
+St. Edward's,Grand Canyon,10,8,5,31,0,Trey Lindsey missed Jumper.
+St. Edward's,Grand Canyon,10,8,5,31,0,Jerome Garrison Defensive Rebound.
+St. Edward's,Grand Canyon,10,8,5,40,0,Joshua Braun Turnover.
+St. Edward's,Grand Canyon,10,8,5,41,0,Harley Nussman Steal.
+St. Edward's,Grand Canyon,12,8,5,45,1,Frankie Mgbolu made Layup.
+St. Edward's,Grand Canyon,12,8,5,45,0,Foul on Jerome Garrison.
+St. Edward's,Grand Canyon,12,8,5,45,0,Frankie Mgbolu missed Free Throw.
+St. Edward's,Grand Canyon,12,8,5,45,0,Jerome Garrison Defensive Rebound.
+St. Edward's,Grand Canyon,12,10,5,57,1,DeWayne Russell made Jumper.
+St. Edward's,Grand Canyon,12,10,6,17,0,Ramir Burton Turnover.
+St. Edward's,Grand Canyon,12,10,6,17,0,Foul on Ramir Burton.
+St. Edward's,Grand Canyon,12,10,6,32,0,Daniel Alexander missed Layup.
+St. Edward's,Grand Canyon,12,10,6,32,0,Daniel Alexander Offensive Rebound.
+St. Edward's,Grand Canyon,12,10,6,33,0,Foul on Frankie Mgbolu.
+St. Edward's,Grand Canyon,12,11,6,33,1,Daniel Alexander made Free Throw.
+St. Edward's,Grand Canyon,12,12,6,33,1,Daniel Alexander made Free Throw.
+St. Edward's,Grand Canyon,14,12,6,59,1,Quinton Lilley made Layup.
+St. Edward's,Grand Canyon,14,14,7,13,1,Daniel Alexander made Jumper.
+St. Edward's,Grand Canyon,14,14,7,36,0,Ethan Gilbert missed Three Point Jumper.
+St. Edward's,Grand Canyon,14,14,7,36,0,Royce Woolridge Defensive Rebound.
+St. Edward's,Grand Canyon,14,17,7,48,1,Joshua Braun made Three Point Jumper. Assisted by Royce Woolridge.
+St. Edward's,Grand Canyon,14,17,8,8,0,John Gramlich missed Three Point Jumper.
+St. Edward's,Grand Canyon,14,17,8,8,0,Harley Nussman Offensive Rebound.
+St. Edward's,Grand Canyon,14,17,8,12,0,Harley Nussman missed Layup.
+St. Edward's,Grand Canyon,14,17,8,12,0,Harley Nussman Offensive Rebound.
+St. Edward's,Grand Canyon,16,17,8,16,1,Harley Nussman made Layup.
+St. Edward's,Grand Canyon,16,17,8,39,0,Joshua Braun missed Layup.
+St. Edward's,Grand Canyon,16,17,8,39,0,John Gramlich Defensive Rebound.
+St. Edward's,Grand Canyon,16,17,8,42,0,Frankie Mgbolu Turnover.
+St. Edward's,Grand Canyon,16,17,8,43,0,De'Andre Davis Steal.
+St. Edward's,Grand Canyon,16,19,8,46,1,De'Andre Davis made Layup.
+St. Edward's,Grand Canyon,16,19,9,6,0,Foul on Royce Woolridge.
+St. Edward's,Grand Canyon,16,19,9,6,0,Official TV Timeout
+St. Edward's,Grand Canyon,17,19,9,7,1,Ethan Gilbert made Free Throw.
+St. Edward's,Grand Canyon,17,19,9,7,0,Ethan Gilbert missed Free Throw.
+St. Edward's,Grand Canyon,17,19,9,7,0,Ryan Majerle Defensive Rebound.
+St. Edward's,Grand Canyon,17,19,9,21,0,Jerome Garrison missed Three Point Jumper.
+St. Edward's,Grand Canyon,17,19,9,21,0,Quinton Lilley Defensive Rebound.
+St. Edward's,Grand Canyon,17,19,9,22,0,Foul on Jerome Garrison.
+St. Edward's,Grand Canyon,17,19,9,38,0,Jae Ricketts missed Jumper.
+St. Edward's,Grand Canyon,17,19,9,38,0,Daniel Alexander Defensive Rebound.
+St. Edward's,Grand Canyon,17,19,10,4,0,Foul on Jae Ricketts.
+St. Edward's,Grand Canyon,17,21,10,11,1,Daniel Alexander made Jumper. Assisted by Royce Woolridge.
+St. Edward's,Grand Canyon,20,21,10,27,1,Aubrie King made Three Point Jumper. Assisted by Ethan Gilbert.
+St. Edward's,Grand Canyon,20,23,10,47,1,Royce Woolridge made Layup.
+St. Edward's,Grand Canyon,23,23,11,0,1,Aubrie King made Three Point Jumper. Assisted by Quinton Lilley.
+St. Edward's,Grand Canyon,23,23,11,10,0,Foul on Quinton Lilley.
+St. Edward's,Grand Canyon,23,23,11,10,0,St. Edwards  Timeout
+St. Edward's,Grand Canyon,23,25,11,13,1,DeWayne Russell made Jumper.
+St. Edward's,Grand Canyon,23,25,11,27,0,Aubrie King missed Jumper.
+St. Edward's,Grand Canyon,23,25,11,27,0,De'Andre Davis Block.
+St. Edward's,Grand Canyon,23,25,11,29,0,Ryan Majerle Defensive Rebound.
+St. Edward's,Grand Canyon,23,25,11,36,0,Ryan Majerle missed Three Point Jumper.
+St. Edward's,Grand Canyon,23,25,11,36,0,Frankie Mgbolu Defensive Rebound.
+St. Edward's,Grand Canyon,23,25,11,43,0,Quinton Lilley missed Jumper.
+St. Edward's,Grand Canyon,23,25,11,43,0,St. Edwards Offensive Rebound.
+St. Edward's,Grand Canyon,23,25,11,48,0,Jae Ricketts Turnover.
+St. Edward's,Grand Canyon,23,25,12,18,0,Official TV Timeout
+St. Edward's,Grand Canyon,23,27,12,20,1,Ryan Majerle made Jumper.
+St. Edward's,Grand Canyon,23,27,12,36,0,Trey Lindsey missed Layup.
+St. Edward's,Grand Canyon,23,27,12,36,0,Ryan Majerle Defensive Rebound.
+St. Edward's,Grand Canyon,23,27,12,54,0,Joshua Braun missed Three Point Jumper.
+St. Edward's,Grand Canyon,23,27,12,54,0,Trey Lindsey Defensive Rebound.
+St. Edward's,Grand Canyon,23,27,12,58,0,Foul on Ryan Majerle.
+St. Edward's,Grand Canyon,23,27,13,16,0,Trey Lindsey missed Layup.
+St. Edward's,Grand Canyon,23,27,13,16,0,Ryan Majerle Defensive Rebound.
+St. Edward's,Grand Canyon,23,27,13,42,0,De'Andre Davis Turnover.
+St. Edward's,Grand Canyon,23,27,13,59,0,Trey Lindsey missed Jumper.
+St. Edward's,Grand Canyon,23,27,13,59,0,Daniel Alexander Defensive Rebound.
+St. Edward's,Grand Canyon,23,27,14,11,0,Joshua Braun missed Jumper.
+St. Edward's,Grand Canyon,23,27,14,11,0,Aubrie King Defensive Rebound.
+St. Edward's,Grand Canyon,23,27,14,28,0,Aubrie King missed Three Point Jumper.
+St. Edward's,Grand Canyon,23,27,14,28,0,Joshua Braun Defensive Rebound.
+St. Edward's,Grand Canyon,23,27,14,42,0,Daniel Alexander Turnover.
+St. Edward's,Grand Canyon,23,27,14,43,0,Sean Watkins Steal.
+St. Edward's,Grand Canyon,23,27,14,55,0,Jae Ricketts missed Jumper.
+St. Edward's,Grand Canyon,23,27,14,55,0,Joshua Braun Defensive Rebound.
+St. Edward's,Grand Canyon,23,27,14,56,0,Foul on Jae Ricketts.
+St. Edward's,Grand Canyon,23,27,15,20,0,De'Andre Davis missed Jumper.
+St. Edward's,Grand Canyon,23,27,15,20,0,DeWayne Russell Offensive Rebound.
+St. Edward's,Grand Canyon,23,29,15,26,1,Joshua Braun made Layup. Assisted by DeWayne Russell.
+St. Edward's,Grand Canyon,23,29,15,26,0,Foul on Trey Lindsey.
+St. Edward's,Grand Canyon,23,29,15,26,0,Joshua Braun missed Free Throw.
+St. Edward's,Grand Canyon,23,29,15,26,0,Trey Lindsey Defensive Rebound.
+St. Edward's,Grand Canyon,25,29,15,43,1,Ethan Gilbert made Jumper.
+St. Edward's,Grand Canyon,25,29,16,2,0,DeWayne Russell missed Jumper.
+St. Edward's,Grand Canyon,25,29,16,2,0,Grand Canyon Offensive Rebound.
+St. Edward's,Grand Canyon,25,29,16,2,0,Official TV Timeout
+St. Edward's,Grand Canyon,25,31,16,10,1,DeWayne Russell made Jumper.
+St. Edward's,Grand Canyon,27,31,16,25,1,Harley Nussman made Layup. Assisted by John Gramlich.
+St. Edward's,Grand Canyon,27,31,16,45,0,Jerome Garrison missed Layup.
+St. Edward's,Grand Canyon,27,31,16,45,0,Harley Nussman Block.
+St. Edward's,Grand Canyon,27,31,16,45,0,Grand Canyon Offensive Rebound.
+St. Edward's,Grand Canyon,27,33,16,50,1,Joshua Braun made Jumper.
+St. Edward's,Grand Canyon,29,33,17,12,1,Harley Nussman made Layup.
+St. Edward's,Grand Canyon,29,35,17,26,1,Joshua Braun made Layup. Assisted by DeWayne Russell.
+St. Edward's,Grand Canyon,31,35,17,42,1,John Gramlich made Layup. Assisted by Harley Nussman.
+St. Edward's,Grand Canyon,31,35,17,56,0,DeWayne Russell Turnover.
+St. Edward's,Grand Canyon,31,35,17,56,0,Ethan Gilbert Steal.
+St. Edward's,Grand Canyon,31,35,18,14,0,John Gramlich Turnover.
+St. Edward's,Grand Canyon,31,35,18,14,0,Foul on John Gramlich.
+St. Edward's,Grand Canyon,31,38,18,27,1,Joshua Braun made Three Point Jumper. Assisted by Jerome Garrison.
+St. Edward's,Grand Canyon,31,38,18,47,0,Harley Nussman missed Jumper.
+St. Edward's,Grand Canyon,31,38,18,47,0,Jerome Garrison Defensive Rebound.
+St. Edward's,Grand Canyon,31,38,18,59,0,DeWayne Russell Turnover.
+St. Edward's,Grand Canyon,31,38,19,0,0,Ethan Gilbert Steal.
+St. Edward's,Grand Canyon,31,38,19,5,0,Ethan Gilbert missed Three Point Jumper.
+St. Edward's,Grand Canyon,31,38,19,5,0,Grand Canyon Defensive Rebound.
+St. Edward's,Grand Canyon,31,38,19,21,0,Miroslav Jaksic missed Jumper.
+St. Edward's,Grand Canyon,31,38,19,21,0,Harley Nussman Defensive Rebound.
+St. Edward's,Grand Canyon,34,38,19,54,1,John Gramlich made Three Point Jumper. Assisted by Quinton Lilley.
+St. Edward's,Grand Canyon,34,38,20,0,0,End of 1st half
+St. Edward's,Grand Canyon,34,38,20,8,0,Joshua Braun missed Three Point Jumper.
+St. Edward's,Grand Canyon,34,38,20,8,0,St. Edwards Defensive Rebound.
+St. Edward's,Grand Canyon,34,38,20,28,0,Frankie Mgbolu missed Layup.
+St. Edward's,Grand Canyon,34,38,20,28,0,DeWayne Russell Defensive Rebound.
+St. Edward's,Grand Canyon,34,38,20,38,0,Jerome Garrison missed Three Point Jumper.
+St. Edward's,Grand Canyon,34,38,20,38,0,Frankie Mgbolu Defensive Rebound.
+St. Edward's,Grand Canyon,34,38,20,50,0,Ramir Burton Turnover.
+St. Edward's,Grand Canyon,34,38,20,51,0,Kerwin Smith Steal.
+St. Edward's,Grand Canyon,34,38,20,56,0,Foul on Frankie Mgbolu.
+St. Edward's,Grand Canyon,34,40,21,1,1,DeWayne Russell made Jumper.
+St. Edward's,Grand Canyon,34,40,21,1,0,Foul on Frankie Mgbolu.
+St. Edward's,Grand Canyon,34,41,21,1,1,DeWayne Russell made Free Throw.
+St. Edward's,Grand Canyon,34,41,21,21,0,John Gramlich missed Jumper.
+St. Edward's,Grand Canyon,34,41,21,21,0,DeWayne Russell Defensive Rebound.
+St. Edward's,Grand Canyon,34,41,21,29,0,DeWayne Russell Turnover.
+St. Edward's,Grand Canyon,34,41,21,45,0,Foul on Joshua Braun.
+St. Edward's,Grand Canyon,35,41,21,45,1,Trey Lindsey made Free Throw.
+St. Edward's,Grand Canyon,35,41,21,45,0,Trey Lindsey missed Free Throw.
+St. Edward's,Grand Canyon,35,41,21,45,0,Joshua Braun Defensive Rebound.
+St. Edward's,Grand Canyon,35,43,21,59,1,Kerwin Smith made Layup. Assisted by Jerome Garrison.
+St. Edward's,Grand Canyon,35,43,21,59,0,Foul on Harley Nussman.
+St. Edward's,Grand Canyon,35,44,21,59,1,Kerwin Smith made Free Throw.
+St. Edward's,Grand Canyon,35,44,22,18,0,Foul on DeWayne Russell.
+St. Edward's,Grand Canyon,35,44,22,22,0,Ramir Burton missed Jumper.
+St. Edward's,Grand Canyon,35,44,22,22,0,Ryan Majerle Defensive Rebound.
+St. Edward's,Grand Canyon,35,44,22,27,0,Jerome Garrison Turnover.
+St. Edward's,Grand Canyon,35,44,22,28,0,Frankie Mgbolu Steal.
+St. Edward's,Grand Canyon,35,44,22,30,0,Ramir Burton missed Layup.
+St. Edward's,Grand Canyon,35,44,22,30,0,St. Edwards Offensive Rebound.
+St. Edward's,Grand Canyon,37,44,22,32,1,Ramir Burton made Layup. Assisted by Frankie Mgbolu.
+St. Edward's,Grand Canyon,37,46,22,53,1,Joshua Braun made Jumper.
+St. Edward's,Grand Canyon,39,46,23,10,1,Trey Lindsey made Jumper.
+St. Edward's,Grand Canyon,39,46,23,32,0,Joshua Braun missed Jumper.
+St. Edward's,Grand Canyon,39,46,23,32,0,Ryan Majerle Offensive Rebound.
+St. Edward's,Grand Canyon,39,46,23,35,0,Ryan Majerle missed Jumper.
+St. Edward's,Grand Canyon,39,46,23,35,0,Kerwin Smith Offensive Rebound.
+St. Edward's,Grand Canyon,39,48,23,38,1,Kerwin Smith made Layup.
+St. Edward's,Grand Canyon,39,48,23,59,0,Frankie Mgbolu missed Layup.
+St. Edward's,Grand Canyon,39,48,23,59,0,Jerome Garrison Defensive Rebound.
+St. Edward's,Grand Canyon,39,50,24,6,1,DeWayne Russell made Layup. Assisted by Jerome Garrison.
+St. Edward's,Grand Canyon,39,50,24,6,0,Foul on Ramir Burton.
+St. Edward's,Grand Canyon,39,50,24,6,0,Official TV Timeout
+St. Edward's,Grand Canyon,39,50,24,6,0,DeWayne Russell missed Free Throw.
+St. Edward's,Grand Canyon,39,50,24,6,0,St. Edwards Defensive Rebound.
+St. Edward's,Grand Canyon,39,50,24,19,0,Trey Lindsey missed Layup.
+St. Edward's,Grand Canyon,39,50,24,19,0,Kerwin Smith Block.
+St. Edward's,Grand Canyon,39,50,24,19,0,Grand Canyon Defensive Rebound.
+St. Edward's,Grand Canyon,39,50,24,43,0,Foul on Harley Nussman.
+St. Edward's,Grand Canyon,39,51,24,43,1,Kerwin Smith made Free Throw.
+St. Edward's,Grand Canyon,39,51,24,43,0,Kerwin Smith missed Free Throw.
+St. Edward's,Grand Canyon,39,51,24,43,0,Ramir Burton Defensive Rebound.
+St. Edward's,Grand Canyon,39,51,24,57,0,Ramir Burton missed Jumper.
+St. Edward's,Grand Canyon,39,51,24,57,0,Kerwin Smith Defensive Rebound.
+St. Edward's,Grand Canyon,39,51,25,8,0,Kerwin Smith Turnover.
+St. Edward's,Grand Canyon,39,51,25,8,0,Foul on Kerwin Smith.
+St. Edward's,Grand Canyon,39,51,25,32,0,Trey Lindsey Turnover.
+St. Edward's,Grand Canyon,39,51,25,32,0,Foul on Trey Lindsey.
+St. Edward's,Grand Canyon,39,51,25,45,0,Foul on Quinton Lilley.
+St. Edward's,Grand Canyon,39,52,25,45,1,Kerwin Smith made Free Throw.
+St. Edward's,Grand Canyon,39,52,25,45,0,Kerwin Smith missed Free Throw.
+St. Edward's,Grand Canyon,39,52,25,45,0,Harley Nussman Defensive Rebound.
+St. Edward's,Grand Canyon,41,52,26,1,1,Ramir Burton made Jumper.
+St. Edward's,Grand Canyon,41,52,26,1,0,Foul on Kerwin Smith.
+St. Edward's,Grand Canyon,41,52,26,1,0,Ramir Burton missed Free Throw.
+St. Edward's,Grand Canyon,41,52,26,1,0,Joshua Braun Defensive Rebound.
+St. Edward's,Grand Canyon,41,52,26,9,0,DeWayne Russell Turnover.
+St. Edward's,Grand Canyon,41,52,26,9,0,Foul on DeWayne Russell.
+St. Edward's,Grand Canyon,43,52,26,27,1,Frankie Mgbolu made Layup.
+St. Edward's,Grand Canyon,43,52,26,36,0,DeWayne Russell Turnover.
+St. Edward's,Grand Canyon,43,52,26,36,0,Grand Canyon  Timeout
+St. Edward's,Grand Canyon,43,52,26,52,0,Harley Nussman missed Jumper.
+St. Edward's,Grand Canyon,43,52,26,52,0,Frankie Mgbolu Offensive Rebound.
+St. Edward's,Grand Canyon,45,52,26,55,1,Frankie Mgbolu made Layup.
+St. Edward's,Grand Canyon,45,54,27,20,1,De'Andre Davis made Jumper.
+St. Edward's,Grand Canyon,45,54,27,36,0,Ramir Burton Turnover.
+St. Edward's,Grand Canyon,45,56,27,51,1,Kerwin Smith made Jumper.
+St. Edward's,Grand Canyon,45,56,27,51,0,Foul on Quinton Lilley.
+St. Edward's,Grand Canyon,45,57,27,51,1,Kerwin Smith made Free Throw.
+St. Edward's,Grand Canyon,45,57,28,10,0,Foul on Royce Woolridge.
+St. Edward's,Grand Canyon,45,57,28,10,0,Official TV Timeout
+St. Edward's,Grand Canyon,47,57,28,12,1,Aubrie King made Jumper. Assisted by Ethan Gilbert.
+St. Edward's,Grand Canyon,47,59,28,28,1,Kerwin Smith made Layup.
+St. Edward's,Grand Canyon,47,59,28,41,0,Quinton Lilley missed Jumper.
+St. Edward's,Grand Canyon,47,59,28,41,0,De'Andre Davis Defensive Rebound.
+St. Edward's,Grand Canyon,47,59,28,49,0,De'Andre Davis Turnover.
+St. Edward's,Grand Canyon,47,59,28,49,0,Foul on De'Andre Davis.
+St. Edward's,Grand Canyon,47,59,29,1,0,Ethan Gilbert missed Three Point Jumper.
+St. Edward's,Grand Canyon,47,59,29,1,0,Royce Woolridge Defensive Rebound.
+St. Edward's,Grand Canyon,47,61,29,20,1,Royce Woolridge made Layup.
+St. Edward's,Grand Canyon,47,61,29,38,0,Harley Nussman missed Layup.
+St. Edward's,Grand Canyon,47,61,29,38,0,Royce Woolridge Defensive Rebound.
+St. Edward's,Grand Canyon,47,61,29,51,0,Royce Woolridge missed Jumper.
+St. Edward's,Grand Canyon,47,61,29,51,0,Royce Woolridge Offensive Rebound.
+St. Edward's,Grand Canyon,47,63,29,59,1,Ryan Majerle made Layup.
+St. Edward's,Grand Canyon,47,63,30,6,0,St. Edwards  Timeout
+St. Edward's,Grand Canyon,47,63,30,9,0,Aubrie King missed Three Point Jumper.
+St. Edward's,Grand Canyon,47,63,30,9,0,St. Edwards Offensive Rebound.
+St. Edward's,Grand Canyon,47,63,30,20,0,Ramir Burton Turnover.
+St. Edward's,Grand Canyon,47,63,30,34,0,Foul on Jae Ricketts.
+St. Edward's,Grand Canyon,47,63,30,34,0,Royce Woolridge missed Free Throw.
+St. Edward's,Grand Canyon,47,63,30,34,0,Grand Canyon Deadball Team Rebound.
+St. Edward's,Grand Canyon,47,64,30,34,1,Royce Woolridge made Free Throw.
+St. Edward's,Grand Canyon,47,64,30,41,0,Foul on Kerwin Smith.
+St. Edward's,Grand Canyon,47,64,30,41,0,Jae Ricketts missed Free Throw.
+St. Edward's,Grand Canyon,47,64,30,41,0,St. Edwards Deadball Team Rebound.
+St. Edward's,Grand Canyon,48,64,30,41,1,Jae Ricketts made Free Throw.
+St. Edward's,Grand Canyon,48,64,31,3,0,Royce Woolridge missed Layup.
+St. Edward's,Grand Canyon,48,64,31,3,0,Jae Ricketts Defensive Rebound.
+St. Edward's,Grand Canyon,48,64,31,15,0,Jae Ricketts missed Jumper.
+St. Edward's,Grand Canyon,48,64,31,15,0,De'Andre Davis Defensive Rebound.
+St. Edward's,Grand Canyon,48,64,31,22,0,De'Andre Davis Turnover.
+St. Edward's,Grand Canyon,48,64,31,23,0,Ethan Gilbert Steal.
+St. Edward's,Grand Canyon,48,64,31,26,0,Ethan Gilbert Turnover.
+St. Edward's,Grand Canyon,48,64,31,49,0,Royce Woolridge Turnover.
+St. Edward's,Grand Canyon,48,64,31,50,0,Quinton Lilley Steal.
+St. Edward's,Grand Canyon,48,64,31,53,0,John Gramlich missed Three Point Jumper.
+St. Edward's,Grand Canyon,48,64,31,53,0,Joshua Braun Defensive Rebound.
+St. Edward's,Grand Canyon,48,66,32,3,1,Joshua Braun made Layup.
+St. Edward's,Grand Canyon,48,66,32,3,0,Foul on Ramir Burton.
+St. Edward's,Grand Canyon,48,66,32,3,0,Official TV Timeout
+St. Edward's,Grand Canyon,48,67,32,3,1,Joshua Braun made Free Throw.
+St. Edward's,Grand Canyon,48,67,32,24,0,John Gramlich missed Jumper.
+St. Edward's,Grand Canyon,48,67,32,24,0,Miroslav Jaksic Defensive Rebound.
+St. Edward's,Grand Canyon,48,67,32,46,0,Miroslav Jaksic Turnover.
+St. Edward's,Grand Canyon,48,67,33,2,0,Trey Lindsey missed Jumper.
+St. Edward's,Grand Canyon,48,67,33,2,0,Joshua Braun Defensive Rebound.
+St. Edward's,Grand Canyon,48,69,33,9,1,De'Andre Davis made Layup.
+St. Edward's,Grand Canyon,48,69,33,28,0,Ramir Burton Turnover.
+St. Edward's,Grand Canyon,48,69,33,29,0,De'Andre Davis Steal.
+St. Edward's,Grand Canyon,48,71,33,31,1,De'Andre Davis made Layup.
+St. Edward's,Grand Canyon,48,71,33,33,0,St. Edwards  Timeout
+St. Edward's,Grand Canyon,48,71,33,53,0,Harley Nussman missed Layup.
+St. Edward's,Grand Canyon,48,71,33,53,0,Miroslav Jaksic Block.
+St. Edward's,Grand Canyon,48,71,33,56,0,Miroslav Jaksic Defensive Rebound.
+St. Edward's,Grand Canyon,48,71,34,17,0,Miroslav Jaksic missed Layup.
+St. Edward's,Grand Canyon,48,71,34,17,0,John Gramlich Defensive Rebound.
+St. Edward's,Grand Canyon,48,71,34,28,0,Trey Lindsey Turnover.
+St. Edward's,Grand Canyon,48,71,34,30,0,DeWayne Russell Steal.
+St. Edward's,Grand Canyon,48,71,34,43,0,Foul on Frankie Mgbolu.
+St. Edward's,Grand Canyon,48,72,34,43,1,DeWayne Russell made Free Throw.
+St. Edward's,Grand Canyon,48,73,34,43,1,DeWayne Russell made Free Throw.
+St. Edward's,Grand Canyon,48,73,34,55,0,Trey Lindsey missed Three Point Jumper.
+St. Edward's,Grand Canyon,48,73,34,55,0,Royce Woolridge Defensive Rebound.
+St. Edward's,Grand Canyon,48,73,35,15,0,Royce Woolridge missed Three Point Jumper.
+St. Edward's,Grand Canyon,48,73,35,15,0,St. Edwards Defensive Rebound.
+St. Edward's,Grand Canyon,48,73,35,27,0,Foul on Joshua Braun.
+St. Edward's,Grand Canyon,49,73,35,27,1,Quinton Lilley made Free Throw.
+St. Edward's,Grand Canyon,50,73,35,27,1,Quinton Lilley made Free Throw.
+St. Edward's,Grand Canyon,50,73,35,34,0,DeWayne Russell Turnover.
+St. Edward's,Grand Canyon,50,73,35,35,0,Quinton Lilley Steal.
+St. Edward's,Grand Canyon,50,73,35,36,0,Foul on De'Andre Davis.
+St. Edward's,Grand Canyon,51,73,35,36,1,Ramir Burton made Free Throw.
+St. Edward's,Grand Canyon,52,73,35,36,1,Ramir Burton made Free Throw.
+St. Edward's,Grand Canyon,52,75,35,46,1,Jerome Garrison made Layup. Assisted by De'Andre Davis.
+St. Edward's,Grand Canyon,52,75,35,52,0,Foul on Matt Jackson.
+St. Edward's,Grand Canyon,53,75,35,52,1,Ramir Burton made Free Throw.
+St. Edward's,Grand Canyon,54,75,35,52,1,Ramir Burton made Free Throw.
+St. Edward's,Grand Canyon,54,77,36,7,1,Jerome Garrison made Layup. Assisted by De'Andre Davis.
+St. Edward's,Grand Canyon,54,77,36,7,0,Foul on John Gramlich.
+St. Edward's,Grand Canyon,54,77,36,7,0,Official TV Timeout
+St. Edward's,Grand Canyon,54,77,36,7,0,Jerome Garrison missed Free Throw.
+St. Edward's,Grand Canyon,54,77,36,7,0,Ramir Burton Defensive Rebound.
+St. Edward's,Grand Canyon,54,77,36,23,0,Ramir Burton missed Jumper.
+St. Edward's,Grand Canyon,54,77,36,23,0,Miroslav Jaksic Block.
+St. Edward's,Grand Canyon,54,77,36,26,0,Matt Jackson Defensive Rebound.
+St. Edward's,Grand Canyon,54,77,36,36,0,Matt Jackson missed Layup.
+St. Edward's,Grand Canyon,54,77,36,36,0,Quinton Lilley Defensive Rebound.
+St. Edward's,Grand Canyon,54,77,36,42,0,Quinton Lilley Turnover.
+St. Edward's,Grand Canyon,54,77,36,43,0,DeWayne Russell Steal.
+St. Edward's,Grand Canyon,54,77,36,57,0,De'Andre Davis missed Jumper.
+St. Edward's,Grand Canyon,54,77,36,57,0,Quinton Lilley Defensive Rebound.
+St. Edward's,Grand Canyon,54,77,37,7,0,Jae Ricketts missed Three Point Jumper.
+St. Edward's,Grand Canyon,54,77,37,7,0,Adrian Armas Defensive Rebound.
+St. Edward's,Grand Canyon,54,79,37,37,1,Miroslav Jaksic made Layup.
+St. Edward's,Grand Canyon,54,79,37,37,0,Foul on Jae Ricketts.
+St. Edward's,Grand Canyon,54,79,37,37,0,Miroslav Jaksic missed Free Throw.
+St. Edward's,Grand Canyon,54,79,37,37,0,St. Edwards Defensive Rebound.
+St. Edward's,Grand Canyon,54,79,37,37,0,Foul on Jevon Estelle.
+St. Edward's,Grand Canyon,55,79,37,37,1,Quinton Lilley made Free Throw.
+St. Edward's,Grand Canyon,55,79,37,37,0,Quinton Lilley missed Free Throw.
+St. Edward's,Grand Canyon,55,79,37,37,0,De'Andre Davis Defensive Rebound.
+St. Edward's,Grand Canyon,55,79,37,52,0,De'Andre Davis Turnover.
+St. Edward's,Grand Canyon,55,79,38,8,0,Quinton Lilley missed Jumper.
+St. Edward's,Grand Canyon,55,79,38,8,0,Miroslav Jaksic Defensive Rebound.
+St. Edward's,Grand Canyon,55,79,38,22,0,Foul on Sean Watkins.
+St. Edward's,Grand Canyon,55,79,38,22,0,Adrian Armas missed Free Throw.
+St. Edward's,Grand Canyon,55,79,38,22,0,Grand Canyon Deadball Team Rebound.
+St. Edward's,Grand Canyon,55,79,38,22,0,Adrian Armas missed Free Throw.
+St. Edward's,Grand Canyon,55,79,38,22,0,Aubrie King Defensive Rebound.
+St. Edward's,Grand Canyon,55,79,38,32,0,Quinton Lilley missed Layup.
+St. Edward's,Grand Canyon,55,79,38,32,0,Miroslav Jaksic Defensive Rebound.
+St. Edward's,Grand Canyon,55,79,38,46,0,Miroslav Jaksic missed Three Point Jumper.
+St. Edward's,Grand Canyon,55,79,38,46,0,St. Edwards Defensive Rebound.
+St. Edward's,Grand Canyon,55,79,39,2,0,Foul on Jevon Estelle.
+St. Edward's,Grand Canyon,55,79,39,2,0,Quinton Lilley missed Free Throw.
+St. Edward's,Grand Canyon,55,79,39,2,0,St. Edwards Deadball Team Rebound.
+St. Edward's,Grand Canyon,55,79,39,2,0,Quinton Lilley missed Free Throw.
+St. Edward's,Grand Canyon,55,79,39,2,0,Miroslav Jaksic Defensive Rebound.
+St. Edward's,Grand Canyon,55,81,39,20,1,Isaiah Juarez made Layup.
+St. Edward's,Grand Canyon,55,81,39,35,0,Sean Watkins missed Three Point Jumper.
+St. Edward's,Grand Canyon,55,81,39,35,0,Isaiah Juarez Defensive Rebound.
+St. Edward's,Grand Canyon,55,81,40,0,0,End of Game

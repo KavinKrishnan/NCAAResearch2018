@@ -1,0 +1,386 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Grand Canyon,Chicago State,0,2,0,15,1,Trayvon Palmer made Layup.
+Grand Canyon,Chicago State,3,2,0,34,1,Joshua Braun made Three Point Jumper. Assisted by DeWayne Russell.
+Grand Canyon,Chicago State,3,4,0,57,1,Joshua Batson made Layup. Assisted by Trayvon Palmer.
+Grand Canyon,Chicago State,6,4,1,6,1,Joshua Braun made Three Point Jumper. Assisted by Gerard Martin.
+Grand Canyon,Chicago State,6,4,1,30,0,Fred Sims Jr. missed Jumper.
+Grand Canyon,Chicago State,6,4,1,30,0,Chicago St Offensive Rebound.
+Grand Canyon,Chicago State,6,4,1,35,0,Foul on DeWayne Russell.
+Grand Canyon,Chicago State,6,4,1,35,0,Fred Sims Jr. missed Free Throw.
+Grand Canyon,Chicago State,6,4,1,35,0,Chicago St Deadball Team Rebound.
+Grand Canyon,Chicago State,6,5,1,35,1,Fred Sims Jr. made Free Throw.
+Grand Canyon,Chicago State,6,5,1,54,0,Foul on Joshua Batson.
+Grand Canyon,Chicago State,6,5,2,3,0,Gerard Martin missed Layup.
+Grand Canyon,Chicago State,6,5,2,3,0,Matt Jackson Offensive Rebound.
+Grand Canyon,Chicago State,6,5,2,6,0,Matt Jackson Turnover.
+Grand Canyon,Chicago State,6,5,2,8,0,Delundre Dixon Steal.
+Grand Canyon,Chicago State,6,5,2,15,0,Delundre Dixon Turnover.
+Grand Canyon,Chicago State,6,5,2,25,0,Foul on Quron Davis.
+Grand Canyon,Chicago State,6,5,2,38,0,Foul on Delundre Dixon.
+Grand Canyon,Chicago State,6,5,2,38,0,Matt Jackson missed Free Throw.
+Grand Canyon,Chicago State,6,5,2,38,0,Grand Canyon Deadball Team Rebound.
+Grand Canyon,Chicago State,7,5,2,38,1,Matt Jackson made Free Throw.
+Grand Canyon,Chicago State,7,5,2,50,0,Trayvon Palmer missed Layup.
+Grand Canyon,Chicago State,7,5,2,50,0,Gerard Martin Block.
+Grand Canyon,Chicago State,7,5,2,54,0,Joshua Braun Defensive Rebound.
+Grand Canyon,Chicago State,9,5,3,15,1,Grandy Glaze made Layup.
+Grand Canyon,Chicago State,9,5,3,46,0,Fred Sims Jr. missed Three Point Jumper.
+Grand Canyon,Chicago State,9,5,3,46,0,Matt Jackson Defensive Rebound.
+Grand Canyon,Chicago State,9,5,3,49,0,Matt Jackson Turnover.
+Grand Canyon,Chicago State,9,5,4,3,0,Trayvon Palmer missed Layup.
+Grand Canyon,Chicago State,9,5,4,3,0,Matt Jackson Defensive Rebound.
+Grand Canyon,Chicago State,9,5,4,9,0,Joshua Braun missed Three Point Jumper.
+Grand Canyon,Chicago State,9,5,4,9,0,Trayvon Palmer Defensive Rebound.
+Grand Canyon,Chicago State,9,5,4,13,0,Foul on Matt Jackson.
+Grand Canyon,Chicago State,9,5,4,13,0,Official TV Timeout
+Grand Canyon,Chicago State,9,5,4,40,0,Foul on Gerard Martin.
+Grand Canyon,Chicago State,9,5,4,40,0,Trayvon Palmer missed Free Throw.
+Grand Canyon,Chicago State,9,5,4,40,0,Chicago St Deadball Team Rebound.
+Grand Canyon,Chicago State,9,6,4,40,1,Trayvon Palmer made Free Throw.
+Grand Canyon,Chicago State,12,6,5,3,1,Gerard Martin made Three Point Jumper. Assisted by Keonta Vernon.
+Grand Canyon,Chicago State,12,6,5,30,0,Clemmye Owens V missed Jumper.
+Grand Canyon,Chicago State,12,6,5,30,0,Trayvon Palmer Offensive Rebound.
+Grand Canyon,Chicago State,12,6,5,44,0,Trayvon Palmer missed Three Point Jumper.
+Grand Canyon,Chicago State,12,6,5,44,0,Grandy Glaze Defensive Rebound.
+Grand Canyon,Chicago State,12,6,6,13,0,Dominic Magee missed Jumper.
+Grand Canyon,Chicago State,12,6,6,13,0,Grandy Glaze Offensive Rebound.
+Grand Canyon,Chicago State,12,6,6,27,0,Joshua Braun missed Jumper.
+Grand Canyon,Chicago State,12,6,6,27,0,Grand Canyon Offensive Rebound.
+Grand Canyon,Chicago State,12,6,6,30,0,Foul on Trayvon Palmer.
+Grand Canyon,Chicago State,14,6,6,37,1,Joshua Braun made Layup.
+Grand Canyon,Chicago State,14,6,6,54,0,Anthony Eaves missed Jumper.
+Grand Canyon,Chicago State,14,6,6,54,0,Joshua Braun Defensive Rebound.
+Grand Canyon,Chicago State,14,6,7,9,0,Keonta Vernon missed Layup.
+Grand Canyon,Chicago State,14,6,7,9,0,Trayvon Palmer Block.
+Grand Canyon,Chicago State,14,6,7,11,0,Grand Canyon Offensive Rebound.
+Grand Canyon,Chicago State,16,6,7,21,1,Grandy Glaze made Layup. Assisted by De'Andre Davis.
+Grand Canyon,Chicago State,16,9,7,49,1,Clemmye Owens V made Three Point Jumper. Assisted by Kieran Woods.
+Grand Canyon,Chicago State,16,9,8,5,0,Dominic Magee missed Three Point Jumper.
+Grand Canyon,Chicago State,16,9,8,5,0,Keonta Vernon Offensive Rebound.
+Grand Canyon,Chicago State,16,9,8,9,0,Foul on Clemmye Owens V.
+Grand Canyon,Chicago State,16,9,8,9,0,Official TV Timeout
+Grand Canyon,Chicago State,16,9,8,9,0,Keonta Vernon missed Free Throw.
+Grand Canyon,Chicago State,16,9,8,9,0,Grand Canyon Deadball Team Rebound.
+Grand Canyon,Chicago State,16,9,8,9,0,Keonta Vernon missed Free Throw.
+Grand Canyon,Chicago State,16,9,8,9,0,De'Andre Davis Offensive Rebound.
+Grand Canyon,Chicago State,16,9,8,28,0,Foul on Elliott Cole.
+Grand Canyon,Chicago State,18,9,8,37,1,De'Andre Davis made Layup.
+Grand Canyon,Chicago State,18,12,8,45,1,Clemmye Owens V made Three Point Jumper. Assisted by Joshua Batson.
+Grand Canyon,Chicago State,18,12,9,12,0,Dominic Magee Turnover.
+Grand Canyon,Chicago State,18,12,9,22,0,Clemmye Owens V missed Three Point Jumper.
+Grand Canyon,Chicago State,18,12,9,22,0,Keonta Vernon Defensive Rebound.
+Grand Canyon,Chicago State,18,12,9,33,0,Foul on Joshua Batson.
+Grand Canyon,Chicago State,18,12,9,33,0,Dominic Magee missed Free Throw.
+Grand Canyon,Chicago State,18,12,9,33,0,Clemmye Owens V Defensive Rebound.
+Grand Canyon,Chicago State,18,12,9,51,0,Clemmye Owens V missed Jumper.
+Grand Canyon,Chicago State,18,12,9,51,0,Keonta Vernon Defensive Rebound.
+Grand Canyon,Chicago State,18,12,10,11,0,Quron Davis Block.
+Grand Canyon,Chicago State,18,12,10,11,0,Dominic Magee missed Layup.
+Grand Canyon,Chicago State,18,12,10,14,0,Grand Canyon Offensive Rebound.
+Grand Canyon,Chicago State,18,12,10,16,0,Ryan Majerle missed Three Point Jumper.
+Grand Canyon,Chicago State,18,12,10,16,0,Fred Sims Jr. Defensive Rebound.
+Grand Canyon,Chicago State,18,12,10,24,0,Foul on Ryan Majerle.
+Grand Canyon,Chicago State,18,14,10,36,1,Fred Sims Jr. made Jumper. Assisted by Clemmye Owens V.
+Grand Canyon,Chicago State,18,14,10,55,0,Keonta Vernon missed Jumper.
+Grand Canyon,Chicago State,18,14,10,55,0,Ryan Majerle Defensive Rebound.
+Grand Canyon,Chicago State,20,14,11,7,1,Joshua Braun made Layup.
+Grand Canyon,Chicago State,20,14,11,11,0,Quron Davis missed Layup.
+Grand Canyon,Chicago State,20,14,11,11,0,Joshua Braun Defensive Rebound.
+Grand Canyon,Chicago State,20,14,11,18,0,Joshua Braun missed Jumper.
+Grand Canyon,Chicago State,20,14,11,18,0,Fred Sims Jr. Block.
+Grand Canyon,Chicago State,20,14,11,20,0,Joshua Braun Offensive Rebound.
+Grand Canyon,Chicago State,20,14,11,20,0,Foul on Kieran Woods.
+Grand Canyon,Chicago State,21,14,11,20,1,De'Andre Davis made Free Throw.
+Grand Canyon,Chicago State,22,14,11,20,1,De'Andre Davis made Free Throw.
+Grand Canyon,Chicago State,22,17,11,33,1,Elliott Cole made Three Point Jumper. Assisted by Fred Sims Jr..
+Grand Canyon,Chicago State,22,17,11,52,0,Dominic Magee missed Jumper.
+Grand Canyon,Chicago State,22,17,11,52,0,Chicago St Defensive Rebound.
+Grand Canyon,Chicago State,22,17,11,54,0,Foul on Dominic Magee.
+Grand Canyon,Chicago State,22,17,12,13,0,Fred Sims Jr. missed Three Point Jumper.
+Grand Canyon,Chicago State,22,17,12,13,0,Gerard Martin Defensive Rebound.
+Grand Canyon,Chicago State,24,17,12,26,1,Matt Jackson made Layup. Assisted by Joshua Braun.
+Grand Canyon,Chicago State,24,17,12,45,0,Fred Sims Jr. missed Three Point Jumper.
+Grand Canyon,Chicago State,24,17,12,45,0,Gerard Martin Defensive Rebound.
+Grand Canyon,Chicago State,24,17,12,52,0,Joshua Braun missed Three Point Jumper.
+Grand Canyon,Chicago State,24,17,12,52,0,Clemmye Owens V Defensive Rebound.
+Grand Canyon,Chicago State,24,19,13,2,1,Jordan Madrid-Andrews made Layup. Assisted by Kieran Woods.
+Grand Canyon,Chicago State,24,19,13,21,0,DeWayne Russell missed Jumper.
+Grand Canyon,Chicago State,24,19,13,21,0,Grandy Glaze Offensive Rebound.
+Grand Canyon,Chicago State,26,19,13,22,1,Grandy Glaze made Layup.
+Grand Canyon,Chicago State,26,19,13,22,0,Foul on Jordan Madrid-Andrews.
+Grand Canyon,Chicago State,26,19,13,22,0,Official TV Timeout
+Grand Canyon,Chicago State,27,19,13,22,1,Grandy Glaze made Free Throw.
+Grand Canyon,Chicago State,27,19,13,34,0,Kieran Woods missed Layup.
+Grand Canyon,Chicago State,27,19,13,34,0,Kieran Woods Offensive Rebound.
+Grand Canyon,Chicago State,27,19,13,45,0,Jordan Madrid-Andrews Turnover.
+Grand Canyon,Chicago State,27,19,14,1,0,DeWayne Russell missed Jumper.
+Grand Canyon,Chicago State,27,19,14,1,0,Joshua Braun Offensive Rebound.
+Grand Canyon,Chicago State,27,19,14,7,0,Gerard Martin missed Three Point Jumper.
+Grand Canyon,Chicago State,27,19,14,7,0,Clemmye Owens V Defensive Rebound.
+Grand Canyon,Chicago State,27,19,14,37,0,Jordan Madrid-Andrews missed Layup.
+Grand Canyon,Chicago State,27,19,14,37,0,Grand Canyon Defensive Rebound.
+Grand Canyon,Chicago State,27,19,14,42,0,Foul on Quron Davis.
+Grand Canyon,Chicago State,28,19,14,42,1,Grandy Glaze made Free Throw.
+Grand Canyon,Chicago State,29,19,14,42,1,Grandy Glaze made Free Throw.
+Grand Canyon,Chicago State,29,19,14,54,0,Clemmye Owens V Turnover.
+Grand Canyon,Chicago State,29,19,14,57,0,Joshua Braun Steal.
+Grand Canyon,Chicago State,32,19,15,12,1,Matt Jackson made Three Point Jumper. Assisted by DeWayne Russell.
+Grand Canyon,Chicago State,32,19,15,21,0,Chicago St  Timeout
+Grand Canyon,Chicago State,32,19,15,28,0,Foul on Clemmye Owens V.
+Grand Canyon,Chicago State,32,19,15,28,0,Clemmye Owens V Turnover.
+Grand Canyon,Chicago State,32,19,15,40,0,DeWayne Russell missed Jumper.
+Grand Canyon,Chicago State,32,19,15,40,0,Trayvon Palmer Block.
+Grand Canyon,Chicago State,32,19,15,42,0,Joshua Braun Offensive Rebound.
+Grand Canyon,Chicago State,32,19,15,44,0,Joshua Braun Turnover.
+Grand Canyon,Chicago State,32,19,15,45,0,Fred Sims Jr. Steal.
+Grand Canyon,Chicago State,32,19,15,48,0,Foul on Gerard Martin.
+Grand Canyon,Chicago State,32,19,15,48,0,Kieran Woods missed Free Throw.
+Grand Canyon,Chicago State,32,19,15,48,0,Chicago St Deadball Team Rebound.
+Grand Canyon,Chicago State,32,20,15,48,1,Kieran Woods made Free Throw.
+Grand Canyon,Chicago State,34,20,16,10,1,Grandy Glaze made Jumper. Assisted by Joshua Braun.
+Grand Canyon,Chicago State,34,23,16,41,1,Montana Byrd made Three Point Jumper. Assisted by Trayvon Palmer.
+Grand Canyon,Chicago State,34,23,16,57,0,Grandy Glaze missed Jumper.
+Grand Canyon,Chicago State,34,23,16,57,0,Trayvon Palmer Defensive Rebound.
+Grand Canyon,Chicago State,34,23,17,5,0,Elliott Cole missed Three Point Jumper.
+Grand Canyon,Chicago State,34,23,17,5,0,Grandy Glaze Defensive Rebound.
+Grand Canyon,Chicago State,36,23,17,23,1,DeWayne Russell made Jumper.
+Grand Canyon,Chicago State,36,23,17,39,0,Montana Byrd missed Three Point Jumper.
+Grand Canyon,Chicago State,36,23,17,39,0,DeWayne Russell Defensive Rebound.
+Grand Canyon,Chicago State,38,23,17,54,1,Joshua Braun made Layup. Assisted by Matt Jackson.
+Grand Canyon,Chicago State,38,25,18,10,1,Fred Sims Jr. made Layup. Assisted by Elliott Cole.
+Grand Canyon,Chicago State,38,25,18,28,0,Matt Jackson missed Layup.
+Grand Canyon,Chicago State,38,25,18,28,0,Trayvon Palmer Block.
+Grand Canyon,Chicago State,38,25,18,29,0,Grand Canyon Offensive Rebound.
+Grand Canyon,Chicago State,38,25,18,29,0,Official TV Timeout
+Grand Canyon,Chicago State,38,25,18,38,0,De'Andre Davis missed Jumper.
+Grand Canyon,Chicago State,38,25,18,38,0,Trayvon Palmer Block.
+Grand Canyon,Chicago State,38,25,18,38,0,De'Andre Davis Offensive Rebound.
+Grand Canyon,Chicago State,38,25,18,38,0,Foul on Trayvon Palmer.
+Grand Canyon,Chicago State,39,25,18,38,1,De'Andre Davis made Free Throw.
+Grand Canyon,Chicago State,40,25,18,38,1,De'Andre Davis made Free Throw.
+Grand Canyon,Chicago State,40,25,18,51,0,Fred Sims Jr. missed Jumper.
+Grand Canyon,Chicago State,40,25,18,51,0,Grandy Glaze Defensive Rebound.
+Grand Canyon,Chicago State,40,25,19,3,0,Dominic Magee missed Jumper.
+Grand Canyon,Chicago State,40,25,19,3,0,De'Andre Davis Offensive Rebound.
+Grand Canyon,Chicago State,40,25,19,9,0,De'Andre Davis missed Layup.
+Grand Canyon,Chicago State,40,25,19,9,0,Grandy Glaze Offensive Rebound.
+Grand Canyon,Chicago State,42,25,19,10,1,Grandy Glaze made Layup.
+Grand Canyon,Chicago State,42,25,19,10,0,Foul on Trayvon Palmer.
+Grand Canyon,Chicago State,42,25,19,10,0,Grandy Glaze missed Free Throw.
+Grand Canyon,Chicago State,42,25,19,10,0,Jordan Madrid-Andrews Defensive Rebound.
+Grand Canyon,Chicago State,42,25,19,11,0,Foul on Keonta Vernon.
+Grand Canyon,Chicago State,42,26,19,11,1,Jordan Madrid-Andrews made Free Throw.
+Grand Canyon,Chicago State,42,26,19,11,0,Jordan Madrid-Andrews missed Free Throw.
+Grand Canyon,Chicago State,42,26,19,11,0,Delundre Dixon Offensive Rebound.
+Grand Canyon,Chicago State,42,26,19,12,0,Foul on Grandy Glaze.
+Grand Canyon,Chicago State,42,27,19,12,1,Delundre Dixon made Free Throw.
+Grand Canyon,Chicago State,42,28,19,12,1,Delundre Dixon made Free Throw.
+Grand Canyon,Chicago State,42,28,19,23,0,Foul on Montana Byrd.
+Grand Canyon,Chicago State,43,28,19,23,1,Joshua Braun made Free Throw.
+Grand Canyon,Chicago State,43,28,19,23,0,Joshua Braun missed Free Throw.
+Grand Canyon,Chicago State,43,28,19,23,0,Montana Byrd Defensive Rebound.
+Grand Canyon,Chicago State,43,31,19,37,1,Montana Byrd made Three Point Jumper. Assisted by Anthony Eaves.
+Grand Canyon,Chicago State,43,31,19,48,0,Grand Canyon  Timeout
+Grand Canyon,Chicago State,43,31,19,55,0,Joshua Braun missed Layup.
+Grand Canyon,Chicago State,43,31,19,55,0,Jordan Madrid-Andrews Defensive Rebound.
+Grand Canyon,Chicago State,43,31,20,0,0,Anthony Eaves missed Jumper.
+Grand Canyon,Chicago State,43,31,20,0,0,Dominic Magee Defensive Rebound.
+Grand Canyon,Chicago State,43,31,20,0,0,End of 1st half
+Grand Canyon,Chicago State,43,31,20,12,0,Quron Davis Turnover.
+Grand Canyon,Chicago State,45,31,20,33,1,Grandy Glaze made Jumper.
+Grand Canyon,Chicago State,45,31,20,54,0,Quron Davis missed Layup.
+Grand Canyon,Chicago State,45,31,20,54,0,Gerard Martin Defensive Rebound.
+Grand Canyon,Chicago State,48,31,21,8,1,Gerard Martin made Three Point Jumper. Assisted by DeWayne Russell.
+Grand Canyon,Chicago State,48,31,21,25,0,Joshua Batson missed Layup.
+Grand Canyon,Chicago State,48,31,21,25,0,Matt Jackson Block.
+Grand Canyon,Chicago State,48,31,21,27,0,Joshua Braun Defensive Rebound.
+Grand Canyon,Chicago State,48,31,21,38,0,Joshua Braun missed Three Point Jumper.
+Grand Canyon,Chicago State,48,31,21,38,0,Matt Jackson Offensive Rebound.
+Grand Canyon,Chicago State,48,31,21,40,0,Foul on Delundre Dixon.
+Grand Canyon,Chicago State,48,31,21,44,0,Foul on Jordan Madrid-Andrews.
+Grand Canyon,Chicago State,49,31,21,44,1,Joshua Braun made Free Throw.
+Grand Canyon,Chicago State,50,31,21,44,1,Joshua Braun made Free Throw.
+Grand Canyon,Chicago State,50,31,21,51,0,Foul on Jordan Madrid-Andrews.
+Grand Canyon,Chicago State,50,31,21,51,0,Jordan Madrid-Andrews Turnover.
+Grand Canyon,Chicago State,50,31,22,3,0,Matt Jackson missed Dunk.
+Grand Canyon,Chicago State,50,31,22,3,0,Grandy Glaze Offensive Rebound.
+Grand Canyon,Chicago State,50,31,22,10,0,Foul on Grandy Glaze.
+Grand Canyon,Chicago State,50,31,22,10,0,Grandy Glaze Turnover.
+Grand Canyon,Chicago State,50,31,22,25,0,Fred Sims Jr. missed Jumper.
+Grand Canyon,Chicago State,50,31,22,25,0,Fred Sims Jr. Offensive Rebound.
+Grand Canyon,Chicago State,50,33,22,30,1,Fred Sims Jr. made Jumper.
+Grand Canyon,Chicago State,50,33,22,39,0,Foul on Jordan Madrid-Andrews.
+Grand Canyon,Chicago State,52,33,22,51,1,DeWayne Russell made Jumper.
+Grand Canyon,Chicago State,52,33,23,14,0,Elliott Cole Turnover.
+Grand Canyon,Chicago State,52,33,23,15,0,Matt Jackson Steal.
+Grand Canyon,Chicago State,52,33,23,23,0,Matt Jackson Turnover.
+Grand Canyon,Chicago State,52,33,23,28,0,Clemmye Owens V Steal.
+Grand Canyon,Chicago State,52,33,23,36,0,Elliott Cole Turnover.
+Grand Canyon,Chicago State,52,33,23,38,0,Matt Jackson Steal.
+Grand Canyon,Chicago State,54,33,23,41,1,DeWayne Russell made Layup. Assisted by Matt Jackson.
+Grand Canyon,Chicago State,54,33,24,9,0,Fred Sims Jr. missed Jumper.
+Grand Canyon,Chicago State,54,33,24,9,0,Grandy Glaze Defensive Rebound.
+Grand Canyon,Chicago State,54,33,24,29,0,Foul on Montana Byrd.
+Grand Canyon,Chicago State,54,33,24,30,0,Official TV Timeout
+Grand Canyon,Chicago State,55,33,24,30,1,Joshua Braun made Free Throw.
+Grand Canyon,Chicago State,55,33,24,30,0,Joshua Braun missed Free Throw.
+Grand Canyon,Chicago State,55,33,24,30,0,Clemmye Owens V Defensive Rebound.
+Grand Canyon,Chicago State,55,33,24,57,0,Clemmye Owens V missed Three Point Jumper.
+Grand Canyon,Chicago State,55,33,24,57,0,Joshua Braun Defensive Rebound.
+Grand Canyon,Chicago State,58,33,25,7,1,Joshua Braun made Three Point Jumper. Assisted by DeWayne Russell.
+Grand Canyon,Chicago State,58,33,25,25,0,Foul on Matt Jackson.
+Grand Canyon,Chicago State,58,35,25,32,1,Fred Sims Jr. made Layup. Assisted by Clemmye Owens V.
+Grand Canyon,Chicago State,58,35,25,48,0,Grandy Glaze Turnover.
+Grand Canyon,Chicago State,58,35,25,58,0,Fred Sims Jr. Turnover.
+Grand Canyon,Chicago State,58,35,26,0,0,DeWayne Russell Steal.
+Grand Canyon,Chicago State,58,35,26,1,0,Grandy Glaze Turnover.
+Grand Canyon,Chicago State,58,35,26,15,0,Clemmye Owens V missed Jumper.
+Grand Canyon,Chicago State,58,35,26,15,0,Grandy Glaze Defensive Rebound.
+Grand Canyon,Chicago State,60,35,26,26,1,Grandy Glaze made Jumper. Assisted by DeWayne Russell.
+Grand Canyon,Chicago State,60,35,26,46,0,Montana Byrd missed Jumper.
+Grand Canyon,Chicago State,60,35,26,46,0,Grandy Glaze Defensive Rebound.
+Grand Canyon,Chicago State,60,35,26,57,0,Foul on Montana Byrd.
+Grand Canyon,Chicago State,61,35,26,57,1,Grandy Glaze made Free Throw.
+Grand Canyon,Chicago State,62,35,26,57,1,Grandy Glaze made Free Throw.
+Grand Canyon,Chicago State,62,35,27,10,0,Fred Sims Jr. missed Three Point Jumper.
+Grand Canyon,Chicago State,62,35,27,10,0,Keonta Vernon Defensive Rebound.
+Grand Canyon,Chicago State,62,35,27,37,0,Foul on Clemmye Owens V.
+Grand Canyon,Chicago State,63,35,27,37,1,Dominic Magee made Free Throw.
+Grand Canyon,Chicago State,64,35,27,37,1,Dominic Magee made Free Throw.
+Grand Canyon,Chicago State,64,35,27,58,0,Foul on Matt Jackson.
+Grand Canyon,Chicago State,64,35,27,58,0,Delundre Dixon missed Free Throw.
+Grand Canyon,Chicago State,64,35,27,58,0,Chicago St Deadball Team Rebound.
+Grand Canyon,Chicago State,64,36,27,58,1,Delundre Dixon made Free Throw.
+Grand Canyon,Chicago State,64,36,28,12,0,Joshua Braun missed Jumper.
+Grand Canyon,Chicago State,64,36,28,12,0,Kieran Woods Defensive Rebound.
+Grand Canyon,Chicago State,64,38,28,18,1,Kieran Woods made Layup.
+Grand Canyon,Chicago State,64,38,28,18,0,Foul on De'Andre Davis.
+Grand Canyon,Chicago State,64,38,28,18,0,Official TV Timeout
+Grand Canyon,Chicago State,64,38,28,18,0,Kieran Woods missed Free Throw.
+Grand Canyon,Chicago State,64,38,28,18,0,Joshua Braun Defensive Rebound.
+Grand Canyon,Chicago State,64,38,28,25,0,De'Andre Davis Turnover.
+Grand Canyon,Chicago State,64,38,28,28,0,Kieran Woods Steal.
+Grand Canyon,Chicago State,64,40,28,29,1,Kieran Woods made Layup.
+Grand Canyon,Chicago State,64,40,28,41,0,De'Andre Davis Turnover.
+Grand Canyon,Chicago State,64,40,28,43,0,Joshua Batson Steal.
+Grand Canyon,Chicago State,64,40,28,46,0,Joshua Batson Turnover.
+Grand Canyon,Chicago State,64,40,28,46,0,Keonta Vernon Steal.
+Grand Canyon,Chicago State,64,40,28,46,0,Foul on Trayvon Palmer.
+Grand Canyon,Chicago State,64,40,29,4,0,Foul on Kieran Woods.
+Grand Canyon,Chicago State,65,40,29,4,1,Dominic Magee made Free Throw.
+Grand Canyon,Chicago State,65,40,29,4,0,Dominic Magee missed Free Throw.
+Grand Canyon,Chicago State,65,40,29,4,0,Kieran Woods Defensive Rebound.
+Grand Canyon,Chicago State,65,40,29,19,0,Joshua Batson missed Three Point Jumper.
+Grand Canyon,Chicago State,65,40,29,19,0,Keonta Vernon Defensive Rebound.
+Grand Canyon,Chicago State,65,40,29,23,0,Foul on Joshua Batson.
+Grand Canyon,Chicago State,66,40,29,23,1,Keonta Vernon made Free Throw.
+Grand Canyon,Chicago State,67,40,29,23,1,Keonta Vernon made Free Throw.
+Grand Canyon,Chicago State,67,40,29,36,0,Foul on Gerard Martin.
+Grand Canyon,Chicago State,67,40,29,51,0,Foul on DeWayne Russell.
+Grand Canyon,Chicago State,67,40,29,55,0,Foul on Trayvon Palmer.
+Grand Canyon,Chicago State,67,40,29,55,0,Trayvon Palmer Turnover.
+Grand Canyon,Chicago State,69,40,30,6,1,Dominic Magee made Layup.
+Grand Canyon,Chicago State,69,40,30,6,0,Foul on Quron Davis.
+Grand Canyon,Chicago State,69,40,30,6,0,Dominic Magee missed Free Throw.
+Grand Canyon,Chicago State,69,40,30,6,0,Quron Davis Defensive Rebound.
+Grand Canyon,Chicago State,69,42,30,18,1,Elliott Cole made Jumper.
+Grand Canyon,Chicago State,69,42,30,26,0,Foul on Elliott Cole.
+Grand Canyon,Chicago State,70,42,30,26,1,Dominic Magee made Free Throw.
+Grand Canyon,Chicago State,71,42,30,26,1,Dominic Magee made Free Throw.
+Grand Canyon,Chicago State,71,42,30,39,0,Fred Sims Jr. missed Jumper.
+Grand Canyon,Chicago State,71,42,30,39,0,Dominic Magee Defensive Rebound.
+Grand Canyon,Chicago State,71,42,30,40,0,Dominic Magee Turnover.
+Grand Canyon,Chicago State,71,42,30,46,0,Elliott Cole missed Three Point Jumper.
+Grand Canyon,Chicago State,71,42,30,46,0,Quron Davis Offensive Rebound.
+Grand Canyon,Chicago State,71,42,30,49,0,Foul on Dominic Magee.
+Grand Canyon,Chicago State,71,42,30,49,0,Quron Davis missed Free Throw.
+Grand Canyon,Chicago State,71,42,30,49,0,Keonta Vernon Defensive Rebound.
+Grand Canyon,Chicago State,73,42,31,11,1,Keonta Vernon made Dunk. Assisted by Dominic Magee.
+Grand Canyon,Chicago State,73,42,31,29,0,Fred Sims Jr. missed Jumper.
+Grand Canyon,Chicago State,73,42,31,29,0,Quron Davis Offensive Rebound.
+Grand Canyon,Chicago State,73,44,31,32,1,Quron Davis made Layup.
+Grand Canyon,Chicago State,73,44,31,54,0,De'Andre Davis missed Layup.
+Grand Canyon,Chicago State,73,44,31,54,0,Kieran Woods Block.
+Grand Canyon,Chicago State,73,44,31,55,0,Grand Canyon Offensive Rebound.
+Grand Canyon,Chicago State,73,44,31,56,0,Keonta Vernon Turnover.
+Grand Canyon,Chicago State,73,44,32,1,0,Foul on DeWayne Russell.
+Grand Canyon,Chicago State,73,44,32,1,0,Official TV Timeout
+Grand Canyon,Chicago State,73,45,32,1,1,Elliott Cole made Free Throw.
+Grand Canyon,Chicago State,73,46,32,1,1,Elliott Cole made Free Throw.
+Grand Canyon,Chicago State,76,46,32,30,1,DeWayne Russell made Three Point Jumper. Assisted by Dominic Magee.
+Grand Canyon,Chicago State,76,46,32,43,0,Elliott Cole missed Three Point Jumper.
+Grand Canyon,Chicago State,76,46,32,43,0,Quron Davis Offensive Rebound.
+Grand Canyon,Chicago State,76,46,32,46,0,Foul on De'Andre Davis.
+Grand Canyon,Chicago State,76,47,32,46,1,Quron Davis made Free Throw.
+Grand Canyon,Chicago State,76,48,32,46,1,Quron Davis made Free Throw.
+Grand Canyon,Chicago State,76,48,32,57,0,Foul on Kieran Woods.
+Grand Canyon,Chicago State,77,48,32,57,1,Dominic Magee made Free Throw.
+Grand Canyon,Chicago State,78,48,32,57,1,Dominic Magee made Free Throw.
+Grand Canyon,Chicago State,78,51,33,12,1,Elliott Cole made Three Point Jumper.
+Grand Canyon,Chicago State,78,51,33,24,0,Foul on Quron Davis.
+Grand Canyon,Chicago State,78,51,33,24,0,Dominic Magee missed Free Throw.
+Grand Canyon,Chicago State,78,51,33,24,0,Grand Canyon Deadball Team Rebound.
+Grand Canyon,Chicago State,79,51,33,24,1,Dominic Magee made Free Throw.
+Grand Canyon,Chicago State,79,51,33,26,0,Foul on Quron Davis.
+Grand Canyon,Chicago State,79,51,33,26,0,Quron Davis Turnover.
+Grand Canyon,Chicago State,79,51,33,45,0,Foul on Keonta Vernon.
+Grand Canyon,Chicago State,79,51,33,45,0,Keonta Vernon Turnover.
+Grand Canyon,Chicago State,79,51,33,45,0,Kieran Woods Turnover.
+Grand Canyon,Chicago State,79,51,33,45,0,Dominic Magee Steal.
+Grand Canyon,Chicago State,79,51,33,57,0,Foul on Kieran Woods.
+Grand Canyon,Chicago State,80,51,33,57,1,DeWayne Russell made Free Throw.
+Grand Canyon,Chicago State,81,51,33,57,1,DeWayne Russell made Free Throw.
+Grand Canyon,Chicago State,81,51,34,6,0,Elliott Cole missed Jumper.
+Grand Canyon,Chicago State,81,51,34,6,0,Matt Jackson Defensive Rebound.
+Grand Canyon,Chicago State,81,51,34,27,0,De'Andre Davis Turnover.
+Grand Canyon,Chicago State,81,51,34,29,0,Delundre Dixon Steal.
+Grand Canyon,Chicago State,81,53,34,33,1,Clemmye Owens V made Layup. Assisted by Delundre Dixon.
+Grand Canyon,Chicago State,81,53,34,50,0,Foul on Elliott Cole.
+Grand Canyon,Chicago State,82,53,34,51,1,Ryan Majerle made Free Throw.
+Grand Canyon,Chicago State,82,53,34,51,0,Ryan Majerle missed Free Throw.
+Grand Canyon,Chicago State,82,53,34,51,0,Delundre Dixon Defensive Rebound.
+Grand Canyon,Chicago State,82,53,35,6,0,Foul on Dominic Magee.
+Grand Canyon,Chicago State,82,54,35,6,1,Fred Sims Jr. made Free Throw.
+Grand Canyon,Chicago State,82,55,35,6,1,Fred Sims Jr. made Free Throw.
+Grand Canyon,Chicago State,85,55,35,19,1,Ryan Majerle made Three Point Jumper. Assisted by Keonta Vernon.
+Grand Canyon,Chicago State,85,55,35,36,0,Foul on Keonta Vernon.
+Grand Canyon,Chicago State,85,56,35,36,1,Delundre Dixon made Free Throw.
+Grand Canyon,Chicago State,85,57,35,36,1,Delundre Dixon made Free Throw.
+Grand Canyon,Chicago State,85,57,35,43,0,Dominic Magee missed Layup.
+Grand Canyon,Chicago State,85,57,35,43,0,Jordan Madrid-Andrews Defensive Rebound.
+Grand Canyon,Chicago State,85,57,36,9,0,Anthony Eaves Turnover.
+Grand Canyon,Chicago State,85,57,36,11,0,De'Andre Davis Steal.
+Grand Canyon,Chicago State,87,57,36,13,1,De'Andre Davis made Dunk.
+Grand Canyon,Chicago State,87,57,36,36,0,Fred Sims Jr. missed Layup.
+Grand Canyon,Chicago State,87,57,36,36,0,Keonta Vernon Defensive Rebound.
+Grand Canyon,Chicago State,87,57,36,56,0,Ryan Majerle missed Jumper.
+Grand Canyon,Chicago State,87,57,36,56,0,Jordan Madrid-Andrews Defensive Rebound.
+Grand Canyon,Chicago State,87,57,36,57,0,Foul on Uros Ljeskovic.
+Grand Canyon,Chicago State,87,57,36,57,0,Official TV Timeout
+Grand Canyon,Chicago State,87,57,36,57,0,Jordan Madrid-Andrews missed Free Throw.
+Grand Canyon,Chicago State,87,57,36,57,0,Chicago St Deadball Team Rebound.
+Grand Canyon,Chicago State,87,58,36,57,1,Jordan Madrid-Andrews made Free Throw.
+Grand Canyon,Chicago State,87,58,37,20,0,De'Andre Davis missed Three Point Jumper.
+Grand Canyon,Chicago State,87,58,37,20,0,Fred Sims Jr. Defensive Rebound.
+Grand Canyon,Chicago State,87,58,37,29,0,Fred Sims Jr. missed Layup.
+Grand Canyon,Chicago State,87,58,37,29,0,Anthony Eaves Offensive Rebound.
+Grand Canyon,Chicago State,87,58,37,31,0,Anthony Eaves Turnover.
+Grand Canyon,Chicago State,87,58,37,46,0,Jevon Estelle missed Jumper.
+Grand Canyon,Chicago State,87,58,37,46,0,Anthony Eaves Defensive Rebound.
+Grand Canyon,Chicago State,87,58,37,55,0,Fred Sims Jr. missed Three Point Jumper.
+Grand Canyon,Chicago State,87,58,37,55,0,Dominic Magee Defensive Rebound.
+Grand Canyon,Chicago State,89,58,38,12,1,Jevon Estelle made Jumper. Assisted by Dominic Magee.
+Grand Canyon,Chicago State,89,61,38,22,1,Delundre Dixon made Three Point Jumper. Assisted by Anthony Eaves.
+Grand Canyon,Chicago State,89,61,38,45,0,Jevon Estelle missed Three Point Jumper.
+Grand Canyon,Chicago State,89,61,38,45,0,Clemmye Owens V Defensive Rebound.
+Grand Canyon,Chicago State,89,61,38,57,0,Anthony Eaves Turnover.
+Grand Canyon,Chicago State,89,61,38,59,0,De'Andre Davis Steal.
+Grand Canyon,Chicago State,89,61,39,18,0,Jevon Estelle missed Three Point Jumper.
+Grand Canyon,Chicago State,89,61,39,18,0,Fred Sims Jr. Defensive Rebound.
+Grand Canyon,Chicago State,89,63,39,25,1,Fred Sims Jr. made Layup.
+Grand Canyon,Chicago State,89,63,39,45,0,Foul on Delundre Dixon.
+Grand Canyon,Chicago State,89,63,39,45,0,Uros Ljeskovic missed Free Throw.
+Grand Canyon,Chicago State,89,63,39,45,0,Grand Canyon Deadball Team Rebound.
+Grand Canyon,Chicago State,90,63,39,45,1,Uros Ljeskovic made Free Throw.
+Grand Canyon,Chicago State,90,65,39,54,1,Jordan Madrid-Andrews made Layup. Assisted by Delundre Dixon.
+Grand Canyon,Chicago State,90,65,40,0,0,End of Game

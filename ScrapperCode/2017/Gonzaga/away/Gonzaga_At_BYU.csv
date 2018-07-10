@@ -1,0 +1,380 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Gonzaga,BYU,0,0,0,0,0,Jump Ball won by Gonzaga
+Gonzaga,BYU,2,0,0,20,1,Nigel Williams-Goss made Jumper.
+Gonzaga,BYU,2,0,0,36,0,Yoeli Childs missed Jumper.
+Gonzaga,BYU,2,0,0,36,0,Przemek Karnowski Defensive Rebound.
+Gonzaga,BYU,2,0,0,48,0,Nigel Williams-Goss missed Three Point Jumper.
+Gonzaga,BYU,2,0,0,48,0,Gonzaga Offensive Rebound.
+Gonzaga,BYU,2,0,0,55,0,Przemek Karnowski missed Layup.
+Gonzaga,BYU,2,0,0,55,0,Przemek Karnowski Offensive Rebound.
+Gonzaga,BYU,2,0,1,0,0,Josh Perkins missed Three Point Jumper.
+Gonzaga,BYU,2,0,1,0,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,2,0,1,5,0,L.J. Rose Turnover.
+Gonzaga,BYU,4,0,1,19,1,Przemek Karnowski made Jumper. Assisted by Josh Perkins.
+Gonzaga,BYU,4,0,1,34,0,TJ Haws missed Jumper.
+Gonzaga,BYU,4,0,1,34,0,Johnathan Williams Defensive Rebound.
+Gonzaga,BYU,4,0,1,42,0,Johnathan Williams missed Three Point Jumper.
+Gonzaga,BYU,4,0,1,42,0,Przemek Karnowski Offensive Rebound.
+Gonzaga,BYU,4,0,1,44,0,Foul on Eric Mika.
+Gonzaga,BYU,4,0,1,46,0,Przemek Karnowski Turnover.
+Gonzaga,BYU,4,0,1,46,0,L.J. Rose Steal.
+Gonzaga,BYU,4,2,1,57,1,Yoeli Childs made Jumper. Assisted by Elijah Bryant.
+Gonzaga,BYU,6,2,2,13,1,Johnathan Williams made Jumper.
+Gonzaga,BYU,6,2,2,31,0,Eric Mika missed Jumper.
+Gonzaga,BYU,6,2,2,31,0,Nigel Williams-Goss Defensive Rebound.
+Gonzaga,BYU,6,2,3,2,0,Nigel Williams-Goss missed Jumper.
+Gonzaga,BYU,6,2,3,2,0,L.J. Rose Defensive Rebound.
+Gonzaga,BYU,6,2,3,12,0,Eric Mika missed Jumper.
+Gonzaga,BYU,6,2,3,12,0,Jordan Mathews Defensive Rebound.
+Gonzaga,BYU,6,2,3,22,0,Jordan Mathews missed Layup.
+Gonzaga,BYU,6,2,3,22,0,BYU Defensive Rebound.
+Gonzaga,BYU,6,2,3,29,0,Yoeli Childs missed Layup.
+Gonzaga,BYU,6,2,3,29,0,Przemek Karnowski Block.
+Gonzaga,BYU,6,2,3,29,0,Przemek Karnowski Defensive Rebound.
+Gonzaga,BYU,6,2,3,39,0,Przemek Karnowski missed Jumper.
+Gonzaga,BYU,6,2,3,39,0,TJ Haws Defensive Rebound.
+Gonzaga,BYU,6,2,3,47,0,Foul on Josh Perkins.
+Gonzaga,BYU,6,2,3,59,0,Elijah Bryant missed Layup.
+Gonzaga,BYU,6,2,3,59,0,Eric Mika Offensive Rebound.
+Gonzaga,BYU,6,2,4,2,0,Foul on Przemek Karnowski.
+Gonzaga,BYU,6,2,4,2,0,Official TV Timeout
+Gonzaga,BYU,6,2,4,2,0,Eric Mika missed Free Throw.
+Gonzaga,BYU,6,2,4,2,0,BYU Deadball Team Rebound.
+Gonzaga,BYU,6,3,4,2,1,Eric Mika made Free Throw.
+Gonzaga,BYU,9,3,4,19,1,Silas Melson made Three Point Jumper. Assisted by Jordan Mathews.
+Gonzaga,BYU,9,3,4,36,0,BYU  Timeout
+Gonzaga,BYU,9,5,4,38,1,TJ Haws made Jumper. Assisted by Elijah Bryant.
+Gonzaga,BYU,9,5,4,56,0,Johnathan Williams Turnover.
+Gonzaga,BYU,9,8,5,5,1,Elijah Bryant made Three Point Jumper. Assisted by Eric Mika.
+Gonzaga,BYU,12,8,5,31,1,Jordan Mathews made Three Point Jumper. Assisted by Johnathan Williams.
+Gonzaga,BYU,12,8,5,46,0,Eric Mika missed Jumper.
+Gonzaga,BYU,12,8,5,46,0,Silas Melson Defensive Rebound.
+Gonzaga,BYU,12,8,5,57,0,Silas Melson missed Jumper.
+Gonzaga,BYU,12,8,5,57,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,12,8,6,6,0,TJ Haws missed Three Point Jumper.
+Gonzaga,BYU,12,8,6,6,0,Zach Collins Defensive Rebound.
+Gonzaga,BYU,14,8,6,32,1,Johnathan Williams made Dunk.
+Gonzaga,BYU,14,8,6,44,0,Nick Emery missed Jumper.
+Gonzaga,BYU,14,8,6,44,0,Zach Collins Defensive Rebound.
+Gonzaga,BYU,14,8,6,53,0,Silas Melson missed Three Point Jumper.
+Gonzaga,BYU,14,8,6,53,0,BYU Defensive Rebound.
+Gonzaga,BYU,14,10,7,9,1,Elijah Bryant made Jumper.
+Gonzaga,BYU,17,10,7,24,1,Josh Perkins made Three Point Jumper. Assisted by Nigel Williams-Goss.
+Gonzaga,BYU,17,10,7,39,0,Eric Mika Turnover.
+Gonzaga,BYU,20,10,7,53,1,Josh Perkins made Three Point Jumper. Assisted by Silas Melson.
+Gonzaga,BYU,20,10,8,8,0,Eric Mika missed Jumper.
+Gonzaga,BYU,20,10,8,8,0,Nigel Williams-Goss Defensive Rebound.
+Gonzaga,BYU,20,10,8,28,0,Silas Melson Turnover.
+Gonzaga,BYU,20,10,8,28,0,Official TV Timeout
+Gonzaga,BYU,20,12,8,38,1,Eric Mika made Jumper.
+Gonzaga,BYU,22,12,8,49,1,Przemek Karnowski made Layup. Assisted by Killian Tillie.
+Gonzaga,BYU,22,12,9,11,0,Elijah Bryant missed Three Point Jumper.
+Gonzaga,BYU,22,12,9,11,0,Silas Melson Defensive Rebound.
+Gonzaga,BYU,25,12,9,29,1,Josh Perkins made Three Point Jumper. Assisted by Silas Melson.
+Gonzaga,BYU,25,12,9,44,0,Foul on Silas Melson.
+Gonzaga,BYU,25,12,9,48,0,Foul on Josh Perkins.
+Gonzaga,BYU,25,12,9,56,0,Eric Mika missed Dunk.
+Gonzaga,BYU,25,12,9,56,0,Gonzaga Defensive Rebound.
+Gonzaga,BYU,27,12,10,16,1,Przemek Karnowski made Jumper. Assisted by Nigel Williams-Goss.
+Gonzaga,BYU,27,12,10,32,0,Eric Mika Turnover.
+Gonzaga,BYU,27,12,10,32,0,Nigel Williams-Goss Steal.
+Gonzaga,BYU,27,12,10,43,0,Foul on Davin Guinn.
+Gonzaga,BYU,28,12,10,43,1,Nigel Williams-Goss made Free Throw.
+Gonzaga,BYU,29,12,10,43,1,Nigel Williams-Goss made Free Throw.
+Gonzaga,BYU,29,12,10,55,0,Yoeli Childs missed Jumper.
+Gonzaga,BYU,29,12,10,55,0,Gonzaga Defensive Rebound.
+Gonzaga,BYU,29,12,11,7,0,Silas Melson Turnover.
+Gonzaga,BYU,29,12,11,16,0,Elijah Bryant missed Layup.
+Gonzaga,BYU,29,12,11,16,0,Johnathan Williams Block.
+Gonzaga,BYU,29,12,11,16,0,BYU Offensive Rebound.
+Gonzaga,BYU,29,12,11,29,0,Elijah Bryant missed Three Point Jumper.
+Gonzaga,BYU,29,12,11,29,0,Nigel Williams-Goss Defensive Rebound.
+Gonzaga,BYU,29,12,11,49,0,Przemek Karnowski Turnover.
+Gonzaga,BYU,29,14,12,0,1,TJ Haws made Jumper.
+Gonzaga,BYU,29,14,12,20,0,Foul on Johnathan Williams.
+Gonzaga,BYU,29,14,12,20,0,Johnathan Williams Turnover.
+Gonzaga,BYU,29,14,12,20,0,Official TV Timeout
+Gonzaga,BYU,29,16,12,33,1,Yoeli Childs made Dunk. Assisted by TJ Haws.
+Gonzaga,BYU,29,16,12,58,0,Foul on Corbin Kaufusi.
+Gonzaga,BYU,29,16,12,58,0,Johnathan Williams missed Free Throw.
+Gonzaga,BYU,29,16,12,58,0,Gonzaga Deadball Team Rebound.
+Gonzaga,BYU,29,16,12,58,0,Johnathan Williams missed Free Throw.
+Gonzaga,BYU,29,16,12,58,0,Nick Emery Defensive Rebound.
+Gonzaga,BYU,29,16,13,13,0,TJ Haws missed Three Point Jumper.
+Gonzaga,BYU,29,16,13,13,0,Johnathan Williams Defensive Rebound.
+Gonzaga,BYU,29,16,13,33,0,Jordan Mathews missed Jumper.
+Gonzaga,BYU,29,16,13,33,0,TJ Haws Block.
+Gonzaga,BYU,29,16,13,33,0,Johnathan Williams Offensive Rebound.
+Gonzaga,BYU,29,16,13,38,0,Foul on Yoeli Childs.
+Gonzaga,BYU,30,16,13,38,1,Johnathan Williams made Free Throw.
+Gonzaga,BYU,31,16,13,38,1,Johnathan Williams made Free Throw.
+Gonzaga,BYU,31,18,13,49,1,Nick Emery made Jumper. Assisted by Yoeli Childs.
+Gonzaga,BYU,34,18,14,3,1,Nigel Williams-Goss made Three Point Jumper. Assisted by Johnathan Williams.
+Gonzaga,BYU,34,18,14,20,0,Yoeli Childs missed Layup.
+Gonzaga,BYU,34,18,14,20,0,Zach Collins Defensive Rebound.
+Gonzaga,BYU,34,18,14,44,0,Jordan Mathews missed Jumper.
+Gonzaga,BYU,34,18,14,44,0,Yoeli Childs Defensive Rebound.
+Gonzaga,BYU,34,20,14,54,1,Eric Mika made Layup.
+Gonzaga,BYU,34,20,14,54,0,Foul on Zach Collins.
+Gonzaga,BYU,34,21,14,54,1,Eric Mika made Free Throw.
+Gonzaga,BYU,34,21,15,9,0,Johnathan Williams Turnover.
+Gonzaga,BYU,34,21,15,13,0,Eric Mika Turnover.
+Gonzaga,BYU,34,21,15,13,0,Johnathan Williams Steal.
+Gonzaga,BYU,36,21,15,18,1,Jordan Mathews made Layup. Assisted by Nigel Williams-Goss.
+Gonzaga,BYU,36,21,15,24,0,TJ Haws missed Three Point Jumper.
+Gonzaga,BYU,36,21,15,24,0,Eric Mika Offensive Rebound.
+Gonzaga,BYU,36,21,15,53,0,L.J. Rose missed Three Point Jumper.
+Gonzaga,BYU,36,21,15,53,0,Eric Mika Offensive Rebound.
+Gonzaga,BYU,36,21,16,4,0,Official TV Timeout
+Gonzaga,BYU,36,21,16,19,0,Eric Mika missed Jumper.
+Gonzaga,BYU,36,21,16,19,0,Johnathan Williams Defensive Rebound.
+Gonzaga,BYU,36,21,16,51,0,Jordan Mathews Turnover.
+Gonzaga,BYU,36,21,17,11,0,Eric Mika missed Jumper.
+Gonzaga,BYU,36,21,17,11,0,Przemek Karnowski Defensive Rebound.
+Gonzaga,BYU,36,21,17,23,0,Foul on Elijah Bryant.
+Gonzaga,BYU,36,21,17,44,0,Jordan Mathews missed Jumper.
+Gonzaga,BYU,36,21,17,44,0,Gonzaga Offensive Rebound.
+Gonzaga,BYU,36,21,18,6,0,Foul on Nick Emery.
+Gonzaga,BYU,36,21,18,11,0,Foul on Nick Emery.
+Gonzaga,BYU,37,21,18,11,1,Silas Melson made Free Throw.
+Gonzaga,BYU,38,21,18,11,1,Silas Melson made Free Throw.
+Gonzaga,BYU,38,21,18,22,0,TJ Haws Turnover.
+Gonzaga,BYU,38,21,18,22,0,Killian Tillie Steal.
+Gonzaga,BYU,38,21,18,30,0,Foul on Corbin Kaufusi.
+Gonzaga,BYU,39,21,18,30,1,Killian Tillie made Free Throw.
+Gonzaga,BYU,40,21,18,30,1,Killian Tillie made Free Throw.
+Gonzaga,BYU,40,21,18,40,0,Foul on Killian Tillie.
+Gonzaga,BYU,40,22,18,40,1,TJ Haws made Free Throw.
+Gonzaga,BYU,40,23,18,40,1,TJ Haws made Free Throw.
+Gonzaga,BYU,40,23,19,0,0,Silas Melson missed Jumper.
+Gonzaga,BYU,40,23,19,0,0,BYU Defensive Rebound.
+Gonzaga,BYU,40,23,19,0,0,Foul on Killian Tillie.
+Gonzaga,BYU,40,24,19,0,1,Davin Guinn made Free Throw.
+Gonzaga,BYU,40,24,19,0,0,Davin Guinn missed Free Throw.
+Gonzaga,BYU,40,24,19,0,0,Nigel Williams-Goss Defensive Rebound.
+Gonzaga,BYU,42,24,19,20,1,Nigel Williams-Goss made Jumper.
+Gonzaga,BYU,42,26,19,37,1,Eric Mika made Layup.
+Gonzaga,BYU,42,26,20,0,0,End of 1st half
+Gonzaga,BYU,42,26,20,0,0,Jump Ball won by BYU
+Gonzaga,BYU,42,28,20,8,1,TJ Haws made Jumper. Assisted by Elijah Bryant.
+Gonzaga,BYU,42,28,20,32,0,Nigel Williams-Goss Turnover.
+Gonzaga,BYU,42,28,20,41,0,Yoeli Childs missed Jumper.
+Gonzaga,BYU,42,28,20,41,0,Eric Mika Offensive Rebound.
+Gonzaga,BYU,42,28,20,44,0,Foul on Johnathan Williams.
+Gonzaga,BYU,42,28,20,45,0,Nick Emery missed Three Point Jumper.
+Gonzaga,BYU,42,28,20,45,0,Nigel Williams-Goss Defensive Rebound.
+Gonzaga,BYU,42,28,20,51,0,Jordan Mathews missed Three Point Jumper.
+Gonzaga,BYU,42,28,20,51,0,Johnathan Williams Offensive Rebound.
+Gonzaga,BYU,44,28,20,54,1,Johnathan Williams made Layup.
+Gonzaga,BYU,44,28,20,54,0,Foul on Elijah Bryant.
+Gonzaga,BYU,44,28,20,54,0,Johnathan Williams missed Free Throw.
+Gonzaga,BYU,44,28,20,54,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,44,28,21,7,0,TJ Haws missed Layup.
+Gonzaga,BYU,44,28,21,7,0,Przemek Karnowski Defensive Rebound.
+Gonzaga,BYU,44,28,21,10,0,Jump Ball won by Gonzaga
+Gonzaga,BYU,44,28,21,34,0,Przemek Karnowski missed Jumper.
+Gonzaga,BYU,44,28,21,37,0,Johnathan Williams Offensive Rebound.
+Gonzaga,BYU,44,28,21,38,0,Foul on Yoeli Childs.
+Gonzaga,BYU,44,28,21,38,0,Johnathan Williams missed Free Throw.
+Gonzaga,BYU,44,28,21,38,0,Gonzaga Deadball Team Rebound.
+Gonzaga,BYU,45,28,21,38,1,Johnathan Williams made Free Throw.
+Gonzaga,BYU,45,28,21,48,0,Eric Mika Turnover.
+Gonzaga,BYU,45,28,21,48,0,Johnathan Williams Steal.
+Gonzaga,BYU,45,28,21,54,0,Jordan Mathews Turnover.
+Gonzaga,BYU,45,28,21,54,0,Elijah Bryant Steal.
+Gonzaga,BYU,45,30,22,20,1,Eric Mika made Jumper.
+Gonzaga,BYU,45,30,22,28,0,Przemek Karnowski Turnover.
+Gonzaga,BYU,45,30,22,28,0,Nick Emery Steal.
+Gonzaga,BYU,45,33,22,32,1,TJ Haws made Three Point Jumper. Assisted by Nick Emery.
+Gonzaga,BYU,45,33,22,37,0,Gonzaga  Timeout
+Gonzaga,BYU,45,33,22,42,0,Jordan Mathews missed Three Point Jumper.
+Gonzaga,BYU,45,33,22,42,0,Nick Emery Defensive Rebound.
+Gonzaga,BYU,45,33,22,53,0,TJ Haws missed Layup.
+Gonzaga,BYU,45,33,22,54,0,BYU Offensive Rebound.
+Gonzaga,BYU,45,33,22,55,0,Foul on Przemek Karnowski.
+Gonzaga,BYU,45,33,23,2,0,Foul on Josh Perkins.
+Gonzaga,BYU,45,34,23,2,1,TJ Haws made Free Throw.
+Gonzaga,BYU,45,35,23,2,1,TJ Haws made Free Throw.
+Gonzaga,BYU,45,35,23,18,0,Nigel Williams-Goss missed Three Point Jumper.
+Gonzaga,BYU,45,35,23,18,0,Jordan Mathews Offensive Rebound.
+Gonzaga,BYU,45,35,23,24,0,Jordan Mathews missed Layup.
+Gonzaga,BYU,45,35,23,24,0,Yoeli Childs Defensive Rebound.
+Gonzaga,BYU,45,35,23,33,0,TJ Haws missed Three Point Jumper.
+Gonzaga,BYU,45,35,23,33,0,Yoeli Childs Offensive Rebound.
+Gonzaga,BYU,45,35,23,35,0,Foul on Johnathan Williams.
+Gonzaga,BYU,45,35,23,39,0,Elijah Bryant Turnover.
+Gonzaga,BYU,45,35,23,45,0,Przemek Karnowski Turnover.
+Gonzaga,BYU,45,35,23,55,0,Foul on Zach Collins.
+Gonzaga,BYU,45,36,23,55,1,Eric Mika made Free Throw.
+Gonzaga,BYU,45,37,23,55,1,Eric Mika made Free Throw.
+Gonzaga,BYU,47,37,24,8,1,Przemek Karnowski made Layup. Assisted by Nigel Williams-Goss.
+Gonzaga,BYU,47,37,24,18,0,TJ Haws missed Jumper.
+Gonzaga,BYU,47,37,24,18,0,Zach Collins Block.
+Gonzaga,BYU,47,37,24,18,0,Silas Melson Defensive Rebound.
+Gonzaga,BYU,49,37,24,25,1,Nigel Williams-Goss made Layup. Assisted by Silas Melson.
+Gonzaga,BYU,49,37,24,38,0,Yoeli Childs Turnover.
+Gonzaga,BYU,49,37,24,38,0,Nigel Williams-Goss Steal.
+Gonzaga,BYU,49,37,24,42,0,Jordan Mathews missed Three Point Jumper.
+Gonzaga,BYU,49,37,24,42,0,Elijah Bryant Defensive Rebound.
+Gonzaga,BYU,49,39,24,52,1,Elijah Bryant made Layup.
+Gonzaga,BYU,49,39,24,52,0,Foul on Przemek Karnowski.
+Gonzaga,BYU,49,39,24,52,0,Official TV Timeout
+Gonzaga,BYU,49,40,24,52,1,Elijah Bryant made Free Throw.
+Gonzaga,BYU,49,40,25,4,0,Josh Perkins missed Three Point Jumper.
+Gonzaga,BYU,49,40,25,4,0,Davin Guinn Defensive Rebound.
+Gonzaga,BYU,49,40,25,24,0,Eric Mika Turnover.
+Gonzaga,BYU,49,40,25,24,0,Nigel Williams-Goss Steal.
+Gonzaga,BYU,51,40,25,30,1,Nigel Williams-Goss made Layup.
+Gonzaga,BYU,51,40,25,30,0,Foul on Davin Guinn.
+Gonzaga,BYU,52,40,25,30,1,Nigel Williams-Goss made Free Throw.
+Gonzaga,BYU,52,40,25,53,0,Davin Guinn missed Three Point Jumper.
+Gonzaga,BYU,52,40,25,53,0,Silas Melson Defensive Rebound.
+Gonzaga,BYU,52,40,26,3,0,Foul on L.J. Rose.
+Gonzaga,BYU,54,40,26,5,1,Nigel Williams-Goss made Jumper.
+Gonzaga,BYU,54,40,26,16,0,Eric Mika missed Jumper.
+Gonzaga,BYU,54,40,26,16,0,Zach Collins Defensive Rebound.
+Gonzaga,BYU,54,40,26,27,0,Zach Collins missed Jumper.
+Gonzaga,BYU,54,40,26,27,0,L.J. Rose Defensive Rebound.
+Gonzaga,BYU,54,40,26,36,0,Eric Mika missed Layup.
+Gonzaga,BYU,54,40,26,36,0,Silas Melson Defensive Rebound.
+Gonzaga,BYU,56,40,26,42,1,Nigel Williams-Goss made Layup. Assisted by Silas Melson.
+Gonzaga,BYU,56,40,26,42,0,BYU  Timeout
+Gonzaga,BYU,56,40,26,53,0,Elijah Bryant missed Three Point Jumper.
+Gonzaga,BYU,56,40,26,53,0,Zach Collins Defensive Rebound.
+Gonzaga,BYU,58,40,27,5,1,Nigel Williams-Goss made Layup.
+Gonzaga,BYU,58,43,27,24,1,Davin Guinn made Three Point Jumper. Assisted by L.J. Rose.
+Gonzaga,BYU,58,43,27,41,0,Nigel Williams-Goss Turnover.
+Gonzaga,BYU,58,43,27,41,0,Davin Guinn Steal.
+Gonzaga,BYU,58,45,27,44,1,Davin Guinn made Layup.
+Gonzaga,BYU,58,45,28,7,0,Nigel Williams-Goss missed Three Point Jumper.
+Gonzaga,BYU,58,45,28,7,0,Zach Collins Offensive Rebound.
+Gonzaga,BYU,58,45,28,13,0,Zach Collins missed Layup.
+Gonzaga,BYU,58,45,28,13,0,L.J. Rose Block.
+Gonzaga,BYU,58,45,28,13,0,Elijah Bryant Defensive Rebound.
+Gonzaga,BYU,58,45,28,22,0,Foul on Zach Collins.
+Gonzaga,BYU,58,45,28,22,0,Official TV Timeout
+Gonzaga,BYU,58,46,28,22,1,TJ Haws made Free Throw.
+Gonzaga,BYU,58,47,28,22,1,TJ Haws made Free Throw.
+Gonzaga,BYU,58,47,28,45,0,Foul on Corbin Kaufusi.
+Gonzaga,BYU,58,47,28,45,0,Josh Perkins missed Free Throw.
+Gonzaga,BYU,58,47,28,45,0,Gonzaga Deadball Team Rebound.
+Gonzaga,BYU,59,47,28,45,1,Josh Perkins made Free Throw.
+Gonzaga,BYU,60,47,28,45,1,Josh Perkins made Free Throw.
+Gonzaga,BYU,60,47,28,59,0,Eric Mika missed Jumper.
+Gonzaga,BYU,60,47,28,59,0,Zach Collins Block.
+Gonzaga,BYU,60,47,28,59,0,Nigel Williams-Goss Defensive Rebound.
+Gonzaga,BYU,62,47,29,16,1,Zach Collins made Dunk. Assisted by Josh Perkins.
+Gonzaga,BYU,62,47,29,30,0,TJ Haws missed Jumper.
+Gonzaga,BYU,62,47,29,30,0,Eric Mika Offensive Rebound.
+Gonzaga,BYU,62,47,29,32,0,Foul on Killian Tillie.
+Gonzaga,BYU,62,47,29,32,0,Eric Mika missed Free Throw.
+Gonzaga,BYU,62,47,29,32,0,BYU Deadball Team Rebound.
+Gonzaga,BYU,62,48,29,32,1,Eric Mika made Free Throw.
+Gonzaga,BYU,62,48,29,57,0,Silas Melson missed Three Point Jumper.
+Gonzaga,BYU,62,48,29,57,0,Johnathan Williams Offensive Rebound.
+Gonzaga,BYU,62,48,30,3,0,Foul on Nick Emery.
+Gonzaga,BYU,64,48,30,6,1,Nigel Williams-Goss made Jumper. Assisted by Josh Perkins.
+Gonzaga,BYU,64,48,30,32,0,Foul on Silas Melson.
+Gonzaga,BYU,64,49,30,32,1,Elijah Bryant made Free Throw.
+Gonzaga,BYU,64,50,30,32,1,Elijah Bryant made Free Throw.
+Gonzaga,BYU,64,50,30,59,0,Silas Melson missed Jumper.
+Gonzaga,BYU,64,50,30,59,0,Nick Emery Block.
+Gonzaga,BYU,64,50,30,59,0,Gonzaga Offensive Rebound.
+Gonzaga,BYU,64,50,31,1,0,Silas Melson missed Layup.
+Gonzaga,BYU,64,50,31,1,0,Yoeli Childs Defensive Rebound.
+Gonzaga,BYU,64,50,31,13,0,Nick Emery missed Three Point Jumper.
+Gonzaga,BYU,64,50,31,13,0,Yoeli Childs Offensive Rebound.
+Gonzaga,BYU,64,50,31,17,0,Jump Ball won by BYU
+Gonzaga,BYU,64,50,31,21,0,Elijah Bryant missed Three Point Jumper.
+Gonzaga,BYU,64,50,31,21,0,Przemek Karnowski Defensive Rebound.
+Gonzaga,BYU,64,50,31,21,0,Foul on Eric Mika.
+Gonzaga,BYU,65,50,31,21,1,Przemek Karnowski made Free Throw.
+Gonzaga,BYU,65,50,31,21,0,Przemek Karnowski missed Free Throw.
+Gonzaga,BYU,65,50,31,21,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,65,50,31,35,0,Nick Emery missed Three Point Jumper.
+Gonzaga,BYU,65,50,31,35,0,Silas Melson Defensive Rebound.
+Gonzaga,BYU,65,50,31,42,0,Foul on Nick Emery.
+Gonzaga,BYU,65,50,31,42,0,Silas Melson missed Free Throw.
+Gonzaga,BYU,65,50,31,42,0,Gonzaga Deadball Team Rebound.
+Gonzaga,BYU,66,50,31,42,1,Silas Melson made Free Throw.
+Gonzaga,BYU,66,50,31,50,0,Foul on Nigel Williams-Goss.
+Gonzaga,BYU,66,51,31,50,1,Yoeli Childs made Free Throw.
+Gonzaga,BYU,66,52,31,50,1,Yoeli Childs made Free Throw.
+Gonzaga,BYU,66,52,32,6,0,Josh Perkins missed Three Point Jumper.
+Gonzaga,BYU,66,52,32,6,0,Yoeli Childs Defensive Rebound.
+Gonzaga,BYU,66,55,32,16,1,TJ Haws made Three Point Jumper. Assisted by Davin Guinn.
+Gonzaga,BYU,66,55,32,43,0,Przemek Karnowski Turnover.
+Gonzaga,BYU,66,55,32,43,0,Official TV Timeout
+Gonzaga,BYU,66,58,32,52,1,TJ Haws made Three Point Jumper. Assisted by L.J. Rose.
+Gonzaga,BYU,66,58,33,19,0,Nigel Williams-Goss missed Three Point Jumper.
+Gonzaga,BYU,66,58,33,19,0,TJ Haws Defensive Rebound.
+Gonzaga,BYU,66,58,33,29,0,TJ Haws missed Three Point Jumper.
+Gonzaga,BYU,66,58,33,29,0,Jordan Mathews Defensive Rebound.
+Gonzaga,BYU,68,58,33,43,1,Johnathan Williams made Layup. Assisted by Przemek Karnowski.
+Gonzaga,BYU,68,58,34,9,0,L.J. Rose missed Jumper.
+Gonzaga,BYU,68,58,34,9,0,Nigel Williams-Goss Defensive Rebound.
+Gonzaga,BYU,70,58,34,18,1,Nigel Williams-Goss made Jumper. Assisted by Josh Perkins.
+Gonzaga,BYU,70,58,34,22,0,BYU  Timeout
+Gonzaga,BYU,70,58,34,30,0,Foul on Przemek Karnowski.
+Gonzaga,BYU,70,59,34,30,1,TJ Haws made Free Throw.
+Gonzaga,BYU,70,60,34,30,1,TJ Haws made Free Throw.
+Gonzaga,BYU,70,60,34,49,0,Killian Tillie missed Jumper.
+Gonzaga,BYU,70,60,34,49,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,70,62,35,11,1,Elijah Bryant made Jumper.
+Gonzaga,BYU,70,62,35,11,0,Foul on Josh Perkins.
+Gonzaga,BYU,70,62,35,11,0,Elijah Bryant missed Free Throw.
+Gonzaga,BYU,70,62,35,11,0,Silas Melson Defensive Rebound.
+Gonzaga,BYU,73,62,35,21,1,Nigel Williams-Goss made Three Point Jumper. Assisted by Zach Collins.
+Gonzaga,BYU,73,62,35,46,0,Elijah Bryant missed Layup.
+Gonzaga,BYU,73,62,35,46,0,Killian Tillie Defensive Rebound.
+Gonzaga,BYU,73,62,36,0,0,Zach Collins missed Jumper.
+Gonzaga,BYU,73,62,36,0,0,Yoeli Childs Defensive Rebound.
+Gonzaga,BYU,73,64,36,14,1,Yoeli Childs made Jumper. Assisted by Elijah Bryant.
+Gonzaga,BYU,73,64,36,33,0,Foul on Eric Mika.
+Gonzaga,BYU,73,64,36,33,0,Jordan Mathews missed Free Throw.
+Gonzaga,BYU,73,64,36,33,0,Gonzaga Deadball Team Rebound.
+Gonzaga,BYU,73,64,36,33,0,Jordan Mathews missed Free Throw.
+Gonzaga,BYU,73,64,36,33,0,Gonzaga Deadball Team Rebound.
+Gonzaga,BYU,74,64,36,33,1,Jordan Mathews made Free Throw.
+Gonzaga,BYU,74,64,36,43,0,Foul on Killian Tillie.
+Gonzaga,BYU,74,64,36,43,0,TJ Haws missed Free Throw.
+Gonzaga,BYU,74,64,36,43,0,BYU Deadball Team Rebound.
+Gonzaga,BYU,74,65,36,43,1,TJ Haws made Free Throw.
+Gonzaga,BYU,76,65,36,58,1,Nigel Williams-Goss made Jumper.
+Gonzaga,BYU,76,67,37,17,1,Yoeli Childs made Layup. Assisted by Elijah Bryant.
+Gonzaga,BYU,76,67,37,17,0,Foul on Zach Collins.
+Gonzaga,BYU,76,68,37,17,1,Yoeli Childs made Free Throw.
+Gonzaga,BYU,76,68,37,38,0,Nigel Williams-Goss missed Jumper.
+Gonzaga,BYU,76,68,37,38,0,Yoeli Childs Defensive Rebound.
+Gonzaga,BYU,76,70,37,55,1,Eric Mika made Layup.
+Gonzaga,BYU,76,70,38,22,0,Josh Perkins missed Jumper.
+Gonzaga,BYU,76,70,38,22,0,Przemek Karnowski Offensive Rebound.
+Gonzaga,BYU,76,70,38,43,0,Foul on Elijah Bryant.
+Gonzaga,BYU,77,70,38,43,1,Nigel Williams-Goss made Free Throw.
+Gonzaga,BYU,78,70,38,43,1,Nigel Williams-Goss made Free Throw.
+Gonzaga,BYU,78,70,38,51,0,Nick Emery missed Three Point Jumper.
+Gonzaga,BYU,78,70,38,51,0,Elijah Bryant Offensive Rebound.
+Gonzaga,BYU,78,70,38,56,0,Elijah Bryant missed Layup.
+Gonzaga,BYU,78,70,38,57,0,Zach Collins Defensive Rebound.
+Gonzaga,BYU,78,70,39,0,0,Foul on Eric Mika.
+Gonzaga,BYU,79,70,39,0,1,Zach Collins made Free Throw.
+Gonzaga,BYU,80,70,39,0,1,Zach Collins made Free Throw.
+Gonzaga,BYU,80,70,39,12,0,TJ Haws missed Layup.
+Gonzaga,BYU,80,70,39,12,0,Zach Collins Defensive Rebound.
+Gonzaga,BYU,80,70,39,30,0,Foul on Elijah Bryant.
+Gonzaga,BYU,81,70,39,30,1,Nigel Williams-Goss made Free Throw.
+Gonzaga,BYU,82,70,39,30,1,Nigel Williams-Goss made Free Throw.
+Gonzaga,BYU,82,70,39,36,0,Elijah Bryant missed Three Point Jumper.
+Gonzaga,BYU,82,70,39,36,0,Zach Collins Block.
+Gonzaga,BYU,82,70,39,36,0,Johnathan Williams Defensive Rebound.
+Gonzaga,BYU,82,70,39,40,0,Foul on Nick Emery.
+Gonzaga,BYU,83,70,39,40,1,Johnathan Williams made Free Throw.
+Gonzaga,BYU,83,70,39,40,0,Johnathan Williams missed Free Throw.
+Gonzaga,BYU,83,70,39,40,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,83,72,39,45,1,TJ Haws made Jumper.
+Gonzaga,BYU,83,72,39,48,0,Gonzaga  Timeout
+Gonzaga,BYU,83,72,39,49,0,Foul on Elijah Bryant.
+Gonzaga,BYU,84,72,39,49,1,Zach Collins made Free Throw.
+Gonzaga,BYU,85,72,39,49,1,Zach Collins made Free Throw.
+Gonzaga,BYU,85,75,39,54,1,TJ Haws made Three Point Jumper. Assisted by Colby Leifson.
+Gonzaga,BYU,85,75,40,0,0,End of Game

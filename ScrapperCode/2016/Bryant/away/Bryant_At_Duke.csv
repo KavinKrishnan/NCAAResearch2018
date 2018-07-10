@@ -1,0 +1,353 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Bryant,Duke,0,0,0,0,0,Jump Ball won by Bryant
+Bryant,Duke,0,0,0,12,0,Bosko Kostur Turnover.
+Bryant,Duke,0,0,0,23,0,Foul on Bosko Kostur.
+Bryant,Duke,0,0,0,27,0,Foul on Brandon Ingram.
+Bryant,Duke,0,0,0,27,0,Brandon Ingram Turnover.
+Bryant,Duke,0,0,0,41,0,Bosko Kostur Turnover.
+Bryant,Duke,0,0,0,52,0,Grayson Allen missed Jumper.
+Bryant,Duke,0,0,0,52,0,Amile Jefferson Offensive Rebound.
+Bryant,Duke,0,3,0,58,1,Brandon Ingram made Three Point Jumper. Assisted by Grayson Allen.
+Bryant,Duke,0,3,1,26,0,Bosko Kostur Turnover.
+Bryant,Duke,0,3,1,26,0,Amile Jefferson Steal.
+Bryant,Duke,0,3,1,34,0,Foul on Grayson Allen.
+Bryant,Duke,0,3,1,34,0,Grayson Allen Turnover.
+Bryant,Duke,0,3,1,43,0,Shane McLaughlin Turnover.
+Bryant,Duke,0,3,1,43,0,Brandon Ingram Steal.
+Bryant,Duke,0,3,2,13,0,Foul on Dan Garvin.
+Bryant,Duke,0,3,2,19,0,Foul on Nisre Zouzoua.
+Bryant,Duke,0,3,2,29,0,Matt Jones missed Three Point Jumper.
+Bryant,Duke,0,3,2,29,0,Marshall Plumlee Offensive Rebound.
+Bryant,Duke,0,3,2,37,0,Amile Jefferson missed Jumper.
+Bryant,Duke,0,3,2,37,0,Marshall Plumlee Offensive Rebound.
+Bryant,Duke,0,3,2,42,0,Marshall Plumlee missed Layup.
+Bryant,Duke,0,3,2,42,0,Dan Garvin Defensive Rebound.
+Bryant,Duke,0,3,2,52,0,Dan Garvin missed Three Point Jumper.
+Bryant,Duke,0,3,2,52,0,Brandon Ingram Defensive Rebound.
+Bryant,Duke,0,3,3,13,0,Grayson Allen missed Three Point Jumper.
+Bryant,Duke,0,3,3,13,0,Dan Garvin Defensive Rebound.
+Bryant,Duke,3,3,3,29,1,Hunter Ware made Three Point Jumper.
+Bryant,Duke,3,5,3,46,1,Brandon Ingram made Jumper.
+Bryant,Duke,3,5,4,9,0,Dan Garvin Turnover.
+Bryant,Duke,3,5,4,9,0,Official TV Timeout
+Bryant,Duke,3,5,4,22,0,Grayson Allen Turnover.
+Bryant,Duke,3,5,4,22,0,Nisre Zouzoua Steal.
+Bryant,Duke,3,5,4,27,0,Nisre Zouzoua missed Layup.
+Bryant,Duke,3,5,4,27,0,Dan Garvin Offensive Rebound.
+Bryant,Duke,5,5,4,30,1,Dan Garvin made Layup.
+Bryant,Duke,5,5,4,30,0,Foul on Amile Jefferson.
+Bryant,Duke,5,5,4,30,0,Dan Garvin missed Free Throw.
+Bryant,Duke,5,5,4,30,0,Marshall Plumlee Defensive Rebound.
+Bryant,Duke,5,7,4,46,1,Matt Jones made Jumper.
+Bryant,Duke,7,7,5,1,1,Hunter Ware made Layup. Assisted by Gus Riley.
+Bryant,Duke,7,7,5,15,0,Brandon Ingram missed Jumper.
+Bryant,Duke,7,7,5,15,0,Amile Jefferson Offensive Rebound.
+Bryant,Duke,7,7,5,15,0,Amile Jefferson missed Two Point Tip Shot.
+Bryant,Duke,7,7,5,15,0,Amile Jefferson Offensive Rebound.
+Bryant,Duke,7,7,5,15,0,Amile Jefferson missed Layup.
+Bryant,Duke,7,7,5,15,0,Amile Jefferson Offensive Rebound.
+Bryant,Duke,7,9,5,19,1,Amile Jefferson made Layup.
+Bryant,Duke,7,9,5,39,0,Dan Garvin Turnover.
+Bryant,Duke,7,9,5,39,0,Matt Jones Steal.
+Bryant,Duke,7,12,5,48,1,Brandon Ingram made Three Point Jumper. Assisted by Grayson Allen.
+Bryant,Duke,7,12,6,6,0,Dan Garvin missed Jumper.
+Bryant,Duke,7,12,6,6,0,Amile Jefferson Defensive Rebound.
+Bryant,Duke,7,12,6,20,0,Grayson Allen missed Jumper.
+Bryant,Duke,7,12,6,20,0,Nisre Zouzoua Defensive Rebound.
+Bryant,Duke,9,12,6,44,1,Marcel Pettway made Layup. Assisted by Shane McLaughlin.
+Bryant,Duke,9,14,7,15,1,Derryck Thornton made Jumper.
+Bryant,Duke,9,14,7,34,0,Foul on Brandon Ingram.
+Bryant,Duke,9,14,7,39,0,Marcel Pettway missed Layup.
+Bryant,Duke,9,14,7,39,0,Chase Jeter Block.
+Bryant,Duke,9,14,7,39,0,Luke Kennard Defensive Rebound.
+Bryant,Duke,9,14,7,46,0,Luke Kennard missed Three Point Jumper.
+Bryant,Duke,9,14,7,46,0,Matt Jones Offensive Rebound.
+Bryant,Duke,9,17,7,51,1,Matt Jones made Three Point Jumper.
+Bryant,Duke,12,17,8,10,1,Nisre Zouzoua made Three Point Jumper.
+Bryant,Duke,12,17,8,38,0,Chase Jeter missed Layup.
+Bryant,Duke,12,17,8,38,0,Chase Jeter Offensive Rebound.
+Bryant,Duke,12,17,8,41,0,Foul on Dan Garvin.
+Bryant,Duke,12,17,8,41,0,Official TV Timeout
+Bryant,Duke,12,18,8,41,1,Chase Jeter made Free Throw.
+Bryant,Duke,12,19,8,41,1,Chase Jeter made Free Throw.
+Bryant,Duke,12,19,9,5,0,Nisre Zouzoua Turnover.
+Bryant,Duke,12,19,9,15,0,Foul on Marcel Pettway.
+Bryant,Duke,12,21,9,21,1,Grayson Allen made Jumper.
+Bryant,Duke,14,21,9,30,1,Shane McLaughlin made Layup.
+Bryant,Duke,14,21,9,50,0,Foul on Andrew Scocca.
+Bryant,Duke,14,22,9,50,1,Grayson Allen made Free Throw.
+Bryant,Duke,14,23,9,50,1,Grayson Allen made Free Throw.
+Bryant,Duke,14,23,9,56,0,Nisre Zouzoua missed Layup.
+Bryant,Duke,14,23,9,56,0,Marshall Plumlee Block.
+Bryant,Duke,14,23,9,56,0,Amile Jefferson Defensive Rebound.
+Bryant,Duke,14,23,10,6,0,Foul on Shane McLaughlin.
+Bryant,Duke,14,24,10,6,1,Grayson Allen made Free Throw.
+Bryant,Duke,14,25,10,6,1,Grayson Allen made Free Throw.
+Bryant,Duke,14,25,10,26,0,Foul on Luke Kennard.
+Bryant,Duke,15,25,10,26,1,Andrew Scocca made Free Throw.
+Bryant,Duke,16,25,10,26,1,Andrew Scocca made Free Throw.
+Bryant,Duke,16,25,10,40,0,Foul on Andrew Scocca.
+Bryant,Duke,16,26,10,40,1,Marshall Plumlee made Free Throw.
+Bryant,Duke,16,26,10,40,0,Marshall Plumlee missed Free Throw.
+Bryant,Duke,16,26,10,40,0,Dan Garvin Defensive Rebound.
+Bryant,Duke,16,26,10,56,0,Foul on Matt Jones.
+Bryant,Duke,16,26,11,8,0,Dan Garvin missed Jumper.
+Bryant,Duke,16,26,11,8,0,Marshall Plumlee Block.
+Bryant,Duke,16,26,11,8,0,Amile Jefferson Defensive Rebound.
+Bryant,Duke,16,29,11,15,1,Matt Jones made Three Point Jumper. Assisted by Derryck Thornton.
+Bryant,Duke,16,29,11,38,0,Hunter Ware missed Three Point Jumper.
+Bryant,Duke,16,29,11,38,0,Derryck Thornton Defensive Rebound.
+Bryant,Duke,16,29,11,48,0,Derryck Thornton missed Jumper.
+Bryant,Duke,16,29,11,48,0,Amile Jefferson Offensive Rebound.
+Bryant,Duke,16,29,11,54,0,Amile Jefferson missed Layup.
+Bryant,Duke,16,29,11,54,0,Marshall Plumlee Offensive Rebound.
+Bryant,Duke,16,29,11,58,0,Marshall Plumlee missed Layup.
+Bryant,Duke,16,29,11,58,0,Marshall Plumlee Offensive Rebound.
+Bryant,Duke,16,29,11,58,0,Foul on Bosko Kostur.
+Bryant,Duke,16,30,11,58,1,Marshall Plumlee made Free Throw.
+Bryant,Duke,16,31,11,58,1,Marshall Plumlee made Free Throw.
+Bryant,Duke,19,31,12,8,1,Hunter Ware made Three Point Jumper.
+Bryant,Duke,19,31,12,25,0,Foul on Dan Garvin.
+Bryant,Duke,19,31,12,25,0,Official TV Timeout
+Bryant,Duke,19,31,12,25,0,Brandon Ingram missed Free Throw.
+Bryant,Duke,19,31,12,25,0,Duke Deadball Team Rebound.
+Bryant,Duke,19,32,12,25,1,Brandon Ingram made Free Throw.
+Bryant,Duke,19,32,12,42,0,Gus Riley Turnover.
+Bryant,Duke,19,32,12,42,0,Brandon Ingram Steal.
+Bryant,Duke,19,34,12,46,1,Matt Jones made Layup. Assisted by Brandon Ingram.
+Bryant,Duke,22,34,13,3,1,Gus Riley made Three Point Jumper. Assisted by Shane McLaughlin.
+Bryant,Duke,22,34,13,23,0,Grayson Allen missed Jumper.
+Bryant,Duke,22,34,13,23,0,Nisre Zouzoua Defensive Rebound.
+Bryant,Duke,22,34,13,43,0,Hunter Ware missed Three Point Jumper.
+Bryant,Duke,22,34,13,43,0,Gus Riley Offensive Rebound.
+Bryant,Duke,22,34,13,47,0,Gus Riley missed Layup.
+Bryant,Duke,22,34,13,47,0,Marshall Plumlee Defensive Rebound.
+Bryant,Duke,22,37,14,1,1,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.
+Bryant,Duke,24,37,14,18,1,Shane McLaughlin made Layup. Assisted by Hunter Ware.
+Bryant,Duke,24,37,14,31,0,Derryck Thornton missed Jumper.
+Bryant,Duke,24,37,14,31,0,Gus Riley Defensive Rebound.
+Bryant,Duke,24,37,14,53,0,Hunter Ware missed Three Point Jumper.
+Bryant,Duke,24,37,14,53,0,Derryck Thornton Defensive Rebound.
+Bryant,Duke,24,37,15,7,0,Foul on Andrew Scocca.
+Bryant,Duke,24,38,15,7,1,Brandon Ingram made Free Throw.
+Bryant,Duke,24,39,15,7,1,Brandon Ingram made Free Throw.
+Bryant,Duke,24,39,15,18,0,Hunter Ware Turnover.
+Bryant,Duke,24,39,15,18,0,Matt Jones Steal.
+Bryant,Duke,24,39,15,22,0,Matt Jones missed Layup.
+Bryant,Duke,24,39,15,22,0,Chase Jeter Offensive Rebound.
+Bryant,Duke,24,41,15,22,1,Chase Jeter made Dunk.
+Bryant,Duke,26,41,15,52,1,Hunter Ware made Jumper.
+Bryant,Duke,26,43,16,13,1,Grayson Allen made Jumper.
+Bryant,Duke,26,43,16,30,0,Foul on Amile Jefferson.
+Bryant,Duke,26,43,16,30,0,Official TV Timeout
+Bryant,Duke,27,43,16,30,1,Bosko Kostur made Free Throw.
+Bryant,Duke,27,43,16,30,0,Bosko Kostur missed Free Throw.
+Bryant,Duke,27,43,16,30,0,Luke Kennard Defensive Rebound.
+Bryant,Duke,27,46,16,44,1,Grayson Allen made Three Point Jumper. Assisted by Matt Jones.
+Bryant,Duke,27,46,16,57,0,Shane McLaughlin Turnover.
+Bryant,Duke,27,46,16,57,0,Marshall Plumlee Steal.
+Bryant,Duke,27,46,17,6,0,Derryck Thornton missed Layup.
+Bryant,Duke,27,46,17,6,0,Nisre Zouzoua Block.
+Bryant,Duke,27,46,17,6,0,Bosko Kostur Defensive Rebound.
+Bryant,Duke,29,46,17,13,1,Nisre Zouzoua made Jumper. Assisted by Bosko Kostur.
+Bryant,Duke,29,46,17,34,0,Foul on Marcel Pettway.
+Bryant,Duke,29,47,17,34,1,Marshall Plumlee made Free Throw.
+Bryant,Duke,29,47,17,34,0,Marshall Plumlee missed Free Throw.
+Bryant,Duke,29,47,17,34,0,Shane McLaughlin Defensive Rebound.
+Bryant,Duke,29,47,17,39,0,Nisre Zouzoua Turnover.
+Bryant,Duke,29,47,17,39,0,Luke Kennard Steal.
+Bryant,Duke,29,47,17,51,0,Foul on Nisre Zouzoua.
+Bryant,Duke,29,48,17,51,1,Grayson Allen made Free Throw.
+Bryant,Duke,29,49,17,51,1,Grayson Allen made Free Throw.
+Bryant,Duke,29,49,18,1,0,Gus Riley missed Three Point Jumper.
+Bryant,Duke,29,49,18,1,0,Luke Kennard Defensive Rebound.
+Bryant,Duke,29,52,18,28,1,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.
+Bryant,Duke,29,52,18,46,0,Nisre Zouzoua missed Three Point Jumper.
+Bryant,Duke,29,52,18,46,0,Gus Riley Offensive Rebound.
+Bryant,Duke,31,52,18,50,1,Gus Riley made Layup.
+Bryant,Duke,31,52,19,1,0,Foul on Gus Riley.
+Bryant,Duke,31,53,19,1,1,Marshall Plumlee made Free Throw.
+Bryant,Duke,31,54,19,1,1,Marshall Plumlee made Free Throw.
+Bryant,Duke,31,54,19,1,0,Bryant  Timeout
+Bryant,Duke,31,54,19,11,0,Curtis Oakley missed Three Point Jumper.
+Bryant,Duke,31,54,19,11,0,Grayson Allen Defensive Rebound.
+Bryant,Duke,31,57,19,19,1,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.
+Bryant,Duke,31,57,19,38,0,Foul on Matt Jones.
+Bryant,Duke,31,57,19,38,0,Shane McLaughlin missed Free Throw.
+Bryant,Duke,31,57,19,38,0,Bryant Deadball Team Rebound.
+Bryant,Duke,32,57,19,38,1,Shane McLaughlin made Free Throw.
+Bryant,Duke,32,57,19,38,0,Duke  Timeout
+Bryant,Duke,32,59,19,53,1,Grayson Allen made Layup.
+Bryant,Duke,32,59,20,0,0,End of 1st half
+Bryant,Duke,32,59,20,0,0,Jump Ball won by Duke
+Bryant,Duke,32,59,20,20,0,Matt Jones Turnover.
+Bryant,Duke,32,59,20,35,0,Foul on Amile Jefferson.
+Bryant,Duke,32,59,20,35,0,Andrew Scocca missed Free Throw.
+Bryant,Duke,32,59,20,35,0,Bryant Deadball Team Rebound.
+Bryant,Duke,33,59,20,35,1,Andrew Scocca made Free Throw.
+Bryant,Duke,33,59,20,45,0,Foul on Bosko Kostur.
+Bryant,Duke,33,59,20,52,0,Foul on Shane McLaughlin.
+Bryant,Duke,33,60,20,52,1,Grayson Allen made Free Throw.
+Bryant,Duke,33,61,20,52,1,Grayson Allen made Free Throw.
+Bryant,Duke,33,61,21,10,0,Shane McLaughlin missed Layup.
+Bryant,Duke,33,61,21,10,0,Marshall Plumlee Block.
+Bryant,Duke,33,61,21,10,0,Bryant Offensive Rebound.
+Bryant,Duke,33,61,21,16,0,Andrew Scocca missed Layup.
+Bryant,Duke,33,61,21,16,0,Dan Garvin Offensive Rebound.
+Bryant,Duke,35,61,21,16,1,Dan Garvin made Two Point Tip Shot.
+Bryant,Duke,35,63,21,34,1,Marshall Plumlee made Dunk. Assisted by Matt Jones.
+Bryant,Duke,35,63,21,47,0,Foul on Matt Jones.
+Bryant,Duke,38,63,21,55,1,Hunter Ware made Three Point Jumper.
+Bryant,Duke,38,63,22,13,0,Foul on Shane McLaughlin.
+Bryant,Duke,38,63,22,16,0,Foul on Andrew Scocca.
+Bryant,Duke,38,63,22,16,0,Marshall Plumlee missed Free Throw.
+Bryant,Duke,38,63,22,16,0,Duke Deadball Team Rebound.
+Bryant,Duke,38,63,22,16,0,Marshall Plumlee missed Free Throw.
+Bryant,Duke,38,63,22,16,0,Duke Deadball Team Rebound.
+Bryant,Duke,38,63,22,19,0,Brandon Ingram missed Jumper.
+Bryant,Duke,38,63,22,19,0,Marshall Plumlee Offensive Rebound.
+Bryant,Duke,38,63,22,27,0,Foul on Nisre Zouzoua.
+Bryant,Duke,38,63,22,27,0,Grayson Allen missed Free Throw.
+Bryant,Duke,38,63,22,27,0,Duke Deadball Team Rebound.
+Bryant,Duke,38,64,22,27,1,Grayson Allen made Free Throw.
+Bryant,Duke,41,64,22,44,1,Nisre Zouzoua made Three Point Jumper.
+Bryant,Duke,41,66,22,59,1,Grayson Allen made Jumper.
+Bryant,Duke,41,66,23,13,0,Foul on Marshall Plumlee.
+Bryant,Duke,41,66,23,23,0,Hunter Ware missed Three Point Jumper.
+Bryant,Duke,41,66,23,23,0,Derryck Thornton Defensive Rebound.
+Bryant,Duke,41,66,23,40,0,Grayson Allen missed Jumper.
+Bryant,Duke,41,66,23,40,0,Grayson Allen Offensive Rebound.
+Bryant,Duke,41,66,23,45,0,Grayson Allen missed Jumper.
+Bryant,Duke,41,66,23,45,0,Shane McLaughlin Defensive Rebound.
+Bryant,Duke,41,66,23,51,0,Nisre Zouzoua missed Layup.
+Bryant,Duke,41,66,23,51,0,Brandon Ingram Block.
+Bryant,Duke,41,66,23,51,0,Marcel Pettway Offensive Rebound.
+Bryant,Duke,43,66,23,57,1,Marcel Pettway made Layup.
+Bryant,Duke,43,66,24,5,0,Derryck Thornton missed Layup.
+Bryant,Duke,43,66,24,5,0,Marcel Pettway Block.
+Bryant,Duke,43,66,24,5,0,Brandon Ingram Offensive Rebound.
+Bryant,Duke,43,69,24,10,1,Brandon Ingram made Three Point Jumper.
+Bryant,Duke,43,69,24,19,0,Shane McLaughlin Turnover.
+Bryant,Duke,43,69,24,19,0,Amile Jefferson Steal.
+Bryant,Duke,43,69,24,24,0,Derryck Thornton missed Three Point Jumper.
+Bryant,Duke,43,69,24,24,0,Bryant Deadball Team Rebound.
+Bryant,Duke,43,69,24,28,0,Foul on Marshall Plumlee.
+Bryant,Duke,43,69,24,28,0,Official TV Timeout
+Bryant,Duke,43,69,24,39,0,Dan Garvin missed Jumper.
+Bryant,Duke,43,69,24,39,0,Luke Kennard Defensive Rebound.
+Bryant,Duke,43,69,25,0,0,Luke Kennard missed Three Point Jumper.
+Bryant,Duke,43,69,25,0,0,Amile Jefferson Offensive Rebound.
+Bryant,Duke,43,71,25,4,1,Amile Jefferson made Layup.
+Bryant,Duke,43,71,25,17,0,Shane McLaughlin Turnover.
+Bryant,Duke,43,71,25,17,0,Luke Kennard Steal.
+Bryant,Duke,43,73,25,20,1,Luke Kennard made Dunk.
+Bryant,Duke,43,73,25,36,0,Dan Garvin missed Jumper.
+Bryant,Duke,43,73,25,36,0,Bryant Offensive Rebound.
+Bryant,Duke,43,73,25,48,0,Dan Garvin Turnover.
+Bryant,Duke,43,73,25,48,0,Luke Kennard Steal.
+Bryant,Duke,43,75,25,53,1,Brandon Ingram made Dunk. Assisted by Luke Kennard.
+Bryant,Duke,43,75,25,55,0,Bryant  Timeout
+Bryant,Duke,43,75,26,3,0,Shane McLaughlin Turnover.
+Bryant,Duke,43,75,26,3,0,Chase Jeter Steal.
+Bryant,Duke,43,77,26,13,1,Derryck Thornton made Layup.
+Bryant,Duke,46,77,26,30,1,Gus Riley made Three Point Jumper. Assisted by Dan Garvin.
+Bryant,Duke,46,77,26,44,0,Luke Kennard missed Three Point Jumper.
+Bryant,Duke,46,77,26,44,0,Amile Jefferson Offensive Rebound.
+Bryant,Duke,46,77,26,50,0,Foul on Gus Riley.
+Bryant,Duke,46,79,26,53,1,Luke Kennard made Layup.
+Bryant,Duke,46,79,27,13,0,Hunter Ware missed Jumper.
+Bryant,Duke,46,79,27,13,0,Brandon Ingram Defensive Rebound.
+Bryant,Duke,46,81,27,25,1,Amile Jefferson made Layup.
+Bryant,Duke,46,81,27,25,0,Foul on Dan Garvin.
+Bryant,Duke,46,82,27,25,1,Amile Jefferson made Free Throw.
+Bryant,Duke,49,82,27,38,1,Nisre Zouzoua made Three Point Jumper. Assisted by Hunter Ware.
+Bryant,Duke,49,84,27,56,1,Chase Jeter made Layup.
+Bryant,Duke,49,84,27,56,0,Foul on Nisre Zouzoua.
+Bryant,Duke,49,85,27,56,1,Chase Jeter made Free Throw.
+Bryant,Duke,51,85,28,7,1,Marcel Pettway made Layup. Assisted by Shane McLaughlin.
+Bryant,Duke,51,87,28,24,1,Luke Kennard made Jumper.
+Bryant,Duke,54,87,28,57,1,Hunter Ware made Three Point Jumper.
+Bryant,Duke,54,87,29,24,0,Foul on Shane McLaughlin.
+Bryant,Duke,54,87,29,24,0,Official TV Timeout
+Bryant,Duke,54,87,29,24,0,Marshall Plumlee missed Free Throw.
+Bryant,Duke,54,87,29,24,0,Gus Riley Defensive Rebound.
+Bryant,Duke,54,87,29,26,0,Gus Riley Turnover.
+Bryant,Duke,54,87,29,34,0,Derryck Thornton missed Jumper.
+Bryant,Duke,54,87,29,34,0,Gus Riley Defensive Rebound.
+Bryant,Duke,57,87,29,51,1,Nisre Zouzoua made Three Point Jumper. Assisted by Shane McLaughlin.
+Bryant,Duke,57,87,30,11,0,Marshall Plumlee Turnover.
+Bryant,Duke,57,87,30,26,0,Gus Riley missed Three Point Jumper.
+Bryant,Duke,57,87,30,26,0,Nisre Zouzoua Offensive Rebound.
+Bryant,Duke,57,87,30,33,0,Foul on Derryck Thornton.
+Bryant,Duke,59,87,30,36,1,Marcel Pettway made Dunk.
+Bryant,Duke,59,87,30,57,0,Brandon Ingram missed Three Point Jumper.
+Bryant,Duke,59,87,30,57,0,Derryck Thornton Offensive Rebound.
+Bryant,Duke,59,90,31,5,1,Grayson Allen made Three Point Jumper. Assisted by Marshall Plumlee.
+Bryant,Duke,62,90,31,26,1,Hunter Ware made Three Point Jumper. Assisted by Shane McLaughlin.
+Bryant,Duke,62,92,31,46,1,Brandon Ingram made Jumper.
+Bryant,Duke,62,92,31,55,0,Marcel Pettway missed Layup.
+Bryant,Duke,62,92,31,55,0,Grayson Allen Block.
+Bryant,Duke,62,92,31,55,0,Nisre Zouzoua Offensive Rebound.
+Bryant,Duke,64,92,32,1,1,Nisre Zouzoua made Layup.
+Bryant,Duke,64,95,32,24,1,Brandon Ingram made Three Point Jumper. Assisted by Amile Jefferson.
+Bryant,Duke,64,95,32,56,0,Nisre Zouzoua missed Three Point Jumper.
+Bryant,Duke,64,95,32,56,0,Duke Defensive Rebound.
+Bryant,Duke,64,95,33,0,0,Official TV Timeout
+Bryant,Duke,64,95,33,8,0,Brandon Ingram missed Three Point Jumper.
+Bryant,Duke,64,95,33,8,0,Amile Jefferson Offensive Rebound.
+Bryant,Duke,64,95,33,13,0,Grayson Allen missed Three Point Jumper.
+Bryant,Duke,64,95,33,13,0,Dan Garvin Defensive Rebound.
+Bryant,Duke,66,95,33,23,1,Hunter Ware made Jumper.
+Bryant,Duke,66,97,33,44,1,Amile Jefferson made Jumper.
+Bryant,Duke,66,97,34,12,0,Marcel Pettway missed Jumper.
+Bryant,Duke,66,97,34,12,0,Marshall Plumlee Defensive Rebound.
+Bryant,Duke,66,100,34,28,1,Luke Kennard made Three Point Jumper. Assisted by Brandon Ingram.
+Bryant,Duke,69,100,34,50,1,Hunter Ware made Three Point Jumper. Assisted by Shane McLaughlin.
+Bryant,Duke,69,100,35,5,0,Grayson Allen missed Three Point Jumper.
+Bryant,Duke,69,100,35,5,0,Marcel Pettway Defensive Rebound.
+Bryant,Duke,69,100,35,14,0,Nisre Zouzoua missed Three Point Jumper.
+Bryant,Duke,69,100,35,14,0,Grayson Allen Defensive Rebound.
+Bryant,Duke,69,102,35,21,1,Amile Jefferson made Layup. Assisted by Grayson Allen.
+Bryant,Duke,69,102,35,40,0,Foul on Chase Jeter.
+Bryant,Duke,69,102,35,42,0,Hunter Ware Turnover.
+Bryant,Duke,69,102,35,42,0,Antonio Vrankovic Steal.
+Bryant,Duke,69,102,36,6,0,Grayson Allen missed Jumper.
+Bryant,Duke,69,102,36,6,0,Antonio Vrankovic Offensive Rebound.
+Bryant,Duke,69,104,36,9,1,Antonio Vrankovic made Layup.
+Bryant,Duke,69,104,36,17,0,Foul on Derryck Thornton.
+Bryant,Duke,69,104,36,17,0,Official TV Timeout
+Bryant,Duke,69,104,36,17,0,Shane McLaughlin missed Free Throw.
+Bryant,Duke,69,104,36,17,0,Marcel Pettway Offensive Rebound.
+Bryant,Duke,69,104,36,33,0,Marcel Pettway missed Layup.
+Bryant,Duke,69,104,36,33,0,Chase Jeter Defensive Rebound.
+Bryant,Duke,69,106,36,40,1,Antonio Vrankovic made Layup. Assisted by Derryck Thornton.
+Bryant,Duke,69,106,36,47,0,Foul on Chase Jeter.
+Bryant,Duke,70,106,36,47,1,Dan Garvin made Free Throw.
+Bryant,Duke,70,106,36,47,0,Dan Garvin missed Free Throw.
+Bryant,Duke,70,106,36,47,0,Chase Jeter Defensive Rebound.
+Bryant,Duke,70,106,37,5,0,Derryck Thornton missed Three Point Jumper.
+Bryant,Duke,70,106,37,5,0,Dan Garvin Defensive Rebound.
+Bryant,Duke,73,106,37,16,1,Dan Garvin made Three Point Jumper. Assisted by Nisre Zouzoua.
+Bryant,Duke,73,109,37,38,1,Grayson Allen made Three Point Jumper. Assisted by Derryck Thornton.
+Bryant,Duke,73,109,37,58,0,Shane McLaughlin Turnover.
+Bryant,Duke,73,109,37,58,0,Grayson Allen Steal.
+Bryant,Duke,73,111,38,2,1,Grayson Allen made Dunk.
+Bryant,Duke,73,111,38,11,0,Dan Garvin missed Layup.
+Bryant,Duke,73,111,38,11,0,Antonio Vrankovic Defensive Rebound.
+Bryant,Duke,73,111,38,16,0,Grayson Allen missed Three Point Jumper.
+Bryant,Duke,73,111,38,16,0,Dan Garvin Defensive Rebound.
+Bryant,Duke,73,111,38,31,0,Hunter Ware missed Three Point Jumper.
+Bryant,Duke,73,111,38,31,0,Antonio Vrankovic Defensive Rebound.
+Bryant,Duke,73,113,38,38,1,Luke Kennard made Dunk. Assisted by Derryck Thornton.
+Bryant,Duke,73,113,38,42,0,Duke  Timeout
+Bryant,Duke,73,113,38,55,0,Taylor McHugh missed Jumper.
+Bryant,Duke,73,113,38,55,0,Bryant Offensive Rebound.
+Bryant,Duke,73,113,39,5,0,Bosko Kostur Turnover.
+Bryant,Duke,73,113,39,5,0,Derryck Thornton Steal.
+Bryant,Duke,73,113,39,11,0,Derryck Thornton Turnover.
+Bryant,Duke,75,113,39,25,1,Dennis Levene made Jumper. Assisted by Taylor McHugh.
+Bryant,Duke,75,113,39,42,0,Luke Kennard missed Three Point Jumper.
+Bryant,Duke,75,113,39,42,0,Taylor McHugh Defensive Rebound.
+Bryant,Duke,75,113,39,52,0,Dennis Levene missed Three Point Jumper.
+Bryant,Duke,75,113,39,52,0,Derryck Thornton Defensive Rebound.
+Bryant,Duke,75,113,40,0,0,End of Game

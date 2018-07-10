@@ -1,0 +1,337 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UConn,Maryland,0,0,0,0,0,Jump Ball won by Maryland
+UConn,Maryland,0,0,0,16,0,Shaquille Cleare missed Jumper.
+UConn,Maryland,0,0,0,16,0,Shabazz Napier Defensive Rebound.
+UConn,Maryland,0,0,0,31,0,Shabazz Napier missed Jumper.
+UConn,Maryland,0,0,0,31,0,Shabazz Napier Offensive Rebound.
+UConn,Maryland,0,0,0,37,0,DeAndre Daniels missed Three Point Jumper.
+UConn,Maryland,0,0,0,37,0,Dez Wells Defensive Rebound.
+UConn,Maryland,0,0,0,51,0,Foul on DeAndre Daniels.
+UConn,Maryland,0,0,1,7,0,Jake Layman missed Jumper.
+UConn,Maryland,0,0,1,7,0,Ryan Boatright Defensive Rebound.
+UConn,Maryland,0,0,1,18,0,Foul on Niels Giffey.
+UConn,Maryland,0,0,1,18,0,Niels Giffey Turnover.
+UConn,Maryland,0,0,1,26,0,Dez Wells Turnover.
+UConn,Maryland,3,0,1,34,1,Shabazz Napier made Three Point Jumper.
+UConn,Maryland,3,0,1,59,0,Nick Faust missed Three Point Jumper.
+UConn,Maryland,3,0,1,59,0,Dez Wells Offensive Rebound.
+UConn,Maryland,3,0,2,4,0,Dez Wells Turnover.
+UConn,Maryland,3,0,2,4,0,Shabazz Napier Steal.
+UConn,Maryland,5,0,2,7,1,Ryan Boatright made Dunk. Assisted by Shabazz Napier.
+UConn,Maryland,5,2,2,33,1,Evan Smotrycz made Jumper. Assisted by Jake Layman.
+UConn,Maryland,8,2,2,49,1,Niels Giffey made Three Point Jumper. Assisted by Shabazz Napier.
+UConn,Maryland,8,4,3,5,1,Jake Layman made Jumper. Assisted by Nick Faust.
+UConn,Maryland,8,4,3,20,0,Omar Calhoun missed Three Point Jumper.
+UConn,Maryland,8,4,3,20,0,Evan Smotrycz Defensive Rebound.
+UConn,Maryland,8,4,3,25,0,Nick Faust missed Three Point Jumper.
+UConn,Maryland,8,4,3,25,0,Dez Wells Offensive Rebound.
+UConn,Maryland,8,4,3,33,0,Foul on Omar Calhoun.
+UConn,Maryland,8,4,3,33,0,Dez Wells missed Free Throw.
+UConn,Maryland,8,4,3,33,0,Maryland Deadball Team Rebound.
+UConn,Maryland,8,5,3,33,1,Dez Wells made Free Throw.
+UConn,Maryland,11,5,3,50,1,Lasan Kromah made Three Point Jumper. Assisted by Shabazz Napier.
+UConn,Maryland,11,5,4,7,0,Foul on Ryan Boatright.
+UConn,Maryland,11,5,4,7,0,Official TV Timeout
+UConn,Maryland,11,5,4,19,0,Charles Mitchell Turnover.
+UConn,Maryland,11,5,4,37,0,Lasan Kromah missed Layup.
+UConn,Maryland,11,5,4,37,0,Phillip Nolan Offensive Rebound.
+UConn,Maryland,11,5,4,37,0,Phillip Nolan missed Two Point Tip Shot.
+UConn,Maryland,11,5,4,37,0,Phillip Nolan Offensive Rebound.
+UConn,Maryland,13,5,4,46,1,Phillip Nolan made Jumper.
+UConn,Maryland,13,5,5,10,0,Charles Mitchell Turnover.
+UConn,Maryland,13,5,5,43,0,Ryan Boatright missed Jumper.
+UConn,Maryland,13,5,5,43,0,Niels Giffey Offensive Rebound.
+UConn,Maryland,15,5,5,43,1,Niels Giffey made Two Point Tip Shot.
+UConn,Maryland,15,5,6,2,0,Jake Layman missed Jumper.
+UConn,Maryland,15,5,6,2,0,Connecticut Defensive Rebound.
+UConn,Maryland,15,5,6,7,0,Foul on Charles Mitchell.
+UConn,Maryland,15,5,6,22,0,Shabazz Napier missed Jumper.
+UConn,Maryland,15,5,6,22,0,Maryland Defensive Rebound.
+UConn,Maryland,15,5,6,24,0,Foul on Phillip Nolan.
+UConn,Maryland,15,8,6,33,1,Evan Smotrycz made Three Point Jumper. Assisted by Nick Faust.
+UConn,Maryland,15,8,6,47,0,Niels Giffey missed Layup.
+UConn,Maryland,15,8,6,47,0,Amida Brimah Offensive Rebound.
+UConn,Maryland,15,8,6,53,0,Foul on Charles Mitchell.
+UConn,Maryland,15,8,6,53,0,Amida Brimah missed Free Throw.
+UConn,Maryland,15,8,6,53,0,Connecticut Deadball Team Rebound.
+UConn,Maryland,16,8,6,53,1,Amida Brimah made Free Throw.
+UConn,Maryland,16,11,7,13,1,Evan Smotrycz made Three Point Jumper. Assisted by Dez Wells.
+UConn,Maryland,16,11,7,29,0,Shabazz Napier missed Jumper.
+UConn,Maryland,16,11,7,29,0,Evan Smotrycz Defensive Rebound.
+UConn,Maryland,16,14,7,36,1,Nick Faust made Three Point Jumper. Assisted by Dez Wells.
+UConn,Maryland,18,14,7,42,1,Niels Giffey made Dunk. Assisted by Shabazz Napier.
+UConn,Maryland,18,14,8,2,0,Jake Layman missed Jumper.
+UConn,Maryland,18,14,8,2,0,Niels Giffey Defensive Rebound.
+UConn,Maryland,18,14,8,33,0,Shabazz Napier missed Three Point Jumper.
+UConn,Maryland,18,14,8,33,0,Jake Layman Defensive Rebound.
+UConn,Maryland,18,14,8,43,0,Dez Wells Turnover.
+UConn,Maryland,18,14,8,43,0,Lasan Kromah Steal.
+UConn,Maryland,20,14,8,46,1,Lasan Kromah made Dunk.
+UConn,Maryland,20,14,8,56,0,Dez Wells Turnover.
+UConn,Maryland,20,14,8,56,0,Terrence Samuel Steal.
+UConn,Maryland,20,14,9,0,0,Terrence Samuel Turnover.
+UConn,Maryland,20,14,9,0,0,Official TV Timeout
+UConn,Maryland,20,14,9,10,0,Dez Wells missed Layup.
+UConn,Maryland,20,14,9,10,0,Terrence Samuel Defensive Rebound.
+UConn,Maryland,20,14,9,16,0,Foul on Shaquille Cleare.
+UConn,Maryland,20,14,9,16,0,Lasan Kromah missed Free Throw.
+UConn,Maryland,20,14,9,16,0,Connecticut Deadball Team Rebound.
+UConn,Maryland,21,14,9,16,1,Lasan Kromah made Free Throw.
+UConn,Maryland,21,14,9,33,0,Nick Faust missed Three Point Jumper.
+UConn,Maryland,21,14,9,33,0,Connecticut Defensive Rebound.
+UConn,Maryland,21,14,9,53,0,Foul on Evan Smotrycz.
+UConn,Maryland,23,14,10,7,1,DeAndre Daniels made Jumper.
+UConn,Maryland,23,14,10,13,0,Roddy Peters Turnover.
+UConn,Maryland,23,14,10,13,0,DeAndre Daniels Steal.
+UConn,Maryland,25,14,10,18,1,Lasan Kromah made Dunk. Assisted by Ryan Boatright.
+UConn,Maryland,25,14,10,36,0,Foul on Lasan Kromah.
+UConn,Maryland,25,16,10,38,1,Evan Smotrycz made Jumper. Assisted by Dez Wells.
+UConn,Maryland,25,16,11,12,0,Foul on Varun Ram.
+UConn,Maryland,25,16,11,17,0,Foul on Jake Layman.
+UConn,Maryland,25,16,11,27,0,Omar Calhoun missed Three Point Jumper.
+UConn,Maryland,25,16,11,27,0,Maryland Defensive Rebound.
+UConn,Maryland,25,16,11,29,0,Foul on Shabazz Napier.
+UConn,Maryland,25,17,11,29,1,Jake Layman made Free Throw.
+UConn,Maryland,25,18,11,29,1,Jake Layman made Free Throw.
+UConn,Maryland,27,18,11,55,1,Omar Calhoun made Layup.
+UConn,Maryland,27,18,12,18,0,Dez Wells missed Three Point Jumper.
+UConn,Maryland,27,18,12,18,0,Amida Brimah Defensive Rebound.
+UConn,Maryland,27,18,12,31,0,Official TV Timeout
+UConn,Maryland,27,18,12,56,0,Connecticut  Turnover.
+UConn,Maryland,27,18,13,11,0,Nick Faust missed Layup.
+UConn,Maryland,27,18,13,11,0,DeAndre Daniels Block.
+UConn,Maryland,27,18,13,11,0,Shaquille Cleare Offensive Rebound.
+UConn,Maryland,27,20,13,18,1,Shaquille Cleare made Layup.
+UConn,Maryland,30,20,13,34,1,Ryan Boatright made Three Point Jumper. Assisted by DeAndre Daniels.
+UConn,Maryland,30,20,13,54,0,Evan Smotrycz missed Jumper.
+UConn,Maryland,30,20,13,54,0,Shabazz Napier Defensive Rebound.
+UConn,Maryland,30,20,14,2,0,Omar Calhoun missed Three Point Jumper.
+UConn,Maryland,30,20,14,2,0,Nick Faust Defensive Rebound.
+UConn,Maryland,30,22,14,9,1,Nick Faust made Layup. Assisted by Dez Wells.
+UConn,Maryland,32,22,14,17,1,Shabazz Napier made Jumper.
+UConn,Maryland,32,22,14,28,0,Foul on Omar Calhoun.
+UConn,Maryland,32,23,14,28,1,Dez Wells made Free Throw.
+UConn,Maryland,32,24,14,28,1,Dez Wells made Free Throw.
+UConn,Maryland,34,24,14,46,1,DeAndre Daniels made Layup. Assisted by Shabazz Napier.
+UConn,Maryland,34,27,14,57,1,Nick Faust made Three Point Jumper. Assisted by Dez Wells.
+UConn,Maryland,34,27,15,1,0,Connecticut  Timeout
+UConn,Maryland,34,27,15,15,0,Ryan Boatright Turnover.
+UConn,Maryland,34,27,15,15,0,Dez Wells Steal.
+UConn,Maryland,34,27,15,22,0,Nick Faust missed Layup.
+UConn,Maryland,34,27,15,22,0,Charles Mitchell Offensive Rebound.
+UConn,Maryland,34,29,15,22,1,Charles Mitchell made Two Point Tip Shot.
+UConn,Maryland,34,29,15,52,0,Ryan Boatright missed Jumper.
+UConn,Maryland,34,29,15,52,0,Maryland Defensive Rebound.
+UConn,Maryland,34,29,16,8,0,Foul on Lasan Kromah.
+UConn,Maryland,34,29,16,8,0,Official TV Timeout
+UConn,Maryland,34,30,16,8,1,Nick Faust made Free Throw.
+UConn,Maryland,34,30,16,8,0,Nick Faust missed Free Throw.
+UConn,Maryland,34,30,16,8,0,Niels Giffey Defensive Rebound.
+UConn,Maryland,36,30,16,28,1,DeAndre Daniels made Jumper. Assisted by Ryan Boatright.
+UConn,Maryland,36,30,16,43,0,Nick Faust missed Three Point Jumper.
+UConn,Maryland,36,30,16,43,0,Dez Wells Offensive Rebound.
+UConn,Maryland,36,30,16,51,0,Foul on Phillip Nolan.
+UConn,Maryland,36,31,16,51,1,Roddy Peters made Free Throw.
+UConn,Maryland,36,31,16,51,0,Roddy Peters missed Free Throw.
+UConn,Maryland,36,31,16,51,0,DeAndre Daniels Defensive Rebound.
+UConn,Maryland,36,31,16,57,0,Foul on Roddy Peters.
+UConn,Maryland,37,31,16,57,1,Shabazz Napier made Free Throw.
+UConn,Maryland,38,31,16,57,1,Shabazz Napier made Free Throw.
+UConn,Maryland,38,31,17,9,0,Nick Faust missed Layup.
+UConn,Maryland,38,31,17,9,0,Amida Brimah Block.
+UConn,Maryland,38,31,17,9,0,Evan Smotrycz Offensive Rebound.
+UConn,Maryland,38,31,17,15,0,Evan Smotrycz missed Layup.
+UConn,Maryland,38,31,17,15,0,Amida Brimah Block.
+UConn,Maryland,38,31,17,15,0,DeAndre Daniels Defensive Rebound.
+UConn,Maryland,38,31,17,23,0,DeAndre Daniels missed Three Point Jumper.
+UConn,Maryland,38,31,17,23,0,Jake Layman Defensive Rebound.
+UConn,Maryland,38,31,17,34,0,Dez Wells missed Layup.
+UConn,Maryland,38,31,17,34,0,Amida Brimah Block.
+UConn,Maryland,38,31,17,34,0,Shabazz Napier Defensive Rebound.
+UConn,Maryland,41,31,17,42,1,Niels Giffey made Three Point Jumper. Assisted by Ryan Boatright.
+UConn,Maryland,41,31,17,44,0,Maryland  Timeout
+UConn,Maryland,41,31,17,51,0,Shaquille Cleare missed Layup.
+UConn,Maryland,41,31,17,51,0,DeAndre Daniels Block.
+UConn,Maryland,41,31,17,51,0,Connecticut Defensive Rebound.
+UConn,Maryland,41,31,17,59,0,Foul on Shaquille Cleare.
+UConn,Maryland,42,31,18,0,1,Shabazz Napier made Free Throw.
+UConn,Maryland,43,31,18,0,1,Shabazz Napier made Free Throw.
+UConn,Maryland,43,31,18,17,0,Foul on Amida Brimah.
+UConn,Maryland,43,32,18,17,1,Nick Faust made Free Throw.
+UConn,Maryland,43,32,18,17,0,Nick Faust missed Free Throw.
+UConn,Maryland,43,32,18,17,0,Niels Giffey Defensive Rebound.
+UConn,Maryland,45,32,18,30,1,Amida Brimah made Dunk. Assisted by DeAndre Daniels.
+UConn,Maryland,45,34,18,43,1,Roddy Peters made Layup.
+UConn,Maryland,45,34,19,7,0,Shabazz Napier missed Jumper.
+UConn,Maryland,45,34,19,7,0,Maryland Defensive Rebound.
+UConn,Maryland,45,34,19,9,0,Foul on Amida Brimah.
+UConn,Maryland,45,35,19,9,1,Shaquille Cleare made Free Throw.
+UConn,Maryland,45,36,19,9,1,Shaquille Cleare made Free Throw.
+UConn,Maryland,48,36,19,23,1,Niels Giffey made Three Point Jumper. Assisted by Ryan Boatright.
+UConn,Maryland,48,36,19,54,0,Nick Faust Turnover.
+UConn,Maryland,48,36,19,54,0,DeAndre Daniels Steal.
+UConn,Maryland,48,36,19,59,0,Ryan Boatright missed Three Point Jumper.
+UConn,Maryland,48,36,19,59,0,Connecticut Offensive Rebound.
+UConn,Maryland,48,36,20,0,0,End of 1st half
+UConn,Maryland,48,36,20,0,0,Jump Ball won by Connecticut
+UConn,Maryland,48,36,20,15,0,Omar Calhoun missed Three Point Jumper.
+UConn,Maryland,48,36,20,15,0,Evan Smotrycz Defensive Rebound.
+UConn,Maryland,48,36,20,31,0,Jake Layman missed Three Point Jumper.
+UConn,Maryland,48,36,20,31,0,Phillip Nolan Defensive Rebound.
+UConn,Maryland,48,36,20,37,0,Foul on Jake Layman.
+UConn,Maryland,49,36,20,37,1,Shabazz Napier made Free Throw.
+UConn,Maryland,50,36,20,37,1,Shabazz Napier made Free Throw.
+UConn,Maryland,50,36,20,55,0,Nick Faust missed Three Point Jumper.
+UConn,Maryland,50,36,20,55,0,Connecticut Defensive Rebound.
+UConn,Maryland,50,36,21,19,0,Foul on Nick Faust.
+UConn,Maryland,50,36,21,26,0,Ryan Boatright missed Jumper.
+UConn,Maryland,50,36,21,26,0,Maryland Defensive Rebound.
+UConn,Maryland,50,36,21,41,0,Foul on Phillip Nolan.
+UConn,Maryland,50,37,21,41,1,Nick Faust made Free Throw.
+UConn,Maryland,50,38,21,41,1,Nick Faust made Free Throw.
+UConn,Maryland,50,38,21,55,0,Foul on Jake Layman.
+UConn,Maryland,50,38,22,15,0,Amida Brimah Turnover.
+UConn,Maryland,50,40,22,22,1,Charles Mitchell made Layup. Assisted by Roddy Peters.
+UConn,Maryland,50,40,22,32,0,Ryan Boatright missed Three Point Jumper.
+UConn,Maryland,50,40,22,32,0,Dez Wells Defensive Rebound.
+UConn,Maryland,50,40,22,41,0,Dez Wells missed Layup.
+UConn,Maryland,50,40,22,41,0,DeAndre Daniels Block.
+UConn,Maryland,50,40,22,41,0,Charles Mitchell Offensive Rebound.
+UConn,Maryland,50,42,22,48,1,Charles Mitchell made Layup.
+UConn,Maryland,50,42,22,52,0,Connecticut  Timeout
+UConn,Maryland,52,42,23,6,1,DeAndre Daniels made Dunk.
+UConn,Maryland,52,42,23,18,0,Roddy Peters Turnover.
+UConn,Maryland,52,42,23,18,0,Ryan Boatright Steal.
+UConn,Maryland,54,42,23,23,1,Amida Brimah made Dunk. Assisted by Ryan Boatright.
+UConn,Maryland,54,44,23,32,1,Dez Wells made Jumper.
+UConn,Maryland,54,44,23,40,0,Shabazz Napier Turnover.
+UConn,Maryland,54,44,23,40,0,Nick Faust Steal.
+UConn,Maryland,54,44,23,49,0,Evan Smotrycz missed Three Point Jumper.
+UConn,Maryland,54,44,23,49,0,Connecticut Defensive Rebound.
+UConn,Maryland,54,44,23,49,0,DeAndre Daniels missed Jumper.
+UConn,Maryland,54,44,23,49,0,Omar Calhoun Offensive Rebound.
+UConn,Maryland,56,44,24,14,1,Omar Calhoun made Jumper.
+UConn,Maryland,56,47,24,32,1,Evan Smotrycz made Three Point Jumper. Assisted by Nick Faust.
+UConn,Maryland,59,47,24,52,1,Omar Calhoun made Three Point Jumper. Assisted by Shabazz Napier.
+UConn,Maryland,59,47,25,15,0,Foul on Amida Brimah.
+UConn,Maryland,59,47,25,15,0,Official TV Timeout
+UConn,Maryland,59,49,25,28,1,Charles Mitchell made Layup. Assisted by Roddy Peters.
+UConn,Maryland,59,49,25,28,0,Foul on DeAndre Daniels.
+UConn,Maryland,59,50,25,28,1,Charles Mitchell made Free Throw.
+UConn,Maryland,59,50,25,55,0,Foul on Roddy Peters.
+UConn,Maryland,62,50,26,6,1,Shabazz Napier made Three Point Jumper.
+UConn,Maryland,62,50,26,21,0,Charles Mitchell missed Jumper.
+UConn,Maryland,62,50,26,21,0,Ryan Boatright Defensive Rebound.
+UConn,Maryland,62,50,26,28,0,Ryan Boatright missed Three Point Jumper.
+UConn,Maryland,62,50,26,28,0,Tyler Olander Offensive Rebound.
+UConn,Maryland,65,50,26,32,1,Omar Calhoun made Three Point Jumper. Assisted by Tyler Olander.
+UConn,Maryland,65,50,26,44,0,Maryland  Timeout
+UConn,Maryland,65,50,26,45,0,Dez Wells Turnover.
+UConn,Maryland,65,50,26,45,0,Tyler Olander Steal.
+UConn,Maryland,65,50,27,13,0,DeAndre Daniels Turnover.
+UConn,Maryland,65,50,27,29,0,Shaquille Cleare missed Jumper.
+UConn,Maryland,65,50,27,29,0,Ryan Boatright Defensive Rebound.
+UConn,Maryland,65,50,27,52,0,Omar Calhoun missed Three Point Jumper.
+UConn,Maryland,65,50,27,52,0,Jake Layman Defensive Rebound.
+UConn,Maryland,65,50,27,57,0,Dez Wells Turnover.
+UConn,Maryland,65,50,27,57,0,Shabazz Napier Steal.
+UConn,Maryland,67,50,28,1,1,Ryan Boatright made Dunk. Assisted by Shabazz Napier.
+UConn,Maryland,67,50,28,17,0,Technical Foul on Shabazz Napier.
+UConn,Maryland,67,50,28,17,0,Foul on Shabazz Napier.
+UConn,Maryland,67,50,28,17,0,Official TV Timeout
+UConn,Maryland,67,50,28,17,0,Jake Layman missed Free Throw.
+UConn,Maryland,67,51,28,17,1,Jake Layman made Free Throw.
+UConn,Maryland,67,54,28,26,1,Jake Layman made Three Point Jumper. Assisted by Varun Ram.
+UConn,Maryland,67,54,28,51,0,Shabazz Napier Turnover.
+UConn,Maryland,67,54,28,51,0,Roddy Peters Steal.
+UConn,Maryland,67,54,29,1,0,Roddy Peters Turnover.
+UConn,Maryland,67,54,29,1,0,Tyler Olander Steal.
+UConn,Maryland,67,54,29,6,0,Connecticut  Timeout
+UConn,Maryland,67,54,29,13,0,Shabazz Napier missed Jumper.
+UConn,Maryland,67,54,29,13,0,Evan Smotrycz Defensive Rebound.
+UConn,Maryland,67,56,29,23,1,Roddy Peters made Layup.
+UConn,Maryland,67,56,29,32,0,Lasan Kromah Turnover.
+UConn,Maryland,67,56,29,32,0,Roddy Peters Steal.
+UConn,Maryland,67,56,29,38,0,Foul on Shabazz Napier.
+UConn,Maryland,67,57,29,38,1,Jake Layman made Free Throw.
+UConn,Maryland,67,58,29,38,1,Jake Layman made Free Throw.
+UConn,Maryland,67,58,30,2,0,Foul on Roddy Peters.
+UConn,Maryland,67,58,30,14,0,Ryan Boatright missed Jumper.
+UConn,Maryland,67,58,30,14,0,Evan Smotrycz Defensive Rebound.
+UConn,Maryland,67,61,30,23,1,Jake Layman made Three Point Jumper. Assisted by Dez Wells.
+UConn,Maryland,69,61,30,57,1,Terrence Samuel made Layup.
+UConn,Maryland,69,61,31,15,0,Foul on Niels Giffey.
+UConn,Maryland,69,61,31,26,0,Charles Mitchell Turnover.
+UConn,Maryland,69,61,31,26,0,Ryan Boatright Steal.
+UConn,Maryland,71,61,31,30,1,Ryan Boatright made Dunk.
+UConn,Maryland,71,61,31,50,0,Nick Faust missed Three Point Jumper.
+UConn,Maryland,71,61,31,50,0,Shabazz Napier Defensive Rebound.
+UConn,Maryland,71,61,32,2,0,Official TV Timeout
+UConn,Maryland,73,61,32,9,1,Shabazz Napier made Jumper.
+UConn,Maryland,73,61,32,25,0,Foul on Amida Brimah.
+UConn,Maryland,73,62,32,25,1,Charles Mitchell made Free Throw.
+UConn,Maryland,73,62,32,25,0,Charles Mitchell missed Free Throw.
+UConn,Maryland,73,62,32,25,0,Shabazz Napier Defensive Rebound.
+UConn,Maryland,73,62,32,39,0,Ryan Boatright Turnover.
+UConn,Maryland,73,62,32,50,0,Nick Faust missed Jumper.
+UConn,Maryland,73,62,32,50,0,Nick Faust Offensive Rebound.
+UConn,Maryland,73,62,32,54,0,Nick Faust missed Layup.
+UConn,Maryland,73,62,32,56,0,Jake Layman Offensive Rebound.
+UConn,Maryland,73,62,33,7,0,Evan Smotrycz missed Three Point Jumper.
+UConn,Maryland,73,62,33,7,0,Shabazz Napier Defensive Rebound.
+UConn,Maryland,73,62,33,25,0,DeAndre Daniels missed Jumper.
+UConn,Maryland,73,62,33,25,0,Dez Wells Defensive Rebound.
+UConn,Maryland,73,64,33,32,1,Dez Wells made Layup.
+UConn,Maryland,73,64,33,54,0,Shabazz Napier Turnover.
+UConn,Maryland,73,64,33,54,0,Jake Layman Steal.
+UConn,Maryland,73,64,33,54,0,Dez Wells missed Jumper.
+UConn,Maryland,73,64,33,54,0,Connecticut Defensive Rebound.
+UConn,Maryland,73,64,34,12,0,Connecticut  Turnover.
+UConn,Maryland,73,66,34,23,1,Charles Mitchell made Layup.
+UConn,Maryland,73,66,34,23,0,Foul on Phillip Nolan.
+UConn,Maryland,73,66,34,23,0,Charles Mitchell missed Free Throw.
+UConn,Maryland,73,66,34,23,0,Omar Calhoun Defensive Rebound.
+UConn,Maryland,75,66,34,56,1,Shabazz Napier made Jumper.
+UConn,Maryland,75,66,35,12,0,Foul on Shabazz Napier.
+UConn,Maryland,75,67,35,12,1,Dez Wells made Free Throw.
+UConn,Maryland,75,68,35,12,1,Dez Wells made Free Throw.
+UConn,Maryland,75,68,35,17,0,Ryan Boatright Turnover.
+UConn,Maryland,75,68,35,36,0,Nick Faust missed Three Point Jumper.
+UConn,Maryland,75,68,35,36,0,Nick Faust Offensive Rebound.
+UConn,Maryland,75,68,35,41,0,Nick Faust missed Layup.
+UConn,Maryland,75,68,35,41,0,Omar Calhoun Defensive Rebound.
+UConn,Maryland,75,68,36,12,0,Ryan Boatright missed Three Point Jumper.
+UConn,Maryland,75,68,36,12,0,Evan Smotrycz Defensive Rebound.
+UConn,Maryland,75,68,36,37,0,Evan Smotrycz missed Jumper.
+UConn,Maryland,75,68,36,37,0,Evan Smotrycz Offensive Rebound.
+UConn,Maryland,75,70,36,41,1,Nick Faust made Layup. Assisted by Evan Smotrycz.
+UConn,Maryland,75,70,36,45,0,Connecticut  Timeout
+UConn,Maryland,75,70,37,7,0,Shabazz Napier missed Jumper.
+UConn,Maryland,75,70,37,7,0,Nick Faust Defensive Rebound.
+UConn,Maryland,75,73,37,32,1,Nick Faust made Three Point Jumper. Assisted by Evan Smotrycz.
+UConn,Maryland,78,73,38,0,1,Tyler Olander made Three Point Jumper. Assisted by Ryan Boatright.
+UConn,Maryland,78,73,38,30,0,Foul on Shabazz Napier.
+UConn,Maryland,78,73,38,30,0,Official TV Timeout
+UConn,Maryland,78,74,38,30,1,Dez Wells made Free Throw.
+UConn,Maryland,78,75,38,30,1,Dez Wells made Free Throw.
+UConn,Maryland,78,75,39,4,0,DeAndre Daniels missed Three Point Jumper.
+UConn,Maryland,78,75,39,4,0,Dez Wells Defensive Rebound.
+UConn,Maryland,78,75,39,15,0,Maryland  Timeout
+UConn,Maryland,78,77,39,21,1,Dez Wells made Jumper.
+UConn,Maryland,78,77,39,30,0,Connecticut  Timeout
+UConn,Maryland,78,77,39,34,0,Foul on Jake Layman.
+UConn,Maryland,78,77,39,34,0,Foul on Varun Ram.
+UConn,Maryland,78,77,39,34,0,Ryan Boatright missed Free Throw.
+UConn,Maryland,78,77,39,34,0,Charles Mitchell Defensive Rebound.
+UConn,Maryland,78,77,39,46,0,Dez Wells missed Jumper.
+UConn,Maryland,78,77,39,46,0,Terrence Samuel Defensive Rebound.
+UConn,Maryland,78,77,39,48,0,Foul on Charles Mitchell.
+UConn,Maryland,78,77,39,48,0,Terrence Samuel missed Free Throw.
+UConn,Maryland,78,77,39,48,0,Evan Smotrycz Defensive Rebound.
+UConn,Maryland,78,77,39,53,0,Maryland  Timeout
+UConn,Maryland,78,77,39,57,0,Dez Wells missed Jumper.
+UConn,Maryland,78,77,39,57,0,Amida Brimah Defensive Rebound.
+UConn,Maryland,78,77,39,59,0,Foul on Evan Smotrycz.
+UConn,Maryland,78,77,39,59,0,Amida Brimah missed Free Throw.
+UConn,Maryland,78,77,39,59,0,Connecticut Offensive Rebound.
+UConn,Maryland,78,77,40,0,0,End of Game

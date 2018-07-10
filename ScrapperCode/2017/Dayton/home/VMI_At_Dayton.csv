@@ -1,0 +1,279 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+VMI,Dayton,0,0,0,13,0,Kendall Pollard missed Jumper.
+VMI,Dayton,0,0,0,13,0,Dayton Offensive Rebound.
+VMI,Dayton,0,0,0,21,0,Kyle Davis Turnover.
+VMI,Dayton,0,0,0,23,0,QJ Peterson Steal.
+VMI,Dayton,2,0,0,49,1,Julian Eleby made Jumper.
+VMI,Dayton,2,0,1,6,0,Kendall Pollard Turnover.
+VMI,Dayton,2,0,1,8,0,Fred Iruafemi Steal.
+VMI,Dayton,2,0,1,17,0,QJ Peterson missed Three Point Jumper.
+VMI,Dayton,2,0,1,17,0,Darrell Davis Defensive Rebound.
+VMI,Dayton,2,3,1,39,1,Darrell Davis made Three Point Jumper. Assisted by Kendall Pollard.
+VMI,Dayton,2,3,2,8,0,Julian Eleby missed Three Point Jumper.
+VMI,Dayton,2,3,2,8,0,Scoochie Smith Defensive Rebound.
+VMI,Dayton,2,5,2,19,1,Ryan Mikesell made Layup. Assisted by Scoochie Smith.
+VMI,Dayton,2,5,2,30,0,Foul on Trey Chapman.
+VMI,Dayton,2,5,2,30,0,Trey Chapman Turnover.
+VMI,Dayton,2,5,2,44,0,Foul on Trey Chapman.
+VMI,Dayton,2,6,2,44,1,Sam Miller made Free Throw.
+VMI,Dayton,2,6,2,44,0,Sam Miller missed Free Throw.
+VMI,Dayton,2,6,2,44,0,Will Miller Defensive Rebound.
+VMI,Dayton,2,6,2,59,0,Fred Iruafemi missed Jumper.
+VMI,Dayton,2,6,2,59,0,Ryan Mikesell Defensive Rebound.
+VMI,Dayton,2,6,3,12,0,Foul on Will Miller.
+VMI,Dayton,2,7,3,12,1,Ryan Mikesell made Free Throw.
+VMI,Dayton,2,8,3,12,1,Ryan Mikesell made Free Throw.
+VMI,Dayton,4,8,3,41,1,Julian Eleby made Layup.
+VMI,Dayton,4,8,3,48,0,Scoochie Smith Turnover.
+VMI,Dayton,7,8,4,15,1,Adrian Rich made Three Point Jumper.
+VMI,Dayton,7,8,4,33,0,Scoochie Smith missed Three Point Jumper.
+VMI,Dayton,7,8,4,33,0,Xeyrius Williams Offensive Rebound.
+VMI,Dayton,7,11,4,39,1,Darrell Davis made Three Point Jumper. Assisted by Ryan Mikesell.
+VMI,Dayton,9,11,4,59,1,Julian Eleby made Layup.
+VMI,Dayton,9,11,5,2,0,Ryan Mikesell Turnover.
+VMI,Dayton,9,11,5,2,0,Official TV Timeout
+VMI,Dayton,9,11,5,5,0,Fred Iruafemi Turnover.
+VMI,Dayton,9,11,5,8,0,Darrell Davis Steal.
+VMI,Dayton,9,14,5,19,1,Xeyrius Williams made Three Point Jumper. Assisted by Darrell Davis.
+VMI,Dayton,9,14,5,35,0,QJ Peterson missed Layup.
+VMI,Dayton,9,14,5,35,0,Xeyrius Williams Block.
+VMI,Dayton,9,14,5,36,0,VMI Offensive Rebound.
+VMI,Dayton,9,14,5,37,0,Keith Smith Turnover.
+VMI,Dayton,9,14,5,38,0,John Crosby Steal.
+VMI,Dayton,9,14,6,1,0,Foul on Xeyrius Williams.
+VMI,Dayton,9,14,6,1,0,Xeyrius Williams Turnover.
+VMI,Dayton,9,14,6,15,0,Foul on Darrell Davis.
+VMI,Dayton,9,14,6,30,0,Julian Eleby missed Three Point Jumper.
+VMI,Dayton,9,14,6,30,0,John Crosby Defensive Rebound.
+VMI,Dayton,9,16,6,53,1,Scoochie Smith made Jumper.
+VMI,Dayton,9,16,7,13,0,Julian Eleby Turnover.
+VMI,Dayton,9,16,7,30,0,Foul on Trey Chapman.
+VMI,Dayton,9,18,7,39,1,Xeyrius Williams made Layup. Assisted by Scoochie Smith.
+VMI,Dayton,9,18,7,57,0,Foul on Kyle Davis.
+VMI,Dayton,10,18,7,57,1,Julian Eleby made Free Throw.
+VMI,Dayton,11,18,7,57,1,Julian Eleby made Free Throw.
+VMI,Dayton,11,18,8,4,0,Scoochie Smith missed Three Point Jumper.
+VMI,Dayton,11,18,8,4,0,Julian Eleby Defensive Rebound.
+VMI,Dayton,11,18,8,13,0,Official TV Timeout
+VMI,Dayton,11,18,8,25,0,Julian Eleby missed Jumper.
+VMI,Dayton,11,18,8,25,0,Scoochie Smith Defensive Rebound.
+VMI,Dayton,11,20,8,41,1,Xeyrius Williams made Layup. Assisted by Scoochie Smith.
+VMI,Dayton,11,20,8,53,0,Foul on Scoochie Smith.
+VMI,Dayton,13,20,9,3,1,QJ Peterson made Layup.
+VMI,Dayton,13,20,9,3,0,Foul on Darrell Davis.
+VMI,Dayton,13,20,9,3,0,QJ Peterson missed Free Throw.
+VMI,Dayton,13,20,9,3,0,Xeyrius Williams Defensive Rebound.
+VMI,Dayton,13,22,9,27,1,Kendall Pollard made Jumper. Assisted by Kyle Davis.
+VMI,Dayton,16,22,9,36,1,Adrian Rich made Three Point Jumper. Assisted by Keith Smith.
+VMI,Dayton,16,24,10,5,1,Kendall Pollard made Jumper. Assisted by Scoochie Smith.
+VMI,Dayton,16,24,10,29,0,QJ Peterson missed Three Point Jumper.
+VMI,Dayton,16,24,10,29,0,Xeyrius Williams Defensive Rebound.
+VMI,Dayton,16,26,10,39,1,John Crosby made Layup. Assisted by Scoochie Smith.
+VMI,Dayton,19,26,10,49,1,Adrian Rich made Three Point Jumper. Assisted by Keith Smith.
+VMI,Dayton,19,26,11,6,0,John Crosby missed Jumper.
+VMI,Dayton,19,26,11,6,0,Tyler Creammer Defensive Rebound.
+VMI,Dayton,19,26,11,24,0,Foul on Tyler Creammer.
+VMI,Dayton,19,26,11,24,0,Tyler Creammer Turnover.
+VMI,Dayton,19,26,11,37,0,Foul on Adrian Rich.
+VMI,Dayton,19,26,11,55,0,Sam Miller missed Jumper.
+VMI,Dayton,19,26,11,55,0,Ryan Mikesell Offensive Rebound.
+VMI,Dayton,19,26,11,59,0,Scoochie Smith missed Three Point Jumper.
+VMI,Dayton,19,26,11,59,0,QJ Peterson Defensive Rebound.
+VMI,Dayton,19,26,12,5,0,QJ Peterson Turnover.
+VMI,Dayton,19,26,12,5,0,Official TV Timeout
+VMI,Dayton,19,26,12,14,0,John Crosby Turnover.
+VMI,Dayton,19,26,12,36,0,Julian Eleby missed Three Point Jumper.
+VMI,Dayton,19,26,12,36,0,Kyle Davis Defensive Rebound.
+VMI,Dayton,19,29,12,55,1,Sam Miller made Three Point Jumper. Assisted by John Crosby.
+VMI,Dayton,19,29,13,17,0,Keith Smith missed Jumper.
+VMI,Dayton,19,29,13,17,0,Scoochie Smith Defensive Rebound.
+VMI,Dayton,19,32,13,30,1,Kyle Davis made Three Point Jumper. Assisted by Scoochie Smith.
+VMI,Dayton,19,32,13,39,0,Julian Eleby missed Jumper.
+VMI,Dayton,19,32,13,39,0,Kyle Davis Defensive Rebound.
+VMI,Dayton,19,32,13,46,0,Foul on Keith Smith.
+VMI,Dayton,19,33,13,46,1,Scoochie Smith made Free Throw.
+VMI,Dayton,19,33,13,46,0,Scoochie Smith missed Free Throw.
+VMI,Dayton,19,33,13,46,0,Fred Iruafemi Defensive Rebound.
+VMI,Dayton,19,33,14,8,0,Adrian Rich missed Jumper.
+VMI,Dayton,19,33,14,8,0,Xeyrius Williams Defensive Rebound.
+VMI,Dayton,19,35,14,17,1,Kyle Davis made Jumper.
+VMI,Dayton,19,35,14,18,0,VMI  Timeout
+VMI,Dayton,19,35,14,40,0,QJ Peterson missed Three Point Jumper.
+VMI,Dayton,19,35,14,40,0,Scoochie Smith Defensive Rebound.
+VMI,Dayton,19,35,14,50,0,Sam Miller missed Three Point Jumper.
+VMI,Dayton,19,35,14,50,0,VMI Defensive Rebound.
+VMI,Dayton,19,35,15,13,0,Keith Smith Turnover.
+VMI,Dayton,19,35,15,25,0,Foul on Garrett Gilkeson.
+VMI,Dayton,19,36,15,25,1,Kendall Pollard made Free Throw.
+VMI,Dayton,19,37,15,25,1,Kendall Pollard made Free Throw.
+VMI,Dayton,22,37,15,34,1,QJ Peterson made Three Point Jumper. Assisted by Garrett Gilkeson.
+VMI,Dayton,22,40,16,5,1,Xeyrius Williams made Three Point Jumper. Assisted by John Crosby.
+VMI,Dayton,22,40,16,24,0,Foul on Xeyrius Williams.
+VMI,Dayton,22,40,16,24,0,Official TV Timeout
+VMI,Dayton,22,40,16,35,0,Foul on Kendall Pollard.
+VMI,Dayton,23,40,16,35,1,Fred Iruafemi made Free Throw.
+VMI,Dayton,23,40,16,35,0,Fred Iruafemi missed Free Throw.
+VMI,Dayton,23,40,16,35,0,Ryan Mikesell Defensive Rebound.
+VMI,Dayton,23,40,16,48,0,Scoochie Smith missed Three Point Jumper.
+VMI,Dayton,23,40,16,48,0,Fred Iruafemi Defensive Rebound.
+VMI,Dayton,23,40,16,57,0,Foul on John Crosby.
+VMI,Dayton,24,40,16,57,1,Adrian Rich made Free Throw.
+VMI,Dayton,25,40,16,57,1,Adrian Rich made Free Throw.
+VMI,Dayton,25,40,17,21,0,Foul on Fred Iruafemi.
+VMI,Dayton,25,41,17,21,1,Scoochie Smith made Free Throw.
+VMI,Dayton,25,42,17,21,1,Scoochie Smith made Free Throw.
+VMI,Dayton,25,42,17,30,0,QJ Peterson missed Three Point Jumper.
+VMI,Dayton,25,42,17,30,0,Ryan Mikesell Defensive Rebound.
+VMI,Dayton,25,42,17,39,0,Kyle Davis missed Three Point Jumper.
+VMI,Dayton,25,42,17,39,0,QJ Peterson Defensive Rebound.
+VMI,Dayton,25,42,17,50,0,QJ Peterson Turnover.
+VMI,Dayton,25,42,17,50,0,Kyle Davis Steal.
+VMI,Dayton,25,44,17,53,1,Kyle Davis made Layup.
+VMI,Dayton,25,44,17,54,0,Foul on QJ Peterson.
+VMI,Dayton,25,44,17,54,0,Kyle Davis missed Free Throw.
+VMI,Dayton,25,44,17,54,0,Tyler Creammer Defensive Rebound.
+VMI,Dayton,25,44,18,3,0,Tyler Creammer missed Jumper.
+VMI,Dayton,25,44,18,3,0,Scoochie Smith Defensive Rebound.
+VMI,Dayton,25,47,18,15,1,John Crosby made Three Point Jumper. Assisted by Scoochie Smith.
+VMI,Dayton,25,47,18,34,0,Foul on Ryan Mikesell.
+VMI,Dayton,26,47,18,34,1,Austin Vereen made Free Throw.
+VMI,Dayton,27,47,18,34,1,Austin Vereen made Free Throw.
+VMI,Dayton,27,47,18,39,0,John Crosby missed Jumper.
+VMI,Dayton,27,47,18,39,0,Tyler Creammer Defensive Rebound.
+VMI,Dayton,27,47,18,56,0,QJ Peterson Turnover.
+VMI,Dayton,27,47,18,56,0,Kyle Davis Steal.
+VMI,Dayton,27,47,19,14,0,Scoochie Smith Turnover.
+VMI,Dayton,29,47,19,29,1,Adrian Rich made Jumper.
+VMI,Dayton,29,47,19,53,0,Trey Landers Turnover.
+VMI,Dayton,29,47,19,55,0,Tyler Creammer Steal.
+VMI,Dayton,29,47,20,0,0,QJ Peterson missed Three Point Jumper.
+VMI,Dayton,29,47,20,0,0,Dayton Defensive Rebound.
+VMI,Dayton,29,47,20,0,0,End of 1st half
+VMI,Dayton,29,47,20,21,0,Adrian Rich Turnover.
+VMI,Dayton,29,47,20,21,0,Kendall Pollard Steal.
+VMI,Dayton,29,50,20,32,1,Scoochie Smith made Three Point Jumper. Assisted by Kyle Davis.
+VMI,Dayton,31,50,21,4,1,Trey Chapman made Jumper. Assisted by Julian Eleby.
+VMI,Dayton,31,50,21,37,0,Kendall Pollard missed Jumper.
+VMI,Dayton,31,50,21,37,0,Julian Eleby Defensive Rebound.
+VMI,Dayton,31,50,21,52,0,Trey Chapman missed Jumper.
+VMI,Dayton,31,50,21,52,0,Kendall Pollard Defensive Rebound.
+VMI,Dayton,31,53,22,5,1,Ryan Mikesell made Three Point Jumper. Assisted by Darrell Davis.
+VMI,Dayton,31,53,22,28,0,Adrian Rich missed Three Point Jumper.
+VMI,Dayton,31,53,22,28,0,Scoochie Smith Defensive Rebound.
+VMI,Dayton,31,53,22,40,0,Darrell Davis missed Three Point Jumper.
+VMI,Dayton,31,53,22,40,0,QJ Peterson Defensive Rebound.
+VMI,Dayton,31,53,22,50,0,Foul on Scoochie Smith.
+VMI,Dayton,31,53,23,0,0,Julian Eleby missed Jumper.
+VMI,Dayton,31,53,23,0,0,Xeyrius Williams Defensive Rebound.
+VMI,Dayton,31,53,23,6,0,Scoochie Smith missed Three Point Jumper.
+VMI,Dayton,31,53,23,6,0,QJ Peterson Defensive Rebound.
+VMI,Dayton,31,53,23,35,0,Julian Eleby Turnover.
+VMI,Dayton,31,56,23,46,1,Kyle Davis made Three Point Jumper. Assisted by Kendall Pollard.
+VMI,Dayton,31,56,24,21,0,Julian Eleby Turnover.
+VMI,Dayton,31,56,24,22,0,Kendall Pollard Steal.
+VMI,Dayton,31,58,24,24,1,Kendall Pollard made Dunk. Assisted by Darrell Davis.
+VMI,Dayton,31,58,24,25,0,VMI  Timeout
+VMI,Dayton,33,58,24,50,1,Adrian Rich made Layup.
+VMI,Dayton,33,58,25,0,0,Darrell Davis missed Three Point Jumper.
+VMI,Dayton,33,58,25,0,0,Fred Iruafemi Defensive Rebound.
+VMI,Dayton,36,58,25,22,1,Trey Chapman made Three Point Jumper. Assisted by QJ Peterson.
+VMI,Dayton,36,58,25,31,0,Xeyrius Williams Turnover.
+VMI,Dayton,36,58,25,31,0,Official TV Timeout
+VMI,Dayton,36,58,26,1,0,Adrian Rich missed Three Point Jumper.
+VMI,Dayton,36,58,26,1,0,Ryan Mikesell Defensive Rebound.
+VMI,Dayton,36,58,26,9,0,Foul on Fred Iruafemi.
+VMI,Dayton,36,60,26,18,1,Sam Miller made Layup. Assisted by John Crosby.
+VMI,Dayton,36,60,26,35,0,QJ Peterson missed Three Point Jumper.
+VMI,Dayton,36,60,26,35,0,Kyle Davis Defensive Rebound.
+VMI,Dayton,36,62,26,47,1,Darrell Davis made Layup.
+VMI,Dayton,36,62,27,1,0,Foul on Darrell Davis.
+VMI,Dayton,36,62,27,11,0,QJ Peterson missed Three Point Jumper.
+VMI,Dayton,36,62,27,11,0,Garrett Gilkeson Offensive Rebound.
+VMI,Dayton,39,62,27,26,1,Garrett Gilkeson made Three Point Jumper. Assisted by Adrian Rich.
+VMI,Dayton,39,64,27,45,1,Sam Miller made Jumper. Assisted by Kendall Pollard.
+VMI,Dayton,39,64,27,54,0,Foul on Kendall Pollard.
+VMI,Dayton,40,64,27,54,1,Trey Chapman made Free Throw.
+VMI,Dayton,41,64,27,54,1,Trey Chapman made Free Throw.
+VMI,Dayton,41,64,28,0,0,Kyle Davis missed Jumper.
+VMI,Dayton,41,64,28,1,0,Garrett Gilkeson Block.
+VMI,Dayton,41,64,28,2,0,Dayton Offensive Rebound.
+VMI,Dayton,41,64,28,2,0,Official TV Timeout
+VMI,Dayton,41,66,28,15,1,Sam Miller made Jumper. Assisted by Kendall Pollard.
+VMI,Dayton,41,66,28,43,0,Keith Smith missed Jumper.
+VMI,Dayton,41,66,28,43,0,Kyle Davis Defensive Rebound.
+VMI,Dayton,41,66,29,4,0,Kyle Davis Turnover.
+VMI,Dayton,41,66,29,7,0,Keith Smith Steal.
+VMI,Dayton,41,66,29,16,0,Foul on Fred Iruafemi.
+VMI,Dayton,41,66,29,16,0,Fred Iruafemi Turnover.
+VMI,Dayton,41,66,29,32,0,Foul on Will Miller.
+VMI,Dayton,41,66,29,36,0,Kendall Pollard missed Layup.
+VMI,Dayton,41,66,29,36,0,QJ Peterson Defensive Rebound.
+VMI,Dayton,43,66,29,50,1,Armani Branch made Layup. Assisted by Keith Smith.
+VMI,Dayton,43,68,30,8,1,Scoochie Smith made Jumper.
+VMI,Dayton,43,68,30,26,0,Will Miller missed Jumper.
+VMI,Dayton,43,68,30,26,0,Scoochie Smith Defensive Rebound.
+VMI,Dayton,43,68,30,31,0,Foul on Keith Smith.
+VMI,Dayton,43,70,30,35,1,John Crosby made Jumper. Assisted by Darrell Davis.
+VMI,Dayton,45,70,30,50,1,QJ Peterson made Layup.
+VMI,Dayton,45,70,31,11,0,Xeyrius Williams missed Three Point Jumper.
+VMI,Dayton,45,70,31,11,0,Keith Smith Defensive Rebound.
+VMI,Dayton,45,70,31,33,0,Keith Smith Turnover.
+VMI,Dayton,45,70,31,34,0,Kyle Davis Steal.
+VMI,Dayton,45,72,31,38,1,Kyle Davis made Layup.
+VMI,Dayton,45,72,32,3,0,QJ Peterson missed Jumper.
+VMI,Dayton,45,72,32,3,0,Xeyrius Williams Defensive Rebound.
+VMI,Dayton,45,72,32,17,0,Darrell Davis missed Three Point Jumper.
+VMI,Dayton,45,72,32,17,0,Armani Branch Defensive Rebound.
+VMI,Dayton,45,72,32,48,0,Trey Chapman missed Three Point Jumper.
+VMI,Dayton,45,72,32,48,0,Ryan Mikesell Defensive Rebound.
+VMI,Dayton,45,75,32,56,1,John Crosby made Three Point Jumper.
+VMI,Dayton,45,75,33,8,0,Keith Smith Turnover.
+VMI,Dayton,45,75,33,10,0,Kyle Davis Steal.
+VMI,Dayton,45,77,33,11,1,Kyle Davis made Layup.
+VMI,Dayton,45,77,33,13,0,VMI  Timeout
+VMI,Dayton,45,77,33,31,0,QJ Peterson Turnover.
+VMI,Dayton,45,77,33,33,0,Darrell Davis Steal.
+VMI,Dayton,45,77,33,52,0,Darrell Davis missed Jumper.
+VMI,Dayton,45,77,33,52,0,Trey Landers Offensive Rebound.
+VMI,Dayton,45,77,34,10,0,Foul on Adrian Rich.
+VMI,Dayton,45,77,34,15,0,Darrell Davis Turnover.
+VMI,Dayton,48,77,34,31,1,Julian Eleby made Three Point Jumper. Assisted by Adrian Rich.
+VMI,Dayton,48,80,34,53,1,Ryan Mikesell made Three Point Jumper. Assisted by Trey Landers.
+VMI,Dayton,48,80,35,10,0,QJ Peterson missed Three Point Jumper.
+VMI,Dayton,48,80,35,10,0,Xeyrius Williams Defensive Rebound.
+VMI,Dayton,48,80,35,18,0,John Crosby missed Jumper.
+VMI,Dayton,48,80,35,18,0,Trey Chapman Defensive Rebound.
+VMI,Dayton,48,80,35,29,0,Foul on Xeyrius Williams.
+VMI,Dayton,49,80,35,29,1,Armani Branch made Free Throw.
+VMI,Dayton,49,80,35,29,0,Armani Branch missed Free Throw.
+VMI,Dayton,49,80,35,29,0,Trey Landers Defensive Rebound.
+VMI,Dayton,49,83,36,0,1,Trey Landers made Three Point Jumper. Assisted by John Crosby.
+VMI,Dayton,49,83,36,19,0,Foul on Ryan Mikesell.
+VMI,Dayton,49,83,36,19,0,Official TV Timeout
+VMI,Dayton,50,83,36,19,1,Trey Chapman made Free Throw.
+VMI,Dayton,51,83,36,19,1,Trey Chapman made Free Throw.
+VMI,Dayton,51,86,36,35,1,Darrell Davis made Three Point Jumper. Assisted by John Crosby.
+VMI,Dayton,54,86,36,55,1,QJ Peterson made Three Point Jumper. Assisted by Julian Eleby.
+VMI,Dayton,54,86,37,18,0,Ryan Mikesell missed Jumper.
+VMI,Dayton,54,86,37,18,0,Armani Branch Block.
+VMI,Dayton,54,86,37,21,0,Ryan Mikesell Offensive Rebound.
+VMI,Dayton,54,88,37,31,1,Sam Miller made Dunk. Assisted by John Crosby.
+VMI,Dayton,56,88,37,51,1,Armani Branch made Jumper.
+VMI,Dayton,56,88,37,53,0,Foul on Sam Miller.
+VMI,Dayton,56,88,37,53,0,Armani Branch missed Free Throw.
+VMI,Dayton,56,88,37,53,0,Trey Landers Defensive Rebound.
+VMI,Dayton,56,91,38,11,1,Sam Miller made Three Point Jumper. Assisted by John Crosby.
+VMI,Dayton,56,91,38,38,0,Trey Chapman missed Layup.
+VMI,Dayton,56,91,38,39,0,Trey Landers Block.
+VMI,Dayton,56,91,38,40,0,Sam Miller Defensive Rebound.
+VMI,Dayton,56,91,38,47,0,Foul on Garrett Gilkeson.
+VMI,Dayton,56,91,38,47,0,Trey Landers missed Free Throw.
+VMI,Dayton,56,91,38,47,0,Dayton Deadball Team Rebound.
+VMI,Dayton,56,92,38,47,1,Trey Landers made Free Throw.
+VMI,Dayton,56,92,38,52,0,Austin Vereen missed Three Point Jumper.
+VMI,Dayton,56,92,38,52,0,Sam Miller Defensive Rebound.
+VMI,Dayton,56,92,39,14,0,Jack Westerfield missed Three Point Jumper.
+VMI,Dayton,56,92,39,14,0,Will Miller Defensive Rebound.
+VMI,Dayton,56,92,39,46,0,Garrett Gilkeson missed Three Point Jumper.
+VMI,Dayton,56,92,39,47,0,Dayton Defensive Rebound.
+VMI,Dayton,56,92,40,0,0,End of Game

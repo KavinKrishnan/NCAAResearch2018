@@ -1,0 +1,308 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Delaware,Northeastern,0,0,0,22,0,Devon Saddler Turnover.
+Delaware,Northeastern,0,0,0,23,0,Demetrius Pollard Steal.
+Delaware,Northeastern,0,0,0,37,0,David Walker Turnover.
+Delaware,Northeastern,0,0,0,38,0,Jarvis Threatt Steal.
+Delaware,Northeastern,0,0,0,42,0,Kyle Anderson missed Three Point Jumper.
+Delaware,Northeastern,0,0,0,42,0,Demetrius Pollard Defensive Rebound.
+Delaware,Northeastern,0,0,0,56,0,Foul on Josh Brinkley
+Delaware,Northeastern,0,0,0,56,0,Reggie Spencer missed Free Throw.
+Delaware,Northeastern,0,0,0,56,0,null
+Delaware,Northeastern,0,1,0,56,1,Reggie Spencer made Free Throw.
+Delaware,Northeastern,3,1,1,25,1,Kyle Anderson made Three Point Jumper.  Assisted by Josh Brinkley.
+Delaware,Northeastern,3,1,1,43,0,Reggie Spencer missed Jumper.
+Delaware,Northeastern,3,1,1,43,0,Josh Brinkley Defensive Rebound.
+Delaware,Northeastern,5,1,1,56,1,Jamelle Hagins made Jumper.
+Delaware,Northeastern,5,4,2,29,1,Quincy Ford made Three Point Jumper.  Assisted by Demetrius Pollard.
+Delaware,Northeastern,5,4,2,43,0,Devon Saddler missed Jumper.
+Delaware,Northeastern,5,4,2,43,0,Reggie Spencer Defensive Rebound.
+Delaware,Northeastern,5,4,2,58,0,Quincy Ford missed Three Point Jumper.
+Delaware,Northeastern,5,4,2,58,0,Jarvis Threatt Defensive Rebound.
+Delaware,Northeastern,5,4,3,8,0,Jarvis Threatt Turnover.
+Delaware,Northeastern,5,4,3,9,0,Quincy Ford Steal.
+Delaware,Northeastern,5,4,3,20,0,Jonathan Lee missed Three Point Jumper.
+Delaware,Northeastern,5,4,3,20,0,Demetrius Pollard Offensive Rebound.
+Delaware,Northeastern,5,6,3,27,1,Quincy Ford made Layup.  Assisted by Demetrius Pollard.
+Delaware,Northeastern,5,6,3,41,0,Jarvis Threatt Turnover.
+Delaware,Northeastern,5,8,3,53,1,Jonathan Lee made Layup.
+Delaware,Northeastern,5,8,3,53,0,Foul on Josh Brinkley
+Delaware,Northeastern,5,8,3,53,0,Jonathan Lee missed Free Throw.
+Delaware,Northeastern,5,8,3,53,0,Jamelle Hagins Defensive Rebound.
+Delaware,Northeastern,7,8,4,1,1,Jamelle Hagins made Jumper.
+Delaware,Northeastern,7,11,4,26,1,David Walker made Three Point Jumper.  Assisted by Reggie Spencer.
+Delaware,Northeastern,7,11,4,39,0,Devon Saddler missed Three Point Jumper.
+Delaware,Northeastern,7,11,4,39,0,Reggie Spencer Defensive Rebound.
+Delaware,Northeastern,7,11,5,5,0,David Walker Turnover.
+Delaware,Northeastern,7,11,5,6,0,Jamelle Hagins Steal.
+Delaware,Northeastern,7,11,5,9,0,Kyle Anderson missed Jumper.
+Delaware,Northeastern,7,11,5,9,0,Quincy Ford Defensive Rebound.
+Delaware,Northeastern,7,11,5,35,0,Reggie Spencer Turnover.
+Delaware,Northeastern,7,11,5,35,0,Official TV Timeout.
+Delaware,Northeastern,10,11,5,55,1,Devon Saddler made Three Point Jumper.  Assisted by Jarvis Threatt.
+Delaware,Northeastern,10,11,6,19,0,Demetrius Pollard missed Three Point Jumper.
+Delaware,Northeastern,10,11,6,19,0,Devon Saddler Defensive Rebound.
+Delaware,Northeastern,12,11,6,44,1,Jarvis Threatt made Layup.
+Delaware,Northeastern,12,11,7,15,0,Jonathan Lee missed Jumper.
+Delaware,Northeastern,12,11,7,15,0,Devon Saddler Defensive Rebound.
+Delaware,Northeastern,12,11,7,40,0,Kyle Anderson missed Three Point Jumper.
+Delaware,Northeastern,12,11,7,40,0,Jamelle Hagins Offensive Rebound.
+Delaware,Northeastern,14,11,7,49,1,Jarvis Threatt made Jumper.
+Delaware,Northeastern,14,11,8,12,0,Zach Stahl missed Jumper.
+Delaware,Northeastern,14,11,8,12,0,Jarvis Threatt Defensive Rebound.
+Delaware,Northeastern,14,11,8,25,0,Carl Baptiste Turnover.
+Delaware,Northeastern,14,11,8,25,0,Demetrius Pollard Steal.
+Delaware,Northeastern,14,11,8,25,0,Foul on Carl Baptiste
+Delaware,Northeastern,14,11,8,25,0,Official TV Timeout.
+Delaware,Northeastern,14,11,8,35,0,Foul on Carl Baptiste
+Delaware,Northeastern,14,11,9,0,0,Jonathan Lee Turnover.
+Delaware,Northeastern,14,11,9,9,0,Devon Saddler missed Three Point Jumper.
+Delaware,Northeastern,14,11,9,9,0,Dinko Marshavelski Defensive Rebound.
+Delaware,Northeastern,14,11,9,23,0,David Walker missed Jumper.
+Delaware,Northeastern,14,11,9,23,0,Derrico Peck Offensive Rebound.
+Delaware,Northeastern,14,13,9,45,1,Dinko Marshavelski made Layup.  Assisted by David Walker.
+Delaware,Northeastern,16,13,10,18,1,Jamelle Hagins made Jumper.
+Delaware,Northeastern,16,13,10,40,0,Quincy Ford missed Jumper.
+Delaware,Northeastern,16,13,10,40,0,Carl Baptiste Defensive Rebound.
+Delaware,Northeastern,16,13,10,50,0,Devon Saddler Turnover.
+Delaware,Northeastern,16,13,10,52,0,Jonathan Lee Steal.
+Delaware,Northeastern,16,16,10,54,1,Jonathan Lee made Three Point Jumper.
+Delaware,Northeastern,16,16,11,11,0,Kyle Anderson missed Three Point Jumper.
+Delaware,Northeastern,16,16,11,11,0,Carl Baptiste Offensive Rebound.
+Delaware,Northeastern,18,16,11,15,1,Carl Baptiste made Layup.
+Delaware,Northeastern,18,16,11,15,0,Foul on Derrico Peck
+Delaware,Northeastern,19,16,11,15,1,Carl Baptiste made Free Throw.
+Delaware,Northeastern,19,18,11,43,1,Reggie Spencer made Jumper.
+Delaware,Northeastern,21,18,12,5,1,Devon Saddler made Layup.
+Delaware,Northeastern,21,18,12,19,0,Foul on Jamelle Hagins
+Delaware,Northeastern,21,18,12,19,0,Official TV Timeout.
+Delaware,Northeastern,21,20,12,40,1,Reggie Spencer made Layup.
+Delaware,Northeastern,21,20,13,14,0,Devon Saddler missed Jumper.
+Delaware,Northeastern,21,20,13,14,0,Marvin King-Davis Offensive Rebound.
+Delaware,Northeastern,23,20,13,17,1,Marvin King-Davis made Jumper.
+Delaware,Northeastern,23,20,13,29,0,Reggie Spencer missed Jumper.
+Delaware,Northeastern,23,20,13,29,0,Jamelle Hagins Block.
+Delaware,Northeastern,23,20,13,31,0,Demetrius Pollard Offensive Rebound.
+Delaware,Northeastern,23,20,13,33,0,Jonathan Lee missed Three Point Jumper.
+Delaware,Northeastern,23,20,13,33,0,null
+Delaware,Northeastern,23,20,13,34,0,Foul on David Walker
+Delaware,Northeastern,23,20,13,49,0,Larry Savage missed Jumper.
+Delaware,Northeastern,23,20,13,49,0,Reggie Spencer Defensive Rebound.
+Delaware,Northeastern,23,20,14,9,0,Quincy Ford missed Jumper.
+Delaware,Northeastern,23,20,14,9,0,Quincy Ford Offensive Rebound.
+Delaware,Northeastern,23,22,14,13,1,Quincy Ford made Tip Shot.
+Delaware,Northeastern,23,22,14,23,0,Foul on Reggie Spencer
+Delaware,Northeastern,25,22,14,32,1,Kyle Anderson made Layup.
+Delaware,Northeastern,25,22,14,58,0,Demetrius Pollard missed Three Point Jumper.
+Delaware,Northeastern,25,22,14,58,0,Jarvis Threatt Defensive Rebound.
+Delaware,Northeastern,25,22,15,8,0,Foul on Jonathan Lee
+Delaware,Northeastern,25,22,15,8,0,Jarvis Threatt missed Free Throw.
+Delaware,Northeastern,25,22,15,8,0,null
+Delaware,Northeastern,26,22,15,8,1,Jarvis Threatt made Free Throw.
+Delaware,Northeastern,26,25,15,23,1,Quincy Ford made Three Point Jumper.  Assisted by David Walker.
+Delaware,Northeastern,26,25,15,42,0,Devon Saddler missed Three Point Jumper.
+Delaware,Northeastern,26,25,15,42,0,Marvin King-Davis Offensive Rebound.
+Delaware,Northeastern,28,25,15,46,1,Marvin King-Davis made Jumper.
+Delaware,Northeastern,28,25,16,10,0,Reggie Spencer missed Layup.
+Delaware,Northeastern,28,25,16,10,0,Jarvis Threatt Defensive Rebound.
+Delaware,Northeastern,28,25,16,18,0,Foul on Reggie Spencer
+Delaware,Northeastern,28,25,16,18,0,Official TV Timeout.
+Delaware,Northeastern,29,25,16,18,1,Jarvis Threatt made Free Throw.
+Delaware,Northeastern,29,25,16,18,0,Jarvis Threatt missed Free Throw.
+Delaware,Northeastern,29,25,16,18,0,Zach Stahl Defensive Rebound.
+Delaware,Northeastern,29,25,16,37,0,Demetrius Pollard missed Three Point Jumper.
+Delaware,Northeastern,29,25,16,37,0,Jamelle Hagins Defensive Rebound.
+Delaware,Northeastern,29,25,16,53,0,Kyle Anderson Turnover.
+Delaware,Northeastern,29,25,16,55,0,Demetrius Pollard Steal.
+Delaware,Northeastern,29,25,16,59,0,Quincy Ford missed Three Point Jumper.
+Delaware,Northeastern,29,25,16,59,0,Jamelle Hagins Defensive Rebound.
+Delaware,Northeastern,31,25,17,30,1,Devon Saddler made Jumper.
+Delaware,Northeastern,31,27,17,52,1,Jonathan Lee made Layup.  Assisted by Quincy Ford.
+Delaware,Northeastern,34,27,18,1,1,Jarvis Threatt made Three Point Jumper.
+Delaware,Northeastern,34,27,18,22,0,Zach Stahl missed Three Point Jumper.
+Delaware,Northeastern,34,27,18,22,0,Jarvis Threatt Defensive Rebound.
+Delaware,Northeastern,34,27,18,29,0,Jarvis Threatt Turnover.
+Delaware,Northeastern,34,27,18,43,0,Foul on Marvin King-Davis
+Delaware,Northeastern,34,30,18,49,1,Demetrius Pollard made Three Point Jumper.  Assisted by Derrico Peck.
+Delaware,Northeastern,34,30,19,27,0,Devon Saddler missed Jumper.
+Delaware,Northeastern,34,30,19,27,0,Carl Baptiste Offensive Rebound.
+Delaware,Northeastern,34,30,19,28,0,Devon Saddler missed Three Point Jumper.
+Delaware,Northeastern,34,30,19,28,0,null
+Delaware,Northeastern,34,30,19,53,0,Zach Stahl missed Layup.
+Delaware,Northeastern,34,30,19,53,0,Marvin King-Davis Defensive Rebound.
+Delaware,Northeastern,34,30,20,0,0,End of the 1st Half.
+Delaware,Northeastern,36,30,20,19,1,Josh Brinkley made Jumper.
+Delaware,Northeastern,36,33,20,40,1,Quincy Ford made Three Point Jumper.  Assisted by Demetrius Pollard.
+Delaware,Northeastern,36,33,21,7,0,Foul on Quincy Ford
+Delaware,Northeastern,36,33,21,7,0,Jamelle Hagins missed Free Throw.
+Delaware,Northeastern,36,33,21,7,0,null
+Delaware,Northeastern,37,33,21,7,1,Jamelle Hagins made Free Throw.
+Delaware,Northeastern,37,33,21,22,0,Demetrius Pollard missed Three Point Jumper.
+Delaware,Northeastern,37,33,21,22,0,Kyle Anderson Block.
+Delaware,Northeastern,37,33,21,22,0,Devon Saddler Defensive Rebound.
+Delaware,Northeastern,37,33,21,29,0,Jarvis Threatt missed Three Point Jumper.
+Delaware,Northeastern,37,33,21,29,0,Jonathan Lee Defensive Rebound.
+Delaware,Northeastern,37,33,21,32,0,Foul on Josh Brinkley
+Delaware,Northeastern,37,33,22,3,0,Quincy Ford missed Jumper.
+Delaware,Northeastern,37,33,22,3,0,Jamelle Hagins Defensive Rebound.
+Delaware,Northeastern,37,33,22,14,0,Jarvis Threatt missed Layup.
+Delaware,Northeastern,37,33,22,14,0,Demetrius Pollard Defensive Rebound.
+Delaware,Northeastern,37,34,22,19,1,Demetrius Pollard made Free Throw.
+Delaware,Northeastern,37,34,22,19,0,Foul on Devon Saddler
+Delaware,Northeastern,37,35,22,19,1,Demetrius Pollard made Free Throw.
+Delaware,Northeastern,37,35,22,44,0,null
+Delaware,Northeastern,37,35,22,44,0,Josh Brinkley missed Free Throw.
+Delaware,Northeastern,37,35,22,44,0,Foul on Reggie Spencer
+Delaware,Northeastern,37,35,22,44,0,Josh Brinkley missed Free Throw.
+Delaware,Northeastern,37,35,22,44,0,Quincy Ford Defensive Rebound.
+Delaware,Northeastern,37,38,23,4,1,David Walker made Three Point Jumper.  Assisted by Quincy Ford.
+Delaware,Northeastern,40,38,23,32,1,Devon Saddler made Three Point Jumper.  Assisted by Jarvis Threatt.
+Delaware,Northeastern,40,40,23,41,1,Jonathan Lee made Layup.
+Delaware,Northeastern,40,40,24,4,0,Jarvis Threatt Turnover.
+Delaware,Northeastern,40,40,24,5,0,Demetrius Pollard Steal.
+Delaware,Northeastern,40,42,24,7,1,David Walker made Dunk.  Assisted by Demetrius Pollard.
+Delaware,Northeastern,42,42,24,29,1,Jamelle Hagins made Layup.  Assisted by Kyle Anderson.
+Delaware,Northeastern,42,42,24,52,0,Foul on Jarvis Threatt
+Delaware,Northeastern,42,42,24,52,0,Official TV Timeout.
+Delaware,Northeastern,42,42,24,52,0,Jonathan Lee missed Free Throw.
+Delaware,Northeastern,42,42,24,52,0,null
+Delaware,Northeastern,42,43,24,52,1,Jonathan Lee made Free Throw.
+Delaware,Northeastern,42,43,25,21,0,Foul on Quincy Ford
+Delaware,Northeastern,43,43,25,21,1,Jamelle Hagins made Free Throw.
+Delaware,Northeastern,44,43,25,21,1,Jamelle Hagins made Free Throw.
+Delaware,Northeastern,44,43,25,36,0,Quincy Ford missed Jumper.
+Delaware,Northeastern,44,43,25,36,0,Jamelle Hagins Block.
+Delaware,Northeastern,44,43,25,36,0,Northeastern Offensive Rebound.
+Delaware,Northeastern,44,43,25,54,0,Jonathan Lee Turnover.
+Delaware,Northeastern,44,43,26,15,0,Jarvis Threatt Turnover.
+Delaware,Northeastern,44,43,26,16,0,Quincy Ford Steal.
+Delaware,Northeastern,44,43,26,28,0,Quincy Ford missed Three Point Jumper.
+Delaware,Northeastern,44,43,26,28,0,Kyle Anderson Defensive Rebound.
+Delaware,Northeastern,44,43,26,34,0,Kyle Anderson Turnover.
+Delaware,Northeastern,44,43,26,35,0,Quincy Ford Steal.
+Delaware,Northeastern,44,43,26,35,0,Foul on Kyle Anderson
+Delaware,Northeastern,44,44,26,35,1,Quincy Ford made Free Throw.
+Delaware,Northeastern,44,45,26,35,1,Quincy Ford made Free Throw.
+Delaware,Northeastern,46,45,27,0,1,Jarvis Threatt made Jumper.
+Delaware,Northeastern,46,47,27,7,1,Reggie Spencer made Layup.  Assisted by David Walker.
+Delaware,Northeastern,46,47,27,7,0,Foul on Carl Baptiste
+Delaware,Northeastern,46,48,27,7,1,Reggie Spencer made Free Throw.
+Delaware,Northeastern,46,48,27,25,0,Jarvis Threatt missed Jumper.
+Delaware,Northeastern,46,48,27,25,0,Marvin King-Davis Offensive Rebound.
+Delaware,Northeastern,46,48,27,33,0,Foul on Jonathan Lee
+Delaware,Northeastern,48,48,27,39,1,Devon Saddler made Jumper.
+Delaware,Northeastern,48,48,27,39,0,Foul on Jonathan Lee
+Delaware,Northeastern,49,48,27,39,1,Devon Saddler made Free Throw.
+Delaware,Northeastern,49,48,28,1,0,Quincy Ford missed Jumper.
+Delaware,Northeastern,49,48,28,1,0,Jamelle Hagins Defensive Rebound.
+Delaware,Northeastern,51,48,28,8,1,Kyle Anderson made Layup.  Assisted by Devon Saddler.
+Delaware,Northeastern,51,48,28,26,0,Foul on Kyle Anderson
+Delaware,Northeastern,51,48,28,26,0,Official TV Timeout.
+Delaware,Northeastern,51,49,28,26,1,Quincy Ford made Free Throw.
+Delaware,Northeastern,51,50,28,26,1,Quincy Ford made Free Throw.
+Delaware,Northeastern,51,50,28,51,0,Jamelle Hagins Turnover.
+Delaware,Northeastern,51,50,29,4,0,Foul on Marvin King-Davis
+Delaware,Northeastern,51,51,29,4,1,Jonathan Lee made Free Throw.
+Delaware,Northeastern,51,52,29,4,1,Jonathan Lee made Free Throw.
+Delaware,Northeastern,51,52,29,18,0,Jarvis Threatt missed Layup.
+Delaware,Northeastern,51,52,29,18,0,Kyle Anderson Offensive Rebound.
+Delaware,Northeastern,53,52,29,20,1,Kyle Anderson made Jumper.
+Delaware,Northeastern,53,52,29,43,0,Demetrius Pollard missed Jumper.
+Delaware,Northeastern,53,52,29,43,0,Jamelle Hagins Defensive Rebound.
+Delaware,Northeastern,53,52,29,50,0,Kyle Anderson missed Three Point Jumper.
+Delaware,Northeastern,53,52,29,50,0,Reggie Spencer Defensive Rebound.
+Delaware,Northeastern,53,52,30,9,0,Zach Stahl Turnover.
+Delaware,Northeastern,53,52,30,10,0,Devon Saddler Steal.
+Delaware,Northeastern,53,52,30,15,0,Foul on Marco Banegas-Flores
+Delaware,Northeastern,53,52,30,16,0,Kyle Anderson missed Jumper.
+Delaware,Northeastern,53,52,30,16,0,Quincy Ford Defensive Rebound.
+Delaware,Northeastern,53,52,30,26,0,Jonathan Lee missed Three Point Jumper.
+Delaware,Northeastern,53,52,30,26,0,Demetrius Pollard Offensive Rebound.
+Delaware,Northeastern,53,52,30,30,0,David Walker missed Three Point Jumper.
+Delaware,Northeastern,53,52,30,30,0,Kyle Anderson Defensive Rebound.
+Delaware,Northeastern,53,52,30,44,0,Marvin King-Davis missed Jumper.
+Delaware,Northeastern,53,52,30,44,0,Reggie Spencer Defensive Rebound.
+Delaware,Northeastern,53,52,30,52,0,Foul on Jamelle Hagins
+Delaware,Northeastern,53,53,30,52,1,Jonathan Lee made Free Throw.
+Delaware,Northeastern,53,54,30,52,1,Jonathan Lee made Free Throw.
+Delaware,Northeastern,53,54,31,11,0,Josh Brinkley missed Jumper.
+Delaware,Northeastern,53,54,31,11,0,Jonathan Lee Defensive Rebound.
+Delaware,Northeastern,53,54,31,22,0,Foul on Jamelle Hagins
+Delaware,Northeastern,53,55,31,22,1,Quincy Ford made Free Throw.
+Delaware,Northeastern,53,56,31,22,1,Quincy Ford made Free Throw.
+Delaware,Northeastern,55,56,31,37,1,Carl Baptiste made Layup.  Assisted by Jarvis Threatt.
+Delaware,Northeastern,55,56,31,58,0,Foul on Josh Brinkley
+Delaware,Northeastern,55,57,31,58,1,Jonathan Lee made Free Throw.
+Delaware,Northeastern,55,58,31,58,1,Jonathan Lee made Free Throw.
+Delaware,Northeastern,55,58,32,7,0,Kyle Anderson missed Three Point Jumper.
+Delaware,Northeastern,55,58,32,7,0,Larry Savage Offensive Rebound.
+Delaware,Northeastern,55,58,32,12,0,Larry Savage missed Tip Shot.
+Delaware,Northeastern,55,58,32,12,0,Josh Brinkley Offensive Rebound.
+Delaware,Northeastern,55,58,32,12,0,Foul on Reggie Spencer
+Delaware,Northeastern,55,58,32,12,0,Official TV Timeout.
+Delaware,Northeastern,56,58,32,12,1,Josh Brinkley made Free Throw.
+Delaware,Northeastern,56,58,32,12,0,Josh Brinkley missed Free Throw.
+Delaware,Northeastern,56,58,32,12,0,Larry Savage Offensive Rebound.
+Delaware,Northeastern,56,58,32,22,0,Carl Baptiste missed Jumper.
+Delaware,Northeastern,56,58,32,22,0,Larry Savage Offensive Rebound.
+Delaware,Northeastern,56,58,32,24,0,Foul on Quincy Ford
+Delaware,Northeastern,56,58,32,24,0,Larry Savage missed Free Throw.
+Delaware,Northeastern,56,58,32,24,0,null
+Delaware,Northeastern,56,58,32,24,0,Larry Savage missed Free Throw.
+Delaware,Northeastern,56,58,32,24,0,Jonathan Lee Defensive Rebound.
+Delaware,Northeastern,56,58,32,46,0,Quincy Ford missed Jumper.
+Delaware,Northeastern,56,58,32,46,0,Jamelle Hagins Defensive Rebound.
+Delaware,Northeastern,56,58,33,7,0,Larry Savage Turnover.
+Delaware,Northeastern,56,58,33,9,0,Jonathan Lee Steal.
+Delaware,Northeastern,56,58,33,11,0,Jonathan Lee missed Layup.
+Delaware,Northeastern,56,58,33,11,0,Larry Savage Defensive Rebound.
+Delaware,Northeastern,58,58,33,19,1,Jamelle Hagins made Dunk.  Assisted by Devon Saddler.
+Delaware,Northeastern,58,58,33,21,0,Delaware Full Timeout.
+Delaware,Northeastern,58,58,33,35,0,Quincy Ford missed Three Point Jumper.
+Delaware,Northeastern,58,58,33,35,0,Carl Baptiste Defensive Rebound.
+Delaware,Northeastern,58,58,33,41,0,Carl Baptiste Turnover.
+Delaware,Northeastern,58,58,33,58,0,Quincy Ford missed Jumper.
+Delaware,Northeastern,58,58,33,58,0,Jamelle Hagins Block.
+Delaware,Northeastern,58,58,33,58,0,Northeastern Offensive Rebound.
+Delaware,Northeastern,58,58,34,3,0,Demetrius Pollard Turnover.
+Delaware,Northeastern,58,58,34,5,0,Jamelle Hagins Steal.
+Delaware,Northeastern,58,58,34,9,0,Foul on Reggie Spencer
+Delaware,Northeastern,59,58,34,9,1,Jarvis Threatt made Free Throw.
+Delaware,Northeastern,60,58,34,9,1,Jarvis Threatt made Free Throw.
+Delaware,Northeastern,60,60,34,21,1,Zach Stahl made Layup.  Assisted by Jonathan Lee.
+Delaware,Northeastern,62,60,34,45,1,Devon Saddler made Jumper.
+Delaware,Northeastern,62,60,35,0,0,Demetrius Pollard missed Three Point Jumper.
+Delaware,Northeastern,62,60,35,0,0,Carl Baptiste Defensive Rebound.
+Delaware,Northeastern,62,60,35,20,0,Foul on Carl Baptiste
+Delaware,Northeastern,62,60,35,20,0,Foul on Zach Stahl
+Delaware,Northeastern,62,60,35,20,0,Delaware Full Timeout.
+Delaware,Northeastern,62,60,35,20,0,Technical Foul on Carl Baptiste
+Delaware,Northeastern,62,60,35,20,0,Technical Foul on Zach Stahl
+Delaware,Northeastern,62,60,35,32,0,Kyle Anderson Turnover.
+Delaware,Northeastern,62,60,35,32,0,Demetrius Pollard Steal.
+Delaware,Northeastern,62,63,36,0,1,Zach Stahl made Three Point Jumper.  Assisted by Jonathan Lee.
+Delaware,Northeastern,62,63,36,11,0,Foul on Zach Stahl
+Delaware,Northeastern,62,63,36,12,0,Official TV Timeout.
+Delaware,Northeastern,63,63,36,12,1,Jarvis Threatt made Free Throw.
+Delaware,Northeastern,64,63,36,12,1,Jarvis Threatt made Free Throw.
+Delaware,Northeastern,64,65,36,32,1,Jonathan Lee made Layup.
+Delaware,Northeastern,64,65,37,10,0,Devon Saddler missed Jumper.
+Delaware,Northeastern,64,65,37,10,0,Zach Stahl Defensive Rebound.
+Delaware,Northeastern,64,65,37,28,0,Quincy Ford Turnover.
+Delaware,Northeastern,64,65,37,36,0,Jarvis Threatt missed Jumper.
+Delaware,Northeastern,64,65,37,36,0,Zach Stahl Defensive Rebound.
+Delaware,Northeastern,64,65,37,45,0,Jonathan Lee missed Jumper.
+Delaware,Northeastern,64,65,37,45,0,Kyle Anderson Defensive Rebound.
+Delaware,Northeastern,64,65,38,13,0,Foul on Zach Stahl
+Delaware,Northeastern,64,65,38,13,0,Devon Saddler missed Free Throw.
+Delaware,Northeastern,64,65,38,13,0,null
+Delaware,Northeastern,65,65,38,13,1,Devon Saddler made Free Throw.
+Delaware,Northeastern,65,65,38,26,0,Demetrius Pollard missed Jumper.
+Delaware,Northeastern,65,65,38,26,0,Jamelle Hagins Defensive Rebound.
+Delaware,Northeastern,65,65,38,47,0,Devon Saddler missed Three Point Jumper.
+Delaware,Northeastern,65,65,38,47,0,David Walker Defensive Rebound.
+Delaware,Northeastern,65,65,39,9,0,Northeastern Full Timeout.
+Delaware,Northeastern,65,67,39,26,1,Zach Stahl made Layup.  Assisted by Jonathan Lee.
+Delaware,Northeastern,67,67,39,46,1,Devon Saddler made Jumper.
+Delaware,Northeastern,67,67,39,47,0,Delaware Full Timeout.
+Delaware,Northeastern,67,67,40,0,0,Jonathan Lee Turnover.
+Delaware,Northeastern,67,67,40,0,0,Devon Saddler Steal.

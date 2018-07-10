@@ -1,0 +1,322 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Murray State,Arkansas State,0,0,0,20,0,Stacy Wilson missed Three Point Jumper.
+Murray State,Arkansas State,0,0,0,20,0,Murray State Offensive Rebound.
+Murray State,Arkansas State,0,0,0,25,0,Foul on Brandon Peterson
+Murray State,Arkansas State,0,0,0,27,0,Dexter Fields Turnover.
+Murray State,Arkansas State,0,0,0,28,0,Brandon Peterson Steal.
+Murray State,Arkansas State,0,0,0,41,0,Kendrick Washington missed Jumper.
+Murray State,Arkansas State,0,0,0,41,0,Murray State Defensive Rebound.
+Murray State,Arkansas State,0,0,1,7,0,Dexter Fields missed Three Point Jumper.
+Murray State,Arkansas State,0,0,1,7,0,Brandon Peterson Defensive Rebound.
+Murray State,Arkansas State,0,3,1,14,1,Trey Finn made Three Point Jumper.  Assisted by Rakeem Dickerson.
+Murray State,Arkansas State,0,3,1,31,0,Dexter Fields Turnover.
+Murray State,Arkansas State,0,3,1,33,0,Ed Townsel Steal.
+Murray State,Arkansas State,0,3,1,36,0,Ed Townsel Turnover.
+Murray State,Arkansas State,0,3,1,37,0,Isaiah Canaan Steal.
+Murray State,Arkansas State,2,3,1,40,1,Ed Daniel made Dunk.
+Murray State,Arkansas State,2,3,1,58,0,Rakeem Dickerson Turnover.
+Murray State,Arkansas State,2,3,1,59,0,Ed Daniel Steal.
+Murray State,Arkansas State,2,3,2,2,0,Ed Daniel Turnover.
+Murray State,Arkansas State,2,3,2,3,0,Rakeem Dickerson Steal.
+Murray State,Arkansas State,2,3,2,10,0,Ed Townsel missed Three Point Jumper.
+Murray State,Arkansas State,2,3,2,10,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,2,3,2,18,0,Ed Daniel missed Layup.
+Murray State,Arkansas State,2,3,2,18,0,Kendrick Washington Block.
+Murray State,Arkansas State,2,3,2,20,0,Ed Townsel Defensive Rebound.
+Murray State,Arkansas State,2,3,2,23,0,Ed Townsel missed Layup.
+Murray State,Arkansas State,2,3,2,23,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,2,3,2,39,0,Isaiah Canaan missed Three Point Jumper.
+Murray State,Arkansas State,2,3,2,39,0,Brandon Peterson Defensive Rebound.
+Murray State,Arkansas State,2,3,3,1,0,Brandon Peterson Turnover.
+Murray State,Arkansas State,2,3,3,23,0,Ed Daniel Turnover.
+Murray State,Arkansas State,2,3,3,39,0,Foul on Dexter Fields
+Murray State,Arkansas State,2,3,3,39,0,Brandon Peterson missed Free Throw.
+Murray State,Arkansas State,2,3,3,39,0,null
+Murray State,Arkansas State,2,4,3,39,1,Brandon Peterson made Free Throw.
+Murray State,Arkansas State,2,4,3,47,0,Isaiah Canaan Turnover.
+Murray State,Arkansas State,2,4,3,49,0,Trey Finn Steal.
+Murray State,Arkansas State,2,4,4,19,0,Trey Finn missed Three Point Jumper.
+Murray State,Arkansas State,2,4,4,19,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,2,4,4,37,0,Dexter Fields missed Three Point Jumper.
+Murray State,Arkansas State,2,4,4,37,0,Ed Townsel Defensive Rebound.
+Murray State,Arkansas State,2,6,4,53,1,Ed Townsel made Layup.
+Murray State,Arkansas State,2,6,5,15,0,Foul on Kendrick Washington
+Murray State,Arkansas State,3,6,5,15,1,Isaiah Canaan made Free Throw.
+Murray State,Arkansas State,4,6,5,15,1,Isaiah Canaan made Free Throw.
+Murray State,Arkansas State,4,6,5,36,0,Brandon Peterson missed Layup.
+Murray State,Arkansas State,4,6,5,36,0,Murray State Defensive Rebound.
+Murray State,Arkansas State,6,6,6,3,1,Dexter Fields made Jumper.
+Murray State,Arkansas State,6,6,6,14,0,Cameron Golden Turnover.
+Murray State,Arkansas State,6,6,6,25,0,Foul on Raeford Worsham
+Murray State,Arkansas State,8,6,6,29,1,Brandon Garrett made Jumper.
+Murray State,Arkansas State,8,6,6,38,0,Cameron Golden Turnover.
+Murray State,Arkansas State,8,6,6,40,0,Brandon Garrett Steal.
+Murray State,Arkansas State,8,6,6,50,0,Brandon Garrett Turnover.
+Murray State,Arkansas State,8,6,6,51,0,Ed Townsel Steal.
+Murray State,Arkansas State,8,8,6,54,1,Ed Townsel made Layup.
+Murray State,Arkansas State,8,8,7,12,0,Erik McCree Turnover.
+Murray State,Arkansas State,8,8,7,14,0,Raeford Worsham Steal.
+Murray State,Arkansas State,8,8,7,19,0,Brandon Peterson missed Layup.
+Murray State,Arkansas State,8,8,7,19,0,Brandon Garrett Defensive Rebound.
+Murray State,Arkansas State,8,8,7,38,0,Stacy Wilson missed Layup.
+Murray State,Arkansas State,8,8,7,38,0,Ed Townsel Defensive Rebound.
+Murray State,Arkansas State,8,8,7,43,0,Ed Townsel missed Three Point Jumper.
+Murray State,Arkansas State,8,8,7,43,0,Erik McCree Defensive Rebound.
+Murray State,Arkansas State,8,8,7,57,0,Isaiah Canaan missed Jumper.
+Murray State,Arkansas State,8,8,7,57,0,Trey Finn Defensive Rebound.
+Murray State,Arkansas State,8,8,8,11,0,Cameron Golden missed Three Point Jumper.
+Murray State,Arkansas State,8,8,8,11,0,Isaiah Canaan Defensive Rebound.
+Murray State,Arkansas State,10,8,8,43,1,Erik McCree made Dunk.  Assisted by Stacy Wilson.
+Murray State,Arkansas State,10,10,8,54,1,Raeford Worsham made Layup.
+Murray State,Arkansas State,10,10,9,19,0,Brandon Garrett Turnover.
+Murray State,Arkansas State,10,10,9,20,0,Trey Finn Steal.
+Murray State,Arkansas State,10,10,9,23,0,Ed Townsel missed Three Point Jumper.
+Murray State,Arkansas State,10,10,9,23,0,Raeford Worsham Offensive Rebound.
+Murray State,Arkansas State,10,12,9,27,1,Raeford Worsham made Layup.
+Murray State,Arkansas State,10,12,9,46,0,Stacy Wilson missed Three Point Jumper.
+Murray State,Arkansas State,10,12,9,46,0,Brandon Peterson Defensive Rebound.
+Murray State,Arkansas State,10,12,10,7,0,Trey Finn missed Three Point Jumper.
+Murray State,Arkansas State,10,12,10,7,0,Brandon Garrett Defensive Rebound.
+Murray State,Arkansas State,10,12,10,38,0,Erik McCree missed Three Point Jumper.
+Murray State,Arkansas State,10,12,10,38,0,Brandon Peterson Defensive Rebound.
+Murray State,Arkansas State,10,14,11,13,1,Raeford Worsham made Layup.  Assisted by Brandon Peterson.
+Murray State,Arkansas State,10,14,11,38,0,Official TV Timeout.
+Murray State,Arkansas State,11,14,11,38,1,Stacy Wilson made Free Throw.
+Murray State,Arkansas State,11,14,11,38,0,Foul on Cameron Golden
+Murray State,Arkansas State,12,14,11,38,1,Stacy Wilson made Free Throw.
+Murray State,Arkansas State,12,16,11,50,1,Cameron Golden made Layup.
+Murray State,Arkansas State,12,16,12,3,0,Foul on Cameron Golden
+Murray State,Arkansas State,12,16,12,3,0,Official TV Timeout.
+Murray State,Arkansas State,12,16,12,6,0,C.J. Ford Turnover.
+Murray State,Arkansas State,12,18,12,15,1,Marcus Hooten made Jumper.
+Murray State,Arkansas State,12,18,12,30,0,Dexter Fields missed Three Point Jumper.
+Murray State,Arkansas State,12,18,12,30,0,Ed Daniel Offensive Rebound.
+Murray State,Arkansas State,12,18,12,38,0,Ed Daniel missed Layup.
+Murray State,Arkansas State,12,18,12,38,0,Kendrick Washington Block.
+Murray State,Arkansas State,12,18,12,41,0,Raeford Worsham Defensive Rebound.
+Murray State,Arkansas State,12,18,12,45,0,Raeford Worsham missed Layup.
+Murray State,Arkansas State,12,18,12,45,0,Murray State Defensive Rebound.
+Murray State,Arkansas State,12,18,12,46,0,Foul on Kendrick Washington
+Murray State,Arkansas State,12,18,13,1,0,Isaiah Canaan Turnover.
+Murray State,Arkansas State,12,18,13,1,0,Ed Townsel Steal.
+Murray State,Arkansas State,12,18,13,1,0,Arkansas State Full Timeout.
+Murray State,Arkansas State,12,18,13,19,0,Raeford Worsham missed Layup.
+Murray State,Arkansas State,12,18,13,19,0,Ed Daniel Block.
+Murray State,Arkansas State,12,18,13,22,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,12,18,13,35,0,Foul on Ed Daniel
+Murray State,Arkansas State,12,18,13,35,0,Ed Daniel Turnover.
+Murray State,Arkansas State,12,18,13,55,0,Marcus Hooten missed Jumper.
+Murray State,Arkansas State,12,18,13,55,0,Arkansas State Offensive Rebound.
+Murray State,Arkansas State,12,18,13,59,0,Cameron Golden Turnover.
+Murray State,Arkansas State,12,18,14,0,0,Ed Daniel Steal.
+Murray State,Arkansas State,14,18,14,2,1,Ed Daniel made Dunk.
+Murray State,Arkansas State,14,18,14,4,0,Foul on Ed Daniel
+Murray State,Arkansas State,14,18,14,4,0,null
+Murray State,Arkansas State,14,18,14,4,0,Trey Finn missed Free Throw.
+Murray State,Arkansas State,14,18,14,4,0,Technical Foul on Ed Daniel
+Murray State,Arkansas State,14,18,14,4,0,Trey Finn missed Free Throw.
+Murray State,Arkansas State,14,18,14,4,0,null
+Murray State,Arkansas State,14,18,14,16,0,Foul on Dexter Fields
+Murray State,Arkansas State,14,18,14,34,0,Raeford Worsham missed Layup.
+Murray State,Arkansas State,14,18,14,34,0,Brandon Peterson Offensive Rebound.
+Murray State,Arkansas State,14,20,14,37,1,Brandon Peterson made Tip Shot.
+Murray State,Arkansas State,14,20,14,53,0,Stacy Wilson missed Three Point Jumper.
+Murray State,Arkansas State,14,20,14,53,0,Stacy Wilson Offensive Rebound.
+Murray State,Arkansas State,14,20,14,58,0,Stacy Wilson Turnover.
+Murray State,Arkansas State,14,20,15,1,0,Raeford Worsham Steal.
+Murray State,Arkansas State,14,20,15,2,0,Arkansas State Full Timeout.
+Murray State,Arkansas State,14,20,15,18,0,Foul on Erik McCree
+Murray State,Arkansas State,14,20,15,19,0,Marcus Hooten missed Jumper.
+Murray State,Arkansas State,14,20,15,19,0,Arkansas State Offensive Rebound.
+Murray State,Arkansas State,14,20,15,29,0,Rakeem Dickerson Turnover.
+Murray State,Arkansas State,14,20,15,30,0,Stacy Wilson Steal.
+Murray State,Arkansas State,16,20,15,33,1,Isaiah Canaan made Layup.
+Murray State,Arkansas State,16,20,16,0,0,Rakeem Dickerson Turnover.
+Murray State,Arkansas State,16,20,16,2,0,Brandon Garrett Steal.
+Murray State,Arkansas State,18,20,16,11,1,Erik McCree made Dunk.  Assisted by Brandon Garrett.
+Murray State,Arkansas State,18,20,16,13,0,Arkansas State Full Timeout.
+Murray State,Arkansas State,18,20,16,26,0,Foul on Stacy Wilson
+Murray State,Arkansas State,18,20,16,26,0,Official TV Timeout.
+Murray State,Arkansas State,18,20,16,39,0,Cameron Golden missed Layup.
+Murray State,Arkansas State,18,20,16,39,0,Kelvin Downs Offensive Rebound.
+Murray State,Arkansas State,18,20,16,43,0,Kelvin Downs missed Dunk.
+Murray State,Arkansas State,18,20,16,43,0,Brandon Garrett Defensive Rebound.
+Murray State,Arkansas State,20,20,16,48,1,Brandon Garrett made Dunk.  Assisted by Stacy Wilson.
+Murray State,Arkansas State,20,20,16,48,0,Foul on Brandon Peterson
+Murray State,Arkansas State,21,20,16,48,1,Brandon Garrett made Free Throw.
+Murray State,Arkansas State,21,20,17,15,0,Marcus Hooten missed Layup.
+Murray State,Arkansas State,21,20,17,15,0,Brandon Peterson Offensive Rebound.
+Murray State,Arkansas State,21,22,17,18,1,Brandon Peterson made Layup.
+Murray State,Arkansas State,21,22,17,23,0,Isaiah Canaan missed Three Point Jumper.
+Murray State,Arkansas State,21,22,17,23,0,Murray State Offensive Rebound.
+Murray State,Arkansas State,21,22,17,30,0,Stacy Wilson missed Layup.
+Murray State,Arkansas State,21,22,17,30,0,Cameron Golden Defensive Rebound.
+Murray State,Arkansas State,21,22,17,43,0,Foul on Jeffery Moss
+Murray State,Arkansas State,21,23,17,43,1,Brandon Peterson made Free Throw.
+Murray State,Arkansas State,21,24,17,43,1,Brandon Peterson made Free Throw.
+Murray State,Arkansas State,24,24,17,53,1,Erik McCree made Three Point Jumper.  Assisted by Isaiah Canaan.
+Murray State,Arkansas State,24,24,18,9,0,Marcus Hooten missed Layup.
+Murray State,Arkansas State,24,24,18,9,0,Brandon Peterson Offensive Rebound.
+Murray State,Arkansas State,24,26,18,19,1,Brandon Peterson made Dunk.  Assisted by Marcus Hooten.
+Murray State,Arkansas State,24,26,18,38,0,Jeffery Moss missed Three Point Jumper.
+Murray State,Arkansas State,24,26,18,38,0,Erik McCree Offensive Rebound.
+Murray State,Arkansas State,26,26,18,55,1,Isaiah Canaan made Layup.
+Murray State,Arkansas State,26,26,19,6,0,Foul on Brandon Garrett
+Murray State,Arkansas State,26,27,19,6,1,Brandon Peterson made Free Throw.
+Murray State,Arkansas State,26,27,19,6,0,Brandon Peterson missed Free Throw.
+Murray State,Arkansas State,26,27,19,6,0,Brandon Garrett Defensive Rebound.
+Murray State,Arkansas State,26,27,19,23,0,Stacy Wilson missed Layup.
+Murray State,Arkansas State,26,27,19,23,0,Murray State Offensive Rebound.
+Murray State,Arkansas State,26,27,19,25,0,Murray State Full Timeout.
+Murray State,Arkansas State,26,27,19,54,0,Isaiah Canaan missed Jumper.
+Murray State,Arkansas State,26,27,19,54,0,Brandon Peterson Defensive Rebound.
+Murray State,Arkansas State,26,27,20,0,0,End of the 1st Half.
+Murray State,Arkansas State,26,27,20,12,0,Foul on Stacy Wilson
+Murray State,Arkansas State,26,27,20,12,0,Kendrick Washington missed Free Throw.
+Murray State,Arkansas State,26,27,20,12,0,null
+Murray State,Arkansas State,26,28,20,12,1,Kendrick Washington made Free Throw.
+Murray State,Arkansas State,28,28,20,28,1,Ed Daniel made Layup.
+Murray State,Arkansas State,28,30,20,41,1,Brandon Peterson made Layup.
+Murray State,Arkansas State,31,30,20,55,1,Stacy Wilson made Three Point Jumper.
+Murray State,Arkansas State,31,30,21,11,0,Kendrick Washington missed Jumper.
+Murray State,Arkansas State,31,30,21,11,0,Rakeem Dickerson Offensive Rebound.
+Murray State,Arkansas State,31,30,21,25,0,Trey Finn missed Three Point Jumper.
+Murray State,Arkansas State,31,30,21,25,0,Rakeem Dickerson Offensive Rebound.
+Murray State,Arkansas State,31,32,21,30,1,Rakeem Dickerson made Layup.
+Murray State,Arkansas State,31,32,21,58,0,Stacy Wilson Turnover.
+Murray State,Arkansas State,31,32,21,59,0,Kendrick Washington Steal.
+Murray State,Arkansas State,31,32,22,4,0,Foul on Ed Daniel
+Murray State,Arkansas State,31,32,22,5,0,Ed Townsel missed Three Point Jumper.
+Murray State,Arkansas State,31,32,22,5,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,34,32,22,24,1,Isaiah Canaan made Three Point Jumper.
+Murray State,Arkansas State,34,32,22,51,0,Ed Townsel missed Jumper.
+Murray State,Arkansas State,34,32,22,51,0,Brandon Peterson Offensive Rebound.
+Murray State,Arkansas State,34,35,23,1,1,Ed Townsel made Three Point Jumper.  Assisted by Trey Finn.
+Murray State,Arkansas State,34,35,23,26,0,Stacy Wilson missed Layup.
+Murray State,Arkansas State,34,35,23,26,0,Brandon Peterson Block.
+Murray State,Arkansas State,34,35,23,27,0,Murray State Offensive Rebound.
+Murray State,Arkansas State,34,35,23,37,0,Isaiah Canaan missed Three Point Jumper.
+Murray State,Arkansas State,34,35,23,37,0,Ed Townsel Defensive Rebound.
+Murray State,Arkansas State,34,35,23,45,0,Ed Townsel Turnover.
+Murray State,Arkansas State,34,35,23,46,0,Dexter Fields Steal.
+Murray State,Arkansas State,36,35,23,49,1,Dexter Fields made Layup.
+Murray State,Arkansas State,36,37,24,4,1,Kendrick Washington made Layup.  Assisted by Rakeem Dickerson.
+Murray State,Arkansas State,36,37,24,28,0,Brandon Garrett missed Layup.
+Murray State,Arkansas State,36,37,24,28,0,Brandon Peterson Defensive Rebound.
+Murray State,Arkansas State,36,37,24,46,0,Brandon Peterson missed Layup.
+Murray State,Arkansas State,36,37,24,46,0,Brandon Garrett Defensive Rebound.
+Murray State,Arkansas State,36,37,25,0,0,Foul on Kendrick Washington
+Murray State,Arkansas State,36,37,25,0,0,Official TV Timeout.
+Murray State,Arkansas State,37,37,25,0,1,Isaiah Canaan made Free Throw.
+Murray State,Arkansas State,38,37,25,0,1,Isaiah Canaan made Free Throw.
+Murray State,Arkansas State,38,39,25,36,1,Ed Townsel made Layup.
+Murray State,Arkansas State,38,39,25,51,0,Foul on Rakeem Dickerson
+Murray State,Arkansas State,38,39,25,53,0,Dexter Fields Turnover.
+Murray State,Arkansas State,38,39,25,53,0,Foul on Dexter Fields
+Murray State,Arkansas State,38,39,26,14,0,Kelvin Downs missed Layup.
+Murray State,Arkansas State,38,39,26,14,0,Erik McCree Defensive Rebound.
+Murray State,Arkansas State,38,39,26,23,0,Stacy Wilson missed Layup.
+Murray State,Arkansas State,38,39,26,23,0,Kelvin Downs Block.
+Murray State,Arkansas State,38,39,26,28,0,Marcus Hooten Defensive Rebound.
+Murray State,Arkansas State,38,39,26,30,0,Marcus Hooten missed Jumper.
+Murray State,Arkansas State,38,39,26,30,0,Murray State Defensive Rebound.
+Murray State,Arkansas State,38,39,26,31,0,Foul on Ed Townsel
+Murray State,Arkansas State,38,39,26,41,0,Isaiah Canaan missed Jumper.
+Murray State,Arkansas State,38,39,26,41,0,Brandon Garrett Offensive Rebound.
+Murray State,Arkansas State,38,39,27,4,0,Jeffery Moss Turnover.
+Murray State,Arkansas State,38,39,27,6,0,Raeford Worsham Steal.
+Murray State,Arkansas State,38,41,27,9,1,Raeford Worsham made Layup.
+Murray State,Arkansas State,38,41,27,31,0,Isaiah Canaan missed Layup.
+Murray State,Arkansas State,38,41,27,31,0,Raeford Worsham Defensive Rebound.
+Murray State,Arkansas State,38,41,27,44,0,Raeford Worsham Turnover.
+Murray State,Arkansas State,38,41,27,46,0,Jeffery Moss Steal.
+Murray State,Arkansas State,38,41,27,48,0,Foul on Marcus Hooten
+Murray State,Arkansas State,39,41,27,48,1,Stacy Wilson made Free Throw.
+Murray State,Arkansas State,40,41,27,48,1,Stacy Wilson made Free Throw.
+Murray State,Arkansas State,40,43,28,14,1,Ed Townsel made Layup.
+Murray State,Arkansas State,40,43,28,41,0,Official TV Timeout.
+Murray State,Arkansas State,42,43,28,49,1,Isaiah Canaan made Jumper.
+Murray State,Arkansas State,42,43,29,4,0,Ed Townsel missed Three Point Jumper.
+Murray State,Arkansas State,42,43,29,4,0,Ed Daniel Defensive Rebound.
+Murray State,Arkansas State,42,43,29,15,0,Isaiah Canaan missed Layup.
+Murray State,Arkansas State,42,43,29,15,0,Raeford Worsham Defensive Rebound.
+Murray State,Arkansas State,42,45,29,21,1,Ed Townsel made Layup.
+Murray State,Arkansas State,42,45,29,21,0,Foul on Stacy Wilson
+Murray State,Arkansas State,42,45,29,21,0,Ed Townsel missed Free Throw.
+Murray State,Arkansas State,42,45,29,21,0,Marcus Hooten Offensive Rebound.
+Murray State,Arkansas State,42,45,29,30,0,Brandon Peterson missed Jumper.
+Murray State,Arkansas State,42,45,29,30,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,44,45,29,56,1,Ed Daniel made Layup.
+Murray State,Arkansas State,44,45,30,5,0,Rakeem Dickerson missed Jumper.
+Murray State,Arkansas State,44,45,30,5,0,Murray State Defensive Rebound.
+Murray State,Arkansas State,44,45,30,33,0,Dexter Fields missed Three Point Jumper.
+Murray State,Arkansas State,44,45,30,33,0,Isaiah Canaan Offensive Rebound.
+Murray State,Arkansas State,44,45,30,37,0,Isaiah Canaan missed Jumper.
+Murray State,Arkansas State,44,45,30,37,0,Stacy Wilson Offensive Rebound.
+Murray State,Arkansas State,46,45,30,40,1,Stacy Wilson made Tip Shot.
+Murray State,Arkansas State,46,45,31,11,0,Cameron Golden missed Three Point Jumper.
+Murray State,Arkansas State,46,45,31,11,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,46,45,31,19,0,Isaiah Canaan missed Three Point Jumper.
+Murray State,Arkansas State,46,45,31,19,0,Stacy Wilson Offensive Rebound.
+Murray State,Arkansas State,46,45,31,43,0,Foul on Brandon Peterson
+Murray State,Arkansas State,46,45,31,43,0,Brandon Garrett missed Free Throw.
+Murray State,Arkansas State,46,45,31,43,0,null
+Murray State,Arkansas State,47,45,31,43,1,Brandon Garrett made Free Throw.
+Murray State,Arkansas State,47,47,31,57,1,Brandon Peterson made Layup.
+Murray State,Arkansas State,50,47,32,25,1,Isaiah Canaan made Three Point Jumper.
+Murray State,Arkansas State,50,47,33,5,0,Kendrick Washington missed Jumper.
+Murray State,Arkansas State,50,47,33,5,0,Brandon Garrett Defensive Rebound.
+Murray State,Arkansas State,53,47,33,13,1,Dexter Fields made Three Point Jumper.  Assisted by Isaiah Canaan.
+Murray State,Arkansas State,53,47,33,16,0,Arkansas State Full Timeout.
+Murray State,Arkansas State,53,47,33,51,0,Raeford Worsham missed Three Point Jumper.
+Murray State,Arkansas State,53,47,33,51,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,53,47,34,18,0,Stacy Wilson missed Three Point Jumper.
+Murray State,Arkansas State,53,47,34,18,0,Brandon Garrett Offensive Rebound.
+Murray State,Arkansas State,53,47,34,54,0,Dexter Fields missed Three Point Jumper.
+Murray State,Arkansas State,53,47,34,54,0,Rakeem Dickerson Defensive Rebound.
+Murray State,Arkansas State,53,47,34,59,0,Foul on Isaiah Canaan
+Murray State,Arkansas State,53,47,34,59,0,Official TV Timeout.
+Murray State,Arkansas State,53,48,34,59,1,Raeford Worsham made Free Throw.
+Murray State,Arkansas State,53,49,34,59,1,Raeford Worsham made Free Throw.
+Murray State,Arkansas State,53,49,35,21,0,Murray State Full Timeout.
+Murray State,Arkansas State,55,49,35,23,1,Brandon Garrett made Dunk.  Assisted by Stacy Wilson.
+Murray State,Arkansas State,55,49,35,36,0,Foul on Brandon Garrett
+Murray State,Arkansas State,55,50,35,37,1,Raeford Worsham made Free Throw.
+Murray State,Arkansas State,55,50,35,37,0,Raeford Worsham missed Free Throw.
+Murray State,Arkansas State,55,50,35,37,0,Isaiah Canaan Defensive Rebound.
+Murray State,Arkansas State,55,50,36,2,0,Stacy Wilson Turnover.
+Murray State,Arkansas State,55,50,36,3,0,Brandon Peterson Steal.
+Murray State,Arkansas State,55,52,36,7,1,Raeford Worsham made Dunk.  Assisted by Ed Townsel.
+Murray State,Arkansas State,55,52,36,9,0,Official TV Timeout.
+Murray State,Arkansas State,55,52,36,27,0,Ed Daniel missed Layup.
+Murray State,Arkansas State,55,52,36,27,0,Rakeem Dickerson Defensive Rebound.
+Murray State,Arkansas State,55,52,37,0,0,Raeford Worsham missed Jumper.
+Murray State,Arkansas State,55,52,37,0,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,55,52,37,32,0,Brandon Garrett Turnover.
+Murray State,Arkansas State,55,52,37,34,0,Raeford Worsham Steal.
+Murray State,Arkansas State,55,52,37,38,0,Foul on Dexter Fields
+Murray State,Arkansas State,55,52,37,38,0,Ed Townsel missed Free Throw.
+Murray State,Arkansas State,55,52,37,38,0,Brandon Peterson Offensive Rebound.
+Murray State,Arkansas State,55,52,38,0,0,Ed Townsel missed Three Point Jumper.
+Murray State,Arkansas State,55,52,38,0,0,Isaiah Canaan Defensive Rebound.
+Murray State,Arkansas State,55,52,38,30,0,Isaiah Canaan Turnover.
+Murray State,Arkansas State,55,52,38,32,0,Rakeem Dickerson Steal.
+Murray State,Arkansas State,55,52,38,35,0,Foul on Stacy Wilson
+Murray State,Arkansas State,55,53,38,35,1,Ed Townsel made Free Throw.
+Murray State,Arkansas State,55,54,38,35,1,Ed Townsel made Free Throw.
+Murray State,Arkansas State,58,54,39,2,1,Stacy Wilson made Three Point Jumper.
+Murray State,Arkansas State,58,54,39,26,0,Ed Townsel missed Jumper.
+Murray State,Arkansas State,58,54,39,26,0,Isaiah Canaan Defensive Rebound.
+Murray State,Arkansas State,58,54,39,34,0,Foul on Trey Finn
+Murray State,Arkansas State,58,54,39,34,0,Brandon Garrett missed Free Throw.
+Murray State,Arkansas State,58,54,39,34,0,null
+Murray State,Arkansas State,58,54,39,34,0,Arkansas State Full Timeout.
+Murray State,Arkansas State,59,54,39,34,1,Brandon Garrett made Free Throw.
+Murray State,Arkansas State,59,54,39,44,0,Ed Townsel missed Three Point Jumper.
+Murray State,Arkansas State,59,54,39,44,0,Isaiah Canaan Defensive Rebound.
+Murray State,Arkansas State,60,54,39,48,1,Isaiah Canaan made Free Throw.
+Murray State,Arkansas State,61,54,39,48,1,Isaiah Canaan made Free Throw.
+Murray State,Arkansas State,61,54,39,54,0,Rakeem Dickerson missed Layup.
+Murray State,Arkansas State,61,54,39,54,0,Ed Daniel Block.
+Murray State,Arkansas State,61,54,39,57,0,Stacy Wilson Defensive Rebound.
+Murray State,Arkansas State,61,54,40,0,0,End Game

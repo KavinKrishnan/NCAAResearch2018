@@ -1,0 +1,277 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Portland,Saint Mary's,0,0,0,11,0,Foul on Bobby Sharp.
+Portland,Saint Mary's,0,1,0,11,1,Stephen Holt made Free Throw.
+Portland,Saint Mary's,0,1,0,11,0,Stephen Holt missed Free Throw.
+Portland,Saint Mary's,0,1,0,11,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,0,1,0,45,0,Bobby Sharp missed Three Point Jumper.
+Portland,Saint Mary's,0,1,0,45,0,Brad Waldow Defensive Rebound.
+Portland,Saint Mary's,0,1,0,56,0,Beau Levesque Turnover.
+Portland,Saint Mary's,0,1,1,25,0,Foul on Jordan Giusti.
+Portland,Saint Mary's,0,1,1,30,0,Bryce Pressley missed Jumper.
+Portland,Saint Mary's,0,1,1,30,0,Brad Waldow Defensive Rebound.
+Portland,Saint Mary's,0,1,1,53,0,James Walker III Turnover.
+Portland,Saint Mary's,0,1,1,53,0,David Carr Steal.
+Portland,Saint Mary's,0,1,2,15,0,Foul on Beau Levesque.
+Portland,Saint Mary's,0,1,2,26,0,Bobby Sharp Turnover.
+Portland,Saint Mary's,0,1,2,27,0,Beau Levesque Steal.
+Portland,Saint Mary's,0,1,2,30,0,Beau Levesque Turnover.
+Portland,Saint Mary's,0,1,2,34,0,David Carr Steal.
+Portland,Saint Mary's,0,1,2,37,0,Thomas van der Mars Turnover.
+Portland,Saint Mary's,0,1,2,54,0,Jordan Giusti missed Three Point Jumper.
+Portland,Saint Mary's,0,1,2,54,0,Stephen Holt Offensive Rebound.
+Portland,Saint Mary's,0,1,3,10,0,Foul on Bryce Pressley.
+Portland,Saint Mary's,0,2,3,10,1,James Walker III made Free Throw.
+Portland,Saint Mary's,0,3,3,10,1,James Walker III made Free Throw.
+Portland,Saint Mary's,2,3,3,24,1,Thomas van der Mars made Jumper. Assisted by Bobby Sharp.
+Portland,Saint Mary's,2,3,3,29,0,James Walker III Turnover.
+Portland,Saint Mary's,2,3,3,46,0,Thomas van der Mars missed Jumper.
+Portland,Saint Mary's,2,3,3,46,0,Brad Waldow Defensive Rebound.
+Portland,Saint Mary's,2,6,4,1,1,Beau Levesque made Three Point Jumper. Assisted by Stephen Holt.
+Portland,Saint Mary's,2,6,4,16,0,Official TV Timeout
+Portland,Saint Mary's,4,6,4,33,1,Thomas van der Mars made Layup. Assisted by Ryan Nicholas.
+Portland,Saint Mary's,4,6,4,41,0,James Walker III missed Three Point Jumper.
+Portland,Saint Mary's,4,6,4,41,0,Bobby Sharp Defensive Rebound.
+Portland,Saint Mary's,4,6,4,54,0,Jordan Giusti missed Jumper.
+Portland,Saint Mary's,4,6,4,54,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,4,9,5,0,1,Stephen Holt made Three Point Jumper. Assisted by Jordan Giusti.
+Portland,Saint Mary's,4,9,5,29,0,Bobby Sharp missed Jumper.
+Portland,Saint Mary's,4,9,5,29,0,James Walker III Block.
+Portland,Saint Mary's,4,9,5,30,0,Stephen Holt Defensive Rebound.
+Portland,Saint Mary's,4,12,5,44,1,James Walker III made Three Point Jumper. Assisted by Jordan Giusti.
+Portland,Saint Mary's,6,12,6,3,1,Thomas van der Mars made Jumper. Assisted by Riley Barker.
+Portland,Saint Mary's,6,12,6,14,0,James Walker III Turnover.
+Portland,Saint Mary's,8,12,6,28,1,Thomas van der Mars made Layup. Assisted by Bobby Sharp.
+Portland,Saint Mary's,8,12,6,42,0,Stephen Holt missed Three Point Jumper.
+Portland,Saint Mary's,8,12,6,42,0,Ryan Nicholas Defensive Rebound.
+Portland,Saint Mary's,8,12,7,1,0,David Carr missed Three Point Jumper.
+Portland,Saint Mary's,8,12,7,1,0,James Walker III Defensive Rebound.
+Portland,Saint Mary's,8,12,7,12,0,Kerry Carter missed Layup.
+Portland,Saint Mary's,8,12,7,12,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,11,12,7,17,1,Ryan Nicholas made Three Point Jumper. Assisted by Thomas van der Mars.
+Portland,Saint Mary's,11,12,7,20,0,Saint Mary's  Timeout
+Portland,Saint Mary's,11,12,7,53,0,Kerry Carter missed Three Point Jumper.
+Portland,Saint Mary's,11,12,7,53,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,11,12,8,0,0,Foul on Brad Waldow.
+Portland,Saint Mary's,13,12,8,32,1,Ryan Nicholas made Jumper. Assisted by Riley Barker.
+Portland,Saint Mary's,13,12,8,45,0,Jordan Giusti missed Three Point Jumper.
+Portland,Saint Mary's,13,12,8,45,0,Riley Barker Defensive Rebound.
+Portland,Saint Mary's,13,12,8,49,0,Foul on Jordan Giusti.
+Portland,Saint Mary's,13,12,8,50,0,Official TV Timeout
+Portland,Saint Mary's,13,12,9,5,0,Foul on Kerry Carter.
+Portland,Saint Mary's,13,12,9,16,0,Bobby Sharp Turnover.
+Portland,Saint Mary's,13,12,9,16,0,Stephen Holt Steal.
+Portland,Saint Mary's,13,12,9,16,0,Foul on Bobby Sharp.
+Portland,Saint Mary's,13,12,9,28,0,James Walker III missed Three Point Jumper.
+Portland,Saint Mary's,13,12,9,28,0,Ryan Nicholas Defensive Rebound.
+Portland,Saint Mary's,13,12,9,34,0,Ryan Nicholas Turnover.
+Portland,Saint Mary's,13,15,9,52,1,Kerry Carter made Three Point Jumper. Assisted by James Walker III.
+Portland,Saint Mary's,15,15,10,9,1,Ryan Nicholas made Layup. Assisted by Bryce Pressley.
+Portland,Saint Mary's,15,18,10,23,1,Kerry Carter made Three Point Jumper. Assisted by Stephen Holt.
+Portland,Saint Mary's,15,18,10,39,0,Foul on Stephen Holt.
+Portland,Saint Mary's,18,18,11,1,1,David Carr made Three Point Jumper. Assisted by Thomas van der Mars.
+Portland,Saint Mary's,18,18,11,19,0,James Walker III Turnover.
+Portland,Saint Mary's,18,18,11,41,0,David Carr Turnover.
+Portland,Saint Mary's,18,18,11,42,0,Beau Levesque Steal.
+Portland,Saint Mary's,18,18,11,42,0,Foul on David Carr.
+Portland,Saint Mary's,18,18,11,56,0,Kerry Carter missed Three Point Jumper.
+Portland,Saint Mary's,18,18,11,56,0,Beau Levesque Offensive Rebound.
+Portland,Saint Mary's,18,18,12,5,0,Eividas Petrulis missed Three Point Jumper.
+Portland,Saint Mary's,18,18,12,5,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,18,18,12,16,0,Official TV Timeout
+Portland,Saint Mary's,18,18,12,39,0,Ryan Nicholas Turnover.
+Portland,Saint Mary's,18,18,12,41,0,Beau Levesque Steal.
+Portland,Saint Mary's,18,20,12,43,1,Stephen Holt made Dunk. Assisted by Kerry Carter.
+Portland,Saint Mary's,20,20,13,4,1,Ryan Nicholas made Jumper. Assisted by Bobby Sharp.
+Portland,Saint Mary's,20,20,13,17,0,Kerry Carter missed Three Point Jumper.
+Portland,Saint Mary's,20,20,13,17,0,Riley Barker Defensive Rebound.
+Portland,Saint Mary's,22,20,13,24,1,Bryce Pressley made Layup. Assisted by David Carr.
+Portland,Saint Mary's,22,20,13,24,0,Foul on Kerry Carter.
+Portland,Saint Mary's,23,20,13,24,1,Bryce Pressley made Free Throw.
+Portland,Saint Mary's,23,20,13,48,0,Foul on Ryan Nicholas.
+Portland,Saint Mary's,23,21,13,48,1,Brad Waldow made Free Throw.
+Portland,Saint Mary's,23,22,13,48,1,Brad Waldow made Free Throw.
+Portland,Saint Mary's,23,22,14,23,0,Bryce Pressley missed Jumper.
+Portland,Saint Mary's,23,22,14,23,0,Brad Waldow Defensive Rebound.
+Portland,Saint Mary's,23,25,14,31,1,Stephen Holt made Three Point Jumper. Assisted by Beau Levesque.
+Portland,Saint Mary's,25,25,15,2,1,Thomas van der Mars made Layup. Assisted by Bryce Pressley.
+Portland,Saint Mary's,25,25,15,31,0,James Walker III missed Three Point Jumper.
+Portland,Saint Mary's,25,25,15,31,0,Portland Defensive Rebound.
+Portland,Saint Mary's,25,25,15,48,0,Foul on Jordan Giusti.
+Portland,Saint Mary's,26,25,15,48,1,David Carr made Free Throw.
+Portland,Saint Mary's,27,25,15,48,1,David Carr made Free Throw.
+Portland,Saint Mary's,27,27,16,5,1,Brad Waldow made Layup. Assisted by Beau Levesque.
+Portland,Saint Mary's,27,27,16,5,0,Foul on Riley Barker.
+Portland,Saint Mary's,27,27,16,5,0,Official TV Timeout
+Portland,Saint Mary's,27,28,16,6,1,Brad Waldow made Free Throw.
+Portland,Saint Mary's,27,28,16,14,0,Foul on Kerry Carter.
+Portland,Saint Mary's,28,28,16,14,1,David Carr made Free Throw.
+Portland,Saint Mary's,28,28,16,14,0,David Carr missed Free Throw.
+Portland,Saint Mary's,28,28,16,14,0,Brad Waldow Defensive Rebound.
+Portland,Saint Mary's,28,31,16,47,1,James Walker III made Three Point Jumper. Assisted by Beau Levesque.
+Portland,Saint Mary's,28,31,17,21,0,David Carr missed Three Point Jumper.
+Portland,Saint Mary's,28,31,17,21,0,Ryan Nicholas Offensive Rebound.
+Portland,Saint Mary's,28,31,17,42,0,David Carr Turnover.
+Portland,Saint Mary's,28,34,17,59,1,Stephen Holt made Three Point Jumper. Assisted by Brad Waldow.
+Portland,Saint Mary's,28,34,18,33,0,Thomas van der Mars missed Layup.
+Portland,Saint Mary's,28,34,18,33,0,Beau Levesque Block.
+Portland,Saint Mary's,28,34,18,34,0,Portland Offensive Rebound.
+Portland,Saint Mary's,28,34,18,41,0,Portland  Turnover.
+Portland,Saint Mary's,28,34,19,0,0,James Walker III missed Three Point Jumper.
+Portland,Saint Mary's,28,34,19,0,0,Ryan Nicholas Defensive Rebound.
+Portland,Saint Mary's,30,34,19,11,1,Bryce Pressley made Layup.
+Portland,Saint Mary's,30,34,19,59,0,Stephen Holt missed Three Point Jumper.
+Portland,Saint Mary's,30,34,19,59,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,30,34,20,0,0,End of 1st half
+Portland,Saint Mary's,30,36,20,13,1,Brad Waldow made Dunk. Assisted by Jordan Giusti.
+Portland,Saint Mary's,32,36,20,44,1,Thomas van der Mars made Jumper. Assisted by Bryce Pressley.
+Portland,Saint Mary's,32,36,21,9,0,James Walker III missed Three Point Jumper.
+Portland,Saint Mary's,32,36,21,9,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,32,36,21,44,0,David Carr missed Jumper.
+Portland,Saint Mary's,32,36,21,44,0,Thomas van der Mars Offensive Rebound.
+Portland,Saint Mary's,34,36,21,47,1,Thomas van der Mars made Layup.
+Portland,Saint Mary's,34,36,22,3,0,Saint Mary's  Timeout
+Portland,Saint Mary's,34,36,22,18,0,Beau Levesque missed Layup.
+Portland,Saint Mary's,34,36,22,18,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,34,36,22,28,0,Thomas van der Mars missed Jumper.
+Portland,Saint Mary's,34,36,22,28,0,James Walker III Defensive Rebound.
+Portland,Saint Mary's,34,36,22,41,0,Beau Levesque missed Three Point Jumper.
+Portland,Saint Mary's,34,36,22,41,0,Brad Waldow Offensive Rebound.
+Portland,Saint Mary's,34,38,22,45,1,Brad Waldow made Two Point Tip Shot.
+Portland,Saint Mary's,34,38,23,23,0,David Carr Turnover.
+Portland,Saint Mary's,34,38,23,24,0,Beau Levesque Steal.
+Portland,Saint Mary's,34,38,23,28,0,Foul on Bryce Pressley.
+Portland,Saint Mary's,34,38,23,31,0,Kerry Carter missed Three Point Jumper.
+Portland,Saint Mary's,34,38,23,31,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,34,38,23,42,0,Riley Barker missed Jumper.
+Portland,Saint Mary's,34,38,23,42,0,Thomas van der Mars Offensive Rebound.
+Portland,Saint Mary's,34,38,23,47,0,Thomas van der Mars missed Jumper.
+Portland,Saint Mary's,34,38,23,47,0,Ryan Nicholas Offensive Rebound.
+Portland,Saint Mary's,36,38,23,50,1,Ryan Nicholas made Jumper.
+Portland,Saint Mary's,36,41,23,58,1,Kerry Carter made Three Point Jumper. Assisted by Stephen Holt.
+Portland,Saint Mary's,38,41,24,28,1,Bryce Pressley made Jumper. Assisted by Thomas van der Mars.
+Portland,Saint Mary's,38,41,24,57,0,Beau Levesque Turnover.
+Portland,Saint Mary's,38,41,24,58,0,Bobby Sharp Steal.
+Portland,Saint Mary's,38,41,25,21,0,Bryce Pressley missed Three Point Jumper.
+Portland,Saint Mary's,38,41,25,21,0,Stephen Holt Defensive Rebound.
+Portland,Saint Mary's,38,41,25,29,0,Foul on Riley Barker.
+Portland,Saint Mary's,38,41,25,29,0,Official TV Timeout
+Portland,Saint Mary's,38,41,25,29,0,Brad Waldow missed Free Throw.
+Portland,Saint Mary's,38,41,25,29,0,Saint Mary's Deadball Team Rebound.
+Portland,Saint Mary's,38,42,25,29,1,Brad Waldow made Free Throw.
+Portland,Saint Mary's,38,42,25,52,0,Bobby Sharp missed Three Point Jumper.
+Portland,Saint Mary's,38,42,25,52,0,Brad Waldow Defensive Rebound.
+Portland,Saint Mary's,38,42,25,52,0,Foul on Volodymyr Gerun.
+Portland,Saint Mary's,38,45,26,10,1,Kerry Carter made Three Point Jumper. Assisted by Beau Levesque.
+Portland,Saint Mary's,40,45,26,33,1,Riley Barker made Layup.
+Portland,Saint Mary's,40,45,26,33,0,Foul on Brad Waldow.
+Portland,Saint Mary's,41,45,26,33,1,Riley Barker made Free Throw.
+Portland,Saint Mary's,41,45,26,50,0,Kerry Carter Turnover.
+Portland,Saint Mary's,41,45,26,58,0,Bobby Sharp Steal.
+Portland,Saint Mary's,41,45,26,58,0,Bobby Sharp Turnover.
+Portland,Saint Mary's,41,45,26,58,0,James Walker III Steal.
+Portland,Saint Mary's,41,45,26,58,0,James Walker III missed Dunk.
+Portland,Saint Mary's,41,45,26,58,0,Riley Barker Block.
+Portland,Saint Mary's,41,45,26,58,0,Brad Waldow Offensive Rebound.
+Portland,Saint Mary's,41,45,26,58,0,Foul on Riley Barker.
+Portland,Saint Mary's,41,46,26,58,1,Brad Waldow made Free Throw.
+Portland,Saint Mary's,41,46,26,58,0,Brad Waldow missed Free Throw.
+Portland,Saint Mary's,41,46,26,58,0,Ryan Nicholas Defensive Rebound.
+Portland,Saint Mary's,41,46,27,18,0,Portland  Timeout
+Portland,Saint Mary's,41,46,27,33,0,Thomas van der Mars missed Jumper.
+Portland,Saint Mary's,41,46,27,33,0,Kerry Carter Defensive Rebound.
+Portland,Saint Mary's,41,46,28,2,0,Garrett Jackson missed Jumper.
+Portland,Saint Mary's,41,46,28,2,0,Brad Waldow Offensive Rebound.
+Portland,Saint Mary's,41,46,28,3,0,Foul on Ryan Nicholas.
+Portland,Saint Mary's,41,46,28,3,0,Official TV Timeout
+Portland,Saint Mary's,41,47,28,3,1,Brad Waldow made Free Throw.
+Portland,Saint Mary's,41,47,28,3,0,Brad Waldow missed Free Throw.
+Portland,Saint Mary's,41,47,28,3,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,41,47,28,33,0,Ryan Nicholas missed Layup.
+Portland,Saint Mary's,41,47,28,33,0,Bryce Pressley Offensive Rebound.
+Portland,Saint Mary's,43,47,28,34,1,Bryce Pressley made Layup.
+Portland,Saint Mary's,43,47,28,34,0,Foul on Kerry Carter.
+Portland,Saint Mary's,44,47,28,34,1,Bryce Pressley made Free Throw.
+Portland,Saint Mary's,44,47,28,49,0,Brad Waldow Turnover.
+Portland,Saint Mary's,44,47,28,50,0,Bobby Sharp Steal.
+Portland,Saint Mary's,44,47,28,58,0,Bobby Sharp missed Three Point Jumper.
+Portland,Saint Mary's,44,47,28,58,0,Garrett Jackson Defensive Rebound.
+Portland,Saint Mary's,44,49,29,10,1,Brad Waldow made Layup. Assisted by Stephen Holt.
+Portland,Saint Mary's,46,49,29,37,1,Thomas van der Mars made Layup. Assisted by Bryce Pressley.
+Portland,Saint Mary's,46,49,30,10,0,Stephen Holt missed Layup.
+Portland,Saint Mary's,46,49,30,10,0,Ryan Nicholas Defensive Rebound.
+Portland,Saint Mary's,46,49,30,26,0,Bryce Pressley missed Layup.
+Portland,Saint Mary's,46,49,30,26,0,Beau Levesque Defensive Rebound.
+Portland,Saint Mary's,46,49,30,36,0,Foul on David Carr.
+Portland,Saint Mary's,46,50,30,36,1,Stephen Holt made Free Throw.
+Portland,Saint Mary's,46,51,30,36,1,Stephen Holt made Free Throw.
+Portland,Saint Mary's,46,51,30,43,0,Foul on Beau Levesque.
+Portland,Saint Mary's,46,51,31,13,0,Riley Barker missed Jumper.
+Portland,Saint Mary's,46,51,31,13,0,Paul McCoy Defensive Rebound.
+Portland,Saint Mary's,46,53,31,46,1,Stephen Holt made Jumper.
+Portland,Saint Mary's,46,53,32,15,0,David Carr Turnover.
+Portland,Saint Mary's,46,53,32,15,0,Official TV Timeout
+Portland,Saint Mary's,46,55,32,50,1,Paul McCoy made Layup.
+Portland,Saint Mary's,48,55,33,7,1,Thomas van der Mars made Layup. Assisted by Bryce Pressley.
+Portland,Saint Mary's,48,55,33,39,0,Stephen Holt missed Three Point Jumper.
+Portland,Saint Mary's,48,55,33,39,0,Portland Defensive Rebound.
+Portland,Saint Mary's,48,55,33,55,0,David Carr missed Three Point Jumper.
+Portland,Saint Mary's,48,55,33,55,0,Beau Levesque Defensive Rebound.
+Portland,Saint Mary's,48,55,34,8,0,James Walker III missed Three Point Jumper.
+Portland,Saint Mary's,48,55,34,8,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,48,55,34,10,0,Foul on Brad Waldow.
+Portland,Saint Mary's,51,55,34,29,1,David Carr made Three Point Jumper. Assisted by Bryce Pressley.
+Portland,Saint Mary's,51,55,35,2,0,Stephen Holt missed Three Point Jumper.
+Portland,Saint Mary's,51,55,35,2,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,53,55,35,18,1,Ryan Nicholas made Jumper.
+Portland,Saint Mary's,53,55,35,22,0,Saint Mary's  Timeout
+Portland,Saint Mary's,53,58,35,53,1,Stephen Holt made Three Point Jumper. Assisted by James Walker III.
+Portland,Saint Mary's,53,58,36,21,0,Bobby Sharp missed Jumper.
+Portland,Saint Mary's,53,58,36,21,0,Thomas van der Mars Offensive Rebound.
+Portland,Saint Mary's,53,58,36,24,0,Thomas van der Mars missed Jumper.
+Portland,Saint Mary's,53,58,36,24,0,Thomas van der Mars Offensive Rebound.
+Portland,Saint Mary's,53,58,36,24,0,Foul on Brad Waldow.
+Portland,Saint Mary's,53,58,36,24,0,Official TV Timeout
+Portland,Saint Mary's,53,58,36,31,0,Thomas van der Mars missed Layup.
+Portland,Saint Mary's,53,58,36,31,0,James Walker III Defensive Rebound.
+Portland,Saint Mary's,53,58,37,2,0,Stephen Holt missed Jumper.
+Portland,Saint Mary's,53,58,37,2,0,David Carr Defensive Rebound.
+Portland,Saint Mary's,53,58,37,19,0,Thomas van der Mars missed Jumper.
+Portland,Saint Mary's,53,58,37,19,0,Saint Mary's Defensive Rebound.
+Portland,Saint Mary's,53,58,37,19,0,Portland  Timeout
+Portland,Saint Mary's,53,58,37,19,0,Saint Mary's  Timeout
+Portland,Saint Mary's,53,60,37,48,1,Stephen Holt made Layup.
+Portland,Saint Mary's,53,60,38,10,0,Ryan Nicholas missed Jumper.
+Portland,Saint Mary's,53,60,38,10,0,Beau Levesque Defensive Rebound.
+Portland,Saint Mary's,53,62,38,26,1,Beau Levesque made Layup.
+Portland,Saint Mary's,53,62,38,35,0,Portland  Timeout
+Portland,Saint Mary's,55,62,38,44,1,Thomas van der Mars made Layup. Assisted by Bryce Pressley.
+Portland,Saint Mary's,55,62,38,47,0,Foul on Bryce Pressley.
+Portland,Saint Mary's,55,63,38,47,1,Stephen Holt made Free Throw.
+Portland,Saint Mary's,55,64,38,47,1,Stephen Holt made Free Throw.
+Portland,Saint Mary's,57,64,38,58,1,Thomas van der Mars made Layup. Assisted by David Carr.
+Portland,Saint Mary's,57,64,38,59,0,Foul on David Carr.
+Portland,Saint Mary's,57,65,38,59,1,Stephen Holt made Free Throw.
+Portland,Saint Mary's,57,66,38,59,1,Stephen Holt made Free Throw.
+Portland,Saint Mary's,60,66,39,6,1,Bobby Sharp made Three Point Jumper.
+Portland,Saint Mary's,60,66,39,9,0,Foul on David Carr.
+Portland,Saint Mary's,60,67,39,9,1,Stephen Holt made Free Throw.
+Portland,Saint Mary's,60,67,39,9,0,Stephen Holt missed Free Throw.
+Portland,Saint Mary's,60,67,39,9,0,Thomas van der Mars Defensive Rebound.
+Portland,Saint Mary's,60,67,39,24,0,Thomas van der Mars missed Jumper.
+Portland,Saint Mary's,60,67,39,24,0,Beau Levesque Defensive Rebound.
+Portland,Saint Mary's,60,67,39,25,0,Foul on Ryan Nicholas.
+Portland,Saint Mary's,60,68,39,25,1,Beau Levesque made Free Throw.
+Portland,Saint Mary's,60,68,39,25,0,Beau Levesque missed Free Throw.
+Portland,Saint Mary's,60,68,39,30,0,Ryan Nicholas Defensive Rebound.
+Portland,Saint Mary's,60,68,39,33,0,Foul on Stephen Holt.
+Portland,Saint Mary's,61,68,39,33,1,David Carr made Free Throw.
+Portland,Saint Mary's,61,68,39,33,0,David Carr missed Free Throw.
+Portland,Saint Mary's,61,68,39,33,0,Beau Levesque Defensive Rebound.
+Portland,Saint Mary's,61,68,39,35,0,Foul on Ryan Nicholas.
+Portland,Saint Mary's,61,69,39,35,1,Beau Levesque made Free Throw.
+Portland,Saint Mary's,61,70,39,35,1,Beau Levesque made Free Throw.
+Portland,Saint Mary's,61,70,39,41,0,Bryce Pressley missed Three Point Jumper.
+Portland,Saint Mary's,61,70,39,41,0,David Carr Offensive Rebound.
+Portland,Saint Mary's,61,70,39,51,0,Bryce Pressley Turnover.
+Portland,Saint Mary's,61,70,39,52,0,Kerry Carter Steal.
+Portland,Saint Mary's,61,70,40,0,0,End of Game

@@ -1,0 +1,344 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+NJIT,Providence,0,0,0,11,0,Bryce Cotton missed Jumper.
+NJIT,Providence,0,0,0,11,0,Pj Miller Defensive Rebound.
+NJIT,Providence,0,0,0,25,0,Pj Miller missed Layup.
+NJIT,Providence,0,0,0,25,0,Pj Miller Offensive Rebound.
+NJIT,Providence,0,0,0,33,0,Ryan Woods missed Three Point Jumper.
+NJIT,Providence,0,0,0,33,0,Bryce Cotton Defensive Rebound.
+NJIT,Providence,0,0,0,42,0,LaDontae Henton missed Three Point Jumper.
+NJIT,Providence,0,0,0,42,0,Chris Flores Defensive Rebound.
+NJIT,Providence,0,0,0,59,0,Sean McCarthy missed Jumper.
+NJIT,Providence,0,0,0,59,0,Vincent Council Defensive Rebound.
+NJIT,Providence,0,0,1,18,0,Vincent Council missed Three Point Jumper.
+NJIT,Providence,0,0,1,18,0,Chris Flores Defensive Rebound.
+NJIT,Providence,3,0,1,31,1,Chris Flores made Three Point Jumper.
+NJIT,Providence,3,0,2,5,0,Vincent Council missed Layup.
+NJIT,Providence,3,0,2,5,0,Sean McCarthy Block.
+NJIT,Providence,3,0,2,6,0,Sean McCarthy Defensive Rebound.
+NJIT,Providence,3,0,2,23,0,Pj Miller missed Jumper.
+NJIT,Providence,3,0,2,23,0,Kadeem Batts Defensive Rebound.
+NJIT,Providence,3,2,2,41,1,LaDontae Henton made Jumper.  Assisted by Vincent Council.
+NJIT,Providence,3,2,3,18,0,Chris Flores Turnover.
+NJIT,Providence,3,2,3,28,0,Josh Fortune Turnover.
+NJIT,Providence,5,2,3,39,1,Quentin Bastian made Layup.
+NJIT,Providence,5,2,3,56,0,Kadeem Batts missed Jumper.
+NJIT,Providence,5,2,3,56,0,Ryan Woods Defensive Rebound.
+NJIT,Providence,5,2,4,8,0,Chris Flores missed Jumper.
+NJIT,Providence,5,2,4,8,0,Kadeem Batts Defensive Rebound.
+NJIT,Providence,5,2,4,14,0,Vincent Council missed Jumper.
+NJIT,Providence,5,2,4,14,0,Vincent Council Offensive Rebound.
+NJIT,Providence,5,2,4,17,0,Foul on Quentin Bastian
+NJIT,Providence,5,2,4,17,0,Providence Full Timeout.
+NJIT,Providence,5,3,4,17,1,Vincent Council made Free Throw.
+NJIT,Providence,5,4,4,17,1,Vincent Council made Free Throw.
+NJIT,Providence,5,4,4,34,0,Ryan Woods missed Jumper.
+NJIT,Providence,5,4,4,34,0,LaDontae Henton Defensive Rebound.
+NJIT,Providence,5,6,4,51,1,LaDontae Henton made Jumper.  Assisted by Josh Fortune.
+NJIT,Providence,5,6,5,13,0,Foul on Lee Goldsbrough
+NJIT,Providence,5,6,5,13,0,Pj Miller missed Free Throw.
+NJIT,Providence,5,6,5,13,0,null
+NJIT,Providence,6,6,5,13,1,Pj Miller made Free Throw.
+NJIT,Providence,6,8,5,29,1,Kadeem Batts made Jumper.
+NJIT,Providence,9,8,5,45,1,Chris Flores made Three Point Jumper.  Assisted by Ky Howard.
+NJIT,Providence,9,8,6,8,0,Kadeem Batts missed Layup.
+NJIT,Providence,9,8,6,8,0,Ryan Woods Defensive Rebound.
+NJIT,Providence,9,8,6,25,0,Foul on Kadeem Batts
+NJIT,Providence,10,8,6,25,1,Ryan Woods made Free Throw.
+NJIT,Providence,11,8,6,25,1,Ryan Woods made Free Throw.
+NJIT,Providence,11,8,6,37,0,LaDontae Henton Turnover.
+NJIT,Providence,13,8,6,46,1,Terrence Smith made Jumper.  Assisted by Nigel Sydnor.
+NJIT,Providence,13,8,7,11,0,Josh Fortune missed Layup.
+NJIT,Providence,13,8,7,11,0,Terrence Smith Defensive Rebound.
+NJIT,Providence,13,8,7,13,0,Foul on Josh Fortune
+NJIT,Providence,13,8,7,32,0,N.J.I.T. Full Timeout.
+NJIT,Providence,13,8,7,43,0,Nigel Sydnor Turnover.
+NJIT,Providence,13,8,7,58,0,LaDontae Henton missed Jumper.
+NJIT,Providence,13,8,7,58,0,Providence Offensive Rebound.
+NJIT,Providence,13,11,8,11,1,LaDontae Henton made Three Point Jumper.  Assisted by Bryce Cotton.
+NJIT,Providence,13,11,8,40,0,Terrence Smith missed Jumper.
+NJIT,Providence,13,11,8,40,0,Sean McCarthy Offensive Rebound.
+NJIT,Providence,13,11,8,46,0,N.J.I.T. Full Timeout.
+NJIT,Providence,13,11,8,58,0,Terrence Smith missed Dunk.
+NJIT,Providence,13,11,8,58,0,Brice Kofane Block.
+NJIT,Providence,13,11,9,4,0,Brice Kofane Defensive Rebound.
+NJIT,Providence,13,11,9,29,0,Lee Goldsbrough Turnover.
+NJIT,Providence,16,11,9,40,1,Ryan Woods made Three Point Jumper.  Assisted by Chris Flores.
+NJIT,Providence,16,11,9,54,0,Bryce Cotton missed Three Point Jumper.
+NJIT,Providence,16,11,9,54,0,Brice Kofane Offensive Rebound.
+NJIT,Providence,16,11,9,58,0,LaDontae Henton missed Layup.
+NJIT,Providence,16,11,9,58,0,Bryce Cotton Offensive Rebound.
+NJIT,Providence,16,11,10,4,0,Josh Fortune missed Three Point Jumper.
+NJIT,Providence,16,11,10,4,0,Providence Offensive Rebound.
+NJIT,Providence,16,13,10,9,1,LaDontae Henton made Jumper.  Assisted by Josh Fortune.
+NJIT,Providence,16,13,10,22,0,Foul on Kadeem Batts
+NJIT,Providence,16,13,10,22,0,Pj Miller missed Free Throw.
+NJIT,Providence,16,13,10,22,0,null
+NJIT,Providence,17,13,10,22,1,Pj Miller made Free Throw.
+NJIT,Providence,17,13,10,47,0,Josh Fortune missed Three Point Jumper.
+NJIT,Providence,17,13,10,47,0,Brice Kofane Offensive Rebound.
+NJIT,Providence,17,15,11,1,1,LaDontae Henton made Jumper.  Assisted by Josh Fortune.
+NJIT,Providence,17,15,11,29,0,Foul on Brice Kofane
+NJIT,Providence,18,15,11,29,1,Chris Flores made Free Throw.
+NJIT,Providence,19,15,11,29,1,Chris Flores made Free Throw.
+NJIT,Providence,19,15,11,38,0,Bryce Cotton missed Three Point Jumper.
+NJIT,Providence,19,15,11,38,0,Terrence Smith Defensive Rebound.
+NJIT,Providence,19,15,11,47,0,Chris Flores Turnover.
+NJIT,Providence,19,15,11,54,0,LaDontae Henton missed Three Point Jumper.
+NJIT,Providence,19,15,11,54,0,Pj Miller Defensive Rebound.
+NJIT,Providence,19,15,12,3,0,Providence Full Timeout.
+NJIT,Providence,19,15,12,3,0,Foul on Pj Miller
+NJIT,Providence,19,15,12,3,0,Pj Miller Turnover.
+NJIT,Providence,19,15,12,22,0,Josh Fortune missed Three Point Jumper.
+NJIT,Providence,19,15,12,22,0,Pj Miller Defensive Rebound.
+NJIT,Providence,19,15,12,30,0,Ryan Woods missed Three Point Jumper.
+NJIT,Providence,19,15,12,30,0,LaDontae Henton Defensive Rebound.
+NJIT,Providence,19,15,12,34,0,Foul on Chris Flores
+NJIT,Providence,19,18,12,51,1,Bryce Cotton made Three Point Jumper.  Assisted by LaDontae Henton.
+NJIT,Providence,21,18,13,23,1,Chris Flores made Layup.
+NJIT,Providence,21,18,13,32,0,Ted Bancroft Turnover.
+NJIT,Providence,21,18,13,33,0,Terrence Smith Steal.
+NJIT,Providence,21,18,13,42,0,Sean McCarthy Turnover.
+NJIT,Providence,21,18,13,43,0,Bryce Cotton Steal.
+NJIT,Providence,21,18,13,47,0,Foul on Sean McCarthy
+NJIT,Providence,21,19,13,47,1,Brice Kofane made Free Throw.
+NJIT,Providence,21,20,13,47,1,Brice Kofane made Free Throw.
+NJIT,Providence,21,20,14,15,0,Pj Miller missed Jumper.
+NJIT,Providence,21,20,14,15,0,Terrence Smith Offensive Rebound.
+NJIT,Providence,21,20,14,17,0,Foul on Josh Fortune
+NJIT,Providence,22,20,14,17,1,Terrence Smith made Free Throw.
+NJIT,Providence,23,20,14,17,1,Terrence Smith made Free Throw.
+NJIT,Providence,23,23,14,32,1,Bryce Cotton made Three Point Jumper.  Assisted by Brice Kofane.
+NJIT,Providence,23,23,14,49,0,Chris Flores Turnover.
+NJIT,Providence,23,23,14,51,0,Bryce Cotton Steal.
+NJIT,Providence,23,23,14,51,0,Foul on Ryan Woods
+NJIT,Providence,23,24,14,51,1,LaDontae Henton made Free Throw.
+NJIT,Providence,23,25,14,51,1,LaDontae Henton made Free Throw.
+NJIT,Providence,23,25,15,14,0,Ky Howard missed Three Point Jumper.
+NJIT,Providence,23,25,15,14,0,N.J.I.T. Offensive Rebound.
+NJIT,Providence,25,25,15,34,1,Daquan Holiday made Jumper.  Assisted by Ky Howard.
+NJIT,Providence,25,25,15,48,0,Lee Goldsbrough missed Jumper.
+NJIT,Providence,25,25,15,48,0,Daquan Holiday Block.
+NJIT,Providence,25,25,15,48,0,Daquan Holiday Defensive Rebound.
+NJIT,Providence,25,25,16,6,0,Ryan Woods missed Three Point Jumper.
+NJIT,Providence,25,25,16,6,0,Lee Goldsbrough Defensive Rebound.
+NJIT,Providence,25,25,16,19,0,LaDontae Henton missed Three Point Jumper.
+NJIT,Providence,25,25,16,19,0,Chris Flores Defensive Rebound.
+NJIT,Providence,25,25,16,21,0,Foul on Lee Goldsbrough
+NJIT,Providence,25,25,16,21,0,N.J.I.T. Full Timeout.
+NJIT,Providence,26,25,16,21,1,Chris Flores made Free Throw.
+NJIT,Providence,27,25,16,21,1,Chris Flores made Free Throw.
+NJIT,Providence,27,25,16,32,0,LaDontae Henton missed Jumper.
+NJIT,Providence,27,25,16,32,0,Daquan Holiday Block.
+NJIT,Providence,27,25,16,34,0,Ryan Woods Defensive Rebound.
+NJIT,Providence,27,25,16,39,0,Daquan Holiday missed Jumper.
+NJIT,Providence,27,25,16,39,0,LaDontae Henton Block.
+NJIT,Providence,27,25,16,42,0,Chris Flores Offensive Rebound.
+NJIT,Providence,27,25,16,56,0,Ky Howard missed Jumper.
+NJIT,Providence,27,25,16,56,0,Lee Goldsbrough Defensive Rebound.
+NJIT,Providence,27,25,17,12,0,Providence Full Timeout.
+NJIT,Providence,27,27,17,19,1,LaDontae Henton made Layup.
+NJIT,Providence,27,27,17,19,0,Foul on Daquan Holiday
+NJIT,Providence,27,28,17,19,1,LaDontae Henton made Free Throw.
+NJIT,Providence,27,28,17,35,0,Chris Flores Turnover.
+NJIT,Providence,27,28,17,35,0,Brice Kofane Steal.
+NJIT,Providence,27,30,17,39,1,LaDontae Henton made Dunk.  Assisted by Bryce Cotton.
+NJIT,Providence,27,30,17,41,0,N.J.I.T. Full Timeout.
+NJIT,Providence,27,30,18,1,0,Pj Miller missed Jumper.
+NJIT,Providence,27,30,18,1,0,N.J.I.T. Offensive Rebound.
+NJIT,Providence,27,30,18,15,0,Ryan Woods missed Layup.
+NJIT,Providence,27,30,18,15,0,N.J.I.T. Offensive Rebound.
+NJIT,Providence,29,30,18,33,1,Chris Flores made Jumper.
+NJIT,Providence,29,30,18,49,0,LaDontae Henton missed Jumper.
+NJIT,Providence,29,30,18,49,0,Sean McCarthy Defensive Rebound.
+NJIT,Providence,29,30,18,56,0,Ryan Woods missed Jumper.
+NJIT,Providence,29,30,18,56,0,Lee Goldsbrough Defensive Rebound.
+NJIT,Providence,29,30,19,15,0,Bryce Cotton missed Layup.
+NJIT,Providence,29,30,19,15,0,Lee Goldsbrough Offensive Rebound.
+NJIT,Providence,29,30,19,19,0,LaDontae Henton missed Three Point Jumper.
+NJIT,Providence,29,30,19,19,0,Bryce Cotton Offensive Rebound.
+NJIT,Providence,29,32,19,22,1,Bryce Cotton made Jumper.
+NJIT,Providence,29,32,19,22,0,Foul on Chris Flores
+NJIT,Providence,29,32,19,22,0,Bryce Cotton missed Free Throw.
+NJIT,Providence,29,32,19,22,0,Terrence Smith Defensive Rebound.
+NJIT,Providence,29,32,19,49,0,Pj Miller Turnover.
+NJIT,Providence,29,32,19,53,0,Bryce Cotton missed Layup.
+NJIT,Providence,29,32,19,53,0,Quentin Bastian Defensive Rebound.
+NJIT,Providence,29,32,19,57,0,Terrence Smith Turnover.
+NJIT,Providence,29,32,19,59,0,Bryce Cotton missed Three Point Jumper.
+NJIT,Providence,29,32,19,59,0,N.J.I.T. Defensive Rebound.
+NJIT,Providence,29,32,20,0,0,End of the 1st Half.
+NJIT,Providence,29,32,20,9,0,Pj Miller Turnover.
+NJIT,Providence,29,32,20,9,0,LaDontae Henton Steal.
+NJIT,Providence,29,34,20,12,1,LaDontae Henton made Layup.
+NJIT,Providence,29,34,20,46,0,Sean McCarthy missed Jumper.
+NJIT,Providence,29,34,20,46,0,Bryce Cotton Defensive Rebound.
+NJIT,Providence,29,34,21,2,0,Brice Kofane Turnover.
+NJIT,Providence,29,34,21,3,0,Chris Flores Steal.
+NJIT,Providence,31,34,21,6,1,Chris Flores made Layup.
+NJIT,Providence,31,34,21,23,0,Josh Fortune missed Three Point Jumper.
+NJIT,Providence,31,34,21,23,0,Ryan Woods Defensive Rebound.
+NJIT,Providence,33,34,21,32,1,Chris Flores made Jumper.
+NJIT,Providence,33,36,21,55,1,Kadeem Batts made Layup.
+NJIT,Providence,33,36,21,55,0,Foul on Sean McCarthy
+NJIT,Providence,33,36,21,55,0,Kadeem Batts missed Free Throw.
+NJIT,Providence,33,36,21,55,0,Terrence Smith Defensive Rebound.
+NJIT,Providence,33,36,22,16,0,Foul on LaDontae Henton
+NJIT,Providence,33,36,22,32,0,Chris Flores missed Three Point Jumper.
+NJIT,Providence,33,36,22,32,0,Chris Flores Offensive Rebound.
+NJIT,Providence,33,36,22,37,0,Chris Flores missed Layup.
+NJIT,Providence,33,36,22,37,0,Brice Kofane Block.
+NJIT,Providence,33,36,22,38,0,Brice Kofane Defensive Rebound.
+NJIT,Providence,33,36,22,42,0,Kadeem Batts missed Layup.
+NJIT,Providence,33,36,22,42,0,Ryan Woods Defensive Rebound.
+NJIT,Providence,33,36,22,49,0,Chris Flores missed Layup.
+NJIT,Providence,33,36,22,49,0,Ryan Woods Offensive Rebound.
+NJIT,Providence,35,36,22,50,1,Ryan Woods made Layup.
+NJIT,Providence,35,36,22,50,0,Providence Full Timeout.
+NJIT,Providence,35,36,23,4,0,Foul on Ky Howard
+NJIT,Providence,35,37,23,4,1,Bryce Cotton made Free Throw.
+NJIT,Providence,35,38,23,4,1,Bryce Cotton made Free Throw.
+NJIT,Providence,35,39,23,4,1,Bryce Cotton made Free Throw.
+NJIT,Providence,35,39,23,20,0,Chris Flores missed Jumper.
+NJIT,Providence,35,39,23,20,0,Brice Kofane Defensive Rebound.
+NJIT,Providence,35,41,23,37,1,Josh Fortune made Jumper.  Assisted by Bryce Cotton.
+NJIT,Providence,37,41,24,9,1,Quentin Bastian made Layup.  Assisted by Chris Flores.
+NJIT,Providence,37,43,24,21,1,Bryce Cotton made Layup.
+NJIT,Providence,37,43,24,46,0,Ryan Woods missed Layup.
+NJIT,Providence,37,43,24,46,0,Josh Fortune Block.
+NJIT,Providence,37,43,24,47,0,Kadeem Batts Defensive Rebound.
+NJIT,Providence,37,43,24,54,0,LaDontae Henton missed Three Point Jumper.
+NJIT,Providence,37,43,24,54,0,Josh Fortune Offensive Rebound.
+NJIT,Providence,37,43,24,58,0,Foul on Terrence Smith
+NJIT,Providence,37,43,24,58,0,Providence Full Timeout.
+NJIT,Providence,37,44,24,58,1,LaDontae Henton made Free Throw.
+NJIT,Providence,37,45,24,58,1,LaDontae Henton made Free Throw.
+NJIT,Providence,37,45,25,18,0,Pj Miller Turnover.
+NJIT,Providence,37,47,25,33,1,Kadeem Batts made Jumper.  Assisted by Bryce Cotton.
+NJIT,Providence,37,47,26,2,0,Quentin Bastian missed Jumper.
+NJIT,Providence,37,47,26,2,0,Ryan Woods Offensive Rebound.
+NJIT,Providence,39,47,26,6,1,Pj Miller made Layup.  Assisted by Terrence Smith.
+NJIT,Providence,39,47,26,28,0,LaDontae Henton missed Three Point Jumper.
+NJIT,Providence,39,47,26,28,0,Brice Kofane Offensive Rebound.
+NJIT,Providence,39,47,26,32,0,Brice Kofane missed Layup.
+NJIT,Providence,39,47,26,32,0,Brice Kofane Offensive Rebound.
+NJIT,Providence,39,49,26,35,1,Brice Kofane made Layup.
+NJIT,Providence,39,49,26,37,0,Foul on Bryce Cotton
+NJIT,Providence,39,49,26,54,0,Chris Flores Turnover.
+NJIT,Providence,39,49,26,55,0,Brice Kofane Steal.
+NJIT,Providence,39,49,26,56,0,Bryce Cotton Turnover.
+NJIT,Providence,41,49,27,0,1,Chris Flores made Jumper.  Assisted by Pj Miller.
+NJIT,Providence,41,49,27,30,0,Foul on Sean McCarthy
+NJIT,Providence,41,50,27,30,1,LaDontae Henton made Free Throw.
+NJIT,Providence,41,51,27,30,1,LaDontae Henton made Free Throw.
+NJIT,Providence,41,51,27,55,0,Foul on Brice Kofane
+NJIT,Providence,42,51,27,55,1,Daquan Holiday made Free Throw.
+NJIT,Providence,43,51,27,55,1,Daquan Holiday made Free Throw.
+NJIT,Providence,43,51,28,8,0,Providence Full Timeout.
+NJIT,Providence,43,53,28,22,1,Bryce Cotton made Layup.
+NJIT,Providence,46,53,28,34,1,Ryan Woods made Three Point Jumper.  Assisted by Pj Miller.
+NJIT,Providence,46,53,28,50,0,Josh Fortune missed Jumper.
+NJIT,Providence,46,53,28,50,0,Brice Kofane Offensive Rebound.
+NJIT,Providence,46,53,29,4,0,Foul on Pj Miller
+NJIT,Providence,46,54,29,4,1,Bryce Cotton made Free Throw.
+NJIT,Providence,46,55,29,4,1,Bryce Cotton made Free Throw.
+NJIT,Providence,46,55,29,11,0,Chris Flores missed Three Point Jumper.
+NJIT,Providence,46,55,29,11,0,Brice Kofane Defensive Rebound.
+NJIT,Providence,46,55,29,19,0,Bryce Cotton Turnover.
+NJIT,Providence,46,55,29,21,0,Chris Flores Steal.
+NJIT,Providence,46,55,29,24,0,Pj Miller missed Layup.
+NJIT,Providence,46,55,29,24,0,Ryan Woods Offensive Rebound.
+NJIT,Providence,48,55,29,26,1,Ryan Woods made Layup.
+NJIT,Providence,48,55,29,51,0,Kadeem Batts missed Three Point Jumper.
+NJIT,Providence,48,55,29,51,0,Ky Howard Block.
+NJIT,Providence,48,55,29,52,0,Providence Offensive Rebound.
+NJIT,Providence,48,55,29,55,0,Josh Fortune Turnover.
+NJIT,Providence,48,55,30,23,0,Ryan Woods missed Three Point Jumper.
+NJIT,Providence,48,55,30,23,0,Lee Goldsbrough Defensive Rebound.
+NJIT,Providence,48,55,30,33,0,LaDontae Henton Turnover.
+NJIT,Providence,48,55,30,33,0,Terrence Smith Steal.
+NJIT,Providence,48,55,30,36,0,Ky Howard Turnover.
+NJIT,Providence,48,55,30,36,0,Foul on Ky Howard
+NJIT,Providence,48,57,30,49,1,Kadeem Batts made Layup.
+NJIT,Providence,50,57,31,10,1,Ryan Woods made Jumper.
+NJIT,Providence,50,57,31,26,0,Bryce Cotton Turnover.
+NJIT,Providence,50,57,31,27,0,Ryan Woods Steal.
+NJIT,Providence,50,57,31,28,0,Foul on Lee Goldsbrough
+NJIT,Providence,50,57,31,40,0,Nigel Sydnor missed Layup.
+NJIT,Providence,50,57,31,40,0,Josh Fortune Defensive Rebound.
+NJIT,Providence,50,57,31,47,0,Josh Fortune missed Layup.
+NJIT,Providence,50,57,31,47,0,Terrence Smith Defensive Rebound.
+NJIT,Providence,50,57,31,53,0,Ky Howard missed Jumper.
+NJIT,Providence,50,57,31,53,0,Providence Defensive Rebound.
+NJIT,Providence,50,57,32,15,0,Foul on Nigel Sydnor
+NJIT,Providence,50,57,32,15,0,Providence Full Timeout.
+NJIT,Providence,50,57,32,15,0,Brice Kofane missed Free Throw.
+NJIT,Providence,50,57,32,15,0,LaDontae Henton Offensive Rebound.
+NJIT,Providence,50,57,32,18,0,Foul on Terrence Smith
+NJIT,Providence,50,57,32,18,0,Brice Kofane missed Free Throw.
+NJIT,Providence,50,57,32,18,0,null
+NJIT,Providence,50,58,32,18,1,Brice Kofane made Free Throw.
+NJIT,Providence,52,58,32,27,1,Ryan Woods made Jumper.  Assisted by Pj Miller.
+NJIT,Providence,52,60,32,53,1,Bryce Cotton made Layup.
+NJIT,Providence,52,60,33,7,0,Pj Miller missed Layup.
+NJIT,Providence,52,60,33,7,0,Kadeem Batts Defensive Rebound.
+NJIT,Providence,52,60,33,18,0,Josh Fortune missed Jumper.
+NJIT,Providence,52,60,33,18,0,N.J.I.T. Defensive Rebound.
+NJIT,Providence,52,60,33,31,0,Ryan Woods missed Three Point Jumper.
+NJIT,Providence,52,60,33,31,0,Bryce Cotton Defensive Rebound.
+NJIT,Providence,52,60,33,43,0,Kadeem Batts missed Jumper.
+NJIT,Providence,52,60,33,43,0,Nigel Sydnor Defensive Rebound.
+NJIT,Providence,55,60,34,1,1,Chris Flores made Three Point Jumper.  Assisted by Pj Miller.
+NJIT,Providence,55,60,34,29,0,Bryce Cotton missed Three Point Jumper.
+NJIT,Providence,55,60,34,29,0,Pj Miller Defensive Rebound.
+NJIT,Providence,57,60,34,35,1,Chris Flores made Layup.  Assisted by Pj Miller.
+NJIT,Providence,57,60,34,36,0,N.J.I.T. Full Timeout.
+NJIT,Providence,57,60,34,54,0,Bryce Cotton missed Jumper.
+NJIT,Providence,57,60,34,54,0,Kadeem Batts Offensive Rebound.
+NJIT,Providence,57,60,34,55,0,Foul on Ky Howard
+NJIT,Providence,57,61,34,55,1,Kadeem Batts made Free Throw.
+NJIT,Providence,57,62,34,55,1,Kadeem Batts made Free Throw.
+NJIT,Providence,60,62,35,13,1,Ryan Woods made Three Point Jumper.  Assisted by Pj Miller.
+NJIT,Providence,60,62,35,32,0,LaDontae Henton missed Jumper.
+NJIT,Providence,60,62,35,32,0,Kadeem Batts Offensive Rebound.
+NJIT,Providence,60,62,35,40,0,Kadeem Batts missed Layup.
+NJIT,Providence,60,62,35,40,0,Terrence Smith Defensive Rebound.
+NJIT,Providence,63,62,35,43,1,Chris Flores made Three Point Jumper.  Assisted by Terrence Smith.
+NJIT,Providence,63,62,36,5,0,Josh Fortune missed Three Point Jumper.
+NJIT,Providence,63,62,36,5,0,Chris Flores Defensive Rebound.
+NJIT,Providence,63,62,36,38,0,Quentin Bastian missed Jumper.
+NJIT,Providence,63,62,36,38,0,Providence Defensive Rebound.
+NJIT,Providence,63,62,36,40,0,Providence Full Timeout.
+NJIT,Providence,63,62,37,5,0,LaDontae Henton missed Three Point Jumper.
+NJIT,Providence,63,62,37,5,0,Sean McCarthy Defensive Rebound.
+NJIT,Providence,63,62,37,34,0,Foul on Brice Kofane
+NJIT,Providence,63,62,37,37,0,Chris Flores missed Jumper.
+NJIT,Providence,63,62,37,37,0,Kadeem Batts Defensive Rebound.
+NJIT,Providence,63,62,37,41,0,Foul on Terrence Smith
+NJIT,Providence,63,62,37,41,0,Bryce Cotton missed Free Throw.
+NJIT,Providence,63,62,37,41,0,null
+NJIT,Providence,63,63,37,41,1,Bryce Cotton made Free Throw.
+NJIT,Providence,63,63,37,56,0,Terrence Smith missed Jumper.
+NJIT,Providence,63,63,37,56,0,LaDontae Henton Defensive Rebound.
+NJIT,Providence,63,63,38,6,0,Providence Full Timeout.
+NJIT,Providence,63,63,38,27,0,Bryce Cotton missed Layup.
+NJIT,Providence,63,63,38,27,0,Terrence Smith Defensive Rebound.
+NJIT,Providence,63,63,38,28,0,Foul on Brice Kofane
+NJIT,Providence,63,63,38,55,0,Chris Flores missed Jumper.
+NJIT,Providence,63,63,38,55,0,LaDontae Henton Block.
+NJIT,Providence,63,63,38,57,0,Bryce Cotton Defensive Rebound.
+NJIT,Providence,63,63,39,0,0,Bryce Cotton missed Layup.
+NJIT,Providence,63,63,39,0,0,LaDontae Henton Offensive Rebound.
+NJIT,Providence,63,63,39,5,0,LaDontae Henton Turnover.
+NJIT,Providence,63,63,39,5,0,N.J.I.T. Full Timeout.
+NJIT,Providence,63,63,39,14,0,Chris Flores missed Three Point Jumper.
+NJIT,Providence,63,63,39,14,0,Terrence Smith Offensive Rebound.
+NJIT,Providence,63,63,39,28,0,Pj Miller missed Jumper.
+NJIT,Providence,63,63,39,28,0,Kadeem Batts Defensive Rebound.
+NJIT,Providence,63,63,39,38,0,Providence Full Timeout.
+NJIT,Providence,63,63,39,55,0,Foul on Chris Flores
+NJIT,Providence,63,64,39,55,1,Bryce Cotton made Free Throw.
+NJIT,Providence,63,64,39,56,0,Bryce Cotton missed Free Throw.
+NJIT,Providence,63,64,39,56,0,Terrence Smith Defensive Rebound.
+NJIT,Providence,63,64,39,57,0,Pj Miller missed Three Point Jumper.
+NJIT,Providence,63,64,39,57,0,Providence Defensive Rebound.
+NJIT,Providence,63,64,40,0,0,End Game

@@ -1,0 +1,335 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+California,USC,0,0,0,0,0,Jump Ball won by USC
+California,USC,0,2,0,13,1,Jordan McLaughlin made Layup.
+California,USC,0,2,0,36,0,Jabari Bird Turnover.
+California,USC,0,2,0,50,0,Foul on Ivan Rabb.
+California,USC,0,2,0,52,0,Jordan McLaughlin missed Three Point Jumper.
+California,USC,0,2,0,52,0,Jabari Bird Defensive Rebound.
+California,USC,0,2,1,15,0,Kameron Rooks missed Jumper.
+California,USC,0,2,1,15,0,De'Anthony Melton Defensive Rebound.
+California,USC,0,2,1,20,0,Foul on Kameron Rooks.
+California,USC,0,3,1,20,1,Nick Rakocevic made Free Throw.
+California,USC,0,3,1,20,0,Nick Rakocevic missed Free Throw.
+California,USC,0,3,1,20,0,Ivan Rabb Defensive Rebound.
+California,USC,0,3,1,43,0,Jabari Bird missed Three Point Jumper.
+California,USC,0,3,1,43,0,De'Anthony Melton Defensive Rebound.
+California,USC,0,5,1,51,1,Nick Rakocevic made Layup. Assisted by De'Anthony Melton.
+California,USC,2,5,2,16,1,Jabari Bird made Jumper.
+California,USC,2,5,2,41,0,Jordan McLaughlin missed Layup.
+California,USC,2,5,2,41,0,Kameron Rooks Defensive Rebound.
+California,USC,2,5,2,47,0,Foul on Grant Mullins.
+California,USC,2,5,2,47,0,Grant Mullins Turnover.
+California,USC,2,5,2,58,0,Chimezie Metu missed Jumper.
+California,USC,2,5,2,58,0,Grant Mullins Defensive Rebound.
+California,USC,5,5,3,8,1,Ivan Rabb made Three Point Jumper. Assisted by Grant Mullins.
+California,USC,5,5,3,34,0,Nick Rakocevic missed Jumper.
+California,USC,5,5,3,34,0,Kameron Rooks Defensive Rebound.
+California,USC,5,5,3,49,0,Ivan Rabb missed Jumper.
+California,USC,5,5,3,49,0,De'Anthony Melton Defensive Rebound.
+California,USC,5,5,3,57,0,Chimezie Metu missed Dunk.
+California,USC,5,5,3,57,0,Jabari Bird Defensive Rebound.
+California,USC,5,5,4,16,0,Kameron Rooks missed Jumper.
+California,USC,5,5,4,16,0,Grant Mullins Offensive Rebound.
+California,USC,7,5,4,27,1,Grant Mullins made Layup.
+California,USC,7,5,4,42,0,De'Anthony Melton missed Three Point Jumper.
+California,USC,7,5,4,42,0,Kameron Rooks Defensive Rebound.
+California,USC,7,5,4,49,0,Kameron Rooks Turnover.
+California,USC,7,5,4,49,0,De'Anthony Melton Steal.
+California,USC,7,8,4,54,1,Jordan McLaughlin made Three Point Jumper. Assisted by De'Anthony Melton.
+California,USC,7,8,5,17,0,Charlie Moore missed Layup.
+California,USC,7,8,5,17,0,Ivan Rabb Offensive Rebound.
+California,USC,9,8,5,23,1,Ivan Rabb made Dunk.
+California,USC,9,8,5,32,0,Nick Rakocevic Turnover.
+California,USC,9,8,5,32,0,Ivan Rabb Steal.
+California,USC,9,8,5,32,0,Grant Mullins missed Layup.
+California,USC,9,8,5,32,0,De'Anthony Melton Block.
+California,USC,9,8,5,32,0,California Offensive Rebound.
+California,USC,9,8,5,35,0,Official TV Timeout
+California,USC,9,8,5,55,0,Grant Mullins missed Three Point Jumper.
+California,USC,9,8,5,55,0,Kingsley Okoroh Offensive Rebound.
+California,USC,11,8,5,59,1,Kingsley Okoroh made Layup.
+California,USC,11,8,5,59,0,Foul on Charles Buggs.
+California,USC,11,8,5,59,0,Kingsley Okoroh missed Free Throw.
+California,USC,11,8,5,59,0,Chimezie Metu Defensive Rebound.
+California,USC,11,8,6,12,0,Chimezie Metu missed Jumper.
+California,USC,11,8,6,12,0,Sam Singer Defensive Rebound.
+California,USC,11,8,6,20,0,Don Coleman missed Three Point Jumper.
+California,USC,11,8,6,20,0,Jordan McLaughlin Defensive Rebound.
+California,USC,11,8,6,28,0,Jordan McLaughlin Turnover.
+California,USC,11,8,6,28,0,Ivan Rabb Steal.
+California,USC,11,8,6,31,0,Foul on Chimezie Metu.
+California,USC,13,8,6,54,1,Don Coleman made Layup.
+California,USC,13,10,7,10,1,De'Anthony Melton made Jumper.
+California,USC,13,10,7,29,0,Sam Singer missed Layup.
+California,USC,13,10,7,29,0,Kingsley Okoroh Offensive Rebound.
+California,USC,13,10,7,29,0,Kingsley Okoroh missed Two Point Tip Shot.
+California,USC,13,10,7,29,0,USC Deadball Team Rebound.
+California,USC,13,10,7,31,0,Foul on Kingsley Okoroh.
+California,USC,13,10,7,41,0,De'Anthony Melton missed Three Point Jumper.
+California,USC,13,10,7,41,0,Jabari Bird Defensive Rebound.
+California,USC,13,10,7,50,0,Grant Mullins missed Three Point Jumper.
+California,USC,13,10,7,50,0,De'Anthony Melton Defensive Rebound.
+California,USC,13,12,8,6,1,Jonah Mathews made Jumper. Assisted by De'Anthony Melton.
+California,USC,16,12,8,29,1,Don Coleman made Three Point Jumper. Assisted by Sam Singer.
+California,USC,16,12,8,54,0,Foul on Shaqquan Aaron.
+California,USC,16,12,8,54,0,Shaqquan Aaron Turnover.
+California,USC,16,12,8,58,0,Official TV Timeout
+California,USC,16,12,9,10,0,Don Coleman missed Jumper.
+California,USC,16,12,9,10,0,Kingsley Okoroh Offensive Rebound.
+California,USC,16,12,9,20,0,Kingsley Okoroh missed Layup.
+California,USC,16,12,9,20,0,Jonah Mathews Defensive Rebound.
+California,USC,16,12,9,20,0,Jonah Mathews Turnover.
+California,USC,16,12,9,20,0,Charlie Moore Steal.
+California,USC,18,12,9,31,1,Grant Mullins made Jumper.
+California,USC,18,12,10,0,0,Chimezie Metu missed Layup.
+California,USC,18,12,10,0,0,Jabari Bird Defensive Rebound.
+California,USC,18,12,10,15,0,Charlie Moore missed Three Point Jumper.
+California,USC,18,12,10,15,0,Chimezie Metu Defensive Rebound.
+California,USC,18,14,10,25,1,Jordan McLaughlin made Layup.
+California,USC,18,14,10,40,0,Foul on Jonah Mathews.
+California,USC,18,14,10,42,0,Ivan Rabb missed Jumper.
+California,USC,18,14,10,42,0,Kameron Rooks Offensive Rebound.
+California,USC,20,14,10,59,1,Kameron Rooks made Layup. Assisted by Grant Mullins.
+California,USC,20,16,11,14,1,Chimezie Metu made Jumper.
+California,USC,23,16,11,38,1,Grant Mullins made Three Point Jumper. Assisted by Sam Singer.
+California,USC,23,18,11,52,1,Chimezie Metu made Layup.
+California,USC,23,18,12,18,0,Sam Singer missed Three Point Jumper.
+California,USC,23,18,12,18,0,Nick Rakocevic Defensive Rebound.
+California,USC,23,20,12,30,1,Chimezie Metu made Jumper. Assisted by De'Anthony Melton.
+California,USC,25,20,13,2,1,Charlie Moore made Layup.
+California,USC,25,22,13,13,1,Chimezie Metu made Jumper.
+California,USC,25,22,13,26,0,Charlie Moore Turnover.
+California,USC,25,22,13,26,0,De'Anthony Melton Steal.
+California,USC,25,22,13,28,0,Foul on Charlie Moore.
+California,USC,25,22,13,28,0,Official TV Timeout
+California,USC,25,24,13,43,1,Chimezie Metu made Jumper.
+California,USC,25,24,14,10,0,Ivan Rabb Turnover.
+California,USC,25,24,14,10,0,De'Anthony Melton Steal.
+California,USC,25,24,14,14,0,Foul on Don Coleman.
+California,USC,25,25,14,14,1,De'Anthony Melton made Free Throw.
+California,USC,25,26,14,14,1,De'Anthony Melton made Free Throw.
+California,USC,25,26,14,16,0,Foul on Grant Mullins.
+California,USC,25,26,14,16,0,Jordan McLaughlin missed Free Throw.
+California,USC,25,26,14,16,0,USC Deadball Team Rebound.
+California,USC,25,27,14,16,1,Jordan McLaughlin made Free Throw.
+California,USC,27,27,14,27,1,Ivan Rabb made Layup. Assisted by Kingsley Okoroh.
+California,USC,27,29,14,45,1,Elijah Stewart made Jumper.
+California,USC,27,29,15,14,0,Ivan Rabb missed Jumper.
+California,USC,27,29,15,14,0,Chimezie Metu Block.
+California,USC,27,29,15,14,0,California Offensive Rebound.
+California,USC,29,29,15,16,1,Ivan Rabb made Jumper. Assisted by Charlie Moore.
+California,USC,29,31,15,39,1,Jordan McLaughlin made Jumper.
+California,USC,29,31,16,6,0,Jabari Bird missed Three Point Jumper.
+California,USC,29,31,16,6,0,Elijah Stewart Defensive Rebound.
+California,USC,29,31,16,15,0,Foul on Elijah Stewart.
+California,USC,29,31,16,15,0,Elijah Stewart Turnover.
+California,USC,29,31,16,15,0,Official TV Timeout
+California,USC,31,31,16,37,1,Kingsley Okoroh made Jumper.
+California,USC,31,31,16,37,0,Foul on Charles Buggs.
+California,USC,31,31,16,37,0,Kingsley Okoroh missed Free Throw.
+California,USC,31,31,16,37,0,Jabari Bird Offensive Rebound.
+California,USC,31,31,16,55,0,Foul on Kingsley Okoroh.
+California,USC,31,31,16,55,0,Kingsley Okoroh Turnover.
+California,USC,31,31,17,3,0,Foul on Charlie Moore.
+California,USC,31,31,17,3,0,De'Anthony Melton missed Free Throw.
+California,USC,31,31,17,3,0,Ivan Rabb Defensive Rebound.
+California,USC,31,31,17,28,0,Kameron Rooks missed Jumper.
+California,USC,31,31,17,28,0,De'Anthony Melton Block.
+California,USC,31,31,17,28,0,De'Anthony Melton Defensive Rebound.
+California,USC,31,31,17,28,0,De'Anthony Melton Turnover.
+California,USC,33,31,17,38,1,Don Coleman made Layup.
+California,USC,33,31,17,38,0,Foul on Nick Rakocevic.
+California,USC,34,31,17,38,1,Don Coleman made Free Throw.
+California,USC,34,31,17,56,0,Foul on Kameron Rooks.
+California,USC,34,31,17,56,0,Nick Rakocevic missed Free Throw.
+California,USC,34,31,17,56,0,USC Deadball Team Rebound.
+California,USC,34,31,17,56,0,Nick Rakocevic missed Free Throw.
+California,USC,34,31,17,56,0,Ivan Rabb Defensive Rebound.
+California,USC,34,31,18,4,0,California  Timeout
+California,USC,34,31,18,20,0,Sam Singer missed Three Point Jumper.
+California,USC,34,31,18,20,0,Nick Rakocevic Defensive Rebound.
+California,USC,34,33,18,35,1,Elijah Stewart made Jumper.
+California,USC,34,33,18,55,0,Don Coleman missed Jumper.
+California,USC,34,33,18,55,0,Kameron Rooks Offensive Rebound.
+California,USC,36,33,18,55,1,Kameron Rooks made Two Point Tip Shot.
+California,USC,36,33,19,10,0,Elijah Stewart missed Jumper.
+California,USC,36,33,19,10,0,USC Offensive Rebound.
+California,USC,36,33,19,19,0,Jordan McLaughlin missed Three Point Jumper.
+California,USC,36,33,19,19,0,Nick Rakocevic Offensive Rebound.
+California,USC,36,33,19,19,0,Nick Rakocevic missed Two Point Tip Shot.
+California,USC,36,33,19,19,0,Ivan Rabb Defensive Rebound.
+California,USC,36,33,19,40,0,Don Coleman missed Three Point Jumper.
+California,USC,36,33,19,40,0,California Deadball Team Rebound.
+California,USC,36,33,19,42,0,Foul on Elijah Stewart.
+California,USC,36,33,19,42,0,Kameron Rooks missed Free Throw.
+California,USC,36,33,19,42,0,Nick Rakocevic Defensive Rebound.
+California,USC,36,33,19,45,0,USC  Timeout
+California,USC,36,33,19,53,0,Elijah Stewart Turnover.
+California,USC,36,33,19,53,0,Sam Singer Steal.
+California,USC,36,33,19,56,0,Ivan Rabb Turnover.
+California,USC,36,36,19,56,1,Jordan McLaughlin made Three Point Jumper.
+California,USC,36,36,20,0,0,End of 1st half
+California,USC,36,36,20,0,0,Jump Ball won by California
+California,USC,38,36,20,22,1,Charlie Moore made Layup.
+California,USC,38,36,20,42,0,Nick Rakocevic Turnover.
+California,USC,38,36,20,42,0,Jabari Bird Steal.
+California,USC,40,36,20,54,1,Kingsley Okoroh made Dunk. Assisted by Ivan Rabb.
+California,USC,40,36,21,15,0,Elijah Stewart missed Jumper.
+California,USC,40,36,21,15,0,Kingsley Okoroh Defensive Rebound.
+California,USC,40,36,21,35,0,Foul on Kingsley Okoroh.
+California,USC,40,36,21,35,0,Kingsley Okoroh Turnover.
+California,USC,40,38,21,52,1,Charles Buggs made Layup. Assisted by Jordan McLaughlin.
+California,USC,43,38,22,8,1,Charlie Moore made Three Point Jumper. Assisted by Grant Mullins.
+California,USC,43,40,22,30,1,Chimezie Metu made Layup. Assisted by Jordan McLaughlin.
+California,USC,43,40,22,38,0,Grant Mullins missed Three Point Jumper.
+California,USC,43,40,22,38,0,Ivan Rabb Offensive Rebound.
+California,USC,46,40,22,46,1,Jabari Bird made Three Point Jumper. Assisted by Charlie Moore.
+California,USC,46,43,23,8,1,Jordan McLaughlin made Three Point Jumper. Assisted by Elijah Stewart.
+California,USC,48,43,23,34,1,Ivan Rabb made Layup.
+California,USC,48,43,23,52,0,Charles Buggs missed Layup.
+California,USC,48,43,23,52,0,Kingsley Okoroh Block.
+California,USC,48,43,23,52,0,Charles Buggs Offensive Rebound.
+California,USC,48,43,23,55,0,Charles Buggs Turnover.
+California,USC,48,43,23,55,0,Jabari Bird Steal.
+California,USC,48,43,23,55,0,Foul on Charles Buggs.
+California,USC,50,43,24,18,1,Ivan Rabb made Dunk. Assisted by Charlie Moore.
+California,USC,50,43,24,23,0,Foul on Elijah Stewart.
+California,USC,50,43,24,23,0,Official TV Timeout
+California,USC,51,43,24,23,1,Ivan Rabb made Free Throw.
+California,USC,51,43,24,44,0,Jordan McLaughlin missed Jumper.
+California,USC,51,43,24,44,0,Charlie Moore Defensive Rebound.
+California,USC,51,43,24,52,0,Foul on Kameron Rooks.
+California,USC,51,43,24,52,0,Kameron Rooks Turnover.
+California,USC,51,43,25,4,0,Foul on Kameron Rooks.
+California,USC,51,44,25,4,1,Chimezie Metu made Free Throw.
+California,USC,51,45,25,4,1,Chimezie Metu made Free Throw.
+California,USC,51,45,25,14,0,Foul on De'Anthony Melton.
+California,USC,51,45,25,35,0,Jabari Bird missed Three Point Jumper.
+California,USC,51,45,25,35,0,Nick Rakocevic Defensive Rebound.
+California,USC,51,47,25,45,1,De'Anthony Melton made Jumper.
+California,USC,51,47,26,17,0,Jabari Bird Turnover.
+California,USC,51,47,26,17,0,Chimezie Metu Steal.
+California,USC,51,47,26,22,0,Foul on Jabari Bird.
+California,USC,51,49,26,31,1,Chimezie Metu made Dunk. Assisted by Jordan McLaughlin.
+California,USC,51,49,26,52,0,Grant Mullins missed Three Point Jumper.
+California,USC,51,49,26,52,0,Chimezie Metu Defensive Rebound.
+California,USC,51,49,27,4,0,Foul on Grant Mullins.
+California,USC,51,49,27,4,0,Jordan McLaughlin missed Free Throw.
+California,USC,51,49,27,4,0,USC Deadball Team Rebound.
+California,USC,51,50,27,4,1,Jordan McLaughlin made Free Throw.
+California,USC,51,50,27,22,0,Kingsley Okoroh missed Jumper.
+California,USC,51,50,27,22,0,USC Deadball Team Rebound.
+California,USC,51,50,27,24,0,Foul on Ivan Rabb.
+California,USC,51,50,27,37,0,Chimezie Metu Turnover.
+California,USC,51,50,27,37,0,Ivan Rabb Steal.
+California,USC,51,50,27,41,0,Charlie Moore Turnover.
+California,USC,51,50,27,41,0,Chimezie Metu Steal.
+California,USC,51,53,27,51,1,Shaqquan Aaron made Three Point Jumper.
+California,USC,53,53,28,16,1,Don Coleman made Jumper.
+California,USC,53,53,28,16,0,Foul on Nick Rakocevic.
+California,USC,53,53,28,22,0,Official TV Timeout
+California,USC,53,53,28,22,0,Don Coleman missed Free Throw.
+California,USC,53,53,28,22,0,Shaqquan Aaron Defensive Rebound.
+California,USC,53,53,28,35,0,Jordan McLaughlin missed Jumper.
+California,USC,53,53,28,35,0,Kingsley Okoroh Block.
+California,USC,53,53,28,35,0,Shaqquan Aaron Offensive Rebound.
+California,USC,53,53,28,38,0,Foul on Ivan Rabb.
+California,USC,53,54,28,38,1,Shaqquan Aaron made Free Throw.
+California,USC,53,54,28,38,0,Shaqquan Aaron missed Free Throw.
+California,USC,53,54,28,38,0,Sam Singer Defensive Rebound.
+California,USC,55,54,28,58,1,Don Coleman made Layup.
+California,USC,55,54,29,10,0,Chimezie Metu missed Jumper.
+California,USC,55,54,29,10,0,Jabari Bird Defensive Rebound.
+California,USC,55,54,29,36,0,Jabari Bird missed Three Point Jumper.
+California,USC,55,54,29,36,0,Chimezie Metu Defensive Rebound.
+California,USC,55,56,29,59,1,Shaqquan Aaron made Jumper.
+California,USC,55,56,30,16,0,Foul on Ivan Rabb.
+California,USC,55,56,30,16,0,Ivan Rabb Turnover.
+California,USC,55,58,30,23,1,Chimezie Metu made Jumper. Assisted by Jordan McLaughlin.
+California,USC,55,58,30,43,0,Jabari Bird missed Jumper.
+California,USC,55,58,30,43,0,Kameron Rooks Offensive Rebound.
+California,USC,58,58,30,55,1,Charlie Moore made Three Point Jumper. Assisted by Don Coleman.
+California,USC,58,58,31,14,0,Chimezie Metu missed Jumper.
+California,USC,58,58,31,14,0,Chimezie Metu Offensive Rebound.
+California,USC,58,61,31,20,1,De'Anthony Melton made Three Point Jumper. Assisted by Chimezie Metu.
+California,USC,61,61,31,49,1,Jabari Bird made Three Point Jumper. Assisted by Grant Mullins.
+California,USC,61,61,32,16,0,Shaqquan Aaron missed Jumper.
+California,USC,61,61,32,16,0,USC Deadball Team Rebound.
+California,USC,61,61,32,24,0,Foul on Grant Mullins.
+California,USC,61,62,32,24,1,De'Anthony Melton made Free Throw.
+California,USC,61,62,32,24,0,De'Anthony Melton missed Free Throw.
+California,USC,61,62,32,24,0,Grant Mullins Defensive Rebound.
+California,USC,61,62,32,26,0,Official TV Timeout
+California,USC,63,62,32,46,1,Charlie Moore made Layup.
+California,USC,63,64,33,1,1,Chimezie Metu made Jumper.
+California,USC,63,64,33,22,0,Foul on Elijah Stewart.
+California,USC,63,64,33,22,0,Jabari Bird missed Free Throw.
+California,USC,63,64,33,22,0,California Deadball Team Rebound.
+California,USC,64,64,33,22,1,Jabari Bird made Free Throw.
+California,USC,64,64,33,39,0,Jordan McLaughlin missed Jumper.
+California,USC,64,64,33,39,0,Ivan Rabb Defensive Rebound.
+California,USC,64,64,33,55,0,Don Coleman missed Jumper.
+California,USC,64,64,33,55,0,De'Anthony Melton Defensive Rebound.
+California,USC,64,67,34,4,1,De'Anthony Melton made Three Point Jumper. Assisted by Chimezie Metu.
+California,USC,64,67,34,40,0,Jabari Bird missed Jumper.
+California,USC,64,67,34,40,0,Nick Rakocevic Block.
+California,USC,64,67,34,41,0,California  Turnover.
+California,USC,64,67,34,57,0,Nick Rakocevic Turnover.
+California,USC,64,67,35,13,0,Ivan Rabb missed Layup.
+California,USC,64,67,35,13,0,Chimezie Metu Defensive Rebound.
+California,USC,64,67,35,22,0,De'Anthony Melton missed Layup.
+California,USC,64,67,35,22,0,Jonah Mathews Offensive Rebound.
+California,USC,64,67,35,28,0,Jonah Mathews missed Layup.
+California,USC,64,67,35,28,0,De'Anthony Melton Offensive Rebound.
+California,USC,64,67,35,28,0,De'Anthony Melton missed Layup.
+California,USC,64,67,35,28,0,Kingsley Okoroh Block.
+California,USC,64,67,35,28,0,Grant Mullins Defensive Rebound.
+California,USC,64,67,35,28,0,Foul on Nick Rakocevic.
+California,USC,64,67,35,43,0,Foul on Nick Rakocevic.
+California,USC,64,67,35,43,0,Charlie Moore missed Free Throw.
+California,USC,64,67,35,43,0,California Deadball Team Rebound.
+California,USC,65,67,35,43,1,Charlie Moore made Free Throw.
+California,USC,65,67,35,56,0,Foul on Kingsley Okoroh.
+California,USC,65,68,35,56,1,Jordan McLaughlin made Free Throw.
+California,USC,65,68,35,56,0,Jordan McLaughlin missed Free Throw.
+California,USC,65,68,35,56,0,Ivan Rabb Defensive Rebound.
+California,USC,68,68,36,15,1,Charlie Moore made Three Point Jumper. Assisted by Ivan Rabb.
+California,USC,68,68,36,27,0,USC  Timeout
+California,USC,68,71,36,39,1,Elijah Stewart made Three Point Jumper. Assisted by Jordan McLaughlin.
+California,USC,68,71,36,59,0,Foul on Chimezie Metu.
+California,USC,68,71,36,59,0,Official TV Timeout
+California,USC,69,71,36,59,1,Ivan Rabb made Free Throw.
+California,USC,69,71,36,59,0,Ivan Rabb missed Free Throw.
+California,USC,69,71,36,59,0,De'Anthony Melton Defensive Rebound.
+California,USC,69,71,37,15,0,Jordan McLaughlin missed Layup.
+California,USC,69,71,37,15,0,Ivan Rabb Block.
+California,USC,69,71,37,15,0,Jabari Bird Defensive Rebound.
+California,USC,72,71,37,41,1,Jabari Bird made Three Point Jumper. Assisted by Grant Mullins.
+California,USC,72,71,38,11,0,De'Anthony Melton missed Three Point Jumper.
+California,USC,72,71,38,11,0,Jonah Mathews Offensive Rebound.
+California,USC,72,71,38,26,0,USC  Timeout
+California,USC,72,71,38,43,0,Jordan McLaughlin Turnover.
+California,USC,72,71,39,13,0,Jabari Bird missed Three Point Jumper.
+California,USC,72,71,39,13,0,California Deadball Team Rebound.
+California,USC,72,71,39,13,0,California  Turnover.
+California,USC,72,71,39,23,0,USC  Timeout
+California,USC,72,71,39,30,0,Foul on Kingsley Okoroh.
+California,USC,72,71,39,30,0,Jordan McLaughlin missed Free Throw.
+California,USC,72,71,39,30,0,USC Deadball Team Rebound.
+California,USC,72,71,39,30,0,Jordan McLaughlin missed Free Throw.
+California,USC,72,71,39,30,0,Jabari Bird Defensive Rebound.
+California,USC,72,71,39,31,0,Charlie Moore Turnover.
+California,USC,72,71,39,31,0,Elijah Stewart Steal.
+California,USC,72,71,39,36,0,Jordan McLaughlin missed Layup.
+California,USC,72,71,39,36,0,Jabari Bird Block.
+California,USC,72,71,39,36,0,USC Offensive Rebound.
+California,USC,72,73,39,40,1,Jordan McLaughlin made Layup.
+California,USC,72,73,39,46,0,California  Timeout
+California,USC,72,73,39,55,0,Foul on Chimezie Metu.
+California,USC,73,73,39,55,1,Ivan Rabb made Free Throw.
+California,USC,74,73,39,55,1,Ivan Rabb made Free Throw.
+California,USC,74,73,39,55,0,California  Timeout
+California,USC,74,73,39,58,0,Jordan McLaughlin missed Jumper.
+California,USC,74,73,39,58,0,Ivan Rabb Block.
+California,USC,74,73,39,58,0,USC Offensive Rebound.
+California,USC,74,73,40,0,0,End of Game

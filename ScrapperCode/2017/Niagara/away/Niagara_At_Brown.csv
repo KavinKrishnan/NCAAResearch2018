@@ -1,0 +1,367 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Niagara,Brown,2,0,0,18,1,Maurice Taylor Jr. made Layup.
+Niagara,Brown,2,2,0,39,1,Joshua Howard made Layup. Assisted by Tavon Blackmon.
+Niagara,Brown,4,2,1,3,1,Kahlil Dukes made Jumper.
+Niagara,Brown,4,2,1,18,0,Foul on Dominic Robb.
+Niagara,Brown,4,2,1,30,0,Foul on Maurice Taylor Jr..
+Niagara,Brown,4,3,1,30,1,Joshua Howard made Free Throw.
+Niagara,Brown,4,3,1,30,0,Joshua Howard missed Free Throw.
+Niagara,Brown,4,3,1,30,0,Dominic Robb Defensive Rebound.
+Niagara,Brown,6,3,1,51,1,Kahlil Dukes made Jumper. Assisted by Matt Scott.
+Niagara,Brown,6,5,2,14,1,Steven Spieth made Jumper.
+Niagara,Brown,6,5,2,28,0,Foul on Brandon Anderson.
+Niagara,Brown,8,5,2,43,1,Dominic Robb made Jumper.
+Niagara,Brown,8,7,2,57,1,Joshua Howard made Layup. Assisted by Brandon Anderson.
+Niagara,Brown,8,7,3,19,0,Foul on Brandon Anderson.
+Niagara,Brown,8,7,3,34,0,Kahlil Dukes missed Three Point Jumper.
+Niagara,Brown,8,7,3,34,0,Dominic Robb Offensive Rebound.
+Niagara,Brown,8,7,3,51,0,Dominic Robb Turnover.
+Niagara,Brown,8,7,3,52,0,Steven Spieth Steal.
+Niagara,Brown,8,9,3,57,1,Joshua Howard made Layup.
+Niagara,Brown,8,9,3,57,0,Foul on Matt Scott.
+Niagara,Brown,8,10,3,57,1,Joshua Howard made Free Throw.
+Niagara,Brown,8,10,4,5,0,Foul on Joshua Howard.
+Niagara,Brown,8,10,4,5,0,Official TV Timeout
+Niagara,Brown,9,10,4,5,1,Maurice Taylor Jr. made Free Throw.
+Niagara,Brown,10,10,4,5,1,Maurice Taylor Jr. made Free Throw.
+Niagara,Brown,10,10,4,25,0,Joshua Howard missed Jumper.
+Niagara,Brown,10,10,4,25,0,Matt Scott Defensive Rebound.
+Niagara,Brown,12,10,4,41,1,Dominic Robb made Layup.
+Niagara,Brown,12,10,5,0,0,Tavon Blackmon missed Layup.
+Niagara,Brown,12,10,5,0,0,Joshua Howard Offensive Rebound.
+Niagara,Brown,12,10,5,2,0,Joshua Howard missed Layup.
+Niagara,Brown,12,10,5,2,0,Brown Offensive Rebound.
+Niagara,Brown,12,12,5,7,1,Joshua Howard made Layup. Assisted by Steven Spieth.
+Niagara,Brown,12,12,5,17,0,Foul on Tavon Blackmon.
+Niagara,Brown,14,12,5,24,1,James Towns made Layup.
+Niagara,Brown,14,12,5,24,0,Foul on Travis Fuller.
+Niagara,Brown,15,12,5,24,1,James Towns made Free Throw.
+Niagara,Brown,15,14,5,35,1,Obi Okolie made Layup. Assisted by Steven Spieth.
+Niagara,Brown,17,14,5,48,1,Kahlil Dukes made Jumper. Assisted by Matt Scott.
+Niagara,Brown,17,14,6,0,0,JR Hobbie Turnover.
+Niagara,Brown,17,14,6,20,0,Matt Scott missed Three Point Jumper.
+Niagara,Brown,17,14,6,20,0,Travis Fuller Defensive Rebound.
+Niagara,Brown,17,16,6,31,1,Tavon Blackmon made Layup.
+Niagara,Brown,17,16,7,1,0,Matt Scott missed Layup.
+Niagara,Brown,17,16,7,1,0,Travis Fuller Defensive Rebound.
+Niagara,Brown,17,16,7,6,0,Foul on James Towns.
+Niagara,Brown,17,16,7,17,0,JR Hobbie missed Three Point Jumper.
+Niagara,Brown,17,16,7,17,0,Dominic Robb Defensive Rebound.
+Niagara,Brown,17,16,7,31,0,Dominic Robb Turnover.
+Niagara,Brown,17,16,7,31,0,Foul on Dominic Robb.
+Niagara,Brown,17,18,7,47,1,Obi Okolie made Jumper.
+Niagara,Brown,19,18,8,6,1,Shane Gatling made Layup.
+Niagara,Brown,19,18,8,18,0,Travis Fuller Turnover.
+Niagara,Brown,19,18,8,18,0,Foul on Travis Fuller.
+Niagara,Brown,19,18,8,18,0,Official TV Timeout
+Niagara,Brown,19,18,8,48,0,Kahlil Dukes missed Three Point Jumper.
+Niagara,Brown,19,18,8,48,0,Obi Okolie Defensive Rebound.
+Niagara,Brown,19,18,8,50,0,Foul on Marvin Prochet.
+Niagara,Brown,19,20,9,2,1,Tavon Blackmon made Layup.
+Niagara,Brown,19,20,9,23,0,Shane Gatling Turnover.
+Niagara,Brown,19,20,9,38,0,Foul on Shane Gatling.
+Niagara,Brown,19,21,9,38,1,Steven Spieth made Free Throw.
+Niagara,Brown,19,22,9,38,1,Steven Spieth made Free Throw.
+Niagara,Brown,19,22,9,59,0,Ali Tew Turnover.
+Niagara,Brown,19,22,10,17,0,Joshua Howard missed Three Point Jumper.
+Niagara,Brown,19,22,10,17,0,Matt Scott Defensive Rebound.
+Niagara,Brown,19,22,10,27,0,Foul on Corey Daugherty.
+Niagara,Brown,20,22,10,27,1,Dwayne Pow made Free Throw.
+Niagara,Brown,20,22,10,27,0,Dwayne Pow missed Free Throw.
+Niagara,Brown,20,22,10,27,0,Chris Sullivan Defensive Rebound.
+Niagara,Brown,20,22,10,42,0,Steven Spieth missed Three Point Jumper.
+Niagara,Brown,20,22,10,42,0,Kevin Larkin Defensive Rebound.
+Niagara,Brown,22,22,11,1,1,Marvin Prochet made Layup. Assisted by Dwayne Pow.
+Niagara,Brown,22,22,11,11,0,Tavon Blackmon Turnover.
+Niagara,Brown,22,22,11,19,0,Matt Scott Turnover.
+Niagara,Brown,22,22,11,20,0,Joshua Howard Steal.
+Niagara,Brown,22,22,11,20,0,Joshua Howard Turnover.
+Niagara,Brown,22,22,11,32,0,Foul on Obi Okolie.
+Niagara,Brown,22,22,11,32,0,Matt Scott missed Free Throw.
+Niagara,Brown,22,22,11,32,0,Chris Sullivan Defensive Rebound.
+Niagara,Brown,22,25,11,56,1,Chris Sullivan made Three Point Jumper. Assisted by Steven Spieth.
+Niagara,Brown,22,25,12,12,0,Kahlil Dukes missed Layup.
+Niagara,Brown,22,25,12,12,0,Chris Sullivan Defensive Rebound.
+Niagara,Brown,22,25,12,21,0,Foul on Marvin Prochet.
+Niagara,Brown,22,25,12,21,0,Official TV Timeout
+Niagara,Brown,22,26,12,21,1,Steven Spieth made Free Throw.
+Niagara,Brown,22,27,12,21,1,Steven Spieth made Free Throw.
+Niagara,Brown,22,27,12,42,0,Kevin Larkin missed Jumper.
+Niagara,Brown,22,27,12,42,0,Obi Okolie Defensive Rebound.
+Niagara,Brown,22,29,12,54,1,Joshua Howard made Layup.
+Niagara,Brown,22,29,13,19,0,Maurice Taylor Jr. Turnover.
+Niagara,Brown,22,29,13,19,0,Foul on Maurice Taylor Jr..
+Niagara,Brown,22,29,13,30,0,Brown  Timeout
+Niagara,Brown,22,29,13,34,0,Foul on Dwayne Pow.
+Niagara,Brown,22,30,13,34,1,Tavon Blackmon made Free Throw.
+Niagara,Brown,22,31,13,34,1,Tavon Blackmon made Free Throw.
+Niagara,Brown,24,31,13,40,1,Maurice Taylor Jr. made Layup. Assisted by Dwayne Pow.
+Niagara,Brown,24,31,14,1,0,Foul on Chris Barton.
+Niagara,Brown,24,31,14,1,0,Steven Spieth missed Free Throw.
+Niagara,Brown,24,31,14,1,0,Brown Deadball Team Rebound.
+Niagara,Brown,24,32,14,1,1,Steven Spieth made Free Throw.
+Niagara,Brown,24,32,14,7,0,Maurice Taylor Jr. Turnover.
+Niagara,Brown,24,32,14,21,0,Steven Spieth Turnover.
+Niagara,Brown,24,32,14,37,0,Foul on JR Hobbie.
+Niagara,Brown,25,32,14,37,1,Kahlil Dukes made Free Throw.
+Niagara,Brown,26,32,14,37,1,Kahlil Dukes made Free Throw.
+Niagara,Brown,26,32,14,55,0,Foul on Maurice Taylor Jr..
+Niagara,Brown,26,33,14,55,1,Steven Spieth made Free Throw.
+Niagara,Brown,26,34,14,55,1,Steven Spieth made Free Throw.
+Niagara,Brown,28,34,15,5,1,Matt Scott made Jumper.
+Niagara,Brown,28,34,15,24,0,Foul on Chris Barton.
+Niagara,Brown,28,34,15,24,0,Steven Spieth missed Free Throw.
+Niagara,Brown,28,34,15,24,0,Brown Deadball Team Rebound.
+Niagara,Brown,28,34,15,24,0,Steven Spieth missed Free Throw.
+Niagara,Brown,28,34,15,24,0,Chris Barton Defensive Rebound.
+Niagara,Brown,28,34,15,30,0,Foul on Tavon Blackmon.
+Niagara,Brown,29,34,15,30,1,Chris Barton made Free Throw.
+Niagara,Brown,29,34,15,30,0,Chris Barton missed Free Throw.
+Niagara,Brown,29,34,15,30,0,Joshua Howard Defensive Rebound.
+Niagara,Brown,29,36,15,51,1,Joshua Howard made Layup. Assisted by Steven Spieth.
+Niagara,Brown,32,36,16,9,1,Chris Barton made Three Point Jumper. Assisted by Matt Scott.
+Niagara,Brown,32,36,16,23,0,Steven Spieth missed Three Point Jumper.
+Niagara,Brown,32,36,16,23,0,Chris Sullivan Offensive Rebound.
+Niagara,Brown,32,36,16,36,0,Steven Spieth missed Jumper.
+Niagara,Brown,32,36,16,36,0,Matt Scott Defensive Rebound.
+Niagara,Brown,32,36,16,43,0,Kahlil Dukes Turnover.
+Niagara,Brown,32,36,16,44,0,Corey Daugherty Steal.
+Niagara,Brown,32,38,16,48,1,Corey Daugherty made Layup.
+Niagara,Brown,34,38,16,56,1,Matt Scott made Layup.
+Niagara,Brown,34,40,17,17,1,Obi Okolie made Jumper.
+Niagara,Brown,36,40,17,43,1,Maurice Taylor Jr. made Layup. Assisted by Kahlil Dukes.
+Niagara,Brown,36,40,17,44,0,Brown  Timeout
+Niagara,Brown,36,40,17,44,0,Official TV Timeout
+Niagara,Brown,36,40,17,58,0,Obi Okolie missed Layup.
+Niagara,Brown,36,40,17,58,0,Matt Scott Block.
+Niagara,Brown,36,40,17,59,0,Obi Okolie Offensive Rebound.
+Niagara,Brown,36,40,18,1,0,Obi Okolie missed Layup.
+Niagara,Brown,36,40,18,1,0,Matt Scott Defensive Rebound.
+Niagara,Brown,36,40,18,8,0,Dwayne Pow missed Jumper.
+Niagara,Brown,36,40,18,8,0,Joshua Howard Block.
+Niagara,Brown,36,40,18,9,0,Corey Daugherty Defensive Rebound.
+Niagara,Brown,36,40,18,13,0,Obi Okolie missed Three Point Jumper.
+Niagara,Brown,36,40,18,13,0,Chris Barton Defensive Rebound.
+Niagara,Brown,36,40,18,39,0,Dwayne Pow Turnover.
+Niagara,Brown,36,42,18,54,1,Steven Spieth made Layup. Assisted by Obi Okolie.
+Niagara,Brown,36,42,19,1,0,Kahlil Dukes Turnover.
+Niagara,Brown,36,42,19,12,0,Joshua Howard Turnover.
+Niagara,Brown,36,42,19,22,0,Kahlil Dukes missed Jumper.
+Niagara,Brown,36,42,19,22,0,Steven Spieth Defensive Rebound.
+Niagara,Brown,36,42,19,42,0,Steven Spieth Turnover.
+Niagara,Brown,36,42,19,59,0,Chris Barton missed Jumper.
+Niagara,Brown,36,42,19,59,0,Maurice Taylor Jr. Offensive Rebound.
+Niagara,Brown,36,42,20,0,0,End of 1st half
+Niagara,Brown,36,42,20,20,0,Tavon Blackmon missed Layup.
+Niagara,Brown,36,42,20,20,0,Maurice Taylor Jr. Defensive Rebound.
+Niagara,Brown,36,42,20,30,0,Foul on Joshua Howard.
+Niagara,Brown,37,42,20,30,1,Matt Scott made Free Throw.
+Niagara,Brown,37,42,20,30,0,Matt Scott missed Free Throw.
+Niagara,Brown,37,42,20,30,0,Brandon Anderson Defensive Rebound.
+Niagara,Brown,37,42,20,51,0,Obi Okolie missed Three Point Jumper.
+Niagara,Brown,37,42,20,51,0,Kahlil Dukes Defensive Rebound.
+Niagara,Brown,37,42,20,57,0,Kahlil Dukes Turnover.
+Niagara,Brown,37,42,20,58,0,Joshua Howard Steal.
+Niagara,Brown,37,45,21,13,1,Obi Okolie made Three Point Jumper. Assisted by Steven Spieth.
+Niagara,Brown,37,45,21,35,0,Marvin Prochet Turnover.
+Niagara,Brown,37,45,21,35,0,Foul on Marvin Prochet.
+Niagara,Brown,37,45,21,52,0,Brandon Anderson Turnover.
+Niagara,Brown,37,45,21,53,0,James Towns Steal.
+Niagara,Brown,39,45,21,55,1,James Towns made Layup.
+Niagara,Brown,39,45,22,10,0,Foul on James Towns.
+Niagara,Brown,39,45,22,12,0,Brandon Anderson missed Three Point Jumper.
+Niagara,Brown,39,45,22,12,0,Maurice Taylor Jr. Defensive Rebound.
+Niagara,Brown,41,45,22,23,1,Kahlil Dukes made Layup.
+Niagara,Brown,41,45,22,47,0,Brandon Anderson missed Three Point Jumper.
+Niagara,Brown,41,45,22,47,0,Marvin Prochet Defensive Rebound.
+Niagara,Brown,41,45,22,55,0,James Towns missed Three Point Jumper.
+Niagara,Brown,41,45,22,55,0,Brandon Anderson Defensive Rebound.
+Niagara,Brown,41,45,23,3,0,Tavon Blackmon missed Three Point Jumper.
+Niagara,Brown,41,45,23,3,0,Marvin Prochet Defensive Rebound.
+Niagara,Brown,41,45,23,15,0,Marvin Prochet Turnover.
+Niagara,Brown,41,45,23,16,0,Brandon Anderson Steal.
+Niagara,Brown,41,47,23,20,1,Brandon Anderson made Layup.
+Niagara,Brown,41,47,23,40,0,Matt Scott missed Layup.
+Niagara,Brown,41,47,23,40,0,Joshua Howard Block.
+Niagara,Brown,41,47,23,41,0,Joshua Howard Defensive Rebound.
+Niagara,Brown,41,47,23,45,0,Foul on Marvin Prochet.
+Niagara,Brown,41,48,23,45,1,Tavon Blackmon made Free Throw.
+Niagara,Brown,41,48,23,45,0,Tavon Blackmon missed Free Throw.
+Niagara,Brown,41,48,23,45,0,Dominic Robb Defensive Rebound.
+Niagara,Brown,41,48,24,5,0,Dominic Robb missed Jumper.
+Niagara,Brown,41,48,24,5,0,Steven Spieth Defensive Rebound.
+Niagara,Brown,41,48,24,11,0,Foul on James Towns.
+Niagara,Brown,41,48,24,11,0,Official TV Timeout
+Niagara,Brown,41,48,24,13,0,Foul on Dominic Robb.
+Niagara,Brown,41,49,24,13,1,Steven Spieth made Free Throw.
+Niagara,Brown,41,50,24,13,1,Steven Spieth made Free Throw.
+Niagara,Brown,43,50,24,35,1,James Towns made Layup.
+Niagara,Brown,43,50,24,35,0,Foul on Steven Spieth.
+Niagara,Brown,44,50,24,35,1,James Towns made Free Throw.
+Niagara,Brown,44,50,24,45,0,Obi Okolie Turnover.
+Niagara,Brown,44,50,25,9,0,Kahlil Dukes missed Three Point Jumper.
+Niagara,Brown,44,50,25,9,0,Steven Spieth Defensive Rebound.
+Niagara,Brown,44,50,25,18,0,JR Hobbie missed Three Point Jumper.
+Niagara,Brown,44,50,25,18,0,Dominic Robb Block.
+Niagara,Brown,44,50,25,19,0,James Towns Defensive Rebound.
+Niagara,Brown,44,50,25,23,0,Foul on JR Hobbie.
+Niagara,Brown,44,50,25,27,0,Kahlil Dukes missed Jumper.
+Niagara,Brown,44,50,25,27,0,Steven Spieth Defensive Rebound.
+Niagara,Brown,44,50,25,36,0,Foul on James Towns.
+Niagara,Brown,44,51,25,36,1,Steven Spieth made Free Throw.
+Niagara,Brown,44,52,25,36,1,Steven Spieth made Free Throw.
+Niagara,Brown,44,52,25,42,0,Dominic Robb missed Layup.
+Niagara,Brown,44,52,25,42,0,Steven Spieth Block.
+Niagara,Brown,44,52,25,43,0,Niagara Offensive Rebound.
+Niagara,Brown,44,52,26,0,0,Chris Barton Turnover.
+Niagara,Brown,44,52,26,1,0,Steven Spieth Steal.
+Niagara,Brown,44,52,26,5,0,Tavon Blackmon missed Layup.
+Niagara,Brown,44,52,26,5,0,Travis Fuller Offensive Rebound.
+Niagara,Brown,44,52,26,6,0,Foul on Chris Barton.
+Niagara,Brown,44,53,26,6,1,Travis Fuller made Free Throw.
+Niagara,Brown,44,54,26,6,1,Travis Fuller made Free Throw.
+Niagara,Brown,44,54,26,23,0,Dwayne Pow missed Three Point Jumper.
+Niagara,Brown,44,54,26,23,0,Maurice Taylor Jr. Offensive Rebound.
+Niagara,Brown,46,54,26,27,1,Maurice Taylor Jr. made Layup.
+Niagara,Brown,46,54,26,27,0,Foul on Travis Fuller.
+Niagara,Brown,46,54,26,27,0,Maurice Taylor Jr. missed Free Throw.
+Niagara,Brown,46,54,26,27,0,Dominic Robb Offensive Rebound.
+Niagara,Brown,46,54,26,30,0,Dominic Robb missed Jumper.
+Niagara,Brown,46,54,26,30,0,Maurice Taylor Jr. Offensive Rebound.
+Niagara,Brown,48,54,26,34,1,Maurice Taylor Jr. made Layup.
+Niagara,Brown,48,54,26,51,0,Tavon Blackmon Turnover.
+Niagara,Brown,48,54,27,2,0,Foul on Travis Fuller.
+Niagara,Brown,48,54,27,21,0,Kevin Larkin missed Three Point Jumper.
+Niagara,Brown,48,54,27,21,0,Obi Okolie Defensive Rebound.
+Niagara,Brown,48,54,27,30,0,Obi Okolie missed Layup.
+Niagara,Brown,48,54,27,30,0,Dominic Robb Block.
+Niagara,Brown,48,54,27,32,0,Kevin Larkin Defensive Rebound.
+Niagara,Brown,50,54,27,38,1,Dwayne Pow made Jumper.
+Niagara,Brown,50,54,27,42,0,Joshua Howard Turnover.
+Niagara,Brown,50,54,27,43,0,Kevin Larkin Steal.
+Niagara,Brown,52,54,27,46,1,Dwayne Pow made Layup. Assisted by Kevin Larkin.
+Niagara,Brown,52,56,28,3,1,Obi Okolie made Layup. Assisted by Steven Spieth.
+Niagara,Brown,52,56,28,3,0,Foul on Kevin Larkin.
+Niagara,Brown,52,56,28,3,0,Official TV Timeout
+Niagara,Brown,52,56,28,3,0,Obi Okolie missed Free Throw.
+Niagara,Brown,52,56,28,3,0,Kevin Larkin Defensive Rebound.
+Niagara,Brown,52,56,28,20,0,Dominic Robb missed Layup.
+Niagara,Brown,52,56,28,20,0,Steven Spieth Defensive Rebound.
+Niagara,Brown,52,58,28,39,1,Tavon Blackmon made Layup.
+Niagara,Brown,52,58,28,47,0,Foul on Joshua Howard.
+Niagara,Brown,53,58,28,47,1,Dwayne Pow made Free Throw.
+Niagara,Brown,54,58,28,47,1,Dwayne Pow made Free Throw.
+Niagara,Brown,54,58,28,54,0,Foul on Shane Gatling.
+Niagara,Brown,54,58,28,54,0,Corey Daugherty missed Free Throw.
+Niagara,Brown,54,58,28,54,0,Kevin Larkin Defensive Rebound.
+Niagara,Brown,56,58,29,8,1,Shane Gatling made Layup.
+Niagara,Brown,56,58,29,23,0,Foul on Kevin Larkin.
+Niagara,Brown,56,59,29,23,1,Steven Spieth made Free Throw.
+Niagara,Brown,56,60,29,23,1,Steven Spieth made Free Throw.
+Niagara,Brown,56,60,29,39,0,Kevin Larkin missed Three Point Jumper.
+Niagara,Brown,56,60,29,39,0,Steven Spieth Defensive Rebound.
+Niagara,Brown,56,60,29,48,0,Foul on Shane Gatling.
+Niagara,Brown,56,61,29,48,1,Tavon Blackmon made Free Throw.
+Niagara,Brown,56,62,29,48,1,Tavon Blackmon made Free Throw.
+Niagara,Brown,56,62,30,5,0,Foul on Obi Okolie.
+Niagara,Brown,57,62,30,5,1,Dominic Robb made Free Throw.
+Niagara,Brown,58,62,30,5,1,Dominic Robb made Free Throw.
+Niagara,Brown,58,62,30,26,0,Corey Daugherty missed Three Point Jumper.
+Niagara,Brown,58,62,30,26,0,Maurice Taylor Jr. Defensive Rebound.
+Niagara,Brown,58,62,30,33,0,Shane Gatling missed Three Point Jumper.
+Niagara,Brown,58,62,30,33,0,Chris Sullivan Defensive Rebound.
+Niagara,Brown,58,64,30,44,1,Steven Spieth made Layup. Assisted by Corey Daugherty.
+Niagara,Brown,58,64,31,3,0,Dominic Robb missed Layup.
+Niagara,Brown,58,64,31,3,0,Dominic Robb Offensive Rebound.
+Niagara,Brown,60,64,31,5,1,Dominic Robb made Layup.
+Niagara,Brown,60,64,31,5,0,Foul on Joshua Howard.
+Niagara,Brown,60,64,31,5,0,Dominic Robb missed Free Throw.
+Niagara,Brown,60,64,31,5,0,Steven Spieth Defensive Rebound.
+Niagara,Brown,60,66,31,28,1,Travis Fuller made Layup. Assisted by Steven Spieth.
+Niagara,Brown,60,66,31,46,0,Shane Gatling missed Layup.
+Niagara,Brown,60,66,31,46,0,Corey Daugherty Defensive Rebound.
+Niagara,Brown,60,66,32,5,0,Foul on Dominic Robb.
+Niagara,Brown,60,66,32,5,0,Official TV Timeout
+Niagara,Brown,60,67,32,5,1,Travis Fuller made Free Throw.
+Niagara,Brown,60,68,32,5,1,Travis Fuller made Free Throw.
+Niagara,Brown,60,68,32,19,0,Foul on Chris Sullivan.
+Niagara,Brown,61,68,32,19,1,Dominic Robb made Free Throw.
+Niagara,Brown,62,68,32,19,1,Dominic Robb made Free Throw.
+Niagara,Brown,62,68,32,37,0,Foul on Matt Scott.
+Niagara,Brown,62,69,32,37,1,Corey Daugherty made Free Throw.
+Niagara,Brown,62,70,32,37,1,Corey Daugherty made Free Throw.
+Niagara,Brown,65,70,32,50,1,Marvin Prochet made Three Point Jumper. Assisted by Matt Scott.
+Niagara,Brown,65,70,33,15,0,Travis Fuller Turnover.
+Niagara,Brown,67,70,33,21,1,Kahlil Dukes made Jumper.
+Niagara,Brown,67,70,33,48,0,Tavon Blackmon missed Jumper.
+Niagara,Brown,67,70,33,48,0,Travis Fuller Offensive Rebound.
+Niagara,Brown,67,72,33,50,1,Travis Fuller made Layup.
+Niagara,Brown,67,72,33,52,0,Brown  Timeout
+Niagara,Brown,67,72,34,12,0,Dwayne Pow missed Three Point Jumper.
+Niagara,Brown,67,72,34,12,0,Obi Okolie Defensive Rebound.
+Niagara,Brown,67,72,34,34,0,Joshua Howard missed Jumper.
+Niagara,Brown,67,72,34,34,0,Dwayne Pow Defensive Rebound.
+Niagara,Brown,67,72,34,41,0,Foul on Joshua Howard.
+Niagara,Brown,68,72,34,41,1,Chris Barton made Free Throw.
+Niagara,Brown,68,72,34,41,0,Chris Barton missed Free Throw.
+Niagara,Brown,68,72,34,41,0,Steven Spieth Defensive Rebound.
+Niagara,Brown,68,74,35,12,1,Travis Fuller made Layup. Assisted by Steven Spieth.
+Niagara,Brown,68,74,35,29,0,Kahlil Dukes missed Layup.
+Niagara,Brown,68,74,35,29,0,Travis Fuller Defensive Rebound.
+Niagara,Brown,68,74,35,34,0,Steven Spieth missed Three Point Jumper.
+Niagara,Brown,68,74,35,34,0,Matt Scott Defensive Rebound.
+Niagara,Brown,68,74,35,38,0,Matt Scott Turnover.
+Niagara,Brown,68,74,35,38,0,Chris Sullivan Steal.
+Niagara,Brown,68,74,35,39,0,Foul on Marvin Prochet.
+Niagara,Brown,68,75,35,39,1,Steven Spieth made Free Throw.
+Niagara,Brown,68,76,35,39,1,Steven Spieth made Free Throw.
+Niagara,Brown,68,76,36,3,0,Chris Barton missed Layup.
+Niagara,Brown,68,76,36,3,0,Travis Fuller Defensive Rebound.
+Niagara,Brown,68,79,36,21,1,Obi Okolie made Three Point Jumper. Assisted by Steven Spieth.
+Niagara,Brown,70,79,36,33,1,Dwayne Pow made Layup.
+Niagara,Brown,70,81,36,49,1,Steven Spieth made Layup. Assisted by Tavon Blackmon.
+Niagara,Brown,72,81,37,3,1,Kahlil Dukes made Jumper.
+Niagara,Brown,72,81,37,31,0,Foul on Dwayne Pow.
+Niagara,Brown,72,81,37,31,0,Official TV Timeout
+Niagara,Brown,72,81,37,31,0,Tavon Blackmon missed Free Throw.
+Niagara,Brown,72,81,37,31,0,Brown Deadball Team Rebound.
+Niagara,Brown,72,81,37,31,0,Tavon Blackmon missed Free Throw.
+Niagara,Brown,72,81,37,31,0,James Towns Defensive Rebound.
+Niagara,Brown,74,81,37,38,1,James Towns made Layup.
+Niagara,Brown,74,81,37,55,0,Steven Spieth missed Layup.
+Niagara,Brown,74,81,37,55,0,Steven Spieth Offensive Rebound.
+Niagara,Brown,74,81,37,56,0,Foul on Maurice Taylor Jr..
+Niagara,Brown,74,82,37,56,1,Steven Spieth made Free Throw.
+Niagara,Brown,74,83,37,56,1,Steven Spieth made Free Throw.
+Niagara,Brown,74,83,37,59,0,Niagara  Timeout
+Niagara,Brown,74,83,38,13,0,James Towns Turnover.
+Niagara,Brown,74,83,38,14,0,Chris Sullivan Steal.
+Niagara,Brown,74,83,38,37,0,Travis Fuller missed Jumper.
+Niagara,Brown,74,83,38,37,0,Matt Scott Defensive Rebound.
+Niagara,Brown,74,83,38,48,0,Kahlil Dukes missed Three Point Jumper.
+Niagara,Brown,74,83,38,48,0,Travis Fuller Defensive Rebound.
+Niagara,Brown,74,83,39,9,0,Foul on James Towns.
+Niagara,Brown,74,84,39,9,1,Steven Spieth made Free Throw.
+Niagara,Brown,74,85,39,9,1,Steven Spieth made Free Throw.
+Niagara,Brown,74,85,39,16,0,Dwayne Pow missed Layup.
+Niagara,Brown,74,85,39,16,0,Travis Fuller Block.
+Niagara,Brown,74,85,39,17,0,Niagara Offensive Rebound.
+Niagara,Brown,74,85,39,18,0,Dominic Robb missed Jumper.
+Niagara,Brown,74,85,39,18,0,Dominic Robb Offensive Rebound.
+Niagara,Brown,74,85,39,21,0,Dominic Robb missed Layup.
+Niagara,Brown,74,85,39,21,0,Steven Spieth Defensive Rebound.
+Niagara,Brown,74,85,39,33,0,Brown  Timeout
+Niagara,Brown,74,85,39,40,0,Steven Spieth Turnover.
+Niagara,Brown,74,85,39,41,0,Matt Scott Steal.
+Niagara,Brown,77,85,39,46,1,Shane Gatling made Three Point Jumper. Assisted by Matt Scott.
+Niagara,Brown,77,85,39,47,0,Niagara  Timeout
+Niagara,Brown,77,85,39,50,0,Foul on Shane Gatling.
+Niagara,Brown,77,86,39,50,1,Tavon Blackmon made Free Throw.
+Niagara,Brown,77,87,39,50,1,Tavon Blackmon made Free Throw.
+Niagara,Brown,79,87,39,54,1,Kahlil Dukes made Layup.
+Niagara,Brown,79,87,39,55,0,Niagara  Timeout
+Niagara,Brown,79,87,39,56,0,Foul on Kahlil Dukes.
+Niagara,Brown,79,88,39,56,1,Obi Okolie made Free Throw.
+Niagara,Brown,79,88,39,56,0,Obi Okolie missed Free Throw.
+Niagara,Brown,79,88,39,56,0,Chris Barton Defensive Rebound.
+Niagara,Brown,79,88,40,0,0,End of Game

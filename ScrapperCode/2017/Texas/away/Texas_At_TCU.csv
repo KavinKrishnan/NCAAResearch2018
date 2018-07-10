@@ -1,0 +1,303 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Texas,TCU,0,0,0,0,0,Jump Ball won by Texas
+Texas,TCU,0,0,0,31,0,Shaquille Cleare missed Jumper.
+Texas,TCU,0,0,0,31,0,JD Miller Defensive Rebound.
+Texas,TCU,0,0,0,45,0,Alex Robinson Turnover.
+Texas,TCU,0,0,0,45,0,Kerwin Roach Jr. Steal.
+Texas,TCU,2,0,0,51,1,Kerwin Roach Jr. made Dunk.
+Texas,TCU,2,2,1,5,1,Vladimir Brodziansky made Jumper.
+Texas,TCU,2,2,1,31,0,Kerwin Roach Jr. missed Layup.
+Texas,TCU,2,2,1,31,0,Vladimir Brodziansky Block.
+Texas,TCU,2,2,1,31,0,TCU Defensive Rebound.
+Texas,TCU,2,2,1,52,0,Vladimir Brodziansky missed Jumper.
+Texas,TCU,2,2,1,52,0,Shaquille Cleare Block.
+Texas,TCU,2,2,1,52,0,Shaquille Cleare Defensive Rebound.
+Texas,TCU,2,2,2,1,0,Foul on JD Miller.
+Texas,TCU,2,2,2,9,0,Jarrett Allen missed Jumper.
+Texas,TCU,2,2,2,9,0,Alex Robinson Defensive Rebound.
+Texas,TCU,2,5,2,20,1,Alex Robinson made Three Point Jumper.
+Texas,TCU,2,5,2,41,0,Shaquille Cleare missed Jumper.
+Texas,TCU,2,5,2,41,0,Vladimir Brodziansky Block.
+Texas,TCU,2,5,2,41,0,Shaquille Cleare Offensive Rebound.
+Texas,TCU,2,5,2,43,0,Foul on Shaquille Cleare.
+Texas,TCU,2,5,2,43,0,Shaquille Cleare Turnover.
+Texas,TCU,2,7,2,51,1,Alex Robinson made Layup. Assisted by Jaylen Fisher.
+Texas,TCU,4,7,3,11,1,Shaquille Cleare made Jumper. Assisted by Kerwin Roach Jr..
+Texas,TCU,4,7,3,34,0,Foul on Kerwin Roach Jr..
+Texas,TCU,4,7,3,34,0,Jaylen Fisher missed Free Throw.
+Texas,TCU,4,7,3,34,0,TCU Deadball Team Rebound.
+Texas,TCU,4,8,3,34,1,Jaylen Fisher made Free Throw.
+Texas,TCU,4,8,3,55,0,Andrew Jones missed Three Point Jumper.
+Texas,TCU,4,8,3,55,0,Jarrett Allen Offensive Rebound.
+Texas,TCU,6,8,3,55,1,Jarrett Allen made Two Point Tip Shot.
+Texas,TCU,6,8,4,14,0,Foul on Kerwin Roach Jr..
+Texas,TCU,6,8,4,14,0,Official TV Timeout
+Texas,TCU,6,8,4,40,0,Jaylen Fisher missed Three Point Jumper.
+Texas,TCU,6,8,4,40,0,Karviar Shepherd Offensive Rebound.
+Texas,TCU,6,8,4,45,0,Brandon Parrish missed Jumper.
+Texas,TCU,6,8,4,45,0,Kenrich Williams Offensive Rebound.
+Texas,TCU,6,11,4,53,1,Jaylen Fisher made Three Point Jumper. Assisted by Kenrich Williams.
+Texas,TCU,8,11,5,20,1,Andrew Jones made Jumper.
+Texas,TCU,8,11,5,35,0,Alex Robinson missed Three Point Jumper.
+Texas,TCU,8,11,5,35,0,James Banks Defensive Rebound.
+Texas,TCU,8,11,5,43,0,Andrew Jones Turnover.
+Texas,TCU,8,11,5,43,0,Jaylen Fisher Steal.
+Texas,TCU,8,13,5,51,1,Alex Robinson made Layup. Assisted by Jaylen Fisher.
+Texas,TCU,10,13,6,6,1,Eric Davis Jr. made Jumper.
+Texas,TCU,10,13,6,16,0,Foul on James Banks.
+Texas,TCU,10,13,6,16,0,Karviar Shepherd missed Free Throw.
+Texas,TCU,10,13,6,16,0,TCU Deadball Team Rebound.
+Texas,TCU,10,14,6,16,1,Karviar Shepherd made Free Throw.
+Texas,TCU,12,14,6,39,1,Jarrett Allen made Layup. Assisted by Jacob Young.
+Texas,TCU,12,14,7,0,0,Alex Robinson missed Three Point Jumper.
+Texas,TCU,12,14,7,0,0,Jarrett Allen Defensive Rebound.
+Texas,TCU,12,14,7,2,0,Foul on Vladimir Brodziansky.
+Texas,TCU,12,14,7,27,0,Kerwin Roach Jr. missed Jumper.
+Texas,TCU,12,14,7,27,0,James Banks Offensive Rebound.
+Texas,TCU,12,14,7,32,0,Foul on Desmond Bane.
+Texas,TCU,12,14,7,56,0,Kerwin Roach Jr. Turnover.
+Texas,TCU,12,14,7,56,0,Kenrich Williams Steal.
+Texas,TCU,12,16,8,0,1,Desmond Bane made Layup. Assisted by Kenrich Williams.
+Texas,TCU,12,16,8,0,0,Foul on Eric Davis Jr..
+Texas,TCU,12,17,8,0,1,Desmond Bane made Free Throw.
+Texas,TCU,12,17,8,21,0,Jacob Young Turnover.
+Texas,TCU,12,17,8,21,0,Official TV Timeout
+Texas,TCU,12,17,8,50,0,Desmond Bane missed Three Point Jumper.
+Texas,TCU,12,17,8,50,0,Andrew Jones Defensive Rebound.
+Texas,TCU,12,17,9,15,0,Shaquille Cleare missed Jumper.
+Texas,TCU,12,17,9,15,0,Desmond Bane Defensive Rebound.
+Texas,TCU,12,17,9,21,0,Alex Robinson Turnover.
+Texas,TCU,12,17,9,21,0,Kendal Yancy Steal.
+Texas,TCU,12,17,9,47,0,Eric Davis Jr. missed Three Point Jumper.
+Texas,TCU,12,17,9,47,0,Alex Robinson Defensive Rebound.
+Texas,TCU,12,19,10,2,1,JD Miller made Jumper. Assisted by Alex Robinson.
+Texas,TCU,12,19,10,16,0,Foul on Shaquille Cleare.
+Texas,TCU,12,19,10,16,0,Shaquille Cleare Turnover.
+Texas,TCU,12,21,10,35,1,Kenrich Williams made Jumper. Assisted by Jaylen Fisher.
+Texas,TCU,14,21,10,43,1,Andrew Jones made Layup. Assisted by Kerwin Roach Jr..
+Texas,TCU,14,21,11,1,0,Jaylen Fisher missed Three Point Jumper.
+Texas,TCU,14,21,11,1,0,Eric Davis Jr. Defensive Rebound.
+Texas,TCU,16,21,11,12,1,Eric Davis Jr. made Layup.
+Texas,TCU,16,21,11,14,0,TCU  Timeout
+Texas,TCU,16,21,11,17,0,Jaylen Fisher Turnover.
+Texas,TCU,16,21,11,17,0,Andrew Jones Steal.
+Texas,TCU,19,21,11,23,1,Andrew Jones made Three Point Jumper. Assisted by Jacob Young.
+Texas,TCU,19,21,11,36,0,Foul on Andrew Jones.
+Texas,TCU,19,22,11,36,1,Desmond Bane made Free Throw.
+Texas,TCU,19,22,11,36,0,Desmond Bane missed Free Throw.
+Texas,TCU,19,22,11,36,0,Jarrett Allen Defensive Rebound.
+Texas,TCU,19,22,12,6,0,Texas  Turnover.
+Texas,TCU,19,22,12,6,0,Official TV Timeout
+Texas,TCU,19,22,12,22,0,Vladimir Brodziansky missed Jumper.
+Texas,TCU,19,22,12,22,0,Kenrich Williams Offensive Rebound.
+Texas,TCU,19,22,12,25,0,Kenrich Williams missed Layup.
+Texas,TCU,19,22,12,25,0,James Banks Block.
+Texas,TCU,19,22,12,25,0,Texas Defensive Rebound.
+Texas,TCU,19,22,12,37,0,Jarrett Allen Turnover.
+Texas,TCU,19,22,12,37,0,Alex Robinson Steal.
+Texas,TCU,19,24,12,43,1,Alex Robinson made Layup. Assisted by Kenrich Williams.
+Texas,TCU,21,24,12,53,1,Andrew Jones made Layup.
+Texas,TCU,21,26,13,12,1,Vladimir Brodziansky made Layup.
+Texas,TCU,21,26,13,26,0,Jacob Young missed Three Point Jumper.
+Texas,TCU,21,26,13,26,0,Jaylen Fisher Defensive Rebound.
+Texas,TCU,21,26,13,34,0,Foul on Kenrich Williams.
+Texas,TCU,21,26,13,34,0,Kenrich Williams Turnover.
+Texas,TCU,23,26,13,57,1,Jarrett Allen made Dunk. Assisted by Andrew Jones.
+Texas,TCU,23,29,14,10,1,Jaylen Fisher made Three Point Jumper. Assisted by Alex Robinson.
+Texas,TCU,26,29,14,29,1,Kerwin Roach Jr. made Three Point Jumper. Assisted by Jarrett Allen.
+Texas,TCU,26,29,14,31,0,Texas  Timeout
+Texas,TCU,26,29,14,46,0,Jaylen Fisher Turnover.
+Texas,TCU,26,29,14,46,0,Jarrett Allen Steal.
+Texas,TCU,26,29,15,1,0,Andrew Jones Turnover.
+Texas,TCU,26,29,15,1,0,Brandon Parrish Steal.
+Texas,TCU,26,31,15,18,1,Vladimir Brodziansky made Jumper. Assisted by Alex Robinson.
+Texas,TCU,26,31,15,47,0,Jarrett Allen missed Jumper.
+Texas,TCU,26,31,15,47,0,Jaylen Fisher Defensive Rebound.
+Texas,TCU,26,31,15,53,0,Foul on Jacob Young.
+Texas,TCU,26,31,15,53,0,Jaylen Fisher missed Free Throw.
+Texas,TCU,26,31,15,53,0,Jarrett Allen Defensive Rebound.
+Texas,TCU,26,31,16,16,0,Foul on Brandon Parrish.
+Texas,TCU,26,31,16,16,0,Official TV Timeout
+Texas,TCU,28,31,16,18,1,Jarrett Allen made Layup. Assisted by Andrew Jones.
+Texas,TCU,28,31,16,18,0,Foul on Karviar Shepherd.
+Texas,TCU,29,31,16,18,1,Jarrett Allen made Free Throw.
+Texas,TCU,29,31,16,26,0,Alex Robinson missed Layup.
+Texas,TCU,29,31,16,26,0,Karviar Shepherd Offensive Rebound.
+Texas,TCU,29,33,16,26,1,Karviar Shepherd made Two Point Tip Shot.
+Texas,TCU,31,33,16,45,1,Andrew Jones made Jumper. Assisted by Jarrett Allen.
+Texas,TCU,31,33,17,0,0,Foul on Jarrett Allen.
+Texas,TCU,31,33,17,0,0,Kenrich Williams missed Free Throw.
+Texas,TCU,31,33,17,0,0,Texas Defensive Rebound.
+Texas,TCU,31,33,17,20,0,Foul on Karviar Shepherd.
+Texas,TCU,31,33,17,20,0,Jarrett Allen missed Free Throw.
+Texas,TCU,31,33,17,20,0,Vladimir Brodziansky Defensive Rebound.
+Texas,TCU,31,33,17,27,0,JD Miller missed Layup.
+Texas,TCU,31,33,17,27,0,Kenrich Williams Offensive Rebound.
+Texas,TCU,31,33,17,38,0,Alex Robinson Turnover.
+Texas,TCU,31,33,17,38,0,James Banks Steal.
+Texas,TCU,33,33,18,2,1,Eric Davis Jr. made Jumper.
+Texas,TCU,33,35,18,31,1,JD Miller made Dunk. Assisted by Jaylen Fisher.
+Texas,TCU,33,35,18,49,0,Jarrett Allen missed Jumper.
+Texas,TCU,33,35,18,49,0,Kendal Yancy Offensive Rebound.
+Texas,TCU,33,35,18,59,0,Eric Davis Jr. missed Layup.
+Texas,TCU,33,35,18,59,0,JD Miller Defensive Rebound.
+Texas,TCU,33,35,19,18,0,Foul on Eric Davis Jr..
+Texas,TCU,33,35,19,18,0,Desmond Bane missed Free Throw.
+Texas,TCU,33,35,19,18,0,TCU Deadball Team Rebound.
+Texas,TCU,33,36,19,18,1,Desmond Bane made Free Throw.
+Texas,TCU,33,36,19,30,0,Eric Davis Jr. missed Layup.
+Texas,TCU,33,36,19,30,0,Vladimir Brodziansky Block.
+Texas,TCU,33,36,19,30,0,Jarrett Allen Offensive Rebound.
+Texas,TCU,35,36,19,32,1,Jarrett Allen made Free Throw.
+Texas,TCU,33,36,19,32,0,Foul on JD Miller.
+Texas,TCU,34,36,19,32,1,Jarrett Allen made Free Throw.
+Texas,TCU,35,36,19,55,0,Foul on Eric Davis Jr..
+Texas,TCU,35,37,19,55,1,Vladimir Brodziansky made Free Throw.
+Texas,TCU,35,38,19,55,1,Vladimir Brodziansky made Free Throw.
+Texas,TCU,35,38,20,0,0,End of 1st half
+Texas,TCU,35,38,20,0,0,Jump Ball won by Texas
+Texas,TCU,37,38,20,5,1,Jarrett Allen made Layup. Assisted by Andrew Jones.
+Texas,TCU,37,41,20,17,1,Kenrich Williams made Three Point Jumper. Assisted by Alex Robinson.
+Texas,TCU,37,41,20,47,0,Kerwin Roach Jr. missed Layup.
+Texas,TCU,37,41,20,47,0,Jarrett Allen Offensive Rebound.
+Texas,TCU,37,41,21,2,0,Jarrett Allen missed Layup.
+Texas,TCU,37,41,21,2,0,Shaquille Cleare Offensive Rebound.
+Texas,TCU,39,41,21,2,1,Shaquille Cleare made Layup.
+Texas,TCU,39,41,21,2,0,Foul on Vladimir Brodziansky.
+Texas,TCU,39,41,21,2,0,Shaquille Cleare missed Free Throw.
+Texas,TCU,39,41,21,2,0,JD Miller Defensive Rebound.
+Texas,TCU,39,41,21,27,0,Vladimir Brodziansky missed Jumper.
+Texas,TCU,39,41,21,27,0,Andrew Jones Defensive Rebound.
+Texas,TCU,39,41,21,34,0,Andrew Jones missed Three Point Jumper.
+Texas,TCU,39,41,21,34,0,Vladimir Brodziansky Defensive Rebound.
+Texas,TCU,39,43,21,59,1,Jaylen Fisher made Layup.
+Texas,TCU,41,43,22,10,1,Jarrett Allen made Jumper. Assisted by Kerwin Roach Jr..
+Texas,TCU,41,43,22,20,0,Alex Robinson missed Three Point Jumper.
+Texas,TCU,41,43,22,20,0,Vladimir Brodziansky Offensive Rebound.
+Texas,TCU,41,43,22,21,0,Foul on Kerwin Roach Jr..
+Texas,TCU,41,44,22,21,1,Vladimir Brodziansky made Free Throw.
+Texas,TCU,41,45,22,21,1,Vladimir Brodziansky made Free Throw.
+Texas,TCU,41,45,22,46,0,Shaquille Cleare missed Layup.
+Texas,TCU,41,45,22,46,0,Kendal Yancy Offensive Rebound.
+Texas,TCU,41,45,22,52,0,Kendal Yancy missed Layup.
+Texas,TCU,41,45,22,52,0,Kendal Yancy Offensive Rebound.
+Texas,TCU,43,45,22,57,1,Kendal Yancy made Layup.
+Texas,TCU,43,48,23,1,1,Vladimir Brodziansky made Three Point Jumper. Assisted by Jaylen Fisher.
+Texas,TCU,43,48,23,13,0,Andrew Jones missed Jumper.
+Texas,TCU,43,48,23,13,0,Karviar Shepherd Defensive Rebound.
+Texas,TCU,43,48,23,40,0,Jaylen Fisher Turnover.
+Texas,TCU,43,48,23,40,0,Shaquille Cleare Steal.
+Texas,TCU,45,48,23,46,1,Kendal Yancy made Layup. Assisted by Andrew Jones.
+Texas,TCU,45,48,24,15,0,Karviar Shepherd Turnover.
+Texas,TCU,45,48,24,15,0,Jarrett Allen Steal.
+Texas,TCU,47,48,24,23,1,Shaquille Cleare made Jumper. Assisted by Andrew Jones.
+Texas,TCU,47,48,24,32,0,TCU  Timeout
+Texas,TCU,47,50,24,57,1,Vladimir Brodziansky made Dunk. Assisted by Alex Robinson.
+Texas,TCU,49,50,25,18,1,Jarrett Allen made Layup. Assisted by Jacob Young.
+Texas,TCU,49,52,25,49,1,Brandon Parrish made Layup. Assisted by Kenrich Williams.
+Texas,TCU,49,52,26,5,0,Kendal Yancy missed Jumper.
+Texas,TCU,49,52,26,5,0,Brandon Parrish Defensive Rebound.
+Texas,TCU,49,52,26,5,0,Jump Ball won by TCU
+Texas,TCU,49,52,26,7,0,Official TV Timeout
+Texas,TCU,49,55,26,33,1,Brandon Parrish made Three Point Jumper. Assisted by Alex Robinson.
+Texas,TCU,49,55,26,54,0,Jacob Young missed Three Point Jumper.
+Texas,TCU,49,55,26,54,0,Alex Robinson Defensive Rebound.
+Texas,TCU,49,57,27,1,1,Alex Robinson made Layup.
+Texas,TCU,49,57,27,15,0,Texas  Timeout
+Texas,TCU,49,57,27,34,0,Foul on Kenrich Williams.
+Texas,TCU,50,57,27,34,1,Shaquille Cleare made Free Throw.
+Texas,TCU,51,57,27,34,1,Shaquille Cleare made Free Throw.
+Texas,TCU,51,59,27,51,1,Alex Robinson made Layup.
+Texas,TCU,53,59,27,56,1,Andrew Jones made Layup. Assisted by Kerwin Roach Jr..
+Texas,TCU,53,59,28,5,0,Desmond Bane missed Layup.
+Texas,TCU,53,59,28,5,0,Karviar Shepherd Offensive Rebound.
+Texas,TCU,53,59,28,12,0,Official TV Timeout
+Texas,TCU,53,61,28,30,1,Vladimir Brodziansky made Jumper.
+Texas,TCU,53,61,28,30,0,Foul on Shaquille Cleare.
+Texas,TCU,53,62,28,30,1,Vladimir Brodziansky made Free Throw.
+Texas,TCU,53,62,28,40,0,Andrew Jones Turnover.
+Texas,TCU,53,62,28,40,0,Kenrich Williams Steal.
+Texas,TCU,53,62,29,1,0,Desmond Bane missed Three Point Jumper.
+Texas,TCU,53,62,29,1,0,TCU Offensive Rebound.
+Texas,TCU,53,62,29,11,0,Vladimir Brodziansky missed Three Point Jumper.
+Texas,TCU,53,62,29,11,0,Kerwin Roach Jr. Defensive Rebound.
+Texas,TCU,53,62,29,39,0,Andrew Jones missed Three Point Jumper.
+Texas,TCU,53,62,29,39,0,Brandon Parrish Defensive Rebound.
+Texas,TCU,53,62,30,8,0,Kenrich Williams missed Three Point Jumper.
+Texas,TCU,53,62,30,8,0,Kerwin Roach Jr. Defensive Rebound.
+Texas,TCU,53,62,30,17,0,Shaquille Cleare missed Jumper.
+Texas,TCU,53,62,30,17,0,Jarrett Allen Offensive Rebound.
+Texas,TCU,55,62,30,17,1,Jarrett Allen made Two Point Tip Shot.
+Texas,TCU,55,62,30,51,0,Jaylen Fisher missed Jumper.
+Texas,TCU,55,62,30,51,0,Kerwin Roach Jr. Defensive Rebound.
+Texas,TCU,57,62,30,57,1,Shaquille Cleare made Jumper. Assisted by Kerwin Roach Jr..
+Texas,TCU,57,62,31,7,0,TCU  Timeout
+Texas,TCU,57,62,31,29,0,Desmond Bane missed Three Point Jumper.
+Texas,TCU,57,62,31,29,0,Kerwin Roach Jr. Defensive Rebound.
+Texas,TCU,57,62,31,50,0,Andrew Jones Turnover.
+Texas,TCU,57,62,31,50,0,Vladimir Brodziansky Steal.
+Texas,TCU,57,62,31,59,0,Brandon Parrish missed Layup.
+Texas,TCU,57,62,31,59,0,Desmond Bane Offensive Rebound.
+Texas,TCU,57,62,32,0,0,Foul on Kerwin Roach Jr..
+Texas,TCU,57,62,32,15,0,Official TV Timeout
+Texas,TCU,57,62,32,16,0,Alex Robinson Turnover.
+Texas,TCU,57,62,32,16,0,Jarrett Allen Steal.
+Texas,TCU,57,62,32,22,0,Jarrett Allen Turnover.
+Texas,TCU,57,62,32,22,0,Alex Robinson Steal.
+Texas,TCU,57,62,32,28,0,Alex Robinson missed Jumper.
+Texas,TCU,57,62,32,28,0,Jarrett Allen Block.
+Texas,TCU,57,62,32,28,0,Eric Davis Jr. Defensive Rebound.
+Texas,TCU,57,62,32,40,0,Kendal Yancy missed Three Point Jumper.
+Texas,TCU,57,62,32,40,0,Kenrich Williams Defensive Rebound.
+Texas,TCU,57,64,33,10,1,Karviar Shepherd made Jumper. Assisted by Kenrich Williams.
+Texas,TCU,57,64,33,45,0,Eric Davis Jr. missed Three Point Jumper.
+Texas,TCU,57,64,33,45,0,Jaylen Fisher Defensive Rebound.
+Texas,TCU,57,67,33,56,1,JD Miller made Three Point Jumper. Assisted by Alex Robinson.
+Texas,TCU,59,67,34,16,1,Shaquille Cleare made Jumper. Assisted by Andrew Jones.
+Texas,TCU,59,67,34,50,0,Kenrich Williams missed Three Point Jumper.
+Texas,TCU,59,67,34,50,0,TCU Offensive Rebound.
+Texas,TCU,59,67,35,16,0,Alex Robinson missed Jumper.
+Texas,TCU,59,67,35,16,0,Shaquille Cleare Block.
+Texas,TCU,59,67,35,16,0,Jarrett Allen Defensive Rebound.
+Texas,TCU,59,67,35,22,0,Foul on Jaylen Fisher.
+Texas,TCU,59,67,35,22,0,Andrew Jones missed Free Throw.
+Texas,TCU,59,67,35,22,0,Texas Deadball Team Rebound.
+Texas,TCU,60,67,35,22,1,Andrew Jones made Free Throw.
+Texas,TCU,60,67,35,26,0,JD Miller missed Three Point Jumper.
+Texas,TCU,60,67,35,26,0,Kenrich Williams Offensive Rebound.
+Texas,TCU,60,69,35,32,1,Kenrich Williams made Layup.
+Texas,TCU,60,69,35,47,0,Shaquille Cleare missed Jumper.
+Texas,TCU,60,69,35,47,0,JD Miller Defensive Rebound.
+Texas,TCU,60,72,35,56,1,Jaylen Fisher made Three Point Jumper. Assisted by Alex Robinson.
+Texas,TCU,60,72,35,56,0,Texas  Timeout
+Texas,TCU,60,72,36,16,0,Eric Davis Jr. missed Jumper.
+Texas,TCU,60,72,36,16,0,Vladimir Brodziansky Block.
+Texas,TCU,60,72,36,16,0,Vladimir Brodziansky Defensive Rebound.
+Texas,TCU,60,72,36,43,0,Vladimir Brodziansky missed Layup.
+Texas,TCU,60,72,36,43,0,Jarrett Allen Block.
+Texas,TCU,60,72,36,43,0,Kenrich Williams Offensive Rebound.
+Texas,TCU,60,74,36,43,1,Kenrich Williams made Two Point Tip Shot.
+Texas,TCU,60,74,37,0,0,Eric Davis Jr. missed Three Point Jumper.
+Texas,TCU,60,74,37,0,0,Alex Robinson Defensive Rebound.
+Texas,TCU,60,74,37,10,0,Alex Robinson missed Layup.
+Texas,TCU,60,74,37,10,0,Eric Davis Jr. Defensive Rebound.
+Texas,TCU,62,74,37,16,1,Jarrett Allen made Jumper. Assisted by Andrew Jones.
+Texas,TCU,62,76,37,28,1,Alex Robinson made Layup. Assisted by JD Miller.
+Texas,TCU,62,76,37,49,0,Jarrett Allen missed Layup.
+Texas,TCU,62,76,37,49,0,Jarrett Allen Offensive Rebound.
+Texas,TCU,62,76,37,53,0,Foul on Vladimir Brodziansky.
+Texas,TCU,63,76,37,53,1,Jarrett Allen made Free Throw.
+Texas,TCU,63,76,37,53,0,Jarrett Allen missed Free Throw.
+Texas,TCU,63,76,37,53,0,Kenrich Williams Defensive Rebound.
+Texas,TCU,63,76,37,55,0,JD Miller Turnover.
+Texas,TCU,63,76,38,13,0,Kerwin Roach Jr. missed Three Point Jumper.
+Texas,TCU,63,76,38,13,0,JD Miller Defensive Rebound.
+Texas,TCU,63,76,38,39,0,Foul on Eric Davis Jr..
+Texas,TCU,63,76,39,5,0,Kenrich Williams missed Three Point Jumper.
+Texas,TCU,63,76,39,5,0,Andrew Jones Defensive Rebound.
+Texas,TCU,63,76,39,14,0,Andrew Jones Turnover.
+Texas,TCU,63,76,39,14,0,Kenrich Williams Steal.
+Texas,TCU,63,78,39,19,1,Alex Robinson made Layup. Assisted by Kenrich Williams.
+Texas,TCU,63,78,39,44,0,Andrew Jones missed Three Point Jumper.
+Texas,TCU,63,78,39,44,0,JD Miller Defensive Rebound.
+Texas,TCU,63,78,40,0,0,End of Game

@@ -1,0 +1,284 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Hampton,American,0,2,0,14,1,Charlie Jones made Layup.
+Hampton,American,0,2,0,35,0,Reginald Johnson missed Jumper.
+Hampton,American,0,2,0,35,0,Jesse Reed Block.
+Hampton,American,0,2,0,37,0,Paris Maragkos Defensive Rebound.
+Hampton,American,0,4,0,42,1,Jesse Reed made Layup. Assisted by Charlie Jones.
+Hampton,American,0,4,0,58,0,Brian Darden missed Three Point Jumper.
+Hampton,American,0,4,0,58,0,Jervon Pressley Offensive Rebound.
+Hampton,American,2,4,1,3,1,Jervon Pressley made Jumper.
+Hampton,American,2,4,1,34,0,Marko Vasic missed Jumper.
+Hampton,American,2,4,1,34,0,Quinton Chievous Defensive Rebound.
+Hampton,American,2,4,2,8,0,Reginald Johnson Turnover.
+Hampton,American,2,4,2,25,0,Jesse Reed missed Three Point Jumper.
+Hampton,American,2,4,2,25,0,Marko Vasic Offensive Rebound.
+Hampton,American,2,4,2,39,0,Foul on Lawrence Cooks.
+Hampton,American,2,4,2,51,0,Paris Maragkos missed Dunk.
+Hampton,American,2,4,2,51,0,Charlie Jones Offensive Rebound.
+Hampton,American,2,6,2,55,1,Paris Maragkos made Layup. Assisted by Charlie Jones.
+Hampton,American,2,6,3,6,0,Foul on Paris Maragkos.
+Hampton,American,2,6,3,12,0,Quinton Chievous missed Layup.
+Hampton,American,2,6,3,12,0,Jervon Pressley Offensive Rebound.
+Hampton,American,4,6,3,16,1,Jervon Pressley made Layup.
+Hampton,American,4,6,3,35,0,Paris Maragkos missed Layup.
+Hampton,American,4,6,3,35,0,Jervon Pressley Defensive Rebound.
+Hampton,American,4,6,3,41,0,Reginald Johnson missed Layup.
+Hampton,American,4,6,3,41,0,American Defensive Rebound.
+Hampton,American,4,6,4,4,0,Paris Maragkos missed Jumper.
+Hampton,American,4,6,4,4,0,Lawrence Cooks Defensive Rebound.
+Hampton,American,4,6,4,10,0,Brian Darden missed Three Point Jumper.
+Hampton,American,4,6,4,10,0,Charlie Jones Defensive Rebound.
+Hampton,American,4,6,4,26,0,Paris Maragkos missed Jumper.
+Hampton,American,4,6,4,26,0,Lawrence Cooks Defensive Rebound.
+Hampton,American,4,6,4,43,0,Jervon Pressley missed Jumper.
+Hampton,American,4,6,4,43,0,Jesse Reed Defensive Rebound.
+Hampton,American,4,6,4,48,0,Official TV Timeout
+Hampton,American,4,6,5,6,0,Jesse Reed missed Three Point Jumper.
+Hampton,American,4,6,5,6,0,American Offensive Rebound.
+Hampton,American,4,6,5,28,0,Andrija Matic Turnover.
+Hampton,American,4,6,5,45,0,Quinton Chievous Turnover.
+Hampton,American,4,6,6,7,0,Marko Vasic missed Jumper.
+Hampton,American,4,6,6,7,0,Quinton Chievous Defensive Rebound.
+Hampton,American,4,6,6,17,0,Reginald Johnson missed Jumper.
+Hampton,American,4,6,6,17,0,Charlie Jones Defensive Rebound.
+Hampton,American,4,6,6,27,0,Jesse Reed Turnover.
+Hampton,American,4,6,6,40,0,Reginald Johnson Turnover.
+Hampton,American,4,6,6,41,0,Marko Vasic Steal.
+Hampton,American,4,6,7,0,0,Delante Jones missed Jumper.
+Hampton,American,4,6,7,0,0,Jervon Pressley Block.
+Hampton,American,4,6,7,2,0,Quinton Chievous Defensive Rebound.
+Hampton,American,4,6,7,24,0,Foul on Reginald Johnson.
+Hampton,American,4,6,7,24,0,Reginald Johnson Turnover.
+Hampton,American,4,6,7,40,0,Paris Maragkos missed Jumper.
+Hampton,American,4,6,7,40,0,Quinton Chievous Defensive Rebound.
+Hampton,American,4,6,7,49,0,Foul on Marko Vasic.
+Hampton,American,4,6,7,49,0,Quinton Chievous missed Free Throw.
+Hampton,American,4,6,7,49,0,Hampton Deadball Team Rebound.
+Hampton,American,4,6,7,49,0,Quinton Chievous missed Free Throw.
+Hampton,American,4,6,7,49,0,Paris Maragkos Defensive Rebound.
+Hampton,American,4,6,8,10,0,Delante Jones Turnover.
+Hampton,American,4,6,8,10,0,Official TV Timeout
+Hampton,American,4,6,8,25,0,Lawrence Cooks missed Three Point Jumper.
+Hampton,American,4,6,8,25,0,Jervon Pressley Offensive Rebound.
+Hampton,American,6,6,8,30,1,Jervon Pressley made Layup.
+Hampton,American,6,6,9,5,0,Jesse Reed Turnover.
+Hampton,American,6,6,9,22,0,Foul on Charles Wilson-Fisher.
+Hampton,American,6,6,9,22,0,Charles Wilson-Fisher Turnover.
+Hampton,American,6,6,9,34,0,Foul on Brian Darden.
+Hampton,American,6,6,10,1,0,Marko Vasic Turnover.
+Hampton,American,6,6,10,12,0,Foul on Jalen Rhea.
+Hampton,American,6,6,10,23,0,Reginald Johnson Turnover.
+Hampton,American,6,6,10,25,0,Charlie Jones Steal.
+Hampton,American,6,6,10,42,0,Charles Wilson-Fisher Turnover.
+Hampton,American,6,8,11,13,1,James Washington made Layup.
+Hampton,American,6,8,11,31,0,Reginald Johnson missed Jumper.
+Hampton,American,6,8,11,31,0,Marko Vasic Defensive Rebound.
+Hampton,American,6,8,11,31,0,Foul on Charles Wilson-Fisher.
+Hampton,American,6,8,11,42,0,Charlie Jones Turnover.
+Hampton,American,6,8,12,1,0,Reginald Johnson missed Jumper.
+Hampton,American,6,8,12,1,0,Quinton Chievous Offensive Rebound.
+Hampton,American,6,8,12,4,0,Foul on Quinton Chievous.
+Hampton,American,6,8,12,4,0,Quinton Chievous Turnover.
+Hampton,American,6,8,12,4,0,Official TV Timeout
+Hampton,American,8,8,12,6,1,Dionte Adams made Jumper. Assisted by Reginald Johnson.
+Hampton,American,8,8,12,38,0,Paris Maragkos missed Jumper.
+Hampton,American,8,8,12,38,0,Lawrence Cooks Defensive Rebound.
+Hampton,American,8,8,12,47,0,Dionte Adams Turnover.
+Hampton,American,8,10,13,11,1,Charlie Jones made Jumper.
+Hampton,American,8,10,13,21,0,Quinton Chievous missed Three Point Jumper.
+Hampton,American,8,10,13,21,0,American Defensive Rebound.
+Hampton,American,8,10,13,48,0,Foul on Dionte Adams.
+Hampton,American,8,11,13,48,1,Jesse Reed made Free Throw.
+Hampton,American,8,12,13,48,1,Jesse Reed made Free Throw.
+Hampton,American,8,12,14,3,0,Lawrence Cooks missed Jumper.
+Hampton,American,8,12,14,3,0,American Defensive Rebound.
+Hampton,American,8,12,14,33,0,Jesse Reed missed Layup.
+Hampton,American,8,12,14,33,0,Dionte Adams Defensive Rebound.
+Hampton,American,8,12,15,0,0,Dionte Adams Turnover.
+Hampton,American,8,12,15,0,0,Delante Jones Steal.
+Hampton,American,8,14,15,21,1,Charlie Jones made Jumper.
+Hampton,American,8,14,15,42,0,Foul on Marko Vasic.
+Hampton,American,10,14,15,46,1,Kalin Fisher made Jumper.
+Hampton,American,10,17,16,4,1,Delante Jones made Three Point Jumper. Assisted by Jesse Reed.
+Hampton,American,12,17,16,11,1,Reginald Johnson made Jumper.
+Hampton,American,12,17,16,14,0,Foul on Jesse Reed.
+Hampton,American,12,17,16,14,0,Official TV Timeout
+Hampton,American,13,17,16,14,1,Reginald Johnson made Free Throw.
+Hampton,American,13,17,16,39,0,Charlie Jones missed Jumper.
+Hampton,American,13,17,16,39,0,Paris Maragkos Offensive Rebound.
+Hampton,American,13,19,16,43,1,Paris Maragkos made Layup.
+Hampton,American,13,19,16,44,0,Foul on Jervon Pressley.
+Hampton,American,13,19,16,44,0,Paris Maragkos missed Free Throw.
+Hampton,American,13,19,16,44,0,Akim Mitchell Defensive Rebound.
+Hampton,American,15,19,16,52,1,Reginald Johnson made Layup. Assisted by Kalin Fisher.
+Hampton,American,15,19,17,5,0,James Washington Turnover.
+Hampton,American,17,19,17,21,1,Akim Mitchell made Layup. Assisted by Reginald Johnson.
+Hampton,American,17,21,17,38,1,Paris Maragkos made Layup. Assisted by Delante Jones.
+Hampton,American,17,21,17,44,0,Reginald Johnson Turnover.
+Hampton,American,17,21,17,50,0,Jesse Reed Turnover.
+Hampton,American,17,21,17,51,0,Kalin Fisher Steal.
+Hampton,American,17,21,17,55,0,Foul on Jesse Reed.
+Hampton,American,17,21,18,3,0,Reginald Johnson missed Three Point Jumper.
+Hampton,American,17,21,18,3,0,Jervon Pressley Offensive Rebound.
+Hampton,American,17,21,18,7,0,Foul on Paris Maragkos.
+Hampton,American,18,21,18,7,1,Jervon Pressley made Free Throw.
+Hampton,American,18,21,18,7,0,Jervon Pressley missed Free Throw.
+Hampton,American,18,21,18,7,0,Alex Paquin Defensive Rebound.
+Hampton,American,18,21,18,22,0,Charlie Jones missed Layup.
+Hampton,American,18,21,18,22,0,Jervon Pressley Block.
+Hampton,American,18,21,18,23,0,Delante Jones Offensive Rebound.
+Hampton,American,18,21,18,36,0,Charlie Jones missed Jumper.
+Hampton,American,18,21,18,36,0,Andrija Matic Offensive Rebound.
+Hampton,American,18,21,18,38,0,Andrija Matic Turnover.
+Hampton,American,18,21,18,51,0,Reginald Johnson missed Jumper.
+Hampton,American,18,21,18,51,0,Kalin Fisher Offensive Rebound.
+Hampton,American,20,21,18,56,1,Kalin Fisher made Layup.
+Hampton,American,20,21,18,57,0,Foul on Alex Paquin.
+Hampton,American,21,21,18,57,1,Kalin Fisher made Free Throw.
+Hampton,American,21,23,19,24,1,Alex Paquin made Layup.
+Hampton,American,21,23,19,32,0,Kalin Fisher missed Three Point Jumper.
+Hampton,American,21,23,19,32,0,Charlie Jones Defensive Rebound.
+Hampton,American,21,23,19,34,0,Foul on Akim Mitchell.
+Hampton,American,21,23,19,34,0,Charlie Jones missed Free Throw.
+Hampton,American,21,23,19,34,0,Lawrence Cooks Defensive Rebound.
+Hampton,American,21,23,19,58,0,Akim Mitchell missed Jumper.
+Hampton,American,21,23,19,58,0,American Deadball Team Rebound.
+Hampton,American,21,23,20,0,0,End of 1st half
+Hampton,American,23,23,20,13,1,Jervon Pressley made Layup. Assisted by Lawrence Cooks.
+Hampton,American,23,23,20,30,0,Foul on Jervon Pressley.
+Hampton,American,23,25,20,34,1,Jesse Reed made Layup. Assisted by Charlie Jones.
+Hampton,American,23,25,20,50,0,Foul on Marko Vasic.
+Hampton,American,25,25,21,6,1,Jervon Pressley made Jumper.
+Hampton,American,25,25,21,26,0,Paris Maragkos missed Jumper.
+Hampton,American,25,25,21,26,0,Reginald Johnson Defensive Rebound.
+Hampton,American,27,25,21,32,1,Reginald Johnson made Layup.
+Hampton,American,27,25,22,5,0,Jesse Reed missed Three Point Jumper.
+Hampton,American,27,25,22,5,0,Hampton Defensive Rebound.
+Hampton,American,30,25,22,26,1,Brian Darden made Three Point Jumper. Assisted by Reginald Johnson.
+Hampton,American,30,25,23,3,0,American  Turnover.
+Hampton,American,33,25,23,31,1,Reginald Johnson made Three Point Jumper.
+Hampton,American,33,25,23,50,0,Paris Maragkos Turnover.
+Hampton,American,33,25,24,9,0,Reginald Johnson missed Layup.
+Hampton,American,33,25,24,9,0,Hampton Offensive Rebound.
+Hampton,American,33,25,24,14,0,Official TV Timeout
+Hampton,American,35,25,24,28,1,Reginald Johnson made Jumper.
+Hampton,American,35,25,24,57,0,Jalen Rhea missed Three Point Jumper.
+Hampton,American,35,25,24,57,0,Reginald Johnson Defensive Rebound.
+Hampton,American,37,25,25,7,1,Quinton Chievous made Layup. Assisted by Reginald Johnson.
+Hampton,American,37,27,25,26,1,Jesse Reed made Layup.
+Hampton,American,37,27,25,49,0,Foul on Jalen Rhea.
+Hampton,American,39,27,25,58,1,Quinton Chievous made Dunk. Assisted by Jervon Pressley.
+Hampton,American,39,27,26,21,0,Charlie Jones missed Layup.
+Hampton,American,39,27,26,21,0,Andrija Matic Offensive Rebound.
+Hampton,American,39,27,26,26,0,Andrija Matic missed Jumper.
+Hampton,American,39,27,26,26,0,Quinton Chievous Defensive Rebound.
+Hampton,American,39,27,26,48,0,Lawrence Cooks Turnover.
+Hampton,American,39,27,26,50,0,Charlie Jones Steal.
+Hampton,American,39,29,26,57,1,Delante Jones made Jumper.
+Hampton,American,39,29,27,8,0,Hampton  Timeout
+Hampton,American,39,29,27,8,0,Official TV Timeout
+Hampton,American,39,29,27,15,0,Foul on Delante Jones.
+Hampton,American,39,29,27,31,0,Foul on Charlie Jones.
+Hampton,American,40,29,27,31,1,Quinton Chievous made Free Throw.
+Hampton,American,40,29,27,31,0,Quinton Chievous missed Free Throw.
+Hampton,American,40,29,27,31,0,Charlie Jones Defensive Rebound.
+Hampton,American,40,29,27,53,0,Charlie Jones missed Three Point Jumper.
+Hampton,American,40,29,27,53,0,Andrija Matic Offensive Rebound.
+Hampton,American,40,29,28,0,0,Foul on Brian Darden.
+Hampton,American,40,29,28,6,0,Jalen Rhea missed Three Point Jumper.
+Hampton,American,40,29,28,6,0,Quinton Chievous Defensive Rebound.
+Hampton,American,42,29,28,22,1,Jervon Pressley made Jumper. Assisted by Quinton Chievous.
+Hampton,American,42,32,28,49,1,Paris Maragkos made Three Point Jumper. Assisted by Delante Jones.
+Hampton,American,42,32,29,10,0,Brian Darden missed Three Point Jumper.
+Hampton,American,42,32,29,10,0,Paris Maragkos Defensive Rebound.
+Hampton,American,42,32,29,13,0,Foul on Jervon Pressley.
+Hampton,American,42,32,29,13,0,Official TV Timeout
+Hampton,American,42,32,29,31,0,Paris Maragkos missed Jumper.
+Hampton,American,42,32,29,31,0,Quinton Chievous Defensive Rebound.
+Hampton,American,42,32,29,49,0,Brian Darden missed Jumper.
+Hampton,American,42,32,29,49,0,Paris Maragkos Defensive Rebound.
+Hampton,American,42,35,30,4,1,Delante Jones made Three Point Jumper. Assisted by Charlie Jones.
+Hampton,American,42,35,30,28,0,Kalin Fisher missed Layup.
+Hampton,American,42,35,30,28,0,Paris Maragkos Defensive Rebound.
+Hampton,American,42,35,30,44,0,Foul on Quinton Chievous.
+Hampton,American,42,35,30,44,0,Paris Maragkos missed Free Throw.
+Hampton,American,42,35,30,44,0,American Deadball Team Rebound.
+Hampton,American,42,36,30,44,1,Paris Maragkos made Free Throw.
+Hampton,American,42,36,30,59,0,Foul on Delante Jones.
+Hampton,American,42,36,31,5,0,Jervon Pressley missed Jumper.
+Hampton,American,42,36,31,5,0,Charlie Jones Defensive Rebound.
+Hampton,American,42,38,31,14,1,Paris Maragkos made Jumper.
+Hampton,American,42,38,31,42,0,Foul on Charlie Jones.
+Hampton,American,44,38,31,59,1,Quinton Chievous made Layup.
+Hampton,American,44,38,32,15,0,Paris Maragkos Turnover.
+Hampton,American,44,38,32,16,0,Official TV Timeout
+Hampton,American,46,38,32,31,1,Reginald Johnson made Jumper.
+Hampton,American,46,38,32,57,0,Jalen Rhea missed Three Point Jumper.
+Hampton,American,46,38,32,57,0,Brian Darden Defensive Rebound.
+Hampton,American,46,38,33,2,0,Foul on Jesse Reed.
+Hampton,American,47,38,33,2,1,Brian Darden made Free Throw.
+Hampton,American,48,38,33,2,1,Brian Darden made Free Throw.
+Hampton,American,48,38,33,12,0,Delante Jones missed Layup.
+Hampton,American,48,38,33,12,0,Dionte Adams Block.
+Hampton,American,48,38,33,14,0,Dionte Adams Defensive Rebound.
+Hampton,American,48,38,33,36,0,Reginald Johnson Turnover.
+Hampton,American,48,38,33,57,0,Foul on Paris Maragkos.
+Hampton,American,48,38,33,57,0,Paris Maragkos Turnover.
+Hampton,American,48,38,34,11,0,Foul on Delante Jones.
+Hampton,American,49,38,34,11,1,Reginald Johnson made Free Throw.
+Hampton,American,49,38,34,11,0,Reginald Johnson missed Free Throw.
+Hampton,American,49,38,34,11,0,Delante Jones Defensive Rebound.
+Hampton,American,49,38,34,33,0,Paris Maragkos missed Jumper.
+Hampton,American,49,38,34,33,0,American Offensive Rebound.
+Hampton,American,49,38,34,43,0,Delante Jones missed Jumper.
+Hampton,American,49,38,34,43,0,Hampton Deadball Team Rebound.
+Hampton,American,49,38,35,7,0,Foul on Jesse Reed.
+Hampton,American,50,38,35,7,1,Reginald Johnson made Free Throw.
+Hampton,American,50,38,35,7,0,Reginald Johnson missed Free Throw.
+Hampton,American,50,38,35,7,0,Paris Maragkos Defensive Rebound.
+Hampton,American,50,38,35,15,0,Marko Vasic Turnover.
+Hampton,American,50,38,35,16,0,Lawrence Cooks Steal.
+Hampton,American,50,38,35,18,0,Lawrence Cooks missed Layup.
+Hampton,American,50,38,35,18,0,Quinton Chievous Offensive Rebound.
+Hampton,American,50,38,35,23,0,Quinton Chievous Turnover.
+Hampton,American,50,38,35,24,0,Paris Maragkos Steal.
+Hampton,American,50,38,35,24,0,Foul on Lawrence Cooks.
+Hampton,American,50,38,35,24,0,American  Timeout
+Hampton,American,50,40,35,42,1,Delante Jones made Layup.
+Hampton,American,50,40,36,14,0,Lawrence Cooks missed Jumper.
+Hampton,American,50,40,36,14,0,American Deadball Team Rebound.
+Hampton,American,50,40,36,17,0,Official TV Timeout
+Hampton,American,50,42,36,45,1,Marko Vasic made Layup.
+Hampton,American,50,42,37,4,0,Reginald Johnson missed Layup.
+Hampton,American,50,42,37,4,0,Marko Vasic Block.
+Hampton,American,50,42,37,4,0,Hampton Offensive Rebound.
+Hampton,American,50,42,37,17,0,Brian Darden missed Three Point Jumper.
+Hampton,American,50,42,37,17,0,American Deadball Team Rebound.
+Hampton,American,50,42,37,47,0,Delante Jones missed Three Point Jumper.
+Hampton,American,50,42,37,47,0,Charlie Jones Offensive Rebound.
+Hampton,American,50,42,38,0,0,Foul on Reginald Johnson.
+Hampton,American,50,43,38,0,1,Jesse Reed made Free Throw.
+Hampton,American,50,44,38,0,1,Jesse Reed made Free Throw.
+Hampton,American,50,44,38,20,0,Reginald Johnson missed Jumper.
+Hampton,American,50,44,38,20,0,Charlie Jones Defensive Rebound.
+Hampton,American,50,44,38,38,0,American  Timeout
+Hampton,American,50,46,38,48,1,Jesse Reed made Layup. Assisted by Marko Vasic.
+Hampton,American,50,46,38,59,0,Hampton  Timeout
+Hampton,American,52,46,39,16,1,Reginald Johnson made Layup.
+Hampton,American,52,46,39,16,0,Foul on Marko Vasic.
+Hampton,American,53,46,39,16,1,Reginald Johnson made Free Throw.
+Hampton,American,53,46,39,23,0,Jesse Reed Turnover.
+Hampton,American,53,46,39,25,0,Foul on Delante Jones.
+Hampton,American,54,46,39,25,1,Kalin Fisher made Free Throw.
+Hampton,American,55,46,39,25,1,Kalin Fisher made Free Throw.
+Hampton,American,55,48,39,29,1,Marko Vasic made Layup. Assisted by Delante Jones.
+Hampton,American,55,48,39,29,0,Foul on Charlie Jones.
+Hampton,American,56,48,39,29,1,Brian Darden made Free Throw.
+Hampton,American,57,48,39,29,1,Brian Darden made Free Throw.
+Hampton,American,57,48,39,36,0,James Washington Turnover.
+Hampton,American,57,48,39,37,0,Reginald Johnson Steal.
+Hampton,American,59,48,39,43,1,Quinton Chievous made Dunk. Assisted by Dionte Adams.
+Hampton,American,59,48,39,48,0,Jesse Reed missed Three Point Jumper.
+Hampton,American,59,48,39,48,0,Quinton Chievous Defensive Rebound.
+Hampton,American,61,48,39,56,1,Dionte Adams made Layup. Assisted by Quinton Chievous.
+Hampton,American,61,48,40,0,0,End of Game

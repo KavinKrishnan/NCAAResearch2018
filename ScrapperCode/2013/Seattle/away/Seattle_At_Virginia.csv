@@ -1,0 +1,332 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Seattle,Virginia,0,0,0,18,0,Justin Anderson Turnover.
+Seattle,Virginia,0,0,0,39,0,Clarence Trent Turnover.
+Seattle,Virginia,0,0,0,41,0,Evan Nolte Steal.
+Seattle,Virginia,0,0,0,55,0,Joe Harris missed Three Point Jumper.
+Seattle,Virginia,0,0,0,55,0,Akil Mitchell Offensive Rebound.
+Seattle,Virginia,0,0,1,7,0,Justin Anderson missed Three Point Jumper.
+Seattle,Virginia,0,0,1,7,0,Deshaun Sunderhaus Defensive Rebound.
+Seattle,Virginia,3,0,1,14,1,Deshaun Sunderhaus made Three Point Jumper.  Assisted by Sterling Carter.
+Seattle,Virginia,3,0,1,43,0,Evan Nolte missed Jumper.
+Seattle,Virginia,3,0,1,43,0,Clarence Trent Defensive Rebound.
+Seattle,Virginia,3,0,1,52,0,Foul on Paul Jesperson
+Seattle,Virginia,3,0,1,52,0,Prince Obasi missed Free Throw.
+Seattle,Virginia,3,0,1,52,0,null
+Seattle,Virginia,4,0,1,52,1,Prince Obasi made Free Throw.
+Seattle,Virginia,4,0,2,4,0,Paul Jesperson Turnover.
+Seattle,Virginia,4,0,2,13,0,Sterling Carter missed Three Point Jumper.
+Seattle,Virginia,4,0,2,13,0,Justin Anderson Defensive Rebound.
+Seattle,Virginia,4,0,2,24,0,Justin Anderson Turnover.
+Seattle,Virginia,4,0,2,26,0,Deshaun Sunderhaus Steal.
+Seattle,Virginia,4,0,2,29,0,Clarence Trent Turnover.
+Seattle,Virginia,4,0,2,30,0,Justin Anderson Steal.
+Seattle,Virginia,4,0,2,33,0,Paul Jesperson missed Three Point Jumper.
+Seattle,Virginia,4,0,2,33,0,Evan Nolte Offensive Rebound.
+Seattle,Virginia,4,3,2,51,1,Evan Nolte made Three Point Jumper.  Assisted by Justin Anderson.
+Seattle,Virginia,6,3,3,2,1,Louis Green made Layup.  Assisted by Prince Obasi.
+Seattle,Virginia,6,3,3,2,0,Foul on Evan Nolte
+Seattle,Virginia,6,3,3,2,0,Louis Green missed Free Throw.
+Seattle,Virginia,6,3,3,2,0,Paul Jesperson Defensive Rebound.
+Seattle,Virginia,6,5,3,34,1,Akil Mitchell made Jumper.  Assisted by Paul Jesperson.
+Seattle,Virginia,6,5,3,45,0,Sterling Carter missed Three Point Jumper.
+Seattle,Virginia,6,5,3,45,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,6,5,3,51,0,Foul on Deshaun Sunderhaus
+Seattle,Virginia,6,5,4,7,0,Akil Mitchell missed Layup.
+Seattle,Virginia,6,5,4,7,0,Allen Tate Defensive Rebound.
+Seattle,Virginia,6,5,4,25,0,Jarell Flora Turnover.
+Seattle,Virginia,6,5,4,26,0,Akil Mitchell Steal.
+Seattle,Virginia,6,7,4,34,1,Joe Harris made Layup.
+Seattle,Virginia,6,7,4,34,0,Foul on Chad Rasmussen
+Seattle,Virginia,6,7,4,34,0,Official TV Timeout.
+Seattle,Virginia,6,7,4,34,0,Joe Harris missed Free Throw.
+Seattle,Virginia,6,7,4,34,0,Akil Mitchell Offensive Rebound.
+Seattle,Virginia,6,9,4,38,1,Akil Mitchell made Layup.
+Seattle,Virginia,6,9,4,53,0,Allen Tate missed Layup.
+Seattle,Virginia,6,9,4,53,0,Teven Jones Defensive Rebound.
+Seattle,Virginia,6,9,5,13,0,Akil Mitchell Turnover.
+Seattle,Virginia,6,9,5,13,0,Chad Rasmussen Steal.
+Seattle,Virginia,6,9,5,27,0,Jarell Flora Turnover.
+Seattle,Virginia,6,9,5,28,0,Darion Atkins Steal.
+Seattle,Virginia,6,12,5,41,1,Joe Harris made Three Point Jumper.  Assisted by Paul Jesperson.
+Seattle,Virginia,6,12,5,46,0,Seattle Full Timeout.
+Seattle,Virginia,6,12,5,55,0,Sterling Carter missed Three Point Jumper.
+Seattle,Virginia,6,12,5,55,0,Clarence Trent Offensive Rebound.
+Seattle,Virginia,8,12,5,58,1,Clarence Trent made Layup.
+Seattle,Virginia,8,12,6,26,0,Teven Jones missed Jumper.
+Seattle,Virginia,8,12,6,26,0,Clarence Trent Defensive Rebound.
+Seattle,Virginia,8,12,6,34,0,Chad Rasmussen missed Three Point Jumper.
+Seattle,Virginia,8,12,6,34,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,8,15,6,53,1,Paul Jesperson made Three Point Jumper.  Assisted by Darion Atkins.
+Seattle,Virginia,8,15,7,2,0,Foul on Teven Jones
+Seattle,Virginia,8,15,7,5,0,Deshaun Sunderhaus missed Jumper.
+Seattle,Virginia,8,15,7,5,0,Teven Jones Defensive Rebound.
+Seattle,Virginia,8,15,7,26,0,Darion Atkins missed Jumper.
+Seattle,Virginia,8,15,7,26,0,Akil Mitchell Offensive Rebound.
+Seattle,Virginia,8,15,7,40,0,Foul on Sterling Carter
+Seattle,Virginia,8,17,7,42,1,Evan Nolte made Dunk.  Assisted by Mike Tobey.
+Seattle,Virginia,8,17,7,49,0,Sterling Carter Turnover.
+Seattle,Virginia,8,17,8,4,0,Evan Nolte missed Three Point Jumper.
+Seattle,Virginia,8,17,8,4,0,Darion Atkins Offensive Rebound.
+Seattle,Virginia,8,19,8,8,1,Darion Atkins made Layup.
+Seattle,Virginia,8,19,8,14,0,Chad Rasmussen missed Three Point Jumper.
+Seattle,Virginia,8,19,8,14,0,Sterling Carter Offensive Rebound.
+Seattle,Virginia,8,19,8,17,0,Sterling Carter missed Jumper.
+Seattle,Virginia,8,19,8,17,0,Darion Atkins Defensive Rebound.
+Seattle,Virginia,8,19,8,26,0,Official TV Timeout.
+Seattle,Virginia,8,21,8,57,1,Mike Tobey made Jumper.  Assisted by Evan Nolte.
+Seattle,Virginia,8,21,9,14,0,Jarell Flora missed Jumper.
+Seattle,Virginia,8,21,9,14,0,Louis Green Offensive Rebound.
+Seattle,Virginia,8,21,9,28,0,Prince Obasi missed Layup.
+Seattle,Virginia,8,21,9,28,0,Darion Atkins Defensive Rebound.
+Seattle,Virginia,8,21,9,43,0,Joe Harris Turnover.
+Seattle,Virginia,8,21,9,43,0,Prince Obasi Steal.
+Seattle,Virginia,8,21,9,43,0,Foul on Joe Harris
+Seattle,Virginia,8,21,9,58,0,Clarence Trent missed Jumper.
+Seattle,Virginia,8,21,9,58,0,Mike Tobey Defensive Rebound.
+Seattle,Virginia,8,21,10,13,0,Joe Harris missed Layup.
+Seattle,Virginia,8,21,10,13,0,Jarell Flora Defensive Rebound.
+Seattle,Virginia,8,21,10,20,0,Allen Tate Turnover.
+Seattle,Virginia,8,21,10,31,0,Foul on Clarence Trent
+Seattle,Virginia,8,22,10,31,1,Mike Tobey made Free Throw.
+Seattle,Virginia,8,23,10,31,1,Mike Tobey made Free Throw.
+Seattle,Virginia,8,23,10,47,0,Clarence Trent Turnover.
+Seattle,Virginia,8,23,11,4,0,Mike Tobey missed Jumper.
+Seattle,Virginia,8,23,11,4,0,Darion Atkins Offensive Rebound.
+Seattle,Virginia,8,23,11,9,0,Taylor Barnette missed Three Point Jumper.
+Seattle,Virginia,8,23,11,9,0,Clarence Trent Defensive Rebound.
+Seattle,Virginia,8,23,11,19,0,Foul on Joe Harris
+Seattle,Virginia,8,23,11,19,0,Prince Obasi missed Free Throw.
+Seattle,Virginia,8,23,11,19,0,null
+Seattle,Virginia,9,23,11,19,1,Prince Obasi made Free Throw.
+Seattle,Virginia,9,23,11,43,0,Justin Anderson Turnover.
+Seattle,Virginia,9,23,11,57,0,Prince Obasi missed Layup.
+Seattle,Virginia,9,23,11,57,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,9,23,12,4,0,Foul on Deshaun Sunderhaus
+Seattle,Virginia,9,23,12,4,0,Official TV Timeout.
+Seattle,Virginia,9,24,12,4,1,Justin Anderson made Free Throw.
+Seattle,Virginia,9,25,12,4,1,Justin Anderson made Free Throw.
+Seattle,Virginia,9,25,12,20,0,Prince Obasi missed Jumper.
+Seattle,Virginia,9,25,12,20,0,Louis Green Offensive Rebound.
+Seattle,Virginia,11,25,12,25,1,Louis Green made Layup.
+Seattle,Virginia,11,27,12,53,1,Mike Tobey made Layup.  Assisted by Akil Mitchell.
+Seattle,Virginia,11,27,13,4,0,Chad Rasmussen Turnover.
+Seattle,Virginia,11,27,13,6,0,Akil Mitchell Steal.
+Seattle,Virginia,11,27,13,13,0,Paul Jesperson missed Jumper.
+Seattle,Virginia,11,27,13,13,0,Akil Mitchell Offensive Rebound.
+Seattle,Virginia,11,29,13,15,1,Akil Mitchell made Layup.
+Seattle,Virginia,11,29,13,17,0,Seattle Full Timeout.
+Seattle,Virginia,11,29,13,19,0,Sterling Carter Turnover.
+Seattle,Virginia,11,29,13,49,0,Foul on Louis Green
+Seattle,Virginia,11,30,13,49,1,Akil Mitchell made Free Throw.
+Seattle,Virginia,11,31,13,49,1,Akil Mitchell made Free Throw.
+Seattle,Virginia,11,31,13,59,0,Louis Green missed Jumper.
+Seattle,Virginia,11,31,13,59,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,11,33,14,24,1,Darion Atkins made Jumper.  Assisted by Paul Jesperson.
+Seattle,Virginia,11,33,14,32,0,Sterling Carter missed Jumper.
+Seattle,Virginia,11,33,14,32,0,Seattle Offensive Rebound.
+Seattle,Virginia,11,33,14,44,0,D'Vonne Pickett missed Three Point Jumper.
+Seattle,Virginia,11,33,14,44,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,11,35,15,14,1,Akil Mitchell made Jumper.  Assisted by Paul Jesperson.
+Seattle,Virginia,13,35,15,28,1,Chad Rasmussen made Jumper.
+Seattle,Virginia,13,35,15,52,0,Paul Jesperson missed Layup.
+Seattle,Virginia,13,35,15,52,0,Akil Mitchell Offensive Rebound.
+Seattle,Virginia,13,35,15,56,0,Akil Mitchell Turnover.
+Seattle,Virginia,13,35,15,58,0,Allen Tate Steal.
+Seattle,Virginia,13,35,16,1,0,D'Vonne Pickett missed Layup.
+Seattle,Virginia,13,35,16,1,0,Justin Anderson Block.
+Seattle,Virginia,13,35,16,3,0,Teven Jones Defensive Rebound.
+Seattle,Virginia,13,35,16,18,0,Official TV Timeout.
+Seattle,Virginia,13,35,16,40,0,Teven Jones missed Three Point Jumper.
+Seattle,Virginia,13,35,16,40,0,null
+Seattle,Virginia,13,35,16,57,0,Foul on Taylor Barnette
+Seattle,Virginia,13,35,17,1,0,Sterling Carter missed Three Point Jumper.
+Seattle,Virginia,13,35,17,1,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,13,35,17,5,0,Foul on Allen Tate
+Seattle,Virginia,13,36,17,5,1,Teven Jones made Free Throw.
+Seattle,Virginia,13,37,17,5,1,Teven Jones made Free Throw.
+Seattle,Virginia,13,37,17,20,0,Sterling Carter Turnover.
+Seattle,Virginia,13,37,17,30,0,Foul on D'Vonne Pickett
+Seattle,Virginia,13,38,17,30,1,Mike Tobey made Free Throw.
+Seattle,Virginia,13,39,17,30,1,Mike Tobey made Free Throw.
+Seattle,Virginia,13,39,17,52,0,Clarence Trent missed Three Point Jumper.
+Seattle,Virginia,13,39,17,52,0,Mike Tobey Defensive Rebound.
+Seattle,Virginia,13,42,18,10,1,Evan Nolte made Three Point Jumper.  Assisted by Taylor Barnette.
+Seattle,Virginia,13,42,18,18,0,Sterling Carter Turnover.
+Seattle,Virginia,13,44,18,36,1,Mike Tobey made Layup.  Assisted by Taylor Barnette.
+Seattle,Virginia,13,44,18,54,0,D'Vonne Pickett missed Jumper.
+Seattle,Virginia,13,44,18,54,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,13,44,19,15,0,Mike Tobey Turnover.
+Seattle,Virginia,13,44,19,30,0,D'Vonne Pickett Turnover.
+Seattle,Virginia,13,44,19,56,0,Teven Jones Turnover.
+Seattle,Virginia,13,44,19,57,0,Clarence Trent Steal.
+Seattle,Virginia,13,44,20,0,0,End of the 1st Half.
+Seattle,Virginia,13,44,20,12,0,Deshaun Sunderhaus missed Three Point Jumper.
+Seattle,Virginia,13,44,20,12,0,Deshaun Sunderhaus Offensive Rebound.
+Seattle,Virginia,13,44,20,25,0,Deshaun Sunderhaus missed Layup.
+Seattle,Virginia,13,44,20,25,0,Darion Atkins Block.
+Seattle,Virginia,13,44,20,25,0,Seattle Offensive Rebound.
+Seattle,Virginia,13,44,20,38,0,Deshaun Sunderhaus Turnover.
+Seattle,Virginia,13,46,20,56,1,Darion Atkins made Jumper.  Assisted by Paul Jesperson.
+Seattle,Virginia,13,46,21,4,0,Clarence Trent missed Jumper.
+Seattle,Virginia,13,46,21,4,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,13,46,21,41,0,Paul Jesperson missed Three Point Jumper.
+Seattle,Virginia,13,46,21,41,0,Seattle Defensive Rebound.
+Seattle,Virginia,13,46,21,57,0,Clarence Trent Turnover.
+Seattle,Virginia,13,46,21,57,0,Foul on Clarence Trent
+Seattle,Virginia,13,46,22,28,0,Akil Mitchell missed Jumper.
+Seattle,Virginia,13,46,22,28,0,Allen Tate Defensive Rebound.
+Seattle,Virginia,16,46,22,41,1,Sterling Carter made Three Point Jumper.
+Seattle,Virginia,16,46,23,3,0,Foul on Allen Tate
+Seattle,Virginia,16,46,23,6,0,Foul on Deshaun Sunderhaus
+Seattle,Virginia,16,47,23,6,1,Darion Atkins made Free Throw.
+Seattle,Virginia,16,48,23,6,1,Darion Atkins made Free Throw.
+Seattle,Virginia,18,48,23,19,1,Prince Obasi made Layup.
+Seattle,Virginia,18,48,23,19,0,Foul on Teven Jones
+Seattle,Virginia,18,48,23,19,0,Prince Obasi missed Free Throw.
+Seattle,Virginia,18,48,23,19,0,Allen Tate Offensive Rebound.
+Seattle,Virginia,18,48,23,22,0,Foul on Akil Mitchell
+Seattle,Virginia,19,48,23,22,1,Allen Tate made Free Throw.
+Seattle,Virginia,20,48,23,22,1,Allen Tate made Free Throw.
+Seattle,Virginia,20,48,23,47,0,Foul on Jarell Flora
+Seattle,Virginia,20,49,23,47,1,Joe Harris made Free Throw.
+Seattle,Virginia,20,50,23,47,1,Joe Harris made Free Throw.
+Seattle,Virginia,20,50,24,7,0,Allen Tate missed Three Point Jumper.
+Seattle,Virginia,20,50,24,7,0,Virginia Defensive Rebound.
+Seattle,Virginia,20,50,24,8,0,Official TV Timeout.
+Seattle,Virginia,20,50,24,32,0,Darion Atkins Turnover.
+Seattle,Virginia,20,50,24,34,0,D'Vonne Pickett Steal.
+Seattle,Virginia,20,50,24,38,0,D'Vonne Pickett missed Layup.
+Seattle,Virginia,20,50,24,38,0,Darion Atkins Block.
+Seattle,Virginia,20,50,24,39,0,Allen Tate Offensive Rebound.
+Seattle,Virginia,20,50,24,41,0,Foul on Paul Jesperson
+Seattle,Virginia,21,50,24,41,1,Louis Green made Free Throw.
+Seattle,Virginia,22,50,24,41,1,Louis Green made Free Throw.
+Seattle,Virginia,22,50,24,45,0,Taylor Barnette Turnover.
+Seattle,Virginia,22,50,25,0,0,Clarence Trent Turnover.
+Seattle,Virginia,22,50,25,2,0,Akil Mitchell Steal.
+Seattle,Virginia,22,50,25,17,0,Paul Jesperson missed Three Point Jumper.
+Seattle,Virginia,22,50,25,17,0,D'Vonne Pickett Defensive Rebound.
+Seattle,Virginia,22,50,25,24,0,Foul on Akil Mitchell
+Seattle,Virginia,22,50,25,24,0,David Trimble missed Free Throw.
+Seattle,Virginia,22,50,25,24,0,null
+Seattle,Virginia,23,50,25,24,1,David Trimble made Free Throw.
+Seattle,Virginia,23,50,25,24,0,Foul on Clarence Trent
+Seattle,Virginia,23,51,25,24,1,Akil Mitchell made Free Throw.
+Seattle,Virginia,23,52,25,24,1,Akil Mitchell made Free Throw.
+Seattle,Virginia,23,52,25,51,0,Paul Jesperson Turnover.
+Seattle,Virginia,23,52,25,52,0,D'Vonne Pickett Steal.
+Seattle,Virginia,25,52,25,54,1,D'Vonne Pickett made Layup.
+Seattle,Virginia,25,52,26,17,0,Joe Harris Turnover.
+Seattle,Virginia,25,52,26,17,0,Foul on Joe Harris
+Seattle,Virginia,27,52,26,26,1,Deshaun Sunderhaus made Layup.  Assisted by D'Vonne Pickett.
+Seattle,Virginia,27,54,26,43,1,Justin Anderson made Layup.
+Seattle,Virginia,27,54,26,58,0,Allen Tate Turnover.
+Seattle,Virginia,27,54,27,26,0,Evan Nolte missed Jumper.
+Seattle,Virginia,27,54,27,26,0,Akil Mitchell Offensive Rebound.
+Seattle,Virginia,27,56,27,31,1,Akil Mitchell made Jumper.
+Seattle,Virginia,27,56,27,44,0,David Trimble missed Jumper.
+Seattle,Virginia,27,56,27,44,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,27,56,28,4,0,Taylor Barnette Turnover.
+Seattle,Virginia,27,56,28,4,0,Official TV Timeout.
+Seattle,Virginia,27,56,28,16,0,Sterling Carter missed Three Point Jumper.
+Seattle,Virginia,27,56,28,16,0,Taylor Barnette Defensive Rebound.
+Seattle,Virginia,27,56,28,28,0,Evan Nolte Turnover.
+Seattle,Virginia,29,56,28,49,1,Sterling Carter made Layup.
+Seattle,Virginia,29,58,29,10,1,Justin Anderson made Dunk.  Assisted by Evan Nolte.
+Seattle,Virginia,29,58,29,19,0,Sterling Carter missed Three Point Jumper.
+Seattle,Virginia,29,58,29,19,0,Justin Anderson Defensive Rebound.
+Seattle,Virginia,29,60,29,25,1,Taylor Barnette made Layup.  Assisted by Justin Anderson.
+Seattle,Virginia,29,60,29,43,0,Sterling Carter missed Jumper.
+Seattle,Virginia,29,60,29,43,0,Akil Mitchell Defensive Rebound.
+Seattle,Virginia,29,60,29,56,0,Virginia Full Timeout.
+Seattle,Virginia,29,60,29,56,0,Virginia Full Timeout.
+Seattle,Virginia,29,60,30,0,0,Foul on Teven Jones
+Seattle,Virginia,29,60,30,0,0,Teven Jones Turnover.
+Seattle,Virginia,29,60,30,4,0,Clarence Trent missed Layup.
+Seattle,Virginia,29,60,30,4,0,Seattle Offensive Rebound.
+Seattle,Virginia,29,60,30,13,0,Clarence Trent Turnover.
+Seattle,Virginia,29,60,30,17,0,Darion Atkins Steal.
+Seattle,Virginia,29,62,30,29,1,Justin Anderson made Dunk.
+Seattle,Virginia,29,62,30,48,0,Prince Obasi missed Jumper.
+Seattle,Virginia,29,62,30,48,0,Darion Atkins Block.
+Seattle,Virginia,29,62,30,49,0,Darion Atkins Defensive Rebound.
+Seattle,Virginia,29,62,30,56,0,Darion Atkins Turnover.
+Seattle,Virginia,29,62,30,57,0,Sterling Carter Steal.
+Seattle,Virginia,29,62,30,58,0,Sterling Carter missed Jumper.
+Seattle,Virginia,29,62,30,58,0,Darion Atkins Block.
+Seattle,Virginia,29,62,30,58,0,Virginia Defensive Rebound.
+Seattle,Virginia,29,64,31,5,1,Mike Tobey made Layup.  Assisted by Justin Anderson.
+Seattle,Virginia,29,64,31,19,0,David Trimble missed Layup.
+Seattle,Virginia,29,64,31,19,0,Mike Tobey Defensive Rebound.
+Seattle,Virginia,29,64,31,33,0,Mike Tobey missed Jumper.
+Seattle,Virginia,29,64,31,33,0,Allen Tate Defensive Rebound.
+Seattle,Virginia,29,64,31,40,0,Sterling Carter missed Layup.
+Seattle,Virginia,29,64,31,40,0,Darion Atkins Defensive Rebound.
+Seattle,Virginia,29,64,31,49,0,Foul on Louis Green
+Seattle,Virginia,29,65,31,49,1,Mike Tobey made Free Throw.
+Seattle,Virginia,29,65,31,49,0,Mike Tobey missed Free Throw.
+Seattle,Virginia,29,65,31,49,0,Deshaun Sunderhaus Defensive Rebound.
+Seattle,Virginia,31,65,32,4,1,Deshaun Sunderhaus made Jumper.
+Seattle,Virginia,31,65,32,22,0,Mike Tobey missed Layup.
+Seattle,Virginia,31,65,32,22,0,Jarell Flora Defensive Rebound.
+Seattle,Virginia,34,65,32,29,1,Sterling Carter made Three Point Jumper.  Assisted by David Trimble.
+Seattle,Virginia,34,68,32,56,1,Taylor Barnette made Three Point Jumper.  Assisted by Evan Nolte.
+Seattle,Virginia,34,68,33,8,0,Sterling Carter missed Jumper.
+Seattle,Virginia,34,68,33,8,0,Joe Harris Defensive Rebound.
+Seattle,Virginia,34,68,33,34,0,Joe Harris missed Jumper.
+Seattle,Virginia,34,68,33,34,0,Sterling Carter Defensive Rebound.
+Seattle,Virginia,34,68,33,42,0,Allen Tate missed Jumper.
+Seattle,Virginia,34,68,33,42,0,Deshaun Sunderhaus Offensive Rebound.
+Seattle,Virginia,34,68,33,47,0,Deshaun Sunderhaus missed Jumper.
+Seattle,Virginia,34,68,33,47,0,Mike Tobey Defensive Rebound.
+Seattle,Virginia,34,68,33,55,0,Virginia Full Timeout.
+Seattle,Virginia,34,68,34,18,0,Taylor Barnette Turnover.
+Seattle,Virginia,34,68,34,19,0,Luiz Bidart Steal.
+Seattle,Virginia,34,68,34,43,0,Jack Crook missed Three Point Jumper.
+Seattle,Virginia,34,68,34,43,0,Deshaun Sunderhaus Offensive Rebound.
+Seattle,Virginia,36,68,34,46,1,Deshaun Sunderhaus made Jumper.
+Seattle,Virginia,36,70,35,10,1,Mike Tobey made Dunk.  Assisted by Teven Jones.
+Seattle,Virginia,36,70,35,28,0,Jack Crook missed Layup.
+Seattle,Virginia,36,70,35,28,0,Taylor Barnette Defensive Rebound.
+Seattle,Virginia,36,70,35,42,0,Mike Tobey Turnover.
+Seattle,Virginia,36,70,35,43,0,D'Vonne Pickett Steal.
+Seattle,Virginia,36,70,35,47,0,D'Vonne Pickett Turnover.
+Seattle,Virginia,36,70,35,47,0,Foul on D'Vonne Pickett
+Seattle,Virginia,36,70,35,47,0,Official TV Timeout.
+Seattle,Virginia,36,70,35,53,0,Foul on D'Vonne Pickett
+Seattle,Virginia,36,71,35,53,1,Mike Tobey made Free Throw.
+Seattle,Virginia,36,72,35,53,1,Mike Tobey made Free Throw.
+Seattle,Virginia,39,72,36,9,1,Chad Rasmussen made Three Point Jumper.
+Seattle,Virginia,39,72,36,11,0,Seattle Full Timeout.
+Seattle,Virginia,39,74,36,30,1,Evan Nolte made Layup.  Assisted by Taylor Barnette.
+Seattle,Virginia,39,74,36,37,0,Official TV Timeout.
+Seattle,Virginia,39,74,36,43,0,Luiz Bidart missed Jumper.
+Seattle,Virginia,39,74,36,43,0,Virginia Defensive Rebound.
+Seattle,Virginia,39,76,36,52,1,Teven Jones made Layup.  Assisted by Thomas Rogers.
+Seattle,Virginia,39,76,37,7,0,Chad Rasmussen missed Three Point Jumper.
+Seattle,Virginia,39,76,37,7,0,Allen Tate Offensive Rebound.
+Seattle,Virginia,39,76,37,12,0,Allen Tate missed Layup.
+Seattle,Virginia,39,76,37,12,0,Jack Crook Offensive Rebound.
+Seattle,Virginia,39,76,37,14,0,Foul on Thomas Rogers
+Seattle,Virginia,39,76,37,14,0,Jack Crook missed Free Throw.
+Seattle,Virginia,39,76,37,14,0,null
+Seattle,Virginia,40,76,37,14,1,Jack Crook made Free Throw.
+Seattle,Virginia,40,78,37,27,1,Justin Anderson made Dunk.  Assisted by Taylor Barnette.
+Seattle,Virginia,40,78,37,27,0,Foul on Luiz Bidart
+Seattle,Virginia,40,79,37,27,1,Justin Anderson made Free Throw.
+Seattle,Virginia,40,79,37,41,0,Allen Tate missed Layup.
+Seattle,Virginia,40,79,37,41,0,Justin Anderson Block.
+Seattle,Virginia,40,79,37,43,0,Doug Browman Defensive Rebound.
+Seattle,Virginia,40,79,37,56,0,Thomas Rogers missed Layup.
+Seattle,Virginia,40,79,37,56,0,Chad Rasmussen Defensive Rebound.
+Seattle,Virginia,40,79,38,6,0,Allen Tate Turnover.
+Seattle,Virginia,40,79,38,6,0,Foul on Allen Tate
+Seattle,Virginia,40,79,38,19,0,Foul on Luiz Bidart
+Seattle,Virginia,40,80,38,19,1,Doug Browman made Free Throw.
+Seattle,Virginia,40,80,38,19,0,Doug Browman missed Free Throw.
+Seattle,Virginia,40,80,38,19,0,Deshaun Sunderhaus Defensive Rebound.
+Seattle,Virginia,43,80,38,40,1,Chad Rasmussen made Three Point Jumper.
+Seattle,Virginia,43,83,39,25,1,Taylor Barnette made Three Point Jumper.  Assisted by Justin Anderson.
+Seattle,Virginia,43,83,39,31,0,Jarell Flora missed Jumper.
+Seattle,Virginia,43,83,39,31,0,Doug Browman Defensive Rebound.
+Seattle,Virginia,43,83,40,0,0,End Game

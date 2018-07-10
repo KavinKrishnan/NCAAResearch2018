@@ -1,0 +1,385 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Kent State,Texas,0,0,0,0,0,Jump Ball won by Texas
+Kent State,Texas,0,0,0,24,0,Jarrett Allen missed Jumper.
+Kent State,Texas,0,0,0,24,0,Kevin Zabo Defensive Rebound.
+Kent State,Texas,0,0,0,50,0,Jimmy Hall missed Layup.
+Kent State,Texas,0,0,0,50,0,Jarrett Allen Defensive Rebound.
+Kent State,Texas,0,0,1,0,0,Shaquille Cleare Turnover.
+Kent State,Texas,0,0,1,13,0,Jimmy Hall missed Jumper.
+Kent State,Texas,0,0,1,13,0,Jimmy Hall Offensive Rebound.
+Kent State,Texas,2,0,1,18,1,Jimmy Hall made Layup.
+Kent State,Texas,2,0,1,30,0,Jarrett Allen missed Jumper.
+Kent State,Texas,2,0,1,30,0,Jimmy Hall Defensive Rebound.
+Kent State,Texas,2,0,1,39,0,Deon Edwin missed Three Point Jumper.
+Kent State,Texas,2,0,1,39,0,Adonis De La Rosa Offensive Rebound.
+Kent State,Texas,2,0,1,47,0,Adonis De La Rosa missed Layup.
+Kent State,Texas,2,0,1,47,0,Jimmy Hall Offensive Rebound.
+Kent State,Texas,2,0,1,50,0,Jimmy Hall missed Jumper.
+Kent State,Texas,2,0,1,50,0,Deon Edwin Offensive Rebound.
+Kent State,Texas,4,0,1,56,1,Deon Edwin made Layup.
+Kent State,Texas,4,0,1,57,0,Foul on Kevin Zabo.
+Kent State,Texas,4,0,2,10,0,Andrew Jones missed Three Point Jumper.
+Kent State,Texas,4,0,2,10,0,Kent State Defensive Rebound.
+Kent State,Texas,4,0,2,16,0,Kevin Zabo Turnover.
+Kent State,Texas,4,0,2,16,0,Kerwin Roach Jr. Steal.
+Kent State,Texas,4,0,2,17,0,James Banks missed Layup.
+Kent State,Texas,4,0,2,17,0,Andrew Jones Offensive Rebound.
+Kent State,Texas,4,2,2,19,1,Andrew Jones made Layup.
+Kent State,Texas,4,2,2,19,0,Foul on Adonis De La Rosa.
+Kent State,Texas,4,3,2,19,1,Andrew Jones made Free Throw.
+Kent State,Texas,4,3,2,30,0,Kevin Zabo missed Three Point Jumper.
+Kent State,Texas,4,3,2,30,0,Deon Edwin Offensive Rebound.
+Kent State,Texas,4,3,2,32,0,Foul on Tevin Mack.
+Kent State,Texas,4,3,2,41,0,Deon Edwin missed Jumper.
+Kent State,Texas,4,3,2,41,0,Adonis De La Rosa Offensive Rebound.
+Kent State,Texas,4,3,2,49,0,Jimmy Hall missed Jumper.
+Kent State,Texas,4,3,2,49,0,Kent State Offensive Rebound.
+Kent State,Texas,4,3,2,59,0,Deon Edwin missed Jumper.
+Kent State,Texas,4,3,2,59,0,Tevin Mack Defensive Rebound.
+Kent State,Texas,4,3,3,7,0,Foul on Shaquille Cleare.
+Kent State,Texas,4,3,3,7,0,Shaquille Cleare Turnover.
+Kent State,Texas,4,3,3,18,0,Foul on Kerwin Roach Jr..
+Kent State,Texas,4,3,3,33,0,Jimmy Hall Turnover.
+Kent State,Texas,4,3,3,33,0,Kerwin Roach Jr. Steal.
+Kent State,Texas,4,3,3,56,0,Tevin Mack missed Three Point Jumper.
+Kent State,Texas,4,3,3,56,0,Deon Edwin Defensive Rebound.
+Kent State,Texas,6,3,4,9,1,Alonzo Walker made Layup.
+Kent State,Texas,6,3,4,20,0,James Banks missed Layup.
+Kent State,Texas,6,3,4,20,0,Jimmy Hall Defensive Rebound.
+Kent State,Texas,6,3,4,27,0,Jimmy Hall Turnover.
+Kent State,Texas,6,3,4,27,0,Official TV Timeout
+Kent State,Texas,6,3,4,36,0,Andrew Jones Turnover.
+Kent State,Texas,8,3,5,0,1,Jimmy Hall made Layup.
+Kent State,Texas,8,3,5,29,0,Andrew Jones Turnover.
+Kent State,Texas,8,3,5,29,0,Desmond Ridenour Steal.
+Kent State,Texas,8,3,5,29,0,Desmond Ridenour Turnover.
+Kent State,Texas,8,5,5,34,1,Jarrett Allen made Layup. Assisted by Andrew Jones.
+Kent State,Texas,8,5,5,34,0,Foul on Jimmy Hall.
+Kent State,Texas,8,5,5,34,0,Jarrett Allen missed Free Throw.
+Kent State,Texas,8,5,5,34,0,Deon Edwin Defensive Rebound.
+Kent State,Texas,8,5,5,49,0,Desmond Ridenour missed Jumper.
+Kent State,Texas,8,5,5,49,0,Texas Defensive Rebound.
+Kent State,Texas,8,5,5,51,0,Foul on Deon Edwin.
+Kent State,Texas,8,5,6,8,0,Jacob Young missed Jumper.
+Kent State,Texas,8,5,6,8,0,Deon Edwin Defensive Rebound.
+Kent State,Texas,8,5,6,28,0,Adonis De La Rosa Turnover.
+Kent State,Texas,8,5,6,47,0,Eric Davis Jr. missed Three Point Jumper.
+Kent State,Texas,8,5,6,47,0,Deon Edwin Defensive Rebound.
+Kent State,Texas,8,5,7,3,0,Jalen Avery missed Three Point Jumper.
+Kent State,Texas,8,5,7,3,0,Jarrett Allen Defensive Rebound.
+Kent State,Texas,8,7,7,19,1,Kerwin Roach Jr. made Layup.
+Kent State,Texas,8,7,7,44,0,Foul on Adonis De La Rosa.
+Kent State,Texas,8,7,7,44,0,Adonis De La Rosa Turnover.
+Kent State,Texas,8,7,7,58,0,Jacob Young Turnover.
+Kent State,Texas,8,7,7,58,0,Desmond Ridenour Steal.
+Kent State,Texas,10,7,8,4,1,Desmond Ridenour made Dunk.
+Kent State,Texas,10,7,8,4,0,Technical Foul on Desmond Ridenour.
+Kent State,Texas,10,7,8,4,0,Foul on Desmond Ridenour.
+Kent State,Texas,10,7,8,4,0,Official TV Timeout
+Kent State,Texas,10,7,8,4,0,Jacob Young missed Free Throw.
+Kent State,Texas,10,7,8,4,0,Texas Deadball Team Rebound.
+Kent State,Texas,10,8,8,4,1,Jacob Young made Free Throw.
+Kent State,Texas,10,8,8,18,0,Kerwin Roach Jr. missed Three Point Jumper.
+Kent State,Texas,10,8,8,18,0,Kent State Defensive Rebound.
+Kent State,Texas,10,8,8,24,0,Jimmy Hall Turnover.
+Kent State,Texas,10,8,8,24,0,Tevin Mack Steal.
+Kent State,Texas,10,8,8,33,0,Eric Davis Jr. missed Layup.
+Kent State,Texas,10,8,8,33,0,Tevin Mack Offensive Rebound.
+Kent State,Texas,10,10,8,49,1,Kerwin Roach Jr. made Layup.
+Kent State,Texas,10,10,8,55,0,Jimmy Hall missed Jumper.
+Kent State,Texas,10,10,8,55,0,Jacob Young Defensive Rebound.
+Kent State,Texas,10,13,9,1,1,Jacob Young made Three Point Jumper.
+Kent State,Texas,10,13,9,5,0,Foul on Eric Davis Jr..
+Kent State,Texas,10,13,9,20,0,Jimmy Hall missed Layup.
+Kent State,Texas,10,13,9,20,0,Jacob Young Defensive Rebound.
+Kent State,Texas,10,13,9,37,0,Jacob Young missed Three Point Jumper.
+Kent State,Texas,10,13,9,37,0,Kent State Defensive Rebound.
+Kent State,Texas,10,13,9,55,0,Deon Edwin missed Layup.
+Kent State,Texas,10,13,9,55,0,Jarrett Allen Defensive Rebound.
+Kent State,Texas,10,13,10,7,0,Tevin Mack missed Three Point Jumper.
+Kent State,Texas,10,13,10,7,0,Jarrett Allen Offensive Rebound.
+Kent State,Texas,10,15,10,13,1,Jarrett Allen made Layup.
+Kent State,Texas,10,15,10,18,0,Foul on Andrew Jones.
+Kent State,Texas,10,15,10,19,0,Deon Edwin Turnover.
+Kent State,Texas,10,15,10,19,0,Andrew Jones Steal.
+Kent State,Texas,10,15,10,38,0,Foul on Tevin Mack.
+Kent State,Texas,10,15,10,38,0,Tevin Mack Turnover.
+Kent State,Texas,10,15,10,48,0,Foul on Shaquille Cleare.
+Kent State,Texas,11,15,10,48,1,Jaylin Walker made Free Throw.
+Kent State,Texas,12,15,10,48,1,Jaylin Walker made Free Throw.
+Kent State,Texas,12,15,10,52,0,Foul on Deon Edwin.
+Kent State,Texas,12,15,10,52,0,Andrew Jones missed Free Throw.
+Kent State,Texas,12,15,10,52,0,Jarrett Allen Offensive Rebound.
+Kent State,Texas,12,15,10,54,0,Foul on Kevin Zabo.
+Kent State,Texas,12,16,10,54,1,Jarrett Allen made Free Throw.
+Kent State,Texas,12,16,10,54,0,Jarrett Allen missed Free Throw.
+Kent State,Texas,12,16,10,54,0,Adonis De La Rosa Defensive Rebound.
+Kent State,Texas,12,16,11,6,0,Foul on Kerwin Roach Jr..
+Kent State,Texas,13,16,11,6,1,Desmond Ridenour made Free Throw.
+Kent State,Texas,14,16,11,6,1,Desmond Ridenour made Free Throw.
+Kent State,Texas,14,16,11,15,0,Foul on Danny Pippen.
+Kent State,Texas,14,16,11,15,0,Kendal Yancy missed Free Throw.
+Kent State,Texas,14,16,11,15,0,Jaylin Walker Defensive Rebound.
+Kent State,Texas,14,16,11,29,0,Desmond Ridenour missed Jumper.
+Kent State,Texas,14,16,11,29,0,Andrew Jones Defensive Rebound.
+Kent State,Texas,14,16,11,35,0,Andrew Jones missed Jumper.
+Kent State,Texas,14,16,11,35,0,Kent State Defensive Rebound.
+Kent State,Texas,14,16,11,40,0,Foul on Andrew Jones.
+Kent State,Texas,14,16,11,40,0,Jaylin Walker missed Free Throw.
+Kent State,Texas,14,16,11,40,0,Jarrett Allen Defensive Rebound.
+Kent State,Texas,14,16,11,54,0,Eric Davis Jr. missed Jumper.
+Kent State,Texas,14,16,11,54,0,Jarrett Allen Offensive Rebound.
+Kent State,Texas,14,16,11,58,0,Foul on Danny Pippen.
+Kent State,Texas,14,16,11,58,0,Jarrett Allen missed Free Throw.
+Kent State,Texas,14,16,11,58,0,Texas Deadball Team Rebound.
+Kent State,Texas,14,17,11,58,1,Jarrett Allen made Free Throw.
+Kent State,Texas,14,17,12,9,0,Jimmy Hall Turnover.
+Kent State,Texas,14,17,12,9,0,Official TV Timeout
+Kent State,Texas,14,17,12,35,0,Jacob Young missed Three Point Jumper.
+Kent State,Texas,14,17,12,35,0,Jaylin Walker Defensive Rebound.
+Kent State,Texas,14,17,12,51,0,Adonis De La Rosa Turnover.
+Kent State,Texas,14,19,12,57,1,Jacob Young made Layup.
+Kent State,Texas,14,19,13,7,0,Jimmy Hall missed Three Point Jumper.
+Kent State,Texas,14,19,13,7,0,Texas Defensive Rebound.
+Kent State,Texas,14,19,13,29,0,Kendal Yancy Turnover.
+Kent State,Texas,14,19,13,51,0,Jimmy Hall missed Jumper.
+Kent State,Texas,14,19,13,51,0,James Banks Block.
+Kent State,Texas,14,19,13,51,0,Jimmy Hall Offensive Rebound.
+Kent State,Texas,14,19,13,51,0,Foul on James Banks.
+Kent State,Texas,14,19,13,51,0,Jimmy Hall missed Free Throw.
+Kent State,Texas,14,19,13,51,0,Kent State Deadball Team Rebound.
+Kent State,Texas,15,19,13,51,1,Jimmy Hall made Free Throw.
+Kent State,Texas,15,19,14,8,0,Foul on Adonis De La Rosa.
+Kent State,Texas,15,20,14,8,1,Jarrett Allen made Free Throw.
+Kent State,Texas,15,20,14,8,0,Jarrett Allen missed Free Throw.
+Kent State,Texas,15,20,14,8,0,Jimmy Hall Defensive Rebound.
+Kent State,Texas,15,20,14,14,0,Foul on Eric Davis Jr..
+Kent State,Texas,16,20,14,14,1,Jaylin Walker made Free Throw.
+Kent State,Texas,17,20,14,14,1,Jaylin Walker made Free Throw.
+Kent State,Texas,17,20,14,32,0,James Banks Turnover.
+Kent State,Texas,17,20,14,32,0,Jimmy Hall Steal.
+Kent State,Texas,17,20,14,37,0,Desmond Ridenour Turnover.
+Kent State,Texas,17,20,14,53,0,Foul on Alonzo Walker.
+Kent State,Texas,17,21,14,53,1,Andrew Jones made Free Throw.
+Kent State,Texas,17,22,14,53,1,Andrew Jones made Free Throw.
+Kent State,Texas,17,22,15,4,0,Jaylin Walker missed Three Point Jumper.
+Kent State,Texas,17,22,15,4,0,James Banks Defensive Rebound.
+Kent State,Texas,17,22,15,23,0,Andrew Jones Turnover.
+Kent State,Texas,19,22,15,39,1,Jimmy Hall made Jumper.
+Kent State,Texas,19,24,16,4,1,James Banks made Dunk. Assisted by Kerwin Roach Jr..
+Kent State,Texas,21,24,16,17,1,Desmond Ridenour made Layup. Assisted by Jimmy Hall.
+Kent State,Texas,21,26,16,37,1,Kerwin Roach Jr. made Layup.
+Kent State,Texas,21,26,17,7,0,Desmond Ridenour missed Three Point Jumper.
+Kent State,Texas,21,26,17,7,0,Jimmy Hall Offensive Rebound.
+Kent State,Texas,21,26,17,13,0,Jimmy Hall missed Layup.
+Kent State,Texas,21,26,17,13,0,James Banks Block.
+Kent State,Texas,21,26,17,13,0,Leo Edwards Offensive Rebound.
+Kent State,Texas,21,26,17,13,0,Leo Edwards missed Jumper.
+Kent State,Texas,21,26,17,13,0,Kent State Offensive Rebound.
+Kent State,Texas,21,26,17,13,0,Official TV Timeout
+Kent State,Texas,23,26,17,37,1,Jaylin Walker made Jumper.
+Kent State,Texas,23,26,18,3,0,Jarrett Allen missed Jumper.
+Kent State,Texas,23,26,18,3,0,Jaylin Walker Defensive Rebound.
+Kent State,Texas,23,26,18,11,0,Jaylin Walker missed Jumper.
+Kent State,Texas,23,26,18,11,0,Andrew Jones Defensive Rebound.
+Kent State,Texas,23,28,18,17,1,Jarrett Allen made Dunk. Assisted by Tevin Mack.
+Kent State,Texas,23,28,18,43,0,Jimmy Hall missed Jumper.
+Kent State,Texas,23,28,18,43,0,Jarrett Allen Block.
+Kent State,Texas,23,28,18,43,0,Jalen Avery Offensive Rebound.
+Kent State,Texas,23,28,18,49,0,Jaylin Walker missed Three Point Jumper.
+Kent State,Texas,23,28,18,49,0,Eric Davis Jr. Defensive Rebound.
+Kent State,Texas,23,28,18,54,0,Foul on Alonzo Walker.
+Kent State,Texas,23,28,18,54,0,Eric Davis Jr. missed Free Throw.
+Kent State,Texas,23,28,18,54,0,Texas Deadball Team Rebound.
+Kent State,Texas,23,29,18,54,1,Eric Davis Jr. made Free Throw.
+Kent State,Texas,25,29,19,11,1,Jaylin Walker made Jumper.
+Kent State,Texas,25,29,19,25,0,Andrew Jones missed Three Point Jumper.
+Kent State,Texas,25,29,19,25,0,Deon Edwin Defensive Rebound.
+Kent State,Texas,25,29,19,31,0,Jaylin Walker missed Three Point Jumper.
+Kent State,Texas,25,29,19,31,0,Andrew Jones Defensive Rebound.
+Kent State,Texas,25,29,19,38,0,Jacob Young missed Three Point Jumper.
+Kent State,Texas,25,29,19,38,0,Kendal Yancy Offensive Rebound.
+Kent State,Texas,25,29,19,58,0,Eric Davis Jr. Turnover.
+Kent State,Texas,25,29,20,0,0,End of 1st half
+Kent State,Texas,25,29,20,0,0,Jump Ball won by Kent State
+Kent State,Texas,25,29,20,20,0,Jaylin Walker missed Jumper.
+Kent State,Texas,25,29,20,20,0,Shaquille Cleare Defensive Rebound.
+Kent State,Texas,25,31,20,31,1,Jarrett Allen made Jumper. Assisted by Kerwin Roach Jr..
+Kent State,Texas,25,31,20,41,0,Danny Pippen missed Three Point Jumper.
+Kent State,Texas,25,31,20,41,0,Danny Pippen Offensive Rebound.
+Kent State,Texas,25,31,20,55,0,Jimmy Hall missed Jumper.
+Kent State,Texas,25,31,20,55,0,Tevin Mack Defensive Rebound.
+Kent State,Texas,25,31,21,26,0,Jarrett Allen Turnover.
+Kent State,Texas,25,31,21,26,0,Jimmy Hall Steal.
+Kent State,Texas,27,31,21,33,1,Deon Edwin made Layup. Assisted by Kevin Zabo.
+Kent State,Texas,27,31,21,47,0,Andrew Jones missed Jumper.
+Kent State,Texas,27,31,21,47,0,Jarrett Allen Offensive Rebound.
+Kent State,Texas,27,31,21,51,0,Jarrett Allen Turnover.
+Kent State,Texas,29,31,22,13,1,Jimmy Hall made Layup.
+Kent State,Texas,29,31,22,40,0,Tevin Mack missed Jumper.
+Kent State,Texas,29,31,22,40,0,Shaquille Cleare Offensive Rebound.
+Kent State,Texas,29,33,22,40,1,Shaquille Cleare made Two Point Tip Shot.
+Kent State,Texas,29,33,22,48,0,Kevin Zabo Turnover.
+Kent State,Texas,29,33,22,48,0,Jarrett Allen Steal.
+Kent State,Texas,29,33,22,48,0,Foul on Kevin Zabo.
+Kent State,Texas,29,35,23,3,1,Shaquille Cleare made Jumper.
+Kent State,Texas,29,35,23,18,0,Jaylin Walker Turnover.
+Kent State,Texas,29,35,23,18,0,Andrew Jones Steal.
+Kent State,Texas,29,35,23,24,0,Andrew Jones Turnover.
+Kent State,Texas,29,35,23,24,0,Deon Edwin Steal.
+Kent State,Texas,29,35,23,34,0,Deon Edwin missed Jumper.
+Kent State,Texas,29,35,23,34,0,Andrew Jones Defensive Rebound.
+Kent State,Texas,29,35,23,43,0,Andrew Jones Turnover.
+Kent State,Texas,29,35,23,43,0,Deon Edwin Steal.
+Kent State,Texas,31,35,23,51,1,Deon Edwin made Dunk.
+Kent State,Texas,31,35,24,2,0,Foul on Danny Pippen.
+Kent State,Texas,31,35,24,2,0,Official TV Timeout
+Kent State,Texas,31,35,24,18,0,Jarrett Allen missed Jumper.
+Kent State,Texas,31,35,24,18,0,Jimmy Hall Defensive Rebound.
+Kent State,Texas,31,35,24,39,0,Foul on Jimmy Hall.
+Kent State,Texas,31,35,24,39,0,Jimmy Hall Turnover.
+Kent State,Texas,31,35,24,56,0,Shaquille Cleare missed Jumper.
+Kent State,Texas,31,35,24,56,0,Jimmy Hall Block.
+Kent State,Texas,31,35,24,56,0,Shaquille Cleare Offensive Rebound.
+Kent State,Texas,31,35,25,4,0,Foul on Jimmy Hall.
+Kent State,Texas,31,36,25,4,1,Kerwin Roach Jr. made Free Throw.
+Kent State,Texas,31,37,25,4,1,Kerwin Roach Jr. made Free Throw.
+Kent State,Texas,31,37,25,6,0,Jalen Avery Turnover.
+Kent State,Texas,31,37,25,6,0,Eric Davis Jr. Steal.
+Kent State,Texas,31,37,25,6,0,Foul on Jimmy Hall.
+Kent State,Texas,31,37,25,10,0,Eric Davis Jr. missed Three Point Jumper.
+Kent State,Texas,31,37,25,10,0,Alonzo Walker Defensive Rebound.
+Kent State,Texas,34,37,25,22,1,Deon Edwin made Three Point Jumper. Assisted by Desmond Ridenour.
+Kent State,Texas,34,37,25,48,0,Tevin Mack missed Three Point Jumper.
+Kent State,Texas,34,37,25,48,0,Deon Edwin Defensive Rebound.
+Kent State,Texas,34,37,26,0,0,Alonzo Walker Turnover.
+Kent State,Texas,34,37,26,15,0,Foul on James Banks.
+Kent State,Texas,34,37,26,15,0,James Banks Turnover.
+Kent State,Texas,34,37,26,20,0,Deon Edwin missed Layup.
+Kent State,Texas,34,37,26,20,0,Adonis De La Rosa Offensive Rebound.
+Kent State,Texas,34,37,26,28,0,Adonis De La Rosa missed Jumper.
+Kent State,Texas,34,37,26,28,0,James Banks Block.
+Kent State,Texas,34,37,26,28,0,Jaylin Walker Offensive Rebound.
+Kent State,Texas,37,37,26,31,1,Jaylin Walker made Three Point Jumper.
+Kent State,Texas,37,37,26,34,0,Foul on Deon Edwin.
+Kent State,Texas,37,38,26,34,1,Kerwin Roach Jr. made Free Throw.
+Kent State,Texas,37,39,26,34,1,Kerwin Roach Jr. made Free Throw.
+Kent State,Texas,37,39,26,39,0,Jaylin Walker missed Jumper.
+Kent State,Texas,37,39,26,39,0,Deon Edwin Offensive Rebound.
+Kent State,Texas,39,39,26,48,1,Deon Edwin made Layup.
+Kent State,Texas,39,39,27,17,0,James Banks missed Jumper.
+Kent State,Texas,39,39,27,17,0,Kent State Defensive Rebound.
+Kent State,Texas,39,39,27,43,0,Desmond Ridenour missed Layup.
+Kent State,Texas,39,39,27,43,0,Jarrett Allen Defensive Rebound.
+Kent State,Texas,39,39,27,49,0,Kendal Yancy missed Three Point Jumper.
+Kent State,Texas,39,39,27,49,0,Alonzo Walker Defensive Rebound.
+Kent State,Texas,42,39,28,12,1,Jaylin Walker made Three Point Jumper. Assisted by Desmond Ridenour.
+Kent State,Texas,42,39,28,19,0,Texas  Timeout
+Kent State,Texas,42,39,28,19,0,Official TV Timeout
+Kent State,Texas,42,39,28,28,0,Jarrett Allen missed Three Point Jumper.
+Kent State,Texas,42,39,28,28,0,Deon Edwin Defensive Rebound.
+Kent State,Texas,42,39,28,47,0,Deon Edwin Turnover.
+Kent State,Texas,42,39,28,47,0,Official TV Timeout
+Kent State,Texas,42,39,29,0,0,Tevin Mack missed Three Point Jumper.
+Kent State,Texas,42,39,29,0,0,Shaquille Cleare Offensive Rebound.
+Kent State,Texas,42,39,29,5,0,Shaquille Cleare missed Jumper.
+Kent State,Texas,42,39,29,5,0,Deon Edwin Defensive Rebound.
+Kent State,Texas,44,39,29,30,1,Jaylin Walker made Jumper.
+Kent State,Texas,44,39,30,1,0,Jarrett Allen missed Jumper.
+Kent State,Texas,44,39,30,1,0,Jaylin Walker Defensive Rebound.
+Kent State,Texas,44,39,30,14,0,Adonis De La Rosa missed Jumper.
+Kent State,Texas,44,39,30,14,0,Texas Defensive Rebound.
+Kent State,Texas,44,39,30,23,0,Andrew Jones Turnover.
+Kent State,Texas,44,39,30,23,0,Desmond Ridenour Steal.
+Kent State,Texas,44,39,30,29,0,Desmond Ridenour missed Dunk.
+Kent State,Texas,44,39,30,29,0,Andrew Jones Block.
+Kent State,Texas,44,39,30,29,0,Desmond Ridenour Offensive Rebound.
+Kent State,Texas,46,39,30,43,1,Alonzo Walker made Dunk. Assisted by Desmond Ridenour.
+Kent State,Texas,46,39,30,48,0,Texas  Timeout
+Kent State,Texas,46,39,31,3,0,Foul on Deon Edwin.
+Kent State,Texas,46,40,31,3,1,Shaquille Cleare made Free Throw.
+Kent State,Texas,46,41,31,3,1,Shaquille Cleare made Free Throw.
+Kent State,Texas,46,41,31,16,0,Desmond Ridenour missed Three Point Jumper.
+Kent State,Texas,46,41,31,16,0,Tevin Mack Defensive Rebound.
+Kent State,Texas,46,41,31,25,0,Tevin Mack Turnover.
+Kent State,Texas,46,41,31,25,0,Desmond Ridenour Steal.
+Kent State,Texas,46,41,31,32,0,Jaylin Walker missed Three Point Jumper.
+Kent State,Texas,46,41,31,32,0,Alonzo Walker Offensive Rebound.
+Kent State,Texas,46,41,31,51,0,Foul on Kerwin Roach Jr..
+Kent State,Texas,46,41,31,54,0,Desmond Ridenour Turnover.
+Kent State,Texas,46,41,31,54,0,Andrew Jones Steal.
+Kent State,Texas,46,41,31,57,0,Foul on Kevin Zabo.
+Kent State,Texas,46,41,31,57,0,Andrew Jones missed Free Throw.
+Kent State,Texas,46,41,31,57,0,Adonis De La Rosa Defensive Rebound.
+Kent State,Texas,46,41,32,4,0,Kent State  Timeout
+Kent State,Texas,46,41,32,21,0,Foul on Jarrett Allen.
+Kent State,Texas,46,41,32,34,0,Kevin Zabo Turnover.
+Kent State,Texas,46,41,32,34,0,Jacob Young Steal.
+Kent State,Texas,46,41,32,51,0,Jacob Young missed Three Point Jumper.
+Kent State,Texas,46,41,32,51,0,Desmond Ridenour Defensive Rebound.
+Kent State,Texas,46,41,33,9,0,Kevin Zabo missed Three Point Jumper.
+Kent State,Texas,46,41,33,9,0,Andrew Jones Defensive Rebound.
+Kent State,Texas,46,43,33,15,1,Andrew Jones made Layup.
+Kent State,Texas,46,43,33,15,0,Foul on Desmond Ridenour.
+Kent State,Texas,46,43,33,15,0,Andrew Jones missed Free Throw.
+Kent State,Texas,46,43,33,15,0,Deon Edwin Defensive Rebound.
+Kent State,Texas,46,43,33,37,0,Adonis De La Rosa Turnover.
+Kent State,Texas,46,43,33,37,0,Foul on Adonis De La Rosa.
+Kent State,Texas,46,43,34,9,0,Kerwin Roach Jr. Turnover.
+Kent State,Texas,48,43,34,15,1,Deon Edwin made Layup. Assisted by Jalen Avery.
+Kent State,Texas,48,43,34,41,0,Tevin Mack missed Jumper.
+Kent State,Texas,48,43,34,41,0,Jaylin Walker Defensive Rebound.
+Kent State,Texas,48,43,34,46,0,Foul on Kerwin Roach Jr..
+Kent State,Texas,50,43,34,46,1,Deon Edwin made Jumper. Assisted by Jimmy Hall.
+Kent State,Texas,50,43,35,17,0,Eric Davis Jr. missed Jumper.
+Kent State,Texas,50,43,35,17,0,Kent State Defensive Rebound.
+Kent State,Texas,50,43,35,29,0,Jaylin Walker Turnover.
+Kent State,Texas,50,43,35,29,0,Eric Davis Jr. Steal.
+Kent State,Texas,50,45,35,35,1,Jacob Young made Layup.
+Kent State,Texas,50,45,35,41,0,Jaylin Walker missed Layup.
+Kent State,Texas,50,45,35,41,0,Jarrett Allen Block.
+Kent State,Texas,50,45,35,41,0,Alonzo Walker Offensive Rebound.
+Kent State,Texas,52,45,35,41,1,Alonzo Walker made Two Point Tip Shot.
+Kent State,Texas,52,48,35,54,1,Kerwin Roach Jr. made Three Point Jumper. Assisted by Eric Davis Jr..
+Kent State,Texas,52,48,36,5,0,Jaylin Walker missed Three Point Jumper.
+Kent State,Texas,52,48,36,5,0,Alonzo Walker Offensive Rebound.
+Kent State,Texas,52,48,36,9,0,Foul on Jacob Young.
+Kent State,Texas,52,48,36,9,0,Official TV Timeout
+Kent State,Texas,52,48,36,9,0,Alonzo Walker missed Free Throw.
+Kent State,Texas,52,48,36,9,0,Kent State Deadball Team Rebound.
+Kent State,Texas,53,48,36,9,1,Alonzo Walker made Free Throw.
+Kent State,Texas,53,48,36,35,0,Kerwin Roach Jr. missed Jumper.
+Kent State,Texas,53,48,36,35,0,Jarrett Allen Offensive Rebound.
+Kent State,Texas,53,50,36,40,1,Jarrett Allen made Jumper.
+Kent State,Texas,53,50,36,58,0,Deon Edwin missed Three Point Jumper.
+Kent State,Texas,53,50,36,58,0,Kerwin Roach Jr. Defensive Rebound.
+Kent State,Texas,53,50,37,4,0,Jacob Young missed Three Point Jumper.
+Kent State,Texas,53,50,37,4,0,Jimmy Hall Defensive Rebound.
+Kent State,Texas,53,50,37,24,0,Jimmy Hall missed Jumper.
+Kent State,Texas,53,50,37,24,0,Eric Davis Jr. Defensive Rebound.
+Kent State,Texas,53,52,37,32,1,Tevin Mack made Layup.
+Kent State,Texas,55,52,37,42,1,Jaylin Walker made Jumper. Assisted by Desmond Ridenour.
+Kent State,Texas,55,54,38,7,1,Tevin Mack made Layup.
+Kent State,Texas,57,54,38,17,1,Jaylin Walker made Jumper.
+Kent State,Texas,57,56,38,43,1,Jarrett Allen made Dunk. Assisted by Kerwin Roach Jr..
+Kent State,Texas,57,56,38,53,0,Deon Edwin missed Layup.
+Kent State,Texas,57,56,38,53,0,Jaylin Walker Offensive Rebound.
+Kent State,Texas,57,56,38,59,0,Kent State  Timeout
+Kent State,Texas,59,56,39,10,1,Jimmy Hall made Layup.
+Kent State,Texas,59,56,39,21,0,Kerwin Roach Jr. missed Layup.
+Kent State,Texas,59,56,39,21,0,Jimmy Hall Defensive Rebound.
+Kent State,Texas,61,56,39,28,1,Jaylin Walker made Dunk. Assisted by Desmond Ridenour.
+Kent State,Texas,61,56,39,32,0,Texas  Timeout
+Kent State,Texas,61,58,39,40,1,Jarrett Allen made Layup. Assisted by Tevin Mack.
+Kent State,Texas,61,58,39,44,0,Foul on Andrew Jones.
+Kent State,Texas,61,58,39,45,0,Foul on Kerwin Roach Jr..
+Kent State,Texas,61,58,39,45,0,Desmond Ridenour missed Free Throw.
+Kent State,Texas,61,58,39,45,0,Jimmy Hall Offensive Rebound.
+Kent State,Texas,61,58,39,47,0,Foul on Eric Davis Jr..
+Kent State,Texas,61,58,39,47,0,Jaylin Walker missed Free Throw.
+Kent State,Texas,61,58,39,47,0,Andrew Jones Defensive Rebound.
+Kent State,Texas,61,58,39,54,0,Eric Davis Jr. missed Jumper.
+Kent State,Texas,61,58,39,54,0,Jimmy Hall Block.
+Kent State,Texas,61,58,39,54,0,Desmond Ridenour Defensive Rebound.
+Kent State,Texas,63,58,39,54,1,Jaylin Walker made Dunk. Assisted by Jimmy Hall.
+Kent State,Texas,63,58,40,0,0,End of Game

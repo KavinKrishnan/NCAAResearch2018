@@ -1,0 +1,426 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Nebraska,Massachusetts,0,0,0,18,0,Walter Pitchford missed Three Point Jumper.
+Nebraska,Massachusetts,0,0,0,18,0,Massachusetts Defensive Rebound.
+Nebraska,Massachusetts,0,0,0,37,0,Sampson Carter missed Layup.
+Nebraska,Massachusetts,0,0,0,37,0,Walter Pitchford Block.
+Nebraska,Massachusetts,0,0,0,39,0,Terran Petteway Defensive Rebound.
+Nebraska,Massachusetts,0,0,0,42,0,Terran Petteway Turnover.
+Nebraska,Massachusetts,0,0,0,43,0,Foul on Terran Petteway.
+Nebraska,Massachusetts,0,0,0,57,0,Sampson Carter missed Three Point Jumper.
+Nebraska,Massachusetts,0,0,0,57,0,Tai Webster Defensive Rebound.
+Nebraska,Massachusetts,0,0,1,5,0,Terran Petteway missed Three Point Jumper.
+Nebraska,Massachusetts,0,0,1,5,0,Tai Webster Offensive Rebound.
+Nebraska,Massachusetts,2,0,1,15,1,Ray Gallegos made Layup.
+Nebraska,Massachusetts,2,3,1,31,1,Raphiael Putney made Three Point Jumper. Assisted by Derrick Gordon.
+Nebraska,Massachusetts,2,3,1,57,0,Foul on Cady Lalanne.
+Nebraska,Massachusetts,2,3,1,57,0,Shavon Shields missed Free Throw.
+Nebraska,Massachusetts,2,3,1,57,0,Nebraska Deadball Team Rebound.
+Nebraska,Massachusetts,3,3,1,57,1,Shavon Shields made Free Throw.
+Nebraska,Massachusetts,3,3,2,6,0,Raphiael Putney missed Layup.
+Nebraska,Massachusetts,3,3,2,6,0,Cady Lalanne Offensive Rebound.
+Nebraska,Massachusetts,3,3,2,6,0,Foul on Tai Webster.
+Nebraska,Massachusetts,3,4,2,6,1,Cady Lalanne made Free Throw.
+Nebraska,Massachusetts,3,5,2,6,1,Cady Lalanne made Free Throw.
+Nebraska,Massachusetts,3,5,2,19,0,Ray Gallegos missed Three Point Jumper.
+Nebraska,Massachusetts,3,5,2,19,0,Raphiael Putney Defensive Rebound.
+Nebraska,Massachusetts,3,5,2,29,0,Sampson Carter missed Jumper.
+Nebraska,Massachusetts,3,5,2,29,0,Cady Lalanne Offensive Rebound.
+Nebraska,Massachusetts,3,5,2,34,0,Raphiael Putney missed Layup.
+Nebraska,Massachusetts,3,5,2,34,0,Raphiael Putney Offensive Rebound.
+Nebraska,Massachusetts,3,5,2,37,0,Raphiael Putney missed Two Point Tip Shot.
+Nebraska,Massachusetts,3,5,2,37,0,Nebraska Defensive Rebound.
+Nebraska,Massachusetts,3,5,3,5,0,Terran Petteway missed Jumper.
+Nebraska,Massachusetts,3,5,3,5,0,Derrick Gordon Block.
+Nebraska,Massachusetts,3,5,3,6,0,Chaz Williams Defensive Rebound.
+Nebraska,Massachusetts,3,5,3,11,0,Foul on Tai Webster.
+Nebraska,Massachusetts,3,7,3,25,1,Cady Lalanne made Layup.
+Nebraska,Massachusetts,3,7,3,25,0,Foul on Walter Pitchford.
+Nebraska,Massachusetts,3,8,3,25,1,Cady Lalanne made Free Throw.
+Nebraska,Massachusetts,3,8,3,42,0,Deverell Biggs missed Layup.
+Nebraska,Massachusetts,3,8,3,42,0,Raphiael Putney Defensive Rebound.
+Nebraska,Massachusetts,3,11,3,51,1,Sampson Carter made Three Point Jumper. Assisted by Chaz Williams.
+Nebraska,Massachusetts,5,11,4,9,1,Shavon Shields made Layup.
+Nebraska,Massachusetts,5,11,4,9,0,Foul on Tyler Bergantino.
+Nebraska,Massachusetts,5,11,4,9,0,Official TV Timeout
+Nebraska,Massachusetts,6,11,4,9,1,Shavon Shields made Free Throw.
+Nebraska,Massachusetts,6,11,4,22,0,Raphiael Putney missed Three Point Jumper.
+Nebraska,Massachusetts,6,11,4,22,0,Deverell Biggs Defensive Rebound.
+Nebraska,Massachusetts,6,11,4,38,0,Leslee Smith missed Jumper.
+Nebraska,Massachusetts,6,11,4,38,0,Tyler Bergantino Defensive Rebound.
+Nebraska,Massachusetts,6,11,4,47,0,Foul on Deverell Biggs.
+Nebraska,Massachusetts,6,11,4,49,0,Raphiael Putney missed Layup.
+Nebraska,Massachusetts,6,11,4,49,0,Deverell Biggs Defensive Rebound.
+Nebraska,Massachusetts,6,11,4,53,0,Foul on Raphiael Putney.
+Nebraska,Massachusetts,6,11,4,53,0,Shavon Shields missed Free Throw.
+Nebraska,Massachusetts,6,11,4,53,0,Nebraska Deadball Team Rebound.
+Nebraska,Massachusetts,6,11,4,53,0,Shavon Shields missed Free Throw.
+Nebraska,Massachusetts,6,11,4,53,0,Nebraska Deadball Team Rebound.
+Nebraska,Massachusetts,6,11,5,3,0,Shavon Shields Turnover.
+Nebraska,Massachusetts,6,11,5,18,0,Derrick Gordon Turnover.
+Nebraska,Massachusetts,6,11,5,18,0,Terran Petteway Steal.
+Nebraska,Massachusetts,8,11,5,24,1,Shavon Shields made Layup.
+Nebraska,Massachusetts,8,11,5,29,0,Chaz Williams missed Three Point Jumper.
+Nebraska,Massachusetts,8,11,5,29,0,Shavon Shields Defensive Rebound.
+Nebraska,Massachusetts,8,11,5,49,0,Foul on Sampson Carter.
+Nebraska,Massachusetts,9,11,5,49,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,10,11,5,49,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,10,11,6,0,0,Cady Lalanne Turnover.
+Nebraska,Massachusetts,10,11,6,14,0,Deverell Biggs missed Layup.
+Nebraska,Massachusetts,10,11,6,14,0,Sampson Carter Defensive Rebound.
+Nebraska,Massachusetts,10,13,6,30,1,Maxie Esho made Dunk. Assisted by Chaz Williams.
+Nebraska,Massachusetts,10,13,6,50,0,Shavon Shields Turnover.
+Nebraska,Massachusetts,10,13,6,52,0,Cady Lalanne Steal.
+Nebraska,Massachusetts,10,15,7,4,1,Cady Lalanne made Jumper.
+Nebraska,Massachusetts,13,15,7,19,1,Terran Petteway made Three Point Jumper.
+Nebraska,Massachusetts,13,15,7,32,0,Maxie Esho missed Jumper.
+Nebraska,Massachusetts,13,15,7,32,0,Maxie Esho Offensive Rebound.
+Nebraska,Massachusetts,13,15,7,39,0,Foul on Walter Pitchford.
+Nebraska,Massachusetts,13,15,7,49,0,Maxie Esho missed Jumper.
+Nebraska,Massachusetts,13,15,7,49,0,Leslee Smith Block.
+Nebraska,Massachusetts,13,15,7,49,0,Massachusetts Offensive Rebound.
+Nebraska,Massachusetts,13,17,8,2,1,Trey Davis made Jumper.
+Nebraska,Massachusetts,13,17,8,15,0,Foul on Chaz Williams.
+Nebraska,Massachusetts,13,17,8,17,0,Official TV Timeout
+Nebraska,Massachusetts,13,17,8,35,0,Foul on Raphiael Putney.
+Nebraska,Massachusetts,14,17,8,35,1,Leslee Smith made Free Throw.
+Nebraska,Massachusetts,14,17,8,35,0,Leslee Smith missed Free Throw.
+Nebraska,Massachusetts,14,17,8,35,0,Maxie Esho Defensive Rebound.
+Nebraska,Massachusetts,14,17,8,46,0,Maxie Esho Turnover.
+Nebraska,Massachusetts,14,17,8,47,0,Terran Petteway Steal.
+Nebraska,Massachusetts,14,17,8,50,0,Terran Petteway missed Layup.
+Nebraska,Massachusetts,14,17,8,50,0,David Rivers Offensive Rebound.
+Nebraska,Massachusetts,16,17,8,53,1,David Rivers made Two Point Tip Shot.
+Nebraska,Massachusetts,16,17,9,1,0,Foul on David Rivers.
+Nebraska,Massachusetts,16,18,9,1,1,Maxie Esho made Free Throw.
+Nebraska,Massachusetts,16,18,9,1,0,Maxie Esho missed Free Throw.
+Nebraska,Massachusetts,16,18,9,1,0,Leslee Smith Defensive Rebound.
+Nebraska,Massachusetts,18,18,9,12,1,Tai Webster made Jumper.
+Nebraska,Massachusetts,18,18,9,14,0,Foul on Trey Davis.
+Nebraska,Massachusetts,19,18,9,14,1,Tai Webster made Free Throw.
+Nebraska,Massachusetts,19,18,9,31,0,Foul on David Rivers.
+Nebraska,Massachusetts,19,18,9,31,0,Maxie Esho missed Free Throw.
+Nebraska,Massachusetts,19,18,9,31,0,Leslee Smith Defensive Rebound.
+Nebraska,Massachusetts,19,18,10,4,0,Deverell Biggs missed Layup.
+Nebraska,Massachusetts,19,18,10,4,0,Tyler Bergantino Block.
+Nebraska,Massachusetts,19,18,10,6,0,Leslee Smith Offensive Rebound.
+Nebraska,Massachusetts,21,18,10,10,1,Leslee Smith made Layup.
+Nebraska,Massachusetts,21,20,10,26,1,Derrick Gordon made Layup.
+Nebraska,Massachusetts,21,20,10,38,0,Terran Petteway missed Three Point Jumper.
+Nebraska,Massachusetts,21,20,10,38,0,Shavon Shields Offensive Rebound.
+Nebraska,Massachusetts,21,20,10,45,0,Deverell Biggs Turnover.
+Nebraska,Massachusetts,21,23,11,3,1,Sampson Carter made Three Point Jumper.
+Nebraska,Massachusetts,21,23,11,27,0,Foul on Tyler Bergantino.
+Nebraska,Massachusetts,22,23,11,27,1,Leslee Smith made Free Throw.
+Nebraska,Massachusetts,22,23,11,27,0,Leslee Smith missed Free Throw.
+Nebraska,Massachusetts,22,23,11,27,0,Tyler Bergantino Defensive Rebound.
+Nebraska,Massachusetts,22,25,11,34,1,Derrick Gordon made Layup.
+Nebraska,Massachusetts,22,25,11,49,0,Ray Gallegos missed Jumper.
+Nebraska,Massachusetts,22,25,11,49,0,Maxie Esho Defensive Rebound.
+Nebraska,Massachusetts,22,25,11,54,0,Maxie Esho Turnover.
+Nebraska,Massachusetts,22,25,12,6,0,Leslee Smith Turnover.
+Nebraska,Massachusetts,22,25,12,6,0,Official TV Timeout
+Nebraska,Massachusetts,22,25,12,20,0,Chaz Williams missed Three Point Jumper.
+Nebraska,Massachusetts,22,25,12,20,0,Sampson Carter Offensive Rebound.
+Nebraska,Massachusetts,22,25,12,26,0,Foul on Leslee Smith.
+Nebraska,Massachusetts,22,26,12,26,1,Sampson Carter made Free Throw.
+Nebraska,Massachusetts,22,27,12,26,1,Sampson Carter made Free Throw.
+Nebraska,Massachusetts,22,27,12,43,0,Terran Petteway missed Dunk.
+Nebraska,Massachusetts,22,27,12,43,0,Tyler Bergantino Block.
+Nebraska,Massachusetts,22,27,12,45,0,Maxie Esho Defensive Rebound.
+Nebraska,Massachusetts,22,27,12,55,0,Sampson Carter missed Layup.
+Nebraska,Massachusetts,22,27,12,55,0,Sampson Carter Offensive Rebound.
+Nebraska,Massachusetts,22,27,12,55,0,Foul on Shavon Shields.
+Nebraska,Massachusetts,22,27,12,55,0,Sampson Carter missed Free Throw.
+Nebraska,Massachusetts,22,27,12,55,0,Massachusetts Deadball Team Rebound.
+Nebraska,Massachusetts,22,28,12,55,1,Sampson Carter made Free Throw.
+Nebraska,Massachusetts,22,28,13,12,0,Foul on Maxie Esho.
+Nebraska,Massachusetts,23,28,13,12,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,24,28,13,12,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,24,30,13,22,1,Maxie Esho made Dunk. Assisted by Chaz Williams.
+Nebraska,Massachusetts,24,30,13,59,0,Tai Webster Turnover.
+Nebraska,Massachusetts,24,30,14,0,0,Chaz Williams Steal.
+Nebraska,Massachusetts,24,30,14,2,0,Foul on Benny Parker.
+Nebraska,Massachusetts,24,31,14,2,1,Maxie Esho made Free Throw.
+Nebraska,Massachusetts,24,32,14,2,1,Maxie Esho made Free Throw.
+Nebraska,Massachusetts,27,32,14,23,1,Terran Petteway made Three Point Jumper.
+Nebraska,Massachusetts,27,34,14,30,1,Derrick Gordon made Jumper.
+Nebraska,Massachusetts,29,34,14,43,1,Terran Petteway made Layup.
+Nebraska,Massachusetts,29,34,14,55,0,Foul on Shavon Shields.
+Nebraska,Massachusetts,29,34,14,55,0,Chaz Williams missed Free Throw.
+Nebraska,Massachusetts,29,34,14,55,0,Massachusetts Deadball Team Rebound.
+Nebraska,Massachusetts,29,35,14,55,1,Chaz Williams made Free Throw.
+Nebraska,Massachusetts,32,35,15,16,1,Terran Petteway made Three Point Jumper.
+Nebraska,Massachusetts,32,35,15,36,0,Maxie Esho Turnover.
+Nebraska,Massachusetts,32,35,15,37,0,David Rivers Steal.
+Nebraska,Massachusetts,32,35,15,45,0,Benny Parker missed Jumper.
+Nebraska,Massachusetts,32,35,15,45,0,Sampson Carter Defensive Rebound.
+Nebraska,Massachusetts,32,35,15,57,0,Chaz Williams missed Layup.
+Nebraska,Massachusetts,32,35,15,57,0,Tai Webster Defensive Rebound.
+Nebraska,Massachusetts,32,35,16,0,0,Tai Webster missed Layup.
+Nebraska,Massachusetts,32,35,16,0,0,Nebraska Offensive Rebound.
+Nebraska,Massachusetts,32,35,16,1,0,Official TV Timeout
+Nebraska,Massachusetts,34,35,16,13,1,David Rivers made Jumper. Assisted by Ray Gallegos.
+Nebraska,Massachusetts,34,35,16,38,0,Sampson Carter missed Three Point Jumper.
+Nebraska,Massachusetts,34,35,16,38,0,Walter Pitchford Defensive Rebound.
+Nebraska,Massachusetts,34,35,16,50,0,Deverell Biggs missed Jumper.
+Nebraska,Massachusetts,34,35,16,50,0,David Rivers Offensive Rebound.
+Nebraska,Massachusetts,34,35,16,55,0,Foul on Chaz Williams.
+Nebraska,Massachusetts,35,35,16,55,1,David Rivers made Free Throw.
+Nebraska,Massachusetts,35,35,16,55,0,David Rivers missed Free Throw.
+Nebraska,Massachusetts,35,35,16,55,0,Maxie Esho Defensive Rebound.
+Nebraska,Massachusetts,35,35,17,3,0,Foul on Sampson Carter.
+Nebraska,Massachusetts,35,35,17,3,0,Sampson Carter Turnover.
+Nebraska,Massachusetts,35,35,17,18,0,Leslee Smith Turnover.
+Nebraska,Massachusetts,35,35,17,20,0,Derrick Gordon Steal.
+Nebraska,Massachusetts,35,35,17,21,0,Foul on Terran Petteway.
+Nebraska,Massachusetts,35,35,17,21,0,Derrick Gordon missed Free Throw.
+Nebraska,Massachusetts,35,35,17,21,0,Massachusetts Deadball Team Rebound.
+Nebraska,Massachusetts,35,36,17,21,1,Derrick Gordon made Free Throw.
+Nebraska,Massachusetts,35,36,17,37,0,Foul on Seth Berger.
+Nebraska,Massachusetts,36,36,17,37,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,37,36,17,37,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,37,36,17,50,0,Derrick Gordon missed Jumper.
+Nebraska,Massachusetts,37,36,17,50,0,Chaz Williams Offensive Rebound.
+Nebraska,Massachusetts,37,38,18,6,1,Chaz Williams made Layup.
+Nebraska,Massachusetts,37,38,18,6,0,Massachusetts  Timeout
+Nebraska,Massachusetts,37,38,18,16,0,Terran Petteway missed Layup.
+Nebraska,Massachusetts,37,38,18,16,0,Leslee Smith Offensive Rebound.
+Nebraska,Massachusetts,39,38,18,19,1,Leslee Smith made Two Point Tip Shot.
+Nebraska,Massachusetts,39,38,18,19,0,Nebraska  Timeout
+Nebraska,Massachusetts,39,40,18,36,1,Cady Lalanne made Layup. Assisted by Derrick Gordon.
+Nebraska,Massachusetts,39,40,18,36,0,Foul on Leslee Smith.
+Nebraska,Massachusetts,39,40,18,36,0,Cady Lalanne missed Free Throw.
+Nebraska,Massachusetts,39,40,18,36,0,Seth Berger Offensive Rebound.
+Nebraska,Massachusetts,39,40,18,40,0,Trey Davis missed Jumper.
+Nebraska,Massachusetts,39,40,18,40,0,Leslee Smith Defensive Rebound.
+Nebraska,Massachusetts,39,40,19,12,0,David Rivers Turnover.
+Nebraska,Massachusetts,39,40,19,27,0,Cady Lalanne Turnover.
+Nebraska,Massachusetts,39,40,19,52,0,Deverell Biggs missed Three Point Jumper.
+Nebraska,Massachusetts,39,40,19,52,0,Seth Berger Defensive Rebound.
+Nebraska,Massachusetts,39,40,19,54,0,Foul on Mike Peltz.
+Nebraska,Massachusetts,39,41,19,54,1,Seth Berger made Free Throw.
+Nebraska,Massachusetts,39,42,19,54,1,Seth Berger made Free Throw.
+Nebraska,Massachusetts,39,42,19,59,0,Maxie Esho missed Jumper.
+Nebraska,Massachusetts,39,42,19,59,0,David Rivers Defensive Rebound.
+Nebraska,Massachusetts,37,44,20,0,0,End of 1st half
+Nebraska,Massachusetts,39,42,20,23,0,Derrick Gordon missed Jumper.
+Nebraska,Massachusetts,39,42,20,23,0,Cady Lalanne Offensive Rebound.
+Nebraska,Massachusetts,39,42,20,27,0,Cady Lalanne missed Layup.
+Nebraska,Massachusetts,39,42,20,27,0,Massachusetts Offensive Rebound.
+Nebraska,Massachusetts,39,42,20,35,0,Foul on Terran Petteway.
+Nebraska,Massachusetts,39,43,20,35,1,Raphiael Putney made Free Throw.
+Nebraska,Massachusetts,39,44,20,35,1,Raphiael Putney made Free Throw.
+Nebraska,Massachusetts,39,44,20,41,0,Shavon Shields Turnover.
+Nebraska,Massachusetts,39,44,20,42,0,Raphiael Putney Steal.
+Nebraska,Massachusetts,39,46,20,44,1,Raphiael Putney made Layup.
+Nebraska,Massachusetts,39,46,20,53,0,Terran Petteway missed Layup.
+Nebraska,Massachusetts,39,46,20,53,0,Cady Lalanne Defensive Rebound.
+Nebraska,Massachusetts,39,46,21,12,0,Chaz Williams Turnover.
+Nebraska,Massachusetts,39,46,21,12,0,Tai Webster Steal.
+Nebraska,Massachusetts,39,46,21,26,0,Terran Petteway missed Jumper.
+Nebraska,Massachusetts,39,46,21,26,0,Massachusetts Defensive Rebound.
+Nebraska,Massachusetts,39,46,21,53,0,Foul on Tai Webster.
+Nebraska,Massachusetts,39,46,21,55,0,Chaz Williams missed Jumper.
+Nebraska,Massachusetts,39,46,21,55,0,Derrick Gordon Offensive Rebound.
+Nebraska,Massachusetts,39,48,22,5,1,Chaz Williams made Layup.
+Nebraska,Massachusetts,39,48,22,20,0,Ray Gallegos missed Three Point Jumper.
+Nebraska,Massachusetts,39,48,22,20,0,Terran Petteway Offensive Rebound.
+Nebraska,Massachusetts,41,48,22,24,1,Terran Petteway made Layup.
+Nebraska,Massachusetts,41,50,22,33,1,Raphiael Putney made Layup.
+Nebraska,Massachusetts,41,50,22,33,0,Foul on Walter Pitchford.
+Nebraska,Massachusetts,41,51,22,33,1,Raphiael Putney made Free Throw.
+Nebraska,Massachusetts,41,51,22,37,0,Foul on Derrick Gordon.
+Nebraska,Massachusetts,41,51,22,44,0,Terran Petteway missed Layup.
+Nebraska,Massachusetts,41,51,22,44,0,Walter Pitchford Offensive Rebound.
+Nebraska,Massachusetts,43,51,22,47,1,Walter Pitchford made Two Point Tip Shot.
+Nebraska,Massachusetts,43,53,22,55,1,Derrick Gordon made Layup.
+Nebraska,Massachusetts,43,53,22,55,0,Foul on Walter Pitchford.
+Nebraska,Massachusetts,43,53,22,55,0,Derrick Gordon missed Free Throw.
+Nebraska,Massachusetts,43,53,22,55,0,Leslee Smith Defensive Rebound.
+Nebraska,Massachusetts,45,53,23,16,1,Terran Petteway made Jumper.
+Nebraska,Massachusetts,45,55,23,38,1,Sampson Carter made Layup.
+Nebraska,Massachusetts,45,55,23,38,0,Foul on Terran Petteway.
+Nebraska,Massachusetts,45,56,23,38,1,Sampson Carter made Free Throw.
+Nebraska,Massachusetts,45,56,23,47,0,Shavon Shields Offensive Rebound.
+Nebraska,Massachusetts,45,56,23,47,0,Deverell Biggs missed Layup.
+Nebraska,Massachusetts,45,56,23,50,0,Foul on Cady Lalanne.
+Nebraska,Massachusetts,46,56,23,50,1,Shavon Shields made Free Throw.
+Nebraska,Massachusetts,47,56,23,50,1,Shavon Shields made Free Throw.
+Nebraska,Massachusetts,47,56,24,4,0,Chaz Williams Turnover.
+Nebraska,Massachusetts,47,56,24,6,0,Leslee Smith Steal.
+Nebraska,Massachusetts,47,56,24,17,0,Foul on Chaz Williams.
+Nebraska,Massachusetts,47,56,24,17,0,Official TV Timeout
+Nebraska,Massachusetts,48,56,24,17,1,Deverell Biggs made Free Throw.
+Nebraska,Massachusetts,49,56,24,17,1,Deverell Biggs made Free Throw.
+Nebraska,Massachusetts,49,58,24,30,1,Derrick Gordon made Layup.
+Nebraska,Massachusetts,49,58,24,47,0,Foul on Derrick Gordon.
+Nebraska,Massachusetts,49,58,24,51,0,Tai Webster missed Three Point Jumper.
+Nebraska,Massachusetts,49,58,24,51,0,Derrick Gordon Defensive Rebound.
+Nebraska,Massachusetts,49,58,24,54,0,Foul on Shavon Shields.
+Nebraska,Massachusetts,49,58,25,1,0,Foul on Shavon Shields.
+Nebraska,Massachusetts,49,59,25,1,1,Sampson Carter made Free Throw.
+Nebraska,Massachusetts,49,60,25,1,1,Sampson Carter made Free Throw.
+Nebraska,Massachusetts,49,60,25,15,0,Leslee Smith missed Jumper.
+Nebraska,Massachusetts,49,60,25,15,0,Leslee Smith Offensive Rebound.
+Nebraska,Massachusetts,51,60,25,19,1,Leslee Smith made Two Point Tip Shot.
+Nebraska,Massachusetts,51,60,25,29,0,Derrick Gordon missed Jumper.
+Nebraska,Massachusetts,51,60,25,29,0,Deverell Biggs Block.
+Nebraska,Massachusetts,51,60,25,30,0,Deverell Biggs Defensive Rebound.
+Nebraska,Massachusetts,53,60,25,41,1,Leslee Smith made Layup.
+Nebraska,Massachusetts,53,60,25,45,0,Massachusetts  Timeout
+Nebraska,Massachusetts,53,60,26,5,0,Sampson Carter missed Three Point Jumper.
+Nebraska,Massachusetts,53,60,26,5,0,Cady Lalanne Offensive Rebound.
+Nebraska,Massachusetts,53,60,26,11,0,Cady Lalanne missed Jumper.
+Nebraska,Massachusetts,53,60,26,11,0,Leslee Smith Block.
+Nebraska,Massachusetts,53,60,26,12,0,Cady Lalanne Offensive Rebound.
+Nebraska,Massachusetts,53,62,26,14,1,Cady Lalanne made Layup.
+Nebraska,Massachusetts,56,62,26,31,1,Deverell Biggs made Three Point Jumper. Assisted by Tai Webster.
+Nebraska,Massachusetts,56,64,26,51,1,Sampson Carter made Layup.
+Nebraska,Massachusetts,56,64,26,58,0,Foul on Trey Davis.
+Nebraska,Massachusetts,58,64,27,13,1,Tai Webster made Layup. Assisted by David Rivers.
+Nebraska,Massachusetts,58,66,27,28,1,Cady Lalanne made Layup. Assisted by Trey Davis.
+Nebraska,Massachusetts,60,66,27,52,1,David Rivers made Layup. Assisted by Tai Webster.
+Nebraska,Massachusetts,60,66,27,52,0,Foul on Maxie Esho.
+Nebraska,Massachusetts,60,66,27,52,0,David Rivers missed Free Throw.
+Nebraska,Massachusetts,60,66,27,52,0,Massachusetts Defensive Rebound.
+Nebraska,Massachusetts,60,66,27,53,0,Foul on Deverell Biggs.
+Nebraska,Massachusetts,60,67,27,53,1,Maxie Esho made Free Throw.
+Nebraska,Massachusetts,60,68,27,53,1,Maxie Esho made Free Throw.
+Nebraska,Massachusetts,60,68,28,4,0,Nebraska  Timeout
+Nebraska,Massachusetts,62,68,28,13,1,Deverell Biggs made Layup.
+Nebraska,Massachusetts,62,70,28,23,1,Maxie Esho made Layup. Assisted by Trey Davis.
+Nebraska,Massachusetts,65,70,28,47,1,Walter Pitchford made Three Point Jumper. Assisted by Benny Parker.
+Nebraska,Massachusetts,65,70,29,5,0,Foul on Walter Pitchford.
+Nebraska,Massachusetts,65,70,29,5,0,Official TV Timeout
+Nebraska,Massachusetts,65,71,29,5,1,Cady Lalanne made Free Throw.
+Nebraska,Massachusetts,65,72,29,5,1,Cady Lalanne made Free Throw.
+Nebraska,Massachusetts,65,72,29,20,0,Tai Webster missed Layup.
+Nebraska,Massachusetts,65,72,29,20,0,Maxie Esho Defensive Rebound.
+Nebraska,Massachusetts,65,72,29,27,0,Trey Davis Turnover.
+Nebraska,Massachusetts,65,72,29,28,0,David Rivers Steal.
+Nebraska,Massachusetts,65,72,29,40,0,Foul on David Rivers.
+Nebraska,Massachusetts,65,72,29,40,0,David Rivers Turnover.
+Nebraska,Massachusetts,65,74,29,56,1,Maxie Esho made Jumper.
+Nebraska,Massachusetts,65,74,30,9,0,Tai Webster Turnover.
+Nebraska,Massachusetts,65,76,30,19,1,Derrick Gordon made Layup.
+Nebraska,Massachusetts,65,76,30,19,0,Foul on Deverell Biggs.
+Nebraska,Massachusetts,65,76,30,19,0,Derrick Gordon missed Free Throw.
+Nebraska,Massachusetts,65,76,30,19,0,Shavon Shields Defensive Rebound.
+Nebraska,Massachusetts,65,76,30,28,0,Deverell Biggs Turnover.
+Nebraska,Massachusetts,65,76,30,29,0,Derrick Gordon Steal.
+Nebraska,Massachusetts,65,76,30,29,0,Foul on Deverell Biggs.
+Nebraska,Massachusetts,65,77,30,29,1,Derrick Gordon made Free Throw.
+Nebraska,Massachusetts,65,78,30,29,1,Derrick Gordon made Free Throw.
+Nebraska,Massachusetts,65,78,30,39,0,Foul on Maxie Esho.
+Nebraska,Massachusetts,66,78,30,39,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,67,78,30,39,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,67,78,31,5,0,Chaz Williams Turnover.
+Nebraska,Massachusetts,67,78,31,22,0,Foul on Chaz Williams.
+Nebraska,Massachusetts,67,78,31,22,0,Foul on Tai Webster.
+Nebraska,Massachusetts,67,80,31,36,1,Clyde Santee made Jumper.
+Nebraska,Massachusetts,69,80,31,44,1,David Rivers made Layup.
+Nebraska,Massachusetts,69,80,31,56,0,Foul on Cady Lalanne.
+Nebraska,Massachusetts,70,80,31,56,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,70,80,31,56,0,Terran Petteway missed Free Throw.
+Nebraska,Massachusetts,70,80,31,56,0,Sampson Carter Defensive Rebound.
+Nebraska,Massachusetts,70,82,32,8,1,Derrick Gordon made Layup. Assisted by Raphiael Putney.
+Nebraska,Massachusetts,70,82,32,23,0,Terran Petteway missed Layup.
+Nebraska,Massachusetts,70,82,32,23,0,Cady Lalanne Block.
+Nebraska,Massachusetts,70,82,32,25,0,Leslee Smith Offensive Rebound.
+Nebraska,Massachusetts,72,82,32,27,1,Leslee Smith made Layup.
+Nebraska,Massachusetts,72,82,32,41,0,Raphiael Putney Turnover.
+Nebraska,Massachusetts,72,82,32,42,0,Terran Petteway Steal.
+Nebraska,Massachusetts,72,82,32,45,0,Foul on Trey Davis.
+Nebraska,Massachusetts,72,82,32,45,0,Official TV Timeout
+Nebraska,Massachusetts,73,82,32,45,1,Shavon Shields made Free Throw.
+Nebraska,Massachusetts,74,82,32,45,1,Shavon Shields made Free Throw.
+Nebraska,Massachusetts,74,82,32,50,0,Foul on David Rivers.
+Nebraska,Massachusetts,74,83,32,50,1,Trey Davis made Free Throw.
+Nebraska,Massachusetts,74,84,32,50,1,Trey Davis made Free Throw.
+Nebraska,Massachusetts,74,84,33,5,0,Foul on Raphiael Putney.
+Nebraska,Massachusetts,75,84,33,5,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,76,84,33,5,1,Terran Petteway made Free Throw.
+Nebraska,Massachusetts,76,84,33,25,0,Sampson Carter missed Jumper.
+Nebraska,Massachusetts,76,84,33,25,0,Sampson Carter Offensive Rebound.
+Nebraska,Massachusetts,76,84,33,29,0,Sampson Carter missed Two Point Tip Shot.
+Nebraska,Massachusetts,76,84,33,29,0,Sampson Carter Offensive Rebound.
+Nebraska,Massachusetts,76,86,33,37,1,Raphiael Putney made Layup. Assisted by Sampson Carter.
+Nebraska,Massachusetts,76,86,34,6,0,Tai Webster missed Jumper.
+Nebraska,Massachusetts,76,86,34,6,0,Shavon Shields Offensive Rebound.
+Nebraska,Massachusetts,76,86,34,11,0,Shavon Shields missed Layup.
+Nebraska,Massachusetts,76,86,34,11,0,Cady Lalanne Defensive Rebound.
+Nebraska,Massachusetts,76,86,34,16,0,Cady Lalanne Turnover.
+Nebraska,Massachusetts,76,86,34,16,0,David Rivers Steal.
+Nebraska,Massachusetts,78,86,34,17,1,David Rivers made Layup.
+Nebraska,Massachusetts,78,86,34,34,0,Trey Davis missed Three Point Jumper.
+Nebraska,Massachusetts,78,86,34,34,0,Shavon Shields Defensive Rebound.
+Nebraska,Massachusetts,78,86,34,48,0,Terran Petteway missed Three Point Jumper.
+Nebraska,Massachusetts,78,86,34,48,0,Derrick Gordon Defensive Rebound.
+Nebraska,Massachusetts,78,86,34,59,0,Trey Davis missed Layup.
+Nebraska,Massachusetts,78,86,34,59,0,Cady Lalanne Offensive Rebound.
+Nebraska,Massachusetts,78,86,35,2,0,Cady Lalanne Turnover.
+Nebraska,Massachusetts,78,86,35,3,0,David Rivers Steal.
+Nebraska,Massachusetts,78,86,35,7,0,Shavon Shields missed Layup.
+Nebraska,Massachusetts,78,86,35,7,0,Tai Webster Offensive Rebound.
+Nebraska,Massachusetts,80,86,35,8,1,Tai Webster made Layup.
+Nebraska,Massachusetts,80,86,35,8,0,Nebraska  Timeout
+Nebraska,Massachusetts,80,86,35,19,0,Raphiael Putney Turnover.
+Nebraska,Massachusetts,80,86,35,33,0,Shavon Shields missed Three Point Jumper.
+Nebraska,Massachusetts,80,86,35,33,0,Nebraska Offensive Rebound.
+Nebraska,Massachusetts,80,86,35,42,0,Terran Petteway missed Layup.
+Nebraska,Massachusetts,80,86,35,42,0,Leslee Smith Offensive Rebound.
+Nebraska,Massachusetts,80,86,35,56,0,Shavon Shields missed Jumper.
+Nebraska,Massachusetts,80,86,35,56,0,Cady Lalanne Defensive Rebound.
+Nebraska,Massachusetts,80,88,36,21,1,Derrick Gordon made Layup. Assisted by Cady Lalanne.
+Nebraska,Massachusetts,80,88,36,42,0,Foul on Cady Lalanne.
+Nebraska,Massachusetts,80,88,36,42,0,Official TV Timeout
+Nebraska,Massachusetts,80,88,36,42,0,David Rivers missed Free Throw.
+Nebraska,Massachusetts,80,88,36,42,0,Nebraska Deadball Team Rebound.
+Nebraska,Massachusetts,81,88,36,42,1,David Rivers made Free Throw.
+Nebraska,Massachusetts,81,88,37,0,0,Derrick Gordon missed Layup.
+Nebraska,Massachusetts,81,88,37,0,0,Leslee Smith Block.
+Nebraska,Massachusetts,81,88,37,3,0,Terran Petteway Defensive Rebound.
+Nebraska,Massachusetts,83,88,37,6,1,Terran Petteway made Layup.
+Nebraska,Massachusetts,83,88,37,30,0,Foul on Terran Petteway.
+Nebraska,Massachusetts,83,88,37,30,0,Chaz Williams missed Free Throw.
+Nebraska,Massachusetts,83,88,37,30,0,Massachusetts Deadball Team Rebound.
+Nebraska,Massachusetts,83,89,37,30,1,Chaz Williams made Free Throw.
+Nebraska,Massachusetts,83,89,37,57,0,Foul on Derrick Gordon.
+Nebraska,Massachusetts,84,89,37,57,1,Deverell Biggs made Free Throw.
+Nebraska,Massachusetts,85,89,37,57,1,Deverell Biggs made Free Throw.
+Nebraska,Massachusetts,85,89,38,12,0,Derrick Gordon missed Three Point Jumper.
+Nebraska,Massachusetts,85,89,38,12,0,Nebraska Defensive Rebound.
+Nebraska,Massachusetts,85,89,38,16,0,Foul on Raphiael Putney.
+Nebraska,Massachusetts,86,89,38,16,1,Tai Webster made Free Throw.
+Nebraska,Massachusetts,87,89,38,16,1,Tai Webster made Free Throw.
+Nebraska,Massachusetts,87,91,38,34,1,Chaz Williams made Layup.
+Nebraska,Massachusetts,87,91,38,44,0,Foul on Cady Lalanne.
+Nebraska,Massachusetts,88,91,38,44,1,Tai Webster made Free Throw.
+Nebraska,Massachusetts,88,91,38,44,0,Tai Webster missed Free Throw.
+Nebraska,Massachusetts,88,91,38,44,0,David Rivers Offensive Rebound.
+Nebraska,Massachusetts,88,91,38,58,0,Foul on Deverell Biggs.
+Nebraska,Massachusetts,88,91,38,58,0,Deverell Biggs Turnover.
+Nebraska,Massachusetts,88,91,39,23,0,Foul on Leslee Smith.
+Nebraska,Massachusetts,88,92,39,23,1,Trey Davis made Free Throw.
+Nebraska,Massachusetts,88,93,39,23,1,Trey Davis made Free Throw.
+Nebraska,Massachusetts,88,93,39,24,0,Massachusetts  Timeout
+Nebraska,Massachusetts,90,93,39,30,1,Tai Webster made Layup.
+Nebraska,Massachusetts,90,93,39,32,0,Nebraska  Timeout
+Nebraska,Massachusetts,90,93,39,34,0,Sampson Carter Turnover.
+Nebraska,Massachusetts,90,93,39,35,0,Tai Webster Steal.
+Nebraska,Massachusetts,90,93,39,37,0,David Rivers missed Layup.
+Nebraska,Massachusetts,90,93,39,38,0,Mike Peltz Offensive Rebound.
+Nebraska,Massachusetts,90,93,39,39,0,Mike Peltz missed Two Point Tip Shot.
+Nebraska,Massachusetts,90,93,39,40,0,Derrick Gordon Defensive Rebound.
+Nebraska,Massachusetts,90,93,39,41,0,Foul on Mike Peltz.
+Nebraska,Massachusetts,90,94,39,41,1,Derrick Gordon made Free Throw.
+Nebraska,Massachusetts,90,94,39,41,0,Derrick Gordon missed Free Throw.
+Nebraska,Massachusetts,90,94,39,41,0,Leslee Smith Defensive Rebound.
+Nebraska,Massachusetts,90,94,39,49,0,Shavon Shields missed Three Point Jumper.
+Nebraska,Massachusetts,90,94,39,49,0,Chaz Williams Defensive Rebound.
+Nebraska,Massachusetts,90,94,39,53,0,Foul on Benny Parker.
+Nebraska,Massachusetts,90,95,39,53,1,Chaz Williams made Free Throw.
+Nebraska,Massachusetts,90,96,39,53,1,Chaz Williams made Free Throw.
+Nebraska,Massachusetts,90,96,39,57,0,Tai Webster missed Three Point Jumper.
+Nebraska,Massachusetts,90,96,39,57,0,Raphiael Putney Defensive Rebound.
+Nebraska,Massachusetts,90,96,40,0,0,End of Game

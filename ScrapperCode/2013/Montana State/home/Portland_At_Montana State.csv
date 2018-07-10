@@ -1,0 +1,345 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Portland,Montana State,0,0,0,10,0,Foul on Kevin Bailey
+Portland,Montana State,0,0,0,10,0,Kevin Bailey Turnover.
+Portland,Montana State,0,3,0,24,1,Antonio Biglow made Three Point Jumper.  Assisted by Marcus Colbert.
+Portland,Montana State,0,3,1,2,0,Ryan Nicholas Turnover.
+Portland,Montana State,0,3,1,20,0,Paul Egwuonwu Turnover.
+Portland,Montana State,0,3,1,22,0,Kevin Bailey Steal.
+Portland,Montana State,0,3,1,22,0,Kevin Bailey Turnover.
+Portland,Montana State,0,6,1,43,1,Jamie Stewart made Three Point Jumper.  Assisted by Marcus Colbert.
+Portland,Montana State,2,6,2,14,1,Thomas van der Mars made Jumper.
+Portland,Montana State,2,6,2,31,0,Antonio Biglow Turnover.
+Portland,Montana State,2,6,2,33,0,Tanner Riley Turnover.
+Portland,Montana State,2,6,2,36,0,Flavien Davis Steal.
+Portland,Montana State,2,8,2,39,1,Marcus Colbert made Layup.  Assisted by Flavien Davis.
+Portland,Montana State,4,8,3,1,1,Kevin Bailey made Dunk.
+Portland,Montana State,4,8,3,21,0,Paul Egwuonwu Turnover.
+Portland,Montana State,6,8,3,21,1,Kevin Bailey made Jumper.
+Portland,Montana State,6,8,3,21,0,Flavien Davis missed Jumper.
+Portland,Montana State,6,8,3,21,0,Paul Egwuonwu Offensive Rebound.
+Portland,Montana State,6,10,3,30,1,Jamie Stewart made Layup.  Assisted by Antonio Biglow.
+Portland,Montana State,6,10,3,46,0,Kevin Bailey Turnover.
+Portland,Montana State,6,10,3,47,0,Paul Egwuonwu Steal.
+Portland,Montana State,6,12,3,50,1,Jamie Stewart made Layup.  Assisted by Paul Egwuonwu.
+Portland,Montana State,6,12,4,35,0,Foul on Jamie Stewart
+Portland,Montana State,6,12,4,35,0,Official TV Timeout.
+Portland,Montana State,8,12,4,35,1,Kevin Bailey made Layup.
+Portland,Montana State,8,12,4,35,0,Marcus Colbert Turnover.
+Portland,Montana State,8,12,4,58,0,Ryan Nicholas missed Layup.
+Portland,Montana State,8,12,4,58,0,Riley Barker Offensive Rebound.
+Portland,Montana State,10,12,5,1,1,Riley Barker made Layup.
+Portland,Montana State,10,12,5,36,0,Foul on Kevin Bailey
+Portland,Montana State,10,13,5,36,1,Antonio Biglow made Free Throw.
+Portland,Montana State,10,14,5,36,1,Antonio Biglow made Free Throw.
+Portland,Montana State,10,14,5,52,0,Ryan Nicholas missed Jumper.
+Portland,Montana State,10,14,5,52,0,Paul Egwuonwu Defensive Rebound.
+Portland,Montana State,10,14,6,5,0,Foul on Riley Barker
+Portland,Montana State,10,14,6,15,0,Michael Dison missed Jumper.
+Portland,Montana State,10,14,6,15,0,John Bailey Defensive Rebound.
+Portland,Montana State,10,14,6,22,0,Foul on Paul Egwuonwu
+Portland,Montana State,10,14,6,22,0,Korey Thieleke missed Free Throw.
+Portland,Montana State,10,14,6,22,0,null
+Portland,Montana State,11,14,6,22,1,Korey Thieleke made Free Throw.
+Portland,Montana State,11,14,6,43,0,Foul on Paul Egwuonwu
+Portland,Montana State,11,14,7,7,0,Foul on Derrick Rodgers
+Portland,Montana State,11,14,7,7,0,Derrick Rodgers Turnover.
+Portland,Montana State,11,17,7,26,1,Flavien Davis made Three Point Jumper.  Assisted by Michael Dison.
+Portland,Montana State,11,17,7,43,0,Antonio Biglow Steal.
+Portland,Montana State,11,17,7,48,0,John Bailey Turnover.
+Portland,Montana State,11,17,7,52,0,Michael Dison missed Jumper.
+Portland,Montana State,11,17,7,52,0,Derrick Rodgers Defensive Rebound.
+Portland,Montana State,11,17,7,54,0,Foul on Michael Dison
+Portland,Montana State,11,17,8,8,0,Tanner Riley missed Three Point Jumper.
+Portland,Montana State,11,17,8,8,0,Danny Robison Defensive Rebound.
+Portland,Montana State,11,17,8,10,0,Foul on John Bailey
+Portland,Montana State,11,17,8,10,0,Official TV Timeout.
+Portland,Montana State,11,17,8,14,0,Eric Norman Turnover.
+Portland,Montana State,11,17,8,19,0,Ryan Nicholas Steal.
+Portland,Montana State,13,17,8,21,1,Ryan Nicholas made Layup.
+Portland,Montana State,13,17,8,25,0,Antonio Biglow missed Three Point Jumper.
+Portland,Montana State,13,17,8,25,0,Montana State Offensive Rebound.
+Portland,Montana State,13,17,8,25,0,Foul on Tanner Riley
+Portland,Montana State,13,17,8,42,0,Michael Dison missed Three Point Jumper.
+Portland,Montana State,13,17,8,42,0,Eric Norman Offensive Rebound.
+Portland,Montana State,13,19,8,47,1,Eric Norman made Layup.
+Portland,Montana State,13,19,9,6,0,Ryan Nicholas missed Three Point Jumper.
+Portland,Montana State,13,19,9,6,0,Michael Dison Defensive Rebound.
+Portland,Montana State,13,19,9,15,0,Antonio Biglow missed Jumper.
+Portland,Montana State,13,19,9,15,0,Eric Norman Offensive Rebound.
+Portland,Montana State,13,21,9,20,1,Eric Norman made Dunk.
+Portland,Montana State,13,21,9,25,0,Portland Full Timeout.
+Portland,Montana State,13,21,9,35,0,Riley Barker missed Jumper.
+Portland,Montana State,13,21,9,35,0,Eric Norman Defensive Rebound.
+Portland,Montana State,13,21,9,48,0,Jamie Stewart missed Layup.
+Portland,Montana State,13,21,9,48,0,Riley Barker Defensive Rebound.
+Portland,Montana State,13,21,9,58,0,David Carr missed Jumper.
+Portland,Montana State,13,21,9,58,0,Jamie Stewart Defensive Rebound.
+Portland,Montana State,13,21,10,5,0,Foul on David Carr
+Portland,Montana State,13,21,10,5,0,Antonio Biglow missed Free Throw.
+Portland,Montana State,13,21,10,5,0,Kevin Bailey Defensive Rebound.
+Portland,Montana State,13,21,10,25,0,Foul on Eric Norman
+Portland,Montana State,14,21,10,25,1,Kevin Bailey made Free Throw.
+Portland,Montana State,15,21,10,25,1,Kevin Bailey made Free Throw.
+Portland,Montana State,15,21,10,57,0,Jamie Stewart missed Jumper.
+Portland,Montana State,15,21,10,57,0,Riley Barker Block.
+Portland,Montana State,15,21,11,1,0,Antonio Biglow Offensive Rebound.
+Portland,Montana State,15,23,11,5,1,Antonio Biglow made Layup.  Assisted by Danny Robison.
+Portland,Montana State,18,23,11,34,1,Korey Thieleke made Three Point Jumper.  Assisted by Kevin Bailey.
+Portland,Montana State,18,24,12,5,1,Danny Robison made Free Throw.
+Portland,Montana State,18,24,12,5,0,Eric Norman missed Three Point Jumper.
+Portland,Montana State,18,25,12,5,1,Danny Robison made Free Throw.
+Portland,Montana State,18,25,12,5,0,Danny Robison Offensive Rebound.
+Portland,Montana State,18,25,12,7,0,Official TV Timeout.
+Portland,Montana State,18,25,12,7,0,Foul on Riley Barker
+Portland,Montana State,20,25,12,42,1,David Carr made Jumper.
+Portland,Montana State,20,28,13,10,1,Calen Coleman made Three Point Jumper.  Assisted by Marcus Colbert.
+Portland,Montana State,22,28,13,30,1,Thomas van der Mars made Layup.  Assisted by Korey Thieleke.
+Portland,Montana State,22,30,14,3,1,Calen Coleman made Layup.
+Portland,Montana State,22,30,14,25,0,Portland Full Timeout.
+Portland,Montana State,22,30,14,39,0,Foul on Marcus Colbert
+Portland,Montana State,22,30,14,39,0,Foul on Jamie Stewart
+Portland,Montana State,23,30,14,39,1,Bryce Pressley made Free Throw.
+Portland,Montana State,24,30,14,39,1,Bryce Pressley made Free Throw.
+Portland,Montana State,24,30,15,0,0,Foul on Ryan Nicholas
+Portland,Montana State,24,31,15,0,1,Flavien Davis made Free Throw.
+Portland,Montana State,24,32,15,0,1,Flavien Davis made Free Throw.
+Portland,Montana State,24,32,15,29,0,Bryce Pressley missed Three Point Jumper.
+Portland,Montana State,24,32,15,29,0,Calen Coleman Defensive Rebound.
+Portland,Montana State,24,32,15,54,0,Flavien Davis missed Jumper.
+Portland,Montana State,24,32,15,54,0,Ryan Nicholas Defensive Rebound.
+Portland,Montana State,26,32,15,59,1,Bryce Pressley made Layup.  Assisted by Derrick Rodgers.
+Portland,Montana State,26,34,16,21,1,Flavien Davis made Jumper.
+Portland,Montana State,26,34,16,21,0,Foul on Ryan Nicholas
+Portland,Montana State,26,34,16,21,0,Official TV Timeout.
+Portland,Montana State,26,35,16,21,1,Flavien Davis made Free Throw.
+Portland,Montana State,26,35,16,28,0,Tanner Riley missed Three Point Jumper.
+Portland,Montana State,26,35,16,28,0,Michael Dison Defensive Rebound.
+Portland,Montana State,26,37,16,35,1,Antonio Biglow made Jumper.  Assisted by Michael Dison.
+Portland,Montana State,26,37,17,8,0,Korey Thieleke Turnover.
+Portland,Montana State,26,37,17,24,0,Calen Coleman missed Layup.
+Portland,Montana State,26,37,17,24,0,Bryce Pressley Defensive Rebound.
+Portland,Montana State,28,37,17,48,1,Derrick Rodgers made Layup.
+Portland,Montana State,28,37,18,9,0,Foul on Bryce Pressley
+Portland,Montana State,28,38,18,9,1,Calen Coleman made Free Throw.
+Portland,Montana State,28,39,18,9,1,Calen Coleman made Free Throw.
+Portland,Montana State,28,39,18,20,0,Foul on Derrick Rodgers
+Portland,Montana State,28,39,18,30,0,Blake Brumwell missed Layup.
+Portland,Montana State,28,39,18,30,0,Derrick Rodgers Defensive Rebound.
+Portland,Montana State,28,39,18,36,0,Derrick Rodgers missed Layup.
+Portland,Montana State,28,39,18,36,0,Antonio Biglow Block.
+Portland,Montana State,28,39,18,36,0,Portland Offensive Rebound.
+Portland,Montana State,28,39,18,41,0,Michael Dison Steal.
+Portland,Montana State,28,39,18,44,0,Ryan Nicholas Turnover.
+Portland,Montana State,28,41,18,46,1,Michael Dison made Layup.
+Portland,Montana State,30,41,19,12,1,Thomas van der Mars made Layup.  Assisted by Ryan Nicholas.
+Portland,Montana State,30,41,19,14,0,Montana State Full Timeout.
+Portland,Montana State,30,43,19,25,1,Calen Coleman made Dunk.  Assisted by Eric Norman.
+Portland,Montana State,30,43,19,45,0,Bryce Pressley Turnover.
+Portland,Montana State,30,43,19,47,0,Michael Dison Steal.
+Portland,Montana State,30,43,20,0,0,Antonio Biglow missed Three Point Jumper.
+Portland,Montana State,30,43,20,0,0,Korey Thieleke Defensive Rebound.
+Portland,Montana State,30,43,20,0,0,End of the 1st Half.
+Portland,Montana State,30,43,20,15,0,Flavien Davis missed Three Point Jumper.
+Portland,Montana State,30,43,20,15,0,Jamie Stewart Offensive Rebound.
+Portland,Montana State,30,43,20,19,0,Foul on Kevin Bailey
+Portland,Montana State,30,45,20,19,1,Jamie Stewart made Layup.  Assisted by Kevin Bailey.
+Portland,Montana State,30,46,20,19,1,Jamie Stewart made Free Throw.
+Portland,Montana State,30,46,20,30,0,Antonio Biglow Steal.
+Portland,Montana State,30,46,20,31,0,David Carr Turnover.
+Portland,Montana State,30,48,20,34,1,Antonio Biglow made Layup.
+Portland,Montana State,30,48,20,45,0,David Carr Turnover.
+Portland,Montana State,30,48,20,59,0,Paul Egwuonwu Turnover.
+Portland,Montana State,30,48,21,8,0,Paul Egwuonwu Steal.
+Portland,Montana State,30,48,21,9,0,Derrick Rodgers Turnover.
+Portland,Montana State,30,48,21,14,0,Jamie Stewart missed Layup.
+Portland,Montana State,30,48,21,14,0,Kevin Bailey Block.
+Portland,Montana State,30,48,21,16,0,Derrick Rodgers Defensive Rebound.
+Portland,Montana State,30,48,21,19,0,Derrick Rodgers Turnover.
+Portland,Montana State,30,48,21,22,0,Antonio Biglow Steal.
+Portland,Montana State,30,48,21,26,0,Antonio Biglow Turnover.
+Portland,Montana State,30,48,21,28,0,Ryan Nicholas Steal.
+Portland,Montana State,30,48,21,28,0,Foul on Antonio Biglow
+Portland,Montana State,30,48,21,35,0,Tanner Riley missed Jumper.
+Portland,Montana State,30,48,21,35,0,Marcus Colbert Defensive Rebound.
+Portland,Montana State,30,48,21,43,0,null
+Portland,Montana State,30,48,21,43,0,Flavien Davis missed Free Throw.
+Portland,Montana State,30,48,21,43,0,Foul on Tanner Riley
+Portland,Montana State,30,48,21,43,0,Flavien Davis missed Free Throw.
+Portland,Montana State,30,48,21,43,0,Montana State Offensive Rebound.
+Portland,Montana State,30,48,21,48,0,Foul on Paul Egwuonwu
+Portland,Montana State,30,48,22,1,0,Foul on Marcus Colbert
+Portland,Montana State,30,48,22,8,0,Kevin Bailey missed Jumper.
+Portland,Montana State,30,48,22,8,0,Jamie Stewart Defensive Rebound.
+Portland,Montana State,30,48,22,17,0,Foul on Jamie Stewart
+Portland,Montana State,30,48,22,17,0,Jamie Stewart Turnover.
+Portland,Montana State,30,48,22,36,0,Foul on Antonio Biglow
+Portland,Montana State,30,48,22,46,0,Foul on Oskars Reinfelds
+Portland,Montana State,30,48,22,59,0,Danny Robison Turnover.
+Portland,Montana State,30,48,23,0,0,Derrick Rodgers Steal.
+Portland,Montana State,30,48,23,2,0,Foul on Derrick Rodgers
+Portland,Montana State,30,48,23,2,0,Derrick Rodgers Turnover.
+Portland,Montana State,30,48,23,22,0,Foul on Oskars Reinfelds
+Portland,Montana State,30,51,23,30,1,Antonio Biglow made Three Point Jumper.  Assisted by Flavien Davis.
+Portland,Montana State,32,51,23,56,1,Riley Barker made Layup.  Assisted by Derrick Rodgers.
+Portland,Montana State,32,53,24,8,1,Flavien Davis made Layup.
+Portland,Montana State,32,53,24,21,0,Official TV Timeout.
+Portland,Montana State,33,53,24,38,1,Ryan Nicholas made Free Throw.
+Portland,Montana State,33,53,24,38,0,Foul on Danny Robison
+Portland,Montana State,34,53,24,38,1,Ryan Nicholas made Free Throw.
+Portland,Montana State,34,53,24,55,0,Flavien Davis missed Jumper.
+Portland,Montana State,34,53,24,55,0,Korey Thieleke Defensive Rebound.
+Portland,Montana State,36,53,25,1,1,Korey Thieleke made Layup.
+Portland,Montana State,36,53,25,1,0,Foul on Flavien Davis
+Portland,Montana State,36,53,25,1,0,Korey Thieleke missed Free Throw.
+Portland,Montana State,36,53,25,1,0,Riley Barker Offensive Rebound.
+Portland,Montana State,36,53,25,4,0,Foul on Marcus Colbert
+Portland,Montana State,36,53,25,4,0,Riley Barker missed Free Throw.
+Portland,Montana State,36,53,25,4,0,Flavien Davis Defensive Rebound.
+Portland,Montana State,36,53,25,26,0,Foul on Ryan Nicholas
+Portland,Montana State,36,54,25,26,1,Flavien Davis made Free Throw.
+Portland,Montana State,36,54,25,26,0,Flavien Davis missed Free Throw.
+Portland,Montana State,36,54,25,26,0,Riley Barker Defensive Rebound.
+Portland,Montana State,36,54,25,34,0,Korey Thieleke missed Three Point Jumper.
+Portland,Montana State,36,54,25,34,0,Michael Dison Defensive Rebound.
+Portland,Montana State,36,54,25,56,0,Antonio Biglow missed Three Point Jumper.
+Portland,Montana State,36,54,25,56,0,Ryan Nicholas Defensive Rebound.
+Portland,Montana State,36,54,26,2,0,Ryan Nicholas missed Jumper.
+Portland,Montana State,36,54,26,2,0,Bryce Pressley Offensive Rebound.
+Portland,Montana State,38,54,26,7,1,Bryce Pressley made Layup.
+Portland,Montana State,38,54,26,16,0,Michael Dison Turnover.
+Portland,Montana State,38,54,26,21,0,Derrick Rodgers Steal.
+Portland,Montana State,38,54,26,35,0,Ryan Nicholas missed Layup.
+Portland,Montana State,38,54,26,35,0,Flavien Davis Defensive Rebound.
+Portland,Montana State,38,54,26,38,0,Foul on Bryce Pressley
+Portland,Montana State,38,54,26,38,0,Antonio Biglow missed Free Throw.
+Portland,Montana State,38,54,26,38,0,null
+Portland,Montana State,38,55,26,38,1,Antonio Biglow made Free Throw.
+Portland,Montana State,38,55,26,54,0,Korey Thieleke missed Three Point Jumper.
+Portland,Montana State,38,55,26,54,0,Ryan Nicholas Offensive Rebound.
+Portland,Montana State,40,55,26,58,1,Ryan Nicholas made Layup.
+Portland,Montana State,40,55,26,58,0,Foul on Michael Dison
+Portland,Montana State,40,55,26,58,0,Ryan Nicholas missed Free Throw.
+Portland,Montana State,40,55,26,58,0,Paul Egwuonwu Defensive Rebound.
+Portland,Montana State,40,55,27,10,0,Foul on Korey Thieleke
+Portland,Montana State,40,55,27,10,0,Calen Coleman missed Free Throw.
+Portland,Montana State,40,55,27,10,0,Ryan Nicholas Defensive Rebound.
+Portland,Montana State,40,55,27,24,0,Foul on Eric Norman
+Portland,Montana State,41,55,27,24,1,Ryan Nicholas made Free Throw.
+Portland,Montana State,41,55,27,24,0,Ryan Nicholas missed Free Throw.
+Portland,Montana State,41,55,27,24,0,Jamie Stewart Defensive Rebound.
+Portland,Montana State,41,55,27,29,0,Foul on Riley Barker
+Portland,Montana State,41,55,27,29,0,Jamie Stewart missed Free Throw.
+Portland,Montana State,41,55,27,29,0,Riley Barker Defensive Rebound.
+Portland,Montana State,42,55,27,31,1,Derrick Rodgers made Free Throw.
+Portland,Montana State,42,55,27,31,0,Foul on Michael Dison
+Portland,Montana State,43,55,27,31,1,Derrick Rodgers made Free Throw.
+Portland,Montana State,43,55,27,34,0,null
+Portland,Montana State,43,55,27,34,0,Jamie Stewart missed Free Throw.
+Portland,Montana State,43,55,27,34,0,Foul on Oskars Reinfelds
+Portland,Montana State,43,55,27,34,0,Jamie Stewart missed Free Throw.
+Portland,Montana State,43,55,27,34,0,Riley Barker Defensive Rebound.
+Portland,Montana State,43,55,27,44,0,Foul on Derrick Rodgers
+Portland,Montana State,43,55,27,44,0,Derrick Rodgers Turnover.
+Portland,Montana State,43,56,27,47,1,Michael Dison made Free Throw.
+Portland,Montana State,43,56,27,47,0,Foul on Derrick Rodgers
+Portland,Montana State,43,57,27,47,1,Michael Dison made Free Throw.
+Portland,Montana State,46,57,28,12,1,Kevin Bailey made Three Point Jumper.  Assisted by Riley Barker.
+Portland,Montana State,46,57,28,17,0,Portland Full Timeout.
+Portland,Montana State,46,57,28,33,0,Foul on Riley Barker
+Portland,Montana State,46,58,28,33,1,Paul Egwuonwu made Free Throw.
+Portland,Montana State,46,58,28,33,0,Official TV Timeout.
+Portland,Montana State,46,59,28,33,1,Paul Egwuonwu made Free Throw.
+Portland,Montana State,46,59,28,45,0,Kevin Bailey missed Three Point Jumper.
+Portland,Montana State,46,59,28,45,0,Jamie Stewart Defensive Rebound.
+Portland,Montana State,46,62,29,4,1,Antonio Biglow made Three Point Jumper.  Assisted by Jamie Stewart.
+Portland,Montana State,46,62,29,22,0,Foul on Riley Barker
+Portland,Montana State,46,62,29,22,0,Derrick Rodgers Turnover.
+Portland,Montana State,46,62,29,40,0,Jamie Stewart missed Jumper.
+Portland,Montana State,46,62,29,40,0,Ryan Nicholas Defensive Rebound.
+Portland,Montana State,46,62,29,46,0,Kevin Bailey missed Jumper.
+Portland,Montana State,46,62,29,46,0,Eric Norman Defensive Rebound.
+Portland,Montana State,46,62,30,11,0,Michael Dison missed Jumper.
+Portland,Montana State,46,62,30,11,0,Michael Dison Offensive Rebound.
+Portland,Montana State,46,62,30,14,0,Michael Dison missed Layup.
+Portland,Montana State,46,62,30,14,0,Thomas van der Mars Defensive Rebound.
+Portland,Montana State,46,62,30,15,0,Foul on Paul Egwuonwu
+Portland,Montana State,47,62,30,15,1,Thomas van der Mars made Free Throw.
+Portland,Montana State,47,62,30,15,0,Thomas van der Mars missed Free Throw.
+Portland,Montana State,47,62,30,15,0,Danny Robison Defensive Rebound.
+Portland,Montana State,47,62,30,43,0,Foul on Kevin Bailey
+Portland,Montana State,47,62,30,44,0,Michael Dison missed Three Point Jumper.
+Portland,Montana State,47,63,30,44,0,Danny Robison Offensive Rebound.
+Portland,Montana State,47,63,30,49,1,Danny Robison made Free Throw.
+Portland,Montana State,47,64,30,49,1,Danny Robison made Free Throw.
+Portland,Montana State,47,64,31,8,0,Korey Thieleke missed Three Point Jumper.
+Portland,Montana State,47,64,31,8,0,Ryan Nicholas Offensive Rebound.
+Portland,Montana State,48,64,31,11,1,Ryan Nicholas made Free Throw.
+Portland,Montana State,48,64,31,11,0,Foul on Jamie Stewart
+Portland,Montana State,49,64,31,11,1,Ryan Nicholas made Free Throw.
+Portland,Montana State,49,64,31,13,0,Marcus Colbert Turnover.
+Portland,Montana State,51,64,31,16,1,Thomas van der Mars made Layup.
+Portland,Montana State,51,64,31,30,0,Foul on Calen Coleman
+Portland,Montana State,51,64,31,30,0,Calen Coleman Turnover.
+Portland,Montana State,51,64,31,52,0,Ryan Nicholas missed Jumper.
+Portland,Montana State,51,64,31,52,0,Marcus Colbert Defensive Rebound.
+Portland,Montana State,51,64,31,56,0,Foul on Tanner Riley
+Portland,Montana State,51,64,31,56,0,Marcus Colbert missed Free Throw.
+Portland,Montana State,51,64,31,56,0,null
+Portland,Montana State,51,65,31,56,1,Marcus Colbert made Free Throw.
+Portland,Montana State,51,65,32,10,0,Thomas van der Mars missed Jumper.
+Portland,Montana State,51,65,32,10,0,Eric Norman Block.
+Portland,Montana State,51,65,32,12,0,Danny Robison Defensive Rebound.
+Portland,Montana State,51,65,32,21,0,Eric Norman Turnover.
+Portland,Montana State,51,65,32,23,0,Ryan Nicholas Steal.
+Portland,Montana State,51,65,32,24,0,Official TV Timeout.
+Portland,Montana State,51,65,32,28,0,Foul on Thomas van der Mars
+Portland,Montana State,51,65,32,28,0,Thomas van der Mars Turnover.
+Portland,Montana State,51,67,33,1,1,Antonio Biglow made Jumper.
+Portland,Montana State,53,67,33,34,1,Thomas van der Mars made Layup.  Assisted by Ryan Nicholas.
+Portland,Montana State,53,69,34,13,1,Danny Robison made Layup.  Assisted by Marcus Colbert.
+Portland,Montana State,53,69,34,26,0,Portland Full Timeout.
+Portland,Montana State,55,69,34,41,1,Kevin Bailey made Layup.
+Portland,Montana State,55,70,34,52,1,Marcus Colbert made Free Throw.
+Portland,Montana State,55,70,34,52,0,Foul on Korey Thieleke
+Portland,Montana State,55,71,34,52,1,Marcus Colbert made Free Throw.
+Portland,Montana State,55,71,34,59,0,Ryan Nicholas missed Three Point Jumper.
+Portland,Montana State,55,71,34,59,0,Marcus Colbert Defensive Rebound.
+Portland,Montana State,55,71,35,3,0,Foul on Kevin Bailey
+Portland,Montana State,55,72,35,3,1,Marcus Colbert made Free Throw.
+Portland,Montana State,55,73,35,3,1,Marcus Colbert made Free Throw.
+Portland,Montana State,55,73,35,18,0,Oskars Reinfelds missed Three Point Jumper.
+Portland,Montana State,55,73,35,18,0,Danny Robison Defensive Rebound.
+Portland,Montana State,55,73,35,20,0,Foul on Thomas van der Mars
+Portland,Montana State,55,73,35,20,0,Danny Robison missed Free Throw.
+Portland,Montana State,55,73,35,20,0,null
+Portland,Montana State,55,74,35,20,1,Danny Robison made Free Throw.
+Portland,Montana State,55,74,35,30,0,Derrick Rodgers Turnover.
+Portland,Montana State,55,74,35,30,0,Danny Robison Steal.
+Portland,Montana State,55,74,35,30,0,Calen Coleman missed Layup.
+Portland,Montana State,55,74,35,30,0,Marcus Colbert Offensive Rebound.
+Portland,Montana State,55,74,36,4,0,Antonio Biglow missed Three Point Jumper.
+Portland,Montana State,55,74,36,4,0,Ryan Nicholas Defensive Rebound.
+Portland,Montana State,55,74,36,10,0,Oskars Reinfelds missed Three Point Jumper.
+Portland,Montana State,55,74,36,10,0,Marcus Colbert Defensive Rebound.
+Portland,Montana State,55,74,36,25,0,Montana State Full Timeout.
+Portland,Montana State,55,74,36,44,0,Antonio Biglow Turnover.
+Portland,Montana State,55,74,36,44,0,Official TV Timeout.
+Portland,Montana State,55,74,36,52,0,Foul on Flavien Davis
+Portland,Montana State,56,74,36,52,1,Bryce Pressley made Free Throw.
+Portland,Montana State,57,74,36,52,1,Bryce Pressley made Free Throw.
+Portland,Montana State,57,74,37,14,0,Foul on Bryce Pressley
+Portland,Montana State,57,74,37,14,0,Jamie Stewart missed Free Throw.
+Portland,Montana State,57,74,37,14,0,null
+Portland,Montana State,57,75,37,14,1,Jamie Stewart made Free Throw.
+Portland,Montana State,59,75,37,32,1,Derrick Rodgers made Jumper.
+Portland,Montana State,59,75,37,34,0,Portland Full Timeout.
+Portland,Montana State,59,75,38,6,0,Foul on Thomas van der Mars
+Portland,Montana State,59,76,38,6,1,Flavien Davis made Free Throw.
+Portland,Montana State,59,77,38,6,1,Flavien Davis made Free Throw.
+Portland,Montana State,59,77,38,14,0,Oskars Reinfelds missed Dunk.
+Portland,Montana State,59,77,38,14,0,Antonio Biglow Defensive Rebound.
+Portland,Montana State,59,80,38,44,1,Calen Coleman made Three Point Jumper.  Assisted by Antonio Biglow.
+Portland,Montana State,62,80,38,58,1,David Carr made Three Point Jumper.
+Portland,Montana State,62,83,39,32,1,Antonio Biglow made Three Point Jumper.
+Portland,Montana State,64,83,39,48,1,Thomas van der Mars made Layup.  Assisted by David Carr.
+Portland,Montana State,64,83,40,0,0,End Game

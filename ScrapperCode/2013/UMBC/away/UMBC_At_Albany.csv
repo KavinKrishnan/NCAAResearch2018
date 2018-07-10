@@ -1,0 +1,300 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UMBC,Albany,0,0,0,14,0,Malik Garner Turnover.
+UMBC,Albany,0,0,0,16,0,John Puk Steal.
+UMBC,Albany,0,3,0,21,1,Jacob Iati made Three Point Jumper.
+UMBC,Albany,0,3,0,43,0,Brett Roseboro missed Jumper.
+UMBC,Albany,0,3,0,43,0,Blake Metcalf Defensive Rebound.
+UMBC,Albany,0,5,1,0,1,Blake Metcalf made Layup.  Assisted by John Puk.
+UMBC,Albany,0,5,1,33,0,Brian Neller missed Three Point Jumper.
+UMBC,Albany,0,5,1,33,0,Blake Metcalf Defensive Rebound.
+UMBC,Albany,0,5,1,54,0,John Puk missed Layup.
+UMBC,Albany,0,5,1,54,0,Brett Roseboro Defensive Rebound.
+UMBC,Albany,0,5,2,14,0,Aaron Morgan missed Three Point Jumper.
+UMBC,Albany,0,5,2,14,0,John Puk Defensive Rebound.
+UMBC,Albany,0,5,2,27,0,Blake Metcalf missed Layup.
+UMBC,Albany,0,5,2,27,0,Malik Garner Defensive Rebound.
+UMBC,Albany,2,5,2,42,1,Malik Garner made Layup.  Assisted by Brett Roseboro.
+UMBC,Albany,2,7,2,58,1,Jacob Iati made Layup.
+UMBC,Albany,5,7,3,18,1,Brian Neller made Three Point Jumper.  Assisted by Brett Roseboro.
+UMBC,Albany,5,10,3,40,1,Jacob Iati made Three Point Jumper.  Assisted by Mike Black.
+UMBC,Albany,5,10,4,5,0,Ryan Cook missed Three Point Jumper.
+UMBC,Albany,5,10,4,5,0,Mike Black Defensive Rebound.
+UMBC,Albany,5,10,4,13,0,Jacob Iati missed Three Point Jumper.
+UMBC,Albany,5,10,4,13,0,Brett Roseboro Defensive Rebound.
+UMBC,Albany,5,10,4,35,0,Ryan Cook missed Layup.
+UMBC,Albany,5,10,4,35,0,John Puk Defensive Rebound.
+UMBC,Albany,5,10,4,49,0,Blake Metcalf missed Layup.
+UMBC,Albany,5,10,4,49,0,Malik Garner Defensive Rebound.
+UMBC,Albany,5,10,5,8,0,Aaron Morgan missed Layup.
+UMBC,Albany,5,10,5,8,0,John Puk Defensive Rebound.
+UMBC,Albany,5,10,5,13,0,Blake Metcalf missed Layup.
+UMBC,Albany,5,10,5,13,0,UMBC Defensive Rebound.
+UMBC,Albany,5,10,5,15,0,Official TV Timeout.
+UMBC,Albany,5,10,5,23,0,Joey Getz missed Layup.
+UMBC,Albany,5,10,5,23,0,Brett Roseboro Offensive Rebound.
+UMBC,Albany,7,10,5,31,1,Brett Roseboro made Layup.
+UMBC,Albany,7,10,5,44,0,Foul on Adrian Satchell
+UMBC,Albany,7,10,5,46,0,Sam Rowley Turnover.
+UMBC,Albany,7,10,6,14,0,Quentin Jones missed Three Point Jumper.
+UMBC,Albany,7,10,6,14,0,John Puk Defensive Rebound.
+UMBC,Albany,7,10,6,24,0,Foul on Brett Roseboro
+UMBC,Albany,7,10,6,36,0,Peter Hooley Turnover.
+UMBC,Albany,7,10,6,48,0,Chase Plummer missed Layup.
+UMBC,Albany,7,10,6,48,0,Albany Defensive Rebound.
+UMBC,Albany,7,10,7,9,0,Foul on DJ Evans
+UMBC,Albany,7,10,7,9,0,DJ Evans Turnover.
+UMBC,Albany,10,10,7,24,1,Brian Neller made Three Point Jumper.  Assisted by Quentin Jones.
+UMBC,Albany,10,10,7,36,0,Foul on Chase Plummer
+UMBC,Albany,10,13,7,58,1,DJ Evans made Three Point Jumper.  Assisted by Peter Hooley.
+UMBC,Albany,10,13,8,24,0,Chase Plummer missed Three Point Jumper.
+UMBC,Albany,10,13,8,24,0,DJ Evans Defensive Rebound.
+UMBC,Albany,10,13,8,32,0,DJ Evans missed Layup.
+UMBC,Albany,10,13,8,32,0,Chase Plummer Defensive Rebound.
+UMBC,Albany,10,13,8,39,0,Brian Neller missed Three Point Jumper.
+UMBC,Albany,10,13,8,39,0,Luke Devlin Defensive Rebound.
+UMBC,Albany,10,13,8,53,0,Peter Hooley missed Three Point Jumper.
+UMBC,Albany,10,13,8,53,0,Quentin Jones Defensive Rebound.
+UMBC,Albany,10,13,9,31,0,Joey Getz missed Layup.
+UMBC,Albany,10,13,9,31,0,Sam Rowley Defensive Rebound.
+UMBC,Albany,10,13,9,45,0,Sam Rowley missed Layup.
+UMBC,Albany,10,13,9,45,0,Luke Devlin Offensive Rebound.
+UMBC,Albany,10,13,9,49,0,Foul on Joey Getz
+UMBC,Albany,10,13,9,49,0,Official TV Timeout.
+UMBC,Albany,10,13,10,1,0,Sam Rowley missed Layup.
+UMBC,Albany,10,13,10,1,0,Joey Getz Defensive Rebound.
+UMBC,Albany,12,13,10,22,1,Ryan Cook made Layup.
+UMBC,Albany,12,13,10,37,0,Sam Rowley missed Layup.
+UMBC,Albany,12,13,10,37,0,Sam Rowley Offensive Rebound.
+UMBC,Albany,12,15,10,39,1,Sam Rowley made Layup.
+UMBC,Albany,12,15,10,51,0,Adrian Satchell missed Layup.
+UMBC,Albany,12,15,10,51,0,Sam Rowley Defensive Rebound.
+UMBC,Albany,12,17,11,0,1,Sam Rowley made Jumper.  Assisted by Mike Black.
+UMBC,Albany,12,17,11,24,0,Aaron Morgan Turnover.
+UMBC,Albany,12,17,11,53,0,Chris Page missed Three Point Jumper.
+UMBC,Albany,12,17,11,53,0,Ryan Cook Defensive Rebound.
+UMBC,Albany,12,17,12,6,0,Aaron Morgan Turnover.
+UMBC,Albany,12,17,12,7,0,Mike Black Steal.
+UMBC,Albany,12,19,12,10,1,Mike Black made Layup.
+UMBC,Albany,12,19,12,12,0,UMBC Full Timeout.
+UMBC,Albany,14,19,12,32,1,Ryan Cook made Jumper.
+UMBC,Albany,14,19,12,50,0,Foul on Malik Garner
+UMBC,Albany,14,19,12,52,0,Official TV Timeout.
+UMBC,Albany,14,20,12,52,1,Mike Black made Free Throw.
+UMBC,Albany,14,21,12,52,1,Mike Black made Free Throw.
+UMBC,Albany,14,21,12,52,0,Mike Black missed Free Throw.
+UMBC,Albany,14,21,12,52,0,Sam Rowley Offensive Rebound.
+UMBC,Albany,14,21,12,55,0,Mike Black missed Three Point Jumper.
+UMBC,Albany,14,21,12,55,0,UMBC Defensive Rebound.
+UMBC,Albany,14,21,12,55,0,Foul on John Puk
+UMBC,Albany,16,21,12,56,1,Brett Roseboro made Layup.
+UMBC,Albany,16,21,13,21,0,Mike Black Turnover.
+UMBC,Albany,16,21,13,36,0,Brett Roseboro missed Layup.
+UMBC,Albany,16,21,13,36,0,John Puk Defensive Rebound.
+UMBC,Albany,16,21,13,49,0,Blake Metcalf Turnover.
+UMBC,Albany,16,21,13,51,0,Chase Plummer Steal.
+UMBC,Albany,16,21,13,59,0,Brett Roseboro missed Layup.
+UMBC,Albany,16,21,13,59,0,Ryan Cook Offensive Rebound.
+UMBC,Albany,16,21,14,8,0,Foul on Blake Metcalf
+UMBC,Albany,16,21,14,11,0,Ryan Cook missed Free Throw.
+UMBC,Albany,16,21,14,11,0,null
+UMBC,Albany,17,21,14,11,1,Ryan Cook made Free Throw.
+UMBC,Albany,17,23,14,24,1,Mike Black made Jumper.
+UMBC,Albany,17,23,14,43,0,Ryan Cook missed Three Point Jumper.
+UMBC,Albany,17,23,14,43,0,Quentin Jones Offensive Rebound.
+UMBC,Albany,17,23,14,55,0,Quentin Jones missed Layup.
+UMBC,Albany,17,23,14,55,0,Sam Rowley Defensive Rebound.
+UMBC,Albany,17,26,15,3,1,Mike Black made Three Point Jumper.  Assisted by Peter Hooley.
+UMBC,Albany,17,26,15,38,0,Chase Plummer missed Three Point Jumper.
+UMBC,Albany,17,26,15,38,0,Ryan Cook Offensive Rebound.
+UMBC,Albany,17,26,15,50,0,Chase Plummer missed Layup.
+UMBC,Albany,17,26,15,50,0,Albany Defensive Rebound.
+UMBC,Albany,17,26,15,51,0,Foul on Chase Plummer
+UMBC,Albany,17,26,16,4,0,Foul on John Puk
+UMBC,Albany,17,26,16,4,0,John Puk Turnover.
+UMBC,Albany,17,26,16,4,0,Official TV Timeout.
+UMBC,Albany,17,26,16,19,0,Brian Neller missed Three Point Jumper.
+UMBC,Albany,17,26,16,19,0,Mike Black Defensive Rebound.
+UMBC,Albany,17,26,16,52,0,Mike Black missed Three Point Jumper.
+UMBC,Albany,17,26,16,52,0,Brett Roseboro Defensive Rebound.
+UMBC,Albany,17,26,17,1,0,Ryan Cook missed Layup.
+UMBC,Albany,17,26,17,1,0,Ryan Cook Offensive Rebound.
+UMBC,Albany,19,26,17,6,1,Brian Neller made Layup.
+UMBC,Albany,19,26,17,8,0,Albany Full Timeout.
+UMBC,Albany,19,26,17,29,0,Luke Devlin missed Three Point Jumper.
+UMBC,Albany,19,26,17,29,0,Aaron Morgan Defensive Rebound.
+UMBC,Albany,21,26,18,4,1,Ryan Cook made Layup.
+UMBC,Albany,21,26,18,12,0,Peter Hooley Turnover.
+UMBC,Albany,21,26,18,14,0,Ryan Cook Steal.
+UMBC,Albany,21,26,18,19,0,Brett Roseboro missed Layup.
+UMBC,Albany,21,26,18,19,0,Brett Roseboro Offensive Rebound.
+UMBC,Albany,21,26,18,22,0,Brett Roseboro Turnover.
+UMBC,Albany,21,26,18,22,0,Peter Hooley Steal.
+UMBC,Albany,21,28,18,38,1,Jayson Guerrier made Jumper.
+UMBC,Albany,21,28,18,52,0,Ryan Cook Turnover.
+UMBC,Albany,21,28,18,58,0,Foul on Mike Black
+UMBC,Albany,21,28,18,58,0,Mike Black Turnover.
+UMBC,Albany,24,28,19,24,1,Aaron Morgan made Three Point Jumper.  Assisted by Brett Roseboro.
+UMBC,Albany,24,28,19,47,0,Foul on Malik Garner
+UMBC,Albany,24,29,19,47,1,Jacob Iati made Free Throw.
+UMBC,Albany,24,30,19,47,1,Jacob Iati made Free Throw.
+UMBC,Albany,24,30,19,51,0,Foul on Chris Page
+UMBC,Albany,24,30,19,58,0,Ryan Cook missed Three Point Jumper.
+UMBC,Albany,24,30,19,58,0,Jayson Guerrier Defensive Rebound.
+UMBC,Albany,24,30,20,0,0,End of the 1st Half.
+UMBC,Albany,24,30,20,10,0,Malik Garner Turnover.
+UMBC,Albany,24,30,20,11,0,Jacob Iati Steal.
+UMBC,Albany,24,30,20,33,0,Mike Black missed Layup.
+UMBC,Albany,24,30,20,33,0,Jayson Guerrier Offensive Rebound.
+UMBC,Albany,24,30,20,39,0,Jayson Guerrier Turnover.
+UMBC,Albany,24,30,20,39,0,Aaron Morgan Steal.
+UMBC,Albany,24,30,20,39,0,Aaron Morgan Turnover.
+UMBC,Albany,24,30,20,54,0,Foul on Malik Garner
+UMBC,Albany,24,31,20,54,1,Blake Metcalf made Free Throw.
+UMBC,Albany,24,32,20,54,1,Blake Metcalf made Free Throw.
+UMBC,Albany,24,32,21,16,0,Brian Neller missed Three Point Jumper.
+UMBC,Albany,24,32,21,16,0,Blake Metcalf Defensive Rebound.
+UMBC,Albany,24,32,21,29,0,Foul on Mike Black
+UMBC,Albany,24,32,21,29,0,Mike Black Turnover.
+UMBC,Albany,24,32,21,48,0,Ryan Cook missed Layup.
+UMBC,Albany,24,32,21,48,0,Brett Roseboro Offensive Rebound.
+UMBC,Albany,26,32,21,50,1,Brett Roseboro made Layup.
+UMBC,Albany,26,32,22,9,0,Jacob Iati missed Three Point Jumper.
+UMBC,Albany,26,32,22,9,0,Aaron Morgan Defensive Rebound.
+UMBC,Albany,26,32,22,35,0,Adrian Satchell missed Jumper.
+UMBC,Albany,26,32,22,35,0,John Puk Defensive Rebound.
+UMBC,Albany,26,32,22,43,0,Foul on Ryan Cook
+UMBC,Albany,26,32,22,46,0,Foul on Brett Roseboro
+UMBC,Albany,26,32,22,46,0,John Puk missed Free Throw.
+UMBC,Albany,26,32,22,46,0,null
+UMBC,Albany,26,32,22,46,0,John Puk missed Free Throw.
+UMBC,Albany,26,32,22,46,0,Brett Roseboro Defensive Rebound.
+UMBC,Albany,28,32,23,6,1,Brett Roseboro made Layup.
+UMBC,Albany,28,32,23,35,0,Foul on John Puk
+UMBC,Albany,28,32,23,35,0,John Puk Turnover.
+UMBC,Albany,28,32,24,0,0,Brian Neller Turnover.
+UMBC,Albany,28,32,24,1,0,Official TV Timeout.
+UMBC,Albany,28,32,24,12,0,Foul on Brian Neller
+UMBC,Albany,28,35,24,20,1,Jacob Iati made Three Point Jumper.  Assisted by Mike Black.
+UMBC,Albany,28,35,24,54,0,Brett Roseboro Turnover.
+UMBC,Albany,28,35,24,56,0,Peter Hooley Steal.
+UMBC,Albany,28,35,24,58,0,Foul on Aaron Morgan
+UMBC,Albany,28,36,24,58,1,Peter Hooley made Free Throw.
+UMBC,Albany,28,37,24,58,1,Peter Hooley made Free Throw.
+UMBC,Albany,28,37,25,8,0,Joey Getz missed Layup.
+UMBC,Albany,28,37,25,8,0,Blake Metcalf Defensive Rebound.
+UMBC,Albany,28,37,25,13,0,Foul on Ryan Cook
+UMBC,Albany,28,38,25,13,1,Peter Hooley made Free Throw.
+UMBC,Albany,28,39,25,13,1,Peter Hooley made Free Throw.
+UMBC,Albany,28,39,25,34,0,Ryan Cook missed Three Point Jumper.
+UMBC,Albany,28,39,25,34,0,Sam Rowley Defensive Rebound.
+UMBC,Albany,28,39,25,42,0,Jacob Iati missed Three Point Jumper.
+UMBC,Albany,28,39,25,42,0,UMBC Defensive Rebound.
+UMBC,Albany,28,39,25,43,0,Foul on Sam Rowley
+UMBC,Albany,28,39,26,22,0,Joey Getz missed Jumper.
+UMBC,Albany,28,39,26,22,0,Adrian Satchell Offensive Rebound.
+UMBC,Albany,28,39,26,41,0,Adrian Satchell Turnover.
+UMBC,Albany,28,39,26,54,0,Mike Black Turnover.
+UMBC,Albany,28,39,26,56,0,Quentin Jones Steal.
+UMBC,Albany,28,39,26,57,0,Foul on Joey Getz
+UMBC,Albany,28,39,26,57,0,Joey Getz Turnover.
+UMBC,Albany,28,39,27,7,0,Foul on Chase Plummer
+UMBC,Albany,28,40,27,7,1,Mike Black made Free Throw.
+UMBC,Albany,28,41,27,7,1,Mike Black made Free Throw.
+UMBC,Albany,28,41,27,24,0,Foul on Chase Plummer
+UMBC,Albany,28,41,27,24,0,Chase Plummer Turnover.
+UMBC,Albany,28,41,27,24,0,UMBC Full Timeout.
+UMBC,Albany,28,43,27,41,1,Sam Rowley made Jumper.  Assisted by Peter Hooley.
+UMBC,Albany,30,43,28,15,1,Brett Roseboro made Jumper.  Assisted by Quentin Jones.
+UMBC,Albany,30,43,28,29,0,Foul on Brett Roseboro
+UMBC,Albany,30,43,28,29,0,Official TV Timeout.
+UMBC,Albany,30,44,28,29,1,Mike Black made Free Throw.
+UMBC,Albany,30,45,28,29,1,Mike Black made Free Throw.
+UMBC,Albany,30,45,28,49,0,Ryan Cook missed Layup.
+UMBC,Albany,30,45,28,49,0,Blake Metcalf Block.
+UMBC,Albany,30,45,28,51,0,Sam Rowley Defensive Rebound.
+UMBC,Albany,30,45,29,0,0,Foul on Ryan Cook
+UMBC,Albany,30,46,29,0,1,Peter Hooley made Free Throw.
+UMBC,Albany,30,47,29,0,1,Peter Hooley made Free Throw.
+UMBC,Albany,30,47,29,26,0,Foul on Sam Rowley
+UMBC,Albany,31,47,29,26,1,Chase Plummer made Free Throw.
+UMBC,Albany,31,47,29,26,0,Chase Plummer missed Free Throw.
+UMBC,Albany,31,47,29,26,0,Peter Hooley Defensive Rebound.
+UMBC,Albany,31,49,29,56,1,Sam Rowley made Layup.  Assisted by Peter Hooley.
+UMBC,Albany,31,49,30,15,0,Quentin Jones Turnover.
+UMBC,Albany,31,49,30,16,0,Blake Metcalf Steal.
+UMBC,Albany,31,49,30,30,0,Mike Black missed Three Point Jumper.
+UMBC,Albany,31,49,30,30,0,Brett Roseboro Defensive Rebound.
+UMBC,Albany,31,49,30,47,0,Chase Plummer missed Layup.
+UMBC,Albany,31,49,30,47,0,Sam Rowley Block.
+UMBC,Albany,31,49,30,47,0,UMBC Offensive Rebound.
+UMBC,Albany,31,49,31,4,0,Foul on Chase Plummer
+UMBC,Albany,31,49,31,4,0,Chase Plummer Turnover.
+UMBC,Albany,31,49,31,16,0,Jacob Iati missed Three Point Jumper.
+UMBC,Albany,31,49,31,16,0,DJ Evans Offensive Rebound.
+UMBC,Albany,31,49,31,21,0,Jacob Iati missed Three Point Jumper.
+UMBC,Albany,31,49,31,21,0,Brian Neller Defensive Rebound.
+UMBC,Albany,31,49,31,31,0,Brett Roseboro missed Layup.
+UMBC,Albany,31,49,31,31,0,Blake Metcalf Defensive Rebound.
+UMBC,Albany,31,51,31,48,1,Blake Metcalf made Dunk.  Assisted by DJ Evans.
+UMBC,Albany,31,51,31,51,0,UMBC Full Timeout.
+UMBC,Albany,33,51,31,59,1,Aaron Morgan made Jumper.
+UMBC,Albany,33,51,32,10,0,Foul on Aaron Morgan
+UMBC,Albany,33,51,32,10,0,Official TV Timeout.
+UMBC,Albany,33,51,32,10,0,Blake Metcalf missed Free Throw.
+UMBC,Albany,33,51,32,10,0,null
+UMBC,Albany,33,51,32,10,0,Blake Metcalf missed Free Throw.
+UMBC,Albany,33,51,32,10,0,Malik Garner Defensive Rebound.
+UMBC,Albany,33,51,32,25,0,Joey Getz Turnover.
+UMBC,Albany,33,53,32,59,1,Peter Hooley made Layup.  Assisted by DJ Evans.
+UMBC,Albany,35,53,33,6,1,Brett Roseboro made Layup.  Assisted by Brian Neller.
+UMBC,Albany,35,55,33,32,1,DJ Evans made Layup.  Assisted by Blake Metcalf.
+UMBC,Albany,35,55,33,52,0,Aaron Morgan missed Three Point Jumper.
+UMBC,Albany,35,55,33,52,0,Peter Hooley Defensive Rebound.
+UMBC,Albany,35,57,33,59,1,Mike Black made Layup.  Assisted by Peter Hooley.
+UMBC,Albany,37,57,34,15,1,Joey Getz made Layup.
+UMBC,Albany,37,57,34,15,0,Foul on Sam Rowley
+UMBC,Albany,38,57,34,15,1,Joey Getz made Free Throw.
+UMBC,Albany,38,57,34,16,0,Sam Rowley Turnover.
+UMBC,Albany,40,57,34,23,1,Ryan Cook made Jumper.
+UMBC,Albany,40,57,34,54,0,Albany Full Timeout.
+UMBC,Albany,40,57,35,15,0,Sam Rowley missed Layup.
+UMBC,Albany,40,57,35,15,0,John Puk Offensive Rebound.
+UMBC,Albany,40,57,35,18,0,John Puk missed Layup.
+UMBC,Albany,40,57,35,18,0,Albany Offensive Rebound.
+UMBC,Albany,40,57,35,21,0,Foul on Joey Getz
+UMBC,Albany,40,58,35,21,1,Jacob Iati made Free Throw.
+UMBC,Albany,40,59,35,21,1,Jacob Iati made Free Throw.
+UMBC,Albany,40,59,35,27,0,Joey Getz missed Layup.
+UMBC,Albany,40,59,35,27,0,Luke Devlin Defensive Rebound.
+UMBC,Albany,40,59,35,52,0,DJ Evans missed Jumper.
+UMBC,Albany,40,59,35,52,0,Luke Devlin Offensive Rebound.
+UMBC,Albany,40,59,36,17,0,John Puk Turnover.
+UMBC,Albany,40,59,36,17,0,Official TV Timeout.
+UMBC,Albany,40,59,36,27,0,Jordan Wejnert Turnover.
+UMBC,Albany,40,59,36,29,0,DJ Evans Steal.
+UMBC,Albany,40,61,36,30,1,DJ Evans made Layup.
+UMBC,Albany,43,61,36,43,1,Ryan Cook made Three Point Jumper.
+UMBC,Albany,43,61,37,4,0,Peter Hooley Turnover.
+UMBC,Albany,43,61,37,13,0,Ryan Cook missed Three Point Jumper.
+UMBC,Albany,43,61,37,13,0,Peter Hooley Defensive Rebound.
+UMBC,Albany,43,61,37,33,0,Foul on Jordan Wejnert
+UMBC,Albany,43,62,37,33,1,Mike Black made Free Throw.
+UMBC,Albany,43,63,37,33,1,Mike Black made Free Throw.
+UMBC,Albany,43,63,37,54,0,Foul on Luke Devlin
+UMBC,Albany,43,63,37,54,0,Jordan Wejnert missed Free Throw.
+UMBC,Albany,43,63,37,54,0,null
+UMBC,Albany,44,63,37,54,1,Jordan Wejnert made Free Throw.
+UMBC,Albany,44,63,37,54,0,UMBC Full Timeout.
+UMBC,Albany,44,65,38,29,1,Chris Page made Jumper.
+UMBC,Albany,49,63,38,51,1,Jamar Wertz made Three Point Jumper.
+UMBC,Albany,49,63,38,55,0,Albany Full Timeout.
+UMBC,Albany,49,63,38,58,0,Dave Wiegmann missed Layup.
+UMBC,Albany,49,63,38,58,0,Will Wise Defensive Rebound.
+UMBC,Albany,49,63,39,22,0,Foul on Reece Williams
+UMBC,Albany,49,63,39,22,0,Jamar Wertz missed Free Throw.
+UMBC,Albany,49,63,39,22,0,null
+UMBC,Albany,50,63,39,22,1,Jamar Wertz made Free Throw.
+UMBC,Albany,50,63,39,40,0,Luke Devlin Turnover.
+UMBC,Albany,50,63,39,56,0,Jamar Wertz missed Jumper.
+UMBC,Albany,50,63,39,56,0,Reece Williams Defensive Rebound.
+UMBC,Albany,50,63,40,0,0,End Game

@@ -1,0 +1,371 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Fort Wayne,VMI,0,0,0,17,0,Rodney Glasgow Turnover.
+Fort Wayne,VMI,0,0,0,19,0,Steve Forbes Steal.
+Fort Wayne,VMI,2,0,0,34,1,Steve Forbes made Jumper.
+Fort Wayne,VMI,2,2,0,50,1,D.J. Covington made Jumper.
+Fort Wayne,VMI,2,2,1,6,0,Pierre Bland Turnover.
+Fort Wayne,VMI,2,2,1,8,0,Brian Brown Steal.
+Fort Wayne,VMI,2,2,1,12,0,Foul on Michael Kibiloski.
+Fort Wayne,VMI,2,3,1,12,1,D.J. Covington made Free Throw.
+Fort Wayne,VMI,2,4,1,12,1,D.J. Covington made Free Throw.
+Fort Wayne,VMI,2,4,1,41,0,Steve Forbes missed Layup.
+Fort Wayne,VMI,2,4,1,49,0,Steve Forbes Offensive Rebound.
+Fort Wayne,VMI,4,4,1,49,1,Steve Forbes made Layup.
+Fort Wayne,VMI,4,4,1,49,0,Foul on D.J. Covington.
+Fort Wayne,VMI,5,4,1,49,1,Steve Forbes made Free Throw.
+Fort Wayne,VMI,5,4,1,53,0,D.J. Covington missed Jumper.
+Fort Wayne,VMI,5,4,1,53,0,Michael Kibiloski Defensive Rebound.
+Fort Wayne,VMI,5,4,1,58,0,Isaiah McCray missed Jumper.
+Fort Wayne,VMI,5,4,1,58,0,Phillip Anglade Block.
+Fort Wayne,VMI,5,4,2,0,0,D.J. Covington Defensive Rebound.
+Fort Wayne,VMI,5,7,2,5,1,QJ Peterson made Three Point Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,5,7,2,29,0,Foul on Steve Forbes.
+Fort Wayne,VMI,5,7,2,29,0,Steve Forbes Turnover.
+Fort Wayne,VMI,5,9,2,43,1,D.J. Covington made Jumper. Assisted by QJ Peterson.
+Fort Wayne,VMI,7,9,3,3,1,Pierre Bland made Jumper.
+Fort Wayne,VMI,7,11,3,14,1,D.J. Covington made Layup. Assisted by QJ Peterson.
+Fort Wayne,VMI,9,11,3,30,1,Isaiah McCray made Layup.
+Fort Wayne,VMI,9,14,3,41,1,Brian Brown made Three Point Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,11,14,4,3,1,Luis Jacobo made Jumper.
+Fort Wayne,VMI,11,14,4,3,0,Foul on Phillip Anglade.
+Fort Wayne,VMI,11,14,4,3,0,Official TV Timeout
+Fort Wayne,VMI,12,14,4,3,1,Luis Jacobo made Free Throw.
+Fort Wayne,VMI,12,17,4,14,1,QJ Peterson made Three Point Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,12,17,4,40,0,Pierre Bland Turnover.
+Fort Wayne,VMI,12,17,4,51,0,Rodney Glasgow missed Three Point Jumper.
+Fort Wayne,VMI,12,17,4,51,0,Joe Reed Defensive Rebound.
+Fort Wayne,VMI,14,17,5,11,1,Luis Jacobo made Jumper.
+Fort Wayne,VMI,14,17,5,32,0,QJ Peterson Turnover.
+Fort Wayne,VMI,14,17,5,34,0,Joe Reed Steal.
+Fort Wayne,VMI,16,17,5,38,1,Joe Edwards made Layup. Assisted by Pierre Bland.
+Fort Wayne,VMI,16,20,5,49,1,QJ Peterson made Three Point Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,16,20,6,2,0,Foul on Trey Chapman.
+Fort Wayne,VMI,16,20,6,7,0,Foul on Trey Chapman.
+Fort Wayne,VMI,18,20,6,11,1,Luis Jacobo made Jumper. Assisted by Isaiah McCray.
+Fort Wayne,VMI,18,20,6,21,0,D.J. Covington missed Jumper.
+Fort Wayne,VMI,18,20,6,21,0,Isaiah McCray Defensive Rebound.
+Fort Wayne,VMI,18,20,6,29,0,Foul on D.J. Covington.
+Fort Wayne,VMI,18,20,6,29,0,Isaiah McCray missed Free Throw.
+Fort Wayne,VMI,18,20,6,29,0,IPFW Deadball Team Rebound.
+Fort Wayne,VMI,18,20,6,29,0,Isaiah McCray missed Free Throw.
+Fort Wayne,VMI,18,20,6,29,0,VMI Deadball Team Rebound.
+Fort Wayne,VMI,18,20,6,39,0,QJ Peterson Turnover.
+Fort Wayne,VMI,18,20,6,51,0,Pierre Bland missed Layup.
+Fort Wayne,VMI,18,20,6,51,0,VMI Defensive Rebound.
+Fort Wayne,VMI,18,20,7,21,0,Brian Brown missed Three Point Jumper.
+Fort Wayne,VMI,18,20,7,21,0,Luis Jacobo Defensive Rebound.
+Fort Wayne,VMI,18,20,7,27,0,Luis Jacobo Turnover.
+Fort Wayne,VMI,18,20,7,27,0,Foul on Luis Jacobo.
+Fort Wayne,VMI,18,20,7,38,0,Brian Brown Turnover.
+Fort Wayne,VMI,18,20,7,43,0,Michael Kibiloski missed Three Point Jumper.
+Fort Wayne,VMI,18,20,7,43,0,Tim Marshall Defensive Rebound.
+Fort Wayne,VMI,18,20,8,0,0,Jordan Weethee missed Jumper.
+Fort Wayne,VMI,18,20,8,0,0,Joe Reed Block.
+Fort Wayne,VMI,18,20,8,2,0,Isaiah McCray Defensive Rebound.
+Fort Wayne,VMI,20,20,8,7,1,Pierre Bland made Layup. Assisted by Isaiah McCray.
+Fort Wayne,VMI,20,20,8,28,0,Foul on Mo Evans.
+Fort Wayne,VMI,20,20,8,28,0,Official TV Timeout
+Fort Wayne,VMI,20,20,8,28,0,Tim Marshall missed Free Throw.
+Fort Wayne,VMI,20,20,8,28,0,VMI Deadball Team Rebound.
+Fort Wayne,VMI,20,21,8,28,1,Tim Marshall made Free Throw.
+Fort Wayne,VMI,23,21,8,44,1,Michael Kibiloski made Three Point Jumper. Assisted by Joe Edwards.
+Fort Wayne,VMI,23,21,8,54,0,Foul on Isaiah McCray.
+Fort Wayne,VMI,23,21,9,5,0,Foul on Mo Evans.
+Fort Wayne,VMI,23,22,9,5,1,Tim Marshall made Free Throw.
+Fort Wayne,VMI,23,23,9,5,1,Tim Marshall made Free Throw.
+Fort Wayne,VMI,23,23,9,5,0,Tim Marshall missed Free Throw.
+Fort Wayne,VMI,23,23,9,5,0,Luis Jacobo Defensive Rebound.
+Fort Wayne,VMI,23,23,9,21,0,Isaiah McCray missed Layup.
+Fort Wayne,VMI,23,23,9,21,0,IPFW Offensive Rebound.
+Fort Wayne,VMI,23,23,9,38,0,Pierre Bland missed Layup.
+Fort Wayne,VMI,23,23,9,38,0,Joe Edwards Offensive Rebound.
+Fort Wayne,VMI,23,23,9,49,0,Michael Kibiloski missed Three Point Jumper.
+Fort Wayne,VMI,23,23,9,49,0,Luis Jacobo Offensive Rebound.
+Fort Wayne,VMI,23,23,9,52,0,Foul on Craig Hinton.
+Fort Wayne,VMI,24,23,9,52,1,Luis Jacobo made Free Throw.
+Fort Wayne,VMI,24,23,9,52,0,Luis Jacobo missed Free Throw.
+Fort Wayne,VMI,24,23,9,52,0,Craig Hinton Defensive Rebound.
+Fort Wayne,VMI,24,26,10,2,1,Craig Hinton made Three Point Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,26,26,10,26,1,Luis Jacobo made Layup.
+Fort Wayne,VMI,26,28,10,40,1,Rodney Glasgow made Jumper.
+Fort Wayne,VMI,28,28,10,56,1,Isaiah McCray made Layup.
+Fort Wayne,VMI,28,28,11,6,0,Jordan Weethee missed Three Point Jumper.
+Fort Wayne,VMI,28,28,11,6,0,Rodney Glasgow Offensive Rebound.
+Fort Wayne,VMI,28,28,11,14,0,Tim Marshall missed Jumper.
+Fort Wayne,VMI,28,28,11,14,0,Michael Kibiloski Defensive Rebound.
+Fort Wayne,VMI,28,28,11,18,0,IPFW  Timeout
+Fort Wayne,VMI,28,28,11,28,0,Pierre Bland missed Layup.
+Fort Wayne,VMI,28,28,11,28,0,Michael Kibiloski Offensive Rebound.
+Fort Wayne,VMI,30,28,11,31,1,Michael Kibiloski made Layup.
+Fort Wayne,VMI,30,28,11,42,0,QJ Peterson missed Jumper.
+Fort Wayne,VMI,30,28,11,42,0,Rodney Glasgow Offensive Rebound.
+Fort Wayne,VMI,30,28,11,46,0,Tim Marshall missed Three Point Jumper.
+Fort Wayne,VMI,30,28,11,46,0,Michael Kibiloski Defensive Rebound.
+Fort Wayne,VMI,32,28,11,54,1,Joe Edwards made Jumper.
+Fort Wayne,VMI,32,28,12,4,0,QJ Peterson missed Jumper.
+Fort Wayne,VMI,32,28,12,4,0,Steve Forbes Defensive Rebound.
+Fort Wayne,VMI,32,28,12,15,0,Luis Jacobo missed Jumper.
+Fort Wayne,VMI,32,28,12,15,0,QJ Peterson Defensive Rebound.
+Fort Wayne,VMI,32,28,12,25,0,Foul on Michael Kibiloski.
+Fort Wayne,VMI,32,28,12,25,0,Official TV Timeout
+Fort Wayne,VMI,32,29,12,25,1,Trey Chapman made Free Throw.
+Fort Wayne,VMI,32,29,12,25,0,Trey Chapman missed Free Throw.
+Fort Wayne,VMI,32,29,12,25,0,Joe Reed Defensive Rebound.
+Fort Wayne,VMI,32,29,12,43,0,Steve Forbes missed Layup.
+Fort Wayne,VMI,32,29,12,43,0,Phillip Anglade Defensive Rebound.
+Fort Wayne,VMI,32,31,12,50,1,Trey Chapman made Layup.
+Fort Wayne,VMI,32,31,13,13,0,Luis Jacobo missed Three Point Jumper.
+Fort Wayne,VMI,32,31,13,13,0,Trey Chapman Defensive Rebound.
+Fort Wayne,VMI,32,33,13,24,1,D.J. Covington made Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,32,33,13,50,0,Joe Edwards missed Jumper.
+Fort Wayne,VMI,32,33,13,50,0,Luis Jacobo Offensive Rebound.
+Fort Wayne,VMI,34,33,13,56,1,Joe Edwards made Jumper. Assisted by Luis Jacobo.
+Fort Wayne,VMI,34,35,14,4,1,D.J. Covington made Layup. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,34,35,14,23,0,Joe Edwards missed Three Point Jumper.
+Fort Wayne,VMI,34,35,14,23,0,Phillip Anglade Defensive Rebound.
+Fort Wayne,VMI,34,37,14,43,1,D.J. Covington made Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,36,37,15,10,1,Luis Jacobo made Jumper.
+Fort Wayne,VMI,36,39,15,34,1,Phillip Anglade made Jumper.
+Fort Wayne,VMI,36,39,16,0,0,Isaiah McCray missed Three Point Jumper.
+Fort Wayne,VMI,36,39,16,0,0,D.J. Covington Defensive Rebound.
+Fort Wayne,VMI,36,39,16,8,0,Rodney Glasgow missed Three Point Jumper.
+Fort Wayne,VMI,36,39,16,8,0,Joe Edwards Defensive Rebound.
+Fort Wayne,VMI,36,39,16,14,0,Joe Edwards Turnover.
+Fort Wayne,VMI,36,39,16,14,0,Official TV Timeout
+Fort Wayne,VMI,36,41,16,27,1,Craig Hinton made Dunk. Assisted by D.J. Covington.
+Fort Wayne,VMI,36,41,16,52,0,Isaiah McCray missed Three Point Jumper.
+Fort Wayne,VMI,36,41,16,52,0,Phillip Anglade Defensive Rebound.
+Fort Wayne,VMI,36,41,17,3,0,D.J. Covington missed Jumper.
+Fort Wayne,VMI,36,41,17,3,0,Luis Jacobo Defensive Rebound.
+Fort Wayne,VMI,38,41,17,14,1,Steve Forbes made Layup. Assisted by Isaiah McCray.
+Fort Wayne,VMI,38,41,17,31,0,Rodney Glasgow missed Jumper.
+Fort Wayne,VMI,38,41,17,31,0,QJ Peterson Offensive Rebound.
+Fort Wayne,VMI,38,41,17,36,0,QJ Peterson missed Layup.
+Fort Wayne,VMI,38,41,17,36,0,D.J. Covington Offensive Rebound.
+Fort Wayne,VMI,38,43,17,39,1,D.J. Covington made Layup.
+Fort Wayne,VMI,40,43,17,51,1,Joe Edwards made Layup.
+Fort Wayne,VMI,40,46,18,3,1,QJ Peterson made Three Point Jumper.
+Fort Wayne,VMI,42,46,18,25,1,Luis Jacobo made Jumper.
+Fort Wayne,VMI,42,46,18,52,0,D.J. Covington Turnover.
+Fort Wayne,VMI,42,46,19,6,0,Joe Edwards missed Three Point Jumper.
+Fort Wayne,VMI,42,46,19,6,0,Rodney Glasgow Defensive Rebound.
+Fort Wayne,VMI,42,48,19,20,1,Tim Marshall made Layup.
+Fort Wayne,VMI,42,48,19,45,0,Joe Reed missed Layup.
+Fort Wayne,VMI,42,48,19,45,0,Phillip Anglade Defensive Rebound.
+Fort Wayne,VMI,42,48,19,48,0,VMI  Timeout
+Fort Wayne,VMI,42,51,19,55,1,Tim Marshall made Three Point Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,42,51,20,0,0,End of 1st half
+Fort Wayne,VMI,44,51,20,13,1,Steve Forbes made Jumper. Assisted by Luis Jacobo.
+Fort Wayne,VMI,44,53,20,30,1,D.J. Covington made Jumper. Assisted by QJ Peterson.
+Fort Wayne,VMI,44,53,20,52,0,Luis Jacobo missed Layup.
+Fort Wayne,VMI,44,53,20,52,0,Brian Brown Defensive Rebound.
+Fort Wayne,VMI,44,53,21,15,0,Foul on Michael Kibiloski.
+Fort Wayne,VMI,44,53,21,18,0,Rodney Glasgow Turnover.
+Fort Wayne,VMI,44,53,21,30,0,Steve Forbes Turnover.
+Fort Wayne,VMI,44,53,21,44,0,D.J. Covington missed Jumper.
+Fort Wayne,VMI,44,53,21,44,0,Luis Jacobo Defensive Rebound.
+Fort Wayne,VMI,44,53,21,51,0,Foul on D.J. Covington.
+Fort Wayne,VMI,47,53,21,55,1,Luis Jacobo made Three Point Jumper. Assisted by Steve Forbes.
+Fort Wayne,VMI,47,55,22,14,1,D.J. Covington made Jumper.
+Fort Wayne,VMI,47,55,22,50,0,Foul on Rodney Glasgow.
+Fort Wayne,VMI,47,55,22,52,0,Isaiah McCray missed Three Point Jumper.
+Fort Wayne,VMI,47,55,22,52,0,IPFW Offensive Rebound.
+Fort Wayne,VMI,47,55,22,55,0,Foul on Jarid Watson.
+Fort Wayne,VMI,49,55,22,57,1,Pierre Bland made Layup. Assisted by Luis Jacobo.
+Fort Wayne,VMI,49,55,23,0,0,Tim Marshall Turnover.
+Fort Wayne,VMI,51,55,23,6,1,Joe Edwards made Layup. Assisted by Mo Evans.
+Fort Wayne,VMI,51,57,23,50,1,QJ Peterson made Jumper.
+Fort Wayne,VMI,51,57,23,53,0,Mo Evans missed Three Point Jumper.
+Fort Wayne,VMI,51,57,23,53,0,Luis Jacobo Offensive Rebound.
+Fort Wayne,VMI,51,57,24,1,0,Mo Evans missed Jumper.
+Fort Wayne,VMI,51,57,24,1,0,Trey Chapman Defensive Rebound.
+Fort Wayne,VMI,51,60,24,10,1,QJ Peterson made Three Point Jumper. Assisted by Brian Brown.
+Fort Wayne,VMI,53,60,24,34,1,Joe Reed made Layup.
+Fort Wayne,VMI,53,60,24,42,0,QJ Peterson missed Three Point Jumper.
+Fort Wayne,VMI,53,60,24,42,0,Luis Jacobo Defensive Rebound.
+Fort Wayne,VMI,55,60,24,51,1,Joe Edwards made Layup. Assisted by Pierre Bland.
+Fort Wayne,VMI,55,62,25,1,1,D.J. Covington made Layup.
+Fort Wayne,VMI,55,62,25,11,0,Joe Edwards Turnover.
+Fort Wayne,VMI,55,62,25,14,0,Trey Chapman Steal.
+Fort Wayne,VMI,55,64,25,18,1,D.J. Covington made Layup. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,55,64,25,27,0,IPFW  Timeout
+Fort Wayne,VMI,55,64,25,35,0,Foul on Trey Chapman.
+Fort Wayne,VMI,55,64,25,35,0,Official TV Timeout
+Fort Wayne,VMI,55,64,25,59,0,Foul on Brian Brown.
+Fort Wayne,VMI,55,64,26,5,0,Joe Reed missed Layup.
+Fort Wayne,VMI,55,64,26,5,0,Trey Chapman Block.
+Fort Wayne,VMI,55,64,26,6,0,Pierre Bland Offensive Rebound.
+Fort Wayne,VMI,57,64,26,6,1,Pierre Bland made Layup.
+Fort Wayne,VMI,57,64,26,6,0,Foul on Rodney Glasgow.
+Fort Wayne,VMI,58,64,26,6,1,Pierre Bland made Free Throw.
+Fort Wayne,VMI,58,64,26,19,0,Trey Chapman Turnover.
+Fort Wayne,VMI,58,64,26,20,0,Luis Jacobo Steal.
+Fort Wayne,VMI,58,64,26,26,0,Luis Jacobo missed Dunk.
+Fort Wayne,VMI,58,64,26,26,0,Rodney Glasgow Defensive Rebound.
+Fort Wayne,VMI,58,64,26,30,0,Rodney Glasgow missed Jumper.
+Fort Wayne,VMI,58,64,26,30,0,D.J. Covington Offensive Rebound.
+Fort Wayne,VMI,58,66,26,33,1,D.J. Covington made Layup.
+Fort Wayne,VMI,60,66,26,39,1,Joe Reed made Layup. Assisted by Mo Evans.
+Fort Wayne,VMI,60,66,26,51,0,Brian Brown missed Three Point Jumper.
+Fort Wayne,VMI,60,66,26,51,0,Luis Jacobo Defensive Rebound.
+Fort Wayne,VMI,60,66,26,59,0,Isaiah McCray Turnover.
+Fort Wayne,VMI,60,66,27,21,0,Foul on Isaiah McCray.
+Fort Wayne,VMI,60,66,27,25,0,Foul on Joe Reed.
+Fort Wayne,VMI,60,67,27,25,1,D.J. Covington made Free Throw.
+Fort Wayne,VMI,60,68,27,25,1,D.J. Covington made Free Throw.
+Fort Wayne,VMI,60,68,27,44,0,Joe Reed missed Layup.
+Fort Wayne,VMI,60,68,27,44,0,Phillip Anglade Defensive Rebound.
+Fort Wayne,VMI,60,70,28,8,1,QJ Peterson made Jumper.
+Fort Wayne,VMI,60,70,28,22,0,Joe Reed missed Layup.
+Fort Wayne,VMI,60,70,28,22,0,Jarid Watson Defensive Rebound.
+Fort Wayne,VMI,60,70,28,28,0,QJ Peterson missed Three Point Jumper.
+Fort Wayne,VMI,60,70,28,28,0,Tim Marshall Offensive Rebound.
+Fort Wayne,VMI,60,70,28,33,0,Rodney Glasgow missed Three Point Jumper.
+Fort Wayne,VMI,60,70,28,33,0,VMI Deadball Team Rebound.
+Fort Wayne,VMI,60,70,28,36,0,Foul on Mo Evans.
+Fort Wayne,VMI,60,70,28,36,0,Official TV Timeout
+Fort Wayne,VMI,60,72,28,40,1,Rodney Glasgow made Jumper.
+Fort Wayne,VMI,60,72,28,40,0,Foul on Pierre Bland.
+Fort Wayne,VMI,60,73,28,40,1,Rodney Glasgow made Free Throw.
+Fort Wayne,VMI,60,73,28,53,0,Foul on Tim Marshall.
+Fort Wayne,VMI,60,73,28,53,0,Joe Edwards missed Free Throw.
+Fort Wayne,VMI,60,73,28,53,0,D.J. Covington Defensive Rebound.
+Fort Wayne,VMI,60,73,29,0,0,Rodney Glasgow missed Three Point Jumper.
+Fort Wayne,VMI,60,73,29,0,0,Joe Edwards Defensive Rebound.
+Fort Wayne,VMI,60,73,29,14,0,Mo Evans missed Three Point Jumper.
+Fort Wayne,VMI,60,73,29,14,0,Steve Forbes Offensive Rebound.
+Fort Wayne,VMI,60,73,29,17,0,Steve Forbes missed Layup.
+Fort Wayne,VMI,60,73,29,17,0,Mo Evans Offensive Rebound.
+Fort Wayne,VMI,60,73,29,19,0,Foul on Phillip Anglade.
+Fort Wayne,VMI,60,73,29,19,0,Mo Evans missed Free Throw.
+Fort Wayne,VMI,60,73,29,19,0,IPFW Deadball Team Rebound.
+Fort Wayne,VMI,60,73,29,19,0,Mo Evans missed Free Throw.
+Fort Wayne,VMI,60,73,29,19,0,QJ Peterson Defensive Rebound.
+Fort Wayne,VMI,60,75,29,48,1,D.J. Covington made Dunk. Assisted by Brian Brown.
+Fort Wayne,VMI,60,75,29,48,0,Foul on Michael Kibiloski.
+Fort Wayne,VMI,60,76,29,48,1,D.J. Covington made Free Throw.
+Fort Wayne,VMI,60,76,29,54,0,Foul on Phillip Anglade.
+Fort Wayne,VMI,61,76,29,54,1,Steve Forbes made Free Throw.
+Fort Wayne,VMI,61,76,29,54,0,Steve Forbes missed Free Throw.
+Fort Wayne,VMI,61,76,29,54,0,D.J. Covington Defensive Rebound.
+Fort Wayne,VMI,61,78,30,10,1,D.J. Covington made Layup. Assisted by Trey Chapman.
+Fort Wayne,VMI,63,78,30,33,1,Isaiah McCray made Layup.
+Fort Wayne,VMI,63,80,31,4,1,D.J. Covington made Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,63,80,31,8,0,VMI  Timeout
+Fort Wayne,VMI,63,80,31,16,0,Pierre Bland missed Jumper.
+Fort Wayne,VMI,63,80,31,16,0,D.J. Covington Defensive Rebound.
+Fort Wayne,VMI,63,82,31,25,1,Rodney Glasgow made Jumper.
+Fort Wayne,VMI,65,82,31,31,1,Joe Reed made Layup. Assisted by Luis Jacobo.
+Fort Wayne,VMI,65,82,31,31,0,Foul on Phillip Anglade.
+Fort Wayne,VMI,65,82,31,31,0,Joe Reed missed Free Throw.
+Fort Wayne,VMI,65,82,31,31,0,IPFW Offensive Rebound.
+Fort Wayne,VMI,65,82,31,39,0,Luis Jacobo missed Three Point Jumper.
+Fort Wayne,VMI,65,82,31,39,0,QJ Peterson Defensive Rebound.
+Fort Wayne,VMI,65,82,31,46,0,QJ Peterson Turnover.
+Fort Wayne,VMI,65,82,31,58,0,Mo Evans missed Three Point Jumper.
+Fort Wayne,VMI,65,82,31,58,0,QJ Peterson Defensive Rebound.
+Fort Wayne,VMI,65,82,32,30,0,QJ Peterson missed Three Point Jumper.
+Fort Wayne,VMI,65,82,32,30,0,Mo Evans Defensive Rebound.
+Fort Wayne,VMI,65,82,32,35,0,Foul on Rodney Glasgow.
+Fort Wayne,VMI,65,82,32,35,0,Official TV Timeout
+Fort Wayne,VMI,65,82,32,35,0,Mo Evans missed Free Throw.
+Fort Wayne,VMI,65,82,32,35,0,IPFW Deadball Team Rebound.
+Fort Wayne,VMI,66,82,32,35,1,Mo Evans made Free Throw.
+Fort Wayne,VMI,66,84,32,48,1,D.J. Covington made Layup. Assisted by Brian Brown.
+Fort Wayne,VMI,66,84,32,48,0,Foul on Isaiah McCray.
+Fort Wayne,VMI,66,85,32,48,1,D.J. Covington made Free Throw.
+Fort Wayne,VMI,66,85,33,0,0,Isaiah McCray missed Three Point Jumper.
+Fort Wayne,VMI,66,85,33,0,0,D.J. Covington Defensive Rebound.
+Fort Wayne,VMI,66,85,33,18,0,Rodney Glasgow missed Jumper.
+Fort Wayne,VMI,66,85,33,18,0,Isaiah McCray Defensive Rebound.
+Fort Wayne,VMI,68,85,33,23,1,Luis Jacobo made Layup. Assisted by Mo Evans.
+Fort Wayne,VMI,68,85,33,23,0,Foul on Trey Chapman.
+Fort Wayne,VMI,69,85,33,23,1,Luis Jacobo made Free Throw.
+Fort Wayne,VMI,69,85,33,41,0,D.J. Covington Turnover.
+Fort Wayne,VMI,71,85,33,45,1,Luis Jacobo made Layup.
+Fort Wayne,VMI,71,85,33,45,0,Foul on Trey Chapman.
+Fort Wayne,VMI,72,85,33,45,1,Luis Jacobo made Free Throw.
+Fort Wayne,VMI,72,87,34,1,1,Rodney Glasgow made Jumper.
+Fort Wayne,VMI,72,87,34,11,0,Isaiah McCray missed Jumper.
+Fort Wayne,VMI,72,87,34,11,0,Brian Brown Defensive Rebound.
+Fort Wayne,VMI,72,87,34,18,0,Foul on Mo Evans.
+Fort Wayne,VMI,72,87,34,18,0,QJ Peterson missed Free Throw.
+Fort Wayne,VMI,72,87,34,18,0,Luis Jacobo Defensive Rebound.
+Fort Wayne,VMI,75,87,34,28,1,Luis Jacobo made Three Point Jumper.
+Fort Wayne,VMI,75,87,34,48,0,D.J. Covington missed Jumper.
+Fort Wayne,VMI,75,87,34,48,0,Brian Brown Offensive Rebound.
+Fort Wayne,VMI,75,87,34,51,0,Foul on Isaiah McCray.
+Fort Wayne,VMI,75,88,34,51,1,Rodney Glasgow made Free Throw.
+Fort Wayne,VMI,75,89,34,51,1,Rodney Glasgow made Free Throw.
+Fort Wayne,VMI,75,89,34,51,0,VMI  Timeout
+Fort Wayne,VMI,75,89,35,1,0,Foul on Phillip Anglade.
+Fort Wayne,VMI,76,89,35,1,1,Joe Reed made Free Throw.
+Fort Wayne,VMI,76,89,35,1,0,Joe Reed missed Free Throw.
+Fort Wayne,VMI,76,89,35,1,0,Luis Jacobo Offensive Rebound.
+Fort Wayne,VMI,76,89,35,4,0,Foul on D.J. Covington.
+Fort Wayne,VMI,77,89,35,4,1,Luis Jacobo made Free Throw.
+Fort Wayne,VMI,78,89,35,4,1,Luis Jacobo made Free Throw.
+Fort Wayne,VMI,78,89,35,36,0,Rodney Glasgow missed Jumper.
+Fort Wayne,VMI,78,89,35,36,0,Mo Evans Defensive Rebound.
+Fort Wayne,VMI,78,89,35,48,0,Luis Jacobo missed Three Point Jumper.
+Fort Wayne,VMI,78,89,35,48,0,Tim Marshall Defensive Rebound.
+Fort Wayne,VMI,78,89,35,51,0,Foul on Joe Edwards.
+Fort Wayne,VMI,78,90,35,51,1,Tim Marshall made Free Throw.
+Fort Wayne,VMI,78,90,35,51,0,Tim Marshall missed Free Throw.
+Fort Wayne,VMI,78,90,35,51,0,IPFW Deadball Team Rebound.
+Fort Wayne,VMI,80,90,36,6,1,Joe Edwards made Jumper.
+Fort Wayne,VMI,80,90,36,42,0,Tim Marshall missed Three Point Jumper.
+Fort Wayne,VMI,80,90,36,42,0,QJ Peterson Offensive Rebound.
+Fort Wayne,VMI,80,92,36,44,1,QJ Peterson made Layup.
+Fort Wayne,VMI,80,92,36,44,0,Foul on Pierre Bland.
+Fort Wayne,VMI,80,92,36,44,0,Official TV Timeout
+Fort Wayne,VMI,80,93,36,44,1,QJ Peterson made Free Throw.
+Fort Wayne,VMI,82,93,36,59,1,Pierre Bland made Layup.
+Fort Wayne,VMI,82,93,37,1,0,IPFW  Timeout
+Fort Wayne,VMI,82,95,37,31,1,Tim Marshall made Jumper. Assisted by QJ Peterson.
+Fort Wayne,VMI,82,95,37,41,0,Luis Jacobo missed Jumper.
+Fort Wayne,VMI,82,95,37,41,0,D.J. Covington Defensive Rebound.
+Fort Wayne,VMI,82,98,37,59,1,QJ Peterson made Three Point Jumper. Assisted by Rodney Glasgow.
+Fort Wayne,VMI,84,98,38,12,1,Joe Reed made Layup. Assisted by Joe Edwards.
+Fort Wayne,VMI,84,98,38,13,0,IPFW  Timeout
+Fort Wayne,VMI,84,98,38,19,0,Foul on Mo Evans.
+Fort Wayne,VMI,84,99,38,19,1,Tim Marshall made Free Throw.
+Fort Wayne,VMI,84,99,38,19,0,Tim Marshall missed Free Throw.
+Fort Wayne,VMI,84,99,38,19,0,Joe Edwards Defensive Rebound.
+Fort Wayne,VMI,84,99,38,26,0,Joe Edwards missed Three Point Jumper.
+Fort Wayne,VMI,84,99,38,26,0,Isaiah McCray Offensive Rebound.
+Fort Wayne,VMI,86,99,38,33,1,Luis Jacobo made Layup.
+Fort Wayne,VMI,86,99,38,39,0,QJ Peterson Turnover.
+Fort Wayne,VMI,88,99,38,45,1,Pierre Bland made Jumper.
+Fort Wayne,VMI,88,99,38,47,0,IPFW  Timeout
+Fort Wayne,VMI,88,99,38,49,0,Brian Brown Turnover.
+Fort Wayne,VMI,88,99,38,50,0,Joe Reed Steal.
+Fort Wayne,VMI,90,99,38,56,1,Isaiah McCray made Layup.
+Fort Wayne,VMI,90,99,39,6,0,Foul on Joe Reed.
+Fort Wayne,VMI,90,100,39,6,1,D.J. Covington made Free Throw.
+Fort Wayne,VMI,90,100,39,6,0,D.J. Covington missed Free Throw.
+Fort Wayne,VMI,90,100,39,6,0,Joe Edwards Defensive Rebound.
+Fort Wayne,VMI,92,100,39,13,1,Joe Reed made Layup. Assisted by Joe Edwards.
+Fort Wayne,VMI,92,100,39,16,0,Foul on Pierre Bland.
+Fort Wayne,VMI,92,101,39,16,1,Rodney Glasgow made Free Throw.
+Fort Wayne,VMI,92,102,39,16,1,Rodney Glasgow made Free Throw.
+Fort Wayne,VMI,92,102,39,16,0,VMI  Timeout
+Fort Wayne,VMI,92,102,39,22,0,Pierre Bland missed Three Point Jumper.
+Fort Wayne,VMI,92,102,39,22,0,D.J. Covington Defensive Rebound.
+Fort Wayne,VMI,92,102,39,26,0,Foul on Joe Reed.
+Fort Wayne,VMI,92,102,39,26,0,D.J. Covington missed Free Throw.
+Fort Wayne,VMI,92,102,39,26,0,VMI Deadball Team Rebound.
+Fort Wayne,VMI,92,102,39,26,0,D.J. Covington missed Free Throw.
+Fort Wayne,VMI,92,102,39,26,0,Joe Reed Defensive Rebound.
+Fort Wayne,VMI,95,102,39,34,1,Michael Kibiloski made Three Point Jumper.
+Fort Wayne,VMI,95,102,39,34,0,Foul on Luis Jacobo.
+Fort Wayne,VMI,95,103,39,34,1,D.J. Covington made Free Throw.
+Fort Wayne,VMI,95,104,39,34,1,D.J. Covington made Free Throw.
+Fort Wayne,VMI,95,104,39,38,0,Luis Jacobo missed Three Point Jumper.
+Fort Wayne,VMI,95,104,39,38,0,QJ Peterson Defensive Rebound.
+Fort Wayne,VMI,95,104,39,44,0,Foul on Luis Jacobo.
+Fort Wayne,VMI,95,105,39,44,1,Craig Hinton made Free Throw.
+Fort Wayne,VMI,95,106,39,44,1,Craig Hinton made Free Throw.
+Fort Wayne,VMI,95,106,39,47,0,Joe Reed missed Layup.
+Fort Wayne,VMI,95,106,39,47,0,Brian Brown Defensive Rebound.
+Fort Wayne,VMI,95,106,40,0,0,End of Game

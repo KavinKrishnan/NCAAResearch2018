@@ -1,0 +1,332 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Arizona,Stanford,0,0,0,0,0,Jump Ball won by Stanford
+Arizona,Stanford,0,0,0,10,0,Michael Humphrey missed Three Point Jumper.
+Arizona,Stanford,0,0,0,10,0,Ryan Anderson Defensive Rebound.
+Arizona,Stanford,0,0,0,22,0,Foul on Rosco Allen.
+Arizona,Stanford,2,0,0,49,1,Ryan Anderson made Jumper.
+Arizona,Stanford,2,0,1,20,0,Rosco Allen missed Jumper.
+Arizona,Stanford,2,0,1,20,0,Kaleb Tarczewski Block.
+Arizona,Stanford,2,0,1,20,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,Stanford,2,0,1,31,0,Ryan Anderson Turnover.
+Arizona,Stanford,2,0,1,31,0,Dorian Pickens Steal.
+Arizona,Stanford,2,2,1,34,1,Marcus Allen made Layup. Assisted by Dorian Pickens.
+Arizona,Stanford,5,2,2,0,1,Mark Tollefsen made Three Point Jumper. Assisted by Kadeem Allen.
+Arizona,Stanford,5,2,2,22,0,Rosco Allen missed Three Point Jumper.
+Arizona,Stanford,5,2,2,22,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,Stanford,5,2,2,33,0,Gabe York missed Three Point Jumper.
+Arizona,Stanford,5,2,2,33,0,Christian Sanders Defensive Rebound.
+Arizona,Stanford,5,2,2,55,0,Dorian Pickens missed Three Point Jumper.
+Arizona,Stanford,5,2,2,55,0,Kadeem Allen Defensive Rebound.
+Arizona,Stanford,5,2,3,5,0,Kadeem Allen Turnover.
+Arizona,Stanford,5,2,3,27,0,Rosco Allen missed Jumper.
+Arizona,Stanford,5,2,3,27,0,Mark Tollefsen Block.
+Arizona,Stanford,5,2,3,27,0,Stanford Offensive Rebound.
+Arizona,Stanford,5,2,3,33,0,Michael Humphrey missed Jumper.
+Arizona,Stanford,5,2,3,33,0,Kadeem Allen Defensive Rebound.
+Arizona,Stanford,5,2,3,40,0,Foul on Michael Humphrey.
+Arizona,Stanford,6,2,3,40,1,Kaleb Tarczewski made Free Throw.
+Arizona,Stanford,7,2,3,40,1,Kaleb Tarczewski made Free Throw.
+Arizona,Stanford,7,2,3,59,0,Foul on Kaleb Tarczewski.
+Arizona,Stanford,7,2,4,6,0,Christian Sanders missed Jumper.
+Arizona,Stanford,7,2,4,6,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,Stanford,9,2,4,22,1,Gabe York made Layup.
+Arizona,Stanford,9,4,4,37,1,Dorian Pickens made Layup.
+Arizona,Stanford,12,4,4,49,1,Kadeem Allen made Three Point Jumper. Assisted by Gabe York.
+Arizona,Stanford,12,4,5,17,0,Foul on Rosco Allen.
+Arizona,Stanford,12,4,5,17,0,Rosco Allen Turnover.
+Arizona,Stanford,12,4,5,17,0,Official TV Timeout
+Arizona,Stanford,12,4,5,36,0,Justin Simon missed Jumper.
+Arizona,Stanford,12,4,5,36,0,Michael Humphrey Defensive Rebound.
+Arizona,Stanford,12,4,5,49,0,Foul on Parker Jackson-Cartwright.
+Arizona,Stanford,12,5,5,49,1,Marcus Sheffield made Free Throw.
+Arizona,Stanford,12,6,5,49,1,Marcus Sheffield made Free Throw.
+Arizona,Stanford,12,6,6,8,0,Arizona  Turnover.
+Arizona,Stanford,12,6,6,22,0,Grant Verhoeven missed Jumper.
+Arizona,Stanford,12,6,6,22,0,Dusan Ristic Defensive Rebound.
+Arizona,Stanford,12,6,6,45,0,Kadeem Allen Turnover.
+Arizona,Stanford,12,6,7,6,0,Dorian Pickens missed Jumper.
+Arizona,Stanford,12,6,7,6,0,Dusan Ristic Defensive Rebound.
+Arizona,Stanford,15,6,7,17,1,Mark Tollefsen made Three Point Jumper. Assisted by Dusan Ristic.
+Arizona,Stanford,15,8,7,46,1,Grant Verhoeven made Layup. Assisted by Marcus Allen.
+Arizona,Stanford,15,8,7,59,0,Parker Jackson-Cartwright Turnover.
+Arizona,Stanford,15,8,7,59,0,Marcus Allen Steal.
+Arizona,Stanford,15,8,8,4,0,Foul on Parker Jackson-Cartwright.
+Arizona,Stanford,15,8,8,4,0,Official TV Timeout
+Arizona,Stanford,15,8,8,15,0,Marcus Allen missed Layup.
+Arizona,Stanford,15,8,8,15,0,Marcus Sheffield Offensive Rebound.
+Arizona,Stanford,15,10,8,16,1,Marcus Sheffield made Layup.
+Arizona,Stanford,15,10,8,57,0,Foul on Cameron Walker.
+Arizona,Stanford,15,10,8,57,0,Gabe York missed Free Throw.
+Arizona,Stanford,15,10,8,57,0,Arizona Deadball Team Rebound.
+Arizona,Stanford,16,10,8,57,1,Gabe York made Free Throw.
+Arizona,Stanford,17,10,8,57,1,Gabe York made Free Throw.
+Arizona,Stanford,17,13,9,21,1,Marcus Sheffield made Three Point Jumper. Assisted by Cameron Walker.
+Arizona,Stanford,17,13,9,40,0,Kaleb Tarczewski Turnover.
+Arizona,Stanford,17,13,9,40,0,Marcus Sheffield Steal.
+Arizona,Stanford,17,13,10,10,0,Marcus Sheffield missed Jumper.
+Arizona,Stanford,17,13,10,10,0,Mark Tollefsen Block.
+Arizona,Stanford,17,13,10,10,0,Marcus Sheffield Offensive Rebound.
+Arizona,Stanford,17,13,10,11,0,Cameron Walker missed Jumper.
+Arizona,Stanford,17,13,10,12,0,Kaleb Tarczewski Block.
+Arizona,Stanford,17,13,10,13,0,Arizona Deadball Team Rebound.
+Arizona,Stanford,17,13,10,14,0,Stanford  Turnover.
+Arizona,Stanford,20,13,10,27,1,Gabe York made Three Point Jumper. Assisted by Kadeem Allen.
+Arizona,Stanford,20,13,10,59,0,Marcus Allen missed Layup.
+Arizona,Stanford,20,13,10,59,0,Kadeem Allen Defensive Rebound.
+Arizona,Stanford,20,13,11,9,0,Gabe York missed Three Point Jumper.
+Arizona,Stanford,20,13,11,9,0,Arizona Deadball Team Rebound.
+Arizona,Stanford,20,13,11,16,0,Foul on Marcus Sheffield.
+Arizona,Stanford,20,13,11,32,0,Gabe York missed Jumper.
+Arizona,Stanford,20,13,11,32,0,Dorian Pickens Defensive Rebound.
+Arizona,Stanford,20,13,11,41,0,Rosco Allen Turnover.
+Arizona,Stanford,20,13,12,2,0,Mark Tollefsen missed Three Point Jumper.
+Arizona,Stanford,20,13,12,2,0,Dorian Pickens Defensive Rebound.
+Arizona,Stanford,20,13,12,20,0,Rosco Allen missed Jumper.
+Arizona,Stanford,20,13,12,20,0,Ryan Anderson Defensive Rebound.
+Arizona,Stanford,20,13,12,23,0,Foul on Cameron Walker.
+Arizona,Stanford,20,13,12,23,0,Official TV Timeout
+Arizona,Stanford,20,13,12,43,0,Dusan Ristic missed Layup.
+Arizona,Stanford,20,13,12,43,0,Rosco Allen Defensive Rebound.
+Arizona,Stanford,20,13,12,43,0,Foul on Mark Tollefsen.
+Arizona,Stanford,20,13,13,2,0,Cameron Walker missed Jumper.
+Arizona,Stanford,20,13,13,2,0,Dusan Ristic Defensive Rebound.
+Arizona,Stanford,20,13,13,18,0,Mark Tollefsen Turnover.
+Arizona,Stanford,20,13,13,18,0,Michael Humphrey Steal.
+Arizona,Stanford,20,13,13,28,0,Michael Humphrey missed Jumper.
+Arizona,Stanford,20,13,13,28,0,Justin Simon Defensive Rebound.
+Arizona,Stanford,20,13,13,46,0,Parker Jackson-Cartwright missed Jumper.
+Arizona,Stanford,20,13,13,46,0,Rosco Allen Defensive Rebound.
+Arizona,Stanford,20,15,13,55,1,Michael Humphrey made Layup. Assisted by Rosco Allen.
+Arizona,Stanford,20,15,14,15,0,Kadeem Allen missed Three Point Jumper.
+Arizona,Stanford,20,15,14,15,0,Stanford Defensive Rebound.
+Arizona,Stanford,20,17,14,30,1,Michael Humphrey made Jumper. Assisted by Marcus Allen.
+Arizona,Stanford,20,17,14,51,0,Kaleb Tarczewski Turnover.
+Arizona,Stanford,20,17,14,51,0,Rosco Allen Steal.
+Arizona,Stanford,20,17,14,53,0,Foul on Kadeem Allen.
+Arizona,Stanford,20,18,14,53,1,Dorian Pickens made Free Throw.
+Arizona,Stanford,20,19,14,53,1,Dorian Pickens made Free Throw.
+Arizona,Stanford,22,19,14,56,1,Kaleb Tarczewski made Dunk. Assisted by Gabe York.
+Arizona,Stanford,22,19,14,56,0,Foul on Michael Humphrey.
+Arizona,Stanford,23,19,14,56,1,Kaleb Tarczewski made Free Throw.
+Arizona,Stanford,23,19,15,13,0,Josh Sharma missed Jumper.
+Arizona,Stanford,23,19,15,13,0,Stanford Offensive Rebound.
+Arizona,Stanford,23,19,15,30,0,Dorian Pickens missed Three Point Jumper.
+Arizona,Stanford,23,19,15,30,0,Josh Sharma Offensive Rebound.
+Arizona,Stanford,23,22,15,40,1,Marcus Sheffield made Three Point Jumper. Assisted by Christian Sanders.
+Arizona,Stanford,23,22,15,55,0,Kadeem Allen missed Jumper.
+Arizona,Stanford,23,22,15,55,0,Arizona Deadball Team Rebound.
+Arizona,Stanford,23,22,15,58,0,Foul on Josh Sharma.
+Arizona,Stanford,24,22,15,58,1,Kaleb Tarczewski made Free Throw.
+Arizona,Stanford,25,22,15,58,1,Kaleb Tarczewski made Free Throw.
+Arizona,Stanford,25,22,16,8,0,Christian Sanders missed Jumper.
+Arizona,Stanford,25,22,16,8,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,Stanford,25,22,16,32,0,Justin Simon missed Jumper.
+Arizona,Stanford,25,22,16,32,0,Josh Sharma Defensive Rebound.
+Arizona,Stanford,25,22,16,40,0,Dorian Pickens missed Three Point Jumper.
+Arizona,Stanford,25,22,16,40,0,Mark Tollefsen Defensive Rebound.
+Arizona,Stanford,25,22,16,51,0,Arizona  Timeout
+Arizona,Stanford,25,22,17,3,0,Kaleb Tarczewski missed Jumper.
+Arizona,Stanford,25,22,17,3,0,Josh Sharma Defensive Rebound.
+Arizona,Stanford,25,24,17,32,1,Marcus Allen made Layup. Assisted by Josh Sharma.
+Arizona,Stanford,28,24,17,48,1,Gabe York made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Arizona,Stanford,28,26,18,6,1,Dorian Pickens made Jumper.
+Arizona,Stanford,28,26,18,26,0,Foul on Josh Sharma.
+Arizona,Stanford,28,26,18,26,0,Ryan Anderson missed Free Throw.
+Arizona,Stanford,28,26,18,26,0,Arizona Deadball Team Rebound.
+Arizona,Stanford,29,26,18,26,1,Ryan Anderson made Free Throw.
+Arizona,Stanford,29,26,18,26,0,Stanford  Timeout
+Arizona,Stanford,29,26,18,41,0,Marcus Allen missed Three Point Jumper.
+Arizona,Stanford,29,26,18,41,0,Parker Jackson-Cartwright Defensive Rebound.
+Arizona,Stanford,29,26,19,3,0,Foul on Parker Jackson-Cartwright.
+Arizona,Stanford,29,26,19,3,0,Parker Jackson-Cartwright Turnover.
+Arizona,Stanford,29,29,19,18,1,Dorian Pickens made Three Point Jumper.
+Arizona,Stanford,31,29,19,47,1,Kadeem Allen made Layup. Assisted by Mark Tollefsen.
+Arizona,Stanford,31,29,19,56,0,Foul on Kaleb Tarczewski.
+Arizona,Stanford,31,30,19,56,1,Marcus Allen made Free Throw.
+Arizona,Stanford,31,30,19,56,0,Marcus Allen missed Free Throw.
+Arizona,Stanford,31,30,19,56,0,Dusan Ristic Defensive Rebound.
+Arizona,Stanford,31,30,20,0,0,End of 1st half
+Arizona,Stanford,31,30,20,0,0,Jump Ball won by Stanford
+Arizona,Stanford,31,30,20,15,0,Rosco Allen missed Three Point Jumper.
+Arizona,Stanford,31,30,20,15,0,Kadeem Allen Defensive Rebound.
+Arizona,Stanford,31,30,20,35,0,Foul on Michael Humphrey.
+Arizona,Stanford,32,30,20,35,1,Ryan Anderson made Free Throw.
+Arizona,Stanford,33,30,20,35,1,Ryan Anderson made Free Throw.
+Arizona,Stanford,33,30,20,47,0,Dorian Pickens missed Three Point Jumper.
+Arizona,Stanford,33,30,20,47,0,Michael Humphrey Offensive Rebound.
+Arizona,Stanford,33,30,20,52,0,Foul on Kaleb Tarczewski.
+Arizona,Stanford,33,31,20,52,1,Michael Humphrey made Free Throw.
+Arizona,Stanford,33,31,20,52,0,Michael Humphrey missed Free Throw.
+Arizona,Stanford,33,31,20,52,0,Stanford Offensive Rebound.
+Arizona,Stanford,33,33,20,56,1,Michael Humphrey made Jumper. Assisted by Marcus Allen.
+Arizona,Stanford,33,33,21,24,0,Foul on Marcus Allen.
+Arizona,Stanford,35,33,21,36,1,Ryan Anderson made Layup. Assisted by Mark Tollefsen.
+Arizona,Stanford,35,33,22,1,0,Dorian Pickens missed Three Point Jumper.
+Arizona,Stanford,35,33,22,1,0,Kadeem Allen Defensive Rebound.
+Arizona,Stanford,35,33,22,11,0,Kadeem Allen missed Jumper.
+Arizona,Stanford,35,33,22,11,0,Arizona Offensive Rebound.
+Arizona,Stanford,35,33,22,21,0,Foul on Michael Humphrey.
+Arizona,Stanford,36,33,22,21,1,Dusan Ristic made Free Throw.
+Arizona,Stanford,37,33,22,21,1,Dusan Ristic made Free Throw.
+Arizona,Stanford,37,33,22,38,0,Grant Verhoeven missed Jumper.
+Arizona,Stanford,37,33,22,38,0,Ryan Anderson Defensive Rebound.
+Arizona,Stanford,37,33,22,46,0,Kadeem Allen Turnover.
+Arizona,Stanford,37,33,22,54,0,Rosco Allen missed Three Point Jumper.
+Arizona,Stanford,37,33,22,54,0,Dusan Ristic Defensive Rebound.
+Arizona,Stanford,37,33,23,15,0,Gabe York missed Layup.
+Arizona,Stanford,37,33,23,15,0,Dorian Pickens Defensive Rebound.
+Arizona,Stanford,37,33,23,29,0,Marcus Sheffield missed Jumper.
+Arizona,Stanford,37,33,23,29,0,Ryan Anderson Defensive Rebound.
+Arizona,Stanford,39,33,23,39,1,Dusan Ristic made Jumper. Assisted by Kadeem Allen.
+Arizona,Stanford,39,33,23,47,0,Stanford  Timeout
+Arizona,Stanford,39,33,24,7,0,Foul on Ryan Anderson.
+Arizona,Stanford,39,33,24,7,0,Official TV Timeout
+Arizona,Stanford,39,34,24,7,1,Rosco Allen made Free Throw.
+Arizona,Stanford,39,34,24,7,0,Rosco Allen missed Free Throw.
+Arizona,Stanford,39,34,24,7,0,Dusan Ristic Defensive Rebound.
+Arizona,Stanford,39,34,24,18,0,Justin Simon Turnover.
+Arizona,Stanford,39,34,24,18,0,Grant Verhoeven Steal.
+Arizona,Stanford,39,36,24,24,1,Grant Verhoeven made Jumper. Assisted by Rosco Allen.
+Arizona,Stanford,39,36,24,24,0,Foul on Mark Tollefsen.
+Arizona,Stanford,39,37,24,24,1,Grant Verhoeven made Free Throw.
+Arizona,Stanford,39,37,24,47,0,Kadeem Allen missed Three Point Jumper.
+Arizona,Stanford,39,37,24,47,0,Rosco Allen Defensive Rebound.
+Arizona,Stanford,39,37,25,3,0,Rosco Allen missed Layup.
+Arizona,Stanford,39,37,25,3,0,Dusan Ristic Block.
+Arizona,Stanford,39,37,25,3,0,Mark Tollefsen Defensive Rebound.
+Arizona,Stanford,39,37,25,23,0,Parker Jackson-Cartwright missed Three Point Jumper.
+Arizona,Stanford,39,37,25,23,0,Marcus Allen Defensive Rebound.
+Arizona,Stanford,39,37,25,27,0,Foul on Mark Tollefsen.
+Arizona,Stanford,39,37,25,37,0,Foul on Kadeem Allen.
+Arizona,Stanford,39,37,25,38,0,Grant Verhoeven missed Layup.
+Arizona,Stanford,39,37,25,38,0,Grant Verhoeven Offensive Rebound.
+Arizona,Stanford,39,39,25,43,1,Grant Verhoeven made Jumper.
+Arizona,Stanford,39,39,25,43,0,Foul on Ryan Anderson.
+Arizona,Stanford,39,40,25,43,1,Grant Verhoeven made Free Throw.
+Arizona,Stanford,39,40,25,53,0,Foul on Marcus Sheffield.
+Arizona,Stanford,39,40,26,4,0,Foul on Dorian Pickens.
+Arizona,Stanford,39,40,26,4,0,Kaleb Tarczewski missed Free Throw.
+Arizona,Stanford,39,40,26,4,0,Arizona Deadball Team Rebound.
+Arizona,Stanford,39,40,26,4,0,Kaleb Tarczewski missed Free Throw.
+Arizona,Stanford,39,40,26,4,0,Marcus Allen Defensive Rebound.
+Arizona,Stanford,39,40,26,29,0,Marcus Allen missed Layup.
+Arizona,Stanford,39,40,26,29,0,Kaleb Tarczewski Block.
+Arizona,Stanford,39,40,26,29,0,Ryan Anderson Defensive Rebound.
+Arizona,Stanford,39,40,26,40,0,Foul on Parker Jackson-Cartwright.
+Arizona,Stanford,39,40,26,40,0,Parker Jackson-Cartwright Turnover.
+Arizona,Stanford,39,40,26,51,0,Grant Verhoeven Turnover.
+Arizona,Stanford,39,40,27,5,0,Gabe York missed Jumper.
+Arizona,Stanford,39,40,27,5,0,Mark Tollefsen Offensive Rebound.
+Arizona,Stanford,39,40,27,13,0,Mark Tollefsen missed Two Point Tip Shot.
+Arizona,Stanford,39,40,27,14,0,Ryan Anderson Offensive Rebound.
+Arizona,Stanford,41,40,27,15,1,Ryan Anderson made Layup.
+Arizona,Stanford,41,40,27,33,0,Dorian Pickens Turnover.
+Arizona,Stanford,41,40,27,48,0,Gabe York missed Jumper.
+Arizona,Stanford,41,40,27,48,0,Kaleb Tarczewski Offensive Rebound.
+Arizona,Stanford,43,40,27,55,1,Kaleb Tarczewski made Layup.
+Arizona,Stanford,43,40,27,55,0,Foul on Kaleb Tarczewski.
+Arizona,Stanford,43,40,28,12,0,Official TV Timeout
+Arizona,Stanford,43,40,28,12,0,Marcus Sheffield missed Free Throw.
+Arizona,Stanford,43,40,28,12,0,Gabe York Defensive Rebound.
+Arizona,Stanford,45,40,28,36,1,Ryan Anderson made Layup.
+Arizona,Stanford,45,40,28,36,0,Foul on Grant Verhoeven.
+Arizona,Stanford,46,40,28,36,1,Ryan Anderson made Free Throw.
+Arizona,Stanford,46,40,28,51,0,Marcus Sheffield missed Three Point Jumper.
+Arizona,Stanford,46,40,28,51,0,Kadeem Allen Defensive Rebound.
+Arizona,Stanford,46,40,29,10,0,Mark Tollefsen missed Three Point Jumper.
+Arizona,Stanford,46,40,29,10,0,Stanford Defensive Rebound.
+Arizona,Stanford,46,40,29,14,0,Foul on Dusan Ristic.
+Arizona,Stanford,46,40,29,14,0,Josh Sharma missed Free Throw.
+Arizona,Stanford,46,40,29,14,0,Dusan Ristic Defensive Rebound.
+Arizona,Stanford,48,40,29,30,1,Gabe York made Layup.
+Arizona,Stanford,48,40,29,55,0,Cameron Walker Turnover.
+Arizona,Stanford,48,40,30,0,0,Gabe York missed Jumper.
+Arizona,Stanford,48,40,30,0,0,Dusan Ristic Offensive Rebound.
+Arizona,Stanford,48,40,30,11,0,Dusan Ristic Turnover.
+Arizona,Stanford,48,40,30,11,0,Foul on Dusan Ristic.
+Arizona,Stanford,48,40,30,19,0,Cameron Walker missed Layup.
+Arizona,Stanford,48,40,30,19,0,Dusan Ristic Defensive Rebound.
+Arizona,Stanford,48,40,30,26,0,Gabe York missed Three Point Jumper.
+Arizona,Stanford,48,40,30,26,0,Rosco Allen Defensive Rebound.
+Arizona,Stanford,48,40,30,38,0,Marcus Allen missed Three Point Jumper.
+Arizona,Stanford,48,40,30,38,0,Ryan Anderson Defensive Rebound.
+Arizona,Stanford,48,40,30,56,0,Gabe York Turnover.
+Arizona,Stanford,48,40,30,56,0,Cameron Walker Steal.
+Arizona,Stanford,48,40,31,6,0,Marcus Allen missed Three Point Jumper.
+Arizona,Stanford,48,40,31,6,0,Ryan Anderson Defensive Rebound.
+Arizona,Stanford,51,40,31,28,1,Gabe York made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Arizona,Stanford,51,40,31,46,0,Stanford  Timeout
+Arizona,Stanford,51,40,32,0,0,Foul on Justin Simon.
+Arizona,Stanford,51,41,32,0,1,Dorian Pickens made Free Throw.
+Arizona,Stanford,51,42,32,0,1,Dorian Pickens made Free Throw.
+Arizona,Stanford,53,42,32,27,1,Mark Tollefsen made Jumper. Assisted by Justin Simon.
+Arizona,Stanford,53,42,33,2,0,Foul on Dusan Ristic.
+Arizona,Stanford,53,43,33,2,1,Michael Humphrey made Free Throw.
+Arizona,Stanford,53,44,33,2,1,Michael Humphrey made Free Throw.
+Arizona,Stanford,56,44,33,22,1,Kadeem Allen made Three Point Jumper. Assisted by Mark Tollefsen.
+Arizona,Stanford,56,44,33,39,0,Michael Humphrey missed Jumper.
+Arizona,Stanford,56,44,33,39,0,Mark Tollefsen Defensive Rebound.
+Arizona,Stanford,58,44,33,57,1,Ryan Anderson made Layup. Assisted by Mark Tollefsen.
+Arizona,Stanford,58,46,34,13,1,Marcus Sheffield made Layup.
+Arizona,Stanford,58,46,34,13,0,Foul on Ryan Anderson.
+Arizona,Stanford,58,47,34,13,1,Marcus Sheffield made Free Throw.
+Arizona,Stanford,61,47,34,28,1,Gabe York made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Arizona,Stanford,61,50,34,45,1,Rosco Allen made Three Point Jumper. Assisted by Marcus Sheffield.
+Arizona,Stanford,61,50,35,3,0,Foul on Marcus Allen.
+Arizona,Stanford,62,50,35,3,1,Gabe York made Free Throw.
+Arizona,Stanford,62,50,35,3,0,Gabe York missed Free Throw.
+Arizona,Stanford,62,50,35,3,0,Michael Humphrey Defensive Rebound.
+Arizona,Stanford,62,50,35,12,0,Rosco Allen missed Jumper.
+Arizona,Stanford,62,50,35,12,0,Michael Humphrey Offensive Rebound.
+Arizona,Stanford,62,50,35,16,0,Michael Humphrey missed Jumper.
+Arizona,Stanford,62,50,35,16,0,Rosco Allen Offensive Rebound.
+Arizona,Stanford,62,50,35,21,0,Rosco Allen missed Three Point Jumper.
+Arizona,Stanford,62,50,35,21,0,Marcus Allen Offensive Rebound.
+Arizona,Stanford,62,50,35,33,0,Rosco Allen Turnover.
+Arizona,Stanford,64,50,35,43,1,Ryan Anderson made Jumper.
+Arizona,Stanford,64,50,35,43,0,Marcus Sheffield Turnover.
+Arizona,Stanford,64,50,36,4,0,Official TV Timeout
+Arizona,Stanford,64,50,36,21,0,Gabe York missed Three Point Jumper.
+Arizona,Stanford,64,50,36,21,0,Kaleb Tarczewski Offensive Rebound.
+Arizona,Stanford,64,50,36,26,0,Foul on Michael Humphrey.
+Arizona,Stanford,65,50,36,26,1,Kaleb Tarczewski made Free Throw.
+Arizona,Stanford,66,50,36,26,1,Kaleb Tarczewski made Free Throw.
+Arizona,Stanford,66,52,36,40,1,Marcus Sheffield made Jumper.
+Arizona,Stanford,66,52,37,2,0,Gabe York Turnover.
+Arizona,Stanford,66,52,37,10,0,Malcolm Allen Turnover.
+Arizona,Stanford,66,52,37,10,0,Mark Tollefsen Steal.
+Arizona,Stanford,66,52,37,26,0,Parker Jackson-Cartwright missed Layup.
+Arizona,Stanford,66,52,37,26,0,Rosco Allen Defensive Rebound.
+Arizona,Stanford,66,54,37,34,1,Marcus Sheffield made Dunk. Assisted by Rosco Allen.
+Arizona,Stanford,66,54,37,50,0,Foul on Dorian Pickens.
+Arizona,Stanford,66,54,37,50,0,Kadeem Allen missed Free Throw.
+Arizona,Stanford,66,54,37,50,0,Arizona Deadball Team Rebound.
+Arizona,Stanford,67,54,37,50,1,Kadeem Allen made Free Throw.
+Arizona,Stanford,67,54,37,50,0,Arizona  Timeout
+Arizona,Stanford,67,54,37,58,0,Rosco Allen missed Three Point Jumper.
+Arizona,Stanford,67,54,37,58,0,Gabe York Defensive Rebound.
+Arizona,Stanford,69,54,38,14,1,Ryan Anderson made Layup. Assisted by Kadeem Allen.
+Arizona,Stanford,69,56,38,27,1,Marcus Allen made Layup.
+Arizona,Stanford,69,56,38,27,0,Foul on Ryan Anderson.
+Arizona,Stanford,69,57,38,27,1,Marcus Allen made Free Throw.
+Arizona,Stanford,69,57,38,33,0,Foul on Marcus Sheffield.
+Arizona,Stanford,69,57,38,33,0,Parker Jackson-Cartwright missed Free Throw.
+Arizona,Stanford,69,57,38,33,0,Arizona Deadball Team Rebound.
+Arizona,Stanford,69,57,38,33,0,Parker Jackson-Cartwright missed Free Throw.
+Arizona,Stanford,69,57,38,33,0,Rosco Allen Defensive Rebound.
+Arizona,Stanford,69,57,38,39,0,Dorian Pickens missed Three Point Jumper.
+Arizona,Stanford,69,57,38,39,0,Mark Tollefsen Defensive Rebound.
+Arizona,Stanford,69,57,38,41,0,Foul on Rosco Allen.
+Arizona,Stanford,70,57,38,41,1,Mark Tollefsen made Free Throw.
+Arizona,Stanford,71,57,38,41,1,Mark Tollefsen made Free Throw.
+Arizona,Stanford,71,57,38,54,0,Marcus Sheffield missed Jumper.
+Arizona,Stanford,71,57,38,54,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,Stanford,71,57,39,16,0,Gabe York missed Three Point Jumper.
+Arizona,Stanford,71,57,39,16,0,Marcus Sheffield Defensive Rebound.
+Arizona,Stanford,71,57,39,26,0,Marcus Allen missed Layup.
+Arizona,Stanford,71,57,39,26,0,Kadeem Allen Block.
+Arizona,Stanford,71,57,39,26,0,Gabe York Defensive Rebound.
+Arizona,Stanford,71,57,39,53,0,Arizona  Turnover.
+Arizona,Stanford,71,57,39,58,0,Rosco Allen missed Three Point Jumper.
+Arizona,Stanford,71,57,39,58,0,Mark Tollefsen Defensive Rebound.
+Arizona,Stanford,71,57,40,0,0,End of Game

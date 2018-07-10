@@ -1,0 +1,364 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Santa Clara,BYU,0,0,0,13,0,Brandon Davies missed Jumper.
+Santa Clara,BYU,0,0,0,13,0,Marc Trasolini Defensive Rebound.
+Santa Clara,BYU,0,0,0,32,0,Marc Trasolini missed Jumper.
+Santa Clara,BYU,0,0,0,32,0,Brandon Davies Defensive Rebound.
+Santa Clara,BYU,0,2,0,37,1,Tyler Haws made Layup.  Assisted by Matt Carlino.
+Santa Clara,BYU,0,2,1,4,0,Kevin Foster missed Three Point Jumper.
+Santa Clara,BYU,0,2,1,4,0,Brock Zylstra Defensive Rebound.
+Santa Clara,BYU,0,2,1,9,0,Matt Carlino Turnover.
+Santa Clara,BYU,0,2,1,10,0,Evan Roquemore Steal.
+Santa Clara,BYU,2,2,1,15,1,Evan Roquemore made Layup.  Assisted by Kevin Foster.
+Santa Clara,BYU,2,4,1,37,1,Tyler Haws made Jumper.  Assisted by Matt Carlino.
+Santa Clara,BYU,5,4,1,59,1,Raymond Cowels III made Three Point Jumper.  Assisted by Kevin Foster.
+Santa Clara,BYU,5,4,2,26,0,Matt Carlino missed Three Point Jumper.
+Santa Clara,BYU,5,4,2,26,0,Yannick Atanga Defensive Rebound.
+Santa Clara,BYU,7,4,2,39,1,Marc Trasolini made Jumper.  Assisted by Evan Roquemore.
+Santa Clara,BYU,7,6,2,46,1,Tyler Haws made Jumper.  Assisted by Matt Carlino.
+Santa Clara,BYU,7,6,3,8,0,Yannick Atanga missed Dunk.
+Santa Clara,BYU,7,6,3,8,0,Brock Zylstra Defensive Rebound.
+Santa Clara,BYU,7,8,3,24,1,Matt Carlino made Layup.
+Santa Clara,BYU,7,8,3,43,0,Marc Trasolini missed Jumper.
+Santa Clara,BYU,7,8,3,43,0,Brock Zylstra Defensive Rebound.
+Santa Clara,BYU,7,8,3,51,0,Matt Carlino missed Jumper.
+Santa Clara,BYU,7,8,3,51,0,Kevin Foster Defensive Rebound.
+Santa Clara,BYU,7,8,4,15,0,Kevin Foster missed Jumper.
+Santa Clara,BYU,7,8,4,15,0,Brock Zylstra Defensive Rebound.
+Santa Clara,BYU,7,8,4,21,0,Foul on Evan Roquemore
+Santa Clara,BYU,7,8,4,21,0,Official TV Timeout.
+Santa Clara,BYU,7,8,4,21,0,Tyler Haws missed Free Throw.
+Santa Clara,BYU,7,8,4,21,0,null
+Santa Clara,BYU,7,9,4,21,1,Tyler Haws made Free Throw.
+Santa Clara,BYU,9,9,4,43,1,Evan Roquemore made Jumper.
+Santa Clara,BYU,9,9,4,56,0,Foul on Robert Garrett
+Santa Clara,BYU,9,10,4,56,1,Brandon Davies made Free Throw.
+Santa Clara,BYU,9,11,4,56,1,Brandon Davies made Free Throw.
+Santa Clara,BYU,11,11,5,21,1,Kevin Foster made Jumper.
+Santa Clara,BYU,11,11,5,22,0,Foul on Kevin Foster
+Santa Clara,BYU,11,11,5,33,0,Foul on Evan Roquemore
+Santa Clara,BYU,11,11,5,33,0,Tyler Haws missed Free Throw.
+Santa Clara,BYU,11,11,5,33,0,null
+Santa Clara,BYU,11,12,5,33,1,Tyler Haws made Free Throw.
+Santa Clara,BYU,11,12,5,48,0,Foul on Craig Cusick
+Santa Clara,BYU,11,12,6,9,0,Robert Garrett missed Jumper.
+Santa Clara,BYU,11,12,6,9,0,Brandon Davies Defensive Rebound.
+Santa Clara,BYU,11,12,6,18,0,Foul on Robert Garrett
+Santa Clara,BYU,11,13,6,18,1,Nate Austin made Free Throw.
+Santa Clara,BYU,11,13,6,18,0,Nate Austin missed Free Throw.
+Santa Clara,BYU,11,13,6,18,0,Raymond Cowels III Defensive Rebound.
+Santa Clara,BYU,14,13,6,35,1,Raymond Cowels III made Three Point Jumper.  Assisted by Kevin Foster.
+Santa Clara,BYU,14,13,6,44,0,Matt Carlino Turnover.
+Santa Clara,BYU,14,13,6,45,0,Raymond Cowels III Steal.
+Santa Clara,BYU,14,13,6,54,0,Foul on Nate Austin
+Santa Clara,BYU,15,13,6,54,1,Raymond Cowels III made Free Throw.
+Santa Clara,BYU,16,13,6,54,1,Raymond Cowels III made Free Throw.
+Santa Clara,BYU,16,13,7,2,0,Foul on Raymond Cowels III
+Santa Clara,BYU,16,15,7,6,1,Tyler Haws made Jumper.  Assisted by Matt Carlino.
+Santa Clara,BYU,16,15,7,22,0,Foul on Nate Austin
+Santa Clara,BYU,16,15,7,35,0,Raymond Cowels III missed Three Point Jumper.
+Santa Clara,BYU,16,15,7,35,0,Niyi Harrison Offensive Rebound.
+Santa Clara,BYU,16,15,7,35,0,Niyi Harrison Turnover.
+Santa Clara,BYU,16,15,7,49,0,Tyler Haws Turnover.
+Santa Clara,BYU,16,15,7,50,0,Raymond Cowels III Steal.
+Santa Clara,BYU,16,15,7,55,0,Brandon Clark missed Jumper.
+Santa Clara,BYU,16,15,7,55,0,Brock Zylstra Defensive Rebound.
+Santa Clara,BYU,16,15,7,57,0,Foul on John McArthur
+Santa Clara,BYU,16,15,7,57,0,Brock Zylstra missed Free Throw.
+Santa Clara,BYU,16,15,7,57,0,Raymond Cowels III Defensive Rebound.
+Santa Clara,BYU,16,15,8,10,0,Foul on Niyi Harrison
+Santa Clara,BYU,16,15,8,10,0,Official TV Timeout.
+Santa Clara,BYU,16,15,8,10,0,Niyi Harrison Turnover.
+Santa Clara,BYU,16,17,8,15,1,Josh Sharp made Jumper.  Assisted by Brock Zylstra.
+Santa Clara,BYU,16,17,8,20,0,Foul on Julian Clarke
+Santa Clara,BYU,16,18,8,20,1,Josh Sharp made Free Throw.
+Santa Clara,BYU,16,18,8,54,0,Marc Trasolini missed Jumper.
+Santa Clara,BYU,16,18,8,54,0,Brigham Young Defensive Rebound.
+Santa Clara,BYU,16,18,9,3,0,Tyler Haws missed Jumper.
+Santa Clara,BYU,16,18,9,3,0,Raymond Cowels III Defensive Rebound.
+Santa Clara,BYU,16,18,9,16,0,Brandon Clark Turnover.
+Santa Clara,BYU,16,18,9,17,0,Brock Zylstra Steal.
+Santa Clara,BYU,16,18,9,30,0,Brandon Davies Turnover.
+Santa Clara,BYU,16,18,9,55,0,Kevin Foster missed Jumper.
+Santa Clara,BYU,16,18,9,55,0,Santa Clara Offensive Rebound.
+Santa Clara,BYU,16,18,10,14,0,Raymond Cowels III missed Three Point Jumper.
+Santa Clara,BYU,16,18,10,14,0,Marc Trasolini Offensive Rebound.
+Santa Clara,BYU,16,18,10,17,0,Marc Trasolini missed Jumper.
+Santa Clara,BYU,16,18,10,17,0,Yannick Atanga Offensive Rebound.
+Santa Clara,BYU,16,18,10,20,0,Yannick Atanga Turnover.
+Santa Clara,BYU,16,18,10,21,0,Matt Carlino Steal.
+Santa Clara,BYU,16,20,10,28,1,Matt Carlino made Layup.
+Santa Clara,BYU,16,20,10,36,0,Kevin Foster missed Three Point Jumper.
+Santa Clara,BYU,16,20,10,36,0,Matt Carlino Defensive Rebound.
+Santa Clara,BYU,16,22,10,44,1,Brock Zylstra made Layup.  Assisted by Josh Sharp.
+Santa Clara,BYU,16,22,10,47,0,Santa Clara Full Timeout.
+Santa Clara,BYU,18,22,10,59,1,Marc Trasolini made Jumper.  Assisted by Kevin Foster.
+Santa Clara,BYU,18,22,11,8,0,Matt Carlino missed Jumper.
+Santa Clara,BYU,18,22,11,8,0,Josh Sharp Offensive Rebound.
+Santa Clara,BYU,18,24,11,11,1,Josh Sharp made Jumper.
+Santa Clara,BYU,21,24,11,28,1,Evan Roquemore made Three Point Jumper.  Assisted by Kevin Foster.
+Santa Clara,BYU,21,24,11,43,0,Brandon Davies missed Jumper.
+Santa Clara,BYU,21,24,11,43,0,Josh Sharp Offensive Rebound.
+Santa Clara,BYU,21,26,11,47,1,Josh Sharp made Jumper.
+Santa Clara,BYU,23,26,12,7,1,Evan Roquemore made Jumper.
+Santa Clara,BYU,23,26,12,15,0,Matt Carlino missed Jumper.
+Santa Clara,BYU,23,26,12,15,0,Yannick Atanga Defensive Rebound.
+Santa Clara,BYU,23,26,12,18,0,Yannick Atanga Turnover.
+Santa Clara,BYU,23,26,12,18,0,Official TV Timeout.
+Santa Clara,BYU,23,26,12,20,0,Cory Calvert Turnover.
+Santa Clara,BYU,23,26,12,37,0,Foul on Cory Calvert
+Santa Clara,BYU,24,26,12,37,1,Evan Roquemore made Free Throw.
+Santa Clara,BYU,25,26,12,37,1,Evan Roquemore made Free Throw.
+Santa Clara,BYU,26,26,12,37,1,Evan Roquemore made Free Throw.
+Santa Clara,BYU,26,29,12,52,1,Matt Carlino made Three Point Jumper.
+Santa Clara,BYU,29,29,13,2,1,Brandon Clark made Three Point Jumper.  Assisted by Kevin Foster.
+Santa Clara,BYU,29,29,13,26,0,Tyler Haws missed Three Point Jumper.
+Santa Clara,BYU,29,29,13,26,0,Kevin Foster Defensive Rebound.
+Santa Clara,BYU,29,29,13,33,0,Kevin Foster Turnover.
+Santa Clara,BYU,29,29,13,33,0,Josh Sharp Steal.
+Santa Clara,BYU,29,32,13,38,1,Matt Carlino made Three Point Jumper.  Assisted by Tyler Haws.
+Santa Clara,BYU,29,32,14,2,0,Foul on Anson Winder
+Santa Clara,BYU,30,32,14,2,1,Raymond Cowels III made Free Throw.
+Santa Clara,BYU,31,32,14,2,1,Raymond Cowels III made Free Throw.
+Santa Clara,BYU,31,32,14,8,0,Matt Carlino Turnover.
+Santa Clara,BYU,31,32,14,9,0,Kevin Foster Steal.
+Santa Clara,BYU,31,32,14,13,0,Kevin Foster missed Jumper.
+Santa Clara,BYU,31,32,14,13,0,Matt Carlino Block.
+Santa Clara,BYU,31,32,14,14,0,Bronson Kaufusi Defensive Rebound.
+Santa Clara,BYU,31,32,14,18,0,Foul on Raymond Cowels III
+Santa Clara,BYU,31,33,14,18,1,Matt Carlino made Free Throw.
+Santa Clara,BYU,31,34,14,18,1,Matt Carlino made Free Throw.
+Santa Clara,BYU,34,34,14,34,1,Raymond Cowels III made Three Point Jumper.
+Santa Clara,BYU,34,34,14,41,0,Matt Carlino missed Three Point Jumper.
+Santa Clara,BYU,34,34,14,41,0,Josh Sharp Offensive Rebound.
+Santa Clara,BYU,34,34,14,41,0,Foul on Evan Roquemore
+Santa Clara,BYU,34,35,14,41,1,Josh Sharp made Free Throw.
+Santa Clara,BYU,34,36,14,41,1,Josh Sharp made Free Throw.
+Santa Clara,BYU,34,36,15,1,0,Kevin Foster missed Jumper.
+Santa Clara,BYU,34,36,15,1,0,Niyi Harrison Offensive Rebound.
+Santa Clara,BYU,34,36,15,2,0,Foul on Josh Sharp
+Santa Clara,BYU,37,36,15,22,1,Kevin Foster made Three Point Jumper.
+Santa Clara,BYU,37,36,15,38,0,Matt Carlino missed Jumper.
+Santa Clara,BYU,37,36,15,38,0,Brandon Clark Defensive Rebound.
+Santa Clara,BYU,37,36,15,43,0,Santa Clara Full Timeout.
+Santa Clara,BYU,37,36,16,5,0,Official TV Timeout.
+Santa Clara,BYU,37,36,16,16,0,Kevin Foster missed Jumper.
+Santa Clara,BYU,37,36,16,16,0,Marc Trasolini Offensive Rebound.
+Santa Clara,BYU,39,36,16,20,1,Marc Trasolini made Jumper.
+Santa Clara,BYU,39,38,16,39,1,Josh Sharp made Jumper.  Assisted by Tyler Haws.
+Santa Clara,BYU,39,38,16,39,0,Foul on Yannick Atanga
+Santa Clara,BYU,39,39,16,39,1,Josh Sharp made Free Throw.
+Santa Clara,BYU,39,39,17,9,0,Julian Clarke missed Jumper.
+Santa Clara,BYU,39,39,17,9,0,Matt Carlino Defensive Rebound.
+Santa Clara,BYU,39,39,17,17,0,Josh Sharp missed Jumper.
+Santa Clara,BYU,39,39,17,17,0,Josh Sharp Offensive Rebound.
+Santa Clara,BYU,39,39,17,19,0,Josh Sharp missed Jumper.
+Santa Clara,BYU,39,39,17,19,0,Yannick Atanga Defensive Rebound.
+Santa Clara,BYU,41,39,17,38,1,Brandon Clark made Jumper.
+Santa Clara,BYU,41,41,17,45,1,Brandon Davies made Jumper.  Assisted by Matt Carlino.
+Santa Clara,BYU,44,41,18,12,1,Kevin Foster made Three Point Jumper.  Assisted by Julian Clarke.
+Santa Clara,BYU,44,41,18,24,0,Foul on Yannick Atanga
+Santa Clara,BYU,44,42,18,24,1,Brandon Davies made Free Throw.
+Santa Clara,BYU,44,43,18,24,1,Brandon Davies made Free Throw.
+Santa Clara,BYU,44,43,18,42,0,Brandon Clark missed Jumper.
+Santa Clara,BYU,44,43,18,42,0,Brandon Davies Defensive Rebound.
+Santa Clara,BYU,44,43,18,45,0,Foul on Niyi Harrison
+Santa Clara,BYU,44,43,18,45,0,Brandon Davies missed Free Throw.
+Santa Clara,BYU,44,43,18,45,0,null
+Santa Clara,BYU,44,43,18,45,0,Brandon Davies missed Free Throw.
+Santa Clara,BYU,44,43,18,45,0,Brigham Young Offensive Rebound.
+Santa Clara,BYU,44,45,18,59,1,Tyler Haws made Layup.
+Santa Clara,BYU,44,45,19,12,0,Foul on Agustin Ambrosino
+Santa Clara,BYU,45,45,19,12,1,Kevin Foster made Free Throw.
+Santa Clara,BYU,46,45,19,12,1,Kevin Foster made Free Throw.
+Santa Clara,BYU,46,45,19,23,0,Foul on Kevin Foster
+Santa Clara,BYU,46,46,19,23,1,Brandon Davies made Free Throw.
+Santa Clara,BYU,46,47,19,23,1,Brandon Davies made Free Throw.
+Santa Clara,BYU,46,47,20,0,0,Kevin Foster missed Three Point Jumper.
+Santa Clara,BYU,46,47,20,0,0,Brandon Davies Defensive Rebound.
+Santa Clara,BYU,46,47,20,0,0,End of the 1st Half.
+Santa Clara,BYU,46,47,20,22,0,Raymond Cowels III Turnover.
+Santa Clara,BYU,46,47,20,23,0,Brandon Davies Steal.
+Santa Clara,BYU,46,49,20,26,1,Josh Sharp made Layup.  Assisted by Tyler Haws.
+Santa Clara,BYU,46,49,20,40,0,Evan Roquemore missed Three Point Jumper.
+Santa Clara,BYU,46,49,20,40,0,Josh Sharp Defensive Rebound.
+Santa Clara,BYU,46,51,20,50,1,Brandon Davies made Layup.  Assisted by Tyler Haws.
+Santa Clara,BYU,46,51,21,20,0,Foul on Josh Sharp
+Santa Clara,BYU,47,51,21,20,1,Kevin Foster made Free Throw.
+Santa Clara,BYU,47,51,21,20,0,Kevin Foster missed Free Throw.
+Santa Clara,BYU,47,51,21,20,0,Brock Zylstra Defensive Rebound.
+Santa Clara,BYU,47,51,21,38,0,Tyler Haws missed Three Point Jumper.
+Santa Clara,BYU,47,51,21,38,0,Yannick Atanga Defensive Rebound.
+Santa Clara,BYU,47,51,21,50,0,Foul on Brock Zylstra
+Santa Clara,BYU,48,51,21,50,1,Evan Roquemore made Free Throw.
+Santa Clara,BYU,49,51,21,50,1,Evan Roquemore made Free Throw.
+Santa Clara,BYU,49,51,22,7,0,Tyler Haws missed Jumper.
+Santa Clara,BYU,49,51,22,7,0,Santa Clara Defensive Rebound.
+Santa Clara,BYU,49,51,22,20,0,Yannick Atanga missed Jumper.
+Santa Clara,BYU,49,51,22,20,0,Matt Carlino Defensive Rebound.
+Santa Clara,BYU,49,53,22,26,1,Matt Carlino made Layup.
+Santa Clara,BYU,49,53,22,26,0,Foul on Yannick Atanga
+Santa Clara,BYU,49,54,22,26,1,Matt Carlino made Free Throw.
+Santa Clara,BYU,51,54,22,51,1,Marc Trasolini made Jumper.  Assisted by Kevin Foster.
+Santa Clara,BYU,51,54,23,4,0,Foul on Niyi Harrison
+Santa Clara,BYU,51,54,23,4,0,Brandon Davies missed Free Throw.
+Santa Clara,BYU,51,54,23,4,0,null
+Santa Clara,BYU,51,54,23,4,0,Brandon Davies missed Free Throw.
+Santa Clara,BYU,51,54,23,4,0,Marc Trasolini Defensive Rebound.
+Santa Clara,BYU,53,54,23,26,1,Kevin Foster made Jumper.
+Santa Clara,BYU,53,56,23,36,1,Brandon Davies made Jumper.  Assisted by Matt Carlino.
+Santa Clara,BYU,53,56,23,57,0,Kevin Foster missed Three Point Jumper.
+Santa Clara,BYU,53,56,23,57,0,Brock Zylstra Defensive Rebound.
+Santa Clara,BYU,53,58,24,5,1,Matt Carlino made Jumper.  Assisted by Brock Zylstra.
+Santa Clara,BYU,53,58,24,24,0,Marc Trasolini missed Jumper.
+Santa Clara,BYU,53,58,24,24,0,Brandon Davies Defensive Rebound.
+Santa Clara,BYU,53,58,24,44,0,Brandon Davies Turnover.
+Santa Clara,BYU,53,58,24,44,0,Foul on Brandon Davies
+Santa Clara,BYU,53,58,24,44,0,Official TV Timeout.
+Santa Clara,BYU,53,58,25,1,0,Niyi Harrison missed Jumper.
+Santa Clara,BYU,53,58,25,1,0,Brandon Davies Block.
+Santa Clara,BYU,53,58,25,3,0,Josh Sharp Defensive Rebound.
+Santa Clara,BYU,53,60,25,11,1,Tyler Haws made Jumper.
+Santa Clara,BYU,53,60,25,28,0,Evan Roquemore missed Jumper.
+Santa Clara,BYU,53,60,25,28,0,Brock Zylstra Defensive Rebound.
+Santa Clara,BYU,53,60,25,35,0,Foul on Kevin Foster
+Santa Clara,BYU,53,60,26,0,0,Tyler Haws missed Jumper.
+Santa Clara,BYU,53,60,26,0,0,Brandon Davies Offensive Rebound.
+Santa Clara,BYU,53,63,26,7,1,Matt Carlino made Three Point Jumper.  Assisted by Brandon Davies.
+Santa Clara,BYU,53,63,26,30,0,Foul on Josh Sharp
+Santa Clara,BYU,53,63,26,30,0,Niyi Harrison missed Free Throw.
+Santa Clara,BYU,53,63,26,30,0,null
+Santa Clara,BYU,54,63,26,30,1,Niyi Harrison made Free Throw.
+Santa Clara,BYU,54,65,26,47,1,Matt Carlino made Jumper.
+Santa Clara,BYU,54,65,27,3,0,Foul on Nate Austin
+Santa Clara,BYU,54,65,27,19,0,Brandon Clark missed Three Point Jumper.
+Santa Clara,BYU,54,65,27,19,0,Brandon Davies Defensive Rebound.
+Santa Clara,BYU,54,65,27,31,0,Brandon Davies missed Jumper.
+Santa Clara,BYU,54,65,27,31,0,Kevin Foster Defensive Rebound.
+Santa Clara,BYU,54,65,27,38,0,Kevin Foster missed Three Point Jumper.
+Santa Clara,BYU,54,65,27,38,0,Nate Austin Defensive Rebound.
+Santa Clara,BYU,54,68,27,48,1,Brock Zylstra made Three Point Jumper.  Assisted by Tyler Haws.
+Santa Clara,BYU,54,68,27,56,0,Santa Clara Full Timeout.
+Santa Clara,BYU,54,68,28,21,0,Official TV Timeout.
+Santa Clara,BYU,56,68,28,26,1,Brandon Clark made Jumper.
+Santa Clara,BYU,56,68,28,37,0,Brandon Davies missed Jumper.
+Santa Clara,BYU,56,68,28,37,0,Nate Austin Offensive Rebound.
+Santa Clara,BYU,56,68,28,49,0,Matt Carlino missed Three Point Jumper.
+Santa Clara,BYU,56,68,28,49,0,Marc Trasolini Defensive Rebound.
+Santa Clara,BYU,56,68,28,56,0,Evan Roquemore missed Three Point Jumper.
+Santa Clara,BYU,56,68,28,56,0,Marc Trasolini Offensive Rebound.
+Santa Clara,BYU,59,68,29,0,1,Kevin Foster made Three Point Jumper.  Assisted by Brandon Clark.
+Santa Clara,BYU,59,68,29,18,0,Foul on Marc Trasolini
+Santa Clara,BYU,59,68,29,18,0,Brandon Davies missed Free Throw.
+Santa Clara,BYU,59,68,29,18,0,null
+Santa Clara,BYU,59,68,29,18,0,Brandon Davies missed Free Throw.
+Santa Clara,BYU,59,68,29,18,0,Tyler Haws Offensive Rebound.
+Santa Clara,BYU,59,70,29,50,1,Brandon Davies made Jumper.
+Santa Clara,BYU,59,70,29,58,0,Kevin Foster missed Jumper.
+Santa Clara,BYU,59,70,29,58,0,Brandon Davies Defensive Rebound.
+Santa Clara,BYU,59,72,30,5,1,Tyler Haws made Layup.  Assisted by Brandon Davies.
+Santa Clara,BYU,59,72,30,36,0,Evan Roquemore missed Jumper.
+Santa Clara,BYU,59,72,30,36,0,Nate Austin Defensive Rebound.
+Santa Clara,BYU,59,72,31,0,0,Brigham Young Full Timeout.
+Santa Clara,BYU,59,74,31,6,1,Tyler Haws made Jumper.  Assisted by Craig Cusick.
+Santa Clara,BYU,59,74,31,18,0,Kevin Foster Turnover.
+Santa Clara,BYU,59,74,31,18,0,Brandon Davies Steal.
+Santa Clara,BYU,59,74,31,23,0,Tyler Haws Turnover.
+Santa Clara,BYU,59,74,31,42,0,Raymond Cowels III missed Three Point Jumper.
+Santa Clara,BYU,59,74,31,42,0,Brandon Davies Defensive Rebound.
+Santa Clara,BYU,59,76,31,58,1,Brandon Davies made Dunk.  Assisted by Craig Cusick.
+Santa Clara,BYU,59,76,31,58,0,Foul on John McArthur
+Santa Clara,BYU,59,76,31,58,0,Brandon Davies missed Free Throw.
+Santa Clara,BYU,59,76,31,58,0,Evan Roquemore Defensive Rebound.
+Santa Clara,BYU,59,76,32,15,0,Evan Roquemore missed Three Point Jumper.
+Santa Clara,BYU,59,76,32,17,0,Brigham Young Defensive Rebound.
+Santa Clara,BYU,59,76,32,17,0,Official TV Timeout.
+Santa Clara,BYU,59,76,32,43,0,Brock Zylstra missed Jumper.
+Santa Clara,BYU,59,76,32,43,0,Brandon Davies Offensive Rebound.
+Santa Clara,BYU,59,76,32,47,0,Brandon Davies Turnover.
+Santa Clara,BYU,59,76,32,48,0,Evan Roquemore Steal.
+Santa Clara,BYU,61,76,32,52,1,Kevin Foster made Layup.  Assisted by Evan Roquemore.
+Santa Clara,BYU,61,78,33,1,1,Matt Carlino made Jumper.
+Santa Clara,BYU,61,78,33,10,0,Kevin Foster missed Three Point Jumper.
+Santa Clara,BYU,61,78,33,10,0,Brandon Davies Defensive Rebound.
+Santa Clara,BYU,61,78,33,20,0,Brandon Davies missed Jumper.
+Santa Clara,BYU,61,78,33,20,0,Kevin Foster Defensive Rebound.
+Santa Clara,BYU,61,78,33,26,0,Kevin Foster Turnover.
+Santa Clara,BYU,61,78,33,27,0,Brock Zylstra Steal.
+Santa Clara,BYU,61,80,33,30,1,Brock Zylstra made Layup.
+Santa Clara,BYU,61,80,33,30,0,Foul on Kevin Foster
+Santa Clara,BYU,61,81,33,30,1,Brock Zylstra made Free Throw.
+Santa Clara,BYU,61,81,33,51,0,Raymond Cowels III missed Jumper.
+Santa Clara,BYU,61,81,33,51,0,Nate Austin Defensive Rebound.
+Santa Clara,BYU,61,81,33,59,0,Matt Carlino Turnover.
+Santa Clara,BYU,61,81,34,0,0,Evan Roquemore Steal.
+Santa Clara,BYU,61,81,34,6,0,Evan Roquemore missed Jumper.
+Santa Clara,BYU,61,81,34,6,0,Yannick Atanga Offensive Rebound.
+Santa Clara,BYU,63,81,34,8,1,Yannick Atanga made Jumper.
+Santa Clara,BYU,63,81,34,8,0,Foul on Tyler Haws
+Santa Clara,BYU,63,81,34,8,0,Yannick Atanga missed Free Throw.
+Santa Clara,BYU,63,81,34,8,0,Nate Austin Defensive Rebound.
+Santa Clara,BYU,63,84,34,29,1,Craig Cusick made Three Point Jumper.
+Santa Clara,BYU,63,84,34,38,0,Evan Roquemore Turnover.
+Santa Clara,BYU,63,84,34,39,0,Matt Carlino Steal.
+Santa Clara,BYU,63,86,34,40,1,Matt Carlino made Layup.
+Santa Clara,BYU,65,86,35,1,1,Marc Trasolini made Jumper.  Assisted by Brandon Clark.
+Santa Clara,BYU,65,88,35,32,1,Tyler Haws made Jumper.
+Santa Clara,BYU,65,88,35,45,0,Foul on Craig Cusick
+Santa Clara,BYU,66,88,35,45,1,Marc Trasolini made Free Throw.
+Santa Clara,BYU,67,88,35,45,1,Marc Trasolini made Free Throw.
+Santa Clara,BYU,67,88,35,56,0,Nate Austin missed Jumper.
+Santa Clara,BYU,67,88,35,56,0,Brandon Clark Defensive Rebound.
+Santa Clara,BYU,67,88,36,2,0,Foul on Matt Carlino
+Santa Clara,BYU,67,88,36,2,0,Official TV Timeout.
+Santa Clara,BYU,67,88,36,2,0,Brandon Clark missed Free Throw.
+Santa Clara,BYU,67,88,36,2,0,Yannick Atanga Offensive Rebound.
+Santa Clara,BYU,67,88,36,7,0,Kevin Foster Turnover.
+Santa Clara,BYU,67,88,36,7,0,Tyler Haws Steal.
+Santa Clara,BYU,67,88,36,9,0,Foul on Brandon Clark
+Santa Clara,BYU,67,89,36,9,1,Matt Carlino made Free Throw.
+Santa Clara,BYU,67,90,36,9,1,Matt Carlino made Free Throw.
+Santa Clara,BYU,67,90,36,26,0,Raymond Cowels III missed Three Point Jumper.
+Santa Clara,BYU,67,90,36,26,0,Tyler Haws Defensive Rebound.
+Santa Clara,BYU,67,90,36,27,0,Foul on Brandon Davies
+Santa Clara,BYU,68,90,36,27,1,Brandon Clark made Free Throw.
+Santa Clara,BYU,69,90,36,27,1,Brandon Clark made Free Throw.
+Santa Clara,BYU,69,90,36,42,0,Tyler Haws missed Jumper.
+Santa Clara,BYU,69,90,36,42,0,Yannick Atanga Defensive Rebound.
+Santa Clara,BYU,69,90,37,2,0,Raymond Cowels III missed Three Point Jumper.
+Santa Clara,BYU,69,90,37,2,0,Yannick Atanga Offensive Rebound.
+Santa Clara,BYU,69,90,37,4,0,Foul on Brandon Davies
+Santa Clara,BYU,69,90,37,4,0,Yannick Atanga missed Free Throw.
+Santa Clara,BYU,69,90,37,4,0,null
+Santa Clara,BYU,69,90,37,4,0,Yannick Atanga missed Free Throw.
+Santa Clara,BYU,69,90,37,4,0,Marc Trasolini Offensive Rebound.
+Santa Clara,BYU,71,90,37,11,1,Brandon Clark made Jumper.
+Santa Clara,BYU,71,90,37,31,0,Brigham Young Full Timeout.
+Santa Clara,BYU,71,92,37,33,1,Tyler Haws made Jumper.
+Santa Clara,BYU,71,92,37,43,0,Brandon Clark missed Jumper.
+Santa Clara,BYU,71,92,37,43,0,Brigham Young Defensive Rebound.
+Santa Clara,BYU,71,94,38,0,1,Tyler Haws made Layup.  Assisted by Brock Zylstra.
+Santa Clara,BYU,71,94,38,14,0,Foul on Bronson Kaufusi
+Santa Clara,BYU,72,94,38,14,1,Marc Trasolini made Free Throw.
+Santa Clara,BYU,73,94,38,14,1,Marc Trasolini made Free Throw.
+Santa Clara,BYU,73,94,38,33,0,Raul Delgado missed Three Point Jumper.
+Santa Clara,BYU,73,94,38,33,0,Marc Trasolini Defensive Rebound.
+Santa Clara,BYU,73,94,38,44,0,Foul on Josh Sharp
+Santa Clara,BYU,73,94,38,44,0,Marc Trasolini missed Free Throw.
+Santa Clara,BYU,73,94,38,44,0,null
+Santa Clara,BYU,74,94,38,44,1,Marc Trasolini made Free Throw.
+Santa Clara,BYU,74,94,39,2,0,Agustin Ambrosino missed Jumper.
+Santa Clara,BYU,74,94,39,2,0,Robert Garrett Block.
+Santa Clara,BYU,74,94,39,2,0,Brigham Young Offensive Rebound.
+Santa Clara,BYU,74,94,39,5,0,Foul on Robert Garrett
+Santa Clara,BYU,74,95,39,5,1,Agustin Ambrosino made Free Throw.
+Santa Clara,BYU,74,96,39,5,1,Agustin Ambrosino made Free Throw.
+Santa Clara,BYU,74,96,39,24,0,Brandon Clark missed Jumper.
+Santa Clara,BYU,74,96,39,24,0,Raul Delgado Block.
+Santa Clara,BYU,74,96,39,25,0,Julian Clarke Offensive Rebound.
+Santa Clara,BYU,77,96,39,28,1,Julian Clarke made Three Point Jumper.
+Santa Clara,BYU,77,96,39,41,0,Ian Harward missed Jumper.
+Santa Clara,BYU,77,96,39,41,0,Denzel Johnson Defensive Rebound.
+Santa Clara,BYU,77,96,39,42,0,Foul on Ian Harward
+Santa Clara,BYU,78,96,39,42,1,Denzel Johnson made Free Throw.
+Santa Clara,BYU,79,96,39,42,1,Denzel Johnson made Free Throw.
+Santa Clara,BYU,79,96,40,0,0,End Game

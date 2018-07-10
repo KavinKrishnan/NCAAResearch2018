@@ -1,0 +1,350 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Liberty,UNC Asheville,2,0,0,26,1,James Johnson made Jumper.
+Liberty,UNC Asheville,2,0,0,40,0,Marcus Neely missed Jumper.
+Liberty,UNC Asheville,2,0,0,40,0,Andrew Smith Defensive Rebound.
+Liberty,UNC Asheville,4,0,0,52,1,Andrew Smith made Layup. Assisted by Jordan Dembley.
+Liberty,UNC Asheville,4,2,1,20,1,David Robertson made Layup.
+Liberty,UNC Asheville,4,2,1,32,0,Andrew Smith missed Jumper.
+Liberty,UNC Asheville,4,2,1,32,0,Giacomo Zilli Defensive Rebound.
+Liberty,UNC Asheville,4,2,1,43,0,Foul on James Johnson.
+Liberty,UNC Asheville,4,2,1,51,0,Foul on James Johnson.
+Liberty,UNC Asheville,4,3,1,51,1,Giacomo Zilli made Free Throw.
+Liberty,UNC Asheville,4,3,1,51,0,Giacomo Zilli missed Free Throw.
+Liberty,UNC Asheville,4,3,1,51,0,James Johnson Defensive Rebound.
+Liberty,UNC Asheville,4,3,2,18,0,Theo Johnson missed Jumper.
+Liberty,UNC Asheville,4,3,2,18,0,Sam Hughes Defensive Rebound.
+Liberty,UNC Asheville,4,3,2,20,0,Foul on Andrew Smith.
+Liberty,UNC Asheville,4,3,2,39,0,Giacomo Zilli missed Layup.
+Liberty,UNC Asheville,4,3,2,39,0,Andrew Smith Block.
+Liberty,UNC Asheville,4,3,2,43,0,Ethan Layer Defensive Rebound.
+Liberty,UNC Asheville,4,3,2,52,0,Ethan Layer missed Three Point Jumper.
+Liberty,UNC Asheville,4,3,2,52,0,Sam Hughes Defensive Rebound.
+Liberty,UNC Asheville,4,3,3,6,0,Foul on David Andoh.
+Liberty,UNC Asheville,4,4,3,6,1,Giacomo Zilli made Free Throw.
+Liberty,UNC Asheville,4,5,3,6,1,Giacomo Zilli made Free Throw.
+Liberty,UNC Asheville,4,5,3,28,0,Foul on Sam Hughes.
+Liberty,UNC Asheville,4,5,3,40,0,Foul on Kevin Vannatta.
+Liberty,UNC Asheville,5,5,3,40,1,Theo Johnson made Free Throw.
+Liberty,UNC Asheville,6,5,3,40,1,Theo Johnson made Free Throw.
+Liberty,UNC Asheville,6,8,4,12,1,Andrew Rowsey made Three Point Jumper.
+Liberty,UNC Asheville,8,8,4,27,1,Andrew Smith made Layup.
+Liberty,UNC Asheville,8,8,4,28,0,Foul on Jaleel Roberts.
+Liberty,UNC Asheville,8,8,4,28,0,Official TV Timeout
+Liberty,UNC Asheville,8,8,4,28,0,Andrew Smith missed Free Throw.
+Liberty,UNC Asheville,8,8,4,28,0,UNC Asheville Deadball Team Rebound.
+Liberty,UNC Asheville,8,8,4,45,0,Ahmad Thomas Turnover.
+Liberty,UNC Asheville,8,8,4,45,0,Joe Retic Steal.
+Liberty,UNC Asheville,8,8,4,49,0,Joe Retic Turnover.
+Liberty,UNC Asheville,8,8,5,9,0,Corey Littlejohn Turnover.
+Liberty,UNC Asheville,8,8,5,10,0,David Andoh Steal.
+Liberty,UNC Asheville,8,8,5,10,0,Liberty  Timeout
+Liberty,UNC Asheville,8,8,5,27,0,Joe Retic missed Jumper.
+Liberty,UNC Asheville,8,8,5,27,0,David Andoh Offensive Rebound.
+Liberty,UNC Asheville,8,8,5,30,0,David Andoh missed Dunk.
+Liberty,UNC Asheville,8,8,5,30,0,Jaleel Roberts Defensive Rebound.
+Liberty,UNC Asheville,8,8,5,31,0,Foul on Joe Retic.
+Liberty,UNC Asheville,8,10,5,45,1,Andrew Rowsey made Jumper.
+Liberty,UNC Asheville,10,10,6,2,1,David Andoh made Layup.
+Liberty,UNC Asheville,10,10,6,23,0,Foul on Theo Johnson.
+Liberty,UNC Asheville,10,11,6,23,1,Andrew Rowsey made Free Throw.
+Liberty,UNC Asheville,10,12,6,23,1,Andrew Rowsey made Free Throw.
+Liberty,UNC Asheville,12,12,6,41,1,Andrew Smith made Jumper. Assisted by Joe Retic.
+Liberty,UNC Asheville,12,12,7,1,0,Jaleel Roberts missed Jumper.
+Liberty,UNC Asheville,12,12,7,1,0,Andrew Rowsey Offensive Rebound.
+Liberty,UNC Asheville,12,12,7,6,0,Andrew Rowsey Turnover.
+Liberty,UNC Asheville,12,12,7,28,0,Foul on Ahmad Thomas.
+Liberty,UNC Asheville,12,12,7,33,0,Joe Retic Turnover.
+Liberty,UNC Asheville,12,12,7,33,0,Sam Hughes Steal.
+Liberty,UNC Asheville,12,12,7,35,0,Sam Hughes Turnover.
+Liberty,UNC Asheville,12,12,7,35,0,Ryan Kemrite Steal.
+Liberty,UNC Asheville,12,12,7,38,0,Ryan Kemrite missed Layup.
+Liberty,UNC Asheville,12,12,7,38,0,Giacomo Zilli Defensive Rebound.
+Liberty,UNC Asheville,12,12,7,46,0,Andrew Rowsey missed Jumper.
+Liberty,UNC Asheville,12,12,7,46,0,Ryan Kemrite Defensive Rebound.
+Liberty,UNC Asheville,12,12,8,0,0,Foul on Giacomo Zilli.
+Liberty,UNC Asheville,12,12,8,1,0,Official TV Timeout
+Liberty,UNC Asheville,13,12,8,1,1,David Andoh made Free Throw.
+Liberty,UNC Asheville,14,12,8,1,1,David Andoh made Free Throw.
+Liberty,UNC Asheville,14,12,8,16,0,Sam Hughes missed Jumper.
+Liberty,UNC Asheville,14,12,8,16,0,Andrew Smith Defensive Rebound.
+Liberty,UNC Asheville,14,12,8,42,0,Foul on Kevin Vannatta.
+Liberty,UNC Asheville,15,12,8,42,1,Theo Johnson made Free Throw.
+Liberty,UNC Asheville,16,12,8,42,1,Theo Johnson made Free Throw.
+Liberty,UNC Asheville,16,12,9,5,0,Sam Hughes missed Layup.
+Liberty,UNC Asheville,16,12,9,5,0,Andrew Rowsey Offensive Rebound.
+Liberty,UNC Asheville,16,15,9,10,1,Andrew Rowsey made Three Point Jumper.
+Liberty,UNC Asheville,16,15,9,30,0,David Andoh missed Jumper.
+Liberty,UNC Asheville,16,15,9,30,0,Giacomo Zilli Defensive Rebound.
+Liberty,UNC Asheville,16,15,9,45,0,Andrew Rowsey missed Three Point Jumper.
+Liberty,UNC Asheville,16,15,9,45,0,Liberty Defensive Rebound.
+Liberty,UNC Asheville,18,15,10,6,1,David Andoh made Jumper.
+Liberty,UNC Asheville,18,18,10,17,1,Sam Hughes made Three Point Jumper. Assisted by Andrew Rowsey.
+Liberty,UNC Asheville,18,18,10,51,0,David Andoh Turnover.
+Liberty,UNC Asheville,18,18,10,51,0,Andrew Rowsey Steal.
+Liberty,UNC Asheville,18,18,11,0,0,Sam Hughes Turnover.
+Liberty,UNC Asheville,18,18,11,16,0,Theo Johnson Turnover.
+Liberty,UNC Asheville,18,18,11,16,0,Corey Littlejohn Steal.
+Liberty,UNC Asheville,18,20,11,20,1,Corey Littlejohn made Layup.
+Liberty,UNC Asheville,18,20,11,50,0,Jordan Dembley Turnover.
+Liberty,UNC Asheville,18,20,11,50,0,Giacomo Zilli Steal.
+Liberty,UNC Asheville,18,20,11,57,0,Foul on Giacomo Zilli.
+Liberty,UNC Asheville,18,20,11,57,0,Giacomo Zilli Turnover.
+Liberty,UNC Asheville,18,20,12,18,0,James Johnson missed Jumper.
+Liberty,UNC Asheville,18,20,12,18,0,Jaleel Roberts Block.
+Liberty,UNC Asheville,18,20,12,19,0,Andrew Smith Offensive Rebound.
+Liberty,UNC Asheville,18,20,12,29,0,Foul on Jordan Dembley.
+Liberty,UNC Asheville,18,20,12,29,0,Jordan Dembley Turnover.
+Liberty,UNC Asheville,18,20,12,29,0,Official TV Timeout
+Liberty,UNC Asheville,18,22,12,42,1,Jaleel Roberts made Jumper. Assisted by Andrew Rowsey.
+Liberty,UNC Asheville,18,22,13,12,0,Joe Retic missed Layup.
+Liberty,UNC Asheville,18,22,13,12,0,James Johnson Offensive Rebound.
+Liberty,UNC Asheville,18,22,13,13,0,James Johnson missed Layup.
+Liberty,UNC Asheville,18,22,13,13,0,Liberty Offensive Rebound.
+Liberty,UNC Asheville,18,22,13,44,0,Joe Retic missed Three Point Jumper.
+Liberty,UNC Asheville,18,22,13,44,0,David Andoh Offensive Rebound.
+Liberty,UNC Asheville,20,22,13,47,1,David Andoh made Layup.
+Liberty,UNC Asheville,20,22,13,55,0,Foul on Andrew Rowsey.
+Liberty,UNC Asheville,20,22,13,55,0,Andrew Rowsey Turnover.
+Liberty,UNC Asheville,22,22,14,18,1,David Andoh made Jumper. Assisted by Andrew Smith.
+Liberty,UNC Asheville,22,22,14,32,0,Andrew Rowsey missed Three Point Jumper.
+Liberty,UNC Asheville,22,22,14,32,0,Jaleel Roberts Offensive Rebound.
+Liberty,UNC Asheville,22,24,14,34,1,Jaleel Roberts made Two Point Tip Shot.
+Liberty,UNC Asheville,22,24,14,50,0,David Andoh missed Jumper.
+Liberty,UNC Asheville,22,24,14,50,0,David Robertson Defensive Rebound.
+Liberty,UNC Asheville,22,24,15,12,0,Ahmad Thomas Turnover.
+Liberty,UNC Asheville,22,24,15,38,0,Theo Johnson missed Jumper.
+Liberty,UNC Asheville,22,24,15,38,0,Jaleel Roberts Defensive Rebound.
+Liberty,UNC Asheville,22,24,15,45,0,Ahmad Thomas missed Jumper.
+Liberty,UNC Asheville,22,24,15,45,0,David Andoh Defensive Rebound.
+Liberty,UNC Asheville,22,24,16,4,0,Theo Johnson Turnover.
+Liberty,UNC Asheville,22,24,16,4,0,Jaleel Roberts Steal.
+Liberty,UNC Asheville,22,24,16,11,0,David Robertson missed Three Point Jumper.
+Liberty,UNC Asheville,22,24,16,11,0,Sam Hughes Offensive Rebound.
+Liberty,UNC Asheville,22,24,16,34,0,David Robertson missed Three Point Jumper.
+Liberty,UNC Asheville,22,24,16,34,0,UNC Asheville Offensive Rebound.
+Liberty,UNC Asheville,22,24,16,39,0,Official TV Timeout
+Liberty,UNC Asheville,22,26,16,44,1,Sam Hughes made Layup. Assisted by David Robertson.
+Liberty,UNC Asheville,22,26,17,7,0,David Andoh missed Jumper.
+Liberty,UNC Asheville,22,26,17,7,0,David Robertson Defensive Rebound.
+Liberty,UNC Asheville,22,26,17,8,0,Foul on David Andoh.
+Liberty,UNC Asheville,22,26,17,8,0,Kevin Vannatta missed Free Throw.
+Liberty,UNC Asheville,22,26,17,8,0,Liberty Defensive Rebound.
+Liberty,UNC Asheville,22,26,17,23,0,Joe Retic missed Jumper.
+Liberty,UNC Asheville,22,26,17,23,0,Jaleel Roberts Defensive Rebound.
+Liberty,UNC Asheville,22,26,17,35,0,Foul on Theo Johnson.
+Liberty,UNC Asheville,22,27,17,35,1,Andrew Rowsey made Free Throw.
+Liberty,UNC Asheville,22,27,17,35,0,Andrew Rowsey missed Free Throw.
+Liberty,UNC Asheville,22,27,17,35,0,Andrew Smith Defensive Rebound.
+Liberty,UNC Asheville,22,27,17,35,0,Foul on Sam Hughes.
+Liberty,UNC Asheville,23,27,17,35,1,Andrew Smith made Free Throw.
+Liberty,UNC Asheville,24,27,17,35,1,Andrew Smith made Free Throw.
+Liberty,UNC Asheville,24,30,17,45,1,Andrew Rowsey made Three Point Jumper. Assisted by Ahmad Thomas.
+Liberty,UNC Asheville,26,30,18,0,1,Andrew Smith made Layup.
+Liberty,UNC Asheville,26,30,18,16,0,Ahmad Thomas Turnover.
+Liberty,UNC Asheville,26,30,18,16,0,Joe Retic Steal.
+Liberty,UNC Asheville,26,30,18,27,0,Foul on Corey Littlejohn.
+Liberty,UNC Asheville,26,30,18,27,0,Ryan Kemrite missed Free Throw.
+Liberty,UNC Asheville,26,30,18,27,0,Liberty Deadball Team Rebound.
+Liberty,UNC Asheville,27,30,18,27,1,Ryan Kemrite made Free Throw.
+Liberty,UNC Asheville,27,30,18,44,0,David Robertson missed Three Point Jumper.
+Liberty,UNC Asheville,27,30,18,44,0,A.C. Reid Defensive Rebound.
+Liberty,UNC Asheville,27,30,18,57,0,Joe Retic missed Jumper.
+Liberty,UNC Asheville,27,30,18,57,0,Jaleel Roberts Defensive Rebound.
+Liberty,UNC Asheville,27,30,19,3,0,Corey Littlejohn missed Layup.
+Liberty,UNC Asheville,27,30,19,3,0,David Andoh Defensive Rebound.
+Liberty,UNC Asheville,30,30,19,22,1,Ryan Kemrite made Three Point Jumper. Assisted by Joe Retic.
+Liberty,UNC Asheville,30,30,19,28,0,UNC Asheville  Timeout
+Liberty,UNC Asheville,30,33,19,54,1,Andrew Rowsey made Three Point Jumper.
+Liberty,UNC Asheville,30,33,20,0,0,End of 1st half
+Liberty,UNC Asheville,30,33,20,31,0,Giacomo Zilli Turnover.
+Liberty,UNC Asheville,30,33,20,47,0,James Johnson Turnover.
+Liberty,UNC Asheville,30,33,20,48,0,Kevin Vannatta Steal.
+Liberty,UNC Asheville,30,35,21,6,1,Kevin Vannatta made Jumper.
+Liberty,UNC Asheville,30,35,21,20,0,Foul on Marcus Neely.
+Liberty,UNC Asheville,30,35,21,20,0,Andrew Smith missed Free Throw.
+Liberty,UNC Asheville,30,35,21,20,0,Liberty Deadball Team Rebound.
+Liberty,UNC Asheville,30,35,21,20,0,Andrew Smith missed Free Throw.
+Liberty,UNC Asheville,30,35,21,20,0,Giacomo Zilli Defensive Rebound.
+Liberty,UNC Asheville,30,35,21,37,0,David Robertson Turnover.
+Liberty,UNC Asheville,30,35,21,38,0,Andrew Smith Steal.
+Liberty,UNC Asheville,30,35,21,59,0,Theo Johnson missed Three Point Jumper.
+Liberty,UNC Asheville,30,35,21,59,0,Giacomo Zilli Defensive Rebound.
+Liberty,UNC Asheville,30,35,22,0,0,Foul on James Johnson.
+Liberty,UNC Asheville,30,37,22,13,1,Andrew Rowsey made Jumper.
+Liberty,UNC Asheville,30,37,22,31,0,Foul on Giacomo Zilli.
+Liberty,UNC Asheville,30,37,22,35,0,Theo Johnson Turnover.
+Liberty,UNC Asheville,30,37,22,58,0,Sam Hughes missed Jumper.
+Liberty,UNC Asheville,30,37,22,58,0,Kevin Vannatta Offensive Rebound.
+Liberty,UNC Asheville,30,40,23,3,1,Andrew Rowsey made Three Point Jumper. Assisted by Kevin Vannatta.
+Liberty,UNC Asheville,30,40,23,8,0,Liberty  Timeout
+Liberty,UNC Asheville,30,40,23,8,0,Official TV Timeout
+Liberty,UNC Asheville,30,40,23,24,0,Andrew Smith missed Layup.
+Liberty,UNC Asheville,30,40,23,24,0,Andrew Smith Offensive Rebound.
+Liberty,UNC Asheville,32,40,23,26,1,Andrew Smith made Two Point Tip Shot.
+Liberty,UNC Asheville,32,40,23,42,0,Foul on Theo Johnson.
+Liberty,UNC Asheville,32,43,23,50,1,Andrew Rowsey made Three Point Jumper. Assisted by Jaleel Roberts.
+Liberty,UNC Asheville,32,43,24,10,0,Foul on Jaleel Roberts.
+Liberty,UNC Asheville,32,43,24,10,0,Official TV Timeout
+Liberty,UNC Asheville,33,43,24,10,1,David Andoh made Free Throw.
+Liberty,UNC Asheville,34,43,24,10,1,David Andoh made Free Throw.
+Liberty,UNC Asheville,34,43,24,25,0,David Robertson missed Three Point Jumper.
+Liberty,UNC Asheville,34,43,24,25,0,Jordan Dembley Defensive Rebound.
+Liberty,UNC Asheville,34,43,24,50,0,Joe Retic Turnover.
+Liberty,UNC Asheville,34,45,25,9,1,Sam Hughes made Jumper.
+Liberty,UNC Asheville,34,45,25,24,0,David Andoh missed Jumper.
+Liberty,UNC Asheville,34,45,25,24,0,David Andoh Offensive Rebound.
+Liberty,UNC Asheville,36,45,25,30,1,David Andoh made Layup.
+Liberty,UNC Asheville,36,45,25,30,0,Foul on Jaleel Roberts.
+Liberty,UNC Asheville,37,45,25,30,1,David Andoh made Free Throw.
+Liberty,UNC Asheville,37,45,25,38,0,Sam Hughes Turnover.
+Liberty,UNC Asheville,37,45,25,39,0,Ryan Kemrite Steal.
+Liberty,UNC Asheville,37,45,25,44,0,Theo Johnson missed Layup.
+Liberty,UNC Asheville,37,45,25,44,0,Andrew Smith Offensive Rebound.
+Liberty,UNC Asheville,37,45,25,47,0,Andrew Smith missed Jumper.
+Liberty,UNC Asheville,37,45,25,47,0,David Robertson Defensive Rebound.
+Liberty,UNC Asheville,37,45,25,55,0,Foul on Andrew Smith.
+Liberty,UNC Asheville,37,46,25,55,1,David Robertson made Free Throw.
+Liberty,UNC Asheville,37,47,25,55,1,David Robertson made Free Throw.
+Liberty,UNC Asheville,40,47,26,14,1,Ryan Kemrite made Three Point Jumper. Assisted by Theo Johnson.
+Liberty,UNC Asheville,40,47,26,22,0,Andrew Rowsey Turnover.
+Liberty,UNC Asheville,42,47,26,41,1,Theo Johnson made Layup.
+Liberty,UNC Asheville,42,47,26,55,0,Andrew Rowsey Turnover.
+Liberty,UNC Asheville,42,47,26,57,0,Theo Johnson Steal.
+Liberty,UNC Asheville,44,47,27,20,1,David Andoh made Layup.
+Liberty,UNC Asheville,44,47,27,23,0,UNC Asheville  Timeout
+Liberty,UNC Asheville,44,47,27,44,0,Sam Hughes missed Jumper.
+Liberty,UNC Asheville,44,47,27,44,0,Ryan Kemrite Defensive Rebound.
+Liberty,UNC Asheville,44,47,27,54,0,David Andoh Turnover.
+Liberty,UNC Asheville,44,47,27,56,0,David Robertson Steal.
+Liberty,UNC Asheville,44,49,28,0,1,Sam Hughes made Layup. Assisted by David Robertson.
+Liberty,UNC Asheville,44,49,28,13,0,Foul on Ryan Kemrite.
+Liberty,UNC Asheville,44,49,28,38,0,James Johnson missed Jumper.
+Liberty,UNC Asheville,44,49,28,38,0,Sam Hughes Defensive Rebound.
+Liberty,UNC Asheville,44,49,28,38,0,David Robertson missed Three Point Jumper.
+Liberty,UNC Asheville,44,49,28,38,0,Ahmad Thomas Offensive Rebound.
+Liberty,UNC Asheville,44,51,28,38,1,Ahmad Thomas made Two Point Tip Shot.
+Liberty,UNC Asheville,44,51,28,38,0,UNC Asheville  Timeout
+Liberty,UNC Asheville,47,51,29,9,1,Theo Johnson made Three Point Jumper. Assisted by Joe Retic.
+Liberty,UNC Asheville,47,51,29,40,0,David Robertson missed Jumper.
+Liberty,UNC Asheville,47,51,29,40,0,David Andoh Defensive Rebound.
+Liberty,UNC Asheville,47,51,29,52,0,Official TV Timeout
+Liberty,UNC Asheville,49,51,29,56,1,David Andoh made Dunk.
+Liberty,UNC Asheville,49,51,30,23,0,Kevin Vannatta missed Jumper.
+Liberty,UNC Asheville,49,51,30,23,0,Jaleel Roberts Offensive Rebound.
+Liberty,UNC Asheville,49,51,30,27,0,UNC Asheville  Timeout
+Liberty,UNC Asheville,49,53,30,30,1,Jaleel Roberts made Dunk. Assisted by Andrew Rowsey.
+Liberty,UNC Asheville,49,53,30,55,0,Joe Retic missed Three Point Jumper.
+Liberty,UNC Asheville,49,53,30,55,0,Kevin Vannatta Defensive Rebound.
+Liberty,UNC Asheville,49,56,31,2,1,David Robertson made Three Point Jumper. Assisted by Kevin Vannatta.
+Liberty,UNC Asheville,52,56,31,28,1,Ryan Kemrite made Three Point Jumper. Assisted by Theo Johnson.
+Liberty,UNC Asheville,52,56,31,52,0,Andrew Rowsey Turnover.
+Liberty,UNC Asheville,52,56,32,10,0,Theo Johnson Turnover.
+Liberty,UNC Asheville,52,56,32,11,0,David Robertson Steal.
+Liberty,UNC Asheville,52,56,32,17,0,David Robertson missed Jumper.
+Liberty,UNC Asheville,52,56,32,17,0,Ahmad Thomas Offensive Rebound.
+Liberty,UNC Asheville,52,56,32,21,0,Ahmad Thomas missed Layup.
+Liberty,UNC Asheville,52,56,32,21,0,UNC Asheville Offensive Rebound.
+Liberty,UNC Asheville,52,56,32,22,0,Official TV Timeout
+Liberty,UNC Asheville,52,58,32,31,1,Kevin Vannatta made Layup. Assisted by Jaleel Roberts.
+Liberty,UNC Asheville,54,58,32,58,1,Theo Johnson made Layup.
+Liberty,UNC Asheville,54,60,33,10,1,Jaleel Roberts made Layup. Assisted by Kevin Vannatta.
+Liberty,UNC Asheville,54,60,33,33,0,Ryan Kemrite missed Three Point Jumper.
+Liberty,UNC Asheville,54,60,33,33,0,Jaleel Roberts Defensive Rebound.
+Liberty,UNC Asheville,54,63,33,54,1,Andrew Rowsey made Three Point Jumper.
+Liberty,UNC Asheville,54,63,34,13,0,Andrew Smith Turnover.
+Liberty,UNC Asheville,54,63,34,27,0,Andrew Rowsey missed Jumper.
+Liberty,UNC Asheville,54,63,34,27,0,Andrew Smith Defensive Rebound.
+Liberty,UNC Asheville,54,63,34,29,0,Foul on Jaleel Roberts.
+Liberty,UNC Asheville,54,63,34,35,0,Liberty  Timeout
+Liberty,UNC Asheville,54,63,34,41,0,David Andoh Turnover.
+Liberty,UNC Asheville,54,63,34,41,0,Ahmad Thomas Steal.
+Liberty,UNC Asheville,54,63,34,44,0,Foul on David Andoh.
+Liberty,UNC Asheville,54,63,34,44,0,Ahmad Thomas missed Free Throw.
+Liberty,UNC Asheville,54,63,34,44,0,UNC Asheville Deadball Team Rebound.
+Liberty,UNC Asheville,54,64,34,44,1,Ahmad Thomas made Free Throw.
+Liberty,UNC Asheville,54,64,34,58,0,Theo Johnson Turnover.
+Liberty,UNC Asheville,54,64,34,58,0,Kevin Vannatta Steal.
+Liberty,UNC Asheville,54,64,34,58,0,Foul on Theo Johnson.
+Liberty,UNC Asheville,54,64,35,20,0,Ahmad Thomas missed Jumper.
+Liberty,UNC Asheville,54,64,35,20,0,Kevin Vannatta Offensive Rebound.
+Liberty,UNC Asheville,54,64,35,36,0,Andrew Rowsey missed Three Point Jumper.
+Liberty,UNC Asheville,54,64,35,36,0,David Andoh Defensive Rebound.
+Liberty,UNC Asheville,54,64,36,8,0,Jordan Dembley Turnover.
+Liberty,UNC Asheville,54,64,36,8,0,Giacomo Zilli Steal.
+Liberty,UNC Asheville,54,64,36,33,0,Foul on Theo Johnson.
+Liberty,UNC Asheville,54,64,36,34,0,Official TV Timeout
+Liberty,UNC Asheville,54,65,36,34,1,David Robertson made Free Throw.
+Liberty,UNC Asheville,54,66,36,34,1,David Robertson made Free Throw.
+Liberty,UNC Asheville,56,66,36,46,1,Joe Retic made Layup. Assisted by Andrew Smith.
+Liberty,UNC Asheville,56,66,36,59,0,Foul on David Andoh.
+Liberty,UNC Asheville,56,67,36,59,1,David Robertson made Free Throw.
+Liberty,UNC Asheville,56,68,36,59,1,David Robertson made Free Throw.
+Liberty,UNC Asheville,56,68,37,11,0,David Andoh missed Jumper.
+Liberty,UNC Asheville,56,68,37,11,0,Andrew Smith Offensive Rebound.
+Liberty,UNC Asheville,58,68,37,13,1,Andrew Smith made Dunk.
+Liberty,UNC Asheville,58,68,37,13,0,Liberty  Timeout
+Liberty,UNC Asheville,58,68,37,20,0,Foul on Andrew Smith.
+Liberty,UNC Asheville,58,68,37,20,0,Ahmad Thomas missed Free Throw.
+Liberty,UNC Asheville,58,68,37,20,0,David Andoh Defensive Rebound.
+Liberty,UNC Asheville,58,68,37,42,0,David Andoh missed Jumper.
+Liberty,UNC Asheville,58,68,37,42,0,David Andoh Offensive Rebound.
+Liberty,UNC Asheville,60,68,37,44,1,David Andoh made Two Point Tip Shot.
+Liberty,UNC Asheville,60,68,37,49,0,UNC Asheville  Timeout
+Liberty,UNC Asheville,60,68,37,58,0,Sam Hughes Turnover.
+Liberty,UNC Asheville,60,68,37,59,0,Andrew Smith Steal.
+Liberty,UNC Asheville,60,68,38,1,0,Foul on Sam Hughes.
+Liberty,UNC Asheville,60,68,38,1,0,Joe Retic missed Free Throw.
+Liberty,UNC Asheville,60,68,38,1,0,Liberty Deadball Team Rebound.
+Liberty,UNC Asheville,61,68,38,1,1,Joe Retic made Free Throw.
+Liberty,UNC Asheville,61,68,38,1,0,Foul on Ryan Kemrite.
+Liberty,UNC Asheville,61,69,38,1,1,Andrew Rowsey made Free Throw.
+Liberty,UNC Asheville,61,70,38,1,1,Andrew Rowsey made Free Throw.
+Liberty,UNC Asheville,61,70,38,9,0,Jordan Dembley missed Layup.
+Liberty,UNC Asheville,61,70,38,9,0,David Andoh Offensive Rebound.
+Liberty,UNC Asheville,61,70,38,13,0,David Andoh missed Jumper.
+Liberty,UNC Asheville,61,70,38,13,0,Jaleel Roberts Block.
+Liberty,UNC Asheville,61,70,38,15,0,David Robertson Defensive Rebound.
+Liberty,UNC Asheville,61,72,38,18,1,Sam Hughes made Dunk. Assisted by David Robertson.
+Liberty,UNC Asheville,61,72,38,25,0,Ethan Layer missed Three Point Jumper.
+Liberty,UNC Asheville,61,72,38,25,0,Jaleel Roberts Defensive Rebound.
+Liberty,UNC Asheville,61,72,38,27,0,Foul on David Andoh.
+Liberty,UNC Asheville,61,72,38,27,0,Sam Hughes missed Free Throw.
+Liberty,UNC Asheville,61,72,38,27,0,UNC Asheville Deadball Team Rebound.
+Liberty,UNC Asheville,61,73,38,27,1,Sam Hughes made Free Throw.
+Liberty,UNC Asheville,63,73,38,35,1,Joe Retic made Jumper.
+Liberty,UNC Asheville,63,73,38,49,0,Andrew Rowsey missed Layup.
+Liberty,UNC Asheville,63,73,38,49,0,Jordan Dembley Block.
+Liberty,UNC Asheville,63,73,38,50,0,Liberty Defensive Rebound.
+Liberty,UNC Asheville,66,73,38,57,1,Joe Retic made Three Point Jumper.
+Liberty,UNC Asheville,66,73,38,58,0,Liberty  Timeout
+Liberty,UNC Asheville,66,73,39,3,0,Kevin Vannatta Turnover.
+Liberty,UNC Asheville,66,73,39,10,0,Ryan Kemrite missed Layup.
+Liberty,UNC Asheville,66,73,39,10,0,Jaleel Roberts Block.
+Liberty,UNC Asheville,66,73,39,14,0,James Johnson Offensive Rebound.
+Liberty,UNC Asheville,66,73,39,15,0,James Johnson Turnover.
+Liberty,UNC Asheville,66,73,39,15,0,Andrew Rowsey Steal.
+Liberty,UNC Asheville,66,73,39,15,0,Foul on Ethan Layer.
+Liberty,UNC Asheville,66,74,39,15,1,Andrew Rowsey made Free Throw.
+Liberty,UNC Asheville,66,75,39,15,1,Andrew Rowsey made Free Throw.
+Liberty,UNC Asheville,68,75,39,24,1,Andrew Smith made Jumper. Assisted by Jordan Dembley.
+Liberty,UNC Asheville,68,75,39,26,0,Foul on Ryan Kemrite.
+Liberty,UNC Asheville,68,76,39,26,1,David Robertson made Free Throw.
+Liberty,UNC Asheville,68,77,39,26,1,David Robertson made Free Throw.
+Liberty,UNC Asheville,68,77,39,31,0,Joe Retic Turnover.
+Liberty,UNC Asheville,68,77,39,33,0,Foul on Joe Retic.
+Liberty,UNC Asheville,68,78,39,33,1,David Robertson made Free Throw.
+Liberty,UNC Asheville,68,78,39,33,0,David Robertson missed Free Throw.
+Liberty,UNC Asheville,68,78,39,33,0,Andrew Smith Defensive Rebound.
+Liberty,UNC Asheville,68,78,39,44,0,Ethan Layer missed Three Point Jumper.
+Liberty,UNC Asheville,68,78,39,44,0,Ethan Layer Offensive Rebound.
+Liberty,UNC Asheville,68,78,39,48,0,Ethan Layer missed Three Point Jumper.
+Liberty,UNC Asheville,68,78,39,48,0,Ryan Kemrite Offensive Rebound.
+Liberty,UNC Asheville,68,78,39,51,0,Foul on Ahmad Thomas.
+Liberty,UNC Asheville,69,78,39,51,1,Ryan Kemrite made Free Throw.
+Liberty,UNC Asheville,70,78,39,51,1,Ryan Kemrite made Free Throw.
+Liberty,UNC Asheville,70,78,39,56,0,Foul on Joe Retic.
+Liberty,UNC Asheville,70,79,39,56,1,Andrew Rowsey made Free Throw.
+Liberty,UNC Asheville,70,80,39,56,1,Andrew Rowsey made Free Throw.
+Liberty,UNC Asheville,70,80,40,0,0,Calvin Hoffman missed Three Point Jumper.
+Liberty,UNC Asheville,70,80,40,0,0,Ahmad Thomas Defensive Rebound.
+Liberty,UNC Asheville,70,80,40,0,0,End of Game

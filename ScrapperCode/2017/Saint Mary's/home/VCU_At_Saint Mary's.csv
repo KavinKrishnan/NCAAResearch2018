@@ -1,0 +1,365 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+VCU,Saint Mary's,0,0,0,0,0,Jump Ball won by Saint Mary's
+VCU,Saint Mary's,0,0,0,14,0,Emmett Naar missed Three Point Jumper.
+VCU,Saint Mary's,0,0,0,14,0,Justin Tillman Defensive Rebound.
+VCU,Saint Mary's,0,0,0,34,0,Mo Alie-Cox missed Jumper.
+VCU,Saint Mary's,0,0,0,34,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,0,0,1,2,0,Foul on Doug Brooks.
+VCU,Saint Mary's,0,0,1,18,0,Emmett Naar Turnover.
+VCU,Saint Mary's,0,0,1,18,0,Mo Alie-Cox Steal.
+VCU,Saint Mary's,0,0,1,32,0,Doug Brooks missed Layup.
+VCU,Saint Mary's,0,0,1,32,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,0,2,1,49,1,Joe Rahon made Layup.
+VCU,Saint Mary's,0,2,2,3,0,Justin Tillman Turnover.
+VCU,Saint Mary's,0,2,2,3,0,Joe Rahon Steal.
+VCU,Saint Mary's,0,2,2,10,0,Joe Rahon missed Layup.
+VCU,Saint Mary's,0,2,2,10,0,Justin Tillman Block.
+VCU,Saint Mary's,0,2,2,10,0,Saint Mary's Offensive Rebound.
+VCU,Saint Mary's,0,2,2,13,0,Joe Rahon Turnover.
+VCU,Saint Mary's,2,2,2,23,1,JeQuan Lewis made Layup.
+VCU,Saint Mary's,2,2,2,23,0,Foul on Joe Rahon.
+VCU,Saint Mary's,2,2,2,23,0,JeQuan Lewis missed Free Throw.
+VCU,Saint Mary's,2,2,2,23,0,Calvin Hermanson Defensive Rebound.
+VCU,Saint Mary's,2,2,2,34,0,Evan Fitzner Turnover.
+VCU,Saint Mary's,2,2,2,47,0,JeQuan Lewis missed Jumper.
+VCU,Saint Mary's,2,2,2,47,0,Jordan Burgess Offensive Rebound.
+VCU,Saint Mary's,4,2,2,52,1,Jordan Burgess made Jumper.
+VCU,Saint Mary's,4,2,3,12,0,Joe Rahon missed Layup.
+VCU,Saint Mary's,4,2,3,12,0,Calvin Hermanson Offensive Rebound.
+VCU,Saint Mary's,4,2,3,17,0,Calvin Hermanson Turnover.
+VCU,Saint Mary's,6,2,3,21,1,Jordan Burgess made Layup.
+VCU,Saint Mary's,6,2,3,21,0,Foul on Calvin Hermanson.
+VCU,Saint Mary's,7,2,3,21,1,Jordan Burgess made Free Throw.
+VCU,Saint Mary's,7,4,3,39,1,Jock Landale made Layup. Assisted by Joe Rahon.
+VCU,Saint Mary's,7,4,3,59,0,JeQuan Lewis Turnover.
+VCU,Saint Mary's,7,6,4,18,1,Jock Landale made Layup.
+VCU,Saint Mary's,7,6,4,32,0,Samir Doughty missed Jumper.
+VCU,Saint Mary's,7,6,4,32,0,Dane Pineau Defensive Rebound.
+VCU,Saint Mary's,7,6,4,41,0,Foul on Samir Doughty.
+VCU,Saint Mary's,7,6,4,41,0,Official TV Timeout
+VCU,Saint Mary's,7,6,4,59,0,Emmett Naar Turnover.
+VCU,Saint Mary's,7,6,4,59,0,Ahmed Hamdy-Mohamed Steal.
+VCU,Saint Mary's,7,6,5,13,0,Jordan Burgess Turnover.
+VCU,Saint Mary's,7,6,5,13,0,Emmett Naar Steal.
+VCU,Saint Mary's,7,9,5,19,1,Joe Rahon made Three Point Jumper. Assisted by Emmett Naar.
+VCU,Saint Mary's,9,9,5,42,1,Ahmed Hamdy-Mohamed made Layup.
+VCU,Saint Mary's,9,11,5,52,1,Joe Rahon made Layup.
+VCU,Saint Mary's,11,11,6,2,1,Justin Tillman made Layup. Assisted by Jonathan Williams.
+VCU,Saint Mary's,11,11,6,22,0,Foul on Jonathan Williams.
+VCU,Saint Mary's,11,13,6,33,1,Dane Pineau made Layup. Assisted by Joe Rahon.
+VCU,Saint Mary's,11,13,6,46,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Saint Mary's,11,13,6,46,0,Mo Alie-Cox Offensive Rebound.
+VCU,Saint Mary's,13,13,7,6,1,JeQuan Lewis made Layup. Assisted by Jonathan Williams.
+VCU,Saint Mary's,13,13,7,26,0,Foul on Malik Crowfield.
+VCU,Saint Mary's,13,13,7,27,0,Emmett Naar missed Three Point Jumper.
+VCU,Saint Mary's,13,13,7,27,0,Jonathan Williams Defensive Rebound.
+VCU,Saint Mary's,15,13,7,34,1,Jonathan Williams made Layup.
+VCU,Saint Mary's,15,13,7,34,0,Foul on Dane Pineau.
+VCU,Saint Mary's,16,13,7,34,1,Jonathan Williams made Free Throw.
+VCU,Saint Mary's,16,13,7,46,0,Foul on Dane Pineau.
+VCU,Saint Mary's,16,13,7,46,0,Dane Pineau Turnover.
+VCU,Saint Mary's,16,13,8,9,0,Jonathan Williams missed Jumper.
+VCU,Saint Mary's,16,13,8,9,0,Joe Rahon Defensive Rebound.
+VCU,Saint Mary's,16,13,8,13,0,Foul on Ahmed Hamdy-Mohamed.
+VCU,Saint Mary's,16,13,8,13,0,Official TV Timeout
+VCU,Saint Mary's,16,15,8,32,1,Tanner Krebs made Jumper.
+VCU,Saint Mary's,16,15,8,45,0,Mo Alie-Cox missed Layup.
+VCU,Saint Mary's,16,15,8,45,0,Saint Mary's Defensive Rebound.
+VCU,Saint Mary's,16,15,8,46,0,Foul on Mo Alie-Cox.
+VCU,Saint Mary's,16,17,9,6,1,Jock Landale made Jumper.
+VCU,Saint Mary's,16,17,9,23,0,Ahmed Hamdy-Mohamed missed Layup.
+VCU,Saint Mary's,16,17,9,23,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,16,17,9,33,0,Joe Rahon missed Layup.
+VCU,Saint Mary's,16,17,9,33,0,Justin Tillman Defensive Rebound.
+VCU,Saint Mary's,18,17,9,43,1,De'Riante Jenkins made Jumper.
+VCU,Saint Mary's,18,17,10,7,0,Tanner Krebs Turnover.
+VCU,Saint Mary's,18,17,10,7,0,JeQuan Lewis Steal.
+VCU,Saint Mary's,18,17,10,14,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Saint Mary's,18,17,10,14,0,Tanner Krebs Defensive Rebound.
+VCU,Saint Mary's,18,19,10,34,1,Jock Landale made Layup.
+VCU,Saint Mary's,18,19,10,56,0,Foul on Joe Rahon.
+VCU,Saint Mary's,18,19,11,4,0,Justin Tillman missed Jumper.
+VCU,Saint Mary's,18,19,11,4,0,Tanner Krebs Defensive Rebound.
+VCU,Saint Mary's,18,19,11,16,0,Evan Fitzner missed Three Point Jumper.
+VCU,Saint Mary's,18,19,11,16,0,Jonathan Williams Defensive Rebound.
+VCU,Saint Mary's,18,19,11,25,0,Jonathan Williams missed Layup.
+VCU,Saint Mary's,18,19,11,25,0,Jock Landale Block.
+VCU,Saint Mary's,18,19,11,25,0,Calvin Hermanson Defensive Rebound.
+VCU,Saint Mary's,18,22,11,32,1,Calvin Hermanson made Three Point Jumper. Assisted by Emmett Naar.
+VCU,Saint Mary's,18,22,11,54,0,De'Riante Jenkins Turnover.
+VCU,Saint Mary's,18,22,11,54,0,Tanner Krebs Steal.
+VCU,Saint Mary's,18,25,12,11,1,Calvin Hermanson made Three Point Jumper. Assisted by Emmett Naar.
+VCU,Saint Mary's,18,25,12,14,0,VCU  Timeout
+VCU,Saint Mary's,18,25,12,26,0,Doug Brooks missed Three Point Jumper.
+VCU,Saint Mary's,18,25,12,26,0,Saint Mary's Defensive Rebound.
+VCU,Saint Mary's,18,25,12,29,0,Foul on Justin Tillman.
+VCU,Saint Mary's,18,25,12,29,0,Official TV Timeout
+VCU,Saint Mary's,18,26,12,29,1,Tanner Krebs made Free Throw.
+VCU,Saint Mary's,18,27,12,29,1,Tanner Krebs made Free Throw.
+VCU,Saint Mary's,20,27,12,37,1,Samir Doughty made Jumper.
+VCU,Saint Mary's,20,27,12,42,0,Foul on Doug Brooks.
+VCU,Saint Mary's,20,28,12,42,1,Joe Rahon made Free Throw.
+VCU,Saint Mary's,20,29,12,42,1,Joe Rahon made Free Throw.
+VCU,Saint Mary's,20,29,12,57,0,Mo Alie-Cox Turnover.
+VCU,Saint Mary's,20,29,12,57,0,Joe Rahon Steal.
+VCU,Saint Mary's,20,31,13,2,1,Tanner Krebs made Dunk. Assisted by Calvin Hermanson.
+VCU,Saint Mary's,22,31,13,13,1,JeQuan Lewis made Jumper.
+VCU,Saint Mary's,22,34,13,47,1,Evan Fitzner made Three Point Jumper.
+VCU,Saint Mary's,22,34,13,59,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Saint Mary's,22,34,13,59,0,Evan Fitzner Defensive Rebound.
+VCU,Saint Mary's,22,34,14,22,0,Foul on JeQuan Lewis.
+VCU,Saint Mary's,22,35,14,22,1,Tanner Krebs made Free Throw.
+VCU,Saint Mary's,22,36,14,22,1,Tanner Krebs made Free Throw.
+VCU,Saint Mary's,22,36,14,41,0,Foul on Calvin Hermanson.
+VCU,Saint Mary's,23,36,14,41,1,Samir Doughty made Free Throw.
+VCU,Saint Mary's,23,36,14,41,0,Samir Doughty missed Free Throw.
+VCU,Saint Mary's,23,36,14,41,0,Tanner Krebs Defensive Rebound.
+VCU,Saint Mary's,23,36,15,8,0,Tanner Krebs missed Three Point Jumper.
+VCU,Saint Mary's,23,36,15,8,0,VCU Defensive Rebound.
+VCU,Saint Mary's,25,36,15,32,1,Ahmed Hamdy-Mohamed made Layup. Assisted by Samir Doughty.
+VCU,Saint Mary's,25,36,15,53,0,Foul on Samir Doughty.
+VCU,Saint Mary's,25,37,15,53,1,Tanner Krebs made Free Throw.
+VCU,Saint Mary's,25,38,15,53,1,Tanner Krebs made Free Throw.
+VCU,Saint Mary's,27,38,16,2,1,Jordan Burgess made Layup.
+VCU,Saint Mary's,27,40,16,25,1,Jock Landale made Dunk. Assisted by Evan Fitzner.
+VCU,Saint Mary's,27,40,16,35,0,Jordan Burgess missed Jumper.
+VCU,Saint Mary's,27,40,16,35,0,Evan Fitzner Defensive Rebound.
+VCU,Saint Mary's,27,40,16,53,0,Tanner Krebs missed Three Point Jumper.
+VCU,Saint Mary's,27,40,16,53,0,Ahmed Hamdy-Mohamed Defensive Rebound.
+VCU,Saint Mary's,27,40,17,10,0,JeQuan Lewis missed Jumper.
+VCU,Saint Mary's,27,40,17,10,0,Jordan Burgess Offensive Rebound.
+VCU,Saint Mary's,27,40,17,16,0,Foul on Jock Landale.
+VCU,Saint Mary's,27,40,17,16,0,Official TV Timeout
+VCU,Saint Mary's,28,40,17,16,1,Jordan Burgess made Free Throw.
+VCU,Saint Mary's,29,40,17,16,1,Jordan Burgess made Free Throw.
+VCU,Saint Mary's,29,40,17,34,0,Foul on Malik Crowfield.
+VCU,Saint Mary's,29,41,17,34,1,Emmett Naar made Free Throw.
+VCU,Saint Mary's,29,42,17,34,1,Emmett Naar made Free Throw.
+VCU,Saint Mary's,29,42,17,45,0,Jordan Burgess missed Layup.
+VCU,Saint Mary's,29,42,17,45,0,Tanner Krebs Defensive Rebound.
+VCU,Saint Mary's,29,44,18,7,1,Tanner Krebs made Layup. Assisted by Jock Landale.
+VCU,Saint Mary's,29,44,18,22,0,JeQuan Lewis Turnover.
+VCU,Saint Mary's,29,44,18,22,0,Emmett Naar Steal.
+VCU,Saint Mary's,29,46,18,27,1,Emmett Naar made Layup.
+VCU,Saint Mary's,29,46,18,44,0,JeQuan Lewis missed Layup.
+VCU,Saint Mary's,29,46,18,44,0,Dane Pineau Block.
+VCU,Saint Mary's,29,46,18,44,0,VCU Offensive Rebound.
+VCU,Saint Mary's,29,46,18,50,0,JeQuan Lewis missed Jumper.
+VCU,Saint Mary's,29,46,18,50,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,29,46,18,53,0,Jock Landale Turnover.
+VCU,Saint Mary's,29,46,18,53,0,JeQuan Lewis Steal.
+VCU,Saint Mary's,31,46,19,0,1,JeQuan Lewis made Layup.
+VCU,Saint Mary's,31,46,19,28,0,Emmett Naar missed Layup.
+VCU,Saint Mary's,31,46,19,28,0,VCU Defensive Rebound.
+VCU,Saint Mary's,31,46,19,56,0,Jonathan Williams missed Jumper.
+VCU,Saint Mary's,31,46,19,56,0,Kyle Clark Defensive Rebound.
+VCU,Saint Mary's,31,46,20,0,0,End of 1st half
+VCU,Saint Mary's,31,46,20,0,0,Jump Ball won by VCU
+VCU,Saint Mary's,33,46,20,24,1,JeQuan Lewis made Layup.
+VCU,Saint Mary's,33,46,20,56,0,Saint Mary's  Turnover.
+VCU,Saint Mary's,33,46,21,17,0,Foul on Doug Brooks.
+VCU,Saint Mary's,33,46,21,17,0,Doug Brooks Turnover.
+VCU,Saint Mary's,33,48,21,34,1,Joe Rahon made Layup.
+VCU,Saint Mary's,36,48,22,0,1,JeQuan Lewis made Three Point Jumper.
+VCU,Saint Mary's,36,48,22,23,0,Foul on JeQuan Lewis.
+VCU,Saint Mary's,36,48,22,28,0,Foul on Mo Alie-Cox.
+VCU,Saint Mary's,36,48,22,37,0,Dane Pineau missed Three Point Jumper.
+VCU,Saint Mary's,36,48,22,37,0,Samir Doughty Defensive Rebound.
+VCU,Saint Mary's,36,48,22,46,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Saint Mary's,36,48,22,46,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,36,50,22,55,1,Joe Rahon made Layup.
+VCU,Saint Mary's,36,50,23,24,0,Samir Doughty missed Three Point Jumper.
+VCU,Saint Mary's,36,50,23,30,0,JeQuan Lewis Offensive Rebound.
+VCU,Saint Mary's,36,50,23,32,0,JeQuan Lewis missed Jumper.
+VCU,Saint Mary's,36,50,23,32,0,Justin Tillman Offensive Rebound.
+VCU,Saint Mary's,36,50,23,39,0,Foul on Calvin Hermanson.
+VCU,Saint Mary's,36,50,23,39,0,Jordan Burgess missed Free Throw.
+VCU,Saint Mary's,36,50,23,39,0,VCU Deadball Team Rebound.
+VCU,Saint Mary's,36,50,23,39,0,Jordan Burgess missed Free Throw.
+VCU,Saint Mary's,36,50,23,39,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,36,52,23,49,1,Jock Landale made Layup. Assisted by Emmett Naar.
+VCU,Saint Mary's,36,52,23,49,0,Foul on Ahmed Hamdy-Mohamed.
+VCU,Saint Mary's,36,52,23,49,0,Jock Landale missed Free Throw.
+VCU,Saint Mary's,36,52,23,49,0,Justin Tillman Defensive Rebound.
+VCU,Saint Mary's,38,52,23,54,1,JeQuan Lewis made Layup.
+VCU,Saint Mary's,38,52,23,54,0,Foul on Joe Rahon.
+VCU,Saint Mary's,39,52,23,54,1,JeQuan Lewis made Free Throw.
+VCU,Saint Mary's,39,54,24,11,1,Emmett Naar made Jumper.
+VCU,Saint Mary's,39,54,24,30,0,Ahmed Hamdy-Mohamed missed Jumper.
+VCU,Saint Mary's,39,54,24,30,0,Jock Landale Block.
+VCU,Saint Mary's,39,54,24,30,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,39,54,24,41,0,Emmett Naar Turnover.
+VCU,Saint Mary's,39,54,24,41,0,Samir Doughty Steal.
+VCU,Saint Mary's,41,54,24,44,1,Samir Doughty made Dunk.
+VCU,Saint Mary's,41,54,24,59,0,Foul on Joe Rahon.
+VCU,Saint Mary's,41,54,24,59,0,Joe Rahon Turnover.
+VCU,Saint Mary's,41,54,24,59,0,Official TV Timeout
+VCU,Saint Mary's,41,54,25,14,0,Samir Doughty missed Jumper.
+VCU,Saint Mary's,41,54,25,14,0,Ahmed Hamdy-Mohamed Offensive Rebound.
+VCU,Saint Mary's,43,54,25,19,1,Ahmed Hamdy-Mohamed made Layup.
+VCU,Saint Mary's,43,54,25,33,0,Saint Mary's  Turnover.
+VCU,Saint Mary's,45,54,25,53,1,Jordan Burgess made Jumper.
+VCU,Saint Mary's,45,54,26,7,0,Calvin Hermanson missed Layup.
+VCU,Saint Mary's,45,54,26,7,0,Ahmed Hamdy-Mohamed Block.
+VCU,Saint Mary's,45,54,26,7,0,Saint Mary's Offensive Rebound.
+VCU,Saint Mary's,45,54,26,22,0,Emmett Naar Turnover.
+VCU,Saint Mary's,45,54,26,22,0,Samir Doughty Steal.
+VCU,Saint Mary's,45,54,26,26,0,JeQuan Lewis missed Layup.
+VCU,Saint Mary's,45,54,26,26,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,45,54,26,36,0,Foul on Samir Doughty.
+VCU,Saint Mary's,45,56,26,44,1,Emmett Naar made Layup. Assisted by Jock Landale.
+VCU,Saint Mary's,45,56,27,3,0,JeQuan Lewis missed Layup.
+VCU,Saint Mary's,45,56,27,3,0,Tanner Krebs Defensive Rebound.
+VCU,Saint Mary's,45,56,27,18,0,Emmett Naar Turnover.
+VCU,Saint Mary's,45,56,27,18,0,Ahmed Hamdy-Mohamed Steal.
+VCU,Saint Mary's,47,56,27,26,1,Justin Tillman made Jumper. Assisted by Ahmed Hamdy-Mohamed.
+VCU,Saint Mary's,47,56,27,56,0,Calvin Hermanson missed Three Point Jumper.
+VCU,Saint Mary's,47,56,27,56,0,Justin Tillman Defensive Rebound.
+VCU,Saint Mary's,49,56,28,5,1,Ahmed Hamdy-Mohamed made Layup. Assisted by JeQuan Lewis.
+VCU,Saint Mary's,49,56,28,36,0,Tanner Krebs missed Three Point Jumper.
+VCU,Saint Mary's,49,56,28,36,0,Ahmed Hamdy-Mohamed Defensive Rebound.
+VCU,Saint Mary's,49,56,28,46,0,Foul on Tanner Krebs.
+VCU,Saint Mary's,49,56,28,46,0,Official TV Timeout
+VCU,Saint Mary's,52,56,28,51,1,JeQuan Lewis made Three Point Jumper.
+VCU,Saint Mary's,52,56,29,7,0,Tanner Krebs missed Layup.
+VCU,Saint Mary's,52,56,29,7,0,Justin Tillman Block.
+VCU,Saint Mary's,52,56,29,7,0,Justin Tillman Defensive Rebound.
+VCU,Saint Mary's,52,56,29,18,0,Foul on Jock Landale.
+VCU,Saint Mary's,53,56,29,18,1,Jonathan Williams made Free Throw.
+VCU,Saint Mary's,54,56,29,18,1,Jonathan Williams made Free Throw.
+VCU,Saint Mary's,54,56,29,41,0,Jock Landale missed Jumper.
+VCU,Saint Mary's,54,56,29,41,0,Ahmed Hamdy-Mohamed Block.
+VCU,Saint Mary's,54,56,29,41,0,Jock Landale Offensive Rebound.
+VCU,Saint Mary's,54,56,29,44,0,Foul on Ahmed Hamdy-Mohamed.
+VCU,Saint Mary's,54,56,29,44,0,Jock Landale missed Free Throw.
+VCU,Saint Mary's,54,56,29,44,0,Saint Mary's Deadball Team Rebound.
+VCU,Saint Mary's,54,56,29,44,0,Jock Landale missed Free Throw.
+VCU,Saint Mary's,54,56,29,44,0,Jock Landale Offensive Rebound.
+VCU,Saint Mary's,54,56,29,56,0,Foul on Jonathan Williams.
+VCU,Saint Mary's,54,56,29,56,0,Joe Rahon missed Free Throw.
+VCU,Saint Mary's,54,56,29,56,0,Justin Tillman Defensive Rebound.
+VCU,Saint Mary's,54,56,30,5,0,Jonathan Williams missed Layup.
+VCU,Saint Mary's,54,56,30,5,0,Dane Pineau Block.
+VCU,Saint Mary's,54,56,30,5,0,Dane Pineau Defensive Rebound.
+VCU,Saint Mary's,54,58,30,13,1,Dane Pineau made Layup. Assisted by Calvin Hermanson.
+VCU,Saint Mary's,54,58,30,30,0,JeQuan Lewis missed Jumper.
+VCU,Saint Mary's,54,58,30,30,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,54,58,30,52,0,Foul on Jordan Burgess.
+VCU,Saint Mary's,54,59,30,52,1,Jock Landale made Free Throw.
+VCU,Saint Mary's,54,60,30,52,1,Jock Landale made Free Throw.
+VCU,Saint Mary's,54,60,31,0,0,Foul on Emmett Naar.
+VCU,Saint Mary's,56,60,31,8,1,JeQuan Lewis made Jumper.
+VCU,Saint Mary's,56,63,31,41,1,Joe Rahon made Three Point Jumper. Assisted by Emmett Naar.
+VCU,Saint Mary's,56,63,32,6,0,Justin Tillman Turnover.
+VCU,Saint Mary's,56,63,32,6,0,Official TV Timeout
+VCU,Saint Mary's,56,63,32,34,0,Dane Pineau missed Three Point Jumper.
+VCU,Saint Mary's,56,63,32,34,0,Doug Brooks Defensive Rebound.
+VCU,Saint Mary's,58,63,32,41,1,JeQuan Lewis made Jumper.
+VCU,Saint Mary's,58,63,32,54,0,Foul on Jordan Burgess.
+VCU,Saint Mary's,58,63,32,54,0,Joe Rahon missed Free Throw.
+VCU,Saint Mary's,58,63,32,54,0,Mo Alie-Cox Defensive Rebound.
+VCU,Saint Mary's,58,63,32,59,0,Doug Brooks missed Three Point Jumper.
+VCU,Saint Mary's,58,63,32,59,0,Ahmed Hamdy-Mohamed Offensive Rebound.
+VCU,Saint Mary's,58,63,33,5,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Saint Mary's,58,63,33,5,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,58,63,33,18,0,Calvin Hermanson missed Three Point Jumper.
+VCU,Saint Mary's,58,63,33,18,0,Doug Brooks Defensive Rebound.
+VCU,Saint Mary's,58,63,33,26,0,JeQuan Lewis missed Layup.
+VCU,Saint Mary's,58,63,33,26,0,Jock Landale Defensive Rebound.
+VCU,Saint Mary's,58,63,33,38,0,Jock Landale missed Layup.
+VCU,Saint Mary's,58,63,33,38,0,Saint Mary's Offensive Rebound.
+VCU,Saint Mary's,58,63,33,40,0,Foul on Doug Brooks.
+VCU,Saint Mary's,58,64,33,40,1,Dane Pineau made Free Throw.
+VCU,Saint Mary's,58,65,33,40,1,Dane Pineau made Free Throw.
+VCU,Saint Mary's,60,65,33,45,1,Mo Alie-Cox made Jumper.
+VCU,Saint Mary's,60,65,33,48,0,VCU  Timeout
+VCU,Saint Mary's,60,65,34,9,0,Foul on Mo Alie-Cox.
+VCU,Saint Mary's,60,66,34,9,1,Calvin Hermanson made Free Throw.
+VCU,Saint Mary's,60,67,34,9,1,Calvin Hermanson made Free Throw.
+VCU,Saint Mary's,62,67,34,16,1,Ahmed Hamdy-Mohamed made Layup.
+VCU,Saint Mary's,62,70,34,42,1,Calvin Hermanson made Three Point Jumper.
+VCU,Saint Mary's,62,70,34,45,0,Saint Mary's  Timeout
+VCU,Saint Mary's,62,70,35,4,0,Foul on Dane Pineau.
+VCU,Saint Mary's,63,70,35,4,1,Ahmed Hamdy-Mohamed made Free Throw.
+VCU,Saint Mary's,63,70,35,4,0,Ahmed Hamdy-Mohamed missed Free Throw.
+VCU,Saint Mary's,63,70,35,4,0,Calvin Hermanson Defensive Rebound.
+VCU,Saint Mary's,63,70,35,7,0,Foul on Jordan Burgess.
+VCU,Saint Mary's,63,70,35,7,0,Calvin Hermanson missed Free Throw.
+VCU,Saint Mary's,63,70,35,7,0,Saint Mary's Deadball Team Rebound.
+VCU,Saint Mary's,63,71,35,7,1,Calvin Hermanson made Free Throw.
+VCU,Saint Mary's,63,71,35,17,0,Mo Alie-Cox missed Layup.
+VCU,Saint Mary's,63,71,35,17,0,Dane Pineau Defensive Rebound.
+VCU,Saint Mary's,63,73,35,24,1,Calvin Hermanson made Dunk. Assisted by Emmett Naar.
+VCU,Saint Mary's,63,73,35,36,0,Foul on Samir Doughty.
+VCU,Saint Mary's,63,73,35,36,0,Samir Doughty Turnover.
+VCU,Saint Mary's,63,73,35,49,0,Foul on Justin Tillman.
+VCU,Saint Mary's,63,73,35,49,0,Jock Landale missed Free Throw.
+VCU,Saint Mary's,63,73,35,49,0,Saint Mary's Deadball Team Rebound.
+VCU,Saint Mary's,63,74,35,49,1,Jock Landale made Free Throw.
+VCU,Saint Mary's,65,74,35,56,1,Justin Tillman made Dunk. Assisted by JeQuan Lewis.
+VCU,Saint Mary's,65,74,36,23,0,Foul on Ahmed Hamdy-Mohamed.
+VCU,Saint Mary's,65,74,36,23,0,Official TV Timeout
+VCU,Saint Mary's,65,74,36,23,0,Jock Landale missed Free Throw.
+VCU,Saint Mary's,65,74,36,23,0,Saint Mary's Deadball Team Rebound.
+VCU,Saint Mary's,65,75,36,23,1,Jock Landale made Free Throw.
+VCU,Saint Mary's,65,75,36,31,0,Foul on Jock Landale.
+VCU,Saint Mary's,66,75,36,31,1,Samir Doughty made Free Throw.
+VCU,Saint Mary's,67,75,36,31,1,Samir Doughty made Free Throw.
+VCU,Saint Mary's,67,75,36,57,0,Joe Rahon missed Three Point Jumper.
+VCU,Saint Mary's,67,75,36,57,0,Dane Pineau Offensive Rebound.
+VCU,Saint Mary's,67,75,37,0,0,Foul on Jordan Burgess.
+VCU,Saint Mary's,67,75,37,0,0,Dane Pineau missed Free Throw.
+VCU,Saint Mary's,67,75,37,0,0,Saint Mary's Deadball Team Rebound.
+VCU,Saint Mary's,67,76,37,0,1,Dane Pineau made Free Throw.
+VCU,Saint Mary's,67,76,37,3,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Saint Mary's,67,76,37,3,0,Saint Mary's Defensive Rebound.
+VCU,Saint Mary's,67,76,37,21,0,Foul on JeQuan Lewis.
+VCU,Saint Mary's,67,77,37,21,1,Emmett Naar made Free Throw.
+VCU,Saint Mary's,67,77,37,21,0,Emmett Naar missed Free Throw.
+VCU,Saint Mary's,67,77,37,21,0,Ahmed Hamdy-Mohamed Defensive Rebound.
+VCU,Saint Mary's,67,77,37,34,0,Samir Doughty missed Layup.
+VCU,Saint Mary's,67,77,37,34,0,Doug Brooks Offensive Rebound.
+VCU,Saint Mary's,67,77,37,42,0,Foul on Jock Landale.
+VCU,Saint Mary's,67,77,37,42,0,JeQuan Lewis missed Free Throw.
+VCU,Saint Mary's,67,77,37,42,0,VCU Deadball Team Rebound.
+VCU,Saint Mary's,68,77,37,42,1,JeQuan Lewis made Free Throw.
+VCU,Saint Mary's,68,77,37,42,0,Saint Mary's  Timeout
+VCU,Saint Mary's,68,77,37,43,0,Foul on Doug Brooks.
+VCU,Saint Mary's,68,78,37,43,1,Emmett Naar made Free Throw.
+VCU,Saint Mary's,68,79,37,43,1,Emmett Naar made Free Throw.
+VCU,Saint Mary's,68,79,37,47,0,Foul on Jordan Hunter.
+VCU,Saint Mary's,68,79,37,47,0,Ahmed Hamdy-Mohamed missed Free Throw.
+VCU,Saint Mary's,68,79,37,47,0,VCU Deadball Team Rebound.
+VCU,Saint Mary's,69,79,37,47,1,Ahmed Hamdy-Mohamed made Free Throw.
+VCU,Saint Mary's,69,79,37,53,0,Emmett Naar Turnover.
+VCU,Saint Mary's,69,79,37,58,0,Foul on Emmett Naar.
+VCU,Saint Mary's,70,79,37,58,1,JeQuan Lewis made Free Throw.
+VCU,Saint Mary's,71,79,37,58,1,JeQuan Lewis made Free Throw.
+VCU,Saint Mary's,71,79,38,26,0,Joe Rahon missed Jumper.
+VCU,Saint Mary's,71,79,38,26,0,Jonathan Williams Defensive Rebound.
+VCU,Saint Mary's,71,79,38,34,0,De'Riante Jenkins missed Three Point Jumper.
+VCU,Saint Mary's,71,79,38,34,0,Jonathan Williams Offensive Rebound.
+VCU,Saint Mary's,73,79,38,43,1,JeQuan Lewis made Layup.
+VCU,Saint Mary's,73,79,38,45,0,VCU  Timeout
+VCU,Saint Mary's,73,79,39,11,0,Foul on Ahmed Hamdy-Mohamed.
+VCU,Saint Mary's,73,80,39,11,1,Jock Landale made Free Throw.
+VCU,Saint Mary's,73,81,39,11,1,Jock Landale made Free Throw.
+VCU,Saint Mary's,73,81,39,18,0,Foul on Dane Pineau.
+VCU,Saint Mary's,74,81,39,18,1,Samir Doughty made Free Throw.
+VCU,Saint Mary's,75,81,39,18,1,Samir Doughty made Free Throw.
+VCU,Saint Mary's,75,81,39,25,0,Foul on JeQuan Lewis.
+VCU,Saint Mary's,75,82,39,25,1,Calvin Hermanson made Free Throw.
+VCU,Saint Mary's,75,83,39,25,1,Calvin Hermanson made Free Throw.
+VCU,Saint Mary's,77,83,39,29,1,JeQuan Lewis made Layup.
+VCU,Saint Mary's,77,83,39,30,0,VCU  Timeout
+VCU,Saint Mary's,77,83,39,34,0,Foul on Samir Doughty.
+VCU,Saint Mary's,77,84,39,34,1,Emmett Naar made Free Throw.
+VCU,Saint Mary's,77,85,39,34,1,Emmett Naar made Free Throw.
+VCU,Saint Mary's,77,85,39,39,0,JeQuan Lewis missed Three Point Jumper.
+VCU,Saint Mary's,77,85,39,39,0,Jordan Burgess Offensive Rebound.
+VCU,Saint Mary's,77,85,39,44,0,Foul on Dane Pineau.
+VCU,Saint Mary's,77,85,39,44,0,JeQuan Lewis missed Free Throw.
+VCU,Saint Mary's,77,85,39,44,0,VCU Deadball Team Rebound.
+VCU,Saint Mary's,77,85,39,44,0,JeQuan Lewis missed Free Throw.
+VCU,Saint Mary's,77,85,39,44,0,Saint Mary's Defensive Rebound.
+VCU,Saint Mary's,77,85,40,0,0,End of Game

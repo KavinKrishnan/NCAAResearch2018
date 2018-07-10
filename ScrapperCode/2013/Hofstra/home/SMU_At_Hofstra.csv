@@ -1,0 +1,354 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+SMU,Hofstra,0,0,0,18,0,Jalen Jones Turnover.
+SMU,Hofstra,0,0,0,45,0,Taran Buie missed Jumper.
+SMU,Hofstra,0,0,0,45,0,Ryan Manuel Defensive Rebound.
+SMU,Hofstra,0,0,0,50,0,Southern Methodist Full Timeout.
+SMU,Hofstra,0,0,1,5,0,Shawn Williams missed Jumper.
+SMU,Hofstra,0,0,1,5,0,David Imes Block.
+SMU,Hofstra,0,0,1,8,0,Shawn Williams Offensive Rebound.
+SMU,Hofstra,2,0,1,10,1,Shawn Williams made Layup.
+SMU,Hofstra,2,0,1,29,0,Moussa Kone missed Layup.
+SMU,Hofstra,2,0,1,29,0,Jalen Jones Block.
+SMU,Hofstra,2,0,1,34,0,Cannen Cunningham Defensive Rebound.
+SMU,Hofstra,2,0,1,36,0,Cannen Cunningham Turnover.
+SMU,Hofstra,2,0,1,37,0,Moussa Kone Steal.
+SMU,Hofstra,2,0,1,40,0,Taran Buie Turnover.
+SMU,Hofstra,2,0,1,43,0,Cannen Cunningham Steal.
+SMU,Hofstra,4,0,1,49,1,Nick Russell made Jumper.
+SMU,Hofstra,4,0,2,4,0,Taran Buie missed Three Point Jumper.
+SMU,Hofstra,4,0,2,4,0,Cannen Cunningham Defensive Rebound.
+SMU,Hofstra,4,0,2,11,0,Jalen Jones Turnover.
+SMU,Hofstra,4,0,2,11,0,Foul on Jalen Jones
+SMU,Hofstra,4,0,2,41,0,David Imes missed Three Point Jumper.
+SMU,Hofstra,4,0,2,41,0,Ryan Manuel Defensive Rebound.
+SMU,Hofstra,6,0,2,53,1,Nick Russell made Jumper.  Assisted by Jalen Jones.
+SMU,Hofstra,6,0,3,8,0,David Imes missed Three Point Jumper.
+SMU,Hofstra,6,0,3,8,0,Moussa Kone Offensive Rebound.
+SMU,Hofstra,6,0,3,14,0,Jordan Allen missed Layup.
+SMU,Hofstra,6,0,3,14,0,Jalen Jones Block.
+SMU,Hofstra,6,0,3,17,0,Jalen Jones Defensive Rebound.
+SMU,Hofstra,6,0,3,34,0,Jalen Jones missed Jumper.
+SMU,Hofstra,6,0,3,34,0,Shawn Williams Offensive Rebound.
+SMU,Hofstra,8,0,3,39,1,Shawn Williams made Layup.
+SMU,Hofstra,8,0,3,39,0,Hofstra Full Timeout.
+SMU,Hofstra,8,0,3,59,0,Jordan Allen Turnover.
+SMU,Hofstra,8,0,4,20,0,Ryan Manuel missed Jumper.
+SMU,Hofstra,8,0,4,20,0,Cannen Cunningham Offensive Rebound.
+SMU,Hofstra,10,0,4,25,1,Cannen Cunningham made Jumper.
+SMU,Hofstra,10,0,4,35,0,Foul on Nick Russell
+SMU,Hofstra,10,0,4,35,0,Official TV Timeout.
+SMU,Hofstra,10,2,4,46,1,Stephen Nwaukoni made Jumper.  Assisted by Taran Buie.
+SMU,Hofstra,10,2,5,12,0,Jalen Jones missed Jumper.
+SMU,Hofstra,10,2,5,12,0,Stephen Nwaukoni Defensive Rebound.
+SMU,Hofstra,10,4,5,20,1,Taran Buie made Jumper.
+SMU,Hofstra,10,4,5,43,0,Cannen Cunningham missed Jumper.
+SMU,Hofstra,10,4,5,43,0,Stephen Nwaukoni Defensive Rebound.
+SMU,Hofstra,10,4,5,57,0,David Imes missed Three Point Jumper.
+SMU,Hofstra,10,4,5,57,0,Cannen Cunningham Defensive Rebound.
+SMU,Hofstra,12,4,6,8,1,Nick Russell made Jumper.
+SMU,Hofstra,12,4,6,32,0,Darren Payen missed Jumper.
+SMU,Hofstra,12,4,6,32,0,David Imes Offensive Rebound.
+SMU,Hofstra,12,4,6,38,0,Stevie Mejia missed Three Point Jumper.
+SMU,Hofstra,12,4,6,38,0,Jalen Jones Defensive Rebound.
+SMU,Hofstra,15,4,6,46,1,Shawn Williams made Three Point Jumper.  Assisted by Nick Russell.
+SMU,Hofstra,15,6,7,22,1,Darren Payen made Jumper.
+SMU,Hofstra,17,6,7,40,1,Nick Russell made Layup.
+SMU,Hofstra,17,6,7,58,0,David Imes missed Jumper.
+SMU,Hofstra,17,6,7,58,0,Ryan Manuel Defensive Rebound.
+SMU,Hofstra,17,6,8,5,0,Nick Russell missed Jumper.
+SMU,Hofstra,17,6,8,5,0,Ryan Manuel Offensive Rebound.
+SMU,Hofstra,19,6,8,8,1,Ryan Manuel made Jumper.
+SMU,Hofstra,19,6,8,35,0,Taran Buie missed Three Point Jumper.
+SMU,Hofstra,19,6,8,35,0,Shawn Williams Defensive Rebound.
+SMU,Hofstra,19,6,8,52,0,Nick Russell missed Three Point Jumper.
+SMU,Hofstra,19,6,8,52,0,Taran Buie Defensive Rebound.
+SMU,Hofstra,19,6,9,2,0,Taran Buie Turnover.
+SMU,Hofstra,19,6,9,2,0,Nick Russell Steal.
+SMU,Hofstra,19,6,9,2,0,Official TV Timeout.
+SMU,Hofstra,19,6,9,12,0,Cannen Cunningham missed Jumper.
+SMU,Hofstra,19,6,9,12,0,Stephen Nwaukoni Defensive Rebound.
+SMU,Hofstra,19,6,9,24,0,Taran Buie missed Jumper.
+SMU,Hofstra,19,6,9,24,0,Stephen Nwaukoni Offensive Rebound.
+SMU,Hofstra,19,6,9,28,0,Stephen Nwaukoni missed Layup.
+SMU,Hofstra,19,6,9,28,0,Shawn Williams Defensive Rebound.
+SMU,Hofstra,19,6,9,41,0,Jalen Jones missed Jumper.
+SMU,Hofstra,19,6,9,41,0,Taran Buie Defensive Rebound.
+SMU,Hofstra,19,6,9,52,0,Foul on Brian Bernardi
+SMU,Hofstra,19,7,9,52,1,Stevie Mejia made Free Throw.
+SMU,Hofstra,19,7,9,52,0,Stevie Mejia missed Free Throw.
+SMU,Hofstra,19,7,9,52,0,Jalen Jones Defensive Rebound.
+SMU,Hofstra,19,7,10,7,0,Jalen Jones missed Jumper.
+SMU,Hofstra,19,7,10,7,0,Taran Buie Defensive Rebound.
+SMU,Hofstra,19,7,10,16,0,Taran Buie missed Jumper.
+SMU,Hofstra,19,7,10,16,0,Jalen Jones Defensive Rebound.
+SMU,Hofstra,22,7,10,39,1,London Giles made Three Point Jumper.  Assisted by Cannen Cunningham.
+SMU,Hofstra,22,7,10,51,0,Stephen Nwaukoni Turnover.
+SMU,Hofstra,22,7,10,51,0,Foul on Stephen Nwaukoni
+SMU,Hofstra,24,7,11,2,1,Nick Russell made Jumper.
+SMU,Hofstra,24,7,11,11,0,Foul on Brian Bernardi
+SMU,Hofstra,24,7,11,13,0,Moussa Kone missed Jumper.
+SMU,Hofstra,24,7,11,13,0,Moussa Kone Offensive Rebound.
+SMU,Hofstra,24,7,11,18,0,Moussa Kone missed Layup.
+SMU,Hofstra,24,7,11,18,0,Jordan Allen Offensive Rebound.
+SMU,Hofstra,24,7,11,21,0,Jordan Allen missed Layup.
+SMU,Hofstra,24,7,11,21,0,Shawn Williams Defensive Rebound.
+SMU,Hofstra,24,7,11,36,0,London Giles missed Three Point Jumper.
+SMU,Hofstra,24,7,11,36,0,Cannen Cunningham Offensive Rebound.
+SMU,Hofstra,26,7,11,41,1,Cannen Cunningham made Jumper.
+SMU,Hofstra,26,7,11,53,0,Matt Grogan missed Three Point Jumper.
+SMU,Hofstra,26,7,11,53,0,Cannen Cunningham Defensive Rebound.
+SMU,Hofstra,26,7,12,7,0,London Giles Turnover.
+SMU,Hofstra,26,7,12,7,0,Official TV Timeout.
+SMU,Hofstra,26,7,12,26,0,David Imes missed Jumper.
+SMU,Hofstra,26,7,12,26,0,Matt Grogan Offensive Rebound.
+SMU,Hofstra,26,7,12,31,0,Matt Grogan missed Layup.
+SMU,Hofstra,26,7,12,31,0,London Giles Defensive Rebound.
+SMU,Hofstra,26,7,12,48,0,Cannen Cunningham missed Jumper.
+SMU,Hofstra,26,7,12,48,0,Taran Buie Defensive Rebound.
+SMU,Hofstra,26,10,12,56,1,David Imes made Three Point Jumper.  Assisted by Taran Buie.
+SMU,Hofstra,26,10,13,13,0,Cannen Cunningham missed Jumper.
+SMU,Hofstra,26,10,13,13,0,London Giles Offensive Rebound.
+SMU,Hofstra,26,10,13,35,0,Cannen Cunningham Turnover.
+SMU,Hofstra,26,10,13,48,0,Moussa Kone missed Jumper.
+SMU,Hofstra,26,10,13,48,0,Cannen Cunningham Defensive Rebound.
+SMU,Hofstra,26,10,14,0,0,Nick Russell Turnover.
+SMU,Hofstra,26,10,14,0,0,Foul on Nick Russell
+SMU,Hofstra,26,10,14,13,0,David Imes missed Three Point Jumper.
+SMU,Hofstra,26,10,14,13,0,Moussa Kone Offensive Rebound.
+SMU,Hofstra,26,10,14,19,0,Moussa Kone Turnover.
+SMU,Hofstra,26,10,14,19,0,London Giles Steal.
+SMU,Hofstra,26,10,14,19,0,Foul on Darren Payen
+SMU,Hofstra,26,10,14,36,0,Ryan Manuel missed Three Point Jumper.
+SMU,Hofstra,26,10,14,36,0,Moussa Kone Defensive Rebound.
+SMU,Hofstra,26,10,14,38,0,Foul on Shawn Williams
+SMU,Hofstra,26,10,14,49,0,Taran Buie Turnover.
+SMU,Hofstra,26,10,15,0,0,Brian Bernardi missed Three Point Jumper.
+SMU,Hofstra,26,10,15,0,0,Taran Buie Defensive Rebound.
+SMU,Hofstra,26,10,15,14,0,Darren Payen missed Jumper.
+SMU,Hofstra,26,10,15,14,0,Ryan Manuel Defensive Rebound.
+SMU,Hofstra,29,10,15,22,1,Brian Bernardi made Three Point Jumper.  Assisted by Ryan Manuel.
+SMU,Hofstra,29,10,15,26,0,Hofstra Full Timeout.
+SMU,Hofstra,29,10,15,41,0,Taran Buie Turnover.
+SMU,Hofstra,29,10,15,43,0,London Giles Steal.
+SMU,Hofstra,29,10,15,49,0,Brian Bernardi missed Three Point Jumper.
+SMU,Hofstra,29,10,15,49,0,Darren Payen Defensive Rebound.
+SMU,Hofstra,29,12,16,1,1,Taran Buie made Layup.
+SMU,Hofstra,29,12,16,20,0,Jalen Jones missed Jumper.
+SMU,Hofstra,29,12,16,20,0,Darren Payen Block.
+SMU,Hofstra,29,12,16,22,0,Shawn Williams Offensive Rebound.
+SMU,Hofstra,29,12,16,31,0,Shawn Williams missed Layup.
+SMU,Hofstra,29,12,16,31,0,Darren Payen Block.
+SMU,Hofstra,29,12,16,34,0,Taran Buie Defensive Rebound.
+SMU,Hofstra,29,12,16,38,0,Foul on London Giles
+SMU,Hofstra,29,12,16,38,0,Official TV Timeout.
+SMU,Hofstra,29,13,16,38,1,Stevie Mejia made Free Throw.
+SMU,Hofstra,29,14,16,38,1,Stevie Mejia made Free Throw.
+SMU,Hofstra,29,14,16,46,0,Jalen Jones Turnover.
+SMU,Hofstra,29,17,17,3,1,Stevie Mejia made Three Point Jumper.  Assisted by Taran Buie.
+SMU,Hofstra,29,17,17,16,0,Ryan Manuel missed Layup.
+SMU,Hofstra,29,17,17,16,0,Stephen Nwaukoni Defensive Rebound.
+SMU,Hofstra,29,17,17,17,0,Foul on Jalen Jones
+SMU,Hofstra,29,17,17,17,0,Stephen Nwaukoni missed Free Throw.
+SMU,Hofstra,29,17,17,17,0,Jalen Jones Defensive Rebound.
+SMU,Hofstra,29,17,17,41,0,Foul on David Imes
+SMU,Hofstra,30,17,17,41,1,Cannen Cunningham made Free Throw.
+SMU,Hofstra,31,17,17,41,1,Cannen Cunningham made Free Throw.
+SMU,Hofstra,31,17,17,54,0,Taran Buie missed Three Point Jumper.
+SMU,Hofstra,31,17,17,54,0,Southern Methodist Defensive Reb.
+SMU,Hofstra,31,17,18,20,0,London Giles missed Three Point Jumper.
+SMU,Hofstra,31,17,18,20,0,Taran Buie Defensive Rebound.
+SMU,Hofstra,31,17,18,55,0,Darren Payen missed Jumper.
+SMU,Hofstra,31,17,18,55,0,Shawn Williams Defensive Rebound.
+SMU,Hofstra,31,17,19,17,0,London Giles Turnover.
+SMU,Hofstra,31,19,19,29,1,Stevie Mejia made Jumper.
+SMU,Hofstra,31,19,19,57,0,Cannen Cunningham missed Jumper.
+SMU,Hofstra,31,19,19,57,0,Darren Payen Defensive Rebound.
+SMU,Hofstra,31,19,20,0,0,End of the 1st Half.
+SMU,Hofstra,31,21,20,12,1,Jordan Allen made Dunk.  Assisted by Taran Buie.
+SMU,Hofstra,33,21,20,28,1,Nick Russell made Jumper.
+SMU,Hofstra,33,21,20,47,0,Foul on Shawn Williams
+SMU,Hofstra,33,22,20,47,1,Moussa Kone made Free Throw.
+SMU,Hofstra,33,22,20,47,0,Moussa Kone missed Free Throw.
+SMU,Hofstra,33,22,20,47,0,Nick Russell Defensive Rebound.
+SMU,Hofstra,33,22,21,6,0,Cannen Cunningham missed Jumper.
+SMU,Hofstra,33,22,21,6,0,Jalen Jones Offensive Rebound.
+SMU,Hofstra,35,22,21,9,1,Jalen Jones made Jumper.
+SMU,Hofstra,35,22,21,9,0,Foul on David Imes
+SMU,Hofstra,35,22,21,9,0,Jalen Jones missed Free Throw.
+SMU,Hofstra,35,22,21,9,0,Jalen Jones Offensive Rebound.
+SMU,Hofstra,35,22,21,37,0,Jalen Jones missed Jumper.
+SMU,Hofstra,35,22,21,37,0,David Imes Defensive Rebound.
+SMU,Hofstra,35,22,21,54,0,David Imes missed Three Point Jumper.
+SMU,Hofstra,35,22,21,54,0,Nick Russell Defensive Rebound.
+SMU,Hofstra,35,22,22,16,0,Foul on Taran Buie
+SMU,Hofstra,35,22,22,16,0,Cannen Cunningham missed Free Throw.
+SMU,Hofstra,35,22,22,16,0,null
+SMU,Hofstra,36,22,22,16,1,Cannen Cunningham made Free Throw.
+SMU,Hofstra,36,22,22,34,0,Darren Payen missed Jumper.
+SMU,Hofstra,36,22,22,34,0,Nick Russell Defensive Rebound.
+SMU,Hofstra,38,22,22,52,1,Nick Russell made Jumper.
+SMU,Hofstra,38,22,23,10,0,Jordan Allen Turnover.
+SMU,Hofstra,38,22,23,12,0,Jalen Jones Steal.
+SMU,Hofstra,38,22,23,12,0,Foul on Jordan Allen
+SMU,Hofstra,39,22,23,12,1,Ryan Manuel made Free Throw.
+SMU,Hofstra,40,22,23,12,1,Ryan Manuel made Free Throw.
+SMU,Hofstra,42,22,23,14,1,Jalen Jones made Layup.  Assisted by Shawn Williams.
+SMU,Hofstra,42,22,23,39,0,Matt Grogan Turnover.
+SMU,Hofstra,42,22,23,39,0,Foul on Matt Grogan
+SMU,Hofstra,42,22,24,9,0,Shawn Williams Turnover.
+SMU,Hofstra,42,22,24,9,0,Foul on Shawn Williams
+SMU,Hofstra,42,22,24,10,0,Official TV Timeout.
+SMU,Hofstra,42,25,24,36,1,Matt Grogan made Three Point Jumper.  Assisted by Stevie Mejia.
+SMU,Hofstra,44,25,24,56,1,Jalen Jones made Layup.  Assisted by Nick Russell.
+SMU,Hofstra,44,25,25,0,0,Foul on Darren Payen
+SMU,Hofstra,45,25,25,0,1,Jalen Jones made Free Throw.
+SMU,Hofstra,45,25,25,5,0,Stevie Mejia missed Jumper.
+SMU,Hofstra,45,25,25,5,0,Ryan Manuel Defensive Rebound.
+SMU,Hofstra,45,25,25,11,0,Ryan Manuel missed Layup.
+SMU,Hofstra,45,25,25,11,0,Jalen Jones Offensive Rebound.
+SMU,Hofstra,45,25,25,15,0,Jalen Jones missed Layup.
+SMU,Hofstra,45,25,25,15,0,Stevie Mejia Defensive Rebound.
+SMU,Hofstra,45,25,25,19,0,Stevie Mejia Turnover.
+SMU,Hofstra,45,25,25,20,0,Nick Russell Steal.
+SMU,Hofstra,45,25,25,21,0,Foul on Matt Grogan
+SMU,Hofstra,45,25,25,21,0,Nick Russell missed Free Throw.
+SMU,Hofstra,45,25,25,21,0,null
+SMU,Hofstra,46,25,25,21,1,Nick Russell made Free Throw.
+SMU,Hofstra,46,25,25,34,0,Nick Russell Turnover.
+SMU,Hofstra,46,25,25,35,0,Stephen Nwaukoni Steal.
+SMU,Hofstra,46,27,25,37,1,Stephen Nwaukoni made Dunk.
+SMU,Hofstra,48,27,25,51,1,Jalen Jones made Dunk.  Assisted by Nick Russell.
+SMU,Hofstra,48,27,26,24,0,Stephen Nwaukoni missed Layup.
+SMU,Hofstra,48,27,26,24,0,Matt Grogan Offensive Rebound.
+SMU,Hofstra,48,27,26,27,0,Foul on Cannen Cunningham
+SMU,Hofstra,48,28,26,27,1,Matt Grogan made Free Throw.
+SMU,Hofstra,48,28,26,27,0,Matt Grogan missed Free Throw.
+SMU,Hofstra,48,28,26,27,0,Nick Russell Defensive Rebound.
+SMU,Hofstra,48,28,26,42,0,Nick Russell missed Jumper.
+SMU,Hofstra,48,28,26,42,0,Stevie Mejia Defensive Rebound.
+SMU,Hofstra,48,28,27,12,0,Stevie Mejia missed Jumper.
+SMU,Hofstra,48,28,27,12,0,Jalen Jones Block.
+SMU,Hofstra,48,28,27,14,0,Cannen Cunningham Defensive Rebound.
+SMU,Hofstra,50,28,27,17,1,Jalen Jones made Dunk.  Assisted by Cannen Cunningham.
+SMU,Hofstra,50,28,27,43,0,Stevie Mejia Turnover.
+SMU,Hofstra,50,28,27,45,0,Nick Russell Steal.
+SMU,Hofstra,52,28,27,48,1,Ryan Manuel made Dunk.  Assisted by Nick Russell.
+SMU,Hofstra,52,28,27,49,0,Hofstra Full Timeout.
+SMU,Hofstra,52,28,28,9,0,Taran Buie Turnover.
+SMU,Hofstra,52,28,28,11,0,Nick Russell Steal.
+SMU,Hofstra,54,28,28,13,1,Jalen Jones made Layup.  Assisted by Ryan Manuel.
+SMU,Hofstra,54,28,28,13,0,Foul on Stevie Mejia
+SMU,Hofstra,54,28,28,15,0,Official TV Timeout.
+SMU,Hofstra,55,28,28,15,1,Jalen Jones made Free Throw.
+SMU,Hofstra,55,28,28,31,0,Foul on Jalen Jones
+SMU,Hofstra,55,28,28,31,0,Taran Buie missed Free Throw.
+SMU,Hofstra,55,28,28,31,0,null
+SMU,Hofstra,55,29,28,31,1,Taran Buie made Free Throw.
+SMU,Hofstra,55,29,28,42,0,Ryan Manuel Turnover.
+SMU,Hofstra,55,29,28,43,0,David Imes Steal.
+SMU,Hofstra,55,31,28,47,1,Moussa Kone made Layup.  Assisted by Stevie Mejia.
+SMU,Hofstra,55,31,29,15,0,Nick Russell missed Jumper.
+SMU,Hofstra,55,31,29,15,0,David Imes Defensive Rebound.
+SMU,Hofstra,55,31,29,22,0,Taran Buie missed Three Point Jumper.
+SMU,Hofstra,55,31,29,22,0,Moussa Kone Offensive Rebound.
+SMU,Hofstra,55,31,29,27,0,Taran Buie missed Jumper.
+SMU,Hofstra,55,31,29,27,0,Cannen Cunningham Block.
+SMU,Hofstra,55,31,29,31,0,Ryan Manuel Defensive Rebound.
+SMU,Hofstra,55,31,29,46,0,Cannen Cunningham Turnover.
+SMU,Hofstra,55,31,29,47,0,Moussa Kone Steal.
+SMU,Hofstra,55,31,29,50,0,Foul on Cannen Cunningham
+SMU,Hofstra,55,32,29,50,1,Taran Buie made Free Throw.
+SMU,Hofstra,55,32,29,50,0,Taran Buie missed Free Throw.
+SMU,Hofstra,55,32,29,50,0,Jalen Jones Defensive Rebound.
+SMU,Hofstra,55,32,29,56,0,London Giles Turnover.
+SMU,Hofstra,55,35,30,17,1,Matt Grogan made Three Point Jumper.  Assisted by Darren Payen.
+SMU,Hofstra,55,35,30,36,0,Foul on Moussa Kone
+SMU,Hofstra,55,35,30,36,0,Cannen Cunningham missed Free Throw.
+SMU,Hofstra,55,35,30,36,0,null
+SMU,Hofstra,56,35,30,36,1,Cannen Cunningham made Free Throw.
+SMU,Hofstra,56,35,30,50,0,Foul on Cannen Cunningham
+SMU,Hofstra,56,36,30,50,1,Stevie Mejia made Free Throw.
+SMU,Hofstra,56,36,30,50,0,Stevie Mejia missed Free Throw.
+SMU,Hofstra,56,36,30,50,0,Jalen Jones Defensive Rebound.
+SMU,Hofstra,58,36,31,3,1,Cannen Cunningham made Jumper.  Assisted by Nick Russell.
+SMU,Hofstra,58,36,31,21,0,Moussa Kone missed Layup.
+SMU,Hofstra,58,36,31,21,0,Jordan Allen Offensive Rebound.
+SMU,Hofstra,58,36,31,27,0,Jordan Allen missed Jumper.
+SMU,Hofstra,58,36,31,27,0,Shawn Williams Block.
+SMU,Hofstra,58,36,31,29,0,Matt Grogan Offensive Rebound.
+SMU,Hofstra,58,36,31,48,0,Matt Grogan Turnover.
+SMU,Hofstra,58,36,32,16,0,Ryan Manuel missed Three Point Jumper.
+SMU,Hofstra,58,36,32,16,0,Stephen Nwaukoni Defensive Rebound.
+SMU,Hofstra,58,38,32,31,1,Stevie Mejia made Jumper.
+SMU,Hofstra,61,38,32,50,1,Shawn Williams made Three Point Jumper.  Assisted by Jalen Jones.
+SMU,Hofstra,61,38,33,16,0,Jordan Allen missed Jumper.
+SMU,Hofstra,61,38,33,16,0,Jalen Jones Defensive Rebound.
+SMU,Hofstra,61,38,33,37,0,Nick Russell missed Three Point Jumper.
+SMU,Hofstra,61,38,33,37,0,Darren Payen Defensive Rebound.
+SMU,Hofstra,61,38,33,48,0,Stevie Mejia missed Three Point Jumper.
+SMU,Hofstra,61,38,33,48,0,Jordan Allen Offensive Rebound.
+SMU,Hofstra,61,40,33,52,1,Jordan Allen made Layup.
+SMU,Hofstra,61,40,33,52,0,Foul on Shawn Williams
+SMU,Hofstra,61,40,33,52,0,Official TV Timeout.
+SMU,Hofstra,61,40,33,52,0,Jordan Allen missed Free Throw.
+SMU,Hofstra,61,40,33,52,0,Stephen Nwaukoni Offensive Rebound.
+SMU,Hofstra,61,40,33,55,0,Stephen Nwaukoni missed Layup.
+SMU,Hofstra,61,40,33,55,0,Jalen Jones Defensive Rebound.
+SMU,Hofstra,61,40,34,5,0,Nick Russell Turnover.
+SMU,Hofstra,61,40,34,6,0,Stevie Mejia Steal.
+SMU,Hofstra,61,40,34,8,0,Stevie Mejia missed Layup.
+SMU,Hofstra,61,40,34,8,0,Hofstra Offensive Rebound.
+SMU,Hofstra,61,43,34,12,1,Taran Buie made Three Point Jumper.  Assisted by Stevie Mejia.
+SMU,Hofstra,64,43,34,49,1,Nick Russell made Three Point Jumper.
+SMU,Hofstra,64,43,35,1,0,Taran Buie missed Three Point Jumper.
+SMU,Hofstra,64,43,35,1,0,Cannen Cunningham Defensive Rebound.
+SMU,Hofstra,66,43,35,7,1,Brian Bernardi made Layup.  Assisted by Cannen Cunningham.
+SMU,Hofstra,66,43,35,28,0,Foul on Jalen Jones
+SMU,Hofstra,66,43,35,28,0,Darren Payen missed Free Throw.
+SMU,Hofstra,66,43,35,28,0,Shawn Williams Defensive Rebound.
+SMU,Hofstra,66,43,35,45,0,Nick Russell missed Layup.
+SMU,Hofstra,66,43,35,45,0,Nick Russell Offensive Rebound.
+SMU,Hofstra,68,43,35,50,1,Nick Russell made Jumper.
+SMU,Hofstra,68,43,36,2,0,Taran Buie missed Jumper.
+SMU,Hofstra,68,43,36,2,0,Darren Payen Offensive Rebound.
+SMU,Hofstra,68,43,36,7,0,Darren Payen missed Layup.
+SMU,Hofstra,68,43,36,7,0,Jordan Dickerson Defensive Rebound.
+SMU,Hofstra,71,43,36,21,1,Brian Bernardi made Three Point Jumper.  Assisted by Nick Russell.
+SMU,Hofstra,71,43,36,31,0,Foul on Brian Bernardi
+SMU,Hofstra,71,43,36,31,0,Official TV Timeout.
+SMU,Hofstra,71,43,36,31,0,Stevie Mejia missed Free Throw.
+SMU,Hofstra,71,43,36,31,0,Stephen Nwaukoni Offensive Rebound.
+SMU,Hofstra,71,43,36,34,0,Stephen Nwaukoni Turnover.
+SMU,Hofstra,71,43,36,36,0,Ryan Manuel Steal.
+SMU,Hofstra,73,43,36,45,1,Ryan Manuel made Dunk.  Assisted by Nick Russell.
+SMU,Hofstra,73,43,36,58,0,Foul on Jordan Dickerson
+SMU,Hofstra,73,43,36,58,0,Taran Buie missed Free Throw.
+SMU,Hofstra,73,43,36,58,0,null
+SMU,Hofstra,73,44,36,58,1,Taran Buie made Free Throw.
+SMU,Hofstra,73,44,37,26,0,Brian Bernardi Turnover.
+SMU,Hofstra,73,44,37,27,0,Stevie Mejia Steal.
+SMU,Hofstra,73,44,37,30,0,Stevie Mejia missed Jumper.
+SMU,Hofstra,73,44,37,30,0,Shawn Williams Defensive Rebound.
+SMU,Hofstra,73,44,37,56,0,Nick Russell Turnover.
+SMU,Hofstra,73,44,37,58,0,Stevie Mejia Steal.
+SMU,Hofstra,73,44,37,59,0,David Imes Turnover.
+SMU,Hofstra,73,44,38,2,0,Kevin Dunleavy Jr. Steal.
+SMU,Hofstra,73,44,38,5,0,Southern Methodist Full Timeout.
+SMU,Hofstra,73,44,38,32,0,Brian Bernardi Turnover.
+SMU,Hofstra,73,44,38,42,0,Foul on Kevin Dunleavy Jr.
+SMU,Hofstra,73,45,38,42,1,Adam Savion made Free Throw.
+SMU,Hofstra,73,45,38,42,0,Adam Savion missed Free Throw.
+SMU,Hofstra,73,45,38,42,0,Jordan Dickerson Defensive Rebound.
+SMU,Hofstra,73,45,39,10,0,Brian Bernardi missed Jumper.
+SMU,Hofstra,73,45,39,10,0,Moussa Kone Block.
+SMU,Hofstra,73,45,39,10,0,Jordan Dickerson Offensive Rebound.
+SMU,Hofstra,73,45,39,10,0,Jordan Dickerson Turnover.
+SMU,Hofstra,73,45,39,10,0,Foul on Kevin Dunleavy Jr.
+SMU,Hofstra,73,46,39,10,1,Adam Savion made Free Throw.
+SMU,Hofstra,73,47,39,10,1,Adam Savion made Free Throw.
+SMU,Hofstra,73,47,39,27,0,Shawn Williams missed Jumper.
+SMU,Hofstra,73,47,39,27,0,Darren Payen Defensive Rebound.
+SMU,Hofstra,73,47,39,49,0,Moussa Kone missed Layup.
+SMU,Hofstra,73,47,39,49,0,Shawn Williams Defensive Rebound.
+SMU,Hofstra,73,47,40,0,0,End Game
+SMU,Hofstra,73,47,40,0,0,End Game

@@ -1,0 +1,338 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+San Diego State,Colorado State,0,0,0,0,0,Jump Ball won by Colorado St
+San Diego State,Colorado State,0,0,0,24,0,Daniel Bejarano missed Jumper.
+San Diego State,Colorado State,0,0,0,24,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,2,0,0,49,1,Winston Shepard made Jumper.
+San Diego State,Colorado State,2,0,1,9,0,Joe De Ciman Turnover.
+San Diego State,Colorado State,2,0,1,9,0,Josh Davis Steal.
+San Diego State,Colorado State,2,0,1,15,0,Xavier Thames missed Three Point Jumper.
+San Diego State,Colorado State,2,0,1,15,0,Skylar Spencer Offensive Rebound.
+San Diego State,Colorado State,2,0,1,20,0,Skylar Spencer missed Layup.
+San Diego State,Colorado State,2,0,1,20,0,San Diego St Offensive Rebound.
+San Diego State,Colorado State,4,0,1,34,1,J.J. O'Brien made Jumper.
+San Diego State,Colorado State,4,0,2,4,0,Daniel Bejarano missed Three Point Jumper.
+San Diego State,Colorado State,4,0,2,4,0,San Diego St Defensive Rebound.
+San Diego State,Colorado State,6,0,2,44,1,J.J. O'Brien made Jumper.
+San Diego State,Colorado State,6,0,3,4,0,Gerson Santo Turnover.
+San Diego State,Colorado State,6,0,3,4,0,Xavier Thames Steal.
+San Diego State,Colorado State,6,0,3,12,0,Josh Davis missed Layup.
+San Diego State,Colorado State,6,0,3,12,0,Skylar Spencer Offensive Rebound.
+San Diego State,Colorado State,6,0,3,12,0,Skylar Spencer missed Two Point Tip Shot.
+San Diego State,Colorado State,6,0,3,12,0,Josh Davis Offensive Rebound.
+San Diego State,Colorado State,6,0,3,20,0,Josh Davis Turnover.
+San Diego State,Colorado State,6,0,3,20,0,Colorado St  Timeout
+San Diego State,Colorado State,6,0,3,25,0,Joe De Ciman missed Layup.
+San Diego State,Colorado State,6,0,3,25,0,J.J. Avila Offensive Rebound.
+San Diego State,Colorado State,6,2,3,41,1,Jon Octeus made Jumper.
+San Diego State,Colorado State,6,2,4,5,0,Josh Davis Turnover.
+San Diego State,Colorado State,6,2,4,6,0,Official TV Timeout
+San Diego State,Colorado State,6,2,4,16,0,Jon Octeus missed Jumper.
+San Diego State,Colorado State,6,2,4,16,0,Skylar Spencer Block.
+San Diego State,Colorado State,6,2,4,16,0,Colorado St Offensive Rebound.
+San Diego State,Colorado State,6,4,4,20,1,J.J. Avila made Layup. Assisted by Dwight Smith.
+San Diego State,Colorado State,6,4,4,40,0,Foul on J.J. O'Brien.
+San Diego State,Colorado State,6,4,4,40,0,J.J. O'Brien Turnover.
+San Diego State,Colorado State,6,4,4,57,0,Joe De Ciman missed Three Point Jumper.
+San Diego State,Colorado State,6,4,4,57,0,Skylar Spencer Defensive Rebound.
+San Diego State,Colorado State,6,4,5,4,0,Dwayne Polee II missed Three Point Jumper.
+San Diego State,Colorado State,6,4,5,4,0,Jon Octeus Defensive Rebound.
+San Diego State,Colorado State,6,4,5,13,0,Jon Octeus Turnover.
+San Diego State,Colorado State,8,4,5,20,1,Aqeel Quinn made Layup.
+San Diego State,Colorado State,8,4,5,40,0,Foul on Matt Shrigley.
+San Diego State,Colorado State,8,4,5,40,0,Joe De Ciman missed Free Throw.
+San Diego State,Colorado State,8,4,5,40,0,Colorado St Deadball Team Rebound.
+San Diego State,Colorado State,8,5,5,40,1,Joe De Ciman made Free Throw.
+San Diego State,Colorado State,8,5,5,57,0,J.J. O'Brien missed Jumper.
+San Diego State,Colorado State,8,5,5,57,0,Jon Octeus Defensive Rebound.
+San Diego State,Colorado State,8,7,6,13,1,J.J. Avila made Jumper.
+San Diego State,Colorado State,8,7,6,13,0,Foul on Matt Shrigley.
+San Diego State,Colorado State,8,8,6,13,1,J.J. Avila made Free Throw.
+San Diego State,Colorado State,8,8,6,30,0,Foul on Dwight Smith.
+San Diego State,Colorado State,8,8,6,41,0,Dwayne Polee II Turnover.
+San Diego State,Colorado State,8,8,6,41,0,J.J. Avila Steal.
+San Diego State,Colorado State,8,8,6,51,0,Joe De Ciman missed Layup.
+San Diego State,Colorado State,8,8,6,51,0,Gerson Santo Offensive Rebound.
+San Diego State,Colorado State,8,8,6,51,0,Gerson Santo missed Two Point Tip Shot.
+San Diego State,Colorado State,8,8,6,51,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,10,8,6,58,1,Dwayne Polee II made Layup.
+San Diego State,Colorado State,10,8,6,58,0,Foul on J.J. Avila.
+San Diego State,Colorado State,11,8,6,58,1,Dwayne Polee II made Free Throw.
+San Diego State,Colorado State,11,8,7,13,0,Foul on Winston Shepard.
+San Diego State,Colorado State,11,8,7,20,0,J.J. Avila Turnover.
+San Diego State,Colorado State,11,8,7,20,0,Josh Davis Steal.
+San Diego State,Colorado State,13,8,7,28,1,Winston Shepard made Jumper.
+San Diego State,Colorado State,13,8,7,49,0,Foul on Dwayne Polee II.
+San Diego State,Colorado State,13,8,7,50,0,Foul on Dwayne Polee II.
+San Diego State,Colorado State,13,9,7,50,1,Gerson Santo made Free Throw.
+San Diego State,Colorado State,13,10,7,50,1,Gerson Santo made Free Throw.
+San Diego State,Colorado State,15,10,8,8,1,Xavier Thames made Jumper.
+San Diego State,Colorado State,15,12,8,44,1,Gerson Santo made Jumper. Assisted by Dwight Smith.
+San Diego State,Colorado State,15,12,8,58,0,Winston Shepard missed Jumper.
+San Diego State,Colorado State,15,12,8,58,0,Josh Davis Offensive Rebound.
+San Diego State,Colorado State,15,12,9,1,0,Jump Ball won by San Diego St
+San Diego State,Colorado State,15,12,9,1,0,Official TV Timeout
+San Diego State,Colorado State,17,12,9,8,1,Xavier Thames made Jumper.
+San Diego State,Colorado State,17,12,9,44,0,Daniel Bejarano missed Jumper.
+San Diego State,Colorado State,17,12,9,44,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,20,12,9,52,1,Xavier Thames made Three Point Jumper. Assisted by J.J. O'Brien.
+San Diego State,Colorado State,20,14,10,25,1,J.J. Avila made Jumper. Assisted by Dwight Smith.
+San Diego State,Colorado State,20,14,10,52,0,Xavier Thames Turnover.
+San Diego State,Colorado State,20,14,10,59,0,Daniel Bejarano Turnover.
+San Diego State,Colorado State,20,14,10,59,0,Xavier Thames Steal.
+San Diego State,Colorado State,20,14,11,4,0,Winston Shepard missed Layup.
+San Diego State,Colorado State,20,14,11,4,0,Daniel Bejarano Defensive Rebound.
+San Diego State,Colorado State,20,16,11,22,1,J.J. Avila made Jumper.
+San Diego State,Colorado State,20,16,11,35,0,Foul on Jon Octeus.
+San Diego State,Colorado State,20,16,11,41,0,J.J. O'Brien missed Jumper.
+San Diego State,Colorado State,20,16,11,41,0,J.J. Avila Defensive Rebound.
+San Diego State,Colorado State,20,16,11,57,0,J.J. Avila Turnover.
+San Diego State,Colorado State,20,16,12,17,0,Aqeel Quinn Turnover.
+San Diego State,Colorado State,20,16,12,17,0,Official TV Timeout
+San Diego State,Colorado State,20,18,12,39,1,Daniel Bejarano made Jumper.
+San Diego State,Colorado State,23,18,13,1,1,Aqeel Quinn made Three Point Jumper.
+San Diego State,Colorado State,23,18,13,27,0,J.J. Avila missed Three Point Jumper.
+San Diego State,Colorado State,23,18,13,27,0,Dwayne Polee II Defensive Rebound.
+San Diego State,Colorado State,23,18,14,1,0,Josh Davis Turnover.
+San Diego State,Colorado State,23,18,14,17,0,Joe De Ciman missed Jumper.
+San Diego State,Colorado State,23,18,14,17,0,Skylar Spencer Defensive Rebound.
+San Diego State,Colorado State,23,18,14,31,0,Xavier Thames missed Three Point Jumper.
+San Diego State,Colorado State,23,18,14,31,0,Daniel Bejarano Defensive Rebound.
+San Diego State,Colorado State,23,18,14,31,0,Daniel Bejarano missed Jumper.
+San Diego State,Colorado State,23,18,14,31,0,Aqeel Quinn Block.
+San Diego State,Colorado State,23,18,14,31,0,J.J. Avila Offensive Rebound.
+San Diego State,Colorado State,23,20,14,44,1,J.J. Avila made Jumper.
+San Diego State,Colorado State,23,20,14,58,0,Foul on Aqeel Quinn.
+San Diego State,Colorado State,23,20,14,58,0,Aqeel Quinn Turnover.
+San Diego State,Colorado State,23,20,15,12,0,Foul on Dakarai Allen.
+San Diego State,Colorado State,23,21,15,12,1,J.J. Avila made Free Throw.
+San Diego State,Colorado State,23,21,15,12,0,J.J. Avila missed Free Throw.
+San Diego State,Colorado State,23,21,15,12,0,Skylar Spencer Defensive Rebound.
+San Diego State,Colorado State,23,21,15,29,0,J.J. O'Brien missed Jumper.
+San Diego State,Colorado State,23,21,15,29,0,J.J. Avila Defensive Rebound.
+San Diego State,Colorado State,23,23,15,38,1,Daniel Bejarano made Jumper.
+San Diego State,Colorado State,23,23,15,58,0,Winston Shepard missed Three Point Jumper.
+San Diego State,Colorado State,23,23,15,58,0,San Diego St Offensive Rebound.
+San Diego State,Colorado State,23,23,16,2,0,Official TV Timeout
+San Diego State,Colorado State,25,23,16,6,1,Skylar Spencer made Layup. Assisted by Xavier Thames.
+San Diego State,Colorado State,25,25,16,27,1,Joe De Ciman made Jumper. Assisted by Jon Octeus.
+San Diego State,Colorado State,25,25,16,50,0,Winston Shepard missed Jumper.
+San Diego State,Colorado State,25,25,16,50,0,Winston Shepard Offensive Rebound.
+San Diego State,Colorado State,27,25,16,55,1,Winston Shepard made Layup.
+San Diego State,Colorado State,27,25,16,55,0,Foul on Marcus Holt.
+San Diego State,Colorado State,27,25,16,55,0,Winston Shepard missed Free Throw.
+San Diego State,Colorado State,27,25,16,55,0,Dakarai Allen Offensive Rebound.
+San Diego State,Colorado State,29,25,16,58,1,Winston Shepard made Jumper.
+San Diego State,Colorado State,29,25,17,5,0,Colorado St  Timeout
+San Diego State,Colorado State,29,25,17,17,0,Jon Octeus missed Three Point Jumper.
+San Diego State,Colorado State,29,25,17,17,0,Dwight Smith Offensive Rebound.
+San Diego State,Colorado State,29,25,17,29,0,Foul on Dakarai Allen.
+San Diego State,Colorado State,29,26,17,29,1,Joe De Ciman made Free Throw.
+San Diego State,Colorado State,29,27,17,29,1,Joe De Ciman made Free Throw.
+San Diego State,Colorado State,29,27,17,44,0,J.J. O'Brien missed Jumper.
+San Diego State,Colorado State,29,27,17,44,0,Colorado St Defensive Rebound.
+San Diego State,Colorado State,29,27,17,51,0,Foul on Dakarai Allen.
+San Diego State,Colorado State,29,27,17,51,0,Dwight Smith missed Free Throw.
+San Diego State,Colorado State,29,27,17,51,0,Colorado St Deadball Team Rebound.
+San Diego State,Colorado State,29,27,17,51,0,Dwight Smith missed Free Throw.
+San Diego State,Colorado State,29,27,17,51,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,31,27,18,10,1,J.J. O'Brien made Jumper.
+San Diego State,Colorado State,31,27,18,10,0,Foul on Dwight Smith.
+San Diego State,Colorado State,32,27,18,10,1,J.J. O'Brien made Free Throw.
+San Diego State,Colorado State,32,27,18,10,0,Jon Octeus Turnover.
+San Diego State,Colorado State,32,27,18,10,0,Xavier Thames Steal.
+San Diego State,Colorado State,34,27,18,15,1,Winston Shepard made Dunk. Assisted by Matt Shrigley.
+San Diego State,Colorado State,34,27,18,32,0,Daniel Bejarano missed Three Point Jumper.
+San Diego State,Colorado State,34,27,18,32,0,Dwight Smith Offensive Rebound.
+San Diego State,Colorado State,34,27,18,42,0,Joe De Ciman Turnover.
+San Diego State,Colorado State,34,27,18,56,0,Xavier Thames missed Jumper.
+San Diego State,Colorado State,34,27,18,56,0,Daniel Bejarano Defensive Rebound.
+San Diego State,Colorado State,34,27,19,15,0,Daniel Bejarano missed Jumper.
+San Diego State,Colorado State,34,27,19,15,0,Winston Shepard Defensive Rebound.
+San Diego State,Colorado State,34,27,19,20,0,San Diego St  Timeout
+San Diego State,Colorado State,34,27,19,28,0,Winston Shepard missed Jumper.
+San Diego State,Colorado State,34,27,19,28,0,Daniel Bejarano Block.
+San Diego State,Colorado State,34,27,19,28,0,Daniel Bejarano Defensive Rebound.
+San Diego State,Colorado State,34,27,19,32,0,Daniel Bejarano Turnover.
+San Diego State,Colorado State,34,27,19,32,0,Xavier Thames Steal.
+San Diego State,Colorado State,36,27,19,57,1,Xavier Thames made Jumper.
+San Diego State,Colorado State,36,27,20,0,0,End of 1st half
+San Diego State,Colorado State,36,27,20,0,0,Jump Ball won by Colorado St
+San Diego State,Colorado State,36,27,20,15,0,Jon Octeus missed Jumper.
+San Diego State,Colorado State,36,27,20,15,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,36,27,20,22,0,Xavier Thames Turnover.
+San Diego State,Colorado State,36,27,20,43,0,J.J. Avila missed Layup.
+San Diego State,Colorado State,36,27,20,43,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,36,27,21,8,0,Xavier Thames Turnover.
+San Diego State,Colorado State,36,27,21,8,0,Joe De Ciman Steal.
+San Diego State,Colorado State,36,27,21,15,0,Foul on J.J. O'Brien.
+San Diego State,Colorado State,36,28,21,15,1,Daniel Bejarano made Free Throw.
+San Diego State,Colorado State,36,29,21,15,1,Daniel Bejarano made Free Throw.
+San Diego State,Colorado State,36,29,21,38,0,J.J. O'Brien Turnover.
+San Diego State,Colorado State,36,29,21,45,0,Joe De Ciman missed Jumper.
+San Diego State,Colorado State,36,29,21,45,0,Gerson Santo Offensive Rebound.
+San Diego State,Colorado State,36,29,21,48,0,Gerson Santo Turnover.
+San Diego State,Colorado State,36,29,21,48,0,Skylar Spencer Steal.
+San Diego State,Colorado State,36,29,22,7,0,J.J. O'Brien missed Three Point Jumper.
+San Diego State,Colorado State,36,29,22,7,0,Skylar Spencer Offensive Rebound.
+San Diego State,Colorado State,36,29,22,7,0,Skylar Spencer missed Two Point Tip Shot.
+San Diego State,Colorado State,36,29,22,7,0,Jon Octeus Defensive Rebound.
+San Diego State,Colorado State,36,29,22,32,0,Gerson Santo Turnover.
+San Diego State,Colorado State,36,29,22,32,0,Winston Shepard Steal.
+San Diego State,Colorado State,36,29,23,1,0,Xavier Thames missed Jumper.
+San Diego State,Colorado State,36,29,23,1,0,Skylar Spencer Offensive Rebound.
+San Diego State,Colorado State,36,29,23,1,0,Skylar Spencer missed Two Point Tip Shot.
+San Diego State,Colorado State,36,29,23,1,0,Gerson Santo Defensive Rebound.
+San Diego State,Colorado State,36,29,23,15,0,Foul on J.J. O'Brien.
+San Diego State,Colorado State,36,30,23,15,1,Daniel Bejarano made Free Throw.
+San Diego State,Colorado State,36,31,23,15,1,Daniel Bejarano made Free Throw.
+San Diego State,Colorado State,38,31,23,32,1,J.J. O'Brien made Jumper.
+San Diego State,Colorado State,38,33,23,49,1,J.J. Avila made Layup. Assisted by Daniel Bejarano.
+San Diego State,Colorado State,38,33,23,49,0,Foul on Skylar Spencer.
+San Diego State,Colorado State,38,34,23,49,1,J.J. Avila made Free Throw.
+San Diego State,Colorado State,38,34,24,12,0,J.J. O'Brien missed Jumper.
+San Diego State,Colorado State,38,34,24,12,0,Josh Davis Offensive Rebound.
+San Diego State,Colorado State,40,34,24,12,1,Josh Davis made Two Point Tip Shot.
+San Diego State,Colorado State,40,34,24,27,0,Daniel Bejarano missed Layup.
+San Diego State,Colorado State,40,34,24,27,0,Skylar Spencer Block.
+San Diego State,Colorado State,40,34,24,27,0,Colorado St Offensive Rebound.
+San Diego State,Colorado State,40,34,24,30,0,Official TV Timeout
+San Diego State,Colorado State,40,36,24,37,1,Joe De Ciman made Jumper. Assisted by J.J. Avila.
+San Diego State,Colorado State,42,36,24,55,1,Winston Shepard made Layup.
+San Diego State,Colorado State,42,36,24,55,0,Foul on Dwight Smith.
+San Diego State,Colorado State,43,36,24,55,1,Winston Shepard made Free Throw.
+San Diego State,Colorado State,43,36,25,9,0,J.J. Avila missed Jumper.
+San Diego State,Colorado State,43,36,25,9,0,Dwayne Polee II Defensive Rebound.
+San Diego State,Colorado State,45,36,25,16,1,Josh Davis made Layup.
+San Diego State,Colorado State,45,39,25,28,1,Daniel Bejarano made Three Point Jumper. Assisted by Joe De Ciman.
+San Diego State,Colorado State,48,39,25,43,1,Aqeel Quinn made Three Point Jumper. Assisted by Josh Davis.
+San Diego State,Colorado State,48,39,26,0,0,Joe De Ciman missed Jumper.
+San Diego State,Colorado State,48,39,26,0,0,Gerson Santo Offensive Rebound.
+San Diego State,Colorado State,48,39,26,1,0,Foul on Aqeel Quinn.
+San Diego State,Colorado State,48,39,26,12,0,Daniel Bejarano missed Three Point Jumper.
+San Diego State,Colorado State,48,39,26,12,0,Dwayne Polee II Defensive Rebound.
+San Diego State,Colorado State,50,39,26,24,1,Skylar Spencer made Jumper.
+San Diego State,Colorado State,50,39,26,38,0,Foul on Aqeel Quinn.
+San Diego State,Colorado State,50,40,26,38,1,Jon Octeus made Free Throw.
+San Diego State,Colorado State,50,41,26,38,1,Jon Octeus made Free Throw.
+San Diego State,Colorado State,50,41,26,56,0,Matt Shrigley missed Dunk.
+San Diego State,Colorado State,50,41,26,56,0,Gerson Santo Block.
+San Diego State,Colorado State,50,41,26,56,0,Gerson Santo Defensive Rebound.
+San Diego State,Colorado State,50,41,27,4,0,Daniel Bejarano missed Three Point Jumper.
+San Diego State,Colorado State,50,41,27,4,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,50,41,27,16,0,Matt Shrigley missed Three Point Jumper.
+San Diego State,Colorado State,50,41,27,16,0,Dwayne Polee II Offensive Rebound.
+San Diego State,Colorado State,50,41,27,22,0,Matt Shrigley missed Three Point Jumper.
+San Diego State,Colorado State,50,41,27,22,0,Jon Octeus Defensive Rebound.
+San Diego State,Colorado State,50,43,27,30,1,Jon Octeus made Layup.
+San Diego State,Colorado State,52,43,27,58,1,Josh Davis made Layup. Assisted by Aqeel Quinn.
+San Diego State,Colorado State,52,43,27,58,0,Foul on Jon Octeus.
+San Diego State,Colorado State,52,43,27,58,0,Josh Davis missed Free Throw.
+San Diego State,Colorado State,52,43,27,58,0,Aqeel Quinn Offensive Rebound.
+San Diego State,Colorado State,52,43,28,21,0,Official TV Timeout
+San Diego State,Colorado State,52,43,28,29,0,J.J. O'Brien Turnover.
+San Diego State,Colorado State,52,43,28,29,0,J.J. Avila Steal.
+San Diego State,Colorado State,52,45,28,46,1,Jon Octeus made Jumper.
+San Diego State,Colorado State,52,45,29,12,0,Aqeel Quinn missed Three Point Jumper.
+San Diego State,Colorado State,52,45,29,12,0,J.J. O'Brien Offensive Rebound.
+San Diego State,Colorado State,52,45,29,17,0,Foul on J.J. Avila.
+San Diego State,Colorado State,52,45,29,35,0,Matt Shrigley Turnover.
+San Diego State,Colorado State,52,45,29,39,0,J.J. Avila Turnover.
+San Diego State,Colorado State,52,45,29,39,0,Xavier Thames Steal.
+San Diego State,Colorado State,52,45,29,46,0,Aqeel Quinn missed Layup.
+San Diego State,Colorado State,52,45,29,46,0,Jon Octeus Defensive Rebound.
+San Diego State,Colorado State,52,45,29,54,0,Foul on J.J. O'Brien.
+San Diego State,Colorado State,52,46,29,54,1,Carlton Hurst made Free Throw.
+San Diego State,Colorado State,52,46,29,54,0,Carlton Hurst missed Free Throw.
+San Diego State,Colorado State,52,46,29,54,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,52,46,30,27,0,Foul on Jon Octeus.
+San Diego State,Colorado State,55,46,30,27,1,Xavier Thames made Three Point Jumper. Assisted by Dakarai Allen.
+San Diego State,Colorado State,55,46,30,41,0,Colorado St  Timeout
+San Diego State,Colorado State,55,46,30,45,0,Dwight Smith missed Jumper.
+San Diego State,Colorado State,55,46,30,45,0,Josh Davis Block.
+San Diego State,Colorado State,55,46,30,45,0,Skylar Spencer Defensive Rebound.
+San Diego State,Colorado State,57,46,31,23,1,Xavier Thames made Jumper.
+San Diego State,Colorado State,57,49,31,55,1,Daniel Bejarano made Three Point Jumper.
+San Diego State,Colorado State,60,49,32,28,1,Xavier Thames made Three Point Jumper.
+San Diego State,Colorado State,60,49,32,41,0,Official TV Timeout
+San Diego State,Colorado State,60,52,32,56,1,Daniel Bejarano made Three Point Jumper.
+San Diego State,Colorado State,60,52,33,11,0,Foul on J.J. Avila.
+San Diego State,Colorado State,60,52,33,29,0,Foul on Gerson Santo.
+San Diego State,Colorado State,60,52,33,29,0,Dakarai Allen missed Free Throw.
+San Diego State,Colorado State,60,52,33,29,0,San Diego St Deadball Team Rebound.
+San Diego State,Colorado State,60,52,33,29,0,Dakarai Allen missed Free Throw.
+San Diego State,Colorado State,60,52,33,29,0,Daniel Bejarano Defensive Rebound.
+San Diego State,Colorado State,60,52,33,29,0,Daniel Bejarano Turnover.
+San Diego State,Colorado State,60,52,33,29,0,Josh Davis Steal.
+San Diego State,Colorado State,62,52,33,34,1,Xavier Thames made Layup. Assisted by Dakarai Allen.
+San Diego State,Colorado State,62,52,34,4,0,Foul on Dakarai Allen.
+San Diego State,Colorado State,62,53,34,4,1,Daniel Bejarano made Free Throw.
+San Diego State,Colorado State,62,54,34,4,1,Daniel Bejarano made Free Throw.
+San Diego State,Colorado State,62,54,34,30,0,Dwayne Polee II missed Three Point Jumper.
+San Diego State,Colorado State,62,54,34,30,0,David Cohn Defensive Rebound.
+San Diego State,Colorado State,62,54,34,35,0,Jump Ball won by Colorado St
+San Diego State,Colorado State,62,54,34,42,0,Foul on Xavier Thames.
+San Diego State,Colorado State,62,54,34,42,0,David Cohn missed Free Throw.
+San Diego State,Colorado State,62,54,34,42,0,Gerson Santo Offensive Rebound.
+San Diego State,Colorado State,62,54,34,43,0,Foul on J.J. O'Brien.
+San Diego State,Colorado State,62,54,34,43,0,Gerson Santo missed Free Throw.
+San Diego State,Colorado State,62,54,34,43,0,J.J. Avila Offensive Rebound.
+San Diego State,Colorado State,62,54,34,57,0,Daniel Bejarano Turnover.
+San Diego State,Colorado State,62,54,35,12,0,Foul on J.J. Avila.
+San Diego State,Colorado State,62,54,35,12,0,Skylar Spencer missed Free Throw.
+San Diego State,Colorado State,62,54,35,12,0,J.J. Avila Defensive Rebound.
+San Diego State,Colorado State,62,54,35,31,0,Daniel Bejarano missed Three Point Jumper.
+San Diego State,Colorado State,62,54,35,31,0,Skylar Spencer Defensive Rebound.
+San Diego State,Colorado State,62,54,35,58,0,Foul on Gerson Santo.
+San Diego State,Colorado State,63,54,35,58,1,Winston Shepard made Free Throw.
+San Diego State,Colorado State,63,54,35,58,0,Winston Shepard missed Free Throw.
+San Diego State,Colorado State,63,54,35,58,0,Daniel Bejarano Defensive Rebound.
+San Diego State,Colorado State,63,54,36,3,0,Daniel Bejarano missed Jumper.
+San Diego State,Colorado State,63,54,36,3,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,63,54,36,7,0,Foul on J.J. Avila.
+San Diego State,Colorado State,63,54,36,7,0,Official TV Timeout
+San Diego State,Colorado State,63,54,36,7,0,Josh Davis missed Free Throw.
+San Diego State,Colorado State,63,54,36,7,0,Xavier Thames Offensive Rebound.
+San Diego State,Colorado State,63,54,36,42,0,Xavier Thames missed Three Point Jumper.
+San Diego State,Colorado State,63,54,36,42,0,Daniel Bejarano Defensive Rebound.
+San Diego State,Colorado State,63,56,36,58,1,Jon Octeus made Layup.
+San Diego State,Colorado State,63,56,37,37,0,Dwayne Polee II missed Three Point Jumper.
+San Diego State,Colorado State,63,56,37,37,0,Josh Davis Offensive Rebound.
+San Diego State,Colorado State,63,56,38,19,0,San Diego St  Turnover.
+San Diego State,Colorado State,63,56,38,32,0,Jon Octeus missed Layup.
+San Diego State,Colorado State,63,56,38,32,0,Skylar Spencer Block.
+San Diego State,Colorado State,63,56,38,32,0,Xavier Thames Defensive Rebound.
+San Diego State,Colorado State,63,56,38,49,0,Foul on Gerson Santo.
+San Diego State,Colorado State,64,56,38,49,1,Josh Davis made Free Throw.
+San Diego State,Colorado State,64,56,38,49,0,Josh Davis missed Free Throw.
+San Diego State,Colorado State,64,56,38,49,0,Jon Octeus Defensive Rebound.
+San Diego State,Colorado State,64,56,38,54,0,David Cohn missed Three Point Jumper.
+San Diego State,Colorado State,64,56,38,54,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,64,56,38,59,0,Foul on Joe De Ciman.
+San Diego State,Colorado State,65,56,38,59,1,Winston Shepard made Free Throw.
+San Diego State,Colorado State,65,56,38,59,0,Winston Shepard missed Free Throw.
+San Diego State,Colorado State,65,56,38,59,0,Joe De Ciman Defensive Rebound.
+San Diego State,Colorado State,65,56,39,9,0,Daniel Bejarano missed Jumper.
+San Diego State,Colorado State,65,56,39,9,0,Gerson Santo Offensive Rebound.
+San Diego State,Colorado State,65,56,39,11,0,Gerson Santo missed Layup.
+San Diego State,Colorado State,65,56,39,11,0,Skylar Spencer Block.
+San Diego State,Colorado State,65,56,39,11,0,Xavier Thames Defensive Rebound.
+San Diego State,Colorado State,65,56,39,12,0,Foul on Joe De Ciman.
+San Diego State,Colorado State,66,56,39,12,1,Xavier Thames made Free Throw.
+San Diego State,Colorado State,67,56,39,12,1,Xavier Thames made Free Throw.
+San Diego State,Colorado State,67,58,39,24,1,Daniel Bejarano made Layup.
+San Diego State,Colorado State,67,58,39,24,0,Foul on Dwayne Polee II.
+San Diego State,Colorado State,67,59,39,24,1,Daniel Bejarano made Free Throw.
+San Diego State,Colorado State,67,59,39,24,0,Foul on Jon Octeus.
+San Diego State,Colorado State,68,59,39,24,1,Xavier Thames made Free Throw.
+San Diego State,Colorado State,69,59,39,24,1,Xavier Thames made Free Throw.
+San Diego State,Colorado State,69,59,39,32,0,Daniel Bejarano missed Three Point Jumper.
+San Diego State,Colorado State,69,59,39,32,0,Daniel Bejarano Offensive Rebound.
+San Diego State,Colorado State,69,59,39,38,0,David Cohn missed Three Point Jumper.
+San Diego State,Colorado State,69,59,39,38,0,Gerson Santo Offensive Rebound.
+San Diego State,Colorado State,69,61,39,44,1,Gerson Santo made Dunk.
+San Diego State,Colorado State,69,61,39,44,0,Foul on Daniel Bejarano.
+San Diego State,Colorado State,70,61,39,44,1,Winston Shepard made Free Throw.
+San Diego State,Colorado State,71,61,39,44,1,Winston Shepard made Free Throw.
+San Diego State,Colorado State,71,61,39,51,0,Daniel Bejarano missed Jumper.
+San Diego State,Colorado State,71,61,39,51,0,Josh Davis Defensive Rebound.
+San Diego State,Colorado State,71,61,40,0,0,End of Game

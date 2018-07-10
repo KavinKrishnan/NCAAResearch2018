@@ -1,0 +1,309 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Liberty,Princeton,0,0,0,10,0,Foul on Lovell Cabbil.
+Liberty,Princeton,0,2,0,25,1,Henry Caruso made Jumper.
+Liberty,Princeton,2,2,0,47,1,John Dawson made Jumper.
+Liberty,Princeton,2,2,1,3,0,Foul on John Dawson.
+Liberty,Princeton,2,2,1,3,0,Henry Caruso missed Free Throw.
+Liberty,Princeton,2,2,1,3,0,Princeton Deadball Team Rebound.
+Liberty,Princeton,2,3,1,3,1,Henry Caruso made Free Throw.
+Liberty,Princeton,2,3,1,17,0,Evan Maxwell missed Layup.
+Liberty,Princeton,2,3,1,17,0,Pete Miller Defensive Rebound.
+Liberty,Princeton,2,3,1,32,0,Foul on Evan Maxwell.
+Liberty,Princeton,2,3,1,45,0,Pete Miller missed Layup.
+Liberty,Princeton,2,3,1,45,0,Evan Maxwell Defensive Rebound.
+Liberty,Princeton,4,3,1,56,1,Evan Maxwell made Layup. Assisted by Ryan Hiepler.
+Liberty,Princeton,4,3,2,10,0,Steven Cook missed Three Point Jumper.
+Liberty,Princeton,4,3,2,10,0,Lovell Cabbil Defensive Rebound.
+Liberty,Princeton,7,3,2,32,1,John Dawson made Three Point Jumper. Assisted by Lovell Cabbil.
+Liberty,Princeton,7,3,2,52,0,Pete Miller missed Layup.
+Liberty,Princeton,7,3,2,52,0,Henry Caruso Offensive Rebound.
+Liberty,Princeton,7,5,2,53,1,Henry Caruso made Layup.
+Liberty,Princeton,7,5,2,53,0,Foul on Ryan Kemrite.
+Liberty,Princeton,7,5,2,53,0,Henry Caruso missed Free Throw.
+Liberty,Princeton,7,5,2,53,0,Lovell Cabbil Defensive Rebound.
+Liberty,Princeton,10,5,3,9,1,Lovell Cabbil made Three Point Jumper. Assisted by John Dawson.
+Liberty,Princeton,10,5,3,27,0,Pete Miller Turnover.
+Liberty,Princeton,10,5,3,28,0,Lovell Cabbil Steal.
+Liberty,Princeton,10,5,3,33,0,John Dawson Turnover.
+Liberty,Princeton,10,5,3,34,0,Steven Cook Steal.
+Liberty,Princeton,10,7,3,37,1,Steven Cook made Dunk.
+Liberty,Princeton,10,7,4,1,0,John Dawson missed Three Point Jumper.
+Liberty,Princeton,10,7,4,1,0,Henry Caruso Defensive Rebound.
+Liberty,Princeton,10,9,4,18,1,Henry Caruso made Jumper.
+Liberty,Princeton,12,9,4,43,1,John Dawson made Layup.
+Liberty,Princeton,12,9,4,55,0,Pete Miller Turnover.
+Liberty,Princeton,12,9,4,55,0,Official TV Timeout
+Liberty,Princeton,12,9,5,24,0,Lovell Cabbil missed Layup.
+Liberty,Princeton,12,9,5,24,0,Spencer Weisz Defensive Rebound.
+Liberty,Princeton,12,9,5,39,0,Amir Bell missed Three Point Jumper.
+Liberty,Princeton,12,9,5,39,0,Ryan Kemrite Defensive Rebound.
+Liberty,Princeton,12,9,5,57,0,Ezra Talbert Turnover.
+Liberty,Princeton,12,9,6,14,0,Foul on John Dawson.
+Liberty,Princeton,12,10,6,14,1,Henry Caruso made Free Throw.
+Liberty,Princeton,12,10,6,14,0,Henry Caruso missed Free Throw.
+Liberty,Princeton,12,10,6,14,0,Ryan Kemrite Defensive Rebound.
+Liberty,Princeton,12,10,6,39,0,Anthony Fields missed Three Point Jumper.
+Liberty,Princeton,12,10,6,39,0,Henry Caruso Defensive Rebound.
+Liberty,Princeton,12,10,6,49,0,Amir Bell missed Layup.
+Liberty,Princeton,12,10,6,49,0,Amir Bell Offensive Rebound.
+Liberty,Princeton,12,12,6,52,1,Amir Bell made Layup.
+Liberty,Princeton,12,12,7,12,0,Foul on Ryan Kemrite.
+Liberty,Princeton,12,12,7,12,0,Ryan Kemrite Turnover.
+Liberty,Princeton,12,12,7,28,0,Steven Cook missed Layup.
+Liberty,Princeton,12,12,7,28,0,Evan Maxwell Defensive Rebound.
+Liberty,Princeton,12,12,7,28,0,Foul on Alec Brennan.
+Liberty,Princeton,12,12,7,47,0,Foul on Steven Cook.
+Liberty,Princeton,12,12,7,59,0,Foul on Alec Brennan.
+Liberty,Princeton,12,12,7,59,0,Evan Maxwell missed Free Throw.
+Liberty,Princeton,12,12,7,59,0,Liberty Deadball Team Rebound.
+Liberty,Princeton,13,12,7,59,1,Evan Maxwell made Free Throw.
+Liberty,Princeton,13,14,8,16,1,Jackson Forbes made Jumper. Assisted by Pete Miller.
+Liberty,Princeton,13,14,8,31,0,Official TV Timeout
+Liberty,Princeton,15,14,8,40,1,Caleb Homesley made Layup.
+Liberty,Princeton,15,14,8,56,0,Foul on Caleb Homesley.
+Liberty,Princeton,15,15,8,56,1,Steven Cook made Free Throw.
+Liberty,Princeton,15,15,8,56,0,Steven Cook missed Free Throw.
+Liberty,Princeton,15,15,8,56,0,Caleb Homesley Defensive Rebound.
+Liberty,Princeton,18,15,9,19,1,A.C. Reid made Three Point Jumper. Assisted by Ryan Hiepler.
+Liberty,Princeton,18,15,9,33,0,Spencer Weisz missed Layup.
+Liberty,Princeton,18,15,9,33,0,Evan Maxwell Defensive Rebound.
+Liberty,Princeton,18,15,9,51,0,Evan Maxwell missed Jumper.
+Liberty,Princeton,18,15,9,51,0,Henry Caruso Defensive Rebound.
+Liberty,Princeton,18,15,10,7,0,Spencer Weisz Turnover.
+Liberty,Princeton,18,15,10,8,0,A.C. Reid Steal.
+Liberty,Princeton,18,15,10,35,0,Caleb Homesley missed Three Point Jumper.
+Liberty,Princeton,18,15,10,35,0,Princeton Defensive Rebound.
+Liberty,Princeton,18,15,10,54,0,Spencer Weisz missed Layup.
+Liberty,Princeton,18,15,10,54,0,Spencer Weisz Offensive Rebound.
+Liberty,Princeton,18,15,11,11,0,Foul on Ryan Hiepler.
+Liberty,Princeton,18,16,11,11,1,Spencer Weisz made Free Throw.
+Liberty,Princeton,18,17,11,11,1,Spencer Weisz made Free Throw.
+Liberty,Princeton,18,17,11,27,0,Ryan Kemrite missed Three Point Jumper.
+Liberty,Princeton,18,17,11,27,0,Pete Miller Defensive Rebound.
+Liberty,Princeton,18,17,11,42,0,Henry Caruso missed Three Point Jumper.
+Liberty,Princeton,18,17,11,42,0,Ezra Talbert Defensive Rebound.
+Liberty,Princeton,18,17,11,45,0,Foul on Pete Miller.
+Liberty,Princeton,21,17,12,5,1,Ezra Talbert made Three Point Jumper.
+Liberty,Princeton,21,20,12,26,1,Spencer Weisz made Three Point Jumper. Assisted by Amir Bell.
+Liberty,Princeton,21,20,12,56,0,Official TV Timeout
+Liberty,Princeton,23,20,12,59,1,Anthony Fields made Layup.
+Liberty,Princeton,23,20,12,59,0,Foul on Henry Caruso.
+Liberty,Princeton,24,20,12,59,1,Anthony Fields made Free Throw.
+Liberty,Princeton,24,22,13,11,1,Henry Caruso made Layup.
+Liberty,Princeton,24,22,13,25,0,A.C. Reid missed Three Point Jumper.
+Liberty,Princeton,24,22,13,25,0,Pete Miller Defensive Rebound.
+Liberty,Princeton,24,22,13,40,0,Foul on Amir Bell.
+Liberty,Princeton,24,22,13,40,0,Amir Bell Turnover.
+Liberty,Princeton,24,22,14,7,0,Caleb Homesley missed Jumper.
+Liberty,Princeton,24,22,14,7,0,Pete Miller Defensive Rebound.
+Liberty,Princeton,24,24,14,21,1,Myles Stephens made Dunk. Assisted by Spencer Weisz.
+Liberty,Princeton,27,24,14,38,1,Lovell Cabbil made Three Point Jumper. Assisted by Anthony Fields.
+Liberty,Princeton,27,24,14,50,0,Foul on Ezra Talbert.
+Liberty,Princeton,27,25,14,50,1,Pete Miller made Free Throw.
+Liberty,Princeton,27,26,14,50,1,Pete Miller made Free Throw.
+Liberty,Princeton,29,26,14,59,1,Evan Maxwell made Dunk. Assisted by Caleb Homesley.
+Liberty,Princeton,29,26,15,23,0,Foul on A.C. Reid.
+Liberty,Princeton,29,27,15,23,1,Myles Stephens made Free Throw.
+Liberty,Princeton,29,28,15,23,1,Myles Stephens made Free Throw.
+Liberty,Princeton,29,28,15,41,0,Foul on Pete Miller.
+Liberty,Princeton,29,28,15,41,0,Evan Maxwell missed Free Throw.
+Liberty,Princeton,29,28,15,41,0,Liberty Offensive Rebound.
+Liberty,Princeton,29,28,15,44,0,Lovell Cabbil missed Three Point Jumper.
+Liberty,Princeton,29,28,15,44,0,Myles Stephens Defensive Rebound.
+Liberty,Princeton,29,28,16,0,0,Myles Stephens missed Three Point Jumper.
+Liberty,Princeton,29,28,16,0,0,Anthony Fields Defensive Rebound.
+Liberty,Princeton,29,28,16,28,0,Anthony Fields Turnover.
+Liberty,Princeton,29,28,16,28,0,Official TV Timeout
+Liberty,Princeton,29,30,16,45,1,Henry Caruso made Layup.
+Liberty,Princeton,31,30,16,57,1,Anthony Fields made Layup.
+Liberty,Princeton,31,32,17,18,1,Henry Caruso made Layup.
+Liberty,Princeton,31,32,17,39,0,Evan Maxwell Turnover.
+Liberty,Princeton,31,32,17,40,0,Myles Stephens Steal.
+Liberty,Princeton,31,34,17,42,1,Myles Stephens made Layup.
+Liberty,Princeton,31,34,17,42,0,Foul on Caleb Homesley.
+Liberty,Princeton,31,35,17,42,1,Myles Stephens made Free Throw.
+Liberty,Princeton,31,35,18,9,0,Caleb Homesley missed Three Point Jumper.
+Liberty,Princeton,31,35,18,9,0,Myles Stephens Defensive Rebound.
+Liberty,Princeton,31,38,18,32,1,Henry Caruso made Three Point Jumper. Assisted by Noah Bramlage.
+Liberty,Princeton,31,38,18,35,0,Princeton  Timeout
+Liberty,Princeton,33,38,18,58,1,Evan Maxwell made Layup.
+Liberty,Princeton,33,38,18,58,0,Foul on Noah Bramlage.
+Liberty,Princeton,34,38,18,58,1,Evan Maxwell made Free Throw.
+Liberty,Princeton,34,38,19,10,0,Spencer Weisz missed Three Point Jumper.
+Liberty,Princeton,34,38,19,10,0,Liberty Defensive Rebound.
+Liberty,Princeton,34,38,19,23,0,Lovell Cabbil missed Layup.
+Liberty,Princeton,34,38,19,23,0,Henry Caruso Defensive Rebound.
+Liberty,Princeton,34,38,19,50,0,Amir Bell missed Three Point Jumper.
+Liberty,Princeton,34,38,19,50,0,Ezra Talbert Defensive Rebound.
+Liberty,Princeton,34,38,19,59,0,Anthony Fields Turnover.
+Liberty,Princeton,34,38,19,59,0,Myles Stephens Steal.
+Liberty,Princeton,34,38,20,0,0,End of 1st half
+Liberty,Princeton,34,38,20,32,0,Lovell Cabbil missed Jumper.
+Liberty,Princeton,34,38,20,32,0,Henry Caruso Defensive Rebound.
+Liberty,Princeton,34,38,20,41,0,Foul on Caleb Homesley.
+Liberty,Princeton,34,40,20,49,1,Pete Miller made Layup. Assisted by Amir Bell.
+Liberty,Princeton,34,40,21,5,0,Evan Maxwell Turnover.
+Liberty,Princeton,34,42,21,17,1,Henry Caruso made Layup. Assisted by Pete Miller.
+Liberty,Princeton,36,42,21,37,1,Caleb Homesley made Jumper.
+Liberty,Princeton,36,42,21,52,0,Foul on Ryan Hiepler.
+Liberty,Princeton,36,44,21,56,1,Henry Caruso made Jumper.
+Liberty,Princeton,39,44,22,18,1,Lovell Cabbil made Three Point Jumper. Assisted by Ryan Hiepler.
+Liberty,Princeton,39,44,22,42,0,Steven Cook missed Three Point Jumper.
+Liberty,Princeton,39,44,22,42,0,Caleb Homesley Defensive Rebound.
+Liberty,Princeton,39,44,22,44,0,Foul on Pete Miller.
+Liberty,Princeton,39,44,22,58,0,Caleb Homesley missed Three Point Jumper.
+Liberty,Princeton,39,44,22,58,0,Henry Caruso Defensive Rebound.
+Liberty,Princeton,39,44,23,13,0,Henry Caruso missed Three Point Jumper.
+Liberty,Princeton,39,44,23,13,0,Lovell Cabbil Defensive Rebound.
+Liberty,Princeton,41,44,23,29,1,Evan Maxwell made Dunk. Assisted by John Dawson.
+Liberty,Princeton,41,44,23,38,0,Princeton  Timeout
+Liberty,Princeton,41,44,23,49,0,Spencer Weisz missed Layup.
+Liberty,Princeton,41,44,23,49,0,Alec Brennan Offensive Rebound.
+Liberty,Princeton,41,46,23,51,1,Alec Brennan made Layup.
+Liberty,Princeton,41,46,23,51,0,Foul on Evan Maxwell.
+Liberty,Princeton,41,46,23,51,0,Alec Brennan missed Free Throw.
+Liberty,Princeton,41,46,23,51,0,Liberty Defensive Rebound.
+Liberty,Princeton,43,46,24,13,1,Ryan Kemrite made Layup. Assisted by Evan Maxwell.
+Liberty,Princeton,43,46,24,36,0,Spencer Weisz missed Three Point Jumper.
+Liberty,Princeton,43,46,24,36,0,Evan Maxwell Defensive Rebound.
+Liberty,Princeton,45,46,24,47,1,Evan Maxwell made Layup. Assisted by Lovell Cabbil.
+Liberty,Princeton,45,46,25,2,0,Alec Brennan missed Three Point Jumper.
+Liberty,Princeton,45,46,25,2,0,Ryan Kemrite Defensive Rebound.
+Liberty,Princeton,45,46,25,24,0,Official TV Timeout
+Liberty,Princeton,47,46,25,31,1,John Dawson made Layup.
+Liberty,Princeton,47,46,25,39,0,Foul on Ezra Talbert.
+Liberty,Princeton,47,46,25,40,0,Steven Cook missed Three Point Jumper.
+Liberty,Princeton,47,46,25,40,0,Ryan Hiepler Defensive Rebound.
+Liberty,Princeton,47,46,25,59,0,John Dawson Turnover.
+Liberty,Princeton,47,46,26,0,0,Steven Cook Steal.
+Liberty,Princeton,47,46,26,3,0,Foul on Amir Bell.
+Liberty,Princeton,47,46,26,3,0,Amir Bell Turnover.
+Liberty,Princeton,47,46,26,15,0,Foul on Anthony Fields.
+Liberty,Princeton,47,46,26,15,0,Anthony Fields Turnover.
+Liberty,Princeton,47,48,26,43,1,Henry Caruso made Layup.
+Liberty,Princeton,47,48,26,54,0,John Dawson Turnover.
+Liberty,Princeton,47,48,26,55,0,Henry Caruso Steal.
+Liberty,Princeton,47,48,26,57,0,Foul on Caleb Homesley.
+Liberty,Princeton,47,49,26,57,1,Henry Caruso made Free Throw.
+Liberty,Princeton,47,50,26,57,1,Henry Caruso made Free Throw.
+Liberty,Princeton,47,50,27,18,0,Foul on Ezra Talbert.
+Liberty,Princeton,47,50,27,18,0,Ezra Talbert Turnover.
+Liberty,Princeton,47,52,27,31,1,Pete Miller made Layup. Assisted by Devin Cannady.
+Liberty,Princeton,47,52,27,48,0,Foul on Myles Stephens.
+Liberty,Princeton,47,52,28,4,0,Evan Maxwell missed Layup.
+Liberty,Princeton,47,52,28,4,0,Pete Miller Defensive Rebound.
+Liberty,Princeton,47,52,28,17,0,Foul on Evan Maxwell.
+Liberty,Princeton,47,52,28,17,0,Official TV Timeout
+Liberty,Princeton,47,52,28,17,0,Pete Miller missed Free Throw.
+Liberty,Princeton,47,52,28,17,0,Princeton Deadball Team Rebound.
+Liberty,Princeton,47,52,28,17,0,Pete Miller missed Free Throw.
+Liberty,Princeton,47,52,28,17,0,A.C. Reid Defensive Rebound.
+Liberty,Princeton,49,52,28,33,1,Evan Maxwell made Layup. Assisted by John Dawson.
+Liberty,Princeton,49,52,28,33,0,Foul on Devin Cannady.
+Liberty,Princeton,50,52,28,33,1,Evan Maxwell made Free Throw.
+Liberty,Princeton,50,52,29,3,0,Amir Bell missed Jumper.
+Liberty,Princeton,50,52,29,3,0,Evan Maxwell Defensive Rebound.
+Liberty,Princeton,50,52,29,16,0,Lovell Cabbil missed Layup.
+Liberty,Princeton,50,52,29,16,0,Evan Maxwell Offensive Rebound.
+Liberty,Princeton,52,52,29,21,1,Evan Maxwell made Dunk.
+Liberty,Princeton,52,52,29,28,0,Foul on Ryan Hiepler.
+Liberty,Princeton,52,53,29,28,1,Spencer Weisz made Free Throw.
+Liberty,Princeton,52,54,29,28,1,Spencer Weisz made Free Throw.
+Liberty,Princeton,52,54,29,44,0,John Dawson missed Jumper.
+Liberty,Princeton,52,54,29,44,0,Henry Caruso Defensive Rebound.
+Liberty,Princeton,52,54,30,3,0,Devin Cannady missed Three Point Jumper.
+Liberty,Princeton,52,54,30,3,0,John Dawson Defensive Rebound.
+Liberty,Princeton,52,54,30,23,0,Foul on Spencer Weisz.
+Liberty,Princeton,53,54,30,23,1,Lovell Cabbil made Free Throw.
+Liberty,Princeton,54,54,30,23,1,Lovell Cabbil made Free Throw.
+Liberty,Princeton,54,54,30,40,0,Foul on John Dawson.
+Liberty,Princeton,54,55,30,40,1,Devin Cannady made Free Throw.
+Liberty,Princeton,54,56,30,40,1,Devin Cannady made Free Throw.
+Liberty,Princeton,56,56,31,9,1,Anthony Fields made Layup.
+Liberty,Princeton,56,56,31,32,0,Spencer Weisz Turnover.
+Liberty,Princeton,56,56,31,33,0,Ryan Kemrite Steal.
+Liberty,Princeton,56,56,31,41,0,A.C. Reid missed Three Point Jumper.
+Liberty,Princeton,56,56,31,41,0,Ryan Kemrite Offensive Rebound.
+Liberty,Princeton,56,56,32,10,0,Anthony Fields missed Three Point Jumper.
+Liberty,Princeton,56,56,32,10,0,Pete Miller Defensive Rebound.
+Liberty,Princeton,56,56,32,26,0,Foul on Ryan Kemrite.
+Liberty,Princeton,56,57,32,26,1,Henry Caruso made Free Throw.
+Liberty,Princeton,56,57,32,26,0,Henry Caruso missed Free Throw.
+Liberty,Princeton,56,57,32,26,0,Evan Maxwell Defensive Rebound.
+Liberty,Princeton,56,57,32,43,0,Lovell Cabbil missed Layup.
+Liberty,Princeton,56,57,32,43,0,Spencer Weisz Defensive Rebound.
+Liberty,Princeton,56,57,33,1,0,Foul on Ryan Hiepler.
+Liberty,Princeton,56,58,33,1,1,Henry Caruso made Free Throw.
+Liberty,Princeton,56,59,33,1,1,Henry Caruso made Free Throw.
+Liberty,Princeton,56,59,33,17,0,Foul on Amir Bell.
+Liberty,Princeton,56,59,33,17,0,John Dawson missed Free Throw.
+Liberty,Princeton,56,59,33,17,0,Liberty Deadball Team Rebound.
+Liberty,Princeton,57,59,33,17,1,John Dawson made Free Throw.
+Liberty,Princeton,57,61,33,30,1,Pete Miller made Layup. Assisted by Amir Bell.
+Liberty,Princeton,57,61,33,45,0,John Dawson Turnover.
+Liberty,Princeton,57,61,33,45,0,Liberty  Timeout
+Liberty,Princeton,57,61,34,6,0,Pete Miller Turnover.
+Liberty,Princeton,57,61,34,31,0,John Dawson Turnover.
+Liberty,Princeton,57,61,34,32,0,Pete Miller Steal.
+Liberty,Princeton,57,61,34,33,0,Foul on Evan Maxwell.
+Liberty,Princeton,57,62,34,33,1,Devin Cannady made Free Throw.
+Liberty,Princeton,57,62,34,33,0,Devin Cannady missed Free Throw.
+Liberty,Princeton,57,62,34,33,0,Princeton Deadball Team Rebound.
+Liberty,Princeton,57,62,34,33,0,Evan Maxwell Turnover.
+Liberty,Princeton,57,62,34,48,0,Henry Caruso missed Layup.
+Liberty,Princeton,57,62,34,48,0,Pete Miller Offensive Rebound.
+Liberty,Princeton,57,64,34,51,1,Pete Miller made Dunk.
+Liberty,Princeton,59,64,35,13,1,Ryan Kemrite made Layup.
+Liberty,Princeton,59,64,35,13,0,Foul on Spencer Weisz.
+Liberty,Princeton,59,64,35,13,0,Ryan Kemrite missed Free Throw.
+Liberty,Princeton,59,64,35,13,0,Spencer Weisz Defensive Rebound.
+Liberty,Princeton,59,64,35,27,0,Foul on Lovell Cabbil.
+Liberty,Princeton,59,65,35,27,1,Devin Cannady made Free Throw.
+Liberty,Princeton,59,66,35,27,1,Devin Cannady made Free Throw.
+Liberty,Princeton,61,66,35,51,1,Evan Maxwell made Layup. Assisted by John Dawson.
+Liberty,Princeton,61,69,36,12,1,Amir Bell made Three Point Jumper. Assisted by Pete Miller.
+Liberty,Princeton,61,69,36,37,0,Evan Maxwell missed Layup.
+Liberty,Princeton,61,69,36,37,0,Henry Caruso Defensive Rebound.
+Liberty,Princeton,61,69,37,4,0,Spencer Weisz missed Three Point Jumper.
+Liberty,Princeton,61,69,37,4,0,Evan Maxwell Defensive Rebound.
+Liberty,Princeton,61,69,37,8,0,Foul on Pete Miller.
+Liberty,Princeton,61,69,37,8,0,Official TV Timeout
+Liberty,Princeton,61,69,37,8,0,Evan Maxwell missed Free Throw.
+Liberty,Princeton,61,69,37,8,0,Liberty Offensive Rebound.
+Liberty,Princeton,64,69,37,25,1,Ryan Kemrite made Three Point Jumper. Assisted by Caleb Homesley.
+Liberty,Princeton,64,69,37,27,0,Liberty  Timeout
+Liberty,Princeton,64,69,37,43,0,Foul on Ryan Kemrite.
+Liberty,Princeton,64,70,37,43,1,Myles Stephens made Free Throw.
+Liberty,Princeton,64,71,37,43,1,Myles Stephens made Free Throw.
+Liberty,Princeton,66,71,37,52,1,Evan Maxwell made Layup. Assisted by Anthony Fields.
+Liberty,Princeton,66,71,37,52,0,Foul on Henry Caruso.
+Liberty,Princeton,67,71,37,52,1,Evan Maxwell made Free Throw.
+Liberty,Princeton,67,73,38,15,1,Pete Miller made Layup. Assisted by Amir Bell.
+Liberty,Princeton,67,73,38,29,0,Lovell Cabbil missed Three Point Jumper.
+Liberty,Princeton,67,73,38,29,0,Myles Stephens Defensive Rebound.
+Liberty,Princeton,67,73,38,48,0,Princeton  Timeout
+Liberty,Princeton,67,73,39,0,0,Henry Caruso missed Jumper.
+Liberty,Princeton,67,73,39,0,0,Anthony Fields Defensive Rebound.
+Liberty,Princeton,67,73,39,7,0,Anthony Fields missed Layup.
+Liberty,Princeton,67,73,39,7,0,Devin Cannady Block.
+Liberty,Princeton,67,73,39,7,0,Liberty Offensive Rebound.
+Liberty,Princeton,69,73,39,15,1,John Dawson made Layup.
+Liberty,Princeton,69,73,39,25,0,Foul on John Dawson.
+Liberty,Princeton,69,73,39,25,0,Henry Caruso missed Free Throw.
+Liberty,Princeton,69,73,39,25,0,Princeton Deadball Team Rebound.
+Liberty,Princeton,69,74,39,25,1,Henry Caruso made Free Throw.
+Liberty,Princeton,69,74,39,33,0,Mike Washington Jr. Turnover.
+Liberty,Princeton,69,74,39,34,0,Ryan Kemrite Steal.
+Liberty,Princeton,69,74,39,38,0,Foul on Anthony Fields.
+Liberty,Princeton,69,74,39,38,0,Spencer Weisz missed Free Throw.
+Liberty,Princeton,69,74,39,38,0,Princeton Deadball Team Rebound.
+Liberty,Princeton,69,75,39,38,1,Spencer Weisz made Free Throw.
+Liberty,Princeton,72,75,39,43,1,John Dawson made Three Point Jumper.
+Liberty,Princeton,72,75,39,43,0,Liberty  Timeout
+Liberty,Princeton,72,75,39,52,0,Princeton  Timeout
+Liberty,Princeton,72,75,39,54,0,Foul on Anthony Fields.
+Liberty,Princeton,72,76,39,54,1,Devin Cannady made Free Throw.
+Liberty,Princeton,72,77,39,54,1,Devin Cannady made Free Throw.
+Liberty,Princeton,72,77,40,0,0,John Dawson missed Three Point Jumper.
+Liberty,Princeton,72,77,40,0,0,Myles Stephens Defensive Rebound.
+Liberty,Princeton,72,77,40,0,0,End of Game

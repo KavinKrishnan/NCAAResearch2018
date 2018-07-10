@@ -1,0 +1,309 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UAB,Troy,0,2,0,23,1,Antoine Myers made Layup.
+UAB,Troy,2,2,0,34,1,Rod Rucker made Layup.  Assisted by Fahro Alihodzic.
+UAB,Troy,2,2,0,55,0,Foul on Jordan Swing
+UAB,Troy,2,3,0,55,1,Antoine Myers made Free Throw.
+UAB,Troy,2,3,0,55,0,Antoine Myers missed Free Throw.
+UAB,Troy,2,3,0,55,0,Rod Rucker Defensive Rebound.
+UAB,Troy,2,3,1,26,0,Robert Williams missed Three Point Jumper.
+UAB,Troy,2,3,1,26,0,Fahro Alihodzic Offensive Rebound.
+UAB,Troy,2,3,1,30,0,Fahro Alihodzic missed Layup.
+UAB,Troy,2,3,1,30,0,Terence Jones Offensive Rebound.
+UAB,Troy,5,3,1,47,1,Terence Jones made Three Point Jumper.  Assisted by Fahro Alihodzic.
+UAB,Troy,5,3,2,17,0,Emil Jones missed Jumper.
+UAB,Troy,5,3,2,17,0,Rod Rucker Defensive Rebound.
+UAB,Troy,5,3,2,24,0,Foul on Ray Chambers
+UAB,Troy,6,3,2,24,1,Fahro Alihodzic made Free Throw.
+UAB,Troy,7,3,2,24,1,Fahro Alihodzic made Free Throw.
+UAB,Troy,7,3,2,47,0,Deonata Jethroe missed Three Point Jumper.
+UAB,Troy,7,3,2,47,0,Robert Williams Defensive Rebound.
+UAB,Troy,7,3,2,53,0,Terence Jones missed Three Point Jumper.
+UAB,Troy,7,3,2,53,0,Ray Chambers Defensive Rebound.
+UAB,Troy,7,3,3,7,0,Antoine Myers missed Layup.
+UAB,Troy,7,3,3,7,0,Jordan Swing Defensive Rebound.
+UAB,Troy,7,3,3,14,0,Fahro Alihodzic missed Layup.
+UAB,Troy,7,3,3,14,0,Hunter Williams Defensive Rebound.
+UAB,Troy,7,3,3,23,0,Foul on Jordan Swing
+UAB,Troy,7,3,3,23,0,Hunter Williams missed Free Throw.
+UAB,Troy,7,3,3,23,0,null
+UAB,Troy,7,4,3,23,1,Hunter Williams made Free Throw.
+UAB,Troy,9,4,3,47,1,Robert Williams made Layup.  Assisted by Rod Rucker.
+UAB,Troy,9,4,4,25,0,Hunter Williams missed Jumper.
+UAB,Troy,9,4,4,25,0,Preston Purifoy Defensive Rebound.
+UAB,Troy,9,4,4,36,0,Preston Purifoy Turnover.
+UAB,Troy,9,4,4,36,0,Foul on Preston Purifoy
+UAB,Troy,9,4,4,36,0,Official TV Timeout.
+UAB,Troy,9,4,4,55,0,Antoine Myers Turnover.
+UAB,Troy,9,4,4,56,0,Robert Williams Steal.
+UAB,Troy,9,4,4,58,0,Robert Williams Turnover.
+UAB,Troy,9,4,4,58,0,Antoine Myers Steal.
+UAB,Troy,9,4,5,11,0,R.J. Scott missed Three Point Jumper.
+UAB,Troy,9,4,5,11,0,Robert Williams Defensive Rebound.
+UAB,Troy,11,4,5,20,1,Isiah Jones made Layup.
+UAB,Troy,11,4,5,34,0,Antoine Myers missed Layup.
+UAB,Troy,11,4,5,34,0,Terence Jones Defensive Rebound.
+UAB,Troy,11,4,5,40,0,Foul on Antoine Myers
+UAB,Troy,13,4,5,56,1,Rod Rucker made Layup.  Assisted by Isiah Jones.
+UAB,Troy,13,6,6,14,1,Tevin Calhoun made Dunk.
+UAB,Troy,13,6,6,27,0,Robert Williams missed Layup.
+UAB,Troy,13,6,6,27,0,Josh Warren Defensive Rebound.
+UAB,Troy,13,6,6,36,0,Emil Jones missed Three Point Jumper.
+UAB,Troy,13,6,6,36,0,Quincy Taylor Defensive Rebound.
+UAB,Troy,13,6,6,41,0,Quincy Taylor Turnover.
+UAB,Troy,13,6,6,43,0,Hunter Williams Steal.
+UAB,Troy,13,6,7,1,0,Tevin Calhoun missed Three Point Jumper.
+UAB,Troy,13,6,7,1,0,Hunter Williams Offensive Rebound.
+UAB,Troy,13,8,7,13,1,Hunter Williams made Layup.
+UAB,Troy,13,8,7,39,0,Isiah Jones missed Three Point Jumper.
+UAB,Troy,13,8,7,39,0,Hunter Williams Defensive Rebound.
+UAB,Troy,13,8,7,46,0,Hunter Williams missed Layup.
+UAB,Troy,13,8,7,46,0,Preston Purifoy Defensive Rebound.
+UAB,Troy,13,8,7,55,0,Jekore Tyler missed Layup.
+UAB,Troy,13,8,7,55,0,Fahro Alihodzic Offensive Rebound.
+UAB,Troy,13,8,7,58,0,Fahro Alihodzic missed Layup.
+UAB,Troy,13,8,7,58,0,Justin Wright Defensive Rebound.
+UAB,Troy,13,8,8,21,0,R.J. Scott Turnover.
+UAB,Troy,13,8,8,23,0,Quincy Taylor Steal.
+UAB,Troy,13,8,8,25,0,Preston Purifoy Turnover.
+UAB,Troy,13,8,8,27,0,Josh Warren Steal.
+UAB,Troy,13,11,8,29,1,Tevin Calhoun made Three Point Jumper.  Assisted by Josh Warren.
+UAB,Troy,13,11,8,41,0,Foul on Tevin Calhoun
+UAB,Troy,13,11,8,41,0,Official TV Timeout.
+UAB,Troy,14,11,8,41,1,Fahro Alihodzic made Free Throw.
+UAB,Troy,15,11,8,41,1,Fahro Alihodzic made Free Throw.
+UAB,Troy,15,11,8,51,0,Foul on Terence Jones
+UAB,Troy,15,12,8,51,1,Justin Wright made Free Throw.
+UAB,Troy,15,13,8,51,1,Justin Wright made Free Throw.
+UAB,Troy,15,13,9,16,0,Jekore Tyler Turnover.
+UAB,Troy,15,13,9,18,0,Hunter Williams Steal.
+UAB,Troy,15,15,9,26,1,Emil Jones made Jumper.
+UAB,Troy,15,15,9,56,0,Rod Rucker missed Layup.
+UAB,Troy,15,15,9,56,0,Rod Rucker Offensive Rebound.
+UAB,Troy,15,15,9,59,0,Rod Rucker missed Layup.
+UAB,Troy,15,15,9,59,0,Ray Chambers Block.
+UAB,Troy,15,15,10,1,0,Antoine Myers Defensive Rebound.
+UAB,Troy,15,15,10,6,0,Antoine Myers missed Layup.
+UAB,Troy,15,15,10,6,0,Fahro Alihodzic Defensive Rebound.
+UAB,Troy,18,15,10,15,1,Robert Williams made Three Point Jumper.  Assisted by Fahro Alihodzic.
+UAB,Troy,18,15,10,31,0,Antoine Myers missed Layup.
+UAB,Troy,18,15,10,31,0,Fahro Alihodzic Block.
+UAB,Troy,18,15,10,33,0,Fahro Alihodzic Defensive Rebound.
+UAB,Troy,18,15,10,43,0,Isiah Jones missed Jumper.
+UAB,Troy,18,15,10,43,0,Troy Defensive Rebound.
+UAB,Troy,18,17,11,13,1,Emil Jones made Jumper.
+UAB,Troy,18,17,11,24,0,Robert Williams Turnover.
+UAB,Troy,18,17,11,26,0,Emil Jones Steal.
+UAB,Troy,18,20,11,31,1,Hunter Williams made Three Point Jumper.  Assisted by Emil Jones.
+UAB,Troy,18,20,11,41,0,Foul on Ray Chambers
+UAB,Troy,18,20,11,49,0,Preston Purifoy Turnover.
+UAB,Troy,18,20,12,18,0,Deonata Jethroe missed Layup.
+UAB,Troy,18,20,12,18,0,Robert Williams Defensive Rebound.
+UAB,Troy,20,20,12,24,1,Terence Jones made Layup.
+UAB,Troy,20,20,12,52,0,Hunter Williams Turnover.
+UAB,Troy,20,20,12,53,0,Preston Purifoy Steal.
+UAB,Troy,20,20,12,57,0,Terence Jones Turnover.
+UAB,Troy,20,20,12,57,0,Official TV Timeout.
+UAB,Troy,20,20,13,7,0,Hunter Williams missed Layup.
+UAB,Troy,20,20,13,7,0,Jordan Swing Block.
+UAB,Troy,20,20,13,9,0,Jordan Swing Defensive Rebound.
+UAB,Troy,22,20,13,14,1,Jordan Swing made Jumper.
+UAB,Troy,22,20,13,39,0,Tevin Calhoun missed Three Point Jumper.
+UAB,Troy,22,20,13,39,0,Rod Rucker Defensive Rebound.
+UAB,Troy,22,20,13,47,0,Robert Williams missed Layup.
+UAB,Troy,22,20,13,47,0,Josh Warren Defensive Rebound.
+UAB,Troy,22,20,13,58,0,Antoine Myers Turnover.
+UAB,Troy,25,20,14,20,1,Terence Jones made Three Point Jumper.  Assisted by Quincy Taylor.
+UAB,Troy,25,20,14,34,0,Antoine Myers Turnover.
+UAB,Troy,25,20,14,55,0,Jordan Swing missed Layup.
+UAB,Troy,25,20,14,55,0,Ray Chambers Defensive Rebound.
+UAB,Troy,25,20,14,59,0,Foul on Jordan Swing
+UAB,Troy,25,20,15,7,0,Hunter Williams missed Jumper.
+UAB,Troy,25,20,15,7,0,Rod Rucker Defensive Rebound.
+UAB,Troy,27,20,15,17,1,Terence Jones made Jumper.
+UAB,Troy,27,20,15,35,0,Hunter Williams missed Three Point Jumper.
+UAB,Troy,27,20,15,35,0,Justin Wright Offensive Rebound.
+UAB,Troy,27,20,16,2,0,Hunter Williams Turnover.
+UAB,Troy,27,20,16,2,0,Official TV Timeout.
+UAB,Troy,27,20,16,14,0,Isiah Jones missed Three Point Jumper.
+UAB,Troy,27,20,16,14,0,Justin Wright Defensive Rebound.
+UAB,Troy,27,20,16,39,0,Justin Wright missed Three Point Jumper.
+UAB,Troy,27,20,16,39,0,Rod Rucker Defensive Rebound.
+UAB,Troy,27,20,16,51,0,Isiah Jones missed Three Point Jumper.
+UAB,Troy,27,20,16,51,0,Ray Chambers Defensive Rebound.
+UAB,Troy,27,20,17,10,0,Ray Chambers Turnover.
+UAB,Troy,27,20,17,11,0,Rod Rucker Steal.
+UAB,Troy,27,20,17,15,0,Robert Williams Turnover.
+UAB,Troy,27,20,17,15,0,Foul on Robert Williams
+UAB,Troy,27,20,17,26,0,Hunter Williams missed Layup.
+UAB,Troy,27,20,17,26,0,Fahro Alihodzic Defensive Rebound.
+UAB,Troy,29,20,17,41,1,Fahro Alihodzic made Layup.
+UAB,Troy,29,20,18,7,0,Justin Wright missed Three Point Jumper.
+UAB,Troy,29,20,18,7,0,Robert Williams Defensive Rebound.
+UAB,Troy,29,20,18,22,0,Terence Jones missed Three Point Jumper.
+UAB,Troy,29,20,18,22,0,Robert Williams Offensive Rebound.
+UAB,Troy,29,20,18,26,0,Foul on Emil Jones
+UAB,Troy,30,20,18,26,1,Robert Williams made Free Throw.
+UAB,Troy,31,20,18,26,1,Robert Williams made Free Throw.
+UAB,Troy,31,20,18,27,0,Justin Wright Turnover.
+UAB,Troy,31,20,18,29,0,Fahro Alihodzic Steal.
+UAB,Troy,33,20,18,42,1,Robert Williams made Layup.  Assisted by Quincy Taylor.
+UAB,Troy,33,20,18,57,0,Hunter Williams missed Three Point Jumper.
+UAB,Troy,33,20,18,57,0,Robert Williams Defensive Rebound.
+UAB,Troy,33,20,19,4,0,Rod Rucker missed Layup.
+UAB,Troy,33,20,19,4,0,Rod Rucker Offensive Rebound.
+UAB,Troy,35,20,19,6,1,Rod Rucker made Layup.
+UAB,Troy,35,20,19,6,0,Foul on Justin Wright
+UAB,Troy,35,20,19,7,0,Rod Rucker missed Free Throw.
+UAB,Troy,35,20,19,7,0,Tevin Calhoun Defensive Rebound.
+UAB,Troy,35,20,19,24,0,Tevin Calhoun missed Jumper.
+UAB,Troy,35,20,19,24,0,UAB Defensive Rebound.
+UAB,Troy,35,20,19,54,0,Rod Rucker missed Layup.
+UAB,Troy,35,20,19,54,0,Troy Defensive Rebound.
+UAB,Troy,35,20,19,59,0,Hunter Williams Turnover.
+UAB,Troy,35,20,19,59,0,Foul on Hunter Williams
+UAB,Troy,35,20,20,0,0,End of the 1st Half.
+UAB,Troy,35,23,20,16,1,Hunter Williams made Three Point Jumper.  Assisted by Antoine Myers.
+UAB,Troy,35,23,20,31,0,Robert Williams Turnover.
+UAB,Troy,35,25,20,51,1,Tevin Calhoun made Layup.  Assisted by Emil Jones.
+UAB,Troy,35,25,21,1,0,Fahro Alihodzic missed Layup.
+UAB,Troy,35,25,21,1,0,Tevin Calhoun Defensive Rebound.
+UAB,Troy,35,25,21,16,0,Tevin Calhoun missed Three Point Jumper.
+UAB,Troy,35,25,21,16,0,Emil Jones Offensive Rebound.
+UAB,Troy,35,25,21,19,0,Emil Jones missed Jumper.
+UAB,Troy,35,25,21,19,0,Rod Rucker Defensive Rebound.
+UAB,Troy,38,25,21,30,1,Robert Williams made Three Point Jumper.  Assisted by Terence Jones.
+UAB,Troy,38,27,21,43,1,Justin Wright made Layup.
+UAB,Troy,40,27,21,53,1,Terence Jones made Jumper.
+UAB,Troy,40,27,22,26,0,Justin Wright Turnover.
+UAB,Troy,40,27,22,27,0,Fahro Alihodzic Steal.
+UAB,Troy,40,27,22,29,0,Foul on Emil Jones
+UAB,Troy,41,27,22,29,1,Jordan Swing made Free Throw.
+UAB,Troy,42,27,22,29,1,Jordan Swing made Free Throw.
+UAB,Troy,42,30,23,2,1,Deonata Jethroe made Three Point Jumper.  Assisted by Emil Jones.
+UAB,Troy,42,30,23,16,0,Terence Jones missed Layup.
+UAB,Troy,42,30,23,16,0,Antoine Myers Defensive Rebound.
+UAB,Troy,42,30,23,27,0,Antoine Myers Turnover.
+UAB,Troy,45,30,23,50,1,Jordan Swing made Three Point Jumper.  Assisted by Terence Jones.
+UAB,Troy,45,32,24,9,1,Emil Jones made Layup.
+UAB,Troy,45,32,24,10,0,Troy Full Timeout.
+UAB,Troy,48,32,24,38,1,Jordan Swing made Three Point Jumper.  Assisted by Terence Jones.
+UAB,Troy,48,32,24,46,0,Hunter Williams missed Three Point Jumper.
+UAB,Troy,48,32,24,46,0,Emil Jones Offensive Rebound.
+UAB,Troy,48,32,24,50,0,Emil Jones missed Jumper.
+UAB,Troy,48,32,24,50,0,Robert Williams Defensive Rebound.
+UAB,Troy,48,32,25,3,0,Preston Purifoy missed Layup.
+UAB,Troy,48,32,25,3,0,Emil Jones Block.
+UAB,Troy,48,32,25,5,0,Emil Jones Defensive Rebound.
+UAB,Troy,48,32,25,24,0,Hunter Williams missed Jumper.
+UAB,Troy,48,32,25,24,0,Terence Jones Defensive Rebound.
+UAB,Troy,48,32,25,31,0,Terence Jones missed Three Point Jumper.
+UAB,Troy,48,32,25,31,0,Tevin Calhoun Defensive Rebound.
+UAB,Troy,48,34,25,39,1,Emil Jones made Layup.  Assisted by Antoine Myers.
+UAB,Troy,48,34,25,52,0,Rod Rucker Turnover.
+UAB,Troy,48,34,25,52,0,Official TV Timeout.
+UAB,Troy,48,34,26,2,0,Tevin Calhoun missed Three Point Jumper.
+UAB,Troy,48,34,26,2,0,UAB Defensive Rebound.
+UAB,Troy,48,34,26,3,0,Foul on Deonata Jethroe
+UAB,Troy,51,34,26,18,1,Preston Purifoy made Three Point Jumper.  Assisted by Terence Jones.
+UAB,Troy,51,34,26,27,0,Antoine Myers missed Layup.
+UAB,Troy,51,34,26,27,0,Jordan Swing Defensive Rebound.
+UAB,Troy,51,34,26,38,0,Foul on Antoine Myers
+UAB,Troy,51,34,27,7,0,Jordan Swing missed Three Point Jumper.
+UAB,Troy,51,34,27,7,0,Emil Jones Defensive Rebound.
+UAB,Troy,51,34,27,19,0,Foul on Quincy Taylor
+UAB,Troy,51,35,27,19,1,Hunter Williams made Free Throw.
+UAB,Troy,51,36,27,19,1,Hunter Williams made Free Throw.
+UAB,Troy,54,36,27,53,1,Robert Williams made Three Point Jumper.  Assisted by Quincy Taylor.
+UAB,Troy,54,36,28,8,0,Emil Jones missed Layup.
+UAB,Troy,54,36,28,8,0,Quincy Taylor Defensive Rebound.
+UAB,Troy,54,36,28,12,0,Foul on Emil Jones
+UAB,Troy,54,36,28,12,0,Official TV Timeout.
+UAB,Troy,54,36,28,36,0,Foul on Emil Jones
+UAB,Troy,55,36,28,36,1,Fahro Alihodzic made Free Throw.
+UAB,Troy,56,36,28,36,1,Fahro Alihodzic made Free Throw.
+UAB,Troy,56,38,28,42,1,Antoine Myers made Layup.
+UAB,Troy,56,38,28,42,0,Foul on Quincy Taylor
+UAB,Troy,56,39,28,42,1,Antoine Myers made Free Throw.
+UAB,Troy,56,39,29,0,0,Quincy Taylor missed Three Point Jumper.
+UAB,Troy,56,39,29,0,0,Jeff Mullahey Defensive Rebound.
+UAB,Troy,56,39,29,9,0,Foul on Robert Williams
+UAB,Troy,56,40,29,9,1,Antoine Myers made Free Throw.
+UAB,Troy,56,41,29,9,1,Antoine Myers made Free Throw.
+UAB,Troy,56,41,29,21,0,Terence Jones missed Three Point Jumper.
+UAB,Troy,56,41,29,21,0,Isiah Jones Offensive Rebound.
+UAB,Troy,56,41,29,27,0,Terence Jones missed Three Point Jumper.
+UAB,Troy,56,41,29,27,0,UAB Offensive Rebound.
+UAB,Troy,56,41,29,40,0,Quincy Taylor Turnover.
+UAB,Troy,56,41,29,42,0,Antoine Myers Steal.
+UAB,Troy,56,43,29,44,1,Antoine Myers made Layup.
+UAB,Troy,58,43,30,10,1,Isiah Jones made Jumper.
+UAB,Troy,58,43,30,38,0,Antoine Myers Turnover.
+UAB,Troy,58,43,31,9,0,Robert Williams Turnover.
+UAB,Troy,58,43,31,10,0,Antoine Myers Steal.
+UAB,Troy,58,45,31,13,1,Antoine Myers made Dunk.
+UAB,Troy,61,45,31,34,1,Robert Williams made Three Point Jumper.  Assisted by Rod Rucker.
+UAB,Troy,61,45,31,49,0,R.J. Scott missed Three Point Jumper.
+UAB,Troy,61,45,31,49,0,Jordan Swing Defensive Rebound.
+UAB,Troy,61,45,31,53,0,Jordan Swing Turnover.
+UAB,Troy,61,45,32,15,0,R.J. Scott missed Three Point Jumper.
+UAB,Troy,61,45,32,15,0,Robert Williams Defensive Rebound.
+UAB,Troy,63,45,32,24,1,Terence Jones made Layup.
+UAB,Troy,63,45,32,49,0,R.J. Scott missed Three Point Jumper.
+UAB,Troy,63,45,32,49,0,Rod Rucker Defensive Rebound.
+UAB,Troy,63,45,32,59,0,Quincy Taylor missed Three Point Jumper.
+UAB,Troy,63,45,32,59,0,Emil Jones Defensive Rebound.
+UAB,Troy,63,45,33,6,0,Official TV Timeout.
+UAB,Troy,63,48,33,11,1,Jeff Mullahey made Three Point Jumper.  Assisted by Emil Jones.
+UAB,Troy,63,48,33,27,0,Jordan Swing missed Three Point Jumper.
+UAB,Troy,63,48,33,27,0,Rod Rucker Offensive Rebound.
+UAB,Troy,65,48,33,30,1,Rod Rucker made Layup.
+UAB,Troy,65,48,33,46,0,Hunter Williams Turnover.
+UAB,Troy,65,48,33,57,0,Jordan Swing Turnover.
+UAB,Troy,65,51,34,12,1,Hunter Williams made Three Point Jumper.  Assisted by Tevin Calhoun.
+UAB,Troy,65,51,34,36,0,Terence Jones missed Three Point Jumper.
+UAB,Troy,65,51,34,36,0,Tevin Calhoun Defensive Rebound.
+UAB,Troy,65,51,34,38,0,Foul on Rod Rucker
+UAB,Troy,65,51,34,52,0,Tevin Calhoun missed Jumper.
+UAB,Troy,65,51,34,52,0,Preston Purifoy Defensive Rebound.
+UAB,Troy,65,51,34,59,0,Robert Williams missed Three Point Jumper.
+UAB,Troy,65,51,34,59,0,Deonata Jethroe Defensive Rebound.
+UAB,Troy,65,51,35,11,0,Tevin Calhoun missed Jumper.
+UAB,Troy,65,51,35,11,0,Rod Rucker Defensive Rebound.
+UAB,Troy,65,51,35,12,0,Foul on Tevin Calhoun
+UAB,Troy,65,51,35,12,0,UAB Full Timeout.
+UAB,Troy,67,51,35,44,1,Jordan Swing made Dunk.  Assisted by Terence Jones.
+UAB,Troy,67,53,35,58,1,Hunter Williams made Layup.  Assisted by Justin Wright.
+UAB,Troy,67,53,35,59,0,Troy Full Timeout.
+UAB,Troy,69,53,36,5,1,Rod Rucker made Dunk.
+UAB,Troy,69,53,36,19,0,Tevin Calhoun missed Three Point Jumper.
+UAB,Troy,69,53,36,19,0,Jordan Swing Defensive Rebound.
+UAB,Troy,71,53,36,57,1,Jordan Swing made Jumper.
+UAB,Troy,71,53,37,8,0,Antoine Myers Turnover.
+UAB,Troy,71,53,37,8,0,Official TV Timeout.
+UAB,Troy,71,53,37,44,0,Terence Jones missed Jumper.
+UAB,Troy,71,53,37,44,0,Jeff Mullahey Defensive Rebound.
+UAB,Troy,71,53,38,1,0,Deonata Jethroe missed Three Point Jumper.
+UAB,Troy,71,53,38,1,0,Preston Purifoy Defensive Rebound.
+UAB,Troy,71,53,38,33,0,Preston Purifoy missed Three Point Jumper.
+UAB,Troy,71,53,38,33,0,Rod Rucker Offensive Rebound.
+UAB,Troy,71,53,38,36,0,Rod Rucker missed Layup.
+UAB,Troy,71,53,38,36,0,Deonata Jethroe Defensive Rebound.
+UAB,Troy,71,53,38,41,0,Foul on Rod Rucker
+UAB,Troy,71,54,38,41,1,Antoine Myers made Free Throw.
+UAB,Troy,71,54,38,41,0,Antoine Myers missed Free Throw.
+UAB,Troy,71,54,38,41,0,Robert Williams Defensive Rebound.
+UAB,Troy,71,54,39,12,0,Foul on Jeff Mullahey
+UAB,Troy,72,54,39,12,1,Jordan Swing made Free Throw.
+UAB,Troy,73,54,39,12,1,Jordan Swing made Free Throw.
+UAB,Troy,73,54,39,21,0,Deonata Jethroe missed Jumper.
+UAB,Troy,73,54,39,21,0,R.J. Scott Offensive Rebound.
+UAB,Troy,73,54,39,28,0,Antoine Myers missed Layup.
+UAB,Troy,73,54,39,28,0,Jordan Swing Defensive Rebound.
+UAB,Troy,73,54,39,31,0,Foul on Antoine Myers
+UAB,Troy,74,54,39,31,1,Jordan Swing made Free Throw.
+UAB,Troy,75,54,39,31,1,Jordan Swing made Free Throw.
+UAB,Troy,75,54,39,36,0,Foul on Jordan Swing
+UAB,Troy,75,54,39,36,0,Deonata Jethroe missed Free Throw.
+UAB,Troy,75,54,39,36,0,null
+UAB,Troy,75,55,39,36,1,Deonata Jethroe made Free Throw.
+UAB,Troy,75,55,40,0,0,End Game

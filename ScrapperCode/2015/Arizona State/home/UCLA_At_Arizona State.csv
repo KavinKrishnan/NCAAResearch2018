@@ -1,0 +1,326 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UCLA,Arizona State,0,0,0,0,0,Jump Ball won by UCLA
+UCLA,Arizona State,2,0,0,8,1,Norman Powell made Layup.
+UCLA,Arizona State,2,0,0,25,0,Gerry Blakes Turnover.
+UCLA,Arizona State,4,0,0,36,1,Kevon Looney made Layup. Assisted by Bryce Alford.
+UCLA,Arizona State,4,0,0,44,0,Arizona St  Timeout
+UCLA,Arizona State,4,3,1,8,1,Gerry Blakes made Three Point Jumper. Assisted by Tra Holder.
+UCLA,Arizona State,4,3,1,37,0,Bryce Alford missed Jumper.
+UCLA,Arizona State,4,3,1,37,0,Eric Jacobsen Defensive Rebound.
+UCLA,Arizona State,4,3,1,59,0,Gerry Blakes missed Jumper.
+UCLA,Arizona State,4,3,1,59,0,Norman Powell Block.
+UCLA,Arizona State,4,3,1,59,0,Arizona St Offensive Rebound.
+UCLA,Arizona State,4,3,2,10,0,Gerry Blakes missed Three Point Jumper.
+UCLA,Arizona State,4,3,2,10,0,Eric Jacobsen Offensive Rebound.
+UCLA,Arizona State,4,5,2,17,1,Savon Goodman made Layup. Assisted by Eric Jacobsen.
+UCLA,Arizona State,6,5,2,46,1,Isaac Hamilton made Jumper.
+UCLA,Arizona State,6,7,2,54,1,Shaquielle McKissic made Dunk. Assisted by Savon Goodman.
+UCLA,Arizona State,6,7,3,9,0,Bryce Alford Turnover.
+UCLA,Arizona State,6,7,3,19,0,Tra Holder missed Jumper.
+UCLA,Arizona State,6,7,3,19,0,Isaac Hamilton Defensive Rebound.
+UCLA,Arizona State,6,7,3,43,0,Bryce Alford missed Jumper.
+UCLA,Arizona State,6,7,3,43,0,Gerry Blakes Defensive Rebound.
+UCLA,Arizona State,6,7,4,8,0,Savon Goodman Turnover.
+UCLA,Arizona State,6,7,4,8,0,Official TV Timeout
+UCLA,Arizona State,6,7,4,34,0,Isaac Hamilton missed Jumper.
+UCLA,Arizona State,6,7,4,34,0,Tra Holder Defensive Rebound.
+UCLA,Arizona State,6,9,4,42,1,Savon Goodman made Layup. Assisted by Shaquielle McKissic.
+UCLA,Arizona State,6,9,5,13,0,Tony Parker missed Jumper.
+UCLA,Arizona State,6,9,5,13,0,Savon Goodman Defensive Rebound.
+UCLA,Arizona State,6,11,5,25,1,Savon Goodman made Layup. Assisted by Tra Holder.
+UCLA,Arizona State,6,11,5,28,0,UCLA  Timeout
+UCLA,Arizona State,9,11,5,35,1,Norman Powell made Three Point Jumper. Assisted by Bryce Alford.
+UCLA,Arizona State,9,11,5,50,0,Gerry Blakes missed Three Point Jumper.
+UCLA,Arizona State,9,11,5,50,0,Isaac Hamilton Defensive Rebound.
+UCLA,Arizona State,9,11,6,11,0,Kevon Looney Turnover.
+UCLA,Arizona State,9,11,6,11,0,Shaquielle McKissic Steal.
+UCLA,Arizona State,9,11,6,17,0,Shaquielle McKissic missed Layup.
+UCLA,Arizona State,9,11,6,17,0,Kevon Looney Block.
+UCLA,Arizona State,9,11,6,17,0,Thomas Welsh Defensive Rebound.
+UCLA,Arizona State,11,11,6,35,1,Norman Powell made Jumper.
+UCLA,Arizona State,11,11,6,49,0,Eric Jacobsen Turnover.
+UCLA,Arizona State,11,11,6,58,0,Foul on Shaquielle McKissic.
+UCLA,Arizona State,11,11,7,4,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,11,11,7,4,0,Kevon Looney Offensive Rebound.
+UCLA,Arizona State,14,11,7,10,1,Isaac Hamilton made Three Point Jumper. Assisted by Kevon Looney.
+UCLA,Arizona State,14,11,7,16,0,Tra Holder Turnover.
+UCLA,Arizona State,14,11,7,16,0,Kevon Looney Steal.
+UCLA,Arizona State,16,11,7,21,1,Isaac Hamilton made Jumper. Assisted by Kevon Looney.
+UCLA,Arizona State,16,13,7,44,1,Savon Goodman made Jumper.
+UCLA,Arizona State,16,13,8,16,0,Kevon Looney missed Jumper.
+UCLA,Arizona State,16,13,8,16,0,Savon Goodman Defensive Rebound.
+UCLA,Arizona State,16,13,8,23,0,Foul on Norman Powell.
+UCLA,Arizona State,16,13,8,23,0,Official TV Timeout
+UCLA,Arizona State,16,13,8,43,0,Eric Jacobsen missed Layup.
+UCLA,Arizona State,16,13,8,43,0,Thomas Welsh Block.
+UCLA,Arizona State,16,13,8,43,0,Norman Powell Defensive Rebound.
+UCLA,Arizona State,16,13,8,44,0,Foul on Bo Barnes.
+UCLA,Arizona State,16,13,8,49,0,Norman Powell missed Layup.
+UCLA,Arizona State,16,13,8,49,0,Gerry Blakes Block.
+UCLA,Arizona State,16,13,8,49,0,Arizona St Defensive Rebound.
+UCLA,Arizona State,16,13,9,11,0,Tra Holder missed Jumper.
+UCLA,Arizona State,16,13,9,11,0,Norman Powell Defensive Rebound.
+UCLA,Arizona State,18,13,9,19,1,Norman Powell made Layup.
+UCLA,Arizona State,18,13,9,29,0,Jonathan Gilling missed Three Point Jumper.
+UCLA,Arizona State,18,13,9,29,0,Bo Barnes Offensive Rebound.
+UCLA,Arizona State,18,13,9,33,0,Foul on Gyorgy Goloman.
+UCLA,Arizona State,18,13,9,36,0,Shaquielle McKissic missed Layup.
+UCLA,Arizona State,18,13,9,36,0,Noah Allen Defensive Rebound.
+UCLA,Arizona State,18,13,9,51,0,Norman Powell missed Layup.
+UCLA,Arizona State,18,13,9,51,0,Noah Allen Offensive Rebound.
+UCLA,Arizona State,20,13,9,51,1,Noah Allen made Two Point Tip Shot.
+UCLA,Arizona State,20,13,10,8,0,Shaquielle McKissic missed Jumper.
+UCLA,Arizona State,20,13,10,8,0,Noah Allen Defensive Rebound.
+UCLA,Arizona State,20,13,10,21,0,Norman Powell missed Three Point Jumper.
+UCLA,Arizona State,20,13,10,21,0,Arizona St Defensive Rebound.
+UCLA,Arizona State,20,13,10,24,0,Foul on Tony Parker.
+UCLA,Arizona State,20,13,10,51,0,Shaquielle McKissic missed Three Point Jumper.
+UCLA,Arizona State,20,13,10,51,0,Norman Powell Block.
+UCLA,Arizona State,20,13,10,51,0,Shaquielle McKissic Offensive Rebound.
+UCLA,Arizona State,20,16,10,58,1,Shaquielle McKissic made Three Point Jumper.
+UCLA,Arizona State,23,16,11,27,1,Bryce Alford made Three Point Jumper. Assisted by Gyorgy Goloman.
+UCLA,Arizona State,23,18,11,38,1,Savon Goodman made Layup. Assisted by Shaquielle McKissic.
+UCLA,Arizona State,26,18,12,3,1,Noah Allen made Three Point Jumper. Assisted by Bryce Alford.
+UCLA,Arizona State,26,18,12,32,0,Foul on Gyorgy Goloman.
+UCLA,Arizona State,26,18,12,32,0,Official TV Timeout
+UCLA,Arizona State,26,18,12,32,0,Savon Goodman missed Free Throw.
+UCLA,Arizona State,26,18,12,32,0,Arizona St Deadball Team Rebound.
+UCLA,Arizona State,26,18,12,32,0,Savon Goodman missed Free Throw.
+UCLA,Arizona State,26,18,12,32,0,Noah Allen Defensive Rebound.
+UCLA,Arizona State,26,18,12,51,0,Isaac Hamilton missed Jumper.
+UCLA,Arizona State,26,18,12,51,0,Shaquielle McKissic Defensive Rebound.
+UCLA,Arizona State,26,20,12,58,1,Shaquielle McKissic made Layup.
+UCLA,Arizona State,26,20,12,58,0,Foul on Kevon Looney.
+UCLA,Arizona State,26,21,12,58,1,Shaquielle McKissic made Free Throw.
+UCLA,Arizona State,26,21,13,8,0,Foul on Chance Murray.
+UCLA,Arizona State,26,21,13,8,0,UCLA  Timeout
+UCLA,Arizona State,28,21,13,13,1,Norman Powell made Jumper.
+UCLA,Arizona State,28,21,13,35,0,Gerry Blakes missed Layup.
+UCLA,Arizona State,28,21,13,35,0,Eric Jacobsen Offensive Rebound.
+UCLA,Arizona State,28,21,13,35,0,Eric Jacobsen missed Two Point Tip Shot.
+UCLA,Arizona State,28,21,13,35,0,Tony Parker Defensive Rebound.
+UCLA,Arizona State,28,21,13,45,0,Bryce Alford Turnover.
+UCLA,Arizona State,28,21,13,45,0,Savon Goodman Steal.
+UCLA,Arizona State,28,21,13,54,0,Shaquielle McKissic missed Layup.
+UCLA,Arizona State,28,21,13,54,0,Bryce Alford Defensive Rebound.
+UCLA,Arizona State,28,21,14,26,0,Tony Parker Turnover.
+UCLA,Arizona State,28,21,14,46,0,Gerry Blakes missed Jumper.
+UCLA,Arizona State,28,21,14,46,0,Tony Parker Block.
+UCLA,Arizona State,28,21,14,46,0,Gerry Blakes Offensive Rebound.
+UCLA,Arizona State,28,23,14,53,1,Gerry Blakes made Layup.
+UCLA,Arizona State,30,23,15,4,1,Bryce Alford made Jumper. Assisted by Norman Powell.
+UCLA,Arizona State,30,23,15,15,0,Shaquielle McKissic missed Three Point Jumper.
+UCLA,Arizona State,30,23,15,15,0,Shaquielle McKissic Offensive Rebound.
+UCLA,Arizona State,30,23,15,25,0,Tra Holder Turnover.
+UCLA,Arizona State,30,23,15,25,0,Kevon Looney Steal.
+UCLA,Arizona State,30,23,15,25,0,Kevon Looney Turnover.
+UCLA,Arizona State,30,23,15,25,0,Jump Ball won by Arizona St
+UCLA,Arizona State,30,23,15,37,0,Gerry Blakes missed Layup.
+UCLA,Arizona State,30,23,15,37,0,Kevon Looney Block.
+UCLA,Arizona State,30,23,15,37,0,Tra Holder Offensive Rebound.
+UCLA,Arizona State,30,23,15,48,0,Savon Goodman Turnover.
+UCLA,Arizona State,30,23,15,48,0,Norman Powell Steal.
+UCLA,Arizona State,30,23,15,54,0,Foul on Tra Holder.
+UCLA,Arizona State,31,23,15,54,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,32,23,15,54,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,32,23,16,5,0,Jonathan Gilling Turnover.
+UCLA,Arizona State,32,23,16,5,0,Kevon Looney Steal.
+UCLA,Arizona State,32,23,16,9,0,Jump Ball won by Arizona St
+UCLA,Arizona State,32,23,16,9,0,Official TV Timeout
+UCLA,Arizona State,32,23,16,17,0,Foul on Gerry Blakes.
+UCLA,Arizona State,33,23,16,17,1,Norman Powell made Free Throw.
+UCLA,Arizona State,33,23,16,17,0,Norman Powell missed Free Throw.
+UCLA,Arizona State,33,23,16,17,0,Savon Goodman Defensive Rebound.
+UCLA,Arizona State,33,23,16,35,0,Savon Goodman Turnover.
+UCLA,Arizona State,33,23,16,35,0,Isaac Hamilton Steal.
+UCLA,Arizona State,33,23,17,6,0,Isaac Hamilton missed Three Point Jumper.
+UCLA,Arizona State,33,23,17,6,0,Savon Goodman Defensive Rebound.
+UCLA,Arizona State,33,25,17,13,1,Shaquielle McKissic made Layup. Assisted by Tra Holder.
+UCLA,Arizona State,33,25,17,14,0,Foul on Isaac Hamilton.
+UCLA,Arizona State,33,26,17,14,1,Shaquielle McKissic made Free Throw.
+UCLA,Arizona State,33,26,17,40,0,Kevon Looney missed Jumper.
+UCLA,Arizona State,33,26,17,40,0,Bo Barnes Defensive Rebound.
+UCLA,Arizona State,33,28,17,54,1,Savon Goodman made Dunk. Assisted by Tra Holder.
+UCLA,Arizona State,33,28,17,54,0,Foul on Norman Powell.
+UCLA,Arizona State,33,29,17,54,1,Savon Goodman made Free Throw.
+UCLA,Arizona State,33,29,18,16,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,33,29,18,17,0,Eric Jacobsen Defensive Rebound.
+UCLA,Arizona State,33,32,18,31,1,Tra Holder made Three Point Jumper. Assisted by Shaquielle McKissic.
+UCLA,Arizona State,33,32,18,52,0,Foul on Shaquielle McKissic.
+UCLA,Arizona State,36,32,19,13,1,Kevon Looney made Three Point Jumper. Assisted by Bryce Alford.
+UCLA,Arizona State,36,32,19,53,0,Tra Holder missed Three Point Jumper.
+UCLA,Arizona State,36,32,19,53,0,Noah Allen Defensive Rebound.
+UCLA,Arizona State,36,32,20,0,0,End of 1st half
+UCLA,Arizona State,36,32,20,0,0,Jump Ball won by UCLA
+UCLA,Arizona State,36,32,20,27,0,Foul on Eric Jacobsen.
+UCLA,Arizona State,37,32,20,27,1,Tony Parker made Free Throw.
+UCLA,Arizona State,38,32,20,27,1,Tony Parker made Free Throw.
+UCLA,Arizona State,38,32,20,38,0,Gerry Blakes missed Jumper.
+UCLA,Arizona State,38,32,20,38,0,Kevon Looney Defensive Rebound.
+UCLA,Arizona State,38,32,20,50,0,Kevon Looney missed Three Point Jumper.
+UCLA,Arizona State,38,32,20,50,0,Tra Holder Defensive Rebound.
+UCLA,Arizona State,38,34,20,59,1,Tra Holder made Layup.
+UCLA,Arizona State,40,34,21,31,1,Kevon Looney made Jumper. Assisted by Isaac Hamilton.
+UCLA,Arizona State,40,34,21,37,0,Foul on Kevon Looney.
+UCLA,Arizona State,40,36,21,50,1,Savon Goodman made Dunk. Assisted by Gerry Blakes.
+UCLA,Arizona State,40,36,22,5,0,Norman Powell missed Layup.
+UCLA,Arizona State,40,36,22,5,0,Eric Jacobsen Defensive Rebound.
+UCLA,Arizona State,40,36,22,24,0,Tra Holder missed Jumper.
+UCLA,Arizona State,40,36,22,24,0,Bryce Alford Defensive Rebound.
+UCLA,Arizona State,40,36,22,37,0,Norman Powell missed Three Point Jumper.
+UCLA,Arizona State,40,36,22,37,0,Eric Jacobsen Defensive Rebound.
+UCLA,Arizona State,40,36,22,43,0,Jump Ball won by Arizona St
+UCLA,Arizona State,40,36,23,10,0,Gerry Blakes missed Three Point Jumper.
+UCLA,Arizona State,40,36,23,10,0,Eric Jacobsen Offensive Rebound.
+UCLA,Arizona State,40,36,23,13,0,Foul on Tony Parker.
+UCLA,Arizona State,40,38,23,14,1,Shaquielle McKissic made Layup. Assisted by Tra Holder.
+UCLA,Arizona State,40,38,23,14,0,Foul on Tony Parker.
+UCLA,Arizona State,40,39,23,14,1,Shaquielle McKissic made Free Throw.
+UCLA,Arizona State,40,39,23,29,0,Foul on Norman Powell.
+UCLA,Arizona State,40,39,23,29,0,Norman Powell Turnover.
+UCLA,Arizona State,40,41,23,46,1,Eric Jacobsen made Layup. Assisted by Savon Goodman.
+UCLA,Arizona State,40,41,24,10,0,Foul on Eric Jacobsen.
+UCLA,Arizona State,40,41,24,10,0,Official TV Timeout
+UCLA,Arizona State,40,41,24,20,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,40,41,24,20,0,Isaac Hamilton Offensive Rebound.
+UCLA,Arizona State,40,41,24,32,0,Foul on Eric Jacobsen.
+UCLA,Arizona State,40,41,24,32,0,Kevon Looney missed Free Throw.
+UCLA,Arizona State,40,41,24,32,0,UCLA Deadball Team Rebound.
+UCLA,Arizona State,40,41,24,32,0,Kevon Looney missed Free Throw.
+UCLA,Arizona State,40,41,24,32,0,Thomas Welsh Offensive Rebound.
+UCLA,Arizona State,40,41,25,5,0,Bryce Alford missed Layup.
+UCLA,Arizona State,40,41,25,5,0,Kevon Looney Offensive Rebound.
+UCLA,Arizona State,42,41,25,12,1,Kevon Looney made Layup.
+UCLA,Arizona State,42,41,25,32,0,Savon Goodman Turnover.
+UCLA,Arizona State,42,41,25,32,0,Thomas Welsh Steal.
+UCLA,Arizona State,42,41,25,45,0,Kevon Looney missed Jumper.
+UCLA,Arizona State,42,41,25,45,0,Gerry Blakes Defensive Rebound.
+UCLA,Arizona State,42,41,25,54,0,Gerry Blakes missed Layup.
+UCLA,Arizona State,42,41,25,54,0,Savon Goodman Offensive Rebound.
+UCLA,Arizona State,42,43,25,59,1,Savon Goodman made Layup.
+UCLA,Arizona State,42,43,25,59,0,Foul on Thomas Welsh.
+UCLA,Arizona State,42,44,25,59,1,Savon Goodman made Free Throw.
+UCLA,Arizona State,45,44,26,14,1,Kevon Looney made Three Point Jumper. Assisted by Isaac Hamilton.
+UCLA,Arizona State,45,44,26,32,0,Tra Holder Turnover.
+UCLA,Arizona State,45,44,26,42,0,Bryce Alford missed Layup.
+UCLA,Arizona State,45,44,26,42,0,UCLA Offensive Rebound.
+UCLA,Arizona State,45,44,26,43,0,Foul on Bo Barnes.
+UCLA,Arizona State,45,44,26,46,0,Kevon Looney missed Jumper.
+UCLA,Arizona State,45,44,26,46,0,Tra Holder Defensive Rebound.
+UCLA,Arizona State,45,44,26,54,0,Foul on Norman Powell.
+UCLA,Arizona State,45,46,26,55,1,Bo Barnes made Layup. Assisted by Tra Holder.
+UCLA,Arizona State,47,46,27,13,1,Thomas Welsh made Jumper. Assisted by Isaac Hamilton.
+UCLA,Arizona State,47,46,27,30,0,Tra Holder missed Three Point Jumper.
+UCLA,Arizona State,47,46,27,30,0,Kevon Looney Defensive Rebound.
+UCLA,Arizona State,47,46,27,46,0,Bryce Alford missed Jumper.
+UCLA,Arizona State,47,46,27,46,0,Gerry Blakes Defensive Rebound.
+UCLA,Arizona State,47,49,27,53,1,Bo Barnes made Three Point Jumper. Assisted by Gerry Blakes.
+UCLA,Arizona State,47,49,28,31,0,Noah Allen missed Three Point Jumper.
+UCLA,Arizona State,47,49,28,31,0,Tra Holder Defensive Rebound.
+UCLA,Arizona State,47,49,28,42,0,Tra Holder Turnover.
+UCLA,Arizona State,47,49,28,42,0,Official TV Timeout
+UCLA,Arizona State,47,49,29,0,0,Foul on Shaquielle McKissic.
+UCLA,Arizona State,47,49,29,0,0,Isaac Hamilton missed Free Throw.
+UCLA,Arizona State,47,49,29,0,0,UCLA Deadball Team Rebound.
+UCLA,Arizona State,48,49,29,0,1,Isaac Hamilton made Free Throw.
+UCLA,Arizona State,48,49,29,24,0,Savon Goodman Turnover.
+UCLA,Arizona State,48,49,29,24,0,Kevon Looney Steal.
+UCLA,Arizona State,50,49,29,39,1,Kevon Looney made Dunk. Assisted by Tony Parker.
+UCLA,Arizona State,50,51,29,52,1,Eric Jacobsen made Layup. Assisted by Bo Barnes.
+UCLA,Arizona State,50,51,30,13,0,Isaac Hamilton missed Three Point Jumper.
+UCLA,Arizona State,50,51,30,13,0,Chance Murray Defensive Rebound.
+UCLA,Arizona State,50,51,30,18,0,Foul on Tony Parker.
+UCLA,Arizona State,50,52,30,18,1,Chance Murray made Free Throw.
+UCLA,Arizona State,50,52,30,18,0,Chance Murray missed Free Throw.
+UCLA,Arizona State,50,52,30,18,0,Gyorgy Goloman Defensive Rebound.
+UCLA,Arizona State,50,52,30,46,0,Thomas Welsh missed Jumper.
+UCLA,Arizona State,50,52,30,46,0,Eric Jacobsen Block.
+UCLA,Arizona State,50,52,30,46,0,Bo Barnes Defensive Rebound.
+UCLA,Arizona State,50,52,31,7,0,Jonathan Gilling missed Three Point Jumper.
+UCLA,Arizona State,50,52,31,7,0,Bryce Alford Defensive Rebound.
+UCLA,Arizona State,50,52,31,11,0,Foul on Shaquielle McKissic.
+UCLA,Arizona State,52,52,31,20,1,Bryce Alford made Jumper.
+UCLA,Arizona State,52,52,31,20,0,Foul on Eric Jacobsen.
+UCLA,Arizona State,53,52,31,20,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,53,52,31,26,0,Foul on Bryce Alford.
+UCLA,Arizona State,53,53,31,26,1,Tra Holder made Free Throw.
+UCLA,Arizona State,53,54,31,26,1,Tra Holder made Free Throw.
+UCLA,Arizona State,53,54,31,49,0,Bryce Alford missed Three Point Jumper.
+UCLA,Arizona State,53,54,31,49,0,Savon Goodman Defensive Rebound.
+UCLA,Arizona State,53,54,32,8,0,Official TV Timeout
+UCLA,Arizona State,53,54,32,20,0,Tra Holder Turnover.
+UCLA,Arizona State,53,54,32,20,0,Kevon Looney Steal.
+UCLA,Arizona State,53,54,32,51,0,Isaac Hamilton missed Jumper.
+UCLA,Arizona State,53,54,32,51,0,Savon Goodman Defensive Rebound.
+UCLA,Arizona State,53,54,32,53,0,Foul on Isaac Hamilton.
+UCLA,Arizona State,53,54,32,53,0,Savon Goodman missed Free Throw.
+UCLA,Arizona State,53,54,32,53,0,Bryce Alford Defensive Rebound.
+UCLA,Arizona State,55,54,33,6,1,Bryce Alford made Jumper. Assisted by Noah Allen.
+UCLA,Arizona State,55,54,33,37,0,Foul on Noah Allen.
+UCLA,Arizona State,55,54,33,37,0,Tra Holder missed Free Throw.
+UCLA,Arizona State,55,54,33,37,0,Arizona St Deadball Team Rebound.
+UCLA,Arizona State,55,54,33,37,0,Tra Holder missed Free Throw.
+UCLA,Arizona State,55,54,33,37,0,Kevon Looney Defensive Rebound.
+UCLA,Arizona State,55,54,33,57,0,Bryce Alford missed Jumper.
+UCLA,Arizona State,55,54,33,57,0,Savon Goodman Defensive Rebound.
+UCLA,Arizona State,55,54,34,5,0,Gerry Blakes missed Three Point Jumper.
+UCLA,Arizona State,55,54,34,5,0,Norman Powell Defensive Rebound.
+UCLA,Arizona State,57,54,34,13,1,Isaac Hamilton made Jumper. Assisted by Norman Powell.
+UCLA,Arizona State,57,54,34,24,0,Foul on Thomas Welsh.
+UCLA,Arizona State,57,55,34,24,1,Tra Holder made Free Throw.
+UCLA,Arizona State,57,56,34,24,1,Tra Holder made Free Throw.
+UCLA,Arizona State,57,56,34,38,0,Isaac Hamilton missed Three Point Jumper.
+UCLA,Arizona State,57,56,34,38,0,Willie Atwood Defensive Rebound.
+UCLA,Arizona State,57,58,34,46,1,Gerry Blakes made Layup.
+UCLA,Arizona State,57,58,34,56,0,UCLA  Timeout
+UCLA,Arizona State,57,58,35,0,0,Norman Powell missed Three Point Jumper.
+UCLA,Arizona State,57,58,35,0,0,Savon Goodman Defensive Rebound.
+UCLA,Arizona State,57,58,35,24,0,Bo Barnes missed Three Point Jumper.
+UCLA,Arizona State,57,58,35,24,0,Savon Goodman Offensive Rebound.
+UCLA,Arizona State,57,61,35,57,1,Bo Barnes made Three Point Jumper. Assisted by Tra Holder.
+UCLA,Arizona State,57,61,36,20,0,Bryce Alford Turnover.
+UCLA,Arizona State,57,61,36,20,0,Savon Goodman Steal.
+UCLA,Arizona State,57,61,36,38,0,Foul on Tony Parker.
+UCLA,Arizona State,57,61,36,38,0,Official TV Timeout
+UCLA,Arizona State,57,61,36,38,0,Tra Holder missed Free Throw.
+UCLA,Arizona State,57,61,36,38,0,Arizona St Deadball Team Rebound.
+UCLA,Arizona State,57,62,36,38,1,Tra Holder made Free Throw.
+UCLA,Arizona State,57,62,36,51,0,Foul on Tra Holder.
+UCLA,Arizona State,58,62,36,51,1,Isaac Hamilton made Free Throw.
+UCLA,Arizona State,58,62,36,51,0,Isaac Hamilton missed Free Throw.
+UCLA,Arizona State,58,62,36,51,0,Kevon Looney Offensive Rebound.
+UCLA,Arizona State,58,62,36,59,0,Foul on Savon Goodman.
+UCLA,Arizona State,59,62,36,59,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,60,62,36,59,1,Bryce Alford made Free Throw.
+UCLA,Arizona State,60,62,37,26,0,Tra Holder Turnover.
+UCLA,Arizona State,60,62,37,43,0,Isaac Hamilton Turnover.
+UCLA,Arizona State,60,62,37,43,0,Tra Holder Steal.
+UCLA,Arizona State,60,62,37,48,0,Foul on Kevon Looney.
+UCLA,Arizona State,60,63,37,48,1,Tra Holder made Free Throw.
+UCLA,Arizona State,60,64,37,48,1,Tra Holder made Free Throw.
+UCLA,Arizona State,60,64,38,16,0,Isaac Hamilton missed Three Point Jumper.
+UCLA,Arizona State,60,64,38,16,0,Savon Goodman Defensive Rebound.
+UCLA,Arizona State,60,64,38,19,0,Foul on Kevon Looney.
+UCLA,Arizona State,60,65,38,19,1,Savon Goodman made Free Throw.
+UCLA,Arizona State,60,66,38,19,1,Savon Goodman made Free Throw.
+UCLA,Arizona State,62,66,38,24,1,Norman Powell made Jumper.
+UCLA,Arizona State,62,66,38,28,0,UCLA  Timeout
+UCLA,Arizona State,62,66,38,59,0,Bo Barnes Turnover.
+UCLA,Arizona State,64,66,39,6,1,Norman Powell made Jumper.
+UCLA,Arizona State,64,66,39,15,0,Arizona St  Timeout
+UCLA,Arizona State,64,66,39,33,0,Bo Barnes missed Three Point Jumper.
+UCLA,Arizona State,64,66,39,33,0,Savon Goodman Offensive Rebound.
+UCLA,Arizona State,64,66,39,42,0,Foul on Kevon Looney.
+UCLA,Arizona State,64,66,39,42,0,Jonathan Gilling missed Free Throw.
+UCLA,Arizona State,64,66,39,42,0,Arizona St Deadball Team Rebound.
+UCLA,Arizona State,64,67,39,42,1,Jonathan Gilling made Free Throw.
+UCLA,Arizona State,64,67,39,42,0,Arizona St  Timeout
+UCLA,Arizona State,66,67,39,50,1,Isaac Hamilton made Layup.
+UCLA,Arizona State,66,67,39,52,0,UCLA  Timeout
+UCLA,Arizona State,66,67,39,53,0,Foul on Bryce Alford.
+UCLA,Arizona State,66,67,39,53,0,Tra Holder missed Free Throw.
+UCLA,Arizona State,66,67,39,53,0,Arizona St Deadball Team Rebound.
+UCLA,Arizona State,66,68,39,53,1,Tra Holder made Free Throw.
+UCLA,Arizona State,66,68,39,59,0,Isaac Hamilton missed Three Point Jumper.
+UCLA,Arizona State,66,68,39,59,0,UCLA Offensive Rebound.
+UCLA,Arizona State,66,68,40,0,0,End of Game

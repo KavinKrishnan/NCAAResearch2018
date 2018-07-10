@@ -1,0 +1,354 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UNLV,Utah State,2,0,0,15,1,Dwayne Morgan made Jumper.
+UNLV,Utah State,2,0,0,36,0,Chris Smith missed Layup.
+UNLV,Utah State,2,0,0,36,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,2,0,1,5,0,Stephen Zimmerman Jr. missed Layup.
+UNLV,Utah State,2,0,1,5,0,Stephen Zimmerman Jr. Offensive Rebound.
+UNLV,Utah State,4,0,1,7,1,Stephen Zimmerman Jr. made Two Point Tip Shot.
+UNLV,Utah State,4,2,1,17,1,Darius Perkins made Jumper.
+UNLV,Utah State,4,2,1,36,0,Dwayne Morgan Turnover.
+UNLV,Utah State,4,2,1,37,0,Jalen Moore Steal.
+UNLV,Utah State,4,4,1,54,1,Jalen Moore made Layup.
+UNLV,Utah State,4,4,2,7,0,Patrick McCaw missed Three Point Jumper.
+UNLV,Utah State,4,4,2,7,0,Chris Smith Defensive Rebound.
+UNLV,Utah State,4,6,2,20,1,Chris Smith made Layup. Assisted by Quinn Taylor.
+UNLV,Utah State,4,6,2,43,0,Foul on Jalen Moore.
+UNLV,Utah State,4,6,2,43,0,Dwayne Morgan missed Free Throw.
+UNLV,Utah State,4,6,2,43,0,UNLV Deadball Team Rebound.
+UNLV,Utah State,5,6,2,43,1,Dwayne Morgan made Free Throw.
+UNLV,Utah State,5,8,3,2,1,Jalen Moore made Layup.
+UNLV,Utah State,7,8,3,23,1,Dwayne Morgan made Layup. Assisted by Stephen Zimmerman Jr..
+UNLV,Utah State,7,8,3,44,0,Darius Perkins missed Jumper.
+UNLV,Utah State,7,8,3,44,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,7,8,3,50,0,Foul on Darius Perkins.
+UNLV,Utah State,7,8,3,59,0,Dwayne Morgan missed Jumper.
+UNLV,Utah State,7,8,3,59,0,Quinn Taylor Defensive Rebound.
+UNLV,Utah State,7,8,4,15,0,Jalen Moore missed Jumper.
+UNLV,Utah State,7,8,4,15,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,7,8,4,21,0,Patrick McCaw Turnover.
+UNLV,Utah State,7,8,4,21,0,Official TV Timeout
+UNLV,Utah State,7,8,4,31,0,Julion Pearre Turnover.
+UNLV,Utah State,7,8,4,55,0,Stephen Zimmerman Jr. missed Three Point Jumper.
+UNLV,Utah State,7,8,4,55,0,Chris Smith Defensive Rebound.
+UNLV,Utah State,7,8,5,8,0,Julion Pearre missed Layup.
+UNLV,Utah State,7,8,5,8,0,Derrick Jones Jr. Block.
+UNLV,Utah State,7,8,5,8,0,Utah State Offensive Rebound.
+UNLV,Utah State,7,8,5,17,0,Chris Smith missed Layup.
+UNLV,Utah State,7,8,5,17,0,Dwayne Morgan Defensive Rebound.
+UNLV,Utah State,7,8,5,25,0,Jerome Seagears missed Layup.
+UNLV,Utah State,7,8,5,25,0,Stephen Zimmerman Jr. Offensive Rebound.
+UNLV,Utah State,7,8,5,28,0,Stephen Zimmerman Jr. missed Layup.
+UNLV,Utah State,7,8,5,28,0,Derrick Jones Jr. Offensive Rebound.
+UNLV,Utah State,9,8,5,30,1,Derrick Jones Jr. made Dunk.
+UNLV,Utah State,9,10,5,41,1,Julion Pearre made Layup. Assisted by Jalen Moore.
+UNLV,Utah State,11,10,5,57,1,Derrick Jones Jr. made Layup.
+UNLV,Utah State,11,10,6,29,0,Foul on Dwayne Morgan.
+UNLV,Utah State,11,10,6,33,0,Julion Pearre missed Three Point Jumper.
+UNLV,Utah State,11,10,6,33,0,Utah State Offensive Rebound.
+UNLV,Utah State,11,10,6,42,0,Jalen Moore missed Jumper.
+UNLV,Utah State,11,10,6,42,0,Ben Carter Defensive Rebound.
+UNLV,Utah State,11,10,6,52,0,Ben Carter missed Layup.
+UNLV,Utah State,11,10,6,52,0,Julion Pearre Defensive Rebound.
+UNLV,Utah State,11,13,7,2,1,Lew Evans made Three Point Jumper.
+UNLV,Utah State,11,13,7,27,0,Patrick McCaw Turnover.
+UNLV,Utah State,11,13,7,27,0,Shane Rector Steal.
+UNLV,Utah State,11,13,7,32,0,Shane Rector Turnover.
+UNLV,Utah State,11,13,7,32,0,Foul on Shane Rector.
+UNLV,Utah State,11,13,7,44,0,Ike Nwamu missed Three Point Jumper.
+UNLV,Utah State,11,13,7,44,0,Ben Carter Offensive Rebound.
+UNLV,Utah State,11,13,8,0,0,Jalen Poyser missed Jumper.
+UNLV,Utah State,11,13,8,0,0,Darius Perkins Defensive Rebound.
+UNLV,Utah State,11,13,8,8,0,Shane Rector missed Three Point Jumper.
+UNLV,Utah State,11,13,8,8,0,Utah State Offensive Rebound.
+UNLV,Utah State,11,13,8,10,0,Official TV Timeout
+UNLV,Utah State,11,13,8,26,0,Shane Rector Turnover.
+UNLV,Utah State,11,13,8,27,0,Ben Carter Steal.
+UNLV,Utah State,13,13,8,31,1,Derrick Jones Jr. made Layup.
+UNLV,Utah State,13,13,8,45,0,Quinn Taylor Turnover.
+UNLV,Utah State,13,13,8,45,0,Foul on Quinn Taylor.
+UNLV,Utah State,13,13,9,1,0,Derrick Jones Jr. missed Layup.
+UNLV,Utah State,13,13,9,1,0,Lew Evans Defensive Rebound.
+UNLV,Utah State,13,13,9,9,0,Foul on Jalen Poyser.
+UNLV,Utah State,13,13,9,18,0,Shane Rector missed Layup.
+UNLV,Utah State,13,13,9,18,0,Stephen Zimmerman Jr. Block.
+UNLV,Utah State,13,13,9,20,0,Ike Nwamu Defensive Rebound.
+UNLV,Utah State,15,13,9,23,1,Derrick Jones Jr. made Dunk. Assisted by Ike Nwamu.
+UNLV,Utah State,15,13,9,42,0,Foul on Stephen Zimmerman Jr..
+UNLV,Utah State,15,14,9,42,1,Chris Smith made Free Throw.
+UNLV,Utah State,15,15,9,42,1,Chris Smith made Free Throw.
+UNLV,Utah State,17,15,9,55,1,Derrick Jones Jr. made Layup.
+UNLV,Utah State,17,15,10,16,0,Lew Evans missed Layup.
+UNLV,Utah State,17,15,10,16,0,Jordan Cornish Defensive Rebound.
+UNLV,Utah State,19,15,10,22,1,Jordan Cornish made Layup.
+UNLV,Utah State,19,15,10,40,0,Julion Pearre missed Jumper.
+UNLV,Utah State,19,15,10,40,0,Jalen Moore Offensive Rebound.
+UNLV,Utah State,19,17,10,43,1,Jalen Moore made Dunk.
+UNLV,Utah State,19,17,11,0,0,Derrick Jones Jr. missed Three Point Jumper.
+UNLV,Utah State,19,17,11,0,0,Chris Smith Defensive Rebound.
+UNLV,Utah State,19,17,11,11,0,Darius Perkins Turnover.
+UNLV,Utah State,19,17,11,34,0,Stephen Zimmerman Jr. missed Jumper.
+UNLV,Utah State,19,17,11,34,0,Jalen Moore Defensive Rebound.
+UNLV,Utah State,19,17,11,42,0,Foul on Ben Carter.
+UNLV,Utah State,19,20,11,45,1,Chris Smith made Three Point Jumper. Assisted by Julion Pearre.
+UNLV,Utah State,19,20,12,1,0,Jordan Cornish missed Layup.
+UNLV,Utah State,19,20,12,1,0,Jordan Cornish Offensive Rebound.
+UNLV,Utah State,19,20,12,1,0,Foul on Elston Jones.
+UNLV,Utah State,19,20,12,1,0,Official TV Timeout
+UNLV,Utah State,20,20,12,1,1,Jordan Cornish made Free Throw.
+UNLV,Utah State,21,20,12,1,1,Jordan Cornish made Free Throw.
+UNLV,Utah State,21,20,12,16,0,Foul on Patrick McCaw.
+UNLV,Utah State,21,21,12,16,1,Elston Jones made Free Throw.
+UNLV,Utah State,21,21,12,16,0,Elston Jones missed Free Throw.
+UNLV,Utah State,21,21,12,16,0,Chris Smith Offensive Rebound.
+UNLV,Utah State,21,21,12,20,0,Chris Smith missed Layup.
+UNLV,Utah State,21,21,12,20,0,Patrick McCaw Block.
+UNLV,Utah State,21,21,12,22,0,Jerome Seagears Defensive Rebound.
+UNLV,Utah State,21,21,12,42,0,Dwayne Morgan Turnover.
+UNLV,Utah State,21,21,12,43,0,Chris Smith Steal.
+UNLV,Utah State,21,23,13,11,1,Darius Perkins made Jumper.
+UNLV,Utah State,21,23,13,37,0,Ben Carter Turnover.
+UNLV,Utah State,21,23,13,52,0,Elston Jones missed Layup.
+UNLV,Utah State,21,23,13,52,0,Patrick McCaw Block.
+UNLV,Utah State,21,23,13,54,0,Ike Nwamu Defensive Rebound.
+UNLV,Utah State,23,23,13,56,1,Ike Nwamu made Layup.
+UNLV,Utah State,23,23,13,56,0,Foul on Jalen Moore.
+UNLV,Utah State,24,23,13,56,1,Ike Nwamu made Free Throw.
+UNLV,Utah State,24,23,14,9,0,Julion Pearre Turnover.
+UNLV,Utah State,24,23,14,10,0,Ben Carter Steal.
+UNLV,Utah State,26,23,14,13,1,Dwayne Morgan made Dunk. Assisted by Jerome Seagears.
+UNLV,Utah State,26,23,14,35,0,Lew Evans missed Free Throw.
+UNLV,Utah State,26,23,14,35,0,Foul on Jerome Seagears.
+UNLV,Utah State,26,23,14,35,0,Technical Foul on Jerome Seagears.
+UNLV,Utah State,26,23,14,35,0,Utah State Deadball Team Rebound.
+UNLV,Utah State,26,24,14,35,1,Lew Evans made Free Throw.
+UNLV,Utah State,26,26,14,41,1,Lew Evans made Layup. Assisted by Shane Rector.
+UNLV,Utah State,28,26,14,51,1,Jerome Seagears made Layup.
+UNLV,Utah State,28,26,15,13,0,Foul on Dwayne Morgan.
+UNLV,Utah State,28,26,15,13,0,Lew Evans missed Free Throw.
+UNLV,Utah State,28,26,15,13,0,Utah State Deadball Team Rebound.
+UNLV,Utah State,28,27,15,13,1,Lew Evans made Free Throw.
+UNLV,Utah State,28,27,15,31,0,Ben Carter missed Jumper.
+UNLV,Utah State,28,27,15,31,0,Lew Evans Defensive Rebound.
+UNLV,Utah State,28,27,15,47,0,Quinn Taylor missed Three Point Jumper.
+UNLV,Utah State,28,27,15,47,0,Ben Carter Defensive Rebound.
+UNLV,Utah State,28,27,15,55,0,Foul on Quinn Taylor.
+UNLV,Utah State,29,27,15,55,1,Jerome Seagears made Free Throw.
+UNLV,Utah State,29,27,15,55,0,Jerome Seagears missed Free Throw.
+UNLV,Utah State,29,27,15,55,0,Lew Evans Defensive Rebound.
+UNLV,Utah State,29,29,16,10,1,Shane Rector made Jumper.
+UNLV,Utah State,31,29,16,36,1,Derrick Jones Jr. made Layup. Assisted by Patrick McCaw.
+UNLV,Utah State,31,31,16,48,1,John Middleton made Layup. Assisted by Shane Rector.
+UNLV,Utah State,31,31,17,4,0,Foul on Quinn Taylor.
+UNLV,Utah State,31,31,17,4,0,Official TV Timeout
+UNLV,Utah State,32,31,17,4,1,Jerome Seagears made Free Throw.
+UNLV,Utah State,33,31,17,4,1,Jerome Seagears made Free Throw.
+UNLV,Utah State,33,31,17,14,0,Elston Jones Turnover.
+UNLV,Utah State,33,31,17,31,0,Jordan Cornish Turnover.
+UNLV,Utah State,33,31,17,33,0,Darius Perkins Steal.
+UNLV,Utah State,33,31,17,44,0,Darius Perkins missed Three Point Jumper.
+UNLV,Utah State,33,31,17,44,0,Shane Rector Offensive Rebound.
+UNLV,Utah State,33,31,17,51,0,Lew Evans missed Three Point Jumper.
+UNLV,Utah State,33,31,17,51,0,Jerome Seagears Defensive Rebound.
+UNLV,Utah State,33,31,17,59,0,Jordan Cornish missed Three Point Jumper.
+UNLV,Utah State,33,31,17,59,0,Shane Rector Defensive Rebound.
+UNLV,Utah State,33,33,18,5,1,Shane Rector made Layup.
+UNLV,Utah State,33,33,18,28,0,Derrick Jones Jr. missed Layup.
+UNLV,Utah State,33,33,18,28,0,Lew Evans Defensive Rebound.
+UNLV,Utah State,33,33,18,41,0,Foul on Patrick McCaw.
+UNLV,Utah State,33,33,18,41,0,Elston Jones missed Free Throw.
+UNLV,Utah State,33,33,18,41,0,Utah State Deadball Team Rebound.
+UNLV,Utah State,33,34,18,41,1,Elston Jones made Free Throw.
+UNLV,Utah State,35,34,19,5,1,Stephen Zimmerman Jr. made Jumper. Assisted by Ike Nwamu.
+UNLV,Utah State,35,36,19,22,1,Shane Rector made Jumper.
+UNLV,Utah State,35,36,19,29,0,UNLV  Timeout
+UNLV,Utah State,35,36,19,53,0,Ike Nwamu Turnover.
+UNLV,Utah State,35,36,19,53,0,Utah State  Timeout
+UNLV,Utah State,35,36,20,0,0,End of 1st half
+UNLV,Utah State,35,36,20,14,0,Chris Smith Turnover.
+UNLV,Utah State,35,36,20,15,0,Patrick McCaw Steal.
+UNLV,Utah State,35,36,20,24,0,Stephen Zimmerman Jr. missed Jumper.
+UNLV,Utah State,35,36,20,24,0,Jalen Moore Block.
+UNLV,Utah State,35,36,20,24,0,UNLV Offensive Rebound.
+UNLV,Utah State,37,36,20,41,1,Dwayne Morgan made Jumper. Assisted by Patrick McCaw.
+UNLV,Utah State,37,36,21,7,0,Jalen Moore Turnover.
+UNLV,Utah State,40,36,21,31,1,Jerome Seagears made Three Point Jumper. Assisted by Patrick McCaw.
+UNLV,Utah State,40,36,21,49,0,Jalen Moore Turnover.
+UNLV,Utah State,40,36,21,52,0,Patrick McCaw Steal.
+UNLV,Utah State,42,36,21,53,1,Patrick McCaw made Dunk.
+UNLV,Utah State,42,36,22,17,0,Julion Pearre Turnover.
+UNLV,Utah State,42,36,22,18,0,Patrick McCaw Steal.
+UNLV,Utah State,42,36,22,20,0,Patrick McCaw Turnover.
+UNLV,Utah State,42,36,22,20,0,Darius Perkins Steal.
+UNLV,Utah State,42,36,22,20,0,Foul on Patrick McCaw.
+UNLV,Utah State,42,38,22,36,1,Darius Perkins made Jumper.
+UNLV,Utah State,42,38,22,56,0,Stephen Zimmerman Jr. missed Layup.
+UNLV,Utah State,42,38,22,56,0,Stephen Zimmerman Jr. Offensive Rebound.
+UNLV,Utah State,42,38,22,58,0,Stephen Zimmerman Jr. missed Layup.
+UNLV,Utah State,42,38,22,58,0,Stephen Zimmerman Jr. Offensive Rebound.
+UNLV,Utah State,44,38,23,1,1,Stephen Zimmerman Jr. made Layup.
+UNLV,Utah State,44,38,23,13,0,Darius Perkins missed Jumper.
+UNLV,Utah State,44,38,23,13,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,46,38,23,24,1,Stephen Zimmerman Jr. made Jumper. Assisted by Jerome Seagears.
+UNLV,Utah State,46,38,23,34,0,Utah State  Timeout
+UNLV,Utah State,46,38,23,45,0,Foul on Derrick Jones Jr..
+UNLV,Utah State,46,38,24,2,0,Jalen Moore missed Jumper.
+UNLV,Utah State,46,38,24,2,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,46,38,24,12,0,Derrick Jones Jr. missed Three Point Jumper.
+UNLV,Utah State,46,38,24,12,0,Jalen Moore Defensive Rebound.
+UNLV,Utah State,46,38,24,14,0,Foul on Dwayne Morgan.
+UNLV,Utah State,46,38,24,14,0,Official TV Timeout
+UNLV,Utah State,46,38,24,31,0,Chris Smith missed Jumper.
+UNLV,Utah State,46,38,24,31,0,Chris Smith Offensive Rebound.
+UNLV,Utah State,46,38,24,34,0,Chris Smith missed Layup.
+UNLV,Utah State,46,38,24,34,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,46,38,24,34,0,Foul on Lew Evans.
+UNLV,Utah State,46,38,24,43,0,Foul on Lew Evans.
+UNLV,Utah State,46,38,24,48,0,Foul on Lew Evans.
+UNLV,Utah State,47,38,24,48,1,Ben Carter made Free Throw.
+UNLV,Utah State,48,38,24,48,1,Ben Carter made Free Throw.
+UNLV,Utah State,48,38,25,3,0,Lew Evans missed Jumper.
+UNLV,Utah State,48,38,25,3,0,Stephen Zimmerman Jr. Block.
+UNLV,Utah State,48,38,25,6,0,Derrick Jones Jr. Defensive Rebound.
+UNLV,Utah State,48,38,25,12,0,Stephen Zimmerman Jr. missed Dunk.
+UNLV,Utah State,48,38,25,12,0,Derrick Jones Jr. Offensive Rebound.
+UNLV,Utah State,48,38,25,17,0,Derrick Jones Jr. missed Jumper.
+UNLV,Utah State,48,38,25,17,0,Darius Perkins Defensive Rebound.
+UNLV,Utah State,48,38,25,17,0,Darius Perkins Turnover.
+UNLV,Utah State,51,38,25,20,1,Jordan Cornish made Three Point Jumper. Assisted by Ben Carter.
+UNLV,Utah State,51,38,25,39,0,Foul on Jordan Cornish.
+UNLV,Utah State,51,38,25,46,0,Lew Evans missed Three Point Jumper.
+UNLV,Utah State,51,38,25,46,0,Jerome Seagears Defensive Rebound.
+UNLV,Utah State,54,38,25,52,1,Jordan Cornish made Three Point Jumper. Assisted by Jerome Seagears.
+UNLV,Utah State,54,38,26,13,0,Foul on Ben Carter.
+UNLV,Utah State,54,38,26,22,0,Foul on Stephen Zimmerman Jr..
+UNLV,Utah State,54,38,26,24,0,Chris Smith Turnover.
+UNLV,Utah State,54,38,26,25,0,Jalen Poyser Steal.
+UNLV,Utah State,56,38,26,29,1,Derrick Jones Jr. made Dunk. Assisted by Jordan Cornish.
+UNLV,Utah State,56,41,26,44,1,Chris Smith made Three Point Jumper. Assisted by Shane Rector.
+UNLV,Utah State,56,41,27,5,0,Ben Carter Turnover.
+UNLV,Utah State,56,43,27,20,1,Chris Smith made Layup. Assisted by Lew Evans.
+UNLV,Utah State,56,43,27,51,0,Ben Carter Turnover.
+UNLV,Utah State,56,43,27,51,0,Foul on Ben Carter.
+UNLV,Utah State,56,46,28,2,1,Jalen Moore made Three Point Jumper.
+UNLV,Utah State,56,46,28,22,0,Foul on Shane Rector.
+UNLV,Utah State,56,46,28,22,0,Official TV Timeout
+UNLV,Utah State,58,46,28,47,1,Dwayne Morgan made Dunk. Assisted by Ike Nwamu.
+UNLV,Utah State,58,46,29,5,0,Jalen Moore missed Three Point Jumper.
+UNLV,Utah State,58,46,29,5,0,Lew Evans Offensive Rebound.
+UNLV,Utah State,58,46,29,7,0,Foul on Ike Nwamu.
+UNLV,Utah State,58,47,29,7,1,Chris Smith made Free Throw.
+UNLV,Utah State,58,48,29,7,1,Chris Smith made Free Throw.
+UNLV,Utah State,60,48,29,23,1,Dwayne Morgan made Layup.
+UNLV,Utah State,60,48,29,40,0,Lew Evans missed Three Point Jumper.
+UNLV,Utah State,60,48,29,40,0,Shane Rector Offensive Rebound.
+UNLV,Utah State,60,50,29,45,1,Shane Rector made Layup.
+UNLV,Utah State,60,50,30,11,0,Foul on Lew Evans.
+UNLV,Utah State,60,50,30,14,0,Ike Nwamu missed Layup.
+UNLV,Utah State,60,50,30,14,0,Chris Smith Defensive Rebound.
+UNLV,Utah State,60,50,30,25,0,Jalen Moore missed Layup.
+UNLV,Utah State,60,50,30,25,0,Ike Nwamu Defensive Rebound.
+UNLV,Utah State,60,50,30,30,0,Foul on Elston Jones.
+UNLV,Utah State,60,50,30,30,0,Ike Nwamu missed Free Throw.
+UNLV,Utah State,60,50,30,30,0,UNLV Deadball Team Rebound.
+UNLV,Utah State,60,50,30,30,0,Ike Nwamu missed Free Throw.
+UNLV,Utah State,60,50,30,30,0,Jalen Moore Defensive Rebound.
+UNLV,Utah State,60,50,30,44,0,Elston Jones Turnover.
+UNLV,Utah State,60,50,30,51,0,Foul on Shane Rector.
+UNLV,Utah State,61,50,30,51,1,Jerome Seagears made Free Throw.
+UNLV,Utah State,62,50,30,51,1,Jerome Seagears made Free Throw.
+UNLV,Utah State,62,52,31,4,1,Shane Rector made Layup.
+UNLV,Utah State,62,52,31,28,0,Patrick McCaw missed Three Point Jumper.
+UNLV,Utah State,62,52,31,28,0,Stephen Zimmerman Jr. Offensive Rebound.
+UNLV,Utah State,64,52,31,34,1,Stephen Zimmerman Jr. made Layup.
+UNLV,Utah State,64,52,31,49,0,Jalen Moore missed Jumper.
+UNLV,Utah State,64,52,31,49,0,Elston Jones Offensive Rebound.
+UNLV,Utah State,64,52,31,49,0,Foul on Dwayne Morgan.
+UNLV,Utah State,64,52,31,49,0,Elston Jones missed Free Throw.
+UNLV,Utah State,64,52,31,49,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,66,52,32,7,1,Derrick Jones Jr. made Jumper.
+UNLV,Utah State,66,52,32,32,0,Shane Rector missed Layup.
+UNLV,Utah State,66,52,32,32,0,Elston Jones Offensive Rebound.
+UNLV,Utah State,66,54,32,34,1,Elston Jones made Two Point Tip Shot.
+UNLV,Utah State,66,54,32,44,0,Jerome Seagears Turnover.
+UNLV,Utah State,66,54,32,45,0,Shane Rector Steal.
+UNLV,Utah State,66,54,32,57,0,Jalen Moore missed Jumper.
+UNLV,Utah State,66,54,32,57,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,66,54,32,57,0,Foul on Elston Jones.
+UNLV,Utah State,66,54,32,57,0,Official TV Timeout
+UNLV,Utah State,66,54,32,57,0,Stephen Zimmerman Jr. missed Free Throw.
+UNLV,Utah State,66,54,32,57,0,Jalen Moore Defensive Rebound.
+UNLV,Utah State,66,56,33,10,1,Quinn Taylor made Layup. Assisted by Darius Perkins.
+UNLV,Utah State,66,56,33,27,0,Stephen Zimmerman Jr. Turnover.
+UNLV,Utah State,66,56,33,27,0,John Middleton Steal.
+UNLV,Utah State,66,56,33,32,0,Foul on Derrick Jones Jr..
+UNLV,Utah State,66,57,33,32,1,Shane Rector made Free Throw.
+UNLV,Utah State,66,58,33,32,1,Shane Rector made Free Throw.
+UNLV,Utah State,68,58,33,44,1,Derrick Jones Jr. made Jumper. Assisted by Patrick McCaw.
+UNLV,Utah State,68,58,34,3,0,Chris Smith missed Three Point Jumper.
+UNLV,Utah State,68,58,34,3,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,68,58,34,14,0,Patrick McCaw missed Three Point Jumper.
+UNLV,Utah State,68,58,34,14,0,Chris Smith Defensive Rebound.
+UNLV,Utah State,68,58,34,25,0,Jalen Moore missed Layup.
+UNLV,Utah State,68,58,34,25,0,Patrick McCaw Defensive Rebound.
+UNLV,Utah State,70,58,34,30,1,Derrick Jones Jr. made Layup. Assisted by Patrick McCaw.
+UNLV,Utah State,70,58,34,45,0,Jalen Moore missed Three Point Jumper.
+UNLV,Utah State,70,58,34,45,0,UNLV Defensive Rebound.
+UNLV,Utah State,70,58,35,1,0,Derrick Jones Jr. Turnover.
+UNLV,Utah State,70,58,35,2,0,Chris Smith Steal.
+UNLV,Utah State,70,58,35,12,0,Shane Rector missed Jumper.
+UNLV,Utah State,70,58,35,12,0,Stephen Zimmerman Jr. Defensive Rebound.
+UNLV,Utah State,70,58,35,22,0,Jerome Seagears missed Layup.
+UNLV,Utah State,70,58,35,22,0,Stephen Zimmerman Jr. Offensive Rebound.
+UNLV,Utah State,70,58,35,25,0,Stephen Zimmerman Jr. Turnover.
+UNLV,Utah State,70,58,35,26,0,Quinn Taylor Steal.
+UNLV,Utah State,70,60,35,39,1,Chris Smith made Layup. Assisted by Julion Pearre.
+UNLV,Utah State,70,60,35,39,0,Foul on Derrick Jones Jr..
+UNLV,Utah State,70,60,35,39,0,Chris Smith missed Free Throw.
+UNLV,Utah State,70,60,35,39,0,Ike Nwamu Defensive Rebound.
+UNLV,Utah State,73,60,35,58,1,Ike Nwamu made Three Point Jumper. Assisted by Patrick McCaw.
+UNLV,Utah State,73,63,36,18,1,Julion Pearre made Three Point Jumper.
+UNLV,Utah State,73,63,36,35,0,Jerome Seagears Turnover.
+UNLV,Utah State,73,63,36,35,0,Shane Rector Steal.
+UNLV,Utah State,73,63,36,38,0,Official TV Timeout
+UNLV,Utah State,73,63,36,50,0,Shane Rector missed Layup.
+UNLV,Utah State,73,63,36,50,0,Stephen Zimmerman Jr. Block.
+UNLV,Utah State,73,63,36,52,0,Jerome Seagears Defensive Rebound.
+UNLV,Utah State,73,63,37,23,0,Patrick McCaw Turnover.
+UNLV,Utah State,73,63,37,40,0,Julion Pearre missed Three Point Jumper.
+UNLV,Utah State,73,63,37,40,0,Patrick McCaw Defensive Rebound.
+UNLV,Utah State,73,63,38,11,0,Stephen Zimmerman Jr. missed Three Point Jumper.
+UNLV,Utah State,73,63,38,11,0,Shane Rector Defensive Rebound.
+UNLV,Utah State,73,63,38,17,0,Shane Rector missed Layup.
+UNLV,Utah State,73,63,38,17,0,Stephen Zimmerman Jr. Block.
+UNLV,Utah State,73,63,38,19,0,Patrick McCaw Defensive Rebound.
+UNLV,Utah State,75,63,38,23,1,Stephen Zimmerman Jr. made Dunk. Assisted by Jerome Seagears.
+UNLV,Utah State,75,63,38,43,0,Jalen Moore Turnover.
+UNLV,Utah State,75,63,38,44,0,Stephen Zimmerman Jr. Steal.
+UNLV,Utah State,75,63,38,57,0,Foul on Shane Rector.
+UNLV,Utah State,75,63,38,57,0,Utah State  Timeout
+UNLV,Utah State,75,63,38,57,0,Jerome Seagears missed Free Throw.
+UNLV,Utah State,75,63,38,57,0,Julion Pearre Defensive Rebound.
+UNLV,Utah State,75,66,39,7,1,Lew Evans made Three Point Jumper. Assisted by Shane Rector.
+UNLV,Utah State,75,66,39,18,0,Foul on Julion Pearre.
+UNLV,Utah State,76,66,39,18,1,Jerome Seagears made Free Throw.
+UNLV,Utah State,77,66,39,18,1,Jerome Seagears made Free Throw.
+UNLV,Utah State,77,66,39,26,0,Foul on Jerome Seagears.
+UNLV,Utah State,77,67,39,26,1,Lew Evans made Free Throw.
+UNLV,Utah State,77,68,39,26,1,Lew Evans made Free Throw.
+UNLV,Utah State,77,68,39,28,0,Foul on Julion Pearre.
+UNLV,Utah State,78,68,39,28,1,Derrick Jones Jr. made Free Throw.
+UNLV,Utah State,78,68,39,28,0,Derrick Jones Jr. missed Free Throw.
+UNLV,Utah State,78,68,39,28,0,Jalen Moore Defensive Rebound.
+UNLV,Utah State,78,68,39,37,0,Shane Rector Turnover.
+UNLV,Utah State,78,68,39,38,0,Patrick McCaw Steal.
+UNLV,Utah State,80,68,39,41,1,Patrick McCaw made Dunk.
+UNLV,Utah State,80,68,39,53,0,Julion Pearre missed Three Point Jumper.
+UNLV,Utah State,80,68,39,53,0,Lew Evans Offensive Rebound.
+UNLV,Utah State,80,68,39,55,0,Lew Evans missed Layup.
+UNLV,Utah State,80,68,39,55,0,Lew Evans Offensive Rebound.
+UNLV,Utah State,80,68,39,58,0,Lew Evans missed Layup.
+UNLV,Utah State,80,68,39,58,0,Ike Nwamu Block.
+UNLV,Utah State,80,68,39,59,0,Utah State Offensive Rebound.
+UNLV,Utah State,80,68,40,0,0,Chris Smith missed Three Point Jumper.
+UNLV,Utah State,80,68,40,0,0,Jerome Seagears Defensive Rebound.
+UNLV,Utah State,80,68,40,0,0,End of Game

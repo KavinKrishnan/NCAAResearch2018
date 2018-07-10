@@ -1,0 +1,298 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Providence,Brown,0,0,0,14,0,Matt Sullivan missed Layup.
+Providence,Brown,0,0,0,14,0,Kris Dunn Defensive Rebound.
+Providence,Brown,2,0,0,39,1,Kadeem Batts made Layup.  Assisted by Vincent Council.
+Providence,Brown,2,3,1,3,1,Sean McGonagill made Three Point Jumper.
+Providence,Brown,5,3,1,24,1,Kris Dunn made Three Point Jumper.  Assisted by Vincent Council.
+Providence,Brown,5,5,1,46,1,Rafael Maia made Layup.
+Providence,Brown,5,5,2,3,0,LaDontae Henton missed Three Point Jumper.
+Providence,Brown,5,5,2,3,0,Matt Sullivan Defensive Rebound.
+Providence,Brown,5,5,2,11,0,Sean McGonagill Turnover.
+Providence,Brown,5,5,2,12,0,LaDontae Henton Steal.
+Providence,Brown,5,5,2,16,0,LaDontae Henton missed Jumper.
+Providence,Brown,5,5,2,16,0,Rafael Maia Defensive Rebound.
+Providence,Brown,5,5,2,48,0,Foul on Kadeem Batts
+Providence,Brown,5,6,2,48,1,Rafael Maia made Free Throw.
+Providence,Brown,5,6,2,48,0,Rafael Maia missed Free Throw.
+Providence,Brown,5,6,2,48,0,Sidiki Johnson Defensive Rebound.
+Providence,Brown,5,6,3,10,0,Vincent Council Turnover.
+Providence,Brown,5,6,3,11,0,Matt Sullivan Steal.
+Providence,Brown,5,6,3,13,0,Foul on Josh Fortune
+Providence,Brown,5,7,3,13,1,Matt Sullivan made Free Throw.
+Providence,Brown,5,7,3,13,0,Matt Sullivan missed Free Throw.
+Providence,Brown,5,7,3,13,0,Sidiki Johnson Defensive Rebound.
+Providence,Brown,5,7,3,32,0,Sidiki Johnson Turnover.
+Providence,Brown,5,7,3,33,0,Rafael Maia Steal.
+Providence,Brown,5,7,3,36,0,Matt Sullivan missed Three Point Jumper.
+Providence,Brown,5,7,3,36,0,Cedric Kuakumensah Offensive Rebound.
+Providence,Brown,5,9,3,43,1,Tucker Halpern made Layup.
+Providence,Brown,5,9,4,1,0,Josh Fortune missed Three Point Jumper.
+Providence,Brown,5,9,4,1,0,Sidiki Johnson Offensive Rebound.
+Providence,Brown,5,9,4,3,0,Sidiki Johnson missed Layup.
+Providence,Brown,5,9,4,3,0,Sidiki Johnson Offensive Rebound.
+Providence,Brown,5,9,4,5,0,Foul on Sean McGonagill
+Providence,Brown,5,9,4,5,0,Official TV Timeout.
+Providence,Brown,5,9,4,5,0,Sidiki Johnson missed Free Throw.
+Providence,Brown,5,9,4,5,0,null
+Providence,Brown,5,9,4,5,0,Sidiki Johnson missed Free Throw.
+Providence,Brown,5,9,4,5,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,5,9,4,21,0,Foul on Kris Dunn
+Providence,Brown,5,9,4,33,0,Cedric Kuakumensah Turnover.
+Providence,Brown,5,9,4,41,0,Foul on Sean McGonagill
+Providence,Brown,5,9,4,52,0,Kadeem Batts missed Jumper.
+Providence,Brown,5,9,4,52,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,5,12,5,1,1,Tucker Halpern made Three Point Jumper.  Assisted by Matt Sullivan.
+Providence,Brown,5,12,5,13,0,Foul on Joe Sharkey
+Providence,Brown,6,12,5,13,1,Kris Dunn made Free Throw.
+Providence,Brown,7,12,5,13,1,Kris Dunn made Free Throw.
+Providence,Brown,7,15,5,22,1,Tucker Halpern made Three Point Jumper.  Assisted by Rafael Maia.
+Providence,Brown,7,15,5,40,0,Kadeem Batts missed Jumper.
+Providence,Brown,7,15,5,40,0,Kris Dunn Offensive Rebound.
+Providence,Brown,10,15,5,57,1,Josh Fortune made Three Point Jumper.  Assisted by LaDontae Henton.
+Providence,Brown,10,15,6,11,0,Tucker Halpern Turnover.
+Providence,Brown,10,15,6,12,0,Kris Dunn Steal.
+Providence,Brown,10,15,6,14,0,Kris Dunn Turnover.
+Providence,Brown,10,15,6,15,0,Joe Sharkey Steal.
+Providence,Brown,10,15,6,36,0,Cedric Kuakumensah missed Jumper.
+Providence,Brown,10,15,6,36,0,LaDontae Henton Defensive Rebound.
+Providence,Brown,10,15,6,44,0,Vincent Council Turnover.
+Providence,Brown,10,15,7,11,0,Matt Sullivan missed Layup.
+Providence,Brown,10,15,7,11,0,LaDontae Henton Defensive Rebound.
+Providence,Brown,10,15,7,31,0,Foul on Tyler Ponticelli
+Providence,Brown,12,15,7,32,1,LaDontae Henton made Layup.  Assisted by Vincent Council.
+Providence,Brown,12,15,7,32,0,Foul on Tyler Ponticelli
+Providence,Brown,12,15,7,32,0,LaDontae Henton missed Free Throw.
+Providence,Brown,12,15,7,32,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,12,15,7,45,0,Tucker Halpern missed Three Point Jumper.
+Providence,Brown,12,15,7,45,0,LaDontae Henton Defensive Rebound.
+Providence,Brown,12,15,7,50,0,LaDontae Henton Turnover.
+Providence,Brown,12,15,7,52,0,Tucker Halpern Steal.
+Providence,Brown,12,15,7,55,0,Cedric Kuakumensah missed Jumper.
+Providence,Brown,12,15,7,55,0,LaDontae Henton Defensive Rebound.
+Providence,Brown,15,15,8,9,1,Vincent Council made Three Point Jumper.  Assisted by Josh Fortune.
+Providence,Brown,15,15,8,34,0,Joe Sharkey Turnover.
+Providence,Brown,15,15,8,34,0,LaDontae Henton Steal.
+Providence,Brown,15,15,8,35,0,LaDontae Henton Turnover.
+Providence,Brown,15,15,8,36,0,Joe Sharkey Steal.
+Providence,Brown,15,15,8,36,0,Foul on LaDontae Henton
+Providence,Brown,15,15,8,36,0,Official TV Timeout.
+Providence,Brown,15,15,8,43,0,Sean McGonagill Turnover.
+Providence,Brown,15,15,8,43,0,Foul on Sean McGonagill
+Providence,Brown,17,15,9,7,1,Kadeem Batts made Jumper.
+Providence,Brown,17,18,9,22,1,Tucker Halpern made Three Point Jumper.  Assisted by Joe Sharkey.
+Providence,Brown,19,18,9,43,1,Kadeem Batts made Jumper.  Assisted by Vincent Council.
+Providence,Brown,19,18,9,49,0,Brown Full Timeout.
+Providence,Brown,19,18,9,58,0,Tucker Halpern Turnover.
+Providence,Brown,19,18,10,0,0,Vincent Council Steal.
+Providence,Brown,19,18,10,4,0,Vincent Council missed Jumper.
+Providence,Brown,19,18,10,4,0,Cedric Kuakumensah Block.
+Providence,Brown,19,18,10,5,0,Brown Defensive Rebound.
+Providence,Brown,19,20,10,28,1,Rafael Maia made Layup.  Assisted by Joe Sharkey.
+Providence,Brown,19,20,10,52,0,LaDontae Henton missed Layup.
+Providence,Brown,19,20,10,52,0,Kadeem Batts Offensive Rebound.
+Providence,Brown,21,20,10,56,1,Kadeem Batts made Layup.
+Providence,Brown,21,20,11,16,0,Rafael Maia missed Layup.
+Providence,Brown,21,20,11,16,0,Matt Sullivan Offensive Rebound.
+Providence,Brown,21,22,11,20,1,Matt Sullivan made Layup.
+Providence,Brown,21,22,11,38,0,LaDontae Henton missed Jumper.
+Providence,Brown,21,22,11,38,0,Matt Sullivan Defensive Rebound.
+Providence,Brown,21,22,11,54,0,Tucker Halpern missed Three Point Jumper.
+Providence,Brown,21,22,11,54,0,Kris Dunn Defensive Rebound.
+Providence,Brown,23,22,12,5,1,LaDontae Henton made Layup.  Assisted by Kris Dunn.
+Providence,Brown,23,22,12,19,0,Official TV Timeout.
+Providence,Brown,23,22,12,19,0,Joe Sharkey Turnover.
+Providence,Brown,25,22,12,35,1,LaDontae Henton made Jumper.
+Providence,Brown,25,25,13,4,1,Matt Sullivan made Three Point Jumper.  Assisted by Jon Schmidt.
+Providence,Brown,25,25,13,23,0,Kris Dunn missed Jumper.
+Providence,Brown,25,25,13,23,0,Rafael Maia Defensive Rebound.
+Providence,Brown,25,25,13,40,0,Joe Sharkey Turnover.
+Providence,Brown,25,25,13,55,0,LaDontae Henton missed Three Point Jumper.
+Providence,Brown,25,25,13,55,0,Matt Sullivan Defensive Rebound.
+Providence,Brown,25,25,14,15,0,Rafael Maia missed Jumper.
+Providence,Brown,25,25,14,15,0,Kris Dunn Defensive Rebound.
+Providence,Brown,25,25,14,20,0,Foul on Matt Sullivan
+Providence,Brown,25,25,14,20,0,Vincent Council missed Free Throw.
+Providence,Brown,25,25,14,20,0,Jon Schmidt Defensive Rebound.
+Providence,Brown,25,27,14,38,1,Tucker Halpern made Jumper.
+Providence,Brown,25,27,14,54,0,Vincent Council missed Jumper.
+Providence,Brown,25,27,14,54,0,Matt Sullivan Defensive Rebound.
+Providence,Brown,25,27,15,5,0,Foul on Kris Dunn
+Providence,Brown,25,27,15,19,0,Foul on Sidiki Johnson
+Providence,Brown,25,29,15,23,1,Jon Schmidt made Jumper.  Assisted by Cedric Kuakumensah.
+Providence,Brown,25,29,15,28,0,Providence Full Timeout.
+Providence,Brown,27,29,15,43,1,LaDontae Henton made Jumper.  Assisted by Vincent Council.
+Providence,Brown,27,29,16,13,0,Tucker Halpern missed Three Point Jumper.
+Providence,Brown,27,29,16,13,0,Jon Schmidt Offensive Rebound.
+Providence,Brown,27,31,16,17,1,Jon Schmidt made Layup.
+Providence,Brown,27,31,16,30,0,Foul on Joe Sharkey
+Providence,Brown,27,31,16,30,0,Official TV Timeout.
+Providence,Brown,28,31,16,30,1,Josh Fortune made Free Throw.
+Providence,Brown,29,31,16,30,1,Josh Fortune made Free Throw.
+Providence,Brown,29,31,17,2,0,Joe Sharkey missed Three Point Jumper.
+Providence,Brown,29,31,17,2,0,Rafael Maia Offensive Rebound.
+Providence,Brown,29,31,17,27,0,Rafael Maia missed Layup.
+Providence,Brown,29,31,17,27,0,Kadeem Batts Defensive Rebound.
+Providence,Brown,29,31,17,38,0,Kadeem Batts missed Layup.
+Providence,Brown,29,31,17,38,0,Rafael Maia Defensive Rebound.
+Providence,Brown,29,31,17,56,0,Cedric Kuakumensah missed Jumper.
+Providence,Brown,29,31,17,56,0,Kadeem Batts Defensive Rebound.
+Providence,Brown,32,31,18,4,1,LaDontae Henton made Three Point Jumper.  Assisted by Vincent Council.
+Providence,Brown,32,31,18,30,0,Matt Sullivan missed Three Point Jumper.
+Providence,Brown,32,31,18,30,0,Josh Fortune Defensive Rebound.
+Providence,Brown,32,31,18,53,0,Josh Fortune missed Jumper.
+Providence,Brown,32,31,18,53,0,Rafael Maia Defensive Rebound.
+Providence,Brown,32,31,19,24,0,Rafael Maia missed Layup.
+Providence,Brown,32,31,19,24,0,Brice Kofane Defensive Rebound.
+Providence,Brown,32,31,19,30,0,Foul on Joe Sharkey
+Providence,Brown,33,31,19,30,1,Vincent Council made Free Throw.
+Providence,Brown,34,31,19,30,1,Vincent Council made Free Throw.
+Providence,Brown,34,31,19,58,0,Matt Sullivan missed Jumper.
+Providence,Brown,34,31,19,58,0,Rafael Maia Offensive Rebound.
+Providence,Brown,34,31,19,59,0,Rafael Maia missed Layup.
+Providence,Brown,34,31,19,59,0,Josh Fortune Defensive Rebound.
+Providence,Brown,34,31,20,0,0,End of the 1st Half.
+Providence,Brown,34,31,20,14,0,Vincent Council missed Jumper.
+Providence,Brown,34,31,20,14,0,Rafael Maia Defensive Rebound.
+Providence,Brown,34,31,20,35,0,Rafael Maia Turnover.
+Providence,Brown,34,31,20,47,0,Vincent Council missed Layup.
+Providence,Brown,34,31,20,47,0,Rafael Maia Defensive Rebound.
+Providence,Brown,34,31,20,59,0,Sean McGonagill missed Three Point Jumper.
+Providence,Brown,34,31,20,59,0,Cedric Kuakumensah Offensive Rebound.
+Providence,Brown,34,31,21,6,0,Cedric Kuakumensah Turnover.
+Providence,Brown,34,31,21,7,0,Kris Dunn Steal.
+Providence,Brown,34,31,21,11,0,Kris Dunn missed Layup.
+Providence,Brown,34,31,21,11,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,34,34,21,18,1,Tucker Halpern made Three Point Jumper.  Assisted by Matt Sullivan.
+Providence,Brown,34,34,21,37,0,Josh Fortune missed Three Point Jumper.
+Providence,Brown,34,34,21,37,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,34,34,21,47,0,Tucker Halpern missed Three Point Jumper.
+Providence,Brown,34,34,21,47,0,Josh Fortune Defensive Rebound.
+Providence,Brown,34,34,21,53,0,Foul on Tucker Halpern
+Providence,Brown,34,34,22,3,0,Josh Fortune missed Three Point Jumper.
+Providence,Brown,34,34,22,3,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,34,34,22,18,0,Foul on Kadeem Batts
+Providence,Brown,34,34,22,18,0,Matt Sullivan missed Free Throw.
+Providence,Brown,34,34,22,18,0,null
+Providence,Brown,34,34,22,18,0,Matt Sullivan missed Free Throw.
+Providence,Brown,34,34,22,18,0,Kris Dunn Defensive Rebound.
+Providence,Brown,34,34,22,18,0,Foul on Rafael Maia
+Providence,Brown,37,34,22,30,1,Josh Fortune made Three Point Jumper.  Assisted by Brice Kofane.
+Providence,Brown,37,34,22,44,0,Foul on Kadeem Batts
+Providence,Brown,37,34,22,44,0,Cedric Kuakumensah missed Free Throw.
+Providence,Brown,37,34,22,44,0,null
+Providence,Brown,37,34,22,44,0,Cedric Kuakumensah missed Free Throw.
+Providence,Brown,37,34,22,44,0,Kris Dunn Defensive Rebound.
+Providence,Brown,37,34,22,54,0,Kris Dunn missed Jumper.
+Providence,Brown,37,34,22,54,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,37,34,23,8,0,Tucker Halpern missed Three Point Jumper.
+Providence,Brown,37,34,23,8,0,Josh Fortune Defensive Rebound.
+Providence,Brown,37,34,23,32,0,Brice Kofane missed Layup.
+Providence,Brown,37,34,23,32,0,Rafael Maia Defensive Rebound.
+Providence,Brown,37,34,23,37,0,Matt Sullivan missed Three Point Jumper.
+Providence,Brown,37,34,23,37,0,Brice Kofane Defensive Rebound.
+Providence,Brown,37,34,23,40,0,Foul on Rafael Maia
+Providence,Brown,37,34,23,53,0,Vincent Council missed Jumper.
+Providence,Brown,37,34,23,53,0,Tyler Ponticelli Defensive Rebound.
+Providence,Brown,37,36,24,10,1,Cedric Kuakumensah made Dunk.  Assisted by Sean McGonagill.
+Providence,Brown,37,36,24,46,0,Sidiki Johnson missed Jumper.
+Providence,Brown,37,36,24,46,0,Matt Sullivan Defensive Rebound.
+Providence,Brown,37,38,25,8,1,Cedric Kuakumensah made Layup.  Assisted by Tyler Ponticelli.
+Providence,Brown,39,38,25,28,1,LaDontae Henton made Layup.  Assisted by Sidiki Johnson.
+Providence,Brown,39,38,25,46,0,Matt Sullivan missed Three Point Jumper.
+Providence,Brown,39,38,25,46,0,Sidiki Johnson Defensive Rebound.
+Providence,Brown,39,38,26,5,0,Kris Dunn missed Jumper.
+Providence,Brown,39,38,26,5,0,Kris Dunn Offensive Rebound.
+Providence,Brown,41,38,26,8,1,Kris Dunn made Layup.
+Providence,Brown,41,38,26,31,0,Official TV Timeout.
+Providence,Brown,41,41,26,45,1,Tucker Halpern made Three Point Jumper.  Assisted by Sean McGonagill.
+Providence,Brown,41,41,27,3,0,Josh Fortune missed Three Point Jumper.
+Providence,Brown,41,41,27,3,0,Josh Fortune Offensive Rebound.
+Providence,Brown,41,41,27,30,0,LaDontae Henton missed Three Point Jumper.
+Providence,Brown,41,41,27,30,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,41,41,27,54,0,Tucker Halpern missed Three Point Jumper.
+Providence,Brown,41,41,27,54,0,Sidiki Johnson Defensive Rebound.
+Providence,Brown,41,41,28,24,0,Foul on Tucker Halpern
+Providence,Brown,41,41,28,24,0,Official TV Timeout.
+Providence,Brown,43,41,28,33,1,LaDontae Henton made Layup.
+Providence,Brown,43,41,28,33,0,Foul on Rafael Maia
+Providence,Brown,44,41,28,33,1,LaDontae Henton made Free Throw.
+Providence,Brown,44,43,28,51,1,Rafael Maia made Layup.  Assisted by Sean McGonagill.
+Providence,Brown,46,43,29,15,1,LaDontae Henton made Jumper.
+Providence,Brown,46,45,29,34,1,Matt Sullivan made Layup.
+Providence,Brown,46,45,29,58,0,Vincent Council missed Jumper.
+Providence,Brown,46,45,29,58,0,Rafael Maia Defensive Rebound.
+Providence,Brown,46,47,30,5,1,Matt Sullivan made Layup.
+Providence,Brown,46,47,30,19,0,Josh Fortune missed Jumper.
+Providence,Brown,46,47,30,19,0,Kadeem Batts Offensive Rebound.
+Providence,Brown,46,47,30,22,0,Foul on Tyler Ponticelli
+Providence,Brown,46,47,30,23,0,Josh Fortune missed Three Point Jumper.
+Providence,Brown,46,47,30,23,0,Matt Sullivan Defensive Rebound.
+Providence,Brown,46,47,30,30,0,Foul on Kris Dunn
+Providence,Brown,46,47,30,30,0,Technical Foul on Kadeem Batts
+Providence,Brown,46,47,30,30,0,Foul on Kadeem Batts
+Providence,Brown,46,48,30,30,1,Sean McGonagill made Free Throw.
+Providence,Brown,46,48,30,30,0,Sean McGonagill missed Free Throw.
+Providence,Brown,46,48,30,30,0,null
+Providence,Brown,46,48,30,30,0,Rafael Maia missed Free Throw.
+Providence,Brown,46,48,30,30,0,null
+Providence,Brown,46,49,30,30,1,Rafael Maia made Free Throw.
+Providence,Brown,49,49,30,56,1,LaDontae Henton made Three Point Jumper.  Assisted by Vincent Council.
+Providence,Brown,49,49,31,0,0,Brown Full Timeout.
+Providence,Brown,49,49,31,12,0,Tyler Ponticelli Turnover.
+Providence,Brown,49,49,31,12,0,Foul on Tyler Ponticelli
+Providence,Brown,49,49,31,32,0,Kris Dunn missed Three Point Jumper.
+Providence,Brown,49,49,31,32,0,Tyler Ponticelli Defensive Rebound.
+Providence,Brown,49,49,31,34,0,Foul on Sidiki Johnson
+Providence,Brown,49,49,31,59,0,Foul on LaDontae Henton
+Providence,Brown,49,49,32,4,0,Official TV Timeout.
+Providence,Brown,49,49,32,28,0,Tucker Halpern Turnover.
+Providence,Brown,49,49,32,37,0,Foul on Cedric Kuakumensah
+Providence,Brown,50,49,32,37,1,LaDontae Henton made Free Throw.
+Providence,Brown,51,49,32,37,1,LaDontae Henton made Free Throw.
+Providence,Brown,51,49,32,54,0,Matt Sullivan missed Layup.
+Providence,Brown,51,49,32,54,0,Sidiki Johnson Block.
+Providence,Brown,51,49,32,57,0,Sidiki Johnson Defensive Rebound.
+Providence,Brown,51,49,33,10,0,Foul on Cedric Kuakumensah
+Providence,Brown,52,49,33,10,1,LaDontae Henton made Free Throw.
+Providence,Brown,53,49,33,10,1,LaDontae Henton made Free Throw.
+Providence,Brown,53,49,33,30,0,Tucker Halpern missed Three Point Jumper.
+Providence,Brown,53,49,33,30,0,Kris Dunn Defensive Rebound.
+Providence,Brown,56,49,33,52,1,LaDontae Henton made Three Point Jumper.  Assisted by Kris Dunn.
+Providence,Brown,56,49,34,15,0,Matt Sullivan Turnover.
+Providence,Brown,56,49,34,15,0,Josh Fortune Steal.
+Providence,Brown,56,49,34,34,0,Josh Fortune missed Three Point Jumper.
+Providence,Brown,56,49,34,34,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,56,52,34,47,1,Sean McGonagill made Three Point Jumper.  Assisted by Tucker Halpern.
+Providence,Brown,56,52,35,3,0,Providence Full Timeout.
+Providence,Brown,59,52,35,13,1,LaDontae Henton made Three Point Jumper.  Assisted by Vincent Council.
+Providence,Brown,59,55,35,27,1,Tucker Halpern made Three Point Jumper.  Assisted by Tyler Ponticelli.
+Providence,Brown,62,55,36,7,1,LaDontae Henton made Three Point Jumper.  Assisted by Vincent Council.
+Providence,Brown,62,55,36,17,0,Brown Full Timeout.
+Providence,Brown,62,58,36,34,1,Sean McGonagill made Three Point Jumper.  Assisted by Matt Sullivan.
+Providence,Brown,65,58,37,4,1,LaDontae Henton made Three Point Jumper.  Assisted by Josh Fortune.
+Providence,Brown,65,60,37,29,1,Matt Sullivan made Jumper.
+Providence,Brown,67,60,38,2,1,Kadeem Batts made Layup.  Assisted by LaDontae Henton.
+Providence,Brown,67,60,38,8,0,Brown Full Timeout.
+Providence,Brown,67,60,38,23,0,Sean McGonagill missed Three Point Jumper.
+Providence,Brown,67,60,38,23,0,Tyler Ponticelli Offensive Rebound.
+Providence,Brown,67,60,38,28,0,Official TV Timeout.
+Providence,Brown,67,60,38,31,0,Tucker Halpern Turnover.
+Providence,Brown,67,60,38,31,0,Kris Dunn Steal.
+Providence,Brown,67,60,38,31,0,Providence Full Timeout.
+Providence,Brown,67,60,39,5,0,LaDontae Henton missed Three Point Jumper.
+Providence,Brown,67,60,39,5,0,Rafael Maia Defensive Rebound.
+Providence,Brown,67,63,39,15,1,Sean McGonagill made Three Point Jumper.  Assisted by Tucker Halpern.
+Providence,Brown,67,63,39,16,0,Brown Full Timeout.
+Providence,Brown,67,63,39,16,0,Providence Full Timeout.
+Providence,Brown,67,63,39,17,0,LaDontae Henton Turnover.
+Providence,Brown,67,63,39,19,0,Matt Sullivan Steal.
+Providence,Brown,67,66,39,28,1,Tucker Halpern made Three Point Jumper.  Assisted by Sean McGonagill.
+Providence,Brown,67,66,39,40,0,Foul on Matt Sullivan
+Providence,Brown,68,66,39,40,1,Vincent Council made Free Throw.
+Providence,Brown,68,66,39,40,0,Vincent Council missed Free Throw.
+Providence,Brown,68,66,39,40,0,Tyler Ponticelli Defensive Rebound.
+Providence,Brown,68,69,39,52,1,Tucker Halpern made Three Point Jumper.  Assisted by Sean McGonagill.
+Providence,Brown,68,69,39,53,0,Providence Full Timeout.
+Providence,Brown,68,69,39,59,0,Vincent Council missed Three Point Jumper.
+Providence,Brown,68,69,39,59,0,Cedric Kuakumensah Defensive Rebound.
+Providence,Brown,68,69,40,0,0,End Game

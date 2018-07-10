@@ -1,0 +1,323 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Manhattan,Harvard,0,0,0,38,0,Steve Moundou-Missi Turnover.
+Manhattan,Harvard,0,0,1,1,0,Donovan Kates missed Jumper.
+Manhattan,Harvard,0,0,1,1,0,Kenyatta Smith Block.
+Manhattan,Harvard,0,0,1,3,0,Steve Moundou-Missi Defensive Rebound.
+Manhattan,Harvard,0,0,1,13,0,Wesley Saunders Turnover.
+Manhattan,Harvard,0,0,1,14,0,Emmy Andujar Steal.
+Manhattan,Harvard,0,0,1,26,0,Rhamel Brown Turnover.
+Manhattan,Harvard,0,0,1,26,0,Foul on Rhamel Brown
+Manhattan,Harvard,0,0,1,54,0,Siyani Chambers missed Three Point Jumper.
+Manhattan,Harvard,0,0,1,54,0,Wesley Saunders Offensive Rebound.
+Manhattan,Harvard,0,0,2,4,0,Kenyatta Smith Turnover.
+Manhattan,Harvard,0,0,2,6,0,Emmy Andujar Steal.
+Manhattan,Harvard,0,0,2,11,0,Emmy Andujar Turnover.
+Manhattan,Harvard,0,0,2,13,0,Laurent Rivard Steal.
+Manhattan,Harvard,0,0,2,18,0,Foul on Rhamel Brown
+Manhattan,Harvard,0,1,2,18,1,Steve Moundou-Missi made Free Throw.
+Manhattan,Harvard,0,2,2,18,1,Steve Moundou-Missi made Free Throw.
+Manhattan,Harvard,0,2,2,34,0,Roberto Colonette missed Layup.
+Manhattan,Harvard,0,2,2,34,0,Roberto Colonette Offensive Rebound.
+Manhattan,Harvard,0,2,2,37,0,Roberto Colonette missed Jumper.
+Manhattan,Harvard,0,2,2,37,0,Laurent Rivard Defensive Rebound.
+Manhattan,Harvard,0,2,2,54,0,Laurent Rivard missed Three Point Jumper.
+Manhattan,Harvard,0,2,2,54,0,RaShawn Stores Defensive Rebound.
+Manhattan,Harvard,0,2,3,2,0,Foul on Steve Moundou-Missi
+Manhattan,Harvard,2,2,3,9,1,Michael Alvarado made Jumper.
+Manhattan,Harvard,2,2,3,40,0,Wesley Saunders missed Jumper.
+Manhattan,Harvard,2,2,3,40,0,Wesley Saunders Offensive Rebound.
+Manhattan,Harvard,2,4,3,42,1,Wesley Saunders made Jumper.
+Manhattan,Harvard,2,4,3,42,0,Foul on Roberto Colonette
+Manhattan,Harvard,2,5,3,42,1,Wesley Saunders made Free Throw.
+Manhattan,Harvard,2,5,3,55,0,Roberto Colonette Turnover.
+Manhattan,Harvard,2,5,3,56,0,Christian Webster Steal.
+Manhattan,Harvard,2,5,4,11,0,Jonah Travis missed Jumper.
+Manhattan,Harvard,2,5,4,11,0,Roberto Colonette Block.
+Manhattan,Harvard,2,5,4,12,0,Jonah Travis Offensive Rebound.
+Manhattan,Harvard,2,5,4,13,0,Jonah Travis Turnover.
+Manhattan,Harvard,2,5,4,13,0,Official TV Timeout.
+Manhattan,Harvard,2,5,4,20,0,Foul on Laurent Rivard
+Manhattan,Harvard,2,5,4,31,0,Shane Richards Turnover.
+Manhattan,Harvard,2,8,4,50,1,Laurent Rivard made Three Point Jumper.  Assisted by Siyani Chambers.
+Manhattan,Harvard,2,8,5,5,0,CJ Jones Turnover.
+Manhattan,Harvard,2,8,5,6,0,Wesley Saunders Steal.
+Manhattan,Harvard,2,11,5,11,1,Laurent Rivard made Three Point Jumper.  Assisted by Siyani Chambers.
+Manhattan,Harvard,2,11,5,14,0,Manhattan Full Timeout.
+Manhattan,Harvard,2,11,5,41,0,Michael Alvarado missed Jumper.
+Manhattan,Harvard,2,11,5,41,0,Manhattan Offensive Rebound.
+Manhattan,Harvard,2,11,5,55,0,Michael Alvarado Turnover.
+Manhattan,Harvard,2,11,5,58,0,Foul on Michael Alvarado
+Manhattan,Harvard,2,11,6,21,0,Christian Webster Turnover.
+Manhattan,Harvard,2,11,6,47,0,Roberto Colonette Turnover.
+Manhattan,Harvard,2,11,6,48,0,Laurent Rivard Steal.
+Manhattan,Harvard,2,11,6,52,0,Christian Webster Turnover.
+Manhattan,Harvard,2,11,6,52,0,Foul on Christian Webster
+Manhattan,Harvard,2,11,7,18,0,Michael Alvarado missed Jumper.
+Manhattan,Harvard,2,11,7,18,0,Roberto Colonette Offensive Rebound.
+Manhattan,Harvard,5,11,7,25,1,Michael Alvarado made Three Point Jumper.  Assisted by RaShawn Stores.
+Manhattan,Harvard,5,11,7,28,0,Harvard Full Timeout.
+Manhattan,Harvard,5,11,7,28,0,Foul on RaShawn Stores
+Manhattan,Harvard,5,13,7,41,1,Jonah Travis made Layup.  Assisted by Siyani Chambers.
+Manhattan,Harvard,5,13,8,1,0,Foul on Laurent Rivard
+Manhattan,Harvard,5,13,8,1,0,Official TV Timeout.
+Manhattan,Harvard,5,13,8,31,0,Foul on Agunwa Okolie
+Manhattan,Harvard,6,13,8,31,1,Emmy Andujar made Free Throw.
+Manhattan,Harvard,7,13,8,31,1,Emmy Andujar made Free Throw.
+Manhattan,Harvard,7,13,8,32,0,Foul on Michael Alvarado
+Manhattan,Harvard,7,13,8,44,0,Foul on Mohamed Koita
+Manhattan,Harvard,7,14,8,44,1,Jonah Travis made Free Throw.
+Manhattan,Harvard,7,14,8,44,0,Jonah Travis missed Free Throw.
+Manhattan,Harvard,7,14,8,44,0,Roberto Colonette Defensive Rebound.
+Manhattan,Harvard,7,14,8,57,0,Mohamed Koita Turnover.
+Manhattan,Harvard,7,14,8,58,0,Siyani Chambers Steal.
+Manhattan,Harvard,7,14,9,0,0,Foul on Mohamed Koita
+Manhattan,Harvard,7,15,9,0,1,Siyani Chambers made Free Throw.
+Manhattan,Harvard,7,16,9,0,1,Siyani Chambers made Free Throw.
+Manhattan,Harvard,7,16,9,22,0,CJ Jones Turnover.
+Manhattan,Harvard,7,18,9,51,1,Christian Webster made Jumper.  Assisted by Wesley Saunders.
+Manhattan,Harvard,7,18,10,3,0,RaShawn Stores Turnover.
+Manhattan,Harvard,7,21,10,23,1,Laurent Rivard made Three Point Jumper.  Assisted by Jonah Travis.
+Manhattan,Harvard,7,21,10,42,0,Ryan McCoy Turnover.
+Manhattan,Harvard,7,21,10,43,0,Siyani Chambers Steal.
+Manhattan,Harvard,7,23,10,46,1,Siyani Chambers made Jumper.
+Manhattan,Harvard,7,23,10,48,0,Manhattan Full Timeout.
+Manhattan,Harvard,7,23,11,3,0,Foul on Steve Moundou-Missi
+Manhattan,Harvard,7,23,11,16,0,Shane Richards Turnover.
+Manhattan,Harvard,7,23,11,21,0,Steve Moundou-Missi Turnover.
+Manhattan,Harvard,7,23,11,49,0,Emmy Andujar missed Jumper.
+Manhattan,Harvard,7,23,11,49,0,Emmy Andujar Offensive Rebound.
+Manhattan,Harvard,9,23,11,52,1,Emmy Andujar made Layup.
+Manhattan,Harvard,9,23,12,4,0,Christian Webster Turnover.
+Manhattan,Harvard,9,23,12,5,0,Donovan Kates Steal.
+Manhattan,Harvard,9,23,12,7,0,Donovan Kates Turnover.
+Manhattan,Harvard,9,23,12,7,0,Foul on Donovan Kates
+Manhattan,Harvard,9,23,12,7,0,Official TV Timeout.
+Manhattan,Harvard,9,23,12,15,0,Laurent Rivard missed Three Point Jumper.
+Manhattan,Harvard,9,23,12,15,0,Christian Webster Offensive Rebound.
+Manhattan,Harvard,9,23,12,36,0,Jonah Travis missed Jumper.
+Manhattan,Harvard,9,23,12,36,0,Roberto Colonette Block.
+Manhattan,Harvard,9,23,12,37,0,Harvard Offensive Rebound.
+Manhattan,Harvard,9,23,12,42,0,Christian Webster missed Three Point Jumper.
+Manhattan,Harvard,9,23,12,42,0,Laurent Rivard Offensive Rebound.
+Manhattan,Harvard,9,23,13,5,0,Wesley Saunders missed Jumper.
+Manhattan,Harvard,9,23,13,5,0,Roberto Colonette Block.
+Manhattan,Harvard,9,23,13,7,0,Emmy Andujar Defensive Rebound.
+Manhattan,Harvard,11,23,13,10,1,Emmy Andujar made Layup.
+Manhattan,Harvard,11,26,13,35,1,Laurent Rivard made Three Point Jumper.  Assisted by Siyani Chambers.
+Manhattan,Harvard,11,26,14,3,0,Emmy Andujar Turnover.
+Manhattan,Harvard,11,26,14,4,0,Jonah Travis Steal.
+Manhattan,Harvard,11,26,14,10,0,Foul on Roberto Colonette
+Manhattan,Harvard,11,27,14,10,1,Christian Webster made Free Throw.
+Manhattan,Harvard,11,28,14,10,1,Christian Webster made Free Throw.
+Manhattan,Harvard,11,28,14,23,0,Emmy Andujar missed Three Point Jumper.
+Manhattan,Harvard,11,28,14,23,0,Christian Webster Defensive Rebound.
+Manhattan,Harvard,11,28,14,44,0,Laurent Rivard missed Three Point Jumper.
+Manhattan,Harvard,11,28,14,44,0,Ryan McCoy Defensive Rebound.
+Manhattan,Harvard,11,28,15,7,0,Donovan Kates missed Three Point Jumper.
+Manhattan,Harvard,11,28,15,7,0,Jonah Travis Defensive Rebound.
+Manhattan,Harvard,11,28,15,23,0,Kenyatta Smith Turnover.
+Manhattan,Harvard,11,28,15,36,0,RaShawn Stores missed Layup.
+Manhattan,Harvard,11,28,15,36,0,Wesley Saunders Defensive Rebound.
+Manhattan,Harvard,11,28,15,36,0,Foul on Ryan McCoy
+Manhattan,Harvard,11,29,15,36,1,Christian Webster made Free Throw.
+Manhattan,Harvard,11,29,15,36,0,Christian Webster missed Free Throw.
+Manhattan,Harvard,11,29,15,36,0,Agunwa Okolie Offensive Rebound.
+Manhattan,Harvard,11,31,15,39,1,Agunwa Okolie made Jumper.
+Manhattan,Harvard,11,31,16,10,0,Donovan Kates missed Three Point Jumper.
+Manhattan,Harvard,11,31,16,10,0,Wesley Saunders Defensive Rebound.
+Manhattan,Harvard,11,31,16,17,0,Christian Webster Turnover.
+Manhattan,Harvard,11,31,16,17,0,Foul on Christian Webster
+Manhattan,Harvard,11,31,16,17,0,Official TV Timeout.
+Manhattan,Harvard,11,31,16,38,0,Donovan Kates missed Jumper.
+Manhattan,Harvard,11,31,16,38,0,Steve Moundou-Missi Defensive Rebound.
+Manhattan,Harvard,11,31,16,46,0,Wesley Saunders missed Layup.
+Manhattan,Harvard,11,31,16,46,0,Emmy Andujar Defensive Rebound.
+Manhattan,Harvard,11,31,16,53,0,Donovan Kates Turnover.
+Manhattan,Harvard,11,31,16,54,0,Christian Webster Steal.
+Manhattan,Harvard,11,31,16,54,0,Foul on RaShawn Stores
+Manhattan,Harvard,11,32,16,54,1,Christian Webster made Free Throw.
+Manhattan,Harvard,11,33,16,54,1,Christian Webster made Free Throw.
+Manhattan,Harvard,11,33,17,15,0,Emmy Andujar missed Three Point Jumper.
+Manhattan,Harvard,11,33,17,15,0,Christian Webster Defensive Rebound.
+Manhattan,Harvard,11,35,17,44,1,Agunwa Okolie made Jumper.  Assisted by Siyani Chambers.
+Manhattan,Harvard,11,35,18,8,0,Mohamed Koita missed Jumper.
+Manhattan,Harvard,11,35,18,8,0,Wesley Saunders Defensive Rebound.
+Manhattan,Harvard,11,35,18,15,0,Foul on Wesley Saunders
+Manhattan,Harvard,11,35,18,15,0,Wesley Saunders Turnover.
+Manhattan,Harvard,11,35,18,23,0,Foul on Steve Moundou-Missi
+Manhattan,Harvard,12,35,18,23,1,RaShawn Stores made Free Throw.
+Manhattan,Harvard,13,35,18,23,1,RaShawn Stores made Free Throw.
+Manhattan,Harvard,13,35,18,37,0,Foul on RaShawn Stores
+Manhattan,Harvard,13,36,18,37,1,Agunwa Okolie made Free Throw.
+Manhattan,Harvard,13,36,18,37,0,Agunwa Okolie missed Free Throw.
+Manhattan,Harvard,13,36,18,37,0,Roberto Colonette Defensive Rebound.
+Manhattan,Harvard,13,36,18,53,0,Foul on Jonah Travis
+Manhattan,Harvard,14,36,18,53,1,Donovan Kates made Free Throw.
+Manhattan,Harvard,15,36,18,53,1,Donovan Kates made Free Throw.
+Manhattan,Harvard,15,39,19,15,1,Siyani Chambers made Three Point Jumper.  Assisted by Wesley Saunders.
+Manhattan,Harvard,15,39,19,32,0,Emmy Andujar missed Layup.
+Manhattan,Harvard,15,39,19,32,0,Roberto Colonette Offensive Rebound.
+Manhattan,Harvard,17,39,19,39,1,Roberto Colonette made Tip Shot.
+Manhattan,Harvard,17,39,19,59,0,Siyani Chambers Turnover.
+Manhattan,Harvard,17,39,20,0,0,CJ Jones Steal.
+Manhattan,Harvard,17,39,20,0,0,End of the 1st Half.
+Manhattan,Harvard,17,39,20,34,0,Steve Moundou-Missi missed Jumper.
+Manhattan,Harvard,17,39,20,34,0,Wesley Saunders Offensive Rebound.
+Manhattan,Harvard,17,41,20,57,1,Steve Moundou-Missi made Layup.  Assisted by Christian Webster.
+Manhattan,Harvard,17,41,21,15,0,Foul on Steve Moundou-Missi
+Manhattan,Harvard,19,41,21,20,1,Rhamel Brown made Jumper.
+Manhattan,Harvard,19,41,21,20,0,Foul on Jonah Travis
+Manhattan,Harvard,20,41,21,20,1,Rhamel Brown made Free Throw.
+Manhattan,Harvard,20,41,21,33,0,Foul on Rhamel Brown
+Manhattan,Harvard,20,42,21,33,1,Laurent Rivard made Free Throw.
+Manhattan,Harvard,20,43,21,33,1,Laurent Rivard made Free Throw.
+Manhattan,Harvard,20,43,21,52,0,Michael Alvarado Turnover.
+Manhattan,Harvard,20,43,21,52,0,Foul on Michael Alvarado
+Manhattan,Harvard,20,46,22,22,1,Christian Webster made Three Point Jumper.  Assisted by Siyani Chambers.
+Manhattan,Harvard,20,46,22,32,0,Michael Alvarado Turnover.
+Manhattan,Harvard,20,46,22,47,0,Foul on Ryan McCoy
+Manhattan,Harvard,20,47,22,47,1,Jonah Travis made Free Throw.
+Manhattan,Harvard,20,48,22,47,1,Jonah Travis made Free Throw.
+Manhattan,Harvard,20,48,23,6,0,Michael Alvarado Turnover.
+Manhattan,Harvard,20,48,23,25,0,Siyani Chambers missed Jumper.
+Manhattan,Harvard,20,48,23,25,0,Rhamel Brown Defensive Rebound.
+Manhattan,Harvard,20,48,23,27,0,Foul on Wesley Saunders
+Manhattan,Harvard,20,48,23,48,0,Donovan Kates missed Three Point Jumper.
+Manhattan,Harvard,20,48,23,48,0,Siyani Chambers Defensive Rebound.
+Manhattan,Harvard,20,48,24,14,0,Laurent Rivard missed Three Point Jumper.
+Manhattan,Harvard,20,48,24,14,0,Jonah Travis Offensive Rebound.
+Manhattan,Harvard,20,48,24,31,0,Wesley Saunders missed Layup.
+Manhattan,Harvard,20,48,24,31,0,Rhamel Brown Defensive Rebound.
+Manhattan,Harvard,20,48,24,51,0,Rhamel Brown missed Jumper.
+Manhattan,Harvard,20,48,24,51,0,Wesley Saunders Defensive Rebound.
+Manhattan,Harvard,20,48,24,57,0,Wesley Saunders Turnover.
+Manhattan,Harvard,20,48,24,58,0,RaShawn Stores Steal.
+Manhattan,Harvard,20,48,25,0,0,RaShawn Stores missed Layup.
+Manhattan,Harvard,20,48,25,0,0,CJ Jones Offensive Rebound.
+Manhattan,Harvard,20,48,25,3,0,CJ Jones missed Jumper.
+Manhattan,Harvard,20,48,25,3,0,Laurent Rivard Defensive Rebound.
+Manhattan,Harvard,20,48,25,11,0,Harvard Full Timeout.
+Manhattan,Harvard,20,51,25,26,1,Laurent Rivard made Three Point Jumper.  Assisted by Christian Webster.
+Manhattan,Harvard,20,51,26,3,0,Rhamel Brown missed Jumper.
+Manhattan,Harvard,20,51,26,3,0,Ryan McCoy Offensive Rebound.
+Manhattan,Harvard,20,51,26,8,0,Ryan McCoy Turnover.
+Manhattan,Harvard,20,51,26,9,0,Siyani Chambers Steal.
+Manhattan,Harvard,20,53,26,12,1,Wesley Saunders made Dunk.  Assisted by Siyani Chambers.
+Manhattan,Harvard,20,53,26,34,0,Mohamed Koita Turnover.
+Manhattan,Harvard,20,53,26,36,0,Christian Webster Steal.
+Manhattan,Harvard,20,53,26,39,0,Laurent Rivard missed Three Point Jumper.
+Manhattan,Harvard,20,53,26,39,0,Harvard Offensive Rebound.
+Manhattan,Harvard,20,53,26,41,0,Official TV Timeout.
+Manhattan,Harvard,20,55,26,57,1,Christian Webster made Jumper.
+Manhattan,Harvard,20,55,27,9,0,Donovan Kates Turnover.
+Manhattan,Harvard,20,55,27,9,0,Foul on Donovan Kates
+Manhattan,Harvard,20,57,27,18,1,Agunwa Okolie made Dunk.  Assisted by Laurent Rivard.
+Manhattan,Harvard,20,57,27,37,0,Foul on Jonah Travis
+Manhattan,Harvard,22,57,27,46,1,Michael Alvarado made Layup.
+Manhattan,Harvard,22,57,28,0,0,Agunwa Okolie missed Jumper.
+Manhattan,Harvard,22,57,28,0,0,Agunwa Okolie Offensive Rebound.
+Manhattan,Harvard,22,59,28,3,1,Agunwa Okolie made Tip Shot.
+Manhattan,Harvard,22,59,28,17,0,Emmy Andujar Turnover.
+Manhattan,Harvard,22,59,28,17,0,Official TV Timeout.
+Manhattan,Harvard,22,59,28,18,0,Christian Webster Turnover.
+Manhattan,Harvard,22,59,28,33,0,RaShawn Stores missed Three Point Jumper.
+Manhattan,Harvard,22,59,28,33,0,Rhamel Brown Offensive Rebound.
+Manhattan,Harvard,22,59,28,35,0,Foul on Christian Webster
+Manhattan,Harvard,22,59,28,43,0,Emmy Andujar Turnover.
+Manhattan,Harvard,22,59,28,44,0,Wesley Saunders Steal.
+Manhattan,Harvard,22,59,28,49,0,Agunwa Okolie missed Layup.
+Manhattan,Harvard,22,59,28,49,0,Rhamel Brown Defensive Rebound.
+Manhattan,Harvard,22,59,28,55,0,Emmy Andujar missed Jumper.
+Manhattan,Harvard,22,59,28,55,0,Jonah Travis Defensive Rebound.
+Manhattan,Harvard,22,59,28,57,0,Foul on Rhamel Brown
+Manhattan,Harvard,22,59,29,24,0,Christian Webster missed Jumper.
+Manhattan,Harvard,22,59,29,24,0,Michael Alvarado Defensive Rebound.
+Manhattan,Harvard,22,59,29,39,0,Foul on Laurent Rivard
+Manhattan,Harvard,22,59,29,39,0,Michael Alvarado missed Free Throw.
+Manhattan,Harvard,22,59,29,39,0,null
+Manhattan,Harvard,23,59,29,39,1,Michael Alvarado made Free Throw.
+Manhattan,Harvard,23,59,29,56,0,Foul on Ryan McCoy
+Manhattan,Harvard,23,59,29,56,0,Wesley Saunders missed Free Throw.
+Manhattan,Harvard,23,59,29,56,0,null
+Manhattan,Harvard,23,60,29,56,1,Wesley Saunders made Free Throw.
+Manhattan,Harvard,23,60,30,10,0,Foul on Jonah Travis
+Manhattan,Harvard,24,60,30,10,1,Michael Alvarado made Free Throw.
+Manhattan,Harvard,24,60,30,10,0,Michael Alvarado missed Free Throw.
+Manhattan,Harvard,24,60,30,10,0,Steve Moundou-Missi Defensive Rebound.
+Manhattan,Harvard,24,63,30,28,1,Siyani Chambers made Three Point Jumper.  Assisted by Wesley Saunders.
+Manhattan,Harvard,24,63,30,50,0,Michael Alvarado missed Jumper.
+Manhattan,Harvard,24,63,30,50,0,Agunwa Okolie Block.
+Manhattan,Harvard,24,63,30,52,0,Roberto Colonette Offensive Rebound.
+Manhattan,Harvard,24,63,30,53,0,Roberto Colonette missed Jumper.
+Manhattan,Harvard,24,63,30,53,0,Roberto Colonette Offensive Rebound.
+Manhattan,Harvard,26,63,30,56,1,Roberto Colonette made Jumper.
+Manhattan,Harvard,26,63,31,14,0,Wesley Saunders Turnover.
+Manhattan,Harvard,26,63,31,14,0,Roberto Colonette Steal.
+Manhattan,Harvard,26,63,31,37,0,Foul on Steve Moundou-Missi
+Manhattan,Harvard,27,63,31,37,1,Roberto Colonette made Free Throw.
+Manhattan,Harvard,27,63,31,37,0,Roberto Colonette missed Free Throw.
+Manhattan,Harvard,27,63,31,37,0,Wesley Saunders Defensive Rebound.
+Manhattan,Harvard,27,63,32,15,0,Wesley Saunders missed Jumper.
+Manhattan,Harvard,27,63,32,15,0,Manhattan Defensive Rebound.
+Manhattan,Harvard,27,63,32,17,0,Official TV Timeout.
+Manhattan,Harvard,27,63,32,29,0,Foul on Jonah Travis
+Manhattan,Harvard,27,63,32,37,0,Emmy Andujar Turnover.
+Manhattan,Harvard,27,63,32,37,0,Foul on Emmy Andujar
+Manhattan,Harvard,27,63,32,42,0,Foul on RaShawn Stores
+Manhattan,Harvard,27,64,32,42,1,Siyani Chambers made Free Throw.
+Manhattan,Harvard,27,65,32,42,1,Siyani Chambers made Free Throw.
+Manhattan,Harvard,30,65,33,2,1,Emmy Andujar made Three Point Jumper.
+Manhattan,Harvard,30,65,33,30,0,Wesley Saunders missed Jumper.
+Manhattan,Harvard,30,65,33,30,0,Michael Alvarado Block.
+Manhattan,Harvard,30,65,33,30,0,Harvard Offensive Rebound.
+Manhattan,Harvard,30,65,33,40,0,Siyani Chambers Turnover.
+Manhattan,Harvard,30,65,34,2,0,Shane Richards missed Three Point Jumper.
+Manhattan,Harvard,30,65,34,2,0,Kenyatta Smith Defensive Rebound.
+Manhattan,Harvard,30,67,34,8,1,Agunwa Okolie made Dunk.  Assisted by Kenyatta Smith.
+Manhattan,Harvard,30,67,34,40,0,Foul on Kenyatta Smith
+Manhattan,Harvard,30,67,34,40,0,Rhamel Brown missed Free Throw.
+Manhattan,Harvard,30,67,34,40,0,null
+Manhattan,Harvard,30,67,34,40,0,Rhamel Brown missed Free Throw.
+Manhattan,Harvard,30,67,34,40,0,Kenyatta Smith Defensive Rebound.
+Manhattan,Harvard,33,67,34,56,1,RaShawn Stores made Three Point Jumper.  Assisted by Donovan Kates.
+Manhattan,Harvard,33,69,35,21,1,Kenyatta Smith made Dunk.  Assisted by Agunwa Okolie.
+Manhattan,Harvard,33,69,35,33,0,null
+Manhattan,Harvard,33,69,35,33,0,Foul on Kenyatta Smith
+Manhattan,Harvard,33,69,35,33,0,Rhamel Brown missed Free Throw.
+Manhattan,Harvard,33,69,35,33,0,Rhamel Brown missed Free Throw.
+Manhattan,Harvard,33,69,35,33,0,Donovan Kates Offensive Rebound.
+Manhattan,Harvard,33,69,35,33,0,Donovan Kates Turnover.
+Manhattan,Harvard,33,69,35,33,0,Laurent Rivard Steal.
+Manhattan,Harvard,33,71,35,35,1,Wesley Saunders made Dunk.  Assisted by Agunwa Okolie.
+Manhattan,Harvard,35,71,35,58,1,RaShawn Stores made Jumper.
+Manhattan,Harvard,35,71,36,0,0,Foul on Kenyatta Smith
+Manhattan,Harvard,35,71,36,2,0,RaShawn Stores missed Free Throw.
+Manhattan,Harvard,35,71,36,2,0,Michael Hall Defensive Rebound.
+Manhattan,Harvard,35,71,36,32,0,Siyani Chambers missed Three Point Jumper.
+Manhattan,Harvard,35,71,36,32,0,Rhamel Brown Defensive Rebound.
+Manhattan,Harvard,35,71,36,39,0,Siyani Chambers Defensive Rebound.
+Manhattan,Harvard,35,71,36,39,0,CJ Jones missed Jumper.
+Manhattan,Harvard,35,72,36,40,0,Foul on Ryan McCoy
+Manhattan,Harvard,35,72,36,42,1,Siyani Chambers made Free Throw.
+Manhattan,Harvard,35,73,36,42,1,Siyani Chambers made Free Throw.
+Manhattan,Harvard,38,73,36,59,1,Donovan Kates made Three Point Jumper.
+Manhattan,Harvard,38,73,37,30,0,Wesley Saunders Turnover.
+Manhattan,Harvard,38,73,37,37,0,Foul on Michael Hall
+Manhattan,Harvard,38,73,37,37,0,RaShawn Stores missed Free Throw.
+Manhattan,Harvard,39,73,37,37,1,RaShawn Stores made Free Throw.
+Manhattan,Harvard,38,73,37,56,0,Michael Hall missed Free Throw.
+Manhattan,Harvard,39,73,37,56,0,null
+Manhattan,Harvard,39,73,37,56,0,Michael Hall missed Free Throw.
+Manhattan,Harvard,39,73,37,56,0,Foul on Ryan McCoy
+Manhattan,Harvard,39,73,37,56,0,Michael Hall missed Free Throw.
+Manhattan,Harvard,39,73,37,56,0,Manhattan Defensive Rebound.
+Manhattan,Harvard,42,73,38,9,1,Emmy Andujar made Three Point Jumper.  Assisted by Shane Richards.
+Manhattan,Harvard,42,75,38,30,1,Michael Hall made Dunk.  Assisted by Evan Cummins.
+Manhattan,Harvard,42,75,38,43,0,Donovan Kates missed Three Point Jumper.
+Manhattan,Harvard,42,75,38,43,0,Wesley Saunders Defensive Rebound.
+Manhattan,Harvard,42,77,39,3,1,Wesley Saunders made Layup.  Assisted by Christian Webster.
+Manhattan,Harvard,45,77,39,22,1,RaShawn Stores made Three Point Jumper.  Assisted by Emmy Andujar.
+Manhattan,Harvard,45,79,39,49,1,Evan Cummins made Layup.
+Manhattan,Harvard,45,79,39,58,0,Evan Cummins Defensive Rebound.
+Manhattan,Harvard,45,79,39,58,0,Donovan Kates missed Three Point Jumper.
+Manhattan,Harvard,45,79,40,0,0,End Game

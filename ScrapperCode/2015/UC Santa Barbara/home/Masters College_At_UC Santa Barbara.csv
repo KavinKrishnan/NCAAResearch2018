@@ -1,0 +1,330 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Masters College,UC Santa Barbara,0,3,0,13,1,null
+Masters College,UC Santa Barbara,2,3,0,32,1,null
+Masters College,UC Santa Barbara,2,3,0,55,0,null
+Masters College,UC Santa Barbara,2,3,0,55,0,null
+Masters College,UC Santa Barbara,2,3,0,59,0,null
+Masters College,UC Santa Barbara,2,3,0,59,0,null
+Masters College,UC Santa Barbara,2,3,0,59,0,null
+Masters College,UC Santa Barbara,2,4,0,59,1,null
+Masters College,UC Santa Barbara,2,4,1,20,0,null
+Masters College,UC Santa Barbara,2,4,1,20,0,null
+Masters College,UC Santa Barbara,2,4,1,30,0,null
+Masters College,UC Santa Barbara,2,4,1,31,0,null
+Masters College,UC Santa Barbara,2,4,1,34,0,null
+Masters College,UC Santa Barbara,2,4,1,34,0,null
+Masters College,UC Santa Barbara,4,4,1,38,1,null
+Masters College,UC Santa Barbara,4,4,2,0,0,null
+Masters College,UC Santa Barbara,4,4,2,1,0,null
+Masters College,UC Santa Barbara,4,4,2,1,0,null
+Masters College,UC Santa Barbara,4,4,2,5,0,null
+Masters College,UC Santa Barbara,4,4,2,5,0,null
+Masters College,UC Santa Barbara,4,4,2,6,0,null
+Masters College,UC Santa Barbara,4,5,2,18,1,null
+Masters College,UC Santa Barbara,4,6,2,30,1,null
+Masters College,UC Santa Barbara,4,6,2,42,0,null
+Masters College,UC Santa Barbara,4,6,2,42,0,null
+Masters College,UC Santa Barbara,4,6,2,42,0,null
+Masters College,UC Santa Barbara,4,6,2,42,0,null
+Masters College,UC Santa Barbara,4,8,2,42,1,null
+Masters College,UC Santa Barbara,4,8,2,44,0,null
+Masters College,UC Santa Barbara,4,8,2,46,0,null
+Masters College,UC Santa Barbara,4,11,3,0,1,null
+Masters College,UC Santa Barbara,4,11,3,9,0,null
+Masters College,UC Santa Barbara,4,11,3,9,0,null
+Masters College,UC Santa Barbara,4,14,3,32,1,null
+Masters College,UC Santa Barbara,4,14,3,35,0,null
+Masters College,UC Santa Barbara,4,14,3,55,0,null
+Masters College,UC Santa Barbara,4,14,3,55,0,null
+Masters College,UC Santa Barbara,4,14,4,10,0,null
+Masters College,UC Santa Barbara,4,14,4,11,0,null
+Masters College,UC Santa Barbara,4,14,4,16,0,null
+Masters College,UC Santa Barbara,4,14,4,16,0,Official TV Timeout
+Masters College,UC Santa Barbara,4,17,4,33,1,null
+Masters College,UC Santa Barbara,4,17,4,56,0,null
+Masters College,UC Santa Barbara,4,19,5,0,1,null
+Masters College,UC Santa Barbara,4,19,5,12,0,null
+Masters College,UC Santa Barbara,4,19,5,12,0,null
+Masters College,UC Santa Barbara,4,19,5,28,0,null
+Masters College,UC Santa Barbara,4,19,5,28,0,null
+Masters College,UC Santa Barbara,4,19,5,46,0,null
+Masters College,UC Santa Barbara,4,19,5,46,0,null
+Masters College,UC Santa Barbara,4,19,5,58,0,null
+Masters College,UC Santa Barbara,4,19,5,58,0,null
+Masters College,UC Santa Barbara,4,21,6,4,1,null
+Masters College,UC Santa Barbara,4,21,6,29,0,null
+Masters College,UC Santa Barbara,4,21,6,29,0,null
+Masters College,UC Santa Barbara,4,21,6,53,0,null
+Masters College,UC Santa Barbara,4,21,7,14,0,null
+Masters College,UC Santa Barbara,4,21,7,14,0,null
+Masters College,UC Santa Barbara,4,21,7,24,0,null
+Masters College,UC Santa Barbara,4,21,7,39,0,null
+Masters College,UC Santa Barbara,4,21,7,39,0,null
+Masters College,UC Santa Barbara,4,23,7,42,1,null
+Masters College,UC Santa Barbara,6,23,7,53,1,null
+Masters College,UC Santa Barbara,6,23,7,56,0,null
+Masters College,UC Santa Barbara,7,23,7,57,1,null
+Masters College,UC Santa Barbara,7,23,8,20,0,null
+Masters College,UC Santa Barbara,7,23,8,20,0,null
+Masters College,UC Santa Barbara,7,23,8,29,0,null
+Masters College,UC Santa Barbara,7,23,8,31,0,null
+Masters College,UC Santa Barbara,7,23,8,34,0,null
+Masters College,UC Santa Barbara,7,23,8,34,0,Official TV Timeout
+Masters College,UC Santa Barbara,7,23,8,54,0,null
+Masters College,UC Santa Barbara,7,23,9,7,0,null
+Masters College,UC Santa Barbara,7,23,9,7,0,null
+Masters College,UC Santa Barbara,7,23,9,28,0,null
+Masters College,UC Santa Barbara,7,23,9,29,0,null
+Masters College,UC Santa Barbara,7,23,9,34,0,null
+Masters College,UC Santa Barbara,7,23,9,34,0,null
+Masters College,UC Santa Barbara,7,23,9,54,0,null
+Masters College,UC Santa Barbara,7,23,9,54,0,null
+Masters College,UC Santa Barbara,9,23,10,3,1,null
+Masters College,UC Santa Barbara,9,23,10,3,0,null
+Masters College,UC Santa Barbara,10,23,10,3,1,null
+Masters College,UC Santa Barbara,10,23,10,20,0,null
+Masters College,UC Santa Barbara,10,23,10,20,0,null
+Masters College,UC Santa Barbara,12,23,10,39,1,null
+Masters College,UC Santa Barbara,12,23,10,39,0,null
+Masters College,UC Santa Barbara,12,23,10,39,0,null
+Masters College,UC Santa Barbara,12,23,10,39,0,null
+Masters College,UC Santa Barbara,12,25,11,5,1,null
+Masters College,UC Santa Barbara,12,25,11,22,0,null
+Masters College,UC Santa Barbara,12,25,11,23,0,null
+Masters College,UC Santa Barbara,12,27,11,26,1,null
+Masters College,UC Santa Barbara,12,27,11,27,0,null
+Masters College,UC Santa Barbara,12,28,11,27,1,null
+Masters College,UC Santa Barbara,12,28,11,46,0,null
+Masters College,UC Santa Barbara,12,28,11,46,0,null
+Masters College,UC Santa Barbara,12,28,11,59,0,null
+Masters College,UC Santa Barbara,12,28,11,59,0,null
+Masters College,UC Santa Barbara,12,28,12,1,0,Official TV Timeout
+Masters College,UC Santa Barbara,12,28,12,27,0,null
+Masters College,UC Santa Barbara,12,28,12,27,0,null
+Masters College,UC Santa Barbara,12,28,12,29,0,null
+Masters College,UC Santa Barbara,12,28,12,34,0,null
+Masters College,UC Santa Barbara,12,28,12,34,0,null
+Masters College,UC Santa Barbara,12,30,12,47,1,null
+Masters College,UC Santa Barbara,12,30,13,0,0,null
+Masters College,UC Santa Barbara,13,30,13,0,1,null
+Masters College,UC Santa Barbara,14,30,13,0,1,null
+Masters College,UC Santa Barbara,14,30,13,24,0,null
+Masters College,UC Santa Barbara,14,30,13,24,0,null
+Masters College,UC Santa Barbara,14,30,13,26,0,null
+Masters College,UC Santa Barbara,14,31,13,26,1,null
+Masters College,UC Santa Barbara,14,32,13,26,1,null
+Masters College,UC Santa Barbara,14,32,13,39,0,null
+Masters College,UC Santa Barbara,14,32,13,39,0,null
+Masters College,UC Santa Barbara,14,32,13,43,0,null
+Masters College,UC Santa Barbara,14,32,13,44,0,null
+Masters College,UC Santa Barbara,14,32,13,54,0,null
+Masters College,UC Santa Barbara,14,32,13,54,0,null
+Masters College,UC Santa Barbara,16,32,14,7,1,null
+Masters College,UC Santa Barbara,16,34,14,12,1,null
+Masters College,UC Santa Barbara,16,34,14,39,0,null
+Masters College,UC Santa Barbara,16,34,14,40,0,null
+Masters College,UC Santa Barbara,16,36,14,42,1,null
+Masters College,UC Santa Barbara,16,36,15,7,0,null
+Masters College,UC Santa Barbara,16,36,15,7,0,null
+Masters College,UC Santa Barbara,16,36,15,15,0,null
+Masters College,UC Santa Barbara,16,36,15,15,0,null
+Masters College,UC Santa Barbara,16,38,15,21,1,null
+Masters College,UC Santa Barbara,16,38,15,24,0,null
+Masters College,UC Santa Barbara,16,38,15,46,0,null
+Masters College,UC Santa Barbara,16,38,15,46,0,null
+Masters College,UC Santa Barbara,16,38,16,5,0,null
+Masters College,UC Santa Barbara,16,38,16,5,0,null
+Masters College,UC Santa Barbara,16,38,16,15,0,null
+Masters College,UC Santa Barbara,16,38,16,16,0,null
+Masters College,UC Santa Barbara,16,38,16,23,0,null
+Masters College,UC Santa Barbara,16,38,16,23,0,null
+Masters College,UC Santa Barbara,16,38,16,41,0,null
+Masters College,UC Santa Barbara,16,38,16,41,0,null
+Masters College,UC Santa Barbara,16,38,17,2,0,null
+Masters College,UC Santa Barbara,16,38,17,2,0,Official TV Timeout
+Masters College,UC Santa Barbara,16,39,17,2,1,null
+Masters College,UC Santa Barbara,16,40,17,8,1,null
+Masters College,UC Santa Barbara,19,40,17,26,1,null
+Masters College,UC Santa Barbara,19,40,17,46,0,null
+Masters College,UC Santa Barbara,19,40,17,47,0,null
+Masters College,UC Santa Barbara,19,40,17,50,0,null
+Masters College,UC Santa Barbara,19,40,17,50,0,null
+Masters College,UC Santa Barbara,19,40,17,59,0,null
+Masters College,UC Santa Barbara,19,40,17,59,0,null
+Masters College,UC Santa Barbara,19,43,18,19,1,null
+Masters College,UC Santa Barbara,19,43,18,38,0,null
+Masters College,UC Santa Barbara,19,43,18,38,0,null
+Masters College,UC Santa Barbara,19,43,18,44,0,null
+Masters College,UC Santa Barbara,19,43,18,45,0,null
+Masters College,UC Santa Barbara,19,43,18,51,0,null
+Masters College,UC Santa Barbara,19,43,18,51,0,null
+Masters College,UC Santa Barbara,19,45,19,8,1,null
+Masters College,UC Santa Barbara,22,45,19,25,1,null
+Masters College,UC Santa Barbara,22,45,19,53,0,null
+Masters College,UC Santa Barbara,22,45,19,53,0,null
+Masters College,UC Santa Barbara,22,47,19,58,1,null
+Masters College,UC Santa Barbara,22,47,20,0,0,End of 1st half
+Masters College,UC Santa Barbara,22,47,20,12,0,Evan Jenkins Turnover.
+Masters College,UC Santa Barbara,22,47,20,16,0,DaJuan Smith Steal.
+Masters College,UC Santa Barbara,22,49,20,17,1,DaJuan Smith made Layup.
+Masters College,UC Santa Barbara,22,49,20,27,0,Reid Shackelford Turnover.
+Masters College,UC Santa Barbara,22,52,20,42,1,Michael Bryson made Three Point Jumper. Assisted by Zalmico Harmon.
+Masters College,UC Santa Barbara,22,52,21,3,0,Korey Anderson missed Layup.
+Masters College,UC Santa Barbara,22,52,21,3,0,Korey Anderson Offensive Rebound.
+Masters College,UC Santa Barbara,22,52,21,7,0,Korey Anderson Turnover.
+Masters College,UC Santa Barbara,22,52,21,8,0,Zalmico Harmon Steal.
+Masters College,UC Santa Barbara,22,52,21,17,0,Foul on Alan Williams.
+Masters College,UC Santa Barbara,22,52,21,17,0,Alan Williams Turnover.
+Masters College,UC Santa Barbara,22,52,21,26,0,Korey Anderson Turnover.
+Masters College,UC Santa Barbara,22,52,21,26,0,Foul on Korey Anderson.
+Masters College,UC Santa Barbara,22,52,21,50,0,Mitch Brewe missed Three Point Jumper.
+Masters College,UC Santa Barbara,22,52,21,50,0,Reid Shackelford Defensive Rebound.
+Masters College,UC Santa Barbara,22,52,22,9,0,Korey Anderson Turnover.
+Masters College,UC Santa Barbara,22,55,22,24,1,Zalmico Harmon made Three Point Jumper. Assisted by DaJuan Smith.
+Masters College,UC Santa Barbara,22,55,22,38,0,Russell Byrd Turnover.
+Masters College,UC Santa Barbara,22,55,22,39,0,Alan Williams Steal.
+Masters College,UC Santa Barbara,22,55,22,51,0,Alan Williams missed Jumper.
+Masters College,UC Santa Barbara,22,55,22,51,0,Chris Patureau Defensive Rebound.
+Masters College,UC Santa Barbara,22,55,23,15,0,Foul on Michael Bryson.
+Masters College,UC Santa Barbara,22,55,23,15,0,Russell Byrd missed Free Throw.
+Masters College,UC Santa Barbara,22,55,23,15,0,The Masters College Deadball Team Rebound.
+Masters College,UC Santa Barbara,22,55,23,15,0,Russell Byrd missed Free Throw.
+Masters College,UC Santa Barbara,22,55,23,15,0,Logan Quinn Offensive Rebound.
+Masters College,UC Santa Barbara,22,55,23,19,0,Russell Byrd missed Layup.
+Masters College,UC Santa Barbara,22,55,23,19,0,Michael Bryson Defensive Rebound.
+Masters College,UC Santa Barbara,22,58,23,40,1,Michael Bryson made Three Point Jumper. Assisted by DaJuan Smith.
+Masters College,UC Santa Barbara,22,58,24,1,0,Official TV Timeout
+Masters College,UC Santa Barbara,22,58,24,14,0,Russell Byrd Turnover.
+Masters College,UC Santa Barbara,22,58,24,16,0,DaJuan Smith Steal.
+Masters College,UC Santa Barbara,22,60,24,31,1,Alan Williams made Layup. Assisted by DaJuan Smith.
+Masters College,UC Santa Barbara,22,60,24,55,0,Foul on Michael Bryson.
+Masters College,UC Santa Barbara,22,60,24,59,0,Foul on Mitch Brewe.
+Masters College,UC Santa Barbara,22,60,24,59,0,Chris Patureau missed Free Throw.
+Masters College,UC Santa Barbara,22,60,24,59,0,The Masters College Deadball Team Rebound.
+Masters College,UC Santa Barbara,23,60,24,59,1,Chris Patureau made Free Throw.
+Masters College,UC Santa Barbara,23,60,25,7,0,Michael Bryson missed Three Point Jumper.
+Masters College,UC Santa Barbara,23,60,25,7,0,Mitch Brewe Offensive Rebound.
+Masters College,UC Santa Barbara,23,62,25,13,1,Mitch Brewe made Jumper.
+Masters College,UC Santa Barbara,23,62,25,33,0,Russell Byrd Turnover.
+Masters College,UC Santa Barbara,23,62,25,35,0,Michael Bryson Steal.
+Masters College,UC Santa Barbara,23,64,25,38,1,Zalmico Harmon made Jumper.
+Masters College,UC Santa Barbara,23,64,25,46,0,The Masters College  Timeout
+Masters College,UC Santa Barbara,25,64,25,56,1,Russell Byrd made Jumper.
+Masters College,UC Santa Barbara,25,64,26,7,0,Zalmico Harmon Turnover.
+Masters College,UC Santa Barbara,25,64,26,9,0,J.P. Webster Steal.
+Masters College,UC Santa Barbara,27,64,26,14,1,Chris Patureau made Layup. Assisted by Logan Quinn.
+Masters College,UC Santa Barbara,27,64,26,30,0,Foul on J.P. Webster.
+Masters College,UC Santa Barbara,27,64,26,37,0,Alan Williams missed Jumper.
+Masters College,UC Santa Barbara,27,64,26,37,0,Chris Patureau Defensive Rebound.
+Masters College,UC Santa Barbara,27,64,26,51,0,Korey Anderson missed Jumper.
+Masters College,UC Santa Barbara,27,64,26,51,0,Alan Williams Block.
+Masters College,UC Santa Barbara,27,64,26,53,0,J.P. Webster Offensive Rebound.
+Masters College,UC Santa Barbara,27,64,26,56,0,J.P. Webster missed Jumper.
+Masters College,UC Santa Barbara,27,64,26,56,0,The Masters College Offensive Rebound.
+Masters College,UC Santa Barbara,29,64,27,15,1,Russell Byrd made Jumper.
+Masters College,UC Santa Barbara,29,64,27,33,0,Michael Bryson Turnover.
+Masters College,UC Santa Barbara,29,64,27,34,0,Korey Anderson Steal.
+Masters College,UC Santa Barbara,31,64,27,38,1,Chris Patureau made Layup. Assisted by Russell Byrd.
+Masters College,UC Santa Barbara,31,64,27,56,0,Foul on Chris Patureau.
+Masters College,UC Santa Barbara,31,65,27,56,1,Alan Williams made Free Throw.
+Masters College,UC Santa Barbara,31,66,27,56,1,Alan Williams made Free Throw.
+Masters College,UC Santa Barbara,31,66,28,4,0,Foul on John Green.
+Masters College,UC Santa Barbara,31,66,28,4,0,Official TV Timeout
+Masters College,UC Santa Barbara,31,66,28,7,0,J.P. Webster missed Jumper.
+Masters College,UC Santa Barbara,31,66,28,7,0,Korey Anderson Offensive Rebound.
+Masters College,UC Santa Barbara,31,66,28,17,0,Logan Quinn missed Three Point Jumper.
+Masters College,UC Santa Barbara,31,66,28,17,0,Eric Childress Defensive Rebound.
+Masters College,UC Santa Barbara,31,66,28,22,0,Eric Childress Turnover.
+Masters College,UC Santa Barbara,31,66,28,22,0,The Masters College  Timeout
+Masters College,UC Santa Barbara,31,66,28,33,0,J.P. Webster Turnover.
+Masters College,UC Santa Barbara,31,66,28,34,0,Sam Beeler Steal.
+Masters College,UC Santa Barbara,31,66,28,53,0,Sam Beeler missed Layup.
+Masters College,UC Santa Barbara,31,66,28,53,0,null
+Masters College,UC Santa Barbara,34,66,29,2,1,Russell Byrd made Three Point Jumper. Assisted by Korey Anderson.
+Masters College,UC Santa Barbara,34,68,29,28,1,John Green made Jumper.
+Masters College,UC Santa Barbara,34,68,29,36,0,Russell Byrd missed Three Point Jumper.
+Masters College,UC Santa Barbara,34,68,29,36,0,Eric Childress Defensive Rebound.
+Masters College,UC Santa Barbara,34,68,30,3,0,Eric Childress missed Three Point Jumper.
+Masters College,UC Santa Barbara,34,68,30,3,0,Sam Beeler Offensive Rebound.
+Masters College,UC Santa Barbara,34,68,30,8,0,UC Santa Barbara  Timeout
+Masters College,UC Santa Barbara,34,68,30,28,0,John Green missed Three Point Jumper.
+Masters College,UC Santa Barbara,34,68,30,28,0,The Masters College Defensive Rebound.
+Masters College,UC Santa Barbara,34,68,30,40,0,Harrison White Turnover.
+Masters College,UC Santa Barbara,34,68,30,42,0,Eric Childress Steal.
+Masters College,UC Santa Barbara,34,70,30,45,1,Eric Childress made Layup. Assisted by T.J. Taylor.
+Masters College,UC Santa Barbara,34,70,30,57,0,Russell Byrd Turnover.
+Masters College,UC Santa Barbara,34,70,31,13,0,Foul on Harrison White.
+Masters College,UC Santa Barbara,34,72,31,25,1,John Green made Layup.
+Masters College,UC Santa Barbara,34,72,31,36,0,Foul on T.J. Taylor.
+Masters College,UC Santa Barbara,36,72,31,41,1,Chris Patureau made Layup. Assisted by Russell Byrd.
+Masters College,UC Santa Barbara,36,72,32,11,0,John Green missed Layup.
+Masters College,UC Santa Barbara,36,72,32,11,0,John Green Offensive Rebound.
+Masters College,UC Santa Barbara,36,74,32,14,1,John Green made Jumper.
+Masters College,UC Santa Barbara,36,74,32,28,0,Foul on Sam Beeler.
+Masters College,UC Santa Barbara,36,74,32,28,0,Official TV Timeout
+Masters College,UC Santa Barbara,37,74,32,28,1,Chris Patureau made Free Throw.
+Masters College,UC Santa Barbara,38,74,32,28,1,Chris Patureau made Free Throw.
+Masters College,UC Santa Barbara,38,74,32,47,0,Sam Beeler Turnover.
+Masters College,UC Santa Barbara,38,74,32,47,0,Foul on Sam Beeler.
+Masters College,UC Santa Barbara,38,74,32,59,0,Chris Patureau missed Jumper.
+Masters College,UC Santa Barbara,38,74,32,59,0,John Green Defensive Rebound.
+Masters College,UC Santa Barbara,38,74,33,5,0,T.J. Taylor missed Layup.
+Masters College,UC Santa Barbara,38,74,33,5,0,John Green Offensive Rebound.
+Masters College,UC Santa Barbara,38,74,33,13,0,Foul on Russell Byrd.
+Masters College,UC Santa Barbara,38,75,33,13,1,John Green made Free Throw.
+Masters College,UC Santa Barbara,38,76,33,13,1,John Green made Free Throw.
+Masters College,UC Santa Barbara,38,76,33,27,0,Russell Byrd Turnover.
+Masters College,UC Santa Barbara,38,76,33,31,0,Eric Childress missed Layup.
+Masters College,UC Santa Barbara,38,76,33,31,0,Hunter Ford Offensive Rebound.
+Masters College,UC Santa Barbara,38,76,33,44,0,Justin Burks missed Three Point Jumper.
+Masters College,UC Santa Barbara,38,76,33,44,0,Korey Anderson Defensive Rebound.
+Masters College,UC Santa Barbara,40,76,33,54,1,J.P. Webster made Jumper. Assisted by Russell Byrd.
+Masters College,UC Santa Barbara,40,76,34,14,0,John Green missed Three Point Jumper.
+Masters College,UC Santa Barbara,40,76,34,14,0,J.P. Webster Defensive Rebound.
+Masters College,UC Santa Barbara,40,76,34,21,0,J.P. Webster Turnover.
+Masters College,UC Santa Barbara,40,79,34,30,1,Hunter Ford made Three Point Jumper. Assisted by Eric Childress.
+Masters College,UC Santa Barbara,40,79,34,46,0,J.P. Webster missed Three Point Jumper.
+Masters College,UC Santa Barbara,40,79,34,46,0,Russell Byrd Offensive Rebound.
+Masters College,UC Santa Barbara,42,79,34,50,1,Russell Byrd made Two Point Tip Shot.
+Masters College,UC Santa Barbara,42,79,35,6,0,Foul on J.P. Webster.
+Masters College,UC Santa Barbara,42,79,35,6,0,Eric Childress missed Free Throw.
+Masters College,UC Santa Barbara,42,79,35,6,0,UC Santa Barbara Deadball Team Rebound.
+Masters College,UC Santa Barbara,42,79,35,6,0,Eric Childress missed Free Throw.
+Masters College,UC Santa Barbara,42,79,35,6,0,Korey Anderson Defensive Rebound.
+Masters College,UC Santa Barbara,45,79,35,19,1,Russell Byrd made Three Point Jumper.
+Masters College,UC Santa Barbara,45,79,35,30,0,Eric Childress Turnover.
+Masters College,UC Santa Barbara,45,79,35,31,0,Logan Quinn Steal.
+Masters College,UC Santa Barbara,45,79,35,31,0,null
+Masters College,UC Santa Barbara,45,79,35,39,0,Russell Byrd missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,79,35,39,0,Korey Anderson Offensive Rebound.
+Masters College,UC Santa Barbara,45,79,35,44,0,Reid Shackelford missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,79,35,44,0,John Green Defensive Rebound.
+Masters College,UC Santa Barbara,45,81,35,55,1,Ami Lakoju made Jumper. Assisted by Hunter Ford.
+Masters College,UC Santa Barbara,45,81,36,23,0,Logan Quinn missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,81,36,23,0,Ami Lakoju Defensive Rebound.
+Masters College,UC Santa Barbara,45,84,36,36,1,Alex Hart made Three Point Jumper. Assisted by Eric Childress.
+Masters College,UC Santa Barbara,45,84,36,49,0,Russell Byrd missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,84,36,49,0,Eric Childress Defensive Rebound.
+Masters College,UC Santa Barbara,45,86,36,58,1,Alex Hart made Jumper. Assisted by Eric Childress.
+Masters College,UC Santa Barbara,45,86,37,18,0,Russell Byrd missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,86,37,18,0,Ami Lakoju Defensive Rebound.
+Masters College,UC Santa Barbara,45,86,37,28,0,Alex Hart missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,86,37,28,0,Reid Shackelford Defensive Rebound.
+Masters College,UC Santa Barbara,45,86,37,38,0,Russell Byrd Turnover.
+Masters College,UC Santa Barbara,45,86,37,42,0,Alex Hart missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,86,37,42,0,Hunter Ford Offensive Rebound.
+Masters College,UC Santa Barbara,45,88,37,48,1,Hunter Ford made Layup.
+Masters College,UC Santa Barbara,45,88,37,50,0,Foul on Chris Patureau.
+Masters College,UC Santa Barbara,45,88,37,50,0,Official TV Timeout
+Masters College,UC Santa Barbara,45,89,37,50,1,Hunter Ford made Free Throw.
+Masters College,UC Santa Barbara,45,89,37,57,0,Nicholas Paul Turnover.
+Masters College,UC Santa Barbara,45,89,37,58,0,Eric Childress Steal.
+Masters College,UC Santa Barbara,45,89,38,3,0,Hunter Ford missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,89,38,3,0,Tikko Moore Defensive Rebound.
+Masters College,UC Santa Barbara,45,89,38,21,0,Travis Divita missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,89,38,21,0,Eric Childress Defensive Rebound.
+Masters College,UC Santa Barbara,45,91,38,50,1,Alex Hart made Layup. Assisted by Eric Childress.
+Masters College,UC Santa Barbara,45,91,39,21,0,The Masters College  Timeout
+Masters College,UC Santa Barbara,45,91,39,32,0,Tikko Moore missed Three Point Jumper.
+Masters College,UC Santa Barbara,45,91,39,32,0,Eric Childress Defensive Rebound.
+Masters College,UC Santa Barbara,45,91,40,0,0,End of Game

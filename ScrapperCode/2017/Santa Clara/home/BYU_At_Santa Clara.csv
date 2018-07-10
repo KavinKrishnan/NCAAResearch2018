@@ -1,0 +1,325 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+BYU,Santa Clara,0,0,0,0,0,Jump Ball won by BYU
+BYU,Santa Clara,2,0,0,10,1,TJ Haws made Jumper. Assisted by L.J. Rose.
+BYU,Santa Clara,2,0,0,23,0,Emmanuel Ndumanya missed Layup.
+BYU,Santa Clara,2,0,0,23,0,Yoeli Childs Defensive Rebound.
+BYU,Santa Clara,2,0,0,32,0,Foul on Emmanuel Ndumanya.
+BYU,Santa Clara,5,0,0,34,1,TJ Haws made Three Point Jumper. Assisted by L.J. Rose.
+BYU,Santa Clara,5,0,0,46,0,Foul on KJ Feagin.
+BYU,Santa Clara,5,0,0,46,0,KJ Feagin Turnover.
+BYU,Santa Clara,5,0,1,5,0,TJ Haws Turnover.
+BYU,Santa Clara,5,0,1,17,0,Emmanuel Ndumanya Turnover.
+BYU,Santa Clara,5,0,1,24,0,Eric Mika Turnover.
+BYU,Santa Clara,5,0,1,24,0,KJ Feagin Steal.
+BYU,Santa Clara,5,3,1,38,1,KJ Feagin made Three Point Jumper. Assisted by Matt Hauser.
+BYU,Santa Clara,7,3,1,54,1,Yoeli Childs made Layup. Assisted by TJ Haws.
+BYU,Santa Clara,7,6,2,16,1,Nate Kratch made Three Point Jumper. Assisted by KJ Feagin.
+BYU,Santa Clara,7,6,2,33,0,Yoeli Childs Turnover.
+BYU,Santa Clara,7,6,2,33,0,Nate Kratch Steal.
+BYU,Santa Clara,7,6,2,56,0,Jared Brownridge missed Three Point Jumper.
+BYU,Santa Clara,7,6,2,56,0,L.J. Rose Defensive Rebound.
+BYU,Santa Clara,10,6,3,12,1,L.J. Rose made Three Point Jumper. Assisted by Nick Emery.
+BYU,Santa Clara,10,6,3,14,0,Foul on Eric Mika.
+BYU,Santa Clara,10,6,3,29,0,Matt Hauser missed Three Point Jumper.
+BYU,Santa Clara,10,6,3,29,0,Yoeli Childs Defensive Rebound.
+BYU,Santa Clara,10,6,3,37,0,TJ Haws Turnover.
+BYU,Santa Clara,10,6,3,37,0,Matt Hauser Steal.
+BYU,Santa Clara,10,9,3,57,1,Nate Kratch made Three Point Jumper. Assisted by Matt Hauser.
+BYU,Santa Clara,10,9,4,12,0,Nick Emery missed Three Point Jumper.
+BYU,Santa Clara,10,9,4,12,0,Nate Kratch Defensive Rebound.
+BYU,Santa Clara,10,9,4,23,0,Emmanuel Ndumanya missed Layup.
+BYU,Santa Clara,10,9,4,23,0,Eric Mika Block.
+BYU,Santa Clara,10,9,4,23,0,Eric Mika Defensive Rebound.
+BYU,Santa Clara,12,9,4,35,1,Eric Mika made Jumper. Assisted by L.J. Rose.
+BYU,Santa Clara,12,9,5,1,0,KJ Feagin missed Three Point Jumper.
+BYU,Santa Clara,12,9,5,1,0,Nick Emery Defensive Rebound.
+BYU,Santa Clara,12,9,5,14,0,Eric Mika missed Jumper.
+BYU,Santa Clara,12,9,5,14,0,Nate Kratch Block.
+BYU,Santa Clara,12,9,5,14,0,Nate Kratch Defensive Rebound.
+BYU,Santa Clara,12,9,5,26,0,Jared Brownridge missed Jumper.
+BYU,Santa Clara,12,9,5,26,0,Yoeli Childs Defensive Rebound.
+BYU,Santa Clara,12,9,5,37,0,L.J. Rose missed Layup.
+BYU,Santa Clara,12,9,5,37,0,Jared Brownridge Defensive Rebound.
+BYU,Santa Clara,12,9,5,48,0,Nate Kratch missed Three Point Jumper.
+BYU,Santa Clara,12,9,5,48,0,Yoeli Childs Defensive Rebound.
+BYU,Santa Clara,12,9,6,0,0,Eric Mika missed Layup.
+BYU,Santa Clara,12,9,6,0,0,Nate Kratch Defensive Rebound.
+BYU,Santa Clara,12,11,6,13,1,Jared Brownridge made Jumper.
+BYU,Santa Clara,12,11,6,27,0,Eric Mika missed Jumper.
+BYU,Santa Clara,12,11,6,27,0,Yoeli Childs Offensive Rebound.
+BYU,Santa Clara,14,11,6,34,1,Yoeli Childs made Layup.
+BYU,Santa Clara,14,11,7,0,0,Official TV Timeout
+BYU,Santa Clara,14,11,7,12,0,Foul on Braiden Shaw.
+BYU,Santa Clara,14,12,7,12,1,Matt Hauser made Free Throw.
+BYU,Santa Clara,14,13,7,12,1,Matt Hauser made Free Throw.
+BYU,Santa Clara,14,13,7,32,0,Foul on Henrik Jadersten.
+BYU,Santa Clara,14,13,7,36,0,TJ Haws missed Three Point Jumper.
+BYU,Santa Clara,14,13,7,36,0,Matt Hauser Defensive Rebound.
+BYU,Santa Clara,14,13,7,51,0,Nate Kratch missed Layup.
+BYU,Santa Clara,14,13,7,51,0,Nate Kratch Offensive Rebound.
+BYU,Santa Clara,14,13,8,15,0,Foul on Nick Emery.
+BYU,Santa Clara,14,13,8,15,0,Official TV Timeout
+BYU,Santa Clara,14,13,8,35,0,Emmanuel Ndumanya Turnover.
+BYU,Santa Clara,14,13,8,35,0,Eric Mika Steal.
+BYU,Santa Clara,14,13,9,2,0,TJ Haws missed Three Point Jumper.
+BYU,Santa Clara,14,13,9,2,0,KJ Feagin Defensive Rebound.
+BYU,Santa Clara,14,13,9,13,0,KJ Feagin missed Jumper.
+BYU,Santa Clara,14,13,9,13,0,Elijah Bryant Defensive Rebound.
+BYU,Santa Clara,17,13,9,19,1,Nick Emery made Three Point Jumper. Assisted by TJ Haws.
+BYU,Santa Clara,17,13,9,41,0,Foul on KJ Feagin.
+BYU,Santa Clara,17,13,9,41,0,KJ Feagin Turnover.
+BYU,Santa Clara,17,13,9,47,0,Foul on Corbin Kaufusi.
+BYU,Santa Clara,17,13,9,47,0,Corbin Kaufusi Turnover.
+BYU,Santa Clara,17,13,10,10,0,KJ Feagin missed Three Point Jumper.
+BYU,Santa Clara,17,13,10,10,0,Corbin Kaufusi Defensive Rebound.
+BYU,Santa Clara,17,13,10,14,0,Corbin Kaufusi Turnover.
+BYU,Santa Clara,17,16,10,29,1,Jared Brownridge made Three Point Jumper. Assisted by Matt Hauser.
+BYU,Santa Clara,17,16,10,51,0,Elijah Bryant Turnover.
+BYU,Santa Clara,17,16,10,53,0,BYU  Timeout
+BYU,Santa Clara,17,16,11,6,0,Foul on Elijah Bryant.
+BYU,Santa Clara,17,16,11,30,0,Jared Brownridge missed Three Point Jumper.
+BYU,Santa Clara,17,16,11,30,0,Emmanuel Ndumanya Offensive Rebound.
+BYU,Santa Clara,17,18,11,36,1,Emmanuel Ndumanya made Layup.
+BYU,Santa Clara,17,18,11,46,0,Yoeli Childs Turnover.
+BYU,Santa Clara,17,18,11,46,0,Jared Brownridge Steal.
+BYU,Santa Clara,17,20,11,51,1,Matt Hauser made Layup. Assisted by Jared Brownridge.
+BYU,Santa Clara,17,20,12,11,0,L.J. Rose Turnover.
+BYU,Santa Clara,17,20,12,11,0,Official TV Timeout
+BYU,Santa Clara,17,23,12,35,1,Jared Brownridge made Three Point Jumper. Assisted by KJ Feagin.
+BYU,Santa Clara,17,23,12,49,0,Nick Emery Turnover.
+BYU,Santa Clara,17,23,13,15,0,Nate Kratch missed Jumper.
+BYU,Santa Clara,17,23,13,15,0,Eric Mika Defensive Rebound.
+BYU,Santa Clara,17,23,13,34,0,Eric Mika missed Layup.
+BYU,Santa Clara,17,23,13,34,0,Evan Wardlow Defensive Rebound.
+BYU,Santa Clara,17,26,13,57,1,Nate Kratch made Three Point Jumper. Assisted by Jared Brownridge.
+BYU,Santa Clara,17,26,14,12,0,Jamal Aytes missed Jumper.
+BYU,Santa Clara,17,26,14,12,0,KJ Feagin Defensive Rebound.
+BYU,Santa Clara,17,26,14,18,0,Foul on Elijah Bryant.
+BYU,Santa Clara,17,26,14,28,0,KJ Feagin Turnover.
+BYU,Santa Clara,17,26,14,35,0,Foul on Matt Hauser.
+BYU,Santa Clara,17,26,14,38,0,Foul on Emmanuel Ndumanya.
+BYU,Santa Clara,18,26,14,38,1,TJ Haws made Free Throw.
+BYU,Santa Clara,19,26,14,38,1,TJ Haws made Free Throw.
+BYU,Santa Clara,19,26,14,38,0,TJ Haws missed Free Throw.
+BYU,Santa Clara,19,26,14,38,0,Nate Kratch Defensive Rebound.
+BYU,Santa Clara,19,29,14,52,1,Jared Brownridge made Three Point Jumper. Assisted by Matt Hauser.
+BYU,Santa Clara,19,29,15,5,0,Jamal Aytes Turnover.
+BYU,Santa Clara,19,29,15,21,0,Henrik Jadersten missed Three Point Jumper.
+BYU,Santa Clara,19,29,15,21,0,Eric Mika Defensive Rebound.
+BYU,Santa Clara,19,29,15,28,0,TJ Haws missed Three Point Jumper.
+BYU,Santa Clara,19,29,15,28,0,Matt Hauser Defensive Rebound.
+BYU,Santa Clara,19,29,15,55,0,Jared Brownridge Turnover.
+BYU,Santa Clara,21,29,16,9,1,TJ Haws made Jumper.
+BYU,Santa Clara,21,29,16,24,0,KJ Feagin missed Layup.
+BYU,Santa Clara,21,29,16,24,0,Eric Mika Block.
+BYU,Santa Clara,21,29,16,24,0,Santa Clara Offensive Rebound.
+BYU,Santa Clara,21,29,16,28,0,Official TV Timeout
+BYU,Santa Clara,21,29,16,43,0,Jared Brownridge missed Jumper.
+BYU,Santa Clara,21,29,16,43,0,BYU Deadball Team Rebound.
+BYU,Santa Clara,21,29,16,52,0,Eric Mika missed Layup.
+BYU,Santa Clara,21,29,16,52,0,Eric Mika Offensive Rebound.
+BYU,Santa Clara,21,29,16,52,0,Foul on Nate Kratch.
+BYU,Santa Clara,22,29,16,52,1,Eric Mika made Free Throw.
+BYU,Santa Clara,22,29,16,52,0,Eric Mika missed Free Throw.
+BYU,Santa Clara,22,29,16,52,0,Nate Kratch Defensive Rebound.
+BYU,Santa Clara,22,29,16,58,0,KJ Feagin missed Three Point Jumper.
+BYU,Santa Clara,22,29,16,58,0,Steven Beo Defensive Rebound.
+BYU,Santa Clara,24,29,17,13,1,Eric Mika made Layup. Assisted by Elijah Bryant.
+BYU,Santa Clara,24,32,17,35,1,Henrik Jadersten made Three Point Jumper. Assisted by KJ Feagin.
+BYU,Santa Clara,26,32,17,51,1,Eric Mika made Layup. Assisted by TJ Haws.
+BYU,Santa Clara,26,32,18,18,0,Henrik Jadersten missed Three Point Jumper.
+BYU,Santa Clara,26,32,18,18,0,Davin Guinn Defensive Rebound.
+BYU,Santa Clara,26,32,18,35,0,Eric Mika missed Layup.
+BYU,Santa Clara,26,32,18,35,0,Henrik Jadersten Block.
+BYU,Santa Clara,26,32,18,35,0,Eric Mika Offensive Rebound.
+BYU,Santa Clara,26,32,18,35,0,Foul on Henrik Jadersten.
+BYU,Santa Clara,27,32,18,35,1,Eric Mika made Free Throw.
+BYU,Santa Clara,28,32,18,35,1,Eric Mika made Free Throw.
+BYU,Santa Clara,28,34,18,52,1,Nate Kratch made Jumper. Assisted by Jared Brownridge.
+BYU,Santa Clara,28,34,19,0,0,TJ Haws Turnover.
+BYU,Santa Clara,28,34,19,27,0,KJ Feagin missed Three Point Jumper.
+BYU,Santa Clara,28,34,19,27,0,Davin Guinn Defensive Rebound.
+BYU,Santa Clara,28,34,19,59,0,Nick Emery missed Three Point Jumper.
+BYU,Santa Clara,28,34,19,59,0,Jared Brownridge Defensive Rebound.
+BYU,Santa Clara,28,34,20,0,0,End of 1st half
+BYU,Santa Clara,28,34,20,0,0,Jump Ball won by Santa Clara
+BYU,Santa Clara,28,34,20,21,0,Nate Kratch Turnover.
+BYU,Santa Clara,28,34,20,21,0,TJ Haws Steal.
+BYU,Santa Clara,28,34,20,34,0,TJ Haws missed Layup.
+BYU,Santa Clara,28,34,20,34,0,Eric Mika Offensive Rebound.
+BYU,Santa Clara,28,34,20,40,0,TJ Haws Turnover.
+BYU,Santa Clara,28,34,20,40,0,Matt Hauser Steal.
+BYU,Santa Clara,28,34,20,46,0,Jared Brownridge missed Jumper.
+BYU,Santa Clara,28,34,20,46,0,L.J. Rose Defensive Rebound.
+BYU,Santa Clara,28,34,20,56,0,Foul on Emmanuel Ndumanya.
+BYU,Santa Clara,29,34,20,56,1,Eric Mika made Free Throw.
+BYU,Santa Clara,30,34,20,56,1,Eric Mika made Free Throw.
+BYU,Santa Clara,30,36,21,22,1,Jared Brownridge made Layup.
+BYU,Santa Clara,30,36,21,30,0,Foul on Nate Kratch.
+BYU,Santa Clara,32,36,21,32,1,Eric Mika made Layup. Assisted by L.J. Rose.
+BYU,Santa Clara,32,36,21,45,0,Foul on L.J. Rose.
+BYU,Santa Clara,32,36,21,49,0,Foul on Yoeli Childs.
+BYU,Santa Clara,32,36,21,55,0,KJ Feagin missed Three Point Jumper.
+BYU,Santa Clara,32,36,21,55,0,TJ Haws Defensive Rebound.
+BYU,Santa Clara,32,36,22,2,0,TJ Haws missed Layup.
+BYU,Santa Clara,32,36,22,2,0,Henrik Jadersten Block.
+BYU,Santa Clara,32,36,22,2,0,Henrik Jadersten Defensive Rebound.
+BYU,Santa Clara,32,36,22,14,0,Matt Hauser missed Three Point Jumper.
+BYU,Santa Clara,32,36,22,14,0,L.J. Rose Defensive Rebound.
+BYU,Santa Clara,32,36,22,25,0,Foul on Eric Mika.
+BYU,Santa Clara,32,36,22,25,0,Eric Mika Turnover.
+BYU,Santa Clara,32,36,22,35,0,Jared Brownridge missed Three Point Jumper.
+BYU,Santa Clara,32,36,22,35,0,Yoeli Childs Defensive Rebound.
+BYU,Santa Clara,32,36,22,56,0,Nick Emery Turnover.
+BYU,Santa Clara,32,36,23,23,0,KJ Feagin missed Jumper.
+BYU,Santa Clara,32,36,23,23,0,Nate Kratch Offensive Rebound.
+BYU,Santa Clara,32,38,23,28,1,Nate Kratch made Layup.
+BYU,Santa Clara,32,38,23,36,0,Foul on Jared Brownridge.
+BYU,Santa Clara,32,38,23,36,0,Foul on Henrik Jadersten.
+BYU,Santa Clara,32,38,23,38,0,Foul on Henrik Jadersten.
+BYU,Santa Clara,32,38,23,38,0,Eric Mika missed Free Throw.
+BYU,Santa Clara,32,38,23,38,0,BYU Deadball Team Rebound.
+BYU,Santa Clara,33,38,23,38,1,Eric Mika made Free Throw.
+BYU,Santa Clara,33,38,24,4,0,Nate Kratch missed Three Point Jumper.
+BYU,Santa Clara,33,38,24,4,0,Elijah Bryant Defensive Rebound.
+BYU,Santa Clara,33,38,24,15,0,Eric Mika missed Layup.
+BYU,Santa Clara,33,38,24,15,0,KJ Feagin Defensive Rebound.
+BYU,Santa Clara,33,41,24,26,1,Matt Hauser made Three Point Jumper. Assisted by KJ Feagin.
+BYU,Santa Clara,35,41,24,41,1,Elijah Bryant made Layup. Assisted by Nick Emery.
+BYU,Santa Clara,35,43,25,4,1,Henrik Jadersten made Jumper. Assisted by Jared Brownridge.
+BYU,Santa Clara,35,43,25,16,0,Yoeli Childs missed Layup.
+BYU,Santa Clara,35,43,25,16,0,KJ Feagin Defensive Rebound.
+BYU,Santa Clara,35,46,25,32,1,KJ Feagin made Three Point Jumper. Assisted by Matt Hauser.
+BYU,Santa Clara,35,46,25,37,0,BYU  Timeout
+BYU,Santa Clara,35,46,25,37,0,Official TV Timeout
+BYU,Santa Clara,35,46,25,52,0,Nick Emery missed Three Point Jumper.
+BYU,Santa Clara,35,46,25,52,0,Henrik Jadersten Defensive Rebound.
+BYU,Santa Clara,35,46,26,7,0,Foul on Davin Guinn.
+BYU,Santa Clara,35,46,26,9,0,Official TV Timeout
+BYU,Santa Clara,35,46,26,24,0,Foul on TJ Haws.
+BYU,Santa Clara,35,46,26,35,0,Foul on Nick Emery.
+BYU,Santa Clara,35,46,26,38,0,Jared Brownridge missed Three Point Jumper.
+BYU,Santa Clara,35,46,26,38,0,Davin Guinn Defensive Rebound.
+BYU,Santa Clara,35,46,26,59,0,Foul on Henrik Jadersten.
+BYU,Santa Clara,35,46,27,9,0,Eric Mika missed Layup.
+BYU,Santa Clara,35,46,27,9,0,Nate Kratch Defensive Rebound.
+BYU,Santa Clara,35,46,27,32,0,Emmanuel Ndumanya missed Layup.
+BYU,Santa Clara,35,46,27,32,0,Eric Mika Block.
+BYU,Santa Clara,35,46,27,32,0,Eric Mika Defensive Rebound.
+BYU,Santa Clara,37,46,27,46,1,Eric Mika made Dunk. Assisted by Nick Emery.
+BYU,Santa Clara,37,46,27,58,0,Emmanuel Ndumanya Turnover.
+BYU,Santa Clara,37,46,28,9,0,Official TV Timeout
+BYU,Santa Clara,37,46,28,9,0,Foul on Jared Brownridge.
+BYU,Santa Clara,38,46,28,9,1,Nick Emery made Free Throw.
+BYU,Santa Clara,39,46,28,9,1,Nick Emery made Free Throw.
+BYU,Santa Clara,39,46,28,15,0,Matt Hauser missed Jumper.
+BYU,Santa Clara,39,46,28,15,0,Jared Brownridge Offensive Rebound.
+BYU,Santa Clara,39,46,28,37,0,Foul on Davin Guinn.
+BYU,Santa Clara,39,47,28,37,1,KJ Feagin made Free Throw.
+BYU,Santa Clara,39,48,28,37,1,KJ Feagin made Free Throw.
+BYU,Santa Clara,41,48,28,47,1,Eric Mika made Jumper.
+BYU,Santa Clara,41,48,29,13,0,Emmanuel Ndumanya Turnover.
+BYU,Santa Clara,41,48,29,13,0,Foul on Emmanuel Ndumanya.
+BYU,Santa Clara,41,48,29,24,0,Foul on Eric Mika.
+BYU,Santa Clara,41,48,29,24,0,Eric Mika Turnover.
+BYU,Santa Clara,41,48,30,0,0,Foul on Nick Emery.
+BYU,Santa Clara,41,49,30,0,1,Jared Brownridge made Free Throw.
+BYU,Santa Clara,41,50,30,0,1,Jared Brownridge made Free Throw.
+BYU,Santa Clara,41,50,30,15,0,TJ Haws missed Layup.
+BYU,Santa Clara,41,50,30,15,0,Emmanuel Ndumanya Defensive Rebound.
+BYU,Santa Clara,41,52,30,25,1,Jared Brownridge made Jumper.
+BYU,Santa Clara,41,52,30,36,0,Foul on Emmanuel Ndumanya.
+BYU,Santa Clara,41,52,30,36,0,Foul on Eric Mika.
+BYU,Santa Clara,43,52,30,46,1,Elijah Bryant made Layup.
+BYU,Santa Clara,43,55,30,56,1,Jared Brownridge made Three Point Jumper. Assisted by Matt Hauser.
+BYU,Santa Clara,43,55,31,5,0,Elijah Bryant missed Layup.
+BYU,Santa Clara,43,55,31,5,0,Nate Kratch Defensive Rebound.
+BYU,Santa Clara,43,55,31,15,0,Matt Hauser Turnover.
+BYU,Santa Clara,43,55,31,15,0,Davin Guinn Steal.
+BYU,Santa Clara,45,55,31,20,1,Davin Guinn made Layup.
+BYU,Santa Clara,45,58,31,39,1,KJ Feagin made Three Point Jumper. Assisted by Matt Hauser.
+BYU,Santa Clara,45,58,32,7,0,Foul on Nate Kratch.
+BYU,Santa Clara,45,58,32,7,0,Official TV Timeout
+BYU,Santa Clara,46,58,32,7,1,TJ Haws made Free Throw.
+BYU,Santa Clara,47,58,32,7,1,TJ Haws made Free Throw.
+BYU,Santa Clara,47,58,32,28,0,Foul on Yoeli Childs.
+BYU,Santa Clara,47,59,32,28,1,KJ Feagin made Free Throw.
+BYU,Santa Clara,47,60,32,28,1,KJ Feagin made Free Throw.
+BYU,Santa Clara,47,60,32,42,0,Foul on Evan Wardlow.
+BYU,Santa Clara,48,60,32,42,1,TJ Haws made Free Throw.
+BYU,Santa Clara,49,60,32,42,1,TJ Haws made Free Throw.
+BYU,Santa Clara,49,63,33,2,1,Nate Kratch made Three Point Jumper. Assisted by KJ Feagin.
+BYU,Santa Clara,49,63,33,18,0,TJ Haws missed Three Point Jumper.
+BYU,Santa Clara,49,63,33,18,0,KJ Feagin Defensive Rebound.
+BYU,Santa Clara,49,63,33,42,0,KJ Feagin Turnover.
+BYU,Santa Clara,49,63,33,42,0,TJ Haws Steal.
+BYU,Santa Clara,49,63,33,53,0,Elijah Bryant missed Three Point Jumper.
+BYU,Santa Clara,49,63,33,53,0,Yoeli Childs Offensive Rebound.
+BYU,Santa Clara,51,63,34,2,1,Yoeli Childs made Jumper.
+BYU,Santa Clara,51,63,34,29,0,Jared Brownridge Turnover.
+BYU,Santa Clara,51,63,34,29,0,Nick Emery Steal.
+BYU,Santa Clara,53,63,34,36,1,Elijah Bryant made Layup.
+BYU,Santa Clara,53,63,34,50,0,Santa Clara  Timeout
+BYU,Santa Clara,53,63,35,4,0,Jared Brownridge missed Three Point Jumper.
+BYU,Santa Clara,53,63,35,4,0,Yoeli Childs Defensive Rebound.
+BYU,Santa Clara,55,63,35,17,1,Yoeli Childs made Layup. Assisted by Elijah Bryant.
+BYU,Santa Clara,55,66,35,51,1,KJ Feagin made Three Point Jumper.
+BYU,Santa Clara,57,66,36,0,1,TJ Haws made Layup.
+BYU,Santa Clara,57,66,36,31,0,Foul on KJ Feagin.
+BYU,Santa Clara,57,66,36,31,0,KJ Feagin Turnover.
+BYU,Santa Clara,57,66,36,32,0,Official TV Timeout
+BYU,Santa Clara,57,66,36,32,0,Yoeli Childs missed Layup.
+BYU,Santa Clara,57,66,36,32,0,Yoeli Childs Offensive Rebound.
+BYU,Santa Clara,57,66,36,39,0,TJ Haws missed Three Point Jumper.
+BYU,Santa Clara,57,66,36,39,0,Nate Kratch Defensive Rebound.
+BYU,Santa Clara,57,66,36,58,0,Foul on Nick Emery.
+BYU,Santa Clara,57,66,36,58,0,Jared Brownridge missed Free Throw.
+BYU,Santa Clara,57,66,36,58,0,Santa Clara Deadball Team Rebound.
+BYU,Santa Clara,57,67,36,58,1,Jared Brownridge made Free Throw.
+BYU,Santa Clara,57,67,37,12,0,Eric Mika missed Layup.
+BYU,Santa Clara,57,67,37,12,0,Yoeli Childs Offensive Rebound.
+BYU,Santa Clara,57,67,37,14,0,Nick Emery missed Three Point Jumper.
+BYU,Santa Clara,57,67,37,14,0,Jared Brownridge Defensive Rebound.
+BYU,Santa Clara,57,67,37,22,0,Foul on TJ Haws.
+BYU,Santa Clara,57,68,37,22,1,Matt Hauser made Free Throw.
+BYU,Santa Clara,57,69,37,22,1,Matt Hauser made Free Throw.
+BYU,Santa Clara,57,69,37,34,0,Eric Mika Turnover.
+BYU,Santa Clara,57,69,37,59,0,Jared Brownridge missed Three Point Jumper.
+BYU,Santa Clara,57,69,37,59,0,Elijah Bryant Defensive Rebound.
+BYU,Santa Clara,57,69,38,9,0,Elijah Bryant Turnover.
+BYU,Santa Clara,57,69,38,9,0,Jared Brownridge Steal.
+BYU,Santa Clara,57,69,38,13,0,Jared Brownridge Turnover.
+BYU,Santa Clara,57,69,38,19,0,Foul on KJ Feagin.
+BYU,Santa Clara,58,69,38,19,1,Elijah Bryant made Free Throw.
+BYU,Santa Clara,59,69,38,19,1,Elijah Bryant made Free Throw.
+BYU,Santa Clara,59,71,38,48,1,Jared Brownridge made Layup.
+BYU,Santa Clara,61,71,39,0,1,Eric Mika made Layup. Assisted by Elijah Bryant.
+BYU,Santa Clara,61,71,39,1,0,BYU  Timeout
+BYU,Santa Clara,61,71,39,3,0,Nate Kratch Turnover.
+BYU,Santa Clara,61,71,39,3,0,Nick Emery Steal.
+BYU,Santa Clara,61,71,39,3,0,Nick Emery missed Three Point Jumper.
+BYU,Santa Clara,61,71,39,3,0,Jared Brownridge Defensive Rebound.
+BYU,Santa Clara,61,71,39,5,0,Foul on Nick Emery.
+BYU,Santa Clara,61,72,39,5,1,Jared Brownridge made Free Throw.
+BYU,Santa Clara,61,73,39,5,1,Jared Brownridge made Free Throw.
+BYU,Santa Clara,63,73,39,14,1,Elijah Bryant made Layup.
+BYU,Santa Clara,63,73,39,23,0,Jared Brownridge Turnover.
+BYU,Santa Clara,63,73,39,23,0,Elijah Bryant Steal.
+BYU,Santa Clara,63,73,39,25,0,Foul on Jared Brownridge.
+BYU,Santa Clara,64,73,39,25,1,Elijah Bryant made Free Throw.
+BYU,Santa Clara,64,73,39,25,0,Elijah Bryant missed Free Throw.
+BYU,Santa Clara,64,73,39,25,0,Evan Wardlow Defensive Rebound.
+BYU,Santa Clara,64,73,39,30,0,Foul on Yoeli Childs.
+BYU,Santa Clara,64,74,39,30,1,Evan Wardlow made Free Throw.
+BYU,Santa Clara,64,74,39,30,0,Evan Wardlow missed Free Throw.
+BYU,Santa Clara,64,74,39,30,0,Eric Mika Defensive Rebound.
+BYU,Santa Clara,64,74,39,39,0,Elijah Bryant missed Three Point Jumper.
+BYU,Santa Clara,64,74,39,39,0,Yoeli Childs Offensive Rebound.
+BYU,Santa Clara,64,74,39,39,0,Foul on Nate Kratch.
+BYU,Santa Clara,65,74,39,39,1,Eric Mika made Free Throw.
+BYU,Santa Clara,66,74,39,39,1,Eric Mika made Free Throw.
+BYU,Santa Clara,66,74,39,40,0,Foul on Davin Guinn.
+BYU,Santa Clara,66,75,39,40,1,Matt Hauser made Free Throw.
+BYU,Santa Clara,66,76,39,40,1,Matt Hauser made Free Throw.
+BYU,Santa Clara,68,76,39,57,1,Elijah Bryant made Layup.
+BYU,Santa Clara,68,76,40,0,0,End of Game

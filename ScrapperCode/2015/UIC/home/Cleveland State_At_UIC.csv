@@ -1,0 +1,337 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Cleveland State,UIC,0,0,0,6,0,Foul on Ahman Fells.
+Cleveland State,UIC,1,0,0,6,1,Trey Lewis made Free Throw.
+Cleveland State,UIC,1,0,0,6,0,Trey Lewis missed Free Throw.
+Cleveland State,UIC,1,0,0,6,0,Ahman Fells Defensive Rebound.
+Cleveland State,UIC,1,0,0,27,0,Gabe Snider missed Jumper.
+Cleveland State,UIC,1,0,0,27,0,UIC Offensive Rebound.
+Cleveland State,UIC,1,0,0,44,0,Marc Brown Turnover.
+Cleveland State,UIC,1,0,0,45,0,Trey Lewis Steal.
+Cleveland State,UIC,1,0,1,6,0,Foul on Marlin Mason.
+Cleveland State,UIC,1,0,1,6,0,Marlin Mason Turnover.
+Cleveland State,UIC,1,0,1,32,0,Ahman Fells Turnover.
+Cleveland State,UIC,1,0,2,1,0,Anton Grady missed Jumper.
+Cleveland State,UIC,1,0,2,1,0,Jake Wiegand Defensive Rebound.
+Cleveland State,UIC,1,0,2,23,0,Marc Brown missed Three Point Jumper.
+Cleveland State,UIC,1,0,2,23,0,Ahman Fells Offensive Rebound.
+Cleveland State,UIC,1,0,2,33,0,Gabe Snider missed Three Point Jumper.
+Cleveland State,UIC,1,0,2,33,0,Anton Grady Defensive Rebound.
+Cleveland State,UIC,3,0,2,44,1,Charlie Lee made Jumper.
+Cleveland State,UIC,3,3,2,55,1,Ahman Fells made Three Point Jumper. Assisted by D'Juan Miller.
+Cleveland State,UIC,5,3,3,22,1,Anton Grady made Layup. Assisted by Charlie Lee.
+Cleveland State,UIC,5,3,3,47,0,Ahman Fells missed Layup.
+Cleveland State,UIC,5,3,3,47,0,UIC Offensive Rebound.
+Cleveland State,UIC,5,3,3,54,0,Marc Brown Turnover.
+Cleveland State,UIC,5,3,3,58,0,Charlie Lee missed Jumper.
+Cleveland State,UIC,5,3,3,58,0,Ahman Fells Defensive Rebound.
+Cleveland State,UIC,5,5,4,20,1,Lance Whitaker made Layup.
+Cleveland State,UIC,7,5,4,41,1,Andre Yates made Layup. Assisted by Trey Lewis.
+Cleveland State,UIC,7,5,5,0,0,Ahman Fells missed Three Point Jumper.
+Cleveland State,UIC,7,5,5,0,0,UIC Offensive Rebound.
+Cleveland State,UIC,7,5,5,3,0,Official TV Timeout
+Cleveland State,UIC,7,5,5,13,0,Ahman Fells missed Jumper.
+Cleveland State,UIC,7,5,5,13,0,Anton Grady Defensive Rebound.
+Cleveland State,UIC,9,5,5,21,1,Marlin Mason made Dunk. Assisted by Charlie Lee.
+Cleveland State,UIC,9,5,5,40,0,Lance Whitaker Turnover.
+Cleveland State,UIC,11,5,5,58,1,Anton Grady made Dunk.
+Cleveland State,UIC,11,5,6,27,0,Paris Burns missed Jumper.
+Cleveland State,UIC,11,5,6,27,0,Paris Burns Offensive Rebound.
+Cleveland State,UIC,11,5,6,51,0,Jake Wiegand missed Layup.
+Cleveland State,UIC,11,5,6,51,0,Marlin Mason Block.
+Cleveland State,UIC,11,5,6,52,0,Paris Burns Offensive Rebound.
+Cleveland State,UIC,11,7,6,54,1,Paris Burns made Jumper.
+Cleveland State,UIC,11,7,7,0,0,Trey Lewis missed Three Point Jumper.
+Cleveland State,UIC,11,7,7,0,0,Marc Brown Defensive Rebound.
+Cleveland State,UIC,11,7,7,11,0,Paris Burns Turnover.
+Cleveland State,UIC,11,7,7,12,0,Andre Yates Steal.
+Cleveland State,UIC,11,7,7,14,0,Foul on Marc Brown.
+Cleveland State,UIC,12,7,7,14,1,Andre Yates made Free Throw.
+Cleveland State,UIC,12,7,7,14,0,Andre Yates missed Free Throw.
+Cleveland State,UIC,12,7,7,14,0,Marc Brown Defensive Rebound.
+Cleveland State,UIC,12,7,7,18,0,Foul on Andre Yates.
+Cleveland State,UIC,12,7,7,28,0,UIC  Timeout
+Cleveland State,UIC,12,7,7,39,0,Jay Harris missed Jumper.
+Cleveland State,UIC,12,7,7,39,0,Anton Grady Defensive Rebound.
+Cleveland State,UIC,12,7,7,57,0,Foul on Jake Wiegand.
+Cleveland State,UIC,12,7,7,57,0,Marlin Mason missed Free Throw.
+Cleveland State,UIC,12,7,7,57,0,Cleveland St Deadball Team Rebound.
+Cleveland State,UIC,13,7,7,57,1,Marlin Mason made Free Throw.
+Cleveland State,UIC,13,7,8,13,0,Jake Wiegand missed Jumper.
+Cleveland State,UIC,13,7,8,13,0,Cleveland St Defensive Rebound.
+Cleveland State,UIC,13,7,8,13,0,Official TV Timeout
+Cleveland State,UIC,13,7,8,21,0,Foul on Terrell Hales.
+Cleveland State,UIC,13,7,8,21,0,Terrell Hales Turnover.
+Cleveland State,UIC,13,7,8,47,0,Paris Burns missed Layup.
+Cleveland State,UIC,13,7,8,47,0,Jake Wiegand Offensive Rebound.
+Cleveland State,UIC,13,7,8,51,0,Foul on Anton Grady.
+Cleveland State,UIC,13,8,8,51,1,Marc Brown made Free Throw.
+Cleveland State,UIC,13,9,8,51,1,Marc Brown made Free Throw.
+Cleveland State,UIC,13,9,9,15,0,Kaza Keane Turnover.
+Cleveland State,UIC,13,11,9,31,1,Hans-Christian Lauer made Layup. Assisted by Lance Whitaker.
+Cleveland State,UIC,13,11,9,55,0,Kaza Keane Turnover.
+Cleveland State,UIC,13,11,9,55,0,Marc Brown Steal.
+Cleveland State,UIC,13,13,10,11,1,Hans-Christian Lauer made Jumper. Assisted by Jay Harris.
+Cleveland State,UIC,15,13,10,39,1,Vinny Zollo made Jumper.
+Cleveland State,UIC,15,13,11,1,0,Foul on Aaron Scales.
+Cleveland State,UIC,15,13,11,14,0,Jay Harris missed Jumper.
+Cleveland State,UIC,15,13,11,14,0,Lance Whitaker Offensive Rebound.
+Cleveland State,UIC,15,13,11,23,0,Jay Harris missed Jumper.
+Cleveland State,UIC,15,13,11,23,0,Trey Lewis Defensive Rebound.
+Cleveland State,UIC,17,13,11,36,1,Demonte Flannigan made Layup. Assisted by Vinny Zollo.
+Cleveland State,UIC,17,15,11,54,1,Jay Harris made Layup.
+Cleveland State,UIC,17,15,11,54,0,Foul on Demonte Flannigan.
+Cleveland State,UIC,17,16,11,54,1,Jay Harris made Free Throw.
+Cleveland State,UIC,17,16,12,10,0,Anton Grady Turnover.
+Cleveland State,UIC,17,16,12,10,0,Official TV Timeout
+Cleveland State,UIC,17,18,12,33,1,Jay Harris made Layup. Assisted by D'Juan Miller.
+Cleveland State,UIC,19,18,13,8,1,Trey Lewis made Layup. Assisted by Andre Yates.
+Cleveland State,UIC,19,18,13,31,0,Ahman Fells missed Three Point Jumper.
+Cleveland State,UIC,19,18,13,31,0,Anton Grady Defensive Rebound.
+Cleveland State,UIC,19,18,13,42,0,Kenny Carpenter missed Layup.
+Cleveland State,UIC,19,18,13,42,0,Ahman Fells Defensive Rebound.
+Cleveland State,UIC,19,18,13,51,0,Jay Harris Turnover.
+Cleveland State,UIC,21,18,13,59,1,Marlin Mason made Layup. Assisted by Anton Grady.
+Cleveland State,UIC,21,18,14,9,0,Jay Harris missed Layup.
+Cleveland State,UIC,21,18,14,9,0,Andre Yates Defensive Rebound.
+Cleveland State,UIC,23,18,14,13,1,Andre Yates made Layup.
+Cleveland State,UIC,23,20,14,33,1,Lance Whitaker made Jumper. Assisted by Jay Harris.
+Cleveland State,UIC,25,20,15,1,1,Anton Grady made Layup. Assisted by Trey Lewis.
+Cleveland State,UIC,25,20,15,1,0,Foul on Lance Whitaker.
+Cleveland State,UIC,26,20,15,1,1,Anton Grady made Free Throw.
+Cleveland State,UIC,26,22,15,21,1,Jake Wiegand made Layup. Assisted by Marc Brown.
+Cleveland State,UIC,26,22,15,31,0,Anton Grady missed Layup.
+Cleveland State,UIC,26,22,15,31,0,Jake Wiegand Defensive Rebound.
+Cleveland State,UIC,26,22,15,39,0,Jake Wiegand missed Layup.
+Cleveland State,UIC,26,22,15,39,0,Marlin Mason Block.
+Cleveland State,UIC,26,22,15,41,0,Anton Grady Defensive Rebound.
+Cleveland State,UIC,29,22,16,1,1,Trey Lewis made Three Point Jumper.
+Cleveland State,UIC,29,22,16,30,0,Foul on Kenny Carpenter.
+Cleveland State,UIC,29,22,16,30,0,Official TV Timeout
+Cleveland State,UIC,29,23,16,30,1,Marc Brown made Free Throw.
+Cleveland State,UIC,29,24,16,30,1,Marc Brown made Free Throw.
+Cleveland State,UIC,29,24,16,57,0,Charlie Lee Turnover.
+Cleveland State,UIC,29,24,16,57,0,Jay Harris Steal.
+Cleveland State,UIC,29,24,16,57,0,UIC  Timeout
+Cleveland State,UIC,29,26,17,30,1,Marc Brown made Jumper. Assisted by Jay Harris.
+Cleveland State,UIC,32,26,17,45,1,Marlin Mason made Three Point Jumper. Assisted by Charlie Lee.
+Cleveland State,UIC,32,26,18,10,0,Marc Brown Turnover.
+Cleveland State,UIC,32,26,18,12,0,Anton Grady Steal.
+Cleveland State,UIC,32,26,18,13,0,Anton Grady Turnover.
+Cleveland State,UIC,32,26,18,14,0,D'Juan Miller Steal.
+Cleveland State,UIC,32,28,18,18,1,Ahman Fells made Layup. Assisted by D'Juan Miller.
+Cleveland State,UIC,32,28,18,39,0,Foul on Marc Brown.
+Cleveland State,UIC,34,28,19,6,1,Anton Grady made Jumper. Assisted by Trey Lewis.
+Cleveland State,UIC,34,28,19,46,0,Ahman Fells missed Three Point Jumper.
+Cleveland State,UIC,34,28,19,46,0,Charlie Lee Defensive Rebound.
+Cleveland State,UIC,37,28,20,0,1,Trey Lewis made Three Point Jumper. Assisted by Charlie Lee.
+Cleveland State,UIC,37,28,20,0,0,End of 1st half
+Cleveland State,UIC,37,28,20,12,0,Anton Grady missed Jumper.
+Cleveland State,UIC,37,28,20,12,0,D'Juan Miller Defensive Rebound.
+Cleveland State,UIC,37,28,20,20,0,Gabe Snider missed Three Point Jumper.
+Cleveland State,UIC,37,28,20,20,0,Ahman Fells Offensive Rebound.
+Cleveland State,UIC,37,30,20,23,1,Ahman Fells made Layup.
+Cleveland State,UIC,37,30,20,52,0,Marlin Mason missed Three Point Jumper.
+Cleveland State,UIC,37,30,20,52,0,Jake Wiegand Defensive Rebound.
+Cleveland State,UIC,37,32,21,4,1,D'Juan Miller made Layup.
+Cleveland State,UIC,39,32,21,20,1,Anton Grady made Layup. Assisted by Marlin Mason.
+Cleveland State,UIC,39,34,21,39,1,Marc Brown made Layup.
+Cleveland State,UIC,39,34,21,39,0,Foul on Andre Yates.
+Cleveland State,UIC,39,34,21,39,0,Marc Brown missed Free Throw.
+Cleveland State,UIC,39,34,21,39,0,Anton Grady Defensive Rebound.
+Cleveland State,UIC,39,34,21,57,0,Andre Yates missed Three Point Jumper.
+Cleveland State,UIC,39,34,21,57,0,Marc Brown Defensive Rebound.
+Cleveland State,UIC,39,34,22,6,0,D'Juan Miller missed Three Point Jumper.
+Cleveland State,UIC,39,34,22,6,0,Anton Grady Defensive Rebound.
+Cleveland State,UIC,41,34,22,16,1,Andre Yates made Layup.
+Cleveland State,UIC,41,34,22,31,0,Foul on Charlie Lee.
+Cleveland State,UIC,41,34,22,51,0,Gabe Snider missed Layup.
+Cleveland State,UIC,41,34,22,51,0,Trey Lewis Block.
+Cleveland State,UIC,41,34,22,53,0,Marc Brown Offensive Rebound.
+Cleveland State,UIC,41,34,22,55,0,Marc Brown missed Layup.
+Cleveland State,UIC,41,34,22,55,0,Anton Grady Block.
+Cleveland State,UIC,41,34,22,57,0,Marc Brown Offensive Rebound.
+Cleveland State,UIC,41,34,22,58,0,Marc Brown Turnover.
+Cleveland State,UIC,41,34,22,58,0,Anton Grady Steal.
+Cleveland State,UIC,41,34,22,58,0,Cleveland St  Timeout
+Cleveland State,UIC,41,34,23,19,0,Marlin Mason Turnover.
+Cleveland State,UIC,41,34,23,29,0,Foul on Terrell Hales.
+Cleveland State,UIC,41,34,23,29,0,Jake Wiegand Turnover.
+Cleveland State,UIC,41,34,23,29,0,Trey Lewis Steal.
+Cleveland State,UIC,41,34,23,29,0,Trey Lewis missed Layup.
+Cleveland State,UIC,41,34,23,29,0,Marc Brown Defensive Rebound.
+Cleveland State,UIC,41,34,23,30,0,D'Juan Miller missed Layup.
+Cleveland State,UIC,41,34,23,30,0,Marlin Mason Block.
+Cleveland State,UIC,41,34,23,36,0,UIC Offensive Rebound.
+Cleveland State,UIC,41,34,24,3,0,Official TV Timeout
+Cleveland State,UIC,41,36,24,13,1,Ahman Fells made Layup. Assisted by D'Juan Miller.
+Cleveland State,UIC,41,36,24,31,0,Foul on Marc Brown.
+Cleveland State,UIC,42,36,24,31,1,Marlin Mason made Free Throw.
+Cleveland State,UIC,43,36,24,31,1,Marlin Mason made Free Throw.
+Cleveland State,UIC,43,38,24,45,1,Ahman Fells made Layup. Assisted by D'Juan Miller.
+Cleveland State,UIC,45,38,25,9,1,Anton Grady made Layup. Assisted by Marlin Mason.
+Cleveland State,UIC,45,38,25,38,0,Foul on Jake Wiegand.
+Cleveland State,UIC,45,38,25,38,0,Jake Wiegand Turnover.
+Cleveland State,UIC,47,38,25,58,1,Marlin Mason made Layup. Assisted by Trey Lewis.
+Cleveland State,UIC,47,38,26,4,0,Ahman Fells Turnover.
+Cleveland State,UIC,47,38,26,20,0,Foul on Marlin Mason.
+Cleveland State,UIC,47,38,26,20,0,Marlin Mason Turnover.
+Cleveland State,UIC,47,38,26,42,0,Lance Whitaker Turnover.
+Cleveland State,UIC,47,38,27,1,0,Anton Grady missed Layup.
+Cleveland State,UIC,47,38,27,1,0,Ahman Fells Block.
+Cleveland State,UIC,47,38,27,3,0,Jay Harris Defensive Rebound.
+Cleveland State,UIC,47,38,27,7,0,Lance Whitaker missed Layup.
+Cleveland State,UIC,47,38,27,7,0,Anton Grady Block.
+Cleveland State,UIC,47,38,27,9,0,UIC Offensive Rebound.
+Cleveland State,UIC,47,38,27,10,0,Foul on Anton Grady.
+Cleveland State,UIC,47,40,27,30,1,Ahman Fells made Layup. Assisted by Paris Burns.
+Cleveland State,UIC,47,40,27,52,0,Foul on Jay Harris.
+Cleveland State,UIC,48,40,27,52,1,Anton Grady made Free Throw.
+Cleveland State,UIC,49,40,27,52,1,Anton Grady made Free Throw.
+Cleveland State,UIC,49,42,28,8,1,Jay Harris made Layup.
+Cleveland State,UIC,49,42,28,24,0,Charlie Lee missed Three Point Jumper.
+Cleveland State,UIC,49,42,28,24,0,Ahman Fells Defensive Rebound.
+Cleveland State,UIC,49,45,28,54,1,Lance Whitaker made Three Point Jumper. Assisted by Jay Harris.
+Cleveland State,UIC,52,45,29,15,1,Charlie Lee made Three Point Jumper. Assisted by Vinny Zollo.
+Cleveland State,UIC,52,45,29,31,0,Foul on Vinny Zollo.
+Cleveland State,UIC,52,45,29,31,0,Official TV Timeout
+Cleveland State,UIC,52,46,29,31,1,Jake Wiegand made Free Throw.
+Cleveland State,UIC,52,46,29,31,0,Jake Wiegand missed Free Throw.
+Cleveland State,UIC,52,46,29,31,0,Ahman Fells Offensive Rebound.
+Cleveland State,UIC,52,46,29,47,0,Paris Burns Turnover.
+Cleveland State,UIC,52,46,29,48,0,Anton Grady Steal.
+Cleveland State,UIC,55,46,29,59,1,Charlie Lee made Three Point Jumper.
+Cleveland State,UIC,55,46,30,26,0,Ahman Fells missed Three Point Jumper.
+Cleveland State,UIC,55,46,30,26,0,Charlie Lee Defensive Rebound.
+Cleveland State,UIC,57,46,30,39,1,Anton Grady made Jumper. Assisted by Charlie Lee.
+Cleveland State,UIC,57,46,30,41,0,UIC  Timeout
+Cleveland State,UIC,57,46,30,53,0,Jay Harris missed Three Point Jumper.
+Cleveland State,UIC,57,46,30,53,0,Marc Brown Offensive Rebound.
+Cleveland State,UIC,57,48,30,57,1,Marc Brown made Layup.
+Cleveland State,UIC,60,48,31,9,1,Charlie Lee made Three Point Jumper.
+Cleveland State,UIC,60,48,31,27,0,Technical Foul on Jake Wiegand.
+Cleveland State,UIC,60,48,31,27,0,Foul on Jake Wiegand.
+Cleveland State,UIC,60,48,31,27,0,Technical Foul on Jake Wiegand.
+Cleveland State,UIC,60,48,31,27,0,Foul on Jake Wiegand.
+Cleveland State,UIC,60,48,31,27,0,Technical Foul on Anton Grady.
+Cleveland State,UIC,60,48,31,27,0,Foul on Anton Grady.
+Cleveland State,UIC,60,48,31,27,0,Technical Foul on Charlie Lee.
+Cleveland State,UIC,60,48,31,27,0,Foul on Charlie Lee.
+Cleveland State,UIC,60,48,31,39,0,Marc Brown missed Three Point Jumper.
+Cleveland State,UIC,60,48,31,39,0,Anton Grady Defensive Rebound.
+Cleveland State,UIC,60,48,32,3,0,Trey Lewis missed Jumper.
+Cleveland State,UIC,60,48,32,3,0,Hans-Christian Lauer Defensive Rebound.
+Cleveland State,UIC,60,48,32,11,0,Jay Harris missed Layup.
+Cleveland State,UIC,60,48,32,11,0,Andre Yates Defensive Rebound.
+Cleveland State,UIC,60,48,32,17,0,Foul on Lance Whitaker.
+Cleveland State,UIC,60,48,32,17,0,Official TV Timeout
+Cleveland State,UIC,60,48,32,34,0,Foul on D'Juan Miller.
+Cleveland State,UIC,61,48,32,34,1,Charlie Lee made Free Throw.
+Cleveland State,UIC,62,48,32,34,1,Charlie Lee made Free Throw.
+Cleveland State,UIC,62,48,32,50,0,Foul on Marlin Mason.
+Cleveland State,UIC,62,48,32,50,0,D'Juan Miller missed Free Throw.
+Cleveland State,UIC,62,48,32,50,0,UIC Deadball Team Rebound.
+Cleveland State,UIC,62,48,32,50,0,D'Juan Miller missed Free Throw.
+Cleveland State,UIC,62,48,32,50,0,Marlin Mason Defensive Rebound.
+Cleveland State,UIC,62,48,33,16,0,Anton Grady missed Dunk.
+Cleveland State,UIC,62,48,33,16,0,Anton Grady Offensive Rebound.
+Cleveland State,UIC,62,48,33,18,0,Foul on Hans-Christian Lauer.
+Cleveland State,UIC,62,48,33,18,0,Anton Grady missed Free Throw.
+Cleveland State,UIC,62,48,33,18,0,Marc Brown Defensive Rebound.
+Cleveland State,UIC,62,48,33,42,0,Jay Harris missed Layup.
+Cleveland State,UIC,62,48,33,42,0,Marlin Mason Block.
+Cleveland State,UIC,62,48,33,44,0,Lance Whitaker Offensive Rebound.
+Cleveland State,UIC,62,48,33,59,0,Foul on Marlin Mason.
+Cleveland State,UIC,62,49,33,59,1,Jay Harris made Free Throw.
+Cleveland State,UIC,62,50,33,59,1,Jay Harris made Free Throw.
+Cleveland State,UIC,62,50,34,4,0,Cleveland St  Timeout
+Cleveland State,UIC,62,50,34,17,0,Trey Lewis missed Three Point Jumper.
+Cleveland State,UIC,62,50,34,17,0,Ahman Fells Defensive Rebound.
+Cleveland State,UIC,62,50,34,27,0,D'Juan Miller missed Layup.
+Cleveland State,UIC,62,50,34,27,0,Derek Sloan Block.
+Cleveland State,UIC,62,50,34,28,0,Cleveland St Defensive Rebound.
+Cleveland State,UIC,62,50,34,58,0,Derek Sloan missed Layup.
+Cleveland State,UIC,62,50,34,58,0,Marc Brown Block.
+Cleveland State,UIC,62,50,35,0,0,Jay Harris Defensive Rebound.
+Cleveland State,UIC,62,50,35,4,0,Foul on Derek Sloan.
+Cleveland State,UIC,62,50,35,4,0,Ahman Fells missed Free Throw.
+Cleveland State,UIC,62,50,35,4,0,UIC Deadball Team Rebound.
+Cleveland State,UIC,62,50,35,4,0,Ahman Fells missed Free Throw.
+Cleveland State,UIC,62,50,35,4,0,Derek Sloan Defensive Rebound.
+Cleveland State,UIC,62,50,35,4,0,Charlie Lee missed Three Point Jumper.
+Cleveland State,UIC,62,50,35,4,0,UIC Defensive Rebound.
+Cleveland State,UIC,62,50,35,19,0,Jay Harris missed Three Point Jumper.
+Cleveland State,UIC,62,50,35,19,0,Cleveland St Defensive Rebound.
+Cleveland State,UIC,62,50,36,14,0,Trey Lewis missed Layup.
+Cleveland State,UIC,62,50,36,14,0,UIC Defensive Rebound.
+Cleveland State,UIC,62,50,36,15,0,Official TV Timeout
+Cleveland State,UIC,62,53,36,31,1,Marc Brown made Three Point Jumper. Assisted by Jay Harris.
+Cleveland State,UIC,64,53,36,58,1,Charlie Lee made Layup.
+Cleveland State,UIC,64,53,36,58,0,Foul on D'Juan Miller.
+Cleveland State,UIC,65,53,36,58,1,Charlie Lee made Free Throw.
+Cleveland State,UIC,65,53,37,9,0,Gabe Snider missed Three Point Jumper.
+Cleveland State,UIC,65,53,37,9,0,UIC Offensive Rebound.
+Cleveland State,UIC,65,53,37,19,0,Foul on Anton Grady.
+Cleveland State,UIC,65,54,37,19,1,Jay Harris made Free Throw.
+Cleveland State,UIC,65,55,37,19,1,Jay Harris made Free Throw.
+Cleveland State,UIC,67,55,37,49,1,Charlie Lee made Layup.
+Cleveland State,UIC,67,55,38,3,0,Foul on Derek Sloan.
+Cleveland State,UIC,67,56,38,3,1,Jay Harris made Free Throw.
+Cleveland State,UIC,67,57,38,3,1,Jay Harris made Free Throw.
+Cleveland State,UIC,67,57,38,31,0,Charlie Lee missed Jumper.
+Cleveland State,UIC,67,57,38,31,0,D'Juan Miller Defensive Rebound.
+Cleveland State,UIC,67,57,38,36,0,Jay Harris missed Three Point Jumper.
+Cleveland State,UIC,67,57,38,36,0,Gabe Snider Offensive Rebound.
+Cleveland State,UIC,67,57,38,42,0,Gabe Snider missed Three Point Jumper.
+Cleveland State,UIC,67,57,38,42,0,UIC Offensive Rebound.
+Cleveland State,UIC,67,57,38,43,0,Foul on Marlin Mason.
+Cleveland State,UIC,67,58,38,43,1,Marc Brown made Free Throw.
+Cleveland State,UIC,67,59,38,43,1,Marc Brown made Free Throw.
+Cleveland State,UIC,67,59,38,46,0,Foul on D'Juan Miller.
+Cleveland State,UIC,68,59,38,46,1,Derek Sloan made Free Throw.
+Cleveland State,UIC,69,59,38,46,1,Derek Sloan made Free Throw.
+Cleveland State,UIC,69,59,38,59,0,Ahman Fells missed Layup.
+Cleveland State,UIC,69,59,38,59,0,Ahman Fells Offensive Rebound.
+Cleveland State,UIC,69,59,39,2,0,Ahman Fells missed Two Point Tip Shot.
+Cleveland State,UIC,69,59,39,2,0,Ahman Fells Offensive Rebound.
+Cleveland State,UIC,69,59,39,3,0,Ahman Fells missed Two Point Tip Shot.
+Cleveland State,UIC,69,59,39,3,0,Anton Grady Defensive Rebound.
+Cleveland State,UIC,69,59,39,3,0,Foul on Ahman Fells.
+Cleveland State,UIC,70,59,39,3,1,Anton Grady made Free Throw.
+Cleveland State,UIC,70,59,39,3,0,Anton Grady missed Free Throw.
+Cleveland State,UIC,70,59,39,3,0,Ahman Fells Defensive Rebound.
+Cleveland State,UIC,70,59,39,10,0,Jay Harris missed Layup.
+Cleveland State,UIC,70,59,39,10,0,Derek Sloan Block.
+Cleveland State,UIC,70,59,39,10,0,UIC Offensive Rebound.
+Cleveland State,UIC,70,62,39,13,1,Marc Brown made Three Point Jumper. Assisted by Jay Harris.
+Cleveland State,UIC,70,62,39,14,0,UIC  Timeout
+Cleveland State,UIC,70,62,39,15,0,Foul on Jay Harris.
+Cleveland State,UIC,70,62,39,15,0,Trey Lewis missed Free Throw.
+Cleveland State,UIC,70,62,39,15,0,Cleveland St Deadball Team Rebound.
+Cleveland State,UIC,71,62,39,15,1,Trey Lewis made Free Throw.
+Cleveland State,UIC,71,65,39,19,1,Gabe Snider made Three Point Jumper. Assisted by Jay Harris.
+Cleveland State,UIC,71,65,39,20,0,Cleveland St  Timeout
+Cleveland State,UIC,73,65,39,28,1,Terrell Hales made Layup. Assisted by Anton Grady.
+Cleveland State,UIC,73,65,39,33,0,Foul on Trey Lewis.
+Cleveland State,UIC,73,65,39,33,0,Gabe Snider missed Free Throw.
+Cleveland State,UIC,73,65,39,33,0,UIC Deadball Team Rebound.
+Cleveland State,UIC,73,66,39,33,1,Gabe Snider made Free Throw.
+Cleveland State,UIC,73,66,39,36,0,Foul on Jay Harris.
+Cleveland State,UIC,73,66,39,36,0,Derek Sloan missed Free Throw.
+Cleveland State,UIC,73,66,39,36,0,Cleveland St Deadball Team Rebound.
+Cleveland State,UIC,73,66,39,36,0,Derek Sloan missed Free Throw.
+Cleveland State,UIC,73,66,39,36,0,Jay Harris Defensive Rebound.
+Cleveland State,UIC,73,66,39,46,0,D'Juan Miller missed Layup.
+Cleveland State,UIC,73,66,39,47,0,Anton Grady Block.
+Cleveland State,UIC,73,66,39,48,0,Gabe Snider Offensive Rebound.
+Cleveland State,UIC,73,66,39,49,0,Foul on Derek Sloan.
+Cleveland State,UIC,73,67,39,49,1,Marc Brown made Free Throw.
+Cleveland State,UIC,73,68,39,49,1,Marc Brown made Free Throw.
+Cleveland State,UIC,73,69,39,49,1,Marc Brown made Free Throw.
+Cleveland State,UIC,73,69,39,49,0,Cleveland St  Timeout
+Cleveland State,UIC,73,69,39,50,0,Foul on Jay Harris.
+Cleveland State,UIC,73,69,39,50,0,Trey Lewis missed Free Throw.
+Cleveland State,UIC,73,69,39,50,0,Cleveland St Deadball Team Rebound.
+Cleveland State,UIC,74,69,39,50,1,Trey Lewis made Free Throw.
+Cleveland State,UIC,74,69,39,55,0,Jay Harris missed Three Point Jumper.
+Cleveland State,UIC,74,69,39,55,0,Terrell Hales Defensive Rebound.
+Cleveland State,UIC,74,69,40,0,0,End of Game

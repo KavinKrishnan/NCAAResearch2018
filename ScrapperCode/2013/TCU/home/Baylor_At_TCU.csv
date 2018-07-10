@@ -1,0 +1,329 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Baylor,TCU,0,0,0,7,0,A.J. Walton Turnover.
+Baylor,TCU,0,0,0,28,0,Adrick McKinney Turnover.
+Baylor,TCU,0,0,0,30,0,A.J. Walton Steal.
+Baylor,TCU,0,0,0,59,0,Isaiah Austin missed Jumper.
+Baylor,TCU,0,0,0,59,0,Charles Hill Jr. Defensive Rebound.
+Baylor,TCU,0,0,1,28,0,Devonta Abron missed Jumper.
+Baylor,TCU,0,0,1,28,0,Cory Jefferson Defensive Rebound.
+Baylor,TCU,0,0,1,42,0,Pierre Jackson Turnover.
+Baylor,TCU,0,0,1,44,0,Kyan Anderson Steal.
+Baylor,TCU,0,0,1,50,0,Adrick McKinney missed Jumper.
+Baylor,TCU,0,0,1,50,0,Isaiah Austin Defensive Rebound.
+Baylor,TCU,0,0,1,58,0,Cory Jefferson missed Dunk.
+Baylor,TCU,0,0,1,58,0,Garlon Green Defensive Rebound.
+Baylor,TCU,0,0,2,23,0,Charles Hill Jr. missed Jumper.
+Baylor,TCU,0,0,2,23,0,A.J. Walton Defensive Rebound.
+Baylor,TCU,0,0,2,30,0,Pierre Jackson missed Three Point Jumper.
+Baylor,TCU,0,0,2,30,0,Cory Jefferson Offensive Rebound.
+Baylor,TCU,2,0,2,34,1,Cory Jefferson made Jumper.
+Baylor,TCU,2,0,3,4,0,Garlon Green Turnover.
+Baylor,TCU,2,0,3,19,0,Foul on Devonta Abron
+Baylor,TCU,3,0,3,19,1,Isaiah Austin made Free Throw.
+Baylor,TCU,4,0,3,19,1,Isaiah Austin made Free Throw.
+Baylor,TCU,4,0,3,47,0,Devonta Abron missed Layup.
+Baylor,TCU,4,0,3,47,0,Baylor Defensive Rebound.
+Baylor,TCU,4,0,3,47,0,TCU Full Timeout.
+Baylor,TCU,4,0,4,5,0,Cory Jefferson missed Jumper.
+Baylor,TCU,4,0,4,5,0,Adrick McKinney Defensive Rebound.
+Baylor,TCU,4,0,4,23,0,Adrick McKinney missed Layup.
+Baylor,TCU,4,0,4,23,0,A.J. Walton Defensive Rebound.
+Baylor,TCU,7,0,4,32,1,Pierre Jackson made Three Point Jumper.  Assisted by A.J. Walton.
+Baylor,TCU,7,0,5,0,0,Garlon Green missed Jumper.
+Baylor,TCU,7,0,5,0,0,Devonta Abron Offensive Rebound.
+Baylor,TCU,7,2,5,10,1,Adrick McKinney made Layup.
+Baylor,TCU,7,2,5,10,0,Foul on Cory Jefferson
+Baylor,TCU,7,2,5,10,0,Official TV Timeout.
+Baylor,TCU,7,3,5,10,1,Adrick McKinney made Free Throw.
+Baylor,TCU,7,3,5,20,0,Foul on Chris Zurcher
+Baylor,TCU,7,3,5,29,0,Foul on Chris Zurcher
+Baylor,TCU,8,3,5,29,1,Pierre Jackson made Free Throw.
+Baylor,TCU,9,3,5,29,1,Pierre Jackson made Free Throw.
+Baylor,TCU,9,3,5,45,0,Connell Crossland missed Layup.
+Baylor,TCU,9,3,5,45,0,Isaiah Austin Block.
+Baylor,TCU,9,3,5,47,0,A.J. Walton Defensive Rebound.
+Baylor,TCU,11,3,6,3,1,Rico Gathers made Layup.  Assisted by A.J. Walton.
+Baylor,TCU,11,3,6,16,0,Foul on A.J. Walton
+Baylor,TCU,11,3,6,24,0,Adrick McKinney missed Layup.
+Baylor,TCU,11,3,6,24,0,Gary Franklin Defensive Rebound.
+Baylor,TCU,13,3,6,32,1,Isaiah Austin made Jumper.  Assisted by Gary Franklin.
+Baylor,TCU,13,3,6,53,0,Garlon Green missed Jumper.
+Baylor,TCU,13,3,6,53,0,Connell Crossland Offensive Rebound.
+Baylor,TCU,13,5,6,56,1,Connell Crossland made Layup.
+Baylor,TCU,13,5,7,6,0,Pierre Jackson missed Three Point Jumper.
+Baylor,TCU,13,5,7,6,0,Kyan Anderson Defensive Rebound.
+Baylor,TCU,13,5,7,33,0,Foul on Rico Gathers
+Baylor,TCU,13,6,7,33,1,Adrick McKinney made Free Throw.
+Baylor,TCU,13,6,7,33,0,Adrick McKinney missed Free Throw.
+Baylor,TCU,13,6,7,33,0,null
+Baylor,TCU,13,6,7,45,0,A.J. Walton missed Jumper.
+Baylor,TCU,13,6,7,45,0,Kyan Anderson Defensive Rebound.
+Baylor,TCU,13,6,8,4,0,Foul on A.J. Walton
+Baylor,TCU,13,6,8,4,0,Official TV Timeout.
+Baylor,TCU,13,6,8,26,0,Connell Crossland missed Jumper.
+Baylor,TCU,13,6,8,26,0,Baylor Defensive Rebound.
+Baylor,TCU,15,6,8,45,1,Brady Heslip made Jumper.
+Baylor,TCU,15,6,9,3,0,Devonta Abron Turnover.
+Baylor,TCU,15,6,9,18,0,Cory Jefferson Turnover.
+Baylor,TCU,15,6,9,18,0,Foul on Cory Jefferson
+Baylor,TCU,15,6,9,37,0,Garlon Green missed Jumper.
+Baylor,TCU,15,6,9,37,0,Brady Heslip Defensive Rebound.
+Baylor,TCU,15,6,10,2,0,Isaiah Austin Turnover.
+Baylor,TCU,15,6,10,3,0,Kyan Anderson Steal.
+Baylor,TCU,15,9,10,9,1,Nate Butler Lind made Three Point Jumper.  Assisted by Kyan Anderson.
+Baylor,TCU,15,9,10,32,0,Brady Heslip missed Jumper.
+Baylor,TCU,15,9,10,32,0,Kyan Anderson Defensive Rebound.
+Baylor,TCU,15,9,10,44,0,Garlon Green Turnover.
+Baylor,TCU,15,9,10,44,0,Foul on Garlon Green
+Baylor,TCU,15,9,11,1,0,Foul on Pierre Jackson
+Baylor,TCU,15,9,11,1,0,Foul on Garlon Green
+Baylor,TCU,16,9,11,1,1,Pierre Jackson made Free Throw.
+Baylor,TCU,17,9,11,1,1,Pierre Jackson made Free Throw.
+Baylor,TCU,17,9,11,11,0,Pierre Jackson missed Jumper.
+Baylor,TCU,17,9,11,11,0,Pierre Jackson Offensive Rebound.
+Baylor,TCU,17,9,11,29,0,Isaiah Austin missed Jumper.
+Baylor,TCU,17,9,11,29,0,Charles Hill Jr. Defensive Rebound.
+Baylor,TCU,17,11,11,35,1,Nate Butler Lind made Layup.  Assisted by Kyan Anderson.
+Baylor,TCU,20,11,11,51,1,Brady Heslip made Three Point Jumper.  Assisted by Deuce Bello.
+Baylor,TCU,20,13,12,24,1,Kyan Anderson made Jumper.
+Baylor,TCU,20,13,12,32,0,Pierre Jackson missed Jumper.
+Baylor,TCU,20,13,12,32,0,Devonta Abron Block.
+Baylor,TCU,20,13,12,34,0,Pierre Jackson Offensive Rebound.
+Baylor,TCU,23,13,12,38,1,Brady Heslip made Three Point Jumper.  Assisted by Pierre Jackson.
+Baylor,TCU,23,13,13,3,0,Kyan Anderson missed Three Point Jumper.
+Baylor,TCU,23,13,13,3,0,Isaiah Austin Defensive Rebound.
+Baylor,TCU,23,13,13,14,0,Pierre Jackson Turnover.
+Baylor,TCU,23,13,13,15,0,Kyan Anderson Steal.
+Baylor,TCU,23,13,13,18,0,Charles Hill Jr. missed Layup.
+Baylor,TCU,23,13,13,18,0,Deuce Bello Block.
+Baylor,TCU,23,13,13,18,0,TCU Offensive Rebound.
+Baylor,TCU,23,13,13,19,0,Official TV Timeout.
+Baylor,TCU,23,15,13,26,1,Connell Crossland made Dunk.  Assisted by Chris Zurcher.
+Baylor,TCU,25,15,13,47,1,Isaiah Austin made Dunk.  Assisted by Brady Heslip.
+Baylor,TCU,25,15,14,3,0,Charles Hill Jr. missed Jumper.
+Baylor,TCU,25,15,14,3,0,Rico Gathers Defensive Rebound.
+Baylor,TCU,28,15,14,10,1,Gary Franklin made Three Point Jumper.  Assisted by Pierre Jackson.
+Baylor,TCU,28,15,14,11,0,Foul on Connell Crossland
+Baylor,TCU,28,15,14,11,0,Connell Crossland Turnover.
+Baylor,TCU,30,15,14,25,1,Pierre Jackson made Layup.
+Baylor,TCU,30,15,14,52,0,Kyan Anderson missed Jumper.
+Baylor,TCU,30,15,14,52,0,Rico Gathers Defensive Rebound.
+Baylor,TCU,30,15,14,54,0,Foul on Devonta Abron
+Baylor,TCU,31,15,14,54,1,Rico Gathers made Free Throw.
+Baylor,TCU,31,15,14,54,0,Rico Gathers missed Free Throw.
+Baylor,TCU,31,15,14,54,0,Adrick McKinney Defensive Rebound.
+Baylor,TCU,31,17,15,8,1,Adrick McKinney made Jumper.
+Baylor,TCU,31,17,15,21,0,Isaiah Austin missed Jumper.
+Baylor,TCU,31,17,15,21,0,Rico Gathers Offensive Rebound.
+Baylor,TCU,33,17,15,24,1,Rico Gathers made Layup.
+Baylor,TCU,33,17,15,50,0,Charles Hill Jr. missed Jumper.
+Baylor,TCU,33,17,15,50,0,Rico Gathers Defensive Rebound.
+Baylor,TCU,36,17,15,59,1,Gary Franklin made Three Point Jumper.  Assisted by Pierre Jackson.
+Baylor,TCU,36,17,16,16,0,Kyan Anderson missed Layup.
+Baylor,TCU,36,17,16,16,0,Rico Gathers Defensive Rebound.
+Baylor,TCU,38,17,16,25,1,Isaiah Austin made Dunk.  Assisted by Pierre Jackson.
+Baylor,TCU,38,17,16,25,0,Foul on Connell Crossland
+Baylor,TCU,38,17,16,25,0,Official TV Timeout.
+Baylor,TCU,38,17,16,25,0,Team Technical Foul
+Baylor,TCU,39,17,16,25,1,Pierre Jackson made Free Throw.
+Baylor,TCU,40,17,16,25,1,Pierre Jackson made Free Throw.
+Baylor,TCU,41,17,16,25,1,Isaiah Austin made Free Throw.
+Baylor,TCU,41,17,16,46,0,Adrick McKinney missed Jumper.
+Baylor,TCU,41,17,16,46,0,Charles Hill Jr. Offensive Rebound.
+Baylor,TCU,41,19,16,48,1,Charles Hill Jr. made Tip Shot.
+Baylor,TCU,41,19,17,1,0,Gary Franklin Turnover.
+Baylor,TCU,41,19,17,2,0,Adrick McKinney Steal.
+Baylor,TCU,41,22,17,6,1,Kyan Anderson made Three Point Jumper.  Assisted by Nate Butler Lind.
+Baylor,TCU,41,22,17,34,0,Brady Heslip missed Three Point Jumper.
+Baylor,TCU,41,22,17,34,0,Charles Hill Jr. Block.
+Baylor,TCU,41,22,17,36,0,Charles Hill Jr. Defensive Rebound.
+Baylor,TCU,41,22,17,39,0,Kyan Anderson missed Layup.
+Baylor,TCU,41,22,17,39,0,Pierre Jackson Defensive Rebound.
+Baylor,TCU,41,22,17,42,0,Pierre Jackson Turnover.
+Baylor,TCU,41,22,17,43,0,Kyan Anderson Steal.
+Baylor,TCU,41,22,17,45,0,Foul on Pierre Jackson
+Baylor,TCU,41,23,17,45,1,Kyan Anderson made Free Throw.
+Baylor,TCU,41,24,17,45,1,Kyan Anderson made Free Throw.
+Baylor,TCU,41,24,17,51,0,Baylor Full Timeout.
+Baylor,TCU,41,24,18,3,0,Taurean Prince Turnover.
+Baylor,TCU,41,24,18,3,0,Connell Crossland Steal.
+Baylor,TCU,41,24,18,4,0,Foul on A.J. Walton
+Baylor,TCU,41,25,18,4,1,Nate Butler Lind made Free Throw.
+Baylor,TCU,41,26,18,4,1,Nate Butler Lind made Free Throw.
+Baylor,TCU,41,26,18,25,0,Rico Gathers missed Jumper.
+Baylor,TCU,41,26,18,25,0,Connell Crossland Defensive Rebound.
+Baylor,TCU,41,26,18,40,0,Adrick McKinney missed Layup.
+Baylor,TCU,41,26,18,40,0,Adrick McKinney Offensive Rebound.
+Baylor,TCU,41,26,18,40,0,Foul on Rico Gathers
+Baylor,TCU,41,26,18,40,0,Adrick McKinney missed Free Throw.
+Baylor,TCU,41,26,18,40,0,Isaiah Austin Defensive Rebound.
+Baylor,TCU,43,26,18,51,1,Rico Gathers made Dunk.  Assisted by Gary Franklin.
+Baylor,TCU,43,26,19,10,0,Charles Hill Jr. missed Three Point Jumper.
+Baylor,TCU,43,26,19,10,0,Rico Gathers Defensive Rebound.
+Baylor,TCU,43,26,19,17,0,Isaiah Austin Turnover.
+Baylor,TCU,43,26,19,47,0,Charles Hill Jr. missed Jumper.
+Baylor,TCU,43,26,19,47,0,Rico Gathers Defensive Rebound.
+Baylor,TCU,43,26,19,59,0,Pierre Jackson missed Three Point Jumper.
+Baylor,TCU,43,26,20,0,0,null
+Baylor,TCU,43,26,20,0,0,End of the 1st Half.
+Baylor,TCU,46,26,20,31,1,Pierre Jackson made Three Point Jumper.  Assisted by Rico Gathers.
+Baylor,TCU,46,28,20,55,1,Garlon Green made Jumper.  Assisted by Adrick McKinney.
+Baylor,TCU,46,28,21,17,0,A.J. Walton missed Three Point Jumper.
+Baylor,TCU,46,28,21,17,0,TCU Defensive Rebound.
+Baylor,TCU,46,28,21,46,0,Foul on Cory Jefferson
+Baylor,TCU,46,28,21,46,0,Adrick McKinney missed Free Throw.
+Baylor,TCU,46,28,21,46,0,null
+Baylor,TCU,46,29,21,46,1,Adrick McKinney made Free Throw.
+Baylor,TCU,46,29,22,6,0,Foul on Adrick McKinney
+Baylor,TCU,48,29,22,7,1,Isaiah Austin made Jumper.  Assisted by Pierre Jackson.
+Baylor,TCU,48,29,22,24,0,Kyan Anderson missed Three Point Jumper.
+Baylor,TCU,48,29,22,24,0,A.J. Walton Defensive Rebound.
+Baylor,TCU,48,29,22,34,0,Isaiah Austin missed Three Point Jumper.
+Baylor,TCU,48,29,22,34,0,Rico Gathers Offensive Rebound.
+Baylor,TCU,51,29,22,40,1,Pierre Jackson made Three Point Jumper.  Assisted by Rico Gathers.
+Baylor,TCU,51,29,22,53,0,Devonta Abron missed Jumper.
+Baylor,TCU,51,29,22,53,0,Isaiah Austin Defensive Rebound.
+Baylor,TCU,53,29,22,59,1,Rico Gathers made Dunk.  Assisted by A.J. Walton.
+Baylor,TCU,53,29,23,2,0,TCU Full Timeout.
+Baylor,TCU,53,29,23,11,0,Garlon Green missed Three Point Jumper.
+Baylor,TCU,53,29,23,11,0,Connell Crossland Offensive Rebound.
+Baylor,TCU,53,31,23,13,1,Connell Crossland made Dunk.
+Baylor,TCU,53,31,23,31,0,A.J. Walton missed Jumper.
+Baylor,TCU,53,31,23,31,0,Isaiah Austin Offensive Rebound.
+Baylor,TCU,53,31,23,34,0,Isaiah Austin missed Layup.
+Baylor,TCU,53,31,23,34,0,Kyan Anderson Defensive Rebound.
+Baylor,TCU,53,33,23,42,1,Connell Crossland made Layup.  Assisted by Kyan Anderson.
+Baylor,TCU,53,33,24,13,0,Brady Heslip missed Jumper.
+Baylor,TCU,53,33,24,13,0,Nate Butler Lind Block.
+Baylor,TCU,53,33,24,13,0,Baylor Offensive Rebound.
+Baylor,TCU,53,33,24,14,0,Official TV Timeout.
+Baylor,TCU,56,33,24,20,1,Isaiah Austin made Three Point Jumper.  Assisted by Gary Franklin.
+Baylor,TCU,56,33,24,45,0,Nate Butler Lind missed Jumper.
+Baylor,TCU,56,33,24,45,0,Gary Franklin Defensive Rebound.
+Baylor,TCU,56,33,24,51,0,Rico Gathers missed Layup.
+Baylor,TCU,56,33,24,51,0,Nate Butler Lind Block.
+Baylor,TCU,56,33,24,54,0,Nate Butler Lind Defensive Rebound.
+Baylor,TCU,56,33,25,4,0,Garlon Green missed Jumper.
+Baylor,TCU,56,33,25,4,0,Connell Crossland Offensive Rebound.
+Baylor,TCU,56,35,25,7,1,Connell Crossland made Tip Shot.
+Baylor,TCU,56,35,25,21,0,Pierre Jackson missed Jumper.
+Baylor,TCU,56,35,25,21,0,Isaiah Austin Offensive Rebound.
+Baylor,TCU,58,35,25,23,1,Isaiah Austin made Tip Shot.
+Baylor,TCU,58,35,25,57,0,Foul on A.J. Walton
+Baylor,TCU,58,35,26,4,0,Nate Butler Lind missed Jumper.
+Baylor,TCU,58,35,26,4,0,Garlon Green Offensive Rebound.
+Baylor,TCU,58,35,26,4,0,Foul on Brady Heslip
+Baylor,TCU,58,35,26,15,0,Foul on Isaiah Austin
+Baylor,TCU,58,35,26,15,0,Connell Crossland missed Free Throw.
+Baylor,TCU,58,35,26,15,0,null
+Baylor,TCU,58,35,26,15,0,Connell Crossland missed Free Throw.
+Baylor,TCU,58,35,26,15,0,Cory Jefferson Defensive Rebound.
+Baylor,TCU,58,35,26,28,0,Foul on Connell Crossland
+Baylor,TCU,58,35,26,32,0,Foul on Kyan Anderson
+Baylor,TCU,59,35,26,32,1,Rico Gathers made Free Throw.
+Baylor,TCU,59,35,26,32,0,Rico Gathers missed Free Throw.
+Baylor,TCU,59,35,26,32,0,Cory Jefferson Offensive Rebound.
+Baylor,TCU,59,35,26,34,0,TCU Full Timeout.
+Baylor,TCU,59,35,26,47,0,Foul on Devonta Abron
+Baylor,TCU,60,35,26,47,1,Rico Gathers made Free Throw.
+Baylor,TCU,60,35,26,47,0,Rico Gathers missed Free Throw.
+Baylor,TCU,60,35,26,47,0,Devonta Abron Defensive Rebound.
+Baylor,TCU,60,35,26,58,0,Garlon Green missed Jumper.
+Baylor,TCU,60,35,26,58,0,Cory Jefferson Defensive Rebound.
+Baylor,TCU,63,35,27,8,1,Gary Franklin made Three Point Jumper.
+Baylor,TCU,63,35,27,10,0,Baylor Full Timeout.
+Baylor,TCU,63,35,27,37,0,Foul on Rico Gathers
+Baylor,TCU,63,35,27,37,0,Adrick McKinney missed Free Throw.
+Baylor,TCU,63,35,27,37,0,null
+Baylor,TCU,63,36,27,37,1,Adrick McKinney made Free Throw.
+Baylor,TCU,63,36,27,49,0,Pierre Jackson Turnover.
+Baylor,TCU,63,36,28,5,0,Foul on Pierre Jackson
+Baylor,TCU,63,36,28,5,0,Official TV Timeout.
+Baylor,TCU,63,36,28,16,0,Foul on Cory Jefferson
+Baylor,TCU,63,37,28,16,1,Adrick McKinney made Free Throw.
+Baylor,TCU,63,37,28,16,0,Adrick McKinney missed Free Throw.
+Baylor,TCU,63,37,28,16,0,L.J. Rose Defensive Rebound.
+Baylor,TCU,63,37,28,49,0,Isaiah Austin missed Jumper.
+Baylor,TCU,63,37,28,49,0,Rico Gathers Offensive Rebound.
+Baylor,TCU,63,37,28,56,0,Foul on Devonta Abron
+Baylor,TCU,64,37,28,56,1,Rico Gathers made Free Throw.
+Baylor,TCU,65,37,28,56,1,Rico Gathers made Free Throw.
+Baylor,TCU,65,37,29,15,0,Connell Crossland Turnover.
+Baylor,TCU,65,37,29,31,0,Isaiah Austin missed Jumper.
+Baylor,TCU,65,37,29,31,0,Nate Butler Lind Defensive Rebound.
+Baylor,TCU,65,37,29,50,0,Nate Butler Lind missed Three Point Jumper.
+Baylor,TCU,65,37,29,50,0,Adrick McKinney Offensive Rebound.
+Baylor,TCU,65,37,29,53,0,Foul on Adrick McKinney
+Baylor,TCU,65,37,29,53,0,Adrick McKinney Turnover.
+Baylor,TCU,65,37,30,12,0,Pierre Jackson Turnover.
+Baylor,TCU,65,37,30,13,0,Connell Crossland Steal.
+Baylor,TCU,65,37,30,19,0,Foul on Pierre Jackson
+Baylor,TCU,65,38,30,19,1,Charles Hill Jr. made Free Throw.
+Baylor,TCU,65,39,30,19,1,Charles Hill Jr. made Free Throw.
+Baylor,TCU,65,39,30,38,0,L.J. Rose missed Layup.
+Baylor,TCU,65,39,30,38,0,Adrick McKinney Block.
+Baylor,TCU,65,39,30,39,0,Rico Gathers Offensive Rebound.
+Baylor,TCU,65,39,30,40,0,Foul on Connell Crossland
+Baylor,TCU,66,39,30,40,1,Rico Gathers made Free Throw.
+Baylor,TCU,67,39,30,40,1,Rico Gathers made Free Throw.
+Baylor,TCU,67,41,30,53,1,Adrick McKinney made Jumper.  Assisted by Clyde Smith III.
+Baylor,TCU,67,41,31,15,0,Baylor Full Timeout.
+Baylor,TCU,67,41,31,15,0,Pierre Jackson missed Jumper.
+Baylor,TCU,67,41,31,15,0,Isaiah Austin Offensive Rebound.
+Baylor,TCU,70,41,31,45,1,Pierre Jackson made Three Point Jumper.  Assisted by A.J. Walton.
+Baylor,TCU,70,43,32,15,1,Adrick McKinney made Jumper.
+Baylor,TCU,70,43,32,50,0,A.J. Walton missed Jumper.
+Baylor,TCU,70,43,32,50,0,A.J. Walton Offensive Rebound.
+Baylor,TCU,72,43,32,59,1,Isaiah Austin made Dunk.  Assisted by L.J. Rose.
+Baylor,TCU,72,45,33,15,1,Clyde Smith III made Jumper.
+Baylor,TCU,72,45,33,34,0,A.J. Walton Turnover.
+Baylor,TCU,72,45,33,34,0,Official TV Timeout.
+Baylor,TCU,72,45,33,55,0,Charles Hill Jr. missed Jumper.
+Baylor,TCU,72,45,33,55,0,Cory Jefferson Defensive Rebound.
+Baylor,TCU,72,45,34,1,0,Deuce Bello Turnover.
+Baylor,TCU,72,45,34,1,0,Foul on Deuce Bello
+Baylor,TCU,72,45,34,28,0,Foul on Taurean Prince
+Baylor,TCU,72,46,34,28,1,Garlon Green made Free Throw.
+Baylor,TCU,72,47,34,28,1,Garlon Green made Free Throw.
+Baylor,TCU,74,47,34,41,1,Cory Jefferson made Jumper.
+Baylor,TCU,74,47,35,5,0,Foul on Taurean Prince
+Baylor,TCU,74,48,35,5,1,Garlon Green made Free Throw.
+Baylor,TCU,74,49,35,5,1,Garlon Green made Free Throw.
+Baylor,TCU,74,49,35,16,0,Taurean Prince missed Three Point Jumper.
+Baylor,TCU,74,49,35,16,0,Clyde Smith III Defensive Rebound.
+Baylor,TCU,74,49,35,24,0,Charles Hill Jr. missed Layup.
+Baylor,TCU,74,49,35,24,0,Cory Jefferson Block.
+Baylor,TCU,74,49,35,26,0,Baylor Defensive Rebound.
+Baylor,TCU,76,49,35,47,1,Cory Jefferson made Jumper.
+Baylor,TCU,76,49,35,47,0,Foul on Devonta Abron
+Baylor,TCU,77,49,35,47,1,Cory Jefferson made Free Throw.
+Baylor,TCU,77,49,36,4,0,Nate Butler Lind missed Jumper.
+Baylor,TCU,77,49,36,4,0,Gary Franklin Defensive Rebound.
+Baylor,TCU,77,49,36,21,0,Taurean Prince missed Jumper.
+Baylor,TCU,77,49,36,21,0,Adrick McKinney Defensive Rebound.
+Baylor,TCU,77,49,36,51,0,Nate Butler Lind missed Layup.
+Baylor,TCU,77,49,36,51,0,Nate Butler Lind Offensive Rebound.
+Baylor,TCU,77,51,36,53,1,Nate Butler Lind made Tip Shot.
+Baylor,TCU,80,51,37,12,1,Gary Franklin made Three Point Jumper.  Assisted by Deuce Bello.
+Baylor,TCU,80,53,37,30,1,Connell Crossland made Jumper.  Assisted by Adrick McKinney.
+Baylor,TCU,80,53,37,37,0,Baylor Full Timeout.
+Baylor,TCU,80,53,37,45,0,L.J. Rose missed Three Point Jumper.
+Baylor,TCU,80,53,37,45,0,Adrick McKinney Defensive Rebound.
+Baylor,TCU,80,53,38,4,0,Official TV Timeout.
+Baylor,TCU,80,53,38,11,0,Foul on Deuce Bello
+Baylor,TCU,80,53,38,11,0,Nate Butler Lind missed Free Throw.
+Baylor,TCU,80,53,38,11,0,null
+Baylor,TCU,80,54,38,11,1,Nate Butler Lind made Free Throw.
+Baylor,TCU,82,54,38,25,1,Deuce Bello made Dunk.
+Baylor,TCU,82,54,38,57,0,Connell Crossland missed Layup.
+Baylor,TCU,82,54,38,57,0,Logan Lowery Defensive Rebound.
+Baylor,TCU,82,54,39,8,0,Taurean Prince missed Jumper.
+Baylor,TCU,82,54,39,8,0,Adrick McKinney Defensive Rebound.
+Baylor,TCU,82,54,39,21,0,Kemal Dincer missed Jumper.
+Baylor,TCU,82,54,39,21,0,Adrick McKinney Offensive Rebound.
+Baylor,TCU,82,54,39,24,0,Foul on Deuce Bello
+Baylor,TCU,82,55,39,24,1,Adrick McKinney made Free Throw.
+Baylor,TCU,82,56,39,24,1,Adrick McKinney made Free Throw.
+Baylor,TCU,82,56,39,57,0,L.J. Rose Turnover.
+Baylor,TCU,82,56,39,59,0,Connell Crossland Steal.
+Baylor,TCU,82,56,40,0,0,End Game

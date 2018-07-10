@@ -1,0 +1,258 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Mercer,UIC,0,0,0,6,0,Jakob Gollon Turnover.
+Mercer,UIC,0,0,0,9,0,Daniel Barnes Steal.
+Mercer,UIC,0,2,0,15,1,Josh Crittle made Jumper.
+Mercer,UIC,0,2,0,41,0,Travis Smith missed Three Point Jumper.
+Mercer,UIC,0,2,0,41,0,Monty Brown Offensive Rebound.
+Mercer,UIC,0,2,0,53,0,Foul on Marc Brown
+Mercer,UIC,0,2,1,13,0,Monty Brown missed Layup.
+Mercer,UIC,0,2,1,13,0,Marc Brown Defensive Rebound.
+Mercer,UIC,0,2,1,22,0,Gary Talton missed Three Point Jumper.
+Mercer,UIC,0,2,1,22,0,Mercer Defensive Rebound.
+Mercer,UIC,2,2,1,37,1,Jakob Gollon made Jumper.  Assisted by Monty Brown.
+Mercer,UIC,2,2,1,56,0,Marc Brown missed Three Point Jumper.
+Mercer,UIC,2,2,1,56,0,Jakob Gollon Defensive Rebound.
+Mercer,UIC,2,2,2,24,0,Travis Smith missed Jumper.
+Mercer,UIC,2,2,2,24,0,Daniel Barnes Defensive Rebound.
+Mercer,UIC,2,2,2,51,0,Foul on Jakob Gollon
+Mercer,UIC,2,3,2,51,1,Josh Crittle made Free Throw.
+Mercer,UIC,2,4,2,51,1,Josh Crittle made Free Throw.
+Mercer,UIC,2,4,2,58,0,Chris Smith Turnover.
+Mercer,UIC,2,4,3,5,0,Foul on Chris Smith
+Mercer,UIC,2,4,3,5,0,Daniel Barnes missed Three Point Jumper.
+Mercer,UIC,2,4,3,5,0,Travis Smith Defensive Rebound.
+Mercer,UIC,2,4,3,16,0,Travis Smith missed Jumper.
+Mercer,UIC,2,4,3,16,0,Travis Smith Offensive Rebound.
+Mercer,UIC,2,4,3,36,0,Monty Brown Turnover.
+Mercer,UIC,2,4,3,43,0,Daniel Barnes missed Jumper.
+Mercer,UIC,2,4,3,43,0,Bud Thomas Defensive Rebound.
+Mercer,UIC,2,4,3,56,0,Foul on Gary Talton
+Mercer,UIC,2,4,4,6,0,Jakob Gollon Turnover.
+Mercer,UIC,2,4,4,7,0,Josh Crittle Steal.
+Mercer,UIC,2,4,4,15,0,Hayden Humes missed Jumper.
+Mercer,UIC,2,4,4,15,0,Daniel Coursey Block.
+Mercer,UIC,2,4,4,16,0,Bud Thomas Defensive Rebound.
+Mercer,UIC,5,4,4,23,1,Travis Smith made Three Point Jumper.  Assisted by Bud Thomas.
+Mercer,UIC,5,7,4,42,1,Hayden Humes made Three Point Jumper.  Assisted by Josh Crittle.
+Mercer,UIC,5,7,5,14,0,Jakob Gollon missed Three Point Jumper.
+Mercer,UIC,5,7,5,14,0,Daniel Barnes Defensive Rebound.
+Mercer,UIC,5,7,5,25,0,Josh Crittle Turnover.
+Mercer,UIC,5,7,5,25,0,Official TV Timeout.
+Mercer,UIC,5,7,5,52,0,Travis Smith missed Jumper.
+Mercer,UIC,5,7,5,52,0,Will Simonton Defensive Rebound.
+Mercer,UIC,5,10,6,15,1,Marc Brown made Three Point Jumper.  Assisted by Hayden Humes.
+Mercer,UIC,7,10,6,52,1,Travis Smith made Jumper.
+Mercer,UIC,7,10,7,14,0,Joey Miller missed Jumper.
+Mercer,UIC,7,10,7,15,0,Mercer Defensive Rebound.
+Mercer,UIC,7,10,7,20,0,Bud Thomas missed Jumper.
+Mercer,UIC,7,10,7,20,0,Will Simonton Defensive Rebound.
+Mercer,UIC,7,10,7,28,0,Daniel Barnes Turnover.
+Mercer,UIC,7,10,7,29,0,Travis Smith Steal.
+Mercer,UIC,7,10,7,36,0,Foul on Daniel Barnes
+Mercer,UIC,7,10,8,6,0,Foul on Daniel Coursey
+Mercer,UIC,7,10,8,6,0,Daniel Coursey Turnover.
+Mercer,UIC,7,10,8,17,0,Foul on Daniel Coursey
+Mercer,UIC,7,10,8,17,0,Josh Crittle missed Free Throw.
+Mercer,UIC,7,10,8,17,0,null
+Mercer,UIC,7,10,8,17,0,Josh Crittle missed Free Throw.
+Mercer,UIC,7,10,8,17,0,Bud Thomas Defensive Rebound.
+Mercer,UIC,7,10,8,44,0,Foul on Josh Crittle
+Mercer,UIC,7,10,8,57,0,Jakob Gollon missed Jumper.
+Mercer,UIC,7,10,8,57,0,Gary Talton Defensive Rebound.
+Mercer,UIC,7,12,9,2,1,Gary Talton made Jumper.
+Mercer,UIC,7,12,9,13,0,Travis Smith Turnover.
+Mercer,UIC,7,12,9,14,0,Hayden Humes Steal.
+Mercer,UIC,7,14,9,17,1,Joey Miller made Layup.
+Mercer,UIC,7,14,9,44,0,Monty Brown Turnover.
+Mercer,UIC,7,14,9,52,0,Hayden Humes Steal.
+Mercer,UIC,7,14,9,53,0,Josh Crittle Turnover.
+Mercer,UIC,7,14,10,4,0,Foul on Josh Crittle
+Mercer,UIC,7,14,10,4,0,Travis Smith missed Free Throw.
+Mercer,UIC,7,14,10,4,0,null
+Mercer,UIC,8,14,10,4,1,Travis Smith made Free Throw.
+Mercer,UIC,8,14,10,30,0,Marc Brown missed Jumper.
+Mercer,UIC,8,14,10,30,0,Will Simonton Offensive Rebound.
+Mercer,UIC,8,14,11,1,0,Joey Miller missed Three Point Jumper.
+Mercer,UIC,8,14,11,1,0,T.J. Hallice Defensive Rebound.
+Mercer,UIC,8,14,11,28,0,Jakob Gollon Turnover.
+Mercer,UIC,8,14,11,36,0,Marc Brown missed Jumper.
+Mercer,UIC,8,14,11,36,0,Marc Brown Offensive Rebound.
+Mercer,UIC,8,14,11,39,0,Foul on T.J. Hallice
+Mercer,UIC,8,15,11,39,1,Marc Brown made Free Throw.
+Mercer,UIC,8,16,11,39,1,Marc Brown made Free Throw.
+Mercer,UIC,8,16,11,43,0,T.J. Hallice Turnover.
+Mercer,UIC,8,16,12,14,0,Hayden Humes missed Jumper.
+Mercer,UIC,8,16,12,14,0,Travis Smith Defensive Rebound.
+Mercer,UIC,10,16,12,32,1,Darious Moten made Dunk.
+Mercer,UIC,10,18,13,8,1,Gary Talton made Jumper.
+Mercer,UIC,10,18,13,8,0,Foul on Anthony White
+Mercer,UIC,10,18,13,8,0,Official TV Timeout.
+Mercer,UIC,10,19,13,8,1,Gary Talton made Free Throw.
+Mercer,UIC,10,19,13,13,0,Darious Moten Turnover.
+Mercer,UIC,10,19,13,36,0,Will Simonton missed Jumper.
+Mercer,UIC,10,19,13,36,0,Marc Brown Offensive Rebound.
+Mercer,UIC,10,19,13,43,0,Foul on Chris Smith
+Mercer,UIC,10,20,13,43,1,Marc Brown made Free Throw.
+Mercer,UIC,10,21,13,43,1,Marc Brown made Free Throw.
+Mercer,UIC,10,21,13,55,0,Bud Thomas missed Three Point Jumper.
+Mercer,UIC,10,21,13,55,0,Daniel Barnes Defensive Rebound.
+Mercer,UIC,10,21,14,11,0,Hayden Humes missed Jumper.
+Mercer,UIC,10,21,14,11,0,Bud Thomas Defensive Rebound.
+Mercer,UIC,10,21,14,37,0,Foul on Marc Brown
+Mercer,UIC,11,21,14,37,1,Darious Moten made Free Throw.
+Mercer,UIC,12,21,14,37,1,Darious Moten made Free Throw.
+Mercer,UIC,12,21,14,55,0,Gary Talton Turnover.
+Mercer,UIC,14,21,15,20,1,Kevin Canecari made Jumper.  Assisted by Bud Thomas.
+Mercer,UIC,14,23,15,41,1,Will Simonton made Layup.
+Mercer,UIC,16,23,15,53,1,Darious Moten made Layup.
+Mercer,UIC,16,23,16,25,0,Joey Miller Turnover.
+Mercer,UIC,16,23,16,52,0,Darious Moten missed Jumper.
+Mercer,UIC,16,23,16,52,0,Joey Miller Defensive Rebound.
+Mercer,UIC,16,23,16,59,0,Official TV Timeout.
+Mercer,UIC,16,26,17,6,1,Hayden Humes made Three Point Jumper.
+Mercer,UIC,16,26,17,28,0,Travis Smith missed Three Point Jumper.
+Mercer,UIC,16,26,17,28,0,Hayden Humes Defensive Rebound.
+Mercer,UIC,16,26,18,1,0,Ahman Fells missed Jumper.
+Mercer,UIC,16,26,18,1,0,Bud Thomas Block.
+Mercer,UIC,16,26,18,3,0,Travis Smith Defensive Rebound.
+Mercer,UIC,19,26,18,7,1,Jakob Gollon made Three Point Jumper.  Assisted by Travis Smith.
+Mercer,UIC,19,26,18,33,0,Illinois-Chicago Full Timeout.
+Mercer,UIC,19,28,18,48,1,Joey Miller made Jumper.
+Mercer,UIC,19,28,19,16,0,Foul on Joey Miller
+Mercer,UIC,19,28,19,16,0,Joey Miller Turnover.
+Mercer,UIC,19,28,19,48,0,Bud Thomas missed Three Point Jumper.
+Mercer,UIC,19,28,19,48,0,Ahman Fells Defensive Rebound.
+Mercer,UIC,19,30,19,57,1,Gary Talton made Layup.
+Mercer,UIC,19,30,20,0,0,End of the 1st Half.
+Mercer,UIC,19,30,20,17,0,Daniel Barnes missed Three Point Jumper.
+Mercer,UIC,19,30,20,17,0,Jay Parker Offensive Rebound.
+Mercer,UIC,19,30,20,20,0,Foul on Marc Brown
+Mercer,UIC,21,30,20,26,1,Chris Smith made Jumper.
+Mercer,UIC,21,33,20,44,1,Hayden Humes made Three Point Jumper.  Assisted by Joey Miller.
+Mercer,UIC,21,33,21,11,0,Foul on Gary Talton
+Mercer,UIC,21,33,21,22,0,Jakob Gollon missed Three Point Jumper.
+Mercer,UIC,21,33,21,22,0,Daniel Barnes Defensive Rebound.
+Mercer,UIC,21,33,21,37,0,Daniel Barnes Turnover.
+Mercer,UIC,21,33,21,50,0,Foul on Hayden Humes
+Mercer,UIC,23,33,22,1,1,Daniel Coursey made Layup.  Assisted by Jakob Gollon.
+Mercer,UIC,23,33,22,38,0,Josh Crittle missed Jumper.
+Mercer,UIC,23,33,22,38,0,Chris Smith Defensive Rebound.
+Mercer,UIC,23,33,22,49,0,Daniel Coursey missed Layup.
+Mercer,UIC,23,33,22,49,0,Daniel Barnes Defensive Rebound.
+Mercer,UIC,23,35,22,55,1,Daniel Barnes made Layup.
+Mercer,UIC,23,35,23,16,0,Daniel Coursey Turnover.
+Mercer,UIC,23,35,23,20,0,Foul on Chris Smith
+Mercer,UIC,23,35,23,24,0,Foul on Josh Crittle
+Mercer,UIC,23,35,23,24,0,Josh Crittle Turnover.
+Mercer,UIC,23,35,23,32,0,Monty Brown missed Layup.
+Mercer,UIC,23,35,23,32,0,Monty Brown Offensive Rebound.
+Mercer,UIC,25,35,23,34,1,Monty Brown made Tip Shot.
+Mercer,UIC,25,35,23,57,0,Joey Miller missed Layup.
+Mercer,UIC,25,35,23,57,0,Bud Thomas Block.
+Mercer,UIC,25,35,23,59,0,Travis Smith Defensive Rebound.
+Mercer,UIC,25,35,24,5,0,Chris Smith Turnover.
+Mercer,UIC,25,35,24,7,0,Will Simonton Steal.
+Mercer,UIC,25,35,24,10,0,Gary Talton missed Three Point Jumper.
+Mercer,UIC,25,35,24,10,0,Bud Thomas Defensive Rebound.
+Mercer,UIC,25,35,24,37,0,Monty Brown missed Layup.
+Mercer,UIC,25,35,24,37,0,Hayden Humes Defensive Rebound.
+Mercer,UIC,25,37,25,10,1,Hayden Humes made Jumper.  Assisted by Joey Miller.
+Mercer,UIC,25,37,25,29,0,Travis Smith missed Jumper.
+Mercer,UIC,25,37,25,29,0,Gary Talton Defensive Rebound.
+Mercer,UIC,25,37,25,36,0,Foul on Travis Smith
+Mercer,UIC,25,37,25,36,0,Official TV Timeout.
+Mercer,UIC,25,38,25,36,1,Daniel Barnes made Free Throw.
+Mercer,UIC,25,39,25,36,1,Daniel Barnes made Free Throw.
+Mercer,UIC,25,39,25,59,0,Jakob Gollon Turnover.
+Mercer,UIC,25,39,26,30,0,Joey Miller Turnover.
+Mercer,UIC,25,39,26,31,0,Jakob Gollon Steal.
+Mercer,UIC,25,39,26,45,0,Daniel Coursey missed Layup.
+Mercer,UIC,25,39,26,45,0,Kevin Canecari Offensive Rebound.
+Mercer,UIC,25,39,26,58,0,Foul on Daniel Barnes
+Mercer,UIC,25,39,27,3,0,Kevin Canecari Turnover.
+Mercer,UIC,25,39,27,5,0,Will Simonton Steal.
+Mercer,UIC,25,42,27,8,1,Daniel Barnes made Three Point Jumper.  Assisted by Jay Parker.
+Mercer,UIC,25,42,27,27,0,Bud Thomas Turnover.
+Mercer,UIC,25,42,27,27,0,Gary Talton Steal.
+Mercer,UIC,25,42,28,4,0,Daniel Barnes missed Three Point Jumper.
+Mercer,UIC,25,42,28,4,0,Illinois-Chicago Offensive Rebou.
+Mercer,UIC,25,42,28,7,0,Official TV Timeout.
+Mercer,UIC,25,42,28,28,0,Will Simonton missed Layup.
+Mercer,UIC,25,42,28,28,0,Darious Moten Defensive Rebound.
+Mercer,UIC,25,42,28,28,0,Foul on Hayden Humes
+Mercer,UIC,25,42,28,32,0,Foul on Will Simonton
+Mercer,UIC,25,42,28,32,0,T.J. Hallice missed Free Throw.
+Mercer,UIC,25,42,28,32,0,null
+Mercer,UIC,25,42,28,32,0,T.J. Hallice missed Free Throw.
+Mercer,UIC,25,42,28,32,0,Daniel Barnes Defensive Rebound.
+Mercer,UIC,25,45,28,48,1,Gary Talton made Three Point Jumper.  Assisted by Hayden Humes.
+Mercer,UIC,25,45,29,17,0,Jibri Bryan missed Jumper.
+Mercer,UIC,25,45,29,17,0,Hayden Humes Defensive Rebound.
+Mercer,UIC,25,47,29,42,1,Daniel Barnes made Layup.
+Mercer,UIC,25,47,29,47,0,Jibri Bryan Turnover.
+Mercer,UIC,25,47,29,48,0,Josh Crittle Steal.
+Mercer,UIC,25,50,30,2,1,Hayden Humes made Three Point Jumper.  Assisted by Gary Talton.
+Mercer,UIC,25,50,30,3,0,Mercer Full Timeout.
+Mercer,UIC,27,50,30,21,1,Travis Smith made Jumper.  Assisted by Chris Smith.
+Mercer,UIC,27,52,30,59,1,Gary Talton made Jumper.
+Mercer,UIC,29,52,31,14,1,Darious Moten made Layup.  Assisted by Jakob Gollon.
+Mercer,UIC,29,52,31,49,0,Marc Brown missed Jumper.
+Mercer,UIC,29,52,31,49,0,Jakob Gollon Defensive Rebound.
+Mercer,UIC,29,52,32,4,0,Darious Moten missed Jumper.
+Mercer,UIC,29,52,32,4,0,Gary Talton Defensive Rebound.
+Mercer,UIC,29,52,32,27,0,Josh Crittle missed Jumper.
+Mercer,UIC,29,52,32,27,0,Jakob Gollon Defensive Rebound.
+Mercer,UIC,29,52,32,37,0,Travis Smith missed Jumper.
+Mercer,UIC,29,52,32,37,0,Hayden Humes Defensive Rebound.
+Mercer,UIC,29,52,32,50,0,Foul on Kevin Canecari
+Mercer,UIC,29,53,32,50,1,Marc Brown made Free Throw.
+Mercer,UIC,29,53,32,50,0,Marc Brown missed Free Throw.
+Mercer,UIC,29,53,32,50,0,T.J. Hallice Defensive Rebound.
+Mercer,UIC,29,53,33,1,0,Daniel Coursey missed Layup.
+Mercer,UIC,29,53,33,1,0,Gary Talton Defensive Rebound.
+Mercer,UIC,29,53,33,25,0,Foul on Josh Crittle
+Mercer,UIC,29,53,33,42,0,Daniel Coursey missed Layup.
+Mercer,UIC,29,53,33,42,0,T.J. Hallice Offensive Rebound.
+Mercer,UIC,31,53,33,44,1,T.J. Hallice made Tip Shot.
+Mercer,UIC,31,55,34,15,1,Will Simonton made Layup.  Assisted by Gary Talton.
+Mercer,UIC,31,55,34,33,0,Bud Thomas Turnover.
+Mercer,UIC,31,55,34,35,0,Gary Talton Steal.
+Mercer,UIC,31,57,35,6,1,Will Simonton made Layup.  Assisted by Gary Talton.
+Mercer,UIC,31,57,35,24,0,Dylan Poston missed Three Point Jumper.
+Mercer,UIC,31,57,35,24,0,Daniel Barnes Defensive Rebound.
+Mercer,UIC,31,59,35,53,1,Gary Talton made Jumper.
+Mercer,UIC,31,59,36,6,0,Foul on Will Simonton
+Mercer,UIC,31,59,36,6,0,Official TV Timeout.
+Mercer,UIC,31,59,36,6,0,Daniel Coursey missed Free Throw.
+Mercer,UIC,31,59,36,6,0,Ahman Fells Defensive Rebound.
+Mercer,UIC,31,59,36,34,0,Jay Parker missed Layup.
+Mercer,UIC,31,59,36,34,0,Daniel Coursey Defensive Rebound.
+Mercer,UIC,31,59,36,42,0,Anthony White missed Three Point Jumper.
+Mercer,UIC,31,59,36,42,0,Gabe Snider Defensive Rebound.
+Mercer,UIC,31,59,36,57,0,Will Simonton missed Jumper.
+Mercer,UIC,31,59,36,57,0,Jibri Bryan Defensive Rebound.
+Mercer,UIC,31,59,37,8,0,Anthony White missed Jumper.
+Mercer,UIC,31,59,37,8,0,Will Simonton Defensive Rebound.
+Mercer,UIC,31,59,37,25,0,Jake Wiegand Turnover.
+Mercer,UIC,31,59,37,46,0,Daniel Coursey missed Layup.
+Mercer,UIC,31,59,37,46,0,Anthony Kelley Defensive Rebound.
+Mercer,UIC,31,62,38,5,1,Jake Wiegand made Three Point Jumper.
+Mercer,UIC,31,62,38,17,0,Foul on Ahman Fells
+Mercer,UIC,32,62,38,17,1,Jibri Bryan made Free Throw.
+Mercer,UIC,32,63,38,17,1,Jibri Bryan made Free Throw.
+Mercer,UIC,33,64,38,42,1,Lawrence Brown made Jumper.
+Mercer,UIC,33,64,38,47,0,Jake Wiegand missed Jumper.
+Mercer,UIC,33,64,38,47,0,Jake Wiegand Offensive Rebound.
+Mercer,UIC,33,64,38,47,0,Foul on Chris Smith
+Mercer,UIC,33,64,38,48,0,Jay Parker missed Jumper.
+Mercer,UIC,33,64,38,48,0,Jibri Bryan Defensive Rebound.
+Mercer,UIC,33,64,39,19,0,Foul on Gabe Snider
+Mercer,UIC,33,64,39,19,0,Jibri Bryan missed Free Throw.
+Mercer,UIC,33,64,39,19,0,null
+Mercer,UIC,34,64,39,19,1,Jibri Bryan made Free Throw.
+Mercer,UIC,34,64,39,52,0,Gabe Snider Turnover.
+Mercer,UIC,34,64,39,59,0,Dylan Poston missed Three Point Jumper.
+Mercer,UIC,36,62,39,59,0,Mercer Offensive Rebound.
+Mercer,UIC,34,64,40,0,0,Dylan Poston missed Three Point Jumper.
+Mercer,UIC,34,64,40,0,0,End of the 2nd Half.
+Mercer,UIC,36,62,40,0,0,null

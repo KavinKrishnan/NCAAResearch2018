@@ -1,0 +1,333 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+California,Stanford,0,0,0,0,0,Jump Ball won by Stanford
+California,Stanford,0,3,0,9,1,Anthony Brown made Three Point Jumper. Assisted by Michael Humphrey.
+California,Stanford,2,3,0,23,1,David Kravish made Jumper. Assisted by Sam Singer.
+California,Stanford,2,6,0,46,1,Chasson Randle made Three Point Jumper. Assisted by Anthony Brown.
+California,Stanford,4,6,1,5,1,Dwight Tarwater made Jumper. Assisted by Tyrone Wallace.
+California,Stanford,4,6,1,36,0,Stanford  Timeout
+California,Stanford,4,6,1,36,0,Chasson Randle missed Jumper.
+California,Stanford,4,6,1,36,0,David Kravish Defensive Rebound.
+California,Stanford,6,6,1,46,1,David Kravish made Jumper. Assisted by Sam Singer.
+California,Stanford,6,6,2,5,0,Marcus Allen missed Jumper.
+California,Stanford,6,6,2,5,0,Dwight Tarwater Defensive Rebound.
+California,Stanford,6,6,2,14,0,Jabari Bird missed Three Point Jumper.
+California,Stanford,6,6,2,14,0,Michael Humphrey Defensive Rebound.
+California,Stanford,6,9,2,25,1,Anthony Brown made Three Point Jumper. Assisted by Chasson Randle.
+California,Stanford,6,9,2,35,0,Jabari Bird missed Three Point Jumper.
+California,Stanford,6,9,2,35,0,Stefan Nastic Defensive Rebound.
+California,Stanford,6,9,3,7,0,Stefan Nastic Turnover.
+California,Stanford,6,9,3,7,0,Dwight Tarwater Steal.
+California,Stanford,6,9,3,16,0,Foul on Anthony Brown.
+California,Stanford,6,9,3,16,0,Tyrone Wallace missed Free Throw.
+California,Stanford,6,9,3,16,0,California Deadball Team Rebound.
+California,Stanford,7,9,3,16,1,Tyrone Wallace made Free Throw.
+California,Stanford,7,11,3,28,1,Michael Humphrey made Dunk. Assisted by Chasson Randle.
+California,Stanford,9,11,3,46,1,David Kravish made Jumper.
+California,Stanford,9,11,4,0,0,Stefan Nastic missed Jumper.
+California,Stanford,9,11,4,0,0,Dwight Tarwater Defensive Rebound.
+California,Stanford,11,11,4,15,1,Tyrone Wallace made Jumper.
+California,Stanford,11,11,4,35,0,Anthony Brown missed Jumper.
+California,Stanford,11,11,4,35,0,Stefan Nastic Offensive Rebound.
+California,Stanford,11,14,4,40,1,Marcus Allen made Three Point Jumper. Assisted by Chasson Randle.
+California,Stanford,11,14,4,56,0,Tyrone Wallace missed Three Point Jumper.
+California,Stanford,11,14,4,56,0,Chasson Randle Defensive Rebound.
+California,Stanford,11,14,5,9,0,Chasson Randle Turnover.
+California,Stanford,11,14,5,9,0,Official TV Timeout
+California,Stanford,11,14,5,22,0,Tyrone Wallace missed Jumper.
+California,Stanford,11,14,5,22,0,Michael Humphrey Defensive Rebound.
+California,Stanford,11,14,5,42,0,Michael Humphrey Turnover.
+California,Stanford,11,14,5,42,0,Jabari Bird Steal.
+California,Stanford,11,14,5,54,0,Tyrone Wallace missed Jumper.
+California,Stanford,11,14,5,54,0,Kingsley Okoroh Offensive Rebound.
+California,Stanford,11,14,6,1,0,Kingsley Okoroh missed Jumper.
+California,Stanford,11,14,6,1,0,Michael Humphrey Defensive Rebound.
+California,Stanford,11,14,6,1,0,Stanford  Timeout
+California,Stanford,11,14,6,17,0,Stefan Nastic missed Jumper.
+California,Stanford,11,14,6,17,0,Jabari Bird Block.
+California,Stanford,11,14,6,17,0,Stanford Offensive Rebound.
+California,Stanford,11,14,6,17,0,Stefan Nastic missed Jumper.
+California,Stanford,11,14,6,17,0,California Defensive Rebound.
+California,Stanford,11,14,6,44,0,Jordan Mathews missed Jumper.
+California,Stanford,11,14,6,44,0,Chasson Randle Block.
+California,Stanford,11,14,6,44,0,Anthony Brown Defensive Rebound.
+California,Stanford,11,14,7,7,0,Reid Travis missed Jumper.
+California,Stanford,11,14,7,7,0,Anthony Brown Offensive Rebound.
+California,Stanford,11,14,7,15,0,Anthony Brown missed Jumper.
+California,Stanford,11,14,7,15,0,Reid Travis Offensive Rebound.
+California,Stanford,11,14,7,22,0,Foul on Kingsley Okoroh.
+California,Stanford,11,15,7,22,1,Stefan Nastic made Free Throw.
+California,Stanford,11,16,7,22,1,Stefan Nastic made Free Throw.
+California,Stanford,11,16,7,36,0,David Kravish missed Jumper.
+California,Stanford,11,16,7,36,0,Anthony Brown Defensive Rebound.
+California,Stanford,11,16,8,1,0,Chasson Randle missed Jumper.
+California,Stanford,11,16,8,1,0,David Kravish Block.
+California,Stanford,11,16,8,1,0,David Kravish Defensive Rebound.
+California,Stanford,11,16,8,10,0,Jordan Mathews missed Three Point Jumper.
+California,Stanford,11,16,8,10,0,Kingsley Okoroh Offensive Rebound.
+California,Stanford,13,16,8,20,1,Kingsley Okoroh made Dunk.
+California,Stanford,13,16,8,35,0,Chasson Randle missed Jumper.
+California,Stanford,13,16,8,35,0,Sam Singer Defensive Rebound.
+California,Stanford,13,16,8,47,0,Jabari Bird missed Jumper.
+California,Stanford,13,16,8,47,0,Anthony Brown Defensive Rebound.
+California,Stanford,13,16,9,4,0,Stefan Nastic Turnover.
+California,Stanford,13,16,9,4,0,Kingsley Okoroh Steal.
+California,Stanford,13,16,9,15,0,Foul on Robert Cartwright.
+California,Stanford,13,16,9,15,0,Official TV Timeout
+California,Stanford,13,16,9,31,0,Tyrone Wallace missed Three Point Jumper.
+California,Stanford,13,16,9,31,0,David Kravish Offensive Rebound.
+California,Stanford,13,16,9,40,0,Tyrone Wallace missed Jumper.
+California,Stanford,13,16,9,40,0,Anthony Brown Defensive Rebound.
+California,Stanford,13,16,10,13,0,Chasson Randle missed Three Point Jumper.
+California,Stanford,13,16,10,13,0,Reid Travis Offensive Rebound.
+California,Stanford,13,16,10,19,0,Foul on Kingsley Okoroh.
+California,Stanford,13,16,10,32,0,Anthony Brown missed Three Point Jumper.
+California,Stanford,13,16,10,32,0,Tyrone Wallace Defensive Rebound.
+California,Stanford,13,16,10,45,0,Jabari Bird missed Jumper.
+California,Stanford,13,16,10,45,0,Reid Travis Defensive Rebound.
+California,Stanford,13,18,10,59,1,Reid Travis made Layup. Assisted by Chasson Randle.
+California,Stanford,15,18,11,20,1,David Kravish made Jumper. Assisted by Tyrone Wallace.
+California,Stanford,15,20,11,30,1,Michael Humphrey made Layup. Assisted by Chasson Randle.
+California,Stanford,17,20,11,45,1,Jabari Bird made Jumper.
+California,Stanford,17,22,11,58,1,Reid Travis made Layup.
+California,Stanford,17,22,12,17,0,David Kravish missed Jumper.
+California,Stanford,17,22,12,17,0,Reid Travis Defensive Rebound.
+California,Stanford,17,22,12,50,0,Foul on Dwight Tarwater.
+California,Stanford,17,22,12,50,0,Official TV Timeout
+California,Stanford,17,22,12,50,0,Reid Travis missed Free Throw.
+California,Stanford,17,22,12,50,0,Stanford Deadball Team Rebound.
+California,Stanford,17,22,12,50,0,Reid Travis missed Free Throw.
+California,Stanford,17,22,12,50,0,David Kravish Defensive Rebound.
+California,Stanford,17,22,13,6,0,David Kravish missed Jumper.
+California,Stanford,17,22,13,6,0,David Kravish Offensive Rebound.
+California,Stanford,17,22,13,15,0,Tyrone Wallace missed Jumper.
+California,Stanford,17,22,13,15,0,Robert Cartwright Defensive Rebound.
+California,Stanford,17,24,13,33,1,Anthony Brown made Jumper. Assisted by Stefan Nastic.
+California,Stanford,17,24,13,49,0,Jabari Bird missed Jumper.
+California,Stanford,17,24,13,49,0,Reid Travis Defensive Rebound.
+California,Stanford,17,24,14,16,0,Jump Ball won by California
+California,Stanford,17,24,14,16,0,Marcus Allen Turnover.
+California,Stanford,17,24,14,16,0,Jabari Bird Steal.
+California,Stanford,17,24,14,23,0,Brandon Chauca missed Three Point Jumper.
+California,Stanford,17,24,14,23,0,Stefan Nastic Defensive Rebound.
+California,Stanford,17,24,14,51,0,Foul on David Kravish.
+California,Stanford,17,25,14,51,1,Stefan Nastic made Free Throw.
+California,Stanford,17,26,14,51,1,Stefan Nastic made Free Throw.
+California,Stanford,17,26,15,8,0,Brandon Chauca Turnover.
+California,Stanford,17,26,15,19,0,Chasson Randle missed Jumper.
+California,Stanford,17,26,15,19,0,David Kravish Defensive Rebound.
+California,Stanford,17,26,15,40,0,Foul on Stefan Nastic.
+California,Stanford,19,26,15,44,1,Tyrone Wallace made Jumper. Assisted by Jordan Mathews.
+California,Stanford,19,28,16,0,1,Reid Travis made Jumper.
+California,Stanford,19,28,16,11,0,Dwight Tarwater missed Three Point Jumper.
+California,Stanford,19,28,16,11,0,Chasson Randle Defensive Rebound.
+California,Stanford,19,28,16,31,0,Stefan Nastic missed Jumper.
+California,Stanford,19,28,16,31,0,California Defensive Rebound.
+California,Stanford,19,28,16,36,0,Official TV Timeout
+California,Stanford,21,28,16,55,1,David Kravish made Layup. Assisted by Brandon Chauca.
+California,Stanford,21,28,17,18,0,Chasson Randle missed Layup.
+California,Stanford,21,28,17,18,0,Sam Singer Defensive Rebound.
+California,Stanford,21,28,17,18,0,Foul on Stefan Nastic.
+California,Stanford,23,28,17,33,1,David Kravish made Jumper.
+California,Stanford,23,28,18,7,0,Stanford  Timeout
+California,Stanford,23,28,18,9,0,Chasson Randle missed Jumper.
+California,Stanford,23,28,18,9,0,Michael Humphrey Offensive Rebound.
+California,Stanford,23,30,18,9,1,Michael Humphrey made Two Point Tip Shot.
+California,Stanford,23,30,18,43,0,Foul on David Kravish.
+California,Stanford,23,30,18,43,0,David Kravish Turnover.
+California,Stanford,23,33,18,58,1,Anthony Brown made Three Point Jumper.
+California,Stanford,23,33,19,1,0,Foul on Dwight Tarwater.
+California,Stanford,23,33,19,1,0,Dwight Tarwater Turnover.
+California,Stanford,23,33,19,2,0,Anthony Brown missed Jumper.
+California,Stanford,23,33,19,2,0,California Defensive Rebound.
+California,Stanford,23,33,19,24,0,Brandon Chauca Turnover.
+California,Stanford,23,33,19,24,0,Reid Travis Steal.
+California,Stanford,23,33,19,30,0,Foul on Tyrone Wallace.
+California,Stanford,23,34,19,30,1,Anthony Brown made Free Throw.
+California,Stanford,23,35,19,30,1,Anthony Brown made Free Throw.
+California,Stanford,23,35,19,46,0,Foul on Anthony Brown.
+California,Stanford,23,35,19,46,0,California  Timeout
+California,Stanford,23,35,19,52,0,Foul on Robert Cartwright.
+California,Stanford,23,35,19,55,0,Tyrone Wallace missed Layup.
+California,Stanford,23,35,19,55,0,Kingsley Okoroh Offensive Rebound.
+California,Stanford,23,35,19,59,0,Kingsley Okoroh Turnover.
+California,Stanford,23,35,20,0,0,End of 1st half
+California,Stanford,23,35,20,0,0,Jump Ball won by Stanford
+California,Stanford,23,37,20,16,1,Chasson Randle made Layup. Assisted by Anthony Brown.
+California,Stanford,25,37,20,38,1,David Kravish made Jumper.
+California,Stanford,25,39,21,2,1,Chasson Randle made Jumper. Assisted by Michael Humphrey.
+California,Stanford,25,39,21,15,0,Jabari Bird missed Jumper.
+California,Stanford,25,39,21,15,0,Anthony Brown Defensive Rebound.
+California,Stanford,25,39,21,24,0,Foul on Anthony Brown.
+California,Stanford,25,39,21,24,0,Anthony Brown Turnover.
+California,Stanford,28,39,21,33,1,Dwight Tarwater made Three Point Jumper. Assisted by Tyrone Wallace.
+California,Stanford,28,39,21,56,0,Anthony Brown missed Jumper.
+California,Stanford,28,39,21,56,0,Michael Humphrey Offensive Rebound.
+California,Stanford,28,39,22,3,0,Foul on Jordan Mathews.
+California,Stanford,28,39,22,4,0,Stefan Nastic missed Jumper.
+California,Stanford,28,39,22,4,0,Michael Humphrey Offensive Rebound.
+California,Stanford,28,39,22,24,0,Foul on Tyrone Wallace.
+California,Stanford,28,39,22,24,0,Stefan Nastic missed Free Throw.
+California,Stanford,28,39,22,24,0,Stanford Deadball Team Rebound.
+California,Stanford,28,40,22,24,1,Stefan Nastic made Free Throw.
+California,Stanford,28,40,22,33,0,Foul on Marcus Allen.
+California,Stanford,28,40,22,33,0,Tyrone Wallace missed Free Throw.
+California,Stanford,28,40,22,33,0,California Deadball Team Rebound.
+California,Stanford,28,40,22,33,0,Tyrone Wallace missed Free Throw.
+California,Stanford,28,40,22,33,0,Michael Humphrey Defensive Rebound.
+California,Stanford,28,40,22,52,0,Chasson Randle missed Jumper.
+California,Stanford,28,40,22,52,0,Michael Humphrey Offensive Rebound.
+California,Stanford,28,42,22,57,1,Michael Humphrey made Layup.
+California,Stanford,30,42,23,12,1,Jabari Bird made Layup.
+California,Stanford,30,42,23,12,0,Foul on Stefan Nastic.
+California,Stanford,30,42,23,12,0,Jabari Bird missed Free Throw.
+California,Stanford,30,42,23,12,0,Anthony Brown Defensive Rebound.
+California,Stanford,30,44,23,40,1,Chasson Randle made Layup.
+California,Stanford,30,44,23,52,0,Tyrone Wallace missed Jumper.
+California,Stanford,30,44,23,52,0,Kingsley Okoroh Offensive Rebound.
+California,Stanford,32,44,23,52,1,Kingsley Okoroh made Two Point Tip Shot.
+California,Stanford,32,44,23,56,0,California  Timeout
+California,Stanford,32,46,24,8,1,Anthony Brown made Jumper.
+California,Stanford,32,46,24,26,0,Foul on Michael Humphrey.
+California,Stanford,32,46,24,26,0,Official TV Timeout
+California,Stanford,33,46,24,26,1,David Kravish made Free Throw.
+California,Stanford,34,46,24,26,1,David Kravish made Free Throw.
+California,Stanford,34,46,24,50,0,Foul on Jabari Bird.
+California,Stanford,34,48,25,19,1,Michael Humphrey made Jumper. Assisted by Chasson Randle.
+California,Stanford,34,48,25,39,0,Foul on Marcus Allen.
+California,Stanford,35,48,25,39,1,Jordan Mathews made Free Throw.
+California,Stanford,36,48,25,39,1,Jordan Mathews made Free Throw.
+California,Stanford,36,48,25,39,0,Jordan Mathews missed Free Throw.
+California,Stanford,36,48,25,39,0,Anthony Brown Defensive Rebound.
+California,Stanford,36,50,25,54,1,Chasson Randle made Jumper.
+California,Stanford,39,50,26,17,1,Jordan Mathews made Three Point Jumper. Assisted by Tyrone Wallace.
+California,Stanford,39,50,26,39,0,Reid Travis missed Jumper.
+California,Stanford,39,50,26,39,0,Marcus Allen Offensive Rebound.
+California,Stanford,39,50,26,39,0,Marcus Allen missed Layup.
+California,Stanford,39,50,26,39,0,Marcus Allen Offensive Rebound.
+California,Stanford,39,52,26,45,1,Marcus Allen made Layup.
+California,Stanford,39,52,26,48,0,Foul on Michael Humphrey.
+California,Stanford,39,52,27,4,0,Foul on Chasson Randle.
+California,Stanford,40,52,27,4,1,Jordan Mathews made Free Throw.
+California,Stanford,41,52,27,4,1,Jordan Mathews made Free Throw.
+California,Stanford,41,52,27,17,0,Foul on David Kravish.
+California,Stanford,41,52,27,27,0,Reid Travis Turnover.
+California,Stanford,41,52,27,27,0,Tyrone Wallace Steal.
+California,Stanford,41,52,27,32,0,Jordan Mathews Turnover.
+California,Stanford,41,52,27,32,0,Chasson Randle Steal.
+California,Stanford,41,54,27,43,1,Reid Travis made Layup. Assisted by Chasson Randle.
+California,Stanford,41,54,28,1,0,Foul on Stefan Nastic.
+California,Stanford,41,54,28,1,0,Official TV Timeout
+California,Stanford,42,54,28,1,1,David Kravish made Free Throw.
+California,Stanford,43,54,28,1,1,David Kravish made Free Throw.
+California,Stanford,43,56,28,7,1,Michael Humphrey made Layup. Assisted by Marcus Allen.
+California,Stanford,43,56,28,22,0,Kingsley Okoroh missed Layup.
+California,Stanford,43,56,28,22,0,Anthony Brown Defensive Rebound.
+California,Stanford,43,58,28,31,1,Michael Humphrey made Dunk. Assisted by Anthony Brown.
+California,Stanford,43,58,28,40,0,California  Timeout
+California,Stanford,43,58,28,53,0,Foul on Jordan Mathews.
+California,Stanford,43,58,28,53,0,Jordan Mathews Turnover.
+California,Stanford,43,58,29,5,0,Reid Travis missed Layup.
+California,Stanford,43,58,29,5,0,David Kravish Defensive Rebound.
+California,Stanford,43,58,29,22,0,Foul on Reid Travis.
+California,Stanford,43,58,29,22,0,Tyrone Wallace missed Free Throw.
+California,Stanford,43,58,29,22,0,Michael Humphrey Defensive Rebound.
+California,Stanford,43,58,29,37,0,Chasson Randle missed Three Point Jumper.
+California,Stanford,43,58,29,37,0,Tyrone Wallace Defensive Rebound.
+California,Stanford,43,58,29,54,0,Tyrone Wallace missed Layup.
+California,Stanford,43,58,29,54,0,Michael Humphrey Block.
+California,Stanford,43,58,29,54,0,California Offensive Rebound.
+California,Stanford,43,58,30,2,0,Dwight Tarwater missed Layup.
+California,Stanford,43,58,30,2,0,Dwight Tarwater Offensive Rebound.
+California,Stanford,45,58,30,12,1,Jabari Bird made Layup. Assisted by Dwight Tarwater.
+California,Stanford,45,58,30,24,0,Foul on Jabari Bird.
+California,Stanford,45,58,30,36,0,Foul on Dwight Tarwater.
+California,Stanford,45,58,30,36,0,Michael Humphrey missed Free Throw.
+California,Stanford,45,58,30,36,0,David Kravish Defensive Rebound.
+California,Stanford,45,58,30,43,0,David Kravish missed Jumper.
+California,Stanford,45,58,30,43,0,Reid Travis Defensive Rebound.
+California,Stanford,45,58,30,56,0,Foul on Jabari Bird.
+California,Stanford,45,59,30,56,1,Chasson Randle made Free Throw.
+California,Stanford,45,60,30,56,1,Chasson Randle made Free Throw.
+California,Stanford,45,60,31,18,0,Foul on Robert Cartwright.
+California,Stanford,46,60,31,18,1,David Kravish made Free Throw.
+California,Stanford,46,60,31,18,0,David Kravish missed Free Throw.
+California,Stanford,46,60,31,18,0,Michael Humphrey Defensive Rebound.
+California,Stanford,46,60,31,27,0,Anthony Brown missed Three Point Jumper.
+California,Stanford,46,60,31,27,0,Stanford Deadball Team Rebound.
+California,Stanford,46,60,31,34,0,Foul on Jordan Mathews.
+California,Stanford,46,60,31,34,0,Robert Cartwright missed Free Throw.
+California,Stanford,46,60,31,34,0,Jordan Mathews Defensive Rebound.
+California,Stanford,46,60,31,43,0,Foul on Michael Humphrey.
+California,Stanford,47,60,31,43,1,Tyrone Wallace made Free Throw.
+California,Stanford,48,60,31,43,1,Tyrone Wallace made Free Throw.
+California,Stanford,48,60,32,6,0,Michael Humphrey missed Jumper.
+California,Stanford,48,60,32,6,0,Stanford Offensive Rebound.
+California,Stanford,48,60,32,9,0,Official TV Timeout
+California,Stanford,48,60,32,37,0,Chasson Randle missed Jumper.
+California,Stanford,48,60,32,37,0,David Kravish Defensive Rebound.
+California,Stanford,48,60,32,57,0,Tyrone Wallace missed Three Point Jumper.
+California,Stanford,48,60,32,57,0,Anthony Brown Defensive Rebound.
+California,Stanford,48,60,33,8,0,Foul on Brandon Chauca.
+California,Stanford,48,60,33,8,0,Anthony Brown missed Free Throw.
+California,Stanford,48,60,33,8,0,Stanford Deadball Team Rebound.
+California,Stanford,48,61,33,8,1,Anthony Brown made Free Throw.
+California,Stanford,48,61,33,31,0,Jabari Bird missed Jumper.
+California,Stanford,48,61,33,31,0,Michael Humphrey Block.
+California,Stanford,48,61,33,31,0,California Offensive Rebound.
+California,Stanford,50,61,33,31,1,David Kravish made Jumper. Assisted by Brandon Chauca.
+California,Stanford,50,61,34,12,0,Stanford  Turnover.
+California,Stanford,52,61,34,25,1,David Kravish made Jumper.
+California,Stanford,52,61,34,39,0,Stanford  Timeout
+California,Stanford,52,61,34,57,0,Foul on Brandon Chauca.
+California,Stanford,52,62,34,57,1,Chasson Randle made Free Throw.
+California,Stanford,52,63,34,57,1,Chasson Randle made Free Throw.
+California,Stanford,55,63,35,18,1,Brandon Chauca made Three Point Jumper. Assisted by Jabari Bird.
+California,Stanford,55,63,35,42,0,Anthony Brown missed Jumper.
+California,Stanford,55,63,35,42,0,Brandon Chauca Defensive Rebound.
+California,Stanford,55,63,35,53,0,Brandon Chauca Turnover.
+California,Stanford,55,63,35,53,0,Reid Travis Steal.
+California,Stanford,55,63,36,13,0,Foul on Brandon Chauca.
+California,Stanford,55,63,36,13,0,Official TV Timeout
+California,Stanford,55,64,36,13,1,Chasson Randle made Free Throw.
+California,Stanford,55,65,36,13,1,Chasson Randle made Free Throw.
+California,Stanford,55,65,36,32,0,Jabari Bird missed Three Point Jumper.
+California,Stanford,55,65,36,32,0,Marcus Allen Defensive Rebound.
+California,Stanford,55,65,37,11,0,Chasson Randle missed Layup.
+California,Stanford,55,65,37,11,0,Kingsley Okoroh Block.
+California,Stanford,55,65,37,11,0,Stanford Offensive Rebound.
+California,Stanford,55,67,37,11,1,Stefan Nastic made Jumper. Assisted by Chasson Randle.
+California,Stanford,55,67,37,25,0,Foul on Stefan Nastic.
+California,Stanford,55,67,37,25,0,Jabari Bird missed Free Throw.
+California,Stanford,55,67,37,25,0,California Deadball Team Rebound.
+California,Stanford,55,67,37,25,0,Jabari Bird missed Free Throw.
+California,Stanford,55,67,37,25,0,Anthony Brown Defensive Rebound.
+California,Stanford,55,67,37,46,0,Chasson Randle Turnover.
+California,Stanford,57,67,37,53,1,Jabari Bird made Layup. Assisted by Jordan Mathews.
+California,Stanford,57,67,38,14,0,Anthony Brown missed Layup.
+California,Stanford,57,67,38,14,0,David Kravish Defensive Rebound.
+California,Stanford,57,67,38,21,0,Jump Ball won by California
+California,Stanford,57,67,38,32,0,Jordan Mathews missed Three Point Jumper.
+California,Stanford,57,67,38,32,0,Stanford Defensive Rebound.
+California,Stanford,57,67,38,54,0,Foul on Tyrone Wallace.
+California,Stanford,57,67,38,54,0,Anthony Brown missed Free Throw.
+California,Stanford,57,67,38,54,0,Stanford Deadball Team Rebound.
+California,Stanford,57,67,38,54,0,Anthony Brown missed Free Throw.
+California,Stanford,57,67,38,54,0,David Kravish Defensive Rebound.
+California,Stanford,57,67,39,1,0,David Kravish missed Jumper.
+California,Stanford,57,67,39,1,0,Chasson Randle Defensive Rebound.
+California,Stanford,57,67,39,17,0,Foul on Sam Singer.
+California,Stanford,57,68,39,17,1,Chasson Randle made Free Throw.
+California,Stanford,57,69,39,17,1,Chasson Randle made Free Throw.
+California,Stanford,59,69,39,21,1,Tyrone Wallace made Layup.
+California,Stanford,59,69,39,22,0,California  Timeout
+California,Stanford,59,69,39,27,0,Foul on Jabari Bird.
+California,Stanford,59,70,39,27,1,Robert Cartwright made Free Throw.
+California,Stanford,59,71,39,27,1,Robert Cartwright made Free Throw.
+California,Stanford,61,71,39,31,1,Tyrone Wallace made Jumper.
+California,Stanford,61,71,39,37,0,Foul on Sam Singer.
+California,Stanford,61,72,39,37,1,Robert Cartwright made Free Throw.
+California,Stanford,61,72,39,37,0,Robert Cartwright missed Free Throw.
+California,Stanford,61,72,39,37,0,David Kravish Defensive Rebound.
+California,Stanford,61,72,39,42,0,Sam Singer missed Three Point Jumper.
+California,Stanford,61,72,39,42,0,Michael Humphrey Defensive Rebound.
+California,Stanford,61,72,40,0,0,End of Game

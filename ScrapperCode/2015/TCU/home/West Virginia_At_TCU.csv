@@ -1,0 +1,393 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+West Virginia,TCU,0,0,0,0,0,Jump Ball won by TCU
+West Virginia,TCU,0,0,0,22,0,Gary Browne missed Layup.
+West Virginia,TCU,0,0,0,22,0,Kyan Anderson Block.
+West Virginia,TCU,0,0,0,23,0,Gary Browne Offensive Rebound.
+West Virginia,TCU,0,0,0,34,0,Devin Williams Turnover.
+West Virginia,TCU,0,2,0,58,1,Karviar Shepherd made Jumper. Assisted by Kyan Anderson.
+West Virginia,TCU,0,2,1,15,0,Devin Williams Turnover.
+West Virginia,TCU,0,2,1,22,0,Karviar Shepherd missed Layup.
+West Virginia,TCU,0,2,1,22,0,Brandon Parrish Offensive Rebound.
+West Virginia,TCU,0,2,1,25,0,Brandon Parrish missed Two Point Tip Shot.
+West Virginia,TCU,0,2,1,25,0,Devin Williams Defensive Rebound.
+West Virginia,TCU,0,2,1,27,0,Foul on Chris Washburn.
+West Virginia,TCU,0,2,1,38,0,Jonathan Holton Turnover.
+West Virginia,TCU,0,2,1,38,0,Foul on Jonathan Holton.
+West Virginia,TCU,0,4,1,58,1,Chris Washburn made Jumper.
+West Virginia,TCU,0,4,2,5,0,Jaysean Paige missed Layup.
+West Virginia,TCU,0,4,2,6,0,Karviar Shepherd Defensive Rebound.
+West Virginia,TCU,0,4,2,12,0,Kyan Anderson missed Three Point Jumper.
+West Virginia,TCU,0,4,2,13,0,Jonathan Holton Defensive Rebound.
+West Virginia,TCU,0,4,2,21,0,Daxter Miles Jr. missed Layup.
+West Virginia,TCU,0,4,2,22,0,Karviar Shepherd Block.
+West Virginia,TCU,0,4,2,23,0,Kenrich Williams Defensive Rebound.
+West Virginia,TCU,0,7,2,45,1,Kyan Anderson made Three Point Jumper. Assisted by Chris Washburn.
+West Virginia,TCU,2,7,3,13,1,Jonathan Holton made Layup. Assisted by Devin Williams.
+West Virginia,TCU,2,7,3,36,0,Kenrich Williams Turnover.
+West Virginia,TCU,4,7,3,57,1,Jaysean Paige made Jumper.
+West Virginia,TCU,4,7,4,10,0,Foul on Gary Browne.
+West Virginia,TCU,4,7,4,10,0,Official TV Timeout
+West Virginia,TCU,4,7,4,10,0,Karviar Shepherd missed Free Throw.
+West Virginia,TCU,4,7,4,10,0,TCU Deadball Team Rebound.
+West Virginia,TCU,4,8,4,10,1,Karviar Shepherd made Free Throw.
+West Virginia,TCU,4,8,4,32,0,Jonathan Holton Turnover.
+West Virginia,TCU,4,8,4,37,0,Amric Fields Turnover.
+West Virginia,TCU,4,8,4,37,0,Jevon Carter Steal.
+West Virginia,TCU,4,8,4,45,0,Gary Browne missed Layup.
+West Virginia,TCU,4,8,4,45,0,Amric Fields Defensive Rebound.
+West Virginia,TCU,4,8,4,49,0,Kyan Anderson Turnover.
+West Virginia,TCU,4,8,5,11,0,Foul on Kenrich Williams.
+West Virginia,TCU,4,8,5,14,0,Foul on Trey Zeigler.
+West Virginia,TCU,4,8,5,27,0,Jonathan Holton missed Jumper.
+West Virginia,TCU,4,8,5,27,0,Karviar Shepherd Defensive Rebound.
+West Virginia,TCU,4,8,6,0,0,Brandon Parrish missed Jumper.
+West Virginia,TCU,4,8,6,0,0,Jonathan Holton Block.
+West Virginia,TCU,4,8,6,0,0,Daxter Miles Jr. Defensive Rebound.
+West Virginia,TCU,6,8,6,9,1,Daxter Miles Jr. made Layup.
+West Virginia,TCU,6,8,6,29,0,Foul on Gary Browne.
+West Virginia,TCU,6,8,6,41,0,Trey Zeigler missed Three Point Jumper.
+West Virginia,TCU,6,8,6,41,0,West Virginia Defensive Rebound.
+West Virginia,TCU,6,8,7,7,0,Devin Williams Turnover.
+West Virginia,TCU,6,8,7,21,0,Foul on Tarik Phillip.
+West Virginia,TCU,6,8,7,32,0,Kyan Anderson missed Layup.
+West Virginia,TCU,6,8,7,32,0,West Virginia Defensive Rebound.
+West Virginia,TCU,6,8,7,48,0,Foul on Kyan Anderson.
+West Virginia,TCU,6,8,7,51,0,Jevon Carter missed Jumper.
+West Virginia,TCU,6,8,7,51,0,Trey Zeigler Defensive Rebound.
+West Virginia,TCU,6,8,7,59,0,Hudson Price missed Three Point Jumper.
+West Virginia,TCU,6,8,7,59,0,TCU Offensive Rebound.
+West Virginia,TCU,6,8,8,2,0,Official TV Timeout
+West Virginia,TCU,6,8,8,2,0,TCU  Turnover.
+West Virginia,TCU,6,8,8,25,0,Foul on Karviar Shepherd.
+West Virginia,TCU,6,8,8,39,0,Foul on Chauncey Collins.
+West Virginia,TCU,6,8,8,39,0,Tarik Phillip missed Free Throw.
+West Virginia,TCU,6,8,8,39,0,West Virginia Deadball Team Rebound.
+West Virginia,TCU,6,8,8,39,0,Tarik Phillip missed Free Throw.
+West Virginia,TCU,6,8,8,39,0,TCU Defensive Rebound.
+West Virginia,TCU,6,10,8,58,1,Hudson Price made Jumper.
+West Virginia,TCU,6,10,9,19,0,Devin Williams missed Jumper.
+West Virginia,TCU,6,10,9,19,0,Trey Zeigler Defensive Rebound.
+West Virginia,TCU,6,10,9,26,0,Foul on Nathan Adrian.
+West Virginia,TCU,6,10,9,27,0,Chris Washburn missed Jumper.
+West Virginia,TCU,6,10,9,27,0,Elijah Macon Defensive Rebound.
+West Virginia,TCU,6,10,9,40,0,Daxter Miles Jr. missed Jumper.
+West Virginia,TCU,6,10,9,40,0,Hudson Price Defensive Rebound.
+West Virginia,TCU,6,10,9,44,0,Foul on Jaysean Paige.
+West Virginia,TCU,6,10,9,54,0,Foul on Elijah Macon.
+West Virginia,TCU,6,10,9,54,0,Amric Fields missed Free Throw.
+West Virginia,TCU,6,10,9,54,0,TCU Deadball Team Rebound.
+West Virginia,TCU,6,11,9,54,1,Amric Fields made Free Throw.
+West Virginia,TCU,6,11,10,17,0,Foul on Brandon Parrish.
+West Virginia,TCU,7,11,10,17,1,Daxter Miles Jr. made Free Throw.
+West Virginia,TCU,7,11,10,17,0,Daxter Miles Jr. missed Free Throw.
+West Virginia,TCU,7,11,10,17,0,Karviar Shepherd Defensive Rebound.
+West Virginia,TCU,7,11,10,19,0,Foul on Jonathan Holton.
+West Virginia,TCU,7,12,10,19,1,Karviar Shepherd made Free Throw.
+West Virginia,TCU,7,12,10,19,0,Karviar Shepherd missed Free Throw.
+West Virginia,TCU,7,12,10,19,0,Jevon Carter Defensive Rebound.
+West Virginia,TCU,9,12,10,34,1,Nathan Adrian made Jumper.
+West Virginia,TCU,9,12,10,34,0,Foul on Amric Fields.
+West Virginia,TCU,10,12,10,34,1,Nathan Adrian made Free Throw.
+West Virginia,TCU,10,12,10,45,0,Foul on Elijah Macon.
+West Virginia,TCU,10,12,10,45,0,Trey Zeigler missed Free Throw.
+West Virginia,TCU,10,12,10,45,0,TCU Deadball Team Rebound.
+West Virginia,TCU,10,13,10,45,1,Trey Zeigler made Free Throw.
+West Virginia,TCU,10,13,11,0,0,Nathan Adrian missed Three Point Jumper.
+West Virginia,TCU,10,13,11,0,0,Trey Zeigler Defensive Rebound.
+West Virginia,TCU,10,13,11,23,0,Kyan Anderson missed Three Point Jumper.
+West Virginia,TCU,10,13,11,24,0,Kenrich Williams Offensive Rebound.
+West Virginia,TCU,10,15,11,35,1,Kyan Anderson made Layup.
+West Virginia,TCU,10,15,11,39,0,West Virginia  Timeout
+West Virginia,TCU,10,15,11,57,0,Daxter Miles Jr. missed Layup.
+West Virginia,TCU,10,15,11,58,0,Karviar Shepherd Defensive Rebound.
+West Virginia,TCU,10,17,12,10,1,Karviar Shepherd made Layup. Assisted by Trey Zeigler.
+West Virginia,TCU,10,17,12,40,0,Daxter Miles Jr. missed Layup.
+West Virginia,TCU,10,17,12,41,0,Karviar Shepherd Defensive Rebound.
+West Virginia,TCU,10,17,12,47,0,Foul on Gary Browne.
+West Virginia,TCU,10,17,12,48,0,Official TV Timeout
+West Virginia,TCU,10,18,12,50,1,Kyan Anderson made Free Throw.
+West Virginia,TCU,10,19,12,50,1,Kyan Anderson made Free Throw.
+West Virginia,TCU,10,19,13,1,0,Devin Williams missed Jumper.
+West Virginia,TCU,10,19,13,1,0,Tarik Phillip Offensive Rebound.
+West Virginia,TCU,12,19,13,13,1,Tarik Phillip made Jumper.
+West Virginia,TCU,12,19,13,23,0,Brandon Parrish missed Jumper.
+West Virginia,TCU,12,19,13,23,0,Karviar Shepherd Offensive Rebound.
+West Virginia,TCU,12,21,13,23,1,Karviar Shepherd made Jumper.
+West Virginia,TCU,12,21,13,23,0,Foul on Devin Williams.
+West Virginia,TCU,12,22,13,23,1,Karviar Shepherd made Free Throw.
+West Virginia,TCU,14,22,13,33,1,Brandon Watkins made Jumper.
+West Virginia,TCU,14,22,13,54,0,Brandon Parrish Turnover.
+West Virginia,TCU,14,22,13,54,0,Tarik Phillip Steal.
+West Virginia,TCU,14,22,14,0,0,Nathan Adrian missed Layup.
+West Virginia,TCU,14,22,14,0,0,Kenrich Williams Defensive Rebound.
+West Virginia,TCU,14,22,14,12,0,Brandon Parrish Turnover.
+West Virginia,TCU,14,22,14,12,0,Jevon Carter Steal.
+West Virginia,TCU,14,22,14,16,0,Jevon Carter missed Layup.
+West Virginia,TCU,14,22,14,16,0,Brandon Watkins Offensive Rebound.
+West Virginia,TCU,14,22,14,16,0,Brandon Watkins missed Layup.
+West Virginia,TCU,14,22,14,16,0,Kenrich Williams Defensive Rebound.
+West Virginia,TCU,14,22,14,16,0,Foul on Nathan Adrian.
+West Virginia,TCU,14,23,14,16,1,Kenrich Williams made Free Throw.
+West Virginia,TCU,14,23,14,16,0,Kenrich Williams missed Free Throw.
+West Virginia,TCU,14,23,14,16,0,Brandon Watkins Defensive Rebound.
+West Virginia,TCU,14,23,14,31,0,Foul on Brandon Watkins.
+West Virginia,TCU,14,23,14,31,0,Brandon Watkins Turnover.
+West Virginia,TCU,14,23,14,45,0,Karviar Shepherd missed Jumper.
+West Virginia,TCU,14,23,14,45,0,Tarik Phillip Defensive Rebound.
+West Virginia,TCU,14,23,14,55,0,Nathan Adrian missed Jumper.
+West Virginia,TCU,14,23,14,55,0,Brandon Watkins Offensive Rebound.
+West Virginia,TCU,14,23,14,59,0,Brandon Watkins missed Two Point Tip Shot.
+West Virginia,TCU,14,23,14,59,0,Brandon Watkins Offensive Rebound.
+West Virginia,TCU,16,23,15,3,1,Brandon Watkins made Jumper.
+West Virginia,TCU,16,23,15,9,0,Foul on Daxter Miles Jr..
+West Virginia,TCU,16,24,15,9,1,Trey Zeigler made Free Throw.
+West Virginia,TCU,16,25,15,9,1,Trey Zeigler made Free Throw.
+West Virginia,TCU,16,25,15,22,0,Brandon Watkins missed Jumper.
+West Virginia,TCU,16,25,15,22,0,Brandon Watkins Offensive Rebound.
+West Virginia,TCU,18,25,15,29,1,Jevon Carter made Jumper. Assisted by Daxter Miles Jr..
+West Virginia,TCU,18,25,15,41,0,Chauncey Collins missed Three Point Jumper.
+West Virginia,TCU,18,25,15,41,0,Daxter Miles Jr. Defensive Rebound.
+West Virginia,TCU,18,25,15,43,0,Foul on Kenrich Williams.
+West Virginia,TCU,18,25,15,43,0,Daxter Miles Jr. missed Free Throw.
+West Virginia,TCU,18,25,15,43,0,Trey Zeigler Defensive Rebound.
+West Virginia,TCU,18,27,15,54,1,Trey Zeigler made Layup.
+West Virginia,TCU,21,27,16,22,1,Jevon Carter made Three Point Jumper.
+West Virginia,TCU,21,27,16,36,0,Karviar Shepherd Turnover.
+West Virginia,TCU,21,27,16,43,0,Daxter Miles Jr. missed Jumper.
+West Virginia,TCU,21,27,16,43,0,Daxter Miles Jr. Offensive Rebound.
+West Virginia,TCU,21,27,16,48,0,Daxter Miles Jr. Turnover.
+West Virginia,TCU,21,27,16,49,0,Official TV Timeout
+West Virginia,TCU,21,27,16,58,0,Foul on Tarik Phillip.
+West Virginia,TCU,21,28,16,58,1,Brandon Parrish made Free Throw.
+West Virginia,TCU,21,28,16,58,0,Brandon Parrish missed Free Throw.
+West Virginia,TCU,21,28,16,58,0,Jevon Carter Defensive Rebound.
+West Virginia,TCU,24,28,17,26,1,Jaysean Paige made Three Point Jumper. Assisted by Jevon Carter.
+West Virginia,TCU,24,30,17,58,1,Trey Zeigler made Jumper.
+West Virginia,TCU,24,30,18,26,0,Jevon Carter missed Three Point Jumper.
+West Virginia,TCU,24,30,18,26,0,Jaysean Paige Offensive Rebound.
+West Virginia,TCU,26,30,18,38,1,Jaysean Paige made Jumper.
+West Virginia,TCU,26,30,18,42,0,Trey Zeigler Turnover.
+West Virginia,TCU,26,30,18,42,0,Chase Connor Steal.
+West Virginia,TCU,26,30,18,47,0,Chase Connor missed Three Point Jumper.
+West Virginia,TCU,26,30,18,47,0,Jaysean Paige Offensive Rebound.
+West Virginia,TCU,26,30,18,52,0,Jaysean Paige missed Three Point Jumper.
+West Virginia,TCU,26,30,18,52,0,Chris Washburn Defensive Rebound.
+West Virginia,TCU,26,30,19,2,0,Foul on Chase Connor.
+West Virginia,TCU,26,30,19,2,0,Trey Zeigler missed Free Throw.
+West Virginia,TCU,26,30,19,2,0,TCU Deadball Team Rebound.
+West Virginia,TCU,26,31,19,2,1,Trey Zeigler made Free Throw.
+West Virginia,TCU,26,31,19,28,0,Jevon Carter missed Jumper.
+West Virginia,TCU,26,31,19,28,0,Brandon Watkins Offensive Rebound.
+West Virginia,TCU,26,31,19,33,0,Brandon Watkins missed Layup.
+West Virginia,TCU,26,31,19,33,0,Chris Washburn Block.
+West Virginia,TCU,26,31,19,33,0,West Virginia Offensive Rebound.
+West Virginia,TCU,28,31,19,36,1,Devin Williams made Jumper. Assisted by Jaysean Paige.
+West Virginia,TCU,28,31,19,53,0,Foul on Jaysean Paige.
+West Virginia,TCU,28,32,19,53,1,Kyan Anderson made Free Throw.
+West Virginia,TCU,28,32,19,53,0,Kyan Anderson missed Free Throw.
+West Virginia,TCU,28,32,19,53,0,Brandon Watkins Defensive Rebound.
+West Virginia,TCU,30,32,19,58,1,Jevon Carter made Jumper.
+West Virginia,TCU,30,32,20,0,0,End of 1st half
+West Virginia,TCU,30,32,20,0,0,Jump Ball won by TCU
+West Virginia,TCU,30,35,20,19,1,Brandon Parrish made Three Point Jumper. Assisted by Trey Zeigler.
+West Virginia,TCU,30,35,20,48,0,Devin Williams missed Jumper.
+West Virginia,TCU,30,35,20,48,0,Jaysean Paige Offensive Rebound.
+West Virginia,TCU,30,35,20,59,0,Foul on Devin Williams.
+West Virginia,TCU,30,35,20,59,0,Devin Williams Turnover.
+West Virginia,TCU,30,37,21,13,1,Chris Washburn made Jumper. Assisted by Kyan Anderson.
+West Virginia,TCU,32,37,21,39,1,Devin Williams made Jumper.
+West Virginia,TCU,32,37,21,39,0,Foul on Brandon Parrish.
+West Virginia,TCU,33,37,21,39,1,Devin Williams made Free Throw.
+West Virginia,TCU,33,37,21,43,0,Trey Zeigler Turnover.
+West Virginia,TCU,33,37,21,43,0,Jevon Carter Steal.
+West Virginia,TCU,35,37,21,45,1,Jonathan Holton made Jumper.
+West Virginia,TCU,35,37,21,45,0,Foul on Chris Washburn.
+West Virginia,TCU,36,37,21,45,1,Jonathan Holton made Free Throw.
+West Virginia,TCU,36,37,21,49,0,Foul on Jonathan Holton.
+West Virginia,TCU,36,37,22,11,0,Trey Zeigler missed Jumper.
+West Virginia,TCU,36,37,22,11,0,Tarik Phillip Defensive Rebound.
+West Virginia,TCU,36,37,22,17,0,Nathan Adrian missed Three Point Jumper.
+West Virginia,TCU,36,37,22,17,0,Karviar Shepherd Defensive Rebound.
+West Virginia,TCU,36,37,22,27,0,Karviar Shepherd Turnover.
+West Virginia,TCU,36,37,22,31,0,Jaysean Paige missed Three Point Jumper.
+West Virginia,TCU,36,37,22,31,0,West Virginia Offensive Rebound.
+West Virginia,TCU,36,37,22,31,0,TCU  Timeout
+West Virginia,TCU,36,37,22,33,0,West Virginia  Turnover.
+West Virginia,TCU,36,37,22,42,0,Chris Washburn Turnover.
+West Virginia,TCU,36,37,22,42,0,Daxter Miles Jr. Steal.
+West Virginia,TCU,38,37,22,47,1,Daxter Miles Jr. made Layup.
+West Virginia,TCU,38,37,23,7,0,Brandon Parrish missed Jumper.
+West Virginia,TCU,38,37,23,7,0,Karviar Shepherd Offensive Rebound.
+West Virginia,TCU,38,37,23,12,0,Foul on Tarik Phillip.
+West Virginia,TCU,38,37,23,12,0,Trey Zeigler Turnover.
+West Virginia,TCU,38,37,23,12,0,Jaysean Paige Steal.
+West Virginia,TCU,38,37,23,23,0,Jevon Carter Turnover.
+West Virginia,TCU,38,37,23,23,0,Chris Washburn Steal.
+West Virginia,TCU,38,37,23,30,0,Chris Washburn Turnover.
+West Virginia,TCU,38,37,23,30,0,Jevon Carter Steal.
+West Virginia,TCU,38,37,23,37,0,Foul on Chris Washburn.
+West Virginia,TCU,38,37,23,44,0,Jevon Carter missed Jumper.
+West Virginia,TCU,38,37,23,44,0,TCU Deadball Team Rebound.
+West Virginia,TCU,38,37,23,50,0,Trey Zeigler missed Jumper.
+West Virginia,TCU,38,37,23,50,0,Trey Zeigler Offensive Rebound.
+West Virginia,TCU,38,39,23,50,1,Trey Zeigler made Two Point Tip Shot.
+West Virginia,TCU,38,39,24,15,0,Foul on Trey Zeigler.
+West Virginia,TCU,38,39,24,15,0,Official TV Timeout
+West Virginia,TCU,38,39,24,30,0,Elijah Macon Turnover.
+West Virginia,TCU,38,41,24,41,1,Amric Fields made Jumper. Assisted by Kyan Anderson.
+West Virginia,TCU,38,41,24,41,0,Foul on Elijah Macon.
+West Virginia,TCU,38,41,24,41,0,Amric Fields missed Free Throw.
+West Virginia,TCU,38,41,24,41,0,West Virginia Deadball Team Rebound.
+West Virginia,TCU,38,41,24,41,0,Foul on Kenrich Williams.
+West Virginia,TCU,38,41,24,53,0,Jevon Carter missed Three Point Jumper.
+West Virginia,TCU,38,41,24,53,0,Elijah Macon Offensive Rebound.
+West Virginia,TCU,38,41,25,8,0,Foul on Karviar Shepherd.
+West Virginia,TCU,38,41,25,16,0,Jaysean Paige missed Jumper.
+West Virginia,TCU,38,41,25,16,0,Elijah Macon Offensive Rebound.
+West Virginia,TCU,38,41,25,19,0,Foul on Karviar Shepherd.
+West Virginia,TCU,39,41,25,19,1,Elijah Macon made Free Throw.
+West Virginia,TCU,40,41,25,19,1,Elijah Macon made Free Throw.
+West Virginia,TCU,40,41,25,29,0,Foul on Daxter Miles Jr..
+West Virginia,TCU,40,41,25,38,0,Trey Zeigler Turnover.
+West Virginia,TCU,40,41,25,38,0,Foul on Trey Zeigler.
+West Virginia,TCU,40,41,25,50,0,Jevon Carter missed Jumper.
+West Virginia,TCU,40,41,25,50,0,Trey Zeigler Block.
+West Virginia,TCU,40,41,25,50,0,West Virginia Offensive Rebound.
+West Virginia,TCU,40,41,25,59,0,Foul on Devonta Abron.
+West Virginia,TCU,41,41,25,59,1,Devin Williams made Free Throw.
+West Virginia,TCU,42,41,25,59,1,Devin Williams made Free Throw.
+West Virginia,TCU,42,41,26,17,0,Foul on Devin Williams.
+West Virginia,TCU,42,42,26,17,1,Trey Zeigler made Free Throw.
+West Virginia,TCU,42,42,26,17,0,Trey Zeigler missed Free Throw.
+West Virginia,TCU,42,42,26,17,0,Jevon Carter Defensive Rebound.
+West Virginia,TCU,42,42,26,27,0,Jevon Carter missed Jumper.
+West Virginia,TCU,42,42,26,27,0,Devonta Abron Defensive Rebound.
+West Virginia,TCU,42,42,26,47,0,Foul on Elijah Macon.
+West Virginia,TCU,42,42,26,47,0,Kyan Anderson missed Free Throw.
+West Virginia,TCU,42,42,26,47,0,Brandon Watkins Defensive Rebound.
+West Virginia,TCU,42,42,27,2,0,Gary Browne missed Jumper.
+West Virginia,TCU,42,42,27,2,0,Hudson Price Defensive Rebound.
+West Virginia,TCU,42,42,27,14,0,Amric Fields missed Layup.
+West Virginia,TCU,42,42,27,14,0,Amric Fields Offensive Rebound.
+West Virginia,TCU,42,42,27,24,0,Hudson Price missed Three Point Jumper.
+West Virginia,TCU,42,42,27,24,0,Gary Browne Defensive Rebound.
+West Virginia,TCU,44,42,27,28,1,Daxter Miles Jr. made Layup. Assisted by Gary Browne.
+West Virginia,TCU,44,42,27,28,0,Brandon Parrish Turnover.
+West Virginia,TCU,44,42,27,28,0,Daxter Miles Jr. Steal.
+West Virginia,TCU,44,42,27,36,0,Daxter Miles Jr. missed Jumper.
+West Virginia,TCU,44,42,27,36,0,Brandon Parrish Block.
+West Virginia,TCU,44,42,27,36,0,West Virginia Offensive Rebound.
+West Virginia,TCU,46,42,27,53,1,Brandon Watkins made Jumper. Assisted by Jevon Carter.
+West Virginia,TCU,46,42,27,53,0,Foul on Chris Washburn.
+West Virginia,TCU,46,42,27,53,0,Brandon Watkins missed Free Throw.
+West Virginia,TCU,46,42,27,53,0,Kenrich Williams Defensive Rebound.
+West Virginia,TCU,46,42,28,9,0,Karviar Shepherd missed Jumper.
+West Virginia,TCU,46,42,28,9,0,Trey Zeigler Offensive Rebound.
+West Virginia,TCU,46,42,28,14,0,Foul on Brandon Watkins.
+West Virginia,TCU,46,42,28,14,0,Official TV Timeout
+West Virginia,TCU,46,43,28,14,1,Trey Zeigler made Free Throw.
+West Virginia,TCU,46,44,28,14,1,Trey Zeigler made Free Throw.
+West Virginia,TCU,46,44,28,27,0,Foul on Brandon Watkins.
+West Virginia,TCU,46,44,28,27,0,Brandon Watkins Turnover.
+West Virginia,TCU,46,44,28,37,0,Kyan Anderson Turnover.
+West Virginia,TCU,46,44,28,37,0,Jevon Carter Steal.
+West Virginia,TCU,46,44,29,1,0,Foul on Karviar Shepherd.
+West Virginia,TCU,47,44,29,1,1,Gary Browne made Free Throw.
+West Virginia,TCU,47,44,29,1,0,Gary Browne missed Free Throw.
+West Virginia,TCU,47,44,29,1,0,Kenrich Williams Defensive Rebound.
+West Virginia,TCU,47,44,29,1,0,Foul on Brandon Watkins.
+West Virginia,TCU,47,45,29,1,1,Kenrich Williams made Free Throw.
+West Virginia,TCU,47,45,29,1,0,Kenrich Williams missed Free Throw.
+West Virginia,TCU,47,45,29,1,0,Devin Williams Defensive Rebound.
+West Virginia,TCU,49,45,29,20,1,Daxter Miles Jr. made Jumper. Assisted by Jevon Carter.
+West Virginia,TCU,49,45,29,39,0,Kenrich Williams missed Three Point Jumper.
+West Virginia,TCU,49,45,29,39,0,West Virginia Defensive Rebound.
+West Virginia,TCU,49,45,30,6,0,Foul on Kenrich Williams.
+West Virginia,TCU,50,45,30,6,1,Gary Browne made Free Throw.
+West Virginia,TCU,51,45,30,6,1,Gary Browne made Free Throw.
+West Virginia,TCU,51,47,30,17,1,Brandon Parrish made Jumper.
+West Virginia,TCU,53,47,30,51,1,Jonathan Holton made Jumper. Assisted by Jevon Carter.
+West Virginia,TCU,53,47,30,51,0,Foul on Devonta Abron.
+West Virginia,TCU,54,47,30,51,1,Jonathan Holton made Free Throw.
+West Virginia,TCU,54,50,30,57,1,Brandon Parrish made Three Point Jumper. Assisted by Trey Zeigler.
+West Virginia,TCU,56,50,31,19,1,Gary Browne made Layup.
+West Virginia,TCU,56,50,31,38,0,Foul on Daxter Miles Jr..
+West Virginia,TCU,56,51,31,38,1,Trey Zeigler made Free Throw.
+West Virginia,TCU,56,52,31,38,1,Trey Zeigler made Free Throw.
+West Virginia,TCU,56,52,31,51,0,Gary Browne missed Three Point Jumper.
+West Virginia,TCU,56,52,31,51,0,Devonta Abron Defensive Rebound.
+West Virginia,TCU,56,54,32,2,1,Brandon Parrish made Jumper. Assisted by Trey Zeigler.
+West Virginia,TCU,58,54,32,28,1,Gary Browne made Layup.
+West Virginia,TCU,58,54,32,47,0,TCU  Timeout
+West Virginia,TCU,58,54,32,59,0,Brandon Parrish missed Three Point Jumper.
+West Virginia,TCU,58,54,32,59,0,Devin Williams Defensive Rebound.
+West Virginia,TCU,58,54,33,5,0,Foul on Trey Zeigler.
+West Virginia,TCU,58,54,33,5,0,Official TV Timeout
+West Virginia,TCU,59,54,33,5,1,Gary Browne made Free Throw.
+West Virginia,TCU,59,54,33,5,0,Gary Browne missed Free Throw.
+West Virginia,TCU,59,54,33,5,0,Devin Williams Offensive Rebound.
+West Virginia,TCU,61,54,33,6,1,Devin Williams made Jumper.
+West Virginia,TCU,61,54,33,6,0,Foul on Devonta Abron.
+West Virginia,TCU,62,54,33,6,1,Devin Williams made Free Throw.
+West Virginia,TCU,62,54,33,27,0,Amric Fields missed Jumper.
+West Virginia,TCU,62,54,33,27,0,Devin Williams Defensive Rebound.
+West Virginia,TCU,64,54,33,56,1,Gary Browne made Jumper.
+West Virginia,TCU,64,54,34,2,0,TCU  Timeout
+West Virginia,TCU,64,54,34,18,0,Foul on Jevon Carter.
+West Virginia,TCU,64,54,34,18,0,Kyan Anderson missed Free Throw.
+West Virginia,TCU,64,54,34,18,0,TCU Deadball Team Rebound.
+West Virginia,TCU,64,55,34,18,1,Kyan Anderson made Free Throw.
+West Virginia,TCU,64,55,34,18,0,Jonathan Holton Defensive Rebound.
+West Virginia,TCU,64,55,34,39,0,West Virginia  Timeout
+West Virginia,TCU,64,55,34,43,0,Elijah Macon Turnover.
+West Virginia,TCU,64,55,34,43,0,Technical Foul on Elijah Macon.
+West Virginia,TCU,64,57,34,57,1,Kyan Anderson made Jumper. Assisted by Michael Williams.
+West Virginia,TCU,64,57,34,57,0,Foul on Jevon Carter.
+West Virginia,TCU,64,58,34,57,1,Kyan Anderson made Free Throw.
+West Virginia,TCU,64,58,35,25,0,Gary Browne missed Jumper.
+West Virginia,TCU,64,58,35,25,0,Devin Williams Offensive Rebound.
+West Virginia,TCU,66,58,35,29,1,Devin Williams made Jumper.
+West Virginia,TCU,66,58,35,38,0,Brandon Parrish missed Jumper.
+West Virginia,TCU,66,58,35,38,0,Devin Williams Block.
+West Virginia,TCU,66,58,35,38,0,TCU Offensive Rebound.
+West Virginia,TCU,66,61,35,42,1,Kyan Anderson made Three Point Jumper.
+West Virginia,TCU,68,61,36,12,1,Gary Browne made Jumper.
+West Virginia,TCU,68,61,36,12,0,Foul on Brandon Parrish.
+West Virginia,TCU,68,61,36,12,0,Official TV Timeout
+West Virginia,TCU,68,61,36,12,0,Gary Browne missed Free Throw.
+West Virginia,TCU,68,61,36,12,0,Jonathan Holton Offensive Rebound.
+West Virginia,TCU,70,61,36,36,1,Gary Browne made Jumper.
+West Virginia,TCU,70,61,36,56,0,Foul on Jevon Carter.
+West Virginia,TCU,70,62,36,56,1,Kyan Anderson made Free Throw.
+West Virginia,TCU,70,63,36,56,1,Kyan Anderson made Free Throw.
+West Virginia,TCU,73,63,37,26,1,Jaysean Paige made Three Point Jumper. Assisted by Gary Browne.
+West Virginia,TCU,73,65,37,44,1,Trey Zeigler made Jumper.
+West Virginia,TCU,73,65,37,49,0,TCU  Timeout
+West Virginia,TCU,73,65,38,16,0,Gary Browne Turnover.
+West Virginia,TCU,73,65,38,18,0,Kenrich Williams Turnover.
+West Virginia,TCU,73,65,38,18,0,Jonathan Holton Steal.
+West Virginia,TCU,73,65,38,18,0,Foul on Kyan Anderson.
+West Virginia,TCU,73,65,38,18,0,Jonathan Holton missed Free Throw.
+West Virginia,TCU,73,65,38,18,0,West Virginia Deadball Team Rebound.
+West Virginia,TCU,74,65,38,18,1,Jonathan Holton made Free Throw.
+West Virginia,TCU,74,65,38,19,0,Foul on Jaysean Paige.
+West Virginia,TCU,74,66,38,19,1,Kyan Anderson made Free Throw.
+West Virginia,TCU,74,67,38,19,1,Kyan Anderson made Free Throw.
+West Virginia,TCU,74,67,38,30,0,Foul on Trey Zeigler.
+West Virginia,TCU,75,67,38,30,1,Gary Browne made Free Throw.
+West Virginia,TCU,76,67,38,30,1,Gary Browne made Free Throw.
+West Virginia,TCU,76,67,38,47,0,Kyan Anderson Turnover.
+West Virginia,TCU,76,67,38,47,0,Jevon Carter Steal.
+West Virginia,TCU,76,67,38,57,0,Foul on Kenrich Williams.
+West Virginia,TCU,77,67,38,57,1,Devin Williams made Free Throw.
+West Virginia,TCU,78,67,38,57,1,Devin Williams made Free Throw.
+West Virginia,TCU,78,67,39,7,0,Trey Zeigler missed Jumper.
+West Virginia,TCU,78,67,39,7,0,Chauncey Collins Offensive Rebound.
+West Virginia,TCU,78,67,39,14,0,Chauncey Collins missed Jumper.
+West Virginia,TCU,78,67,39,14,0,Devin Williams Defensive Rebound.
+West Virginia,TCU,78,67,39,39,0,Gary Browne missed Jumper.
+West Virginia,TCU,78,67,39,39,0,Jevon Carter Offensive Rebound.
+West Virginia,TCU,78,67,39,39,0,Jevon Carter missed Two Point Tip Shot.
+West Virginia,TCU,78,67,39,39,0,TCU Defensive Rebound.
+West Virginia,TCU,78,67,39,51,0,Kyan Anderson missed Three Point Jumper.
+West Virginia,TCU,78,67,39,51,0,Devin Williams Defensive Rebound.

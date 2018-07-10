@@ -1,0 +1,338 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+VMI,Mercer,3,0,0,10,1,Tim Marshall made Three Point Jumper. Assisted by Julian Eleby.
+VMI,Mercer,3,0,0,36,0,Jibri Bryan missed Three Point Jumper.
+VMI,Mercer,3,0,0,36,0,Jordan Weethee Defensive Rebound.
+VMI,Mercer,3,0,0,44,0,Brian Brown missed Three Point Jumper.
+VMI,Mercer,3,0,0,44,0,Phillip Anglade Offensive Rebound.
+VMI,Mercer,5,0,0,48,1,Phillip Anglade made Layup.
+VMI,Mercer,5,0,1,15,0,Ike Nwamu missed Three Point Jumper.
+VMI,Mercer,5,0,1,15,0,Darious Moten Offensive Rebound.
+VMI,Mercer,5,0,1,20,0,Darious Moten missed Dunk.
+VMI,Mercer,5,0,1,28,0,Julian Eleby Defensive Rebound.
+VMI,Mercer,5,0,1,43,0,Tim Marshall missed Three Point Jumper.
+VMI,Mercer,5,0,1,43,0,Phillip Leonard Defensive Rebound.
+VMI,Mercer,5,0,1,56,0,Ike Nwamu missed Three Point Jumper.
+VMI,Mercer,5,0,1,56,0,Jordan Weethee Defensive Rebound.
+VMI,Mercer,5,0,2,5,0,Brian Brown missed Layup.
+VMI,Mercer,5,0,2,5,0,T.J. Hallice Defensive Rebound.
+VMI,Mercer,5,3,2,15,1,Jibri Bryan made Three Point Jumper. Assisted by Ike Nwamu.
+VMI,Mercer,5,3,2,32,0,Julian Eleby missed Three Point Jumper.
+VMI,Mercer,5,3,2,32,0,Darious Moten Defensive Rebound.
+VMI,Mercer,5,6,2,49,1,Ike Nwamu made Three Point Jumper. Assisted by Phillip Leonard.
+VMI,Mercer,5,6,3,3,0,Tim Marshall missed Layup.
+VMI,Mercer,5,6,3,3,0,Darious Moten Block.
+VMI,Mercer,5,6,3,6,0,Ike Nwamu Defensive Rebound.
+VMI,Mercer,5,6,3,8,0,Foul on Jordan Weethee.
+VMI,Mercer,5,7,3,8,1,Ike Nwamu made Free Throw.
+VMI,Mercer,5,8,3,8,1,Ike Nwamu made Free Throw.
+VMI,Mercer,5,8,3,20,0,Jarid Watson missed Jumper.
+VMI,Mercer,5,8,3,20,0,Stephon Jelks Defensive Rebound.
+VMI,Mercer,5,8,3,43,0,Ike Nwamu missed Layup.
+VMI,Mercer,5,8,3,47,0,T.J. Hallice Offensive Rebound.
+VMI,Mercer,5,8,4,3,0,Ike Nwamu missed Three Point Jumper.
+VMI,Mercer,5,8,4,3,0,Craig Hinton Defensive Rebound.
+VMI,Mercer,5,8,4,8,0,Craig Hinton Turnover.
+VMI,Mercer,5,8,4,9,0,Stephon Jelks Steal.
+VMI,Mercer,5,10,4,20,1,Jibri Bryan made Layup.
+VMI,Mercer,5,10,4,26,0,Foul on Jibri Bryan.
+VMI,Mercer,5,10,4,26,0,Official TV Timeout
+VMI,Mercer,5,10,4,48,0,Tim Marshall Turnover.
+VMI,Mercer,5,10,4,50,0,T.J. Hallice Steal.
+VMI,Mercer,5,10,5,3,0,Foul on Tim Marshall.
+VMI,Mercer,5,10,5,3,0,Jestin Lewis missed Free Throw.
+VMI,Mercer,5,10,5,3,0,Mercer Deadball Team Rebound.
+VMI,Mercer,5,11,5,3,1,Jestin Lewis made Free Throw.
+VMI,Mercer,5,11,5,35,0,Tim Marshall missed Three Point Jumper.
+VMI,Mercer,5,11,5,35,0,Lawrence Brown Defensive Rebound.
+VMI,Mercer,5,11,5,50,0,Foul on Phillip Leonard.
+VMI,Mercer,5,11,5,50,0,Phillip Leonard Turnover.
+VMI,Mercer,7,11,6,1,1,Julian Eleby made Layup. Assisted by Jordan Weethee.
+VMI,Mercer,7,14,6,31,1,Stephon Jelks made Three Point Jumper. Assisted by Ike Nwamu.
+VMI,Mercer,7,14,6,59,0,Brian Brown missed Three Point Jumper.
+VMI,Mercer,7,14,6,59,0,Ike Nwamu Defensive Rebound.
+VMI,Mercer,7,14,7,7,0,Jestin Lewis missed Three Point Jumper.
+VMI,Mercer,7,14,7,7,0,Julian Eleby Defensive Rebound.
+VMI,Mercer,7,14,7,15,0,Julian Eleby Turnover.
+VMI,Mercer,7,14,7,16,0,Stephon Jelks Steal.
+VMI,Mercer,7,14,7,33,0,Foul on Jordan Weethee.
+VMI,Mercer,7,17,7,39,1,Ike Nwamu made Three Point Jumper. Assisted by Jibri Bryan.
+VMI,Mercer,7,17,7,50,0,Tim Marshall missed Three Point Jumper.
+VMI,Mercer,7,17,7,50,0,T.J. Hallice Defensive Rebound.
+VMI,Mercer,7,17,8,4,0,Jordan Strawberry missed Jumper.
+VMI,Mercer,7,17,8,4,0,Trey Chapman Defensive Rebound.
+VMI,Mercer,7,17,8,14,0,Foul on Stephon Jelks.
+VMI,Mercer,7,17,8,14,0,Official TV Timeout
+VMI,Mercer,8,17,8,14,1,Julian Eleby made Free Throw.
+VMI,Mercer,9,17,8,14,1,Julian Eleby made Free Throw.
+VMI,Mercer,9,19,8,21,1,Ike Nwamu made Jumper.
+VMI,Mercer,9,19,8,23,0,Foul on Tim Marshall.
+VMI,Mercer,9,19,8,23,0,Tim Marshall Turnover.
+VMI,Mercer,9,19,8,28,0,T.J. Hallice missed Jumper.
+VMI,Mercer,9,19,8,28,0,Phillip Anglade Defensive Rebound.
+VMI,Mercer,9,19,8,52,0,Foul on Jibri Bryan.
+VMI,Mercer,9,19,9,2,0,Trey Chapman Turnover.
+VMI,Mercer,9,19,9,3,0,Jestin Lewis Steal.
+VMI,Mercer,9,19,9,5,0,Foul on Phillip Anglade.
+VMI,Mercer,9,20,9,5,1,Ike Nwamu made Free Throw.
+VMI,Mercer,9,21,9,5,1,Ike Nwamu made Free Throw.
+VMI,Mercer,9,21,9,11,0,Brian Brown missed Layup.
+VMI,Mercer,9,21,9,11,0,Phillip Leonard Defensive Rebound.
+VMI,Mercer,9,23,9,22,1,Jestin Lewis made Layup. Assisted by Phillip Leonard.
+VMI,Mercer,9,23,9,27,0,VMI  Timeout
+VMI,Mercer,9,23,9,35,0,Trey Chapman missed Three Point Jumper.
+VMI,Mercer,9,23,9,35,0,VMI Offensive Rebound.
+VMI,Mercer,9,23,9,59,0,Trey Chapman Turnover.
+VMI,Mercer,9,23,10,28,0,Phillip Leonard Turnover.
+VMI,Mercer,9,23,10,46,0,Julian Eleby missed Jumper.
+VMI,Mercer,9,23,10,46,0,Jestin Lewis Defensive Rebound.
+VMI,Mercer,9,26,10,56,1,Stephon Jelks made Three Point Jumper. Assisted by T.J. Hallice.
+VMI,Mercer,9,26,11,9,0,Tim Marshall missed Three Point Jumper.
+VMI,Mercer,9,26,11,9,0,Ike Nwamu Defensive Rebound.
+VMI,Mercer,9,26,11,35,0,Ike Nwamu missed Three Point Jumper.
+VMI,Mercer,9,26,11,35,0,Craig Hinton Defensive Rebound.
+VMI,Mercer,9,26,11,44,0,Tim Marshall missed Three Point Jumper.
+VMI,Mercer,9,26,11,44,0,Jarid Watson Offensive Rebound.
+VMI,Mercer,9,26,11,59,0,Brian Brown Turnover.
+VMI,Mercer,9,26,12,0,0,Ike Nwamu Steal.
+VMI,Mercer,9,26,12,3,0,Jestin Lewis missed Layup.
+VMI,Mercer,9,26,12,3,0,Julian Eleby Defensive Rebound.
+VMI,Mercer,9,26,12,14,0,Julian Eleby missed Layup.
+VMI,Mercer,9,26,12,14,0,Stephon Jelks Defensive Rebound.
+VMI,Mercer,9,26,12,38,0,Ike Nwamu missed Three Point Jumper.
+VMI,Mercer,9,26,12,38,0,Julian Eleby Defensive Rebound.
+VMI,Mercer,11,26,12,46,1,Julian Eleby made Layup.
+VMI,Mercer,11,26,12,48,0,Mercer  Timeout
+VMI,Mercer,11,26,12,52,0,Official TV Timeout
+VMI,Mercer,11,26,12,58,0,Foul on Phillip Anglade.
+VMI,Mercer,11,26,12,58,0,Phillip Leonard missed Free Throw.
+VMI,Mercer,11,26,12,58,0,Mercer Deadball Team Rebound.
+VMI,Mercer,11,27,12,58,1,Phillip Leonard made Free Throw.
+VMI,Mercer,11,27,13,9,0,Jordan Weethee missed Three Point Jumper.
+VMI,Mercer,11,27,13,9,0,VMI Deadball Team Rebound.
+VMI,Mercer,11,27,13,20,0,Foul on Jestin Lewis.
+VMI,Mercer,11,27,13,28,0,Foul on Phillip Leonard.
+VMI,Mercer,11,27,13,28,0,Julian Eleby missed Free Throw.
+VMI,Mercer,11,27,13,28,0,VMI Deadball Team Rebound.
+VMI,Mercer,12,27,13,28,1,Julian Eleby made Free Throw.
+VMI,Mercer,12,27,13,58,0,Jordan Strawberry missed Three Point Jumper.
+VMI,Mercer,12,27,13,58,0,Stephon Jelks Offensive Rebound.
+VMI,Mercer,12,29,14,17,1,Jestin Lewis made Jumper.
+VMI,Mercer,12,29,14,18,0,Foul on Christian Burton.
+VMI,Mercer,12,29,14,18,0,Jestin Lewis missed Free Throw.
+VMI,Mercer,12,29,14,18,0,Brian Brown Defensive Rebound.
+VMI,Mercer,12,29,14,28,0,Julian Eleby missed Layup.
+VMI,Mercer,12,29,14,28,0,T.J. Hallice Defensive Rebound.
+VMI,Mercer,12,29,14,49,0,Ike Nwamu missed Three Point Jumper.
+VMI,Mercer,12,29,14,49,0,Julian Eleby Defensive Rebound.
+VMI,Mercer,12,29,14,57,0,Tim Marshall Turnover.
+VMI,Mercer,12,29,15,20,0,Jestin Lewis missed Three Point Jumper.
+VMI,Mercer,12,29,15,20,0,Julian Eleby Defensive Rebound.
+VMI,Mercer,12,29,15,22,0,Foul on Stephon Jelks.
+VMI,Mercer,12,29,15,22,0,Julian Eleby missed Free Throw.
+VMI,Mercer,12,29,15,22,0,Lawrence Brown Defensive Rebound.
+VMI,Mercer,12,29,15,41,0,Lawrence Brown Turnover.
+VMI,Mercer,15,29,15,48,1,Julian Eleby made Three Point Jumper. Assisted by Phillip Anglade.
+VMI,Mercer,15,31,15,59,1,T.J. Hallice made Layup. Assisted by Lawrence Brown.
+VMI,Mercer,15,31,15,59,0,Foul on Phillip Anglade.
+VMI,Mercer,15,32,15,59,1,T.J. Hallice made Free Throw.
+VMI,Mercer,17,32,16,20,1,Tim Marshall made Jumper.
+VMI,Mercer,17,34,16,41,1,Lawrence Brown made Layup.
+VMI,Mercer,17,34,16,50,0,Julian Eleby missed Three Point Jumper.
+VMI,Mercer,17,34,16,50,0,Julian Eleby Offensive Rebound.
+VMI,Mercer,20,34,16,54,1,Brian Brown made Three Point Jumper. Assisted by Julian Eleby.
+VMI,Mercer,20,36,17,19,1,Lawrence Brown made Layup. Assisted by Jordan Strawberry.
+VMI,Mercer,20,36,17,19,0,Foul on Jarid Watson.
+VMI,Mercer,20,36,17,19,0,Official TV Timeout
+VMI,Mercer,20,36,17,19,0,Lawrence Brown missed Free Throw.
+VMI,Mercer,20,36,17,19,0,Tim Marshall Defensive Rebound.
+VMI,Mercer,20,36,17,29,0,Tim Marshall missed Three Point Jumper.
+VMI,Mercer,20,36,17,29,0,Jordan Strawberry Defensive Rebound.
+VMI,Mercer,20,36,17,35,0,Foul on Tim Marshall.
+VMI,Mercer,20,37,17,35,1,T.J. Hallice made Free Throw.
+VMI,Mercer,20,38,17,35,1,T.J. Hallice made Free Throw.
+VMI,Mercer,20,38,17,58,0,Brian Brown missed Jumper.
+VMI,Mercer,20,38,17,58,0,T.J. Hallice Defensive Rebound.
+VMI,Mercer,20,38,18,23,0,Jestin Lewis missed Three Point Jumper.
+VMI,Mercer,20,38,18,23,0,T.J. Hallice Offensive Rebound.
+VMI,Mercer,20,38,19,1,0,Mercer  Turnover.
+VMI,Mercer,20,38,19,21,0,Craig Hinton Turnover.
+VMI,Mercer,20,38,19,22,0,Ike Nwamu Steal.
+VMI,Mercer,20,40,19,23,1,Ike Nwamu made Layup.
+VMI,Mercer,20,40,19,33,0,Brian Brown missed Three Point Jumper.
+VMI,Mercer,20,40,19,33,0,Craig Hinton Offensive Rebound.
+VMI,Mercer,20,40,19,40,0,Craig Hinton missed Layup.
+VMI,Mercer,20,40,19,40,0,Lawrence Brown Block.
+VMI,Mercer,20,40,19,43,0,Lawrence Brown Defensive Rebound.
+VMI,Mercer,20,40,19,46,0,T.J. Hallice missed Layup.
+VMI,Mercer,20,40,19,46,0,Craig Hinton Block.
+VMI,Mercer,20,40,19,46,0,Mercer Offensive Rebound.
+VMI,Mercer,20,42,19,46,1,Jordan Strawberry made Jumper.
+VMI,Mercer,20,42,20,0,0,End of 1st half
+VMI,Mercer,20,42,20,34,0,Jordan Weethee missed Three Point Jumper.
+VMI,Mercer,20,42,20,34,0,Mercer Deadball Team Rebound.
+VMI,Mercer,20,44,20,51,1,T.J. Hallice made Layup. Assisted by Phillip Leonard.
+VMI,Mercer,20,44,21,4,0,Jordan Weethee Turnover.
+VMI,Mercer,20,44,21,5,0,T.J. Hallice Steal.
+VMI,Mercer,20,44,21,31,0,Phillip Leonard missed Jumper.
+VMI,Mercer,20,44,21,31,0,Jordan Weethee Defensive Rebound.
+VMI,Mercer,20,44,21,49,0,Phillip Anglade missed Layup.
+VMI,Mercer,20,44,21,49,0,Stephon Jelks Defensive Rebound.
+VMI,Mercer,20,44,22,6,0,Phillip Leonard missed Jumper.
+VMI,Mercer,20,44,22,6,0,Julian Eleby Defensive Rebound.
+VMI,Mercer,20,44,22,12,0,Foul on Ike Nwamu.
+VMI,Mercer,20,44,22,12,0,Tim Marshall missed Free Throw.
+VMI,Mercer,20,44,22,12,0,VMI Deadball Team Rebound.
+VMI,Mercer,21,44,22,12,1,Tim Marshall made Free Throw.
+VMI,Mercer,21,46,22,33,1,T.J. Hallice made Layup. Assisted by Jordan Strawberry.
+VMI,Mercer,21,46,22,33,0,Foul on Christian Burton.
+VMI,Mercer,21,46,22,33,0,T.J. Hallice missed Free Throw.
+VMI,Mercer,21,46,22,33,0,Tim Marshall Defensive Rebound.
+VMI,Mercer,21,46,22,49,0,Brian Brown missed Three Point Jumper.
+VMI,Mercer,21,46,22,49,0,T.J. Hallice Defensive Rebound.
+VMI,Mercer,21,48,23,0,1,Jibri Bryan made Jumper.
+VMI,Mercer,21,48,23,17,0,Jordan Weethee Turnover.
+VMI,Mercer,21,48,23,18,0,Jibri Bryan Steal.
+VMI,Mercer,21,50,23,35,1,T.J. Hallice made Layup.
+VMI,Mercer,21,50,23,46,0,Foul on T.J. Hallice.
+VMI,Mercer,22,50,23,46,1,Julian Eleby made Free Throw.
+VMI,Mercer,23,50,23,46,1,Julian Eleby made Free Throw.
+VMI,Mercer,23,50,23,58,0,Foul on Jestin Lewis.
+VMI,Mercer,23,50,23,58,0,Jestin Lewis Turnover.
+VMI,Mercer,25,50,24,1,1,Phillip Anglade made Layup. Assisted by Brian Brown.
+VMI,Mercer,25,50,24,17,0,Lawrence Brown missed Jumper.
+VMI,Mercer,25,50,24,17,0,Phillip Anglade Block.
+VMI,Mercer,25,50,24,20,0,Brian Brown Defensive Rebound.
+VMI,Mercer,28,50,24,23,1,Tim Marshall made Three Point Jumper. Assisted by Brian Brown.
+VMI,Mercer,28,50,24,43,0,Official TV Timeout
+VMI,Mercer,28,52,24,52,1,T.J. Hallice made Layup. Assisted by Ike Nwamu.
+VMI,Mercer,30,52,25,5,1,Phillip Anglade made Layup.
+VMI,Mercer,30,54,25,25,1,Phillip Leonard made Layup. Assisted by T.J. Hallice.
+VMI,Mercer,33,54,25,43,1,Tim Marshall made Three Point Jumper. Assisted by Julian Eleby.
+VMI,Mercer,33,54,26,14,0,Phillip Leonard missed Layup.
+VMI,Mercer,33,54,26,14,0,Brian Brown Block.
+VMI,Mercer,33,54,26,16,0,T.J. Hallice Offensive Rebound.
+VMI,Mercer,33,56,26,17,1,T.J. Hallice made Layup.
+VMI,Mercer,33,56,26,35,0,Foul on T.J. Hallice.
+VMI,Mercer,33,56,26,51,0,Foul on T.J. Hallice.
+VMI,Mercer,33,56,26,51,0,Trey Chapman missed Free Throw.
+VMI,Mercer,33,56,26,51,0,VMI Deadball Team Rebound.
+VMI,Mercer,34,56,26,51,1,Trey Chapman made Free Throw.
+VMI,Mercer,34,56,26,56,0,Foul on Jarid Watson.
+VMI,Mercer,34,56,26,56,0,Foul on Jarid Watson.
+VMI,Mercer,34,57,26,56,1,Stephon Jelks made Free Throw.
+VMI,Mercer,34,58,26,56,1,Stephon Jelks made Free Throw.
+VMI,Mercer,34,58,27,16,0,Foul on Stephon Jelks.
+VMI,Mercer,35,58,27,16,1,Fred Iruafemi made Free Throw.
+VMI,Mercer,35,58,27,16,0,Fred Iruafemi missed Free Throw.
+VMI,Mercer,35,58,27,16,0,Ike Nwamu Defensive Rebound.
+VMI,Mercer,35,58,27,21,0,Foul on Fred Iruafemi.
+VMI,Mercer,35,58,27,33,0,Stephon Jelks missed Jumper.
+VMI,Mercer,35,58,27,33,0,Tim Marshall Defensive Rebound.
+VMI,Mercer,35,58,27,42,0,Tim Marshall missed Jumper.
+VMI,Mercer,35,58,27,42,0,Stephon Jelks Defensive Rebound.
+VMI,Mercer,35,58,27,49,0,Jibri Bryan missed Jumper.
+VMI,Mercer,35,58,27,49,0,Phillip Anglade Defensive Rebound.
+VMI,Mercer,35,58,28,3,0,Brian Brown missed Three Point Jumper.
+VMI,Mercer,35,58,28,3,0,Jibri Bryan Defensive Rebound.
+VMI,Mercer,35,60,28,32,1,Stephon Jelks made Layup.
+VMI,Mercer,35,60,28,51,0,Phillip Anglade missed Layup.
+VMI,Mercer,35,60,28,51,0,Stephon Jelks Defensive Rebound.
+VMI,Mercer,35,60,29,1,0,Foul on Brian Brown.
+VMI,Mercer,35,60,29,1,0,Official TV Timeout
+VMI,Mercer,35,62,29,10,1,T.J. Hallice made Jumper. Assisted by Lawrence Brown.
+VMI,Mercer,35,62,29,32,0,Phillip Anglade missed Jumper.
+VMI,Mercer,35,62,29,32,0,T.J. Hallice Defensive Rebound.
+VMI,Mercer,35,62,29,52,0,Jordan Strawberry missed Three Point Jumper.
+VMI,Mercer,35,62,29,52,0,Lawrence Brown Offensive Rebound.
+VMI,Mercer,35,64,29,58,1,Lawrence Brown made Layup.
+VMI,Mercer,35,64,30,10,0,Julian Eleby missed Layup.
+VMI,Mercer,35,64,30,10,0,Ike Nwamu Block.
+VMI,Mercer,35,64,30,10,0,VMI Offensive Rebound.
+VMI,Mercer,37,64,30,22,1,Julian Eleby made Layup.
+VMI,Mercer,37,66,30,31,1,T.J. Hallice made Layup.
+VMI,Mercer,37,66,30,37,0,Craig Hinton missed Three Point Jumper.
+VMI,Mercer,37,66,30,37,0,Jarid Watson Offensive Rebound.
+VMI,Mercer,37,66,30,38,0,Christian Burton Turnover.
+VMI,Mercer,37,66,30,48,0,Stephon Jelks missed Layup.
+VMI,Mercer,37,66,30,48,0,Jarid Watson Block.
+VMI,Mercer,37,66,30,48,0,Jordan Weethee Defensive Rebound.
+VMI,Mercer,37,66,31,2,0,Foul on Jordan Strawberry.
+VMI,Mercer,37,66,31,2,0,Christian Burton missed Free Throw.
+VMI,Mercer,37,66,31,2,0,Jibri Bryan Defensive Rebound.
+VMI,Mercer,37,66,31,27,0,T.J. Hallice Turnover.
+VMI,Mercer,37,66,31,28,0,Christian Burton Steal.
+VMI,Mercer,39,66,31,37,1,Craig Hinton made Layup.
+VMI,Mercer,39,66,32,21,0,Jibri Bryan missed Three Point Jumper.
+VMI,Mercer,39,66,32,21,0,Fred Iruafemi Defensive Rebound.
+VMI,Mercer,41,66,32,28,1,Brian Brown made Layup.
+VMI,Mercer,41,66,32,35,0,Foul on Brian Brown.
+VMI,Mercer,41,66,32,35,0,Official TV Timeout
+VMI,Mercer,41,68,32,48,1,Ike Nwamu made Dunk. Assisted by Stephon Jelks.
+VMI,Mercer,41,68,32,58,0,Julian Eleby missed Three Point Jumper.
+VMI,Mercer,41,68,32,58,0,Stephon Jelks Defensive Rebound.
+VMI,Mercer,41,68,33,5,0,Foul on Brian Brown.
+VMI,Mercer,41,69,33,5,1,Jibri Bryan made Free Throw.
+VMI,Mercer,41,70,33,5,1,Jibri Bryan made Free Throw.
+VMI,Mercer,41,70,33,11,0,Julian Eleby missed Jumper.
+VMI,Mercer,41,70,33,11,0,Julian Eleby Offensive Rebound.
+VMI,Mercer,43,70,33,16,1,Julian Eleby made Layup.
+VMI,Mercer,43,72,33,29,1,Lawrence Brown made Layup. Assisted by Jordan Strawberry.
+VMI,Mercer,45,72,33,43,1,Phillip Anglade made Layup.
+VMI,Mercer,45,72,34,1,0,Lawrence Brown missed Layup.
+VMI,Mercer,45,72,34,1,0,Phillip Anglade Block.
+VMI,Mercer,45,72,34,3,0,Stephon Jelks Offensive Rebound.
+VMI,Mercer,45,75,34,6,1,Ike Nwamu made Three Point Jumper. Assisted by Jibri Bryan.
+VMI,Mercer,47,75,34,27,1,Phillip Anglade made Layup.
+VMI,Mercer,47,75,34,42,0,Stephon Jelks missed Layup.
+VMI,Mercer,47,75,34,42,0,Mercer Offensive Rebound.
+VMI,Mercer,47,77,34,53,1,Jibri Bryan made Layup. Assisted by Phillip Leonard.
+VMI,Mercer,47,77,35,4,0,Julian Eleby missed Layup.
+VMI,Mercer,47,77,35,4,0,Jibri Bryan Defensive Rebound.
+VMI,Mercer,47,77,35,37,0,Phillip Leonard missed Layup.
+VMI,Mercer,47,77,35,37,0,Phillip Anglade Block.
+VMI,Mercer,47,77,35,41,0,Julian Eleby Defensive Rebound.
+VMI,Mercer,47,77,35,55,0,Mercer  Timeout
+VMI,Mercer,49,77,35,58,1,Julian Eleby made Layup.
+VMI,Mercer,49,77,36,0,0,Foul on Phillip Leonard.
+VMI,Mercer,49,77,36,0,0,Julian Eleby missed Free Throw.
+VMI,Mercer,49,77,36,0,0,Lawrence Brown Defensive Rebound.
+VMI,Mercer,49,77,36,9,0,Official TV Timeout
+VMI,Mercer,49,80,36,32,1,Jibri Bryan made Three Point Jumper. Assisted by Phillip Leonard.
+VMI,Mercer,52,80,36,43,1,Brian Brown made Three Point Jumper.
+VMI,Mercer,52,82,36,53,1,Stephon Jelks made Dunk. Assisted by T.J. Hallice.
+VMI,Mercer,52,82,37,2,0,Brian Brown missed Three Point Jumper.
+VMI,Mercer,52,82,37,2,0,Stephon Jelks Defensive Rebound.
+VMI,Mercer,52,82,37,8,0,Foul on Trey Chapman.
+VMI,Mercer,52,82,37,8,0,Phillip Leonard missed Free Throw.
+VMI,Mercer,52,82,37,8,0,Julian Eleby Defensive Rebound.
+VMI,Mercer,52,82,37,17,0,Julian Eleby Turnover.
+VMI,Mercer,52,82,37,18,0,Jestin Lewis Steal.
+VMI,Mercer,52,82,37,21,0,Foul on Julian Eleby.
+VMI,Mercer,52,83,37,21,1,Phillip Leonard made Free Throw.
+VMI,Mercer,52,84,37,21,1,Phillip Leonard made Free Throw.
+VMI,Mercer,54,84,37,26,1,Julian Eleby made Layup.
+VMI,Mercer,54,84,37,52,0,Foul on Julian Eleby.
+VMI,Mercer,54,84,37,52,0,Jordan Strawberry missed Free Throw.
+VMI,Mercer,54,84,37,52,0,Mercer Deadball Team Rebound.
+VMI,Mercer,54,85,37,52,1,Jordan Strawberry made Free Throw.
+VMI,Mercer,54,85,37,59,0,Julian Eleby missed Three Point Jumper.
+VMI,Mercer,54,85,37,59,0,Jestin Lewis Defensive Rebound.
+VMI,Mercer,54,85,38,27,0,Foul on Trey Chapman.
+VMI,Mercer,54,85,38,27,0,Lawrence Brown missed Free Throw.
+VMI,Mercer,54,85,38,27,0,Mercer Deadball Team Rebound.
+VMI,Mercer,54,86,38,27,1,Lawrence Brown made Free Throw.
+VMI,Mercer,54,86,38,38,0,Foul on Tyre Moore.
+VMI,Mercer,55,86,38,38,1,Julian Eleby made Free Throw.
+VMI,Mercer,56,86,38,38,1,Julian Eleby made Free Throw.
+VMI,Mercer,56,86,38,46,0,Tyre Moore missed Three Point Jumper.
+VMI,Mercer,56,86,38,46,0,Christian Burton Defensive Rebound.
+VMI,Mercer,59,86,38,53,1,Brian Brown made Three Point Jumper.
+VMI,Mercer,59,86,39,24,0,Foul on Trey Chapman.
+VMI,Mercer,59,86,39,24,0,Demetre Rivers missed Free Throw.
+VMI,Mercer,59,86,39,24,0,Mercer Deadball Team Rebound.
+VMI,Mercer,59,87,39,24,1,Demetre Rivers made Free Throw.
+VMI,Mercer,61,87,39,29,1,Christian Burton made Layup.
+VMI,Mercer,61,89,39,41,1,Niklas Ney made Layup. Assisted by Matt Panaggio.
+VMI,Mercer,61,89,39,49,0,Christian Burton Turnover.
+VMI,Mercer,61,89,39,51,0,Lawrence Brown Steal.
+VMI,Mercer,61,89,40,0,0,End of Game

@@ -1,0 +1,394 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Albany,Brown,0,0,0,17,0,John Puk missed Jumper.
+Albany,Brown,0,0,0,17,0,Steven Spieth Defensive Rebound.
+Albany,Brown,0,2,0,39,1,Cedric Kuakumensah made Jumper.
+Albany,Brown,0,2,0,55,0,John Puk missed Jumper.
+Albany,Brown,0,2,0,55,0,Sam Rowley Offensive Rebound.
+Albany,Brown,0,2,1,2,0,Sam Rowley missed Layup.
+Albany,Brown,0,2,1,2,0,Rafael Maia Defensive Rebound.
+Albany,Brown,0,2,1,19,0,Cedric Kuakumensah missed Jumper.
+Albany,Brown,0,2,1,19,0,DJ Evans Defensive Rebound.
+Albany,Brown,0,2,1,28,0,Sam Rowley missed Jumper.
+Albany,Brown,0,2,1,28,0,John Puk Offensive Rebound.
+Albany,Brown,0,2,1,31,0,Foul on Rafael Maia.
+Albany,Brown,2,2,1,41,1,Sam Rowley made Layup.
+Albany,Brown,2,2,2,3,0,Tavon Blackmon missed Three Point Jumper.
+Albany,Brown,2,2,2,3,0,Gary Johnson Defensive Rebound.
+Albany,Brown,4,2,2,20,1,Gary Johnson made Jumper. Assisted by Sam Rowley.
+Albany,Brown,4,2,2,27,0,Foul on Gary Johnson.
+Albany,Brown,4,2,2,27,0,Sean McGonagill missed Free Throw.
+Albany,Brown,4,2,2,27,0,Brown Deadball Team Rebound.
+Albany,Brown,4,3,2,27,1,Sean McGonagill made Free Throw.
+Albany,Brown,4,3,2,48,0,Foul on Steven Spieth.
+Albany,Brown,5,3,2,48,1,Gary Johnson made Free Throw.
+Albany,Brown,6,3,2,48,1,Gary Johnson made Free Throw.
+Albany,Brown,6,3,3,3,0,Foul on Sam Rowley.
+Albany,Brown,6,3,3,4,0,Sean McGonagill missed Three Point Jumper.
+Albany,Brown,6,3,3,4,0,John Puk Defensive Rebound.
+Albany,Brown,8,3,3,10,1,Peter Hooley made Layup.
+Albany,Brown,8,3,3,10,0,Foul on Sean McGonagill.
+Albany,Brown,9,3,3,10,1,Peter Hooley made Free Throw.
+Albany,Brown,9,6,3,29,1,Steven Spieth made Three Point Jumper. Assisted by Sean McGonagill.
+Albany,Brown,9,6,3,44,0,Foul on Tavon Blackmon.
+Albany,Brown,9,6,3,45,0,Peter Hooley missed Jumper.
+Albany,Brown,9,6,3,45,0,Sean McGonagill Defensive Rebound.
+Albany,Brown,9,8,3,52,1,Sean McGonagill made Layup.
+Albany,Brown,11,8,4,10,1,Gary Johnson made Layup.
+Albany,Brown,11,8,4,10,0,Foul on Rafael Maia.
+Albany,Brown,11,8,4,10,0,Official TV Timeout
+Albany,Brown,12,8,4,10,1,Gary Johnson made Free Throw.
+Albany,Brown,12,8,4,45,0,Sean McGonagill missed Three Point Jumper.
+Albany,Brown,12,8,4,45,0,Dockery Walker Offensive Rebound.
+Albany,Brown,12,8,4,48,0,Foul on John Puk.
+Albany,Brown,12,8,4,48,0,Dockery Walker missed Free Throw.
+Albany,Brown,12,8,4,48,0,Brown Deadball Team Rebound.
+Albany,Brown,12,8,4,48,0,Dockery Walker missed Free Throw.
+Albany,Brown,12,8,4,48,0,John Puk Defensive Rebound.
+Albany,Brown,12,8,4,58,0,John Puk Turnover.
+Albany,Brown,12,8,4,58,0,Foul on John Puk.
+Albany,Brown,12,8,5,22,0,Cedric Kuakumensah Turnover.
+Albany,Brown,12,8,5,22,0,Foul on Dockery Walker.
+Albany,Brown,12,8,5,49,0,Gary Johnson Turnover.
+Albany,Brown,12,8,5,50,0,Tavon Blackmon Steal.
+Albany,Brown,12,8,5,53,0,Tavon Blackmon missed Layup.
+Albany,Brown,12,8,5,53,0,Dockery Walker Offensive Rebound.
+Albany,Brown,12,8,5,57,0,Steven Spieth missed Three Point Jumper.
+Albany,Brown,12,8,5,57,0,Sam Rowley Defensive Rebound.
+Albany,Brown,14,8,6,6,1,Luke Devlin made Layup. Assisted by Peter Hooley.
+Albany,Brown,14,8,6,17,0,Dockery Walker Turnover.
+Albany,Brown,14,8,6,35,0,DJ Evans Turnover.
+Albany,Brown,14,8,6,50,0,Leland King missed Three Point Jumper.
+Albany,Brown,14,8,6,50,0,Dave Wiegmann Defensive Rebound.
+Albany,Brown,16,8,7,0,1,Sam Rowley made Layup.
+Albany,Brown,16,8,7,0,0,Foul on Norman Hobbie.
+Albany,Brown,17,8,7,0,1,Sam Rowley made Free Throw.
+Albany,Brown,17,11,7,12,1,Sean McGonagill made Three Point Jumper.
+Albany,Brown,19,11,7,24,1,DJ Evans made Jumper.
+Albany,Brown,19,11,7,34,0,Sean McGonagill missed Three Point Jumper.
+Albany,Brown,19,11,7,34,0,DJ Evans Defensive Rebound.
+Albany,Brown,19,11,7,46,0,DJ Evans Turnover.
+Albany,Brown,19,11,7,49,0,Leland King Steal.
+Albany,Brown,19,11,7,52,0,Norman Hobbie missed Three Point Jumper.
+Albany,Brown,19,11,7,52,0,Cedric Kuakumensah Offensive Rebound.
+Albany,Brown,19,13,8,8,1,Cedric Kuakumensah made Jumper. Assisted by Steven Spieth.
+Albany,Brown,19,13,8,23,0,Luke Devlin missed Jumper.
+Albany,Brown,19,13,8,23,0,Steven Spieth Defensive Rebound.
+Albany,Brown,19,13,8,33,0,Leland King Turnover.
+Albany,Brown,19,13,8,35,0,Levan Shengelia Steal.
+Albany,Brown,19,13,8,39,0,DJ Evans Turnover.
+Albany,Brown,19,13,8,39,0,Foul on DJ Evans.
+Albany,Brown,19,13,8,39,0,Official TV Timeout
+Albany,Brown,19,13,8,55,0,Cedric Kuakumensah missed Layup.
+Albany,Brown,19,13,8,55,0,Levan Shengelia Block.
+Albany,Brown,19,13,8,58,0,Peter Hooley Defensive Rebound.
+Albany,Brown,21,13,9,14,1,Levan Shengelia made Layup. Assisted by Dave Wiegmann.
+Albany,Brown,21,13,9,49,0,Sean McGonagill missed Jumper.
+Albany,Brown,21,13,9,49,0,Luke Devlin Block.
+Albany,Brown,21,13,9,51,0,Dave Wiegmann Defensive Rebound.
+Albany,Brown,23,13,9,56,1,Peter Hooley made Jumper.
+Albany,Brown,23,15,10,18,1,Cedric Kuakumensah made Jumper.
+Albany,Brown,23,15,10,30,0,Anders Haas missed Jumper.
+Albany,Brown,23,15,10,30,0,Cedric Kuakumensah Block.
+Albany,Brown,23,15,10,33,0,Sean McGonagill Defensive Rebound.
+Albany,Brown,23,15,10,47,0,Foul on Anders Haas.
+Albany,Brown,23,15,10,56,0,Norman Hobbie missed Layup.
+Albany,Brown,23,15,10,56,0,Dockery Walker Offensive Rebound.
+Albany,Brown,23,15,10,59,0,Foul on Levan Shengelia.
+Albany,Brown,23,15,10,59,0,Dockery Walker missed Free Throw.
+Albany,Brown,23,15,10,59,0,Brown Deadball Team Rebound.
+Albany,Brown,23,15,10,59,0,Dockery Walker missed Free Throw.
+Albany,Brown,23,15,10,59,0,Dave Wiegmann Defensive Rebound.
+Albany,Brown,23,15,11,18,0,Foul on Leland King.
+Albany,Brown,24,15,11,18,1,Sam Rowley made Free Throw.
+Albany,Brown,25,15,11,18,1,Sam Rowley made Free Throw.
+Albany,Brown,25,15,11,33,0,Tavon Blackmon Turnover.
+Albany,Brown,25,15,11,34,0,Sam Rowley Steal.
+Albany,Brown,27,15,11,38,1,Gary Johnson made Layup. Assisted by Sam Rowley.
+Albany,Brown,27,15,11,40,0,Brown  Timeout
+Albany,Brown,27,15,11,59,0,Cedric Kuakumensah missed Jumper.
+Albany,Brown,27,15,11,59,0,Dockery Walker Offensive Rebound.
+Albany,Brown,27,15,12,0,0,Foul on Sam Rowley.
+Albany,Brown,27,16,12,0,1,Dockery Walker made Free Throw.
+Albany,Brown,27,17,12,0,1,Dockery Walker made Free Throw.
+Albany,Brown,29,17,12,19,1,Mike Rowley made Jumper. Assisted by Gary Johnson.
+Albany,Brown,29,17,12,29,0,Official TV Timeout
+Albany,Brown,29,17,12,44,0,Dockery Walker Turnover.
+Albany,Brown,29,17,12,45,0,Peter Hooley Steal.
+Albany,Brown,29,17,12,45,0,Foul on Steven Spieth.
+Albany,Brown,30,17,12,45,1,Peter Hooley made Free Throw.
+Albany,Brown,31,17,12,45,1,Peter Hooley made Free Throw.
+Albany,Brown,31,17,12,52,0,Sean McGonagill missed Three Point Jumper.
+Albany,Brown,31,17,12,52,0,Levan Shengelia Defensive Rebound.
+Albany,Brown,31,17,13,19,0,DJ Evans missed Three Point Jumper.
+Albany,Brown,31,17,13,19,0,Levan Shengelia Offensive Rebound.
+Albany,Brown,31,17,13,24,0,Levan Shengelia missed Layup.
+Albany,Brown,31,17,13,24,0,Brown Defensive Rebound.
+Albany,Brown,31,17,13,33,0,Cedric Kuakumensah Turnover.
+Albany,Brown,31,17,13,34,0,Levan Shengelia Steal.
+Albany,Brown,31,17,13,37,0,Foul on Leland King.
+Albany,Brown,32,17,13,37,1,Levan Shengelia made Free Throw.
+Albany,Brown,33,17,13,37,1,Levan Shengelia made Free Throw.
+Albany,Brown,33,19,13,58,1,Tavon Blackmon made Jumper.
+Albany,Brown,33,19,14,15,0,Gary Johnson missed Jumper.
+Albany,Brown,33,19,14,15,0,Matty Madigan Defensive Rebound.
+Albany,Brown,33,19,14,22,0,Foul on Levan Shengelia.
+Albany,Brown,33,20,14,22,1,Tavon Blackmon made Free Throw.
+Albany,Brown,33,20,14,22,0,Tavon Blackmon missed Free Throw.
+Albany,Brown,33,20,14,22,0,Peter Hooley Defensive Rebound.
+Albany,Brown,33,20,14,38,0,DJ Evans missed Three Point Jumper.
+Albany,Brown,33,20,14,38,0,Gary Johnson Offensive Rebound.
+Albany,Brown,33,20,14,42,0,Gary Johnson missed Layup.
+Albany,Brown,33,20,14,42,0,Cedric Kuakumensah Block.
+Albany,Brown,33,20,14,42,0,Albany Offensive Rebound.
+Albany,Brown,33,20,14,50,0,Dave Wiegmann Turnover.
+Albany,Brown,33,20,14,50,0,Foul on Dave Wiegmann.
+Albany,Brown,33,20,15,3,0,Sean McGonagill missed Three Point Jumper.
+Albany,Brown,33,20,15,3,0,Mike Rowley Defensive Rebound.
+Albany,Brown,33,20,15,6,0,Foul on Cedric Kuakumensah.
+Albany,Brown,33,20,15,6,0,Mike Rowley missed Free Throw.
+Albany,Brown,33,20,15,6,0,Albany Deadball Team Rebound.
+Albany,Brown,33,20,15,6,0,Mike Rowley missed Free Throw.
+Albany,Brown,33,20,15,6,0,Dockery Walker Defensive Rebound.
+Albany,Brown,33,20,15,6,0,Foul on Dave Wiegmann.
+Albany,Brown,33,20,15,6,0,Dockery Walker missed Free Throw.
+Albany,Brown,33,20,15,6,0,Brown Deadball Team Rebound.
+Albany,Brown,33,20,15,6,0,Dockery Walker missed Free Throw.
+Albany,Brown,33,20,15,6,0,Dave Wiegmann Defensive Rebound.
+Albany,Brown,33,20,15,34,0,Dave Wiegmann missed Layup.
+Albany,Brown,33,20,15,34,0,Cedric Kuakumensah Block.
+Albany,Brown,33,20,15,36,0,Cedric Kuakumensah Defensive Rebound.
+Albany,Brown,33,20,15,44,0,Dockery Walker missed Layup.
+Albany,Brown,33,20,15,44,0,Mike Rowley Defensive Rebound.
+Albany,Brown,33,20,15,49,0,Foul on Tavon Blackmon.
+Albany,Brown,34,20,15,49,1,DJ Evans made Free Throw.
+Albany,Brown,35,20,15,49,1,DJ Evans made Free Throw.
+Albany,Brown,35,20,15,57,0,Tavon Blackmon missed Jumper.
+Albany,Brown,35,20,15,57,0,Dockery Walker Offensive Rebound.
+Albany,Brown,35,20,15,58,0,Foul on Dave Wiegmann.
+Albany,Brown,35,21,15,58,1,Dockery Walker made Free Throw.
+Albany,Brown,35,22,15,58,1,Dockery Walker made Free Throw.
+Albany,Brown,35,22,16,11,0,Foul on Matty Madigan.
+Albany,Brown,35,22,16,11,0,Official TV Timeout
+Albany,Brown,35,22,16,11,0,Peter Hooley missed Free Throw.
+Albany,Brown,35,22,16,11,0,Albany Deadball Team Rebound.
+Albany,Brown,36,22,16,11,1,Peter Hooley made Free Throw.
+Albany,Brown,36,22,16,25,0,Norman Hobbie Turnover.
+Albany,Brown,36,22,16,26,0,Peter Hooley Steal.
+Albany,Brown,38,22,16,29,1,Gary Johnson made Dunk. Assisted by Peter Hooley.
+Albany,Brown,38,22,16,56,0,Cedric Kuakumensah missed Jumper.
+Albany,Brown,38,22,16,56,0,Gary Johnson Defensive Rebound.
+Albany,Brown,40,22,17,20,1,Levan Shengelia made Dunk. Assisted by DJ Evans.
+Albany,Brown,40,22,17,21,0,Brown  Timeout
+Albany,Brown,40,24,17,43,1,Dockery Walker made Dunk. Assisted by Sean McGonagill.
+Albany,Brown,40,24,18,5,0,DJ Evans missed Jumper.
+Albany,Brown,40,24,18,5,0,Norman Hobbie Defensive Rebound.
+Albany,Brown,40,24,18,6,0,Foul on Levan Shengelia.
+Albany,Brown,40,24,18,6,0,Norman Hobbie missed Free Throw.
+Albany,Brown,40,24,18,6,0,Brown Deadball Team Rebound.
+Albany,Brown,40,25,18,6,1,Norman Hobbie made Free Throw.
+Albany,Brown,40,25,18,26,0,Peter Hooley missed Jumper.
+Albany,Brown,40,25,18,26,0,Sean McGonagill Defensive Rebound.
+Albany,Brown,40,25,18,31,0,Sean McGonagill Turnover.
+Albany,Brown,40,25,18,32,0,Peter Hooley Steal.
+Albany,Brown,40,25,18,50,0,Gary Johnson missed Jumper.
+Albany,Brown,40,25,18,50,0,Cedric Kuakumensah Defensive Rebound.
+Albany,Brown,40,25,19,13,0,Sean McGonagill Turnover.
+Albany,Brown,40,25,19,15,0,Mike Rowley Steal.
+Albany,Brown,40,25,19,18,0,Peter Hooley missed Three Point Jumper.
+Albany,Brown,40,25,19,18,0,Cedric Kuakumensah Defensive Rebound.
+Albany,Brown,40,27,19,26,1,Sean McGonagill made Layup.
+Albany,Brown,40,27,19,36,0,Albany  Timeout
+Albany,Brown,40,27,19,55,0,Foul on Norman Hobbie.
+Albany,Brown,41,27,19,55,1,Luke Devlin made Free Throw.
+Albany,Brown,41,27,19,55,0,Luke Devlin missed Free Throw.
+Albany,Brown,41,27,19,55,0,Dockery Walker Defensive Rebound.
+Albany,Brown,41,27,20,0,0,End of 1st half
+Albany,Brown,41,27,20,11,0,Foul on John Puk.
+Albany,Brown,41,28,20,11,1,Rafael Maia made Free Throw.
+Albany,Brown,41,29,20,11,1,Rafael Maia made Free Throw.
+Albany,Brown,41,29,20,34,0,Foul on Cedric Kuakumensah.
+Albany,Brown,42,29,20,34,1,Sam Rowley made Free Throw.
+Albany,Brown,43,29,20,34,1,Sam Rowley made Free Throw.
+Albany,Brown,43,29,20,50,0,Rafael Maia missed Layup.
+Albany,Brown,43,29,20,50,0,Sam Rowley Defensive Rebound.
+Albany,Brown,43,29,21,14,0,Sam Rowley Turnover.
+Albany,Brown,43,29,21,14,0,Foul on Sam Rowley.
+Albany,Brown,43,29,21,25,0,Cedric Kuakumensah Turnover.
+Albany,Brown,45,29,21,45,1,Sam Rowley made Layup.
+Albany,Brown,45,31,21,58,1,Cedric Kuakumensah made Jumper. Assisted by Tavon Blackmon.
+Albany,Brown,45,31,22,22,0,Sam Rowley missed Layup.
+Albany,Brown,45,31,22,22,0,Cedric Kuakumensah Block.
+Albany,Brown,45,31,22,24,0,Steven Spieth Defensive Rebound.
+Albany,Brown,45,31,22,29,0,Cedric Kuakumensah missed Layup.
+Albany,Brown,45,31,22,29,0,Steven Spieth Offensive Rebound.
+Albany,Brown,45,33,22,33,1,Cedric Kuakumensah made Layup. Assisted by Steven Spieth.
+Albany,Brown,47,33,22,56,1,Sam Rowley made Jumper. Assisted by Gary Johnson.
+Albany,Brown,47,33,23,7,0,Steven Spieth missed Three Point Jumper.
+Albany,Brown,47,33,23,7,0,DJ Evans Defensive Rebound.
+Albany,Brown,49,33,23,16,1,John Puk made Jumper. Assisted by DJ Evans.
+Albany,Brown,49,36,23,33,1,Sean McGonagill made Three Point Jumper. Assisted by Cedric Kuakumensah.
+Albany,Brown,49,36,24,3,0,DJ Evans missed Three Point Jumper.
+Albany,Brown,49,36,24,3,0,Rafael Maia Defensive Rebound.
+Albany,Brown,49,36,24,7,0,Rafael Maia Turnover.
+Albany,Brown,49,36,24,8,0,DJ Evans Steal.
+Albany,Brown,49,36,24,13,0,Foul on Tavon Blackmon.
+Albany,Brown,49,36,24,13,0,Official TV Timeout
+Albany,Brown,49,36,24,13,0,Technical Foul on Albany.
+Albany,Brown,49,36,24,13,0,Technical Foul on Brown.
+Albany,Brown,49,36,24,13,0,Foul on Brown.
+Albany,Brown,49,36,24,13,0,Foul on Albany.
+Albany,Brown,51,36,24,15,1,Gary Johnson made Layup.
+Albany,Brown,51,36,24,31,0,Foul on Peter Hooley.
+Albany,Brown,51,36,24,37,0,Foul on DJ Evans.
+Albany,Brown,51,37,24,37,1,Tavon Blackmon made Free Throw.
+Albany,Brown,51,37,24,37,0,Tavon Blackmon missed Free Throw.
+Albany,Brown,51,37,24,37,0,Peter Hooley Defensive Rebound.
+Albany,Brown,51,37,24,57,0,Peter Hooley missed Three Point Jumper.
+Albany,Brown,51,37,24,57,0,Levan Shengelia Offensive Rebound.
+Albany,Brown,51,37,25,16,0,Foul on Cedric Kuakumensah.
+Albany,Brown,52,37,25,16,1,Sam Rowley made Free Throw.
+Albany,Brown,52,37,25,16,0,Sam Rowley missed Free Throw.
+Albany,Brown,52,37,25,16,0,Rafael Maia Defensive Rebound.
+Albany,Brown,52,37,25,38,0,Foul on Sam Rowley.
+Albany,Brown,52,38,25,38,1,Steven Spieth made Free Throw.
+Albany,Brown,52,39,25,38,1,Steven Spieth made Free Throw.
+Albany,Brown,52,39,25,54,0,Foul on Rafael Maia.
+Albany,Brown,52,39,25,54,0,Peter Hooley missed Jumper.
+Albany,Brown,52,39,25,54,0,Rafael Maia Defensive Rebound.
+Albany,Brown,52,39,26,0,0,Brown  Timeout
+Albany,Brown,52,39,26,12,0,Sean McGonagill missed Three Point Jumper.
+Albany,Brown,52,39,26,12,0,Levan Shengelia Defensive Rebound.
+Albany,Brown,52,39,26,19,0,Levan Shengelia Turnover.
+Albany,Brown,52,39,26,32,0,Dockery Walker Turnover.
+Albany,Brown,52,39,26,48,0,DJ Evans missed Jumper.
+Albany,Brown,52,39,26,48,0,Sean McGonagill Defensive Rebound.
+Albany,Brown,52,39,27,0,0,Rafael Maia missed Layup.
+Albany,Brown,52,39,27,0,0,Levan Shengelia Defensive Rebound.
+Albany,Brown,52,39,27,24,0,Mike Rowley missed Jumper.
+Albany,Brown,52,39,27,24,0,Brown Defensive Rebound.
+Albany,Brown,52,39,27,38,0,Foul on DJ Evans.
+Albany,Brown,52,39,27,38,0,Sean McGonagill missed Free Throw.
+Albany,Brown,52,39,27,38,0,Rafael Maia Offensive Rebound.
+Albany,Brown,52,41,27,42,1,Steven Spieth made Jumper.
+Albany,Brown,52,41,28,3,0,Foul on Rafael Maia.
+Albany,Brown,52,41,28,3,0,Official TV Timeout
+Albany,Brown,52,41,28,28,0,Peter Hooley missed Layup.
+Albany,Brown,52,41,28,28,0,Sean McGonagill Defensive Rebound.
+Albany,Brown,52,43,28,34,1,Tavon Blackmon made Layup. Assisted by Sean McGonagill.
+Albany,Brown,52,43,28,34,0,Foul on Mike Rowley.
+Albany,Brown,52,44,28,34,1,Tavon Blackmon made Free Throw.
+Albany,Brown,55,44,28,52,1,Mike Rowley made Three Point Jumper. Assisted by Peter Hooley.
+Albany,Brown,55,44,29,12,0,Steven Spieth missed Three Point Jumper.
+Albany,Brown,55,44,29,12,0,DJ Evans Defensive Rebound.
+Albany,Brown,55,44,29,24,0,Mike Rowley missed Layup.
+Albany,Brown,55,44,29,24,0,Dockery Walker Block.
+Albany,Brown,55,44,29,25,0,Albany Offensive Rebound.
+Albany,Brown,57,44,29,32,1,Mike Rowley made Layup.
+Albany,Brown,57,44,29,45,0,Cedric Kuakumensah missed Jumper.
+Albany,Brown,57,44,29,45,0,Brown Offensive Rebound.
+Albany,Brown,57,44,29,46,0,Tavon Blackmon Turnover.
+Albany,Brown,57,44,30,1,0,Foul on Dockery Walker.
+Albany,Brown,58,44,30,1,1,Peter Hooley made Free Throw.
+Albany,Brown,58,44,30,1,0,Peter Hooley missed Free Throw.
+Albany,Brown,58,44,30,1,0,Cedric Kuakumensah Defensive Rebound.
+Albany,Brown,58,47,30,19,1,Steven Spieth made Three Point Jumper. Assisted by Cedric Kuakumensah.
+Albany,Brown,58,47,30,40,0,Mike Rowley Turnover.
+Albany,Brown,58,47,30,41,0,Sean McGonagill Steal.
+Albany,Brown,58,49,30,46,1,Cedric Kuakumensah made Layup. Assisted by Sean McGonagill.
+Albany,Brown,58,49,30,55,0,Albany  Timeout
+Albany,Brown,58,49,31,20,0,DJ Evans Turnover.
+Albany,Brown,58,49,31,21,0,Steven Spieth Steal.
+Albany,Brown,58,49,31,31,0,Cedric Kuakumensah Turnover.
+Albany,Brown,58,49,31,31,0,Foul on Cedric Kuakumensah.
+Albany,Brown,58,49,31,51,0,Dave Wiegmann Turnover.
+Albany,Brown,58,49,31,52,0,Sean McGonagill Steal.
+Albany,Brown,58,49,31,57,0,Foul on John Puk.
+Albany,Brown,58,49,31,57,0,Tavon Blackmon missed Free Throw.
+Albany,Brown,58,49,31,57,0,Brown Deadball Team Rebound.
+Albany,Brown,58,50,31,57,1,Tavon Blackmon made Free Throw.
+Albany,Brown,58,50,32,16,0,Foul on Sean McGonagill.
+Albany,Brown,58,50,32,16,0,Official TV Timeout
+Albany,Brown,58,50,32,16,0,Peter Hooley missed Free Throw.
+Albany,Brown,58,50,32,16,0,Cedric Kuakumensah Defensive Rebound.
+Albany,Brown,58,53,32,34,1,Sean McGonagill made Three Point Jumper.
+Albany,Brown,58,53,32,58,0,Gary Johnson missed Layup.
+Albany,Brown,58,53,32,58,0,Cedric Kuakumensah Block.
+Albany,Brown,58,53,33,2,0,Dockery Walker Defensive Rebound.
+Albany,Brown,58,53,33,2,0,Foul on Gary Johnson.
+Albany,Brown,58,53,33,2,0,Dockery Walker missed Free Throw.
+Albany,Brown,58,53,33,2,0,Brown Deadball Team Rebound.
+Albany,Brown,58,54,33,2,1,Dockery Walker made Free Throw.
+Albany,Brown,58,54,33,18,0,Foul on Tavon Blackmon.
+Albany,Brown,59,54,33,18,1,DJ Evans made Free Throw.
+Albany,Brown,60,54,33,18,1,DJ Evans made Free Throw.
+Albany,Brown,60,54,33,36,0,Foul on John Puk.
+Albany,Brown,60,54,33,36,0,Steven Spieth missed Free Throw.
+Albany,Brown,60,54,33,36,0,Brown Deadball Team Rebound.
+Albany,Brown,60,54,33,36,0,Steven Spieth missed Free Throw.
+Albany,Brown,60,54,33,36,0,Levan Shengelia Defensive Rebound.
+Albany,Brown,60,54,33,57,0,Foul on Dockery Walker.
+Albany,Brown,61,54,33,57,1,Sam Rowley made Free Throw.
+Albany,Brown,61,54,33,57,0,Sam Rowley missed Free Throw.
+Albany,Brown,61,54,33,57,0,Cedric Kuakumensah Defensive Rebound.
+Albany,Brown,61,54,34,26,0,Sean McGonagill missed Three Point Jumper.
+Albany,Brown,61,54,34,26,0,Peter Hooley Defensive Rebound.
+Albany,Brown,61,54,34,56,0,Sam Rowley missed Jumper.
+Albany,Brown,61,54,34,56,0,Steven Spieth Defensive Rebound.
+Albany,Brown,61,54,35,16,0,Matty Madigan missed Jumper.
+Albany,Brown,61,54,35,16,0,DJ Evans Defensive Rebound.
+Albany,Brown,61,54,35,49,0,Foul on Rafael Maia.
+Albany,Brown,61,54,35,49,0,Gary Johnson missed Free Throw.
+Albany,Brown,61,54,35,49,0,Albany Deadball Team Rebound.
+Albany,Brown,62,54,35,49,1,Gary Johnson made Free Throw.
+Albany,Brown,62,54,36,4,0,Official TV Timeout
+Albany,Brown,62,56,36,7,1,Dockery Walker made Jumper. Assisted by Tavon Blackmon.
+Albany,Brown,62,56,36,39,0,Gary Johnson missed Layup.
+Albany,Brown,62,56,36,39,0,Mike Rowley Offensive Rebound.
+Albany,Brown,62,56,36,51,0,Sam Rowley missed Jumper.
+Albany,Brown,62,56,36,51,0,Brown Defensive Rebound.
+Albany,Brown,62,58,37,8,1,Tavon Blackmon made Layup.
+Albany,Brown,62,58,37,8,0,Foul on Levan Shengelia.
+Albany,Brown,62,59,37,8,1,Tavon Blackmon made Free Throw.
+Albany,Brown,62,59,37,32,0,Foul on Dockery Walker.
+Albany,Brown,63,59,37,32,1,Sam Rowley made Free Throw.
+Albany,Brown,64,59,37,32,1,Sam Rowley made Free Throw.
+Albany,Brown,64,59,37,51,0,Foul on DJ Evans.
+Albany,Brown,64,60,37,51,1,Tavon Blackmon made Free Throw.
+Albany,Brown,64,60,37,51,0,Tavon Blackmon missed Free Throw.
+Albany,Brown,64,60,37,51,0,Gary Johnson Defensive Rebound.
+Albany,Brown,64,60,38,27,0,Mike Rowley Turnover.
+Albany,Brown,64,60,38,28,0,Cedric Kuakumensah Steal.
+Albany,Brown,64,60,38,34,0,Brown  Timeout
+Albany,Brown,64,60,38,47,0,Tavon Blackmon missed Jumper.
+Albany,Brown,64,60,38,47,0,Levan Shengelia Defensive Rebound.
+Albany,Brown,64,60,38,50,0,Foul on Dockery Walker.
+Albany,Brown,65,60,38,50,1,Levan Shengelia made Free Throw.
+Albany,Brown,66,60,38,50,1,Levan Shengelia made Free Throw.
+Albany,Brown,66,60,39,3,0,Leland King missed Three Point Jumper.
+Albany,Brown,66,60,39,3,0,Gary Johnson Defensive Rebound.
+Albany,Brown,66,60,39,14,0,Foul on Steven Spieth.
+Albany,Brown,67,60,39,14,1,Gary Johnson made Free Throw.
+Albany,Brown,68,60,39,14,1,Gary Johnson made Free Throw.
+Albany,Brown,68,60,39,14,0,Albany  Timeout
+Albany,Brown,68,63,39,26,1,Sean McGonagill made Three Point Jumper. Assisted by Tavon Blackmon.
+Albany,Brown,68,63,39,31,0,Foul on Steven Spieth.
+Albany,Brown,69,63,39,31,1,DJ Evans made Free Throw.
+Albany,Brown,69,63,39,31,0,DJ Evans missed Free Throw.
+Albany,Brown,69,63,39,31,0,Sam Rowley Offensive Rebound.
+Albany,Brown,69,63,39,34,0,Foul on Sean McGonagill.
+Albany,Brown,70,63,39,34,1,Sam Rowley made Free Throw.
+Albany,Brown,71,63,39,34,1,Sam Rowley made Free Throw.
+Albany,Brown,71,63,39,42,0,Tavon Blackmon missed Layup.
+Albany,Brown,71,63,39,42,0,Sam Rowley Defensive Rebound.
+Albany,Brown,71,63,39,44,0,Foul on Leland King.
+Albany,Brown,72,63,39,44,1,Sam Rowley made Free Throw.
+Albany,Brown,72,63,39,44,0,Sam Rowley missed Free Throw.
+Albany,Brown,72,63,39,44,0,Steven Spieth Defensive Rebound.
+Albany,Brown,72,65,39,51,1,Sean McGonagill made Layup.
+Albany,Brown,72,65,39,51,0,Brown  Timeout
+Albany,Brown,72,65,39,52,0,Foul on Sean McGonagill.
+Albany,Brown,73,65,39,52,1,DJ Evans made Free Throw.
+Albany,Brown,74,65,39,52,1,DJ Evans made Free Throw.
+Albany,Brown,74,68,39,55,1,Sean McGonagill made Three Point Jumper.
+Albany,Brown,74,68,39,56,0,Albany  Timeout
+Albany,Brown,74,68,40,0,0,End of Game

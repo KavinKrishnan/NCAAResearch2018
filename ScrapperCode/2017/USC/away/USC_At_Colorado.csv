@@ -1,0 +1,328 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+USC,Colorado,0,0,0,0,0,Jump Ball won by Colorado
+USC,Colorado,0,0,0,18,0,George King Turnover.
+USC,Colorado,2,0,0,41,1,Chimezie Metu made Jumper.
+USC,Colorado,2,2,1,5,1,Xavier Johnson made Jumper.
+USC,Colorado,4,2,1,19,1,De'Anthony Melton made Layup. Assisted by Jordan McLaughlin.
+USC,Colorado,4,4,1,40,1,Xavier Johnson made Layup.
+USC,Colorado,4,4,2,0,0,Jordan McLaughlin Turnover.
+USC,Colorado,4,4,2,12,0,Xavier Johnson missed Jumper.
+USC,Colorado,4,4,2,12,0,De'Anthony Melton Defensive Rebound.
+USC,Colorado,4,4,2,24,0,De'Anthony Melton Turnover.
+USC,Colorado,4,4,2,43,0,Wesley Gordon Turnover.
+USC,Colorado,4,4,2,52,0,Foul on George King.
+USC,Colorado,4,4,2,57,0,USC  Timeout
+USC,Colorado,6,4,3,6,1,Chimezie Metu made Jumper.
+USC,Colorado,6,7,3,20,1,George King made Three Point Jumper. Assisted by Derrick White.
+USC,Colorado,6,7,3,41,0,Chimezie Metu Turnover.
+USC,Colorado,6,10,4,1,1,Derrick White made Three Point Jumper. Assisted by George King.
+USC,Colorado,6,10,4,24,0,Elijah Stewart missed Jumper.
+USC,Colorado,6,10,4,24,0,Wesley Gordon Defensive Rebound.
+USC,Colorado,6,10,4,33,0,Derrick White missed Jumper.
+USC,Colorado,6,10,4,33,0,USC Defensive Rebound.
+USC,Colorado,6,10,4,39,0,Official TV Timeout
+USC,Colorado,6,10,4,51,0,Jonah Mathews missed Three Point Jumper.
+USC,Colorado,6,10,4,51,0,Nick Rakocevic Offensive Rebound.
+USC,Colorado,6,10,4,58,0,Foul on Chimezie Metu.
+USC,Colorado,6,10,4,58,0,Chimezie Metu Turnover.
+USC,Colorado,6,10,5,12,0,Dominique Collier missed Three Point Jumper.
+USC,Colorado,6,10,5,12,0,George King Offensive Rebound.
+USC,Colorado,6,10,5,26,0,Foul on Tory Miller.
+USC,Colorado,6,10,5,26,0,Tory Miller Turnover.
+USC,Colorado,6,10,5,40,0,Jordan McLaughlin missed Layup.
+USC,Colorado,6,10,5,42,0,Tory Miller Defensive Rebound.
+USC,Colorado,6,10,6,12,0,Foul on Charles Buggs.
+USC,Colorado,6,11,6,12,1,Dominique Collier made Free Throw.
+USC,Colorado,6,12,6,12,1,Dominique Collier made Free Throw.
+USC,Colorado,6,13,6,12,1,Dominique Collier made Free Throw.
+USC,Colorado,8,13,6,32,1,Chimezie Metu made Dunk. Assisted by Jonah Mathews.
+USC,Colorado,8,13,6,56,0,Derrick White missed Three Point Jumper.
+USC,Colorado,8,13,6,56,0,Wesley Gordon Offensive Rebound.
+USC,Colorado,8,16,7,5,1,Josh Fortune made Three Point Jumper. Assisted by Dominique Collier.
+USC,Colorado,8,16,7,29,0,Foul on Josh Fortune.
+USC,Colorado,8,16,7,29,0,Nick Rakocevic missed Free Throw.
+USC,Colorado,8,16,7,29,0,USC Deadball Team Rebound.
+USC,Colorado,9,16,7,29,1,Nick Rakocevic made Free Throw.
+USC,Colorado,9,16,7,44,0,Tory Miller Turnover.
+USC,Colorado,9,16,7,44,0,Elijah Stewart Steal.
+USC,Colorado,9,16,7,44,0,Elijah Stewart missed Three Point Jumper.
+USC,Colorado,9,16,7,44,0,Chimezie Metu Offensive Rebound.
+USC,Colorado,9,16,8,4,0,Elijah Stewart missed Dunk.
+USC,Colorado,9,16,8,4,0,Josh Fortune Block.
+USC,Colorado,9,16,8,4,0,Wesley Gordon Defensive Rebound.
+USC,Colorado,9,19,8,12,1,Dominique Collier made Three Point Jumper.
+USC,Colorado,11,19,8,30,1,Chimezie Metu made Dunk.
+USC,Colorado,11,22,8,56,1,Bryce Peters made Three Point Jumper. Assisted by Wesley Gordon.
+USC,Colorado,11,22,9,13,0,Shaqquan Aaron missed Layup.
+USC,Colorado,11,22,9,13,0,Josh Fortune Defensive Rebound.
+USC,Colorado,11,22,9,20,0,George King missed Three Point Jumper.
+USC,Colorado,11,22,9,20,0,De'Anthony Melton Defensive Rebound.
+USC,Colorado,11,22,9,29,0,Jonah Mathews missed Three Point Jumper.
+USC,Colorado,11,22,9,29,0,Josh Fortune Defensive Rebound.
+USC,Colorado,11,22,9,37,0,Josh Fortune Turnover.
+USC,Colorado,11,22,9,37,0,Chimezie Metu Steal.
+USC,Colorado,11,22,9,55,0,Chimezie Metu missed Jumper.
+USC,Colorado,11,22,9,55,0,Jonah Mathews Offensive Rebound.
+USC,Colorado,13,22,10,0,1,Jonah Mathews made Layup.
+USC,Colorado,13,22,10,16,0,Josh Fortune Turnover.
+USC,Colorado,13,22,10,16,0,De'Anthony Melton Steal.
+USC,Colorado,13,22,10,23,0,De'Anthony Melton missed Layup.
+USC,Colorado,13,22,10,23,0,Jonah Mathews Offensive Rebound.
+USC,Colorado,13,22,10,27,0,Foul on Wesley Gordon.
+USC,Colorado,13,22,10,27,0,Official TV Timeout
+USC,Colorado,13,22,10,27,0,Jonah Mathews missed Free Throw.
+USC,Colorado,13,22,10,27,0,USC Deadball Team Rebound.
+USC,Colorado,14,22,10,27,1,Jonah Mathews made Free Throw.
+USC,Colorado,14,22,10,43,0,Bryce Peters missed Three Point Jumper.
+USC,Colorado,14,22,10,43,0,Jonah Mathews Defensive Rebound.
+USC,Colorado,16,22,11,8,1,Chimezie Metu made Jumper. Assisted by Jordan McLaughlin.
+USC,Colorado,16,22,11,21,0,Foul on Jonah Mathews.
+USC,Colorado,16,22,11,39,0,Bryce Peters missed Jumper.
+USC,Colorado,16,22,11,39,0,De'Anthony Melton Defensive Rebound.
+USC,Colorado,16,22,11,44,0,De'Anthony Melton missed Three Point Jumper.
+USC,Colorado,16,22,11,44,0,Colorado Defensive Rebound.
+USC,Colorado,16,22,12,6,0,Thomas Akyazili Turnover.
+USC,Colorado,16,22,12,6,0,Official TV Timeout
+USC,Colorado,16,22,12,19,0,Foul on Bryce Peters.
+USC,Colorado,16,22,12,25,0,Nick Rakocevic missed Layup.
+USC,Colorado,16,22,12,25,0,Nick Rakocevic Offensive Rebound.
+USC,Colorado,16,22,12,27,0,Foul on Dominique Collier.
+USC,Colorado,16,22,12,27,0,Nick Rakocevic missed Free Throw.
+USC,Colorado,16,22,12,27,0,USC Deadball Team Rebound.
+USC,Colorado,16,22,12,27,0,Nick Rakocevic missed Free Throw.
+USC,Colorado,16,22,12,27,0,Xavier Johnson Defensive Rebound.
+USC,Colorado,16,25,12,44,1,George King made Three Point Jumper. Assisted by Xavier Johnson.
+USC,Colorado,16,25,13,2,0,Jonah Mathews missed Three Point Jumper.
+USC,Colorado,16,25,13,2,0,Wesley Gordon Defensive Rebound.
+USC,Colorado,16,25,13,15,0,Derrick White missed Jumper.
+USC,Colorado,16,25,13,15,0,Chimezie Metu Defensive Rebound.
+USC,Colorado,18,25,13,27,1,Chimezie Metu made Jumper. Assisted by Jordan McLaughlin.
+USC,Colorado,18,25,13,49,0,Xavier Johnson missed Layup.
+USC,Colorado,18,25,13,49,0,Jonah Mathews Defensive Rebound.
+USC,Colorado,18,25,13,58,0,Foul on Wesley Gordon.
+USC,Colorado,19,25,13,58,1,Jonah Mathews made Free Throw.
+USC,Colorado,20,25,13,58,1,Jonah Mathews made Free Throw.
+USC,Colorado,20,25,14,11,0,Xavier Johnson missed Jumper.
+USC,Colorado,20,25,14,11,0,De'Anthony Melton Defensive Rebound.
+USC,Colorado,20,25,14,27,0,Elijah Stewart missed Three Point Jumper.
+USC,Colorado,20,25,14,27,0,Xavier Johnson Defensive Rebound.
+USC,Colorado,20,25,14,36,0,Dominique Collier missed Jumper.
+USC,Colorado,20,25,14,36,0,Colorado Offensive Rebound.
+USC,Colorado,20,25,15,0,0,Foul on George King.
+USC,Colorado,20,25,15,0,0,George King Turnover.
+USC,Colorado,20,25,15,17,0,Jordan McLaughlin missed Jumper.
+USC,Colorado,20,25,15,17,0,Xavier Johnson Defensive Rebound.
+USC,Colorado,20,28,15,24,1,Dominique Collier made Three Point Jumper. Assisted by Derrick White.
+USC,Colorado,22,28,15,43,1,Chimezie Metu made Jumper. Assisted by Elijah Stewart.
+USC,Colorado,22,28,15,54,0,Foul on De'Anthony Melton.
+USC,Colorado,22,28,16,1,0,Foul on Jordan McLaughlin.
+USC,Colorado,22,28,16,1,0,Official TV Timeout
+USC,Colorado,22,30,16,11,1,Dominique Collier made Layup. Assisted by Josh Fortune.
+USC,Colorado,24,30,16,43,1,Chimezie Metu made Jumper.
+USC,Colorado,24,30,16,56,0,Foul on Tory Miller.
+USC,Colorado,24,30,16,56,0,Tory Miller Turnover.
+USC,Colorado,27,30,17,1,1,Jordan McLaughlin made Three Point Jumper. Assisted by De'Anthony Melton.
+USC,Colorado,27,32,17,30,1,Tory Miller made Jumper.
+USC,Colorado,27,32,17,50,0,Jordan McLaughlin missed Three Point Jumper.
+USC,Colorado,27,32,17,50,0,Chimezie Metu Offensive Rebound.
+USC,Colorado,27,32,17,53,0,Foul on Tory Miller.
+USC,Colorado,28,32,17,53,1,Chimezie Metu made Free Throw.
+USC,Colorado,29,32,17,53,1,Chimezie Metu made Free Throw.
+USC,Colorado,29,32,18,1,0,Dominique Collier Turnover.
+USC,Colorado,31,32,18,7,1,Chimezie Metu made Layup. Assisted by De'Anthony Melton.
+USC,Colorado,31,32,18,12,0,Colorado  Timeout
+USC,Colorado,31,34,18,33,1,Derrick White made Layup. Assisted by Dominique Collier.
+USC,Colorado,31,34,18,33,0,Foul on Chimezie Metu.
+USC,Colorado,31,35,18,33,1,Derrick White made Free Throw.
+USC,Colorado,31,35,18,44,0,Shaqquan Aaron missed Three Point Jumper.
+USC,Colorado,31,35,18,44,0,Nick Rakocevic Offensive Rebound.
+USC,Colorado,31,35,18,44,0,Nick Rakocevic Turnover.
+USC,Colorado,31,35,18,44,0,Dominique Collier Steal.
+USC,Colorado,31,35,19,4,0,Derrick White Turnover.
+USC,Colorado,33,35,19,14,1,Nick Rakocevic made Dunk. Assisted by De'Anthony Melton.
+USC,Colorado,33,35,19,35,0,Dominique Collier missed Layup.
+USC,Colorado,33,35,19,35,0,Jordan McLaughlin Defensive Rebound.
+USC,Colorado,33,35,19,42,0,Jonah Mathews missed Layup.
+USC,Colorado,33,35,19,42,0,De'Anthony Melton Offensive Rebound.
+USC,Colorado,33,35,19,47,0,Jonah Mathews missed Three Point Jumper.
+USC,Colorado,33,35,19,47,0,Shaqquan Aaron Offensive Rebound.
+USC,Colorado,33,35,19,57,0,Foul on Dominique Collier.
+USC,Colorado,34,35,19,57,1,Nick Rakocevic made Free Throw.
+USC,Colorado,34,35,19,57,0,Nick Rakocevic missed Free Throw.
+USC,Colorado,34,35,19,57,0,Derrick White Defensive Rebound.
+USC,Colorado,34,35,20,0,0,End of 1st half
+USC,Colorado,34,35,20,0,0,Jump Ball won by USC
+USC,Colorado,36,35,20,10,1,Elijah Stewart made Layup.
+USC,Colorado,36,38,20,21,1,George King made Three Point Jumper. Assisted by Derrick White.
+USC,Colorado,36,38,20,47,0,De'Anthony Melton missed Jumper.
+USC,Colorado,36,38,20,47,0,Derrick White Defensive Rebound.
+USC,Colorado,36,40,20,55,1,Derrick White made Jumper.
+USC,Colorado,38,40,21,15,1,Jordan McLaughlin made Layup.
+USC,Colorado,38,40,21,25,0,Wesley Gordon missed Three Point Jumper.
+USC,Colorado,38,40,21,25,0,USC Defensive Rebound.
+USC,Colorado,40,40,21,43,1,De'Anthony Melton made Jumper.
+USC,Colorado,40,42,22,1,1,George King made Dunk.
+USC,Colorado,40,42,22,16,0,Charles Buggs missed Three Point Jumper.
+USC,Colorado,40,42,22,16,0,George King Defensive Rebound.
+USC,Colorado,40,42,22,46,0,Derrick White missed Three Point Jumper.
+USC,Colorado,40,42,22,46,0,George King Offensive Rebound.
+USC,Colorado,40,42,22,50,0,George King missed Layup.
+USC,Colorado,40,42,22,50,0,Elijah Stewart Defensive Rebound.
+USC,Colorado,40,42,22,58,0,Jordan McLaughlin missed Three Point Jumper.
+USC,Colorado,40,42,22,58,0,George King Defensive Rebound.
+USC,Colorado,40,42,23,10,0,George King Turnover.
+USC,Colorado,42,42,23,18,1,Chimezie Metu made Jumper. Assisted by De'Anthony Melton.
+USC,Colorado,42,42,23,46,0,Xavier Johnson missed Jumper.
+USC,Colorado,42,42,23,46,0,Wesley Gordon Offensive Rebound.
+USC,Colorado,42,42,23,50,0,Foul on Chimezie Metu.
+USC,Colorado,42,42,23,50,0,Wesley Gordon missed Free Throw.
+USC,Colorado,42,42,23,50,0,Colorado Deadball Team Rebound.
+USC,Colorado,42,43,23,50,1,Wesley Gordon made Free Throw.
+USC,Colorado,45,43,23,59,1,Jonah Mathews made Three Point Jumper. Assisted by De'Anthony Melton.
+USC,Colorado,45,43,24,28,0,Foul on De'Anthony Melton.
+USC,Colorado,45,43,24,28,0,Official TV Timeout
+USC,Colorado,45,43,24,34,0,Foul on Elijah Stewart.
+USC,Colorado,45,43,24,41,0,Derrick White missed Jumper.
+USC,Colorado,45,43,24,41,0,Colorado Offensive Rebound.
+USC,Colorado,45,43,24,44,0,Foul on Elijah Stewart.
+USC,Colorado,45,45,24,57,1,Tory Miller made Jumper. Assisted by Dominique Collier.
+USC,Colorado,47,45,25,19,1,Elijah Stewart made Layup. Assisted by Nick Rakocevic.
+USC,Colorado,47,47,25,36,1,Tory Miller made Jumper.
+USC,Colorado,47,47,25,53,0,Jordan McLaughlin missed Three Point Jumper.
+USC,Colorado,47,47,25,53,0,Jordan McLaughlin Offensive Rebound.
+USC,Colorado,49,47,25,57,1,Jordan McLaughlin made Jumper.
+USC,Colorado,49,47,26,14,0,Foul on Xavier Johnson.
+USC,Colorado,49,47,26,14,0,Xavier Johnson Turnover.
+USC,Colorado,49,47,26,22,0,Elijah Stewart missed Three Point Jumper.
+USC,Colorado,49,47,26,22,0,Tory Miller Defensive Rebound.
+USC,Colorado,49,47,26,35,0,Derrick White missed Three Point Jumper.
+USC,Colorado,49,47,26,35,0,Nick Rakocevic Defensive Rebound.
+USC,Colorado,49,47,26,48,0,Nick Rakocevic missed Layup.
+USC,Colorado,49,47,26,48,0,Shaqquan Aaron Offensive Rebound.
+USC,Colorado,51,47,26,48,1,Shaqquan Aaron made Two Point Tip Shot.
+USC,Colorado,51,50,26,58,1,George King made Three Point Jumper. Assisted by Xavier Johnson.
+USC,Colorado,51,50,27,18,0,Jonah Mathews missed Three Point Jumper.
+USC,Colorado,51,50,27,18,0,Shaqquan Aaron Offensive Rebound.
+USC,Colorado,51,50,27,26,0,Foul on Tory Miller.
+USC,Colorado,51,50,27,40,0,Charles Buggs Turnover.
+USC,Colorado,51,50,27,40,0,George King Steal.
+USC,Colorado,51,50,27,43,0,George King Turnover.
+USC,Colorado,51,50,27,43,0,Shaqquan Aaron Steal.
+USC,Colorado,51,50,27,46,0,Shaqquan Aaron missed Layup.
+USC,Colorado,51,50,27,46,0,Elijah Stewart Offensive Rebound.
+USC,Colorado,53,50,27,46,1,Elijah Stewart made Two Point Tip Shot.
+USC,Colorado,53,50,28,6,0,Foul on Charles Buggs.
+USC,Colorado,53,50,28,6,0,Official TV Timeout
+USC,Colorado,53,51,28,6,1,Wesley Gordon made Free Throw.
+USC,Colorado,53,51,28,6,0,Wesley Gordon missed Free Throw.
+USC,Colorado,53,51,28,6,0,Chimezie Metu Defensive Rebound.
+USC,Colorado,53,51,28,31,0,De'Anthony Melton missed Jumper.
+USC,Colorado,53,51,28,31,0,Wesley Gordon Block.
+USC,Colorado,53,51,28,31,0,Xavier Johnson Defensive Rebound.
+USC,Colorado,53,51,28,37,0,Bryce Peters missed Layup.
+USC,Colorado,53,51,28,37,0,Josh Fortune Offensive Rebound.
+USC,Colorado,53,53,28,41,1,Josh Fortune made Dunk.
+USC,Colorado,55,53,29,4,1,Shaqquan Aaron made Jumper.
+USC,Colorado,55,53,29,30,0,Foul on Josh Fortune.
+USC,Colorado,55,53,29,30,0,Josh Fortune Turnover.
+USC,Colorado,55,53,29,40,0,De'Anthony Melton missed Three Point Jumper.
+USC,Colorado,55,53,29,40,0,Derrick White Defensive Rebound.
+USC,Colorado,55,53,29,48,0,Derrick White missed Layup.
+USC,Colorado,55,53,29,48,0,Xavier Johnson Offensive Rebound.
+USC,Colorado,55,55,29,51,1,Xavier Johnson made Layup.
+USC,Colorado,55,55,30,4,0,Foul on Bryce Peters.
+USC,Colorado,55,55,30,7,0,De'Anthony Melton missed Jumper.
+USC,Colorado,55,55,30,7,0,De'Anthony Melton Offensive Rebound.
+USC,Colorado,57,55,30,7,1,De'Anthony Melton made Two Point Tip Shot.
+USC,Colorado,57,55,30,20,0,Foul on De'Anthony Melton.
+USC,Colorado,57,55,30,35,0,Josh Fortune missed Three Point Jumper.
+USC,Colorado,57,55,30,35,0,Derrick White Offensive Rebound.
+USC,Colorado,57,57,30,52,1,Xavier Johnson made Layup. Assisted by Derrick White.
+USC,Colorado,57,57,31,8,0,Foul on Bryce Peters.
+USC,Colorado,58,57,31,8,1,Shaqquan Aaron made Free Throw.
+USC,Colorado,59,57,31,8,1,Shaqquan Aaron made Free Throw.
+USC,Colorado,59,57,31,12,0,Foul on Shaqquan Aaron.
+USC,Colorado,59,57,31,12,0,Derrick White missed Free Throw.
+USC,Colorado,59,57,31,12,0,George King Offensive Rebound.
+USC,Colorado,59,57,31,14,0,Foul on Elijah Stewart.
+USC,Colorado,59,57,31,14,0,George King missed Free Throw.
+USC,Colorado,59,57,31,14,0,Colorado Deadball Team Rebound.
+USC,Colorado,59,57,31,14,0,George King missed Free Throw.
+USC,Colorado,59,57,31,14,0,Nick Rakocevic Defensive Rebound.
+USC,Colorado,59,57,31,27,0,Shaqquan Aaron missed Jumper.
+USC,Colorado,59,57,31,27,0,Josh Fortune Defensive Rebound.
+USC,Colorado,59,57,31,40,0,George King missed Three Point Jumper.
+USC,Colorado,59,57,31,40,0,Wesley Gordon Offensive Rebound.
+USC,Colorado,59,57,31,57,0,Derrick White missed Jumper.
+USC,Colorado,59,57,31,57,0,Nick Rakocevic Defensive Rebound.
+USC,Colorado,59,57,32,8,0,Foul on Wesley Gordon.
+USC,Colorado,59,57,32,8,0,Official TV Timeout
+USC,Colorado,60,57,32,8,1,Elijah Stewart made Free Throw.
+USC,Colorado,60,57,32,8,0,Elijah Stewart missed Free Throw.
+USC,Colorado,60,57,32,8,0,George King Defensive Rebound.
+USC,Colorado,60,57,32,24,0,Josh Fortune missed Jumper.
+USC,Colorado,60,57,32,24,0,George King Offensive Rebound.
+USC,Colorado,60,57,32,34,0,Derrick White missed Three Point Jumper.
+USC,Colorado,60,57,32,34,0,De'Anthony Melton Defensive Rebound.
+USC,Colorado,60,57,32,54,0,Jordan McLaughlin missed Layup.
+USC,Colorado,60,57,32,54,0,George King Defensive Rebound.
+USC,Colorado,60,57,33,19,0,Bryce Peters Turnover.
+USC,Colorado,60,57,33,26,0,Elijah Stewart missed Three Point Jumper.
+USC,Colorado,60,57,33,26,0,Derrick White Defensive Rebound.
+USC,Colorado,60,57,33,41,0,George King missed Three Point Jumper.
+USC,Colorado,60,57,33,41,0,Jonah Mathews Defensive Rebound.
+USC,Colorado,60,57,34,3,0,Chimezie Metu missed Jumper.
+USC,Colorado,60,57,34,3,0,De'Anthony Melton Offensive Rebound.
+USC,Colorado,60,57,34,3,0,De'Anthony Melton missed Two Point Tip Shot.
+USC,Colorado,60,57,34,3,0,Wesley Gordon Defensive Rebound.
+USC,Colorado,60,57,34,10,0,Bryce Peters Turnover.
+USC,Colorado,60,57,34,10,0,Jordan McLaughlin Steal.
+USC,Colorado,60,57,34,21,0,De'Anthony Melton missed Layup.
+USC,Colorado,60,57,34,21,0,Derrick White Block.
+USC,Colorado,60,57,34,21,0,Elijah Stewart Offensive Rebound.
+USC,Colorado,60,57,34,21,0,Foul on Derrick White.
+USC,Colorado,61,57,34,21,1,Elijah Stewart made Free Throw.
+USC,Colorado,62,57,34,21,1,Elijah Stewart made Free Throw.
+USC,Colorado,62,57,34,40,0,Foul on Jonah Mathews.
+USC,Colorado,62,58,34,40,1,Xavier Johnson made Free Throw.
+USC,Colorado,62,58,34,40,0,Xavier Johnson missed Free Throw.
+USC,Colorado,62,58,34,40,0,Shaqquan Aaron Defensive Rebound.
+USC,Colorado,62,58,35,3,0,Foul on Wesley Gordon.
+USC,Colorado,63,58,35,3,1,Jordan McLaughlin made Free Throw.
+USC,Colorado,64,58,35,3,1,Jordan McLaughlin made Free Throw.
+USC,Colorado,64,58,35,15,0,Xavier Johnson missed Jumper.
+USC,Colorado,64,58,35,15,0,De'Anthony Melton Defensive Rebound.
+USC,Colorado,64,58,35,42,0,Jordan McLaughlin missed Layup.
+USC,Colorado,64,58,35,42,0,George King Defensive Rebound.
+USC,Colorado,64,58,35,53,0,George King missed Layup.
+USC,Colorado,64,58,35,53,0,Chimezie Metu Defensive Rebound.
+USC,Colorado,64,58,36,25,0,De'Anthony Melton Turnover.
+USC,Colorado,64,58,36,25,0,Official TV Timeout
+USC,Colorado,64,58,36,37,0,Dominique Collier missed Three Point Jumper.
+USC,Colorado,64,58,36,37,0,Tory Miller Offensive Rebound.
+USC,Colorado,64,60,36,47,1,Derrick White made Layup.
+USC,Colorado,67,60,37,11,1,Jonah Mathews made Three Point Jumper. Assisted by De'Anthony Melton.
+USC,Colorado,67,60,37,16,0,USC  Timeout
+USC,Colorado,67,62,37,35,1,George King made Layup.
+USC,Colorado,67,62,38,4,0,Chimezie Metu missed Jumper.
+USC,Colorado,67,62,38,4,0,Wesley Gordon Defensive Rebound.
+USC,Colorado,67,65,38,18,1,Xavier Johnson made Three Point Jumper. Assisted by George King.
+USC,Colorado,67,65,38,21,0,Colorado  Timeout
+USC,Colorado,67,65,38,42,0,De'Anthony Melton missed Jumper.
+USC,Colorado,67,65,38,42,0,De'Anthony Melton Offensive Rebound.
+USC,Colorado,67,65,38,42,0,De'Anthony Melton missed Two Point Tip Shot.
+USC,Colorado,67,65,38,42,0,Xavier Johnson Defensive Rebound.
+USC,Colorado,67,65,38,56,0,Colorado  Timeout
+USC,Colorado,67,65,39,1,0,Jump Ball won by Colorado
+USC,Colorado,67,68,39,13,1,Xavier Johnson made Three Point Jumper. Assisted by Derrick White.
+USC,Colorado,69,68,39,26,1,Chimezie Metu made Jumper.
+USC,Colorado,69,68,39,35,0,Colorado  Timeout
+USC,Colorado,69,68,39,44,0,George King missed Jumper.
+USC,Colorado,69,68,39,44,0,Chimezie Metu Defensive Rebound.
+USC,Colorado,69,68,39,47,0,Foul on Derrick White.
+USC,Colorado,70,68,39,47,1,Elijah Stewart made Free Throw.
+USC,Colorado,71,68,39,47,1,Elijah Stewart made Free Throw.
+USC,Colorado,71,68,39,47,0,USC  Timeout
+USC,Colorado,71,68,39,57,0,George King missed Three Point Jumper.
+USC,Colorado,71,68,39,57,0,Colorado Offensive Rebound.
+USC,Colorado,71,68,40,0,0,End of Game

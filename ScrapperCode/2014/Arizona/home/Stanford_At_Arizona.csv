@@ -1,0 +1,329 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,Arizona,0,0,0,0,0,Jump Ball won by Arizona
+Stanford,Arizona,0,0,0,19,0,Kaleb Tarczewski Turnover.
+Stanford,Arizona,0,0,0,35,0,Stefan Nastic missed Jumper.
+Stanford,Arizona,0,0,0,35,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,0,0,0,49,0,Aaron Gordon missed Jumper.
+Stanford,Arizona,0,0,0,49,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,0,0,0,52,0,Jump Ball won by Stanford
+Stanford,Arizona,0,0,1,3,0,Dwight Powell Turnover.
+Stanford,Arizona,0,0,1,3,0,T.J. McConnell Steal.
+Stanford,Arizona,0,2,1,12,1,T.J. McConnell made Jumper. Assisted by Aaron Gordon.
+Stanford,Arizona,0,2,1,24,0,Josh Huestis missed Jumper.
+Stanford,Arizona,0,2,1,24,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,0,2,1,37,0,Foul on Stefan Nastic.
+Stanford,Arizona,0,3,1,37,1,Kaleb Tarczewski made Free Throw.
+Stanford,Arizona,0,4,1,37,1,Kaleb Tarczewski made Free Throw.
+Stanford,Arizona,3,4,1,58,1,Chasson Randle made Three Point Jumper. Assisted by Anthony Brown.
+Stanford,Arizona,3,6,2,17,1,Kaleb Tarczewski made Jumper.
+Stanford,Arizona,3,6,2,40,0,Stefan Nastic missed Jumper.
+Stanford,Arizona,3,6,2,40,0,Dwight Powell Offensive Rebound.
+Stanford,Arizona,3,6,2,40,0,Dwight Powell missed Two Point Tip Shot.
+Stanford,Arizona,3,6,2,40,0,Kaleb Tarczewski Defensive Rebound.
+Stanford,Arizona,3,6,2,53,0,Nick Johnson missed Jumper.
+Stanford,Arizona,3,6,2,53,0,Anthony Brown Defensive Rebound.
+Stanford,Arizona,3,6,3,20,0,Dwight Powell Turnover.
+Stanford,Arizona,3,8,3,25,1,T.J. McConnell made Layup. Assisted by Nick Johnson.
+Stanford,Arizona,3,8,3,45,0,Foul on Kaleb Tarczewski.
+Stanford,Arizona,3,8,3,50,0,Chasson Randle Turnover.
+Stanford,Arizona,3,8,3,50,0,Aaron Gordon Steal.
+Stanford,Arizona,3,10,3,55,1,Aaron Gordon made Dunk. Assisted by T.J. McConnell.
+Stanford,Arizona,3,10,3,58,0,Stanford  Timeout
+Stanford,Arizona,3,10,4,14,0,Foul on Aaron Gordon.
+Stanford,Arizona,3,10,4,14,0,Official TV Timeout
+Stanford,Arizona,3,10,4,14,0,Dwight Powell missed Free Throw.
+Stanford,Arizona,3,10,4,14,0,Stanford Deadball Team Rebound.
+Stanford,Arizona,4,10,4,14,1,Dwight Powell made Free Throw.
+Stanford,Arizona,4,12,4,24,1,Aaron Gordon made Dunk. Assisted by Rondae Hollis-Jefferson.
+Stanford,Arizona,4,12,4,38,0,Chasson Randle missed Three Point Jumper.
+Stanford,Arizona,4,12,4,38,0,Rondae Hollis-Jefferson Defensive Rebound.
+Stanford,Arizona,4,12,4,56,0,Foul on Stefan Nastic.
+Stanford,Arizona,4,13,4,56,1,Rondae Hollis-Jefferson made Free Throw.
+Stanford,Arizona,4,13,4,56,0,Rondae Hollis-Jefferson missed Free Throw.
+Stanford,Arizona,4,13,4,56,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona,6,13,5,21,1,Josh Huestis made Dunk. Assisted by Anthony Brown.
+Stanford,Arizona,6,13,5,43,0,Aaron Gordon missed Jumper.
+Stanford,Arizona,6,13,5,43,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,6,13,5,54,0,Dwight Powell missed Jumper.
+Stanford,Arizona,6,13,5,54,0,Gabe York Defensive Rebound.
+Stanford,Arizona,6,13,6,3,0,Foul on Robbie Lemons.
+Stanford,Arizona,6,14,6,3,1,Nick Johnson made Free Throw.
+Stanford,Arizona,6,14,6,3,0,Nick Johnson missed Free Throw.
+Stanford,Arizona,6,14,6,3,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,9,14,6,38,1,Anthony Brown made Three Point Jumper.
+Stanford,Arizona,9,14,6,53,0,Gabe York missed Three Point Jumper.
+Stanford,Arizona,9,14,6,53,0,Stanford Deadball Team Rebound.
+Stanford,Arizona,9,14,6,56,0,Foul on Kaleb Tarczewski.
+Stanford,Arizona,11,14,7,2,1,Dwight Powell made Jumper.
+Stanford,Arizona,11,14,7,10,0,Gabe York missed Jumper.
+Stanford,Arizona,11,14,7,10,0,Elliott Pitts Offensive Rebound.
+Stanford,Arizona,11,17,7,16,1,Elliott Pitts made Three Point Jumper. Assisted by T.J. McConnell.
+Stanford,Arizona,11,17,7,43,0,Robbie Lemons Turnover.
+Stanford,Arizona,11,19,8,7,1,T.J. McConnell made Jumper.
+Stanford,Arizona,11,19,8,21,0,Foul on Chasson Randle.
+Stanford,Arizona,11,19,8,21,0,Chasson Randle Turnover.
+Stanford,Arizona,11,19,8,21,0,Official TV Timeout
+Stanford,Arizona,11,19,8,50,0,Rondae Hollis-Jefferson missed Jumper.
+Stanford,Arizona,11,19,8,50,0,Anthony Brown Defensive Rebound.
+Stanford,Arizona,13,19,9,9,1,Chasson Randle made Jumper.
+Stanford,Arizona,13,19,9,34,0,Gabe York missed Jumper.
+Stanford,Arizona,13,19,9,34,0,Aaron Gordon Offensive Rebound.
+Stanford,Arizona,13,21,9,34,1,Aaron Gordon made Two Point Tip Shot.
+Stanford,Arizona,13,21,9,47,0,Dwight Powell Turnover.
+Stanford,Arizona,13,23,10,8,1,Nick Johnson made Jumper.
+Stanford,Arizona,13,23,10,24,0,Chasson Randle Turnover.
+Stanford,Arizona,13,23,10,31,0,Nick Johnson missed Jumper.
+Stanford,Arizona,13,23,10,31,0,Anthony Brown Defensive Rebound.
+Stanford,Arizona,13,23,10,39,0,Foul on T.J. McConnell.
+Stanford,Arizona,14,23,10,39,1,Anthony Brown made Free Throw.
+Stanford,Arizona,15,23,10,39,1,Anthony Brown made Free Throw.
+Stanford,Arizona,15,23,10,59,0,Nick Johnson Turnover.
+Stanford,Arizona,17,23,11,14,1,Chasson Randle made Jumper.
+Stanford,Arizona,17,26,11,37,1,Nick Johnson made Three Point Jumper. Assisted by T.J. McConnell.
+Stanford,Arizona,17,26,12,3,0,Foul on Elliott Pitts.
+Stanford,Arizona,17,26,12,3,0,Official TV Timeout
+Stanford,Arizona,17,26,12,18,0,Stefan Nastic missed Layup.
+Stanford,Arizona,17,26,12,18,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,17,26,12,26,0,Nick Johnson missed Layup.
+Stanford,Arizona,17,26,12,26,0,Josh Huestis Block.
+Stanford,Arizona,17,26,12,26,0,Arizona Offensive Rebound.
+Stanford,Arizona,17,26,12,37,0,Gabe York missed Jumper.
+Stanford,Arizona,17,26,12,37,0,Nick Johnson Offensive Rebound.
+Stanford,Arizona,17,26,12,51,0,Gabe York Turnover.
+Stanford,Arizona,17,26,12,51,0,Marcus Allen Steal.
+Stanford,Arizona,17,26,12,58,0,Chasson Randle missed Layup.
+Stanford,Arizona,17,26,12,58,0,Nick Johnson Block.
+Stanford,Arizona,17,26,12,58,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,17,28,13,5,1,Aaron Gordon made Layup. Assisted by Rondae Hollis-Jefferson.
+Stanford,Arizona,17,28,13,19,0,Foul on Rondae Hollis-Jefferson.
+Stanford,Arizona,18,28,13,19,1,Josh Huestis made Free Throw.
+Stanford,Arizona,19,28,13,19,1,Josh Huestis made Free Throw.
+Stanford,Arizona,19,28,13,51,0,Nick Johnson missed Jumper.
+Stanford,Arizona,19,28,13,51,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,19,28,14,3,0,Josh Huestis missed Three Point Jumper.
+Stanford,Arizona,19,28,14,3,0,Arizona Deadball Team Rebound.
+Stanford,Arizona,19,28,14,6,0,Foul on Stefan Nastic.
+Stanford,Arizona,19,28,14,27,0,Rondae Hollis-Jefferson missed Jumper.
+Stanford,Arizona,19,28,14,27,0,Anthony Brown Defensive Rebound.
+Stanford,Arizona,19,28,14,44,0,Dwight Powell missed Jumper.
+Stanford,Arizona,19,28,14,44,0,Gabe York Defensive Rebound.
+Stanford,Arizona,19,28,14,53,0,Foul on Dwight Powell.
+Stanford,Arizona,19,29,14,53,1,Aaron Gordon made Free Throw.
+Stanford,Arizona,19,30,14,53,1,Aaron Gordon made Free Throw.
+Stanford,Arizona,19,30,15,6,0,Dwight Powell missed Jumper.
+Stanford,Arizona,19,30,15,6,0,Rondae Hollis-Jefferson Defensive Rebound.
+Stanford,Arizona,19,30,15,9,0,Foul on Josh Huestis.
+Stanford,Arizona,19,31,15,9,1,Rondae Hollis-Jefferson made Free Throw.
+Stanford,Arizona,19,31,15,9,0,Rondae Hollis-Jefferson missed Free Throw.
+Stanford,Arizona,19,31,15,9,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona,21,31,15,24,1,Josh Huestis made Layup. Assisted by Dwight Powell.
+Stanford,Arizona,21,31,15,27,0,Arizona  Timeout
+Stanford,Arizona,21,31,15,47,0,Foul on Marcus Allen.
+Stanford,Arizona,21,32,15,47,1,Rondae Hollis-Jefferson made Free Throw.
+Stanford,Arizona,21,33,15,47,1,Rondae Hollis-Jefferson made Free Throw.
+Stanford,Arizona,21,33,16,4,0,Chasson Randle missed Layup.
+Stanford,Arizona,21,33,16,4,0,Rondae Hollis-Jefferson Block.
+Stanford,Arizona,21,33,16,4,0,Rondae Hollis-Jefferson Defensive Rebound.
+Stanford,Arizona,21,35,16,10,1,Rondae Hollis-Jefferson made Layup.
+Stanford,Arizona,21,35,16,33,0,Dwight Powell missed Layup.
+Stanford,Arizona,21,35,16,34,0,Rondae Hollis-Jefferson Block.
+Stanford,Arizona,21,35,16,35,0,Dwight Powell Offensive Rebound.
+Stanford,Arizona,21,35,16,38,0,Dwight Powell missed Layup.
+Stanford,Arizona,21,35,16,38,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,21,37,16,44,1,Aaron Gordon made Layup.
+Stanford,Arizona,21,37,16,46,0,Stanford  Timeout
+Stanford,Arizona,21,37,17,1,0,Chasson Randle Turnover.
+Stanford,Arizona,21,37,17,1,0,T.J. McConnell Steal.
+Stanford,Arizona,21,37,17,8,0,T.J. McConnell Turnover.
+Stanford,Arizona,21,37,17,8,0,Stanford  Timeout
+Stanford,Arizona,21,37,17,24,0,Josh Huestis missed Jumper.
+Stanford,Arizona,21,37,17,24,0,Elliott Pitts Defensive Rebound.
+Stanford,Arizona,21,37,17,36,0,Rondae Hollis-Jefferson missed Layup.
+Stanford,Arizona,21,37,17,36,0,Aaron Gordon Offensive Rebound.
+Stanford,Arizona,21,37,17,36,0,Aaron Gordon missed Two Point Tip Shot.
+Stanford,Arizona,21,37,17,36,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona,21,37,17,38,0,Official TV Timeout
+Stanford,Arizona,21,37,17,50,0,Foul on Rondae Hollis-Jefferson.
+Stanford,Arizona,22,37,17,50,1,Josh Huestis made Free Throw.
+Stanford,Arizona,23,37,17,50,1,Josh Huestis made Free Throw.
+Stanford,Arizona,23,39,18,11,1,T.J. McConnell made Jumper.
+Stanford,Arizona,23,39,18,26,0,Dwight Powell missed Jumper.
+Stanford,Arizona,23,39,18,26,0,Matt Korcheck Defensive Rebound.
+Stanford,Arizona,23,39,18,33,0,Foul on Dwight Powell.
+Stanford,Arizona,23,40,18,33,1,Matt Korcheck made Free Throw.
+Stanford,Arizona,23,41,18,33,1,Matt Korcheck made Free Throw.
+Stanford,Arizona,25,41,18,54,1,Anthony Brown made Jumper.
+Stanford,Arizona,25,41,19,12,0,T.J. McConnell Turnover.
+Stanford,Arizona,28,41,19,25,1,Anthony Brown made Three Point Jumper. Assisted by Chasson Randle.
+Stanford,Arizona,28,41,19,52,0,T.J. McConnell missed Jumper.
+Stanford,Arizona,28,41,19,52,0,Matt Korcheck Offensive Rebound.
+Stanford,Arizona,28,41,19,58,0,T.J. McConnell missed Jumper.
+Stanford,Arizona,28,41,19,58,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,28,41,20,0,0,End of 1st half
+Stanford,Arizona,28,41,20,0,0,Jump Ball won by Arizona
+Stanford,Arizona,28,41,20,12,0,T.J. McConnell missed Jumper.
+Stanford,Arizona,28,41,20,12,0,T.J. McConnell Offensive Rebound.
+Stanford,Arizona,28,41,20,14,0,Foul on Chasson Randle.
+Stanford,Arizona,28,43,20,23,1,Aaron Gordon made Jumper. Assisted by Nick Johnson.
+Stanford,Arizona,30,43,20,47,1,Stefan Nastic made Jumper.
+Stanford,Arizona,30,43,21,7,0,Aaron Gordon missed Jumper.
+Stanford,Arizona,30,43,21,7,0,Kaleb Tarczewski Offensive Rebound.
+Stanford,Arizona,30,43,21,11,0,Foul on Chasson Randle.
+Stanford,Arizona,30,43,21,27,0,Nick Johnson missed Jumper.
+Stanford,Arizona,30,43,21,27,0,Chasson Randle Defensive Rebound.
+Stanford,Arizona,30,43,21,37,0,Anthony Brown missed Three Point Jumper.
+Stanford,Arizona,30,43,21,37,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,30,43,21,46,0,Jordin Mayes missed Three Point Jumper.
+Stanford,Arizona,30,43,21,46,0,Anthony Brown Defensive Rebound.
+Stanford,Arizona,32,43,21,54,1,Anthony Brown made Jumper.
+Stanford,Arizona,32,43,21,54,0,Foul on T.J. McConnell.
+Stanford,Arizona,32,43,21,54,0,Anthony Brown missed Free Throw.
+Stanford,Arizona,32,43,21,54,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,32,45,22,9,1,Kaleb Tarczewski made Layup. Assisted by Aaron Gordon.
+Stanford,Arizona,32,45,22,21,0,Stefan Nastic missed Jumper.
+Stanford,Arizona,32,45,22,21,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,32,45,22,29,0,Nick Johnson missed Dunk.
+Stanford,Arizona,32,45,22,29,0,Aaron Gordon Offensive Rebound.
+Stanford,Arizona,32,45,22,35,0,T.J. McConnell missed Three Point Jumper.
+Stanford,Arizona,32,45,22,35,0,Arizona Offensive Rebound.
+Stanford,Arizona,32,47,22,46,1,Kaleb Tarczewski made Dunk.
+Stanford,Arizona,32,47,22,46,0,Foul on Stefan Nastic.
+Stanford,Arizona,32,48,22,46,1,Kaleb Tarczewski made Free Throw.
+Stanford,Arizona,34,48,22,55,1,Josh Huestis made Dunk. Assisted by Anthony Brown.
+Stanford,Arizona,34,48,23,31,0,Foul on Anthony Brown.
+Stanford,Arizona,34,49,23,31,1,Kaleb Tarczewski made Free Throw.
+Stanford,Arizona,34,49,23,31,0,Kaleb Tarczewski missed Free Throw.
+Stanford,Arizona,34,49,23,31,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,34,49,23,44,0,Josh Huestis missed Jumper.
+Stanford,Arizona,34,49,23,44,0,Aaron Gordon Block.
+Stanford,Arizona,34,49,23,44,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,34,49,24,1,0,Nick Johnson missed Three Point Jumper.
+Stanford,Arizona,34,49,24,1,0,Chasson Randle Defensive Rebound.
+Stanford,Arizona,34,49,24,14,0,Foul on Kaleb Tarczewski.
+Stanford,Arizona,34,49,24,14,0,Official TV Timeout
+Stanford,Arizona,34,49,24,20,0,John Gage missed Three Point Jumper.
+Stanford,Arizona,34,49,24,20,0,Kaleb Tarczewski Defensive Rebound.
+Stanford,Arizona,34,49,24,24,0,Foul on Anthony Brown.
+Stanford,Arizona,34,49,24,54,0,Elliott Pitts Turnover.
+Stanford,Arizona,34,49,25,0,0,Foul on Elliott Pitts.
+Stanford,Arizona,35,49,25,0,1,Chasson Randle made Free Throw.
+Stanford,Arizona,36,49,25,0,1,Chasson Randle made Free Throw.
+Stanford,Arizona,36,51,25,26,1,Rondae Hollis-Jefferson made Jumper. Assisted by Nick Johnson.
+Stanford,Arizona,38,51,25,39,1,Josh Huestis made Jumper.
+Stanford,Arizona,38,54,26,3,1,Nick Johnson made Three Point Jumper. Assisted by Elliott Pitts.
+Stanford,Arizona,38,54,26,22,0,Dwight Powell missed Jumper.
+Stanford,Arizona,38,54,26,22,0,Kaleb Tarczewski Defensive Rebound.
+Stanford,Arizona,38,56,26,31,1,Gabe York made Layup. Assisted by Nick Johnson.
+Stanford,Arizona,38,56,26,31,0,Foul on Chasson Randle.
+Stanford,Arizona,38,57,26,31,1,Gabe York made Free Throw.
+Stanford,Arizona,40,57,26,40,1,Josh Huestis made Jumper.
+Stanford,Arizona,40,57,27,7,0,Nick Johnson missed Jumper.
+Stanford,Arizona,40,57,27,7,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,40,57,27,23,0,Dwight Powell missed Jumper.
+Stanford,Arizona,40,57,27,23,0,Kaleb Tarczewski Defensive Rebound.
+Stanford,Arizona,40,60,27,38,1,Gabe York made Three Point Jumper. Assisted by Rondae Hollis-Jefferson.
+Stanford,Arizona,42,60,27,49,1,Dwight Powell made Jumper.
+Stanford,Arizona,42,60,27,49,0,Foul on Kaleb Tarczewski.
+Stanford,Arizona,43,60,27,49,1,Dwight Powell made Free Throw.
+Stanford,Arizona,43,60,28,4,0,Official TV Timeout
+Stanford,Arizona,43,60,28,21,0,Gabe York missed Three Point Jumper.
+Stanford,Arizona,43,60,28,21,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,43,60,28,38,0,Anthony Brown missed Jumper.
+Stanford,Arizona,43,60,28,38,0,Gabe York Defensive Rebound.
+Stanford,Arizona,43,60,28,50,0,Nick Johnson missed Three Point Jumper.
+Stanford,Arizona,43,60,28,50,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,43,60,29,3,0,Stefan Nastic missed Jumper.
+Stanford,Arizona,43,60,29,3,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,43,63,29,11,1,Gabe York made Three Point Jumper. Assisted by Rondae Hollis-Jefferson.
+Stanford,Arizona,43,63,29,37,0,Stefan Nastic missed Jumper.
+Stanford,Arizona,43,63,29,37,0,Rondae Hollis-Jefferson Block.
+Stanford,Arizona,43,63,29,37,0,Aaron Gordon Defensive Rebound.
+Stanford,Arizona,43,63,29,42,0,Nick Johnson missed Jumper.
+Stanford,Arizona,43,63,29,43,0,John Gage Block.
+Stanford,Arizona,43,63,29,43,0,Arizona Offensive Rebound.
+Stanford,Arizona,43,66,29,58,1,Gabe York made Three Point Jumper. Assisted by T.J. McConnell.
+Stanford,Arizona,43,66,30,12,0,Anthony Brown Turnover.
+Stanford,Arizona,43,68,30,19,1,Aaron Gordon made Layup.
+Stanford,Arizona,43,68,30,20,0,Stanford  Timeout
+Stanford,Arizona,46,68,30,45,1,Josh Huestis made Three Point Jumper. Assisted by Marcus Allen.
+Stanford,Arizona,46,68,31,13,0,Foul on Stefan Nastic.
+Stanford,Arizona,46,69,31,13,1,Aaron Gordon made Free Throw.
+Stanford,Arizona,46,69,31,13,0,Aaron Gordon missed Free Throw.
+Stanford,Arizona,46,69,31,13,0,Schuyler Rimmer Defensive Rebound.
+Stanford,Arizona,48,69,31,36,1,Marcus Allen made Layup.
+Stanford,Arizona,48,69,31,51,0,T.J. McConnell missed Jumper.
+Stanford,Arizona,48,69,31,51,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,50,69,32,15,1,Josh Huestis made Jumper. Assisted by Chasson Randle.
+Stanford,Arizona,50,69,32,41,0,Aaron Gordon missed Jumper.
+Stanford,Arizona,50,69,32,41,0,Elliott Pitts Offensive Rebound.
+Stanford,Arizona,50,69,32,50,0,Elliott Pitts missed Three Point Jumper.
+Stanford,Arizona,50,69,32,50,0,Aaron Gordon Offensive Rebound.
+Stanford,Arizona,50,71,32,50,1,Aaron Gordon made Two Point Tip Shot.
+Stanford,Arizona,50,71,33,15,0,Foul on Rondae Hollis-Jefferson.
+Stanford,Arizona,50,71,33,15,0,Official TV Timeout
+Stanford,Arizona,51,71,33,15,1,Josh Huestis made Free Throw.
+Stanford,Arizona,51,71,33,15,0,Josh Huestis missed Free Throw.
+Stanford,Arizona,51,71,33,15,0,Dwight Powell Offensive Rebound.
+Stanford,Arizona,51,71,33,24,0,Dwight Powell missed Three Point Jumper.
+Stanford,Arizona,51,71,33,24,0,Nick Johnson Defensive Rebound.
+Stanford,Arizona,51,71,33,29,0,Nick Johnson Turnover.
+Stanford,Arizona,51,71,33,29,0,Dwight Powell Steal.
+Stanford,Arizona,51,71,33,40,0,Chasson Randle missed Layup.
+Stanford,Arizona,51,71,33,40,0,Kaleb Tarczewski Block.
+Stanford,Arizona,51,71,33,40,0,T.J. McConnell Defensive Rebound.
+Stanford,Arizona,51,73,33,47,1,T.J. McConnell made Layup.
+Stanford,Arizona,51,73,34,0,0,Foul on T.J. McConnell.
+Stanford,Arizona,53,73,34,12,1,Dwight Powell made Jumper.
+Stanford,Arizona,53,73,34,43,0,Foul on Schuyler Rimmer.
+Stanford,Arizona,53,73,34,43,0,Aaron Gordon missed Free Throw.
+Stanford,Arizona,53,73,34,43,0,Arizona Deadball Team Rebound.
+Stanford,Arizona,53,73,34,43,0,Aaron Gordon missed Free Throw.
+Stanford,Arizona,53,73,34,43,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona,55,73,34,50,1,Chasson Randle made Jumper.
+Stanford,Arizona,55,73,34,50,0,Foul on Jordin Mayes.
+Stanford,Arizona,56,73,34,50,1,Chasson Randle made Free Throw.
+Stanford,Arizona,56,73,35,10,0,Jordin Mayes Turnover.
+Stanford,Arizona,56,73,35,10,0,Chasson Randle Steal.
+Stanford,Arizona,56,73,35,25,0,Marcus Allen missed Jumper.
+Stanford,Arizona,56,73,35,25,0,Kaleb Tarczewski Defensive Rebound.
+Stanford,Arizona,56,73,35,53,0,Foul on Josh Huestis.
+Stanford,Arizona,56,73,35,53,0,Kaleb Tarczewski missed Free Throw.
+Stanford,Arizona,56,73,35,53,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,56,73,36,8,0,Josh Huestis missed Jumper.
+Stanford,Arizona,56,73,36,8,0,Dwight Powell Offensive Rebound.
+Stanford,Arizona,56,73,36,13,0,Foul on Kaleb Tarczewski.
+Stanford,Arizona,56,73,36,13,0,Official TV Timeout
+Stanford,Arizona,57,73,36,13,1,Dwight Powell made Free Throw.
+Stanford,Arizona,58,73,36,13,1,Dwight Powell made Free Throw.
+Stanford,Arizona,58,73,36,32,0,Jordin Mayes missed Three Point Jumper.
+Stanford,Arizona,58,73,36,32,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona,58,73,36,45,0,Foul on Aaron Gordon.
+Stanford,Arizona,59,73,36,45,1,Dwight Powell made Free Throw.
+Stanford,Arizona,60,73,36,45,1,Dwight Powell made Free Throw.
+Stanford,Arizona,60,73,37,3,0,Rondae Hollis-Jefferson missed Jumper.
+Stanford,Arizona,60,73,37,3,0,Anthony Brown Defensive Rebound.
+Stanford,Arizona,62,73,37,13,1,Josh Huestis made Dunk. Assisted by Anthony Brown.
+Stanford,Arizona,62,73,37,15,0,Stanford  Timeout
+Stanford,Arizona,62,73,37,16,0,Foul on Marcus Allen.
+Stanford,Arizona,62,74,37,16,1,Nick Johnson made Free Throw.
+Stanford,Arizona,62,75,37,16,1,Nick Johnson made Free Throw.
+Stanford,Arizona,62,75,37,22,0,Marcus Allen missed Three Point Jumper.
+Stanford,Arizona,62,75,37,22,0,Nick Johnson Defensive Rebound.
+Stanford,Arizona,62,75,37,37,0,Foul on Josh Huestis.
+Stanford,Arizona,62,76,37,37,1,T.J. McConnell made Free Throw.
+Stanford,Arizona,62,77,37,37,1,T.J. McConnell made Free Throw.
+Stanford,Arizona,64,77,37,47,1,Anthony Brown made Jumper.
+Stanford,Arizona,64,77,38,18,0,Foul on Marcus Allen.
+Stanford,Arizona,64,78,38,18,1,T.J. McConnell made Free Throw.
+Stanford,Arizona,64,79,38,18,1,T.J. McConnell made Free Throw.
+Stanford,Arizona,64,79,38,39,0,Marcus Allen missed Jumper.
+Stanford,Arizona,64,79,38,39,0,John Gage Offensive Rebound.
+Stanford,Arizona,64,79,38,45,0,Foul on Rondae Hollis-Jefferson.
+Stanford,Arizona,65,79,38,45,1,John Gage made Free Throw.
+Stanford,Arizona,66,79,38,45,1,John Gage made Free Throw.
+Stanford,Arizona,66,79,38,58,0,Arizona  Timeout
+Stanford,Arizona,66,79,39,17,0,Rondae Hollis-Jefferson missed Layup.
+Stanford,Arizona,66,79,39,17,0,Stanford Defensive Rebound.
+Stanford,Arizona,66,79,39,32,0,Malcolm Allen Turnover.
+Stanford,Arizona,66,79,39,32,0,Jacob Hazzard Steal.
+Stanford,Arizona,66,79,40,0,0,End of Game

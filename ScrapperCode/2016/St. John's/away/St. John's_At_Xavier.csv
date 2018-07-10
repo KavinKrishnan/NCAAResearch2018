@@ -1,0 +1,402 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+St. John's,Xavier,2,0,0,19,1,Felix Balamou made Jumper.
+St. John's,Xavier,2,0,0,19,0,Foul on Jalen Reynolds.
+St. John's,Xavier,3,0,0,19,1,Felix Balamou made Free Throw.
+St. John's,Xavier,3,0,0,39,0,Jalen Reynolds missed Jumper.
+St. John's,Xavier,3,0,0,39,0,Felix Balamou Defensive Rebound.
+St. John's,Xavier,3,0,0,40,0,Foul on Jalen Reynolds.
+St. John's,Xavier,3,0,1,1,0,Malik Ellison missed Jumper.
+St. John's,Xavier,3,0,1,1,0,James Farr Defensive Rebound.
+St. John's,Xavier,3,0,1,16,0,Trevon Bluiett missed Three Point Jumper.
+St. John's,Xavier,3,0,1,16,0,Xavier Offensive Rebound.
+St. John's,Xavier,3,2,1,35,1,James Farr made Jumper. Assisted by Myles Davis.
+St. John's,Xavier,5,2,2,4,1,Durand Johnson made Jumper.
+St. John's,Xavier,5,4,2,11,1,Remy Abell made Dunk. Assisted by Edmond Sumner.
+St. John's,Xavier,5,4,2,24,0,Durand Johnson missed Three Point Jumper.
+St. John's,Xavier,5,4,2,24,0,James Farr Defensive Rebound.
+St. John's,Xavier,5,6,2,36,1,Trevon Bluiett made Jumper.
+St. John's,Xavier,5,6,2,56,0,Felix Balamou missed Jumper.
+St. John's,Xavier,5,6,2,56,0,Remy Abell Defensive Rebound.
+St. John's,Xavier,5,6,3,8,0,Foul on Ron Mvouika.
+St. John's,Xavier,5,7,3,8,1,Edmond Sumner made Free Throw.
+St. John's,Xavier,5,7,3,8,0,Edmond Sumner missed Free Throw.
+St. John's,Xavier,5,7,3,8,0,Felix Balamou Defensive Rebound.
+St. John's,Xavier,5,7,3,29,0,Kassoum Yakwe missed Jumper.
+St. John's,Xavier,5,7,3,29,0,Edmond Sumner Defensive Rebound.
+St. John's,Xavier,5,7,3,36,0,Foul on Malik Ellison.
+St. John's,Xavier,5,7,3,45,0,Trevon Bluiett missed Jumper.
+St. John's,Xavier,5,7,3,45,0,Ron Mvouika Defensive Rebound.
+St. John's,Xavier,5,7,3,51,0,Federico Mussini missed Layup.
+St. John's,Xavier,5,7,3,51,0,Kassoum Yakwe Offensive Rebound.
+St. John's,Xavier,7,7,3,53,1,Kassoum Yakwe made Two Point Tip Shot.
+St. John's,Xavier,7,7,4,5,0,Myles Davis missed Layup.
+St. John's,Xavier,7,7,4,5,0,Kassoum Yakwe Block.
+St. John's,Xavier,7,7,4,6,0,Durand Johnson Defensive Rebound.
+St. John's,Xavier,7,7,4,13,0,Malik Ellison missed Layup.
+St. John's,Xavier,7,7,4,13,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,7,7,4,20,0,Remy Abell missed Jumper.
+St. John's,Xavier,7,7,4,20,0,Myles Davis Offensive Rebound.
+St. John's,Xavier,7,7,4,35,0,James Farr missed Free Throw.
+St. John's,Xavier,7,7,4,35,0,Xavier Deadball Team Rebound.
+St. John's,Xavier,7,8,4,35,1,James Farr made Free Throw.
+St. John's,Xavier,7,7,4,35,0,Foul on Durand Johnson.
+St. John's,Xavier,7,7,4,35,0,Official TV Timeout
+St. John's,Xavier,7,8,4,58,0,Kassoum Yakwe missed Layup.
+St. John's,Xavier,7,8,4,58,0,Malik Ellison Offensive Rebound.
+St. John's,Xavier,7,8,5,0,0,Malik Ellison missed Two Point Tip Shot.
+St. John's,Xavier,7,8,5,0,0,J.P. Macura Defensive Rebound.
+St. John's,Xavier,7,8,5,0,0,Foul on Malik Ellison.
+St. John's,Xavier,7,8,5,12,0,Sean O'Mara Turnover.
+St. John's,Xavier,7,8,5,13,0,Kassoum Yakwe Steal.
+St. John's,Xavier,7,8,5,13,0,Foul on Sean O'Mara.
+St. John's,Xavier,7,8,5,23,0,Ron Mvouika missed Three Point Jumper.
+St. John's,Xavier,7,8,5,23,0,Edmond Sumner Defensive Rebound.
+St. John's,Xavier,7,8,5,28,0,Myles Davis missed Three Point Jumper.
+St. John's,Xavier,7,8,5,28,0,Sean O'Mara Offensive Rebound.
+St. John's,Xavier,7,8,5,33,0,Sean O'Mara Turnover.
+St. John's,Xavier,9,8,6,4,1,Ron Mvouika made Jumper.
+St. John's,Xavier,9,8,6,26,0,Foul on Ron Mvouika.
+St. John's,Xavier,9,8,6,30,0,Trevon Bluiett missed Jumper.
+St. John's,Xavier,9,8,6,30,0,Federico Mussini Defensive Rebound.
+St. John's,Xavier,9,8,6,49,0,Kassoum Yakwe missed Layup.
+St. John's,Xavier,9,8,6,49,0,Sean O'Mara Defensive Rebound.
+St. John's,Xavier,9,8,6,56,0,Larry Austin Jr. Turnover.
+St. John's,Xavier,9,8,6,56,0,Amar Alibegovic Steal.
+St. John's,Xavier,9,8,7,7,0,Kassoum Yakwe missed Jumper.
+St. John's,Xavier,9,8,7,7,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,9,11,7,14,1,Trevon Bluiett made Three Point Jumper.
+St. John's,Xavier,9,11,7,36,0,Christian Jones Turnover.
+St. John's,Xavier,9,11,7,37,0,Trevon Bluiett Steal.
+St. John's,Xavier,9,11,7,40,0,Remy Abell missed Layup.
+St. John's,Xavier,9,11,7,40,0,Larry Austin Jr. Offensive Rebound.
+St. John's,Xavier,9,13,7,43,1,Larry Austin Jr. made Two Point Tip Shot.
+St. John's,Xavier,11,13,7,52,1,Durand Johnson made Jumper.
+St. John's,Xavier,11,13,8,1,0,J.P. Macura Turnover.
+St. John's,Xavier,11,13,8,1,0,Official TV Timeout
+St. John's,Xavier,11,13,8,9,0,Foul on Kaiser Gates.
+St. John's,Xavier,12,13,8,9,1,Christian Jones made Free Throw.
+St. John's,Xavier,12,13,8,9,0,Christian Jones missed Free Throw.
+St. John's,Xavier,12,13,8,9,0,Remy Abell Defensive Rebound.
+St. John's,Xavier,12,13,8,24,0,Remy Abell Turnover.
+St. John's,Xavier,12,13,8,34,0,Christian Jones Turnover.
+St. John's,Xavier,12,13,8,43,0,Kaiser Gates missed Three Point Jumper.
+St. John's,Xavier,12,13,8,43,0,Amar Alibegovic Defensive Rebound.
+St. John's,Xavier,12,13,9,1,0,Durand Johnson missed Three Point Jumper.
+St. John's,Xavier,12,13,9,1,0,J.P. Macura Defensive Rebound.
+St. John's,Xavier,12,13,9,11,0,Foul on Christian Jones.
+St. John's,Xavier,12,14,9,11,1,J.P. Macura made Free Throw.
+St. John's,Xavier,12,15,9,11,1,J.P. Macura made Free Throw.
+St. John's,Xavier,12,15,9,24,0,Durand Johnson Turnover.
+St. John's,Xavier,12,15,9,25,0,Edmond Sumner Steal.
+St. John's,Xavier,12,15,9,30,0,Foul on Durand Johnson.
+St. John's,Xavier,12,16,9,30,1,Remy Abell made Free Throw.
+St. John's,Xavier,12,17,9,30,1,Remy Abell made Free Throw.
+St. John's,Xavier,12,17,9,40,0,Federico Mussini missed Three Point Jumper.
+St. John's,Xavier,12,17,9,40,0,James Farr Defensive Rebound.
+St. John's,Xavier,12,17,9,53,0,Remy Abell missed Three Point Jumper.
+St. John's,Xavier,12,17,9,53,0,Xavier Offensive Rebound.
+St. John's,Xavier,12,17,10,1,0,Kaiser Gates missed Three Point Jumper.
+St. John's,Xavier,12,17,10,1,0,Felix Balamou Defensive Rebound.
+St. John's,Xavier,12,17,10,13,0,Amar Alibegovic missed Three Point Jumper.
+St. John's,Xavier,12,17,10,13,0,Christian Jones Offensive Rebound.
+St. John's,Xavier,12,17,10,27,0,Federico Mussini missed Layup.
+St. John's,Xavier,12,17,10,27,0,Edmond Sumner Block.
+St. John's,Xavier,12,17,10,28,0,St. John's Offensive Rebound.
+St. John's,Xavier,12,17,10,42,0,Felix Balamou missed Jumper.
+St. John's,Xavier,12,17,10,42,0,James Farr Defensive Rebound.
+St. John's,Xavier,12,17,10,53,0,Foul on Felix Balamou.
+St. John's,Xavier,12,18,10,53,1,Edmond Sumner made Free Throw.
+St. John's,Xavier,12,18,10,53,0,Edmond Sumner missed Free Throw.
+St. John's,Xavier,12,18,10,53,0,Christian Jones Defensive Rebound.
+St. John's,Xavier,12,18,11,4,0,Foul on Edmond Sumner.
+St. John's,Xavier,14,18,11,9,1,Felix Balamou made Layup.
+St. John's,Xavier,14,20,11,29,1,James Farr made Layup. Assisted by Remy Abell.
+St. John's,Xavier,14,20,11,52,0,Felix Balamou missed Jumper.
+St. John's,Xavier,14,20,11,52,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,14,20,11,59,0,Edmond Sumner Turnover.
+St. John's,Xavier,14,20,12,18,0,Christian Jones missed Jumper.
+St. John's,Xavier,14,20,12,18,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,14,20,12,27,0,Trevon Bluiett missed Layup.
+St. John's,Xavier,14,20,12,27,0,Kassoum Yakwe Block.
+St. John's,Xavier,14,20,12,28,0,Christian Jones Defensive Rebound.
+St. John's,Xavier,16,20,12,32,1,Federico Mussini made Layup. Assisted by Christian Jones.
+St. John's,Xavier,16,20,12,45,0,James Farr missed Layup.
+St. John's,Xavier,16,20,12,45,0,James Farr Offensive Rebound.
+St. John's,Xavier,16,22,12,48,1,James Farr made Two Point Tip Shot.
+St. John's,Xavier,16,22,13,3,0,Foul on Myles Davis.
+St. John's,Xavier,16,22,13,3,0,Official TV Timeout
+St. John's,Xavier,18,22,13,14,1,Felix Balamou made Layup. Assisted by Christian Jones.
+St. John's,Xavier,18,22,13,32,0,Sean O'Mara missed Layup.
+St. John's,Xavier,18,22,13,32,0,Sean O'Mara Offensive Rebound.
+St. John's,Xavier,18,24,13,34,1,Sean O'Mara made Layup.
+St. John's,Xavier,20,24,13,50,1,Felix Balamou made Layup. Assisted by Ron Mvouika.
+St. John's,Xavier,20,24,14,5,0,Foul on Christian Jones.
+St. John's,Xavier,20,25,14,5,1,Larry Austin Jr. made Free Throw.
+St. John's,Xavier,20,25,14,5,0,Larry Austin Jr. missed Free Throw.
+St. John's,Xavier,20,25,14,5,0,Durand Johnson Defensive Rebound.
+St. John's,Xavier,20,25,14,18,0,Foul on Ron Mvouika.
+St. John's,Xavier,20,25,14,18,0,Ron Mvouika Turnover.
+St. John's,Xavier,20,25,14,37,0,Edmond Sumner missed Three Point Jumper.
+St. John's,Xavier,20,25,14,37,0,Kassoum Yakwe Defensive Rebound.
+St. John's,Xavier,20,25,14,43,0,Foul on Edmond Sumner.
+St. John's,Xavier,21,25,14,43,1,Durand Johnson made Free Throw.
+St. John's,Xavier,22,25,14,43,1,Durand Johnson made Free Throw.
+St. John's,Xavier,22,27,14,49,1,J.P. Macura made Layup. Assisted by Myles Davis.
+St. John's,Xavier,24,27,15,10,1,Kassoum Yakwe made Jumper.
+St. John's,Xavier,24,27,15,21,0,Trevon Bluiett missed Layup.
+St. John's,Xavier,24,27,15,21,0,Kassoum Yakwe Defensive Rebound.
+St. John's,Xavier,24,27,15,30,0,Federico Mussini missed Jumper.
+St. John's,Xavier,24,27,15,30,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,24,30,15,41,1,J.P. Macura made Three Point Jumper. Assisted by Myles Davis.
+St. John's,Xavier,24,30,16,3,0,Malik Ellison missed Jumper.
+St. John's,Xavier,24,30,16,3,0,St. John's Offensive Rebound.
+St. John's,Xavier,24,30,16,6,0,Official TV Timeout
+St. John's,Xavier,24,30,16,30,0,Federico Mussini missed Three Point Jumper.
+St. John's,Xavier,24,30,16,30,0,James Farr Block.
+St. John's,Xavier,24,30,16,33,0,Kassoum Yakwe Offensive Rebound.
+St. John's,Xavier,26,30,16,34,1,Kassoum Yakwe made Layup.
+St. John's,Xavier,26,30,16,49,0,Trevon Bluiett missed Three Point Jumper.
+St. John's,Xavier,26,30,16,49,0,Malik Ellison Defensive Rebound.
+St. John's,Xavier,26,30,16,56,0,Foul on Myles Davis.
+St. John's,Xavier,27,30,16,56,1,Durand Johnson made Free Throw.
+St. John's,Xavier,27,30,16,56,0,Durand Johnson missed Free Throw.
+St. John's,Xavier,27,30,16,56,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,27,30,17,7,0,J.P. Macura missed Three Point Jumper.
+St. John's,Xavier,27,30,17,7,0,J.P. Macura Offensive Rebound.
+St. John's,Xavier,27,30,17,12,0,J.P. Macura missed Jumper.
+St. John's,Xavier,27,30,17,12,0,Trevon Bluiett Offensive Rebound.
+St. John's,Xavier,27,30,17,14,0,Foul on Christian Jones.
+St. John's,Xavier,27,30,17,14,0,Trevon Bluiett missed Free Throw.
+St. John's,Xavier,27,30,17,14,0,Xavier Deadball Team Rebound.
+St. John's,Xavier,27,31,17,14,1,Trevon Bluiett made Free Throw.
+St. John's,Xavier,27,31,17,27,0,Malik Ellison missed Layup.
+St. John's,Xavier,27,31,17,27,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,27,31,17,36,0,Larry Austin Jr. missed Jumper.
+St. John's,Xavier,27,31,17,36,0,Kassoum Yakwe Block.
+St. John's,Xavier,27,31,17,37,0,Xavier Offensive Rebound.
+St. John's,Xavier,27,31,17,43,0,James Farr Turnover.
+St. John's,Xavier,27,31,17,54,0,Durand Johnson missed Three Point Jumper.
+St. John's,Xavier,27,31,17,54,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,27,31,17,57,0,Foul on Amar Alibegovic.
+St. John's,Xavier,27,32,17,57,1,Trevon Bluiett made Free Throw.
+St. John's,Xavier,27,33,17,57,1,Trevon Bluiett made Free Throw.
+St. John's,Xavier,29,33,18,6,1,Felix Balamou made Layup.
+St. John's,Xavier,29,36,18,32,1,Trevon Bluiett made Three Point Jumper. Assisted by Remy Abell.
+St. John's,Xavier,29,36,18,45,0,Foul on J.P. Macura.
+St. John's,Xavier,29,36,18,45,0,Felix Balamou missed Free Throw.
+St. John's,Xavier,29,36,18,45,0,James Farr Defensive Rebound.
+St. John's,Xavier,29,36,18,51,0,Remy Abell Turnover.
+St. John's,Xavier,29,36,19,4,0,Foul on Larry Austin Jr..
+St. John's,Xavier,30,36,19,4,1,Federico Mussini made Free Throw.
+St. John's,Xavier,31,36,19,4,1,Federico Mussini made Free Throw.
+St. John's,Xavier,31,36,19,17,0,J.P. Macura missed Three Point Jumper.
+St. John's,Xavier,31,36,19,17,0,Amar Alibegovic Defensive Rebound.
+St. John's,Xavier,33,36,19,25,1,Kassoum Yakwe made Dunk. Assisted by Durand Johnson.
+St. John's,Xavier,33,36,19,35,0,Xavier  Timeout
+St. John's,Xavier,33,38,19,45,1,James Farr made Layup. Assisted by J.P. Macura.
+St. John's,Xavier,33,38,19,54,0,St. John's  Timeout
+St. John's,Xavier,36,38,19,57,1,Durand Johnson made Three Point Jumper. Assisted by Felix Balamou.
+St. John's,Xavier,36,38,20,0,0,End of 1st half
+St. John's,Xavier,39,38,20,29,1,Ron Mvouika made Three Point Jumper. Assisted by Durand Johnson.
+St. John's,Xavier,39,38,20,45,0,Myles Davis missed Three Point Jumper.
+St. John's,Xavier,39,38,20,45,0,Malik Ellison Defensive Rebound.
+St. John's,Xavier,39,38,20,53,0,Malik Ellison missed Layup.
+St. John's,Xavier,39,38,20,53,0,Jalen Reynolds Block.
+St. John's,Xavier,39,38,20,54,0,St. John's Offensive Rebound.
+St. John's,Xavier,42,38,21,2,1,Malik Ellison made Three Point Jumper. Assisted by Ron Mvouika.
+St. John's,Xavier,42,38,21,13,0,Jalen Reynolds Turnover.
+St. John's,Xavier,42,38,21,23,0,Foul on Malik Ellison.
+St. John's,Xavier,42,38,21,23,0,Malik Ellison Turnover.
+St. John's,Xavier,42,40,21,36,1,Edmond Sumner made Dunk. Assisted by Jalen Reynolds.
+St. John's,Xavier,42,40,21,47,0,Foul on Edmond Sumner.
+St. John's,Xavier,44,40,21,49,1,Durand Johnson made Jumper.
+St. John's,Xavier,44,42,22,7,1,Remy Abell made Jumper. Assisted by Myles Davis.
+St. John's,Xavier,44,42,22,13,0,Malik Ellison missed Three Point Jumper.
+St. John's,Xavier,44,42,22,13,0,Myles Davis Defensive Rebound.
+St. John's,Xavier,44,45,22,26,1,Myles Davis made Three Point Jumper. Assisted by Jalen Reynolds.
+St. John's,Xavier,46,45,22,44,1,Felix Balamou made Layup.
+St. John's,Xavier,46,47,23,9,1,Jalen Reynolds made Dunk. Assisted by Edmond Sumner.
+St. John's,Xavier,46,47,23,14,0,Technical Foul on Felix Balamou.
+St. John's,Xavier,46,47,23,14,0,Foul on Felix Balamou.
+St. John's,Xavier,46,47,23,14,0,Felix Balamou Turnover.
+St. John's,Xavier,46,48,23,14,1,Myles Davis made Free Throw.
+St. John's,Xavier,46,49,23,14,1,Myles Davis made Free Throw.
+St. John's,Xavier,46,49,23,26,0,Felix Balamou Turnover.
+St. John's,Xavier,46,49,23,34,0,Foul on Kassoum Yakwe.
+St. John's,Xavier,46,49,23,38,0,Jalen Reynolds missed Layup.
+St. John's,Xavier,46,49,23,38,0,J.P. Macura Offensive Rebound.
+St. John's,Xavier,46,51,23,49,1,Myles Davis made Layup. Assisted by Trevon Bluiett.
+St. John's,Xavier,48,51,23,59,1,Christian Jones made Layup. Assisted by Malik Ellison.
+St. John's,Xavier,48,51,23,59,0,Foul on Jalen Reynolds.
+St. John's,Xavier,49,51,23,59,1,Christian Jones made Free Throw.
+St. John's,Xavier,49,51,24,19,0,Remy Abell missed Three Point Jumper.
+St. John's,Xavier,49,51,24,19,0,Malik Ellison Defensive Rebound.
+St. John's,Xavier,49,51,24,27,0,Ron Mvouika missed Three Point Jumper.
+St. John's,Xavier,49,51,24,27,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,49,51,24,39,0,Trevon Bluiett missed Jumper.
+St. John's,Xavier,49,51,24,39,0,Durand Johnson Defensive Rebound.
+St. John's,Xavier,49,51,24,45,0,Durand Johnson missed Three Point Jumper.
+St. John's,Xavier,49,51,24,45,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,49,51,25,9,0,James Farr Turnover.
+St. John's,Xavier,49,51,25,9,0,Official TV Timeout
+St. John's,Xavier,51,51,25,27,1,Christian Jones made Jumper.
+St. John's,Xavier,51,51,25,27,0,Foul on Myles Davis.
+St. John's,Xavier,52,51,25,27,1,Christian Jones made Free Throw.
+St. John's,Xavier,52,51,25,38,0,Larry Austin Jr. Turnover.
+St. John's,Xavier,52,51,25,56,0,Durand Johnson missed Three Point Jumper.
+St. John's,Xavier,52,51,25,56,0,Larry Austin Jr. Defensive Rebound.
+St. John's,Xavier,52,51,26,5,0,Trevon Bluiett missed Layup.
+St. John's,Xavier,52,51,26,5,0,Kassoum Yakwe Block.
+St. John's,Xavier,52,51,26,7,0,J.P. Macura Offensive Rebound.
+St. John's,Xavier,52,54,26,18,1,Myles Davis made Three Point Jumper.
+St. John's,Xavier,52,54,26,34,0,Durand Johnson missed Layup.
+St. John's,Xavier,52,54,26,34,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,52,54,26,39,0,Trevon Bluiett Turnover.
+St. John's,Xavier,52,54,26,41,0,Christian Jones Steal.
+St. John's,Xavier,52,54,26,45,0,Durand Johnson Turnover.
+St. John's,Xavier,52,54,26,47,0,James Farr Steal.
+St. John's,Xavier,52,54,26,47,0,Foul on Durand Johnson.
+St. John's,Xavier,52,54,27,2,0,Myles Davis Turnover.
+St. John's,Xavier,52,54,27,3,0,Federico Mussini Steal.
+St. John's,Xavier,54,54,27,8,1,Ron Mvouika made Layup. Assisted by Federico Mussini.
+St. John's,Xavier,54,56,27,29,1,Kaiser Gates made Layup. Assisted by Larry Austin Jr..
+St. John's,Xavier,54,56,27,54,0,Ron Mvouika Turnover.
+St. John's,Xavier,54,56,27,54,0,Larry Austin Jr. Steal.
+St. John's,Xavier,54,56,27,55,0,Foul on Ron Mvouika.
+St. John's,Xavier,54,56,28,14,0,James Farr missed Layup.
+St. John's,Xavier,54,56,28,14,0,J.P. Macura Offensive Rebound.
+St. John's,Xavier,54,56,28,19,0,Kaiser Gates missed Three Point Jumper.
+St. John's,Xavier,54,56,28,19,0,J.P. Macura Offensive Rebound.
+St. John's,Xavier,54,59,28,28,1,J.P. Macura made Three Point Jumper. Assisted by Edmond Sumner.
+St. John's,Xavier,54,59,28,32,0,St. John's  Timeout
+St. John's,Xavier,54,59,28,48,0,Federico Mussini missed Three Point Jumper.
+St. John's,Xavier,54,59,28,48,0,Christian Jones Offensive Rebound.
+St. John's,Xavier,54,59,29,8,0,Kassoum Yakwe Turnover.
+St. John's,Xavier,54,59,29,10,0,James Farr Steal.
+St. John's,Xavier,54,61,29,14,1,Edmond Sumner made Dunk. Assisted by James Farr.
+St. John's,Xavier,54,61,29,28,0,Christian Jones missed Layup.
+St. John's,Xavier,54,61,29,28,0,Kaiser Gates Defensive Rebound.
+St. John's,Xavier,54,61,29,32,0,Foul on Federico Mussini.
+St. John's,Xavier,54,61,29,32,0,Official TV Timeout
+St. John's,Xavier,54,61,29,39,0,J.P. Macura Turnover.
+St. John's,Xavier,54,61,29,40,0,Kassoum Yakwe Steal.
+St. John's,Xavier,56,61,29,42,1,Kassoum Yakwe made Dunk.
+St. John's,Xavier,56,61,30,8,0,J.P. Macura missed Three Point Jumper.
+St. John's,Xavier,56,61,30,8,0,Kassoum Yakwe Defensive Rebound.
+St. John's,Xavier,59,61,30,22,1,Federico Mussini made Three Point Jumper. Assisted by Durand Johnson.
+St. John's,Xavier,59,61,30,33,0,Foul on Federico Mussini.
+St. John's,Xavier,59,62,30,33,1,Larry Austin Jr. made Free Throw.
+St. John's,Xavier,59,63,30,33,1,Larry Austin Jr. made Free Throw.
+St. John's,Xavier,61,63,30,55,1,Durand Johnson made Jumper.
+St. John's,Xavier,61,63,30,56,0,Foul on James Farr.
+St. John's,Xavier,61,63,30,56,0,Durand Johnson missed Free Throw.
+St. John's,Xavier,61,63,30,56,0,Kassoum Yakwe Offensive Rebound.
+St. John's,Xavier,61,63,31,0,0,Federico Mussini missed Three Point Jumper.
+St. John's,Xavier,61,63,31,0,0,James Farr Defensive Rebound.
+St. John's,Xavier,61,63,31,5,0,Foul on Christian Jones.
+St. John's,Xavier,61,64,31,5,1,James Farr made Free Throw.
+St. John's,Xavier,61,65,31,5,1,James Farr made Free Throw.
+St. John's,Xavier,61,65,31,26,0,Durand Johnson missed Jumper.
+St. John's,Xavier,61,65,31,26,0,Edmond Sumner Defensive Rebound.
+St. John's,Xavier,61,65,31,37,0,Edmond Sumner Turnover.
+St. John's,Xavier,61,65,31,38,0,Federico Mussini Steal.
+St. John's,Xavier,61,65,31,41,0,Federico Mussini Turnover.
+St. John's,Xavier,61,65,31,42,0,Edmond Sumner Steal.
+St. John's,Xavier,61,67,31,44,1,Edmond Sumner made Dunk.
+St. John's,Xavier,61,67,32,3,0,Durand Johnson missed Layup.
+St. John's,Xavier,61,67,32,3,0,Jalen Reynolds Block.
+St. John's,Xavier,61,67,32,5,0,Jalen Reynolds Defensive Rebound.
+St. John's,Xavier,61,67,32,15,0,Foul on Felix Balamou.
+St. John's,Xavier,61,67,32,15,0,Official TV Timeout
+St. John's,Xavier,61,67,32,15,0,Myles Davis missed Free Throw.
+St. John's,Xavier,61,67,32,15,0,Xavier Deadball Team Rebound.
+St. John's,Xavier,61,68,32,15,1,Myles Davis made Free Throw.
+St. John's,Xavier,63,68,32,35,1,Malik Ellison made Jumper.
+St. John's,Xavier,63,68,33,1,0,Trevon Bluiett missed Three Point Jumper.
+St. John's,Xavier,63,68,33,1,0,Malik Ellison Defensive Rebound.
+St. John's,Xavier,63,68,33,32,0,Kassoum Yakwe missed Jumper.
+St. John's,Xavier,63,68,33,32,0,Trevon Bluiett Defensive Rebound.
+St. John's,Xavier,63,70,33,42,1,Jalen Reynolds made Dunk. Assisted by Edmond Sumner.
+St. John's,Xavier,65,70,34,1,1,Kassoum Yakwe made Jumper.
+St. John's,Xavier,65,70,34,19,0,Foul on Kassoum Yakwe.
+St. John's,Xavier,65,70,34,19,0,Jalen Reynolds missed Free Throw.
+St. John's,Xavier,65,70,34,19,0,Xavier Deadball Team Rebound.
+St. John's,Xavier,65,70,34,19,0,Jalen Reynolds missed Free Throw.
+St. John's,Xavier,65,70,34,19,0,Ron Mvouika Defensive Rebound.
+St. John's,Xavier,65,70,34,30,0,Ron Mvouika missed Three Point Jumper.
+St. John's,Xavier,65,70,34,30,0,Jalen Reynolds Defensive Rebound.
+St. John's,Xavier,65,70,34,42,0,Edmond Sumner missed Jumper.
+St. John's,Xavier,65,70,34,42,0,Jalen Reynolds Offensive Rebound.
+St. John's,Xavier,65,72,34,45,1,Jalen Reynolds made Layup.
+St. John's,Xavier,65,72,34,57,0,Amar Alibegovic Turnover.
+St. John's,Xavier,65,72,34,57,0,Remy Abell Steal.
+St. John's,Xavier,65,74,35,5,1,Trevon Bluiett made Jumper.
+St. John's,Xavier,67,74,35,23,1,Felix Balamou made Layup.
+St. John's,Xavier,67,74,35,31,0,Foul on Kassoum Yakwe.
+St. John's,Xavier,67,74,35,31,0,Jalen Reynolds missed Free Throw.
+St. John's,Xavier,67,74,35,31,0,Xavier Deadball Team Rebound.
+St. John's,Xavier,67,74,35,31,0,Jalen Reynolds missed Free Throw.
+St. John's,Xavier,67,74,35,31,0,St. John's Defensive Rebound.
+St. John's,Xavier,67,74,35,50,0,Foul on Remy Abell.
+St. John's,Xavier,68,74,35,50,1,Durand Johnson made Free Throw.
+St. John's,Xavier,68,74,35,50,0,Durand Johnson missed Free Throw.
+St. John's,Xavier,68,74,35,50,0,Jalen Reynolds Defensive Rebound.
+St. John's,Xavier,68,77,36,15,1,Myles Davis made Three Point Jumper. Assisted by J.P. Macura.
+St. John's,Xavier,68,77,36,32,0,Foul on Jalen Reynolds.
+St. John's,Xavier,68,77,36,32,0,Official TV Timeout
+St. John's,Xavier,70,77,36,32,1,Kassoum Yakwe made Dunk. Assisted by Ron Mvouika.
+St. John's,Xavier,70,77,36,45,0,Foul on Kassoum Yakwe.
+St. John's,Xavier,70,78,36,45,1,Remy Abell made Free Throw.
+St. John's,Xavier,70,79,36,45,1,Remy Abell made Free Throw.
+St. John's,Xavier,73,79,36,59,1,Durand Johnson made Three Point Jumper. Assisted by Felix Balamou.
+St. John's,Xavier,73,79,37,16,0,Foul on Felix Balamou.
+St. John's,Xavier,73,79,37,16,0,Jalen Reynolds missed Free Throw.
+St. John's,Xavier,73,79,37,16,0,Xavier Deadball Team Rebound.
+St. John's,Xavier,73,80,37,16,1,Jalen Reynolds made Free Throw.
+St. John's,Xavier,73,80,37,28,0,Felix Balamou missed Jumper.
+St. John's,Xavier,73,80,37,28,0,Felix Balamou Offensive Rebound.
+St. John's,Xavier,75,80,37,31,1,Felix Balamou made Layup.
+St. John's,Xavier,75,80,37,51,0,Edmond Sumner missed Layup.
+St. John's,Xavier,75,80,37,51,0,Felix Balamou Defensive Rebound.
+St. John's,Xavier,75,80,37,57,0,Durand Johnson missed Layup.
+St. John's,Xavier,75,80,37,57,0,Kassoum Yakwe Offensive Rebound.
+St. John's,Xavier,75,80,37,59,0,Foul on Myles Davis.
+St. John's,Xavier,75,80,37,59,0,Kassoum Yakwe missed Free Throw.
+St. John's,Xavier,75,80,37,59,0,St. John's Deadball Team Rebound.
+St. John's,Xavier,75,80,37,59,0,Kassoum Yakwe missed Free Throw.
+St. John's,Xavier,75,80,37,59,0,Myles Davis Defensive Rebound.
+St. John's,Xavier,75,82,38,18,1,Jalen Reynolds made Dunk. Assisted by Trevon Bluiett.
+St. John's,Xavier,75,82,38,31,0,Felix Balamou Turnover.
+St. John's,Xavier,75,82,38,45,0,Foul on Amar Alibegovic.
+St. John's,Xavier,75,82,38,45,0,Jalen Reynolds missed Free Throw.
+St. John's,Xavier,75,82,38,45,0,Xavier Deadball Team Rebound.
+St. John's,Xavier,75,82,38,45,0,Jalen Reynolds missed Free Throw.
+St. John's,Xavier,75,82,38,45,0,Ron Mvouika Defensive Rebound.
+St. John's,Xavier,75,82,38,52,0,Foul on Jalen Reynolds.
+St. John's,Xavier,76,82,38,52,1,Felix Balamou made Free Throw.
+St. John's,Xavier,77,82,38,52,1,Felix Balamou made Free Throw.
+St. John's,Xavier,77,82,38,52,0,Xavier  Timeout
+St. John's,Xavier,77,82,39,5,0,Trevon Bluiett missed Jumper.
+St. John's,Xavier,77,82,39,5,0,Kassoum Yakwe Block.
+St. John's,Xavier,77,82,39,6,0,Xavier Offensive Rebound.
+St. John's,Xavier,77,84,39,14,1,Edmond Sumner made Jumper. Assisted by Myles Davis.
+St. John's,Xavier,80,84,39,26,1,Ron Mvouika made Three Point Jumper. Assisted by Felix Balamou.
+St. John's,Xavier,80,84,39,26,0,St. John's  Timeout
+St. John's,Xavier,80,84,39,35,0,Foul on Durand Johnson.
+St. John's,Xavier,80,85,39,35,1,Trevon Bluiett made Free Throw.
+St. John's,Xavier,80,86,39,35,1,Trevon Bluiett made Free Throw.
+St. John's,Xavier,80,86,39,40,0,Foul on Kaiser Gates.
+St. John's,Xavier,80,86,39,40,0,Felix Balamou missed Free Throw.
+St. John's,Xavier,80,86,39,40,0,St. John's Deadball Team Rebound.
+St. John's,Xavier,81,86,39,40,1,Felix Balamou made Free Throw.
+St. John's,Xavier,81,86,39,40,0,Xavier  Timeout
+St. John's,Xavier,81,86,39,43,0,Foul on Malik Ellison.
+St. John's,Xavier,81,87,39,43,1,J.P. Macura made Free Throw.
+St. John's,Xavier,81,88,39,43,1,J.P. Macura made Free Throw.
+St. John's,Xavier,83,88,39,49,1,Malik Ellison made Layup.
+St. John's,Xavier,83,88,39,50,0,Foul on Federico Mussini.
+St. John's,Xavier,83,89,39,50,1,Myles Davis made Free Throw.
+St. John's,Xavier,83,90,39,50,1,Myles Davis made Free Throw.
+St. John's,Xavier,83,90,39,55,0,Malik Ellison Turnover.
+St. John's,Xavier,83,90,39,55,0,Edmond Sumner Steal.
+St. John's,Xavier,83,90,40,0,0,End of Game

@@ -1,0 +1,349 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Oakland,Fort Wayne,0,0,0,11,0,Travis Bader Turnover.
+Oakland,Fort Wayne,0,0,0,13,0,Joe Reed Steal.
+Oakland,Fort Wayne,0,2,0,17,1,Frank Gaines made Layup.
+Oakland,Fort Wayne,2,2,0,35,1,Corey Petros made Layup.
+Oakland,Fort Wayne,2,2,1,4,0,Luis Jacobo missed Layup.
+Oakland,Fort Wayne,2,2,1,4,0,Michael Kibiloski Offensive Rebound.
+Oakland,Fort Wayne,2,4,1,11,1,Joe Reed made Layup.  Assisted by Luis Jacobo.
+Oakland,Fort Wayne,4,4,1,32,1,Dante Williams made Jumper.
+Oakland,Fort Wayne,4,7,1,56,1,Michael Kibiloski made Three Point Jumper.  Assisted by Luis Jacobo.
+Oakland,Fort Wayne,4,7,2,18,0,Ryan Bass missed Jumper.
+Oakland,Fort Wayne,4,7,2,18,0,Pierre Bland Defensive Rebound.
+Oakland,Fort Wayne,4,7,2,24,0,Frank Gaines missed Three Point Jumper.
+Oakland,Fort Wayne,4,7,2,24,0,Ryan Bass Defensive Rebound.
+Oakland,Fort Wayne,4,7,2,30,0,Foul on Michael Kibiloski
+Oakland,Fort Wayne,5,7,2,30,1,Drew Valentine made Free Throw.
+Oakland,Fort Wayne,5,7,2,30,0,Drew Valentine missed Free Throw.
+Oakland,Fort Wayne,5,7,2,30,0,Frank Gaines Defensive Rebound.
+Oakland,Fort Wayne,5,7,3,0,0,Frank Gaines missed Layup.
+Oakland,Fort Wayne,5,7,3,0,0,Oakland Defensive Rebound.
+Oakland,Fort Wayne,5,7,3,17,0,Ryan Bass Turnover.
+Oakland,Fort Wayne,5,9,3,30,1,Frank Gaines made Layup.  Assisted by Michael Kibiloski.
+Oakland,Fort Wayne,7,9,3,47,1,Drew Valentine made Jumper.
+Oakland,Fort Wayne,7,9,4,6,0,Pierre Bland missed Three Point Jumper.
+Oakland,Fort Wayne,7,9,4,6,0,Michael Kibiloski Offensive Rebound.
+Oakland,Fort Wayne,7,12,4,13,1,Frank Gaines made Three Point Jumper.  Assisted by Pierre Bland.
+Oakland,Fort Wayne,7,12,4,34,0,Dante Williams Turnover.
+Oakland,Fort Wayne,7,12,4,35,0,Michael Kibiloski Steal.
+Oakland,Fort Wayne,7,12,4,40,0,Luis Jacobo missed Three Point Jumper.
+Oakland,Fort Wayne,7,12,4,40,0,Travis Bader Defensive Rebound.
+Oakland,Fort Wayne,9,12,4,47,1,Travis Bader made Jumper.
+Oakland,Fort Wayne,9,12,5,11,0,Frank Gaines missed Jumper.
+Oakland,Fort Wayne,9,12,5,11,0,Travis Bader Defensive Rebound.
+Oakland,Fort Wayne,12,12,5,23,1,Travis Bader made Three Point Jumper.
+Oakland,Fort Wayne,12,12,5,37,0,Foul on Michael Kibiloski
+Oakland,Fort Wayne,12,12,5,37,0,Michael Kibiloski Turnover.
+Oakland,Fort Wayne,12,12,5,37,0,Official TV Timeout.
+Oakland,Fort Wayne,12,12,5,47,0,Travis Bader Turnover.
+Oakland,Fort Wayne,12,12,5,48,0,Frank Gaines Steal.
+Oakland,Fort Wayne,12,14,5,53,1,Frank Gaines made Dunk.
+Oakland,Fort Wayne,14,14,6,4,1,Duke Mondy made Jumper.
+Oakland,Fort Wayne,14,14,6,34,0,Joe Edwards Turnover.
+Oakland,Fort Wayne,14,14,6,36,0,Duke Mondy Steal.
+Oakland,Fort Wayne,16,14,6,45,1,Drew Valentine made Layup.  Assisted by Duke Mondy.
+Oakland,Fort Wayne,16,14,7,13,0,Mario Hines missed Jumper.
+Oakland,Fort Wayne,16,14,7,13,0,Duke Mondy Defensive Rebound.
+Oakland,Fort Wayne,16,14,7,22,0,Foul on Pierre Bland
+Oakland,Fort Wayne,17,14,7,22,1,Travis Bader made Free Throw.
+Oakland,Fort Wayne,18,14,7,22,1,Travis Bader made Free Throw.
+Oakland,Fort Wayne,19,14,7,22,1,Travis Bader made Free Throw.
+Oakland,Fort Wayne,19,17,7,35,1,Joe Edwards made Three Point Jumper.  Assisted by Frank Gaines.
+Oakland,Fort Wayne,21,17,7,44,1,Ryan Bass made Jumper.
+Oakland,Fort Wayne,21,17,7,55,0,Foul on Ryan Bass
+Oakland,Fort Wayne,21,17,8,15,0,Pierre Bland Turnover.
+Oakland,Fort Wayne,21,17,8,17,0,Duke Mondy Steal.
+Oakland,Fort Wayne,21,17,8,24,0,Ryan Bass Turnover.
+Oakland,Fort Wayne,21,17,8,25,0,Frank Gaines Steal.
+Oakland,Fort Wayne,21,17,8,25,0,Foul on Drew Valentine
+Oakland,Fort Wayne,21,17,8,25,0,Official TV Timeout.
+Oakland,Fort Wayne,21,17,8,49,0,Joe Reed missed Jumper.
+Oakland,Fort Wayne,21,17,8,49,0,Duke Mondy Defensive Rebound.
+Oakland,Fort Wayne,21,17,8,57,0,Foul on Pierre Bland
+Oakland,Fort Wayne,23,17,9,1,1,Drew Valentine made Layup.  Assisted by Duke Mondy.
+Oakland,Fort Wayne,23,19,9,23,1,Joe Reed made Layup.
+Oakland,Fort Wayne,23,19,9,41,0,Duke Mondy Turnover.
+Oakland,Fort Wayne,23,19,9,43,0,Isaiah McCray Steal.
+Oakland,Fort Wayne,23,19,9,55,0,Frank Gaines missed Layup.
+Oakland,Fort Wayne,23,19,9,55,0,Corey Petros Defensive Rebound.
+Oakland,Fort Wayne,23,19,10,4,0,Corey Petros Turnover.
+Oakland,Fort Wayne,23,19,10,30,0,Foul on Ryan Bass
+Oakland,Fort Wayne,23,19,10,36,0,Joe Edwards missed Jumper.
+Oakland,Fort Wayne,23,19,10,36,0,null
+Oakland,Fort Wayne,23,19,10,38,0,Foul on Duke Mondy
+Oakland,Fort Wayne,23,19,10,40,0,Frank Gaines missed Layup.
+Oakland,Fort Wayne,23,19,10,40,0,Drew Valentine Defensive Rebound.
+Oakland,Fort Wayne,23,19,10,59,0,Corey Petros Turnover.
+Oakland,Fort Wayne,23,21,11,9,1,Frank Gaines made Jumper.  Assisted by Joe Edwards.
+Oakland,Fort Wayne,23,21,11,25,0,Matt Poches missed Jumper.
+Oakland,Fort Wayne,23,21,11,25,0,Isaiah McCray Defensive Rebound.
+Oakland,Fort Wayne,23,23,11,33,1,Mario Hines made Layup.  Assisted by Isaiah McCray.
+Oakland,Fort Wayne,23,23,11,50,0,Matt Poches Turnover.
+Oakland,Fort Wayne,23,23,11,52,0,Frank Gaines Steal.
+Oakland,Fort Wayne,23,23,11,54,0,Foul on Matt Poches
+Oakland,Fort Wayne,23,24,11,54,1,Frank Gaines made Free Throw.
+Oakland,Fort Wayne,23,25,11,54,1,Frank Gaines made Free Throw.
+Oakland,Fort Wayne,25,25,12,6,1,Travis Bader made Jumper.
+Oakland,Fort Wayne,25,28,12,18,1,Luis Jacobo made Three Point Jumper.  Assisted by Joe Edwards.
+Oakland,Fort Wayne,25,28,12,38,0,Foul on Joe Reed
+Oakland,Fort Wayne,25,28,12,38,0,Official TV Timeout.
+Oakland,Fort Wayne,25,28,12,38,0,Corey Petros missed Free Throw.
+Oakland,Fort Wayne,25,28,12,38,0,null
+Oakland,Fort Wayne,25,28,12,38,0,Corey Petros missed Free Throw.
+Oakland,Fort Wayne,25,28,12,38,0,Luis Jacobo Defensive Rebound.
+Oakland,Fort Wayne,25,28,12,50,0,Frank Gaines missed Jumper.
+Oakland,Fort Wayne,25,28,12,50,0,Mario Hines Offensive Rebound.
+Oakland,Fort Wayne,25,28,12,53,0,Foul on Drew Valentine
+Oakland,Fort Wayne,25,31,13,0,1,Luis Jacobo made Three Point Jumper.  Assisted by Frank Gaines.
+Oakland,Fort Wayne,25,31,13,16,0,Corey Petros missed Jumper.
+Oakland,Fort Wayne,25,31,13,16,0,Luis Jacobo Defensive Rebound.
+Oakland,Fort Wayne,25,31,13,28,0,Frank Gaines missed Three Point Jumper.
+Oakland,Fort Wayne,25,31,13,28,0,IPFW Offensive Rebound.
+Oakland,Fort Wayne,25,34,13,41,1,Isaiah McCray made Three Point Jumper.  Assisted by Joe Reed.
+Oakland,Fort Wayne,25,34,14,0,0,Travis Bader missed Jumper.
+Oakland,Fort Wayne,25,34,14,0,0,Mario Hines Defensive Rebound.
+Oakland,Fort Wayne,25,34,14,8,0,Joe Edwards missed Layup.
+Oakland,Fort Wayne,25,34,14,8,0,Corey Petros Block.
+Oakland,Fort Wayne,25,34,14,11,0,Duke Mondy Defensive Rebound.
+Oakland,Fort Wayne,25,34,14,15,0,Travis Bader missed Three Point Jumper.
+Oakland,Fort Wayne,25,34,14,15,0,Drew Valentine Offensive Rebound.
+Oakland,Fort Wayne,25,34,14,17,0,Foul on Isaiah McCray
+Oakland,Fort Wayne,25,34,14,17,0,Drew Valentine missed Free Throw.
+Oakland,Fort Wayne,25,34,14,17,0,null
+Oakland,Fort Wayne,25,34,14,17,0,Drew Valentine missed Free Throw.
+Oakland,Fort Wayne,25,34,14,17,0,Joe Edwards Defensive Rebound.
+Oakland,Fort Wayne,25,36,14,50,1,Mario Hines made Layup.  Assisted by Joe Edwards.
+Oakland,Fort Wayne,25,36,15,6,0,Drew Valentine missed Three Point Jumper.
+Oakland,Fort Wayne,25,36,15,6,0,Isaiah McCray Defensive Rebound.
+Oakland,Fort Wayne,25,36,15,10,0,Isaiah McCray Turnover.
+Oakland,Fort Wayne,25,36,15,12,0,Duke Mondy Steal.
+Oakland,Fort Wayne,25,36,15,14,0,Duke Mondy Turnover.
+Oakland,Fort Wayne,25,36,15,16,0,Joe Reed Steal.
+Oakland,Fort Wayne,25,36,15,20,0,Joe Edwards missed Three Point Jumper.
+Oakland,Fort Wayne,25,36,15,20,0,Drew Valentine Defensive Rebound.
+Oakland,Fort Wayne,28,36,15,33,1,Dante Williams made Three Point Jumper.  Assisted by Corey Petros.
+Oakland,Fort Wayne,28,36,15,53,0,Mario Hines missed Layup.
+Oakland,Fort Wayne,28,36,15,53,0,Mario Hines Offensive Rebound.
+Oakland,Fort Wayne,28,36,15,57,0,Mario Hines missed Layup.
+Oakland,Fort Wayne,28,36,15,57,0,Luis Jacobo Offensive Rebound.
+Oakland,Fort Wayne,28,36,16,1,0,Luis Jacobo missed Three Point Jumper.
+Oakland,Fort Wayne,28,36,16,1,0,Corey Petros Defensive Rebound.
+Oakland,Fort Wayne,28,36,16,13,0,Duke Mondy missed Jumper.
+Oakland,Fort Wayne,28,36,16,13,0,Joe Reed Defensive Rebound.
+Oakland,Fort Wayne,28,36,16,34,0,Frank Gaines Turnover.
+Oakland,Fort Wayne,28,36,16,36,0,Travis Bader Steal.
+Oakland,Fort Wayne,28,36,16,45,0,Corey Petros missed Jumper.
+Oakland,Fort Wayne,28,36,16,45,0,Isaiah McCray Defensive Rebound.
+Oakland,Fort Wayne,28,36,17,4,0,Foul on Joe Reed
+Oakland,Fort Wayne,28,36,17,4,0,Joe Reed Turnover.
+Oakland,Fort Wayne,28,36,17,4,0,Official TV Timeout.
+Oakland,Fort Wayne,28,36,17,37,0,Ryan Bass missed Layup.
+Oakland,Fort Wayne,28,36,17,37,0,Isaiah McCray Block.
+Oakland,Fort Wayne,28,36,17,37,0,Oakland Offensive Rebound.
+Oakland,Fort Wayne,28,36,17,38,0,Travis Bader missed Three Point Jumper.
+Oakland,Fort Wayne,28,36,17,38,0,null
+Oakland,Fort Wayne,28,36,17,57,0,Mario Hines missed Layup.
+Oakland,Fort Wayne,28,36,17,57,0,Matt Poches Defensive Rebound.
+Oakland,Fort Wayne,30,36,18,13,1,Corey Petros made Layup.
+Oakland,Fort Wayne,30,36,18,39,0,Frank Gaines missed Three Point Jumper.
+Oakland,Fort Wayne,30,36,18,39,0,Corey Petros Defensive Rebound.
+Oakland,Fort Wayne,33,36,19,3,1,Dante Williams made Three Point Jumper.  Assisted by Ryan Bass.
+Oakland,Fort Wayne,33,36,19,19,0,IPFW Full Timeout.
+Oakland,Fort Wayne,33,36,19,26,0,Luis Jacobo missed Three Point Jumper.
+Oakland,Fort Wayne,33,36,19,26,0,Dante Williams Defensive Rebound.
+Oakland,Fort Wayne,33,36,19,32,0,Oakland Full Timeout.
+Oakland,Fort Wayne,33,36,20,0,0,Duke Mondy missed Three Point Jumper.
+Oakland,Fort Wayne,33,36,20,0,0,null
+Oakland,Fort Wayne,33,36,20,0,0,End of the 1st Half.
+Oakland,Fort Wayne,33,36,20,11,0,Michael Kibiloski missed Three Point Jumper.
+Oakland,Fort Wayne,33,36,20,11,0,Dante Williams Defensive Rebound.
+Oakland,Fort Wayne,33,36,20,33,0,Foul on Frank Gaines
+Oakland,Fort Wayne,34,36,20,33,1,Travis Bader made Free Throw.
+Oakland,Fort Wayne,35,36,20,33,1,Travis Bader made Free Throw.
+Oakland,Fort Wayne,35,36,21,6,0,Luis Jacobo missed Three Point Jumper.
+Oakland,Fort Wayne,35,36,21,6,0,Corey Petros Defensive Rebound.
+Oakland,Fort Wayne,35,36,21,16,0,Travis Bader missed Three Point Jumper.
+Oakland,Fort Wayne,35,36,21,16,0,Luis Jacobo Defensive Rebound.
+Oakland,Fort Wayne,35,38,21,30,1,Joe Reed made Layup.  Assisted by Pierre Bland.
+Oakland,Fort Wayne,37,38,21,51,1,Corey Petros made Jumper.
+Oakland,Fort Wayne,37,40,22,22,1,Joe Reed made Layup.  Assisted by Pierre Bland.
+Oakland,Fort Wayne,37,40,22,34,0,Ryan Bass missed Jumper.
+Oakland,Fort Wayne,37,40,22,34,0,Ryan Bass Offensive Rebound.
+Oakland,Fort Wayne,39,40,22,38,1,Ryan Bass made Layup.
+Oakland,Fort Wayne,39,42,23,6,1,Luis Jacobo made Layup.
+Oakland,Fort Wayne,39,42,23,11,0,Oakland Full Timeout.
+Oakland,Fort Wayne,39,42,23,21,0,Ryan Bass missed Three Point Jumper.
+Oakland,Fort Wayne,39,42,23,21,0,Travis Bader Offensive Rebound.
+Oakland,Fort Wayne,39,42,23,27,0,Travis Bader Turnover.
+Oakland,Fort Wayne,39,42,23,29,0,Pierre Bland Steal.
+Oakland,Fort Wayne,39,42,23,31,0,Pierre Bland missed Layup.
+Oakland,Fort Wayne,39,42,23,31,0,Luis Jacobo Offensive Rebound.
+Oakland,Fort Wayne,39,42,23,31,0,Luis Jacobo Turnover.
+Oakland,Fort Wayne,39,42,23,54,0,Ryan Bass missed Layup.
+Oakland,Fort Wayne,39,42,23,54,0,Mario Hines Defensive Rebound.
+Oakland,Fort Wayne,39,42,23,58,0,Foul on Dante Williams
+Oakland,Fort Wayne,39,44,24,13,1,Mario Hines made Layup.  Assisted by Pierre Bland.
+Oakland,Fort Wayne,39,44,24,13,0,Foul on Travis Bader
+Oakland,Fort Wayne,39,44,24,13,0,Official TV Timeout.
+Oakland,Fort Wayne,39,45,24,13,1,Mario Hines made Free Throw.
+Oakland,Fort Wayne,41,45,24,25,1,Corey Petros made Layup.  Assisted by Duke Mondy.
+Oakland,Fort Wayne,41,45,24,44,0,Frank Gaines missed Three Point Jumper.
+Oakland,Fort Wayne,41,45,24,44,0,Travis Bader Defensive Rebound.
+Oakland,Fort Wayne,43,45,24,54,1,Drew Valentine made Layup.
+Oakland,Fort Wayne,43,45,24,54,0,Foul on Luis Jacobo
+Oakland,Fort Wayne,43,45,24,54,0,Drew Valentine missed Free Throw.
+Oakland,Fort Wayne,43,45,24,54,0,Frank Gaines Defensive Rebound.
+Oakland,Fort Wayne,43,45,25,14,0,Luis Jacobo Turnover.
+Oakland,Fort Wayne,43,45,25,29,0,Foul on Mario Hines
+Oakland,Fort Wayne,44,45,25,29,1,Corey Petros made Free Throw.
+Oakland,Fort Wayne,44,45,25,29,0,Corey Petros missed Free Throw.
+Oakland,Fort Wayne,44,45,25,29,0,Frank Gaines Defensive Rebound.
+Oakland,Fort Wayne,44,47,26,4,1,Joe Reed made Layup.
+Oakland,Fort Wayne,44,47,26,24,0,Corey Petros missed Jumper.
+Oakland,Fort Wayne,44,47,26,24,0,Drew Valentine Offensive Rebound.
+Oakland,Fort Wayne,44,47,26,25,0,Foul on Isaiah McCray
+Oakland,Fort Wayne,45,47,26,25,1,Drew Valentine made Free Throw.
+Oakland,Fort Wayne,46,47,26,25,1,Drew Valentine made Free Throw.
+Oakland,Fort Wayne,46,47,26,41,0,Joe Reed missed Layup.
+Oakland,Fort Wayne,46,47,26,41,0,Drew Valentine Defensive Rebound.
+Oakland,Fort Wayne,46,47,26,50,0,Travis Bader missed Three Point Jumper.
+Oakland,Fort Wayne,46,47,26,50,0,Joe Edwards Defensive Rebound.
+Oakland,Fort Wayne,46,47,26,56,0,Foul on Duke Mondy
+Oakland,Fort Wayne,46,49,27,11,1,Joe Reed made Layup.  Assisted by Isaiah McCray.
+Oakland,Fort Wayne,46,49,27,11,0,Foul on Corey Petros
+Oakland,Fort Wayne,46,50,27,11,1,Joe Reed made Free Throw.
+Oakland,Fort Wayne,46,50,27,25,0,Foul on Corey Petros
+Oakland,Fort Wayne,46,50,27,25,0,Foul on Joe Reed
+Oakland,Fort Wayne,46,50,27,28,0,Foul on Michael Kibiloski
+Oakland,Fort Wayne,46,50,27,28,0,Drew Valentine missed Free Throw.
+Oakland,Fort Wayne,46,50,27,28,0,null
+Oakland,Fort Wayne,47,50,27,28,1,Drew Valentine made Free Throw.
+Oakland,Fort Wayne,47,53,27,49,1,Joe Edwards made Three Point Jumper.  Assisted by Luis Jacobo.
+Oakland,Fort Wayne,49,53,28,2,1,Ryan Bass made Layup.
+Oakland,Fort Wayne,49,55,28,20,1,Joe Edwards made Layup.
+Oakland,Fort Wayne,49,55,28,37,0,Ryan Bass Turnover.
+Oakland,Fort Wayne,49,55,28,40,0,Mario Hines Steal.
+Oakland,Fort Wayne,49,55,28,43,0,Frank Gaines missed Jumper.
+Oakland,Fort Wayne,49,55,28,43,0,IPFW Offensive Rebound.
+Oakland,Fort Wayne,49,55,28,43,0,Official TV Timeout.
+Oakland,Fort Wayne,49,55,29,9,0,Luis Jacobo Turnover.
+Oakland,Fort Wayne,49,55,29,10,0,Ryan Bass Steal.
+Oakland,Fort Wayne,49,55,29,17,0,Drew Valentine missed Layup.
+Oakland,Fort Wayne,49,55,29,17,0,Mario Hines Defensive Rebound.
+Oakland,Fort Wayne,49,55,29,24,0,Luis Jacobo missed Three Point Jumper.
+Oakland,Fort Wayne,49,55,29,24,0,Ryan Bass Defensive Rebound.
+Oakland,Fort Wayne,49,55,29,47,0,Foul on Mario Hines
+Oakland,Fort Wayne,49,55,29,48,0,Corey Petros missed Free Throw.
+Oakland,Fort Wayne,49,55,29,48,0,Frank Gaines Defensive Rebound.
+Oakland,Fort Wayne,49,55,30,4,0,Joe Edwards Turnover.
+Oakland,Fort Wayne,49,55,30,6,0,Travis Bader Steal.
+Oakland,Fort Wayne,51,55,30,12,1,Corey Petros made Layup.  Assisted by Duke Mondy.
+Oakland,Fort Wayne,51,55,30,29,0,Luis Jacobo Turnover.
+Oakland,Fort Wayne,51,55,30,31,0,Duke Mondy Steal.
+Oakland,Fort Wayne,54,55,30,33,1,Travis Bader made Three Point Jumper.  Assisted by Ryan Bass.
+Oakland,Fort Wayne,54,55,30,37,0,IPFW Full Timeout.
+Oakland,Fort Wayne,54,55,31,1,0,Luis Jacobo missed Three Point Jumper.
+Oakland,Fort Wayne,54,55,31,1,0,Joe Edwards Offensive Rebound.
+Oakland,Fort Wayne,54,55,31,3,0,Foul on Ryan Bass
+Oakland,Fort Wayne,54,57,31,6,1,Joe Edwards made Layup.
+Oakland,Fort Wayne,54,57,31,6,0,Foul on Corey Petros
+Oakland,Fort Wayne,54,58,31,6,1,Joe Edwards made Free Throw.
+Oakland,Fort Wayne,54,58,31,17,0,Foul on Frank Gaines
+Oakland,Fort Wayne,55,58,31,17,1,Travis Bader made Free Throw.
+Oakland,Fort Wayne,56,58,31,17,1,Travis Bader made Free Throw.
+Oakland,Fort Wayne,56,58,31,45,0,Mario Hines missed Layup.
+Oakland,Fort Wayne,56,58,31,45,0,Duke Mondy Defensive Rebound.
+Oakland,Fort Wayne,56,58,31,54,0,Foul on Mario Hines
+Oakland,Fort Wayne,56,58,31,54,0,Corey Petros missed Free Throw.
+Oakland,Fort Wayne,56,58,31,54,0,null
+Oakland,Fort Wayne,56,58,31,54,0,Corey Petros missed Free Throw.
+Oakland,Fort Wayne,56,58,31,54,0,null
+Oakland,Fort Wayne,56,58,32,3,0,Michael Kibiloski missed Three Point Jumper.
+Oakland,Fort Wayne,56,58,32,3,0,Ryan Bass Defensive Rebound.
+Oakland,Fort Wayne,56,58,32,37,0,Duke Mondy missed Jumper.
+Oakland,Fort Wayne,56,58,32,37,0,Michael Kibiloski Defensive Rebound.
+Oakland,Fort Wayne,56,58,32,51,0,Foul on Duke Mondy
+Oakland,Fort Wayne,56,58,32,51,0,Official TV Timeout.
+Oakland,Fort Wayne,56,59,32,51,1,Pierre Bland made Free Throw.
+Oakland,Fort Wayne,56,59,32,51,0,Pierre Bland missed Free Throw.
+Oakland,Fort Wayne,56,59,32,51,0,Pierre Bland Offensive Rebound.
+Oakland,Fort Wayne,56,61,32,54,1,Pierre Bland made Layup.
+Oakland,Fort Wayne,58,61,33,13,1,Corey Petros made Layup.  Assisted by Duke Mondy.
+Oakland,Fort Wayne,58,61,33,21,0,Frank Gaines missed Jumper.
+Oakland,Fort Wayne,58,61,33,21,0,null
+Oakland,Fort Wayne,58,61,33,24,0,Foul on Mario Hines
+Oakland,Fort Wayne,59,61,33,24,1,Corey Petros made Free Throw.
+Oakland,Fort Wayne,60,61,33,24,1,Corey Petros made Free Throw.
+Oakland,Fort Wayne,60,61,33,42,0,Foul on Corey Petros
+Oakland,Fort Wayne,60,61,33,42,0,Joe Reed missed Free Throw.
+Oakland,Fort Wayne,60,61,33,42,0,null
+Oakland,Fort Wayne,60,62,33,42,1,Joe Reed made Free Throw.
+Oakland,Fort Wayne,62,62,33,59,1,Travis Bader made Layup.
+Oakland,Fort Wayne,62,62,34,13,0,Joe Edwards missed Jumper.
+Oakland,Fort Wayne,62,62,34,13,0,Travis Bader Defensive Rebound.
+Oakland,Fort Wayne,62,62,34,23,0,Travis Bader missed Three Point Jumper.
+Oakland,Fort Wayne,62,62,34,23,0,Oakland Offensive Rebound.
+Oakland,Fort Wayne,64,62,34,30,1,Travis Bader made Layup.
+Oakland,Fort Wayne,64,62,34,51,0,Michael Kibiloski missed Three Point Jumper.
+Oakland,Fort Wayne,64,62,34,51,0,Duke Mondy Defensive Rebound.
+Oakland,Fort Wayne,64,62,35,23,0,Duke Mondy Turnover.
+Oakland,Fort Wayne,64,64,35,46,1,Luis Jacobo made Jumper.
+Oakland,Fort Wayne,64,64,36,4,0,Foul on Frank Gaines
+Oakland,Fort Wayne,64,64,36,4,0,Official TV Timeout.
+Oakland,Fort Wayne,64,64,36,4,0,Travis Bader missed Free Throw.
+Oakland,Fort Wayne,64,64,36,4,0,null
+Oakland,Fort Wayne,65,64,36,4,1,Travis Bader made Free Throw.
+Oakland,Fort Wayne,65,64,36,18,0,Foul on Duke Mondy
+Oakland,Fort Wayne,65,65,36,18,1,Frank Gaines made Free Throw.
+Oakland,Fort Wayne,65,65,36,18,0,Frank Gaines missed Free Throw.
+Oakland,Fort Wayne,65,65,36,18,0,Luis Jacobo Offensive Rebound.
+Oakland,Fort Wayne,65,67,36,28,1,Mario Hines made Layup.  Assisted by Luis Jacobo.
+Oakland,Fort Wayne,65,67,36,51,0,Ryan Bass missed Three Point Jumper.
+Oakland,Fort Wayne,65,67,36,51,0,Mario Hines Defensive Rebound.
+Oakland,Fort Wayne,65,70,37,15,1,Luis Jacobo made Three Point Jumper.  Assisted by Frank Gaines.
+Oakland,Fort Wayne,65,70,37,34,0,Travis Bader missed Three Point Jumper.
+Oakland,Fort Wayne,65,70,37,34,0,Drew Valentine Offensive Rebound.
+Oakland,Fort Wayne,65,70,37,38,0,Drew Valentine missed Layup.
+Oakland,Fort Wayne,65,70,37,38,0,Luis Jacobo Defensive Rebound.
+Oakland,Fort Wayne,65,70,37,46,0,Joe Edwards missed Layup.
+Oakland,Fort Wayne,65,70,37,46,0,Corey Petros Defensive Rebound.
+Oakland,Fort Wayne,65,70,38,11,0,Travis Bader missed Three Point Jumper.
+Oakland,Fort Wayne,65,70,38,11,0,Mario Hines Defensive Rebound.
+Oakland,Fort Wayne,65,70,38,15,0,IPFW Full Timeout.
+Oakland,Fort Wayne,65,70,38,40,0,Foul on Corey Petros
+Oakland,Fort Wayne,65,70,38,40,0,Mario Hines missed Free Throw.
+Oakland,Fort Wayne,65,70,38,40,0,null
+Oakland,Fort Wayne,65,71,38,40,1,Mario Hines made Free Throw.
+Oakland,Fort Wayne,65,71,38,54,0,Duke Mondy Turnover.
+Oakland,Fort Wayne,65,71,38,54,0,Foul on Matt Poches
+Oakland,Fort Wayne,65,71,38,54,0,Pierre Bland missed Free Throw.
+Oakland,Fort Wayne,65,71,38,54,0,null
+Oakland,Fort Wayne,65,72,38,54,1,Pierre Bland made Free Throw.
+Oakland,Fort Wayne,65,72,39,2,0,Travis Bader missed Three Point Jumper.
+Oakland,Fort Wayne,65,72,39,2,0,Ryan Bass Offensive Rebound.
+Oakland,Fort Wayne,65,72,39,7,0,Ryan Bass missed Three Point Jumper.
+Oakland,Fort Wayne,65,72,39,7,0,Luis Jacobo Defensive Rebound.
+Oakland,Fort Wayne,65,72,39,8,0,Foul on Dante Williams
+Oakland,Fort Wayne,65,73,39,8,1,Luis Jacobo made Free Throw.
+Oakland,Fort Wayne,65,74,39,8,1,Luis Jacobo made Free Throw.
+Oakland,Fort Wayne,65,74,39,18,0,Duke Mondy missed Three Point Jumper.
+Oakland,Fort Wayne,65,74,39,18,0,Frank Gaines Block.
+Oakland,Fort Wayne,65,74,39,21,0,Drew Valentine Offensive Rebound.
+Oakland,Fort Wayne,65,74,39,25,0,Drew Valentine missed Three Point Jumper.
+Oakland,Fort Wayne,65,74,39,25,0,Frank Gaines Defensive Rebound.
+Oakland,Fort Wayne,65,74,39,25,0,Foul on Dante Williams
+Oakland,Fort Wayne,65,75,39,25,1,Frank Gaines made Free Throw.
+Oakland,Fort Wayne,65,76,39,25,1,Frank Gaines made Free Throw.
+Oakland,Fort Wayne,68,76,39,29,1,Ryan Bass made Three Point Jumper.
+Oakland,Fort Wayne,68,76,39,30,0,Oakland Full Timeout.
+Oakland,Fort Wayne,68,76,39,31,0,Frank Gaines Turnover.
+Oakland,Fort Wayne,68,76,39,31,0,Foul on Frank Gaines
+Oakland,Fort Wayne,69,76,39,31,1,Travis Bader made Free Throw.
+Oakland,Fort Wayne,69,76,39,31,0,Travis Bader missed Free Throw.
+Oakland,Fort Wayne,69,76,39,31,0,Luis Jacobo Defensive Rebound.
+Oakland,Fort Wayne,69,76,39,49,0,Foul on Travis Bader
+Oakland,Fort Wayne,69,76,39,49,0,Frank Gaines missed Free Throw.
+Oakland,Fort Wayne,69,76,39,49,0,null
+Oakland,Fort Wayne,69,77,39,49,1,Frank Gaines made Free Throw.
+Oakland,Fort Wayne,71,77,39,55,1,Ryan Bass made Layup.
+Oakland,Fort Wayne,71,77,40,0,0,End Game

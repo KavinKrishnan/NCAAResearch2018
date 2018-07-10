@@ -1,0 +1,336 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Syracuse,St. John's,0,0,0,0,0,Jump Ball won by St. John's
+Syracuse,St. John's,0,0,0,18,0,D'Angelo Harrison missed Three Point Jumper.
+Syracuse,St. John's,0,0,0,18,0,DaJuan Coleman Defensive Rebound.
+Syracuse,St. John's,2,0,0,40,1,DaJuan Coleman made Layup. Assisted by Rakeem Christmas.
+Syracuse,St. John's,2,0,1,2,0,Chris Obekpa missed Layup.
+Syracuse,St. John's,2,0,1,2,0,DaJuan Coleman Block.
+Syracuse,St. John's,2,0,1,2,0,Tyler Ennis Defensive Rebound.
+Syracuse,St. John's,2,0,1,15,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,St. John's,2,0,1,15,0,Rysheed Jordan Defensive Rebound.
+Syracuse,St. John's,2,0,1,22,0,Rysheed Jordan missed Jumper.
+Syracuse,St. John's,2,0,1,22,0,Trevor Cooney Defensive Rebound.
+Syracuse,St. John's,2,0,1,27,0,Tyler Ennis missed Layup.
+Syracuse,St. John's,2,0,1,27,0,D'Angelo Harrison Defensive Rebound.
+Syracuse,St. John's,2,2,1,39,1,JaKarr Sampson made Layup.
+Syracuse,St. John's,2,2,1,49,0,C.J. Fair missed Jumper.
+Syracuse,St. John's,2,2,1,49,0,DaJuan Coleman Offensive Rebound.
+Syracuse,St. John's,4,2,1,54,1,DaJuan Coleman made Layup.
+Syracuse,St. John's,4,2,1,54,0,Foul on Chris Obekpa.
+Syracuse,St. John's,4,2,1,54,0,DaJuan Coleman missed Free Throw.
+Syracuse,St. John's,4,2,1,54,0,Orlando Sanchez Defensive Rebound.
+Syracuse,St. John's,4,4,2,14,1,JaKarr Sampson made Jumper. Assisted by Orlando Sanchez.
+Syracuse,St. John's,4,4,2,33,0,C.J. Fair missed Jumper.
+Syracuse,St. John's,4,4,2,33,0,Syracuse Offensive Rebound.
+Syracuse,St. John's,4,4,2,34,0,Foul on D'Angelo Harrison.
+Syracuse,St. John's,6,4,2,50,1,C.J. Fair made Layup.
+Syracuse,St. John's,6,6,3,3,1,JaKarr Sampson made Jumper.
+Syracuse,St. John's,6,6,3,30,0,C.J. Fair missed Jumper.
+Syracuse,St. John's,6,6,3,30,0,Phil Greene IV Defensive Rebound.
+Syracuse,St. John's,6,6,3,41,0,Phil Greene IV missed Jumper.
+Syracuse,St. John's,6,6,3,41,0,DaJuan Coleman Defensive Rebound.
+Syracuse,St. John's,8,6,3,50,1,C.J. Fair made Layup. Assisted by Trevor Cooney.
+Syracuse,St. John's,8,6,4,11,0,D'Angelo Harrison missed Three Point Jumper.
+Syracuse,St. John's,8,6,4,11,0,Jerami Grant Defensive Rebound.
+Syracuse,St. John's,10,6,4,21,1,Jerami Grant made Jumper.
+Syracuse,St. John's,10,6,4,21,0,Foul on JaKarr Sampson.
+Syracuse,St. John's,10,6,4,21,0,Official TV Timeout
+Syracuse,St. John's,10,6,4,21,0,Jerami Grant missed Free Throw.
+Syracuse,St. John's,10,6,4,21,0,Orlando Sanchez Defensive Rebound.
+Syracuse,St. John's,10,6,4,37,0,JaKarr Sampson Turnover.
+Syracuse,St. John's,10,6,4,37,0,Baye Keita Steal.
+Syracuse,St. John's,10,6,4,43,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,St. John's,10,6,4,43,0,Phil Greene IV Defensive Rebound.
+Syracuse,St. John's,10,6,4,52,0,Orlando Sanchez missed Three Point Jumper.
+Syracuse,St. John's,10,6,4,52,0,Trevor Cooney Defensive Rebound.
+Syracuse,St. John's,10,6,5,3,0,Michael Gbinije missed Layup.
+Syracuse,St. John's,10,6,5,3,0,Phil Greene IV Block.
+Syracuse,St. John's,10,6,5,3,0,Phil Greene IV Defensive Rebound.
+Syracuse,St. John's,10,6,5,7,0,Foul on Trevor Cooney.
+Syracuse,St. John's,10,7,5,7,1,D'Angelo Harrison made Free Throw.
+Syracuse,St. John's,10,7,5,7,0,D'Angelo Harrison missed Free Throw.
+Syracuse,St. John's,10,7,5,7,0,Jerami Grant Defensive Rebound.
+Syracuse,St. John's,10,7,5,29,0,Jerami Grant missed Jumper.
+Syracuse,St. John's,10,7,5,29,0,Orlando Sanchez Defensive Rebound.
+Syracuse,St. John's,10,9,5,36,1,Sir'Dominic Pointer made Layup.
+Syracuse,St. John's,12,9,5,53,1,C.J. Fair made Jumper.
+Syracuse,St. John's,12,9,5,53,0,Foul on C.J. Fair.
+Syracuse,St. John's,12,9,6,20,0,Orlando Sanchez Turnover.
+Syracuse,St. John's,14,9,6,56,1,Tyler Ennis made Jumper.
+Syracuse,St. John's,14,9,7,17,0,Phil Greene IV missed Three Point Jumper.
+Syracuse,St. John's,14,9,7,17,0,Orlando Sanchez Offensive Rebound.
+Syracuse,St. John's,14,9,7,17,0,Orlando Sanchez missed Two Point Tip Shot.
+Syracuse,St. John's,14,9,7,17,0,Tyler Ennis Defensive Rebound.
+Syracuse,St. John's,14,9,7,25,0,Tyler Ennis Turnover.
+Syracuse,St. John's,14,9,7,25,0,Sir'Dominic Pointer Steal.
+Syracuse,St. John's,14,11,7,31,1,Phil Greene IV made Layup. Assisted by Sir'Dominic Pointer.
+Syracuse,St. John's,14,11,7,52,0,Foul on Orlando Sanchez.
+Syracuse,St. John's,14,11,8,0,0,Jerami Grant Turnover.
+Syracuse,St. John's,14,11,8,0,0,Chris Obekpa Steal.
+Syracuse,St. John's,14,13,8,10,1,Orlando Sanchez made Layup. Assisted by Phil Greene IV.
+Syracuse,St. John's,17,13,8,42,1,Tyler Ennis made Three Point Jumper.
+Syracuse,St. John's,17,13,8,48,0,Foul on C.J. Fair.
+Syracuse,St. John's,17,13,8,48,0,Official TV Timeout
+Syracuse,St. John's,17,13,9,21,0,JaKarr Sampson missed Jumper.
+Syracuse,St. John's,17,13,9,21,0,Tyler Ennis Defensive Rebound.
+Syracuse,St. John's,17,13,9,42,0,DaJuan Coleman Turnover.
+Syracuse,St. John's,17,13,9,57,0,Orlando Sanchez missed Jumper.
+Syracuse,St. John's,17,13,9,57,0,Michael Gbinije Defensive Rebound.
+Syracuse,St. John's,17,13,10,20,0,Foul on Sir'Dominic Pointer.
+Syracuse,St. John's,18,13,10,20,1,Rakeem Christmas made Free Throw.
+Syracuse,St. John's,19,13,10,20,1,Rakeem Christmas made Free Throw.
+Syracuse,St. John's,19,13,10,39,0,Sir'Dominic Pointer missed Three Point Jumper.
+Syracuse,St. John's,19,13,10,39,0,Jerami Grant Defensive Rebound.
+Syracuse,St. John's,21,13,10,55,1,Rakeem Christmas made Jumper.
+Syracuse,St. John's,21,13,11,6,0,St. John's  Timeout
+Syracuse,St. John's,21,13,11,16,0,Jamal Branch missed Jumper.
+Syracuse,St. John's,21,13,11,16,0,D'Angelo Harrison Offensive Rebound.
+Syracuse,St. John's,21,13,11,19,0,Foul on DaJuan Coleman.
+Syracuse,St. John's,21,14,11,19,1,D'Angelo Harrison made Free Throw.
+Syracuse,St. John's,21,15,11,19,1,D'Angelo Harrison made Free Throw.
+Syracuse,St. John's,21,15,11,31,0,Foul on DaJuan Coleman.
+Syracuse,St. John's,21,15,11,31,0,DaJuan Coleman Turnover.
+Syracuse,St. John's,21,15,11,59,0,D'Angelo Harrison missed Three Point Jumper.
+Syracuse,St. John's,21,15,11,59,0,St. John's Offensive Rebound.
+Syracuse,St. John's,21,15,12,2,0,Jump Ball won by Syracuse
+Syracuse,St. John's,21,15,12,2,0,Official TV Timeout
+Syracuse,St. John's,21,15,12,18,0,Trevor Cooney missed Three Point Jumper.
+Syracuse,St. John's,21,15,12,18,0,Rysheed Jordan Defensive Rebound.
+Syracuse,St. John's,21,17,12,27,1,Rysheed Jordan made Jumper. Assisted by D'Angelo Harrison.
+Syracuse,St. John's,21,17,12,39,0,DaJuan Coleman Turnover.
+Syracuse,St. John's,21,17,12,39,0,Chris Obekpa Steal.
+Syracuse,St. John's,21,17,12,57,0,Foul on DaJuan Coleman.
+Syracuse,St. John's,21,17,13,18,0,Rysheed Jordan missed Three Point Jumper.
+Syracuse,St. John's,21,17,13,18,0,Baye Keita Defensive Rebound.
+Syracuse,St. John's,23,17,13,40,1,Tyler Ennis made Jumper.
+Syracuse,St. John's,23,17,14,9,0,JaKarr Sampson missed Jumper.
+Syracuse,St. John's,23,17,14,9,0,C.J. Fair Defensive Rebound.
+Syracuse,St. John's,25,17,14,24,1,Jerami Grant made Layup. Assisted by Tyler Ennis.
+Syracuse,St. John's,25,17,14,53,0,Phil Greene IV missed Jumper.
+Syracuse,St. John's,25,17,14,53,0,Phil Greene IV Offensive Rebound.
+Syracuse,St. John's,25,17,15,1,0,Sir'Dominic Pointer Turnover.
+Syracuse,St. John's,25,17,15,1,0,C.J. Fair Steal.
+Syracuse,St. John's,25,17,15,6,0,Foul on Sir'Dominic Pointer.
+Syracuse,St. John's,25,17,15,24,0,Foul on JaKarr Sampson.
+Syracuse,St. John's,25,17,15,24,0,Jerami Grant missed Free Throw.
+Syracuse,St. John's,25,17,15,24,0,D'Angelo Harrison Defensive Rebound.
+Syracuse,St. John's,25,19,15,35,1,D'Angelo Harrison made Jumper.
+Syracuse,St. John's,27,19,15,59,1,Tyler Ennis made Layup.
+Syracuse,St. John's,27,19,16,11,0,Sir'Dominic Pointer Turnover.
+Syracuse,St. John's,27,19,16,15,0,Official TV Timeout
+Syracuse,St. John's,29,19,16,25,1,C.J. Fair made Jumper.
+Syracuse,St. John's,29,19,16,48,0,D'Angelo Harrison missed Layup.
+Syracuse,St. John's,29,19,16,48,0,Orlando Sanchez Offensive Rebound.
+Syracuse,St. John's,29,21,16,48,1,Orlando Sanchez made Two Point Tip Shot.
+Syracuse,St. John's,29,21,17,3,0,Foul on Jamal Branch.
+Syracuse,St. John's,30,21,17,3,1,C.J. Fair made Free Throw.
+Syracuse,St. John's,31,21,17,3,1,C.J. Fair made Free Throw.
+Syracuse,St. John's,31,21,17,13,0,Phil Greene IV missed Three Point Jumper.
+Syracuse,St. John's,31,21,17,13,0,Jerami Grant Defensive Rebound.
+Syracuse,St. John's,33,21,17,33,1,Jerami Grant made Layup.
+Syracuse,St. John's,33,21,17,45,0,Orlando Sanchez Turnover.
+Syracuse,St. John's,33,21,17,45,0,Baye Keita Steal.
+Syracuse,St. John's,33,21,17,53,0,Tyler Ennis missed Layup.
+Syracuse,St. John's,33,21,17,53,0,C.J. Fair Offensive Rebound.
+Syracuse,St. John's,33,21,17,53,0,C.J. Fair missed Layup.
+Syracuse,St. John's,33,21,17,53,0,Phil Greene IV Defensive Rebound.
+Syracuse,St. John's,33,21,17,57,0,Foul on Baye Keita.
+Syracuse,St. John's,33,22,17,57,1,Jamal Branch made Free Throw.
+Syracuse,St. John's,33,23,17,57,1,Jamal Branch made Free Throw.
+Syracuse,St. John's,33,23,18,15,0,C.J. Fair missed Three Point Jumper.
+Syracuse,St. John's,33,23,18,15,0,D'Angelo Harrison Defensive Rebound.
+Syracuse,St. John's,33,23,18,33,0,Orlando Sanchez missed Three Point Jumper.
+Syracuse,St. John's,33,23,18,33,0,Trevor Cooney Defensive Rebound.
+Syracuse,St. John's,33,23,18,39,0,Foul on Sir'Dominic Pointer.
+Syracuse,St. John's,34,23,18,39,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,35,23,18,39,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,35,23,19,3,0,Foul on Baye Keita.
+Syracuse,St. John's,35,24,19,3,1,D'Angelo Harrison made Free Throw.
+Syracuse,St. John's,35,25,19,3,1,D'Angelo Harrison made Free Throw.
+Syracuse,St. John's,35,25,19,9,0,Foul on Orlando Sanchez.
+Syracuse,St. John's,36,25,19,9,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,37,25,19,9,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,37,25,19,25,0,Sir'Dominic Pointer Turnover.
+Syracuse,St. John's,37,25,19,39,0,Syracuse  Timeout
+Syracuse,St. John's,37,25,19,54,0,Foul on Jamal Branch.
+Syracuse,St. John's,38,25,19,54,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,39,25,19,54,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,39,27,19,58,1,Rysheed Jordan made Layup.
+Syracuse,St. John's,39,27,20,0,0,End of 1st half
+Syracuse,St. John's,39,27,20,0,0,Jump Ball won by St. John's
+Syracuse,St. John's,39,27,20,10,0,Chris Obekpa missed Layup.
+Syracuse,St. John's,39,27,20,10,0,Chris Obekpa Offensive Rebound.
+Syracuse,St. John's,39,27,20,20,0,D'Angelo Harrison missed Jumper.
+Syracuse,St. John's,39,27,20,20,0,C.J. Fair Defensive Rebound.
+Syracuse,St. John's,39,27,20,36,0,Foul on Chris Obekpa.
+Syracuse,St. John's,40,27,20,36,1,C.J. Fair made Free Throw.
+Syracuse,St. John's,40,27,20,36,0,C.J. Fair missed Free Throw.
+Syracuse,St. John's,40,27,20,36,0,Chris Obekpa Defensive Rebound.
+Syracuse,St. John's,40,27,20,45,0,Foul on C.J. Fair.
+Syracuse,St. John's,40,27,20,51,0,JaKarr Sampson missed Three Point Jumper.
+Syracuse,St. John's,40,27,20,51,0,DaJuan Coleman Defensive Rebound.
+Syracuse,St. John's,40,27,21,5,0,C.J. Fair missed Jumper.
+Syracuse,St. John's,40,27,21,5,0,JaKarr Sampson Defensive Rebound.
+Syracuse,St. John's,40,30,21,15,1,D'Angelo Harrison made Three Point Jumper. Assisted by JaKarr Sampson.
+Syracuse,St. John's,40,30,21,46,0,Jump Ball won by Syracuse
+Syracuse,St. John's,40,30,21,48,0,Foul on JaKarr Sampson.
+Syracuse,St. John's,42,30,22,10,1,Rakeem Christmas made Dunk. Assisted by Jerami Grant.
+Syracuse,St. John's,42,32,22,29,1,D'Angelo Harrison made Jumper.
+Syracuse,St. John's,42,32,22,45,0,Jerami Grant missed Layup.
+Syracuse,St. John's,42,32,22,45,0,Chris Obekpa Block.
+Syracuse,St. John's,42,32,22,45,0,C.J. Fair Offensive Rebound.
+Syracuse,St. John's,44,32,22,51,1,C.J. Fair made Layup.
+Syracuse,St. John's,44,32,23,11,0,Chris Obekpa missed Jumper.
+Syracuse,St. John's,44,32,23,11,0,D'Angelo Harrison Offensive Rebound.
+Syracuse,St. John's,44,34,23,11,1,D'Angelo Harrison made Two Point Tip Shot.
+Syracuse,St. John's,44,34,23,18,0,St. John's  Timeout
+Syracuse,St. John's,44,34,23,27,0,Tyler Ennis missed Jumper.
+Syracuse,St. John's,44,34,23,27,0,Chris Obekpa Block.
+Syracuse,St. John's,44,34,23,27,0,D'Angelo Harrison Defensive Rebound.
+Syracuse,St. John's,44,36,23,35,1,JaKarr Sampson made Dunk.
+Syracuse,St. John's,44,36,23,47,0,C.J. Fair Turnover.
+Syracuse,St. John's,44,36,24,6,0,Phil Greene IV missed Three Point Jumper.
+Syracuse,St. John's,44,36,24,6,0,Rakeem Christmas Defensive Rebound.
+Syracuse,St. John's,44,36,24,30,0,C.J. Fair Turnover.
+Syracuse,St. John's,44,36,24,36,0,Official TV Timeout
+Syracuse,St. John's,44,36,24,49,0,D'Angelo Harrison missed Layup.
+Syracuse,St. John's,44,36,24,49,0,Rakeem Christmas Defensive Rebound.
+Syracuse,St. John's,44,36,25,11,0,Tyler Ennis Turnover.
+Syracuse,St. John's,44,36,25,11,0,D'Angelo Harrison Steal.
+Syracuse,St. John's,44,38,25,16,1,JaKarr Sampson made Dunk. Assisted by Sir'Dominic Pointer.
+Syracuse,St. John's,44,38,25,34,0,Foul on Orlando Sanchez.
+Syracuse,St. John's,44,38,25,35,0,Foul on Sir'Dominic Pointer.
+Syracuse,St. John's,45,38,25,35,1,Jerami Grant made Free Throw.
+Syracuse,St. John's,46,38,25,35,1,Jerami Grant made Free Throw.
+Syracuse,St. John's,46,38,25,55,0,Foul on Rakeem Christmas.
+Syracuse,St. John's,46,39,25,55,1,Rysheed Jordan made Free Throw.
+Syracuse,St. John's,46,40,25,55,1,Rysheed Jordan made Free Throw.
+Syracuse,St. John's,46,40,26,22,0,Tyler Ennis missed Layup.
+Syracuse,St. John's,46,40,26,22,0,Sir'Dominic Pointer Defensive Rebound.
+Syracuse,St. John's,46,40,26,22,0,Jump Ball won by St. John's
+Syracuse,St. John's,46,42,26,36,1,JaKarr Sampson made Jumper.
+Syracuse,St. John's,48,42,27,8,1,Rakeem Christmas made Layup. Assisted by Jerami Grant.
+Syracuse,St. John's,48,42,27,23,0,Foul on Rakeem Christmas.
+Syracuse,St. John's,48,42,27,27,0,Foul on Trevor Cooney.
+Syracuse,St. John's,48,44,27,33,1,Sir'Dominic Pointer made Layup. Assisted by D'Angelo Harrison.
+Syracuse,St. John's,50,44,27,48,1,Jerami Grant made Layup. Assisted by C.J. Fair.
+Syracuse,St. John's,50,44,27,48,0,Foul on JaKarr Sampson.
+Syracuse,St. John's,51,44,27,48,1,Jerami Grant made Free Throw.
+Syracuse,St. John's,51,44,28,11,0,Foul on Rakeem Christmas.
+Syracuse,St. John's,51,44,28,11,0,Official TV Timeout
+Syracuse,St. John's,51,45,28,12,1,Rysheed Jordan made Free Throw.
+Syracuse,St. John's,51,46,28,12,1,Rysheed Jordan made Free Throw.
+Syracuse,St. John's,51,46,28,12,0,Syracuse  Timeout
+Syracuse,St. John's,51,46,28,12,0,Jerami Grant missed Jumper.
+Syracuse,St. John's,51,46,28,12,0,Sir'Dominic Pointer Defensive Rebound.
+Syracuse,St. John's,51,46,28,36,0,Rysheed Jordan missed Jumper.
+Syracuse,St. John's,51,46,28,36,0,Sir'Dominic Pointer Offensive Rebound.
+Syracuse,St. John's,51,48,28,48,1,Sir'Dominic Pointer made Jumper.
+Syracuse,St. John's,53,48,29,9,1,C.J. Fair made Layup.
+Syracuse,St. John's,53,50,29,29,1,D'Angelo Harrison made Jumper.
+Syracuse,St. John's,53,50,29,55,0,C.J. Fair missed Jumper.
+Syracuse,St. John's,53,50,29,55,0,Trevor Cooney Offensive Rebound.
+Syracuse,St. John's,53,50,30,14,0,C.J. Fair Turnover.
+Syracuse,St. John's,53,50,30,44,0,Foul on Jerami Grant.
+Syracuse,St. John's,53,50,30,44,0,Syracuse  Timeout
+Syracuse,St. John's,53,51,30,44,1,Rysheed Jordan made Free Throw.
+Syracuse,St. John's,53,52,30,44,1,Rysheed Jordan made Free Throw.
+Syracuse,St. John's,53,53,30,44,1,Rysheed Jordan made Free Throw.
+Syracuse,St. John's,53,53,31,11,0,Foul on Chris Obekpa.
+Syracuse,St. John's,53,53,31,11,0,Jerami Grant missed Free Throw.
+Syracuse,St. John's,53,53,31,11,0,Syracuse Deadball Team Rebound.
+Syracuse,St. John's,54,53,31,11,1,Jerami Grant made Free Throw.
+Syracuse,St. John's,54,55,31,35,1,D'Angelo Harrison made Jumper.
+Syracuse,St. John's,56,55,31,51,1,Jerami Grant made Layup. Assisted by C.J. Fair.
+Syracuse,St. John's,56,55,32,15,0,D'Angelo Harrison missed Three Point Jumper.
+Syracuse,St. John's,56,55,32,15,0,St. John's Offensive Rebound.
+Syracuse,St. John's,56,55,32,16,0,Foul on Jerami Grant.
+Syracuse,St. John's,56,55,32,16,0,Official TV Timeout
+Syracuse,St. John's,56,56,32,16,1,Chris Obekpa made Free Throw.
+Syracuse,St. John's,56,56,32,16,0,Chris Obekpa missed Free Throw.
+Syracuse,St. John's,56,56,32,18,0,Rakeem Christmas Defensive Rebound.
+Syracuse,St. John's,56,56,32,30,0,Tyler Ennis missed Layup.
+Syracuse,St. John's,56,56,32,30,0,Orlando Sanchez Defensive Rebound.
+Syracuse,St. John's,56,56,32,40,0,Foul on Rakeem Christmas.
+Syracuse,St. John's,56,57,32,40,1,Rysheed Jordan made Free Throw.
+Syracuse,St. John's,56,58,32,40,1,Rysheed Jordan made Free Throw.
+Syracuse,St. John's,58,58,33,7,1,C.J. Fair made Jumper. Assisted by Tyler Ennis.
+Syracuse,St. John's,58,58,33,34,0,D'Angelo Harrison missed Jumper.
+Syracuse,St. John's,58,58,33,34,0,Syracuse Defensive Rebound.
+Syracuse,St. John's,58,58,33,34,0,Jump Ball won by Syracuse
+Syracuse,St. John's,58,58,34,6,0,Tyler Ennis missed Three Point Jumper.
+Syracuse,St. John's,58,58,34,6,0,Rysheed Jordan Defensive Rebound.
+Syracuse,St. John's,58,60,34,12,1,Orlando Sanchez made Layup. Assisted by Rysheed Jordan.
+Syracuse,St. John's,58,60,34,12,0,Foul on Tyler Ennis.
+Syracuse,St. John's,58,60,34,12,0,Orlando Sanchez missed Free Throw.
+Syracuse,St. John's,58,60,34,12,0,Michael Gbinije Defensive Rebound.
+Syracuse,St. John's,58,60,34,28,0,C.J. Fair missed Three Point Jumper.
+Syracuse,St. John's,58,60,34,33,0,Michael Gbinije Offensive Rebound.
+Syracuse,St. John's,58,60,34,33,0,Michael Gbinije Turnover.
+Syracuse,St. John's,58,60,34,33,0,Jump Ball won by St. John's
+Syracuse,St. John's,58,60,34,55,0,D'Angelo Harrison missed Three Point Jumper.
+Syracuse,St. John's,58,60,34,55,0,Rakeem Christmas Defensive Rebound.
+Syracuse,St. John's,58,60,35,8,0,C.J. Fair missed Layup.
+Syracuse,St. John's,58,60,35,8,0,Chris Obekpa Block.
+Syracuse,St. John's,58,60,35,8,0,C.J. Fair Offensive Rebound.
+Syracuse,St. John's,58,60,35,20,0,Foul on Rysheed Jordan.
+Syracuse,St. John's,59,60,35,20,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,60,60,35,20,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,60,60,35,35,0,Rysheed Jordan missed Jumper.
+Syracuse,St. John's,60,60,35,35,0,Michael Gbinije Defensive Rebound.
+Syracuse,St. John's,62,60,35,49,1,Tyler Ennis made Layup.
+Syracuse,St. John's,62,60,36,1,0,St. John's  Timeout
+Syracuse,St. John's,62,60,36,25,0,Rysheed Jordan missed Three Point Jumper.
+Syracuse,St. John's,62,60,36,25,0,JaKarr Sampson Offensive Rebound.
+Syracuse,St. John's,62,60,36,41,0,D'Angelo Harrison missed Jumper.
+Syracuse,St. John's,62,60,36,41,0,JaKarr Sampson Offensive Rebound.
+Syracuse,St. John's,62,60,36,46,0,JaKarr Sampson missed Jumper.
+Syracuse,St. John's,62,60,36,46,0,D'Angelo Harrison Offensive Rebound.
+Syracuse,St. John's,62,60,36,46,0,D'Angelo Harrison missed Jumper.
+Syracuse,St. John's,62,60,36,46,0,JaKarr Sampson Offensive Rebound.
+Syracuse,St. John's,62,60,36,46,0,Foul on Jerami Grant.
+Syracuse,St. John's,62,60,36,46,0,JaKarr Sampson missed Free Throw.
+Syracuse,St. John's,62,60,36,46,0,St. John's Deadball Team Rebound.
+Syracuse,St. John's,62,60,36,46,0,JaKarr Sampson missed Free Throw.
+Syracuse,St. John's,62,60,36,46,0,Jerami Grant Defensive Rebound.
+Syracuse,St. John's,62,60,36,48,0,Official TV Timeout
+Syracuse,St. John's,64,60,37,0,1,C.J. Fair made Jumper.
+Syracuse,St. John's,64,60,37,29,0,D'Angelo Harrison missed Jumper.
+Syracuse,St. John's,64,60,37,29,0,Baye Keita Defensive Rebound.
+Syracuse,St. John's,64,60,37,43,0,Foul on C.J. Fair.
+Syracuse,St. John's,64,60,37,43,0,C.J. Fair Turnover.
+Syracuse,St. John's,64,60,37,59,0,Foul on Tyler Ennis.
+Syracuse,St. John's,64,60,37,59,0,D'Angelo Harrison missed Free Throw.
+Syracuse,St. John's,64,60,37,59,0,St. John's Deadball Team Rebound.
+Syracuse,St. John's,64,61,37,59,1,D'Angelo Harrison made Free Throw.
+Syracuse,St. John's,66,61,38,19,1,C.J. Fair made Jumper. Assisted by Tyler Ennis.
+Syracuse,St. John's,66,61,38,31,0,St. John's  Timeout
+Syracuse,St. John's,66,61,38,39,0,JaKarr Sampson Turnover.
+Syracuse,St. John's,66,61,38,39,0,Tyler Ennis Steal.
+Syracuse,St. John's,66,61,39,7,0,Foul on Rysheed Jordan.
+Syracuse,St. John's,66,61,39,7,0,Michael Gbinije missed Free Throw.
+Syracuse,St. John's,66,61,39,7,0,Orlando Sanchez Defensive Rebound.
+Syracuse,St. John's,66,61,39,16,0,Orlando Sanchez Turnover.
+Syracuse,St. John's,66,61,39,16,0,St. John's  Timeout
+Syracuse,St. John's,66,61,39,19,0,Foul on Sir'Dominic Pointer.
+Syracuse,St. John's,67,61,39,19,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,68,61,39,19,1,Tyler Ennis made Free Throw.
+Syracuse,St. John's,68,61,39,27,0,JaKarr Sampson missed Layup.
+Syracuse,St. John's,68,61,39,27,0,Jerami Grant Block.
+Syracuse,St. John's,68,61,39,27,0,C.J. Fair Defensive Rebound.
+Syracuse,St. John's,68,61,39,30,0,Foul on Chris Obekpa.
+Syracuse,St. John's,68,61,39,30,0,C.J. Fair missed Free Throw.
+Syracuse,St. John's,68,61,39,30,0,JaKarr Sampson Defensive Rebound.
+Syracuse,St. John's,68,61,39,35,0,Foul on Baye Keita.
+Syracuse,St. John's,68,62,39,35,1,D'Angelo Harrison made Free Throw.
+Syracuse,St. John's,68,63,39,35,1,D'Angelo Harrison made Free Throw.
+Syracuse,St. John's,68,63,39,37,0,Foul on D'Angelo Harrison.
+Syracuse,St. John's,68,63,39,37,0,C.J. Fair missed Free Throw.
+Syracuse,St. John's,68,63,39,37,0,Syracuse Deadball Team Rebound.
+Syracuse,St. John's,68,63,39,46,0,C.J. Fair missed Free Throw.
+Syracuse,St. John's,68,63,39,46,0,JaKarr Sampson Defensive Rebound.
+Syracuse,St. John's,68,63,39,53,0,D'Angelo Harrison missed Three Point Jumper.
+Syracuse,St. John's,68,63,39,53,0,Rysheed Jordan Offensive Rebound.
+Syracuse,St. John's,68,63,39,53,0,Rysheed Jordan missed Three Point Jumper.
+Syracuse,St. John's,68,63,39,53,0,Jerami Grant Defensive Rebound.
+Syracuse,St. John's,68,63,40,0,0,End of Game

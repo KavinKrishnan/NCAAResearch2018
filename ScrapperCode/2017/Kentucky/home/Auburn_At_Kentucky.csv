@@ -1,0 +1,348 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Auburn,Kentucky,0,0,0,0,0,Jump Ball won by Auburn
+Auburn,Kentucky,2,0,0,14,1,Austin Wiley made Layup. Assisted by Mustapha Heron.
+Auburn,Kentucky,2,0,0,37,0,De'Aaron Fox missed Three Point Jumper.
+Auburn,Kentucky,2,0,0,37,0,Edrice Adebayo Offensive Rebound.
+Auburn,Kentucky,2,3,0,52,1,Wenyen Gabriel made Three Point Jumper. Assisted by Malik Monk.
+Auburn,Kentucky,2,3,1,26,0,T.J. Dunans missed Layup.
+Auburn,Kentucky,2,3,1,26,0,Wenyen Gabriel Block.
+Auburn,Kentucky,2,3,1,26,0,Auburn Offensive Rebound.
+Auburn,Kentucky,5,3,1,37,1,TJ Lang made Three Point Jumper.
+Auburn,Kentucky,5,3,1,48,0,Edrice Adebayo missed Jumper.
+Auburn,Kentucky,5,3,1,48,0,Mustapha Heron Defensive Rebound.
+Auburn,Kentucky,5,3,1,56,0,Jared Harper Turnover.
+Auburn,Kentucky,5,6,2,3,1,Malik Monk made Three Point Jumper. Assisted by Isaiah Briscoe.
+Auburn,Kentucky,5,6,2,3,0,Foul on Edrice Adebayo.
+Auburn,Kentucky,7,6,2,9,1,Jared Harper made Layup.
+Auburn,Kentucky,7,8,2,17,1,De'Aaron Fox made Layup.
+Auburn,Kentucky,7,8,2,36,0,T.J. Dunans missed Layup.
+Auburn,Kentucky,7,8,2,36,0,Austin Wiley Offensive Rebound.
+Auburn,Kentucky,9,8,2,40,1,Austin Wiley made Dunk.
+Auburn,Kentucky,9,8,2,53,0,Foul on TJ Lang.
+Auburn,Kentucky,9,8,2,57,0,Foul on T.J. Dunans.
+Auburn,Kentucky,9,8,3,2,0,Wenyen Gabriel missed Jumper.
+Auburn,Kentucky,9,8,3,2,0,Wenyen Gabriel Offensive Rebound.
+Auburn,Kentucky,9,8,3,3,0,Wenyen Gabriel missed Two Point Tip Shot.
+Auburn,Kentucky,9,8,3,3,0,Wenyen Gabriel Offensive Rebound.
+Auburn,Kentucky,9,8,3,4,0,Wenyen Gabriel missed Jumper.
+Auburn,Kentucky,9,8,3,4,0,TJ Lang Block.
+Auburn,Kentucky,9,8,3,4,0,Wenyen Gabriel Offensive Rebound.
+Auburn,Kentucky,9,8,3,10,0,Isaiah Briscoe missed Layup.
+Auburn,Kentucky,9,8,3,10,0,De'Aaron Fox Offensive Rebound.
+Auburn,Kentucky,9,8,3,10,0,Malik Monk missed Three Point Jumper.
+Auburn,Kentucky,9,8,3,10,0,Isaiah Briscoe Offensive Rebound.
+Auburn,Kentucky,9,10,3,25,1,Malik Monk made Layup.
+Auburn,Kentucky,9,10,3,44,0,T.J. Dunans Turnover.
+Auburn,Kentucky,9,10,3,44,0,De'Aaron Fox Steal.
+Auburn,Kentucky,9,10,3,55,0,Isaiah Briscoe Turnover.
+Auburn,Kentucky,9,10,4,2,0,Foul on De'Aaron Fox.
+Auburn,Kentucky,9,10,4,2,0,Official TV Timeout
+Auburn,Kentucky,11,10,4,3,1,Mustapha Heron made Layup. Assisted by LaRon Smith.
+Auburn,Kentucky,11,10,4,18,0,Foul on Bryce Brown.
+Auburn,Kentucky,11,10,4,20,0,Edrice Adebayo Turnover.
+Auburn,Kentucky,11,10,4,44,0,Anfernee McLemore missed Jumper.
+Auburn,Kentucky,11,10,4,44,0,Anfernee McLemore Offensive Rebound.
+Auburn,Kentucky,13,10,4,51,1,Anfernee McLemore made Layup.
+Auburn,Kentucky,13,13,4,59,1,Wenyen Gabriel made Three Point Jumper. Assisted by Isaiah Briscoe.
+Auburn,Kentucky,13,13,5,18,0,Mustapha Heron missed Jumper.
+Auburn,Kentucky,13,13,5,18,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,13,13,5,22,0,Foul on Anfernee McLemore.
+Auburn,Kentucky,13,15,5,28,1,De'Aaron Fox made Layup.
+Auburn,Kentucky,13,15,5,39,0,Ronnie Johnson Turnover.
+Auburn,Kentucky,13,15,5,45,0,Foul on LaRon Smith.
+Auburn,Kentucky,13,18,5,51,1,Malik Monk made Three Point Jumper.
+Auburn,Kentucky,13,18,6,13,0,Ronnie Johnson missed Layup.
+Auburn,Kentucky,13,18,6,13,0,Wenyen Gabriel Block.
+Auburn,Kentucky,13,18,6,13,0,De'Aaron Fox Defensive Rebound.
+Auburn,Kentucky,13,18,6,27,0,De'Aaron Fox missed Layup.
+Auburn,Kentucky,13,18,6,27,0,Isaac Humphries Offensive Rebound.
+Auburn,Kentucky,13,20,6,32,1,Isaac Humphries made Dunk.
+Auburn,Kentucky,15,20,6,48,1,T.J. Dunans made Dunk.
+Auburn,Kentucky,15,22,7,1,1,Isaac Humphries made Dunk. Assisted by De'Aaron Fox.
+Auburn,Kentucky,18,22,7,20,1,TJ Lang made Three Point Jumper. Assisted by Ronnie Johnson.
+Auburn,Kentucky,18,24,7,39,1,De'Aaron Fox made Jumper.
+Auburn,Kentucky,18,24,7,46,0,Bryce Brown missed Jumper.
+Auburn,Kentucky,18,24,7,46,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,18,27,7,54,1,Isaiah Briscoe made Three Point Jumper. Assisted by Malik Monk.
+Auburn,Kentucky,18,27,8,2,0,Auburn  Timeout
+Auburn,Kentucky,21,27,8,19,1,Jared Harper made Three Point Jumper.
+Auburn,Kentucky,21,27,8,40,0,Isaac Humphries Turnover.
+Auburn,Kentucky,21,27,8,47,0,Foul on Mustapha Heron.
+Auburn,Kentucky,21,27,8,47,0,Mustapha Heron Turnover.
+Auburn,Kentucky,21,27,8,57,0,Foul on Derek Willis.
+Auburn,Kentucky,21,27,8,57,0,Derek Willis Turnover.
+Auburn,Kentucky,23,27,9,17,1,Austin Wiley made Jumper.
+Auburn,Kentucky,23,27,9,34,0,Foul on Austin Wiley.
+Auburn,Kentucky,23,27,9,34,0,Wenyen Gabriel missed Free Throw.
+Auburn,Kentucky,23,27,9,34,0,Kentucky Deadball Team Rebound.
+Auburn,Kentucky,23,27,9,34,0,Wenyen Gabriel missed Free Throw.
+Auburn,Kentucky,23,27,9,34,0,Auburn Defensive Rebound.
+Auburn,Kentucky,23,27,9,49,0,TJ Lang missed Three Point Jumper.
+Auburn,Kentucky,23,27,9,49,0,De'Aaron Fox Defensive Rebound.
+Auburn,Kentucky,23,27,9,57,0,Foul on TJ Lang.
+Auburn,Kentucky,23,27,9,57,0,Edrice Adebayo missed Free Throw.
+Auburn,Kentucky,23,27,9,57,0,Kentucky Deadball Team Rebound.
+Auburn,Kentucky,23,28,9,57,1,Edrice Adebayo made Free Throw.
+Auburn,Kentucky,23,28,10,15,0,Jared Harper missed Three Point Jumper.
+Auburn,Kentucky,23,28,10,15,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,23,28,10,21,0,Isaiah Briscoe Turnover.
+Auburn,Kentucky,23,28,10,42,0,Mustapha Heron Turnover.
+Auburn,Kentucky,23,28,10,42,0,Isaiah Briscoe Steal.
+Auburn,Kentucky,23,28,10,52,0,Foul on Jared Harper.
+Auburn,Kentucky,23,28,10,52,0,Isaiah Briscoe missed Free Throw.
+Auburn,Kentucky,23,28,10,52,0,Bryce Brown Defensive Rebound.
+Auburn,Kentucky,23,28,11,0,0,Foul on Isaiah Briscoe.
+Auburn,Kentucky,23,28,11,4,0,Foul on LaRon Smith.
+Auburn,Kentucky,23,28,11,4,0,LaRon Smith Turnover.
+Auburn,Kentucky,23,28,11,17,0,Isaiah Briscoe Turnover.
+Auburn,Kentucky,23,28,11,35,0,Bryce Brown missed Three Point Jumper.
+Auburn,Kentucky,23,28,11,35,0,Isaiah Briscoe Defensive Rebound.
+Auburn,Kentucky,23,31,11,44,1,De'Aaron Fox made Three Point Jumper. Assisted by Isaiah Briscoe.
+Auburn,Kentucky,23,31,11,50,0,T.J. Dunans Turnover.
+Auburn,Kentucky,23,31,11,50,0,Wenyen Gabriel Steal.
+Auburn,Kentucky,23,34,11,55,1,Mychal Mulder made Three Point Jumper. Assisted by De'Aaron Fox.
+Auburn,Kentucky,23,34,12,3,0,Auburn  Timeout
+Auburn,Kentucky,23,34,12,14,0,Jared Harper missed Jumper.
+Auburn,Kentucky,23,34,12,14,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,23,36,12,35,1,Edrice Adebayo made Layup. Assisted by Isaiah Briscoe.
+Auburn,Kentucky,23,36,12,50,0,Foul on Wenyen Gabriel.
+Auburn,Kentucky,25,36,13,4,1,Jared Harper made Layup.
+Auburn,Kentucky,25,36,13,18,0,De'Aaron Fox missed Layup.
+Auburn,Kentucky,25,36,13,18,0,Edrice Adebayo Offensive Rebound.
+Auburn,Kentucky,25,36,13,19,0,Foul on Mustapha Heron.
+Auburn,Kentucky,25,37,13,19,1,Edrice Adebayo made Free Throw.
+Auburn,Kentucky,25,37,13,19,0,Edrice Adebayo missed Free Throw.
+Auburn,Kentucky,25,37,13,19,0,TJ Lang Defensive Rebound.
+Auburn,Kentucky,25,37,13,37,0,Foul on Isaiah Briscoe.
+Auburn,Kentucky,25,37,13,37,0,Ronnie Johnson missed Free Throw.
+Auburn,Kentucky,25,37,13,37,0,Auburn Deadball Team Rebound.
+Auburn,Kentucky,26,37,13,37,1,Ronnie Johnson made Free Throw.
+Auburn,Kentucky,26,37,13,47,0,Mychal Mulder missed Three Point Jumper.
+Auburn,Kentucky,26,37,13,47,0,T.J. Dunans Defensive Rebound.
+Auburn,Kentucky,28,37,14,3,1,T.J. Dunans made Jumper.
+Auburn,Kentucky,28,37,14,19,0,Malik Monk missed Three Point Jumper.
+Auburn,Kentucky,28,37,14,19,0,Anfernee McLemore Defensive Rebound.
+Auburn,Kentucky,30,37,14,28,1,Ronnie Johnson made Jumper.
+Auburn,Kentucky,30,37,14,30,0,Kentucky  Timeout
+Auburn,Kentucky,30,39,14,41,1,Derek Willis made Jumper. Assisted by Dominique Hawkins.
+Auburn,Kentucky,30,39,15,6,0,T.J. Dunans missed Jumper.
+Auburn,Kentucky,30,39,15,6,0,Derek Willis Defensive Rebound.
+Auburn,Kentucky,30,39,15,30,0,Derek Willis missed Jumper.
+Auburn,Kentucky,30,39,15,30,0,Anfernee McLemore Defensive Rebound.
+Auburn,Kentucky,30,39,15,40,0,Bryce Brown missed Jumper.
+Auburn,Kentucky,30,39,15,40,0,Malik Monk Defensive Rebound.
+Auburn,Kentucky,30,39,15,48,0,Foul on Anfernee McLemore.
+Auburn,Kentucky,30,40,15,48,1,Edrice Adebayo made Free Throw.
+Auburn,Kentucky,30,41,15,48,1,Edrice Adebayo made Free Throw.
+Auburn,Kentucky,30,41,16,3,0,Austin Wiley missed Jumper.
+Auburn,Kentucky,30,41,16,3,0,Austin Wiley Offensive Rebound.
+Auburn,Kentucky,30,41,16,17,0,Ronnie Johnson missed Layup.
+Auburn,Kentucky,30,41,16,17,0,Kentucky Deadball Team Rebound.
+Auburn,Kentucky,30,41,16,20,0,Foul on Austin Wiley.
+Auburn,Kentucky,30,41,16,20,0,Official TV Timeout
+Auburn,Kentucky,30,41,16,20,0,Dominique Hawkins missed Free Throw.
+Auburn,Kentucky,30,41,16,20,0,Kentucky Deadball Team Rebound.
+Auburn,Kentucky,30,42,16,20,1,Dominique Hawkins made Free Throw.
+Auburn,Kentucky,30,42,16,23,0,Horace Spencer missed Jumper.
+Auburn,Kentucky,30,42,16,23,0,Derek Willis Defensive Rebound.
+Auburn,Kentucky,30,42,16,29,0,De'Aaron Fox Turnover.
+Auburn,Kentucky,32,42,16,33,1,T.J. Dunans made Jumper.
+Auburn,Kentucky,32,45,17,25,1,Dominique Hawkins made Three Point Jumper. Assisted by De'Aaron Fox.
+Auburn,Kentucky,32,45,17,52,0,T.J. Dunans missed Jumper.
+Auburn,Kentucky,32,45,17,52,0,Ronnie Johnson Offensive Rebound.
+Auburn,Kentucky,35,45,17,58,1,TJ Lang made Three Point Jumper. Assisted by Ronnie Johnson.
+Auburn,Kentucky,35,47,18,15,1,Malik Monk made Dunk. Assisted by De'Aaron Fox.
+Auburn,Kentucky,37,47,18,41,1,T.J. Dunans made Jumper.
+Auburn,Kentucky,37,47,18,54,0,Foul on TJ Lang.
+Auburn,Kentucky,37,48,18,54,1,Malik Monk made Free Throw.
+Auburn,Kentucky,37,49,18,54,1,Malik Monk made Free Throw.
+Auburn,Kentucky,37,49,19,5,0,T.J. Dunans missed Layup.
+Auburn,Kentucky,37,49,19,5,0,Horace Spencer Offensive Rebound.
+Auburn,Kentucky,39,49,19,9,1,Horace Spencer made Dunk.
+Auburn,Kentucky,39,49,19,21,0,Wenyen Gabriel missed Jumper.
+Auburn,Kentucky,39,49,19,21,0,Auburn Defensive Rebound.
+Auburn,Kentucky,39,49,19,44,0,Bryce Brown Turnover.
+Auburn,Kentucky,39,51,19,54,1,De'Aaron Fox made Layup.
+Auburn,Kentucky,39,51,20,0,0,End of 1st half
+Auburn,Kentucky,39,51,20,0,0,Jump Ball won by Auburn
+Auburn,Kentucky,39,51,20,19,0,Foul on Isaiah Briscoe.
+Auburn,Kentucky,39,51,20,19,0,Mustapha Heron missed Free Throw.
+Auburn,Kentucky,39,51,20,19,0,Auburn Deadball Team Rebound.
+Auburn,Kentucky,40,51,20,19,1,Mustapha Heron made Free Throw.
+Auburn,Kentucky,40,51,20,32,0,Edrice Adebayo Turnover.
+Auburn,Kentucky,40,51,20,41,0,Foul on Jared Harper.
+Auburn,Kentucky,40,51,20,41,0,Jared Harper Turnover.
+Auburn,Kentucky,40,51,20,53,0,Foul on Austin Wiley.
+Auburn,Kentucky,40,52,20,53,1,Edrice Adebayo made Free Throw.
+Auburn,Kentucky,40,53,20,53,1,Edrice Adebayo made Free Throw.
+Auburn,Kentucky,40,53,21,7,0,T.J. Dunans missed Jumper.
+Auburn,Kentucky,40,53,21,7,0,De'Aaron Fox Defensive Rebound.
+Auburn,Kentucky,40,53,21,17,0,Wenyen Gabriel missed Layup.
+Auburn,Kentucky,40,53,21,17,0,Wenyen Gabriel Offensive Rebound.
+Auburn,Kentucky,40,53,21,21,0,Foul on Mustapha Heron.
+Auburn,Kentucky,40,53,21,30,0,Dominique Hawkins Turnover.
+Auburn,Kentucky,40,53,21,30,0,T.J. Dunans Steal.
+Auburn,Kentucky,42,53,21,36,1,Mustapha Heron made Layup.
+Auburn,Kentucky,42,53,21,47,0,Wenyen Gabriel missed Three Point Jumper.
+Auburn,Kentucky,42,53,21,47,0,Austin Wiley Defensive Rebound.
+Auburn,Kentucky,42,53,22,18,0,Foul on De'Aaron Fox.
+Auburn,Kentucky,42,53,22,18,0,Mustapha Heron missed Free Throw.
+Auburn,Kentucky,42,53,22,18,0,Auburn Deadball Team Rebound.
+Auburn,Kentucky,42,53,22,18,0,Mustapha Heron missed Free Throw.
+Auburn,Kentucky,42,53,22,18,0,Edrice Adebayo Defensive Rebound.
+Auburn,Kentucky,42,55,22,29,1,De'Aaron Fox made Layup.
+Auburn,Kentucky,44,55,22,51,1,T.J. Dunans made Layup.
+Auburn,Kentucky,44,55,22,58,0,Foul on Austin Wiley.
+Auburn,Kentucky,44,55,23,8,0,De'Aaron Fox missed Jumper.
+Auburn,Kentucky,44,55,23,8,0,Kentucky Offensive Rebound.
+Auburn,Kentucky,44,57,23,19,1,Edrice Adebayo made Jumper. Assisted by Mychal Mulder.
+Auburn,Kentucky,44,57,23,31,0,Mustapha Heron missed Three Point Jumper.
+Auburn,Kentucky,44,57,23,31,0,TJ Lang Offensive Rebound.
+Auburn,Kentucky,44,57,23,39,0,Foul on Jared Harper.
+Auburn,Kentucky,44,57,23,39,0,Jared Harper Turnover.
+Auburn,Kentucky,44,57,23,49,0,Foul on Mychal Mulder.
+Auburn,Kentucky,44,57,23,49,0,Mychal Mulder Turnover.
+Auburn,Kentucky,44,57,24,2,0,Foul on T.J. Dunans.
+Auburn,Kentucky,44,57,24,2,0,T.J. Dunans Turnover.
+Auburn,Kentucky,44,57,24,2,0,Official TV Timeout
+Auburn,Kentucky,44,57,24,11,0,Foul on Anfernee McLemore.
+Auburn,Kentucky,44,57,24,11,0,Edrice Adebayo missed Free Throw.
+Auburn,Kentucky,44,57,24,11,0,Kentucky Deadball Team Rebound.
+Auburn,Kentucky,44,58,24,11,1,Edrice Adebayo made Free Throw.
+Auburn,Kentucky,44,58,24,25,0,Foul on De'Aaron Fox.
+Auburn,Kentucky,44,58,24,25,0,TJ Lang missed Free Throw.
+Auburn,Kentucky,44,58,24,25,0,Auburn Deadball Team Rebound.
+Auburn,Kentucky,44,58,24,25,0,TJ Lang missed Free Throw.
+Auburn,Kentucky,44,58,24,25,0,Edrice Adebayo Defensive Rebound.
+Auburn,Kentucky,44,58,24,41,0,Isaiah Briscoe missed Jumper.
+Auburn,Kentucky,44,58,24,41,0,Kentucky Offensive Rebound.
+Auburn,Kentucky,44,58,24,54,0,Mychal Mulder missed Three Point Jumper.
+Auburn,Kentucky,44,58,24,54,0,Kentucky Deadball Team Rebound.
+Auburn,Kentucky,44,58,24,56,0,Foul on LaRon Smith.
+Auburn,Kentucky,44,58,24,56,0,Edrice Adebayo missed Free Throw.
+Auburn,Kentucky,44,58,24,56,0,Horace Spencer Defensive Rebound.
+Auburn,Kentucky,44,58,24,57,0,Foul on Wenyen Gabriel.
+Auburn,Kentucky,44,58,25,9,0,Ronnie Johnson missed Jumper.
+Auburn,Kentucky,44,58,25,9,0,Isaiah Briscoe Defensive Rebound.
+Auburn,Kentucky,44,58,25,14,0,Malik Monk Turnover.
+Auburn,Kentucky,47,58,25,30,1,T.J. Dunans made Three Point Jumper.
+Auburn,Kentucky,47,58,25,38,0,Derek Willis missed Jumper.
+Auburn,Kentucky,47,58,25,38,0,T.J. Dunans Defensive Rebound.
+Auburn,Kentucky,49,58,25,47,1,T.J. Dunans made Layup.
+Auburn,Kentucky,49,60,25,58,1,Edrice Adebayo made Dunk. Assisted by Malik Monk.
+Auburn,Kentucky,52,60,26,18,1,T.J. Dunans made Three Point Jumper.
+Auburn,Kentucky,52,60,26,33,0,Foul on Ronnie Johnson.
+Auburn,Kentucky,52,60,26,33,0,Isaiah Briscoe missed Free Throw.
+Auburn,Kentucky,52,60,26,33,0,LaRon Smith Defensive Rebound.
+Auburn,Kentucky,54,60,26,52,1,T.J. Dunans made Jumper.
+Auburn,Kentucky,54,60,27,13,0,De'Aaron Fox missed Jumper.
+Auburn,Kentucky,54,60,27,13,0,LaRon Smith Defensive Rebound.
+Auburn,Kentucky,54,60,27,24,0,Foul on De'Aaron Fox.
+Auburn,Kentucky,56,60,27,27,1,Horace Spencer made Layup. Assisted by Bryce Brown.
+Auburn,Kentucky,56,63,27,50,1,Isaiah Briscoe made Three Point Jumper. Assisted by Malik Monk.
+Auburn,Kentucky,56,63,27,59,0,Foul on Dominique Hawkins.
+Auburn,Kentucky,56,63,27,59,0,Ronnie Johnson missed Free Throw.
+Auburn,Kentucky,56,63,27,59,0,Edrice Adebayo Defensive Rebound.
+Auburn,Kentucky,56,65,28,19,1,Isaiah Briscoe made Layup.
+Auburn,Kentucky,56,65,28,37,0,Mustapha Heron missed Layup.
+Auburn,Kentucky,56,65,28,37,0,Edrice Adebayo Block.
+Auburn,Kentucky,56,65,28,37,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,56,65,28,45,0,Foul on Horace Spencer.
+Auburn,Kentucky,56,65,28,45,0,Official TV Timeout
+Auburn,Kentucky,56,65,28,45,0,Isaiah Briscoe missed Free Throw.
+Auburn,Kentucky,56,65,28,45,0,Kentucky Deadball Team Rebound.
+Auburn,Kentucky,56,65,28,45,0,Isaiah Briscoe missed Free Throw.
+Auburn,Kentucky,56,65,28,45,0,Auburn Defensive Rebound.
+Auburn,Kentucky,56,65,28,59,0,Foul on Isaac Humphries.
+Auburn,Kentucky,57,65,28,59,1,Jared Harper made Free Throw.
+Auburn,Kentucky,57,65,28,59,0,Jared Harper missed Free Throw.
+Auburn,Kentucky,57,65,28,59,0,Edrice Adebayo Defensive Rebound.
+Auburn,Kentucky,57,68,29,19,1,Malik Monk made Three Point Jumper. Assisted by Isaiah Briscoe.
+Auburn,Kentucky,59,68,29,33,1,T.J. Dunans made Layup.
+Auburn,Kentucky,59,70,30,3,1,Isaiah Briscoe made Layup.
+Auburn,Kentucky,59,70,30,19,0,TJ Lang missed Jumper.
+Auburn,Kentucky,59,70,30,19,0,Edrice Adebayo Defensive Rebound.
+Auburn,Kentucky,59,70,30,30,0,Foul on Isaiah Briscoe.
+Auburn,Kentucky,59,70,30,30,0,Isaiah Briscoe Turnover.
+Auburn,Kentucky,59,70,30,37,0,Mustapha Heron missed Jumper.
+Auburn,Kentucky,59,70,30,37,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,59,70,31,8,0,Foul on Horace Spencer.
+Auburn,Kentucky,59,70,31,8,0,De'Aaron Fox missed Free Throw.
+Auburn,Kentucky,59,70,31,8,0,Kentucky Deadball Team Rebound.
+Auburn,Kentucky,59,70,31,8,0,De'Aaron Fox missed Free Throw.
+Auburn,Kentucky,59,70,31,8,0,Horace Spencer Defensive Rebound.
+Auburn,Kentucky,59,70,31,32,0,T.J. Dunans missed Jumper.
+Auburn,Kentucky,59,70,31,32,0,Malik Monk Block.
+Auburn,Kentucky,59,70,31,32,0,Auburn Offensive Rebound.
+Auburn,Kentucky,61,70,31,35,1,Mustapha Heron made Jumper.
+Auburn,Kentucky,61,70,31,46,0,Foul on Edrice Adebayo.
+Auburn,Kentucky,61,70,31,46,0,Edrice Adebayo Turnover.
+Auburn,Kentucky,64,70,31,58,1,Mustapha Heron made Three Point Jumper. Assisted by Jared Harper.
+Auburn,Kentucky,64,73,32,15,1,Malik Monk made Three Point Jumper. Assisted by De'Aaron Fox.
+Auburn,Kentucky,64,73,32,37,0,Foul on De'Aaron Fox.
+Auburn,Kentucky,64,73,32,37,0,Official TV Timeout
+Auburn,Kentucky,65,73,32,37,1,Mustapha Heron made Free Throw.
+Auburn,Kentucky,65,73,32,37,0,Mustapha Heron missed Free Throw.
+Auburn,Kentucky,65,73,32,37,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,65,73,32,53,0,Malik Monk missed Three Point Jumper.
+Auburn,Kentucky,65,73,32,53,0,Bryce Brown Block.
+Auburn,Kentucky,65,73,32,53,0,Mustapha Heron Defensive Rebound.
+Auburn,Kentucky,65,73,33,3,0,Mustapha Heron missed Layup.
+Auburn,Kentucky,65,73,33,3,0,Dominique Hawkins Defensive Rebound.
+Auburn,Kentucky,65,75,33,10,1,Dominique Hawkins made Dunk. Assisted by Malik Monk.
+Auburn,Kentucky,65,75,33,32,0,Jared Harper missed Three Point Jumper.
+Auburn,Kentucky,65,75,33,32,0,Horace Spencer Offensive Rebound.
+Auburn,Kentucky,65,75,33,39,0,Horace Spencer Turnover.
+Auburn,Kentucky,65,75,33,45,0,Foul on Bryce Brown.
+Auburn,Kentucky,65,76,33,45,1,Malik Monk made Free Throw.
+Auburn,Kentucky,65,77,33,45,1,Malik Monk made Free Throw.
+Auburn,Kentucky,68,77,34,2,1,Bryce Brown made Three Point Jumper. Assisted by T.J. Dunans.
+Auburn,Kentucky,68,77,34,14,0,Foul on Bryce Brown.
+Auburn,Kentucky,68,78,34,14,1,Mychal Mulder made Free Throw.
+Auburn,Kentucky,68,79,34,14,1,Mychal Mulder made Free Throw.
+Auburn,Kentucky,68,79,34,30,0,Foul on Austin Wiley.
+Auburn,Kentucky,68,79,34,30,0,Austin Wiley Turnover.
+Auburn,Kentucky,68,81,34,33,1,Malik Monk made Dunk. Assisted by Mychal Mulder.
+Auburn,Kentucky,68,81,34,50,0,Mustapha Heron missed Layup.
+Auburn,Kentucky,68,81,34,50,0,Edrice Adebayo Block.
+Auburn,Kentucky,68,81,34,50,0,Edrice Adebayo Defensive Rebound.
+Auburn,Kentucky,68,83,35,2,1,Mychal Mulder made Layup.
+Auburn,Kentucky,68,83,35,2,0,Foul on Horace Spencer.
+Auburn,Kentucky,68,84,35,6,1,Mychal Mulder made Free Throw.
+Auburn,Kentucky,68,84,35,19,0,Foul on Wenyen Gabriel.
+Auburn,Kentucky,68,84,35,19,0,T.J. Dunans missed Free Throw.
+Auburn,Kentucky,68,84,35,19,0,Auburn Deadball Team Rebound.
+Auburn,Kentucky,69,84,35,19,1,T.J. Dunans made Free Throw.
+Auburn,Kentucky,69,84,35,22,0,Foul on T.J. Dunans.
+Auburn,Kentucky,69,85,35,22,1,Mychal Mulder made Free Throw.
+Auburn,Kentucky,69,86,35,22,1,Mychal Mulder made Free Throw.
+Auburn,Kentucky,72,86,35,32,1,Bryce Brown made Three Point Jumper. Assisted by Ronnie Johnson.
+Auburn,Kentucky,72,88,35,56,1,Edrice Adebayo made Dunk. Assisted by Malik Monk.
+Auburn,Kentucky,72,88,36,16,0,Mustapha Heron missed Jumper.
+Auburn,Kentucky,72,88,36,16,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,72,88,36,36,0,Malik Monk missed Jumper.
+Auburn,Kentucky,72,88,36,36,0,Wenyen Gabriel Offensive Rebound.
+Auburn,Kentucky,72,88,36,40,0,Foul on T.J. Dunans.
+Auburn,Kentucky,72,88,36,40,0,Official TV Timeout
+Auburn,Kentucky,72,88,36,40,0,Wenyen Gabriel missed Free Throw.
+Auburn,Kentucky,72,88,36,40,0,Kentucky Deadball Team Rebound.
+Auburn,Kentucky,72,88,36,40,0,Wenyen Gabriel missed Free Throw.
+Auburn,Kentucky,72,88,36,40,0,Bryce Brown Defensive Rebound.
+Auburn,Kentucky,72,88,36,49,0,Jared Harper missed Layup.
+Auburn,Kentucky,72,88,36,49,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,72,90,37,20,1,Malik Monk made Jumper.
+Auburn,Kentucky,72,90,37,48,0,T.J. Dunans missed Jumper.
+Auburn,Kentucky,72,90,37,48,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,72,92,38,18,1,Mychal Mulder made Layup.
+Auburn,Kentucky,72,92,38,44,0,T.J. Dunans missed Layup.
+Auburn,Kentucky,72,92,38,44,0,Edrice Adebayo Block.
+Auburn,Kentucky,72,92,38,44,0,Wenyen Gabriel Defensive Rebound.
+Auburn,Kentucky,72,92,39,5,0,Malik Monk missed Jumper.
+Auburn,Kentucky,72,92,39,5,0,Bryce Brown Defensive Rebound.
+Auburn,Kentucky,72,92,39,13,0,T.J. Dunans missed Three Point Jumper.
+Auburn,Kentucky,72,92,39,13,0,Mychal Mulder Defensive Rebound.
+Auburn,Kentucky,72,92,39,42,0,Malik Monk missed Three Point Jumper.
+Auburn,Kentucky,72,92,39,42,0,Mustapha Heron Defensive Rebound.
+Auburn,Kentucky,72,92,39,51,0,Bryce Brown missed Three Point Jumper.
+Auburn,Kentucky,72,92,39,51,0,Kentucky Defensive Rebound.
+Auburn,Kentucky,72,92,40,0,0,End of Game

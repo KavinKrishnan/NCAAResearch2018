@@ -1,0 +1,309 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UIC,Miami (OH),0,0,0,26,0,Foul on Quinten Rollins
+UIC,Miami (OH),1,0,0,26,1,Hayden Humes made Free Throw.
+UIC,Miami (OH),1,0,0,26,0,Hayden Humes missed Free Throw.
+UIC,Miami (OH),1,0,0,26,0,null
+UIC,Miami (OH),1,2,0,48,1,Reggie Johnson made Jumper.
+UIC,Miami (OH),3,2,0,58,1,Marc Brown made Layup.
+UIC,Miami (OH),3,4,1,32,1,Will Felder made Jumper.  Assisted by Reggie Johnson.
+UIC,Miami (OH),3,4,1,42,0,Daniel Barnes Turnover.
+UIC,Miami (OH),3,4,1,43,0,Quinten Rollins Steal.
+UIC,Miami (OH),3,4,1,44,0,Allen Roberts missed Layup.
+UIC,Miami (OH),3,4,1,44,0,Gary Talton Block.
+UIC,Miami (OH),3,4,1,44,0,Miami (OH) Offensive Rebound.
+UIC,Miami (OH),3,4,2,1,0,Quinten Rollins missed Jumper.
+UIC,Miami (OH),3,4,2,1,0,Daniel Barnes Defensive Rebound.
+UIC,Miami (OH),3,4,2,11,0,Marc Brown Turnover.
+UIC,Miami (OH),3,6,2,31,1,Will Felder made Layup.  Assisted by Quinten Rollins.
+UIC,Miami (OH),5,6,2,43,1,Josh Crittle made Dunk.  Assisted by Marc Brown.
+UIC,Miami (OH),5,6,2,45,0,Technical Foul on Josh Crittle
+UIC,Miami (OH),5,7,2,45,1,Allen Roberts made Free Throw.
+UIC,Miami (OH),5,8,2,45,1,Allen Roberts made Free Throw.
+UIC,Miami (OH),5,8,2,45,0,Foul on Josh Crittle
+UIC,Miami (OH),5,8,3,20,0,Allen Roberts missed Jumper.
+UIC,Miami (OH),5,8,3,20,0,Marc Brown Block.
+UIC,Miami (OH),5,8,3,20,0,Will Felder Offensive Rebound.
+UIC,Miami (OH),5,8,3,20,0,Miami (OH) Turnover.
+UIC,Miami (OH),5,8,3,46,0,Josh Crittle Turnover.
+UIC,Miami (OH),5,8,3,47,0,Will Sullivan Steal.
+UIC,Miami (OH),5,8,3,51,0,Reggie Johnson Turnover.
+UIC,Miami (OH),5,8,3,53,0,Marc Brown Steal.
+UIC,Miami (OH),7,8,4,4,1,Hayden Humes made Layup.  Assisted by Josh Crittle.
+UIC,Miami (OH),7,11,4,20,1,Quinten Rollins made Three Point Jumper.  Assisted by Will Sullivan.
+UIC,Miami (OH),7,11,4,36,0,Marc Brown missed Jumper.
+UIC,Miami (OH),7,11,4,36,0,Marc Brown Offensive Rebound.
+UIC,Miami (OH),7,11,4,39,0,Marc Brown missed Jumper.
+UIC,Miami (OH),7,11,4,39,0,Will Felder Block.
+UIC,Miami (OH),7,11,4,40,0,Hayden Humes Offensive Rebound.
+UIC,Miami (OH),7,11,4,45,0,Official TV Timeout.
+UIC,Miami (OH),7,11,4,50,0,Hayden Humes missed Jumper.
+UIC,Miami (OH),7,11,4,50,0,Allen Roberts Defensive Rebound.
+UIC,Miami (OH),7,11,4,58,0,Allen Roberts missed Three Point Jumper.
+UIC,Miami (OH),7,11,4,58,0,Joey Miller Defensive Rebound.
+UIC,Miami (OH),9,11,5,12,1,Gary Talton made Jumper.
+UIC,Miami (OH),9,11,5,26,0,Will Felder missed Three Point Jumper.
+UIC,Miami (OH),9,11,5,26,0,Hayden Humes Defensive Rebound.
+UIC,Miami (OH),9,11,5,39,0,Hayden Humes missed Three Point Jumper.
+UIC,Miami (OH),9,11,5,39,0,Allen Roberts Defensive Rebound.
+UIC,Miami (OH),9,14,5,54,1,Reggie Johnson made Three Point Jumper.  Assisted by Quinten Rollins.
+UIC,Miami (OH),9,14,6,7,0,Daniel Barnes Turnover.
+UIC,Miami (OH),9,14,6,7,0,Quinten Rollins Steal.
+UIC,Miami (OH),9,14,6,19,0,Jon Harris missed Layup.
+UIC,Miami (OH),9,14,6,19,0,Daniel Barnes Defensive Rebound.
+UIC,Miami (OH),9,14,6,25,0,Gary Talton Turnover.
+UIC,Miami (OH),9,14,6,26,0,Quinten Rollins Steal.
+UIC,Miami (OH),9,16,6,29,1,Quinten Rollins made Layup.
+UIC,Miami (OH),9,16,6,42,0,Joey Miller Turnover.
+UIC,Miami (OH),9,16,6,42,0,Reggie Johnson Steal.
+UIC,Miami (OH),9,18,7,12,1,Quinten Rollins made Layup.
+UIC,Miami (OH),9,18,7,29,0,Daniel Barnes missed Jumper.
+UIC,Miami (OH),9,18,7,29,0,Reggie Johnson Defensive Rebound.
+UIC,Miami (OH),9,18,7,48,0,Reggie Johnson missed Three Point Jumper.
+UIC,Miami (OH),9,18,7,48,0,Jon Harris Offensive Rebound.
+UIC,Miami (OH),9,20,8,2,1,Geovonie McKnight made Jumper.
+UIC,Miami (OH),9,20,8,4,0,Illinois-Chicago Full Timeout.
+UIC,Miami (OH),11,20,8,13,1,Gary Talton made Layup.
+UIC,Miami (OH),11,20,8,49,0,Allen Roberts missed Three Point Jumper.
+UIC,Miami (OH),11,20,8,49,0,Gary Talton Defensive Rebound.
+UIC,Miami (OH),13,20,9,1,1,Gary Talton made Layup.
+UIC,Miami (OH),13,20,9,37,0,Vince Legarza Turnover.
+UIC,Miami (OH),13,20,9,37,0,Official TV Timeout.
+UIC,Miami (OH),13,20,9,51,0,Will Simonton Turnover.
+UIC,Miami (OH),13,20,9,51,0,Jon Harris Steal.
+UIC,Miami (OH),13,20,10,22,0,Foul on Marc Brown
+UIC,Miami (OH),13,20,10,22,0,Will Sullivan missed Free Throw.
+UIC,Miami (OH),13,20,10,22,0,null
+UIC,Miami (OH),13,20,10,22,0,Will Sullivan missed Free Throw.
+UIC,Miami (OH),13,20,10,22,0,Joey Miller Defensive Rebound.
+UIC,Miami (OH),13,20,10,28,0,Foul on Jon Harris
+UIC,Miami (OH),15,20,11,1,1,Josh Crittle made Jumper.  Assisted by Joey Miller.
+UIC,Miami (OH),15,22,11,29,1,Geovonie McKnight made Jumper.
+UIC,Miami (OH),15,22,11,37,0,Joey Miller missed Three Point Jumper.
+UIC,Miami (OH),15,22,11,37,0,Jon Harris Defensive Rebound.
+UIC,Miami (OH),15,22,11,43,0,Allen Roberts missed Layup.
+UIC,Miami (OH),15,22,11,43,0,Jon Harris Offensive Rebound.
+UIC,Miami (OH),15,24,11,47,1,Jon Harris made Tip Shot.
+UIC,Miami (OH),15,24,12,3,0,Gary Talton missed Jumper.
+UIC,Miami (OH),15,24,12,3,0,Miami (OH) Defensive Rebound.
+UIC,Miami (OH),15,24,12,5,0,Official TV Timeout.
+UIC,Miami (OH),15,24,12,18,0,Geovonie McKnight missed Three Point Jumper.
+UIC,Miami (OH),15,24,12,18,0,Joey Miller Defensive Rebound.
+UIC,Miami (OH),15,24,12,42,0,Marc Brown missed Three Point Jumper.
+UIC,Miami (OH),15,24,12,42,0,Allen Roberts Defensive Rebound.
+UIC,Miami (OH),15,24,12,58,0,Will Felder missed Jumper.
+UIC,Miami (OH),15,24,12,58,0,Will Simonton Defensive Rebound.
+UIC,Miami (OH),18,24,13,23,1,Daniel Barnes made Three Point Jumper.  Assisted by Josh Crittle.
+UIC,Miami (OH),18,27,13,52,1,Will Sullivan made Three Point Jumper.  Assisted by Allen Roberts.
+UIC,Miami (OH),18,27,14,9,0,Will Simonton Turnover.
+UIC,Miami (OH),18,27,14,10,0,Geovonie McKnight Steal.
+UIC,Miami (OH),18,27,14,13,0,Foul on Geovonie McKnight
+UIC,Miami (OH),18,27,14,13,0,Geovonie McKnight Turnover.
+UIC,Miami (OH),18,27,14,34,0,Gary Talton missed Jumper.
+UIC,Miami (OH),18,27,14,34,0,Reggie Johnson Defensive Rebound.
+UIC,Miami (OH),18,27,14,38,0,Foul on Hayden Humes
+UIC,Miami (OH),18,29,14,52,1,Will Felder made Jumper.  Assisted by Jon Harris.
+UIC,Miami (OH),18,29,14,57,0,Gary Talton Turnover.
+UIC,Miami (OH),18,29,14,58,0,Quinten Rollins Steal.
+UIC,Miami (OH),18,32,15,1,1,Reggie Johnson made Three Point Jumper.  Assisted by Quinten Rollins.
+UIC,Miami (OH),20,32,15,14,1,Daniel Barnes made Layup.
+UIC,Miami (OH),20,32,15,47,0,Allen Roberts missed Three Point Jumper.
+UIC,Miami (OH),20,32,15,47,0,Hayden Humes Defensive Rebound.
+UIC,Miami (OH),20,32,16,9,0,Daniel Barnes missed Three Point Jumper.
+UIC,Miami (OH),20,32,16,9,0,Illinois-Chicago Offensive Rebou.
+UIC,Miami (OH),20,32,16,11,0,Foul on Quinten Rollins
+UIC,Miami (OH),20,32,16,11,0,Official TV Timeout.
+UIC,Miami (OH),22,32,16,22,1,Marc Brown made Jumper.
+UIC,Miami (OH),22,32,16,51,0,Geovonie McKnight missed Jumper.
+UIC,Miami (OH),22,32,16,51,0,Marc Brown Defensive Rebound.
+UIC,Miami (OH),22,32,17,0,0,Daniel Barnes missed Three Point Jumper.
+UIC,Miami (OH),22,32,17,0,0,Geovonie McKnight Defensive Rebound.
+UIC,Miami (OH),22,32,17,10,0,Will Felder missed Jumper.
+UIC,Miami (OH),22,32,17,10,0,Daniel Barnes Defensive Rebound.
+UIC,Miami (OH),24,32,17,26,1,Josh Crittle made Jumper.  Assisted by Hayden Humes.
+UIC,Miami (OH),24,32,17,48,0,Allen Roberts missed Layup.
+UIC,Miami (OH),24,32,17,48,0,Reggie Johnson Offensive Rebound.
+UIC,Miami (OH),24,34,18,8,1,Drew McGhee made Jumper.  Assisted by Will Felder.
+UIC,Miami (OH),24,34,18,13,0,Miami (OH) Full Timeout.
+UIC,Miami (OH),24,34,18,18,0,Foul on Geovonie McKnight
+UIC,Miami (OH),26,34,18,28,1,Hayden Humes made Layup.  Assisted by Josh Crittle.
+UIC,Miami (OH),26,36,18,41,1,Drew McGhee made Jumper.  Assisted by Will Felder.
+UIC,Miami (OH),26,36,18,52,0,Foul on Daniel Barnes
+UIC,Miami (OH),26,36,18,52,0,Daniel Barnes Turnover.
+UIC,Miami (OH),26,36,19,9,0,Reggie Johnson missed Jumper.
+UIC,Miami (OH),26,36,19,9,0,Joey Miller Block.
+UIC,Miami (OH),26,36,19,11,0,Joey Miller Defensive Rebound.
+UIC,Miami (OH),28,36,19,26,1,Hayden Humes made Layup.  Assisted by Marc Brown.
+UIC,Miami (OH),28,39,19,59,1,Will Felder made Three Point Jumper.  Assisted by Geovonie McKnight.
+UIC,Miami (OH),28,39,20,0,0,End of the 1st Half.
+UIC,Miami (OH),28,39,20,22,0,Quinten Rollins missed Jumper.
+UIC,Miami (OH),28,39,20,22,0,Will Felder Offensive Rebound.
+UIC,Miami (OH),28,39,20,26,0,Will Felder missed Tip Shot.
+UIC,Miami (OH),28,39,20,26,0,Reggie Johnson Offensive Rebound.
+UIC,Miami (OH),28,42,20,54,1,Will Sullivan made Three Point Jumper.  Assisted by Reggie Johnson.
+UIC,Miami (OH),28,42,21,9,0,Josh Crittle missed Jumper.
+UIC,Miami (OH),28,42,21,9,0,Marc Brown Offensive Rebound.
+UIC,Miami (OH),30,42,21,12,1,Marc Brown made Layup.
+UIC,Miami (OH),30,42,21,30,0,Allen Roberts missed Three Point Jumper.
+UIC,Miami (OH),30,42,21,30,0,Daniel Barnes Defensive Rebound.
+UIC,Miami (OH),32,42,21,42,1,Hayden Humes made Layup.  Assisted by Josh Crittle.
+UIC,Miami (OH),32,42,21,42,0,Foul on Quinten Rollins
+UIC,Miami (OH),33,42,21,42,1,Hayden Humes made Free Throw.
+UIC,Miami (OH),33,42,21,52,0,Allen Roberts Turnover.
+UIC,Miami (OH),33,42,21,53,0,Gary Talton Steal.
+UIC,Miami (OH),33,42,21,58,0,Gary Talton missed Jumper.
+UIC,Miami (OH),33,42,21,58,0,Illinois-Chicago Offensive Rebou.
+UIC,Miami (OH),36,42,22,3,1,Daniel Barnes made Three Point Jumper.  Assisted by Marc Brown.
+UIC,Miami (OH),36,42,22,27,0,Foul on Gary Talton
+UIC,Miami (OH),36,42,22,27,0,Geovonie McKnight missed Free Throw.
+UIC,Miami (OH),36,42,22,27,0,null
+UIC,Miami (OH),36,42,22,27,0,Will Sullivan Turnover.
+UIC,Miami (OH),36,42,22,37,0,Daniel Barnes missed Three Point Jumper.
+UIC,Miami (OH),36,42,22,37,0,Josh Crittle Offensive Rebound.
+UIC,Miami (OH),36,42,22,42,0,Josh Crittle missed Layup.
+UIC,Miami (OH),36,42,22,42,0,Will Sullivan Defensive Rebound.
+UIC,Miami (OH),36,42,22,43,0,Foul on Hayden Humes
+UIC,Miami (OH),36,42,23,0,0,Reggie Johnson Turnover.
+UIC,Miami (OH),36,42,23,2,0,Josh Crittle Steal.
+UIC,Miami (OH),36,42,23,10,0,Gary Talton missed Jumper.
+UIC,Miami (OH),36,42,23,10,0,Reggie Johnson Defensive Rebound.
+UIC,Miami (OH),36,45,23,22,1,Will Sullivan made Three Point Jumper.  Assisted by Will Felder.
+UIC,Miami (OH),38,45,23,38,1,Josh Crittle made Jumper.  Assisted by Hayden Humes.
+UIC,Miami (OH),38,45,23,59,0,Foul on Josh Crittle
+UIC,Miami (OH),38,46,23,59,1,Will Felder made Free Throw.
+UIC,Miami (OH),38,46,23,59,0,Will Felder missed Free Throw.
+UIC,Miami (OH),38,46,23,59,0,Hayden Humes Defensive Rebound.
+UIC,Miami (OH),38,46,24,13,0,Foul on Allen Roberts
+UIC,Miami (OH),38,46,24,13,0,Official TV Timeout.
+UIC,Miami (OH),39,46,24,13,1,Josh Crittle made Free Throw.
+UIC,Miami (OH),40,46,24,13,1,Josh Crittle made Free Throw.
+UIC,Miami (OH),40,48,24,33,1,Jon Harris made Layup.  Assisted by Will Sullivan.
+UIC,Miami (OH),40,48,24,59,0,Hayden Humes Turnover.
+UIC,Miami (OH),40,48,25,15,0,Jon Harris Turnover.
+UIC,Miami (OH),40,48,25,15,0,Hayden Humes Turnover.
+UIC,Miami (OH),40,48,25,18,0,Geovonie McKnight Steal.
+UIC,Miami (OH),40,51,25,21,1,Jon Harris made Three Point Jumper.  Assisted by Geovonie McKnight.
+UIC,Miami (OH),40,51,25,29,0,Marc Brown Turnover.
+UIC,Miami (OH),40,51,25,30,0,Allen Roberts Steal.
+UIC,Miami (OH),40,53,25,34,1,Geovonie McKnight made Layup.
+UIC,Miami (OH),40,53,25,44,0,Illinois-Chicago Full Timeout.
+UIC,Miami (OH),40,53,26,2,0,Joey Miller missed Layup.
+UIC,Miami (OH),40,53,26,2,0,Hayden Humes Offensive Rebound.
+UIC,Miami (OH),40,53,26,12,0,Foul on Allen Roberts
+UIC,Miami (OH),41,53,26,12,1,Gary Talton made Free Throw.
+UIC,Miami (OH),42,53,26,12,1,Gary Talton made Free Throw.
+UIC,Miami (OH),42,53,26,25,0,Reggie Johnson missed Three Point Jumper.
+UIC,Miami (OH),42,53,26,25,0,Gary Talton Defensive Rebound.
+UIC,Miami (OH),44,53,26,32,1,Gary Talton made Layup.
+UIC,Miami (OH),44,53,26,38,0,Geovonie McKnight Turnover.
+UIC,Miami (OH),44,53,26,49,0,Gary Talton Turnover.
+UIC,Miami (OH),44,53,26,49,0,Geovonie McKnight Steal.
+UIC,Miami (OH),44,53,26,59,0,Foul on Geovonie McKnight
+UIC,Miami (OH),44,53,26,59,0,Geovonie McKnight Turnover.
+UIC,Miami (OH),47,53,27,14,1,Daniel Barnes made Three Point Jumper.  Assisted by Gary Talton.
+UIC,Miami (OH),47,55,27,37,1,Will Sullivan made Layup.
+UIC,Miami (OH),47,55,27,56,0,Hayden Humes Turnover.
+UIC,Miami (OH),47,55,27,57,0,Allen Roberts Steal.
+UIC,Miami (OH),47,57,28,0,1,Will Sullivan made Layup.  Assisted by Allen Roberts.
+UIC,Miami (OH),47,57,28,15,0,Foul on Reggie Johnson
+UIC,Miami (OH),47,57,28,15,0,Official TV Timeout.
+UIC,Miami (OH),47,57,28,31,0,Joey Miller Turnover.
+UIC,Miami (OH),47,57,28,32,0,Quinten Rollins Steal.
+UIC,Miami (OH),47,57,28,38,0,Will Felder missed Layup.
+UIC,Miami (OH),47,57,28,38,0,Josh Crittle Defensive Rebound.
+UIC,Miami (OH),47,57,28,49,0,Foul on Quinten Rollins
+UIC,Miami (OH),47,57,28,52,0,Marc Brown missed Layup.
+UIC,Miami (OH),47,57,28,52,0,Illinois-Chicago Offensive Rebou.
+UIC,Miami (OH),47,57,29,14,0,Marc Brown missed Three Point Jumper.
+UIC,Miami (OH),47,57,29,14,0,Miami (OH) Defensive Rebound.
+UIC,Miami (OH),47,57,29,14,0,Foul on Josh Crittle
+UIC,Miami (OH),47,59,29,39,1,Will Felder made Jumper.  Assisted by Allen Roberts.
+UIC,Miami (OH),50,59,29,53,1,Joey Miller made Three Point Jumper.  Assisted by Marc Brown.
+UIC,Miami (OH),50,59,30,26,0,Allen Roberts Turnover.
+UIC,Miami (OH),50,59,30,27,0,Will Simonton Steal.
+UIC,Miami (OH),50,59,30,30,0,Foul on Will Felder
+UIC,Miami (OH),51,59,30,30,1,Will Simonton made Free Throw.
+UIC,Miami (OH),52,59,30,30,1,Will Simonton made Free Throw.
+UIC,Miami (OH),52,59,30,36,0,Foul on Geovonie McKnight
+UIC,Miami (OH),52,59,30,36,0,Geovonie McKnight Turnover.
+UIC,Miami (OH),52,59,30,45,0,Gary Talton missed Jumper.
+UIC,Miami (OH),52,59,30,45,0,Will Sullivan Defensive Rebound.
+UIC,Miami (OH),52,59,31,10,0,Foul on Will Simonton
+UIC,Miami (OH),52,60,31,10,1,Geovonie McKnight made Free Throw.
+UIC,Miami (OH),52,60,31,10,0,Geovonie McKnight missed Free Throw.
+UIC,Miami (OH),52,60,31,10,0,Drew McGhee Offensive Rebound.
+UIC,Miami (OH),52,62,31,33,1,Drew McGhee made Jumper.
+UIC,Miami (OH),55,62,31,51,1,Joey Miller made Three Point Jumper.  Assisted by Hayden Humes.
+UIC,Miami (OH),55,62,32,16,0,Foul on Josh Crittle
+UIC,Miami (OH),55,62,32,16,0,Official TV Timeout.
+UIC,Miami (OH),55,62,32,42,0,Foul on Drew McGhee
+UIC,Miami (OH),55,62,32,42,0,Drew McGhee Turnover.
+UIC,Miami (OH),55,62,33,2,0,Hayden Humes missed Three Point Jumper.
+UIC,Miami (OH),55,62,33,2,0,Gary Talton Offensive Rebound.
+UIC,Miami (OH),55,62,33,39,0,Hayden Humes missed Jumper.
+UIC,Miami (OH),55,62,33,39,0,Jon Harris Defensive Rebound.
+UIC,Miami (OH),55,65,34,3,1,Jon Harris made Three Point Jumper.  Assisted by Allen Roberts.
+UIC,Miami (OH),58,65,34,19,1,Joey Miller made Three Point Jumper.  Assisted by Gary Talton.
+UIC,Miami (OH),58,65,34,28,0,Foul on Gary Talton
+UIC,Miami (OH),58,66,34,28,1,Reggie Johnson made Free Throw.
+UIC,Miami (OH),58,67,34,28,1,Reggie Johnson made Free Throw.
+UIC,Miami (OH),58,67,34,39,0,Foul on Allen Roberts
+UIC,Miami (OH),59,67,34,39,1,Marc Brown made Free Throw.
+UIC,Miami (OH),60,67,34,39,1,Marc Brown made Free Throw.
+UIC,Miami (OH),60,67,34,52,0,Miami (OH) Full Timeout.
+UIC,Miami (OH),60,67,35,12,0,Will Sullivan Turnover.
+UIC,Miami (OH),60,67,35,13,0,Will Simonton Steal.
+UIC,Miami (OH),60,67,35,19,0,Gary Talton missed Layup.
+UIC,Miami (OH),60,67,35,19,0,Hayden Humes Offensive Rebound.
+UIC,Miami (OH),60,67,35,26,0,Hayden Humes Turnover.
+UIC,Miami (OH),60,67,35,26,0,Will Sullivan Steal.
+UIC,Miami (OH),60,69,35,28,1,Will Sullivan made Layup.
+UIC,Miami (OH),62,69,35,39,1,Gary Talton made Layup.
+UIC,Miami (OH),62,69,36,7,0,Allen Roberts missed Three Point Jumper.
+UIC,Miami (OH),62,69,36,7,0,Allen Roberts Offensive Rebound.
+UIC,Miami (OH),62,71,36,11,1,Allen Roberts made Layup.
+UIC,Miami (OH),62,71,36,28,0,Joey Miller missed Three Point Jumper.
+UIC,Miami (OH),62,71,36,28,0,Quinten Rollins Defensive Rebound.
+UIC,Miami (OH),62,71,36,39,0,Quinten Rollins Turnover.
+UIC,Miami (OH),62,71,36,41,0,Gary Talton Steal.
+UIC,Miami (OH),62,71,36,44,0,Gary Talton missed Three Point Jumper.
+UIC,Miami (OH),62,71,36,44,0,Will Simonton Offensive Rebound.
+UIC,Miami (OH),62,71,36,55,0,Official TV Timeout.
+UIC,Miami (OH),62,71,36,55,0,Marc Brown Turnover.
+UIC,Miami (OH),62,71,36,56,0,Will Felder Steal.
+UIC,Miami (OH),62,74,37,28,1,Jon Harris made Three Point Jumper.  Assisted by Quinten Rollins.
+UIC,Miami (OH),62,74,37,28,0,Foul on Daniel Barnes
+UIC,Miami (OH),62,75,37,28,1,Jon Harris made Free Throw.
+UIC,Miami (OH),64,75,37,35,1,Gary Talton made Layup.
+UIC,Miami (OH),64,75,37,36,0,Foul on Will Felder
+UIC,Miami (OH),65,75,37,36,1,Gary Talton made Free Throw.
+UIC,Miami (OH),65,75,37,44,0,Foul on Josh Crittle
+UIC,Miami (OH),65,76,37,44,1,Allen Roberts made Free Throw.
+UIC,Miami (OH),65,77,37,44,1,Allen Roberts made Free Throw.
+UIC,Miami (OH),65,77,37,51,0,Daniel Barnes missed Three Point Jumper.
+UIC,Miami (OH),65,77,37,51,0,Quinten Rollins Defensive Rebound.
+UIC,Miami (OH),65,79,38,20,1,Will Felder made Dunk.  Assisted by Geovonie McKnight.
+UIC,Miami (OH),65,79,38,20,0,Foul on Hayden Humes
+UIC,Miami (OH),65,79,38,20,0,Will Felder missed Free Throw.
+UIC,Miami (OH),65,79,38,20,0,Will Simonton Defensive Rebound.
+UIC,Miami (OH),65,79,38,30,0,Foul on Will Sullivan
+UIC,Miami (OH),66,79,38,30,1,Joey Miller made Free Throw.
+UIC,Miami (OH),67,79,38,30,1,Joey Miller made Free Throw.
+UIC,Miami (OH),67,79,38,50,0,Reggie Johnson missed Layup.
+UIC,Miami (OH),67,79,38,50,0,Will Simonton Defensive Rebound.
+UIC,Miami (OH),70,79,38,57,1,Daniel Barnes made Three Point Jumper.  Assisted by Gary Talton.
+UIC,Miami (OH),70,79,38,59,0,Illinois-Chicago Full Timeout.
+UIC,Miami (OH),70,79,39,6,0,Foul on Daniel Barnes
+UIC,Miami (OH),70,80,39,6,1,Reggie Johnson made Free Throw.
+UIC,Miami (OH),70,81,39,6,1,Reggie Johnson made Free Throw.
+UIC,Miami (OH),70,81,39,11,0,Gary Talton missed Jumper.
+UIC,Miami (OH),70,81,39,11,0,Reggie Johnson Block.
+UIC,Miami (OH),70,81,39,13,0,Gary Talton Offensive Rebound.
+UIC,Miami (OH),70,81,39,15,0,Gary Talton Turnover.
+UIC,Miami (OH),70,81,39,16,0,Reggie Johnson Steal.
+UIC,Miami (OH),70,81,39,22,0,Foul on Gary Talton
+UIC,Miami (OH),70,82,39,22,1,Will Sullivan made Free Throw.
+UIC,Miami (OH),70,82,39,22,0,Will Sullivan missed Free Throw.
+UIC,Miami (OH),70,82,39,22,0,Joey Miller Defensive Rebound.
+UIC,Miami (OH),70,82,39,29,0,Will Simonton missed Three Point Jumper.
+UIC,Miami (OH),70,82,39,29,0,Quinten Rollins Defensive Rebound.
+UIC,Miami (OH),70,82,40,0,0,End Game

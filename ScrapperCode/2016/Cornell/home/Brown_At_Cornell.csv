@@ -1,0 +1,316 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Brown,Cornell,0,0,0,23,0,David Onuorah Turnover.
+Brown,Cornell,2,0,0,51,1,Jason Massey made Jumper.
+Brown,Cornell,2,0,1,13,0,Matt Morgan missed Jumper.
+Brown,Cornell,2,0,1,13,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,4,0,1,32,1,Steven Spieth made Layup. Assisted by Jason Massey.
+Brown,Cornell,4,0,1,55,0,David Onuorah missed Jumper.
+Brown,Cornell,4,0,1,55,0,JR Hobbie Defensive Rebound.
+Brown,Cornell,4,0,2,9,0,Jason Massey missed Layup.
+Brown,Cornell,4,0,2,9,0,Robert Hatter Block.
+Brown,Cornell,4,0,2,9,0,Brown Offensive Rebound.
+Brown,Cornell,7,0,2,15,1,JR Hobbie made Three Point Jumper. Assisted by Obi Okolie.
+Brown,Cornell,7,0,2,17,0,Cornell  Timeout
+Brown,Cornell,7,0,2,34,0,Darryl Smith missed Three Point Jumper.
+Brown,Cornell,7,0,2,34,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Cornell,7,0,2,52,0,Steven Spieth Turnover.
+Brown,Cornell,7,0,3,5,0,Robert Hatter missed Layup.
+Brown,Cornell,7,0,3,5,0,Cedric Kuakumensah Block.
+Brown,Cornell,7,0,3,6,0,Brown Defensive Rebound.
+Brown,Cornell,7,0,3,12,0,Jason Massey Turnover.
+Brown,Cornell,7,0,3,14,0,Robert Hatter Steal.
+Brown,Cornell,7,0,3,18,0,Matt Morgan missed Jumper.
+Brown,Cornell,7,0,3,18,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,9,0,3,39,1,Cedric Kuakumensah made Layup. Assisted by Steven Spieth.
+Brown,Cornell,9,3,4,3,1,Robert Mischler made Three Point Jumper. Assisted by Matt Morgan.
+Brown,Cornell,9,3,4,27,0,Foul on Robert Hatter.
+Brown,Cornell,9,3,4,27,0,Official TV Timeout
+Brown,Cornell,9,3,4,27,0,Jason Massey missed Free Throw.
+Brown,Cornell,9,3,4,27,0,Brown Deadball Team Rebound.
+Brown,Cornell,10,3,4,27,1,Jason Massey made Free Throw.
+Brown,Cornell,10,3,4,50,0,David Onuorah missed Jumper.
+Brown,Cornell,10,3,4,50,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Cornell,10,3,4,58,0,Foul on Darryl Smith.
+Brown,Cornell,10,3,5,8,0,Jason Massey missed Three Point Jumper.
+Brown,Cornell,10,3,5,8,0,Matt Morgan Defensive Rebound.
+Brown,Cornell,10,3,5,15,0,Foul on Obi Okolie.
+Brown,Cornell,10,3,5,22,0,Matt Morgan missed Jumper.
+Brown,Cornell,10,3,5,22,0,David Onuorah Offensive Rebound.
+Brown,Cornell,10,3,5,23,0,Foul on Cedric Kuakumensah.
+Brown,Cornell,10,3,5,33,0,Matt Morgan missed Three Point Jumper.
+Brown,Cornell,10,3,5,33,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Cornell,10,3,5,48,0,Cedric Kuakumensah missed Jumper.
+Brown,Cornell,10,3,5,48,0,Darryl Smith Defensive Rebound.
+Brown,Cornell,10,3,6,9,0,Darryl Smith missed Jumper.
+Brown,Cornell,10,3,6,9,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Cornell,10,3,6,19,0,Jason Massey Turnover.
+Brown,Cornell,10,3,6,20,0,David Onuorah Steal.
+Brown,Cornell,10,5,6,23,1,David Onuorah made Dunk.
+Brown,Cornell,12,5,6,51,1,JR Hobbie made Jumper.
+Brown,Cornell,12,7,7,7,1,David Onuorah made Jumper.
+Brown,Cornell,12,7,7,20,0,Foul on Matt Morgan.
+Brown,Cornell,12,7,7,24,0,Obi Okolie missed Layup.
+Brown,Cornell,12,7,7,24,0,David Onuorah Block.
+Brown,Cornell,12,7,7,27,0,JoJo Fallas Defensive Rebound.
+Brown,Cornell,12,9,7,42,1,Darryl Smith made Layup.
+Brown,Cornell,12,9,8,2,0,Foul on David Onuorah.
+Brown,Cornell,12,9,8,2,0,Official TV Timeout
+Brown,Cornell,12,9,8,7,0,Kyle Haber Turnover.
+Brown,Cornell,12,11,8,31,1,Jordan Abdur-Ra'oof made Jumper.
+Brown,Cornell,12,11,8,44,0,Kyle Haber missed Three Point Jumper.
+Brown,Cornell,12,11,8,44,0,David Onuorah Defensive Rebound.
+Brown,Cornell,12,14,9,8,1,JoJo Fallas made Three Point Jumper. Assisted by Robert Hatter.
+Brown,Cornell,12,14,9,25,0,Jason Massey missed Three Point Jumper.
+Brown,Cornell,12,14,9,25,0,Brown Offensive Rebound.
+Brown,Cornell,12,14,9,45,0,Obi Okolie missed Layup.
+Brown,Cornell,12,14,9,45,0,JoJo Fallas Defensive Rebound.
+Brown,Cornell,12,14,9,51,0,JoJo Fallas Turnover.
+Brown,Cornell,12,14,9,52,0,Obi Okolie Steal.
+Brown,Cornell,14,14,9,53,1,Obi Okolie made Layup.
+Brown,Cornell,14,14,10,5,0,Foul on Travis Fuller.
+Brown,Cornell,14,14,10,19,0,Robert Hatter missed Jumper.
+Brown,Cornell,14,14,10,19,0,Jason Massey Defensive Rebound.
+Brown,Cornell,14,14,10,25,0,Jason Massey Turnover.
+Brown,Cornell,14,14,10,26,0,Robert Hatter Steal.
+Brown,Cornell,14,14,10,46,0,Stone Gettings missed Jumper.
+Brown,Cornell,14,14,10,46,0,Steven Spieth Block.
+Brown,Cornell,14,14,10,48,0,Stone Gettings Offensive Rebound.
+Brown,Cornell,14,14,10,54,0,Troy Whiteside missed Jumper.
+Brown,Cornell,14,14,10,54,0,Stone Gettings Offensive Rebound.
+Brown,Cornell,14,14,10,55,0,Stone Gettings Turnover.
+Brown,Cornell,14,14,10,59,0,Foul on Stone Gettings.
+Brown,Cornell,16,14,11,2,1,Steven Spieth made Layup. Assisted by Jason Massey.
+Brown,Cornell,16,14,11,12,0,Robert Hatter missed Jumper.
+Brown,Cornell,16,14,11,12,0,Jason Massey Defensive Rebound.
+Brown,Cornell,16,14,11,25,0,Foul on Robert Hatter.
+Brown,Cornell,16,14,11,45,0,Travis Fuller missed Layup.
+Brown,Cornell,16,14,11,45,0,Joel Davis Block.
+Brown,Cornell,16,14,11,45,0,Brown Offensive Rebound.
+Brown,Cornell,16,14,11,47,0,JR Hobbie missed Three Point Jumper.
+Brown,Cornell,16,14,11,47,0,Darryl Smith Defensive Rebound.
+Brown,Cornell,16,17,11,54,1,Matt Morgan made Three Point Jumper.
+Brown,Cornell,16,17,12,5,0,Steven Spieth missed Jumper.
+Brown,Cornell,16,17,12,5,0,Jason Massey Offensive Rebound.
+Brown,Cornell,16,17,12,8,0,Jason Massey Turnover.
+Brown,Cornell,16,17,12,8,0,Foul on Jason Massey.
+Brown,Cornell,16,17,12,8,0,Official TV Timeout
+Brown,Cornell,16,19,12,33,1,Matt Morgan made Jumper.
+Brown,Cornell,16,19,12,59,0,JR Hobbie Turnover.
+Brown,Cornell,16,19,12,59,0,David Onuorah Steal.
+Brown,Cornell,16,19,13,16,0,Matt Morgan missed Three Point Jumper.
+Brown,Cornell,16,19,13,16,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,16,19,13,32,0,Obi Okolie missed Jumper.
+Brown,Cornell,16,19,13,32,0,Matt Morgan Defensive Rebound.
+Brown,Cornell,16,19,13,39,0,Foul on Jason Massey.
+Brown,Cornell,16,20,13,39,1,Darryl Smith made Free Throw.
+Brown,Cornell,16,20,13,39,0,Darryl Smith missed Free Throw.
+Brown,Cornell,16,20,13,39,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Cornell,16,20,13,53,0,Foul on Joel Davis.
+Brown,Cornell,17,20,13,53,1,Obi Okolie made Free Throw.
+Brown,Cornell,17,20,13,53,0,Obi Okolie missed Free Throw.
+Brown,Cornell,17,20,13,53,0,David Onuorah Defensive Rebound.
+Brown,Cornell,17,20,14,11,0,Joel Davis Turnover.
+Brown,Cornell,17,20,14,12,0,Kyle Haber Steal.
+Brown,Cornell,19,20,14,25,1,Obi Okolie made Layup.
+Brown,Cornell,19,22,14,41,1,Jordan Abdur-Ra'oof made Dunk. Assisted by Matt Morgan.
+Brown,Cornell,21,22,15,2,1,Obi Okolie made Jumper.
+Brown,Cornell,21,22,15,21,0,Matt Morgan missed Three Point Jumper.
+Brown,Cornell,21,22,15,21,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,24,22,15,30,1,Cedric Kuakumensah made Three Point Jumper. Assisted by Steven Spieth.
+Brown,Cornell,24,24,15,52,1,Jordan Abdur-Ra'oof made Dunk. Assisted by Joel Davis.
+Brown,Cornell,24,24,16,8,0,JR Hobbie missed Three Point Jumper.
+Brown,Cornell,24,24,16,8,0,Joel Davis Defensive Rebound.
+Brown,Cornell,24,26,16,19,1,Joel Davis made Layup. Assisted by Matt Morgan.
+Brown,Cornell,24,26,16,20,0,Brown  Timeout
+Brown,Cornell,24,26,16,31,0,Foul on JoJo Fallas.
+Brown,Cornell,24,26,16,31,0,Travis Fuller missed Free Throw.
+Brown,Cornell,24,26,16,31,0,Cedric Kuakumensah Offensive Rebound.
+Brown,Cornell,24,26,16,36,0,Kyle Haber Turnover.
+Brown,Cornell,24,26,16,36,0,Foul on Kyle Haber.
+Brown,Cornell,24,28,16,59,1,Matt Morgan made Layup.
+Brown,Cornell,27,28,17,19,1,Cedric Kuakumensah made Three Point Jumper. Assisted by JR Hobbie.
+Brown,Cornell,27,28,17,37,0,Darryl Smith missed Jumper.
+Brown,Cornell,27,28,17,39,0,Kyle Haber Defensive Rebound.
+Brown,Cornell,27,28,18,10,0,JR Hobbie missed Three Point Jumper.
+Brown,Cornell,27,28,18,10,0,Matt Morgan Block.
+Brown,Cornell,27,28,18,12,0,Cornell Deadball Team Rebound.
+Brown,Cornell,27,28,18,26,0,Matt Morgan missed Three Point Jumper.
+Brown,Cornell,27,28,18,26,0,Brown Defensive Rebound.
+Brown,Cornell,27,28,18,55,0,Kyle Haber Turnover.
+Brown,Cornell,27,28,18,55,0,Darryl Smith Steal.
+Brown,Cornell,27,30,19,19,1,Matt Morgan made Layup.
+Brown,Cornell,27,30,19,38,0,Foul on JoJo Fallas.
+Brown,Cornell,27,30,19,38,0,Kyle Haber missed Free Throw.
+Brown,Cornell,27,30,19,38,0,Matt Morgan Defensive Rebound.
+Brown,Cornell,27,30,19,56,0,Matt Morgan Turnover.
+Brown,Cornell,27,30,19,56,0,Foul on Matt Morgan.
+Brown,Cornell,27,30,19,58,0,Obi Okolie Turnover.
+Brown,Cornell,27,30,19,59,0,Robert Mischler Steal.
+Brown,Cornell,27,30,20,0,0,End of 1st half
+Brown,Cornell,27,30,20,18,0,Cedric Kuakumensah missed Jumper.
+Brown,Cornell,27,30,20,18,0,Obi Okolie Offensive Rebound.
+Brown,Cornell,27,30,20,21,0,Steven Spieth Turnover.
+Brown,Cornell,27,30,20,21,0,Foul on Steven Spieth.
+Brown,Cornell,27,33,20,49,1,Robert Hatter made Three Point Jumper. Assisted by Darryl Smith.
+Brown,Cornell,27,33,21,7,0,Obi Okolie missed Layup.
+Brown,Cornell,27,33,21,7,0,David Onuorah Block.
+Brown,Cornell,27,33,21,9,0,Darryl Smith Defensive Rebound.
+Brown,Cornell,27,36,21,14,1,Robert Mischler made Three Point Jumper. Assisted by Robert Hatter.
+Brown,Cornell,27,36,21,22,0,Brown  Timeout
+Brown,Cornell,27,36,21,34,0,Cedric Kuakumensah missed Jumper.
+Brown,Cornell,27,36,21,34,0,David Onuorah Block.
+Brown,Cornell,27,36,21,36,0,Cedric Kuakumensah Offensive Rebound.
+Brown,Cornell,27,36,21,37,0,Foul on David Onuorah.
+Brown,Cornell,28,36,21,37,1,Cedric Kuakumensah made Free Throw.
+Brown,Cornell,29,36,21,37,1,Cedric Kuakumensah made Free Throw.
+Brown,Cornell,29,36,21,59,0,Foul on Obi Okolie.
+Brown,Cornell,29,36,22,18,0,Robert Hatter missed Jumper.
+Brown,Cornell,29,36,22,18,0,Brown Defensive Rebound.
+Brown,Cornell,29,36,22,18,0,Foul on David Onuorah.
+Brown,Cornell,29,36,22,31,0,Foul on Jordan Abdur-Ra'oof.
+Brown,Cornell,29,36,22,36,0,Jason Massey missed Jumper.
+Brown,Cornell,29,36,22,36,0,Robert Mischler Defensive Rebound.
+Brown,Cornell,29,36,22,50,0,Matt Morgan missed Three Point Jumper.
+Brown,Cornell,29,36,22,50,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,31,36,23,1,1,Steven Spieth made Layup.
+Brown,Cornell,31,38,23,8,1,Matt Morgan made Layup. Assisted by Robert Hatter.
+Brown,Cornell,31,38,23,27,0,Foul on Robert Mischler.
+Brown,Cornell,32,38,23,32,1,Cedric Kuakumensah made Free Throw.
+Brown,Cornell,33,38,23,32,1,Cedric Kuakumensah made Free Throw.
+Brown,Cornell,33,38,23,46,0,Jordan Abdur-Ra'oof missed Jumper.
+Brown,Cornell,33,38,23,46,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Cornell,33,38,23,59,0,Foul on Troy Whiteside.
+Brown,Cornell,33,38,23,59,0,Cedric Kuakumensah missed Free Throw.
+Brown,Cornell,33,38,23,59,0,Brown Deadball Team Rebound.
+Brown,Cornell,34,38,23,59,1,Cedric Kuakumensah made Free Throw.
+Brown,Cornell,34,38,24,15,0,Matt Morgan missed Layup.
+Brown,Cornell,34,38,24,15,0,Cedric Kuakumensah Block.
+Brown,Cornell,34,38,24,16,0,Darryl Smith Offensive Rebound.
+Brown,Cornell,34,41,24,27,1,Darryl Smith made Three Point Jumper. Assisted by Matt Morgan.
+Brown,Cornell,36,41,24,47,1,Steven Spieth made Layup. Assisted by JR Hobbie.
+Brown,Cornell,36,44,25,2,1,Matt Morgan made Three Point Jumper.
+Brown,Cornell,36,44,25,15,0,Steven Spieth Turnover.
+Brown,Cornell,36,44,25,18,0,Darryl Smith Steal.
+Brown,Cornell,36,46,25,19,1,Darryl Smith made Dunk.
+Brown,Cornell,38,46,25,48,1,Cedric Kuakumensah made Layup. Assisted by Jason Massey.
+Brown,Cornell,38,46,26,5,0,Matt Morgan missed Three Point Jumper.
+Brown,Cornell,38,46,26,5,0,Jordan Abdur-Ra'oof Offensive Rebound.
+Brown,Cornell,38,46,26,9,0,Foul on Jason Massey.
+Brown,Cornell,38,46,26,9,0,Official TV Timeout
+Brown,Cornell,38,46,26,9,0,Jordan Abdur-Ra'oof missed Free Throw.
+Brown,Cornell,38,46,26,9,0,Cornell Deadball Team Rebound.
+Brown,Cornell,38,46,26,9,0,Jordan Abdur-Ra'oof missed Free Throw.
+Brown,Cornell,38,46,26,9,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,38,46,26,31,0,Travis Fuller Turnover.
+Brown,Cornell,38,46,26,58,0,Troy Whiteside missed Jumper.
+Brown,Cornell,38,46,26,58,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,40,46,27,14,1,Jason Massey made Layup. Assisted by Steven Spieth.
+Brown,Cornell,40,49,27,31,1,JoJo Fallas made Three Point Jumper. Assisted by Robert Hatter.
+Brown,Cornell,40,49,27,54,0,Obi Okolie missed Three Point Jumper.
+Brown,Cornell,40,49,27,54,0,Robert Hatter Defensive Rebound.
+Brown,Cornell,40,51,28,20,1,JoJo Fallas made Jumper.
+Brown,Cornell,40,51,28,33,0,Jason Massey missed Layup.
+Brown,Cornell,40,51,28,33,0,Chris Sullivan Offensive Rebound.
+Brown,Cornell,40,51,28,43,0,Chris Sullivan missed Three Point Jumper.
+Brown,Cornell,40,51,28,43,0,Steven Spieth Offensive Rebound.
+Brown,Cornell,40,51,28,48,0,Steven Spieth missed Layup.
+Brown,Cornell,40,51,28,48,0,Robert Hatter Defensive Rebound.
+Brown,Cornell,40,51,28,59,0,Foul on Steven Spieth.
+Brown,Cornell,40,51,28,59,0,Official TV Timeout
+Brown,Cornell,40,52,28,59,1,Robert Hatter made Free Throw.
+Brown,Cornell,40,53,28,59,1,Robert Hatter made Free Throw.
+Brown,Cornell,40,53,29,7,0,Kyle Haber missed Three Point Jumper.
+Brown,Cornell,40,53,29,7,0,Steven Spieth Offensive Rebound.
+Brown,Cornell,42,53,29,28,1,Jason Massey made Layup. Assisted by Obi Okolie.
+Brown,Cornell,42,53,29,57,0,Robert Hatter missed Layup.
+Brown,Cornell,42,53,29,57,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,44,53,30,20,1,Cedric Kuakumensah made Layup. Assisted by Steven Spieth.
+Brown,Cornell,44,53,30,40,0,Robert Hatter Turnover.
+Brown,Cornell,44,53,30,42,0,Steven Spieth Steal.
+Brown,Cornell,44,53,30,51,0,Kyle Haber Turnover.
+Brown,Cornell,44,53,30,55,0,Robert Hatter Steal.
+Brown,Cornell,44,55,30,55,1,Matt Morgan made Layup. Assisted by Robert Hatter.
+Brown,Cornell,44,55,31,17,0,Foul on Stone Gettings.
+Brown,Cornell,46,55,31,20,1,Cedric Kuakumensah made Jumper. Assisted by Steven Spieth.
+Brown,Cornell,46,55,31,43,0,Robert Hatter missed Three Point Jumper.
+Brown,Cornell,46,55,31,43,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,49,55,31,50,1,JR Hobbie made Three Point Jumper. Assisted by Steven Spieth.
+Brown,Cornell,49,55,31,54,0,Cornell  Timeout
+Brown,Cornell,49,55,31,54,0,Official TV Timeout
+Brown,Cornell,49,55,32,6,0,Joel Davis missed Jumper.
+Brown,Cornell,49,55,32,6,0,Cornell Offensive Rebound.
+Brown,Cornell,49,55,32,19,0,Joel Davis missed Jumper.
+Brown,Cornell,49,55,32,19,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,49,55,32,28,0,Steven Spieth missed Three Point Jumper.
+Brown,Cornell,49,55,32,28,0,Robert Hatter Defensive Rebound.
+Brown,Cornell,49,57,32,37,1,Robert Hatter made Jumper.
+Brown,Cornell,51,57,32,59,1,Obi Okolie made Jumper.
+Brown,Cornell,51,60,33,16,1,Darryl Smith made Three Point Jumper. Assisted by Robert Hatter.
+Brown,Cornell,53,60,33,32,1,Jason Massey made Jumper.
+Brown,Cornell,53,60,34,1,0,Joel Davis missed Jumper.
+Brown,Cornell,53,60,34,1,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Cornell,53,60,34,13,0,Cedric Kuakumensah missed Layup.
+Brown,Cornell,53,60,34,13,0,Jason Massey Offensive Rebound.
+Brown,Cornell,53,60,34,15,0,Jason Massey missed Layup.
+Brown,Cornell,53,60,34,15,0,Cornell Defensive Rebound.
+Brown,Cornell,53,60,34,43,0,Jordan Abdur-Ra'oof missed Jumper.
+Brown,Cornell,53,60,34,43,0,Cedric Kuakumensah Block.
+Brown,Cornell,53,60,34,44,0,Jordan Abdur-Ra'oof Offensive Rebound.
+Brown,Cornell,53,60,34,46,0,Jordan Abdur-Ra'oof Turnover.
+Brown,Cornell,53,60,34,48,0,Steven Spieth Steal.
+Brown,Cornell,55,60,34,56,1,Steven Spieth made Layup. Assisted by Cedric Kuakumensah.
+Brown,Cornell,55,60,35,15,0,Robert Hatter missed Three Point Jumper.
+Brown,Cornell,55,60,35,15,0,Jason Massey Defensive Rebound.
+Brown,Cornell,55,60,35,31,0,Obi Okolie missed Jumper.
+Brown,Cornell,55,60,35,31,0,David Onuorah Defensive Rebound.
+Brown,Cornell,55,60,35,37,0,Foul on JR Hobbie.
+Brown,Cornell,55,60,35,37,0,Matt Morgan missed Free Throw.
+Brown,Cornell,55,60,35,37,0,Cornell Deadball Team Rebound.
+Brown,Cornell,55,60,35,37,0,Matt Morgan missed Free Throw.
+Brown,Cornell,55,60,35,37,0,Cedric Kuakumensah Defensive Rebound.
+Brown,Cornell,57,60,36,1,1,Obi Okolie made Layup.
+Brown,Cornell,57,60,36,1,0,Foul on David Onuorah.
+Brown,Cornell,58,60,36,1,1,Obi Okolie made Free Throw.
+Brown,Cornell,58,62,36,22,1,Darryl Smith made Jumper.
+Brown,Cornell,60,62,36,54,1,Cedric Kuakumensah made Layup.
+Brown,Cornell,60,64,37,18,1,David Onuorah made Jumper. Assisted by Robert Hatter.
+Brown,Cornell,60,64,37,45,0,Foul on Robert Hatter.
+Brown,Cornell,60,64,37,45,0,Official TV Timeout
+Brown,Cornell,61,64,37,45,1,Jason Massey made Free Throw.
+Brown,Cornell,61,64,37,45,0,Jason Massey missed Free Throw.
+Brown,Cornell,61,64,37,45,0,Robert Hatter Defensive Rebound.
+Brown,Cornell,61,66,38,11,1,Matt Morgan made Jumper.
+Brown,Cornell,61,66,38,21,0,Brown  Timeout
+Brown,Cornell,61,66,38,28,0,Steven Spieth missed Jumper.
+Brown,Cornell,61,66,38,28,0,Matt Morgan Defensive Rebound.
+Brown,Cornell,61,66,38,46,0,Foul on JR Hobbie.
+Brown,Cornell,61,66,38,47,0,Foul on Steven Spieth.
+Brown,Cornell,61,67,38,47,1,Jordan Abdur-Ra'oof made Free Throw.
+Brown,Cornell,61,68,38,47,1,Jordan Abdur-Ra'oof made Free Throw.
+Brown,Cornell,63,68,38,58,1,Steven Spieth made Layup.
+Brown,Cornell,63,68,39,1,0,Foul on Steven Spieth.
+Brown,Cornell,63,69,39,1,1,Matt Morgan made Free Throw.
+Brown,Cornell,63,70,39,1,1,Matt Morgan made Free Throw.
+Brown,Cornell,63,70,39,12,0,Foul on Jordan Abdur-Ra'oof.
+Brown,Cornell,64,70,39,12,1,Obi Okolie made Free Throw.
+Brown,Cornell,65,70,39,12,1,Obi Okolie made Free Throw.
+Brown,Cornell,65,70,39,13,0,Robert Hatter Turnover.
+Brown,Cornell,68,70,39,16,1,JR Hobbie made Three Point Jumper. Assisted by Obi Okolie.
+Brown,Cornell,68,70,39,37,0,Cornell  Timeout
+Brown,Cornell,68,70,39,43,0,Foul on Cedric Kuakumensah.
+Brown,Cornell,68,71,39,43,1,Matt Morgan made Free Throw.
+Brown,Cornell,68,72,39,43,1,Matt Morgan made Free Throw.
+Brown,Cornell,68,72,39,45,0,Brown  Timeout
+Brown,Cornell,68,72,39,50,0,JR Hobbie Turnover.
+Brown,Cornell,68,72,39,50,0,Matt Morgan Steal.
+Brown,Cornell,68,72,39,50,0,Foul on Jason Massey.
+Brown,Cornell,68,73,39,50,1,Matt Morgan made Free Throw.
+Brown,Cornell,68,73,39,50,0,Matt Morgan missed Free Throw.
+Brown,Cornell,68,73,39,50,0,Steven Spieth Defensive Rebound.
+Brown,Cornell,71,73,39,57,1,Obi Okolie made Three Point Jumper. Assisted by Steven Spieth.
+Brown,Cornell,71,73,39,58,0,Foul on Obi Okolie.
+Brown,Cornell,71,74,39,58,1,Matt Morgan made Free Throw.
+Brown,Cornell,71,75,39,58,1,Matt Morgan made Free Throw.
+Brown,Cornell,71,75,39,59,0,JR Hobbie missed Three Point Jumper.
+Brown,Cornell,71,75,39,59,0,Cornell Deadball Team Rebound.
+Brown,Cornell,71,75,40,0,0,End of Game

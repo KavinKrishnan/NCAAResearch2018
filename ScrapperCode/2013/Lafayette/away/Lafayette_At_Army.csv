@@ -1,0 +1,331 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Lafayette,Army,0,0,0,20,0,Larry Toomey missed Layup.
+Lafayette,Army,0,0,0,20,0,Levi Giese Defensive Rebound.
+Lafayette,Army,2,0,0,41,1,Levi Giese made Jumper.  Assisted by Seth Hinrichs.
+Lafayette,Army,2,0,1,0,0,Foul on Levi Giese
+Lafayette,Army,2,1,1,0,1,Ella Ellis made Free Throw.
+Lafayette,Army,2,2,1,0,1,Ella Ellis made Free Throw.
+Lafayette,Army,2,2,1,11,0,Dan Trist missed Jumper.
+Lafayette,Army,2,2,1,11,0,Levi Giese Offensive Rebound.
+Lafayette,Army,2,2,1,18,0,Joey Ptasinski Turnover.
+Lafayette,Army,2,2,1,36,0,Andrew Stire missed Layup.
+Lafayette,Army,2,2,1,36,0,Seth Hinrichs Defensive Rebound.
+Lafayette,Army,2,2,1,37,0,Foul on Larry Toomey
+Lafayette,Army,2,2,2,3,0,Seth Hinrichs Turnover.
+Lafayette,Army,2,2,2,5,0,Kyle Wilson Steal.
+Lafayette,Army,2,4,2,7,1,Kyle Wilson made Dunk.
+Lafayette,Army,2,4,2,25,0,Joey Ptasinski missed Three Point Jumper.
+Lafayette,Army,2,4,2,25,0,Andrew Stire Defensive Rebound.
+Lafayette,Army,2,7,2,33,1,Kyle Wilson made Three Point Jumper.  Assisted by Dylan Cox.
+Lafayette,Army,2,7,2,55,0,Seth Hinrichs missed Jumper.
+Lafayette,Army,2,7,2,55,0,Kyle Toth Defensive Rebound.
+Lafayette,Army,2,7,3,13,0,Ella Ellis missed Three Point Jumper.
+Lafayette,Army,2,7,3,13,0,Dan Trist Defensive Rebound.
+Lafayette,Army,2,7,3,36,0,Dan Trist Turnover.
+Lafayette,Army,2,10,4,0,1,Kyle Wilson made Three Point Jumper.  Assisted by Maxwell Lenox.
+Lafayette,Army,2,10,4,25,0,Tony Johnson missed Three Point Jumper.
+Lafayette,Army,2,10,4,25,0,Nathaniel Musters Offensive Rebound.
+Lafayette,Army,2,10,4,34,0,Official TV Timeout.
+Lafayette,Army,2,10,4,52,0,Foul on Tanner Plomb
+Lafayette,Army,2,10,5,12,0,Dan Trist Turnover.
+Lafayette,Army,2,12,5,28,1,Jordan Springer made Layup.
+Lafayette,Army,4,12,5,36,1,Seth Hinrichs made Layup.
+Lafayette,Army,4,12,5,36,0,Foul on Jordan Springer
+Lafayette,Army,4,12,5,36,0,Seth Hinrichs missed Free Throw.
+Lafayette,Army,4,12,5,36,0,Larry Toomey Defensive Rebound.
+Lafayette,Army,4,15,5,48,1,Kyle Toth made Three Point Jumper.
+Lafayette,Army,4,15,6,21,0,Bryce Scott missed Three Point Jumper.
+Lafayette,Army,4,15,6,21,0,Dylan Cox Defensive Rebound.
+Lafayette,Army,4,15,6,31,0,Dylan Cox missed Layup.
+Lafayette,Army,4,15,6,31,0,Zach Rufer Block.
+Lafayette,Army,4,15,6,32,0,Army Offensive Rebound.
+Lafayette,Army,4,17,6,43,1,Kyle Toth made Layup.
+Lafayette,Army,4,17,6,46,0,Bryce Scott Turnover.
+Lafayette,Army,4,17,6,54,0,Andrew Stire missed Jumper.
+Lafayette,Army,4,17,6,54,0,Lafayette Defensive Rebound.
+Lafayette,Army,4,17,7,11,0,Dan Trist Turnover.
+Lafayette,Army,4,19,7,30,1,Andrew Stire made Layup.  Assisted by Kyle Wilson.
+Lafayette,Army,4,19,7,40,0,Seth Hinrichs Turnover.
+Lafayette,Army,4,19,7,56,0,Kyle Wilson Turnover.
+Lafayette,Army,4,19,7,57,0,Bryce Scott Steal.
+Lafayette,Army,4,19,8,1,0,Bryce Scott Turnover.
+Lafayette,Army,4,19,8,1,0,Foul on Bryce Scott
+Lafayette,Army,4,19,8,1,0,Official TV Timeout.
+Lafayette,Army,4,21,8,32,1,Dylan Cox made Layup.
+Lafayette,Army,4,21,8,59,0,Levi Giese Turnover.
+Lafayette,Army,4,21,9,15,0,Kyle Wilson missed Layup.
+Lafayette,Army,4,21,9,15,0,Levi Giese Defensive Rebound.
+Lafayette,Army,7,21,9,23,1,Joey Ptasinski made Three Point Jumper.  Assisted by Tony Johnson.
+Lafayette,Army,7,21,9,33,0,Army Full Timeout.
+Lafayette,Army,7,21,9,40,0,Maxwell Lenox Turnover.
+Lafayette,Army,7,21,9,41,0,Tony Johnson Steal.
+Lafayette,Army,9,21,9,42,1,Tony Johnson made Layup.
+Lafayette,Army,9,23,10,4,1,Larry Toomey made Jumper.
+Lafayette,Army,9,23,10,19,0,Zach Rufer Turnover.
+Lafayette,Army,9,23,10,32,0,Foul on Zach Rufer
+Lafayette,Army,9,24,10,32,1,Tanner Plomb made Free Throw.
+Lafayette,Army,9,24,10,32,0,Tanner Plomb missed Free Throw.
+Lafayette,Army,9,24,10,32,0,Larry Toomey Offensive Rebound.
+Lafayette,Army,9,24,10,35,0,Kyle Toth missed Three Point Jumper.
+Lafayette,Army,9,24,10,35,0,Bryce Scott Defensive Rebound.
+Lafayette,Army,9,24,10,48,0,Dan Trist missed Layup.
+Lafayette,Army,9,24,10,48,0,Larry Toomey Defensive Rebound.
+Lafayette,Army,9,24,11,4,0,Kyle Toth Turnover.
+Lafayette,Army,9,24,11,20,0,Joey Ptasinski Turnover.
+Lafayette,Army,9,24,11,22,0,Tanner Plomb Steal.
+Lafayette,Army,9,24,11,28,0,Foul on Dan Trist
+Lafayette,Army,9,25,11,28,1,Tanner Plomb made Free Throw.
+Lafayette,Army,9,25,11,28,0,Tanner Plomb missed Free Throw.
+Lafayette,Army,9,25,11,28,0,Zach Rufer Defensive Rebound.
+Lafayette,Army,9,25,12,7,0,Bryce Scott missed Three Point Jumper.
+Lafayette,Army,9,25,12,7,0,Mo Williams Defensive Rebound.
+Lafayette,Army,9,25,12,17,0,Mo Williams Turnover.
+Lafayette,Army,9,25,12,17,0,Official TV Timeout.
+Lafayette,Army,9,25,12,39,0,Foul on Mo Williams
+Lafayette,Army,9,25,12,49,0,Bryce Scott missed Layup.
+Lafayette,Army,9,25,12,49,0,Zach Rufer Offensive Rebound.
+Lafayette,Army,9,25,13,0,0,Foul on Dylan Cox
+Lafayette,Army,9,25,13,0,0,Zach Rufer missed Free Throw.
+Lafayette,Army,9,25,13,0,0,null
+Lafayette,Army,10,25,13,0,1,Zach Rufer made Free Throw.
+Lafayette,Army,10,25,13,13,0,Kevin Ferguson missed Jumper.
+Lafayette,Army,10,25,13,13,0,Les Smith Defensive Rebound.
+Lafayette,Army,10,25,13,18,0,Foul on Dylan Cox
+Lafayette,Army,10,25,13,20,0,Zach Rufer missed Three Point Jumper.
+Lafayette,Army,10,25,13,20,0,Kevin Ferguson Defensive Rebound.
+Lafayette,Army,10,25,13,35,0,Maxwell Lenox Turnover.
+Lafayette,Army,10,25,13,35,0,Foul on Maxwell Lenox
+Lafayette,Army,10,25,14,0,0,Foul on Maxwell Lenox
+Lafayette,Army,11,25,14,0,1,Tony Johnson made Free Throw.
+Lafayette,Army,12,25,14,0,1,Tony Johnson made Free Throw.
+Lafayette,Army,12,27,14,15,1,Kyle Toth made Jumper.
+Lafayette,Army,15,27,14,25,1,Levi Giese made Three Point Jumper.  Assisted by Seth Hinrichs.
+Lafayette,Army,15,27,14,39,0,Foul on Levi Giese
+Lafayette,Army,15,28,14,39,1,Larry Toomey made Free Throw.
+Lafayette,Army,15,29,14,39,1,Larry Toomey made Free Throw.
+Lafayette,Army,17,29,15,6,1,Dan Trist made Jumper.
+Lafayette,Army,17,29,15,25,0,Ella Ellis Turnover.
+Lafayette,Army,17,29,15,26,0,Tony Johnson Steal.
+Lafayette,Army,17,29,15,35,0,Tony Johnson Turnover.
+Lafayette,Army,17,29,15,36,0,Kyle Wilson Steal.
+Lafayette,Army,17,31,15,39,1,Ella Ellis made Layup.  Assisted by Kyle Wilson.
+Lafayette,Army,17,31,16,10,0,Joey Ptasinski missed Three Point Jumper.
+Lafayette,Army,17,31,16,10,0,Jordan Springer Defensive Rebound.
+Lafayette,Army,17,33,16,23,1,Ella Ellis made Jumper.
+Lafayette,Army,17,33,16,37,0,Tony Johnson Turnover.
+Lafayette,Army,17,33,16,37,0,Official TV Timeout.
+Lafayette,Army,17,33,16,55,0,Ella Ellis Turnover.
+Lafayette,Army,17,33,17,20,0,Seth Hinrichs missed Layup.
+Lafayette,Army,17,33,17,20,0,Ella Ellis Defensive Rebound.
+Lafayette,Army,17,33,17,26,0,Ella Ellis Turnover.
+Lafayette,Army,17,33,17,27,0,Joey Ptasinski Steal.
+Lafayette,Army,19,33,17,31,1,Bryce Scott made Layup.  Assisted by Joey Ptasinski.
+Lafayette,Army,19,33,17,46,0,Ella Ellis Turnover.
+Lafayette,Army,19,33,18,8,0,Zach Rufer missed Jumper.
+Lafayette,Army,19,33,18,8,0,Kyle Toth Defensive Rebound.
+Lafayette,Army,19,33,18,11,0,Foul on Zach Rufer
+Lafayette,Army,19,33,18,28,0,Kyle Wilson Turnover.
+Lafayette,Army,19,33,18,28,0,Foul on Kyle Wilson
+Lafayette,Army,21,33,18,40,1,Dan Trist made Layup.
+Lafayette,Army,21,33,19,9,0,Andrew Stire Turnover.
+Lafayette,Army,21,33,19,9,0,Foul on Andrew Stire
+Lafayette,Army,21,33,19,15,0,Lafayette Full Timeout.
+Lafayette,Army,23,33,19,28,1,Tony Johnson made Layup.
+Lafayette,Army,23,35,19,57,1,Matt Gramling made Layup.
+Lafayette,Army,23,35,20,0,0,End of the 1st Half.
+Lafayette,Army,23,35,20,0,0,End of the 1st Half.
+Lafayette,Army,23,35,20,0,0,End of the 1st Half.
+Lafayette,Army,23,35,20,21,0,Ella Ellis Turnover.
+Lafayette,Army,23,35,20,21,0,Levi Giese Steal.
+Lafayette,Army,23,35,20,37,0,Seth Hinrichs missed Three Point Jumper.
+Lafayette,Army,23,35,20,37,0,Seth Hinrichs Offensive Rebound.
+Lafayette,Army,23,35,20,41,0,Foul on Larry Toomey
+Lafayette,Army,24,35,20,41,1,Seth Hinrichs made Free Throw.
+Lafayette,Army,24,35,20,41,0,Seth Hinrichs missed Free Throw.
+Lafayette,Army,24,35,20,41,0,Jordan Springer Defensive Rebound.
+Lafayette,Army,24,35,20,49,0,Dylan Cox missed Layup.
+Lafayette,Army,24,35,20,49,0,Tony Johnson Defensive Rebound.
+Lafayette,Army,24,35,20,53,0,Tony Johnson Turnover.
+Lafayette,Army,24,35,20,54,0,Kyle Toth Steal.
+Lafayette,Army,24,37,20,59,1,Kyle Toth made Layup.  Assisted by Jordan Springer.
+Lafayette,Army,24,37,21,15,0,Foul on Jordan Springer
+Lafayette,Army,24,37,21,25,0,Seth Hinrichs Turnover.
+Lafayette,Army,24,37,21,26,0,Ella Ellis Steal.
+Lafayette,Army,24,40,21,34,1,Dylan Cox made Three Point Jumper.  Assisted by Jordan Springer.
+Lafayette,Army,24,40,21,53,0,Levi Giese missed Jumper.
+Lafayette,Army,24,40,21,53,0,Dan Trist Offensive Rebound.
+Lafayette,Army,24,40,21,54,0,Jordan Springer Defensive Rebound.
+Lafayette,Army,24,40,21,55,0,Seth Hinrichs missed Three Point Jumper.
+Lafayette,Army,24,40,22,11,0,Jordan Springer Turnover.
+Lafayette,Army,24,40,22,12,0,Joey Ptasinski Steal.
+Lafayette,Army,24,40,22,14,0,Joey Ptasinski missed Jumper.
+Lafayette,Army,24,40,22,14,0,Jordan Springer Defensive Rebound.
+Lafayette,Army,24,40,22,22,0,Matt Gramling missed Jumper.
+Lafayette,Army,24,40,22,22,0,Kevin Ferguson Offensive Rebound.
+Lafayette,Army,24,40,22,25,0,Kevin Ferguson Turnover.
+Lafayette,Army,24,40,22,25,0,Levi Giese Steal.
+Lafayette,Army,26,40,22,46,1,Dan Trist made Layup.
+Lafayette,Army,26,40,22,46,0,Foul on Kevin Ferguson
+Lafayette,Army,26,40,22,46,0,Dan Trist missed Free Throw.
+Lafayette,Army,26,40,22,46,0,Mo Williams Defensive Rebound.
+Lafayette,Army,26,40,22,58,0,Ella Ellis missed Three Point Jumper.
+Lafayette,Army,26,40,22,58,0,Joey Ptasinski Defensive Rebound.
+Lafayette,Army,26,40,23,11,0,Levi Giese missed Three Point Jumper.
+Lafayette,Army,26,40,23,11,0,Kevin Ferguson Defensive Rebound.
+Lafayette,Army,26,40,23,25,0,Matt Gramling Turnover.
+Lafayette,Army,26,40,23,26,0,Zach Rufer Steal.
+Lafayette,Army,28,40,23,39,1,Dan Trist made Layup.
+Lafayette,Army,28,40,23,56,0,Kyle Wilson missed Three Point Jumper.
+Lafayette,Army,28,40,23,56,0,Ella Ellis Offensive Rebound.
+Lafayette,Army,28,41,24,2,1,Ella Ellis made Free Throw.
+Lafayette,Army,28,41,24,2,0,Foul on Zach Rufer
+Lafayette,Army,28,41,24,2,0,Official TV Timeout.
+Lafayette,Army,28,42,24,2,1,Ella Ellis made Free Throw.
+Lafayette,Army,28,42,24,8,0,Joey Ptasinski missed Jumper.
+Lafayette,Army,28,42,24,8,0,Dan Trist Offensive Rebound.
+Lafayette,Army,28,42,24,21,0,Bryce Scott missed Layup.
+Lafayette,Army,28,42,24,21,0,Larry Toomey Block.
+Lafayette,Army,28,42,24,23,0,Dylan Cox Defensive Rebound.
+Lafayette,Army,28,42,24,28,0,Ella Ellis missed Three Point Jumper.
+Lafayette,Army,28,42,24,28,0,Zach Rufer Defensive Rebound.
+Lafayette,Army,28,42,24,35,0,Zach Rufer Turnover.
+Lafayette,Army,28,43,24,36,0,Dylan Cox Steal.
+Lafayette,Army,28,43,24,42,1,Larry Toomey made Free Throw.
+Lafayette,Army,28,43,24,42,0,Foul on Dan Trist
+Lafayette,Army,28,44,24,42,1,Larry Toomey made Free Throw.
+Lafayette,Army,28,46,24,43,1,Ella Ellis made Jumper.
+Lafayette,Army,28,46,25,1,0,Joey Ptasinski missed Three Point Jumper.
+Lafayette,Army,28,46,25,1,0,Larry Toomey Defensive Rebound.
+Lafayette,Army,28,46,25,9,0,Ella Ellis missed Layup.
+Lafayette,Army,28,46,25,9,0,Levi Giese Block.
+Lafayette,Army,28,46,25,11,0,Dylan Cox Offensive Rebound.
+Lafayette,Army,28,48,25,13,1,Dylan Cox made Layup.
+Lafayette,Army,28,48,25,30,0,Bryce Scott missed Jumper.
+Lafayette,Army,28,48,25,30,0,Kyle Toth Defensive Rebound.
+Lafayette,Army,28,48,25,32,0,Foul on Seth Hinrichs
+Lafayette,Army,28,48,25,50,0,Kyle Toth missed Jumper.
+Lafayette,Army,28,48,25,50,0,Lafayette Defensive Rebound.
+Lafayette,Army,31,48,26,6,1,Levi Giese made Three Point Jumper.  Assisted by Seth Hinrichs.
+Lafayette,Army,31,48,26,29,0,Foul on Les Smith
+Lafayette,Army,31,48,26,39,0,Kyle Wilson missed Jumper.
+Lafayette,Army,31,48,26,39,0,Levi Giese Block.
+Lafayette,Army,31,49,26,39,0,Army Offensive Rebound.
+Lafayette,Army,31,49,26,58,1,Andrew Stire made Free Throw.
+Lafayette,Army,31,49,26,58,0,Foul on Les Smith
+Lafayette,Army,31,50,26,58,1,Andrew Stire made Free Throw.
+Lafayette,Army,31,50,27,8,0,Joey Ptasinski missed Three Point Jumper.
+Lafayette,Army,31,50,27,8,0,Army Defensive Rebound.
+Lafayette,Army,31,50,27,44,0,Kyle Wilson missed Jumper.
+Lafayette,Army,31,50,27,44,0,Dan Trist Defensive Rebound.
+Lafayette,Army,31,50,27,47,0,Dan Trist Turnover.
+Lafayette,Army,31,50,27,49,0,Larry Toomey Steal.
+Lafayette,Army,31,50,27,52,0,Maxwell Lenox Turnover.
+Lafayette,Army,31,50,28,4,0,Joey Ptasinski missed Three Point Jumper.
+Lafayette,Army,31,50,28,4,0,Ella Ellis Defensive Rebound.
+Lafayette,Army,31,52,28,15,1,Dylan Cox made Layup.
+Lafayette,Army,31,52,28,30,0,Tony Johnson missed Jumper.
+Lafayette,Army,31,52,28,30,0,Larry Toomey Defensive Rebound.
+Lafayette,Army,31,52,28,40,0,Foul on Alan Flannigan
+Lafayette,Army,31,52,28,40,0,Technical Foul on Larry Toomey
+Lafayette,Army,32,52,28,40,1,Seth Hinrichs made Free Throw.
+Lafayette,Army,32,52,28,40,0,Seth Hinrichs missed Free Throw.
+Lafayette,Army,32,52,28,40,0,null
+Lafayette,Army,32,52,28,41,0,Dan Trist Turnover.
+Lafayette,Army,32,52,28,41,0,Dylan Cox Steal.
+Lafayette,Army,32,52,28,41,0,Kyle Toth missed Three Point Jumper.
+Lafayette,Army,32,52,28,41,0,Dan Trist Defensive Rebound.
+Lafayette,Army,35,52,28,41,1,Bryce Scott made Three Point Jumper.
+Lafayette,Army,35,53,28,42,1,Larry Toomey made Free Throw.
+Lafayette,Army,35,53,28,42,0,Larry Toomey missed Free Throw.
+Lafayette,Army,35,53,28,42,0,null
+Lafayette,Army,35,53,28,49,0,Tanner Plomb Turnover.
+Lafayette,Army,35,53,28,50,0,Bryce Scott Steal.
+Lafayette,Army,37,53,28,51,1,Joey Ptasinski made Layup.
+Lafayette,Army,37,53,29,24,0,Army Full Timeout.
+Lafayette,Army,37,55,29,44,1,Andrew Stire made Layup.  Assisted by Kyle Toth.
+Lafayette,Army,39,55,30,7,1,Dan Trist made Layup.
+Lafayette,Army,39,55,30,7,0,Foul on Andrew Stire
+Lafayette,Army,40,55,30,7,1,Dan Trist made Free Throw.
+Lafayette,Army,40,55,30,9,0,Ella Ellis Turnover.
+Lafayette,Army,40,55,30,9,0,Tony Johnson Steal.
+Lafayette,Army,41,55,30,9,1,Tony Johnson made Free Throw.
+Lafayette,Army,41,55,30,9,0,Foul on Ella Ellis
+Lafayette,Army,42,55,30,9,1,Tony Johnson made Free Throw.
+Lafayette,Army,42,55,30,27,0,Kyle Toth Turnover.
+Lafayette,Army,45,55,30,56,1,Tony Johnson made Three Point Jumper.  Assisted by Joey Ptasinski.
+Lafayette,Army,46,55,31,0,1,Dan Trist made Free Throw.
+Lafayette,Army,46,55,31,0,0,Foul on Jordan Springer
+Lafayette,Army,47,55,31,0,1,Dan Trist made Free Throw.
+Lafayette,Army,47,58,31,1,1,Ella Ellis made Three Point Jumper.  Assisted by Dylan Cox.
+Lafayette,Army,47,58,31,11,0,Tony Johnson Turnover.
+Lafayette,Army,47,58,31,11,0,Foul on Tony Johnson
+Lafayette,Army,47,58,31,15,0,Kyle Toth Turnover.
+Lafayette,Army,47,58,31,16,0,Joey Ptasinski Steal.
+Lafayette,Army,49,58,31,18,1,Joey Ptasinski made Layup.
+Lafayette,Army,49,61,31,27,1,Ella Ellis made Three Point Jumper.  Assisted by Kyle Toth.
+Lafayette,Army,49,61,31,43,0,Zach Rufer missed Three Point Jumper.
+Lafayette,Army,49,61,31,43,0,Alan Flannigan Offensive Rebound.
+Lafayette,Army,49,61,31,43,0,Foul on Larry Toomey
+Lafayette,Army,49,61,31,43,0,Alan Flannigan missed Free Throw.
+Lafayette,Army,49,61,31,43,0,Jordan Springer Defensive Rebound.
+Lafayette,Army,49,61,31,52,0,Foul on Zach Rufer
+Lafayette,Army,49,61,31,52,0,Dylan Cox missed Free Throw.
+Lafayette,Army,49,61,31,52,0,Army Offensive Rebound.
+Lafayette,Army,49,61,32,10,0,Kyle Wilson Turnover.
+Lafayette,Army,49,61,32,11,0,Dan Trist Steal.
+Lafayette,Army,49,61,32,25,0,Seth Hinrichs missed Jumper.
+Lafayette,Army,49,61,32,25,0,Tony Johnson Offensive Rebound.
+Lafayette,Army,49,61,32,45,0,Joey Ptasinski missed Three Point Jumper.
+Lafayette,Army,49,61,32,45,0,Jordan Springer Defensive Rebound.
+Lafayette,Army,49,61,33,1,0,Foul on Tony Johnson
+Lafayette,Army,49,61,33,1,0,Official TV Timeout.
+Lafayette,Army,49,62,33,1,1,Dylan Cox made Free Throw.
+Lafayette,Army,49,63,33,1,1,Dylan Cox made Free Throw.
+Lafayette,Army,49,63,33,6,0,Foul on Jordan Springer
+Lafayette,Army,50,63,33,6,1,Bryce Scott made Free Throw.
+Lafayette,Army,51,63,33,6,1,Bryce Scott made Free Throw.
+Lafayette,Army,51,66,33,28,1,Ella Ellis made Three Point Jumper.  Assisted by Andrew Stire.
+Lafayette,Army,51,66,33,29,0,Foul on Levi Giese
+Lafayette,Army,51,66,33,29,0,Ella Ellis missed Free Throw.
+Lafayette,Army,51,66,33,29,0,Dan Trist Defensive Rebound.
+Lafayette,Army,53,66,33,53,1,Dan Trist made Jumper.
+Lafayette,Army,53,68,34,4,1,Dylan Cox made Layup.  Assisted by Ella Ellis.
+Lafayette,Army,53,68,34,20,0,Foul on Andrew Stire
+Lafayette,Army,54,68,34,20,1,Dan Trist made Free Throw.
+Lafayette,Army,54,68,34,20,0,Dan Trist missed Free Throw.
+Lafayette,Army,54,68,34,20,0,Kyle Toth Defensive Rebound.
+Lafayette,Army,54,68,34,45,0,Foul on Tony Johnson
+Lafayette,Army,54,69,34,45,1,Kyle Wilson made Free Throw.
+Lafayette,Army,54,69,34,45,0,Kyle Wilson missed Free Throw.
+Lafayette,Army,54,69,34,45,0,Levi Giese Defensive Rebound.
+Lafayette,Army,54,69,34,59,0,Dan Trist missed Jumper.
+Lafayette,Army,54,69,34,59,0,Kyle Toth Defensive Rebound.
+Lafayette,Army,54,69,35,8,0,Army Full Timeout.
+Lafayette,Army,54,71,35,35,1,Matt Gramling made Jumper.
+Lafayette,Army,54,71,35,59,0,Seth Hinrichs Turnover.
+Lafayette,Army,54,71,36,0,0,Ella Ellis Steal.
+Lafayette,Army,54,71,36,26,0,Mo Williams Turnover.
+Lafayette,Army,54,71,36,26,0,Official TV Timeout.
+Lafayette,Army,54,71,36,42,0,Tony Johnson missed Three Point Jumper.
+Lafayette,Army,54,71,36,42,0,Lafayette Offensive Rebound.
+Lafayette,Army,54,71,36,53,0,Levi Giese missed Three Point Jumper.
+Lafayette,Army,54,71,36,53,0,Dylan Cox Defensive Rebound.
+Lafayette,Army,54,73,37,17,1,Kyle Wilson made Layup.
+Lafayette,Army,54,73,37,26,0,Bryce Scott missed Three Point Jumper.
+Lafayette,Army,54,73,37,26,0,Kyle Toth Defensive Rebound.
+Lafayette,Army,54,73,38,2,0,Foul on Jack Detmer
+Lafayette,Army,54,73,38,2,0,Ella Ellis missed Free Throw.
+Lafayette,Army,54,73,38,2,0,null
+Lafayette,Army,54,74,38,2,1,Ella Ellis made Free Throw.
+Lafayette,Army,54,74,38,10,0,Zach Rufer missed Three Point Jumper.
+Lafayette,Army,54,74,38,10,0,Army Defensive Rebound.
+Lafayette,Army,54,74,38,37,0,Larry Toomey Turnover.
+Lafayette,Army,54,74,38,37,0,Jack Detmer Steal.
+Lafayette,Army,54,74,38,37,0,Jack Detmer Turnover.
+Lafayette,Army,54,74,39,3,0,Foul on Ben Freeland
+Lafayette,Army,54,75,39,3,1,Ella Ellis made Free Throw.
+Lafayette,Army,54,76,39,3,1,Ella Ellis made Free Throw.
+Lafayette,Army,54,77,39,3,1,Ella Ellis made Free Throw.
+Lafayette,Army,54,77,39,22,0,Nathaniel Musters Turnover.
+Lafayette,Army,54,77,39,23,0,Ella Ellis Steal.
+Lafayette,Army,54,77,40,0,0,End Game

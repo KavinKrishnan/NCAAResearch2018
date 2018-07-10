@@ -1,0 +1,319 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Pittsburgh,Stanford,0,0,0,0,0,Jump Ball won by Stanford
+Pittsburgh,Stanford,0,0,0,26,0,Dwight Powell Turnover.
+Pittsburgh,Stanford,0,0,0,26,0,Cameron Wright Steal.
+Pittsburgh,Stanford,2,0,0,32,1,Talib Zanna made Dunk. Assisted by Cameron Wright.
+Pittsburgh,Stanford,2,0,0,44,0,Dwight Powell missed Jumper.
+Pittsburgh,Stanford,2,0,0,44,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Stanford,2,0,0,59,0,Lamar Patterson Turnover.
+Pittsburgh,Stanford,2,2,1,5,1,Josh Huestis made Dunk. Assisted by Stefan Nastic.
+Pittsburgh,Stanford,5,2,1,38,1,James Robinson made Three Point Jumper. Assisted by Lamar Patterson.
+Pittsburgh,Stanford,5,2,2,11,0,Foul on Michael Young.
+Pittsburgh,Stanford,5,2,2,11,0,Dwight Powell missed Free Throw.
+Pittsburgh,Stanford,5,2,2,11,0,Stanford Deadball Team Rebound.
+Pittsburgh,Stanford,5,3,2,11,1,Dwight Powell made Free Throw.
+Pittsburgh,Stanford,7,3,2,38,1,Cameron Wright made Layup. Assisted by Lamar Patterson.
+Pittsburgh,Stanford,7,3,2,44,0,Foul on James Robinson.
+Pittsburgh,Stanford,7,3,2,55,0,Josh Huestis missed Jumper.
+Pittsburgh,Stanford,7,3,2,55,0,Lamar Patterson Block.
+Pittsburgh,Stanford,7,3,2,55,0,Pittsburgh Defensive Rebound.
+Pittsburgh,Stanford,9,3,3,8,1,Talib Zanna made Jumper. Assisted by Lamar Patterson.
+Pittsburgh,Stanford,9,3,3,16,0,Stanford  Timeout
+Pittsburgh,Stanford,9,3,3,30,0,Josh Huestis missed Jumper.
+Pittsburgh,Stanford,9,3,3,30,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Stanford,9,3,3,44,0,Cameron Wright missed Jumper.
+Pittsburgh,Stanford,9,3,3,44,0,Dwight Powell Defensive Rebound.
+Pittsburgh,Stanford,9,5,3,55,1,Dwight Powell made Dunk.
+Pittsburgh,Stanford,9,5,4,35,0,Cameron Wright missed Jumper.
+Pittsburgh,Stanford,9,5,4,35,0,Pittsburgh Defensive Rebound.
+Pittsburgh,Stanford,9,5,4,40,0,Official TV Timeout
+Pittsburgh,Stanford,9,7,4,52,1,Chasson Randle made Layup.
+Pittsburgh,Stanford,9,7,5,10,0,Lamar Patterson missed Three Point Jumper.
+Pittsburgh,Stanford,9,7,5,10,0,Stefan Nastic Defensive Rebound.
+Pittsburgh,Stanford,9,7,5,18,0,Chasson Randle missed Three Point Jumper.
+Pittsburgh,Stanford,9,7,5,18,0,James Robinson Defensive Rebound.
+Pittsburgh,Stanford,9,7,5,27,0,Talib Zanna missed Layup.
+Pittsburgh,Stanford,9,7,5,27,0,Pittsburgh Offensive Rebound.
+Pittsburgh,Stanford,9,7,5,32,0,Foul on Josh Huestis.
+Pittsburgh,Stanford,9,7,5,46,0,Durand Johnson Turnover.
+Pittsburgh,Stanford,9,7,5,46,0,Josh Huestis Steal.
+Pittsburgh,Stanford,9,7,5,55,0,Foul on Durand Johnson.
+Pittsburgh,Stanford,9,7,5,57,0,Dwight Powell missed Jumper.
+Pittsburgh,Stanford,9,7,5,57,0,Jamel Artis Block.
+Pittsburgh,Stanford,9,7,5,57,0,Mike Lecak Defensive Rebound.
+Pittsburgh,Stanford,9,7,6,6,0,Cameron Wright Turnover.
+Pittsburgh,Stanford,9,7,6,6,0,Chasson Randle Steal.
+Pittsburgh,Stanford,9,7,6,6,0,Foul on Jamel Artis.
+Pittsburgh,Stanford,9,8,6,6,1,Dwight Powell made Free Throw.
+Pittsburgh,Stanford,9,9,6,6,1,Dwight Powell made Free Throw.
+Pittsburgh,Stanford,9,9,6,28,0,Durand Johnson missed Three Point Jumper.
+Pittsburgh,Stanford,9,9,6,28,0,Dwight Powell Defensive Rebound.
+Pittsburgh,Stanford,9,9,6,37,0,Anthony Brown Turnover.
+Pittsburgh,Stanford,9,9,6,37,0,Durand Johnson Steal.
+Pittsburgh,Stanford,9,9,6,42,0,Durand Johnson missed Layup.
+Pittsburgh,Stanford,9,9,6,42,0,Pittsburgh Offensive Rebound.
+Pittsburgh,Stanford,9,9,6,42,0,Foul on Anthony Brown.
+Pittsburgh,Stanford,12,9,6,58,1,Jamel Artis made Three Point Jumper. Assisted by Cameron Wright.
+Pittsburgh,Stanford,12,9,7,20,0,Dwight Powell Turnover.
+Pittsburgh,Stanford,12,9,7,42,0,Josh Newkirk missed Three Point Jumper.
+Pittsburgh,Stanford,12,9,7,42,0,Stanford Defensive Rebound.
+Pittsburgh,Stanford,12,9,7,45,0,Foul on Derrick Randall.
+Pittsburgh,Stanford,12,11,8,0,1,Chasson Randle made Jumper.
+Pittsburgh,Stanford,15,11,8,32,1,Cameron Wright made Three Point Jumper. Assisted by Lamar Patterson.
+Pittsburgh,Stanford,15,11,8,44,0,Anthony Brown missed Layup.
+Pittsburgh,Stanford,15,11,8,44,0,Josh Newkirk Defensive Rebound.
+Pittsburgh,Stanford,15,11,8,50,0,Josh Newkirk missed Jumper.
+Pittsburgh,Stanford,15,11,8,50,0,Josh Huestis Defensive Rebound.
+Pittsburgh,Stanford,15,11,9,9,0,Josh Huestis Turnover.
+Pittsburgh,Stanford,15,11,9,9,0,Cameron Wright Steal.
+Pittsburgh,Stanford,15,11,9,22,0,Foul on Josh Huestis.
+Pittsburgh,Stanford,15,11,9,22,0,Official TV Timeout
+Pittsburgh,Stanford,16,11,9,22,1,Jamel Artis made Free Throw.
+Pittsburgh,Stanford,17,11,9,22,1,Jamel Artis made Free Throw.
+Pittsburgh,Stanford,17,11,9,41,0,Josh Huestis missed Jumper.
+Pittsburgh,Stanford,17,11,9,41,0,Dwight Powell Offensive Rebound.
+Pittsburgh,Stanford,17,13,9,46,1,Dwight Powell made Jumper.
+Pittsburgh,Stanford,17,13,10,5,0,Talib Zanna missed Dunk.
+Pittsburgh,Stanford,17,13,10,5,0,Anthony Brown Block.
+Pittsburgh,Stanford,17,13,10,5,0,Anthony Brown Defensive Rebound.
+Pittsburgh,Stanford,17,13,10,35,0,Chasson Randle missed Three Point Jumper.
+Pittsburgh,Stanford,17,13,10,35,0,James Robinson Defensive Rebound.
+Pittsburgh,Stanford,19,13,10,45,1,Talib Zanna made Layup. Assisted by Cameron Wright.
+Pittsburgh,Stanford,19,13,11,4,0,Foul on Anthony Brown.
+Pittsburgh,Stanford,19,13,11,4,0,Anthony Brown Turnover.
+Pittsburgh,Stanford,19,13,11,12,0,Talib Zanna missed Jumper.
+Pittsburgh,Stanford,19,13,11,12,0,Dwight Powell Defensive Rebound.
+Pittsburgh,Stanford,19,15,11,23,1,Stefan Nastic made Jumper. Assisted by Dwight Powell.
+Pittsburgh,Stanford,22,15,11,50,1,Lamar Patterson made Three Point Jumper. Assisted by James Robinson.
+Pittsburgh,Stanford,22,18,12,15,1,Aaron Bright made Three Point Jumper. Assisted by Stefan Nastic.
+Pittsburgh,Stanford,22,18,12,47,0,Foul on Stefan Nastic.
+Pittsburgh,Stanford,22,18,12,47,0,Official TV Timeout
+Pittsburgh,Stanford,23,18,12,47,1,Lamar Patterson made Free Throw.
+Pittsburgh,Stanford,24,18,12,47,1,Lamar Patterson made Free Throw.
+Pittsburgh,Stanford,24,18,13,1,0,Aaron Bright Turnover.
+Pittsburgh,Stanford,24,18,13,1,0,James Robinson Steal.
+Pittsburgh,Stanford,26,18,13,6,1,Cameron Wright made Layup. Assisted by James Robinson.
+Pittsburgh,Stanford,26,18,13,23,0,Chasson Randle missed Three Point Jumper.
+Pittsburgh,Stanford,26,18,13,23,0,Dwight Powell Offensive Rebound.
+Pittsburgh,Stanford,26,20,13,30,1,Josh Huestis made Jumper. Assisted by Dwight Powell.
+Pittsburgh,Stanford,28,20,13,50,1,Cameron Wright made Layup.
+Pittsburgh,Stanford,28,20,14,5,0,Stefan Nastic Turnover.
+Pittsburgh,Stanford,28,20,14,5,0,Derrick Randall Steal.
+Pittsburgh,Stanford,28,20,14,9,0,Foul on Stefan Nastic.
+Pittsburgh,Stanford,28,20,14,43,0,Foul on Schuyler Rimmer.
+Pittsburgh,Stanford,29,20,14,43,1,Durand Johnson made Free Throw.
+Pittsburgh,Stanford,30,20,14,43,1,Durand Johnson made Free Throw.
+Pittsburgh,Stanford,30,20,14,55,0,Dwight Powell Turnover.
+Pittsburgh,Stanford,30,20,15,18,0,Foul on Josh Huestis.
+Pittsburgh,Stanford,31,20,15,18,1,Talib Zanna made Free Throw.
+Pittsburgh,Stanford,32,20,15,18,1,Talib Zanna made Free Throw.
+Pittsburgh,Stanford,32,20,15,23,0,Stanford  Timeout
+Pittsburgh,Stanford,32,22,15,38,1,Dwight Powell made Layup. Assisted by Aaron Bright.
+Pittsburgh,Stanford,32,22,16,7,0,Foul on Aaron Bright.
+Pittsburgh,Stanford,32,22,16,7,0,Official TV Timeout
+Pittsburgh,Stanford,32,22,16,7,0,Technical Foul on Stanford.
+Pittsburgh,Stanford,32,22,16,7,0,Foul on Stanford.
+Pittsburgh,Stanford,33,22,16,7,1,Lamar Patterson made Free Throw.
+Pittsburgh,Stanford,34,22,16,7,1,Lamar Patterson made Free Throw.
+Pittsburgh,Stanford,34,22,16,7,0,Lamar Patterson missed Free Throw.
+Pittsburgh,Stanford,34,22,16,7,0,Anthony Brown Defensive Rebound.
+Pittsburgh,Stanford,34,22,16,33,0,Schuyler Rimmer missed Jumper.
+Pittsburgh,Stanford,34,22,16,33,0,Talib Zanna Defensive Rebound.
+Pittsburgh,Stanford,37,22,16,41,1,Durand Johnson made Three Point Jumper. Assisted by Cameron Wright.
+Pittsburgh,Stanford,37,22,16,55,0,Aaron Bright missed Three Point Jumper.
+Pittsburgh,Stanford,37,22,16,55,0,James Robinson Defensive Rebound.
+Pittsburgh,Stanford,37,22,17,30,0,Foul on Talib Zanna.
+Pittsburgh,Stanford,37,22,17,30,0,Talib Zanna Turnover.
+Pittsburgh,Stanford,37,24,17,41,1,Dwight Powell made Jumper.
+Pittsburgh,Stanford,37,24,17,57,0,Lamar Patterson missed Three Point Jumper.
+Pittsburgh,Stanford,37,24,17,57,0,Pittsburgh Offensive Rebound.
+Pittsburgh,Stanford,37,24,18,16,0,James Robinson missed Jumper.
+Pittsburgh,Stanford,37,24,18,16,0,Stanford Defensive Rebound.
+Pittsburgh,Stanford,37,24,18,32,0,John Gage missed Three Point Jumper.
+Pittsburgh,Stanford,37,24,18,32,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Stanford,37,24,18,39,0,Durand Johnson missed Three Point Jumper.
+Pittsburgh,Stanford,37,24,18,39,0,Durand Johnson Offensive Rebound.
+Pittsburgh,Stanford,39,24,18,44,1,Durand Johnson made Layup.
+Pittsburgh,Stanford,39,26,19,0,1,Chasson Randle made Layup. Assisted by Dwight Powell.
+Pittsburgh,Stanford,39,26,19,25,0,Foul on John Gage.
+Pittsburgh,Stanford,40,26,19,25,1,Lamar Patterson made Free Throw.
+Pittsburgh,Stanford,41,26,19,25,1,Lamar Patterson made Free Throw.
+Pittsburgh,Stanford,41,26,19,48,0,Chasson Randle Turnover.
+Pittsburgh,Stanford,41,26,19,48,0,James Robinson Steal.
+Pittsburgh,Stanford,41,26,19,54,0,Foul on Chasson Randle.
+Pittsburgh,Stanford,42,26,19,54,1,James Robinson made Free Throw.
+Pittsburgh,Stanford,43,26,19,54,1,James Robinson made Free Throw.
+Pittsburgh,Stanford,43,26,19,54,0,Pittsburgh  Timeout
+Pittsburgh,Stanford,43,26,19,57,0,Foul on James Robinson.
+Pittsburgh,Stanford,43,27,19,57,1,Chasson Randle made Free Throw.
+Pittsburgh,Stanford,43,28,19,57,1,Chasson Randle made Free Throw.
+Pittsburgh,Stanford,43,28,20,0,0,End of 1st half
+Pittsburgh,Stanford,43,28,20,0,0,Jump Ball won by Pittsburgh
+Pittsburgh,Stanford,45,28,20,32,1,Lamar Patterson made Jumper.
+Pittsburgh,Stanford,45,31,20,46,1,Anthony Brown made Three Point Jumper. Assisted by Dwight Powell.
+Pittsburgh,Stanford,45,31,21,0,0,James Robinson Turnover.
+Pittsburgh,Stanford,45,31,21,0,0,Chasson Randle Steal.
+Pittsburgh,Stanford,45,33,21,4,1,Dwight Powell made Dunk. Assisted by Chasson Randle.
+Pittsburgh,Stanford,45,33,21,7,0,Pittsburgh  Timeout
+Pittsburgh,Stanford,45,33,21,18,0,James Robinson missed Layup.
+Pittsburgh,Stanford,45,33,21,18,0,Michael Young Offensive Rebound.
+Pittsburgh,Stanford,47,33,21,21,1,Michael Young made Layup.
+Pittsburgh,Stanford,47,33,21,21,0,Foul on Josh Huestis.
+Pittsburgh,Stanford,48,33,21,21,1,Michael Young made Free Throw.
+Pittsburgh,Stanford,48,33,21,25,0,Stefan Nastic Turnover.
+Pittsburgh,Stanford,48,33,21,25,0,Lamar Patterson Steal.
+Pittsburgh,Stanford,50,33,21,30,1,Talib Zanna made Layup. Assisted by Lamar Patterson.
+Pittsburgh,Stanford,50,35,21,50,1,Stefan Nastic made Jumper.
+Pittsburgh,Stanford,50,35,22,22,0,Foul on Dwight Powell.
+Pittsburgh,Stanford,51,35,22,22,1,Michael Young made Free Throw.
+Pittsburgh,Stanford,52,35,22,22,1,Michael Young made Free Throw.
+Pittsburgh,Stanford,52,38,22,32,1,Anthony Brown made Three Point Jumper. Assisted by Stefan Nastic.
+Pittsburgh,Stanford,52,38,23,10,0,Lamar Patterson missed Jumper.
+Pittsburgh,Stanford,52,38,23,10,0,Stanford Defensive Rebound.
+Pittsburgh,Stanford,52,38,23,15,0,Foul on Talib Zanna.
+Pittsburgh,Stanford,52,40,23,39,1,Anthony Brown made Jumper.
+Pittsburgh,Stanford,54,40,24,3,1,Cameron Wright made Jumper.
+Pittsburgh,Stanford,54,40,24,8,0,Pittsburgh  Timeout
+Pittsburgh,Stanford,54,40,24,18,0,Anthony Brown missed Jumper.
+Pittsburgh,Stanford,54,40,24,18,0,James Robinson Defensive Rebound.
+Pittsburgh,Stanford,54,40,24,34,0,Talib Zanna missed Jumper.
+Pittsburgh,Stanford,54,40,24,35,0,Dwight Powell Block.
+Pittsburgh,Stanford,54,40,24,36,0,Talib Zanna Offensive Rebound.
+Pittsburgh,Stanford,57,40,24,37,1,Lamar Patterson made Three Point Jumper. Assisted by Talib Zanna.
+Pittsburgh,Stanford,57,40,24,46,0,Foul on Cameron Wright.
+Pittsburgh,Stanford,57,40,24,46,0,Official TV Timeout
+Pittsburgh,Stanford,57,43,24,59,1,Anthony Brown made Three Point Jumper. Assisted by Dwight Powell.
+Pittsburgh,Stanford,59,43,25,30,1,Lamar Patterson made Jumper.
+Pittsburgh,Stanford,59,45,25,42,1,Josh Huestis made Jumper.
+Pittsburgh,Stanford,59,45,26,7,0,Foul on Chasson Randle.
+Pittsburgh,Stanford,60,45,26,7,1,Talib Zanna made Free Throw.
+Pittsburgh,Stanford,61,45,26,7,1,Talib Zanna made Free Throw.
+Pittsburgh,Stanford,61,45,26,15,0,Foul on Derrick Randall.
+Pittsburgh,Stanford,61,45,26,20,0,Chasson Randle missed Three Point Jumper.
+Pittsburgh,Stanford,61,45,26,20,0,Jamel Artis Defensive Rebound.
+Pittsburgh,Stanford,61,45,26,32,0,Foul on Anthony Brown.
+Pittsburgh,Stanford,62,45,26,32,1,James Robinson made Free Throw.
+Pittsburgh,Stanford,63,45,26,32,1,James Robinson made Free Throw.
+Pittsburgh,Stanford,63,47,26,41,1,Dwight Powell made Layup.
+Pittsburgh,Stanford,65,47,26,55,1,Lamar Patterson made Layup.
+Pittsburgh,Stanford,65,47,27,21,0,Josh Huestis Turnover.
+Pittsburgh,Stanford,65,47,27,42,0,Durand Johnson missed Three Point Jumper.
+Pittsburgh,Stanford,65,47,27,42,0,Anthony Brown Defensive Rebound.
+Pittsburgh,Stanford,65,47,28,1,0,Foul on Lamar Patterson.
+Pittsburgh,Stanford,65,47,28,1,0,Official TV Timeout
+Pittsburgh,Stanford,65,48,28,1,1,Dwight Powell made Free Throw.
+Pittsburgh,Stanford,65,49,28,1,1,Dwight Powell made Free Throw.
+Pittsburgh,Stanford,65,49,28,33,0,James Robinson missed Three Point Jumper.
+Pittsburgh,Stanford,65,49,28,33,0,Michael Young Offensive Rebound.
+Pittsburgh,Stanford,65,49,28,33,0,Michael Young missed Two Point Tip Shot.
+Pittsburgh,Stanford,65,49,28,33,0,Dwight Powell Defensive Rebound.
+Pittsburgh,Stanford,65,49,28,55,0,Foul on Michael Young.
+Pittsburgh,Stanford,65,49,29,17,0,Jump Ball won by Stanford
+Pittsburgh,Stanford,65,49,29,18,0,Aaron Bright missed Three Point Jumper.
+Pittsburgh,Stanford,65,49,29,18,0,Talib Zanna Defensive Rebound.
+Pittsburgh,Stanford,65,49,29,25,0,Lamar Patterson missed Three Point Jumper.
+Pittsburgh,Stanford,65,49,29,25,0,Josh Huestis Defensive Rebound.
+Pittsburgh,Stanford,65,49,29,35,0,Foul on Durand Johnson.
+Pittsburgh,Stanford,65,52,29,50,1,Anthony Brown made Three Point Jumper. Assisted by Aaron Bright.
+Pittsburgh,Stanford,65,52,30,12,0,Foul on Grant Verhoeven.
+Pittsburgh,Stanford,65,52,30,12,0,James Robinson missed Free Throw.
+Pittsburgh,Stanford,65,52,30,12,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Stanford,66,52,30,12,1,James Robinson made Free Throw.
+Pittsburgh,Stanford,66,52,30,19,0,Foul on Michael Young.
+Pittsburgh,Stanford,66,53,30,19,1,Josh Huestis made Free Throw.
+Pittsburgh,Stanford,66,53,30,19,0,Josh Huestis missed Free Throw.
+Pittsburgh,Stanford,66,53,30,19,0,Anthony Brown Offensive Rebound.
+Pittsburgh,Stanford,66,53,30,28,0,Aaron Bright Turnover.
+Pittsburgh,Stanford,66,53,30,33,0,Michael Young missed Jumper.
+Pittsburgh,Stanford,66,53,30,33,0,Talib Zanna Offensive Rebound.
+Pittsburgh,Stanford,66,53,30,36,0,Talib Zanna missed Dunk.
+Pittsburgh,Stanford,66,53,30,36,0,Dwight Powell Block.
+Pittsburgh,Stanford,66,53,30,36,0,Anthony Brown Defensive Rebound.
+Pittsburgh,Stanford,66,53,30,52,0,Dwight Powell missed Layup.
+Pittsburgh,Stanford,66,53,30,52,0,Josh Huestis Offensive Rebound.
+Pittsburgh,Stanford,66,55,30,52,1,Josh Huestis made Two Point Tip Shot.
+Pittsburgh,Stanford,66,55,31,13,0,James Robinson missed Layup.
+Pittsburgh,Stanford,66,55,31,13,0,Chasson Randle Defensive Rebound.
+Pittsburgh,Stanford,66,55,31,46,0,Chasson Randle missed Three Point Jumper.
+Pittsburgh,Stanford,66,55,31,46,0,Jamel Artis Defensive Rebound.
+Pittsburgh,Stanford,69,55,31,55,1,Durand Johnson made Three Point Jumper. Assisted by James Robinson.
+Pittsburgh,Stanford,69,55,31,55,0,Foul on Chasson Randle.
+Pittsburgh,Stanford,70,55,31,55,1,Durand Johnson made Free Throw.
+Pittsburgh,Stanford,70,55,32,6,0,Foul on Derrick Randall.
+Pittsburgh,Stanford,70,55,32,6,0,Official TV Timeout
+Pittsburgh,Stanford,70,56,32,6,1,Dwight Powell made Free Throw.
+Pittsburgh,Stanford,70,56,32,6,0,Dwight Powell missed Free Throw.
+Pittsburgh,Stanford,70,56,32,6,0,Jamel Artis Defensive Rebound.
+Pittsburgh,Stanford,70,56,32,32,0,James Robinson missed Jumper.
+Pittsburgh,Stanford,70,56,32,32,0,Michael Young Offensive Rebound.
+Pittsburgh,Stanford,70,56,32,35,0,Michael Young missed Layup.
+Pittsburgh,Stanford,70,56,32,35,0,Josh Huestis Block.
+Pittsburgh,Stanford,70,56,32,35,0,Aaron Bright Defensive Rebound.
+Pittsburgh,Stanford,70,56,32,43,0,Aaron Bright missed Layup.
+Pittsburgh,Stanford,70,56,32,43,0,Michael Young Defensive Rebound.
+Pittsburgh,Stanford,70,56,33,3,0,Foul on Anthony Brown.
+Pittsburgh,Stanford,71,56,33,3,1,Michael Young made Free Throw.
+Pittsburgh,Stanford,71,56,33,3,0,Michael Young missed Free Throw.
+Pittsburgh,Stanford,71,56,33,3,0,Dwight Powell Defensive Rebound.
+Pittsburgh,Stanford,71,56,33,11,0,Stefan Nastic missed Jumper.
+Pittsburgh,Stanford,71,56,33,11,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Stanford,73,56,33,18,1,Cameron Wright made Jumper.
+Pittsburgh,Stanford,73,58,33,35,1,Dwight Powell made Layup.
+Pittsburgh,Stanford,73,58,33,35,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Stanford,73,58,33,35,0,Dwight Powell missed Free Throw.
+Pittsburgh,Stanford,75,58,34,3,1,Durand Johnson made Jumper.
+Pittsburgh,Stanford,75,58,34,3,0,Foul on Stefan Nastic.
+Pittsburgh,Stanford,76,58,34,3,1,Durand Johnson made Free Throw.
+Pittsburgh,Stanford,76,58,34,11,0,Foul on Talib Zanna.
+Pittsburgh,Stanford,76,58,34,11,0,Stefan Nastic missed Free Throw.
+Pittsburgh,Stanford,76,58,34,11,0,Stanford Deadball Team Rebound.
+Pittsburgh,Stanford,76,59,34,11,1,Stefan Nastic made Free Throw.
+Pittsburgh,Stanford,76,59,34,18,0,Durand Johnson missed Jumper.
+Pittsburgh,Stanford,76,59,34,18,0,Durand Johnson Offensive Rebound.
+Pittsburgh,Stanford,76,59,34,22,0,Durand Johnson missed Jumper.
+Pittsburgh,Stanford,76,59,34,22,0,Dwight Powell Block.
+Pittsburgh,Stanford,76,59,34,22,0,Dwight Powell Defensive Rebound.
+Pittsburgh,Stanford,76,61,34,28,1,Anthony Brown made Layup. Assisted by Dwight Powell.
+Pittsburgh,Stanford,78,61,34,53,1,Talib Zanna made Dunk. Assisted by Lamar Patterson.
+Pittsburgh,Stanford,78,61,35,6,0,Stefan Nastic missed Jumper.
+Pittsburgh,Stanford,78,61,35,6,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Stanford,78,61,35,36,0,Josh Newkirk missed Three Point Jumper.
+Pittsburgh,Stanford,78,61,35,36,0,Josh Huestis Defensive Rebound.
+Pittsburgh,Stanford,78,61,35,51,0,Stefan Nastic missed Jumper.
+Pittsburgh,Stanford,78,61,35,51,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Stanford,78,61,36,24,0,Foul on Dwight Powell.
+Pittsburgh,Stanford,78,61,36,24,0,Official TV Timeout
+Pittsburgh,Stanford,79,61,36,24,1,Lamar Patterson made Free Throw.
+Pittsburgh,Stanford,80,61,36,24,1,Lamar Patterson made Free Throw.
+Pittsburgh,Stanford,80,61,36,30,0,Foul on Cameron Wright.
+Pittsburgh,Stanford,80,62,36,30,1,Chasson Randle made Free Throw.
+Pittsburgh,Stanford,80,63,36,30,1,Chasson Randle made Free Throw.
+Pittsburgh,Stanford,80,63,36,46,0,Cameron Wright missed Jumper.
+Pittsburgh,Stanford,80,63,36,46,0,Anthony Brown Defensive Rebound.
+Pittsburgh,Stanford,80,63,36,55,0,Anthony Brown Turnover.
+Pittsburgh,Stanford,80,63,36,55,0,Lamar Patterson Steal.
+Pittsburgh,Stanford,80,63,37,15,0,Foul on Chasson Randle.
+Pittsburgh,Stanford,81,63,37,15,1,James Robinson made Free Throw.
+Pittsburgh,Stanford,82,63,37,15,1,James Robinson made Free Throw.
+Pittsburgh,Stanford,82,63,37,20,0,Dwight Powell missed Three Point Jumper.
+Pittsburgh,Stanford,82,63,37,20,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Stanford,82,63,37,20,0,Cameron Wright missed Jumper.
+Pittsburgh,Stanford,82,63,37,20,0,Pittsburgh Offensive Rebound.
+Pittsburgh,Stanford,85,63,37,56,1,Lamar Patterson made Three Point Jumper. Assisted by James Robinson.
+Pittsburgh,Stanford,85,63,38,0,0,Dwight Powell Turnover.
+Pittsburgh,Stanford,85,63,38,0,0,Cameron Wright Steal.
+Pittsburgh,Stanford,85,63,38,39,0,Foul on Marcus Allen.
+Pittsburgh,Stanford,86,63,38,39,1,Lamar Patterson made Free Throw.
+Pittsburgh,Stanford,86,63,38,39,0,Lamar Patterson missed Free Throw.
+Pittsburgh,Stanford,86,63,38,39,0,John Gage Defensive Rebound.
+Pittsburgh,Stanford,86,63,38,58,0,Foul on Chris Jones.
+Pittsburgh,Stanford,86,63,38,58,0,Marcus Allen missed Free Throw.
+Pittsburgh,Stanford,86,63,38,58,0,Stanford Deadball Team Rebound.
+Pittsburgh,Stanford,86,64,38,58,1,Marcus Allen made Free Throw.
+Pittsburgh,Stanford,88,64,39,18,1,Chris Jones made Jumper.
+Pittsburgh,Stanford,88,66,39,34,1,Malcolm Allen made Layup.
+Pittsburgh,Stanford,88,66,39,34,0,Foul on Mike Lecak.
+Pittsburgh,Stanford,88,67,39,34,1,Malcolm Allen made Free Throw.
+Pittsburgh,Stanford,88,67,39,52,0,Joshua Ko missed Jumper.
+Pittsburgh,Stanford,88,67,39,52,0,John Gage Defensive Rebound.
+Pittsburgh,Stanford,88,67,40,0,0,End of Game

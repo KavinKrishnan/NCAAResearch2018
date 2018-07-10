@@ -1,0 +1,327 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+USC,UCLA,0,0,0,0,0,Jump Ball won by USC.
+USC,UCLA,3,0,0,17,1,J.T. Terrell made Three Point Jumper.  Assisted by Jio Fontan.
+USC,UCLA,3,0,0,40,0,Travis Wear missed Three Point Jumper.
+USC,UCLA,3,0,0,40,0,J.T. Terrell Defensive Rebound.
+USC,UCLA,3,0,0,48,0,Foul on Dewayne Dedmon
+USC,UCLA,3,0,0,48,0,Dewayne Dedmon Turnover.
+USC,UCLA,3,0,1,3,0,Shabazz Muhammad missed Jumper.
+USC,UCLA,3,0,1,3,0,J.T. Terrell Defensive Rebound.
+USC,UCLA,3,0,1,13,0,Jio Fontan missed Layup.
+USC,UCLA,3,0,1,13,0,Kyle Anderson Defensive Rebound.
+USC,UCLA,3,0,1,18,0,Kyle Anderson missed Jumper.
+USC,UCLA,3,0,1,18,0,Byron Wesley Defensive Rebound.
+USC,UCLA,3,0,1,30,0,Eric Wise Turnover.
+USC,UCLA,3,0,1,30,0,Shabazz Muhammad Steal.
+USC,UCLA,3,0,1,34,0,Foul on Jio Fontan
+USC,UCLA,3,0,1,34,0,Shabazz Muhammad missed Free Throw.
+USC,UCLA,3,0,1,34,0,null
+USC,UCLA,3,1,1,34,1,Shabazz Muhammad made Free Throw.
+USC,UCLA,3,1,1,46,0,Dewayne Dedmon Turnover.
+USC,UCLA,3,1,1,57,0,Shabazz Muhammad missed Three Point Jumper.
+USC,UCLA,3,1,1,57,0,Jio Fontan Defensive Rebound.
+USC,UCLA,5,1,2,4,1,Byron Wesley made Layup.  Assisted by Jio Fontan.
+USC,UCLA,5,3,2,20,1,Travis Wear made Jumper.
+USC,UCLA,5,3,2,51,0,J.T. Terrell missed Jumper.
+USC,UCLA,5,3,2,51,0,Shabazz Muhammad Defensive Rebound.
+USC,UCLA,5,3,3,0,0,Foul on J.T. Terrell
+USC,UCLA,5,3,3,22,0,Larry Drew II missed Layup.
+USC,UCLA,5,3,3,22,0,Shabazz Muhammad Offensive Rebound.
+USC,UCLA,5,3,3,24,0,Foul on Dewayne Dedmon
+USC,UCLA,5,4,3,24,1,Shabazz Muhammad made Free Throw.
+USC,UCLA,5,5,3,24,1,Shabazz Muhammad made Free Throw.
+USC,UCLA,5,5,3,34,0,Jio Fontan missed Layup.
+USC,UCLA,5,5,3,35,0,Travis Wear Block.
+USC,UCLA,5,5,3,36,0,Larry Drew II Defensive Rebound.
+USC,UCLA,5,7,3,39,1,Shabazz Muhammad made Dunk.  Assisted by Larry Drew II.
+USC,UCLA,5,7,3,53,0,Byron Wesley Turnover.
+USC,UCLA,5,7,3,53,0,Jordan Adams Steal.
+USC,UCLA,5,9,3,56,1,Jordan Adams made Jumper.
+USC,UCLA,5,9,3,57,0,USC Full Timeout.
+USC,UCLA,5,9,4,5,0,J.T. Terrell Turnover.
+USC,UCLA,5,9,4,5,0,Jordan Adams Steal.
+USC,UCLA,5,9,4,9,0,Jordan Adams Turnover.
+USC,UCLA,5,9,4,9,0,Omar Oraby Steal.
+USC,UCLA,7,9,4,13,1,Byron Wesley made Layup.  Assisted by J.T. Terrell.
+USC,UCLA,7,9,4,32,0,Jordan Adams missed Jumper.
+USC,UCLA,7,9,4,32,0,Omar Oraby Defensive Rebound.
+USC,UCLA,9,9,4,40,1,J.T. Terrell made Layup.  Assisted by Jio Fontan.
+USC,UCLA,9,11,5,0,1,Kyle Anderson made Jumper.  Assisted by Larry Drew II.
+USC,UCLA,9,11,5,19,0,Eric Wise missed Jumper.
+USC,UCLA,9,11,5,19,0,Larry Drew II Defensive Rebound.
+USC,UCLA,9,11,5,35,0,Foul on Omar Oraby
+USC,UCLA,9,11,5,35,0,Official TV Timeout.
+USC,UCLA,9,12,5,35,1,Travis Wear made Free Throw.
+USC,UCLA,9,13,5,35,1,Travis Wear made Free Throw.
+USC,UCLA,11,13,5,57,1,Aaron Fuller made Layup.  Assisted by Jio Fontan.
+USC,UCLA,11,13,6,10,0,Larry Drew II missed Three Point Jumper.
+USC,UCLA,11,13,6,10,0,Byron Wesley Defensive Rebound.
+USC,UCLA,11,13,6,38,0,Jio Fontan missed Three Point Jumper.
+USC,UCLA,11,13,6,38,0,Norman Powell Defensive Rebound.
+USC,UCLA,11,13,6,46,0,Norman Powell Turnover.
+USC,UCLA,11,13,7,2,0,Foul on Tony Parker
+USC,UCLA,11,13,7,12,0,J.T. Terrell missed Layup.
+USC,UCLA,11,13,7,12,0,Norman Powell Block.
+USC,UCLA,11,13,7,12,0,Norman Powell Defensive Rebound.
+USC,UCLA,11,13,7,25,0,Norman Powell Turnover.
+USC,UCLA,11,13,7,41,0,J.T. Terrell missed Three Point Jumper.
+USC,UCLA,11,13,7,41,0,Tony Parker Defensive Rebound.
+USC,UCLA,11,13,7,51,0,Jordan Adams missed Jumper.
+USC,UCLA,11,13,7,51,0,Ari Stewart Defensive Rebound.
+USC,UCLA,13,13,8,3,1,Omar Oraby made Layup.  Assisted by Chass Bryan.
+USC,UCLA,13,13,8,3,0,Foul on Tony Parker
+USC,UCLA,13,13,8,3,0,Official TV Timeout.
+USC,UCLA,13,13,8,3,0,Omar Oraby missed Free Throw.
+USC,UCLA,13,13,8,3,0,Kyle Anderson Defensive Rebound.
+USC,UCLA,13,13,8,29,0,Kyle Anderson missed Jumper.
+USC,UCLA,13,13,8,29,0,Travis Wear Offensive Rebound.
+USC,UCLA,13,15,8,35,1,Travis Wear made Layup.
+USC,UCLA,13,15,9,1,0,Eric Wise missed Jumper.
+USC,UCLA,13,15,9,1,0,David Wear Defensive Rebound.
+USC,UCLA,13,15,9,2,0,Foul on Omar Oraby
+USC,UCLA,13,15,9,17,0,Norman Powell missed Three Point Jumper.
+USC,UCLA,13,15,9,17,0,Jio Fontan Defensive Rebound.
+USC,UCLA,13,15,9,31,0,Byron Wesley Turnover.
+USC,UCLA,13,15,9,31,0,David Wear Steal.
+USC,UCLA,13,15,9,31,0,Jump Ball won by UCLA.
+USC,UCLA,13,17,9,50,1,Jordan Adams made Jumper.  Assisted by David Wear.
+USC,UCLA,13,17,10,5,0,James Blasczyk missed Jumper.
+USC,UCLA,13,17,10,5,0,Kyle Anderson Defensive Rebound.
+USC,UCLA,13,17,10,17,0,Kyle Anderson missed Jumper.
+USC,UCLA,13,17,10,17,0,James Blasczyk Defensive Rebound.
+USC,UCLA,15,17,10,42,1,Eric Wise made Layup.
+USC,UCLA,15,19,11,8,1,Travis Wear made Jumper.  Assisted by David Wear.
+USC,UCLA,15,19,11,27,0,Eric Wise Turnover.
+USC,UCLA,15,19,11,37,0,Travis Wear missed Jumper.
+USC,UCLA,15,19,11,37,0,David Wear Offensive Rebound.
+USC,UCLA,15,21,11,42,1,David Wear made Layup.
+USC,UCLA,15,21,11,42,0,Foul on Jio Fontan
+USC,UCLA,15,21,11,42,0,David Wear missed Free Throw.
+USC,UCLA,15,21,11,42,0,Eric Wise Defensive Rebound.
+USC,UCLA,17,21,12,2,1,Jio Fontan made Jumper.
+USC,UCLA,17,21,12,15,0,Jordan Adams missed Three Point Jumper.
+USC,UCLA,17,21,12,15,0,Shabazz Muhammad Offensive Rebound.
+USC,UCLA,17,21,12,21,0,Shabazz Muhammad missed Jumper.
+USC,UCLA,17,21,12,21,0,Byron Wesley Defensive Rebound.
+USC,UCLA,17,21,12,23,0,Foul on Travis Wear
+USC,UCLA,17,21,12,23,0,Official TV Timeout.
+USC,UCLA,17,21,12,44,0,Foul on Norman Powell
+USC,UCLA,18,21,12,44,1,Aaron Fuller made Free Throw.
+USC,UCLA,19,21,12,44,1,Aaron Fuller made Free Throw.
+USC,UCLA,19,21,13,4,0,Larry Drew II missed Layup.
+USC,UCLA,19,21,13,4,0,Ari Stewart Block.
+USC,UCLA,19,21,13,4,0,Aaron Fuller Defensive Rebound.
+USC,UCLA,19,21,13,11,0,Foul on Norman Powell
+USC,UCLA,20,21,13,11,1,Byron Wesley made Free Throw.
+USC,UCLA,21,21,13,11,1,Byron Wesley made Free Throw.
+USC,UCLA,21,21,13,24,0,Shabazz Muhammad Turnover.
+USC,UCLA,21,21,13,24,0,Jio Fontan Steal.
+USC,UCLA,21,21,13,30,0,Jio Fontan missed Layup.
+USC,UCLA,21,21,13,30,0,Aaron Fuller Offensive Rebound.
+USC,UCLA,23,21,13,30,1,Aaron Fuller made Tip Shot.
+USC,UCLA,23,21,13,32,0,UCLA Full Timeout.
+USC,UCLA,23,21,13,50,0,Travis Wear missed Jumper.
+USC,UCLA,23,21,13,50,0,Ari Stewart Block.
+USC,UCLA,23,21,13,50,0,Jio Fontan Defensive Rebound.
+USC,UCLA,23,21,13,50,0,Byron Wesley missed Layup.
+USC,UCLA,23,21,13,50,0,Kyle Anderson Block.
+USC,UCLA,23,22,13,50,0,Aaron Fuller Offensive Rebound.
+USC,UCLA,25,22,14,0,1,Aaron Fuller made Layup.
+USC,UCLA,23,22,14,10,1,Travis Wear made Free Throw.
+USC,UCLA,25,22,14,10,0,Foul on Ari Stewart
+USC,UCLA,25,23,14,10,1,Travis Wear made Free Throw.
+USC,UCLA,28,23,14,27,1,Ari Stewart made Three Point Jumper.  Assisted by Eric Wise.
+USC,UCLA,28,25,14,56,1,Travis Wear made Jumper.  Assisted by Larry Drew II.
+USC,UCLA,30,25,15,18,1,Aaron Fuller made Layup.  Assisted by Eric Wise.
+USC,UCLA,30,25,15,29,0,Jordan Adams missed Three Point Jumper.
+USC,UCLA,30,25,15,29,0,Eric Wise Defensive Rebound.
+USC,UCLA,32,25,15,36,1,Aaron Fuller made Dunk.  Assisted by Jio Fontan.
+USC,UCLA,32,25,15,38,0,UCLA Full Timeout.
+USC,UCLA,32,27,15,57,1,David Wear made Layup.  Assisted by Larry Drew II.
+USC,UCLA,32,27,16,19,0,Foul on Larry Drew II
+USC,UCLA,32,27,16,19,0,Official TV Timeout.
+USC,UCLA,32,27,16,19,0,Aaron Fuller missed Free Throw.
+USC,UCLA,32,27,16,19,0,null
+USC,UCLA,33,27,16,19,1,Aaron Fuller made Free Throw.
+USC,UCLA,33,27,16,41,0,Norman Powell missed Three Point Jumper.
+USC,UCLA,33,27,16,41,0,David Wear Offensive Rebound.
+USC,UCLA,33,27,16,49,0,David Wear missed Jumper.
+USC,UCLA,33,27,16,49,0,David Wear Offensive Rebound.
+USC,UCLA,33,27,16,49,0,Foul on Byron Wesley
+USC,UCLA,33,27,16,49,0,David Wear missed Free Throw.
+USC,UCLA,33,27,16,49,0,null
+USC,UCLA,33,27,16,49,0,David Wear missed Free Throw.
+USC,UCLA,33,27,16,49,0,James Blasczyk Defensive Rebound.
+USC,UCLA,33,27,17,11,0,Eric Wise missed Jumper.
+USC,UCLA,33,27,17,11,0,James Blasczyk Offensive Rebound.
+USC,UCLA,33,27,17,11,0,James Blasczyk missed Tip Shot.
+USC,UCLA,33,27,17,11,0,David Wear Defensive Rebound.
+USC,UCLA,33,27,17,20,0,Kyle Anderson missed Jumper.
+USC,UCLA,33,27,17,20,0,Eric Wise Defensive Rebound.
+USC,UCLA,35,27,17,31,1,J.T. Terrell made Layup.
+USC,UCLA,35,27,17,31,0,Foul on David Wear
+USC,UCLA,36,27,17,31,1,J.T. Terrell made Free Throw.
+USC,UCLA,36,27,17,42,0,Shabazz Muhammad missed Jumper.
+USC,UCLA,36,27,17,42,0,Eric Wise Defensive Rebound.
+USC,UCLA,38,27,17,52,1,James Blasczyk made Layup.  Assisted by Eric Wise.
+USC,UCLA,38,27,18,7,0,Travis Wear Turnover.
+USC,UCLA,38,27,18,7,0,Chass Bryan Steal.
+USC,UCLA,38,27,18,24,0,Eric Wise Turnover.
+USC,UCLA,38,27,18,24,0,Kyle Anderson Steal.
+USC,UCLA,38,27,18,27,0,Foul on Eric Wise
+USC,UCLA,38,28,18,27,1,Kyle Anderson made Free Throw.
+USC,UCLA,38,28,18,27,0,Kyle Anderson missed Free Throw.
+USC,UCLA,38,28,18,27,0,null
+USC,UCLA,38,28,18,56,0,Byron Wesley missed Three Point Jumper.
+USC,UCLA,38,28,18,56,0,Jordan Adams Defensive Rebound.
+USC,UCLA,38,30,19,3,1,Larry Drew II made Jumper.
+USC,UCLA,38,30,19,22,0,J.T. Terrell missed Three Point Jumper.
+USC,UCLA,38,30,19,22,0,Travis Wear Defensive Rebound.
+USC,UCLA,38,30,19,56,0,Larry Drew II missed Jumper.
+USC,UCLA,38,30,19,56,0,UCLA Offensive Rebound.
+USC,UCLA,38,30,20,0,0,End of the 1st Half.
+USC,UCLA,38,30,20,0,0,Jump Ball won by USC.
+USC,UCLA,40,30,20,12,1,Dewayne Dedmon made Dunk.  Assisted by Eric Wise.
+USC,UCLA,40,30,20,32,0,Jordan Adams missed Three Point Jumper.
+USC,UCLA,40,30,20,32,0,Byron Wesley Defensive Rebound.
+USC,UCLA,40,30,20,36,0,Foul on Kyle Anderson
+USC,UCLA,40,30,20,39,0,Dewayne Dedmon Turnover.
+USC,UCLA,40,30,20,39,0,Kyle Anderson Steal.
+USC,UCLA,40,30,20,53,0,Travis Wear Turnover.
+USC,UCLA,40,30,21,6,0,Byron Wesley Turnover.
+USC,UCLA,40,30,21,6,0,Kyle Anderson Steal.
+USC,UCLA,40,30,21,13,0,Kyle Anderson missed Layup.
+USC,UCLA,40,30,21,13,0,Shabazz Muhammad Offensive Rebound.
+USC,UCLA,40,30,21,28,0,Shabazz Muhammad missed Layup.
+USC,UCLA,40,30,21,28,0,Dewayne Dedmon Block.
+USC,UCLA,40,30,21,28,0,J.T. Terrell Defensive Rebound.
+USC,UCLA,40,30,21,30,0,J.T. Terrell missed Layup.
+USC,UCLA,40,30,21,30,0,Kyle Anderson Defensive Rebound.
+USC,UCLA,40,30,21,30,0,Shabazz Muhammad missed Layup.
+USC,UCLA,40,30,21,31,0,Shabazz Muhammad Offensive Rebound.
+USC,UCLA,40,30,21,32,0,Foul on Eric Wise
+USC,UCLA,40,30,21,32,0,Shabazz Muhammad missed Free Throw.
+USC,UCLA,40,30,21,32,0,null
+USC,UCLA,40,31,21,32,1,Shabazz Muhammad made Free Throw.
+USC,UCLA,40,31,21,49,0,J.T. Terrell missed Three Point Jumper.
+USC,UCLA,40,31,21,49,0,USC Offensive Rebound.
+USC,UCLA,40,31,22,19,0,Foul on Travis Wear
+USC,UCLA,42,31,22,22,1,J.T. Terrell made Dunk.
+USC,UCLA,42,31,22,40,0,Travis Wear missed Three Point Jumper.
+USC,UCLA,42,31,22,40,0,J.T. Terrell Defensive Rebound.
+USC,UCLA,44,31,23,9,1,Eric Wise made Layup.
+USC,UCLA,44,31,23,25,0,Foul on Jio Fontan
+USC,UCLA,44,31,23,39,0,Shabazz Muhammad missed Jumper.
+USC,UCLA,44,31,23,39,0,David Wear Offensive Rebound.
+USC,UCLA,44,31,23,44,0,David Wear missed Layup.
+USC,UCLA,44,31,23,44,0,Byron Wesley Block.
+USC,UCLA,44,31,23,44,0,Chass Bryan Defensive Rebound.
+USC,UCLA,44,31,23,49,0,Chass Bryan Turnover.
+USC,UCLA,44,31,23,49,0,Travis Wear Steal.
+USC,UCLA,44,33,23,59,1,Jordan Adams made Layup.  Assisted by David Wear.
+USC,UCLA,46,33,24,19,1,Eric Wise made Jumper.
+USC,UCLA,46,35,24,30,1,Shabazz Muhammad made Jumper.  Assisted by Larry Drew II.
+USC,UCLA,46,35,24,30,0,Foul on Eric Wise
+USC,UCLA,46,35,24,30,0,Official TV Timeout.
+USC,UCLA,46,36,24,30,1,Shabazz Muhammad made Free Throw.
+USC,UCLA,46,36,25,0,0,James Blasczyk Turnover.
+USC,UCLA,46,36,25,0,0,Jordan Adams Steal.
+USC,UCLA,46,36,25,4,0,Norman Powell Turnover.
+USC,UCLA,46,36,25,22,0,Ari Stewart missed Three Point Jumper.
+USC,UCLA,46,36,25,22,0,Aaron Fuller Offensive Rebound.
+USC,UCLA,48,36,25,28,1,Aaron Fuller made Jumper.
+USC,UCLA,48,36,25,34,0,Foul on Ari Stewart
+USC,UCLA,48,36,25,34,0,Jordan Adams missed Free Throw.
+USC,UCLA,48,36,25,34,0,null
+USC,UCLA,48,37,25,34,1,Jordan Adams made Free Throw.
+USC,UCLA,50,37,25,47,1,Dewayne Dedmon made Jumper.  Assisted by Jio Fontan.
+USC,UCLA,50,37,26,10,0,Shabazz Muhammad missed Jumper.
+USC,UCLA,50,37,26,10,0,Dewayne Dedmon Defensive Rebound.
+USC,UCLA,50,37,26,17,0,Dewayne Dedmon Turnover.
+USC,UCLA,50,37,26,19,0,Norman Powell missed Three Point Jumper.
+USC,UCLA,50,37,26,19,0,Eric Wise Defensive Rebound.
+USC,UCLA,52,37,26,35,1,Jio Fontan made Jumper.
+USC,UCLA,52,40,27,6,1,Shabazz Muhammad made Three Point Jumper.  Assisted by Kyle Anderson.
+USC,UCLA,52,40,27,43,0,Dewayne Dedmon missed Three Point Jumper.
+USC,UCLA,52,40,27,43,0,Kyle Anderson Defensive Rebound.
+USC,UCLA,52,40,27,56,0,Foul on Dewayne Dedmon
+USC,UCLA,52,41,27,56,1,Tony Parker made Free Throw.
+USC,UCLA,52,41,27,56,0,Tony Parker missed Free Throw.
+USC,UCLA,52,41,27,56,0,Eric Wise Defensive Rebound.
+USC,UCLA,52,41,28,8,0,Jio Fontan missed Jumper.
+USC,UCLA,52,41,28,8,0,Kyle Anderson Defensive Rebound.
+USC,UCLA,52,41,28,15,0,Kyle Anderson missed Three Point Jumper.
+USC,UCLA,52,41,28,15,0,Eric Wise Defensive Rebound.
+USC,UCLA,54,41,28,29,1,Jio Fontan made Jumper.
+USC,UCLA,54,41,28,36,0,Official TV Timeout.
+USC,UCLA,54,43,28,50,1,Shabazz Muhammad made Jumper.  Assisted by Norman Powell.
+USC,UCLA,54,43,28,50,0,Foul on James Blasczyk
+USC,UCLA,54,44,28,50,1,Shabazz Muhammad made Free Throw.
+USC,UCLA,57,44,29,16,1,Jio Fontan made Three Point Jumper.
+USC,UCLA,57,46,29,27,1,Travis Wear made Jumper.  Assisted by Larry Drew II.
+USC,UCLA,57,46,29,48,0,Jio Fontan missed Dunk.
+USC,UCLA,57,46,29,48,0,Norman Powell Defensive Rebound.
+USC,UCLA,57,46,30,5,0,Foul on Jio Fontan
+USC,UCLA,57,47,30,5,1,Travis Wear made Free Throw.
+USC,UCLA,57,48,30,5,1,Travis Wear made Free Throw.
+USC,UCLA,57,48,30,31,0,J.T. Terrell missed Three Point Jumper.
+USC,UCLA,57,48,30,31,0,Larry Drew II Defensive Rebound.
+USC,UCLA,57,48,30,57,0,Foul on Chass Bryan
+USC,UCLA,57,49,30,57,1,Larry Drew II made Free Throw.
+USC,UCLA,57,50,30,57,1,Larry Drew II made Free Throw.
+USC,UCLA,59,50,31,16,1,Eric Wise made Layup.
+USC,UCLA,59,52,31,36,1,Jordan Adams made Jumper.
+USC,UCLA,59,52,31,57,0,USC Full Timeout.
+USC,UCLA,59,52,32,1,0,Eric Wise Turnover.
+USC,UCLA,59,52,32,1,0,Larry Drew II Steal.
+USC,UCLA,59,52,32,22,0,Shabazz Muhammad missed Three Point Jumper.
+USC,UCLA,59,52,32,22,0,Eric Wise Defensive Rebound.
+USC,UCLA,61,52,32,41,1,Eric Wise made Jumper.
+USC,UCLA,61,54,32,59,1,David Wear made Layup.  Assisted by Jordan Adams.
+USC,UCLA,61,54,33,18,0,Eric Wise missed Three Point Jumper.
+USC,UCLA,61,54,33,18,0,Aaron Fuller Offensive Rebound.
+USC,UCLA,61,54,33,24,0,Aaron Fuller missed Layup.
+USC,UCLA,61,54,33,24,0,Travis Wear Defensive Rebound.
+USC,UCLA,61,56,33,31,1,Larry Drew II made Layup.
+USC,UCLA,61,56,33,59,0,Aaron Fuller Turnover.
+USC,UCLA,61,56,33,59,0,Official TV Timeout.
+USC,UCLA,61,56,34,9,0,Jordan Adams missed Three Point Jumper.
+USC,UCLA,61,56,34,9,0,Ari Stewart Defensive Rebound.
+USC,UCLA,61,56,34,38,0,Jio Fontan missed Three Point Jumper.
+USC,UCLA,61,56,34,38,0,Travis Wear Defensive Rebound.
+USC,UCLA,61,56,35,0,0,Larry Drew II missed Jumper.
+USC,UCLA,61,56,35,0,0,Ari Stewart Defensive Rebound.
+USC,UCLA,61,56,35,27,0,Ari Stewart missed Three Point Jumper.
+USC,UCLA,61,56,35,27,0,Eric Wise Offensive Rebound.
+USC,UCLA,63,56,35,32,1,Eric Wise made Layup.
+USC,UCLA,63,56,35,38,0,UCLA Full Timeout.
+USC,UCLA,63,59,35,59,1,Shabazz Muhammad made Three Point Jumper.  Assisted by Larry Drew II.
+USC,UCLA,63,59,36,26,0,Dewayne Dedmon missed Jumper.
+USC,UCLA,63,59,36,26,0,USC Offensive Rebound.
+USC,UCLA,63,59,36,32,0,Official TV Timeout.
+USC,UCLA,63,59,36,59,0,Jio Fontan Turnover.
+USC,UCLA,63,59,36,59,0,Shabazz Muhammad Steal.
+USC,UCLA,63,61,37,4,1,Shabazz Muhammad made Layup.
+USC,UCLA,63,61,37,23,0,Foul on Kyle Anderson
+USC,UCLA,63,61,37,42,0,Eric Wise missed Jumper.
+USC,UCLA,63,61,37,42,0,Ari Stewart Offensive Rebound.
+USC,UCLA,65,61,37,54,1,Jio Fontan made Jumper.
+USC,UCLA,65,61,38,25,0,Jordan Adams missed Layup.
+USC,UCLA,65,61,38,25,0,Jordan Adams Offensive Rebound.
+USC,UCLA,65,61,38,29,0,Jordan Adams missed Layup.
+USC,UCLA,65,61,38,29,0,Dewayne Dedmon Block.
+USC,UCLA,65,61,38,29,0,UCLA Offensive Rebound.
+USC,UCLA,65,63,38,34,1,Larry Drew II made Layup.
+USC,UCLA,65,63,38,44,0,USC Full Timeout.
+USC,UCLA,65,63,39,8,0,Jio Fontan missed Three Point Jumper.
+USC,UCLA,65,63,39,8,0,Ari Stewart Offensive Rebound.
+USC,UCLA,65,63,39,16,0,Ari Stewart missed Layup.
+USC,UCLA,65,63,39,16,0,Kyle Anderson Defensive Rebound.
+USC,UCLA,65,65,39,28,1,Jordan Adams made Jumper.  Assisted by Travis Wear.
+USC,UCLA,65,65,39,36,0,USC Full Timeout.
+USC,UCLA,65,65,39,56,0,Eric Wise Turnover.
+USC,UCLA,65,65,39,56,0,Foul on Eric Wise
+USC,UCLA,65,65,39,56,0,UCLA Full Timeout.
+USC,UCLA,65,65,39,59,0,Larry Drew II missed Three Point Jumper.
+USC,UCLA,65,65,39,59,0,null
+USC,UCLA,65,65,40,0,0,End of the 2nd Half.

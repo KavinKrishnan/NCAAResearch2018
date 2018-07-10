@@ -1,0 +1,359 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Howard,Norfolk State,0,0,0,23,0,Jamel Fuentes missed Jumper.
+Howard,Norfolk State,0,0,0,23,0,James Miller Block.
+Howard,Norfolk State,0,0,0,25,0,Jeffrey Short Offensive Rebound.
+Howard,Norfolk State,0,0,0,28,0,D'Shon Taylor missed Three Point Jumper.
+Howard,Norfolk State,0,0,0,28,0,Jamel Fuentes Offensive Rebound.
+Howard,Norfolk State,0,2,0,35,1,RaShid Gaston made Layup. Assisted by Jamel Fuentes.
+Howard,Norfolk State,0,2,0,46,0,Foul on Jeffrey Short.
+Howard,Norfolk State,1,2,0,46,1,James Daniel made Free Throw.
+Howard,Norfolk State,2,2,0,46,1,James Daniel made Free Throw.
+Howard,Norfolk State,3,2,0,46,1,James Daniel made Free Throw.
+Howard,Norfolk State,3,2,1,6,0,D'Shon Taylor missed Three Point Jumper.
+Howard,Norfolk State,3,2,1,6,0,James Carlton Block.
+Howard,Norfolk State,3,2,1,8,0,LaTre'e Russell Offensive Rebound.
+Howard,Norfolk State,3,2,1,10,0,LaTre'e Russell missed Jumper.
+Howard,Norfolk State,3,2,1,10,0,RaShid Gaston Offensive Rebound.
+Howard,Norfolk State,3,2,1,10,0,Foul on Marcel Boyd.
+Howard,Norfolk State,3,3,1,10,1,RaShid Gaston made Free Throw.
+Howard,Norfolk State,3,3,1,10,0,RaShid Gaston missed Free Throw.
+Howard,Norfolk State,3,3,1,10,0,James Carlton Defensive Rebound.
+Howard,Norfolk State,3,3,1,42,0,James Daniel missed Three Point Jumper.
+Howard,Norfolk State,3,3,1,42,0,D'Shon Taylor Defensive Rebound.
+Howard,Norfolk State,3,6,1,54,1,D'Shon Taylor made Three Point Jumper. Assisted by Jamel Fuentes.
+Howard,Norfolk State,5,6,2,15,1,James Carlton made Jumper. Assisted by James Daniel.
+Howard,Norfolk State,5,6,2,30,0,LaTre'e Russell Turnover.
+Howard,Norfolk State,5,6,3,4,0,James Carlton missed Three Point Jumper.
+Howard,Norfolk State,5,6,3,4,0,RaShid Gaston Defensive Rebound.
+Howard,Norfolk State,5,6,3,16,0,Foul on Damon Collins.
+Howard,Norfolk State,5,7,3,16,1,LaTre'e Russell made Free Throw.
+Howard,Norfolk State,5,8,3,16,1,LaTre'e Russell made Free Throw.
+Howard,Norfolk State,5,8,3,26,0,Foul on Jeffrey Short.
+Howard,Norfolk State,5,8,3,54,0,Foul on Malik Thomas.
+Howard,Norfolk State,6,8,3,54,1,James Miller made Free Throw.
+Howard,Norfolk State,7,8,3,54,1,James Miller made Free Throw.
+Howard,Norfolk State,7,8,4,17,0,D'Shon Taylor missed Three Point Jumper.
+Howard,Norfolk State,7,8,4,17,0,RaShid Gaston Offensive Rebound.
+Howard,Norfolk State,7,8,4,23,0,Malik Thomas missed Three Point Jumper.
+Howard,Norfolk State,7,8,4,23,0,Damon Collins Defensive Rebound.
+Howard,Norfolk State,10,8,4,34,1,James Daniel made Three Point Jumper.
+Howard,Norfolk State,10,8,4,48,0,Foul on James Miller.
+Howard,Norfolk State,10,8,4,48,0,Official TV Timeout
+Howard,Norfolk State,10,9,4,48,1,RaShid Gaston made Free Throw.
+Howard,Norfolk State,10,10,4,48,1,RaShid Gaston made Free Throw.
+Howard,Norfolk State,12,10,4,57,1,James Carlton made Layup.
+Howard,Norfolk State,12,10,5,17,0,Foul on Marcel Boyd.
+Howard,Norfolk State,12,12,5,28,1,RaShid Gaston made Jumper. Assisted by Jamel Fuentes.
+Howard,Norfolk State,12,12,5,38,0,James Daniel Turnover.
+Howard,Norfolk State,12,12,6,2,0,D'Shon Taylor missed Three Point Jumper.
+Howard,Norfolk State,12,12,6,2,0,Howard Deadball Team Rebound.
+Howard,Norfolk State,12,12,6,5,0,Foul on RaShid Gaston.
+Howard,Norfolk State,12,12,6,26,0,James Miller Turnover.
+Howard,Norfolk State,12,14,6,42,1,D'Shon Taylor made Jumper. Assisted by Jamel Fuentes.
+Howard,Norfolk State,12,14,7,0,0,James Carlton missed Three Point Jumper.
+Howard,Norfolk State,12,14,7,0,0,Howard Offensive Rebound.
+Howard,Norfolk State,15,14,7,20,1,James Miller made Three Point Jumper. Assisted by James Carlton.
+Howard,Norfolk State,15,17,7,39,1,Devonte Banner made Three Point Jumper. Assisted by Jamel Fuentes.
+Howard,Norfolk State,15,17,7,51,0,James Miller Turnover.
+Howard,Norfolk State,15,17,7,52,0,Jamel Fuentes Steal.
+Howard,Norfolk State,15,17,7,54,0,Jamel Fuentes Turnover.
+Howard,Norfolk State,15,17,7,54,0,Foul on Jamel Fuentes.
+Howard,Norfolk State,15,17,8,3,0,Foul on Devonte Banner.
+Howard,Norfolk State,15,17,8,3,0,Official TV Timeout
+Howard,Norfolk State,15,17,8,15,0,Jared Norsworthy Turnover.
+Howard,Norfolk State,15,17,8,37,0,Malik Thomas Turnover.
+Howard,Norfolk State,15,17,8,37,0,Damon Collins Steal.
+Howard,Norfolk State,15,17,8,37,0,Damon Collins Turnover.
+Howard,Norfolk State,15,20,8,53,1,Devonte Banner made Three Point Jumper.
+Howard,Norfolk State,15,20,9,10,0,James Miller missed Layup.
+Howard,Norfolk State,15,20,9,10,0,RaShid Gaston Block.
+Howard,Norfolk State,15,20,9,13,0,James Miller Offensive Rebound.
+Howard,Norfolk State,17,20,9,14,1,James Miller made Layup.
+Howard,Norfolk State,17,22,9,32,1,Jordan Butler made Jumper. Assisted by Zaynah Robinson.
+Howard,Norfolk State,17,22,9,57,0,James Carlton Turnover.
+Howard,Norfolk State,17,22,10,15,0,Zaynah Robinson missed Three Point Jumper.
+Howard,Norfolk State,17,22,10,15,0,James Daniel Defensive Rebound.
+Howard,Norfolk State,20,22,10,24,1,James Carlton made Three Point Jumper. Assisted by James Daniel.
+Howard,Norfolk State,20,22,10,32,0,Norfolk St  Timeout
+Howard,Norfolk State,20,22,11,0,0,Malik Thomas missed Three Point Jumper.
+Howard,Norfolk State,20,22,11,0,0,Oliver Ellison Defensive Rebound.
+Howard,Norfolk State,20,22,11,9,0,James Daniel missed Three Point Jumper.
+Howard,Norfolk State,20,22,11,9,0,Malik Thomas Defensive Rebound.
+Howard,Norfolk State,20,22,11,16,0,Foul on Oliver Ellison.
+Howard,Norfolk State,20,22,11,16,0,Zaynah Robinson missed Free Throw.
+Howard,Norfolk State,20,22,11,16,0,Norfolk St Deadball Team Rebound.
+Howard,Norfolk State,20,22,11,16,0,Zaynah Robinson missed Free Throw.
+Howard,Norfolk State,20,22,11,16,0,Jordan Butler Offensive Rebound.
+Howard,Norfolk State,20,22,11,17,0,Foul on James Carlton.
+Howard,Norfolk State,20,22,11,38,0,Foul on Theodore Boyomo.
+Howard,Norfolk State,20,22,11,38,0,Jordan Butler missed Free Throw.
+Howard,Norfolk State,20,22,11,38,0,D'Shon Taylor Offensive Rebound.
+Howard,Norfolk State,20,22,11,58,0,Foul on Theodore Boyomo.
+Howard,Norfolk State,20,23,11,58,1,Jordan Butler made Free Throw.
+Howard,Norfolk State,20,24,11,58,1,Jordan Butler made Free Throw.
+Howard,Norfolk State,20,24,12,2,0,Foul on D'Shon Taylor.
+Howard,Norfolk State,20,24,12,2,0,Official TV Timeout
+Howard,Norfolk State,20,24,12,2,0,James Miller missed Free Throw.
+Howard,Norfolk State,20,24,12,2,0,Howard Deadball Team Rebound.
+Howard,Norfolk State,21,24,12,2,1,James Miller made Free Throw.
+Howard,Norfolk State,21,26,12,33,1,D'Shon Taylor made Jumper. Assisted by Devonte Banner.
+Howard,Norfolk State,21,26,12,33,0,Foul on Theodore Boyomo.
+Howard,Norfolk State,21,27,12,33,1,D'Shon Taylor made Free Throw.
+Howard,Norfolk State,21,27,12,37,0,James Miller Turnover.
+Howard,Norfolk State,21,27,12,38,0,Devonte Banner Steal.
+Howard,Norfolk State,21,29,12,40,1,Devonte Banner made Layup.
+Howard,Norfolk State,21,29,12,43,0,Howard  Timeout
+Howard,Norfolk State,21,29,13,2,0,James Carlton missed Jumper.
+Howard,Norfolk State,21,29,13,2,0,D'Shon Taylor Defensive Rebound.
+Howard,Norfolk State,21,31,13,14,1,Malik Thomas made Layup. Assisted by RaShid Gaston.
+Howard,Norfolk State,21,31,13,29,0,Foul on Jamel Fuentes.
+Howard,Norfolk State,22,31,13,29,1,James Daniel made Free Throw.
+Howard,Norfolk State,23,31,13,29,1,James Daniel made Free Throw.
+Howard,Norfolk State,23,31,13,47,0,Zaynah Robinson Turnover.
+Howard,Norfolk State,26,31,13,56,1,James Daniel made Three Point Jumper.
+Howard,Norfolk State,26,33,14,24,1,Malik Thomas made Layup. Assisted by RaShid Gaston.
+Howard,Norfolk State,26,33,14,24,0,Foul on Damon Collins.
+Howard,Norfolk State,26,33,14,24,0,Malik Thomas missed Free Throw.
+Howard,Norfolk State,26,33,14,24,0,Oliver Ellison Defensive Rebound.
+Howard,Norfolk State,28,33,14,43,1,James Carlton made Layup.
+Howard,Norfolk State,28,33,15,0,0,RaShid Gaston missed Jumper.
+Howard,Norfolk State,28,33,15,0,0,Malik Thomas Offensive Rebound.
+Howard,Norfolk State,28,33,15,3,0,Foul on Oliver Ellison.
+Howard,Norfolk State,28,34,15,3,1,Malik Thomas made Free Throw.
+Howard,Norfolk State,28,35,15,3,1,Malik Thomas made Free Throw.
+Howard,Norfolk State,28,35,15,5,0,Brandon Ford Turnover.
+Howard,Norfolk State,28,35,15,11,0,Zaynah Robinson Turnover.
+Howard,Norfolk State,28,35,15,13,0,James Carlton Steal.
+Howard,Norfolk State,30,35,15,16,1,James Carlton made Layup. Assisted by James Daniel.
+Howard,Norfolk State,30,35,15,33,0,LaTre'e Russell Turnover.
+Howard,Norfolk State,30,35,15,36,0,Jared Norsworthy Steal.
+Howard,Norfolk State,30,35,15,40,0,James Daniel missed Jumper.
+Howard,Norfolk State,30,35,15,40,0,James Carlton Offensive Rebound.
+Howard,Norfolk State,32,35,15,41,1,James Carlton made Two Point Tip Shot.
+Howard,Norfolk State,32,35,16,2,0,Malik Thomas Turnover.
+Howard,Norfolk State,32,35,16,3,0,Jared Norsworthy Steal.
+Howard,Norfolk State,32,35,16,5,0,Official TV Timeout
+Howard,Norfolk State,32,35,16,36,0,James Carlton missed Jumper.
+Howard,Norfolk State,32,35,16,36,0,D'Shon Taylor Defensive Rebound.
+Howard,Norfolk State,32,35,16,47,0,Foul on Oliver Ellison.
+Howard,Norfolk State,32,35,16,47,0,D'Shon Taylor missed Free Throw.
+Howard,Norfolk State,32,35,16,47,0,Norfolk St Deadball Team Rebound.
+Howard,Norfolk State,32,36,16,47,1,D'Shon Taylor made Free Throw.
+Howard,Norfolk State,35,36,17,10,1,James Daniel made Three Point Jumper.
+Howard,Norfolk State,35,36,17,23,0,D'Shon Taylor Turnover.
+Howard,Norfolk State,35,36,17,24,0,Jared Norsworthy Steal.
+Howard,Norfolk State,35,36,17,27,0,James Daniel missed Three Point Jumper.
+Howard,Norfolk State,35,36,17,27,0,D'Shon Taylor Defensive Rebound.
+Howard,Norfolk State,35,38,17,44,1,RaShid Gaston made Layup. Assisted by Hefeng Sun.
+Howard,Norfolk State,35,38,18,0,0,James Carlton missed Three Point Jumper.
+Howard,Norfolk State,35,38,18,0,0,RaShid Gaston Defensive Rebound.
+Howard,Norfolk State,35,38,18,13,0,D'Shon Taylor Turnover.
+Howard,Norfolk State,35,38,18,31,0,James Carlton missed Layup.
+Howard,Norfolk State,35,38,18,31,0,RaShid Gaston Defensive Rebound.
+Howard,Norfolk State,35,38,18,55,0,Hefeng Sun missed Layup.
+Howard,Norfolk State,35,38,18,55,0,Marcel Boyd Defensive Rebound.
+Howard,Norfolk State,38,38,19,20,1,Jared Norsworthy made Three Point Jumper. Assisted by Keon Hill.
+Howard,Norfolk State,38,38,19,45,0,RaShid Gaston Turnover.
+Howard,Norfolk State,38,38,19,45,0,Foul on RaShid Gaston.
+Howard,Norfolk State,38,38,19,59,0,James Daniel Turnover.
+Howard,Norfolk State,38,38,20,0,0,D'Shon Taylor Steal.
+Howard,Norfolk State,38,38,20,0,0,End of 1st half
+Howard,Norfolk State,40,38,20,10,1,James Carlton made Dunk.
+Howard,Norfolk State,40,38,20,10,0,Foul on LaTre'e Russell.
+Howard,Norfolk State,40,38,20,10,0,James Carlton missed Free Throw.
+Howard,Norfolk State,40,38,20,10,0,RaShid Gaston Defensive Rebound.
+Howard,Norfolk State,40,38,20,33,0,LaTre'e Russell missed Jumper.
+Howard,Norfolk State,40,38,20,33,0,James Carlton Defensive Rebound.
+Howard,Norfolk State,40,38,20,49,0,James Carlton Turnover.
+Howard,Norfolk State,40,38,21,10,0,Jamel Fuentes Turnover.
+Howard,Norfolk State,42,38,21,16,1,Marcel Boyd made Layup.
+Howard,Norfolk State,42,38,21,31,0,LaTre'e Russell Turnover.
+Howard,Norfolk State,42,38,21,32,0,James Carlton Steal.
+Howard,Norfolk State,42,38,21,44,0,James Miller missed Layup.
+Howard,Norfolk State,42,38,21,44,0,Marcel Boyd Offensive Rebound.
+Howard,Norfolk State,42,38,21,46,0,Marcel Boyd Turnover.
+Howard,Norfolk State,42,40,22,1,1,Malik Thomas made Layup. Assisted by Jeffrey Short.
+Howard,Norfolk State,42,40,22,14,0,Marcel Boyd Turnover.
+Howard,Norfolk State,42,40,22,14,0,Foul on Marcel Boyd.
+Howard,Norfolk State,42,40,22,27,0,D'Shon Taylor missed Three Point Jumper.
+Howard,Norfolk State,42,40,22,27,0,James Miller Defensive Rebound.
+Howard,Norfolk State,42,40,22,30,0,James Daniel Turnover.
+Howard,Norfolk State,42,42,22,39,1,RaShid Gaston made Layup. Assisted by Malik Thomas.
+Howard,Norfolk State,44,42,22,53,1,James Miller made Layup.
+Howard,Norfolk State,44,44,23,8,1,Malik Thomas made Jumper. Assisted by Jeffrey Short.
+Howard,Norfolk State,44,44,23,32,0,James Daniel missed Three Point Jumper.
+Howard,Norfolk State,44,44,23,32,0,RaShid Gaston Defensive Rebound.
+Howard,Norfolk State,44,46,23,38,1,Jeffrey Short made Dunk. Assisted by RaShid Gaston.
+Howard,Norfolk State,44,46,24,15,0,Damon Collins missed Layup.
+Howard,Norfolk State,44,46,24,15,0,RaShid Gaston Block.
+Howard,Norfolk State,44,46,24,17,0,Damon Collins Offensive Rebound.
+Howard,Norfolk State,44,46,24,19,0,Damon Collins missed Jumper.
+Howard,Norfolk State,44,46,24,19,0,RaShid Gaston Block.
+Howard,Norfolk State,44,46,24,19,0,Howard Deadball Team Rebound.
+Howard,Norfolk State,44,46,24,19,0,Howard  Turnover.
+Howard,Norfolk State,44,46,24,19,0,Official TV Timeout
+Howard,Norfolk State,44,46,24,41,0,Malik Thomas missed Three Point Jumper.
+Howard,Norfolk State,44,46,24,41,0,RaShid Gaston Offensive Rebound.
+Howard,Norfolk State,44,49,24,51,1,Jeffrey Short made Three Point Jumper. Assisted by Jamel Fuentes.
+Howard,Norfolk State,44,49,25,15,0,James Daniel Turnover.
+Howard,Norfolk State,44,49,25,22,0,Foul on James Carlton.
+Howard,Norfolk State,44,49,25,23,0,D'Shon Taylor Turnover.
+Howard,Norfolk State,44,49,25,23,0,Damon Collins Steal.
+Howard,Norfolk State,44,49,25,25,0,Jared Norsworthy missed Layup.
+Howard,Norfolk State,44,49,25,25,0,Norfolk St Deadball Team Rebound.
+Howard,Norfolk State,44,49,25,48,0,Foul on Jared Norsworthy.
+Howard,Norfolk State,44,50,25,48,1,Jeffrey Short made Free Throw.
+Howard,Norfolk State,44,51,25,48,1,Jeffrey Short made Free Throw.
+Howard,Norfolk State,44,51,25,54,0,Howard  Timeout
+Howard,Norfolk State,44,51,26,11,0,Brandon Ford missed Layup.
+Howard,Norfolk State,44,51,26,11,0,RaShid Gaston Defensive Rebound.
+Howard,Norfolk State,44,51,26,13,0,RaShid Gaston Turnover.
+Howard,Norfolk State,44,51,26,13,0,Damon Collins Steal.
+Howard,Norfolk State,47,51,26,15,1,Brandon Ford made Three Point Jumper. Assisted by Damon Collins.
+Howard,Norfolk State,47,51,26,24,0,Foul on Brandon Ford.
+Howard,Norfolk State,47,51,26,33,0,Jeffrey Short missed Jumper.
+Howard,Norfolk State,47,51,26,33,0,D'Shon Taylor Offensive Rebound.
+Howard,Norfolk State,47,53,26,35,1,D'Shon Taylor made Dunk.
+Howard,Norfolk State,47,53,27,2,0,James Daniel missed Jumper.
+Howard,Norfolk State,47,53,27,2,0,Howard Deadball Team Rebound.
+Howard,Norfolk State,47,53,27,3,0,Foul on Malik Thomas.
+Howard,Norfolk State,49,53,27,16,1,Oliver Ellison made Layup. Assisted by James Carlton.
+Howard,Norfolk State,49,53,27,16,0,Foul on D'Shon Taylor.
+Howard,Norfolk State,49,53,27,16,0,Oliver Ellison missed Free Throw.
+Howard,Norfolk State,49,53,27,16,0,RaShid Gaston Defensive Rebound.
+Howard,Norfolk State,49,53,27,32,0,Foul on Oliver Ellison.
+Howard,Norfolk State,49,54,27,32,1,Malik Thomas made Free Throw.
+Howard,Norfolk State,49,55,27,32,1,Malik Thomas made Free Throw.
+Howard,Norfolk State,49,55,27,43,0,Foul on Devonte Banner.
+Howard,Norfolk State,49,55,28,4,0,James Carlton Turnover.
+Howard,Norfolk State,49,55,28,4,0,Official TV Timeout
+Howard,Norfolk State,49,55,28,18,0,Jeffrey Short missed Three Point Jumper.
+Howard,Norfolk State,49,55,28,18,0,RaShid Gaston Offensive Rebound.
+Howard,Norfolk State,49,55,28,27,0,Malik Thomas missed Jumper.
+Howard,Norfolk State,49,55,28,27,0,Marcel Boyd Block.
+Howard,Norfolk State,49,55,28,28,0,RaShid Gaston Offensive Rebound.
+Howard,Norfolk State,49,55,28,29,0,Foul on James Carlton.
+Howard,Norfolk State,49,56,28,29,1,RaShid Gaston made Free Throw.
+Howard,Norfolk State,49,56,28,29,0,RaShid Gaston missed Free Throw.
+Howard,Norfolk State,49,56,28,29,0,Damon Collins Defensive Rebound.
+Howard,Norfolk State,49,56,28,54,0,Damon Collins missed Jumper.
+Howard,Norfolk State,49,56,28,54,0,D'Shon Taylor Defensive Rebound.
+Howard,Norfolk State,49,56,29,8,0,Devonte Banner missed Three Point Jumper.
+Howard,Norfolk State,49,56,29,8,0,Damon Collins Defensive Rebound.
+Howard,Norfolk State,49,56,29,13,0,Foul on Devonte Banner.
+Howard,Norfolk State,49,56,29,30,0,James Miller missed Three Point Jumper.
+Howard,Norfolk State,49,56,29,30,0,Jordan Butler Block.
+Howard,Norfolk State,49,56,29,34,0,Jeffrey Short Defensive Rebound.
+Howard,Norfolk State,49,56,29,43,0,Devonte Banner missed Three Point Jumper.
+Howard,Norfolk State,49,56,29,43,0,Damon Collins Defensive Rebound.
+Howard,Norfolk State,49,56,29,51,0,Keon Hill missed Three Point Jumper.
+Howard,Norfolk State,49,56,29,51,0,D'Shon Taylor Defensive Rebound.
+Howard,Norfolk State,49,56,29,58,0,Jeffrey Short missed Layup.
+Howard,Norfolk State,49,56,29,58,0,James Miller Block.
+Howard,Norfolk State,49,56,30,0,0,D'Shon Taylor Offensive Rebound.
+Howard,Norfolk State,49,56,30,2,0,D'Shon Taylor Turnover.
+Howard,Norfolk State,49,56,30,18,0,James Carlton Turnover.
+Howard,Norfolk State,49,56,30,19,0,D'Shon Taylor Steal.
+Howard,Norfolk State,49,58,30,23,1,Jeffrey Short made Layup. Assisted by D'Shon Taylor.
+Howard,Norfolk State,49,58,30,37,0,Keon Hill Turnover.
+Howard,Norfolk State,49,60,30,42,1,Jeffrey Short made Layup.
+Howard,Norfolk State,49,60,30,42,0,Foul on Marcel Boyd.
+Howard,Norfolk State,49,60,30,42,0,Jeffrey Short missed Free Throw.
+Howard,Norfolk State,49,60,30,42,0,James Carlton Defensive Rebound.
+Howard,Norfolk State,49,60,30,51,0,James Miller missed Layup.
+Howard,Norfolk State,49,60,30,51,0,Marcel Boyd Offensive Rebound.
+Howard,Norfolk State,49,60,30,55,0,Marcel Boyd Turnover.
+Howard,Norfolk State,49,60,30,55,0,Jordan Butler Steal.
+Howard,Norfolk State,49,60,31,4,0,Jordan Butler missed Layup.
+Howard,Norfolk State,49,60,31,4,0,Jordan Butler Offensive Rebound.
+Howard,Norfolk State,49,60,31,7,0,Jordan Butler Turnover.
+Howard,Norfolk State,49,60,31,20,0,James Carlton missed Three Point Jumper.
+Howard,Norfolk State,49,60,31,20,0,Howard Deadball Team Rebound.
+Howard,Norfolk State,49,60,31,21,0,Foul on Jordan Butler.
+Howard,Norfolk State,49,60,31,36,0,Foul on Devonte Banner.
+Howard,Norfolk State,50,60,31,36,1,James Daniel made Free Throw.
+Howard,Norfolk State,51,60,31,36,1,James Daniel made Free Throw.
+Howard,Norfolk State,51,60,31,36,0,James Daniel missed Free Throw.
+Howard,Norfolk State,51,60,31,36,0,Jeffrey Short Defensive Rebound.
+Howard,Norfolk State,51,60,32,2,0,Jeffrey Short missed Jumper.
+Howard,Norfolk State,51,60,32,2,0,Jared Norsworthy Defensive Rebound.
+Howard,Norfolk State,51,60,32,38,0,Foul on Jeffrey Short.
+Howard,Norfolk State,51,60,32,38,0,Official TV Timeout
+Howard,Norfolk State,52,60,32,38,1,James Daniel made Free Throw.
+Howard,Norfolk State,52,60,32,38,0,James Daniel missed Free Throw.
+Howard,Norfolk State,52,60,32,38,0,Howard Deadball Team Rebound.
+Howard,Norfolk State,53,60,32,38,1,James Daniel made Free Throw.
+Howard,Norfolk State,53,60,32,43,0,Jamel Fuentes Turnover.
+Howard,Norfolk State,53,60,32,58,0,James Daniel missed Three Point Jumper.
+Howard,Norfolk State,53,60,32,58,0,Malik Thomas Defensive Rebound.
+Howard,Norfolk State,53,60,33,9,0,D'Shon Taylor missed Layup.
+Howard,Norfolk State,53,60,33,9,0,RaShid Gaston Offensive Rebound.
+Howard,Norfolk State,53,60,33,10,0,Foul on James Miller.
+Howard,Norfolk State,53,61,33,10,1,RaShid Gaston made Free Throw.
+Howard,Norfolk State,53,61,33,10,0,RaShid Gaston missed Free Throw.
+Howard,Norfolk State,53,61,33,10,0,James Carlton Defensive Rebound.
+Howard,Norfolk State,53,61,33,37,0,Foul on Jamel Fuentes.
+Howard,Norfolk State,54,61,33,37,1,James Daniel made Free Throw.
+Howard,Norfolk State,55,61,33,37,1,James Daniel made Free Throw.
+Howard,Norfolk State,55,61,33,48,0,RaShid Gaston Turnover.
+Howard,Norfolk State,58,61,34,2,1,James Carlton made Three Point Jumper.
+Howard,Norfolk State,58,61,34,3,0,Howard  Timeout
+Howard,Norfolk State,58,61,34,23,0,RaShid Gaston missed Jumper.
+Howard,Norfolk State,58,61,34,24,0,Theodore Boyomo Defensive Rebound.
+Howard,Norfolk State,58,61,34,46,0,James Daniel missed Jumper.
+Howard,Norfolk State,58,61,34,47,0,Malik Thomas Defensive Rebound.
+Howard,Norfolk State,58,61,34,54,0,RaShid Gaston Turnover.
+Howard,Norfolk State,58,61,35,0,0,James Daniel missed Layup.
+Howard,Norfolk State,58,61,35,1,0,D'Shon Taylor Block.
+Howard,Norfolk State,58,61,35,3,0,Brandon Ford Offensive Rebound.
+Howard,Norfolk State,60,61,35,5,1,Brandon Ford made Jumper.
+Howard,Norfolk State,60,63,35,22,1,Malik Thomas made Jumper.
+Howard,Norfolk State,60,63,35,22,0,Norfolk St  Timeout
+Howard,Norfolk State,63,63,35,33,1,James Carlton made Three Point Jumper. Assisted by Damon Collins.
+Howard,Norfolk State,63,65,35,56,1,RaShid Gaston made Jumper. Assisted by Malik Thomas.
+Howard,Norfolk State,63,65,36,18,0,James Miller Turnover.
+Howard,Norfolk State,63,65,36,18,0,Official TV Timeout
+Howard,Norfolk State,63,65,36,52,0,Malik Thomas missed Jumper.
+Howard,Norfolk State,63,65,36,52,0,RaShid Gaston Offensive Rebound.
+Howard,Norfolk State,63,67,36,54,1,RaShid Gaston made Layup.
+Howard,Norfolk State,63,67,37,29,0,Damon Collins missed Layup.
+Howard,Norfolk State,63,67,37,29,0,Jeffrey Short Block.
+Howard,Norfolk State,63,67,37,30,0,Damon Collins Offensive Rebound.
+Howard,Norfolk State,65,67,37,33,1,Damon Collins made Layup.
+Howard,Norfolk State,65,67,38,3,0,Foul on James Daniel.
+Howard,Norfolk State,65,67,38,3,0,Malik Thomas missed Free Throw.
+Howard,Norfolk State,65,67,38,3,0,Norfolk St Deadball Team Rebound.
+Howard,Norfolk State,65,68,38,3,1,Malik Thomas made Free Throw.
+Howard,Norfolk State,65,68,38,22,0,James Carlton Turnover.
+Howard,Norfolk State,65,68,38,54,0,Jeffrey Short Turnover.
+Howard,Norfolk State,65,68,39,0,0,James Carlton missed Three Point Jumper.
+Howard,Norfolk State,65,68,39,0,0,D'Shon Taylor Defensive Rebound.
+Howard,Norfolk State,65,68,39,32,0,Foul on James Carlton.
+Howard,Norfolk State,65,68,39,32,0,D'Shon Taylor missed Free Throw.
+Howard,Norfolk State,65,68,39,32,0,Norfolk St Deadball Team Rebound.
+Howard,Norfolk State,65,69,39,32,1,D'Shon Taylor made Free Throw.
+Howard,Norfolk State,65,69,39,32,0,Norfolk St  Timeout
+Howard,Norfolk State,65,69,39,32,0,Norfolk St  Timeout
+Howard,Norfolk State,65,69,39,37,0,James Carlton Turnover.
+Howard,Norfolk State,65,69,39,46,0,Foul on Kofi Andoh.
+Howard,Norfolk State,65,69,39,46,0,Jeffrey Short missed Free Throw.
+Howard,Norfolk State,65,69,39,46,0,Norfolk St Deadball Team Rebound.
+Howard,Norfolk State,65,70,39,46,1,Jeffrey Short made Free Throw.
+Howard,Norfolk State,68,70,39,51,1,James Daniel made Three Point Jumper.
+Howard,Norfolk State,68,70,39,51,0,Howard  Timeout
+Howard,Norfolk State,68,70,39,52,0,Foul on James Daniel.
+Howard,Norfolk State,68,70,39,52,0,Malik Thomas missed Free Throw.
+Howard,Norfolk State,68,70,39,52,0,Norfolk St Deadball Team Rebound.
+Howard,Norfolk State,68,71,39,52,1,Malik Thomas made Free Throw.
+Howard,Norfolk State,68,71,39,56,0,Foul on D'Shon Taylor.
+Howard,Norfolk State,68,71,39,56,0,James Daniel missed Free Throw.
+Howard,Norfolk State,68,71,39,56,0,Howard Deadball Team Rebound.
+Howard,Norfolk State,69,71,39,56,1,James Daniel made Free Throw.
+Howard,Norfolk State,69,71,39,56,0,Foul on Jared Norsworthy.
+Howard,Norfolk State,69,71,39,56,0,Jeffrey Short missed Free Throw.
+Howard,Norfolk State,69,71,39,56,0,Norfolk St Deadball Team Rebound.
+Howard,Norfolk State,69,72,39,56,1,Jeffrey Short made Free Throw.
+Howard,Norfolk State,69,72,39,56,0,Howard  Timeout
+Howard,Norfolk State,69,72,40,0,0,James Daniel missed Three Point Jumper.
+Howard,Norfolk State,69,72,40,0,0,Norfolk St Deadball Team Rebound.
+Howard,Norfolk State,69,72,40,0,0,End of Game

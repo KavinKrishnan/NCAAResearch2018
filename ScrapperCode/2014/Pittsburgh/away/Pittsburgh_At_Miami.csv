@@ -1,0 +1,302 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Pittsburgh,Miami,0,0,0,0,0,Jump Ball won by Pittsburgh
+Pittsburgh,Miami,0,0,0,32,0,Foul on Manu Lecomte.
+Pittsburgh,Miami,1,0,0,32,1,Lamar Patterson made Free Throw.
+Pittsburgh,Miami,2,0,0,32,1,Lamar Patterson made Free Throw.
+Pittsburgh,Miami,2,0,0,49,0,Davon Reed missed Jumper.
+Pittsburgh,Miami,2,0,0,49,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Miami,4,0,1,6,1,Cameron Wright made Jumper. Assisted by Michael Young.
+Pittsburgh,Miami,4,0,1,45,0,Donnavan Kirk missed Jumper.
+Pittsburgh,Miami,4,0,1,45,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Miami,4,0,1,56,0,Lamar Patterson Turnover.
+Pittsburgh,Miami,4,0,2,10,0,Donnavan Kirk missed Three Point Jumper.
+Pittsburgh,Miami,4,0,2,10,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Miami,4,0,2,17,0,Michael Young missed Layup.
+Pittsburgh,Miami,4,0,2,17,0,Cameron Wright Offensive Rebound.
+Pittsburgh,Miami,4,0,2,17,0,Cameron Wright Turnover.
+Pittsburgh,Miami,4,0,2,17,0,Garrius Adams Steal.
+Pittsburgh,Miami,4,2,2,21,1,Garrius Adams made Layup.
+Pittsburgh,Miami,4,2,2,21,0,Foul on James Robinson.
+Pittsburgh,Miami,4,2,2,21,0,Garrius Adams missed Free Throw.
+Pittsburgh,Miami,4,2,2,21,0,Talib Zanna Defensive Rebound.
+Pittsburgh,Miami,4,2,2,45,0,Foul on Tonye Jekiri.
+Pittsburgh,Miami,4,2,2,49,0,Lamar Patterson missed Three Point Jumper.
+Pittsburgh,Miami,4,2,2,49,0,Garrius Adams Defensive Rebound.
+Pittsburgh,Miami,4,4,3,3,1,Garrius Adams made Layup.
+Pittsburgh,Miami,4,4,3,18,0,Michael Young Turnover.
+Pittsburgh,Miami,4,4,3,18,0,Donnavan Kirk Steal.
+Pittsburgh,Miami,4,4,3,45,0,Tonye Jekiri missed Layup.
+Pittsburgh,Miami,4,4,3,45,0,Lamar Patterson Block.
+Pittsburgh,Miami,4,4,3,45,0,Tonye Jekiri Offensive Rebound.
+Pittsburgh,Miami,4,4,3,47,0,Foul on Talib Zanna.
+Pittsburgh,Miami,4,5,3,47,1,Tonye Jekiri made Free Throw.
+Pittsburgh,Miami,4,5,3,47,0,Tonye Jekiri missed Free Throw.
+Pittsburgh,Miami,4,5,3,47,0,Tonye Jekiri Offensive Rebound.
+Pittsburgh,Miami,4,7,3,48,1,Tonye Jekiri made Layup.
+Pittsburgh,Miami,4,7,4,20,0,Cameron Wright missed Jumper.
+Pittsburgh,Miami,4,7,4,20,0,Garrius Adams Defensive Rebound.
+Pittsburgh,Miami,4,9,4,47,1,Garrius Adams made Jumper.
+Pittsburgh,Miami,4,9,5,15,0,Foul on Davon Reed.
+Pittsburgh,Miami,4,9,5,15,0,Official TV Timeout
+Pittsburgh,Miami,5,9,5,15,1,Cameron Wright made Free Throw.
+Pittsburgh,Miami,6,9,5,15,1,Cameron Wright made Free Throw.
+Pittsburgh,Miami,6,9,5,25,0,Garrius Adams Turnover.
+Pittsburgh,Miami,6,9,5,25,0,Cameron Wright Steal.
+Pittsburgh,Miami,8,9,5,39,1,Michael Young made Layup. Assisted by Lamar Patterson.
+Pittsburgh,Miami,8,9,6,3,0,Davon Reed Turnover.
+Pittsburgh,Miami,8,9,6,3,0,Cameron Wright Steal.
+Pittsburgh,Miami,8,9,6,10,0,Cameron Wright missed Layup.
+Pittsburgh,Miami,8,9,6,10,0,Erik Swoope Block.
+Pittsburgh,Miami,8,9,6,10,0,Davon Reed Defensive Rebound.
+Pittsburgh,Miami,8,12,6,22,1,Davon Reed made Three Point Jumper. Assisted by Rion Brown.
+Pittsburgh,Miami,8,12,6,44,0,Foul on Garrius Adams.
+Pittsburgh,Miami,9,12,6,44,1,Lamar Patterson made Free Throw.
+Pittsburgh,Miami,9,12,6,44,0,Lamar Patterson missed Free Throw.
+Pittsburgh,Miami,9,12,6,44,0,Donnavan Kirk Defensive Rebound.
+Pittsburgh,Miami,9,12,7,1,0,Foul on Josh Newkirk.
+Pittsburgh,Miami,9,13,7,1,1,Rion Brown made Free Throw.
+Pittsburgh,Miami,9,14,7,1,1,Rion Brown made Free Throw.
+Pittsburgh,Miami,9,15,7,1,1,Rion Brown made Free Throw.
+Pittsburgh,Miami,9,15,7,1,0,Lamar Patterson Turnover.
+Pittsburgh,Miami,9,15,7,1,0,Tonye Jekiri Steal.
+Pittsburgh,Miami,9,15,7,27,0,Manu Lecomte Turnover.
+Pittsburgh,Miami,9,15,7,27,0,James Robinson Steal.
+Pittsburgh,Miami,11,15,7,33,1,James Robinson made Layup.
+Pittsburgh,Miami,11,15,7,54,0,Davon Reed missed Three Point Jumper.
+Pittsburgh,Miami,11,15,7,54,0,Miami (FL) Offensive Rebound.
+Pittsburgh,Miami,11,15,8,8,0,Foul on Josh Newkirk.
+Pittsburgh,Miami,11,15,8,8,0,Official TV Timeout
+Pittsburgh,Miami,11,16,8,8,1,Manu Lecomte made Free Throw.
+Pittsburgh,Miami,11,16,8,8,0,Manu Lecomte missed Free Throw.
+Pittsburgh,Miami,11,16,8,8,0,Chris Jones Defensive Rebound.
+Pittsburgh,Miami,11,16,8,29,0,Foul on Jamel Artis.
+Pittsburgh,Miami,11,16,8,29,0,Jamel Artis Turnover.
+Pittsburgh,Miami,11,16,8,44,0,Foul on Cameron Wright.
+Pittsburgh,Miami,11,16,8,59,0,Donnavan Kirk missed Layup.
+Pittsburgh,Miami,11,16,8,59,0,James Robinson Defensive Rebound.
+Pittsburgh,Miami,11,16,9,2,0,James Robinson Turnover.
+Pittsburgh,Miami,11,16,9,2,0,Tonye Jekiri Steal.
+Pittsburgh,Miami,11,16,9,9,0,Manu Lecomte Turnover.
+Pittsburgh,Miami,11,16,9,13,0,James Robinson missed Layup.
+Pittsburgh,Miami,11,16,9,13,0,Talib Zanna Offensive Rebound.
+Pittsburgh,Miami,13,16,9,13,1,Talib Zanna made Two Point Tip Shot.
+Pittsburgh,Miami,13,16,9,44,0,Foul on Lamar Patterson.
+Pittsburgh,Miami,13,17,9,44,1,Davon Reed made Free Throw.
+Pittsburgh,Miami,13,17,9,44,0,Davon Reed missed Free Throw.
+Pittsburgh,Miami,13,17,9,44,0,Michael Young Defensive Rebound.
+Pittsburgh,Miami,13,17,10,6,0,Foul on Tonye Jekiri.
+Pittsburgh,Miami,14,17,10,6,1,Talib Zanna made Free Throw.
+Pittsburgh,Miami,14,17,10,6,0,Talib Zanna missed Free Throw.
+Pittsburgh,Miami,14,17,10,6,0,Michael Young Offensive Rebound.
+Pittsburgh,Miami,14,17,10,17,0,Talib Zanna missed Jumper.
+Pittsburgh,Miami,14,17,10,17,0,Donnavan Kirk Block.
+Pittsburgh,Miami,14,17,10,17,0,James Robinson Offensive Rebound.
+Pittsburgh,Miami,16,17,10,32,1,Cameron Wright made Jumper.
+Pittsburgh,Miami,16,19,10,53,1,Garrius Adams made Layup.
+Pittsburgh,Miami,16,19,11,2,0,Talib Zanna missed Jumper.
+Pittsburgh,Miami,16,19,11,2,0,Garrius Adams Defensive Rebound.
+Pittsburgh,Miami,16,19,11,13,0,Rion Brown missed Jumper.
+Pittsburgh,Miami,16,19,11,13,0,Miami (FL) Offensive Rebound.
+Pittsburgh,Miami,16,19,11,15,0,Foul on James Robinson.
+Pittsburgh,Miami,16,19,11,15,0,Erik Swoope missed Free Throw.
+Pittsburgh,Miami,16,19,11,15,0,Michael Young Defensive Rebound.
+Pittsburgh,Miami,18,19,11,24,1,Cameron Wright made Jumper.
+Pittsburgh,Miami,18,19,11,52,0,Donnavan Kirk missed Jumper.
+Pittsburgh,Miami,18,19,11,52,0,Pittsburgh Defensive Rebound.
+Pittsburgh,Miami,18,19,12,13,0,Josh Newkirk missed Jumper.
+Pittsburgh,Miami,18,19,12,13,0,Erik Swoope Defensive Rebound.
+Pittsburgh,Miami,18,19,12,23,0,Garrius Adams missed Layup.
+Pittsburgh,Miami,18,19,12,23,0,Michael Young Block.
+Pittsburgh,Miami,18,19,12,28,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Miami,20,19,12,33,1,Cameron Wright made Jumper. Assisted by Lamar Patterson.
+Pittsburgh,Miami,20,19,12,35,0,Miami (FL)  Timeout
+Pittsburgh,Miami,20,19,13,2,0,Donnavan Kirk Turnover.
+Pittsburgh,Miami,20,19,13,2,0,Official TV Timeout
+Pittsburgh,Miami,20,19,13,12,0,Chris Jones missed Jumper.
+Pittsburgh,Miami,20,19,13,12,0,Donnavan Kirk Defensive Rebound.
+Pittsburgh,Miami,20,19,13,30,0,Garrius Adams Turnover.
+Pittsburgh,Miami,20,19,13,53,0,Lamar Patterson missed Jumper.
+Pittsburgh,Miami,20,19,13,53,0,Cameron Wright Offensive Rebound.
+Pittsburgh,Miami,20,19,14,5,0,Lamar Patterson missed Layup.
+Pittsburgh,Miami,20,19,14,5,0,Manu Lecomte Defensive Rebound.
+Pittsburgh,Miami,20,21,14,14,1,Erik Swoope made Dunk. Assisted by Rion Brown.
+Pittsburgh,Miami,20,21,14,49,0,Lamar Patterson missed Jumper.
+Pittsburgh,Miami,20,21,14,49,0,Michael Young Offensive Rebound.
+Pittsburgh,Miami,22,21,14,53,1,Michael Young made Layup.
+Pittsburgh,Miami,22,23,15,19,1,Erik Swoope made Dunk. Assisted by Rion Brown.
+Pittsburgh,Miami,22,23,15,54,0,Michael Young missed Three Point Jumper.
+Pittsburgh,Miami,22,23,15,54,0,Rion Brown Defensive Rebound.
+Pittsburgh,Miami,22,26,16,14,1,Rion Brown made Three Point Jumper. Assisted by Donnavan Kirk.
+Pittsburgh,Miami,22,26,16,37,0,Lamar Patterson Turnover.
+Pittsburgh,Miami,22,26,16,37,0,Official TV Timeout
+Pittsburgh,Miami,22,26,16,59,0,Manu Lecomte missed Three Point Jumper.
+Pittsburgh,Miami,22,26,16,59,0,James Robinson Defensive Rebound.
+Pittsburgh,Miami,22,26,17,12,0,Foul on Garrius Adams.
+Pittsburgh,Miami,22,26,17,33,0,Foul on Rion Brown.
+Pittsburgh,Miami,22,26,17,33,0,James Robinson missed Free Throw.
+Pittsburgh,Miami,22,26,17,33,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Miami,23,26,17,33,1,James Robinson made Free Throw.
+Pittsburgh,Miami,23,26,18,1,0,James Kelly missed Three Point Jumper.
+Pittsburgh,Miami,23,26,18,1,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Miami,23,26,18,10,0,Cameron Wright missed Layup.
+Pittsburgh,Miami,23,26,18,10,0,Michael Young Offensive Rebound.
+Pittsburgh,Miami,23,26,18,19,0,Jamel Artis missed Layup.
+Pittsburgh,Miami,23,26,18,19,0,James Kelly Defensive Rebound.
+Pittsburgh,Miami,23,26,18,19,0,Jump Ball won by Miami (FL)
+Pittsburgh,Miami,23,26,18,31,0,Foul on Josh Newkirk.
+Pittsburgh,Miami,23,27,18,31,1,Manu Lecomte made Free Throw.
+Pittsburgh,Miami,23,28,18,31,1,Manu Lecomte made Free Throw.
+Pittsburgh,Miami,26,28,18,52,1,Lamar Patterson made Three Point Jumper. Assisted by James Robinson.
+Pittsburgh,Miami,26,28,19,20,0,Davon Reed missed Jumper.
+Pittsburgh,Miami,26,28,19,20,0,Talib Zanna Defensive Rebound.
+Pittsburgh,Miami,29,28,19,56,1,Lamar Patterson made Three Point Jumper.
+Pittsburgh,Miami,29,28,20,0,0,End of 1st half
+Pittsburgh,Miami,29,28,20,0,0,Jump Ball won by Pittsburgh
+Pittsburgh,Miami,29,28,20,24,0,Michael Young missed Jumper.
+Pittsburgh,Miami,29,28,20,24,0,Garrius Adams Defensive Rebound.
+Pittsburgh,Miami,29,28,20,34,0,Rion Brown missed Three Point Jumper.
+Pittsburgh,Miami,29,28,20,34,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Miami,29,28,20,43,0,Cameron Wright missed Jumper.
+Pittsburgh,Miami,29,28,20,43,0,Rion Brown Defensive Rebound.
+Pittsburgh,Miami,29,28,20,59,0,Foul on Talib Zanna.
+Pittsburgh,Miami,29,28,21,13,0,Garrius Adams missed Three Point Jumper.
+Pittsburgh,Miami,29,28,21,13,0,Manu Lecomte Offensive Rebound.
+Pittsburgh,Miami,29,28,21,28,0,Garrius Adams missed Three Point Jumper.
+Pittsburgh,Miami,29,28,21,28,0,Michael Young Defensive Rebound.
+Pittsburgh,Miami,29,28,21,50,0,Cameron Wright missed Jumper.
+Pittsburgh,Miami,29,28,21,50,0,Garrius Adams Defensive Rebound.
+Pittsburgh,Miami,29,28,22,8,0,Foul on Manu Lecomte.
+Pittsburgh,Miami,29,28,22,8,0,Manu Lecomte Turnover.
+Pittsburgh,Miami,29,28,22,38,0,Talib Zanna missed Jumper.
+Pittsburgh,Miami,29,28,22,38,0,Tonye Jekiri Defensive Rebound.
+Pittsburgh,Miami,29,28,22,57,0,Rion Brown missed Three Point Jumper.
+Pittsburgh,Miami,29,28,22,57,0,James Robinson Defensive Rebound.
+Pittsburgh,Miami,29,28,23,3,0,Lamar Patterson missed Three Point Jumper.
+Pittsburgh,Miami,29,28,23,3,0,Miami (FL) Defensive Rebound.
+Pittsburgh,Miami,29,28,23,39,0,Garrius Adams missed Layup.
+Pittsburgh,Miami,29,28,23,39,0,Tonye Jekiri Offensive Rebound.
+Pittsburgh,Miami,29,28,24,2,0,Jump Ball won by Miami (FL)
+Pittsburgh,Miami,29,28,24,2,0,Official TV Timeout
+Pittsburgh,Miami,29,28,24,16,0,Miami (FL)  Turnover.
+Pittsburgh,Miami,29,28,24,45,0,Talib Zanna missed Jumper.
+Pittsburgh,Miami,29,28,24,45,0,Cameron Wright Offensive Rebound.
+Pittsburgh,Miami,32,28,25,6,1,Lamar Patterson made Three Point Jumper. Assisted by Cameron Wright.
+Pittsburgh,Miami,32,28,25,27,0,Garrius Adams missed Three Point Jumper.
+Pittsburgh,Miami,32,28,25,27,0,Rion Brown Offensive Rebound.
+Pittsburgh,Miami,32,30,25,36,1,Manu Lecomte made Jumper.
+Pittsburgh,Miami,34,30,25,55,1,Talib Zanna made Jumper. Assisted by Lamar Patterson.
+Pittsburgh,Miami,34,30,26,18,0,Garrius Adams Turnover.
+Pittsburgh,Miami,34,30,26,18,0,Talib Zanna Steal.
+Pittsburgh,Miami,34,30,26,25,0,Foul on Tonye Jekiri.
+Pittsburgh,Miami,35,30,26,25,1,Jamel Artis made Free Throw.
+Pittsburgh,Miami,35,30,26,25,0,Jamel Artis missed Free Throw.
+Pittsburgh,Miami,35,30,26,25,0,Davon Reed Defensive Rebound.
+Pittsburgh,Miami,35,30,26,40,0,Manu Lecomte missed Jumper.
+Pittsburgh,Miami,35,30,26,40,0,James Robinson Defensive Rebound.
+Pittsburgh,Miami,37,30,26,44,1,Josh Newkirk made Layup. Assisted by James Robinson.
+Pittsburgh,Miami,37,30,26,51,0,Miami (FL)  Timeout
+Pittsburgh,Miami,37,32,27,13,1,Rion Brown made Layup.
+Pittsburgh,Miami,37,32,27,29,0,Josh Newkirk missed Jumper.
+Pittsburgh,Miami,37,32,27,29,0,Pittsburgh Offensive Rebound.
+Pittsburgh,Miami,37,32,27,29,0,Foul on Donnavan Kirk.
+Pittsburgh,Miami,37,32,27,45,0,Michael Young missed Jumper.
+Pittsburgh,Miami,37,32,27,45,0,Davon Reed Defensive Rebound.
+Pittsburgh,Miami,37,32,28,0,0,Foul on Raphael Akpejiori.
+Pittsburgh,Miami,37,32,28,0,0,Raphael Akpejiori Turnover.
+Pittsburgh,Miami,37,32,28,17,0,Michael Young Turnover.
+Pittsburgh,Miami,37,32,28,17,0,Official TV Timeout
+Pittsburgh,Miami,37,32,28,27,0,Foul on Michael Young.
+Pittsburgh,Miami,37,32,28,37,0,Foul on Lamar Patterson.
+Pittsburgh,Miami,37,32,29,11,0,Davon Reed missed Jumper.
+Pittsburgh,Miami,37,32,29,11,0,Michael Young Defensive Rebound.
+Pittsburgh,Miami,37,32,29,25,0,James Robinson missed Jumper.
+Pittsburgh,Miami,37,32,29,25,0,Manu Lecomte Defensive Rebound.
+Pittsburgh,Miami,37,32,29,31,0,Davon Reed missed Three Point Jumper.
+Pittsburgh,Miami,37,32,29,31,0,Manu Lecomte Offensive Rebound.
+Pittsburgh,Miami,37,34,29,36,1,Manu Lecomte made Layup.
+Pittsburgh,Miami,37,34,30,9,0,Lamar Patterson Turnover.
+Pittsburgh,Miami,37,34,30,9,0,Davon Reed Steal.
+Pittsburgh,Miami,37,36,30,15,1,Rion Brown made Layup. Assisted by Davon Reed.
+Pittsburgh,Miami,37,36,30,17,0,Pittsburgh  Timeout
+Pittsburgh,Miami,37,36,30,49,0,Lamar Patterson missed Three Point Jumper.
+Pittsburgh,Miami,37,36,30,49,0,Cameron Wright Offensive Rebound.
+Pittsburgh,Miami,37,36,30,58,0,Foul on Tonye Jekiri.
+Pittsburgh,Miami,39,36,31,13,1,Talib Zanna made Jumper. Assisted by Lamar Patterson.
+Pittsburgh,Miami,39,36,31,31,0,Rion Brown missed Three Point Jumper.
+Pittsburgh,Miami,39,36,31,31,0,Jamel Artis Defensive Rebound.
+Pittsburgh,Miami,39,36,31,44,0,Foul on Garrius Adams.
+Pittsburgh,Miami,39,36,31,57,0,Jamel Artis missed Three Point Jumper.
+Pittsburgh,Miami,39,36,31,57,0,Lamar Patterson Offensive Rebound.
+Pittsburgh,Miami,39,36,32,5,0,Lamar Patterson missed Jumper.
+Pittsburgh,Miami,39,36,32,5,0,Miami (FL) Defensive Rebound.
+Pittsburgh,Miami,39,36,32,5,0,Foul on Jamel Artis.
+Pittsburgh,Miami,39,36,32,5,0,Official TV Timeout
+Pittsburgh,Miami,39,36,32,19,0,Davon Reed missed Layup.
+Pittsburgh,Miami,39,36,32,19,0,James Robinson Block.
+Pittsburgh,Miami,39,36,32,19,0,Pittsburgh Defensive Rebound.
+Pittsburgh,Miami,39,36,32,48,0,Jamel Artis missed Three Point Jumper.
+Pittsburgh,Miami,39,36,32,48,0,Talib Zanna Offensive Rebound.
+Pittsburgh,Miami,39,36,33,20,0,Chris Jones missed Three Point Jumper.
+Pittsburgh,Miami,39,36,33,20,0,Miami (FL) Defensive Rebound.
+Pittsburgh,Miami,39,36,33,48,0,Davon Reed missed Layup.
+Pittsburgh,Miami,39,36,33,48,0,Manu Lecomte Offensive Rebound.
+Pittsburgh,Miami,39,36,33,54,0,Manu Lecomte missed Three Point Jumper.
+Pittsburgh,Miami,39,36,33,54,0,Erik Swoope Offensive Rebound.
+Pittsburgh,Miami,39,38,34,5,1,Erik Swoope made Dunk. Assisted by Garrius Adams.
+Pittsburgh,Miami,39,38,34,19,0,James Robinson missed Jumper.
+Pittsburgh,Miami,39,38,34,19,0,Miami (FL) Defensive Rebound.
+Pittsburgh,Miami,39,38,34,40,0,Davon Reed missed Jumper.
+Pittsburgh,Miami,39,38,34,40,0,Pittsburgh Defensive Rebound.
+Pittsburgh,Miami,39,38,35,13,0,Lamar Patterson missed Jumper.
+Pittsburgh,Miami,39,38,35,13,0,Raphael Akpejiori Defensive Rebound.
+Pittsburgh,Miami,39,38,35,13,0,Foul on Lamar Patterson.
+Pittsburgh,Miami,39,38,35,25,0,Foul on Michael Young.
+Pittsburgh,Miami,39,39,35,25,1,Erik Swoope made Free Throw.
+Pittsburgh,Miami,39,39,35,25,0,Erik Swoope missed Free Throw.
+Pittsburgh,Miami,39,39,35,25,0,Erik Swoope Offensive Rebound.
+Pittsburgh,Miami,39,39,35,41,0,Rion Brown Turnover.
+Pittsburgh,Miami,39,39,35,41,0,Cameron Wright Steal.
+Pittsburgh,Miami,39,39,36,10,0,Official TV Timeout
+Pittsburgh,Miami,39,39,36,13,0,James Robinson missed Three Point Jumper.
+Pittsburgh,Miami,39,39,36,13,0,Talib Zanna Offensive Rebound.
+Pittsburgh,Miami,39,39,36,15,0,Foul on Erik Swoope.
+Pittsburgh,Miami,40,39,36,15,1,Talib Zanna made Free Throw.
+Pittsburgh,Miami,41,39,36,15,1,Talib Zanna made Free Throw.
+Pittsburgh,Miami,41,42,36,28,1,Rion Brown made Three Point Jumper. Assisted by Erik Swoope.
+Pittsburgh,Miami,43,42,36,52,1,James Robinson made Jumper.
+Pittsburgh,Miami,43,42,37,19,0,Foul on Lamar Patterson.
+Pittsburgh,Miami,43,42,37,19,0,Rion Brown missed Free Throw.
+Pittsburgh,Miami,43,42,37,19,0,Miami (FL) Deadball Team Rebound.
+Pittsburgh,Miami,43,42,37,19,0,Rion Brown missed Free Throw.
+Pittsburgh,Miami,43,42,37,19,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Miami,43,42,37,44,0,Josh Newkirk missed Three Point Jumper.
+Pittsburgh,Miami,43,42,37,44,0,Garrius Adams Block.
+Pittsburgh,Miami,43,42,37,44,0,Rion Brown Defensive Rebound.
+Pittsburgh,Miami,43,42,38,13,0,Garrius Adams missed Jumper.
+Pittsburgh,Miami,43,42,38,13,0,James Robinson Defensive Rebound.
+Pittsburgh,Miami,43,42,38,25,0,Foul on Erik Swoope.
+Pittsburgh,Miami,43,42,38,25,0,Miami (FL)  Timeout
+Pittsburgh,Miami,43,42,38,25,0,Lamar Patterson missed Free Throw.
+Pittsburgh,Miami,43,42,38,25,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Miami,44,42,38,25,1,Lamar Patterson made Free Throw.
+Pittsburgh,Miami,44,42,38,39,0,Foul on Cameron Wright.
+Pittsburgh,Miami,44,42,38,39,0,Garrius Adams missed Free Throw.
+Pittsburgh,Miami,44,42,38,39,0,Miami (FL) Deadball Team Rebound.
+Pittsburgh,Miami,44,42,38,39,0,Garrius Adams missed Free Throw.
+Pittsburgh,Miami,44,42,38,39,0,Josh Newkirk Defensive Rebound.
+Pittsburgh,Miami,44,42,38,45,0,Pittsburgh  Timeout
+Pittsburgh,Miami,44,42,39,3,0,Pittsburgh  Timeout
+Pittsburgh,Miami,44,42,39,12,0,James Robinson missed Jumper.
+Pittsburgh,Miami,44,42,39,12,0,Erik Swoope Defensive Rebound.
+Pittsburgh,Miami,44,42,39,17,0,Miami (FL)  Timeout
+Pittsburgh,Miami,44,45,39,33,1,Rion Brown made Three Point Jumper. Assisted by Manu Lecomte.
+Pittsburgh,Miami,44,45,39,35,0,Pittsburgh  Timeout
+Pittsburgh,Miami,46,45,39,45,1,Lamar Patterson made Layup.
+Pittsburgh,Miami,46,45,39,46,0,Miami (FL)  Timeout
+Pittsburgh,Miami,46,45,39,53,0,Foul on James Robinson.
+Pittsburgh,Miami,46,45,39,53,0,Manu Lecomte missed Free Throw.
+Pittsburgh,Miami,46,45,39,53,0,Miami (FL) Deadball Team Rebound.
+Pittsburgh,Miami,46,46,39,53,1,Manu Lecomte made Free Throw.
+Pittsburgh,Miami,46,46,39,58,0,Cameron Wright missed Three Point Jumper.
+Pittsburgh,Miami,46,46,39,58,0,Miami (FL) Defensive Rebound.
+Pittsburgh,Miami,46,46,40,0,0,End of 2nd half

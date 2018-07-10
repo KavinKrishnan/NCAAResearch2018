@@ -1,0 +1,423 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+VCU,Massachusetts,0,0,0,0,0,Jump Ball won by Massachusetts
+VCU,Massachusetts,0,0,0,30,0,Chaz Williams Turnover.
+VCU,Massachusetts,0,0,0,30,0,Rob Brandenberg Steal.
+VCU,Massachusetts,0,0,0,37,0,Jordan Burgess missed Layup.
+VCU,Massachusetts,0,0,0,37,0,Raphiael Putney Defensive Rebound.
+VCU,Massachusetts,0,0,0,52,0,Derrick Gordon missed Layup.
+VCU,Massachusetts,0,0,0,52,0,Juvonte Reddic Defensive Rebound.
+VCU,Massachusetts,0,0,1,5,0,Jordan Burgess missed Three Point Jumper.
+VCU,Massachusetts,0,0,1,5,0,Sampson Carter Defensive Rebound.
+VCU,Massachusetts,0,2,1,26,1,Cady Lalanne made Dunk. Assisted by Chaz Williams.
+VCU,Massachusetts,0,2,1,41,0,Foul on Raphiael Putney.
+VCU,Massachusetts,0,2,1,41,0,Treveon Graham missed Free Throw.
+VCU,Massachusetts,0,2,1,41,0,VCU Deadball Team Rebound.
+VCU,Massachusetts,0,2,1,41,0,Treveon Graham missed Free Throw.
+VCU,Massachusetts,0,2,1,41,0,Raphiael Putney Defensive Rebound.
+VCU,Massachusetts,0,4,1,54,1,Chaz Williams made Jumper.
+VCU,Massachusetts,2,4,1,59,1,Briante Weber made Layup.
+VCU,Massachusetts,2,4,2,7,0,Foul on Cady Lalanne.
+VCU,Massachusetts,2,4,2,7,0,Cady Lalanne Turnover.
+VCU,Massachusetts,2,4,2,10,0,Treveon Graham missed Three Point Jumper.
+VCU,Massachusetts,2,4,2,10,0,Derrick Gordon Defensive Rebound.
+VCU,Massachusetts,2,4,2,18,0,Raphiael Putney missed Three Point Jumper.
+VCU,Massachusetts,2,4,2,18,0,Treveon Graham Defensive Rebound.
+VCU,Massachusetts,2,4,2,27,0,Briante Weber Turnover.
+VCU,Massachusetts,2,6,2,43,1,Derrick Gordon made Jumper. Assisted by Sampson Carter.
+VCU,Massachusetts,5,6,2,49,1,Rob Brandenberg made Three Point Jumper. Assisted by Juvonte Reddic.
+VCU,Massachusetts,5,6,3,19,0,Raphiael Putney Turnover.
+VCU,Massachusetts,5,6,3,19,0,Briante Weber Steal.
+VCU,Massachusetts,5,6,3,19,0,Jump Ball won by VCU
+VCU,Massachusetts,7,6,3,31,1,Juvonte Reddic made Layup. Assisted by Melvin Johnson.
+VCU,Massachusetts,7,8,3,31,1,Maxie Esho made Layup.
+VCU,Massachusetts,7,8,3,31,0,Melvin Johnson Turnover.
+VCU,Massachusetts,7,8,3,31,0,Cady Lalanne Steal.
+VCU,Massachusetts,7,8,4,30,0,Maxie Esho missed Jumper.
+VCU,Massachusetts,7,8,4,30,0,Juvonte Reddic Defensive Rebound.
+VCU,Massachusetts,7,8,4,43,0,Treveon Graham missed Three Point Jumper.
+VCU,Massachusetts,7,8,4,43,0,Cady Lalanne Defensive Rebound.
+VCU,Massachusetts,7,8,4,49,0,Chaz Williams Turnover.
+VCU,Massachusetts,7,8,4,49,0,Melvin Johnson Steal.
+VCU,Massachusetts,9,8,4,54,1,Briante Weber made Layup. Assisted by Melvin Johnson.
+VCU,Massachusetts,9,8,5,23,0,Maxie Esho Turnover.
+VCU,Massachusetts,9,8,5,23,0,Melvin Johnson Steal.
+VCU,Massachusetts,9,8,5,27,0,Foul on Maxie Esho.
+VCU,Massachusetts,9,8,5,27,0,Official TV Timeout
+VCU,Massachusetts,9,8,5,49,0,Jarred Guest Turnover.
+VCU,Massachusetts,9,8,5,49,0,Chaz Williams Steal.
+VCU,Massachusetts,9,10,5,56,1,Tyler Bergantino made Layup.
+VCU,Massachusetts,9,10,6,13,0,Foul on Maxie Esho.
+VCU,Massachusetts,9,10,6,13,0,Mo Alie-Cox missed Free Throw.
+VCU,Massachusetts,9,10,6,13,0,VCU Deadball Team Rebound.
+VCU,Massachusetts,9,10,6,13,0,Mo Alie-Cox missed Free Throw.
+VCU,Massachusetts,9,10,6,13,0,Trey Davis Defensive Rebound.
+VCU,Massachusetts,9,10,6,25,0,Tyler Bergantino missed Layup.
+VCU,Massachusetts,9,10,6,25,0,Rob Brandenberg Block.
+VCU,Massachusetts,9,10,6,25,0,Sampson Carter Offensive Rebound.
+VCU,Massachusetts,9,12,6,25,1,Sampson Carter made Two Point Tip Shot.
+VCU,Massachusetts,11,12,6,36,1,Rob Brandenberg made Jumper.
+VCU,Massachusetts,11,12,6,42,0,Trey Davis missed Jumper.
+VCU,Massachusetts,11,12,6,42,0,JeQuan Lewis Defensive Rebound.
+VCU,Massachusetts,11,12,6,54,0,Melvin Johnson missed Three Point Jumper.
+VCU,Massachusetts,11,12,6,54,0,Tyler Bergantino Defensive Rebound.
+VCU,Massachusetts,11,12,7,4,0,Chaz Williams missed Layup.
+VCU,Massachusetts,11,12,7,4,0,Mo Alie-Cox Defensive Rebound.
+VCU,Massachusetts,11,12,7,11,0,Melvin Johnson Turnover.
+VCU,Massachusetts,11,12,7,11,0,Trey Davis Steal.
+VCU,Massachusetts,11,12,7,23,0,Sampson Carter missed Layup.
+VCU,Massachusetts,11,12,7,23,0,Massachusetts Offensive Rebound.
+VCU,Massachusetts,11,12,7,23,0,Foul on Treveon Graham.
+VCU,Massachusetts,11,12,7,28,0,Raphiael Putney missed Jumper.
+VCU,Massachusetts,11,12,7,28,0,Briante Weber Defensive Rebound.
+VCU,Massachusetts,11,12,7,38,0,Foul on Briante Weber.
+VCU,Massachusetts,11,12,7,38,0,Briante Weber Turnover.
+VCU,Massachusetts,11,14,7,55,1,Sampson Carter made Layup. Assisted by Derrick Gordon.
+VCU,Massachusetts,13,14,8,1,1,Treveon Graham made Jumper. Assisted by Briante Weber.
+VCU,Massachusetts,13,14,8,25,0,Raphiael Putney missed Dunk.
+VCU,Massachusetts,13,14,8,25,0,Treveon Graham Defensive Rebound.
+VCU,Massachusetts,15,14,8,31,1,Treveon Graham made Layup.
+VCU,Massachusetts,15,14,8,51,0,Sampson Carter missed Three Point Jumper.
+VCU,Massachusetts,15,14,8,51,0,Briante Weber Defensive Rebound.
+VCU,Massachusetts,17,14,8,56,1,Treveon Graham made Layup. Assisted by Briante Weber.
+VCU,Massachusetts,17,14,8,56,0,Foul on Derrick Gordon.
+VCU,Massachusetts,17,14,8,56,0,Official TV Timeout
+VCU,Massachusetts,17,14,8,56,0,Treveon Graham missed Free Throw.
+VCU,Massachusetts,17,14,8,56,0,Sampson Carter Defensive Rebound.
+VCU,Massachusetts,17,16,9,25,1,Derrick Gordon made Layup.
+VCU,Massachusetts,17,16,9,25,0,Foul on Treveon Graham.
+VCU,Massachusetts,17,17,9,25,1,Derrick Gordon made Free Throw.
+VCU,Massachusetts,17,17,9,40,0,Briante Weber missed Three Point Jumper.
+VCU,Massachusetts,17,17,9,40,0,Derrick Gordon Defensive Rebound.
+VCU,Massachusetts,17,17,9,49,0,Foul on Jarred Guest.
+VCU,Massachusetts,17,17,9,49,0,Derrick Gordon missed Free Throw.
+VCU,Massachusetts,17,17,9,49,0,Massachusetts Deadball Team Rebound.
+VCU,Massachusetts,17,18,9,49,1,Derrick Gordon made Free Throw.
+VCU,Massachusetts,17,18,10,4,0,Juvonte Reddic Turnover.
+VCU,Massachusetts,17,18,10,4,0,Derrick Gordon Steal.
+VCU,Massachusetts,17,18,10,11,0,Sampson Carter missed Jumper.
+VCU,Massachusetts,17,18,10,11,0,Sampson Carter Offensive Rebound.
+VCU,Massachusetts,17,18,10,13,0,Sampson Carter missed Layup.
+VCU,Massachusetts,17,18,10,13,0,Jarred Guest Block.
+VCU,Massachusetts,17,18,10,13,0,Rob Brandenberg Defensive Rebound.
+VCU,Massachusetts,17,18,10,19,0,Rob Brandenberg missed Layup.
+VCU,Massachusetts,17,18,10,19,0,Sampson Carter Defensive Rebound.
+VCU,Massachusetts,17,18,10,24,0,Chaz Williams missed Three Point Jumper.
+VCU,Massachusetts,17,18,10,24,0,Rob Brandenberg Defensive Rebound.
+VCU,Massachusetts,17,18,10,33,0,Rob Brandenberg missed Layup.
+VCU,Massachusetts,17,18,10,33,0,Juvonte Reddic Offensive Rebound.
+VCU,Massachusetts,19,18,10,33,1,Juvonte Reddic made Two Point Tip Shot.
+VCU,Massachusetts,19,18,11,7,0,Chaz Williams Turnover.
+VCU,Massachusetts,19,18,11,15,0,Foul on Derrick Gordon.
+VCU,Massachusetts,19,18,11,22,0,Treveon Graham missed Three Point Jumper.
+VCU,Massachusetts,19,18,11,22,0,Raphiael Putney Defensive Rebound.
+VCU,Massachusetts,19,18,11,40,0,Chaz Williams missed Layup.
+VCU,Massachusetts,19,18,11,40,0,Sampson Carter Offensive Rebound.
+VCU,Massachusetts,19,18,11,40,0,Sampson Carter missed Two Point Tip Shot.
+VCU,Massachusetts,19,18,11,40,0,Treveon Graham Defensive Rebound.
+VCU,Massachusetts,19,18,12,1,0,Treveon Graham missed Three Point Jumper.
+VCU,Massachusetts,19,18,12,1,0,VCU Offensive Rebound.
+VCU,Massachusetts,19,18,12,7,0,Official TV Timeout
+VCU,Massachusetts,19,18,12,9,0,Juvonte Reddic missed Jumper.
+VCU,Massachusetts,19,18,12,9,0,Sampson Carter Defensive Rebound.
+VCU,Massachusetts,19,18,12,20,0,Trey Davis missed Jumper.
+VCU,Massachusetts,19,18,12,20,0,Briante Weber Defensive Rebound.
+VCU,Massachusetts,19,18,12,32,0,Foul on Raphiael Putney.
+VCU,Massachusetts,20,18,12,32,1,JeQuan Lewis made Free Throw.
+VCU,Massachusetts,21,18,12,32,1,JeQuan Lewis made Free Throw.
+VCU,Massachusetts,21,18,12,43,0,Raphiael Putney missed Jumper.
+VCU,Massachusetts,21,18,12,43,0,Juvonte Reddic Defensive Rebound.
+VCU,Massachusetts,21,18,12,49,0,JeQuan Lewis Turnover.
+VCU,Massachusetts,21,18,12,49,0,Raphiael Putney Steal.
+VCU,Massachusetts,21,18,12,53,0,Foul on JeQuan Lewis.
+VCU,Massachusetts,21,18,12,53,0,Trey Davis missed Free Throw.
+VCU,Massachusetts,21,18,12,53,0,Massachusetts Deadball Team Rebound.
+VCU,Massachusetts,21,19,12,53,1,Trey Davis made Free Throw.
+VCU,Massachusetts,21,19,13,21,0,Juvonte Reddic missed Layup.
+VCU,Massachusetts,21,19,13,21,0,Demetrius Dyson Defensive Rebound.
+VCU,Massachusetts,21,19,13,28,0,Sampson Carter Turnover.
+VCU,Massachusetts,21,19,13,28,0,Juvonte Reddic Steal.
+VCU,Massachusetts,23,19,13,34,1,Briante Weber made Jumper. Assisted by Juvonte Reddic.
+VCU,Massachusetts,23,19,13,45,0,Trey Davis missed Layup.
+VCU,Massachusetts,23,19,13,45,0,Massachusetts Offensive Rebound.
+VCU,Massachusetts,23,19,13,45,0,Foul on Melvin Johnson.
+VCU,Massachusetts,23,20,13,45,1,Cady Lalanne made Free Throw.
+VCU,Massachusetts,23,21,13,45,1,Cady Lalanne made Free Throw.
+VCU,Massachusetts,25,21,13,54,1,Melvin Johnson made Jumper.
+VCU,Massachusetts,25,21,14,7,0,Demetrius Dyson missed Three Point Jumper.
+VCU,Massachusetts,25,21,14,7,0,Briante Weber Defensive Rebound.
+VCU,Massachusetts,27,21,14,12,1,Juvonte Reddic made Dunk. Assisted by Briante Weber.
+VCU,Massachusetts,27,21,14,12,0,Massachusetts  Timeout
+VCU,Massachusetts,27,21,14,28,0,Chaz Williams missed Layup.
+VCU,Massachusetts,27,21,14,28,0,Juvonte Reddic Block.
+VCU,Massachusetts,27,21,14,28,0,Briante Weber Defensive Rebound.
+VCU,Massachusetts,30,21,14,37,1,Melvin Johnson made Three Point Jumper. Assisted by Briante Weber.
+VCU,Massachusetts,30,21,14,50,0,Foul on Juvonte Reddic.
+VCU,Massachusetts,30,22,14,50,1,Sampson Carter made Free Throw.
+VCU,Massachusetts,30,22,14,50,0,Sampson Carter missed Free Throw.
+VCU,Massachusetts,30,22,14,50,0,JeQuan Lewis Defensive Rebound.
+VCU,Massachusetts,30,22,15,16,0,Melvin Johnson Turnover.
+VCU,Massachusetts,30,24,15,30,1,Cady Lalanne made Layup. Assisted by Sampson Carter.
+VCU,Massachusetts,32,24,15,41,1,Mo Alie-Cox made Dunk. Assisted by Melvin Johnson.
+VCU,Massachusetts,32,24,15,41,0,Foul on Demetrius Dyson.
+VCU,Massachusetts,33,24,15,41,1,Mo Alie-Cox made Free Throw.
+VCU,Massachusetts,33,24,15,47,0,Trey Davis missed Jumper.
+VCU,Massachusetts,33,24,15,47,0,Chaz Williams Offensive Rebound.
+VCU,Massachusetts,33,26,15,51,1,Chaz Williams made Jumper.
+VCU,Massachusetts,33,26,16,0,0,Foul on Demetrius Dyson.
+VCU,Massachusetts,33,26,16,0,0,JeQuan Lewis missed Free Throw.
+VCU,Massachusetts,33,26,16,0,0,VCU Deadball Team Rebound.
+VCU,Massachusetts,34,26,16,0,1,JeQuan Lewis made Free Throw.
+VCU,Massachusetts,34,26,16,1,0,Foul on Briante Weber.
+VCU,Massachusetts,34,26,16,1,0,Official TV Timeout
+VCU,Massachusetts,34,27,16,1,1,Chaz Williams made Free Throw.
+VCU,Massachusetts,34,28,16,1,1,Chaz Williams made Free Throw.
+VCU,Massachusetts,34,28,16,12,0,Melvin Johnson missed Three Point Jumper.
+VCU,Massachusetts,34,28,16,12,0,Cady Lalanne Defensive Rebound.
+VCU,Massachusetts,34,30,16,23,1,Trey Davis made Jumper.
+VCU,Massachusetts,34,30,16,35,0,Juvonte Reddic missed Jumper.
+VCU,Massachusetts,34,30,16,35,0,Cady Lalanne Block.
+VCU,Massachusetts,34,30,16,35,0,Rob Brandenberg Offensive Rebound.
+VCU,Massachusetts,36,30,16,35,1,Rob Brandenberg made Two Point Tip Shot.
+VCU,Massachusetts,36,30,16,49,0,Cady Lalanne missed Dunk.
+VCU,Massachusetts,36,30,16,49,0,Mo Alie-Cox Block.
+VCU,Massachusetts,36,30,16,49,0,Cady Lalanne Offensive Rebound.
+VCU,Massachusetts,36,32,16,57,1,Cady Lalanne made Dunk.
+VCU,Massachusetts,36,32,16,57,0,Rob Brandenberg Turnover.
+VCU,Massachusetts,36,32,16,57,0,Trey Davis Steal.
+VCU,Massachusetts,36,32,17,10,0,Sampson Carter missed Three Point Jumper.
+VCU,Massachusetts,36,32,17,10,0,Melvin Johnson Defensive Rebound.
+VCU,Massachusetts,36,32,17,18,0,Melvin Johnson missed Layup.
+VCU,Massachusetts,36,32,17,18,0,Sampson Carter Defensive Rebound.
+VCU,Massachusetts,36,34,17,29,1,Sampson Carter made Layup. Assisted by Chaz Williams.
+VCU,Massachusetts,36,34,17,31,0,VCU  Timeout
+VCU,Massachusetts,36,34,17,41,0,Treveon Graham missed Jumper.
+VCU,Massachusetts,36,34,17,41,0,Chaz Williams Defensive Rebound.
+VCU,Massachusetts,36,34,17,52,0,Trey Davis missed Three Point Jumper.
+VCU,Massachusetts,36,34,17,52,0,VCU Defensive Rebound.
+VCU,Massachusetts,39,34,18,26,1,Treveon Graham made Three Point Jumper. Assisted by Jordan Burgess.
+VCU,Massachusetts,39,34,18,58,0,Cady Lalanne missed Jumper.
+VCU,Massachusetts,39,34,18,58,0,Jarred Guest Defensive Rebound.
+VCU,Massachusetts,39,34,19,6,0,Treveon Graham missed Layup.
+VCU,Massachusetts,39,34,19,6,0,Demetrius Dyson Defensive Rebound.
+VCU,Massachusetts,39,34,19,20,0,Foul on Jordan Burgess.
+VCU,Massachusetts,39,34,19,20,0,Sampson Carter missed Free Throw.
+VCU,Massachusetts,39,34,19,20,0,Massachusetts Deadball Team Rebound.
+VCU,Massachusetts,39,34,19,20,0,Sampson Carter missed Free Throw.
+VCU,Massachusetts,39,34,19,20,0,Juvonte Reddic Defensive Rebound.
+VCU,Massachusetts,39,34,19,53,0,Treveon Graham missed Jumper.
+VCU,Massachusetts,39,34,19,53,0,Sampson Carter Defensive Rebound.
+VCU,Massachusetts,39,34,20,0,0,End of 1st half
+VCU,Massachusetts,39,34,20,0,0,Jump Ball won by Massachusetts
+VCU,Massachusetts,39,34,20,12,0,Cady Lalanne missed Jumper.
+VCU,Massachusetts,39,34,20,12,0,Jordan Burgess Defensive Rebound.
+VCU,Massachusetts,39,34,20,30,0,Jump Ball won by VCU
+VCU,Massachusetts,39,34,20,39,0,Foul on Derrick Gordon.
+VCU,Massachusetts,39,34,20,43,0,Jordan Burgess missed Layup.
+VCU,Massachusetts,39,34,20,43,0,Cady Lalanne Defensive Rebound.
+VCU,Massachusetts,39,34,20,49,0,Sampson Carter missed Layup.
+VCU,Massachusetts,39,34,20,49,0,Jordan Burgess Defensive Rebound.
+VCU,Massachusetts,39,34,21,1,0,Juvonte Reddic missed Layup.
+VCU,Massachusetts,39,34,21,1,0,Cady Lalanne Defensive Rebound.
+VCU,Massachusetts,39,36,21,7,1,Chaz Williams made Layup.
+VCU,Massachusetts,41,36,21,17,1,Juvonte Reddic made Layup. Assisted by Jordan Burgess.
+VCU,Massachusetts,41,36,21,26,0,Derrick Gordon Turnover.
+VCU,Massachusetts,41,36,21,26,0,Briante Weber Steal.
+VCU,Massachusetts,41,36,21,32,0,Rob Brandenberg missed Three Point Jumper.
+VCU,Massachusetts,41,36,21,32,0,Briante Weber Offensive Rebound.
+VCU,Massachusetts,41,36,21,40,0,Briante Weber Turnover.
+VCU,Massachusetts,41,36,21,40,0,Sampson Carter Steal.
+VCU,Massachusetts,41,38,21,44,1,Cady Lalanne made Dunk. Assisted by Chaz Williams.
+VCU,Massachusetts,41,38,22,17,0,Juvonte Reddic missed Layup.
+VCU,Massachusetts,41,38,22,17,0,Sampson Carter Block.
+VCU,Massachusetts,41,38,22,17,0,Cady Lalanne Defensive Rebound.
+VCU,Massachusetts,41,38,22,21,0,Chaz Williams Turnover.
+VCU,Massachusetts,41,38,22,21,0,Briante Weber Steal.
+VCU,Massachusetts,41,38,22,27,0,Rob Brandenberg missed Three Point Jumper.
+VCU,Massachusetts,41,38,22,27,0,Treveon Graham Offensive Rebound.
+VCU,Massachusetts,43,38,22,31,1,Treveon Graham made Layup.
+VCU,Massachusetts,43,38,22,31,0,Foul on Cady Lalanne.
+VCU,Massachusetts,44,38,22,31,1,Treveon Graham made Free Throw.
+VCU,Massachusetts,44,38,22,38,0,Maxie Esho missed Layup.
+VCU,Massachusetts,44,38,22,38,0,Raphiael Putney Offensive Rebound.
+VCU,Massachusetts,44,40,22,38,1,Raphiael Putney made Two Point Tip Shot.
+VCU,Massachusetts,44,40,22,55,0,Treveon Graham missed Three Point Jumper.
+VCU,Massachusetts,44,40,22,55,0,Rob Brandenberg Offensive Rebound.
+VCU,Massachusetts,44,40,23,17,0,Rob Brandenberg missed Jumper.
+VCU,Massachusetts,44,40,23,17,0,Mo Alie-Cox Offensive Rebound.
+VCU,Massachusetts,46,40,23,17,1,Mo Alie-Cox made Two Point Tip Shot.
+VCU,Massachusetts,46,42,23,31,1,Derrick Gordon made Jumper. Assisted by Raphiael Putney.
+VCU,Massachusetts,46,42,23,37,0,Briante Weber Turnover.
+VCU,Massachusetts,46,42,23,37,0,Derrick Gordon Steal.
+VCU,Massachusetts,46,44,23,44,1,Maxie Esho made Dunk. Assisted by Raphiael Putney.
+VCU,Massachusetts,46,44,24,0,0,Briante Weber missed Layup.
+VCU,Massachusetts,46,44,24,0,0,Cady Lalanne Defensive Rebound.
+VCU,Massachusetts,46,44,24,5,0,Derrick Gordon missed Layup.
+VCU,Massachusetts,46,44,24,5,0,Jordan Burgess Defensive Rebound.
+VCU,Massachusetts,49,44,24,11,1,Rob Brandenberg made Three Point Jumper. Assisted by Jordan Burgess.
+VCU,Massachusetts,49,44,24,26,0,Foul on Mo Alie-Cox.
+VCU,Massachusetts,49,44,24,26,0,Official TV Timeout
+VCU,Massachusetts,49,44,24,29,0,Chaz Williams missed Three Point Jumper.
+VCU,Massachusetts,49,44,24,29,0,Jarred Guest Defensive Rebound.
+VCU,Massachusetts,49,44,24,44,0,Juvonte Reddic Turnover.
+VCU,Massachusetts,49,44,24,44,0,Raphiael Putney Steal.
+VCU,Massachusetts,49,46,24,47,1,Raphiael Putney made Dunk.
+VCU,Massachusetts,49,46,25,12,0,Juvonte Reddic missed Jumper.
+VCU,Massachusetts,49,46,25,12,0,Cady Lalanne Block.
+VCU,Massachusetts,49,46,25,12,0,Maxie Esho Defensive Rebound.
+VCU,Massachusetts,49,46,25,16,0,Foul on JeQuan Lewis.
+VCU,Massachusetts,49,47,25,16,1,Chaz Williams made Free Throw.
+VCU,Massachusetts,49,48,25,16,1,Chaz Williams made Free Throw.
+VCU,Massachusetts,49,48,25,39,0,Melvin Johnson missed Three Point Jumper.
+VCU,Massachusetts,49,48,25,39,0,Rob Brandenberg Offensive Rebound.
+VCU,Massachusetts,49,48,25,55,0,JeQuan Lewis missed Layup.
+VCU,Massachusetts,49,48,25,55,0,Jarred Guest Offensive Rebound.
+VCU,Massachusetts,49,48,25,59,0,Melvin Johnson missed Jumper.
+VCU,Massachusetts,49,48,25,59,0,Juvonte Reddic Offensive Rebound.
+VCU,Massachusetts,49,48,26,3,0,Juvonte Reddic missed Layup.
+VCU,Massachusetts,49,48,26,3,0,Maxie Esho Defensive Rebound.
+VCU,Massachusetts,49,50,26,13,1,Chaz Williams made Layup.
+VCU,Massachusetts,52,50,26,28,1,JeQuan Lewis made Three Point Jumper. Assisted by Melvin Johnson.
+VCU,Massachusetts,52,50,26,43,0,Maxie Esho Turnover.
+VCU,Massachusetts,52,50,26,43,0,JeQuan Lewis Steal.
+VCU,Massachusetts,52,50,26,44,0,JeQuan Lewis Turnover.
+VCU,Massachusetts,52,50,26,50,0,Chaz Williams missed Jumper.
+VCU,Massachusetts,52,50,26,50,0,Trey Davis Offensive Rebound.
+VCU,Massachusetts,52,52,26,53,1,Trey Davis made Jumper.
+VCU,Massachusetts,52,52,27,27,0,Mo Alie-Cox Turnover.
+VCU,Massachusetts,52,52,27,27,0,Trey Davis Steal.
+VCU,Massachusetts,52,52,27,43,0,Foul on Mo Alie-Cox.
+VCU,Massachusetts,52,53,27,43,1,Sampson Carter made Free Throw.
+VCU,Massachusetts,52,54,27,43,1,Sampson Carter made Free Throw.
+VCU,Massachusetts,52,54,27,57,0,Rob Brandenberg missed Three Point Jumper.
+VCU,Massachusetts,52,54,27,57,0,Chaz Williams Defensive Rebound.
+VCU,Massachusetts,52,56,28,14,1,Chaz Williams made Layup. Assisted by Trey Davis.
+VCU,Massachusetts,52,56,28,16,0,VCU  Timeout
+VCU,Massachusetts,55,56,28,32,1,Melvin Johnson made Three Point Jumper. Assisted by Rob Brandenberg.
+VCU,Massachusetts,55,56,29,3,0,Sampson Carter missed Jumper.
+VCU,Massachusetts,55,56,29,3,0,Treveon Graham Defensive Rebound.
+VCU,Massachusetts,55,56,29,11,0,Melvin Johnson missed Layup.
+VCU,Massachusetts,55,56,29,11,0,Trey Davis Defensive Rebound.
+VCU,Massachusetts,55,56,29,26,0,Chaz Williams Turnover.
+VCU,Massachusetts,55,56,29,26,0,Official TV Timeout
+VCU,Massachusetts,55,56,29,26,0,Juvonte Reddic missed Layup.
+VCU,Massachusetts,55,56,29,26,0,Chaz Williams Block.
+VCU,Massachusetts,55,56,29,26,0,VCU Offensive Rebound.
+VCU,Massachusetts,55,56,29,53,0,Melvin Johnson missed Three Point Jumper.
+VCU,Massachusetts,55,56,29,53,0,Treveon Graham Offensive Rebound.
+VCU,Massachusetts,57,56,30,2,1,Juvonte Reddic made Layup. Assisted by Melvin Johnson.
+VCU,Massachusetts,57,56,30,15,0,Foul on Cady Lalanne.
+VCU,Massachusetts,57,56,30,15,0,Cady Lalanne Turnover.
+VCU,Massachusetts,57,56,30,32,0,Foul on Chaz Williams.
+VCU,Massachusetts,57,56,30,35,0,Juvonte Reddic missed Layup.
+VCU,Massachusetts,57,56,30,35,0,Briante Weber Offensive Rebound.
+VCU,Massachusetts,59,56,30,39,1,Briante Weber made Layup.
+VCU,Massachusetts,59,56,31,7,0,Tyler Bergantino missed Dunk.
+VCU,Massachusetts,59,56,31,7,0,Treveon Graham Defensive Rebound.
+VCU,Massachusetts,61,56,31,12,1,Melvin Johnson made Jumper. Assisted by Treveon Graham.
+VCU,Massachusetts,61,56,31,14,0,Massachusetts  Timeout
+VCU,Massachusetts,61,56,31,38,0,Chaz Williams missed Layup.
+VCU,Massachusetts,61,56,31,38,0,Maxie Esho Offensive Rebound.
+VCU,Massachusetts,61,58,31,43,1,Maxie Esho made Dunk.
+VCU,Massachusetts,61,58,32,6,0,Juvonte Reddic missed Jumper.
+VCU,Massachusetts,61,58,32,6,0,Jarred Guest Offensive Rebound.
+VCU,Massachusetts,63,58,32,8,1,Jarred Guest made Dunk.
+VCU,Massachusetts,63,60,32,18,1,Derrick Gordon made Layup. Assisted by Chaz Williams.
+VCU,Massachusetts,63,60,32,23,0,Foul on Chaz Williams.
+VCU,Massachusetts,63,60,32,23,0,Official TV Timeout
+VCU,Massachusetts,63,60,32,23,0,Juvonte Reddic missed Free Throw.
+VCU,Massachusetts,63,60,32,23,0,VCU Deadball Team Rebound.
+VCU,Massachusetts,64,60,32,23,1,Juvonte Reddic made Free Throw.
+VCU,Massachusetts,64,62,32,35,1,Trey Davis made Layup.
+VCU,Massachusetts,64,62,32,37,0,Foul on Chaz Williams.
+VCU,Massachusetts,67,62,32,55,1,Treveon Graham made Three Point Jumper. Assisted by JeQuan Lewis.
+VCU,Massachusetts,67,62,33,12,0,Foul on Jordan Burgess.
+VCU,Massachusetts,67,64,33,24,1,Chaz Williams made Jumper.
+VCU,Massachusetts,67,64,33,33,0,Mo Alie-Cox missed Layup.
+VCU,Massachusetts,67,64,33,33,0,Sampson Carter Block.
+VCU,Massachusetts,67,64,33,33,0,Mo Alie-Cox Offensive Rebound.
+VCU,Massachusetts,67,64,33,38,0,Mo Alie-Cox missed Layup.
+VCU,Massachusetts,67,64,33,38,0,Chaz Williams Defensive Rebound.
+VCU,Massachusetts,67,64,33,42,0,Sampson Carter missed Jumper.
+VCU,Massachusetts,67,64,33,42,0,Mo Alie-Cox Block.
+VCU,Massachusetts,67,64,33,42,0,Maxie Esho Offensive Rebound.
+VCU,Massachusetts,67,64,33,43,0,Foul on Treveon Graham.
+VCU,Massachusetts,67,64,33,43,0,Maxie Esho missed Free Throw.
+VCU,Massachusetts,67,64,33,43,0,Massachusetts Deadball Team Rebound.
+VCU,Massachusetts,67,64,33,43,0,Maxie Esho missed Free Throw.
+VCU,Massachusetts,67,64,33,43,0,Juvonte Reddic Defensive Rebound.
+VCU,Massachusetts,67,64,33,56,0,Treveon Graham missed Layup.
+VCU,Massachusetts,67,64,33,56,0,Maxie Esho Block.
+VCU,Massachusetts,67,64,33,56,0,Maxie Esho Defensive Rebound.
+VCU,Massachusetts,67,66,34,7,1,Derrick Gordon made Jumper. Assisted by Trey Davis.
+VCU,Massachusetts,67,66,34,15,0,Rob Brandenberg missed Three Point Jumper.
+VCU,Massachusetts,67,66,34,15,0,Derrick Gordon Defensive Rebound.
+VCU,Massachusetts,67,66,34,25,0,Chaz Williams missed Layup.
+VCU,Massachusetts,67,66,34,25,0,Treveon Graham Defensive Rebound.
+VCU,Massachusetts,67,66,34,59,0,Treveon Graham missed Three Point Jumper.
+VCU,Massachusetts,67,66,34,59,0,Trey Davis Defensive Rebound.
+VCU,Massachusetts,67,66,35,3,0,Foul on Treveon Graham.
+VCU,Massachusetts,67,67,35,3,1,Derrick Gordon made Free Throw.
+VCU,Massachusetts,67,68,35,3,1,Derrick Gordon made Free Throw.
+VCU,Massachusetts,67,68,35,19,0,Foul on Sampson Carter.
+VCU,Massachusetts,68,68,35,19,1,Juvonte Reddic made Free Throw.
+VCU,Massachusetts,68,68,35,19,0,Juvonte Reddic missed Free Throw.
+VCU,Massachusetts,68,68,35,19,0,Derrick Gordon Defensive Rebound.
+VCU,Massachusetts,68,68,35,34,0,Trey Davis missed Three Point Jumper.
+VCU,Massachusetts,68,68,35,34,0,Maxie Esho Offensive Rebound.
+VCU,Massachusetts,68,68,35,49,0,Derrick Gordon missed Layup.
+VCU,Massachusetts,68,68,35,49,0,Melvin Johnson Defensive Rebound.
+VCU,Massachusetts,68,68,35,52,0,Melvin Johnson Turnover.
+VCU,Massachusetts,68,68,35,52,0,Trey Davis Steal.
+VCU,Massachusetts,68,70,35,55,1,Trey Davis made Layup.
+VCU,Massachusetts,68,70,36,16,0,Juvonte Reddic missed Jumper.
+VCU,Massachusetts,68,70,36,16,0,Juvonte Reddic Offensive Rebound.
+VCU,Massachusetts,68,70,36,22,0,Foul on Trey Davis.
+VCU,Massachusetts,68,70,36,22,0,Official TV Timeout
+VCU,Massachusetts,69,70,36,22,1,Juvonte Reddic made Free Throw.
+VCU,Massachusetts,69,70,36,22,0,Juvonte Reddic missed Free Throw.
+VCU,Massachusetts,69,70,36,22,0,Trey Davis Defensive Rebound.
+VCU,Massachusetts,69,72,36,39,1,Derrick Gordon made Layup. Assisted by Chaz Williams.
+VCU,Massachusetts,69,72,36,46,0,Foul on Derrick Gordon.
+VCU,Massachusetts,69,72,36,46,0,Briante Weber missed Free Throw.
+VCU,Massachusetts,69,72,36,46,0,Sampson Carter Defensive Rebound.
+VCU,Massachusetts,69,72,37,25,0,Derrick Gordon missed Layup.
+VCU,Massachusetts,69,72,37,25,0,Juvonte Reddic Defensive Rebound.
+VCU,Massachusetts,69,72,37,31,0,VCU  Timeout
+VCU,Massachusetts,71,72,37,31,1,Treveon Graham made Layup. Assisted by Briante Weber.
+VCU,Massachusetts,71,72,37,48,0,Chaz Williams missed Layup.
+VCU,Massachusetts,71,72,37,49,0,Melvin Johnson Defensive Rebound.
+VCU,Massachusetts,71,72,37,59,0,Rob Brandenberg missed Three Point Jumper.
+VCU,Massachusetts,71,72,38,0,0,Cady Lalanne Defensive Rebound.
+VCU,Massachusetts,71,72,38,16,0,Massachusetts  Timeout
+VCU,Massachusetts,71,74,38,28,1,Trey Davis made Jumper.
+VCU,Massachusetts,71,74,38,36,0,Foul on Briante Weber.
+VCU,Massachusetts,71,74,38,36,0,Briante Weber Turnover.
+VCU,Massachusetts,71,74,39,5,0,Sampson Carter Turnover.
+VCU,Massachusetts,71,74,39,11,0,Treveon Graham missed Three Point Jumper.
+VCU,Massachusetts,71,74,39,11,0,Massachusetts Defensive Rebound.
+VCU,Massachusetts,71,74,39,25,0,Foul on Rob Brandenberg.
+VCU,Massachusetts,71,75,39,25,1,Trey Davis made Free Throw.
+VCU,Massachusetts,71,76,39,25,1,Trey Davis made Free Throw.
+VCU,Massachusetts,73,76,39,37,1,Treveon Graham made Layup.
+VCU,Massachusetts,73,76,39,37,0,VCU  Timeout
+VCU,Massachusetts,73,76,39,40,0,Massachusetts  Timeout
+VCU,Massachusetts,73,76,39,41,0,Sampson Carter Turnover.
+VCU,Massachusetts,74,76,39,41,1,Melvin Johnson made Free Throw.
+VCU,Massachusetts,73,76,39,41,0,Melvin Johnson Steal.
+VCU,Massachusetts,73,76,39,41,0,Foul on Raphiael Putney.
+VCU,Massachusetts,75,76,39,41,1,Melvin Johnson made Free Throw.
+VCU,Massachusetts,75,76,39,44,0,Foul on Briante Weber.
+VCU,Massachusetts,75,77,39,44,1,Chaz Williams made Free Throw.
+VCU,Massachusetts,75,78,39,44,1,Chaz Williams made Free Throw.
+VCU,Massachusetts,75,78,39,50,0,Briante Weber Turnover.
+VCU,Massachusetts,75,78,39,50,0,Chaz Williams Steal.
+VCU,Massachusetts,75,78,39,52,0,Foul on Melvin Johnson.
+VCU,Massachusetts,75,79,39,52,1,Chaz Williams made Free Throw.
+VCU,Massachusetts,75,79,39,52,0,VCU  Timeout
+VCU,Massachusetts,75,80,39,52,1,Chaz Williams made Free Throw.
+VCU,Massachusetts,75,80,39,57,0,Foul on Cady Lalanne.
+VCU,Massachusetts,75,80,39,57,0,Juvonte Reddic missed Free Throw.
+VCU,Massachusetts,75,80,39,57,0,VCU Deadball Team Rebound.
+VCU,Massachusetts,75,80,39,57,0,Juvonte Reddic missed Free Throw.
+VCU,Massachusetts,75,80,39,57,0,Cady Lalanne Defensive Rebound.
+VCU,Massachusetts,75,80,40,0,0,End of Game

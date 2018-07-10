@@ -1,0 +1,332 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Charleston,Davidson,0,0,0,27,0,Jake Belford missed Layup.
+Charleston,Davidson,0,0,0,27,0,Donovan Gilmore Defensive Rebound.
+Charleston,Davidson,0,0,0,40,0,Cameron Johnson missed Three Point Jumper.
+Charleston,Davidson,0,0,0,40,0,Davidson Defensive Rebound.
+Charleston,Davidson,0,0,0,58,0,Jordan Barham missed Layup.
+Charleston,Davidson,0,0,0,58,0,Jarrell Brantley Defensive Rebound.
+Charleston,Davidson,0,0,1,21,0,Jarrell Brantley missed Jumper.
+Charleston,Davidson,0,0,1,21,0,Jake Belford Defensive Rebound.
+Charleston,Davidson,0,0,1,38,0,Jack Gibbs Turnover.
+Charleston,Davidson,0,0,1,39,0,Cameron Johnson Steal.
+Charleston,Davidson,2,0,1,42,1,Cameron Johnson made Layup.
+Charleston,Davidson,2,0,2,7,0,Foul on Payton Hulsey.
+Charleston,Davidson,2,2,2,27,1,Peyton Aldridge made Layup.
+Charleston,Davidson,2,2,2,27,0,Foul on Jarrell Brantley.
+Charleston,Davidson,2,2,2,27,0,Peyton Aldridge missed Free Throw.
+Charleston,Davidson,2,2,2,27,0,Cameron Johnson Defensive Rebound.
+Charleston,Davidson,2,2,2,37,0,Jarrell Brantley Turnover.
+Charleston,Davidson,2,2,2,37,0,Foul on Jarrell Brantley.
+Charleston,Davidson,2,4,2,55,1,Peyton Aldridge made Jumper.
+Charleston,Davidson,4,4,3,10,1,Canyon Barry made Jumper.
+Charleston,Davidson,4,7,3,25,1,Jack Gibbs made Three Point Jumper. Assisted by Brian Sullivan.
+Charleston,Davidson,6,7,3,50,1,Canyon Barry made Layup.
+Charleston,Davidson,6,7,4,5,0,Peyton Aldridge missed Three Point Jumper.
+Charleston,Davidson,6,7,4,5,0,Payton Hulsey Defensive Rebound.
+Charleston,Davidson,6,7,4,15,0,Charleston  Timeout
+Charleston,Davidson,6,7,4,27,0,Marquise Pointer Turnover.
+Charleston,Davidson,6,7,4,35,0,Jack Gibbs missed Layup.
+Charleston,Davidson,6,7,4,35,0,Evan Bailey Defensive Rebound.
+Charleston,Davidson,6,7,4,45,0,James Bourne Turnover.
+Charleston,Davidson,6,7,4,55,0,Foul on Evan Bailey.
+Charleston,Davidson,6,7,5,7,0,Nathan Ekwu Turnover.
+Charleston,Davidson,6,7,5,26,0,Terrance O'Donohue Turnover.
+Charleston,Davidson,6,7,5,28,0,Jack Gibbs Steal.
+Charleston,Davidson,6,9,5,30,1,Jack Gibbs made Layup.
+Charleston,Davidson,6,9,5,55,0,Canyon Barry Turnover.
+Charleston,Davidson,6,9,6,6,0,Foul on James Bourne.
+Charleston,Davidson,6,10,6,6,1,Jordan Barham made Free Throw.
+Charleston,Davidson,6,10,6,6,0,Jordan Barham missed Free Throw.
+Charleston,Davidson,6,10,6,6,0,Terrance O'Donohue Defensive Rebound.
+Charleston,Davidson,8,10,6,20,1,Cameron Johnson made Jumper.
+Charleston,Davidson,8,10,6,32,0,Peyton Aldridge missed Three Point Jumper.
+Charleston,Davidson,8,10,6,32,0,Cameron Johnson Defensive Rebound.
+Charleston,Davidson,10,10,6,40,1,Cameron Johnson made Jumper.
+Charleston,Davidson,10,12,6,47,1,Peyton Aldridge made Layup. Assisted by Jack Gibbs.
+Charleston,Davidson,10,12,7,10,0,Evan Bailey missed Three Point Jumper.
+Charleston,Davidson,10,12,7,10,0,Terrance O'Donohue Offensive Rebound.
+Charleston,Davidson,10,12,7,13,0,Foul on Peyton Aldridge.
+Charleston,Davidson,11,12,7,13,1,Terrance O'Donohue made Free Throw.
+Charleston,Davidson,12,12,7,13,1,Terrance O'Donohue made Free Throw.
+Charleston,Davidson,12,12,7,28,0,Peyton Aldridge Turnover.
+Charleston,Davidson,12,12,7,28,0,Foul on Peyton Aldridge.
+Charleston,Davidson,15,12,7,47,1,Marquise Pointer made Three Point Jumper.
+Charleston,Davidson,15,14,7,57,1,Jack Gibbs made Jumper.
+Charleston,Davidson,15,14,8,16,0,Donovan Gilmore Turnover.
+Charleston,Davidson,15,14,8,17,0,Jordan Barham Steal.
+Charleston,Davidson,15,17,8,21,1,Brian Sullivan made Three Point Jumper. Assisted by Jordan Barham.
+Charleston,Davidson,15,17,8,37,0,Foul on Oskar Michelsen.
+Charleston,Davidson,15,17,8,40,0,Charleston  Timeout
+Charleston,Davidson,15,17,8,40,0,Foul on Jake Belford.
+Charleston,Davidson,15,17,8,55,0,Cameron Johnson missed Layup.
+Charleston,Davidson,15,17,8,55,0,Oskar Michelsen Defensive Rebound.
+Charleston,Davidson,15,19,9,2,1,Jordan Barham made Layup.
+Charleston,Davidson,15,19,9,4,0,Foul on Donovan Gilmore.
+Charleston,Davidson,15,19,9,4,0,Jordan Barham missed Free Throw.
+Charleston,Davidson,15,19,9,4,0,Donovan Gilmore Defensive Rebound.
+Charleston,Davidson,15,19,9,21,0,Cameron Johnson missed Three Point Jumper.
+Charleston,Davidson,15,19,9,21,0,Donovan Gilmore Offensive Rebound.
+Charleston,Davidson,15,19,9,23,0,Foul on Jack Gibbs.
+Charleston,Davidson,16,19,9,23,1,Donovan Gilmore made Free Throw.
+Charleston,Davidson,16,19,9,23,0,Donovan Gilmore missed Free Throw.
+Charleston,Davidson,16,19,9,23,0,Jordan Barham Defensive Rebound.
+Charleston,Davidson,16,19,9,36,0,Foul on Payton Hulsey.
+Charleston,Davidson,16,20,9,36,1,Brian Sullivan made Free Throw.
+Charleston,Davidson,16,21,9,36,1,Brian Sullivan made Free Throw.
+Charleston,Davidson,18,21,9,47,1,Canyon Barry made Layup.
+Charleston,Davidson,18,21,10,6,0,Foul on Terrance O'Donohue.
+Charleston,Davidson,18,22,10,6,1,Jake Belford made Free Throw.
+Charleston,Davidson,18,23,10,6,1,Jake Belford made Free Throw.
+Charleston,Davidson,21,23,10,22,1,Canyon Barry made Three Point Jumper. Assisted by Marquise Pointer.
+Charleston,Davidson,21,23,10,40,0,Brian Sullivan Turnover.
+Charleston,Davidson,24,23,10,51,1,Marquise Pointer made Three Point Jumper.
+Charleston,Davidson,24,26,11,9,1,Jack Gibbs made Three Point Jumper. Assisted by Brian Sullivan.
+Charleston,Davidson,24,26,11,9,0,Foul on Terrance O'Donohue.
+Charleston,Davidson,24,27,11,9,1,Jake Belford made Free Throw.
+Charleston,Davidson,24,27,11,9,0,Jake Belford missed Free Throw.
+Charleston,Davidson,24,27,11,9,0,Canyon Barry Defensive Rebound.
+Charleston,Davidson,24,27,11,21,0,Canyon Barry missed Jumper.
+Charleston,Davidson,24,27,11,21,0,Davidson Defensive Rebound.
+Charleston,Davidson,24,27,11,49,0,Foul on Evan Bailey.
+Charleston,Davidson,24,28,11,49,1,Jake Belford made Free Throw.
+Charleston,Davidson,24,29,11,49,1,Jake Belford made Free Throw.
+Charleston,Davidson,24,29,12,5,0,Foul on Nathan Ekwu.
+Charleston,Davidson,24,29,12,5,0,Charleston  Timeout
+Charleston,Davidson,26,29,12,7,1,Canyon Barry made Jumper.
+Charleston,Davidson,26,29,12,21,0,Jack Gibbs missed Three Point Jumper.
+Charleston,Davidson,26,29,12,21,0,Canyon Barry Defensive Rebound.
+Charleston,Davidson,29,29,12,27,1,Canyon Barry made Three Point Jumper.
+Charleston,Davidson,29,29,12,42,0,Jack Gibbs missed Three Point Jumper.
+Charleston,Davidson,29,29,12,42,0,James Bourne Defensive Rebound.
+Charleston,Davidson,29,29,13,8,0,Marquise Pointer missed Three Point Jumper.
+Charleston,Davidson,29,29,13,8,0,Nathan Ekwu Defensive Rebound.
+Charleston,Davidson,29,29,13,28,0,Jake Belford Turnover.
+Charleston,Davidson,29,29,13,28,0,Foul on Jake Belford.
+Charleston,Davidson,29,29,13,35,0,Canyon Barry missed Three Point Jumper.
+Charleston,Davidson,29,29,13,35,0,Oskar Michelsen Defensive Rebound.
+Charleston,Davidson,29,29,14,8,0,Brian Sullivan missed Jumper.
+Charleston,Davidson,29,29,14,8,0,James Bourne Defensive Rebound.
+Charleston,Davidson,29,29,14,12,0,Canyon Barry missed Dunk.
+Charleston,Davidson,29,29,14,12,0,Brian Sullivan Defensive Rebound.
+Charleston,Davidson,29,29,14,18,0,Brian Sullivan missed Layup.
+Charleston,Davidson,29,29,14,18,0,Cameron Johnson Block.
+Charleston,Davidson,29,29,14,22,0,Cameron Johnson Defensive Rebound.
+Charleston,Davidson,29,29,14,24,0,Foul on Nathan Ekwu.
+Charleston,Davidson,30,29,14,24,1,Canyon Barry made Free Throw.
+Charleston,Davidson,31,29,14,24,1,Canyon Barry made Free Throw.
+Charleston,Davidson,31,31,14,28,1,Jordan Barham made Layup.
+Charleston,Davidson,33,31,14,56,1,Canyon Barry made Layup.
+Charleston,Davidson,33,31,14,56,0,Foul on Andrew McAuliffe.
+Charleston,Davidson,34,31,14,56,1,Canyon Barry made Free Throw.
+Charleston,Davidson,34,33,15,2,1,Jordan Barham made Layup.
+Charleston,Davidson,34,33,15,29,0,Marquise Pointer Turnover.
+Charleston,Davidson,34,33,15,40,0,Foul on Cameron Johnson.
+Charleston,Davidson,34,33,15,40,0,Brian Sullivan missed Free Throw.
+Charleston,Davidson,34,33,15,40,0,Davidson Deadball Team Rebound.
+Charleston,Davidson,34,34,15,40,1,Brian Sullivan made Free Throw.
+Charleston,Davidson,34,35,15,40,1,Brian Sullivan made Free Throw.
+Charleston,Davidson,36,35,16,0,1,Payton Hulsey made Layup.
+Charleston,Davidson,36,38,16,16,1,Oskar Michelsen made Three Point Jumper. Assisted by Jack Gibbs.
+Charleston,Davidson,36,38,16,37,0,James Bourne Turnover.
+Charleston,Davidson,36,38,16,37,0,Foul on James Bourne.
+Charleston,Davidson,36,38,16,37,0,Davidson  Timeout
+Charleston,Davidson,36,41,16,49,1,Brian Sullivan made Three Point Jumper. Assisted by Jordan Barham.
+Charleston,Davidson,38,41,17,1,1,Cameron Johnson made Jumper.
+Charleston,Davidson,38,43,17,11,1,Jack Gibbs made Jumper.
+Charleston,Davidson,38,43,17,25,0,Canyon Barry missed Jumper.
+Charleston,Davidson,38,43,17,25,0,Payton Hulsey Offensive Rebound.
+Charleston,Davidson,40,43,17,27,1,Payton Hulsey made Layup.
+Charleston,Davidson,40,45,17,36,1,Jack Gibbs made Jumper.
+Charleston,Davidson,40,45,17,36,0,Foul on Cameron Johnson.
+Charleston,Davidson,40,46,17,36,1,Jack Gibbs made Free Throw.
+Charleston,Davidson,42,46,18,5,1,Payton Hulsey made Layup.
+Charleston,Davidson,42,46,18,11,0,Brian Sullivan missed Three Point Jumper.
+Charleston,Davidson,42,46,18,11,0,Canyon Barry Block.
+Charleston,Davidson,42,46,18,13,0,Brian Sullivan Offensive Rebound.
+Charleston,Davidson,42,49,18,16,1,Brian Sullivan made Three Point Jumper.
+Charleston,Davidson,42,49,18,28,0,Foul on Canyon Barry.
+Charleston,Davidson,42,49,18,28,0,Canyon Barry Turnover.
+Charleston,Davidson,42,49,18,46,0,Foul on Evan Bailey.
+Charleston,Davidson,42,49,18,46,0,Jordan Barham missed Free Throw.
+Charleston,Davidson,42,49,18,46,0,Davidson Deadball Team Rebound.
+Charleston,Davidson,42,50,18,46,1,Jordan Barham made Free Throw.
+Charleston,Davidson,42,50,19,2,0,Foul on Jordan Barham.
+Charleston,Davidson,43,50,19,2,1,Jarrell Brantley made Free Throw.
+Charleston,Davidson,44,50,19,2,1,Jarrell Brantley made Free Throw.
+Charleston,Davidson,44,50,19,17,0,Jack Gibbs missed Three Point Jumper.
+Charleston,Davidson,44,50,19,17,0,Canyon Barry Defensive Rebound.
+Charleston,Davidson,44,50,19,23,0,Foul on Nathan Ekwu.
+Charleston,Davidson,44,50,19,23,0,Canyon Barry missed Three Point Jumper.
+Charleston,Davidson,44,50,19,23,0,James Bourne Offensive Rebound.
+Charleston,Davidson,45,50,19,24,1,James Bourne made Free Throw.
+Charleston,Davidson,45,50,19,24,0,James Bourne missed Free Throw.
+Charleston,Davidson,45,50,19,24,0,Jarrell Brantley Offensive Rebound.
+Charleston,Davidson,45,50,19,39,0,Canyon Barry missed Three Point Jumper.
+Charleston,Davidson,45,50,19,39,0,Nathan Ekwu Defensive Rebound.
+Charleston,Davidson,45,50,19,58,0,Peyton Aldridge missed Three Point Jumper.
+Charleston,Davidson,45,50,19,58,0,Jake Belford Offensive Rebound.
+Charleston,Davidson,45,52,20,0,1,Jake Belford made Jumper.
+Charleston,Davidson,45,52,20,0,0,End of 1st half
+Charleston,Davidson,47,52,20,20,1,Payton Hulsey made Layup.
+Charleston,Davidson,47,52,20,29,0,Brian Sullivan missed Jumper.
+Charleston,Davidson,47,52,20,29,0,Donovan Gilmore Defensive Rebound.
+Charleston,Davidson,47,52,20,31,0,Donovan Gilmore Turnover.
+Charleston,Davidson,47,54,20,37,1,Peyton Aldridge made Layup.
+Charleston,Davidson,47,54,21,1,0,Payton Hulsey missed Layup.
+Charleston,Davidson,47,54,21,1,0,Donovan Gilmore Offensive Rebound.
+Charleston,Davidson,49,54,21,2,1,Donovan Gilmore made Layup.
+Charleston,Davidson,49,54,21,2,0,Foul on Jack Gibbs.
+Charleston,Davidson,49,54,21,2,0,Donovan Gilmore missed Free Throw.
+Charleston,Davidson,49,54,21,6,0,Jarrell Brantley Offensive Rebound.
+Charleston,Davidson,49,54,21,9,0,Jarrell Brantley Turnover.
+Charleston,Davidson,49,54,21,11,0,Peyton Aldridge Steal.
+Charleston,Davidson,49,54,21,15,0,Peyton Aldridge missed Three Point Jumper.
+Charleston,Davidson,49,54,21,15,0,Jarrell Brantley Defensive Rebound.
+Charleston,Davidson,49,54,21,34,0,Jarrell Brantley missed Layup.
+Charleston,Davidson,49,54,21,34,0,Charleston Offensive Rebound.
+Charleston,Davidson,49,54,21,39,0,Foul on Brian Sullivan.
+Charleston,Davidson,51,54,21,40,1,Canyon Barry made Layup. Assisted by Payton Hulsey.
+Charleston,Davidson,51,54,22,6,0,Jack Gibbs missed Three Point Jumper.
+Charleston,Davidson,51,54,22,6,0,Payton Hulsey Defensive Rebound.
+Charleston,Davidson,51,54,22,11,0,Donovan Gilmore Turnover.
+Charleston,Davidson,51,54,22,12,0,Peyton Aldridge Steal.
+Charleston,Davidson,51,54,22,19,0,Foul on Cameron Johnson.
+Charleston,Davidson,51,54,22,20,0,Peyton Aldridge Turnover.
+Charleston,Davidson,51,54,22,20,0,Evan Bailey Steal.
+Charleston,Davidson,53,54,22,37,1,Cameron Johnson made Layup.
+Charleston,Davidson,53,54,22,45,0,Davidson  Timeout
+Charleston,Davidson,53,54,22,45,0,Peyton Aldridge Turnover.
+Charleston,Davidson,53,54,22,46,0,Payton Hulsey Steal.
+Charleston,Davidson,53,54,22,48,0,Foul on Jack Gibbs.
+Charleston,Davidson,53,54,22,50,0,Foul on Nathan Ekwu.
+Charleston,Davidson,53,54,22,52,0,Canyon Barry Turnover.
+Charleston,Davidson,53,54,22,53,0,Jack Gibbs Steal.
+Charleston,Davidson,53,54,22,56,0,Foul on Payton Hulsey.
+Charleston,Davidson,53,54,23,7,0,Oskar Michelsen missed Three Point Jumper.
+Charleston,Davidson,53,54,23,7,0,Evan Bailey Defensive Rebound.
+Charleston,Davidson,53,54,23,15,0,Jarrell Brantley missed Layup.
+Charleston,Davidson,53,54,23,15,0,Canyon Barry Offensive Rebound.
+Charleston,Davidson,56,54,23,21,1,Canyon Barry made Three Point Jumper.
+Charleston,Davidson,56,54,23,36,0,Jack Gibbs missed Three Point Jumper.
+Charleston,Davidson,56,54,23,36,0,Donovan Gilmore Defensive Rebound.
+Charleston,Davidson,56,54,23,56,0,Evan Bailey missed Jumper.
+Charleston,Davidson,56,54,23,56,0,Oskar Michelsen Defensive Rebound.
+Charleston,Davidson,56,56,24,11,1,Peyton Aldridge made Jumper. Assisted by Brian Sullivan.
+Charleston,Davidson,56,56,24,35,0,Marquise Pointer missed Three Point Jumper.
+Charleston,Davidson,56,56,24,35,0,Peyton Aldridge Defensive Rebound.
+Charleston,Davidson,56,58,24,47,1,Peyton Aldridge made Layup. Assisted by Jake Belford.
+Charleston,Davidson,58,58,25,11,1,Canyon Barry made Jumper. Assisted by Evan Bailey.
+Charleston,Davidson,58,58,25,19,0,Jack Gibbs Turnover.
+Charleston,Davidson,58,58,25,19,0,Charleston  Timeout
+Charleston,Davidson,58,58,25,38,0,Terrance O'Donohue missed Layup.
+Charleston,Davidson,58,58,25,38,0,James Bourne Offensive Rebound.
+Charleston,Davidson,60,58,25,41,1,James Bourne made Layup.
+Charleston,Davidson,60,58,26,6,0,Peyton Aldridge missed Jumper.
+Charleston,Davidson,60,58,26,6,0,Jake Belford Offensive Rebound.
+Charleston,Davidson,60,58,26,9,0,Foul on Terrance O'Donohue.
+Charleston,Davidson,60,58,26,10,0,Jordan Barham Turnover.
+Charleston,Davidson,60,58,26,11,0,Canyon Barry Steal.
+Charleston,Davidson,60,58,26,14,0,Marquise Pointer Turnover.
+Charleston,Davidson,60,61,26,17,1,Oskar Michelsen made Three Point Jumper. Assisted by Brian Sullivan.
+Charleston,Davidson,62,61,26,37,1,Canyon Barry made Jumper.
+Charleston,Davidson,62,64,26,49,1,Jack Gibbs made Three Point Jumper.
+Charleston,Davidson,62,64,27,15,0,Canyon Barry missed Jumper.
+Charleston,Davidson,62,64,27,15,0,Jordan Barham Defensive Rebound.
+Charleston,Davidson,62,66,27,25,1,Jordan Barham made Layup. Assisted by Jack Gibbs.
+Charleston,Davidson,62,66,27,50,0,James Bourne missed Layup.
+Charleston,Davidson,62,66,27,50,0,James Bourne Offensive Rebound.
+Charleston,Davidson,62,66,27,55,0,James Bourne missed Layup.
+Charleston,Davidson,62,66,27,55,0,James Bourne Offensive Rebound.
+Charleston,Davidson,65,66,28,0,1,Evan Bailey made Three Point Jumper. Assisted by James Bourne.
+Charleston,Davidson,65,66,28,10,0,Foul on Marquise Pointer.
+Charleston,Davidson,65,66,28,10,0,Davidson  Timeout
+Charleston,Davidson,65,66,28,13,0,Foul on Cameron Johnson.
+Charleston,Davidson,65,66,28,34,0,Oskar Michelsen missed Three Point Jumper.
+Charleston,Davidson,65,66,28,34,0,Canyon Barry Defensive Rebound.
+Charleston,Davidson,67,66,28,42,1,Canyon Barry made Layup.
+Charleston,Davidson,67,66,28,42,0,Foul on Brian Sullivan.
+Charleston,Davidson,68,66,28,42,1,Canyon Barry made Free Throw.
+Charleston,Davidson,68,66,28,51,0,Jack Gibbs Turnover.
+Charleston,Davidson,70,66,29,6,1,Payton Hulsey made Layup. Assisted by Canyon Barry.
+Charleston,Davidson,70,69,29,22,1,Brian Sullivan made Three Point Jumper. Assisted by Jordan Barham.
+Charleston,Davidson,70,69,29,51,0,Canyon Barry missed Layup.
+Charleston,Davidson,70,69,29,51,0,Davidson Defensive Rebound.
+Charleston,Davidson,70,69,29,52,0,Foul on James Bourne.
+Charleston,Davidson,70,69,30,7,0,Jake Belford missed Layup.
+Charleston,Davidson,70,69,30,7,0,James Bourne Defensive Rebound.
+Charleston,Davidson,72,69,30,22,1,James Bourne made Layup. Assisted by Jarrell Brantley.
+Charleston,Davidson,72,69,30,44,0,Jake Belford missed Jumper.
+Charleston,Davidson,72,69,30,44,0,Payton Hulsey Defensive Rebound.
+Charleston,Davidson,72,69,30,54,0,Canyon Barry missed Three Point Jumper.
+Charleston,Davidson,72,69,30,54,0,Brian Sullivan Defensive Rebound.
+Charleston,Davidson,72,69,31,24,0,Brian Sullivan missed Three Point Jumper.
+Charleston,Davidson,72,69,31,24,0,Charleston Defensive Rebound.
+Charleston,Davidson,72,69,31,40,0,Canyon Barry missed Jumper.
+Charleston,Davidson,72,69,31,40,0,Brian Sullivan Defensive Rebound.
+Charleston,Davidson,72,71,31,58,1,Peyton Aldridge made Layup. Assisted by Brian Sullivan.
+Charleston,Davidson,72,71,32,2,0,Charleston  Timeout
+Charleston,Davidson,72,71,32,20,0,Foul on Peyton Aldridge.
+Charleston,Davidson,74,71,32,35,1,Terrance O'Donohue made Layup. Assisted by Marquise Pointer.
+Charleston,Davidson,74,71,32,54,0,Jack Gibbs missed Three Point Jumper.
+Charleston,Davidson,74,71,32,54,0,Jarrell Brantley Defensive Rebound.
+Charleston,Davidson,74,71,33,11,0,Marquise Pointer missed Jumper.
+Charleston,Davidson,74,71,33,11,0,Nathan Ekwu Defensive Rebound.
+Charleston,Davidson,74,71,33,19,0,Foul on Marquise Pointer.
+Charleston,Davidson,74,71,33,19,0,Jack Gibbs missed Free Throw.
+Charleston,Davidson,74,71,33,19,0,Peyton Aldridge Offensive Rebound.
+Charleston,Davidson,74,73,33,22,1,Peyton Aldridge made Layup.
+Charleston,Davidson,76,73,33,47,1,Jarrell Brantley made Layup.
+Charleston,Davidson,76,73,33,47,0,Foul on Nathan Ekwu.
+Charleston,Davidson,76,73,33,47,0,Jarrell Brantley missed Free Throw.
+Charleston,Davidson,76,73,33,47,0,Andrew McAuliffe Defensive Rebound.
+Charleston,Davidson,76,73,33,51,0,Foul on Evan Bailey.
+Charleston,Davidson,76,73,33,51,0,Andrew McAuliffe missed Free Throw.
+Charleston,Davidson,76,73,33,51,0,Jarrell Brantley Defensive Rebound.
+Charleston,Davidson,76,73,34,2,0,Jarrell Brantley Turnover.
+Charleston,Davidson,76,76,34,23,1,Peyton Aldridge made Three Point Jumper. Assisted by Brian Sullivan.
+Charleston,Davidson,76,76,34,42,0,Canyon Barry missed Three Point Jumper.
+Charleston,Davidson,76,76,34,42,0,Oskar Michelsen Defensive Rebound.
+Charleston,Davidson,76,76,34,43,0,Foul on Payton Hulsey.
+Charleston,Davidson,76,77,34,43,1,Oskar Michelsen made Free Throw.
+Charleston,Davidson,76,78,34,43,1,Oskar Michelsen made Free Throw.
+Charleston,Davidson,79,78,35,4,1,Cameron Johnson made Three Point Jumper.
+Charleston,Davidson,79,78,35,35,0,Jack Gibbs missed Three Point Jumper.
+Charleston,Davidson,79,78,35,35,0,Cameron Johnson Defensive Rebound.
+Charleston,Davidson,79,78,35,58,0,Canyon Barry missed Jumper.
+Charleston,Davidson,79,78,35,58,0,Jarrell Brantley Offensive Rebound.
+Charleston,Davidson,81,78,36,0,1,Jarrell Brantley made Layup.
+Charleston,Davidson,81,78,36,21,0,Jack Gibbs missed Jumper.
+Charleston,Davidson,81,78,36,21,0,James Bourne Defensive Rebound.
+Charleston,Davidson,81,78,36,45,0,Cameron Johnson missed Jumper.
+Charleston,Davidson,81,78,36,45,0,Cameron Johnson Offensive Rebound.
+Charleston,Davidson,81,78,36,47,0,Marquise Pointer missed Three Point Jumper.
+Charleston,Davidson,81,78,36,47,0,Andrew McAuliffe Defensive Rebound.
+Charleston,Davidson,81,78,37,8,0,Brian Sullivan missed Jumper.
+Charleston,Davidson,81,78,37,8,0,Canyon Barry Defensive Rebound.
+Charleston,Davidson,81,78,37,32,0,Cameron Johnson Turnover.
+Charleston,Davidson,81,78,37,32,0,Davidson  Timeout
+Charleston,Davidson,81,80,37,48,1,Andrew McAuliffe made Layup.
+Charleston,Davidson,81,80,38,11,0,Jarrell Brantley Turnover.
+Charleston,Davidson,81,80,38,27,0,Peyton Aldridge missed Layup.
+Charleston,Davidson,81,80,38,27,0,Jarrell Brantley Defensive Rebound.
+Charleston,Davidson,81,80,38,45,0,Canyon Barry missed Layup.
+Charleston,Davidson,81,80,38,45,0,Peyton Aldridge Block.
+Charleston,Davidson,81,80,38,47,0,Andrew McAuliffe Defensive Rebound.
+Charleston,Davidson,81,80,39,7,0,Brian Sullivan missed Three Point Jumper.
+Charleston,Davidson,81,80,39,7,0,James Bourne Defensive Rebound.
+Charleston,Davidson,81,80,39,31,0,Foul on Jack Gibbs.
+Charleston,Davidson,81,80,39,31,0,Marquise Pointer missed Free Throw.
+Charleston,Davidson,81,80,39,31,0,Andrew McAuliffe Defensive Rebound.
+Charleston,Davidson,81,80,39,39,0,Davidson  Timeout
+Charleston,Davidson,81,80,39,55,0,Brian Sullivan missed Jumper.
+Charleston,Davidson,81,80,39,55,0,Peyton Aldridge Offensive Rebound.
+Charleston,Davidson,81,80,39,55,0,Foul on Jarrell Brantley.
+Charleston,Davidson,81,80,39,55,0,Charleston  Timeout
+Charleston,Davidson,81,81,39,55,1,Peyton Aldridge made Free Throw.
+Charleston,Davidson,81,81,39,55,0,Charleston  Timeout
+Charleston,Davidson,81,82,39,55,1,Peyton Aldridge made Free Throw.
+Charleston,Davidson,81,82,39,55,0,Davidson  Timeout
+Charleston,Davidson,81,82,39,55,0,Charleston  Timeout
+Charleston,Davidson,81,82,39,59,0,Marquise Pointer missed Three Point Jumper.
+Charleston,Davidson,81,82,39,59,0,Davidson Defensive Rebound.
+Charleston,Davidson,81,82,40,0,0,End of Game

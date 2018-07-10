@@ -1,0 +1,355 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+LSU,Georgia,0,0,0,0,0,Jump Ball won by Georgia
+LSU,Georgia,0,0,0,20,0,Foul on Johnny O'Bryant III.
+LSU,Georgia,0,1,0,20,1,Charles Mann made Free Throw.
+LSU,Georgia,0,2,0,20,1,Charles Mann made Free Throw.
+LSU,Georgia,0,2,0,30,0,Johnny O'Bryant III missed Jumper.
+LSU,Georgia,0,2,0,30,0,Anthony Hickey Offensive Rebound.
+LSU,Georgia,0,2,0,40,0,Jordan Mickey Turnover.
+LSU,Georgia,0,2,0,54,0,Kenny Gaines missed Three Point Jumper.
+LSU,Georgia,0,2,0,54,0,Marcus Thornton Offensive Rebound.
+LSU,Georgia,0,4,0,59,1,Marcus Thornton made Dunk.
+LSU,Georgia,0,4,1,20,0,Shavon Coleman missed Three Point Jumper.
+LSU,Georgia,0,4,1,20,0,Johnny O'Bryant III Offensive Rebound.
+LSU,Georgia,0,4,1,27,0,Johnny O'Bryant III missed Layup.
+LSU,Georgia,0,4,1,27,0,Marcus Thornton Defensive Rebound.
+LSU,Georgia,0,4,1,56,0,Brandon Morris missed Jumper.
+LSU,Georgia,0,4,1,56,0,Jordan Mickey Defensive Rebound.
+LSU,Georgia,0,4,2,16,0,Johnny O'Bryant III missed Jumper.
+LSU,Georgia,0,4,2,16,0,Marcus Thornton Defensive Rebound.
+LSU,Georgia,0,4,2,16,0,Kenny Gaines missed Jumper.
+LSU,Georgia,0,4,2,16,0,Shavon Coleman Defensive Rebound.
+LSU,Georgia,0,4,2,55,0,Foul on Brandon Morris.
+LSU,Georgia,1,4,2,55,1,Jordan Mickey made Free Throw.
+LSU,Georgia,1,4,2,55,0,Jordan Mickey missed Free Throw.
+LSU,Georgia,1,4,2,55,0,Nemanja Djurisic Defensive Rebound.
+LSU,Georgia,1,6,3,18,1,Cameron Forte made Layup. Assisted by Charles Mann.
+LSU,Georgia,1,6,3,40,0,Anthony Hickey missed Three Point Jumper.
+LSU,Georgia,1,6,3,40,0,Marcus Thornton Defensive Rebound.
+LSU,Georgia,1,6,3,43,0,Foul on Johnny O'Bryant III.
+LSU,Georgia,1,8,3,56,1,Juwan Parker made Jumper.
+LSU,Georgia,1,8,4,28,0,Andre Stringer missed Jumper.
+LSU,Georgia,1,8,4,28,0,Andre Stringer Offensive Rebound.
+LSU,Georgia,4,8,4,48,1,Shavon Coleman made Three Point Jumper. Assisted by Andre Stringer.
+LSU,Georgia,4,8,5,9,0,Juwan Parker missed Jumper.
+LSU,Georgia,4,8,5,9,0,Shavon Coleman Block.
+LSU,Georgia,4,8,5,9,0,Anthony Hickey Defensive Rebound.
+LSU,Georgia,7,8,5,17,1,Anthony Hickey made Three Point Jumper. Assisted by Andre Stringer.
+LSU,Georgia,7,10,5,35,1,Marcus Thornton made Jumper. Assisted by Juwan Parker.
+LSU,Georgia,7,10,5,48,0,Shavon Coleman Turnover.
+LSU,Georgia,7,10,5,48,0,Cameron Forte Steal.
+LSU,Georgia,7,10,5,48,0,Official TV Timeout
+LSU,Georgia,7,12,5,58,1,Kenny Gaines made Layup. Assisted by Cameron Forte.
+LSU,Georgia,7,12,6,15,0,Jordan Mickey missed Jumper.
+LSU,Georgia,7,12,6,15,0,J.J. Frazier Defensive Rebound.
+LSU,Georgia,7,14,6,26,1,Cameron Forte made Layup. Assisted by J.J. Frazier.
+LSU,Georgia,9,14,6,54,1,Jarell Martin made Layup. Assisted by Anthony Hickey.
+LSU,Georgia,9,16,7,8,1,Donte' Williams made Dunk. Assisted by Cameron Forte.
+LSU,Georgia,12,16,7,31,1,Andre Stringer made Three Point Jumper. Assisted by Jordan Mickey.
+LSU,Georgia,12,16,7,54,0,Cameron Forte missed Layup.
+LSU,Georgia,12,16,7,54,0,Donte' Williams Offensive Rebound.
+LSU,Georgia,12,16,7,54,0,Donte' Williams missed Two Point Tip Shot.
+LSU,Georgia,12,16,7,54,0,Shavon Coleman Defensive Rebound.
+LSU,Georgia,12,16,8,23,0,Foul on Donte' Williams.
+LSU,Georgia,12,16,8,23,0,Official TV Timeout
+LSU,Georgia,13,16,8,23,1,Jarell Martin made Free Throw.
+LSU,Georgia,14,16,8,23,1,Jarell Martin made Free Throw.
+LSU,Georgia,14,18,8,44,1,Marcus Thornton made Jumper. Assisted by Charles Mann.
+LSU,Georgia,14,18,9,9,0,Jarell Martin missed Jumper.
+LSU,Georgia,14,18,9,9,0,Charles Mann Defensive Rebound.
+LSU,Georgia,14,18,9,27,0,Charles Mann missed Three Point Jumper.
+LSU,Georgia,14,18,9,27,0,John Odo Defensive Rebound.
+LSU,Georgia,14,18,9,44,0,Foul on Kenny Gaines.
+LSU,Georgia,15,18,9,44,1,Andre Stringer made Free Throw.
+LSU,Georgia,15,18,9,44,0,Andre Stringer missed Free Throw.
+LSU,Georgia,15,18,9,44,0,Marcus Thornton Defensive Rebound.
+LSU,Georgia,15,21,10,5,1,Charles Mann made Three Point Jumper. Assisted by Brandon Morris.
+LSU,Georgia,18,21,10,17,1,Andre Stringer made Three Point Jumper. Assisted by Malik Morgan.
+LSU,Georgia,18,21,10,37,0,Brandon Morris missed Jumper.
+LSU,Georgia,18,21,10,37,0,Kenny Gaines Offensive Rebound.
+LSU,Georgia,18,23,10,37,1,Kenny Gaines made Dunk.
+LSU,Georgia,18,23,11,1,0,Foul on Charles Mann.
+LSU,Georgia,18,23,11,2,0,Tim Quarterman missed Three Point Jumper.
+LSU,Georgia,18,23,11,2,0,Tim Dixon Defensive Rebound.
+LSU,Georgia,18,23,11,11,0,Foul on Malik Morgan.
+LSU,Georgia,18,23,11,11,0,Juwan Parker missed Free Throw.
+LSU,Georgia,18,23,11,11,0,Georgia Deadball Team Rebound.
+LSU,Georgia,18,23,11,11,0,Marcus Thornton Turnover.
+LSU,Georgia,18,23,11,25,0,Foul on Marcus Thornton.
+LSU,Georgia,19,23,11,25,1,Jordan Mickey made Free Throw.
+LSU,Georgia,20,23,11,25,1,Jordan Mickey made Free Throw.
+LSU,Georgia,20,23,11,43,0,Foul on Tim Quarterman.
+LSU,Georgia,20,23,11,56,0,Tim Dixon Turnover.
+LSU,Georgia,20,23,11,56,0,Tim Quarterman Steal.
+LSU,Georgia,22,23,12,9,1,Jordan Mickey made Jumper. Assisted by Shavon Coleman.
+LSU,Georgia,22,23,12,29,0,Foul on Tim Quarterman.
+LSU,Georgia,22,23,12,29,0,Official TV Timeout
+LSU,Georgia,22,23,12,31,0,Nemanja Djurisic missed Three Point Jumper.
+LSU,Georgia,22,23,12,32,0,Shavon Coleman Defensive Rebound.
+LSU,Georgia,22,23,12,46,0,Shavon Coleman Turnover.
+LSU,Georgia,22,26,13,6,1,Nemanja Djurisic made Three Point Jumper. Assisted by Charles Mann.
+LSU,Georgia,22,26,13,35,0,Malik Morgan missed Jumper.
+LSU,Georgia,22,26,13,35,0,Nemanja Djurisic Defensive Rebound.
+LSU,Georgia,22,28,13,44,1,Charles Mann made Layup. Assisted by Nemanja Djurisic.
+LSU,Georgia,22,28,13,44,0,Foul on Shavon Coleman.
+LSU,Georgia,22,29,13,44,1,Charles Mann made Free Throw.
+LSU,Georgia,22,29,14,14,0,Andre Stringer missed Layup.
+LSU,Georgia,22,29,14,14,0,Cameron Forte Defensive Rebound.
+LSU,Georgia,22,29,14,22,0,Foul on Andre Stringer.
+LSU,Georgia,22,30,14,22,1,Charles Mann made Free Throw.
+LSU,Georgia,22,30,14,22,0,Charles Mann missed Free Throw.
+LSU,Georgia,22,30,14,22,0,Andre Stringer Defensive Rebound.
+LSU,Georgia,22,30,14,30,0,Andre Stringer missed Three Point Jumper.
+LSU,Georgia,22,30,14,30,0,Andre Stringer Offensive Rebound.
+LSU,Georgia,22,30,14,34,0,Foul on Juwan Parker.
+LSU,Georgia,22,30,14,41,0,Shavon Coleman missed Three Point Jumper.
+LSU,Georgia,22,30,14,41,0,Cameron Forte Defensive Rebound.
+LSU,Georgia,22,30,15,17,0,J.J. Frazier missed Jumper.
+LSU,Georgia,22,30,15,17,0,Donte' Williams Offensive Rebound.
+LSU,Georgia,22,32,15,17,1,Donte' Williams made Two Point Tip Shot.
+LSU,Georgia,22,32,15,32,0,Shavon Coleman Turnover.
+LSU,Georgia,22,32,15,45,0,Foul on Malik Morgan.
+LSU,Georgia,22,33,15,45,1,Juwan Parker made Free Throw.
+LSU,Georgia,22,34,15,45,1,Juwan Parker made Free Throw.
+LSU,Georgia,22,34,15,59,0,Foul on J.J. Frazier.
+LSU,Georgia,23,34,15,59,1,Andre Stringer made Free Throw.
+LSU,Georgia,24,34,15,59,1,Andre Stringer made Free Throw.
+LSU,Georgia,24,36,16,11,1,Nemanja Djurisic made Layup. Assisted by Charles Mann.
+LSU,Georgia,26,36,16,39,1,Andre Stringer made Jumper.
+LSU,Georgia,26,36,17,6,0,Foul on Jarell Martin.
+LSU,Georgia,26,36,17,6,0,Official TV Timeout
+LSU,Georgia,26,37,17,6,1,Nemanja Djurisic made Free Throw.
+LSU,Georgia,26,38,17,6,1,Nemanja Djurisic made Free Throw.
+LSU,Georgia,29,38,17,34,1,Anthony Hickey made Three Point Jumper.
+LSU,Georgia,29,38,17,52,0,Foul on Shane Hammink.
+LSU,Georgia,29,39,17,52,1,Brandon Morris made Free Throw.
+LSU,Georgia,29,40,17,52,1,Brandon Morris made Free Throw.
+LSU,Georgia,29,40,18,25,0,Foul on Kenny Gaines.
+LSU,Georgia,29,40,18,25,0,Jordan Mickey missed Free Throw.
+LSU,Georgia,29,40,18,25,0,Shane Hammink Offensive Rebound.
+LSU,Georgia,29,40,18,25,0,Anthony Hickey missed Three Point Jumper.
+LSU,Georgia,29,40,18,25,0,Jordan Mickey Offensive Rebound.
+LSU,Georgia,29,40,18,31,0,Foul on Donte' Williams.
+LSU,Georgia,29,40,18,31,0,Jordan Mickey missed Free Throw.
+LSU,Georgia,29,40,18,31,0,LSU Deadball Team Rebound.
+LSU,Georgia,30,40,18,31,1,Jordan Mickey made Free Throw.
+LSU,Georgia,30,40,18,43,0,Foul on Anthony Hickey.
+LSU,Georgia,30,40,18,43,0,Charles Mann missed Free Throw.
+LSU,Georgia,30,40,18,43,0,Georgia Deadball Team Rebound.
+LSU,Georgia,30,41,18,43,1,Charles Mann made Free Throw.
+LSU,Georgia,30,41,19,6,0,Andre Stringer missed Three Point Jumper.
+LSU,Georgia,30,41,19,6,0,Brandon Morris Defensive Rebound.
+LSU,Georgia,30,41,19,20,0,Foul on Jarell Martin.
+LSU,Georgia,30,42,19,20,1,Nemanja Djurisic made Free Throw.
+LSU,Georgia,30,43,19,20,1,Nemanja Djurisic made Free Throw.
+LSU,Georgia,30,43,19,52,0,Shane Hammink Turnover.
+LSU,Georgia,30,43,19,52,0,Nemanja Djurisic Steal.
+LSU,Georgia,30,43,19,53,0,Georgia  Timeout
+LSU,Georgia,30,43,19,58,0,Charles Mann missed Jumper.
+LSU,Georgia,30,43,19,59,0,LSU Defensive Rebound.
+LSU,Georgia,30,43,20,0,0,End of 1st half
+LSU,Georgia,30,43,20,0,0,Jump Ball won by LSU
+LSU,Georgia,32,43,20,27,1,Jordan Mickey made Layup.
+LSU,Georgia,32,43,20,27,0,Foul on Donte' Williams.
+LSU,Georgia,32,43,20,27,0,Jordan Mickey missed Free Throw.
+LSU,Georgia,32,43,20,27,0,Marcus Thornton Defensive Rebound.
+LSU,Georgia,32,43,20,33,0,Charles Mann Turnover.
+LSU,Georgia,32,43,20,33,0,Jordan Mickey Steal.
+LSU,Georgia,34,43,20,38,1,Jordan Mickey made Layup. Assisted by Anthony Hickey.
+LSU,Georgia,34,43,21,5,0,Charles Mann missed Layup.
+LSU,Georgia,34,43,21,5,0,Jordan Mickey Block.
+LSU,Georgia,34,43,21,5,0,Jordan Mickey Defensive Rebound.
+LSU,Georgia,34,43,21,12,0,Shavon Coleman missed Three Point Jumper.
+LSU,Georgia,34,43,21,12,0,Kenny Gaines Defensive Rebound.
+LSU,Georgia,34,45,21,31,1,Kenny Gaines made Layup.
+LSU,Georgia,34,45,21,48,0,Anthony Hickey missed Three Point Jumper.
+LSU,Georgia,34,45,21,48,0,Brandon Morris Defensive Rebound.
+LSU,Georgia,34,45,21,57,0,Foul on Charles Mann.
+LSU,Georgia,34,45,21,57,0,Charles Mann Turnover.
+LSU,Georgia,36,45,22,16,1,Johnny O'Bryant III made Jumper. Assisted by Anthony Hickey.
+LSU,Georgia,36,45,22,16,0,Foul on Marcus Thornton.
+LSU,Georgia,37,45,22,16,1,Johnny O'Bryant III made Free Throw.
+LSU,Georgia,37,45,22,24,0,Foul on Shavon Coleman.
+LSU,Georgia,37,47,22,36,1,Brandon Morris made Layup.
+LSU,Georgia,37,47,22,36,0,Foul on Jordan Mickey.
+LSU,Georgia,37,47,22,36,0,Brandon Morris missed Free Throw.
+LSU,Georgia,37,47,22,36,0,Jordan Mickey Defensive Rebound.
+LSU,Georgia,37,47,22,42,0,Johnny O'Bryant III missed Layup.
+LSU,Georgia,37,47,22,42,0,Jordan Mickey Offensive Rebound.
+LSU,Georgia,39,47,22,44,1,Jordan Mickey made Layup.
+LSU,Georgia,39,47,22,53,0,Georgia  Timeout
+LSU,Georgia,39,47,22,59,0,Marcus Thornton missed Jumper.
+LSU,Georgia,39,47,22,59,0,Jarell Martin Block.
+LSU,Georgia,39,47,22,59,0,Marcus Thornton Offensive Rebound.
+LSU,Georgia,39,47,22,59,0,Marcus Thornton Turnover.
+LSU,Georgia,39,47,23,4,0,Johnny O'Bryant III Turnover.
+LSU,Georgia,39,47,23,4,0,Nemanja Djurisic Steal.
+LSU,Georgia,39,47,23,19,0,Foul on Shavon Coleman.
+LSU,Georgia,39,47,23,19,0,Technical Foul on Georgia.
+LSU,Georgia,39,47,23,19,0,Foul on Georgia.
+LSU,Georgia,39,47,23,19,0,Jarell Martin missed Free Throw.
+LSU,Georgia,40,47,23,19,1,Jarell Martin made Free Throw.
+LSU,Georgia,40,47,23,38,0,Foul on Johnny O'Bryant III.
+LSU,Georgia,40,47,23,47,0,Nemanja Djurisic Turnover.
+LSU,Georgia,40,47,23,47,0,Shavon Coleman Steal.
+LSU,Georgia,42,47,23,53,1,Jarell Martin made Dunk. Assisted by Shavon Coleman.
+LSU,Georgia,42,47,24,7,0,Charles Mann Turnover.
+LSU,Georgia,42,47,24,7,0,Shavon Coleman Steal.
+LSU,Georgia,42,47,24,9,0,Official TV Timeout
+LSU,Georgia,42,47,24,17,0,Johnny O'Bryant III missed Jumper.
+LSU,Georgia,42,47,24,17,0,Nemanja Djurisic Defensive Rebound.
+LSU,Georgia,42,47,24,28,0,Foul on Jordan Mickey.
+LSU,Georgia,42,47,24,28,0,Kenny Gaines missed Free Throw.
+LSU,Georgia,42,47,24,28,0,Georgia Deadball Team Rebound.
+LSU,Georgia,42,47,24,28,0,Kenny Gaines missed Free Throw.
+LSU,Georgia,42,47,24,28,0,Marcus Thornton Offensive Rebound.
+LSU,Georgia,42,47,24,31,0,Foul on Shavon Coleman.
+LSU,Georgia,42,47,24,31,0,Marcus Thornton missed Free Throw.
+LSU,Georgia,42,47,24,31,0,Georgia Deadball Team Rebound.
+LSU,Georgia,42,48,24,31,1,Marcus Thornton made Free Throw.
+LSU,Georgia,45,48,24,52,1,Jarell Martin made Three Point Jumper. Assisted by Andre Stringer.
+LSU,Georgia,45,48,25,14,0,Kenny Gaines missed Three Point Jumper.
+LSU,Georgia,45,48,25,14,0,Jarell Martin Defensive Rebound.
+LSU,Georgia,45,48,25,28,0,Jarell Martin missed Three Point Jumper.
+LSU,Georgia,45,48,25,28,0,Charles Mann Defensive Rebound.
+LSU,Georgia,45,50,25,36,1,Charles Mann made Layup.
+LSU,Georgia,45,50,25,36,0,Foul on Johnny O'Bryant III.
+LSU,Georgia,45,50,25,36,0,Charles Mann missed Free Throw.
+LSU,Georgia,45,50,25,36,0,Andre Stringer Defensive Rebound.
+LSU,Georgia,45,50,25,58,0,Jarell Martin Turnover.
+LSU,Georgia,45,52,26,7,1,Brandon Morris made Layup. Assisted by Marcus Thornton.
+LSU,Georgia,45,52,26,7,0,Foul on Anthony Hickey.
+LSU,Georgia,45,53,26,7,1,Brandon Morris made Free Throw.
+LSU,Georgia,45,53,26,21,0,Jarell Martin missed Jumper.
+LSU,Georgia,45,53,26,21,0,Jarell Martin Offensive Rebound.
+LSU,Georgia,47,53,26,24,1,Jarell Martin made Jumper.
+LSU,Georgia,47,53,26,24,0,Foul on Marcus Thornton.
+LSU,Georgia,48,53,26,24,1,Jarell Martin made Free Throw.
+LSU,Georgia,48,53,26,24,0,LSU  Timeout
+LSU,Georgia,48,53,26,37,0,J.J. Frazier Turnover.
+LSU,Georgia,48,53,26,41,0,Jarell Martin missed Jumper.
+LSU,Georgia,48,53,26,41,0,Jarell Martin Offensive Rebound.
+LSU,Georgia,48,53,26,44,0,Jarell Martin missed Layup.
+LSU,Georgia,48,53,26,44,0,Georgia Defensive Rebound.
+LSU,Georgia,48,53,27,14,0,Foul on Darcy Malone.
+LSU,Georgia,48,54,27,14,1,Cameron Forte made Free Throw.
+LSU,Georgia,48,54,27,14,0,Cameron Forte missed Free Throw.
+LSU,Georgia,48,54,27,14,0,Darcy Malone Defensive Rebound.
+LSU,Georgia,48,54,27,24,0,Foul on Donte' Williams.
+LSU,Georgia,48,54,27,32,0,Jarell Martin missed Layup.
+LSU,Georgia,48,54,27,32,0,Georgia Defensive Rebound.
+LSU,Georgia,48,57,27,42,1,Nemanja Djurisic made Three Point Jumper. Assisted by Cameron Forte.
+LSU,Georgia,51,57,27,54,1,Andre Stringer made Three Point Jumper. Assisted by Anthony Hickey.
+LSU,Georgia,51,57,28,10,0,Foul on Darcy Malone.
+LSU,Georgia,51,57,28,10,0,Official TV Timeout
+LSU,Georgia,51,58,28,10,1,J.J. Frazier made Free Throw.
+LSU,Georgia,51,59,28,10,1,J.J. Frazier made Free Throw.
+LSU,Georgia,51,59,28,32,0,Jarell Martin Turnover.
+LSU,Georgia,51,61,28,47,1,Marcus Thornton made Layup.
+LSU,Georgia,51,61,28,54,0,Andre Stringer missed Jumper.
+LSU,Georgia,51,61,28,54,0,Juwan Parker Defensive Rebound.
+LSU,Georgia,51,61,29,1,0,Charles Mann Turnover.
+LSU,Georgia,51,61,29,1,0,Anthony Hickey Steal.
+LSU,Georgia,51,61,29,1,0,Tim Quarterman missed Layup.
+LSU,Georgia,51,61,29,1,0,Juwan Parker Block.
+LSU,Georgia,51,61,29,1,0,LSU Offensive Rebound.
+LSU,Georgia,51,61,29,11,0,LSU  Timeout
+LSU,Georgia,51,61,29,25,0,Andre Stringer missed Layup.
+LSU,Georgia,51,61,29,25,0,LSU Offensive Rebound.
+LSU,Georgia,53,61,29,38,1,Jordan Mickey made Jumper. Assisted by Andre Stringer.
+LSU,Georgia,53,61,30,6,0,Charles Mann missed Layup.
+LSU,Georgia,53,61,30,6,0,Jordan Mickey Block.
+LSU,Georgia,53,61,30,6,0,Georgia Offensive Rebound.
+LSU,Georgia,53,64,30,15,1,J.J. Frazier made Three Point Jumper.
+LSU,Georgia,53,64,30,35,0,Foul on J.J. Frazier.
+LSU,Georgia,54,64,30,35,1,Jarell Martin made Free Throw.
+LSU,Georgia,55,64,30,35,1,Jarell Martin made Free Throw.
+LSU,Georgia,55,64,30,41,0,Foul on Jordan Mickey.
+LSU,Georgia,55,64,30,41,0,Kenny Gaines missed Free Throw.
+LSU,Georgia,55,64,30,41,0,Georgia Deadball Team Rebound.
+LSU,Georgia,55,65,30,41,1,Kenny Gaines made Free Throw.
+LSU,Georgia,57,65,30,52,1,Tim Quarterman made Layup.
+LSU,Georgia,57,65,31,10,0,Foul on Jarell Martin.
+LSU,Georgia,57,66,31,10,1,Marcus Thornton made Free Throw.
+LSU,Georgia,57,67,31,10,1,Marcus Thornton made Free Throw.
+LSU,Georgia,59,67,31,25,1,Tim Quarterman made Layup.
+LSU,Georgia,59,70,31,52,1,J.J. Frazier made Three Point Jumper. Assisted by Nemanja Djurisic.
+LSU,Georgia,62,70,32,3,1,Andre Stringer made Three Point Jumper. Assisted by Tim Quarterman.
+LSU,Georgia,62,70,32,30,0,Marcus Thornton missed Jumper.
+LSU,Georgia,62,70,32,30,0,Juwan Parker Offensive Rebound.
+LSU,Georgia,62,72,32,30,1,Juwan Parker made Two Point Tip Shot.
+LSU,Georgia,65,72,32,52,1,Anthony Hickey made Three Point Jumper. Assisted by Andre Stringer.
+LSU,Georgia,65,74,33,14,1,Nemanja Djurisic made Dunk.
+LSU,Georgia,65,74,33,14,0,Foul on Jordan Mickey.
+LSU,Georgia,65,74,33,20,0,Official TV Timeout
+LSU,Georgia,65,75,33,20,1,Nemanja Djurisic made Free Throw.
+LSU,Georgia,67,75,33,48,1,Andre Stringer made Layup.
+LSU,Georgia,67,75,34,8,0,Foul on Charles Mann.
+LSU,Georgia,67,75,34,8,0,Charles Mann Turnover.
+LSU,Georgia,69,75,34,31,1,Johnny O'Bryant III made Layup.
+LSU,Georgia,69,77,34,53,1,Marcus Thornton made Jumper.
+LSU,Georgia,71,77,35,11,1,Johnny O'Bryant III made Jumper.
+LSU,Georgia,71,77,35,37,0,Foul on Anthony Hickey.
+LSU,Georgia,71,77,35,37,0,Charles Mann missed Free Throw.
+LSU,Georgia,71,77,35,37,0,Georgia Deadball Team Rebound.
+LSU,Georgia,71,77,35,38,0,Charles Mann Turnover.
+LSU,Georgia,71,77,35,44,0,Johnny O'Bryant III Turnover.
+LSU,Georgia,71,79,36,0,1,Brandon Morris made Jumper.
+LSU,Georgia,71,79,36,0,0,Foul on John Odo.
+LSU,Georgia,71,79,36,0,0,Brandon Morris missed Free Throw.
+LSU,Georgia,71,79,36,0,0,Jordan Mickey Defensive Rebound.
+LSU,Georgia,71,79,36,12,0,Foul on Donte' Williams.
+LSU,Georgia,71,79,36,12,0,Official TV Timeout
+LSU,Georgia,72,79,36,12,1,Jordan Mickey made Free Throw.
+LSU,Georgia,72,79,36,12,0,Jordan Mickey missed Free Throw.
+LSU,Georgia,72,79,36,12,0,Nemanja Djurisic Defensive Rebound.
+LSU,Georgia,72,79,36,25,0,Foul on Anthony Hickey.
+LSU,Georgia,72,80,36,25,1,Nemanja Djurisic made Free Throw.
+LSU,Georgia,72,81,36,25,1,Nemanja Djurisic made Free Throw.
+LSU,Georgia,72,81,36,32,0,Jarell Martin missed Three Point Jumper.
+LSU,Georgia,72,81,36,32,0,Kenny Gaines Defensive Rebound.
+LSU,Georgia,72,81,36,55,0,Charles Mann missed Layup.
+LSU,Georgia,72,81,36,55,0,Nemanja Djurisic Offensive Rebound.
+LSU,Georgia,72,81,37,1,0,Kenny Gaines missed Layup.
+LSU,Georgia,72,81,37,1,0,Marcus Thornton Offensive Rebound.
+LSU,Georgia,72,83,37,6,1,Marcus Thornton made Layup.
+LSU,Georgia,72,83,37,16,0,Jordan Mickey missed Jumper.
+LSU,Georgia,72,83,37,16,0,Johnny O'Bryant III Offensive Rebound.
+LSU,Georgia,74,83,37,21,1,Johnny O'Bryant III made Layup.
+LSU,Georgia,74,83,37,23,0,LSU  Timeout
+LSU,Georgia,74,83,37,33,0,Brandon Morris Turnover.
+LSU,Georgia,74,83,37,33,0,Jarell Martin Steal.
+LSU,Georgia,74,83,37,40,0,Shavon Coleman missed Three Point Jumper.
+LSU,Georgia,74,83,37,40,0,Kenny Gaines Block.
+LSU,Georgia,74,83,37,40,0,Brandon Morris Defensive Rebound.
+LSU,Georgia,74,83,37,45,0,Foul on Shavon Coleman.
+LSU,Georgia,74,84,37,45,1,Brandon Morris made Free Throw.
+LSU,Georgia,74,85,37,45,1,Brandon Morris made Free Throw.
+LSU,Georgia,74,85,37,47,0,Johnny O'Bryant III missed Three Point Jumper.
+LSU,Georgia,74,85,37,47,0,Charles Mann Defensive Rebound.
+LSU,Georgia,74,85,38,19,0,Foul on Jarell Martin.
+LSU,Georgia,74,86,38,19,1,Charles Mann made Free Throw.
+LSU,Georgia,74,87,38,19,1,Charles Mann made Free Throw.
+LSU,Georgia,74,87,38,32,0,Johnny O'Bryant III missed Jumper.
+LSU,Georgia,74,87,38,32,0,Nemanja Djurisic Defensive Rebound.
+LSU,Georgia,74,87,39,0,0,Georgia  Timeout
+LSU,Georgia,74,87,39,1,0,Foul on Johnny O'Bryant III.
+LSU,Georgia,74,88,39,1,1,Charles Mann made Free Throw.
+LSU,Georgia,74,89,39,1,1,Charles Mann made Free Throw.
+LSU,Georgia,74,89,39,11,0,Andre Stringer missed Jumper.
+LSU,Georgia,74,89,39,11,0,LSU Offensive Rebound.
+LSU,Georgia,76,89,39,18,1,Jordan Mickey made Layup. Assisted by Andre Stringer.
+LSU,Georgia,76,89,39,25,0,Foul on Andre Stringer.
+LSU,Georgia,76,90,39,25,1,Kenny Gaines made Free Throw.
+LSU,Georgia,76,91,39,25,1,Kenny Gaines made Free Throw.
+LSU,Georgia,76,91,39,33,0,Jarell Martin missed Layup.
+LSU,Georgia,76,91,39,33,0,Nemanja Djurisic Block.
+LSU,Georgia,76,91,39,33,0,Jordan Mickey Offensive Rebound.
+LSU,Georgia,78,91,39,37,1,Jordan Mickey made Dunk.
+LSU,Georgia,78,91,39,39,0,Kenny Gaines Turnover.
+LSU,Georgia,78,91,39,39,0,Andre Stringer Steal.
+LSU,Georgia,78,91,39,41,0,Andre Stringer missed Layup.
+LSU,Georgia,78,91,39,41,0,Jarell Martin Offensive Rebound.
+LSU,Georgia,78,91,39,47,0,Andre Stringer missed Layup.
+LSU,Georgia,78,91,39,47,0,Marcus Thornton Defensive Rebound.
+LSU,Georgia,78,91,39,52,0,Foul on Andre Stringer.

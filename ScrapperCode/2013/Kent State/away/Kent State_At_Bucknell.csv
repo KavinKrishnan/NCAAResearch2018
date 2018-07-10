@@ -1,0 +1,278 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Kent State,Bucknell,0,0,0,9,0,Joe Willman Turnover.
+Kent State,Bucknell,0,0,0,26,0,Kellon Thomas Turnover.
+Kent State,Bucknell,0,0,0,28,0,Ryan Hill Steal.
+Kent State,Bucknell,0,0,0,38,0,Ryan Hill Turnover.
+Kent State,Bucknell,0,0,0,53,0,Foul on Joe Willman
+Kent State,Bucknell,0,0,0,53,0,Randal Holt missed Free Throw.
+Kent State,Bucknell,0,0,0,53,0,null
+Kent State,Bucknell,1,0,0,53,1,Randal Holt made Free Throw.
+Kent State,Bucknell,1,2,1,9,1,Ryan Hill made Layup.
+Kent State,Bucknell,3,2,1,31,1,Melvin Tabb made Jumper.  Assisted by Randal Holt.
+Kent State,Bucknell,3,4,1,50,1,Mike Muscala made Dunk.  Assisted by Ryan Hill.
+Kent State,Bucknell,3,4,2,9,0,Melvin Tabb missed Jumper.
+Kent State,Bucknell,3,4,2,9,0,Ryan Hill Defensive Rebound.
+Kent State,Bucknell,3,4,2,28,0,Ryan Hill missed Three Point Jumper.
+Kent State,Bucknell,3,4,2,28,0,Melvin Tabb Defensive Rebound.
+Kent State,Bucknell,3,4,2,50,0,Kellon Thomas Turnover.
+Kent State,Bucknell,3,4,3,8,0,Cameron Ayers missed Three Point Jumper.
+Kent State,Bucknell,3,4,3,8,0,null
+Kent State,Bucknell,3,4,3,46,0,Kellon Thomas missed Three Point Jumper.
+Kent State,Bucknell,3,4,3,46,0,Joe Willman Defensive Rebound.
+Kent State,Bucknell,3,6,4,2,1,Mike Muscala made Layup.  Assisted by Joe Willman.
+Kent State,Bucknell,3,6,4,25,0,Randal Holt Turnover.
+Kent State,Bucknell,3,6,4,25,0,Joe Willman Steal.
+Kent State,Bucknell,3,6,4,25,0,Foul on Randal Holt
+Kent State,Bucknell,3,6,4,25,0,Official TV Timeout.
+Kent State,Bucknell,3,6,4,57,0,Cameron Ayers missed Three Point Jumper.
+Kent State,Bucknell,3,6,4,57,0,Kris Brewer Defensive Rebound.
+Kent State,Bucknell,3,6,5,5,0,Chris Evans missed Jumper.
+Kent State,Bucknell,3,6,5,5,0,Cameron Ayers Defensive Rebound.
+Kent State,Bucknell,3,8,5,18,1,Mike Muscala made Dunk.  Assisted by Bryson Johnson.
+Kent State,Bucknell,3,8,5,18,0,Foul on Kris Brewer
+Kent State,Bucknell,3,9,5,18,1,Mike Muscala made Free Throw.
+Kent State,Bucknell,3,9,5,30,0,Darren Goodson Turnover.
+Kent State,Bucknell,3,9,5,54,0,Mike Muscala Turnover.
+Kent State,Bucknell,3,9,6,19,0,Chris Evans missed Three Point Jumper.
+Kent State,Bucknell,3,9,6,19,0,Mike Muscala Defensive Rebound.
+Kent State,Bucknell,3,9,6,27,0,Bryson Johnson missed Three Point Jumper.
+Kent State,Bucknell,3,9,6,27,0,Mike Muscala Offensive Rebound.
+Kent State,Bucknell,3,9,6,30,0,Mike Muscala missed Dunk.
+Kent State,Bucknell,3,9,6,30,0,Bucknell Offensive Rebound.
+Kent State,Bucknell,3,11,6,33,1,Mike Muscala made Jumper.  Assisted by Steven Kaspar.
+Kent State,Bucknell,3,11,6,35,0,Kent State Full Timeout.
+Kent State,Bucknell,5,11,6,50,1,Darren Goodson made Layup.
+Kent State,Bucknell,5,11,7,19,0,Foul on Chris Evans
+Kent State,Bucknell,5,12,7,19,1,Cameron Ayers made Free Throw.
+Kent State,Bucknell,5,13,7,19,1,Cameron Ayers made Free Throw.
+Kent State,Bucknell,8,13,7,32,1,Devareaux Manley made Three Point Jumper.  Assisted by Randal Holt.
+Kent State,Bucknell,8,13,7,55,0,Bryson Johnson Turnover.
+Kent State,Bucknell,11,13,8,10,1,Devareaux Manley made Three Point Jumper.  Assisted by Randal Holt.
+Kent State,Bucknell,11,13,8,11,0,Bucknell Full Timeout.
+Kent State,Bucknell,11,13,8,26,0,Ryan Hill Turnover.
+Kent State,Bucknell,11,13,8,26,0,Official TV Timeout.
+Kent State,Bucknell,11,13,8,38,0,Darren Goodson missed Jumper.
+Kent State,Bucknell,11,13,8,38,0,Kris Brewer Offensive Rebound.
+Kent State,Bucknell,13,13,8,43,1,Kris Brewer made Layup.
+Kent State,Bucknell,13,13,9,4,0,Joe Willman missed Jumper.
+Kent State,Bucknell,13,13,9,4,0,Randal Holt Defensive Rebound.
+Kent State,Bucknell,13,13,9,21,0,Mark Henniger missed Jumper.
+Kent State,Bucknell,13,13,9,21,0,Kris Brewer Offensive Rebound.
+Kent State,Bucknell,13,13,9,26,0,Kris Brewer missed Tip Shot.
+Kent State,Bucknell,13,13,9,26,0,Ryan Hill Defensive Rebound.
+Kent State,Bucknell,13,13,9,31,0,Foul on Darren Goodson
+Kent State,Bucknell,13,13,9,31,0,Foul on Melvin Tabb
+Kent State,Bucknell,13,15,9,39,1,Joe Willman made Layup.  Assisted by Ryan Hill.
+Kent State,Bucknell,15,15,10,10,1,Melvin Tabb made Jumper.  Assisted by Kris Brewer.
+Kent State,Bucknell,15,18,10,27,1,Bryson Johnson made Three Point Jumper.  Assisted by Mike Muscala.
+Kent State,Bucknell,15,18,10,51,0,Melvin Tabb Turnover.
+Kent State,Bucknell,15,18,10,52,0,Bryson Johnson Steal.
+Kent State,Bucknell,15,20,10,56,1,Bryson Johnson made Layup.
+Kent State,Bucknell,18,20,11,26,1,Kris Brewer made Three Point Jumper.  Assisted by Randal Holt.
+Kent State,Bucknell,18,20,11,49,0,Mike Muscala missed Jumper.
+Kent State,Bucknell,18,20,11,49,0,Joe Willman Offensive Rebound.
+Kent State,Bucknell,18,20,11,52,0,Joe Willman missed Tip Shot.
+Kent State,Bucknell,18,20,11,52,0,Devareaux Manley Defensive Rebound.
+Kent State,Bucknell,18,20,11,57,0,Foul on Bryson Johnson
+Kent State,Bucknell,18,20,12,13,0,Bryson Pope missed Jumper.
+Kent State,Bucknell,18,20,12,13,0,Mark Henniger Offensive Rebound.
+Kent State,Bucknell,20,20,12,16,1,Mark Henniger made Layup.
+Kent State,Bucknell,20,22,12,36,1,Ryan Frazier made Jumper.
+Kent State,Bucknell,20,22,12,56,0,Bryson Pope missed Layup.
+Kent State,Bucknell,20,22,12,56,0,Ryan Frazier Defensive Rebound.
+Kent State,Bucknell,20,24,13,18,1,Joe Willman made Jumper.  Assisted by Bryson Johnson.
+Kent State,Bucknell,23,24,13,50,1,Kellon Thomas made Three Point Jumper.  Assisted by Chris Evans.
+Kent State,Bucknell,23,24,14,13,0,Bryson Johnson missed Three Point Jumper.
+Kent State,Bucknell,23,24,14,13,0,Joe Willman Offensive Rebound.
+Kent State,Bucknell,23,24,14,19,0,Joe Willman Turnover.
+Kent State,Bucknell,23,24,14,21,0,Chris Evans Steal.
+Kent State,Bucknell,23,24,14,27,0,Official TV Timeout.
+Kent State,Bucknell,23,24,14,28,0,Randal Holt missed Layup.
+Kent State,Bucknell,23,24,14,28,0,Bryson Johnson Block.
+Kent State,Bucknell,23,24,14,28,0,Kent State Offensive Rebound.
+Kent State,Bucknell,23,24,14,41,0,Darren Goodson missed Three Point Jumper.
+Kent State,Bucknell,23,24,14,41,0,Bryson Johnson Defensive Rebound.
+Kent State,Bucknell,23,24,15,0,0,Ryan Frazier missed Three Point Jumper.
+Kent State,Bucknell,23,24,15,0,0,Chris Evans Defensive Rebound.
+Kent State,Bucknell,23,24,15,9,0,Chris Evans missed Jumper.
+Kent State,Bucknell,23,24,15,9,0,Chris Evans Offensive Rebound.
+Kent State,Bucknell,23,24,15,13,0,Chris Evans missed Jumper.
+Kent State,Bucknell,23,24,15,13,0,Darren Goodson Offensive Rebound.
+Kent State,Bucknell,23,24,15,17,0,Darren Goodson missed Jumper.
+Kent State,Bucknell,23,24,15,17,0,Ryan Frazier Defensive Rebound.
+Kent State,Bucknell,23,26,15,40,1,Mike Muscala made Jumper.
+Kent State,Bucknell,23,26,16,7,0,Foul on Mike Muscala
+Kent State,Bucknell,23,26,16,7,0,Official TV Timeout.
+Kent State,Bucknell,24,26,16,7,1,Randal Holt made Free Throw.
+Kent State,Bucknell,25,26,16,7,1,Randal Holt made Free Throw.
+Kent State,Bucknell,25,26,16,32,0,Joshea Singleton Turnover.
+Kent State,Bucknell,25,26,16,33,0,Darren Goodson Steal.
+Kent State,Bucknell,28,26,16,40,1,Kris Brewer made Three Point Jumper.  Assisted by Randal Holt.
+Kent State,Bucknell,28,26,17,5,0,Bryson Johnson missed Three Point Jumper.
+Kent State,Bucknell,28,26,17,5,0,Devareaux Manley Defensive Rebound.
+Kent State,Bucknell,28,26,17,25,0,Devareaux Manley missed Three Point Jumper.
+Kent State,Bucknell,28,26,17,25,0,Mike Muscala Defensive Rebound.
+Kent State,Bucknell,28,26,17,41,0,Mike Muscala missed Layup.
+Kent State,Bucknell,28,26,17,41,0,Chris Evans Block.
+Kent State,Bucknell,28,26,17,41,0,Bucknell Offensive Rebound.
+Kent State,Bucknell,28,26,17,45,0,Bryson Johnson missed Three Point Jumper.
+Kent State,Bucknell,28,26,17,45,0,Joe Willman Offensive Rebound.
+Kent State,Bucknell,28,26,17,47,0,Foul on Chris Evans
+Kent State,Bucknell,28,29,17,58,1,Ryan Frazier made Three Point Jumper.  Assisted by Mike Muscala.
+Kent State,Bucknell,30,29,18,20,1,Randal Holt made Jumper.
+Kent State,Bucknell,30,29,18,30,0,Foul on Mark Henniger
+Kent State,Bucknell,30,29,18,30,0,Mike Muscala missed Free Throw.
+Kent State,Bucknell,30,29,18,30,0,Darren Goodson Defensive Rebound.
+Kent State,Bucknell,30,29,18,45,0,Foul on Joe Willman
+Kent State,Bucknell,30,29,18,45,0,Kent State Full Timeout.
+Kent State,Bucknell,30,29,18,49,0,Foul on Bryson Johnson
+Kent State,Bucknell,30,29,18,49,0,Mark Henniger missed Free Throw.
+Kent State,Bucknell,30,29,18,49,0,null
+Kent State,Bucknell,31,29,18,49,1,Mark Henniger made Free Throw.
+Kent State,Bucknell,31,32,19,18,1,Cameron Ayers made Three Point Jumper.  Assisted by Ryan Frazier.
+Kent State,Bucknell,31,32,19,53,0,Foul on Ryan Frazier
+Kent State,Bucknell,31,32,20,0,0,Kris Brewer missed Layup.
+Kent State,Bucknell,31,32,20,0,0,Melvin Tabb Offensive Rebound.
+Kent State,Bucknell,31,32,20,0,0,Melvin Tabb missed Tip Shot.
+Kent State,Bucknell,31,32,20,0,0,Ryan Hill Defensive Rebound.
+Kent State,Bucknell,31,32,20,0,0,End of the 1st Half.
+Kent State,Bucknell,31,32,20,18,0,Randal Holt missed Three Point Jumper.
+Kent State,Bucknell,31,32,20,18,0,Ryan Hill Defensive Rebound.
+Kent State,Bucknell,31,34,20,36,1,Joe Willman made Layup.  Assisted by Ryan Hill.
+Kent State,Bucknell,33,34,21,3,1,Mark Henniger made Jumper.
+Kent State,Bucknell,33,36,21,24,1,Mike Muscala made Jumper.  Assisted by Cameron Ayers.
+Kent State,Bucknell,35,36,21,42,1,Melvin Tabb made Jumper.  Assisted by Randal Holt.
+Kent State,Bucknell,35,39,21,58,1,Bryson Johnson made Three Point Jumper.  Assisted by Ryan Hill.
+Kent State,Bucknell,35,39,22,24,0,Chris Evans missed Jumper.
+Kent State,Bucknell,35,39,22,24,0,Bucknell Defensive Rebound.
+Kent State,Bucknell,35,41,22,40,1,Joe Willman made Jumper.  Assisted by Cameron Ayers.
+Kent State,Bucknell,35,41,22,42,0,Kent State Full Timeout.
+Kent State,Bucknell,35,41,22,52,0,Foul on Bryson Johnson
+Kent State,Bucknell,35,41,23,4,0,Darren Goodson missed Layup.
+Kent State,Bucknell,35,41,23,4,0,Mike Muscala Block.
+Kent State,Bucknell,35,41,23,6,0,Joe Willman Defensive Rebound.
+Kent State,Bucknell,35,41,23,18,0,Ryan Frazier missed Layup.
+Kent State,Bucknell,35,41,23,18,0,Mike Muscala Offensive Rebound.
+Kent State,Bucknell,35,43,23,21,1,Mike Muscala made Tip Shot.
+Kent State,Bucknell,35,43,23,39,0,Chris Evans Turnover.
+Kent State,Bucknell,35,43,23,47,0,Cameron Ayers missed Three Point Jumper.
+Kent State,Bucknell,35,43,23,47,0,Randal Holt Defensive Rebound.
+Kent State,Bucknell,35,43,24,9,0,Chris Evans missed Layup.
+Kent State,Bucknell,35,43,24,9,0,Joe Willman Block.
+Kent State,Bucknell,35,43,24,9,0,Joe Willman Defensive Rebound.
+Kent State,Bucknell,35,43,24,9,0,Official TV Timeout.
+Kent State,Bucknell,35,43,24,23,0,Joe Willman Turnover.
+Kent State,Bucknell,35,43,24,24,0,Kris Brewer Steal.
+Kent State,Bucknell,35,43,24,35,0,Foul on Ryan Frazier
+Kent State,Bucknell,38,43,24,52,1,Devareaux Manley made Three Point Jumper.  Assisted by Darren Goodson.
+Kent State,Bucknell,38,43,25,5,0,Ryan Hill missed Layup.
+Kent State,Bucknell,38,43,25,5,0,Joe Willman Offensive Rebound.
+Kent State,Bucknell,38,43,25,12,0,Ryan Frazier missed Three Point Jumper.
+Kent State,Bucknell,38,43,25,12,0,Joe Willman Offensive Rebound.
+Kent State,Bucknell,38,43,25,17,0,Joe Willman Turnover.
+Kent State,Bucknell,38,43,25,19,0,Randal Holt Steal.
+Kent State,Bucknell,38,43,25,34,0,Foul on Joe Willman
+Kent State,Bucknell,39,43,25,34,1,Kris Brewer made Free Throw.
+Kent State,Bucknell,40,43,25,34,1,Kris Brewer made Free Throw.
+Kent State,Bucknell,40,45,25,51,1,Cameron Ayers made Jumper.
+Kent State,Bucknell,40,45,26,16,0,Devareaux Manley missed Three Point Jumper.
+Kent State,Bucknell,40,45,26,16,0,Mike Muscala Defensive Rebound.
+Kent State,Bucknell,40,45,26,34,0,Foul on Devareaux Manley
+Kent State,Bucknell,40,45,26,34,0,Ryan Frazier missed Free Throw.
+Kent State,Bucknell,40,45,26,34,0,null
+Kent State,Bucknell,40,46,26,34,1,Ryan Frazier made Free Throw.
+Kent State,Bucknell,42,46,26,54,1,Mark Henniger made Layup.
+Kent State,Bucknell,42,48,27,7,1,Ryan Frazier made Jumper.
+Kent State,Bucknell,42,48,27,19,0,Mark Henniger missed Layup.
+Kent State,Bucknell,42,48,27,19,0,Ryan Frazier Defensive Rebound.
+Kent State,Bucknell,42,48,27,36,0,Dom Hoffman missed Jumper.
+Kent State,Bucknell,42,48,27,36,0,Bryson Pope Defensive Rebound.
+Kent State,Bucknell,44,48,27,54,1,Devareaux Manley made Jumper.
+Kent State,Bucknell,44,48,28,25,0,Ryan Frazier missed Three Point Jumper.
+Kent State,Bucknell,44,48,28,25,0,Mark Henniger Defensive Rebound.
+Kent State,Bucknell,44,48,28,42,0,Chris Evans missed Three Point Jumper.
+Kent State,Bucknell,44,48,28,42,0,Cameron Ayers Defensive Rebound.
+Kent State,Bucknell,44,48,28,51,0,Bucknell Full Timeout.
+Kent State,Bucknell,44,48,29,2,0,Foul on Bryson Pope
+Kent State,Bucknell,44,48,29,2,0,Official TV Timeout.
+Kent State,Bucknell,44,49,29,2,1,Ryan Hill made Free Throw.
+Kent State,Bucknell,44,50,29,2,1,Ryan Hill made Free Throw.
+Kent State,Bucknell,44,50,29,17,0,Foul on Ryan Hill
+Kent State,Bucknell,45,50,29,17,1,Melvin Tabb made Free Throw.
+Kent State,Bucknell,46,50,29,17,1,Melvin Tabb made Free Throw.
+Kent State,Bucknell,46,52,29,31,1,Mike Muscala made Layup.  Assisted by Bryson Johnson.
+Kent State,Bucknell,46,52,29,51,0,Chris Evans Turnover.
+Kent State,Bucknell,46,52,29,53,0,Cameron Ayers Steal.
+Kent State,Bucknell,46,55,29,57,1,Bryson Johnson made Three Point Jumper.  Assisted by Cameron Ayers.
+Kent State,Bucknell,46,55,29,59,0,Kent State Full Timeout.
+Kent State,Bucknell,46,55,30,34,0,Chris Evans missed Layup.
+Kent State,Bucknell,46,55,30,34,0,Chris Evans Offensive Rebound.
+Kent State,Bucknell,48,55,30,37,1,Chris Evans made Layup.
+Kent State,Bucknell,48,55,30,59,0,Foul on Ryan Hill
+Kent State,Bucknell,48,55,30,59,0,Ryan Hill Turnover.
+Kent State,Bucknell,48,55,31,21,0,Foul on Mark Henniger
+Kent State,Bucknell,48,55,31,21,0,Mark Henniger Turnover.
+Kent State,Bucknell,48,57,31,43,1,Bryson Johnson made Layup.
+Kent State,Bucknell,48,57,32,3,0,Devareaux Manley missed Layup.
+Kent State,Bucknell,48,57,32,3,0,Mark Henniger Offensive Rebound.
+Kent State,Bucknell,48,57,32,3,0,Foul on Bryson Johnson
+Kent State,Bucknell,48,57,32,4,0,Official TV Timeout.
+Kent State,Bucknell,51,57,32,32,1,Chris Evans made Three Point Jumper.
+Kent State,Bucknell,51,57,32,51,0,Cameron Ayers missed Jumper.
+Kent State,Bucknell,51,57,32,51,0,Cameron Ayers Offensive Rebound.
+Kent State,Bucknell,51,59,32,57,1,Mike Muscala made Layup.
+Kent State,Bucknell,51,59,33,10,0,Chris Evans missed Three Point Jumper.
+Kent State,Bucknell,51,59,33,10,0,Joe Willman Defensive Rebound.
+Kent State,Bucknell,51,62,33,28,1,Mike Muscala made Three Point Jumper.  Assisted by Cameron Ayers.
+Kent State,Bucknell,51,62,33,51,0,Randal Holt Turnover.
+Kent State,Bucknell,51,64,34,2,1,Mike Muscala made Jumper.
+Kent State,Bucknell,51,64,34,2,0,Foul on Mark Henniger
+Kent State,Bucknell,51,65,34,2,1,Mike Muscala made Free Throw.
+Kent State,Bucknell,51,65,34,19,0,Kris Brewer missed Jumper.
+Kent State,Bucknell,51,65,34,19,0,Cameron Ayers Defensive Rebound.
+Kent State,Bucknell,51,65,34,33,0,Joe Willman missed Jumper.
+Kent State,Bucknell,51,65,34,33,0,Melvin Tabb Defensive Rebound.
+Kent State,Bucknell,51,65,34,42,0,Foul on Ryan Hill
+Kent State,Bucknell,51,65,34,42,0,Randal Holt missed Free Throw.
+Kent State,Bucknell,51,65,34,42,0,null
+Kent State,Bucknell,52,65,34,42,1,Randal Holt made Free Throw.
+Kent State,Bucknell,52,65,34,58,0,Mike Muscala missed Jumper.
+Kent State,Bucknell,52,65,34,58,0,Joe Willman Offensive Rebound.
+Kent State,Bucknell,52,65,35,9,0,Foul on Kellon Thomas
+Kent State,Bucknell,52,66,35,9,1,Cameron Ayers made Free Throw.
+Kent State,Bucknell,52,67,35,9,1,Cameron Ayers made Free Throw.
+Kent State,Bucknell,52,67,35,24,0,Darren Goodson missed Jumper.
+Kent State,Bucknell,52,67,35,24,0,Mike Muscala Block.
+Kent State,Bucknell,52,67,35,26,0,Ryan Frazier Defensive Rebound.
+Kent State,Bucknell,52,67,35,47,0,Cameron Ayers Turnover.
+Kent State,Bucknell,52,67,35,48,0,Chris Evans Steal.
+Kent State,Bucknell,52,67,35,51,0,Chris Evans missed Layup.
+Kent State,Bucknell,52,67,35,51,0,Cameron Ayers Defensive Rebound.
+Kent State,Bucknell,52,67,36,3,0,Joe Willman missed Jumper.
+Kent State,Bucknell,52,67,36,3,0,Chris Evans Defensive Rebound.
+Kent State,Bucknell,54,67,36,29,1,Mark Henniger made Layup.  Assisted by Darren Goodson.
+Kent State,Bucknell,54,67,36,51,0,Mike Muscala missed Dunk.
+Kent State,Bucknell,54,67,36,51,0,Mike Muscala Offensive Rebound.
+Kent State,Bucknell,54,69,36,54,1,Mike Muscala made Layup.
+Kent State,Bucknell,54,69,36,58,0,Kent State Full Timeout.
+Kent State,Bucknell,54,69,37,3,0,Randal Holt missed Jumper.
+Kent State,Bucknell,54,69,37,3,0,Ryan Hill Defensive Rebound.
+Kent State,Bucknell,54,72,37,29,1,Ryan Frazier made Three Point Jumper.  Assisted by Mike Muscala.
+Kent State,Bucknell,54,72,37,46,0,Foul on Cameron Ayers
+Kent State,Bucknell,55,72,37,46,1,Devareaux Manley made Free Throw.
+Kent State,Bucknell,56,72,37,46,1,Devareaux Manley made Free Throw.
+Kent State,Bucknell,56,74,38,16,1,Ryan Frazier made Layup.
+Kent State,Bucknell,56,74,38,16,0,Foul on Devareaux Manley
+Kent State,Bucknell,56,74,38,16,0,Ryan Frazier missed Free Throw.
+Kent State,Bucknell,56,74,38,16,0,Jr Morris Defensive Rebound.
+Kent State,Bucknell,60,76,38,16,0,Jr Morris Turnover.
+Kent State,Bucknell,60,76,38,16,0,Dom Hoffman Steal.
+Kent State,Bucknell,56,74,38,41,0,Ryan Hill Turnover.
+Kent State,Bucknell,58,74,38,56,1,Khaliq Spicer made Dunk.  Assisted by Kellon Thomas.
+Kent State,Bucknell,58,74,39,22,0,Foul on Kellon Thomas
+Kent State,Bucknell,58,75,39,22,1,Joshea Singleton made Free Throw.
+Kent State,Bucknell,58,76,39,22,1,Joshea Singleton made Free Throw.
+Kent State,Bucknell,58,76,39,49,0,Foul on Ryan Hill
+Kent State,Bucknell,59,76,39,49,1,Devareaux Manley made Free Throw.
+Kent State,Bucknell,60,76,39,49,1,Devareaux Manley made Free Throw.
+Kent State,Bucknell,60,76,40,0,0,End Game

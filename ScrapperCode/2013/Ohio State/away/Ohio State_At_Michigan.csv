@@ -1,0 +1,259 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Ohio State,Michigan,0,0,0,0,0,Jump Ball won by Ohio State.
+Ohio State,Michigan,2,0,0,13,1,Deshaun Thomas made Jumper.  Assisted by Sam Thompson.
+Ohio State,Michigan,2,0,0,37,0,Foul on Lenzelle Smith, Jr.
+Ohio State,Michigan,2,0,0,37,0,Tim Hardaway Jr. missed Free Throw.
+Ohio State,Michigan,2,0,0,37,0,null
+Ohio State,Michigan,2,1,0,37,1,Tim Hardaway Jr. made Free Throw.
+Ohio State,Michigan,2,1,0,59,0,Deshaun Thomas Turnover.
+Ohio State,Michigan,2,1,1,4,0,Trey Burke missed Jumper.
+Ohio State,Michigan,2,1,1,4,0,Ohio State Defensive Rebound.
+Ohio State,Michigan,2,1,1,28,0,Foul on Tim Hardaway Jr.
+Ohio State,Michigan,2,1,1,28,0,Sam Thompson missed Free Throw.
+Ohio State,Michigan,2,1,1,28,0,null
+Ohio State,Michigan,3,1,1,28,1,Sam Thompson made Free Throw.
+Ohio State,Michigan,3,1,1,39,0,Tim Hardaway Jr. missed Three Point Jumper.
+Ohio State,Michigan,3,1,1,39,0,Aaron Craft Defensive Rebound.
+Ohio State,Michigan,3,1,1,53,0,Foul on Jon Horford
+Ohio State,Michigan,4,1,1,53,1,Amir Williams made Free Throw.
+Ohio State,Michigan,4,1,1,53,0,Amir Williams missed Free Throw.
+Ohio State,Michigan,4,1,1,53,0,Mitch McGary Defensive Rebound.
+Ohio State,Michigan,4,3,2,16,1,Mitch McGary made Layup.  Assisted by Trey Burke.
+Ohio State,Michigan,4,3,2,34,0,Deshaun Thomas missed Jumper.
+Ohio State,Michigan,4,3,2,34,0,Michigan Defensive Rebound.
+Ohio State,Michigan,4,3,2,57,0,Glenn Robinson III missed Layup.
+Ohio State,Michigan,4,3,2,57,0,Amir Williams Block.
+Ohio State,Michigan,4,3,2,57,0,Nik Stauskas Offensive Rebound.
+Ohio State,Michigan,4,6,3,3,1,Nik Stauskas made Three Point Jumper.
+Ohio State,Michigan,4,6,3,24,0,Lenzelle Smith, Jr. missed Three Point Jumper.
+Ohio State,Michigan,4,6,3,24,0,Mitch McGary Defensive Rebound.
+Ohio State,Michigan,4,9,3,35,1,Glenn Robinson III made Three Point Jumper.  Assisted by Trey Burke.
+Ohio State,Michigan,4,9,3,53,0,Lenzelle Smith, Jr. Turnover.
+Ohio State,Michigan,4,9,3,53,0,Mitch McGary Steal.
+Ohio State,Michigan,4,11,4,6,1,Tim Hardaway Jr. made Layup.
+Ohio State,Michigan,4,11,4,6,0,Official TV Timeout.
+Ohio State,Michigan,4,11,4,35,0,Lenzelle Smith, Jr. Turnover.
+Ohio State,Michigan,4,11,4,44,0,Mitch McGary missed Layup.
+Ohio State,Michigan,4,11,4,44,0,Amir Williams Block.
+Ohio State,Michigan,4,11,4,44,0,Aaron Craft Defensive Rebound.
+Ohio State,Michigan,4,11,4,48,0,Deshaun Thomas missed Jumper.
+Ohio State,Michigan,4,11,4,48,0,Mitch McGary Defensive Rebound.
+Ohio State,Michigan,4,11,4,56,0,Trey Burke missed Three Point Jumper.
+Ohio State,Michigan,4,11,4,56,0,Mitch McGary Offensive Rebound.
+Ohio State,Michigan,4,13,5,1,1,Mitch McGary made Layup.
+Ohio State,Michigan,6,13,5,38,1,Sam Thompson made Jumper.
+Ohio State,Michigan,6,13,6,0,0,Mitch McGary missed Jumper.
+Ohio State,Michigan,6,13,6,0,0,Ohio State Defensive Rebound.
+Ohio State,Michigan,8,13,6,13,1,Shannon Scott made Jumper.  Assisted by Deshaun Thomas.
+Ohio State,Michigan,8,13,6,31,0,Caris LeVert missed Layup.
+Ohio State,Michigan,8,13,6,31,0,Jordan Morgan Offensive Rebound.
+Ohio State,Michigan,8,13,6,36,0,Jordan Morgan Turnover.
+Ohio State,Michigan,8,13,6,36,0,Evan Ravenel Steal.
+Ohio State,Michigan,8,13,6,40,0,Shannon Scott missed Layup.
+Ohio State,Michigan,8,13,6,40,0,Jordan Morgan Defensive Rebound.
+Ohio State,Michigan,8,13,6,44,0,Jump Ball won by Michigan.
+Ohio State,Michigan,8,16,6,56,1,Nik Stauskas made Three Point Jumper.  Assisted by Jordan Morgan.
+Ohio State,Michigan,8,16,7,20,0,Deshaun Thomas missed Three Point Jumper.
+Ohio State,Michigan,8,16,7,20,0,Trey Burke Defensive Rebound.
+Ohio State,Michigan,8,18,7,31,1,Trey Burke made Layup.
+Ohio State,Michigan,11,18,7,50,1,Deshaun Thomas made Three Point Jumper.  Assisted by Shannon Scott.
+Ohio State,Michigan,11,18,8,17,0,Nik Stauskas Turnover.
+Ohio State,Michigan,11,18,8,17,0,Evan Ravenel Steal.
+Ohio State,Michigan,13,18,8,38,1,Aaron Craft made Layup.
+Ohio State,Michigan,13,18,9,2,0,Trey Burke missed Layup.
+Ohio State,Michigan,13,18,9,2,0,Aaron Craft Defensive Rebound.
+Ohio State,Michigan,13,18,9,7,0,Shannon Scott missed Layup.
+Ohio State,Michigan,13,18,9,7,0,Sam Thompson Offensive Rebound.
+Ohio State,Michigan,15,18,9,12,1,Sam Thompson made Dunk.
+Ohio State,Michigan,15,18,9,25,0,Glenn Robinson III Turnover.
+Ohio State,Michigan,15,18,9,25,0,Shannon Scott Steal.
+Ohio State,Michigan,15,18,9,32,0,Official TV Timeout.
+Ohio State,Michigan,15,18,9,46,0,Evan Ravenel Turnover.
+Ohio State,Michigan,15,21,10,13,1,Trey Burke made Three Point Jumper.
+Ohio State,Michigan,15,21,10,34,0,LaQuinton Ross Turnover.
+Ohio State,Michigan,15,21,10,34,0,Tim Hardaway Jr. Steal.
+Ohio State,Michigan,15,21,11,9,0,Spike Albrecht missed Layup.
+Ohio State,Michigan,15,21,11,9,0,LaQuinton Ross Block.
+Ohio State,Michigan,15,21,11,9,0,Shannon Scott Defensive Rebound.
+Ohio State,Michigan,15,21,11,28,0,Aaron Craft missed Layup.
+Ohio State,Michigan,15,21,11,28,0,Evan Ravenel Offensive Rebound.
+Ohio State,Michigan,17,21,11,28,1,Evan Ravenel made Tip Shot.
+Ohio State,Michigan,17,21,11,54,0,Spike Albrecht Turnover.
+Ohio State,Michigan,17,21,12,15,0,Aaron Craft missed Three Point Jumper.
+Ohio State,Michigan,17,21,12,15,0,Spike Albrecht Defensive Rebound.
+Ohio State,Michigan,17,21,12,26,0,Mitch McGary missed Jumper.
+Ohio State,Michigan,17,21,12,26,0,Evan Ravenel Defensive Rebound.
+Ohio State,Michigan,17,21,12,41,0,Official TV Timeout.
+Ohio State,Michigan,19,21,12,58,1,LaQuinton Ross made Jumper.
+Ohio State,Michigan,19,23,13,16,1,Mitch McGary made Layup.  Assisted by Tim Hardaway Jr..
+Ohio State,Michigan,19,23,13,40,0,LaQuinton Ross missed Layup.
+Ohio State,Michigan,19,23,13,40,0,LaQuinton Ross Offensive Rebound.
+Ohio State,Michigan,19,23,13,43,0,LaQuinton Ross missed Layup.
+Ohio State,Michigan,19,23,13,43,0,Mitch McGary Block.
+Ohio State,Michigan,19,23,13,43,0,Michigan Defensive Rebound.
+Ohio State,Michigan,19,23,13,54,0,Foul on Nik Stauskas
+Ohio State,Michigan,19,23,13,54,0,Nik Stauskas Turnover.
+Ohio State,Michigan,21,23,14,15,1,Deshaun Thomas made Jumper.
+Ohio State,Michigan,21,25,14,37,1,Mitch McGary made Layup.
+Ohio State,Michigan,24,25,14,52,1,LaQuinton Ross made Three Point Jumper.  Assisted by Lenzelle Smith, Jr..
+Ohio State,Michigan,24,28,15,20,1,Tim Hardaway Jr. made Three Point Jumper.  Assisted by Nik Stauskas.
+Ohio State,Michigan,27,28,15,51,1,Lenzelle Smith, Jr. made Three Point Jumper.  Assisted by LaQuinton Ross.
+Ohio State,Michigan,27,28,16,30,0,Nik Stauskas missed Three Point Jumper.
+Ohio State,Michigan,27,28,16,30,0,Aaron Craft Defensive Rebound.
+Ohio State,Michigan,27,28,16,44,0,Lenzelle Smith, Jr. missed Three Point Jumper.
+Ohio State,Michigan,27,28,16,44,0,Nik Stauskas Defensive Rebound.
+Ohio State,Michigan,27,28,16,57,0,Official TV Timeout.
+Ohio State,Michigan,27,28,17,20,0,Nik Stauskas missed Three Point Jumper.
+Ohio State,Michigan,27,28,17,20,0,Lenzelle Smith, Jr. Defensive Rebound.
+Ohio State,Michigan,27,28,17,38,0,Deshaun Thomas Turnover.
+Ohio State,Michigan,27,28,17,38,0,Mitch McGary Steal.
+Ohio State,Michigan,27,28,17,43,0,Trey Burke missed Three Point Jumper.
+Ohio State,Michigan,27,28,17,43,0,Aaron Craft Defensive Rebound.
+Ohio State,Michigan,29,28,17,56,1,Aaron Craft made Layup.
+Ohio State,Michigan,29,28,18,16,0,Tim Hardaway Jr. missed Jumper.
+Ohio State,Michigan,29,28,18,16,0,Mitch McGary Offensive Rebound.
+Ohio State,Michigan,29,30,18,16,1,Mitch McGary made Tip Shot.
+Ohio State,Michigan,29,30,18,53,0,Deshaun Thomas missed Layup.
+Ohio State,Michigan,29,30,18,53,0,LaQuinton Ross Offensive Rebound.
+Ohio State,Michigan,31,30,18,53,1,LaQuinton Ross made Layup.
+Ohio State,Michigan,31,30,19,29,0,Glenn Robinson III missed Three Point Jumper.
+Ohio State,Michigan,31,30,19,29,0,Aaron Craft Defensive Rebound.
+Ohio State,Michigan,31,30,19,56,0,Deshaun Thomas missed Jumper.
+Ohio State,Michigan,31,30,19,56,0,null
+Ohio State,Michigan,31,30,20,0,0,End of the 1st Half.
+Ohio State,Michigan,31,30,20,0,0,Jump Ball won by Ohio State.
+Ohio State,Michigan,33,30,20,18,1,Aaron Craft made Jumper.
+Ohio State,Michigan,33,32,20,39,1,Nik Stauskas made Layup.  Assisted by Mitch McGary.
+Ohio State,Michigan,35,32,21,14,1,Lenzelle Smith, Jr. made Layup.  Assisted by Deshaun Thomas.
+Ohio State,Michigan,35,32,21,37,0,Glenn Robinson III missed Jumper.
+Ohio State,Michigan,35,32,21,37,0,Lenzelle Smith, Jr. Defensive Rebound.
+Ohio State,Michigan,35,32,21,46,0,Deshaun Thomas missed Jumper.
+Ohio State,Michigan,35,32,21,46,0,Nik Stauskas Defensive Rebound.
+Ohio State,Michigan,35,34,21,54,1,Glenn Robinson III made Dunk.  Assisted by Trey Burke.
+Ohio State,Michigan,35,34,22,23,0,Lenzelle Smith, Jr. missed Three Point Jumper.
+Ohio State,Michigan,35,34,22,23,0,Deshaun Thomas Offensive Rebound.
+Ohio State,Michigan,37,34,22,27,1,Deshaun Thomas made Jumper.
+Ohio State,Michigan,37,34,22,27,0,Foul on Glenn Robinson III
+Ohio State,Michigan,38,34,22,27,1,Deshaun Thomas made Free Throw.
+Ohio State,Michigan,38,37,22,40,1,Trey Burke made Three Point Jumper.
+Ohio State,Michigan,41,37,23,23,1,Aaron Craft made Three Point Jumper.  Assisted by Sam Thompson.
+Ohio State,Michigan,41,37,23,41,0,Foul on Amir Williams
+Ohio State,Michigan,41,37,24,3,0,Trey Burke Turnover.
+Ohio State,Michigan,41,37,24,14,0,Official TV Timeout.
+Ohio State,Michigan,41,37,24,19,0,Lenzelle Smith, Jr. Turnover.
+Ohio State,Michigan,41,37,24,19,0,Mitch McGary Steal.
+Ohio State,Michigan,41,37,24,44,0,Trey Burke missed Jumper.
+Ohio State,Michigan,41,37,24,44,0,Deshaun Thomas Defensive Rebound.
+Ohio State,Michigan,43,37,24,53,1,Sam Thompson made Jumper.  Assisted by Lenzelle Smith, Jr..
+Ohio State,Michigan,43,37,25,16,0,Foul on Amir Williams
+Ohio State,Michigan,43,37,25,16,0,Glenn Robinson III missed Free Throw.
+Ohio State,Michigan,43,37,25,16,0,null
+Ohio State,Michigan,43,38,25,16,1,Glenn Robinson III made Free Throw.
+Ohio State,Michigan,43,38,25,35,0,Foul on Trey Burke
+Ohio State,Michigan,44,38,25,35,1,Deshaun Thomas made Free Throw.
+Ohio State,Michigan,45,38,25,35,1,Deshaun Thomas made Free Throw.
+Ohio State,Michigan,45,38,25,43,0,Foul on Evan Ravenel
+Ohio State,Michigan,45,38,25,47,0,Tim Hardaway Jr. missed Jumper.
+Ohio State,Michigan,45,38,25,47,0,Sam Thompson Block.
+Ohio State,Michigan,45,38,25,47,0,Glenn Robinson III Offensive Rebound.
+Ohio State,Michigan,45,38,26,11,0,Tim Hardaway Jr. Turnover.
+Ohio State,Michigan,45,38,26,11,0,Aaron Craft Steal.
+Ohio State,Michigan,45,38,26,17,0,Deshaun Thomas missed Three Point Jumper.
+Ohio State,Michigan,45,38,26,17,0,Jon Horford Defensive Rebound.
+Ohio State,Michigan,45,38,26,25,0,Foul on Sam Thompson
+Ohio State,Michigan,45,40,26,40,1,Jon Horford made Dunk.  Assisted by Trey Burke.
+Ohio State,Michigan,48,40,26,59,1,Lenzelle Smith, Jr. made Three Point Jumper.  Assisted by Aaron Craft.
+Ohio State,Michigan,48,42,27,21,1,Glenn Robinson III made Layup.  Assisted by Jon Horford.
+Ohio State,Michigan,48,42,27,21,0,Foul on Evan Ravenel
+Ohio State,Michigan,48,43,27,21,1,Glenn Robinson III made Free Throw.
+Ohio State,Michigan,48,43,27,36,0,Deshaun Thomas Turnover.
+Ohio State,Michigan,48,43,27,36,0,Glenn Robinson III Steal.
+Ohio State,Michigan,48,43,27,44,0,Jump Ball won by Michigan.
+Ohio State,Michigan,48,46,27,56,1,Tim Hardaway Jr. made Three Point Jumper.  Assisted by Jon Horford.
+Ohio State,Michigan,48,46,28,31,0,Amir Williams missed Layup.
+Ohio State,Michigan,48,46,28,31,0,LaQuinton Ross Offensive Rebound.
+Ohio State,Michigan,50,46,28,34,1,LaQuinton Ross made Layup.
+Ohio State,Michigan,50,49,28,57,1,Tim Hardaway Jr. made Three Point Jumper.  Assisted by Jon Horford.
+Ohio State,Michigan,50,49,29,29,0,Deshaun Thomas missed Layup.
+Ohio State,Michigan,50,49,29,29,0,Jon Horford Block.
+Ohio State,Michigan,50,49,29,29,0,Michigan Defensive Rebound.
+Ohio State,Michigan,50,49,29,31,0,Official TV Timeout.
+Ohio State,Michigan,50,52,29,44,1,Tim Hardaway Jr. made Three Point Jumper.  Assisted by Trey Burke.
+Ohio State,Michigan,52,52,30,7,1,LaQuinton Ross made Layup.
+Ohio State,Michigan,52,52,30,27,0,Mitch McGary missed Jumper.
+Ohio State,Michigan,52,52,30,27,0,Amir Williams Defensive Rebound.
+Ohio State,Michigan,54,52,30,54,1,Deshaun Thomas made Layup.  Assisted by Shannon Scott.
+Ohio State,Michigan,54,52,31,1,0,Michigan Full Timeout.
+Ohio State,Michigan,54,55,31,15,1,Tim Hardaway Jr. made Three Point Jumper.  Assisted by Glenn Robinson III.
+Ohio State,Michigan,56,55,31,32,1,Amir Williams made Layup.  Assisted by Shannon Scott.
+Ohio State,Michigan,56,55,31,32,0,Foul on Jon Horford
+Ohio State,Michigan,57,55,31,32,1,Amir Williams made Free Throw.
+Ohio State,Michigan,57,55,31,46,0,Foul on Lenzelle Smith, Jr.
+Ohio State,Michigan,57,55,32,13,0,Glenn Robinson III missed Jumper.
+Ohio State,Michigan,57,55,32,13,0,Jon Horford Offensive Rebound.
+Ohio State,Michigan,57,55,32,13,0,Jon Horford missed Tip Shot.
+Ohio State,Michigan,57,55,32,13,0,Glenn Robinson III Offensive Rebound.
+Ohio State,Michigan,57,55,32,22,0,Glenn Robinson III missed Jumper.
+Ohio State,Michigan,57,55,32,22,0,Amir Williams Block.
+Ohio State,Michigan,57,55,32,22,0,Amir Williams Defensive Rebound.
+Ohio State,Michigan,60,55,32,43,1,LaQuinton Ross made Three Point Jumper.  Assisted by Lenzelle Smith, Jr..
+Ohio State,Michigan,60,55,33,21,0,Jon Horford missed Layup.
+Ohio State,Michigan,60,55,33,21,0,Trey Burke Offensive Rebound.
+Ohio State,Michigan,60,55,33,23,0,Michigan Full Timeout.
+Ohio State,Michigan,60,55,33,27,0,Official TV Timeout.
+Ohio State,Michigan,60,55,33,35,0,Tim Hardaway Jr. missed Layup.
+Ohio State,Michigan,60,55,33,35,0,Mitch McGary Offensive Rebound.
+Ohio State,Michigan,60,57,33,35,1,Mitch McGary made Layup.
+Ohio State,Michigan,60,57,33,35,0,Foul on Amir Williams
+Ohio State,Michigan,60,57,33,35,0,Mitch McGary missed Free Throw.
+Ohio State,Michigan,60,57,33,35,0,Michigan Offensive Rebound.
+Ohio State,Michigan,60,57,33,56,0,Foul on Tim Hardaway Jr.
+Ohio State,Michigan,60,57,33,56,0,Tim Hardaway Jr. Turnover.
+Ohio State,Michigan,62,57,34,8,1,Amir Williams made Dunk.  Assisted by Deshaun Thomas.
+Ohio State,Michigan,62,60,34,34,1,Tim Hardaway Jr. made Three Point Jumper.  Assisted by Trey Burke.
+Ohio State,Michigan,64,60,34,48,1,Amir Williams made Dunk.  Assisted by Deshaun Thomas.
+Ohio State,Michigan,64,60,35,4,0,Foul on Lenzelle Smith, Jr.
+Ohio State,Michigan,64,60,35,4,0,Tim Hardaway Jr. missed Free Throw.
+Ohio State,Michigan,64,60,35,4,0,Amir Williams Defensive Rebound.
+Ohio State,Michigan,64,60,35,36,0,Ohio State Full Timeout.
+Ohio State,Michigan,64,60,35,41,0,Lenzelle Smith, Jr. missed Three Point Jumper.
+Ohio State,Michigan,64,60,35,41,0,Tim Hardaway Jr. Defensive Rebound.
+Ohio State,Michigan,64,60,35,54,0,Nik Stauskas Turnover.
+Ohio State,Michigan,64,60,35,54,0,Aaron Craft Steal.
+Ohio State,Michigan,64,60,36,6,0,Aaron Craft Turnover.
+Ohio State,Michigan,64,60,36,6,0,Glenn Robinson III Steal.
+Ohio State,Michigan,64,62,36,14,1,Trey Burke made Dunk.  Assisted by Glenn Robinson III.
+Ohio State,Michigan,64,62,36,29,0,Aaron Craft missed Layup.
+Ohio State,Michigan,64,62,36,29,0,Trey Burke Defensive Rebound.
+Ohio State,Michigan,64,65,36,33,1,Nik Stauskas made Three Point Jumper.  Assisted by Trey Burke.
+Ohio State,Michigan,64,65,36,47,0,Ohio State Full Timeout.
+Ohio State,Michigan,64,65,36,59,0,Lenzelle Smith, Jr. missed Jumper.
+Ohio State,Michigan,64,65,36,59,0,Amir Williams Offensive Rebound.
+Ohio State,Michigan,64,65,37,1,0,Foul on Mitch McGary
+Ohio State,Michigan,64,65,37,1,0,Official TV Timeout.
+Ohio State,Michigan,64,65,37,1,0,Amir Williams missed Free Throw.
+Ohio State,Michigan,64,65,37,1,0,null
+Ohio State,Michigan,65,65,37,1,1,Amir Williams made Free Throw.
+Ohio State,Michigan,65,65,37,1,0,Tim Hardaway Jr. missed Jumper.
+Ohio State,Michigan,65,65,37,1,0,Sam Thompson Block.
+Ohio State,Michigan,65,65,37,1,0,Glenn Robinson III Offensive Rebound.
+Ohio State,Michigan,65,68,37,18,1,Trey Burke made Three Point Jumper.  Assisted by Glenn Robinson III.
+Ohio State,Michigan,65,68,37,33,0,Deshaun Thomas missed Jumper.
+Ohio State,Michigan,65,68,37,33,0,Nik Stauskas Defensive Rebound.
+Ohio State,Michigan,65,68,37,38,0,Nik Stauskas Turnover.
+Ohio State,Michigan,65,68,37,38,0,Lenzelle Smith, Jr. Steal.
+Ohio State,Michigan,68,68,37,41,1,Deshaun Thomas made Three Point Jumper.  Assisted by Lenzelle Smith, Jr..
+Ohio State,Michigan,68,68,37,56,0,Foul on Aaron Craft
+Ohio State,Michigan,68,69,37,56,1,Tim Hardaway Jr. made Free Throw.
+Ohio State,Michigan,68,70,37,56,1,Tim Hardaway Jr. made Free Throw.
+Ohio State,Michigan,68,70,38,17,0,LaQuinton Ross missed Jumper.
+Ohio State,Michigan,68,70,38,17,0,LaQuinton Ross Offensive Rebound.
+Ohio State,Michigan,70,70,38,21,1,LaQuinton Ross made Jumper.
+Ohio State,Michigan,70,72,38,55,1,Mitch McGary made Dunk.  Assisted by Trey Burke.
+Ohio State,Michigan,70,72,39,26,0,Aaron Craft missed Layup.
+Ohio State,Michigan,70,72,39,26,0,LaQuinton Ross Offensive Rebound.
+Ohio State,Michigan,72,72,39,31,1,Lenzelle Smith, Jr. made Jumper.
+Ohio State,Michigan,72,72,39,39,0,Michigan Full Timeout.
+Ohio State,Michigan,72,72,39,58,0,Trey Burke missed Three Point Jumper.
+Ohio State,Michigan,72,72,39,58,0,null
+Ohio State,Michigan,72,72,40,0,0,End of the 2nd Half.

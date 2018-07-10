@@ -1,0 +1,376 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Pittsburgh,Maryland,0,0,0,0,0,Jump Ball won by Maryland
+Pittsburgh,Maryland,0,2,0,12,1,Jake Layman made Jumper. Assisted by Seth Allen.
+Pittsburgh,Maryland,0,2,0,32,0,Talib Zanna missed Jumper.
+Pittsburgh,Maryland,0,2,0,32,0,Evan Smotrycz Defensive Rebound.
+Pittsburgh,Maryland,0,4,0,41,1,Evan Smotrycz made Jumper. Assisted by Seth Allen.
+Pittsburgh,Maryland,2,4,0,50,1,Talib Zanna made Jumper.
+Pittsburgh,Maryland,2,4,1,5,0,Foul on Shaquille Cleare.
+Pittsburgh,Maryland,2,4,1,5,0,Shaquille Cleare Turnover.
+Pittsburgh,Maryland,2,4,1,19,0,Talib Zanna Turnover.
+Pittsburgh,Maryland,2,4,1,19,0,Dez Wells Steal.
+Pittsburgh,Maryland,2,6,1,23,1,Dez Wells made Dunk.
+Pittsburgh,Maryland,2,6,2,2,0,Lamar Patterson missed Layup.
+Pittsburgh,Maryland,2,6,2,2,0,Evan Smotrycz Defensive Rebound.
+Pittsburgh,Maryland,2,6,2,5,0,Jump Ball won by Pittsburgh
+Pittsburgh,Maryland,2,6,2,5,0,Evan Smotrycz Turnover.
+Pittsburgh,Maryland,2,6,2,5,0,Michael Young Steal.
+Pittsburgh,Maryland,2,6,2,7,0,Foul on Lamar Patterson.
+Pittsburgh,Maryland,2,6,2,7,0,Lamar Patterson Turnover.
+Pittsburgh,Maryland,2,9,2,22,1,Jake Layman made Three Point Jumper. Assisted by Shaquille Cleare.
+Pittsburgh,Maryland,2,9,2,35,0,Foul on Seth Allen.
+Pittsburgh,Maryland,3,9,2,35,1,James Robinson made Free Throw.
+Pittsburgh,Maryland,4,9,2,35,1,James Robinson made Free Throw.
+Pittsburgh,Maryland,4,9,2,53,0,Jake Layman missed Three Point Jumper.
+Pittsburgh,Maryland,4,9,2,53,0,Michael Young Defensive Rebound.
+Pittsburgh,Maryland,4,9,3,7,0,Cameron Wright missed Jumper.
+Pittsburgh,Maryland,4,9,3,7,0,Jake Layman Defensive Rebound.
+Pittsburgh,Maryland,4,9,3,11,0,Dez Wells Turnover.
+Pittsburgh,Maryland,4,9,3,11,0,Lamar Patterson Steal.
+Pittsburgh,Maryland,4,9,3,21,0,Michael Young Turnover.
+Pittsburgh,Maryland,4,11,3,37,1,Dez Wells made Jumper. Assisted by Shaquille Cleare.
+Pittsburgh,Maryland,4,11,4,5,0,Lamar Patterson missed Layup.
+Pittsburgh,Maryland,4,11,4,5,0,Shaquille Cleare Defensive Rebound.
+Pittsburgh,Maryland,4,11,4,26,0,Evan Smotrycz missed Jumper.
+Pittsburgh,Maryland,4,11,4,26,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Maryland,6,11,4,33,1,Cameron Wright made Jumper. Assisted by Lamar Patterson.
+Pittsburgh,Maryland,6,11,4,54,0,Evan Smotrycz missed Layup.
+Pittsburgh,Maryland,6,11,4,54,0,Talib Zanna Defensive Rebound.
+Pittsburgh,Maryland,6,11,5,2,0,James Robinson missed Jumper.
+Pittsburgh,Maryland,6,11,5,2,0,Dez Wells Block.
+Pittsburgh,Maryland,6,11,5,2,0,Jamel Artis Offensive Rebound.
+Pittsburgh,Maryland,6,11,5,3,0,Foul on Evan Smotrycz.
+Pittsburgh,Maryland,6,11,5,4,0,Official TV Timeout
+Pittsburgh,Maryland,7,11,5,4,1,Jamel Artis made Free Throw.
+Pittsburgh,Maryland,8,11,5,4,1,Jamel Artis made Free Throw.
+Pittsburgh,Maryland,8,11,5,18,0,Nick Faust missed Three Point Jumper.
+Pittsburgh,Maryland,8,11,5,18,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Maryland,8,11,5,28,0,Jamel Artis missed Three Point Jumper.
+Pittsburgh,Maryland,8,11,5,28,0,Derrick Randall Offensive Rebound.
+Pittsburgh,Maryland,8,11,5,28,0,Derrick Randall Turnover.
+Pittsburgh,Maryland,8,11,5,48,0,Charles Mitchell missed Jumper.
+Pittsburgh,Maryland,8,11,5,48,0,Jamel Artis Defensive Rebound.
+Pittsburgh,Maryland,8,11,5,50,0,Jamel Artis Turnover.
+Pittsburgh,Maryland,8,11,5,54,0,Nick Faust missed Three Point Jumper.
+Pittsburgh,Maryland,8,11,5,54,0,Jake Layman Offensive Rebound.
+Pittsburgh,Maryland,8,11,6,9,0,Charles Mitchell missed Jumper.
+Pittsburgh,Maryland,8,11,6,9,0,Roddy Peters Offensive Rebound.
+Pittsburgh,Maryland,8,11,6,26,0,Foul on Jonathan Graham.
+Pittsburgh,Maryland,8,11,6,26,0,Jonathan Graham Turnover.
+Pittsburgh,Maryland,8,11,6,47,0,Cameron Wright missed Jumper.
+Pittsburgh,Maryland,8,11,6,47,0,Jamel Artis Offensive Rebound.
+Pittsburgh,Maryland,8,11,6,49,0,Jamel Artis missed Layup.
+Pittsburgh,Maryland,8,11,6,49,0,Jamel Artis Offensive Rebound.
+Pittsburgh,Maryland,8,11,6,49,0,Jamel Artis Turnover.
+Pittsburgh,Maryland,8,13,7,9,1,Dez Wells made Layup. Assisted by Roddy Peters.
+Pittsburgh,Maryland,10,13,7,37,1,Jamel Artis made Jumper. Assisted by Lamar Patterson.
+Pittsburgh,Maryland,10,13,7,54,0,Dez Wells missed Jumper.
+Pittsburgh,Maryland,10,13,7,54,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Maryland,10,13,8,4,0,Chris Jones missed Jumper.
+Pittsburgh,Maryland,10,13,8,4,0,Talib Zanna Offensive Rebound.
+Pittsburgh,Maryland,12,13,8,8,1,Talib Zanna made Dunk.
+Pittsburgh,Maryland,12,13,8,41,0,Roddy Peters missed Jumper.
+Pittsburgh,Maryland,12,13,8,41,0,Jamel Artis Defensive Rebound.
+Pittsburgh,Maryland,12,13,8,47,0,Talib Zanna missed Layup.
+Pittsburgh,Maryland,12,13,8,47,0,Charles Mitchell Block.
+Pittsburgh,Maryland,12,13,8,47,0,Nick Faust Defensive Rebound.
+Pittsburgh,Maryland,12,13,9,0,0,Foul on Talib Zanna.
+Pittsburgh,Maryland,12,13,9,0,0,Official TV Timeout
+Pittsburgh,Maryland,12,13,9,0,0,Charles Mitchell missed Free Throw.
+Pittsburgh,Maryland,12,13,9,0,0,Maryland Deadball Team Rebound.
+Pittsburgh,Maryland,12,13,9,0,0,Charles Mitchell missed Free Throw.
+Pittsburgh,Maryland,12,13,9,0,0,Jamel Artis Defensive Rebound.
+Pittsburgh,Maryland,12,13,9,15,0,Lamar Patterson missed Three Point Jumper.
+Pittsburgh,Maryland,12,13,9,15,0,Seth Allen Defensive Rebound.
+Pittsburgh,Maryland,12,13,9,28,0,Jake Layman missed Jumper.
+Pittsburgh,Maryland,12,13,9,28,0,Seth Allen Offensive Rebound.
+Pittsburgh,Maryland,12,16,9,49,1,Evan Smotrycz made Three Point Jumper.
+Pittsburgh,Maryland,12,16,10,3,0,Foul on Charles Mitchell.
+Pittsburgh,Maryland,14,16,10,19,1,Jamel Artis made Jumper.
+Pittsburgh,Maryland,14,16,10,30,0,Seth Allen missed Jumper.
+Pittsburgh,Maryland,14,16,10,30,0,Maryland Offensive Rebound.
+Pittsburgh,Maryland,14,16,10,42,0,Shaquille Cleare Turnover.
+Pittsburgh,Maryland,16,16,10,53,1,Derrick Randall made Dunk. Assisted by Lamar Patterson.
+Pittsburgh,Maryland,16,16,11,17,0,Shaquille Cleare missed Jumper.
+Pittsburgh,Maryland,16,16,11,17,0,Pittsburgh Defensive Rebound.
+Pittsburgh,Maryland,16,16,11,34,0,Foul on Evan Smotrycz.
+Pittsburgh,Maryland,17,16,11,34,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,18,16,11,34,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,18,16,11,46,0,Jake Layman missed Jumper.
+Pittsburgh,Maryland,18,16,11,46,0,Pittsburgh Defensive Rebound.
+Pittsburgh,Maryland,18,16,12,5,0,James Robinson missed Three Point Jumper.
+Pittsburgh,Maryland,18,16,12,5,0,Shaquille Cleare Defensive Rebound.
+Pittsburgh,Maryland,18,16,12,11,0,Seth Allen Turnover.
+Pittsburgh,Maryland,18,16,12,11,0,Josh Newkirk Steal.
+Pittsburgh,Maryland,18,16,12,17,0,Josh Newkirk missed Layup.
+Pittsburgh,Maryland,18,16,12,17,0,Jake Layman Block.
+Pittsburgh,Maryland,18,16,12,17,0,Josh Newkirk Offensive Rebound.
+Pittsburgh,Maryland,18,16,12,23,0,Cameron Wright Turnover.
+Pittsburgh,Maryland,18,16,12,23,0,Official TV Timeout
+Pittsburgh,Maryland,18,16,12,34,0,Dez Wells Turnover.
+Pittsburgh,Maryland,20,16,12,51,1,Lamar Patterson made Jumper. Assisted by James Robinson.
+Pittsburgh,Maryland,20,18,13,1,1,Nick Faust made Jumper. Assisted by Seth Allen.
+Pittsburgh,Maryland,20,18,13,15,0,Foul on Nick Faust.
+Pittsburgh,Maryland,21,18,13,15,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,22,18,13,15,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,23,18,13,15,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,23,20,13,28,1,Charles Mitchell made Jumper.
+Pittsburgh,Maryland,23,20,13,35,0,Foul on Nick Faust.
+Pittsburgh,Maryland,24,20,13,35,1,James Robinson made Free Throw.
+Pittsburgh,Maryland,25,20,13,35,1,James Robinson made Free Throw.
+Pittsburgh,Maryland,25,20,13,49,0,Foul on Derrick Randall.
+Pittsburgh,Maryland,25,21,13,49,1,Charles Mitchell made Free Throw.
+Pittsburgh,Maryland,25,22,13,49,1,Charles Mitchell made Free Throw.
+Pittsburgh,Maryland,25,22,13,59,0,Foul on Dez Wells.
+Pittsburgh,Maryland,26,22,13,59,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,27,22,13,59,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,27,24,14,12,1,Jake Layman made Layup.
+Pittsburgh,Maryland,27,24,14,25,0,Cameron Wright Turnover.
+Pittsburgh,Maryland,27,24,14,25,0,Seth Allen Steal.
+Pittsburgh,Maryland,27,24,14,29,0,Foul on James Robinson.
+Pittsburgh,Maryland,27,25,14,29,1,Seth Allen made Free Throw.
+Pittsburgh,Maryland,27,26,14,29,1,Seth Allen made Free Throw.
+Pittsburgh,Maryland,27,26,14,40,0,Foul on Cameron Wright.
+Pittsburgh,Maryland,27,27,14,40,1,Dez Wells made Free Throw.
+Pittsburgh,Maryland,27,28,14,40,1,Dez Wells made Free Throw.
+Pittsburgh,Maryland,29,28,14,53,1,Michael Young made Layup. Assisted by Cameron Wright.
+Pittsburgh,Maryland,29,28,15,31,0,Dez Wells Turnover.
+Pittsburgh,Maryland,29,28,15,31,0,Cameron Wright Steal.
+Pittsburgh,Maryland,31,28,15,36,1,James Robinson made Layup. Assisted by Cameron Wright.
+Pittsburgh,Maryland,31,28,15,45,0,Dez Wells missed Layup.
+Pittsburgh,Maryland,31,28,15,45,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Maryland,33,28,15,50,1,Lamar Patterson made Layup.
+Pittsburgh,Maryland,33,28,15,51,0,Maryland  Timeout
+Pittsburgh,Maryland,33,28,16,4,0,Jake Layman missed Three Point Jumper.
+Pittsburgh,Maryland,33,28,16,4,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Maryland,35,28,16,13,1,Cameron Wright made Layup.
+Pittsburgh,Maryland,35,28,16,13,0,Foul on Jonathan Graham.
+Pittsburgh,Maryland,35,28,16,13,0,Official TV Timeout
+Pittsburgh,Maryland,36,28,16,13,1,Cameron Wright made Free Throw.
+Pittsburgh,Maryland,36,28,16,26,0,Foul on Charles Mitchell.
+Pittsburgh,Maryland,36,28,16,26,0,Charles Mitchell Turnover.
+Pittsburgh,Maryland,36,28,16,54,0,Jamel Artis missed Jumper.
+Pittsburgh,Maryland,36,28,16,54,0,Seth Allen Defensive Rebound.
+Pittsburgh,Maryland,36,28,17,7,0,Foul on Michael Young.
+Pittsburgh,Maryland,36,29,17,7,1,Charles Mitchell made Free Throw.
+Pittsburgh,Maryland,36,29,17,7,0,Charles Mitchell missed Free Throw.
+Pittsburgh,Maryland,36,29,17,7,0,Jamel Artis Defensive Rebound.
+Pittsburgh,Maryland,36,29,17,8,0,Foul on Evan Smotrycz.
+Pittsburgh,Maryland,37,29,17,8,1,Jamel Artis made Free Throw.
+Pittsburgh,Maryland,38,29,17,8,1,Jamel Artis made Free Throw.
+Pittsburgh,Maryland,38,31,17,22,1,Charles Mitchell made Layup. Assisted by Seth Allen.
+Pittsburgh,Maryland,38,31,17,39,0,Cameron Wright missed Jumper.
+Pittsburgh,Maryland,38,31,17,39,0,Nick Faust Defensive Rebound.
+Pittsburgh,Maryland,38,31,17,41,0,Foul on Derrick Randall.
+Pittsburgh,Maryland,38,32,17,41,1,Nick Faust made Free Throw.
+Pittsburgh,Maryland,38,33,17,41,1,Nick Faust made Free Throw.
+Pittsburgh,Maryland,40,33,18,3,1,Lamar Patterson made Layup.
+Pittsburgh,Maryland,40,33,18,3,0,Foul on Charles Mitchell.
+Pittsburgh,Maryland,40,33,18,3,0,Lamar Patterson missed Free Throw.
+Pittsburgh,Maryland,40,33,18,3,0,Dez Wells Defensive Rebound.
+Pittsburgh,Maryland,40,35,18,23,1,Seth Allen made Layup.
+Pittsburgh,Maryland,40,35,18,49,0,Cameron Wright Turnover.
+Pittsburgh,Maryland,40,35,18,49,0,Jake Layman Steal.
+Pittsburgh,Maryland,40,37,18,53,1,Nick Faust made Dunk. Assisted by Jake Layman.
+Pittsburgh,Maryland,40,37,19,8,0,Cameron Wright missed Jumper.
+Pittsburgh,Maryland,40,37,19,8,0,Talib Zanna Offensive Rebound.
+Pittsburgh,Maryland,42,37,19,29,1,Talib Zanna made Jumper.
+Pittsburgh,Maryland,42,37,19,34,0,Pittsburgh  Timeout
+Pittsburgh,Maryland,42,37,19,54,0,Foul on Damonte Dodd.
+Pittsburgh,Maryland,42,37,19,54,0,Damonte Dodd Turnover.
+Pittsburgh,Maryland,42,37,19,54,0,James Robinson Turnover.
+Pittsburgh,Maryland,42,37,19,54,0,Dez Wells Steal.
+Pittsburgh,Maryland,42,37,19,57,0,Foul on James Robinson.
+Pittsburgh,Maryland,42,37,19,57,0,Dez Wells missed Free Throw.
+Pittsburgh,Maryland,42,37,19,57,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Maryland,42,37,20,0,0,End of 1st half
+Pittsburgh,Maryland,42,37,20,0,0,Jump Ball won by Pittsburgh
+Pittsburgh,Maryland,42,37,20,13,0,Foul on Jake Layman.
+Pittsburgh,Maryland,43,37,20,13,1,Cameron Wright made Free Throw.
+Pittsburgh,Maryland,43,37,20,13,0,Cameron Wright missed Free Throw.
+Pittsburgh,Maryland,43,37,20,13,0,Shaquille Cleare Defensive Rebound.
+Pittsburgh,Maryland,43,37,20,21,0,Seth Allen missed Three Point Jumper.
+Pittsburgh,Maryland,43,37,20,21,0,Talib Zanna Defensive Rebound.
+Pittsburgh,Maryland,43,37,20,47,0,Pittsburgh  Timeout
+Pittsburgh,Maryland,45,37,20,56,1,Talib Zanna made Layup. Assisted by Lamar Patterson.
+Pittsburgh,Maryland,45,39,21,16,1,Shaquille Cleare made Jumper.
+Pittsburgh,Maryland,48,39,21,35,1,James Robinson made Three Point Jumper. Assisted by Lamar Patterson.
+Pittsburgh,Maryland,48,41,21,57,1,Jonathan Graham made Layup. Assisted by Shaquille Cleare.
+Pittsburgh,Maryland,48,41,22,20,0,Foul on Shaquille Cleare.
+Pittsburgh,Maryland,49,41,22,20,1,Talib Zanna made Free Throw.
+Pittsburgh,Maryland,49,41,22,20,0,Talib Zanna missed Free Throw.
+Pittsburgh,Maryland,49,41,22,20,0,Shaquille Cleare Defensive Rebound.
+Pittsburgh,Maryland,49,43,22,28,1,Seth Allen made Layup.
+Pittsburgh,Maryland,49,43,22,50,0,Michael Young Turnover.
+Pittsburgh,Maryland,49,43,22,50,0,Jake Layman Steal.
+Pittsburgh,Maryland,49,43,23,2,0,Seth Allen Turnover.
+Pittsburgh,Maryland,49,43,23,9,0,Lamar Patterson missed Three Point Jumper.
+Pittsburgh,Maryland,49,43,23,9,0,Jake Layman Defensive Rebound.
+Pittsburgh,Maryland,49,43,23,24,0,Foul on Cameron Wright.
+Pittsburgh,Maryland,49,43,23,27,0,Jake Layman Turnover.
+Pittsburgh,Maryland,49,43,23,27,0,Lamar Patterson Steal.
+Pittsburgh,Maryland,51,43,23,31,1,James Robinson made Layup. Assisted by Lamar Patterson.
+Pittsburgh,Maryland,51,43,24,4,0,Jake Layman Turnover.
+Pittsburgh,Maryland,53,43,24,17,1,Lamar Patterson made Jumper.
+Pittsburgh,Maryland,53,43,24,26,0,Maryland  Timeout
+Pittsburgh,Maryland,53,45,24,42,1,Dez Wells made Layup.
+Pittsburgh,Maryland,53,45,24,42,0,Foul on Jamel Artis.
+Pittsburgh,Maryland,53,45,24,42,0,Official TV Timeout
+Pittsburgh,Maryland,53,46,24,42,1,Dez Wells made Free Throw.
+Pittsburgh,Maryland,53,46,25,8,0,Foul on Nick Faust.
+Pittsburgh,Maryland,54,46,25,8,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,55,46,25,8,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,55,46,25,20,0,Foul on Cameron Wright.
+Pittsburgh,Maryland,55,47,25,20,1,Seth Allen made Free Throw.
+Pittsburgh,Maryland,55,47,25,20,0,Seth Allen missed Free Throw.
+Pittsburgh,Maryland,55,47,25,20,0,Talib Zanna Defensive Rebound.
+Pittsburgh,Maryland,55,47,25,31,0,James Robinson missed Three Point Jumper.
+Pittsburgh,Maryland,55,47,25,31,0,Nick Faust Defensive Rebound.
+Pittsburgh,Maryland,55,47,25,43,0,Nick Faust Turnover.
+Pittsburgh,Maryland,57,47,25,56,1,Chris Jones made Layup.
+Pittsburgh,Maryland,57,47,26,24,0,Nick Faust Turnover.
+Pittsburgh,Maryland,59,47,26,38,1,James Robinson made Layup.
+Pittsburgh,Maryland,59,47,26,44,0,Maryland  Timeout
+Pittsburgh,Maryland,59,49,26,58,1,Jake Layman made Dunk. Assisted by Seth Allen.
+Pittsburgh,Maryland,59,49,27,30,0,Foul on Charles Mitchell.
+Pittsburgh,Maryland,59,49,27,30,0,Talib Zanna missed Free Throw.
+Pittsburgh,Maryland,59,49,27,30,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Maryland,60,49,27,30,1,Talib Zanna made Free Throw.
+Pittsburgh,Maryland,60,49,27,45,0,Seth Allen missed Three Point Jumper.
+Pittsburgh,Maryland,60,49,27,45,0,Derrick Randall Defensive Rebound.
+Pittsburgh,Maryland,60,49,28,14,0,Foul on Jake Layman.
+Pittsburgh,Maryland,60,49,28,14,0,Official TV Timeout
+Pittsburgh,Maryland,61,49,28,14,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,62,49,28,14,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,62,52,28,35,1,Nick Faust made Three Point Jumper. Assisted by Jake Layman.
+Pittsburgh,Maryland,62,52,29,11,0,Josh Newkirk missed Jumper.
+Pittsburgh,Maryland,62,52,29,11,0,Chris Jones Offensive Rebound.
+Pittsburgh,Maryland,62,52,29,37,0,James Robinson missed Jumper.
+Pittsburgh,Maryland,62,52,29,37,0,Evan Smotrycz Defensive Rebound.
+Pittsburgh,Maryland,62,54,29,43,1,Jake Layman made Layup.
+Pittsburgh,Maryland,62,54,29,43,0,Foul on Josh Newkirk.
+Pittsburgh,Maryland,62,55,29,43,1,Jake Layman made Free Throw.
+Pittsburgh,Maryland,64,55,30,1,1,Lamar Patterson made Jumper. Assisted by James Robinson.
+Pittsburgh,Maryland,64,55,30,33,0,Nick Faust missed Three Point Jumper.
+Pittsburgh,Maryland,64,55,30,33,0,Talib Zanna Defensive Rebound.
+Pittsburgh,Maryland,64,55,30,51,0,Foul on Shaquille Cleare.
+Pittsburgh,Maryland,64,55,30,51,0,Lamar Patterson missed Free Throw.
+Pittsburgh,Maryland,64,55,30,51,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Maryland,65,55,30,51,1,Lamar Patterson made Free Throw.
+Pittsburgh,Maryland,65,55,31,12,0,Seth Allen missed Three Point Jumper.
+Pittsburgh,Maryland,65,55,31,12,0,Michael Young Defensive Rebound.
+Pittsburgh,Maryland,67,55,31,22,1,Cameron Wright made Layup. Assisted by Lamar Patterson.
+Pittsburgh,Maryland,67,55,31,44,0,Foul on James Robinson.
+Pittsburgh,Maryland,67,56,31,44,1,Nick Faust made Free Throw.
+Pittsburgh,Maryland,67,57,31,44,1,Nick Faust made Free Throw.
+Pittsburgh,Maryland,67,57,32,4,0,Lamar Patterson missed Jumper.
+Pittsburgh,Maryland,67,57,32,4,0,Lamar Patterson Offensive Rebound.
+Pittsburgh,Maryland,67,57,32,12,0,Lamar Patterson Turnover.
+Pittsburgh,Maryland,67,57,32,12,0,Dez Wells Steal.
+Pittsburgh,Maryland,67,59,32,16,1,Nick Faust made Dunk. Assisted by Seth Allen.
+Pittsburgh,Maryland,67,59,32,47,0,James Robinson missed Jumper.
+Pittsburgh,Maryland,67,59,32,47,0,Talib Zanna Offensive Rebound.
+Pittsburgh,Maryland,67,59,32,51,0,Foul on Charles Mitchell.
+Pittsburgh,Maryland,67,59,32,51,0,Official TV Timeout
+Pittsburgh,Maryland,68,59,32,51,1,Talib Zanna made Free Throw.
+Pittsburgh,Maryland,68,59,32,51,0,Talib Zanna missed Free Throw.
+Pittsburgh,Maryland,68,59,32,51,0,Maryland Defensive Rebound.
+Pittsburgh,Maryland,68,59,32,51,0,Foul on Michael Young.
+Pittsburgh,Maryland,68,59,32,59,0,Foul on Talib Zanna.
+Pittsburgh,Maryland,68,60,32,59,1,Dez Wells made Free Throw.
+Pittsburgh,Maryland,68,60,32,59,0,Dez Wells missed Free Throw.
+Pittsburgh,Maryland,68,60,32,59,0,Michael Young Defensive Rebound.
+Pittsburgh,Maryland,70,60,33,12,1,Lamar Patterson made Layup.
+Pittsburgh,Maryland,70,60,33,37,0,Nick Faust Turnover.
+Pittsburgh,Maryland,70,60,34,9,0,Lamar Patterson missed Three Point Jumper.
+Pittsburgh,Maryland,70,60,34,9,0,Evan Smotrycz Defensive Rebound.
+Pittsburgh,Maryland,70,60,34,29,0,Jake Layman missed Jumper.
+Pittsburgh,Maryland,70,60,34,29,0,Foul on Talib Zanna.
+Pittsburgh,Maryland,70,60,34,29,0,James Robinson Defensive Rebound.
+Pittsburgh,Maryland,70,60,34,29,0,Talib Zanna Turnover.
+Pittsburgh,Maryland,70,61,34,29,1,Evan Smotrycz made Free Throw.
+Pittsburgh,Maryland,70,62,34,29,1,Evan Smotrycz made Free Throw.
+Pittsburgh,Maryland,70,62,34,33,0,Evan Smotrycz Turnover.
+Pittsburgh,Maryland,70,62,34,33,0,Lamar Patterson Steal.
+Pittsburgh,Maryland,72,62,35,4,1,Lamar Patterson made Layup.
+Pittsburgh,Maryland,72,62,35,24,0,Seth Allen missed Layup.
+Pittsburgh,Maryland,72,62,35,24,0,Michael Young Defensive Rebound.
+Pittsburgh,Maryland,72,62,35,37,0,James Robinson Turnover.
+Pittsburgh,Maryland,72,62,35,37,0,Jake Layman Steal.
+Pittsburgh,Maryland,72,64,35,40,1,Jake Layman made Dunk.
+Pittsburgh,Maryland,72,64,35,41,0,Maryland  Timeout
+Pittsburgh,Maryland,74,64,36,7,1,Cameron Wright made Jumper.
+Pittsburgh,Maryland,74,64,36,25,0,Official TV Timeout
+Pittsburgh,Maryland,74,65,36,25,1,Jake Layman made Free Throw.
+Pittsburgh,Maryland,74,66,36,25,1,Jake Layman made Free Throw.
+Pittsburgh,Maryland,74,64,36,25,0,Foul on James Robinson.
+Pittsburgh,Maryland,76,66,36,34,1,Lamar Patterson made Dunk. Assisted by Cameron Wright.
+Pittsburgh,Maryland,76,66,36,54,0,Seth Allen missed Three Point Jumper.
+Pittsburgh,Maryland,76,66,36,54,0,Jake Layman Offensive Rebound.
+Pittsburgh,Maryland,76,68,36,57,1,Jake Layman made Layup.
+Pittsburgh,Maryland,76,68,37,6,0,Foul on Shaquille Cleare.
+Pittsburgh,Maryland,77,68,37,6,1,Talib Zanna made Free Throw.
+Pittsburgh,Maryland,78,68,37,6,1,Talib Zanna made Free Throw.
+Pittsburgh,Maryland,78,70,37,18,1,Dez Wells made Layup.
+Pittsburgh,Maryland,78,70,37,18,0,Foul on Lamar Patterson.
+Pittsburgh,Maryland,78,71,37,18,1,Dez Wells made Free Throw.
+Pittsburgh,Maryland,78,71,37,52,0,Cameron Wright missed Jumper.
+Pittsburgh,Maryland,78,71,37,52,0,Jake Layman Defensive Rebound.
+Pittsburgh,Maryland,78,71,38,3,0,Nick Faust missed Three Point Jumper.
+Pittsburgh,Maryland,78,71,38,3,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Maryland,78,71,38,10,0,Foul on Seth Allen.
+Pittsburgh,Maryland,78,71,38,10,0,Talib Zanna missed Free Throw.
+Pittsburgh,Maryland,78,71,38,10,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Maryland,79,71,38,10,1,Talib Zanna made Free Throw.
+Pittsburgh,Maryland,79,71,38,18,0,Dez Wells missed Dunk.
+Pittsburgh,Maryland,79,71,38,18,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Maryland,79,71,38,23,0,Cameron Wright Turnover.
+Pittsburgh,Maryland,79,71,38,23,0,Dez Wells Steal.
+Pittsburgh,Maryland,79,73,38,26,1,Dez Wells made Layup.
+Pittsburgh,Maryland,79,73,38,34,0,Talib Zanna Turnover.
+Pittsburgh,Maryland,79,73,38,41,0,Foul on James Robinson.
+Pittsburgh,Maryland,79,74,38,41,1,Seth Allen made Free Throw.
+Pittsburgh,Maryland,79,74,38,41,0,Seth Allen missed Free Throw.
+Pittsburgh,Maryland,79,74,38,41,0,Lamar Patterson Defensive Rebound.
+Pittsburgh,Maryland,79,74,38,49,0,Foul on Jake Layman.
+Pittsburgh,Maryland,79,74,38,49,0,Josh Newkirk missed Free Throw.
+Pittsburgh,Maryland,79,74,38,49,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Maryland,79,74,38,49,0,Josh Newkirk missed Free Throw.
+Pittsburgh,Maryland,79,74,38,49,0,Talib Zanna Offensive Rebound.
+Pittsburgh,Maryland,79,74,38,52,0,Foul on Jake Layman.
+Pittsburgh,Maryland,79,74,38,52,0,Talib Zanna missed Free Throw.
+Pittsburgh,Maryland,79,74,38,52,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Maryland,80,74,38,52,1,Talib Zanna made Free Throw.
+Pittsburgh,Maryland,80,74,39,5,0,Dez Wells missed Jumper.
+Pittsburgh,Maryland,80,74,39,5,0,Michael Young Defensive Rebound.
+Pittsburgh,Maryland,80,74,39,13,0,Foul on Seth Allen.
+Pittsburgh,Maryland,81,74,39,13,1,Cameron Wright made Free Throw.
+Pittsburgh,Maryland,81,74,39,13,0,Cameron Wright missed Free Throw.
+Pittsburgh,Maryland,81,74,39,13,0,Evan Smotrycz Defensive Rebound.
+Pittsburgh,Maryland,81,74,39,26,0,Foul on Cameron Wright.
+Pittsburgh,Maryland,81,75,39,26,1,Dez Wells made Free Throw.
+Pittsburgh,Maryland,81,76,39,26,1,Dez Wells made Free Throw.
+Pittsburgh,Maryland,81,76,39,30,0,Chris Jones Turnover.
+Pittsburgh,Maryland,81,76,39,30,0,Dez Wells Steal.
+Pittsburgh,Maryland,81,76,39,34,0,Seth Allen missed Three Point Jumper.
+Pittsburgh,Maryland,81,76,39,34,0,Pittsburgh Defensive Rebound.
+Pittsburgh,Maryland,81,76,39,37,0,Foul on Jonathan Graham.
+Pittsburgh,Maryland,81,76,39,37,0,Talib Zanna missed Free Throw.
+Pittsburgh,Maryland,81,76,39,37,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Maryland,82,76,39,37,1,Talib Zanna made Free Throw.
+Pittsburgh,Maryland,82,76,39,41,0,Evan Smotrycz missed Three Point Jumper.
+Pittsburgh,Maryland,82,76,39,41,0,Cameron Wright Defensive Rebound.
+Pittsburgh,Maryland,82,76,39,46,0,Foul on Evan Smotrycz.
+Pittsburgh,Maryland,83,76,39,46,1,Cameron Wright made Free Throw.
+Pittsburgh,Maryland,83,76,39,46,0,Cameron Wright missed Free Throw.
+Pittsburgh,Maryland,83,76,39,46,0,Evan Smotrycz Defensive Rebound.
+Pittsburgh,Maryland,83,76,39,49,0,Dez Wells missed Three Point Jumper.
+Pittsburgh,Maryland,83,76,39,49,0,Maryland Offensive Rebound.
+Pittsburgh,Maryland,83,79,39,52,1,Evan Smotrycz made Three Point Jumper. Assisted by Dez Wells.
+Pittsburgh,Maryland,83,79,39,54,0,Maryland  Timeout
+Pittsburgh,Maryland,83,79,39,58,0,Foul on Seth Allen.
+Pittsburgh,Maryland,83,79,39,58,0,Cameron Wright missed Free Throw.
+Pittsburgh,Maryland,83,79,39,58,0,Pittsburgh Deadball Team Rebound.
+Pittsburgh,Maryland,83,79,39,58,0,Cameron Wright missed Free Throw.
+Pittsburgh,Maryland,83,79,39,58,0,Evan Smotrycz Defensive Rebound.
+Pittsburgh,Maryland,83,79,40,0,0,End of Game

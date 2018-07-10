@@ -1,0 +1,325 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UAB,UCLA,0,0,0,0,0,Jump Ball won by UCLA
+UAB,UCLA,0,0,0,25,0,Foul on Tosin Mehinti.
+UAB,UCLA,0,1,0,25,1,Tony Parker made Free Throw.
+UAB,UCLA,0,1,0,25,0,Tony Parker missed Free Throw.
+UAB,UCLA,0,1,0,25,0,William Lee Defensive Rebound.
+UAB,UCLA,0,1,0,39,0,William Lee missed Jumper.
+UAB,UCLA,0,1,0,39,0,Tony Parker Defensive Rebound.
+UAB,UCLA,0,1,0,52,0,Bryce Alford missed Jumper.
+UAB,UCLA,0,1,0,52,0,Kevon Looney Offensive Rebound.
+UAB,UCLA,0,3,0,52,1,Kevon Looney made Two Point Tip Shot.
+UAB,UCLA,2,3,1,16,1,Hakeem Baxter made Jumper.
+UAB,UCLA,2,3,1,31,0,Foul on Robert Brown.
+UAB,UCLA,2,3,1,38,0,Isaac Hamilton missed Jumper.
+UAB,UCLA,2,3,1,38,0,Tosin Mehinti Defensive Rebound.
+UAB,UCLA,5,3,1,54,1,Robert Brown made Three Point Jumper. Assisted by Tosin Mehinti.
+UAB,UCLA,5,5,2,13,1,Tony Parker made Jumper.
+UAB,UCLA,7,5,2,31,1,Tosin Mehinti made Layup. Assisted by Robert Brown.
+UAB,UCLA,7,5,2,56,0,Tony Parker missed Jumper.
+UAB,UCLA,7,5,2,56,0,Hakeem Baxter Defensive Rebound.
+UAB,UCLA,7,5,3,8,0,Tosin Mehinti Turnover.
+UAB,UCLA,7,5,3,19,0,Bryce Alford missed Three Point Jumper.
+UAB,UCLA,7,5,3,19,0,Kevon Looney Offensive Rebound.
+UAB,UCLA,7,7,3,28,1,Tony Parker made Layup.
+UAB,UCLA,7,7,3,56,0,Tosin Mehinti missed Layup.
+UAB,UCLA,7,7,3,56,0,Tony Parker Defensive Rebound.
+UAB,UCLA,7,7,4,4,0,Foul on Tony Parker.
+UAB,UCLA,7,7,4,4,0,Tony Parker Turnover.
+UAB,UCLA,7,7,4,4,0,Official TV Timeout
+UAB,UCLA,7,7,4,17,0,Hakeem Baxter missed Jumper.
+UAB,UCLA,7,7,4,17,0,Kevon Looney Defensive Rebound.
+UAB,UCLA,7,9,4,32,1,Isaac Hamilton made Layup. Assisted by Kevon Looney.
+UAB,UCLA,7,9,4,32,0,Foul on Nick Norton.
+UAB,UCLA,7,9,4,32,0,Isaac Hamilton missed Free Throw.
+UAB,UCLA,7,9,4,32,0,William Lee Defensive Rebound.
+UAB,UCLA,7,9,4,52,0,Chris Cokley missed Jumper.
+UAB,UCLA,7,9,4,52,0,Isaac Hamilton Defensive Rebound.
+UAB,UCLA,7,9,4,58,0,Isaac Hamilton missed Jumper.
+UAB,UCLA,7,9,4,58,0,Denzell Watts Defensive Rebound.
+UAB,UCLA,10,9,5,7,1,Robert Brown made Three Point Jumper. Assisted by Denzell Watts.
+UAB,UCLA,10,9,5,39,0,Thomas Welsh missed Layup.
+UAB,UCLA,10,9,5,39,0,Thomas Welsh Offensive Rebound.
+UAB,UCLA,10,9,5,43,0,Foul on Chris Cokley.
+UAB,UCLA,10,9,5,47,0,Kevon Looney Turnover.
+UAB,UCLA,10,9,5,47,0,Denzell Watts Steal.
+UAB,UCLA,12,9,5,51,1,Robert Brown made Layup.
+UAB,UCLA,12,9,6,12,0,Kevon Looney missed Jumper.
+UAB,UCLA,12,9,6,12,0,Thomas Welsh Offensive Rebound.
+UAB,UCLA,12,11,6,18,1,Norman Powell made Layup.
+UAB,UCLA,14,11,6,36,1,Robert Brown made Jumper. Assisted by Chris Cokley.
+UAB,UCLA,14,13,6,53,1,Thomas Welsh made Jumper. Assisted by Bryce Alford.
+UAB,UCLA,14,13,7,27,0,Robert Brown missed Jumper.
+UAB,UCLA,14,13,7,27,0,Norman Powell Defensive Rebound.
+UAB,UCLA,14,13,7,33,0,Norman Powell Turnover.
+UAB,UCLA,14,13,7,39,0,Foul on Kevon Looney.
+UAB,UCLA,14,13,7,39,0,Tyler Madison missed Free Throw.
+UAB,UCLA,14,13,7,39,0,UAB Deadball Team Rebound.
+UAB,UCLA,15,13,7,39,1,Tyler Madison made Free Throw.
+UAB,UCLA,15,13,7,45,0,Bryce Alford missed Three Point Jumper.
+UAB,UCLA,15,13,7,45,0,Chris Cokley Defensive Rebound.
+UAB,UCLA,15,13,8,8,0,Tyler Madison missed Jumper.
+UAB,UCLA,15,13,8,8,0,Thomas Welsh Defensive Rebound.
+UAB,UCLA,15,13,8,21,0,Noah Allen Turnover.
+UAB,UCLA,15,13,8,21,0,Chris Cokley Steal.
+UAB,UCLA,15,13,8,38,0,Foul on Gyorgy Goloman.
+UAB,UCLA,15,13,8,38,0,Official TV Timeout
+UAB,UCLA,15,13,8,40,0,Chris Cokley missed Layup.
+UAB,UCLA,15,13,8,40,0,Isaac Hamilton Defensive Rebound.
+UAB,UCLA,15,13,9,1,0,Foul on Noah Allen.
+UAB,UCLA,15,13,9,1,0,Noah Allen Turnover.
+UAB,UCLA,18,13,9,29,1,Hakeem Baxter made Three Point Jumper. Assisted by Chris Cokley.
+UAB,UCLA,18,13,9,48,0,Foul on Denzell Watts.
+UAB,UCLA,18,13,10,3,0,Foul on Tosin Mehinti.
+UAB,UCLA,18,15,10,14,1,Bryce Alford made Jumper.
+UAB,UCLA,21,15,10,29,1,William Lee made Three Point Jumper. Assisted by Denzell Watts.
+UAB,UCLA,21,18,10,51,1,Norman Powell made Three Point Jumper. Assisted by Isaac Hamilton.
+UAB,UCLA,21,18,11,7,0,C.J. Washington missed Three Point Jumper.
+UAB,UCLA,21,18,11,7,0,Norman Powell Defensive Rebound.
+UAB,UCLA,21,18,11,16,0,Norman Powell missed Layup.
+UAB,UCLA,21,18,11,16,0,Tony Parker Offensive Rebound.
+UAB,UCLA,21,20,11,17,1,Tony Parker made Layup.
+UAB,UCLA,21,20,11,17,0,Foul on Tyler Madison.
+UAB,UCLA,21,21,11,17,1,Tony Parker made Free Throw.
+UAB,UCLA,21,21,11,40,0,Nick Norton missed Three Point Jumper.
+UAB,UCLA,21,21,11,40,0,Chris Cokley Offensive Rebound.
+UAB,UCLA,23,21,11,40,1,Chris Cokley made Two Point Tip Shot.
+UAB,UCLA,23,23,12,4,1,Isaac Hamilton made Layup.
+UAB,UCLA,23,23,12,24,0,Chris Cokley missed Jumper.
+UAB,UCLA,23,23,12,24,0,Tony Parker Block.
+UAB,UCLA,23,23,12,24,0,Isaac Hamilton Defensive Rebound.
+UAB,UCLA,23,25,12,33,1,Bryce Alford made Layup.
+UAB,UCLA,23,25,12,49,0,William Lee missed Jumper.
+UAB,UCLA,23,25,12,49,0,Tony Parker Defensive Rebound.
+UAB,UCLA,23,27,12,59,1,Tony Parker made Layup. Assisted by Isaac Hamilton.
+UAB,UCLA,23,27,12,59,0,Foul on Tyler Madison.
+UAB,UCLA,23,27,12,59,0,Official TV Timeout
+UAB,UCLA,23,28,12,59,1,Tony Parker made Free Throw.
+UAB,UCLA,25,28,13,11,1,Robert Brown made Jumper.
+UAB,UCLA,25,31,13,35,1,Norman Powell made Three Point Jumper. Assisted by Isaac Hamilton.
+UAB,UCLA,28,31,13,52,1,Robert Brown made Three Point Jumper. Assisted by William Lee.
+UAB,UCLA,28,33,14,13,1,Tony Parker made Dunk. Assisted by Bryce Alford.
+UAB,UCLA,28,33,14,32,0,Nick Norton missed Three Point Jumper.
+UAB,UCLA,28,33,14,32,0,Tony Parker Defensive Rebound.
+UAB,UCLA,28,35,14,47,1,Tony Parker made Dunk. Assisted by Isaac Hamilton.
+UAB,UCLA,31,35,15,11,1,William Lee made Three Point Jumper. Assisted by Nick Norton.
+UAB,UCLA,31,37,15,34,1,Tony Parker made Layup. Assisted by Bryce Alford.
+UAB,UCLA,31,37,15,39,0,UAB  Timeout
+UAB,UCLA,31,37,16,11,0,Denzell Watts Turnover.
+UAB,UCLA,31,37,16,11,0,Kevon Looney Steal.
+UAB,UCLA,31,37,16,19,0,Isaac Hamilton Turnover.
+UAB,UCLA,31,37,16,19,0,William Lee Steal.
+UAB,UCLA,33,37,16,24,1,William Lee made Dunk.
+UAB,UCLA,33,37,16,49,0,Bryce Alford missed Jumper.
+UAB,UCLA,33,37,16,49,0,Kevon Looney Offensive Rebound.
+UAB,UCLA,33,37,16,52,0,Kevon Looney missed Layup.
+UAB,UCLA,33,37,16,52,0,William Lee Block.
+UAB,UCLA,33,37,16,53,0,Kevon Looney Offensive Rebound.
+UAB,UCLA,33,37,16,54,0,Kevon Looney missed Two Point Tip Shot.
+UAB,UCLA,33,37,16,56,0,Tony Parker Offensive Rebound.
+UAB,UCLA,33,39,16,57,1,Tony Parker made Layup.
+UAB,UCLA,33,39,17,16,0,Foul on Isaac Hamilton.
+UAB,UCLA,33,39,17,16,0,Official TV Timeout
+UAB,UCLA,35,39,17,32,1,William Lee made Jumper.
+UAB,UCLA,35,39,17,45,0,Foul on Denzell Watts.
+UAB,UCLA,35,40,17,45,1,Bryce Alford made Free Throw.
+UAB,UCLA,35,41,17,45,1,Bryce Alford made Free Throw.
+UAB,UCLA,35,41,18,18,0,Foul on Kevon Looney.
+UAB,UCLA,35,41,18,29,0,William Lee Turnover.
+UAB,UCLA,35,41,18,38,0,Norman Powell Turnover.
+UAB,UCLA,35,41,18,54,0,William Lee missed Three Point Jumper.
+UAB,UCLA,35,41,18,54,0,Gyorgy Goloman Defensive Rebound.
+UAB,UCLA,35,43,19,2,1,Norman Powell made Layup.
+UAB,UCLA,35,43,19,13,0,Chris Cokley missed Jumper.
+UAB,UCLA,35,43,19,13,0,Tony Parker Block.
+UAB,UCLA,35,43,19,13,0,Chris Cokley Offensive Rebound.
+UAB,UCLA,37,43,19,18,1,Chris Cokley made Layup.
+UAB,UCLA,37,43,19,22,0,UCLA  Timeout
+UAB,UCLA,37,46,19,41,1,Bryce Alford made Three Point Jumper. Assisted by Isaac Hamilton.
+UAB,UCLA,37,46,19,52,0,William Lee missed Jumper.
+UAB,UCLA,37,46,19,52,0,Norman Powell Defensive Rebound.
+UAB,UCLA,37,46,20,0,0,End of 1st half
+UAB,UCLA,37,46,20,0,0,Jump Ball won by UAB
+UAB,UCLA,37,46,20,8,0,Robert Brown missed Jumper.
+UAB,UCLA,37,46,20,8,0,William Lee Offensive Rebound.
+UAB,UCLA,37,46,20,22,0,Tosin Mehinti missed Jumper.
+UAB,UCLA,37,46,20,22,0,Kevon Looney Defensive Rebound.
+UAB,UCLA,37,46,20,46,0,Foul on Tosin Mehinti.
+UAB,UCLA,37,47,20,46,1,Tony Parker made Free Throw.
+UAB,UCLA,37,48,20,46,1,Tony Parker made Free Throw.
+UAB,UCLA,40,48,21,1,1,Hakeem Baxter made Three Point Jumper. Assisted by Nick Norton.
+UAB,UCLA,40,50,21,16,1,Kevon Looney made Dunk. Assisted by Bryce Alford.
+UAB,UCLA,40,50,21,39,0,Tosin Mehinti missed Layup.
+UAB,UCLA,40,50,21,39,0,Tony Parker Defensive Rebound.
+UAB,UCLA,40,50,21,48,0,Bryce Alford missed Jumper.
+UAB,UCLA,40,50,21,48,0,Kevon Looney Offensive Rebound.
+UAB,UCLA,40,52,21,48,1,Kevon Looney made Two Point Tip Shot.
+UAB,UCLA,40,52,22,6,0,Tosin Mehinti Turnover.
+UAB,UCLA,40,52,22,22,0,Tony Parker Turnover.
+UAB,UCLA,40,52,22,41,0,Hakeem Baxter missed Three Point Jumper.
+UAB,UCLA,40,52,22,41,0,Tony Parker Defensive Rebound.
+UAB,UCLA,40,54,22,54,1,Kevon Looney made Layup. Assisted by Bryce Alford.
+UAB,UCLA,40,54,22,58,0,UAB  Timeout
+UAB,UCLA,40,54,23,17,0,Foul on Isaac Hamilton.
+UAB,UCLA,40,54,23,29,0,Chris Cokley missed Jumper.
+UAB,UCLA,40,54,23,29,0,Robert Brown Offensive Rebound.
+UAB,UCLA,42,54,23,33,1,Robert Brown made Layup.
+UAB,UCLA,42,54,23,41,0,Bryce Alford missed Layup.
+UAB,UCLA,42,54,23,41,0,Kevon Looney Offensive Rebound.
+UAB,UCLA,42,54,23,45,0,Kevon Looney missed Jumper.
+UAB,UCLA,42,54,23,45,0,William Lee Block.
+UAB,UCLA,42,54,23,45,0,UCLA Offensive Rebound.
+UAB,UCLA,42,54,23,59,0,Foul on William Lee.
+UAB,UCLA,42,54,23,59,0,Kevon Looney missed Free Throw.
+UAB,UCLA,42,54,23,59,0,UCLA Deadball Team Rebound.
+UAB,UCLA,42,54,23,59,0,Kevon Looney missed Free Throw.
+UAB,UCLA,42,54,23,59,0,William Lee Defensive Rebound.
+UAB,UCLA,45,54,24,12,1,Robert Brown made Three Point Jumper. Assisted by William Lee.
+UAB,UCLA,45,56,24,31,1,Norman Powell made Layup.
+UAB,UCLA,45,56,24,47,0,Robert Brown missed Three Point Jumper.
+UAB,UCLA,45,56,24,47,0,William Lee Offensive Rebound.
+UAB,UCLA,47,56,24,54,1,Tyler Madison made Layup. Assisted by William Lee.
+UAB,UCLA,47,56,25,14,0,Bryce Alford Turnover.
+UAB,UCLA,47,56,25,14,0,Official TV Timeout
+UAB,UCLA,47,56,25,20,0,Robert Brown missed Three Point Jumper.
+UAB,UCLA,47,56,25,20,0,Tony Parker Defensive Rebound.
+UAB,UCLA,47,56,25,42,0,Foul on Chris Cokley.
+UAB,UCLA,47,57,25,42,1,Tony Parker made Free Throw.
+UAB,UCLA,47,57,25,42,0,Tony Parker missed Free Throw.
+UAB,UCLA,47,57,25,42,0,C.J. Washington Defensive Rebound.
+UAB,UCLA,47,57,25,45,0,C.J. Washington Turnover.
+UAB,UCLA,47,57,25,45,0,UCLA  Turnover.
+UAB,UCLA,50,57,25,59,1,Denzell Watts made Three Point Jumper. Assisted by C.J. Washington.
+UAB,UCLA,50,59,26,20,1,Isaac Hamilton made Jumper. Assisted by Norman Powell.
+UAB,UCLA,50,59,26,38,0,Denzell Watts missed Three Point Jumper.
+UAB,UCLA,50,59,26,38,0,Tosin Mehinti Offensive Rebound.
+UAB,UCLA,50,59,26,46,0,Foul on Norman Powell.
+UAB,UCLA,50,59,26,46,0,Tosin Mehinti missed Free Throw.
+UAB,UCLA,50,59,26,46,0,UAB Deadball Team Rebound.
+UAB,UCLA,50,59,26,46,0,Tosin Mehinti missed Free Throw.
+UAB,UCLA,50,59,26,46,0,Isaac Hamilton Defensive Rebound.
+UAB,UCLA,50,59,27,4,0,Foul on Robert Brown.
+UAB,UCLA,50,62,27,7,1,Bryce Alford made Three Point Jumper. Assisted by Kevon Looney.
+UAB,UCLA,50,62,27,20,0,Robert Brown missed Three Point Jumper.
+UAB,UCLA,50,62,27,20,0,Tyler Madison Offensive Rebound.
+UAB,UCLA,50,62,27,25,0,Tyler Madison missed Layup.
+UAB,UCLA,50,62,27,25,0,Thomas Welsh Block.
+UAB,UCLA,50,62,27,25,0,UAB Offensive Rebound.
+UAB,UCLA,52,62,27,41,1,C.J. Washington made Jumper. Assisted by Robert Brown.
+UAB,UCLA,52,64,28,1,1,Thomas Welsh made Jumper. Assisted by Norman Powell.
+UAB,UCLA,52,64,28,14,0,C.J. Washington missed Jumper.
+UAB,UCLA,52,64,28,14,0,Thomas Welsh Defensive Rebound.
+UAB,UCLA,52,64,28,14,0,Foul on Tosin Mehinti.
+UAB,UCLA,52,64,28,14,0,Official TV Timeout
+UAB,UCLA,52,64,28,27,0,Bryce Alford missed Jumper.
+UAB,UCLA,52,64,28,27,0,Robert Brown Defensive Rebound.
+UAB,UCLA,55,64,28,37,1,Denzell Watts made Three Point Jumper. Assisted by Chris Cokley.
+UAB,UCLA,55,64,28,59,0,Foul on Tyler Madison.
+UAB,UCLA,55,64,29,3,0,Norman Powell missed Jumper.
+UAB,UCLA,55,64,29,3,0,Thomas Welsh Offensive Rebound.
+UAB,UCLA,55,64,29,3,0,Thomas Welsh missed Two Point Tip Shot.
+UAB,UCLA,55,64,29,3,0,Chris Cokley Defensive Rebound.
+UAB,UCLA,55,64,29,7,0,Foul on Norman Powell.
+UAB,UCLA,58,64,29,29,1,Tyler Madison made Three Point Jumper. Assisted by Denzell Watts.
+UAB,UCLA,58,64,29,42,0,UCLA  Timeout
+UAB,UCLA,58,66,30,1,1,Isaac Hamilton made Jumper.
+UAB,UCLA,58,66,30,26,0,Denzell Watts missed Three Point Jumper.
+UAB,UCLA,58,66,30,26,0,Tyler Madison Offensive Rebound.
+UAB,UCLA,58,66,30,41,0,Foul on Gyorgy Goloman.
+UAB,UCLA,58,66,30,55,0,Tyler Madison missed Layup.
+UAB,UCLA,58,66,30,55,0,Tony Parker Block.
+UAB,UCLA,58,66,30,55,0,Kevon Looney Defensive Rebound.
+UAB,UCLA,58,66,31,5,0,Kevon Looney missed Layup.
+UAB,UCLA,58,66,31,5,0,Tony Parker Offensive Rebound.
+UAB,UCLA,58,66,31,5,0,Tony Parker missed Two Point Tip Shot.
+UAB,UCLA,58,66,31,5,0,Denzell Watts Defensive Rebound.
+UAB,UCLA,58,66,31,19,0,Foul on Kevon Looney.
+UAB,UCLA,58,66,31,21,0,Foul on Isaac Hamilton.
+UAB,UCLA,58,66,31,24,0,Robert Brown missed Jumper.
+UAB,UCLA,58,66,31,24,0,Chris Cokley Offensive Rebound.
+UAB,UCLA,58,66,31,28,0,Chris Cokley missed Layup.
+UAB,UCLA,58,66,31,28,0,Chris Cokley Offensive Rebound.
+UAB,UCLA,58,66,31,33,0,Denzell Watts Turnover.
+UAB,UCLA,58,66,31,33,0,Norman Powell Steal.
+UAB,UCLA,58,68,31,41,1,Isaac Hamilton made Jumper. Assisted by Norman Powell.
+UAB,UCLA,58,68,31,45,0,Denzell Watts Turnover.
+UAB,UCLA,58,68,31,45,0,Bryce Alford Steal.
+UAB,UCLA,58,70,31,48,1,Isaac Hamilton made Layup.
+UAB,UCLA,58,70,32,0,0,UAB  Timeout
+UAB,UCLA,61,70,32,18,1,Nick Norton made Three Point Jumper. Assisted by Robert Brown.
+UAB,UCLA,61,70,32,37,0,Official TV Timeout
+UAB,UCLA,61,70,32,43,0,UCLA  Timeout
+UAB,UCLA,61,70,32,43,0,Foul on Nick Norton.
+UAB,UCLA,61,71,32,43,1,Bryce Alford made Free Throw.
+UAB,UCLA,61,72,32,43,1,Bryce Alford made Free Throw.
+UAB,UCLA,63,72,32,53,1,Robert Brown made Layup.
+UAB,UCLA,63,72,33,14,0,Norman Powell missed Three Point Jumper.
+UAB,UCLA,63,72,33,14,0,Chris Cokley Defensive Rebound.
+UAB,UCLA,63,72,33,18,0,Foul on Tony Parker.
+UAB,UCLA,64,72,33,18,1,Chris Cokley made Free Throw.
+UAB,UCLA,65,72,33,18,1,Chris Cokley made Free Throw.
+UAB,UCLA,65,74,33,37,1,Tony Parker made Layup.
+UAB,UCLA,65,74,34,0,0,Robert Brown missed Jumper.
+UAB,UCLA,65,74,34,0,0,Kevon Looney Defensive Rebound.
+UAB,UCLA,65,76,34,22,1,Kevon Looney made Dunk. Assisted by Isaac Hamilton.
+UAB,UCLA,65,76,34,38,0,Robert Brown missed Jumper.
+UAB,UCLA,65,76,34,38,0,Tony Parker Defensive Rebound.
+UAB,UCLA,65,76,34,56,0,Foul on Robert Brown.
+UAB,UCLA,65,77,34,56,1,Isaac Hamilton made Free Throw.
+UAB,UCLA,65,77,34,56,0,Isaac Hamilton missed Free Throw.
+UAB,UCLA,65,77,34,56,0,William Lee Defensive Rebound.
+UAB,UCLA,67,77,35,18,1,Tyler Madison made Layup. Assisted by William Lee.
+UAB,UCLA,67,79,35,36,1,Bryce Alford made Layup.
+UAB,UCLA,67,79,35,42,0,Foul on Isaac Hamilton.
+UAB,UCLA,67,79,35,42,0,Robert Brown missed Free Throw.
+UAB,UCLA,67,79,35,42,0,UAB Deadball Team Rebound.
+UAB,UCLA,68,79,35,42,1,Robert Brown made Free Throw.
+UAB,UCLA,68,79,35,47,0,Foul on Norman Powell.
+UAB,UCLA,68,79,35,47,0,Norman Powell Turnover.
+UAB,UCLA,68,79,35,55,0,Robert Brown missed Jumper.
+UAB,UCLA,68,79,35,55,0,Kevon Looney Defensive Rebound.
+UAB,UCLA,68,79,36,11,0,Bryce Alford Turnover.
+UAB,UCLA,68,79,36,11,0,Nick Norton Steal.
+UAB,UCLA,70,79,36,16,1,Robert Brown made Layup.
+UAB,UCLA,70,82,36,35,1,Bryce Alford made Three Point Jumper.
+UAB,UCLA,70,82,36,48,0,Nick Norton missed Three Point Jumper.
+UAB,UCLA,70,82,36,48,0,Norman Powell Defensive Rebound.
+UAB,UCLA,70,82,36,53,0,Foul on William Lee.
+UAB,UCLA,70,82,36,53,0,Official TV Timeout
+UAB,UCLA,70,83,36,53,1,Norman Powell made Free Throw.
+UAB,UCLA,70,84,36,53,1,Norman Powell made Free Throw.
+UAB,UCLA,70,84,37,4,0,Foul on Norman Powell.
+UAB,UCLA,70,84,37,4,0,Denzell Watts missed Free Throw.
+UAB,UCLA,70,84,37,4,0,UAB Deadball Team Rebound.
+UAB,UCLA,71,84,37,4,1,Denzell Watts made Free Throw.
+UAB,UCLA,71,84,37,38,0,Tony Parker missed Jumper.
+UAB,UCLA,71,84,37,38,0,Tosin Mehinti Block.
+UAB,UCLA,71,84,37,38,0,Tony Parker Offensive Rebound.
+UAB,UCLA,71,86,37,45,1,Tony Parker made Layup.
+UAB,UCLA,73,86,37,53,1,Denzell Watts made Jumper.
+UAB,UCLA,73,86,38,0,0,Foul on Tosin Mehinti.
+UAB,UCLA,73,87,38,0,1,Norman Powell made Free Throw.
+UAB,UCLA,73,87,38,0,0,Norman Powell missed Free Throw.
+UAB,UCLA,73,87,38,0,0,Chris Cokley Defensive Rebound.
+UAB,UCLA,73,87,38,10,0,Robert Brown missed Three Point Jumper.
+UAB,UCLA,73,87,38,10,0,Bryce Alford Defensive Rebound.
+UAB,UCLA,73,89,38,24,1,Tony Parker made Layup. Assisted by Isaac Hamilton.
+UAB,UCLA,73,89,38,36,0,Denzell Watts missed Three Point Jumper.
+UAB,UCLA,73,89,38,37,0,Chris Cokley Offensive Rebound.
+UAB,UCLA,75,89,38,42,1,Chris Cokley made Layup.
+UAB,UCLA,75,89,38,49,0,Foul on Robert Brown.
+UAB,UCLA,75,90,38,49,1,Bryce Alford made Free Throw.
+UAB,UCLA,75,91,38,49,1,Bryce Alford made Free Throw.
+UAB,UCLA,75,91,38,58,0,Nick Norton Turnover.
+UAB,UCLA,75,91,38,58,0,Kevon Looney Steal.
+UAB,UCLA,75,91,39,13,0,Foul on Denzell Watts.
+UAB,UCLA,75,91,39,13,0,Bryce Alford missed Free Throw.
+UAB,UCLA,75,91,39,13,0,UCLA Deadball Team Rebound.
+UAB,UCLA,75,92,39,13,1,Bryce Alford made Free Throw.
+UAB,UCLA,75,92,39,18,0,Denzel Collins missed Three Point Jumper.
+UAB,UCLA,75,92,39,18,0,Thomas Welsh Defensive Rebound.
+UAB,UCLA,75,92,39,49,0,David Brown missed Three Point Jumper.
+UAB,UCLA,75,92,39,49,0,Thomas Welsh Offensive Rebound.
+UAB,UCLA,75,92,39,58,0,Thomas Welsh Turnover.
+UAB,UCLA,75,92,39,58,0,Denzel Collins Steal.
+UAB,UCLA,75,92,40,0,0,End of Game

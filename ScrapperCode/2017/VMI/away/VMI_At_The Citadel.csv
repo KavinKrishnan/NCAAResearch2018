@@ -1,0 +1,349 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+VMI,The Citadel,2,0,0,27,1,Fred Iruafemi made Layup. Assisted by QJ Peterson.
+VMI,The Citadel,2,2,0,42,1,Zane Najdawi made Layup.
+VMI,The Citadel,2,2,1,4,0,Trey Chapman missed Three Point Jumper.
+VMI,The Citadel,2,2,1,4,0,Warren Sledge Defensive Rebound.
+VMI,The Citadel,2,4,1,24,1,Zane Najdawi made Jumper. Assisted by Warren Sledge.
+VMI,The Citadel,4,4,1,55,1,Fred Iruafemi made Layup. Assisted by QJ Peterson.
+VMI,The Citadel,4,4,2,4,0,Leandro Allende missed Three Point Jumper.
+VMI,The Citadel,4,4,2,4,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,6,4,2,12,1,Fred Iruafemi made Layup. Assisted by QJ Peterson.
+VMI,The Citadel,6,6,2,25,1,Leandro Allende made Jumper.
+VMI,The Citadel,6,6,2,48,0,Trey Chapman missed Layup.
+VMI,The Citadel,6,6,2,48,0,Kaelon Harris Defensive Rebound.
+VMI,The Citadel,6,6,3,2,0,Foul on Fred Iruafemi.
+VMI,The Citadel,6,7,3,2,1,Zane Najdawi made Free Throw.
+VMI,The Citadel,6,8,3,2,1,Zane Najdawi made Free Throw.
+VMI,The Citadel,6,8,3,13,0,QJ Peterson missed Jumper.
+VMI,The Citadel,6,8,3,13,0,Bobby Duncan Defensive Rebound.
+VMI,The Citadel,6,8,3,24,0,Brian White missed Three Point Jumper.
+VMI,The Citadel,6,8,3,24,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,6,8,3,39,0,Foul on Warren Sledge.
+VMI,The Citadel,7,8,3,39,1,Keith Smith made Free Throw.
+VMI,The Citadel,8,8,3,39,1,Keith Smith made Free Throw.
+VMI,The Citadel,8,8,3,54,0,Brian White Turnover.
+VMI,The Citadel,8,8,3,55,0,QJ Peterson Steal.
+VMI,The Citadel,10,8,3,57,1,QJ Peterson made Dunk.
+VMI,The Citadel,10,8,4,7,0,Quayson Williams missed Jumper.
+VMI,The Citadel,10,8,4,7,0,Armani Branch Defensive Rebound.
+VMI,The Citadel,10,8,4,19,0,QJ Peterson Turnover.
+VMI,The Citadel,10,8,4,20,0,Warren Sledge Steal.
+VMI,The Citadel,10,11,4,32,1,Matt Frierson made Three Point Jumper. Assisted by Tom Koopman.
+VMI,The Citadel,10,11,5,0,0,Armani Branch Turnover.
+VMI,The Citadel,10,11,5,0,0,Official TV Timeout
+VMI,The Citadel,10,11,5,12,0,Zane Najdawi missed Jumper.
+VMI,The Citadel,10,11,5,12,0,Fred Iruafemi Block.
+VMI,The Citadel,10,11,5,15,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,10,11,5,24,0,Foul on Frankie Johnson.
+VMI,The Citadel,10,11,5,25,0,Julian Eleby missed Three Point Jumper.
+VMI,The Citadel,10,11,5,25,0,Leandro Allende Defensive Rebound.
+VMI,The Citadel,10,11,5,37,0,Quayson Williams missed Jumper.
+VMI,The Citadel,10,11,5,37,0,Keith Smith Defensive Rebound.
+VMI,The Citadel,10,11,5,59,0,Trey Chapman missed Three Point Jumper.
+VMI,The Citadel,10,11,5,59,0,Zane Najdawi Defensive Rebound.
+VMI,The Citadel,10,13,6,10,1,Leandro Allende made Layup.
+VMI,The Citadel,10,13,6,26,0,QJ Peterson missed Three Point Jumper.
+VMI,The Citadel,10,13,6,26,0,Bobby Duncan Defensive Rebound.
+VMI,The Citadel,10,13,6,37,0,Frankie Johnson missed Layup.
+VMI,The Citadel,10,13,6,37,0,Zane Najdawi Offensive Rebound.
+VMI,The Citadel,10,13,6,40,0,Zane Najdawi missed Layup.
+VMI,The Citadel,10,13,6,40,0,Trey Chapman Defensive Rebound.
+VMI,The Citadel,10,13,6,58,0,Julian Eleby missed Layup.
+VMI,The Citadel,10,13,6,58,0,Julian Eleby Offensive Rebound.
+VMI,The Citadel,12,13,7,2,1,QJ Peterson made Jumper.
+VMI,The Citadel,12,13,7,16,0,Frankie Johnson missed Three Point Jumper.
+VMI,The Citadel,12,13,7,16,0,VMI Defensive Rebound.
+VMI,The Citadel,12,13,7,19,0,Foul on Bobby Duncan.
+VMI,The Citadel,12,13,7,37,0,Austin Vereen Turnover.
+VMI,The Citadel,12,13,7,38,0,Tom Koopman Steal.
+VMI,The Citadel,12,13,7,59,0,Matt Frierson missed Three Point Jumper.
+VMI,The Citadel,12,13,7,59,0,Keith Smith Block.
+VMI,The Citadel,12,13,8,4,0,Austin Vereen Defensive Rebound.
+VMI,The Citadel,12,13,8,23,0,Austin Vereen missed Layup.
+VMI,The Citadel,12,13,8,23,0,Brian White Block.
+VMI,The Citadel,12,13,8,26,0,Brian White Defensive Rebound.
+VMI,The Citadel,12,13,8,33,0,Brian White Turnover.
+VMI,The Citadel,12,13,8,33,0,Official TV Timeout
+VMI,The Citadel,12,13,8,44,0,Garrett Gilkeson Turnover.
+VMI,The Citadel,12,13,8,46,0,Quayson Williams Steal.
+VMI,The Citadel,12,13,8,48,0,Quayson Williams missed Layup.
+VMI,The Citadel,12,13,8,48,0,VMI Defensive Rebound.
+VMI,The Citadel,12,13,8,56,0,Austin Vereen Turnover.
+VMI,The Citadel,12,15,9,9,1,Zane Najdawi made Layup.
+VMI,The Citadel,12,15,9,9,0,Foul on Trey Chapman.
+VMI,The Citadel,12,16,9,9,1,Zane Najdawi made Free Throw.
+VMI,The Citadel,12,16,9,15,0,Keith Smith Turnover.
+VMI,The Citadel,12,16,9,17,0,Bobby Duncan Steal.
+VMI,The Citadel,12,16,9,23,0,Quayson Williams missed Three Point Jumper.
+VMI,The Citadel,12,16,9,23,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,14,16,9,29,1,QJ Peterson made Layup.
+VMI,The Citadel,14,16,9,45,0,Quayson Williams missed Three Point Jumper.
+VMI,The Citadel,14,16,9,45,0,Julian Eleby Defensive Rebound.
+VMI,The Citadel,14,16,10,5,0,Julian Eleby missed Three Point Jumper.
+VMI,The Citadel,14,16,10,5,0,Zane Najdawi Defensive Rebound.
+VMI,The Citadel,14,16,10,20,0,Bobby Duncan Turnover.
+VMI,The Citadel,16,16,10,31,1,Adrian Rich made Layup.
+VMI,The Citadel,16,18,10,47,1,Tom Koopman made Jumper. Assisted by Matt Frierson.
+VMI,The Citadel,16,18,11,4,0,QJ Peterson missed Three Point Jumper.
+VMI,The Citadel,16,18,11,4,0,Armani Branch Offensive Rebound.
+VMI,The Citadel,16,18,11,10,0,Foul on Matt Frierson.
+VMI,The Citadel,18,18,11,16,1,Armani Branch made Layup. Assisted by Julian Eleby.
+VMI,The Citadel,18,20,11,27,1,Kaelon Harris made Layup. Assisted by Warren Sledge.
+VMI,The Citadel,18,20,11,40,0,Adrian Rich Turnover.
+VMI,The Citadel,18,20,11,42,0,Brian White Steal.
+VMI,The Citadel,18,22,11,45,1,Warren Sledge made Layup.
+VMI,The Citadel,18,22,11,58,0,Foul on Warren Sledge.
+VMI,The Citadel,18,22,12,5,0,QJ Peterson missed Dunk.
+VMI,The Citadel,18,22,12,5,0,Tom Koopman Defensive Rebound.
+VMI,The Citadel,18,22,12,17,0,Brian White missed Three Point Jumper.
+VMI,The Citadel,18,22,12,17,0,Armani Branch Defensive Rebound.
+VMI,The Citadel,18,22,12,43,0,Julian Eleby missed Jumper.
+VMI,The Citadel,18,22,12,43,0,Brian White Defensive Rebound.
+VMI,The Citadel,18,22,12,54,0,Warren Sledge missed Three Point Jumper.
+VMI,The Citadel,18,22,12,54,0,Kaelon Harris Offensive Rebound.
+VMI,The Citadel,18,22,12,58,0,Kaelon Harris missed Layup.
+VMI,The Citadel,18,22,12,58,0,VMI Defensive Rebound.
+VMI,The Citadel,18,22,12,58,0,Foul on Brian White.
+VMI,The Citadel,18,22,12,58,0,Official TV Timeout
+VMI,The Citadel,20,22,13,10,1,Armani Branch made Layup. Assisted by QJ Peterson.
+VMI,The Citadel,20,22,13,32,0,Foul on Armani Branch.
+VMI,The Citadel,20,24,13,36,1,Zane Najdawi made Layup.
+VMI,The Citadel,22,24,13,56,1,Armani Branch made Layup. Assisted by QJ Peterson.
+VMI,The Citadel,22,24,14,10,0,Quayson Williams missed Jumper.
+VMI,The Citadel,22,24,14,10,0,Armani Branch Defensive Rebound.
+VMI,The Citadel,22,24,14,12,0,Foul on Quayson Williams.
+VMI,The Citadel,22,24,14,12,0,Armani Branch missed Free Throw.
+VMI,The Citadel,22,24,14,12,0,Tom Koopman Defensive Rebound.
+VMI,The Citadel,22,24,14,27,0,Leandro Allende missed Jumper.
+VMI,The Citadel,22,24,14,27,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,25,24,14,41,1,Adrian Rich made Three Point Jumper. Assisted by QJ Peterson.
+VMI,The Citadel,25,24,15,4,0,Brian White missed Jumper.
+VMI,The Citadel,25,24,15,4,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,25,24,15,15,0,Foul on Leandro Allende.
+VMI,The Citadel,25,24,15,15,0,Julian Eleby missed Free Throw.
+VMI,The Citadel,25,24,15,15,0,Tom Koopman Defensive Rebound.
+VMI,The Citadel,25,27,15,24,1,Leandro Allende made Three Point Jumper. Assisted by Warren Sledge.
+VMI,The Citadel,27,27,15,44,1,QJ Peterson made Jumper.
+VMI,The Citadel,27,30,15,56,1,Leandro Allende made Three Point Jumper. Assisted by Brian White.
+VMI,The Citadel,30,30,16,17,1,Keith Smith made Three Point Jumper. Assisted by QJ Peterson.
+VMI,The Citadel,30,32,16,35,1,Leandro Allende made Layup.
+VMI,The Citadel,30,32,16,35,0,Foul on Trey Chapman.
+VMI,The Citadel,30,32,16,35,0,Official TV Timeout
+VMI,The Citadel,30,32,16,35,0,Leandro Allende missed Free Throw.
+VMI,The Citadel,30,32,16,35,0,Armani Branch Defensive Rebound.
+VMI,The Citadel,30,32,16,48,0,Foul on Frankie Johnson.
+VMI,The Citadel,30,32,16,48,0,Julian Eleby missed Free Throw.
+VMI,The Citadel,30,32,16,48,0,VMI Deadball Team Rebound.
+VMI,The Citadel,31,32,16,48,1,Julian Eleby made Free Throw.
+VMI,The Citadel,31,32,16,55,0,Foul on Armani Branch.
+VMI,The Citadel,31,32,17,14,0,Zane Najdawi missed Jumper.
+VMI,The Citadel,31,32,17,14,0,Armani Branch Block.
+VMI,The Citadel,31,32,17,17,0,Keith Smith Defensive Rebound.
+VMI,The Citadel,31,32,17,23,0,Armani Branch missed Jumper.
+VMI,The Citadel,31,32,17,23,0,Kaelon Harris Defensive Rebound.
+VMI,The Citadel,31,32,17,30,0,Warren Sledge Turnover.
+VMI,The Citadel,33,32,17,36,1,Armani Branch made Jumper.
+VMI,The Citadel,33,32,17,44,0,Warren Sledge missed Three Point Jumper.
+VMI,The Citadel,33,32,17,44,0,Adrian Rich Defensive Rebound.
+VMI,The Citadel,33,32,17,52,0,Julian Eleby missed Three Point Jumper.
+VMI,The Citadel,33,32,17,52,0,Warren Sledge Defensive Rebound.
+VMI,The Citadel,33,32,18,19,0,Kaelon Harris missed Three Point Jumper.
+VMI,The Citadel,33,32,18,19,0,The Citadel Offensive Rebound.
+VMI,The Citadel,33,32,18,22,0,Foul on Fred Iruafemi.
+VMI,The Citadel,33,35,18,25,1,Frankie Johnson made Three Point Jumper. Assisted by Quayson Williams.
+VMI,The Citadel,33,35,18,46,0,Julian Eleby missed Layup.
+VMI,The Citadel,33,35,18,46,0,Garrett Gilkeson Offensive Rebound.
+VMI,The Citadel,33,35,18,47,0,Foul on Zane Najdawi.
+VMI,The Citadel,34,35,18,47,1,Garrett Gilkeson made Free Throw.
+VMI,The Citadel,35,35,18,47,1,Garrett Gilkeson made Free Throw.
+VMI,The Citadel,35,35,18,53,0,Kaelon Harris Turnover.
+VMI,The Citadel,35,35,18,55,0,Keith Smith Steal.
+VMI,The Citadel,35,35,19,19,0,Foul on Quayson Williams.
+VMI,The Citadel,35,35,19,19,0,QJ Peterson missed Free Throw.
+VMI,The Citadel,35,35,19,19,0,VMI Deadball Team Rebound.
+VMI,The Citadel,35,35,19,19,0,QJ Peterson missed Free Throw.
+VMI,The Citadel,35,35,19,19,0,Kaelon Harris Defensive Rebound.
+VMI,The Citadel,35,35,19,28,0,Foul on Keith Smith.
+VMI,The Citadel,35,35,19,28,0,Quayson Williams missed Free Throw.
+VMI,The Citadel,35,35,19,28,0,Kaelon Harris Offensive Rebound.
+VMI,The Citadel,35,37,19,31,1,Kaelon Harris made Layup.
+VMI,The Citadel,35,37,19,50,0,QJ Peterson missed Three Point Jumper.
+VMI,The Citadel,35,37,19,50,0,Julian Eleby Offensive Rebound.
+VMI,The Citadel,37,37,20,0,1,Adrian Rich made Jumper. Assisted by Tyler Creammer.
+VMI,The Citadel,37,37,20,0,0,End of 1st half
+VMI,The Citadel,37,37,20,9,0,Warren Sledge Turnover.
+VMI,The Citadel,37,37,20,9,0,Armani Branch Steal.
+VMI,The Citadel,37,37,20,9,0,Armani Branch missed Layup.
+VMI,The Citadel,37,37,20,9,0,Trey Chapman Offensive Rebound.
+VMI,The Citadel,39,37,20,9,1,Trey Chapman made Layup.
+VMI,The Citadel,37,37,20,9,0,Foul on Fred Iruafemi.
+VMI,The Citadel,39,37,20,13,0,Leandro Allende missed Three Point Jumper.
+VMI,The Citadel,39,37,20,13,0,Armani Branch Defensive Rebound.
+VMI,The Citadel,39,37,20,22,0,Trey Chapman missed Layup.
+VMI,The Citadel,39,37,20,22,0,Zane Najdawi Defensive Rebound.
+VMI,The Citadel,39,39,20,56,1,Leandro Allende made Layup.
+VMI,The Citadel,39,39,21,16,0,Armani Branch missed Three Point Jumper.
+VMI,The Citadel,39,39,21,16,0,VMI Offensive Rebound.
+VMI,The Citadel,39,39,21,44,0,Foul on Kaelon Harris.
+VMI,The Citadel,40,39,21,44,1,Trey Chapman made Free Throw.
+VMI,The Citadel,40,39,21,44,0,Trey Chapman missed Free Throw.
+VMI,The Citadel,40,39,21,44,0,Zane Najdawi Defensive Rebound.
+VMI,The Citadel,40,39,22,2,0,Kaelon Harris missed Layup.
+VMI,The Citadel,40,39,22,2,0,Trey Chapman Block.
+VMI,The Citadel,40,39,22,5,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,40,39,22,14,0,Adrian Rich missed Three Point Jumper.
+VMI,The Citadel,40,39,22,14,0,Warren Sledge Defensive Rebound.
+VMI,The Citadel,40,42,22,21,1,Frankie Johnson made Three Point Jumper. Assisted by Warren Sledge.
+VMI,The Citadel,40,42,22,29,0,Foul on Frankie Johnson.
+VMI,The Citadel,40,42,22,42,0,Foul on Tom Koopman.
+VMI,The Citadel,41,42,22,42,1,Trey Chapman made Free Throw.
+VMI,The Citadel,42,42,22,42,1,Trey Chapman made Free Throw.
+VMI,The Citadel,42,42,23,5,0,Quayson Williams missed Jumper.
+VMI,The Citadel,42,42,23,5,0,Julian Eleby Defensive Rebound.
+VMI,The Citadel,42,42,23,14,0,Foul on Adrian Rich.
+VMI,The Citadel,42,42,23,14,0,Adrian Rich Turnover.
+VMI,The Citadel,42,44,23,40,1,Matt Frierson made Layup.
+VMI,The Citadel,44,44,23,51,1,QJ Peterson made Layup.
+VMI,The Citadel,44,44,24,1,0,Quayson Williams missed Three Point Jumper.
+VMI,The Citadel,44,44,24,1,0,Armani Branch Defensive Rebound.
+VMI,The Citadel,47,44,24,20,1,Armani Branch made Three Point Jumper. Assisted by Julian Eleby.
+VMI,The Citadel,47,44,24,38,0,Kaelon Harris Turnover.
+VMI,The Citadel,47,44,24,38,0,Official TV Timeout
+VMI,The Citadel,47,44,24,49,0,Adrian Rich missed Jumper.
+VMI,The Citadel,47,44,24,49,0,Matt Frierson Defensive Rebound.
+VMI,The Citadel,47,47,25,8,1,Leandro Allende made Three Point Jumper. Assisted by Zane Najdawi.
+VMI,The Citadel,49,47,25,25,1,QJ Peterson made Jumper.
+VMI,The Citadel,49,47,25,44,0,Matt Frierson missed Three Point Jumper.
+VMI,The Citadel,49,47,25,44,0,Fred Iruafemi Block.
+VMI,The Citadel,49,47,25,48,0,Julian Eleby Defensive Rebound.
+VMI,The Citadel,52,47,25,54,1,QJ Peterson made Three Point Jumper.
+VMI,The Citadel,52,49,26,10,1,Zane Najdawi made Layup. Assisted by Frankie Johnson.
+VMI,The Citadel,55,49,26,26,1,Julian Eleby made Three Point Jumper. Assisted by Keith Smith.
+VMI,The Citadel,55,49,26,38,0,Foul on Keith Smith.
+VMI,The Citadel,55,49,26,46,0,Zane Najdawi Turnover.
+VMI,The Citadel,55,49,26,49,0,Garrett Gilkeson Steal.
+VMI,The Citadel,55,49,26,51,0,Garrett Gilkeson Turnover.
+VMI,The Citadel,55,49,26,52,0,Frankie Johnson Steal.
+VMI,The Citadel,55,49,26,54,0,Foul on Adrian Rich.
+VMI,The Citadel,55,51,26,57,1,Zane Najdawi made Layup. Assisted by Warren Sledge.
+VMI,The Citadel,55,51,27,20,0,Garrett Gilkeson missed Three Point Jumper.
+VMI,The Citadel,55,51,27,20,0,Leandro Allende Defensive Rebound.
+VMI,The Citadel,55,51,27,34,0,Foul on Fred Iruafemi.
+VMI,The Citadel,55,51,27,47,0,Foul on Keith Smith.
+VMI,The Citadel,55,51,27,56,0,Foul on Trey Chapman.
+VMI,The Citadel,55,52,27,56,1,Zane Najdawi made Free Throw.
+VMI,The Citadel,55,53,27,56,1,Zane Najdawi made Free Throw.
+VMI,The Citadel,55,53,28,8,0,Adrian Rich missed Three Point Jumper.
+VMI,The Citadel,55,53,28,8,0,Matt Frierson Defensive Rebound.
+VMI,The Citadel,55,53,28,23,0,Zane Najdawi missed Jumper.
+VMI,The Citadel,55,53,28,23,0,Trey Chapman Defensive Rebound.
+VMI,The Citadel,57,53,28,32,1,QJ Peterson made Layup.
+VMI,The Citadel,57,53,28,55,0,Kaelon Harris Turnover.
+VMI,The Citadel,57,53,28,55,0,Official TV Timeout
+VMI,The Citadel,57,53,29,16,0,Garrett Gilkeson missed Three Point Jumper.
+VMI,The Citadel,57,53,29,16,0,The Citadel Defensive Rebound.
+VMI,The Citadel,57,56,29,32,1,Matt Frierson made Three Point Jumper. Assisted by Kaelon Harris.
+VMI,The Citadel,57,56,29,50,0,Foul on Tom Koopman.
+VMI,The Citadel,57,56,29,59,0,Armani Branch missed Layup.
+VMI,The Citadel,57,56,29,59,0,Kaelon Harris Defensive Rebound.
+VMI,The Citadel,57,56,30,9,0,Frankie Johnson Turnover.
+VMI,The Citadel,57,56,30,20,0,Julian Eleby missed Three Point Jumper.
+VMI,The Citadel,57,56,30,20,0,Kaelon Harris Defensive Rebound.
+VMI,The Citadel,57,56,30,27,0,Frankie Johnson missed Layup.
+VMI,The Citadel,57,56,30,27,0,Trey Chapman Block.
+VMI,The Citadel,57,56,30,27,0,The Citadel Offensive Rebound.
+VMI,The Citadel,57,56,30,29,0,Matt Frierson missed Three Point Jumper.
+VMI,The Citadel,57,56,30,29,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,60,56,30,36,1,QJ Peterson made Three Point Jumper.
+VMI,The Citadel,60,58,30,54,1,Tom Koopman made Layup. Assisted by Kaelon Harris.
+VMI,The Citadel,60,58,30,55,0,Foul on Trey Chapman.
+VMI,The Citadel,60,58,30,55,0,Tom Koopman missed Free Throw.
+VMI,The Citadel,60,58,30,55,0,Warren Sledge Offensive Rebound.
+VMI,The Citadel,60,58,30,58,0,Frankie Johnson missed Three Point Jumper.
+VMI,The Citadel,60,58,30,58,0,Tom Koopman Offensive Rebound.
+VMI,The Citadel,60,61,31,10,1,Warren Sledge made Three Point Jumper. Assisted by Leandro Allende.
+VMI,The Citadel,60,61,31,35,0,QJ Peterson missed Jumper.
+VMI,The Citadel,60,61,31,35,0,Matt Frierson Defensive Rebound.
+VMI,The Citadel,60,63,31,53,1,Leandro Allende made Layup. Assisted by Tom Koopman.
+VMI,The Citadel,60,63,31,53,0,Foul on Armani Branch.
+VMI,The Citadel,60,64,31,54,1,Leandro Allende made Free Throw.
+VMI,The Citadel,62,64,32,6,1,Adrian Rich made Layup.
+VMI,The Citadel,62,66,32,30,1,Zane Najdawi made Layup.
+VMI,The Citadel,64,66,32,48,1,Keith Smith made Layup.
+VMI,The Citadel,64,66,32,57,0,Foul on Keith Smith.
+VMI,The Citadel,64,66,32,57,0,Official TV Timeout
+VMI,The Citadel,64,66,32,57,0,Frankie Johnson missed Free Throw.
+VMI,The Citadel,64,66,32,57,0,The Citadel Deadball Team Rebound.
+VMI,The Citadel,64,67,32,57,1,Frankie Johnson made Free Throw.
+VMI,The Citadel,64,67,33,7,0,QJ Peterson missed Three Point Jumper.
+VMI,The Citadel,64,67,33,7,0,Kaelon Harris Offensive Rebound.
+VMI,The Citadel,64,67,33,25,0,Zane Najdawi missed Jumper.
+VMI,The Citadel,64,67,33,25,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,64,67,33,31,0,Armani Branch missed Layup.
+VMI,The Citadel,64,67,33,31,0,Zane Najdawi Defensive Rebound.
+VMI,The Citadel,64,69,33,49,1,Zane Najdawi made Layup.
+VMI,The Citadel,64,69,34,7,0,Julian Eleby missed Three Point Jumper.
+VMI,The Citadel,64,69,34,7,0,Julian Eleby Offensive Rebound.
+VMI,The Citadel,64,69,34,15,0,Garrett Gilkeson missed Three Point Jumper.
+VMI,The Citadel,64,69,34,15,0,Julian Eleby Offensive Rebound.
+VMI,The Citadel,67,69,34,22,1,Julian Eleby made Three Point Jumper. Assisted by Garrett Gilkeson.
+VMI,The Citadel,67,72,34,42,1,Zane Najdawi made Three Point Jumper. Assisted by Warren Sledge.
+VMI,The Citadel,67,72,34,46,0,The Citadel  Timeout
+VMI,The Citadel,67,72,35,8,0,Foul on Tyler Creammer.
+VMI,The Citadel,67,72,35,8,0,Tyler Creammer Turnover.
+VMI,The Citadel,67,72,35,20,0,Foul on Julian Eleby.
+VMI,The Citadel,67,72,35,20,0,Zane Najdawi missed Free Throw.
+VMI,The Citadel,67,72,35,20,0,The Citadel Deadball Team Rebound.
+VMI,The Citadel,67,73,35,20,1,Zane Najdawi made Free Throw.
+VMI,The Citadel,69,73,35,46,1,Trey Chapman made Jumper. Assisted by Julian Eleby.
+VMI,The Citadel,69,73,36,8,0,Frankie Johnson Turnover.
+VMI,The Citadel,69,73,36,8,0,Official TV Timeout
+VMI,The Citadel,69,73,36,21,0,Foul on Zane Najdawi.
+VMI,The Citadel,69,73,36,29,0,Keith Smith missed Jumper.
+VMI,The Citadel,69,73,36,29,0,Leandro Allende Defensive Rebound.
+VMI,The Citadel,69,73,36,34,0,Warren Sledge missed Three Point Jumper.
+VMI,The Citadel,69,73,36,34,0,Adrian Rich Defensive Rebound.
+VMI,The Citadel,69,73,36,50,0,Foul on Leandro Allende.
+VMI,The Citadel,69,73,36,54,0,Keith Smith missed Three Point Jumper.
+VMI,The Citadel,69,73,36,54,0,Zane Najdawi Defensive Rebound.
+VMI,The Citadel,69,73,36,58,0,Zane Najdawi Turnover.
+VMI,The Citadel,69,73,36,59,0,Keith Smith Steal.
+VMI,The Citadel,69,73,37,8,0,Julian Eleby missed Three Point Jumper.
+VMI,The Citadel,69,73,37,8,0,QJ Peterson Offensive Rebound.
+VMI,The Citadel,69,73,37,13,0,Foul on Frankie Johnson.
+VMI,The Citadel,70,73,37,13,1,QJ Peterson made Free Throw.
+VMI,The Citadel,71,73,37,13,1,QJ Peterson made Free Throw.
+VMI,The Citadel,71,73,37,27,0,Frankie Johnson missed Jumper.
+VMI,The Citadel,71,73,37,27,0,VMI Defensive Rebound.
+VMI,The Citadel,71,73,37,46,0,Adrian Rich missed Layup.
+VMI,The Citadel,71,73,37,46,0,Zane Najdawi Block.
+VMI,The Citadel,71,73,37,48,0,Frankie Johnson Defensive Rebound.
+VMI,The Citadel,71,76,37,51,1,Matt Frierson made Three Point Jumper. Assisted by Frankie Johnson.
+VMI,The Citadel,74,76,38,9,1,Trey Chapman made Three Point Jumper. Assisted by Julian Eleby.
+VMI,The Citadel,74,76,38,29,0,Leandro Allende missed Layup.
+VMI,The Citadel,74,76,38,29,0,Keith Smith Defensive Rebound.
+VMI,The Citadel,74,76,38,45,0,VMI  Timeout
+VMI,The Citadel,74,76,38,57,0,QJ Peterson missed Jumper.
+VMI,The Citadel,74,76,38,57,0,Warren Sledge Block.
+VMI,The Citadel,74,76,39,0,0,QJ Peterson Offensive Rebound.
+VMI,The Citadel,74,76,39,2,0,QJ Peterson missed Jumper.
+VMI,The Citadel,74,76,39,2,0,Matt Frierson Defensive Rebound.
+VMI,The Citadel,74,76,39,8,0,The Citadel  Timeout
+VMI,The Citadel,74,76,39,22,0,Warren Sledge missed Layup.
+VMI,The Citadel,74,76,39,22,0,Trey Chapman Defensive Rebound.
+VMI,The Citadel,74,76,39,42,0,Keith Smith missed Three Point Jumper.
+VMI,The Citadel,74,76,39,42,0,Leandro Allende Defensive Rebound.
+VMI,The Citadel,74,76,39,45,0,Foul on Trey Chapman.
+VMI,The Citadel,74,77,39,45,1,Leandro Allende made Free Throw.
+VMI,The Citadel,74,77,39,45,0,Leandro Allende missed Free Throw.
+VMI,The Citadel,74,77,39,45,0,QJ Peterson Defensive Rebound.
+VMI,The Citadel,74,77,39,53,0,QJ Peterson Turnover.
+VMI,The Citadel,74,77,39,54,0,Frankie Johnson Steal.
+VMI,The Citadel,74,77,39,54,0,Foul on QJ Peterson.
+VMI,The Citadel,74,78,39,54,1,Frankie Johnson made Free Throw.
+VMI,The Citadel,74,79,39,54,1,Frankie Johnson made Free Throw.
+VMI,The Citadel,74,79,39,58,0,Adrian Rich missed Three Point Jumper.
+VMI,The Citadel,74,79,39,58,0,Keith Smith Offensive Rebound.
+VMI,The Citadel,74,79,40,0,0,Keith Smith missed Jumper.
+VMI,The Citadel,74,79,40,0,0,The Citadel Defensive Rebound.
+VMI,The Citadel,74,79,40,0,0,End of Game

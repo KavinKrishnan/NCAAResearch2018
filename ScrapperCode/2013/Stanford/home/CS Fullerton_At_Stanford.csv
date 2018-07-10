@@ -1,0 +1,356 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+CS Fullerton,Stanford,2,0,0,7,1,Sammy Yeager made Layup.  Assisted by Marquis Horne.
+CS Fullerton,Stanford,2,0,0,19,0,Anthony Brown missed Jumper.
+CS Fullerton,Stanford,2,0,0,19,0,Sammy Yeager Defensive Rebound.
+CS Fullerton,Stanford,2,0,0,32,0,Marquis Horne missed Three Point Jumper.
+CS Fullerton,Stanford,2,0,0,32,0,Aaron Bright Defensive Rebound.
+CS Fullerton,Stanford,2,0,1,8,0,Foul on D.J. Seeley
+CS Fullerton,Stanford,2,1,1,8,1,Aaron Bright made Free Throw.
+CS Fullerton,Stanford,2,2,1,8,1,Aaron Bright made Free Throw.
+CS Fullerton,Stanford,2,2,1,26,0,D.J. Seeley Turnover.
+CS Fullerton,Stanford,2,2,1,29,0,Chasson Randle missed Three Point Jumper.
+CS Fullerton,Stanford,2,2,1,36,0,Josh Huestis Offensive Rebound.
+CS Fullerton,Stanford,2,2,1,39,0,Foul on Marquis Horne
+CS Fullerton,Stanford,2,3,1,39,1,Chasson Randle made Free Throw.
+CS Fullerton,Stanford,2,4,1,39,1,Chasson Randle made Free Throw.
+CS Fullerton,Stanford,5,4,2,5,1,Marquis Horne made Three Point Jumper.  Assisted by Kwame Vaughn.
+CS Fullerton,Stanford,5,4,2,18,0,Foul on Deuce Johnson
+CS Fullerton,Stanford,5,4,2,26,0,Josh Huestis missed Jumper.
+CS Fullerton,Stanford,5,4,2,26,0,Sammy Yeager Defensive Rebound.
+CS Fullerton,Stanford,5,4,2,35,0,Alex Harris missed Three Point Jumper.
+CS Fullerton,Stanford,5,4,2,35,0,Dwight Powell Defensive Rebound.
+CS Fullerton,Stanford,5,7,2,46,1,Chasson Randle made Three Point Jumper.
+CS Fullerton,Stanford,5,7,3,4,0,Foul on Aaron Bright
+CS Fullerton,Stanford,5,7,3,11,0,Sammy Yeager missed Three Point Jumper.
+CS Fullerton,Stanford,5,7,3,11,0,Dwight Powell Defensive Rebound.
+CS Fullerton,Stanford,5,7,3,24,0,Anthony Brown missed Jumper.
+CS Fullerton,Stanford,5,7,3,24,0,D.J. Seeley Defensive Rebound.
+CS Fullerton,Stanford,5,7,3,34,0,Kwame Vaughn Turnover.
+CS Fullerton,Stanford,5,9,3,41,1,Aaron Bright made Layup.
+CS Fullerton,Stanford,5,9,3,58,0,D.J. Seeley missed Three Point Jumper.
+CS Fullerton,Stanford,5,9,3,58,0,Anthony Brown Defensive Rebound.
+CS Fullerton,Stanford,5,9,4,22,0,Josh Huestis Turnover.
+CS Fullerton,Stanford,5,9,4,23,0,Kwame Vaughn Steal.
+CS Fullerton,Stanford,7,9,4,28,1,Kwame Vaughn made Dunk.
+CS Fullerton,Stanford,7,9,4,43,0,Foul on Aaron Bright
+CS Fullerton,Stanford,7,9,4,43,0,Aaron Bright Turnover.
+CS Fullerton,Stanford,7,9,4,43,0,Official TV Timeout.
+CS Fullerton,Stanford,7,9,5,6,0,James Douglas missed Layup.
+CS Fullerton,Stanford,7,9,5,6,0,Dwight Powell Defensive Rebound.
+CS Fullerton,Stanford,7,9,5,13,0,Foul on Gabriel Harris
+CS Fullerton,Stanford,7,9,5,13,0,Gabriel Harris Turnover.
+CS Fullerton,Stanford,7,9,5,33,0,Jared Brandon Turnover.
+CS Fullerton,Stanford,7,9,5,53,0,Stefan Nastic missed Jumper.
+CS Fullerton,Stanford,7,9,5,53,0,Alex Harris Defensive Rebound.
+CS Fullerton,Stanford,7,9,6,2,0,Sammy Yeager missed Jumper.
+CS Fullerton,Stanford,7,9,6,3,0,Stefan Nastic Block.
+CS Fullerton,Stanford,7,9,6,4,0,Dwight Powell Defensive Rebound.
+CS Fullerton,Stanford,7,9,6,11,0,Anthony Brown missed Layup.
+CS Fullerton,Stanford,7,9,6,11,0,Deuce Johnson Defensive Rebound.
+CS Fullerton,Stanford,7,9,6,20,0,Kwame Vaughn missed Jumper.
+CS Fullerton,Stanford,7,9,6,20,0,James Douglas Offensive Rebound.
+CS Fullerton,Stanford,7,9,6,26,0,Foul on Anthony Brown
+CS Fullerton,Stanford,7,9,6,34,0,Kwame Vaughn Turnover.
+CS Fullerton,Stanford,7,9,6,46,0,Foul on Alex Harris
+CS Fullerton,Stanford,7,9,6,59,0,Andy Brown missed Jumper.
+CS Fullerton,Stanford,7,9,6,59,0,Dwight Powell Offensive Rebound.
+CS Fullerton,Stanford,7,11,7,2,1,Dwight Powell made Layup.
+CS Fullerton,Stanford,7,11,7,15,0,Sammy Yeager Turnover.
+CS Fullerton,Stanford,7,11,7,17,0,Gabriel Harris Steal.
+CS Fullerton,Stanford,7,11,7,25,0,Foul on Kwame Vaughn
+CS Fullerton,Stanford,7,11,7,29,0,Chasson Randle missed Jumper.
+CS Fullerton,Stanford,7,11,7,29,0,Chasson Randle Offensive Rebound.
+CS Fullerton,Stanford,7,11,7,43,0,Gabriel Harris missed Jumper.
+CS Fullerton,Stanford,7,11,7,43,0,Gabriel Harris Offensive Rebound.
+CS Fullerton,Stanford,7,11,7,48,0,Foul on Marquis Horne
+CS Fullerton,Stanford,7,13,7,56,1,Dwight Powell made Jumper.
+CS Fullerton,Stanford,7,13,8,3,0,Kwame Vaughn missed Three Point Jumper.
+CS Fullerton,Stanford,7,13,8,3,0,Sammy Yeager Offensive Rebound.
+CS Fullerton,Stanford,9,13,8,17,1,D.J. Seeley made Layup.
+CS Fullerton,Stanford,9,15,8,25,1,Andy Brown made Layup.
+CS Fullerton,Stanford,12,15,8,39,1,D.J. Seeley made Three Point Jumper.
+CS Fullerton,Stanford,12,17,8,54,1,Dwight Powell made Layup.  Assisted by Gabriel Harris.
+CS Fullerton,Stanford,15,17,9,5,1,Sammy Yeager made Three Point Jumper.  Assisted by D.J. Seeley.
+CS Fullerton,Stanford,15,19,9,27,1,Chasson Randle made Jumper.
+CS Fullerton,Stanford,15,19,9,48,0,Sammy Yeager Turnover.
+CS Fullerton,Stanford,15,19,9,49,0,Dwight Powell Steal.
+CS Fullerton,Stanford,15,19,9,53,0,Chasson Randle missed Layup.
+CS Fullerton,Stanford,15,19,9,53,0,Gabriel Harris Offensive Rebound.
+CS Fullerton,Stanford,15,19,9,54,0,Gabriel Harris missed Layup.
+CS Fullerton,Stanford,15,19,9,55,0,Gabriel Harris Offensive Rebound.
+CS Fullerton,Stanford,15,19,9,57,0,Gabriel Harris missed Layup.
+CS Fullerton,Stanford,15,19,9,57,0,Marquis Horne Defensive Rebound.
+CS Fullerton,Stanford,15,19,10,3,0,D.J. Seeley missed Three Point Jumper.
+CS Fullerton,Stanford,15,19,10,3,0,Stefan Nastic Defensive Rebound.
+CS Fullerton,Stanford,15,19,10,5,0,Stefan Nastic missed Free Throw.
+CS Fullerton,Stanford,15,19,10,5,0,Official TV Timeout.
+CS Fullerton,Stanford,15,19,10,5,0,Stefan Nastic missed Free Throw.
+CS Fullerton,Stanford,15,19,10,5,0,null
+CS Fullerton,Stanford,15,19,10,6,0,null
+CS Fullerton,Stanford,15,19,10,9,0,Foul on Stefan Nastic
+CS Fullerton,Stanford,15,19,10,19,0,James Douglas Turnover.
+CS Fullerton,Stanford,15,19,10,21,0,Andy Brown Steal.
+CS Fullerton,Stanford,15,19,10,32,0,Christian Sanders missed Three Point Jumper.
+CS Fullerton,Stanford,15,19,10,32,0,Josh Huestis Offensive Rebound.
+CS Fullerton,Stanford,15,21,10,36,1,Josh Huestis made Layup.
+CS Fullerton,Stanford,15,21,10,45,0,Foul on Chasson Randle
+CS Fullerton,Stanford,15,21,11,6,0,Alex Harris missed Jumper.
+CS Fullerton,Stanford,15,21,11,7,0,D.J. Seeley Offensive Rebound.
+CS Fullerton,Stanford,15,21,11,11,0,Cal State Fullerton Full Timeout.
+CS Fullerton,Stanford,15,21,11,22,0,Kwame Vaughn missed Jumper.
+CS Fullerton,Stanford,15,21,11,22,0,Andy Brown Defensive Rebound.
+CS Fullerton,Stanford,15,23,11,38,1,Chasson Randle made Layup.
+CS Fullerton,Stanford,15,23,11,55,0,Kwame Vaughn Turnover.
+CS Fullerton,Stanford,15,23,12,14,0,Foul on Anthony Brown
+CS Fullerton,Stanford,15,23,12,14,0,Anthony Brown Turnover.
+CS Fullerton,Stanford,17,23,12,38,1,D.J. Seeley made Jumper.
+CS Fullerton,Stanford,17,23,12,47,0,Rosco Allen Turnover.
+CS Fullerton,Stanford,17,23,13,7,0,D.J. Seeley missed Jumper.
+CS Fullerton,Stanford,17,23,13,7,0,Chasson Randle Defensive Rebound.
+CS Fullerton,Stanford,17,23,13,14,0,Christian Sanders missed Three Point Jumper.
+CS Fullerton,Stanford,17,23,13,14,0,Kwame Vaughn Defensive Rebound.
+CS Fullerton,Stanford,20,23,13,25,1,Kwame Vaughn made Three Point Jumper.  Assisted by D.J. Seeley.
+CS Fullerton,Stanford,20,23,13,25,0,Stanford Full Timeout.
+CS Fullerton,Stanford,20,23,13,33,0,Foul on Sammy Yeager
+CS Fullerton,Stanford,20,23,13,33,0,Josh Huestis missed Free Throw.
+CS Fullerton,Stanford,20,23,13,33,0,Sammy Yeager Defensive Rebound.
+CS Fullerton,Stanford,20,23,13,51,0,Alex Harris missed Jumper.
+CS Fullerton,Stanford,20,23,13,52,0,null
+CS Fullerton,Stanford,20,23,13,54,0,Foul on Josh Huestis
+CS Fullerton,Stanford,21,23,13,54,1,Jared Brandon made Free Throw.
+CS Fullerton,Stanford,21,23,13,54,0,Jared Brandon missed Free Throw.
+CS Fullerton,Stanford,21,23,13,54,0,Rosco Allen Defensive Rebound.
+CS Fullerton,Stanford,21,23,14,3,0,Chasson Randle missed Layup.
+CS Fullerton,Stanford,21,23,14,3,0,Alex Harris Defensive Rebound.
+CS Fullerton,Stanford,21,23,14,8,0,Foul on Christian Sanders
+CS Fullerton,Stanford,22,23,14,8,1,Kwame Vaughn made Free Throw.
+CS Fullerton,Stanford,23,23,14,8,1,Kwame Vaughn made Free Throw.
+CS Fullerton,Stanford,23,23,14,25,0,Dwight Powell Turnover.
+CS Fullerton,Stanford,23,23,14,27,0,Marquis Horne Steal.
+CS Fullerton,Stanford,23,23,14,31,0,Sammy Yeager missed Layup.
+CS Fullerton,Stanford,23,23,14,31,0,null
+CS Fullerton,Stanford,23,23,14,39,0,Chasson Randle missed Three Point Jumper.
+CS Fullerton,Stanford,23,23,14,42,0,Stanford Offensive Rebound.
+CS Fullerton,Stanford,23,25,14,52,1,Aaron Bright made Jumper.
+CS Fullerton,Stanford,23,25,15,11,0,Sammy Yeager Turnover.
+CS Fullerton,Stanford,23,25,15,15,0,Andy Brown Steal.
+CS Fullerton,Stanford,23,27,15,23,1,Aaron Bright made Layup.
+CS Fullerton,Stanford,25,27,15,30,1,Marquis Horne made Layup.  Assisted by Kwame Vaughn.
+CS Fullerton,Stanford,25,27,15,38,0,Foul on Chasson Randle
+CS Fullerton,Stanford,25,27,15,38,0,Chasson Randle Turnover.
+CS Fullerton,Stanford,25,27,15,57,0,D.J. Seeley Turnover.
+CS Fullerton,Stanford,25,27,16,1,0,Official TV Timeout.
+CS Fullerton,Stanford,25,27,16,7,0,Aaron Bright missed Three Point Jumper.
+CS Fullerton,Stanford,25,27,16,7,0,Sammy Yeager Defensive Rebound.
+CS Fullerton,Stanford,25,27,16,16,0,Foul on Andy Brown
+CS Fullerton,Stanford,26,27,16,16,1,D.J. Seeley made Free Throw.
+CS Fullerton,Stanford,26,27,16,16,0,D.J. Seeley missed Free Throw.
+CS Fullerton,Stanford,26,27,16,16,0,John Gage Defensive Rebound.
+CS Fullerton,Stanford,26,27,16,35,0,John Gage missed Three Point Jumper.
+CS Fullerton,Stanford,26,27,16,35,0,Kwame Vaughn Defensive Rebound.
+CS Fullerton,Stanford,26,27,16,49,0,Marquis Horne Turnover.
+CS Fullerton,Stanford,26,27,16,50,0,Foul on Marquis Horne
+CS Fullerton,Stanford,26,29,16,57,1,Chasson Randle made Layup.
+CS Fullerton,Stanford,26,29,17,14,0,Foul on Kwame Vaughn
+CS Fullerton,Stanford,26,29,17,14,0,Kwame Vaughn Turnover.
+CS Fullerton,Stanford,26,29,17,26,0,Anthony Brown missed Jumper.
+CS Fullerton,Stanford,26,29,17,26,0,Dwight Powell Offensive Rebound.
+CS Fullerton,Stanford,26,29,17,31,0,Chasson Randle missed Layup.
+CS Fullerton,Stanford,26,29,17,31,0,Jared Brandon Defensive Rebound.
+CS Fullerton,Stanford,27,29,17,37,0,Foul on Andy Brown
+CS Fullerton,Stanford,27,29,17,38,1,Jared Brandon made Free Throw.
+CS Fullerton,Stanford,28,29,17,38,1,Jared Brandon made Free Throw.
+CS Fullerton,Stanford,28,29,18,16,0,Chasson Randle Turnover.
+CS Fullerton,Stanford,28,29,18,18,0,Sammy Yeager Steal.
+CS Fullerton,Stanford,28,29,18,29,0,Sammy Yeager Turnover.
+CS Fullerton,Stanford,28,29,18,39,0,Aaron Bright missed Three Point Jumper.
+CS Fullerton,Stanford,28,29,18,39,0,Alex Harris Defensive Rebound.
+CS Fullerton,Stanford,30,29,18,47,1,D.J. Seeley made Layup.  Assisted by Alex Harris.
+CS Fullerton,Stanford,30,29,18,47,0,Foul on Dwight Powell
+CS Fullerton,Stanford,31,29,18,47,1,D.J. Seeley made Free Throw.
+CS Fullerton,Stanford,31,29,19,0,0,Gabriel Harris missed Jumper.
+CS Fullerton,Stanford,31,29,19,0,0,Sammy Yeager Block.
+CS Fullerton,Stanford,31,29,19,3,0,D.J. Seeley Defensive Rebound.
+CS Fullerton,Stanford,31,29,19,9,0,D.J. Seeley missed Three Point Jumper.
+CS Fullerton,Stanford,31,29,19,9,0,Jared Brandon Offensive Rebound.
+CS Fullerton,Stanford,31,29,19,18,0,D.J. Seeley Turnover.
+CS Fullerton,Stanford,31,31,19,47,1,Gabriel Harris made Layup.  Assisted by Dwight Powell.
+CS Fullerton,Stanford,31,31,19,53,0,Foul on Alex Harris
+CS Fullerton,Stanford,31,31,19,53,0,Alex Harris Turnover.
+CS Fullerton,Stanford,31,31,19,53,0,Anthony Brown missed Three Point Jumper.
+CS Fullerton,Stanford,31,31,19,53,0,null
+CS Fullerton,Stanford,31,31,20,0,0,End of the 1st Half.
+CS Fullerton,Stanford,31,31,20,14,0,Foul on Sammy Yeager
+CS Fullerton,Stanford,31,32,20,14,1,Dwight Powell made Free Throw.
+CS Fullerton,Stanford,31,33,20,14,1,Dwight Powell made Free Throw.
+CS Fullerton,Stanford,31,33,20,27,0,Foul on Marquis Horne
+CS Fullerton,Stanford,31,33,20,27,0,Marquis Horne Turnover.
+CS Fullerton,Stanford,31,33,20,33,0,Dwight Powell missed Jumper.
+CS Fullerton,Stanford,31,33,20,33,0,Kwame Vaughn Defensive Rebound.
+CS Fullerton,Stanford,31,33,20,44,0,D.J. Seeley Turnover.
+CS Fullerton,Stanford,31,33,20,54,0,Josh Huestis missed Jumper.
+CS Fullerton,Stanford,31,33,20,54,0,Sammy Yeager Defensive Rebound.
+CS Fullerton,Stanford,34,33,21,1,1,Sammy Yeager made Three Point Jumper.  Assisted by D.J. Seeley.
+CS Fullerton,Stanford,34,33,21,16,0,Aaron Bright missed Jumper.
+CS Fullerton,Stanford,34,33,21,16,0,Sammy Yeager Defensive Rebound.
+CS Fullerton,Stanford,36,33,21,36,1,Deuce Johnson made Dunk.
+CS Fullerton,Stanford,36,35,21,40,1,Chasson Randle made Layup.
+CS Fullerton,Stanford,39,35,22,0,1,Alex Harris made Three Point Jumper.
+CS Fullerton,Stanford,39,37,22,16,1,Josh Huestis made Dunk.  Assisted by Aaron Bright.
+CS Fullerton,Stanford,39,37,22,33,0,D.J. Seeley missed Three Point Jumper.
+CS Fullerton,Stanford,39,37,22,33,0,Dwight Powell Defensive Rebound.
+CS Fullerton,Stanford,39,37,22,43,0,Chasson Randle missed Three Point Jumper.
+CS Fullerton,Stanford,39,37,22,43,0,Cal State Fullerton Defensive Re.
+CS Fullerton,Stanford,39,37,22,55,0,D.J. Seeley missed Jumper.
+CS Fullerton,Stanford,39,37,22,55,0,Anthony Brown Defensive Rebound.
+CS Fullerton,Stanford,39,39,23,4,1,Chasson Randle made Layup.
+CS Fullerton,Stanford,39,39,23,10,0,Cal State Fullerton Full Timeout.
+CS Fullerton,Stanford,39,39,23,32,0,Foul on Josh Huestis
+CS Fullerton,Stanford,40,39,23,32,1,D.J. Seeley made Free Throw.
+CS Fullerton,Stanford,41,39,23,32,1,D.J. Seeley made Free Throw.
+CS Fullerton,Stanford,41,39,23,44,0,Anthony Brown missed Three Point Jumper.
+CS Fullerton,Stanford,41,39,23,44,0,Kwame Vaughn Defensive Rebound.
+CS Fullerton,Stanford,43,39,23,59,1,Jared Brandon made Layup.
+CS Fullerton,Stanford,43,39,24,15,0,Official TV Timeout.
+CS Fullerton,Stanford,43,42,24,19,1,Chasson Randle made Three Point Jumper.  Assisted by Aaron Bright.
+CS Fullerton,Stanford,45,42,24,43,1,Kwame Vaughn made Layup.
+CS Fullerton,Stanford,45,44,24,58,1,Aaron Bright made Layup.
+CS Fullerton,Stanford,45,44,25,11,0,Kwame Vaughn missed Layup.
+CS Fullerton,Stanford,45,44,25,11,0,Dwight Powell Defensive Rebound.
+CS Fullerton,Stanford,45,44,25,20,0,Aaron Bright Turnover.
+CS Fullerton,Stanford,45,44,25,35,0,Foul on Kwame Vaughn
+CS Fullerton,Stanford,45,44,25,35,0,Kwame Vaughn Turnover.
+CS Fullerton,Stanford,45,44,25,41,0,Foul on Jared Brandon
+CS Fullerton,Stanford,45,45,25,41,1,Andy Brown made Free Throw.
+CS Fullerton,Stanford,45,46,25,41,1,Andy Brown made Free Throw.
+CS Fullerton,Stanford,48,46,25,55,1,Sammy Yeager made Three Point Jumper.
+CS Fullerton,Stanford,48,48,26,9,1,Dwight Powell made Layup.
+CS Fullerton,Stanford,48,48,26,23,0,Deuce Johnson missed Jumper.
+CS Fullerton,Stanford,48,48,26,23,0,Stefan Nastic Defensive Rebound.
+CS Fullerton,Stanford,48,48,26,32,0,Foul on Kwame Vaughn
+CS Fullerton,Stanford,48,49,26,32,1,Aaron Bright made Free Throw.
+CS Fullerton,Stanford,48,49,26,32,0,Aaron Bright missed Free Throw.
+CS Fullerton,Stanford,48,49,26,32,0,Sammy Yeager Defensive Rebound.
+CS Fullerton,Stanford,48,49,26,37,0,James Douglas Turnover.
+CS Fullerton,Stanford,48,49,26,40,0,Aaron Bright Steal.
+CS Fullerton,Stanford,48,51,26,44,1,Aaron Bright made Layup.
+CS Fullerton,Stanford,48,51,26,44,0,Foul on Deuce Johnson
+CS Fullerton,Stanford,48,52,26,44,1,Aaron Bright made Free Throw.
+CS Fullerton,Stanford,48,52,27,8,0,Sammy Yeager Turnover.
+CS Fullerton,Stanford,48,52,27,12,0,Foul on Alex Harris
+CS Fullerton,Stanford,48,53,27,12,1,Aaron Bright made Free Throw.
+CS Fullerton,Stanford,48,54,27,12,1,Aaron Bright made Free Throw.
+CS Fullerton,Stanford,48,54,27,25,0,D.J. Seeley Turnover.
+CS Fullerton,Stanford,48,54,27,25,0,Andy Brown Steal.
+CS Fullerton,Stanford,48,56,27,42,1,Christian Sanders made Layup.
+CS Fullerton,Stanford,50,56,28,10,1,Jared Brandon made Layup.  Assisted by D.J. Seeley.
+CS Fullerton,Stanford,50,56,28,18,0,Aaron Bright missed Jumper.
+CS Fullerton,Stanford,50,56,28,18,0,Andy Brown Offensive Rebound.
+CS Fullerton,Stanford,50,58,28,24,1,Andy Brown made Layup.
+CS Fullerton,Stanford,50,58,28,37,0,Foul on Stefan Nastic
+CS Fullerton,Stanford,50,58,28,37,0,Official TV Timeout.
+CS Fullerton,Stanford,52,58,28,39,1,D.J. Seeley made Jumper.
+CS Fullerton,Stanford,52,60,29,2,1,Christian Sanders made Jumper.  Assisted by Aaron Bright.
+CS Fullerton,Stanford,54,60,29,28,1,Jared Brandon made Layup.
+CS Fullerton,Stanford,54,60,29,50,0,Aaron Bright Turnover.
+CS Fullerton,Stanford,54,60,29,51,0,Alex Harris Steal.
+CS Fullerton,Stanford,54,60,29,58,0,Alex Harris missed Three Point Jumper.
+CS Fullerton,Stanford,54,60,29,58,0,Sammy Yeager Offensive Rebound.
+CS Fullerton,Stanford,54,60,30,3,0,Jared Brandon missed Three Point Jumper.
+CS Fullerton,Stanford,54,60,30,3,0,Christian Sanders Defensive Rebound.
+CS Fullerton,Stanford,54,62,30,27,1,Josh Huestis made Dunk.  Assisted by Christian Sanders.
+CS Fullerton,Stanford,54,62,30,27,0,Foul on Sammy Yeager
+CS Fullerton,Stanford,54,63,30,27,1,Josh Huestis made Free Throw.
+CS Fullerton,Stanford,54,63,30,38,0,Sammy Yeager missed Three Point Jumper.
+CS Fullerton,Stanford,54,63,30,38,0,Josh Huestis Defensive Rebound.
+CS Fullerton,Stanford,54,63,30,49,0,Stefan Nastic missed Jumper.
+CS Fullerton,Stanford,54,63,30,49,0,Stefan Nastic Offensive Rebound.
+CS Fullerton,Stanford,54,63,30,50,0,Foul on Alex Harris
+CS Fullerton,Stanford,54,64,30,50,1,Stefan Nastic made Free Throw.
+CS Fullerton,Stanford,54,65,30,50,1,Stefan Nastic made Free Throw.
+CS Fullerton,Stanford,54,65,31,8,0,D.J. Seeley missed Jumper.
+CS Fullerton,Stanford,54,65,31,8,0,Andy Brown Defensive Rebound.
+CS Fullerton,Stanford,54,67,31,16,1,Josh Huestis made Dunk.  Assisted by Chasson Randle.
+CS Fullerton,Stanford,54,67,31,32,0,Foul on Christian Sanders
+CS Fullerton,Stanford,54,67,31,38,0,D.J. Seeley missed Three Point Jumper.
+CS Fullerton,Stanford,54,67,31,38,0,Andy Brown Defensive Rebound.
+CS Fullerton,Stanford,54,67,31,53,0,Chasson Randle missed Jumper.
+CS Fullerton,Stanford,54,67,31,53,0,D.J. Seeley Defensive Rebound.
+CS Fullerton,Stanford,54,67,32,1,0,Foul on Josh Huestis
+CS Fullerton,Stanford,54,67,32,1,0,Official TV Timeout.
+CS Fullerton,Stanford,54,67,32,1,0,D.J. Seeley missed Free Throw.
+CS Fullerton,Stanford,54,67,32,1,0,null
+CS Fullerton,Stanford,55,67,32,1,1,D.J. Seeley made Free Throw.
+CS Fullerton,Stanford,55,67,32,7,0,Chasson Randle missed Jumper.
+CS Fullerton,Stanford,55,67,32,7,0,Andy Brown Offensive Rebound.
+CS Fullerton,Stanford,55,69,32,15,1,Andy Brown made Layup.
+CS Fullerton,Stanford,55,69,32,26,0,Sammy Yeager Turnover.
+CS Fullerton,Stanford,55,69,32,28,0,Chasson Randle Steal.
+CS Fullerton,Stanford,55,69,32,28,0,Foul on Sammy Yeager
+CS Fullerton,Stanford,55,70,32,28,1,Chasson Randle made Free Throw.
+CS Fullerton,Stanford,55,71,32,28,1,Chasson Randle made Free Throw.
+CS Fullerton,Stanford,55,71,32,40,0,Alex Harris missed Three Point Jumper.
+CS Fullerton,Stanford,55,71,32,40,0,Dwight Powell Defensive Rebound.
+CS Fullerton,Stanford,55,73,32,56,1,Dwight Powell made Jumper.  Assisted by Chasson Randle.
+CS Fullerton,Stanford,55,73,32,56,0,Foul on Deuce Johnson
+CS Fullerton,Stanford,55,73,32,56,0,Dwight Powell missed Free Throw.
+CS Fullerton,Stanford,55,73,32,56,0,Marquis Horne Defensive Rebound.
+CS Fullerton,Stanford,55,73,33,12,0,James Douglas Turnover.
+CS Fullerton,Stanford,55,73,33,14,0,Andy Brown Steal.
+CS Fullerton,Stanford,55,73,33,19,0,Dwight Powell Turnover.
+CS Fullerton,Stanford,55,73,33,33,0,Jared Brandon Turnover.
+CS Fullerton,Stanford,55,73,33,37,0,Foul on Deuce Johnson
+CS Fullerton,Stanford,55,74,33,37,1,Dwight Powell made Free Throw.
+CS Fullerton,Stanford,55,75,33,37,1,Dwight Powell made Free Throw.
+CS Fullerton,Stanford,55,75,33,52,0,Kwame Vaughn missed Jumper.
+CS Fullerton,Stanford,55,75,33,52,0,Dwight Powell Defensive Rebound.
+CS Fullerton,Stanford,55,75,34,17,0,Chasson Randle missed Jumper.
+CS Fullerton,Stanford,55,75,34,17,0,Chasson Randle Offensive Rebound.
+CS Fullerton,Stanford,55,77,34,20,1,Chasson Randle made Layup.
+CS Fullerton,Stanford,55,77,34,29,0,Cal State Fullerton Full Timeout.
+CS Fullerton,Stanford,55,77,34,48,0,Kwame Vaughn Turnover.
+CS Fullerton,Stanford,55,77,34,49,0,Andy Brown Steal.
+CS Fullerton,Stanford,55,79,34,57,1,Chasson Randle made Layup.
+CS Fullerton,Stanford,57,79,35,19,1,Jared Brandon made Layup.
+CS Fullerton,Stanford,57,79,35,28,0,Dwight Powell missed Jumper.
+CS Fullerton,Stanford,57,79,35,28,0,Stanford Offensive Rebound.
+CS Fullerton,Stanford,57,79,35,36,0,Josh Huestis missed Three Point Jumper.
+CS Fullerton,Stanford,57,79,35,36,0,Gabriel Harris Defensive Rebound.
+CS Fullerton,Stanford,60,79,35,54,1,Sammy Yeager made Three Point Jumper.
+CS Fullerton,Stanford,60,79,36,3,0,Josh Huestis missed Three Point Jumper.
+CS Fullerton,Stanford,60,79,36,3,0,Marquis Horne Defensive Rebound.
+CS Fullerton,Stanford,63,79,36,10,1,Kwame Vaughn made Three Point Jumper.
+CS Fullerton,Stanford,63,79,36,25,0,Stanford Full Timeout.
+CS Fullerton,Stanford,63,79,36,47,0,Foul on Chasson Randle
+CS Fullerton,Stanford,63,79,36,47,0,Chasson Randle Turnover.
+CS Fullerton,Stanford,63,79,36,47,0,Official TV Timeout.
+CS Fullerton,Stanford,63,79,36,59,0,Alex Harris missed Layup.
+CS Fullerton,Stanford,63,79,36,59,0,Dwight Powell Defensive Rebound.
+CS Fullerton,Stanford,63,79,37,15,0,Dwight Powell Turnover.
+CS Fullerton,Stanford,63,79,37,18,0,Kwame Vaughn Steal.
+CS Fullerton,Stanford,63,79,37,22,0,Foul on Andy Brown
+CS Fullerton,Stanford,63,79,37,22,0,Marquis Horne missed Free Throw.
+CS Fullerton,Stanford,63,79,37,22,0,null
+CS Fullerton,Stanford,64,79,37,22,1,Marquis Horne made Free Throw.
+CS Fullerton,Stanford,64,79,37,38,0,Foul on Aaron Bright
+CS Fullerton,Stanford,64,79,37,38,0,Aaron Bright Turnover.
+CS Fullerton,Stanford,64,79,37,57,0,Sammy Yeager missed Jumper.
+CS Fullerton,Stanford,64,79,37,57,0,Josh Huestis Defensive Rebound.
+CS Fullerton,Stanford,64,79,38,31,0,Andy Brown Turnover.
+CS Fullerton,Stanford,66,79,38,52,1,Sammy Yeager made Jumper.
+CS Fullerton,Stanford,66,79,38,58,0,Foul on Sammy Yeager
+CS Fullerton,Stanford,66,79,38,58,0,Chasson Randle missed Free Throw.
+CS Fullerton,Stanford,66,79,38,58,0,null
+CS Fullerton,Stanford,66,79,38,58,0,Chasson Randle missed Free Throw.
+CS Fullerton,Stanford,66,79,38,58,0,Kwame Vaughn Defensive Rebound.
+CS Fullerton,Stanford,66,79,39,8,0,Alex Harris missed Three Point Jumper.
+CS Fullerton,Stanford,66,79,39,8,0,Aaron Bright Defensive Rebound.
+CS Fullerton,Stanford,66,79,39,10,0,Foul on Marquis Horne
+CS Fullerton,Stanford,66,80,39,10,1,Chasson Randle made Free Throw.
+CS Fullerton,Stanford,66,81,39,10,1,Chasson Randle made Free Throw.
+CS Fullerton,Stanford,66,81,39,23,0,Alex Harris missed Jumper.
+CS Fullerton,Stanford,66,81,39,23,0,null
+CS Fullerton,Stanford,66,81,39,25,0,Foul on Grant Verhoeven
+CS Fullerton,Stanford,67,81,39,25,1,Jared Brandon made Free Throw.
+CS Fullerton,Stanford,68,81,39,25,1,Jared Brandon made Free Throw.
+CS Fullerton,Stanford,68,81,40,0,0,End Game

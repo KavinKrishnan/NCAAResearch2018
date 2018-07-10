@@ -1,0 +1,330 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Boston College,Duke,0,0,0,20,0,Patrick Heckmann Turnover.
+Boston College,Duke,0,0,0,20,0,Josh Hairston Steal.
+Boston College,Duke,0,0,0,27,0,Rasheed Sulaimon missed Jumper.
+Boston College,Duke,0,0,0,27,0,Dennis Clifford Defensive Rebound.
+Boston College,Duke,0,0,0,46,0,Joe Rahon Turnover.
+Boston College,Duke,0,0,1,18,0,Josh Hairston missed Jumper.
+Boston College,Duke,0,0,1,18,0,Joe Rahon Defensive Rebound.
+Boston College,Duke,0,0,1,36,0,Foul on Josh Hairston
+Boston College,Duke,0,0,1,36,0,Ryan Anderson missed Free Throw.
+Boston College,Duke,0,0,1,36,0,null
+Boston College,Duke,1,0,1,36,1,Ryan Anderson made Free Throw.
+Boston College,Duke,1,3,1,43,1,Seth Curry made Three Point Jumper.  Assisted by Josh Hairston.
+Boston College,Duke,1,3,2,12,0,Olivier Hanlan missed Jumper.
+Boston College,Duke,1,3,2,12,0,Eddie Odio Offensive Rebound.
+Boston College,Duke,3,3,2,15,1,Eddie Odio made Layup.
+Boston College,Duke,3,3,2,29,0,Seth Curry Turnover.
+Boston College,Duke,3,3,2,30,0,Olivier Hanlan Steal.
+Boston College,Duke,5,3,2,34,1,Patrick Heckmann made Layup.  Assisted by Joe Rahon.
+Boston College,Duke,5,3,2,54,0,Seth Curry Turnover.
+Boston College,Duke,5,3,3,11,0,Ryan Anderson missed Dunk.
+Boston College,Duke,5,3,3,11,0,Mason Plumlee Block.
+Boston College,Duke,5,3,3,13,0,Rasheed Sulaimon Defensive Rebound.
+Boston College,Duke,5,5,3,26,1,Amile Jefferson made Layup.
+Boston College,Duke,5,5,3,39,0,Eddie Odio missed Three Point Jumper.
+Boston College,Duke,5,5,3,39,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,5,5,3,51,0,Rasheed Sulaimon missed Three Point Jumper.
+Boston College,Duke,5,5,3,51,0,Tyler Thornton Offensive Rebound.
+Boston College,Duke,5,5,3,54,0,Quinn Cook missed Three Point Jumper.
+Boston College,Duke,5,5,3,54,0,Patrick Heckmann Defensive Rebound.
+Boston College,Duke,5,5,4,6,0,Ryan Anderson Turnover.
+Boston College,Duke,5,5,4,6,0,Amile Jefferson Steal.
+Boston College,Duke,5,5,4,9,0,Quinn Cook missed Jumper.
+Boston College,Duke,5,5,4,9,0,Quinn Cook Offensive Rebound.
+Boston College,Duke,5,5,4,15,0,Foul on Eddie Odio
+Boston College,Duke,5,5,4,15,0,Official TV Timeout.
+Boston College,Duke,5,6,4,15,1,Quinn Cook made Free Throw.
+Boston College,Duke,5,7,4,15,1,Quinn Cook made Free Throw.
+Boston College,Duke,5,7,4,24,0,Olivier Hanlan missed Three Point Jumper.
+Boston College,Duke,5,7,4,24,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,5,7,4,46,0,Foul on Ryan Anderson
+Boston College,Duke,5,7,4,46,0,Mason Plumlee missed Free Throw.
+Boston College,Duke,5,7,4,46,0,null
+Boston College,Duke,5,8,4,46,1,Mason Plumlee made Free Throw.
+Boston College,Duke,5,8,4,56,0,Foul on Tyler Thornton
+Boston College,Duke,5,8,5,4,0,Lonnie Jackson Turnover.
+Boston College,Duke,5,10,5,4,0,Quinn Cook Steal.
+Boston College,Duke,5,8,5,12,0,Seth Curry missed Three Point Jumper.
+Boston College,Duke,5,8,5,12,0,Olivier Hanlan Defensive Rebound.
+Boston College,Duke,5,8,5,40,0,Joe Rahon missed Three Point Jumper.
+Boston College,Duke,5,8,5,40,0,Quinn Cook Defensive Rebound.
+Boston College,Duke,5,10,6,1,1,Amile Jefferson made Jumper.
+Boston College,Duke,5,8,6,15,0,Quinn Cook Steal.
+Boston College,Duke,5,10,6,15,0,Joe Rahon Turnover.
+Boston College,Duke,5,12,6,21,1,Mason Plumlee made Layup.  Assisted by Quinn Cook.
+Boston College,Duke,5,12,6,21,0,Foul on Lonnie Jackson
+Boston College,Duke,5,12,6,21,0,Boston College Full Timeout.
+Boston College,Duke,5,13,6,21,1,Mason Plumlee made Free Throw.
+Boston College,Duke,5,13,6,27,0,Olivier Hanlan missed Jumper.
+Boston College,Duke,5,13,6,27,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,5,13,6,33,0,Seth Curry missed Jumper.
+Boston College,Duke,5,13,6,33,0,Andrew Van Nest Defensive Rebound.
+Boston College,Duke,5,13,6,50,0,Olivier Hanlan Turnover.
+Boston College,Duke,5,13,6,50,0,Foul on Olivier Hanlan
+Boston College,Duke,5,13,7,8,0,Foul on Joe Rahon
+Boston College,Duke,5,13,7,8,0,Mason Plumlee missed Free Throw.
+Boston College,Duke,5,13,7,8,0,null
+Boston College,Duke,5,13,7,8,0,Mason Plumlee missed Free Throw.
+Boston College,Duke,5,13,7,8,0,Andrew Van Nest Defensive Rebound.
+Boston College,Duke,5,13,7,27,0,Andrew Van Nest Turnover.
+Boston College,Duke,5,13,7,27,0,Mason Plumlee Steal.
+Boston College,Duke,5,13,7,27,0,Foul on Andrew Van Nest
+Boston College,Duke,5,13,7,36,0,Foul on Dennis Clifford
+Boston College,Duke,5,14,7,36,1,Mason Plumlee made Free Throw.
+Boston College,Duke,5,15,7,36,1,Mason Plumlee made Free Throw.
+Boston College,Duke,5,15,7,56,0,Foul on Seth Curry
+Boston College,Duke,6,15,7,56,1,Joe Rahon made Free Throw.
+Boston College,Duke,6,15,7,56,0,Joe Rahon missed Free Throw.
+Boston College,Duke,6,15,7,56,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,6,17,8,8,1,Mason Plumlee made Dunk.
+Boston College,Duke,8,17,8,33,1,Ryan Anderson made Jumper.  Assisted by Joe Rahon.
+Boston College,Duke,8,17,8,58,0,Mason Plumlee missed Jumper.
+Boston College,Duke,8,17,8,58,0,Lonnie Jackson Defensive Rebound.
+Boston College,Duke,8,17,9,18,0,Eddie Odio missed Layup.
+Boston College,Duke,8,17,9,18,0,Ryan Anderson Offensive Rebound.
+Boston College,Duke,8,17,9,21,0,Foul on Rasheed Sulaimon
+Boston College,Duke,8,17,9,21,0,Official TV Timeout.
+Boston College,Duke,8,17,9,21,0,Ryan Anderson missed Free Throw.
+Boston College,Duke,8,17,9,21,0,null
+Boston College,Duke,9,17,9,21,1,Ryan Anderson made Free Throw.
+Boston College,Duke,9,20,9,39,1,Quinn Cook made Three Point Jumper.  Assisted by Mason Plumlee.
+Boston College,Duke,9,20,9,55,0,Lonnie Jackson Turnover.
+Boston College,Duke,9,20,9,56,0,Mason Plumlee Steal.
+Boston College,Duke,9,22,9,59,1,Quinn Cook made Layup.  Assisted by Mason Plumlee.
+Boston College,Duke,9,22,10,27,0,Eddie Odio missed Jumper.
+Boston College,Duke,9,22,10,27,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,9,22,10,40,0,Amile Jefferson missed Jumper.
+Boston College,Duke,9,22,10,40,0,Joe Rahon Defensive Rebound.
+Boston College,Duke,9,22,11,4,0,Foul on Quinn Cook
+Boston College,Duke,9,22,11,10,0,Patrick Heckmann missed Layup.
+Boston College,Duke,9,22,11,10,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,9,24,11,19,1,Rasheed Sulaimon made Layup.  Assisted by Seth Curry.
+Boston College,Duke,9,24,11,22,0,Boston College Full Timeout.
+Boston College,Duke,9,24,11,37,0,Olivier Hanlan Turnover.
+Boston College,Duke,9,24,11,47,0,Mason Plumlee Turnover.
+Boston College,Duke,9,24,11,47,0,Foul on Mason Plumlee
+Boston College,Duke,9,24,12,12,0,Ryan Anderson Turnover.
+Boston College,Duke,9,24,12,12,0,Official TV Timeout.
+Boston College,Duke,9,26,12,18,1,Seth Curry made Jumper.
+Boston College,Duke,9,26,12,30,0,Eddie Odio Turnover.
+Boston College,Duke,9,26,12,30,0,Foul on Eddie Odio
+Boston College,Duke,9,26,12,48,0,Josh Hairston missed Jumper.
+Boston College,Duke,9,26,12,48,0,Lonnie Jackson Defensive Rebound.
+Boston College,Duke,11,26,13,3,1,Andrew Van Nest made Jumper.
+Boston College,Duke,11,28,13,26,1,Seth Curry made Jumper.
+Boston College,Duke,11,28,13,27,0,Foul on Joe Rahon
+Boston College,Duke,11,29,13,27,1,Seth Curry made Free Throw.
+Boston College,Duke,11,29,13,49,0,Ryan Anderson missed Jumper.
+Boston College,Duke,11,29,13,49,0,Boston College Offensive Rebound.
+Boston College,Duke,11,29,13,52,0,Lonnie Jackson missed Jumper.
+Boston College,Duke,11,29,13,52,0,Amile Jefferson Block.
+Boston College,Duke,11,29,13,54,0,Olivier Hanlan Offensive Rebound.
+Boston College,Duke,13,29,14,10,1,Olivier Hanlan made Jumper.
+Boston College,Duke,13,32,14,34,1,Quinn Cook made Three Point Jumper.  Assisted by Rasheed Sulaimon.
+Boston College,Duke,13,32,14,53,0,Joe Rahon Turnover.
+Boston College,Duke,13,32,15,2,0,Rasheed Sulaimon missed Jumper.
+Boston College,Duke,13,32,15,2,0,Joe Rahon Defensive Rebound.
+Boston College,Duke,15,32,15,10,1,Ryan Anderson made Layup.  Assisted by Lonnie Jackson.
+Boston College,Duke,15,34,15,24,1,Rasheed Sulaimon made Jumper.
+Boston College,Duke,15,34,15,39,0,Foul on Josh Hairston
+Boston College,Duke,15,34,15,39,0,Eddie Odio missed Free Throw.
+Boston College,Duke,15,34,15,39,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,15,37,16,11,1,Rasheed Sulaimon made Three Point Jumper.  Assisted by Quinn Cook.
+Boston College,Duke,18,37,16,31,1,Patrick Heckmann made Three Point Jumper.  Assisted by Lonnie Jackson.
+Boston College,Duke,18,39,16,48,1,Rasheed Sulaimon made Jumper.
+Boston College,Duke,18,39,16,56,0,Foul on Quinn Cook
+Boston College,Duke,18,39,16,56,0,Official TV Timeout.
+Boston College,Duke,18,39,16,56,0,Joe Rahon missed Free Throw.
+Boston College,Duke,18,39,16,56,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,18,39,17,0,0,Mason Plumlee Turnover.
+Boston College,Duke,18,39,17,1,0,Patrick Heckmann Steal.
+Boston College,Duke,18,39,17,13,0,Joe Rahon missed Three Point Jumper.
+Boston College,Duke,18,39,17,13,0,Seth Curry Defensive Rebound.
+Boston College,Duke,18,41,17,39,1,Amile Jefferson made Layup.  Assisted by Rasheed Sulaimon.
+Boston College,Duke,18,41,17,39,0,Foul on Eddie Odio
+Boston College,Duke,18,42,17,39,1,Amile Jefferson made Free Throw.
+Boston College,Duke,18,42,17,54,0,Olivier Hanlan missed Jumper.
+Boston College,Duke,18,42,17,54,0,Olivier Hanlan Offensive Rebound.
+Boston College,Duke,18,42,17,57,0,Foul on Tyler Thornton
+Boston College,Duke,18,42,17,57,0,Olivier Hanlan missed Free Throw.
+Boston College,Duke,18,42,17,57,0,null
+Boston College,Duke,19,42,17,57,1,Olivier Hanlan made Free Throw.
+Boston College,Duke,19,44,18,10,1,Amile Jefferson made Layup.  Assisted by Mason Plumlee.
+Boston College,Duke,19,44,18,10,0,Foul on Patrick Heckmann
+Boston College,Duke,19,45,18,10,1,Amile Jefferson made Free Throw.
+Boston College,Duke,22,45,18,27,1,Patrick Heckmann made Three Point Jumper.  Assisted by Olivier Hanlan.
+Boston College,Duke,22,48,18,47,1,Rasheed Sulaimon made Three Point Jumper.  Assisted by Seth Curry.
+Boston College,Duke,22,48,19,7,0,Patrick Heckmann Turnover.
+Boston College,Duke,22,48,19,8,0,Seth Curry Steal.
+Boston College,Duke,22,50,19,15,1,Rasheed Sulaimon made Layup.
+Boston College,Duke,22,50,19,15,0,Foul on Danny Rubin
+Boston College,Duke,22,51,19,15,1,Rasheed Sulaimon made Free Throw.
+Boston College,Duke,25,51,19,31,1,Olivier Hanlan made Three Point Jumper.  Assisted by Ryan Anderson.
+Boston College,Duke,25,51,19,33,0,Duke Full Timeout.
+Boston College,Duke,25,51,19,56,0,Rasheed Sulaimon Turnover.
+Boston College,Duke,25,51,19,56,0,Foul on Rasheed Sulaimon
+Boston College,Duke,27,51,19,58,1,Ryan Anderson made Jumper.
+Boston College,Duke,27,51,20,0,0,End of the 1st Half.
+Boston College,Duke,27,51,20,23,0,Mason Plumlee missed Jumper.
+Boston College,Duke,27,51,20,23,0,Josh Hairston Offensive Rebound.
+Boston College,Duke,27,51,20,24,0,Foul on Dennis Clifford
+Boston College,Duke,27,52,20,24,1,Josh Hairston made Free Throw.
+Boston College,Duke,27,52,20,24,0,Josh Hairston missed Free Throw.
+Boston College,Duke,27,52,20,24,0,Ryan Anderson Defensive Rebound.
+Boston College,Duke,27,52,20,48,0,Olivier Hanlan missed Jumper.
+Boston College,Duke,27,52,20,48,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,27,55,21,16,1,Rasheed Sulaimon made Three Point Jumper.  Assisted by Mason Plumlee.
+Boston College,Duke,27,55,21,40,0,Olivier Hanlan missed Three Point Jumper.
+Boston College,Duke,27,55,21,40,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,27,55,21,56,0,Foul on Olivier Hanlan
+Boston College,Duke,27,55,21,58,0,Quinn Cook missed Three Point Jumper.
+Boston College,Duke,27,55,21,58,0,Patrick Heckmann Defensive Rebound.
+Boston College,Duke,29,55,22,8,1,Ryan Anderson made Layup.  Assisted by Olivier Hanlan.
+Boston College,Duke,29,57,22,31,1,Mason Plumlee made Jumper.
+Boston College,Duke,29,57,22,51,0,Foul on Mason Plumlee
+Boston College,Duke,29,57,22,51,0,Ryan Anderson missed Free Throw.
+Boston College,Duke,29,57,22,51,0,null
+Boston College,Duke,30,57,22,51,1,Ryan Anderson made Free Throw.
+Boston College,Duke,30,60,23,9,1,Seth Curry made Three Point Jumper.  Assisted by Quinn Cook.
+Boston College,Duke,32,60,23,32,1,Olivier Hanlan made Jumper.
+Boston College,Duke,32,60,24,1,0,Quinn Cook Turnover.
+Boston College,Duke,32,60,24,2,0,Patrick Heckmann Steal.
+Boston College,Duke,34,60,24,14,1,Ryan Anderson made Layup.  Assisted by Patrick Heckmann.
+Boston College,Duke,34,60,24,33,0,Seth Curry Turnover.
+Boston College,Duke,34,60,24,33,0,Patrick Heckmann Steal.
+Boston College,Duke,36,60,24,42,1,Olivier Hanlan made Layup.
+Boston College,Duke,36,60,24,44,0,Duke Full Timeout.
+Boston College,Duke,36,60,24,50,0,Tyler Thornton missed Three Point Jumper.
+Boston College,Duke,36,60,24,50,0,Joe Rahon Defensive Rebound.
+Boston College,Duke,36,60,25,18,0,Foul on Quinn Cook
+Boston College,Duke,36,60,25,18,0,Official TV Timeout.
+Boston College,Duke,36,60,25,18,0,Foul on Olivier Hanlan
+Boston College,Duke,36,61,25,18,1,Quinn Cook made Free Throw.
+Boston College,Duke,36,62,25,18,1,Quinn Cook made Free Throw.
+Boston College,Duke,36,64,25,26,1,Rasheed Sulaimon made Layup.
+Boston College,Duke,36,64,25,40,0,Olivier Hanlan Turnover.
+Boston College,Duke,36,64,25,40,0,Foul on Olivier Hanlan
+Boston College,Duke,36,66,25,54,1,Amile Jefferson made Layup.  Assisted by Rasheed Sulaimon.
+Boston College,Duke,36,66,25,54,0,Foul on Ryan Anderson
+Boston College,Duke,36,67,25,54,1,Amile Jefferson made Free Throw.
+Boston College,Duke,38,67,26,22,1,Joe Rahon made Jumper.
+Boston College,Duke,38,67,26,57,0,Amile Jefferson missed Layup.
+Boston College,Duke,38,67,26,57,0,Andrew Van Nest Defensive Rebound.
+Boston College,Duke,38,67,27,10,0,Foul on Amile Jefferson
+Boston College,Duke,38,67,27,12,0,Foul on Tyler Thornton
+Boston College,Duke,38,67,27,32,0,Foul on Alex Murphy
+Boston College,Duke,41,67,27,44,1,Lonnie Jackson made Three Point Jumper.  Assisted by Joe Rahon.
+Boston College,Duke,41,67,27,58,0,Seth Curry missed Three Point Jumper.
+Boston College,Duke,41,67,27,58,0,Lonnie Jackson Defensive Rebound.
+Boston College,Duke,41,67,28,7,0,Lonnie Jackson Turnover.
+Boston College,Duke,41,67,28,7,0,Official TV Timeout.
+Boston College,Duke,41,67,28,25,0,Alex Murphy missed Three Point Jumper.
+Boston College,Duke,41,67,28,25,0,Joe Rahon Defensive Rebound.
+Boston College,Duke,41,67,28,34,0,Lonnie Jackson missed Three Point Jumper.
+Boston College,Duke,41,67,28,34,0,Ryan Anderson Offensive Rebound.
+Boston College,Duke,43,67,28,44,1,Ryan Anderson made Layup.
+Boston College,Duke,43,67,28,44,0,Foul on Amile Jefferson
+Boston College,Duke,44,67,28,44,1,Ryan Anderson made Free Throw.
+Boston College,Duke,44,67,29,6,0,Mason Plumlee Turnover.
+Boston College,Duke,44,67,29,6,0,Andrew Van Nest Steal.
+Boston College,Duke,46,67,29,26,1,Andrew Van Nest made Layup.  Assisted by Lonnie Jackson.
+Boston College,Duke,46,69,29,48,1,Rasheed Sulaimon made Jumper.
+Boston College,Duke,46,69,29,48,0,Foul on Eddie Odio
+Boston College,Duke,46,70,29,48,1,Rasheed Sulaimon made Free Throw.
+Boston College,Duke,46,70,30,11,0,Ryan Anderson missed Jumper.
+Boston College,Duke,46,70,30,11,0,Alex Murphy Defensive Rebound.
+Boston College,Duke,46,70,30,29,0,Rasheed Sulaimon missed Layup.
+Boston College,Duke,46,70,30,29,0,Josh Hairston Offensive Rebound.
+Boston College,Duke,46,72,30,31,1,Josh Hairston made Tip Shot.
+Boston College,Duke,48,72,30,46,1,Ryan Anderson made Layup.  Assisted by Joe Rahon.
+Boston College,Duke,48,72,31,1,0,Foul on Andrew Van Nest
+Boston College,Duke,48,73,31,1,1,Alex Murphy made Free Throw.
+Boston College,Duke,48,73,31,1,0,Alex Murphy missed Free Throw.
+Boston College,Duke,48,73,31,1,0,Andrew Van Nest Defensive Rebound.
+Boston College,Duke,48,73,31,9,0,Foul on Alex Murphy
+Boston College,Duke,49,73,31,9,1,Joe Rahon made Free Throw.
+Boston College,Duke,49,73,31,9,0,Joe Rahon missed Free Throw.
+Boston College,Duke,49,73,31,9,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,49,73,31,24,0,Foul on Andrew Van Nest
+Boston College,Duke,49,74,31,24,1,Mason Plumlee made Free Throw.
+Boston College,Duke,49,75,31,24,1,Mason Plumlee made Free Throw.
+Boston College,Duke,52,75,31,30,1,Eddie Odio made Three Point Jumper.  Assisted by Olivier Hanlan.
+Boston College,Duke,52,75,31,47,0,Mason Plumlee Turnover.
+Boston College,Duke,52,75,31,48,0,Olivier Hanlan Steal.
+Boston College,Duke,52,75,31,56,0,Ryan Anderson missed Jumper.
+Boston College,Duke,52,75,31,56,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,52,75,32,27,0,Quinn Cook missed Jumper.
+Boston College,Duke,52,75,32,27,0,Mason Plumlee Offensive Rebound.
+Boston College,Duke,52,75,32,30,0,Mason Plumlee missed Tip Shot.
+Boston College,Duke,52,75,32,30,0,Mason Plumlee Offensive Rebound.
+Boston College,Duke,52,75,32,33,0,Foul on Eddie Odio
+Boston College,Duke,52,75,32,33,0,Official TV Timeout.
+Boston College,Duke,52,76,32,33,1,Mason Plumlee made Free Throw.
+Boston College,Duke,52,76,32,33,0,Mason Plumlee missed Free Throw.
+Boston College,Duke,52,76,32,33,0,Lonnie Jackson Defensive Rebound.
+Boston College,Duke,54,76,32,52,1,Ryan Anderson made Layup.
+Boston College,Duke,54,76,32,52,0,Foul on Amile Jefferson
+Boston College,Duke,55,76,32,52,1,Ryan Anderson made Free Throw.
+Boston College,Duke,55,76,33,2,0,Rasheed Sulaimon missed Three Point Jumper.
+Boston College,Duke,55,76,33,2,0,Joe Rahon Defensive Rebound.
+Boston College,Duke,55,76,33,14,0,Lonnie Jackson missed Three Point Jumper.
+Boston College,Duke,55,76,33,14,0,Rasheed Sulaimon Defensive Rebound.
+Boston College,Duke,55,76,33,16,0,Foul on Danny Rubin
+Boston College,Duke,55,77,33,16,1,Rasheed Sulaimon made Free Throw.
+Boston College,Duke,55,78,33,16,1,Rasheed Sulaimon made Free Throw.
+Boston College,Duke,57,78,33,38,1,Olivier Hanlan made Jumper.
+Boston College,Duke,57,78,34,3,0,Foul on Andrew Van Nest
+Boston College,Duke,57,79,34,3,1,Mason Plumlee made Free Throw.
+Boston College,Duke,57,80,34,3,1,Mason Plumlee made Free Throw.
+Boston College,Duke,57,80,34,10,0,Olivier Hanlan Turnover.
+Boston College,Duke,57,80,34,29,0,Foul on Andrew Van Nest
+Boston College,Duke,57,81,34,29,1,Mason Plumlee made Free Throw.
+Boston College,Duke,57,82,34,29,1,Mason Plumlee made Free Throw.
+Boston College,Duke,57,82,34,39,0,Joe Rahon missed Jumper.
+Boston College,Duke,57,82,34,39,0,Boston College Offensive Rebound.
+Boston College,Duke,57,82,34,46,0,Ryan Anderson missed Jumper.
+Boston College,Duke,57,82,34,46,0,Quinn Cook Defensive Rebound.
+Boston College,Duke,57,82,35,0,0,Mason Plumlee Turnover.
+Boston College,Duke,57,82,35,0,0,Foul on Mason Plumlee
+Boston College,Duke,57,82,35,9,0,Olivier Hanlan missed Jumper.
+Boston College,Duke,57,82,35,9,0,Rasheed Sulaimon Defensive Rebound.
+Boston College,Duke,57,84,35,28,1,Rasheed Sulaimon made Jumper.
+Boston College,Duke,57,84,35,52,0,Olivier Hanlan missed Jumper.
+Boston College,Duke,57,84,35,52,0,Tyler Thornton Defensive Rebound.
+Boston College,Duke,57,86,35,59,1,Mason Plumlee made Dunk.  Assisted by Tyler Thornton.
+Boston College,Duke,57,86,36,25,0,Joe Rahon missed Jumper.
+Boston College,Duke,57,86,36,25,0,Mason Plumlee Defensive Rebound.
+Boston College,Duke,57,86,36,37,0,Rasheed Sulaimon Turnover.
+Boston College,Duke,57,86,36,37,0,Official TV Timeout.
+Boston College,Duke,57,86,36,51,0,Foul on Quinn Cook
+Boston College,Duke,58,86,36,51,1,Joe Rahon made Free Throw.
+Boston College,Duke,59,86,36,51,1,Joe Rahon made Free Throw.
+Boston College,Duke,59,86,37,3,0,Foul on Danny Rubin
+Boston College,Duke,59,87,37,3,1,Amile Jefferson made Free Throw.
+Boston College,Duke,59,87,37,3,0,Amile Jefferson missed Free Throw.
+Boston College,Duke,59,87,37,3,0,Patrick Heckmann Defensive Rebound.
+Boston College,Duke,59,87,37,20,0,Foul on Alex Murphy
+Boston College,Duke,60,87,37,20,1,Ryan Anderson made Free Throw.
+Boston College,Duke,61,87,37,20,1,Ryan Anderson made Free Throw.
+Boston College,Duke,61,87,37,31,0,Quinn Cook missed Layup.
+Boston College,Duke,61,87,37,31,0,Patrick Heckmann Block.
+Boston College,Duke,61,87,37,34,0,Alex Murphy Offensive Rebound.
+Boston College,Duke,61,87,37,48,0,Quinn Cook missed Jumper.
+Boston College,Duke,61,87,37,48,0,Amile Jefferson Offensive Rebound.
+Boston College,Duke,61,89,37,55,1,Alex Murphy made Layup.  Assisted by Amile Jefferson.
+Boston College,Duke,63,89,38,13,1,Patrick Heckmann made Layup.
+Boston College,Duke,63,89,38,42,0,Tyler Thornton Turnover.
+Boston College,Duke,63,89,38,43,0,Patrick Heckmann Steal.
+Boston College,Duke,65,89,38,47,1,Patrick Heckmann made Layup.
+Boston College,Duke,65,89,38,47,0,Foul on Amile Jefferson
+Boston College,Duke,66,89,38,47,1,Patrick Heckmann made Free Throw.
+Boston College,Duke,66,89,39,0,0,Marshall Plumlee missed Layup.
+Boston College,Duke,66,89,39,0,0,Marshall Plumlee Offensive Rebound.
+Boston College,Duke,66,89,39,11,0,Marshall Plumlee Turnover.
+Boston College,Duke,66,89,39,20,0,Patrick Heckmann missed Three Point Jumper.
+Boston College,Duke,66,89,39,20,0,Patrick Heckmann Offensive Rebound.
+Boston College,Duke,66,89,39,26,0,Foul on Amile Jefferson
+Boston College,Duke,67,89,39,26,1,Patrick Heckmann made Free Throw.
+Boston College,Duke,68,89,39,26,1,Patrick Heckmann made Free Throw.
+Boston College,Duke,68,89,40,0,0,End Game

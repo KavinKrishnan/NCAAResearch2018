@@ -1,0 +1,360 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Gonzaga,BYU,0,0,0,0,0,Jump Ball won by Gonzaga
+Gonzaga,BYU,0,0,0,28,0,Foul on Josh Sharp.
+Gonzaga,BYU,1,0,0,28,1,Przemek Karnowski made Free Throw.
+Gonzaga,BYU,1,0,0,28,0,Przemek Karnowski missed Free Throw.
+Gonzaga,BYU,1,0,0,28,0,Josh Sharp Defensive Rebound.
+Gonzaga,BYU,1,2,0,46,1,Kyle Collinsworth made Jumper. Assisted by Tyler Haws.
+Gonzaga,BYU,1,2,0,54,0,David Stockton missed Layup.
+Gonzaga,BYU,1,2,0,54,0,Nate Austin Block.
+Gonzaga,BYU,1,2,0,54,0,Nate Austin Defensive Rebound.
+Gonzaga,BYU,1,4,1,0,1,Anson Winder made Layup. Assisted by Tyler Haws.
+Gonzaga,BYU,3,4,1,10,1,Przemek Karnowski made Layup. Assisted by Sam Dower.
+Gonzaga,BYU,3,7,1,28,1,Anson Winder made Three Point Jumper. Assisted by Kyle Collinsworth.
+Gonzaga,BYU,3,7,1,38,0,Kevin Pangos Turnover.
+Gonzaga,BYU,3,7,1,38,0,Tyler Haws Steal.
+Gonzaga,BYU,3,9,1,45,1,Kyle Collinsworth made Layup. Assisted by Anson Winder.
+Gonzaga,BYU,5,9,2,6,1,Sam Dower made Dunk.
+Gonzaga,BYU,5,9,2,22,0,Tyler Haws missed Three Point Jumper.
+Gonzaga,BYU,5,9,2,22,0,Gonzaga Defensive Rebound.
+Gonzaga,BYU,7,9,2,54,1,Przemek Karnowski made Layup. Assisted by David Stockton.
+Gonzaga,BYU,7,9,2,54,0,Foul on Josh Sharp.
+Gonzaga,BYU,7,9,2,54,0,Przemek Karnowski missed Free Throw.
+Gonzaga,BYU,7,9,2,54,0,BYU Defensive Rebound.
+Gonzaga,BYU,7,9,3,4,0,Foul on Przemek Karnowski.
+Gonzaga,BYU,7,10,3,4,1,Eric Mika made Free Throw.
+Gonzaga,BYU,7,11,3,4,1,Eric Mika made Free Throw.
+Gonzaga,BYU,7,11,3,29,0,Foul on David Stockton.
+Gonzaga,BYU,7,11,3,29,0,David Stockton Turnover.
+Gonzaga,BYU,7,11,3,42,0,Anson Winder Turnover.
+Gonzaga,BYU,7,11,3,42,0,David Stockton Steal.
+Gonzaga,BYU,7,11,3,54,0,Kevin Pangos missed Three Point Jumper.
+Gonzaga,BYU,7,11,3,54,0,Gary Bell Jr. Offensive Rebound.
+Gonzaga,BYU,9,11,4,1,1,Sam Dower made Layup. Assisted by Gary Bell Jr..
+Gonzaga,BYU,9,11,4,6,0,Eric Mika Turnover.
+Gonzaga,BYU,9,11,4,6,0,Official TV Timeout
+Gonzaga,BYU,9,11,4,28,0,Foul on Eric Mika.
+Gonzaga,BYU,10,11,4,28,1,David Stockton made Free Throw.
+Gonzaga,BYU,11,11,4,28,1,David Stockton made Free Throw.
+Gonzaga,BYU,11,11,4,40,0,Kyle Collinsworth missed Jumper.
+Gonzaga,BYU,11,11,4,40,0,Sam Dower Block.
+Gonzaga,BYU,11,11,4,40,0,Gary Bell Jr. Defensive Rebound.
+Gonzaga,BYU,13,11,4,49,1,Gary Bell Jr. made Layup.
+Gonzaga,BYU,13,11,4,53,0,Kyle Collinsworth missed Layup.
+Gonzaga,BYU,13,11,4,53,0,Eric Mika Offensive Rebound.
+Gonzaga,BYU,13,11,4,57,0,Foul on Drew Barham.
+Gonzaga,BYU,13,11,4,57,0,Eric Mika missed Free Throw.
+Gonzaga,BYU,13,11,4,57,0,BYU Deadball Team Rebound.
+Gonzaga,BYU,13,11,4,57,0,Eric Mika missed Free Throw.
+Gonzaga,BYU,13,11,4,57,0,Sam Dower Defensive Rebound.
+Gonzaga,BYU,13,11,5,26,0,Kyle Dranginis missed Three Point Jumper.
+Gonzaga,BYU,13,11,5,26,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,13,14,5,43,1,Matt Carlino made Three Point Jumper. Assisted by Kyle Collinsworth.
+Gonzaga,BYU,13,14,5,57,0,Drew Barham missed Three Point Jumper.
+Gonzaga,BYU,13,14,5,57,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,13,14,6,0,0,Foul on Kyle Dranginis.
+Gonzaga,BYU,13,14,6,14,0,Foul on Kevin Pangos.
+Gonzaga,BYU,13,14,6,14,0,Eric Mika missed Free Throw.
+Gonzaga,BYU,13,14,6,14,0,BYU Deadball Team Rebound.
+Gonzaga,BYU,13,15,6,14,1,Eric Mika made Free Throw.
+Gonzaga,BYU,13,15,6,30,0,David Stockton Turnover.
+Gonzaga,BYU,13,15,6,30,0,Kyle Collinsworth Steal.
+Gonzaga,BYU,13,15,6,38,0,Matt Carlino missed Jumper.
+Gonzaga,BYU,13,15,6,38,0,Kyle Dranginis Defensive Rebound.
+Gonzaga,BYU,15,15,7,6,1,Przemek Karnowski made Dunk. Assisted by Kevin Pangos.
+Gonzaga,BYU,15,15,7,15,0,Foul on Tyler Haws.
+Gonzaga,BYU,15,15,7,15,0,Tyler Haws Turnover.
+Gonzaga,BYU,15,15,7,27,0,Drew Barham Turnover.
+Gonzaga,BYU,15,15,7,27,0,Matt Carlino Steal.
+Gonzaga,BYU,15,17,7,31,1,Skyler Halford made Jumper. Assisted by Matt Carlino.
+Gonzaga,BYU,15,17,7,48,0,Foul on Matt Carlino.
+Gonzaga,BYU,15,17,7,52,0,Foul on Luke Worthington.
+Gonzaga,BYU,15,17,7,58,0,Kevin Pangos Turnover.
+Gonzaga,BYU,15,17,7,58,0,Matt Carlino Steal.
+Gonzaga,BYU,15,19,8,2,1,Skyler Halford made Layup. Assisted by Matt Carlino.
+Gonzaga,BYU,15,19,8,20,0,Gary Bell Jr. missed Three Point Jumper.
+Gonzaga,BYU,15,19,8,20,0,Skyler Halford Defensive Rebound.
+Gonzaga,BYU,15,21,8,43,1,Tyler Haws made Jumper.
+Gonzaga,BYU,15,21,9,17,0,Foul on Nate Austin.
+Gonzaga,BYU,15,21,9,17,0,Official TV Timeout
+Gonzaga,BYU,15,21,9,17,0,Przemek Karnowski missed Free Throw.
+Gonzaga,BYU,15,21,9,17,0,Gonzaga Deadball Team Rebound.
+Gonzaga,BYU,16,21,9,17,1,Przemek Karnowski made Free Throw.
+Gonzaga,BYU,16,21,9,29,0,Foul on Przemek Karnowski.
+Gonzaga,BYU,16,22,9,29,1,Eric Mika made Free Throw.
+Gonzaga,BYU,16,23,9,29,1,Eric Mika made Free Throw.
+Gonzaga,BYU,16,23,9,47,0,Angel Nunez missed Jumper.
+Gonzaga,BYU,16,23,9,47,0,Skyler Halford Defensive Rebound.
+Gonzaga,BYU,16,23,10,12,0,Nate Austin Turnover.
+Gonzaga,BYU,16,23,10,12,0,Kyle Dranginis Steal.
+Gonzaga,BYU,16,23,10,26,0,Gary Bell Jr. missed Three Point Jumper.
+Gonzaga,BYU,16,23,10,26,0,Sam Dower Offensive Rebound.
+Gonzaga,BYU,16,23,10,30,0,Foul on Tyler Haws.
+Gonzaga,BYU,17,23,10,30,1,Sam Dower made Free Throw.
+Gonzaga,BYU,18,23,10,30,1,Sam Dower made Free Throw.
+Gonzaga,BYU,18,26,10,44,1,Matt Carlino made Three Point Jumper. Assisted by Kyle Collinsworth.
+Gonzaga,BYU,18,26,11,13,0,David Stockton missed Three Point Jumper.
+Gonzaga,BYU,18,26,11,13,0,Kyle Dranginis Offensive Rebound.
+Gonzaga,BYU,18,26,11,23,0,Sam Dower missed Layup.
+Gonzaga,BYU,18,26,11,23,0,Nate Austin Block.
+Gonzaga,BYU,18,26,11,23,0,Skyler Halford Defensive Rebound.
+Gonzaga,BYU,18,28,11,41,1,Eric Mika made Layup. Assisted by Skyler Halford.
+Gonzaga,BYU,18,28,11,41,0,Foul on Sam Dower.
+Gonzaga,BYU,18,28,11,41,0,Gonzaga  Timeout
+Gonzaga,BYU,18,28,11,41,0,Eric Mika missed Free Throw.
+Gonzaga,BYU,18,28,11,41,0,Sam Dower Defensive Rebound.
+Gonzaga,BYU,21,28,11,54,1,Gary Bell Jr. made Three Point Jumper. Assisted by Kyle Dranginis.
+Gonzaga,BYU,21,28,12,8,0,Eric Mika Turnover.
+Gonzaga,BYU,21,28,12,8,0,Official TV Timeout
+Gonzaga,BYU,21,28,12,31,0,Kyle Dranginis Turnover.
+Gonzaga,BYU,21,28,12,31,0,Eric Mika Steal.
+Gonzaga,BYU,21,28,12,42,0,Eric Mika missed Layup.
+Gonzaga,BYU,21,28,12,42,0,Sam Dower Defensive Rebound.
+Gonzaga,BYU,21,28,12,51,0,Kevin Pangos missed Layup.
+Gonzaga,BYU,21,28,12,51,0,Josh Sharp Block.
+Gonzaga,BYU,21,28,12,51,0,Gary Bell Jr. Offensive Rebound.
+Gonzaga,BYU,21,28,13,0,0,David Stockton Turnover.
+Gonzaga,BYU,21,30,13,9,1,Kyle Collinsworth made Layup.
+Gonzaga,BYU,21,30,13,24,0,Foul on Josh Sharp.
+Gonzaga,BYU,22,30,13,24,1,Kevin Pangos made Free Throw.
+Gonzaga,BYU,22,30,13,24,0,Kevin Pangos missed Free Throw.
+Gonzaga,BYU,22,30,13,24,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,22,32,13,39,1,Eric Mika made Layup. Assisted by Matt Carlino.
+Gonzaga,BYU,22,32,14,2,0,Foul on Kyle Collinsworth.
+Gonzaga,BYU,23,32,14,2,1,Sam Dower made Free Throw.
+Gonzaga,BYU,24,32,14,2,1,Sam Dower made Free Throw.
+Gonzaga,BYU,24,32,14,24,0,Matt Carlino missed Three Point Jumper.
+Gonzaga,BYU,24,32,14,24,0,Eric Mika Offensive Rebound.
+Gonzaga,BYU,24,34,14,28,1,Eric Mika made Layup.
+Gonzaga,BYU,26,34,14,44,1,Sam Dower made Jumper. Assisted by Kevin Pangos.
+Gonzaga,BYU,26,34,14,54,0,Skyler Halford missed Three Point Jumper.
+Gonzaga,BYU,26,34,14,54,0,Kyle Collinsworth Offensive Rebound.
+Gonzaga,BYU,26,34,14,58,0,Foul on Sam Dower.
+Gonzaga,BYU,26,34,14,58,0,Kyle Collinsworth missed Free Throw.
+Gonzaga,BYU,26,34,14,58,0,BYU Deadball Team Rebound.
+Gonzaga,BYU,26,34,14,58,0,Kyle Collinsworth missed Free Throw.
+Gonzaga,BYU,26,34,14,58,0,Frank Bartley IV Offensive Rebound.
+Gonzaga,BYU,26,34,15,0,0,Frank Bartley IV missed Layup.
+Gonzaga,BYU,26,34,15,0,0,Sam Dower Block.
+Gonzaga,BYU,26,34,15,0,0,BYU Offensive Rebound.
+Gonzaga,BYU,26,34,15,3,0,Skyler Halford Turnover.
+Gonzaga,BYU,26,34,15,3,0,Kyle Dranginis Steal.
+Gonzaga,BYU,28,34,15,11,1,Gerard Coleman made Layup. Assisted by Kyle Dranginis.
+Gonzaga,BYU,28,34,15,44,0,BYU  Timeout
+Gonzaga,BYU,28,34,15,49,0,Matt Carlino missed Jumper.
+Gonzaga,BYU,28,34,15,49,0,Ryan Edwards Defensive Rebound.
+Gonzaga,BYU,28,34,16,2,0,Gary Bell Jr. missed Three Point Jumper.
+Gonzaga,BYU,28,34,16,2,0,Matt Carlino Defensive Rebound.
+Gonzaga,BYU,28,34,16,14,0,Kyle Collinsworth missed Jumper.
+Gonzaga,BYU,28,34,16,14,0,BYU Offensive Rebound.
+Gonzaga,BYU,28,34,16,17,0,Official TV Timeout
+Gonzaga,BYU,28,34,16,18,0,Matt Carlino Turnover.
+Gonzaga,BYU,28,34,16,18,0,Gary Bell Jr. Steal.
+Gonzaga,BYU,28,34,16,22,0,Foul on Anson Winder.
+Gonzaga,BYU,29,34,16,22,1,Kevin Pangos made Free Throw.
+Gonzaga,BYU,30,34,16,22,1,Kevin Pangos made Free Throw.
+Gonzaga,BYU,30,34,16,38,0,Eric Mika missed Jumper.
+Gonzaga,BYU,30,34,16,38,0,Gerard Coleman Defensive Rebound.
+Gonzaga,BYU,30,34,16,46,0,Kyle Dranginis missed Jumper.
+Gonzaga,BYU,30,34,16,46,0,Kyle Dranginis Offensive Rebound.
+Gonzaga,BYU,30,34,16,58,0,Gerard Coleman Turnover.
+Gonzaga,BYU,30,34,16,58,0,Tyler Haws Steal.
+Gonzaga,BYU,30,34,17,4,0,Matt Carlino missed Layup.
+Gonzaga,BYU,30,34,17,4,0,Ryan Edwards Defensive Rebound.
+Gonzaga,BYU,32,34,17,12,1,Gerard Coleman made Layup.
+Gonzaga,BYU,32,36,17,27,1,Tyler Haws made Jumper. Assisted by Matt Carlino.
+Gonzaga,BYU,32,36,18,1,0,Gary Bell Jr. missed Three Point Jumper.
+Gonzaga,BYU,32,36,18,1,0,Anson Winder Defensive Rebound.
+Gonzaga,BYU,32,36,18,13,0,Tyler Haws missed Jumper.
+Gonzaga,BYU,32,36,18,13,0,Ryan Edwards Defensive Rebound.
+Gonzaga,BYU,34,36,18,24,1,Gary Bell Jr. made Layup.
+Gonzaga,BYU,34,36,18,45,0,Nate Austin missed Jumper.
+Gonzaga,BYU,34,36,18,45,0,Ryan Edwards Defensive Rebound.
+Gonzaga,BYU,34,36,19,0,0,Gerard Coleman missed Jumper.
+Gonzaga,BYU,34,36,19,0,0,Ryan Edwards Offensive Rebound.
+Gonzaga,BYU,36,36,19,3,1,Ryan Edwards made Layup.
+Gonzaga,BYU,36,36,19,3,0,Foul on Nate Austin.
+Gonzaga,BYU,37,36,19,3,1,Ryan Edwards made Free Throw.
+Gonzaga,BYU,37,36,19,12,0,Foul on Ryan Edwards.
+Gonzaga,BYU,37,36,19,12,0,Frank Bartley IV missed Free Throw.
+Gonzaga,BYU,37,36,19,12,0,Gonzaga Defensive Rebound.
+Gonzaga,BYU,39,36,19,41,1,Ryan Edwards made Layup. Assisted by Kevin Pangos.
+Gonzaga,BYU,39,39,19,59,1,Tyler Haws made Three Point Jumper.
+Gonzaga,BYU,39,39,20,0,0,End of 1st half
+Gonzaga,BYU,39,39,20,0,0,Jump Ball won by BYU
+Gonzaga,BYU,39,39,20,13,0,Kyle Collinsworth missed Jumper.
+Gonzaga,BYU,39,39,20,13,0,Gonzaga Defensive Rebound.
+Gonzaga,BYU,39,39,20,34,0,Przemek Karnowski Turnover.
+Gonzaga,BYU,39,39,20,34,0,Kyle Collinsworth Steal.
+Gonzaga,BYU,39,39,20,42,0,Foul on David Stockton.
+Gonzaga,BYU,39,39,20,46,0,Jump Ball won by Gonzaga
+Gonzaga,BYU,39,39,20,46,0,Kyle Collinsworth Turnover.
+Gonzaga,BYU,39,39,20,57,0,Foul on Luke Worthington.
+Gonzaga,BYU,39,39,21,2,0,Sam Dower missed Jumper.
+Gonzaga,BYU,39,39,21,2,0,Kyle Collinsworth Defensive Rebound.
+Gonzaga,BYU,39,41,21,26,1,Tyler Haws made Jumper. Assisted by Kyle Collinsworth.
+Gonzaga,BYU,39,41,21,34,0,David Stockton Turnover.
+Gonzaga,BYU,39,41,21,34,0,Nate Austin Steal.
+Gonzaga,BYU,39,41,21,42,0,Kyle Collinsworth Turnover.
+Gonzaga,BYU,39,41,21,42,0,Gary Bell Jr. Steal.
+Gonzaga,BYU,39,41,22,6,0,David Stockton Turnover.
+Gonzaga,BYU,39,41,22,16,0,Nate Austin missed Jumper.
+Gonzaga,BYU,39,41,22,16,0,Nate Austin Offensive Rebound.
+Gonzaga,BYU,39,43,22,20,1,Nate Austin made Layup.
+Gonzaga,BYU,39,43,22,39,0,Gary Bell Jr. missed Three Point Jumper.
+Gonzaga,BYU,39,43,22,39,0,Tyler Haws Defensive Rebound.
+Gonzaga,BYU,39,43,22,46,0,Tyler Haws missed Jumper.
+Gonzaga,BYU,39,43,22,46,0,BYU Offensive Rebound.
+Gonzaga,BYU,39,43,22,46,0,Foul on Kevin Pangos.
+Gonzaga,BYU,39,43,22,48,0,Tyler Haws missed Layup.
+Gonzaga,BYU,39,43,22,48,0,Gary Bell Jr. Defensive Rebound.
+Gonzaga,BYU,39,43,23,0,0,Sam Dower missed Layup.
+Gonzaga,BYU,39,43,23,0,0,Matt Carlino Defensive Rebound.
+Gonzaga,BYU,39,43,23,10,0,Matt Carlino missed Three Point Jumper.
+Gonzaga,BYU,39,43,23,10,0,Kyle Collinsworth Offensive Rebound.
+Gonzaga,BYU,39,45,23,10,1,Kyle Collinsworth made Two Point Tip Shot.
+Gonzaga,BYU,39,45,23,18,0,Gonzaga  Timeout
+Gonzaga,BYU,41,45,23,28,1,Gerard Coleman made Layup.
+Gonzaga,BYU,41,45,23,28,0,Foul on Nate Austin.
+Gonzaga,BYU,42,45,23,28,1,Gerard Coleman made Free Throw.
+Gonzaga,BYU,42,45,23,53,0,Kyle Collinsworth missed Jumper.
+Gonzaga,BYU,42,45,23,53,0,Matt Carlino Offensive Rebound.
+Gonzaga,BYU,42,45,24,1,0,Official TV Timeout
+Gonzaga,BYU,42,45,24,29,0,Foul on Gerard Coleman.
+Gonzaga,BYU,42,46,24,29,1,Anson Winder made Free Throw.
+Gonzaga,BYU,42,47,24,29,1,Anson Winder made Free Throw.
+Gonzaga,BYU,42,47,24,47,0,Foul on Anson Winder.
+Gonzaga,BYU,42,47,25,3,0,Gerard Coleman missed Layup.
+Gonzaga,BYU,42,47,25,3,0,Kyle Collinsworth Defensive Rebound.
+Gonzaga,BYU,42,47,25,12,0,Tyler Haws missed Jumper.
+Gonzaga,BYU,42,47,25,12,0,Sam Dower Defensive Rebound.
+Gonzaga,BYU,44,47,25,20,1,Sam Dower made Layup. Assisted by Kyle Dranginis.
+Gonzaga,BYU,44,47,25,39,0,Foul on Sam Dower.
+Gonzaga,BYU,44,47,25,39,0,Tyler Haws missed Free Throw.
+Gonzaga,BYU,44,47,25,39,0,BYU Deadball Team Rebound.
+Gonzaga,BYU,44,48,25,39,1,Tyler Haws made Free Throw.
+Gonzaga,BYU,46,48,26,2,1,Kevin Pangos made Layup.
+Gonzaga,BYU,46,50,26,19,1,Anson Winder made Layup. Assisted by Kyle Collinsworth.
+Gonzaga,BYU,46,50,26,37,0,Foul on Eric Mika.
+Gonzaga,BYU,46,50,26,37,0,Przemek Karnowski missed Free Throw.
+Gonzaga,BYU,46,50,26,37,0,Gonzaga Deadball Team Rebound.
+Gonzaga,BYU,46,50,26,37,0,Przemek Karnowski missed Free Throw.
+Gonzaga,BYU,46,50,26,37,0,Kyle Dranginis Offensive Rebound.
+Gonzaga,BYU,46,50,26,37,0,Kyle Dranginis Turnover.
+Gonzaga,BYU,46,50,26,37,0,Tyler Haws Steal.
+Gonzaga,BYU,46,50,26,45,0,Foul on Przemek Karnowski.
+Gonzaga,BYU,46,51,26,45,1,Anson Winder made Free Throw.
+Gonzaga,BYU,46,52,26,45,1,Anson Winder made Free Throw.
+Gonzaga,BYU,46,52,26,58,0,Foul on Eric Mika.
+Gonzaga,BYU,49,52,27,0,1,Kevin Pangos made Three Point Jumper. Assisted by Kyle Dranginis.
+Gonzaga,BYU,49,54,27,15,1,Luke Worthington made Layup. Assisted by Matt Carlino.
+Gonzaga,BYU,49,54,27,48,0,Kyle Dranginis missed Layup.
+Gonzaga,BYU,49,54,27,48,0,Tyler Haws Defensive Rebound.
+Gonzaga,BYU,49,54,27,54,0,Foul on Luke Worthington.
+Gonzaga,BYU,49,54,27,54,0,Luke Worthington Turnover.
+Gonzaga,BYU,49,54,28,20,0,Ryan Edwards missed Layup.
+Gonzaga,BYU,49,54,28,20,0,Anson Winder Defensive Rebound.
+Gonzaga,BYU,49,54,28,28,0,Kyle Collinsworth missed Three Point Jumper.
+Gonzaga,BYU,49,54,28,28,0,Luke Worthington Offensive Rebound.
+Gonzaga,BYU,49,54,28,51,0,Tyler Haws Turnover.
+Gonzaga,BYU,49,54,28,51,0,Kyle Dranginis Steal.
+Gonzaga,BYU,52,54,29,3,1,Drew Barham made Three Point Jumper. Assisted by Gary Bell Jr..
+Gonzaga,BYU,52,54,29,23,0,Foul on Ryan Edwards.
+Gonzaga,BYU,52,54,29,23,0,Official TV Timeout
+Gonzaga,BYU,52,55,29,23,1,Anson Winder made Free Throw.
+Gonzaga,BYU,52,56,29,23,1,Anson Winder made Free Throw.
+Gonzaga,BYU,54,56,29,40,1,Sam Dower made Layup. Assisted by David Stockton.
+Gonzaga,BYU,54,56,29,52,0,Kyle Collinsworth missed Three Point Jumper.
+Gonzaga,BYU,54,56,29,52,0,Drew Barham Defensive Rebound.
+Gonzaga,BYU,54,56,30,20,0,Sam Dower missed Layup.
+Gonzaga,BYU,54,56,30,20,0,Tyler Haws Defensive Rebound.
+Gonzaga,BYU,54,56,30,29,0,Anson Winder missed Three Point Jumper.
+Gonzaga,BYU,54,56,30,29,0,Sam Dower Defensive Rebound.
+Gonzaga,BYU,54,56,30,47,0,Kevin Pangos missed Three Point Jumper.
+Gonzaga,BYU,54,56,30,47,0,BYU Defensive Rebound.
+Gonzaga,BYU,54,56,31,10,0,Tyler Haws missed Layup.
+Gonzaga,BYU,54,56,31,10,0,Drew Barham Block.
+Gonzaga,BYU,54,56,31,10,0,Matt Carlino Offensive Rebound.
+Gonzaga,BYU,54,56,31,19,0,Matt Carlino missed Three Point Jumper.
+Gonzaga,BYU,54,56,31,19,0,David Stockton Defensive Rebound.
+Gonzaga,BYU,54,56,31,31,0,David Stockton Turnover.
+Gonzaga,BYU,54,58,31,43,1,Eric Mika made Layup. Assisted by Matt Carlino.
+Gonzaga,BYU,54,58,31,56,0,Foul on Sam Dower.
+Gonzaga,BYU,54,58,31,56,0,Sam Dower Turnover.
+Gonzaga,BYU,54,58,32,5,0,Matt Carlino Turnover.
+Gonzaga,BYU,54,58,32,5,0,Drew Barham Steal.
+Gonzaga,BYU,54,58,32,13,0,Gary Bell Jr. Turnover.
+Gonzaga,BYU,54,58,32,13,0,Matt Carlino Steal.
+Gonzaga,BYU,54,60,32,17,1,Matt Carlino made Layup.
+Gonzaga,BYU,54,60,32,23,0,Gonzaga  Timeout
+Gonzaga,BYU,56,60,32,40,1,Kyle Dranginis made Jumper.
+Gonzaga,BYU,56,62,32,54,1,Tyler Haws made Jumper.
+Gonzaga,BYU,56,62,33,3,0,Gary Bell Jr. missed Three Point Jumper.
+Gonzaga,BYU,56,62,33,3,0,Tyler Haws Defensive Rebound.
+Gonzaga,BYU,56,62,33,13,0,Skyler Halford missed Three Point Jumper.
+Gonzaga,BYU,56,62,33,13,0,Kevin Pangos Defensive Rebound.
+Gonzaga,BYU,56,62,33,45,0,David Stockton missed Three Point Jumper.
+Gonzaga,BYU,56,62,33,45,0,Luke Worthington Defensive Rebound.
+Gonzaga,BYU,56,62,34,11,0,Matt Carlino missed Three Point Jumper.
+Gonzaga,BYU,56,62,34,11,0,Przemek Karnowski Defensive Rebound.
+Gonzaga,BYU,58,62,34,32,1,Kyle Dranginis made Jumper.
+Gonzaga,BYU,58,62,34,43,0,BYU  Timeout
+Gonzaga,BYU,58,62,34,51,0,Tyler Haws missed Layup.
+Gonzaga,BYU,58,62,34,51,0,Przemek Karnowski Block.
+Gonzaga,BYU,58,62,34,51,0,BYU Offensive Rebound.
+Gonzaga,BYU,58,62,34,54,0,Official TV Timeout
+Gonzaga,BYU,58,62,35,7,0,Foul on Przemek Karnowski.
+Gonzaga,BYU,58,63,35,7,1,Anson Winder made Free Throw.
+Gonzaga,BYU,58,64,35,7,1,Anson Winder made Free Throw.
+Gonzaga,BYU,58,64,35,31,0,Kevin Pangos missed Layup.
+Gonzaga,BYU,58,64,35,31,0,Nate Austin Defensive Rebound.
+Gonzaga,BYU,58,64,35,55,0,Eric Mika missed Jumper.
+Gonzaga,BYU,58,64,35,55,0,Sam Dower Defensive Rebound.
+Gonzaga,BYU,58,64,36,7,0,Foul on Eric Mika.
+Gonzaga,BYU,58,64,36,7,0,Official TV Timeout
+Gonzaga,BYU,59,64,36,7,1,Kyle Dranginis made Free Throw.
+Gonzaga,BYU,60,64,36,7,1,Kyle Dranginis made Free Throw.
+Gonzaga,BYU,60,64,36,19,0,Anson Winder Turnover.
+Gonzaga,BYU,60,64,36,19,0,David Stockton Steal.
+Gonzaga,BYU,60,64,36,40,0,Gary Bell Jr. missed Jumper.
+Gonzaga,BYU,60,64,36,40,0,Tyler Haws Defensive Rebound.
+Gonzaga,BYU,60,64,37,3,0,Matt Carlino missed Jumper.
+Gonzaga,BYU,60,64,37,3,0,Kyle Collinsworth Offensive Rebound.
+Gonzaga,BYU,60,66,37,14,1,Matt Carlino made Jumper.
+Gonzaga,BYU,60,66,37,29,0,Gonzaga  Timeout
+Gonzaga,BYU,60,66,37,41,0,Drew Barham Turnover.
+Gonzaga,BYU,60,68,37,57,1,Matt Carlino made Layup.
+Gonzaga,BYU,60,68,38,17,0,Przemek Karnowski missed Jumper.
+Gonzaga,BYU,60,68,38,17,0,Eric Mika Block.
+Gonzaga,BYU,60,68,38,17,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,60,68,38,37,0,Nate Austin missed Dunk.
+Gonzaga,BYU,60,68,38,37,0,Przemek Karnowski Block.
+Gonzaga,BYU,60,68,38,37,0,Kyle Dranginis Defensive Rebound.
+Gonzaga,BYU,60,68,38,45,0,Foul on Anson Winder.
+Gonzaga,BYU,61,68,38,45,1,Kevin Pangos made Free Throw.
+Gonzaga,BYU,62,68,38,45,1,Kevin Pangos made Free Throw.
+Gonzaga,BYU,62,68,38,45,0,BYU  Timeout
+Gonzaga,BYU,62,68,38,51,0,Foul on Kyle Dranginis.
+Gonzaga,BYU,62,69,38,51,1,Matt Carlino made Free Throw.
+Gonzaga,BYU,62,69,38,51,0,Matt Carlino missed Free Throw.
+Gonzaga,BYU,62,69,38,51,0,Sam Dower Defensive Rebound.
+Gonzaga,BYU,62,69,38,55,0,Gary Bell Jr. missed Three Point Jumper.
+Gonzaga,BYU,62,69,38,55,0,Kyle Dranginis Offensive Rebound.
+Gonzaga,BYU,65,69,39,0,1,Kevin Pangos made Three Point Jumper.
+Gonzaga,BYU,65,69,39,6,0,Foul on Kyle Dranginis.
+Gonzaga,BYU,65,70,39,6,1,Matt Carlino made Free Throw.
+Gonzaga,BYU,65,71,39,6,1,Matt Carlino made Free Throw.
+Gonzaga,BYU,65,71,39,11,0,Kevin Pangos missed Jumper.
+Gonzaga,BYU,65,71,39,11,0,Anson Winder Defensive Rebound.
+Gonzaga,BYU,65,71,39,18,0,Foul on Gary Bell Jr..
+Gonzaga,BYU,65,72,39,18,1,Anson Winder made Free Throw.
+Gonzaga,BYU,65,73,39,18,1,Anson Winder made Free Throw.
+Gonzaga,BYU,65,73,39,24,0,Kyle Dranginis missed Jumper.
+Gonzaga,BYU,65,73,39,24,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,65,73,39,28,0,Eric Mika Turnover.
+Gonzaga,BYU,65,73,39,28,0,Gary Bell Jr. Steal.
+Gonzaga,BYU,65,73,39,31,0,Kevin Pangos missed Three Point Jumper.
+Gonzaga,BYU,65,73,39,31,0,Gary Bell Jr. Offensive Rebound.
+Gonzaga,BYU,65,73,39,39,0,Gerard Coleman missed Layup.
+Gonzaga,BYU,65,73,39,39,0,Eric Mika Defensive Rebound.
+Gonzaga,BYU,65,73,40,0,0,End of Game

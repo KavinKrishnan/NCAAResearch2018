@@ -1,0 +1,344 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UMKC,Iowa,0,2,0,21,1,Adam Woodbury made Jumper. Assisted by Anthony Clemmons.
+UMKC,Iowa,0,2,0,48,0,Darius Austin missed Jumper.
+UMKC,Iowa,0,2,0,48,0,Anthony Clemmons Defensive Rebound.
+UMKC,Iowa,0,2,1,2,0,Foul on Darius Austin.
+UMKC,Iowa,0,2,1,2,0,Jarrod Uthoff missed Free Throw.
+UMKC,Iowa,0,2,1,2,0,Iowa Deadball Team Rebound.
+UMKC,Iowa,0,3,1,2,1,Jarrod Uthoff made Free Throw.
+UMKC,Iowa,0,3,1,20,0,LaVell Boyd missed Three Point Jumper.
+UMKC,Iowa,0,3,1,20,0,Mike Gesell Defensive Rebound.
+UMKC,Iowa,0,3,1,37,0,Jarrod Uthoff missed Three Point Jumper.
+UMKC,Iowa,0,3,1,37,0,Adam Woodbury Offensive Rebound.
+UMKC,Iowa,0,3,1,42,0,Adam Woodbury missed Two Point Tip Shot.
+UMKC,Iowa,0,3,1,42,0,LaVell Boyd Defensive Rebound.
+UMKC,Iowa,0,3,2,5,0,Darius Austin missed Jumper.
+UMKC,Iowa,0,3,2,5,0,Jarrod Uthoff Block.
+UMKC,Iowa,0,3,2,7,0,Jarrod Uthoff Defensive Rebound.
+UMKC,Iowa,0,3,2,11,0,Foul on Martez Harrison.
+UMKC,Iowa,0,4,2,11,1,Peter Jok made Free Throw.
+UMKC,Iowa,0,5,2,11,1,Peter Jok made Free Throw.
+UMKC,Iowa,0,5,2,35,0,Martez Harrison Turnover.
+UMKC,Iowa,0,5,2,36,0,Peter Jok Steal.
+UMKC,Iowa,0,7,2,40,1,Peter Jok made Layup.
+UMKC,Iowa,0,7,3,7,0,Shayok Shayok missed Jumper.
+UMKC,Iowa,0,7,3,7,0,Jarrod Uthoff Block.
+UMKC,Iowa,0,7,3,8,0,Adam Woodbury Defensive Rebound.
+UMKC,Iowa,0,7,3,24,0,Adam Woodbury missed Layup.
+UMKC,Iowa,0,7,3,24,0,Darius Austin Defensive Rebound.
+UMKC,Iowa,0,7,3,36,0,Foul on Anthony Clemmons.
+UMKC,Iowa,0,7,3,50,0,LaVell Boyd missed Three Point Jumper.
+UMKC,Iowa,0,7,3,50,0,Kyle Steward Offensive Rebound.
+UMKC,Iowa,2,7,3,54,1,Kyle Steward made Two Point Tip Shot.
+UMKC,Iowa,2,10,4,4,1,Peter Jok made Three Point Jumper. Assisted by Mike Gesell.
+UMKC,Iowa,2,10,4,28,0,Dashawn King missed Jumper.
+UMKC,Iowa,2,10,4,28,0,Darnell Tillman Offensive Rebound.
+UMKC,Iowa,4,10,4,30,1,Darnell Tillman made Jumper.
+UMKC,Iowa,4,10,4,43,0,Peter Jok missed Three Point Jumper.
+UMKC,Iowa,4,10,4,43,0,Dom Uhl Offensive Rebound.
+UMKC,Iowa,4,10,4,49,0,Dom Uhl Turnover.
+UMKC,Iowa,4,10,4,49,0,Dashawn King Steal.
+UMKC,Iowa,6,10,4,56,1,Martez Harrison made Layup.
+UMKC,Iowa,6,10,5,1,0,Foul on LaVell Boyd.
+UMKC,Iowa,6,10,5,1,0,Official TV Timeout
+UMKC,Iowa,6,10,5,1,0,Dom Uhl missed Free Throw.
+UMKC,Iowa,6,10,5,1,0,Iowa Deadball Team Rebound.
+UMKC,Iowa,6,11,5,1,1,Dom Uhl made Free Throw.
+UMKC,Iowa,9,11,5,13,1,Martez Harrison made Three Point Jumper. Assisted by LaVell Boyd.
+UMKC,Iowa,9,11,5,22,0,Adam Woodbury Turnover.
+UMKC,Iowa,9,11,5,23,0,Dashawn King Steal.
+UMKC,Iowa,9,11,5,26,0,Martez Harrison Turnover.
+UMKC,Iowa,9,11,5,45,0,Foul on Dashawn King.
+UMKC,Iowa,9,11,5,54,0,Jarrod Uthoff Turnover.
+UMKC,Iowa,9,11,6,5,0,Martez Harrison missed Jumper.
+UMKC,Iowa,9,11,6,5,0,Dashawn King Offensive Rebound.
+UMKC,Iowa,11,11,6,8,1,Dashawn King made Two Point Tip Shot.
+UMKC,Iowa,11,11,6,19,0,Dom Uhl missed Dunk.
+UMKC,Iowa,11,11,6,19,0,Kyle Steward Defensive Rebound.
+UMKC,Iowa,11,11,6,26,0,Kyle Steward missed Three Point Jumper.
+UMKC,Iowa,11,11,6,26,0,Dom Uhl Defensive Rebound.
+UMKC,Iowa,11,11,6,35,0,Jarrod Uthoff missed Jumper.
+UMKC,Iowa,11,11,6,35,0,Kyle Steward Defensive Rebound.
+UMKC,Iowa,11,11,7,3,0,Martez Harrison missed Layup.
+UMKC,Iowa,11,11,7,3,0,Thaddeus Smith Offensive Rebound.
+UMKC,Iowa,11,11,7,8,0,Thaddeus Smith Turnover.
+UMKC,Iowa,11,11,7,8,0,Mike Gesell Steal.
+UMKC,Iowa,11,11,7,29,0,Brady Ellingson missed Three Point Jumper.
+UMKC,Iowa,11,11,7,29,0,Dom Uhl Offensive Rebound.
+UMKC,Iowa,11,13,7,34,1,Dom Uhl made Jumper.
+UMKC,Iowa,13,13,8,7,1,Martez Harrison made Layup.
+UMKC,Iowa,13,13,8,13,0,Official TV Timeout
+UMKC,Iowa,13,15,8,15,1,Brady Ellingson made Jumper. Assisted by Anthony Clemmons.
+UMKC,Iowa,13,15,8,20,0,Broderick Newbill missed Jumper.
+UMKC,Iowa,13,15,8,20,0,Ahmad Wagner Defensive Rebound.
+UMKC,Iowa,13,18,8,32,1,Nicholas Baer made Three Point Jumper. Assisted by Anthony Clemmons.
+UMKC,Iowa,13,18,8,39,0,Martez Harrison missed Three Point Jumper.
+UMKC,Iowa,13,18,8,39,0,Dom Uhl Defensive Rebound.
+UMKC,Iowa,13,18,8,52,0,Ahmad Wagner missed Layup.
+UMKC,Iowa,13,18,8,52,0,Ahmad Wagner Offensive Rebound.
+UMKC,Iowa,13,18,9,38,0,Foul on Aleer Leek.
+UMKC,Iowa,13,19,9,38,1,Ahmad Wagner made Free Throw.
+UMKC,Iowa,13,20,9,38,1,Ahmad Wagner made Free Throw.
+UMKC,Iowa,13,20,9,49,0,Aleer Leek missed Jumper.
+UMKC,Iowa,13,20,9,49,0,Dashawn King Offensive Rebound.
+UMKC,Iowa,13,20,10,8,0,UMKC  Turnover.
+UMKC,Iowa,13,22,10,26,1,Ahmad Wagner made Dunk. Assisted by Dom Uhl.
+UMKC,Iowa,13,22,10,26,0,Foul on Thaddeus Smith.
+UMKC,Iowa,13,23,10,26,1,Ahmad Wagner made Free Throw.
+UMKC,Iowa,15,23,10,41,1,Shayok Shayok made Layup. Assisted by Martez Harrison.
+UMKC,Iowa,15,23,10,50,0,Brady Ellingson missed Three Point Jumper.
+UMKC,Iowa,15,23,10,50,0,Nicholas Baer Offensive Rebound.
+UMKC,Iowa,15,25,10,56,1,Dom Uhl made Jumper.
+UMKC,Iowa,15,25,11,23,0,Dashawn King missed Three Point Jumper.
+UMKC,Iowa,15,25,11,23,0,Dom Uhl Defensive Rebound.
+UMKC,Iowa,15,25,11,36,0,Nicholas Baer missed Jumper.
+UMKC,Iowa,15,25,11,36,0,Darius Austin Defensive Rebound.
+UMKC,Iowa,18,25,11,44,1,Martez Harrison made Three Point Jumper. Assisted by Darius Austin.
+UMKC,Iowa,18,27,11,53,1,Ahmad Wagner made Layup. Assisted by Anthony Clemmons.
+UMKC,Iowa,18,27,11,53,0,UMKC  Timeout
+UMKC,Iowa,18,27,12,1,0,Kyle Steward missed Jumper.
+UMKC,Iowa,18,27,12,1,0,Jarrod Uthoff Block.
+UMKC,Iowa,18,27,12,2,0,Darnell Tillman Offensive Rebound.
+UMKC,Iowa,18,27,12,21,0,Foul on Adam Woodbury.
+UMKC,Iowa,19,27,12,21,1,Dashawn King made Free Throw.
+UMKC,Iowa,20,27,12,21,1,Dashawn King made Free Throw.
+UMKC,Iowa,20,30,12,27,1,Jarrod Uthoff made Three Point Jumper. Assisted by Mike Gesell.
+UMKC,Iowa,23,30,12,51,1,Kyle Steward made Three Point Jumper. Assisted by Martez Harrison.
+UMKC,Iowa,23,30,13,10,0,Jarrod Uthoff missed Jumper.
+UMKC,Iowa,23,30,13,10,0,Jarrod Uthoff Offensive Rebound.
+UMKC,Iowa,23,30,13,26,0,Adam Woodbury missed Jumper.
+UMKC,Iowa,23,30,13,26,0,Shayok Shayok Defensive Rebound.
+UMKC,Iowa,23,30,13,31,0,Martez Harrison Turnover.
+UMKC,Iowa,23,30,13,45,0,Adam Woodbury missed Jumper.
+UMKC,Iowa,23,30,13,45,0,Jarrod Uthoff Offensive Rebound.
+UMKC,Iowa,23,30,13,54,0,Mike Gesell missed Three Point Jumper.
+UMKC,Iowa,23,30,13,54,0,Jarrod Uthoff Offensive Rebound.
+UMKC,Iowa,23,30,13,58,0,Jarrod Uthoff missed Jumper.
+UMKC,Iowa,23,30,13,58,0,Darnell Tillman Block.
+UMKC,Iowa,23,30,14,0,0,Iowa Offensive Rebound.
+UMKC,Iowa,23,32,14,3,1,Jarrod Uthoff made Dunk. Assisted by Mike Gesell.
+UMKC,Iowa,23,32,14,21,0,LaVell Boyd Turnover.
+UMKC,Iowa,23,32,14,24,0,Jarrod Uthoff Steal.
+UMKC,Iowa,23,32,14,24,0,Jarrod Uthoff missed Layup.
+UMKC,Iowa,23,32,14,24,0,Martez Harrison Defensive Rebound.
+UMKC,Iowa,23,32,14,30,0,LaVell Boyd missed Three Point Jumper.
+UMKC,Iowa,23,32,14,30,0,Mike Gesell Defensive Rebound.
+UMKC,Iowa,23,32,14,32,0,Foul on Ikem Eriobuna.
+UMKC,Iowa,23,32,14,32,0,Mike Gesell missed Free Throw.
+UMKC,Iowa,23,32,14,32,0,Darnell Tillman Defensive Rebound.
+UMKC,Iowa,25,32,15,1,1,Darius Austin made Dunk. Assisted by Martez Harrison.
+UMKC,Iowa,25,32,15,10,0,Peter Jok missed Jumper.
+UMKC,Iowa,25,32,15,10,0,Anthony Clemmons Offensive Rebound.
+UMKC,Iowa,25,32,15,11,0,Foul on LaVell Boyd.
+UMKC,Iowa,25,33,15,11,1,Anthony Clemmons made Free Throw.
+UMKC,Iowa,25,34,15,11,1,Anthony Clemmons made Free Throw.
+UMKC,Iowa,25,34,15,24,0,Foul on Andrew Fleming.
+UMKC,Iowa,25,34,15,35,0,Martez Harrison missed Layup.
+UMKC,Iowa,25,34,15,35,0,Darnell Tillman Offensive Rebound.
+UMKC,Iowa,25,34,15,38,0,Darnell Tillman Turnover.
+UMKC,Iowa,25,34,15,40,0,Mike Gesell Steal.
+UMKC,Iowa,25,34,15,42,0,Anthony Clemmons missed Layup.
+UMKC,Iowa,25,34,15,42,0,Darius Austin Block.
+UMKC,Iowa,25,34,15,42,0,Iowa Offensive Rebound.
+UMKC,Iowa,25,37,15,48,1,Anthony Clemmons made Three Point Jumper. Assisted by Andrew Fleming.
+UMKC,Iowa,27,37,16,11,1,Dashawn King made Dunk. Assisted by Martez Harrison.
+UMKC,Iowa,27,37,16,19,0,Official TV Timeout
+UMKC,Iowa,27,39,16,29,1,Mike Gesell made Jumper.
+UMKC,Iowa,27,39,16,49,0,Foul on Mike Gesell.
+UMKC,Iowa,27,39,17,5,0,LaVell Boyd missed Jumper.
+UMKC,Iowa,27,39,17,5,0,Adam Woodbury Defensive Rebound.
+UMKC,Iowa,27,39,17,18,0,Andrew Fleming missed Three Point Jumper.
+UMKC,Iowa,27,39,17,18,0,Dashawn King Defensive Rebound.
+UMKC,Iowa,29,39,17,27,1,Shayok Shayok made Layup. Assisted by Dashawn King.
+UMKC,Iowa,29,39,17,52,0,Jarrod Uthoff missed Jumper.
+UMKC,Iowa,29,39,17,52,0,Jarrod Uthoff Offensive Rebound.
+UMKC,Iowa,29,41,17,55,1,Jarrod Uthoff made Jumper.
+UMKC,Iowa,29,41,18,16,0,Darius Austin missed Jumper.
+UMKC,Iowa,29,41,18,16,0,Jarrod Uthoff Block.
+UMKC,Iowa,29,41,18,17,0,Broderick Newbill Offensive Rebound.
+UMKC,Iowa,31,41,18,21,1,Broderick Newbill made Layup.
+UMKC,Iowa,31,41,18,28,0,Jarrod Uthoff Turnover.
+UMKC,Iowa,31,41,18,28,0,Dashawn King Steal.
+UMKC,Iowa,31,41,18,52,0,Martez Harrison Turnover.
+UMKC,Iowa,31,41,19,3,0,Peter Jok missed Three Point Jumper.
+UMKC,Iowa,31,41,19,3,0,Shayok Shayok Defensive Rebound.
+UMKC,Iowa,31,41,19,11,0,Foul on Mike Gesell.
+UMKC,Iowa,31,41,19,11,0,Martez Harrison missed Free Throw.
+UMKC,Iowa,31,41,19,11,0,UMKC Deadball Team Rebound.
+UMKC,Iowa,31,41,19,11,0,Martez Harrison missed Free Throw.
+UMKC,Iowa,31,41,19,11,0,Dom Uhl Defensive Rebound.
+UMKC,Iowa,31,43,19,30,1,Dom Uhl made Jumper.
+UMKC,Iowa,31,43,19,49,0,Broderick Newbill missed Dunk.
+UMKC,Iowa,31,43,19,49,0,Dom Uhl Block.
+UMKC,Iowa,31,43,19,51,0,Dom Uhl Defensive Rebound.
+UMKC,Iowa,31,45,19,56,1,Anthony Clemmons made Layup.
+UMKC,Iowa,31,45,20,0,0,End of 1st half
+UMKC,Iowa,31,45,20,3,0,Mike Gesell Turnover.
+UMKC,Iowa,31,45,20,3,0,Darius Austin Steal.
+UMKC,Iowa,31,45,20,14,0,Foul on Peter Jok.
+UMKC,Iowa,31,45,20,40,0,Shayok Shayok missed Jumper.
+UMKC,Iowa,31,45,20,40,0,Adam Woodbury Defensive Rebound.
+UMKC,Iowa,31,45,20,45,0,Foul on Martez Harrison.
+UMKC,Iowa,31,48,21,1,1,Peter Jok made Three Point Jumper. Assisted by Adam Woodbury.
+UMKC,Iowa,31,48,21,24,0,Foul on Peter Jok.
+UMKC,Iowa,31,48,21,24,0,Darius Austin missed Free Throw.
+UMKC,Iowa,31,48,21,24,0,UMKC Deadball Team Rebound.
+UMKC,Iowa,32,48,21,24,1,Darius Austin made Free Throw.
+UMKC,Iowa,32,48,21,36,0,Peter Jok missed Jumper.
+UMKC,Iowa,32,48,21,36,0,Darius Austin Defensive Rebound.
+UMKC,Iowa,32,48,21,40,0,Darius Austin Turnover.
+UMKC,Iowa,32,48,21,41,0,Mike Gesell Steal.
+UMKC,Iowa,32,48,21,43,0,Adam Woodbury missed Dunk.
+UMKC,Iowa,32,48,21,43,0,Shayok Shayok Defensive Rebound.
+UMKC,Iowa,32,48,21,50,0,LaVell Boyd missed Three Point Jumper.
+UMKC,Iowa,32,48,21,50,0,Shayok Shayok Offensive Rebound.
+UMKC,Iowa,32,48,21,53,0,Shayok Shayok missed Jumper.
+UMKC,Iowa,32,48,21,53,0,Darnell Tillman Offensive Rebound.
+UMKC,Iowa,34,48,21,56,1,Darnell Tillman made Jumper.
+UMKC,Iowa,34,48,22,13,0,Jarrod Uthoff missed Three Point Jumper.
+UMKC,Iowa,34,48,22,13,0,Adam Woodbury Offensive Rebound.
+UMKC,Iowa,34,51,22,19,1,Jarrod Uthoff made Three Point Jumper. Assisted by Anthony Clemmons.
+UMKC,Iowa,36,51,22,42,1,Shayok Shayok made Jumper.
+UMKC,Iowa,36,53,22,50,1,Anthony Clemmons made Jumper.
+UMKC,Iowa,38,53,23,18,1,Darius Austin made Jumper.
+UMKC,Iowa,38,55,23,35,1,Anthony Clemmons made Layup.
+UMKC,Iowa,38,55,23,51,0,Shayok Shayok Turnover.
+UMKC,Iowa,38,55,23,51,0,Foul on Shayok Shayok.
+UMKC,Iowa,38,55,24,13,0,Mike Gesell missed Jumper.
+UMKC,Iowa,38,55,24,13,0,LaVell Boyd Block.
+UMKC,Iowa,38,55,24,16,0,Dashawn King Defensive Rebound.
+UMKC,Iowa,38,55,24,22,0,Dashawn King missed Jumper.
+UMKC,Iowa,38,55,24,22,0,Dashawn King Offensive Rebound.
+UMKC,Iowa,38,55,24,23,0,Dashawn King missed Two Point Tip Shot.
+UMKC,Iowa,38,55,24,24,0,Dashawn King Offensive Rebound.
+UMKC,Iowa,40,55,24,24,1,Dashawn King made Jumper.
+UMKC,Iowa,40,55,24,24,0,Foul on Mike Gesell.
+UMKC,Iowa,40,55,24,24,0,Official TV Timeout
+UMKC,Iowa,40,55,24,24,0,Dashawn King missed Free Throw.
+UMKC,Iowa,40,55,24,24,0,Adam Woodbury Defensive Rebound.
+UMKC,Iowa,40,55,24,43,0,Peter Jok missed Jumper.
+UMKC,Iowa,40,55,24,43,0,Aleer Leek Defensive Rebound.
+UMKC,Iowa,42,55,24,53,1,Darius Austin made Layup.
+UMKC,Iowa,42,55,24,53,0,Foul on Dom Uhl.
+UMKC,Iowa,43,55,24,53,1,Darius Austin made Free Throw.
+UMKC,Iowa,43,55,25,13,0,Foul on Kyle Steward.
+UMKC,Iowa,43,57,25,20,1,Anthony Clemmons made Jumper.
+UMKC,Iowa,43,57,25,35,0,Dashawn King missed Layup.
+UMKC,Iowa,43,57,25,35,0,Dom Uhl Defensive Rebound.
+UMKC,Iowa,43,59,25,42,1,Adam Woodbury made Layup. Assisted by Anthony Clemmons.
+UMKC,Iowa,43,59,25,59,0,Foul on Anthony Clemmons.
+UMKC,Iowa,43,59,26,2,0,Kyle Steward missed Jumper.
+UMKC,Iowa,43,59,26,2,0,Jarrod Uthoff Defensive Rebound.
+UMKC,Iowa,43,59,26,21,0,Dom Uhl missed Three Point Jumper.
+UMKC,Iowa,43,59,26,21,0,Shayok Shayok Defensive Rebound.
+UMKC,Iowa,43,59,26,23,0,Foul on Ahmad Wagner.
+UMKC,Iowa,43,59,26,35,0,Shayok Shayok missed Jumper.
+UMKC,Iowa,43,59,26,35,0,Jarrod Uthoff Block.
+UMKC,Iowa,43,59,26,36,0,Dom Uhl Defensive Rebound.
+UMKC,Iowa,43,59,26,38,0,Foul on Broderick Newbill.
+UMKC,Iowa,43,59,26,50,0,Dom Uhl missed Jumper.
+UMKC,Iowa,43,59,26,50,0,Jarrod Uthoff Offensive Rebound.
+UMKC,Iowa,43,61,26,54,1,Jarrod Uthoff made Jumper.
+UMKC,Iowa,43,61,27,13,0,Foul on Ahmad Wagner.
+UMKC,Iowa,44,61,27,13,1,LaVell Boyd made Free Throw.
+UMKC,Iowa,45,61,27,13,1,LaVell Boyd made Free Throw.
+UMKC,Iowa,45,61,27,22,0,Foul on LaVell Boyd.
+UMKC,Iowa,45,61,27,25,0,Anthony Clemmons missed Jumper.
+UMKC,Iowa,45,61,27,25,0,Shayok Shayok Defensive Rebound.
+UMKC,Iowa,45,61,27,34,0,Martez Harrison missed Jumper.
+UMKC,Iowa,45,61,27,34,0,Dom Uhl Defensive Rebound.
+UMKC,Iowa,45,63,27,39,1,Brady Ellingson made Layup. Assisted by Dom Uhl.
+UMKC,Iowa,47,63,27,56,1,LaVell Boyd made Layup.
+UMKC,Iowa,47,63,28,1,0,Foul on Martez Harrison.
+UMKC,Iowa,47,63,28,1,0,Official TV Timeout
+UMKC,Iowa,47,63,28,10,0,Brady Ellingson Turnover.
+UMKC,Iowa,47,63,28,12,0,Broderick Newbill Steal.
+UMKC,Iowa,49,63,28,16,1,Dashawn King made Layup.
+UMKC,Iowa,49,65,28,36,1,Dom Uhl made Jumper. Assisted by Brady Ellingson.
+UMKC,Iowa,52,65,28,54,1,LaVell Boyd made Three Point Jumper. Assisted by Broderick Newbill.
+UMKC,Iowa,52,68,29,15,1,Dom Uhl made Three Point Jumper. Assisted by Ahmad Wagner.
+UMKC,Iowa,55,68,29,26,1,Kyle Steward made Three Point Jumper. Assisted by LaVell Boyd.
+UMKC,Iowa,55,68,29,31,0,UMKC  Timeout
+UMKC,Iowa,55,68,29,49,0,Mike Gesell missed Layup.
+UMKC,Iowa,55,68,29,49,0,Ahmad Wagner Offensive Rebound.
+UMKC,Iowa,55,68,29,49,0,Foul on Kyle Steward.
+UMKC,Iowa,55,68,29,49,0,Ahmad Wagner missed Free Throw.
+UMKC,Iowa,55,68,29,49,0,Broderick Newbill Defensive Rebound.
+UMKC,Iowa,55,68,29,59,0,Broderick Newbill Turnover.
+UMKC,Iowa,55,68,30,0,0,Nicholas Baer Steal.
+UMKC,Iowa,55,68,30,9,0,Nicholas Baer missed Layup.
+UMKC,Iowa,55,68,30,9,0,Nicholas Baer Offensive Rebound.
+UMKC,Iowa,55,71,30,24,1,Nicholas Baer made Three Point Jumper. Assisted by Mike Gesell.
+UMKC,Iowa,55,71,30,44,0,LaVell Boyd Turnover.
+UMKC,Iowa,55,73,30,55,1,Nicholas Baer made Layup. Assisted by Dom Uhl.
+UMKC,Iowa,55,73,31,6,0,Dashawn King missed Jumper.
+UMKC,Iowa,55,73,31,6,0,Nicholas Baer Defensive Rebound.
+UMKC,Iowa,55,76,31,12,1,Brady Ellingson made Three Point Jumper. Assisted by Mike Gesell.
+UMKC,Iowa,55,76,31,41,0,Foul on Ahmad Wagner.
+UMKC,Iowa,55,76,31,41,0,Martez Harrison missed Free Throw.
+UMKC,Iowa,55,76,31,41,0,Ahmad Wagner Defensive Rebound.
+UMKC,Iowa,55,76,31,55,0,Brady Ellingson missed Three Point Jumper.
+UMKC,Iowa,55,76,31,55,0,Kyle Steward Defensive Rebound.
+UMKC,Iowa,55,76,32,5,0,Dashawn King missed Jumper.
+UMKC,Iowa,55,76,32,5,0,Ahmad Wagner Block.
+UMKC,Iowa,55,76,32,7,0,Mike Gesell Defensive Rebound.
+UMKC,Iowa,55,79,32,13,1,Nicholas Baer made Three Point Jumper. Assisted by Mike Gesell.
+UMKC,Iowa,55,79,32,28,0,Foul on Brady Ellingson.
+UMKC,Iowa,55,79,32,28,0,Official TV Timeout
+UMKC,Iowa,56,79,32,28,1,Martez Harrison made Free Throw.
+UMKC,Iowa,57,79,32,28,1,Martez Harrison made Free Throw.
+UMKC,Iowa,57,79,32,44,0,Foul on Martez Harrison.
+UMKC,Iowa,57,80,32,44,1,Ahmad Wagner made Free Throw.
+UMKC,Iowa,57,81,32,44,1,Ahmad Wagner made Free Throw.
+UMKC,Iowa,57,81,32,56,0,LaVell Boyd missed Jumper.
+UMKC,Iowa,57,81,32,56,0,Ahmad Wagner Defensive Rebound.
+UMKC,Iowa,57,83,33,11,1,Dom Uhl made Dunk. Assisted by Ahmad Wagner.
+UMKC,Iowa,57,83,33,39,0,Martez Harrison missed Three Point Jumper.
+UMKC,Iowa,57,83,33,39,0,Martez Harrison Offensive Rebound.
+UMKC,Iowa,57,83,33,41,0,Foul on Brady Ellingson.
+UMKC,Iowa,57,83,33,41,0,Martez Harrison missed Free Throw.
+UMKC,Iowa,57,83,33,41,0,UMKC Deadball Team Rebound.
+UMKC,Iowa,58,83,33,41,1,Martez Harrison made Free Throw.
+UMKC,Iowa,58,86,33,55,1,Nicholas Baer made Three Point Jumper. Assisted by Ahmad Wagner.
+UMKC,Iowa,61,86,34,13,1,LaVell Boyd made Three Point Jumper. Assisted by Dashawn King.
+UMKC,Iowa,61,86,34,29,0,Dom Uhl missed Jumper.
+UMKC,Iowa,61,86,34,29,0,UMKC Defensive Rebound.
+UMKC,Iowa,61,86,34,42,0,Aleer Leek missed Three Point Jumper.
+UMKC,Iowa,61,86,34,42,0,Nicholas Baer Defensive Rebound.
+UMKC,Iowa,61,86,35,11,0,Foul on Aleer Leek.
+UMKC,Iowa,61,87,35,11,1,Andrew Fleming made Free Throw.
+UMKC,Iowa,61,88,35,11,1,Andrew Fleming made Free Throw.
+UMKC,Iowa,63,88,35,31,1,Grant Leach made Layup.
+UMKC,Iowa,63,88,35,45,0,Nicholas Baer missed Three Point Jumper.
+UMKC,Iowa,63,88,35,45,0,LaVell Boyd Defensive Rebound.
+UMKC,Iowa,65,88,36,1,1,Dashawn King made Layup.
+UMKC,Iowa,65,88,36,20,0,Foul on Dashawn King.
+UMKC,Iowa,65,88,36,20,0,Official TV Timeout
+UMKC,Iowa,65,89,36,20,1,Andrew Fleming made Free Throw.
+UMKC,Iowa,65,90,36,20,1,Andrew Fleming made Free Throw.
+UMKC,Iowa,67,90,36,35,1,Broderick Newbill made Dunk. Assisted by LaVell Boyd.
+UMKC,Iowa,67,90,36,50,0,Christian Williams missed Three Point Jumper.
+UMKC,Iowa,67,90,36,50,0,Ikem Eriobuna Defensive Rebound.
+UMKC,Iowa,70,90,37,1,1,LaVell Boyd made Three Point Jumper. Assisted by Grant Leach.
+UMKC,Iowa,70,90,37,3,0,UMKC  Timeout
+UMKC,Iowa,70,90,37,19,0,Okey Ukah missed Jumper.
+UMKC,Iowa,70,90,37,19,0,Broderick Newbill Defensive Rebound.
+UMKC,Iowa,70,90,37,32,0,Grant Leach missed Three Point Jumper.
+UMKC,Iowa,70,90,37,32,0,Okey Ukah Block.
+UMKC,Iowa,70,90,37,34,0,Nicholas Baer Defensive Rebound.
+UMKC,Iowa,70,92,37,43,1,Andrew Fleming made Layup.
+UMKC,Iowa,70,92,38,2,0,Darnell Tillman missed Jumper.
+UMKC,Iowa,70,92,38,2,0,Iowa Defensive Rebound.
+UMKC,Iowa,70,95,38,17,1,Michael Soukup made Three Point Jumper.
+UMKC,Iowa,70,95,38,47,0,Martez Harrison missed Jumper.
+UMKC,Iowa,70,95,38,47,0,Broderick Newbill Offensive Rebound.
+UMKC,Iowa,72,95,38,47,1,Broderick Newbill made Jumper.
+UMKC,Iowa,73,95,38,47,1,Broderick Newbill made Free Throw.
+UMKC,Iowa,73,95,38,57,0,Andrew Fleming missed Three Point Jumper.
+UMKC,Iowa,73,95,38,57,0,Darnell Tillman Defensive Rebound.
+UMKC,Iowa,73,95,39,12,0,Grant Leach missed Three Point Jumper.
+UMKC,Iowa,73,95,39,12,0,Okey Ukah Defensive Rebound.
+UMKC,Iowa,73,95,39,39,0,Christian Williams missed Jumper.
+UMKC,Iowa,73,95,39,39,0,Martez Harrison Defensive Rebound.
+UMKC,Iowa,75,95,39,47,1,Martez Harrison made Layup.
+UMKC,Iowa,75,95,40,0,0,End of Game

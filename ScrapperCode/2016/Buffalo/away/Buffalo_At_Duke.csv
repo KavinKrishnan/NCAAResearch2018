@@ -1,0 +1,371 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Buffalo,Duke,0,0,0,0,0,Jump Ball won by Duke
+Buffalo,Duke,0,0,0,13,0,Brandon Ingram missed Jumper.
+Buffalo,Duke,0,0,0,13,0,Rodell Wigginton Defensive Rebound.
+Buffalo,Duke,0,0,0,43,0,Foul on Rodell Wigginton.
+Buffalo,Duke,0,0,0,43,0,Rodell Wigginton Turnover.
+Buffalo,Duke,0,2,0,54,1,Grayson Allen made Layup.
+Buffalo,Duke,0,2,1,1,0,Willie Conner missed Jumper.
+Buffalo,Duke,0,2,1,1,0,Amile Jefferson Defensive Rebound.
+Buffalo,Duke,0,4,1,9,1,Brandon Ingram made Jumper.
+Buffalo,Duke,0,4,1,9,0,Foul on Willie Conner.
+Buffalo,Duke,0,5,1,9,1,Brandon Ingram made Free Throw.
+Buffalo,Duke,0,5,1,23,0,Jarryn Skeete missed Three Point Jumper.
+Buffalo,Duke,0,5,1,23,0,Brandon Ingram Defensive Rebound.
+Buffalo,Duke,0,5,1,41,0,Matt Jones missed Jumper.
+Buffalo,Duke,0,5,1,41,0,Rodell Wigginton Defensive Rebound.
+Buffalo,Duke,2,5,1,51,1,Rodell Wigginton made Layup.
+Buffalo,Duke,2,5,1,51,0,Foul on Amile Jefferson.
+Buffalo,Duke,2,5,1,51,0,Rodell Wigginton missed Free Throw.
+Buffalo,Duke,2,5,1,51,0,Brandon Ingram Defensive Rebound.
+Buffalo,Duke,2,5,2,5,0,Amile Jefferson missed Layup.
+Buffalo,Duke,2,5,2,5,0,Rodell Wigginton Defensive Rebound.
+Buffalo,Duke,4,5,2,12,1,Rodell Wigginton made Jumper.
+Buffalo,Duke,4,5,2,31,0,Foul on Rodell Wigginton.
+Buffalo,Duke,4,6,2,31,1,Grayson Allen made Free Throw.
+Buffalo,Duke,4,7,2,31,1,Grayson Allen made Free Throw.
+Buffalo,Duke,4,7,2,44,0,Foul on Marshall Plumlee.
+Buffalo,Duke,5,7,2,44,1,Lamonte Bearden made Free Throw.
+Buffalo,Duke,6,7,2,44,1,Lamonte Bearden made Free Throw.
+Buffalo,Duke,6,9,2,54,1,Brandon Ingram made Jumper.
+Buffalo,Duke,6,9,3,7,0,Blake Hamilton missed Jumper.
+Buffalo,Duke,6,9,3,7,0,Brandon Ingram Block.
+Buffalo,Duke,6,9,3,7,0,Brandon Ingram Defensive Rebound.
+Buffalo,Duke,6,9,3,16,0,Foul on Lamonte Bearden.
+Buffalo,Duke,6,9,3,18,0,Grayson Allen missed Layup.
+Buffalo,Duke,6,9,3,18,0,Nick Perkins Defensive Rebound.
+Buffalo,Duke,6,9,3,38,0,Nick Perkins Turnover.
+Buffalo,Duke,6,9,3,55,0,Foul on Jarryn Skeete.
+Buffalo,Duke,6,11,4,9,1,Brandon Ingram made Layup.
+Buffalo,Duke,8,11,4,25,1,Lamonte Bearden made Layup.
+Buffalo,Duke,8,11,4,35,0,Foul on Lamonte Bearden.
+Buffalo,Duke,8,11,4,35,0,Official TV Timeout
+Buffalo,Duke,8,11,4,39,0,Chase Jeter missed Jumper.
+Buffalo,Duke,8,11,4,39,0,Nick Perkins Block.
+Buffalo,Duke,8,11,4,39,0,CJ Massinburg Defensive Rebound.
+Buffalo,Duke,8,11,5,1,0,Nick Perkins missed Three Point Jumper.
+Buffalo,Duke,8,11,5,1,0,Amile Jefferson Defensive Rebound.
+Buffalo,Duke,8,11,5,13,0,Chase Jeter missed Layup.
+Buffalo,Duke,8,11,5,13,0,Blake Hamilton Block.
+Buffalo,Duke,8,11,5,13,0,Blake Hamilton Defensive Rebound.
+Buffalo,Duke,8,11,5,24,0,Nick Perkins missed Dunk.
+Buffalo,Duke,8,11,5,24,0,Derryck Thornton Defensive Rebound.
+Buffalo,Duke,8,11,5,32,0,Luke Kennard missed Jumper.
+Buffalo,Duke,8,11,5,32,0,Luke Kennard Offensive Rebound.
+Buffalo,Duke,8,11,5,35,0,Luke Kennard missed Jumper.
+Buffalo,Duke,8,11,5,35,0,Nick Perkins Block.
+Buffalo,Duke,8,11,5,35,0,Jarryn Skeete Defensive Rebound.
+Buffalo,Duke,8,11,5,55,0,Nick Perkins Turnover.
+Buffalo,Duke,8,11,6,3,0,Foul on Blake Hamilton.
+Buffalo,Duke,8,12,6,3,1,Grayson Allen made Free Throw.
+Buffalo,Duke,8,13,6,3,1,Grayson Allen made Free Throw.
+Buffalo,Duke,8,13,6,15,0,Blake Hamilton missed Layup.
+Buffalo,Duke,8,13,6,15,0,Nick Perkins Offensive Rebound.
+Buffalo,Duke,8,13,6,15,0,Nick Perkins missed Two Point Tip Shot.
+Buffalo,Duke,8,13,6,15,0,Nikola Rakicevic Offensive Rebound.
+Buffalo,Duke,10,13,6,22,1,Nikola Rakicevic made Layup.
+Buffalo,Duke,10,13,6,30,0,Marshall Plumlee Turnover.
+Buffalo,Duke,10,13,6,30,0,Nick Perkins Steal.
+Buffalo,Duke,10,13,6,40,0,Foul on Luke Kennard.
+Buffalo,Duke,10,13,6,53,0,Nikola Rakicevic missed Layup.
+Buffalo,Duke,10,13,6,53,0,Brandon Ingram Block.
+Buffalo,Duke,10,13,6,53,0,Brandon Ingram Defensive Rebound.
+Buffalo,Duke,10,15,7,2,1,Brandon Ingram made Jumper.
+Buffalo,Duke,10,15,7,27,0,Blake Hamilton missed Three Point Jumper.
+Buffalo,Duke,10,15,7,32,0,Nikola Rakicevic Offensive Rebound.
+Buffalo,Duke,10,15,7,36,0,CJ Massinburg missed Three Point Jumper.
+Buffalo,Duke,10,15,7,36,0,Luke Kennard Defensive Rebound.
+Buffalo,Duke,10,15,7,44,0,Luke Kennard missed Three Point Jumper.
+Buffalo,Duke,10,15,7,44,0,Duke Offensive Rebound.
+Buffalo,Duke,10,15,7,48,0,Grayson Allen missed Three Point Jumper.
+Buffalo,Duke,10,15,7,48,0,Nikola Rakicevic Defensive Rebound.
+Buffalo,Duke,10,15,8,16,0,Official TV Timeout
+Buffalo,Duke,10,15,8,21,0,Foul on Derryck Thornton.
+Buffalo,Duke,10,15,8,21,0,Lamonte Bearden missed Free Throw.
+Buffalo,Duke,10,15,8,21,0,Buffalo Deadball Team Rebound.
+Buffalo,Duke,10,15,8,21,0,Lamonte Bearden missed Free Throw.
+Buffalo,Duke,10,15,8,21,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,10,15,8,34,0,Foul on Nikola Rakicevic.
+Buffalo,Duke,10,16,8,34,1,Luke Kennard made Free Throw.
+Buffalo,Duke,10,17,8,34,1,Luke Kennard made Free Throw.
+Buffalo,Duke,10,17,8,54,0,Blake Hamilton missed Three Point Jumper.
+Buffalo,Duke,10,17,8,54,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,10,17,9,8,0,Brandon Ingram missed Jumper.
+Buffalo,Duke,10,17,9,8,0,CJ Massinburg Defensive Rebound.
+Buffalo,Duke,12,17,9,17,1,CJ Massinburg made Layup.
+Buffalo,Duke,12,17,9,35,0,Derryck Thornton missed Jumper.
+Buffalo,Duke,12,17,9,35,0,Willie Conner Defensive Rebound.
+Buffalo,Duke,12,17,9,47,0,Rodell Wigginton missed Jumper.
+Buffalo,Duke,12,17,9,47,0,Amile Jefferson Defensive Rebound.
+Buffalo,Duke,12,17,10,10,0,Foul on Lamonte Bearden.
+Buffalo,Duke,12,18,10,10,1,Amile Jefferson made Free Throw.
+Buffalo,Duke,12,19,10,10,1,Amile Jefferson made Free Throw.
+Buffalo,Duke,12,19,10,25,0,Jarryn Skeete missed Jumper.
+Buffalo,Duke,12,19,10,25,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,12,19,10,36,0,Grayson Allen missed Layup.
+Buffalo,Duke,12,19,10,36,0,Ikenna Smart Defensive Rebound.
+Buffalo,Duke,14,19,10,42,1,CJ Massinburg made Layup.
+Buffalo,Duke,14,19,11,7,0,Foul on Jarryn Skeete.
+Buffalo,Duke,14,20,11,7,1,Matt Jones made Free Throw.
+Buffalo,Duke,14,20,11,7,0,Matt Jones missed Free Throw.
+Buffalo,Duke,14,20,11,7,0,Ikenna Smart Defensive Rebound.
+Buffalo,Duke,14,20,11,27,0,Rodell Wigginton missed Layup.
+Buffalo,Duke,14,20,11,27,0,Jarryn Skeete Offensive Rebound.
+Buffalo,Duke,14,20,11,39,0,Jarryn Skeete missed Three Point Jumper.
+Buffalo,Duke,14,20,11,39,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,14,22,12,0,1,Brandon Ingram made Dunk.
+Buffalo,Duke,14,22,12,28,0,CJ Massinburg missed Jumper.
+Buffalo,Duke,14,22,12,28,0,Duke Defensive Rebound.
+Buffalo,Duke,14,22,12,28,0,Official TV Timeout
+Buffalo,Duke,14,25,12,30,1,Brandon Ingram made Three Point Jumper. Assisted by Marshall Plumlee.
+Buffalo,Duke,14,25,12,52,0,Blake Hamilton Turnover.
+Buffalo,Duke,14,25,13,4,0,Luke Kennard Turnover.
+Buffalo,Duke,14,25,13,4,0,Nikola Rakicevic Steal.
+Buffalo,Duke,14,25,13,24,0,Buffalo  Timeout
+Buffalo,Duke,16,25,13,31,1,Ikenna Smart made Dunk. Assisted by CJ Massinburg.
+Buffalo,Duke,16,25,13,54,0,Grayson Allen Turnover.
+Buffalo,Duke,16,25,14,21,0,Blake Hamilton Turnover.
+Buffalo,Duke,16,25,14,31,0,Foul on Ikenna Smart.
+Buffalo,Duke,16,26,14,31,1,Grayson Allen made Free Throw.
+Buffalo,Duke,16,26,14,31,0,Grayson Allen missed Free Throw.
+Buffalo,Duke,16,26,14,31,0,Blake Hamilton Defensive Rebound.
+Buffalo,Duke,16,26,14,44,0,Jarryn Skeete missed Three Point Jumper.
+Buffalo,Duke,16,26,14,44,0,Matt Jones Defensive Rebound.
+Buffalo,Duke,16,26,14,57,0,Luke Kennard missed Three Point Jumper.
+Buffalo,Duke,16,26,14,57,0,Buffalo Defensive Rebound.
+Buffalo,Duke,16,26,15,1,0,Foul on Amile Jefferson.
+Buffalo,Duke,16,26,15,21,0,Blake Hamilton missed Jumper.
+Buffalo,Duke,16,26,15,21,0,Amile Jefferson Defensive Rebound.
+Buffalo,Duke,16,26,15,32,0,Matt Jones missed Three Point Jumper.
+Buffalo,Duke,16,26,15,32,0,Brandon Ingram Offensive Rebound.
+Buffalo,Duke,16,26,15,36,0,Foul on Nikola Rakicevic.
+Buffalo,Duke,16,27,15,36,1,Brandon Ingram made Free Throw.
+Buffalo,Duke,16,27,15,36,0,Brandon Ingram missed Free Throw.
+Buffalo,Duke,16,27,15,36,0,Nick Perkins Defensive Rebound.
+Buffalo,Duke,16,27,15,45,0,Blake Hamilton missed Jumper.
+Buffalo,Duke,16,27,15,45,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,16,27,16,10,0,Grayson Allen missed Layup.
+Buffalo,Duke,16,27,16,10,0,Nick Perkins Defensive Rebound.
+Buffalo,Duke,19,27,16,20,1,Nick Perkins made Three Point Jumper. Assisted by Nikola Rakicevic.
+Buffalo,Duke,19,27,16,36,0,Grayson Allen Turnover.
+Buffalo,Duke,19,27,16,36,0,Nikola Rakicevic Steal.
+Buffalo,Duke,19,27,16,42,0,Nikola Rakicevic Turnover.
+Buffalo,Duke,19,27,16,42,0,Official TV Timeout
+Buffalo,Duke,19,27,16,46,0,Matt Jones missed Three Point Jumper.
+Buffalo,Duke,19,27,16,46,0,Jarryn Skeete Defensive Rebound.
+Buffalo,Duke,19,27,16,54,0,Willie Conner missed Three Point Jumper.
+Buffalo,Duke,19,27,16,54,0,Derryck Thornton Defensive Rebound.
+Buffalo,Duke,19,29,17,2,1,Matt Jones made Layup. Assisted by Derryck Thornton.
+Buffalo,Duke,19,29,17,22,0,Jarryn Skeete missed Three Point Jumper.
+Buffalo,Duke,19,29,17,22,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,19,31,17,36,1,Derryck Thornton made Jumper.
+Buffalo,Duke,19,31,17,54,0,Jarryn Skeete Turnover.
+Buffalo,Duke,19,31,18,10,0,Marshall Plumlee missed Jumper.
+Buffalo,Duke,19,31,18,10,0,CJ Massinburg Defensive Rebound.
+Buffalo,Duke,19,31,18,14,0,Foul on Matt Jones.
+Buffalo,Duke,19,31,18,27,0,Willie Conner Turnover.
+Buffalo,Duke,19,31,18,27,0,Marshall Plumlee Steal.
+Buffalo,Duke,19,33,18,37,1,Grayson Allen made Layup.
+Buffalo,Duke,22,33,18,50,1,Nick Perkins made Three Point Jumper. Assisted by Blake Hamilton.
+Buffalo,Duke,22,33,19,4,0,Matt Jones missed Jumper.
+Buffalo,Duke,22,33,19,4,0,Brandon Ingram Offensive Rebound.
+Buffalo,Duke,22,33,19,4,0,Brandon Ingram missed Two Point Tip Shot.
+Buffalo,Duke,22,33,19,4,0,Willie Conner Defensive Rebound.
+Buffalo,Duke,24,33,19,17,1,Blake Hamilton made Jumper.
+Buffalo,Duke,24,33,19,25,0,Duke  Timeout
+Buffalo,Duke,24,33,19,46,0,Foul on Blake Hamilton.
+Buffalo,Duke,24,33,19,46,0,Grayson Allen missed Free Throw.
+Buffalo,Duke,24,33,19,46,0,Duke Deadball Team Rebound.
+Buffalo,Duke,24,34,19,46,1,Grayson Allen made Free Throw.
+Buffalo,Duke,24,34,19,53,0,CJ Massinburg missed Layup.
+Buffalo,Duke,24,34,19,53,0,Brandon Ingram Block.
+Buffalo,Duke,24,34,19,53,0,Buffalo Offensive Rebound.
+Buffalo,Duke,24,34,19,58,0,Nick Perkins Turnover.
+Buffalo,Duke,24,34,19,59,0,Brandon Ingram missed Three Point Jumper.
+Buffalo,Duke,24,34,19,59,0,Duke Offensive Rebound.
+Buffalo,Duke,24,34,20,0,0,End of 1st half
+Buffalo,Duke,24,34,20,0,0,Jump Ball won by Buffalo
+Buffalo,Duke,26,34,20,11,1,Ikenna Smart made Jumper. Assisted by Lamonte Bearden.
+Buffalo,Duke,26,34,20,29,0,Brandon Ingram Turnover.
+Buffalo,Duke,26,34,20,29,0,Willie Conner Steal.
+Buffalo,Duke,26,34,20,36,0,Rodell Wigginton missed Jumper.
+Buffalo,Duke,26,34,20,36,0,Ikenna Smart Offensive Rebound.
+Buffalo,Duke,26,34,20,40,0,Ikenna Smart missed Layup.
+Buffalo,Duke,26,34,20,40,0,Amile Jefferson Block.
+Buffalo,Duke,26,34,20,40,0,Amile Jefferson Defensive Rebound.
+Buffalo,Duke,26,34,20,53,0,Foul on Ikenna Smart.
+Buffalo,Duke,26,34,20,53,0,Marshall Plumlee missed Free Throw.
+Buffalo,Duke,26,34,20,53,0,Duke Deadball Team Rebound.
+Buffalo,Duke,26,35,20,53,1,Marshall Plumlee made Free Throw.
+Buffalo,Duke,26,35,21,9,0,Jarryn Skeete missed Jumper.
+Buffalo,Duke,26,35,21,9,0,Marshall Plumlee Block.
+Buffalo,Duke,26,35,21,9,0,Ikenna Smart Offensive Rebound.
+Buffalo,Duke,26,35,21,14,0,Willie Conner missed Three Point Jumper.
+Buffalo,Duke,26,35,21,14,0,Jarryn Skeete Offensive Rebound.
+Buffalo,Duke,26,35,21,20,0,Jarryn Skeete missed Jumper.
+Buffalo,Duke,26,35,21,20,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,26,37,21,27,1,Grayson Allen made Layup.
+Buffalo,Duke,26,37,21,33,0,Lamonte Bearden Turnover.
+Buffalo,Duke,26,37,21,33,0,Brandon Ingram Steal.
+Buffalo,Duke,26,37,21,40,0,Grayson Allen missed Layup.
+Buffalo,Duke,26,37,21,40,0,Amile Jefferson Offensive Rebound.
+Buffalo,Duke,26,39,21,48,1,Brandon Ingram made Layup. Assisted by Marshall Plumlee.
+Buffalo,Duke,26,39,22,3,0,Lamonte Bearden missed Layup.
+Buffalo,Duke,26,39,22,3,0,Duke Defensive Rebound.
+Buffalo,Duke,26,39,22,20,0,Matt Jones missed Jumper.
+Buffalo,Duke,26,39,22,20,0,Ikenna Smart Defensive Rebound.
+Buffalo,Duke,26,39,22,39,0,Foul on Grayson Allen.
+Buffalo,Duke,26,39,22,39,0,Rodell Wigginton missed Free Throw.
+Buffalo,Duke,26,39,22,39,0,Buffalo Deadball Team Rebound.
+Buffalo,Duke,27,39,22,39,1,Rodell Wigginton made Free Throw.
+Buffalo,Duke,27,41,22,56,1,Amile Jefferson made Layup. Assisted by Marshall Plumlee.
+Buffalo,Duke,27,41,23,13,0,Foul on Amile Jefferson.
+Buffalo,Duke,28,41,23,13,1,Lamonte Bearden made Free Throw.
+Buffalo,Duke,29,41,23,13,1,Lamonte Bearden made Free Throw.
+Buffalo,Duke,29,41,23,24,0,Brandon Ingram Turnover.
+Buffalo,Duke,29,41,23,24,0,Blake Hamilton Steal.
+Buffalo,Duke,29,41,23,29,0,Blake Hamilton missed Layup.
+Buffalo,Duke,29,41,23,29,0,Brandon Ingram Block.
+Buffalo,Duke,29,41,23,29,0,Matt Jones Defensive Rebound.
+Buffalo,Duke,29,41,23,53,0,Marshall Plumlee missed Layup.
+Buffalo,Duke,29,41,23,53,0,Ikenna Smart Defensive Rebound.
+Buffalo,Duke,29,41,23,58,0,Blake Hamilton missed Three Point Jumper.
+Buffalo,Duke,29,41,23,58,0,Nick Perkins Offensive Rebound.
+Buffalo,Duke,29,41,24,15,0,Blake Hamilton missed Jumper.
+Buffalo,Duke,29,41,24,15,0,Ikenna Smart Offensive Rebound.
+Buffalo,Duke,29,41,24,23,0,Jarryn Skeete missed Jumper.
+Buffalo,Duke,29,41,24,23,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,29,41,24,39,0,Grayson Allen missed Jumper.
+Buffalo,Duke,29,41,24,39,0,Nick Perkins Defensive Rebound.
+Buffalo,Duke,32,41,24,53,1,Jarryn Skeete made Three Point Jumper.
+Buffalo,Duke,32,43,25,23,1,Amile Jefferson made Layup. Assisted by Marshall Plumlee.
+Buffalo,Duke,32,43,25,45,0,Jarryn Skeete missed Jumper.
+Buffalo,Duke,32,43,25,45,0,Marshall Plumlee Defensive Rebound.
+Buffalo,Duke,32,46,25,51,1,Brandon Ingram made Three Point Jumper. Assisted by Grayson Allen.
+Buffalo,Duke,32,46,26,4,0,Buffalo  Timeout
+Buffalo,Duke,32,46,26,12,0,Blake Hamilton Turnover.
+Buffalo,Duke,32,46,26,12,0,Brandon Ingram Steal.
+Buffalo,Duke,32,46,26,16,0,Foul on Blake Hamilton.
+Buffalo,Duke,32,46,26,16,0,Official TV Timeout
+Buffalo,Duke,32,48,26,22,1,Grayson Allen made Layup.
+Buffalo,Duke,32,48,26,22,0,Foul on CJ Massinburg.
+Buffalo,Duke,32,49,26,22,1,Grayson Allen made Free Throw.
+Buffalo,Duke,32,49,26,36,0,Nick Perkins Turnover.
+Buffalo,Duke,32,49,26,36,0,Grayson Allen Steal.
+Buffalo,Duke,32,49,26,36,0,Jump Ball won by Duke
+Buffalo,Duke,32,51,26,58,1,Amile Jefferson made Layup. Assisted by Derryck Thornton.
+Buffalo,Duke,32,51,27,15,0,Blake Hamilton missed Three Point Jumper.
+Buffalo,Duke,32,51,27,15,0,Amile Jefferson Defensive Rebound.
+Buffalo,Duke,32,51,27,35,0,Foul on Nick Perkins.
+Buffalo,Duke,32,51,27,35,0,Amile Jefferson missed Free Throw.
+Buffalo,Duke,32,51,27,35,0,Duke Deadball Team Rebound.
+Buffalo,Duke,32,52,27,35,1,Amile Jefferson made Free Throw.
+Buffalo,Duke,32,52,28,2,0,Nikola Rakicevic missed Three Point Jumper.
+Buffalo,Duke,32,52,28,2,0,Lamonte Bearden Offensive Rebound.
+Buffalo,Duke,34,52,28,13,1,Willie Conner made Layup.
+Buffalo,Duke,34,52,28,25,0,Foul on Brandon Ingram.
+Buffalo,Duke,34,52,28,25,0,Brandon Ingram Turnover.
+Buffalo,Duke,34,52,28,25,0,Official TV Timeout
+Buffalo,Duke,36,52,28,41,1,Ikenna Smart made Jumper. Assisted by Lamonte Bearden.
+Buffalo,Duke,36,54,28,55,1,Luke Kennard made Jumper.
+Buffalo,Duke,36,54,29,8,0,Foul on Ikenna Smart.
+Buffalo,Duke,36,54,29,8,0,Ikenna Smart Turnover.
+Buffalo,Duke,36,54,29,16,0,Foul on Lamonte Bearden.
+Buffalo,Duke,36,54,29,20,0,Grayson Allen missed Three Point Jumper.
+Buffalo,Duke,36,54,29,20,0,Brandon Ingram Offensive Rebound.
+Buffalo,Duke,36,54,29,21,0,Foul on CJ Massinburg.
+Buffalo,Duke,36,54,29,21,0,Brandon Ingram missed Free Throw.
+Buffalo,Duke,36,54,29,21,0,Duke Deadball Team Rebound.
+Buffalo,Duke,36,55,29,21,1,Brandon Ingram made Free Throw.
+Buffalo,Duke,38,55,29,40,1,CJ Massinburg made Layup.
+Buffalo,Duke,38,55,29,51,0,Brandon Ingram missed Three Point Jumper.
+Buffalo,Duke,38,55,29,51,0,Willie Conner Defensive Rebound.
+Buffalo,Duke,40,55,29,58,1,CJ Massinburg made Layup. Assisted by Willie Conner.
+Buffalo,Duke,40,55,30,18,0,Luke Kennard missed Jumper.
+Buffalo,Duke,40,55,30,18,0,Rodell Wigginton Block.
+Buffalo,Duke,40,55,30,18,0,Luke Kennard Offensive Rebound.
+Buffalo,Duke,40,57,30,21,1,Amile Jefferson made Layup.
+Buffalo,Duke,40,57,30,23,0,Duke  Timeout
+Buffalo,Duke,43,57,30,35,1,Jarryn Skeete made Three Point Jumper. Assisted by Willie Conner.
+Buffalo,Duke,43,59,30,56,1,Amile Jefferson made Layup. Assisted by Derryck Thornton.
+Buffalo,Duke,43,59,31,4,0,Foul on Brandon Ingram.
+Buffalo,Duke,43,59,31,16,0,Foul on Matt Jones.
+Buffalo,Duke,43,59,31,20,0,Foul on Rodell Wigginton.
+Buffalo,Duke,43,59,31,20,0,Rodell Wigginton Turnover.
+Buffalo,Duke,43,59,31,30,0,Grayson Allen missed Jumper.
+Buffalo,Duke,43,59,31,30,0,Rodell Wigginton Defensive Rebound.
+Buffalo,Duke,45,59,31,39,1,CJ Massinburg made Layup.
+Buffalo,Duke,45,59,32,2,0,Brandon Ingram missed Layup.
+Buffalo,Duke,45,59,32,2,0,CJ Massinburg Block.
+Buffalo,Duke,45,59,32,2,0,Duke Offensive Rebound.
+Buffalo,Duke,45,59,32,2,0,Official TV Timeout
+Buffalo,Duke,45,59,32,4,0,Grayson Allen missed Jumper.
+Buffalo,Duke,45,59,32,4,0,CJ Massinburg Defensive Rebound.
+Buffalo,Duke,47,59,32,28,1,CJ Massinburg made Layup.
+Buffalo,Duke,47,62,32,44,1,Matt Jones made Three Point Jumper.
+Buffalo,Duke,47,62,33,14,0,Nick Perkins missed Three Point Jumper.
+Buffalo,Duke,47,62,33,14,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,47,62,33,16,0,Foul on Willie Conner.
+Buffalo,Duke,47,63,33,16,1,Grayson Allen made Free Throw.
+Buffalo,Duke,47,64,33,16,1,Grayson Allen made Free Throw.
+Buffalo,Duke,49,64,33,28,1,Lamonte Bearden made Layup.
+Buffalo,Duke,49,67,33,38,1,Grayson Allen made Three Point Jumper. Assisted by Derryck Thornton.
+Buffalo,Duke,49,67,33,59,0,Nick Perkins missed Jumper.
+Buffalo,Duke,49,67,33,59,0,Rodell Wigginton Offensive Rebound.
+Buffalo,Duke,49,67,33,59,0,Rodell Wigginton missed Two Point Tip Shot.
+Buffalo,Duke,49,67,33,59,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,49,67,34,2,0,Foul on Nick Perkins.
+Buffalo,Duke,49,68,34,2,1,Grayson Allen made Free Throw.
+Buffalo,Duke,49,69,34,2,1,Grayson Allen made Free Throw.
+Buffalo,Duke,49,69,34,11,0,Foul on Amile Jefferson.
+Buffalo,Duke,50,69,34,11,1,Lamonte Bearden made Free Throw.
+Buffalo,Duke,51,69,34,11,1,Lamonte Bearden made Free Throw.
+Buffalo,Duke,51,69,34,22,0,Grayson Allen missed Jumper.
+Buffalo,Duke,51,69,34,22,0,Matt Jones Offensive Rebound.
+Buffalo,Duke,51,69,34,48,0,Brandon Ingram missed Jumper.
+Buffalo,Duke,51,69,34,48,0,Duke Offensive Rebound.
+Buffalo,Duke,51,69,35,19,0,Foul on Nick Perkins.
+Buffalo,Duke,51,70,35,19,1,Derryck Thornton made Free Throw.
+Buffalo,Duke,51,71,35,19,1,Derryck Thornton made Free Throw.
+Buffalo,Duke,54,71,35,28,1,CJ Massinburg made Three Point Jumper. Assisted by Lamonte Bearden.
+Buffalo,Duke,54,71,35,59,0,Matt Jones missed Three Point Jumper.
+Buffalo,Duke,54,71,35,59,0,Ikenna Smart Defensive Rebound.
+Buffalo,Duke,54,71,36,17,0,Ikenna Smart missed Jumper.
+Buffalo,Duke,54,71,36,17,0,Amile Jefferson Defensive Rebound.
+Buffalo,Duke,54,73,36,49,1,Derryck Thornton made Layup.
+Buffalo,Duke,54,73,36,58,0,Lamonte Bearden missed Three Point Jumper.
+Buffalo,Duke,54,73,36,58,0,Grayson Allen Defensive Rebound.
+Buffalo,Duke,54,73,37,24,0,Foul on Blake Hamilton.
+Buffalo,Duke,54,73,37,24,0,Official TV Timeout
+Buffalo,Duke,54,74,37,24,1,Matt Jones made Free Throw.
+Buffalo,Duke,54,75,37,24,1,Matt Jones made Free Throw.
+Buffalo,Duke,56,75,37,33,1,CJ Massinburg made Layup.
+Buffalo,Duke,56,75,37,33,0,Foul on Brandon Ingram.
+Buffalo,Duke,56,75,37,33,0,CJ Massinburg missed Free Throw.
+Buffalo,Duke,56,75,37,33,0,Brandon Ingram Defensive Rebound.
+Buffalo,Duke,56,75,37,57,0,Foul on Nick Perkins.
+Buffalo,Duke,56,76,37,57,1,Brandon Ingram made Free Throw.
+Buffalo,Duke,56,77,37,57,1,Brandon Ingram made Free Throw.
+Buffalo,Duke,56,77,38,13,0,Foul on Chase Jeter.
+Buffalo,Duke,56,77,38,13,0,Willie Conner missed Free Throw.
+Buffalo,Duke,56,77,38,13,0,Buffalo Deadball Team Rebound.
+Buffalo,Duke,57,77,38,13,1,Willie Conner made Free Throw.
+Buffalo,Duke,57,80,38,20,1,Luke Kennard made Three Point Jumper. Assisted by Derryck Thornton.
+Buffalo,Duke,57,80,38,39,0,Jarryn Skeete missed Three Point Jumper.
+Buffalo,Duke,57,80,38,39,0,Lamonte Bearden Offensive Rebound.
+Buffalo,Duke,57,80,38,55,0,Ikenna Smart missed Layup.
+Buffalo,Duke,57,80,38,55,0,Matt Jones Defensive Rebound.
+Buffalo,Duke,57,80,39,18,0,Derryck Thornton missed Layup.
+Buffalo,Duke,57,80,39,18,0,Ikenna Smart Block.
+Buffalo,Duke,57,80,39,18,0,Jarryn Skeete Defensive Rebound.
+Buffalo,Duke,57,80,39,22,0,Foul on Luke Kennard.
+Buffalo,Duke,58,80,39,22,1,Willie Conner made Free Throw.
+Buffalo,Duke,59,80,39,22,1,Willie Conner made Free Throw.
+Buffalo,Duke,59,80,39,46,0,Foul on Zac DiSalvo.
+Buffalo,Duke,59,81,39,46,1,Derryck Thornton made Free Throw.
+Buffalo,Duke,59,82,39,46,1,Derryck Thornton made Free Throw.
+Buffalo,Duke,59,82,39,52,0,Zac DiSalvo missed Three Point Jumper.
+Buffalo,Duke,59,82,39,52,0,Buffalo Offensive Rebound.
+Buffalo,Duke,59,82,39,58,0,CJ Massinburg missed Three Point Jumper.
+Buffalo,Duke,59,82,39,58,0,Ikenna Smart Offensive Rebound.
+Buffalo,Duke,59,82,40,0,0,End of Game

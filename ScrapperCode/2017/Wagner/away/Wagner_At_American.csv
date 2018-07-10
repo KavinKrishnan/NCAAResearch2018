@@ -1,0 +1,332 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Wagner,American,0,0,0,15,0,JoJo Cooper Turnover.
+Wagner,American,0,0,0,17,0,Mark Gasperini Steal.
+Wagner,American,0,0,0,19,0,Foul on Blake Francis.
+Wagner,American,0,0,0,19,0,James Washington missed Free Throw.
+Wagner,American,0,0,0,19,0,American Deadball Team Rebound.
+Wagner,American,0,1,0,19,1,James Washington made Free Throw.
+Wagner,American,2,1,0,38,1,AJ Sumbry made Jumper.
+Wagner,American,2,1,1,6,0,Foul on Delante Jones.
+Wagner,American,2,1,1,6,0,Delante Jones Turnover.
+Wagner,American,4,1,1,19,1,Michael Carey made Layup.
+Wagner,American,4,3,1,41,1,James Washington made Layup.
+Wagner,American,4,3,1,55,0,Michael Carey missed Jumper.
+Wagner,American,4,3,1,55,0,Mark Gasperini Defensive Rebound.
+Wagner,American,4,3,2,19,0,Mark Gasperini missed Three Point Jumper.
+Wagner,American,4,3,2,19,0,Mike Aaman Defensive Rebound.
+Wagner,American,4,3,2,36,0,Mike Aaman missed Jumper.
+Wagner,American,4,3,2,36,0,AJ Sumbry Offensive Rebound.
+Wagner,American,4,3,2,43,0,AJ Sumbry missed Jumper.
+Wagner,American,4,3,2,43,0,Sa'eed Nelson Defensive Rebound.
+Wagner,American,4,3,2,59,0,Delante Jones missed Three Point Jumper.
+Wagner,American,4,3,2,59,0,Leon Tolksdorf Offensive Rebound.
+Wagner,American,4,3,3,12,0,James Washington missed Three Point Jumper.
+Wagner,American,4,3,3,12,0,Mike Aaman Defensive Rebound.
+Wagner,American,4,3,3,25,0,JoJo Cooper missed Three Point Jumper.
+Wagner,American,4,3,3,25,0,James Washington Defensive Rebound.
+Wagner,American,4,5,3,35,1,Sa'eed Nelson made Layup.
+Wagner,American,4,5,4,0,0,Blake Francis missed Three Point Jumper.
+Wagner,American,4,5,4,0,0,Mark Gasperini Defensive Rebound.
+Wagner,American,4,5,4,1,0,Foul on Mike Aaman.
+Wagner,American,4,5,4,1,0,Official TV Timeout
+Wagner,American,4,8,4,11,1,Sa'eed Nelson made Three Point Jumper. Assisted by Delante Jones.
+Wagner,American,4,8,4,30,0,Michael Carey missed Layup.
+Wagner,American,4,8,4,30,0,James Washington Defensive Rebound.
+Wagner,American,4,8,4,48,0,Foul on Matt Cimino.
+Wagner,American,4,8,4,48,0,Matt Cimino Turnover.
+Wagner,American,6,8,4,59,1,JoJo Cooper made Layup.
+Wagner,American,6,8,5,14,0,Foul on Michael Carey.
+Wagner,American,6,8,5,21,0,Matt Cimino missed Three Point Jumper.
+Wagner,American,6,8,5,21,0,JoJo Cooper Defensive Rebound.
+Wagner,American,6,8,5,41,0,Corey Henson missed Layup.
+Wagner,American,6,8,5,41,0,Leon Tolksdorf Block.
+Wagner,American,6,8,5,44,0,Leon Tolksdorf Defensive Rebound.
+Wagner,American,6,8,5,49,0,Foul on Jamar Brown.
+Wagner,American,6,8,5,49,0,Sa'eed Nelson missed Free Throw.
+Wagner,American,6,8,5,49,0,American Deadball Team Rebound.
+Wagner,American,6,8,5,49,0,Sa'eed Nelson missed Free Throw.
+Wagner,American,6,8,5,49,0,Michael Carey Defensive Rebound.
+Wagner,American,9,8,6,12,1,Corey Henson made Three Point Jumper. Assisted by JoJo Cooper.
+Wagner,American,9,8,6,33,0,Foul on Charlie Jones.
+Wagner,American,9,8,6,33,0,Charlie Jones Turnover.
+Wagner,American,11,8,6,45,1,Mike Aaman made Jumper. Assisted by Elijah Davis.
+Wagner,American,11,8,6,45,0,Foul on Matt Cimino.
+Wagner,American,11,8,6,45,0,Mike Aaman missed Free Throw.
+Wagner,American,11,8,6,45,0,Charlie Jones Defensive Rebound.
+Wagner,American,11,10,7,8,1,Mark Gasperini made Jumper.
+Wagner,American,11,10,7,26,0,Mike Aaman missed Jumper.
+Wagner,American,11,10,7,27,0,Mark Gasperini Defensive Rebound.
+Wagner,American,11,12,7,47,1,Delante Jones made Layup.
+Wagner,American,11,12,7,47,0,Foul on Mike Aaman.
+Wagner,American,11,12,7,47,0,Delante Jones missed Free Throw.
+Wagner,American,11,12,7,47,0,Mike Aaman Defensive Rebound.
+Wagner,American,11,12,8,11,0,Elijah Davis missed Jumper.
+Wagner,American,11,12,8,11,0,Wagner Offensive Rebound.
+Wagner,American,11,12,8,14,0,Official TV Timeout
+Wagner,American,11,12,8,14,0,Foul on Mark Gasperini.
+Wagner,American,13,12,8,20,1,AJ Sumbry made Dunk. Assisted by JoJo Cooper.
+Wagner,American,13,14,8,35,1,Mark Gasperini made Jumper.
+Wagner,American,13,14,8,57,0,JoJo Cooper Turnover.
+Wagner,American,13,17,9,16,1,Mark Gasperini made Three Point Jumper. Assisted by Charlie Jones.
+Wagner,American,15,17,9,36,1,Corey Henson made Layup.
+Wagner,American,15,20,9,53,1,Mark Gasperini made Three Point Jumper. Assisted by Delante Jones.
+Wagner,American,15,20,10,11,0,AJ Sumbry missed Jumper.
+Wagner,American,15,20,10,11,0,Charlie Jones Defensive Rebound.
+Wagner,American,15,20,10,27,0,Mark Gasperini missed Three Point Jumper.
+Wagner,American,15,20,10,27,0,Corey Henson Defensive Rebound.
+Wagner,American,15,20,10,49,0,AJ Sumbry missed Jumper.
+Wagner,American,15,20,10,49,0,Mark Gasperini Defensive Rebound.
+Wagner,American,15,20,11,2,0,James Washington missed Layup.
+Wagner,American,15,20,11,2,0,AJ Sumbry Block.
+Wagner,American,15,20,11,3,0,American Offensive Rebound.
+Wagner,American,15,20,11,20,0,Foul on Blake Francis.
+Wagner,American,15,22,11,22,1,Sa'eed Nelson made Layup. Assisted by Delante Jones.
+Wagner,American,15,22,11,40,0,Foul on Michael Carey.
+Wagner,American,15,22,11,40,0,Michael Carey Turnover.
+Wagner,American,15,24,11,53,1,Delante Jones made Layup. Assisted by James Washington.
+Wagner,American,15,24,11,56,0,Wagner  Timeout
+Wagner,American,15,24,11,56,0,Official TV Timeout
+Wagner,American,15,24,12,4,0,Foul on Sa'eed Nelson.
+Wagner,American,17,24,12,14,1,Jamar Brown made Jumper. Assisted by Corey Henson.
+Wagner,American,17,24,12,38,0,Delante Jones Turnover.
+Wagner,American,17,24,12,39,0,Michael Carey Steal.
+Wagner,American,17,24,12,42,0,Foul on Delante Jones.
+Wagner,American,18,24,12,42,1,Michael Carey made Free Throw.
+Wagner,American,19,24,12,42,1,Michael Carey made Free Throw.
+Wagner,American,19,24,12,52,0,James Washington missed Three Point Jumper.
+Wagner,American,19,24,12,52,0,Charlie Jones Offensive Rebound.
+Wagner,American,19,24,13,0,0,Sa'eed Nelson missed Three Point Jumper.
+Wagner,American,19,24,13,0,0,JoJo Cooper Defensive Rebound.
+Wagner,American,19,24,13,2,0,Foul on Leon Tolksdorf.
+Wagner,American,19,24,13,2,0,JoJo Cooper missed Free Throw.
+Wagner,American,19,24,13,2,0,James Washington Defensive Rebound.
+Wagner,American,19,24,13,22,0,Leon Tolksdorf missed Three Point Jumper.
+Wagner,American,19,24,13,22,0,JoJo Cooper Defensive Rebound.
+Wagner,American,19,24,13,29,0,Michael Carey missed Layup.
+Wagner,American,19,24,13,29,0,Jamar Brown Offensive Rebound.
+Wagner,American,19,24,13,33,0,Jamar Brown Turnover.
+Wagner,American,19,24,13,55,0,Leon Tolksdorf Turnover.
+Wagner,American,19,24,13,56,0,Jamar Brown Steal.
+Wagner,American,19,24,14,1,0,Connor Ferrell missed Layup.
+Wagner,American,19,24,14,1,0,Leon Tolksdorf Defensive Rebound.
+Wagner,American,19,24,14,2,0,Leon Tolksdorf Turnover.
+Wagner,American,19,24,14,20,0,Jamar Brown missed Layup.
+Wagner,American,19,24,14,20,0,James Washington Defensive Rebound.
+Wagner,American,19,26,14,34,1,Sa'eed Nelson made Jumper.
+Wagner,American,21,26,14,58,1,Michael Carey made Jumper.
+Wagner,American,21,29,15,15,1,James Washington made Three Point Jumper. Assisted by Lonnie Rivera.
+Wagner,American,21,29,15,39,0,Corey Henson missed Three Point Jumper.
+Wagner,American,21,29,15,39,0,Jamar Brown Offensive Rebound.
+Wagner,American,23,29,15,59,1,Michael Carey made Jumper.
+Wagner,American,23,29,16,17,0,James Washington missed Three Point Jumper.
+Wagner,American,23,29,16,17,0,Michael Carey Defensive Rebound.
+Wagner,American,23,29,16,25,0,Foul on James Washington.
+Wagner,American,23,29,16,25,0,Official TV Timeout
+Wagner,American,24,29,16,25,1,JoJo Cooper made Free Throw.
+Wagner,American,25,29,16,25,1,JoJo Cooper made Free Throw.
+Wagner,American,25,29,16,44,0,Jalen Rhea missed Three Point Jumper.
+Wagner,American,25,29,16,44,0,Devin Liggeons Defensive Rebound.
+Wagner,American,25,29,16,53,0,JoJo Cooper Turnover.
+Wagner,American,25,29,17,13,0,James Washington missed Three Point Jumper.
+Wagner,American,25,29,17,15,0,Wagner Defensive Rebound.
+Wagner,American,25,29,17,31,0,Devin Liggeons missed Layup.
+Wagner,American,25,29,17,31,0,Sa'eed Nelson Defensive Rebound.
+Wagner,American,25,29,17,39,0,Sa'eed Nelson Turnover.
+Wagner,American,28,29,17,56,1,Connor Ferrell made Three Point Jumper. Assisted by JoJo Cooper.
+Wagner,American,28,31,18,13,1,Mark Gasperini made Layup. Assisted by Sa'eed Nelson.
+Wagner,American,28,31,18,13,0,Foul on JoJo Cooper.
+Wagner,American,28,31,18,13,0,Mark Gasperini missed Free Throw.
+Wagner,American,28,31,18,13,0,AJ Sumbry Defensive Rebound.
+Wagner,American,30,31,18,39,1,JoJo Cooper made Jumper.
+Wagner,American,30,31,19,0,0,Sa'eed Nelson Turnover.
+Wagner,American,30,31,19,1,0,JoJo Cooper Steal.
+Wagner,American,30,31,19,4,0,JoJo Cooper missed Layup.
+Wagner,American,30,31,19,4,0,Jalen Rhea Block.
+Wagner,American,30,31,19,7,0,AJ Sumbry Offensive Rebound.
+Wagner,American,32,31,19,11,1,AJ Sumbry made Two Point Tip Shot.
+Wagner,American,32,31,19,25,0,Lonnie Rivera missed Jumper.
+Wagner,American,32,31,19,25,0,JoJo Cooper Defensive Rebound.
+Wagner,American,34,31,19,56,1,Corey Henson made Jumper. Assisted by JoJo Cooper.
+Wagner,American,35,31,20,0,0,End of 1st half
+Wagner,American,34,33,20,20,1,James Washington made Layup. Assisted by Leon Tolksdorf.
+Wagner,American,34,33,20,34,0,Foul on Delante Jones.
+Wagner,American,35,33,20,34,1,Michael Carey made Free Throw.
+Wagner,American,35,33,20,34,0,Michael Carey missed Free Throw.
+Wagner,American,35,33,20,34,0,James Washington Defensive Rebound.
+Wagner,American,35,33,20,58,0,Leon Tolksdorf Offensive Rebound.
+Wagner,American,35,33,20,58,0,Delante Jones missed Layup.
+Wagner,American,35,33,21,1,0,Foul on Blake Francis.
+Wagner,American,35,35,21,6,1,Sa'eed Nelson made Layup.
+Wagner,American,35,35,21,6,0,Foul on JoJo Cooper.
+Wagner,American,35,36,21,6,1,Sa'eed Nelson made Free Throw.
+Wagner,American,37,36,21,34,1,AJ Sumbry made Layup. Assisted by Corey Henson.
+Wagner,American,37,39,21,49,1,Delante Jones made Three Point Jumper. Assisted by Sa'eed Nelson.
+Wagner,American,40,39,22,20,1,Corey Henson made Three Point Jumper. Assisted by Devin Liggeons.
+Wagner,American,40,39,22,37,0,Sa'eed Nelson missed Three Point Jumper.
+Wagner,American,40,39,22,37,0,JoJo Cooper Defensive Rebound.
+Wagner,American,40,39,22,46,0,Foul on James Washington.
+Wagner,American,41,39,22,46,1,Michael Carey made Free Throw.
+Wagner,American,42,39,22,46,1,Michael Carey made Free Throw.
+Wagner,American,42,39,23,0,0,Delante Jones missed Three Point Jumper.
+Wagner,American,42,39,23,0,0,AJ Sumbry Defensive Rebound.
+Wagner,American,42,39,23,6,0,Corey Henson missed Three Point Jumper.
+Wagner,American,42,39,23,6,0,Mark Gasperini Defensive Rebound.
+Wagner,American,42,39,23,16,0,James Washington Turnover.
+Wagner,American,42,39,23,17,0,Corey Henson Steal.
+Wagner,American,44,39,23,32,1,Michael Carey made Layup. Assisted by AJ Sumbry.
+Wagner,American,44,39,23,52,0,James Washington missed Three Point Jumper.
+Wagner,American,44,39,23,52,0,Delante Jones Offensive Rebound.
+Wagner,American,44,39,23,58,0,Delante Jones missed Jumper.
+Wagner,American,44,39,23,58,0,AJ Sumbry Block.
+Wagner,American,44,39,23,59,0,JoJo Cooper Defensive Rebound.
+Wagner,American,44,39,24,3,0,JoJo Cooper missed Layup.
+Wagner,American,44,39,24,3,0,AJ Sumbry Offensive Rebound.
+Wagner,American,44,39,24,5,0,AJ Sumbry missed Two Point Tip Shot.
+Wagner,American,44,39,24,6,0,Wagner Offensive Rebound.
+Wagner,American,44,39,24,6,0,Official TV Timeout
+Wagner,American,46,39,24,10,1,Michael Carey made Dunk.
+Wagner,American,46,39,24,40,0,Sa'eed Nelson missed Jumper.
+Wagner,American,46,39,24,40,0,Mike Aaman Block.
+Wagner,American,46,39,24,42,0,Sa'eed Nelson Offensive Rebound.
+Wagner,American,46,39,24,44,0,Sa'eed Nelson missed Jumper.
+Wagner,American,46,39,24,44,0,Mark Gasperini Offensive Rebound.
+Wagner,American,46,39,24,48,0,Mark Gasperini missed Jumper.
+Wagner,American,46,39,24,48,0,Michael Carey Defensive Rebound.
+Wagner,American,46,39,25,7,0,Devin Liggeons missed Three Point Jumper.
+Wagner,American,46,39,25,7,0,Sa'eed Nelson Defensive Rebound.
+Wagner,American,46,39,25,14,0,Delante Jones missed Layup.
+Wagner,American,46,39,25,14,0,Mark Gasperini Offensive Rebound.
+Wagner,American,46,39,25,21,0,Mark Gasperini missed Two Point Tip Shot.
+Wagner,American,46,39,25,21,0,Mike Aaman Defensive Rebound.
+Wagner,American,48,39,25,46,1,Corey Henson made Jumper.
+Wagner,American,48,39,26,13,0,Sa'eed Nelson missed Three Point Jumper.
+Wagner,American,48,39,26,13,0,JoJo Cooper Defensive Rebound.
+Wagner,American,48,39,26,34,0,Mike Aaman missed Layup.
+Wagner,American,48,39,26,34,0,Mark Gasperini Defensive Rebound.
+Wagner,American,48,39,26,50,0,Delante Jones Turnover.
+Wagner,American,48,39,27,9,0,Foul on AJ Sumbry.
+Wagner,American,48,39,27,9,0,AJ Sumbry Turnover.
+Wagner,American,48,39,27,20,0,Foul on JoJo Cooper.
+Wagner,American,48,40,27,20,1,Sa'eed Nelson made Free Throw.
+Wagner,American,48,41,27,20,1,Sa'eed Nelson made Free Throw.
+Wagner,American,48,41,27,36,0,AJ Sumbry Turnover.
+Wagner,American,48,41,27,37,0,Sa'eed Nelson Steal.
+Wagner,American,48,43,27,40,1,Sa'eed Nelson made Layup.
+Wagner,American,48,43,27,40,0,Foul on Corey Henson.
+Wagner,American,48,44,27,40,1,Sa'eed Nelson made Free Throw.
+Wagner,American,48,44,27,52,0,Blake Francis missed Layup.
+Wagner,American,48,44,27,52,0,Leon Tolksdorf Defensive Rebound.
+Wagner,American,48,44,28,11,0,Sa'eed Nelson Turnover.
+Wagner,American,48,44,28,12,0,Corey Henson Steal.
+Wagner,American,50,44,28,35,1,Michael Carey made Jumper. Assisted by Mike Aaman.
+Wagner,American,50,47,28,53,1,Sa'eed Nelson made Three Point Jumper. Assisted by Mark Gasperini.
+Wagner,American,52,47,29,25,1,Mike Aaman made Layup. Assisted by Corey Henson.
+Wagner,American,52,47,29,25,0,Foul on Mark Gasperini.
+Wagner,American,52,47,29,25,0,Official TV Timeout
+Wagner,American,53,47,29,25,1,Mike Aaman made Free Throw.
+Wagner,American,53,47,29,41,0,Delante Jones missed Jumper.
+Wagner,American,53,47,29,44,0,American Offensive Rebound.
+Wagner,American,53,50,30,3,1,Leon Tolksdorf made Three Point Jumper. Assisted by Matt Cimino.
+Wagner,American,53,50,30,32,0,Michael Carey missed Jumper.
+Wagner,American,53,50,30,32,0,Charlie Jones Defensive Rebound.
+Wagner,American,53,50,30,42,0,Delante Jones missed Three Point Jumper.
+Wagner,American,53,50,30,43,0,Connor Ferrell Defensive Rebound.
+Wagner,American,53,50,30,44,0,Foul on Leon Tolksdorf.
+Wagner,American,55,50,31,10,1,Mike Aaman made Layup. Assisted by JoJo Cooper.
+Wagner,American,55,50,31,30,0,Delante Jones missed Three Point Jumper.
+Wagner,American,55,50,31,32,0,Mike Aaman Defensive Rebound.
+Wagner,American,55,50,31,33,0,Foul on Matt Cimino.
+Wagner,American,55,50,31,55,0,Mike Aaman missed Jumper.
+Wagner,American,55,50,31,57,0,American Defensive Rebound.
+Wagner,American,55,53,32,14,1,Leon Tolksdorf made Three Point Jumper. Assisted by Mark Gasperini.
+Wagner,American,55,53,32,40,0,Foul on Mark Gasperini.
+Wagner,American,55,53,32,40,0,Official TV Timeout
+Wagner,American,56,53,32,40,1,Corey Henson made Free Throw.
+Wagner,American,56,53,32,40,0,Corey Henson missed Free Throw.
+Wagner,American,56,53,32,42,0,American Defensive Rebound.
+Wagner,American,56,53,33,2,0,Delante Jones Turnover.
+Wagner,American,56,53,33,4,0,Mike Aaman Steal.
+Wagner,American,58,53,33,7,1,Michael Carey made Jumper.
+Wagner,American,58,53,33,24,0,Foul on Michael Carey.
+Wagner,American,58,53,33,24,0,Delante Jones missed Free Throw.
+Wagner,American,58,53,33,24,0,American Deadball Team Rebound.
+Wagner,American,58,53,33,24,0,Delante Jones missed Free Throw.
+Wagner,American,58,53,33,24,0,JoJo Cooper Defensive Rebound.
+Wagner,American,58,53,33,39,0,Foul on Corey Henson.
+Wagner,American,58,53,33,39,0,Corey Henson Turnover.
+Wagner,American,58,53,33,57,0,Sa'eed Nelson missed Three Point Jumper.
+Wagner,American,58,53,33,59,0,Mike Aaman Defensive Rebound.
+Wagner,American,60,53,34,17,1,Mike Aaman made Layup. Assisted by Michael Carey.
+Wagner,American,60,53,34,47,0,Delante Jones missed Layup.
+Wagner,American,60,53,34,47,0,Delante Jones Offensive Rebound.
+Wagner,American,60,53,34,49,0,Delante Jones missed Jumper.
+Wagner,American,60,53,34,49,0,Mike Aaman Block.
+Wagner,American,60,53,34,50,0,JoJo Cooper Defensive Rebound.
+Wagner,American,62,53,34,54,1,Michael Carey made Dunk.
+Wagner,American,62,53,35,6,0,American  Timeout
+Wagner,American,62,53,35,6,0,Official TV Timeout
+Wagner,American,62,55,35,25,1,Mark Gasperini made Jumper. Assisted by Charlie Jones.
+Wagner,American,64,55,35,54,1,Corey Henson made Layup.
+Wagner,American,64,55,36,13,0,Foul on Charlie Jones.
+Wagner,American,64,55,36,13,0,Charlie Jones Turnover.
+Wagner,American,64,55,36,13,0,Official TV Timeout
+Wagner,American,64,55,36,34,0,Michael Carey missed Jumper.
+Wagner,American,64,55,36,34,0,Mike Aaman Offensive Rebound.
+Wagner,American,64,55,36,41,0,JoJo Cooper Turnover.
+Wagner,American,64,55,36,43,0,Charlie Jones Steal.
+Wagner,American,64,55,36,47,0,James Washington missed Three Point Jumper.
+Wagner,American,64,55,36,47,0,JoJo Cooper Defensive Rebound.
+Wagner,American,66,55,37,18,1,JoJo Cooper made Jumper.
+Wagner,American,66,55,37,30,0,Foul on Michael Carey.
+Wagner,American,66,56,37,30,1,Sa'eed Nelson made Free Throw.
+Wagner,American,66,56,37,30,0,American  Timeout
+Wagner,American,66,57,37,30,1,Sa'eed Nelson made Free Throw.
+Wagner,American,66,57,37,48,0,Foul on Delante Jones.
+Wagner,American,67,57,37,48,1,JoJo Cooper made Free Throw.
+Wagner,American,68,57,37,48,1,JoJo Cooper made Free Throw.
+Wagner,American,68,57,37,59,0,Delante Jones missed Jumper.
+Wagner,American,68,57,37,59,0,Michael Carey Defensive Rebound.
+Wagner,American,68,57,38,29,0,JoJo Cooper missed Jumper.
+Wagner,American,68,57,38,29,0,Mike Aaman Offensive Rebound.
+Wagner,American,68,57,38,30,0,Mike Aaman Offensive Rebound.
+Wagner,American,68,57,38,31,0,Wagner  Turnover.
+Wagner,American,68,57,38,43,0,Foul on Mike Aaman.
+Wagner,American,68,58,38,43,1,Sa'eed Nelson made Free Throw.
+Wagner,American,68,59,38,43,1,Sa'eed Nelson made Free Throw.
+Wagner,American,68,59,38,55,0,Foul on Alex Paquin.
+Wagner,American,68,59,38,58,0,James Washington missed Jumper.
+Wagner,American,68,59,38,59,0,Michael Carey Defensive Rebound.
+Wagner,American,68,59,39,1,0,Foul on James Washington.
+Wagner,American,68,59,39,2,0,Foul on James Washington.
+Wagner,American,69,59,39,2,1,Michael Carey made Free Throw.
+Wagner,American,69,59,39,2,0,Michael Carey missed Free Throw.
+Wagner,American,69,59,39,3,0,Delante Jones Defensive Rebound.
+Wagner,American,69,59,39,4,0,Devin Liggeons missed Free Throw.
+Wagner,American,69,59,39,4,0,Sa'eed Nelson Defensive Rebound.
+Wagner,American,69,59,39,10,0,Charlie Jones missed Three Point Jumper.
+Wagner,American,69,59,39,10,0,Mike Aaman Defensive Rebound.
+Wagner,American,69,59,39,20,0,Foul on Charlie Jones.
+Wagner,American,69,59,39,20,0,Corey Henson missed Free Throw.
+Wagner,American,69,59,39,20,0,Wagner Deadball Team Rebound.
+Wagner,American,70,59,39,20,1,Corey Henson made Free Throw.
+Wagner,American,70,59,39,28,0,Delante Jones missed Three Point Jumper.
+Wagner,American,70,59,39,32,0,American Offensive Rebound.
+Wagner,American,70,61,39,34,1,Mark Gasperini made Layup.
+Wagner,American,70,61,39,34,0,Foul on Mike Aaman.
+Wagner,American,70,62,39,34,1,Mark Gasperini made Free Throw.
+Wagner,American,70,62,39,41,0,Foul on Charlie Jones.
+Wagner,American,71,62,39,41,1,Corey Henson made Free Throw.
+Wagner,American,72,62,39,41,1,Corey Henson made Free Throw.
+Wagner,American,72,64,39,50,1,Mark Gasperini made Layup.
+Wagner,American,72,64,39,50,0,Foul on AJ Sumbry.
+Wagner,American,72,64,39,50,0,Mark Gasperini missed Free Throw.
+Wagner,American,72,64,39,50,0,JoJo Cooper Defensive Rebound.
+Wagner,American,72,64,39,52,0,Foul on Sa'eed Nelson.
+Wagner,American,72,64,39,52,0,JoJo Cooper missed Free Throw.
+Wagner,American,72,64,39,52,0,Wagner Deadball Team Rebound.
+Wagner,American,73,64,39,52,1,JoJo Cooper made Free Throw.
+Wagner,American,73,64,39,55,0,Foul on JoJo Cooper.
+Wagner,American,73,64,39,55,0,Delante Jones missed Free Throw.
+Wagner,American,73,64,39,55,0,American Deadball Team Rebound.
+Wagner,American,73,65,39,55,1,Delante Jones made Free Throw.
+Wagner,American,73,65,40,0,0,End of Game

@@ -1,0 +1,298 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Omaha,IUPUI,0,2,0,13,1,Greg Rice made Jumper.
+Omaha,IUPUI,2,2,0,26,1,Alex Welhouse made Jumper.
+Omaha,IUPUI,2,2,0,42,0,Greg Rice missed Jumper.
+Omaha,IUPUI,2,2,0,42,0,Justin Simmons Defensive Rebound.
+Omaha,IUPUI,4,2,0,56,1,Alex Welhouse made Jumper.
+Omaha,IUPUI,4,2,1,17,0,P.J. Hubert Turnover.
+Omaha,IUPUI,4,2,1,22,0,Justin Simmons missed Jumper.
+Omaha,IUPUI,4,2,1,22,0,Kevin Rose Defensive Rebound.
+Omaha,IUPUI,4,2,1,39,0,Donovan Gibbs missed Jumper.
+Omaha,IUPUI,4,2,1,39,0,Justin Simmons Defensive Rebound.
+Omaha,IUPUI,4,2,1,48,0,John Karhoff missed Three Point Jumper.
+Omaha,IUPUI,4,2,1,48,0,Alex Phillips Offensive Rebound.
+Omaha,IUPUI,4,2,1,51,0,CJ Carter missed Jumper.
+Omaha,IUPUI,4,2,1,51,0,Greg Rice Defensive Rebound.
+Omaha,IUPUI,4,2,2,6,0,Foul on John Karhoff
+Omaha,IUPUI,4,3,2,6,1,Mitchell Patton made Free Throw.
+Omaha,IUPUI,4,4,2,6,1,Mitchell Patton made Free Throw.
+Omaha,IUPUI,6,4,2,14,1,John Karhoff made Layup.  Assisted by Alex Phillips.
+Omaha,IUPUI,6,7,2,35,1,Greg Rice made Three Point Jumper.  Assisted by P.J. Hubert.
+Omaha,IUPUI,6,7,3,3,0,John Karhoff missed Layup.
+Omaha,IUPUI,6,7,3,3,0,Mitchell Patton Block.
+Omaha,IUPUI,6,7,3,6,0,Mitchell Patton Defensive Rebound.
+Omaha,IUPUI,6,9,3,12,1,Donovan Gibbs made Layup.  Assisted by Sean Esposito.
+Omaha,IUPUI,9,9,3,30,1,Alex Welhouse made Three Point Jumper.  Assisted by John Karhoff.
+Omaha,IUPUI,9,11,3,53,1,Donovan Gibbs made Jumper.
+Omaha,IUPUI,9,11,4,13,0,CJ Carter missed Three Point Jumper.
+Omaha,IUPUI,9,11,4,13,0,Greg Rice Defensive Rebound.
+Omaha,IUPUI,9,11,4,17,0,Foul on John Karhoff
+Omaha,IUPUI,9,11,4,17,0,Official TV Timeout.
+Omaha,IUPUI,9,11,4,35,0,Sean Esposito missed Jumper.
+Omaha,IUPUI,9,11,4,35,0,Matt Hagerbaumer Defensive Rebound.
+Omaha,IUPUI,9,11,4,36,0,Foul on Mitchell Patton
+Omaha,IUPUI,9,11,4,47,0,Justin Simmons missed Three Point Jumper.
+Omaha,IUPUI,9,11,4,47,0,P.J. Hubert Defensive Rebound.
+Omaha,IUPUI,9,11,5,0,0,P.J. Hubert missed Three Point Jumper.
+Omaha,IUPUI,9,11,5,0,0,Matt Hagerbaumer Defensive Rebound.
+Omaha,IUPUI,9,11,5,15,0,Justin Simmons missed Jumper.
+Omaha,IUPUI,9,11,5,15,0,Sean Esposito Defensive Rebound.
+Omaha,IUPUI,9,13,5,29,1,Mitchell Patton made Jumper.
+Omaha,IUPUI,9,13,5,50,0,Marcus Tyus missed Jumper.
+Omaha,IUPUI,9,13,5,50,0,Matt Hagerbaumer Offensive Rebound.
+Omaha,IUPUI,11,13,6,8,1,Alex Welhouse made Layup.  Assisted by CJ Carter.
+Omaha,IUPUI,11,15,6,28,1,Sean Esposito made Jumper.
+Omaha,IUPUI,11,15,6,46,0,Marcus Tyus missed Layup.
+Omaha,IUPUI,11,15,6,46,0,Mitchell Patton Block.
+Omaha,IUPUI,11,15,6,49,0,Mitchell Patton Defensive Rebound.
+Omaha,IUPUI,11,18,6,53,1,Sean Esposito made Three Point Jumper.  Assisted by Greg Rice.
+Omaha,IUPUI,11,18,6,56,0,Nebraska-Omaha Full Timeout.
+Omaha,IUPUI,11,18,6,56,0,Alex Welhouse missed Three Point Jumper.
+Omaha,IUPUI,11,18,6,56,0,Sean Esposito Defensive Rebound.
+Omaha,IUPUI,11,21,7,10,1,Greg Rice made Three Point Jumper.  Assisted by Mitchell Patton.
+Omaha,IUPUI,11,21,7,43,0,Alex Welhouse Turnover.
+Omaha,IUPUI,11,21,7,44,0,Jordan Shanklin Steal.
+Omaha,IUPUI,11,24,7,48,1,Greg Rice made Three Point Jumper.  Assisted by Jordan Shanklin.
+Omaha,IUPUI,11,24,8,9,0,Alex Welhouse missed Three Point Jumper.
+Omaha,IUPUI,11,24,8,9,0,Jordan Shanklin Defensive Rebound.
+Omaha,IUPUI,11,24,8,20,0,Mitchell Patton missed Jumper.
+Omaha,IUPUI,11,24,8,20,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,13,24,8,31,1,CJ Carter made Dunk.
+Omaha,IUPUI,13,26,8,52,1,Mitchell Patton made Layup.  Assisted by Jordan Shanklin.
+Omaha,IUPUI,13,26,8,52,0,Foul on Marcus Tyus
+Omaha,IUPUI,13,26,8,52,0,Official TV Timeout.
+Omaha,IUPUI,13,27,8,52,1,Mitchell Patton made Free Throw.
+Omaha,IUPUI,13,27,9,5,0,Justin Simmons missed Jumper.
+Omaha,IUPUI,13,27,9,5,0,Greg Rice Defensive Rebound.
+Omaha,IUPUI,13,29,9,15,1,Donovan Gibbs made Jumper.  Assisted by Greg Rice.
+Omaha,IUPUI,13,29,9,27,0,Justin Simmons Turnover.
+Omaha,IUPUI,13,29,9,45,0,Lyonell Gaines missed Layup.
+Omaha,IUPUI,13,29,9,45,0,John Karhoff Block.
+Omaha,IUPUI,13,29,9,47,0,John Karhoff Defensive Rebound.
+Omaha,IUPUI,13,29,9,50,0,Alex Phillips Turnover.
+Omaha,IUPUI,13,29,9,52,0,Jordan Shanklin Steal.
+Omaha,IUPUI,13,32,10,1,1,Sean Esposito made Three Point Jumper.  Assisted by Donovan Gibbs.
+Omaha,IUPUI,15,32,10,24,1,Justin Simmons made Jumper.
+Omaha,IUPUI,15,35,10,33,1,Sean Esposito made Three Point Jumper.  Assisted by Greg Rice.
+Omaha,IUPUI,17,35,10,48,1,Alex Phillips made Layup.  Assisted by John Karhoff.
+Omaha,IUPUI,17,35,10,48,0,Foul on Sean Esposito
+Omaha,IUPUI,17,35,10,48,0,Alex Phillips missed Free Throw.
+Omaha,IUPUI,17,35,10,48,0,Alex Welhouse Offensive Rebound.
+Omaha,IUPUI,19,35,10,51,1,John Karhoff made Jumper.
+Omaha,IUPUI,19,35,11,17,0,Jordan Shanklin missed Three Point Jumper.
+Omaha,IUPUI,19,35,11,17,0,Nebraska-Omaha Defensive Rebound.
+Omaha,IUPUI,21,35,11,45,1,John Karhoff made Jumper.
+Omaha,IUPUI,21,35,12,18,0,Lyonell Gaines Turnover.
+Omaha,IUPUI,21,35,12,19,0,John Karhoff Steal.
+Omaha,IUPUI,21,35,12,22,0,Foul on P.J. Hubert
+Omaha,IUPUI,21,35,12,22,0,Official TV Timeout.
+Omaha,IUPUI,21,35,12,22,0,CJ Carter missed Free Throw.
+Omaha,IUPUI,21,35,12,22,0,null
+Omaha,IUPUI,21,35,12,22,0,CJ Carter missed Free Throw.
+Omaha,IUPUI,21,35,12,22,0,Greg Rice Defensive Rebound.
+Omaha,IUPUI,21,37,12,38,1,Mitchell Patton made Layup.  Assisted by Sean Esposito.
+Omaha,IUPUI,21,37,12,55,0,Alex Welhouse missed Jumper.
+Omaha,IUPUI,21,37,12,55,0,Jordan Shanklin Defensive Rebound.
+Omaha,IUPUI,21,40,13,4,1,Sean Esposito made Three Point Jumper.  Assisted by Jordan Shanklin.
+Omaha,IUPUI,23,40,13,22,1,Justin Simmons made Jumper.
+Omaha,IUPUI,23,40,13,44,0,Jordan Shanklin missed Three Point Jumper.
+Omaha,IUPUI,23,40,13,44,0,Donovan Gibbs Offensive Rebound.
+Omaha,IUPUI,23,43,14,5,1,Greg Rice made Three Point Jumper.  Assisted by Donovan Gibbs.
+Omaha,IUPUI,25,43,14,26,1,John Karhoff made Layup.  Assisted by Justin Simmons.
+Omaha,IUPUI,25,43,14,44,0,Mitchell Patton missed Jumper.
+Omaha,IUPUI,25,43,14,44,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,25,43,14,49,0,Justin Simmons Turnover.
+Omaha,IUPUI,25,46,14,58,1,Sean Esposito made Three Point Jumper.
+Omaha,IUPUI,27,46,15,15,1,Justin Simmons made Layup.
+Omaha,IUPUI,27,49,15,31,1,Sean Esposito made Three Point Jumper.
+Omaha,IUPUI,27,49,15,46,0,Justin Simmons missed Layup.
+Omaha,IUPUI,27,49,15,46,0,Justin Simmons Offensive Rebound.
+Omaha,IUPUI,27,49,15,48,0,Foul on Mitchell Patton
+Omaha,IUPUI,28,49,15,48,1,Justin Simmons made Free Throw.
+Omaha,IUPUI,28,49,15,48,0,Justin Simmons missed Free Throw.
+Omaha,IUPUI,28,49,15,48,0,Greg Rice Defensive Rebound.
+Omaha,IUPUI,28,49,16,0,0,Donovan Gibbs missed Jumper.
+Omaha,IUPUI,28,49,16,0,0,Matt Hagerbaumer Block.
+Omaha,IUPUI,28,49,16,2,0,Matt Hagerbaumer Defensive Rebound.
+Omaha,IUPUI,30,49,16,15,1,Matt Hagerbaumer made Layup.  Assisted by Justin Simmons.
+Omaha,IUPUI,30,49,16,32,0,CJ Carter Turnover.
+Omaha,IUPUI,30,49,16,33,0,CJ Carter Turnover.
+Omaha,IUPUI,30,49,16,33,0,Official TV Timeout.
+Omaha,IUPUI,30,49,16,48,0,Jordan Shanklin Turnover.
+Omaha,IUPUI,30,49,17,8,0,Alex Phillips missed Three Point Jumper.
+Omaha,IUPUI,30,49,17,8,0,Alex Welhouse Offensive Rebound.
+Omaha,IUPUI,32,49,17,15,1,CJ Carter made Layup.
+Omaha,IUPUI,32,49,17,38,0,Lyonell Gaines Turnover.
+Omaha,IUPUI,32,49,17,39,0,CJ Carter Steal.
+Omaha,IUPUI,34,49,17,52,1,Alex Phillips made Jumper.
+Omaha,IUPUI,34,49,18,17,0,Jordan Shanklin missed Three Point Jumper.
+Omaha,IUPUI,34,49,18,17,0,Donovan Gibbs Offensive Rebound.
+Omaha,IUPUI,34,51,18,23,1,Lyonell Gaines made Layup.  Assisted by Donovan Gibbs.
+Omaha,IUPUI,34,51,18,39,0,CJ Carter missed Jumper.
+Omaha,IUPUI,34,51,18,39,0,Lyonell Gaines Defensive Rebound.
+Omaha,IUPUI,34,51,18,56,0,Donovan Gibbs missed Layup.
+Omaha,IUPUI,34,51,18,56,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,34,51,19,2,0,Alex Phillips missed Three Point Jumper.
+Omaha,IUPUI,34,51,19,2,0,Matt Hagerbaumer Offensive Rebound.
+Omaha,IUPUI,34,51,19,10,0,CJ Carter missed Layup.
+Omaha,IUPUI,34,51,19,10,0,Donovan Gibbs Block.
+Omaha,IUPUI,34,51,19,11,0,Justin Simmons Offensive Rebound.
+Omaha,IUPUI,34,51,19,16,0,Alex Welhouse missed Three Point Jumper.
+Omaha,IUPUI,34,51,19,16,0,Lyonell Gaines Defensive Rebound.
+Omaha,IUPUI,34,51,19,53,0,Jordan Shanklin missed Three Point Jumper.
+Omaha,IUPUI,34,51,19,53,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,34,51,20,0,0,End of the 1st Half.
+Omaha,IUPUI,34,51,20,12,0,Alex Welhouse missed Jumper.
+Omaha,IUPUI,34,51,20,12,0,Mitchell Patton Block.
+Omaha,IUPUI,34,51,20,15,0,John Karhoff Offensive Rebound.
+Omaha,IUPUI,34,51,20,15,0,Foul on P.J. Hubert
+Omaha,IUPUI,35,51,20,15,1,John Karhoff made Free Throw.
+Omaha,IUPUI,36,51,20,15,1,John Karhoff made Free Throw.
+Omaha,IUPUI,36,53,20,34,1,Mitchell Patton made Layup.  Assisted by Greg Rice.
+Omaha,IUPUI,38,53,20,47,1,Justin Simmons made Jumper.
+Omaha,IUPUI,38,55,21,18,1,P.J. Hubert made Jumper.  Assisted by Donovan Gibbs.
+Omaha,IUPUI,40,55,21,38,1,John Karhoff made Jumper.  Assisted by CJ Carter.
+Omaha,IUPUI,40,55,22,1,0,Greg Rice missed Three Point Jumper.
+Omaha,IUPUI,40,55,22,1,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,40,55,22,14,0,Foul on Donovan Gibbs
+Omaha,IUPUI,40,55,22,14,0,John Karhoff missed Free Throw.
+Omaha,IUPUI,40,55,22,14,0,null
+Omaha,IUPUI,41,55,22,14,1,John Karhoff made Free Throw.
+Omaha,IUPUI,41,55,22,30,0,P.J. Hubert missed Three Point Jumper.
+Omaha,IUPUI,41,55,22,30,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,41,55,22,45,0,Foul on P.J. Hubert
+Omaha,IUPUI,42,55,22,46,1,Justin Simmons made Free Throw.
+Omaha,IUPUI,43,55,22,46,1,Justin Simmons made Free Throw.
+Omaha,IUPUI,43,55,23,10,0,Donovan Gibbs missed Jumper.
+Omaha,IUPUI,43,55,23,10,0,Alex Phillips Defensive Rebound.
+Omaha,IUPUI,43,55,23,21,0,Alex Phillips Turnover.
+Omaha,IUPUI,43,55,23,38,0,Foul on Alex Phillips
+Omaha,IUPUI,43,55,23,53,0,Greg Rice missed Three Point Jumper.
+Omaha,IUPUI,43,55,23,53,0,Donovan Gibbs Offensive Rebound.
+Omaha,IUPUI,43,55,23,56,0,Foul on Alex Welhouse
+Omaha,IUPUI,43,55,23,57,0,Foul on Jordan Shanklin
+Omaha,IUPUI,43,55,23,57,0,Jordan Shanklin Turnover.
+Omaha,IUPUI,43,55,24,3,0,Official TV Timeout.
+Omaha,IUPUI,43,55,24,22,0,Foul on Jordan Shanklin
+Omaha,IUPUI,44,55,24,22,1,CJ Carter made Free Throw.
+Omaha,IUPUI,45,55,24,22,1,CJ Carter made Free Throw.
+Omaha,IUPUI,45,55,24,38,0,Foul on Mitchell Patton
+Omaha,IUPUI,45,55,24,38,0,Mitchell Patton Turnover.
+Omaha,IUPUI,45,55,24,47,0,John Karhoff missed Jumper.
+Omaha,IUPUI,45,55,24,47,0,Nebraska-Omaha Offensive Rebound.
+Omaha,IUPUI,45,55,24,49,0,John Karhoff missed Jumper.
+Omaha,IUPUI,45,55,24,49,0,CJ Carter Offensive Rebound.
+Omaha,IUPUI,47,55,24,53,1,CJ Carter made Layup.
+Omaha,IUPUI,47,55,24,53,0,Foul on Donovan Gibbs
+Omaha,IUPUI,48,55,24,53,1,CJ Carter made Free Throw.
+Omaha,IUPUI,48,55,24,57,0,IUPUI Full Timeout.
+Omaha,IUPUI,48,55,25,19,0,Donovan Gibbs missed Jumper.
+Omaha,IUPUI,48,55,25,19,0,John Karhoff Defensive Rebound.
+Omaha,IUPUI,51,55,25,29,1,Justin Simmons made Three Point Jumper.  Assisted by John Karhoff.
+Omaha,IUPUI,51,55,25,50,0,Team Technical Foul
+Omaha,IUPUI,52,55,25,50,1,Justin Simmons made Free Throw.
+Omaha,IUPUI,53,55,25,50,1,Justin Simmons made Free Throw.
+Omaha,IUPUI,53,55,26,4,0,Jordan Shanklin missed Three Point Jumper.
+Omaha,IUPUI,53,55,26,4,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,53,55,26,14,0,Foul on CJ Carter
+Omaha,IUPUI,53,55,26,14,0,CJ Carter Turnover.
+Omaha,IUPUI,53,57,26,40,1,Mitchell Patton made Jumper.
+Omaha,IUPUI,55,57,26,56,1,John Karhoff made Jumper.  Assisted by Justin Simmons.
+Omaha,IUPUI,55,57,26,56,0,Foul on Donovan Gibbs
+Omaha,IUPUI,56,57,26,56,1,John Karhoff made Free Throw.
+Omaha,IUPUI,56,57,27,30,0,Foul on Caleb Steffensmeier
+Omaha,IUPUI,56,57,27,36,0,Sean Esposito missed Three Point Jumper.
+Omaha,IUPUI,56,57,27,36,0,Donovan Gibbs Offensive Rebound.
+Omaha,IUPUI,56,57,27,40,0,Foul on Alex Welhouse
+Omaha,IUPUI,56,57,27,51,0,Sean Esposito missed Three Point Jumper.
+Omaha,IUPUI,56,57,27,51,0,CJ Carter Defensive Rebound.
+Omaha,IUPUI,56,57,27,58,0,CJ Carter missed Layup.
+Omaha,IUPUI,56,57,27,58,0,Mitchell Patton Defensive Rebound.
+Omaha,IUPUI,56,57,28,0,0,Foul on Alex Welhouse
+Omaha,IUPUI,56,57,28,25,0,Jordan Shanklin missed Three Point Jumper.
+Omaha,IUPUI,56,57,28,25,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,56,57,28,39,0,Alex Phillips Turnover.
+Omaha,IUPUI,56,57,28,40,0,Official TV Timeout.
+Omaha,IUPUI,56,57,29,2,0,Greg Rice missed Jumper.
+Omaha,IUPUI,56,57,29,2,0,John Karhoff Defensive Rebound.
+Omaha,IUPUI,59,57,29,8,1,Alex Welhouse made Three Point Jumper.  Assisted by Caleb Steffensmeier.
+Omaha,IUPUI,59,60,29,29,1,Donovan Gibbs made Three Point Jumper.  Assisted by Sean Esposito.
+Omaha,IUPUI,61,60,29,55,1,John Karhoff made Jumper.
+Omaha,IUPUI,61,60,30,16,0,Donovan Gibbs missed Three Point Jumper.
+Omaha,IUPUI,61,60,30,16,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,64,60,30,27,1,Alex Welhouse made Three Point Jumper.  Assisted by Alex Phillips.
+Omaha,IUPUI,64,60,30,38,0,IUPUI Full Timeout.
+Omaha,IUPUI,64,60,31,1,0,IUPUI Full Timeout.
+Omaha,IUPUI,64,60,31,2,0,Mitchell Patton missed Jumper.
+Omaha,IUPUI,64,60,31,2,0,CJ Carter Defensive Rebound.
+Omaha,IUPUI,64,60,31,15,0,Caleb Steffensmeier missed Three Point Jumper.
+Omaha,IUPUI,64,60,31,15,0,Mitchell Patton Defensive Rebound.
+Omaha,IUPUI,64,60,31,36,0,Mitchell Patton missed Jumper.
+Omaha,IUPUI,64,60,31,36,0,Donovan Gibbs Offensive Rebound.
+Omaha,IUPUI,64,62,31,38,1,Donovan Gibbs made Layup.
+Omaha,IUPUI,64,62,31,38,0,Foul on Caleb Steffensmeier
+Omaha,IUPUI,64,63,31,38,1,Donovan Gibbs made Free Throw.
+Omaha,IUPUI,66,63,31,48,1,John Karhoff made Layup.  Assisted by CJ Carter.
+Omaha,IUPUI,66,63,31,48,0,Foul on Sean Esposito
+Omaha,IUPUI,66,63,31,48,0,John Karhoff missed Free Throw.
+Omaha,IUPUI,66,63,31,48,0,Greg Rice Defensive Rebound.
+Omaha,IUPUI,66,63,32,11,0,Greg Rice Turnover.
+Omaha,IUPUI,66,63,32,11,0,Official TV Timeout.
+Omaha,IUPUI,68,63,32,29,1,CJ Carter made Layup.  Assisted by John Karhoff.
+Omaha,IUPUI,68,66,32,44,1,Sean Esposito made Three Point Jumper.  Assisted by Jordan Shanklin.
+Omaha,IUPUI,70,66,33,8,1,CJ Carter made Layup.  Assisted by John Karhoff.
+Omaha,IUPUI,70,66,33,34,0,Jordan Shanklin missed Three Point Jumper.
+Omaha,IUPUI,70,66,33,34,0,Nebraska-Omaha Defensive Rebound.
+Omaha,IUPUI,70,66,33,57,0,John Karhoff missed Jumper.
+Omaha,IUPUI,70,66,33,57,0,Mitchell Patton Defensive Rebound.
+Omaha,IUPUI,70,68,34,10,1,Mitchell Patton made Layup.  Assisted by Sean Esposito.
+Omaha,IUPUI,70,68,34,19,0,CJ Carter missed Layup.
+Omaha,IUPUI,70,68,34,19,0,John Karhoff Offensive Rebound.
+Omaha,IUPUI,72,68,34,22,1,John Karhoff made Layup.
+Omaha,IUPUI,72,68,34,34,0,Donovan Gibbs Turnover.
+Omaha,IUPUI,72,68,34,34,0,Alex Phillips Steal.
+Omaha,IUPUI,72,68,34,45,0,Foul on Alex Phillips
+Omaha,IUPUI,72,68,34,45,0,Alex Phillips Turnover.
+Omaha,IUPUI,72,68,35,0,0,Greg Rice missed Jumper.
+Omaha,IUPUI,72,68,35,0,0,Alex Phillips Defensive Rebound.
+Omaha,IUPUI,72,68,35,8,0,Justin Simmons missed Layup.
+Omaha,IUPUI,72,68,35,8,0,Mitchell Patton Defensive Rebound.
+Omaha,IUPUI,72,68,35,36,0,Sean Esposito missed Jumper.
+Omaha,IUPUI,72,68,35,36,0,Justin Simmons Defensive Rebound.
+Omaha,IUPUI,74,68,35,58,1,Alex Phillips made Jumper.
+Omaha,IUPUI,74,68,36,0,0,Nebraska-Omaha Full Timeout.
+Omaha,IUPUI,74,68,36,19,0,Foul on Mitchell Patton
+Omaha,IUPUI,74,68,36,19,0,Mitchell Patton Turnover.
+Omaha,IUPUI,74,68,36,19,0,Official TV Timeout.
+Omaha,IUPUI,76,68,36,34,1,Justin Simmons made Layup.
+Omaha,IUPUI,76,70,37,1,1,Mitchell Patton made Jumper.
+Omaha,IUPUI,78,70,37,15,1,John Karhoff made Jumper.  Assisted by CJ Carter.
+Omaha,IUPUI,78,72,37,33,1,Mitchell Patton made Jumper.
+Omaha,IUPUI,78,72,37,33,0,Foul on CJ Carter
+Omaha,IUPUI,78,72,37,33,0,Mitchell Patton missed Free Throw.
+Omaha,IUPUI,78,72,37,33,0,Justin Simmons Defensive Rebound.
+Omaha,IUPUI,78,72,37,42,0,John Karhoff missed Jumper.
+Omaha,IUPUI,78,72,37,42,0,Mitchell Patton Defensive Rebound.
+Omaha,IUPUI,78,72,37,53,0,Greg Rice missed Layup.
+Omaha,IUPUI,78,72,37,53,0,Alex Welhouse Defensive Rebound.
+Omaha,IUPUI,78,72,38,23,0,CJ Carter Turnover.
+Omaha,IUPUI,78,74,38,35,1,Mitchell Patton made Jumper.
+Omaha,IUPUI,78,74,39,11,0,Justin Simmons missed Layup.
+Omaha,IUPUI,78,74,39,11,0,Mitchell Patton Block.
+Omaha,IUPUI,78,74,39,11,0,Nebraska-Omaha Offensive Rebound.
+Omaha,IUPUI,80,74,39,16,1,John Karhoff made Jumper.  Assisted by Justin Simmons.
+Omaha,IUPUI,80,76,39,24,1,Greg Rice made Layup.
+Omaha,IUPUI,80,76,39,24,0,IUPUI Full Timeout.
+Omaha,IUPUI,80,76,39,29,0,Foul on Sean Esposito
+Omaha,IUPUI,81,76,39,29,1,Alex Welhouse made Free Throw.
+Omaha,IUPUI,82,76,39,29,1,Alex Welhouse made Free Throw.
+Omaha,IUPUI,82,76,39,38,0,Sean Esposito missed Three Point Jumper.
+Omaha,IUPUI,82,76,39,38,0,Justin Simmons Defensive Rebound.
+Omaha,IUPUI,84,76,39,47,1,CJ Carter made Dunk.
+Omaha,IUPUI,84,76,39,47,0,Foul on Sean Esposito
+Omaha,IUPUI,85,76,39,47,1,CJ Carter made Free Throw.
+Omaha,IUPUI,85,78,39,53,1,Mitchell Patton made Layup.  Assisted by Greg Rice.
+Omaha,IUPUI,85,78,39,53,0,Foul on John Karhoff
+Omaha,IUPUI,85,78,39,53,0,Mitchell Patton missed Free Throw.
+Omaha,IUPUI,85,78,39,53,0,Caleb Steffensmeier Defensive Rebound.
+Omaha,IUPUI,85,78,40,0,0,End Game

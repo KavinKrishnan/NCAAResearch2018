@@ -1,0 +1,276 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Washington,Arizona State,0,0,0,24,0,Foul on Shawn Kemp
+Washington,Arizona State,0,0,0,24,0,Jonathan Gilling missed Free Throw.
+Washington,Arizona State,0,0,0,24,0,null
+Washington,Arizona State,0,1,0,24,1,Jonathan Gilling made Free Throw.
+Washington,Arizona State,0,1,0,43,0,Foul on C.J. Wilcox
+Washington,Arizona State,0,1,0,43,0,C.J. Wilcox Turnover.
+Washington,Arizona State,0,1,0,59,0,Chris Colvin Turnover.
+Washington,Arizona State,0,1,1,0,0,C.J. Wilcox Steal.
+Washington,Arizona State,0,1,1,4,0,Abdul Gaddy missed Layup.
+Washington,Arizona State,0,1,1,4,0,Carrick Felix Block.
+Washington,Arizona State,0,1,1,5,0,Chris Colvin Defensive Rebound.
+Washington,Arizona State,0,1,1,8,0,Arizona State Full Timeout.
+Washington,Arizona State,0,1,1,31,0,Jonathan Gilling missed Three Point Jumper.
+Washington,Arizona State,0,1,1,31,0,Aziz N'Diaye Defensive Rebound.
+Washington,Arizona State,2,1,1,56,1,Shawn Kemp made Jumper.  Assisted by Scott Suggs.
+Washington,Arizona State,2,3,2,6,1,Jahii Carson made Jumper.
+Washington,Arizona State,5,3,2,21,1,Scott Suggs made Three Point Jumper.  Assisted by Abdul Gaddy.
+Washington,Arizona State,5,3,2,30,0,Jahii Carson missed Layup.
+Washington,Arizona State,5,3,2,30,0,Scott Suggs Block.
+Washington,Arizona State,5,3,2,31,0,Scott Suggs Defensive Rebound.
+Washington,Arizona State,5,3,2,43,0,Scott Suggs Turnover.
+Washington,Arizona State,5,3,2,44,0,Jahii Carson Steal.
+Washington,Arizona State,5,5,2,45,1,Ruslan Pateev made Dunk.  Assisted by Carrick Felix.
+Washington,Arizona State,5,5,3,13,0,C.J. Wilcox missed Three Point Jumper.
+Washington,Arizona State,5,5,3,13,0,Abdul Gaddy Offensive Rebound.
+Washington,Arizona State,7,5,3,29,1,Abdul Gaddy made Jumper.  Assisted by C.J. Wilcox.
+Washington,Arizona State,7,5,3,50,0,Carrick Felix missed Layup.
+Washington,Arizona State,7,5,3,50,0,Ruslan Pateev Offensive Rebound.
+Washington,Arizona State,7,7,3,54,1,Ruslan Pateev made Dunk.
+Washington,Arizona State,7,7,4,0,0,C.J. Wilcox missed Three Point Jumper.
+Washington,Arizona State,7,7,4,0,0,Ruslan Pateev Defensive Rebound.
+Washington,Arizona State,7,7,4,6,0,Ruslan Pateev Turnover.
+Washington,Arizona State,7,7,4,6,0,Abdul Gaddy Steal.
+Washington,Arizona State,7,7,4,20,0,Scott Suggs missed Three Point Jumper.
+Washington,Arizona State,7,7,4,20,0,Washington Offensive Rebound.
+Washington,Arizona State,7,7,4,23,0,Official TV Timeout.
+Washington,Arizona State,9,7,4,57,1,Abdul Gaddy made Jumper.
+Washington,Arizona State,9,7,5,24,0,Carrick Felix missed Three Point Jumper.
+Washington,Arizona State,9,7,5,24,0,Washington Defensive Rebound.
+Washington,Arizona State,11,7,5,55,1,Desmond Simmons made Jumper.
+Washington,Arizona State,11,9,6,25,1,Jordan Bachynski made Dunk.  Assisted by Jahii Carson.
+Washington,Arizona State,11,9,6,49,0,Andrew Andrews missed Jumper.
+Washington,Arizona State,11,9,6,49,0,Desmond Simmons Offensive Rebound.
+Washington,Arizona State,11,9,6,58,0,Scott Suggs Turnover.
+Washington,Arizona State,11,9,6,59,0,Jordan Bachynski Steal.
+Washington,Arizona State,11,11,7,12,1,Carrick Felix made Layup.  Assisted by Jahii Carson.
+Washington,Arizona State,11,11,7,33,0,C.J. Wilcox missed Layup.
+Washington,Arizona State,11,11,7,33,0,Jordan Bachynski Block.
+Washington,Arizona State,11,11,7,35,0,Aziz N'Diaye Offensive Rebound.
+Washington,Arizona State,11,11,7,41,0,C.J. Wilcox missed Three Point Jumper.
+Washington,Arizona State,11,11,7,41,0,Jordan Bachynski Defensive Rebound.
+Washington,Arizona State,11,11,8,5,0,Foul on Carrick Felix
+Washington,Arizona State,11,11,8,5,0,Carrick Felix Turnover.
+Washington,Arizona State,11,11,8,5,0,Official TV Timeout.
+Washington,Arizona State,13,11,8,32,1,Scott Suggs made Jumper.  Assisted by Andrew Andrews.
+Washington,Arizona State,13,13,8,49,1,Jahii Carson made Layup.
+Washington,Arizona State,15,13,9,3,1,Scott Suggs made Layup.  Assisted by Aziz N'Diaye.
+Washington,Arizona State,15,13,9,34,0,Jordan Bachynski missed Layup.
+Washington,Arizona State,15,13,9,34,0,Aziz N'Diaye Defensive Rebound.
+Washington,Arizona State,15,13,9,51,0,C.J. Wilcox missed Jumper.
+Washington,Arizona State,15,13,9,51,0,Evan Gordon Block.
+Washington,Arizona State,15,13,9,53,0,Evan Gordon Defensive Rebound.
+Washington,Arizona State,15,13,9,56,0,Jahii Carson missed Layup.
+Washington,Arizona State,15,13,9,56,0,Andrew Andrews Block.
+Washington,Arizona State,15,13,9,56,0,Scott Suggs Defensive Rebound.
+Washington,Arizona State,18,13,10,28,1,Scott Suggs made Three Point Jumper.
+Washington,Arizona State,18,13,10,36,0,Arizona State Full Timeout.
+Washington,Arizona State,18,16,11,1,1,Chris Colvin made Three Point Jumper.  Assisted by Carrick Felix.
+Washington,Arizona State,20,16,11,20,1,Aziz N'Diaye made Jumper.
+Washington,Arizona State,20,16,11,48,0,Evan Gordon Turnover.
+Washington,Arizona State,20,16,11,49,0,C.J. Wilcox Steal.
+Washington,Arizona State,20,16,11,50,0,Foul on Carrick Felix
+Washington,Arizona State,20,16,11,50,0,Jernard Jarreau missed Free Throw.
+Washington,Arizona State,20,16,11,50,0,null
+Washington,Arizona State,21,16,11,50,1,Jernard Jarreau made Free Throw.
+Washington,Arizona State,21,16,12,16,0,Ruslan Pateev missed Jumper.
+Washington,Arizona State,21,16,12,16,0,Abdul Gaddy Defensive Rebound.
+Washington,Arizona State,21,16,12,49,0,Washington Full Timeout.
+Washington,Arizona State,21,16,12,53,0,Andrew Andrews missed Layup.
+Washington,Arizona State,21,16,12,53,0,Aziz N'Diaye Offensive Rebound.
+Washington,Arizona State,21,16,12,54,0,Official TV Timeout.
+Washington,Arizona State,21,16,12,54,0,Washington Turnover.
+Washington,Arizona State,21,18,13,27,1,Ruslan Pateev made Dunk.  Assisted by Chris Colvin.
+Washington,Arizona State,21,18,13,40,0,Scott Suggs Turnover.
+Washington,Arizona State,21,21,13,58,1,Jonathan Gilling made Three Point Jumper.  Assisted by Evan Gordon.
+Washington,Arizona State,23,21,14,13,1,Jernard Jarreau made Layup.
+Washington,Arizona State,23,21,14,32,0,Foul on Jernard Jarreau
+Washington,Arizona State,23,21,14,34,0,Jonathan Gilling missed Three Point Jumper.
+Washington,Arizona State,23,21,14,34,0,Carrick Felix Offensive Rebound.
+Washington,Arizona State,23,21,14,37,0,Foul on Scott Suggs
+Washington,Arizona State,23,21,14,37,0,Carrick Felix missed Free Throw.
+Washington,Arizona State,23,21,14,37,0,null
+Washington,Arizona State,23,22,14,37,1,Carrick Felix made Free Throw.
+Washington,Arizona State,23,22,15,5,0,Desmond Simmons missed Jumper.
+Washington,Arizona State,23,22,15,5,0,Andrew Andrews Offensive Rebound.
+Washington,Arizona State,23,22,15,8,0,Foul on Jahii Carson
+Washington,Arizona State,25,22,15,28,1,Shawn Kemp made Dunk.  Assisted by Abdul Gaddy.
+Washington,Arizona State,25,22,15,44,0,Jahii Carson missed Jumper.
+Washington,Arizona State,25,22,15,44,0,Desmond Simmons Defensive Rebound.
+Washington,Arizona State,25,22,15,54,0,Foul on Chris Colvin
+Washington,Arizona State,26,22,15,54,1,Abdul Gaddy made Free Throw.
+Washington,Arizona State,26,22,15,54,0,Abdul Gaddy missed Free Throw.
+Washington,Arizona State,26,22,15,54,0,Jordan Bachynski Defensive Rebound.
+Washington,Arizona State,26,24,16,14,1,Evan Gordon made Layup.
+Washington,Arizona State,26,24,16,25,0,Shawn Kemp missed Jumper.
+Washington,Arizona State,26,24,16,25,0,Chris Colvin Defensive Rebound.
+Washington,Arizona State,26,26,16,37,1,Chris Colvin made Layup.
+Washington,Arizona State,28,26,16,50,1,Andrew Andrews made Layup.
+Washington,Arizona State,28,26,17,9,0,Jahii Carson missed Layup.
+Washington,Arizona State,28,26,17,9,0,Desmond Simmons Defensive Rebound.
+Washington,Arizona State,28,26,17,15,0,Scott Suggs missed Layup.
+Washington,Arizona State,28,26,17,15,0,Jordan Bachynski Defensive Rebound.
+Washington,Arizona State,28,26,17,43,0,Jahii Carson missed Jumper.
+Washington,Arizona State,28,26,17,43,0,Abdul Gaddy Defensive Rebound.
+Washington,Arizona State,28,26,17,59,0,Shawn Kemp missed Jumper.
+Washington,Arizona State,28,26,17,59,0,Jonathan Gilling Defensive Rebound.
+Washington,Arizona State,28,26,18,14,0,Jonathan Gilling missed Three Point Jumper.
+Washington,Arizona State,28,26,18,14,0,Scott Suggs Defensive Rebound.
+Washington,Arizona State,30,26,18,36,1,Desmond Simmons made Jumper.  Assisted by Abdul Gaddy.
+Washington,Arizona State,30,26,18,57,0,Foul on Shawn Kemp
+Washington,Arizona State,30,26,18,57,0,Official TV Timeout.
+Washington,Arizona State,30,27,18,57,1,Jahii Carson made Free Throw.
+Washington,Arizona State,30,28,18,57,1,Jahii Carson made Free Throw.
+Washington,Arizona State,30,28,19,12,0,Abdul Gaddy missed Layup.
+Washington,Arizona State,30,28,19,12,0,Aziz N'Diaye Offensive Rebound.
+Washington,Arizona State,32,28,19,15,1,Aziz N'Diaye made Dunk.
+Washington,Arizona State,32,28,19,37,0,Chris Colvin missed Layup.
+Washington,Arizona State,32,28,19,37,0,Abdul Gaddy Defensive Rebound.
+Washington,Arizona State,32,28,19,43,0,Foul on Chris Colvin
+Washington,Arizona State,32,28,19,59,0,C.J. Wilcox missed Jumper.
+Washington,Arizona State,32,28,19,59,0,Desmond Simmons Offensive Rebound.
+Washington,Arizona State,32,28,20,0,0,End of the 1st Half.
+Washington,Arizona State,32,28,20,31,0,Abdul Gaddy missed Jumper.
+Washington,Arizona State,32,28,20,31,0,Jahii Carson Defensive Rebound.
+Washington,Arizona State,32,28,20,38,0,Chris Colvin missed Three Point Jumper.
+Washington,Arizona State,32,28,20,38,0,Aziz N'Diaye Defensive Rebound.
+Washington,Arizona State,34,28,20,54,1,Shawn Kemp made Dunk.  Assisted by Abdul Gaddy.
+Washington,Arizona State,34,30,21,18,1,Ruslan Pateev made Layup.  Assisted by Jahii Carson.
+Washington,Arizona State,37,30,21,38,1,Scott Suggs made Three Point Jumper.  Assisted by Abdul Gaddy.
+Washington,Arizona State,37,32,22,2,1,Ruslan Pateev made Layup.
+Washington,Arizona State,37,32,22,2,0,Foul on Aziz N'Diaye
+Washington,Arizona State,37,32,22,2,0,Ruslan Pateev missed Free Throw.
+Washington,Arizona State,37,32,22,2,0,Shawn Kemp Defensive Rebound.
+Washington,Arizona State,37,32,22,29,0,Foul on Carrick Felix
+Washington,Arizona State,39,32,22,36,1,Abdul Gaddy made Jumper.
+Washington,Arizona State,39,32,22,52,0,Foul on Abdul Gaddy
+Washington,Arizona State,39,32,22,58,0,Ruslan Pateev missed Layup.
+Washington,Arizona State,39,32,22,58,0,Aziz N'Diaye Defensive Rebound.
+Washington,Arizona State,39,32,23,6,0,Foul on Chris Colvin
+Washington,Arizona State,40,32,23,6,1,C.J. Wilcox made Free Throw.
+Washington,Arizona State,41,32,23,6,1,C.J. Wilcox made Free Throw.
+Washington,Arizona State,41,35,23,28,1,Evan Gordon made Three Point Jumper.
+Washington,Arizona State,41,35,23,52,0,C.J. Wilcox missed Three Point Jumper.
+Washington,Arizona State,41,35,23,52,0,Aziz N'Diaye Offensive Rebound.
+Washington,Arizona State,41,35,23,57,0,Aziz N'Diaye missed Layup.
+Washington,Arizona State,41,35,23,57,0,C.J. Wilcox Offensive Rebound.
+Washington,Arizona State,43,35,23,59,1,Andrew Andrews made Layup.
+Washington,Arizona State,43,35,24,22,0,Foul on Andrew Andrews
+Washington,Arizona State,43,35,24,22,0,Official TV Timeout.
+Washington,Arizona State,43,35,24,34,0,Carrick Felix Turnover.
+Washington,Arizona State,43,35,24,59,0,Andrew Andrews missed Jumper.
+Washington,Arizona State,43,35,24,59,0,Ruslan Pateev Defensive Rebound.
+Washington,Arizona State,43,35,25,34,0,Jahii Carson missed Jumper.
+Washington,Arizona State,43,35,25,34,0,Aziz N'Diaye Defensive Rebound.
+Washington,Arizona State,45,35,25,46,1,Andrew Andrews made Layup.
+Washington,Arizona State,45,37,26,7,1,Jordan Bachynski made Layup.  Assisted by Evan Gordon.
+Washington,Arizona State,47,37,26,18,1,Andrew Andrews made Layup.
+Washington,Arizona State,47,37,26,54,0,Jahii Carson Turnover.
+Washington,Arizona State,47,37,26,55,0,Andrew Andrews Steal.
+Washington,Arizona State,49,37,27,19,1,Abdul Gaddy made Jumper.
+Washington,Arizona State,49,37,27,32,0,Arizona State Full Timeout.
+Washington,Arizona State,49,37,27,41,0,Jahii Carson missed Layup.
+Washington,Arizona State,49,37,27,41,0,Jernard Jarreau Defensive Rebound.
+Washington,Arizona State,49,37,27,56,0,Scott Suggs missed Three Point Jumper.
+Washington,Arizona State,49,37,27,56,0,Jahii Carson Defensive Rebound.
+Washington,Arizona State,49,37,28,6,0,Foul on Andrew Andrews
+Washington,Arizona State,49,37,28,6,0,Official TV Timeout.
+Washington,Arizona State,49,37,28,6,0,Jahii Carson missed Free Throw.
+Washington,Arizona State,49,37,28,6,0,null
+Washington,Arizona State,49,38,28,6,1,Jahii Carson made Free Throw.
+Washington,Arizona State,51,38,28,20,1,Abdul Gaddy made Layup.
+Washington,Arizona State,51,41,28,34,1,Evan Gordon made Three Point Jumper.  Assisted by Jahii Carson.
+Washington,Arizona State,51,41,28,52,0,Andrew Andrews missed Jumper.
+Washington,Arizona State,51,41,28,52,0,Jernard Jarreau Offensive Rebound.
+Washington,Arizona State,51,41,28,53,0,Foul on Jonathan Gilling
+Washington,Arizona State,51,41,29,5,0,Foul on Ruslan Pateev
+Washington,Arizona State,51,41,29,27,0,Foul on Ruslan Pateev
+Washington,Arizona State,51,41,29,27,0,Jernard Jarreau missed Free Throw.
+Washington,Arizona State,51,41,29,27,0,null
+Washington,Arizona State,52,41,29,27,1,Jernard Jarreau made Free Throw.
+Washington,Arizona State,52,41,29,38,0,Evan Gordon missed Three Point Jumper.
+Washington,Arizona State,52,41,29,38,0,Abdul Gaddy Defensive Rebound.
+Washington,Arizona State,52,41,30,4,0,C.J. Wilcox missed Layup.
+Washington,Arizona State,52,41,30,4,0,Andrew Andrews Offensive Rebound.
+Washington,Arizona State,52,41,30,6,0,Foul on Evan Gordon
+Washington,Arizona State,52,41,30,6,0,Andrew Andrews missed Free Throw.
+Washington,Arizona State,52,41,30,6,0,null
+Washington,Arizona State,53,41,30,6,1,Andrew Andrews made Free Throw.
+Washington,Arizona State,53,41,30,26,0,Foul on Andrew Andrews
+Washington,Arizona State,53,43,30,28,1,Evan Gordon made Jumper.  Assisted by Jahii Carson.
+Washington,Arizona State,55,43,30,52,1,Shawn Kemp made Layup.  Assisted by C.J. Wilcox.
+Washington,Arizona State,55,43,31,6,0,Foul on Desmond Simmons
+Washington,Arizona State,55,45,31,6,1,Jonathan Gilling made Layup.  Assisted by Jahii Carson.
+Washington,Arizona State,55,45,31,19,0,Foul on Desmond Simmons
+Washington,Arizona State,55,45,31,19,0,Desmond Simmons Turnover.
+Washington,Arizona State,55,47,31,30,1,Eric Jacobsen made Layup.  Assisted by Jahii Carson.
+Washington,Arizona State,55,47,31,47,0,Shawn Kemp Turnover.
+Washington,Arizona State,55,47,31,47,0,Carrick Felix Steal.
+Washington,Arizona State,55,47,32,9,0,Jonathan Gilling Turnover.
+Washington,Arizona State,55,47,32,10,0,Official TV Timeout.
+Washington,Arizona State,57,47,32,26,1,C.J. Wilcox made Jumper.  Assisted by Abdul Gaddy.
+Washington,Arizona State,57,47,32,57,0,Foul on C.J. Wilcox
+Washington,Arizona State,57,48,32,57,1,Carrick Felix made Free Throw.
+Washington,Arizona State,57,49,32,57,1,Carrick Felix made Free Throw.
+Washington,Arizona State,57,49,33,18,0,C.J. Wilcox missed Three Point Jumper.
+Washington,Arizona State,57,49,33,18,0,Carrick Felix Defensive Rebound.
+Washington,Arizona State,57,52,33,29,1,Carrick Felix made Three Point Jumper.  Assisted by Jonathan Gilling.
+Washington,Arizona State,57,52,33,34,0,Washington Full Timeout.
+Washington,Arizona State,57,52,34,5,0,Scott Suggs missed Jumper.
+Washington,Arizona State,57,52,34,5,0,Scott Suggs Offensive Rebound.
+Washington,Arizona State,57,52,34,21,0,Abdul Gaddy missed Jumper.
+Washington,Arizona State,57,52,34,21,0,Carrick Felix Defensive Rebound.
+Washington,Arizona State,57,52,34,38,0,Carrick Felix missed Three Point Jumper.
+Washington,Arizona State,57,52,34,38,0,Arizona State Offensive Rebound.
+Washington,Arizona State,57,52,34,39,0,Foul on Aziz N'Diaye
+Washington,Arizona State,57,52,34,39,0,Eric Jacobsen missed Free Throw.
+Washington,Arizona State,57,52,34,39,0,Shawn Kemp Defensive Rebound.
+Washington,Arizona State,57,52,35,2,0,Aziz N'Diaye missed Layup.
+Washington,Arizona State,57,52,35,2,0,Carrick Felix Defensive Rebound.
+Washington,Arizona State,57,54,35,21,1,Jonathan Gilling made Layup.
+Washington,Arizona State,57,54,35,21,0,Foul on Scott Suggs
+Washington,Arizona State,57,54,35,21,0,Jonathan Gilling missed Free Throw.
+Washington,Arizona State,57,54,35,21,0,Aziz N'Diaye Defensive Rebound.
+Washington,Arizona State,57,54,35,54,0,Andrew Andrews missed Three Point Jumper.
+Washington,Arizona State,57,54,35,54,0,Arizona State Defensive Rebound.
+Washington,Arizona State,57,54,36,9,0,Jahii Carson missed Layup.
+Washington,Arizona State,57,54,36,9,0,Eric Jacobsen Offensive Rebound.
+Washington,Arizona State,57,56,36,11,1,Eric Jacobsen made Layup.
+Washington,Arizona State,57,56,36,28,0,Foul on Jahii Carson
+Washington,Arizona State,57,56,36,28,0,Official TV Timeout.
+Washington,Arizona State,58,56,36,28,1,Andrew Andrews made Free Throw.
+Washington,Arizona State,59,56,36,28,1,Andrew Andrews made Free Throw.
+Washington,Arizona State,59,56,36,55,0,Carrick Felix missed Three Point Jumper.
+Washington,Arizona State,59,56,36,55,0,Carrick Felix Offensive Rebound.
+Washington,Arizona State,59,56,37,25,0,Jahii Carson missed Three Point Jumper.
+Washington,Arizona State,59,56,37,25,0,Andrew Andrews Defensive Rebound.
+Washington,Arizona State,59,56,37,49,0,Shawn Kemp missed Jumper.
+Washington,Arizona State,59,56,37,49,0,Andrew Andrews Offensive Rebound.
+Washington,Arizona State,59,56,37,56,0,Washington Full Timeout.
+Washington,Arizona State,61,56,38,16,1,Abdul Gaddy made Jumper.
+Washington,Arizona State,61,56,38,34,0,Jonathan Gilling missed Three Point Jumper.
+Washington,Arizona State,61,56,38,34,0,Arizona State Offensive Rebound.
+Washington,Arizona State,61,58,38,56,1,Jahii Carson made Layup.
+Washington,Arizona State,61,58,38,56,0,Arizona State Full Timeout.
+Washington,Arizona State,61,58,39,35,0,Jahii Carson missed Jumper.
+Washington,Arizona State,64,58,39,35,1,Scott Suggs made Three Point Jumper.  Assisted by Abdul Gaddy.
+Washington,Arizona State,65,58,39,36,1,Andrew Andrews made Free Throw.
+Washington,Arizona State,65,58,39,36,0,Foul on Evan Gordon
+Washington,Arizona State,66,58,39,36,1,Andrew Andrews made Free Throw.
+Washington,Arizona State,66,58,39,38,0,Shawn Kemp Defensive Rebound.
+Washington,Arizona State,66,58,39,42,0,Jahii Carson missed Layup.
+Washington,Arizona State,66,58,39,42,0,Andrew Andrews Block.
+Washington,Arizona State,66,58,39,43,0,Jahii Carson Offensive Rebound.
+Washington,Arizona State,66,58,39,43,0,Foul on Scott Suggs
+Washington,Arizona State,66,58,39,43,0,Jahii Carson missed Free Throw.
+Washington,Arizona State,66,58,39,43,0,null
+Washington,Arizona State,66,58,39,43,0,Washington Full Timeout.
+Washington,Arizona State,66,59,39,43,1,Jahii Carson made Free Throw.
+Washington,Arizona State,66,59,39,43,0,Washington Full Timeout.
+Washington,Arizona State,66,59,39,43,0,Foul on Chris Colvin
+Washington,Arizona State,67,59,39,43,1,C.J. Wilcox made Free Throw.
+Washington,Arizona State,68,59,39,43,1,C.J. Wilcox made Free Throw.
+Washington,Arizona State,68,59,39,48,0,Jahii Carson Turnover.
+Washington,Arizona State,68,59,39,49,0,Andrew Andrews Steal.
+Washington,Arizona State,68,59,40,0,0,End Game

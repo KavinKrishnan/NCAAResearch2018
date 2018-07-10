@@ -1,0 +1,331 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+IUPUI,Purdue,0,0,0,0,0,Jump Ball won by IUPUI
+IUPUI,Purdue,2,0,0,29,1,Marcellus Barksdale made Layup.
+IUPUI,Purdue,2,2,0,43,1,Isaac Haas made Jumper. Assisted by Vince Edwards.
+IUPUI,Purdue,2,2,1,3,0,Darell Combs missed Three Point Jumper.
+IUPUI,Purdue,2,2,1,3,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,2,5,1,10,1,Caleb Swanigan made Three Point Jumper. Assisted by P.J. Thompson.
+IUPUI,Purdue,2,5,1,32,0,Matt O'Leary Turnover.
+IUPUI,Purdue,2,5,1,32,0,P.J. Thompson Steal.
+IUPUI,Purdue,2,5,1,41,0,Isaac Haas missed Jumper.
+IUPUI,Purdue,2,5,1,41,0,Vince Edwards Offensive Rebound.
+IUPUI,Purdue,2,5,1,47,0,Jump Ball won by Purdue
+IUPUI,Purdue,2,5,1,58,0,Foul on Nick Osborne.
+IUPUI,Purdue,2,5,2,0,0,Caleb Swanigan missed Three Point Jumper.
+IUPUI,Purdue,2,5,2,0,0,Marcellus Barksdale Defensive Rebound.
+IUPUI,Purdue,2,5,2,12,0,Marcellus Barksdale missed Layup.
+IUPUI,Purdue,2,5,2,12,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,2,7,2,32,1,Isaac Haas made Layup. Assisted by Vince Edwards.
+IUPUI,Purdue,5,7,2,58,1,Marcellus Barksdale made Three Point Jumper. Assisted by Matt O'Leary.
+IUPUI,Purdue,5,10,3,23,1,P.J. Thompson made Three Point Jumper. Assisted by Caleb Swanigan.
+IUPUI,Purdue,5,10,3,37,0,Marcellus Barksdale missed Three Point Jumper.
+IUPUI,Purdue,5,10,3,37,0,Dakota Mathias Defensive Rebound.
+IUPUI,Purdue,5,13,3,56,1,Vince Edwards made Three Point Jumper. Assisted by P.J. Thompson.
+IUPUI,Purdue,5,13,4,3,0,Foul on Vince Edwards.
+IUPUI,Purdue,5,13,4,3,0,Official TV Timeout
+IUPUI,Purdue,5,13,4,16,0,Foul on Dakota Mathias.
+IUPUI,Purdue,5,13,4,16,0,Darell Combs missed Free Throw.
+IUPUI,Purdue,5,13,4,16,0,IUPUI Deadball Team Rebound.
+IUPUI,Purdue,6,13,4,16,1,Darell Combs made Free Throw.
+IUPUI,Purdue,6,15,4,36,1,Caleb Swanigan made Jumper.
+IUPUI,Purdue,8,15,4,48,1,Darell Combs made Jumper.
+IUPUI,Purdue,8,15,5,3,0,Dakota Mathias missed Three Point Jumper.
+IUPUI,Purdue,8,15,5,3,0,Evan Hall Defensive Rebound.
+IUPUI,Purdue,10,15,5,19,1,Jordan Pickett made Jumper.
+IUPUI,Purdue,10,15,5,38,0,Foul on Evan Hall.
+IUPUI,Purdue,10,15,5,49,0,Kendall Stephens Turnover.
+IUPUI,Purdue,10,15,6,1,0,Darell Combs Turnover.
+IUPUI,Purdue,10,15,6,11,0,P.J. Thompson missed Jumper.
+IUPUI,Purdue,10,15,6,11,0,Mason Archie II Defensive Rebound.
+IUPUI,Purdue,10,15,6,30,0,Darell Combs missed Three Point Jumper.
+IUPUI,Purdue,10,15,6,30,0,Kendall Stephens Defensive Rebound.
+IUPUI,Purdue,10,17,6,46,1,A.J. Hammons made Layup. Assisted by Caleb Swanigan.
+IUPUI,Purdue,12,17,7,5,1,Evan Hall made Jumper.
+IUPUI,Purdue,12,17,7,27,0,Ryan Cline missed Layup.
+IUPUI,Purdue,12,17,7,27,0,Darell Combs Defensive Rebound.
+IUPUI,Purdue,12,17,7,33,0,Foul on P.J. Thompson.
+IUPUI,Purdue,12,17,7,50,0,Mason Archie II missed Three Point Jumper.
+IUPUI,Purdue,12,17,7,50,0,A.J. Hammons Defensive Rebound.
+IUPUI,Purdue,12,20,7,58,1,Kendall Stephens made Three Point Jumper. Assisted by Johnny Hill.
+IUPUI,Purdue,12,20,8,12,0,Foul on Johnny Hill.
+IUPUI,Purdue,12,20,8,12,0,Official TV Timeout
+IUPUI,Purdue,14,20,8,28,1,Jordan Pickett made Jumper.
+IUPUI,Purdue,14,20,8,37,0,Ryan Cline missed Three Point Jumper.
+IUPUI,Purdue,14,20,8,37,0,Jordan Pickett Defensive Rebound.
+IUPUI,Purdue,14,20,8,46,0,Jordan Pickett Turnover.
+IUPUI,Purdue,14,20,8,46,0,Kendall Stephens Steal.
+IUPUI,Purdue,14,22,8,54,1,A.J. Hammons made Jumper. Assisted by Kendall Stephens.
+IUPUI,Purdue,17,22,9,8,1,Nick Osborne made Three Point Jumper. Assisted by T.J. Henderson.
+IUPUI,Purdue,17,22,9,17,0,Foul on T.J. Henderson.
+IUPUI,Purdue,17,22,9,26,0,Ryan Cline Turnover.
+IUPUI,Purdue,17,22,9,26,0,Aaron Brennan Steal.
+IUPUI,Purdue,17,22,9,45,0,T.J. Henderson missed Jumper.
+IUPUI,Purdue,17,22,9,45,0,Kendall Stephens Block.
+IUPUI,Purdue,17,22,9,45,0,T.J. Henderson Offensive Rebound.
+IUPUI,Purdue,17,22,9,52,0,Jordan Pickett missed Three Point Jumper.
+IUPUI,Purdue,17,22,9,52,0,Vince Edwards Defensive Rebound.
+IUPUI,Purdue,17,22,9,59,0,Vince Edwards missed Jumper.
+IUPUI,Purdue,17,22,9,59,0,Mason Archie II Defensive Rebound.
+IUPUI,Purdue,17,22,10,13,0,Nick Osborne Turnover.
+IUPUI,Purdue,17,22,10,13,0,Kendall Stephens Steal.
+IUPUI,Purdue,17,22,10,23,0,Kendall Stephens missed Three Point Jumper.
+IUPUI,Purdue,17,22,10,23,0,Vince Edwards Offensive Rebound.
+IUPUI,Purdue,17,22,10,28,0,Vince Edwards missed Jumper.
+IUPUI,Purdue,17,22,10,28,0,T.J. Henderson Defensive Rebound.
+IUPUI,Purdue,17,22,10,43,0,Jordan Pickett missed Jumper.
+IUPUI,Purdue,17,22,10,43,0,Aaron Brennan Offensive Rebound.
+IUPUI,Purdue,19,22,10,53,1,T.J. Henderson made Layup.
+IUPUI,Purdue,19,22,11,18,0,Kendall Stephens missed Three Point Jumper.
+IUPUI,Purdue,19,22,11,18,0,T.J. Henderson Defensive Rebound.
+IUPUI,Purdue,19,22,11,32,0,Jordan Pickett Turnover.
+IUPUI,Purdue,19,22,11,32,0,A.J. Hammons Steal.
+IUPUI,Purdue,19,22,11,43,0,Johnny Hill missed Three Point Jumper.
+IUPUI,Purdue,19,22,11,43,0,Nick Osborne Defensive Rebound.
+IUPUI,Purdue,22,22,12,11,1,Nick Osborne made Three Point Jumper. Assisted by T.J. Henderson.
+IUPUI,Purdue,22,25,12,23,1,Kendall Stephens made Three Point Jumper.
+IUPUI,Purdue,22,25,12,46,0,Foul on T.J. Henderson.
+IUPUI,Purdue,22,25,12,46,0,T.J. Henderson Turnover.
+IUPUI,Purdue,22,25,12,46,0,Official TV Timeout
+IUPUI,Purdue,22,27,13,4,1,Johnny Hill made Jumper.
+IUPUI,Purdue,22,27,13,36,0,Jordan Pickett missed Three Point Jumper.
+IUPUI,Purdue,22,27,13,36,0,Matt O'Leary Offensive Rebound.
+IUPUI,Purdue,22,27,13,48,0,Foul on Kendall Stephens.
+IUPUI,Purdue,22,27,13,56,0,Jordan Pickett missed Three Point Jumper.
+IUPUI,Purdue,22,27,13,56,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,22,27,14,12,0,Foul on Evan Hall.
+IUPUI,Purdue,22,28,14,12,1,Isaac Haas made Free Throw.
+IUPUI,Purdue,22,28,14,12,0,Isaac Haas missed Free Throw.
+IUPUI,Purdue,22,28,14,12,0,Jordan Pickett Defensive Rebound.
+IUPUI,Purdue,22,28,14,27,0,Darell Combs missed Jumper.
+IUPUI,Purdue,22,28,14,27,0,Dakota Mathias Defensive Rebound.
+IUPUI,Purdue,22,28,14,34,0,Foul on Evan Hall.
+IUPUI,Purdue,22,28,14,38,0,Dakota Mathias missed Jumper.
+IUPUI,Purdue,22,28,14,38,0,Caleb Swanigan Offensive Rebound.
+IUPUI,Purdue,22,28,14,43,0,Dakota Mathias missed Jumper.
+IUPUI,Purdue,22,28,14,43,0,Marcellus Barksdale Defensive Rebound.
+IUPUI,Purdue,22,28,15,7,0,Nick Osborne missed Jumper.
+IUPUI,Purdue,22,28,15,7,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,22,30,15,22,1,Caleb Swanigan made Dunk. Assisted by Isaac Haas.
+IUPUI,Purdue,22,30,15,28,0,IUPUI  Timeout
+IUPUI,Purdue,22,30,15,49,0,Nick Osborne missed Three Point Jumper.
+IUPUI,Purdue,22,30,15,49,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,22,30,16,6,0,Dakota Mathias Turnover.
+IUPUI,Purdue,22,30,16,6,0,Official TV Timeout
+IUPUI,Purdue,22,30,16,18,0,Foul on Ryan Cline.
+IUPUI,Purdue,22,30,16,22,0,Nick Osborne missed Jumper.
+IUPUI,Purdue,22,30,16,22,0,Isaac Haas Block.
+IUPUI,Purdue,22,30,16,22,0,Nick Osborne Offensive Rebound.
+IUPUI,Purdue,22,30,16,30,0,Marcellus Barksdale missed Layup.
+IUPUI,Purdue,22,30,16,30,0,Marcellus Barksdale Offensive Rebound.
+IUPUI,Purdue,22,30,16,39,0,Matt O'Leary missed Three Point Jumper.
+IUPUI,Purdue,22,30,16,39,0,Vince Edwards Defensive Rebound.
+IUPUI,Purdue,22,30,16,48,0,Foul on Nick Osborne.
+IUPUI,Purdue,22,31,16,48,1,Isaac Haas made Free Throw.
+IUPUI,Purdue,22,32,16,48,1,Isaac Haas made Free Throw.
+IUPUI,Purdue,22,32,17,14,0,Matt O'Leary missed Layup.
+IUPUI,Purdue,22,32,17,14,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,22,32,17,14,0,Foul on Aaron Brennan.
+IUPUI,Purdue,22,33,17,14,1,Caleb Swanigan made Free Throw.
+IUPUI,Purdue,22,34,17,14,1,Caleb Swanigan made Free Throw.
+IUPUI,Purdue,25,34,17,27,1,Jordan Pickett made Three Point Jumper. Assisted by Matt O'Leary.
+IUPUI,Purdue,25,34,17,35,0,Foul on Jordan Pickett.
+IUPUI,Purdue,25,34,17,35,0,P.J. Thompson missed Free Throw.
+IUPUI,Purdue,25,34,17,35,0,Mason Archie II Defensive Rebound.
+IUPUI,Purdue,27,34,17,59,1,Darell Combs made Layup. Assisted by Jordan Pickett.
+IUPUI,Purdue,27,34,18,20,0,P.J. Thompson missed Three Point Jumper.
+IUPUI,Purdue,27,34,18,20,0,Matt O'Leary Defensive Rebound.
+IUPUI,Purdue,27,34,18,42,0,Foul on Ryan Cline.
+IUPUI,Purdue,28,34,18,42,1,Darell Combs made Free Throw.
+IUPUI,Purdue,29,34,18,42,1,Darell Combs made Free Throw.
+IUPUI,Purdue,29,34,18,53,0,Vince Edwards missed Three Point Jumper.
+IUPUI,Purdue,29,34,18,53,0,IUPUI Deadball Team Rebound.
+IUPUI,Purdue,29,34,18,58,0,Foul on Caleb Swanigan.
+IUPUI,Purdue,30,34,18,58,1,Jordan Pickett made Free Throw.
+IUPUI,Purdue,30,34,18,58,0,Jordan Pickett missed Free Throw.
+IUPUI,Purdue,30,34,18,58,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,30,36,19,15,1,Vince Edwards made Layup.
+IUPUI,Purdue,30,36,19,50,0,Darell Combs missed Jumper.
+IUPUI,Purdue,30,36,19,50,0,Kendall Stephens Block.
+IUPUI,Purdue,30,36,19,50,0,IUPUI Offensive Rebound.
+IUPUI,Purdue,30,36,19,51,0,Darell Combs Turnover.
+IUPUI,Purdue,30,36,19,55,0,Foul on Jordan Pickett.
+IUPUI,Purdue,30,37,19,55,1,P.J. Thompson made Free Throw.
+IUPUI,Purdue,30,38,19,55,1,P.J. Thompson made Free Throw.
+IUPUI,Purdue,30,38,19,59,0,Mason Archie II missed Jumper.
+IUPUI,Purdue,30,38,19,59,0,IUPUI Offensive Rebound.
+IUPUI,Purdue,30,38,20,0,0,End of 1st half
+IUPUI,Purdue,30,38,20,0,0,Jump Ball won by IUPUI
+IUPUI,Purdue,32,38,20,12,1,Jordan Pickett made Jumper. Assisted by Marcellus Barksdale.
+IUPUI,Purdue,32,38,20,26,0,Isaac Haas missed Jumper.
+IUPUI,Purdue,32,38,20,26,0,Jordan Pickett Defensive Rebound.
+IUPUI,Purdue,32,38,20,32,0,Darell Combs missed Jumper.
+IUPUI,Purdue,32,38,20,32,0,Purdue Deadball Team Rebound.
+IUPUI,Purdue,32,38,20,36,0,Foul on Nick Osborne.
+IUPUI,Purdue,32,38,20,52,0,Caleb Swanigan Turnover.
+IUPUI,Purdue,32,38,21,1,0,Marcellus Barksdale Turnover.
+IUPUI,Purdue,32,38,21,1,0,Isaac Haas Steal.
+IUPUI,Purdue,32,38,21,7,0,Vince Edwards missed Three Point Jumper.
+IUPUI,Purdue,32,38,21,7,0,Nick Osborne Defensive Rebound.
+IUPUI,Purdue,32,38,21,21,0,Darell Combs missed Layup.
+IUPUI,Purdue,32,38,21,21,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,32,40,21,27,1,P.J. Thompson made Layup. Assisted by Caleb Swanigan.
+IUPUI,Purdue,35,40,21,47,1,Matt O'Leary made Three Point Jumper. Assisted by Jordan Pickett.
+IUPUI,Purdue,35,40,22,12,0,Foul on Nick Osborne.
+IUPUI,Purdue,35,41,22,12,1,Caleb Swanigan made Free Throw.
+IUPUI,Purdue,35,42,22,12,1,Caleb Swanigan made Free Throw.
+IUPUI,Purdue,35,42,22,32,0,Foul on Vince Edwards.
+IUPUI,Purdue,35,42,22,36,0,Matt O'Leary Turnover.
+IUPUI,Purdue,35,42,22,36,0,Vince Edwards Steal.
+IUPUI,Purdue,35,44,22,42,1,Vince Edwards made Layup.
+IUPUI,Purdue,35,44,23,3,0,Evan Hall missed Jumper.
+IUPUI,Purdue,35,44,23,3,0,Evan Hall Offensive Rebound.
+IUPUI,Purdue,35,44,23,13,0,Foul on Isaac Haas.
+IUPUI,Purdue,35,44,23,13,0,Evan Hall missed Free Throw.
+IUPUI,Purdue,35,44,23,13,0,IUPUI Deadball Team Rebound.
+IUPUI,Purdue,35,44,23,13,0,Evan Hall missed Free Throw.
+IUPUI,Purdue,35,44,23,13,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,35,44,23,26,0,Dakota Mathias missed Three Point Jumper.
+IUPUI,Purdue,35,44,23,26,0,Purdue Offensive Rebound.
+IUPUI,Purdue,35,44,23,38,0,Foul on Evan Hall.
+IUPUI,Purdue,35,44,23,46,0,Dakota Mathias missed Three Point Jumper.
+IUPUI,Purdue,35,44,23,46,0,Purdue Offensive Rebound.
+IUPUI,Purdue,35,46,23,55,1,Isaac Haas made Dunk. Assisted by Johnny Hill.
+IUPUI,Purdue,37,46,24,9,1,Matt O'Leary made Layup. Assisted by Aaron Brennan.
+IUPUI,Purdue,37,46,24,16,0,Foul on Jordan Pickett.
+IUPUI,Purdue,37,46,24,16,0,Official TV Timeout
+IUPUI,Purdue,37,48,24,31,1,Dakota Mathias made Layup. Assisted by Isaac Haas.
+IUPUI,Purdue,37,48,24,47,0,Matt O'Leary missed Three Point Jumper.
+IUPUI,Purdue,37,48,24,47,0,Isaac Haas Defensive Rebound.
+IUPUI,Purdue,37,48,25,2,0,Foul on Darell Combs.
+IUPUI,Purdue,37,48,25,2,0,Isaac Haas missed Free Throw.
+IUPUI,Purdue,37,48,25,2,0,Purdue Deadball Team Rebound.
+IUPUI,Purdue,37,49,25,2,1,Isaac Haas made Free Throw.
+IUPUI,Purdue,39,49,25,9,1,Darell Combs made Jumper.
+IUPUI,Purdue,39,49,25,28,0,Isaac Haas missed Jumper.
+IUPUI,Purdue,39,49,25,28,0,Johnny Hill Offensive Rebound.
+IUPUI,Purdue,39,49,25,40,0,Foul on Mason Archie II.
+IUPUI,Purdue,39,49,25,49,0,A.J. Hammons Turnover.
+IUPUI,Purdue,39,49,25,49,0,Foul on A.J. Hammons.
+IUPUI,Purdue,39,49,26,8,0,Aaron Brennan missed Jumper.
+IUPUI,Purdue,39,49,26,8,0,A.J. Hammons Defensive Rebound.
+IUPUI,Purdue,39,49,26,16,0,Johnny Hill Turnover.
+IUPUI,Purdue,39,49,26,16,0,T.J. Henderson Steal.
+IUPUI,Purdue,39,49,26,21,0,Mason Archie II missed Layup.
+IUPUI,Purdue,39,49,26,21,0,Johnny Hill Block.
+IUPUI,Purdue,39,49,26,21,0,Kendall Stephens Defensive Rebound.
+IUPUI,Purdue,39,49,26,35,0,Kendall Stephens missed Three Point Jumper.
+IUPUI,Purdue,39,49,26,35,0,Johnny Hill Offensive Rebound.
+IUPUI,Purdue,39,49,26,41,0,Johnny Hill Turnover.
+IUPUI,Purdue,39,49,26,41,0,T.J. Henderson Steal.
+IUPUI,Purdue,39,49,26,46,0,Foul on Kendall Stephens.
+IUPUI,Purdue,41,49,26,56,1,Darell Combs made Layup.
+IUPUI,Purdue,41,51,27,11,1,A.J. Hammons made Layup. Assisted by Vince Edwards.
+IUPUI,Purdue,41,51,27,27,0,Darell Combs missed Three Point Jumper.
+IUPUI,Purdue,41,51,27,27,0,Mason Archie II Offensive Rebound.
+IUPUI,Purdue,41,51,27,41,0,T.J. Henderson missed Three Point Jumper.
+IUPUI,Purdue,41,51,27,41,0,Aaron Brennan Offensive Rebound.
+IUPUI,Purdue,41,51,27,45,0,Darell Combs Turnover.
+IUPUI,Purdue,41,51,27,45,0,Kendall Stephens Steal.
+IUPUI,Purdue,41,51,27,50,0,Foul on Darell Combs.
+IUPUI,Purdue,41,52,27,50,1,Kendall Stephens made Free Throw.
+IUPUI,Purdue,41,53,27,50,1,Kendall Stephens made Free Throw.
+IUPUI,Purdue,41,53,28,5,0,Matt O'Leary missed Jumper.
+IUPUI,Purdue,41,53,28,5,0,A.J. Hammons Defensive Rebound.
+IUPUI,Purdue,41,53,28,19,0,Vince Edwards missed Layup.
+IUPUI,Purdue,41,53,28,19,0,Matt O'Leary Block.
+IUPUI,Purdue,41,53,28,19,0,Purdue Offensive Rebound.
+IUPUI,Purdue,41,53,28,19,0,Official TV Timeout
+IUPUI,Purdue,41,55,28,26,1,A.J. Hammons made Jumper. Assisted by Ryan Cline.
+IUPUI,Purdue,41,55,28,45,0,Marcellus Barksdale Turnover.
+IUPUI,Purdue,41,55,28,45,0,Vince Edwards Steal.
+IUPUI,Purdue,41,57,28,50,1,Vince Edwards made Dunk.
+IUPUI,Purdue,41,57,29,7,0,Foul on Johnny Hill.
+IUPUI,Purdue,41,57,29,7,0,Jordan Pickett missed Free Throw.
+IUPUI,Purdue,41,57,29,7,0,IUPUI Deadball Team Rebound.
+IUPUI,Purdue,42,57,29,7,1,Jordan Pickett made Free Throw.
+IUPUI,Purdue,42,59,29,21,1,A.J. Hammons made Dunk. Assisted by Kendall Stephens.
+IUPUI,Purdue,42,59,29,39,0,Foul on Johnny Hill.
+IUPUI,Purdue,42,59,29,43,0,Jordan Pickett missed Layup.
+IUPUI,Purdue,42,59,29,43,0,Purdue Defensive Rebound.
+IUPUI,Purdue,42,61,29,56,1,A.J. Hammons made Jumper. Assisted by Vince Edwards.
+IUPUI,Purdue,42,61,30,9,0,IUPUI  Timeout
+IUPUI,Purdue,42,61,30,18,0,Marcellus Barksdale Turnover.
+IUPUI,Purdue,42,64,30,46,1,Kendall Stephens made Three Point Jumper. Assisted by Ryan Cline.
+IUPUI,Purdue,42,64,30,54,0,T.J. Henderson Turnover.
+IUPUI,Purdue,42,64,30,54,0,Johnny Hill Steal.
+IUPUI,Purdue,42,64,31,0,0,Foul on Nick Osborne.
+IUPUI,Purdue,42,65,31,0,1,Vince Edwards made Free Throw.
+IUPUI,Purdue,42,65,31,0,0,Vince Edwards missed Free Throw.
+IUPUI,Purdue,42,65,31,0,0,Jordan Pickett Defensive Rebound.
+IUPUI,Purdue,42,65,31,13,0,Darell Combs missed Layup.
+IUPUI,Purdue,42,65,31,13,0,A.J. Hammons Block.
+IUPUI,Purdue,42,65,31,13,0,P.J. Thompson Defensive Rebound.
+IUPUI,Purdue,42,65,31,29,0,Foul on Matt O'Leary.
+IUPUI,Purdue,42,66,31,29,1,A.J. Hammons made Free Throw.
+IUPUI,Purdue,42,67,31,29,1,A.J. Hammons made Free Throw.
+IUPUI,Purdue,42,67,31,50,0,Aaron Brennan missed Dunk.
+IUPUI,Purdue,42,67,31,50,0,Caleb Swanigan Block.
+IUPUI,Purdue,42,67,31,50,0,Aaron Brennan Offensive Rebound.
+IUPUI,Purdue,42,67,31,57,0,Jordan Pickett Turnover.
+IUPUI,Purdue,42,67,31,57,0,Kendall Stephens Steal.
+IUPUI,Purdue,42,69,32,1,1,Kendall Stephens made Layup. Assisted by Dakota Mathias.
+IUPUI,Purdue,42,69,32,12,0,Jordan Pickett missed Jumper.
+IUPUI,Purdue,42,69,32,12,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,42,69,32,24,0,Caleb Swanigan Turnover.
+IUPUI,Purdue,42,69,32,24,0,Matt O'Leary Steal.
+IUPUI,Purdue,42,69,32,53,0,Darell Combs missed Layup.
+IUPUI,Purdue,42,69,32,53,0,A.J. Hammons Block.
+IUPUI,Purdue,42,69,32,53,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,42,69,33,4,0,Dakota Mathias missed Three Point Jumper.
+IUPUI,Purdue,42,69,33,4,0,IUPUI Defensive Rebound.
+IUPUI,Purdue,42,69,33,10,0,Official TV Timeout
+IUPUI,Purdue,42,69,33,24,0,Aaron Brennan missed Jumper.
+IUPUI,Purdue,42,69,33,24,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,42,69,33,35,0,Caleb Swanigan missed Three Point Jumper.
+IUPUI,Purdue,42,69,33,35,0,Mason Archie II Defensive Rebound.
+IUPUI,Purdue,42,69,33,43,0,Darell Combs missed Jumper.
+IUPUI,Purdue,42,69,33,43,0,A.J. Hammons Defensive Rebound.
+IUPUI,Purdue,42,71,34,9,1,Johnny Hill made Layup.
+IUPUI,Purdue,42,71,34,25,0,Mason Archie II missed Three Point Jumper.
+IUPUI,Purdue,42,71,34,25,0,Darell Combs Offensive Rebound.
+IUPUI,Purdue,42,71,34,47,0,Matt O'Leary missed Layup.
+IUPUI,Purdue,42,71,34,47,0,Caleb Swanigan Defensive Rebound.
+IUPUI,Purdue,42,71,34,56,0,Foul on Matt O'Leary.
+IUPUI,Purdue,42,72,34,56,1,P.J. Thompson made Free Throw.
+IUPUI,Purdue,42,73,34,56,1,P.J. Thompson made Free Throw.
+IUPUI,Purdue,45,73,35,10,1,Darell Combs made Three Point Jumper.
+IUPUI,Purdue,45,76,35,34,1,Ryan Cline made Three Point Jumper. Assisted by Caleb Swanigan.
+IUPUI,Purdue,45,76,35,50,0,Darell Combs missed Layup.
+IUPUI,Purdue,45,76,35,50,0,Isaac Haas Block.
+IUPUI,Purdue,45,76,35,50,0,IUPUI Offensive Rebound.
+IUPUI,Purdue,45,76,35,56,0,Foul on Aaron Brennan.
+IUPUI,Purdue,45,76,35,56,0,Aaron Brennan Turnover.
+IUPUI,Purdue,45,76,36,11,0,Official TV Timeout
+IUPUI,Purdue,45,76,36,11,0,Ryan Cline Turnover.
+IUPUI,Purdue,45,76,36,11,0,Matt O'Leary Steal.
+IUPUI,Purdue,45,76,36,23,0,Mason Archie II missed Jumper.
+IUPUI,Purdue,45,76,36,23,0,Isaac Haas Block.
+IUPUI,Purdue,45,76,36,23,0,Dakota Mathias Defensive Rebound.
+IUPUI,Purdue,45,76,36,33,0,Foul on Jacquil Taylor.
+IUPUI,Purdue,45,76,36,33,0,Jacquil Taylor Turnover.
+IUPUI,Purdue,45,76,36,51,0,T.J. Henderson missed Three Point Jumper.
+IUPUI,Purdue,45,76,36,51,0,Isaac Haas Defensive Rebound.
+IUPUI,Purdue,45,76,37,16,0,Johnny Hill Turnover.
+IUPUI,Purdue,45,76,37,16,0,John Hubler Steal.
+IUPUI,Purdue,47,76,37,36,1,Marcellus Barksdale made Layup. Assisted by Matt O'Leary.
+IUPUI,Purdue,47,76,37,52,0,Isaac Haas Turnover.
+IUPUI,Purdue,49,76,38,16,1,Matt O'Leary made Jumper. Assisted by T.J. Henderson.
+IUPUI,Purdue,49,76,38,32,0,Jacquil Taylor missed Three Point Jumper.
+IUPUI,Purdue,49,76,38,32,0,Grant Sinn Defensive Rebound.
+IUPUI,Purdue,52,76,38,44,1,Matt O'Leary made Three Point Jumper. Assisted by T.J. Henderson.
+IUPUI,Purdue,52,78,39,6,1,Johnny Hill made Layup. Assisted by Jacquil Taylor.
+IUPUI,Purdue,52,78,39,28,0,Foul on Jacquil Taylor.
+IUPUI,Purdue,52,78,39,28,0,T.J. Henderson missed Free Throw.
+IUPUI,Purdue,52,78,39,28,0,IUPUI Deadball Team Rebound.
+IUPUI,Purdue,53,78,39,28,1,T.J. Henderson made Free Throw.
+IUPUI,Purdue,53,78,39,40,0,Ryan Cline missed Layup.
+IUPUI,Purdue,53,78,39,40,0,Johnny Hill Offensive Rebound.
+IUPUI,Purdue,53,80,39,40,1,Johnny Hill made Two Point Tip Shot.
+IUPUI,Purdue,53,80,39,55,0,John Hubler missed Jumper.
+IUPUI,Purdue,53,80,39,55,0,Ryan Cline Defensive Rebound.
+IUPUI,Purdue,53,80,40,0,0,End of Game

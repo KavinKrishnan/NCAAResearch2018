@@ -1,0 +1,395 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Georgia,LSU,0,0,0,0,0,Jump Ball won by Georgia
+Georgia,LSU,0,0,0,28,0,Yante Maten missed Jumper.
+Georgia,LSU,0,0,0,28,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,0,0,0,49,0,Jalyn Patterson missed Three Point Jumper.
+Georgia,LSU,0,0,0,49,0,Derek Ogbeide Defensive Rebound.
+Georgia,LSU,0,0,1,4,0,Charles Mann missed Jumper.
+Georgia,LSU,0,2,1,32,1,Ben Simmons made Jumper. Assisted by Tim Quarterman.
+Georgia,LSU,2,2,1,48,1,Kenny Gaines made Jumper.
+Georgia,LSU,2,4,2,1,1,Craig Victor II made Jumper.
+Georgia,LSU,2,4,2,16,0,Yante Maten Turnover.
+Georgia,LSU,2,4,2,16,0,Craig Victor II Steal.
+Georgia,LSU,2,4,2,19,0,Keith Hornsby missed Layup.
+Georgia,LSU,2,4,2,19,0,Yante Maten Block.
+Georgia,LSU,2,4,2,19,0,Craig Victor II Offensive Rebound.
+Georgia,LSU,2,4,2,31,0,Craig Victor II missed Layup.
+Georgia,LSU,2,4,2,31,0,Craig Victor II Offensive Rebound.
+Georgia,LSU,2,4,2,31,0,Ben Simmons missed Jumper.
+Georgia,LSU,2,4,2,31,0,Yante Maten Defensive Rebound.
+Georgia,LSU,5,4,2,40,1,J.J. Frazier made Three Point Jumper. Assisted by Charles Mann.
+Georgia,LSU,5,6,3,4,1,Ben Simmons made Layup.
+Georgia,LSU,5,6,3,13,0,Foul on Tim Quarterman.
+Georgia,LSU,6,6,3,13,1,Charles Mann made Free Throw.
+Georgia,LSU,7,6,3,13,1,Charles Mann made Free Throw.
+Georgia,LSU,7,6,3,24,0,Foul on Houston Kessler.
+Georgia,LSU,7,8,3,36,1,Ben Simmons made Layup.
+Georgia,LSU,7,8,3,54,0,Kenny Gaines missed Three Point Jumper.
+Georgia,LSU,7,8,3,54,0,Keith Hornsby Defensive Rebound.
+Georgia,LSU,7,8,4,4,0,Foul on Kenny Gaines.
+Georgia,LSU,7,8,4,4,0,Official TV Timeout
+Georgia,LSU,7,9,4,4,1,Keith Hornsby made Free Throw.
+Georgia,LSU,7,10,4,4,1,Keith Hornsby made Free Throw.
+Georgia,LSU,7,10,4,28,0,Kenny Paul Geno missed Three Point Jumper.
+Georgia,LSU,7,10,4,28,0,Tim Quarterman Defensive Rebound.
+Georgia,LSU,7,10,4,43,0,Ben Simmons missed Dunk.
+Georgia,LSU,7,10,4,43,0,Mike Edwards Defensive Rebound.
+Georgia,LSU,9,10,5,5,1,Mike Edwards made Jumper.
+Georgia,LSU,9,10,5,11,0,Foul on Houston Kessler.
+Georgia,LSU,9,11,5,11,1,Craig Victor II made Free Throw.
+Georgia,LSU,9,12,5,11,1,Craig Victor II made Free Throw.
+Georgia,LSU,9,12,5,32,0,Kenny Paul Geno missed Three Point Jumper.
+Georgia,LSU,9,12,5,32,0,Craig Victor II Defensive Rebound.
+Georgia,LSU,9,12,5,42,0,Tim Quarterman missed Three Point Jumper.
+Georgia,LSU,9,12,5,42,0,Kenny Paul Geno Defensive Rebound.
+Georgia,LSU,9,12,5,54,0,Kenny Paul Geno Turnover.
+Georgia,LSU,9,14,6,4,1,Keith Hornsby made Layup.
+Georgia,LSU,9,14,6,32,0,J.J. Frazier missed Three Point Jumper.
+Georgia,LSU,9,14,6,32,0,Tim Quarterman Defensive Rebound.
+Georgia,LSU,9,14,6,43,0,Foul on Derek Ogbeide.
+Georgia,LSU,9,15,6,43,1,Tim Quarterman made Free Throw.
+Georgia,LSU,9,16,6,43,1,Tim Quarterman made Free Throw.
+Georgia,LSU,9,16,7,10,0,Derek Ogbeide Turnover.
+Georgia,LSU,9,16,7,27,0,Foul on Yante Maten.
+Georgia,LSU,9,16,7,30,0,Ben Simmons missed Layup.
+Georgia,LSU,9,16,7,30,0,Ben Simmons Offensive Rebound.
+Georgia,LSU,9,16,7,30,0,Ben Simmons missed Two Point Tip Shot.
+Georgia,LSU,9,16,7,30,0,Tim Quarterman Offensive Rebound.
+Georgia,LSU,9,18,7,30,1,Tim Quarterman made Two Point Tip Shot.
+Georgia,LSU,9,18,7,46,0,Yante Maten missed Jumper.
+Georgia,LSU,9,18,7,46,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,9,18,7,59,0,Craig Victor II Turnover.
+Georgia,LSU,9,18,8,12,0,Mike Edwards Turnover.
+Georgia,LSU,9,18,8,12,0,Elbert Robinson III Steal.
+Georgia,LSU,9,18,8,31,0,Antonio Blakeney missed Three Point Jumper.
+Georgia,LSU,9,18,8,31,0,Georgia Deadball Team Rebound.
+Georgia,LSU,9,18,8,35,0,Foul on Elbert Robinson III.
+Georgia,LSU,9,18,8,35,0,Official TV Timeout
+Georgia,LSU,9,18,8,48,0,Mike Edwards missed Jumper.
+Georgia,LSU,9,18,8,48,0,Mike Edwards Offensive Rebound.
+Georgia,LSU,9,18,8,56,0,Foul on Elbert Robinson III.
+Georgia,LSU,10,18,8,56,1,Mike Edwards made Free Throw.
+Georgia,LSU,10,18,8,56,0,Mike Edwards missed Free Throw.
+Georgia,LSU,10,18,8,56,0,Elbert Robinson III Defensive Rebound.
+Georgia,LSU,10,18,9,22,0,Aaron Epps missed Jumper.
+Georgia,LSU,10,18,9,22,0,Mike Edwards Block.
+Georgia,LSU,10,18,9,22,0,Mike Edwards Defensive Rebound.
+Georgia,LSU,10,18,9,43,0,Yante Maten missed Jumper.
+Georgia,LSU,10,18,9,43,0,Josh Gray Defensive Rebound.
+Georgia,LSU,10,18,9,56,0,Aaron Epps missed Jumper.
+Georgia,LSU,10,18,9,56,0,J.J. Frazier Defensive Rebound.
+Georgia,LSU,10,18,10,16,0,Foul on Antonio Blakeney.
+Georgia,LSU,12,18,10,41,1,Houston Kessler made Layup. Assisted by Mike Edwards.
+Georgia,LSU,12,18,11,6,0,Josh Gray missed Three Point Jumper.
+Georgia,LSU,12,18,11,6,0,Charles Mann Defensive Rebound.
+Georgia,LSU,12,18,11,16,0,Charles Mann missed Layup.
+Georgia,LSU,12,18,11,16,0,Craig Victor II Defensive Rebound.
+Georgia,LSU,12,18,11,23,0,Josh Gray missed Layup.
+Georgia,LSU,12,18,11,23,0,Houston Kessler Defensive Rebound.
+Georgia,LSU,12,18,11,25,0,Houston Kessler Turnover.
+Georgia,LSU,12,18,11,31,0,Brandon Sampson missed Three Point Jumper.
+Georgia,LSU,12,18,11,31,0,Charles Mann Defensive Rebound.
+Georgia,LSU,12,18,11,55,0,Charles Mann Turnover.
+Georgia,LSU,12,18,12,5,0,Brandon Sampson Turnover.
+Georgia,LSU,12,18,12,5,0,Houston Kessler Steal.
+Georgia,LSU,14,18,12,10,1,Kenny Gaines made Layup.
+Georgia,LSU,14,18,12,10,0,Foul on Jalyn Patterson.
+Georgia,LSU,14,18,12,10,0,Official TV Timeout
+Georgia,LSU,15,18,12,10,1,Kenny Gaines made Free Throw.
+Georgia,LSU,15,20,12,23,1,Craig Victor II made Jumper.
+Georgia,LSU,15,20,12,39,0,Kenny Gaines missed Three Point Jumper.
+Georgia,LSU,15,20,12,39,0,Jalyn Patterson Defensive Rebound.
+Georgia,LSU,15,20,13,4,0,Ben Simmons missed Jumper.
+Georgia,LSU,15,20,13,4,0,William Jackson II Defensive Rebound.
+Georgia,LSU,15,20,13,18,0,Foul on Keith Hornsby.
+Georgia,LSU,15,20,13,31,0,J.J. Frazier missed Three Point Jumper.
+Georgia,LSU,15,20,13,31,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,15,22,13,41,1,Ben Simmons made Layup.
+Georgia,LSU,15,22,14,0,0,Derek Ogbeide missed Jumper.
+Georgia,LSU,15,22,14,0,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,15,22,14,8,0,Ben Simmons Turnover.
+Georgia,LSU,15,22,14,8,0,Kenny Paul Geno Steal.
+Georgia,LSU,15,22,14,13,0,Foul on Keith Hornsby.
+Georgia,LSU,16,22,14,13,1,Kenny Gaines made Free Throw.
+Georgia,LSU,17,22,14,13,1,Kenny Gaines made Free Throw.
+Georgia,LSU,17,24,14,25,1,Craig Victor II made Jumper. Assisted by Tim Quarterman.
+Georgia,LSU,17,24,14,41,0,Yante Maten Turnover.
+Georgia,LSU,17,24,14,59,0,Jalyn Patterson missed Three Point Jumper.
+Georgia,LSU,17,24,14,59,0,E'Torrion Wilridge Defensive Rebound.
+Georgia,LSU,20,24,15,23,1,Kenny Gaines made Three Point Jumper. Assisted by E'Torrion Wilridge.
+Georgia,LSU,20,24,15,54,0,Foul on Houston Kessler.
+Georgia,LSU,20,25,15,54,1,Tim Quarterman made Free Throw.
+Georgia,LSU,20,26,15,54,1,Tim Quarterman made Free Throw.
+Georgia,LSU,22,26,16,18,1,J.J. Frazier made Jumper.
+Georgia,LSU,22,28,16,46,1,Tim Quarterman made Layup. Assisted by Jalyn Patterson.
+Georgia,LSU,22,28,16,46,0,Foul on Yante Maten.
+Georgia,LSU,22,28,16,46,0,Official TV Timeout
+Georgia,LSU,22,28,16,46,0,Tim Quarterman missed Free Throw.
+Georgia,LSU,22,28,16,46,0,Derek Ogbeide Defensive Rebound.
+Georgia,LSU,22,28,16,58,0,Foul on Craig Victor II.
+Georgia,LSU,22,28,16,58,0,Charles Mann missed Free Throw.
+Georgia,LSU,22,28,16,58,0,Georgia Deadball Team Rebound.
+Georgia,LSU,23,28,16,58,1,Charles Mann made Free Throw.
+Georgia,LSU,23,30,17,0,1,Ben Simmons made Dunk. Assisted by Tim Quarterman.
+Georgia,LSU,23,30,17,11,0,J.J. Frazier missed Three Point Jumper.
+Georgia,LSU,23,30,17,11,0,Mike Edwards Offensive Rebound.
+Georgia,LSU,25,30,17,18,1,Mike Edwards made Layup.
+Georgia,LSU,25,30,17,45,0,Tim Quarterman missed Three Point Jumper.
+Georgia,LSU,25,30,17,45,0,Ben Simmons Offensive Rebound.
+Georgia,LSU,25,30,18,7,0,Craig Victor II missed Jumper.
+Georgia,LSU,25,30,18,7,0,Georgia Defensive Rebound.
+Georgia,LSU,28,30,18,18,1,Kenny Gaines made Three Point Jumper.
+Georgia,LSU,28,30,18,38,0,Foul on Mike Edwards.
+Georgia,LSU,28,30,18,38,0,Ben Simmons missed Free Throw.
+Georgia,LSU,28,30,18,38,0,Derek Ogbeide Defensive Rebound.
+Georgia,LSU,28,30,18,48,0,Mike Edwards Turnover.
+Georgia,LSU,28,30,18,48,0,Ben Simmons Steal.
+Georgia,LSU,28,30,18,57,0,Foul on Derek Ogbeide.
+Georgia,LSU,28,31,18,57,1,Jalyn Patterson made Free Throw.
+Georgia,LSU,28,31,18,57,0,Georgia  Timeout
+Georgia,LSU,28,32,18,57,1,Jalyn Patterson made Free Throw.
+Georgia,LSU,30,32,19,6,1,Charles Mann made Layup.
+Georgia,LSU,30,32,19,37,0,Foul on Charles Mann.
+Georgia,LSU,30,33,19,37,1,Tim Quarterman made Free Throw.
+Georgia,LSU,30,33,19,37,0,Tim Quarterman missed Free Throw.
+Georgia,LSU,30,33,19,37,0,Osahen Iduwe Defensive Rebound.
+Georgia,LSU,30,33,19,37,0,Foul on Craig Victor II.
+Georgia,LSU,30,33,19,37,0,Osahen Iduwe missed Free Throw.
+Georgia,LSU,30,33,19,37,0,Craig Victor II Defensive Rebound.
+Georgia,LSU,30,33,19,54,0,Tim Quarterman Turnover.
+Georgia,LSU,30,33,19,59,0,J.J. Frazier missed Three Point Jumper.
+Georgia,LSU,30,33,19,59,0,LSU Deadball Team Rebound.
+Georgia,LSU,30,33,20,0,0,End of 1st half
+Georgia,LSU,30,33,20,0,0,Jump Ball won by LSU
+Georgia,LSU,30,33,20,10,0,Ben Simmons Turnover.
+Georgia,LSU,30,33,20,10,0,Mike Edwards Steal.
+Georgia,LSU,30,33,20,22,0,Kenny Gaines Turnover.
+Georgia,LSU,30,33,20,22,0,Keith Hornsby Steal.
+Georgia,LSU,30,33,20,32,0,Foul on Mike Edwards.
+Georgia,LSU,30,34,20,32,1,Ben Simmons made Free Throw.
+Georgia,LSU,30,35,20,32,1,Ben Simmons made Free Throw.
+Georgia,LSU,30,35,20,47,0,Charles Mann missed Layup.
+Georgia,LSU,30,35,20,47,0,Craig Victor II Defensive Rebound.
+Georgia,LSU,30,35,21,0,0,Foul on Mike Edwards.
+Georgia,LSU,30,35,21,0,0,Craig Victor II missed Free Throw.
+Georgia,LSU,30,35,21,0,0,LSU Deadball Team Rebound.
+Georgia,LSU,30,36,21,0,1,Craig Victor II made Free Throw.
+Georgia,LSU,32,36,21,24,1,Yante Maten made Jumper. Assisted by Kenny Gaines.
+Georgia,LSU,32,36,21,36,0,Foul on Yante Maten.
+Georgia,LSU,32,37,21,36,1,Ben Simmons made Free Throw.
+Georgia,LSU,32,37,21,36,0,Ben Simmons missed Free Throw.
+Georgia,LSU,32,37,21,36,0,Charles Mann Defensive Rebound.
+Georgia,LSU,34,37,22,0,1,Charles Mann made Layup.
+Georgia,LSU,34,37,22,7,0,Jalyn Patterson missed Three Point Jumper.
+Georgia,LSU,34,37,22,7,0,Charles Mann Defensive Rebound.
+Georgia,LSU,36,37,22,15,1,Kenny Gaines made Layup.
+Georgia,LSU,36,39,22,39,1,Ben Simmons made Layup.
+Georgia,LSU,36,39,23,5,0,Houston Kessler missed Three Point Jumper.
+Georgia,LSU,36,39,23,5,0,Yante Maten Offensive Rebound.
+Georgia,LSU,38,39,23,11,1,Yante Maten made Layup.
+Georgia,LSU,38,39,23,11,0,Foul on Craig Victor II.
+Georgia,LSU,39,39,23,11,1,Yante Maten made Free Throw.
+Georgia,LSU,39,39,23,25,0,Keith Hornsby missed Three Point Jumper.
+Georgia,LSU,39,39,23,25,0,Yante Maten Defensive Rebound.
+Georgia,LSU,39,39,23,32,0,Yante Maten Turnover.
+Georgia,LSU,39,39,23,32,0,Tim Quarterman Steal.
+Georgia,LSU,39,39,23,36,0,Antonio Blakeney missed Layup.
+Georgia,LSU,39,39,23,36,0,Yante Maten Block.
+Georgia,LSU,39,39,23,36,0,LSU Offensive Rebound.
+Georgia,LSU,39,42,23,49,1,Tim Quarterman made Three Point Jumper. Assisted by Jalyn Patterson.
+Georgia,LSU,39,42,24,11,0,Foul on Jalyn Patterson.
+Georgia,LSU,39,42,24,11,0,Official TV Timeout
+Georgia,LSU,39,42,24,11,0,Yante Maten missed Free Throw.
+Georgia,LSU,39,42,24,11,0,Georgia Deadball Team Rebound.
+Georgia,LSU,39,42,24,11,0,Yante Maten missed Free Throw.
+Georgia,LSU,39,42,24,11,0,Tim Quarterman Defensive Rebound.
+Georgia,LSU,39,42,24,18,0,Foul on Kenny Gaines.
+Georgia,LSU,39,42,24,26,0,Foul on Charles Mann.
+Georgia,LSU,39,45,24,51,1,Antonio Blakeney made Three Point Jumper. Assisted by Jalyn Patterson.
+Georgia,LSU,39,45,25,11,0,Yante Maten missed Jumper.
+Georgia,LSU,39,45,25,11,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,39,45,25,31,0,Tim Quarterman missed Jumper.
+Georgia,LSU,39,45,25,31,0,Charles Mann Defensive Rebound.
+Georgia,LSU,39,45,25,40,0,J.J. Frazier Turnover.
+Georgia,LSU,39,45,25,40,0,Ben Simmons Steal.
+Georgia,LSU,39,45,25,56,0,Foul on Yante Maten.
+Georgia,LSU,39,47,26,7,1,Antonio Blakeney made Dunk. Assisted by Keith Hornsby.
+Georgia,LSU,41,47,26,13,1,Charles Mann made Layup.
+Georgia,LSU,41,47,26,16,0,Georgia  Timeout
+Georgia,LSU,41,49,26,20,1,Craig Victor II made Layup.
+Georgia,LSU,41,49,26,44,0,Foul on Craig Victor II.
+Georgia,LSU,41,49,26,58,0,Foul on Tim Quarterman.
+Georgia,LSU,41,49,27,7,0,Foul on Tim Quarterman.
+Georgia,LSU,41,49,27,7,0,Charles Mann missed Free Throw.
+Georgia,LSU,41,49,27,7,0,Georgia Deadball Team Rebound.
+Georgia,LSU,42,49,27,7,1,Charles Mann made Free Throw.
+Georgia,LSU,42,49,27,28,0,Foul on Mike Edwards.
+Georgia,LSU,42,50,27,28,1,Ben Simmons made Free Throw.
+Georgia,LSU,42,51,27,28,1,Ben Simmons made Free Throw.
+Georgia,LSU,42,51,27,41,0,Foul on Ben Simmons.
+Georgia,LSU,44,51,27,44,1,Mike Edwards made Dunk. Assisted by Charles Mann.
+Georgia,LSU,44,51,27,52,0,Antonio Blakeney missed Jumper.
+Georgia,LSU,44,51,27,52,0,Georgia Defensive Rebound.
+Georgia,LSU,44,51,28,1,0,J.J. Frazier missed Three Point Jumper.
+Georgia,LSU,44,51,28,1,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,44,53,28,19,1,Josh Gray made Jumper.
+Georgia,LSU,46,53,28,40,1,Kenny Paul Geno made Dunk. Assisted by J.J. Frazier.
+Georgia,LSU,46,53,28,53,0,Foul on Mike Edwards.
+Georgia,LSU,46,53,28,53,0,Official TV Timeout
+Georgia,LSU,46,53,28,53,0,Ben Simmons missed Free Throw.
+Georgia,LSU,46,53,28,53,0,LSU Deadball Team Rebound.
+Georgia,LSU,46,54,28,53,1,Ben Simmons made Free Throw.
+Georgia,LSU,48,54,29,1,1,Charles Mann made Layup.
+Georgia,LSU,48,56,29,20,1,Antonio Blakeney made Jumper.
+Georgia,LSU,50,56,29,29,1,Charles Mann made Layup.
+Georgia,LSU,50,56,29,29,0,Foul on Antonio Blakeney.
+Georgia,LSU,50,56,29,29,0,Charles Mann missed Free Throw.
+Georgia,LSU,50,56,29,29,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,50,57,29,45,1,Ben Simmons made Free Throw.
+Georgia,LSU,50,58,29,45,1,Ben Simmons made Free Throw.
+Georgia,LSU,50,56,29,45,0,Foul on Kenny Paul Geno.
+Georgia,LSU,50,56,29,45,0,Georgia  Timeout
+Georgia,LSU,50,58,29,49,0,Kenny Gaines missed Three Point Jumper.
+Georgia,LSU,50,58,29,49,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,50,58,30,4,0,Foul on J.J. Frazier.
+Georgia,LSU,50,59,30,4,1,Tim Quarterman made Free Throw.
+Georgia,LSU,50,59,30,4,0,Tim Quarterman missed Free Throw.
+Georgia,LSU,50,59,30,4,0,Charles Mann Defensive Rebound.
+Georgia,LSU,50,59,30,14,0,J.J. Frazier missed Three Point Jumper.
+Georgia,LSU,50,59,30,14,0,Kenny Paul Geno Offensive Rebound.
+Georgia,LSU,52,59,30,24,1,Kenny Paul Geno made Layup.
+Georgia,LSU,52,59,30,28,0,Foul on Charles Mann.
+Georgia,LSU,52,60,30,28,1,Ben Simmons made Free Throw.
+Georgia,LSU,52,60,30,28,0,Ben Simmons missed Free Throw.
+Georgia,LSU,52,60,30,28,0,Kenny Paul Geno Defensive Rebound.
+Georgia,LSU,52,60,30,33,0,Foul on Antonio Blakeney.
+Georgia,LSU,52,60,30,33,0,Georgia  Timeout
+Georgia,LSU,52,60,30,33,0,Charles Mann missed Free Throw.
+Georgia,LSU,52,60,30,33,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,52,60,30,35,0,Foul on Yante Maten.
+Georgia,LSU,52,61,30,35,1,Ben Simmons made Free Throw.
+Georgia,LSU,52,61,30,35,0,Ben Simmons missed Free Throw.
+Georgia,LSU,52,61,30,35,0,Charles Mann Defensive Rebound.
+Georgia,LSU,52,61,30,40,0,Foul on Josh Gray.
+Georgia,LSU,53,61,30,40,1,J.J. Frazier made Free Throw.
+Georgia,LSU,54,61,30,40,1,J.J. Frazier made Free Throw.
+Georgia,LSU,54,61,30,53,0,Josh Gray Turnover.
+Georgia,LSU,54,61,30,53,0,Kenny Gaines Steal.
+Georgia,LSU,56,61,30,59,1,J.J. Frazier made Layup. Assisted by Kenny Gaines.
+Georgia,LSU,56,61,31,16,0,Josh Gray missed Three Point Jumper.
+Georgia,LSU,56,61,31,16,0,LSU Offensive Rebound.
+Georgia,LSU,56,61,31,20,0,Foul on Kenny Paul Geno.
+Georgia,LSU,56,61,31,20,0,Ben Simmons missed Free Throw.
+Georgia,LSU,56,61,31,20,0,LSU Deadball Team Rebound.
+Georgia,LSU,56,61,31,20,0,Ben Simmons missed Free Throw.
+Georgia,LSU,56,61,31,20,0,J.J. Frazier Defensive Rebound.
+Georgia,LSU,58,61,31,25,1,J.J. Frazier made Jumper.
+Georgia,LSU,58,61,31,25,0,Foul on Josh Gray.
+Georgia,LSU,59,61,31,25,1,J.J. Frazier made Free Throw.
+Georgia,LSU,59,61,31,42,0,Ben Simmons missed Layup.
+Georgia,LSU,59,61,31,42,0,Tim Quarterman Offensive Rebound.
+Georgia,LSU,59,61,31,47,0,Tim Quarterman missed Layup.
+Georgia,LSU,59,61,31,47,0,Houston Kessler Block.
+Georgia,LSU,59,61,31,47,0,Antonio Blakeney Offensive Rebound.
+Georgia,LSU,59,61,32,4,0,Tim Quarterman missed Three Point Jumper.
+Georgia,LSU,59,61,32,4,0,Charles Mann Defensive Rebound.
+Georgia,LSU,59,61,32,13,0,Kenny Gaines missed Three Point Jumper.
+Georgia,LSU,59,61,32,13,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,59,61,32,34,0,Foul on Ben Simmons.
+Georgia,LSU,59,61,32,34,0,Ben Simmons Turnover.
+Georgia,LSU,59,61,32,34,0,Official TV Timeout
+Georgia,LSU,59,61,32,51,0,Kenny Gaines missed Jumper.
+Georgia,LSU,59,61,32,51,0,Keith Hornsby Defensive Rebound.
+Georgia,LSU,59,64,33,10,1,Jalyn Patterson made Three Point Jumper. Assisted by Tim Quarterman.
+Georgia,LSU,59,64,33,17,0,Charles Mann Turnover.
+Georgia,LSU,59,64,33,17,0,Jalyn Patterson Steal.
+Georgia,LSU,59,64,33,22,0,Jalyn Patterson missed Three Point Jumper.
+Georgia,LSU,59,64,33,22,0,Kenny Paul Geno Block.
+Georgia,LSU,59,64,33,22,0,Tim Quarterman Offensive Rebound.
+Georgia,LSU,59,64,33,33,0,Foul on Kenny Paul Geno.
+Georgia,LSU,59,65,33,33,1,Tim Quarterman made Free Throw.
+Georgia,LSU,59,66,33,33,1,Tim Quarterman made Free Throw.
+Georgia,LSU,59,66,33,33,0,Technical Foul on Georgia.
+Georgia,LSU,59,66,33,33,0,Keith Hornsby missed Free Throw.
+Georgia,LSU,61,66,33,52,1,J.J. Frazier made Layup.
+Georgia,LSU,61,69,34,19,1,Keith Hornsby made Three Point Jumper. Assisted by Tim Quarterman.
+Georgia,LSU,64,69,34,38,1,Kenny Gaines made Three Point Jumper.
+Georgia,LSU,64,72,34,57,1,Jalyn Patterson made Three Point Jumper. Assisted by Antonio Blakeney.
+Georgia,LSU,64,72,35,13,0,J.J. Frazier missed Layup.
+Georgia,LSU,64,72,35,13,0,Derek Ogbeide Offensive Rebound.
+Georgia,LSU,66,72,35,18,1,Derek Ogbeide made Layup.
+Georgia,LSU,66,72,35,27,0,Foul on Kenny Gaines.
+Georgia,LSU,66,73,35,27,1,Tim Quarterman made Free Throw.
+Georgia,LSU,66,74,35,27,1,Tim Quarterman made Free Throw.
+Georgia,LSU,66,74,35,40,0,Houston Kessler missed Three Point Jumper.
+Georgia,LSU,66,74,35,40,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,66,77,36,9,1,Jalyn Patterson made Three Point Jumper. Assisted by Keith Hornsby.
+Georgia,LSU,66,77,36,25,0,Charles Mann missed Layup.
+Georgia,LSU,66,77,36,25,0,Keith Hornsby Defensive Rebound.
+Georgia,LSU,66,77,36,27,0,Foul on Houston Kessler.
+Georgia,LSU,66,77,36,27,0,Official TV Timeout
+Georgia,LSU,66,77,36,27,0,Keith Hornsby missed Free Throw.
+Georgia,LSU,66,77,36,27,0,LSU Deadball Team Rebound.
+Georgia,LSU,66,78,36,27,1,Keith Hornsby made Free Throw.
+Georgia,LSU,66,78,36,36,0,J.J. Frazier missed Three Point Jumper.
+Georgia,LSU,66,78,36,36,0,Kenny Gaines Offensive Rebound.
+Georgia,LSU,66,78,36,44,0,Kenny Gaines missed Layup.
+Georgia,LSU,66,78,36,44,0,Ben Simmons Defensive Rebound.
+Georgia,LSU,66,78,36,56,0,Jump Ball won by Georgia
+Georgia,LSU,66,78,36,56,0,Craig Victor II Turnover.
+Georgia,LSU,66,78,36,56,0,Charles Mann Steal.
+Georgia,LSU,66,78,37,3,0,Kenny Gaines missed Three Point Jumper.
+Georgia,LSU,66,78,37,3,0,Craig Victor II Defensive Rebound.
+Georgia,LSU,66,80,37,30,1,Tim Quarterman made Jumper.
+Georgia,LSU,66,80,37,43,0,Foul on Ben Simmons.
+Georgia,LSU,67,80,37,43,1,Charles Mann made Free Throw.
+Georgia,LSU,67,80,37,43,0,Charles Mann missed Free Throw.
+Georgia,LSU,67,80,37,43,0,Craig Victor II Defensive Rebound.
+Georgia,LSU,67,80,38,10,0,Antonio Blakeney missed Three Point Jumper.
+Georgia,LSU,67,80,38,10,0,Derek Ogbeide Defensive Rebound.
+Georgia,LSU,69,80,38,20,1,J.J. Frazier made Jumper.
+Georgia,LSU,69,80,38,54,0,Craig Victor II missed Jumper.
+Georgia,LSU,69,80,38,54,0,Georgia Defensive Rebound.
+Georgia,LSU,71,80,39,2,1,Kenny Gaines made Dunk.
+Georgia,LSU,71,80,39,9,0,Foul on Charles Mann.
+Georgia,LSU,71,81,39,9,1,Tim Quarterman made Free Throw.
+Georgia,LSU,71,82,39,9,1,Tim Quarterman made Free Throw.
+Georgia,LSU,73,82,39,15,1,J.J. Frazier made Layup.
+Georgia,LSU,73,82,39,18,0,Foul on Kenny Paul Geno.
+Georgia,LSU,73,82,39,18,0,Antonio Blakeney missed Free Throw.
+Georgia,LSU,73,82,39,18,0,LSU Deadball Team Rebound.
+Georgia,LSU,73,83,39,18,1,Antonio Blakeney made Free Throw.
+Georgia,LSU,76,83,39,21,1,J.J. Frazier made Three Point Jumper.
+Georgia,LSU,76,83,39,23,0,Craig Victor II Turnover.
+Georgia,LSU,76,83,39,23,0,Charles Mann Steal.
+Georgia,LSU,78,83,39,24,1,Charles Mann made Layup.
+Georgia,LSU,78,83,39,24,0,Foul on Kenny Gaines.
+Georgia,LSU,78,83,39,24,0,Tim Quarterman missed Free Throw.
+Georgia,LSU,78,83,39,24,0,LSU Deadball Team Rebound.
+Georgia,LSU,78,84,39,24,1,Tim Quarterman made Free Throw.
+Georgia,LSU,78,84,39,25,0,Kenny Gaines missed Three Point Jumper.
+Georgia,LSU,78,84,39,25,0,Charles Mann Offensive Rebound.
+Georgia,LSU,78,84,39,31,0,Foul on Keith Hornsby.
+Georgia,LSU,79,84,39,31,1,Charles Mann made Free Throw.
+Georgia,LSU,80,84,39,31,1,Charles Mann made Free Throw.
+Georgia,LSU,80,84,39,31,0,Foul on J.J. Frazier.
+Georgia,LSU,80,84,39,31,0,Tim Quarterman missed Free Throw.
+Georgia,LSU,80,84,39,31,0,LSU Deadball Team Rebound.
+Georgia,LSU,80,84,39,31,0,Tim Quarterman missed Free Throw.
+Georgia,LSU,80,84,39,31,0,Kenny Paul Geno Defensive Rebound.
+Georgia,LSU,83,84,39,32,1,J.J. Frazier made Three Point Jumper.
+Georgia,LSU,83,84,39,39,0,Foul on J.J. Frazier.
+Georgia,LSU,83,85,39,39,1,Antonio Blakeney made Free Throw.
+Georgia,LSU,83,86,39,39,1,Antonio Blakeney made Free Throw.
+Georgia,LSU,83,86,39,39,0,LSU  Timeout
+Georgia,LSU,85,86,39,42,1,J.J. Frazier made Layup.
+Georgia,LSU,85,86,39,47,0,Foul on Houston Kessler.
+Georgia,LSU,85,87,39,47,1,Keith Hornsby made Free Throw.
+Georgia,LSU,85,87,39,47,0,Keith Hornsby missed Free Throw.
+Georgia,LSU,85,87,39,47,0,Kenny Paul Geno Defensive Rebound.
+Georgia,LSU,85,87,39,51,0,E'Torrion Wilridge missed Jumper.
+Georgia,LSU,85,87,39,51,0,Antonio Blakeney Defensive Rebound.
+Georgia,LSU,85,87,39,59,0,Foul on E'Torrion Wilridge.
+Georgia,LSU,85,88,39,59,1,Antonio Blakeney made Free Throw.
+Georgia,LSU,85,89,39,59,1,Antonio Blakeney made Free Throw.
+Georgia,LSU,85,89,40,0,0,End of Game

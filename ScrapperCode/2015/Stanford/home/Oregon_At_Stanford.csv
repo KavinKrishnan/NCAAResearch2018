@@ -1,0 +1,327 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Oregon,Stanford,0,0,0,18,0,Michael Humphrey missed Jumper.
+Oregon,Stanford,0,0,0,18,0,Stefan Nastic Offensive Rebound.
+Oregon,Stanford,0,0,0,32,0,Foul on Jordan Bell.
+Oregon,Stanford,0,0,0,50,0,Marcus Allen Turnover.
+Oregon,Stanford,0,0,0,51,0,Jalil Abdul-Bassit Steal.
+Oregon,Stanford,0,0,0,58,0,Jalil Abdul-Bassit missed Three Point Jumper.
+Oregon,Stanford,0,0,0,58,0,Marcus Allen Defensive Rebound.
+Oregon,Stanford,0,2,1,6,1,Michael Humphrey made Jumper. Assisted by Chasson Randle.
+Oregon,Stanford,2,2,1,39,1,Elgin Cook made Jumper.
+Oregon,Stanford,2,2,1,53,0,Chasson Randle missed Three Point Jumper.
+Oregon,Stanford,2,2,1,53,0,Jordan Bell Defensive Rebound.
+Oregon,Stanford,2,2,2,4,0,Joseph Young missed Jumper.
+Oregon,Stanford,2,2,2,4,0,Stefan Nastic Defensive Rebound.
+Oregon,Stanford,2,2,2,14,0,Stefan Nastic missed Jumper.
+Oregon,Stanford,2,2,2,14,0,Joseph Young Defensive Rebound.
+Oregon,Stanford,2,2,2,26,0,Jalil Abdul-Bassit missed Three Point Jumper.
+Oregon,Stanford,2,2,2,26,0,Jalil Abdul-Bassit Offensive Rebound.
+Oregon,Stanford,4,2,2,31,1,Jalil Abdul-Bassit made Jumper.
+Oregon,Stanford,4,5,3,2,1,Anthony Brown made Three Point Jumper. Assisted by Chasson Randle.
+Oregon,Stanford,4,5,3,14,0,Foul on Michael Humphrey.
+Oregon,Stanford,4,5,3,36,0,Dillon Brooks Turnover.
+Oregon,Stanford,4,5,3,41,0,Marcus Allen missed Layup.
+Oregon,Stanford,4,5,3,41,0,Jordan Bell Defensive Rebound.
+Oregon,Stanford,4,5,3,43,0,Foul on Marcus Allen.
+Oregon,Stanford,4,5,4,1,0,Elgin Cook missed Jumper.
+Oregon,Stanford,4,5,4,1,0,Michael Humphrey Defensive Rebound.
+Oregon,Stanford,4,5,4,14,0,Foul on Jordan Bell.
+Oregon,Stanford,4,5,4,14,0,Official TV Timeout
+Oregon,Stanford,4,6,4,14,1,Michael Humphrey made Free Throw.
+Oregon,Stanford,4,6,4,14,0,Michael Humphrey missed Free Throw.
+Oregon,Stanford,4,6,4,14,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Stanford,6,6,4,27,1,Jalil Abdul-Bassit made Jumper.
+Oregon,Stanford,6,8,4,44,1,Michael Humphrey made Dunk. Assisted by Anthony Brown.
+Oregon,Stanford,6,8,5,4,0,Elgin Cook missed Jumper.
+Oregon,Stanford,6,8,5,4,0,Michael Humphrey Block.
+Oregon,Stanford,6,8,5,6,0,Oregon Offensive Rebound.
+Oregon,Stanford,6,8,5,22,0,Oregon  Turnover.
+Oregon,Stanford,6,8,5,47,0,Foul on Elgin Cook.
+Oregon,Stanford,6,9,5,47,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,6,10,5,47,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,6,10,5,53,0,Ahmaad Rorie Turnover.
+Oregon,Stanford,6,10,5,54,0,Chasson Randle Steal.
+Oregon,Stanford,6,10,5,57,0,Foul on Elgin Cook.
+Oregon,Stanford,6,11,5,57,1,Chasson Randle made Free Throw.
+Oregon,Stanford,6,12,5,57,1,Chasson Randle made Free Throw.
+Oregon,Stanford,8,12,6,12,1,Joseph Young made Jumper. Assisted by Jalil Abdul-Bassit.
+Oregon,Stanford,8,14,6,31,1,Michael Humphrey made Layup. Assisted by Chasson Randle.
+Oregon,Stanford,10,14,6,41,1,Ahmaad Rorie made Layup.
+Oregon,Stanford,10,14,7,0,0,Stefan Nastic Turnover.
+Oregon,Stanford,10,14,7,0,0,Foul on Stefan Nastic.
+Oregon,Stanford,13,14,7,14,1,Joseph Young made Three Point Jumper. Assisted by Casey Benson.
+Oregon,Stanford,13,14,7,27,0,Chasson Randle missed Three Point Jumper.
+Oregon,Stanford,13,14,7,27,0,Oregon Deadball Team Rebound.
+Oregon,Stanford,13,14,7,30,0,Foul on Reid Travis.
+Oregon,Stanford,13,14,7,41,0,Dillon Brooks missed Layup.
+Oregon,Stanford,13,14,7,41,0,Anthony Brown Defensive Rebound.
+Oregon,Stanford,13,16,8,16,1,Marcus Allen made Layup.
+Oregon,Stanford,13,16,8,31,0,Ahmaad Rorie missed Layup.
+Oregon,Stanford,13,16,8,31,0,Chasson Randle Defensive Rebound.
+Oregon,Stanford,13,16,8,35,0,Foul on Ahmaad Rorie.
+Oregon,Stanford,13,16,8,35,0,Official TV Timeout
+Oregon,Stanford,13,16,9,8,0,Marcus Allen missed Layup.
+Oregon,Stanford,13,16,9,8,0,Jalil Abdul-Bassit Defensive Rebound.
+Oregon,Stanford,13,16,9,22,0,Foul on Anthony Brown.
+Oregon,Stanford,13,16,9,22,0,Dwayne Benjamin missed Free Throw.
+Oregon,Stanford,13,16,9,22,0,Oregon Deadball Team Rebound.
+Oregon,Stanford,13,16,9,22,0,Dwayne Benjamin missed Free Throw.
+Oregon,Stanford,13,16,9,22,0,Oregon Offensive Rebound.
+Oregon,Stanford,13,16,9,39,0,Joseph Young missed Three Point Jumper.
+Oregon,Stanford,13,16,9,39,0,Chasson Randle Defensive Rebound.
+Oregon,Stanford,13,18,9,50,1,Marcus Allen made Layup. Assisted by Chasson Randle.
+Oregon,Stanford,13,18,9,53,0,Foul on Joseph Young.
+Oregon,Stanford,13,18,9,53,0,Marcus Allen missed Free Throw.
+Oregon,Stanford,13,18,9,53,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Stanford,16,18,9,58,1,Casey Benson made Three Point Jumper.
+Oregon,Stanford,16,18,10,11,0,Anthony Brown missed Three Point Jumper.
+Oregon,Stanford,16,18,10,11,0,Reid Travis Offensive Rebound.
+Oregon,Stanford,16,18,10,22,0,Anthony Brown Turnover.
+Oregon,Stanford,16,18,10,38,0,Jalil Abdul-Bassit missed Jumper.
+Oregon,Stanford,16,18,10,38,0,Reid Travis Defensive Rebound.
+Oregon,Stanford,16,20,10,56,1,Stefan Nastic made Jumper. Assisted by Chasson Randle.
+Oregon,Stanford,16,20,11,12,0,Dillon Brooks missed Jumper.
+Oregon,Stanford,16,20,11,12,0,Dwayne Benjamin Offensive Rebound.
+Oregon,Stanford,19,20,11,20,1,Joseph Young made Three Point Jumper. Assisted by Jalil Abdul-Bassit.
+Oregon,Stanford,19,20,11,38,0,Foul on Dwayne Benjamin.
+Oregon,Stanford,19,20,11,38,0,Reid Travis missed Free Throw.
+Oregon,Stanford,19,20,11,38,0,Stanford Deadball Team Rebound.
+Oregon,Stanford,19,21,11,38,1,Reid Travis made Free Throw.
+Oregon,Stanford,19,21,11,57,0,Dwayne Benjamin Turnover.
+Oregon,Stanford,19,21,11,58,0,Chasson Randle Steal.
+Oregon,Stanford,19,23,12,1,1,Chasson Randle made Layup.
+Oregon,Stanford,19,23,12,2,0,Foul on Casey Benson.
+Oregon,Stanford,19,24,12,2,1,Chasson Randle made Free Throw.
+Oregon,Stanford,19,24,12,14,0,Foul on Reid Travis.
+Oregon,Stanford,19,24,12,14,0,Official TV Timeout
+Oregon,Stanford,20,24,12,14,1,Elgin Cook made Free Throw.
+Oregon,Stanford,21,24,12,14,1,Elgin Cook made Free Throw.
+Oregon,Stanford,21,24,12,34,0,Foul on Michael Chandler.
+Oregon,Stanford,21,25,12,34,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,21,25,12,34,0,Stefan Nastic missed Free Throw.
+Oregon,Stanford,21,25,12,34,0,Elgin Cook Defensive Rebound.
+Oregon,Stanford,21,25,12,45,0,Casey Benson missed Three Point Jumper.
+Oregon,Stanford,21,25,12,45,0,Chasson Randle Defensive Rebound.
+Oregon,Stanford,21,25,12,54,0,Foul on Michael Humphrey.
+Oregon,Stanford,21,25,12,54,0,Michael Humphrey Turnover.
+Oregon,Stanford,21,25,13,8,0,Dillon Brooks missed Three Point Jumper.
+Oregon,Stanford,21,25,13,8,0,Jalil Abdul-Bassit Offensive Rebound.
+Oregon,Stanford,21,25,13,11,0,Jalil Abdul-Bassit Turnover.
+Oregon,Stanford,21,25,13,30,0,Stefan Nastic missed Layup.
+Oregon,Stanford,21,25,13,30,0,Elgin Cook Defensive Rebound.
+Oregon,Stanford,24,25,13,40,1,Jalil Abdul-Bassit made Three Point Jumper. Assisted by Elgin Cook.
+Oregon,Stanford,24,25,14,14,0,Marcus Allen Turnover.
+Oregon,Stanford,26,25,14,20,1,Joseph Young made Jumper.
+Oregon,Stanford,26,25,14,26,0,Stanford  Timeout
+Oregon,Stanford,26,25,14,41,0,Marcus Allen missed Three Point Jumper.
+Oregon,Stanford,26,25,14,41,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Stanford,26,25,14,49,0,Joseph Young missed Three Point Jumper.
+Oregon,Stanford,26,25,14,49,0,Stefan Nastic Defensive Rebound.
+Oregon,Stanford,26,25,15,0,0,Foul on Dillon Brooks.
+Oregon,Stanford,26,26,15,0,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,26,27,15,0,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,26,27,15,8,0,Jordan Bell Turnover.
+Oregon,Stanford,26,27,15,8,0,Reid Travis Steal.
+Oregon,Stanford,26,27,15,14,0,Foul on Casey Benson.
+Oregon,Stanford,26,27,15,14,0,Marcus Allen missed Free Throw.
+Oregon,Stanford,26,27,15,14,0,Stanford Deadball Team Rebound.
+Oregon,Stanford,26,28,15,14,1,Marcus Allen made Free Throw.
+Oregon,Stanford,28,28,15,34,1,Dwayne Benjamin made Dunk. Assisted by Joseph Young.
+Oregon,Stanford,28,28,16,15,0,Foul on Dillon Brooks.
+Oregon,Stanford,28,28,16,15,0,Official TV Timeout
+Oregon,Stanford,28,28,16,15,0,Stefan Nastic missed Free Throw.
+Oregon,Stanford,28,28,16,15,0,Stanford Deadball Team Rebound.
+Oregon,Stanford,28,29,16,15,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,30,29,16,36,1,Casey Benson made Jumper.
+Oregon,Stanford,30,29,17,7,0,Christian Sanders Turnover.
+Oregon,Stanford,30,29,17,9,0,Jordan Bell Steal.
+Oregon,Stanford,32,29,17,14,1,Elgin Cook made Layup. Assisted by Casey Benson.
+Oregon,Stanford,32,29,17,50,0,Rosco Allen missed Three Point Jumper.
+Oregon,Stanford,32,29,17,50,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Stanford,34,29,18,1,1,Dwayne Benjamin made Jumper.
+Oregon,Stanford,34,29,18,25,0,Anthony Brown missed Jumper.
+Oregon,Stanford,34,29,18,25,0,Joseph Young Defensive Rebound.
+Oregon,Stanford,34,29,18,49,0,Dwayne Benjamin missed Three Point Jumper.
+Oregon,Stanford,34,29,18,49,0,Oregon Deadball Team Rebound.
+Oregon,Stanford,34,29,18,52,0,Foul on Rosco Allen.
+Oregon,Stanford,35,29,18,52,1,Elgin Cook made Free Throw.
+Oregon,Stanford,36,29,18,52,1,Elgin Cook made Free Throw.
+Oregon,Stanford,36,29,18,52,0,Stanford  Timeout
+Oregon,Stanford,36,29,19,7,0,Anthony Brown missed Jumper.
+Oregon,Stanford,36,29,19,7,0,Stefan Nastic Offensive Rebound.
+Oregon,Stanford,36,29,19,10,0,Stefan Nastic missed Jumper.
+Oregon,Stanford,36,29,19,10,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Stanford,36,29,19,29,0,Joseph Young missed Jumper.
+Oregon,Stanford,36,29,19,29,0,Marcus Allen Defensive Rebound.
+Oregon,Stanford,36,29,19,37,0,Foul on Dwayne Benjamin.
+Oregon,Stanford,36,30,19,37,1,Marcus Allen made Free Throw.
+Oregon,Stanford,36,30,19,37,0,Marcus Allen missed Free Throw.
+Oregon,Stanford,36,30,19,37,0,Rosco Allen Offensive Rebound.
+Oregon,Stanford,36,30,19,54,0,Chasson Randle missed Three Point Jumper.
+Oregon,Stanford,36,30,19,54,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Stanford,36,30,20,0,0,End of 1st half
+Oregon,Stanford,36,30,20,9,0,Foul on Michael Humphrey.
+Oregon,Stanford,37,30,20,9,1,Elgin Cook made Free Throw.
+Oregon,Stanford,38,30,20,9,1,Elgin Cook made Free Throw.
+Oregon,Stanford,38,30,20,27,0,Foul on Jalil Abdul-Bassit.
+Oregon,Stanford,38,30,20,27,0,Stefan Nastic missed Free Throw.
+Oregon,Stanford,38,30,20,27,0,Stanford Deadball Team Rebound.
+Oregon,Stanford,38,31,20,27,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,38,31,20,36,0,Jalil Abdul-Bassit missed Jumper.
+Oregon,Stanford,38,31,20,36,0,Michael Humphrey Defensive Rebound.
+Oregon,Stanford,38,31,20,44,0,Chasson Randle missed Three Point Jumper.
+Oregon,Stanford,38,31,20,44,0,Marcus Allen Offensive Rebound.
+Oregon,Stanford,38,31,20,48,0,Foul on Dillon Brooks.
+Oregon,Stanford,38,31,20,48,0,Marcus Allen missed Free Throw.
+Oregon,Stanford,38,31,20,48,0,Stanford Deadball Team Rebound.
+Oregon,Stanford,38,32,20,48,1,Marcus Allen made Free Throw.
+Oregon,Stanford,40,32,20,56,1,Joseph Young made Jumper.
+Oregon,Stanford,40,34,21,14,1,Stefan Nastic made Jumper.
+Oregon,Stanford,40,34,21,32,0,Foul on Elgin Cook.
+Oregon,Stanford,40,34,21,32,0,Elgin Cook Turnover.
+Oregon,Stanford,40,37,21,48,1,Marcus Allen made Three Point Jumper. Assisted by Anthony Brown.
+Oregon,Stanford,42,37,22,1,1,Joseph Young made Jumper.
+Oregon,Stanford,42,37,22,9,0,Anthony Brown missed Three Point Jumper.
+Oregon,Stanford,42,37,22,9,0,Jalil Abdul-Bassit Defensive Rebound.
+Oregon,Stanford,42,37,22,22,0,Jordan Bell Turnover.
+Oregon,Stanford,42,37,22,53,0,Michael Humphrey missed Three Point Jumper.
+Oregon,Stanford,42,37,22,53,0,Dillon Brooks Defensive Rebound.
+Oregon,Stanford,42,37,23,3,0,Joseph Young missed Jumper.
+Oregon,Stanford,42,37,23,3,0,Marcus Allen Defensive Rebound.
+Oregon,Stanford,42,37,23,14,0,Marcus Allen missed Layup.
+Oregon,Stanford,42,37,23,14,0,Jordan Bell Block.
+Oregon,Stanford,42,37,23,15,0,Stefan Nastic Offensive Rebound.
+Oregon,Stanford,42,37,23,15,0,Foul on Jalil Abdul-Bassit.
+Oregon,Stanford,42,39,23,23,1,Chasson Randle made Jumper.
+Oregon,Stanford,42,39,23,41,0,Foul on Michael Humphrey.
+Oregon,Stanford,42,39,23,41,0,Elgin Cook missed Free Throw.
+Oregon,Stanford,42,39,23,41,0,Oregon Deadball Team Rebound.
+Oregon,Stanford,42,39,23,41,0,Elgin Cook missed Free Throw.
+Oregon,Stanford,42,39,23,41,0,Anthony Brown Defensive Rebound.
+Oregon,Stanford,42,41,23,56,1,Anthony Brown made Jumper. Assisted by Chasson Randle.
+Oregon,Stanford,44,41,24,12,1,Joseph Young made Layup.
+Oregon,Stanford,44,44,24,25,1,Chasson Randle made Three Point Jumper. Assisted by Anthony Brown.
+Oregon,Stanford,44,44,24,57,0,Dwayne Benjamin missed Three Point Jumper.
+Oregon,Stanford,44,44,24,57,0,Reid Travis Defensive Rebound.
+Oregon,Stanford,44,44,25,18,0,Anthony Brown missed Three Point Jumper.
+Oregon,Stanford,44,44,25,18,0,Marcus Allen Offensive Rebound.
+Oregon,Stanford,44,44,25,23,0,Chasson Randle missed Jumper.
+Oregon,Stanford,44,44,25,23,0,Oregon Defensive Rebound.
+Oregon,Stanford,44,44,25,25,0,Official TV Timeout
+Oregon,Stanford,44,44,25,43,0,Foul on Stefan Nastic.
+Oregon,Stanford,44,44,26,2,0,Dillon Brooks missed Layup.
+Oregon,Stanford,44,44,26,2,0,Chasson Randle Defensive Rebound.
+Oregon,Stanford,44,44,26,11,0,Chasson Randle missed Layup.
+Oregon,Stanford,44,44,26,11,0,Stefan Nastic Offensive Rebound.
+Oregon,Stanford,44,46,26,13,1,Stefan Nastic made Jumper.
+Oregon,Stanford,44,46,26,13,0,Foul on Dillon Brooks.
+Oregon,Stanford,44,47,26,13,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,46,47,26,20,1,Elgin Cook made Jumper.
+Oregon,Stanford,46,47,26,37,0,Foul on Marcus Allen.
+Oregon,Stanford,46,47,26,37,0,Marcus Allen Turnover.
+Oregon,Stanford,49,47,26,58,1,Elgin Cook made Three Point Jumper. Assisted by Ahmaad Rorie.
+Oregon,Stanford,49,47,27,32,0,Anthony Brown missed Three Point Jumper.
+Oregon,Stanford,49,47,27,32,0,Reid Travis Offensive Rebound.
+Oregon,Stanford,49,49,27,36,1,Reid Travis made Layup.
+Oregon,Stanford,49,49,27,51,0,Joseph Young missed Three Point Jumper.
+Oregon,Stanford,49,49,27,51,0,Chasson Randle Defensive Rebound.
+Oregon,Stanford,49,51,28,0,1,Chasson Randle made Layup.
+Oregon,Stanford,49,51,28,10,0,Oregon  Timeout
+Oregon,Stanford,51,51,28,19,1,Elgin Cook made Jumper.
+Oregon,Stanford,51,51,28,28,0,Official TV Timeout
+Oregon,Stanford,51,51,28,43,0,Chasson Randle missed Three Point Jumper.
+Oregon,Stanford,51,51,28,43,0,Dwayne Benjamin Defensive Rebound.
+Oregon,Stanford,53,51,28,55,1,Elgin Cook made Jumper.
+Oregon,Stanford,53,51,29,19,0,Anthony Brown missed Three Point Jumper.
+Oregon,Stanford,53,51,29,19,0,Elgin Cook Defensive Rebound.
+Oregon,Stanford,53,51,29,38,0,Foul on Chasson Randle.
+Oregon,Stanford,53,51,29,51,0,Foul on Marcus Allen.
+Oregon,Stanford,53,51,29,51,0,Joseph Young missed Jumper.
+Oregon,Stanford,53,51,29,51,0,Chasson Randle Defensive Rebound.
+Oregon,Stanford,53,53,30,15,1,Marcus Allen made Layup.
+Oregon,Stanford,53,53,30,24,0,Jordan Bell missed Jumper.
+Oregon,Stanford,53,53,30,24,0,Jordan Bell Offensive Rebound.
+Oregon,Stanford,53,53,30,26,0,Dwayne Benjamin missed Three Point Jumper.
+Oregon,Stanford,53,53,30,26,0,Anthony Brown Defensive Rebound.
+Oregon,Stanford,53,53,30,51,0,Stefan Nastic missed Jumper.
+Oregon,Stanford,53,53,30,51,0,Reid Travis Offensive Rebound.
+Oregon,Stanford,53,53,30,53,0,Foul on Dwayne Benjamin.
+Oregon,Stanford,53,54,30,53,1,Reid Travis made Free Throw.
+Oregon,Stanford,53,55,30,53,1,Reid Travis made Free Throw.
+Oregon,Stanford,53,55,31,6,0,Joseph Young missed Layup.
+Oregon,Stanford,53,55,31,6,0,Michael Humphrey Defensive Rebound.
+Oregon,Stanford,53,55,31,27,0,Anthony Brown missed Jumper.
+Oregon,Stanford,53,55,31,27,0,Oregon Defensive Rebound.
+Oregon,Stanford,53,55,31,46,0,Stanford  Timeout
+Oregon,Stanford,56,55,31,48,1,Dwayne Benjamin made Three Point Jumper. Assisted by Casey Benson.
+Oregon,Stanford,56,58,32,11,1,Chasson Randle made Three Point Jumper.
+Oregon,Stanford,59,58,32,39,1,Joseph Young made Three Point Jumper.
+Oregon,Stanford,59,60,33,2,1,Anthony Brown made Layup.
+Oregon,Stanford,59,60,33,9,0,Casey Benson missed Three Point Jumper.
+Oregon,Stanford,59,60,33,9,0,Marcus Allen Defensive Rebound.
+Oregon,Stanford,59,60,33,22,0,Marcus Allen missed Three Point Jumper.
+Oregon,Stanford,59,60,33,22,0,Jordan Bell Defensive Rebound.
+Oregon,Stanford,59,60,33,31,0,Official TV Timeout
+Oregon,Stanford,59,60,33,34,0,Joseph Young missed Layup.
+Oregon,Stanford,59,60,33,34,0,Anthony Brown Defensive Rebound.
+Oregon,Stanford,59,62,34,3,1,Anthony Brown made Jumper.
+Oregon,Stanford,59,62,34,18,0,Foul on Marcus Allen.
+Oregon,Stanford,60,62,34,18,1,Dwayne Benjamin made Free Throw.
+Oregon,Stanford,61,62,34,18,1,Dwayne Benjamin made Free Throw.
+Oregon,Stanford,61,62,34,41,0,Chasson Randle missed Layup.
+Oregon,Stanford,61,62,34,41,0,Joseph Young Defensive Rebound.
+Oregon,Stanford,61,62,34,49,0,Dillon Brooks missed Jumper.
+Oregon,Stanford,61,62,34,49,0,Michael Humphrey Block.
+Oregon,Stanford,61,62,34,50,0,Oregon Offensive Rebound.
+Oregon,Stanford,61,62,34,53,0,Joseph Young missed Jumper.
+Oregon,Stanford,61,62,34,53,0,Stanford Deadball Team Rebound.
+Oregon,Stanford,61,62,34,54,0,Foul on Dillon Brooks.
+Oregon,Stanford,61,63,34,54,1,Marcus Allen made Free Throw.
+Oregon,Stanford,61,64,34,54,1,Marcus Allen made Free Throw.
+Oregon,Stanford,61,64,35,4,0,Elgin Cook missed Three Point Jumper.
+Oregon,Stanford,61,64,35,4,0,Marcus Allen Defensive Rebound.
+Oregon,Stanford,61,64,35,26,0,Chasson Randle missed Jumper.
+Oregon,Stanford,61,64,35,26,0,Elgin Cook Defensive Rebound.
+Oregon,Stanford,63,64,35,32,1,Dwayne Benjamin made Dunk. Assisted by Joseph Young.
+Oregon,Stanford,63,66,36,7,1,Chasson Randle made Layup.
+Oregon,Stanford,63,66,36,24,0,Joseph Young missed Jumper.
+Oregon,Stanford,63,66,36,24,0,Stefan Nastic Block.
+Oregon,Stanford,63,66,36,25,0,Oregon Offensive Rebound.
+Oregon,Stanford,63,66,36,25,0,Official TV Timeout
+Oregon,Stanford,66,66,36,34,1,Dwayne Benjamin made Three Point Jumper. Assisted by Elgin Cook.
+Oregon,Stanford,66,66,36,59,0,Stefan Nastic missed Layup.
+Oregon,Stanford,66,66,36,59,0,Jordan Bell Block.
+Oregon,Stanford,66,66,37,1,0,Joseph Young Defensive Rebound.
+Oregon,Stanford,68,66,37,5,1,Jordan Bell made Dunk. Assisted by Dwayne Benjamin.
+Oregon,Stanford,68,66,37,25,0,Chasson Randle missed Three Point Jumper.
+Oregon,Stanford,68,66,37,25,0,Elgin Cook Defensive Rebound.
+Oregon,Stanford,68,66,37,47,0,Elgin Cook Turnover.
+Oregon,Stanford,68,66,37,49,0,Michael Humphrey Steal.
+Oregon,Stanford,68,68,37,51,1,Anthony Brown made Layup.
+Oregon,Stanford,68,68,38,1,0,Oregon  Timeout
+Oregon,Stanford,70,68,38,24,1,Elgin Cook made Layup.
+Oregon,Stanford,70,68,38,49,0,Chasson Randle missed Jumper.
+Oregon,Stanford,70,68,38,49,0,Stanford Offensive Rebound.
+Oregon,Stanford,70,68,38,59,0,Foul on Dwayne Benjamin.
+Oregon,Stanford,70,69,38,59,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,70,70,38,59,1,Stefan Nastic made Free Throw.
+Oregon,Stanford,70,70,39,11,0,Elgin Cook Turnover.
+Oregon,Stanford,70,70,39,12,0,Michael Humphrey Steal.
+Oregon,Stanford,70,70,39,16,0,Stanford  Timeout
+Oregon,Stanford,70,70,39,43,0,Chasson Randle Turnover.
+Oregon,Stanford,70,70,39,43,0,Dwayne Benjamin Steal.
+Oregon,Stanford,70,70,39,46,0,Foul on Chasson Randle.
+Oregon,Stanford,70,70,39,46,0,Stanford  Timeout
+Oregon,Stanford,70,70,39,46,0,Dwayne Benjamin missed Free Throw.
+Oregon,Stanford,70,70,39,46,0,Oregon Deadball Team Rebound.
+Oregon,Stanford,71,70,39,46,1,Dwayne Benjamin made Free Throw.
+Oregon,Stanford,71,70,39,46,0,Oregon  Timeout
+Oregon,Stanford,71,70,39,55,0,Chasson Randle missed Jumper.
+Oregon,Stanford,71,70,39,55,0,Joseph Young Defensive Rebound.
+Oregon,Stanford,71,70,39,57,0,Foul on Chasson Randle.
+Oregon,Stanford,72,70,39,57,1,Joseph Young made Free Throw.
+Oregon,Stanford,73,70,39,57,1,Joseph Young made Free Throw.
+Oregon,Stanford,73,70,39,57,0,Oregon  Timeout
+Oregon,Stanford,73,70,39,59,0,Reid Travis Turnover.
+Oregon,Stanford,73,70,39,59,0,Elgin Cook Steal.
+Oregon,Stanford,73,70,40,0,0,End of Game

@@ -1,0 +1,340 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UConn,Villanova,0,0,0,0,0,Jump Ball won by Villanova
+UConn,Villanova,0,0,0,10,0,Foul on Daniel Ochefu.
+UConn,Villanova,0,0,0,10,0,Daniel Ochefu Turnover.
+UConn,Villanova,0,0,0,25,0,DeAndre Daniels missed Jumper.
+UConn,Villanova,0,0,0,25,0,JayVaughn Pinkston Defensive Rebound.
+UConn,Villanova,0,2,0,34,1,JayVaughn Pinkston made Layup.
+UConn,Villanova,0,2,1,0,0,Ryan Boatright missed Three Point Jumper.
+UConn,Villanova,0,2,1,0,0,James Bell Defensive Rebound.
+UConn,Villanova,0,2,1,10,0,Flagrant Foul on Phillip Nolan.
+UConn,Villanova,0,3,1,10,1,Daniel Ochefu made Free Throw.
+UConn,Villanova,0,4,1,10,1,Daniel Ochefu made Free Throw.
+UConn,Villanova,0,7,1,12,1,Ryan Arcidiacono made Three Point Jumper. Assisted by JayVaughn Pinkston.
+UConn,Villanova,0,7,1,37,0,DeAndre Daniels missed Jumper.
+UConn,Villanova,0,7,1,37,0,Daniel Ochefu Defensive Rebound.
+UConn,Villanova,0,7,1,54,0,James Bell missed Three Point Jumper.
+UConn,Villanova,0,7,1,54,0,DeAndre Daniels Defensive Rebound.
+UConn,Villanova,2,7,2,6,1,Shabazz Napier made Layup.
+UConn,Villanova,2,7,2,26,0,Foul on Shabazz Napier.
+UConn,Villanova,2,7,2,26,0,Darrun Hilliard missed Free Throw.
+UConn,Villanova,2,7,2,26,0,Villanova Deadball Team Rebound.
+UConn,Villanova,2,8,2,26,1,Darrun Hilliard made Free Throw.
+UConn,Villanova,2,9,2,26,1,Darrun Hilliard made Free Throw.
+UConn,Villanova,2,9,2,42,0,Shabazz Napier missed Three Point Jumper.
+UConn,Villanova,2,9,2,42,0,Daniel Ochefu Defensive Rebound.
+UConn,Villanova,2,9,2,58,0,James Bell missed Layup.
+UConn,Villanova,2,9,2,58,0,Amida Brimah Defensive Rebound.
+UConn,Villanova,5,9,3,6,1,DeAndre Daniels made Three Point Jumper. Assisted by Shabazz Napier.
+UConn,Villanova,5,11,3,37,1,JayVaughn Pinkston made Jumper.
+UConn,Villanova,5,11,4,3,0,DeAndre Daniels missed Layup.
+UConn,Villanova,5,11,4,3,0,Daniel Ochefu Defensive Rebound.
+UConn,Villanova,5,13,4,11,1,Ryan Arcidiacono made Layup.
+UConn,Villanova,5,13,4,15,0,Connecticut  Timeout
+UConn,Villanova,5,13,4,32,0,Shabazz Napier Turnover.
+UConn,Villanova,5,13,4,32,0,Official TV Timeout
+UConn,Villanova,5,13,5,1,0,Tony Chennault missed Jumper.
+UConn,Villanova,5,13,5,1,0,Niels Giffey Defensive Rebound.
+UConn,Villanova,7,13,5,15,1,Shabazz Napier made Jumper.
+UConn,Villanova,7,13,5,20,0,Villanova  Timeout
+UConn,Villanova,7,13,5,38,0,Ryan Arcidiacono Turnover.
+UConn,Villanova,7,13,5,38,0,Shabazz Napier Steal.
+UConn,Villanova,7,13,5,44,0,Niels Giffey missed Three Point Jumper.
+UConn,Villanova,7,13,5,44,0,Connecticut Offensive Rebound.
+UConn,Villanova,7,13,5,57,0,Shabazz Napier missed Three Point Jumper.
+UConn,Villanova,7,13,5,57,0,James Bell Defensive Rebound.
+UConn,Villanova,7,16,6,8,1,James Bell made Three Point Jumper. Assisted by Ryan Arcidiacono.
+UConn,Villanova,7,16,6,29,0,Amida Brimah missed Layup.
+UConn,Villanova,7,16,6,29,0,James Bell Defensive Rebound.
+UConn,Villanova,7,16,6,35,0,James Bell missed Three Point Jumper.
+UConn,Villanova,7,16,6,35,0,Ryan Boatright Defensive Rebound.
+UConn,Villanova,9,16,6,46,1,Ryan Boatright made Layup.
+UConn,Villanova,9,16,7,6,0,Josh Hart missed Jumper.
+UConn,Villanova,9,16,7,6,0,Shabazz Napier Defensive Rebound.
+UConn,Villanova,9,16,7,22,0,Foul on Josh Hart.
+UConn,Villanova,9,16,7,35,0,Niels Giffey Turnover.
+UConn,Villanova,9,16,7,42,0,Ryan Arcidiacono missed Jumper.
+UConn,Villanova,9,16,7,42,0,Shabazz Napier Defensive Rebound.
+UConn,Villanova,9,16,7,51,0,Foul on Shabazz Napier.
+UConn,Villanova,9,16,7,51,0,Shabazz Napier Turnover.
+UConn,Villanova,9,16,8,1,0,Foul on Terrence Samuel.
+UConn,Villanova,9,16,8,1,0,Official TV Timeout
+UConn,Villanova,9,16,8,7,0,Dylan Ennis Turnover.
+UConn,Villanova,9,16,8,7,0,Lasan Kromah Steal.
+UConn,Villanova,9,16,8,15,0,Terrence Samuel missed Layup.
+UConn,Villanova,9,16,8,15,0,Dylan Ennis Block.
+UConn,Villanova,9,16,8,15,0,Ryan Boatright Offensive Rebound.
+UConn,Villanova,9,16,8,24,0,Lasan Kromah missed Layup.
+UConn,Villanova,9,16,8,24,0,Darrun Hilliard Defensive Rebound.
+UConn,Villanova,9,19,8,29,1,Darrun Hilliard made Three Point Jumper. Assisted by Ryan Arcidiacono.
+UConn,Villanova,9,19,9,5,0,Ryan Boatright missed Three Point Jumper.
+UConn,Villanova,9,19,9,5,0,Daniel Ochefu Defensive Rebound.
+UConn,Villanova,9,19,9,18,0,Dylan Ennis missed Three Point Jumper.
+UConn,Villanova,9,19,9,18,0,Ryan Boatright Defensive Rebound.
+UConn,Villanova,9,19,9,28,0,Foul on Dylan Ennis.
+UConn,Villanova,10,19,9,28,1,Terrence Samuel made Free Throw.
+UConn,Villanova,11,19,9,28,1,Terrence Samuel made Free Throw.
+UConn,Villanova,11,19,9,32,0,Darrun Hilliard Turnover.
+UConn,Villanova,11,19,9,32,0,Terrence Samuel Steal.
+UConn,Villanova,11,19,9,38,0,Terrence Samuel missed Layup.
+UConn,Villanova,11,19,9,38,0,Darrun Hilliard Defensive Rebound.
+UConn,Villanova,11,19,9,45,0,Foul on Amida Brimah.
+UConn,Villanova,11,19,9,45,0,JayVaughn Pinkston missed Free Throw.
+UConn,Villanova,11,19,9,45,0,Villanova Deadball Team Rebound.
+UConn,Villanova,11,20,9,45,1,JayVaughn Pinkston made Free Throw.
+UConn,Villanova,13,20,10,7,1,Terrence Samuel made Jumper.
+UConn,Villanova,13,20,10,33,0,JayVaughn Pinkston missed Layup.
+UConn,Villanova,13,20,10,33,0,Niels Giffey Block.
+UConn,Villanova,13,20,10,33,0,Niels Giffey Defensive Rebound.
+UConn,Villanova,13,20,10,46,0,Foul on Kris Jenkins.
+UConn,Villanova,13,20,11,2,0,Ryan Boatright missed Layup.
+UConn,Villanova,13,20,11,2,0,Daniel Ochefu Defensive Rebound.
+UConn,Villanova,13,20,11,19,0,James Bell missed Three Point Jumper.
+UConn,Villanova,13,20,11,19,0,Amida Brimah Block.
+UConn,Villanova,13,20,11,19,0,Villanova Offensive Rebound.
+UConn,Villanova,13,20,11,38,0,Daniel Ochefu missed Layup.
+UConn,Villanova,13,20,11,38,0,Niels Giffey Defensive Rebound.
+UConn,Villanova,13,20,11,48,0,Lasan Kromah missed Jumper.
+UConn,Villanova,13,20,11,48,0,Darrun Hilliard Defensive Rebound.
+UConn,Villanova,13,20,11,56,0,Darrun Hilliard missed Jumper.
+UConn,Villanova,13,20,11,56,0,Niels Giffey Defensive Rebound.
+UConn,Villanova,13,20,12,6,0,Foul on James Bell.
+UConn,Villanova,13,20,12,6,0,Official TV Timeout
+UConn,Villanova,13,20,12,6,0,Ryan Boatright missed Free Throw.
+UConn,Villanova,13,20,12,6,0,Connecticut Deadball Team Rebound.
+UConn,Villanova,13,20,12,6,0,Ryan Boatright missed Free Throw.
+UConn,Villanova,13,20,12,6,0,JayVaughn Pinkston Defensive Rebound.
+UConn,Villanova,13,20,12,33,0,Tony Chennault Turnover.
+UConn,Villanova,16,20,12,53,1,DeAndre Daniels made Three Point Jumper. Assisted by Terrence Samuel.
+UConn,Villanova,16,20,13,13,0,Josh Hart missed Three Point Jumper.
+UConn,Villanova,16,20,13,13,0,Niels Giffey Defensive Rebound.
+UConn,Villanova,16,20,13,37,0,DeAndre Daniels Turnover.
+UConn,Villanova,16,20,13,49,0,JayVaughn Pinkston missed Jumper.
+UConn,Villanova,16,20,13,49,0,Connecticut Defensive Rebound.
+UConn,Villanova,18,20,14,9,1,Lasan Kromah made Layup.
+UConn,Villanova,18,20,14,39,0,JayVaughn Pinkston missed Layup.
+UConn,Villanova,18,20,14,39,0,DeAndre Daniels Defensive Rebound.
+UConn,Villanova,18,20,14,53,0,Foul on JayVaughn Pinkston.
+UConn,Villanova,18,20,15,12,0,Terrence Samuel missed Layup.
+UConn,Villanova,18,20,15,12,0,Kris Jenkins Defensive Rebound.
+UConn,Villanova,18,20,15,26,0,Jump Ball won by Connecticut
+UConn,Villanova,18,20,15,26,0,Darrun Hilliard Turnover.
+UConn,Villanova,18,20,15,26,0,Niels Giffey Steal.
+UConn,Villanova,20,20,15,34,1,Ryan Boatright made Layup.
+UConn,Villanova,20,20,16,9,0,Foul on Niels Giffey.
+UConn,Villanova,20,20,16,9,0,Official TV Timeout
+UConn,Villanova,20,20,16,27,0,Foul on Ryan Arcidiacono.
+UConn,Villanova,20,20,16,27,0,Ryan Arcidiacono Turnover.
+UConn,Villanova,23,20,16,54,1,Lasan Kromah made Three Point Jumper. Assisted by Ryan Boatright.
+UConn,Villanova,23,20,17,19,0,Darrun Hilliard missed Three Point Jumper.
+UConn,Villanova,23,20,17,19,0,Ryan Boatright Defensive Rebound.
+UConn,Villanova,23,20,17,32,0,DeAndre Daniels missed Jumper.
+UConn,Villanova,23,20,17,32,0,Daniel Ochefu Block.
+UConn,Villanova,23,20,17,32,0,Niels Giffey Offensive Rebound.
+UConn,Villanova,23,20,17,39,0,Niels Giffey missed Jumper.
+UConn,Villanova,23,20,17,39,0,DeAndre Daniels Offensive Rebound.
+UConn,Villanova,23,20,17,54,0,Ryan Boatright Turnover.
+UConn,Villanova,23,20,17,54,0,Josh Hart Steal.
+UConn,Villanova,23,20,18,2,0,JayVaughn Pinkston Turnover.
+UConn,Villanova,23,20,18,2,0,Ryan Boatright Steal.
+UConn,Villanova,25,20,18,28,1,Niels Giffey made Jumper. Assisted by Lasan Kromah.
+UConn,Villanova,25,20,18,51,0,JayVaughn Pinkston missed Three Point Jumper.
+UConn,Villanova,25,20,18,51,0,Ryan Boatright Defensive Rebound.
+UConn,Villanova,25,20,19,23,0,DeAndre Daniels missed Jumper.
+UConn,Villanova,25,20,19,23,0,Daniel Ochefu Defensive Rebound.
+UConn,Villanova,25,20,19,31,0,Flagrant Foul on Terrence Samuel.
+UConn,Villanova,25,20,19,31,0,JayVaughn Pinkston missed Free Throw.
+UConn,Villanova,25,20,19,31,0,Villanova Deadball Team Rebound.
+UConn,Villanova,25,21,19,31,1,JayVaughn Pinkston made Free Throw.
+UConn,Villanova,25,24,19,51,1,Ryan Arcidiacono made Three Point Jumper.
+UConn,Villanova,25,24,19,59,0,Ryan Boatright missed Three Point Jumper.
+UConn,Villanova,25,24,19,59,0,Villanova Deadball Team Rebound.
+UConn,Villanova,25,24,20,0,0,End of 1st half
+UConn,Villanova,25,24,20,0,0,Jump Ball won by Villanova
+UConn,Villanova,25,27,20,8,1,Ryan Arcidiacono made Three Point Jumper.
+UConn,Villanova,25,27,20,28,0,Foul on Darrun Hilliard.
+UConn,Villanova,25,27,20,31,0,Shabazz Napier Turnover.
+UConn,Villanova,25,27,20,31,0,Ryan Arcidiacono Steal.
+UConn,Villanova,25,27,20,34,0,Foul on DeAndre Daniels.
+UConn,Villanova,25,27,20,44,0,Ryan Arcidiacono missed Three Point Jumper.
+UConn,Villanova,25,27,20,44,0,Niels Giffey Defensive Rebound.
+UConn,Villanova,25,27,20,54,0,Shabazz Napier missed Three Point Jumper.
+UConn,Villanova,25,27,20,54,0,Ryan Boatright Offensive Rebound.
+UConn,Villanova,27,27,20,59,1,Ryan Boatright made Layup.
+UConn,Villanova,27,27,21,18,0,Ryan Arcidiacono missed Three Point Jumper.
+UConn,Villanova,27,27,21,18,0,Shabazz Napier Defensive Rebound.
+UConn,Villanova,30,27,21,28,1,DeAndre Daniels made Three Point Jumper. Assisted by Niels Giffey.
+UConn,Villanova,30,27,22,5,0,JayVaughn Pinkston missed Layup.
+UConn,Villanova,30,27,22,5,0,Connecticut Defensive Rebound.
+UConn,Villanova,33,27,22,19,1,Shabazz Napier made Three Point Jumper. Assisted by Niels Giffey.
+UConn,Villanova,33,30,22,42,1,Darrun Hilliard made Three Point Jumper.
+UConn,Villanova,33,30,22,58,0,Foul on JayVaughn Pinkston.
+UConn,Villanova,33,30,23,8,0,Ryan Boatright missed Layup.
+UConn,Villanova,33,30,23,8,0,Ryan Arcidiacono Defensive Rebound.
+UConn,Villanova,33,30,23,11,0,Foul on Amida Brimah.
+UConn,Villanova,33,30,23,15,0,Ryan Arcidiacono Turnover.
+UConn,Villanova,33,30,23,15,0,Shabazz Napier Steal.
+UConn,Villanova,35,30,23,21,1,Shabazz Napier made Layup.
+UConn,Villanova,35,33,23,38,1,James Bell made Three Point Jumper. Assisted by JayVaughn Pinkston.
+UConn,Villanova,35,33,23,59,0,Ryan Boatright missed Layup.
+UConn,Villanova,35,33,23,59,0,Niels Giffey Offensive Rebound.
+UConn,Villanova,35,33,24,12,0,DeAndre Daniels missed Three Point Jumper.
+UConn,Villanova,35,33,24,12,0,JayVaughn Pinkston Defensive Rebound.
+UConn,Villanova,35,36,24,22,1,James Bell made Three Point Jumper. Assisted by Ryan Arcidiacono.
+UConn,Villanova,35,36,24,42,0,Foul on Darrun Hilliard.
+UConn,Villanova,35,36,24,42,0,Official TV Timeout
+UConn,Villanova,35,36,24,49,0,Shabazz Napier missed Three Point Jumper.
+UConn,Villanova,35,36,24,49,0,James Bell Defensive Rebound.
+UConn,Villanova,35,36,25,12,0,Ryan Arcidiacono Turnover.
+UConn,Villanova,37,36,25,23,1,DeAndre Daniels made Layup.
+UConn,Villanova,37,36,25,49,0,Josh Hart Turnover.
+UConn,Villanova,39,36,25,54,1,Amida Brimah made Dunk. Assisted by Shabazz Napier.
+UConn,Villanova,39,36,26,13,0,James Bell missed Three Point Jumper.
+UConn,Villanova,39,36,26,13,0,Terrence Samuel Defensive Rebound.
+UConn,Villanova,41,36,26,36,1,Shabazz Napier made Jumper.
+UConn,Villanova,41,36,27,4,0,Josh Hart missed Three Point Jumper.
+UConn,Villanova,41,36,27,4,0,DeAndre Daniels Defensive Rebound.
+UConn,Villanova,41,36,27,30,0,Shabazz Napier Turnover.
+UConn,Villanova,41,36,27,30,0,Darrun Hilliard Steal.
+UConn,Villanova,41,36,27,45,0,Foul on Shabazz Napier.
+UConn,Villanova,41,36,27,51,0,Ryan Arcidiacono missed Three Point Jumper.
+UConn,Villanova,41,36,27,51,0,Ryan Boatright Defensive Rebound.
+UConn,Villanova,41,36,27,58,0,Foul on Darrun Hilliard.
+UConn,Villanova,42,36,27,58,1,Terrence Samuel made Free Throw.
+UConn,Villanova,42,36,27,58,0,Terrence Samuel missed Free Throw.
+UConn,Villanova,42,36,27,58,0,Daniel Ochefu Defensive Rebound.
+UConn,Villanova,42,36,28,12,0,Darrun Hilliard Turnover.
+UConn,Villanova,42,36,28,12,0,Lasan Kromah Steal.
+UConn,Villanova,42,36,28,12,0,Official TV Timeout
+UConn,Villanova,42,36,28,35,0,Amida Brimah missed Layup.
+UConn,Villanova,42,36,28,35,0,Ryan Arcidiacono Defensive Rebound.
+UConn,Villanova,42,39,28,41,1,James Bell made Three Point Jumper. Assisted by Ryan Arcidiacono.
+UConn,Villanova,42,39,28,56,0,Foul on James Bell.
+UConn,Villanova,45,39,29,25,1,Lasan Kromah made Three Point Jumper. Assisted by Ryan Boatright.
+UConn,Villanova,45,39,29,50,0,Foul on Amida Brimah.
+UConn,Villanova,45,40,29,50,1,JayVaughn Pinkston made Free Throw.
+UConn,Villanova,45,40,29,50,0,JayVaughn Pinkston missed Free Throw.
+UConn,Villanova,45,40,29,50,0,Phillip Nolan Defensive Rebound.
+UConn,Villanova,45,40,30,6,0,Connecticut  Timeout
+UConn,Villanova,48,40,30,15,1,Shabazz Napier made Three Point Jumper. Assisted by Ryan Boatright.
+UConn,Villanova,48,40,30,35,0,Darrun Hilliard missed Three Point Jumper.
+UConn,Villanova,48,40,30,35,0,Shabazz Napier Defensive Rebound.
+UConn,Villanova,51,40,31,0,1,Shabazz Napier made Three Point Jumper.
+UConn,Villanova,51,40,31,17,0,Foul on Ryan Boatright.
+UConn,Villanova,51,41,31,17,1,Ryan Arcidiacono made Free Throw.
+UConn,Villanova,51,42,31,17,1,Ryan Arcidiacono made Free Throw.
+UConn,Villanova,51,43,31,17,1,Ryan Arcidiacono made Free Throw.
+UConn,Villanova,51,43,31,44,0,Foul on Ryan Arcidiacono.
+UConn,Villanova,51,43,31,58,0,Lasan Kromah Turnover.
+UConn,Villanova,51,43,31,58,0,Daniel Ochefu Steal.
+UConn,Villanova,51,43,32,15,0,Darrun Hilliard Turnover.
+UConn,Villanova,51,43,32,15,0,Lasan Kromah Steal.
+UConn,Villanova,51,43,32,28,0,Ryan Boatright Turnover.
+UConn,Villanova,51,43,32,28,0,Official TV Timeout
+UConn,Villanova,51,43,32,52,0,Jump Ball won by Connecticut
+UConn,Villanova,51,43,32,52,0,James Bell Turnover.
+UConn,Villanova,51,43,32,52,0,Phillip Nolan Steal.
+UConn,Villanova,51,43,33,17,0,Lasan Kromah Turnover.
+UConn,Villanova,51,43,33,17,0,Darrun Hilliard Steal.
+UConn,Villanova,51,43,33,21,0,Foul on Lasan Kromah.
+UConn,Villanova,51,44,33,21,1,Darrun Hilliard made Free Throw.
+UConn,Villanova,51,45,33,21,1,Darrun Hilliard made Free Throw.
+UConn,Villanova,54,45,33,49,1,Shabazz Napier made Three Point Jumper.
+UConn,Villanova,54,45,33,58,0,Villanova  Timeout
+UConn,Villanova,54,45,34,9,0,James Bell missed Three Point Jumper.
+UConn,Villanova,54,45,34,9,0,Daniel Ochefu Offensive Rebound.
+UConn,Villanova,54,45,34,14,0,Daniel Ochefu missed Jumper.
+UConn,Villanova,54,45,34,14,0,Niels Giffey Defensive Rebound.
+UConn,Villanova,54,45,34,44,0,Ryan Boatright missed Layup.
+UConn,Villanova,54,45,34,44,0,DeAndre Daniels Offensive Rebound.
+UConn,Villanova,54,45,34,44,0,DeAndre Daniels missed Two Point Tip Shot.
+UConn,Villanova,54,45,34,44,0,Josh Hart Defensive Rebound.
+UConn,Villanova,54,45,34,52,0,Foul on Niels Giffey.
+UConn,Villanova,54,46,34,52,1,James Bell made Free Throw.
+UConn,Villanova,54,47,34,52,1,James Bell made Free Throw.
+UConn,Villanova,54,47,35,11,0,Foul on James Bell.
+UConn,Villanova,55,47,35,11,1,Ryan Boatright made Free Throw.
+UConn,Villanova,56,47,35,11,1,Ryan Boatright made Free Throw.
+UConn,Villanova,56,47,35,16,0,Foul on Ryan Boatright.
+UConn,Villanova,56,48,35,16,1,Ryan Arcidiacono made Free Throw.
+UConn,Villanova,56,49,35,16,1,Ryan Arcidiacono made Free Throw.
+UConn,Villanova,56,49,35,45,0,DeAndre Daniels missed Three Point Jumper.
+UConn,Villanova,56,49,35,45,0,Josh Hart Defensive Rebound.
+UConn,Villanova,56,49,35,57,0,JayVaughn Pinkston missed Jumper.
+UConn,Villanova,56,49,35,57,0,JayVaughn Pinkston Offensive Rebound.
+UConn,Villanova,56,51,36,1,1,JayVaughn Pinkston made Layup. Assisted by Darrun Hilliard.
+UConn,Villanova,56,51,36,20,0,Connecticut  Timeout
+UConn,Villanova,56,51,36,36,0,Foul on JayVaughn Pinkston.
+UConn,Villanova,56,51,36,36,0,Official TV Timeout
+UConn,Villanova,57,51,36,36,1,Terrence Samuel made Free Throw.
+UConn,Villanova,58,51,36,36,1,Terrence Samuel made Free Throw.
+UConn,Villanova,58,51,36,41,0,Ryan Arcidiacono missed Layup.
+UConn,Villanova,58,51,36,41,0,Niels Giffey Defensive Rebound.
+UConn,Villanova,58,51,37,16,0,Lasan Kromah missed Three Point Jumper.
+UConn,Villanova,58,51,37,16,0,James Bell Defensive Rebound.
+UConn,Villanova,58,51,37,29,0,Darrun Hilliard Turnover.
+UConn,Villanova,58,51,37,29,0,Niels Giffey Steal.
+UConn,Villanova,60,51,37,43,1,Shabazz Napier made Layup.
+UConn,Villanova,60,51,37,44,0,Villanova  Timeout
+UConn,Villanova,60,53,37,50,1,JayVaughn Pinkston made Dunk. Assisted by Darrun Hilliard.
+UConn,Villanova,62,53,38,1,1,Terrence Samuel made Layup. Assisted by Shabazz Napier.
+UConn,Villanova,62,53,38,12,0,Foul on Lasan Kromah.
+UConn,Villanova,62,53,38,12,0,Ryan Arcidiacono missed Free Throw.
+UConn,Villanova,62,53,38,12,0,Shabazz Napier Defensive Rebound.
+UConn,Villanova,62,53,38,15,0,Foul on Daniel Ochefu.
+UConn,Villanova,63,53,38,15,1,Shabazz Napier made Free Throw.
+UConn,Villanova,63,53,38,15,0,Shabazz Napier missed Free Throw.
+UConn,Villanova,63,53,38,15,0,Darrun Hilliard Defensive Rebound.
+UConn,Villanova,63,53,38,21,0,Darrun Hilliard Turnover.
+UConn,Villanova,63,53,38,21,0,Lasan Kromah Steal.
+UConn,Villanova,63,53,38,22,0,Foul on Darrun Hilliard.
+UConn,Villanova,64,53,38,22,1,Lasan Kromah made Free Throw.
+UConn,Villanova,65,53,38,22,1,Lasan Kromah made Free Throw.
+UConn,Villanova,65,53,38,29,0,James Bell missed Three Point Jumper.
+UConn,Villanova,65,53,38,29,0,Josh Hart Offensive Rebound.
+UConn,Villanova,65,53,38,37,0,Foul on Terrence Samuel.
+UConn,Villanova,65,54,38,37,1,Ryan Arcidiacono made Free Throw.
+UConn,Villanova,65,54,38,37,0,Ryan Arcidiacono missed Free Throw.
+UConn,Villanova,65,54,38,37,0,Villanova Deadball Team Rebound.
+UConn,Villanova,65,55,38,37,1,Ryan Arcidiacono made Free Throw.
+UConn,Villanova,65,55,38,38,0,Foul on Dylan Ennis.
+UConn,Villanova,65,55,38,38,0,Ryan Boatright missed Free Throw.
+UConn,Villanova,65,55,38,38,0,Connecticut Deadball Team Rebound.
+UConn,Villanova,66,55,38,38,1,Ryan Boatright made Free Throw.
+UConn,Villanova,66,58,38,41,1,Darrun Hilliard made Three Point Jumper. Assisted by Ryan Arcidiacono.
+UConn,Villanova,66,58,38,44,0,Villanova  Timeout
+UConn,Villanova,66,58,38,45,0,Niels Giffey Turnover.
+UConn,Villanova,66,58,38,45,0,Ryan Arcidiacono Steal.
+UConn,Villanova,66,60,38,49,1,Daniel Ochefu made Layup. Assisted by Ryan Arcidiacono.
+UConn,Villanova,66,60,38,54,0,Foul on Ryan Arcidiacono.
+UConn,Villanova,67,60,38,54,1,Shabazz Napier made Free Throw.
+UConn,Villanova,68,60,38,54,1,Shabazz Napier made Free Throw.
+UConn,Villanova,68,63,39,0,1,Kris Jenkins made Three Point Jumper.
+UConn,Villanova,68,63,39,3,0,Foul on James Bell.
+UConn,Villanova,69,63,39,3,1,Lasan Kromah made Free Throw.
+UConn,Villanova,70,63,39,3,1,Lasan Kromah made Free Throw.
+UConn,Villanova,70,63,39,8,0,Darrun Hilliard missed Three Point Jumper.
+UConn,Villanova,70,63,39,8,0,Niels Giffey Defensive Rebound.
+UConn,Villanova,70,63,39,14,0,Foul on Darrun Hilliard.
+UConn,Villanova,71,63,39,14,1,Niels Giffey made Free Throw.
+UConn,Villanova,72,63,39,14,1,Niels Giffey made Free Throw.
+UConn,Villanova,72,65,39,24,1,Dylan Ennis made Layup.
+UConn,Villanova,72,65,39,27,0,Foul on James Bell.
+UConn,Villanova,73,65,39,27,1,Terrence Samuel made Free Throw.
+UConn,Villanova,74,65,39,27,1,Terrence Samuel made Free Throw.
+UConn,Villanova,74,65,39,35,0,Kris Jenkins missed Three Point Jumper.
+UConn,Villanova,74,65,39,35,0,Lasan Kromah Defensive Rebound.
+UConn,Villanova,74,65,39,41,0,Foul on Josh Hart.
+UConn,Villanova,75,65,39,41,1,Ryan Boatright made Free Throw.
+UConn,Villanova,76,65,39,41,1,Ryan Boatright made Free Throw.
+UConn,Villanova,76,65,39,43,0,Dylan Ennis missed Three Point Jumper.
+UConn,Villanova,76,65,39,43,0,Tony Chennault Offensive Rebound.
+UConn,Villanova,76,65,39,50,0,Tony Chennault missed Three Point Jumper.
+UConn,Villanova,76,65,39,50,0,Leon Tolksdorf Defensive Rebound.
+UConn,Villanova,76,65,39,52,0,Foul on Dylan Ennis.
+UConn,Villanova,76,65,39,52,0,Leon Tolksdorf missed Free Throw.
+UConn,Villanova,76,65,39,52,0,Connecticut Deadball Team Rebound.
+UConn,Villanova,77,65,39,52,1,Leon Tolksdorf made Free Throw.
+UConn,Villanova,77,65,39,55,0,Ryan Arcidiacono missed Three Point Jumper.
+UConn,Villanova,77,65,39,55,0,Ryan Arcidiacono Offensive Rebound.
+UConn,Villanova,77,65,40,0,0,End of Game

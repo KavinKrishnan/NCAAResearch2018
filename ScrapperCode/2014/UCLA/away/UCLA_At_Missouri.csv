@@ -1,0 +1,370 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UCLA,Missouri,0,0,0,0,0,Jump Ball won by Missouri
+UCLA,Missouri,0,0,0,14,0,Jordan Clarkson Turnover.
+UCLA,Missouri,0,0,0,14,0,Norman Powell missed Three Point Jumper.
+UCLA,Missouri,0,0,0,27,0,David Wear Offensive Rebound.
+UCLA,Missouri,0,0,0,27,0,Jordan Adams missed Jumper.
+UCLA,Missouri,0,0,0,27,0,Ryan Rosburg Block.
+UCLA,Missouri,0,0,0,27,0,Kyle Anderson Offensive Rebound.
+UCLA,Missouri,0,0,0,31,0,Foul on Ryan Rosburg.
+UCLA,Missouri,1,0,0,31,1,Jordan Adams made Free Throw.
+UCLA,Missouri,1,0,0,31,0,Jordan Adams missed Free Throw.
+UCLA,Missouri,1,0,0,31,0,Jabari Brown Defensive Rebound.
+UCLA,Missouri,1,2,0,51,1,Jabari Brown made Layup.
+UCLA,Missouri,1,2,0,59,0,Tony Parker missed Layup.
+UCLA,Missouri,1,2,0,59,0,Jordan Adams Offensive Rebound.
+UCLA,Missouri,4,2,1,9,1,Jordan Adams made Three Point Jumper.
+UCLA,Missouri,4,2,1,16,0,Johnathan Williams III Turnover.
+UCLA,Missouri,4,2,1,16,0,Norman Powell Steal.
+UCLA,Missouri,4,2,1,35,0,Norman Powell Turnover.
+UCLA,Missouri,4,2,2,0,0,Ryan Rosburg missed Layup.
+UCLA,Missouri,4,2,2,0,0,David Wear Defensive Rebound.
+UCLA,Missouri,4,2,2,0,0,Kyle Anderson Turnover.
+UCLA,Missouri,4,5,2,1,1,Jordan Clarkson made Three Point Jumper. Assisted by Jabari Brown.
+UCLA,Missouri,4,5,2,19,0,Tony Parker Turnover.
+UCLA,Missouri,4,5,2,19,0,Earnest Ross Steal.
+UCLA,Missouri,4,5,2,35,0,Foul on Kyle Anderson.
+UCLA,Missouri,4,5,2,39,0,Jordan Clarkson missed Jumper.
+UCLA,Missouri,4,5,2,39,0,Jordan Adams Defensive Rebound.
+UCLA,Missouri,4,5,2,48,0,Jordan Adams missed Three Point Jumper.
+UCLA,Missouri,4,5,2,48,0,Johnathan Williams III Defensive Rebound.
+UCLA,Missouri,4,7,2,55,1,Earnest Ross made Layup. Assisted by Jordan Clarkson.
+UCLA,Missouri,7,7,3,8,1,Kyle Anderson made Three Point Jumper.
+UCLA,Missouri,7,7,3,28,0,Earnest Ross missed Three Point Jumper.
+UCLA,Missouri,7,7,3,28,0,Ryan Rosburg Offensive Rebound.
+UCLA,Missouri,7,7,3,36,0,Ryan Rosburg missed Layup.
+UCLA,Missouri,7,7,3,36,0,Johnathan Williams III Offensive Rebound.
+UCLA,Missouri,7,9,3,36,1,Johnathan Williams III made Two Point Tip Shot.
+UCLA,Missouri,7,9,3,56,0,Jordan Adams missed Three Point Jumper.
+UCLA,Missouri,7,9,3,56,0,Jabari Brown Defensive Rebound.
+UCLA,Missouri,7,9,4,2,0,Jabari Brown Turnover.
+UCLA,Missouri,7,9,4,2,0,Official TV Timeout
+UCLA,Missouri,7,9,4,32,0,Kyle Anderson missed Jumper.
+UCLA,Missouri,7,9,4,32,0,Johnathan Williams III Defensive Rebound.
+UCLA,Missouri,7,9,4,35,0,Foul on Tony Parker.
+UCLA,Missouri,7,9,4,54,0,Jabari Brown missed Three Point Jumper.
+UCLA,Missouri,7,9,4,54,0,Norman Powell Defensive Rebound.
+UCLA,Missouri,7,9,5,7,0,Foul on Tony Criswell.
+UCLA,Missouri,8,9,5,7,1,Norman Powell made Free Throw.
+UCLA,Missouri,9,9,5,7,1,Norman Powell made Free Throw.
+UCLA,Missouri,9,9,5,19,0,Foul on Jordan Adams.
+UCLA,Missouri,9,10,5,19,1,Jordan Clarkson made Free Throw.
+UCLA,Missouri,9,11,5,19,1,Jordan Clarkson made Free Throw.
+UCLA,Missouri,12,11,5,45,1,Norman Powell made Three Point Jumper. Assisted by Jordan Adams.
+UCLA,Missouri,12,11,6,13,0,Tony Criswell Turnover.
+UCLA,Missouri,14,11,6,29,1,Jordan Adams made Jumper. Assisted by Zach LaVine.
+UCLA,Missouri,14,13,6,40,1,Jordan Clarkson made Layup.
+UCLA,Missouri,14,13,6,56,0,Zach LaVine missed Three Point Jumper.
+UCLA,Missouri,14,13,6,56,0,Jabari Brown Defensive Rebound.
+UCLA,Missouri,14,13,7,3,0,Foul on Travis Wear.
+UCLA,Missouri,14,14,7,3,1,Jabari Brown made Free Throw.
+UCLA,Missouri,14,15,7,3,1,Jabari Brown made Free Throw.
+UCLA,Missouri,14,15,7,29,0,Kyle Anderson missed Jumper.
+UCLA,Missouri,14,15,7,29,0,Ryan Rosburg Defensive Rebound.
+UCLA,Missouri,14,15,7,59,0,Wes Clark missed Three Point Jumper.
+UCLA,Missouri,14,15,7,59,0,Jordan Adams Defensive Rebound.
+UCLA,Missouri,14,15,8,11,0,Foul on Ryan Rosburg.
+UCLA,Missouri,14,15,8,11,0,Official TV Timeout
+UCLA,Missouri,15,15,8,11,1,Jordan Adams made Free Throw.
+UCLA,Missouri,16,15,8,11,1,Jordan Adams made Free Throw.
+UCLA,Missouri,16,15,8,35,0,Jabari Brown missed Three Point Jumper.
+UCLA,Missouri,16,15,8,35,0,Tony Criswell Offensive Rebound.
+UCLA,Missouri,16,17,8,35,1,Tony Criswell made Two Point Tip Shot.
+UCLA,Missouri,19,17,9,6,1,Bryce Alford made Three Point Jumper. Assisted by Travis Wear.
+UCLA,Missouri,19,17,9,23,0,Jabari Brown missed Three Point Jumper.
+UCLA,Missouri,19,17,9,23,0,Wes Clark Offensive Rebound.
+UCLA,Missouri,19,17,9,36,0,Foul on Zach LaVine.
+UCLA,Missouri,19,17,9,37,0,Shane Rector Turnover.
+UCLA,Missouri,19,17,9,37,0,Bryce Alford Steal.
+UCLA,Missouri,19,17,9,43,0,Zach LaVine missed Jumper.
+UCLA,Missouri,19,17,9,43,0,Wes Clark Block.
+UCLA,Missouri,19,17,9,43,0,Kyle Anderson Offensive Rebound.
+UCLA,Missouri,21,17,9,51,1,Kyle Anderson made Layup.
+UCLA,Missouri,21,17,10,3,0,Shane Rector Turnover.
+UCLA,Missouri,21,17,10,3,0,Bryce Alford Steal.
+UCLA,Missouri,21,17,10,5,0,Foul on Wes Clark.
+UCLA,Missouri,22,17,10,5,1,Bryce Alford made Free Throw.
+UCLA,Missouri,23,17,10,5,1,Bryce Alford made Free Throw.
+UCLA,Missouri,23,17,10,12,0,Jabari Brown Turnover.
+UCLA,Missouri,23,17,10,12,0,Jordan Adams Steal.
+UCLA,Missouri,23,17,10,22,0,Jordan Adams missed Three Point Jumper.
+UCLA,Missouri,23,17,10,22,0,Kyle Anderson Offensive Rebound.
+UCLA,Missouri,23,17,10,36,0,Kyle Anderson missed Jumper.
+UCLA,Missouri,23,17,10,36,0,Jordan Adams Offensive Rebound.
+UCLA,Missouri,23,17,10,40,0,Zach LaVine Turnover.
+UCLA,Missouri,23,17,10,46,0,Jordan Clarkson missed Layup.
+UCLA,Missouri,23,17,10,46,0,Travis Wear Defensive Rebound.
+UCLA,Missouri,23,17,10,58,0,Travis Wear missed Three Point Jumper.
+UCLA,Missouri,23,17,10,58,0,Tony Criswell Defensive Rebound.
+UCLA,Missouri,23,17,11,11,0,Foul on Bryce Alford.
+UCLA,Missouri,23,17,11,26,0,Earnest Ross missed Three Point Jumper.
+UCLA,Missouri,23,17,11,26,0,Tony Criswell Offensive Rebound.
+UCLA,Missouri,23,17,11,33,0,Earnest Ross Turnover.
+UCLA,Missouri,23,17,11,33,0,Bryce Alford Steal.
+UCLA,Missouri,25,17,11,38,1,Zach LaVine made Dunk. Assisted by Bryce Alford.
+UCLA,Missouri,25,17,11,58,0,Jabari Brown Turnover.
+UCLA,Missouri,25,17,11,58,0,Bryce Alford Steal.
+UCLA,Missouri,25,17,12,4,0,Official TV Timeout
+UCLA,Missouri,28,17,12,12,1,Zach LaVine made Three Point Jumper. Assisted by Bryce Alford.
+UCLA,Missouri,28,17,12,40,0,Jabari Brown missed Three Point Jumper.
+UCLA,Missouri,28,17,12,40,0,Zach LaVine Defensive Rebound.
+UCLA,Missouri,28,17,13,2,0,Foul on Wes Clark.
+UCLA,Missouri,30,17,13,10,1,Jordan Adams made Jumper. Assisted by Zach LaVine.
+UCLA,Missouri,30,17,13,37,0,Foul on David Wear.
+UCLA,Missouri,30,18,13,37,1,Jabari Brown made Free Throw.
+UCLA,Missouri,30,19,13,37,1,Jabari Brown made Free Throw.
+UCLA,Missouri,30,19,13,52,0,Norman Powell missed Jumper.
+UCLA,Missouri,30,19,13,52,0,Jordan Clarkson Defensive Rebound.
+UCLA,Missouri,30,19,14,3,0,Jordan Clarkson Turnover.
+UCLA,Missouri,30,19,14,17,0,Zach LaVine missed Three Point Jumper.
+UCLA,Missouri,30,19,14,17,0,Tony Criswell Defensive Rebound.
+UCLA,Missouri,30,22,14,42,1,Jordan Clarkson made Three Point Jumper. Assisted by Jabari Brown.
+UCLA,Missouri,30,22,15,13,0,Kyle Anderson Turnover.
+UCLA,Missouri,30,25,15,25,1,Earnest Ross made Three Point Jumper. Assisted by Jordan Clarkson.
+UCLA,Missouri,30,25,15,32,0,UCLA  Timeout
+UCLA,Missouri,30,25,15,48,0,David Wear Turnover.
+UCLA,Missouri,30,25,15,48,0,Jordan Clarkson Steal.
+UCLA,Missouri,30,28,15,56,1,Jordan Clarkson made Three Point Jumper.
+UCLA,Missouri,32,28,16,3,1,Zach LaVine made Layup. Assisted by Kyle Anderson.
+UCLA,Missouri,32,28,16,24,0,Earnest Ross missed Three Point Jumper.
+UCLA,Missouri,32,28,16,24,0,David Wear Defensive Rebound.
+UCLA,Missouri,34,28,16,37,1,Kyle Anderson made Jumper.
+UCLA,Missouri,34,28,16,49,0,Tony Criswell missed Three Point Jumper.
+UCLA,Missouri,34,28,16,49,0,Kyle Anderson Defensive Rebound.
+UCLA,Missouri,36,28,17,0,1,Tony Parker made Layup. Assisted by Kyle Anderson.
+UCLA,Missouri,36,28,17,2,0,Missouri  Timeout
+UCLA,Missouri,36,28,17,15,0,Earnest Ross Turnover.
+UCLA,Missouri,36,28,17,15,0,Zach LaVine Steal.
+UCLA,Missouri,38,28,17,19,1,Zach LaVine made Dunk.
+UCLA,Missouri,38,28,17,19,0,Foul on Tony Parker.
+UCLA,Missouri,38,28,17,47,0,Official TV Timeout
+UCLA,Missouri,38,30,17,48,1,Jordan Clarkson made Free Throw.
+UCLA,Missouri,38,29,17,48,1,Jordan Clarkson made Free Throw.
+UCLA,Missouri,40,30,18,2,1,Norman Powell made Jumper.
+UCLA,Missouri,40,30,18,17,0,Foul on Travis Wear.
+UCLA,Missouri,40,31,18,17,1,Jordan Clarkson made Free Throw.
+UCLA,Missouri,40,32,18,17,1,Jordan Clarkson made Free Throw.
+UCLA,Missouri,42,32,18,26,1,Norman Powell made Jumper.
+UCLA,Missouri,42,32,18,42,0,Tony Criswell Turnover.
+UCLA,Missouri,42,32,18,42,0,David Wear Steal.
+UCLA,Missouri,42,32,18,48,0,Foul on Tony Criswell.
+UCLA,Missouri,43,32,18,48,1,Jordan Adams made Free Throw.
+UCLA,Missouri,43,32,18,48,0,Jordan Adams missed Free Throw.
+UCLA,Missouri,43,32,18,48,0,Keanau Post Defensive Rebound.
+UCLA,Missouri,43,32,19,11,0,Foul on Bryce Alford.
+UCLA,Missouri,43,32,19,11,0,Keanau Post missed Free Throw.
+UCLA,Missouri,43,32,19,11,0,Missouri Deadball Team Rebound.
+UCLA,Missouri,43,32,19,11,0,Keanau Post missed Free Throw.
+UCLA,Missouri,43,32,19,11,0,Johnathan Williams III Offensive Rebound.
+UCLA,Missouri,43,32,19,15,0,Johnathan Williams III missed Jumper.
+UCLA,Missouri,43,32,19,15,0,Jordan Adams Defensive Rebound.
+UCLA,Missouri,43,32,19,16,0,Foul on Keanau Post.
+UCLA,Missouri,43,32,19,16,0,Jordan Adams missed Free Throw.
+UCLA,Missouri,43,32,19,16,0,Johnathan Williams III Defensive Rebound.
+UCLA,Missouri,43,35,19,48,1,Jabari Brown made Three Point Jumper. Assisted by Jordan Clarkson.
+UCLA,Missouri,43,35,20,0,0,David Wear missed Jumper.
+UCLA,Missouri,43,35,20,0,0,Missouri Deadball Team Rebound.
+UCLA,Missouri,43,35,20,0,0,End of 1st half
+UCLA,Missouri,43,35,20,0,0,Jump Ball won by UCLA
+UCLA,Missouri,45,35,20,11,1,Jordan Adams made Layup.
+UCLA,Missouri,45,37,20,25,1,Jordan Clarkson made Layup.
+UCLA,Missouri,45,37,20,38,0,Jordan Adams missed Jumper.
+UCLA,Missouri,45,37,20,38,0,Johnathan Williams III Defensive Rebound.
+UCLA,Missouri,45,37,20,50,0,Jordan Clarkson missed Jumper.
+UCLA,Missouri,45,37,20,50,0,Johnathan Williams III Offensive Rebound.
+UCLA,Missouri,45,39,20,50,1,Johnathan Williams III made Two Point Tip Shot.
+UCLA,Missouri,45,39,21,6,0,Jordan Adams missed Jumper.
+UCLA,Missouri,45,39,21,6,0,Jordan Adams Offensive Rebound.
+UCLA,Missouri,47,39,21,12,1,Jordan Adams made Layup.
+UCLA,Missouri,47,39,21,31,0,Johnathan Williams III missed Jumper.
+UCLA,Missouri,47,39,21,31,0,Johnathan Williams III Offensive Rebound.
+UCLA,Missouri,47,39,21,34,0,Foul on David Wear.
+UCLA,Missouri,47,39,21,34,0,Johnathan Williams III missed Free Throw.
+UCLA,Missouri,47,39,21,34,0,Missouri Deadball Team Rebound.
+UCLA,Missouri,47,39,21,34,0,Johnathan Williams III missed Free Throw.
+UCLA,Missouri,47,39,21,34,0,Tony Parker Defensive Rebound.
+UCLA,Missouri,47,39,21,42,0,Kyle Anderson missed Jumper.
+UCLA,Missouri,47,39,21,42,0,Johnathan Williams III Defensive Rebound.
+UCLA,Missouri,47,39,21,53,0,Earnest Ross missed Three Point Jumper.
+UCLA,Missouri,47,39,21,53,0,Ryan Rosburg Offensive Rebound.
+UCLA,Missouri,47,39,21,54,0,Foul on David Wear.
+UCLA,Missouri,47,39,22,0,0,Johnathan Williams III Turnover.
+UCLA,Missouri,47,39,22,0,0,Norman Powell Steal.
+UCLA,Missouri,47,39,22,7,0,Foul on Ryan Rosburg.
+UCLA,Missouri,48,39,22,7,1,Jordan Adams made Free Throw.
+UCLA,Missouri,49,39,22,7,1,Jordan Adams made Free Throw.
+UCLA,Missouri,49,39,22,23,0,Tony Criswell missed Layup.
+UCLA,Missouri,49,39,22,23,0,Johnathan Williams III Offensive Rebound.
+UCLA,Missouri,49,41,22,23,1,Johnathan Williams III made Two Point Tip Shot.
+UCLA,Missouri,49,41,22,38,0,Jordan Adams Turnover.
+UCLA,Missouri,49,41,22,38,0,Earnest Ross Steal.
+UCLA,Missouri,49,43,22,43,1,Earnest Ross made Dunk.
+UCLA,Missouri,49,43,23,10,0,Norman Powell missed Layup.
+UCLA,Missouri,49,43,23,10,0,Johnathan Williams III Block.
+UCLA,Missouri,49,43,23,10,0,Jordan Clarkson Defensive Rebound.
+UCLA,Missouri,49,45,23,15,1,Jabari Brown made Dunk. Assisted by Jordan Clarkson.
+UCLA,Missouri,49,45,23,18,0,UCLA  Timeout
+UCLA,Missouri,49,45,23,40,0,Tony Parker missed Layup.
+UCLA,Missouri,49,45,23,40,0,Jordan Adams Offensive Rebound.
+UCLA,Missouri,49,45,23,46,0,Jordan Adams missed Jumper.
+UCLA,Missouri,49,45,23,46,0,Tony Parker Offensive Rebound.
+UCLA,Missouri,49,45,23,46,0,Foul on Earnest Ross.
+UCLA,Missouri,49,45,23,46,0,Tony Parker missed Free Throw.
+UCLA,Missouri,49,45,23,46,0,UCLA Deadball Team Rebound.
+UCLA,Missouri,50,45,23,46,1,Tony Parker made Free Throw.
+UCLA,Missouri,50,45,24,7,0,Foul on Norman Powell.
+UCLA,Missouri,50,45,24,9,0,Official TV Timeout
+UCLA,Missouri,50,45,24,18,0,Jordan Clarkson missed Jumper.
+UCLA,Missouri,50,45,24,18,0,Jordan Clarkson Offensive Rebound.
+UCLA,Missouri,50,45,24,24,0,Jordan Clarkson missed Jumper.
+UCLA,Missouri,50,45,24,24,0,Johnathan Williams III Offensive Rebound.
+UCLA,Missouri,50,48,24,28,1,Earnest Ross made Three Point Jumper. Assisted by Johnathan Williams III.
+UCLA,Missouri,50,48,24,48,0,Jordan Adams missed Layup.
+UCLA,Missouri,50,48,24,48,0,Johnathan Williams III Defensive Rebound.
+UCLA,Missouri,50,51,25,11,1,Earnest Ross made Three Point Jumper. Assisted by Jordan Clarkson.
+UCLA,Missouri,50,51,25,11,0,Foul on Jordan Clarkson.
+UCLA,Missouri,50,51,25,37,0,Foul on Tony Criswell.
+UCLA,Missouri,51,51,25,37,1,Kyle Anderson made Free Throw.
+UCLA,Missouri,52,51,25,37,1,Kyle Anderson made Free Throw.
+UCLA,Missouri,52,51,26,2,0,Jabari Brown missed Three Point Jumper.
+UCLA,Missouri,52,51,26,2,0,Travis Wear Defensive Rebound.
+UCLA,Missouri,52,51,26,16,0,Foul on Wes Clark.
+UCLA,Missouri,53,51,26,16,1,Kyle Anderson made Free Throw.
+UCLA,Missouri,54,51,26,16,1,Kyle Anderson made Free Throw.
+UCLA,Missouri,54,53,26,29,1,Jabari Brown made Layup. Assisted by Wes Clark.
+UCLA,Missouri,54,53,26,51,0,Foul on Earnest Ross.
+UCLA,Missouri,55,53,26,51,1,Jordan Adams made Free Throw.
+UCLA,Missouri,56,53,26,51,1,Jordan Adams made Free Throw.
+UCLA,Missouri,56,53,27,0,0,Foul on Travis Wear.
+UCLA,Missouri,56,54,27,0,1,Jabari Brown made Free Throw.
+UCLA,Missouri,56,55,27,0,1,Jabari Brown made Free Throw.
+UCLA,Missouri,56,55,27,16,0,Travis Wear missed Jumper.
+UCLA,Missouri,56,55,27,16,0,Jabari Brown Defensive Rebound.
+UCLA,Missouri,56,58,27,41,1,Earnest Ross made Three Point Jumper. Assisted by Jordan Clarkson.
+UCLA,Missouri,56,58,27,59,0,Jordan Adams Turnover.
+UCLA,Missouri,56,58,27,59,0,Johnathan Williams III Steal.
+UCLA,Missouri,56,58,28,8,0,Jabari Brown Turnover.
+UCLA,Missouri,56,58,28,8,0,Bryce Alford Steal.
+UCLA,Missouri,56,58,28,18,0,Foul on Ryan Rosburg.
+UCLA,Missouri,56,58,28,18,0,Official TV Timeout
+UCLA,Missouri,57,58,28,18,1,Travis Wear made Free Throw.
+UCLA,Missouri,58,58,28,18,1,Travis Wear made Free Throw.
+UCLA,Missouri,58,58,28,31,0,Jordan Clarkson missed Jumper.
+UCLA,Missouri,58,58,28,31,0,Bryce Alford Defensive Rebound.
+UCLA,Missouri,58,58,28,44,0,Travis Wear missed Jumper.
+UCLA,Missouri,58,58,28,44,0,Jabari Brown Defensive Rebound.
+UCLA,Missouri,58,58,28,48,0,Foul on Kyle Anderson.
+UCLA,Missouri,58,58,29,2,0,Jabari Brown missed Layup.
+UCLA,Missouri,58,58,29,2,0,Kyle Anderson Defensive Rebound.
+UCLA,Missouri,58,58,29,14,0,Travis Wear missed Layup.
+UCLA,Missouri,58,58,29,14,0,Wes Clark Defensive Rebound.
+UCLA,Missouri,58,60,29,19,1,Wes Clark made Layup.
+UCLA,Missouri,60,60,29,41,1,Jordan Adams made Jumper.
+UCLA,Missouri,60,60,29,58,0,Earnest Ross missed Three Point Jumper.
+UCLA,Missouri,60,60,29,58,0,Jordan Adams Defensive Rebound.
+UCLA,Missouri,60,60,29,58,0,Kyle Anderson missed Jumper.
+UCLA,Missouri,60,60,29,58,0,Johnathan Williams III Block.
+UCLA,Missouri,60,60,29,58,0,UCLA Offensive Rebound.
+UCLA,Missouri,60,60,30,12,0,Kyle Anderson Turnover.
+UCLA,Missouri,60,60,30,23,0,Wes Clark missed Jumper.
+UCLA,Missouri,60,60,30,23,0,Johnathan Williams III Offensive Rebound.
+UCLA,Missouri,60,60,30,30,0,Foul on Wanaah Bail.
+UCLA,Missouri,60,61,30,30,1,Johnathan Williams III made Free Throw.
+UCLA,Missouri,60,62,30,30,1,Johnathan Williams III made Free Throw.
+UCLA,Missouri,60,62,30,49,0,Wanaah Bail missed Layup.
+UCLA,Missouri,60,62,30,49,0,Johnathan Williams III Defensive Rebound.
+UCLA,Missouri,60,62,31,20,0,Jabari Brown missed Three Point Jumper.
+UCLA,Missouri,60,62,31,20,0,Wes Clark Offensive Rebound.
+UCLA,Missouri,60,64,31,30,1,Jordan Clarkson made Jumper.
+UCLA,Missouri,60,64,31,35,0,UCLA  Timeout
+UCLA,Missouri,60,64,31,47,0,Norman Powell missed Jumper.
+UCLA,Missouri,60,64,31,47,0,Wes Clark Defensive Rebound.
+UCLA,Missouri,60,64,32,8,0,Jordan Clarkson missed Jumper.
+UCLA,Missouri,60,64,32,8,0,Zach LaVine Block.
+UCLA,Missouri,60,64,32,8,0,Kyle Anderson Defensive Rebound.
+UCLA,Missouri,62,64,32,16,1,Zach LaVine made Layup.
+UCLA,Missouri,62,64,32,16,0,Foul on Johnathan Williams III.
+UCLA,Missouri,62,64,32,16,0,Official TV Timeout
+UCLA,Missouri,62,64,32,16,0,Zach LaVine missed Free Throw.
+UCLA,Missouri,62,64,32,16,0,Ryan Rosburg Defensive Rebound.
+UCLA,Missouri,62,64,32,44,0,Earnest Ross missed Jumper.
+UCLA,Missouri,62,64,32,47,0,Earnest Ross Offensive Rebound.
+UCLA,Missouri,62,67,33,12,1,Jabari Brown made Three Point Jumper. Assisted by Wes Clark.
+UCLA,Missouri,62,67,33,35,0,Foul on Wes Clark.
+UCLA,Missouri,62,67,33,35,0,Bryce Alford missed Free Throw.
+UCLA,Missouri,62,67,33,35,0,Ryan Rosburg Defensive Rebound.
+UCLA,Missouri,62,70,33,52,1,Earnest Ross made Three Point Jumper. Assisted by Jabari Brown.
+UCLA,Missouri,62,70,34,15,0,Kyle Anderson Turnover.
+UCLA,Missouri,62,70,34,33,0,Earnest Ross missed Three Point Jumper.
+UCLA,Missouri,62,70,34,33,0,Ryan Rosburg Offensive Rebound.
+UCLA,Missouri,62,70,34,39,0,Foul on Jordan Adams.
+UCLA,Missouri,62,70,34,39,0,Ryan Rosburg missed Free Throw.
+UCLA,Missouri,62,70,34,39,0,Missouri Deadball Team Rebound.
+UCLA,Missouri,62,70,34,39,0,Ryan Rosburg missed Free Throw.
+UCLA,Missouri,62,70,34,39,0,Zach LaVine Defensive Rebound.
+UCLA,Missouri,62,70,34,54,0,Zach LaVine missed Three Point Jumper.
+UCLA,Missouri,62,70,34,54,0,Missouri Defensive Rebound.
+UCLA,Missouri,62,70,35,12,0,Jordan Clarkson missed Three Point Jumper.
+UCLA,Missouri,62,70,35,12,0,Jordan Adams Defensive Rebound.
+UCLA,Missouri,62,70,35,22,0,Jordan Adams missed Three Point Jumper.
+UCLA,Missouri,62,70,35,22,0,Ryan Rosburg Defensive Rebound.
+UCLA,Missouri,62,70,35,35,0,Missouri  Timeout
+UCLA,Missouri,62,70,35,41,0,Jabari Brown Turnover.
+UCLA,Missouri,62,70,35,41,0,Zach LaVine Steal.
+UCLA,Missouri,62,70,35,50,0,Jordan Adams missed Layup.
+UCLA,Missouri,62,70,35,50,0,Missouri Defensive Rebound.
+UCLA,Missouri,62,70,36,5,0,Tony Criswell Turnover.
+UCLA,Missouri,62,70,36,5,0,Jordan Adams Steal.
+UCLA,Missouri,62,70,36,10,0,Jordan Adams missed Jumper.
+UCLA,Missouri,62,70,36,10,0,Tony Criswell Block.
+UCLA,Missouri,62,70,36,10,0,UCLA Offensive Rebound.
+UCLA,Missouri,62,70,36,13,0,Official TV Timeout
+UCLA,Missouri,64,70,36,41,1,David Wear made Layup. Assisted by Travis Wear.
+UCLA,Missouri,64,70,37,15,0,Jordan Clarkson missed Three Point Jumper.
+UCLA,Missouri,64,70,37,15,0,Missouri Offensive Rebound.
+UCLA,Missouri,64,70,37,51,0,Tony Criswell missed Jumper.
+UCLA,Missouri,64,70,37,51,0,Jordan Adams Defensive Rebound.
+UCLA,Missouri,64,70,37,59,0,David Wear missed Three Point Jumper.
+UCLA,Missouri,64,70,37,59,0,Johnathan Williams III Defensive Rebound.
+UCLA,Missouri,64,70,38,0,0,Foul on Travis Wear.
+UCLA,Missouri,64,71,38,0,1,Johnathan Williams III made Free Throw.
+UCLA,Missouri,64,72,38,0,1,Johnathan Williams III made Free Throw.
+UCLA,Missouri,64,72,38,6,0,Zach LaVine missed Three Point Jumper.
+UCLA,Missouri,64,72,38,6,0,Jabari Brown Defensive Rebound.
+UCLA,Missouri,64,72,38,15,0,Foul on Zach LaVine.
+UCLA,Missouri,64,73,38,15,1,Jabari Brown made Free Throw.
+UCLA,Missouri,64,74,38,15,1,Jabari Brown made Free Throw.
+UCLA,Missouri,66,74,38,23,1,Kyle Anderson made Jumper.
+UCLA,Missouri,66,74,38,27,0,UCLA  Timeout
+UCLA,Missouri,66,74,38,38,0,Jabari Brown Turnover.
+UCLA,Missouri,66,74,38,38,0,Jordan Adams Steal.
+UCLA,Missouri,66,74,38,43,0,Foul on Jabari Brown.
+UCLA,Missouri,67,74,38,43,1,Jordan Adams made Free Throw.
+UCLA,Missouri,67,74,38,43,0,UCLA  Turnover.
+UCLA,Missouri,67,74,38,44,0,Foul on Jordan Adams.
+UCLA,Missouri,67,75,38,44,1,Jabari Brown made Free Throw.
+UCLA,Missouri,67,76,38,44,1,Jabari Brown made Free Throw.
+UCLA,Missouri,67,76,38,44,0,Missouri  Timeout
+UCLA,Missouri,67,76,38,48,0,Jordan Adams missed Three Point Jumper.
+UCLA,Missouri,67,76,38,48,0,Earnest Ross Defensive Rebound.
+UCLA,Missouri,67,76,38,53,0,Foul on Kyle Anderson.
+UCLA,Missouri,67,76,38,53,0,Earnest Ross missed Free Throw.
+UCLA,Missouri,67,76,38,53,0,Missouri Deadball Team Rebound.
+UCLA,Missouri,67,77,38,53,1,Earnest Ross made Free Throw.
+UCLA,Missouri,67,77,39,0,0,Kyle Anderson missed Three Point Jumper.
+UCLA,Missouri,67,77,39,0,0,Jordan Clarkson Defensive Rebound.
+UCLA,Missouri,67,77,39,4,0,Jordan Clarkson Turnover.
+UCLA,Missouri,67,77,39,5,0,Zach LaVine missed Three Point Jumper.
+UCLA,Missouri,67,77,39,5,0,Tony Criswell Defensive Rebound.
+UCLA,Missouri,67,77,39,9,0,Foul on Kyle Anderson.
+UCLA,Missouri,67,78,39,9,1,Tony Criswell made Free Throw.
+UCLA,Missouri,67,79,39,9,1,Tony Criswell made Free Throw.
+UCLA,Missouri,69,79,39,18,1,Norman Powell made Layup.
+UCLA,Missouri,69,79,39,21,0,Foul on Zach LaVine.
+UCLA,Missouri,69,79,39,21,0,Wes Clark missed Free Throw.
+UCLA,Missouri,69,79,39,21,0,Missouri Deadball Team Rebound.
+UCLA,Missouri,69,80,39,21,1,Wes Clark made Free Throw.
+UCLA,Missouri,69,80,39,27,0,Bryce Alford missed Three Point Jumper.
+UCLA,Missouri,69,80,39,27,0,Zach LaVine Offensive Rebound.
+UCLA,Missouri,71,80,39,27,1,Zach LaVine made Two Point Tip Shot.
+UCLA,Missouri,71,80,40,0,0,End of Game

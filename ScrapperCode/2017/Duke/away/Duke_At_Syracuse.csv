@@ -1,0 +1,301 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Duke,Syracuse,0,0,0,0,0,Jump Ball won by Duke
+Duke,Syracuse,0,0,0,10,0,Luke Kennard missed Jumper.
+Duke,Syracuse,0,0,0,10,0,Jayson Tatum Offensive Rebound.
+Duke,Syracuse,0,0,0,28,0,Grayson Allen missed Three Point Jumper.
+Duke,Syracuse,0,0,0,28,0,Jayson Tatum Offensive Rebound.
+Duke,Syracuse,0,0,0,42,0,Luke Kennard missed Three Point Jumper.
+Duke,Syracuse,0,0,0,42,0,Tyler Lydon Defensive Rebound.
+Duke,Syracuse,0,0,0,45,0,Foul on Matt Jones.
+Duke,Syracuse,0,2,1,5,1,Taurean Thompson made Jumper.
+Duke,Syracuse,0,2,1,30,0,Grayson Allen missed Layup.
+Duke,Syracuse,0,2,1,30,0,Luke Kennard Offensive Rebound.
+Duke,Syracuse,2,2,1,30,1,Luke Kennard made Two Point Tip Shot.
+Duke,Syracuse,2,2,1,58,0,Tyus Battle missed Three Point Jumper.
+Duke,Syracuse,2,2,1,58,0,Matt Jones Block.
+Duke,Syracuse,2,2,1,58,0,Syracuse Offensive Rebound.
+Duke,Syracuse,2,2,2,5,0,Tyler Lydon missed Jumper.
+Duke,Syracuse,2,2,2,5,0,Luke Kennard Defensive Rebound.
+Duke,Syracuse,2,2,2,15,0,Luke Kennard missed Jumper.
+Duke,Syracuse,2,2,2,15,0,Tyler Lydon Defensive Rebound.
+Duke,Syracuse,2,4,2,23,1,Taurean Thompson made Jumper. Assisted by John Gillon.
+Duke,Syracuse,5,4,2,45,1,Jayson Tatum made Three Point Jumper. Assisted by Luke Kennard.
+Duke,Syracuse,5,4,3,5,0,Foul on Amile Jefferson.
+Duke,Syracuse,5,5,3,5,1,Tyus Battle made Free Throw.
+Duke,Syracuse,5,6,3,5,1,Tyus Battle made Free Throw.
+Duke,Syracuse,5,6,3,14,0,Matt Jones missed Three Point Jumper.
+Duke,Syracuse,5,6,3,14,0,Tyus Battle Defensive Rebound.
+Duke,Syracuse,5,6,3,27,0,Taurean Thompson Turnover.
+Duke,Syracuse,5,6,3,27,0,Matt Jones Steal.
+Duke,Syracuse,5,6,3,59,0,Foul on John Gillon.
+Duke,Syracuse,6,6,3,59,1,Grayson Allen made Free Throw.
+Duke,Syracuse,7,6,3,59,1,Grayson Allen made Free Throw.
+Duke,Syracuse,8,6,3,59,1,Grayson Allen made Free Throw.
+Duke,Syracuse,8,6,4,4,0,John Gillon missed Jumper.
+Duke,Syracuse,8,6,4,4,0,Amile Jefferson Defensive Rebound.
+Duke,Syracuse,8,6,4,12,0,Grayson Allen missed Three Point Jumper.
+Duke,Syracuse,8,6,4,12,0,Matt Jones Offensive Rebound.
+Duke,Syracuse,10,6,4,33,1,Jayson Tatum made Jumper.
+Duke,Syracuse,10,6,4,55,0,Tyler Lydon Turnover.
+Duke,Syracuse,10,6,4,55,0,Jayson Tatum Steal.
+Duke,Syracuse,12,6,5,0,1,Grayson Allen made Layup. Assisted by Jayson Tatum.
+Duke,Syracuse,12,6,5,28,0,Taurean Thompson missed Jumper.
+Duke,Syracuse,12,6,5,28,0,Luke Kennard Defensive Rebound.
+Duke,Syracuse,12,6,5,42,0,Jayson Tatum missed Jumper.
+Duke,Syracuse,12,6,5,42,0,Taurean Thompson Defensive Rebound.
+Duke,Syracuse,12,6,6,8,0,Andrew White III missed Layup.
+Duke,Syracuse,12,6,6,8,0,Amile Jefferson Block.
+Duke,Syracuse,12,6,6,8,0,Matt Jones Defensive Rebound.
+Duke,Syracuse,12,6,6,15,0,Grayson Allen Turnover.
+Duke,Syracuse,12,6,6,15,0,Tyus Battle Steal.
+Duke,Syracuse,12,8,6,20,1,Tyus Battle made Layup.
+Duke,Syracuse,12,8,6,40,0,Amile Jefferson missed Jumper.
+Duke,Syracuse,12,8,6,40,0,Tyler Lydon Defensive Rebound.
+Duke,Syracuse,12,10,7,0,1,Taurean Thompson made Layup. Assisted by John Gillon.
+Duke,Syracuse,12,10,7,25,0,Grayson Allen missed Jumper.
+Duke,Syracuse,12,10,7,25,0,Taurean Thompson Defensive Rebound.
+Duke,Syracuse,12,13,7,31,1,Andrew White III made Three Point Jumper. Assisted by John Gillon.
+Duke,Syracuse,15,13,7,49,1,Jayson Tatum made Three Point Jumper.
+Duke,Syracuse,15,13,8,20,0,Taurean Thompson Turnover.
+Duke,Syracuse,15,13,8,20,0,Official TV Timeout
+Duke,Syracuse,17,13,8,41,1,Harry Giles made Layup. Assisted by Jayson Tatum.
+Duke,Syracuse,17,13,9,11,0,Andrew White III missed Three Point Jumper.
+Duke,Syracuse,17,13,9,11,0,Harry Giles Defensive Rebound.
+Duke,Syracuse,17,13,9,28,0,Official TV Timeout
+Duke,Syracuse,17,13,9,40,0,Luke Kennard missed Three Point Jumper.
+Duke,Syracuse,17,13,9,40,0,Luke Kennard Offensive Rebound.
+Duke,Syracuse,18,13,9,43,0,Luke Kennard missed Free Throw.
+Duke,Syracuse,17,13,9,43,0,Foul on Frank Howard.
+Duke,Syracuse,18,13,9,43,1,Luke Kennard made Free Throw.
+Duke,Syracuse,18,13,9,43,0,Tyler Lydon Defensive Rebound.
+Duke,Syracuse,18,13,10,2,0,Foul on Frank Jackson.
+Duke,Syracuse,18,14,10,2,1,John Gillon made Free Throw.
+Duke,Syracuse,18,15,10,2,1,John Gillon made Free Throw.
+Duke,Syracuse,18,15,10,10,0,Jayson Tatum Turnover.
+Duke,Syracuse,18,15,10,10,0,Andrew White III Steal.
+Duke,Syracuse,18,15,10,35,0,Tyus Battle missed Layup.
+Duke,Syracuse,18,15,10,35,0,Harry Giles Defensive Rebound.
+Duke,Syracuse,18,15,10,42,0,Frank Jackson missed Three Point Jumper.
+Duke,Syracuse,18,15,10,42,0,Andrew White III Defensive Rebound.
+Duke,Syracuse,18,15,11,11,0,Foul on Harry Giles.
+Duke,Syracuse,18,16,11,11,1,Tyler Lydon made Free Throw.
+Duke,Syracuse,18,17,11,11,1,Tyler Lydon made Free Throw.
+Duke,Syracuse,21,17,11,43,1,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.
+Duke,Syracuse,21,17,12,6,0,Tyler Roberson missed Jumper.
+Duke,Syracuse,21,17,12,6,0,Jayson Tatum Defensive Rebound.
+Duke,Syracuse,21,17,12,23,0,Grayson Allen missed Three Point Jumper.
+Duke,Syracuse,21,17,12,23,0,Tyler Lydon Defensive Rebound.
+Duke,Syracuse,21,17,12,42,0,Andrew White III missed Jumper.
+Duke,Syracuse,21,17,12,42,0,Jayson Tatum Defensive Rebound.
+Duke,Syracuse,23,17,12,50,1,Jayson Tatum made Layup.
+Duke,Syracuse,23,17,13,7,0,Tyler Roberson Turnover.
+Duke,Syracuse,23,17,13,7,0,Frank Jackson Steal.
+Duke,Syracuse,23,17,13,13,0,Frank Jackson Turnover.
+Duke,Syracuse,23,17,13,13,0,Official TV Timeout
+Duke,Syracuse,23,17,13,32,0,Taurean Thompson missed Jumper.
+Duke,Syracuse,23,17,13,32,0,Jayson Tatum Defensive Rebound.
+Duke,Syracuse,23,17,14,2,0,Foul on Tyler Lydon.
+Duke,Syracuse,23,17,14,15,0,Jayson Tatum missed Layup.
+Duke,Syracuse,23,17,14,15,0,Tyler Roberson Block.
+Duke,Syracuse,23,17,14,15,0,Tyus Battle Defensive Rebound.
+Duke,Syracuse,23,17,14,33,0,Tyler Lydon missed Layup.
+Duke,Syracuse,23,17,14,33,0,Amile Jefferson Block.
+Duke,Syracuse,23,17,14,33,0,Matt Jones Defensive Rebound.
+Duke,Syracuse,26,17,14,40,1,Luke Kennard made Three Point Jumper. Assisted by Jayson Tatum.
+Duke,Syracuse,26,17,14,42,0,Syracuse  Timeout
+Duke,Syracuse,26,17,15,6,0,Frank Howard missed Three Point Jumper.
+Duke,Syracuse,26,17,15,6,0,Tyler Roberson Offensive Rebound.
+Duke,Syracuse,26,20,15,15,1,John Gillon made Three Point Jumper.
+Duke,Syracuse,28,20,15,37,1,Jayson Tatum made Jumper.
+Duke,Syracuse,28,20,15,55,0,John Gillon missed Layup.
+Duke,Syracuse,28,20,15,55,0,Jayson Tatum Defensive Rebound.
+Duke,Syracuse,28,20,16,4,0,Matt Jones missed Three Point Jumper.
+Duke,Syracuse,28,20,16,4,0,Tyler Roberson Defensive Rebound.
+Duke,Syracuse,28,20,16,21,0,Foul on Grayson Allen.
+Duke,Syracuse,28,20,16,21,0,Official TV Timeout
+Duke,Syracuse,28,20,16,24,0,Andrew White III Turnover.
+Duke,Syracuse,28,20,16,24,0,Grayson Allen Steal.
+Duke,Syracuse,28,20,16,30,0,Grayson Allen Turnover.
+Duke,Syracuse,28,20,16,53,0,Tyler Roberson Turnover.
+Duke,Syracuse,28,20,17,3,0,Foul on Jayson Tatum.
+Duke,Syracuse,28,20,17,3,0,Jayson Tatum Turnover.
+Duke,Syracuse,28,22,17,27,1,Tyler Roberson made Layup. Assisted by Frank Howard.
+Duke,Syracuse,31,22,17,40,1,Luke Kennard made Three Point Jumper. Assisted by Frank Jackson.
+Duke,Syracuse,31,22,17,57,0,John Gillon missed Three Point Jumper.
+Duke,Syracuse,31,22,17,57,0,Jayson Tatum Defensive Rebound.
+Duke,Syracuse,31,22,18,3,0,Jayson Tatum missed Layup.
+Duke,Syracuse,31,22,18,3,0,Syracuse Defensive Rebound.
+Duke,Syracuse,31,22,18,16,0,Frank Howard missed Layup.
+Duke,Syracuse,31,22,18,16,0,Luke Kennard Block.
+Duke,Syracuse,31,22,18,16,0,Luke Kennard Defensive Rebound.
+Duke,Syracuse,31,22,18,25,0,Jayson Tatum missed Three Point Jumper.
+Duke,Syracuse,31,22,18,25,0,Andrew White III Defensive Rebound.
+Duke,Syracuse,31,22,18,36,0,Foul on Luke Kennard.
+Duke,Syracuse,31,23,18,36,1,Frank Howard made Free Throw.
+Duke,Syracuse,31,23,18,36,0,Frank Howard missed Free Throw.
+Duke,Syracuse,31,23,18,36,0,Jayson Tatum Defensive Rebound.
+Duke,Syracuse,31,23,19,1,0,Jayson Tatum missed Jumper.
+Duke,Syracuse,31,23,19,1,0,Jayson Tatum Offensive Rebound.
+Duke,Syracuse,33,23,19,1,1,Jayson Tatum made Two Point Tip Shot.
+Duke,Syracuse,33,25,19,29,1,John Gillon made Layup.
+Duke,Syracuse,33,25,19,35,0,Duke  Timeout
+Duke,Syracuse,33,25,19,54,0,Foul on Frank Howard.
+Duke,Syracuse,33,25,19,56,0,Foul on John Gillon.
+Duke,Syracuse,33,25,19,57,0,Grayson Allen missed Three Point Jumper.
+Duke,Syracuse,33,25,19,57,0,Jayson Tatum Offensive Rebound.
+Duke,Syracuse,33,25,19,59,0,Jayson Tatum missed Jumper.
+Duke,Syracuse,33,25,19,59,0,Tyler Roberson Defensive Rebound.
+Duke,Syracuse,33,25,20,0,0,End of 1st half
+Duke,Syracuse,33,25,20,0,0,Jump Ball won by Syracuse
+Duke,Syracuse,33,25,20,8,0,Taurean Thompson Turnover.
+Duke,Syracuse,33,25,20,8,0,Amile Jefferson Steal.
+Duke,Syracuse,33,25,20,26,0,Luke Kennard missed Jumper.
+Duke,Syracuse,33,25,20,26,0,Duke Offensive Rebound.
+Duke,Syracuse,33,25,20,31,0,Foul on Taurean Thompson.
+Duke,Syracuse,33,25,20,31,0,Amile Jefferson missed Free Throw.
+Duke,Syracuse,33,25,20,31,0,Duke Deadball Team Rebound.
+Duke,Syracuse,34,25,20,31,1,Amile Jefferson made Free Throw.
+Duke,Syracuse,34,28,20,46,1,Tyler Lydon made Three Point Jumper. Assisted by Tyus Battle.
+Duke,Syracuse,37,28,21,6,1,Luke Kennard made Three Point Jumper. Assisted by Jayson Tatum.
+Duke,Syracuse,37,30,21,17,1,John Gillon made Layup.
+Duke,Syracuse,37,30,21,17,0,Foul on Grayson Allen.
+Duke,Syracuse,37,31,21,17,1,John Gillon made Free Throw.
+Duke,Syracuse,37,31,21,40,0,Foul on Tyus Battle.
+Duke,Syracuse,37,31,21,47,0,Jayson Tatum missed Three Point Jumper.
+Duke,Syracuse,37,31,21,47,0,Matt Jones Offensive Rebound.
+Duke,Syracuse,37,31,21,47,0,Matt Jones missed Two Point Tip Shot.
+Duke,Syracuse,37,31,21,47,0,Taurean Thompson Defensive Rebound.
+Duke,Syracuse,37,31,22,14,0,Foul on Frank Jackson.
+Duke,Syracuse,37,31,22,14,0,Duke  Timeout
+Duke,Syracuse,37,32,22,14,1,Taurean Thompson made Free Throw.
+Duke,Syracuse,37,33,22,14,1,Taurean Thompson made Free Throw.
+Duke,Syracuse,37,33,22,30,0,Luke Kennard missed Three Point Jumper.
+Duke,Syracuse,37,33,22,30,0,Frank Jackson Offensive Rebound.
+Duke,Syracuse,37,33,22,39,0,Foul on Tyus Battle.
+Duke,Syracuse,37,33,22,40,0,Jayson Tatum Turnover.
+Duke,Syracuse,37,33,22,40,0,John Gillon Steal.
+Duke,Syracuse,37,35,22,46,1,John Gillon made Layup.
+Duke,Syracuse,37,35,22,57,0,Foul on Taurean Thompson.
+Duke,Syracuse,40,35,23,0,1,Luke Kennard made Three Point Jumper. Assisted by Frank Jackson.
+Duke,Syracuse,40,37,23,28,1,Taurean Thompson made Dunk. Assisted by Tyler Lydon.
+Duke,Syracuse,40,37,23,44,0,Foul on Tyler Lydon.
+Duke,Syracuse,41,37,23,44,1,Amile Jefferson made Free Throw.
+Duke,Syracuse,42,37,23,44,1,Amile Jefferson made Free Throw.
+Duke,Syracuse,42,37,23,55,0,Tyler Lydon missed Two Point Tip Shot.
+Duke,Syracuse,42,37,23,55,0,Jayson Tatum Defensive Rebound.
+Duke,Syracuse,42,37,24,22,0,Luke Kennard missed Three Point Jumper.
+Duke,Syracuse,42,37,24,22,0,Syracuse Defensive Rebound.
+Duke,Syracuse,42,37,24,24,0,Official TV Timeout
+Duke,Syracuse,42,37,24,35,0,Foul on Grayson Allen.
+Duke,Syracuse,42,40,24,46,1,Tyus Battle made Three Point Jumper. Assisted by John Gillon.
+Duke,Syracuse,42,40,25,6,0,Jayson Tatum missed Three Point Jumper.
+Duke,Syracuse,42,40,25,6,0,Harry Giles Offensive Rebound.
+Duke,Syracuse,44,40,25,6,1,Harry Giles made Two Point Tip Shot.
+Duke,Syracuse,44,42,25,21,1,Tyus Battle made Jumper.
+Duke,Syracuse,46,42,25,43,1,Luke Kennard made Layup.
+Duke,Syracuse,46,42,25,43,0,Foul on Tyler Lydon.
+Duke,Syracuse,47,42,25,43,1,Luke Kennard made Free Throw.
+Duke,Syracuse,47,42,25,46,0,Foul on Luke Kennard.
+Duke,Syracuse,47,42,25,46,0,Tyus Battle missed Free Throw.
+Duke,Syracuse,47,42,25,46,0,Syracuse Deadball Team Rebound.
+Duke,Syracuse,47,43,25,46,1,Tyus Battle made Free Throw.
+Duke,Syracuse,47,43,26,6,0,Jayson Tatum Turnover.
+Duke,Syracuse,47,43,26,21,0,Foul on Matt Jones.
+Duke,Syracuse,47,45,26,26,1,John Gillon made Layup.
+Duke,Syracuse,47,45,26,43,0,Luke Kennard missed Jumper.
+Duke,Syracuse,47,45,26,43,0,Tyus Battle Defensive Rebound.
+Duke,Syracuse,47,45,26,52,0,Foul on Grayson Allen.
+Duke,Syracuse,47,46,26,52,1,Tyus Battle made Free Throw.
+Duke,Syracuse,47,47,26,52,1,Tyus Battle made Free Throw.
+Duke,Syracuse,47,47,27,12,0,Matt Jones Turnover.
+Duke,Syracuse,47,47,27,18,0,Foul on Frank Jackson.
+Duke,Syracuse,47,47,27,18,0,Duke  Timeout
+Duke,Syracuse,47,48,27,18,1,John Gillon made Free Throw.
+Duke,Syracuse,47,49,27,18,1,John Gillon made Free Throw.
+Duke,Syracuse,49,49,27,34,1,Harry Giles made Dunk. Assisted by Matt Jones.
+Duke,Syracuse,49,49,27,56,0,Taurean Thompson missed Jumper.
+Duke,Syracuse,49,49,27,56,0,Jayson Tatum Defensive Rebound.
+Duke,Syracuse,49,49,28,8,0,Frank Jackson missed Three Point Jumper.
+Duke,Syracuse,49,49,28,8,0,Matt Jones Offensive Rebound.
+Duke,Syracuse,52,49,28,25,1,Jayson Tatum made Three Point Jumper. Assisted by Luke Kennard.
+Duke,Syracuse,52,51,28,45,1,John Gillon made Layup.
+Duke,Syracuse,52,51,29,1,0,Matt Jones missed Three Point Jumper.
+Duke,Syracuse,52,51,29,8,0,Tyler Lydon Defensive Rebound.
+Duke,Syracuse,52,51,29,25,0,Andrew White III Turnover.
+Duke,Syracuse,52,51,29,25,0,Matt Jones Steal.
+Duke,Syracuse,54,51,29,30,1,Jayson Tatum made Dunk. Assisted by Matt Jones.
+Duke,Syracuse,54,54,29,44,1,John Gillon made Three Point Jumper.
+Duke,Syracuse,54,54,30,6,0,Foul on Tyus Battle.
+Duke,Syracuse,54,54,30,6,0,Official TV Timeout
+Duke,Syracuse,55,54,30,6,1,Frank Jackson made Free Throw.
+Duke,Syracuse,56,54,30,6,1,Frank Jackson made Free Throw.
+Duke,Syracuse,56,54,30,21,0,Foul on Jayson Tatum.
+Duke,Syracuse,56,55,30,21,1,Tyler Lydon made Free Throw.
+Duke,Syracuse,56,56,30,21,1,Tyler Lydon made Free Throw.
+Duke,Syracuse,56,56,30,37,0,Frank Jackson missed Three Point Jumper.
+Duke,Syracuse,56,56,30,37,0,Harry Giles Offensive Rebound.
+Duke,Syracuse,56,56,30,45,0,Luke Kennard missed Layup.
+Duke,Syracuse,56,56,30,45,0,Luke Kennard Offensive Rebound.
+Duke,Syracuse,56,56,31,8,0,Frank Jackson missed Three Point Jumper.
+Duke,Syracuse,56,56,31,8,0,Andrew White III Defensive Rebound.
+Duke,Syracuse,56,56,31,11,0,Foul on Luke Kennard.
+Duke,Syracuse,56,57,31,11,1,Andrew White III made Free Throw.
+Duke,Syracuse,56,58,31,11,1,Andrew White III made Free Throw.
+Duke,Syracuse,59,58,31,26,1,Luke Kennard made Three Point Jumper. Assisted by Jayson Tatum.
+Duke,Syracuse,59,58,31,54,0,Foul on Frank Jackson.
+Duke,Syracuse,59,59,31,54,1,Andrew White III made Free Throw.
+Duke,Syracuse,59,60,31,54,1,Andrew White III made Free Throw.
+Duke,Syracuse,59,60,32,18,0,Matt Jones missed Three Point Jumper.
+Duke,Syracuse,59,60,32,18,0,Taurean Thompson Defensive Rebound.
+Duke,Syracuse,59,60,32,22,0,Foul on Luke Kennard.
+Duke,Syracuse,59,60,32,22,0,Official TV Timeout
+Duke,Syracuse,59,61,32,22,1,Taurean Thompson made Free Throw.
+Duke,Syracuse,59,61,32,22,0,Taurean Thompson missed Free Throw.
+Duke,Syracuse,59,61,32,22,0,Jayson Tatum Defensive Rebound.
+Duke,Syracuse,61,61,32,37,1,Amile Jefferson made Layup. Assisted by Luke Kennard.
+Duke,Syracuse,61,61,32,51,0,John Gillon missed Jumper.
+Duke,Syracuse,61,61,32,51,0,Amile Jefferson Defensive Rebound.
+Duke,Syracuse,63,61,33,7,1,Amile Jefferson made Layup. Assisted by Luke Kennard.
+Duke,Syracuse,63,61,33,7,0,Foul on Taurean Thompson.
+Duke,Syracuse,63,61,33,7,0,Syracuse  Timeout
+Duke,Syracuse,64,61,33,7,1,Amile Jefferson made Free Throw.
+Duke,Syracuse,64,61,33,21,0,Tyus Battle missed Jumper.
+Duke,Syracuse,64,61,33,21,0,John Gillon Offensive Rebound.
+Duke,Syracuse,64,61,33,46,0,Tyus Battle missed Three Point Jumper.
+Duke,Syracuse,64,61,33,46,0,Amile Jefferson Defensive Rebound.
+Duke,Syracuse,64,61,33,53,0,Jayson Tatum missed Three Point Jumper.
+Duke,Syracuse,64,61,33,53,0,John Gillon Defensive Rebound.
+Duke,Syracuse,64,63,34,5,1,Tyler Roberson made Layup. Assisted by John Gillon.
+Duke,Syracuse,66,63,34,24,1,Amile Jefferson made Layup. Assisted by Jayson Tatum.
+Duke,Syracuse,66,65,35,2,1,Tyus Battle made Jumper. Assisted by Tyler Roberson.
+Duke,Syracuse,66,65,35,26,0,Grayson Allen missed Three Point Jumper.
+Duke,Syracuse,66,65,35,26,0,Luke Kennard Offensive Rebound.
+Duke,Syracuse,66,65,35,33,0,Foul on Tyler Roberson.
+Duke,Syracuse,67,65,35,33,1,Amile Jefferson made Free Throw.
+Duke,Syracuse,68,65,35,33,1,Amile Jefferson made Free Throw.
+Duke,Syracuse,68,65,35,50,0,Tyus Battle missed Jumper.
+Duke,Syracuse,68,65,35,50,0,Tyler Lydon Offensive Rebound.
+Duke,Syracuse,68,67,35,50,1,Tyler Lydon made Two Point Tip Shot.
+Duke,Syracuse,68,67,36,7,0,Grayson Allen missed Three Point Jumper.
+Duke,Syracuse,68,67,36,7,0,Tyus Battle Defensive Rebound.
+Duke,Syracuse,68,69,36,34,1,Tyus Battle made Jumper.
+Duke,Syracuse,70,69,36,53,1,Luke Kennard made Layup.
+Duke,Syracuse,70,71,37,19,1,Tyler Lydon made Layup. Assisted by John Gillon.
+Duke,Syracuse,73,71,37,36,1,Grayson Allen made Three Point Jumper. Assisted by Luke Kennard.
+Duke,Syracuse,73,71,37,40,0,Duke  Timeout
+Duke,Syracuse,73,73,38,0,1,Tyus Battle made Jumper.
+Duke,Syracuse,73,73,38,24,0,Luke Kennard missed Jumper.
+Duke,Syracuse,73,73,38,24,0,Amile Jefferson Offensive Rebound.
+Duke,Syracuse,73,73,38,26,0,Foul on Tyler Roberson.
+Duke,Syracuse,74,73,38,26,1,Amile Jefferson made Free Throw.
+Duke,Syracuse,75,73,38,26,1,Amile Jefferson made Free Throw.
+Duke,Syracuse,75,73,38,31,0,Syracuse  Timeout
+Duke,Syracuse,75,73,38,50,0,John Gillon missed Layup.
+Duke,Syracuse,75,73,38,50,0,Grayson Allen Defensive Rebound.
+Duke,Syracuse,75,73,39,15,0,Grayson Allen missed Three Point Jumper.
+Duke,Syracuse,75,73,39,15,0,Tyler Lydon Defensive Rebound.
+Duke,Syracuse,75,75,39,22,1,John Gillon made Jumper.
+Duke,Syracuse,75,75,39,49,0,Luke Kennard missed Jumper.
+Duke,Syracuse,75,75,39,49,0,Tyler Lydon Defensive Rebound.
+Duke,Syracuse,75,78,39,59,1,John Gillon made Three Point Jumper.
+Duke,Syracuse,75,78,40,0,0,End of Game

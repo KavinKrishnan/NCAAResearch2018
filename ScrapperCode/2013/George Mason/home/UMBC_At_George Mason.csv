@@ -1,0 +1,334 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UMBC,George Mason,0,2,0,21,1,Sherrod Wright made Jumper.
+UMBC,George Mason,2,2,0,47,1,Brett Roseboro made Jumper.  Assisted by Ryan Cook.
+UMBC,George Mason,2,5,1,11,1,Sherrod Wright made Three Point Jumper.  Assisted by Anali Okoloji.
+UMBC,George Mason,2,5,1,29,0,Brian Neller Turnover.
+UMBC,George Mason,2,5,1,31,0,Corey Edwards Steal.
+UMBC,George Mason,2,5,1,34,0,Foul on Aaron Morgan
+UMBC,George Mason,2,5,1,34,0,Anali Okoloji missed Free Throw.
+UMBC,George Mason,2,5,1,34,0,null
+UMBC,George Mason,2,6,1,34,1,Anali Okoloji made Free Throw.
+UMBC,George Mason,2,6,1,36,0,Foul on Johnny Williams
+UMBC,George Mason,2,6,1,50,0,Ryan Cook missed Jumper.
+UMBC,George Mason,2,6,1,50,0,Corey Edwards Defensive Rebound.
+UMBC,George Mason,2,6,1,56,0,Anali Okoloji missed Layup.
+UMBC,George Mason,2,6,1,56,0,Erik Copes Offensive Rebound.
+UMBC,George Mason,2,8,1,59,1,Erik Copes made Jumper.
+UMBC,George Mason,2,8,2,15,0,Ryan Cook Turnover.
+UMBC,George Mason,2,8,2,37,0,Johnny Williams missed Jumper.
+UMBC,George Mason,2,8,2,37,0,Ryan Cook Defensive Rebound.
+UMBC,George Mason,2,8,2,53,0,Chase Plummer Turnover.
+UMBC,George Mason,2,8,3,10,0,Foul on Chase Plummer
+UMBC,George Mason,2,8,3,15,0,Sherrod Wright missed Three Point Jumper.
+UMBC,George Mason,2,8,3,15,0,Brett Roseboro Defensive Rebound.
+UMBC,George Mason,2,8,3,18,0,Foul on Sherrod Wright
+UMBC,George Mason,2,8,3,34,0,Foul on Chase Plummer
+UMBC,George Mason,2,8,3,34,0,Chase Plummer Turnover.
+UMBC,George Mason,2,8,3,44,0,Anali Okoloji missed Three Point Jumper.
+UMBC,George Mason,2,8,3,44,0,Ryan Cook Defensive Rebound.
+UMBC,George Mason,2,8,3,51,0,Brian Neller missed Three Point Jumper.
+UMBC,George Mason,2,8,3,51,0,Brett Roseboro Offensive Rebound.
+UMBC,George Mason,4,8,3,56,1,Brett Roseboro made Jumper.
+UMBC,George Mason,4,8,4,7,0,Sherrod Wright Turnover.
+UMBC,George Mason,4,8,4,9,0,Ryan Cook Steal.
+UMBC,George Mason,4,8,4,12,0,Ryan Cook missed Layup.
+UMBC,George Mason,4,8,4,12,0,Corey Edwards Defensive Rebound.
+UMBC,George Mason,4,8,4,35,0,Foul on Ryan Cook
+UMBC,George Mason,4,8,4,35,0,Official TV Timeout.
+UMBC,George Mason,4,9,4,35,1,Anali Okoloji made Free Throw.
+UMBC,George Mason,4,9,4,35,0,Anali Okoloji missed Free Throw.
+UMBC,George Mason,4,9,4,35,0,Brian Neller Defensive Rebound.
+UMBC,George Mason,4,9,4,53,0,Malik Garner Turnover.
+UMBC,George Mason,4,9,4,54,0,Sherrod Wright Steal.
+UMBC,George Mason,4,11,4,56,1,Sherrod Wright made Dunk.
+UMBC,George Mason,4,11,5,2,0,UMBC Full Timeout.
+UMBC,George Mason,4,11,5,29,0,Aaron Morgan missed Jumper.
+UMBC,George Mason,4,11,5,29,0,George Mason Defensive Rebound.
+UMBC,George Mason,4,14,5,47,1,Sherrod Wright made Three Point Jumper.  Assisted by Anali Okoloji.
+UMBC,George Mason,4,14,5,58,0,Brett Roseboro Turnover.
+UMBC,George Mason,4,14,5,59,0,Anali Okoloji Steal.
+UMBC,George Mason,4,16,6,1,1,Anali Okoloji made Layup.
+UMBC,George Mason,4,16,6,6,0,Foul on Corey Edwards
+UMBC,George Mason,4,16,6,19,0,Brett Roseboro missed Three Point Jumper.
+UMBC,George Mason,4,16,6,19,0,Marko Gujanicic Defensive Rebound.
+UMBC,George Mason,4,16,6,22,0,Marko Gujanicic Turnover.
+UMBC,George Mason,4,16,6,24,0,Ryan Cook Steal.
+UMBC,George Mason,4,16,6,25,0,Foul on Ryan Cook
+UMBC,George Mason,4,16,6,25,0,Ryan Cook Turnover.
+UMBC,George Mason,4,16,6,36,0,Marko Gujanicic missed Jumper.
+UMBC,George Mason,4,16,6,36,0,Brett Roseboro Block.
+UMBC,George Mason,4,16,6,38,0,Aaron Morgan Defensive Rebound.
+UMBC,George Mason,4,16,6,42,0,Aaron Morgan missed Jumper.
+UMBC,George Mason,4,16,6,42,0,Marko Gujanicic Defensive Rebound.
+UMBC,George Mason,4,16,6,44,0,Marko Gujanicic Turnover.
+UMBC,George Mason,4,16,7,0,0,Aaron Morgan Turnover.
+UMBC,George Mason,4,16,7,1,0,Jonathan Arledge Steal.
+UMBC,George Mason,4,19,7,5,1,Sherrod Wright made Three Point Jumper.
+UMBC,George Mason,4,19,7,9,0,UMBC Full Timeout.
+UMBC,George Mason,4,19,7,25,0,Malik Garner missed Jumper.
+UMBC,George Mason,4,19,7,25,0,Patrick Holloway Defensive Rebound.
+UMBC,George Mason,4,21,7,49,1,Patrick Holloway made Jumper.
+UMBC,George Mason,4,21,8,8,0,Brian Neller missed Three Point Jumper.
+UMBC,George Mason,4,21,8,8,0,Marko Gujanicic Defensive Rebound.
+UMBC,George Mason,4,21,8,19,0,Patrick Holloway missed Jumper.
+UMBC,George Mason,4,21,8,19,0,Aaron Morgan Defensive Rebound.
+UMBC,George Mason,4,21,8,34,0,Brett Roseboro Turnover.
+UMBC,George Mason,4,21,8,34,0,Official TV Timeout.
+UMBC,George Mason,4,21,8,47,0,Patrick Holloway missed Jumper.
+UMBC,George Mason,4,21,8,47,0,Adrian Satchell Defensive Rebound.
+UMBC,George Mason,4,21,9,20,0,Jarrel Lane missed Three Point Jumper.
+UMBC,George Mason,4,21,9,20,0,Marko Gujanicic Defensive Rebound.
+UMBC,George Mason,4,21,9,23,0,Marko Gujanicic Turnover.
+UMBC,George Mason,4,21,9,28,0,Brett Roseboro missed Jumper.
+UMBC,George Mason,4,21,9,30,0,UMBC Offensive Rebound.
+UMBC,George Mason,7,21,9,51,1,Jamar Wertz made Three Point Jumper.  Assisted by Brett Roseboro.
+UMBC,George Mason,7,23,10,17,1,Marko Gujanicic made Jumper.
+UMBC,George Mason,7,23,10,24,0,Jarrel Lane Turnover.
+UMBC,George Mason,7,23,10,25,0,Jonathan Arledge Steal.
+UMBC,George Mason,7,23,10,33,0,Vaughn Gray missed Three Point Jumper.
+UMBC,George Mason,7,23,10,37,0,Patrick Holloway Offensive Rebound.
+UMBC,George Mason,7,23,10,37,0,Foul on Malik Garner
+UMBC,George Mason,7,23,10,51,0,Patrick Holloway missed Three Point Jumper.
+UMBC,George Mason,7,23,10,54,0,UMBC Defensive Rebound.
+UMBC,George Mason,7,23,11,5,0,Jamar Wertz missed Jumper.
+UMBC,George Mason,7,23,11,5,0,Jonathan Arledge Defensive Rebound.
+UMBC,George Mason,7,23,11,17,0,Jonathan Arledge missed Jumper.
+UMBC,George Mason,7,23,11,17,0,Jamar Wertz Defensive Rebound.
+UMBC,George Mason,7,23,11,25,0,Jarrel Lane Turnover.
+UMBC,George Mason,7,23,11,25,0,George Mason Full Timeout.
+UMBC,George Mason,7,23,11,50,0,Johnny Williams missed Jumper.
+UMBC,George Mason,7,23,11,50,0,Brett Roseboro Defensive Rebound.
+UMBC,George Mason,7,23,11,54,0,Foul on Erik Copes
+UMBC,George Mason,7,23,12,20,0,Chase Plummer missed Jumper.
+UMBC,George Mason,7,23,12,20,0,Anali Okoloji Defensive Rebound.
+UMBC,George Mason,7,23,12,24,0,Foul on Chase Plummer
+UMBC,George Mason,7,23,12,24,0,Official TV Timeout.
+UMBC,George Mason,7,24,12,24,1,Anali Okoloji made Free Throw.
+UMBC,George Mason,7,25,12,24,1,Anali Okoloji made Free Throw.
+UMBC,George Mason,7,25,12,33,0,Jamar Wertz missed Three Point Jumper.
+UMBC,George Mason,7,25,12,33,0,Brett Roseboro Offensive Rebound.
+UMBC,George Mason,7,25,12,43,0,Aaron Morgan missed Three Point Jumper.
+UMBC,George Mason,7,25,12,43,0,Brett Roseboro Offensive Rebound.
+UMBC,George Mason,7,25,12,48,0,Brett Roseboro Turnover.
+UMBC,George Mason,7,25,12,50,0,Anali Okoloji Steal.
+UMBC,George Mason,7,25,13,22,0,George Mason Turnover.
+UMBC,George Mason,9,25,13,37,1,Brett Roseboro made Jumper.  Assisted by Adrian Satchell.
+UMBC,George Mason,9,25,13,54,0,Anali Okoloji missed Three Point Jumper.
+UMBC,George Mason,9,25,13,54,0,Adrian Satchell Defensive Rebound.
+UMBC,George Mason,9,25,14,4,0,Jamar Wertz missed Jumper.
+UMBC,George Mason,9,25,14,4,0,Erik Copes Block.
+UMBC,George Mason,9,25,14,6,0,Jamar Wertz Offensive Rebound.
+UMBC,George Mason,9,25,14,10,0,Jamar Wertz missed Jumper.
+UMBC,George Mason,9,25,14,10,0,Erik Copes Block.
+UMBC,George Mason,9,25,14,11,0,Corey Edwards Defensive Rebound.
+UMBC,George Mason,9,25,14,16,0,Foul on Jamar Wertz
+UMBC,George Mason,9,26,14,16,1,Erik Copes made Free Throw.
+UMBC,George Mason,9,27,14,16,1,Erik Copes made Free Throw.
+UMBC,George Mason,11,27,14,24,1,Adrian Satchell made Jumper.  Assisted by Ryan Cook.
+UMBC,George Mason,11,29,14,40,1,Johnny Williams made Jumper.  Assisted by Erik Copes.
+UMBC,George Mason,11,29,15,18,0,Malik Garner missed Jumper.
+UMBC,George Mason,11,29,15,18,0,Anali Okoloji Defensive Rebound.
+UMBC,George Mason,11,29,15,23,0,Corey Edwards missed Layup.
+UMBC,George Mason,11,29,15,23,0,Anali Okoloji Offensive Rebound.
+UMBC,George Mason,11,29,15,28,0,Vertrail Vaughns missed Three Point Jumper.
+UMBC,George Mason,11,29,15,28,0,Adrian Satchell Defensive Rebound.
+UMBC,George Mason,11,29,15,33,0,Foul on Vertrail Vaughns
+UMBC,George Mason,11,29,15,33,0,Adrian Satchell missed Free Throw.
+UMBC,George Mason,11,29,15,33,0,null
+UMBC,George Mason,11,29,15,33,0,Adrian Satchell missed Free Throw.
+UMBC,George Mason,11,29,15,33,0,Anali Okoloji Defensive Rebound.
+UMBC,George Mason,11,29,15,56,0,Foul on Adrian Satchell
+UMBC,George Mason,11,30,15,56,1,Marko Gujanicic made Free Throw.
+UMBC,George Mason,11,30,15,56,0,Marko Gujanicic missed Free Throw.
+UMBC,George Mason,11,30,15,56,0,Jonathan Arledge Offensive Rebound.
+UMBC,George Mason,11,30,16,16,0,Foul on Will Wise
+UMBC,George Mason,11,30,16,16,0,Official TV Timeout.
+UMBC,George Mason,11,30,16,16,0,Jonathan Arledge missed Free Throw.
+UMBC,George Mason,11,30,16,16,0,null
+UMBC,George Mason,11,30,16,16,0,Jonathan Arledge missed Free Throw.
+UMBC,George Mason,11,30,16,16,0,Sherrod Wright Offensive Rebound.
+UMBC,George Mason,11,30,16,19,0,Sherrod Wright Turnover.
+UMBC,George Mason,14,30,16,46,1,Brian Neller made Three Point Jumper.  Assisted by Malik Garner.
+UMBC,George Mason,14,30,17,1,0,Corey Edwards Turnover.
+UMBC,George Mason,14,30,17,32,0,Aaron Morgan missed Three Point Jumper.
+UMBC,George Mason,14,30,17,32,0,Brett Roseboro Offensive Rebound.
+UMBC,George Mason,16,30,17,37,1,Adrian Satchell made Layup.  Assisted by Brett Roseboro.
+UMBC,George Mason,16,30,17,53,0,Marko Gujanicic missed Jumper.
+UMBC,George Mason,16,30,17,56,0,George Mason Offensive Rebound.
+UMBC,George Mason,16,30,18,16,0,Jonathan Arledge missed Jumper.
+UMBC,George Mason,16,30,18,16,0,Jonathan Arledge Offensive Rebound.
+UMBC,George Mason,16,30,18,41,0,Anali Okoloji missed Jumper.
+UMBC,George Mason,16,30,18,41,0,Malik Garner Defensive Rebound.
+UMBC,George Mason,16,30,18,46,0,Foul on Corey Edwards
+UMBC,George Mason,16,30,18,59,0,Foul on Marko Gujanicic
+UMBC,George Mason,17,30,18,59,1,Malik Garner made Free Throw.
+UMBC,George Mason,17,30,18,59,0,Malik Garner missed Free Throw.
+UMBC,George Mason,17,30,18,59,0,Sherrod Wright Defensive Rebound.
+UMBC,George Mason,17,30,19,20,0,Jonathan Arledge missed Jumper.
+UMBC,George Mason,17,30,19,20,0,Brian Neller Defensive Rebound.
+UMBC,George Mason,20,30,19,41,1,Brian Neller made Three Point Jumper.
+UMBC,George Mason,20,30,20,0,0,End of the 1st Half.
+UMBC,George Mason,20,30,20,19,0,Brett Roseboro missed Jumper.
+UMBC,George Mason,20,30,20,19,0,Anali Okoloji Defensive Rebound.
+UMBC,George Mason,20,30,20,32,0,Johnny Williams Turnover.
+UMBC,George Mason,20,30,20,33,0,Brett Roseboro Steal.
+UMBC,George Mason,23,30,20,41,1,Ryan Cook made Three Point Jumper.  Assisted by Brett Roseboro.
+UMBC,George Mason,23,30,21,8,0,Sherrod Wright missed Three Point Jumper.
+UMBC,George Mason,23,30,21,8,0,Erik Copes Offensive Rebound.
+UMBC,George Mason,23,32,21,13,1,Erik Copes made Jumper.
+UMBC,George Mason,23,32,21,35,0,Brett Roseboro missed Jumper.
+UMBC,George Mason,23,32,21,35,0,Johnny Williams Defensive Rebound.
+UMBC,George Mason,23,34,21,48,1,Sherrod Wright made Jumper.
+UMBC,George Mason,23,34,21,48,0,Foul on Ryan Cook
+UMBC,George Mason,23,34,21,48,0,Sherrod Wright missed Free Throw.
+UMBC,George Mason,23,34,21,48,0,Anali Okoloji Offensive Rebound.
+UMBC,George Mason,23,34,21,51,0,Anali Okoloji missed Jumper.
+UMBC,George Mason,23,34,21,51,0,Chase Plummer Defensive Rebound.
+UMBC,George Mason,23,34,22,0,0,Brian Neller missed Three Point Jumper.
+UMBC,George Mason,23,34,22,0,0,Anali Okoloji Defensive Rebound.
+UMBC,George Mason,23,34,22,15,0,Erik Copes Turnover.
+UMBC,George Mason,23,34,22,36,0,Ryan Cook missed Jumper.
+UMBC,George Mason,23,34,22,36,0,Chase Plummer Offensive Rebound.
+UMBC,George Mason,25,34,22,40,1,Chase Plummer made Layup.
+UMBC,George Mason,25,34,22,58,0,Anali Okoloji Turnover.
+UMBC,George Mason,25,34,22,59,0,Brian Neller Steal.
+UMBC,George Mason,25,34,23,2,0,Brian Neller missed Layup.
+UMBC,George Mason,25,34,23,2,0,Ryan Cook Offensive Rebound.
+UMBC,George Mason,27,34,23,2,1,Ryan Cook made Jumper.
+UMBC,George Mason,27,34,23,2,0,Foul on Anali Okoloji
+UMBC,George Mason,27,34,23,2,0,Ryan Cook missed Free Throw.
+UMBC,George Mason,27,34,23,2,0,Marko Gujanicic Defensive Rebound.
+UMBC,George Mason,27,34,23,21,0,Foul on Brett Roseboro
+UMBC,George Mason,27,35,23,21,1,Marko Gujanicic made Free Throw.
+UMBC,George Mason,27,36,23,21,1,Marko Gujanicic made Free Throw.
+UMBC,George Mason,29,36,23,31,1,Brett Roseboro made Layup.  Assisted by Malik Garner.
+UMBC,George Mason,29,38,23,46,1,Erik Copes made Jumper.  Assisted by Marko Gujanicic.
+UMBC,George Mason,29,38,23,51,0,Aaron Morgan Turnover.
+UMBC,George Mason,29,38,23,52,0,Sherrod Wright Steal.
+UMBC,George Mason,29,40,23,54,1,Sherrod Wright made Layup.
+UMBC,George Mason,29,40,23,56,0,UMBC Full Timeout.
+UMBC,George Mason,32,40,24,24,1,Aaron Morgan made Three Point Jumper.  Assisted by Brett Roseboro.
+UMBC,George Mason,32,42,25,0,1,Corey Edwards made Jumper.
+UMBC,George Mason,34,42,25,30,1,Ryan Cook made Jumper.  Assisted by Aaron Morgan.
+UMBC,George Mason,34,44,25,52,1,Sherrod Wright made Dunk.
+UMBC,George Mason,34,44,25,52,0,Foul on Brett Roseboro
+UMBC,George Mason,34,44,25,52,0,Official TV Timeout.
+UMBC,George Mason,34,45,25,52,1,Sherrod Wright made Free Throw.
+UMBC,George Mason,36,45,25,55,1,Brett Roseboro made Dunk.  Assisted by Adrian Satchell.
+UMBC,George Mason,36,45,25,55,0,Foul on Johnny Williams
+UMBC,George Mason,36,45,25,55,0,Brett Roseboro missed Free Throw.
+UMBC,George Mason,36,45,25,56,0,UMBC Offensive Rebound.
+UMBC,George Mason,39,45,26,1,1,Ryan Cook made Three Point Jumper.  Assisted by Aaron Morgan.
+UMBC,George Mason,39,45,26,21,0,Foul on Vaughn Gray
+UMBC,George Mason,39,45,26,21,0,Vaughn Gray Turnover.
+UMBC,George Mason,39,45,26,41,0,Ryan Cook missed Three Point Jumper.
+UMBC,George Mason,39,45,26,41,0,Vaughn Gray Defensive Rebound.
+UMBC,George Mason,39,45,26,49,0,Marko Gujanicic missed Three Point Jumper.
+UMBC,George Mason,39,45,26,49,0,Ryan Cook Defensive Rebound.
+UMBC,George Mason,39,45,27,5,0,Aaron Morgan missed Three Point Jumper.
+UMBC,George Mason,39,45,27,5,0,Sherrod Wright Defensive Rebound.
+UMBC,George Mason,39,45,27,23,0,Vaughn Gray missed Jumper.
+UMBC,George Mason,39,45,27,23,0,Erik Copes Offensive Rebound.
+UMBC,George Mason,39,47,27,38,1,Marko Gujanicic made Jumper.  Assisted by Vaughn Gray.
+UMBC,George Mason,39,47,27,46,0,Foul on Aaron Morgan
+UMBC,George Mason,39,47,27,46,0,Aaron Morgan Turnover.
+UMBC,George Mason,39,49,27,58,1,Jonathan Arledge made Jumper.  Assisted by Marko Gujanicic.
+UMBC,George Mason,39,49,28,7,0,Ryan Cook Turnover.
+UMBC,George Mason,39,49,28,7,0,Corey Edwards Steal.
+UMBC,George Mason,39,49,28,9,0,Foul on Brett Roseboro
+UMBC,George Mason,39,49,28,9,0,Official TV Timeout.
+UMBC,George Mason,39,50,28,9,1,Sherrod Wright made Free Throw.
+UMBC,George Mason,39,51,28,9,1,Sherrod Wright made Free Throw.
+UMBC,George Mason,41,51,28,22,1,Chase Plummer made Layup.
+UMBC,George Mason,41,51,28,37,0,Foul on Adrian Satchell
+UMBC,George Mason,41,52,28,37,1,Jonathan Arledge made Free Throw.
+UMBC,George Mason,41,53,28,37,1,Jonathan Arledge made Free Throw.
+UMBC,George Mason,43,53,28,49,1,Chase Plummer made Jumper.
+UMBC,George Mason,43,53,29,4,0,Jonathan Arledge missed Jumper.
+UMBC,George Mason,43,53,29,4,0,Jonathan Arledge Offensive Rebound.
+UMBC,George Mason,43,53,29,14,0,Jonathan Arledge missed Jumper.
+UMBC,George Mason,43,53,29,14,0,Jonathan Arledge Offensive Rebound.
+UMBC,George Mason,43,53,29,24,0,Patrick Holloway missed Three Point Jumper.
+UMBC,George Mason,43,53,29,28,0,UMBC Defensive Rebound.
+UMBC,George Mason,45,53,29,48,1,Brett Roseboro made Jumper.
+UMBC,George Mason,45,55,30,14,1,Jonathan Arledge made Jumper.  Assisted by Bryon Allen.
+UMBC,George Mason,45,55,30,36,0,Brett Roseboro missed Jumper.
+UMBC,George Mason,45,55,30,36,0,Jonathan Arledge Defensive Rebound.
+UMBC,George Mason,45,55,30,45,0,Sherrod Wright missed Jumper.
+UMBC,George Mason,45,55,30,45,0,Ryan Cook Defensive Rebound.
+UMBC,George Mason,45,55,30,50,0,Ryan Cook Turnover.
+UMBC,George Mason,45,55,30,51,0,Patrick Holloway Steal.
+UMBC,George Mason,45,57,30,57,1,Jonathan Arledge made Jumper.
+UMBC,George Mason,45,57,30,57,0,Foul on Brian Neller
+UMBC,George Mason,45,58,30,57,1,Jonathan Arledge made Free Throw.
+UMBC,George Mason,45,58,31,17,0,Chase Plummer missed Layup.
+UMBC,George Mason,45,58,31,17,0,Jonathan Arledge Defensive Rebound.
+UMBC,George Mason,45,58,31,38,0,Jonathan Arledge Turnover.
+UMBC,George Mason,45,58,31,39,0,Brett Roseboro Steal.
+UMBC,George Mason,45,58,31,45,0,Foul on Marko Gujanicic
+UMBC,George Mason,45,58,31,45,0,Malik Garner missed Free Throw.
+UMBC,George Mason,45,58,31,45,0,null
+UMBC,George Mason,45,58,31,45,0,Malik Garner missed Free Throw.
+UMBC,George Mason,45,58,31,45,0,Vertrail Vaughns Defensive Rebound.
+UMBC,George Mason,45,58,32,4,0,Bryon Allen missed Jumper.
+UMBC,George Mason,45,58,32,4,0,Ryan Cook Defensive Rebound.
+UMBC,George Mason,48,58,32,26,1,Chase Plummer made Three Point Jumper.  Assisted by Aaron Morgan.
+UMBC,George Mason,48,58,33,3,0,Jonathan Arledge Turnover.
+UMBC,George Mason,48,58,33,10,0,Ryan Cook Turnover.
+UMBC,George Mason,48,58,33,11,0,Vertrail Vaughns Steal.
+UMBC,George Mason,48,58,33,13,0,Bryon Allen Turnover.
+UMBC,George Mason,48,58,33,14,0,Chase Plummer Steal.
+UMBC,George Mason,48,58,33,16,0,Chase Plummer missed Layup.
+UMBC,George Mason,48,58,33,17,0,Erik Copes Block.
+UMBC,George Mason,48,58,33,17,0,UMBC Offensive Rebound.
+UMBC,George Mason,48,58,33,17,0,Official TV Timeout.
+UMBC,George Mason,48,58,33,36,0,Ryan Cook missed Three Point Jumper.
+UMBC,George Mason,48,58,33,36,0,Erik Copes Defensive Rebound.
+UMBC,George Mason,48,60,33,52,1,Erik Copes made Jumper.  Assisted by Anali Okoloji.
+UMBC,George Mason,48,60,34,10,0,Chase Plummer Turnover.
+UMBC,George Mason,48,60,34,34,0,Jonathan Arledge missed Jumper.
+UMBC,George Mason,48,60,34,37,0,UMBC Defensive Rebound.
+UMBC,George Mason,51,60,35,5,1,Chase Plummer made Three Point Jumper.
+UMBC,George Mason,51,62,35,26,1,Jonathan Arledge made Jumper.
+UMBC,George Mason,51,62,36,4,0,Aaron Morgan missed Three Point Jumper.
+UMBC,George Mason,51,62,36,4,0,Bryon Allen Defensive Rebound.
+UMBC,George Mason,51,64,36,23,1,Bryon Allen made Jumper.
+UMBC,George Mason,51,64,36,32,0,UMBC Full Timeout.
+UMBC,George Mason,53,64,36,52,1,Ryan Cook made Jumper.
+UMBC,George Mason,53,66,37,6,1,Marko Gujanicic made Jumper.
+UMBC,George Mason,53,66,37,14,0,Official TV Timeout.
+UMBC,George Mason,53,66,37,28,0,Foul on Marko Gujanicic
+UMBC,George Mason,53,66,37,28,0,Chase Plummer missed Free Throw.
+UMBC,George Mason,53,66,37,28,0,null
+UMBC,George Mason,54,66,37,28,1,Chase Plummer made Free Throw.
+UMBC,George Mason,54,66,37,52,0,Bryon Allen missed Layup.
+UMBC,George Mason,54,66,37,52,0,Ryan Cook Block.
+UMBC,George Mason,54,66,37,54,0,Aaron Morgan Defensive Rebound.
+UMBC,George Mason,57,66,37,59,1,Brian Neller made Three Point Jumper.  Assisted by Aaron Morgan.
+UMBC,George Mason,57,66,38,24,0,George Mason Full Timeout.
+UMBC,George Mason,57,69,38,30,1,Marko Gujanicic made Three Point Jumper.  Assisted by Bryon Allen.
+UMBC,George Mason,59,69,38,45,1,Aaron Morgan made Jumper.
+UMBC,George Mason,59,69,38,55,0,Foul on Chase Plummer
+UMBC,George Mason,59,70,38,55,1,Marko Gujanicic made Free Throw.
+UMBC,George Mason,59,71,38,55,1,Marko Gujanicic made Free Throw.
+UMBC,George Mason,59,71,39,10,0,Foul on Erik Copes
+UMBC,George Mason,60,71,39,10,1,Brett Roseboro made Free Throw.
+UMBC,George Mason,61,71,39,10,1,Brett Roseboro made Free Throw.
+UMBC,George Mason,61,71,39,19,0,Foul on Adrian Satchell
+UMBC,George Mason,61,71,39,19,0,Corey Edwards missed Free Throw.
+UMBC,George Mason,61,71,39,19,0,Sherrod Wright Offensive Rebound.
+UMBC,George Mason,61,71,39,21,0,Foul on Ryan Cook
+UMBC,George Mason,61,72,39,21,1,Sherrod Wright made Free Throw.
+UMBC,George Mason,61,72,39,21,0,Sherrod Wright missed Free Throw.
+UMBC,George Mason,61,72,39,21,0,Chase Plummer Defensive Rebound.
+UMBC,George Mason,61,72,39,27,0,Ryan Cook missed Three Point Jumper.
+UMBC,George Mason,61,72,39,27,0,Aaron Morgan Offensive Rebound.
+UMBC,George Mason,63,72,39,29,1,Aaron Morgan made Layup.
+UMBC,George Mason,63,72,39,29,0,UMBC Full Timeout.
+UMBC,George Mason,63,72,39,30,0,Foul on Adrian Satchell
+UMBC,George Mason,63,73,39,30,1,Bryon Allen made Free Throw.
+UMBC,George Mason,63,74,39,30,1,Bryon Allen made Free Throw.
+UMBC,George Mason,63,74,39,40,0,Aaron Morgan missed Three Point Jumper.
+UMBC,George Mason,63,74,39,40,0,Sherrod Wright Defensive Rebound.
+UMBC,George Mason,63,74,40,0,0,End Game
+UMBC,George Mason,63,74,40,0,0,End Game

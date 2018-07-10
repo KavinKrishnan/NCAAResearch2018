@@ -1,0 +1,298 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+SMU,UCF,2,0,0,11,1,Ryan Manuel made Jumper.
+SMU,UCF,2,0,0,35,0,Daiquan Walker missed Three Point Jumper.
+SMU,UCF,2,0,0,35,0,Ryan Manuel Defensive Rebound.
+SMU,UCF,4,0,0,41,1,Nick Russell made Layup.  Assisted by Ryan Manuel.
+SMU,UCF,4,0,1,5,0,Isaiah Sykes missed Layup.
+SMU,UCF,4,0,1,5,0,Isaiah Sykes Offensive Rebound.
+SMU,UCF,4,0,1,11,0,Isaiah Sykes missed Layup.
+SMU,UCF,4,0,1,11,0,Cannen Cunningham Defensive Rebound.
+SMU,UCF,4,0,1,18,0,Nick Russell missed Layup.
+SMU,UCF,4,0,1,18,0,Isaiah Sykes Defensive Rebound.
+SMU,UCF,4,2,1,29,1,Daiquan Walker made Layup.
+SMU,UCF,4,2,2,2,0,Ryan Manuel missed Jumper.
+SMU,UCF,4,2,2,2,0,Tristan Spurlock Block.
+SMU,UCF,4,2,2,4,0,Tristan Spurlock Defensive Rebound.
+SMU,UCF,4,2,2,8,0,Keith Clanton missed Three Point Jumper.
+SMU,UCF,4,2,2,8,0,Jalen Jones Defensive Rebound.
+SMU,UCF,4,2,2,39,0,Nick Russell missed Three Point Jumper.
+SMU,UCF,4,2,2,39,0,Tristan Spurlock Defensive Rebound.
+SMU,UCF,4,2,3,4,0,Keith Clanton missed Jumper.
+SMU,UCF,4,2,3,4,0,Nick Russell Defensive Rebound.
+SMU,UCF,6,2,3,16,1,Cannen Cunningham made Layup.
+SMU,UCF,6,2,3,36,0,Daiquan Walker missed Three Point Jumper.
+SMU,UCF,6,2,3,36,0,Cannen Cunningham Defensive Rebound.
+SMU,UCF,6,2,3,47,0,Jalen Jones missed Layup.
+SMU,UCF,6,2,3,47,0,Isaiah Sykes Defensive Rebound.
+SMU,UCF,6,2,4,2,0,Calvin Newell missed Layup.
+SMU,UCF,6,2,4,2,0,Isaiah Sykes Offensive Rebound.
+SMU,UCF,6,2,4,10,0,Foul on Nick Russell
+SMU,UCF,6,2,4,10,0,Official TV Timeout.
+SMU,UCF,6,2,4,10,0,Isaiah Sykes missed Free Throw.
+SMU,UCF,6,2,4,10,0,null
+SMU,UCF,6,3,4,10,1,Isaiah Sykes made Free Throw.
+SMU,UCF,8,3,4,29,1,Ryan Manuel made Layup.
+SMU,UCF,8,3,4,50,0,Isaiah Sykes Turnover.
+SMU,UCF,8,3,4,51,0,Nick Russell Steal.
+SMU,UCF,10,3,4,53,1,Nick Russell made Layup.
+SMU,UCF,10,6,5,9,1,Calvin Newell made Three Point Jumper.
+SMU,UCF,10,6,5,44,0,Shawn Williams missed Layup.
+SMU,UCF,10,6,5,44,0,Calvin Newell Defensive Rebound.
+SMU,UCF,10,6,5,50,0,Foul on Ryan Manuel
+SMU,UCF,10,7,5,50,1,Calvin Newell made Free Throw.
+SMU,UCF,10,8,5,50,1,Calvin Newell made Free Throw.
+SMU,UCF,10,8,6,5,0,Cannen Cunningham missed Layup.
+SMU,UCF,10,8,6,5,0,Keith Clanton Block.
+SMU,UCF,10,8,6,6,0,Keith Clanton Defensive Rebound.
+SMU,UCF,10,10,6,14,1,Keith Clanton made Layup.  Assisted by Isaiah Sykes.
+SMU,UCF,10,10,6,14,0,Foul on Cannen Cunningham
+SMU,UCF,10,11,6,14,1,Keith Clanton made Free Throw.
+SMU,UCF,10,11,6,41,0,Cannen Cunningham missed Jumper.
+SMU,UCF,10,11,6,41,0,Southern Methodist Offensive Reb.
+SMU,UCF,10,11,6,47,0,Jalen Jones missed Layup.
+SMU,UCF,10,11,6,47,0,Keith Clanton Defensive Rebound.
+SMU,UCF,10,13,6,59,1,Isaiah Sykes made Layup.  Assisted by Keith Clanton.
+SMU,UCF,10,13,7,15,0,Ryan Manuel missed Layup.
+SMU,UCF,10,13,7,15,0,Calvin Newell Defensive Rebound.
+SMU,UCF,10,13,7,25,0,Keith Clanton Turnover.
+SMU,UCF,10,13,7,25,0,Foul on Keith Clanton
+SMU,UCF,10,13,7,36,0,Jalen Jones Turnover.
+SMU,UCF,10,13,7,37,0,Isaiah Sykes Steal.
+SMU,UCF,10,13,7,42,0,Keith Clanton missed Three Point Jumper.
+SMU,UCF,10,13,7,42,0,Cannen Cunningham Defensive Rebound.
+SMU,UCF,10,13,7,51,0,Nick Russell missed Layup.
+SMU,UCF,10,13,7,51,0,Jalen Jones Offensive Rebound.
+SMU,UCF,12,13,7,56,1,Jalen Jones made Tip Shot.
+SMU,UCF,12,13,8,14,0,Calvin Newell missed Three Point Jumper.
+SMU,UCF,12,13,8,14,0,Shawn Williams Defensive Rebound.
+SMU,UCF,12,13,8,20,0,Nick Russell Turnover.
+SMU,UCF,12,13,8,21,0,Official TV Timeout.
+SMU,UCF,12,13,8,35,0,Matt Williams missed Three Point Jumper.
+SMU,UCF,12,13,8,35,0,Jalen Jones Defensive Rebound.
+SMU,UCF,12,13,8,42,0,Foul on Kasey Wilson
+SMU,UCF,13,13,8,42,1,Ryan Manuel made Free Throw.
+SMU,UCF,14,13,8,42,1,Ryan Manuel made Free Throw.
+SMU,UCF,14,16,8,56,1,Matt Williams made Three Point Jumper.  Assisted by Calvin Newell.
+SMU,UCF,16,16,9,14,1,Jalen Jones made Layup.  Assisted by Shawn Williams.
+SMU,UCF,16,16,9,23,0,Isaiah Sykes missed Jumper.
+SMU,UCF,16,16,9,23,0,Ryan Manuel Defensive Rebound.
+SMU,UCF,18,16,9,36,1,Nick Russell made Layup.  Assisted by Shawn Williams.
+SMU,UCF,18,16,9,47,0,Tristan Spurlock missed Three Point Jumper.
+SMU,UCF,18,16,9,47,0,Shawn Williams Defensive Rebound.
+SMU,UCF,18,16,9,55,0,Jalen Jones missed Layup.
+SMU,UCF,18,16,9,55,0,Tristan Spurlock Block.
+SMU,UCF,18,16,9,57,0,Shawn Williams Offensive Rebound.
+SMU,UCF,20,16,10,22,1,Jalen Jones made Layup.  Assisted by Nick Russell.
+SMU,UCF,20,18,10,32,1,Calvin Newell made Layup.
+SMU,UCF,20,18,10,32,0,Foul on Jordan Dickerson
+SMU,UCF,20,19,10,32,1,Calvin Newell made Free Throw.
+SMU,UCF,22,19,10,56,1,Cannen Cunningham made Jumper.
+SMU,UCF,22,19,10,56,0,Foul on Kasey Wilson
+SMU,UCF,22,19,10,56,0,Cannen Cunningham missed Free Throw.
+SMU,UCF,22,19,10,56,0,Staphon Blair Defensive Rebound.
+SMU,UCF,22,19,11,3,0,Matt Williams missed Three Point Jumper.
+SMU,UCF,22,19,11,3,0,Nick Russell Defensive Rebound.
+SMU,UCF,22,19,11,10,0,Foul on Matt Williams
+SMU,UCF,22,19,11,10,0,Nick Russell missed Free Throw.
+SMU,UCF,22,19,11,10,0,null
+SMU,UCF,23,19,11,10,1,Nick Russell made Free Throw.
+SMU,UCF,23,21,11,23,1,Staphon Blair made Layup.  Assisted by Tristan Spurlock.
+SMU,UCF,25,21,11,42,1,Cannen Cunningham made Dunk.  Assisted by Jordan Dickerson.
+SMU,UCF,25,24,11,57,1,Tristan Spurlock made Three Point Jumper.  Assisted by Keith Clanton.
+SMU,UCF,25,24,12,16,0,Shawn Williams missed Three Point Jumper.
+SMU,UCF,25,24,12,16,0,Daiquan Walker Defensive Rebound.
+SMU,UCF,25,24,12,28,0,Foul on Brian Bernardi
+SMU,UCF,25,24,12,28,0,Official TV Timeout.
+SMU,UCF,25,25,12,28,1,Isaiah Sykes made Free Throw.
+SMU,UCF,25,25,12,28,0,Isaiah Sykes missed Free Throw.
+SMU,UCF,25,25,12,28,0,Cannen Cunningham Defensive Rebound.
+SMU,UCF,25,25,12,51,0,Ryan Manuel missed Three Point Jumper.
+SMU,UCF,25,25,12,51,0,Isaiah Sykes Defensive Rebound.
+SMU,UCF,25,25,13,0,0,Foul on Ryan Manuel
+SMU,UCF,25,26,13,0,1,Isaiah Sykes made Free Throw.
+SMU,UCF,25,27,13,0,1,Isaiah Sykes made Free Throw.
+SMU,UCF,25,27,13,15,0,Nick Russell missed Three Point Jumper.
+SMU,UCF,25,27,13,15,0,UCF Defensive Rebound.
+SMU,UCF,25,27,13,43,0,Daiquan Walker missed Jumper.
+SMU,UCF,25,27,13,43,0,Staphon Blair Offensive Rebound.
+SMU,UCF,25,29,13,48,1,Staphon Blair made Tip Shot.
+SMU,UCF,28,29,14,13,1,Brian Bernardi made Three Point Jumper.  Assisted by Nick Russell.
+SMU,UCF,28,29,14,35,0,Isaiah Sykes Turnover.
+SMU,UCF,30,29,14,51,1,Nick Russell made Jumper.
+SMU,UCF,30,31,15,19,1,Isaiah Sykes made Layup.
+SMU,UCF,30,31,15,39,0,Cannen Cunningham Turnover.
+SMU,UCF,30,31,15,39,0,Foul on Cannen Cunningham
+SMU,UCF,30,34,15,50,1,Calvin Newell made Three Point Jumper.  Assisted by Tristan Spurlock.
+SMU,UCF,30,34,16,6,0,Jalen Jones missed Layup.
+SMU,UCF,30,34,16,6,0,Tristan Spurlock Block.
+SMU,UCF,30,34,16,8,0,Isaiah Sykes Defensive Rebound.
+SMU,UCF,30,36,16,12,1,Calvin Newell made Layup.  Assisted by Isaiah Sykes.
+SMU,UCF,30,36,16,41,0,Foul on Tristan Spurlock
+SMU,UCF,30,36,16,41,0,Official TV Timeout.
+SMU,UCF,31,36,16,41,1,Jalen Jones made Free Throw.
+SMU,UCF,32,36,16,41,1,Jalen Jones made Free Throw.
+SMU,UCF,32,36,16,58,0,Tristan Spurlock Turnover.
+SMU,UCF,32,36,17,25,0,Jalen Jones missed Jumper.
+SMU,UCF,32,36,17,25,0,Jordan Dickerson Offensive Rebound.
+SMU,UCF,32,36,17,30,0,Southern Methodist Full Timeout.
+SMU,UCF,32,36,17,40,0,Nick Russell missed Jumper.
+SMU,UCF,32,36,17,40,0,Matt Williams Defensive Rebound.
+SMU,UCF,32,36,18,17,0,Tristan Spurlock missed Layup.
+SMU,UCF,32,36,18,17,0,Jordan Dickerson Defensive Rebound.
+SMU,UCF,32,36,18,45,0,Nick Russell missed Jumper.
+SMU,UCF,32,36,18,45,0,Isaiah Sykes Defensive Rebound.
+SMU,UCF,32,36,18,53,0,Isaiah Sykes Turnover.
+SMU,UCF,32,36,18,54,0,Nick Russell Steal.
+SMU,UCF,32,36,18,55,0,Foul on Matt Williams
+SMU,UCF,32,36,19,14,0,Nick Russell missed Jumper.
+SMU,UCF,32,36,19,14,0,Staphon Blair Defensive Rebound.
+SMU,UCF,32,36,19,26,0,UCF Full Timeout.
+SMU,UCF,32,36,19,48,0,Calvin Newell missed Three Point Jumper.
+SMU,UCF,32,36,19,48,0,Matt Williams Offensive Rebound.
+SMU,UCF,32,38,19,55,1,Isaiah Sykes made Jumper.  Assisted by Matt Williams.
+SMU,UCF,32,38,20,0,0,End of the 1st Half.
+SMU,UCF,32,38,20,12,0,Foul on Cannen Cunningham
+SMU,UCF,32,39,20,12,1,Keith Clanton made Free Throw.
+SMU,UCF,32,40,20,12,1,Keith Clanton made Free Throw.
+SMU,UCF,32,40,20,32,0,Nick Russell missed Layup.
+SMU,UCF,32,40,20,32,0,null
+SMU,UCF,32,40,20,48,0,Cannen Cunningham missed Layup.
+SMU,UCF,32,40,20,48,0,Jalen Jones Offensive Rebound.
+SMU,UCF,34,40,20,52,1,Jalen Jones made Tip Shot.
+SMU,UCF,34,42,21,26,1,Isaiah Sykes made Jumper.
+SMU,UCF,36,42,22,2,1,Nick Russell made Jumper.
+SMU,UCF,36,44,22,18,1,Calvin Newell made Layup.
+SMU,UCF,36,44,22,50,0,Ryan Manuel missed Layup.
+SMU,UCF,36,44,22,50,0,Keith Clanton Defensive Rebound.
+SMU,UCF,36,44,22,58,0,Calvin Newell missed Three Point Jumper.
+SMU,UCF,36,44,22,58,0,Jalen Jones Defensive Rebound.
+SMU,UCF,39,44,23,6,1,Shawn Williams made Three Point Jumper.  Assisted by Nick Russell.
+SMU,UCF,39,46,23,33,1,Tristan Spurlock made Dunk.  Assisted by Keith Clanton.
+SMU,UCF,39,46,23,58,0,Cannen Cunningham Turnover.
+SMU,UCF,39,46,23,59,0,Calvin Newell Steal.
+SMU,UCF,39,46,24,1,0,Foul on Nick Russell
+SMU,UCF,39,46,24,1,0,Official TV Timeout.
+SMU,UCF,39,46,24,1,0,Calvin Newell missed Free Throw.
+SMU,UCF,39,46,24,1,0,null
+SMU,UCF,39,46,24,1,0,Calvin Newell missed Free Throw.
+SMU,UCF,39,46,24,3,0,UCF Offensive Rebound.
+SMU,UCF,39,46,24,30,0,Tristan Spurlock Turnover.
+SMU,UCF,39,46,24,32,0,Cannen Cunningham Steal.
+SMU,UCF,41,46,25,1,1,Ryan Manuel made Layup.  Assisted by Nick Russell.
+SMU,UCF,41,46,25,23,0,Tristan Spurlock missed Jumper.
+SMU,UCF,41,46,25,23,0,Nick Russell Defensive Rebound.
+SMU,UCF,41,46,25,31,0,Nick Russell Turnover.
+SMU,UCF,41,46,25,44,0,Kasey Wilson missed Three Point Jumper.
+SMU,UCF,41,46,25,44,0,Southern Methodist Defensive Reb.
+SMU,UCF,41,46,25,46,0,Foul on Isaiah Sykes
+SMU,UCF,41,46,26,8,0,Shawn Williams missed Layup.
+SMU,UCF,41,46,26,8,0,Kasey Wilson Block.
+SMU,UCF,41,46,26,9,0,Calvin Newell Defensive Rebound.
+SMU,UCF,41,48,26,33,1,Isaiah Sykes made Layup.
+SMU,UCF,41,48,26,57,0,Nick Russell missed Jumper.
+SMU,UCF,41,48,26,57,0,UCF Defensive Rebound.
+SMU,UCF,41,48,27,18,0,Tristan Spurlock missed Layup.
+SMU,UCF,41,48,27,18,0,Shawn Williams Defensive Rebound.
+SMU,UCF,41,48,27,19,0,Foul on Isaiah Sykes
+SMU,UCF,41,48,27,35,0,Foul on Kasey Wilson
+SMU,UCF,41,48,27,35,0,Jalen Jones missed Free Throw.
+SMU,UCF,41,48,27,35,0,null
+SMU,UCF,42,48,27,35,1,Jalen Jones made Free Throw.
+SMU,UCF,42,48,27,52,0,Isaiah Sykes missed Layup.
+SMU,UCF,42,48,27,52,0,Isaiah Sykes Offensive Rebound.
+SMU,UCF,42,48,27,54,0,Foul on Shawn Williams
+SMU,UCF,42,49,27,54,1,Isaiah Sykes made Free Throw.
+SMU,UCF,42,50,27,54,1,Isaiah Sykes made Free Throw.
+SMU,UCF,42,50,28,8,0,Nick Russell Turnover.
+SMU,UCF,42,50,28,8,0,Calvin Newell Steal.
+SMU,UCF,42,50,28,8,0,Official TV Timeout.
+SMU,UCF,42,50,28,19,0,Matt Williams Turnover.
+SMU,UCF,42,50,28,35,0,Jalen Jones Turnover.
+SMU,UCF,42,50,28,35,0,Foul on Jalen Jones
+SMU,UCF,42,52,29,0,1,Calvin Newell made Jumper.
+SMU,UCF,44,52,29,27,1,Jalen Jones made Dunk.  Assisted by Nick Russell.
+SMU,UCF,44,55,29,54,1,Tristan Spurlock made Three Point Jumper.  Assisted by Isaiah Sykes.
+SMU,UCF,44,55,30,3,0,Jalen Jones missed Layup.
+SMU,UCF,44,55,30,3,0,Ryan Manuel Offensive Rebound.
+SMU,UCF,44,55,30,8,0,Foul on Staphon Blair
+SMU,UCF,45,55,30,8,1,Shawn Williams made Free Throw.
+SMU,UCF,46,55,30,8,1,Shawn Williams made Free Throw.
+SMU,UCF,46,55,30,18,0,Daiquan Walker missed Layup.
+SMU,UCF,46,55,30,18,0,Tristan Spurlock Offensive Rebound.
+SMU,UCF,46,57,30,21,1,Tristan Spurlock made Dunk.
+SMU,UCF,46,57,30,59,0,Nick Russell missed Jumper.
+SMU,UCF,46,57,30,59,0,Cannen Cunningham Offensive Rebound.
+SMU,UCF,48,57,31,1,1,Cannen Cunningham made Layup.
+SMU,UCF,48,57,31,24,0,Calvin Newell missed Three Point Jumper.
+SMU,UCF,48,57,31,24,0,Ryan Manuel Defensive Rebound.
+SMU,UCF,48,57,31,30,0,Ryan Manuel Turnover.
+SMU,UCF,48,57,31,31,0,Calvin Newell Steal.
+SMU,UCF,48,59,31,37,1,Keith Clanton made Layup.  Assisted by Daiquan Walker.
+SMU,UCF,48,59,31,41,0,Southern Methodist Full Timeout.
+SMU,UCF,50,59,32,0,1,Nick Russell made Layup.
+SMU,UCF,50,59,32,20,0,Keith Clanton Turnover.
+SMU,UCF,50,59,32,24,0,Ryan Manuel Steal.
+SMU,UCF,50,59,32,42,0,Nick Russell missed Jumper.
+SMU,UCF,50,59,32,46,0,Daiquan Walker Defensive Rebound.
+SMU,UCF,50,59,33,0,0,Calvin Newell Turnover.
+SMU,UCF,50,59,33,1,0,Ryan Manuel Steal.
+SMU,UCF,52,59,33,3,1,Ryan Manuel made Layup.
+SMU,UCF,52,59,33,3,0,Foul on Daiquan Walker
+SMU,UCF,52,59,33,3,0,Official TV Timeout.
+SMU,UCF,53,59,33,3,1,Ryan Manuel made Free Throw.
+SMU,UCF,53,59,33,18,0,Daiquan Walker missed Jumper.
+SMU,UCF,53,59,33,18,0,Nick Russell Block.
+SMU,UCF,53,59,33,20,0,London Giles Defensive Rebound.
+SMU,UCF,55,59,33,31,1,Cannen Cunningham made Layup.  Assisted by Nick Russell.
+SMU,UCF,55,59,33,48,0,Tristan Spurlock missed Jumper.
+SMU,UCF,55,59,33,48,0,Cannen Cunningham Defensive Rebound.
+SMU,UCF,57,59,34,2,1,Nick Russell made Layup.
+SMU,UCF,57,59,34,5,0,UCF Full Timeout.
+SMU,UCF,57,59,34,30,0,Isaiah Sykes missed Layup.
+SMU,UCF,57,59,34,30,0,Tristan Spurlock Offensive Rebound.
+SMU,UCF,57,61,34,33,1,Tristan Spurlock made Tip Shot.
+SMU,UCF,57,61,34,36,0,Cannen Cunningham Turnover.
+SMU,UCF,57,61,34,37,0,Keith Clanton Steal.
+SMU,UCF,57,63,34,42,1,Keith Clanton made Layup.
+SMU,UCF,59,63,35,0,1,Ryan Manuel made Layup.
+SMU,UCF,59,63,35,24,0,Kasey Wilson Turnover.
+SMU,UCF,59,63,35,37,0,Nick Russell missed Jumper.
+SMU,UCF,59,63,35,37,0,Cannen Cunningham Offensive Rebound.
+SMU,UCF,61,63,35,41,1,Cannen Cunningham made Dunk.
+SMU,UCF,61,63,36,10,0,Isaiah Sykes missed Layup.
+SMU,UCF,61,63,36,10,0,Ryan Manuel Defensive Rebound.
+SMU,UCF,63,63,36,15,1,Ryan Manuel made Jumper.  Assisted by Cannen Cunningham.
+SMU,UCF,63,63,36,40,0,Tristan Spurlock missed Three Point Jumper.
+SMU,UCF,63,63,36,40,0,Kasey Wilson Offensive Rebound.
+SMU,UCF,63,63,36,42,0,Kasey Wilson missed Layup.
+SMU,UCF,63,63,36,43,0,Isaiah Sykes Offensive Rebound.
+SMU,UCF,63,65,36,44,1,Isaiah Sykes made Tip Shot.
+SMU,UCF,63,65,36,45,0,Foul on Ryan Manuel
+SMU,UCF,63,65,36,45,0,Official TV Timeout.
+SMU,UCF,63,66,36,45,1,Isaiah Sykes made Free Throw.
+SMU,UCF,63,66,37,17,0,Ryan Manuel missed Layup.
+SMU,UCF,63,66,37,17,0,Tristan Spurlock Block.
+SMU,UCF,63,66,37,19,0,Ryan Manuel Offensive Rebound.
+SMU,UCF,63,66,37,22,0,Ryan Manuel missed Jumper.
+SMU,UCF,63,66,37,22,0,Tristan Spurlock Defensive Rebound.
+SMU,UCF,63,66,37,51,0,Isaiah Sykes missed Layup.
+SMU,UCF,63,66,37,51,0,Southern Methodist Defensive Reb.
+SMU,UCF,65,66,38,11,1,Ryan Manuel made Dunk.  Assisted by Cannen Cunningham.
+SMU,UCF,65,68,38,24,1,Isaiah Sykes made Layup.
+SMU,UCF,65,68,38,44,0,Nick Russell missed Jumper.
+SMU,UCF,65,68,38,44,0,Kasey Wilson Defensive Rebound.
+SMU,UCF,65,68,38,56,0,UCF Full Timeout.
+SMU,UCF,65,70,39,13,1,Kasey Wilson made Layup.  Assisted by Keith Clanton.
+SMU,UCF,65,70,39,17,0,Jalen Jones Turnover.
+SMU,UCF,65,70,39,17,0,Foul on Jalen Jones
+SMU,UCF,65,70,39,29,0,Foul on Ryan Manuel
+SMU,UCF,65,71,39,29,1,Kasey Wilson made Free Throw.
+SMU,UCF,65,72,39,29,1,Kasey Wilson made Free Throw.
+SMU,UCF,65,72,39,38,0,Shawn Williams missed Jumper.
+SMU,UCF,65,72,39,38,0,Tristan Spurlock Defensive Rebound.
+SMU,UCF,65,72,39,42,0,Foul on Ryan Manuel
+SMU,UCF,65,73,39,42,1,Tristan Spurlock made Free Throw.
+SMU,UCF,65,74,39,42,1,Tristan Spurlock made Free Throw.
+SMU,UCF,65,74,39,47,0,London Giles missed Three Point Jumper.
+SMU,UCF,65,74,39,47,0,Isaiah Sykes Defensive Rebound.
+SMU,UCF,65,74,40,0,0,End Game

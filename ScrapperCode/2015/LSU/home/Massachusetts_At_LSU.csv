@@ -1,0 +1,360 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Massachusetts,LSU,0,0,0,0,0,Jump Ball won by LSU
+Massachusetts,LSU,0,2,0,10,1,Jordan Mickey made Jumper.
+Massachusetts,LSU,0,2,0,31,0,Maxie Esho Turnover.
+Massachusetts,LSU,0,4,0,38,1,Jarell Martin made Dunk. Assisted by Keith Hornsby.
+Massachusetts,LSU,0,4,1,5,0,Maxie Esho missed Jumper.
+Massachusetts,LSU,0,4,1,5,0,Massachusetts Offensive Rebound.
+Massachusetts,LSU,0,4,1,15,0,Trey Davis missed Jumper.
+Massachusetts,LSU,0,4,1,15,0,Maxie Esho Offensive Rebound.
+Massachusetts,LSU,0,4,1,19,0,Maxie Esho missed Layup.
+Massachusetts,LSU,0,4,1,19,0,John Odo Block.
+Massachusetts,LSU,0,4,1,19,0,Josh Gray Defensive Rebound.
+Massachusetts,LSU,0,6,1,25,1,Jordan Mickey made Layup. Assisted by Josh Gray.
+Massachusetts,LSU,0,6,1,26,0,Massachusetts  Timeout
+Massachusetts,LSU,0,6,1,55,0,Seth Berger Turnover.
+Massachusetts,LSU,0,6,1,55,0,Josh Gray Steal.
+Massachusetts,LSU,0,6,1,56,0,Foul on Seth Berger.
+Massachusetts,LSU,0,6,2,0,0,Jordan Mickey missed Jumper.
+Massachusetts,LSU,0,6,2,0,0,Derrick Gordon Defensive Rebound.
+Massachusetts,LSU,0,6,2,8,0,Maxie Esho missed Layup.
+Massachusetts,LSU,0,6,2,8,0,Jordan Mickey Defensive Rebound.
+Massachusetts,LSU,0,8,2,14,1,Josh Gray made Jumper.
+Massachusetts,LSU,0,8,2,14,0,Cady Lalanne missed Layup.
+Massachusetts,LSU,0,8,2,14,0,Keith Hornsby Block.
+Massachusetts,LSU,0,8,2,14,0,Cady Lalanne Offensive Rebound.
+Massachusetts,LSU,2,8,2,35,1,Cady Lalanne made Layup.
+Massachusetts,LSU,2,8,2,57,0,Jarell Martin missed Three Point Jumper.
+Massachusetts,LSU,2,8,2,57,0,Cady Lalanne Defensive Rebound.
+Massachusetts,LSU,2,8,3,8,0,Cady Lalanne missed Three Point Jumper.
+Massachusetts,LSU,2,8,3,8,0,Keith Hornsby Defensive Rebound.
+Massachusetts,LSU,2,8,3,39,0,Jarell Martin missed Three Point Jumper.
+Massachusetts,LSU,2,8,3,39,0,Cady Lalanne Defensive Rebound.
+Massachusetts,LSU,2,8,3,48,0,Foul on Keith Hornsby.
+Massachusetts,LSU,3,8,3,48,1,Donte Clark made Free Throw.
+Massachusetts,LSU,4,8,3,48,1,Donte Clark made Free Throw.
+Massachusetts,LSU,4,8,3,59,0,Foul on Jordan Mickey.
+Massachusetts,LSU,4,8,3,59,0,Jordan Mickey Turnover.
+Massachusetts,LSU,4,8,4,16,0,Jabarie Hinds missed Three Point Jumper.
+Massachusetts,LSU,4,8,4,16,0,Jordan Mickey Defensive Rebound.
+Massachusetts,LSU,4,8,4,18,0,Foul on Zach Coleman.
+Massachusetts,LSU,4,8,4,18,0,Official TV Timeout
+Massachusetts,LSU,4,10,4,32,1,Keith Hornsby made Layup.
+Massachusetts,LSU,6,10,4,46,1,Derrick Gordon made Layup.
+Massachusetts,LSU,6,12,5,2,1,Jarell Martin made Layup. Assisted by Josh Gray.
+Massachusetts,LSU,6,12,5,6,0,Foul on Tim Quarterman.
+Massachusetts,LSU,6,12,5,25,0,Zach Coleman missed Three Point Jumper.
+Massachusetts,LSU,6,12,5,25,0,Jarell Martin Defensive Rebound.
+Massachusetts,LSU,6,12,5,32,0,Josh Gray missed Jumper.
+Massachusetts,LSU,6,12,5,32,0,Cady Lalanne Defensive Rebound.
+Massachusetts,LSU,6,12,5,41,0,Donte Clark missed Three Point Jumper.
+Massachusetts,LSU,6,12,5,41,0,Josh Gray Defensive Rebound.
+Massachusetts,LSU,6,12,5,46,0,Josh Gray Turnover.
+Massachusetts,LSU,6,12,5,46,0,Donte Clark Steal.
+Massachusetts,LSU,6,12,5,52,0,Foul on Jarell Martin.
+Massachusetts,LSU,7,12,5,52,1,Donte Clark made Free Throw.
+Massachusetts,LSU,8,12,5,52,1,Donte Clark made Free Throw.
+Massachusetts,LSU,8,14,6,8,1,John Odo made Layup. Assisted by Josh Gray.
+Massachusetts,LSU,11,14,6,21,1,Maxie Esho made Three Point Jumper. Assisted by C.J. Anderson.
+Massachusetts,LSU,11,14,6,36,0,Keith Hornsby missed Three Point Jumper.
+Massachusetts,LSU,11,14,6,36,0,Maxie Esho Defensive Rebound.
+Massachusetts,LSU,11,14,6,45,0,Donte Clark Turnover.
+Massachusetts,LSU,11,14,6,45,0,Josh Gray Steal.
+Massachusetts,LSU,11,16,6,52,1,Josh Gray made Layup.
+Massachusetts,LSU,11,16,7,21,0,Maxie Esho Turnover.
+Massachusetts,LSU,11,16,7,21,0,Tim Quarterman Steal.
+Massachusetts,LSU,11,16,7,25,0,Tim Quarterman missed Layup.
+Massachusetts,LSU,11,16,7,25,0,Jabarie Hinds Defensive Rebound.
+Massachusetts,LSU,11,16,7,28,0,Jabarie Hinds Turnover.
+Massachusetts,LSU,11,16,7,28,0,Tim Quarterman Steal.
+Massachusetts,LSU,11,16,7,28,0,Foul on Maxie Esho.
+Massachusetts,LSU,11,17,7,28,1,Tim Quarterman made Free Throw.
+Massachusetts,LSU,11,17,7,28,0,Tim Quarterman missed Free Throw.
+Massachusetts,LSU,11,17,7,28,0,Maxie Esho Defensive Rebound.
+Massachusetts,LSU,13,17,8,3,1,Tyler Bergantino made Dunk. Assisted by Derrick Gordon.
+Massachusetts,LSU,13,17,8,11,0,Tim Quarterman Turnover.
+Massachusetts,LSU,13,17,8,11,0,Trey Davis Steal.
+Massachusetts,LSU,13,17,8,13,0,Foul on John Odo.
+Massachusetts,LSU,13,17,8,13,0,Official TV Timeout
+Massachusetts,LSU,13,17,8,41,0,Trey Davis Turnover.
+Massachusetts,LSU,13,17,8,41,0,Tim Quarterman Steal.
+Massachusetts,LSU,13,19,8,46,1,Josh Gray made Dunk. Assisted by Tim Quarterman.
+Massachusetts,LSU,15,19,9,5,1,Trey Davis made Layup.
+Massachusetts,LSU,15,19,9,21,0,Josh Gray Turnover.
+Massachusetts,LSU,15,19,9,21,0,C.J. Anderson Steal.
+Massachusetts,LSU,17,19,9,25,1,Maxie Esho made Layup. Assisted by C.J. Anderson.
+Massachusetts,LSU,17,21,9,57,1,Tim Quarterman made Layup.
+Massachusetts,LSU,19,21,10,24,1,Maxie Esho made Jumper.
+Massachusetts,LSU,19,24,10,41,1,Josh Gray made Three Point Jumper.
+Massachusetts,LSU,22,24,11,9,1,Trey Davis made Three Point Jumper. Assisted by Maxie Esho.
+Massachusetts,LSU,22,24,11,26,0,Jordan Mickey missed Jumper.
+Massachusetts,LSU,22,24,11,26,0,Trey Davis Defensive Rebound.
+Massachusetts,LSU,24,24,11,37,1,Derrick Gordon made Jumper.
+Massachusetts,LSU,24,24,11,44,0,Foul on Derrick Gordon.
+Massachusetts,LSU,24,24,11,46,0,Jalyn Patterson missed Jumper.
+Massachusetts,LSU,24,24,11,46,0,Cady Lalanne Defensive Rebound.
+Massachusetts,LSU,24,24,11,53,0,Jabarie Hinds Turnover.
+Massachusetts,LSU,24,24,11,53,0,Foul on Jabarie Hinds.
+Massachusetts,LSU,24,24,12,6,0,Keith Hornsby missed Jumper.
+Massachusetts,LSU,24,24,12,6,0,Tim Quarterman Offensive Rebound.
+Massachusetts,LSU,24,24,12,6,0,Tim Quarterman missed Two Point Tip Shot.
+Massachusetts,LSU,24,24,12,6,0,Cady Lalanne Defensive Rebound.
+Massachusetts,LSU,24,24,12,20,0,Maxie Esho missed Layup.
+Massachusetts,LSU,24,24,12,20,0,Jordan Mickey Block.
+Massachusetts,LSU,24,24,12,20,0,Tim Quarterman Defensive Rebound.
+Massachusetts,LSU,24,27,12,34,1,Tim Quarterman made Three Point Jumper.
+Massachusetts,LSU,24,27,12,58,0,Trey Davis missed Jumper.
+Massachusetts,LSU,24,27,12,58,0,Jordan Mickey Defensive Rebound.
+Massachusetts,LSU,24,27,13,18,0,Tim Quarterman missed Jumper.
+Massachusetts,LSU,24,27,13,18,0,Jordan Mickey Offensive Rebound.
+Massachusetts,LSU,24,29,13,26,1,Jordan Mickey made Layup.
+Massachusetts,LSU,26,29,13,33,1,Jabarie Hinds made Layup.
+Massachusetts,LSU,26,29,13,34,0,Official TV Timeout
+Massachusetts,LSU,26,29,13,59,0,Keith Hornsby Turnover.
+Massachusetts,LSU,26,29,13,59,0,C.J. Anderson Steal.
+Massachusetts,LSU,26,29,14,9,0,Jabarie Hinds Turnover.
+Massachusetts,LSU,26,29,14,9,0,Jordan Mickey Steal.
+Massachusetts,LSU,26,31,14,27,1,Jarell Martin made Jumper.
+Massachusetts,LSU,26,31,15,4,0,Trey Davis missed Three Point Jumper.
+Massachusetts,LSU,26,31,15,4,0,Jarell Martin Defensive Rebound.
+Massachusetts,LSU,26,33,15,12,1,Tim Quarterman made Layup. Assisted by Jarell Martin.
+Massachusetts,LSU,26,33,15,23,0,Foul on Jabarie Hinds.
+Massachusetts,LSU,26,33,15,23,0,Jabarie Hinds Turnover.
+Massachusetts,LSU,26,35,15,39,1,Jordan Mickey made Jumper.
+Massachusetts,LSU,26,35,16,0,0,Derrick Gordon Turnover.
+Massachusetts,LSU,26,35,16,16,0,Foul on Donte Clark.
+Massachusetts,LSU,26,35,16,16,0,Official TV Timeout
+Massachusetts,LSU,26,36,16,16,1,Jarell Martin made Free Throw.
+Massachusetts,LSU,26,37,16,16,1,Jarell Martin made Free Throw.
+Massachusetts,LSU,26,37,16,26,0,Derrick Gordon Turnover.
+Massachusetts,LSU,26,39,16,39,1,Jarell Martin made Jumper.
+Massachusetts,LSU,26,39,16,50,0,Cady Lalanne missed Jumper.
+Massachusetts,LSU,26,39,16,50,0,Tim Quarterman Defensive Rebound.
+Massachusetts,LSU,26,39,16,59,0,Keith Hornsby missed Jumper.
+Massachusetts,LSU,26,39,16,59,0,Maxie Esho Defensive Rebound.
+Massachusetts,LSU,26,39,17,10,0,Donte Clark missed Layup.
+Massachusetts,LSU,26,39,17,10,0,Jordan Mickey Block.
+Massachusetts,LSU,26,39,17,10,0,Keith Hornsby Defensive Rebound.
+Massachusetts,LSU,26,41,17,15,1,Josh Gray made Jumper.
+Massachusetts,LSU,26,41,17,16,0,Massachusetts  Timeout
+Massachusetts,LSU,28,41,17,39,1,Maxie Esho made Jumper. Assisted by Trey Davis.
+Massachusetts,LSU,28,41,17,56,0,Jordan Mickey missed Jumper.
+Massachusetts,LSU,28,41,17,56,0,Trey Davis Defensive Rebound.
+Massachusetts,LSU,30,41,18,8,1,Cady Lalanne made Layup.
+Massachusetts,LSU,30,41,18,9,0,LSU  Timeout
+Massachusetts,LSU,30,41,18,34,0,Jarell Martin missed Jumper.
+Massachusetts,LSU,30,41,18,34,0,Maxie Esho Defensive Rebound.
+Massachusetts,LSU,30,41,18,46,0,Trey Davis missed Jumper.
+Massachusetts,LSU,30,41,18,46,0,Cady Lalanne Offensive Rebound.
+Massachusetts,LSU,30,41,18,52,0,Cady Lalanne missed Layup.
+Massachusetts,LSU,30,41,18,52,0,Josh Gray Defensive Rebound.
+Massachusetts,LSU,30,41,19,1,0,Keith Hornsby missed Three Point Jumper.
+Massachusetts,LSU,30,41,19,1,0,Jarell Martin Offensive Rebound.
+Massachusetts,LSU,30,41,19,10,0,Tim Quarterman missed Layup.
+Massachusetts,LSU,30,41,19,10,0,Seth Berger Block.
+Massachusetts,LSU,30,41,19,10,0,LSU Offensive Rebound.
+Massachusetts,LSU,30,44,19,14,1,Josh Gray made Three Point Jumper. Assisted by Keith Hornsby.
+Massachusetts,LSU,32,44,19,30,1,Cady Lalanne made Layup.
+Massachusetts,LSU,32,44,19,30,0,Foul on Jordan Mickey.
+Massachusetts,LSU,32,44,19,30,0,Cady Lalanne missed Free Throw.
+Massachusetts,LSU,32,44,19,30,0,Jarell Martin Defensive Rebound.
+Massachusetts,LSU,32,44,19,58,0,Tim Quarterman missed Three Point Jumper.
+Massachusetts,LSU,32,44,19,58,0,Maxie Esho Defensive Rebound.
+Massachusetts,LSU,32,44,20,0,0,End of 1st half
+Massachusetts,LSU,32,44,20,0,0,Jump Ball won by Massachusetts
+Massachusetts,LSU,32,44,20,17,0,Trey Davis missed Three Point Jumper.
+Massachusetts,LSU,32,44,20,17,0,Maxie Esho Offensive Rebound.
+Massachusetts,LSU,32,44,20,23,0,Trey Davis missed Jumper.
+Massachusetts,LSU,32,44,20,23,0,Trey Davis Offensive Rebound.
+Massachusetts,LSU,32,44,20,28,0,Cady Lalanne missed Layup.
+Massachusetts,LSU,32,44,20,28,0,Jordan Mickey Block.
+Massachusetts,LSU,32,44,20,28,0,Jordan Mickey Defensive Rebound.
+Massachusetts,LSU,32,44,20,34,0,Keith Hornsby missed Layup.
+Massachusetts,LSU,32,44,20,34,0,Seth Berger Block.
+Massachusetts,LSU,32,44,20,34,0,LSU Offensive Rebound.
+Massachusetts,LSU,32,44,20,59,0,Jordan Mickey Turnover.
+Massachusetts,LSU,32,44,21,11,0,Cady Lalanne missed Layup.
+Massachusetts,LSU,32,44,21,11,0,John Odo Block.
+Massachusetts,LSU,32,44,21,11,0,Josh Gray Defensive Rebound.
+Massachusetts,LSU,32,44,21,16,0,Josh Gray Turnover.
+Massachusetts,LSU,32,44,21,16,0,Derrick Gordon Steal.
+Massachusetts,LSU,34,44,21,20,1,Maxie Esho made Dunk.
+Massachusetts,LSU,34,44,21,41,0,Foul on Maxie Esho.
+Massachusetts,LSU,34,46,21,49,1,Keith Hornsby made Jumper.
+Massachusetts,LSU,34,46,22,23,0,Seth Berger Turnover.
+Massachusetts,LSU,34,46,22,43,0,Jordan Mickey Turnover.
+Massachusetts,LSU,36,46,22,48,1,Trey Davis made Layup.
+Massachusetts,LSU,36,46,22,54,0,Josh Gray Turnover.
+Massachusetts,LSU,36,46,22,54,0,Derrick Gordon Steal.
+Massachusetts,LSU,38,46,23,0,1,Derrick Gordon made Layup.
+Massachusetts,LSU,38,46,23,13,0,Josh Gray Turnover.
+Massachusetts,LSU,38,46,23,13,0,Trey Davis Steal.
+Massachusetts,LSU,38,46,23,16,0,Derrick Gordon Turnover.
+Massachusetts,LSU,38,46,23,16,0,Josh Gray Steal.
+Massachusetts,LSU,38,48,23,20,1,Josh Gray made Layup.
+Massachusetts,LSU,40,48,23,28,1,Trey Davis made Layup.
+Massachusetts,LSU,40,48,23,38,0,Foul on Trey Davis.
+Massachusetts,LSU,40,50,23,52,1,Jordan Mickey made Layup.
+Massachusetts,LSU,40,50,23,52,0,Foul on Maxie Esho.
+Massachusetts,LSU,40,51,23,52,1,Jordan Mickey made Free Throw.
+Massachusetts,LSU,40,51,24,17,0,Foul on Jordan Mickey.
+Massachusetts,LSU,40,51,24,17,0,Official TV Timeout
+Massachusetts,LSU,41,51,24,17,1,Cady Lalanne made Free Throw.
+Massachusetts,LSU,42,51,24,17,1,Cady Lalanne made Free Throw.
+Massachusetts,LSU,42,51,24,17,0,Foul on Trey Davis.
+Massachusetts,LSU,42,51,24,44,0,Keith Hornsby missed Jumper.
+Massachusetts,LSU,42,51,24,44,0,Massachusetts Defensive Rebound.
+Massachusetts,LSU,42,51,25,0,0,Trey Davis missed Jumper.
+Massachusetts,LSU,42,51,25,0,0,Derrick Gordon Offensive Rebound.
+Massachusetts,LSU,42,51,25,0,0,Derrick Gordon missed Two Point Tip Shot.
+Massachusetts,LSU,42,51,25,0,0,Keith Hornsby Defensive Rebound.
+Massachusetts,LSU,42,51,25,13,0,Tim Quarterman Turnover.
+Massachusetts,LSU,42,51,25,13,0,Jabarie Hinds Steal.
+Massachusetts,LSU,42,51,25,18,0,Cady Lalanne missed Three Point Jumper.
+Massachusetts,LSU,42,51,25,18,0,John Odo Defensive Rebound.
+Massachusetts,LSU,42,51,25,55,0,Josh Gray missed Layup.
+Massachusetts,LSU,42,51,25,55,0,Cady Lalanne Block.
+Massachusetts,LSU,42,51,25,55,0,LSU Offensive Rebound.
+Massachusetts,LSU,42,51,25,56,0,Tim Quarterman Turnover.
+Massachusetts,LSU,42,51,25,56,0,Seth Berger Steal.
+Massachusetts,LSU,42,51,25,57,0,Trey Davis Turnover.
+Massachusetts,LSU,42,51,26,0,0,Foul on Seth Berger.
+Massachusetts,LSU,42,51,26,30,0,John Odo missed Jumper.
+Massachusetts,LSU,42,51,26,30,0,Derrick Gordon Defensive Rebound.
+Massachusetts,LSU,42,51,26,37,0,Jabarie Hinds missed Jumper.
+Massachusetts,LSU,42,51,26,37,0,John Odo Block.
+Massachusetts,LSU,42,51,26,37,0,Keith Hornsby Defensive Rebound.
+Massachusetts,LSU,42,53,26,45,1,Tim Quarterman made Layup. Assisted by Keith Hornsby.
+Massachusetts,LSU,42,53,26,50,0,Cady Lalanne missed Layup.
+Massachusetts,LSU,42,53,26,50,0,Keith Hornsby Defensive Rebound.
+Massachusetts,LSU,42,55,27,21,1,Jarell Martin made Jumper. Assisted by Tim Quarterman.
+Massachusetts,LSU,42,55,27,46,0,Trey Davis missed Three Point Jumper.
+Massachusetts,LSU,42,55,27,46,0,Keith Hornsby Defensive Rebound.
+Massachusetts,LSU,42,55,27,55,0,Josh Gray missed Layup.
+Massachusetts,LSU,42,55,27,55,0,John Odo Offensive Rebound.
+Massachusetts,LSU,42,57,27,55,1,John Odo made Two Point Tip Shot.
+Massachusetts,LSU,42,57,27,59,0,Massachusetts  Timeout
+Massachusetts,LSU,42,57,28,23,0,Donte Clark Turnover.
+Massachusetts,LSU,42,57,28,23,0,Jarell Martin Steal.
+Massachusetts,LSU,42,57,28,27,0,Jarell Martin Turnover.
+Massachusetts,LSU,42,57,28,27,0,Official TV Timeout
+Massachusetts,LSU,42,57,28,36,0,Foul on Tim Quarterman.
+Massachusetts,LSU,44,57,28,48,1,Derrick Gordon made Jumper.
+Massachusetts,LSU,44,57,29,22,0,John Odo missed Jumper.
+Massachusetts,LSU,44,57,29,22,0,LSU Deadball Team Rebound.
+Massachusetts,LSU,44,57,29,24,0,Jump Ball won by LSU
+Massachusetts,LSU,44,57,29,27,0,Tim Quarterman missed Jumper.
+Massachusetts,LSU,44,57,29,27,0,Cady Lalanne Defensive Rebound.
+Massachusetts,LSU,44,57,29,39,0,Trey Davis missed Jumper.
+Massachusetts,LSU,44,57,29,39,0,Jordan Mickey Block.
+Massachusetts,LSU,44,57,29,39,0,Tim Quarterman Defensive Rebound.
+Massachusetts,LSU,44,59,29,45,1,Keith Hornsby made Layup.
+Massachusetts,LSU,44,59,29,58,0,Foul on John Odo.
+Massachusetts,LSU,45,59,29,58,1,Maxie Esho made Free Throw.
+Massachusetts,LSU,46,59,29,58,1,Maxie Esho made Free Throw.
+Massachusetts,LSU,46,59,30,16,0,Foul on Seth Berger.
+Massachusetts,LSU,46,59,30,27,0,Foul on Cady Lalanne.
+Massachusetts,LSU,46,59,30,27,0,John Odo missed Free Throw.
+Massachusetts,LSU,46,59,30,27,0,LSU Deadball Team Rebound.
+Massachusetts,LSU,46,60,30,27,1,John Odo made Free Throw.
+Massachusetts,LSU,48,60,30,31,1,Trey Davis made Jumper.
+Massachusetts,LSU,48,62,30,38,1,Keith Hornsby made Layup. Assisted by Tim Quarterman.
+Massachusetts,LSU,48,62,30,38,0,Foul on C.J. Anderson.
+Massachusetts,LSU,48,63,30,38,1,Keith Hornsby made Free Throw.
+Massachusetts,LSU,48,63,30,51,0,Foul on John Odo.
+Massachusetts,LSU,48,63,30,51,0,Cady Lalanne missed Free Throw.
+Massachusetts,LSU,48,63,30,51,0,Massachusetts Deadball Team Rebound.
+Massachusetts,LSU,48,63,30,51,0,Cady Lalanne missed Free Throw.
+Massachusetts,LSU,48,63,30,51,0,Jordan Mickey Defensive Rebound.
+Massachusetts,LSU,48,65,31,8,1,Jordan Mickey made Jumper. Assisted by Josh Gray.
+Massachusetts,LSU,48,65,31,22,0,Donte Clark missed Jumper.
+Massachusetts,LSU,48,65,31,22,0,Jordan Mickey Defensive Rebound.
+Massachusetts,LSU,48,65,31,27,0,Jordan Mickey Turnover.
+Massachusetts,LSU,48,65,31,27,0,Maxie Esho Steal.
+Massachusetts,LSU,48,65,31,29,0,Maxie Esho missed Layup.
+Massachusetts,LSU,48,65,31,29,0,Jordan Mickey Block.
+Massachusetts,LSU,48,65,31,29,0,Jordan Mickey Defensive Rebound.
+Massachusetts,LSU,48,65,31,35,0,Foul on Josh Gray.
+Massachusetts,LSU,48,65,31,35,0,Josh Gray Turnover.
+Massachusetts,LSU,48,65,31,46,0,Foul on John Odo.
+Massachusetts,LSU,48,65,31,46,0,Maxie Esho missed Free Throw.
+Massachusetts,LSU,48,65,31,46,0,Massachusetts Deadball Team Rebound.
+Massachusetts,LSU,49,65,31,46,1,Maxie Esho made Free Throw.
+Massachusetts,LSU,49,65,31,55,0,Jordan Mickey Turnover.
+Massachusetts,LSU,49,65,31,55,0,Derrick Gordon Steal.
+Massachusetts,LSU,51,65,32,5,1,Cady Lalanne made Layup.
+Massachusetts,LSU,51,65,32,5,0,Foul on John Odo.
+Massachusetts,LSU,51,65,32,5,0,Official TV Timeout
+Massachusetts,LSU,52,65,32,5,1,Cady Lalanne made Free Throw.
+Massachusetts,LSU,52,65,32,38,0,Josh Gray missed Three Point Jumper.
+Massachusetts,LSU,52,65,32,38,0,Tim Quarterman Offensive Rebound.
+Massachusetts,LSU,52,65,32,43,0,Tim Quarterman missed Layup.
+Massachusetts,LSU,52,65,32,43,0,Jordan Mickey Offensive Rebound.
+Massachusetts,LSU,52,65,32,47,0,Jordan Mickey missed Layup.
+Massachusetts,LSU,52,65,32,47,0,Cady Lalanne Defensive Rebound.
+Massachusetts,LSU,52,65,32,47,0,Jump Ball won by Massachusetts
+Massachusetts,LSU,52,65,32,59,0,Derrick Gordon missed Layup.
+Massachusetts,LSU,52,65,32,59,0,Cady Lalanne Offensive Rebound.
+Massachusetts,LSU,52,65,33,4,0,Cady Lalanne missed Layup.
+Massachusetts,LSU,52,65,33,4,0,Cady Lalanne Offensive Rebound.
+Massachusetts,LSU,54,65,33,5,1,Cady Lalanne made Layup.
+Massachusetts,LSU,54,65,33,5,0,Foul on Jarell Martin.
+Massachusetts,LSU,55,65,33,5,1,Cady Lalanne made Free Throw.
+Massachusetts,LSU,55,67,33,23,1,Josh Gray made Jumper.
+Massachusetts,LSU,55,67,33,34,0,Foul on Jarell Martin.
+Massachusetts,LSU,55,67,33,34,0,Donte Clark missed Free Throw.
+Massachusetts,LSU,55,67,33,34,0,Massachusetts Deadball Team Rebound.
+Massachusetts,LSU,56,67,33,34,1,Donte Clark made Free Throw.
+Massachusetts,LSU,56,67,33,51,0,Keith Hornsby missed Three Point Jumper.
+Massachusetts,LSU,56,67,33,51,0,LSU Offensive Rebound.
+Massachusetts,LSU,56,69,33,57,1,Josh Gray made Layup. Assisted by Jordan Mickey.
+Massachusetts,LSU,56,69,34,5,0,Maxie Esho missed Jumper.
+Massachusetts,LSU,56,69,34,5,0,Tim Quarterman Defensive Rebound.
+Massachusetts,LSU,56,71,34,11,1,Josh Gray made Layup. Assisted by Keith Hornsby.
+Massachusetts,LSU,56,71,34,11,0,Foul on Donte Clark.
+Massachusetts,LSU,56,71,34,11,0,Josh Gray missed Free Throw.
+Massachusetts,LSU,56,71,34,11,0,Cady Lalanne Defensive Rebound.
+Massachusetts,LSU,56,71,34,39,0,Donte Clark missed Three Point Jumper.
+Massachusetts,LSU,56,71,34,39,0,LSU Defensive Rebound.
+Massachusetts,LSU,56,73,35,2,1,Tim Quarterman made Layup. Assisted by Jordan Mickey.
+Massachusetts,LSU,56,73,35,10,0,Derrick Gordon missed Layup.
+Massachusetts,LSU,56,73,35,10,0,Jarell Martin Block.
+Massachusetts,LSU,56,73,35,10,0,Massachusetts Offensive Rebound.
+Massachusetts,LSU,56,73,35,16,0,Trey Davis Turnover.
+Massachusetts,LSU,56,73,35,16,0,Keith Hornsby Steal.
+Massachusetts,LSU,56,73,35,20,0,Keith Hornsby Turnover.
+Massachusetts,LSU,56,73,35,27,0,Trey Davis missed Jumper.
+Massachusetts,LSU,56,73,35,27,0,Jordan Mickey Defensive Rebound.
+Massachusetts,LSU,56,73,35,50,0,Foul on Maxie Esho.
+Massachusetts,LSU,56,74,35,50,1,Jordan Mickey made Free Throw.
+Massachusetts,LSU,56,74,35,50,0,Jordan Mickey missed Free Throw.
+Massachusetts,LSU,56,74,35,50,0,Zach Coleman Defensive Rebound.
+Massachusetts,LSU,56,74,35,57,0,Zach Coleman missed Jumper.
+Massachusetts,LSU,56,74,35,57,0,Demetrius Dyson Offensive Rebound.
+Massachusetts,LSU,58,74,36,5,1,Cady Lalanne made Layup. Assisted by Demetrius Dyson.
+Massachusetts,LSU,58,76,36,28,1,Jordan Mickey made Jumper.
+Massachusetts,LSU,58,76,36,33,0,Zach Coleman Turnover.
+Massachusetts,LSU,58,76,36,33,0,Jarell Martin Steal.
+Massachusetts,LSU,58,76,36,41,0,Josh Gray Turnover.
+Massachusetts,LSU,58,76,36,41,0,Derrick Gordon Steal.
+Massachusetts,LSU,58,76,36,50,0,Cady Lalanne Turnover.
+Massachusetts,LSU,58,76,36,50,0,Jarell Martin Steal.
+Massachusetts,LSU,58,76,36,50,0,Official TV Timeout
+Massachusetts,LSU,58,76,37,7,0,Jordan Mickey missed Jumper.
+Massachusetts,LSU,58,76,37,7,0,Jarell Martin Offensive Rebound.
+Massachusetts,LSU,58,79,37,22,1,Tim Quarterman made Three Point Jumper. Assisted by Josh Gray.
+Massachusetts,LSU,60,79,37,32,1,Derrick Gordon made Layup.
+Massachusetts,LSU,60,79,37,46,0,Keith Hornsby Turnover.
+Massachusetts,LSU,60,79,37,58,0,Demetrius Dyson missed Three Point Jumper.
+Massachusetts,LSU,60,79,37,58,0,LSU Defensive Rebound.
+Massachusetts,LSU,60,82,38,35,1,Josh Gray made Three Point Jumper.
+Massachusetts,LSU,60,82,38,52,0,Foul on Elbert Robinson III.
+Massachusetts,LSU,60,82,38,52,0,Tyler Bergantino missed Free Throw.
+Massachusetts,LSU,60,82,38,52,0,Massachusetts Deadball Team Rebound.
+Massachusetts,LSU,60,82,38,52,0,Tyler Bergantino missed Free Throw.
+Massachusetts,LSU,60,82,38,52,0,Darcy Malone Defensive Rebound.
+Massachusetts,LSU,60,82,39,24,0,Tim Quarterman missed Three Point Jumper.
+Massachusetts,LSU,60,82,39,24,0,Demetrius Dyson Defensive Rebound.
+Massachusetts,LSU,60,82,39,37,0,Derrick Gordon missed Three Point Jumper.
+Massachusetts,LSU,60,82,39,37,0,Elbert Robinson III Defensive Rebound.
+Massachusetts,LSU,60,82,40,0,0,End of Game

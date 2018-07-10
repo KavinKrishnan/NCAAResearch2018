@@ -1,0 +1,392 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Marshall,Florida Atlantic,0,2,0,11,1,Nick Rutherford made Layup.
+Marshall,Florida Atlantic,3,2,0,24,1,Jon Elmore made Three Point Jumper. Assisted by Ajdin Penava.
+Marshall,Florida Atlantic,3,2,0,39,0,Nick Rutherford missed Jumper.
+Marshall,Florida Atlantic,3,2,0,39,0,Marshall Defensive Rebound.
+Marshall,Florida Atlantic,5,2,0,51,1,Stevie Browning made Jumper.
+Marshall,Florida Atlantic,5,4,1,13,1,Jailyn Ingram made Layup. Assisted by Ronald Delph.
+Marshall,Florida Atlantic,8,4,1,22,1,Austin Loop made Three Point Jumper. Assisted by Ryan Taylor.
+Marshall,Florida Atlantic,8,4,1,39,0,Jailyn Ingram Turnover.
+Marshall,Florida Atlantic,8,4,1,40,0,Stevie Browning Steal.
+Marshall,Florida Atlantic,8,4,1,43,0,Stevie Browning missed Layup.
+Marshall,Florida Atlantic,8,4,1,43,0,Jailyn Ingram Block.
+Marshall,Florida Atlantic,8,4,1,45,0,Adonis Filer Defensive Rebound.
+Marshall,Florida Atlantic,8,6,1,50,1,Ronald Delph made Layup. Assisted by Adonis Filer.
+Marshall,Florida Atlantic,11,6,2,7,1,Austin Loop made Three Point Jumper. Assisted by Jon Elmore.
+Marshall,Florida Atlantic,11,6,2,35,0,Adonis Filer missed Three Point Jumper.
+Marshall,Florida Atlantic,11,6,2,35,0,Marshall Defensive Rebound.
+Marshall,Florida Atlantic,11,6,2,49,0,Ajdin Penava missed Layup.
+Marshall,Florida Atlantic,11,6,2,49,0,Jon Elmore Offensive Rebound.
+Marshall,Florida Atlantic,11,6,3,1,0,Ajdin Penava missed Layup.
+Marshall,Florida Atlantic,11,6,3,1,0,Nick Rutherford Block.
+Marshall,Florida Atlantic,11,6,3,3,0,Adonis Filer Defensive Rebound.
+Marshall,Florida Atlantic,11,6,3,6,0,Adonis Filer missed Layup.
+Marshall,Florida Atlantic,11,6,3,6,0,Adonis Filer Offensive Rebound.
+Marshall,Florida Atlantic,11,6,3,17,0,Jeantal Cylla missed Jumper.
+Marshall,Florida Atlantic,11,6,3,17,0,Austin Loop Defensive Rebound.
+Marshall,Florida Atlantic,11,6,3,29,0,Foul on Nick Rutherford.
+Marshall,Florida Atlantic,11,6,3,29,0,Stevie Browning missed Free Throw.
+Marshall,Florida Atlantic,11,6,3,29,0,Marshall Deadball Team Rebound.
+Marshall,Florida Atlantic,12,6,3,29,1,Stevie Browning made Free Throw.
+Marshall,Florida Atlantic,12,6,3,41,0,Foul on Stevie Browning.
+Marshall,Florida Atlantic,12,6,3,46,0,Jailyn Ingram missed Jumper.
+Marshall,Florida Atlantic,12,6,3,46,0,Austin Loop Defensive Rebound.
+Marshall,Florida Atlantic,12,6,3,59,0,Jon Elmore missed Three Point Jumper.
+Marshall,Florida Atlantic,12,6,3,59,0,Jailyn Ingram Defensive Rebound.
+Marshall,Florida Atlantic,12,8,4,9,1,Adonis Filer made Layup.
+Marshall,Florida Atlantic,12,8,4,25,0,Stevie Browning Turnover.
+Marshall,Florida Atlantic,12,8,4,25,0,Official TV Timeout
+Marshall,Florida Atlantic,12,8,4,46,0,Adonis Filer Turnover.
+Marshall,Florida Atlantic,12,8,4,47,0,Ryan Taylor Steal.
+Marshall,Florida Atlantic,14,8,4,54,1,Ryan Taylor made Layup.
+Marshall,Florida Atlantic,14,8,5,6,0,Adonis Filer missed Jumper.
+Marshall,Florida Atlantic,14,8,5,6,0,Austin Loop Defensive Rebound.
+Marshall,Florida Atlantic,14,8,5,17,0,Ryan Taylor missed Three Point Jumper.
+Marshall,Florida Atlantic,14,8,5,17,0,Nick Rutherford Defensive Rebound.
+Marshall,Florida Atlantic,14,8,5,40,0,Foul on Ryan Taylor.
+Marshall,Florida Atlantic,14,9,5,40,1,Nick Rutherford made Free Throw.
+Marshall,Florida Atlantic,14,9,5,40,0,Nick Rutherford missed Free Throw.
+Marshall,Florida Atlantic,16,9,5,47,1,Jon Elmore made Layup.
+Marshall,Florida Atlantic,16,9,6,11,0,Frank Booker missed Three Point Jumper.
+Marshall,Florida Atlantic,16,9,6,11,0,Ryan Taylor Defensive Rebound.
+Marshall,Florida Atlantic,16,9,6,23,0,C.J. Burks missed Layup.
+Marshall,Florida Atlantic,16,9,6,23,0,C.J. Burks Offensive Rebound.
+Marshall,Florida Atlantic,19,9,6,27,1,Jon Elmore made Three Point Jumper. Assisted by C.J. Burks.
+Marshall,Florida Atlantic,19,9,6,40,0,Ronald Delph missed Layup.
+Marshall,Florida Atlantic,19,9,6,40,0,Devorious Brown Offensive Rebound.
+Marshall,Florida Atlantic,19,9,6,43,0,Devorious Brown missed Layup.
+Marshall,Florida Atlantic,19,9,6,43,0,Ajdin Penava Defensive Rebound.
+Marshall,Florida Atlantic,19,9,6,51,0,C.J. Burks Turnover.
+Marshall,Florida Atlantic,19,9,6,52,0,Devorious Brown Steal.
+Marshall,Florida Atlantic,19,11,6,54,1,Devorious Brown made Layup.
+Marshall,Florida Atlantic,19,11,7,8,0,Jon Elmore missed Three Point Jumper.
+Marshall,Florida Atlantic,19,11,7,8,0,Frank Booker Defensive Rebound.
+Marshall,Florida Atlantic,19,11,7,17,0,Foul on Ajdin Penava.
+Marshall,Florida Atlantic,19,13,7,18,1,Justin Massey made Jumper. Assisted by Frank Booker.
+Marshall,Florida Atlantic,21,13,7,30,1,Ryan Taylor made Layup.
+Marshall,Florida Atlantic,21,13,7,41,0,Justin Massey missed Three Point Jumper.
+Marshall,Florida Atlantic,21,13,7,41,0,Christian Thieneman Defensive Rebound.
+Marshall,Florida Atlantic,21,13,7,54,0,Jon Elmore missed Jumper.
+Marshall,Florida Atlantic,21,13,7,54,0,Jeantal Cylla Defensive Rebound.
+Marshall,Florida Atlantic,21,13,8,2,0,Justin Massey missed Layup.
+Marshall,Florida Atlantic,21,13,8,2,0,Stevie Browning Defensive Rebound.
+Marshall,Florida Atlantic,23,13,8,14,1,Christian Thieneman made Layup.
+Marshall,Florida Atlantic,23,13,8,16,0,Florida Atlantic  Timeout
+Marshall,Florida Atlantic,23,13,8,28,0,William Pfister missed Jumper.
+Marshall,Florida Atlantic,23,13,8,28,0,William Pfister Offensive Rebound.
+Marshall,Florida Atlantic,23,13,8,34,0,Adonis Filer Turnover.
+Marshall,Florida Atlantic,23,13,8,37,0,Ryan Taylor Steal.
+Marshall,Florida Atlantic,23,13,8,54,0,Ryan Taylor missed Layup.
+Marshall,Florida Atlantic,23,13,8,54,0,William Pfister Defensive Rebound.
+Marshall,Florida Atlantic,23,15,9,2,1,Justin Massey made Layup.
+Marshall,Florida Atlantic,23,15,9,2,0,Foul on Christian Thieneman.
+Marshall,Florida Atlantic,23,16,9,2,1,Justin Massey made Free Throw.
+Marshall,Florida Atlantic,23,16,9,14,0,Foul on Ajdin Penava.
+Marshall,Florida Atlantic,23,16,9,14,0,Ajdin Penava Turnover.
+Marshall,Florida Atlantic,23,16,9,38,0,Devorious Brown missed Three Point Jumper.
+Marshall,Florida Atlantic,23,16,9,38,0,Christian Thieneman Defensive Rebound.
+Marshall,Florida Atlantic,23,16,9,48,0,Foul on Milan Mijovic.
+Marshall,Florida Atlantic,23,16,9,48,0,Milan Mijovic Turnover.
+Marshall,Florida Atlantic,23,16,9,48,0,Marcus Neely missed Jumper.
+Marshall,Florida Atlantic,23,16,9,48,0,Milan Mijovic Defensive Rebound.
+Marshall,Florida Atlantic,26,16,9,59,1,Ky're Allison made Three Point Jumper. Assisted by Stevie Browning.
+Marshall,Florida Atlantic,26,16,10,23,0,Jeantal Cylla missed Three Point Jumper.
+Marshall,Florida Atlantic,26,16,10,23,0,Milan Mijovic Defensive Rebound.
+Marshall,Florida Atlantic,26,16,10,56,0,Foul on Marcus Neely.
+Marshall,Florida Atlantic,26,16,10,57,0,Stevie Browning missed Three Point Jumper.
+Marshall,Florida Atlantic,26,16,10,57,0,Ronald Delph Defensive Rebound.
+Marshall,Florida Atlantic,26,16,11,12,0,Nick Rutherford Turnover.
+Marshall,Florida Atlantic,26,16,11,14,0,Christian Thieneman Steal.
+Marshall,Florida Atlantic,26,16,11,18,0,Foul on Jeantal Cylla.
+Marshall,Florida Atlantic,26,16,11,20,0,Foul on Marcus Neely.
+Marshall,Florida Atlantic,26,16,11,27,0,Ky're Allison missed Three Point Jumper.
+Marshall,Florida Atlantic,26,16,11,27,0,Florida Atlantic Defensive Rebound.
+Marshall,Florida Atlantic,26,16,11,40,0,Nick Rutherford missed Jumper.
+Marshall,Florida Atlantic,26,16,11,40,0,Stevie Browning Defensive Rebound.
+Marshall,Florida Atlantic,26,16,11,53,0,Foul on Ronald Delph.
+Marshall,Florida Atlantic,27,16,11,53,1,Milan Mijovic made Free Throw.
+Marshall,Florida Atlantic,27,16,11,53,0,Milan Mijovic missed Free Throw.
+Marshall,Florida Atlantic,27,16,11,53,0,Stevie Browning Offensive Rebound.
+Marshall,Florida Atlantic,29,16,12,3,1,C.J. Burks made Jumper.
+Marshall,Florida Atlantic,29,16,12,24,0,Ronald Delph Turnover.
+Marshall,Florida Atlantic,29,16,12,27,0,Milan Mijovic Steal.
+Marshall,Florida Atlantic,29,16,12,34,0,Ky're Allison missed Three Point Jumper.
+Marshall,Florida Atlantic,29,16,12,34,0,Ronald Delph Defensive Rebound.
+Marshall,Florida Atlantic,29,16,12,57,0,Foul on Gerdarius Troutman.
+Marshall,Florida Atlantic,29,16,12,57,0,Gerdarius Troutman Turnover.
+Marshall,Florida Atlantic,29,16,12,57,0,Official TV Timeout
+Marshall,Florida Atlantic,31,16,13,12,1,Ryan Taylor made Layup.
+Marshall,Florida Atlantic,31,16,13,38,0,Jailyn Ingram missed Layup.
+Marshall,Florida Atlantic,31,16,13,38,0,Milan Mijovic Defensive Rebound.
+Marshall,Florida Atlantic,31,16,14,4,0,Jon Elmore missed Jumper.
+Marshall,Florida Atlantic,31,16,14,4,0,Jailyn Ingram Defensive Rebound.
+Marshall,Florida Atlantic,31,16,14,11,0,Gerdarius Troutman missed Three Point Jumper.
+Marshall,Florida Atlantic,31,16,14,11,0,Marshall Defensive Rebound.
+Marshall,Florida Atlantic,31,16,14,31,0,Christian Thieneman missed Three Point Jumper.
+Marshall,Florida Atlantic,31,16,14,31,0,Justin Massey Defensive Rebound.
+Marshall,Florida Atlantic,31,16,14,50,0,Justin Massey missed Three Point Jumper.
+Marshall,Florida Atlantic,31,16,14,50,0,Christian Thieneman Defensive Rebound.
+Marshall,Florida Atlantic,33,16,15,2,1,Stevie Browning made Jumper.
+Marshall,Florida Atlantic,33,19,15,17,1,Gerdarius Troutman made Three Point Jumper. Assisted by Justin Massey.
+Marshall,Florida Atlantic,36,19,15,34,1,Christian Thieneman made Three Point Jumper. Assisted by Stevie Browning.
+Marshall,Florida Atlantic,36,19,15,51,0,Foul on Austin Loop.
+Marshall,Florida Atlantic,36,20,15,51,1,Jailyn Ingram made Free Throw.
+Marshall,Florida Atlantic,36,21,15,51,1,Jailyn Ingram made Free Throw.
+Marshall,Florida Atlantic,36,21,16,5,0,Ryan Taylor missed Layup.
+Marshall,Florida Atlantic,36,21,16,5,0,William Pfister Defensive Rebound.
+Marshall,Florida Atlantic,36,21,16,19,0,Foul on Christian Thieneman.
+Marshall,Florida Atlantic,36,21,16,19,0,Official TV Timeout
+Marshall,Florida Atlantic,36,22,16,19,1,Gerdarius Troutman made Free Throw.
+Marshall,Florida Atlantic,36,23,16,19,1,Gerdarius Troutman made Free Throw.
+Marshall,Florida Atlantic,36,23,16,31,0,Foul on William Pfister.
+Marshall,Florida Atlantic,36,23,16,31,0,C.J. Burks missed Free Throw.
+Marshall,Florida Atlantic,36,23,16,31,0,Marshall Deadball Team Rebound.
+Marshall,Florida Atlantic,36,23,16,31,0,C.J. Burks missed Free Throw.
+Marshall,Florida Atlantic,36,23,16,31,0,Justin Massey Defensive Rebound.
+Marshall,Florida Atlantic,36,25,16,49,1,Jailyn Ingram made Layup.
+Marshall,Florida Atlantic,36,25,17,1,0,Austin Loop missed Three Point Jumper.
+Marshall,Florida Atlantic,36,25,17,1,0,Gerdarius Troutman Defensive Rebound.
+Marshall,Florida Atlantic,36,25,17,8,0,Foul on C.J. Burks.
+Marshall,Florida Atlantic,36,26,17,8,1,Devorious Brown made Free Throw.
+Marshall,Florida Atlantic,36,26,17,8,0,Devorious Brown missed Free Throw.
+Marshall,Florida Atlantic,36,26,17,8,0,William Pfister Offensive Rebound.
+Marshall,Florida Atlantic,36,26,17,13,0,Gerdarius Troutman missed Three Point Jumper.
+Marshall,Florida Atlantic,36,26,17,13,0,Ryan Taylor Defensive Rebound.
+Marshall,Florida Atlantic,36,26,17,25,0,Foul on William Pfister.
+Marshall,Florida Atlantic,36,26,17,25,0,Ryan Taylor missed Free Throw.
+Marshall,Florida Atlantic,36,26,17,25,0,Marshall Deadball Team Rebound.
+Marshall,Florida Atlantic,36,26,17,25,0,Ryan Taylor missed Free Throw.
+Marshall,Florida Atlantic,36,26,17,25,0,William Pfister Defensive Rebound.
+Marshall,Florida Atlantic,36,26,17,39,0,William Pfister missed Jumper.
+Marshall,Florida Atlantic,36,26,17,39,0,Ryan Taylor Defensive Rebound.
+Marshall,Florida Atlantic,36,26,17,48,0,Foul on William Pfister.
+Marshall,Florida Atlantic,37,26,17,48,1,Ryan Taylor made Free Throw.
+Marshall,Florida Atlantic,38,26,17,48,1,Ryan Taylor made Free Throw.
+Marshall,Florida Atlantic,38,26,17,56,0,Foul on Austin Loop.
+Marshall,Florida Atlantic,38,27,17,56,1,Justin Massey made Free Throw.
+Marshall,Florida Atlantic,38,28,17,56,1,Justin Massey made Free Throw.
+Marshall,Florida Atlantic,41,28,18,5,1,Stevie Browning made Three Point Jumper.
+Marshall,Florida Atlantic,41,30,18,14,1,Devorious Brown made Layup.
+Marshall,Florida Atlantic,41,30,18,27,0,Stevie Browning missed Layup.
+Marshall,Florida Atlantic,41,30,18,27,0,Marcus Neely Block.
+Marshall,Florida Atlantic,41,30,18,27,0,Marshall Offensive Rebound.
+Marshall,Florida Atlantic,41,30,18,35,0,Jon Elmore missed Layup.
+Marshall,Florida Atlantic,41,30,18,35,0,Ryan Taylor Offensive Rebound.
+Marshall,Florida Atlantic,43,30,18,39,1,Ryan Taylor made Layup.
+Marshall,Florida Atlantic,43,30,18,47,0,Devorious Brown Turnover.
+Marshall,Florida Atlantic,43,30,18,47,0,Marshall  Timeout
+Marshall,Florida Atlantic,43,30,18,54,0,C.J. Burks missed Jumper.
+Marshall,Florida Atlantic,43,30,18,54,0,Devorious Brown Defensive Rebound.
+Marshall,Florida Atlantic,43,32,19,2,1,Justin Massey made Layup.
+Marshall,Florida Atlantic,43,32,19,16,0,Ryan Taylor missed Layup.
+Marshall,Florida Atlantic,43,32,19,16,0,Marcus Neely Defensive Rebound.
+Marshall,Florida Atlantic,43,34,19,26,1,Adonis Filer made Jumper.
+Marshall,Florida Atlantic,43,34,19,53,0,Stevie Browning missed Jumper.
+Marshall,Florida Atlantic,43,34,19,53,0,Stevie Browning Offensive Rebound.
+Marshall,Florida Atlantic,43,34,20,0,0,Stevie Browning missed Jumper.
+Marshall,Florida Atlantic,43,34,20,0,0,Marshall Offensive Rebound.
+Marshall,Florida Atlantic,43,34,20,0,0,End of 1st half
+Marshall,Florida Atlantic,45,34,20,33,1,Ajdin Penava made Layup. Assisted by Stevie Browning.
+Marshall,Florida Atlantic,45,36,20,33,1,Ronald Delph made Dunk.
+Marshall,Florida Atlantic,45,36,20,46,0,Ronald Delph missed Jumper.
+Marshall,Florida Atlantic,45,36,20,48,0,Ajdin Penava Defensive Rebound.
+Marshall,Florida Atlantic,45,36,21,2,0,Jon Elmore missed Layup.
+Marshall,Florida Atlantic,45,36,21,2,0,Jailyn Ingram Defensive Rebound.
+Marshall,Florida Atlantic,45,36,21,9,0,Foul on Jon Elmore.
+Marshall,Florida Atlantic,45,37,21,9,1,Nick Rutherford made Free Throw.
+Marshall,Florida Atlantic,45,38,21,9,1,Nick Rutherford made Free Throw.
+Marshall,Florida Atlantic,45,38,21,26,0,Stevie Browning missed Jumper.
+Marshall,Florida Atlantic,45,38,21,26,0,Ronald Delph Defensive Rebound.
+Marshall,Florida Atlantic,45,38,21,35,0,Adonis Filer missed Three Point Jumper.
+Marshall,Florida Atlantic,45,38,21,35,0,Marshall Defensive Rebound.
+Marshall,Florida Atlantic,47,38,21,44,1,Ryan Taylor made Jumper.
+Marshall,Florida Atlantic,47,38,22,3,0,Nick Rutherford missed Three Point Jumper.
+Marshall,Florida Atlantic,47,38,22,3,0,Ronald Delph Offensive Rebound.
+Marshall,Florida Atlantic,47,38,22,8,0,Ronald Delph missed Jumper.
+Marshall,Florida Atlantic,47,38,22,8,0,Ajdin Penava Defensive Rebound.
+Marshall,Florida Atlantic,50,38,22,17,1,Ryan Taylor made Three Point Jumper. Assisted by Jon Elmore.
+Marshall,Florida Atlantic,50,40,22,31,1,Jeantal Cylla made Layup.
+Marshall,Florida Atlantic,50,40,22,49,0,Foul on Jailyn Ingram.
+Marshall,Florida Atlantic,50,40,22,51,0,Jon Elmore missed Three Point Jumper.
+Marshall,Florida Atlantic,50,40,22,51,0,Adonis Filer Defensive Rebound.
+Marshall,Florida Atlantic,50,40,23,0,0,Adonis Filer missed Layup.
+Marshall,Florida Atlantic,50,40,23,0,0,Marshall Defensive Rebound.
+Marshall,Florida Atlantic,50,40,23,9,0,Foul on Jeantal Cylla.
+Marshall,Florida Atlantic,50,40,23,26,0,Ajdin Penava missed Jumper.
+Marshall,Florida Atlantic,50,40,23,26,0,Jeantal Cylla Defensive Rebound.
+Marshall,Florida Atlantic,50,40,23,34,0,Nick Rutherford missed Layup.
+Marshall,Florida Atlantic,50,40,23,34,0,Stevie Browning Defensive Rebound.
+Marshall,Florida Atlantic,50,40,23,41,0,Jon Elmore Turnover.
+Marshall,Florida Atlantic,50,40,23,42,0,Jailyn Ingram Steal.
+Marshall,Florida Atlantic,50,40,23,43,0,Foul on Ajdin Penava.
+Marshall,Florida Atlantic,50,40,23,47,0,Foul on Nick Rutherford.
+Marshall,Florida Atlantic,50,40,23,47,0,Nick Rutherford Turnover.
+Marshall,Florida Atlantic,53,40,23,53,1,Stevie Browning made Three Point Jumper.
+Marshall,Florida Atlantic,53,42,24,9,1,Ronald Delph made Jumper. Assisted by Adonis Filer.
+Marshall,Florida Atlantic,53,42,24,26,0,Ryan Taylor missed Layup.
+Marshall,Florida Atlantic,53,42,24,26,0,Ronald Delph Block.
+Marshall,Florida Atlantic,53,42,24,28,0,Adonis Filer Defensive Rebound.
+Marshall,Florida Atlantic,53,42,24,29,0,Foul on Christian Thieneman.
+Marshall,Florida Atlantic,53,42,24,29,0,Official TV Timeout
+Marshall,Florida Atlantic,53,42,24,40,0,Jailyn Ingram missed Dunk.
+Marshall,Florida Atlantic,53,42,24,40,0,Ryan Taylor Defensive Rebound.
+Marshall,Florida Atlantic,53,42,24,44,0,Ryan Taylor Turnover.
+Marshall,Florida Atlantic,53,42,24,54,0,Jeantal Cylla Steal.
+Marshall,Florida Atlantic,53,44,24,57,1,Adonis Filer made Layup.
+Marshall,Florida Atlantic,53,44,24,57,0,Foul on Ryan Taylor.
+Marshall,Florida Atlantic,53,44,24,57,0,Adonis Filer missed Free Throw.
+Marshall,Florida Atlantic,53,44,24,57,0,Christian Thieneman Defensive Rebound.
+Marshall,Florida Atlantic,53,44,25,14,0,Foul on Jeantal Cylla.
+Marshall,Florida Atlantic,56,44,25,18,1,Christian Thieneman made Three Point Jumper. Assisted by Stevie Browning.
+Marshall,Florida Atlantic,56,44,25,40,0,Marcus Neely Turnover.
+Marshall,Florida Atlantic,58,44,26,1,1,Ryan Taylor made Layup. Assisted by Christian Thieneman.
+Marshall,Florida Atlantic,58,47,26,11,1,Gerdarius Troutman made Three Point Jumper. Assisted by Devorious Brown.
+Marshall,Florida Atlantic,58,47,26,25,0,Stevie Browning missed Jumper.
+Marshall,Florida Atlantic,58,47,26,25,0,Gerdarius Troutman Block.
+Marshall,Florida Atlantic,58,47,26,27,0,Marcus Neely Defensive Rebound.
+Marshall,Florida Atlantic,58,47,26,32,0,Gerdarius Troutman missed Three Point Jumper.
+Marshall,Florida Atlantic,58,47,26,32,0,Jon Elmore Defensive Rebound.
+Marshall,Florida Atlantic,58,47,26,37,0,Jon Elmore Turnover.
+Marshall,Florida Atlantic,58,47,26,38,0,Marcus Neely Steal.
+Marshall,Florida Atlantic,58,47,26,57,0,Justin Massey missed Jumper.
+Marshall,Florida Atlantic,58,47,26,57,0,Christian Thieneman Defensive Rebound.
+Marshall,Florida Atlantic,58,47,27,5,0,Foul on William Pfister.
+Marshall,Florida Atlantic,60,47,27,8,1,Ryan Taylor made Layup.
+Marshall,Florida Atlantic,60,49,27,23,1,Devorious Brown made Layup.
+Marshall,Florida Atlantic,60,49,27,37,0,Ryan Taylor Turnover.
+Marshall,Florida Atlantic,60,49,27,38,0,Justin Massey Steal.
+Marshall,Florida Atlantic,60,49,27,39,0,Devorious Brown Turnover.
+Marshall,Florida Atlantic,60,49,27,50,0,Ryan Taylor missed Layup.
+Marshall,Florida Atlantic,60,49,27,50,0,Ryan Taylor Offensive Rebound.
+Marshall,Florida Atlantic,62,49,27,54,1,Ryan Taylor made Layup.
+Marshall,Florida Atlantic,62,49,28,4,0,Nick Rutherford missed Jumper.
+Marshall,Florida Atlantic,62,49,28,4,0,Christian Thieneman Defensive Rebound.
+Marshall,Florida Atlantic,62,49,28,16,0,Jon Elmore missed Layup.
+Marshall,Florida Atlantic,62,49,28,16,0,Ryan Taylor Offensive Rebound.
+Marshall,Florida Atlantic,64,49,28,20,1,Ryan Taylor made Layup.
+Marshall,Florida Atlantic,64,49,28,23,0,Florida Atlantic  Timeout
+Marshall,Florida Atlantic,64,49,28,45,0,Foul on Ky're Allison.
+Marshall,Florida Atlantic,64,49,28,45,0,Official TV Timeout
+Marshall,Florida Atlantic,64,50,28,45,1,Nick Rutherford made Free Throw.
+Marshall,Florida Atlantic,64,50,28,45,0,Nick Rutherford missed Free Throw.
+Marshall,Florida Atlantic,64,50,28,45,0,Ryan Taylor Defensive Rebound.
+Marshall,Florida Atlantic,64,50,29,7,0,Foul on Ronald Delph.
+Marshall,Florida Atlantic,64,50,29,13,0,Christian Thieneman missed Three Point Jumper.
+Marshall,Florida Atlantic,64,50,29,13,0,Devorious Brown Defensive Rebound.
+Marshall,Florida Atlantic,64,50,29,32,0,Justin Massey missed Three Point Jumper.
+Marshall,Florida Atlantic,64,50,29,32,0,C.J. Burks Defensive Rebound.
+Marshall,Florida Atlantic,64,50,29,40,0,Christian Thieneman missed Layup.
+Marshall,Florida Atlantic,64,50,29,40,0,Christian Thieneman Offensive Rebound.
+Marshall,Florida Atlantic,66,50,29,42,1,Christian Thieneman made Layup.
+Marshall,Florida Atlantic,66,50,30,4,0,Nick Rutherford missed Jumper.
+Marshall,Florida Atlantic,66,50,30,4,0,Nick Rutherford Offensive Rebound.
+Marshall,Florida Atlantic,66,50,30,4,0,Foul on Ky're Allison.
+Marshall,Florida Atlantic,66,51,30,4,1,Nick Rutherford made Free Throw.
+Marshall,Florida Atlantic,66,52,30,4,1,Nick Rutherford made Free Throw.
+Marshall,Florida Atlantic,66,52,30,11,0,C.J. Burks missed Layup.
+Marshall,Florida Atlantic,66,52,30,11,0,Ryan Taylor Offensive Rebound.
+Marshall,Florida Atlantic,66,52,30,13,0,Foul on Nick Rutherford.
+Marshall,Florida Atlantic,67,52,30,13,1,Ryan Taylor made Free Throw.
+Marshall,Florida Atlantic,68,52,30,13,1,Ryan Taylor made Free Throw.
+Marshall,Florida Atlantic,68,52,30,22,0,Foul on Ky're Allison.
+Marshall,Florida Atlantic,68,53,30,22,1,Adonis Filer made Free Throw.
+Marshall,Florida Atlantic,68,53,30,22,0,Adonis Filer missed Free Throw.
+Marshall,Florida Atlantic,68,53,30,22,0,Ryan Taylor Defensive Rebound.
+Marshall,Florida Atlantic,68,53,30,33,0,Ky're Allison Turnover.
+Marshall,Florida Atlantic,68,53,30,42,0,Devorious Brown missed Jumper.
+Marshall,Florida Atlantic,68,53,30,42,0,Ky're Allison Defensive Rebound.
+Marshall,Florida Atlantic,70,53,30,54,1,Ryan Taylor made Layup.
+Marshall,Florida Atlantic,70,53,31,17,0,Devorious Brown missed Jumper.
+Marshall,Florida Atlantic,70,53,31,17,0,Ryan Taylor Defensive Rebound.
+Marshall,Florida Atlantic,70,53,31,33,0,C.J. Burks missed Three Point Jumper.
+Marshall,Florida Atlantic,70,53,31,33,0,Adonis Filer Defensive Rebound.
+Marshall,Florida Atlantic,70,55,31,41,1,Devorious Brown made Layup. Assisted by Adonis Filer.
+Marshall,Florida Atlantic,70,55,31,41,0,Foul on Ajdin Penava.
+Marshall,Florida Atlantic,70,56,31,41,1,Devorious Brown made Free Throw.
+Marshall,Florida Atlantic,73,56,31,48,1,Austin Loop made Three Point Jumper. Assisted by Stevie Browning.
+Marshall,Florida Atlantic,73,56,32,8,0,Adonis Filer missed Jumper.
+Marshall,Florida Atlantic,73,56,32,8,0,Marcus Neely Offensive Rebound.
+Marshall,Florida Atlantic,73,56,32,11,0,Marcus Neely missed Layup.
+Marshall,Florida Atlantic,73,56,32,11,0,Ryan Taylor Defensive Rebound.
+Marshall,Florida Atlantic,73,56,32,17,0,Official TV Timeout
+Marshall,Florida Atlantic,76,56,32,20,1,Stevie Browning made Three Point Jumper.
+Marshall,Florida Atlantic,76,56,32,44,0,Jailyn Ingram missed Jumper.
+Marshall,Florida Atlantic,76,56,32,44,0,Ronald Delph Offensive Rebound.
+Marshall,Florida Atlantic,76,58,32,47,1,Ronald Delph made Layup.
+Marshall,Florida Atlantic,76,58,32,57,0,Foul on Adonis Filer.
+Marshall,Florida Atlantic,77,58,32,57,1,Jon Elmore made Free Throw.
+Marshall,Florida Atlantic,78,58,32,57,1,Jon Elmore made Free Throw.
+Marshall,Florida Atlantic,78,58,33,22,0,Adonis Filer missed Layup.
+Marshall,Florida Atlantic,78,58,33,22,0,Adonis Filer Offensive Rebound.
+Marshall,Florida Atlantic,78,58,33,24,0,Adonis Filer missed Layup.
+Marshall,Florida Atlantic,78,58,33,24,0,- Team Offensive Rebound.
+Marshall,Florida Atlantic,78,58,33,38,0,Nick Rutherford missed Jumper.
+Marshall,Florida Atlantic,78,58,33,38,0,Ajdin Penava Block.
+Marshall,Florida Atlantic,78,58,33,39,0,Stevie Browning Defensive Rebound.
+Marshall,Florida Atlantic,78,58,33,42,0,Foul on Adonis Filer.
+Marshall,Florida Atlantic,79,58,33,42,1,Jon Elmore made Free Throw.
+Marshall,Florida Atlantic,79,58,33,42,0,Jon Elmore missed Free Throw.
+Marshall,Florida Atlantic,79,58,33,42,0,Florida Atlantic Defensive Rebound.
+Marshall,Florida Atlantic,79,58,33,51,0,Foul on Ajdin Penava.
+Marshall,Florida Atlantic,79,58,33,51,0,Ronald Delph missed Free Throw.
+Marshall,Florida Atlantic,79,58,33,51,0,Ryan Taylor Defensive Rebound.
+Marshall,Florida Atlantic,79,58,34,5,0,Ryan Taylor missed Layup.
+Marshall,Florida Atlantic,79,58,34,5,0,Jeantal Cylla Defensive Rebound.
+Marshall,Florida Atlantic,79,58,34,14,0,Jailyn Ingram Turnover.
+Marshall,Florida Atlantic,81,58,34,26,1,C.J. Burks made Layup. Assisted by Ryan Taylor.
+Marshall,Florida Atlantic,81,58,34,46,0,Jeantal Cylla missed Layup.
+Marshall,Florida Atlantic,81,58,34,46,0,Ryan Taylor Block.
+Marshall,Florida Atlantic,81,58,34,48,0,Jon Elmore Defensive Rebound.
+Marshall,Florida Atlantic,81,58,34,52,0,Jon Elmore missed Three Point Jumper.
+Marshall,Florida Atlantic,81,58,34,52,0,Devorious Brown Defensive Rebound.
+Marshall,Florida Atlantic,81,58,34,59,0,Florida Atlantic  Timeout
+Marshall,Florida Atlantic,81,60,35,11,1,Justin Massey made Layup.
+Marshall,Florida Atlantic,81,60,35,24,0,C.J. Burks Turnover.
+Marshall,Florida Atlantic,81,60,35,27,0,Justin Massey Steal.
+Marshall,Florida Atlantic,81,60,35,31,0,Nick Rutherford Turnover.
+Marshall,Florida Atlantic,81,60,35,33,0,Jon Elmore Steal.
+Marshall,Florida Atlantic,81,60,36,1,0,Foul on William Pfister.
+Marshall,Florida Atlantic,81,60,36,1,0,Ryan Taylor missed Free Throw.
+Marshall,Florida Atlantic,81,60,36,1,0,Marshall Deadball Team Rebound.
+Marshall,Florida Atlantic,81,60,36,1,0,Ryan Taylor missed Free Throw.
+Marshall,Florida Atlantic,81,60,36,1,0,Justin Massey Defensive Rebound.
+Marshall,Florida Atlantic,81,60,36,22,0,Devorious Brown missed Layup.
+Marshall,Florida Atlantic,81,60,36,22,0,Marcus Neely Offensive Rebound.
+Marshall,Florida Atlantic,81,62,36,27,1,Nick Rutherford made Layup. Assisted by Devorious Brown.
+Marshall,Florida Atlantic,83,62,36,51,1,Ryan Taylor made Layup.
+Marshall,Florida Atlantic,83,62,37,2,0,Nick Rutherford missed Layup.
+Marshall,Florida Atlantic,83,62,37,2,0,Stevie Browning Defensive Rebound.
+Marshall,Florida Atlantic,83,62,37,26,0,Foul on Marcus Neely.
+Marshall,Florida Atlantic,83,62,37,26,0,Ryan Taylor missed Free Throw.
+Marshall,Florida Atlantic,83,62,37,26,0,Marshall Deadball Team Rebound.
+Marshall,Florida Atlantic,83,62,37,26,0,Ryan Taylor missed Free Throw.
+Marshall,Florida Atlantic,83,62,37,26,0,Marcus Neely Defensive Rebound.
+Marshall,Florida Atlantic,83,64,37,39,1,Gerdarius Troutman made Jumper.
+Marshall,Florida Atlantic,83,64,37,46,0,Devorious Brown Steal.
+Marshall,Florida Atlantic,83,66,37,47,1,Devorious Brown made Layup.
+Marshall,Florida Atlantic,85,66,37,54,1,Ryan Taylor made Layup. Assisted by Ky're Allison.
+Marshall,Florida Atlantic,85,66,38,6,0,Technical Foul on Ryan Taylor.
+Marshall,Florida Atlantic,85,66,38,6,0,Technical Foul on Marcus Neely.
+Marshall,Florida Atlantic,85,67,38,6,1,Marcus Neely made Free Throw.
+Marshall,Florida Atlantic,85,67,38,6,0,Marcus Neely missed Free Throw.
+Marshall,Florida Atlantic,85,67,38,6,0,Phil Bledsoe Defensive Rebound.
+Marshall,Florida Atlantic,85,66,38,6,0,Foul on Ryan Taylor.
+Marshall,Florida Atlantic,87,67,38,13,1,Ky're Allison made Layup.
+Marshall,Florida Atlantic,87,67,38,23,0,Justin Massey Turnover.
+Marshall,Florida Atlantic,87,67,38,24,0,Phil Bledsoe Steal.
+Marshall,Florida Atlantic,87,67,38,32,0,Ky're Allison missed Three Point Jumper.
+Marshall,Florida Atlantic,87,67,38,32,0,Justin Massey Defensive Rebound.
+Marshall,Florida Atlantic,87,67,38,39,0,Gerdarius Troutman missed Three Point Jumper.
+Marshall,Florida Atlantic,87,67,38,39,0,Devorious Brown Offensive Rebound.
+Marshall,Florida Atlantic,87,70,38,47,1,Justin Massey made Three Point Jumper. Assisted by Devorious Brown.
+Marshall,Florida Atlantic,87,70,39,19,0,Ky're Allison missed Three Point Jumper.
+Marshall,Florida Atlantic,87,70,39,19,0,Ky're Allison Offensive Rebound.
+Marshall,Florida Atlantic,89,70,39,26,1,Milan Mijovic made Layup. Assisted by Ky're Allison.
+Marshall,Florida Atlantic,89,70,39,35,0,Nick Rutherford missed Layup.
+Marshall,Florida Atlantic,89,70,39,35,0,Devorious Brown Offensive Rebound.
+Marshall,Florida Atlantic,89,70,39,38,0,Devorious Brown missed Jumper.
+Marshall,Florida Atlantic,89,70,39,38,0,Devorious Brown Offensive Rebound.
+Marshall,Florida Atlantic,89,70,39,44,0,Nick Rutherford missed Three Point Jumper.
+Marshall,Florida Atlantic,89,70,39,44,0,Justin Massey Offensive Rebound.
+Marshall,Florida Atlantic,89,72,39,48,1,Justin Massey made Layup.
+Marshall,Florida Atlantic,89,72,40,0,0,End of Game

@@ -1,0 +1,413 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Hampton,Morgan State,0,0,0,0,0,Jump Ball won by Morgan St
+Hampton,Morgan State,0,0,0,24,0,Cedric Blossom missed Jumper.
+Hampton,Morgan State,0,0,0,24,0,Ke'Ron Brown Defensive Rebound.
+Hampton,Morgan State,2,0,0,55,1,Deron Powers made Jumper.
+Hampton,Morgan State,2,0,1,12,0,Blake Bozeman Turnover.
+Hampton,Morgan State,2,0,1,18,0,Du'Vaughn Maxwell missed Jumper.
+Hampton,Morgan State,2,0,1,18,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,2,0,1,22,0,Foul on Ke'Ron Brown.
+Hampton,Morgan State,2,0,1,31,0,Foul on Jervon Pressley.
+Hampton,Morgan State,2,0,1,31,0,Justin Black missed Free Throw.
+Hampton,Morgan State,2,0,1,31,0,Morgan St Deadball Team Rebound.
+Hampton,Morgan State,2,1,1,31,1,Justin Black made Free Throw.
+Hampton,Morgan State,2,1,1,36,0,Deron Powers Turnover.
+Hampton,Morgan State,2,1,1,36,0,Justin Black Steal.
+Hampton,Morgan State,2,1,1,41,0,Justin Black missed Layup.
+Hampton,Morgan State,2,1,1,41,0,Ke'Ron Brown Defensive Rebound.
+Hampton,Morgan State,2,1,1,51,0,Ke'Ron Brown missed Layup.
+Hampton,Morgan State,2,1,1,51,0,Du'Vaughn Maxwell Offensive Rebound.
+Hampton,Morgan State,4,1,1,51,1,Du'Vaughn Maxwell made Two Point Tip Shot.
+Hampton,Morgan State,4,1,1,51,0,Foul on Cedric Blossom.
+Hampton,Morgan State,5,1,1,51,1,Du'Vaughn Maxwell made Free Throw.
+Hampton,Morgan State,5,3,2,15,1,Justin Black made Dunk.
+Hampton,Morgan State,8,3,2,53,1,Du'Vaughn Maxwell made Three Point Jumper. Assisted by Brian Darden.
+Hampton,Morgan State,8,3,3,11,0,Ian Chiles missed Jumper.
+Hampton,Morgan State,8,3,3,11,0,Du'Vaughn Maxwell Block.
+Hampton,Morgan State,8,3,3,11,0,Cedric Blossom Offensive Rebound.
+Hampton,Morgan State,8,3,3,20,0,Cedric Blossom missed Jumper.
+Hampton,Morgan State,8,3,3,20,0,Ke'Ron Brown Defensive Rebound.
+Hampton,Morgan State,8,3,3,24,0,Foul on Anthony Hubbard.
+Hampton,Morgan State,8,3,3,24,0,Deron Powers missed Free Throw.
+Hampton,Morgan State,8,3,3,24,0,Hampton Deadball Team Rebound.
+Hampton,Morgan State,9,3,3,24,1,Deron Powers made Free Throw.
+Hampton,Morgan State,9,3,3,42,0,Cedric Blossom missed Jumper.
+Hampton,Morgan State,9,3,3,42,0,Justin Black Offensive Rebound.
+Hampton,Morgan State,9,6,3,48,1,Blake Bozeman made Three Point Jumper. Assisted by Cedric Blossom.
+Hampton,Morgan State,12,6,4,3,1,Brian Darden made Three Point Jumper. Assisted by Du'Vaughn Maxwell.
+Hampton,Morgan State,12,6,4,22,0,Ian Chiles missed Jumper.
+Hampton,Morgan State,12,6,4,22,0,Anthony Hubbard Offensive Rebound.
+Hampton,Morgan State,12,8,4,22,1,Anthony Hubbard made Two Point Tip Shot.
+Hampton,Morgan State,12,8,4,39,0,Foul on Du'Vaughn Maxwell.
+Hampton,Morgan State,12,8,4,39,0,Du'Vaughn Maxwell Turnover.
+Hampton,Morgan State,12,8,4,39,0,Official TV Timeout
+Hampton,Morgan State,12,8,4,49,0,Ian Chiles missed Jumper.
+Hampton,Morgan State,12,8,4,49,0,Anthony Hubbard Offensive Rebound.
+Hampton,Morgan State,12,10,4,55,1,Anthony Hubbard made Jumper.
+Hampton,Morgan State,12,10,4,55,0,Foul on Ke'Ron Brown.
+Hampton,Morgan State,12,11,4,55,1,Anthony Hubbard made Free Throw.
+Hampton,Morgan State,12,11,5,14,0,Deron Powers Turnover.
+Hampton,Morgan State,12,11,5,32,0,Justin Black missed Three Point Jumper.
+Hampton,Morgan State,12,11,5,32,0,Hampton Defensive Rebound.
+Hampton,Morgan State,12,11,5,56,0,Dwight Meikle missed Three Point Jumper.
+Hampton,Morgan State,12,11,5,56,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,12,13,6,6,1,Shaquille Duncan made Layup. Assisted by Anthony Hubbard.
+Hampton,Morgan State,15,13,6,17,1,Ramon Mercado made Three Point Jumper. Assisted by Breon Key.
+Hampton,Morgan State,15,13,6,26,0,Kyle Thomas missed Three Point Jumper.
+Hampton,Morgan State,15,13,6,26,0,Dwight Meikle Defensive Rebound.
+Hampton,Morgan State,15,13,6,47,0,Emmanuel Okoroba missed Layup.
+Hampton,Morgan State,15,13,6,47,0,Emmanuel Okoroba Offensive Rebound.
+Hampton,Morgan State,15,13,6,50,0,Foul on Shaquille Duncan.
+Hampton,Morgan State,16,13,6,50,1,Emmanuel Okoroba made Free Throw.
+Hampton,Morgan State,16,13,6,50,0,Emmanuel Okoroba missed Free Throw.
+Hampton,Morgan State,16,13,6,50,0,Dwight Meikle Offensive Rebound.
+Hampton,Morgan State,18,13,6,54,1,Dwight Meikle made Layup.
+Hampton,Morgan State,18,13,7,3,0,Shaquille Duncan missed Jumper.
+Hampton,Morgan State,18,13,7,3,0,Anthony Hubbard Offensive Rebound.
+Hampton,Morgan State,18,13,7,8,0,Foul on Breon Key.
+Hampton,Morgan State,18,13,7,8,0,Anthony Hubbard missed Free Throw.
+Hampton,Morgan State,18,13,7,8,0,Morgan St Deadball Team Rebound.
+Hampton,Morgan State,18,14,7,8,1,Anthony Hubbard made Free Throw.
+Hampton,Morgan State,18,14,7,26,0,Foul on Ian Chiles.
+Hampton,Morgan State,18,14,7,34,0,Emmanuel Okoroba missed Layup.
+Hampton,Morgan State,18,14,7,34,0,Ian Chiles Block.
+Hampton,Morgan State,18,14,7,34,0,Emmanuel Okoroba Offensive Rebound.
+Hampton,Morgan State,20,14,7,41,1,Dwight Meikle made Jumper. Assisted by Emmanuel Okoroba.
+Hampton,Morgan State,20,14,7,53,0,Foul on Breon Key.
+Hampton,Morgan State,20,14,8,2,0,Foul on Emmanuel Okoroba.
+Hampton,Morgan State,20,14,8,2,0,Official TV Timeout
+Hampton,Morgan State,20,14,8,2,0,Ian Chiles missed Free Throw.
+Hampton,Morgan State,20,14,8,2,0,Dwight Meikle Defensive Rebound.
+Hampton,Morgan State,20,14,8,16,0,Emmanuel Okoroba missed Layup.
+Hampton,Morgan State,20,14,8,16,0,Ian Chiles Defensive Rebound.
+Hampton,Morgan State,20,14,8,50,0,Foul on Shaquille Duncan.
+Hampton,Morgan State,20,14,8,50,0,Shaquille Duncan Turnover.
+Hampton,Morgan State,20,14,9,6,0,Foul on Cedric Blossom.
+Hampton,Morgan State,21,14,9,6,1,Lawrence Cooks made Free Throw.
+Hampton,Morgan State,22,14,9,6,1,Lawrence Cooks made Free Throw.
+Hampton,Morgan State,22,14,9,14,0,Donte Pretlow missed Three Point Jumper.
+Hampton,Morgan State,22,14,9,14,0,Ian Chiles Offensive Rebound.
+Hampton,Morgan State,22,14,9,18,0,Foul on Jervon Pressley.
+Hampton,Morgan State,22,14,9,18,0,Ian Chiles missed Free Throw.
+Hampton,Morgan State,22,14,9,18,0,Du'Vaughn Maxwell Defensive Rebound.
+Hampton,Morgan State,22,14,9,26,0,Lawrence Cooks missed Layup.
+Hampton,Morgan State,22,14,9,26,0,Ian Chiles Block.
+Hampton,Morgan State,22,14,9,26,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,22,14,9,37,0,Foul on Dwight Meikle.
+Hampton,Morgan State,22,14,9,37,0,Ian Chiles missed Free Throw.
+Hampton,Morgan State,22,14,9,37,0,Ramon Mercado Defensive Rebound.
+Hampton,Morgan State,22,14,9,51,0,Emmanuel Okoroba missed Layup.
+Hampton,Morgan State,22,14,9,51,0,Emmanuel Okoroba Offensive Rebound.
+Hampton,Morgan State,22,14,9,54,0,Foul on Ian Chiles.
+Hampton,Morgan State,22,14,9,54,0,Emmanuel Okoroba missed Free Throw.
+Hampton,Morgan State,22,14,9,54,0,Hampton Deadball Team Rebound.
+Hampton,Morgan State,22,14,9,54,0,Emmanuel Okoroba missed Free Throw.
+Hampton,Morgan State,22,14,9,54,0,Hampton Offensive Rebound.
+Hampton,Morgan State,22,14,9,56,0,Foul on Justin Black.
+Hampton,Morgan State,22,14,9,56,0,Emmanuel Okoroba missed Free Throw.
+Hampton,Morgan State,22,14,9,56,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,22,14,10,23,0,Blake Bozeman missed Three Point Jumper.
+Hampton,Morgan State,22,14,10,23,0,Hampton Defensive Rebound.
+Hampton,Morgan State,22,14,10,48,0,Foul on Justin Black.
+Hampton,Morgan State,23,14,10,48,1,Emmanuel Okoroba made Free Throw.
+Hampton,Morgan State,24,14,10,48,1,Emmanuel Okoroba made Free Throw.
+Hampton,Morgan State,24,14,10,56,0,Blake Bozeman Turnover.
+Hampton,Morgan State,24,14,10,56,0,Brian Darden Steal.
+Hampton,Morgan State,24,14,10,57,0,Foul on Blake Bozeman.
+Hampton,Morgan State,25,14,10,57,1,Breon Key made Free Throw.
+Hampton,Morgan State,26,14,10,57,1,Breon Key made Free Throw.
+Hampton,Morgan State,26,14,11,5,0,Anthony Hubbard Turnover.
+Hampton,Morgan State,26,14,11,5,0,Breon Key Steal.
+Hampton,Morgan State,28,14,11,26,1,Deron Powers made Layup.
+Hampton,Morgan State,28,14,11,33,0,Anthony Hubbard Turnover.
+Hampton,Morgan State,28,14,11,33,0,Brian Darden Steal.
+Hampton,Morgan State,28,14,11,33,0,Brian Darden missed Jumper.
+Hampton,Morgan State,28,14,11,33,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,28,16,12,0,1,Anthony Hubbard made Jumper. Assisted by Donte Pretlow.
+Hampton,Morgan State,28,16,12,11,0,Du'Vaughn Maxwell missed Jumper.
+Hampton,Morgan State,28,16,12,11,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,28,18,12,17,1,Donte Pretlow made Layup.
+Hampton,Morgan State,30,18,12,52,1,Deron Powers made Layup.
+Hampton,Morgan State,30,18,13,5,0,Anthony Hubbard missed Jumper.
+Hampton,Morgan State,30,18,13,5,0,Hampton Defensive Rebound.
+Hampton,Morgan State,30,18,13,9,0,Official TV Timeout
+Hampton,Morgan State,30,18,13,19,0,Foul on Brian Darden.
+Hampton,Morgan State,30,18,13,19,0,Brian Darden Turnover.
+Hampton,Morgan State,30,18,13,30,0,Torin Childs-Harris missed Three Point Jumper.
+Hampton,Morgan State,30,18,13,30,0,Ramon Mercado Defensive Rebound.
+Hampton,Morgan State,30,18,13,45,0,Deron Powers missed Three Point Jumper.
+Hampton,Morgan State,30,18,13,45,0,Du'Vaughn Maxwell Offensive Rebound.
+Hampton,Morgan State,32,18,13,45,1,Du'Vaughn Maxwell made Two Point Tip Shot.
+Hampton,Morgan State,32,20,14,0,1,Shaquille Duncan made Jumper.
+Hampton,Morgan State,32,20,14,19,0,Du'Vaughn Maxwell missed Jumper.
+Hampton,Morgan State,32,20,14,19,0,Dionte Adams Offensive Rebound.
+Hampton,Morgan State,32,20,14,24,0,Dionte Adams missed Layup.
+Hampton,Morgan State,32,20,14,24,0,Shaquille Duncan Defensive Rebound.
+Hampton,Morgan State,32,22,14,32,1,Anthony Hubbard made Layup.
+Hampton,Morgan State,32,22,14,32,0,Foul on Ramon Mercado.
+Hampton,Morgan State,32,22,14,32,0,Anthony Hubbard missed Free Throw.
+Hampton,Morgan State,32,22,14,32,0,Du'Vaughn Maxwell Defensive Rebound.
+Hampton,Morgan State,34,22,14,50,1,Emmanuel Okoroba made Layup.
+Hampton,Morgan State,34,22,15,12,0,Shaquille Duncan Turnover.
+Hampton,Morgan State,34,22,15,23,0,Brian Darden missed Three Point Jumper.
+Hampton,Morgan State,34,22,15,23,0,Emmanuel Okoroba Offensive Rebound.
+Hampton,Morgan State,34,22,15,27,0,Emmanuel Okoroba missed Layup.
+Hampton,Morgan State,34,22,15,27,0,Morgan St Defensive Rebound.
+Hampton,Morgan State,34,22,15,29,0,Foul on Emmanuel Okoroba.
+Hampton,Morgan State,34,22,15,29,0,Cedric Blossom missed Free Throw.
+Hampton,Morgan State,34,22,15,29,0,Morgan St Deadball Team Rebound.
+Hampton,Morgan State,34,22,15,29,0,Cedric Blossom missed Free Throw.
+Hampton,Morgan State,34,22,15,29,0,Du'Vaughn Maxwell Defensive Rebound.
+Hampton,Morgan State,34,22,15,41,0,Lawrence Cooks missed Three Point Jumper.
+Hampton,Morgan State,34,22,15,41,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,34,22,16,8,0,Foul on Dionte Adams.
+Hampton,Morgan State,34,22,16,8,0,Official TV Timeout
+Hampton,Morgan State,34,23,16,8,1,Donte Pretlow made Free Throw.
+Hampton,Morgan State,34,23,16,8,0,Donte Pretlow missed Free Throw.
+Hampton,Morgan State,34,23,16,8,0,Dionte Adams Defensive Rebound.
+Hampton,Morgan State,36,23,16,30,1,Du'Vaughn Maxwell made Jumper.
+Hampton,Morgan State,36,23,16,43,0,Anthony Hubbard missed Layup.
+Hampton,Morgan State,36,23,16,43,0,Ramon Mercado Block.
+Hampton,Morgan State,36,23,16,43,0,Morgan St Offensive Rebound.
+Hampton,Morgan State,36,26,17,2,1,Donte Pretlow made Three Point Jumper.
+Hampton,Morgan State,36,26,17,26,0,Foul on Breon Key.
+Hampton,Morgan State,36,26,17,26,0,Breon Key Turnover.
+Hampton,Morgan State,36,26,17,26,0,Morgan St  Timeout
+Hampton,Morgan State,36,26,17,48,0,Donte Pretlow Turnover.
+Hampton,Morgan State,36,26,17,48,0,Du'Vaughn Maxwell Steal.
+Hampton,Morgan State,36,26,18,17,0,Foul on Cedric Blossom.
+Hampton,Morgan State,36,26,18,17,0,Du'Vaughn Maxwell missed Free Throw.
+Hampton,Morgan State,36,26,18,17,0,Hampton Deadball Team Rebound.
+Hampton,Morgan State,36,26,18,17,0,Du'Vaughn Maxwell missed Free Throw.
+Hampton,Morgan State,36,26,18,17,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,36,26,18,37,0,Foul on Dionte Adams.
+Hampton,Morgan State,36,26,18,37,0,Anthony Hubbard missed Free Throw.
+Hampton,Morgan State,36,26,18,37,0,Morgan St Deadball Team Rebound.
+Hampton,Morgan State,36,26,18,37,0,Anthony Hubbard missed Free Throw.
+Hampton,Morgan State,36,26,18,37,0,Dionte Adams Defensive Rebound.
+Hampton,Morgan State,36,26,18,54,0,Miles Jackson missed Layup.
+Hampton,Morgan State,36,26,18,54,0,Morgan St Defensive Rebound.
+Hampton,Morgan State,36,26,19,1,0,Rasean Simpson missed Layup.
+Hampton,Morgan State,36,26,19,1,0,Morgan St Offensive Rebound.
+Hampton,Morgan State,36,26,19,11,0,Foul on Lawrence Cooks.
+Hampton,Morgan State,36,26,19,11,0,Donte Pretlow missed Free Throw.
+Hampton,Morgan State,36,26,19,11,0,Morgan St Deadball Team Rebound.
+Hampton,Morgan State,36,27,19,11,1,Donte Pretlow made Free Throw.
+Hampton,Morgan State,36,27,19,18,0,Hampton  Timeout
+Hampton,Morgan State,36,27,19,38,0,Foul on Dwight Meikle.
+Hampton,Morgan State,36,27,19,38,0,Deron Powers Turnover.
+Hampton,Morgan State,36,27,19,57,0,Kyle Thomas missed Three Point Jumper.
+Hampton,Morgan State,36,27,19,57,0,Anthony Hubbard Offensive Rebound.
+Hampton,Morgan State,36,29,19,59,1,Anthony Hubbard made Jumper.
+Hampton,Morgan State,36,29,20,0,0,End of 1st half
+Hampton,Morgan State,36,29,20,0,0,Jump Ball won by Hampton
+Hampton,Morgan State,36,29,20,23,0,Deron Powers Turnover.
+Hampton,Morgan State,36,29,20,23,0,Blake Bozeman Steal.
+Hampton,Morgan State,36,29,20,23,0,Foul on Jervon Pressley.
+Hampton,Morgan State,36,29,20,32,0,Ian Chiles missed Jumper.
+Hampton,Morgan State,36,29,20,32,0,Ke'Ron Brown Defensive Rebound.
+Hampton,Morgan State,36,29,20,48,0,Deron Powers Turnover.
+Hampton,Morgan State,36,29,20,48,0,Anthony Hubbard Steal.
+Hampton,Morgan State,36,29,20,52,0,Jump Ball won by Morgan St
+Hampton,Morgan State,36,29,21,5,0,Foul on Ke'Ron Brown.
+Hampton,Morgan State,36,32,21,6,1,Justin Black made Three Point Jumper. Assisted by Donte Pretlow.
+Hampton,Morgan State,38,32,21,23,1,Deron Powers made Jumper.
+Hampton,Morgan State,38,32,21,47,0,Justin Black missed Three Point Jumper.
+Hampton,Morgan State,38,32,21,47,0,Anthony Hubbard Offensive Rebound.
+Hampton,Morgan State,38,34,21,55,1,Ian Chiles made Dunk. Assisted by Justin Black.
+Hampton,Morgan State,40,34,22,16,1,Jervon Pressley made Dunk.
+Hampton,Morgan State,40,34,22,32,0,Ian Chiles missed Jumper.
+Hampton,Morgan State,40,34,22,32,0,Justin Black Offensive Rebound.
+Hampton,Morgan State,40,34,22,35,0,Foul on Jervon Pressley.
+Hampton,Morgan State,40,35,22,35,1,Justin Black made Free Throw.
+Hampton,Morgan State,40,35,22,35,0,Justin Black missed Free Throw.
+Hampton,Morgan State,40,35,22,35,0,Ke'Ron Brown Defensive Rebound.
+Hampton,Morgan State,40,35,23,4,0,Foul on Ian Chiles.
+Hampton,Morgan State,40,35,23,4,0,Emmanuel Okoroba missed Free Throw.
+Hampton,Morgan State,40,35,23,4,0,Hampton Deadball Team Rebound.
+Hampton,Morgan State,40,35,23,4,0,Emmanuel Okoroba missed Free Throw.
+Hampton,Morgan State,40,35,23,4,0,Donte Pretlow Defensive Rebound.
+Hampton,Morgan State,40,35,23,9,0,Donte Pretlow Turnover.
+Hampton,Morgan State,40,35,23,9,0,Brian Darden Steal.
+Hampton,Morgan State,40,35,23,15,0,Foul on Blake Bozeman.
+Hampton,Morgan State,41,35,23,15,1,Brian Darden made Free Throw.
+Hampton,Morgan State,42,35,23,15,1,Brian Darden made Free Throw.
+Hampton,Morgan State,42,35,23,40,0,Justin Black missed Layup.
+Hampton,Morgan State,42,35,23,40,0,Brian Darden Defensive Rebound.
+Hampton,Morgan State,44,35,23,55,1,Du'Vaughn Maxwell made Layup.
+Hampton,Morgan State,44,37,24,6,1,Justin Black made Layup. Assisted by Anthony Hubbard.
+Hampton,Morgan State,44,37,24,6,0,Foul on Emmanuel Okoroba.
+Hampton,Morgan State,44,37,24,6,0,Official TV Timeout
+Hampton,Morgan State,44,38,24,6,1,Justin Black made Free Throw.
+Hampton,Morgan State,46,38,24,24,1,Du'Vaughn Maxwell made Layup. Assisted by Dwight Meikle.
+Hampton,Morgan State,46,38,24,55,0,Donte Pretlow Turnover.
+Hampton,Morgan State,46,38,24,55,0,Brian Darden Steal.
+Hampton,Morgan State,46,38,25,4,0,Foul on Blake Bozeman.
+Hampton,Morgan State,47,38,25,4,1,Deron Powers made Free Throw.
+Hampton,Morgan State,48,38,25,4,1,Deron Powers made Free Throw.
+Hampton,Morgan State,48,38,25,18,0,Foul on Brian Darden.
+Hampton,Morgan State,48,38,25,21,0,Shaquille Duncan missed Jumper.
+Hampton,Morgan State,48,38,25,21,0,Du'Vaughn Maxwell Defensive Rebound.
+Hampton,Morgan State,48,38,25,42,0,Deron Powers Turnover.
+Hampton,Morgan State,48,41,26,2,1,Justin Black made Three Point Jumper.
+Hampton,Morgan State,48,41,26,31,0,Deron Powers Turnover.
+Hampton,Morgan State,48,43,26,38,1,Cedric Blossom made Jumper.
+Hampton,Morgan State,48,43,26,53,0,Brian Darden Turnover.
+Hampton,Morgan State,48,43,26,53,0,Cedric Blossom Steal.
+Hampton,Morgan State,48,45,26,59,1,Shaquille Duncan made Layup. Assisted by Justin Black.
+Hampton,Morgan State,48,45,27,15,0,Hampton  Timeout
+Hampton,Morgan State,48,45,27,26,0,Lawrence Cooks missed Jumper.
+Hampton,Morgan State,48,45,27,26,0,Dwight Meikle Offensive Rebound.
+Hampton,Morgan State,50,45,27,31,1,Dwight Meikle made Jumper.
+Hampton,Morgan State,50,48,27,50,1,Blake Bozeman made Three Point Jumper. Assisted by Shaquille Duncan.
+Hampton,Morgan State,50,48,28,22,0,Dwight Meikle Turnover.
+Hampton,Morgan State,50,48,28,22,0,Official TV Timeout
+Hampton,Morgan State,50,50,28,30,1,Justin Black made Jumper.
+Hampton,Morgan State,50,50,28,50,0,Breon Key missed Three Point Jumper.
+Hampton,Morgan State,50,50,28,50,0,Dwight Meikle Offensive Rebound.
+Hampton,Morgan State,50,50,28,55,0,Dwight Meikle missed Jumper.
+Hampton,Morgan State,50,50,28,55,0,Shaquille Duncan Block.
+Hampton,Morgan State,50,50,28,55,0,Shaquille Duncan Defensive Rebound.
+Hampton,Morgan State,50,50,29,2,0,Foul on Lawrence Cooks.
+Hampton,Morgan State,50,51,29,2,1,Justin Black made Free Throw.
+Hampton,Morgan State,50,52,29,2,1,Justin Black made Free Throw.
+Hampton,Morgan State,50,52,29,15,0,Ramon Mercado missed Three Point Jumper.
+Hampton,Morgan State,50,52,29,15,0,Emmanuel Okoroba Offensive Rebound.
+Hampton,Morgan State,50,52,29,22,0,Foul on Anthony Hubbard.
+Hampton,Morgan State,51,52,29,22,1,Emmanuel Okoroba made Free Throw.
+Hampton,Morgan State,52,52,29,22,1,Emmanuel Okoroba made Free Throw.
+Hampton,Morgan State,52,55,29,47,1,Justin Black made Three Point Jumper.
+Hampton,Morgan State,52,55,30,4,0,Foul on Shaquille Duncan.
+Hampton,Morgan State,54,55,30,6,1,Lawrence Cooks made Layup. Assisted by Emmanuel Okoroba.
+Hampton,Morgan State,54,55,30,34,0,Foul on Emmanuel Okoroba.
+Hampton,Morgan State,54,56,30,34,1,Ian Chiles made Free Throw.
+Hampton,Morgan State,54,56,30,34,0,Ian Chiles missed Free Throw.
+Hampton,Morgan State,54,56,30,34,0,Lawrence Cooks Defensive Rebound.
+Hampton,Morgan State,54,56,30,40,0,Lawrence Cooks missed Layup.
+Hampton,Morgan State,54,56,30,40,0,Ke'Ron Brown Offensive Rebound.
+Hampton,Morgan State,54,56,30,40,0,Ke'Ron Brown missed Two Point Tip Shot.
+Hampton,Morgan State,54,56,30,40,0,Blake Bozeman Defensive Rebound.
+Hampton,Morgan State,54,56,30,48,0,Ian Chiles Turnover.
+Hampton,Morgan State,54,56,31,2,0,Deron Powers missed Layup.
+Hampton,Morgan State,54,56,31,2,0,Ke'Ron Brown Offensive Rebound.
+Hampton,Morgan State,54,56,31,2,0,Ke'Ron Brown missed Two Point Tip Shot.
+Hampton,Morgan State,54,56,31,2,0,Jervon Pressley Offensive Rebound.
+Hampton,Morgan State,54,56,31,2,0,Jervon Pressley missed Two Point Tip Shot.
+Hampton,Morgan State,54,56,31,2,0,Morgan St Defensive Rebound.
+Hampton,Morgan State,54,56,31,11,0,Morgan St  Timeout
+Hampton,Morgan State,54,56,31,23,0,Ian Chiles missed Jumper.
+Hampton,Morgan State,54,56,31,23,0,Cedric Blossom Offensive Rebound.
+Hampton,Morgan State,54,56,31,29,0,Ian Chiles Turnover.
+Hampton,Morgan State,54,56,31,50,0,Ke'Ron Brown missed Layup.
+Hampton,Morgan State,54,56,31,50,0,Jervon Pressley Offensive Rebound.
+Hampton,Morgan State,56,56,31,50,1,Jervon Pressley made Two Point Tip Shot.
+Hampton,Morgan State,56,56,32,21,0,Cedric Blossom missed Jumper.
+Hampton,Morgan State,56,56,32,21,0,Hampton Defensive Rebound.
+Hampton,Morgan State,56,56,32,27,0,Official TV Timeout
+Hampton,Morgan State,56,56,32,45,0,Lawrence Cooks missed Layup.
+Hampton,Morgan State,56,56,32,45,0,Justin Black Defensive Rebound.
+Hampton,Morgan State,56,56,32,51,0,Justin Black missed Layup.
+Hampton,Morgan State,56,56,32,51,0,Du'Vaughn Maxwell Block.
+Hampton,Morgan State,56,56,32,51,0,Deron Powers Defensive Rebound.
+Hampton,Morgan State,56,56,33,7,0,Foul on Blake Bozeman.
+Hampton,Morgan State,56,56,33,11,0,Deron Powers Turnover.
+Hampton,Morgan State,56,56,33,22,0,Foul on Ke'Ron Brown.
+Hampton,Morgan State,56,56,33,22,0,Cedric Blossom missed Free Throw.
+Hampton,Morgan State,56,56,33,22,0,Du'Vaughn Maxwell Defensive Rebound.
+Hampton,Morgan State,56,56,33,37,0,Foul on Ian Chiles.
+Hampton,Morgan State,57,56,33,37,1,Jervon Pressley made Free Throw.
+Hampton,Morgan State,57,56,33,37,0,Jervon Pressley missed Free Throw.
+Hampton,Morgan State,57,56,33,37,0,Shaquille Duncan Defensive Rebound.
+Hampton,Morgan State,57,58,33,50,1,Justin Black made Layup.
+Hampton,Morgan State,57,58,34,1,0,Du'Vaughn Maxwell missed Jumper.
+Hampton,Morgan State,57,58,34,1,0,Donte Pretlow Defensive Rebound.
+Hampton,Morgan State,57,60,34,9,1,Shaquille Duncan made Layup. Assisted by Donte Pretlow.
+Hampton,Morgan State,57,60,34,12,0,Hampton  Timeout
+Hampton,Morgan State,57,60,34,21,0,Ramon Mercado missed Three Point Jumper.
+Hampton,Morgan State,57,60,34,21,0,Brian Darden Offensive Rebound.
+Hampton,Morgan State,57,60,34,27,0,Brian Darden missed Layup.
+Hampton,Morgan State,57,60,34,31,0,Cedric Blossom Defensive Rebound.
+Hampton,Morgan State,57,60,34,31,0,Foul on Du'Vaughn Maxwell.
+Hampton,Morgan State,57,61,34,31,1,Cedric Blossom made Free Throw.
+Hampton,Morgan State,57,62,34,31,1,Cedric Blossom made Free Throw.
+Hampton,Morgan State,57,62,34,46,0,Deron Powers missed Layup.
+Hampton,Morgan State,57,62,34,46,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,57,62,34,53,0,Justin Black missed Three Point Jumper.
+Hampton,Morgan State,57,62,34,53,0,Emmanuel Okoroba Defensive Rebound.
+Hampton,Morgan State,57,62,35,20,0,Foul on Justin Black.
+Hampton,Morgan State,57,62,35,20,0,Du'Vaughn Maxwell missed Free Throw.
+Hampton,Morgan State,57,62,35,20,0,Ke'Ron Brown Offensive Rebound.
+Hampton,Morgan State,57,62,35,31,0,Foul on Donte Pretlow.
+Hampton,Morgan State,57,62,35,31,0,Deron Powers missed Free Throw.
+Hampton,Morgan State,57,62,35,31,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,57,64,36,2,1,Donte Pretlow made Jumper.
+Hampton,Morgan State,57,64,36,18,0,Foul on Anthony Hubbard.
+Hampton,Morgan State,57,64,36,18,0,Official TV Timeout
+Hampton,Morgan State,57,64,36,18,0,Emmanuel Okoroba missed Free Throw.
+Hampton,Morgan State,57,64,36,18,0,Hampton Deadball Team Rebound.
+Hampton,Morgan State,58,64,36,18,1,Emmanuel Okoroba made Free Throw.
+Hampton,Morgan State,58,64,36,25,0,Foul on Dwight Meikle.
+Hampton,Morgan State,58,64,36,25,0,Anthony Hubbard missed Free Throw.
+Hampton,Morgan State,58,64,36,25,0,Morgan St Deadball Team Rebound.
+Hampton,Morgan State,58,65,36,25,1,Anthony Hubbard made Free Throw.
+Hampton,Morgan State,58,65,36,32,0,Foul on Donte Pretlow.
+Hampton,Morgan State,59,65,36,32,1,Deron Powers made Free Throw.
+Hampton,Morgan State,59,65,36,32,0,Deron Powers missed Free Throw.
+Hampton,Morgan State,59,65,36,32,0,Ke'Ron Brown Offensive Rebound.
+Hampton,Morgan State,61,65,36,47,1,Ke'Ron Brown made Layup.
+Hampton,Morgan State,61,65,37,11,0,Foul on Ke'Ron Brown.
+Hampton,Morgan State,61,66,37,11,1,Justin Black made Free Throw.
+Hampton,Morgan State,61,67,37,11,1,Justin Black made Free Throw.
+Hampton,Morgan State,61,67,37,25,0,Deron Powers missed Three Point Jumper.
+Hampton,Morgan State,61,67,37,25,0,Lawrence Cooks Offensive Rebound.
+Hampton,Morgan State,61,67,37,35,0,Jervon Pressley missed Layup.
+Hampton,Morgan State,61,67,37,35,0,Jervon Pressley Offensive Rebound.
+Hampton,Morgan State,61,67,37,39,0,Foul on Anthony Hubbard.
+Hampton,Morgan State,61,67,37,39,0,Jervon Pressley missed Free Throw.
+Hampton,Morgan State,61,67,37,39,0,Hampton Deadball Team Rebound.
+Hampton,Morgan State,62,67,37,39,1,Jervon Pressley made Free Throw.
+Hampton,Morgan State,62,67,38,6,0,Ian Chiles missed Jumper.
+Hampton,Morgan State,62,67,38,6,0,Anthony Hubbard Offensive Rebound.
+Hampton,Morgan State,62,67,38,10,0,Anthony Hubbard missed Layup.
+Hampton,Morgan State,62,67,38,10,0,Du'Vaughn Maxwell Block.
+Hampton,Morgan State,62,67,38,10,0,Du'Vaughn Maxwell Defensive Rebound.
+Hampton,Morgan State,62,67,38,17,0,Foul on Donte Pretlow.
+Hampton,Morgan State,63,67,38,17,1,Breon Key made Free Throw.
+Hampton,Morgan State,64,67,38,17,1,Breon Key made Free Throw.
+Hampton,Morgan State,64,67,38,43,0,Donte Pretlow missed Layup.
+Hampton,Morgan State,64,67,38,43,0,Ian Chiles Offensive Rebound.
+Hampton,Morgan State,64,67,38,43,0,Ian Chiles missed Two Point Tip Shot.
+Hampton,Morgan State,64,67,38,43,0,Jervon Pressley Defensive Rebound.
+Hampton,Morgan State,64,67,38,53,0,Hampton  Timeout
+Hampton,Morgan State,64,67,39,8,0,Deron Powers missed Layup.
+Hampton,Morgan State,64,67,39,8,0,Shaquille Duncan Block.
+Hampton,Morgan State,64,67,39,8,0,Morgan St Defensive Rebound.
+Hampton,Morgan State,64,67,39,14,0,Foul on Breon Key.
+Hampton,Morgan State,64,68,39,14,1,Ian Chiles made Free Throw.
+Hampton,Morgan State,64,68,39,14,0,Ian Chiles missed Free Throw.
+Hampton,Morgan State,64,68,39,14,0,Jervon Pressley Defensive Rebound.
+Hampton,Morgan State,64,68,39,28,0,Deron Powers missed Layup.
+Hampton,Morgan State,64,68,39,28,0,Ian Chiles Block.
+Hampton,Morgan State,64,68,39,28,0,Jervon Pressley Offensive Rebound.
+Hampton,Morgan State,64,68,39,33,0,Foul on Justin Black.
+Hampton,Morgan State,65,68,39,33,1,Jervon Pressley made Free Throw.
+Hampton,Morgan State,65,68,39,33,0,Jervon Pressley missed Free Throw.
+Hampton,Morgan State,65,68,39,33,0,Anthony Hubbard Defensive Rebound.
+Hampton,Morgan State,65,68,39,35,0,Foul on Dwight Meikle.
+Hampton,Morgan State,65,68,39,35,0,Justin Black missed Free Throw.
+Hampton,Morgan State,65,68,39,35,0,Morgan St Deadball Team Rebound.
+Hampton,Morgan State,65,69,39,35,1,Justin Black made Free Throw.
+Hampton,Morgan State,65,69,39,44,0,Foul on Cedric Blossom.
+Hampton,Morgan State,66,69,39,44,1,Brian Darden made Free Throw.
+Hampton,Morgan State,67,69,39,44,1,Brian Darden made Free Throw.
+Hampton,Morgan State,67,69,39,45,0,Foul on Brian Darden.
+Hampton,Morgan State,67,69,39,45,0,Anthony Hubbard missed Free Throw.
+Hampton,Morgan State,67,69,39,45,0,Morgan St Deadball Team Rebound.
+Hampton,Morgan State,67,69,39,45,0,Morgan St  Timeout
+Hampton,Morgan State,67,70,39,45,1,Anthony Hubbard made Free Throw.
+Hampton,Morgan State,67,70,39,49,0,Hampton  Timeout
+Hampton,Morgan State,70,70,39,57,1,Ramon Mercado made Three Point Jumper. Assisted by Deron Powers.
+Hampton,Morgan State,70,70,39,57,0,Morgan St  Timeout
+Hampton,Morgan State,70,70,39,59,0,Justin Black missed Three Point Jumper.
+Hampton,Morgan State,70,70,39,59,0,Morgan St Offensive Rebound.
+Hampton,Morgan State,70,70,40,0,0,End of 2nd half

@@ -1,0 +1,328 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+UAB,Memphis,0,2,0,19,1,Chad Rykhoek made Dunk. Assisted by Dedric Lawson.
+UAB,Memphis,3,2,0,36,1,William Lee made Three Point Jumper. Assisted by Javien Williams.
+UAB,Memphis,3,2,1,4,0,Chad Rykhoek missed Jumper.
+UAB,Memphis,3,2,1,4,0,Hakeem Baxter Defensive Rebound.
+UAB,Memphis,3,2,1,12,0,Javien Williams missed Layup.
+UAB,Memphis,3,2,1,12,0,Jeremiah Martin Defensive Rebound.
+UAB,Memphis,3,2,1,19,0,Jeremiah Martin missed Layup.
+UAB,Memphis,3,2,1,19,0,William Lee Defensive Rebound.
+UAB,Memphis,3,2,1,30,0,William Lee missed Layup.
+UAB,Memphis,3,2,1,30,0,Dedric Lawson Block.
+UAB,Memphis,3,2,1,30,0,Chad Rykhoek Defensive Rebound.
+UAB,Memphis,3,2,1,47,0,Chad Rykhoek missed Layup.
+UAB,Memphis,3,2,1,47,0,William Lee Block.
+UAB,Memphis,3,2,1,47,0,Chris Cokley Defensive Rebound.
+UAB,Memphis,3,2,2,7,0,William Lee missed Jumper.
+UAB,Memphis,3,2,2,7,0,Chris Cokley Offensive Rebound.
+UAB,Memphis,5,2,2,12,1,Chris Cokley made Jumper.
+UAB,Memphis,5,2,2,39,0,Chad Rykhoek missed Jumper.
+UAB,Memphis,5,2,2,39,0,Deion Lavender Defensive Rebound.
+UAB,Memphis,5,2,2,53,0,Chris Cokley Turnover.
+UAB,Memphis,5,2,3,12,0,Dedric Lawson missed Jumper.
+UAB,Memphis,5,2,3,12,0,Hakeem Baxter Defensive Rebound.
+UAB,Memphis,5,2,3,32,0,Javien Williams missed Three Point Jumper.
+UAB,Memphis,5,2,3,32,0,Dedric Lawson Defensive Rebound.
+UAB,Memphis,5,2,3,47,0,Dedric Lawson missed Three Point Jumper.
+UAB,Memphis,5,2,3,47,0,Hakeem Baxter Defensive Rebound.
+UAB,Memphis,7,2,4,10,1,Chris Cokley made Jumper. Assisted by Hakeem Baxter.
+UAB,Memphis,7,2,4,10,0,Foul on Jimario Rivers.
+UAB,Memphis,7,2,4,10,0,Official TV Timeout
+UAB,Memphis,8,2,4,10,1,Chris Cokley made Free Throw.
+UAB,Memphis,8,2,4,14,0,Foul on Deion Lavender.
+UAB,Memphis,8,4,4,25,1,Dedric Lawson made Jumper. Assisted by Markel Crawford.
+UAB,Memphis,8,4,4,43,0,Hakeem Baxter missed Jumper.
+UAB,Memphis,8,4,4,43,0,K.J. Lawson Defensive Rebound.
+UAB,Memphis,8,7,5,4,1,Markel Crawford made Three Point Jumper. Assisted by Dedric Lawson.
+UAB,Memphis,10,7,5,26,1,Chris Cokley made Jumper. Assisted by Deion Lavender.
+UAB,Memphis,10,9,5,43,1,Dedric Lawson made Layup. Assisted by K.J. Lawson.
+UAB,Memphis,10,9,6,1,0,Chris Cokley Turnover.
+UAB,Memphis,10,9,6,16,0,Foul on Tosin Mehinti.
+UAB,Memphis,10,9,6,16,0,Dedric Lawson missed Free Throw.
+UAB,Memphis,10,9,6,16,0,Memphis Deadball Team Rebound.
+UAB,Memphis,10,10,6,16,1,Dedric Lawson made Free Throw.
+UAB,Memphis,10,10,6,35,0,Dirk Williams missed Three Point Jumper.
+UAB,Memphis,10,10,6,35,0,UAB Offensive Rebound.
+UAB,Memphis,10,10,6,49,0,Tosin Mehinti missed Layup.
+UAB,Memphis,10,10,6,49,0,Dedric Lawson Block.
+UAB,Memphis,10,10,6,49,0,K.J. Lawson Defensive Rebound.
+UAB,Memphis,10,10,6,59,0,Foul on Javien Williams.
+UAB,Memphis,10,11,6,59,1,Markel Crawford made Free Throw.
+UAB,Memphis,10,11,6,59,0,Markel Crawford missed Free Throw.
+UAB,Memphis,10,11,6,59,0,Tyler Madison Defensive Rebound.
+UAB,Memphis,10,11,7,20,0,Javien Williams missed Jumper.
+UAB,Memphis,10,11,7,20,0,K.J. Lawson Defensive Rebound.
+UAB,Memphis,10,11,7,27,0,Foul on Dirk Williams.
+UAB,Memphis,10,11,7,27,0,K.J. Lawson missed Free Throw.
+UAB,Memphis,10,11,7,27,0,Memphis Deadball Team Rebound.
+UAB,Memphis,10,12,7,27,1,K.J. Lawson made Free Throw.
+UAB,Memphis,12,12,7,51,1,Denzell Watts made Jumper.
+UAB,Memphis,12,12,8,1,0,Markel Crawford missed Jumper.
+UAB,Memphis,12,12,8,1,0,Tosin Mehinti Defensive Rebound.
+UAB,Memphis,12,12,8,15,0,Denzell Watts missed Three Point Jumper.
+UAB,Memphis,12,12,8,15,0,Javien Williams Offensive Rebound.
+UAB,Memphis,14,12,8,18,1,Javien Williams made Jumper.
+UAB,Memphis,14,12,8,30,0,Foul on Denzell Watts.
+UAB,Memphis,14,12,8,30,0,Official TV Timeout
+UAB,Memphis,14,13,8,30,1,Dedric Lawson made Free Throw.
+UAB,Memphis,14,14,8,30,1,Dedric Lawson made Free Throw.
+UAB,Memphis,14,14,8,44,0,Tosin Mehinti missed Jumper.
+UAB,Memphis,14,14,8,44,0,Dedric Lawson Defensive Rebound.
+UAB,Memphis,14,14,9,14,0,Christian Kessee missed Jumper.
+UAB,Memphis,14,14,9,14,0,Deion Lavender Defensive Rebound.
+UAB,Memphis,14,14,9,39,0,Foul on Markel Crawford.
+UAB,Memphis,14,14,9,54,0,Denzell Watts Turnover.
+UAB,Memphis,14,14,9,54,0,Craig Randall II Steal.
+UAB,Memphis,14,14,9,54,0,Foul on Denzell Watts.
+UAB,Memphis,14,14,10,5,0,Craig Randall II Turnover.
+UAB,Memphis,14,14,10,26,0,Javien Williams missed Layup.
+UAB,Memphis,14,14,10,26,0,Jimario Rivers Defensive Rebound.
+UAB,Memphis,14,16,10,34,1,Dedric Lawson made Jumper. Assisted by Jeremiah Martin.
+UAB,Memphis,14,16,10,54,0,Javien Williams missed Layup.
+UAB,Memphis,14,16,10,54,0,Javien Williams Offensive Rebound.
+UAB,Memphis,16,16,10,56,1,Javien Williams made Two Point Tip Shot.
+UAB,Memphis,16,18,11,9,1,K.J. Lawson made Jumper.
+UAB,Memphis,16,18,11,22,0,Hakeem Baxter missed Three Point Jumper.
+UAB,Memphis,16,18,11,22,0,Hakeem Baxter Offensive Rebound.
+UAB,Memphis,18,18,11,27,1,Hakeem Baxter made Layup.
+UAB,Memphis,18,18,11,39,0,Dedric Lawson missed Jumper.
+UAB,Memphis,18,18,11,39,0,Hakeem Baxter Defensive Rebound.
+UAB,Memphis,18,18,11,47,0,Foul on Jimario Rivers.
+UAB,Memphis,18,18,12,8,0,William Lee missed Three Point Jumper.
+UAB,Memphis,18,18,12,8,0,Jeremiah Martin Defensive Rebound.
+UAB,Memphis,18,18,12,40,0,Memphis  Turnover.
+UAB,Memphis,18,18,12,40,0,Official TV Timeout
+UAB,Memphis,18,18,13,0,0,Dirk Williams missed Jumper.
+UAB,Memphis,18,18,13,0,0,Dedric Lawson Defensive Rebound.
+UAB,Memphis,18,18,13,22,0,Dedric Lawson missed Jumper.
+UAB,Memphis,18,18,13,22,0,Hakeem Baxter Defensive Rebound.
+UAB,Memphis,20,18,13,34,1,Hakeem Baxter made Jumper. Assisted by Dirk Williams.
+UAB,Memphis,20,20,14,0,1,Dedric Lawson made Layup.
+UAB,Memphis,20,20,14,15,0,William Lee missed Three Point Jumper.
+UAB,Memphis,20,20,14,15,0,Jeremiah Martin Defensive Rebound.
+UAB,Memphis,20,20,14,20,0,Foul on Deion Lavender.
+UAB,Memphis,20,21,14,20,1,Jeremiah Martin made Free Throw.
+UAB,Memphis,20,21,14,20,0,Jeremiah Martin missed Free Throw.
+UAB,Memphis,20,21,14,20,0,Hakeem Baxter Defensive Rebound.
+UAB,Memphis,20,21,14,35,0,Foul on Chad Rykhoek.
+UAB,Memphis,21,21,14,35,1,Tosin Mehinti made Free Throw.
+UAB,Memphis,22,21,14,35,1,Tosin Mehinti made Free Throw.
+UAB,Memphis,22,21,14,39,0,Jeremiah Martin Turnover.
+UAB,Memphis,22,21,14,40,0,Hakeem Baxter Steal.
+UAB,Memphis,22,21,14,45,0,Hakeem Baxter missed Three Point Jumper.
+UAB,Memphis,22,21,14,45,0,Markel Crawford Defensive Rebound.
+UAB,Memphis,22,21,15,8,0,Chad Rykhoek Turnover.
+UAB,Memphis,22,21,15,36,0,Foul on William Lee.
+UAB,Memphis,22,21,15,36,0,William Lee Turnover.
+UAB,Memphis,22,21,15,49,0,Craig Randall II Turnover.
+UAB,Memphis,22,21,16,14,0,Tyler Madison missed Layup.
+UAB,Memphis,22,21,16,14,0,Dedric Lawson Block.
+UAB,Memphis,22,21,16,14,0,UAB Offensive Rebound.
+UAB,Memphis,22,21,16,16,0,Official TV Timeout
+UAB,Memphis,22,21,16,21,0,Dirk Williams missed Jumper.
+UAB,Memphis,22,21,16,21,0,Markel Crawford Block.
+UAB,Memphis,22,21,16,21,0,Memphis Deadball Team Rebound.
+UAB,Memphis,22,21,16,39,0,Craig Randall II missed Jumper.
+UAB,Memphis,22,21,16,39,0,K.J. Lawson Offensive Rebound.
+UAB,Memphis,22,21,16,43,0,K.J. Lawson Turnover.
+UAB,Memphis,22,21,16,44,0,Denzell Watts Steal.
+UAB,Memphis,25,21,17,0,1,Denzell Watts made Three Point Jumper. Assisted by Hakeem Baxter.
+UAB,Memphis,25,21,17,26,0,K.J. Lawson missed Three Point Jumper.
+UAB,Memphis,25,21,17,26,0,Dedric Lawson Offensive Rebound.
+UAB,Memphis,25,21,17,31,0,Markel Crawford missed Three Point Jumper.
+UAB,Memphis,25,21,17,31,0,Hakeem Baxter Defensive Rebound.
+UAB,Memphis,25,21,17,49,0,Denzell Watts missed Three Point Jumper.
+UAB,Memphis,25,21,17,49,0,Memphis Defensive Rebound.
+UAB,Memphis,25,21,18,8,0,Foul on Dirk Williams.
+UAB,Memphis,25,22,18,8,1,Craig Randall II made Free Throw.
+UAB,Memphis,25,22,18,8,0,Craig Randall II missed Free Throw.
+UAB,Memphis,25,22,18,8,0,Memphis Deadball Team Rebound.
+UAB,Memphis,25,23,18,8,1,Craig Randall II made Free Throw.
+UAB,Memphis,27,23,18,20,1,Tyler Madison made Layup. Assisted by Hakeem Baxter.
+UAB,Memphis,27,23,18,37,0,Jeremiah Martin Turnover.
+UAB,Memphis,27,23,18,38,0,William Lee Steal.
+UAB,Memphis,27,23,18,43,0,Denzell Watts Turnover.
+UAB,Memphis,27,23,18,44,0,Jeremiah Martin Steal.
+UAB,Memphis,27,25,18,47,1,Markel Crawford made Dunk. Assisted by Dedric Lawson.
+UAB,Memphis,27,25,18,49,0,UAB  Timeout
+UAB,Memphis,29,25,19,5,1,William Lee made Layup. Assisted by Denzell Watts.
+UAB,Memphis,29,25,19,27,0,Markel Crawford missed Jumper.
+UAB,Memphis,29,25,19,27,0,William Lee Defensive Rebound.
+UAB,Memphis,29,25,19,58,0,Denzell Watts missed Layup.
+UAB,Memphis,29,25,19,58,0,Dedric Lawson Defensive Rebound.
+UAB,Memphis,29,25,20,0,0,End of 1st half
+UAB,Memphis,31,25,20,17,1,William Lee made Jumper.
+UAB,Memphis,31,25,20,41,0,Dedric Lawson missed Three Point Jumper.
+UAB,Memphis,31,25,20,41,0,William Lee Defensive Rebound.
+UAB,Memphis,31,25,21,5,0,Chris Cokley Turnover.
+UAB,Memphis,31,27,21,28,1,Dedric Lawson made Layup.
+UAB,Memphis,33,27,21,40,1,Chris Cokley made Layup. Assisted by Deion Lavender.
+UAB,Memphis,33,27,21,40,0,Foul on Chad Rykhoek.
+UAB,Memphis,34,27,21,40,1,Chris Cokley made Free Throw.
+UAB,Memphis,34,27,22,5,0,Jeremiah Martin Turnover.
+UAB,Memphis,36,27,22,27,1,Chris Cokley made Layup.
+UAB,Memphis,36,27,22,36,0,Foul on Chris Cokley.
+UAB,Memphis,36,27,22,41,0,Foul on Javien Williams.
+UAB,Memphis,36,28,22,41,1,Jeremiah Martin made Free Throw.
+UAB,Memphis,36,29,22,41,1,Jeremiah Martin made Free Throw.
+UAB,Memphis,36,29,22,51,0,Deion Lavender missed Jumper.
+UAB,Memphis,36,29,22,51,0,Chris Cokley Offensive Rebound.
+UAB,Memphis,38,29,22,55,1,Chris Cokley made Layup.
+UAB,Memphis,38,29,23,1,0,Foul on Hakeem Baxter.
+UAB,Memphis,38,30,23,1,1,Markel Crawford made Free Throw.
+UAB,Memphis,38,31,23,1,1,Markel Crawford made Free Throw.
+UAB,Memphis,38,31,23,9,0,Foul on Jeremiah Martin.
+UAB,Memphis,38,31,23,22,0,Chris Cokley Turnover.
+UAB,Memphis,38,31,23,24,0,Jeremiah Martin Steal.
+UAB,Memphis,38,31,23,31,0,Markel Crawford missed Three Point Jumper.
+UAB,Memphis,38,31,23,31,0,Deion Lavender Defensive Rebound.
+UAB,Memphis,38,31,23,52,0,Deion Lavender missed Layup.
+UAB,Memphis,38,31,23,52,0,Dedric Lawson Block.
+UAB,Memphis,38,31,23,52,0,Dedric Lawson Defensive Rebound.
+UAB,Memphis,38,33,23,58,1,Markel Crawford made Layup. Assisted by Jimario Rivers.
+UAB,Memphis,38,33,24,14,0,Javien Williams missed Layup.
+UAB,Memphis,38,33,24,14,0,Dedric Lawson Block.
+UAB,Memphis,38,33,24,14,0,K.J. Lawson Defensive Rebound.
+UAB,Memphis,38,35,24,32,1,K.J. Lawson made Layup.
+UAB,Memphis,38,35,24,32,0,Foul on Hakeem Baxter.
+UAB,Memphis,38,35,24,32,0,Official TV Timeout
+UAB,Memphis,38,35,24,32,0,K.J. Lawson missed Free Throw.
+UAB,Memphis,38,35,24,32,0,Jimario Rivers Offensive Rebound.
+UAB,Memphis,38,35,24,36,0,Jimario Rivers missed Layup.
+UAB,Memphis,38,35,24,36,0,William Lee Block.
+UAB,Memphis,38,35,24,36,0,Markel Crawford Offensive Rebound.
+UAB,Memphis,38,35,24,40,0,Markel Crawford missed Layup.
+UAB,Memphis,38,35,24,40,0,UAB Defensive Rebound.
+UAB,Memphis,38,35,24,55,0,Chris Cokley Turnover.
+UAB,Memphis,38,35,24,58,0,K.J. Lawson Steal.
+UAB,Memphis,38,35,25,1,0,K.J. Lawson missed Jumper.
+UAB,Memphis,38,35,25,1,0,Markel Crawford Offensive Rebound.
+UAB,Memphis,38,35,25,3,0,Markel Crawford missed Layup.
+UAB,Memphis,38,35,25,3,0,Dirk Williams Defensive Rebound.
+UAB,Memphis,38,35,25,12,0,William Lee Turnover.
+UAB,Memphis,38,35,25,13,0,Dedric Lawson Steal.
+UAB,Memphis,38,35,25,28,0,Jeremiah Martin missed Three Point Jumper.
+UAB,Memphis,38,35,25,28,0,William Lee Defensive Rebound.
+UAB,Memphis,38,35,25,42,0,Chris Cokley missed Jumper.
+UAB,Memphis,38,35,25,42,0,K.J. Lawson Defensive Rebound.
+UAB,Memphis,38,35,25,59,0,Craig Randall II missed Three Point Jumper.
+UAB,Memphis,38,35,25,59,0,Chris Cokley Defensive Rebound.
+UAB,Memphis,38,35,26,10,0,Foul on Markel Crawford.
+UAB,Memphis,39,35,26,10,1,Hakeem Baxter made Free Throw.
+UAB,Memphis,40,35,26,10,1,Hakeem Baxter made Free Throw.
+UAB,Memphis,40,35,26,33,0,Foul on William Lee.
+UAB,Memphis,40,36,26,33,1,Dedric Lawson made Free Throw.
+UAB,Memphis,40,36,26,33,0,Dedric Lawson missed Free Throw.
+UAB,Memphis,40,36,26,33,0,K.J. Lawson Offensive Rebound.
+UAB,Memphis,40,36,26,43,0,Markel Crawford missed Three Point Jumper.
+UAB,Memphis,40,36,26,43,0,K.J. Lawson Offensive Rebound.
+UAB,Memphis,40,36,26,48,0,K.J. Lawson missed Layup.
+UAB,Memphis,40,36,26,48,0,Tosin Mehinti Defensive Rebound.
+UAB,Memphis,40,36,27,10,0,Dirk Williams missed Layup.
+UAB,Memphis,40,36,27,10,0,Jeremiah Martin Block.
+UAB,Memphis,40,36,27,10,0,Dirk Williams Offensive Rebound.
+UAB,Memphis,42,36,27,17,1,Dirk Williams made Layup. Assisted by Denzell Watts.
+UAB,Memphis,42,39,27,27,1,Dedric Lawson made Three Point Jumper. Assisted by Jeremiah Martin.
+UAB,Memphis,44,39,27,49,1,William Lee made Layup. Assisted by Tosin Mehinti.
+UAB,Memphis,44,39,27,49,0,Foul on K.J. Lawson.
+UAB,Memphis,45,39,27,49,1,William Lee made Free Throw.
+UAB,Memphis,45,39,28,8,0,Craig Randall II missed Three Point Jumper.
+UAB,Memphis,45,39,28,8,0,Markel Crawford Offensive Rebound.
+UAB,Memphis,45,41,28,11,1,Markel Crawford made Layup.
+UAB,Memphis,45,41,28,24,0,Official TV Timeout
+UAB,Memphis,45,41,28,33,0,Denzell Watts Turnover.
+UAB,Memphis,45,41,28,34,0,Craig Randall II Steal.
+UAB,Memphis,45,41,28,38,0,Markel Crawford missed Layup.
+UAB,Memphis,45,41,28,38,0,Dedric Lawson Offensive Rebound.
+UAB,Memphis,45,41,28,38,0,Foul on Tyler Madison.
+UAB,Memphis,45,42,28,38,1,Dedric Lawson made Free Throw.
+UAB,Memphis,45,42,28,38,0,Dedric Lawson missed Free Throw.
+UAB,Memphis,45,42,28,38,0,UAB Deadball Team Rebound.
+UAB,Memphis,45,42,28,39,0,Foul on K.J. Lawson.
+UAB,Memphis,45,42,28,58,0,Chris Cokley missed Jumper.
+UAB,Memphis,45,42,28,58,0,Dedric Lawson Block.
+UAB,Memphis,45,42,28,58,0,Dedric Lawson Defensive Rebound.
+UAB,Memphis,45,44,29,28,1,K.J. Lawson made Jumper.
+UAB,Memphis,45,44,29,54,0,Foul on Craig Randall II.
+UAB,Memphis,46,44,29,54,1,Dirk Williams made Free Throw.
+UAB,Memphis,46,44,29,54,0,Dirk Williams missed Free Throw.
+UAB,Memphis,46,44,29,54,0,Memphis Defensive Rebound.
+UAB,Memphis,46,44,30,22,0,Dedric Lawson missed Jumper.
+UAB,Memphis,46,44,30,22,0,Dirk Williams Defensive Rebound.
+UAB,Memphis,46,44,30,33,0,Dirk Williams missed Three Point Jumper.
+UAB,Memphis,46,44,30,33,0,Javien Williams Offensive Rebound.
+UAB,Memphis,46,44,30,41,0,UAB  Timeout
+UAB,Memphis,46,44,30,45,0,Chris Cokley Turnover.
+UAB,Memphis,46,44,30,52,0,Dedric Lawson missed Layup.
+UAB,Memphis,46,44,30,52,0,Dedric Lawson Offensive Rebound.
+UAB,Memphis,46,44,30,58,0,Foul on Dirk Williams.
+UAB,Memphis,46,45,30,58,1,Dedric Lawson made Free Throw.
+UAB,Memphis,46,46,30,58,1,Dedric Lawson made Free Throw.
+UAB,Memphis,46,46,31,25,0,Deion Lavender missed Three Point Jumper.
+UAB,Memphis,46,46,31,25,0,Markel Crawford Defensive Rebound.
+UAB,Memphis,46,48,31,55,1,K.J. Lawson made Layup. Assisted by Markel Crawford.
+UAB,Memphis,46,48,32,27,0,Javien Williams missed Layup.
+UAB,Memphis,46,48,32,27,0,Dedric Lawson Block.
+UAB,Memphis,46,48,32,27,0,UAB Offensive Rebound.
+UAB,Memphis,46,48,32,28,0,Official TV Timeout
+UAB,Memphis,46,48,32,30,0,Tosin Mehinti missed Jumper.
+UAB,Memphis,46,48,32,30,0,K.J. Lawson Defensive Rebound.
+UAB,Memphis,46,50,32,48,1,Jimario Rivers made Dunk. Assisted by Jeremiah Martin.
+UAB,Memphis,46,50,33,7,0,Foul on Jimario Rivers.
+UAB,Memphis,46,50,33,7,0,Hakeem Baxter missed Free Throw.
+UAB,Memphis,46,50,33,7,0,UAB Deadball Team Rebound.
+UAB,Memphis,47,50,33,7,1,Hakeem Baxter made Free Throw.
+UAB,Memphis,47,50,33,36,0,Markel Crawford missed Jumper.
+UAB,Memphis,47,50,33,36,0,UAB Defensive Rebound.
+UAB,Memphis,47,50,33,51,0,Foul on Dedric Lawson.
+UAB,Memphis,48,50,33,51,1,Hakeem Baxter made Free Throw.
+UAB,Memphis,49,50,33,51,1,Hakeem Baxter made Free Throw.
+UAB,Memphis,49,52,34,16,1,Dedric Lawson made Layup. Assisted by K.J. Lawson.
+UAB,Memphis,49,52,34,33,0,UAB  Turnover.
+UAB,Memphis,49,54,34,53,1,Markel Crawford made Layup.
+UAB,Memphis,49,54,35,3,0,Chris Cokley missed Layup.
+UAB,Memphis,49,54,35,3,0,Dedric Lawson Block.
+UAB,Memphis,49,54,35,3,0,K.J. Lawson Defensive Rebound.
+UAB,Memphis,49,56,35,28,1,Dedric Lawson made Jumper. Assisted by K.J. Lawson.
+UAB,Memphis,49,56,35,40,0,UAB  Timeout
+UAB,Memphis,49,56,35,40,0,Official TV Timeout
+UAB,Memphis,51,56,36,0,1,Chris Cokley made Jumper.
+UAB,Memphis,51,56,36,31,0,Dedric Lawson missed Three Point Jumper.
+UAB,Memphis,51,56,36,31,0,Chris Cokley Defensive Rebound.
+UAB,Memphis,53,56,36,37,1,Dirk Williams made Layup. Assisted by Hakeem Baxter.
+UAB,Memphis,53,56,37,4,0,K.J. Lawson missed Jumper.
+UAB,Memphis,53,56,37,4,0,William Lee Block.
+UAB,Memphis,53,56,37,4,0,Memphis Offensive Rebound.
+UAB,Memphis,53,56,37,7,0,Memphis  Timeout
+UAB,Memphis,53,56,37,11,0,Jeremiah Martin missed Layup.
+UAB,Memphis,53,56,37,11,0,Chris Cokley Defensive Rebound.
+UAB,Memphis,53,56,37,21,0,Hakeem Baxter Turnover.
+UAB,Memphis,53,56,37,22,0,Markel Crawford Steal.
+UAB,Memphis,53,58,37,24,1,Markel Crawford made Layup.
+UAB,Memphis,53,58,37,41,0,Deion Lavender missed Jumper.
+UAB,Memphis,53,58,37,41,0,Jimario Rivers Defensive Rebound.
+UAB,Memphis,53,58,38,0,0,K.J. Lawson missed Layup.
+UAB,Memphis,53,58,38,0,0,William Lee Defensive Rebound.
+UAB,Memphis,53,58,38,6,0,Dirk Williams missed Layup.
+UAB,Memphis,53,58,38,6,0,Jimario Rivers Block.
+UAB,Memphis,53,58,38,6,0,Memphis Defensive Rebound.
+UAB,Memphis,53,60,38,32,1,Jeremiah Martin made Layup.
+UAB,Memphis,53,60,38,49,0,Foul on Markel Crawford.
+UAB,Memphis,54,60,38,49,1,Hakeem Baxter made Free Throw.
+UAB,Memphis,55,60,38,49,1,Hakeem Baxter made Free Throw.
+UAB,Memphis,55,60,39,0,0,Foul on Deion Lavender.
+UAB,Memphis,55,60,39,0,0,Jeremiah Martin missed Free Throw.
+UAB,Memphis,55,60,39,0,0,Chris Cokley Defensive Rebound.
+UAB,Memphis,55,60,39,6,0,William Lee Turnover.
+UAB,Memphis,55,62,39,14,1,Jeremiah Martin made Layup. Assisted by Markel Crawford.
+UAB,Memphis,55,62,39,22,0,Dirk Williams missed Three Point Jumper.
+UAB,Memphis,55,62,39,22,0,Dedric Lawson Defensive Rebound.
+UAB,Memphis,55,62,39,43,0,Foul on Deion Lavender.
+UAB,Memphis,55,62,39,43,0,Jeremiah Martin missed Free Throw.
+UAB,Memphis,55,62,39,43,0,Chris Cokley Defensive Rebound.
+UAB,Memphis,55,62,39,51,0,Hakeem Baxter missed Layup.
+UAB,Memphis,55,62,39,51,0,K.J. Lawson Defensive Rebound.
+UAB,Memphis,55,62,39,58,0,K.J. Lawson missed Layup.
+UAB,Memphis,55,62,39,58,0,Dirk Williams Defensive Rebound.
+UAB,Memphis,55,62,40,0,0,End of 2nd half
+UAB,Memphis,55,62,40,0,0,End of Game

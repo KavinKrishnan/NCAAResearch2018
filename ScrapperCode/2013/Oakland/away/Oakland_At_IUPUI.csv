@@ -1,0 +1,352 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Oakland,IUPUI,2,0,0,18,1,Corey Petros made Layup.  Assisted by Duke Mondy.
+Oakland,IUPUI,2,0,0,42,0,John Hart Turnover.
+Oakland,IUPUI,2,0,0,43,0,Corey Petros Steal.
+Oakland,IUPUI,5,0,0,57,1,Travis Bader made Three Point Jumper.  Assisted by Drew Valentine.
+Oakland,IUPUI,5,0,1,16,0,John Hart missed Three Point Jumper.
+Oakland,IUPUI,5,0,1,16,0,Corey Petros Defensive Rebound.
+Oakland,IUPUI,7,0,1,32,1,Corey Petros made Layup.  Assisted by Ryan Bass.
+Oakland,IUPUI,7,0,1,33,0,Foul on Lyonell Gaines
+Oakland,IUPUI,7,0,1,33,0,Corey Petros missed Free Throw.
+Oakland,IUPUI,7,0,1,33,0,Sean Esposito Defensive Rebound.
+Oakland,IUPUI,7,0,1,41,0,John Hart Turnover.
+Oakland,IUPUI,7,0,1,57,0,Foul on Donovan Gibbs
+Oakland,IUPUI,7,0,1,57,0,IUPUI Full Timeout.
+Oakland,IUPUI,7,0,1,57,0,Corey Petros missed Free Throw.
+Oakland,IUPUI,7,0,1,57,0,null
+Oakland,IUPUI,7,0,1,57,0,Corey Petros missed Free Throw.
+Oakland,IUPUI,7,0,1,57,0,Sean Esposito Defensive Rebound.
+Oakland,IUPUI,7,0,2,17,0,Greg Rice missed Three Point Jumper.
+Oakland,IUPUI,7,0,2,17,0,Ryan Bass Defensive Rebound.
+Oakland,IUPUI,10,0,2,38,1,Ryan Bass made Three Point Jumper.
+Oakland,IUPUI,10,0,2,55,0,Lyonell Gaines missed Jumper.
+Oakland,IUPUI,10,0,2,55,0,Duke Mondy Defensive Rebound.
+Oakland,IUPUI,10,0,3,4,0,Foul on Sean Esposito
+Oakland,IUPUI,11,0,3,4,1,Travis Bader made Free Throw.
+Oakland,IUPUI,12,0,3,4,1,Travis Bader made Free Throw.
+Oakland,IUPUI,12,0,3,18,0,Mitchell Patton Turnover.
+Oakland,IUPUI,12,0,3,23,0,Ryan Bass missed Layup.
+Oakland,IUPUI,12,0,3,23,0,Corey Petros Offensive Rebound.
+Oakland,IUPUI,12,0,3,25,0,Foul on Sean Esposito
+Oakland,IUPUI,12,0,3,25,0,Corey Petros missed Free Throw.
+Oakland,IUPUI,12,0,3,25,0,null
+Oakland,IUPUI,13,0,3,25,1,Corey Petros made Free Throw.
+Oakland,IUPUI,13,0,3,38,0,John Hart Turnover.
+Oakland,IUPUI,13,0,3,40,0,Ryan Bass Steal.
+Oakland,IUPUI,13,0,3,43,0,Travis Bader missed Three Point Jumper.
+Oakland,IUPUI,13,0,3,43,0,Corey Petros Offensive Rebound.
+Oakland,IUPUI,13,0,3,48,0,Corey Petros missed Layup.
+Oakland,IUPUI,13,0,3,48,0,Duke Mondy Offensive Rebound.
+Oakland,IUPUI,15,0,3,50,1,Duke Mondy made Layup.
+Oakland,IUPUI,15,0,4,7,0,Greg Rice Turnover.
+Oakland,IUPUI,15,0,4,8,0,Drew Valentine Steal.
+Oakland,IUPUI,18,0,4,9,1,Duke Mondy made Three Point Jumper.  Assisted by Travis Bader.
+Oakland,IUPUI,18,0,4,13,0,IUPUI Full Timeout.
+Oakland,IUPUI,18,0,4,26,0,Foul on Duke Mondy
+Oakland,IUPUI,18,0,4,26,0,Official TV Timeout.
+Oakland,IUPUI,18,0,4,57,0,Greg Rice missed Jumper.
+Oakland,IUPUI,18,0,4,57,0,IUPUI Offensive Rebound.
+Oakland,IUPUI,18,0,5,10,0,P.J. Hubert missed Three Point Jumper.
+Oakland,IUPUI,18,0,5,10,0,null
+Oakland,IUPUI,18,2,5,35,1,Cameron Loepker made Jumper.  Assisted by Greg Rice.
+Oakland,IUPUI,18,2,6,2,0,Foul on Ryan Bass
+Oakland,IUPUI,18,2,6,2,0,Ryan Bass Turnover.
+Oakland,IUPUI,18,2,6,12,0,Greg Rice Turnover.
+Oakland,IUPUI,18,2,6,12,0,Drew Valentine Steal.
+Oakland,IUPUI,18,2,6,23,0,Foul on Corey Petros
+Oakland,IUPUI,18,2,6,23,0,Corey Petros Turnover.
+Oakland,IUPUI,18,2,6,49,0,Cameron Loepker Turnover.
+Oakland,IUPUI,18,2,7,3,0,Foul on Lyonell Gaines
+Oakland,IUPUI,18,2,7,3,0,Corey Petros missed Free Throw.
+Oakland,IUPUI,18,2,7,3,0,null
+Oakland,IUPUI,18,2,7,3,0,Corey Petros missed Free Throw.
+Oakland,IUPUI,18,2,7,3,0,IUPUI Defensive Rebound.
+Oakland,IUPUI,18,5,7,21,1,Jordan Shanklin made Three Point Jumper.  Assisted by P.J. Hubert.
+Oakland,IUPUI,18,5,7,36,0,Matt Poches Turnover.
+Oakland,IUPUI,18,8,7,46,1,P.J. Hubert made Three Point Jumper.  Assisted by Jordan Shanklin.
+Oakland,IUPUI,20,8,8,17,1,Dante Williams made Layup.
+Oakland,IUPUI,20,8,8,31,0,Official TV Timeout.
+Oakland,IUPUI,20,8,8,50,0,Foul on Matt Poches
+Oakland,IUPUI,20,9,8,50,1,P.J. Hubert made Free Throw.
+Oakland,IUPUI,20,10,8,50,1,P.J. Hubert made Free Throw.
+Oakland,IUPUI,20,10,9,11,0,Drew Valentine missed Three Point Jumper.
+Oakland,IUPUI,20,10,9,11,0,P.J. Hubert Defensive Rebound.
+Oakland,IUPUI,20,10,9,23,0,Foul on Corey Petros
+Oakland,IUPUI,20,10,9,45,0,Donovan Gibbs Turnover.
+Oakland,IUPUI,22,10,9,56,1,Travis Bader made Jumper.  Assisted by Ryan Bass.
+Oakland,IUPUI,22,12,10,9,1,Mitchell Patton made Jumper.
+Oakland,IUPUI,22,12,10,19,0,Drew Valentine Turnover.
+Oakland,IUPUI,22,12,10,20,0,Greg Rice Steal.
+Oakland,IUPUI,22,12,10,23,0,Foul on Ryan Bass
+Oakland,IUPUI,22,14,10,31,1,Mitchell Patton made Jumper.  Assisted by P.J. Hubert.
+Oakland,IUPUI,22,14,10,45,0,Ryan Bass missed Three Point Jumper.
+Oakland,IUPUI,22,14,10,45,0,Donovan Gibbs Defensive Rebound.
+Oakland,IUPUI,22,14,10,55,0,Greg Rice missed Jumper.
+Oakland,IUPUI,22,14,10,55,0,Travis Bader Defensive Rebound.
+Oakland,IUPUI,25,14,11,5,1,Travis Bader made Three Point Jumper.  Assisted by Duke Mondy.
+Oakland,IUPUI,25,14,11,27,0,P.J. Hubert missed Three Point Jumper.
+Oakland,IUPUI,25,14,11,27,0,Mitchell Patton Offensive Rebound.
+Oakland,IUPUI,25,14,11,34,0,Mitchell Patton Turnover.
+Oakland,IUPUI,25,14,11,35,0,Drew Valentine Steal.
+Oakland,IUPUI,25,14,11,38,0,Travis Bader missed Three Point Jumper.
+Oakland,IUPUI,25,14,11,38,0,Donovan Gibbs Defensive Rebound.
+Oakland,IUPUI,25,14,11,46,0,Foul on Drew Valentine
+Oakland,IUPUI,25,15,11,46,1,John Hart made Free Throw.
+Oakland,IUPUI,25,16,11,46,1,John Hart made Free Throw.
+Oakland,IUPUI,27,16,12,6,1,Drew Valentine made Layup.  Assisted by Matt Poches.
+Oakland,IUPUI,27,16,12,34,0,John Hart Turnover.
+Oakland,IUPUI,27,16,12,37,0,Drew Valentine Steal.
+Oakland,IUPUI,29,16,12,54,1,Matt Poches made Layup.
+Oakland,IUPUI,29,16,12,54,0,Foul on Mitchell Patton
+Oakland,IUPUI,29,16,12,54,0,Official TV Timeout.
+Oakland,IUPUI,30,16,12,54,1,Matt Poches made Free Throw.
+Oakland,IUPUI,30,16,13,7,0,John Hart missed Three Point Jumper.
+Oakland,IUPUI,30,16,13,7,0,Mitchell Patton Offensive Rebound.
+Oakland,IUPUI,30,18,13,32,1,Donovan Gibbs made Jumper.  Assisted by Jordan Shanklin.
+Oakland,IUPUI,30,18,13,40,0,Travis Bader missed Three Point Jumper.
+Oakland,IUPUI,30,18,13,40,0,IUPUI Defensive Rebound.
+Oakland,IUPUI,30,18,13,56,0,P.J. Hubert missed Three Point Jumper.
+Oakland,IUPUI,30,18,13,56,0,Jordan Shanklin Offensive Rebound.
+Oakland,IUPUI,30,20,14,16,1,P.J. Hubert made Jumper.
+Oakland,IUPUI,30,20,14,31,0,Drew Valentine missed Jumper.
+Oakland,IUPUI,30,20,14,31,0,Mitchell Patton Defensive Rebound.
+Oakland,IUPUI,30,20,14,51,0,John Hart Turnover.
+Oakland,IUPUI,30,20,14,53,0,Raphael Carter Steal.
+Oakland,IUPUI,30,20,14,57,0,Matt Poches missed Layup.
+Oakland,IUPUI,30,20,14,57,0,John Hart Block.
+Oakland,IUPUI,30,20,15,3,0,Duke Mondy Offensive Rebound.
+Oakland,IUPUI,30,20,15,5,0,Drew Valentine Steal.
+Oakland,IUPUI,32,20,15,7,1,Matt Poches made Layup.
+Oakland,IUPUI,32,20,15,30,0,Foul on Travis Bader
+Oakland,IUPUI,32,21,15,30,1,Mitchell Patton made Free Throw.
+Oakland,IUPUI,32,22,15,30,1,Mitchell Patton made Free Throw.
+Oakland,IUPUI,34,22,15,40,1,Matt Poches made Jumper.
+Oakland,IUPUI,34,22,15,56,0,P.J. Hubert Turnover.
+Oakland,IUPUI,34,22,15,58,0,Raphael Carter Steal.
+Oakland,IUPUI,36,22,16,3,1,Matt Poches made Layup.
+Oakland,IUPUI,36,22,16,28,0,P.J. Hubert missed Three Point Jumper.
+Oakland,IUPUI,36,22,16,28,0,Raphael Carter Defensive Rebound.
+Oakland,IUPUI,36,22,16,44,0,Matt Poches missed Jumper.
+Oakland,IUPUI,36,22,16,44,0,Mitchell Patton Block.
+Oakland,IUPUI,36,22,16,47,0,John Hart Defensive Rebound.
+Oakland,IUPUI,36,22,16,48,0,John Hart Turnover.
+Oakland,IUPUI,36,22,16,50,0,Duke Mondy Steal.
+Oakland,IUPUI,36,22,17,17,0,Matt Poches missed Jumper.
+Oakland,IUPUI,36,22,17,17,0,Mitchell Patton Defensive Rebound.
+Oakland,IUPUI,36,22,17,28,0,Jordan Shanklin missed Jumper.
+Oakland,IUPUI,36,22,17,28,0,Raphael Carter Defensive Rebound.
+Oakland,IUPUI,36,22,17,39,0,Drew Valentine missed Three Point Jumper.
+Oakland,IUPUI,36,22,17,39,0,Oakland Offensive Rebound.
+Oakland,IUPUI,36,22,17,42,0,Official TV Timeout.
+Oakland,IUPUI,36,22,17,43,0,Foul on Dante Williams
+Oakland,IUPUI,36,22,17,43,0,Dante Williams Turnover.
+Oakland,IUPUI,36,24,17,53,1,Nick Kitcoff made Jumper.
+Oakland,IUPUI,36,24,18,11,0,Dante Williams missed Three Point Jumper.
+Oakland,IUPUI,36,24,18,11,0,Jordan Shanklin Defensive Rebound.
+Oakland,IUPUI,36,24,18,30,0,Foul on Ryan Bass
+Oakland,IUPUI,36,25,18,30,1,Jordan Shanklin made Free Throw.
+Oakland,IUPUI,36,26,18,30,1,Jordan Shanklin made Free Throw.
+Oakland,IUPUI,38,26,18,41,1,Raphael Carter made Layup.  Assisted by Matt Poches.
+Oakland,IUPUI,38,26,18,41,0,Foul on Mitchell Patton
+Oakland,IUPUI,39,26,18,41,1,Raphael Carter made Free Throw.
+Oakland,IUPUI,39,29,18,59,1,Jordan Shanklin made Three Point Jumper.  Assisted by Donovan Gibbs.
+Oakland,IUPUI,39,29,19,11,0,Matt Poches missed Jumper.
+Oakland,IUPUI,39,29,19,11,0,Dante Williams Offensive Rebound.
+Oakland,IUPUI,42,29,19,17,1,Duke Mondy made Three Point Jumper.  Assisted by Travis Bader.
+Oakland,IUPUI,42,29,19,32,0,Nick Kitcoff missed Three Point Jumper.
+Oakland,IUPUI,42,29,19,32,0,P.J. Hubert Offensive Rebound.
+Oakland,IUPUI,42,31,19,39,1,Donovan Gibbs made Jumper.  Assisted by P.J. Hubert.
+Oakland,IUPUI,42,31,19,39,0,Foul on Raphael Carter
+Oakland,IUPUI,42,32,19,39,1,Donovan Gibbs made Free Throw.
+Oakland,IUPUI,42,32,19,39,0,Oakland Full Timeout.
+Oakland,IUPUI,42,32,20,0,0,Corey Petros Turnover.
+Oakland,IUPUI,42,32,20,0,0,P.J. Hubert Steal.
+Oakland,IUPUI,42,32,20,0,0,End of the 1st Half.
+Oakland,IUPUI,42,32,20,36,0,Sean Esposito missed Jumper.
+Oakland,IUPUI,42,32,20,36,0,Corey Petros Defensive Rebound.
+Oakland,IUPUI,42,32,20,48,0,Duke Mondy Turnover.
+Oakland,IUPUI,42,32,20,50,0,Sean Esposito Steal.
+Oakland,IUPUI,42,32,21,2,0,Jordan Shanklin missed Three Point Jumper.
+Oakland,IUPUI,42,32,21,2,0,Drew Valentine Defensive Rebound.
+Oakland,IUPUI,42,32,21,10,0,Foul on Corey Petros
+Oakland,IUPUI,42,32,21,10,0,Corey Petros Turnover.
+Oakland,IUPUI,42,32,21,20,0,Foul on Duke Mondy
+Oakland,IUPUI,42,32,21,20,0,John Hart missed Free Throw.
+Oakland,IUPUI,42,32,21,20,0,null
+Oakland,IUPUI,42,33,21,20,1,John Hart made Free Throw.
+Oakland,IUPUI,42,33,21,32,0,Duke Mondy missed Jumper.
+Oakland,IUPUI,42,33,21,32,0,Donovan Gibbs Defensive Rebound.
+Oakland,IUPUI,42,33,21,46,0,Foul on Drew Valentine
+Oakland,IUPUI,42,33,21,54,0,Foul on Duke Mondy
+Oakland,IUPUI,42,33,21,54,0,Foul on Ryan Bass
+Oakland,IUPUI,42,33,21,54,0,Jordan Shanklin missed Free Throw.
+Oakland,IUPUI,42,33,21,54,0,null
+Oakland,IUPUI,42,33,21,54,0,Jordan Shanklin missed Free Throw.
+Oakland,IUPUI,42,33,21,54,0,null
+Oakland,IUPUI,42,33,21,56,0,Foul on Travis Bader
+Oakland,IUPUI,42,33,22,17,0,John Hart Turnover.
+Oakland,IUPUI,42,33,22,26,0,Foul on Matt Poches
+Oakland,IUPUI,42,33,22,26,0,Matt Poches Turnover.
+Oakland,IUPUI,42,33,22,43,0,Sean Esposito missed Three Point Jumper.
+Oakland,IUPUI,42,33,22,43,0,Drew Valentine Defensive Rebound.
+Oakland,IUPUI,42,33,22,51,0,Foul on Duke Mondy
+Oakland,IUPUI,42,33,22,51,0,Duke Mondy Turnover.
+Oakland,IUPUI,42,33,23,3,0,John Hart Turnover.
+Oakland,IUPUI,42,33,23,5,0,Matt Poches Steal.
+Oakland,IUPUI,42,33,23,14,0,Drew Valentine missed Layup.
+Oakland,IUPUI,42,33,23,14,0,IUPUI Defensive Rebound.
+Oakland,IUPUI,42,33,23,32,0,P.J. Hubert Turnover.
+Oakland,IUPUI,42,33,23,34,0,Drew Valentine Steal.
+Oakland,IUPUI,45,33,23,37,1,Travis Bader made Three Point Jumper.  Assisted by Drew Valentine.
+Oakland,IUPUI,45,33,23,58,0,Mitchell Patton missed Jumper.
+Oakland,IUPUI,45,33,23,58,0,Dante Williams Defensive Rebound.
+Oakland,IUPUI,45,33,24,33,0,Corey Petros Turnover.
+Oakland,IUPUI,45,35,24,38,1,Jordan Shanklin made Layup.
+Oakland,IUPUI,45,35,24,56,0,Foul on Mitchell Patton
+Oakland,IUPUI,45,35,24,56,0,Official TV Timeout.
+Oakland,IUPUI,46,35,24,56,1,Corey Petros made Free Throw.
+Oakland,IUPUI,47,35,24,56,1,Corey Petros made Free Throw.
+Oakland,IUPUI,47,35,25,13,0,Donovan Gibbs missed Jumper.
+Oakland,IUPUI,47,35,25,13,0,Drew Valentine Defensive Rebound.
+Oakland,IUPUI,47,35,25,25,0,Foul on Sean Esposito
+Oakland,IUPUI,47,35,25,31,0,Drew Valentine missed Three Point Jumper.
+Oakland,IUPUI,47,35,25,31,0,Mitchell Patton Defensive Rebound.
+Oakland,IUPUI,47,37,25,41,1,Mitchell Patton made Layup.  Assisted by Sean Esposito.
+Oakland,IUPUI,47,37,26,5,0,Foul on Mitchell Patton
+Oakland,IUPUI,48,37,26,5,1,Drew Valentine made Free Throw.
+Oakland,IUPUI,49,37,26,5,1,Drew Valentine made Free Throw.
+Oakland,IUPUI,49,39,26,20,1,Donovan Gibbs made Layup.  Assisted by Sean Esposito.
+Oakland,IUPUI,51,39,26,35,1,Travis Bader made Jumper.  Assisted by Matt Poches.
+Oakland,IUPUI,51,42,26,47,1,Jordan Shanklin made Three Point Jumper.  Assisted by Sean Esposito.
+Oakland,IUPUI,53,42,27,2,1,Lloyd Neely II made Layup.  Assisted by Matt Poches.
+Oakland,IUPUI,53,42,27,2,0,Foul on Donovan Gibbs
+Oakland,IUPUI,53,42,27,2,0,Lloyd Neely II missed Free Throw.
+Oakland,IUPUI,53,42,27,2,0,Sean Esposito Defensive Rebound.
+Oakland,IUPUI,53,42,27,14,0,P.J. Hubert missed Jumper.
+Oakland,IUPUI,53,42,27,14,0,Travis Bader Defensive Rebound.
+Oakland,IUPUI,55,42,27,34,1,Travis Bader made Jumper.
+Oakland,IUPUI,55,42,27,34,0,Foul on Sean Esposito
+Oakland,IUPUI,56,42,27,34,1,Travis Bader made Free Throw.
+Oakland,IUPUI,56,42,27,46,0,Donovan Gibbs missed Jumper.
+Oakland,IUPUI,56,42,27,46,0,Lyonell Gaines Offensive Rebound.
+Oakland,IUPUI,56,42,27,57,0,Donovan Gibbs Turnover.
+Oakland,IUPUI,56,42,27,59,0,Travis Bader Steal.
+Oakland,IUPUI,56,42,28,12,0,Travis Bader missed Jumper.
+Oakland,IUPUI,56,42,28,12,0,Donovan Gibbs Defensive Rebound.
+Oakland,IUPUI,56,42,28,16,0,Foul on Matt Poches
+Oakland,IUPUI,56,42,28,16,0,Official TV Timeout.
+Oakland,IUPUI,56,43,28,16,1,Donovan Gibbs made Free Throw.
+Oakland,IUPUI,56,44,28,16,1,Donovan Gibbs made Free Throw.
+Oakland,IUPUI,56,44,28,34,0,Travis Bader Turnover.
+Oakland,IUPUI,56,44,28,36,0,Lyonell Gaines Steal.
+Oakland,IUPUI,56,46,28,38,1,Lyonell Gaines made Layup.
+Oakland,IUPUI,58,46,28,47,1,Travis Bader made Jumper.
+Oakland,IUPUI,58,48,29,22,1,Jordan Shanklin made Jumper.
+Oakland,IUPUI,58,48,29,35,0,Foul on Donovan Gibbs
+Oakland,IUPUI,58,48,29,35,0,Corey Petros missed Free Throw.
+Oakland,IUPUI,58,48,29,35,0,null
+Oakland,IUPUI,59,48,29,35,1,Corey Petros made Free Throw.
+Oakland,IUPUI,59,48,29,47,0,Jordan Shanklin missed Jumper.
+Oakland,IUPUI,59,48,29,47,0,Travis Bader Defensive Rebound.
+Oakland,IUPUI,59,48,29,56,0,Ryan Bass missed Layup.
+Oakland,IUPUI,59,48,29,56,0,John Hart Defensive Rebound.
+Oakland,IUPUI,59,48,30,3,0,Foul on Travis Bader
+Oakland,IUPUI,59,48,30,3,0,Lyonell Gaines missed Free Throw.
+Oakland,IUPUI,59,48,30,3,0,null
+Oakland,IUPUI,59,49,30,3,1,Lyonell Gaines made Free Throw.
+Oakland,IUPUI,61,49,30,13,1,Corey Petros made Jumper.  Assisted by Raphael Carter.
+Oakland,IUPUI,61,49,30,26,0,Jordan Shanklin missed Three Point Jumper.
+Oakland,IUPUI,61,49,30,26,0,Corey Petros Defensive Rebound.
+Oakland,IUPUI,61,49,30,28,0,Foul on Lyonell Gaines
+Oakland,IUPUI,61,49,30,28,0,Corey Petros missed Free Throw.
+Oakland,IUPUI,61,49,30,28,0,IUPUI Defensive Rebound.
+Oakland,IUPUI,61,49,30,47,0,Donovan Gibbs missed Jumper.
+Oakland,IUPUI,61,49,30,47,0,Raphael Carter Defensive Rebound.
+Oakland,IUPUI,63,49,31,9,1,Raphael Carter made Dunk.  Assisted by Ryan Bass.
+Oakland,IUPUI,63,51,31,26,1,Mitchell Patton made Jumper.
+Oakland,IUPUI,63,51,31,27,0,IUPUI Full Timeout.
+Oakland,IUPUI,63,51,31,52,0,Travis Bader missed Three Point Jumper.
+Oakland,IUPUI,63,51,31,52,0,Lyonell Gaines Block.
+Oakland,IUPUI,63,51,31,54,0,Mitchell Patton Defensive Rebound.
+Oakland,IUPUI,63,51,31,57,0,Foul on Ryan Bass
+Oakland,IUPUI,63,52,31,57,1,Jordan Shanklin made Free Throw.
+Oakland,IUPUI,63,53,31,57,1,Jordan Shanklin made Free Throw.
+Oakland,IUPUI,63,53,32,4,0,Foul on Mitchell Patton
+Oakland,IUPUI,63,53,32,4,0,Official TV Timeout.
+Oakland,IUPUI,63,53,32,4,0,Raphael Carter missed Free Throw.
+Oakland,IUPUI,63,53,32,4,0,null
+Oakland,IUPUI,64,53,32,4,1,Raphael Carter made Free Throw.
+Oakland,IUPUI,64,53,32,15,0,Donovan Gibbs Turnover.
+Oakland,IUPUI,64,53,32,16,0,Drew Valentine Steal.
+Oakland,IUPUI,64,53,32,18,0,Foul on P.J. Hubert
+Oakland,IUPUI,65,53,32,18,1,Drew Valentine made Free Throw.
+Oakland,IUPUI,66,53,32,18,1,Drew Valentine made Free Throw.
+Oakland,IUPUI,66,53,32,43,0,Sean Esposito missed Jumper.
+Oakland,IUPUI,66,53,32,43,0,Corey Petros Defensive Rebound.
+Oakland,IUPUI,66,53,32,55,0,Foul on Jordan Shanklin
+Oakland,IUPUI,66,53,32,55,0,Duke Mondy missed Free Throw.
+Oakland,IUPUI,66,53,32,55,0,null
+Oakland,IUPUI,67,53,32,55,1,Duke Mondy made Free Throw.
+Oakland,IUPUI,67,53,33,14,0,P.J. Hubert missed Three Point Jumper.
+Oakland,IUPUI,67,53,33,14,0,IUPUI Offensive Rebound.
+Oakland,IUPUI,67,53,33,37,0,Lyonell Gaines missed Jumper.
+Oakland,IUPUI,67,53,33,37,0,Drew Valentine Defensive Rebound.
+Oakland,IUPUI,67,53,33,49,0,Corey Petros missed Jumper.
+Oakland,IUPUI,67,53,33,49,0,Drew Valentine Offensive Rebound.
+Oakland,IUPUI,67,53,33,53,0,Drew Valentine missed Layup.
+Oakland,IUPUI,67,53,33,53,0,Drew Valentine Offensive Rebound.
+Oakland,IUPUI,69,53,33,56,1,Drew Valentine made Layup.
+Oakland,IUPUI,69,53,34,3,0,P.J. Hubert missed Jumper.
+Oakland,IUPUI,69,53,34,3,0,Duke Mondy Defensive Rebound.
+Oakland,IUPUI,69,53,34,30,0,Foul on P.J. Hubert
+Oakland,IUPUI,70,53,34,30,1,Travis Bader made Free Throw.
+Oakland,IUPUI,71,53,34,30,1,Travis Bader made Free Throw.
+Oakland,IUPUI,71,53,34,40,0,Sean Esposito missed Jumper.
+Oakland,IUPUI,71,53,34,40,0,Duke Mondy Defensive Rebound.
+Oakland,IUPUI,71,53,34,55,0,Travis Bader missed Jumper.
+Oakland,IUPUI,71,53,34,55,0,Raphael Carter Offensive Rebound.
+Oakland,IUPUI,73,53,35,1,1,Raphael Carter made Jumper.
+Oakland,IUPUI,73,53,35,14,0,Foul on Travis Bader
+Oakland,IUPUI,73,54,35,14,1,P.J. Hubert made Free Throw.
+Oakland,IUPUI,73,54,35,14,0,P.J. Hubert missed Free Throw.
+Oakland,IUPUI,73,54,35,14,0,Corey Petros Defensive Rebound.
+Oakland,IUPUI,73,54,35,28,0,Duke Mondy Turnover.
+Oakland,IUPUI,73,54,35,40,0,Nick Kitcoff missed Three Point Jumper.
+Oakland,IUPUI,73,54,35,40,0,Drew Valentine Defensive Rebound.
+Oakland,IUPUI,73,54,35,47,0,Oakland Full Timeout.
+Oakland,IUPUI,73,54,36,3,0,Official TV Timeout.
+Oakland,IUPUI,75,54,36,7,1,Raphael Carter made Layup.
+Oakland,IUPUI,75,54,36,29,0,Nick Kitcoff Turnover.
+Oakland,IUPUI,75,54,36,31,0,Raphael Carter Steal.
+Oakland,IUPUI,75,54,36,56,0,Drew Valentine missed Three Point Jumper.
+Oakland,IUPUI,75,54,36,56,0,Donovan Gibbs Defensive Rebound.
+Oakland,IUPUI,75,54,37,5,0,Jordan Shanklin missed Three Point Jumper.
+Oakland,IUPUI,75,54,37,5,0,Drew Valentine Defensive Rebound.
+Oakland,IUPUI,75,54,37,26,0,Foul on Donovan Gibbs
+Oakland,IUPUI,76,54,37,26,1,Travis Bader made Free Throw.
+Oakland,IUPUI,77,54,37,26,1,Travis Bader made Free Throw.
+Oakland,IUPUI,77,57,37,45,1,P.J. Hubert made Three Point Jumper.  Assisted by Jordan Shanklin.
+Oakland,IUPUI,79,57,38,6,1,Raphael Carter made Jumper.  Assisted by Drew Valentine.
+Oakland,IUPUI,79,60,38,19,1,P.J. Hubert made Three Point Jumper.
+Oakland,IUPUI,82,60,38,38,1,Travis Bader made Three Point Jumper.  Assisted by Drew Valentine.
+Oakland,IUPUI,82,60,38,41,0,Oakland Full Timeout.
+Oakland,IUPUI,82,60,38,52,0,Sean Esposito missed Layup.
+Oakland,IUPUI,82,60,38,52,0,Korab Imami Defensive Rebound.
+Oakland,IUPUI,82,60,38,57,0,Foul on Nick Kitcoff
+Oakland,IUPUI,82,60,38,57,0,Dante Williams missed Free Throw.
+Oakland,IUPUI,82,60,38,57,0,null
+Oakland,IUPUI,83,60,38,57,1,Dante Williams made Free Throw.
+Oakland,IUPUI,83,60,39,7,0,Nick Kitcoff missed Three Point Jumper.
+Oakland,IUPUI,83,60,39,7,0,Korab Imami Defensive Rebound.
+Oakland,IUPUI,83,60,39,36,0,Dante Williams missed Layup.
+Oakland,IUPUI,83,60,39,36,0,Dante Williams Offensive Rebound.
+Oakland,IUPUI,83,60,39,36,0,Foul on Cameron Loepker
+Oakland,IUPUI,84,60,39,36,1,Dante Williams made Free Throw.
+Oakland,IUPUI,84,60,39,36,0,Dante Williams missed Free Throw.
+Oakland,IUPUI,84,60,39,36,0,Lyonell Gaines Defensive Rebound.
+Oakland,IUPUI,84,60,39,47,0,Nick Kitcoff missed Jumper.
+Oakland,IUPUI,84,60,39,47,0,Cameron Loepker Offensive Rebound.
+Oakland,IUPUI,84,60,39,51,0,Cameron Loepker missed Layup.
+Oakland,IUPUI,84,60,39,51,0,Lyonell Gaines Offensive Rebound.
+Oakland,IUPUI,84,62,39,54,1,Lyonell Gaines made Layup.
+Oakland,IUPUI,84,62,40,0,0,End Game

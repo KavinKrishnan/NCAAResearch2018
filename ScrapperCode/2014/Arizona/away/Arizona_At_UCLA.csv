@@ -1,0 +1,361 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Arizona,UCLA,0,0,0,0,0,Jump Ball won by Arizona
+Arizona,UCLA,0,0,0,27,0,Foul on Norman Powell.
+Arizona,UCLA,1,0,0,27,1,Kaleb Tarczewski made Free Throw.
+Arizona,UCLA,2,0,0,27,1,Kaleb Tarczewski made Free Throw.
+Arizona,UCLA,2,0,0,41,0,Norman Powell Turnover.
+Arizona,UCLA,2,0,0,56,0,Kaleb Tarczewski Turnover.
+Arizona,UCLA,2,0,0,56,0,David Wear Steal.
+Arizona,UCLA,2,2,1,11,1,Travis Wear made Jumper.
+Arizona,UCLA,2,2,1,31,0,Brandon Ashley Turnover.
+Arizona,UCLA,2,2,1,31,0,Kyle Anderson Steal.
+Arizona,UCLA,2,2,1,36,0,Jordan Adams missed Three Point Jumper.
+Arizona,UCLA,2,2,1,36,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,UCLA,2,2,1,44,0,Brandon Ashley missed Three Point Jumper.
+Arizona,UCLA,2,2,1,44,0,Kyle Anderson Defensive Rebound.
+Arizona,UCLA,2,4,1,53,1,Norman Powell made Layup. Assisted by Kyle Anderson.
+Arizona,UCLA,4,4,2,9,1,Kaleb Tarczewski made Jumper. Assisted by Brandon Ashley.
+Arizona,UCLA,4,4,2,9,0,Foul on Jordan Adams.
+Arizona,UCLA,5,4,2,9,1,Kaleb Tarczewski made Free Throw.
+Arizona,UCLA,5,4,2,23,0,Jordan Adams missed Jumper.
+Arizona,UCLA,5,4,2,23,0,David Wear Offensive Rebound.
+Arizona,UCLA,5,6,2,33,1,Norman Powell made Dunk. Assisted by Travis Wear.
+Arizona,UCLA,5,6,2,46,0,Brandon Ashley Turnover.
+Arizona,UCLA,5,6,2,46,0,Norman Powell Steal.
+Arizona,UCLA,5,8,2,51,1,Kyle Anderson made Dunk. Assisted by Norman Powell.
+Arizona,UCLA,7,8,3,9,1,Aaron Gordon made Dunk. Assisted by T.J. McConnell.
+Arizona,UCLA,7,8,3,22,0,David Wear missed Jumper.
+Arizona,UCLA,7,8,3,22,0,T.J. McConnell Defensive Rebound.
+Arizona,UCLA,7,8,3,32,0,T.J. McConnell Turnover.
+Arizona,UCLA,7,8,3,32,0,David Wear Steal.
+Arizona,UCLA,7,10,3,48,1,Travis Wear made Jumper. Assisted by Jordan Adams.
+Arizona,UCLA,9,10,4,14,1,T.J. McConnell made Jumper.
+Arizona,UCLA,9,10,4,39,0,Kyle Anderson missed Three Point Jumper.
+Arizona,UCLA,9,10,4,39,0,Travis Wear Offensive Rebound.
+Arizona,UCLA,9,10,4,45,0,Travis Wear missed Jumper.
+Arizona,UCLA,9,10,4,45,0,T.J. McConnell Defensive Rebound.
+Arizona,UCLA,9,10,4,51,0,Aaron Gordon missed Layup.
+Arizona,UCLA,9,10,4,51,0,Travis Wear Block.
+Arizona,UCLA,9,10,4,51,0,Aaron Gordon Offensive Rebound.
+Arizona,UCLA,9,10,4,53,0,Foul on Norman Powell.
+Arizona,UCLA,9,10,4,53,0,Official TV Timeout
+Arizona,UCLA,10,10,4,53,1,Brandon Ashley made Free Throw.
+Arizona,UCLA,11,10,4,53,1,Brandon Ashley made Free Throw.
+Arizona,UCLA,11,12,5,6,1,Jordan Adams made Layup.
+Arizona,UCLA,11,12,5,34,0,Nick Johnson missed Three Point Jumper.
+Arizona,UCLA,11,12,5,34,0,Kyle Anderson Defensive Rebound.
+Arizona,UCLA,11,12,5,48,0,Travis Wear missed Jumper.
+Arizona,UCLA,11,12,5,48,0,Brandon Ashley Defensive Rebound.
+Arizona,UCLA,11,12,5,55,0,Foul on Travis Wear.
+Arizona,UCLA,11,12,6,1,0,Gabe York missed Three Point Jumper.
+Arizona,UCLA,11,12,6,1,0,Kyle Anderson Defensive Rebound.
+Arizona,UCLA,11,12,6,11,0,Travis Wear missed Layup.
+Arizona,UCLA,11,12,6,11,0,Rondae Hollis-Jefferson Defensive Rebound.
+Arizona,UCLA,13,12,6,18,1,T.J. McConnell made Layup. Assisted by Rondae Hollis-Jefferson.
+Arizona,UCLA,13,12,6,33,0,Zach LaVine missed Three Point Jumper.
+Arizona,UCLA,13,12,6,33,0,Brandon Ashley Defensive Rebound.
+Arizona,UCLA,16,12,6,52,1,Gabe York made Three Point Jumper. Assisted by T.J. McConnell.
+Arizona,UCLA,16,12,7,9,0,Foul on Brandon Ashley.
+Arizona,UCLA,16,12,7,19,0,Kyle Anderson missed Jumper.
+Arizona,UCLA,16,12,7,19,0,Aaron Gordon Block.
+Arizona,UCLA,16,12,7,19,0,Kyle Anderson Offensive Rebound.
+Arizona,UCLA,16,12,7,19,0,Kyle Anderson missed Jumper.
+Arizona,UCLA,16,12,7,19,0,Tony Parker Offensive Rebound.
+Arizona,UCLA,16,12,7,29,0,Jordan Adams missed Three Point Jumper.
+Arizona,UCLA,16,12,7,29,0,Aaron Gordon Defensive Rebound.
+Arizona,UCLA,16,12,7,39,0,Rondae Hollis-Jefferson missed Layup.
+Arizona,UCLA,16,12,7,39,0,Jordan Adams Defensive Rebound.
+Arizona,UCLA,16,12,7,39,0,Foul on Rondae Hollis-Jefferson.
+Arizona,UCLA,16,12,7,50,0,Tony Parker missed Jumper.
+Arizona,UCLA,16,12,7,50,0,Aaron Gordon Defensive Rebound.
+Arizona,UCLA,16,12,8,15,0,Gabe York missed Three Point Jumper.
+Arizona,UCLA,16,12,8,15,0,Tony Parker Defensive Rebound.
+Arizona,UCLA,16,12,8,26,0,Bryce Alford missed Layup.
+Arizona,UCLA,16,12,8,26,0,Tony Parker Offensive Rebound.
+Arizona,UCLA,16,14,8,26,1,Tony Parker made Two Point Tip Shot.
+Arizona,UCLA,16,14,8,47,0,Aaron Gordon missed Layup.
+Arizona,UCLA,16,14,8,47,0,Rondae Hollis-Jefferson Offensive Rebound.
+Arizona,UCLA,16,14,8,47,0,Rondae Hollis-Jefferson missed Two Point Tip Shot.
+Arizona,UCLA,16,14,8,47,0,Kaleb Tarczewski Offensive Rebound.
+Arizona,UCLA,18,14,8,56,1,Kaleb Tarczewski made Layup.
+Arizona,UCLA,18,14,8,56,0,Foul on Tony Parker.
+Arizona,UCLA,18,14,8,56,0,Official TV Timeout
+Arizona,UCLA,18,14,8,56,0,Kaleb Tarczewski missed Free Throw.
+Arizona,UCLA,18,14,8,56,0,Kyle Anderson Defensive Rebound.
+Arizona,UCLA,18,14,8,57,0,Foul on Aaron Gordon.
+Arizona,UCLA,18,14,9,19,0,Kyle Anderson missed Jumper.
+Arizona,UCLA,18,14,9,19,0,T.J. McConnell Defensive Rebound.
+Arizona,UCLA,20,14,9,28,1,Aaron Gordon made Dunk. Assisted by T.J. McConnell.
+Arizona,UCLA,20,16,9,46,1,Kyle Anderson made Jumper.
+Arizona,UCLA,20,16,10,15,0,Rondae Hollis-Jefferson Turnover.
+Arizona,UCLA,20,18,10,32,1,Zach LaVine made Jumper.
+Arizona,UCLA,20,18,10,49,0,Rondae Hollis-Jefferson Turnover.
+Arizona,UCLA,20,18,11,10,0,Zach LaVine missed Jumper.
+Arizona,UCLA,20,18,11,10,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,UCLA,20,18,11,20,0,Foul on David Wear.
+Arizona,UCLA,22,18,11,30,1,Kaleb Tarczewski made Layup. Assisted by Nick Johnson.
+Arizona,UCLA,22,18,11,42,0,Bryce Alford Turnover.
+Arizona,UCLA,24,18,11,56,1,Nick Johnson made Layup.
+Arizona,UCLA,24,18,12,10,0,Foul on Jordin Mayes.
+Arizona,UCLA,24,18,12,10,0,Official TV Timeout
+Arizona,UCLA,24,18,12,12,0,Foul on Kaleb Tarczewski.
+Arizona,UCLA,24,18,12,19,0,Kyle Anderson missed Jumper.
+Arizona,UCLA,24,18,12,19,0,Tony Parker Offensive Rebound.
+Arizona,UCLA,24,18,12,22,0,Foul on Kaleb Tarczewski.
+Arizona,UCLA,24,18,12,33,0,Foul on Kyle Anderson.
+Arizona,UCLA,24,18,12,33,0,Kyle Anderson Turnover.
+Arizona,UCLA,24,18,12,51,0,Aaron Gordon missed Three Point Jumper.
+Arizona,UCLA,24,18,12,51,0,Zach LaVine Defensive Rebound.
+Arizona,UCLA,24,20,13,5,1,Tony Parker made Layup. Assisted by Zach LaVine.
+Arizona,UCLA,24,20,13,32,0,Brandon Ashley missed Layup.
+Arizona,UCLA,24,20,13,32,0,Kyle Anderson Block.
+Arizona,UCLA,24,20,13,32,0,David Wear Defensive Rebound.
+Arizona,UCLA,24,22,13,45,1,Kyle Anderson made Jumper. Assisted by Zach LaVine.
+Arizona,UCLA,27,22,13,55,1,Nick Johnson made Three Point Jumper. Assisted by T.J. McConnell.
+Arizona,UCLA,27,24,14,10,1,David Wear made Jumper. Assisted by Bryce Alford.
+Arizona,UCLA,27,24,14,17,0,Nick Johnson Turnover.
+Arizona,UCLA,27,24,14,17,0,Bryce Alford Steal.
+Arizona,UCLA,27,24,14,29,0,Foul on Brandon Ashley.
+Arizona,UCLA,27,25,14,29,1,Tony Parker made Free Throw.
+Arizona,UCLA,27,26,14,29,1,Tony Parker made Free Throw.
+Arizona,UCLA,29,26,14,52,1,Brandon Ashley made Layup. Assisted by Rondae Hollis-Jefferson.
+Arizona,UCLA,29,29,15,9,1,Bryce Alford made Three Point Jumper. Assisted by Zach LaVine.
+Arizona,UCLA,29,29,15,26,0,T.J. McConnell missed Three Point Jumper.
+Arizona,UCLA,29,29,15,26,0,Rondae Hollis-Jefferson Offensive Rebound.
+Arizona,UCLA,29,29,15,29,0,Foul on David Wear.
+Arizona,UCLA,29,29,15,29,0,Rondae Hollis-Jefferson missed Free Throw.
+Arizona,UCLA,29,29,15,29,0,Kyle Anderson Defensive Rebound.
+Arizona,UCLA,29,29,15,41,0,Foul on T.J. McConnell.
+Arizona,UCLA,29,30,15,41,1,Zach LaVine made Free Throw.
+Arizona,UCLA,29,31,15,41,1,Zach LaVine made Free Throw.
+Arizona,UCLA,29,31,16,4,0,T.J. McConnell Turnover.
+Arizona,UCLA,29,31,16,4,0,Zach LaVine Steal.
+Arizona,UCLA,29,31,16,7,0,Zach LaVine Turnover.
+Arizona,UCLA,29,31,16,7,0,T.J. McConnell Steal.
+Arizona,UCLA,29,31,16,11,0,Official TV Timeout
+Arizona,UCLA,29,31,16,11,0,Foul on Kyle Anderson.
+Arizona,UCLA,29,31,16,11,0,Rondae Hollis-Jefferson missed Free Throw.
+Arizona,UCLA,29,31,16,11,0,Tony Parker Defensive Rebound.
+Arizona,UCLA,29,31,16,18,0,Jordan Adams missed Three Point Jumper.
+Arizona,UCLA,29,31,16,18,0,Jordan Adams Offensive Rebound.
+Arizona,UCLA,29,31,16,23,0,Tony Parker missed Jumper.
+Arizona,UCLA,29,31,16,23,0,UCLA Offensive Rebound.
+Arizona,UCLA,29,31,16,37,0,Jordan Adams missed Jumper.
+Arizona,UCLA,29,31,16,37,0,T.J. McConnell Defensive Rebound.
+Arizona,UCLA,32,31,16,59,1,Gabe York made Three Point Jumper. Assisted by T.J. McConnell.
+Arizona,UCLA,32,33,17,13,1,Travis Wear made Jumper. Assisted by Kyle Anderson.
+Arizona,UCLA,34,33,17,28,1,Nick Johnson made Layup. Assisted by Aaron Gordon.
+Arizona,UCLA,34,33,17,35,0,Foul on Nick Johnson.
+Arizona,UCLA,34,34,17,35,1,Jordan Adams made Free Throw.
+Arizona,UCLA,34,34,17,35,0,Jordan Adams missed Free Throw.
+Arizona,UCLA,34,34,17,35,0,Aaron Gordon Defensive Rebound.
+Arizona,UCLA,36,34,17,54,1,Aaron Gordon made Dunk. Assisted by Gabe York.
+Arizona,UCLA,36,34,18,10,0,Foul on Aaron Gordon.
+Arizona,UCLA,36,35,18,10,1,Bryce Alford made Free Throw.
+Arizona,UCLA,36,36,18,10,1,Bryce Alford made Free Throw.
+Arizona,UCLA,39,36,18,21,1,Nick Johnson made Three Point Jumper. Assisted by Gabe York.
+Arizona,UCLA,39,36,18,37,0,Bryce Alford missed Layup.
+Arizona,UCLA,39,36,18,37,0,Tony Parker Offensive Rebound.
+Arizona,UCLA,39,36,18,41,0,Tony Parker missed Layup.
+Arizona,UCLA,39,36,18,41,0,Tony Parker Offensive Rebound.
+Arizona,UCLA,39,36,18,41,0,Foul on T.J. McConnell.
+Arizona,UCLA,39,37,18,41,1,Tony Parker made Free Throw.
+Arizona,UCLA,39,38,18,41,1,Tony Parker made Free Throw.
+Arizona,UCLA,39,38,18,44,0,Arizona  Timeout
+Arizona,UCLA,42,38,18,50,1,Gabe York made Three Point Jumper. Assisted by Jordin Mayes.
+Arizona,UCLA,42,38,19,9,0,Zach LaVine missed Layup.
+Arizona,UCLA,42,38,19,9,0,Jordin Mayes Defensive Rebound.
+Arizona,UCLA,42,38,19,31,0,Jordin Mayes missed Three Point Jumper.
+Arizona,UCLA,42,38,19,31,0,Nick Johnson Offensive Rebound.
+Arizona,UCLA,42,38,19,53,0,Nick Johnson missed Three Point Jumper.
+Arizona,UCLA,42,38,19,53,0,Rondae Hollis-Jefferson Offensive Rebound.
+Arizona,UCLA,42,38,19,59,0,Rondae Hollis-Jefferson missed Jumper.
+Arizona,UCLA,42,38,19,59,0,UCLA Deadball Team Rebound.
+Arizona,UCLA,42,38,20,0,0,End of 1st half
+Arizona,UCLA,42,38,20,0,0,Jump Ball won by UCLA
+Arizona,UCLA,42,38,20,22,0,Aaron Gordon Turnover.
+Arizona,UCLA,42,38,20,22,0,Kyle Anderson Steal.
+Arizona,UCLA,42,38,20,41,0,Kyle Anderson Turnover.
+Arizona,UCLA,42,38,20,41,0,T.J. McConnell Steal.
+Arizona,UCLA,44,38,20,46,1,T.J. McConnell made Layup.
+Arizona,UCLA,44,38,21,3,0,David Wear missed Jumper.
+Arizona,UCLA,44,38,21,3,0,T.J. McConnell Defensive Rebound.
+Arizona,UCLA,46,38,21,11,1,Nick Johnson made Jumper.
+Arizona,UCLA,46,38,21,17,0,Jordan Adams missed Jumper.
+Arizona,UCLA,46,38,21,17,0,Nick Johnson Defensive Rebound.
+Arizona,UCLA,46,38,21,29,0,Foul on Jordan Adams.
+Arizona,UCLA,46,38,21,33,0,Foul on Travis Wear.
+Arizona,UCLA,46,38,21,44,0,Nick Johnson missed Jumper.
+Arizona,UCLA,46,38,21,44,0,Jordan Adams Defensive Rebound.
+Arizona,UCLA,46,40,22,4,1,Norman Powell made Layup.
+Arizona,UCLA,46,40,22,15,0,Kaleb Tarczewski Turnover.
+Arizona,UCLA,46,40,22,15,0,Jordan Adams Steal.
+Arizona,UCLA,46,42,22,30,1,Jordan Adams made Jumper. Assisted by David Wear.
+Arizona,UCLA,46,42,22,42,0,T.J. McConnell Turnover.
+Arizona,UCLA,46,44,22,59,1,David Wear made Jumper. Assisted by Jordan Adams.
+Arizona,UCLA,46,44,23,24,0,Aaron Gordon missed Layup.
+Arizona,UCLA,46,44,23,24,0,Kyle Anderson Block.
+Arizona,UCLA,46,44,23,24,0,Kaleb Tarczewski Offensive Rebound.
+Arizona,UCLA,48,44,23,34,1,Kaleb Tarczewski made Dunk.
+Arizona,UCLA,48,44,23,39,0,Jordan Adams missed Jumper.
+Arizona,UCLA,48,44,23,39,0,Jordan Adams Offensive Rebound.
+Arizona,UCLA,48,44,23,39,0,Foul on Brandon Ashley.
+Arizona,UCLA,48,45,23,39,1,Jordan Adams made Free Throw.
+Arizona,UCLA,48,46,23,39,1,Jordan Adams made Free Throw.
+Arizona,UCLA,51,46,24,14,1,Nick Johnson made Three Point Jumper. Assisted by T.J. McConnell.
+Arizona,UCLA,51,46,24,33,0,Kyle Anderson missed Jumper.
+Arizona,UCLA,51,46,24,33,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,UCLA,51,46,24,34,0,Foul on Travis Wear.
+Arizona,UCLA,51,46,24,34,0,Official TV Timeout
+Arizona,UCLA,51,46,24,58,0,Arizona  Timeout
+Arizona,UCLA,53,46,25,6,1,Aaron Gordon made Layup.
+Arizona,UCLA,53,48,25,28,1,Kyle Anderson made Jumper.
+Arizona,UCLA,53,48,25,52,0,Nick Johnson missed Jumper.
+Arizona,UCLA,53,48,25,52,0,Jordan Adams Defensive Rebound.
+Arizona,UCLA,53,48,25,58,0,Foul on Jordan Adams.
+Arizona,UCLA,53,48,25,58,0,Jordan Adams Turnover.
+Arizona,UCLA,53,48,26,19,0,Foul on David Wear.
+Arizona,UCLA,54,48,26,19,1,Gabe York made Free Throw.
+Arizona,UCLA,54,48,26,19,0,Gabe York missed Free Throw.
+Arizona,UCLA,54,48,26,19,0,Gabe York Offensive Rebound.
+Arizona,UCLA,54,48,26,22,0,T.J. McConnell missed Three Point Jumper.
+Arizona,UCLA,54,48,26,22,0,Kyle Anderson Defensive Rebound.
+Arizona,UCLA,54,48,26,31,0,Zach LaVine missed Three Point Jumper.
+Arizona,UCLA,54,48,26,31,0,Rondae Hollis-Jefferson Defensive Rebound.
+Arizona,UCLA,54,48,26,36,0,Foul on Norman Powell.
+Arizona,UCLA,56,48,26,47,1,Kaleb Tarczewski made Dunk. Assisted by T.J. McConnell.
+Arizona,UCLA,56,48,27,2,0,UCLA  Timeout
+Arizona,UCLA,56,48,27,22,0,Kyle Anderson missed Jumper.
+Arizona,UCLA,56,48,27,22,0,Rondae Hollis-Jefferson Defensive Rebound.
+Arizona,UCLA,56,48,27,53,0,Foul on Norman Powell.
+Arizona,UCLA,57,48,27,53,1,Brandon Ashley made Free Throw.
+Arizona,UCLA,58,48,27,53,1,Brandon Ashley made Free Throw.
+Arizona,UCLA,58,48,28,5,0,Foul on Rondae Hollis-Jefferson.
+Arizona,UCLA,58,48,28,5,0,Official TV Timeout
+Arizona,UCLA,58,48,28,22,0,Kyle Anderson missed Layup.
+Arizona,UCLA,58,48,28,22,0,Brandon Ashley Defensive Rebound.
+Arizona,UCLA,58,48,28,24,0,Brandon Ashley Turnover.
+Arizona,UCLA,58,48,28,27,0,Bryce Alford missed Jumper.
+Arizona,UCLA,58,48,28,27,0,Kyle Anderson Offensive Rebound.
+Arizona,UCLA,58,48,28,35,0,Kyle Anderson missed Jumper.
+Arizona,UCLA,58,48,28,35,0,Jordan Adams Offensive Rebound.
+Arizona,UCLA,58,48,28,40,0,Jordan Adams missed Layup.
+Arizona,UCLA,58,48,28,40,0,Aaron Gordon Defensive Rebound.
+Arizona,UCLA,60,48,28,44,1,Nick Johnson made Layup. Assisted by Aaron Gordon.
+Arizona,UCLA,60,48,28,47,0,Foul on Aaron Gordon.
+Arizona,UCLA,60,50,28,58,1,Zach LaVine made Jumper.
+Arizona,UCLA,60,50,29,18,0,Rondae Hollis-Jefferson missed Layup.
+Arizona,UCLA,60,50,29,18,0,Jordan Adams Defensive Rebound.
+Arizona,UCLA,60,50,29,32,0,Tony Parker missed Jumper.
+Arizona,UCLA,60,50,29,32,0,Jordan Adams Offensive Rebound.
+Arizona,UCLA,60,52,29,38,1,Jordan Adams made Layup.
+Arizona,UCLA,60,52,29,55,0,Brandon Ashley Turnover.
+Arizona,UCLA,60,52,30,18,0,Bryce Alford missed Jumper.
+Arizona,UCLA,60,52,30,18,0,Jordan Adams Offensive Rebound.
+Arizona,UCLA,60,52,30,21,0,Jordan Adams missed Jumper.
+Arizona,UCLA,60,52,30,21,0,Kaleb Tarczewski Block.
+Arizona,UCLA,60,52,30,21,0,Jordan Adams Offensive Rebound.
+Arizona,UCLA,60,52,30,21,0,Foul on Aaron Gordon.
+Arizona,UCLA,60,52,30,21,0,Jordan Adams missed Free Throw.
+Arizona,UCLA,60,52,30,21,0,UCLA Deadball Team Rebound.
+Arizona,UCLA,60,52,30,21,0,Jordan Adams missed Free Throw.
+Arizona,UCLA,60,52,30,21,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,UCLA,62,52,30,37,1,Brandon Ashley made Jumper. Assisted by Nick Johnson.
+Arizona,UCLA,62,52,31,0,0,Zach LaVine missed Layup.
+Arizona,UCLA,62,52,31,0,0,T.J. McConnell Defensive Rebound.
+Arizona,UCLA,62,52,31,35,0,Nick Johnson Turnover.
+Arizona,UCLA,62,52,31,35,0,Jordan Adams Steal.
+Arizona,UCLA,62,54,31,46,1,Tony Parker made Layup. Assisted by Kyle Anderson.
+Arizona,UCLA,62,54,32,8,0,Brandon Ashley missed Layup.
+Arizona,UCLA,62,54,32,8,0,Kaleb Tarczewski Offensive Rebound.
+Arizona,UCLA,64,54,32,8,1,Kaleb Tarczewski made Two Point Tip Shot.
+Arizona,UCLA,64,54,32,24,0,Foul on Brandon Ashley.
+Arizona,UCLA,64,54,32,24,0,Official TV Timeout
+Arizona,UCLA,64,54,32,24,0,Zach LaVine missed Free Throw.
+Arizona,UCLA,64,54,32,24,0,UCLA Deadball Team Rebound.
+Arizona,UCLA,64,54,32,24,0,Zach LaVine missed Free Throw.
+Arizona,UCLA,64,54,32,24,0,Rondae Hollis-Jefferson Defensive Rebound.
+Arizona,UCLA,66,54,32,45,1,Rondae Hollis-Jefferson made Layup.
+Arizona,UCLA,66,54,33,3,0,Foul on Gabe York.
+Arizona,UCLA,66,54,33,3,0,Kyle Anderson missed Free Throw.
+Arizona,UCLA,66,54,33,3,0,UCLA Deadball Team Rebound.
+Arizona,UCLA,66,55,33,3,1,Kyle Anderson made Free Throw.
+Arizona,UCLA,66,55,33,10,0,Gabe York missed Three Point Jumper.
+Arizona,UCLA,66,55,33,10,0,Nick Johnson Offensive Rebound.
+Arizona,UCLA,68,55,33,42,1,Nick Johnson made Dunk. Assisted by Rondae Hollis-Jefferson.
+Arizona,UCLA,68,55,33,58,0,Jordan Adams missed Three Point Jumper.
+Arizona,UCLA,68,55,33,58,0,T.J. McConnell Defensive Rebound.
+Arizona,UCLA,68,55,34,7,0,Rondae Hollis-Jefferson Turnover.
+Arizona,UCLA,68,55,34,7,0,Kyle Anderson Steal.
+Arizona,UCLA,68,55,34,19,0,Kyle Anderson Turnover.
+Arizona,UCLA,68,55,34,19,0,Nick Johnson Steal.
+Arizona,UCLA,68,55,34,34,0,T.J. McConnell Turnover.
+Arizona,UCLA,68,55,34,34,0,Zach LaVine Steal.
+Arizona,UCLA,68,57,34,45,1,Kyle Anderson made Jumper. Assisted by Jordan Adams.
+Arizona,UCLA,68,57,34,50,0,UCLA  Timeout
+Arizona,UCLA,68,57,35,9,0,Nick Johnson Turnover.
+Arizona,UCLA,68,57,35,9,0,Jordan Adams Steal.
+Arizona,UCLA,68,60,35,14,1,Bryce Alford made Three Point Jumper. Assisted by Kyle Anderson.
+Arizona,UCLA,68,60,35,28,0,Arizona  Timeout
+Arizona,UCLA,68,60,35,44,0,Foul on Travis Wear.
+Arizona,UCLA,68,60,35,44,0,Aaron Gordon missed Free Throw.
+Arizona,UCLA,68,60,35,44,0,Jordan Adams Defensive Rebound.
+Arizona,UCLA,68,60,35,54,0,Foul on T.J. McConnell.
+Arizona,UCLA,68,61,35,54,1,Bryce Alford made Free Throw.
+Arizona,UCLA,68,62,35,54,1,Bryce Alford made Free Throw.
+Arizona,UCLA,68,62,36,23,0,Nick Johnson missed Three Point Jumper.
+Arizona,UCLA,68,62,36,23,0,Kyle Anderson Defensive Rebound.
+Arizona,UCLA,68,62,36,31,0,Foul on T.J. McConnell.
+Arizona,UCLA,68,62,36,31,0,Official TV Timeout
+Arizona,UCLA,68,63,36,31,1,Kyle Anderson made Free Throw.
+Arizona,UCLA,68,64,36,31,1,Kyle Anderson made Free Throw.
+Arizona,UCLA,68,64,36,59,0,Foul on Kyle Anderson.
+Arizona,UCLA,68,64,36,59,0,Aaron Gordon missed Free Throw.
+Arizona,UCLA,68,64,36,59,0,Tony Parker Defensive Rebound.
+Arizona,UCLA,68,64,37,13,0,Foul on Rondae Hollis-Jefferson.
+Arizona,UCLA,68,64,37,13,0,Kyle Anderson missed Free Throw.
+Arizona,UCLA,68,64,37,13,0,UCLA Deadball Team Rebound.
+Arizona,UCLA,68,65,37,13,1,Kyle Anderson made Free Throw.
+Arizona,UCLA,68,65,37,29,0,Nick Johnson missed Three Point Jumper.
+Arizona,UCLA,68,65,37,29,0,Kyle Anderson Defensive Rebound.
+Arizona,UCLA,68,68,37,39,1,Jordan Adams made Three Point Jumper. Assisted by Kyle Anderson.
+Arizona,UCLA,68,68,37,46,0,Arizona  Timeout
+Arizona,UCLA,68,68,37,59,0,Foul on Zach LaVine.
+Arizona,UCLA,68,68,37,59,0,Brandon Ashley missed Free Throw.
+Arizona,UCLA,68,68,37,59,0,Arizona Deadball Team Rebound.
+Arizona,UCLA,69,68,37,59,1,Brandon Ashley made Free Throw.
+Arizona,UCLA,69,68,38,16,0,Foul on Rondae Hollis-Jefferson.
+Arizona,UCLA,69,69,38,16,1,Bryce Alford made Free Throw.
+Arizona,UCLA,69,70,38,16,1,Bryce Alford made Free Throw.
+Arizona,UCLA,71,70,38,34,1,Nick Johnson made Jumper.
+Arizona,UCLA,71,70,38,54,0,Bryce Alford Turnover.
+Arizona,UCLA,71,70,38,54,0,Aaron Gordon Steal.
+Arizona,UCLA,71,70,38,56,0,T.J. McConnell missed Layup.
+Arizona,UCLA,71,70,38,56,0,Aaron Gordon Offensive Rebound.
+Arizona,UCLA,71,70,38,57,0,Foul on Kyle Anderson.
+Arizona,UCLA,72,70,38,57,1,Aaron Gordon made Free Throw.
+Arizona,UCLA,73,70,38,57,1,Aaron Gordon made Free Throw.
+Arizona,UCLA,73,70,38,57,0,UCLA  Timeout
+Arizona,UCLA,73,70,39,10,0,Jordan Adams missed Three Point Jumper.
+Arizona,UCLA,73,70,39,10,0,Kaleb Tarczewski Defensive Rebound.
+Arizona,UCLA,73,70,39,10,0,Foul on Tony Parker.
+Arizona,UCLA,74,70,39,10,1,Kaleb Tarczewski made Free Throw.
+Arizona,UCLA,74,70,39,10,0,Kaleb Tarczewski missed Free Throw.
+Arizona,UCLA,74,70,39,10,0,Kyle Anderson Defensive Rebound.
+Arizona,UCLA,74,70,39,20,0,Kyle Anderson Turnover.
+Arizona,UCLA,74,70,39,26,0,Foul on Zach LaVine.
+Arizona,UCLA,75,70,39,26,1,T.J. McConnell made Free Throw.
+Arizona,UCLA,76,70,39,26,1,T.J. McConnell made Free Throw.
+Arizona,UCLA,76,72,39,34,1,Kyle Anderson made Layup.
+Arizona,UCLA,76,72,39,34,0,UCLA  Timeout
+Arizona,UCLA,76,72,39,36,0,Foul on Jordan Adams.
+Arizona,UCLA,77,72,39,36,1,Nick Johnson made Free Throw.
+Arizona,UCLA,77,72,39,36,0,Nick Johnson missed Free Throw.
+Arizona,UCLA,77,72,39,36,0,Travis Wear Defensive Rebound.
+Arizona,UCLA,77,75,39,43,1,Zach LaVine made Three Point Jumper. Assisted by Kyle Anderson.
+Arizona,UCLA,77,75,39,48,0,Foul on Jordan Adams.
+Arizona,UCLA,78,75,39,48,1,Gabe York made Free Throw.
+Arizona,UCLA,79,75,39,48,1,Gabe York made Free Throw.
+Arizona,UCLA,79,75,39,53,0,Zach LaVine missed Three Point Jumper.
+Arizona,UCLA,79,75,39,53,0,Nick Johnson Defensive Rebound.
+Arizona,UCLA,79,75,40,0,0,End of Game

@@ -1,0 +1,338 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Yale,Princeton,0,0,0,0,0,Jump Ball won by Princeton
+Yale,Princeton,0,2,0,32,1,Henry Caruso made Jumper.
+Yale,Princeton,0,2,0,32,0,Anthony Dallier missed Jumper.
+Yale,Princeton,0,2,1,0,0,Pete Miller Defensive Rebound.
+Yale,Princeton,0,2,1,0,0,Pete Miller missed Jumper.
+Yale,Princeton,0,2,1,0,0,Nick Victor Defensive Rebound.
+Yale,Princeton,0,2,1,3,0,Brandon Sherrod missed Jumper.
+Yale,Princeton,0,2,1,3,0,Brandon Sherrod Offensive Rebound.
+Yale,Princeton,0,2,1,15,0,Makai Mason missed Three Point Jumper.
+Yale,Princeton,0,2,1,15,0,Anthony Dallier Offensive Rebound.
+Yale,Princeton,0,2,1,25,0,Anthony Dallier missed Layup.
+Yale,Princeton,0,2,1,25,0,Pete Miller Defensive Rebound.
+Yale,Princeton,0,2,1,38,0,Amir Bell Turnover.
+Yale,Princeton,0,2,1,38,0,Anthony Dallier Steal.
+Yale,Princeton,0,2,2,5,0,Makai Mason missed Three Point Jumper.
+Yale,Princeton,0,2,2,6,0,Pete Miller Defensive Rebound.
+Yale,Princeton,0,2,2,10,0,Steven Cook Turnover.
+Yale,Princeton,0,2,2,21,0,Justin Sears missed Jumper.
+Yale,Princeton,0,2,2,21,0,Nick Victor Offensive Rebound.
+Yale,Princeton,3,2,2,27,1,Makai Mason made Three Point Jumper. Assisted by Nick Victor.
+Yale,Princeton,3,2,2,46,0,Henry Caruso missed Jumper.
+Yale,Princeton,3,2,2,46,0,Nick Victor Defensive Rebound.
+Yale,Princeton,3,2,2,56,0,Foul on Anthony Dallier.
+Yale,Princeton,3,2,2,56,0,Anthony Dallier Turnover.
+Yale,Princeton,3,4,3,5,1,Amir Bell made Jumper.
+Yale,Princeton,5,4,3,25,1,Makai Mason made Layup.
+Yale,Princeton,5,4,3,40,0,Henry Caruso missed Three Point Jumper.
+Yale,Princeton,5,4,3,40,0,Anthony Dallier Defensive Rebound.
+Yale,Princeton,7,4,3,52,1,Brandon Sherrod made Jumper. Assisted by Makai Mason.
+Yale,Princeton,7,4,4,31,0,Foul on Nick Victor.
+Yale,Princeton,7,4,4,31,0,Official TV Timeout
+Yale,Princeton,7,6,4,55,1,Henry Caruso made Jumper.
+Yale,Princeton,7,6,5,18,0,Foul on Steven Cook.
+Yale,Princeton,8,6,5,18,1,Makai Mason made Free Throw.
+Yale,Princeton,9,6,5,18,1,Makai Mason made Free Throw.
+Yale,Princeton,9,6,5,35,0,Amir Bell missed Three Point Jumper.
+Yale,Princeton,9,6,5,35,0,Sam Downey Defensive Rebound.
+Yale,Princeton,9,6,5,47,0,Foul on Devin Cannady.
+Yale,Princeton,10,6,5,47,1,Justin Sears made Free Throw.
+Yale,Princeton,11,6,5,47,1,Justin Sears made Free Throw.
+Yale,Princeton,11,6,6,7,0,Alec Brennan Turnover.
+Yale,Princeton,11,6,6,7,0,Makai Mason Steal.
+Yale,Princeton,11,6,6,7,0,Jump Ball won by Yale
+Yale,Princeton,11,6,6,23,0,Justin Sears Turnover.
+Yale,Princeton,11,6,6,43,0,Myles Stephens missed Jumper.
+Yale,Princeton,11,6,6,43,0,Justin Sears Defensive Rebound.
+Yale,Princeton,11,6,7,7,0,Makai Mason missed Jumper.
+Yale,Princeton,11,6,7,7,0,Henry Caruso Defensive Rebound.
+Yale,Princeton,11,6,7,9,0,Foul on Nick Victor.
+Yale,Princeton,11,9,7,34,1,Spencer Weisz made Three Point Jumper.
+Yale,Princeton,11,9,7,50,0,Foul on Myles Stephens.
+Yale,Princeton,11,9,8,4,0,Justin Sears missed Jumper.
+Yale,Princeton,11,9,8,4,0,Pete Miller Defensive Rebound.
+Yale,Princeton,11,11,8,9,1,Devin Cannady made Layup.
+Yale,Princeton,13,11,8,32,1,Anthony Dallier made Jumper. Assisted by Justin Sears.
+Yale,Princeton,13,11,8,40,0,Spencer Weisz Turnover.
+Yale,Princeton,13,11,8,40,0,Foul on Spencer Weisz.
+Yale,Princeton,13,11,8,41,0,Official TV Timeout
+Yale,Princeton,15,11,9,3,1,Sam Downey made Jumper. Assisted by Brandon Sherrod.
+Yale,Princeton,15,11,9,10,0,Steven Cook missed Three Point Jumper.
+Yale,Princeton,15,11,9,10,0,Brandon Sherrod Defensive Rebound.
+Yale,Princeton,15,11,9,32,0,Makai Mason Turnover.
+Yale,Princeton,15,11,9,32,0,Amir Bell Steal.
+Yale,Princeton,15,11,9,40,0,Henry Caruso missed Layup.
+Yale,Princeton,15,11,9,40,0,Sam Downey Defensive Rebound.
+Yale,Princeton,15,11,9,44,0,Makai Mason Turnover.
+Yale,Princeton,15,11,9,44,0,Pete Miller Steal.
+Yale,Princeton,15,11,9,50,0,Henry Caruso missed Jumper.
+Yale,Princeton,15,11,9,50,0,Makai Mason Defensive Rebound.
+Yale,Princeton,17,11,10,9,1,Brandon Sherrod made Jumper. Assisted by Makai Mason.
+Yale,Princeton,17,11,10,21,0,Pete Miller missed Layup.
+Yale,Princeton,17,11,10,21,0,Anthony Dallier Defensive Rebound.
+Yale,Princeton,17,11,10,24,0,Anthony Dallier Turnover.
+Yale,Princeton,17,11,10,24,0,Amir Bell Steal.
+Yale,Princeton,17,13,10,30,1,Henry Caruso made Jumper.
+Yale,Princeton,17,13,11,0,0,Anthony Dallier missed Three Point Jumper.
+Yale,Princeton,17,13,11,0,0,Sam Downey Offensive Rebound.
+Yale,Princeton,17,13,11,1,0,Foul on Pete Miller.
+Yale,Princeton,18,13,11,1,1,Sam Downey made Free Throw.
+Yale,Princeton,19,13,11,1,1,Sam Downey made Free Throw.
+Yale,Princeton,19,16,11,7,1,Devin Cannady made Three Point Jumper. Assisted by Spencer Weisz.
+Yale,Princeton,19,16,11,27,0,Foul on Devin Cannady.
+Yale,Princeton,19,16,11,34,0,Brandon Sherrod missed Three Point Jumper.
+Yale,Princeton,19,16,11,34,0,Spencer Weisz Defensive Rebound.
+Yale,Princeton,19,16,11,48,0,Henry Caruso missed Jumper.
+Yale,Princeton,19,16,11,48,0,Eric Anderson Defensive Rebound.
+Yale,Princeton,19,16,12,5,0,Makai Mason missed Three Point Jumper.
+Yale,Princeton,19,16,12,5,0,Pete Miller Defensive Rebound.
+Yale,Princeton,19,16,12,17,0,Foul on Amir Bell.
+Yale,Princeton,19,16,12,17,0,Amir Bell Turnover.
+Yale,Princeton,19,16,12,17,0,Official TV Timeout
+Yale,Princeton,21,16,12,32,1,Justin Sears made Jumper.
+Yale,Princeton,21,19,12,48,1,Spencer Weisz made Three Point Jumper. Assisted by Pete Miller.
+Yale,Princeton,23,19,13,12,1,Justin Sears made Jumper.
+Yale,Princeton,23,21,13,23,1,Myles Stephens made Layup.
+Yale,Princeton,23,21,13,37,0,Justin Sears missed Three Point Jumper.
+Yale,Princeton,23,21,13,37,0,Spencer Weisz Defensive Rebound.
+Yale,Princeton,23,21,13,57,0,Steven Cook missed Layup.
+Yale,Princeton,23,21,13,57,0,Justin Sears Block.
+Yale,Princeton,23,21,13,57,0,Brandon Sherrod Defensive Rebound.
+Yale,Princeton,23,21,14,20,0,Eric Anderson missed Jumper.
+Yale,Princeton,23,21,14,20,0,Justin Sears Offensive Rebound.
+Yale,Princeton,23,21,14,26,0,Anthony Dallier missed Layup.
+Yale,Princeton,23,21,14,26,0,Anthony Dallier Offensive Rebound.
+Yale,Princeton,25,21,14,26,1,Anthony Dallier made Two Point Tip Shot.
+Yale,Princeton,25,21,14,44,0,Pete Miller Turnover.
+Yale,Princeton,25,21,14,44,0,Justin Sears Steal.
+Yale,Princeton,27,21,14,51,1,Justin Sears made Jumper.
+Yale,Princeton,27,21,15,1,0,Princeton  Timeout
+Yale,Princeton,27,24,15,12,1,Devin Cannady made Three Point Jumper. Assisted by Amir Bell.
+Yale,Princeton,27,24,15,40,0,Justin Sears missed Jumper.
+Yale,Princeton,27,24,15,40,0,Pete Miller Block.
+Yale,Princeton,27,24,15,40,0,Henry Caruso Defensive Rebound.
+Yale,Princeton,27,27,15,45,1,Devin Cannady made Three Point Jumper. Assisted by Amir Bell.
+Yale,Princeton,27,27,15,56,0,Makai Mason missed Jumper.
+Yale,Princeton,27,27,15,56,0,Devin Cannady Block.
+Yale,Princeton,27,27,15,56,0,Henry Caruso Defensive Rebound.
+Yale,Princeton,27,29,16,2,1,Henry Caruso made Dunk.
+Yale,Princeton,27,29,16,3,0,Yale  Timeout
+Yale,Princeton,27,29,16,3,0,Official TV Timeout
+Yale,Princeton,27,29,16,37,0,Brandon Sherrod missed Jumper.
+Yale,Princeton,27,29,16,37,0,Henry Caruso Defensive Rebound.
+Yale,Princeton,27,29,16,40,0,Foul on Justin Sears.
+Yale,Princeton,27,32,16,52,1,Steven Cook made Three Point Jumper. Assisted by Spencer Weisz.
+Yale,Princeton,27,32,17,8,0,Khaliq Ghani Turnover.
+Yale,Princeton,27,32,17,8,0,Spencer Weisz Steal.
+Yale,Princeton,27,34,17,12,1,Spencer Weisz made Layup.
+Yale,Princeton,29,34,17,29,1,Makai Mason made Jumper.
+Yale,Princeton,29,34,17,43,0,Steven Cook missed Three Point Jumper.
+Yale,Princeton,29,34,17,43,0,Khaliq Ghani Defensive Rebound.
+Yale,Princeton,29,34,18,6,0,Makai Mason missed Jumper.
+Yale,Princeton,29,34,18,6,0,Pete Miller Defensive Rebound.
+Yale,Princeton,29,34,18,36,0,Jump Ball won by Princeton
+Yale,Princeton,29,34,18,41,0,Henry Caruso missed Three Point Jumper.
+Yale,Princeton,29,34,18,41,0,Justin Sears Block.
+Yale,Princeton,29,34,18,41,0,Princeton Offensive Rebound.
+Yale,Princeton,29,34,18,42,0,Princeton  Turnover.
+Yale,Princeton,29,34,19,9,0,Anthony Dallier missed Layup.
+Yale,Princeton,29,34,19,9,0,Spencer Weisz Defensive Rebound.
+Yale,Princeton,29,37,19,19,1,Amir Bell made Three Point Jumper.
+Yale,Princeton,29,37,19,42,0,Makai Mason Turnover.
+Yale,Princeton,29,37,19,42,0,Spencer Weisz Steal.
+Yale,Princeton,29,39,19,55,1,Amir Bell made Jumper.
+Yale,Princeton,29,39,20,0,0,End of 1st half
+Yale,Princeton,29,39,20,0,0,Jump Ball won by Yale
+Yale,Princeton,31,39,20,28,1,Brandon Sherrod made Jumper.
+Yale,Princeton,31,39,20,54,0,Amir Bell missed Three Point Jumper.
+Yale,Princeton,31,39,20,54,0,Anthony Dallier Defensive Rebound.
+Yale,Princeton,33,39,21,11,1,Brandon Sherrod made Jumper.
+Yale,Princeton,33,39,21,26,0,Amir Bell missed Three Point Jumper.
+Yale,Princeton,33,39,21,26,0,Nick Victor Defensive Rebound.
+Yale,Princeton,33,39,21,45,0,Nick Victor missed Layup.
+Yale,Princeton,33,39,21,45,0,Pete Miller Block.
+Yale,Princeton,33,39,21,45,0,Amir Bell Defensive Rebound.
+Yale,Princeton,33,39,21,50,0,Henry Caruso missed Layup.
+Yale,Princeton,33,39,21,50,0,Brandon Sherrod Block.
+Yale,Princeton,33,39,21,50,0,Princeton Offensive Rebound.
+Yale,Princeton,33,39,21,52,0,Henry Caruso missed Three Point Jumper.
+Yale,Princeton,33,39,21,52,0,Brandon Sherrod Defensive Rebound.
+Yale,Princeton,35,39,22,6,1,Brandon Sherrod made Jumper. Assisted by Makai Mason.
+Yale,Princeton,35,41,22,22,1,Devin Cannady made Jumper.
+Yale,Princeton,35,41,22,28,0,Foul on Amir Bell.
+Yale,Princeton,35,41,22,38,0,Anthony Dallier missed Three Point Jumper.
+Yale,Princeton,35,41,22,39,0,Princeton Defensive Rebound.
+Yale,Princeton,35,41,22,59,0,Foul on Justin Sears.
+Yale,Princeton,35,42,22,59,1,Myles Stephens made Free Throw.
+Yale,Princeton,35,43,22,59,1,Myles Stephens made Free Throw.
+Yale,Princeton,35,43,23,16,0,Justin Sears missed Jumper.
+Yale,Princeton,35,43,23,16,0,Princeton Defensive Rebound.
+Yale,Princeton,35,43,23,32,0,Devin Cannady missed Three Point Jumper.
+Yale,Princeton,35,43,23,32,0,Spencer Weisz Offensive Rebound.
+Yale,Princeton,35,43,23,42,0,Myles Stephens Turnover.
+Yale,Princeton,35,43,23,42,0,Anthony Dallier Steal.
+Yale,Princeton,37,43,23,49,1,Brandon Sherrod made Layup. Assisted by Nick Victor.
+Yale,Princeton,37,46,24,3,1,Spencer Weisz made Three Point Jumper. Assisted by Henry Caruso.
+Yale,Princeton,37,46,24,18,0,Makai Mason missed Jumper.
+Yale,Princeton,37,46,24,19,0,Brandon Sherrod Offensive Rebound.
+Yale,Princeton,39,46,24,21,1,Brandon Sherrod made Jumper.
+Yale,Princeton,39,48,24,35,1,Myles Stephens made Layup.
+Yale,Princeton,39,48,24,53,0,Brandon Sherrod Turnover.
+Yale,Princeton,39,48,24,53,0,Steven Cook Steal.
+Yale,Princeton,39,50,25,12,1,Henry Caruso made Jumper. Assisted by Spencer Weisz.
+Yale,Princeton,39,50,25,33,0,Foul on Myles Stephens.
+Yale,Princeton,39,50,25,33,0,Official TV Timeout
+Yale,Princeton,39,50,25,33,0,Justin Sears missed Free Throw.
+Yale,Princeton,39,50,25,33,0,Yale Deadball Team Rebound.
+Yale,Princeton,40,50,25,33,1,Justin Sears made Free Throw.
+Yale,Princeton,40,50,25,59,0,Amir Bell missed Three Point Jumper.
+Yale,Princeton,40,50,25,59,0,Nick Victor Defensive Rebound.
+Yale,Princeton,40,50,26,17,0,Makai Mason Turnover.
+Yale,Princeton,40,50,26,17,0,Amir Bell Steal.
+Yale,Princeton,40,50,26,21,0,Foul on Nick Victor.
+Yale,Princeton,40,51,26,21,1,Amir Bell made Free Throw.
+Yale,Princeton,40,52,26,21,1,Amir Bell made Free Throw.
+Yale,Princeton,40,52,26,31,0,Foul on Myles Stephens.
+Yale,Princeton,41,52,26,31,1,Brandon Sherrod made Free Throw.
+Yale,Princeton,42,52,26,31,1,Brandon Sherrod made Free Throw.
+Yale,Princeton,42,52,26,58,0,Henry Caruso missed Jumper.
+Yale,Princeton,42,52,26,58,0,Nick Victor Defensive Rebound.
+Yale,Princeton,42,52,26,58,0,Foul on Pete Miller.
+Yale,Princeton,42,52,27,21,0,Khaliq Ghani missed Three Point Jumper.
+Yale,Princeton,42,52,27,21,0,Pete Miller Defensive Rebound.
+Yale,Princeton,42,54,27,32,1,Spencer Weisz made Layup.
+Yale,Princeton,44,54,27,56,1,Makai Mason made Jumper.
+Yale,Princeton,44,54,28,16,0,Pete Miller missed Jumper.
+Yale,Princeton,44,54,28,16,0,Khaliq Ghani Defensive Rebound.
+Yale,Princeton,44,54,28,32,0,Khaliq Ghani missed Jumper.
+Yale,Princeton,44,54,28,32,0,Yale Offensive Rebound.
+Yale,Princeton,44,54,28,34,0,Official TV Timeout
+Yale,Princeton,44,54,28,45,0,Khaliq Ghani Turnover.
+Yale,Princeton,44,54,29,6,0,Devin Cannady missed Jumper.
+Yale,Princeton,44,54,29,6,0,Khaliq Ghani Defensive Rebound.
+Yale,Princeton,44,54,29,15,0,Khaliq Ghani Turnover.
+Yale,Princeton,44,54,29,15,0,Alec Brennan Steal.
+Yale,Princeton,44,56,29,21,1,Alec Brennan made Layup.
+Yale,Princeton,44,56,29,27,0,Khaliq Ghani missed Three Point Jumper.
+Yale,Princeton,44,56,29,27,0,Justin Sears Offensive Rebound.
+Yale,Princeton,46,56,29,39,1,Makai Mason made Jumper.
+Yale,Princeton,46,56,29,59,0,Aaron Young missed Three Point Jumper.
+Yale,Princeton,46,56,29,59,0,Princeton Offensive Rebound.
+Yale,Princeton,46,56,30,1,0,Amir Bell Turnover.
+Yale,Princeton,46,56,30,10,0,Nick Victor Turnover.
+Yale,Princeton,46,56,30,26,0,Henry Caruso Turnover.
+Yale,Princeton,46,56,30,26,0,Justin Sears Steal.
+Yale,Princeton,46,56,30,39,0,Foul on Pete Miller.
+Yale,Princeton,47,56,30,39,1,Sam Downey made Free Throw.
+Yale,Princeton,48,56,30,39,1,Sam Downey made Free Throw.
+Yale,Princeton,48,56,30,54,0,Steven Cook missed Layup.
+Yale,Princeton,48,56,30,54,0,Justin Sears Defensive Rebound.
+Yale,Princeton,48,56,31,11,0,Eric Anderson missed Layup.
+Yale,Princeton,48,56,31,11,0,Justin Sears Offensive Rebound.
+Yale,Princeton,50,56,31,11,1,Justin Sears made Two Point Tip Shot.
+Yale,Princeton,50,56,31,26,0,Myles Stephens missed Layup.
+Yale,Princeton,50,56,31,26,0,Nick Victor Defensive Rebound.
+Yale,Princeton,50,56,31,33,0,Makai Mason missed Three Point Jumper.
+Yale,Princeton,50,56,31,33,0,Princeton Defensive Rebound.
+Yale,Princeton,50,58,31,55,1,Amir Bell made Jumper.
+Yale,Princeton,50,58,32,12,0,Official TV Timeout
+Yale,Princeton,50,58,32,24,0,Brandon Sherrod missed Jumper.
+Yale,Princeton,50,58,32,24,0,Pete Miller Defensive Rebound.
+Yale,Princeton,50,58,32,39,0,Myles Stephens Turnover.
+Yale,Princeton,50,58,32,52,0,Foul on Pete Miller.
+Yale,Princeton,51,58,32,52,1,Brandon Sherrod made Free Throw.
+Yale,Princeton,52,58,32,52,1,Brandon Sherrod made Free Throw.
+Yale,Princeton,52,58,33,2,0,Devin Cannady Turnover.
+Yale,Princeton,52,58,33,2,0,Anthony Dallier Steal.
+Yale,Princeton,52,58,33,10,0,Foul on Devin Cannady.
+Yale,Princeton,52,58,33,10,0,Anthony Dallier missed Free Throw.
+Yale,Princeton,52,58,33,12,0,Spencer Weisz Defensive Rebound.
+Yale,Princeton,52,60,33,24,1,Henry Caruso made Jumper.
+Yale,Princeton,52,60,33,41,0,Foul on Justin Sears.
+Yale,Princeton,52,60,33,41,0,Justin Sears Turnover.
+Yale,Princeton,52,60,33,59,0,Steven Cook Turnover.
+Yale,Princeton,52,60,33,59,0,Makai Mason Steal.
+Yale,Princeton,52,60,34,5,0,Makai Mason Turnover.
+Yale,Princeton,52,60,34,5,0,Spencer Weisz Steal.
+Yale,Princeton,52,60,34,24,0,Spencer Weisz missed Layup.
+Yale,Princeton,52,60,34,24,0,Nick Victor Block.
+Yale,Princeton,52,60,34,24,0,Princeton Offensive Rebound.
+Yale,Princeton,52,62,34,32,1,Steven Cook made Jumper. Assisted by Henry Caruso.
+Yale,Princeton,52,62,34,40,0,Yale  Timeout
+Yale,Princeton,52,62,34,40,0,Official TV Timeout
+Yale,Princeton,52,62,35,5,0,Brandon Sherrod missed Jumper.
+Yale,Princeton,52,62,35,6,0,Spencer Weisz Defensive Rebound.
+Yale,Princeton,52,62,35,37,0,Henry Caruso missed Jumper.
+Yale,Princeton,52,62,35,37,0,Justin Sears Defensive Rebound.
+Yale,Princeton,54,62,35,46,1,Makai Mason made Jumper.
+Yale,Princeton,54,62,35,56,0,Princeton  Timeout
+Yale,Princeton,54,62,36,18,0,Spencer Weisz missed Three Point Jumper.
+Yale,Princeton,54,62,36,18,0,Devin Cannady Offensive Rebound.
+Yale,Princeton,54,62,36,20,0,Foul on Makai Mason.
+Yale,Princeton,54,63,36,20,1,Devin Cannady made Free Throw.
+Yale,Princeton,54,64,36,20,1,Devin Cannady made Free Throw.
+Yale,Princeton,56,64,36,42,1,Nick Victor made Layup.
+Yale,Princeton,56,64,37,8,0,Amir Bell missed Jumper.
+Yale,Princeton,56,64,37,8,0,Justin Sears Defensive Rebound.
+Yale,Princeton,56,64,37,26,0,Nick Victor Turnover.
+Yale,Princeton,56,64,37,26,0,Devin Cannady Steal.
+Yale,Princeton,56,64,37,36,0,Foul on Justin Sears.
+Yale,Princeton,56,64,37,45,0,Foul on Nick Victor.
+Yale,Princeton,56,65,37,45,1,Devin Cannady made Free Throw.
+Yale,Princeton,56,65,37,45,0,Devin Cannady missed Free Throw.
+Yale,Princeton,56,65,37,46,0,Anthony Dallier Defensive Rebound.
+Yale,Princeton,56,65,37,57,0,Makai Mason missed Jumper.
+Yale,Princeton,56,65,37,57,0,Pete Miller Defensive Rebound.
+Yale,Princeton,56,65,38,1,0,Foul on Anthony Dallier.
+Yale,Princeton,56,65,38,1,0,Pete Miller missed Free Throw.
+Yale,Princeton,56,65,38,1,0,Anthony Dallier Defensive Rebound.
+Yale,Princeton,56,65,38,7,0,Foul on Steven Cook.
+Yale,Princeton,56,65,38,7,0,Anthony Dallier missed Free Throw.
+Yale,Princeton,56,65,38,7,0,Spencer Weisz Defensive Rebound.
+Yale,Princeton,56,65,38,17,0,Devin Cannady Turnover.
+Yale,Princeton,56,65,38,17,0,Makai Mason Steal.
+Yale,Princeton,56,65,38,21,0,Makai Mason missed Jumper.
+Yale,Princeton,56,65,38,21,0,Justin Sears Offensive Rebound.
+Yale,Princeton,56,65,38,24,0,Foul on Henry Caruso.
+Yale,Princeton,57,65,38,24,1,Justin Sears made Free Throw.
+Yale,Princeton,58,65,38,24,1,Justin Sears made Free Throw.
+Yale,Princeton,58,65,38,28,0,Princeton  Timeout
+Yale,Princeton,58,65,38,30,0,Foul on Brandon Sherrod.
+Yale,Princeton,58,66,38,30,1,Henry Caruso made Free Throw.
+Yale,Princeton,58,66,38,30,0,Henry Caruso missed Free Throw.
+Yale,Princeton,58,66,38,30,0,Justin Sears Defensive Rebound.
+Yale,Princeton,58,66,38,43,0,Makai Mason missed Jumper.
+Yale,Princeton,58,66,38,43,0,Brandon Sherrod Offensive Rebound.
+Yale,Princeton,58,66,38,48,0,Brandon Sherrod missed Jumper.
+Yale,Princeton,58,66,38,48,0,Amir Bell Defensive Rebound.
+Yale,Princeton,58,66,38,49,0,Foul on Makai Mason.
+Yale,Princeton,58,67,38,49,1,Spencer Weisz made Free Throw.
+Yale,Princeton,58,68,38,49,1,Spencer Weisz made Free Throw.
+Yale,Princeton,58,68,38,58,0,Anthony Dallier missed Three Point Jumper.
+Yale,Princeton,58,68,38,58,0,Myles Stephens Defensive Rebound.
+Yale,Princeton,58,68,39,0,0,Foul on Nick Victor.
+Yale,Princeton,58,69,39,0,1,Myles Stephens made Free Throw.
+Yale,Princeton,58,70,39,0,1,Myles Stephens made Free Throw.
+Yale,Princeton,60,70,39,13,1,Makai Mason made Jumper.
+Yale,Princeton,60,70,39,13,0,Yale  Timeout
+Yale,Princeton,60,70,39,15,0,Foul on Makai Mason.
+Yale,Princeton,60,71,39,15,1,Henry Caruso made Free Throw.
+Yale,Princeton,60,71,39,15,0,Henry Caruso missed Free Throw.
+Yale,Princeton,60,71,39,16,0,Justin Sears Defensive Rebound.
+Yale,Princeton,60,71,39,26,0,Foul on Amir Bell.
+Yale,Princeton,61,71,39,26,1,Justin Sears made Free Throw.
+Yale,Princeton,62,71,39,26,1,Justin Sears made Free Throw.
+Yale,Princeton,62,71,39,28,0,Foul on Anthony Dallier.
+Yale,Princeton,62,72,39,28,1,Devin Cannady made Free Throw.
+Yale,Princeton,62,73,39,28,1,Devin Cannady made Free Throw.
+Yale,Princeton,62,73,39,35,0,Foul on Amir Bell.
+Yale,Princeton,63,73,39,35,1,Makai Mason made Free Throw.
+Yale,Princeton,63,73,39,35,0,Makai Mason missed Free Throw.
+Yale,Princeton,63,73,39,35,0,Henry Caruso Defensive Rebound.
+Yale,Princeton,63,73,39,45,0,Foul on Khaliq Ghani.
+Yale,Princeton,63,74,39,45,1,Devin Cannady made Free Throw.
+Yale,Princeton,63,75,39,45,1,Devin Cannady made Free Throw.
+Yale,Princeton,63,75,39,49,0,Makai Mason Turnover.
+Yale,Princeton,63,75,39,49,0,Amir Bell Steal.
+Yale,Princeton,63,75,40,0,0,End of Game

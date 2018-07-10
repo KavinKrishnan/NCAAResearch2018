@@ -1,0 +1,350 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+NJIT,Marquette,0,0,0,26,0,Steve Taylor Jr. missed Jumper.
+NJIT,Marquette,0,0,0,26,0,Steve Taylor Jr. Offensive Rebound.
+NJIT,Marquette,0,0,1,1,0,Derrick Wilson missed Jumper.
+NJIT,Marquette,0,0,1,1,0,Damon Lynn Defensive Rebound.
+NJIT,Marquette,0,0,1,25,0,Foul on Juan Anderson.
+NJIT,Marquette,2,0,1,44,1,Daquan Holiday made Jumper. Assisted by Ky Howard.
+NJIT,Marquette,2,0,2,13,0,Matt Carlino missed Jumper.
+NJIT,Marquette,2,0,2,13,0,Ky Howard Defensive Rebound.
+NJIT,Marquette,2,0,2,26,0,Damon Lynn missed Jumper.
+NJIT,Marquette,2,0,2,26,0,Daquan Holiday Offensive Rebound.
+NJIT,Marquette,4,0,2,29,1,Daquan Holiday made Two Point Tip Shot.
+NJIT,Marquette,4,0,2,39,0,Foul on Ky Howard.
+NJIT,Marquette,4,2,2,56,1,Duane Wilson made Jumper. Assisted by Derrick Wilson.
+NJIT,Marquette,4,2,3,24,0,Foul on Juan Anderson.
+NJIT,Marquette,5,2,3,24,1,Winfield Willis made Free Throw.
+NJIT,Marquette,5,2,3,24,0,Winfield Willis missed Free Throw.
+NJIT,Marquette,5,2,3,24,0,Derrick Wilson Defensive Rebound.
+NJIT,Marquette,5,2,3,38,0,Foul on Rob Ukawuba.
+NJIT,Marquette,5,2,3,38,0,Matt Carlino missed Free Throw.
+NJIT,Marquette,5,2,3,38,0,Marquette Deadball Team Rebound.
+NJIT,Marquette,5,3,3,38,1,Matt Carlino made Free Throw.
+NJIT,Marquette,5,3,3,51,0,Damon Lynn Turnover.
+NJIT,Marquette,5,3,3,51,0,Deonte Burton Steal.
+NJIT,Marquette,5,3,4,7,0,Matt Carlino Turnover.
+NJIT,Marquette,5,3,4,7,0,Official TV Timeout
+NJIT,Marquette,5,3,4,28,0,Ky Howard missed Jumper.
+NJIT,Marquette,5,3,4,28,0,Odera Nweke Offensive Rebound.
+NJIT,Marquette,7,3,4,31,1,Odera Nweke made Two Point Tip Shot.
+NJIT,Marquette,7,3,4,53,0,Sandy Cohen III missed Three Point Jumper.
+NJIT,Marquette,7,3,4,53,0,Rob Ukawuba Defensive Rebound.
+NJIT,Marquette,7,3,4,54,0,Foul on Deonte Burton.
+NJIT,Marquette,7,3,5,18,0,Foul on Jajuan Johnson.
+NJIT,Marquette,7,3,5,22,0,Damon Lynn missed Three Point Jumper.
+NJIT,Marquette,7,3,5,22,0,Sandy Cohen III Defensive Rebound.
+NJIT,Marquette,7,3,5,53,0,Jajuan Johnson missed Jumper.
+NJIT,Marquette,7,3,5,53,0,Daquan Holiday Defensive Rebound.
+NJIT,Marquette,7,3,6,0,0,Winfield Willis missed Three Point Jumper.
+NJIT,Marquette,7,3,6,0,0,Steve Taylor Jr. Defensive Rebound.
+NJIT,Marquette,7,5,6,6,1,Jajuan Johnson made Layup. Assisted by Matt Carlino.
+NJIT,Marquette,7,5,6,13,0,Damon Lynn Turnover.
+NJIT,Marquette,7,8,6,38,1,Sandy Cohen III made Three Point Jumper. Assisted by Duane Wilson.
+NJIT,Marquette,9,8,6,55,1,Daquan Holiday made Layup.
+NJIT,Marquette,9,8,7,19,0,Duane Wilson missed Three Point Jumper.
+NJIT,Marquette,9,8,7,19,0,NJIT Deadball Team Rebound.
+NJIT,Marquette,9,8,7,19,0,Foul on Steve Taylor Jr..
+NJIT,Marquette,9,8,7,30,0,Tim Coleman Turnover.
+NJIT,Marquette,9,8,7,31,0,Matt Carlino Steal.
+NJIT,Marquette,9,8,7,37,0,Matt Carlino missed Jumper.
+NJIT,Marquette,9,8,7,37,0,Duane Wilson Offensive Rebound.
+NJIT,Marquette,9,8,7,38,0,Duane Wilson missed Two Point Tip Shot.
+NJIT,Marquette,9,8,7,38,0,Daquan Holiday Defensive Rebound.
+NJIT,Marquette,12,8,7,45,1,Osa Izevbuwa made Three Point Jumper. Assisted by Damon Lynn.
+NJIT,Marquette,12,8,8,18,0,Foul on Tim Coleman.
+NJIT,Marquette,12,8,8,18,0,Official TV Timeout
+NJIT,Marquette,12,8,8,18,0,Juan Anderson missed Free Throw.
+NJIT,Marquette,12,8,8,18,0,Marquette Deadball Team Rebound.
+NJIT,Marquette,12,8,8,18,0,Juan Anderson missed Free Throw.
+NJIT,Marquette,12,8,8,18,0,Rob Ukawuba Defensive Rebound.
+NJIT,Marquette,12,8,8,39,0,Ky Howard Turnover.
+NJIT,Marquette,12,10,9,3,1,Jajuan Johnson made Layup.
+NJIT,Marquette,12,10,9,17,0,Winfield Willis Turnover.
+NJIT,Marquette,12,10,9,18,0,Juan Anderson Steal.
+NJIT,Marquette,12,12,9,21,1,Juan Anderson made Layup.
+NJIT,Marquette,12,12,9,47,0,Foul on Osa Izevbuwa.
+NJIT,Marquette,12,12,9,47,0,Osa Izevbuwa Turnover.
+NJIT,Marquette,12,12,10,10,0,Sandy Cohen III missed Jumper.
+NJIT,Marquette,12,12,10,10,0,Odera Nweke Block.
+NJIT,Marquette,12,12,10,11,0,Foul on Matt Carlino.
+NJIT,Marquette,12,12,10,11,0,NJIT  Timeout
+NJIT,Marquette,12,12,10,15,0,Ky Howard Defensive Rebound.
+NJIT,Marquette,12,12,10,31,0,Odera Nweke missed Jumper.
+NJIT,Marquette,12,12,10,31,0,Steve Taylor Jr. Defensive Rebound.
+NJIT,Marquette,12,12,10,51,0,Jajuan Johnson missed Jumper.
+NJIT,Marquette,12,12,10,51,0,Odera Nweke Defensive Rebound.
+NJIT,Marquette,12,12,10,57,0,Tim Coleman missed Three Point Jumper.
+NJIT,Marquette,12,12,10,57,0,Jajuan Johnson Defensive Rebound.
+NJIT,Marquette,12,12,11,18,0,Foul on Daquan Holiday.
+NJIT,Marquette,12,12,11,37,0,Steve Taylor Jr. missed Jumper.
+NJIT,Marquette,12,12,11,37,0,NJIT Defensive Rebound.
+NJIT,Marquette,14,12,11,53,1,Ky Howard made Jumper.
+NJIT,Marquette,14,12,12,4,0,Derrick Wilson missed Layup.
+NJIT,Marquette,14,12,12,4,0,Steve Taylor Jr. Offensive Rebound.
+NJIT,Marquette,14,12,12,8,0,Steve Taylor Jr. missed Two Point Tip Shot.
+NJIT,Marquette,14,12,12,8,0,Odera Nweke Block.
+NJIT,Marquette,14,12,12,10,0,Damon Lynn Defensive Rebound.
+NJIT,Marquette,14,12,12,13,0,Damon Lynn missed Three Point Jumper.
+NJIT,Marquette,14,12,12,13,0,Winfield Willis Offensive Rebound.
+NJIT,Marquette,14,12,12,41,0,Damon Lynn Turnover.
+NJIT,Marquette,14,12,12,43,0,Duane Wilson Steal.
+NJIT,Marquette,14,12,13,4,0,Jajuan Johnson missed Jumper.
+NJIT,Marquette,14,12,13,4,0,Odera Nweke Block.
+NJIT,Marquette,14,12,13,6,0,Ky Howard Defensive Rebound.
+NJIT,Marquette,14,12,13,17,0,Foul on Duane Wilson.
+NJIT,Marquette,14,12,13,17,0,Official TV Timeout
+NJIT,Marquette,15,12,13,17,1,Damon Lynn made Free Throw.
+NJIT,Marquette,16,12,13,17,1,Damon Lynn made Free Throw.
+NJIT,Marquette,16,14,13,33,1,Juan Anderson made Jumper. Assisted by Derrick Wilson.
+NJIT,Marquette,16,14,13,33,0,Foul on Daquan Holiday.
+NJIT,Marquette,16,15,13,33,1,Juan Anderson made Free Throw.
+NJIT,Marquette,16,15,13,53,0,Vlad Shustov Turnover.
+NJIT,Marquette,16,15,13,54,0,Matt Carlino Steal.
+NJIT,Marquette,16,15,13,57,0,Matt Carlino missed Layup.
+NJIT,Marquette,16,15,13,57,0,Juan Anderson Offensive Rebound.
+NJIT,Marquette,16,17,13,59,1,Juan Anderson made Two Point Tip Shot.
+NJIT,Marquette,16,17,14,12,0,Foul on Derrick Wilson.
+NJIT,Marquette,16,17,14,12,0,Damon Lynn missed Free Throw.
+NJIT,Marquette,16,17,14,12,0,Sandy Cohen III Defensive Rebound.
+NJIT,Marquette,16,17,14,22,0,Juan Anderson Turnover.
+NJIT,Marquette,16,17,14,23,0,Damon Lynn Steal.
+NJIT,Marquette,18,17,14,26,1,Damon Lynn made Layup.
+NJIT,Marquette,18,17,14,46,0,Foul on Vlad Shustov.
+NJIT,Marquette,18,17,14,46,0,Matt Carlino missed Free Throw.
+NJIT,Marquette,18,17,14,46,0,Juan Anderson Offensive Rebound.
+NJIT,Marquette,18,17,15,9,0,Juan Anderson Turnover.
+NJIT,Marquette,18,17,15,9,0,Foul on Matt Carlino.
+NJIT,Marquette,18,17,15,9,0,Ky Howard missed Free Throw.
+NJIT,Marquette,18,17,15,9,0,Deonte Burton Defensive Rebound.
+NJIT,Marquette,18,17,15,17,0,Derrick Wilson missed Jumper.
+NJIT,Marquette,18,17,15,17,0,Rob Ukawuba Defensive Rebound.
+NJIT,Marquette,20,17,15,35,1,Rob Ukawuba made Dunk. Assisted by Odera Nweke.
+NJIT,Marquette,20,17,15,46,0,Marquette  Timeout
+NJIT,Marquette,20,17,15,59,0,Jajuan Johnson Turnover.
+NJIT,Marquette,20,17,15,59,0,Odera Nweke Steal.
+NJIT,Marquette,23,17,16,9,1,Damon Lynn made Three Point Jumper.
+NJIT,Marquette,23,17,16,45,0,Foul on Winfield Willis.
+NJIT,Marquette,23,17,16,45,0,Official TV Timeout
+NJIT,Marquette,23,18,16,45,1,Duane Wilson made Free Throw.
+NJIT,Marquette,23,19,16,45,1,Duane Wilson made Free Throw.
+NJIT,Marquette,23,19,16,45,0,Duane Wilson missed Free Throw.
+NJIT,Marquette,23,19,16,45,0,Odera Nweke Defensive Rebound.
+NJIT,Marquette,25,19,16,54,1,Rob Ukawuba made Layup. Assisted by Damon Lynn.
+NJIT,Marquette,25,19,17,13,0,Duane Wilson missed Jumper.
+NJIT,Marquette,25,19,17,13,0,Juan Anderson Offensive Rebound.
+NJIT,Marquette,25,21,17,17,1,Juan Anderson made Two Point Tip Shot.
+NJIT,Marquette,25,21,17,35,0,Foul on Derrick Wilson.
+NJIT,Marquette,26,21,17,35,1,Rob Ukawuba made Free Throw.
+NJIT,Marquette,27,21,17,35,1,Rob Ukawuba made Free Throw.
+NJIT,Marquette,27,23,17,50,1,Deonte Burton made Jumper. Assisted by Jajuan Johnson.
+NJIT,Marquette,27,23,18,14,0,Rob Ukawuba Turnover.
+NJIT,Marquette,27,23,18,28,0,Deonte Burton missed Layup.
+NJIT,Marquette,27,23,18,28,0,Deonte Burton Offensive Rebound.
+NJIT,Marquette,27,23,18,28,0,Foul on Osa Izevbuwa.
+NJIT,Marquette,27,24,18,28,1,Deonte Burton made Free Throw.
+NJIT,Marquette,27,25,18,28,1,Deonte Burton made Free Throw.
+NJIT,Marquette,30,25,18,57,1,Damon Lynn made Three Point Jumper. Assisted by Odera Nweke.
+NJIT,Marquette,30,25,19,19,0,Deonte Burton missed Jumper.
+NJIT,Marquette,30,25,19,19,0,Tim Coleman Block.
+NJIT,Marquette,30,25,19,21,0,Ky Howard Defensive Rebound.
+NJIT,Marquette,30,25,19,24,0,Tim Coleman Turnover.
+NJIT,Marquette,30,25,19,25,0,Jajuan Johnson Steal.
+NJIT,Marquette,30,28,19,59,1,Jajuan Johnson made Three Point Jumper. Assisted by Derrick Wilson.
+NJIT,Marquette,30,28,20,0,0,End of 1st half
+NJIT,Marquette,30,28,20,12,0,Juan Anderson missed Jumper.
+NJIT,Marquette,30,28,20,12,0,Steve Taylor Jr. Offensive Rebound.
+NJIT,Marquette,30,28,20,16,0,Steve Taylor Jr. missed Two Point Tip Shot.
+NJIT,Marquette,30,28,20,16,0,Marquette Offensive Rebound.
+NJIT,Marquette,30,28,20,18,0,Foul on Damon Lynn.
+NJIT,Marquette,30,29,20,18,1,Juan Anderson made Free Throw.
+NJIT,Marquette,30,29,20,18,0,Juan Anderson missed Free Throw.
+NJIT,Marquette,30,29,20,18,0,Daquan Holiday Defensive Rebound.
+NJIT,Marquette,32,29,20,37,1,Winfield Willis made Jumper.
+NJIT,Marquette,32,31,20,55,1,Duane Wilson made Jumper. Assisted by Matt Carlino.
+NJIT,Marquette,32,31,21,12,0,Damon Lynn missed Layup.
+NJIT,Marquette,32,31,21,12,0,Juan Anderson Defensive Rebound.
+NJIT,Marquette,32,31,21,24,0,Juan Anderson missed Jumper.
+NJIT,Marquette,32,31,21,24,0,Daquan Holiday Block.
+NJIT,Marquette,32,31,21,24,0,Marquette Offensive Rebound.
+NJIT,Marquette,32,31,21,36,0,Foul on Rob Ukawuba.
+NJIT,Marquette,32,31,21,42,0,Duane Wilson missed Three Point Jumper.
+NJIT,Marquette,32,31,21,42,0,Damon Lynn Defensive Rebound.
+NJIT,Marquette,32,31,22,11,0,Winfield Willis Turnover.
+NJIT,Marquette,32,33,22,25,1,Steve Taylor Jr. made Layup. Assisted by Matt Carlino.
+NJIT,Marquette,32,33,23,0,0,Odera Nweke missed Jumper.
+NJIT,Marquette,32,33,23,0,0,Odera Nweke Offensive Rebound.
+NJIT,Marquette,32,33,23,10,0,Ky Howard missed Jumper.
+NJIT,Marquette,32,33,23,10,0,Damon Lynn Offensive Rebound.
+NJIT,Marquette,32,33,23,14,0,Foul on Steve Taylor Jr..
+NJIT,Marquette,33,33,23,14,1,Ky Howard made Free Throw.
+NJIT,Marquette,34,33,23,14,1,Ky Howard made Free Throw.
+NJIT,Marquette,34,33,23,46,0,Jajuan Johnson Turnover.
+NJIT,Marquette,34,33,24,0,0,Winfield Willis missed Layup.
+NJIT,Marquette,34,33,24,0,0,Steve Taylor Jr. Defensive Rebound.
+NJIT,Marquette,34,33,24,9,0,Official TV Timeout
+NJIT,Marquette,34,35,24,29,1,Deonte Burton made Jumper. Assisted by Jajuan Johnson.
+NJIT,Marquette,34,35,24,46,0,Matt Carlino Block.
+NJIT,Marquette,34,35,24,46,0,Winfield Willis missed Layup.
+NJIT,Marquette,34,35,24,46,0,Odera Nweke Offensive Rebound.
+NJIT,Marquette,36,35,24,49,1,Odera Nweke made Two Point Tip Shot.
+NJIT,Marquette,36,35,25,7,0,Matt Carlino missed Jumper.
+NJIT,Marquette,36,35,25,7,0,Odera Nweke Block.
+NJIT,Marquette,36,35,25,10,0,Odera Nweke Defensive Rebound.
+NJIT,Marquette,36,35,25,30,0,Damon Lynn missed Three Point Jumper.
+NJIT,Marquette,36,35,25,30,0,Odera Nweke Offensive Rebound.
+NJIT,Marquette,36,35,25,33,0,Odera Nweke missed Two Point Tip Shot.
+NJIT,Marquette,36,35,25,33,0,Deonte Burton Defensive Rebound.
+NJIT,Marquette,36,35,25,42,0,Jajuan Johnson missed Three Point Jumper.
+NJIT,Marquette,36,35,25,42,0,Juan Anderson Offensive Rebound.
+NJIT,Marquette,36,35,25,47,0,Matt Carlino missed Three Point Jumper.
+NJIT,Marquette,36,35,25,47,0,Marquette Offensive Rebound.
+NJIT,Marquette,36,35,25,54,0,Derrick Wilson Turnover.
+NJIT,Marquette,36,35,26,9,0,Foul on Juan Anderson.
+NJIT,Marquette,37,35,26,9,1,Daquan Holiday made Free Throw.
+NJIT,Marquette,38,35,26,9,1,Daquan Holiday made Free Throw.
+NJIT,Marquette,38,35,26,24,0,Sandy Cohen III Turnover.
+NJIT,Marquette,38,35,26,24,0,Marquette  Timeout
+NJIT,Marquette,38,35,26,52,0,Damon Lynn missed Jumper.
+NJIT,Marquette,38,35,26,52,0,Damon Lynn Offensive Rebound.
+NJIT,Marquette,38,35,26,54,0,Damon Lynn missed Two Point Tip Shot.
+NJIT,Marquette,38,35,26,54,0,Damon Lynn Offensive Rebound.
+NJIT,Marquette,38,35,26,57,0,Damon Lynn missed Two Point Tip Shot.
+NJIT,Marquette,38,35,27,3,0,Steve Taylor Jr. Defensive Rebound.
+NJIT,Marquette,38,35,27,22,0,Foul on Damon Lynn.
+NJIT,Marquette,38,35,27,22,0,Foul on Jajuan Johnson.
+NJIT,Marquette,38,35,27,22,0,Jajuan Johnson Turnover.
+NJIT,Marquette,38,35,27,50,0,Daquan Holiday Turnover.
+NJIT,Marquette,38,35,27,50,0,Jajuan Johnson Steal.
+NJIT,Marquette,38,35,27,57,0,Foul on Odera Nweke.
+NJIT,Marquette,38,35,28,6,0,Foul on Rob Ukawuba.
+NJIT,Marquette,38,35,28,6,0,Official TV Timeout
+NJIT,Marquette,38,37,28,12,1,Juan Anderson made Jumper. Assisted by Derrick Wilson.
+NJIT,Marquette,40,37,28,45,1,Tim Coleman made Jumper.
+NJIT,Marquette,40,37,29,9,0,Jajuan Johnson missed Jumper.
+NJIT,Marquette,40,37,29,9,0,Juan Anderson Offensive Rebound.
+NJIT,Marquette,40,37,29,10,0,Juan Anderson missed Two Point Tip Shot.
+NJIT,Marquette,40,37,29,10,0,Steve Taylor Jr. Offensive Rebound.
+NJIT,Marquette,40,37,29,11,0,Steve Taylor Jr. missed Two Point Tip Shot.
+NJIT,Marquette,40,37,29,11,0,Steve Taylor Jr. Offensive Rebound.
+NJIT,Marquette,40,37,29,12,0,Foul on Tim Coleman.
+NJIT,Marquette,40,37,29,12,0,Foul on Ky Howard.
+NJIT,Marquette,40,38,29,12,1,Juan Anderson made Free Throw.
+NJIT,Marquette,40,39,29,12,1,Juan Anderson made Free Throw.
+NJIT,Marquette,40,39,29,22,0,Tim Coleman Turnover.
+NJIT,Marquette,40,39,29,49,0,Derrick Wilson missed Three Point Jumper.
+NJIT,Marquette,40,39,29,49,0,Juan Anderson Offensive Rebound.
+NJIT,Marquette,40,39,29,52,0,Juan Anderson Turnover.
+NJIT,Marquette,40,39,29,53,0,Damon Lynn Steal.
+NJIT,Marquette,40,39,29,57,0,Foul on Duane Wilson.
+NJIT,Marquette,41,39,29,57,1,Winfield Willis made Free Throw.
+NJIT,Marquette,42,39,29,57,1,Winfield Willis made Free Throw.
+NJIT,Marquette,42,41,30,14,1,Juan Anderson made Layup.
+NJIT,Marquette,42,41,30,49,0,Damon Lynn missed Three Point Jumper.
+NJIT,Marquette,42,41,30,49,0,Jajuan Johnson Defensive Rebound.
+NJIT,Marquette,42,44,30,55,1,Duane Wilson made Three Point Jumper. Assisted by Jajuan Johnson.
+NJIT,Marquette,42,44,31,17,0,Winfield Willis missed Layup.
+NJIT,Marquette,42,44,31,17,0,Daquan Holiday Offensive Rebound.
+NJIT,Marquette,44,44,31,21,1,Daquan Holiday made Two Point Tip Shot.
+NJIT,Marquette,44,44,31,35,0,Foul on Rob Ukawuba.
+NJIT,Marquette,44,45,31,35,1,Juan Anderson made Free Throw.
+NJIT,Marquette,44,46,31,35,1,Juan Anderson made Free Throw.
+NJIT,Marquette,44,46,31,54,0,Tim Coleman Turnover.
+NJIT,Marquette,44,48,32,15,1,Steve Taylor Jr. made Layup. Assisted by Duane Wilson.
+NJIT,Marquette,44,48,32,28,0,Foul on Duane Wilson.
+NJIT,Marquette,44,48,32,28,0,Official TV Timeout
+NJIT,Marquette,44,48,32,32,0,Winfield Willis missed Layup.
+NJIT,Marquette,44,48,32,32,0,Winfield Willis Offensive Rebound.
+NJIT,Marquette,44,48,32,51,0,Tim Coleman missed Jumper.
+NJIT,Marquette,44,48,32,51,0,Jajuan Johnson Defensive Rebound.
+NJIT,Marquette,44,48,33,19,0,Foul on Tim Coleman.
+NJIT,Marquette,44,48,33,19,0,NJIT  Timeout
+NJIT,Marquette,44,49,33,19,1,Duane Wilson made Free Throw.
+NJIT,Marquette,44,50,33,19,1,Duane Wilson made Free Throw.
+NJIT,Marquette,44,50,33,34,0,Odera Nweke missed Jumper.
+NJIT,Marquette,44,50,33,34,0,Tim Coleman Offensive Rebound.
+NJIT,Marquette,44,50,33,43,0,Damon Lynn missed Jumper.
+NJIT,Marquette,44,50,33,43,0,Odera Nweke Offensive Rebound.
+NJIT,Marquette,46,50,33,43,1,Odera Nweke made Two Point Tip Shot.
+NJIT,Marquette,46,50,33,43,0,Foul on Steve Taylor Jr..
+NJIT,Marquette,46,50,33,43,0,Odera Nweke missed Free Throw.
+NJIT,Marquette,46,50,33,43,0,Juan Anderson Defensive Rebound.
+NJIT,Marquette,46,50,33,59,0,Foul on Tim Coleman.
+NJIT,Marquette,46,50,33,59,0,Juan Anderson missed Free Throw.
+NJIT,Marquette,46,50,33,59,0,Marquette Deadball Team Rebound.
+NJIT,Marquette,46,50,33,59,0,Juan Anderson missed Free Throw.
+NJIT,Marquette,46,50,33,59,0,Ky Howard Defensive Rebound.
+NJIT,Marquette,46,50,34,8,0,Damon Lynn missed Three Point Jumper.
+NJIT,Marquette,46,50,34,8,0,Winfield Willis Offensive Rebound.
+NJIT,Marquette,46,50,34,11,0,Winfield Willis missed Two Point Tip Shot.
+NJIT,Marquette,46,50,34,11,0,Damon Lynn Offensive Rebound.
+NJIT,Marquette,46,50,34,16,0,Damon Lynn missed Three Point Jumper.
+NJIT,Marquette,46,50,34,16,0,Ky Howard Offensive Rebound.
+NJIT,Marquette,48,50,34,18,1,Ky Howard made Two Point Tip Shot.
+NJIT,Marquette,48,50,34,18,0,NJIT  Timeout
+NJIT,Marquette,48,50,34,39,0,Foul on Ky Howard.
+NJIT,Marquette,48,51,34,39,1,Duane Wilson made Free Throw.
+NJIT,Marquette,48,52,34,39,1,Duane Wilson made Free Throw.
+NJIT,Marquette,48,52,35,1,0,Osa Izevbuwa Turnover.
+NJIT,Marquette,48,52,35,2,0,Jajuan Johnson Steal.
+NJIT,Marquette,48,52,35,28,0,Derrick Wilson missed Jumper.
+NJIT,Marquette,48,52,35,28,0,Ky Howard Defensive Rebound.
+NJIT,Marquette,51,52,35,35,1,Damon Lynn made Three Point Jumper. Assisted by Ky Howard.
+NJIT,Marquette,51,52,35,47,0,Marquette  Timeout
+NJIT,Marquette,51,52,36,5,0,Duane Wilson missed Layup.
+NJIT,Marquette,51,52,36,5,0,Steve Taylor Jr. Offensive Rebound.
+NJIT,Marquette,51,52,36,8,0,Foul on Rob Ukawuba.
+NJIT,Marquette,51,52,36,8,0,Official TV Timeout
+NJIT,Marquette,51,53,36,8,1,Steve Taylor Jr. made Free Throw.
+NJIT,Marquette,51,54,36,8,1,Steve Taylor Jr. made Free Throw.
+NJIT,Marquette,53,54,36,21,1,Odera Nweke made Dunk. Assisted by Ky Howard.
+NJIT,Marquette,53,54,36,46,0,Juan Anderson Turnover.
+NJIT,Marquette,53,54,36,46,0,Damon Lynn Steal.
+NJIT,Marquette,53,54,36,49,0,Damon Lynn missed Layup.
+NJIT,Marquette,53,54,36,49,0,Juan Anderson Defensive Rebound.
+NJIT,Marquette,53,54,36,50,0,Foul on Winfield Willis.
+NJIT,Marquette,53,55,36,50,1,Juan Anderson made Free Throw.
+NJIT,Marquette,53,56,36,50,1,Juan Anderson made Free Throw.
+NJIT,Marquette,53,56,37,16,0,Ky Howard missed Jumper.
+NJIT,Marquette,53,56,37,16,0,Steve Taylor Jr. Defensive Rebound.
+NJIT,Marquette,53,56,37,43,0,Juan Anderson Turnover.
+NJIT,Marquette,53,56,37,55,0,Damon Lynn missed Three Point Jumper.
+NJIT,Marquette,53,56,37,55,0,Steve Taylor Jr. Defensive Rebound.
+NJIT,Marquette,53,56,38,8,0,Marquette  Timeout
+NJIT,Marquette,53,56,38,24,0,Derrick Wilson Turnover.
+NJIT,Marquette,53,56,38,25,0,Winfield Willis Steal.
+NJIT,Marquette,53,56,38,28,0,Foul on Jajuan Johnson.
+NJIT,Marquette,54,56,38,28,1,Ky Howard made Free Throw.
+NJIT,Marquette,55,56,38,28,1,Ky Howard made Free Throw.
+NJIT,Marquette,55,58,38,43,1,Duane Wilson made Layup.
+NJIT,Marquette,55,58,38,43,0,Foul on Winfield Willis.
+NJIT,Marquette,55,59,38,43,1,Duane Wilson made Free Throw.
+NJIT,Marquette,55,59,38,46,0,NJIT  Timeout
+NJIT,Marquette,55,59,38,46,0,Damon Lynn Turnover.
+NJIT,Marquette,55,59,38,46,0,Juan Anderson Steal.
+NJIT,Marquette,55,59,39,19,0,Duane Wilson missed Three Point Jumper.
+NJIT,Marquette,55,59,39,19,0,NJIT Deadball Team Rebound.
+NJIT,Marquette,55,59,39,27,0,Damon Lynn missed Three Point Jumper.
+NJIT,Marquette,55,59,39,27,0,Ky Howard Offensive Rebound.
+NJIT,Marquette,55,59,39,29,0,Ky Howard missed Two Point Tip Shot.
+NJIT,Marquette,55,59,39,29,0,Derrick Wilson Defensive Rebound.
+NJIT,Marquette,55,59,39,31,0,Foul on Daquan Holiday.
+NJIT,Marquette,55,59,39,31,0,Derrick Wilson missed Free Throw.
+NJIT,Marquette,55,59,39,31,0,Marquette Deadball Team Rebound.
+NJIT,Marquette,55,59,39,31,0,Derrick Wilson missed Free Throw.
+NJIT,Marquette,55,59,39,31,0,Ky Howard Defensive Rebound.
+NJIT,Marquette,55,59,39,37,0,Foul on Duane Wilson.
+NJIT,Marquette,56,59,39,37,1,Daquan Holiday made Free Throw.
+NJIT,Marquette,57,59,39,37,1,Daquan Holiday made Free Throw.
+NJIT,Marquette,57,59,39,38,0,Foul on Ky Howard.
+NJIT,Marquette,57,59,39,38,0,NJIT  Timeout
+NJIT,Marquette,57,60,39,38,1,Duane Wilson made Free Throw.
+NJIT,Marquette,57,61,39,38,1,Duane Wilson made Free Throw.
+NJIT,Marquette,57,61,39,48,0,Foul on Damon Lynn.
+NJIT,Marquette,57,61,39,48,0,Damon Lynn Turnover.
+NJIT,Marquette,57,61,39,50,0,Foul on Damon Lynn.
+NJIT,Marquette,57,61,39,50,0,Steve Taylor Jr. missed Free Throw.
+NJIT,Marquette,57,61,39,50,0,Marquette Deadball Team Rebound.
+NJIT,Marquette,57,62,39,50,1,Steve Taylor Jr. made Free Throw.
+NJIT,Marquette,57,62,39,58,0,Damon Lynn missed Three Point Jumper.
+NJIT,Marquette,57,62,39,58,0,Matt Carlino Defensive Rebound.
+NJIT,Marquette,57,62,40,0,0,End of Game

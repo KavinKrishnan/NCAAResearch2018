@@ -1,0 +1,310 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,Miami,0,0,0,0,0,Jump Ball won by Stanford
+Stanford,Miami,0,0,0,23,0,Reid Travis missed Layup.
+Stanford,Miami,0,0,0,23,0,Kamari Murphy Block.
+Stanford,Miami,0,0,0,23,0,Miami Defensive Rebound.
+Stanford,Miami,0,0,0,35,0,Ebuka Izundu missed Layup.
+Stanford,Miami,0,0,0,35,0,Christian Sanders Block.
+Stanford,Miami,0,0,0,35,0,Ebuka Izundu Offensive Rebound.
+Stanford,Miami,0,0,0,36,0,Ebuka Izundu Turnover.
+Stanford,Miami,0,0,0,36,0,Foul on Davon Reed.
+Stanford,Miami,0,0,0,50,0,Foul on Michael Humphrey.
+Stanford,Miami,0,0,0,50,0,Dorian Pickens Turnover.
+Stanford,Miami,0,0,1,2,0,Anthony Lawrence Jr. missed Three Point Jumper.
+Stanford,Miami,0,0,1,2,0,Dorian Pickens Defensive Rebound.
+Stanford,Miami,0,0,1,12,0,Dorian Pickens Turnover.
+Stanford,Miami,0,0,1,12,0,Anthony Lawrence Jr. Steal.
+Stanford,Miami,0,2,1,16,1,Ja'Quan Newton made Layup.
+Stanford,Miami,2,2,1,33,1,Reid Travis made Dunk. Assisted by Christian Sanders.
+Stanford,Miami,2,2,1,54,0,Davon Reed missed Jumper.
+Stanford,Miami,2,2,1,54,0,Dorian Pickens Defensive Rebound.
+Stanford,Miami,2,2,1,54,0,Kamari Murphy Defensive Rebound.
+Stanford,Miami,2,2,2,9,0,Dorian Pickens missed Layup.
+Stanford,Miami,2,2,2,9,0,Ebuka Izundu Block.
+Stanford,Miami,2,2,2,9,0,Reid Travis Offensive Rebound.
+Stanford,Miami,2,2,2,17,0,Reid Travis missed Layup.
+Stanford,Miami,2,2,2,17,0,Ebuka Izundu Defensive Rebound.
+Stanford,Miami,2,2,2,34,0,Ja'Quan Newton missed Layup.
+Stanford,Miami,2,2,2,34,0,Josh Sharma Block.
+Stanford,Miami,2,2,2,34,0,Marcus Allen Defensive Rebound.
+Stanford,Miami,2,2,2,43,0,Josh Sharma missed Jumper.
+Stanford,Miami,2,2,2,43,0,Reid Travis Offensive Rebound.
+Stanford,Miami,2,2,2,43,0,Reid Travis Turnover.
+Stanford,Miami,2,2,2,44,0,Foul on Christian Sanders.
+Stanford,Miami,2,2,2,54,0,Kamari Murphy missed Jumper.
+Stanford,Miami,2,2,2,54,0,Christian Sanders Defensive Rebound.
+Stanford,Miami,2,2,3,9,0,Marcus Allen missed Jumper.
+Stanford,Miami,2,2,3,15,0,Ja'Quan Newton missed Layup.
+Stanford,Miami,2,2,3,15,0,Kamari Murphy Offensive Rebound.
+Stanford,Miami,2,4,3,15,1,Kamari Murphy made Two Point Tip Shot.
+Stanford,Miami,4,4,3,23,1,Christian Sanders made Jumper.
+Stanford,Miami,4,4,3,44,0,Anthony Lawrence Jr. Turnover.
+Stanford,Miami,4,4,3,44,0,Josh Sharma Steal.
+Stanford,Miami,4,4,4,1,0,Official TV Timeout
+Stanford,Miami,4,4,4,1,0,Foul on Dorian Pickens.
+Stanford,Miami,4,4,4,1,0,Michael Humphrey Turnover.
+Stanford,Miami,4,4,4,1,0,Official TV Timeout
+Stanford,Miami,4,4,4,14,0,Foul on Josh Sharma.
+Stanford,Miami,4,4,4,34,0,Davon Reed missed Layup.
+Stanford,Miami,4,4,4,34,0,Dewan Huell Offensive Rebound.
+Stanford,Miami,4,6,4,34,1,Dewan Huell made Two Point Tip Shot.
+Stanford,Miami,4,6,4,53,0,Josh Sharma missed Three Point Jumper.
+Stanford,Miami,4,6,4,53,0,Davon Reed Defensive Rebound.
+Stanford,Miami,4,6,5,4,0,Foul on Josh Sharma.
+Stanford,Miami,4,6,5,4,0,Dewan Huell missed Free Throw.
+Stanford,Miami,4,6,5,4,0,Miami Deadball Team Rebound.
+Stanford,Miami,4,7,5,4,1,Dewan Huell made Free Throw.
+Stanford,Miami,4,7,5,18,0,Marcus Sheffield missed Jumper.
+Stanford,Miami,4,7,5,18,0,Michael Humphrey Offensive Rebound.
+Stanford,Miami,7,7,5,24,1,Dorian Pickens made Three Point Jumper. Assisted by Robert Cartwright.
+Stanford,Miami,7,7,5,45,0,Foul on Anthony Lawrence Jr..
+Stanford,Miami,7,7,5,45,0,Anthony Lawrence Jr. Turnover.
+Stanford,Miami,7,7,5,55,0,Foul on Dewan Huell.
+Stanford,Miami,7,7,6,1,0,Foul on Anthony Lawrence Jr..
+Stanford,Miami,7,7,6,5,0,Michael Humphrey missed Three Point Jumper.
+Stanford,Miami,7,7,6,5,0,Bruce Brown Defensive Rebound.
+Stanford,Miami,7,7,6,20,0,Bruce Brown missed Three Point Jumper.
+Stanford,Miami,7,7,6,20,0,Michael Humphrey Defensive Rebound.
+Stanford,Miami,9,7,6,49,1,Michael Humphrey made Layup. Assisted by Marcus Sheffield.
+Stanford,Miami,9,7,7,12,0,Davon Reed missed Jumper.
+Stanford,Miami,9,7,7,12,0,Reid Travis Defensive Rebound.
+Stanford,Miami,9,7,7,30,0,Michael Humphrey missed Jumper.
+Stanford,Miami,9,7,7,30,0,Davon Reed Defensive Rebound.
+Stanford,Miami,9,7,7,48,0,Ja'Quan Newton missed Jumper.
+Stanford,Miami,9,7,7,48,0,Michael Humphrey Defensive Rebound.
+Stanford,Miami,11,7,8,5,1,Reid Travis made Layup.
+Stanford,Miami,11,7,8,30,0,Bruce Brown missed Jumper.
+Stanford,Miami,11,7,8,30,0,Kamari Murphy Offensive Rebound.
+Stanford,Miami,11,9,8,30,1,Kamari Murphy made Two Point Tip Shot.
+Stanford,Miami,11,9,8,49,0,Foul on Ja'Quan Newton.
+Stanford,Miami,11,9,8,49,0,Official TV Timeout
+Stanford,Miami,14,9,8,54,1,Dorian Pickens made Three Point Jumper. Assisted by Robert Cartwright.
+Stanford,Miami,14,9,9,11,0,Dejan Vasiljevic Turnover.
+Stanford,Miami,14,9,9,22,0,Grant Verhoeven missed Jumper.
+Stanford,Miami,14,9,9,22,0,Dejan Vasiljevic Defensive Rebound.
+Stanford,Miami,14,9,9,46,0,Kamari Murphy missed Jumper.
+Stanford,Miami,14,9,9,46,0,Robert Cartwright Defensive Rebound.
+Stanford,Miami,16,9,9,56,1,Robert Cartwright made Jumper.
+Stanford,Miami,16,9,10,2,0,Miami  Timeout
+Stanford,Miami,16,9,10,22,0,Davon Reed missed Three Point Jumper.
+Stanford,Miami,16,9,10,22,0,Ebuka Izundu Offensive Rebound.
+Stanford,Miami,16,9,10,25,0,Foul on Grant Verhoeven.
+Stanford,Miami,16,9,10,41,0,Ja'Quan Newton missed Jumper.
+Stanford,Miami,16,9,10,41,0,Reid Travis Defensive Rebound.
+Stanford,Miami,16,9,10,58,0,Michael Humphrey missed Jumper.
+Stanford,Miami,16,9,10,58,0,Kamari Murphy Defensive Rebound.
+Stanford,Miami,16,9,11,11,0,Ebuka Izundu missed Layup.
+Stanford,Miami,16,9,11,11,0,Michael Humphrey Defensive Rebound.
+Stanford,Miami,16,9,11,38,0,Foul on Ebuka Izundu.
+Stanford,Miami,16,9,11,57,0,Michael Humphrey missed Jumper.
+Stanford,Miami,16,9,11,57,0,Reid Travis Offensive Rebound.
+Stanford,Miami,16,9,12,4,0,Foul on Reid Travis.
+Stanford,Miami,16,9,12,4,0,Reid Travis Turnover.
+Stanford,Miami,16,9,12,4,0,Official TV Timeout
+Stanford,Miami,16,9,12,21,0,Foul on Michael Humphrey.
+Stanford,Miami,16,10,12,21,1,Bruce Brown made Free Throw.
+Stanford,Miami,16,10,12,21,0,Bruce Brown missed Free Throw.
+Stanford,Miami,16,10,12,21,0,Reid Travis Defensive Rebound.
+Stanford,Miami,16,10,12,37,0,Foul on Kamari Murphy.
+Stanford,Miami,19,10,13,0,1,Grant Verhoeven made Three Point Jumper. Assisted by Dorian Pickens.
+Stanford,Miami,19,13,13,25,1,Dejan Vasiljevic made Three Point Jumper. Assisted by Bruce Brown.
+Stanford,Miami,19,13,14,0,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Miami,19,13,14,0,0,Dewan Huell Defensive Rebound.
+Stanford,Miami,19,13,14,16,0,Kamari Murphy Turnover.
+Stanford,Miami,19,13,14,35,0,Marcus Sheffield Turnover.
+Stanford,Miami,19,13,14,47,0,Foul on Marcus Sheffield.
+Stanford,Miami,19,14,14,47,1,Ja'Quan Newton made Free Throw.
+Stanford,Miami,19,15,14,47,1,Ja'Quan Newton made Free Throw.
+Stanford,Miami,19,15,14,58,0,Robert Cartwright Turnover.
+Stanford,Miami,19,15,14,58,0,Ja'Quan Newton Steal.
+Stanford,Miami,19,15,15,1,0,Davon Reed Turnover.
+Stanford,Miami,19,15,15,1,0,Marcus Sheffield Steal.
+Stanford,Miami,21,15,15,13,1,Reid Travis made Layup. Assisted by Marcus Sheffield.
+Stanford,Miami,21,17,15,31,1,Ja'Quan Newton made Layup.
+Stanford,Miami,23,17,15,46,1,Grant Verhoeven made Layup. Assisted by Dorian Pickens.
+Stanford,Miami,23,19,16,5,1,Ja'Quan Newton made Jumper.
+Stanford,Miami,23,19,16,32,0,Grant Verhoeven Turnover.
+Stanford,Miami,23,19,16,32,0,Dewan Huell Steal.
+Stanford,Miami,23,21,16,39,1,Ja'Quan Newton made Jumper.
+Stanford,Miami,23,21,17,10,0,Reid Travis missed Jumper.
+Stanford,Miami,23,21,17,10,0,Dewan Huell Defensive Rebound.
+Stanford,Miami,23,21,17,24,0,Foul on Grant Verhoeven.
+Stanford,Miami,23,21,17,24,0,Official TV Timeout
+Stanford,Miami,23,22,17,24,1,Ja'Quan Newton made Free Throw.
+Stanford,Miami,23,23,17,24,1,Ja'Quan Newton made Free Throw.
+Stanford,Miami,25,23,17,32,1,Marcus Sheffield made Jumper.
+Stanford,Miami,25,23,17,50,0,Foul on Marcus Sheffield.
+Stanford,Miami,25,23,17,50,0,Ja'Quan Newton missed Free Throw.
+Stanford,Miami,25,23,17,50,0,Miami Deadball Team Rebound.
+Stanford,Miami,25,23,17,50,0,Ja'Quan Newton missed Free Throw.
+Stanford,Miami,25,23,17,50,0,Josh Sharma Defensive Rebound.
+Stanford,Miami,25,23,18,13,0,Josh Sharma missed Three Point Jumper.
+Stanford,Miami,25,23,18,13,0,Marcus Allen Offensive Rebound.
+Stanford,Miami,25,23,18,28,0,Foul on Josh Sharma.
+Stanford,Miami,25,23,18,28,0,Josh Sharma Turnover.
+Stanford,Miami,25,23,18,44,0,Davon Reed Turnover.
+Stanford,Miami,25,23,18,44,0,Foul on Davon Reed.
+Stanford,Miami,25,23,18,57,0,Marcus Allen missed Layup.
+Stanford,Miami,25,23,18,57,0,Marcus Allen Offensive Rebound.
+Stanford,Miami,25,23,19,6,0,Foul on Dorian Pickens.
+Stanford,Miami,25,23,19,6,0,Dorian Pickens Turnover.
+Stanford,Miami,25,23,19,22,0,Bruce Brown missed Jumper.
+Stanford,Miami,25,23,19,22,0,Cameron Walker Defensive Rebound.
+Stanford,Miami,25,23,19,25,0,Foul on Kamari Murphy.
+Stanford,Miami,26,23,19,25,1,Cameron Walker made Free Throw.
+Stanford,Miami,27,23,19,25,1,Cameron Walker made Free Throw.
+Stanford,Miami,27,23,19,51,0,Ja'Quan Newton missed Jumper.
+Stanford,Miami,27,23,19,51,0,Bruce Brown Offensive Rebound.
+Stanford,Miami,27,23,19,51,0,Bruce Brown missed Two Point Tip Shot.
+Stanford,Miami,27,23,19,51,0,Stanford Deadball Team Rebound.
+Stanford,Miami,27,23,20,0,0,End of 1st half
+Stanford,Miami,27,23,20,0,0,Jump Ball won by Miami
+Stanford,Miami,27,23,20,17,0,Davon Reed missed Jumper.
+Stanford,Miami,27,23,20,17,0,Reid Travis Defensive Rebound.
+Stanford,Miami,29,23,20,37,1,Marcus Allen made Jumper. Assisted by Christian Sanders.
+Stanford,Miami,29,25,20,56,1,Ja'Quan Newton made Layup.
+Stanford,Miami,29,25,21,10,0,Michael Humphrey missed Layup.
+Stanford,Miami,29,25,21,10,0,Kamari Murphy Block.
+Stanford,Miami,29,25,21,10,0,Stanford Offensive Rebound.
+Stanford,Miami,31,25,21,19,1,Dorian Pickens made Jumper.
+Stanford,Miami,31,25,21,19,0,Foul on Anthony Lawrence Jr..
+Stanford,Miami,32,25,21,19,1,Dorian Pickens made Free Throw.
+Stanford,Miami,32,25,21,39,0,Ja'Quan Newton missed Jumper.
+Stanford,Miami,32,25,21,39,0,Dorian Pickens Defensive Rebound.
+Stanford,Miami,32,25,21,48,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Miami,32,25,21,48,0,Michael Humphrey Offensive Rebound.
+Stanford,Miami,32,25,22,16,0,Foul on Ebuka Izundu.
+Stanford,Miami,32,25,22,16,0,Michael Humphrey missed Free Throw.
+Stanford,Miami,32,25,22,16,0,Stanford Deadball Team Rebound.
+Stanford,Miami,33,25,22,16,1,Michael Humphrey made Free Throw.
+Stanford,Miami,33,25,22,44,0,Foul on Christian Sanders.
+Stanford,Miami,33,28,23,1,1,Anthony Lawrence Jr. made Three Point Jumper. Assisted by Kamari Murphy.
+Stanford,Miami,33,28,23,17,0,Christian Sanders Turnover.
+Stanford,Miami,33,28,23,17,0,Anthony Lawrence Jr. Steal.
+Stanford,Miami,33,30,23,24,1,Davon Reed made Layup.
+Stanford,Miami,33,30,23,43,0,Foul on Dejan Vasiljevic.
+Stanford,Miami,33,30,23,45,0,Marcus Allen Turnover.
+Stanford,Miami,33,32,24,17,1,Anthony Lawrence Jr. made Layup. Assisted by Ja'Quan Newton.
+Stanford,Miami,33,32,24,17,0,Foul on Reid Travis.
+Stanford,Miami,33,33,24,17,1,Anthony Lawrence Jr. made Free Throw.
+Stanford,Miami,33,33,24,19,0,Official TV Timeout
+Stanford,Miami,35,33,24,42,1,Dorian Pickens made Jumper.
+Stanford,Miami,35,36,24,59,1,Davon Reed made Three Point Jumper. Assisted by Dejan Vasiljevic.
+Stanford,Miami,35,36,25,21,0,Robert Cartwright Turnover.
+Stanford,Miami,35,36,25,39,0,Davon Reed Turnover.
+Stanford,Miami,35,36,25,39,0,Dorian Pickens Steal.
+Stanford,Miami,37,36,25,44,1,Reid Travis made Layup.
+Stanford,Miami,37,36,26,5,0,Foul on Robert Cartwright.
+Stanford,Miami,37,36,26,10,0,Foul on Marcus Sheffield.
+Stanford,Miami,37,36,26,11,0,Davon Reed missed Three Point Jumper.
+Stanford,Miami,37,36,26,11,0,Reid Travis Defensive Rebound.
+Stanford,Miami,39,36,26,23,1,Josh Sharma made Dunk. Assisted by Robert Cartwright.
+Stanford,Miami,39,36,26,40,0,Anthony Lawrence Jr. missed Three Point Jumper.
+Stanford,Miami,39,36,26,40,0,Reid Travis Defensive Rebound.
+Stanford,Miami,39,36,27,1,0,Marcus Allen missed Three Point Jumper.
+Stanford,Miami,39,36,27,1,0,Kamari Murphy Defensive Rebound.
+Stanford,Miami,39,38,27,13,1,Kamari Murphy made Dunk. Assisted by Ja'Quan Newton.
+Stanford,Miami,39,38,27,13,0,Foul on Josh Sharma.
+Stanford,Miami,39,38,27,13,0,Kamari Murphy missed Free Throw.
+Stanford,Miami,39,38,27,13,0,Marcus Allen Defensive Rebound.
+Stanford,Miami,39,38,27,25,0,Robert Cartwright missed Layup.
+Stanford,Miami,39,38,27,25,0,Ja'Quan Newton Defensive Rebound.
+Stanford,Miami,39,38,27,43,0,Foul on Robert Cartwright.
+Stanford,Miami,39,38,27,55,0,Ja'Quan Newton missed Jumper.
+Stanford,Miami,39,38,27,55,0,Bruce Brown Offensive Rebound.
+Stanford,Miami,39,40,27,59,1,Bruce Brown made Layup.
+Stanford,Miami,39,40,28,17,0,Foul on Ja'Quan Newton.
+Stanford,Miami,39,40,28,17,0,Official TV Timeout
+Stanford,Miami,41,40,28,19,1,Michael Humphrey made Dunk.
+Stanford,Miami,41,40,28,35,0,Dejan Vasiljevic missed Three Point Jumper.
+Stanford,Miami,41,40,28,35,0,Marcus Sheffield Defensive Rebound.
+Stanford,Miami,41,40,28,48,0,Marcus Sheffield Turnover.
+Stanford,Miami,41,40,28,48,0,Anthony Lawrence Jr. Steal.
+Stanford,Miami,41,42,28,52,1,Anthony Lawrence Jr. made Dunk.
+Stanford,Miami,41,42,29,5,0,Michael Humphrey missed Layup.
+Stanford,Miami,41,42,29,5,0,Grant Verhoeven Offensive Rebound.
+Stanford,Miami,43,42,29,14,1,Grant Verhoeven made Jumper. Assisted by Marcus Sheffield.
+Stanford,Miami,43,45,29,35,1,Anthony Lawrence Jr. made Three Point Jumper.
+Stanford,Miami,43,45,30,9,0,Foul on Bruce Brown.
+Stanford,Miami,45,45,30,14,1,Dorian Pickens made Layup.
+Stanford,Miami,45,48,30,39,1,Anthony Lawrence Jr. made Three Point Jumper. Assisted by Bruce Brown.
+Stanford,Miami,45,48,30,54,0,Dorian Pickens missed Layup.
+Stanford,Miami,45,48,30,54,0,Bruce Brown Defensive Rebound.
+Stanford,Miami,45,48,30,57,0,Foul on Dorian Pickens.
+Stanford,Miami,45,49,30,57,1,Bruce Brown made Free Throw.
+Stanford,Miami,45,49,30,57,0,Bruce Brown missed Free Throw.
+Stanford,Miami,45,49,30,57,0,Stanford Defensive Rebound.
+Stanford,Miami,45,49,31,25,0,Foul on Dewan Huell.
+Stanford,Miami,46,49,31,25,1,Christian Sanders made Free Throw.
+Stanford,Miami,47,49,31,25,1,Christian Sanders made Free Throw.
+Stanford,Miami,47,49,31,47,0,Davon Reed missed Layup.
+Stanford,Miami,47,49,31,47,0,Christian Sanders Defensive Rebound.
+Stanford,Miami,49,49,31,59,1,Dorian Pickens made Jumper.
+Stanford,Miami,49,49,32,11,0,Foul on Christian Sanders.
+Stanford,Miami,49,49,32,11,0,Official TV Timeout
+Stanford,Miami,49,50,32,11,1,Bruce Brown made Free Throw.
+Stanford,Miami,49,51,32,11,1,Bruce Brown made Free Throw.
+Stanford,Miami,49,51,32,19,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Miami,49,51,32,19,0,Kamari Murphy Defensive Rebound.
+Stanford,Miami,49,51,32,44,0,Anthony Lawrence Jr. missed Three Point Jumper.
+Stanford,Miami,49,51,32,44,0,Marcus Sheffield Defensive Rebound.
+Stanford,Miami,49,51,33,3,0,Michael Humphrey Turnover.
+Stanford,Miami,49,51,33,3,0,Anthony Lawrence Jr. Steal.
+Stanford,Miami,49,51,33,6,0,Kamari Murphy Turnover.
+Stanford,Miami,49,51,33,6,0,Marcus Sheffield Steal.
+Stanford,Miami,49,51,33,6,0,Marcus Sheffield missed Jumper.
+Stanford,Miami,49,51,33,6,0,Dejan Vasiljevic Block.
+Stanford,Miami,49,51,33,6,0,Anthony Lawrence Jr. Defensive Rebound.
+Stanford,Miami,49,51,33,23,0,Foul on Michael Humphrey.
+Stanford,Miami,49,52,33,23,1,Anthony Lawrence Jr. made Free Throw.
+Stanford,Miami,49,53,33,23,1,Anthony Lawrence Jr. made Free Throw.
+Stanford,Miami,51,53,33,44,1,Reid Travis made Layup.
+Stanford,Miami,51,53,34,12,0,Foul on Kamari Murphy.
+Stanford,Miami,51,53,34,12,0,Kamari Murphy Turnover.
+Stanford,Miami,51,53,34,24,0,Dorian Pickens Turnover.
+Stanford,Miami,51,53,34,39,0,Ja'Quan Newton Turnover.
+Stanford,Miami,51,53,34,39,0,Robert Cartwright Steal.
+Stanford,Miami,51,53,34,55,0,Marcus Sheffield missed Jumper.
+Stanford,Miami,51,53,34,55,0,Bruce Brown Defensive Rebound.
+Stanford,Miami,51,55,35,23,1,Bruce Brown made Layup.
+Stanford,Miami,51,55,35,50,0,Michael Humphrey missed Three Point Jumper.
+Stanford,Miami,51,55,35,50,0,Davon Reed Defensive Rebound.
+Stanford,Miami,51,55,35,57,0,Foul on Robert Cartwright.
+Stanford,Miami,51,56,35,57,1,Ja'Quan Newton made Free Throw.
+Stanford,Miami,51,56,35,57,0,Ja'Quan Newton missed Free Throw.
+Stanford,Miami,51,56,35,57,0,Reid Travis Defensive Rebound.
+Stanford,Miami,51,56,36,19,0,Foul on Bruce Brown.
+Stanford,Miami,51,56,36,19,0,Official TV Timeout
+Stanford,Miami,52,56,36,19,1,Marcus Sheffield made Free Throw.
+Stanford,Miami,52,56,36,19,0,Marcus Sheffield missed Free Throw.
+Stanford,Miami,52,56,36,19,0,Bruce Brown Defensive Rebound.
+Stanford,Miami,52,58,36,36,1,Ja'Quan Newton made Jumper.
+Stanford,Miami,52,58,37,1,0,Reid Travis missed Layup.
+Stanford,Miami,52,58,37,1,0,Anthony Lawrence Jr. Defensive Rebound.
+Stanford,Miami,52,58,37,22,0,Foul on Marcus Allen.
+Stanford,Miami,52,59,37,22,1,Ja'Quan Newton made Free Throw.
+Stanford,Miami,52,59,37,22,0,Ja'Quan Newton missed Free Throw.
+Stanford,Miami,52,59,37,22,0,Michael Humphrey Defensive Rebound.
+Stanford,Miami,52,59,37,37,0,Michael Humphrey missed Jumper.
+Stanford,Miami,52,59,37,37,0,Ja'Quan Newton Defensive Rebound.
+Stanford,Miami,52,59,37,46,0,Bruce Brown missed Three Point Jumper.
+Stanford,Miami,52,59,37,46,0,Michael Humphrey Defensive Rebound.
+Stanford,Miami,52,59,37,59,0,Robert Cartwright Turnover.
+Stanford,Miami,52,59,37,59,0,Davon Reed Steal.
+Stanford,Miami,52,61,38,31,1,Bruce Brown made Layup.
+Stanford,Miami,52,61,38,38,0,Robert Cartwright missed Layup.
+Stanford,Miami,52,61,38,38,0,Kamari Murphy Defensive Rebound.
+Stanford,Miami,52,61,38,43,0,Foul on Robert Cartwright.
+Stanford,Miami,52,62,38,43,1,Davon Reed made Free Throw.
+Stanford,Miami,52,63,38,43,1,Davon Reed made Free Throw.
+Stanford,Miami,52,63,38,54,0,Marcus Sheffield Turnover.
+Stanford,Miami,52,63,38,54,0,Bruce Brown Steal.
+Stanford,Miami,52,65,38,59,1,Ja'Quan Newton made Dunk. Assisted by Anthony Lawrence Jr..
+Stanford,Miami,52,65,39,9,0,Foul on Bruce Brown.
+Stanford,Miami,53,65,39,9,1,Reid Travis made Free Throw.
+Stanford,Miami,53,65,39,9,0,Reid Travis missed Free Throw.
+Stanford,Miami,53,65,39,9,0,Anthony Lawrence Jr. Defensive Rebound.
+Stanford,Miami,53,67,39,37,1,Anthony Lawrence Jr. made Layup.
+Stanford,Miami,53,67,39,42,0,Robert Cartwright missed Three Point Jumper.
+Stanford,Miami,53,67,39,42,0,Miami Defensive Rebound.
+Stanford,Miami,53,67,40,0,0,End of Game

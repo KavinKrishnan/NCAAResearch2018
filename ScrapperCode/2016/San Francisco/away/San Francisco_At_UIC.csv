@@ -1,0 +1,426 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+San Francisco,UIC,0,0,0,7,0,Foul on Dikembe Dixson.
+San Francisco,UIC,0,0,0,16,0,Tim Derksen missed Layup.
+San Francisco,UIC,0,0,0,16,0,Tai Odiase Block.
+San Francisco,UIC,0,0,0,19,0,Jake Wiegand Defensive Rebound.
+San Francisco,UIC,0,0,0,27,0,Foul on Nate Renfro.
+San Francisco,UIC,0,0,0,28,0,Paris Burns missed Three Point Jumper.
+San Francisco,UIC,0,0,0,28,0,Devin Watson Defensive Rebound.
+San Francisco,UIC,0,0,0,37,0,Nate Renfro Turnover.
+San Francisco,UIC,0,0,0,41,0,Jake Wiegand Steal.
+San Francisco,UIC,0,0,0,45,0,Dikembe Dixson missed Jumper.
+San Francisco,UIC,0,0,0,45,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,UIC,0,0,1,12,0,Chase Foster missed Layup.
+San Francisco,UIC,0,0,1,12,0,Tai Odiase Block.
+San Francisco,UIC,0,0,1,16,0,Dikembe Dixson Defensive Rebound.
+San Francisco,UIC,0,0,1,23,0,Foul on Dont'e Reynolds.
+San Francisco,UIC,0,1,1,23,1,Tai Odiase made Free Throw.
+San Francisco,UIC,0,2,1,23,1,Tai Odiase made Free Throw.
+San Francisco,UIC,0,2,1,25,0,Devin Watson missed Three Point Jumper.
+San Francisco,UIC,0,2,1,25,0,Tim Derksen Offensive Rebound.
+San Francisco,UIC,0,2,1,29,0,Foul on Dominique Matthews.
+San Francisco,UIC,0,2,1,39,0,Devin Watson missed Layup.
+San Francisco,UIC,0,2,1,39,0,Tai Odiase Block.
+San Francisco,UIC,0,2,1,39,0,San Francisco Offensive Rebound.
+San Francisco,UIC,3,2,1,43,1,Devin Watson made Three Point Jumper. Assisted by Dont'e Reynolds.
+San Francisco,UIC,3,2,2,8,0,Dominique Matthews missed Three Point Jumper.
+San Francisco,UIC,3,2,2,8,0,Tim Derksen Defensive Rebound.
+San Francisco,UIC,3,2,2,13,0,Foul on Paris Burns.
+San Francisco,UIC,4,2,2,13,1,Tim Derksen made Free Throw.
+San Francisco,UIC,5,2,2,13,1,Tim Derksen made Free Throw.
+San Francisco,UIC,5,2,2,33,0,Jake Wiegand missed Three Point Jumper.
+San Francisco,UIC,5,2,2,33,0,San Francisco Defensive Rebound.
+San Francisco,UIC,5,2,2,53,0,Foul on Tai Odiase.
+San Francisco,UIC,7,2,2,56,1,Devin Watson made Jumper.
+San Francisco,UIC,7,2,3,1,0,Dominique Matthews missed Layup.
+San Francisco,UIC,7,2,3,9,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,UIC,7,2,3,9,0,Dont'e Reynolds Turnover.
+San Francisco,UIC,7,2,3,9,0,Dikembe Dixson Steal.
+San Francisco,UIC,7,2,3,9,0,Foul on Nate Renfro.
+San Francisco,UIC,7,2,3,12,0,Dikembe Dixson missed Three Point Jumper.
+San Francisco,UIC,7,2,3,12,0,San Francisco Defensive Rebound.
+San Francisco,UIC,7,2,3,27,0,Foul on Tai Odiase.
+San Francisco,UIC,7,2,3,27,0,Montray Clemons missed Free Throw.
+San Francisco,UIC,7,2,3,27,0,San Francisco Deadball Team Rebound.
+San Francisco,UIC,8,2,3,27,1,Montray Clemons made Free Throw.
+San Francisco,UIC,8,4,3,44,1,Najeal Young made Layup. Assisted by Paris Burns.
+San Francisco,UIC,8,4,3,58,0,Tim Derksen missed Layup.
+San Francisco,UIC,8,4,3,58,0,UIC Defensive Rebound.
+San Francisco,UIC,8,4,4,17,0,Dominique Matthews missed Three Point Jumper.
+San Francisco,UIC,8,4,4,17,0,Montray Clemons Defensive Rebound.
+San Francisco,UIC,8,4,4,32,0,Foul on Dominique Matthews.
+San Francisco,UIC,8,4,4,32,0,Official TV Timeout
+San Francisco,UIC,8,4,4,36,0,Devin Watson missed Layup.
+San Francisco,UIC,8,4,4,36,0,Najeal Young Defensive Rebound.
+San Francisco,UIC,8,6,4,43,1,Paris Burns made Layup.
+San Francisco,UIC,10,6,5,12,1,Uche Ofoegbu made Layup.
+San Francisco,UIC,10,6,5,12,0,Foul on Jake Wiegand.
+San Francisco,UIC,10,6,5,12,0,Uche Ofoegbu missed Free Throw.
+San Francisco,UIC,10,6,5,12,0,Jake Wiegand Defensive Rebound.
+San Francisco,UIC,10,6,5,13,0,Markese McGuire missed Jumper.
+San Francisco,UIC,10,6,5,13,0,San Francisco Defensive Rebound.
+San Francisco,UIC,10,6,5,24,0,Sean Grennan missed Three Point Jumper.
+San Francisco,UIC,10,6,5,24,0,San Francisco Offensive Rebound.
+San Francisco,UIC,12,6,5,33,1,Matthew McCarthy made Jumper. Assisted by Uche Ofoegbu.
+San Francisco,UIC,12,9,5,43,1,Gabe Snider made Three Point Jumper. Assisted by Markese McGuire.
+San Francisco,UIC,12,9,6,0,0,Foul on Jake Wiegand.
+San Francisco,UIC,13,9,6,0,1,Sean Grennan made Free Throw.
+San Francisco,UIC,13,9,6,0,0,Sean Grennan missed Free Throw.
+San Francisco,UIC,13,9,6,0,0,UIC Defensive Rebound.
+San Francisco,UIC,13,11,6,8,1,Paris Burns made Jumper. Assisted by Gabe Snider.
+San Francisco,UIC,13,11,6,39,0,Tim Derksen missed Layup.
+San Francisco,UIC,13,11,6,39,0,Paris Burns Defensive Rebound.
+San Francisco,UIC,13,11,6,47,0,Foul on Uche Ofoegbu.
+San Francisco,UIC,13,11,6,47,0,Markese McGuire missed Free Throw.
+San Francisco,UIC,13,11,6,47,0,UIC Deadball Team Rebound.
+San Francisco,UIC,13,12,6,47,1,Markese McGuire made Free Throw.
+San Francisco,UIC,13,12,7,2,0,Montray Clemons Turnover.
+San Francisco,UIC,13,12,7,2,0,Foul on Montray Clemons.
+San Francisco,UIC,13,15,7,20,1,Paris Burns made Three Point Jumper. Assisted by Hassan Thomas.
+San Francisco,UIC,13,15,7,32,0,Uche Ofoegbu Turnover.
+San Francisco,UIC,13,15,7,53,0,Paris Burns missed Three Point Jumper.
+San Francisco,UIC,13,15,7,53,0,UIC Offensive Rebound.
+San Francisco,UIC,13,15,8,6,0,Official TV Timeout
+San Francisco,UIC,13,15,8,20,0,Najeal Young missed Layup.
+San Francisco,UIC,13,15,8,20,0,San Francisco Defensive Rebound.
+San Francisco,UIC,13,15,8,29,0,Matthew McCarthy Turnover.
+San Francisco,UIC,13,15,8,29,0,Foul on Matthew McCarthy.
+San Francisco,UIC,13,15,8,37,0,Dikembe Dixson missed Layup.
+San Francisco,UIC,13,15,8,37,0,Montray Clemons Defensive Rebound.
+San Francisco,UIC,13,15,8,40,0,Ronnie Boyce III Turnover.
+San Francisco,UIC,13,15,8,52,0,Gabe Snider missed Three Point Jumper.
+San Francisco,UIC,13,15,8,52,0,Tim Derksen Defensive Rebound.
+San Francisco,UIC,15,15,8,58,1,Devin Watson made Layup. Assisted by Tim Derksen.
+San Francisco,UIC,15,17,8,59,1,Paris Burns made Jumper.
+San Francisco,UIC,18,17,9,14,1,Ronnie Boyce III made Three Point Jumper. Assisted by Matthew McCarthy.
+San Francisco,UIC,18,17,9,31,0,Najeal Young missed Jumper.
+San Francisco,UIC,18,17,9,31,0,San Francisco Defensive Rebound.
+San Francisco,UIC,18,17,9,51,0,Devin Watson missed Three Point Jumper.
+San Francisco,UIC,18,17,9,51,0,UIC Defensive Rebound.
+San Francisco,UIC,18,19,10,11,1,Dikembe Dixson made Jumper. Assisted by Gabe Snider.
+San Francisco,UIC,18,19,10,35,0,Dont'e Reynolds Turnover.
+San Francisco,UIC,18,19,10,38,0,Najeal Young Steal.
+San Francisco,UIC,18,21,10,40,1,Najeal Young made Jumper. Assisted by Lance Whitaker.
+San Francisco,UIC,18,21,11,6,0,Montray Clemons missed Three Point Jumper.
+San Francisco,UIC,18,21,11,6,0,Tim Derksen Offensive Rebound.
+San Francisco,UIC,18,21,11,6,0,Tim Derksen missed Layup.
+San Francisco,UIC,18,21,11,6,0,Dikembe Dixson Block.
+San Francisco,UIC,18,21,11,6,0,Najeal Young Defensive Rebound.
+San Francisco,UIC,18,21,11,17,0,Dikembe Dixson Turnover.
+San Francisco,UIC,18,21,11,17,0,Tim Derksen Steal.
+San Francisco,UIC,20,21,11,33,1,Ronnie Boyce III made Layup. Assisted by Montray Clemons.
+San Francisco,UIC,20,21,11,33,0,Foul on Gabe Snider.
+San Francisco,UIC,21,21,11,33,1,Ronnie Boyce III made Free Throw.
+San Francisco,UIC,21,24,11,48,1,Lance Whitaker made Three Point Jumper. Assisted by Markese McGuire.
+San Francisco,UIC,21,24,12,0,0,Ronnie Boyce III missed Jumper.
+San Francisco,UIC,21,24,12,0,0,Hassan Thomas Defensive Rebound.
+San Francisco,UIC,21,24,12,9,0,Markese McGuire missed Layup.
+San Francisco,UIC,21,24,12,9,0,Dont'e Reynolds Block.
+San Francisco,UIC,21,24,12,9,0,UIC Offensive Rebound.
+San Francisco,UIC,21,24,12,9,0,Official TV Timeout
+San Francisco,UIC,21,24,12,13,0,Markese McGuire Turnover.
+San Francisco,UIC,21,24,12,32,0,Uche Ofoegbu missed Three Point Jumper.
+San Francisco,UIC,21,24,12,32,0,San Francisco Offensive Rebound.
+San Francisco,UIC,21,24,12,32,0,Foul on Lance Whitaker.
+San Francisco,UIC,21,24,12,32,0,Ronnie Boyce III missed Free Throw.
+San Francisco,UIC,21,24,12,32,0,San Francisco Deadball Team Rebound.
+San Francisco,UIC,22,24,12,32,1,Ronnie Boyce III made Free Throw.
+San Francisco,UIC,22,27,12,38,1,Lance Whitaker made Three Point Jumper. Assisted by Drew Hackett.
+San Francisco,UIC,22,27,12,57,0,Foul on Lance Whitaker.
+San Francisco,UIC,23,27,12,57,1,Montray Clemons made Free Throw.
+San Francisco,UIC,24,27,12,57,1,Montray Clemons made Free Throw.
+San Francisco,UIC,24,27,13,6,0,Drew Hackett Turnover.
+San Francisco,UIC,24,27,13,21,0,Foul on Dikembe Dixson.
+San Francisco,UIC,24,27,13,21,0,Uche Ofoegbu missed Free Throw.
+San Francisco,UIC,24,27,13,21,0,San Francisco Deadball Team Rebound.
+San Francisco,UIC,25,27,13,21,1,Uche Ofoegbu made Free Throw.
+San Francisco,UIC,25,27,13,32,0,Michael Kolawole missed Three Point Jumper.
+San Francisco,UIC,25,27,13,32,0,UIC Offensive Rebound.
+San Francisco,UIC,25,27,13,37,0,Foul on Uche Ofoegbu.
+San Francisco,UIC,25,27,13,37,0,Michael Kolawole missed Free Throw.
+San Francisco,UIC,25,27,13,37,0,Paris Burns Offensive Rebound.
+San Francisco,UIC,25,27,13,56,0,Foul on Sean Grennan.
+San Francisco,UIC,25,27,13,56,0,Drew Hackett missed Free Throw.
+San Francisco,UIC,25,27,13,56,0,UIC Deadball Team Rebound.
+San Francisco,UIC,25,28,13,56,1,Drew Hackett made Free Throw.
+San Francisco,UIC,25,29,13,56,1,Drew Hackett made Free Throw.
+San Francisco,UIC,28,29,14,17,1,Tim Derksen made Three Point Jumper. Assisted by Devin Watson.
+San Francisco,UIC,28,31,14,35,1,Hassan Thomas made Jumper. Assisted by Michael Kolawole.
+San Francisco,UIC,30,31,14,59,1,Tim Derksen made Jumper. Assisted by Matthew McCarthy.
+San Francisco,UIC,30,31,15,2,0,Michael Kolawole missed Layup.
+San Francisco,UIC,30,31,15,2,0,Devin Watson Defensive Rebound.
+San Francisco,UIC,30,31,15,11,0,Devin Watson missed Layup.
+San Francisco,UIC,30,31,15,11,0,Paris Burns Defensive Rebound.
+San Francisco,UIC,30,31,15,20,0,Najeal Young missed Jumper.
+San Francisco,UIC,30,31,15,20,0,Tim Derksen Defensive Rebound.
+San Francisco,UIC,33,31,15,47,1,Tim Derksen made Three Point Jumper. Assisted by Devin Watson.
+San Francisco,UIC,33,31,16,8,0,Paris Burns missed Three Point Jumper.
+San Francisco,UIC,33,31,16,8,0,Ronnie Boyce III Defensive Rebound.
+San Francisco,UIC,35,31,16,15,1,Ronnie Boyce III made Layup.
+San Francisco,UIC,35,31,16,24,0,Drew Hackett missed Three Point Jumper.
+San Francisco,UIC,35,31,16,24,0,Ronnie Boyce III Defensive Rebound.
+San Francisco,UIC,35,31,16,32,0,Matthew McCarthy missed Layup.
+San Francisco,UIC,35,31,16,32,0,Najeal Young Defensive Rebound.
+San Francisco,UIC,35,31,16,54,0,Foul on Dont'e Reynolds.
+San Francisco,UIC,35,31,16,57,0,Official TV Timeout
+San Francisco,UIC,35,31,16,57,0,Hassan Thomas missed Free Throw.
+San Francisco,UIC,35,31,16,57,0,UIC Deadball Team Rebound.
+San Francisco,UIC,35,32,16,57,1,Hassan Thomas made Free Throw.
+San Francisco,UIC,35,32,17,7,0,Foul on Gabe Snider.
+San Francisco,UIC,35,32,17,7,0,Nate Renfro missed Free Throw.
+San Francisco,UIC,35,32,17,7,0,San Francisco Deadball Team Rebound.
+San Francisco,UIC,35,32,17,7,0,Nate Renfro missed Free Throw.
+San Francisco,UIC,35,32,17,7,0,Gabe Snider Defensive Rebound.
+San Francisco,UIC,35,32,17,15,0,Gabe Snider Turnover.
+San Francisco,UIC,35,32,17,15,0,Devin Watson Steal.
+San Francisco,UIC,35,32,17,15,0,Devin Watson Turnover.
+San Francisco,UIC,35,32,17,15,0,Foul on Devin Watson.
+San Francisco,UIC,35,34,17,30,1,Drew Hackett made Jumper.
+San Francisco,UIC,35,34,17,36,0,Montray Clemons missed Layup.
+San Francisco,UIC,35,34,17,36,0,UIC Defensive Rebound.
+San Francisco,UIC,35,34,18,8,0,Najeal Young Turnover.
+San Francisco,UIC,35,34,18,11,0,Montray Clemons Steal.
+San Francisco,UIC,37,34,18,11,1,Montray Clemons made Dunk. Assisted by Devin Watson.
+San Francisco,UIC,37,34,18,15,0,Paris Burns missed Layup.
+San Francisco,UIC,37,34,18,15,0,Montray Clemons Defensive Rebound.
+San Francisco,UIC,37,34,18,20,0,San Francisco  Turnover.
+San Francisco,UIC,37,34,18,40,0,Paris Burns missed Jumper.
+San Francisco,UIC,37,34,18,40,0,Uche Ofoegbu Defensive Rebound.
+San Francisco,UIC,37,34,19,8,0,Devin Watson missed Jumper.
+San Francisco,UIC,37,34,19,8,0,Montray Clemons Offensive Rebound.
+San Francisco,UIC,37,34,19,11,0,Montray Clemons missed Layup.
+San Francisco,UIC,37,34,19,11,0,Tim Derksen Offensive Rebound.
+San Francisco,UIC,37,34,19,15,0,Tim Derksen missed Layup.
+San Francisco,UIC,37,34,19,15,0,Montray Clemons Offensive Rebound.
+San Francisco,UIC,37,34,19,17,0,Foul on Paris Burns.
+San Francisco,UIC,38,34,19,17,1,Montray Clemons made Free Throw.
+San Francisco,UIC,38,34,19,17,0,Montray Clemons missed Free Throw.
+San Francisco,UIC,38,34,19,17,0,Nate Renfro Offensive Rebound.
+San Francisco,UIC,38,34,19,29,0,Nate Renfro missed Layup.
+San Francisco,UIC,38,34,19,29,0,Markese McGuire Block.
+San Francisco,UIC,38,34,19,29,0,UIC Defensive Rebound.
+San Francisco,UIC,38,36,19,30,1,Markese McGuire made Layup.
+San Francisco,UIC,38,36,19,32,0,San Francisco  Timeout
+San Francisco,UIC,38,36,19,50,0,Montray Clemons Turnover.
+San Francisco,UIC,38,36,19,50,0,Foul on Montray Clemons.
+San Francisco,UIC,38,36,19,50,0,UIC  Timeout
+San Francisco,UIC,38,36,19,53,0,Markese McGuire missed Layup.
+San Francisco,UIC,38,36,20,0,0,Montray Clemons Defensive Rebound.
+San Francisco,UIC,38,36,20,0,0,End of 1st half
+San Francisco,UIC,38,36,20,16,0,Devin Watson missed Jumper.
+San Francisco,UIC,38,36,20,16,0,Jake Wiegand Defensive Rebound.
+San Francisco,UIC,38,36,20,24,0,Paris Burns missed Layup.
+San Francisco,UIC,38,36,20,24,0,San Francisco Defensive Rebound.
+San Francisco,UIC,41,36,20,39,1,Tim Derksen made Three Point Jumper. Assisted by Chase Foster.
+San Francisco,UIC,41,36,20,46,0,Dominique Matthews missed Jumper.
+San Francisco,UIC,41,36,20,46,0,Tim Derksen Defensive Rebound.
+San Francisco,UIC,41,36,20,52,0,Devin Watson missed Layup.
+San Francisco,UIC,41,36,20,52,0,Paris Burns Block.
+San Francisco,UIC,41,36,21,0,0,Dominique Matthews Defensive Rebound.
+San Francisco,UIC,41,38,21,12,1,Dominique Matthews made Jumper. Assisted by Paris Burns.
+San Francisco,UIC,41,38,21,34,0,Devin Watson missed Three Point Jumper.
+San Francisco,UIC,41,38,21,34,0,Jake Wiegand Defensive Rebound.
+San Francisco,UIC,41,38,21,40,0,Dominique Matthews Turnover.
+San Francisco,UIC,41,38,21,40,0,Foul on Dominique Matthews.
+San Francisco,UIC,41,38,21,55,0,Dont'e Reynolds Turnover.
+San Francisco,UIC,41,38,21,55,0,Foul on Dont'e Reynolds.
+San Francisco,UIC,41,38,21,55,0,Tai Odiase missed Layup.
+San Francisco,UIC,41,38,21,55,0,Nate Renfro Defensive Rebound.
+San Francisco,UIC,41,38,22,2,0,Devin Watson missed Three Point Jumper.
+San Francisco,UIC,41,38,22,2,0,Dominique Matthews Defensive Rebound.
+San Francisco,UIC,41,38,22,13,0,Dikembe Dixson Turnover.
+San Francisco,UIC,41,38,22,13,0,Foul on Dikembe Dixson.
+San Francisco,UIC,43,38,22,30,1,Montray Clemons made Jumper. Assisted by Tim Derksen.
+San Francisco,UIC,43,41,22,54,1,Dikembe Dixson made Three Point Jumper. Assisted by Dominique Matthews.
+San Francisco,UIC,43,41,23,8,0,Foul on Tai Odiase.
+San Francisco,UIC,43,41,23,8,0,Nate Renfro missed Free Throw.
+San Francisco,UIC,43,41,23,8,0,San Francisco Deadball Team Rebound.
+San Francisco,UIC,44,41,23,8,1,Nate Renfro made Free Throw.
+San Francisco,UIC,44,41,23,20,0,Dominique Matthews missed Three Point Jumper.
+San Francisco,UIC,44,41,23,20,0,Tai Odiase Offensive Rebound.
+San Francisco,UIC,44,43,23,40,1,Dominique Matthews made Jumper.
+San Francisco,UIC,47,43,23,51,1,Chase Foster made Three Point Jumper. Assisted by Devin Watson.
+San Francisco,UIC,47,46,24,3,1,Dikembe Dixson made Three Point Jumper. Assisted by Paris Burns.
+San Francisco,UIC,49,46,24,21,1,Montray Clemons made Dunk. Assisted by Tim Derksen.
+San Francisco,UIC,49,46,24,39,0,Foul on Tim Derksen.
+San Francisco,UIC,49,46,24,39,0,Official TV Timeout
+San Francisco,UIC,49,49,24,43,1,Dikembe Dixson made Three Point Jumper. Assisted by Dominique Matthews.
+San Francisco,UIC,49,49,25,1,0,Chase Foster missed Three Point Jumper.
+San Francisco,UIC,49,49,25,1,0,Paris Burns Defensive Rebound.
+San Francisco,UIC,49,49,25,7,0,Paris Burns missed Layup.
+San Francisco,UIC,49,49,25,7,0,Jake Wiegand Offensive Rebound.
+San Francisco,UIC,49,51,25,9,1,Jake Wiegand made Layup.
+San Francisco,UIC,49,51,25,22,0,Chase Foster missed Three Point Jumper.
+San Francisco,UIC,49,51,25,22,0,Dont'e Reynolds Offensive Rebound.
+San Francisco,UIC,49,51,25,40,0,Foul on Paris Burns.
+San Francisco,UIC,49,51,26,0,0,Uche Ofoegbu missed Layup.
+San Francisco,UIC,49,51,26,0,0,Tai Odiase Block.
+San Francisco,UIC,49,51,26,0,0,Dikembe Dixson Defensive Rebound.
+San Francisco,UIC,49,51,26,21,0,Foul on Dont'e Reynolds.
+San Francisco,UIC,49,51,26,21,0,Dominique Matthews missed Layup.
+San Francisco,UIC,49,51,26,21,0,Ronnie Boyce III Defensive Rebound.
+San Francisco,UIC,51,51,26,28,1,Ronnie Boyce III made Layup.
+San Francisco,UIC,51,51,26,30,0,Paris Burns missed Layup.
+San Francisco,UIC,51,51,26,30,0,UIC Offensive Rebound.
+San Francisco,UIC,51,51,26,34,0,Najeal Young missed Layup.
+San Francisco,UIC,51,51,26,34,0,Ronnie Boyce III Defensive Rebound.
+San Francisco,UIC,51,51,26,36,0,Sean Grennan missed Three Point Jumper.
+San Francisco,UIC,51,51,26,36,0,Ronnie Boyce III Offensive Rebound.
+San Francisco,UIC,53,51,26,41,1,Ronnie Boyce III made Layup.
+San Francisco,UIC,53,51,26,53,0,Foul on Nate Renfro.
+San Francisco,UIC,53,51,26,53,0,Nate Renfro Defensive Rebound.
+San Francisco,UIC,53,51,27,23,0,Foul on Jake Wiegand.
+San Francisco,UIC,56,51,27,43,1,Uche Ofoegbu made Three Point Jumper. Assisted by Devin Watson.
+San Francisco,UIC,56,51,28,1,0,Tai Odiase missed Layup.
+San Francisco,UIC,56,51,28,1,0,Jake Wiegand Offensive Rebound.
+San Francisco,UIC,56,53,28,4,1,Jake Wiegand made Layup.
+San Francisco,UIC,56,53,28,25,0,Uche Ofoegbu Turnover.
+San Francisco,UIC,56,53,28,25,0,Foul on Uche Ofoegbu.
+San Francisco,UIC,56,53,28,25,0,Official TV Timeout
+San Francisco,UIC,56,53,28,39,0,Paris Burns missed Three Point Jumper.
+San Francisco,UIC,56,53,28,39,0,Montray Clemons Defensive Rebound.
+San Francisco,UIC,56,53,29,0,0,Foul on Jake Wiegand.
+San Francisco,UIC,57,53,29,0,1,Nate Renfro made Free Throw.
+San Francisco,UIC,57,53,29,0,0,Nate Renfro missed Free Throw.
+San Francisco,UIC,57,53,29,0,0,Matthew McCarthy Offensive Rebound.
+San Francisco,UIC,57,53,29,3,0,Matthew McCarthy missed Layup.
+San Francisco,UIC,57,53,29,3,0,Matthew McCarthy Offensive Rebound.
+San Francisco,UIC,57,53,29,4,0,Tim Derksen missed Three Point Jumper.
+San Francisco,UIC,57,53,29,4,0,Lance Whitaker Defensive Rebound.
+San Francisco,UIC,57,53,29,9,0,Lance Whitaker missed Jumper.
+San Francisco,UIC,57,53,29,9,0,UIC Offensive Rebound.
+San Francisco,UIC,57,53,29,18,0,Gabe Snider missed Three Point Jumper.
+San Francisco,UIC,57,53,29,18,0,Lance Whitaker Offensive Rebound.
+San Francisco,UIC,57,53,29,18,0,Foul on Ronnie Boyce III.
+San Francisco,UIC,57,56,29,23,1,Gabe Snider made Three Point Jumper. Assisted by Hassan Thomas.
+San Francisco,UIC,57,56,29,32,0,Ronnie Boyce III missed Layup.
+San Francisco,UIC,57,56,29,32,0,Gabe Snider Block.
+San Francisco,UIC,57,56,29,32,0,San Francisco Offensive Rebound.
+San Francisco,UIC,57,56,29,41,0,Ronnie Boyce III missed Layup.
+San Francisco,UIC,57,56,29,41,0,Dominique Matthews Defensive Rebound.
+San Francisco,UIC,57,56,29,48,0,Foul on Matthew McCarthy.
+San Francisco,UIC,57,56,29,48,0,Dominique Matthews missed Free Throw.
+San Francisco,UIC,57,56,29,48,0,Nate Renfro Defensive Rebound.
+San Francisco,UIC,57,56,30,4,0,Matthew McCarthy Turnover.
+San Francisco,UIC,57,56,30,4,0,Foul on Matthew McCarthy.
+San Francisco,UIC,57,56,30,35,0,Lance Whitaker missed Three Point Jumper.
+San Francisco,UIC,57,56,30,35,0,Tai Odiase Offensive Rebound.
+San Francisco,UIC,57,56,30,38,0,Tai Odiase missed Layup.
+San Francisco,UIC,57,56,30,38,0,Hassan Thomas Offensive Rebound.
+San Francisco,UIC,57,56,30,46,0,Hassan Thomas Turnover.
+San Francisco,UIC,57,56,30,46,0,Foul on Hassan Thomas.
+San Francisco,UIC,57,56,31,4,0,Foul on Gabe Snider.
+San Francisco,UIC,57,56,31,4,0,Devin Watson missed Free Throw.
+San Francisco,UIC,57,56,31,4,0,Hassan Thomas Defensive Rebound.
+San Francisco,UIC,57,56,31,19,0,Tai Odiase missed Jumper.
+San Francisco,UIC,57,56,31,19,0,Devin Watson Defensive Rebound.
+San Francisco,UIC,57,56,31,21,0,Foul on Lance Whitaker.
+San Francisco,UIC,57,56,31,21,0,Devin Watson missed Free Throw.
+San Francisco,UIC,57,56,31,21,0,Gabe Snider Defensive Rebound.
+San Francisco,UIC,57,58,31,36,1,Jake Wiegand made Layup.
+San Francisco,UIC,57,58,31,52,0,Foul on Dikembe Dixson.
+San Francisco,UIC,58,58,31,52,1,Tim Derksen made Free Throw.
+San Francisco,UIC,58,58,31,53,0,Tim Derksen missed Free Throw.
+San Francisco,UIC,58,58,31,53,0,Jake Wiegand Defensive Rebound.
+San Francisco,UIC,58,58,31,58,0,Tai Odiase missed Jumper.
+San Francisco,UIC,58,58,31,58,0,Dominique Matthews Offensive Rebound.
+San Francisco,UIC,58,58,32,4,0,Dominique Matthews Turnover.
+San Francisco,UIC,58,58,32,7,0,Official TV Timeout
+San Francisco,UIC,58,58,32,16,0,Ronnie Boyce III missed Three Point Jumper.
+San Francisco,UIC,58,58,32,16,0,Jake Wiegand Defensive Rebound.
+San Francisco,UIC,58,58,32,24,0,Dominique Matthews missed Jumper.
+San Francisco,UIC,58,58,32,24,0,Tim Derksen Block.
+San Francisco,UIC,58,58,32,25,0,Gabe Snider Offensive Rebound.
+San Francisco,UIC,58,58,32,29,0,Gabe Snider missed Three Point Jumper.
+San Francisco,UIC,58,58,32,29,0,San Francisco Defensive Rebound.
+San Francisco,UIC,58,58,32,33,0,Foul on Paris Burns.
+San Francisco,UIC,59,58,32,33,1,Tim Derksen made Free Throw.
+San Francisco,UIC,59,58,32,33,0,Tim Derksen missed Free Throw.
+San Francisco,UIC,59,58,32,33,0,Jake Wiegand Defensive Rebound.
+San Francisco,UIC,59,58,32,55,0,Markese McGuire missed Jumper.
+San Francisco,UIC,59,58,32,55,0,Gabe Snider Offensive Rebound.
+San Francisco,UIC,59,58,32,59,0,Gabe Snider missed Jumper.
+San Francisco,UIC,59,58,32,59,0,Tim Derksen Defensive Rebound.
+San Francisco,UIC,59,58,33,8,0,Tim Derksen missed Layup.
+San Francisco,UIC,59,58,33,8,0,UIC Defensive Rebound.
+San Francisco,UIC,59,60,33,19,1,Jake Wiegand made Layup.
+San Francisco,UIC,59,60,33,26,0,Sean Grennan Turnover.
+San Francisco,UIC,59,60,33,26,0,Gabe Snider Steal.
+San Francisco,UIC,59,62,33,26,1,Gabe Snider made Layup.
+San Francisco,UIC,59,62,33,26,0,Foul on Montray Clemons.
+San Francisco,UIC,59,62,33,26,0,Gabe Snider missed Free Throw.
+San Francisco,UIC,59,62,33,26,0,Nate Renfro Defensive Rebound.
+San Francisco,UIC,59,62,33,42,0,Foul on Tai Odiase.
+San Francisco,UIC,59,62,33,42,0,Dont'e Reynolds Offensive Rebound.
+San Francisco,UIC,59,62,33,42,0,Dont'e Reynolds missed Free Throw.
+San Francisco,UIC,59,62,33,42,0,San Francisco Deadball Team Rebound.
+San Francisco,UIC,60,62,33,42,1,Dont'e Reynolds made Free Throw.
+San Francisco,UIC,60,64,34,4,1,Markese McGuire made Jumper.
+San Francisco,UIC,63,64,34,19,1,Devin Watson made Three Point Jumper.
+San Francisco,UIC,63,64,34,22,0,San Francisco  Timeout
+San Francisco,UIC,63,64,34,29,0,Hassan Thomas missed Jumper.
+San Francisco,UIC,63,64,34,29,0,Tim Derksen Defensive Rebound.
+San Francisco,UIC,63,64,34,35,0,Devin Watson missed Jumper.
+San Francisco,UIC,63,64,34,35,0,Gabe Snider Defensive Rebound.
+San Francisco,UIC,63,66,34,50,1,Najeal Young made Layup. Assisted by Dominique Matthews.
+San Francisco,UIC,65,66,35,11,1,Dont'e Reynolds made Jumper.
+San Francisco,UIC,65,66,35,35,0,Gabe Snider missed Three Point Jumper.
+San Francisco,UIC,65,66,35,35,0,Tim Derksen Defensive Rebound.
+San Francisco,UIC,65,66,35,55,0,Tim Derksen Turnover.
+San Francisco,UIC,65,66,35,56,0,Lance Whitaker Steal.
+San Francisco,UIC,65,68,35,59,1,Najeal Young made Layup. Assisted by Lance Whitaker.
+San Francisco,UIC,65,68,36,2,0,UIC  Timeout
+San Francisco,UIC,65,68,36,6,0,Ronnie Boyce III missed Three Point Jumper.
+San Francisco,UIC,65,68,36,6,0,Dont'e Reynolds Offensive Rebound.
+San Francisco,UIC,65,68,36,9,0,Foul on Lance Whitaker.
+San Francisco,UIC,65,68,36,9,0,Dont'e Reynolds missed Free Throw.
+San Francisco,UIC,65,68,36,9,0,San Francisco Deadball Team Rebound.
+San Francisco,UIC,66,68,36,9,1,Dont'e Reynolds made Free Throw.
+San Francisco,UIC,66,68,36,14,0,Foul on Tim Derksen.
+San Francisco,UIC,66,69,36,14,1,Markese McGuire made Free Throw.
+San Francisco,UIC,66,69,36,14,0,Markese McGuire missed Free Throw.
+San Francisco,UIC,66,69,36,14,0,Dont'e Reynolds Defensive Rebound.
+San Francisco,UIC,66,69,36,35,0,Dont'e Reynolds missed Layup.
+San Francisco,UIC,66,69,36,35,0,Tai Odiase Block.
+San Francisco,UIC,66,69,36,36,0,San Francisco Offensive Rebound.
+San Francisco,UIC,66,69,36,36,0,San Francisco  Timeout
+San Francisco,UIC,66,69,36,41,0,Devin Watson missed Three Point Jumper.
+San Francisco,UIC,66,69,36,41,0,Lance Whitaker Defensive Rebound.
+San Francisco,UIC,66,69,36,50,0,Gabe Snider missed Three Point Jumper.
+San Francisco,UIC,66,69,36,50,0,Ronnie Boyce III Defensive Rebound.
+San Francisco,UIC,66,69,37,4,0,Foul on Jake Wiegand.
+San Francisco,UIC,67,69,37,4,1,Tim Derksen made Free Throw.
+San Francisco,UIC,68,69,37,4,1,Tim Derksen made Free Throw.
+San Francisco,UIC,68,69,37,17,0,Foul on Montray Clemons.
+San Francisco,UIC,68,70,37,17,1,Tai Odiase made Free Throw.
+San Francisco,UIC,68,71,37,17,1,Tai Odiase made Free Throw.
+San Francisco,UIC,70,71,37,37,1,Devin Watson made Layup.
+San Francisco,UIC,70,73,37,48,1,Tai Odiase made Layup. Assisted by Markese McGuire.
+San Francisco,UIC,72,73,38,3,1,Uche Ofoegbu made Layup.
+San Francisco,UIC,72,73,38,3,0,Foul on Tai Odiase.
+San Francisco,UIC,73,73,38,3,1,Uche Ofoegbu made Free Throw.
+San Francisco,UIC,73,73,38,18,0,Hassan Thomas Turnover.
+San Francisco,UIC,75,73,38,33,1,Nate Renfro made Layup. Assisted by Devin Watson.
+San Francisco,UIC,75,73,38,50,0,UIC  Timeout
+San Francisco,UIC,75,73,39,1,0,Markese McGuire missed Jumper.
+San Francisco,UIC,75,73,39,1,0,Tim Derksen Defensive Rebound.
+San Francisco,UIC,75,73,39,32,0,Devin Watson Turnover.
+San Francisco,UIC,75,73,39,33,0,Hassan Thomas Steal.
+San Francisco,UIC,75,73,39,37,0,Markese McGuire missed Layup.
+San Francisco,UIC,75,73,39,37,0,Hassan Thomas Offensive Rebound.
+San Francisco,UIC,75,73,39,40,0,Hassan Thomas missed Layup.
+San Francisco,UIC,75,73,39,40,0,Tim Derksen Defensive Rebound.
+San Francisco,UIC,75,73,39,44,0,Foul on Gabe Snider.
+San Francisco,UIC,76,73,39,44,1,Devin Watson made Free Throw.
+San Francisco,UIC,77,73,39,44,1,Devin Watson made Free Throw.
+San Francisco,UIC,77,73,39,53,0,Foul on Nate Renfro.
+San Francisco,UIC,77,74,39,53,1,Dikembe Dixson made Free Throw.
+San Francisco,UIC,77,75,39,53,1,Dikembe Dixson made Free Throw.
+San Francisco,UIC,77,75,39,55,0,Foul on Paris Burns.
+San Francisco,UIC,77,75,39,55,0,Devin Watson missed Free Throw.
+San Francisco,UIC,77,75,39,55,0,San Francisco Deadball Team Rebound.
+San Francisco,UIC,78,75,39,55,1,Devin Watson made Free Throw.
+San Francisco,UIC,78,75,39,55,0,UIC  Timeout
+San Francisco,UIC,78,75,39,59,0,Matthew McCarthy missed Three Point Jumper.
+San Francisco,UIC,78,75,39,59,0,UIC Defensive Rebound.
+San Francisco,UIC,78,75,40,0,0,End of Game

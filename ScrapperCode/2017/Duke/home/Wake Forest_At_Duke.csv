@@ -1,0 +1,316 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Wake Forest,Duke,0,0,0,0,0,Jump Ball won by Wake Forest
+Wake Forest,Duke,2,0,0,12,1,John Collins made Dunk. Assisted by Bryant Crawford.
+Wake Forest,Duke,2,2,0,34,1,Matt Jones made Jumper.
+Wake Forest,Duke,2,2,0,53,0,Bryant Crawford missed Dunk.
+Wake Forest,Duke,2,2,0,53,0,Matt Jones Defensive Rebound.
+Wake Forest,Duke,2,2,1,1,0,Matt Jones Turnover.
+Wake Forest,Duke,2,2,1,1,0,Bryant Crawford Steal.
+Wake Forest,Duke,4,2,1,4,1,Bryant Crawford made Layup.
+Wake Forest,Duke,4,2,1,11,0,Foul on Bryant Crawford.
+Wake Forest,Duke,4,2,1,25,0,Foul on Luke Kennard.
+Wake Forest,Duke,4,2,1,25,0,Luke Kennard Turnover.
+Wake Forest,Duke,6,2,1,34,1,John Collins made Dunk. Assisted by Bryant Crawford.
+Wake Forest,Duke,6,5,1,50,1,Jayson Tatum made Three Point Jumper. Assisted by Luke Kennard.
+Wake Forest,Duke,6,5,2,6,0,Austin Arians Turnover.
+Wake Forest,Duke,6,5,2,6,0,Matt Jones Steal.
+Wake Forest,Duke,6,7,2,20,1,Amile Jefferson made Layup. Assisted by Grayson Allen.
+Wake Forest,Duke,8,7,2,48,1,Keyshawn Woods made Layup.
+Wake Forest,Duke,8,10,3,6,1,Luke Kennard made Three Point Jumper. Assisted by Grayson Allen.
+Wake Forest,Duke,11,10,3,24,1,Bryant Crawford made Three Point Jumper.
+Wake Forest,Duke,11,10,3,50,0,Grayson Allen missed Three Point Jumper.
+Wake Forest,Duke,11,10,3,50,0,John Collins Defensive Rebound.
+Wake Forest,Duke,11,10,4,7,0,John Collins missed Layup.
+Wake Forest,Duke,11,10,4,7,0,Amile Jefferson Block.
+Wake Forest,Duke,11,10,4,7,0,Duke Defensive Rebound.
+Wake Forest,Duke,11,10,4,16,0,Official TV Timeout
+Wake Forest,Duke,11,12,4,19,1,Luke Kennard made Jumper. Assisted by Grayson Allen.
+Wake Forest,Duke,11,12,4,39,0,Bryant Crawford missed Three Point Jumper.
+Wake Forest,Duke,11,12,4,39,0,Jayson Tatum Defensive Rebound.
+Wake Forest,Duke,11,12,4,52,0,Foul on Jayson Tatum.
+Wake Forest,Duke,11,12,4,52,0,Jayson Tatum Turnover.
+Wake Forest,Duke,11,12,5,5,0,Konstantinos Mitoglou missed Three Point Jumper.
+Wake Forest,Duke,11,12,5,5,0,John Collins Offensive Rebound.
+Wake Forest,Duke,11,12,5,15,0,Brandon Childress missed Three Point Jumper.
+Wake Forest,Duke,11,12,5,15,0,Amile Jefferson Defensive Rebound.
+Wake Forest,Duke,11,14,5,30,1,Jayson Tatum made Jumper.
+Wake Forest,Duke,11,14,5,39,0,John Collins Turnover.
+Wake Forest,Duke,11,14,5,47,0,Luke Kennard missed Layup.
+Wake Forest,Duke,11,14,5,47,0,John Collins Defensive Rebound.
+Wake Forest,Duke,11,14,5,57,0,Foul on Matt Jones.
+Wake Forest,Duke,11,14,6,4,0,Foul on Harry Giles.
+Wake Forest,Duke,13,14,6,13,1,Konstantinos Mitoglou made Jumper. Assisted by Brandon Childress.
+Wake Forest,Duke,13,14,6,33,0,Foul on Konstantinos Mitoglou.
+Wake Forest,Duke,13,14,6,37,0,Luke Kennard missed Three Point Jumper.
+Wake Forest,Duke,13,14,6,37,0,John Collins Defensive Rebound.
+Wake Forest,Duke,13,14,6,49,0,Brandon Childress missed Jumper.
+Wake Forest,Duke,13,14,6,49,0,Konstantinos Mitoglou Offensive Rebound.
+Wake Forest,Duke,15,14,6,49,1,Konstantinos Mitoglou made Two Point Tip Shot.
+Wake Forest,Duke,15,14,7,16,0,Matt Jones missed Three Point Jumper.
+Wake Forest,Duke,15,14,7,16,0,Jayson Tatum Offensive Rebound.
+Wake Forest,Duke,15,17,7,23,1,Matt Jones made Three Point Jumper. Assisted by Jayson Tatum.
+Wake Forest,Duke,15,17,7,37,0,Foul on Grayson Allen.
+Wake Forest,Duke,16,17,7,37,1,Keyshawn Woods made Free Throw.
+Wake Forest,Duke,17,17,7,37,1,Keyshawn Woods made Free Throw.
+Wake Forest,Duke,17,17,7,45,0,Foul on Brandon Childress.
+Wake Forest,Duke,17,17,7,48,0,Foul on Trent VanHorn.
+Wake Forest,Duke,17,19,7,50,1,Harry Giles made Layup. Assisted by Frank Jackson.
+Wake Forest,Duke,19,19,8,4,1,Brandon Childress made Layup.
+Wake Forest,Duke,19,19,8,4,0,Foul on Harry Giles.
+Wake Forest,Duke,19,19,8,4,0,Official TV Timeout
+Wake Forest,Duke,20,19,8,4,1,Brandon Childress made Free Throw.
+Wake Forest,Duke,20,21,8,20,1,Amile Jefferson made Layup.
+Wake Forest,Duke,20,21,8,39,0,Doral Moore missed Jumper.
+Wake Forest,Duke,20,21,8,39,0,Jayson Tatum Defensive Rebound.
+Wake Forest,Duke,20,21,8,52,0,Frank Jackson missed Three Point Jumper.
+Wake Forest,Duke,20,21,8,52,0,Luke Kennard Offensive Rebound.
+Wake Forest,Duke,20,21,9,1,0,Luke Kennard missed Layup.
+Wake Forest,Duke,20,21,9,1,0,Doral Moore Block.
+Wake Forest,Duke,20,21,9,1,0,Amile Jefferson Offensive Rebound.
+Wake Forest,Duke,20,21,9,17,0,Grayson Allen missed Jumper.
+Wake Forest,Duke,20,21,9,17,0,Doral Moore Defensive Rebound.
+Wake Forest,Duke,20,21,9,34,0,Brandon Childress missed Jumper.
+Wake Forest,Duke,20,21,9,34,0,Jayson Tatum Defensive Rebound.
+Wake Forest,Duke,20,21,10,1,0,Amile Jefferson missed Jumper.
+Wake Forest,Duke,20,21,10,1,0,Bryant Crawford Defensive Rebound.
+Wake Forest,Duke,22,21,10,15,1,Trent VanHorn made Layup.
+Wake Forest,Duke,22,21,10,43,0,Luke Kennard missed Three Point Jumper.
+Wake Forest,Duke,22,21,10,43,0,Amile Jefferson Offensive Rebound.
+Wake Forest,Duke,22,23,10,51,1,Amile Jefferson made Layup.
+Wake Forest,Duke,22,23,11,4,0,Bryant Crawford missed Three Point Jumper.
+Wake Forest,Duke,22,23,11,4,0,Doral Moore Offensive Rebound.
+Wake Forest,Duke,24,23,11,13,1,Doral Moore made Layup.
+Wake Forest,Duke,24,26,11,19,1,Luke Kennard made Three Point Jumper. Assisted by Amile Jefferson.
+Wake Forest,Duke,24,26,11,44,0,Bryant Crawford missed Layup.
+Wake Forest,Duke,24,26,11,44,0,Doral Moore Offensive Rebound.
+Wake Forest,Duke,24,26,11,44,0,Doral Moore missed Two Point Tip Shot.
+Wake Forest,Duke,24,26,11,44,0,Austin Arians Offensive Rebound.
+Wake Forest,Duke,24,26,12,0,0,Brandon Childress missed Layup.
+Wake Forest,Duke,24,26,12,0,0,Amile Jefferson Block.
+Wake Forest,Duke,24,26,12,0,0,Frank Jackson Defensive Rebound.
+Wake Forest,Duke,24,26,12,0,0,Foul on Trent VanHorn.
+Wake Forest,Duke,24,26,12,1,0,Jayson Tatum missed Three Point Jumper.
+Wake Forest,Duke,24,26,12,1,0,John Collins Defensive Rebound.
+Wake Forest,Duke,26,26,12,16,1,Keyshawn Woods made Jumper.
+Wake Forest,Duke,26,29,12,37,1,Frank Jackson made Three Point Jumper. Assisted by Jayson Tatum.
+Wake Forest,Duke,26,29,13,3,0,John Collins missed Jumper.
+Wake Forest,Duke,26,29,13,3,0,Keyshawn Woods Offensive Rebound.
+Wake Forest,Duke,26,29,13,4,0,Foul on Jayson Tatum.
+Wake Forest,Duke,26,29,13,4,0,Official TV Timeout
+Wake Forest,Duke,27,29,13,4,1,Keyshawn Woods made Free Throw.
+Wake Forest,Duke,28,29,13,4,1,Keyshawn Woods made Free Throw.
+Wake Forest,Duke,28,31,13,16,1,Marques Bolden made Jumper.
+Wake Forest,Duke,28,31,13,31,0,Foul on Marques Bolden.
+Wake Forest,Duke,29,31,13,31,1,Bryant Crawford made Free Throw.
+Wake Forest,Duke,30,31,13,31,1,Bryant Crawford made Free Throw.
+Wake Forest,Duke,30,33,13,49,1,Jayson Tatum made Jumper.
+Wake Forest,Duke,30,33,14,2,0,Konstantinos Mitoglou missed Three Point Jumper.
+Wake Forest,Duke,30,33,14,2,0,Marques Bolden Defensive Rebound.
+Wake Forest,Duke,30,33,14,12,0,Foul on Austin Arians.
+Wake Forest,Duke,30,33,14,16,0,Marques Bolden Turnover.
+Wake Forest,Duke,30,33,14,16,0,John Collins Steal.
+Wake Forest,Duke,32,33,14,29,1,John Collins made Jumper.
+Wake Forest,Duke,32,35,14,53,1,Marques Bolden made Layup. Assisted by Luke Kennard.
+Wake Forest,Duke,34,35,15,8,1,John Collins made Dunk. Assisted by Konstantinos Mitoglou.
+Wake Forest,Duke,34,38,15,28,1,Jayson Tatum made Three Point Jumper. Assisted by Marques Bolden.
+Wake Forest,Duke,36,38,15,48,1,John Collins made Jumper. Assisted by Austin Arians.
+Wake Forest,Duke,36,38,16,11,0,Foul on Austin Arians.
+Wake Forest,Duke,36,38,16,11,0,Official TV Timeout
+Wake Forest,Duke,36,39,16,11,1,Marques Bolden made Free Throw.
+Wake Forest,Duke,36,40,16,11,1,Marques Bolden made Free Throw.
+Wake Forest,Duke,38,40,16,36,1,John Collins made Layup. Assisted by Bryant Crawford.
+Wake Forest,Duke,38,40,16,58,0,Grayson Allen missed Three Point Jumper.
+Wake Forest,Duke,38,40,17,10,0,Brandon Childress Defensive Rebound.
+Wake Forest,Duke,38,40,17,13,0,Foul on John Collins.
+Wake Forest,Duke,38,40,17,13,0,John Collins Turnover.
+Wake Forest,Duke,38,40,17,26,0,Grayson Allen Turnover.
+Wake Forest,Duke,38,40,17,26,0,Bryant Crawford Steal.
+Wake Forest,Duke,40,40,17,34,1,Bryant Crawford made Dunk. Assisted by Brandon Childress.
+Wake Forest,Duke,40,43,17,54,1,Grayson Allen made Three Point Jumper. Assisted by Matt Jones.
+Wake Forest,Duke,40,43,18,16,0,Foul on Marques Bolden.
+Wake Forest,Duke,41,43,18,16,1,John Collins made Free Throw.
+Wake Forest,Duke,42,43,18,16,1,John Collins made Free Throw.
+Wake Forest,Duke,42,45,18,44,1,Matt Jones made Jumper.
+Wake Forest,Duke,45,45,19,8,1,Bryant Crawford made Three Point Jumper. Assisted by Brandon Childress.
+Wake Forest,Duke,45,45,19,10,0,Duke  Timeout
+Wake Forest,Duke,45,45,19,16,0,Foul on Harry Giles.
+Wake Forest,Duke,45,45,19,16,0,Harry Giles Turnover.
+Wake Forest,Duke,45,45,19,43,0,John Collins missed Layup.
+Wake Forest,Duke,45,45,19,43,0,John Collins Offensive Rebound.
+Wake Forest,Duke,47,45,19,43,1,John Collins made Two Point Tip Shot.
+Wake Forest,Duke,47,45,19,59,0,Foul on John Collins.
+Wake Forest,Duke,47,46,19,59,1,Grayson Allen made Free Throw.
+Wake Forest,Duke,47,46,19,59,0,Wake Forest  Timeout
+Wake Forest,Duke,47,47,19,59,1,Grayson Allen made Free Throw.
+Wake Forest,Duke,47,47,20,0,0,End of 1st half
+Wake Forest,Duke,47,47,20,0,0,Jump Ball won by Duke
+Wake Forest,Duke,47,49,20,9,1,Jayson Tatum made Jumper.
+Wake Forest,Duke,49,49,20,20,1,John Collins made Jumper. Assisted by Keyshawn Woods.
+Wake Forest,Duke,49,49,20,45,0,Luke Kennard missed Three Point Jumper.
+Wake Forest,Duke,49,49,20,45,0,John Collins Defensive Rebound.
+Wake Forest,Duke,49,49,20,59,0,Bryant Crawford missed Jumper.
+Wake Forest,Duke,49,49,20,59,0,Grayson Allen Defensive Rebound.
+Wake Forest,Duke,49,49,21,5,0,Grayson Allen Turnover.
+Wake Forest,Duke,49,49,21,5,0,Bryant Crawford Steal.
+Wake Forest,Duke,51,49,21,13,1,Konstantinos Mitoglou made Layup. Assisted by Austin Arians.
+Wake Forest,Duke,51,49,21,43,0,Foul on Austin Arians.
+Wake Forest,Duke,51,51,21,46,1,Luke Kennard made Layup. Assisted by Frank Jackson.
+Wake Forest,Duke,51,51,22,9,0,Konstantinos Mitoglou missed Jumper.
+Wake Forest,Duke,51,51,22,9,0,Duke Defensive Rebound.
+Wake Forest,Duke,51,51,22,22,0,Jayson Tatum missed Layup.
+Wake Forest,Duke,51,51,22,22,0,Amile Jefferson Offensive Rebound.
+Wake Forest,Duke,51,54,22,29,1,Frank Jackson made Three Point Jumper. Assisted by Amile Jefferson.
+Wake Forest,Duke,51,54,22,54,0,Foul on Amile Jefferson.
+Wake Forest,Duke,52,54,22,54,1,John Collins made Free Throw.
+Wake Forest,Duke,53,54,22,54,1,John Collins made Free Throw.
+Wake Forest,Duke,53,54,23,19,0,Jayson Tatum missed Jumper.
+Wake Forest,Duke,53,54,23,19,0,John Collins Defensive Rebound.
+Wake Forest,Duke,53,54,23,27,0,Foul on Frank Jackson.
+Wake Forest,Duke,53,54,23,27,0,Brandon Childress missed Free Throw.
+Wake Forest,Duke,53,54,23,27,0,Wake Forest Deadball Team Rebound.
+Wake Forest,Duke,54,54,23,27,1,Brandon Childress made Free Throw.
+Wake Forest,Duke,54,56,23,38,1,Luke Kennard made Jumper.
+Wake Forest,Duke,54,56,23,53,0,Bryant Crawford missed Layup.
+Wake Forest,Duke,54,56,23,53,0,Amile Jefferson Block.
+Wake Forest,Duke,54,56,23,53,0,Amile Jefferson Defensive Rebound.
+Wake Forest,Duke,54,58,24,3,1,Frank Jackson made Layup. Assisted by Luke Kennard.
+Wake Forest,Duke,54,58,24,22,0,Keyshawn Woods missed Jumper.
+Wake Forest,Duke,54,58,24,22,0,Jayson Tatum Defensive Rebound.
+Wake Forest,Duke,54,60,24,32,1,Frank Jackson made Layup.
+Wake Forest,Duke,54,60,24,35,0,Wake Forest  Timeout
+Wake Forest,Duke,54,60,25,2,0,Bryant Crawford missed Three Point Jumper.
+Wake Forest,Duke,54,60,25,2,0,Jayson Tatum Defensive Rebound.
+Wake Forest,Duke,54,63,25,11,1,Matt Jones made Three Point Jumper. Assisted by Frank Jackson.
+Wake Forest,Duke,54,63,25,30,0,Foul on Amile Jefferson.
+Wake Forest,Duke,54,63,25,30,0,Official TV Timeout
+Wake Forest,Duke,54,63,25,30,0,Bryant Crawford missed Free Throw.
+Wake Forest,Duke,54,63,25,30,0,Wake Forest Deadball Team Rebound.
+Wake Forest,Duke,55,63,25,30,1,Bryant Crawford made Free Throw.
+Wake Forest,Duke,55,63,25,43,0,Luke Kennard missed Three Point Jumper.
+Wake Forest,Duke,55,63,25,43,0,John Collins Defensive Rebound.
+Wake Forest,Duke,58,63,26,8,1,Keyshawn Woods made Three Point Jumper.
+Wake Forest,Duke,58,63,26,27,0,Jayson Tatum missed Three Point Jumper.
+Wake Forest,Duke,58,63,26,27,0,Frank Jackson Offensive Rebound.
+Wake Forest,Duke,58,65,26,42,1,Amile Jefferson made Layup.
+Wake Forest,Duke,58,65,26,59,0,Foul on Jayson Tatum.
+Wake Forest,Duke,59,65,26,59,1,Austin Arians made Free Throw.
+Wake Forest,Duke,59,65,26,59,0,Austin Arians missed Free Throw.
+Wake Forest,Duke,59,65,26,59,0,Grayson Allen Defensive Rebound.
+Wake Forest,Duke,59,68,27,15,1,Grayson Allen made Three Point Jumper.
+Wake Forest,Duke,59,68,27,41,0,Bryant Crawford missed Three Point Jumper.
+Wake Forest,Duke,59,68,27,41,0,Amile Jefferson Defensive Rebound.
+Wake Forest,Duke,59,71,27,52,1,Jayson Tatum made Three Point Jumper. Assisted by Grayson Allen.
+Wake Forest,Duke,59,71,28,12,0,Austin Arians missed Layup.
+Wake Forest,Duke,59,71,28,12,0,Doral Moore Offensive Rebound.
+Wake Forest,Duke,61,71,28,18,1,Doral Moore made Dunk.
+Wake Forest,Duke,61,73,28,28,1,Amile Jefferson made Dunk. Assisted by Grayson Allen.
+Wake Forest,Duke,64,73,28,37,1,Austin Arians made Three Point Jumper. Assisted by Bryant Crawford.
+Wake Forest,Duke,64,73,28,37,0,Foul on Matt Jones.
+Wake Forest,Duke,64,73,28,37,0,Official TV Timeout
+Wake Forest,Duke,65,73,28,37,1,Austin Arians made Free Throw.
+Wake Forest,Duke,65,73,28,48,0,Foul on Austin Arians.
+Wake Forest,Duke,65,73,28,50,0,Grayson Allen missed Three Point Jumper.
+Wake Forest,Duke,65,73,28,50,0,Matt Jones Offensive Rebound.
+Wake Forest,Duke,65,73,28,50,0,Matt Jones missed Two Point Tip Shot.
+Wake Forest,Duke,65,73,28,50,0,Greg McClinton Defensive Rebound.
+Wake Forest,Duke,65,73,28,54,0,Greg McClinton Turnover.
+Wake Forest,Duke,65,75,28,58,1,Amile Jefferson made Layup. Assisted by Grayson Allen.
+Wake Forest,Duke,67,75,29,30,1,John Collins made Jumper.
+Wake Forest,Duke,67,75,29,47,0,Jayson Tatum missed Jumper.
+Wake Forest,Duke,67,75,29,47,0,Grayson Allen Offensive Rebound.
+Wake Forest,Duke,67,75,29,47,0,Grayson Allen missed Two Point Tip Shot.
+Wake Forest,Duke,67,75,29,47,0,Brandon Childress Defensive Rebound.
+Wake Forest,Duke,67,75,30,5,0,Brandon Childress missed Jumper.
+Wake Forest,Duke,67,75,30,5,0,John Collins Offensive Rebound.
+Wake Forest,Duke,69,75,30,9,1,John Collins made Dunk. Assisted by Bryant Crawford.
+Wake Forest,Duke,69,75,30,10,0,Duke  Timeout
+Wake Forest,Duke,69,77,30,23,1,Luke Kennard made Jumper.
+Wake Forest,Duke,69,77,30,40,0,Brandon Childress missed Three Point Jumper.
+Wake Forest,Duke,69,77,30,40,0,Greg McClinton Offensive Rebound.
+Wake Forest,Duke,71,77,30,51,1,Keyshawn Woods made Layup.
+Wake Forest,Duke,71,77,31,0,0,Foul on Keyshawn Woods.
+Wake Forest,Duke,71,79,31,5,1,Luke Kennard made Jumper.
+Wake Forest,Duke,73,79,31,19,1,Bryant Crawford made Layup.
+Wake Forest,Duke,73,79,31,40,0,Frank Jackson missed Three Point Jumper.
+Wake Forest,Duke,73,79,31,40,0,John Collins Defensive Rebound.
+Wake Forest,Duke,75,79,32,5,1,John Collins made Layup. Assisted by Bryant Crawford.
+Wake Forest,Duke,75,79,32,26,0,Amile Jefferson missed Layup.
+Wake Forest,Duke,75,79,32,26,0,Luke Kennard Offensive Rebound.
+Wake Forest,Duke,75,79,32,26,0,Foul on Greg McClinton.
+Wake Forest,Duke,75,79,32,26,0,Official TV Timeout
+Wake Forest,Duke,75,80,32,26,1,Luke Kennard made Free Throw.
+Wake Forest,Duke,75,81,32,26,1,Luke Kennard made Free Throw.
+Wake Forest,Duke,75,81,32,49,0,John Collins missed Jumper.
+Wake Forest,Duke,75,81,32,49,0,Amile Jefferson Block.
+Wake Forest,Duke,75,81,32,49,0,Wake Forest Offensive Rebound.
+Wake Forest,Duke,75,81,32,49,0,Keyshawn Woods missed Jumper.
+Wake Forest,Duke,75,81,32,49,0,Greg McClinton Offensive Rebound.
+Wake Forest,Duke,75,81,32,49,0,Greg McClinton missed Two Point Tip Shot.
+Wake Forest,Duke,75,81,32,49,0,Grayson Allen Defensive Rebound.
+Wake Forest,Duke,75,81,33,14,0,Amile Jefferson missed Layup.
+Wake Forest,Duke,75,81,33,14,0,Keyshawn Woods Defensive Rebound.
+Wake Forest,Duke,75,81,33,33,0,John Collins missed Jumper.
+Wake Forest,Duke,75,81,33,33,0,John Collins Offensive Rebound.
+Wake Forest,Duke,77,81,33,42,1,John Collins made Layup.
+Wake Forest,Duke,77,84,33,59,1,Grayson Allen made Three Point Jumper.
+Wake Forest,Duke,79,84,34,10,1,Bryant Crawford made Layup.
+Wake Forest,Duke,79,84,34,36,0,Foul on Greg McClinton.
+Wake Forest,Duke,79,85,34,36,1,Jayson Tatum made Free Throw.
+Wake Forest,Duke,79,86,34,36,1,Jayson Tatum made Free Throw.
+Wake Forest,Duke,79,86,34,45,0,Foul on Jayson Tatum.
+Wake Forest,Duke,79,86,34,56,0,Foul on Luke Kennard.
+Wake Forest,Duke,80,86,34,56,1,Konstantinos Mitoglou made Free Throw.
+Wake Forest,Duke,81,86,34,56,1,Konstantinos Mitoglou made Free Throw.
+Wake Forest,Duke,81,89,35,12,1,Luke Kennard made Three Point Jumper.
+Wake Forest,Duke,81,89,35,32,0,Bryant Crawford missed Jumper.
+Wake Forest,Duke,81,89,35,32,0,Amile Jefferson Block.
+Wake Forest,Duke,81,89,35,32,0,Luke Kennard Defensive Rebound.
+Wake Forest,Duke,81,89,35,42,0,Foul on Brandon Childress.
+Wake Forest,Duke,81,89,35,45,0,Frank Jackson missed Three Point Jumper.
+Wake Forest,Duke,81,89,35,45,0,Konstantinos Mitoglou Defensive Rebound.
+Wake Forest,Duke,81,89,36,1,0,Official TV Timeout
+Wake Forest,Duke,81,89,36,14,0,Konstantinos Mitoglou missed Jumper.
+Wake Forest,Duke,81,89,36,14,0,John Collins Offensive Rebound.
+Wake Forest,Duke,81,89,36,14,0,Foul on Grayson Allen.
+Wake Forest,Duke,81,89,36,14,0,John Collins missed Free Throw.
+Wake Forest,Duke,81,89,36,14,0,Keyshawn Woods Offensive Rebound.
+Wake Forest,Duke,84,89,36,19,1,Brandon Childress made Three Point Jumper. Assisted by Trent VanHorn.
+Wake Forest,Duke,84,89,36,40,0,Foul on Trent VanHorn.
+Wake Forest,Duke,84,89,36,40,0,Matt Jones missed Free Throw.
+Wake Forest,Duke,84,89,36,40,0,John Collins Defensive Rebound.
+Wake Forest,Duke,86,89,36,54,1,John Collins made Jumper. Assisted by Keyshawn Woods.
+Wake Forest,Duke,86,89,36,54,0,Foul on Luke Kennard.
+Wake Forest,Duke,87,89,36,54,1,John Collins made Free Throw.
+Wake Forest,Duke,87,91,37,16,1,Amile Jefferson made Layup. Assisted by Matt Jones.
+Wake Forest,Duke,89,91,37,31,1,Brandon Childress made Layup.
+Wake Forest,Duke,89,91,37,31,0,Foul on Amile Jefferson.
+Wake Forest,Duke,90,91,37,31,1,Brandon Childress made Free Throw.
+Wake Forest,Duke,90,93,37,49,1,Luke Kennard made Layup.
+Wake Forest,Duke,90,93,38,7,0,Brandon Childress missed Three Point Jumper.
+Wake Forest,Duke,90,93,38,7,0,Luke Kennard Defensive Rebound.
+Wake Forest,Duke,90,93,38,33,0,Matt Jones missed Three Point Jumper.
+Wake Forest,Duke,90,93,38,33,0,Trent VanHorn Defensive Rebound.
+Wake Forest,Duke,92,93,38,43,1,Bryant Crawford made Layup.
+Wake Forest,Duke,92,93,38,45,0,Wake Forest  Timeout
+Wake Forest,Duke,92,93,39,0,0,Foul on Brandon Childress.
+Wake Forest,Duke,92,93,39,0,0,Grayson Allen missed Free Throw.
+Wake Forest,Duke,92,93,39,0,0,John Collins Defensive Rebound.
+Wake Forest,Duke,92,93,39,26,0,Bryant Crawford missed Layup.
+Wake Forest,Duke,92,93,39,26,0,Jayson Tatum Defensive Rebound.
+Wake Forest,Duke,92,93,39,29,0,Foul on Bryant Crawford.
+Wake Forest,Duke,92,94,39,29,1,Jayson Tatum made Free Throw.
+Wake Forest,Duke,92,95,39,29,1,Jayson Tatum made Free Throw.
+Wake Forest,Duke,92,95,39,29,0,Duke  Timeout
+Wake Forest,Duke,92,95,39,41,0,Bryant Crawford missed Layup.
+Wake Forest,Duke,92,95,39,41,0,Amile Jefferson Defensive Rebound.
+Wake Forest,Duke,92,95,39,46,0,Foul on Konstantinos Mitoglou.
+Wake Forest,Duke,92,96,39,46,1,Amile Jefferson made Free Throw.
+Wake Forest,Duke,92,97,39,46,1,Amile Jefferson made Free Throw.
+Wake Forest,Duke,92,97,39,46,0,Duke  Timeout
+Wake Forest,Duke,92,97,39,50,0,Keyshawn Woods missed Three Point Jumper.
+Wake Forest,Duke,92,97,39,50,0,Frank Jackson Defensive Rebound.
+Wake Forest,Duke,92,97,39,56,0,Foul on Brandon Childress.
+Wake Forest,Duke,92,98,39,56,1,Frank Jackson made Free Throw.
+Wake Forest,Duke,92,99,39,56,1,Frank Jackson made Free Throw.
+Wake Forest,Duke,94,99,39,58,1,Bryant Crawford made Layup.
+Wake Forest,Duke,94,99,40,0,0,End of Game

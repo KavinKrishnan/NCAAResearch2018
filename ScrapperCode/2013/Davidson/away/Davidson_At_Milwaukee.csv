@@ -1,0 +1,375 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Davidson,Milwaukee,0,0,0,28,0,Christian Wolf missed Jumper.
+Davidson,Milwaukee,0,0,0,28,0,Chris Czerapowicz Defensive Rebound.
+Davidson,Milwaukee,0,0,0,40,0,Jake Cohen missed Jumper.
+Davidson,Milwaukee,0,0,0,40,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,0,0,1,8,0,James Haarsma missed Three Point Jumper.
+Davidson,Milwaukee,0,0,1,8,0,JP Kuhlman Defensive Rebound.
+Davidson,Milwaukee,0,0,1,26,0,De'Mon Brooks missed Layup.
+Davidson,Milwaukee,0,0,1,26,0,De'Mon Brooks Offensive Rebound.
+Davidson,Milwaukee,0,0,1,29,0,De'Mon Brooks missed Layup.
+Davidson,Milwaukee,0,0,1,29,0,Davidson Offensive Rebound.
+Davidson,Milwaukee,2,0,1,56,1,Jake Cohen made Layup.  Assisted by Nik Cochran.
+Davidson,Milwaukee,2,0,2,13,0,Demetrius Harris missed Layup.
+Davidson,Milwaukee,2,0,2,13,0,Davidson Defensive Rebound.
+Davidson,Milwaukee,2,0,2,25,0,Nik Cochran Turnover.
+Davidson,Milwaukee,2,0,2,25,0,Foul on Nik Cochran
+Davidson,Milwaukee,2,0,2,32,0,Jordan Aaron missed Layup.
+Davidson,Milwaukee,2,0,2,32,0,Christian Wolf Offensive Rebound.
+Davidson,Milwaukee,2,0,2,34,0,Foul on Jake Cohen
+Davidson,Milwaukee,2,1,2,34,1,Christian Wolf made Free Throw.
+Davidson,Milwaukee,2,2,2,34,1,Christian Wolf made Free Throw.
+Davidson,Milwaukee,2,2,2,46,0,Jake Cohen missed Layup.
+Davidson,Milwaukee,2,2,2,46,0,De'Mon Brooks Offensive Rebound.
+Davidson,Milwaukee,2,2,2,49,0,Foul on Demetrius Harris
+Davidson,Milwaukee,3,2,2,49,1,De'Mon Brooks made Free Throw.
+Davidson,Milwaukee,4,2,2,49,1,De'Mon Brooks made Free Throw.
+Davidson,Milwaukee,4,2,2,57,0,James Haarsma missed Jumper.
+Davidson,Milwaukee,4,2,2,57,0,De'Mon Brooks Defensive Rebound.
+Davidson,Milwaukee,6,2,3,23,1,De'Mon Brooks made Layup.
+Davidson,Milwaukee,6,2,3,23,0,Foul on James Haarsma
+Davidson,Milwaukee,7,2,3,23,1,De'Mon Brooks made Free Throw.
+Davidson,Milwaukee,7,2,3,34,0,Thierno Niang Turnover.
+Davidson,Milwaukee,7,2,3,55,0,JP Kuhlman Turnover.
+Davidson,Milwaukee,7,2,3,56,0,Thierno Niang Steal.
+Davidson,Milwaukee,7,2,3,58,0,Foul on Nik Cochran
+Davidson,Milwaukee,7,2,3,58,0,Demetrius Harris missed Free Throw.
+Davidson,Milwaukee,7,2,3,58,0,null
+Davidson,Milwaukee,7,3,3,58,1,Demetrius Harris made Free Throw.
+Davidson,Milwaukee,7,3,4,9,0,Chris Czerapowicz missed Jumper.
+Davidson,Milwaukee,7,3,4,9,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,7,6,4,15,1,Thierno Niang made Three Point Jumper.
+Davidson,Milwaukee,7,6,4,35,0,De'Mon Brooks missed Layup.
+Davidson,Milwaukee,7,6,4,35,0,Kyle Kelm Block.
+Davidson,Milwaukee,7,6,4,37,0,De'Mon Brooks Offensive Rebound.
+Davidson,Milwaukee,9,6,4,40,1,De'Mon Brooks made Layup.
+Davidson,Milwaukee,9,6,4,52,0,Demetrius Harris Turnover.
+Davidson,Milwaukee,9,6,4,52,0,Davidson Full Timeout.
+Davidson,Milwaukee,11,6,5,7,1,De'Mon Brooks made Jumper.
+Davidson,Milwaukee,11,8,5,25,1,Demetrius Harris made Layup.
+Davidson,Milwaukee,11,8,5,36,0,De'Mon Brooks Turnover.
+Davidson,Milwaukee,11,8,5,36,0,Ryan Haggerty Steal.
+Davidson,Milwaukee,11,8,5,45,0,Demetrius Harris missed Jumper.
+Davidson,Milwaukee,11,8,5,45,0,Milwaukee Offensive Rebound.
+Davidson,Milwaukee,11,8,5,52,0,Thierno Niang Turnover.
+Davidson,Milwaukee,11,8,6,21,0,Clint Mann missed Layup.
+Davidson,Milwaukee,11,8,6,21,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,11,11,6,40,1,Ryan Haggerty made Three Point Jumper.  Assisted by Thierno Niang.
+Davidson,Milwaukee,11,11,6,53,0,JP Kuhlman Turnover.
+Davidson,Milwaukee,11,11,6,53,0,Thierno Niang Steal.
+Davidson,Milwaukee,11,11,7,4,0,Christian Wolf missed Jumper.
+Davidson,Milwaukee,11,11,7,4,0,Tyler Kalinoski Defensive Rebound.
+Davidson,Milwaukee,13,11,7,12,1,JP Kuhlman made Layup.  Assisted by Tyler Kalinoski.
+Davidson,Milwaukee,13,13,7,27,1,Christian Wolf made Layup.  Assisted by Jordan Aaron.
+Davidson,Milwaukee,13,13,7,44,0,Chris Czerapowicz missed Jumper.
+Davidson,Milwaukee,13,13,7,44,0,Jordan Aaron Defensive Rebound.
+Davidson,Milwaukee,13,13,7,52,0,Ryan Haggerty missed Three Point Jumper.
+Davidson,Milwaukee,13,13,7,52,0,Thierno Niang Offensive Rebound.
+Davidson,Milwaukee,13,13,8,21,0,Thierno Niang missed Three Point Jumper.
+Davidson,Milwaukee,13,13,8,21,0,Ryan Haggerty Offensive Rebound.
+Davidson,Milwaukee,13,13,8,27,0,Ryan Haggerty Turnover.
+Davidson,Milwaukee,13,13,8,28,0,Tyler Kalinoski Steal.
+Davidson,Milwaukee,16,13,8,40,1,JP Kuhlman made Three Point Jumper.  Assisted by Tom Droney.
+Davidson,Milwaukee,16,13,9,5,0,Christian Wolf missed Jumper.
+Davidson,Milwaukee,16,13,9,5,0,Chris Czerapowicz Defensive Rebound.
+Davidson,Milwaukee,16,13,9,15,0,Tom Droney Turnover.
+Davidson,Milwaukee,16,13,9,15,0,Milwaukee Full Timeout.
+Davidson,Milwaukee,16,13,9,32,0,Demetrius Harris missed Layup.
+Davidson,Milwaukee,16,13,9,32,0,De'Mon Brooks Defensive Rebound.
+Davidson,Milwaukee,16,13,9,45,0,Jake Cohen missed Jumper.
+Davidson,Milwaukee,16,13,9,45,0,James Haarsma Defensive Rebound.
+Davidson,Milwaukee,16,13,9,59,0,Jordan Aaron Turnover.
+Davidson,Milwaukee,16,13,10,0,0,Tyler Kalinoski Steal.
+Davidson,Milwaukee,16,13,10,3,0,Tyler Kalinoski missed Layup.
+Davidson,Milwaukee,16,13,10,3,0,Demetrius Harris Block.
+Davidson,Milwaukee,16,13,10,5,0,Davidson Offensive Rebound.
+Davidson,Milwaukee,16,13,10,8,0,Tom Droney missed Layup.
+Davidson,Milwaukee,16,13,10,8,0,James Haarsma Defensive Rebound.
+Davidson,Milwaukee,16,13,10,18,0,Foul on Jordan Barham
+Davidson,Milwaukee,16,13,10,26,0,Kyle Kelm missed Jumper.
+Davidson,Milwaukee,16,13,10,26,0,Tom Droney Defensive Rebound.
+Davidson,Milwaukee,16,13,10,35,0,Tyler Kalinoski missed Three Point Jumper.
+Davidson,Milwaukee,16,13,10,35,0,Jordan Barham Offensive Rebound.
+Davidson,Milwaukee,16,13,10,52,0,Tyler Kalinoski Turnover.
+Davidson,Milwaukee,16,13,10,54,0,Kyle Kelm Steal.
+Davidson,Milwaukee,16,13,10,57,0,Thierno Niang Turnover.
+Davidson,Milwaukee,16,13,10,58,0,Tom Droney Steal.
+Davidson,Milwaukee,16,13,11,12,0,De'Mon Brooks Turnover.
+Davidson,Milwaukee,16,13,11,13,0,Jordan Aaron Steal.
+Davidson,Milwaukee,16,13,11,26,0,Kyle Kelm missed Three Point Jumper.
+Davidson,Milwaukee,16,13,11,26,0,De'Mon Brooks Defensive Rebound.
+Davidson,Milwaukee,16,13,11,35,0,Tyler Kalinoski missed Three Point Jumper.
+Davidson,Milwaukee,16,13,11,35,0,Jake Cohen Offensive Rebound.
+Davidson,Milwaukee,16,13,11,39,0,Jake Cohen missed Layup.
+Davidson,Milwaukee,16,13,11,39,0,Demetrius Harris Defensive Rebound.
+Davidson,Milwaukee,16,13,11,42,0,Milwaukee Full Timeout.
+Davidson,Milwaukee,16,13,11,54,0,Foul on Jordan Barham
+Davidson,Milwaukee,16,14,11,54,1,Jordan Aaron made Free Throw.
+Davidson,Milwaukee,16,15,11,54,1,Jordan Aaron made Free Throw.
+Davidson,Milwaukee,18,15,12,3,1,Tyler Kalinoski made Jumper.  Assisted by JP Kuhlman.
+Davidson,Milwaukee,18,15,12,23,0,James Haarsma missed Three Point Jumper.
+Davidson,Milwaukee,18,15,12,23,0,De'Mon Brooks Defensive Rebound.
+Davidson,Milwaukee,18,15,12,33,0,De'Mon Brooks missed Three Point Jumper.
+Davidson,Milwaukee,18,15,12,33,0,Davidson Offensive Rebound.
+Davidson,Milwaukee,18,15,12,35,0,Foul on Christian Wolf
+Davidson,Milwaukee,18,15,12,35,0,Davidson Full Timeout.
+Davidson,Milwaukee,20,15,12,58,1,Tyler Kalinoski made Jumper.
+Davidson,Milwaukee,20,18,13,17,1,Ryan Haggerty made Three Point Jumper.  Assisted by Jordan Aaron.
+Davidson,Milwaukee,20,18,13,44,0,De'Mon Brooks missed Jumper.
+Davidson,Milwaukee,20,18,13,44,0,Davidson Offensive Rebound.
+Davidson,Milwaukee,20,18,13,49,0,Foul on JP Kuhlman
+Davidson,Milwaukee,20,18,13,49,0,JP Kuhlman Turnover.
+Davidson,Milwaukee,20,18,13,58,0,Ryan Haggerty Turnover.
+Davidson,Milwaukee,20,18,14,0,0,Chris Czerapowicz Steal.
+Davidson,Milwaukee,22,18,14,12,1,JP Kuhlman made Layup.  Assisted by Jake Cohen.
+Davidson,Milwaukee,22,18,14,36,0,James Haarsma missed Layup.
+Davidson,Milwaukee,22,18,14,36,0,Demetrius Harris Offensive Rebound.
+Davidson,Milwaukee,22,20,14,39,1,Demetrius Harris made Jumper.
+Davidson,Milwaukee,22,20,14,39,0,Foul on Tyler Kalinoski
+Davidson,Milwaukee,22,20,14,39,0,Demetrius Harris missed Free Throw.
+Davidson,Milwaukee,22,20,14,39,0,Tyler Kalinoski Defensive Rebound.
+Davidson,Milwaukee,22,20,14,48,0,Chris Czerapowicz missed Jumper.
+Davidson,Milwaukee,22,20,14,48,0,Ryan Haggerty Defensive Rebound.
+Davidson,Milwaukee,22,20,15,6,0,Christian Wolf Turnover.
+Davidson,Milwaukee,22,20,15,7,0,Tyler Kalinoski Steal.
+Davidson,Milwaukee,22,20,15,12,0,JP Kuhlman missed Three Point Jumper.
+Davidson,Milwaukee,22,20,15,12,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,22,20,15,20,0,Thierno Niang Turnover.
+Davidson,Milwaukee,22,20,15,20,0,JP Kuhlman Steal.
+Davidson,Milwaukee,22,20,15,20,0,Davidson Full Timeout.
+Davidson,Milwaukee,22,20,15,30,0,Foul on Christian Wolf
+Davidson,Milwaukee,22,20,15,45,0,Jake Cohen missed Jumper.
+Davidson,Milwaukee,22,20,15,45,0,Clint Mann Offensive Rebound.
+Davidson,Milwaukee,22,20,15,50,0,Clint Mann missed Layup.
+Davidson,Milwaukee,22,20,15,50,0,Davidson Offensive Rebound.
+Davidson,Milwaukee,22,20,15,59,0,Foul on Chris Czerapowicz
+Davidson,Milwaukee,22,20,15,59,0,Chris Czerapowicz Turnover.
+Davidson,Milwaukee,22,20,16,10,0,Foul on Chris Czerapowicz
+Davidson,Milwaukee,22,20,16,10,0,Milwaukee Full Timeout.
+Davidson,Milwaukee,22,21,16,10,1,Demetrius Harris made Free Throw.
+Davidson,Milwaukee,22,22,16,10,1,Demetrius Harris made Free Throw.
+Davidson,Milwaukee,22,22,16,32,0,De'Mon Brooks missed Jumper.
+Davidson,Milwaukee,22,22,16,32,0,James Haarsma Defensive Rebound.
+Davidson,Milwaukee,22,22,16,56,0,Demetrius Harris Turnover.
+Davidson,Milwaukee,22,22,16,56,0,Foul on Demetrius Harris
+Davidson,Milwaukee,24,22,17,13,1,Clint Mann made Layup.
+Davidson,Milwaukee,24,22,17,31,0,Jordan Aaron missed Three Point Jumper.
+Davidson,Milwaukee,24,22,17,31,0,Clint Mann Defensive Rebound.
+Davidson,Milwaukee,26,22,18,2,1,JP Kuhlman made Jumper.  Assisted by Jake Cohen.
+Davidson,Milwaukee,26,24,18,18,1,Jordan Aaron made Layup.
+Davidson,Milwaukee,26,24,18,32,0,Foul on Kyle Kelm
+Davidson,Milwaukee,26,24,18,32,0,Foul on Evan Richard
+Davidson,Milwaukee,27,24,18,32,1,JP Kuhlman made Free Throw.
+Davidson,Milwaukee,28,24,18,32,1,JP Kuhlman made Free Throw.
+Davidson,Milwaukee,28,24,18,53,0,Foul on Clint Mann
+Davidson,Milwaukee,28,25,18,53,1,James Haarsma made Free Throw.
+Davidson,Milwaukee,28,26,18,53,1,James Haarsma made Free Throw.
+Davidson,Milwaukee,28,26,19,1,0,De'Mon Brooks missed Jumper.
+Davidson,Milwaukee,28,26,19,1,0,Kyle Kelm Block.
+Davidson,Milwaukee,28,26,19,3,0,Ryan Haggerty Defensive Rebound.
+Davidson,Milwaukee,28,26,19,8,0,Foul on Tyler Kalinoski
+Davidson,Milwaukee,28,27,19,8,1,Jordan Aaron made Free Throw.
+Davidson,Milwaukee,28,28,19,8,1,Jordan Aaron made Free Throw.
+Davidson,Milwaukee,31,28,19,15,1,Tyler Kalinoski made Three Point Jumper.  Assisted by JP Kuhlman.
+Davidson,Milwaukee,31,28,19,33,0,Foul on De'Mon Brooks
+Davidson,Milwaukee,31,29,19,33,1,Kyle Kelm made Free Throw.
+Davidson,Milwaukee,31,30,19,33,1,Kyle Kelm made Free Throw.
+Davidson,Milwaukee,31,30,20,0,0,End of the 1st Half.
+Davidson,Milwaukee,31,30,20,17,0,Christian Wolf Turnover.
+Davidson,Milwaukee,31,30,20,17,0,Chris Czerapowicz Steal.
+Davidson,Milwaukee,31,30,20,17,0,Davidson Full Timeout.
+Davidson,Milwaukee,31,30,20,30,0,Foul on Jordan Aaron
+Davidson,Milwaukee,31,30,20,49,0,JP Kuhlman missed Jumper.
+Davidson,Milwaukee,31,30,20,49,0,De'Mon Brooks Offensive Rebound.
+Davidson,Milwaukee,31,30,20,57,0,Chris Czerapowicz missed Jumper.
+Davidson,Milwaukee,31,30,20,57,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,31,32,21,17,1,Jordan Aaron made Jumper.
+Davidson,Milwaukee,33,32,21,30,1,Jake Cohen made Layup.
+Davidson,Milwaukee,33,32,21,30,0,Foul on Christian Wolf
+Davidson,Milwaukee,33,32,21,30,0,Jake Cohen missed Free Throw.
+Davidson,Milwaukee,33,32,21,30,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,33,32,21,53,0,Jordan Aaron Turnover.
+Davidson,Milwaukee,33,32,21,54,0,De'Mon Brooks Steal.
+Davidson,Milwaukee,33,32,21,58,0,Jake Cohen missed Dunk.
+Davidson,Milwaukee,33,32,21,58,0,De'Mon Brooks Offensive Rebound.
+Davidson,Milwaukee,35,32,22,2,1,De'Mon Brooks made Dunk.
+Davidson,Milwaukee,35,32,22,19,0,Foul on Chris Czerapowicz
+Davidson,Milwaukee,35,32,22,23,0,Jordan Aaron missed Three Point Jumper.
+Davidson,Milwaukee,35,32,22,23,0,Demetrius Harris Offensive Rebound.
+Davidson,Milwaukee,35,34,22,27,1,Demetrius Harris made Layup.
+Davidson,Milwaukee,35,34,22,27,0,Foul on Jake Cohen
+Davidson,Milwaukee,35,34,22,27,0,Demetrius Harris missed Free Throw.
+Davidson,Milwaukee,35,34,22,27,0,JP Kuhlman Defensive Rebound.
+Davidson,Milwaukee,35,34,22,35,0,Foul on Kyle Kelm
+Davidson,Milwaukee,35,34,22,38,0,Jake Cohen missed Layup.
+Davidson,Milwaukee,35,34,22,38,0,Jake Cohen Offensive Rebound.
+Davidson,Milwaukee,35,34,22,40,0,Foul on Jordan Aaron
+Davidson,Milwaukee,36,34,22,40,1,Jake Cohen made Free Throw.
+Davidson,Milwaukee,36,34,22,40,0,Jake Cohen missed Free Throw.
+Davidson,Milwaukee,36,34,22,40,0,Milwaukee Defensive Rebound.
+Davidson,Milwaukee,36,34,22,56,0,Foul on De'Mon Brooks
+Davidson,Milwaukee,36,34,23,7,0,Jordan Aaron missed Layup.
+Davidson,Milwaukee,36,34,23,7,0,Jake Cohen Defensive Rebound.
+Davidson,Milwaukee,36,34,23,9,0,Foul on Demetrius Harris
+Davidson,Milwaukee,36,34,23,19,0,Tom Droney missed Layup.
+Davidson,Milwaukee,36,34,23,19,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,36,34,23,29,0,Jordan Aaron Turnover.
+Davidson,Milwaukee,36,34,23,30,0,Tom Droney Steal.
+Davidson,Milwaukee,38,34,23,32,1,Nik Cochran made Layup.  Assisted by Tom Droney.
+Davidson,Milwaukee,38,34,23,36,0,Milwaukee Full Timeout.
+Davidson,Milwaukee,38,34,23,50,0,James Haarsma Turnover.
+Davidson,Milwaukee,38,34,23,51,0,De'Mon Brooks Steal.
+Davidson,Milwaukee,38,34,23,58,0,De'Mon Brooks Turnover.
+Davidson,Milwaukee,38,34,23,59,0,Ryan Haggerty Steal.
+Davidson,Milwaukee,38,34,24,12,0,Ryan Haggerty missed Three Point Jumper.
+Davidson,Milwaukee,38,34,24,12,0,Nik Cochran Defensive Rebound.
+Davidson,Milwaukee,41,34,24,21,1,JP Kuhlman made Three Point Jumper.  Assisted by Nik Cochran.
+Davidson,Milwaukee,41,34,24,44,0,Official TV Timeout.
+Davidson,Milwaukee,41,34,25,0,0,Kyle Kelm missed Jumper.
+Davidson,Milwaukee,41,34,25,0,0,Tom Droney Defensive Rebound.
+Davidson,Milwaukee,41,34,25,15,0,JP Kuhlman missed Jumper.
+Davidson,Milwaukee,41,34,25,15,0,Kyle Kelm Defensive Rebound.
+Davidson,Milwaukee,41,37,25,30,1,Thierno Niang made Three Point Jumper.
+Davidson,Milwaukee,41,37,25,50,0,De'Mon Brooks missed Jumper.
+Davidson,Milwaukee,41,37,25,50,0,James Haarsma Defensive Rebound.
+Davidson,Milwaukee,41,37,26,9,0,Ryan Haggerty Turnover.
+Davidson,Milwaukee,41,37,26,19,0,Clint Mann Turnover.
+Davidson,Milwaukee,41,37,26,35,0,Thierno Niang missed Three Point Jumper.
+Davidson,Milwaukee,41,37,26,35,0,Demetrius Harris Offensive Rebound.
+Davidson,Milwaukee,41,37,26,38,0,Foul on JP Kuhlman
+Davidson,Milwaukee,41,38,26,38,1,Demetrius Harris made Free Throw.
+Davidson,Milwaukee,41,39,26,38,1,Demetrius Harris made Free Throw.
+Davidson,Milwaukee,41,39,26,44,0,Tyler Kalinoski missed Three Point Jumper.
+Davidson,Milwaukee,41,39,26,44,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,41,41,26,58,1,Demetrius Harris made Layup.  Assisted by Jordan Aaron.
+Davidson,Milwaukee,43,41,27,5,1,JP Kuhlman made Layup.
+Davidson,Milwaukee,43,43,27,18,1,Demetrius Harris made Layup.
+Davidson,Milwaukee,43,43,27,18,0,Foul on JP Kuhlman
+Davidson,Milwaukee,43,43,27,18,0,Demetrius Harris missed Free Throw.
+Davidson,Milwaukee,43,43,27,18,0,Clint Mann Defensive Rebound.
+Davidson,Milwaukee,43,43,27,37,0,Chris Czerapowicz missed Jumper.
+Davidson,Milwaukee,43,43,27,37,0,Chris Czerapowicz Offensive Rebound.
+Davidson,Milwaukee,43,43,27,41,0,Chris Czerapowicz missed Layup.
+Davidson,Milwaukee,43,43,27,41,0,Demetrius Harris Defensive Rebound.
+Davidson,Milwaukee,43,43,27,51,0,Milwaukee Full Timeout.
+Davidson,Milwaukee,43,43,28,2,0,Thierno Niang missed Three Point Jumper.
+Davidson,Milwaukee,43,43,28,2,0,Clint Mann Defensive Rebound.
+Davidson,Milwaukee,46,43,28,10,1,Chris Czerapowicz made Three Point Jumper.  Assisted by JP Kuhlman.
+Davidson,Milwaukee,46,43,28,27,0,Jordan Aaron missed Layup.
+Davidson,Milwaukee,46,43,28,27,0,Nik Cochran Defensive Rebound.
+Davidson,Milwaukee,46,43,28,36,0,Jake Cohen missed Three Point Jumper.
+Davidson,Milwaukee,46,43,28,36,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,46,45,28,50,1,Jordan Aaron made Jumper.
+Davidson,Milwaukee,46,45,29,8,0,Foul on Thierno Niang
+Davidson,Milwaukee,46,45,29,8,0,Official TV Timeout.
+Davidson,Milwaukee,46,45,29,8,0,Jake Cohen missed Free Throw.
+Davidson,Milwaukee,46,45,29,8,0,null
+Davidson,Milwaukee,47,45,29,8,1,Jake Cohen made Free Throw.
+Davidson,Milwaukee,47,47,29,26,1,Jordan Aaron made Layup.
+Davidson,Milwaukee,47,47,29,43,0,Foul on De'Mon Brooks
+Davidson,Milwaukee,47,47,29,43,0,De'Mon Brooks Turnover.
+Davidson,Milwaukee,47,47,29,57,0,Kyle Kelm missed Jumper.
+Davidson,Milwaukee,47,47,29,57,0,Ryan Haggerty Offensive Rebound.
+Davidson,Milwaukee,47,47,30,3,0,Ryan Haggerty missed Tip Shot.
+Davidson,Milwaukee,47,47,30,3,0,Chris Czerapowicz Defensive Rebound.
+Davidson,Milwaukee,49,47,30,12,1,Chris Czerapowicz made Jumper.
+Davidson,Milwaukee,49,47,30,12,0,Foul on Ryan Haggerty
+Davidson,Milwaukee,50,47,30,12,1,Chris Czerapowicz made Free Throw.
+Davidson,Milwaukee,50,49,30,38,1,Jordan Aaron made Layup.
+Davidson,Milwaukee,50,49,30,38,0,Foul on Chris Czerapowicz
+Davidson,Milwaukee,50,50,30,38,1,Jordan Aaron made Free Throw.
+Davidson,Milwaukee,50,50,30,54,0,Foul on Jordan Aaron
+Davidson,Milwaukee,50,50,30,54,0,Jake Cohen missed Free Throw.
+Davidson,Milwaukee,50,50,30,54,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,50,50,31,6,0,Foul on Jake Cohen
+Davidson,Milwaukee,50,50,31,6,0,James Haarsma missed Free Throw.
+Davidson,Milwaukee,50,50,31,6,0,Tyler Kalinoski Defensive Rebound.
+Davidson,Milwaukee,50,50,31,19,0,Foul on Thierno Niang
+Davidson,Milwaukee,50,50,31,19,0,JP Kuhlman missed Free Throw.
+Davidson,Milwaukee,50,50,31,19,0,Thierno Niang Defensive Rebound.
+Davidson,Milwaukee,50,53,31,33,1,Jordan Aaron made Three Point Jumper.
+Davidson,Milwaukee,50,53,31,53,0,Foul on Thierno Niang
+Davidson,Milwaukee,51,53,31,53,1,Tyler Kalinoski made Free Throw.
+Davidson,Milwaukee,52,53,31,53,1,Tyler Kalinoski made Free Throw.
+Davidson,Milwaukee,52,53,32,6,0,Foul on Nik Cochran
+Davidson,Milwaukee,52,53,32,6,0,Official TV Timeout.
+Davidson,Milwaukee,52,53,32,6,0,Christian Wolf missed Free Throw.
+Davidson,Milwaukee,52,53,32,6,0,Tom Droney Defensive Rebound.
+Davidson,Milwaukee,52,53,32,39,0,Foul on Thierno Niang
+Davidson,Milwaukee,52,53,32,39,0,De'Mon Brooks missed Free Throw.
+Davidson,Milwaukee,52,53,32,39,0,null
+Davidson,Milwaukee,53,53,32,39,1,De'Mon Brooks made Free Throw.
+Davidson,Milwaukee,53,56,32,58,1,Jordan Aaron made Three Point Jumper.
+Davidson,Milwaukee,53,56,33,14,0,Tyler Kalinoski Turnover.
+Davidson,Milwaukee,53,56,33,15,0,James Haarsma Steal.
+Davidson,Milwaukee,53,56,33,30,0,Jordan Aaron missed Three Point Jumper.
+Davidson,Milwaukee,53,56,33,30,0,Christian Wolf Offensive Rebound.
+Davidson,Milwaukee,53,56,33,35,0,Christian Wolf missed Layup.
+Davidson,Milwaukee,53,56,33,35,0,De'Mon Brooks Defensive Rebound.
+Davidson,Milwaukee,53,56,33,37,0,Foul on Christian Wolf
+Davidson,Milwaukee,54,56,33,37,1,De'Mon Brooks made Free Throw.
+Davidson,Milwaukee,55,56,33,37,1,De'Mon Brooks made Free Throw.
+Davidson,Milwaukee,55,56,34,3,0,Foul on De'Mon Brooks
+Davidson,Milwaukee,55,56,34,3,0,Demetrius Harris missed Free Throw.
+Davidson,Milwaukee,55,56,34,3,0,null
+Davidson,Milwaukee,55,56,34,3,0,Demetrius Harris missed Free Throw.
+Davidson,Milwaukee,55,56,34,3,0,Tyler Kalinoski Defensive Rebound.
+Davidson,Milwaukee,55,56,34,30,0,Tom Droney missed Three Point Jumper.
+Davidson,Milwaukee,55,56,34,30,0,James Haarsma Defensive Rebound.
+Davidson,Milwaukee,55,56,34,34,0,Foul on Clint Mann
+Davidson,Milwaukee,55,57,34,34,1,James Haarsma made Free Throw.
+Davidson,Milwaukee,55,58,34,34,1,James Haarsma made Free Throw.
+Davidson,Milwaukee,55,58,34,40,0,Davidson Full Timeout.
+Davidson,Milwaukee,57,58,34,51,1,Jake Cohen made Jumper.  Assisted by Tyler Kalinoski.
+Davidson,Milwaukee,57,60,35,9,1,Kyle Kelm made Jumper.
+Davidson,Milwaukee,59,60,35,16,1,Nik Cochran made Layup.
+Davidson,Milwaukee,59,62,35,33,1,Jordan Aaron made Jumper.
+Davidson,Milwaukee,59,62,35,49,0,Tyler Kalinoski Turnover.
+Davidson,Milwaukee,59,62,35,49,0,Foul on Tyler Kalinoski
+Davidson,Milwaukee,59,62,36,9,0,Kyle Kelm missed Three Point Jumper.
+Davidson,Milwaukee,59,62,36,9,0,De'Mon Brooks Defensive Rebound.
+Davidson,Milwaukee,59,62,36,34,0,Official TV Timeout.
+Davidson,Milwaukee,59,62,36,42,0,Foul on Christian Wolf
+Davidson,Milwaukee,60,62,36,42,1,Nik Cochran made Free Throw.
+Davidson,Milwaukee,61,62,36,42,1,Nik Cochran made Free Throw.
+Davidson,Milwaukee,61,62,37,1,0,Jordan Aaron Turnover.
+Davidson,Milwaukee,61,62,37,1,0,Jake Cohen Steal.
+Davidson,Milwaukee,61,62,37,6,0,Tom Droney missed Layup.
+Davidson,Milwaukee,61,62,37,6,0,Nik Cochran Offensive Rebound.
+Davidson,Milwaukee,61,62,37,9,0,Foul on Ryan Haggerty
+Davidson,Milwaukee,62,62,37,9,1,Nik Cochran made Free Throw.
+Davidson,Milwaukee,63,62,37,9,1,Nik Cochran made Free Throw.
+Davidson,Milwaukee,63,65,37,28,1,Kyle Kelm made Three Point Jumper.
+Davidson,Milwaukee,63,65,37,38,0,Nik Cochran missed Three Point Jumper.
+Davidson,Milwaukee,63,65,37,38,0,Jordan Aaron Defensive Rebound.
+Davidson,Milwaukee,63,65,37,45,0,Milwaukee Full Timeout.
+Davidson,Milwaukee,63,65,38,8,0,Foul on Nik Cochran
+Davidson,Milwaukee,63,66,38,8,1,Kyle Kelm made Free Throw.
+Davidson,Milwaukee,63,67,38,8,1,Kyle Kelm made Free Throw.
+Davidson,Milwaukee,63,67,38,28,0,Foul on James Haarsma
+Davidson,Milwaukee,64,67,38,28,1,Tyler Kalinoski made Free Throw.
+Davidson,Milwaukee,65,67,38,28,1,Tyler Kalinoski made Free Throw.
+Davidson,Milwaukee,65,67,38,42,0,Milwaukee Full Timeout.
+Davidson,Milwaukee,65,69,39,1,1,Kyle Kelm made Layup.
+Davidson,Milwaukee,65,69,39,18,0,Foul on Jordan Aaron
+Davidson,Milwaukee,65,69,39,18,0,Tyler Kalinoski missed Free Throw.
+Davidson,Milwaukee,65,69,39,18,0,null
+Davidson,Milwaukee,66,69,39,18,1,Tyler Kalinoski made Free Throw.
+Davidson,Milwaukee,66,69,39,39,0,Thierno Niang Turnover.
+Davidson,Milwaukee,66,69,39,39,0,Tyler Kalinoski Steal.
+Davidson,Milwaukee,66,69,39,39,0,Foul on Jordan Aaron
+Davidson,Milwaukee,67,69,39,39,1,Tyler Kalinoski made Free Throw.
+Davidson,Milwaukee,68,69,39,39,1,Tyler Kalinoski made Free Throw.
+Davidson,Milwaukee,68,69,39,42,0,Foul on Tyler Kalinoski
+Davidson,Milwaukee,68,70,39,42,1,Thierno Niang made Free Throw.
+Davidson,Milwaukee,68,71,39,42,1,Thierno Niang made Free Throw.
+Davidson,Milwaukee,68,71,39,49,0,Tyler Kalinoski missed Three Point Jumper.
+Davidson,Milwaukee,68,71,39,49,0,Demetrius Harris Defensive Rebound.
+Davidson,Milwaukee,68,72,39,54,1,Demetrius Harris made Free Throw.
+Davidson,Milwaukee,68,72,39,54,0,Foul on Jake Cohen
+Davidson,Milwaukee,68,73,39,54,1,Demetrius Harris made Free Throw.
+Davidson,Milwaukee,68,73,39,54,0,Davidson Full Timeout.
+Davidson,Milwaukee,68,73,39,57,0,Chris Czerapowicz missed Three Point Jumper.
+Davidson,Milwaukee,68,73,39,57,0,Milwaukee Defensive Rebound.
+Davidson,Milwaukee,68,73,40,0,0,Foul on Jake Cohen
+Davidson,Milwaukee,68,73,40,0,0,End Game

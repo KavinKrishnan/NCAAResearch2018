@@ -1,0 +1,384 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Oklahoma,Michigan State,0,0,0,0,0,Jump Ball won by Oklahoma
+Oklahoma,Michigan State,2,0,0,10,1,Ryan Spangler made Layup. Assisted by Jordan Woodard.
+Oklahoma,Michigan State,2,0,0,18,0,Adreian Payne missed Three Point Jumper.
+Oklahoma,Michigan State,2,0,0,18,0,Buddy Hield Defensive Rebound.
+Oklahoma,Michigan State,4,0,0,27,1,Cameron Clark made Jumper. Assisted by Jordan Woodard.
+Oklahoma,Michigan State,4,3,0,53,1,Gary Harris made Three Point Jumper. Assisted by Matt Costello.
+Oklahoma,Michigan State,6,3,1,7,1,Cameron Clark made Jumper.
+Oklahoma,Michigan State,6,3,1,18,0,Adreian Payne Turnover.
+Oklahoma,Michigan State,6,3,1,18,0,Jordan Woodard Steal.
+Oklahoma,Michigan State,8,3,1,24,1,Buddy Hield made Layup. Assisted by Jordan Woodard.
+Oklahoma,Michigan State,8,3,1,45,0,Adreian Payne missed Layup.
+Oklahoma,Michigan State,8,3,1,45,0,Ryan Spangler Block.
+Oklahoma,Michigan State,8,3,1,45,0,Branden Dawson Offensive Rebound.
+Oklahoma,Michigan State,8,5,1,54,1,Branden Dawson made Layup.
+Oklahoma,Michigan State,8,5,1,55,0,Jordan Woodard Turnover.
+Oklahoma,Michigan State,8,5,2,12,0,Gary Harris missed Three Point Jumper.
+Oklahoma,Michigan State,8,5,2,12,0,Ryan Spangler Defensive Rebound.
+Oklahoma,Michigan State,8,5,2,22,0,Buddy Hield Turnover.
+Oklahoma,Michigan State,8,8,2,42,1,Gary Harris made Three Point Jumper. Assisted by Adreian Payne.
+Oklahoma,Michigan State,11,8,2,55,1,Cameron Clark made Three Point Jumper.
+Oklahoma,Michigan State,11,8,3,25,0,Gary Harris missed Three Point Jumper.
+Oklahoma,Michigan State,11,8,3,25,0,Isaiah Cousins Defensive Rebound.
+Oklahoma,Michigan State,13,8,3,34,1,Buddy Hield made Layup. Assisted by Isaiah Cousins.
+Oklahoma,Michigan State,13,10,4,1,1,Branden Dawson made Layup. Assisted by Keith Appling.
+Oklahoma,Michigan State,13,10,4,12,0,Foul on Adreian Payne.
+Oklahoma,Michigan State,13,10,4,13,0,Official TV Timeout
+Oklahoma,Michigan State,13,10,4,24,0,Buddy Hield missed Three Point Jumper.
+Oklahoma,Michigan State,13,10,4,24,0,Keith Appling Defensive Rebound.
+Oklahoma,Michigan State,13,10,4,50,0,Keith Appling Turnover.
+Oklahoma,Michigan State,13,10,4,50,0,Cameron Clark Steal.
+Oklahoma,Michigan State,15,10,4,56,1,Cameron Clark made Jumper.
+Oklahoma,Michigan State,15,10,5,31,0,Gary Harris missed Three Point Jumper.
+Oklahoma,Michigan State,15,10,5,31,0,Michigan St Offensive Rebound.
+Oklahoma,Michigan State,15,10,5,39,0,Foul on Je'lon Hornbeak.
+Oklahoma,Michigan State,15,10,5,39,0,Alex Gauna missed Free Throw.
+Oklahoma,Michigan State,15,10,5,39,0,Michigan St Deadball Team Rebound.
+Oklahoma,Michigan State,15,11,5,39,1,Alex Gauna made Free Throw.
+Oklahoma,Michigan State,15,11,5,53,0,Jordan Woodard Turnover.
+Oklahoma,Michigan State,15,11,5,53,0,Travis Trice Steal.
+Oklahoma,Michigan State,15,11,6,1,0,Adreian Payne missed Jumper.
+Oklahoma,Michigan State,15,11,6,1,0,Cameron Clark Defensive Rebound.
+Oklahoma,Michigan State,17,11,6,13,1,Ryan Spangler made Layup. Assisted by Jordan Woodard.
+Oklahoma,Michigan State,17,11,6,23,0,Foul on Ryan Spangler.
+Oklahoma,Michigan State,17,11,6,46,0,Branden Dawson missed Layup.
+Oklahoma,Michigan State,17,11,6,46,0,D.J. Bennett Block.
+Oklahoma,Michigan State,17,11,6,46,0,D.J. Bennett Defensive Rebound.
+Oklahoma,Michigan State,20,11,7,14,1,Cameron Clark made Three Point Jumper. Assisted by Jordan Woodard.
+Oklahoma,Michigan State,20,11,7,17,0,Denzel Valentine missed Jumper.
+Oklahoma,Michigan State,20,11,7,17,0,Oklahoma Defensive Rebound.
+Oklahoma,Michigan State,20,11,7,22,0,Je'lon Hornbeak Turnover.
+Oklahoma,Michigan State,20,11,7,45,0,Travis Trice missed Three Point Jumper.
+Oklahoma,Michigan State,20,11,7,45,0,Branden Dawson Offensive Rebound.
+Oklahoma,Michigan State,20,11,7,58,0,Matt Costello missed Dunk.
+Oklahoma,Michigan State,20,11,7,58,0,Je'lon Hornbeak Defensive Rebound.
+Oklahoma,Michigan State,20,11,8,11,0,Isaiah Cousins missed Three Point Jumper.
+Oklahoma,Michigan State,20,11,8,11,0,Branden Dawson Defensive Rebound.
+Oklahoma,Michigan State,20,11,8,18,0,Foul on Isaiah Cousins.
+Oklahoma,Michigan State,20,11,8,19,0,Official TV Timeout
+Oklahoma,Michigan State,20,11,8,55,0,Michigan St  Turnover.
+Oklahoma,Michigan State,22,11,9,9,1,Cameron Clark made Jumper. Assisted by Je'lon Hornbeak.
+Oklahoma,Michigan State,22,14,9,22,1,Keith Appling made Three Point Jumper. Assisted by Gary Harris.
+Oklahoma,Michigan State,22,14,9,32,0,Je'lon Hornbeak missed Layup.
+Oklahoma,Michigan State,22,14,9,32,0,Adreian Payne Block.
+Oklahoma,Michigan State,22,14,9,32,0,Adreian Payne Defensive Rebound.
+Oklahoma,Michigan State,22,14,9,32,0,Jump Ball won by Michigan St
+Oklahoma,Michigan State,22,17,9,48,1,Gary Harris made Three Point Jumper. Assisted by Branden Dawson.
+Oklahoma,Michigan State,24,17,10,0,1,Cameron Clark made Jumper.
+Oklahoma,Michigan State,24,17,10,27,0,Foul on Je'lon Hornbeak.
+Oklahoma,Michigan State,24,18,10,27,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,24,19,10,27,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,24,19,10,49,0,Foul on Keith Appling.
+Oklahoma,Michigan State,25,19,10,49,1,Isaiah Cousins made Free Throw.
+Oklahoma,Michigan State,26,19,10,49,1,Isaiah Cousins made Free Throw.
+Oklahoma,Michigan State,26,22,10,58,1,Travis Trice made Three Point Jumper. Assisted by Denzel Valentine.
+Oklahoma,Michigan State,26,22,11,17,0,Cameron Clark missed Jumper.
+Oklahoma,Michigan State,26,22,11,17,0,Denzel Valentine Defensive Rebound.
+Oklahoma,Michigan State,26,22,11,24,0,Foul on Jordan Woodard.
+Oklahoma,Michigan State,26,23,11,24,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,26,24,11,24,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,29,24,11,37,1,Jordan Woodard made Three Point Jumper. Assisted by Ryan Spangler.
+Oklahoma,Michigan State,29,24,11,47,0,Keith Appling missed Three Point Jumper.
+Oklahoma,Michigan State,29,24,11,47,0,Ryan Spangler Defensive Rebound.
+Oklahoma,Michigan State,29,24,11,55,0,Jordan Woodard missed Three Point Jumper.
+Oklahoma,Michigan State,29,24,11,55,0,Travis Trice Defensive Rebound.
+Oklahoma,Michigan State,29,24,12,4,0,Branden Dawson missed Layup.
+Oklahoma,Michigan State,29,24,12,4,0,Ryan Spangler Defensive Rebound.
+Oklahoma,Michigan State,29,24,12,15,0,Cameron Clark missed Jumper.
+Oklahoma,Michigan State,29,24,12,15,0,Oklahoma Offensive Rebound.
+Oklahoma,Michigan State,29,24,12,15,0,Official TV Timeout
+Oklahoma,Michigan State,29,24,12,15,0,Foul on Tyler Neal.
+Oklahoma,Michigan State,29,24,12,15,0,Tyler Neal Turnover.
+Oklahoma,Michigan State,29,24,12,20,0,Travis Trice missed Three Point Jumper.
+Oklahoma,Michigan State,29,24,12,20,0,Buddy Hield Defensive Rebound.
+Oklahoma,Michigan State,29,24,12,34,0,Tyler Neal missed Layup.
+Oklahoma,Michigan State,29,24,12,34,0,Matt Costello Defensive Rebound.
+Oklahoma,Michigan State,29,26,12,45,1,Denzel Valentine made Layup.
+Oklahoma,Michigan State,29,26,12,58,0,Tyler Neal Turnover.
+Oklahoma,Michigan State,29,26,12,58,0,Keith Appling Steal.
+Oklahoma,Michigan State,29,26,12,58,0,Foul on Buddy Hield.
+Oklahoma,Michigan State,29,27,12,58,1,Travis Trice made Free Throw.
+Oklahoma,Michigan State,29,28,12,58,1,Travis Trice made Free Throw.
+Oklahoma,Michigan State,29,28,13,0,0,Foul on Adreian Payne.
+Oklahoma,Michigan State,29,28,13,12,0,Jordan Woodard missed Jumper.
+Oklahoma,Michigan State,29,28,13,12,0,Denzel Valentine Defensive Rebound.
+Oklahoma,Michigan State,29,30,13,23,1,Branden Dawson made Dunk. Assisted by Denzel Valentine.
+Oklahoma,Michigan State,29,30,13,41,0,Buddy Hield missed Three Point Jumper.
+Oklahoma,Michigan State,29,30,13,41,0,Branden Dawson Defensive Rebound.
+Oklahoma,Michigan State,29,30,13,47,0,Foul on Jordan Woodard.
+Oklahoma,Michigan State,29,30,13,47,0,Branden Dawson missed Free Throw.
+Oklahoma,Michigan State,29,30,13,47,0,Jordan Woodard Defensive Rebound.
+Oklahoma,Michigan State,29,30,13,51,0,Jordan Woodard missed Layup.
+Oklahoma,Michigan State,29,30,13,51,0,Gary Harris Defensive Rebound.
+Oklahoma,Michigan State,29,32,14,15,1,Branden Dawson made Layup. Assisted by Denzel Valentine.
+Oklahoma,Michigan State,29,32,14,21,0,Oklahoma  Timeout
+Oklahoma,Michigan State,29,32,14,33,0,Foul on Matt Costello.
+Oklahoma,Michigan State,29,32,14,43,0,Ryan Spangler missed Three Point Jumper.
+Oklahoma,Michigan State,29,32,14,43,0,Denzel Valentine Defensive Rebound.
+Oklahoma,Michigan State,29,32,14,55,0,Foul on Buddy Hield.
+Oklahoma,Michigan State,29,32,14,55,0,Denzel Valentine missed Free Throw.
+Oklahoma,Michigan State,29,32,14,55,0,Cameron Clark Defensive Rebound.
+Oklahoma,Michigan State,31,32,15,10,1,Buddy Hield made Layup.
+Oklahoma,Michigan State,31,34,15,24,1,Gary Harris made Layup.
+Oklahoma,Michigan State,31,34,15,24,0,Foul on Isaiah Cousins.
+Oklahoma,Michigan State,31,35,15,24,1,Gary Harris made Free Throw.
+Oklahoma,Michigan State,31,35,15,47,0,Foul on Branden Dawson.
+Oklahoma,Michigan State,31,35,15,55,0,Isaiah Cousins missed Jumper.
+Oklahoma,Michigan State,31,35,15,55,0,Branden Dawson Defensive Rebound.
+Oklahoma,Michigan State,31,35,16,6,0,Keith Appling Turnover.
+Oklahoma,Michigan State,31,35,16,6,0,Official TV Timeout
+Oklahoma,Michigan State,31,35,16,26,0,Isaiah Cousins Turnover.
+Oklahoma,Michigan State,31,35,16,39,0,Denzel Valentine missed Layup.
+Oklahoma,Michigan State,31,35,16,39,0,Branden Dawson Offensive Rebound.
+Oklahoma,Michigan State,31,37,16,39,1,Branden Dawson made Two Point Tip Shot.
+Oklahoma,Michigan State,31,37,16,59,0,Buddy Hield Turnover.
+Oklahoma,Michigan State,31,37,17,2,0,Gary Harris missed Three Point Jumper.
+Oklahoma,Michigan State,31,37,17,2,0,Buddy Hield Defensive Rebound.
+Oklahoma,Michigan State,31,37,17,20,0,Buddy Hield Turnover.
+Oklahoma,Michigan State,31,39,17,52,1,Gary Harris made Layup. Assisted by Denzel Valentine.
+Oklahoma,Michigan State,31,39,17,59,0,Je'lon Hornbeak missed Three Point Jumper.
+Oklahoma,Michigan State,31,39,17,59,0,Gary Harris Defensive Rebound.
+Oklahoma,Michigan State,31,41,18,10,1,Branden Dawson made Jumper. Assisted by Denzel Valentine.
+Oklahoma,Michigan State,31,41,18,18,0,Oklahoma  Timeout
+Oklahoma,Michigan State,31,41,18,32,0,Cameron Clark missed Jumper.
+Oklahoma,Michigan State,31,41,18,32,0,Matt Costello Defensive Rebound.
+Oklahoma,Michigan State,31,41,18,35,0,Foul on Ryan Spangler.
+Oklahoma,Michigan State,31,41,18,35,0,Matt Costello missed Free Throw.
+Oklahoma,Michigan State,31,41,18,35,0,Michigan St Deadball Team Rebound.
+Oklahoma,Michigan State,31,42,18,35,1,Matt Costello made Free Throw.
+Oklahoma,Michigan State,31,42,18,49,0,Cameron Clark Turnover.
+Oklahoma,Michigan State,31,42,18,57,0,Foul on Branden Dawson.
+Oklahoma,Michigan State,31,42,18,57,0,Branden Dawson Turnover.
+Oklahoma,Michigan State,31,42,19,5,0,Tyler Neal missed Three Point Jumper.
+Oklahoma,Michigan State,31,42,19,5,0,Gary Harris Defensive Rebound.
+Oklahoma,Michigan State,31,42,19,16,0,Gary Harris missed Jumper.
+Oklahoma,Michigan State,31,42,19,16,0,D.J. Bennett Defensive Rebound.
+Oklahoma,Michigan State,31,42,19,16,0,Foul on Alex Gauna.
+Oklahoma,Michigan State,31,42,19,16,0,D.J. Bennett missed Free Throw.
+Oklahoma,Michigan State,31,42,19,16,0,Matt Costello Defensive Rebound.
+Oklahoma,Michigan State,31,42,19,36,0,Michigan St  Timeout
+Oklahoma,Michigan State,31,45,19,51,1,Denzel Valentine made Three Point Jumper. Assisted by Keith Appling.
+Oklahoma,Michigan State,31,45,20,0,0,End of 1st half
+Oklahoma,Michigan State,31,45,20,0,0,Jump Ball won by Oklahoma
+Oklahoma,Michigan State,31,45,20,7,0,Buddy Hield missed Layup.
+Oklahoma,Michigan State,31,45,20,7,0,Branden Dawson Block.
+Oklahoma,Michigan State,31,45,20,7,0,Oklahoma Offensive Rebound.
+Oklahoma,Michigan State,31,45,20,20,0,Foul on Keith Appling.
+Oklahoma,Michigan State,33,45,20,29,1,Cameron Clark made Layup. Assisted by Jordan Woodard.
+Oklahoma,Michigan State,33,47,20,48,1,Keith Appling made Layup. Assisted by Branden Dawson.
+Oklahoma,Michigan State,33,47,20,55,0,Isaiah Cousins missed Jumper.
+Oklahoma,Michigan State,33,47,20,55,0,Gary Harris Block.
+Oklahoma,Michigan State,33,47,20,55,0,Matt Costello Defensive Rebound.
+Oklahoma,Michigan State,33,47,21,1,0,Technical Foul on Oklahoma.
+Oklahoma,Michigan State,33,48,21,1,1,Gary Harris made Free Throw.
+Oklahoma,Michigan State,33,47,21,1,0,Foul on Oklahoma.
+Oklahoma,Michigan State,33,49,21,1,1,Gary Harris made Free Throw.
+Oklahoma,Michigan State,33,49,21,9,0,Adreian Payne missed Jumper.
+Oklahoma,Michigan State,33,49,21,9,0,Isaiah Cousins Defensive Rebound.
+Oklahoma,Michigan State,33,49,21,16,0,Cameron Clark Turnover.
+Oklahoma,Michigan State,33,49,21,16,0,Adreian Payne Steal.
+Oklahoma,Michigan State,33,51,21,21,1,Branden Dawson made Dunk. Assisted by Gary Harris.
+Oklahoma,Michigan State,33,51,21,41,0,Foul on Keith Appling.
+Oklahoma,Michigan State,34,51,21,41,1,Cameron Clark made Free Throw.
+Oklahoma,Michigan State,35,51,21,41,1,Cameron Clark made Free Throw.
+Oklahoma,Michigan State,35,53,21,59,1,Adreian Payne made Jumper.
+Oklahoma,Michigan State,35,53,22,15,0,Foul on Matt Costello.
+Oklahoma,Michigan State,36,53,22,15,1,Cameron Clark made Free Throw.
+Oklahoma,Michigan State,37,53,22,15,1,Cameron Clark made Free Throw.
+Oklahoma,Michigan State,37,53,22,26,0,Alex Gauna missed Layup.
+Oklahoma,Michigan State,37,53,22,26,0,Ryan Spangler Block.
+Oklahoma,Michigan State,37,53,22,26,0,Cameron Clark Defensive Rebound.
+Oklahoma,Michigan State,37,53,22,36,0,Buddy Hield missed Three Point Jumper.
+Oklahoma,Michigan State,37,53,22,36,0,Cameron Clark Offensive Rebound.
+Oklahoma,Michigan State,37,53,22,36,0,Foul on Branden Dawson.
+Oklahoma,Michigan State,38,53,22,36,1,Cameron Clark made Free Throw.
+Oklahoma,Michigan State,39,53,22,36,1,Cameron Clark made Free Throw.
+Oklahoma,Michigan State,39,55,22,43,1,Gary Harris made Layup.
+Oklahoma,Michigan State,39,55,23,4,0,Jordan Woodard missed Three Point Jumper.
+Oklahoma,Michigan State,39,55,23,4,0,Gavin Schilling Defensive Rebound.
+Oklahoma,Michigan State,39,55,23,10,0,Denzel Valentine Turnover.
+Oklahoma,Michigan State,39,55,23,10,0,Buddy Hield Steal.
+Oklahoma,Michigan State,41,55,23,17,1,Buddy Hield made Layup. Assisted by Ryan Spangler.
+Oklahoma,Michigan State,41,55,23,36,0,Denzel Valentine missed Layup.
+Oklahoma,Michigan State,41,55,23,36,0,Gavin Schilling Offensive Rebound.
+Oklahoma,Michigan State,41,57,23,36,1,Gavin Schilling made Two Point Tip Shot.
+Oklahoma,Michigan State,43,57,23,50,1,Isaiah Cousins made Jumper. Assisted by Cameron Clark.
+Oklahoma,Michigan State,43,57,24,5,0,Gary Harris missed Three Point Jumper.
+Oklahoma,Michigan State,43,57,24,5,0,Travis Trice Offensive Rebound.
+Oklahoma,Michigan State,43,57,24,17,0,Travis Trice missed Jumper.
+Oklahoma,Michigan State,43,57,24,17,0,Ryan Spangler Defensive Rebound.
+Oklahoma,Michigan State,45,57,24,23,1,Isaiah Cousins made Jumper.
+Oklahoma,Michigan State,45,57,24,41,0,Official TV Timeout
+Oklahoma,Michigan State,45,57,24,58,0,Travis Trice Turnover.
+Oklahoma,Michigan State,45,57,24,58,0,Jordan Woodard Steal.
+Oklahoma,Michigan State,45,57,25,6,0,Cameron Clark missed Layup.
+Oklahoma,Michigan State,45,57,25,6,0,Gavin Schilling Block.
+Oklahoma,Michigan State,45,57,25,6,0,Travis Trice Defensive Rebound.
+Oklahoma,Michigan State,45,57,25,6,0,Foul on Cameron Clark.
+Oklahoma,Michigan State,45,57,25,6,0,Travis Trice missed Layup.
+Oklahoma,Michigan State,45,57,25,6,0,Isaiah Cousins Defensive Rebound.
+Oklahoma,Michigan State,45,57,25,18,0,Foul on Alvin Ellis III.
+Oklahoma,Michigan State,46,57,25,18,1,Isaiah Cousins made Free Throw.
+Oklahoma,Michigan State,46,57,25,18,0,Isaiah Cousins missed Free Throw.
+Oklahoma,Michigan State,46,57,25,18,0,Adreian Payne Defensive Rebound.
+Oklahoma,Michigan State,46,57,25,32,0,Adreian Payne missed Jumper.
+Oklahoma,Michigan State,46,57,25,32,0,Buddy Hield Defensive Rebound.
+Oklahoma,Michigan State,46,57,25,39,0,Foul on Alvin Ellis III.
+Oklahoma,Michigan State,48,57,25,51,1,Jordan Woodard made Jumper.
+Oklahoma,Michigan State,48,57,26,4,0,Foul on Isaiah Cousins.
+Oklahoma,Michigan State,48,57,26,8,0,Adreian Payne missed Jumper.
+Oklahoma,Michigan State,48,57,26,8,0,Adreian Payne Offensive Rebound.
+Oklahoma,Michigan State,48,57,26,14,0,Adreian Payne Turnover.
+Oklahoma,Michigan State,48,57,26,14,0,Ryan Spangler Steal.
+Oklahoma,Michigan State,48,57,26,27,0,Isaiah Cousins Turnover.
+Oklahoma,Michigan State,48,57,26,27,0,Adreian Payne Steal.
+Oklahoma,Michigan State,48,57,26,28,0,Adreian Payne Turnover.
+Oklahoma,Michigan State,48,57,26,37,0,Foul on Travis Trice.
+Oklahoma,Michigan State,49,57,26,37,1,Jordan Woodard made Free Throw.
+Oklahoma,Michigan State,50,57,26,37,1,Jordan Woodard made Free Throw.
+Oklahoma,Michigan State,50,57,27,2,0,Foul on Ryan Spangler.
+Oklahoma,Michigan State,50,57,27,2,0,Adreian Payne missed Free Throw.
+Oklahoma,Michigan State,50,57,27,2,0,Michigan St Deadball Team Rebound.
+Oklahoma,Michigan State,50,57,27,2,0,Adreian Payne missed Free Throw.
+Oklahoma,Michigan State,50,57,27,2,0,Oklahoma Defensive Rebound.
+Oklahoma,Michigan State,50,57,27,3,0,Foul on Gavin Schilling.
+Oklahoma,Michigan State,51,57,27,3,1,D.J. Bennett made Free Throw.
+Oklahoma,Michigan State,51,57,27,3,0,D.J. Bennett missed Free Throw.
+Oklahoma,Michigan State,51,57,27,3,0,Alvin Ellis III Defensive Rebound.
+Oklahoma,Michigan State,51,57,27,32,0,Travis Trice Turnover.
+Oklahoma,Michigan State,51,57,27,32,0,Isaiah Cousins Steal.
+Oklahoma,Michigan State,53,57,27,40,1,Isaiah Cousins made Jumper.
+Oklahoma,Michigan State,53,57,27,57,0,Michigan St  Timeout
+Oklahoma,Michigan State,53,57,28,15,0,Foul on D.J. Bennett.
+Oklahoma,Michigan State,53,57,28,15,0,Official TV Timeout
+Oklahoma,Michigan State,53,57,28,15,0,Keith Appling missed Free Throw.
+Oklahoma,Michigan State,53,57,28,15,0,Michigan St Deadball Team Rebound.
+Oklahoma,Michigan State,53,57,28,15,0,Keith Appling missed Free Throw.
+Oklahoma,Michigan State,53,57,28,15,0,Buddy Hield Defensive Rebound.
+Oklahoma,Michigan State,53,57,28,38,0,D.J. Bennett missed Layup.
+Oklahoma,Michigan State,53,57,28,38,0,Matt Costello Defensive Rebound.
+Oklahoma,Michigan State,53,57,29,13,0,Gary Harris missed Three Point Jumper.
+Oklahoma,Michigan State,53,57,29,13,0,Denzel Valentine Offensive Rebound.
+Oklahoma,Michigan State,53,57,29,19,0,Denzel Valentine Turnover.
+Oklahoma,Michigan State,53,57,29,28,0,Cameron Clark missed Jumper.
+Oklahoma,Michigan State,53,57,29,28,0,Isaiah Cousins Offensive Rebound.
+Oklahoma,Michigan State,53,57,29,35,0,Isaiah Cousins missed Three Point Jumper.
+Oklahoma,Michigan State,53,57,29,35,0,Buddy Hield Offensive Rebound.
+Oklahoma,Michigan State,53,57,29,35,0,Foul on Travis Trice.
+Oklahoma,Michigan State,53,57,29,37,0,Buddy Hield missed Free Throw.
+Oklahoma,Michigan State,53,57,29,37,0,Adreian Payne Defensive Rebound.
+Oklahoma,Michigan State,53,59,29,59,1,Keith Appling made Layup.
+Oklahoma,Michigan State,53,59,29,59,0,Foul on Jordan Woodard.
+Oklahoma,Michigan State,53,60,29,59,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,53,60,30,18,0,Je'lon Hornbeak missed Jumper.
+Oklahoma,Michigan State,53,60,30,18,0,Adreian Payne Defensive Rebound.
+Oklahoma,Michigan State,53,62,30,26,1,Keith Appling made Dunk.
+Oklahoma,Michigan State,53,62,30,31,0,Oklahoma  Timeout
+Oklahoma,Michigan State,53,62,30,40,0,Cameron Clark missed Jumper.
+Oklahoma,Michigan State,53,62,30,40,0,Branden Dawson Defensive Rebound.
+Oklahoma,Michigan State,53,62,30,49,0,Gary Harris missed Three Point Jumper.
+Oklahoma,Michigan State,53,62,30,49,0,Isaiah Cousins Defensive Rebound.
+Oklahoma,Michigan State,53,62,30,52,0,Foul on Adreian Payne.
+Oklahoma,Michigan State,54,62,30,52,1,Isaiah Cousins made Free Throw.
+Oklahoma,Michigan State,55,62,30,52,1,Isaiah Cousins made Free Throw.
+Oklahoma,Michigan State,55,64,31,10,1,Keith Appling made Jumper.
+Oklahoma,Michigan State,55,64,31,21,0,Foul on Adreian Payne.
+Oklahoma,Michigan State,56,64,31,21,1,Isaiah Cousins made Free Throw.
+Oklahoma,Michigan State,56,64,31,21,0,Isaiah Cousins missed Free Throw.
+Oklahoma,Michigan State,56,64,31,21,0,Branden Dawson Defensive Rebound.
+Oklahoma,Michigan State,56,64,31,24,0,Foul on Cameron Clark.
+Oklahoma,Michigan State,56,65,31,24,1,Branden Dawson made Free Throw.
+Oklahoma,Michigan State,56,66,31,24,1,Branden Dawson made Free Throw.
+Oklahoma,Michigan State,56,66,31,24,0,Cameron Clark missed Layup.
+Oklahoma,Michigan State,56,66,31,24,0,Branden Dawson Defensive Rebound.
+Oklahoma,Michigan State,56,66,32,5,0,Keith Appling missed Three Point Jumper.
+Oklahoma,Michigan State,56,66,32,5,0,Cameron Clark Defensive Rebound.
+Oklahoma,Michigan State,56,66,32,14,0,Foul on Gary Harris.
+Oklahoma,Michigan State,56,66,32,16,0,Official TV Timeout
+Oklahoma,Michigan State,56,66,32,16,0,Jordan Woodard missed Free Throw.
+Oklahoma,Michigan State,56,66,32,16,0,Oklahoma Deadball Team Rebound.
+Oklahoma,Michigan State,57,66,32,16,1,Jordan Woodard made Free Throw.
+Oklahoma,Michigan State,57,68,32,28,1,Gary Harris made Layup.
+Oklahoma,Michigan State,59,68,32,41,1,Cameron Clark made Jumper. Assisted by Isaiah Cousins.
+Oklahoma,Michigan State,59,68,32,56,0,Foul on Je'lon Hornbeak.
+Oklahoma,Michigan State,59,68,32,56,0,Gary Harris missed Free Throw.
+Oklahoma,Michigan State,59,68,32,56,0,Cameron Clark Defensive Rebound.
+Oklahoma,Michigan State,59,68,33,11,0,Foul on Denzel Valentine.
+Oklahoma,Michigan State,60,68,33,11,1,Jordan Woodard made Free Throw.
+Oklahoma,Michigan State,60,68,33,11,0,Jordan Woodard missed Free Throw.
+Oklahoma,Michigan State,60,68,33,11,0,Denzel Valentine Defensive Rebound.
+Oklahoma,Michigan State,60,68,33,32,0,Keith Appling missed Layup.
+Oklahoma,Michigan State,60,68,33,32,0,Gary Harris Offensive Rebound.
+Oklahoma,Michigan State,60,68,33,42,0,Foul on Ryan Spangler.
+Oklahoma,Michigan State,60,68,33,42,0,Gary Harris missed Free Throw.
+Oklahoma,Michigan State,60,68,33,42,0,Michigan St Deadball Team Rebound.
+Oklahoma,Michigan State,60,69,33,42,1,Gary Harris made Free Throw.
+Oklahoma,Michigan State,60,69,33,49,0,Jordan Woodard missed Layup.
+Oklahoma,Michigan State,60,69,33,49,0,Branden Dawson Block.
+Oklahoma,Michigan State,60,69,33,49,0,Denzel Valentine Defensive Rebound.
+Oklahoma,Michigan State,60,71,34,1,1,Branden Dawson made Jumper.
+Oklahoma,Michigan State,60,71,34,3,0,Foul on Je'lon Hornbeak.
+Oklahoma,Michigan State,60,71,34,3,0,Je'lon Hornbeak Turnover.
+Oklahoma,Michigan State,60,71,34,13,0,Travis Trice Turnover.
+Oklahoma,Michigan State,60,71,34,13,0,Tyler Neal Steal.
+Oklahoma,Michigan State,62,71,34,22,1,Buddy Hield made Layup.
+Oklahoma,Michigan State,62,71,34,57,0,Keith Appling missed Three Point Jumper.
+Oklahoma,Michigan State,62,71,34,57,0,Cameron Clark Defensive Rebound.
+Oklahoma,Michigan State,62,71,34,59,0,Foul on Matt Costello.
+Oklahoma,Michigan State,62,71,34,59,0,Cameron Clark missed Free Throw.
+Oklahoma,Michigan State,62,71,34,59,0,Oklahoma Deadball Team Rebound.
+Oklahoma,Michigan State,63,71,34,59,1,Cameron Clark made Free Throw.
+Oklahoma,Michigan State,63,73,35,28,1,Keith Appling made Jumper.
+Oklahoma,Michigan State,66,73,35,35,1,Buddy Hield made Three Point Jumper. Assisted by Je'lon Hornbeak.
+Oklahoma,Michigan State,66,73,35,38,0,Oklahoma  Timeout
+Oklahoma,Michigan State,66,73,35,40,0,Gary Harris Turnover.
+Oklahoma,Michigan State,66,73,35,52,0,Buddy Hield missed Three Point Jumper.
+Oklahoma,Michigan State,66,73,35,52,0,Isaiah Cousins Offensive Rebound.
+Oklahoma,Michigan State,66,73,36,7,0,Foul on Denzel Valentine.
+Oklahoma,Michigan State,66,73,36,7,0,Official TV Timeout
+Oklahoma,Michigan State,67,73,36,7,1,Isaiah Cousins made Free Throw.
+Oklahoma,Michigan State,68,73,36,7,1,Isaiah Cousins made Free Throw.
+Oklahoma,Michigan State,69,73,36,7,1,Isaiah Cousins made Free Throw.
+Oklahoma,Michigan State,69,75,36,30,1,Keith Appling made Jumper.
+Oklahoma,Michigan State,71,75,36,45,1,Ryan Spangler made Layup.
+Oklahoma,Michigan State,71,75,36,56,0,Foul on Isaiah Cousins.
+Oklahoma,Michigan State,71,75,36,56,0,Keith Appling missed Free Throw.
+Oklahoma,Michigan State,71,75,36,56,0,Michigan St Deadball Team Rebound.
+Oklahoma,Michigan State,71,76,36,56,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,71,76,37,4,0,Ryan Spangler missed Layup.
+Oklahoma,Michigan State,71,76,37,4,0,Branden Dawson Defensive Rebound.
+Oklahoma,Michigan State,71,78,37,34,1,Keith Appling made Layup.
+Oklahoma,Michigan State,71,78,37,34,0,Foul on Ryan Spangler.
+Oklahoma,Michigan State,71,79,37,34,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,73,79,37,48,1,Cameron Clark made Layup.
+Oklahoma,Michigan State,73,79,37,48,0,Foul on Branden Dawson.
+Oklahoma,Michigan State,74,79,37,48,1,Cameron Clark made Free Throw.
+Oklahoma,Michigan State,74,79,38,7,0,Foul on Buddy Hield.
+Oklahoma,Michigan State,74,80,38,7,1,Adreian Payne made Free Throw.
+Oklahoma,Michigan State,74,81,38,7,1,Adreian Payne made Free Throw.
+Oklahoma,Michigan State,74,81,38,28,0,Buddy Hield missed Jumper.
+Oklahoma,Michigan State,74,81,38,28,0,Adreian Payne Defensive Rebound.
+Oklahoma,Michigan State,74,83,38,33,1,Denzel Valentine made Dunk. Assisted by Adreian Payne.
+Oklahoma,Michigan State,74,83,38,48,0,Isaiah Cousins missed Three Point Jumper.
+Oklahoma,Michigan State,74,83,38,48,0,Jordan Woodard Offensive Rebound.
+Oklahoma,Michigan State,76,83,38,57,1,Cameron Clark made Layup. Assisted by Jordan Woodard.
+Oklahoma,Michigan State,76,83,38,58,0,Oklahoma  Timeout
+Oklahoma,Michigan State,76,83,39,18,0,Foul on Buddy Hield.
+Oklahoma,Michigan State,76,83,39,18,0,Travis Trice missed Free Throw.
+Oklahoma,Michigan State,76,83,39,18,0,Michigan St Deadball Team Rebound.
+Oklahoma,Michigan State,76,84,39,18,1,Travis Trice made Free Throw.
+Oklahoma,Michigan State,76,84,39,30,0,Foul on Cameron Clark.
+Oklahoma,Michigan State,76,84,39,30,0,Cameron Clark Turnover.
+Oklahoma,Michigan State,76,84,39,30,0,Keith Appling missed Free Throw.
+Oklahoma,Michigan State,76,84,39,30,0,Michigan St Deadball Team Rebound.
+Oklahoma,Michigan State,76,85,39,30,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,76,85,39,40,0,Foul on Buddy Hield.
+Oklahoma,Michigan State,76,86,39,40,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,76,87,39,40,1,Keith Appling made Free Throw.
+Oklahoma,Michigan State,76,87,39,57,0,Jordan Woodard missed Layup.
+Oklahoma,Michigan State,76,87,39,57,0,Adreian Payne Block.
+Oklahoma,Michigan State,76,87,39,57,0,Jordan Woodard Offensive Rebound.
+Oklahoma,Michigan State,76,87,39,57,0,Je'lon Hornbeak missed Three Point Jumper.
+Oklahoma,Michigan State,76,87,39,57,0,Keith Appling Defensive Rebound.
+Oklahoma,Michigan State,76,87,40,0,0,End of Game

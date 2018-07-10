@@ -1,0 +1,354 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Duke,Florida State,0,0,0,0,0,Jump Ball won by Florida St
+Duke,Florida State,0,2,0,17,1,Terance Mann made Layup.
+Duke,Florida State,2,2,0,40,1,Matt Jones made Layup.
+Duke,Florida State,2,4,0,59,1,Michael Ojo made Dunk. Assisted by Xavier Rathan-Mayes.
+Duke,Florida State,4,4,1,12,1,Harry Giles made Jumper. Assisted by Grayson Allen.
+Duke,Florida State,4,4,1,31,0,Jonathan Isaac missed Layup.
+Duke,Florida State,4,4,1,31,0,Michael Ojo Offensive Rebound.
+Duke,Florida State,4,6,1,31,1,Michael Ojo made Layup.
+Duke,Florida State,4,6,1,31,0,Foul on Harry Giles.
+Duke,Florida State,4,7,1,31,1,Michael Ojo made Free Throw.
+Duke,Florida State,4,7,1,54,0,Luke Kennard Turnover.
+Duke,Florida State,4,10,2,9,1,Dwayne Bacon made Three Point Jumper.
+Duke,Florida State,4,10,2,21,0,Foul on Xavier Rathan-Mayes.
+Duke,Florida State,4,10,2,21,0,Grayson Allen missed Free Throw.
+Duke,Florida State,4,10,2,21,0,Duke Deadball Team Rebound.
+Duke,Florida State,5,10,2,21,1,Grayson Allen made Free Throw.
+Duke,Florida State,5,10,2,42,0,Foul on Grayson Allen.
+Duke,Florida State,5,10,2,52,0,Foul on Matt Jones.
+Duke,Florida State,5,10,3,3,0,Michael Ojo missed Dunk.
+Duke,Florida State,5,10,3,3,0,Duke Defensive Rebound.
+Duke,Florida State,5,10,3,22,0,Foul on Michael Ojo.
+Duke,Florida State,5,10,3,22,0,Jayson Tatum missed Free Throw.
+Duke,Florida State,5,10,3,22,0,Duke Deadball Team Rebound.
+Duke,Florida State,6,10,3,22,1,Jayson Tatum made Free Throw.
+Duke,Florida State,6,10,3,33,0,Foul on Chase Jeter.
+Duke,Florida State,6,10,3,46,0,Xavier Rathan-Mayes missed Three Point Jumper.
+Duke,Florida State,6,10,3,46,0,Jarquez Smith Offensive Rebound.
+Duke,Florida State,6,10,3,55,0,Jarquez Smith missed Three Point Jumper.
+Duke,Florida State,6,10,3,55,0,Grayson Allen Defensive Rebound.
+Duke,Florida State,9,10,4,4,1,Jayson Tatum made Three Point Jumper. Assisted by Grayson Allen.
+Duke,Florida State,9,10,4,19,0,Foul on Chase Jeter.
+Duke,Florida State,9,10,4,19,0,Official TV Timeout
+Duke,Florida State,9,10,4,19,0,Terance Mann missed Free Throw.
+Duke,Florida State,9,10,4,19,0,Florida St Deadball Team Rebound.
+Duke,Florida State,9,11,4,19,1,Terance Mann made Free Throw.
+Duke,Florida State,9,11,4,46,0,Jayson Tatum missed Layup.
+Duke,Florida State,9,11,4,46,0,Jarquez Smith Block.
+Duke,Florida State,9,11,4,46,0,Dwayne Bacon Defensive Rebound.
+Duke,Florida State,9,13,4,54,1,Xavier Rathan-Mayes made Layup. Assisted by Dwayne Bacon.
+Duke,Florida State,9,13,4,54,0,Foul on Phil Cofer.
+Duke,Florida State,12,13,5,1,1,Luke Kennard made Three Point Jumper.
+Duke,Florida State,12,15,5,23,1,Trent Forrest made Layup. Assisted by Jarquez Smith.
+Duke,Florida State,12,15,5,47,0,Frank Jackson missed Three Point Jumper.
+Duke,Florida State,12,15,5,47,0,Florida St Defensive Rebound.
+Duke,Florida State,12,15,6,0,0,Foul on Marques Bolden.
+Duke,Florida State,12,16,6,0,1,CJ Walker made Free Throw.
+Duke,Florida State,12,16,6,0,0,CJ Walker missed Free Throw.
+Duke,Florida State,12,16,6,0,0,Jayson Tatum Defensive Rebound.
+Duke,Florida State,12,16,6,14,0,Marques Bolden Turnover.
+Duke,Florida State,12,16,6,28,0,Braian Angola-Rodas Turnover.
+Duke,Florida State,12,16,6,45,0,Jayson Tatum missed Three Point Jumper.
+Duke,Florida State,12,16,6,45,0,Jarquez Smith Defensive Rebound.
+Duke,Florida State,12,16,7,13,0,Phil Cofer missed Layup.
+Duke,Florida State,12,16,7,13,0,Harry Giles Defensive Rebound.
+Duke,Florida State,12,16,7,23,0,Foul on Trent Forrest.
+Duke,Florida State,13,16,7,23,1,Luke Kennard made Free Throw.
+Duke,Florida State,14,16,7,23,1,Luke Kennard made Free Throw.
+Duke,Florida State,14,16,7,33,0,Foul on Luke Kennard.
+Duke,Florida State,14,17,7,33,1,Trent Forrest made Free Throw.
+Duke,Florida State,14,17,7,33,0,Trent Forrest missed Free Throw.
+Duke,Florida State,14,17,7,33,0,Harry Giles Defensive Rebound.
+Duke,Florida State,14,17,7,45,0,Luke Kennard Turnover.
+Duke,Florida State,14,17,7,45,0,Terance Mann Steal.
+Duke,Florida State,14,19,7,52,1,Jonathan Isaac made Layup. Assisted by Terance Mann.
+Duke,Florida State,14,19,8,4,0,Frank Jackson missed Layup.
+Duke,Florida State,14,19,8,4,0,Jarquez Smith Defensive Rebound.
+Duke,Florida State,14,19,8,29,0,Foul on Harry Giles.
+Duke,Florida State,14,19,8,29,0,Official TV Timeout
+Duke,Florida State,14,20,8,29,1,Xavier Rathan-Mayes made Free Throw.
+Duke,Florida State,14,20,8,29,0,Xavier Rathan-Mayes missed Free Throw.
+Duke,Florida State,14,20,8,29,0,Jayson Tatum Defensive Rebound.
+Duke,Florida State,14,20,8,46,0,Foul on Jonathan Isaac.
+Duke,Florida State,16,20,8,52,1,Luke Kennard made Layup.
+Duke,Florida State,16,20,9,16,0,Dwayne Bacon missed Jumper.
+Duke,Florida State,16,20,9,16,0,Luke Kennard Defensive Rebound.
+Duke,Florida State,19,20,9,34,1,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.
+Duke,Florida State,19,20,10,1,0,Jonathan Isaac missed Three Point Jumper.
+Duke,Florida State,19,20,10,1,0,Duke Defensive Rebound.
+Duke,Florida State,21,20,10,14,1,Matt Jones made Layup. Assisted by Grayson Allen.
+Duke,Florida State,21,20,10,25,0,Florida St  Timeout
+Duke,Florida State,21,20,10,40,0,Terance Mann Turnover.
+Duke,Florida State,21,20,10,40,0,Luke Kennard Steal.
+Duke,Florida State,23,20,10,44,1,Luke Kennard made Layup.
+Duke,Florida State,23,20,11,2,0,Xavier Rathan-Mayes missed Jumper.
+Duke,Florida State,23,20,11,2,0,Terance Mann Offensive Rebound.
+Duke,Florida State,23,22,11,2,1,Terance Mann made Two Point Tip Shot.
+Duke,Florida State,23,22,11,19,0,Jayson Tatum Turnover.
+Duke,Florida State,23,22,11,19,0,Jonathan Isaac Steal.
+Duke,Florida State,23,22,11,35,0,Christ Koumadje missed Jumper.
+Duke,Florida State,23,22,11,35,0,Matt Jones Defensive Rebound.
+Duke,Florida State,23,22,11,54,0,Grayson Allen missed Three Point Jumper.
+Duke,Florida State,23,22,11,54,0,Jonathan Isaac Defensive Rebound.
+Duke,Florida State,23,22,12,2,0,Xavier Rathan-Mayes missed Three Point Jumper.
+Duke,Florida State,23,22,12,2,0,Grayson Allen Defensive Rebound.
+Duke,Florida State,23,22,12,10,0,Matt Jones missed Three Point Jumper.
+Duke,Florida State,23,22,12,10,0,Jonathan Isaac Defensive Rebound.
+Duke,Florida State,23,22,12,21,0,Foul on Dwayne Bacon.
+Duke,Florida State,23,22,12,21,0,Dwayne Bacon Turnover.
+Duke,Florida State,23,22,12,21,0,Official TV Timeout
+Duke,Florida State,23,22,12,37,0,Grayson Allen missed Three Point Jumper.
+Duke,Florida State,23,22,12,37,0,Florida St Defensive Rebound.
+Duke,Florida State,23,25,12,55,1,PJ Savoy made Three Point Jumper. Assisted by Dwayne Bacon.
+Duke,Florida State,23,25,13,24,0,Luke Kennard missed Jumper.
+Duke,Florida State,23,25,13,24,0,Florida St Defensive Rebound.
+Duke,Florida State,23,27,13,33,1,Terance Mann made Dunk. Assisted by Dwayne Bacon.
+Duke,Florida State,23,27,13,46,0,Grayson Allen Turnover.
+Duke,Florida State,23,27,13,46,0,Dwayne Bacon Steal.
+Duke,Florida State,23,30,13,52,1,PJ Savoy made Three Point Jumper. Assisted by Dwayne Bacon.
+Duke,Florida State,23,30,13,56,0,Duke  Timeout
+Duke,Florida State,25,30,14,13,1,Jayson Tatum made Layup.
+Duke,Florida State,25,30,14,29,0,Terance Mann Turnover.
+Duke,Florida State,25,30,14,29,0,Matt Jones Steal.
+Duke,Florida State,27,30,14,34,1,Luke Kennard made Layup. Assisted by Matt Jones.
+Duke,Florida State,27,30,14,49,0,PJ Savoy missed Three Point Jumper.
+Duke,Florida State,27,30,14,49,0,Terance Mann Offensive Rebound.
+Duke,Florida State,27,32,14,49,1,Terance Mann made Two Point Tip Shot.
+Duke,Florida State,27,32,15,7,0,Foul on Matt Jones.
+Duke,Florida State,27,32,15,7,0,Matt Jones Turnover.
+Duke,Florida State,27,34,15,16,1,Dwayne Bacon made Layup.
+Duke,Florida State,29,34,15,34,1,Jayson Tatum made Layup.
+Duke,Florida State,29,34,16,0,0,Dwayne Bacon missed Jumper.
+Duke,Florida State,29,34,16,0,0,Frank Jackson Defensive Rebound.
+Duke,Florida State,29,34,16,14,0,Luke Kennard missed Jumper.
+Duke,Florida State,29,34,16,14,0,PJ Savoy Defensive Rebound.
+Duke,Florida State,29,34,16,19,0,Dwayne Bacon Turnover.
+Duke,Florida State,29,34,16,19,0,Official TV Timeout
+Duke,Florida State,29,34,16,47,0,Jayson Tatum missed Layup.
+Duke,Florida State,29,34,16,47,0,Chase Jeter Offensive Rebound.
+Duke,Florida State,29,34,16,49,0,Chase Jeter missed Layup.
+Duke,Florida State,29,34,16,49,0,Frank Jackson Offensive Rebound.
+Duke,Florida State,31,34,16,55,1,Grayson Allen made Layup.
+Duke,Florida State,31,34,16,55,0,Foul on Michael Ojo.
+Duke,Florida State,31,34,16,55,0,Grayson Allen missed Free Throw.
+Duke,Florida State,31,34,16,55,0,Terance Mann Defensive Rebound.
+Duke,Florida State,31,34,17,1,0,PJ Savoy missed Three Point Jumper.
+Duke,Florida State,31,34,17,1,0,Frank Jackson Defensive Rebound.
+Duke,Florida State,31,34,17,8,0,Foul on CJ Walker.
+Duke,Florida State,32,34,17,8,1,Grayson Allen made Free Throw.
+Duke,Florida State,33,34,17,8,1,Grayson Allen made Free Throw.
+Duke,Florida State,33,36,17,21,1,Dwayne Bacon made Layup.
+Duke,Florida State,33,36,17,44,0,Frank Jackson missed Three Point Jumper.
+Duke,Florida State,33,36,17,44,0,Dwayne Bacon Defensive Rebound.
+Duke,Florida State,33,36,17,56,0,Foul on Grayson Allen.
+Duke,Florida State,33,37,17,56,1,CJ Walker made Free Throw.
+Duke,Florida State,33,37,17,56,0,CJ Walker missed Free Throw.
+Duke,Florida State,33,37,17,56,0,Chase Jeter Defensive Rebound.
+Duke,Florida State,33,37,18,5,0,Foul on Jonathan Isaac.
+Duke,Florida State,34,37,18,5,1,Jayson Tatum made Free Throw.
+Duke,Florida State,35,37,18,5,1,Jayson Tatum made Free Throw.
+Duke,Florida State,35,37,18,16,0,Braian Angola-Rodas missed Layup.
+Duke,Florida State,35,37,18,16,0,Florida St Offensive Rebound.
+Duke,Florida State,35,37,18,33,0,Jarquez Smith missed Jumper.
+Duke,Florida State,35,37,18,33,0,Duke Deadball Team Rebound.
+Duke,Florida State,35,37,18,33,0,Foul on Terance Mann.
+Duke,Florida State,36,37,18,33,1,Luke Kennard made Free Throw.
+Duke,Florida State,37,37,18,33,1,Luke Kennard made Free Throw.
+Duke,Florida State,37,39,18,52,1,Jarquez Smith made Layup. Assisted by Braian Angola-Rodas.
+Duke,Florida State,37,39,19,11,0,Foul on Frank Jackson.
+Duke,Florida State,37,39,19,11,0,Frank Jackson Turnover.
+Duke,Florida State,37,39,19,20,0,Dwayne Bacon missed Layup.
+Duke,Florida State,37,39,19,20,0,Terance Mann Offensive Rebound.
+Duke,Florida State,37,39,19,20,0,Terance Mann missed Two Point Tip Shot.
+Duke,Florida State,37,39,19,20,0,Dwayne Bacon Offensive Rebound.
+Duke,Florida State,37,41,19,20,1,Dwayne Bacon made Two Point Tip Shot.
+Duke,Florida State,37,41,19,57,0,Luke Kennard missed Layup.
+Duke,Florida State,37,41,19,57,0,Chase Jeter Offensive Rebound.
+Duke,Florida State,37,41,19,59,0,Luke Kennard missed Three Point Jumper.
+Duke,Florida State,37,41,19,59,0,Jarquez Smith Block.
+Duke,Florida State,37,41,19,59,0,Duke Deadball Team Rebound.
+Duke,Florida State,37,41,20,0,0,End of 1st half
+Duke,Florida State,37,41,20,0,0,Jump Ball won by Florida St
+Duke,Florida State,37,41,20,11,0,Dwayne Bacon missed Layup.
+Duke,Florida State,37,41,20,11,0,Matt Jones Defensive Rebound.
+Duke,Florida State,40,41,20,30,1,Luke Kennard made Three Point Jumper.
+Duke,Florida State,40,41,20,46,0,Foul on Jayson Tatum.
+Duke,Florida State,40,41,20,46,0,Jonathan Isaac missed Free Throw.
+Duke,Florida State,40,41,20,46,0,Florida St Deadball Team Rebound.
+Duke,Florida State,40,42,20,46,1,Jonathan Isaac made Free Throw.
+Duke,Florida State,40,42,20,53,0,Grayson Allen Turnover.
+Duke,Florida State,40,42,21,3,0,Dwayne Bacon Turnover.
+Duke,Florida State,40,42,21,13,0,Foul on Terance Mann.
+Duke,Florida State,41,42,21,13,1,Harry Giles made Free Throw.
+Duke,Florida State,41,42,21,13,0,Harry Giles missed Free Throw.
+Duke,Florida State,41,42,21,13,0,Terance Mann Defensive Rebound.
+Duke,Florida State,41,44,21,38,1,Xavier Rathan-Mayes made Layup.
+Duke,Florida State,41,44,22,4,0,Foul on Terance Mann.
+Duke,Florida State,42,44,22,4,1,Grayson Allen made Free Throw.
+Duke,Florida State,43,44,22,4,1,Grayson Allen made Free Throw.
+Duke,Florida State,43,44,22,13,0,Trent Forrest Turnover.
+Duke,Florida State,43,44,22,22,0,Luke Kennard missed Three Point Jumper.
+Duke,Florida State,43,44,22,22,0,Jonathan Isaac Defensive Rebound.
+Duke,Florida State,43,44,22,38,0,Foul on Grayson Allen.
+Duke,Florida State,43,44,22,47,0,Xavier Rathan-Mayes missed Layup.
+Duke,Florida State,43,44,22,47,0,Jonathan Isaac Offensive Rebound.
+Duke,Florida State,43,46,22,53,1,Jonathan Isaac made Dunk.
+Duke,Florida State,46,46,23,12,1,Jayson Tatum made Three Point Jumper. Assisted by Luke Kennard.
+Duke,Florida State,46,48,23,31,1,Michael Ojo made Dunk. Assisted by Trent Forrest.
+Duke,Florida State,48,48,23,45,1,Grayson Allen made Layup.
+Duke,Florida State,48,48,23,57,0,Foul on Dwayne Bacon.
+Duke,Florida State,48,48,23,57,0,Dwayne Bacon Turnover.
+Duke,Florida State,48,48,24,18,0,Jayson Tatum Turnover.
+Duke,Florida State,48,48,24,18,0,Official TV Timeout
+Duke,Florida State,48,48,24,18,0,Jonathan Isaac Steal.
+Duke,Florida State,48,48,24,18,0,Foul on Jayson Tatum.
+Duke,Florida State,48,48,24,23,0,Foul on Frank Jackson.
+Duke,Florida State,48,48,24,33,0,Phil Cofer missed Layup.
+Duke,Florida State,48,48,24,33,0,Chase Jeter Block.
+Duke,Florida State,48,48,24,33,0,Chase Jeter Defensive Rebound.
+Duke,Florida State,50,48,24,57,1,Luke Kennard made Jumper.
+Duke,Florida State,50,48,25,11,0,Phil Cofer Turnover.
+Duke,Florida State,50,48,25,13,0,Matt Jones Turnover.
+Duke,Florida State,50,50,25,22,1,Dwayne Bacon made Jumper.
+Duke,Florida State,50,50,25,44,0,Harry Giles missed Dunk.
+Duke,Florida State,50,50,25,44,0,Luke Kennard Offensive Rebound.
+Duke,Florida State,50,50,25,52,0,Jayson Tatum missed Three Point Jumper.
+Duke,Florida State,50,50,25,52,0,Braian Angola-Rodas Defensive Rebound.
+Duke,Florida State,50,52,25,57,1,Phil Cofer made Layup.
+Duke,Florida State,50,52,26,17,0,Harry Giles Turnover.
+Duke,Florida State,50,54,26,33,1,Jarquez Smith made Dunk. Assisted by Braian Angola-Rodas.
+Duke,Florida State,50,54,26,50,0,Matt Jones missed Jumper.
+Duke,Florida State,50,54,26,50,0,CJ Walker Defensive Rebound.
+Duke,Florida State,50,54,26,57,0,Dwayne Bacon missed Three Point Jumper.
+Duke,Florida State,50,54,26,57,0,Grayson Allen Defensive Rebound.
+Duke,Florida State,50,54,27,6,0,Jayson Tatum Turnover.
+Duke,Florida State,50,54,27,6,0,Jarquez Smith Steal.
+Duke,Florida State,50,56,27,11,1,Dwayne Bacon made Layup.
+Duke,Florida State,50,56,27,17,0,Duke  Timeout
+Duke,Florida State,50,56,27,21,0,Grayson Allen Turnover.
+Duke,Florida State,50,58,27,40,1,Michael Ojo made Layup. Assisted by CJ Walker.
+Duke,Florida State,53,58,28,3,1,Matt Jones made Three Point Jumper. Assisted by Grayson Allen.
+Duke,Florida State,53,58,28,11,0,Official TV Timeout
+Duke,Florida State,53,58,28,15,0,Jonathan Isaac missed Layup.
+Duke,Florida State,53,58,28,15,0,Jayson Tatum Defensive Rebound.
+Duke,Florida State,53,58,28,23,0,Foul on CJ Walker.
+Duke,Florida State,53,58,28,28,0,Foul on CJ Walker.
+Duke,Florida State,53,58,28,28,0,Chase Jeter missed Free Throw.
+Duke,Florida State,53,58,28,28,0,Duke Deadball Team Rebound.
+Duke,Florida State,54,58,28,28,1,Chase Jeter made Free Throw.
+Duke,Florida State,54,58,28,36,0,Braian Angola-Rodas missed Three Point Jumper.
+Duke,Florida State,54,58,28,36,0,Jayson Tatum Defensive Rebound.
+Duke,Florida State,54,58,28,49,0,Jayson Tatum Turnover.
+Duke,Florida State,54,58,28,49,0,Dwayne Bacon Steal.
+Duke,Florida State,54,58,29,2,0,Dwayne Bacon missed Jumper.
+Duke,Florida State,54,58,29,2,0,Dwayne Bacon Offensive Rebound.
+Duke,Florida State,54,58,29,2,0,Dwayne Bacon Turnover.
+Duke,Florida State,54,58,29,24,0,Jayson Tatum missed Jumper.
+Duke,Florida State,54,58,29,24,0,Braian Angola-Rodas Defensive Rebound.
+Duke,Florida State,54,58,29,30,0,Foul on Chase Jeter.
+Duke,Florida State,54,60,29,39,1,Jonathan Isaac made Dunk. Assisted by Xavier Rathan-Mayes.
+Duke,Florida State,54,60,29,58,0,Foul on Michael Ojo.
+Duke,Florida State,54,60,30,4,0,Chase Jeter Turnover.
+Duke,Florida State,54,62,30,16,1,Xavier Rathan-Mayes made Layup.
+Duke,Florida State,54,62,30,30,0,Grayson Allen missed Layup.
+Duke,Florida State,54,62,30,30,0,Jarquez Smith Defensive Rebound.
+Duke,Florida State,54,62,30,44,0,Phil Cofer missed Jumper.
+Duke,Florida State,54,62,30,44,0,Terance Mann Offensive Rebound.
+Duke,Florida State,54,64,30,47,1,Terance Mann made Layup.
+Duke,Florida State,54,64,30,47,0,Duke  Timeout
+Duke,Florida State,56,64,31,0,1,Jayson Tatum made Layup. Assisted by Matt Jones.
+Duke,Florida State,56,64,31,0,0,Foul on Xavier Rathan-Mayes.
+Duke,Florida State,57,64,31,0,1,Jayson Tatum made Free Throw.
+Duke,Florida State,57,66,31,13,1,Jarquez Smith made Layup.
+Duke,Florida State,59,66,31,37,1,Harry Giles made Layup. Assisted by Luke Kennard.
+Duke,Florida State,59,66,31,48,0,Foul on Frank Jackson.
+Duke,Florida State,59,67,31,48,1,Xavier Rathan-Mayes made Free Throw.
+Duke,Florida State,59,67,31,48,0,Xavier Rathan-Mayes missed Free Throw.
+Duke,Florida State,59,67,31,48,0,Xavier Rathan-Mayes Offensive Rebound.
+Duke,Florida State,59,69,31,49,1,Xavier Rathan-Mayes made Jumper.
+Duke,Florida State,59,69,32,2,0,Jayson Tatum missed Jumper.
+Duke,Florida State,59,69,32,2,0,Jarquez Smith Defensive Rebound.
+Duke,Florida State,59,71,32,11,1,Xavier Rathan-Mayes made Layup.
+Duke,Florida State,59,71,32,11,0,Foul on Matt Jones.
+Duke,Florida State,59,71,32,11,0,Official TV Timeout
+Duke,Florida State,59,72,32,11,1,Xavier Rathan-Mayes made Free Throw.
+Duke,Florida State,59,72,32,23,0,Foul on Harry Giles.
+Duke,Florida State,59,72,32,23,0,Harry Giles Turnover.
+Duke,Florida State,59,72,32,29,0,Xavier Rathan-Mayes missed Layup.
+Duke,Florida State,59,72,32,29,0,Duke Defensive Rebound.
+Duke,Florida State,59,72,32,49,0,Grayson Allen missed Three Point Jumper.
+Duke,Florida State,59,72,32,49,0,PJ Savoy Defensive Rebound.
+Duke,Florida State,59,72,33,5,0,Foul on Dwayne Bacon.
+Duke,Florida State,59,72,33,5,0,Dwayne Bacon Turnover.
+Duke,Florida State,61,72,33,14,1,Luke Kennard made Jumper.
+Duke,Florida State,61,75,33,30,1,Xavier Rathan-Mayes made Three Point Jumper. Assisted by Dwayne Bacon.
+Duke,Florida State,61,75,33,44,0,Matt Jones missed Three Point Jumper.
+Duke,Florida State,61,75,33,44,0,Dwayne Bacon Defensive Rebound.
+Duke,Florida State,61,75,33,53,0,Dwayne Bacon missed Jumper.
+Duke,Florida State,61,75,33,53,0,Dwayne Bacon Offensive Rebound.
+Duke,Florida State,61,75,34,22,0,Jarquez Smith missed Three Point Jumper.
+Duke,Florida State,61,75,34,22,0,Frank Jackson Defensive Rebound.
+Duke,Florida State,61,75,34,31,0,Chase Jeter missed Dunk.
+Duke,Florida State,61,75,34,31,0,Jarquez Smith Block.
+Duke,Florida State,61,75,34,31,0,Frank Jackson Offensive Rebound.
+Duke,Florida State,61,75,34,33,0,Jayson Tatum missed Layup.
+Duke,Florida State,61,75,34,33,0,Frank Jackson Offensive Rebound.
+Duke,Florida State,61,75,34,37,0,Foul on Jarquez Smith.
+Duke,Florida State,62,75,34,37,1,Frank Jackson made Free Throw.
+Duke,Florida State,63,75,34,37,1,Frank Jackson made Free Throw.
+Duke,Florida State,63,75,34,50,0,Xavier Rathan-Mayes Turnover.
+Duke,Florida State,63,75,34,50,0,Jayson Tatum Steal.
+Duke,Florida State,65,75,34,51,1,Jayson Tatum made Layup.
+Duke,Florida State,65,75,34,51,0,Foul on Frank Jackson.
+Duke,Florida State,65,76,34,51,1,Xavier Rathan-Mayes made Free Throw.
+Duke,Florida State,65,77,34,51,1,Xavier Rathan-Mayes made Free Throw.
+Duke,Florida State,65,77,35,6,0,Luke Kennard missed Three Point Jumper.
+Duke,Florida State,65,77,35,6,0,Florida St Defensive Rebound.
+Duke,Florida State,65,77,35,12,0,Dwayne Bacon Turnover.
+Duke,Florida State,65,77,35,12,0,Chase Jeter Steal.
+Duke,Florida State,65,77,35,21,0,Jayson Tatum missed Dunk.
+Duke,Florida State,65,77,35,21,0,Jonathan Isaac Block.
+Duke,Florida State,65,77,35,21,0,Luke Kennard Offensive Rebound.
+Duke,Florida State,65,77,35,21,0,Foul on Jarquez Smith.
+Duke,Florida State,65,77,35,21,0,Florida St  Timeout
+Duke,Florida State,65,77,35,21,0,Luke Kennard missed Free Throw.
+Duke,Florida State,65,77,35,21,0,Duke Deadball Team Rebound.
+Duke,Florida State,66,77,35,21,1,Luke Kennard made Free Throw.
+Duke,Florida State,66,80,35,45,1,Xavier Rathan-Mayes made Three Point Jumper.
+Duke,Florida State,66,80,36,11,0,Frank Jackson missed Three Point Jumper.
+Duke,Florida State,66,80,36,11,0,Jonathan Isaac Defensive Rebound.
+Duke,Florida State,66,82,36,29,1,Jonathan Isaac made Dunk. Assisted by Xavier Rathan-Mayes.
+Duke,Florida State,66,82,36,45,0,Jayson Tatum missed Three Point Jumper.
+Duke,Florida State,66,82,36,45,0,Chase Jeter Offensive Rebound.
+Duke,Florida State,68,82,36,50,1,Luke Kennard made Layup.
+Duke,Florida State,68,82,37,5,0,Jonathan Isaac Turnover.
+Duke,Florida State,68,82,37,5,0,Matt Jones Steal.
+Duke,Florida State,68,82,37,15,0,Jayson Tatum missed Layup.
+Duke,Florida State,68,82,37,15,0,Florida St Defensive Rebound.
+Duke,Florida State,68,82,37,16,0,Official TV Timeout
+Duke,Florida State,68,82,37,38,0,Dwayne Bacon missed Jumper.
+Duke,Florida State,68,82,37,38,0,Xavier Rathan-Mayes Offensive Rebound.
+Duke,Florida State,68,82,38,10,0,Xavier Rathan-Mayes missed Jumper.
+Duke,Florida State,68,82,38,10,0,Florida St Deadball Team Rebound.
+Duke,Florida State,68,82,38,10,0,Foul on Matt Jones.
+Duke,Florida State,68,83,38,10,1,Jonathan Isaac made Free Throw.
+Duke,Florida State,68,84,38,10,1,Jonathan Isaac made Free Throw.
+Duke,Florida State,68,84,38,18,0,Foul on Jarquez Smith.
+Duke,Florida State,68,84,38,18,0,Frank Jackson missed Free Throw.
+Duke,Florida State,68,84,38,18,0,Duke Deadball Team Rebound.
+Duke,Florida State,69,84,38,18,1,Frank Jackson made Free Throw.
+Duke,Florida State,69,84,38,18,0,Dwayne Bacon missed Jumper.
+Duke,Florida State,69,84,38,18,0,Chase Jeter Block.
+Duke,Florida State,69,84,38,18,0,Terance Mann Offensive Rebound.
+Duke,Florida State,69,86,38,44,1,Terance Mann made Jumper.
+Duke,Florida State,72,86,39,3,1,Jayson Tatum made Three Point Jumper. Assisted by Frank Jackson.
+Duke,Florida State,72,88,39,12,1,Jarquez Smith made Dunk. Assisted by Jonathan Isaac.
+Duke,Florida State,72,88,39,22,0,Florida St  Timeout
+Duke,Florida State,72,88,39,28,0,Luke Kennard missed Three Point Jumper.
+Duke,Florida State,72,88,39,28,0,Chase Jeter Offensive Rebound.
+Duke,Florida State,72,88,39,34,0,Frank Jackson missed Three Point Jumper.
+Duke,Florida State,72,88,39,34,0,Matt Jones Offensive Rebound.
+Duke,Florida State,72,88,39,39,0,Matt Jones missed Three Point Jumper.
+Duke,Florida State,72,88,39,39,0,Braian Angola-Rodas Defensive Rebound.
+Duke,Florida State,72,88,40,0,0,End of Game

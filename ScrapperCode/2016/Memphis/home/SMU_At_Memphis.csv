@@ -1,0 +1,360 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+SMU,Memphis,0,0,0,0,0,Jump Ball won by Memphis
+SMU,Memphis,0,0,0,19,0,Markel Crawford Turnover.
+SMU,Memphis,0,0,0,33,0,Ben Moore missed Jumper.
+SMU,Memphis,0,0,0,33,0,Avery Woodson Defensive Rebound.
+SMU,Memphis,0,2,1,1,1,Shaq Goodwin made Jumper.
+SMU,Memphis,0,2,1,16,0,Foul on Avery Woodson.
+SMU,Memphis,0,2,1,16,0,Sterling Brown missed Free Throw.
+SMU,Memphis,0,2,1,16,0,SMU Deadball Team Rebound.
+SMU,Memphis,1,2,1,16,1,Sterling Brown made Free Throw.
+SMU,Memphis,1,2,1,21,0,Shaq Goodwin missed Jumper.
+SMU,Memphis,1,2,1,21,0,Jordan Tolbert Block.
+SMU,Memphis,1,2,1,21,0,Memphis Offensive Rebound.
+SMU,Memphis,1,2,1,35,0,Ricky Tarrant Jr. missed Three Point Jumper.
+SMU,Memphis,1,2,1,35,0,Sterling Brown Defensive Rebound.
+SMU,Memphis,1,2,1,51,0,Sterling Brown missed Layup.
+SMU,Memphis,1,2,1,51,0,Sterling Brown Offensive Rebound.
+SMU,Memphis,1,2,1,58,0,Sterling Brown missed Two Point Tip Shot.
+SMU,Memphis,1,2,1,58,0,Ricky Tarrant Jr. Defensive Rebound.
+SMU,Memphis,1,2,2,5,0,Foul on Jonathan Wilfong.
+SMU,Memphis,1,2,2,5,0,Ricky Tarrant Jr. missed Free Throw.
+SMU,Memphis,1,2,2,5,0,Memphis Deadball Team Rebound.
+SMU,Memphis,1,3,2,5,1,Ricky Tarrant Jr. made Free Throw.
+SMU,Memphis,3,3,2,21,1,Ben Moore made Layup. Assisted by Nic Moore.
+SMU,Memphis,3,3,2,32,0,Avery Woodson missed Three Point Jumper.
+SMU,Memphis,3,3,2,32,0,SMU Defensive Rebound.
+SMU,Memphis,3,3,2,49,0,Ben Moore Turnover.
+SMU,Memphis,3,3,3,6,0,Dedric Lawson Turnover.
+SMU,Memphis,3,3,3,6,0,Nic Moore Steal.
+SMU,Memphis,3,3,3,10,0,Foul on Avery Woodson.
+SMU,Memphis,3,3,3,13,0,Jordan Tolbert missed Layup.
+SMU,Memphis,3,3,3,13,0,Dedric Lawson Block.
+SMU,Memphis,3,3,3,13,0,Dedric Lawson Defensive Rebound.
+SMU,Memphis,3,3,3,20,0,Trahson Burrell Turnover.
+SMU,Memphis,3,3,3,20,0,Jordan Tolbert Steal.
+SMU,Memphis,5,3,3,25,1,Sterling Brown made Layup. Assisted by Jonathan Wilfong.
+SMU,Memphis,5,3,3,49,0,Ricky Tarrant Jr. Turnover.
+SMU,Memphis,5,3,3,49,0,Nic Moore Steal.
+SMU,Memphis,5,3,3,59,0,Nic Moore Turnover.
+SMU,Memphis,5,3,3,59,0,Shaq Goodwin Steal.
+SMU,Memphis,5,5,4,5,1,Ricky Tarrant Jr. made Layup. Assisted by Shaq Goodwin.
+SMU,Memphis,5,5,4,29,0,Foul on Sam Craft.
+SMU,Memphis,5,5,4,29,0,Official TV Timeout
+SMU,Memphis,5,5,4,42,0,Sterling Brown Turnover.
+SMU,Memphis,5,5,4,42,0,Ricky Tarrant Jr. Steal.
+SMU,Memphis,5,5,4,49,0,Foul on Shake Milton.
+SMU,Memphis,5,6,4,49,1,Ricky Tarrant Jr. made Free Throw.
+SMU,Memphis,5,7,4,49,1,Ricky Tarrant Jr. made Free Throw.
+SMU,Memphis,5,7,5,3,0,Jordan Tolbert missed Jumper.
+SMU,Memphis,5,7,5,3,0,Nick Marshall Block.
+SMU,Memphis,5,7,5,3,0,Nick Marshall Defensive Rebound.
+SMU,Memphis,5,7,5,12,0,Dedric Lawson missed Jumper.
+SMU,Memphis,5,7,5,12,0,Ben Moore Block.
+SMU,Memphis,5,7,5,12,0,Ben Moore Defensive Rebound.
+SMU,Memphis,5,7,5,28,0,Nic Moore missed Jumper.
+SMU,Memphis,5,7,5,28,0,Memphis Deadball Team Rebound.
+SMU,Memphis,5,7,5,31,0,Foul on Nic Moore.
+SMU,Memphis,5,7,5,41,0,Ricky Tarrant Jr. missed Three Point Jumper.
+SMU,Memphis,5,7,5,41,0,Shake Milton Defensive Rebound.
+SMU,Memphis,7,7,5,48,1,Sterling Brown made Layup. Assisted by Shake Milton.
+SMU,Memphis,7,10,6,11,1,Trahson Burrell made Three Point Jumper. Assisted by Ricky Tarrant Jr..
+SMU,Memphis,7,10,6,29,0,Nic Moore missed Jumper.
+SMU,Memphis,7,10,6,29,0,Shaq Goodwin Defensive Rebound.
+SMU,Memphis,7,12,6,44,1,Jeremiah Martin made Jumper.
+SMU,Memphis,7,12,6,44,0,Foul on Nic Moore.
+SMU,Memphis,7,12,6,44,0,Jeremiah Martin missed Free Throw.
+SMU,Memphis,7,12,6,44,0,Sterling Brown Defensive Rebound.
+SMU,Memphis,7,12,6,54,0,Markus Kennedy missed Jumper.
+SMU,Memphis,7,12,6,54,0,Ben Moore Offensive Rebound.
+SMU,Memphis,7,12,7,1,0,Ben Moore missed Jumper.
+SMU,Memphis,7,12,7,1,0,Markus Kennedy Offensive Rebound.
+SMU,Memphis,9,12,7,1,1,Markus Kennedy made Two Point Tip Shot.
+SMU,Memphis,9,12,7,12,0,Jeremiah Martin missed Jumper.
+SMU,Memphis,9,12,7,12,0,Sterling Brown Defensive Rebound.
+SMU,Memphis,9,12,7,23,0,Sterling Brown missed Jumper.
+SMU,Memphis,9,12,7,23,0,Nick Marshall Block.
+SMU,Memphis,9,12,7,23,0,Shaq Goodwin Defensive Rebound.
+SMU,Memphis,9,12,7,50,0,Shaq Goodwin missed Jumper.
+SMU,Memphis,9,12,7,50,0,SMU Deadball Team Rebound.
+SMU,Memphis,9,12,8,1,0,Official TV Timeout
+SMU,Memphis,9,12,8,9,0,Jarrey Foster missed Three Point Jumper.
+SMU,Memphis,9,12,8,9,0,Markus Kennedy Offensive Rebound.
+SMU,Memphis,9,12,8,40,0,Markus Kennedy missed Jumper.
+SMU,Memphis,9,12,8,40,0,Trahson Burrell Defensive Rebound.
+SMU,Memphis,9,12,9,4,0,Dedric Lawson missed Jumper.
+SMU,Memphis,9,12,9,4,0,Jarrey Foster Defensive Rebound.
+SMU,Memphis,9,12,9,24,0,Sterling Brown missed Three Point Jumper.
+SMU,Memphis,9,12,9,24,0,Ben Moore Offensive Rebound.
+SMU,Memphis,12,12,9,35,1,Shake Milton made Three Point Jumper. Assisted by Ben Moore.
+SMU,Memphis,12,12,10,3,0,Craig Randall II Turnover.
+SMU,Memphis,12,12,10,3,0,Markus Kennedy Steal.
+SMU,Memphis,14,12,10,8,1,Markus Kennedy made Layup.
+SMU,Memphis,14,12,10,16,0,Trahson Burrell missed Three Point Jumper.
+SMU,Memphis,14,12,10,16,0,Trahson Burrell Offensive Rebound.
+SMU,Memphis,14,12,10,29,0,Craig Randall II Turnover.
+SMU,Memphis,14,12,10,37,0,Foul on Dedric Lawson.
+SMU,Memphis,15,12,10,37,1,Sterling Brown made Free Throw.
+SMU,Memphis,15,12,10,37,0,Sterling Brown missed Free Throw.
+SMU,Memphis,15,12,10,37,0,Nick Marshall Defensive Rebound.
+SMU,Memphis,15,15,10,48,1,Dedric Lawson made Three Point Jumper. Assisted by Ricky Tarrant Jr..
+SMU,Memphis,17,15,11,12,1,Shake Milton made Jumper.
+SMU,Memphis,17,18,11,32,1,Ricky Tarrant Jr. made Three Point Jumper. Assisted by Avery Woodson.
+SMU,Memphis,17,18,11,54,0,Jarrey Foster missed Layup.
+SMU,Memphis,17,18,11,54,0,Nick Marshall Block.
+SMU,Memphis,17,18,11,54,0,Nick Marshall Defensive Rebound.
+SMU,Memphis,17,18,12,10,0,Dedric Lawson Turnover.
+SMU,Memphis,17,18,12,10,0,Jordan Tolbert Steal.
+SMU,Memphis,17,18,12,29,0,Foul on Sam Craft.
+SMU,Memphis,17,18,12,29,0,Official TV Timeout
+SMU,Memphis,19,18,12,37,1,Jordan Tolbert made Dunk.
+SMU,Memphis,19,18,12,53,0,Ricky Tarrant Jr. missed Jumper.
+SMU,Memphis,19,18,12,53,0,Dedric Lawson Offensive Rebound.
+SMU,Memphis,19,21,13,1,1,Avery Woodson made Three Point Jumper. Assisted by Dedric Lawson.
+SMU,Memphis,21,21,13,15,1,Jordan Tolbert made Jumper. Assisted by Nic Moore.
+SMU,Memphis,21,21,13,51,0,Dedric Lawson Turnover.
+SMU,Memphis,21,21,13,59,0,Ben Moore missed Layup.
+SMU,Memphis,21,21,13,59,0,Dedric Lawson Block.
+SMU,Memphis,21,21,13,59,0,SMU Offensive Rebound.
+SMU,Memphis,23,21,14,7,1,Sterling Brown made Layup.
+SMU,Memphis,23,21,14,39,0,Avery Woodson missed Layup.
+SMU,Memphis,23,21,14,39,0,Nic Moore Defensive Rebound.
+SMU,Memphis,23,21,14,50,0,Ben Moore missed Jumper.
+SMU,Memphis,23,21,14,50,0,Markus Kennedy Offensive Rebound.
+SMU,Memphis,25,21,14,54,1,Markus Kennedy made Two Point Tip Shot.
+SMU,Memphis,25,21,15,0,0,Jeremiah Martin missed Layup.
+SMU,Memphis,25,21,15,0,0,Memphis Offensive Rebound.
+SMU,Memphis,25,21,15,4,0,Shaq Goodwin missed Jumper.
+SMU,Memphis,25,21,15,10,0,Markus Kennedy Defensive Rebound.
+SMU,Memphis,27,21,15,28,1,Ben Moore made Dunk. Assisted by Nic Moore.
+SMU,Memphis,27,24,15,58,1,Dedric Lawson made Three Point Jumper.
+SMU,Memphis,29,24,16,24,1,Markus Kennedy made Jumper. Assisted by Sterling Brown.
+SMU,Memphis,29,24,16,41,0,Shaq Goodwin missed Layup.
+SMU,Memphis,29,24,16,41,0,Ben Moore Block.
+SMU,Memphis,29,24,16,41,0,Memphis Offensive Rebound.
+SMU,Memphis,29,24,16,44,0,Official TV Timeout
+SMU,Memphis,29,24,16,45,0,Dedric Lawson Turnover.
+SMU,Memphis,29,24,16,45,0,Jordan Tolbert Steal.
+SMU,Memphis,29,24,16,53,0,Sterling Brown Turnover.
+SMU,Memphis,29,24,16,53,0,Jeremiah Martin Steal.
+SMU,Memphis,29,24,16,55,0,Foul on Markus Kennedy.
+SMU,Memphis,29,25,16,55,1,Ricky Tarrant Jr. made Free Throw.
+SMU,Memphis,29,26,16,55,1,Ricky Tarrant Jr. made Free Throw.
+SMU,Memphis,29,26,17,16,0,Markus Kennedy missed Jumper.
+SMU,Memphis,29,26,17,16,0,Dedric Lawson Block.
+SMU,Memphis,29,26,17,16,0,Jeremiah Martin Defensive Rebound.
+SMU,Memphis,29,28,17,24,1,Ricky Tarrant Jr. made Layup. Assisted by Jeremiah Martin.
+SMU,Memphis,29,28,17,49,0,Foul on Shaq Goodwin.
+SMU,Memphis,29,28,17,58,0,Markus Kennedy Turnover.
+SMU,Memphis,29,28,17,58,0,Ricky Tarrant Jr. Steal.
+SMU,Memphis,29,28,18,21,0,Foul on Jordan Tolbert.
+SMU,Memphis,29,29,18,21,1,Shaq Goodwin made Free Throw.
+SMU,Memphis,29,30,18,21,1,Shaq Goodwin made Free Throw.
+SMU,Memphis,29,30,18,32,0,Ben Moore missed Jumper.
+SMU,Memphis,29,30,18,32,0,Ricky Tarrant Jr. Defensive Rebound.
+SMU,Memphis,29,30,18,45,0,Foul on Jarrey Foster.
+SMU,Memphis,29,30,18,45,0,Ricky Tarrant Jr. missed Free Throw.
+SMU,Memphis,29,30,18,45,0,Jordan Tolbert Defensive Rebound.
+SMU,Memphis,29,30,18,46,0,Foul on Shaq Goodwin.
+SMU,Memphis,29,30,18,46,0,Jordan Tolbert missed Free Throw.
+SMU,Memphis,29,30,18,46,0,Jeremiah Martin Defensive Rebound.
+SMU,Memphis,29,30,18,52,0,Trahson Burrell missed Jumper.
+SMU,Memphis,29,30,18,52,0,Shake Milton Block.
+SMU,Memphis,29,30,18,52,0,Shake Milton Defensive Rebound.
+SMU,Memphis,31,30,19,15,1,Jarrey Foster made Dunk. Assisted by Ben Moore.
+SMU,Memphis,31,30,19,33,0,Memphis  Timeout
+SMU,Memphis,31,30,19,33,0,Technical Foul on Nick Marshall.
+SMU,Memphis,31,30,19,33,0,Foul on Nick Marshall.
+SMU,Memphis,31,30,19,33,0,Technical Foul on Sterling Brown.
+SMU,Memphis,31,30,19,33,0,Foul on Sterling Brown.
+SMU,Memphis,31,30,19,51,0,Trahson Burrell missed Three Point Jumper.
+SMU,Memphis,31,30,19,51,0,Ben Moore Defensive Rebound.
+SMU,Memphis,31,30,19,55,0,Shake Milton Turnover.
+SMU,Memphis,31,30,19,55,0,Ricky Tarrant Jr. Steal.
+SMU,Memphis,31,30,19,58,0,Ricky Tarrant Jr. missed Three Point Jumper.
+SMU,Memphis,31,30,19,58,0,Memphis Deadball Team Rebound.
+SMU,Memphis,31,30,20,0,0,End of 1st half
+SMU,Memphis,31,30,20,0,0,Jump Ball won by Memphis
+SMU,Memphis,31,30,20,19,0,Shaq Goodwin Turnover.
+SMU,Memphis,31,30,20,19,0,Nic Moore Steal.
+SMU,Memphis,31,30,20,25,0,Shake Milton missed Three Point Jumper.
+SMU,Memphis,31,30,20,25,0,Dedric Lawson Defensive Rebound.
+SMU,Memphis,31,32,20,37,1,Shaq Goodwin made Dunk. Assisted by Ricky Tarrant Jr..
+SMU,Memphis,31,32,20,56,0,Sterling Brown Turnover.
+SMU,Memphis,31,32,20,56,0,Shaq Goodwin Steal.
+SMU,Memphis,31,35,21,7,1,Avery Woodson made Three Point Jumper. Assisted by Ricky Tarrant Jr..
+SMU,Memphis,33,35,21,29,1,Jordan Tolbert made Layup. Assisted by Shake Milton.
+SMU,Memphis,33,35,21,38,0,Avery Woodson missed Three Point Jumper.
+SMU,Memphis,33,35,21,38,0,Jordan Tolbert Defensive Rebound.
+SMU,Memphis,33,35,22,1,0,Sterling Brown Turnover.
+SMU,Memphis,33,35,22,1,0,Shaq Goodwin Steal.
+SMU,Memphis,33,37,22,5,1,Shaq Goodwin made Dunk. Assisted by Ricky Tarrant Jr..
+SMU,Memphis,33,37,22,25,0,Nic Moore missed Three Point Jumper.
+SMU,Memphis,33,37,22,25,0,Ben Moore Offensive Rebound.
+SMU,Memphis,35,37,22,40,1,Jordan Tolbert made Layup. Assisted by Nic Moore.
+SMU,Memphis,35,37,22,57,0,Foul on Sterling Brown.
+SMU,Memphis,35,37,23,14,0,Ricky Tarrant Jr. missed Jumper.
+SMU,Memphis,35,37,23,14,0,Jordan Tolbert Defensive Rebound.
+SMU,Memphis,35,37,23,23,0,Shake Milton missed Three Point Jumper.
+SMU,Memphis,35,37,23,23,0,SMU Offensive Rebound.
+SMU,Memphis,35,37,23,43,0,Foul on Shaq Goodwin.
+SMU,Memphis,35,37,23,43,0,Ben Moore missed Free Throw.
+SMU,Memphis,35,37,23,43,0,SMU Deadball Team Rebound.
+SMU,Memphis,36,37,23,43,1,Ben Moore made Free Throw.
+SMU,Memphis,36,37,23,44,0,Markel Crawford Turnover.
+SMU,Memphis,36,37,23,44,0,Nic Moore Steal.
+SMU,Memphis,38,37,23,50,1,Jarrey Foster made Dunk. Assisted by Shake Milton.
+SMU,Memphis,38,39,24,12,1,Dedric Lawson made Layup. Assisted by Nick Marshall.
+SMU,Memphis,38,39,24,12,0,Foul on Markus Kennedy.
+SMU,Memphis,38,39,24,12,0,Official TV Timeout
+SMU,Memphis,38,40,24,12,1,Dedric Lawson made Free Throw.
+SMU,Memphis,40,40,24,22,1,Ben Moore made Layup. Assisted by Markus Kennedy.
+SMU,Memphis,40,40,24,34,0,Foul on Markus Kennedy.
+SMU,Memphis,40,40,24,34,0,Avery Woodson missed Free Throw.
+SMU,Memphis,40,40,24,34,0,Memphis Deadball Team Rebound.
+SMU,Memphis,40,40,24,34,0,Avery Woodson missed Free Throw.
+SMU,Memphis,40,40,24,34,0,Ben Moore Defensive Rebound.
+SMU,Memphis,40,40,24,58,0,Foul on Nick Marshall.
+SMU,Memphis,40,40,24,58,0,Ben Moore missed Free Throw.
+SMU,Memphis,40,40,24,58,0,SMU Deadball Team Rebound.
+SMU,Memphis,40,40,24,58,0,Ben Moore missed Free Throw.
+SMU,Memphis,40,40,24,58,0,Nick Marshall Defensive Rebound.
+SMU,Memphis,40,42,25,0,1,Jeremiah Martin made Layup. Assisted by Ricky Tarrant Jr..
+SMU,Memphis,42,42,25,17,1,Ben Moore made Layup. Assisted by Nic Moore.
+SMU,Memphis,42,42,25,32,0,Ricky Tarrant Jr. missed Three Point Jumper.
+SMU,Memphis,42,42,25,32,0,Markus Kennedy Defensive Rebound.
+SMU,Memphis,44,42,25,48,1,Markus Kennedy made Jumper. Assisted by Shake Milton.
+SMU,Memphis,44,45,26,3,1,Dedric Lawson made Three Point Jumper. Assisted by Ricky Tarrant Jr..
+SMU,Memphis,44,45,26,25,0,Foul on Dedric Lawson.
+SMU,Memphis,44,45,26,34,0,Jordan Tolbert Turnover.
+SMU,Memphis,44,45,26,34,0,Shaq Goodwin Steal.
+SMU,Memphis,44,45,26,42,0,Avery Woodson missed Three Point Jumper.
+SMU,Memphis,44,45,26,42,0,SMU Defensive Rebound.
+SMU,Memphis,44,45,26,52,0,Shake Milton Turnover.
+SMU,Memphis,44,45,26,52,0,Avery Woodson Steal.
+SMU,Memphis,44,45,27,6,0,Foul on Sterling Brown.
+SMU,Memphis,44,46,27,6,1,Trahson Burrell made Free Throw.
+SMU,Memphis,44,47,27,6,1,Trahson Burrell made Free Throw.
+SMU,Memphis,44,47,27,16,0,Nic Moore missed Jumper.
+SMU,Memphis,44,47,27,16,0,Jordan Tolbert Offensive Rebound.
+SMU,Memphis,47,47,27,46,1,Nic Moore made Three Point Jumper.
+SMU,Memphis,47,47,28,11,0,Foul on Ben Moore.
+SMU,Memphis,47,47,28,11,0,Official TV Timeout
+SMU,Memphis,47,48,28,11,1,Dedric Lawson made Free Throw.
+SMU,Memphis,47,49,28,11,1,Dedric Lawson made Free Throw.
+SMU,Memphis,47,49,28,22,0,Foul on Shaq Goodwin.
+SMU,Memphis,48,49,28,22,1,Jordan Tolbert made Free Throw.
+SMU,Memphis,48,49,28,22,0,Jordan Tolbert missed Free Throw.
+SMU,Memphis,48,49,28,22,0,Nick Marshall Defensive Rebound.
+SMU,Memphis,48,51,28,40,1,Avery Woodson made Jumper.
+SMU,Memphis,48,51,29,9,0,Sterling Brown missed Jumper.
+SMU,Memphis,48,51,29,9,0,Dedric Lawson Block.
+SMU,Memphis,48,51,29,9,0,Dedric Lawson Defensive Rebound.
+SMU,Memphis,48,51,29,16,0,Dedric Lawson missed Jumper.
+SMU,Memphis,48,51,29,16,0,Sterling Brown Defensive Rebound.
+SMU,Memphis,51,51,29,23,1,Nic Moore made Three Point Jumper. Assisted by Sterling Brown.
+SMU,Memphis,51,51,29,41,0,Jeremiah Martin Turnover.
+SMU,Memphis,51,51,29,41,0,Shake Milton Steal.
+SMU,Memphis,51,51,29,47,0,Shake Milton missed Layup.
+SMU,Memphis,51,51,29,47,0,Jeremiah Martin Block.
+SMU,Memphis,51,51,29,47,0,SMU Deadball Team Rebound.
+SMU,Memphis,51,51,29,55,0,Foul on Avery Woodson.
+SMU,Memphis,51,51,30,18,0,Markus Kennedy missed Jumper.
+SMU,Memphis,51,51,30,18,0,SMU Offensive Rebound.
+SMU,Memphis,51,51,30,36,0,Foul on Trahson Burrell.
+SMU,Memphis,51,51,30,38,0,Foul on Ricky Tarrant Jr..
+SMU,Memphis,51,51,30,38,0,Shake Milton missed Free Throw.
+SMU,Memphis,51,51,30,38,0,SMU Deadball Team Rebound.
+SMU,Memphis,52,51,30,38,1,Shake Milton made Free Throw.
+SMU,Memphis,52,53,30,42,1,Dedric Lawson made Jumper.
+SMU,Memphis,54,53,30,57,1,Nic Moore made Layup.
+SMU,Memphis,54,55,31,8,1,Jake McDowell made Layup. Assisted by Trahson Burrell.
+SMU,Memphis,54,55,31,29,0,Foul on Jarrey Foster.
+SMU,Memphis,54,55,31,29,0,Jarrey Foster Turnover.
+SMU,Memphis,54,55,31,48,0,Dedric Lawson missed Jumper.
+SMU,Memphis,54,55,31,48,0,Shake Milton Defensive Rebound.
+SMU,Memphis,54,55,32,22,0,Ben Moore Turnover.
+SMU,Memphis,54,55,32,22,0,Foul on Ben Moore.
+SMU,Memphis,54,55,32,22,0,Official TV Timeout
+SMU,Memphis,54,55,32,38,0,Trahson Burrell missed Three Point Jumper.
+SMU,Memphis,54,55,32,38,0,SMU Defensive Rebound.
+SMU,Memphis,54,55,32,59,0,Foul on Jake McDowell.
+SMU,Memphis,54,55,32,59,0,Nic Moore missed Free Throw.
+SMU,Memphis,54,55,32,59,0,Trahson Burrell Defensive Rebound.
+SMU,Memphis,54,55,33,4,0,Ricky Tarrant Jr. missed Jumper.
+SMU,Memphis,54,55,33,4,0,Jordan Tolbert Block.
+SMU,Memphis,54,55,33,4,0,Jordan Tolbert Defensive Rebound.
+SMU,Memphis,56,55,33,10,1,Sterling Brown made Layup. Assisted by Nic Moore.
+SMU,Memphis,56,55,33,21,0,Dedric Lawson missed Three Point Jumper.
+SMU,Memphis,56,55,33,21,0,Memphis Offensive Rebound.
+SMU,Memphis,56,57,33,31,1,Trahson Burrell made Jumper.
+SMU,Memphis,59,57,33,46,1,Shake Milton made Three Point Jumper. Assisted by Ben Moore.
+SMU,Memphis,59,57,34,0,0,Jeremiah Martin missed Jumper.
+SMU,Memphis,59,57,34,0,0,Trahson Burrell Offensive Rebound.
+SMU,Memphis,59,57,34,7,0,Dedric Lawson missed Three Point Jumper.
+SMU,Memphis,59,57,34,7,0,Nic Moore Defensive Rebound.
+SMU,Memphis,59,57,34,12,0,Nic Moore Turnover.
+SMU,Memphis,59,57,34,12,0,Dedric Lawson Steal.
+SMU,Memphis,59,57,34,17,0,Trahson Burrell Turnover.
+SMU,Memphis,59,57,34,17,0,Nic Moore Steal.
+SMU,Memphis,59,57,34,40,0,Foul on Jake McDowell.
+SMU,Memphis,60,57,34,40,1,Sterling Brown made Free Throw.
+SMU,Memphis,61,57,34,40,1,Sterling Brown made Free Throw.
+SMU,Memphis,61,57,34,52,0,Ricky Tarrant Jr. missed Three Point Jumper.
+SMU,Memphis,61,57,34,52,0,Markus Kennedy Defensive Rebound.
+SMU,Memphis,61,57,35,21,0,Markus Kennedy Turnover.
+SMU,Memphis,61,57,35,21,0,Ricky Tarrant Jr. Steal.
+SMU,Memphis,61,59,35,29,1,Ricky Tarrant Jr. made Jumper. Assisted by Sam Craft.
+SMU,Memphis,61,59,35,29,0,Foul on Shake Milton.
+SMU,Memphis,61,59,35,29,0,Ricky Tarrant Jr. missed Free Throw.
+SMU,Memphis,61,59,35,29,0,Nic Moore Defensive Rebound.
+SMU,Memphis,61,59,35,43,0,Shake Milton missed Jumper.
+SMU,Memphis,61,59,35,43,0,Markus Kennedy Offensive Rebound.
+SMU,Memphis,63,59,35,47,1,Markus Kennedy made Layup.
+SMU,Memphis,63,59,36,13,0,Sam Craft Turnover.
+SMU,Memphis,63,59,36,13,0,Sterling Brown Steal.
+SMU,Memphis,63,59,36,26,0,SMU  Timeout
+SMU,Memphis,63,59,36,31,0,Nic Moore Turnover.
+SMU,Memphis,63,59,36,31,0,Avery Woodson Steal.
+SMU,Memphis,63,59,36,35,0,Avery Woodson missed Three Point Jumper.
+SMU,Memphis,63,59,36,35,0,Memphis Offensive Rebound.
+SMU,Memphis,63,59,36,42,0,Official TV Timeout
+SMU,Memphis,63,59,36,43,0,Foul on Ben Moore.
+SMU,Memphis,63,59,36,43,0,Dedric Lawson missed Free Throw.
+SMU,Memphis,63,59,36,43,0,Memphis Deadball Team Rebound.
+SMU,Memphis,63,59,36,43,0,Dedric Lawson missed Free Throw.
+SMU,Memphis,63,59,36,43,0,Markus Kennedy Defensive Rebound.
+SMU,Memphis,63,59,36,50,0,Ben Moore Turnover.
+SMU,Memphis,63,59,36,50,0,Dedric Lawson Steal.
+SMU,Memphis,63,61,37,3,1,Dedric Lawson made Dunk. Assisted by Avery Woodson.
+SMU,Memphis,63,61,37,39,0,Foul on Shaq Goodwin.
+SMU,Memphis,63,61,37,39,0,Shake Milton missed Free Throw.
+SMU,Memphis,63,61,37,39,0,SMU Deadball Team Rebound.
+SMU,Memphis,63,61,37,39,0,Shake Milton missed Free Throw.
+SMU,Memphis,63,61,37,39,0,Nick Marshall Defensive Rebound.
+SMU,Memphis,63,61,37,46,0,Memphis  Timeout
+SMU,Memphis,63,61,37,54,0,Dedric Lawson missed Jumper.
+SMU,Memphis,63,61,37,54,0,Jordan Tolbert Defensive Rebound.
+SMU,Memphis,63,61,38,9,0,Shake Milton missed Three Point Jumper.
+SMU,Memphis,63,61,38,9,0,Avery Woodson Defensive Rebound.
+SMU,Memphis,63,61,38,23,0,Foul on Sterling Brown.
+SMU,Memphis,63,61,38,23,0,Ricky Tarrant Jr. missed Free Throw.
+SMU,Memphis,63,61,38,23,0,Memphis Deadball Team Rebound.
+SMU,Memphis,63,62,38,23,1,Ricky Tarrant Jr. made Free Throw.
+SMU,Memphis,63,62,38,31,0,Nic Moore missed Jumper.
+SMU,Memphis,63,62,38,31,0,Nick Marshall Defensive Rebound.
+SMU,Memphis,63,62,38,52,0,Jeremiah Martin missed Three Point Jumper.
+SMU,Memphis,63,62,38,52,0,Sterling Brown Defensive Rebound.
+SMU,Memphis,65,62,39,18,1,Nic Moore made Jumper.
+SMU,Memphis,65,62,39,25,0,Memphis  Timeout
+SMU,Memphis,65,62,39,35,0,Dedric Lawson Turnover.
+SMU,Memphis,65,62,39,35,0,Nic Moore Steal.
+SMU,Memphis,65,62,39,47,0,Flagrant 1 Foul on Dedric Lawson.
+SMU,Memphis,66,62,39,47,1,Sterling Brown made Free Throw.
+SMU,Memphis,67,62,39,47,1,Sterling Brown made Free Throw.
+SMU,Memphis,67,62,39,50,0,Foul on Trahson Burrell.
+SMU,Memphis,68,62,39,50,1,Nic Moore made Free Throw.
+SMU,Memphis,69,62,39,50,1,Nic Moore made Free Throw.
+SMU,Memphis,69,62,39,52,0,Trahson Burrell missed Three Point Jumper.
+SMU,Memphis,69,62,39,52,0,Sterling Brown Defensive Rebound.
+SMU,Memphis,69,62,40,0,0,End of Game

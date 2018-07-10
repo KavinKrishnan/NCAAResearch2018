@@ -1,0 +1,305 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+California,Utah,0,0,0,31,0,Jordan Loveridge Turnover.
+California,Utah,0,0,0,32,0,Justin Cobbs Steal.
+California,Utah,0,0,0,44,0,David Kravish missed Jumper.
+California,Utah,0,0,0,44,0,Jason Washburn Defensive Rebound.
+California,Utah,0,2,0,56,1,Glen Dean made Jumper.
+California,Utah,0,2,1,12,0,David Kravish missed Jumper.
+California,Utah,0,2,1,12,0,Jason Washburn Defensive Rebound.
+California,Utah,0,2,1,35,0,Jordan Loveridge Turnover.
+California,Utah,0,2,1,35,0,David Kravish Steal.
+California,Utah,0,2,1,39,0,Foul on Cedric Martin
+California,Utah,1,2,1,39,1,Tyrone Wallace made Free Throw.
+California,Utah,1,2,1,39,0,Tyrone Wallace missed Free Throw.
+California,Utah,1,2,1,39,0,Dakarai Tucker Defensive Rebound.
+California,Utah,1,2,2,8,0,Jordan Loveridge missed Jumper.
+California,Utah,1,2,2,8,0,Jason Washburn Offensive Rebound.
+California,Utah,1,2,2,53,0,Jason Washburn missed Layup.
+California,Utah,1,2,2,53,0,Allen Crabbe Block.
+California,Utah,1,2,2,53,0,Utah Offensive Rebound.
+California,Utah,1,2,2,54,0,Cedric Martin missed Jumper.
+California,Utah,1,2,2,54,0,Richard Solomon Defensive Rebound.
+California,Utah,3,2,3,19,1,Justin Cobbs made Jumper.
+California,Utah,3,2,3,55,0,Dakarai Tucker missed Three Point Jumper.
+California,Utah,3,2,3,55,0,David Kravish Defensive Rebound.
+California,Utah,3,2,4,14,0,Tyrone Wallace missed Three Point Jumper.
+California,Utah,3,2,4,14,0,Jordan Loveridge Defensive Rebound.
+California,Utah,3,2,4,15,0,Foul on Richard Solomon
+California,Utah,3,2,4,15,0,Official TV Timeout.
+California,Utah,3,2,4,28,0,Cedric Martin Turnover.
+California,Utah,3,2,4,28,0,Justin Cobbs Steal.
+California,Utah,3,2,4,31,0,Justin Cobbs missed Jumper.
+California,Utah,3,2,4,31,0,Jordan Loveridge Defensive Rebound.
+California,Utah,3,2,4,52,0,Jordan Loveridge Turnover.
+California,Utah,3,2,4,52,0,Robert Thurman Steal.
+California,Utah,3,2,4,56,0,Tyrone Wallace Turnover.
+California,Utah,3,2,4,56,0,Cedric Martin Steal.
+California,Utah,3,5,5,14,1,Glen Dean made Three Point Jumper.  Assisted by Brandon Taylor.
+California,Utah,3,5,5,45,0,Allen Crabbe missed Layup.
+California,Utah,3,5,5,45,0,Jordan Loveridge Defensive Rebound.
+California,Utah,3,7,5,56,1,Brandon Taylor made Layup.
+California,Utah,3,7,6,9,0,Foul on Jordan Loveridge
+California,Utah,4,7,6,9,1,David Kravish made Free Throw.
+California,Utah,4,7,6,9,0,David Kravish missed Free Throw.
+California,Utah,4,7,6,9,0,Justin Seymour Defensive Rebound.
+California,Utah,4,7,6,29,0,Glen Dean Turnover.
+California,Utah,4,7,6,42,0,Allen Crabbe missed Jumper.
+California,Utah,4,7,6,42,0,Justin Seymour Defensive Rebound.
+California,Utah,4,7,6,56,0,Glen Dean Turnover.
+California,Utah,4,7,6,56,0,Robert Thurman Steal.
+California,Utah,4,7,7,16,0,Allen Crabbe missed Three Point Jumper.
+California,Utah,4,7,7,16,0,Utah Defensive Rebound.
+California,Utah,4,7,7,18,0,Foul on David Kravish
+California,Utah,4,9,7,29,1,Justin Seymour made Layup.  Assisted by Brandon Taylor.
+California,Utah,4,9,7,45,0,Foul on Dallin Bachynski
+California,Utah,4,9,7,47,0,Tyrone Wallace missed Layup.
+California,Utah,4,9,7,47,0,Tyrone Wallace Offensive Rebound.
+California,Utah,6,9,7,50,1,Tyrone Wallace made Jumper.
+California,Utah,6,11,8,10,1,Jordan Loveridge made Jumper.
+California,Utah,6,11,8,26,0,Robert Thurman missed Layup.
+California,Utah,6,11,8,26,0,Dallin Bachynski Block.
+California,Utah,6,11,8,26,0,Robert Thurman Offensive Rebound.
+California,Utah,8,11,8,28,1,Robert Thurman made Layup.
+California,Utah,8,11,8,53,0,Dallin Bachynski missed Jumper.
+California,Utah,8,11,8,53,0,Tyrone Wallace Block.
+California,Utah,8,11,8,55,0,Bak Bak Defensive Rebound.
+California,Utah,11,11,9,12,1,Tyrone Wallace made Three Point Jumper.
+California,Utah,11,11,9,32,0,Dallin Bachynski Turnover.
+California,Utah,11,11,9,33,0,Bak Bak Steal.
+California,Utah,14,11,9,37,1,Allen Crabbe made Three Point Jumper.  Assisted by Tyrone Wallace.
+California,Utah,14,11,9,50,0,Utah Full Timeout.
+California,Utah,14,11,10,4,0,Jason Washburn missed Layup.
+California,Utah,14,11,10,4,0,Bak Bak Defensive Rebound.
+California,Utah,16,11,10,17,1,Allen Crabbe made Jumper.  Assisted by Brandon Smith.
+California,Utah,16,11,10,45,0,Jason Washburn Turnover.
+California,Utah,16,11,10,46,0,Allen Crabbe Steal.
+California,Utah,16,11,10,54,0,Foul on Justin Seymour
+California,Utah,16,11,10,54,0,Official TV Timeout.
+California,Utah,19,11,11,9,1,Allen Crabbe made Three Point Jumper.  Assisted by Tyrone Wallace.
+California,Utah,19,11,11,26,0,Foul on Tyrone Wallace
+California,Utah,19,12,11,26,1,Jordan Loveridge made Free Throw.
+California,Utah,19,13,11,26,1,Jordan Loveridge made Free Throw.
+California,Utah,21,13,11,48,1,Bak Bak made Jumper.  Assisted by Brandon Smith.
+California,Utah,21,13,11,58,0,Foul on Allen Crabbe
+California,Utah,21,13,12,5,0,Foul on Robert Thurman
+California,Utah,21,13,12,5,0,Official TV Timeout.
+California,Utah,21,13,12,10,0,Jason Washburn Turnover.
+California,Utah,21,13,12,11,0,Brandon Smith Steal.
+California,Utah,21,13,12,24,0,Brandon Smith Turnover.
+California,Utah,21,13,12,24,0,Renan Lenz Steal.
+California,Utah,21,15,12,45,1,Jason Washburn made Jumper.
+California,Utah,24,15,13,9,1,Brandon Smith made Three Point Jumper.  Assisted by Tyrone Wallace.
+California,Utah,24,15,13,27,0,Renan Lenz missed Jumper.
+California,Utah,24,15,13,27,0,Tyrone Wallace Defensive Rebound.
+California,Utah,24,15,13,45,0,Justin Cobbs missed Jumper.
+California,Utah,24,15,13,45,0,Brandon Taylor Defensive Rebound.
+California,Utah,24,15,13,51,0,Brandon Taylor Turnover.
+California,Utah,24,15,13,52,0,Justin Cobbs Steal.
+California,Utah,24,15,14,14,0,Brandon Smith Turnover.
+California,Utah,24,15,14,36,0,Renan Lenz Turnover.
+California,Utah,24,15,14,36,0,Richard Solomon Steal.
+California,Utah,24,15,14,47,0,Richard Solomon missed Three Point Jumper.
+California,Utah,24,15,14,47,0,Cedric Martin Defensive Rebound.
+California,Utah,24,15,15,6,0,Jason Washburn missed Jumper.
+California,Utah,24,15,15,6,0,David Kravish Defensive Rebound.
+California,Utah,24,15,15,13,0,Tyrone Wallace missed Three Point Jumper.
+California,Utah,24,15,15,13,0,Jason Washburn Defensive Rebound.
+California,Utah,24,17,15,50,1,Renan Lenz made Jumper.  Assisted by Glen Dean.
+California,Utah,24,17,16,8,0,Justin Cobbs missed Three Point Jumper.
+California,Utah,24,17,16,8,0,Jason Washburn Defensive Rebound.
+California,Utah,24,17,16,35,0,Brandon Taylor Turnover.
+California,Utah,24,17,16,35,0,Richard Solomon Steal.
+California,Utah,24,17,16,36,0,Foul on Brandon Taylor
+California,Utah,24,17,16,36,0,Official TV Timeout.
+California,Utah,24,17,17,9,0,Richard Solomon Turnover.
+California,Utah,24,17,17,20,0,Glen Dean Turnover.
+California,Utah,24,17,17,21,0,Justin Cobbs Steal.
+California,Utah,26,17,17,51,1,David Kravish made Jumper.  Assisted by Tyrone Wallace.
+California,Utah,26,17,18,7,0,Brandon Taylor missed Three Point Jumper.
+California,Utah,26,17,18,7,0,Tyrone Wallace Defensive Rebound.
+California,Utah,28,17,18,17,1,David Kravish made Layup.  Assisted by Tyrone Wallace.
+California,Utah,28,20,18,35,1,Brandon Taylor made Three Point Jumper.  Assisted by Jason Washburn.
+California,Utah,28,20,18,52,0,Foul on Richard Solomon
+California,Utah,28,20,18,52,0,Richard Solomon Turnover.
+California,Utah,28,22,19,10,1,Jason Washburn made Jumper.  Assisted by Jordan Loveridge.
+California,Utah,30,22,19,28,1,Robert Thurman made Dunk.  Assisted by Tyrone Wallace.
+California,Utah,30,22,19,51,0,Brandon Taylor Turnover.
+California,Utah,30,22,19,52,0,Justin Cobbs Steal.
+California,Utah,32,22,19,56,1,Allen Crabbe made Layup.  Assisted by Justin Cobbs.
+California,Utah,32,22,20,0,0,Jordan Loveridge Turnover.
+California,Utah,32,22,20,0,0,Tyrone Wallace Steal.
+California,Utah,32,22,20,0,0,Tyrone Wallace missed Jumper.
+California,Utah,32,22,20,0,0,Utah Defensive Rebound.
+California,Utah,32,22,20,0,0,End of the 1st Half.
+California,Utah,32,22,20,8,0,Allen Crabbe missed Jumper.
+California,Utah,32,22,20,8,0,Jordan Loveridge Defensive Rebound.
+California,Utah,32,25,20,27,1,Glen Dean made Three Point Jumper.  Assisted by Jason Washburn.
+California,Utah,32,25,20,58,0,David Kravish missed Jumper.
+California,Utah,32,25,20,58,0,Richard Solomon Offensive Rebound.
+California,Utah,32,25,21,12,0,Foul on Jarred DuBois
+California,Utah,32,25,21,33,0,Tyrone Wallace missed Three Point Jumper.
+California,Utah,32,25,21,33,0,Utah Defensive Rebound.
+California,Utah,32,25,21,52,0,Jordan Loveridge missed Jumper.
+California,Utah,32,25,21,52,0,Richard Solomon Defensive Rebound.
+California,Utah,34,25,22,5,1,Allen Crabbe made Jumper.
+California,Utah,34,25,22,30,0,Jason Washburn missed Jumper.
+California,Utah,34,25,22,30,0,Allen Crabbe Defensive Rebound.
+California,Utah,34,25,22,55,0,Tyrone Wallace missed Jumper.
+California,Utah,34,25,22,55,0,Jason Washburn Block.
+California,Utah,34,25,22,56,0,Richard Solomon Offensive Rebound.
+California,Utah,34,25,23,1,0,California Full Timeout.
+California,Utah,34,25,23,3,0,Tyrone Wallace missed Three Point Jumper.
+California,Utah,34,25,23,3,0,Glen Dean Defensive Rebound.
+California,Utah,34,25,23,16,0,Jordan Loveridge missed Jumper.
+California,Utah,34,25,23,16,0,David Kravish Defensive Rebound.
+California,Utah,36,25,23,49,1,Tyrone Wallace made Jumper.
+California,Utah,36,25,24,18,0,Official TV Timeout.
+California,Utah,36,25,24,27,0,Jason Washburn missed Jumper.
+California,Utah,36,25,24,27,0,Jeremy Olsen Offensive Rebound.
+California,Utah,36,27,24,29,1,Jeremy Olsen made Layup.
+California,Utah,38,27,24,51,1,Tyrone Wallace made Layup.  Assisted by David Kravish.
+California,Utah,38,27,25,9,0,Jordan Loveridge Turnover.
+California,Utah,38,27,25,9,0,David Kravish Steal.
+California,Utah,41,27,25,17,1,Allen Crabbe made Three Point Jumper.  Assisted by Justin Cobbs.
+California,Utah,41,27,25,32,0,Glen Dean missed Three Point Jumper.
+California,Utah,41,27,25,32,0,Jeremy Olsen Offensive Rebound.
+California,Utah,41,29,25,49,1,Jason Washburn made Jumper.  Assisted by Cedric Martin.
+California,Utah,44,29,26,3,1,Allen Crabbe made Three Point Jumper.  Assisted by Justin Cobbs.
+California,Utah,44,29,26,31,0,Glen Dean missed Jumper.
+California,Utah,44,29,26,31,0,Tyrone Wallace Block.
+California,Utah,44,29,26,33,0,Jeremy Olsen Offensive Rebound.
+California,Utah,44,31,26,38,1,Jason Washburn made Jumper.  Assisted by Jeremy Olsen.
+California,Utah,44,31,27,1,0,David Kravish missed Jumper.
+California,Utah,44,31,27,1,0,Brandon Taylor Defensive Rebound.
+California,Utah,44,31,27,12,0,Foul on David Kravish
+California,Utah,44,31,27,28,0,Glen Dean missed Layup.
+California,Utah,44,31,27,28,0,Jeremy Olsen Offensive Rebound.
+California,Utah,44,31,27,31,0,Jeremy Olsen missed Jumper.
+California,Utah,44,31,27,31,0,Robert Thurman Defensive Rebound.
+California,Utah,44,31,27,59,0,Tyrone Wallace missed Jumper.
+California,Utah,44,31,27,59,0,Brandon Smith Offensive Rebound.
+California,Utah,44,31,28,5,0,Allen Crabbe missed Three Point Jumper.
+California,Utah,44,31,28,5,0,Robert Thurman Offensive Rebound.
+California,Utah,44,31,28,9,0,Robert Thurman Turnover.
+California,Utah,44,31,28,10,0,Brandon Taylor Steal.
+California,Utah,44,33,28,12,1,Cedric Martin made Layup.  Assisted by Brandon Taylor.
+California,Utah,44,33,28,39,0,Bak Bak missed Jumper.
+California,Utah,44,33,28,39,0,Cedric Martin Defensive Rebound.
+California,Utah,44,33,29,5,0,Foul on Bak Bak
+California,Utah,44,33,29,5,0,Official TV Timeout.
+California,Utah,44,35,29,7,1,Jordan Loveridge made Layup.  Assisted by Dakarai Tucker.
+California,Utah,44,35,29,23,0,Brandon Smith missed Three Point Jumper.
+California,Utah,44,35,29,23,0,Utah Defensive Rebound.
+California,Utah,44,35,29,36,0,Brandon Taylor missed Three Point Jumper.
+California,Utah,44,35,29,36,0,Allen Crabbe Defensive Rebound.
+California,Utah,46,35,29,49,1,Justin Cobbs made Jumper.
+California,Utah,46,35,30,8,0,Dakarai Tucker missed Three Point Jumper.
+California,Utah,46,35,30,8,0,Bak Bak Defensive Rebound.
+California,Utah,46,35,30,27,0,Foul on Dakarai Tucker
+California,Utah,46,35,30,45,0,Justin Cobbs missed Jumper.
+California,Utah,46,35,30,45,0,Jordan Loveridge Defensive Rebound.
+California,Utah,46,35,31,4,0,Jordan Loveridge Turnover.
+California,Utah,46,35,31,4,0,Robert Thurman Steal.
+California,Utah,46,35,31,28,0,Allen Crabbe missed Jumper.
+California,Utah,46,35,31,28,0,Brandon Smith Offensive Rebound.
+California,Utah,48,35,31,36,1,Robert Thurman made Layup.  Assisted by Brandon Smith.
+California,Utah,48,35,31,36,0,Foul on Jordan Loveridge
+California,Utah,49,35,31,36,1,Robert Thurman made Free Throw.
+California,Utah,49,37,31,48,1,Jarred DuBois made Layup.
+California,Utah,49,37,31,48,0,Foul on Robert Thurman
+California,Utah,49,38,31,48,1,Jarred DuBois made Free Throw.
+California,Utah,49,38,31,57,0,Justin Cobbs missed Three Point Jumper.
+California,Utah,49,38,31,57,0,David Kravish Offensive Rebound.
+California,Utah,49,38,32,6,0,David Kravish missed Jumper.
+California,Utah,49,38,32,6,0,Brandon Taylor Defensive Rebound.
+California,Utah,49,38,32,10,0,Foul on David Kravish
+California,Utah,49,38,32,10,0,Official TV Timeout.
+California,Utah,49,38,32,22,0,Jason Washburn missed Jumper.
+California,Utah,49,38,32,22,0,Brandon Smith Defensive Rebound.
+California,Utah,51,38,32,40,1,Richard Solomon made Jumper.  Assisted by Justin Cobbs.
+California,Utah,51,38,32,57,0,Jarred DuBois missed Jumper.
+California,Utah,51,38,32,57,0,Allen Crabbe Defensive Rebound.
+California,Utah,51,38,33,4,0,Foul on Allen Crabbe
+California,Utah,51,38,33,4,0,Allen Crabbe Turnover.
+California,Utah,51,38,33,30,0,Jason Washburn missed Jumper.
+California,Utah,51,38,33,30,0,Jordan Loveridge Offensive Rebound.
+California,Utah,51,38,33,33,0,Foul on Richard Solomon
+California,Utah,51,39,33,33,1,Jordan Loveridge made Free Throw.
+California,Utah,51,40,33,33,1,Jordan Loveridge made Free Throw.
+California,Utah,51,40,33,43,0,Foul on Brandon Taylor
+California,Utah,51,40,33,59,0,Tyrone Wallace Turnover.
+California,Utah,51,40,33,59,0,Cedric Martin Steal.
+California,Utah,51,40,34,16,0,Jason Washburn missed Layup.
+California,Utah,51,40,34,16,0,Richard Solomon Defensive Rebound.
+California,Utah,51,40,34,50,0,Tyrone Wallace missed Three Point Jumper.
+California,Utah,51,40,34,50,0,Brandon Taylor Defensive Rebound.
+California,Utah,51,40,34,55,0,Foul on Justin Cobbs
+California,Utah,51,41,34,55,1,Brandon Taylor made Free Throw.
+California,Utah,51,42,34,55,1,Brandon Taylor made Free Throw.
+California,Utah,51,42,34,55,0,Utah Full Timeout.
+California,Utah,53,42,35,3,1,Robert Thurman made Dunk.  Assisted by Tyrone Wallace.
+California,Utah,53,45,35,14,1,Brandon Taylor made Three Point Jumper.
+California,Utah,53,45,35,28,0,Foul on Brandon Taylor
+California,Utah,55,45,35,40,1,Allen Crabbe made Jumper.  Assisted by Tyrone Wallace.
+California,Utah,55,45,36,2,0,Jordan Loveridge missed Three Point Jumper.
+California,Utah,55,45,36,2,0,Allen Crabbe Defensive Rebound.
+California,Utah,55,45,36,20,0,Foul on David Kravish
+California,Utah,55,45,36,20,0,David Kravish Turnover.
+California,Utah,55,45,36,20,0,Official TV Timeout.
+California,Utah,55,45,36,28,0,Foul on Richard Solomon
+California,Utah,55,46,36,28,1,Jason Washburn made Free Throw.
+California,Utah,55,46,36,28,0,Jason Washburn missed Free Throw.
+California,Utah,55,46,36,28,0,Allen Crabbe Defensive Rebound.
+California,Utah,55,46,36,52,0,Tyrone Wallace missed Jumper.
+California,Utah,55,46,36,52,0,Robert Thurman Offensive Rebound.
+California,Utah,55,46,36,55,0,Foul on Jason Washburn
+California,Utah,55,46,37,2,0,Allen Crabbe missed Jumper.
+California,Utah,55,46,37,2,0,Jason Washburn Defensive Rebound.
+California,Utah,55,46,37,4,0,Foul on Robert Thurman
+California,Utah,55,47,37,4,1,Jason Washburn made Free Throw.
+California,Utah,55,48,37,4,1,Jason Washburn made Free Throw.
+California,Utah,55,48,37,14,0,Foul on Glen Dean
+California,Utah,56,48,37,14,1,Tyrone Wallace made Free Throw.
+California,Utah,56,48,37,14,0,Tyrone Wallace missed Free Throw.
+California,Utah,56,48,37,14,0,Richard Solomon Offensive Rebound.
+California,Utah,56,48,37,29,0,Foul on Cedric Martin
+California,Utah,57,48,37,29,1,Allen Crabbe made Free Throw.
+California,Utah,57,48,37,29,0,Allen Crabbe missed Free Throw.
+California,Utah,57,48,37,29,0,Jason Washburn Defensive Rebound.
+California,Utah,57,48,37,37,0,Jordan Loveridge missed Three Point Jumper.
+California,Utah,57,48,37,37,0,Tyrone Wallace Defensive Rebound.
+California,Utah,57,48,37,49,0,Foul on Cedric Martin
+California,Utah,57,48,37,49,0,Justin Cobbs missed Free Throw.
+California,Utah,57,48,37,49,0,Jordan Loveridge Defensive Rebound.
+California,Utah,57,50,38,1,1,Jordan Loveridge made Layup.  Assisted by Brandon Taylor.
+California,Utah,57,50,38,2,0,Utah Full Timeout.
+California,Utah,57,50,38,2,0,California Full Timeout.
+California,Utah,57,50,38,3,0,Foul on Brandon Taylor
+California,Utah,58,50,38,3,1,Tyrone Wallace made Free Throw.
+California,Utah,58,50,38,3,0,Tyrone Wallace missed Free Throw.
+California,Utah,58,50,38,3,0,Jordan Loveridge Defensive Rebound.
+California,Utah,58,50,38,20,0,Glen Dean missed Layup.
+California,Utah,58,50,38,20,0,David Kravish Block.
+California,Utah,58,50,38,21,0,Jordan Loveridge Offensive Rebound.
+California,Utah,58,50,38,21,0,Foul on Tyrone Wallace
+California,Utah,58,51,38,21,1,Jordan Loveridge made Free Throw.
+California,Utah,58,52,38,21,1,Jordan Loveridge made Free Throw.
+California,Utah,58,52,38,50,0,Tyrone Wallace missed Three Point Jumper.
+California,Utah,58,52,38,50,0,Glen Dean Defensive Rebound.
+California,Utah,58,52,39,1,0,Utah Full Timeout.
+California,Utah,58,55,39,5,1,Jason Washburn made Three Point Jumper.  Assisted by Brandon Taylor.
+California,Utah,58,55,39,30,0,David Kravish missed Jumper.
+California,Utah,58,55,39,30,0,David Kravish Offensive Rebound.
+California,Utah,58,55,39,43,0,Foul on Glen Dean
+California,Utah,59,55,39,43,1,Allen Crabbe made Free Throw.
+California,Utah,59,55,39,43,0,California Full Timeout.
+California,Utah,60,55,39,43,1,Allen Crabbe made Free Throw.
+California,Utah,60,55,39,46,0,Utah Full Timeout.
+California,Utah,60,55,39,49,0,Brandon Taylor missed Three Point Jumper.
+California,Utah,60,55,39,49,0,Justin Cobbs Defensive Rebound.
+California,Utah,60,55,39,52,0,Foul on Jason Washburn
+California,Utah,61,55,39,52,1,Justin Cobbs made Free Throw.
+California,Utah,62,55,39,52,1,Justin Cobbs made Free Throw.
+California,Utah,62,57,39,57,1,Glen Dean made Layup.
+California,Utah,62,57,40,0,0,End Game
+California,Utah,62,57,40,0,0,End Game

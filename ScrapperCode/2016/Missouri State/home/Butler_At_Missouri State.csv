@@ -1,0 +1,353 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Butler,Missouri State,0,0,0,0,0,Jump Ball won by Missouri St
+Butler,Missouri State,0,2,0,8,1,Camyn Boone made Jumper.
+Butler,Missouri State,2,2,0,34,1,Andrew Chrabascz made Layup.
+Butler,Missouri State,2,2,0,46,0,Chris Kendrix missed Jumper.
+Butler,Missouri State,2,2,0,46,0,Roosevelt Jones Defensive Rebound.
+Butler,Missouri State,2,2,1,4,0,Andrew Chrabascz missed Three Point Jumper.
+Butler,Missouri State,2,2,1,4,0,Dorrian Williams Defensive Rebound.
+Butler,Missouri State,2,2,1,18,0,Camyn Boone missed Layup.
+Butler,Missouri State,2,2,1,18,0,Andrew Chrabascz Block.
+Butler,Missouri State,2,2,1,18,0,Kellen Dunham Defensive Rebound.
+Butler,Missouri State,2,2,1,19,0,Tyler Lewis missed Three Point Jumper.
+Butler,Missouri State,2,2,1,19,0,Camyn Boone Defensive Rebound.
+Butler,Missouri State,2,2,1,47,0,Dequon Miller missed Three Point Jumper.
+Butler,Missouri State,2,2,1,47,0,Tyler Lewis Defensive Rebound.
+Butler,Missouri State,4,2,1,52,1,Roosevelt Jones made Layup. Assisted by Tyler Lewis.
+Butler,Missouri State,4,2,2,16,0,Foul on Roosevelt Jones.
+Butler,Missouri State,4,3,2,16,1,Chris Kendrix made Free Throw.
+Butler,Missouri State,4,3,2,16,0,Chris Kendrix missed Free Throw.
+Butler,Missouri State,4,3,2,16,0,Roosevelt Jones Defensive Rebound.
+Butler,Missouri State,4,3,2,38,0,Andrew Chrabascz missed Layup.
+Butler,Missouri State,4,3,2,38,0,Obediah Church Defensive Rebound.
+Butler,Missouri State,4,5,2,44,1,Dequon Miller made Layup.
+Butler,Missouri State,4,5,2,44,0,Foul on Andrew Chrabascz.
+Butler,Missouri State,4,6,2,44,1,Dequon Miller made Free Throw.
+Butler,Missouri State,4,6,2,55,0,Foul on Dequon Miller.
+Butler,Missouri State,6,6,3,3,1,Tyler Lewis made Layup.
+Butler,Missouri State,6,6,3,22,0,Camyn Boone missed Jumper.
+Butler,Missouri State,6,6,3,22,0,Roosevelt Jones Defensive Rebound.
+Butler,Missouri State,6,6,3,36,0,Foul on Chris Kendrix.
+Butler,Missouri State,6,6,3,36,0,Tyler Lewis missed Layup.
+Butler,Missouri State,6,6,3,36,0,Loomis Gerring Defensive Rebound.
+Butler,Missouri State,6,6,3,47,0,Loomis Gerring missed Three Point Jumper.
+Butler,Missouri State,6,6,3,47,0,Butler Defensive Rebound.
+Butler,Missouri State,6,6,4,4,0,Foul on Chris Kendrix.
+Butler,Missouri State,6,6,4,16,0,Roosevelt Jones Turnover.
+Butler,Missouri State,6,6,4,16,0,Official TV Timeout
+Butler,Missouri State,6,6,4,18,0,Foul on Tyler Wideman.
+Butler,Missouri State,6,6,4,25,0,Austin Ruder missed Jumper.
+Butler,Missouri State,6,6,4,25,0,Butler Defensive Rebound.
+Butler,Missouri State,6,6,4,29,0,Foul on Jordan Martin.
+Butler,Missouri State,6,6,4,48,0,Foul on Tyler Wideman.
+Butler,Missouri State,6,6,4,48,0,Tyler Wideman Turnover.
+Butler,Missouri State,6,6,5,3,0,Foul on Loomis Gerring.
+Butler,Missouri State,6,6,5,3,0,Loomis Gerring Turnover.
+Butler,Missouri State,8,6,5,13,1,Kellen Dunham made Dunk. Assisted by Andrew Chrabascz.
+Butler,Missouri State,8,8,5,31,1,Jordan Martin made Layup.
+Butler,Missouri State,11,8,5,51,1,Tyler Lewis made Three Point Jumper. Assisted by Roosevelt Jones.
+Butler,Missouri State,11,8,6,15,0,Dequon Miller missed Three Point Jumper.
+Butler,Missouri State,11,8,6,15,0,Kellen Dunham Defensive Rebound.
+Butler,Missouri State,11,8,6,22,0,Foul on Dequon Miller.
+Butler,Missouri State,11,8,6,25,0,Foul on Jarred Dixon.
+Butler,Missouri State,12,8,6,25,1,Tyler Lewis made Free Throw.
+Butler,Missouri State,13,8,6,25,1,Tyler Lewis made Free Throw.
+Butler,Missouri State,13,8,6,47,0,Dorrian Williams missed Jumper.
+Butler,Missouri State,13,8,6,47,0,Tyler Lewis Defensive Rebound.
+Butler,Missouri State,16,8,6,58,1,Andrew Chrabascz made Three Point Jumper. Assisted by Tyler Lewis.
+Butler,Missouri State,16,8,7,0,0,Missouri St  Timeout
+Butler,Missouri State,16,8,7,25,0,Obediah Church Turnover.
+Butler,Missouri State,16,8,7,25,0,Roosevelt Jones Steal.
+Butler,Missouri State,16,8,7,31,0,Andrew Chrabascz missed Layup.
+Butler,Missouri State,16,8,7,31,0,Obediah Church Block.
+Butler,Missouri State,16,8,7,31,0,Butler Offensive Rebound.
+Butler,Missouri State,18,8,7,52,1,Kelan Martin made Layup.
+Butler,Missouri State,18,8,7,52,0,Foul on Camyn Boone.
+Butler,Missouri State,18,8,7,52,0,Kelan Martin missed Free Throw.
+Butler,Missouri State,18,8,7,52,0,Obediah Church Defensive Rebound.
+Butler,Missouri State,18,10,8,12,1,Camyn Boone made Jumper.
+Butler,Missouri State,20,10,8,34,1,Roosevelt Jones made Layup. Assisted by Tyler Lewis.
+Butler,Missouri State,20,10,8,57,0,Foul on Camyn Boone.
+Butler,Missouri State,20,10,8,57,0,Camyn Boone Turnover.
+Butler,Missouri State,20,10,8,57,0,Official TV Timeout
+Butler,Missouri State,22,10,9,12,1,Kelan Martin made Jumper. Assisted by Roosevelt Jones.
+Butler,Missouri State,22,10,9,32,0,Foul on Tyler Lewis.
+Butler,Missouri State,22,10,9,32,0,Chris Kendrix missed Three Point Jumper.
+Butler,Missouri State,22,10,9,32,0,Dequon Miller Offensive Rebound.
+Butler,Missouri State,22,13,9,37,1,Chris Kendrix made Three Point Jumper. Assisted by Dorrian Williams.
+Butler,Missouri State,22,13,10,4,0,Roosevelt Jones missed Jumper.
+Butler,Missouri State,22,13,10,4,0,Roosevelt Jones Offensive Rebound.
+Butler,Missouri State,22,13,10,20,0,Jump Ball won by Butler
+Butler,Missouri State,24,13,10,25,1,Andrew Chrabascz made Layup. Assisted by Jordan Gathers.
+Butler,Missouri State,24,15,10,53,1,Dequon Miller made Jumper.
+Butler,Missouri State,24,15,11,9,0,Roosevelt Jones missed Jumper.
+Butler,Missouri State,24,15,11,9,0,Loomis Gerring Defensive Rebound.
+Butler,Missouri State,24,15,11,14,0,Dequon Miller Turnover.
+Butler,Missouri State,26,15,11,34,1,Austin Etherington made Layup. Assisted by Tyler Lewis.
+Butler,Missouri State,26,15,11,53,0,Loomis Gerring missed Jumper.
+Butler,Missouri State,26,15,11,53,0,Missouri St Offensive Rebound.
+Butler,Missouri State,26,15,11,58,0,Foul on Austin Etherington.
+Butler,Missouri State,26,15,11,58,0,Foul on Loomis Gerring.
+Butler,Missouri State,26,15,11,58,0,Loomis Gerring Turnover.
+Butler,Missouri State,28,15,12,15,1,Andrew Chrabascz made Layup. Assisted by Tyler Lewis.
+Butler,Missouri State,28,15,12,15,0,Foul on Loomis Gerring.
+Butler,Missouri State,28,15,12,15,0,Official TV Timeout
+Butler,Missouri State,29,15,12,15,1,Andrew Chrabascz made Free Throw.
+Butler,Missouri State,29,15,12,21,0,Jordan Martin Turnover.
+Butler,Missouri State,29,15,12,21,0,Tyler Lewis Steal.
+Butler,Missouri State,29,15,12,29,0,Andrew Chrabascz missed Layup.
+Butler,Missouri State,29,15,12,29,0,Jordan Martin Defensive Rebound.
+Butler,Missouri State,29,15,12,52,0,Dorrian Williams missed Jumper.
+Butler,Missouri State,29,15,12,52,0,Jordan Martin Offensive Rebound.
+Butler,Missouri State,29,15,12,57,0,Foul on Austin Etherington.
+Butler,Missouri State,29,15,12,57,0,Jordan Martin missed Free Throw.
+Butler,Missouri State,29,15,12,57,0,Missouri St Deadball Team Rebound.
+Butler,Missouri State,29,15,12,57,0,Jordan Martin missed Free Throw.
+Butler,Missouri State,29,15,12,57,0,Jackson Davis Defensive Rebound.
+Butler,Missouri State,29,15,13,16,0,Foul on Jordan Martin.
+Butler,Missouri State,30,15,13,16,1,Jackson Davis made Free Throw.
+Butler,Missouri State,31,15,13,16,1,Jackson Davis made Free Throw.
+Butler,Missouri State,31,15,13,33,0,Dequon Miller missed Jumper.
+Butler,Missouri State,31,15,13,33,0,Jackson Davis Defensive Rebound.
+Butler,Missouri State,31,15,13,56,0,Foul on Tyler McCullough.
+Butler,Missouri State,31,15,13,56,0,Andrew Chrabascz missed Free Throw.
+Butler,Missouri State,31,15,13,56,0,Butler Deadball Team Rebound.
+Butler,Missouri State,32,15,13,56,1,Andrew Chrabascz made Free Throw.
+Butler,Missouri State,32,17,14,4,1,Obediah Church made Dunk. Assisted by Austin Ruder.
+Butler,Missouri State,34,17,14,20,1,Kellen Dunham made Jumper.
+Butler,Missouri State,34,17,14,44,0,Austin Ruder missed Three Point Jumper.
+Butler,Missouri State,34,17,14,44,0,Obediah Church Offensive Rebound.
+Butler,Missouri State,34,17,14,49,0,Obediah Church Turnover.
+Butler,Missouri State,34,17,14,49,0,Andrew Chrabascz Steal.
+Butler,Missouri State,34,17,15,14,0,Andrew Chrabascz missed Three Point Jumper.
+Butler,Missouri State,34,17,15,14,0,Austin Ruder Defensive Rebound.
+Butler,Missouri State,34,17,15,31,0,Foul on Tyler McCullough.
+Butler,Missouri State,34,17,15,31,0,Tyler McCullough Turnover.
+Butler,Missouri State,36,17,15,31,1,Jackson Davis made Jumper. Assisted by Tyler Lewis.
+Butler,Missouri State,36,17,15,40,0,Tyler McCullough missed Layup.
+Butler,Missouri State,36,17,15,40,0,Tyler Lewis Defensive Rebound.
+Butler,Missouri State,36,17,16,51,0,Foul on Jarred Dixon.
+Butler,Missouri State,36,17,16,51,0,Official TV Timeout
+Butler,Missouri State,37,17,16,51,1,Kellen Dunham made Free Throw.
+Butler,Missouri State,38,17,16,51,1,Kellen Dunham made Free Throw.
+Butler,Missouri State,38,17,17,9,0,Dorrian Williams missed Jumper.
+Butler,Missouri State,38,17,17,9,0,Jackson Davis Defensive Rebound.
+Butler,Missouri State,38,17,17,13,0,Foul on Loomis Gerring.
+Butler,Missouri State,39,17,17,13,1,Jackson Davis made Free Throw.
+Butler,Missouri State,40,17,17,13,1,Jackson Davis made Free Throw.
+Butler,Missouri State,40,17,17,27,0,Foul on Jordan Gathers.
+Butler,Missouri State,40,18,17,27,1,Dequon Miller made Free Throw.
+Butler,Missouri State,40,19,17,27,1,Dequon Miller made Free Throw.
+Butler,Missouri State,42,19,17,42,1,Kelan Martin made Jumper.
+Butler,Missouri State,42,19,17,59,0,Tyler McCullough missed Jumper.
+Butler,Missouri State,42,19,17,59,0,Obediah Church Offensive Rebound.
+Butler,Missouri State,42,19,17,59,0,Obediah Church missed Two Point Tip Shot.
+Butler,Missouri State,42,19,17,59,0,Obediah Church Offensive Rebound.
+Butler,Missouri State,42,19,18,7,0,Foul on Jackson Davis.
+Butler,Missouri State,42,20,18,7,1,Obediah Church made Free Throw.
+Butler,Missouri State,42,21,18,7,1,Obediah Church made Free Throw.
+Butler,Missouri State,45,21,18,22,1,Kelan Martin made Three Point Jumper. Assisted by Roosevelt Jones.
+Butler,Missouri State,45,21,18,34,0,Jarred Dixon missed Three Point Jumper.
+Butler,Missouri State,45,21,18,34,0,Roosevelt Jones Defensive Rebound.
+Butler,Missouri State,45,21,18,41,0,Jordan Gathers missed Three Point Jumper.
+Butler,Missouri State,45,21,18,41,0,Butler Offensive Rebound.
+Butler,Missouri State,45,21,18,49,0,Jordan Gathers missed Three Point Jumper.
+Butler,Missouri State,45,21,18,49,0,Nate Fowler Offensive Rebound.
+Butler,Missouri State,45,21,18,59,0,Foul on Tyler McCullough.
+Butler,Missouri State,45,21,18,59,0,Kelan Martin missed Free Throw.
+Butler,Missouri State,45,21,18,59,0,Butler Deadball Team Rebound.
+Butler,Missouri State,46,21,18,59,1,Kelan Martin made Free Throw.
+Butler,Missouri State,46,21,19,12,0,Austin Ruder Turnover.
+Butler,Missouri State,46,21,19,12,0,Andrew Chrabascz Steal.
+Butler,Missouri State,48,21,19,18,1,Jordan Gathers made Layup. Assisted by Kelan Martin.
+Butler,Missouri State,48,21,19,47,0,Foul on Nate Fowler.
+Butler,Missouri State,48,22,19,47,1,Dequon Miller made Free Throw.
+Butler,Missouri State,48,23,19,47,1,Dequon Miller made Free Throw.
+Butler,Missouri State,48,23,19,56,0,Foul on Austin Ruder.
+Butler,Missouri State,48,23,19,56,0,Andrew Chrabascz missed Free Throw.
+Butler,Missouri State,48,23,19,56,0,Butler Deadball Team Rebound.
+Butler,Missouri State,49,23,19,56,1,Andrew Chrabascz made Free Throw.
+Butler,Missouri State,49,25,19,59,1,Dequon Miller made Jumper.
+Butler,Missouri State,49,25,20,0,0,End of 1st half
+Butler,Missouri State,49,25,20,0,0,Jump Ball won by Butler
+Butler,Missouri State,49,25,20,15,0,Tyler Wideman missed Layup.
+Butler,Missouri State,49,25,20,15,0,Andrew Chrabascz Offensive Rebound.
+Butler,Missouri State,51,25,20,30,1,Andrew Chrabascz made Layup.
+Butler,Missouri State,51,27,20,49,1,Dorrian Williams made Jumper.
+Butler,Missouri State,53,27,21,9,1,Andrew Chrabascz made Layup.
+Butler,Missouri State,53,27,21,28,0,Chris Kendrix Turnover.
+Butler,Missouri State,53,27,21,37,0,Andrew Chrabascz missed Three Point Jumper.
+Butler,Missouri State,53,27,21,37,0,Chris Kendrix Defensive Rebound.
+Butler,Missouri State,53,27,21,46,0,Chris Kendrix missed Three Point Jumper.
+Butler,Missouri State,53,27,21,46,0,Kellen Dunham Defensive Rebound.
+Butler,Missouri State,53,27,22,3,0,Foul on Obediah Church.
+Butler,Missouri State,54,27,22,3,1,Tyler Wideman made Free Throw.
+Butler,Missouri State,55,27,22,3,1,Tyler Wideman made Free Throw.
+Butler,Missouri State,55,29,22,12,1,Dequon Miller made Jumper.
+Butler,Missouri State,55,29,22,35,0,Foul on Chris Kendrix.
+Butler,Missouri State,55,29,22,38,0,Tyler Lewis missed Jumper.
+Butler,Missouri State,55,29,22,38,0,Missouri St Defensive Rebound.
+Butler,Missouri State,55,29,22,50,0,Camyn Boone missed Jumper.
+Butler,Missouri State,55,29,22,50,0,Roosevelt Jones Defensive Rebound.
+Butler,Missouri State,55,29,22,58,0,Roosevelt Jones missed Layup.
+Butler,Missouri State,55,29,22,58,0,Camyn Boone Defensive Rebound.
+Butler,Missouri State,55,31,23,9,1,Obediah Church made Dunk. Assisted by Dequon Miller.
+Butler,Missouri State,55,31,23,31,0,Foul on Kellen Dunham.
+Butler,Missouri State,55,31,23,31,0,Kellen Dunham Turnover.
+Butler,Missouri State,55,33,23,45,1,Dorrian Williams made Jumper.
+Butler,Missouri State,57,33,24,6,1,Andrew Chrabascz made Layup. Assisted by Tyler Lewis.
+Butler,Missouri State,57,33,24,25,0,Dequon Miller missed Three Point Jumper.
+Butler,Missouri State,57,33,24,25,0,Andrew Chrabascz Defensive Rebound.
+Butler,Missouri State,59,33,24,32,1,Tyler Wideman made Layup. Assisted by Tyler Lewis.
+Butler,Missouri State,59,33,24,55,0,Foul on Andrew Chrabascz.
+Butler,Missouri State,59,33,24,55,0,Official TV Timeout
+Butler,Missouri State,59,34,24,55,1,Camyn Boone made Free Throw.
+Butler,Missouri State,59,34,24,55,0,Camyn Boone missed Free Throw.
+Butler,Missouri State,59,34,24,55,0,Roosevelt Jones Defensive Rebound.
+Butler,Missouri State,62,34,25,5,1,Kellen Dunham made Three Point Jumper. Assisted by Roosevelt Jones.
+Butler,Missouri State,62,34,25,34,0,Jordan Martin missed Jumper.
+Butler,Missouri State,62,34,25,34,0,Roosevelt Jones Defensive Rebound.
+Butler,Missouri State,62,34,25,39,0,Roosevelt Jones Turnover.
+Butler,Missouri State,62,34,25,39,0,Dorrian Williams Steal.
+Butler,Missouri State,62,36,25,46,1,Chris Kendrix made Layup. Assisted by Dorrian Williams.
+Butler,Missouri State,64,36,26,8,1,Tyler Wideman made Layup. Assisted by Kellen Dunham.
+Butler,Missouri State,64,36,26,24,0,Dorrian Williams missed Jumper.
+Butler,Missouri State,64,36,26,24,0,Butler Defensive Rebound.
+Butler,Missouri State,64,36,26,25,0,Foul on Jordan Martin.
+Butler,Missouri State,64,36,26,44,0,Kelan Martin Turnover.
+Butler,Missouri State,64,38,26,48,1,Jordan Martin made Layup.
+Butler,Missouri State,64,38,27,11,0,Foul on Austin Ruder.
+Butler,Missouri State,65,38,27,11,1,Tyler Wideman made Free Throw.
+Butler,Missouri State,65,38,27,11,0,Tyler Wideman missed Free Throw.
+Butler,Missouri State,65,38,27,11,0,Austin Etherington Offensive Rebound.
+Butler,Missouri State,68,38,27,19,1,Kelan Martin made Three Point Jumper. Assisted by Tyler Lewis.
+Butler,Missouri State,68,38,27,43,0,Foul on Kelan Martin.
+Butler,Missouri State,68,38,27,43,0,Jordan Martin missed Free Throw.
+Butler,Missouri State,68,38,27,43,0,Missouri St Deadball Team Rebound.
+Butler,Missouri State,68,38,27,43,0,Jordan Martin missed Free Throw.
+Butler,Missouri State,68,38,27,43,0,Jordan Martin Offensive Rebound.
+Butler,Missouri State,68,38,27,51,0,Dequon Miller missed Jumper.
+Butler,Missouri State,68,38,27,51,0,Loomis Gerring Offensive Rebound.
+Butler,Missouri State,68,38,27,59,0,Foul on Tyler Wideman.
+Butler,Missouri State,68,38,27,59,0,Jarred Dixon missed Free Throw.
+Butler,Missouri State,68,38,27,59,0,Missouri St Deadball Team Rebound.
+Butler,Missouri State,68,39,27,59,1,Jarred Dixon made Free Throw.
+Butler,Missouri State,70,39,28,0,1,Kellen Dunham made Layup. Assisted by Tyler Lewis.
+Butler,Missouri State,70,39,28,7,0,Jarred Dixon Turnover.
+Butler,Missouri State,70,39,28,7,0,Tyler Lewis Steal.
+Butler,Missouri State,72,39,28,10,1,Tyler Lewis made Layup.
+Butler,Missouri State,72,39,28,43,0,Foul on Austin Etherington.
+Butler,Missouri State,72,39,28,43,0,Official TV Timeout
+Butler,Missouri State,72,39,28,51,0,Foul on Andrew Chrabascz.
+Butler,Missouri State,72,39,28,54,0,Jarred Dixon missed Three Point Jumper.
+Butler,Missouri State,72,39,28,54,0,Kelan Martin Defensive Rebound.
+Butler,Missouri State,72,39,29,6,0,Roosevelt Jones missed Layup.
+Butler,Missouri State,72,39,29,6,0,Roosevelt Jones Offensive Rebound.
+Butler,Missouri State,74,39,29,6,1,Roosevelt Jones made Two Point Tip Shot.
+Butler,Missouri State,74,39,29,18,0,Austin Ruder missed Jumper.
+Butler,Missouri State,74,39,29,18,0,Jarred Dixon Offensive Rebound.
+Butler,Missouri State,74,39,29,31,0,Dequon Miller missed Jumper.
+Butler,Missouri State,74,39,29,31,0,Butler Defensive Rebound.
+Butler,Missouri State,74,39,29,33,0,Foul on Loomis Gerring.
+Butler,Missouri State,77,39,29,54,1,Jordan Gathers made Three Point Jumper. Assisted by Kelan Martin.
+Butler,Missouri State,77,39,30,11,0,Foul on Kelan Martin.
+Butler,Missouri State,77,40,30,11,1,Jarred Dixon made Free Throw.
+Butler,Missouri State,77,41,30,11,1,Jarred Dixon made Free Throw.
+Butler,Missouri State,77,41,30,27,0,Foul on Obediah Church.
+Butler,Missouri State,78,41,30,27,1,Jackson Davis made Free Throw.
+Butler,Missouri State,78,41,30,27,0,Jackson Davis missed Free Throw.
+Butler,Missouri State,78,41,30,27,0,Austin Ruder Defensive Rebound.
+Butler,Missouri State,78,43,30,35,1,Jarred Dixon made Layup.
+Butler,Missouri State,78,43,30,35,0,Foul on Kelan Martin.
+Butler,Missouri State,78,44,30,35,1,Jarred Dixon made Free Throw.
+Butler,Missouri State,78,44,31,2,0,Foul on Jackson Davis.
+Butler,Missouri State,78,44,31,2,0,Jackson Davis Turnover.
+Butler,Missouri State,78,44,31,14,0,Austin Ruder missed Jumper.
+Butler,Missouri State,78,44,31,14,0,Roosevelt Jones Defensive Rebound.
+Butler,Missouri State,80,44,31,26,1,Jackson Davis made Layup. Assisted by Andrew Chrabascz.
+Butler,Missouri State,80,46,31,40,1,Jarred Dixon made Jumper.
+Butler,Missouri State,80,46,32,9,0,Foul on Austin Ruder.
+Butler,Missouri State,80,46,32,9,0,Official TV Timeout
+Butler,Missouri State,80,46,32,9,0,Kelan Martin missed Free Throw.
+Butler,Missouri State,80,46,32,9,0,Butler Deadball Team Rebound.
+Butler,Missouri State,81,46,32,9,1,Kelan Martin made Free Throw.
+Butler,Missouri State,81,49,32,15,1,Jarred Dixon made Three Point Jumper.
+Butler,Missouri State,81,49,32,36,0,Foul on Jackson Davis.
+Butler,Missouri State,81,49,32,36,0,Jackson Davis Turnover.
+Butler,Missouri State,81,49,33,4,0,Dequon Miller missed Jumper.
+Butler,Missouri State,81,49,33,4,0,Nate Fowler Defensive Rebound.
+Butler,Missouri State,81,49,33,22,0,Jordan Gathers missed Jumper.
+Butler,Missouri State,81,49,33,22,0,Butler Offensive Rebound.
+Butler,Missouri State,81,49,33,31,0,Foul on Chris Kendrix.
+Butler,Missouri State,82,49,33,31,1,Kelan Martin made Free Throw.
+Butler,Missouri State,83,49,33,31,1,Kelan Martin made Free Throw.
+Butler,Missouri State,83,49,33,48,0,Foul on Nate Fowler.
+Butler,Missouri State,83,49,33,48,0,Obediah Church missed Free Throw.
+Butler,Missouri State,83,49,33,48,0,Missouri St Deadball Team Rebound.
+Butler,Missouri State,83,49,33,48,0,Obediah Church missed Free Throw.
+Butler,Missouri State,83,49,33,48,0,Chris Kendrix Offensive Rebound.
+Butler,Missouri State,83,49,33,52,0,Chris Kendrix missed Layup.
+Butler,Missouri State,83,49,33,52,0,Tyler Wideman Block.
+Butler,Missouri State,83,49,33,52,0,Kelan Martin Defensive Rebound.
+Butler,Missouri State,85,49,34,3,1,Kelan Martin made Layup.
+Butler,Missouri State,85,49,34,7,0,Camyn Boone missed Layup.
+Butler,Missouri State,85,49,34,7,0,Missouri St Offensive Rebound.
+Butler,Missouri State,85,49,34,7,0,Foul on Austin Etherington.
+Butler,Missouri State,85,49,34,7,0,Obediah Church missed Free Throw.
+Butler,Missouri State,85,49,34,7,0,Missouri St Deadball Team Rebound.
+Butler,Missouri State,85,50,34,7,1,Obediah Church made Free Throw.
+Butler,Missouri State,85,50,34,29,0,Tyler Wideman missed Jumper.
+Butler,Missouri State,85,50,34,29,0,Camyn Boone Defensive Rebound.
+Butler,Missouri State,85,52,34,38,1,Chris Kendrix made Layup. Assisted by Dequon Miller.
+Butler,Missouri State,85,52,34,53,0,Kelan Martin missed Three Point Jumper.
+Butler,Missouri State,85,52,34,53,0,Dequon Miller Defensive Rebound.
+Butler,Missouri State,85,52,35,4,0,Camyn Boone missed Layup.
+Butler,Missouri State,85,52,35,4,0,Obediah Church Offensive Rebound.
+Butler,Missouri State,85,54,35,10,1,Obediah Church made Layup.
+Butler,Missouri State,85,54,35,26,0,Austin Etherington Turnover.
+Butler,Missouri State,85,54,35,34,0,Dequon Miller missed Three Point Jumper.
+Butler,Missouri State,85,54,35,34,0,Missouri St Offensive Rebound.
+Butler,Missouri State,85,54,35,39,0,Foul on Tyler Wideman.
+Butler,Missouri State,85,55,35,39,1,Jordan Martin made Free Throw.
+Butler,Missouri State,85,55,35,39,0,Jordan Martin missed Free Throw.
+Butler,Missouri State,85,55,35,39,0,Missouri St Offensive Rebound.
+Butler,Missouri State,85,55,35,44,0,Jarred Dixon missed Three Point Jumper.
+Butler,Missouri State,85,55,35,44,0,Kelan Martin Defensive Rebound.
+Butler,Missouri State,88,55,36,2,1,Trey Pettus made Three Point Jumper. Assisted by Austin Etherington.
+Butler,Missouri State,88,55,36,17,0,Official TV Timeout
+Butler,Missouri State,88,55,36,32,0,Foul on Nate Fowler.
+Butler,Missouri State,88,55,36,32,0,Obediah Church missed Free Throw.
+Butler,Missouri State,88,55,36,32,0,Missouri St Deadball Team Rebound.
+Butler,Missouri State,88,55,36,32,0,Obediah Church missed Free Throw.
+Butler,Missouri State,88,55,36,32,0,Butler Defensive Rebound.
+Butler,Missouri State,88,55,36,51,0,Jordan Gathers missed Three Point Jumper.
+Butler,Missouri State,88,55,36,51,0,Dequon Miller Defensive Rebound.
+Butler,Missouri State,88,55,37,0,0,Chris Kendrix missed Three Point Jumper.
+Butler,Missouri State,88,55,37,0,0,Nate Fowler Defensive Rebound.
+Butler,Missouri State,88,55,37,12,0,Jordan Gathers missed Layup.
+Butler,Missouri State,88,55,37,12,0,Jarred Dixon Defensive Rebound.
+Butler,Missouri State,88,57,37,26,1,Jordan Martin made Layup.
+Butler,Missouri State,88,57,37,45,0,Austin Etherington missed Three Point Jumper.
+Butler,Missouri State,88,57,37,45,0,Dequon Miller Defensive Rebound.
+Butler,Missouri State,88,57,37,57,0,Foul on Jordan Gathers.
+Butler,Missouri State,88,58,37,57,1,Dequon Miller made Free Throw.
+Butler,Missouri State,88,59,37,57,1,Dequon Miller made Free Throw.
+Butler,Missouri State,88,59,38,5,0,Foul on Jordan Martin.
+Butler,Missouri State,88,59,38,5,0,Nate Fowler missed Free Throw.
+Butler,Missouri State,88,59,38,5,0,Jordan Martin Defensive Rebound.
+Butler,Missouri State,88,59,38,11,0,Shawn Roundtree missed Jumper.
+Butler,Missouri State,88,59,38,11,0,Austin Etherington Defensive Rebound.
+Butler,Missouri State,88,59,38,43,0,Foul on Tyler McCullough.
+Butler,Missouri State,88,59,38,43,0,Jordan Gathers missed Free Throw.
+Butler,Missouri State,88,59,38,43,0,Butler Deadball Team Rebound.
+Butler,Missouri State,88,59,38,43,0,Jordan Gathers missed Free Throw.
+Butler,Missouri State,88,59,38,43,0,Missouri St Defensive Rebound.
+Butler,Missouri State,88,59,38,52,0,Jarred Dixon missed Jumper.
+Butler,Missouri State,88,59,38,52,0,Austin Etherington Defensive Rebound.
+Butler,Missouri State,91,59,39,10,1,Austin Etherington made Three Point Jumper. Assisted by Steven Bennett.
+Butler,Missouri State,91,59,39,24,0,Austin Ruder missed Three Point Jumper.
+Butler,Missouri State,91,59,39,24,0,Austin Etherington Defensive Rebound.
+Butler,Missouri State,93,59,39,50,1,Austin Etherington made Layup. Assisted by Trey Pettus.
+Butler,Missouri State,93,59,39,55,0,Shawn Roundtree missed Layup.
+Butler,Missouri State,93,59,39,55,0,Nate Fowler Defensive Rebound.
+Butler,Missouri State,93,59,40,0,0,End of Game

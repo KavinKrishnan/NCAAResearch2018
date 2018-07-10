@@ -1,0 +1,407 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Belmont,Tennessee Tech,0,2,0,15,1,Javon McKay made Layup. Assisted by Dennis Ogbe.
+Belmont,Tennessee Tech,2,2,0,57,1,Drew Windler made Jumper.
+Belmont,Tennessee Tech,2,2,1,28,0,Jeremiah Samarrippas Turnover.
+Belmont,Tennessee Tech,2,2,1,28,0,Drew Windler Steal.
+Belmont,Tennessee Tech,5,2,1,33,1,J.J. Mann made Three Point Jumper. Assisted by Reece Chamberlain.
+Belmont,Tennessee Tech,5,2,1,47,0,Foul on Blake Jenkins.
+Belmont,Tennessee Tech,5,3,1,47,1,Dwan Caldwell made Free Throw.
+Belmont,Tennessee Tech,5,4,1,47,1,Dwan Caldwell made Free Throw.
+Belmont,Tennessee Tech,5,4,1,52,0,Foul on Jordan Johnson.
+Belmont,Tennessee Tech,8,4,2,7,1,Craig Bradshaw made Three Point Jumper. Assisted by Reece Chamberlain.
+Belmont,Tennessee Tech,8,4,2,18,0,Foul on Dennis Ogbe.
+Belmont,Tennessee Tech,8,4,2,18,0,Dennis Ogbe Turnover.
+Belmont,Tennessee Tech,8,4,2,37,0,Blake Jenkins Turnover.
+Belmont,Tennessee Tech,8,4,2,38,0,Dwan Caldwell Steal.
+Belmont,Tennessee Tech,8,4,2,49,0,Jeremiah Samarrippas Turnover.
+Belmont,Tennessee Tech,8,4,2,49,0,Drew Windler Steal.
+Belmont,Tennessee Tech,8,4,2,58,0,Reece Chamberlain missed Jumper.
+Belmont,Tennessee Tech,8,4,2,58,0,Dwan Caldwell Defensive Rebound.
+Belmont,Tennessee Tech,8,4,3,22,0,Jordan Johnson missed Three Point Jumper.
+Belmont,Tennessee Tech,8,4,3,22,0,Drew Windler Defensive Rebound.
+Belmont,Tennessee Tech,8,4,3,29,0,Reece Chamberlain Turnover.
+Belmont,Tennessee Tech,8,4,3,30,0,Jeremiah Samarrippas Steal.
+Belmont,Tennessee Tech,8,4,3,36,0,Jordan Johnson missed Three Point Jumper.
+Belmont,Tennessee Tech,8,4,3,36,0,Javon McKay Offensive Rebound.
+Belmont,Tennessee Tech,8,4,3,39,0,Javon McKay missed Layup.
+Belmont,Tennessee Tech,8,4,3,39,0,Blake Jenkins Block.
+Belmont,Tennessee Tech,8,4,3,41,0,Matt Marseille Offensive Rebound.
+Belmont,Tennessee Tech,8,4,3,43,0,Matt Marseille missed Layup.
+Belmont,Tennessee Tech,8,4,3,43,0,Dwan Caldwell Offensive Rebound.
+Belmont,Tennessee Tech,8,4,3,45,0,Dwan Caldwell missed Layup.
+Belmont,Tennessee Tech,8,4,3,45,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,8,4,3,48,0,Foul on Matt Marseille.
+Belmont,Tennessee Tech,10,4,3,58,1,Reece Chamberlain made Layup.
+Belmont,Tennessee Tech,10,4,4,26,0,Foul on Drew Windler.
+Belmont,Tennessee Tech,10,4,4,26,0,Official TV Timeout
+Belmont,Tennessee Tech,10,4,4,26,0,Matt Marseille missed Free Throw.
+Belmont,Tennessee Tech,10,4,4,26,0,Tennessee Tech Deadball Team Rebound.
+Belmont,Tennessee Tech,10,5,4,26,1,Matt Marseille made Free Throw.
+Belmont,Tennessee Tech,10,5,4,37,0,Foul on Shirmane Thomas.
+Belmont,Tennessee Tech,10,5,4,45,0,J.J. Mann missed Three Point Jumper.
+Belmont,Tennessee Tech,10,5,4,45,0,Reece Chamberlain Offensive Rebound.
+Belmont,Tennessee Tech,10,5,4,51,0,Foul on Javon McKay.
+Belmont,Tennessee Tech,13,5,5,5,1,Craig Bradshaw made Three Point Jumper. Assisted by Evan Bradds.
+Belmont,Tennessee Tech,13,5,5,29,0,Foul on Shirmane Thomas.
+Belmont,Tennessee Tech,13,5,5,29,0,Shirmane Thomas Turnover.
+Belmont,Tennessee Tech,13,5,5,37,0,Reece Chamberlain missed Layup.
+Belmont,Tennessee Tech,13,5,5,37,0,Josiah Moore Defensive Rebound.
+Belmont,Tennessee Tech,13,5,5,49,0,Jeremiah Samarrippas missed Three Point Jumper.
+Belmont,Tennessee Tech,13,5,5,49,0,Belmont University Defensive Rebound.
+Belmont,Tennessee Tech,15,5,6,20,1,Evan Bradds made Layup.
+Belmont,Tennessee Tech,15,5,6,42,0,Javon McKay Turnover.
+Belmont,Tennessee Tech,15,5,6,50,0,Drew Windler Turnover.
+Belmont,Tennessee Tech,15,5,6,50,0,Foul on Drew Windler.
+Belmont,Tennessee Tech,15,7,7,2,1,Josiah Moore made Jumper.
+Belmont,Tennessee Tech,17,7,7,23,1,Craig Bradshaw made Layup. Assisted by J.J. Mann.
+Belmont,Tennessee Tech,17,7,7,38,0,Anthony Morse missed Layup.
+Belmont,Tennessee Tech,17,7,7,38,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,17,7,7,51,0,Evan Bradds missed Layup.
+Belmont,Tennessee Tech,17,7,7,51,0,Dennis Ogbe Defensive Rebound.
+Belmont,Tennessee Tech,17,10,8,1,1,Dennis Ogbe made Three Point Jumper. Assisted by Jeremiah Samarrippas.
+Belmont,Tennessee Tech,17,10,8,17,0,Craig Bradshaw missed Jumper.
+Belmont,Tennessee Tech,17,10,8,17,0,Jeremiah Samarrippas Defensive Rebound.
+Belmont,Tennessee Tech,17,10,8,22,0,Jeremiah Samarrippas missed Layup.
+Belmont,Tennessee Tech,17,10,8,22,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,17,10,8,51,0,Foul on Jeremiah Samarrippas.
+Belmont,Tennessee Tech,17,10,8,51,0,Official TV Timeout
+Belmont,Tennessee Tech,18,10,8,51,1,Craig Bradshaw made Free Throw.
+Belmont,Tennessee Tech,19,10,8,51,1,Craig Bradshaw made Free Throw.
+Belmont,Tennessee Tech,19,10,9,4,0,Josiah Moore missed Jumper.
+Belmont,Tennessee Tech,19,10,9,4,0,Reece Chamberlain Defensive Rebound.
+Belmont,Tennessee Tech,19,10,9,34,0,Spencer Turner Turnover.
+Belmont,Tennessee Tech,19,12,9,49,1,Josiah Moore made Layup.
+Belmont,Tennessee Tech,19,12,10,2,0,Reece Chamberlain Turnover.
+Belmont,Tennessee Tech,19,14,10,16,1,Dwan Caldwell made Jumper. Assisted by Josiah Moore.
+Belmont,Tennessee Tech,19,14,10,34,0,Nick Smith missed Three Point Jumper.
+Belmont,Tennessee Tech,19,14,10,34,0,Jordan Johnson Defensive Rebound.
+Belmont,Tennessee Tech,19,14,10,45,0,Foul on Caleb Chowbay.
+Belmont,Tennessee Tech,19,16,10,50,1,Dennis Ogbe made Layup.
+Belmont,Tennessee Tech,19,16,11,25,0,Evan Bradds missed Layup.
+Belmont,Tennessee Tech,19,16,11,25,0,Josiah Moore Block.
+Belmont,Tennessee Tech,19,16,11,26,0,Evan Bradds Offensive Rebound.
+Belmont,Tennessee Tech,21,16,11,29,1,Evan Bradds made Layup.
+Belmont,Tennessee Tech,21,16,11,44,0,Dennis Ogbe missed Three Point Jumper.
+Belmont,Tennessee Tech,21,16,11,44,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,21,16,11,56,0,Reece Chamberlain missed Layup.
+Belmont,Tennessee Tech,21,16,11,56,0,DeOndre Haynes Defensive Rebound.
+Belmont,Tennessee Tech,21,16,12,6,0,Jordan Johnson missed Layup.
+Belmont,Tennessee Tech,21,16,12,6,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,21,16,12,11,0,Foul on Jordan Johnson.
+Belmont,Tennessee Tech,21,16,12,11,0,Official TV Timeout
+Belmont,Tennessee Tech,22,16,12,11,1,Reece Chamberlain made Free Throw.
+Belmont,Tennessee Tech,23,16,12,11,1,Reece Chamberlain made Free Throw.
+Belmont,Tennessee Tech,23,19,12,27,1,Josiah Moore made Three Point Jumper. Assisted by Javon McKay.
+Belmont,Tennessee Tech,23,19,12,50,0,Reece Chamberlain missed Layup.
+Belmont,Tennessee Tech,23,19,12,50,0,Matt Marseille Defensive Rebound.
+Belmont,Tennessee Tech,23,19,12,57,0,DeOndre Haynes missed Layup.
+Belmont,Tennessee Tech,23,19,12,57,0,Tennessee Tech Offensive Rebound.
+Belmont,Tennessee Tech,23,19,13,3,0,Foul on Evan Bradds.
+Belmont,Tennessee Tech,23,20,13,3,1,Javon McKay made Free Throw.
+Belmont,Tennessee Tech,23,21,13,3,1,Javon McKay made Free Throw.
+Belmont,Tennessee Tech,23,21,13,11,0,Craig Bradshaw Turnover.
+Belmont,Tennessee Tech,23,23,13,38,1,DeOndre Haynes made Layup.
+Belmont,Tennessee Tech,23,23,13,50,0,Foul on Matt Marseille.
+Belmont,Tennessee Tech,24,23,13,50,1,Blake Jenkins made Free Throw.
+Belmont,Tennessee Tech,24,23,13,50,0,Blake Jenkins missed Free Throw.
+Belmont,Tennessee Tech,24,23,13,50,0,Josiah Moore Defensive Rebound.
+Belmont,Tennessee Tech,24,23,14,0,0,DeOndre Haynes missed Layup.
+Belmont,Tennessee Tech,24,23,14,0,0,Blake Jenkins Defensive Rebound.
+Belmont,Tennessee Tech,24,23,14,9,0,Reece Chamberlain missed Three Point Jumper.
+Belmont,Tennessee Tech,24,23,14,9,0,Javon McKay Defensive Rebound.
+Belmont,Tennessee Tech,24,23,14,27,0,Foul on Reece Chamberlain.
+Belmont,Tennessee Tech,24,23,14,27,0,Tennessee Tech  Timeout
+Belmont,Tennessee Tech,24,23,14,29,0,Dwan Caldwell missed Layup.
+Belmont,Tennessee Tech,24,23,14,29,0,Belmont University Defensive Rebound.
+Belmont,Tennessee Tech,24,23,14,45,0,Foul on Dennis Ogbe.
+Belmont,Tennessee Tech,24,23,14,45,0,Evan Bradds missed Free Throw.
+Belmont,Tennessee Tech,24,23,14,45,0,Belmont University Deadball Team Rebound.
+Belmont,Tennessee Tech,25,23,14,45,1,Evan Bradds made Free Throw.
+Belmont,Tennessee Tech,25,26,15,2,1,Josiah Moore made Three Point Jumper. Assisted by Javon McKay.
+Belmont,Tennessee Tech,25,26,15,18,0,Craig Bradshaw missed Three Point Jumper.
+Belmont,Tennessee Tech,25,26,15,18,0,Josiah Moore Defensive Rebound.
+Belmont,Tennessee Tech,25,26,15,21,0,Foul on Evan Bradds.
+Belmont,Tennessee Tech,25,27,15,21,1,Dwan Caldwell made Free Throw.
+Belmont,Tennessee Tech,25,28,15,21,1,Dwan Caldwell made Free Throw.
+Belmont,Tennessee Tech,25,28,15,39,0,J.J. Mann Turnover.
+Belmont,Tennessee Tech,25,28,15,40,0,DeOndre Haynes Steal.
+Belmont,Tennessee Tech,25,31,15,46,1,Josiah Moore made Three Point Jumper. Assisted by DeOndre Haynes.
+Belmont,Tennessee Tech,25,31,15,48,0,Belmont University  Timeout
+Belmont,Tennessee Tech,27,31,15,57,1,Reece Chamberlain made Layup.
+Belmont,Tennessee Tech,27,34,16,18,1,Javon McKay made Three Point Jumper. Assisted by DeOndre Haynes.
+Belmont,Tennessee Tech,27,34,16,35,0,Foul on Javon McKay.
+Belmont,Tennessee Tech,27,34,16,35,0,Official TV Timeout
+Belmont,Tennessee Tech,28,34,16,35,1,Craig Bradshaw made Free Throw.
+Belmont,Tennessee Tech,29,34,16,35,1,Craig Bradshaw made Free Throw.
+Belmont,Tennessee Tech,29,34,16,46,0,Josiah Moore missed Three Point Jumper.
+Belmont,Tennessee Tech,29,34,16,46,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,29,34,16,58,0,J.J. Mann Turnover.
+Belmont,Tennessee Tech,29,34,17,0,0,Josiah Moore Steal.
+Belmont,Tennessee Tech,29,34,17,0,0,Tennessee Tech  Timeout
+Belmont,Tennessee Tech,29,34,17,12,0,Foul on Chad Lang.
+Belmont,Tennessee Tech,29,35,17,12,1,Matt Marseille made Free Throw.
+Belmont,Tennessee Tech,29,36,17,12,1,Matt Marseille made Free Throw.
+Belmont,Tennessee Tech,29,36,17,33,0,Blake Jenkins missed Layup.
+Belmont,Tennessee Tech,29,36,17,33,0,Dwan Caldwell Defensive Rebound.
+Belmont,Tennessee Tech,29,36,17,50,0,Matt Marseille Turnover.
+Belmont,Tennessee Tech,29,36,18,2,0,J.J. Mann missed Three Point Jumper.
+Belmont,Tennessee Tech,29,36,18,2,0,DeOndre Haynes Defensive Rebound.
+Belmont,Tennessee Tech,29,36,18,29,0,Dwan Caldwell missed Jumper.
+Belmont,Tennessee Tech,29,36,18,29,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,29,36,18,55,0,Jeff Laidig missed Three Point Jumper.
+Belmont,Tennessee Tech,29,36,18,55,0,Reece Chamberlain Offensive Rebound.
+Belmont,Tennessee Tech,29,36,19,0,0,Reece Chamberlain missed Layup.
+Belmont,Tennessee Tech,29,36,19,0,0,Dwan Caldwell Defensive Rebound.
+Belmont,Tennessee Tech,29,36,19,15,0,Foul on Blake Jenkins.
+Belmont,Tennessee Tech,29,36,19,15,0,DeOndre Haynes missed Free Throw.
+Belmont,Tennessee Tech,29,36,19,15,0,Tennessee Tech Deadball Team Rebound.
+Belmont,Tennessee Tech,29,36,19,15,0,DeOndre Haynes missed Free Throw.
+Belmont,Tennessee Tech,29,36,19,15,0,Craig Bradshaw Defensive Rebound.
+Belmont,Tennessee Tech,29,36,19,34,0,Craig Bradshaw Turnover.
+Belmont,Tennessee Tech,29,36,19,50,0,DeOndre Haynes Turnover.
+Belmont,Tennessee Tech,32,36,19,59,1,J.J. Mann made Three Point Jumper. Assisted by Drew Windler.
+Belmont,Tennessee Tech,32,36,20,0,0,End of 1st half
+Belmont,Tennessee Tech,32,36,20,21,0,J.J. Mann Turnover.
+Belmont,Tennessee Tech,32,36,20,22,0,Javon McKay Steal.
+Belmont,Tennessee Tech,32,38,20,24,1,Javon McKay made Dunk.
+Belmont,Tennessee Tech,32,38,20,25,0,Foul on Craig Bradshaw.
+Belmont,Tennessee Tech,32,39,20,25,1,Javon McKay made Free Throw.
+Belmont,Tennessee Tech,32,39,20,39,0,Drew Windler missed Three Point Jumper.
+Belmont,Tennessee Tech,32,39,20,39,0,Jeremiah Samarrippas Defensive Rebound.
+Belmont,Tennessee Tech,32,39,20,45,0,Foul on Dennis Ogbe.
+Belmont,Tennessee Tech,32,39,20,45,0,Dennis Ogbe Turnover.
+Belmont,Tennessee Tech,35,39,20,54,1,Drew Windler made Three Point Jumper. Assisted by Craig Bradshaw.
+Belmont,Tennessee Tech,35,39,21,22,0,Dwan Caldwell missed Layup.
+Belmont,Tennessee Tech,35,39,21,22,0,Blake Jenkins Defensive Rebound.
+Belmont,Tennessee Tech,37,39,21,34,1,J.J. Mann made Jumper.
+Belmont,Tennessee Tech,37,39,21,50,0,Foul on Blake Jenkins.
+Belmont,Tennessee Tech,37,39,21,51,0,Jeremiah Samarrippas missed Three Point Jumper.
+Belmont,Tennessee Tech,37,39,21,51,0,Craig Bradshaw Defensive Rebound.
+Belmont,Tennessee Tech,39,39,21,57,1,Craig Bradshaw made Layup.
+Belmont,Tennessee Tech,39,39,22,7,0,Jordan Johnson Turnover.
+Belmont,Tennessee Tech,39,39,22,17,0,Reece Chamberlain missed Layup.
+Belmont,Tennessee Tech,39,39,22,17,0,Evan Bradds Offensive Rebound.
+Belmont,Tennessee Tech,39,39,22,20,0,Evan Bradds missed Two Point Tip Shot.
+Belmont,Tennessee Tech,39,39,22,20,0,Javon McKay Defensive Rebound.
+Belmont,Tennessee Tech,39,41,22,30,1,Dwan Caldwell made Layup. Assisted by Jeremiah Samarrippas.
+Belmont,Tennessee Tech,39,41,22,37,0,J.J. Mann missed Three Point Jumper.
+Belmont,Tennessee Tech,39,41,22,37,0,Jeremiah Samarrippas Defensive Rebound.
+Belmont,Tennessee Tech,39,41,22,48,0,Foul on Evan Bradds.
+Belmont,Tennessee Tech,39,41,22,48,0,Dwan Caldwell missed Free Throw.
+Belmont,Tennessee Tech,39,41,22,48,0,Tennessee Tech Deadball Team Rebound.
+Belmont,Tennessee Tech,39,41,22,48,0,Dwan Caldwell missed Free Throw.
+Belmont,Tennessee Tech,39,41,22,48,0,Javon McKay Offensive Rebound.
+Belmont,Tennessee Tech,39,41,22,55,0,Jeremiah Samarrippas missed Three Point Jumper.
+Belmont,Tennessee Tech,39,41,22,55,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,39,41,23,7,0,Drew Windler Turnover.
+Belmont,Tennessee Tech,39,41,23,7,0,Dwan Caldwell Steal.
+Belmont,Tennessee Tech,39,41,23,7,0,Tennessee Tech  Timeout
+Belmont,Tennessee Tech,39,41,23,22,0,Foul on Craig Bradshaw.
+Belmont,Tennessee Tech,39,41,23,29,0,Matt Marseille Turnover.
+Belmont,Tennessee Tech,39,41,23,30,0,J.J. Mann Steal.
+Belmont,Tennessee Tech,42,41,23,39,1,Nick Smith made Three Point Jumper. Assisted by J.J. Mann.
+Belmont,Tennessee Tech,42,41,23,49,0,Foul on Nick Smith.
+Belmont,Tennessee Tech,42,43,24,15,1,Jeremiah Samarrippas made Layup.
+Belmont,Tennessee Tech,42,43,24,28,0,Craig Bradshaw missed Layup.
+Belmont,Tennessee Tech,42,43,24,28,0,Javon McKay Block.
+Belmont,Tennessee Tech,42,43,24,30,0,Jeremiah Samarrippas Defensive Rebound.
+Belmont,Tennessee Tech,42,43,24,33,0,Jeremiah Samarrippas missed Layup.
+Belmont,Tennessee Tech,42,43,24,33,0,Reece Chamberlain Block.
+Belmont,Tennessee Tech,42,43,24,35,0,Josiah Moore Offensive Rebound.
+Belmont,Tennessee Tech,42,43,24,35,0,Foul on J.J. Mann.
+Belmont,Tennessee Tech,42,43,24,35,0,Official TV Timeout
+Belmont,Tennessee Tech,42,44,24,35,1,Josiah Moore made Free Throw.
+Belmont,Tennessee Tech,42,45,24,35,1,Josiah Moore made Free Throw.
+Belmont,Tennessee Tech,42,45,25,2,0,Drew Windler missed Layup.
+Belmont,Tennessee Tech,42,45,25,2,0,Reece Chamberlain Offensive Rebound.
+Belmont,Tennessee Tech,42,45,25,8,0,J.J. Mann missed Three Point Jumper.
+Belmont,Tennessee Tech,42,45,25,8,0,Drew Windler Offensive Rebound.
+Belmont,Tennessee Tech,42,45,25,17,0,Foul on DeOndre Haynes.
+Belmont,Tennessee Tech,42,45,25,21,0,Foul on Dwan Caldwell.
+Belmont,Tennessee Tech,42,45,25,21,0,Drew Windler missed Free Throw.
+Belmont,Tennessee Tech,42,45,25,21,0,Belmont University Deadball Team Rebound.
+Belmont,Tennessee Tech,43,45,25,21,1,Drew Windler made Free Throw.
+Belmont,Tennessee Tech,43,45,25,34,0,Josiah Moore missed Three Point Jumper.
+Belmont,Tennessee Tech,43,45,25,34,0,Craig Bradshaw Defensive Rebound.
+Belmont,Tennessee Tech,43,45,25,42,0,Foul on Shirmane Thomas.
+Belmont,Tennessee Tech,44,45,25,42,1,Craig Bradshaw made Free Throw.
+Belmont,Tennessee Tech,44,45,25,42,0,Craig Bradshaw missed Free Throw.
+Belmont,Tennessee Tech,44,45,25,42,0,Shirmane Thomas Defensive Rebound.
+Belmont,Tennessee Tech,44,47,26,9,1,Dwan Caldwell made Layup. Assisted by Jeremiah Samarrippas.
+Belmont,Tennessee Tech,44,47,26,26,0,Foul on DeOndre Haynes.
+Belmont,Tennessee Tech,44,47,26,36,0,Drew Windler missed Layup.
+Belmont,Tennessee Tech,44,47,26,36,0,Dwan Caldwell Block.
+Belmont,Tennessee Tech,44,47,26,37,0,Shirmane Thomas Defensive Rebound.
+Belmont,Tennessee Tech,44,47,26,48,0,DeOndre Haynes missed Dunk.
+Belmont,Tennessee Tech,44,47,26,48,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,44,47,26,54,0,J.J. Mann missed Layup.
+Belmont,Tennessee Tech,44,47,26,54,0,Tennessee Tech Defensive Rebound.
+Belmont,Tennessee Tech,44,49,27,11,1,Jeremiah Samarrippas made Jumper.
+Belmont,Tennessee Tech,44,49,27,33,0,Reece Chamberlain missed Three Point Jumper.
+Belmont,Tennessee Tech,44,49,27,33,0,Shirmane Thomas Defensive Rebound.
+Belmont,Tennessee Tech,44,49,27,45,0,Foul on Chad Lang.
+Belmont,Tennessee Tech,44,49,27,45,0,DeOndre Haynes missed Free Throw.
+Belmont,Tennessee Tech,44,49,27,45,0,Chad Lang Defensive Rebound.
+Belmont,Tennessee Tech,44,49,28,2,0,Caleb Chowbay missed Jumper.
+Belmont,Tennessee Tech,44,49,28,2,0,Josiah Moore Defensive Rebound.
+Belmont,Tennessee Tech,44,49,28,8,0,Foul on Caleb Chowbay.
+Belmont,Tennessee Tech,44,49,28,8,0,Official TV Timeout
+Belmont,Tennessee Tech,44,50,28,8,1,Jeremiah Samarrippas made Free Throw.
+Belmont,Tennessee Tech,44,51,28,8,1,Jeremiah Samarrippas made Free Throw.
+Belmont,Tennessee Tech,44,51,28,16,0,Foul on Caleb Chowbay.
+Belmont,Tennessee Tech,44,51,28,16,0,Caleb Chowbay Turnover.
+Belmont,Tennessee Tech,44,51,28,32,0,Dennis Ogbe missed Layup.
+Belmont,Tennessee Tech,44,51,28,32,0,Drew Windler Defensive Rebound.
+Belmont,Tennessee Tech,44,51,28,43,0,Drew Windler missed Three Point Jumper.
+Belmont,Tennessee Tech,44,51,28,43,0,Dennis Ogbe Defensive Rebound.
+Belmont,Tennessee Tech,44,53,28,53,1,Josiah Moore made Layup.
+Belmont,Tennessee Tech,44,53,28,53,0,Foul on Drew Windler.
+Belmont,Tennessee Tech,44,54,28,53,1,Josiah Moore made Free Throw.
+Belmont,Tennessee Tech,44,54,29,5,0,Blake Jenkins Turnover.
+Belmont,Tennessee Tech,44,54,29,7,0,DeOndre Haynes Steal.
+Belmont,Tennessee Tech,44,54,29,11,0,Foul on Blake Jenkins.
+Belmont,Tennessee Tech,44,54,29,11,0,Josiah Moore missed Free Throw.
+Belmont,Tennessee Tech,44,54,29,11,0,Tennessee Tech Deadball Team Rebound.
+Belmont,Tennessee Tech,44,55,29,11,1,Josiah Moore made Free Throw.
+Belmont,Tennessee Tech,46,55,29,33,1,J.J. Mann made Layup.
+Belmont,Tennessee Tech,46,55,29,46,0,Foul on Reece Chamberlain.
+Belmont,Tennessee Tech,46,56,29,46,1,DeOndre Haynes made Free Throw.
+Belmont,Tennessee Tech,46,57,29,46,1,DeOndre Haynes made Free Throw.
+Belmont,Tennessee Tech,46,57,29,57,0,Drew Windler missed Three Point Jumper.
+Belmont,Tennessee Tech,46,57,29,57,0,Shirmane Thomas Defensive Rebound.
+Belmont,Tennessee Tech,46,57,30,5,0,Foul on Shirmane Thomas.
+Belmont,Tennessee Tech,46,57,30,5,0,Shirmane Thomas Turnover.
+Belmont,Tennessee Tech,46,57,30,21,0,Foul on Javon McKay.
+Belmont,Tennessee Tech,46,57,30,21,0,Evan Bradds missed Free Throw.
+Belmont,Tennessee Tech,46,57,30,21,0,Belmont University Deadball Team Rebound.
+Belmont,Tennessee Tech,46,57,30,21,0,Evan Bradds missed Free Throw.
+Belmont,Tennessee Tech,46,57,30,21,0,Javon McKay Defensive Rebound.
+Belmont,Tennessee Tech,46,59,30,37,1,Javon McKay made Jumper.
+Belmont,Tennessee Tech,48,59,30,48,1,Reece Chamberlain made Layup.
+Belmont,Tennessee Tech,48,62,31,2,1,Jordan Johnson made Three Point Jumper. Assisted by DeOndre Haynes.
+Belmont,Tennessee Tech,48,62,31,14,0,Foul on DeOndre Haynes.
+Belmont,Tennessee Tech,49,62,31,14,1,Reece Chamberlain made Free Throw.
+Belmont,Tennessee Tech,50,62,31,14,1,Reece Chamberlain made Free Throw.
+Belmont,Tennessee Tech,50,62,31,26,0,DeOndre Haynes missed Jumper.
+Belmont,Tennessee Tech,50,62,31,26,0,Josiah Moore Offensive Rebound.
+Belmont,Tennessee Tech,50,62,31,30,0,Josiah Moore Turnover.
+Belmont,Tennessee Tech,50,62,31,31,0,J.J. Mann Steal.
+Belmont,Tennessee Tech,50,62,31,39,0,Nick Smith Turnover.
+Belmont,Tennessee Tech,50,62,31,40,0,DeOndre Haynes Steal.
+Belmont,Tennessee Tech,50,62,31,43,0,DeOndre Haynes missed Layup.
+Belmont,Tennessee Tech,50,62,31,43,0,J.J. Mann Defensive Rebound.
+Belmont,Tennessee Tech,50,62,32,11,0,Nick Smith Turnover.
+Belmont,Tennessee Tech,50,62,32,12,0,Dennis Ogbe Steal.
+Belmont,Tennessee Tech,50,62,32,20,0,Foul on Craig Bradshaw.
+Belmont,Tennessee Tech,50,62,32,20,0,Official TV Timeout
+Belmont,Tennessee Tech,50,63,32,20,1,Jordan Johnson made Free Throw.
+Belmont,Tennessee Tech,50,64,32,20,1,Jordan Johnson made Free Throw.
+Belmont,Tennessee Tech,50,64,32,31,0,Evan Bradds Turnover.
+Belmont,Tennessee Tech,50,64,32,45,0,Foul on Evan Bradds.
+Belmont,Tennessee Tech,50,65,32,45,1,Josiah Moore made Free Throw.
+Belmont,Tennessee Tech,50,66,32,45,1,Josiah Moore made Free Throw.
+Belmont,Tennessee Tech,50,66,32,56,0,J.J. Mann missed Three Point Jumper.
+Belmont,Tennessee Tech,50,66,32,56,0,Jeremiah Samarrippas Defensive Rebound.
+Belmont,Tennessee Tech,50,69,33,25,1,Jeremiah Samarrippas made Three Point Jumper. Assisted by Shirmane Thomas.
+Belmont,Tennessee Tech,52,69,33,39,1,Chad Lang made Layup. Assisted by Reece Chamberlain.
+Belmont,Tennessee Tech,52,69,33,58,0,Jordan Johnson Turnover.
+Belmont,Tennessee Tech,52,69,34,7,0,Chad Lang missed Layup.
+Belmont,Tennessee Tech,52,69,34,7,0,Dwan Caldwell Defensive Rebound.
+Belmont,Tennessee Tech,52,69,34,26,0,Dwan Caldwell missed Jumper.
+Belmont,Tennessee Tech,52,69,34,26,0,Tennessee Tech Offensive Rebound.
+Belmont,Tennessee Tech,52,71,34,48,1,Shirmane Thomas made Layup.
+Belmont,Tennessee Tech,52,71,35,0,0,Chad Lang missed Layup.
+Belmont,Tennessee Tech,52,71,35,0,0,Josiah Moore Defensive Rebound.
+Belmont,Tennessee Tech,52,71,35,14,0,Foul on Chad Lang.
+Belmont,Tennessee Tech,52,71,35,14,0,Shirmane Thomas missed Free Throw.
+Belmont,Tennessee Tech,52,71,35,14,0,Tennessee Tech Deadball Team Rebound.
+Belmont,Tennessee Tech,52,71,35,14,0,Shirmane Thomas missed Free Throw.
+Belmont,Tennessee Tech,52,71,35,14,0,Craig Bradshaw Defensive Rebound.
+Belmont,Tennessee Tech,55,71,35,28,1,J.J. Mann made Three Point Jumper.
+Belmont,Tennessee Tech,55,71,35,46,0,Jeremiah Samarrippas Turnover.
+Belmont,Tennessee Tech,58,71,35,50,1,Craig Bradshaw made Three Point Jumper.
+Belmont,Tennessee Tech,58,71,35,59,0,Jeremiah Samarrippas Turnover.
+Belmont,Tennessee Tech,58,71,36,0,0,Evan Bradds Steal.
+Belmont,Tennessee Tech,58,71,36,2,0,Foul on Jeremiah Samarrippas.
+Belmont,Tennessee Tech,58,71,36,2,0,Official TV Timeout
+Belmont,Tennessee Tech,59,71,36,2,1,Evan Bradds made Free Throw.
+Belmont,Tennessee Tech,60,71,36,2,1,Evan Bradds made Free Throw.
+Belmont,Tennessee Tech,60,71,36,17,0,Jordan Johnson Turnover.
+Belmont,Tennessee Tech,60,71,36,18,0,J.J. Mann Steal.
+Belmont,Tennessee Tech,62,71,36,20,1,Evan Bradds made Layup. Assisted by Reece Chamberlain.
+Belmont,Tennessee Tech,62,71,36,26,0,Foul on Reece Chamberlain.
+Belmont,Tennessee Tech,62,72,36,26,1,Jeremiah Samarrippas made Free Throw.
+Belmont,Tennessee Tech,62,73,36,26,1,Jeremiah Samarrippas made Free Throw.
+Belmont,Tennessee Tech,62,73,36,34,0,J.J. Mann missed Three Point Jumper.
+Belmont,Tennessee Tech,62,73,36,34,0,Josiah Moore Defensive Rebound.
+Belmont,Tennessee Tech,62,73,37,9,0,DeOndre Haynes missed Jumper.
+Belmont,Tennessee Tech,62,73,37,9,0,Evan Bradds Defensive Rebound.
+Belmont,Tennessee Tech,62,73,37,26,0,Reece Chamberlain Turnover.
+Belmont,Tennessee Tech,62,73,37,27,0,Tennessee Tech  Turnover.
+Belmont,Tennessee Tech,65,73,37,28,1,Craig Bradshaw made Three Point Jumper. Assisted by Reece Chamberlain.
+Belmont,Tennessee Tech,65,73,37,30,0,Belmont University  Timeout
+Belmont,Tennessee Tech,65,73,37,37,0,Foul on Evan Bradds.
+Belmont,Tennessee Tech,65,74,37,37,1,Shirmane Thomas made Free Throw.
+Belmont,Tennessee Tech,65,74,37,37,0,Shirmane Thomas missed Free Throw.
+Belmont,Tennessee Tech,65,74,37,37,0,Blake Jenkins Defensive Rebound.
+Belmont,Tennessee Tech,68,74,37,46,1,Drew Windler made Three Point Jumper. Assisted by Reece Chamberlain.
+Belmont,Tennessee Tech,68,74,37,46,0,Belmont University  Timeout
+Belmont,Tennessee Tech,68,74,38,13,0,Javon McKay missed Three Point Jumper.
+Belmont,Tennessee Tech,68,74,38,13,0,Blake Jenkins Defensive Rebound.
+Belmont,Tennessee Tech,68,74,38,21,0,Foul on Jeremiah Samarrippas.
+Belmont,Tennessee Tech,69,74,38,21,1,Reece Chamberlain made Free Throw.
+Belmont,Tennessee Tech,70,74,38,21,1,Reece Chamberlain made Free Throw.
+Belmont,Tennessee Tech,70,74,38,23,0,Dennis Ogbe Turnover.
+Belmont,Tennessee Tech,70,74,38,26,0,Blake Jenkins Steal.
+Belmont,Tennessee Tech,70,74,38,26,0,Craig Bradshaw missed Three Point Jumper.
+Belmont,Tennessee Tech,70,74,38,26,0,Reece Chamberlain Offensive Rebound.
+Belmont,Tennessee Tech,70,74,38,29,0,Reece Chamberlain missed Layup.
+Belmont,Tennessee Tech,70,74,38,29,0,Jordan Johnson Defensive Rebound.
+Belmont,Tennessee Tech,70,74,38,43,0,Javon McKay missed Layup.
+Belmont,Tennessee Tech,70,74,38,43,0,Dennis Ogbe Offensive Rebound.
+Belmont,Tennessee Tech,70,74,38,47,0,Dennis Ogbe missed Layup.
+Belmont,Tennessee Tech,70,74,38,47,0,Dwan Caldwell Offensive Rebound.
+Belmont,Tennessee Tech,70,74,38,47,0,Foul on Reece Chamberlain.
+Belmont,Tennessee Tech,70,75,38,47,1,Dwan Caldwell made Free Throw.
+Belmont,Tennessee Tech,70,76,38,47,1,Dwan Caldwell made Free Throw.
+Belmont,Tennessee Tech,70,76,38,57,0,J.J. Mann missed Three Point Jumper.
+Belmont,Tennessee Tech,70,76,38,57,0,Reece Chamberlain Offensive Rebound.
+Belmont,Tennessee Tech,70,76,38,59,0,Foul on Javon McKay.
+Belmont,Tennessee Tech,71,76,38,59,1,Reece Chamberlain made Free Throw.
+Belmont,Tennessee Tech,72,76,38,59,1,Reece Chamberlain made Free Throw.
+Belmont,Tennessee Tech,72,76,39,13,0,Jeremiah Samarrippas Turnover.
+Belmont,Tennessee Tech,72,76,39,14,0,Reece Chamberlain Steal.
+Belmont,Tennessee Tech,72,76,39,20,0,J.J. Mann missed Jumper.
+Belmont,Tennessee Tech,72,76,39,20,0,Jordan Johnson Defensive Rebound.
+Belmont,Tennessee Tech,72,76,39,27,0,Foul on J.J. Mann.
+Belmont,Tennessee Tech,72,77,39,27,1,Jordan Johnson made Free Throw.
+Belmont,Tennessee Tech,72,78,39,27,1,Jordan Johnson made Free Throw.
+Belmont,Tennessee Tech,72,78,39,32,0,Drew Windler Turnover.
+Belmont,Tennessee Tech,72,78,39,32,0,Josiah Moore Steal.
+Belmont,Tennessee Tech,72,78,39,35,0,Foul on Drew Windler.
+Belmont,Tennessee Tech,72,78,39,35,0,Jordan Johnson missed Free Throw.
+Belmont,Tennessee Tech,72,78,39,35,0,Tennessee Tech Deadball Team Rebound.
+Belmont,Tennessee Tech,72,79,39,35,1,Jordan Johnson made Free Throw.
+Belmont,Tennessee Tech,74,79,39,40,1,Reece Chamberlain made Layup.
+Belmont,Tennessee Tech,74,79,39,41,0,Belmont University  Timeout
+Belmont,Tennessee Tech,74,79,39,41,0,Foul on Jeff Laidig.
+Belmont,Tennessee Tech,74,80,39,41,1,Josiah Moore made Free Throw.
+Belmont,Tennessee Tech,74,80,39,41,0,Josiah Moore missed Free Throw.
+Belmont,Tennessee Tech,74,80,39,41,0,Drew Windler Defensive Rebound.
+Belmont,Tennessee Tech,76,80,39,47,1,Craig Bradshaw made Layup.
+Belmont,Tennessee Tech,76,80,39,48,0,Belmont University  Timeout
+Belmont,Tennessee Tech,76,80,39,49,0,Foul on J.J. Mann.
+Belmont,Tennessee Tech,76,80,39,49,0,Javon McKay missed Free Throw.
+Belmont,Tennessee Tech,76,80,39,49,0,Tennessee Tech Deadball Team Rebound.
+Belmont,Tennessee Tech,76,81,39,49,1,Javon McKay made Free Throw.
+Belmont,Tennessee Tech,76,81,39,49,0,Tennessee Tech  Timeout
+Belmont,Tennessee Tech,76,81,39,53,0,Craig Bradshaw missed Three Point Jumper.
+Belmont,Tennessee Tech,76,81,39,53,0,Dwan Caldwell Defensive Rebound.
+Belmont,Tennessee Tech,76,81,39,55,0,Foul on Drew Windler.
+Belmont,Tennessee Tech,76,81,39,55,0,Dwan Caldwell missed Free Throw.
+Belmont,Tennessee Tech,76,81,39,55,0,Tennessee Tech Deadball Team Rebound.
+Belmont,Tennessee Tech,76,81,39,55,0,Dwan Caldwell missed Free Throw.
+Belmont,Tennessee Tech,76,81,39,55,0,Blake Jenkins Defensive Rebound.
+Belmont,Tennessee Tech,76,81,39,59,0,J.J. Mann Turnover.
+Belmont,Tennessee Tech,76,81,39,59,0,Jeremiah Samarrippas Steal.
+Belmont,Tennessee Tech,76,81,40,0,0,End of Game

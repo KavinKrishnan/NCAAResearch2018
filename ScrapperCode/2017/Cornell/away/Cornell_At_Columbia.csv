@@ -1,0 +1,358 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Cornell,Columbia,0,0,0,24,0,Jeff Coby missed Layup.
+Cornell,Columbia,0,0,0,24,0,Jeff Coby Offensive Rebound.
+Cornell,Columbia,0,2,0,27,1,Jeff Coby made Layup.
+Cornell,Columbia,2,2,0,48,1,Stone Gettings made Jumper.
+Cornell,Columbia,2,2,1,3,0,Rodney Hunter missed Layup.
+Cornell,Columbia,2,2,1,3,0,Matt Morgan Block.
+Cornell,Columbia,2,2,1,6,0,Columbia Offensive Rebound.
+Cornell,Columbia,2,2,1,7,0,Luke Petrasek missed Jumper.
+Cornell,Columbia,2,2,1,7,0,Nate Hickman Offensive Rebound.
+Cornell,Columbia,2,2,1,12,0,Nate Hickman Turnover.
+Cornell,Columbia,5,2,1,27,1,JoJo Fallas made Three Point Jumper. Assisted by Troy Whiteside.
+Cornell,Columbia,5,2,1,39,0,Luke Petrasek missed Three Point Jumper.
+Cornell,Columbia,5,2,1,39,0,Wil Bathurst Defensive Rebound.
+Cornell,Columbia,7,2,2,0,1,Stone Gettings made Jumper.
+Cornell,Columbia,7,2,2,19,0,Mike Smith missed Three Point Jumper.
+Cornell,Columbia,7,2,2,19,0,Troy Whiteside Defensive Rebound.
+Cornell,Columbia,7,2,2,39,0,Stone Gettings missed Jumper.
+Cornell,Columbia,7,2,2,39,0,Luke Petrasek Defensive Rebound.
+Cornell,Columbia,7,2,2,53,0,Nate Hickman missed Three Point Jumper.
+Cornell,Columbia,7,2,2,53,0,Matt Morgan Defensive Rebound.
+Cornell,Columbia,7,2,3,1,0,Matt Morgan missed Layup.
+Cornell,Columbia,7,2,3,2,0,Jeff Coby Block.
+Cornell,Columbia,7,2,3,3,0,Jeff Coby Defensive Rebound.
+Cornell,Columbia,7,2,3,10,0,Jeff Coby Turnover.
+Cornell,Columbia,7,2,3,11,0,Matt Morgan Steal.
+Cornell,Columbia,10,2,3,16,1,Matt Morgan made Three Point Jumper. Assisted by Stone Gettings.
+Cornell,Columbia,10,2,3,29,0,Foul on JoJo Fallas.
+Cornell,Columbia,10,3,3,29,1,Mike Smith made Free Throw.
+Cornell,Columbia,10,4,3,29,1,Mike Smith made Free Throw.
+Cornell,Columbia,12,4,3,54,1,Troy Whiteside made Layup.
+Cornell,Columbia,12,4,4,1,0,Rodney Hunter Turnover.
+Cornell,Columbia,12,4,4,2,0,Matt Morgan Steal.
+Cornell,Columbia,12,4,4,13,0,Stone Gettings Turnover.
+Cornell,Columbia,12,4,4,13,0,Official TV Timeout
+Cornell,Columbia,12,4,4,31,0,Rodney Hunter missed Three Point Jumper.
+Cornell,Columbia,12,4,4,31,0,Matt Morgan Defensive Rebound.
+Cornell,Columbia,12,4,4,49,0,Wil Bathurst missed Three Point Jumper.
+Cornell,Columbia,12,4,4,49,0,Columbia Defensive Rebound.
+Cornell,Columbia,12,4,5,8,0,Mike Smith missed Jumper.
+Cornell,Columbia,12,4,5,8,0,Conor Voss Offensive Rebound.
+Cornell,Columbia,12,4,5,15,0,Quinton Adlesh missed Three Point Jumper.
+Cornell,Columbia,12,4,5,15,0,Cornell Deadball Team Rebound.
+Cornell,Columbia,12,4,5,28,0,Troy Whiteside missed Layup.
+Cornell,Columbia,12,4,5,28,0,Lukas Meisner Block.
+Cornell,Columbia,12,4,5,29,0,Cornell Offensive Rebound.
+Cornell,Columbia,12,4,5,31,0,Matt Morgan missed Three Point Jumper.
+Cornell,Columbia,12,4,5,31,0,Quinton Adlesh Defensive Rebound.
+Cornell,Columbia,12,4,5,39,0,Mike Smith missed Layup.
+Cornell,Columbia,12,4,5,39,0,Stone Gettings Defensive Rebound.
+Cornell,Columbia,12,4,5,44,0,Matt Morgan Turnover.
+Cornell,Columbia,12,4,5,56,0,Quinton Adlesh missed Layup.
+Cornell,Columbia,12,4,5,56,0,Matt Morgan Defensive Rebound.
+Cornell,Columbia,12,4,5,58,0,Foul on Patrick Tape.
+Cornell,Columbia,12,4,6,12,0,Jack Gordon Turnover.
+Cornell,Columbia,12,4,6,13,0,Jake Killingsworth Steal.
+Cornell,Columbia,12,4,6,31,0,Mike Smith missed Layup.
+Cornell,Columbia,12,4,6,31,0,Lukas Meisner Offensive Rebound.
+Cornell,Columbia,12,6,6,33,1,Lukas Meisner made Two Point Tip Shot.
+Cornell,Columbia,12,6,6,51,0,Foul on Stone Gettings.
+Cornell,Columbia,12,6,6,51,0,Stone Gettings Turnover.
+Cornell,Columbia,12,6,7,12,0,Rodney Hunter missed Jumper.
+Cornell,Columbia,12,6,7,12,0,Darryl Smith Defensive Rebound.
+Cornell,Columbia,12,6,7,23,0,Matt Morgan Turnover.
+Cornell,Columbia,12,6,7,23,0,Rodney Hunter Steal.
+Cornell,Columbia,12,6,7,24,0,Foul on Josh Warren.
+Cornell,Columbia,12,6,7,36,0,Foul on Wil Bathurst.
+Cornell,Columbia,12,7,7,36,1,Luke Petrasek made Free Throw.
+Cornell,Columbia,12,8,7,36,1,Luke Petrasek made Free Throw.
+Cornell,Columbia,12,8,7,55,0,Josh Warren Turnover.
+Cornell,Columbia,12,8,8,7,0,Luke Petrasek missed Three Point Jumper.
+Cornell,Columbia,12,8,8,7,0,Nate Hickman Offensive Rebound.
+Cornell,Columbia,12,8,8,14,0,Rodney Hunter missed Layup.
+Cornell,Columbia,12,8,8,14,0,Cornell Defensive Rebound.
+Cornell,Columbia,12,8,8,15,0,Foul on Jeff Coby.
+Cornell,Columbia,12,8,8,16,0,Official TV Timeout
+Cornell,Columbia,14,8,8,35,1,Josh Warren made Layup. Assisted by Jack Gordon.
+Cornell,Columbia,14,8,8,35,0,Foul on Rodney Hunter.
+Cornell,Columbia,14,8,8,35,0,Josh Warren missed Free Throw.
+Cornell,Columbia,14,8,8,35,0,Jeff Coby Defensive Rebound.
+Cornell,Columbia,14,8,8,53,0,Foul on Troy Whiteside.
+Cornell,Columbia,14,8,8,53,0,Foul on Jack Gordon.
+Cornell,Columbia,14,8,9,5,0,Jeff Coby missed Layup.
+Cornell,Columbia,14,8,9,5,0,Jeff Coby Offensive Rebound.
+Cornell,Columbia,14,8,9,6,0,Foul on Darryl Smith.
+Cornell,Columbia,14,8,9,6,0,Jeff Coby missed Free Throw.
+Cornell,Columbia,14,8,9,6,0,Darryl Smith Defensive Rebound.
+Cornell,Columbia,14,8,9,21,0,Josh Warren missed Layup.
+Cornell,Columbia,14,8,9,21,0,CJ Davis Defensive Rebound.
+Cornell,Columbia,14,8,9,27,0,Jeff Coby missed Jumper.
+Cornell,Columbia,14,8,9,27,0,Cornell Defensive Rebound.
+Cornell,Columbia,14,8,9,59,0,Darryl Smith Turnover.
+Cornell,Columbia,14,8,10,14,0,Chris McComber missed Three Point Jumper.
+Cornell,Columbia,14,8,10,14,0,Darryl Smith Defensive Rebound.
+Cornell,Columbia,14,8,10,32,0,Josh Warren Turnover.
+Cornell,Columbia,14,8,10,33,0,Luke Petrasek Steal.
+Cornell,Columbia,14,10,10,37,1,Mike Smith made Layup.
+Cornell,Columbia,14,10,10,49,0,Troy Whiteside missed Jumper.
+Cornell,Columbia,14,10,10,49,0,Rodney Hunter Defensive Rebound.
+Cornell,Columbia,14,12,10,58,1,Mike Smith made Layup.
+Cornell,Columbia,14,12,11,1,0,Cornell  Timeout
+Cornell,Columbia,14,12,11,9,0,Troy Whiteside Turnover.
+Cornell,Columbia,14,15,11,31,1,Quinton Adlesh made Three Point Jumper. Assisted by Rodney Hunter.
+Cornell,Columbia,14,15,11,56,0,Troy Whiteside missed Jumper.
+Cornell,Columbia,14,15,11,56,0,Luke Petrasek Defensive Rebound.
+Cornell,Columbia,14,15,12,4,0,Mike Smith missed Jumper.
+Cornell,Columbia,14,15,12,4,0,Stone Gettings Defensive Rebound.
+Cornell,Columbia,14,15,12,19,0,Josh Warren Turnover.
+Cornell,Columbia,14,15,12,20,0,Quinton Adlesh Steal.
+Cornell,Columbia,14,15,12,33,0,Quinton Adlesh missed Layup.
+Cornell,Columbia,14,15,12,33,0,Matt Morgan Defensive Rebound.
+Cornell,Columbia,14,15,12,35,0,Matt Morgan Turnover.
+Cornell,Columbia,14,15,12,36,0,Quinton Adlesh Steal.
+Cornell,Columbia,14,15,12,37,0,Quinton Adlesh Turnover.
+Cornell,Columbia,14,15,12,37,0,Official TV Timeout
+Cornell,Columbia,16,15,12,53,1,Stone Gettings made Jumper.
+Cornell,Columbia,16,17,13,7,1,Mike Smith made Layup.
+Cornell,Columbia,19,17,13,23,1,Troy Whiteside made Three Point Jumper. Assisted by Matt Morgan.
+Cornell,Columbia,19,17,13,38,0,Lukas Meisner Turnover.
+Cornell,Columbia,19,17,13,39,0,Stone Gettings Steal.
+Cornell,Columbia,19,17,13,49,0,Stone Gettings Turnover.
+Cornell,Columbia,19,17,13,57,0,Mike Smith Turnover.
+Cornell,Columbia,19,17,13,57,0,Troy Whiteside Steal.
+Cornell,Columbia,19,17,14,0,0,Stone Gettings Turnover.
+Cornell,Columbia,19,17,14,18,0,Nate Hickman missed Layup.
+Cornell,Columbia,19,17,14,18,0,Matt Morgan Block.
+Cornell,Columbia,19,17,14,19,0,Troy Whiteside Defensive Rebound.
+Cornell,Columbia,21,17,14,21,1,Matt Morgan made Layup. Assisted by Troy Whiteside.
+Cornell,Columbia,21,17,14,40,0,Luke Petrasek missed Three Point Jumper.
+Cornell,Columbia,21,17,14,40,0,Wil Bathurst Defensive Rebound.
+Cornell,Columbia,23,17,14,51,1,Wil Bathurst made Jumper.
+Cornell,Columbia,23,17,15,3,0,Mike Smith missed Jumper.
+Cornell,Columbia,23,17,15,3,0,Jack Gordon Defensive Rebound.
+Cornell,Columbia,23,17,15,25,0,Matt Morgan missed Jumper.
+Cornell,Columbia,23,17,15,25,0,Lukas Meisner Defensive Rebound.
+Cornell,Columbia,23,20,15,39,1,Jake Killingsworth made Three Point Jumper. Assisted by Mike Smith.
+Cornell,Columbia,23,20,15,57,0,Stone Gettings Turnover.
+Cornell,Columbia,23,20,15,58,0,Luke Petrasek Steal.
+Cornell,Columbia,23,20,16,3,0,Foul on Troy Whiteside.
+Cornell,Columbia,23,20,16,3,0,Official TV Timeout
+Cornell,Columbia,23,21,16,3,1,Nate Hickman made Free Throw.
+Cornell,Columbia,23,22,16,3,1,Nate Hickman made Free Throw.
+Cornell,Columbia,23,22,16,26,0,Wil Bathurst missed Jumper.
+Cornell,Columbia,23,22,16,26,0,Nate Hickman Defensive Rebound.
+Cornell,Columbia,23,24,16,36,1,Jeff Coby made Layup. Assisted by Nate Hickman.
+Cornell,Columbia,25,24,16,56,1,Josh Warren made Layup. Assisted by Matt Morgan.
+Cornell,Columbia,25,24,17,19,0,Jeff Coby missed Jumper.
+Cornell,Columbia,25,24,17,19,0,Josh Warren Defensive Rebound.
+Cornell,Columbia,25,24,17,29,0,Foul on Nate Hickman.
+Cornell,Columbia,25,24,17,29,0,Josh Warren missed Free Throw.
+Cornell,Columbia,25,24,17,29,0,Cornell Deadball Team Rebound.
+Cornell,Columbia,25,24,17,29,0,Josh Warren missed Free Throw.
+Cornell,Columbia,25,24,17,29,0,Luke Petrasek Defensive Rebound.
+Cornell,Columbia,25,24,17,39,0,Luke Petrasek Turnover.
+Cornell,Columbia,25,24,17,40,0,Josh Warren Steal.
+Cornell,Columbia,25,24,17,46,0,Wil Bathurst Turnover.
+Cornell,Columbia,25,24,17,47,0,Luke Petrasek Steal.
+Cornell,Columbia,25,26,18,1,1,Nate Hickman made Jumper.
+Cornell,Columbia,27,26,18,10,1,Jack Gordon made Jumper. Assisted by Matt Morgan.
+Cornell,Columbia,27,26,18,30,0,Jake Killingsworth missed Three Point Jumper.
+Cornell,Columbia,27,26,18,30,0,Wil Bathurst Defensive Rebound.
+Cornell,Columbia,27,26,18,49,0,Jack Gordon Turnover.
+Cornell,Columbia,27,26,18,50,0,Jake Killingsworth Steal.
+Cornell,Columbia,27,28,18,52,1,Nate Hickman made Dunk. Assisted by Jake Killingsworth.
+Cornell,Columbia,29,28,19,13,1,Josh Warren made Layup. Assisted by Matt Morgan.
+Cornell,Columbia,29,28,19,37,0,Mike Smith missed Jumper.
+Cornell,Columbia,29,28,19,37,0,Cornell Defensive Rebound.
+Cornell,Columbia,29,28,19,37,0,Foul on Jeff Coby.
+Cornell,Columbia,31,28,19,55,1,Matt Morgan made Jumper.
+Cornell,Columbia,31,28,20,0,0,End of 1st half
+Cornell,Columbia,33,28,20,22,1,Wil Bathurst made Jumper.
+Cornell,Columbia,33,28,20,38,0,Mike Smith missed Layup.
+Cornell,Columbia,33,28,20,38,0,Stone Gettings Block.
+Cornell,Columbia,33,28,20,38,0,Columbia Offensive Rebound.
+Cornell,Columbia,33,28,20,43,0,Nate Hickman missed Layup.
+Cornell,Columbia,33,28,20,43,0,Jeff Coby Offensive Rebound.
+Cornell,Columbia,33,28,20,46,0,Foul on JoJo Fallas.
+Cornell,Columbia,33,29,20,46,1,Jeff Coby made Free Throw.
+Cornell,Columbia,33,30,20,46,1,Jeff Coby made Free Throw.
+Cornell,Columbia,33,30,20,56,0,JoJo Fallas missed Three Point Jumper.
+Cornell,Columbia,33,30,20,56,0,Luke Petrasek Defensive Rebound.
+Cornell,Columbia,33,30,21,25,0,Mike Smith missed Layup.
+Cornell,Columbia,33,30,21,25,0,Rodney Hunter Offensive Rebound.
+Cornell,Columbia,33,33,21,30,1,Mike Smith made Three Point Jumper. Assisted by Jeff Coby.
+Cornell,Columbia,33,33,21,43,0,JoJo Fallas missed Three Point Jumper.
+Cornell,Columbia,33,33,21,43,0,Nate Hickman Defensive Rebound.
+Cornell,Columbia,33,33,21,50,0,Foul on JoJo Fallas.
+Cornell,Columbia,33,34,21,50,1,Nate Hickman made Free Throw.
+Cornell,Columbia,33,34,21,50,0,Nate Hickman missed Free Throw.
+Cornell,Columbia,33,34,21,50,0,Wil Bathurst Defensive Rebound.
+Cornell,Columbia,33,34,22,4,0,JoJo Fallas Turnover.
+Cornell,Columbia,33,34,22,5,0,Mike Smith Steal.
+Cornell,Columbia,33,36,22,7,1,Mike Smith made Layup.
+Cornell,Columbia,33,36,22,31,0,Troy Whiteside Turnover.
+Cornell,Columbia,33,36,22,32,0,Jake Killingsworth Steal.
+Cornell,Columbia,33,36,22,38,0,Nate Hickman missed Layup.
+Cornell,Columbia,33,36,22,39,0,Stone Gettings Defensive Rebound.
+Cornell,Columbia,33,36,22,45,0,Matt Morgan missed Three Point Jumper.
+Cornell,Columbia,33,36,22,45,0,Jake Killingsworth Defensive Rebound.
+Cornell,Columbia,33,36,23,3,0,Mike Smith Turnover.
+Cornell,Columbia,33,36,23,22,0,Stone Gettings missed Three Point Jumper.
+Cornell,Columbia,33,36,23,22,0,Matt Morgan Offensive Rebound.
+Cornell,Columbia,35,36,23,41,1,Wil Bathurst made Jumper.
+Cornell,Columbia,35,36,24,7,0,Lukas Meisner missed Jumper.
+Cornell,Columbia,35,36,24,7,0,Stone Gettings Defensive Rebound.
+Cornell,Columbia,35,36,24,10,0,Foul on Conor Voss.
+Cornell,Columbia,35,36,24,10,0,Official TV Timeout
+Cornell,Columbia,35,36,24,27,0,Jack Gordon missed Three Point Jumper.
+Cornell,Columbia,35,36,24,27,0,Lukas Meisner Defensive Rebound.
+Cornell,Columbia,35,36,24,52,0,Lukas Meisner missed Three Point Jumper.
+Cornell,Columbia,35,36,24,52,0,Patrick Tape Offensive Rebound.
+Cornell,Columbia,35,39,24,54,1,Mike Smith made Three Point Jumper. Assisted by Patrick Tape.
+Cornell,Columbia,35,39,25,11,0,Wil Bathurst missed Three Point Jumper.
+Cornell,Columbia,35,39,25,11,0,Darryl Smith Offensive Rebound.
+Cornell,Columbia,35,39,25,21,0,Matt Morgan Turnover.
+Cornell,Columbia,35,39,25,30,0,Columbia  Timeout
+Cornell,Columbia,35,39,25,30,0,Official TV Timeout
+Cornell,Columbia,35,39,25,41,0,Foul on Jack Gordon.
+Cornell,Columbia,35,39,25,54,0,Lukas Meisner Turnover.
+Cornell,Columbia,35,39,26,15,0,Wil Bathurst missed Jumper.
+Cornell,Columbia,35,39,26,15,0,Jeff Coby Defensive Rebound.
+Cornell,Columbia,35,41,26,23,1,Lukas Meisner made Dunk. Assisted by Quinton Adlesh.
+Cornell,Columbia,38,41,26,46,1,Matt Morgan made Three Point Jumper. Assisted by Jack Gordon.
+Cornell,Columbia,38,41,27,1,0,Jeff Coby missed Jumper.
+Cornell,Columbia,38,41,27,1,0,Stone Gettings Defensive Rebound.
+Cornell,Columbia,38,41,27,2,0,Foul on Jeff Coby.
+Cornell,Columbia,41,41,27,11,1,Stone Gettings made Three Point Jumper. Assisted by Matt Morgan.
+Cornell,Columbia,41,41,27,20,0,Quinton Adlesh missed Three Point Jumper.
+Cornell,Columbia,41,41,27,20,0,Jake Killingsworth Offensive Rebound.
+Cornell,Columbia,41,43,27,28,1,Luke Petrasek made Layup. Assisted by Jake Killingsworth.
+Cornell,Columbia,41,43,27,42,0,Troy Whiteside missed Three Point Jumper.
+Cornell,Columbia,41,43,27,42,0,Jake Killingsworth Defensive Rebound.
+Cornell,Columbia,41,43,27,47,0,Foul on Josh Warren.
+Cornell,Columbia,41,46,27,56,1,Mike Smith made Three Point Jumper. Assisted by Jake Killingsworth.
+Cornell,Columbia,41,46,28,13,0,Matt Morgan missed Three Point Jumper.
+Cornell,Columbia,41,46,28,13,0,Troy Whiteside Offensive Rebound.
+Cornell,Columbia,41,46,28,20,0,Official TV Timeout
+Cornell,Columbia,41,46,28,25,0,Foul on Lukas Meisner.
+Cornell,Columbia,42,46,28,25,1,Matt Morgan made Free Throw.
+Cornell,Columbia,43,46,28,25,1,Matt Morgan made Free Throw.
+Cornell,Columbia,43,46,28,53,0,Luke Petrasek missed Layup.
+Cornell,Columbia,43,46,28,53,0,Jake Killingsworth Offensive Rebound.
+Cornell,Columbia,43,46,28,55,0,Foul on Darryl Smith.
+Cornell,Columbia,43,46,29,5,0,Mike Smith missed Three Point Jumper.
+Cornell,Columbia,43,46,29,5,0,Josh Warren Defensive Rebound.
+Cornell,Columbia,43,46,29,28,0,Troy Whiteside missed Three Point Jumper.
+Cornell,Columbia,43,46,29,28,0,Luke Petrasek Defensive Rebound.
+Cornell,Columbia,43,46,29,45,0,Foul on Josh Warren.
+Cornell,Columbia,43,46,29,56,0,Luke Petrasek missed Jumper.
+Cornell,Columbia,43,46,29,56,0,Cornell Defensive Rebound.
+Cornell,Columbia,43,46,30,15,0,Josh Warren missed Layup.
+Cornell,Columbia,43,46,30,15,0,Luke Petrasek Block.
+Cornell,Columbia,43,46,30,16,0,Josh Warren Offensive Rebound.
+Cornell,Columbia,43,46,30,16,0,Foul on Mike Smith.
+Cornell,Columbia,45,46,30,18,1,Troy Whiteside made Layup. Assisted by Matt Morgan.
+Cornell,Columbia,45,46,30,18,0,Foul on Luke Petrasek.
+Cornell,Columbia,46,46,30,18,1,Troy Whiteside made Free Throw.
+Cornell,Columbia,46,49,30,30,1,Nate Hickman made Three Point Jumper. Assisted by Mike Smith.
+Cornell,Columbia,46,49,30,58,0,JoJo Fallas missed Three Point Jumper.
+Cornell,Columbia,46,49,30,58,0,Mike Smith Defensive Rebound.
+Cornell,Columbia,46,49,31,11,0,Mike Smith missed Jumper.
+Cornell,Columbia,46,49,31,11,0,Desmond Fleming Defensive Rebound.
+Cornell,Columbia,46,49,31,42,0,Desmond Fleming missed Three Point Jumper.
+Cornell,Columbia,46,49,31,42,0,Nate Hickman Defensive Rebound.
+Cornell,Columbia,46,49,31,53,0,Lukas Meisner missed Layup.
+Cornell,Columbia,46,49,31,53,0,Josh Warren Defensive Rebound.
+Cornell,Columbia,46,49,32,5,0,Darryl Smith missed Three Point Jumper.
+Cornell,Columbia,46,49,32,5,0,Darryl Smith Offensive Rebound.
+Cornell,Columbia,46,49,32,14,0,Foul on Darryl Smith.
+Cornell,Columbia,46,49,32,14,0,Darryl Smith Turnover.
+Cornell,Columbia,46,49,32,14,0,Official TV Timeout
+Cornell,Columbia,46,49,32,33,0,Nate Hickman missed Jumper.
+Cornell,Columbia,46,49,32,33,0,Rodney Hunter Offensive Rebound.
+Cornell,Columbia,46,49,32,38,0,Luke Petrasek missed Three Point Jumper.
+Cornell,Columbia,46,49,32,38,0,Matt Morgan Defensive Rebound.
+Cornell,Columbia,46,49,33,4,0,Troy Whiteside missed Three Point Jumper.
+Cornell,Columbia,46,49,33,4,0,Jeff Coby Defensive Rebound.
+Cornell,Columbia,46,49,33,30,0,Foul on Stone Gettings.
+Cornell,Columbia,46,49,33,30,0,Jeff Coby missed Free Throw.
+Cornell,Columbia,46,49,33,30,0,Columbia Deadball Team Rebound.
+Cornell,Columbia,46,50,33,30,1,Jeff Coby made Free Throw.
+Cornell,Columbia,46,50,33,48,0,Stone Gettings Turnover.
+Cornell,Columbia,46,50,33,49,0,Rodney Hunter Steal.
+Cornell,Columbia,46,50,33,51,0,Rodney Hunter Turnover.
+Cornell,Columbia,46,50,34,1,0,Foul on Jeff Coby.
+Cornell,Columbia,46,50,34,9,0,Foul on Rodney Hunter.
+Cornell,Columbia,47,50,34,9,1,Wil Bathurst made Free Throw.
+Cornell,Columbia,48,50,34,9,1,Wil Bathurst made Free Throw.
+Cornell,Columbia,48,52,34,17,1,Luke Petrasek made Layup. Assisted by Nate Hickman.
+Cornell,Columbia,50,52,34,25,1,Stone Gettings made Jumper. Assisted by Wil Bathurst.
+Cornell,Columbia,50,52,34,41,0,Luke Petrasek Turnover.
+Cornell,Columbia,50,52,34,42,0,Troy Whiteside Steal.
+Cornell,Columbia,52,52,34,45,1,Troy Whiteside made Layup. Assisted by JoJo Fallas.
+Cornell,Columbia,52,52,35,6,0,Nate Hickman missed Jumper.
+Cornell,Columbia,52,52,35,6,0,Wil Bathurst Defensive Rebound.
+Cornell,Columbia,54,52,35,28,1,Stone Gettings made Layup. Assisted by Matt Morgan.
+Cornell,Columbia,54,54,35,52,1,Mike Smith made Layup.
+Cornell,Columbia,54,54,36,5,0,JoJo Fallas missed Three Point Jumper.
+Cornell,Columbia,54,54,36,5,0,Luke Petrasek Defensive Rebound.
+Cornell,Columbia,54,54,36,24,0,Foul on Stone Gettings.
+Cornell,Columbia,54,54,36,24,0,Official TV Timeout
+Cornell,Columbia,54,54,36,24,0,Mike Smith missed Free Throw.
+Cornell,Columbia,54,54,36,24,0,Columbia Deadball Team Rebound.
+Cornell,Columbia,54,55,36,24,1,Mike Smith made Free Throw.
+Cornell,Columbia,54,55,36,46,0,Stone Gettings missed Three Point Jumper.
+Cornell,Columbia,54,55,36,46,0,Jack Gordon Offensive Rebound.
+Cornell,Columbia,56,55,37,0,1,Wil Bathurst made Jumper.
+Cornell,Columbia,56,55,37,32,0,Mike Smith missed Three Point Jumper.
+Cornell,Columbia,56,55,37,32,0,Rodney Hunter Offensive Rebound.
+Cornell,Columbia,56,55,38,0,0,Luke Petrasek missed Three Point Jumper.
+Cornell,Columbia,56,55,38,0,0,JoJo Fallas Defensive Rebound.
+Cornell,Columbia,56,55,38,10,0,Cornell  Timeout
+Cornell,Columbia,59,55,38,24,1,Matt Morgan made Three Point Jumper. Assisted by Jack Gordon.
+Cornell,Columbia,59,55,38,40,0,Foul on Jack Gordon.
+Cornell,Columbia,59,56,38,40,1,Nate Hickman made Free Throw.
+Cornell,Columbia,59,56,38,40,0,Nate Hickman missed Free Throw.
+Cornell,Columbia,59,56,38,40,0,Luke Petrasek Offensive Rebound.
+Cornell,Columbia,59,56,38,46,0,Columbia  Timeout
+Cornell,Columbia,59,56,38,54,0,Nate Hickman missed Layup.
+Cornell,Columbia,59,56,38,54,0,Jack Gordon Defensive Rebound.
+Cornell,Columbia,59,56,38,56,0,Foul on Rodney Hunter.
+Cornell,Columbia,60,56,38,56,1,Jack Gordon made Free Throw.
+Cornell,Columbia,60,56,38,56,0,Jack Gordon missed Free Throw.
+Cornell,Columbia,60,56,38,56,0,Luke Petrasek Defensive Rebound.
+Cornell,Columbia,60,56,39,7,0,Foul on Wil Bathurst.
+Cornell,Columbia,60,56,39,7,0,Mike Smith missed Free Throw.
+Cornell,Columbia,60,56,39,7,0,Columbia Deadball Team Rebound.
+Cornell,Columbia,60,57,39,7,1,Mike Smith made Free Throw.
+Cornell,Columbia,60,57,39,7,0,Foul on Quinton Adlesh.
+Cornell,Columbia,61,57,39,7,1,Matt Morgan made Free Throw.
+Cornell,Columbia,62,57,39,7,1,Matt Morgan made Free Throw.
+Cornell,Columbia,62,57,39,7,0,Columbia  Timeout
+Cornell,Columbia,62,57,39,9,0,Foul on Wil Bathurst.
+Cornell,Columbia,62,57,39,9,0,Mike Smith missed Free Throw.
+Cornell,Columbia,62,57,39,9,0,Columbia Deadball Team Rebound.
+Cornell,Columbia,62,58,39,9,1,Mike Smith made Free Throw.
+Cornell,Columbia,62,58,39,14,0,Foul on Luke Petrasek.
+Cornell,Columbia,63,58,39,14,1,Troy Whiteside made Free Throw.
+Cornell,Columbia,64,58,39,14,1,Troy Whiteside made Free Throw.
+Cornell,Columbia,64,60,39,22,1,Nate Hickman made Layup.
+Cornell,Columbia,64,60,39,22,0,Foul on Jack Gordon.
+Cornell,Columbia,64,60,39,22,0,Nate Hickman missed Free Throw.
+Cornell,Columbia,64,60,39,22,0,Troy Whiteside Defensive Rebound.
+Cornell,Columbia,64,60,39,24,0,Foul on Jeff Coby.
+Cornell,Columbia,64,60,39,24,0,Troy Whiteside missed Free Throw.
+Cornell,Columbia,64,60,39,24,0,Cornell Deadball Team Rebound.
+Cornell,Columbia,65,60,39,24,1,Troy Whiteside made Free Throw.
+Cornell,Columbia,65,62,39,30,1,Luke Petrasek made Layup. Assisted by Mike Smith.
+Cornell,Columbia,65,62,39,36,0,Matt Morgan Turnover.
+Cornell,Columbia,65,62,39,36,0,Rodney Hunter Steal.
+Cornell,Columbia,65,62,39,43,0,Luke Petrasek missed Three Point Jumper.
+Cornell,Columbia,65,62,39,43,0,Wil Bathurst Defensive Rebound.
+Cornell,Columbia,65,62,39,46,0,Foul on Lukas Meisner.
+Cornell,Columbia,66,62,39,46,1,Wil Bathurst made Free Throw.
+Cornell,Columbia,67,62,39,46,1,Wil Bathurst made Free Throw.
+Cornell,Columbia,67,62,39,53,0,Mike Smith missed Three Point Jumper.
+Cornell,Columbia,67,62,39,53,0,Jack Gordon Defensive Rebound.
+Cornell,Columbia,67,62,40,0,0,End of Game

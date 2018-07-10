@@ -1,0 +1,380 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+VMI,Gardner-Webb,2,0,0,27,1,Tim Marshall made Jumper.
+VMI,Gardner-Webb,2,0,0,40,0,Tyrell Nelson missed Layup.
+VMI,Gardner-Webb,2,0,0,40,0,Tyrell Nelson Offensive Rebound.
+VMI,Gardner-Webb,2,0,0,42,0,Tyrell Nelson missed Layup.
+VMI,Gardner-Webb,2,0,0,42,0,Tyrell Nelson Offensive Rebound.
+VMI,Gardner-Webb,2,0,0,54,0,Tyrell Nelson missed Layup.
+VMI,Gardner-Webb,2,0,0,54,0,VMI Defensive Rebound.
+VMI,Gardner-Webb,4,0,1,5,1,Phillip Anglade made Jumper.
+VMI,Gardner-Webb,4,0,1,27,0,Isaiah Ivey missed Jumper.
+VMI,Gardner-Webb,4,0,1,27,0,Julian Eleby Defensive Rebound.
+VMI,Gardner-Webb,4,0,1,42,0,Phillip Anglade missed Jumper.
+VMI,Gardner-Webb,4,0,1,42,0,Dylan Poston Defensive Rebound.
+VMI,Gardner-Webb,4,3,1,49,1,Dylan Poston made Three Point Jumper.
+VMI,Gardner-Webb,4,3,2,10,0,Foul on L'Hassane Niangane.
+VMI,Gardner-Webb,5,3,2,10,1,Julian Eleby made Free Throw.
+VMI,Gardner-Webb,6,3,2,10,1,Julian Eleby made Free Throw.
+VMI,Gardner-Webb,6,3,2,18,0,Tyrell Nelson missed Layup.
+VMI,Gardner-Webb,6,3,2,18,0,Trey Chapman Block.
+VMI,Gardner-Webb,6,3,2,19,0,L'Hassane Niangane Offensive Rebound.
+VMI,Gardner-Webb,6,5,2,21,1,L'Hassane Niangane made Layup.
+VMI,Gardner-Webb,6,5,2,37,0,QJ Peterson Turnover.
+VMI,Gardner-Webb,6,5,2,37,0,Dylan Poston Turnover.
+VMI,Gardner-Webb,6,5,2,37,0,QJ Peterson Steal.
+VMI,Gardner-Webb,6,5,2,37,0,Tim Marshall missed Three Point Jumper.
+VMI,Gardner-Webb,6,5,2,37,0,QJ Peterson Offensive Rebound.
+VMI,Gardner-Webb,6,5,2,37,0,Trey Chapman missed Three Point Jumper.
+VMI,Gardner-Webb,6,5,2,37,0,VMI Offensive Rebound.
+VMI,Gardner-Webb,6,5,3,10,0,Trey Chapman missed Layup.
+VMI,Gardner-Webb,6,5,3,10,0,Phillip Anglade Offensive Rebound.
+VMI,Gardner-Webb,6,5,3,14,0,Tim Marshall missed Three Point Jumper.
+VMI,Gardner-Webb,6,5,3,14,0,L'Hassane Niangane Defensive Rebound.
+VMI,Gardner-Webb,6,7,3,31,1,Tyrell Nelson made Layup.
+VMI,Gardner-Webb,6,7,3,59,0,Tim Marshall missed Jumper.
+VMI,Gardner-Webb,6,7,3,59,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,6,9,4,13,1,L'Hassane Niangane made Layup. Assisted by Harold McBride.
+VMI,Gardner-Webb,6,9,4,34,0,Julian Eleby missed Three Point Jumper.
+VMI,Gardner-Webb,6,9,4,34,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,6,9,4,43,0,Harold McBride missed Three Point Jumper.
+VMI,Gardner-Webb,6,9,4,43,0,Dylan Poston Offensive Rebound.
+VMI,Gardner-Webb,6,9,4,55,0,Dylan Poston missed Three Point Jumper.
+VMI,Gardner-Webb,6,9,4,55,0,Tim Marshall Defensive Rebound.
+VMI,Gardner-Webb,6,9,5,6,0,QJ Peterson missed Three Point Jumper.
+VMI,Gardner-Webb,6,9,5,6,0,L'Hassane Niangane Defensive Rebound.
+VMI,Gardner-Webb,6,9,5,22,0,Isaiah Ivey missed Jumper.
+VMI,Gardner-Webb,6,9,5,22,0,Julian Eleby Defensive Rebound.
+VMI,Gardner-Webb,8,9,5,32,1,QJ Peterson made Layup.
+VMI,Gardner-Webb,8,9,5,49,0,L'Hassane Niangane Turnover.
+VMI,Gardner-Webb,8,9,5,49,0,Official TV Timeout
+VMI,Gardner-Webb,8,9,6,4,0,QJ Peterson missed Three Point Jumper.
+VMI,Gardner-Webb,8,9,6,4,0,David Efianayi Defensive Rebound.
+VMI,Gardner-Webb,8,9,6,12,0,Adonis Burbage missed Three Point Jumper.
+VMI,Gardner-Webb,8,9,6,12,0,QJ Peterson Defensive Rebound.
+VMI,Gardner-Webb,10,9,6,29,1,Trey Chapman made Jumper.
+VMI,Gardner-Webb,10,9,6,41,0,David Efianayi Turnover.
+VMI,Gardner-Webb,10,9,7,0,0,Adrian Rich Turnover.
+VMI,Gardner-Webb,10,9,7,1,0,Harold McBride Steal.
+VMI,Gardner-Webb,10,9,7,14,0,Foul on Fred Iruafemi.
+VMI,Gardner-Webb,10,10,7,14,1,Herve Aholode made Free Throw.
+VMI,Gardner-Webb,10,11,7,14,1,Herve Aholode made Free Throw.
+VMI,Gardner-Webb,12,11,7,25,1,Julian Eleby made Layup. Assisted by Fred Iruafemi.
+VMI,Gardner-Webb,12,11,7,36,0,Foul on Jordan Weethee.
+VMI,Gardner-Webb,12,12,7,36,1,Adonis Burbage made Free Throw.
+VMI,Gardner-Webb,12,12,7,36,0,Adonis Burbage missed Free Throw.
+VMI,Gardner-Webb,12,12,7,36,0,Jordan Weethee Defensive Rebound.
+VMI,Gardner-Webb,12,12,7,38,0,Foul on Herve Aholode.
+VMI,Gardner-Webb,12,12,7,55,0,QJ Peterson missed Jumper.
+VMI,Gardner-Webb,12,12,7,55,0,Gardner-Webb Deadball Team Rebound.
+VMI,Gardner-Webb,12,12,8,3,0,Adonis Burbage Turnover.
+VMI,Gardner-Webb,12,12,8,3,0,Official TV Timeout
+VMI,Gardner-Webb,12,12,8,18,0,QJ Peterson missed Jumper.
+VMI,Gardner-Webb,12,12,8,18,0,Laquincy Rideau Defensive Rebound.
+VMI,Gardner-Webb,12,12,8,22,0,Foul on Tim Marshall.
+VMI,Gardner-Webb,12,12,8,29,0,Foul on Fred Iruafemi.
+VMI,Gardner-Webb,12,14,8,34,1,Tyrell Nelson made Jumper.
+VMI,Gardner-Webb,12,14,8,34,0,Adonis Burbage Turnover.
+VMI,Gardner-Webb,12,14,8,59,0,Phillip Anglade Turnover.
+VMI,Gardner-Webb,12,14,9,0,0,Laquincy Rideau Steal.
+VMI,Gardner-Webb,12,16,9,11,1,David Efianayi made Jumper.
+VMI,Gardner-Webb,12,16,9,25,0,Jordan Weethee missed Three Point Jumper.
+VMI,Gardner-Webb,12,16,9,25,0,QJ Peterson Offensive Rebound.
+VMI,Gardner-Webb,15,16,9,37,1,QJ Peterson made Three Point Jumper. Assisted by Tim Marshall.
+VMI,Gardner-Webb,15,19,9,53,1,Adonis Burbage made Three Point Jumper. Assisted by David Efianayi.
+VMI,Gardner-Webb,18,19,10,8,1,Jordan Weethee made Three Point Jumper. Assisted by Phillip Anglade.
+VMI,Gardner-Webb,18,19,10,22,0,David Efianayi missed Jumper.
+VMI,Gardner-Webb,18,19,10,22,0,Tim Marshall Defensive Rebound.
+VMI,Gardner-Webb,18,19,10,35,0,Phillip Anglade missed Jumper.
+VMI,Gardner-Webb,18,19,10,35,0,L'Hassane Niangane Block.
+VMI,Gardner-Webb,18,19,10,37,0,Laquincy Rideau Defensive Rebound.
+VMI,Gardner-Webb,18,21,10,42,1,David Efianayi made Dunk. Assisted by Laquincy Rideau.
+VMI,Gardner-Webb,20,21,11,1,1,Phillip Anglade made Layup. Assisted by Adrian Rich.
+VMI,Gardner-Webb,20,23,11,26,1,Tyrell Nelson made Layup. Assisted by Laquincy Rideau.
+VMI,Gardner-Webb,20,23,11,51,0,Phillip Anglade missed Jumper.
+VMI,Gardner-Webb,20,23,11,51,0,L'Hassane Niangane Block.
+VMI,Gardner-Webb,20,23,11,53,0,Jamaal Robateau Defensive Rebound.
+VMI,Gardner-Webb,20,23,12,3,0,Foul on Phillip Anglade.
+VMI,Gardner-Webb,20,23,12,3,0,Official TV Timeout
+VMI,Gardner-Webb,20,23,12,3,0,Technical Foul on Jordan Weethee.
+VMI,Gardner-Webb,20,23,12,3,0,Technical Foul on L'Hassane Niangane.
+VMI,Gardner-Webb,20,23,12,3,0,Foul on L'Hassane Niangane.
+VMI,Gardner-Webb,20,23,12,3,0,Foul on Jordan Weethee.
+VMI,Gardner-Webb,20,24,12,3,1,Tyrell Nelson made Free Throw.
+VMI,Gardner-Webb,20,24,12,3,0,Tyrell Nelson missed Free Throw.
+VMI,Gardner-Webb,20,24,12,3,0,Trey Chapman Defensive Rebound.
+VMI,Gardner-Webb,22,24,12,15,1,Phillip Anglade made Layup. Assisted by Trey Chapman.
+VMI,Gardner-Webb,22,24,12,26,0,Jamaal Robateau missed Three Point Jumper.
+VMI,Gardner-Webb,22,24,12,26,0,Julian Eleby Defensive Rebound.
+VMI,Gardner-Webb,22,24,12,38,0,Julian Eleby Turnover.
+VMI,Gardner-Webb,22,24,12,39,0,Laquincy Rideau Steal.
+VMI,Gardner-Webb,22,26,12,41,1,Laquincy Rideau made Layup.
+VMI,Gardner-Webb,22,26,13,0,0,Adrian Rich missed Jumper.
+VMI,Gardner-Webb,22,26,13,0,0,Isaiah Ivey Defensive Rebound.
+VMI,Gardner-Webb,22,26,13,3,0,Foul on Phillip Anglade.
+VMI,Gardner-Webb,22,26,13,3,0,Isaiah Ivey missed Free Throw.
+VMI,Gardner-Webb,22,26,13,3,0,Dylan Poston Offensive Rebound.
+VMI,Gardner-Webb,22,28,13,6,1,Isaiah Ivey made Jumper.
+VMI,Gardner-Webb,22,28,13,13,0,Julian Eleby Turnover.
+VMI,Gardner-Webb,22,28,13,16,0,Laquincy Rideau Steal.
+VMI,Gardner-Webb,22,30,13,16,1,Laquincy Rideau made Layup.
+VMI,Gardner-Webb,22,30,13,16,0,VMI  Timeout
+VMI,Gardner-Webb,22,30,13,44,0,Trey Chapman Turnover.
+VMI,Gardner-Webb,22,30,13,45,0,Laquincy Rideau Steal.
+VMI,Gardner-Webb,22,30,13,51,0,Dylan Poston missed Three Point Jumper.
+VMI,Gardner-Webb,22,30,13,51,0,Austin Vereen Defensive Rebound.
+VMI,Gardner-Webb,22,30,14,5,0,Julian Eleby missed Three Point Jumper.
+VMI,Gardner-Webb,22,30,14,5,0,VMI Offensive Rebound.
+VMI,Gardner-Webb,22,30,14,24,0,Foul on Laquincy Rideau.
+VMI,Gardner-Webb,22,30,14,24,0,Trey Chapman missed Free Throw.
+VMI,Gardner-Webb,22,30,14,24,0,VMI Deadball Team Rebound.
+VMI,Gardner-Webb,23,30,14,24,1,Trey Chapman made Free Throw.
+VMI,Gardner-Webb,23,33,14,32,1,Dylan Poston made Three Point Jumper. Assisted by Harold McBride.
+VMI,Gardner-Webb,25,33,14,53,1,Fred Iruafemi made Dunk. Assisted by Fred Iruafemi.
+VMI,Gardner-Webb,25,33,15,3,0,Adonis Burbage missed Jumper.
+VMI,Gardner-Webb,25,33,15,3,0,Trey Chapman Defensive Rebound.
+VMI,Gardner-Webb,25,33,15,11,0,Tim Marshall missed Jumper.
+VMI,Gardner-Webb,25,33,15,11,0,Dylan Poston Defensive Rebound.
+VMI,Gardner-Webb,25,33,15,18,0,Dylan Poston missed Three Point Jumper.
+VMI,Gardner-Webb,25,33,15,18,0,Isaiah Ivey Offensive Rebound.
+VMI,Gardner-Webb,25,33,15,23,0,Brandon Miller Turnover.
+VMI,Gardner-Webb,25,33,15,24,0,QJ Peterson Steal.
+VMI,Gardner-Webb,27,33,15,35,1,Julian Eleby made Layup.
+VMI,Gardner-Webb,27,33,15,54,0,Foul on QJ Peterson.
+VMI,Gardner-Webb,27,34,15,54,1,Harold McBride made Free Throw.
+VMI,Gardner-Webb,27,35,15,54,1,Harold McBride made Free Throw.
+VMI,Gardner-Webb,27,35,16,8,0,Tim Marshall missed Three Point Jumper.
+VMI,Gardner-Webb,27,35,16,8,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,27,35,16,23,0,Adonis Burbage Turnover.
+VMI,Gardner-Webb,27,35,16,24,0,Julian Eleby Steal.
+VMI,Gardner-Webb,27,35,16,28,0,Foul on Adonis Burbage.
+VMI,Gardner-Webb,27,35,16,28,0,Official TV Timeout
+VMI,Gardner-Webb,28,35,16,28,1,Julian Eleby made Free Throw.
+VMI,Gardner-Webb,29,35,16,28,1,Julian Eleby made Free Throw.
+VMI,Gardner-Webb,29,35,16,39,0,Adonis Burbage missed Three Point Jumper.
+VMI,Gardner-Webb,29,35,16,39,0,DJ Laster Offensive Rebound.
+VMI,Gardner-Webb,29,35,16,45,0,DJ Laster missed Layup.
+VMI,Gardner-Webb,29,35,16,45,0,QJ Peterson Defensive Rebound.
+VMI,Gardner-Webb,29,35,16,48,0,Foul on DJ Laster.
+VMI,Gardner-Webb,29,35,16,54,0,Julian Eleby missed Jumper.
+VMI,Gardner-Webb,29,35,16,54,0,Adonis Burbage Defensive Rebound.
+VMI,Gardner-Webb,29,35,17,7,0,Tyrell Nelson Turnover.
+VMI,Gardner-Webb,32,35,17,13,1,Trey Chapman made Three Point Jumper. Assisted by Julian Eleby.
+VMI,Gardner-Webb,32,35,17,45,0,David Efianayi missed Layup.
+VMI,Gardner-Webb,32,35,17,45,0,Fred Iruafemi Defensive Rebound.
+VMI,Gardner-Webb,32,35,17,57,0,Fred Iruafemi missed Jumper.
+VMI,Gardner-Webb,32,35,17,57,0,DJ Laster Defensive Rebound.
+VMI,Gardner-Webb,32,35,18,10,0,Harold McBride Turnover.
+VMI,Gardner-Webb,32,35,18,11,0,Fred Iruafemi Steal.
+VMI,Gardner-Webb,35,35,18,15,1,Trey Chapman made Three Point Jumper. Assisted by Julian Eleby.
+VMI,Gardner-Webb,35,35,18,21,0,Gardner-Webb  Timeout
+VMI,Gardner-Webb,35,35,18,36,0,DJ Laster Turnover.
+VMI,Gardner-Webb,35,35,18,55,0,QJ Peterson missed Three Point Jumper.
+VMI,Gardner-Webb,35,35,18,55,0,Adonis Burbage Defensive Rebound.
+VMI,Gardner-Webb,35,35,19,11,0,Tyrell Nelson missed Jumper.
+VMI,Gardner-Webb,35,35,19,11,0,Julian Eleby Defensive Rebound.
+VMI,Gardner-Webb,38,35,19,32,1,QJ Peterson made Three Point Jumper. Assisted by Julian Eleby.
+VMI,Gardner-Webb,38,35,19,56,0,Adonis Burbage Turnover.
+VMI,Gardner-Webb,38,35,19,56,0,Austin Vereen Steal.
+VMI,Gardner-Webb,38,35,19,59,0,Foul on David Efianayi.
+VMI,Gardner-Webb,39,35,19,59,1,Julian Eleby made Free Throw.
+VMI,Gardner-Webb,40,35,19,59,1,Julian Eleby made Free Throw.
+VMI,Gardner-Webb,40,35,20,0,0,End of 1st half
+VMI,Gardner-Webb,40,35,20,20,0,Harold McBride missed Jumper.
+VMI,Gardner-Webb,40,35,20,20,0,Phillip Anglade Block.
+VMI,Gardner-Webb,40,35,20,22,0,QJ Peterson Defensive Rebound.
+VMI,Gardner-Webb,40,35,20,24,0,QJ Peterson missed Three Point Jumper.
+VMI,Gardner-Webb,40,35,20,24,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,40,35,20,49,0,Harold McBride missed Three Point Jumper.
+VMI,Gardner-Webb,40,35,20,49,0,Tim Marshall Defensive Rebound.
+VMI,Gardner-Webb,42,35,21,8,1,Phillip Anglade made Layup. Assisted by Tim Marshall.
+VMI,Gardner-Webb,42,38,21,30,1,Dylan Poston made Three Point Jumper. Assisted by Harold McBride.
+VMI,Gardner-Webb,44,38,21,50,1,Phillip Anglade made Jumper.
+VMI,Gardner-Webb,44,38,22,9,0,Foul on Phillip Anglade.
+VMI,Gardner-Webb,44,39,22,9,1,Tyrell Nelson made Free Throw.
+VMI,Gardner-Webb,44,39,22,9,0,Tyrell Nelson missed Free Throw.
+VMI,Gardner-Webb,44,39,22,9,0,Julian Eleby Defensive Rebound.
+VMI,Gardner-Webb,44,39,22,28,0,Tim Marshall missed Three Point Jumper.
+VMI,Gardner-Webb,44,39,22,28,0,L'Hassane Niangane Defensive Rebound.
+VMI,Gardner-Webb,44,41,22,44,1,Isaiah Ivey made Jumper.
+VMI,Gardner-Webb,44,41,23,2,0,Julian Eleby missed Three Point Jumper.
+VMI,Gardner-Webb,44,41,23,2,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,44,41,23,18,0,Foul on Trey Chapman.
+VMI,Gardner-Webb,44,41,23,23,0,Dylan Poston Turnover.
+VMI,Gardner-Webb,44,41,23,24,0,Fred Iruafemi Steal.
+VMI,Gardner-Webb,46,41,23,37,1,Tim Marshall made Jumper.
+VMI,Gardner-Webb,46,41,23,46,0,Harold McBride Turnover.
+VMI,Gardner-Webb,46,41,23,48,0,Julian Eleby Steal.
+VMI,Gardner-Webb,48,41,23,51,1,QJ Peterson made Layup. Assisted by Julian Eleby.
+VMI,Gardner-Webb,48,44,24,6,1,Isaiah Ivey made Three Point Jumper. Assisted by Harold McBride.
+VMI,Gardner-Webb,48,44,24,7,0,Foul on QJ Peterson.
+VMI,Gardner-Webb,48,44,24,7,0,Official TV Timeout
+VMI,Gardner-Webb,48,45,24,7,1,Isaiah Ivey made Free Throw.
+VMI,Gardner-Webb,48,45,24,27,0,QJ Peterson missed Three Point Jumper.
+VMI,Gardner-Webb,48,45,24,27,0,Isaiah Ivey Defensive Rebound.
+VMI,Gardner-Webb,48,45,24,43,0,L'Hassane Niangane missed Layup.
+VMI,Gardner-Webb,48,45,24,43,0,QJ Peterson Defensive Rebound.
+VMI,Gardner-Webb,48,45,25,0,0,Fred Iruafemi missed Jumper.
+VMI,Gardner-Webb,48,45,25,0,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,48,45,25,14,0,Foul on Trey Chapman.
+VMI,Gardner-Webb,48,46,25,14,1,Tyrell Nelson made Free Throw.
+VMI,Gardner-Webb,48,47,25,14,1,Tyrell Nelson made Free Throw.
+VMI,Gardner-Webb,48,47,25,43,0,Foul on Tyrell Nelson.
+VMI,Gardner-Webb,48,47,25,43,0,Trey Chapman missed Free Throw.
+VMI,Gardner-Webb,48,47,25,43,0,VMI Deadball Team Rebound.
+VMI,Gardner-Webb,48,47,25,43,0,Trey Chapman missed Free Throw.
+VMI,Gardner-Webb,48,47,25,43,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,48,47,26,2,0,Foul on Tim Marshall.
+VMI,Gardner-Webb,48,47,26,2,0,David Efianayi missed Free Throw.
+VMI,Gardner-Webb,48,47,26,2,0,Gardner-Webb Deadball Team Rebound.
+VMI,Gardner-Webb,48,48,26,2,1,David Efianayi made Free Throw.
+VMI,Gardner-Webb,48,48,26,26,0,Trey Chapman missed Layup.
+VMI,Gardner-Webb,48,48,26,26,0,Herve Aholode Block.
+VMI,Gardner-Webb,48,48,26,28,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,48,48,26,38,0,Tyrell Nelson Turnover.
+VMI,Gardner-Webb,48,48,26,39,0,QJ Peterson Steal.
+VMI,Gardner-Webb,48,48,26,49,0,Foul on Adonis Burbage.
+VMI,Gardner-Webb,48,48,26,59,0,Foul on Adonis Burbage.
+VMI,Gardner-Webb,49,48,26,59,1,QJ Peterson made Free Throw.
+VMI,Gardner-Webb,50,48,26,59,1,QJ Peterson made Free Throw.
+VMI,Gardner-Webb,50,48,27,19,0,David Efianayi missed Jumper.
+VMI,Gardner-Webb,50,48,27,19,0,David Efianayi Offensive Rebound.
+VMI,Gardner-Webb,50,48,27,30,0,Harold McBride missed Three Point Jumper.
+VMI,Gardner-Webb,50,48,27,30,0,QJ Peterson Defensive Rebound.
+VMI,Gardner-Webb,50,48,27,49,0,QJ Peterson missed Jumper.
+VMI,Gardner-Webb,50,48,27,49,0,Austin Vereen Offensive Rebound.
+VMI,Gardner-Webb,52,48,27,54,1,Austin Vereen made Two Point Tip Shot.
+VMI,Gardner-Webb,52,48,27,59,0,David Efianayi missed Layup.
+VMI,Gardner-Webb,52,48,27,59,0,Fred Iruafemi Block.
+VMI,Gardner-Webb,52,48,28,0,0,Adrian Rich Defensive Rebound.
+VMI,Gardner-Webb,55,48,28,7,1,Jordan Weethee made Three Point Jumper. Assisted by Austin Vereen.
+VMI,Gardner-Webb,55,48,28,32,0,Foul on Jordan Weethee.
+VMI,Gardner-Webb,55,48,28,32,0,Official TV Timeout
+VMI,Gardner-Webb,55,48,28,41,0,David Efianayi missed Jumper.
+VMI,Gardner-Webb,55,48,28,41,0,L'Hassane Niangane Offensive Rebound.
+VMI,Gardner-Webb,55,48,28,43,0,Foul on Phillip Anglade.
+VMI,Gardner-Webb,55,48,28,43,0,L'Hassane Niangane missed Free Throw.
+VMI,Gardner-Webb,55,48,28,43,0,Austin Vereen Defensive Rebound.
+VMI,Gardner-Webb,57,48,29,3,1,QJ Peterson made Dunk.
+VMI,Gardner-Webb,57,50,29,13,1,Laquincy Rideau made Layup.
+VMI,Gardner-Webb,60,50,29,31,1,Adrian Rich made Three Point Jumper. Assisted by QJ Peterson.
+VMI,Gardner-Webb,60,50,29,51,0,Foul on Adrian Rich.
+VMI,Gardner-Webb,60,50,29,51,0,Laquincy Rideau missed Free Throw.
+VMI,Gardner-Webb,60,50,29,51,0,Gardner-Webb Deadball Team Rebound.
+VMI,Gardner-Webb,60,50,29,51,0,Laquincy Rideau missed Free Throw.
+VMI,Gardner-Webb,60,50,29,51,0,Fred Iruafemi Defensive Rebound.
+VMI,Gardner-Webb,62,50,30,11,1,Trey Chapman made Layup. Assisted by Fred Iruafemi.
+VMI,Gardner-Webb,62,50,30,28,0,Foul on Trey Chapman.
+VMI,Gardner-Webb,62,50,30,28,0,L'Hassane Niangane missed Free Throw.
+VMI,Gardner-Webb,62,50,30,28,0,Gardner-Webb Deadball Team Rebound.
+VMI,Gardner-Webb,62,50,30,28,0,L'Hassane Niangane missed Free Throw.
+VMI,Gardner-Webb,62,50,30,28,0,Julian Eleby Defensive Rebound.
+VMI,Gardner-Webb,62,50,30,36,0,Julian Eleby Turnover.
+VMI,Gardner-Webb,62,50,30,37,0,Laquincy Rideau Steal.
+VMI,Gardner-Webb,62,50,30,41,0,Laquincy Rideau missed Layup.
+VMI,Gardner-Webb,62,50,30,41,0,Laquincy Rideau Offensive Rebound.
+VMI,Gardner-Webb,62,50,30,46,0,Isaiah Ivey missed Jumper.
+VMI,Gardner-Webb,62,50,30,46,0,Trey Chapman Defensive Rebound.
+VMI,Gardner-Webb,62,50,30,48,0,Foul on L'Hassane Niangane.
+VMI,Gardner-Webb,62,50,31,17,0,Julian Eleby missed Jumper.
+VMI,Gardner-Webb,62,50,31,17,0,QJ Peterson Offensive Rebound.
+VMI,Gardner-Webb,64,50,31,21,1,QJ Peterson made Dunk.
+VMI,Gardner-Webb,64,53,31,35,1,Isaiah Ivey made Three Point Jumper. Assisted by Tyrell Nelson.
+VMI,Gardner-Webb,66,53,32,4,1,Adrian Rich made Layup.
+VMI,Gardner-Webb,66,53,32,23,0,Tyrell Nelson missed Layup.
+VMI,Gardner-Webb,66,53,32,23,0,Fred Iruafemi Defensive Rebound.
+VMI,Gardner-Webb,66,53,32,36,0,Trey Chapman missed Three Point Jumper.
+VMI,Gardner-Webb,66,53,32,36,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,66,53,32,49,0,Foul on Trey Chapman.
+VMI,Gardner-Webb,66,53,32,49,0,Official TV Timeout
+VMI,Gardner-Webb,66,53,32,49,0,Laquincy Rideau missed Free Throw.
+VMI,Gardner-Webb,66,53,32,49,0,Gardner-Webb Deadball Team Rebound.
+VMI,Gardner-Webb,66,53,32,49,0,Laquincy Rideau missed Free Throw.
+VMI,Gardner-Webb,66,53,32,49,0,Jordan Weethee Defensive Rebound.
+VMI,Gardner-Webb,66,53,33,8,0,Fred Iruafemi missed Jumper.
+VMI,Gardner-Webb,66,53,33,8,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,66,53,33,21,0,Laquincy Rideau missed Three Point Jumper.
+VMI,Gardner-Webb,66,53,33,21,0,QJ Peterson Block.
+VMI,Gardner-Webb,66,53,33,24,0,Gardner-Webb Offensive Rebound.
+VMI,Gardner-Webb,66,53,33,29,0,Laquincy Rideau missed Jumper.
+VMI,Gardner-Webb,66,53,33,29,0,L'Hassane Niangane Offensive Rebound.
+VMI,Gardner-Webb,66,53,33,33,0,Foul on Fred Iruafemi.
+VMI,Gardner-Webb,66,54,33,33,1,L'Hassane Niangane made Free Throw.
+VMI,Gardner-Webb,66,55,33,33,1,L'Hassane Niangane made Free Throw.
+VMI,Gardner-Webb,66,55,33,55,0,Julian Eleby Turnover.
+VMI,Gardner-Webb,66,55,33,56,0,L'Hassane Niangane Steal.
+VMI,Gardner-Webb,66,57,34,3,1,Isaiah Ivey made Jumper. Assisted by Harold McBride.
+VMI,Gardner-Webb,69,57,34,31,1,QJ Peterson made Three Point Jumper.
+VMI,Gardner-Webb,69,57,34,44,0,Laquincy Rideau missed Layup.
+VMI,Gardner-Webb,69,57,34,44,0,Jordan Weethee Defensive Rebound.
+VMI,Gardner-Webb,69,57,34,46,0,Foul on L'Hassane Niangane.
+VMI,Gardner-Webb,69,57,34,51,0,Julian Eleby missed Three Point Jumper.
+VMI,Gardner-Webb,69,57,34,51,0,Fred Iruafemi Offensive Rebound.
+VMI,Gardner-Webb,69,57,35,14,0,QJ Peterson missed Three Point Jumper.
+VMI,Gardner-Webb,69,57,35,14,0,Laquincy Rideau Defensive Rebound.
+VMI,Gardner-Webb,69,57,35,22,0,Fred Iruafemi Defensive Rebound.
+VMI,Gardner-Webb,69,59,35,22,1,Harold McBride made Jumper.
+VMI,Gardner-Webb,69,59,35,22,0,Foul on QJ Peterson.
+VMI,Gardner-Webb,69,59,35,22,0,Harold McBride missed Free Throw.
+VMI,Gardner-Webb,69,59,35,22,0,Fred Iruafemi Turnover.
+VMI,Gardner-Webb,69,59,35,35,0,VMI  Timeout
+VMI,Gardner-Webb,69,59,35,47,0,Julian Eleby missed Layup.
+VMI,Gardner-Webb,69,59,35,47,0,Brandon Miller Defensive Rebound.
+VMI,Gardner-Webb,69,59,35,57,0,Foul on Fred Iruafemi.
+VMI,Gardner-Webb,69,59,35,57,0,Brandon Miller missed Free Throw.
+VMI,Gardner-Webb,69,59,35,57,0,Gardner-Webb Deadball Team Rebound.
+VMI,Gardner-Webb,69,60,35,57,1,Brandon Miller made Free Throw.
+VMI,Gardner-Webb,69,60,36,11,0,Foul on Harold McBride.
+VMI,Gardner-Webb,69,60,36,11,0,Official TV Timeout
+VMI,Gardner-Webb,69,60,36,24,0,Julian Eleby Turnover.
+VMI,Gardner-Webb,69,60,36,34,0,Harold McBride missed Layup.
+VMI,Gardner-Webb,69,60,36,34,0,Fred Iruafemi Block.
+VMI,Gardner-Webb,69,60,36,36,0,Tyrell Nelson Offensive Rebound.
+VMI,Gardner-Webb,69,60,36,42,0,Tyrell Nelson missed Two Point Tip Shot.
+VMI,Gardner-Webb,69,60,36,42,0,Tyrell Nelson Offensive Rebound.
+VMI,Gardner-Webb,69,60,36,42,0,Foul on Fred Iruafemi.
+VMI,Gardner-Webb,69,61,36,42,1,Tyrell Nelson made Free Throw.
+VMI,Gardner-Webb,69,61,36,42,0,Tyrell Nelson missed Free Throw.
+VMI,Gardner-Webb,69,61,36,42,0,Julian Eleby Defensive Rebound.
+VMI,Gardner-Webb,69,61,36,53,0,QJ Peterson missed Three Point Jumper.
+VMI,Gardner-Webb,69,61,36,53,0,Isaiah Ivey Defensive Rebound.
+VMI,Gardner-Webb,69,61,37,4,0,Harold McBride missed Three Point Jumper.
+VMI,Gardner-Webb,69,61,37,4,0,QJ Peterson Defensive Rebound.
+VMI,Gardner-Webb,71,61,37,22,1,Julian Eleby made Layup.
+VMI,Gardner-Webb,71,61,37,33,0,Foul on Phillip Anglade.
+VMI,Gardner-Webb,71,62,37,33,1,Tyrell Nelson made Free Throw.
+VMI,Gardner-Webb,71,62,37,33,0,Tyrell Nelson missed Free Throw.
+VMI,Gardner-Webb,71,62,37,33,0,Julian Eleby Defensive Rebound.
+VMI,Gardner-Webb,73,62,37,49,1,Trey Chapman made Layup. Assisted by Jordan Weethee.
+VMI,Gardner-Webb,73,65,37,55,1,Adonis Burbage made Three Point Jumper. Assisted by Laquincy Rideau.
+VMI,Gardner-Webb,73,65,37,57,0,Gardner-Webb  Timeout
+VMI,Gardner-Webb,73,65,38,7,0,VMI  Timeout
+VMI,Gardner-Webb,73,65,38,26,0,Adrian Rich missed Three Point Jumper.
+VMI,Gardner-Webb,73,65,38,26,0,Harold McBride Defensive Rebound.
+VMI,Gardner-Webb,73,65,38,38,0,Foul on Trey Chapman.
+VMI,Gardner-Webb,73,66,38,38,1,Tyrell Nelson made Free Throw.
+VMI,Gardner-Webb,73,67,38,38,1,Tyrell Nelson made Free Throw.
+VMI,Gardner-Webb,73,67,39,10,0,VMI  Turnover.
+VMI,Gardner-Webb,73,67,39,18,0,Isaiah Ivey missed Three Point Jumper.
+VMI,Gardner-Webb,73,67,39,18,0,VMI Defensive Rebound.
+VMI,Gardner-Webb,73,67,39,20,0,Gardner-Webb  Timeout
+VMI,Gardner-Webb,73,67,39,26,0,VMI  Timeout
+VMI,Gardner-Webb,73,67,39,27,0,Julian Eleby Turnover.
+VMI,Gardner-Webb,73,69,39,31,1,Laquincy Rideau made Layup.
+VMI,Gardner-Webb,73,69,39,31,0,Foul on Jordan Weethee.
+VMI,Gardner-Webb,73,70,39,31,1,Laquincy Rideau made Free Throw.
+VMI,Gardner-Webb,73,70,39,36,0,Foul on Harold McBride.
+VMI,Gardner-Webb,74,70,39,36,1,QJ Peterson made Free Throw.
+VMI,Gardner-Webb,75,70,39,36,1,QJ Peterson made Free Throw.
+VMI,Gardner-Webb,75,72,39,40,1,Laquincy Rideau made Layup.
+VMI,Gardner-Webb,75,72,39,42,0,Foul on Harold McBride.
+VMI,Gardner-Webb,76,72,39,42,1,QJ Peterson made Free Throw.
+VMI,Gardner-Webb,76,72,39,42,0,QJ Peterson missed Free Throw.
+VMI,Gardner-Webb,76,72,39,42,0,Tyrell Nelson Defensive Rebound.
+VMI,Gardner-Webb,76,75,39,49,1,Adonis Burbage made Three Point Jumper. Assisted by Laquincy Rideau.
+VMI,Gardner-Webb,76,75,39,50,0,Gardner-Webb  Timeout
+VMI,Gardner-Webb,76,75,39,52,0,Foul on Isaiah Ivey.
+VMI,Gardner-Webb,76,75,39,52,0,Julian Eleby missed Free Throw.
+VMI,Gardner-Webb,76,75,39,52,0,Harold McBride Defensive Rebound.
+VMI,Gardner-Webb,76,75,39,58,0,Harold McBride missed Layup.
+VMI,Gardner-Webb,76,75,39,58,0,Adonis Burbage Offensive Rebound.
+VMI,Gardner-Webb,76,75,40,0,0,End of Game

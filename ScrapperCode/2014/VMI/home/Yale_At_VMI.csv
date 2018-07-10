@@ -1,0 +1,337 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Yale,VMI,0,0,0,17,0,Nick Victor Turnover.
+Yale,VMI,0,2,0,27,1,D.J. Covington made Jumper.
+Yale,VMI,0,2,1,4,0,Javier Duren missed Jumper.
+Yale,VMI,0,2,1,45,0,D.J. Covington Defensive Rebound.
+Yale,VMI,0,4,2,40,1,Brian Brown made Jumper.
+Yale,VMI,0,4,2,51,0,Armani Cotton Turnover.
+Yale,VMI,0,6,2,55,1,D.J. Covington made Layup. Assisted by Rodney Glasgow.
+Yale,VMI,0,6,2,55,0,Nick Victor missed Jumper.
+Yale,VMI,0,6,2,55,0,Rodney Glasgow Defensive Rebound.
+Yale,VMI,0,6,2,55,0,Brian Brown missed Three Point Jumper.
+Yale,VMI,0,6,2,55,0,Justin Sears Defensive Rebound.
+Yale,VMI,2,6,2,55,1,Armani Cotton made Layup.
+Yale,VMI,2,8,3,2,1,QJ Peterson made Jumper.
+Yale,VMI,2,8,3,12,0,Foul on QJ Peterson.
+Yale,VMI,2,8,3,12,0,Foul on Tim Marshall.
+Yale,VMI,3,8,3,12,1,Javier Duren made Free Throw.
+Yale,VMI,4,8,3,12,1,Javier Duren made Free Throw.
+Yale,VMI,4,8,3,12,0,QJ Peterson missed Three Point Jumper.
+Yale,VMI,4,8,3,12,0,Justin Sears Defensive Rebound.
+Yale,VMI,7,8,3,12,1,Armani Cotton made Three Point Jumper. Assisted by Javier Duren.
+Yale,VMI,7,8,3,12,0,QJ Peterson missed Jumper.
+Yale,VMI,7,8,3,12,0,Nick Victor Defensive Rebound.
+Yale,VMI,9,8,3,12,1,Matt Townsend made Layup. Assisted by Javier Duren.
+Yale,VMI,9,10,3,15,1,Rodney Glasgow made Jumper.
+Yale,VMI,9,10,3,19,0,Foul on Trey Chapman.
+Yale,VMI,10,10,3,22,1,Justin Sears made Free Throw.
+Yale,VMI,10,10,3,22,0,Foul on Armani Cotton.
+Yale,VMI,11,10,3,22,1,Justin Sears made Free Throw.
+Yale,VMI,11,10,5,15,0,Rodney Glasgow missed Three Point Jumper.
+Yale,VMI,11,10,5,15,0,Armani Cotton Defensive Rebound.
+Yale,VMI,13,10,5,30,1,Brandon Sherrod made Jumper.
+Yale,VMI,13,10,5,47,0,Foul on Armani Cotton.
+Yale,VMI,13,10,5,47,0,Phillip Anglade missed Free Throw.
+Yale,VMI,13,10,5,47,0,QJ Peterson Offensive Rebound.
+Yale,VMI,13,10,5,47,0,Brandon Sherrod missed Layup.
+Yale,VMI,13,10,5,47,0,Justin Sears Offensive Rebound.
+Yale,VMI,13,10,5,47,0,VMI Deadball Team Rebound.
+Yale,VMI,13,10,5,47,0,Phillip Anglade missed Free Throw.
+Yale,VMI,13,10,5,57,0,Foul on Jordan Weethee.
+Yale,VMI,15,10,5,58,1,Brandon Sherrod made Layup. Assisted by Javier Duren.
+Yale,VMI,16,10,6,32,1,Javier Duren made Free Throw.
+Yale,VMI,16,10,6,32,0,Foul on D.J. Covington.
+Yale,VMI,17,10,6,32,1,Javier Duren made Free Throw.
+Yale,VMI,17,10,6,37,0,Javier Duren missed Jumper.
+Yale,VMI,17,10,6,37,0,Trey Chapman Defensive Rebound.
+Yale,VMI,17,12,6,53,1,Jordan Weethee made Jumper.
+Yale,VMI,17,12,7,11,0,Brandon Sherrod missed Layup.
+Yale,VMI,17,12,7,11,0,D.J. Covington Block.
+Yale,VMI,17,12,7,13,0,VMI Defensive Rebound.
+Yale,VMI,17,12,7,29,0,Jordan Weethee missed Three Point Jumper.
+Yale,VMI,17,12,7,29,0,Justin Sears Block.
+Yale,VMI,17,12,7,31,0,Brandon Sherrod Defensive Rebound.
+Yale,VMI,19,12,7,46,1,Anthony Dallier made Layup. Assisted by Justin Sears.
+Yale,VMI,19,12,7,54,0,Foul on Brandon Sherrod.
+Yale,VMI,19,14,8,3,1,Rodney Glasgow made Jumper.
+Yale,VMI,19,14,8,22,0,Jack Montague missed Three Point Jumper.
+Yale,VMI,19,14,8,22,0,J.T. Flowers Offensive Rebound.
+Yale,VMI,19,14,8,28,0,Anthony Dallier missed Three Point Jumper.
+Yale,VMI,19,14,8,28,0,Brandon Sherrod Offensive Rebound.
+Yale,VMI,19,14,8,30,0,Foul on Rodney Glasgow.
+Yale,VMI,19,14,8,37,0,Justin Sears missed Three Point Jumper.
+Yale,VMI,19,14,8,37,0,Brian Brown Defensive Rebound.
+Yale,VMI,19,14,8,52,0,QJ Peterson missed Layup.
+Yale,VMI,19,14,8,52,0,Brandon Sherrod Defensive Rebound.
+Yale,VMI,19,14,8,58,0,Justin Sears Turnover.
+Yale,VMI,19,14,9,7,0,Foul on Anthony Dallier.
+Yale,VMI,19,14,9,13,0,Foul on D.J. Covington.
+Yale,VMI,19,14,9,13,0,D.J. Covington Turnover.
+Yale,VMI,22,14,9,41,1,Jesse Pritchard made Three Point Jumper. Assisted by Justin Sears.
+Yale,VMI,22,14,9,53,0,Foul on Justin Sears.
+Yale,VMI,22,14,10,9,0,Craig Hinton missed Three Point Jumper.
+Yale,VMI,22,14,10,9,0,Jesse Pritchard Defensive Rebound.
+Yale,VMI,22,14,10,13,0,Jesse Pritchard Turnover.
+Yale,VMI,22,14,10,15,0,Rodney Glasgow Steal.
+Yale,VMI,22,16,10,16,1,Rodney Glasgow made Layup.
+Yale,VMI,24,16,10,38,1,Javier Duren made Jumper.
+Yale,VMI,24,16,10,56,0,Foul on Greg Kelley.
+Yale,VMI,24,16,11,7,0,Trey Chapman missed Three Point Jumper.
+Yale,VMI,24,16,11,7,0,Javier Duren Defensive Rebound.
+Yale,VMI,24,16,11,24,0,Jack Montague missed Three Point Jumper.
+Yale,VMI,24,16,11,24,0,VMI Deadball Team Rebound.
+Yale,VMI,24,16,11,26,0,Foul on Greg Kelley.
+Yale,VMI,24,16,11,26,0,Jarid Watson missed Free Throw.
+Yale,VMI,24,16,11,26,0,Matt Townsend Defensive Rebound.
+Yale,VMI,24,16,11,53,0,Javier Duren Turnover.
+Yale,VMI,24,16,11,55,0,Jarid Watson Steal.
+Yale,VMI,24,18,12,3,1,Jarid Watson made Dunk. Assisted by Tim Marshall.
+Yale,VMI,24,18,12,36,0,Javier Duren missed Three Point Jumper.
+Yale,VMI,24,18,12,36,0,QJ Peterson Defensive Rebound.
+Yale,VMI,24,18,12,57,0,Tim Marshall missed Three Point Jumper.
+Yale,VMI,24,18,12,57,0,Javier Duren Defensive Rebound.
+Yale,VMI,24,18,13,12,0,Jack Montague Turnover.
+Yale,VMI,24,18,13,12,0,Official TV Timeout
+Yale,VMI,24,20,13,30,1,Jordan Weethee made Layup. Assisted by QJ Peterson.
+Yale,VMI,24,20,14,8,0,Nick Victor missed Jumper.
+Yale,VMI,24,20,14,8,0,Rodney Glasgow Defensive Rebound.
+Yale,VMI,24,22,14,27,1,Rodney Glasgow made Jumper.
+Yale,VMI,24,22,14,27,0,Foul on Matt Townsend.
+Yale,VMI,24,23,14,27,1,Rodney Glasgow made Free Throw.
+Yale,VMI,24,23,14,42,0,Justin Sears missed Jumper.
+Yale,VMI,24,23,14,42,0,Phillip Anglade Defensive Rebound.
+Yale,VMI,24,23,14,48,0,Rodney Glasgow missed Three Point Jumper.
+Yale,VMI,24,23,14,48,0,Jesse Pritchard Defensive Rebound.
+Yale,VMI,26,23,14,59,1,Justin Sears made Jumper. Assisted by Javier Duren.
+Yale,VMI,26,23,15,19,0,Phillip Anglade missed Jumper.
+Yale,VMI,26,23,15,19,0,Justin Sears Defensive Rebound.
+Yale,VMI,26,23,15,37,0,Javier Duren missed Jumper.
+Yale,VMI,26,23,15,37,0,Phillip Anglade Defensive Rebound.
+Yale,VMI,26,26,15,43,1,Brian Brown made Three Point Jumper. Assisted by Rodney Glasgow.
+Yale,VMI,26,26,16,9,0,Foul on Phillip Anglade.
+Yale,VMI,26,26,16,9,0,Justin Sears missed Free Throw.
+Yale,VMI,26,26,16,9,0,Official TV Timeout
+Yale,VMI,26,26,16,9,0,Armani Cotton Offensive Rebound.
+Yale,VMI,27,26,16,14,1,Justin Sears made Free Throw.
+Yale,VMI,27,26,16,17,0,Justin Sears missed Free Throw.
+Yale,VMI,27,26,16,17,0,Armani Cotton Offensive Rebound.
+Yale,VMI,27,26,16,21,0,Armani Cotton missed Jumper.
+Yale,VMI,27,26,16,21,0,Rodney Glasgow Defensive Rebound.
+Yale,VMI,27,26,16,21,0,QJ Peterson Turnover.
+Yale,VMI,27,26,16,21,0,Brandon Sherrod Steal.
+Yale,VMI,27,26,16,26,0,Foul on Jarid Watson.
+Yale,VMI,28,26,16,50,1,Justin Sears made Free Throw.
+Yale,VMI,28,26,17,1,0,Justin Sears missed Free Throw.
+Yale,VMI,28,26,17,1,0,VMI Defensive Rebound.
+Yale,VMI,28,26,17,7,0,QJ Peterson missed Jumper.
+Yale,VMI,28,26,17,7,0,QJ Peterson Offensive Rebound.
+Yale,VMI,30,26,17,11,1,Justin Sears made Dunk.
+Yale,VMI,30,26,17,32,0,QJ Peterson missed Three Point Jumper.
+Yale,VMI,30,26,17,32,0,Armani Cotton Defensive Rebound.
+Yale,VMI,32,26,17,49,1,Justin Sears made Jumper.
+Yale,VMI,32,26,17,59,0,Jordan Weethee missed Three Point Jumper.
+Yale,VMI,32,26,17,59,0,Nick Victor Defensive Rebound.
+Yale,VMI,32,26,18,7,0,Yale  Timeout
+Yale,VMI,33,26,18,21,1,Brandon Sherrod made Free Throw.
+Yale,VMI,33,26,18,21,0,Javier Duren missed Three Point Jumper.
+Yale,VMI,33,26,18,21,0,Brandon Sherrod Offensive Rebound.
+Yale,VMI,33,26,18,24,0,QJ Peterson missed Jumper.
+Yale,VMI,33,26,18,24,0,Jarid Watson Offensive Rebound.
+Yale,VMI,33,26,18,25,0,Foul on Trey Chapman.
+Yale,VMI,33,26,18,28,0,Jarid Watson missed Jumper.
+Yale,VMI,33,26,18,28,0,Trey Chapman Offensive Rebound.
+Yale,VMI,33,26,18,32,0,Trey Chapman missed Jumper.
+Yale,VMI,33,26,18,32,0,Javier Duren Defensive Rebound.
+Yale,VMI,34,26,18,40,1,Brandon Sherrod made Free Throw.
+Yale,VMI,34,26,19,8,0,Jesse Pritchard missed Three Point Jumper.
+Yale,VMI,34,26,19,8,0,Javier Duren Offensive Rebound.
+Yale,VMI,37,26,19,28,1,Javier Duren made Three Point Jumper. Assisted by Justin Sears.
+Yale,VMI,37,26,19,36,0,D.J. Covington Turnover.
+Yale,VMI,37,26,19,38,0,VMI  Timeout
+Yale,VMI,37,26,19,57,0,Foul on Nick Victor.
+Yale,VMI,37,26,19,57,0,Rodney Glasgow missed Free Throw.
+Yale,VMI,37,26,19,57,0,VMI Deadball Team Rebound.
+Yale,VMI,37,27,19,57,1,Rodney Glasgow made Free Throw.
+Yale,VMI,37,27,20,0,0,Brandon Sherrod missed Three Point Jumper.
+Yale,VMI,37,27,20,0,0,VMI Deadball Team Rebound.
+Yale,VMI,37,27,20,0,0,End of 1st half
+Yale,VMI,37,27,20,8,0,Foul on Matt Townsend.
+Yale,VMI,37,27,20,10,0,D.J. Covington Turnover.
+Yale,VMI,37,27,20,44,0,Matt Townsend Turnover.
+Yale,VMI,37,27,20,46,0,D.J. Covington Steal.
+Yale,VMI,37,30,20,49,1,Rodney Glasgow made Three Point Jumper. Assisted by QJ Peterson.
+Yale,VMI,39,30,20,57,1,Justin Sears made Layup.
+Yale,VMI,39,30,21,2,0,Rodney Glasgow Turnover.
+Yale,VMI,39,30,21,4,0,Armani Cotton Steal.
+Yale,VMI,39,30,21,20,0,Foul on Brian Brown.
+Yale,VMI,39,30,21,33,0,Armani Cotton missed Three Point Jumper.
+Yale,VMI,39,30,21,33,0,Matt Townsend Offensive Rebound.
+Yale,VMI,39,30,21,37,0,Matt Townsend Turnover.
+Yale,VMI,39,30,21,49,0,Foul on Matt Townsend.
+Yale,VMI,39,30,21,49,0,D.J. Covington missed Free Throw.
+Yale,VMI,39,30,21,49,0,VMI Deadball Team Rebound.
+Yale,VMI,39,31,21,49,1,D.J. Covington made Free Throw.
+Yale,VMI,41,31,21,57,1,Brandon Sherrod made Layup. Assisted by Nick Victor.
+Yale,VMI,41,33,22,13,1,D.J. Covington made Jumper.
+Yale,VMI,43,33,22,42,1,Javier Duren made Jumper.
+Yale,VMI,43,33,22,54,0,Foul on Justin Sears.
+Yale,VMI,43,33,22,56,0,D.J. Covington missed Jumper.
+Yale,VMI,43,33,22,56,0,Javier Duren Defensive Rebound.
+Yale,VMI,45,33,23,15,1,Justin Sears made Jumper.
+Yale,VMI,45,33,23,26,0,D.J. Covington missed Jumper.
+Yale,VMI,45,33,23,26,0,D.J. Covington Offensive Rebound.
+Yale,VMI,45,36,23,39,1,Tim Marshall made Three Point Jumper. Assisted by Rodney Glasgow.
+Yale,VMI,48,36,23,59,1,Nick Victor made Three Point Jumper. Assisted by Javier Duren.
+Yale,VMI,48,36,24,8,0,Foul on Brandon Sherrod.
+Yale,VMI,48,36,24,8,0,Official TV Timeout
+Yale,VMI,48,37,24,8,1,Trey Chapman made Free Throw.
+Yale,VMI,48,38,24,8,1,Trey Chapman made Free Throw.
+Yale,VMI,48,38,24,17,0,Justin Sears missed Layup.
+Yale,VMI,48,38,24,17,0,D.J. Covington Block.
+Yale,VMI,48,38,24,21,0,Tim Marshall Defensive Rebound.
+Yale,VMI,48,38,24,24,0,Tim Marshall missed Jumper.
+Yale,VMI,48,38,24,24,0,Brandon Sherrod Block.
+Yale,VMI,48,38,24,26,0,Nick Victor Defensive Rebound.
+Yale,VMI,48,38,24,46,0,Foul on Trey Chapman.
+Yale,VMI,49,38,24,46,1,Justin Sears made Free Throw.
+Yale,VMI,49,38,24,46,0,Justin Sears missed Free Throw.
+Yale,VMI,49,38,24,46,0,D.J. Covington Defensive Rebound.
+Yale,VMI,49,38,25,0,0,Foul on Brandon Sherrod.
+Yale,VMI,49,38,25,17,0,Rodney Glasgow missed Jumper.
+Yale,VMI,49,38,25,17,0,Nick Victor Defensive Rebound.
+Yale,VMI,51,38,25,34,1,Brandon Sherrod made Jumper.
+Yale,VMI,51,38,25,44,0,D.J. Covington missed Jumper.
+Yale,VMI,51,38,25,44,0,Armani Cotton Defensive Rebound.
+Yale,VMI,51,38,26,8,0,Justin Sears Turnover.
+Yale,VMI,51,38,26,34,0,D.J. Covington missed Jumper.
+Yale,VMI,51,38,26,34,0,Nick Victor Defensive Rebound.
+Yale,VMI,54,38,26,57,1,Armani Cotton made Three Point Jumper. Assisted by Nick Victor.
+Yale,VMI,54,40,27,5,1,D.J. Covington made Layup. Assisted by Rodney Glasgow.
+Yale,VMI,54,40,27,9,0,VMI  Timeout
+Yale,VMI,54,40,27,23,0,Jack Montague missed Three Point Jumper.
+Yale,VMI,54,40,27,23,0,Phillip Anglade Defensive Rebound.
+Yale,VMI,54,42,27,32,1,D.J. Covington made Layup. Assisted by Rodney Glasgow.
+Yale,VMI,57,42,27,50,1,Greg Kelley made Three Point Jumper. Assisted by Javier Duren.
+Yale,VMI,57,42,28,24,0,Craig Hinton missed Three Point Jumper.
+Yale,VMI,57,42,28,24,0,Matt Townsend Defensive Rebound.
+Yale,VMI,57,42,28,42,0,Greg Kelley missed Three Point Jumper.
+Yale,VMI,57,42,28,42,0,Matt Townsend Offensive Rebound.
+Yale,VMI,57,42,28,44,0,Foul on Tim Marshall.
+Yale,VMI,57,42,28,44,0,Official TV Timeout
+Yale,VMI,57,42,28,46,0,Jack Montague Turnover.
+Yale,VMI,57,42,28,48,0,Jordan Weethee Steal.
+Yale,VMI,57,42,28,57,0,Foul on Javier Duren.
+Yale,VMI,57,42,29,10,0,Foul on Matt Townsend.
+Yale,VMI,57,43,29,10,1,D.J. Covington made Free Throw.
+Yale,VMI,57,44,29,10,1,D.J. Covington made Free Throw.
+Yale,VMI,57,44,29,16,0,Jack Montague missed Jumper.
+Yale,VMI,57,44,29,16,0,Jack Montague Offensive Rebound.
+Yale,VMI,57,44,29,19,0,Jack Montague Turnover.
+Yale,VMI,57,44,29,20,0,QJ Peterson Steal.
+Yale,VMI,57,44,29,25,0,QJ Peterson missed Jumper.
+Yale,VMI,57,44,29,25,0,Trey Chapman Offensive Rebound.
+Yale,VMI,57,44,29,26,0,Foul on Armani Cotton.
+Yale,VMI,57,45,29,26,1,Trey Chapman made Free Throw.
+Yale,VMI,57,45,29,26,0,Trey Chapman missed Free Throw.
+Yale,VMI,57,45,29,26,0,Greg Kelley Defensive Rebound.
+Yale,VMI,57,45,29,39,0,Foul on D.J. Covington.
+Yale,VMI,57,45,29,39,0,Justin Sears missed Free Throw.
+Yale,VMI,57,45,29,39,0,Yale Deadball Team Rebound.
+Yale,VMI,57,45,29,39,0,Anthony Dallier missed Free Throw.
+Yale,VMI,57,45,29,39,0,D.J. Covington Defensive Rebound.
+Yale,VMI,57,45,29,46,0,Tim Marshall Turnover.
+Yale,VMI,57,45,29,48,0,Armani Cotton Steal.
+Yale,VMI,57,45,30,3,0,Brandon Sherrod missed Jumper.
+Yale,VMI,57,45,30,3,0,Trey Chapman Defensive Rebound.
+Yale,VMI,57,45,30,12,0,Foul on Tim Marshall.
+Yale,VMI,57,45,30,12,0,Tim Marshall Turnover.
+Yale,VMI,57,45,30,17,0,Javier Duren Turnover.
+Yale,VMI,57,45,30,19,0,Rodney Glasgow Steal.
+Yale,VMI,57,45,30,24,0,Jordan Weethee missed Jumper.
+Yale,VMI,57,45,30,24,0,Brandon Sherrod Block.
+Yale,VMI,57,45,30,27,0,Brandon Sherrod Defensive Rebound.
+Yale,VMI,57,45,30,48,0,Javier Duren missed Jumper.
+Yale,VMI,57,45,30,48,0,Javier Duren Offensive Rebound.
+Yale,VMI,57,45,31,18,0,Brandon Sherrod missed Layup.
+Yale,VMI,57,45,31,18,0,Trey Chapman Defensive Rebound.
+Yale,VMI,57,47,31,24,1,Rodney Glasgow made Jumper.
+Yale,VMI,57,47,31,41,0,Yale  Timeout
+Yale,VMI,59,47,31,54,1,Anthony Dallier made Jumper.
+Yale,VMI,59,47,32,1,0,QJ Peterson missed Three Point Jumper.
+Yale,VMI,59,47,32,1,0,Armani Cotton Defensive Rebound.
+Yale,VMI,59,47,32,38,0,Brandon Sherrod Turnover.
+Yale,VMI,59,47,32,38,0,Official TV Timeout
+Yale,VMI,59,47,33,7,0,Foul on Anthony Dallier.
+Yale,VMI,59,47,33,7,0,Craig Hinton missed Free Throw.
+Yale,VMI,59,47,33,7,0,VMI Deadball Team Rebound.
+Yale,VMI,59,48,33,7,1,Craig Hinton made Free Throw.
+Yale,VMI,61,48,33,38,1,Javier Duren made Jumper.
+Yale,VMI,61,48,33,47,0,Foul on Javier Duren.
+Yale,VMI,61,49,33,47,1,Rodney Glasgow made Free Throw.
+Yale,VMI,61,50,33,47,1,Rodney Glasgow made Free Throw.
+Yale,VMI,63,50,34,16,1,Brandon Sherrod made Layup. Assisted by Javier Duren.
+Yale,VMI,63,50,34,16,0,Foul on Phillip Anglade.
+Yale,VMI,64,50,34,16,1,Brandon Sherrod made Free Throw.
+Yale,VMI,64,53,34,24,1,Rodney Glasgow made Three Point Jumper. Assisted by Brian Brown.
+Yale,VMI,64,53,34,29,0,Foul on Brian Brown.
+Yale,VMI,64,53,34,29,0,Javier Duren missed Free Throw.
+Yale,VMI,64,53,34,29,0,D.J. Covington Defensive Rebound.
+Yale,VMI,64,56,34,33,1,Brian Brown made Three Point Jumper. Assisted by Rodney Glasgow.
+Yale,VMI,64,56,35,8,0,Brandon Sherrod missed Layup.
+Yale,VMI,64,56,35,8,0,D.J. Covington Block.
+Yale,VMI,64,56,35,11,0,Javier Duren Offensive Rebound.
+Yale,VMI,64,56,35,11,0,Foul on QJ Peterson.
+Yale,VMI,64,56,35,11,0,Javier Duren missed Free Throw.
+Yale,VMI,64,56,35,11,0,D.J. Covington Defensive Rebound.
+Yale,VMI,64,56,35,24,0,QJ Peterson missed Jumper.
+Yale,VMI,64,56,35,24,0,D.J. Covington Offensive Rebound.
+Yale,VMI,64,58,35,27,1,D.J. Covington made Layup.
+Yale,VMI,64,58,35,27,0,VMI  Timeout
+Yale,VMI,66,58,35,56,1,Javier Duren made Jumper.
+Yale,VMI,66,58,36,10,0,Foul on Brandon Sherrod.
+Yale,VMI,66,58,36,10,0,Official TV Timeout
+Yale,VMI,66,59,36,10,1,Trey Chapman made Free Throw.
+Yale,VMI,66,59,36,10,0,Trey Chapman missed Free Throw.
+Yale,VMI,66,59,36,10,0,Nick Victor Defensive Rebound.
+Yale,VMI,66,59,36,35,0,Nick Victor missed Three Point Jumper.
+Yale,VMI,66,59,36,35,0,QJ Peterson Defensive Rebound.
+Yale,VMI,66,59,36,43,0,Rodney Glasgow missed Jumper.
+Yale,VMI,66,59,36,43,0,Armani Cotton Block.
+Yale,VMI,66,59,36,43,0,Yale Defensive Rebound.
+Yale,VMI,66,59,37,15,0,Brandon Sherrod Turnover.
+Yale,VMI,66,59,37,15,0,Rodney Glasgow Steal.
+Yale,VMI,66,59,37,36,0,Rodney Glasgow missed Jumper.
+Yale,VMI,66,59,37,36,0,Nick Victor Defensive Rebound.
+Yale,VMI,66,59,37,38,0,Foul on Rodney Glasgow.
+Yale,VMI,66,59,37,38,0,Nick Victor missed Free Throw.
+Yale,VMI,66,59,37,47,0,Nick Victor Offensive Rebound.
+Yale,VMI,66,59,38,5,0,Brandon Sherrod missed Layup.
+Yale,VMI,66,59,38,5,0,D.J. Covington Block.
+Yale,VMI,66,59,38,8,0,Brandon Sherrod Offensive Rebound.
+Yale,VMI,66,59,38,11,0,Brandon Sherrod missed Layup.
+Yale,VMI,66,59,38,11,0,D.J. Covington Block.
+Yale,VMI,66,59,38,14,0,Nick Victor Offensive Rebound.
+Yale,VMI,68,59,38,17,1,Nick Victor made Layup.
+Yale,VMI,68,59,38,17,0,Foul on Matt Townsend.
+Yale,VMI,68,59,38,17,0,QJ Peterson missed Free Throw.
+Yale,VMI,68,59,38,17,0,VMI Deadball Team Rebound.
+Yale,VMI,68,60,38,17,1,QJ Peterson made Free Throw.
+Yale,VMI,68,60,38,20,0,Foul on QJ Peterson.
+Yale,VMI,68,60,38,20,0,Armani Cotton missed Free Throw.
+Yale,VMI,68,60,38,20,0,Yale Deadball Team Rebound.
+Yale,VMI,69,60,38,20,1,Armani Cotton made Free Throw.
+Yale,VMI,69,60,38,29,0,QJ Peterson missed Layup.
+Yale,VMI,69,60,38,29,0,Anthony Dallier Defensive Rebound.
+Yale,VMI,69,60,38,37,0,Foul on Trey Chapman.
+Yale,VMI,70,60,38,37,1,Javier Duren made Free Throw.
+Yale,VMI,71,60,38,37,1,Javier Duren made Free Throw.
+Yale,VMI,71,60,38,45,0,D.J. Covington missed Jumper.
+Yale,VMI,71,60,38,45,0,Armani Cotton Defensive Rebound.
+Yale,VMI,71,60,38,58,0,Foul on Rodney Glasgow.
+Yale,VMI,72,60,38,58,1,Javier Duren made Free Throw.
+Yale,VMI,73,60,38,58,1,Javier Duren made Free Throw.
+Yale,VMI,73,60,39,7,0,Tim Marshall missed Three Point Jumper.
+Yale,VMI,73,60,39,7,0,Brandon Sherrod Defensive Rebound.
+Yale,VMI,75,60,39,42,1,Armani Cotton made Layup. Assisted by Anthony Dallier.
+Yale,VMI,75,62,39,52,1,D.J. Covington made Layup. Assisted by Rodney Glasgow.
+Yale,VMI,75,62,40,0,0,End of Game

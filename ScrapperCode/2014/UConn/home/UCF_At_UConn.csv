@@ -1,0 +1,377 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UCF,UConn,0,0,0,0,0,Jump Ball won by UCF
+UCF,UConn,2,0,0,19,1,Isaiah Sykes made Layup.
+UCF,UConn,2,0,0,47,0,Ryan Boatright Turnover.
+UCF,UConn,2,0,1,1,0,Kasey Wilson missed Jumper.
+UCF,UConn,2,0,1,1,0,DeAndre Daniels Block.
+UCF,UConn,2,0,1,1,0,Kasey Wilson Offensive Rebound.
+UCF,UConn,2,0,1,5,0,Kasey Wilson missed Jumper.
+UCF,UConn,2,0,1,5,0,Eugene McCrory Offensive Rebound.
+UCF,UConn,2,0,1,7,0,Foul on Tyler Olander.
+UCF,UConn,2,0,1,8,0,Calvin Newell Turnover.
+UCF,UConn,2,0,1,8,0,Shabazz Napier Steal.
+UCF,UConn,2,0,1,11,0,Shabazz Napier missed Jumper.
+UCF,UConn,2,0,1,11,0,Tristan Spurlock Defensive Rebound.
+UCF,UConn,4,0,1,20,1,Calvin Newell made Layup.
+UCF,UConn,4,0,1,39,0,Lasan Kromah missed Three Point Jumper.
+UCF,UConn,4,0,1,39,0,Calvin Newell Defensive Rebound.
+UCF,UConn,6,0,1,57,1,Eugene McCrory made Layup.
+UCF,UConn,6,0,2,0,0,Connecticut  Timeout
+UCF,UConn,6,3,2,8,1,DeAndre Daniels made Three Point Jumper. Assisted by Shabazz Napier.
+UCF,UConn,6,3,2,26,0,Tristan Spurlock missed Three Point Jumper.
+UCF,UConn,6,3,2,26,0,Shabazz Napier Block.
+UCF,UConn,6,3,2,26,0,Connecticut Defensive Rebound.
+UCF,UConn,6,6,2,36,1,DeAndre Daniels made Three Point Jumper. Assisted by Ryan Boatright.
+UCF,UConn,6,6,3,3,0,Foul on Amida Brimah.
+UCF,UConn,7,6,3,3,1,Isaiah Sykes made Free Throw.
+UCF,UConn,8,6,3,3,1,Isaiah Sykes made Free Throw.
+UCF,UConn,8,6,3,30,0,Shabazz Napier missed Jumper.
+UCF,UConn,8,6,3,30,0,Amida Brimah Offensive Rebound.
+UCF,UConn,8,8,3,36,1,Amida Brimah made Layup.
+UCF,UConn,8,8,3,52,0,Eugene McCrory missed Layup.
+UCF,UConn,8,8,3,52,0,Amida Brimah Block.
+UCF,UConn,8,8,3,52,0,DeAndre Daniels Defensive Rebound.
+UCF,UConn,8,10,4,1,1,Ryan Boatright made Jumper.
+UCF,UConn,8,10,4,22,0,Calvin Newell missed Layup.
+UCF,UConn,8,10,4,22,0,Eugene McCrory Offensive Rebound.
+UCF,UConn,10,10,4,22,1,Eugene McCrory made Two Point Tip Shot.
+UCF,UConn,10,10,4,45,0,Ryan Boatright Turnover.
+UCF,UConn,10,10,4,45,0,Eugene McCrory Steal.
+UCF,UConn,12,10,4,56,1,Eugene McCrory made Layup. Assisted by Calvin Newell.
+UCF,UConn,12,10,5,12,0,Foul on Eugene McCrory.
+UCF,UConn,12,10,5,12,0,Official TV Timeout
+UCF,UConn,12,11,5,12,1,Shabazz Napier made Free Throw.
+UCF,UConn,12,12,5,12,1,Shabazz Napier made Free Throw.
+UCF,UConn,12,12,5,41,0,Calvin Newell missed Three Point Jumper.
+UCF,UConn,12,12,5,41,0,Shabazz Napier Defensive Rebound.
+UCF,UConn,12,12,5,46,0,Foul on Staphon Blair.
+UCF,UConn,12,14,5,58,1,Amida Brimah made Dunk. Assisted by DeAndre Daniels.
+UCF,UConn,12,14,6,10,0,Isaiah Sykes missed Layup.
+UCF,UConn,12,14,6,10,0,Amida Brimah Block.
+UCF,UConn,12,14,6,10,0,Niels Giffey Defensive Rebound.
+UCF,UConn,12,14,6,20,0,Lasan Kromah missed Layup.
+UCF,UConn,12,14,6,20,0,Amida Brimah Offensive Rebound.
+UCF,UConn,12,16,6,20,1,Amida Brimah made Two Point Tip Shot.
+UCF,UConn,12,16,6,37,0,Tristan Spurlock missed Three Point Jumper.
+UCF,UConn,12,16,6,37,0,DeAndre Daniels Defensive Rebound.
+UCF,UConn,12,16,6,52,0,Lasan Kromah missed Layup.
+UCF,UConn,12,16,6,52,0,Staphon Blair Block.
+UCF,UConn,12,16,6,52,0,Kasey Wilson Defensive Rebound.
+UCF,UConn,12,16,6,58,0,Isaiah Sykes missed Layup.
+UCF,UConn,12,16,6,58,0,DeAndre Daniels Defensive Rebound.
+UCF,UConn,12,16,7,3,0,Foul on Tristan Spurlock.
+UCF,UConn,12,16,7,11,0,Shabazz Napier missed Three Point Jumper.
+UCF,UConn,12,16,7,11,0,Amida Brimah Offensive Rebound.
+UCF,UConn,12,18,7,14,1,Amida Brimah made Layup.
+UCF,UConn,12,18,7,29,0,Calvin Newell Turnover.
+UCF,UConn,12,18,7,29,0,Shabazz Napier Steal.
+UCF,UConn,12,20,7,34,1,Shabazz Napier made Layup. Assisted by Omar Calhoun.
+UCF,UConn,12,20,7,58,0,Foul on Omar Calhoun.
+UCF,UConn,12,20,7,58,0,Calvin Newell missed Free Throw.
+UCF,UConn,12,20,7,58,0,UCF Deadball Team Rebound.
+UCF,UConn,13,20,7,58,1,Calvin Newell made Free Throw.
+UCF,UConn,13,22,8,12,1,Phillip Nolan made Dunk. Assisted by Niels Giffey.
+UCF,UConn,13,22,8,49,0,Isaiah Sykes Turnover.
+UCF,UConn,13,22,8,49,0,Niels Giffey Steal.
+UCF,UConn,13,22,8,58,0,Ryan Boatright Turnover.
+UCF,UConn,13,22,8,58,0,Official TV Timeout
+UCF,UConn,16,22,9,24,1,Matt Williams made Three Point Jumper. Assisted by Kasey Wilson.
+UCF,UConn,16,22,9,58,0,Ryan Boatright missed Jumper.
+UCF,UConn,16,22,9,58,0,Isaiah Sykes Defensive Rebound.
+UCF,UConn,16,22,10,7,0,Matt Williams missed Three Point Jumper.
+UCF,UConn,16,22,10,7,0,Ryan Boatright Defensive Rebound.
+UCF,UConn,16,22,10,17,0,DeAndre Daniels missed Layup.
+UCF,UConn,16,22,10,17,0,Kasey Wilson Defensive Rebound.
+UCF,UConn,16,22,10,31,0,Eugene McCrory missed Layup.
+UCF,UConn,16,22,10,31,0,Phillip Nolan Block.
+UCF,UConn,16,22,10,31,0,Niels Giffey Defensive Rebound.
+UCF,UConn,16,22,10,40,0,Foul on Matt Williams.
+UCF,UConn,16,22,10,41,0,Omar Calhoun Turnover.
+UCF,UConn,16,22,10,41,0,Brandon Goodwin Steal.
+UCF,UConn,18,22,11,14,1,Isaiah Sykes made Layup.
+UCF,UConn,18,22,11,32,0,Ryan Boatright Turnover.
+UCF,UConn,18,22,11,32,0,Tristan Spurlock Steal.
+UCF,UConn,18,22,11,38,0,Brandon Goodwin missed Three Point Jumper.
+UCF,UConn,18,22,11,38,0,Phillip Nolan Defensive Rebound.
+UCF,UConn,18,22,12,4,0,Omar Calhoun missed Three Point Jumper.
+UCF,UConn,18,22,12,4,0,Matt Williams Defensive Rebound.
+UCF,UConn,21,22,12,16,1,Matt Williams made Three Point Jumper. Assisted by Isaiah Sykes.
+UCF,UConn,21,24,12,39,1,Niels Giffey made Layup. Assisted by Shabazz Napier.
+UCF,UConn,21,24,13,9,0,Eugene McCrory missed Layup.
+UCF,UConn,21,24,13,9,0,UCF Offensive Rebound.
+UCF,UConn,21,24,13,9,0,Official TV Timeout
+UCF,UConn,21,24,13,14,0,Tristan Spurlock missed Layup.
+UCF,UConn,21,24,13,14,0,Amida Brimah Block.
+UCF,UConn,21,24,13,14,0,UCF Deadball Team Rebound.
+UCF,UConn,21,24,13,14,0,UCF  Turnover.
+UCF,UConn,21,26,13,23,1,DeAndre Daniels made Dunk. Assisted by Shabazz Napier.
+UCF,UConn,21,26,13,41,0,Foul on Amida Brimah.
+UCF,UConn,21,26,13,41,0,Brandon Goodwin missed Free Throw.
+UCF,UConn,21,26,13,41,0,UCF Deadball Team Rebound.
+UCF,UConn,22,26,13,41,1,Brandon Goodwin made Free Throw.
+UCF,UConn,22,26,14,3,0,Shabazz Napier missed Three Point Jumper.
+UCF,UConn,22,26,14,3,0,DeAndre Daniels Offensive Rebound.
+UCF,UConn,22,26,14,8,0,Shabazz Napier Turnover.
+UCF,UConn,22,26,14,8,0,Brandon Goodwin Steal.
+UCF,UConn,22,26,14,13,0,Daiquan Walker missed Jumper.
+UCF,UConn,22,26,14,13,0,Ryan Boatright Defensive Rebound.
+UCF,UConn,22,26,14,26,0,Ryan Boatright missed Three Point Jumper.
+UCF,UConn,22,26,14,26,0,Shabazz Napier Offensive Rebound.
+UCF,UConn,22,26,14,33,0,Lasan Kromah missed Layup.
+UCF,UConn,22,26,14,33,0,Amida Brimah Offensive Rebound.
+UCF,UConn,22,28,14,33,1,Amida Brimah made Two Point Tip Shot.
+UCF,UConn,22,28,14,51,0,Brandon Goodwin missed Layup.
+UCF,UConn,22,28,14,51,0,Lasan Kromah Defensive Rebound.
+UCF,UConn,22,28,14,59,0,Lasan Kromah missed Three Point Jumper.
+UCF,UConn,22,28,14,59,0,Tristan Spurlock Defensive Rebound.
+UCF,UConn,22,28,15,8,0,Matt Williams missed Three Point Jumper.
+UCF,UConn,22,28,15,8,0,DeAndre Daniels Defensive Rebound.
+UCF,UConn,22,28,15,32,0,DeAndre Daniels missed Jumper.
+UCF,UConn,22,28,15,32,0,Connecticut Offensive Rebound.
+UCF,UConn,22,28,15,35,0,Foul on Matt Williams.
+UCF,UConn,22,31,15,42,1,Shabazz Napier made Three Point Jumper. Assisted by Ryan Boatright.
+UCF,UConn,22,31,16,9,0,Tristan Spurlock Turnover.
+UCF,UConn,22,31,16,9,0,Shabazz Napier Steal.
+UCF,UConn,22,31,16,20,0,DeAndre Daniels missed Three Point Jumper.
+UCF,UConn,22,31,16,20,0,Tristan Spurlock Defensive Rebound.
+UCF,UConn,22,31,16,27,0,Isaiah Sykes missed Layup.
+UCF,UConn,22,31,16,27,0,Phillip Nolan Defensive Rebound.
+UCF,UConn,22,31,16,32,0,Foul on Calvin Newell.
+UCF,UConn,22,31,16,32,0,Official TV Timeout
+UCF,UConn,22,32,16,32,1,Shabazz Napier made Free Throw.
+UCF,UConn,22,33,16,32,1,Shabazz Napier made Free Throw.
+UCF,UConn,24,33,17,6,1,Calvin Newell made Layup.
+UCF,UConn,24,33,17,26,0,Shabazz Napier Turnover.
+UCF,UConn,24,33,17,26,0,Calvin Newell Steal.
+UCF,UConn,24,33,17,32,0,Calvin Newell Turnover.
+UCF,UConn,24,33,17,32,0,Shabazz Napier Steal.
+UCF,UConn,24,33,17,59,0,Niels Giffey missed Three Point Jumper.
+UCF,UConn,24,33,17,59,0,Calvin Newell Defensive Rebound.
+UCF,UConn,24,33,18,19,0,Kasey Wilson missed Three Point Jumper.
+UCF,UConn,24,33,18,19,0,Connecticut Defensive Rebound.
+UCF,UConn,24,35,18,48,1,Phillip Nolan made Dunk. Assisted by Ryan Boatright.
+UCF,UConn,24,35,19,12,0,Eugene McCrory missed Layup.
+UCF,UConn,24,35,19,12,0,DeAndre Daniels Defensive Rebound.
+UCF,UConn,24,35,19,19,0,Shabazz Napier missed Jumper.
+UCF,UConn,24,35,19,19,0,Niels Giffey Offensive Rebound.
+UCF,UConn,24,35,19,22,0,Foul on Tristan Spurlock.
+UCF,UConn,24,35,19,22,0,Niels Giffey missed Free Throw.
+UCF,UConn,24,35,19,22,0,Kasey Wilson Defensive Rebound.
+UCF,UConn,24,35,19,32,0,Calvin Newell missed Layup.
+UCF,UConn,24,35,19,32,0,Niels Giffey Block.
+UCF,UConn,24,35,19,32,0,Phillip Nolan Defensive Rebound.
+UCF,UConn,24,35,19,57,0,Foul on Isaiah Sykes.
+UCF,UConn,24,35,19,57,0,Ryan Boatright missed Free Throw.
+UCF,UConn,24,35,19,57,0,Staphon Blair Defensive Rebound.
+UCF,UConn,24,35,20,0,0,End of 1st half
+UCF,UConn,24,35,20,0,0,Jump Ball won by UCF
+UCF,UConn,24,35,20,13,0,Calvin Newell missed Three Point Jumper.
+UCF,UConn,24,35,20,13,0,Ryan Boatright Defensive Rebound.
+UCF,UConn,24,35,20,50,0,Lasan Kromah missed Jumper.
+UCF,UConn,24,35,20,50,0,Connecticut Offensive Rebound.
+UCF,UConn,24,35,20,57,0,DeAndre Daniels missed Jumper.
+UCF,UConn,24,35,20,57,0,Isaiah Sykes Defensive Rebound.
+UCF,UConn,27,35,21,5,1,Kasey Wilson made Three Point Jumper. Assisted by Isaiah Sykes.
+UCF,UConn,27,35,21,32,0,Foul on Kasey Wilson.
+UCF,UConn,27,36,21,32,1,Shabazz Napier made Free Throw.
+UCF,UConn,27,36,21,32,0,Shabazz Napier missed Free Throw.
+UCF,UConn,27,36,21,32,0,Tristan Spurlock Defensive Rebound.
+UCF,UConn,29,36,21,46,1,Eugene McCrory made Layup. Assisted by Isaiah Sykes.
+UCF,UConn,29,36,21,57,0,DeAndre Daniels Turnover.
+UCF,UConn,29,36,21,57,0,Tristan Spurlock Steal.
+UCF,UConn,31,36,22,4,1,Tristan Spurlock made Layup. Assisted by Isaiah Sykes.
+UCF,UConn,31,36,22,4,0,Foul on DeAndre Daniels.
+UCF,UConn,32,36,22,4,1,Tristan Spurlock made Free Throw.
+UCF,UConn,32,36,22,14,0,Foul on Eugene McCrory.
+UCF,UConn,32,36,22,20,0,Shabazz Napier missed Jumper.
+UCF,UConn,32,36,22,20,0,Amida Brimah Offensive Rebound.
+UCF,UConn,32,36,22,31,0,Niels Giffey missed Jumper.
+UCF,UConn,32,36,22,31,0,Amida Brimah Offensive Rebound.
+UCF,UConn,32,36,22,33,0,Foul on Kasey Wilson.
+UCF,UConn,32,37,22,33,1,Amida Brimah made Free Throw.
+UCF,UConn,32,38,22,33,1,Amida Brimah made Free Throw.
+UCF,UConn,32,38,22,43,0,Calvin Newell Turnover.
+UCF,UConn,32,40,22,58,1,DeAndre Daniels made Jumper.
+UCF,UConn,32,40,23,23,0,Kasey Wilson missed Jumper.
+UCF,UConn,32,40,23,23,0,DeAndre Daniels Block.
+UCF,UConn,32,40,23,23,0,Niels Giffey Defensive Rebound.
+UCF,UConn,32,40,23,52,0,Amida Brimah missed Jumper.
+UCF,UConn,32,40,23,52,0,Eugene McCrory Defensive Rebound.
+UCF,UConn,32,40,24,7,0,Foul on Niels Giffey.
+UCF,UConn,32,40,24,7,0,Official TV Timeout
+UCF,UConn,32,40,24,13,0,Eugene McCrory missed Layup.
+UCF,UConn,32,40,24,13,0,Amida Brimah Block.
+UCF,UConn,32,40,24,13,0,UCF Offensive Rebound.
+UCF,UConn,32,40,24,25,0,Tristan Spurlock missed Jumper.
+UCF,UConn,32,40,24,25,0,Brandon Goodwin Offensive Rebound.
+UCF,UConn,32,40,24,37,0,Isaiah Sykes missed Layup.
+UCF,UConn,32,40,24,37,0,Niels Giffey Block.
+UCF,UConn,32,40,24,37,0,UCF Offensive Rebound.
+UCF,UConn,32,40,24,49,0,Kasey Wilson missed Three Point Jumper.
+UCF,UConn,32,40,24,49,0,Eugene McCrory Offensive Rebound.
+UCF,UConn,32,40,24,54,0,Eugene McCrory missed Layup.
+UCF,UConn,32,40,24,54,0,DeAndre Daniels Block.
+UCF,UConn,32,40,24,54,0,Omar Calhoun Defensive Rebound.
+UCF,UConn,32,40,25,3,0,Niels Giffey missed Three Point Jumper.
+UCF,UConn,32,40,25,3,0,Connecticut Offensive Rebound.
+UCF,UConn,32,40,25,8,0,Foul on Isaiah Sykes.
+UCF,UConn,32,43,25,21,1,Niels Giffey made Three Point Jumper. Assisted by Shabazz Napier.
+UCF,UConn,32,43,25,32,0,Foul on Shabazz Napier.
+UCF,UConn,32,43,25,32,0,Isaiah Sykes missed Free Throw.
+UCF,UConn,32,43,25,32,0,UCF Deadball Team Rebound.
+UCF,UConn,32,43,25,32,0,Isaiah Sykes missed Free Throw.
+UCF,UConn,32,43,25,32,0,Eugene McCrory Offensive Rebound.
+UCF,UConn,32,43,25,35,0,Foul on Amida Brimah.
+UCF,UConn,33,43,25,35,1,Eugene McCrory made Free Throw.
+UCF,UConn,34,43,25,35,1,Eugene McCrory made Free Throw.
+UCF,UConn,34,43,25,47,0,Amida Brimah missed Jumper.
+UCF,UConn,34,43,25,47,0,Kasey Wilson Defensive Rebound.
+UCF,UConn,34,43,25,55,0,Matt Williams missed Three Point Jumper.
+UCF,UConn,34,43,25,55,0,Shabazz Napier Defensive Rebound.
+UCF,UConn,34,45,26,1,1,Niels Giffey made Layup. Assisted by Shabazz Napier.
+UCF,UConn,36,45,26,12,1,Isaiah Sykes made Layup.
+UCF,UConn,36,45,26,12,0,Foul on Phillip Nolan.
+UCF,UConn,36,45,26,12,0,Isaiah Sykes missed Free Throw.
+UCF,UConn,36,45,26,12,0,Phillip Nolan Defensive Rebound.
+UCF,UConn,36,45,26,34,0,Omar Calhoun missed Jumper.
+UCF,UConn,36,45,26,34,0,Eugene McCrory Defensive Rebound.
+UCF,UConn,39,45,26,42,1,Matt Williams made Three Point Jumper. Assisted by Brandon Goodwin.
+UCF,UConn,39,45,26,48,0,Connecticut  Timeout
+UCF,UConn,39,45,27,22,0,Ryan Boatright missed Jumper.
+UCF,UConn,39,45,27,22,0,Kasey Wilson Defensive Rebound.
+UCF,UConn,39,45,27,47,0,Kasey Wilson missed Three Point Jumper.
+UCF,UConn,39,45,27,47,0,Ryan Boatright Defensive Rebound.
+UCF,UConn,39,47,28,1,1,Ryan Boatright made Layup.
+UCF,UConn,39,47,28,13,0,Foul on Lasan Kromah.
+UCF,UConn,39,47,28,13,0,Official TV Timeout
+UCF,UConn,39,47,28,25,0,Foul on Kasey Wilson.
+UCF,UConn,39,47,28,25,0,Kasey Wilson Turnover.
+UCF,UConn,39,49,28,41,1,Shabazz Napier made Jumper.
+UCF,UConn,39,49,28,53,0,Brandon Goodwin missed Jumper.
+UCF,UConn,39,49,28,53,0,Ryan Boatright Defensive Rebound.
+UCF,UConn,39,49,29,3,0,Shabazz Napier missed Layup.
+UCF,UConn,39,49,29,3,0,DeAndre Daniels Offensive Rebound.
+UCF,UConn,39,49,29,3,0,DeAndre Daniels missed Two Point Tip Shot.
+UCF,UConn,39,49,29,3,0,Shabazz Napier Offensive Rebound.
+UCF,UConn,39,49,29,12,0,Foul on Isaiah Sykes.
+UCF,UConn,39,49,29,12,0,DeAndre Daniels missed Free Throw.
+UCF,UConn,39,49,29,12,0,Connecticut Deadball Team Rebound.
+UCF,UConn,39,50,29,12,1,DeAndre Daniels made Free Throw.
+UCF,UConn,39,50,29,20,0,Eugene McCrory missed Layup.
+UCF,UConn,39,50,29,20,0,UCF Offensive Rebound.
+UCF,UConn,39,50,29,36,0,Foul on Phillip Nolan.
+UCF,UConn,40,50,29,36,1,Eugene McCrory made Free Throw.
+UCF,UConn,41,50,29,36,1,Eugene McCrory made Free Throw.
+UCF,UConn,41,50,29,48,0,Foul on Matt Williams.
+UCF,UConn,41,51,29,48,1,DeAndre Daniels made Free Throw.
+UCF,UConn,41,52,29,48,1,DeAndre Daniels made Free Throw.
+UCF,UConn,41,52,30,17,0,Eugene McCrory missed Layup.
+UCF,UConn,41,52,30,17,0,DeAndre Daniels Block.
+UCF,UConn,41,52,30,25,0,Eugene McCrory Offensive Rebound.
+UCF,UConn,41,52,30,25,0,Eugene McCrory missed Two Point Tip Shot.
+UCF,UConn,41,52,30,25,0,Isaiah Sykes Offensive Rebound.
+UCF,UConn,43,52,30,25,1,Isaiah Sykes made Two Point Tip Shot.
+UCF,UConn,43,54,30,50,1,Phillip Nolan made Layup. Assisted by Shabazz Napier.
+UCF,UConn,45,54,31,9,1,Tristan Spurlock made Layup.
+UCF,UConn,45,54,31,9,0,Foul on Phillip Nolan.
+UCF,UConn,46,54,31,9,1,Tristan Spurlock made Free Throw.
+UCF,UConn,46,54,31,27,0,DeAndre Daniels missed Three Point Jumper.
+UCF,UConn,46,54,31,27,0,Niels Giffey Offensive Rebound.
+UCF,UConn,46,54,31,32,0,Niels Giffey missed Three Point Jumper.
+UCF,UConn,46,54,31,32,0,Phillip Nolan Offensive Rebound.
+UCF,UConn,46,54,31,33,0,Foul on Eugene McCrory.
+UCF,UConn,46,55,31,33,1,Phillip Nolan made Free Throw.
+UCF,UConn,46,56,31,33,1,Phillip Nolan made Free Throw.
+UCF,UConn,46,56,31,52,0,Isaiah Sykes missed Layup.
+UCF,UConn,46,56,31,52,0,Shabazz Napier Defensive Rebound.
+UCF,UConn,46,59,32,15,1,Lasan Kromah made Three Point Jumper. Assisted by Shabazz Napier.
+UCF,UConn,46,59,32,21,0,Isaiah Sykes Turnover.
+UCF,UConn,46,59,32,21,0,Ryan Boatright Steal.
+UCF,UConn,46,59,32,22,0,Foul on Isaiah Sykes.
+UCF,UConn,46,59,32,22,0,Official TV Timeout
+UCF,UConn,46,60,32,22,1,Ryan Boatright made Free Throw.
+UCF,UConn,46,61,32,22,1,Ryan Boatright made Free Throw.
+UCF,UConn,49,61,32,49,1,Tristan Spurlock made Three Point Jumper.
+UCF,UConn,49,61,33,11,0,Ryan Boatright missed Jumper.
+UCF,UConn,49,61,33,11,0,Tristan Spurlock Defensive Rebound.
+UCF,UConn,49,61,33,18,0,Matt Williams missed Three Point Jumper.
+UCF,UConn,49,61,33,18,0,Ryan Boatright Defensive Rebound.
+UCF,UConn,49,61,33,39,0,Ryan Boatright missed Layup.
+UCF,UConn,49,61,33,39,0,Staphon Blair Block.
+UCF,UConn,49,61,33,39,0,Ryan Boatright Offensive Rebound.
+UCF,UConn,49,63,33,49,1,Amida Brimah made Dunk. Assisted by Shabazz Napier.
+UCF,UConn,49,63,34,12,0,Matt Williams missed Three Point Jumper.
+UCF,UConn,49,63,34,12,0,Lasan Kromah Defensive Rebound.
+UCF,UConn,49,65,34,33,1,Ryan Boatright made Jumper.
+UCF,UConn,49,65,34,45,0,Foul on Niels Giffey.
+UCF,UConn,50,65,34,45,1,Brandon Goodwin made Free Throw.
+UCF,UConn,51,65,34,45,1,Brandon Goodwin made Free Throw.
+UCF,UConn,51,67,34,56,1,Amida Brimah made Dunk. Assisted by Shabazz Napier.
+UCF,UConn,51,67,35,3,0,Kasey Wilson Turnover.
+UCF,UConn,51,67,35,3,0,Shabazz Napier Steal.
+UCF,UConn,51,67,35,4,0,Foul on Kasey Wilson.
+UCF,UConn,51,68,35,4,1,Shabazz Napier made Free Throw.
+UCF,UConn,51,69,35,4,1,Shabazz Napier made Free Throw.
+UCF,UConn,51,69,35,23,0,Isaiah Sykes missed Three Point Jumper.
+UCF,UConn,51,69,35,23,0,Amida Brimah Defensive Rebound.
+UCF,UConn,51,69,35,38,0,Foul on Kasey Wilson.
+UCF,UConn,51,70,35,38,1,Ryan Boatright made Free Throw.
+UCF,UConn,51,71,35,38,1,Ryan Boatright made Free Throw.
+UCF,UConn,51,71,35,53,0,Tristan Spurlock missed Layup.
+UCF,UConn,51,71,35,53,0,Eugene McCrory Offensive Rebound.
+UCF,UConn,51,71,35,58,0,Brandon Goodwin missed Three Point Jumper.
+UCF,UConn,51,71,35,58,0,Tristan Spurlock Offensive Rebound.
+UCF,UConn,53,71,35,58,1,Tristan Spurlock made Two Point Tip Shot.
+UCF,UConn,53,71,35,59,0,UCF  Timeout
+UCF,UConn,53,71,36,4,0,Omar Calhoun Turnover.
+UCF,UConn,53,71,36,4,0,Isaiah Sykes Steal.
+UCF,UConn,55,71,36,6,1,Isaiah Sykes made Layup.
+UCF,UConn,55,71,36,6,0,Foul on DeAndre Daniels.
+UCF,UConn,55,71,36,6,0,Official TV Timeout
+UCF,UConn,56,71,36,6,1,Isaiah Sykes made Free Throw.
+UCF,UConn,56,71,36,9,0,Foul on Calvin Newell.
+UCF,UConn,56,71,36,9,0,Ryan Boatright missed Free Throw.
+UCF,UConn,56,71,36,9,0,Connecticut Deadball Team Rebound.
+UCF,UConn,56,72,36,9,1,Ryan Boatright made Free Throw.
+UCF,UConn,56,72,36,19,0,Tristan Spurlock missed Three Point Jumper.
+UCF,UConn,56,72,36,19,0,UCF Offensive Rebound.
+UCF,UConn,56,72,36,26,0,Isaiah Sykes missed Jumper.
+UCF,UConn,56,72,36,26,0,Lasan Kromah Block.
+UCF,UConn,56,72,36,26,0,Amida Brimah Defensive Rebound.
+UCF,UConn,56,72,36,29,0,Foul on Tristan Spurlock.
+UCF,UConn,56,73,36,29,1,Amida Brimah made Free Throw.
+UCF,UConn,56,74,36,29,1,Amida Brimah made Free Throw.
+UCF,UConn,56,74,36,44,0,Brandon Goodwin Turnover.
+UCF,UConn,56,74,36,44,0,Ryan Boatright Steal.
+UCF,UConn,56,76,36,51,1,Lasan Kromah made Layup. Assisted by Ryan Boatright.
+UCF,UConn,56,76,37,2,0,Foul on Shabazz Napier.
+UCF,UConn,57,76,37,2,1,Isaiah Sykes made Free Throw.
+UCF,UConn,58,76,37,2,1,Isaiah Sykes made Free Throw.
+UCF,UConn,58,78,37,17,1,Amida Brimah made Dunk. Assisted by Shabazz Napier.
+UCF,UConn,58,78,37,30,0,Foul on Ryan Boatright.
+UCF,UConn,58,78,37,30,0,Calvin Newell missed Free Throw.
+UCF,UConn,58,78,37,30,0,UCF Deadball Team Rebound.
+UCF,UConn,59,78,37,30,1,Calvin Newell made Free Throw.
+UCF,UConn,59,80,37,59,1,Kentan Facey made Layup. Assisted by Shabazz Napier.
+UCF,UConn,61,80,38,5,1,Isaiah Sykes made Layup.
+UCF,UConn,61,80,38,5,0,Foul on Amida Brimah.
+UCF,UConn,61,80,38,5,0,Isaiah Sykes missed Free Throw.
+UCF,UConn,61,80,38,5,0,Kentan Facey Defensive Rebound.
+UCF,UConn,61,80,38,26,0,Connecticut  Timeout
+UCF,UConn,61,82,38,30,1,Terrence Samuel made Layup.
+UCF,UConn,61,82,38,50,0,Tristan Spurlock missed Layup.
+UCF,UConn,61,82,38,50,0,Amida Brimah Block.
+UCF,UConn,61,82,38,51,0,Omar Calhoun Defensive Rebound.
+UCF,UConn,61,82,39,1,0,Leon Tolksdorf missed Three Point Jumper.
+UCF,UConn,61,82,39,1,0,Kentan Facey Offensive Rebound.
+UCF,UConn,61,82,39,6,0,Kentan Facey missed Layup.
+UCF,UConn,61,82,39,6,0,Eugene McCrory Defensive Rebound.
+UCF,UConn,61,82,39,8,0,Foul on Terrence Samuel.
+UCF,UConn,61,82,39,8,0,Calvin Newell missed Free Throw.
+UCF,UConn,61,82,39,8,0,UCF Deadball Team Rebound.
+UCF,UConn,61,82,39,8,0,Calvin Newell missed Free Throw.
+UCF,UConn,61,82,39,8,0,Kentan Facey Defensive Rebound.
+UCF,UConn,61,84,39,17,1,Terrence Samuel made Jumper. Assisted by Pat Lenehan.
+UCF,UConn,61,84,39,20,0,Isaiah Sykes missed Jumper.
+UCF,UConn,61,84,39,20,0,Connecticut Defensive Rebound.
+UCF,UConn,61,84,40,0,0,End of Game

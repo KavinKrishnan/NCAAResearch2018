@@ -1,0 +1,331 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Arizona,California,0,0,0,0,0,Jump Ball won by California
+Arizona,California,0,2,0,13,1,Charlie Moore made Layup.
+Arizona,California,0,2,0,31,0,Lauri Markkanen missed Three Point Jumper.
+Arizona,California,0,2,0,31,0,Jabari Bird Defensive Rebound.
+Arizona,California,0,2,0,48,0,Sam Singer missed Layup.
+Arizona,California,0,2,0,48,0,Dusan Ristic Defensive Rebound.
+Arizona,California,0,2,1,3,0,Kobi Simmons missed Layup.
+Arizona,California,0,2,1,3,0,Rawle Alkins Offensive Rebound.
+Arizona,California,0,2,1,3,0,Rawle Alkins missed Jumper.
+Arizona,California,0,2,1,3,0,Arizona Offensive Rebound.
+Arizona,California,0,2,1,3,0,Lauri Markkanen missed Three Point Jumper.
+Arizona,California,0,2,1,3,0,Arizona Offensive Rebound.
+Arizona,California,0,2,1,3,0,Foul on Jabari Bird.
+Arizona,California,0,4,1,23,1,Sam Singer made Layup.
+Arizona,California,0,4,1,26,0,Arizona  Timeout
+Arizona,California,0,4,1,33,0,Kadeem Allen missed Layup.
+Arizona,California,0,4,1,33,0,Ivan Rabb Defensive Rebound.
+Arizona,California,0,4,1,43,0,Jabari Bird missed Jumper.
+Arizona,California,0,4,1,43,0,Kadeem Allen Defensive Rebound.
+Arizona,California,0,4,1,50,0,Kobi Simmons Turnover.
+Arizona,California,0,4,2,5,0,Ivan Rabb missed Jumper.
+Arizona,California,0,4,2,5,0,Kobi Simmons Defensive Rebound.
+Arizona,California,0,4,2,14,0,Rawle Alkins missed Layup.
+Arizona,California,0,4,2,14,0,Kingsley Okoroh Block.
+Arizona,California,0,4,2,14,0,Ivan Rabb Defensive Rebound.
+Arizona,California,0,4,2,28,0,Foul on Sam Singer.
+Arizona,California,0,4,2,28,0,Sam Singer Turnover.
+Arizona,California,2,4,2,46,1,Dusan Ristic made Jumper.
+Arizona,California,2,4,3,2,0,Foul on Ivan Rabb.
+Arizona,California,2,4,3,2,0,Ivan Rabb Turnover.
+Arizona,California,4,4,3,29,1,Dusan Ristic made Jumper. Assisted by Kobi Simmons.
+Arizona,California,4,4,3,46,0,Charlie Moore missed Jumper.
+Arizona,California,4,4,3,46,0,Kadeem Allen Defensive Rebound.
+Arizona,California,4,4,4,7,0,Kadeem Allen missed Jumper.
+Arizona,California,4,4,4,7,0,Kingsley Okoroh Defensive Rebound.
+Arizona,California,4,4,4,24,0,Kingsley Okoroh Turnover.
+Arizona,California,4,4,4,24,0,Official TV Timeout
+Arizona,California,6,4,4,30,1,Lauri Markkanen made Jumper.
+Arizona,California,6,7,4,55,1,Charlie Moore made Three Point Jumper. Assisted by Ivan Rabb.
+Arizona,California,6,7,5,18,0,Kadeem Allen Turnover.
+Arizona,California,6,7,5,18,0,Charlie Moore Steal.
+Arizona,California,6,9,5,48,1,Charlie Moore made Jumper.
+Arizona,California,6,9,6,5,0,Parker Jackson-Cartwright missed Jumper.
+Arizona,California,6,9,6,10,0,Ivan Rabb Defensive Rebound.
+Arizona,California,6,9,6,18,0,Ivan Rabb missed Jumper.
+Arizona,California,6,9,6,18,0,Arizona Defensive Rebound.
+Arizona,California,6,9,6,33,0,Chance Comanche Turnover.
+Arizona,California,6,9,6,57,0,Ivan Rabb missed Jumper.
+Arizona,California,6,9,6,57,0,Chance Comanche Block.
+Arizona,California,6,9,6,57,0,Parker Jackson-Cartwright Defensive Rebound.
+Arizona,California,6,9,7,12,0,Kobi Simmons missed Three Point Jumper.
+Arizona,California,6,9,7,12,0,Roger Moute A Bidias Defensive Rebound.
+Arizona,California,6,9,7,22,0,Foul on Keanu Pinder.
+Arizona,California,6,9,7,38,0,Grant Mullins missed Three Point Jumper.
+Arizona,California,6,9,7,38,0,Kadeem Allen Defensive Rebound.
+Arizona,California,6,9,7,49,0,Rawle Alkins missed Jumper.
+Arizona,California,6,9,7,49,0,Arizona Deadball Team Rebound.
+Arizona,California,6,9,7,51,0,Foul on Kingsley Okoroh.
+Arizona,California,6,9,7,52,0,Kadeem Allen missed Three Point Jumper.
+Arizona,California,6,9,7,52,0,Grant Mullins Defensive Rebound.
+Arizona,California,6,9,8,2,0,Foul on Chance Comanche.
+Arizona,California,6,9,8,2,0,Official TV Timeout
+Arizona,California,6,10,8,2,1,Jabari Bird made Free Throw.
+Arizona,California,6,11,8,2,1,Jabari Bird made Free Throw.
+Arizona,California,6,12,8,2,1,Jabari Bird made Free Throw.
+Arizona,California,6,12,8,15,0,Kobi Simmons missed Layup.
+Arizona,California,6,12,8,15,0,Rawle Alkins Offensive Rebound.
+Arizona,California,6,12,8,20,0,Kobi Simmons missed Jumper.
+Arizona,California,6,12,8,20,0,Ivan Rabb Block.
+Arizona,California,6,12,8,20,0,Ivan Rabb Defensive Rebound.
+Arizona,California,6,14,8,25,1,Jabari Bird made Dunk. Assisted by Charlie Moore.
+Arizona,California,6,14,8,46,0,Lauri Markkanen missed Three Point Jumper.
+Arizona,California,6,14,8,46,0,Kingsley Okoroh Defensive Rebound.
+Arizona,California,6,16,9,13,1,Ivan Rabb made Jumper. Assisted by Sam Singer.
+Arizona,California,6,16,9,35,0,Rawle Alkins missed Layup.
+Arizona,California,6,16,9,35,0,California Defensive Rebound.
+Arizona,California,6,18,9,51,1,Kingsley Okoroh made Dunk. Assisted by Ivan Rabb.
+Arizona,California,6,18,9,57,0,Arizona  Timeout
+Arizona,California,6,18,10,14,0,Foul on Kingsley Okoroh.
+Arizona,California,6,18,10,22,0,Dusan Ristic missed Jumper.
+Arizona,California,6,18,10,22,0,Jabari Bird Defensive Rebound.
+Arizona,California,6,18,10,37,0,Foul on Parker Jackson-Cartwright.
+Arizona,California,6,19,10,37,1,Jabari Bird made Free Throw.
+Arizona,California,6,19,10,37,0,Jabari Bird missed Free Throw.
+Arizona,California,6,19,10,37,0,Lauri Markkanen Defensive Rebound.
+Arizona,California,8,19,10,51,1,Lauri Markkanen made Layup.
+Arizona,California,8,19,11,9,0,Ivan Rabb missed Three Point Jumper.
+Arizona,California,8,19,11,9,0,Lauri Markkanen Defensive Rebound.
+Arizona,California,10,19,11,19,1,Lauri Markkanen made Layup. Assisted by Parker Jackson-Cartwright.
+Arizona,California,10,19,11,19,0,Foul on Cole Welle.
+Arizona,California,11,19,11,19,1,Lauri Markkanen made Free Throw.
+Arizona,California,11,19,11,31,0,Jabari Bird missed Three Point Jumper.
+Arizona,California,11,19,11,31,0,Rawle Alkins Defensive Rebound.
+Arizona,California,13,19,12,0,1,Rawle Alkins made Layup. Assisted by Parker Jackson-Cartwright.
+Arizona,California,13,19,12,29,0,Charlie Moore missed Three Point Jumper.
+Arizona,California,13,19,12,29,0,Dusan Ristic Defensive Rebound.
+Arizona,California,15,19,12,36,1,Dusan Ristic made Layup. Assisted by Kadeem Allen.
+Arizona,California,15,19,12,46,0,California  Timeout
+Arizona,California,15,19,12,46,0,Official TV Timeout
+Arizona,California,15,19,13,6,0,Stephen Domingo missed Three Point Jumper.
+Arizona,California,15,19,13,6,0,Parker Jackson-Cartwright Defensive Rebound.
+Arizona,California,15,19,13,16,0,Parker Jackson-Cartwright missed Layup.
+Arizona,California,15,19,13,16,0,Jabari Bird Defensive Rebound.
+Arizona,California,15,21,13,22,1,Jabari Bird made Layup. Assisted by Charlie Moore.
+Arizona,California,15,21,13,22,0,Foul on Parker Jackson-Cartwright.
+Arizona,California,15,22,13,22,1,Jabari Bird made Free Throw.
+Arizona,California,15,22,13,34,0,Lauri Markkanen missed Jumper.
+Arizona,California,15,22,13,34,0,Sam Singer Defensive Rebound.
+Arizona,California,15,22,13,53,0,Stephen Domingo missed Layup.
+Arizona,California,15,22,13,53,0,Ivan Rabb Offensive Rebound.
+Arizona,California,15,24,14,5,1,Ivan Rabb made Layup.
+Arizona,California,15,24,14,19,0,Kadeem Allen missed Three Point Jumper.
+Arizona,California,15,24,14,19,0,Rawle Alkins Offensive Rebound.
+Arizona,California,15,24,14,24,0,Rawle Alkins missed Layup.
+Arizona,California,15,24,14,24,0,Jabari Bird Defensive Rebound.
+Arizona,California,15,24,14,50,0,Ivan Rabb missed Jumper.
+Arizona,California,15,24,14,50,0,Kadeem Allen Defensive Rebound.
+Arizona,California,17,24,14,54,1,Kobi Simmons made Dunk. Assisted by Kadeem Allen.
+Arizona,California,17,24,15,16,0,Foul on Charlie Moore.
+Arizona,California,17,24,15,16,0,Charlie Moore Turnover.
+Arizona,California,17,24,15,36,0,Keanu Pinder missed Layup.
+Arizona,California,17,24,15,36,0,Ivan Rabb Defensive Rebound.
+Arizona,California,17,24,15,58,0,California  Timeout
+Arizona,California,17,24,16,4,0,Grant Mullins missed Three Point Jumper.
+Arizona,California,17,24,16,4,0,Ivan Rabb Offensive Rebound.
+Arizona,California,17,24,16,16,0,Charlie Moore missed Three Point Jumper.
+Arizona,California,17,24,16,16,0,California Deadball Team Rebound.
+Arizona,California,17,24,16,16,0,Foul on Rawle Alkins.
+Arizona,California,17,26,16,30,1,Ivan Rabb made Jumper.
+Arizona,California,20,26,16,41,1,Kadeem Allen made Three Point Jumper.
+Arizona,California,20,26,17,6,0,Roger Moute A Bidias missed Three Point Jumper.
+Arizona,California,20,26,17,6,0,California Offensive Rebound.
+Arizona,California,20,26,17,15,0,Foul on Lauri Markkanen.
+Arizona,California,20,26,17,24,0,Foul on Lauri Markkanen.
+Arizona,California,20,27,17,24,1,Roger Moute A Bidias made Free Throw.
+Arizona,California,20,28,17,24,1,Roger Moute A Bidias made Free Throw.
+Arizona,California,20,28,17,35,0,Kobi Simmons Turnover.
+Arizona,California,20,28,17,35,0,Ivan Rabb Steal.
+Arizona,California,20,30,17,53,1,Ivan Rabb made Jumper. Assisted by Sam Singer.
+Arizona,California,22,30,18,16,1,Dusan Ristic made Jumper. Assisted by Kobi Simmons.
+Arizona,California,22,30,18,39,0,Charlie Moore Turnover.
+Arizona,California,22,30,18,39,0,Kobi Simmons Steal.
+Arizona,California,24,30,18,44,1,Kobi Simmons made Layup. Assisted by Chance Comanche.
+Arizona,California,24,32,19,1,1,Jabari Bird made Jumper. Assisted by Sam Singer.
+Arizona,California,26,32,19,30,1,Dusan Ristic made Layup. Assisted by Rawle Alkins.
+Arizona,California,26,32,19,59,0,Roger Moute A Bidias missed Three Point Jumper.
+Arizona,California,26,32,19,59,0,Jabari Bird Offensive Rebound.
+Arizona,California,26,32,19,59,0,Jabari Bird missed Dunk.
+Arizona,California,26,32,19,59,0,Rawle Alkins Defensive Rebound.
+Arizona,California,26,32,20,0,0,End of 1st half
+Arizona,California,26,32,20,0,0,Jump Ball won by Arizona
+Arizona,California,26,32,20,15,0,Foul on Ivan Rabb.
+Arizona,California,26,32,20,20,0,Lauri Markkanen missed Jumper.
+Arizona,California,26,32,20,20,0,Ivan Rabb Defensive Rebound.
+Arizona,California,26,32,20,20,0,Foul on Dusan Ristic.
+Arizona,California,26,34,20,39,1,Ivan Rabb made Jumper.
+Arizona,California,26,34,20,59,0,Kobi Simmons missed Jumper.
+Arizona,California,26,34,20,59,0,Dusan Ristic Offensive Rebound.
+Arizona,California,28,34,21,3,1,Dusan Ristic made Layup.
+Arizona,California,28,34,21,22,0,Jabari Bird missed Jumper.
+Arizona,California,28,34,21,22,0,Ivan Rabb Offensive Rebound.
+Arizona,California,28,34,21,25,0,Ivan Rabb missed Layup.
+Arizona,California,28,34,21,25,0,Ivan Rabb Offensive Rebound.
+Arizona,California,28,34,21,28,0,Jabari Bird missed Layup.
+Arizona,California,28,34,21,28,0,Dusan Ristic Block.
+Arizona,California,28,34,21,28,0,Rawle Alkins Defensive Rebound.
+Arizona,California,30,34,21,35,1,Kadeem Allen made Layup.
+Arizona,California,30,34,21,47,0,Foul on Ivan Rabb.
+Arizona,California,30,34,21,47,0,Ivan Rabb Turnover.
+Arizona,California,30,34,22,4,0,Foul on Sam Singer.
+Arizona,California,32,34,22,9,1,Kobi Simmons made Jumper.
+Arizona,California,32,36,22,23,1,Jabari Bird made Dunk. Assisted by Kingsley Okoroh.
+Arizona,California,34,36,22,46,1,Kobi Simmons made Layup.
+Arizona,California,34,36,22,55,0,Charlie Moore missed Jumper.
+Arizona,California,34,36,22,55,0,Jabari Bird Offensive Rebound.
+Arizona,California,34,36,23,9,0,Foul on Rawle Alkins.
+Arizona,California,34,36,23,12,0,Kingsley Okoroh missed Jumper.
+Arizona,California,34,36,23,12,0,Lauri Markkanen Defensive Rebound.
+Arizona,California,36,36,23,33,1,Kobi Simmons made Layup.
+Arizona,California,36,36,24,0,0,Charlie Moore missed Jumper.
+Arizona,California,36,36,24,0,0,Lauri Markkanen Defensive Rebound.
+Arizona,California,36,36,24,8,0,Rawle Alkins missed Jumper.
+Arizona,California,36,36,24,8,0,Arizona Offensive Rebound.
+Arizona,California,36,36,24,8,0,Official TV Timeout
+Arizona,California,38,36,24,18,1,Kobi Simmons made Layup.
+Arizona,California,38,36,24,44,0,Charlie Moore Turnover.
+Arizona,California,38,36,24,44,0,Chance Comanche Steal.
+Arizona,California,38,36,24,51,0,Kadeem Allen missed Layup.
+Arizona,California,38,36,24,51,0,Kobi Simmons Offensive Rebound.
+Arizona,California,38,36,24,51,0,Foul on Jabari Bird.
+Arizona,California,39,36,24,51,1,Kobi Simmons made Free Throw.
+Arizona,California,40,36,24,51,1,Kobi Simmons made Free Throw.
+Arizona,California,40,36,25,4,0,Sam Singer missed Three Point Jumper.
+Arizona,California,40,36,25,4,0,Lauri Markkanen Defensive Rebound.
+Arizona,California,40,36,25,11,0,Kadeem Allen Turnover.
+Arizona,California,40,36,25,26,0,Stephen Domingo missed Jumper.
+Arizona,California,40,36,25,26,0,Lauri Markkanen Defensive Rebound.
+Arizona,California,40,36,25,57,0,Foul on Grant Mullins.
+Arizona,California,40,36,25,57,0,Lauri Markkanen missed Free Throw.
+Arizona,California,40,36,25,57,0,Arizona Deadball Team Rebound.
+Arizona,California,41,36,25,57,1,Lauri Markkanen made Free Throw.
+Arizona,California,41,36,26,13,0,Foul on Kadeem Allen.
+Arizona,California,41,36,26,29,0,Foul on Charlie Moore.
+Arizona,California,41,36,26,29,0,Charlie Moore Turnover.
+Arizona,California,41,36,26,37,0,Kadeem Allen missed Layup.
+Arizona,California,41,36,26,37,0,Kingsley Okoroh Block.
+Arizona,California,41,36,26,37,0,Ivan Rabb Defensive Rebound.
+Arizona,California,41,36,26,51,0,Charlie Moore missed Three Point Jumper.
+Arizona,California,41,36,26,51,0,Kingsley Okoroh Offensive Rebound.
+Arizona,California,41,36,26,51,0,Foul on Lauri Markkanen.
+Arizona,California,41,38,26,55,1,Ivan Rabb made Jumper.
+Arizona,California,41,38,27,21,0,Chance Comanche Turnover.
+Arizona,California,41,40,27,36,1,Grant Mullins made Layup.
+Arizona,California,41,40,27,57,0,Chance Comanche missed Dunk.
+Arizona,California,41,40,27,57,0,Jabari Bird Defensive Rebound.
+Arizona,California,41,42,28,28,1,Ivan Rabb made Jumper. Assisted by Charlie Moore.
+Arizona,California,43,42,28,45,1,Rawle Alkins made Jumper.
+Arizona,California,43,42,29,5,0,Foul on Rawle Alkins.
+Arizona,California,43,42,29,5,0,Official TV Timeout
+Arizona,California,43,42,29,5,0,Kingsley Okoroh missed Free Throw.
+Arizona,California,43,42,29,5,0,California Deadball Team Rebound.
+Arizona,California,43,43,29,5,1,Kingsley Okoroh made Free Throw.
+Arizona,California,45,43,29,27,1,Chance Comanche made Layup. Assisted by Parker Jackson-Cartwright.
+Arizona,California,45,43,29,27,0,Foul on Ivan Rabb.
+Arizona,California,46,43,29,27,1,Chance Comanche made Free Throw.
+Arizona,California,46,45,29,36,1,Kingsley Okoroh made Dunk. Assisted by Jabari Bird.
+Arizona,California,48,45,29,55,1,Kadeem Allen made Jumper.
+Arizona,California,48,45,30,15,0,Roger Moute A Bidias missed Jumper.
+Arizona,California,48,45,30,15,0,Chance Comanche Block.
+Arizona,California,48,45,30,15,0,Dusan Ristic Defensive Rebound.
+Arizona,California,50,45,30,33,1,Parker Jackson-Cartwright made Layup. Assisted by Dusan Ristic.
+Arizona,California,50,48,31,1,1,Grant Mullins made Three Point Jumper. Assisted by Roger Moute A Bidias.
+Arizona,California,52,48,31,25,1,Dusan Ristic made Layup. Assisted by Kadeem Allen.
+Arizona,California,52,48,31,45,0,Grant Mullins missed Jumper.
+Arizona,California,52,48,31,45,0,Chance Comanche Defensive Rebound.
+Arizona,California,54,48,32,11,1,Rawle Alkins made Layup.
+Arizona,California,54,48,32,33,0,Sam Singer missed Layup.
+Arizona,California,54,48,32,33,0,Parker Jackson-Cartwright Defensive Rebound.
+Arizona,California,54,48,32,59,0,Rawle Alkins missed Layup.
+Arizona,California,54,48,32,59,0,Kingsley Okoroh Block.
+Arizona,California,54,48,32,59,0,Rawle Alkins Offensive Rebound.
+Arizona,California,54,48,33,4,0,Rawle Alkins missed Jumper.
+Arizona,California,54,48,33,4,0,California Deadball Team Rebound.
+Arizona,California,54,48,33,4,0,Foul on Rawle Alkins.
+Arizona,California,54,48,33,4,0,Official TV Timeout
+Arizona,California,54,50,33,20,1,Kingsley Okoroh made Jumper. Assisted by Charlie Moore.
+Arizona,California,56,50,33,36,1,Lauri Markkanen made Jumper.
+Arizona,California,56,50,33,55,0,Charlie Moore missed Layup.
+Arizona,California,56,50,33,55,0,Dusan Ristic Block.
+Arizona,California,56,50,33,55,0,California Offensive Rebound.
+Arizona,California,56,50,33,55,0,Ivan Rabb Turnover.
+Arizona,California,56,50,34,24,0,Kobi Simmons missed Jumper.
+Arizona,California,56,50,34,24,0,Ivan Rabb Defensive Rebound.
+Arizona,California,56,50,34,34,0,Foul on Parker Jackson-Cartwright.
+Arizona,California,56,50,34,34,0,Charlie Moore missed Free Throw.
+Arizona,California,56,50,34,34,0,Chance Comanche Defensive Rebound.
+Arizona,California,56,50,35,0,0,Lauri Markkanen missed Layup.
+Arizona,California,56,50,35,0,0,Kingsley Okoroh Block.
+Arizona,California,56,50,35,0,0,Ivan Rabb Defensive Rebound.
+Arizona,California,56,50,35,8,0,Jabari Bird Turnover.
+Arizona,California,56,50,35,8,0,Kadeem Allen Steal.
+Arizona,California,56,50,35,8,0,Foul on Charlie Moore.
+Arizona,California,56,50,35,8,0,Kadeem Allen missed Free Throw.
+Arizona,California,56,50,35,8,0,Lauri Markkanen Offensive Rebound.
+Arizona,California,59,50,35,21,1,Lauri Markkanen made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Arizona,California,59,50,35,43,0,Kingsley Okoroh missed Jumper.
+Arizona,California,59,50,35,43,0,Sam Singer Offensive Rebound.
+Arizona,California,59,50,35,44,0,Foul on Kobi Simmons.
+Arizona,California,59,51,35,44,1,Sam Singer made Free Throw.
+Arizona,California,59,52,35,44,1,Sam Singer made Free Throw.
+Arizona,California,59,52,36,7,0,Lauri Markkanen missed Three Point Jumper.
+Arizona,California,59,52,36,7,0,Ivan Rabb Defensive Rebound.
+Arizona,California,59,52,36,19,0,Foul on Lauri Markkanen.
+Arizona,California,59,52,36,19,0,Official TV Timeout
+Arizona,California,59,53,36,19,1,Ivan Rabb made Free Throw.
+Arizona,California,59,53,36,19,0,Ivan Rabb missed Free Throw.
+Arizona,California,59,53,36,19,0,Lauri Markkanen Defensive Rebound.
+Arizona,California,59,53,36,40,0,Kobi Simmons missed Three Point Jumper.
+Arizona,California,59,53,36,40,0,Ivan Rabb Block.
+Arizona,California,59,53,36,40,0,Kingsley Okoroh Defensive Rebound.
+Arizona,California,59,53,37,7,0,Foul on Parker Jackson-Cartwright.
+Arizona,California,59,54,37,7,1,Charlie Moore made Free Throw.
+Arizona,California,59,55,37,7,1,Charlie Moore made Free Throw.
+Arizona,California,61,55,37,29,1,Rawle Alkins made Layup. Assisted by Kobi Simmons.
+Arizona,California,61,55,37,29,0,Foul on Kingsley Okoroh.
+Arizona,California,61,55,37,29,0,Rawle Alkins missed Free Throw.
+Arizona,California,61,55,37,29,0,Arizona Offensive Rebound.
+Arizona,California,61,55,37,53,0,Kobi Simmons missed Three Point Jumper.
+Arizona,California,61,55,37,53,0,Rawle Alkins Offensive Rebound.
+Arizona,California,61,55,37,53,0,Foul on Jabari Bird.
+Arizona,California,61,55,37,53,0,Rawle Alkins missed Free Throw.
+Arizona,California,61,55,37,53,0,Arizona Deadball Team Rebound.
+Arizona,California,62,55,37,53,1,Rawle Alkins made Free Throw.
+Arizona,California,62,55,38,2,0,Charlie Moore missed Layup.
+Arizona,California,62,55,38,2,0,Lauri Markkanen Defensive Rebound.
+Arizona,California,62,55,38,33,0,Dusan Ristic missed Jumper.
+Arizona,California,62,55,38,33,0,Charlie Moore Defensive Rebound.
+Arizona,California,62,55,38,44,0,Grant Mullins missed Layup.
+Arizona,California,62,55,38,44,0,Ivan Rabb Offensive Rebound.
+Arizona,California,62,55,38,48,0,Foul on Dusan Ristic.
+Arizona,California,62,55,38,48,0,Ivan Rabb missed Free Throw.
+Arizona,California,62,55,38,48,0,California Deadball Team Rebound.
+Arizona,California,62,56,38,48,1,Ivan Rabb made Free Throw.
+Arizona,California,64,56,39,14,1,Dusan Ristic made Jumper. Assisted by Kadeem Allen.
+Arizona,California,64,56,39,20,0,Foul on Kobi Simmons.
+Arizona,California,64,57,39,20,1,Charlie Moore made Free Throw.
+Arizona,California,64,58,39,20,1,Charlie Moore made Free Throw.
+Arizona,California,64,58,39,20,0,California  Timeout
+Arizona,California,64,58,39,20,0,Charlie Moore missed Free Throw.
+Arizona,California,64,58,39,20,0,Lauri Markkanen Defensive Rebound.
+Arizona,California,64,58,39,26,0,Foul on Sam Singer.
+Arizona,California,65,58,39,26,1,Kadeem Allen made Free Throw.
+Arizona,California,66,58,39,26,1,Kadeem Allen made Free Throw.
+Arizona,California,66,58,39,39,0,Foul on Keanu Pinder.
+Arizona,California,66,58,39,39,0,Charlie Moore missed Free Throw.
+Arizona,California,66,58,39,39,0,California Deadball Team Rebound.
+Arizona,California,66,59,39,39,1,Charlie Moore made Free Throw.
+Arizona,California,66,59,39,42,0,Lauri Markkanen Turnover.
+Arizona,California,66,62,39,42,1,Jabari Bird made Three Point Jumper. Assisted by Sam Singer.
+Arizona,California,66,62,39,48,0,Kadeem Allen Turnover.
+Arizona,California,66,62,39,48,0,Jabari Bird Steal.
+Arizona,California,66,62,39,52,0,Jabari Bird missed Three Point Jumper.
+Arizona,California,66,62,39,52,0,Rawle Alkins Defensive Rebound.
+Arizona,California,66,62,39,54,0,Foul on Charlie Moore.
+Arizona,California,67,62,39,54,1,Rawle Alkins made Free Throw.
+Arizona,California,67,62,39,54,0,Rawle Alkins missed Free Throw.
+Arizona,California,67,62,39,54,0,Ivan Rabb Defensive Rebound.
+Arizona,California,67,62,39,59,0,Charlie Moore missed Layup.
+Arizona,California,67,62,39,59,0,Kadeem Allen Defensive Rebound.
+Arizona,California,67,62,40,0,0,End of Game

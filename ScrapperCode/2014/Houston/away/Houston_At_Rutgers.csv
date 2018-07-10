@@ -1,0 +1,366 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Houston,Rutgers,0,0,0,0,0,Jump Ball won by Houston
+Houston,Rutgers,0,0,0,1,0,TaShawn Thomas Turnover.
+Houston,Rutgers,0,2,0,21,1,Kadeem Jack made Jumper.
+Houston,Rutgers,0,2,0,42,0,TaShawn Thomas missed Jumper.
+Houston,Rutgers,0,2,0,42,0,Junior Etou Defensive Rebound.
+Houston,Rutgers,0,2,0,52,0,J.J. Moore missed Three Point Jumper.
+Houston,Rutgers,0,2,0,52,0,TaShawn Thomas Defensive Rebound.
+Houston,Rutgers,2,2,1,0,1,TaShawn Thomas made Layup. Assisted by L.J. Rose.
+Houston,Rutgers,2,5,1,32,1,Junior Etou made Three Point Jumper. Assisted by Jerome Seagears.
+Houston,Rutgers,2,5,1,55,0,Brandon Morris missed Jumper.
+Houston,Rutgers,2,5,1,55,0,Kadeem Jack Block.
+Houston,Rutgers,2,5,1,55,0,Kadeem Jack Defensive Rebound.
+Houston,Rutgers,2,5,2,1,0,J.J. Moore missed Dunk.
+Houston,Rutgers,2,5,2,1,0,Mikhail McLean Defensive Rebound.
+Houston,Rutgers,2,5,2,10,0,Foul on Kadeem Jack.
+Houston,Rutgers,3,5,2,10,1,Brandon Morris made Free Throw.
+Houston,Rutgers,4,5,2,10,1,Brandon Morris made Free Throw.
+Houston,Rutgers,4,8,2,14,1,J.J. Moore made Three Point Jumper. Assisted by Myles Mack.
+Houston,Rutgers,4,8,2,29,0,TaShawn Thomas missed Jumper.
+Houston,Rutgers,4,8,2,29,0,J.J. Moore Defensive Rebound.
+Houston,Rutgers,4,10,2,34,1,J.J. Moore made Dunk.
+Houston,Rutgers,4,10,2,54,0,Danuel House missed Three Point Jumper.
+Houston,Rutgers,4,10,2,54,0,Rutgers Defensive Rebound.
+Houston,Rutgers,4,10,3,30,0,Junior Etou missed Three Point Jumper.
+Houston,Rutgers,4,10,3,30,0,Mikhail McLean Defensive Rebound.
+Houston,Rutgers,4,10,3,36,0,L.J. Rose missed Jumper.
+Houston,Rutgers,4,10,3,36,0,Kadeem Jack Block.
+Houston,Rutgers,4,10,3,36,0,Houston Offensive Rebound.
+Houston,Rutgers,6,10,3,45,1,Danuel House made Jumper.
+Houston,Rutgers,6,10,4,7,0,Jerome Seagears missed Jumper.
+Houston,Rutgers,6,10,4,7,0,TaShawn Thomas Defensive Rebound.
+Houston,Rutgers,6,10,4,26,0,L.J. Rose missed Layup.
+Houston,Rutgers,6,10,4,26,0,Kadeem Jack Block.
+Houston,Rutgers,6,10,4,26,0,Rutgers Defensive Rebound.
+Houston,Rutgers,6,10,4,26,0,Official TV Timeout
+Houston,Rutgers,6,10,4,42,0,Myles Mack missed Three Point Jumper.
+Houston,Rutgers,6,10,4,42,0,J.J. Moore Offensive Rebound.
+Houston,Rutgers,6,12,4,48,1,J.J. Moore made Jumper.
+Houston,Rutgers,6,12,4,48,0,Foul on TaShawn Thomas.
+Houston,Rutgers,6,13,4,48,1,J.J. Moore made Free Throw.
+Houston,Rutgers,6,13,4,53,0,Houston  Timeout
+Houston,Rutgers,6,13,5,6,0,TaShawn Thomas missed Jumper.
+Houston,Rutgers,6,13,5,6,0,Danrad Knowles Offensive Rebound.
+Houston,Rutgers,6,13,5,6,0,Foul on Junior Etou.
+Houston,Rutgers,8,13,5,9,1,Tione Womack made Layup.
+Houston,Rutgers,8,13,5,24,0,Foul on Tione Womack.
+Houston,Rutgers,8,16,5,29,1,J.J. Moore made Three Point Jumper. Assisted by Myles Mack.
+Houston,Rutgers,10,16,5,50,1,TaShawn Thomas made Layup.
+Houston,Rutgers,10,16,6,11,0,J.J. Moore missed Three Point Jumper.
+Houston,Rutgers,10,16,6,11,0,Tione Womack Defensive Rebound.
+Houston,Rutgers,10,16,6,22,0,Foul on Kadeem Jack.
+Houston,Rutgers,11,16,6,22,1,TaShawn Thomas made Free Throw.
+Houston,Rutgers,11,16,6,22,0,TaShawn Thomas missed Free Throw.
+Houston,Rutgers,11,16,6,22,0,Jerome Seagears Defensive Rebound.
+Houston,Rutgers,11,16,6,29,0,Myles Mack missed Three Point Jumper.
+Houston,Rutgers,11,16,6,29,0,Tione Womack Defensive Rebound.
+Houston,Rutgers,11,16,6,29,0,Foul on Greg Lewis.
+Houston,Rutgers,11,16,6,43,0,Jaaron Simmons Turnover.
+Houston,Rutgers,11,16,6,52,0,Malick Kone missed Jumper.
+Houston,Rutgers,11,16,6,52,0,Houston Defensive Rebound.
+Houston,Rutgers,13,16,7,10,1,J.J. Richardson made Layup.
+Houston,Rutgers,13,16,7,26,0,Junior Etou missed Three Point Jumper.
+Houston,Rutgers,13,16,7,26,0,Rutgers Offensive Rebound.
+Houston,Rutgers,13,18,7,32,1,Myles Mack made Layup.
+Houston,Rutgers,13,18,7,46,0,Foul on J.J. Richardson.
+Houston,Rutgers,13,18,7,46,0,J.J. Richardson Turnover.
+Houston,Rutgers,13,18,7,56,0,Foul on Jaaron Simmons.
+Houston,Rutgers,13,19,7,56,1,Myles Mack made Free Throw.
+Houston,Rutgers,13,20,7,56,1,Myles Mack made Free Throw.
+Houston,Rutgers,13,20,7,56,0,Myles Mack missed Free Throw.
+Houston,Rutgers,13,20,7,56,0,J.J. Richardson Defensive Rebound.
+Houston,Rutgers,13,20,8,0,0,Jherrod Stiggers Turnover.
+Houston,Rutgers,13,20,8,0,0,J.J. Moore Steal.
+Houston,Rutgers,13,20,8,6,0,Foul on Tione Womack.
+Houston,Rutgers,13,20,8,6,0,Official TV Timeout
+Houston,Rutgers,13,21,8,6,1,Myles Mack made Free Throw.
+Houston,Rutgers,13,22,8,6,1,Myles Mack made Free Throw.
+Houston,Rutgers,13,22,8,40,0,Brandon Morris missed Three Point Jumper.
+Houston,Rutgers,13,22,8,40,0,D'Von Campbell Defensive Rebound.
+Houston,Rutgers,13,22,8,43,0,D'Von Campbell Turnover.
+Houston,Rutgers,13,22,8,43,0,Brandon Morris Steal.
+Houston,Rutgers,13,22,8,57,0,J.J. Richardson Turnover.
+Houston,Rutgers,13,24,9,1,1,Malick Kone made Layup.
+Houston,Rutgers,13,24,9,28,0,Danrad Knowles missed Jumper.
+Houston,Rutgers,13,24,9,28,0,Malick Kone Defensive Rebound.
+Houston,Rutgers,13,24,9,35,0,Craig Brown missed Three Point Jumper.
+Houston,Rutgers,13,24,9,35,0,Brandon Morris Defensive Rebound.
+Houston,Rutgers,13,24,9,47,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,Rutgers,13,24,9,47,0,Craig Brown Defensive Rebound.
+Houston,Rutgers,13,24,10,8,0,D'Von Campbell Turnover.
+Houston,Rutgers,13,24,10,26,0,Foul on J.J. Moore.
+Houston,Rutgers,14,24,10,26,1,Mikhail McLean made Free Throw.
+Houston,Rutgers,14,24,10,26,0,Mikhail McLean missed Free Throw.
+Houston,Rutgers,14,24,10,26,0,Craig Brown Defensive Rebound.
+Houston,Rutgers,14,24,10,47,0,D'Von Campbell missed Jumper.
+Houston,Rutgers,14,24,10,47,0,Houston Defensive Rebound.
+Houston,Rutgers,14,24,11,3,0,Danuel House missed Three Point Jumper.
+Houston,Rutgers,14,24,11,3,0,J.J. Moore Defensive Rebound.
+Houston,Rutgers,14,26,11,10,1,J.J. Moore made Jumper.
+Houston,Rutgers,16,26,11,19,1,L.J. Rose made Layup.
+Houston,Rutgers,16,26,11,22,0,Rutgers  Timeout
+Houston,Rutgers,16,29,11,36,1,Myles Mack made Three Point Jumper. Assisted by Jerome Seagears.
+Houston,Rutgers,16,29,11,53,0,Brandon Morris missed Three Point Jumper.
+Houston,Rutgers,16,29,11,53,0,Brandon Morris Offensive Rebound.
+Houston,Rutgers,16,29,12,1,0,Danuel House missed Jumper.
+Houston,Rutgers,16,29,12,1,0,J.J. Moore Block.
+Houston,Rutgers,16,29,12,1,0,J.J. Moore Defensive Rebound.
+Houston,Rutgers,16,29,12,1,0,Jump Ball won by Rutgers
+Houston,Rutgers,16,29,12,1,0,Official TV Timeout
+Houston,Rutgers,16,29,12,13,0,Craig Brown missed Layup.
+Houston,Rutgers,16,29,12,13,0,Brandon Morris Defensive Rebound.
+Houston,Rutgers,16,29,12,42,0,Brandon Morris missed Jumper.
+Houston,Rutgers,16,29,12,42,0,Greg Lewis Block.
+Houston,Rutgers,16,29,12,42,0,TaShawn Thomas Offensive Rebound.
+Houston,Rutgers,18,29,12,46,1,TaShawn Thomas made Jumper.
+Houston,Rutgers,18,29,12,54,0,Myles Mack missed Three Point Jumper.
+Houston,Rutgers,18,29,12,54,0,TaShawn Thomas Defensive Rebound.
+Houston,Rutgers,20,29,13,0,1,Brandon Morris made Layup.
+Houston,Rutgers,20,31,13,10,1,Jerome Seagears made Jumper.
+Houston,Rutgers,20,31,13,10,0,Foul on L.J. Rose.
+Houston,Rutgers,20,32,13,10,1,Jerome Seagears made Free Throw.
+Houston,Rutgers,22,32,13,15,1,Brandon Morris made Layup.
+Houston,Rutgers,22,34,13,39,1,Jerome Seagears made Jumper.
+Houston,Rutgers,22,34,14,1,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,Rutgers,22,34,14,1,0,Brandon Morris Offensive Rebound.
+Houston,Rutgers,24,34,14,5,1,L.J. Rose made Jumper.
+Houston,Rutgers,24,34,14,25,0,J.J. Moore missed Three Point Jumper.
+Houston,Rutgers,24,34,14,25,0,L.J. Rose Defensive Rebound.
+Houston,Rutgers,24,34,14,36,0,Foul on Jherrod Stiggers.
+Houston,Rutgers,24,34,14,36,0,Jherrod Stiggers Turnover.
+Houston,Rutgers,24,34,14,45,0,J.J. Moore missed Jumper.
+Houston,Rutgers,24,34,14,45,0,TaShawn Thomas Block.
+Houston,Rutgers,24,34,14,45,0,Danuel House Defensive Rebound.
+Houston,Rutgers,24,34,14,52,0,Danuel House missed Layup.
+Houston,Rutgers,24,34,14,52,0,Rutgers Defensive Rebound.
+Houston,Rutgers,24,34,15,25,0,Myles Mack missed Jumper.
+Houston,Rutgers,24,34,15,25,0,TaShawn Thomas Defensive Rebound.
+Houston,Rutgers,24,34,15,36,0,TaShawn Thomas Turnover.
+Houston,Rutgers,24,36,15,56,1,Jerome Seagears made Jumper.
+Houston,Rutgers,27,36,16,17,1,L.J. Rose made Three Point Jumper. Assisted by Jherrod Stiggers.
+Houston,Rutgers,27,38,16,35,1,Myles Mack made Layup.
+Houston,Rutgers,29,38,16,46,1,TaShawn Thomas made Jumper.
+Houston,Rutgers,29,38,17,2,0,Greg Lewis missed Jumper.
+Houston,Rutgers,29,38,17,2,0,Jherrod Stiggers Defensive Rebound.
+Houston,Rutgers,29,38,17,25,0,Foul on Jerome Seagears.
+Houston,Rutgers,29,38,17,25,0,Official TV Timeout
+Houston,Rutgers,31,38,17,28,1,Danrad Knowles made Layup. Assisted by TaShawn Thomas.
+Houston,Rutgers,31,38,17,59,0,Jerome Seagears missed Jumper.
+Houston,Rutgers,31,38,17,59,0,TaShawn Thomas Defensive Rebound.
+Houston,Rutgers,31,38,18,5,0,TaShawn Thomas Turnover.
+Houston,Rutgers,31,38,18,5,0,J.J. Moore Steal.
+Houston,Rutgers,31,40,18,10,1,J.J. Moore made Dunk.
+Houston,Rutgers,31,40,18,30,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,Rutgers,31,40,18,30,0,Greg Lewis Defensive Rebound.
+Houston,Rutgers,31,40,18,41,0,Foul on Danrad Knowles.
+Houston,Rutgers,31,41,18,41,1,J.J. Moore made Free Throw.
+Houston,Rutgers,31,42,18,41,1,J.J. Moore made Free Throw.
+Houston,Rutgers,31,42,18,54,0,Foul on Danrad Knowles.
+Houston,Rutgers,31,42,18,54,0,Foul on Junior Etou.
+Houston,Rutgers,31,42,19,0,0,TaShawn Thomas Turnover.
+Houston,Rutgers,31,42,19,20,0,Foul on Brandon Morris.
+Houston,Rutgers,31,43,19,20,1,Myles Mack made Free Throw.
+Houston,Rutgers,31,44,19,20,1,Myles Mack made Free Throw.
+Houston,Rutgers,31,44,19,39,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,Rutgers,31,44,19,39,0,Jherrod Stiggers Offensive Rebound.
+Houston,Rutgers,31,44,19,45,0,Jherrod Stiggers missed Jumper.
+Houston,Rutgers,31,44,19,45,0,Myles Mack Block.
+Houston,Rutgers,31,44,19,45,0,Myles Mack Defensive Rebound.
+Houston,Rutgers,31,46,19,49,1,Myles Mack made Layup.
+Houston,Rutgers,31,46,19,58,0,Danuel House missed Three Point Jumper.
+Houston,Rutgers,31,46,19,58,0,Rutgers Deadball Team Rebound.
+Houston,Rutgers,31,46,20,0,0,End of 1st half
+Houston,Rutgers,31,46,20,0,0,Jump Ball won by Houston
+Houston,Rutgers,31,46,20,12,0,Foul on Myles Mack.
+Houston,Rutgers,33,46,20,16,1,Mikhail McLean made Jumper. Assisted by L.J. Rose.
+Houston,Rutgers,33,46,20,41,0,J.J. Moore missed Jumper.
+Houston,Rutgers,33,46,20,41,0,TaShawn Thomas Defensive Rebound.
+Houston,Rutgers,35,46,20,53,1,Mikhail McLean made Jumper.
+Houston,Rutgers,35,46,21,14,0,Foul on TaShawn Thomas.
+Houston,Rutgers,35,46,21,14,0,Kadeem Jack missed Free Throw.
+Houston,Rutgers,35,46,21,14,0,Rutgers Deadball Team Rebound.
+Houston,Rutgers,35,47,21,14,1,Kadeem Jack made Free Throw.
+Houston,Rutgers,35,47,21,28,0,TaShawn Thomas missed Layup.
+Houston,Rutgers,35,47,21,28,0,Kadeem Jack Block.
+Houston,Rutgers,35,47,21,28,0,Danuel House Offensive Rebound.
+Houston,Rutgers,37,47,21,34,1,Danuel House made Jumper.
+Houston,Rutgers,37,47,21,49,0,Foul on Mikhail McLean.
+Houston,Rutgers,37,48,21,49,1,Kadeem Jack made Free Throw.
+Houston,Rutgers,37,49,21,49,1,Kadeem Jack made Free Throw.
+Houston,Rutgers,39,49,22,8,1,TaShawn Thomas made Dunk. Assisted by Danuel House.
+Houston,Rutgers,39,51,22,30,1,Kadeem Jack made Jumper.
+Houston,Rutgers,42,51,22,49,1,Brandon Morris made Three Point Jumper. Assisted by L.J. Rose.
+Houston,Rutgers,42,51,23,13,0,Kadeem Jack missed Jumper.
+Houston,Rutgers,42,51,23,13,0,J.J. Moore Offensive Rebound.
+Houston,Rutgers,42,53,23,17,1,J.J. Moore made Jumper.
+Houston,Rutgers,42,53,23,41,0,Brandon Morris missed Jumper.
+Houston,Rutgers,42,53,23,41,0,Junior Etou Defensive Rebound.
+Houston,Rutgers,42,53,23,53,0,Myles Mack Turnover.
+Houston,Rutgers,42,53,23,53,0,Danuel House Steal.
+Houston,Rutgers,44,53,23,58,1,Danuel House made Layup.
+Houston,Rutgers,44,56,24,16,1,Myles Mack made Three Point Jumper.
+Houston,Rutgers,44,56,24,29,0,Foul on Myles Mack.
+Houston,Rutgers,44,56,24,29,0,Official TV Timeout
+Houston,Rutgers,44,56,24,30,0,Foul on Junior Etou.
+Houston,Rutgers,44,56,24,30,0,Jherrod Stiggers missed Free Throw.
+Houston,Rutgers,44,56,24,30,0,Houston Deadball Team Rebound.
+Houston,Rutgers,45,56,24,30,1,Jherrod Stiggers made Free Throw.
+Houston,Rutgers,45,58,24,36,1,Kadeem Jack made Layup. Assisted by Myles Mack.
+Houston,Rutgers,45,58,24,50,0,Jherrod Stiggers missed Jumper.
+Houston,Rutgers,45,58,24,50,0,Jherrod Stiggers Offensive Rebound.
+Houston,Rutgers,45,58,24,53,0,Jherrod Stiggers missed Jumper.
+Houston,Rutgers,45,58,24,53,0,Myles Mack Defensive Rebound.
+Houston,Rutgers,45,60,24,57,1,J.J. Moore made Dunk. Assisted by Myles Mack.
+Houston,Rutgers,45,60,25,0,0,Houston  Timeout
+Houston,Rutgers,45,60,25,29,0,Foul on Myles Mack.
+Houston,Rutgers,45,60,25,54,0,Danrad Knowles missed Jumper.
+Houston,Rutgers,45,60,25,54,0,Kadeem Jack Defensive Rebound.
+Houston,Rutgers,45,60,26,4,0,Foul on Jerome Seagears.
+Houston,Rutgers,45,60,26,4,0,Jerome Seagears Turnover.
+Houston,Rutgers,45,60,26,20,0,Danuel House Turnover.
+Houston,Rutgers,45,60,26,20,0,Jerome Seagears Steal.
+Houston,Rutgers,45,62,26,27,1,Jerome Seagears made Layup.
+Houston,Rutgers,45,62,26,27,0,Foul on Jaaron Simmons.
+Houston,Rutgers,45,62,26,27,0,Jerome Seagears missed Free Throw.
+Houston,Rutgers,45,62,26,27,0,Danrad Knowles Defensive Rebound.
+Houston,Rutgers,45,62,26,44,0,Foul on Kadeem Jack.
+Houston,Rutgers,45,62,26,49,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,Rutgers,45,62,26,49,0,TaShawn Thomas Offensive Rebound.
+Houston,Rutgers,45,62,27,2,0,TaShawn Thomas missed Jumper.
+Houston,Rutgers,45,62,27,2,0,Jerome Seagears Defensive Rebound.
+Houston,Rutgers,45,62,27,27,0,Kadeem Jack missed Jumper.
+Houston,Rutgers,45,62,27,27,0,Danrad Knowles Defensive Rebound.
+Houston,Rutgers,45,62,27,32,0,Foul on Jerome Seagears.
+Houston,Rutgers,45,62,27,32,0,Jaaron Simmons missed Free Throw.
+Houston,Rutgers,45,62,27,32,0,Junior Etou Defensive Rebound.
+Houston,Rutgers,45,62,27,37,0,Rutgers  Timeout
+Houston,Rutgers,45,62,27,52,0,Foul on Kadeem Jack.
+Houston,Rutgers,45,62,27,52,0,Kadeem Jack Turnover.
+Houston,Rutgers,45,62,28,14,0,Danrad Knowles Turnover.
+Houston,Rutgers,45,62,28,14,0,Official TV Timeout
+Houston,Rutgers,45,64,28,24,1,J.J. Moore made Jumper.
+Houston,Rutgers,45,64,28,24,0,Foul on Jherrod Stiggers.
+Houston,Rutgers,45,64,28,24,0,J.J. Moore missed Free Throw.
+Houston,Rutgers,45,64,28,24,0,TaShawn Thomas Defensive Rebound.
+Houston,Rutgers,47,64,28,56,1,L.J. Rose made Jumper.
+Houston,Rutgers,47,66,29,8,1,Jerome Seagears made Layup. Assisted by Malick Kone.
+Houston,Rutgers,47,66,29,18,0,Houston  Timeout
+Houston,Rutgers,47,66,29,18,0,Foul on TaShawn Thomas.
+Houston,Rutgers,47,66,29,18,0,TaShawn Thomas Turnover.
+Houston,Rutgers,47,66,29,36,0,J.J. Moore Turnover.
+Houston,Rutgers,47,66,29,36,0,Jherrod Stiggers Steal.
+Houston,Rutgers,47,66,29,43,0,Foul on Jerome Seagears.
+Houston,Rutgers,47,66,29,43,0,Brandon Morris missed Free Throw.
+Houston,Rutgers,47,66,29,43,0,Houston Deadball Team Rebound.
+Houston,Rutgers,48,66,29,43,1,Brandon Morris made Free Throw.
+Houston,Rutgers,48,66,29,52,0,Malick Kone missed Jumper.
+Houston,Rutgers,48,66,29,52,0,Mikhail McLean Defensive Rebound.
+Houston,Rutgers,48,66,29,52,0,Foul on Greg Lewis.
+Houston,Rutgers,48,66,29,52,0,Mikhail McLean missed Free Throw.
+Houston,Rutgers,48,66,29,52,0,Houston Deadball Team Rebound.
+Houston,Rutgers,49,66,29,52,1,Mikhail McLean made Free Throw.
+Houston,Rutgers,49,66,30,13,0,Greg Lewis Turnover.
+Houston,Rutgers,49,66,30,21,0,Foul on Malick Kone.
+Houston,Rutgers,49,66,30,21,0,L.J. Rose missed Free Throw.
+Houston,Rutgers,49,66,30,21,0,Houston Deadball Team Rebound.
+Houston,Rutgers,49,66,30,21,0,L.J. Rose missed Free Throw.
+Houston,Rutgers,49,66,30,21,0,Kadeem Jack Defensive Rebound.
+Houston,Rutgers,49,66,30,35,0,Kadeem Jack Turnover.
+Houston,Rutgers,49,66,30,35,0,Mikhail McLean Steal.
+Houston,Rutgers,52,66,30,43,1,Brandon Morris made Three Point Jumper. Assisted by L.J. Rose.
+Houston,Rutgers,52,66,31,3,0,Malick Kone missed Jumper.
+Houston,Rutgers,52,66,31,3,0,Kadeem Jack Offensive Rebound.
+Houston,Rutgers,52,66,31,5,0,Foul on Mikhail McLean.
+Houston,Rutgers,52,66,31,5,0,Kadeem Jack missed Free Throw.
+Houston,Rutgers,52,66,31,5,0,Rutgers Deadball Team Rebound.
+Houston,Rutgers,52,67,31,5,1,Kadeem Jack made Free Throw.
+Houston,Rutgers,54,67,31,22,1,Danuel House made Jumper.
+Houston,Rutgers,54,69,31,33,1,Craig Brown made Jumper.
+Houston,Rutgers,54,69,31,33,0,Foul on J.J. Richardson.
+Houston,Rutgers,54,70,31,33,1,Craig Brown made Free Throw.
+Houston,Rutgers,54,70,31,47,0,Danuel House Turnover.
+Houston,Rutgers,54,70,31,47,0,Malick Kone Steal.
+Houston,Rutgers,54,70,32,8,0,Myles Mack missed Three Point Jumper.
+Houston,Rutgers,54,70,32,8,0,Danuel House Defensive Rebound.
+Houston,Rutgers,54,70,32,8,0,Foul on Craig Brown.
+Houston,Rutgers,54,70,32,8,0,Official TV Timeout
+Houston,Rutgers,54,70,32,8,0,Danuel House missed Free Throw.
+Houston,Rutgers,54,70,32,8,0,Houston Deadball Team Rebound.
+Houston,Rutgers,55,70,32,8,1,Danuel House made Free Throw.
+Houston,Rutgers,55,70,32,37,0,Craig Brown missed Jumper.
+Houston,Rutgers,55,70,32,37,0,Kadeem Jack Offensive Rebound.
+Houston,Rutgers,55,72,32,42,1,Kadeem Jack made Dunk.
+Houston,Rutgers,55,72,32,52,0,Danuel House missed Three Point Jumper.
+Houston,Rutgers,55,72,32,52,0,Myles Mack Defensive Rebound.
+Houston,Rutgers,55,75,33,0,1,Myles Mack made Three Point Jumper. Assisted by Jerome Seagears.
+Houston,Rutgers,55,75,33,7,0,Houston  Timeout
+Houston,Rutgers,55,75,33,15,0,Danrad Knowles missed Three Point Jumper.
+Houston,Rutgers,55,75,33,15,0,TaShawn Thomas Offensive Rebound.
+Houston,Rutgers,57,75,33,21,1,Danrad Knowles made Layup. Assisted by TaShawn Thomas.
+Houston,Rutgers,57,78,33,44,1,Craig Brown made Three Point Jumper. Assisted by Myles Mack.
+Houston,Rutgers,57,78,33,55,0,Foul on Jerome Seagears.
+Houston,Rutgers,58,78,33,55,1,L.J. Rose made Free Throw.
+Houston,Rutgers,59,78,33,55,1,L.J. Rose made Free Throw.
+Houston,Rutgers,59,78,34,1,0,Foul on Tione Womack.
+Houston,Rutgers,59,79,34,1,1,Myles Mack made Free Throw.
+Houston,Rutgers,59,80,34,1,1,Myles Mack made Free Throw.
+Houston,Rutgers,59,80,34,14,0,TaShawn Thomas missed Jumper.
+Houston,Rutgers,59,80,34,14,0,Kadeem Jack Defensive Rebound.
+Houston,Rutgers,59,82,34,20,1,Kadeem Jack made Dunk. Assisted by Myles Mack.
+Houston,Rutgers,61,82,34,28,1,Danuel House made Layup.
+Houston,Rutgers,61,82,34,55,0,Foul on Danuel House.
+Houston,Rutgers,61,83,34,55,1,Myles Mack made Free Throw.
+Houston,Rutgers,61,84,34,55,1,Myles Mack made Free Throw.
+Houston,Rutgers,61,84,34,56,0,Rutgers  Timeout
+Houston,Rutgers,61,84,35,4,0,Danuel House Turnover.
+Houston,Rutgers,61,86,35,22,1,J.J. Moore made Dunk.
+Houston,Rutgers,61,86,35,22,0,Foul on Danrad Knowles.
+Houston,Rutgers,61,86,35,22,0,J.J. Moore missed Free Throw.
+Houston,Rutgers,61,86,35,22,0,TaShawn Thomas Defensive Rebound.
+Houston,Rutgers,61,86,35,40,0,Foul on D'Von Campbell.
+Houston,Rutgers,61,86,35,40,0,TaShawn Thomas missed Free Throw.
+Houston,Rutgers,61,86,35,40,0,Houston Deadball Team Rebound.
+Houston,Rutgers,62,86,35,40,1,TaShawn Thomas made Free Throw.
+Houston,Rutgers,62,86,36,15,0,Malick Kone missed Jumper.
+Houston,Rutgers,62,86,36,15,0,Jaaron Simmons Defensive Rebound.
+Houston,Rutgers,62,86,36,23,0,Tione Womack missed Three Point Jumper.
+Houston,Rutgers,62,86,36,23,0,TaShawn Thomas Offensive Rebound.
+Houston,Rutgers,64,86,36,27,1,TaShawn Thomas made Layup.
+Houston,Rutgers,64,88,36,56,1,J.J. Moore made Jumper. Assisted by D'Von Campbell.
+Houston,Rutgers,64,88,37,11,0,TaShawn Thomas missed Jumper.
+Houston,Rutgers,64,88,37,11,0,Jherrod Stiggers Offensive Rebound.
+Houston,Rutgers,66,88,37,15,1,TaShawn Thomas made Dunk. Assisted by Jherrod Stiggers.
+Houston,Rutgers,66,88,37,31,0,D'Von Campbell missed Jumper.
+Houston,Rutgers,66,88,37,31,0,TaShawn Thomas Block.
+Houston,Rutgers,66,88,37,31,0,Jaaron Simmons Defensive Rebound.
+Houston,Rutgers,68,88,37,36,1,TaShawn Thomas made Dunk. Assisted by Jaaron Simmons.
+Houston,Rutgers,68,88,37,36,0,Official TV Timeout
+Houston,Rutgers,69,88,37,36,1,TaShawn Thomas made Free Throw.
+Houston,Rutgers,69,88,37,41,0,Foul on Tione Womack.
+Houston,Rutgers,69,88,37,41,0,Malick Kone missed Free Throw.
+Houston,Rutgers,69,88,37,41,0,Rutgers Deadball Team Rebound.
+Houston,Rutgers,69,89,37,41,1,Malick Kone made Free Throw.
+Houston,Rutgers,69,89,37,49,0,Jaaron Simmons missed Layup.
+Houston,Rutgers,69,89,37,49,0,Stephen Zurich Defensive Rebound.
+Houston,Rutgers,69,89,37,59,0,Foul on J.J. Richardson.
+Houston,Rutgers,69,90,37,59,1,Kadeem Jack made Free Throw.
+Houston,Rutgers,69,91,37,59,1,Kadeem Jack made Free Throw.
+Houston,Rutgers,69,91,38,17,0,Tione Womack missed Layup.
+Houston,Rutgers,69,91,38,17,0,Malick Kone Defensive Rebound.
+Houston,Rutgers,69,91,38,24,0,Craig Brown Turnover.
+Houston,Rutgers,69,91,38,24,0,Mikhail McLean Steal.
+Houston,Rutgers,69,91,38,37,0,Jherrod Stiggers missed Three Point Jumper.
+Houston,Rutgers,69,91,38,37,0,Malick Kone Defensive Rebound.
+Houston,Rutgers,69,91,38,51,0,Foul on J.J. Richardson.
+Houston,Rutgers,69,92,38,51,1,Malick Kone made Free Throw.
+Houston,Rutgers,69,93,38,51,1,Malick Kone made Free Throw.
+Houston,Rutgers,69,93,38,58,0,Foul on Stephen Zurich.
+Houston,Rutgers,69,93,38,58,0,Jaaron Simmons missed Free Throw.
+Houston,Rutgers,69,93,38,58,0,Houston Deadball Team Rebound.
+Houston,Rutgers,70,93,38,58,1,Jaaron Simmons made Free Throw.
+Houston,Rutgers,70,93,39,28,0,Malick Kone missed Jumper.
+Houston,Rutgers,70,93,39,28,0,Mikhail McLean Defensive Rebound.
+Houston,Rutgers,70,93,39,36,0,Tyus Bowser missed Layup.
+Houston,Rutgers,70,93,39,36,0,Greg Lewis Defensive Rebound.
+Houston,Rutgers,70,93,40,0,0,End of Game

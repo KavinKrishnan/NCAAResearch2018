@@ -1,0 +1,347 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UAB,UCF,2,0,0,19,1,Terence Jones made Jumper.
+UAB,UCF,2,2,0,45,1,Tristan Spurlock made Layup.  Assisted by Daiquan Walker.
+UAB,UCF,2,2,1,6,0,Rod Rucker missed Jumper.
+UAB,UCF,2,2,1,6,0,Tristan Spurlock Defensive Rebound.
+UAB,UCF,2,4,1,19,1,Keith Clanton made Jumper.  Assisted by Isaiah Sykes.
+UAB,UCF,4,4,1,35,1,Fahro Alihodzic made Layup.  Assisted by Jordan Swing.
+UAB,UCF,4,4,1,50,0,Isaiah Sykes Turnover.
+UAB,UCF,4,4,2,5,0,Rod Rucker missed Jumper.
+UAB,UCF,4,4,2,5,0,Robert Williams Offensive Rebound.
+UAB,UCF,6,4,2,8,1,Robert Williams made Layup.
+UAB,UCF,6,6,2,16,1,Daiquan Walker made Jumper.
+UAB,UCF,6,6,2,23,0,Jordan Swing missed Three Point Jumper.
+UAB,UCF,6,6,2,23,0,UAB Offensive Rebound.
+UAB,UCF,8,6,2,34,1,Rod Rucker made Layup.  Assisted by Jordan Swing.
+UAB,UCF,8,8,2,47,1,Isaiah Sykes made Layup.
+UAB,UCF,8,8,3,1,0,Fahro Alihodzic Turnover.
+UAB,UCF,8,10,3,15,1,Calvin Newell made Jumper.  Assisted by Isaiah Sykes.
+UAB,UCF,8,10,3,37,0,Fahro Alihodzic missed Layup.
+UAB,UCF,8,10,3,37,0,Tristan Spurlock Block.
+UAB,UCF,8,10,3,41,0,Robert Williams Offensive Rebound.
+UAB,UCF,8,10,3,43,0,Jordan Swing missed Three Point Jumper.
+UAB,UCF,8,10,3,43,0,Daiquan Walker Defensive Rebound.
+UAB,UCF,8,10,3,49,0,Foul on Terence Jones
+UAB,UCF,8,11,3,49,1,Keith Clanton made Free Throw.
+UAB,UCF,8,12,3,49,1,Keith Clanton made Free Throw.
+UAB,UCF,8,12,3,58,0,Robert Williams Turnover.
+UAB,UCF,8,12,4,0,0,Isaiah Sykes Steal.
+UAB,UCF,8,12,4,2,0,Foul on Rod Rucker
+UAB,UCF,8,12,4,2,0,UCF Full Timeout.
+UAB,UCF,8,12,4,2,0,Tristan Spurlock missed Free Throw.
+UAB,UCF,8,12,4,2,0,null
+UAB,UCF,8,13,4,2,1,Tristan Spurlock made Free Throw.
+UAB,UCF,8,13,4,10,0,Robert Williams missed Jumper.
+UAB,UCF,8,13,4,10,0,Isaiah Sykes Defensive Rebound.
+UAB,UCF,8,13,4,27,0,Keith Clanton Turnover.
+UAB,UCF,8,13,4,28,0,Robert Williams Steal.
+UAB,UCF,8,13,4,34,0,Terence Jones missed Three Point Jumper.
+UAB,UCF,8,13,4,34,0,Rod Rucker Offensive Rebound.
+UAB,UCF,8,13,4,39,0,Rod Rucker missed Layup.
+UAB,UCF,8,13,4,39,0,Daiquan Walker Defensive Rebound.
+UAB,UCF,8,13,4,45,0,Daiquan Walker Turnover.
+UAB,UCF,10,13,4,53,1,Terence Jones made Layup.  Assisted by Rod Rucker.
+UAB,UCF,10,13,5,10,0,Tristan Spurlock missed Three Point Jumper.
+UAB,UCF,10,13,5,10,0,Quincy Taylor Defensive Rebound.
+UAB,UCF,12,13,5,19,1,Rod Rucker made Layup.  Assisted by Jordan Swing.
+UAB,UCF,12,13,5,32,0,Keith Clanton missed Three Point Jumper.
+UAB,UCF,12,13,5,32,0,Jordan Swing Defensive Rebound.
+UAB,UCF,12,13,5,50,0,Jordan Swing missed Jumper.
+UAB,UCF,12,13,5,50,0,Isaiah Sykes Defensive Rebound.
+UAB,UCF,12,15,5,58,1,Isaiah Sykes made Layup.
+UAB,UCF,12,15,6,22,0,Rod Rucker Turnover.
+UAB,UCF,12,15,6,23,0,Isaiah Sykes Steal.
+UAB,UCF,12,15,6,38,0,Calvin Newell missed Jumper.
+UAB,UCF,12,15,6,38,0,Keith Clanton Offensive Rebound.
+UAB,UCF,12,15,6,46,0,Daiquan Walker missed Three Point Jumper.
+UAB,UCF,12,15,6,46,0,Rod Rucker Defensive Rebound.
+UAB,UCF,14,15,6,56,1,Terence Jones made Layup.  Assisted by Rod Rucker.
+UAB,UCF,14,15,7,6,0,Foul on Terence Jones
+UAB,UCF,14,15,7,6,0,Calvin Newell missed Free Throw.
+UAB,UCF,14,15,7,6,0,null
+UAB,UCF,14,16,7,6,1,Calvin Newell made Free Throw.
+UAB,UCF,14,16,7,35,0,Fahro Alihodzic missed Layup.
+UAB,UCF,14,16,7,35,0,Tristan Spurlock Block.
+UAB,UCF,14,16,7,36,0,Keith Clanton Defensive Rebound.
+UAB,UCF,14,16,7,55,0,Tristan Spurlock missed Layup.
+UAB,UCF,14,16,7,55,0,Keith Clanton Offensive Rebound.
+UAB,UCF,14,18,7,57,1,Keith Clanton made Layup.
+UAB,UCF,16,18,8,6,1,Fahro Alihodzic made Jumper.  Assisted by Quincy Taylor.
+UAB,UCF,16,18,8,13,0,Isaiah Sykes Turnover.
+UAB,UCF,16,18,8,13,0,UAB Full Timeout.
+UAB,UCF,16,18,8,27,0,Preston Purifoy missed Three Point Jumper.
+UAB,UCF,16,18,8,27,0,Isaiah Sykes Defensive Rebound.
+UAB,UCF,16,18,8,52,0,Isaiah Sykes Turnover.
+UAB,UCF,16,18,9,16,0,Rod Rucker Turnover.
+UAB,UCF,16,18,9,17,0,Calvin Newell Steal.
+UAB,UCF,16,18,9,19,0,Isaiah Sykes missed Layup.
+UAB,UCF,16,18,9,19,0,Alexander Scotland-Williamson Block.
+UAB,UCF,16,18,9,19,0,UCF Offensive Rebound.
+UAB,UCF,16,21,9,21,1,Calvin Newell made Three Point Jumper.  Assisted by Isaiah Sykes.
+UAB,UCF,16,21,9,27,0,Rod Rucker Turnover.
+UAB,UCF,16,21,9,36,0,Foul on Robert Williams
+UAB,UCF,16,22,9,36,1,Keith Clanton made Free Throw.
+UAB,UCF,16,23,9,36,1,Keith Clanton made Free Throw.
+UAB,UCF,16,23,9,53,0,Quincy Taylor Turnover.
+UAB,UCF,16,23,10,7,0,Kasey Wilson Turnover.
+UAB,UCF,16,23,10,7,0,Foul on Kasey Wilson
+UAB,UCF,16,23,10,20,0,Rod Rucker missed Layup.
+UAB,UCF,16,23,10,20,0,Rod Rucker Offensive Rebound.
+UAB,UCF,18,23,10,22,1,Rod Rucker made Layup.
+UAB,UCF,18,23,10,31,0,Calvin Newell missed Three Point Jumper.
+UAB,UCF,18,23,10,31,0,Rod Rucker Defensive Rebound.
+UAB,UCF,18,23,10,44,0,Rod Rucker missed Layup.
+UAB,UCF,18,23,10,44,0,Keith Clanton Defensive Rebound.
+UAB,UCF,18,26,11,9,1,Matt Williams made Three Point Jumper.  Assisted by Isaiah Sykes.
+UAB,UCF,20,26,11,28,1,Fahro Alihodzic made Layup.  Assisted by Robert Williams.
+UAB,UCF,20,26,11,52,0,Matt Williams missed Jumper.
+UAB,UCF,20,26,11,52,0,Jordan Swing Defensive Rebound.
+UAB,UCF,20,26,12,1,0,Quincy Taylor missed Three Point Jumper.
+UAB,UCF,20,26,12,1,0,UAB Offensive Rebound.
+UAB,UCF,20,26,12,3,0,UAB Full Timeout.
+UAB,UCF,20,26,12,5,0,Fahro Alihodzic missed Layup.
+UAB,UCF,20,26,12,5,0,Keith Clanton Block.
+UAB,UCF,20,26,12,6,0,Keith Clanton Defensive Rebound.
+UAB,UCF,20,28,12,10,1,Calvin Newell made Layup.  Assisted by Keith Clanton.
+UAB,UCF,20,28,12,10,0,Foul on Quincy Taylor
+UAB,UCF,20,29,12,10,1,Calvin Newell made Free Throw.
+UAB,UCF,20,29,12,38,0,Preston Purifoy missed Layup.
+UAB,UCF,20,29,12,38,0,Isaiah Sykes Defensive Rebound.
+UAB,UCF,20,29,12,59,0,Tristan Spurlock missed Three Point Jumper.
+UAB,UCF,20,29,12,59,0,Quincy Taylor Defensive Rebound.
+UAB,UCF,20,29,13,8,0,Robert Williams missed Three Point Jumper.
+UAB,UCF,20,29,13,8,0,Jordan Swing Offensive Rebound.
+UAB,UCF,20,29,13,12,0,Quincy Taylor missed Three Point Jumper.
+UAB,UCF,20,29,13,12,0,Kasey Wilson Defensive Rebound.
+UAB,UCF,20,29,13,20,0,Calvin Newell missed Three Point Jumper.
+UAB,UCF,20,29,13,20,0,Rod Rucker Defensive Rebound.
+UAB,UCF,20,29,13,33,0,Robert Williams missed Three Point Jumper.
+UAB,UCF,20,29,13,33,0,UAB Offensive Rebound.
+UAB,UCF,20,29,13,40,0,Rod Rucker missed Layup.
+UAB,UCF,20,29,13,40,0,Daiquan Walker Defensive Rebound.
+UAB,UCF,20,29,14,15,0,Calvin Newell missed Three Point Jumper.
+UAB,UCF,20,29,14,15,0,Robert Williams Defensive Rebound.
+UAB,UCF,20,29,14,23,0,Jordan Swing missed Layup.
+UAB,UCF,20,29,14,23,0,Calvin Newell Block.
+UAB,UCF,20,29,14,25,0,Jordan Swing Offensive Rebound.
+UAB,UCF,20,29,14,33,0,Terence Jones missed Jumper.
+UAB,UCF,20,29,14,33,0,Preston Purifoy Offensive Rebound.
+UAB,UCF,20,29,14,39,0,Preston Purifoy Turnover.
+UAB,UCF,20,29,14,59,0,Foul on Jordan Swing
+UAB,UCF,20,29,15,3,0,Tristan Spurlock missed Three Point Jumper.
+UAB,UCF,20,29,15,3,0,Rod Rucker Defensive Rebound.
+UAB,UCF,20,29,15,9,0,Foul on Daiquan Walker
+UAB,UCF,20,29,15,9,0,Terence Jones missed Free Throw.
+UAB,UCF,20,29,15,9,0,null
+UAB,UCF,20,29,15,9,0,Terence Jones missed Free Throw.
+UAB,UCF,20,29,15,9,0,Isaiah Sykes Defensive Rebound.
+UAB,UCF,20,29,15,26,0,Isaiah Sykes Turnover.
+UAB,UCF,20,29,15,57,0,Terence Jones missed Layup.
+UAB,UCF,20,29,15,57,0,Rod Rucker Offensive Rebound.
+UAB,UCF,20,29,16,1,0,Rod Rucker missed Layup.
+UAB,UCF,20,29,16,1,0,Keith Clanton Defensive Rebound.
+UAB,UCF,20,31,16,31,1,Isaiah Sykes made Jumper.
+UAB,UCF,20,31,16,51,0,Rod Rucker missed Three Point Jumper.
+UAB,UCF,20,31,16,51,0,Jordan Swing Offensive Rebound.
+UAB,UCF,20,31,17,4,0,Preston Purifoy missed Layup.
+UAB,UCF,20,31,17,4,0,Isaiah Sykes Defensive Rebound.
+UAB,UCF,20,31,17,15,0,Tristan Spurlock Turnover.
+UAB,UCF,20,31,17,16,0,Jordan Swing Steal.
+UAB,UCF,20,31,17,20,0,Terence Jones Turnover.
+UAB,UCF,20,31,17,21,0,Isaiah Sykes Steal.
+UAB,UCF,20,31,17,24,0,Isaiah Sykes Turnover.
+UAB,UCF,20,31,17,24,0,UAB Full Timeout.
+UAB,UCF,20,31,17,33,0,Isiah Jones missed Jumper.
+UAB,UCF,20,31,17,33,0,Preston Purifoy Offensive Rebound.
+UAB,UCF,20,31,17,57,0,Fahro Alihodzic missed Layup.
+UAB,UCF,20,31,17,57,0,Keith Clanton Block.
+UAB,UCF,20,31,17,59,0,Kasey Wilson Defensive Rebound.
+UAB,UCF,20,31,18,13,0,Calvin Newell missed Layup.
+UAB,UCF,20,31,18,13,0,Robert Williams Defensive Rebound.
+UAB,UCF,20,31,18,22,0,Terence Jones Turnover.
+UAB,UCF,20,31,18,43,0,Kasey Wilson Turnover.
+UAB,UCF,20,31,18,44,0,Preston Purifoy Steal.
+UAB,UCF,20,31,19,6,0,Foul on Keith Clanton
+UAB,UCF,21,31,19,6,1,Rod Rucker made Free Throw.
+UAB,UCF,21,31,19,6,0,Rod Rucker missed Free Throw.
+UAB,UCF,21,31,19,6,0,Tristan Spurlock Defensive Rebound.
+UAB,UCF,21,31,19,11,0,UCF Full Timeout.
+UAB,UCF,21,31,19,26,0,Calvin Newell missed Three Point Jumper.
+UAB,UCF,21,31,19,26,0,Kasey Wilson Offensive Rebound.
+UAB,UCF,21,31,19,33,0,Kasey Wilson missed Dunk.
+UAB,UCF,21,31,19,33,0,Tristan Spurlock Offensive Rebound.
+UAB,UCF,21,31,19,34,0,Tristan Spurlock missed Layup.
+UAB,UCF,21,31,19,34,0,Quincy Taylor Defensive Rebound.
+UAB,UCF,21,31,19,54,0,Terence Jones missed Three Point Jumper.
+UAB,UCF,21,31,19,54,0,Rod Rucker Offensive Rebound.
+UAB,UCF,23,31,19,59,1,Rod Rucker made Layup.
+UAB,UCF,23,31,20,0,0,End of the 1st Half.
+UAB,UCF,23,31,20,27,0,Daiquan Walker missed Three Point Jumper.
+UAB,UCF,23,31,20,27,0,Robert Williams Defensive Rebound.
+UAB,UCF,25,31,20,59,1,Fahro Alihodzic made Jumper.  Assisted by Rod Rucker.
+UAB,UCF,25,31,21,30,0,Keith Clanton Turnover.
+UAB,UCF,25,31,21,50,0,Robert Williams missed Three Point Jumper.
+UAB,UCF,25,31,21,50,0,Fahro Alihodzic Offensive Rebound.
+UAB,UCF,25,31,21,57,0,Jordan Swing missed Three Point Jumper.
+UAB,UCF,25,31,21,57,0,Fahro Alihodzic Offensive Rebound.
+UAB,UCF,25,31,22,7,0,Terence Jones missed Jumper.
+UAB,UCF,25,31,22,7,0,Keith Clanton Defensive Rebound.
+UAB,UCF,25,31,22,24,0,Daiquan Walker Turnover.
+UAB,UCF,25,31,22,32,0,Jordan Swing missed Jumper.
+UAB,UCF,25,31,22,32,0,Robert Williams Offensive Rebound.
+UAB,UCF,25,31,22,37,0,Robert Williams missed Layup.
+UAB,UCF,25,31,22,37,0,Rod Rucker Offensive Rebound.
+UAB,UCF,27,31,22,38,1,Rod Rucker made Layup.
+UAB,UCF,27,31,22,38,0,Foul on Daiquan Walker
+UAB,UCF,27,31,22,38,0,Rod Rucker missed Free Throw.
+UAB,UCF,27,31,22,38,0,Kasey Wilson Defensive Rebound.
+UAB,UCF,27,31,23,3,0,Calvin Newell missed Three Point Jumper.
+UAB,UCF,27,31,23,3,0,Jordan Swing Defensive Rebound.
+UAB,UCF,27,31,23,12,0,Fahro Alihodzic Turnover.
+UAB,UCF,27,31,23,15,0,Keith Clanton Steal.
+UAB,UCF,27,31,23,17,0,Keith Clanton Turnover.
+UAB,UCF,27,31,23,18,0,Robert Williams Steal.
+UAB,UCF,27,31,23,20,0,Foul on Kasey Wilson
+UAB,UCF,28,31,23,20,1,Jordan Swing made Free Throw.
+UAB,UCF,29,31,23,20,1,Jordan Swing made Free Throw.
+UAB,UCF,29,31,23,27,0,Isaiah Sykes Turnover.
+UAB,UCF,29,31,23,27,0,Foul on Isaiah Sykes
+UAB,UCF,29,31,23,51,0,Fahro Alihodzic missed Layup.
+UAB,UCF,29,31,23,51,0,Keith Clanton Defensive Rebound.
+UAB,UCF,29,31,24,6,0,Kasey Wilson Turnover.
+UAB,UCF,29,31,24,7,0,Jordan Swing Steal.
+UAB,UCF,29,31,24,8,0,UAB Full Timeout.
+UAB,UCF,30,31,24,8,1,Jordan Swing made Free Throw.
+UAB,UCF,31,31,24,8,1,Jordan Swing made Free Throw.
+UAB,UCF,31,31,24,9,0,Foul on Kasey Wilson
+UAB,UCF,31,34,24,40,1,Calvin Newell made Three Point Jumper.
+UAB,UCF,31,34,24,54,0,Rod Rucker missed Layup.
+UAB,UCF,31,34,24,54,0,Keith Clanton Defensive Rebound.
+UAB,UCF,31,34,25,3,0,Matt Williams missed Three Point Jumper.
+UAB,UCF,31,34,25,3,0,Jordan Swing Defensive Rebound.
+UAB,UCF,31,34,25,27,0,Rod Rucker missed Jumper.
+UAB,UCF,31,34,25,27,0,Fahro Alihodzic Offensive Rebound.
+UAB,UCF,31,34,25,33,0,Jordan Swing missed Three Point Jumper.
+UAB,UCF,31,34,25,33,0,Rod Rucker Offensive Rebound.
+UAB,UCF,31,34,25,38,0,Fahro Alihodzic missed Layup.
+UAB,UCF,31,34,25,38,0,Calvin Newell Defensive Rebound.
+UAB,UCF,31,34,25,42,0,Foul on Fahro Alihodzic
+UAB,UCF,31,37,25,59,1,Tristan Spurlock made Three Point Jumper.
+UAB,UCF,31,37,26,22,0,Preston Purifoy missed Three Point Jumper.
+UAB,UCF,31,37,26,22,0,Jordan Swing Offensive Rebound.
+UAB,UCF,31,37,26,29,0,Jordan Swing missed Three Point Jumper.
+UAB,UCF,31,37,26,29,0,Rod Rucker Offensive Rebound.
+UAB,UCF,31,37,26,50,0,Jordan Swing missed Jumper.
+UAB,UCF,31,37,26,50,0,UCF Defensive Rebound.
+UAB,UCF,31,37,27,1,0,Staphon Blair Turnover.
+UAB,UCF,31,37,27,1,0,Foul on Staphon Blair
+UAB,UCF,33,37,27,18,1,Rod Rucker made Layup.  Assisted by Terence Jones.
+UAB,UCF,33,37,27,44,0,Foul on Jordan Swing
+UAB,UCF,33,38,27,44,1,Staphon Blair made Free Throw.
+UAB,UCF,33,39,27,44,1,Staphon Blair made Free Throw.
+UAB,UCF,35,39,28,6,1,Preston Purifoy made Dunk.  Assisted by Quincy Taylor.
+UAB,UCF,35,39,28,25,0,Tristan Spurlock missed Dunk.
+UAB,UCF,35,39,28,25,0,Rod Rucker Defensive Rebound.
+UAB,UCF,35,39,28,36,0,Terence Jones missed Three Point Jumper.
+UAB,UCF,35,39,28,36,0,Isaiah Sykes Defensive Rebound.
+UAB,UCF,35,41,28,45,1,Matt Williams made Layup.  Assisted by Isaiah Sykes.
+UAB,UCF,35,41,28,45,0,Foul on Quincy Taylor
+UAB,UCF,35,41,28,45,0,UCF Full Timeout.
+UAB,UCF,35,42,28,45,1,Matt Williams made Free Throw.
+UAB,UCF,37,42,29,1,1,Terence Jones made Layup.
+UAB,UCF,37,44,29,25,1,Keith Clanton made Layup.  Assisted by Tristan Spurlock.
+UAB,UCF,37,44,30,0,0,Fahro Alihodzic missed Layup.
+UAB,UCF,37,44,30,0,0,Keith Clanton Block.
+UAB,UCF,37,44,30,2,0,Daiquan Walker Defensive Rebound.
+UAB,UCF,37,44,30,7,0,Tristan Spurlock missed Three Point Jumper.
+UAB,UCF,37,44,30,7,0,Keith Clanton Offensive Rebound.
+UAB,UCF,37,44,30,11,0,UCF Full Timeout.
+UAB,UCF,37,44,30,12,0,Isaiah Sykes Turnover.
+UAB,UCF,37,44,30,13,0,Quincy Taylor Steal.
+UAB,UCF,37,44,30,17,0,Terence Jones missed Three Point Jumper.
+UAB,UCF,37,44,30,17,0,Isaiah Sykes Defensive Rebound.
+UAB,UCF,37,44,30,24,0,Isaiah Sykes missed Layup.
+UAB,UCF,37,44,30,24,0,Quincy Taylor Defensive Rebound.
+UAB,UCF,37,44,30,33,0,Robert Williams missed Layup.
+UAB,UCF,37,44,30,33,0,Keith Clanton Block.
+UAB,UCF,37,44,30,36,0,Matt Williams Defensive Rebound.
+UAB,UCF,37,46,30,39,1,Matt Williams made Jumper.
+UAB,UCF,37,46,30,42,0,Foul on Preston Purifoy
+UAB,UCF,37,49,30,45,1,Kasey Wilson made Three Point Jumper.  Assisted by Keith Clanton.
+UAB,UCF,37,49,30,54,0,Quincy Taylor Turnover.
+UAB,UCF,37,49,30,55,0,Isaiah Sykes Steal.
+UAB,UCF,37,49,30,57,0,Isaiah Sykes Turnover.
+UAB,UCF,37,49,30,58,0,Rod Rucker Steal.
+UAB,UCF,39,49,31,2,1,Robert Williams made Layup.  Assisted by Jordan Swing.
+UAB,UCF,39,49,31,2,0,Foul on Daiquan Walker
+UAB,UCF,40,49,31,2,1,Robert Williams made Free Throw.
+UAB,UCF,40,49,31,10,0,Matt Williams missed Layup.
+UAB,UCF,40,49,31,10,0,Rod Rucker Block.
+UAB,UCF,40,49,31,11,0,Jordan Swing Defensive Rebound.
+UAB,UCF,40,49,31,21,0,Jordan Swing missed Layup.
+UAB,UCF,40,49,31,21,0,Keith Clanton Defensive Rebound.
+UAB,UCF,40,49,31,36,0,Isaiah Sykes Turnover.
+UAB,UCF,40,49,31,48,0,Isiah Jones missed Three Point Jumper.
+UAB,UCF,40,49,31,48,0,Calvin Newell Defensive Rebound.
+UAB,UCF,40,49,32,3,0,Calvin Newell missed Layup.
+UAB,UCF,40,49,32,3,0,Robert Williams Defensive Rebound.
+UAB,UCF,40,49,32,6,0,UAB Full Timeout.
+UAB,UCF,40,49,32,25,0,Terence Jones missed Three Point Jumper.
+UAB,UCF,40,49,32,25,0,Tristan Spurlock Defensive Rebound.
+UAB,UCF,40,49,32,40,0,Kasey Wilson missed Three Point Jumper.
+UAB,UCF,40,49,32,40,0,Rod Rucker Defensive Rebound.
+UAB,UCF,42,49,32,49,1,Rod Rucker made Layup.
+UAB,UCF,42,51,33,15,1,Tristan Spurlock made Layup.
+UAB,UCF,42,51,33,15,0,Foul on Terence Jones
+UAB,UCF,42,52,33,15,1,Tristan Spurlock made Free Throw.
+UAB,UCF,44,52,33,33,1,Rod Rucker made Layup.
+UAB,UCF,44,52,34,7,0,Isaiah Sykes missed Jumper.
+UAB,UCF,44,52,34,7,0,Rod Rucker Defensive Rebound.
+UAB,UCF,46,52,34,15,1,Terence Jones made Layup.
+UAB,UCF,46,52,34,30,0,Calvin Newell missed Layup.
+UAB,UCF,46,52,34,30,0,Calvin Newell Offensive Rebound.
+UAB,UCF,46,54,34,35,1,Calvin Newell made Layup.
+UAB,UCF,46,54,35,0,0,Terence Jones Turnover.
+UAB,UCF,46,54,35,2,0,Kasey Wilson Steal.
+UAB,UCF,46,56,35,6,1,Isaiah Sykes made Layup.  Assisted by Daiquan Walker.
+UAB,UCF,46,56,35,6,0,Foul on Rod Rucker
+UAB,UCF,46,57,35,6,1,Isaiah Sykes made Free Throw.
+UAB,UCF,46,57,35,25,0,Terence Jones missed Three Point Jumper.
+UAB,UCF,46,57,35,25,0,Robert Williams Offensive Rebound.
+UAB,UCF,46,57,35,30,0,Robert Williams missed Layup.
+UAB,UCF,46,57,35,30,0,Keith Clanton Block.
+UAB,UCF,46,57,35,31,0,UAB Offensive Rebound.
+UAB,UCF,46,57,35,41,0,Robert Williams missed Three Point Jumper.
+UAB,UCF,46,57,35,41,0,Daiquan Walker Defensive Rebound.
+UAB,UCF,46,57,36,0,0,Isaiah Sykes missed Layup.
+UAB,UCF,46,57,36,0,0,UCF Offensive Rebound.
+UAB,UCF,46,57,36,3,0,UCF Full Timeout.
+UAB,UCF,46,57,36,29,0,Calvin Newell Turnover.
+UAB,UCF,46,57,36,29,0,Fahro Alihodzic Steal.
+UAB,UCF,46,57,36,29,0,Foul on Keith Clanton
+UAB,UCF,46,57,36,29,0,Fahro Alihodzic missed Free Throw.
+UAB,UCF,46,57,36,29,0,Keith Clanton Defensive Rebound.
+UAB,UCF,46,57,36,57,0,Calvin Newell Turnover.
+UAB,UCF,46,57,37,6,0,Jordan Swing missed Three Point Jumper.
+UAB,UCF,46,57,37,6,0,Calvin Newell Defensive Rebound.
+UAB,UCF,46,60,37,14,1,Tristan Spurlock made Three Point Jumper.  Assisted by Calvin Newell.
+UAB,UCF,46,60,37,24,0,Terence Jones missed Layup.
+UAB,UCF,46,60,37,24,0,Keith Clanton Defensive Rebound.
+UAB,UCF,46,60,38,0,0,Tristan Spurlock missed Jumper.
+UAB,UCF,46,60,38,0,0,Jordan Swing Defensive Rebound.
+UAB,UCF,46,60,38,8,0,Robert Williams missed Three Point Jumper.
+UAB,UCF,46,60,38,8,0,Daiquan Walker Defensive Rebound.
+UAB,UCF,46,60,38,17,0,Foul on Quincy Taylor
+UAB,UCF,46,61,38,17,1,Keith Clanton made Free Throw.
+UAB,UCF,46,62,38,17,1,Keith Clanton made Free Throw.
+UAB,UCF,46,62,38,31,0,Terence Jones missed Layup.
+UAB,UCF,46,62,38,31,0,Robert Williams Offensive Rebound.
+UAB,UCF,46,62,38,33,0,Foul on Kasey Wilson
+UAB,UCF,47,62,38,33,1,Robert Williams made Free Throw.
+UAB,UCF,48,62,38,33,1,Robert Williams made Free Throw.
+UAB,UCF,48,64,38,55,1,Kasey Wilson made Layup.  Assisted by Isaiah Sykes.
+UAB,UCF,48,64,39,6,0,Quincy Taylor missed Layup.
+UAB,UCF,48,64,39,6,0,Daiquan Walker Defensive Rebound.
+UAB,UCF,48,64,39,37,0,Calvin Newell missed Three Point Jumper.
+UAB,UCF,48,64,39,37,0,UCF Offensive Rebound.
+UAB,UCF,48,64,40,0,0,End Game

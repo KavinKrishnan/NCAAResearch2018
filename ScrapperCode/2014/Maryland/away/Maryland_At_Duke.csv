@@ -1,0 +1,365 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Maryland,Duke,0,0,0,0,0,Jump Ball won by Maryland
+Maryland,Duke,0,0,0,14,0,Charles Mitchell missed Jumper.
+Maryland,Duke,0,0,0,14,0,Jabari Parker Defensive Rebound.
+Maryland,Duke,0,2,0,22,1,Jabari Parker made Layup.
+Maryland,Duke,0,2,0,22,0,Foul on Evan Smotrycz.
+Maryland,Duke,0,3,0,22,1,Jabari Parker made Free Throw.
+Maryland,Duke,0,3,0,40,0,Foul on Seth Allen.
+Maryland,Duke,0,3,0,40,0,Seth Allen Turnover.
+Maryland,Duke,0,3,0,51,0,Rodney Hood missed Three Point Jumper.
+Maryland,Duke,0,3,0,51,0,Dez Wells Defensive Rebound.
+Maryland,Duke,0,3,0,59,0,Evan Smotrycz missed Three Point Jumper.
+Maryland,Duke,0,3,0,59,0,Amile Jefferson Defensive Rebound.
+Maryland,Duke,0,3,1,28,0,Rodney Hood missed Jumper.
+Maryland,Duke,0,3,1,28,0,Charles Mitchell Defensive Rebound.
+Maryland,Duke,0,3,1,43,0,Evan Smotrycz missed Jumper.
+Maryland,Duke,0,3,1,43,0,Amile Jefferson Block.
+Maryland,Duke,0,3,1,43,0,Amile Jefferson Defensive Rebound.
+Maryland,Duke,0,3,1,59,0,Foul on Tyler Thornton.
+Maryland,Duke,0,3,1,59,0,Tyler Thornton Turnover.
+Maryland,Duke,0,3,2,24,0,Dez Wells missed Three Point Jumper.
+Maryland,Duke,0,3,2,24,0,Jake Layman Offensive Rebound.
+Maryland,Duke,0,3,2,32,0,Dez Wells Turnover.
+Maryland,Duke,0,3,2,32,0,Quinn Cook Steal.
+Maryland,Duke,0,3,2,37,0,Quinn Cook Turnover.
+Maryland,Duke,0,3,2,48,0,Seth Allen Turnover.
+Maryland,Duke,0,3,2,48,0,Tyler Thornton Steal.
+Maryland,Duke,0,3,2,55,0,Foul on Dez Wells.
+Maryland,Duke,0,5,2,59,1,Rodney Hood made Jumper.
+Maryland,Duke,2,5,3,20,1,Seth Allen made Jumper.
+Maryland,Duke,2,8,3,37,1,Jabari Parker made Three Point Jumper.
+Maryland,Duke,2,8,3,56,0,Evan Smotrycz missed Jumper.
+Maryland,Duke,2,8,3,56,0,Quinn Cook Defensive Rebound.
+Maryland,Duke,2,8,4,3,0,Foul on Rodney Hood.
+Maryland,Duke,2,8,4,3,0,Rodney Hood Turnover.
+Maryland,Duke,2,8,4,3,0,Official TV Timeout
+Maryland,Duke,4,8,4,20,1,Charles Mitchell made Jumper. Assisted by Dez Wells.
+Maryland,Duke,4,8,4,37,0,Jabari Parker missed Three Point Jumper.
+Maryland,Duke,4,8,4,37,0,Dez Wells Defensive Rebound.
+Maryland,Duke,4,8,4,50,0,Foul on Rodney Hood.
+Maryland,Duke,5,8,4,50,1,Evan Smotrycz made Free Throw.
+Maryland,Duke,6,8,4,50,1,Evan Smotrycz made Free Throw.
+Maryland,Duke,6,10,5,0,1,Rasheed Sulaimon made Layup.
+Maryland,Duke,6,10,5,21,0,Jake Layman missed Jumper.
+Maryland,Duke,6,10,5,21,0,Nick Faust Offensive Rebound.
+Maryland,Duke,6,10,5,35,0,Foul on Shaquille Cleare.
+Maryland,Duke,6,10,5,35,0,Shaquille Cleare Turnover.
+Maryland,Duke,6,12,5,43,1,Rasheed Sulaimon made Layup.
+Maryland,Duke,6,12,6,1,0,Foul on Rasheed Sulaimon.
+Maryland,Duke,6,12,6,4,0,Nick Faust Turnover.
+Maryland,Duke,6,12,6,4,0,Marshall Plumlee Steal.
+Maryland,Duke,6,12,6,15,0,Andre Dawkins missed Three Point Jumper.
+Maryland,Duke,6,12,6,15,0,Evan Smotrycz Defensive Rebound.
+Maryland,Duke,6,12,6,21,0,Foul on Matt Jones.
+Maryland,Duke,6,12,6,27,0,Jake Layman missed Jumper.
+Maryland,Duke,6,12,6,27,0,Amile Jefferson Defensive Rebound.
+Maryland,Duke,6,12,6,47,0,Foul on Nick Faust.
+Maryland,Duke,6,13,6,47,1,Andre Dawkins made Free Throw.
+Maryland,Duke,6,13,6,47,0,Andre Dawkins missed Free Throw.
+Maryland,Duke,6,13,6,47,0,Evan Smotrycz Defensive Rebound.
+Maryland,Duke,6,13,6,59,0,Evan Smotrycz missed Jumper.
+Maryland,Duke,6,13,6,59,0,Amile Jefferson Defensive Rebound.
+Maryland,Duke,6,13,7,7,0,Quinn Cook missed Three Point Jumper.
+Maryland,Duke,6,13,7,7,0,Duke Deadball Team Rebound.
+Maryland,Duke,6,13,7,9,0,Foul on Jonathan Graham.
+Maryland,Duke,6,13,7,12,0,Jabari Parker missed Jumper.
+Maryland,Duke,6,13,7,12,0,Amile Jefferson Offensive Rebound.
+Maryland,Duke,6,15,7,19,1,Amile Jefferson made Jumper.
+Maryland,Duke,8,15,7,36,1,Charles Mitchell made Jumper.
+Maryland,Duke,8,15,7,48,0,Quinn Cook Turnover.
+Maryland,Duke,8,15,7,48,0,Nick Faust Steal.
+Maryland,Duke,10,15,7,52,1,Nick Faust made Layup. Assisted by Evan Smotrycz.
+Maryland,Duke,10,15,8,9,0,Foul on Nick Faust.
+Maryland,Duke,10,15,8,9,0,Official TV Timeout
+Maryland,Duke,10,16,8,9,1,Quinn Cook made Free Throw.
+Maryland,Duke,10,17,8,9,1,Quinn Cook made Free Throw.
+Maryland,Duke,12,17,8,26,1,Charles Mitchell made Jumper.
+Maryland,Duke,12,19,8,45,1,Jabari Parker made Layup. Assisted by Tyler Thornton.
+Maryland,Duke,12,19,9,4,0,Jonathan Graham missed Layup.
+Maryland,Duke,12,19,9,4,0,Charles Mitchell Offensive Rebound.
+Maryland,Duke,12,19,9,8,0,Charles Mitchell missed Layup.
+Maryland,Duke,12,19,9,8,0,Jonathan Graham Offensive Rebound.
+Maryland,Duke,12,19,9,10,0,Jonathan Graham Turnover.
+Maryland,Duke,12,19,9,10,0,Quinn Cook Steal.
+Maryland,Duke,12,19,9,37,0,Quinn Cook missed Three Point Jumper.
+Maryland,Duke,12,19,9,37,0,Jabari Parker Offensive Rebound.
+Maryland,Duke,12,19,9,44,0,Jabari Parker missed Jumper.
+Maryland,Duke,12,19,9,44,0,Charles Mitchell Defensive Rebound.
+Maryland,Duke,12,19,10,0,0,Foul on Dez Wells.
+Maryland,Duke,12,19,10,0,0,Dez Wells Turnover.
+Maryland,Duke,12,19,10,10,0,Tyler Thornton missed Three Point Jumper.
+Maryland,Duke,12,19,10,10,0,Evan Smotrycz Defensive Rebound.
+Maryland,Duke,14,19,10,32,1,Charles Mitchell made Jumper.
+Maryland,Duke,14,22,10,49,1,Jabari Parker made Three Point Jumper. Assisted by Rasheed Sulaimon.
+Maryland,Duke,14,22,11,6,0,Seth Allen missed Three Point Jumper.
+Maryland,Duke,14,22,11,6,0,Matt Jones Defensive Rebound.
+Maryland,Duke,14,22,11,19,0,Rasheed Sulaimon missed Three Point Jumper.
+Maryland,Duke,14,22,11,19,0,Maryland Defensive Rebound.
+Maryland,Duke,14,22,11,30,0,Charles Mitchell missed Jumper.
+Maryland,Duke,14,22,11,30,0,Rasheed Sulaimon Defensive Rebound.
+Maryland,Duke,14,22,11,30,0,Foul on Charles Mitchell.
+Maryland,Duke,14,23,11,30,1,Rasheed Sulaimon made Free Throw.
+Maryland,Duke,14,24,11,30,1,Rasheed Sulaimon made Free Throw.
+Maryland,Duke,17,24,11,43,1,Jake Layman made Three Point Jumper. Assisted by Nick Faust.
+Maryland,Duke,17,24,12,5,0,Andre Dawkins missed Three Point Jumper.
+Maryland,Duke,17,24,12,5,0,Matt Jones Offensive Rebound.
+Maryland,Duke,17,24,12,9,0,Foul on Evan Smotrycz.
+Maryland,Duke,17,24,12,9,0,Official TV Timeout
+Maryland,Duke,17,24,12,9,0,Matt Jones missed Free Throw.
+Maryland,Duke,17,24,12,9,0,Duke Deadball Team Rebound.
+Maryland,Duke,17,25,12,9,1,Matt Jones made Free Throw.
+Maryland,Duke,17,25,12,24,0,Foul on Rodney Hood.
+Maryland,Duke,18,25,12,24,1,Jake Layman made Free Throw.
+Maryland,Duke,19,25,12,24,1,Jake Layman made Free Throw.
+Maryland,Duke,19,25,12,39,0,Jabari Parker missed Layup.
+Maryland,Duke,19,25,12,39,0,Nick Faust Block.
+Maryland,Duke,19,25,12,39,0,Duke Offensive Rebound.
+Maryland,Duke,19,27,12,44,1,Jabari Parker made Layup. Assisted by Rasheed Sulaimon.
+Maryland,Duke,19,27,12,44,0,Foul on Dez Wells.
+Maryland,Duke,19,28,12,44,1,Jabari Parker made Free Throw.
+Maryland,Duke,22,28,13,0,1,Jake Layman made Three Point Jumper. Assisted by Dez Wells.
+Maryland,Duke,22,28,13,2,0,Maryland  Timeout
+Maryland,Duke,22,28,13,34,0,Foul on Charles Mitchell.
+Maryland,Duke,22,29,13,34,1,Quinn Cook made Free Throw.
+Maryland,Duke,22,30,13,34,1,Quinn Cook made Free Throw.
+Maryland,Duke,22,30,13,49,0,Foul on Quinn Cook.
+Maryland,Duke,23,30,13,49,1,Seth Allen made Free Throw.
+Maryland,Duke,24,30,13,49,1,Seth Allen made Free Throw.
+Maryland,Duke,24,30,14,7,0,Andre Dawkins Turnover.
+Maryland,Duke,24,30,14,7,0,Seth Allen Steal.
+Maryland,Duke,24,30,14,14,0,Jake Layman missed Jumper.
+Maryland,Duke,24,30,14,14,0,Maryland Offensive Rebound.
+Maryland,Duke,24,30,14,23,0,Nick Faust missed Three Point Jumper.
+Maryland,Duke,24,30,14,23,0,Jake Layman Offensive Rebound.
+Maryland,Duke,24,30,14,23,0,Foul on Andre Dawkins.
+Maryland,Duke,24,30,14,23,0,Jake Layman missed Free Throw.
+Maryland,Duke,24,30,14,23,0,Charles Mitchell Offensive Rebound.
+Maryland,Duke,24,30,14,23,0,Charles Mitchell missed Two Point Tip Shot.
+Maryland,Duke,24,30,14,23,0,Duke Defensive Rebound.
+Maryland,Duke,24,30,14,27,0,Duke  Timeout
+Maryland,Duke,24,32,14,49,1,Quinn Cook made Jumper.
+Maryland,Duke,24,32,15,8,0,Jake Layman missed Jumper.
+Maryland,Duke,24,32,15,8,0,Jonathan Graham Offensive Rebound.
+Maryland,Duke,24,32,15,32,0,Seth Allen missed Jumper.
+Maryland,Duke,24,32,15,32,0,Charles Mitchell Offensive Rebound.
+Maryland,Duke,24,32,15,36,0,Charles Mitchell missed Jumper.
+Maryland,Duke,24,32,15,36,0,Jabari Parker Defensive Rebound.
+Maryland,Duke,24,32,16,10,0,Tyler Thornton missed Three Point Jumper.
+Maryland,Duke,24,32,16,10,0,Jonathan Graham Defensive Rebound.
+Maryland,Duke,24,32,16,16,0,Jake Layman missed Three Point Jumper.
+Maryland,Duke,24,32,16,16,0,Nick Faust Offensive Rebound.
+Maryland,Duke,26,32,16,21,1,Nick Faust made Dunk.
+Maryland,Duke,26,32,16,38,0,Official TV Timeout
+Maryland,Duke,26,32,16,46,0,Quinn Cook Turnover.
+Maryland,Duke,26,32,16,46,0,Jake Layman Steal.
+Maryland,Duke,28,32,16,50,1,Jake Layman made Dunk.
+Maryland,Duke,28,32,17,6,0,Jabari Parker missed Three Point Jumper.
+Maryland,Duke,28,32,17,6,0,Jonathan Graham Defensive Rebound.
+Maryland,Duke,28,32,17,6,0,Foul on Amile Jefferson.
+Maryland,Duke,28,32,17,6,0,Jonathan Graham missed Free Throw.
+Maryland,Duke,28,32,17,6,0,Andre Dawkins Defensive Rebound.
+Maryland,Duke,28,32,17,18,0,Andre Dawkins missed Three Point Jumper.
+Maryland,Duke,28,32,17,18,0,Nick Faust Defensive Rebound.
+Maryland,Duke,28,32,17,28,0,Foul on Tyler Thornton.
+Maryland,Duke,29,32,17,28,1,Nick Faust made Free Throw.
+Maryland,Duke,29,32,17,28,0,Nick Faust missed Free Throw.
+Maryland,Duke,29,32,17,28,0,Jake Layman Offensive Rebound.
+Maryland,Duke,31,32,17,36,1,Jake Layman made Jumper. Assisted by Seth Allen.
+Maryland,Duke,31,32,17,59,0,Foul on Charles Mitchell.
+Maryland,Duke,31,33,17,59,1,Tyler Thornton made Free Throw.
+Maryland,Duke,31,34,17,59,1,Tyler Thornton made Free Throw.
+Maryland,Duke,31,34,18,8,0,Jake Layman Turnover.
+Maryland,Duke,31,34,18,8,0,Andre Dawkins Steal.
+Maryland,Duke,31,37,18,28,1,Andre Dawkins made Three Point Jumper. Assisted by Tyler Thornton.
+Maryland,Duke,31,37,18,48,0,Seth Allen Turnover.
+Maryland,Duke,31,37,18,48,0,Rasheed Sulaimon Steal.
+Maryland,Duke,31,37,18,58,0,Rasheed Sulaimon missed Jumper.
+Maryland,Duke,31,37,18,58,0,Shaquille Cleare Defensive Rebound.
+Maryland,Duke,31,37,19,13,0,Seth Allen missed Three Point Jumper.
+Maryland,Duke,31,37,19,13,0,Duke Defensive Rebound.
+Maryland,Duke,31,39,19,43,1,Amile Jefferson made Layup.
+Maryland,Duke,33,39,19,58,1,Nick Faust made Jumper.
+Maryland,Duke,33,39,20,0,0,End of 1st half
+Maryland,Duke,33,39,20,0,0,Jump Ball won by Maryland
+Maryland,Duke,33,39,20,18,0,Evan Smotrycz missed Three Point Jumper.
+Maryland,Duke,33,39,20,18,0,Charles Mitchell Offensive Rebound.
+Maryland,Duke,33,39,20,18,0,Charles Mitchell missed Two Point Tip Shot.
+Maryland,Duke,33,39,20,18,0,Maryland Offensive Rebound.
+Maryland,Duke,35,39,20,26,1,Charles Mitchell made Jumper.
+Maryland,Duke,35,39,20,55,0,Rodney Hood missed Layup.
+Maryland,Duke,35,39,20,55,0,Seth Allen Defensive Rebound.
+Maryland,Duke,37,39,21,6,1,Charles Mitchell made Jumper.
+Maryland,Duke,37,39,21,16,0,Duke  Timeout
+Maryland,Duke,37,39,21,27,0,Rasheed Sulaimon missed Three Point Jumper.
+Maryland,Duke,37,39,21,27,0,Tyler Thornton Offensive Rebound.
+Maryland,Duke,37,39,21,34,0,Rodney Hood missed Three Point Jumper.
+Maryland,Duke,37,39,21,34,0,Tyler Thornton Offensive Rebound.
+Maryland,Duke,37,42,21,38,1,Rodney Hood made Three Point Jumper. Assisted by Tyler Thornton.
+Maryland,Duke,37,42,21,52,0,Foul on Amile Jefferson.
+Maryland,Duke,37,42,21,52,0,Seth Allen missed Free Throw.
+Maryland,Duke,37,42,21,52,0,Maryland Deadball Team Rebound.
+Maryland,Duke,38,42,21,52,1,Seth Allen made Free Throw.
+Maryland,Duke,38,42,22,15,0,Rasheed Sulaimon missed Jumper.
+Maryland,Duke,38,42,22,15,0,Jake Layman Defensive Rebound.
+Maryland,Duke,38,42,22,19,0,Jake Layman Turnover.
+Maryland,Duke,38,42,22,19,0,Tyler Thornton Steal.
+Maryland,Duke,38,42,22,22,0,Foul on Seth Allen.
+Maryland,Duke,38,43,22,22,1,Tyler Thornton made Free Throw.
+Maryland,Duke,38,43,22,22,0,Tyler Thornton missed Free Throw.
+Maryland,Duke,38,43,22,22,0,Evan Smotrycz Defensive Rebound.
+Maryland,Duke,38,43,22,38,0,Charles Mitchell missed Jumper.
+Maryland,Duke,38,43,22,38,0,Tyler Thornton Defensive Rebound.
+Maryland,Duke,38,43,22,45,0,Tyler Thornton missed Three Point Jumper.
+Maryland,Duke,38,43,22,45,0,Evan Smotrycz Defensive Rebound.
+Maryland,Duke,38,43,22,59,0,Evan Smotrycz missed Layup.
+Maryland,Duke,38,43,22,59,0,Jabari Parker Block.
+Maryland,Duke,38,43,22,59,0,Rodney Hood Defensive Rebound.
+Maryland,Duke,38,43,23,2,0,Jump Ball won by Duke
+Maryland,Duke,38,43,23,30,0,Tyler Thornton missed Three Point Jumper.
+Maryland,Duke,38,43,23,30,0,Jake Layman Defensive Rebound.
+Maryland,Duke,38,43,23,32,0,Foul on Rodney Hood.
+Maryland,Duke,38,43,23,51,0,Evan Smotrycz missed Three Point Jumper.
+Maryland,Duke,38,43,23,51,0,Marshall Plumlee Defensive Rebound.
+Maryland,Duke,38,43,23,51,0,Foul on Charles Mitchell.
+Maryland,Duke,38,43,24,7,0,Foul on Evan Smotrycz.
+Maryland,Duke,38,43,24,7,0,Official TV Timeout
+Maryland,Duke,38,44,24,7,1,Jabari Parker made Free Throw.
+Maryland,Duke,38,45,24,7,1,Jabari Parker made Free Throw.
+Maryland,Duke,38,45,24,20,0,Nick Faust missed Three Point Jumper.
+Maryland,Duke,38,45,24,20,0,Jabari Parker Defensive Rebound.
+Maryland,Duke,38,45,24,51,0,Jabari Parker missed Jumper.
+Maryland,Duke,38,45,24,51,0,Nick Faust Defensive Rebound.
+Maryland,Duke,38,45,24,55,0,Nick Faust Turnover.
+Maryland,Duke,38,45,24,55,0,Jabari Parker Steal.
+Maryland,Duke,38,45,25,3,0,Foul on Jake Layman.
+Maryland,Duke,38,46,25,3,1,Jabari Parker made Free Throw.
+Maryland,Duke,38,47,25,3,1,Jabari Parker made Free Throw.
+Maryland,Duke,38,47,25,18,0,Nick Faust missed Layup.
+Maryland,Duke,38,47,25,18,0,Maryland Offensive Rebound.
+Maryland,Duke,38,47,25,23,0,Jake Layman missed Three Point Jumper.
+Maryland,Duke,38,47,25,23,0,Marshall Plumlee Defensive Rebound.
+Maryland,Duke,38,47,25,23,0,Foul on Jonathan Graham.
+Maryland,Duke,38,47,25,40,0,Jabari Parker Turnover.
+Maryland,Duke,38,47,25,46,0,Foul on Tyler Thornton.
+Maryland,Duke,40,47,25,49,1,Jake Layman made Layup.
+Maryland,Duke,40,47,26,7,0,Rasheed Sulaimon missed Layup.
+Maryland,Duke,40,47,26,7,0,Marshall Plumlee Offensive Rebound.
+Maryland,Duke,40,49,26,13,1,Marshall Plumlee made Jumper.
+Maryland,Duke,40,49,26,17,0,Maryland  Timeout
+Maryland,Duke,40,49,26,28,0,Dez Wells missed Jumper.
+Maryland,Duke,40,49,26,28,0,Andre Dawkins Defensive Rebound.
+Maryland,Duke,40,49,26,48,0,Quinn Cook missed Jumper.
+Maryland,Duke,40,49,26,48,0,Dez Wells Defensive Rebound.
+Maryland,Duke,42,49,27,3,1,Dez Wells made Layup.
+Maryland,Duke,42,49,27,29,0,Foul on Jonathan Graham.
+Maryland,Duke,42,50,27,29,1,Jabari Parker made Free Throw.
+Maryland,Duke,42,51,27,29,1,Jabari Parker made Free Throw.
+Maryland,Duke,42,51,27,36,0,Seth Allen missed Three Point Jumper.
+Maryland,Duke,42,51,27,36,0,Damonte Dodd Offensive Rebound.
+Maryland,Duke,42,51,27,41,0,Foul on Tyler Thornton.
+Maryland,Duke,42,51,27,41,0,Damonte Dodd missed Free Throw.
+Maryland,Duke,42,51,27,41,0,Maryland Deadball Team Rebound.
+Maryland,Duke,42,51,27,41,0,Damonte Dodd missed Free Throw.
+Maryland,Duke,42,51,27,41,0,Amile Jefferson Defensive Rebound.
+Maryland,Duke,42,51,27,53,0,Rasheed Sulaimon Turnover.
+Maryland,Duke,42,51,27,53,0,Evan Smotrycz Steal.
+Maryland,Duke,44,51,27,59,1,Dez Wells made Layup.
+Maryland,Duke,44,51,28,28,0,Jabari Parker missed Three Point Jumper.
+Maryland,Duke,44,51,28,28,0,Evan Smotrycz Defensive Rebound.
+Maryland,Duke,44,51,28,37,0,Foul on Andre Dawkins.
+Maryland,Duke,44,51,28,37,0,Official TV Timeout
+Maryland,Duke,45,51,28,37,1,Dez Wells made Free Throw.
+Maryland,Duke,45,51,28,37,0,Dez Wells missed Free Throw.
+Maryland,Duke,45,51,28,37,0,Amile Jefferson Defensive Rebound.
+Maryland,Duke,45,51,29,7,0,Jabari Parker missed Three Point Jumper.
+Maryland,Duke,45,51,29,7,0,Amile Jefferson Offensive Rebound.
+Maryland,Duke,45,51,29,17,0,Andre Dawkins missed Jumper.
+Maryland,Duke,45,51,29,17,0,Dez Wells Defensive Rebound.
+Maryland,Duke,47,51,29,21,1,Jake Layman made Layup. Assisted by Dez Wells.
+Maryland,Duke,47,51,29,54,0,Rodney Hood missed Jumper.
+Maryland,Duke,47,51,29,54,0,Amile Jefferson Offensive Rebound.
+Maryland,Duke,47,51,29,54,0,Amile Jefferson missed Two Point Tip Shot.
+Maryland,Duke,47,51,29,54,0,Amile Jefferson Offensive Rebound.
+Maryland,Duke,47,51,30,27,0,Foul on Damonte Dodd.
+Maryland,Duke,47,51,30,27,0,Andre Dawkins missed Free Throw.
+Maryland,Duke,47,51,30,27,0,Duke Deadball Team Rebound.
+Maryland,Duke,47,52,30,27,1,Andre Dawkins made Free Throw.
+Maryland,Duke,49,52,30,39,1,Evan Smotrycz made Layup.
+Maryland,Duke,49,52,31,0,0,Rodney Hood missed Three Point Jumper.
+Maryland,Duke,49,52,31,0,0,Dez Wells Defensive Rebound.
+Maryland,Duke,51,52,31,14,1,Dez Wells made Jumper.
+Maryland,Duke,51,52,31,14,0,Foul on Quinn Cook.
+Maryland,Duke,52,52,31,14,1,Dez Wells made Free Throw.
+Maryland,Duke,52,52,31,28,0,Rodney Hood missed Jumper.
+Maryland,Duke,52,52,31,28,0,Evan Smotrycz Defensive Rebound.
+Maryland,Duke,54,52,31,33,1,Dez Wells made Layup.
+Maryland,Duke,54,52,31,38,0,Duke  Timeout
+Maryland,Duke,54,52,31,47,0,Jabari Parker missed Layup.
+Maryland,Duke,54,52,31,47,0,Seth Allen Defensive Rebound.
+Maryland,Duke,54,52,32,3,0,Nick Faust missed Layup.
+Maryland,Duke,54,52,32,3,0,Jabari Parker Defensive Rebound.
+Maryland,Duke,54,52,32,34,0,Foul on Evan Smotrycz.
+Maryland,Duke,54,52,32,34,0,Official TV Timeout
+Maryland,Duke,54,53,32,34,1,Rodney Hood made Free Throw.
+Maryland,Duke,54,54,32,34,1,Rodney Hood made Free Throw.
+Maryland,Duke,56,54,32,48,1,Seth Allen made Layup.
+Maryland,Duke,56,56,33,24,1,Amile Jefferson made Jumper.
+Maryland,Duke,56,56,33,44,0,Dez Wells Turnover.
+Maryland,Duke,56,56,33,59,0,Foul on Seth Allen.
+Maryland,Duke,56,57,33,59,1,Rasheed Sulaimon made Free Throw.
+Maryland,Duke,56,58,33,59,1,Rasheed Sulaimon made Free Throw.
+Maryland,Duke,58,58,34,17,1,Dez Wells made Jumper.
+Maryland,Duke,58,58,34,25,0,Foul on Jake Layman.
+Maryland,Duke,58,58,34,25,0,Jabari Parker missed Free Throw.
+Maryland,Duke,58,58,34,25,0,Duke Deadball Team Rebound.
+Maryland,Duke,58,59,34,25,1,Jabari Parker made Free Throw.
+Maryland,Duke,58,59,34,42,0,Foul on Jabari Parker.
+Maryland,Duke,59,59,34,42,1,Jake Layman made Free Throw.
+Maryland,Duke,60,59,34,42,1,Jake Layman made Free Throw.
+Maryland,Duke,60,59,34,50,0,Rasheed Sulaimon missed Three Point Jumper.
+Maryland,Duke,60,59,34,50,0,Seth Allen Block.
+Maryland,Duke,60,59,34,50,0,Jabari Parker Offensive Rebound.
+Maryland,Duke,60,59,34,55,0,Jabari Parker Turnover.
+Maryland,Duke,60,59,35,7,0,Jake Layman missed Jumper.
+Maryland,Duke,60,59,35,7,0,Jabari Parker Defensive Rebound.
+Maryland,Duke,60,59,35,14,0,Jabari Parker missed Layup.
+Maryland,Duke,60,59,35,14,0,Jake Layman Defensive Rebound.
+Maryland,Duke,60,59,35,19,0,Jake Layman Turnover.
+Maryland,Duke,60,59,35,19,0,Rodney Hood Steal.
+Maryland,Duke,60,62,35,22,1,Rasheed Sulaimon made Three Point Jumper. Assisted by Jabari Parker.
+Maryland,Duke,60,62,35,36,0,Maryland  Timeout
+Maryland,Duke,60,62,35,50,0,Dez Wells missed Jumper.
+Maryland,Duke,60,62,35,50,0,Evan Smotrycz Offensive Rebound.
+Maryland,Duke,62,62,35,57,1,Evan Smotrycz made Two Point Tip Shot.
+Maryland,Duke,62,62,36,9,0,Official TV Timeout
+Maryland,Duke,62,64,36,12,1,Rodney Hood made Jumper.
+Maryland,Duke,64,64,36,30,1,Dez Wells made Layup. Assisted by Evan Smotrycz.
+Maryland,Duke,64,64,37,1,0,Foul on Rasheed Sulaimon.
+Maryland,Duke,64,64,37,1,0,Rasheed Sulaimon Turnover.
+Maryland,Duke,67,64,37,10,1,Dez Wells made Three Point Jumper. Assisted by Seth Allen.
+Maryland,Duke,67,64,37,49,0,Foul on Jake Layman.
+Maryland,Duke,67,65,37,49,1,Rodney Hood made Free Throw.
+Maryland,Duke,67,66,37,49,1,Rodney Hood made Free Throw.
+Maryland,Duke,67,66,38,18,0,Dez Wells Turnover.
+Maryland,Duke,67,66,38,18,0,Amile Jefferson Steal.
+Maryland,Duke,67,66,38,28,0,Duke  Timeout
+Maryland,Duke,67,68,38,41,1,Jabari Parker made Dunk.
+Maryland,Duke,67,68,38,55,0,Maryland  Timeout
+Maryland,Duke,67,68,39,4,0,Dez Wells missed Jumper.
+Maryland,Duke,67,68,39,4,0,Jabari Parker Defensive Rebound.
+Maryland,Duke,67,68,39,39,0,Amile Jefferson missed Jumper.
+Maryland,Duke,67,68,39,39,0,Amile Jefferson Offensive Rebound.
+Maryland,Duke,67,68,39,39,0,Duke  Turnover.
+Maryland,Duke,67,68,39,42,0,Duke  Timeout
+Maryland,Duke,67,68,39,42,0,Maryland  Timeout
+Maryland,Duke,67,68,39,54,0,Maryland Offensive Rebound.
+Maryland,Duke,67,68,39,54,0,Jabari Parker Block.
+Maryland,Duke,67,68,39,54,0,Charles Mitchell missed Jumper.
+Maryland,Duke,67,68,39,58,0,Charles Mitchell missed Jumper.
+Maryland,Duke,67,68,39,58,0,Amile Jefferson Defensive Rebound.
+Maryland,Duke,67,69,39,58,1,Amile Jefferson made Free Throw.
+Maryland,Duke,67,69,39,58,0,Amile Jefferson missed Free Throw.
+Maryland,Duke,67,69,39,58,0,Dez Wells Defensive Rebound.
+Maryland,Duke,67,69,39,59,0,Foul on Dez Wells.
+Maryland,Duke,67,69,40,0,0,End of Game

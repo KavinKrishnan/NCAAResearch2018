@@ -1,0 +1,374 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Duke,North Carolina,0,0,0,0,0,Jump Ball won by North Carolina
+Duke,North Carolina,0,0,0,26,0,Foul on Amile Jefferson.
+Duke,North Carolina,0,2,0,31,1,Kennedy Meeks made Layup. Assisted by Justin Jackson.
+Duke,North Carolina,0,2,0,45,0,Foul on Joel Berry II.
+Duke,North Carolina,0,2,1,9,0,Frank Jackson missed Jumper.
+Duke,North Carolina,0,2,1,9,0,Joel Berry II Defensive Rebound.
+Duke,North Carolina,0,2,1,19,0,Foul on Jayson Tatum.
+Duke,North Carolina,0,3,1,19,1,Joel Berry II made Free Throw.
+Duke,North Carolina,0,4,1,19,1,Joel Berry II made Free Throw.
+Duke,North Carolina,0,4,1,39,0,Frank Jackson missed Jumper.
+Duke,North Carolina,0,4,1,39,0,Frank Jackson Offensive Rebound.
+Duke,North Carolina,0,4,1,39,0,Frank Jackson Turnover.
+Duke,North Carolina,0,4,1,39,0,Isaiah Hicks Steal.
+Duke,North Carolina,0,4,1,45,0,Joel Berry II Turnover.
+Duke,North Carolina,0,4,1,45,0,Luke Kennard Steal.
+Duke,North Carolina,2,4,1,56,1,Jayson Tatum made Jumper.
+Duke,North Carolina,2,6,2,17,1,Kennedy Meeks made Jumper. Assisted by Isaiah Hicks.
+Duke,North Carolina,2,6,2,34,0,Luke Kennard missed Jumper.
+Duke,North Carolina,2,6,2,34,0,Isaiah Hicks Defensive Rebound.
+Duke,North Carolina,2,6,2,43,0,Theo Pinson missed Jumper.
+Duke,North Carolina,2,6,2,43,0,Amile Jefferson Block.
+Duke,North Carolina,2,6,2,43,0,North Carolina Offensive Rebound.
+Duke,North Carolina,2,6,2,49,0,Isaiah Hicks Turnover.
+Duke,North Carolina,2,6,2,49,0,Jayson Tatum Steal.
+Duke,North Carolina,4,6,2,51,1,Jayson Tatum made Layup.
+Duke,North Carolina,4,8,3,5,1,Kennedy Meeks made Layup. Assisted by Justin Jackson.
+Duke,North Carolina,4,8,3,22,0,Jayson Tatum missed Three Point Jumper.
+Duke,North Carolina,4,8,3,22,0,Justin Jackson Defensive Rebound.
+Duke,North Carolina,4,10,3,32,1,Kennedy Meeks made Layup. Assisted by Justin Jackson.
+Duke,North Carolina,4,10,4,1,0,Foul on Kennedy Meeks.
+Duke,North Carolina,4,10,4,1,0,Official TV Timeout
+Duke,North Carolina,5,10,4,1,1,Luke Kennard made Free Throw.
+Duke,North Carolina,6,10,4,1,1,Luke Kennard made Free Throw.
+Duke,North Carolina,7,10,4,1,1,Luke Kennard made Free Throw.
+Duke,North Carolina,7,10,4,18,0,Theo Pinson Turnover.
+Duke,North Carolina,7,10,4,18,0,Luke Kennard Steal.
+Duke,North Carolina,9,10,4,37,1,Amile Jefferson made Jumper.
+Duke,North Carolina,9,10,4,55,0,Justin Jackson missed Three Point Jumper.
+Duke,North Carolina,9,10,4,55,0,Kennedy Meeks Offensive Rebound.
+Duke,North Carolina,9,10,5,0,0,Foul on Matt Jones.
+Duke,North Carolina,9,10,5,6,0,Joel Berry II missed Three Point Jumper.
+Duke,North Carolina,9,10,5,6,0,Frank Jackson Defensive Rebound.
+Duke,North Carolina,9,10,5,17,0,Amile Jefferson missed Layup.
+Duke,North Carolina,9,10,5,17,0,Isaiah Hicks Defensive Rebound.
+Duke,North Carolina,9,10,5,30,0,Justin Jackson missed Jumper.
+Duke,North Carolina,9,10,5,30,0,Duke Defensive Rebound.
+Duke,North Carolina,9,10,5,47,0,Frank Jackson missed Three Point Jumper.
+Duke,North Carolina,9,10,5,47,0,Luke Maye Defensive Rebound.
+Duke,North Carolina,9,12,6,3,1,Kennedy Meeks made Jumper.
+Duke,North Carolina,9,12,6,29,0,Jayson Tatum missed Jumper.
+Duke,North Carolina,9,12,6,29,0,Nate Britt Defensive Rebound.
+Duke,North Carolina,9,14,6,42,1,Joel Berry II made Layup.
+Duke,North Carolina,9,14,6,42,0,Foul on Harry Giles.
+Duke,North Carolina,9,15,6,42,1,Joel Berry II made Free Throw.
+Duke,North Carolina,9,15,6,55,0,Luke Kennard Turnover.
+Duke,North Carolina,9,15,6,55,0,Nate Britt Steal.
+Duke,North Carolina,9,15,7,6,0,Luke Maye missed Three Point Jumper.
+Duke,North Carolina,9,15,7,6,0,Tony Bradley Offensive Rebound.
+Duke,North Carolina,9,15,7,17,0,Foul on Luke Maye.
+Duke,North Carolina,9,15,7,17,0,Luke Maye Turnover.
+Duke,North Carolina,9,15,7,36,0,Jump Ball won by Duke
+Duke,North Carolina,9,15,7,42,0,Grayson Allen missed Layup.
+Duke,North Carolina,9,15,7,42,0,Harry Giles Offensive Rebound.
+Duke,North Carolina,11,15,7,42,1,Harry Giles made Two Point Tip Shot.
+Duke,North Carolina,11,17,8,7,1,Tony Bradley made Layup. Assisted by Luke Maye.
+Duke,North Carolina,11,17,8,24,0,Jayson Tatum Turnover.
+Duke,North Carolina,11,17,8,24,0,Justin Jackson Steal.
+Duke,North Carolina,11,19,8,29,1,Justin Jackson made Layup.
+Duke,North Carolina,13,19,8,48,1,Jayson Tatum made Layup.
+Duke,North Carolina,13,21,8,54,1,Joel Berry II made Layup.
+Duke,North Carolina,13,21,9,6,0,Foul on Justin Jackson.
+Duke,North Carolina,13,21,9,6,0,Official TV Timeout
+Duke,North Carolina,13,21,9,23,0,Luke Kennard missed Jumper.
+Duke,North Carolina,13,21,9,23,0,Jayson Tatum Offensive Rebound.
+Duke,North Carolina,16,21,9,34,1,Grayson Allen made Three Point Jumper. Assisted by Jayson Tatum.
+Duke,North Carolina,16,21,9,55,0,Theo Pinson missed Three Point Jumper.
+Duke,North Carolina,16,21,9,55,0,Jayson Tatum Defensive Rebound.
+Duke,North Carolina,16,21,9,58,0,Foul on Luke Maye.
+Duke,North Carolina,16,21,10,14,0,Jayson Tatum missed Jumper.
+Duke,North Carolina,16,21,10,14,0,North Carolina Defensive Rebound.
+Duke,North Carolina,16,21,10,27,0,Tony Bradley missed Jumper.
+Duke,North Carolina,16,21,10,27,0,Jayson Tatum Defensive Rebound.
+Duke,North Carolina,19,21,10,38,1,Grayson Allen made Three Point Jumper. Assisted by Matt Jones.
+Duke,North Carolina,19,21,10,47,0,Seventh Woods Turnover.
+Duke,North Carolina,19,21,10,47,0,Matt Jones Steal.
+Duke,North Carolina,19,21,10,50,0,Matt Jones Turnover.
+Duke,North Carolina,19,21,10,50,0,Theo Pinson Steal.
+Duke,North Carolina,19,23,10,53,1,Tony Bradley made Dunk. Assisted by Theo Pinson.
+Duke,North Carolina,22,23,11,9,1,Grayson Allen made Three Point Jumper.
+Duke,North Carolina,22,26,11,20,1,Nate Britt made Three Point Jumper. Assisted by Tony Bradley.
+Duke,North Carolina,22,26,11,33,0,Foul on Theo Pinson.
+Duke,North Carolina,22,26,11,46,0,Harry Giles missed Jumper.
+Duke,North Carolina,22,26,11,46,0,Kennedy Meeks Defensive Rebound.
+Duke,North Carolina,22,28,11,57,1,Isaiah Hicks made Jumper. Assisted by Theo Pinson.
+Duke,North Carolina,22,28,12,17,0,Frank Jackson missed Three Point Jumper.
+Duke,North Carolina,22,28,12,17,0,Amile Jefferson Offensive Rebound.
+Duke,North Carolina,22,28,12,20,0,Foul on Isaiah Hicks.
+Duke,North Carolina,22,28,12,20,0,Official TV Timeout
+Duke,North Carolina,23,28,12,20,1,Amile Jefferson made Free Throw.
+Duke,North Carolina,23,28,12,20,0,Amile Jefferson missed Free Throw.
+Duke,North Carolina,23,28,12,20,0,Kennedy Meeks Defensive Rebound.
+Duke,North Carolina,23,30,12,38,1,Kennedy Meeks made Layup. Assisted by Theo Pinson.
+Duke,North Carolina,23,30,12,57,0,Frank Jackson missed Jumper.
+Duke,North Carolina,23,30,12,57,0,Kennedy Meeks Defensive Rebound.
+Duke,North Carolina,23,33,13,3,1,Justin Jackson made Three Point Jumper. Assisted by Theo Pinson.
+Duke,North Carolina,23,33,13,9,0,Duke  Timeout
+Duke,North Carolina,23,33,13,27,0,Jayson Tatum Turnover.
+Duke,North Carolina,23,35,13,44,1,Justin Jackson made Jumper. Assisted by Kennedy Meeks.
+Duke,North Carolina,26,35,14,6,1,Jayson Tatum made Three Point Jumper. Assisted by Grayson Allen.
+Duke,North Carolina,26,35,14,20,0,Justin Jackson missed Three Point Jumper.
+Duke,North Carolina,26,35,14,20,0,Kennedy Meeks Offensive Rebound.
+Duke,North Carolina,26,35,14,24,0,Kennedy Meeks missed Jumper.
+Duke,North Carolina,26,35,14,24,0,Jayson Tatum Defensive Rebound.
+Duke,North Carolina,29,35,14,43,1,Grayson Allen made Three Point Jumper. Assisted by Amile Jefferson.
+Duke,North Carolina,29,37,15,10,1,Kennedy Meeks made Layup. Assisted by Theo Pinson.
+Duke,North Carolina,29,37,15,34,0,Foul on Joel Berry II.
+Duke,North Carolina,30,37,15,34,1,Amile Jefferson made Free Throw.
+Duke,North Carolina,31,37,15,34,1,Amile Jefferson made Free Throw.
+Duke,North Carolina,31,39,15,44,1,Isaiah Hicks made Layup. Assisted by Justin Jackson.
+Duke,North Carolina,31,39,15,44,0,Foul on Marques Bolden.
+Duke,North Carolina,31,40,15,44,1,Isaiah Hicks made Free Throw.
+Duke,North Carolina,31,40,15,51,0,Jayson Tatum missed Jumper.
+Duke,North Carolina,31,40,15,51,0,Isaiah Hicks Block.
+Duke,North Carolina,31,40,15,51,0,Tony Bradley Defensive Rebound.
+Duke,North Carolina,31,40,16,2,0,Foul on Marques Bolden.
+Duke,North Carolina,31,40,16,2,0,Official TV Timeout
+Duke,North Carolina,31,41,16,2,1,Isaiah Hicks made Free Throw.
+Duke,North Carolina,31,42,16,2,1,Isaiah Hicks made Free Throw.
+Duke,North Carolina,31,42,16,13,0,Grayson Allen Turnover.
+Duke,North Carolina,31,42,16,34,0,Justin Jackson missed Jumper.
+Duke,North Carolina,31,42,16,34,0,Amile Jefferson Defensive Rebound.
+Duke,North Carolina,31,42,16,50,0,Foul on Justin Jackson.
+Duke,North Carolina,32,42,16,50,1,Jayson Tatum made Free Throw.
+Duke,North Carolina,33,42,16,50,1,Jayson Tatum made Free Throw.
+Duke,North Carolina,33,42,17,19,0,Isaiah Hicks missed Jumper.
+Duke,North Carolina,33,42,17,19,0,Theo Pinson Offensive Rebound.
+Duke,North Carolina,33,44,17,24,1,Theo Pinson made Layup.
+Duke,North Carolina,33,44,17,33,0,Grayson Allen missed Three Point Jumper.
+Duke,North Carolina,33,44,17,33,0,Theo Pinson Defensive Rebound.
+Duke,North Carolina,33,46,17,41,1,Isaiah Hicks made Layup. Assisted by Theo Pinson.
+Duke,North Carolina,33,46,17,54,0,Foul on Nate Britt.
+Duke,North Carolina,34,46,17,54,1,Luke Kennard made Free Throw.
+Duke,North Carolina,35,46,17,54,1,Luke Kennard made Free Throw.
+Duke,North Carolina,35,48,18,13,1,Isaiah Hicks made Layup. Assisted by Nate Britt.
+Duke,North Carolina,37,48,18,36,1,Jayson Tatum made Jumper.
+Duke,North Carolina,37,48,18,46,0,Nate Britt missed Layup.
+Duke,North Carolina,37,48,18,46,0,Isaiah Hicks Offensive Rebound.
+Duke,North Carolina,37,48,18,48,0,Isaiah Hicks missed Layup.
+Duke,North Carolina,37,48,18,48,0,Luke Kennard Block.
+Duke,North Carolina,37,48,18,48,0,North Carolina Offensive Rebound.
+Duke,North Carolina,37,48,18,59,0,Kennedy Meeks missed Jumper.
+Duke,North Carolina,37,48,18,59,0,Luke Kennard Defensive Rebound.
+Duke,North Carolina,37,48,19,13,0,Foul on Isaiah Hicks.
+Duke,North Carolina,38,48,19,13,1,Jayson Tatum made Free Throw.
+Duke,North Carolina,39,48,19,13,1,Jayson Tatum made Free Throw.
+Duke,North Carolina,39,48,19,17,0,Brandon Robinson missed Three Point Jumper.
+Duke,North Carolina,39,48,19,17,0,Jayson Tatum Defensive Rebound.
+Duke,North Carolina,41,48,19,23,1,Jayson Tatum made Layup.
+Duke,North Carolina,41,48,19,23,0,Foul on Brandon Robinson.
+Duke,North Carolina,42,48,19,23,1,Jayson Tatum made Free Throw.
+Duke,North Carolina,42,48,19,44,0,Theo Pinson missed Jumper.
+Duke,North Carolina,42,48,19,44,0,Kennedy Meeks Offensive Rebound.
+Duke,North Carolina,42,48,19,49,0,Foul on Jayson Tatum.
+Duke,North Carolina,42,49,19,49,1,Kennedy Meeks made Free Throw.
+Duke,North Carolina,42,49,19,49,0,Kennedy Meeks missed Free Throw.
+Duke,North Carolina,42,49,19,49,0,Amile Jefferson Defensive Rebound.
+Duke,North Carolina,42,49,19,57,0,Jayson Tatum missed Jumper.
+Duke,North Carolina,42,49,19,57,0,Kennedy Meeks Defensive Rebound.
+Duke,North Carolina,42,49,20,0,0,End of 1st half
+Duke,North Carolina,42,49,20,0,0,Jump Ball won by North Carolina
+Duke,North Carolina,42,51,20,18,1,Kennedy Meeks made Layup. Assisted by Isaiah Hicks.
+Duke,North Carolina,44,51,20,33,1,Luke Kennard made Jumper.
+Duke,North Carolina,44,54,20,43,1,Justin Jackson made Three Point Jumper. Assisted by Joel Berry II.
+Duke,North Carolina,44,54,20,57,0,Jayson Tatum missed Three Point Jumper.
+Duke,North Carolina,44,54,20,57,0,Kennedy Meeks Defensive Rebound.
+Duke,North Carolina,44,54,21,13,0,Justin Jackson missed Jumper.
+Duke,North Carolina,44,54,21,13,0,Jayson Tatum Defensive Rebound.
+Duke,North Carolina,44,54,21,29,0,Jump Ball won by Duke
+Duke,North Carolina,44,54,21,34,0,Frank Jackson missed Layup.
+Duke,North Carolina,44,54,21,34,0,Kennedy Meeks Block.
+Duke,North Carolina,44,54,21,34,0,Kennedy Meeks Defensive Rebound.
+Duke,North Carolina,44,54,21,51,0,Theo Pinson missed Jumper.
+Duke,North Carolina,44,54,21,51,0,Kennedy Meeks Offensive Rebound.
+Duke,North Carolina,44,54,21,51,0,Kennedy Meeks missed Two Point Tip Shot.
+Duke,North Carolina,44,54,21,51,0,Frank Jackson Defensive Rebound.
+Duke,North Carolina,44,54,21,56,0,Foul on Joel Berry II.
+Duke,North Carolina,47,54,22,18,1,Frank Jackson made Three Point Jumper.
+Duke,North Carolina,47,54,22,49,0,Joel Berry II missed Jumper.
+Duke,North Carolina,47,54,22,49,0,Duke Defensive Rebound.
+Duke,North Carolina,47,54,23,11,0,Amile Jefferson missed Jumper.
+Duke,North Carolina,47,54,23,11,0,Isaiah Hicks Defensive Rebound.
+Duke,North Carolina,47,54,23,19,0,Justin Jackson missed Jumper.
+Duke,North Carolina,47,54,23,19,0,Luke Kennard Defensive Rebound.
+Duke,North Carolina,47,54,23,28,0,Luke Kennard missed Jumper.
+Duke,North Carolina,47,54,23,28,0,Justin Jackson Defensive Rebound.
+Duke,North Carolina,47,56,23,41,1,Justin Jackson made Layup. Assisted by Isaiah Hicks.
+Duke,North Carolina,47,56,24,4,0,Foul on Kennedy Meeks.
+Duke,North Carolina,47,56,24,4,0,Official TV Timeout
+Duke,North Carolina,47,56,24,4,0,Amile Jefferson missed Free Throw.
+Duke,North Carolina,47,56,24,4,0,Duke Deadball Team Rebound.
+Duke,North Carolina,48,56,24,4,1,Amile Jefferson made Free Throw.
+Duke,North Carolina,48,56,24,25,0,Justin Jackson missed Three Point Jumper.
+Duke,North Carolina,48,56,24,25,0,Theo Pinson Offensive Rebound.
+Duke,North Carolina,48,56,24,28,0,Foul on Jayson Tatum.
+Duke,North Carolina,48,56,24,34,0,Joel Berry II missed Layup.
+Duke,North Carolina,48,56,24,34,0,Harry Giles Defensive Rebound.
+Duke,North Carolina,48,56,24,56,0,Foul on Joel Berry II.
+Duke,North Carolina,48,56,24,59,0,Frank Jackson missed Three Point Jumper.
+Duke,North Carolina,48,56,24,59,0,Justin Jackson Defensive Rebound.
+Duke,North Carolina,48,56,25,2,0,Foul on Amile Jefferson.
+Duke,North Carolina,48,59,25,14,1,Justin Jackson made Three Point Jumper. Assisted by Theo Pinson.
+Duke,North Carolina,48,59,25,37,0,Foul on Luke Maye.
+Duke,North Carolina,48,59,25,44,0,Jayson Tatum Turnover.
+Duke,North Carolina,48,59,25,44,0,Justin Jackson Steal.
+Duke,North Carolina,48,59,26,4,0,Kennedy Meeks missed Layup.
+Duke,North Carolina,48,59,26,5,0,Harry Giles Block.
+Duke,North Carolina,48,59,26,6,0,Kennedy Meeks Offensive Rebound.
+Duke,North Carolina,48,61,26,7,1,Kennedy Meeks made Layup.
+Duke,North Carolina,50,61,26,20,1,Jayson Tatum made Dunk.
+Duke,North Carolina,50,61,26,21,0,Duke  Timeout
+Duke,North Carolina,50,61,26,27,0,Foul on Grayson Allen.
+Duke,North Carolina,50,61,26,34,0,Nate Britt missed Jumper.
+Duke,North Carolina,50,61,26,34,0,Duke Defensive Rebound.
+Duke,North Carolina,50,61,26,55,0,Jayson Tatum missed Three Point Jumper.
+Duke,North Carolina,50,61,26,55,0,Grayson Allen Offensive Rebound.
+Duke,North Carolina,53,61,27,1,1,Luke Kennard made Three Point Jumper. Assisted by Grayson Allen.
+Duke,North Carolina,53,61,27,1,0,Foul on Nate Britt.
+Duke,North Carolina,54,61,27,1,1,Luke Kennard made Free Throw.
+Duke,North Carolina,54,61,27,13,0,Tony Bradley missed Layup.
+Duke,North Carolina,54,61,27,13,0,Harry Giles Block.
+Duke,North Carolina,54,61,27,13,0,Tony Bradley Offensive Rebound.
+Duke,North Carolina,54,61,27,16,0,Foul on Amile Jefferson.
+Duke,North Carolina,54,63,27,23,1,Isaiah Hicks made Dunk. Assisted by Theo Pinson.
+Duke,North Carolina,54,63,27,39,0,Grayson Allen missed Jumper.
+Duke,North Carolina,54,63,27,39,0,Theo Pinson Defensive Rebound.
+Duke,North Carolina,54,63,27,48,0,Theo Pinson missed Layup.
+Duke,North Carolina,54,63,27,48,0,Jayson Tatum Defensive Rebound.
+Duke,North Carolina,54,63,27,55,0,Foul on Tony Bradley.
+Duke,North Carolina,55,63,27,55,1,Grayson Allen made Free Throw.
+Duke,North Carolina,56,63,27,55,1,Grayson Allen made Free Throw.
+Duke,North Carolina,56,63,28,4,0,Theo Pinson Turnover.
+Duke,North Carolina,56,63,28,4,0,Jayson Tatum Steal.
+Duke,North Carolina,59,63,28,13,1,Grayson Allen made Three Point Jumper. Assisted by Jayson Tatum.
+Duke,North Carolina,59,63,28,32,0,Justin Jackson missed Three Point Jumper.
+Duke,North Carolina,59,63,28,32,0,Luke Kennard Defensive Rebound.
+Duke,North Carolina,61,63,28,53,1,Frank Jackson made Layup. Assisted by Luke Kennard.
+Duke,North Carolina,61,63,29,4,0,North Carolina  Timeout
+Duke,North Carolina,61,63,29,4,0,Official TV Timeout
+Duke,North Carolina,61,63,29,15,0,Justin Jackson missed Jumper.
+Duke,North Carolina,61,63,29,15,0,Justin Jackson Offensive Rebound.
+Duke,North Carolina,61,63,29,23,0,Isaiah Hicks missed Jumper.
+Duke,North Carolina,61,63,29,23,0,Amile Jefferson Defensive Rebound.
+Duke,North Carolina,61,63,29,39,0,Foul on Brandon Robinson.
+Duke,North Carolina,62,63,29,39,1,Luke Kennard made Free Throw.
+Duke,North Carolina,63,63,29,39,1,Luke Kennard made Free Throw.
+Duke,North Carolina,63,63,29,45,0,Foul on Luke Kennard.
+Duke,North Carolina,63,65,29,57,1,Nate Britt made Jumper.
+Duke,North Carolina,63,65,30,16,0,Grayson Allen missed Jumper.
+Duke,North Carolina,63,65,30,16,0,Isaiah Hicks Defensive Rebound.
+Duke,North Carolina,63,65,30,19,0,Foul on Amile Jefferson.
+Duke,North Carolina,63,65,30,36,0,Foul on Grayson Allen.
+Duke,North Carolina,63,65,30,36,0,Kennedy Meeks missed Free Throw.
+Duke,North Carolina,63,65,30,36,0,Harry Giles Defensive Rebound.
+Duke,North Carolina,66,65,30,58,1,Frank Jackson made Three Point Jumper. Assisted by Grayson Allen.
+Duke,North Carolina,66,65,31,19,0,Kennedy Meeks missed Layup.
+Duke,North Carolina,66,65,31,19,0,Harry Giles Block.
+Duke,North Carolina,66,65,31,19,0,Isaiah Hicks Offensive Rebound.
+Duke,North Carolina,66,65,31,22,0,Isaiah Hicks Turnover.
+Duke,North Carolina,68,65,31,36,1,Luke Kennard made Jumper.
+Duke,North Carolina,68,65,31,56,0,Justin Jackson missed Jumper.
+Duke,North Carolina,68,65,31,56,0,Harry Giles Defensive Rebound.
+Duke,North Carolina,68,65,32,8,0,Luke Kennard Turnover.
+Duke,North Carolina,68,65,32,8,0,Official TV Timeout
+Duke,North Carolina,68,65,32,26,0,Foul on Jayson Tatum.
+Duke,North Carolina,68,66,32,26,1,Isaiah Hicks made Free Throw.
+Duke,North Carolina,68,67,32,26,1,Isaiah Hicks made Free Throw.
+Duke,North Carolina,68,67,32,46,0,Grayson Allen missed Layup.
+Duke,North Carolina,68,67,32,46,0,Nate Britt Defensive Rebound.
+Duke,North Carolina,68,67,33,10,0,Nate Britt missed Three Point Jumper.
+Duke,North Carolina,68,67,33,10,0,Theo Pinson Offensive Rebound.
+Duke,North Carolina,68,67,33,16,0,Theo Pinson missed Jumper.
+Duke,North Carolina,68,67,33,16,0,Harry Giles Defensive Rebound.
+Duke,North Carolina,68,67,33,23,0,Foul on Nate Britt.
+Duke,North Carolina,69,67,33,23,1,Luke Kennard made Free Throw.
+Duke,North Carolina,70,67,33,23,1,Luke Kennard made Free Throw.
+Duke,North Carolina,70,69,33,31,1,Nate Britt made Layup.
+Duke,North Carolina,70,69,33,31,0,Foul on Harry Giles.
+Duke,North Carolina,70,70,33,31,1,Nate Britt made Free Throw.
+Duke,North Carolina,72,70,33,44,1,Frank Jackson made Layup.
+Duke,North Carolina,72,70,33,59,0,Foul on Justin Jackson.
+Duke,North Carolina,72,70,33,59,0,Justin Jackson Turnover.
+Duke,North Carolina,75,70,34,12,1,Luke Kennard made Three Point Jumper. Assisted by Grayson Allen.
+Duke,North Carolina,75,70,34,23,0,Justin Jackson missed Layup.
+Duke,North Carolina,75,70,34,23,0,Harry Giles Block.
+Duke,North Carolina,75,70,34,23,0,Frank Jackson Defensive Rebound.
+Duke,North Carolina,77,70,34,29,1,Harry Giles made Dunk. Assisted by Grayson Allen.
+Duke,North Carolina,77,70,34,41,0,Justin Jackson Turnover.
+Duke,North Carolina,77,70,34,41,0,Harry Giles Steal.
+Duke,North Carolina,77,70,35,2,0,Foul on Grayson Allen.
+Duke,North Carolina,77,70,35,2,0,Grayson Allen Turnover.
+Duke,North Carolina,77,70,35,25,0,Justin Jackson missed Jumper.
+Duke,North Carolina,77,70,35,25,0,Harry Giles Defensive Rebound.
+Duke,North Carolina,77,70,35,53,0,Luke Kennard Turnover.
+Duke,North Carolina,77,70,36,9,0,Nate Britt missed Layup.
+Duke,North Carolina,77,70,36,9,0,Nate Britt Offensive Rebound.
+Duke,North Carolina,77,72,36,14,1,Theo Pinson made Dunk. Assisted by Nate Britt.
+Duke,North Carolina,77,72,36,24,0,Duke  Timeout
+Duke,North Carolina,77,72,36,24,0,Official TV Timeout
+Duke,North Carolina,79,72,36,45,1,Amile Jefferson made Layup.
+Duke,North Carolina,79,72,37,2,0,Joel Berry II missed Three Point Jumper.
+Duke,North Carolina,79,72,37,2,0,North Carolina Offensive Rebound.
+Duke,North Carolina,79,72,37,9,0,Theo Pinson missed Layup.
+Duke,North Carolina,79,72,37,9,0,Amile Jefferson Block.
+Duke,North Carolina,79,72,37,9,0,Grayson Allen Defensive Rebound.
+Duke,North Carolina,81,72,37,28,1,Jayson Tatum made Dunk. Assisted by Frank Jackson.
+Duke,North Carolina,81,72,37,45,0,Foul on Amile Jefferson.
+Duke,North Carolina,81,72,37,45,0,Joel Berry II missed Free Throw.
+Duke,North Carolina,81,72,37,45,0,North Carolina Deadball Team Rebound.
+Duke,North Carolina,81,73,37,45,1,Joel Berry II made Free Throw.
+Duke,North Carolina,81,73,37,46,0,Foul on Isaiah Hicks.
+Duke,North Carolina,81,73,37,46,0,Grayson Allen missed Free Throw.
+Duke,North Carolina,81,73,37,46,0,Duke Deadball Team Rebound.
+Duke,North Carolina,82,73,37,46,1,Grayson Allen made Free Throw.
+Duke,North Carolina,82,73,37,53,0,Justin Jackson missed Three Point Jumper.
+Duke,North Carolina,82,73,37,53,0,Kennedy Meeks Offensive Rebound.
+Duke,North Carolina,82,73,37,57,0,Justin Jackson missed Three Point Jumper.
+Duke,North Carolina,82,73,37,57,0,Isaiah Hicks Offensive Rebound.
+Duke,North Carolina,82,73,38,0,0,Foul on Harry Giles.
+Duke,North Carolina,82,74,38,0,1,Isaiah Hicks made Free Throw.
+Duke,North Carolina,82,75,38,0,1,Isaiah Hicks made Free Throw.
+Duke,North Carolina,82,75,38,15,0,Foul on Nate Britt.
+Duke,North Carolina,83,75,38,15,1,Jayson Tatum made Free Throw.
+Duke,North Carolina,84,75,38,15,1,Jayson Tatum made Free Throw.
+Duke,North Carolina,84,75,38,22,0,Luke Maye missed Three Point Jumper.
+Duke,North Carolina,84,75,38,22,0,Frank Jackson Defensive Rebound.
+Duke,North Carolina,84,75,38,26,0,Foul on Luke Maye.
+Duke,North Carolina,85,75,38,26,1,Frank Jackson made Free Throw.
+Duke,North Carolina,86,75,38,26,1,Frank Jackson made Free Throw.
+Duke,North Carolina,86,77,38,32,1,Joel Berry II made Layup.
+Duke,North Carolina,86,77,38,34,0,North Carolina  Timeout
+Duke,North Carolina,86,77,38,35,0,Luke Kennard Turnover.
+Duke,North Carolina,86,77,38,39,0,Foul on Luke Kennard.
+Duke,North Carolina,86,78,38,39,1,Justin Jackson made Free Throw.
+Duke,North Carolina,86,78,38,39,0,Justin Jackson missed Free Throw.
+Duke,North Carolina,86,78,38,39,0,Harry Giles Defensive Rebound.
+Duke,North Carolina,86,78,38,39,0,Foul on Kennedy Meeks.
+Duke,North Carolina,87,78,38,39,1,Harry Giles made Free Throw.
+Duke,North Carolina,88,78,38,39,1,Harry Giles made Free Throw.
+Duke,North Carolina,88,78,38,39,0,Luke Kennard Steal.
+Duke,North Carolina,88,78,38,39,0,Luke Kennard Block.
+Duke,North Carolina,88,78,38,39,0,Theo Pinson Offensive Rebound.
+Duke,North Carolina,88,78,38,39,0,Theo Pinson Turnover.
+Duke,North Carolina,88,78,38,39,0,Justin Jackson missed Three Point Jumper.
+Duke,North Carolina,88,78,39,8,0,Foul on Luke Maye.
+Duke,North Carolina,89,78,39,8,1,Matt Jones made Free Throw.
+Duke,North Carolina,90,78,39,8,1,Matt Jones made Free Throw.
+Duke,North Carolina,90,78,39,14,0,Justin Jackson missed Three Point Jumper.
+Duke,North Carolina,90,78,39,14,0,North Carolina Offensive Rebound.
+Duke,North Carolina,90,80,39,18,1,Isaiah Hicks made Dunk. Assisted by Joel Berry II.
+Duke,North Carolina,90,80,39,18,0,North Carolina  Timeout
+Duke,North Carolina,90,80,39,25,0,Foul on Justin Jackson.
+Duke,North Carolina,91,80,39,25,1,Frank Jackson made Free Throw.
+Duke,North Carolina,92,80,39,25,1,Frank Jackson made Free Throw.
+Duke,North Carolina,92,80,39,32,0,Nate Britt missed Three Point Jumper.
+Duke,North Carolina,92,80,39,32,0,Joel Berry II Offensive Rebound.
+Duke,North Carolina,92,80,39,37,0,Joel Berry II missed Three Point Jumper.
+Duke,North Carolina,92,80,39,37,0,Duke Defensive Rebound.
+Duke,North Carolina,92,80,39,39,0,Foul on Isaiah Hicks.
+Duke,North Carolina,92,80,39,39,0,Frank Jackson missed Free Throw.
+Duke,North Carolina,92,80,39,39,0,Duke Deadball Team Rebound.
+Duke,North Carolina,93,80,39,39,1,Frank Jackson made Free Throw.
+Duke,North Carolina,93,83,39,50,1,Stilman White made Three Point Jumper. Assisted by Kanler Coker.
+Duke,North Carolina,93,83,40,0,0,End of Game

@@ -1,0 +1,306 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Oregon,UCLA,0,0,0,0,0,Jump Ball won by UCLA
+Oregon,UCLA,0,3,0,14,1,Travis Wear made Three Point Jumper. Assisted by David Wear.
+Oregon,UCLA,2,3,0,39,1,Waverly Austin made Layup. Assisted by Johnathan Loyd.
+Oregon,UCLA,2,5,0,55,1,David Wear made Layup. Assisted by Kyle Anderson.
+Oregon,UCLA,2,5,1,15,0,Foul on Mike Moser.
+Oregon,UCLA,2,5,1,15,0,Mike Moser Turnover.
+Oregon,UCLA,2,5,1,25,0,Norman Powell Turnover.
+Oregon,UCLA,5,5,2,1,1,Joseph Young made Three Point Jumper.
+Oregon,UCLA,5,8,2,14,1,Travis Wear made Three Point Jumper. Assisted by Jordan Adams.
+Oregon,UCLA,5,8,2,30,0,Damyean Dotson Turnover.
+Oregon,UCLA,5,8,2,46,0,Jordan Adams missed Jumper.
+Oregon,UCLA,5,8,2,46,0,Mike Moser Defensive Rebound.
+Oregon,UCLA,5,8,2,57,0,Damyean Dotson missed Three Point Jumper.
+Oregon,UCLA,5,8,2,57,0,David Wear Defensive Rebound.
+Oregon,UCLA,5,8,3,6,0,Kyle Anderson Turnover.
+Oregon,UCLA,5,8,3,22,0,Johnathan Loyd Turnover.
+Oregon,UCLA,5,8,3,22,0,Jordan Adams Steal.
+Oregon,UCLA,5,8,3,28,0,Jordan Adams missed Layup.
+Oregon,UCLA,5,8,3,28,0,Waverly Austin Defensive Rebound.
+Oregon,UCLA,5,8,3,35,0,Joseph Young missed Layup.
+Oregon,UCLA,5,8,3,35,0,Norman Powell Defensive Rebound.
+Oregon,UCLA,5,8,3,40,0,Foul on Johnathan Loyd.
+Oregon,UCLA,5,9,3,40,1,Norman Powell made Free Throw.
+Oregon,UCLA,5,10,3,40,1,Norman Powell made Free Throw.
+Oregon,UCLA,5,10,4,14,0,Damyean Dotson missed Jumper.
+Oregon,UCLA,5,10,4,14,0,Kyle Anderson Defensive Rebound.
+Oregon,UCLA,5,10,4,27,0,Travis Wear missed Jumper.
+Oregon,UCLA,5,10,4,27,0,Mike Moser Defensive Rebound.
+Oregon,UCLA,7,10,4,45,1,Mike Moser made Jumper.
+Oregon,UCLA,7,13,5,4,1,Jordan Adams made Three Point Jumper. Assisted by Norman Powell.
+Oregon,UCLA,7,13,5,12,0,Damyean Dotson missed Layup.
+Oregon,UCLA,7,13,5,12,0,Kyle Anderson Block.
+Oregon,UCLA,7,13,5,12,0,David Wear Defensive Rebound.
+Oregon,UCLA,7,13,5,33,0,Jordan Adams Turnover.
+Oregon,UCLA,7,13,5,33,0,Mike Moser Steal.
+Oregon,UCLA,7,13,5,39,0,Joseph Young missed Three Point Jumper.
+Oregon,UCLA,7,13,5,39,0,David Wear Defensive Rebound.
+Oregon,UCLA,7,13,5,47,0,Kyle Anderson Turnover.
+Oregon,UCLA,7,13,5,47,0,Official TV Timeout
+Oregon,UCLA,7,13,6,22,0,Joseph Young missed Three Point Jumper.
+Oregon,UCLA,7,13,6,22,0,Zach LaVine Defensive Rebound.
+Oregon,UCLA,7,13,6,47,0,Kyle Anderson missed Jumper.
+Oregon,UCLA,7,13,6,47,0,Elgin Cook Block.
+Oregon,UCLA,7,13,6,47,0,Joseph Young Defensive Rebound.
+Oregon,UCLA,9,13,6,51,1,Joseph Young made Layup.
+Oregon,UCLA,9,13,6,51,0,Foul on Zach LaVine.
+Oregon,UCLA,10,13,6,51,1,Joseph Young made Free Throw.
+Oregon,UCLA,10,13,7,20,0,Bryce Alford missed Jumper.
+Oregon,UCLA,10,13,7,20,0,Tony Parker Offensive Rebound.
+Oregon,UCLA,10,15,7,23,1,Tony Parker made Layup.
+Oregon,UCLA,10,15,7,23,0,Foul on Dominic Artis.
+Oregon,UCLA,10,15,7,23,0,Tony Parker missed Free Throw.
+Oregon,UCLA,10,15,7,23,0,Elgin Cook Defensive Rebound.
+Oregon,UCLA,12,15,7,28,1,Jason Calliste made Layup. Assisted by Dominic Artis.
+Oregon,UCLA,12,15,7,28,0,Foul on Tony Parker.
+Oregon,UCLA,13,15,7,28,1,Jason Calliste made Free Throw.
+Oregon,UCLA,13,17,7,47,1,Jordan Adams made Jumper.
+Oregon,UCLA,13,17,8,14,0,Foul on Elgin Cook.
+Oregon,UCLA,13,17,8,14,0,Elgin Cook Turnover.
+Oregon,UCLA,13,17,8,14,0,Official TV Timeout
+Oregon,UCLA,13,19,8,30,1,Norman Powell made Jumper. Assisted by Bryce Alford.
+Oregon,UCLA,15,19,8,50,1,Jason Calliste made Jumper.
+Oregon,UCLA,15,19,9,5,0,Norman Powell missed Jumper.
+Oregon,UCLA,15,19,9,5,0,Elgin Cook Defensive Rebound.
+Oregon,UCLA,18,19,9,12,1,Joseph Young made Three Point Jumper. Assisted by Dominic Artis.
+Oregon,UCLA,18,19,9,26,0,Zach LaVine missed Three Point Jumper.
+Oregon,UCLA,18,19,9,26,0,Dominic Artis Defensive Rebound.
+Oregon,UCLA,18,19,9,49,0,Richard Amardi missed Layup.
+Oregon,UCLA,18,19,9,49,0,Kyle Anderson Defensive Rebound.
+Oregon,UCLA,18,19,9,56,0,Kyle Anderson missed Jumper.
+Oregon,UCLA,18,19,9,56,0,Jason Calliste Defensive Rebound.
+Oregon,UCLA,18,19,10,8,0,Foul on Richard Amardi.
+Oregon,UCLA,18,19,10,8,0,Richard Amardi Turnover.
+Oregon,UCLA,18,19,10,26,0,Travis Wear missed Jumper.
+Oregon,UCLA,18,19,10,26,0,Zach LaVine Offensive Rebound.
+Oregon,UCLA,18,19,10,37,0,Bryce Alford missed Three Point Jumper.
+Oregon,UCLA,18,19,10,37,0,Travis Wear Offensive Rebound.
+Oregon,UCLA,18,19,10,57,0,Norman Powell Turnover.
+Oregon,UCLA,18,19,10,57,0,Jason Calliste Steal.
+Oregon,UCLA,20,19,11,2,1,Johnathan Loyd made Layup. Assisted by Jason Calliste.
+Oregon,UCLA,20,19,11,25,0,Foul on Ben Carter.
+Oregon,UCLA,20,21,11,39,1,Tony Parker made Jumper.
+Oregon,UCLA,20,21,11,57,0,Foul on Tony Parker.
+Oregon,UCLA,21,21,11,57,1,Damyean Dotson made Free Throw.
+Oregon,UCLA,21,21,11,57,0,Damyean Dotson missed Free Throw.
+Oregon,UCLA,21,21,11,57,0,Travis Wear Defensive Rebound.
+Oregon,UCLA,21,21,12,12,0,Jordan Adams missed Jumper.
+Oregon,UCLA,21,21,12,12,0,Ben Carter Defensive Rebound.
+Oregon,UCLA,21,21,12,33,0,Johnathan Loyd Turnover.
+Oregon,UCLA,21,21,12,33,0,Jordan Adams Steal.
+Oregon,UCLA,21,21,12,35,0,Jordan Adams Turnover.
+Oregon,UCLA,21,21,12,35,0,Official TV Timeout
+Oregon,UCLA,21,21,12,45,0,Damyean Dotson missed Layup.
+Oregon,UCLA,21,21,12,45,0,Travis Wear Defensive Rebound.
+Oregon,UCLA,21,21,12,56,0,Bryce Alford Turnover.
+Oregon,UCLA,23,21,13,10,1,Mike Moser made Layup. Assisted by Johnathan Loyd.
+Oregon,UCLA,23,24,13,34,1,Zach LaVine made Three Point Jumper.
+Oregon,UCLA,25,24,13,49,1,Ben Carter made Jumper.
+Oregon,UCLA,25,24,14,10,0,Foul on Johnathan Loyd.
+Oregon,UCLA,25,24,14,10,0,Bryce Alford missed Free Throw.
+Oregon,UCLA,25,24,14,10,0,Mike Moser Defensive Rebound.
+Oregon,UCLA,25,24,14,43,0,Mike Moser Turnover.
+Oregon,UCLA,25,24,14,43,0,Jordan Adams Steal.
+Oregon,UCLA,25,24,14,43,0,Foul on Ben Carter.
+Oregon,UCLA,25,24,14,43,0,Jordan Adams missed Free Throw.
+Oregon,UCLA,25,24,14,43,0,Dominic Artis Defensive Rebound.
+Oregon,UCLA,27,24,14,50,1,Dominic Artis made Layup.
+Oregon,UCLA,27,24,14,50,0,Foul on Jordan Adams.
+Oregon,UCLA,27,24,14,50,0,Dominic Artis missed Free Throw.
+Oregon,UCLA,27,24,14,50,0,Kyle Anderson Defensive Rebound.
+Oregon,UCLA,27,24,15,1,0,David Wear missed Jumper.
+Oregon,UCLA,27,24,15,1,0,Jordan Adams Offensive Rebound.
+Oregon,UCLA,27,24,15,15,0,Jordan Adams Turnover.
+Oregon,UCLA,27,24,15,15,0,Waverly Austin Steal.
+Oregon,UCLA,27,24,15,20,0,Mike Moser missed Three Point Jumper.
+Oregon,UCLA,27,24,15,20,0,Joseph Young Offensive Rebound.
+Oregon,UCLA,27,24,15,31,0,Foul on David Wear.
+Oregon,UCLA,28,24,15,31,1,Joseph Young made Free Throw.
+Oregon,UCLA,29,24,15,31,1,Joseph Young made Free Throw.
+Oregon,UCLA,29,26,15,47,1,Travis Wear made Layup. Assisted by Kyle Anderson.
+Oregon,UCLA,29,26,16,3,0,Mike Moser Turnover.
+Oregon,UCLA,29,26,16,3,0,Official TV Timeout
+Oregon,UCLA,29,28,16,17,1,Jordan Adams made Layup. Assisted by Travis Wear.
+Oregon,UCLA,29,28,16,38,0,Elgin Cook missed Three Point Jumper.
+Oregon,UCLA,29,28,16,38,0,Oregon Offensive Rebound.
+Oregon,UCLA,29,28,16,40,0,Oregon  Timeout
+Oregon,UCLA,29,28,16,45,0,Elgin Cook missed Jumper.
+Oregon,UCLA,29,28,16,45,0,Oregon Offensive Rebound.
+Oregon,UCLA,29,28,16,45,0,Foul on Jordan Adams.
+Oregon,UCLA,32,28,17,20,1,Dominic Artis made Three Point Jumper.
+Oregon,UCLA,32,30,17,39,1,Kyle Anderson made Jumper.
+Oregon,UCLA,32,30,17,39,0,Foul on Richard Amardi.
+Oregon,UCLA,32,31,17,39,1,Kyle Anderson made Free Throw.
+Oregon,UCLA,35,31,18,8,1,Joseph Young made Three Point Jumper. Assisted by Damyean Dotson.
+Oregon,UCLA,35,33,18,26,1,Kyle Anderson made Jumper.
+Oregon,UCLA,35,33,18,32,0,Dominic Artis Turnover.
+Oregon,UCLA,35,33,18,32,0,Kyle Anderson Steal.
+Oregon,UCLA,35,35,18,39,1,Norman Powell made Layup. Assisted by Zach LaVine.
+Oregon,UCLA,35,35,19,5,0,Dominic Artis Turnover.
+Oregon,UCLA,35,35,19,5,0,Travis Wear Steal.
+Oregon,UCLA,35,37,19,10,1,Kyle Anderson made Dunk.
+Oregon,UCLA,35,37,19,10,0,Foul on Richard Amardi.
+Oregon,UCLA,35,37,19,10,0,Kyle Anderson missed Free Throw.
+Oregon,UCLA,35,37,19,10,0,Elgin Cook Defensive Rebound.
+Oregon,UCLA,35,37,19,33,0,Foul on Zach LaVine.
+Oregon,UCLA,35,37,19,33,0,Johnathan Loyd missed Free Throw.
+Oregon,UCLA,35,37,19,33,0,Kyle Anderson Defensive Rebound.
+Oregon,UCLA,35,37,19,37,0,UCLA  Timeout
+Oregon,UCLA,35,37,19,56,0,Kyle Anderson Turnover.
+Oregon,UCLA,35,37,19,56,0,Mike Moser Steal.
+Oregon,UCLA,35,37,20,0,0,End of 1st half
+Oregon,UCLA,35,37,20,0,0,Jump Ball won by Oregon
+Oregon,UCLA,35,37,20,11,0,Foul on Damyean Dotson.
+Oregon,UCLA,35,37,20,11,0,Damyean Dotson Turnover.
+Oregon,UCLA,35,37,20,25,0,Jordan Adams missed Three Point Jumper.
+Oregon,UCLA,35,37,20,25,0,Norman Powell Offensive Rebound.
+Oregon,UCLA,35,39,20,31,1,David Wear made Layup. Assisted by Norman Powell.
+Oregon,UCLA,35,39,20,45,0,Joseph Young missed Three Point Jumper.
+Oregon,UCLA,35,39,20,45,0,Kyle Anderson Defensive Rebound.
+Oregon,UCLA,35,39,20,52,0,Kyle Anderson missed Layup.
+Oregon,UCLA,35,39,20,52,0,Waverly Austin Block.
+Oregon,UCLA,35,39,20,52,0,Jordan Adams Offensive Rebound.
+Oregon,UCLA,35,41,20,54,1,Jordan Adams made Layup.
+Oregon,UCLA,35,41,21,14,0,Damyean Dotson Turnover.
+Oregon,UCLA,35,41,21,14,0,Norman Powell Steal.
+Oregon,UCLA,35,43,21,26,1,Travis Wear made Jumper. Assisted by Kyle Anderson.
+Oregon,UCLA,35,43,21,35,0,Oregon  Timeout
+Oregon,UCLA,37,43,21,48,1,Richard Amardi made Jumper.
+Oregon,UCLA,37,45,22,12,1,Jordan Adams made Jumper. Assisted by Travis Wear.
+Oregon,UCLA,37,45,22,29,0,Mike Moser missed Jumper.
+Oregon,UCLA,37,45,22,29,0,Richard Amardi Offensive Rebound.
+Oregon,UCLA,37,45,22,35,0,Jason Calliste missed Three Point Jumper.
+Oregon,UCLA,37,45,22,35,0,Jordan Adams Defensive Rebound.
+Oregon,UCLA,37,48,22,45,1,David Wear made Three Point Jumper. Assisted by Kyle Anderson.
+Oregon,UCLA,37,48,23,4,0,Jason Calliste Turnover.
+Oregon,UCLA,37,50,23,22,1,Jordan Adams made Jumper. Assisted by Travis Wear.
+Oregon,UCLA,37,50,23,36,0,Richard Amardi missed Jumper.
+Oregon,UCLA,37,50,23,36,0,Kyle Anderson Defensive Rebound.
+Oregon,UCLA,37,50,23,48,0,Foul on Elgin Cook.
+Oregon,UCLA,37,50,24,0,0,Foul on Johnathan Loyd.
+Oregon,UCLA,37,51,24,0,1,Kyle Anderson made Free Throw.
+Oregon,UCLA,37,51,24,0,0,Kyle Anderson missed Free Throw.
+Oregon,UCLA,37,51,24,0,0,Elgin Cook Defensive Rebound.
+Oregon,UCLA,39,51,24,15,1,Elgin Cook made Jumper.
+Oregon,UCLA,39,53,24,33,1,David Wear made Jumper. Assisted by Travis Wear.
+Oregon,UCLA,39,53,24,54,0,Joseph Young missed Jumper.
+Oregon,UCLA,39,53,24,54,0,Kyle Anderson Block.
+Oregon,UCLA,39,53,24,54,0,Oregon Offensive Rebound.
+Oregon,UCLA,39,53,24,55,0,Official TV Timeout
+Oregon,UCLA,39,53,25,11,0,Dominic Artis missed Three Point Jumper.
+Oregon,UCLA,39,53,25,11,0,Norman Powell Defensive Rebound.
+Oregon,UCLA,39,55,25,34,1,Travis Wear made Jumper.
+Oregon,UCLA,39,55,25,55,0,Jason Calliste missed Three Point Jumper.
+Oregon,UCLA,39,55,25,55,0,Kyle Anderson Defensive Rebound.
+Oregon,UCLA,39,55,26,6,0,Jordan Adams missed Three Point Jumper.
+Oregon,UCLA,39,55,26,6,0,Richard Amardi Defensive Rebound.
+Oregon,UCLA,41,55,26,19,1,Joseph Young made Layup.
+Oregon,UCLA,41,55,26,23,0,Foul on Richard Amardi.
+Oregon,UCLA,41,56,26,23,1,Jordan Adams made Free Throw.
+Oregon,UCLA,41,57,26,23,1,Jordan Adams made Free Throw.
+Oregon,UCLA,43,57,26,43,1,Joseph Young made Jumper.
+Oregon,UCLA,43,57,27,13,0,David Wear Turnover.
+Oregon,UCLA,43,57,27,25,0,Joseph Young missed Jumper.
+Oregon,UCLA,43,57,27,25,0,Ben Carter Offensive Rebound.
+Oregon,UCLA,43,57,27,32,0,Dominic Artis missed Jumper.
+Oregon,UCLA,43,57,27,32,0,UCLA Defensive Rebound.
+Oregon,UCLA,43,57,27,33,0,Foul on Ben Carter.
+Oregon,UCLA,43,60,27,49,1,Norman Powell made Three Point Jumper. Assisted by Kyle Anderson.
+Oregon,UCLA,43,60,28,11,0,Foul on Tony Parker.
+Oregon,UCLA,43,60,28,11,0,Official TV Timeout
+Oregon,UCLA,44,60,28,11,1,Mike Moser made Free Throw.
+Oregon,UCLA,45,60,28,11,1,Mike Moser made Free Throw.
+Oregon,UCLA,45,60,28,33,0,Bryce Alford Turnover.
+Oregon,UCLA,45,60,28,46,0,Jason Calliste missed Three Point Jumper.
+Oregon,UCLA,45,60,28,46,0,Mike Moser Offensive Rebound.
+Oregon,UCLA,45,60,28,55,0,Mike Moser Turnover.
+Oregon,UCLA,45,60,28,55,0,Zach LaVine Steal.
+Oregon,UCLA,45,62,29,21,1,Kyle Anderson made Jumper.
+Oregon,UCLA,48,62,29,29,1,Joseph Young made Three Point Jumper. Assisted by Mike Moser.
+Oregon,UCLA,48,62,29,55,0,Kyle Anderson missed Jumper.
+Oregon,UCLA,48,62,29,55,0,Oregon Defensive Rebound.
+Oregon,UCLA,48,62,29,57,0,Foul on Tony Parker.
+Oregon,UCLA,48,62,30,0,0,Johnathan Loyd missed Three Point Jumper.
+Oregon,UCLA,48,62,30,0,0,Jordan Adams Defensive Rebound.
+Oregon,UCLA,48,62,30,13,0,Foul on Johnathan Loyd.
+Oregon,UCLA,48,62,30,31,0,Zach LaVine missed Three Point Jumper.
+Oregon,UCLA,48,62,30,31,0,Oregon Defensive Rebound.
+Oregon,UCLA,48,62,30,34,0,Foul on Kyle Anderson.
+Oregon,UCLA,48,62,30,42,0,Damyean Dotson Turnover.
+Oregon,UCLA,48,62,30,42,0,Kyle Anderson Steal.
+Oregon,UCLA,48,62,30,49,0,Jordan Adams missed Three Point Jumper.
+Oregon,UCLA,48,62,30,49,0,Ben Carter Defensive Rebound.
+Oregon,UCLA,48,62,31,18,0,Ben Carter missed Jumper.
+Oregon,UCLA,48,62,31,18,0,Oregon Offensive Rebound.
+Oregon,UCLA,48,62,31,19,0,Foul on Travis Wear.
+Oregon,UCLA,48,62,31,21,0,Damyean Dotson missed Jumper.
+Oregon,UCLA,48,62,31,21,0,Travis Wear Defensive Rebound.
+Oregon,UCLA,48,62,31,35,0,Bryce Alford missed Three Point Jumper.
+Oregon,UCLA,48,62,31,35,0,Mike Moser Defensive Rebound.
+Oregon,UCLA,48,62,31,47,0,Foul on Travis Wear.
+Oregon,UCLA,48,62,31,52,0,Joseph Young missed Three Point Jumper.
+Oregon,UCLA,48,62,31,59,0,Zach LaVine Defensive Rebound.
+Oregon,UCLA,48,64,31,59,1,Zach LaVine made Layup.
+Oregon,UCLA,48,64,31,59,0,Foul on Ben Carter.
+Oregon,UCLA,48,65,31,59,1,Zach LaVine made Free Throw.
+Oregon,UCLA,48,65,32,16,0,Official TV Timeout
+Oregon,UCLA,51,65,32,22,1,Damyean Dotson made Three Point Jumper. Assisted by Joseph Young.
+Oregon,UCLA,51,65,32,30,0,Zach LaVine Turnover.
+Oregon,UCLA,51,65,32,30,0,Damyean Dotson Steal.
+Oregon,UCLA,51,65,32,35,0,Mike Moser missed Three Point Jumper.
+Oregon,UCLA,51,65,32,35,0,David Wear Defensive Rebound.
+Oregon,UCLA,51,68,32,59,1,Zach LaVine made Three Point Jumper. Assisted by Bryce Alford.
+Oregon,UCLA,51,68,33,13,0,Mike Moser missed Three Point Jumper.
+Oregon,UCLA,51,68,33,13,0,Jordan Adams Defensive Rebound.
+Oregon,UCLA,51,68,33,41,0,UCLA  Timeout
+Oregon,UCLA,51,68,33,44,0,Zach LaVine missed Three Point Jumper.
+Oregon,UCLA,51,68,33,44,0,Mike Moser Defensive Rebound.
+Oregon,UCLA,51,68,33,52,0,Jason Calliste missed Three Point Jumper.
+Oregon,UCLA,51,68,33,52,0,Travis Wear Defensive Rebound.
+Oregon,UCLA,51,68,34,12,0,Foul on Mike Moser.
+Oregon,UCLA,51,69,34,12,1,David Wear made Free Throw.
+Oregon,UCLA,51,70,34,12,1,David Wear made Free Throw.
+Oregon,UCLA,54,70,34,18,1,Joseph Young made Three Point Jumper.
+Oregon,UCLA,54,70,34,25,0,Foul on Jason Calliste.
+Oregon,UCLA,54,71,34,25,1,Bryce Alford made Free Throw.
+Oregon,UCLA,54,72,34,25,1,Bryce Alford made Free Throw.
+Oregon,UCLA,54,72,34,34,0,Joseph Young missed Three Point Jumper.
+Oregon,UCLA,54,72,34,34,0,Bryce Alford Defensive Rebound.
+Oregon,UCLA,54,74,34,42,1,Bryce Alford made Layup.
+Oregon,UCLA,56,74,34,52,1,Mike Moser made Layup. Assisted by Joseph Young.
+Oregon,UCLA,56,76,34,58,1,Travis Wear made Layup. Assisted by Kyle Anderson.
+Oregon,UCLA,56,76,34,58,0,Foul on Jason Calliste.
+Oregon,UCLA,56,76,34,58,0,Travis Wear missed Free Throw.
+Oregon,UCLA,56,76,34,58,0,Elgin Cook Defensive Rebound.
+Oregon,UCLA,58,76,35,16,1,Joseph Young made Layup.
+Oregon,UCLA,58,76,35,38,0,Bryce Alford Turnover.
+Oregon,UCLA,58,76,35,41,0,Dominic Artis Turnover.
+Oregon,UCLA,58,76,35,41,0,Kyle Anderson Steal.
+Oregon,UCLA,58,76,36,14,0,Foul on Mike Moser.
+Oregon,UCLA,58,76,36,14,0,Official TV Timeout
+Oregon,UCLA,58,76,36,14,0,Kyle Anderson missed Free Throw.
+Oregon,UCLA,58,76,36,14,0,UCLA Deadball Team Rebound.
+Oregon,UCLA,58,77,36,14,1,Kyle Anderson made Free Throw.
+Oregon,UCLA,61,77,36,26,1,Joseph Young made Three Point Jumper.
+Oregon,UCLA,61,77,36,37,0,Norman Powell missed Jumper.
+Oregon,UCLA,61,77,36,37,0,Oregon Defensive Rebound.
+Oregon,UCLA,61,77,36,41,0,Foul on Travis Wear.
+Oregon,UCLA,63,77,36,52,1,Richard Amardi made Layup.
+Oregon,UCLA,63,77,37,10,0,Foul on Ben Carter.
+Oregon,UCLA,63,78,37,10,1,Zach LaVine made Free Throw.
+Oregon,UCLA,63,79,37,10,1,Zach LaVine made Free Throw.
+Oregon,UCLA,63,79,37,18,0,Richard Amardi Turnover.
+Oregon,UCLA,63,79,37,33,0,Bryce Alford missed Jumper.
+Oregon,UCLA,63,79,37,33,0,Bryce Alford Offensive Rebound.
+Oregon,UCLA,63,79,38,1,0,Zach LaVine Turnover.
+Oregon,UCLA,63,79,38,1,0,Damyean Dotson Steal.
+Oregon,UCLA,63,79,38,6,0,Dominic Artis missed Three Point Jumper.
+Oregon,UCLA,63,79,38,6,0,Norman Powell Defensive Rebound.
+Oregon,UCLA,63,82,38,40,1,Zach LaVine made Three Point Jumper. Assisted by Travis Wear.
+Oregon,UCLA,63,82,38,50,0,Damyean Dotson missed Three Point Jumper.
+Oregon,UCLA,63,82,38,50,0,Kyle Anderson Defensive Rebound.
+Oregon,UCLA,63,82,38,53,0,UCLA  Timeout
+Oregon,UCLA,63,82,39,23,0,Tony Parker missed Jumper.
+Oregon,UCLA,63,82,39,23,0,UCLA Offensive Rebound.
+Oregon,UCLA,63,82,40,0,0,End of Game

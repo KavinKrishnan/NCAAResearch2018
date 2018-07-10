@@ -1,0 +1,392 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Massachusetts,Boston College,0,0,0,0,0,Jump Ball won by Massachusetts
+Massachusetts,Boston College,2,0,0,3,1,Maxie Esho made Layup.
+Massachusetts,Boston College,2,2,0,33,1,Dennis Clifford made Layup.
+Massachusetts,Boston College,2,2,0,50,0,Cady Lalanne missed Jumper.
+Massachusetts,Boston College,2,2,0,50,0,Patrick Heckmann Defensive Rebound.
+Massachusetts,Boston College,2,2,1,1,0,Patrick Heckmann missed Jumper.
+Massachusetts,Boston College,2,2,1,1,0,Olivier Hanlan Offensive Rebound.
+Massachusetts,Boston College,2,2,1,1,0,Olivier Hanlan missed Layup.
+Massachusetts,Boston College,2,2,1,1,0,Derrick Gordon Defensive Rebound.
+Massachusetts,Boston College,2,2,1,13,0,Foul on Dennis Clifford.
+Massachusetts,Boston College,3,2,1,13,1,Seth Berger made Free Throw.
+Massachusetts,Boston College,4,2,1,13,1,Seth Berger made Free Throw.
+Massachusetts,Boston College,4,2,1,37,0,Olivier Hanlan Turnover.
+Massachusetts,Boston College,4,2,1,50,0,Foul on Aaron Brown.
+Massachusetts,Boston College,4,2,2,1,0,Foul on Dennis Clifford.
+Massachusetts,Boston College,4,2,2,11,0,Foul on Aaron Brown.
+Massachusetts,Boston College,4,2,2,11,0,Trey Davis missed Free Throw.
+Massachusetts,Boston College,4,2,2,11,0,Massachusetts Deadball Team Rebound.
+Massachusetts,Boston College,5,2,2,11,1,Trey Davis made Free Throw.
+Massachusetts,Boston College,5,4,2,38,1,Will Magarity made Layup. Assisted by Patrick Heckmann.
+Massachusetts,Boston College,5,4,2,38,0,Foul on Seth Berger.
+Massachusetts,Boston College,5,5,2,38,1,Will Magarity made Free Throw.
+Massachusetts,Boston College,5,5,2,59,0,Cady Lalanne Turnover.
+Massachusetts,Boston College,5,5,2,59,0,Will Magarity Steal.
+Massachusetts,Boston College,5,5,3,3,0,Foul on Seth Berger.
+Massachusetts,Boston College,5,6,3,3,1,Olivier Hanlan made Free Throw.
+Massachusetts,Boston College,5,6,3,3,0,Olivier Hanlan missed Free Throw.
+Massachusetts,Boston College,5,6,3,3,0,Boston College Offensive Rebound.
+Massachusetts,Boston College,5,6,3,18,0,Will Magarity missed Three Point Jumper.
+Massachusetts,Boston College,5,6,3,18,0,Cady Lalanne Defensive Rebound.
+Massachusetts,Boston College,5,6,3,34,0,Foul on Will Magarity.
+Massachusetts,Boston College,5,6,3,34,0,Maxie Esho missed Free Throw.
+Massachusetts,Boston College,5,6,3,34,0,Massachusetts Deadball Team Rebound.
+Massachusetts,Boston College,6,6,3,34,1,Maxie Esho made Free Throw.
+Massachusetts,Boston College,6,6,3,41,0,Olivier Hanlan Turnover.
+Massachusetts,Boston College,6,6,3,49,0,Trey Davis missed Three Point Jumper.
+Massachusetts,Boston College,6,6,3,49,0,Boston College Defensive Rebound.
+Massachusetts,Boston College,6,6,4,8,0,Garland Owens missed Three Point Jumper.
+Massachusetts,Boston College,6,6,4,8,0,Maxie Esho Defensive Rebound.
+Massachusetts,Boston College,6,6,4,24,0,Jabarie Hinds missed Jumper.
+Massachusetts,Boston College,6,6,4,24,0,Will Magarity Block.
+Massachusetts,Boston College,6,6,4,24,0,Tyler Bergantino Offensive Rebound.
+Massachusetts,Boston College,6,6,4,24,0,Tyler Bergantino missed Jumper.
+Massachusetts,Boston College,6,6,4,24,0,Garland Owens Defensive Rebound.
+Massachusetts,Boston College,6,6,4,31,0,Foul on Jabarie Hinds.
+Massachusetts,Boston College,6,6,4,31,0,Official TV Timeout
+Massachusetts,Boston College,6,7,4,31,1,Olivier Hanlan made Free Throw.
+Massachusetts,Boston College,6,7,4,31,0,Olivier Hanlan missed Free Throw.
+Massachusetts,Boston College,6,7,4,31,0,Derrick Gordon Defensive Rebound.
+Massachusetts,Boston College,6,7,4,38,0,Jabarie Hinds Turnover.
+Massachusetts,Boston College,6,7,5,9,0,Dimitri Batten missed Three Point Jumper.
+Massachusetts,Boston College,6,7,5,9,0,Derrick Gordon Defensive Rebound.
+Massachusetts,Boston College,6,7,5,9,0,Foul on Patrick Heckmann.
+Massachusetts,Boston College,7,7,5,9,1,Maxie Esho made Free Throw.
+Massachusetts,Boston College,8,7,5,9,1,Maxie Esho made Free Throw.
+Massachusetts,Boston College,8,9,5,20,1,Olivier Hanlan made Jumper.
+Massachusetts,Boston College,8,9,5,41,0,Jump Ball won by Boston College
+Massachusetts,Boston College,8,9,5,41,0,Derrick Gordon Turnover.
+Massachusetts,Boston College,8,9,5,41,0,Garland Owens Steal.
+Massachusetts,Boston College,8,9,5,46,0,Foul on Zach Coleman.
+Massachusetts,Boston College,8,12,5,57,1,Patrick Heckmann made Three Point Jumper. Assisted by Olivier Hanlan.
+Massachusetts,Boston College,8,12,6,14,0,Foul on Will Magarity.
+Massachusetts,Boston College,8,12,6,14,0,Cady Lalanne missed Free Throw.
+Massachusetts,Boston College,8,12,6,14,0,Eddie Odio Defensive Rebound.
+Massachusetts,Boston College,8,12,6,28,0,Foul on Donte Clark.
+Massachusetts,Boston College,8,12,6,35,0,Olivier Hanlan missed Jumper.
+Massachusetts,Boston College,8,12,6,35,0,Donte Clark Defensive Rebound.
+Massachusetts,Boston College,8,12,6,56,0,Donte Clark Turnover.
+Massachusetts,Boston College,8,14,7,18,1,Dimitri Batten made Jumper. Assisted by Olivier Hanlan.
+Massachusetts,Boston College,8,14,7,28,0,Massachusetts  Turnover.
+Massachusetts,Boston College,8,16,7,47,1,Patrick Heckmann made Layup. Assisted by Dimitri Batten.
+Massachusetts,Boston College,8,16,7,54,0,Massachusetts  Timeout
+Massachusetts,Boston College,8,16,8,7,0,Foul on Eddie Odio.
+Massachusetts,Boston College,8,16,8,7,0,Official TV Timeout
+Massachusetts,Boston College,8,16,8,7,0,Cady Lalanne missed Free Throw.
+Massachusetts,Boston College,8,16,8,7,0,Garland Owens Defensive Rebound.
+Massachusetts,Boston College,8,19,8,12,1,Olivier Hanlan made Three Point Jumper. Assisted by Alex Dragicevich.
+Massachusetts,Boston College,8,19,8,36,0,Derrick Gordon Turnover.
+Massachusetts,Boston College,8,19,8,36,0,Patrick Heckmann Steal.
+Massachusetts,Boston College,8,19,8,45,0,Patrick Heckmann Turnover.
+Massachusetts,Boston College,8,19,8,45,0,Massachusetts  Turnover.
+Massachusetts,Boston College,8,21,9,3,1,Olivier Hanlan made Jumper.
+Massachusetts,Boston College,8,21,9,16,0,Maxie Esho Turnover.
+Massachusetts,Boston College,8,21,9,16,0,Patrick Heckmann Steal.
+Massachusetts,Boston College,8,21,9,37,0,Dimitri Batten missed Jumper.
+Massachusetts,Boston College,8,21,9,37,0,Maxie Esho Defensive Rebound.
+Massachusetts,Boston College,8,21,9,44,0,Jump Ball won by Massachusetts
+Massachusetts,Boston College,8,21,9,48,0,Maxie Esho missed Jumper.
+Massachusetts,Boston College,8,21,9,48,0,John Cain Carney Defensive Rebound.
+Massachusetts,Boston College,8,21,10,18,0,Eddie Odio missed Three Point Jumper.
+Massachusetts,Boston College,8,21,10,18,0,Cady Lalanne Defensive Rebound.
+Massachusetts,Boston College,8,21,10,30,0,Foul on Dimitri Batten.
+Massachusetts,Boston College,8,21,10,30,0,Demetrius Dyson missed Free Throw.
+Massachusetts,Boston College,8,21,10,30,0,Massachusetts Deadball Team Rebound.
+Massachusetts,Boston College,8,21,10,30,0,Demetrius Dyson missed Free Throw.
+Massachusetts,Boston College,8,21,10,30,0,John Cain Carney Defensive Rebound.
+Massachusetts,Boston College,8,21,10,56,0,Olivier Hanlan Turnover.
+Massachusetts,Boston College,8,21,10,56,0,Jabarie Hinds Steal.
+Massachusetts,Boston College,8,21,11,2,0,Foul on Eddie Odio.
+Massachusetts,Boston College,8,21,11,2,0,Boston College  Timeout
+Massachusetts,Boston College,9,21,11,2,1,Jabarie Hinds made Free Throw.
+Massachusetts,Boston College,10,21,11,2,1,Jabarie Hinds made Free Throw.
+Massachusetts,Boston College,10,21,11,27,0,Aaron Brown missed Three Point Jumper.
+Massachusetts,Boston College,10,21,11,27,0,Demetrius Dyson Defensive Rebound.
+Massachusetts,Boston College,10,21,11,37,0,Cady Lalanne missed Three Point Jumper.
+Massachusetts,Boston College,10,21,11,37,0,Maxie Esho Offensive Rebound.
+Massachusetts,Boston College,12,21,11,43,1,Maxie Esho made Layup.
+Massachusetts,Boston College,12,21,12,5,0,Dimitri Batten missed Layup.
+Massachusetts,Boston College,12,21,12,5,0,Maxie Esho Block.
+Massachusetts,Boston College,12,21,12,5,0,Boston College Offensive Rebound.
+Massachusetts,Boston College,12,21,12,5,0,Official TV Timeout
+Massachusetts,Boston College,12,21,12,5,0,Foul on Maxie Esho.
+Massachusetts,Boston College,12,21,12,27,0,Olivier Hanlan missed Jumper.
+Massachusetts,Boston College,12,21,12,27,0,Cady Lalanne Block.
+Massachusetts,Boston College,12,21,12,27,0,Cady Lalanne Defensive Rebound.
+Massachusetts,Boston College,12,21,12,39,0,Demetrius Dyson Turnover.
+Massachusetts,Boston College,12,21,12,39,0,Dimitri Batten Steal.
+Massachusetts,Boston College,12,23,12,44,1,Dimitri Batten made Dunk.
+Massachusetts,Boston College,12,23,13,3,0,Foul on John Cain Carney.
+Massachusetts,Boston College,13,23,13,3,1,Cady Lalanne made Free Throw.
+Massachusetts,Boston College,13,23,13,3,0,Cady Lalanne missed Free Throw.
+Massachusetts,Boston College,13,23,13,3,0,Garland Owens Defensive Rebound.
+Massachusetts,Boston College,13,23,13,30,0,Patrick Heckmann missed Three Point Jumper.
+Massachusetts,Boston College,13,23,13,30,0,Garland Owens Offensive Rebound.
+Massachusetts,Boston College,13,23,13,35,0,Foul on Trey Davis.
+Massachusetts,Boston College,13,23,13,35,0,Patrick Heckmann Turnover.
+Massachusetts,Boston College,13,23,13,43,0,Jabarie Hinds missed Jumper.
+Massachusetts,Boston College,13,23,13,43,0,John Cain Carney Defensive Rebound.
+Massachusetts,Boston College,13,23,14,7,0,Foul on Cady Lalanne.
+Massachusetts,Boston College,13,23,14,7,0,John Cain Carney missed Free Throw.
+Massachusetts,Boston College,13,23,14,7,0,Cady Lalanne Defensive Rebound.
+Massachusetts,Boston College,13,23,14,33,0,Maxie Esho missed Jumper.
+Massachusetts,Boston College,13,23,14,33,0,Alex Dragicevich Block.
+Massachusetts,Boston College,13,23,14,33,0,Olivier Hanlan Defensive Rebound.
+Massachusetts,Boston College,13,23,14,43,0,Garland Owens missed Layup.
+Massachusetts,Boston College,13,23,14,43,0,Garland Owens Offensive Rebound.
+Massachusetts,Boston College,13,23,14,48,0,Garland Owens Turnover.
+Massachusetts,Boston College,13,23,14,48,0,Jabarie Hinds Steal.
+Massachusetts,Boston College,13,23,14,53,0,Trey Davis missed Jumper.
+Massachusetts,Boston College,13,23,14,53,0,Patrick Heckmann Block.
+Massachusetts,Boston College,13,23,14,53,0,Olivier Hanlan Defensive Rebound.
+Massachusetts,Boston College,13,25,15,7,1,Olivier Hanlan made Layup.
+Massachusetts,Boston College,13,25,15,20,0,Foul on John Cain Carney.
+Massachusetts,Boston College,14,25,15,20,1,Cady Lalanne made Free Throw.
+Massachusetts,Boston College,14,25,15,20,0,Cady Lalanne missed Free Throw.
+Massachusetts,Boston College,14,25,15,20,0,Patrick Heckmann Defensive Rebound.
+Massachusetts,Boston College,14,25,15,40,0,Patrick Heckmann missed Three Point Jumper.
+Massachusetts,Boston College,14,25,15,40,0,Cady Lalanne Defensive Rebound.
+Massachusetts,Boston College,14,25,15,49,0,Trey Davis missed Jumper.
+Massachusetts,Boston College,14,25,15,49,0,Patrick Heckmann Defensive Rebound.
+Massachusetts,Boston College,14,25,16,16,0,Olivier Hanlan missed Jumper.
+Massachusetts,Boston College,14,25,16,16,0,Cady Lalanne Defensive Rebound.
+Massachusetts,Boston College,14,25,16,32,0,Jabarie Hinds missed Three Point Jumper.
+Massachusetts,Boston College,14,25,16,32,0,C.J. Anderson Offensive Rebound.
+Massachusetts,Boston College,16,25,16,42,1,Trey Davis made Jumper. Assisted by C.J. Anderson.
+Massachusetts,Boston College,16,25,17,1,0,Massachusetts  Timeout
+Massachusetts,Boston College,16,25,17,13,0,Aaron Brown missed Three Point Jumper.
+Massachusetts,Boston College,16,25,17,13,0,Aaron Brown Offensive Rebound.
+Massachusetts,Boston College,16,27,17,19,1,Olivier Hanlan made Jumper. Assisted by Aaron Brown.
+Massachusetts,Boston College,18,27,17,27,1,Jabarie Hinds made Layup.
+Massachusetts,Boston College,18,30,17,53,1,Alex Dragicevich made Three Point Jumper. Assisted by Aaron Brown.
+Massachusetts,Boston College,18,30,18,7,0,Foul on Eddie Odio.
+Massachusetts,Boston College,18,30,18,7,0,Official TV Timeout
+Massachusetts,Boston College,19,30,18,7,1,Maxie Esho made Free Throw.
+Massachusetts,Boston College,20,30,18,7,1,Maxie Esho made Free Throw.
+Massachusetts,Boston College,20,30,18,18,0,Patrick Heckmann Turnover.
+Massachusetts,Boston College,20,30,18,18,0,Maxie Esho Steal.
+Massachusetts,Boston College,20,30,18,23,0,Foul on Olivier Hanlan.
+Massachusetts,Boston College,21,30,18,23,1,Maxie Esho made Free Throw.
+Massachusetts,Boston College,22,30,18,23,1,Maxie Esho made Free Throw.
+Massachusetts,Boston College,22,30,18,45,0,Foul on C.J. Anderson.
+Massachusetts,Boston College,22,30,18,45,0,Garland Owens missed Free Throw.
+Massachusetts,Boston College,22,30,18,45,0,Maxie Esho Defensive Rebound.
+Massachusetts,Boston College,22,30,18,59,0,Maxie Esho Turnover.
+Massachusetts,Boston College,22,30,18,59,0,Olivier Hanlan Steal.
+Massachusetts,Boston College,22,32,19,3,1,Olivier Hanlan made Layup.
+Massachusetts,Boston College,22,32,19,21,0,Foul on John Cain Carney.
+Massachusetts,Boston College,23,32,19,21,1,Cady Lalanne made Free Throw.
+Massachusetts,Boston College,24,32,19,21,1,Cady Lalanne made Free Throw.
+Massachusetts,Boston College,24,32,19,50,0,Dimitri Batten missed Layup.
+Massachusetts,Boston College,24,32,19,50,0,Will Magarity Offensive Rebound.
+Massachusetts,Boston College,24,32,19,50,0,Will Magarity missed Jumper.
+Massachusetts,Boston College,24,32,19,50,0,Maxie Esho Block.
+Massachusetts,Boston College,24,32,19,59,0,Boston College Offensive Rebound.
+Massachusetts,Boston College,24,32,20,0,0,End of 1st half
+Massachusetts,Boston College,24,32,20,0,0,Jump Ball won by Boston College
+Massachusetts,Boston College,24,32,20,8,0,Will Magarity Turnover.
+Massachusetts,Boston College,24,32,20,8,0,Derrick Gordon Steal.
+Massachusetts,Boston College,26,32,20,13,1,Derrick Gordon made Layup.
+Massachusetts,Boston College,26,32,20,23,0,Aaron Brown Turnover.
+Massachusetts,Boston College,26,32,20,23,0,Trey Davis Steal.
+Massachusetts,Boston College,28,32,20,27,1,Trey Davis made Layup.
+Massachusetts,Boston College,28,32,20,30,0,Boston College  Timeout
+Massachusetts,Boston College,28,32,20,46,0,Foul on Seth Berger.
+Massachusetts,Boston College,28,32,20,58,0,Dennis Clifford missed Jumper.
+Massachusetts,Boston College,28,32,20,58,0,Cady Lalanne Block.
+Massachusetts,Boston College,28,32,20,58,0,Maxie Esho Defensive Rebound.
+Massachusetts,Boston College,28,32,21,17,0,Foul on Will Magarity.
+Massachusetts,Boston College,28,32,21,17,0,Seth Berger Turnover.
+Massachusetts,Boston College,28,32,21,17,0,Olivier Hanlan Steal.
+Massachusetts,Boston College,28,32,21,23,0,Foul on Maxie Esho.
+Massachusetts,Boston College,28,33,21,23,1,Olivier Hanlan made Free Throw.
+Massachusetts,Boston College,28,34,21,23,1,Olivier Hanlan made Free Throw.
+Massachusetts,Boston College,28,34,21,34,0,Derrick Gordon missed Jumper.
+Massachusetts,Boston College,28,34,21,34,0,Cady Lalanne Offensive Rebound.
+Massachusetts,Boston College,28,34,21,38,0,Foul on Eddie Odio.
+Massachusetts,Boston College,28,34,21,42,0,Trey Davis missed Jumper.
+Massachusetts,Boston College,28,34,21,42,0,Dennis Clifford Defensive Rebound.
+Massachusetts,Boston College,28,34,21,48,0,Jump Ball won by Boston College
+Massachusetts,Boston College,28,34,21,48,0,Eddie Odio Turnover.
+Massachusetts,Boston College,30,34,21,48,1,Cady Lalanne made Jumper. Assisted by Derrick Gordon.
+Massachusetts,Boston College,30,34,22,2,0,Aaron Brown missed Jumper.
+Massachusetts,Boston College,30,34,22,2,0,Dennis Clifford Offensive Rebound.
+Massachusetts,Boston College,30,34,22,14,0,Foul on Seth Berger.
+Massachusetts,Boston College,30,35,22,14,1,Dennis Clifford made Free Throw.
+Massachusetts,Boston College,30,36,22,14,1,Dennis Clifford made Free Throw.
+Massachusetts,Boston College,30,36,22,26,0,Foul on Dimitri Batten.
+Massachusetts,Boston College,31,36,22,26,1,Derrick Gordon made Free Throw.
+Massachusetts,Boston College,32,36,22,26,1,Derrick Gordon made Free Throw.
+Massachusetts,Boston College,32,36,22,43,0,Olivier Hanlan Turnover.
+Massachusetts,Boston College,32,36,22,43,0,Derrick Gordon Steal.
+Massachusetts,Boston College,34,36,22,47,1,Derrick Gordon made Layup.
+Massachusetts,Boston College,34,36,23,1,0,Garland Owens missed Layup.
+Massachusetts,Boston College,34,36,23,1,0,Cady Lalanne Block.
+Massachusetts,Boston College,34,36,23,1,0,Jabarie Hinds Defensive Rebound.
+Massachusetts,Boston College,36,36,23,8,1,Jabarie Hinds made Layup.
+Massachusetts,Boston College,36,36,23,29,0,Patrick Heckmann Turnover.
+Massachusetts,Boston College,36,36,23,29,0,Cady Lalanne Steal.
+Massachusetts,Boston College,38,36,23,37,1,Maxie Esho made Dunk. Assisted by Jabarie Hinds.
+Massachusetts,Boston College,38,36,23,49,0,Aaron Brown missed Jumper.
+Massachusetts,Boston College,38,36,23,49,0,Cady Lalanne Block.
+Massachusetts,Boston College,38,36,23,49,0,Cady Lalanne Defensive Rebound.
+Massachusetts,Boston College,38,36,23,58,0,Foul on Dennis Clifford.
+Massachusetts,Boston College,39,36,23,58,1,Derrick Gordon made Free Throw.
+Massachusetts,Boston College,39,36,23,58,0,Derrick Gordon missed Free Throw.
+Massachusetts,Boston College,39,36,23,58,0,Dennis Clifford Defensive Rebound.
+Massachusetts,Boston College,39,36,24,17,0,Olivier Hanlan missed Three Point Jumper.
+Massachusetts,Boston College,39,36,24,17,0,Aaron Brown Offensive Rebound.
+Massachusetts,Boston College,39,36,24,22,0,Aaron Brown missed Layup.
+Massachusetts,Boston College,39,36,24,22,0,Aaron Brown Offensive Rebound.
+Massachusetts,Boston College,39,36,24,28,0,Foul on Trey Davis.
+Massachusetts,Boston College,39,36,24,28,0,Official TV Timeout
+Massachusetts,Boston College,39,36,24,28,0,Dimitri Batten missed Free Throw.
+Massachusetts,Boston College,39,36,24,28,0,Boston College Deadball Team Rebound.
+Massachusetts,Boston College,39,37,24,28,1,Dimitri Batten made Free Throw.
+Massachusetts,Boston College,41,37,24,37,1,Derrick Gordon made Jumper. Assisted by Jabarie Hinds.
+Massachusetts,Boston College,41,37,24,48,0,Aaron Brown Turnover.
+Massachusetts,Boston College,41,37,24,48,0,Maxie Esho Steal.
+Massachusetts,Boston College,43,37,24,53,1,Maxie Esho made Dunk. Assisted by Jabarie Hinds.
+Massachusetts,Boston College,43,37,25,22,0,Olivier Hanlan missed Jumper.
+Massachusetts,Boston College,43,37,25,22,0,Trey Davis Defensive Rebound.
+Massachusetts,Boston College,45,37,25,29,1,Derrick Gordon made Layup. Assisted by Trey Davis.
+Massachusetts,Boston College,45,37,25,34,0,Boston College  Timeout
+Massachusetts,Boston College,45,37,25,56,0,Foul on Trey Davis.
+Massachusetts,Boston College,45,37,25,56,0,Dimitri Batten missed Free Throw.
+Massachusetts,Boston College,45,37,25,56,0,Boston College Deadball Team Rebound.
+Massachusetts,Boston College,45,38,25,56,1,Dimitri Batten made Free Throw.
+Massachusetts,Boston College,45,38,26,10,0,Donte Clark missed Jumper.
+Massachusetts,Boston College,45,38,26,10,0,Dennis Clifford Defensive Rebound.
+Massachusetts,Boston College,45,38,26,19,0,Olivier Hanlan missed Jumper.
+Massachusetts,Boston College,45,38,26,19,0,Cady Lalanne Block.
+Massachusetts,Boston College,45,38,26,19,0,Maxie Esho Defensive Rebound.
+Massachusetts,Boston College,47,38,26,28,1,Maxie Esho made Layup.
+Massachusetts,Boston College,47,38,26,38,0,Foul on Cady Lalanne.
+Massachusetts,Boston College,47,39,26,38,1,Aaron Brown made Free Throw.
+Massachusetts,Boston College,47,40,26,38,1,Aaron Brown made Free Throw.
+Massachusetts,Boston College,47,40,26,50,0,Foul on Dimitri Batten.
+Massachusetts,Boston College,48,40,26,50,1,Cady Lalanne made Free Throw.
+Massachusetts,Boston College,48,40,26,50,0,Cady Lalanne missed Free Throw.
+Massachusetts,Boston College,48,40,26,50,0,John Cain Carney Defensive Rebound.
+Massachusetts,Boston College,48,40,27,10,0,Foul on Cady Lalanne.
+Massachusetts,Boston College,48,40,27,10,0,Dennis Clifford missed Free Throw.
+Massachusetts,Boston College,48,40,27,10,0,Alex Dragicevich Offensive Rebound.
+Massachusetts,Boston College,48,43,27,10,1,Aaron Brown made Three Point Jumper. Assisted by Alex Dragicevich.
+Massachusetts,Boston College,48,43,27,36,0,Derrick Gordon missed Jumper.
+Massachusetts,Boston College,48,43,27,36,0,John Cain Carney Defensive Rebound.
+Massachusetts,Boston College,48,43,27,54,0,Foul on Jabarie Hinds.
+Massachusetts,Boston College,48,44,27,54,1,Olivier Hanlan made Free Throw.
+Massachusetts,Boston College,48,44,27,54,0,Olivier Hanlan missed Free Throw.
+Massachusetts,Boston College,48,44,27,54,0,Maxie Esho Defensive Rebound.
+Massachusetts,Boston College,50,44,28,0,1,Donte Clark made Dunk. Assisted by Jabarie Hinds.
+Massachusetts,Boston College,50,44,28,8,0,Foul on Donte Clark.
+Massachusetts,Boston College,50,44,28,8,0,Official TV Timeout
+Massachusetts,Boston College,50,44,28,8,0,Olivier Hanlan missed Free Throw.
+Massachusetts,Boston College,50,44,28,8,0,Tyler Bergantino Defensive Rebound.
+Massachusetts,Boston College,50,44,28,8,0,Foul on Will Magarity.
+Massachusetts,Boston College,50,44,28,30,0,Derrick Gordon Turnover.
+Massachusetts,Boston College,50,44,28,53,0,Olivier Hanlan Turnover.
+Massachusetts,Boston College,50,44,29,4,0,Maxie Esho missed Jumper.
+Massachusetts,Boston College,50,44,29,4,0,Will Magarity Defensive Rebound.
+Massachusetts,Boston College,50,44,29,26,0,Aaron Brown missed Three Point Jumper.
+Massachusetts,Boston College,50,44,29,26,0,Maxie Esho Defensive Rebound.
+Massachusetts,Boston College,52,44,29,44,1,Maxie Esho made Layup. Assisted by Donte Clark.
+Massachusetts,Boston College,52,44,30,9,0,Foul on C.J. Anderson.
+Massachusetts,Boston College,52,45,30,9,1,Aaron Brown made Free Throw.
+Massachusetts,Boston College,52,46,30,9,1,Aaron Brown made Free Throw.
+Massachusetts,Boston College,52,46,30,34,0,Maxie Esho missed Jumper.
+Massachusetts,Boston College,52,46,30,34,0,Tyler Bergantino Offensive Rebound.
+Massachusetts,Boston College,54,46,30,34,1,Tyler Bergantino made Two Point Tip Shot.
+Massachusetts,Boston College,54,46,30,44,0,Olivier Hanlan Turnover.
+Massachusetts,Boston College,54,46,30,44,0,Derrick Gordon Steal.
+Massachusetts,Boston College,54,46,30,50,0,Maxie Esho missed Layup.
+Massachusetts,Boston College,54,46,30,50,0,Dennis Clifford Defensive Rebound.
+Massachusetts,Boston College,54,46,30,58,0,Aaron Brown Turnover.
+Massachusetts,Boston College,54,46,31,6,0,Maxie Esho missed Dunk.
+Massachusetts,Boston College,54,46,31,6,0,Maxie Esho Offensive Rebound.
+Massachusetts,Boston College,54,46,31,14,0,Jabarie Hinds missed Jumper.
+Massachusetts,Boston College,54,46,31,14,0,Massachusetts Offensive Rebound.
+Massachusetts,Boston College,54,46,31,20,0,Foul on Dimitri Batten.
+Massachusetts,Boston College,54,46,31,45,0,Foul on Donte Clark.
+Massachusetts,Boston College,54,47,31,45,1,Dennis Clifford made Free Throw.
+Massachusetts,Boston College,54,48,31,45,1,Dennis Clifford made Free Throw.
+Massachusetts,Boston College,54,48,31,57,0,Massachusetts  Timeout
+Massachusetts,Boston College,54,48,32,6,0,Cady Lalanne missed Jumper.
+Massachusetts,Boston College,54,48,32,6,0,Boston College Defensive Rebound.
+Massachusetts,Boston College,54,48,32,9,0,Official TV Timeout
+Massachusetts,Boston College,54,48,32,29,0,Dennis Clifford missed Layup.
+Massachusetts,Boston College,54,48,32,29,0,Donte Clark Defensive Rebound.
+Massachusetts,Boston College,56,48,32,54,1,Maxie Esho made Jumper.
+Massachusetts,Boston College,56,48,32,54,0,Foul on Garland Owens.
+Massachusetts,Boston College,56,48,32,54,0,Maxie Esho missed Free Throw.
+Massachusetts,Boston College,56,48,32,54,0,Dennis Clifford Defensive Rebound.
+Massachusetts,Boston College,56,48,33,12,0,Dennis Clifford missed Jumper.
+Massachusetts,Boston College,56,48,33,12,0,Trey Davis Defensive Rebound.
+Massachusetts,Boston College,58,48,33,33,1,Donte Clark made Jumper. Assisted by Maxie Esho.
+Massachusetts,Boston College,58,48,33,33,0,Foul on Dennis Clifford.
+Massachusetts,Boston College,58,48,33,33,0,Donte Clark missed Free Throw.
+Massachusetts,Boston College,58,48,33,33,0,Patrick Heckmann Defensive Rebound.
+Massachusetts,Boston College,58,48,33,51,0,Patrick Heckmann Turnover.
+Massachusetts,Boston College,58,48,34,19,0,Cady Lalanne Turnover.
+Massachusetts,Boston College,58,48,34,24,0,Patrick Heckmann Turnover.
+Massachusetts,Boston College,60,48,34,45,1,Cady Lalanne made Dunk. Assisted by Derrick Gordon.
+Massachusetts,Boston College,60,48,34,53,0,Boston College  Timeout
+Massachusetts,Boston College,60,48,35,7,0,Olivier Hanlan missed Three Point Jumper.
+Massachusetts,Boston College,60,48,35,7,0,Cady Lalanne Defensive Rebound.
+Massachusetts,Boston College,60,48,35,30,0,Derrick Gordon missed Jumper.
+Massachusetts,Boston College,60,48,35,30,0,Dennis Clifford Defensive Rebound.
+Massachusetts,Boston College,60,50,35,37,1,Dimitri Batten made Layup. Assisted by Aaron Brown.
+Massachusetts,Boston College,60,50,36,15,0,Foul on Dennis Clifford.
+Massachusetts,Boston College,60,50,36,15,0,Official TV Timeout
+Massachusetts,Boston College,61,50,36,15,1,Cady Lalanne made Free Throw.
+Massachusetts,Boston College,62,50,36,15,1,Cady Lalanne made Free Throw.
+Massachusetts,Boston College,62,52,36,33,1,Will Magarity made Jumper.
+Massachusetts,Boston College,62,52,36,46,0,Maxie Esho Turnover.
+Massachusetts,Boston College,62,52,36,46,0,Dimitri Batten Steal.
+Massachusetts,Boston College,62,52,36,52,0,Olivier Hanlan missed Three Point Jumper.
+Massachusetts,Boston College,62,52,36,52,0,Eddie Odio Offensive Rebound.
+Massachusetts,Boston College,62,55,36,57,1,Aaron Brown made Three Point Jumper. Assisted by Eddie Odio.
+Massachusetts,Boston College,62,55,37,5,0,Massachusetts  Timeout
+Massachusetts,Boston College,62,55,37,28,0,Foul on Cady Lalanne.
+Massachusetts,Boston College,62,55,37,38,0,Aaron Brown missed Three Point Jumper.
+Massachusetts,Boston College,62,55,37,38,0,Massachusetts Defensive Rebound.
+Massachusetts,Boston College,62,55,38,15,0,Foul on Will Magarity.
+Massachusetts,Boston College,63,55,38,15,1,Derrick Gordon made Free Throw.
+Massachusetts,Boston College,63,55,38,15,0,Derrick Gordon missed Free Throw.
+Massachusetts,Boston College,63,55,38,15,0,Patrick Heckmann Defensive Rebound.
+Massachusetts,Boston College,63,55,38,25,0,Dimitri Batten missed Three Point Jumper.
+Massachusetts,Boston College,63,55,38,25,0,Cady Lalanne Defensive Rebound.
+Massachusetts,Boston College,63,55,38,38,0,Foul on Olivier Hanlan.
+Massachusetts,Boston College,64,55,38,38,1,Derrick Gordon made Free Throw.
+Massachusetts,Boston College,64,55,38,38,0,Derrick Gordon missed Free Throw.
+Massachusetts,Boston College,64,55,38,38,0,Patrick Heckmann Defensive Rebound.
+Massachusetts,Boston College,64,55,38,38,0,Aaron Brown missed Layup.
+Massachusetts,Boston College,64,55,38,38,0,Patrick Heckmann Offensive Rebound.
+Massachusetts,Boston College,64,57,38,38,1,Patrick Heckmann made Two Point Tip Shot.
+Massachusetts,Boston College,64,57,38,48,0,Foul on Boston College.
+Massachusetts,Boston College,65,57,38,48,1,Jabarie Hinds made Free Throw.
+Massachusetts,Boston College,66,57,38,48,1,Jabarie Hinds made Free Throw.
+Massachusetts,Boston College,66,57,38,53,0,Dimitri Batten missed Jumper.
+Massachusetts,Boston College,66,57,38,53,0,Derrick Gordon Defensive Rebound.
+Massachusetts,Boston College,66,57,38,59,0,Foul on Patrick Heckmann.
+Massachusetts,Boston College,67,57,38,59,1,Derrick Gordon made Free Throw.
+Massachusetts,Boston College,68,57,38,59,1,Derrick Gordon made Free Throw.
+Massachusetts,Boston College,68,57,39,2,0,Patrick Heckmann missed Three Point Jumper.
+Massachusetts,Boston College,68,57,39,2,0,Eddie Odio Offensive Rebound.
+Massachusetts,Boston College,68,59,39,2,1,Eddie Odio made Two Point Tip Shot.
+Massachusetts,Boston College,68,59,39,12,0,Foul on Dimitri Batten.
+Massachusetts,Boston College,69,59,39,12,1,C.J. Anderson made Free Throw.
+Massachusetts,Boston College,70,59,39,12,1,C.J. Anderson made Free Throw.
+Massachusetts,Boston College,70,61,39,19,1,Aaron Brown made Layup.
+Massachusetts,Boston College,70,61,39,23,0,Foul on Boston College.
+Massachusetts,Boston College,71,61,39,23,1,Donte Clark made Free Throw.
+Massachusetts,Boston College,71,61,39,23,0,Donte Clark missed Free Throw.
+Massachusetts,Boston College,71,61,39,23,0,Patrick Heckmann Defensive Rebound.
+Massachusetts,Boston College,71,61,39,26,0,Sam Donahue missed Three Point Jumper.
+Massachusetts,Boston College,71,61,39,26,0,Boston College Offensive Rebound.
+Massachusetts,Boston College,71,61,39,38,0,Foul on Massachusetts.
+Massachusetts,Boston College,71,62,39,38,1,John Cain Carney made Free Throw.
+Massachusetts,Boston College,71,62,39,38,0,John Cain Carney missed Free Throw.
+Massachusetts,Boston College,71,62,39,38,0,Seth Berger Defensive Rebound.
+Massachusetts,Boston College,71,62,40,0,0,End of Game

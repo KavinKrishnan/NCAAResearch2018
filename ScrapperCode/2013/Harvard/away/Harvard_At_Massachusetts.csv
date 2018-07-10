@@ -1,0 +1,364 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Harvard,Massachusetts,0,0,0,19,0,Kenyatta Smith missed Layup.
+Harvard,Massachusetts,0,0,0,19,0,Massachusetts Defensive Rebound.
+Harvard,Massachusetts,0,0,0,30,0,Terrell Vinson missed Three Point Jumper.
+Harvard,Massachusetts,0,0,0,30,0,Cady Lalanne Offensive Rebound.
+Harvard,Massachusetts,0,0,0,35,0,Cady Lalanne Turnover.
+Harvard,Massachusetts,0,0,0,41,0,Foul on Chaz Williams
+Harvard,Massachusetts,0,0,1,7,0,Wesley Saunders Turnover.
+Harvard,Massachusetts,0,3,1,22,1,Raphiael Putney made Three Point Jumper.  Assisted by Chaz Williams.
+Harvard,Massachusetts,0,3,1,37,0,Wesley Saunders missed Layup.
+Harvard,Massachusetts,0,3,1,37,0,Cady Lalanne Defensive Rebound.
+Harvard,Massachusetts,0,3,1,45,0,Freddie Riley missed Three Point Jumper.
+Harvard,Massachusetts,0,3,1,45,0,Kenyatta Smith Defensive Rebound.
+Harvard,Massachusetts,2,3,1,54,1,Siyani Chambers made Jumper.
+Harvard,Massachusetts,2,5,2,14,1,Chaz Williams made Layup.
+Harvard,Massachusetts,2,5,2,24,0,Steve Moundou-Missi missed Layup.
+Harvard,Massachusetts,2,5,2,24,0,Cady Lalanne Defensive Rebound.
+Harvard,Massachusetts,2,5,2,34,0,Cady Lalanne missed Layup.
+Harvard,Massachusetts,2,5,2,34,0,Wesley Saunders Defensive Rebound.
+Harvard,Massachusetts,2,5,2,40,0,Foul on Freddie Riley
+Harvard,Massachusetts,3,5,2,40,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,4,5,2,40,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,4,5,2,55,0,Terrell Vinson Turnover.
+Harvard,Massachusetts,4,5,2,56,0,Kenyatta Smith Steal.
+Harvard,Massachusetts,4,5,3,0,0,Steve Moundou-Missi missed Layup.
+Harvard,Massachusetts,4,5,3,0,0,Raphiael Putney Block.
+Harvard,Massachusetts,4,5,3,1,0,Massachusetts Defensive Rebound.
+Harvard,Massachusetts,4,8,3,25,1,Terrell Vinson made Three Point Jumper.  Assisted by Chaz Williams.
+Harvard,Massachusetts,4,8,3,33,0,Christian Webster Turnover.
+Harvard,Massachusetts,4,8,3,35,0,Chaz Williams Steal.
+Harvard,Massachusetts,4,8,3,40,0,Terrell Vinson missed Layup.
+Harvard,Massachusetts,4,8,3,40,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Massachusetts,4,8,3,41,0,Foul on Terrell Vinson
+Harvard,Massachusetts,4,8,3,53,0,Jonah Travis missed Layup.
+Harvard,Massachusetts,4,8,3,53,0,Terrell Vinson Defensive Rebound.
+Harvard,Massachusetts,4,8,4,5,0,Terrell Vinson Turnover.
+Harvard,Massachusetts,4,8,4,6,0,Laurent Rivard Steal.
+Harvard,Massachusetts,4,8,4,7,0,Laurent Rivard Turnover.
+Harvard,Massachusetts,4,8,4,7,0,Terrell Vinson Steal.
+Harvard,Massachusetts,4,8,4,8,0,Official TV Timeout.
+Harvard,Massachusetts,4,10,4,22,1,Jesse Morgan made Layup.
+Harvard,Massachusetts,4,10,4,41,0,Christian Webster missed Three Point Jumper.
+Harvard,Massachusetts,4,10,4,41,0,null
+Harvard,Massachusetts,4,10,4,42,0,Foul on Laurent Rivard
+Harvard,Massachusetts,4,10,4,56,0,Jesse Morgan missed Three Point Jumper.
+Harvard,Massachusetts,4,10,4,56,0,Christian Webster Defensive Rebound.
+Harvard,Massachusetts,6,10,5,7,1,Wesley Saunders made Layup.
+Harvard,Massachusetts,6,10,5,7,0,Foul on Maxie Esho
+Harvard,Massachusetts,7,10,5,7,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,7,12,5,16,1,Chaz Williams made Layup.  Assisted by Jesse Morgan.
+Harvard,Massachusetts,9,12,5,39,1,Jonah Travis made Layup.  Assisted by Siyani Chambers.
+Harvard,Massachusetts,9,12,5,42,0,Foul on Maxie Esho
+Harvard,Massachusetts,10,12,5,43,1,Jonah Travis made Free Throw.
+Harvard,Massachusetts,10,14,5,57,1,Cady Lalanne made Dunk.  Assisted by Sampson Carter.
+Harvard,Massachusetts,10,14,6,8,0,Foul on Sampson Carter
+Harvard,Massachusetts,10,14,6,24,0,Siyani Chambers Turnover.
+Harvard,Massachusetts,10,14,6,25,0,Raphiael Putney Steal.
+Harvard,Massachusetts,10,14,6,35,0,Foul on Christian Webster
+Harvard,Massachusetts,10,16,6,51,1,Terrell Vinson made Jumper.
+Harvard,Massachusetts,10,16,7,16,0,Steve Moundou-Missi missed Jumper.
+Harvard,Massachusetts,10,16,7,16,0,Laurent Rivard Offensive Rebound.
+Harvard,Massachusetts,12,16,7,19,1,Laurent Rivard made Tip Shot.
+Harvard,Massachusetts,12,16,7,20,0,Foul on Laurent Rivard
+Harvard,Massachusetts,12,19,7,28,1,Jesse Morgan made Three Point Jumper.  Assisted by Chaz Williams.
+Harvard,Massachusetts,12,19,7,44,0,Wesley Saunders missed Three Point Jumper.
+Harvard,Massachusetts,12,19,7,44,0,Cady Lalanne Defensive Rebound.
+Harvard,Massachusetts,12,19,7,53,0,Sampson Carter missed Layup.
+Harvard,Massachusetts,12,19,7,53,0,Laurent Rivard Defensive Rebound.
+Harvard,Massachusetts,12,19,8,1,0,Wesley Saunders missed Three Point Jumper.
+Harvard,Massachusetts,12,19,8,1,0,Sampson Carter Defensive Rebound.
+Harvard,Massachusetts,12,19,8,6,0,Jesse Morgan missed Three Point Jumper.
+Harvard,Massachusetts,12,19,8,6,0,Harvard Defensive Rebound.
+Harvard,Massachusetts,12,19,8,10,0,Official TV Timeout.
+Harvard,Massachusetts,12,19,8,14,0,Wesley Saunders missed Layup.
+Harvard,Massachusetts,12,19,8,14,0,Cady Lalanne Block.
+Harvard,Massachusetts,12,19,8,15,0,Harvard Offensive Rebound.
+Harvard,Massachusetts,14,19,8,28,1,Kenyatta Smith made Layup.
+Harvard,Massachusetts,14,19,8,37,0,Sampson Carter Turnover.
+Harvard,Massachusetts,14,19,8,51,0,Steve Moundou-Missi missed Layup.
+Harvard,Massachusetts,14,19,8,51,0,Cady Lalanne Block.
+Harvard,Massachusetts,14,19,8,52,0,Cady Lalanne Defensive Rebound.
+Harvard,Massachusetts,14,19,9,0,0,Chaz Williams missed Jumper.
+Harvard,Massachusetts,14,19,9,0,0,Christian Webster Defensive Rebound.
+Harvard,Massachusetts,14,19,9,6,0,Foul on Freddie Riley
+Harvard,Massachusetts,15,19,9,6,1,Siyani Chambers made Free Throw.
+Harvard,Massachusetts,15,19,9,6,0,Siyani Chambers missed Free Throw.
+Harvard,Massachusetts,15,19,9,6,0,Cady Lalanne Defensive Rebound.
+Harvard,Massachusetts,15,19,9,22,0,Cady Lalanne missed Layup.
+Harvard,Massachusetts,15,19,9,22,0,Kenyatta Smith Block.
+Harvard,Massachusetts,15,19,9,23,0,Cady Lalanne Offensive Rebound.
+Harvard,Massachusetts,15,19,9,26,0,Foul on Freddie Riley
+Harvard,Massachusetts,15,19,9,26,0,Freddie Riley Turnover.
+Harvard,Massachusetts,15,19,9,51,0,Wesley Saunders missed Layup.
+Harvard,Massachusetts,15,19,9,51,0,Terrell Vinson Block.
+Harvard,Massachusetts,15,19,9,53,0,Massachusetts Defensive Rebound.
+Harvard,Massachusetts,15,21,10,9,1,Terrell Vinson made Layup.  Assisted by Raphiael Putney.
+Harvard,Massachusetts,15,21,10,35,0,Kenyatta Smith missed Layup.
+Harvard,Massachusetts,15,21,10,35,0,Cady Lalanne Block.
+Harvard,Massachusetts,15,21,10,35,0,Harvard Offensive Rebound.
+Harvard,Massachusetts,15,21,10,49,0,Christian Webster missed Jumper.
+Harvard,Massachusetts,15,21,10,49,0,Chaz Williams Defensive Rebound.
+Harvard,Massachusetts,15,21,10,53,0,Terrell Vinson Turnover.
+Harvard,Massachusetts,15,21,11,8,0,Kenyatta Smith Turnover.
+Harvard,Massachusetts,15,21,11,10,0,Raphiael Putney Steal.
+Harvard,Massachusetts,15,23,11,13,1,Raphiael Putney made Layup.
+Harvard,Massachusetts,15,23,11,13,0,Foul on Kenyatta Smith
+Harvard,Massachusetts,15,24,11,13,1,Raphiael Putney made Free Throw.
+Harvard,Massachusetts,16,24,11,32,1,Siyani Chambers made Free Throw.
+Harvard,Massachusetts,16,24,11,32,0,Foul on Trey Davis
+Harvard,Massachusetts,17,24,11,32,1,Siyani Chambers made Free Throw.
+Harvard,Massachusetts,17,24,11,47,0,Raphiael Putney missed Three Point Jumper.
+Harvard,Massachusetts,17,24,11,47,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Massachusetts,17,24,11,53,0,null
+Harvard,Massachusetts,17,24,11,53,0,Agunwa Okolie missed Free Throw.
+Harvard,Massachusetts,17,24,11,53,0,Foul on Sampson Carter
+Harvard,Massachusetts,17,24,11,53,0,Agunwa Okolie missed Free Throw.
+Harvard,Massachusetts,17,24,11,53,0,Cady Lalanne Defensive Rebound.
+Harvard,Massachusetts,17,25,12,0,1,Jesse Morgan made Free Throw.
+Harvard,Massachusetts,17,25,12,0,0,Foul on Laurent Rivard
+Harvard,Massachusetts,17,26,12,0,1,Jesse Morgan made Free Throw.
+Harvard,Massachusetts,17,26,12,21,0,Steve Moundou-Missi missed Jumper.
+Harvard,Massachusetts,17,26,12,21,0,Jonah Travis Offensive Rebound.
+Harvard,Massachusetts,17,26,12,29,0,Foul on Steve Moundou-Missi
+Harvard,Massachusetts,17,26,12,29,0,Steve Moundou-Missi Turnover.
+Harvard,Massachusetts,17,26,12,29,0,Official TV Timeout.
+Harvard,Massachusetts,17,26,12,52,0,Terrell Vinson missed Layup.
+Harvard,Massachusetts,17,26,12,52,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Massachusetts,19,26,13,7,1,Siyani Chambers made Layup.
+Harvard,Massachusetts,19,26,13,21,0,Jesse Morgan missed Three Point Jumper.
+Harvard,Massachusetts,19,26,13,21,0,Siyani Chambers Defensive Rebound.
+Harvard,Massachusetts,19,26,13,37,0,Steve Moundou-Missi missed Layup.
+Harvard,Massachusetts,19,26,13,37,0,Raphiael Putney Block.
+Harvard,Massachusetts,19,26,13,37,0,Massachusetts Defensive Rebound.
+Harvard,Massachusetts,19,26,13,48,0,Chaz Williams missed Three Point Jumper.
+Harvard,Massachusetts,19,26,13,48,0,Raphiael Putney Offensive Rebound.
+Harvard,Massachusetts,19,26,13,52,0,Foul on Christian Webster
+Harvard,Massachusetts,19,27,13,52,1,Raphiael Putney made Free Throw.
+Harvard,Massachusetts,19,28,13,52,1,Raphiael Putney made Free Throw.
+Harvard,Massachusetts,19,28,14,1,0,Christian Webster Turnover.
+Harvard,Massachusetts,19,28,14,2,0,Harvard Full Timeout.
+Harvard,Massachusetts,19,28,14,18,0,Foul on Jonah Travis
+Harvard,Massachusetts,19,29,14,18,1,Terrell Vinson made Free Throw.
+Harvard,Massachusetts,19,29,14,19,0,Terrell Vinson missed Free Throw.
+Harvard,Massachusetts,19,29,14,19,0,Kenyatta Smith Defensive Rebound.
+Harvard,Massachusetts,19,29,14,52,0,Wesley Saunders missed Jumper.
+Harvard,Massachusetts,19,29,14,52,0,Massachusetts Defensive Rebound.
+Harvard,Massachusetts,19,29,15,6,0,Chaz Williams missed Three Point Jumper.
+Harvard,Massachusetts,19,29,15,6,0,Harvard Defensive Rebound.
+Harvard,Massachusetts,21,29,15,23,1,Kenyatta Smith made Layup.  Assisted by Siyani Chambers.
+Harvard,Massachusetts,21,31,15,46,1,Cady Lalanne made Dunk.
+Harvard,Massachusetts,23,31,16,9,1,Jonah Travis made Layup.
+Harvard,Massachusetts,23,33,16,15,1,Chaz Williams made Layup.
+Harvard,Massachusetts,25,33,16,22,1,Wesley Saunders made Layup.
+Harvard,Massachusetts,25,33,16,42,0,Jesse Morgan missed Jumper.
+Harvard,Massachusetts,25,33,16,42,0,Jesse Morgan Offensive Rebound.
+Harvard,Massachusetts,25,33,16,44,0,Jesse Morgan missed Jumper.
+Harvard,Massachusetts,25,33,16,44,0,Massachusetts Offensive Rebound.
+Harvard,Massachusetts,25,33,16,46,0,Official TV Timeout.
+Harvard,Massachusetts,25,33,16,50,0,Raphiael Putney Turnover.
+Harvard,Massachusetts,25,33,16,51,0,Christian Webster Steal.
+Harvard,Massachusetts,28,33,17,13,1,Siyani Chambers made Three Point Jumper.  Assisted by Wesley Saunders.
+Harvard,Massachusetts,28,33,17,35,0,Cady Lalanne Turnover.
+Harvard,Massachusetts,28,33,17,46,0,Kenyatta Smith Turnover.
+Harvard,Massachusetts,28,35,18,1,1,Jesse Morgan made Dunk.  Assisted by Chaz Williams.
+Harvard,Massachusetts,28,35,18,9,0,Jonah Travis missed Layup.
+Harvard,Massachusetts,28,35,18,9,0,Terrell Vinson Block.
+Harvard,Massachusetts,28,35,18,10,0,Jesse Morgan Defensive Rebound.
+Harvard,Massachusetts,28,37,18,16,1,Chaz Williams made Layup.
+Harvard,Massachusetts,28,37,18,16,0,Harvard Full Timeout.
+Harvard,Massachusetts,28,37,18,26,0,Foul on Chaz Williams
+Harvard,Massachusetts,29,37,18,26,1,Christian Webster made Free Throw.
+Harvard,Massachusetts,30,37,18,26,1,Christian Webster made Free Throw.
+Harvard,Massachusetts,30,37,18,44,0,Chaz Williams Turnover.
+Harvard,Massachusetts,32,37,18,56,1,Christian Webster made Layup.
+Harvard,Massachusetts,32,37,19,8,0,Foul on Jonah Travis
+Harvard,Massachusetts,32,37,19,8,0,Cady Lalanne missed Free Throw.
+Harvard,Massachusetts,32,37,19,8,0,null
+Harvard,Massachusetts,32,38,19,8,1,Cady Lalanne made Free Throw.
+Harvard,Massachusetts,32,38,19,14,0,Foul on Trey Davis
+Harvard,Massachusetts,33,38,19,14,1,Siyani Chambers made Free Throw.
+Harvard,Massachusetts,34,38,19,14,1,Siyani Chambers made Free Throw.
+Harvard,Massachusetts,34,38,19,20,0,Jesse Morgan missed Three Point Jumper.
+Harvard,Massachusetts,34,38,19,20,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Massachusetts,37,38,19,58,1,Christian Webster made Three Point Jumper.  Assisted by Wesley Saunders.
+Harvard,Massachusetts,37,38,20,0,0,End of the 1st Half.
+Harvard,Massachusetts,37,38,20,9,0,Chaz Williams missed Jumper.
+Harvard,Massachusetts,37,38,20,9,0,Kenyatta Smith Defensive Rebound.
+Harvard,Massachusetts,39,38,20,43,1,Kenyatta Smith made Layup.  Assisted by Siyani Chambers.
+Harvard,Massachusetts,39,38,21,12,0,Terrell Vinson missed Three Point Jumper.
+Harvard,Massachusetts,39,38,21,12,0,Cady Lalanne Offensive Rebound.
+Harvard,Massachusetts,39,38,21,14,0,Cady Lalanne Turnover.
+Harvard,Massachusetts,39,38,21,14,0,Steve Moundou-Missi Steal.
+Harvard,Massachusetts,39,38,21,32,0,Wesley Saunders Turnover.
+Harvard,Massachusetts,39,38,21,33,0,Raphiael Putney Steal.
+Harvard,Massachusetts,39,40,21,38,1,Raphiael Putney made Layup.
+Harvard,Massachusetts,39,40,21,50,0,Steve Moundou-Missi Turnover.
+Harvard,Massachusetts,39,40,21,50,0,Terrell Vinson Steal.
+Harvard,Massachusetts,39,40,21,52,0,Terrell Vinson Turnover.
+Harvard,Massachusetts,39,40,21,53,0,Kenyatta Smith Steal.
+Harvard,Massachusetts,39,40,22,18,0,Kenyatta Smith Turnover.
+Harvard,Massachusetts,39,40,22,27,0,Maxie Esho Turnover.
+Harvard,Massachusetts,39,40,22,29,0,Siyani Chambers Steal.
+Harvard,Massachusetts,39,40,22,31,0,Siyani Chambers missed Layup.
+Harvard,Massachusetts,39,40,22,31,0,Maxie Esho Block.
+Harvard,Massachusetts,39,40,22,32,0,Siyani Chambers Offensive Rebound.
+Harvard,Massachusetts,41,40,22,35,1,Steve Moundou-Missi made Layup.  Assisted by Wesley Saunders.
+Harvard,Massachusetts,41,40,23,1,0,Chaz Williams Turnover.
+Harvard,Massachusetts,41,40,23,5,0,Steve Moundou-Missi Turnover.
+Harvard,Massachusetts,41,40,23,8,0,Chaz Williams Steal.
+Harvard,Massachusetts,41,40,23,8,0,Chaz Williams missed Layup.
+Harvard,Massachusetts,41,40,23,8,0,Steve Moundou-Missi Block.
+Harvard,Massachusetts,41,40,23,9,0,Laurent Rivard Defensive Rebound.
+Harvard,Massachusetts,41,40,23,14,0,Steve Moundou-Missi Turnover.
+Harvard,Massachusetts,41,43,23,32,1,Maxie Esho made Three Point Jumper.  Assisted by Chaz Williams.
+Harvard,Massachusetts,41,43,23,36,0,Kenyatta Smith Turnover.
+Harvard,Massachusetts,41,43,23,36,0,Jesse Morgan Steal.
+Harvard,Massachusetts,41,43,23,37,0,Foul on Siyani Chambers
+Harvard,Massachusetts,41,43,23,37,0,Jesse Morgan missed Free Throw.
+Harvard,Massachusetts,41,43,23,37,0,null
+Harvard,Massachusetts,41,44,23,37,1,Jesse Morgan made Free Throw.
+Harvard,Massachusetts,44,44,23,47,1,Laurent Rivard made Three Point Jumper.
+Harvard,Massachusetts,44,44,24,10,0,Jesse Morgan missed Three Point Jumper.
+Harvard,Massachusetts,44,44,24,10,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Massachusetts,44,44,24,22,0,Laurent Rivard missed Three Point Jumper.
+Harvard,Massachusetts,44,44,24,22,0,Jesse Morgan Defensive Rebound.
+Harvard,Massachusetts,44,46,24,28,1,Chaz Williams made Layup.
+Harvard,Massachusetts,44,46,24,29,0,Foul on Jonah Travis
+Harvard,Massachusetts,44,46,24,29,0,Official TV Timeout.
+Harvard,Massachusetts,44,46,24,29,0,Chaz Williams missed Free Throw.
+Harvard,Massachusetts,44,46,24,29,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Massachusetts,44,46,24,46,0,Foul on Terrell Vinson
+Harvard,Massachusetts,45,46,24,46,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,46,46,24,46,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,46,46,25,3,0,Maxie Esho missed Jumper.
+Harvard,Massachusetts,46,46,25,3,0,Jesse Morgan Offensive Rebound.
+Harvard,Massachusetts,46,48,25,4,1,Jesse Morgan made Tip Shot.
+Harvard,Massachusetts,46,48,25,30,0,Siyani Chambers missed Layup.
+Harvard,Massachusetts,46,48,25,30,0,Cady Lalanne Defensive Rebound.
+Harvard,Massachusetts,46,48,25,44,0,Jesse Morgan missed Three Point Jumper.
+Harvard,Massachusetts,46,48,25,44,0,Laurent Rivard Defensive Rebound.
+Harvard,Massachusetts,46,48,26,10,0,Steve Moundou-Missi missed Layup.
+Harvard,Massachusetts,46,48,26,10,0,Maxie Esho Block.
+Harvard,Massachusetts,46,48,26,12,0,Massachusetts Defensive Rebound.
+Harvard,Massachusetts,46,48,26,17,0,Maxie Esho missed Layup.
+Harvard,Massachusetts,46,48,26,17,0,Harvard Defensive Rebound.
+Harvard,Massachusetts,46,48,26,31,0,Siyani Chambers missed Three Point Jumper.
+Harvard,Massachusetts,46,48,26,31,0,Raphiael Putney Defensive Rebound.
+Harvard,Massachusetts,46,48,26,38,0,Foul on Steve Moundou-Missi
+Harvard,Massachusetts,46,49,26,38,1,Cady Lalanne made Free Throw.
+Harvard,Massachusetts,46,50,26,38,1,Cady Lalanne made Free Throw.
+Harvard,Massachusetts,46,50,27,1,0,Foul on Sampson Carter
+Harvard,Massachusetts,46,50,27,2,0,Jonah Travis Turnover.
+Harvard,Massachusetts,46,50,27,2,0,Terrell Vinson Steal.
+Harvard,Massachusetts,46,52,27,16,1,Chaz Williams made Layup.
+Harvard,Massachusetts,46,52,27,26,0,Foul on Terrell Vinson
+Harvard,Massachusetts,47,52,27,26,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,48,52,27,26,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,48,52,27,46,0,Cady Lalanne missed Jumper.
+Harvard,Massachusetts,48,52,27,46,0,Christian Webster Defensive Rebound.
+Harvard,Massachusetts,48,52,27,54,0,Kenyatta Smith Turnover.
+Harvard,Massachusetts,48,52,27,57,0,Cady Lalanne Steal.
+Harvard,Massachusetts,48,52,28,1,0,Sampson Carter missed Layup.
+Harvard,Massachusetts,48,52,28,1,0,Harvard Defensive Rebound.
+Harvard,Massachusetts,48,52,28,2,0,Official TV Timeout.
+Harvard,Massachusetts,48,52,28,21,0,Foul on Sampson Carter
+Harvard,Massachusetts,48,52,28,32,0,Christian Webster missed Jumper.
+Harvard,Massachusetts,48,52,28,32,0,Jesse Morgan Defensive Rebound.
+Harvard,Massachusetts,48,54,28,39,1,Cady Lalanne made Layup.  Assisted by Chaz Williams.
+Harvard,Massachusetts,48,54,28,59,0,Wesley Saunders missed Jumper.
+Harvard,Massachusetts,48,54,28,59,0,Cady Lalanne Block.
+Harvard,Massachusetts,48,54,29,4,0,Jesse Morgan Defensive Rebound.
+Harvard,Massachusetts,48,54,29,5,0,Jesse Morgan missed Jumper.
+Harvard,Massachusetts,48,54,29,5,0,Jesse Morgan Offensive Rebound.
+Harvard,Massachusetts,48,54,29,7,0,Jesse Morgan missed Tip Shot.
+Harvard,Massachusetts,48,54,29,7,0,Harvard Defensive Rebound.
+Harvard,Massachusetts,48,54,29,33,0,Laurent Rivard missed Three Point Jumper.
+Harvard,Massachusetts,48,54,29,33,0,Terrell Vinson Defensive Rebound.
+Harvard,Massachusetts,48,54,29,52,0,Raphiael Putney missed Three Point Jumper.
+Harvard,Massachusetts,48,54,29,52,0,Siyani Chambers Defensive Rebound.
+Harvard,Massachusetts,50,54,29,56,1,Wesley Saunders made Layup.
+Harvard,Massachusetts,50,54,30,25,0,Cady Lalanne missed Layup.
+Harvard,Massachusetts,50,54,30,26,0,Kenyatta Smith Block.
+Harvard,Massachusetts,50,54,30,27,0,Christian Webster Defensive Rebound.
+Harvard,Massachusetts,52,54,30,40,1,Kenyatta Smith made Jumper.
+Harvard,Massachusetts,52,54,30,43,0,Massachusetts Full Timeout.
+Harvard,Massachusetts,52,54,30,59,0,Terrell Vinson missed Jumper.
+Harvard,Massachusetts,52,54,30,59,0,Laurent Rivard Defensive Rebound.
+Harvard,Massachusetts,52,54,31,3,0,Foul on Terrell Vinson
+Harvard,Massachusetts,52,54,31,30,0,Kenyatta Smith missed Layup.
+Harvard,Massachusetts,52,54,31,30,0,Cady Lalanne Defensive Rebound.
+Harvard,Massachusetts,52,54,31,43,0,Raphiael Putney Turnover.
+Harvard,Massachusetts,52,54,31,44,0,Siyani Chambers Steal.
+Harvard,Massachusetts,52,54,31,47,0,Foul on Chaz Williams
+Harvard,Massachusetts,53,54,31,47,1,Siyani Chambers made Free Throw.
+Harvard,Massachusetts,54,54,31,47,1,Siyani Chambers made Free Throw.
+Harvard,Massachusetts,54,54,31,57,0,Foul on Steve Moundou-Missi
+Harvard,Massachusetts,54,54,32,8,0,Chaz Williams missed Layup.
+Harvard,Massachusetts,54,54,32,8,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Massachusetts,54,54,32,21,0,Siyani Chambers missed Jumper.
+Harvard,Massachusetts,54,54,32,21,0,Chaz Williams Defensive Rebound.
+Harvard,Massachusetts,54,54,32,30,0,Maxie Esho missed Layup.
+Harvard,Massachusetts,54,54,32,30,0,Maxie Esho Offensive Rebound.
+Harvard,Massachusetts,54,54,32,35,0,Official TV Timeout.
+Harvard,Massachusetts,54,54,32,48,0,Maxie Esho missed Jumper.
+Harvard,Massachusetts,54,54,32,49,0,Cady Lalanne Offensive Rebound.
+Harvard,Massachusetts,54,54,32,51,0,Foul on Wesley Saunders
+Harvard,Massachusetts,54,54,32,56,0,Jesse Morgan missed Jumper.
+Harvard,Massachusetts,54,54,32,56,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Massachusetts,56,54,33,22,1,Wesley Saunders made Layup.  Assisted by Siyani Chambers.
+Harvard,Massachusetts,56,54,33,36,0,Chaz Williams missed Layup.
+Harvard,Massachusetts,56,54,33,36,0,Steve Moundou-Missi Block.
+Harvard,Massachusetts,56,54,33,37,0,Maxie Esho Offensive Rebound.
+Harvard,Massachusetts,56,54,33,39,0,Foul on Maxie Esho
+Harvard,Massachusetts,56,54,33,39,0,Maxie Esho Turnover.
+Harvard,Massachusetts,56,54,33,45,0,Laurent Rivard Turnover.
+Harvard,Massachusetts,56,54,33,47,0,Jesse Morgan Steal.
+Harvard,Massachusetts,56,56,33,48,1,Jesse Morgan made Layup.
+Harvard,Massachusetts,56,56,34,25,0,Siyani Chambers missed Layup.
+Harvard,Massachusetts,56,56,34,25,0,Siyani Chambers Offensive Rebound.
+Harvard,Massachusetts,57,56,34,29,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,57,56,34,29,0,Wesley Saunders missed Free Throw.
+Harvard,Massachusetts,57,56,34,29,0,Raphiael Putney Defensive Rebound.
+Harvard,Massachusetts,57,56,34,30,0,Foul on Raphiael Putney
+Harvard,Massachusetts,57,59,34,37,1,Raphiael Putney made Three Point Jumper.  Assisted by Chaz Williams.
+Harvard,Massachusetts,57,59,35,1,0,Laurent Rivard missed Three Point Jumper.
+Harvard,Massachusetts,57,59,35,1,0,Terrell Vinson Defensive Rebound.
+Harvard,Massachusetts,57,59,35,26,0,Chaz Williams missed Layup.
+Harvard,Massachusetts,57,59,35,26,0,Steve Moundou-Missi Block.
+Harvard,Massachusetts,57,59,35,27,0,Siyani Chambers Defensive Rebound.
+Harvard,Massachusetts,60,59,35,39,1,Christian Webster made Three Point Jumper.  Assisted by Laurent Rivard.
+Harvard,Massachusetts,60,59,35,42,0,Harvard Full Timeout.
+Harvard,Massachusetts,60,59,35,54,0,Chaz Williams Turnover.
+Harvard,Massachusetts,60,59,35,55,0,Wesley Saunders Steal.
+Harvard,Massachusetts,60,59,36,13,0,Wesley Saunders missed Layup.
+Harvard,Massachusetts,60,59,36,14,0,Terrell Vinson Defensive Rebound.
+Harvard,Massachusetts,60,59,36,28,0,Foul on Wesley Saunders
+Harvard,Massachusetts,60,59,36,28,0,Official TV Timeout.
+Harvard,Massachusetts,60,59,36,51,0,Terrell Vinson missed Layup.
+Harvard,Massachusetts,60,59,36,51,0,null
+Harvard,Massachusetts,60,59,36,54,0,Foul on Terrell Vinson
+Harvard,Massachusetts,61,59,36,54,1,Steve Moundou-Missi made Free Throw.
+Harvard,Massachusetts,62,59,36,54,1,Steve Moundou-Missi made Free Throw.
+Harvard,Massachusetts,62,59,37,8,0,Raphiael Putney Turnover.
+Harvard,Massachusetts,62,59,37,9,0,Wesley Saunders Steal.
+Harvard,Massachusetts,62,59,37,40,0,Laurent Rivard missed Layup.
+Harvard,Massachusetts,62,59,37,40,0,Jesse Morgan Block.
+Harvard,Massachusetts,62,59,37,40,0,Chaz Williams Defensive Rebound.
+Harvard,Massachusetts,62,59,37,43,0,Chaz Williams missed Layup.
+Harvard,Massachusetts,62,59,37,43,0,Steve Moundou-Missi Block.
+Harvard,Massachusetts,62,59,37,45,0,Cady Lalanne Offensive Rebound.
+Harvard,Massachusetts,62,59,38,2,0,Freddie Riley missed Three Point Jumper.
+Harvard,Massachusetts,62,59,38,2,0,Steve Moundou-Missi Defensive Rebound.
+Harvard,Massachusetts,62,59,38,39,0,Foul on Jesse Morgan
+Harvard,Massachusetts,62,59,38,39,0,Massachusetts Full Timeout.
+Harvard,Massachusetts,63,59,38,39,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,64,59,38,39,1,Wesley Saunders made Free Throw.
+Harvard,Massachusetts,64,61,38,46,1,Jesse Morgan made Jumper.
+Harvard,Massachusetts,64,61,38,48,0,Massachusetts Full Timeout.
+Harvard,Massachusetts,64,61,39,15,0,Wesley Saunders Turnover.
+Harvard,Massachusetts,64,64,39,21,1,Jesse Morgan made Three Point Jumper.
+Harvard,Massachusetts,64,64,39,32,0,Christian Webster Turnover.
+Harvard,Massachusetts,64,64,39,33,0,Chaz Williams Steal.
+Harvard,Massachusetts,64,67,39,57,1,Sampson Carter made Three Point Jumper.  Assisted by Chaz Williams.
+Harvard,Massachusetts,64,67,40,0,0,End Game

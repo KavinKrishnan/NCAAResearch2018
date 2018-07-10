@@ -1,0 +1,310 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,Arizona State,0,0,0,16,0,Jordan Bachynski missed Jumper.
+Stanford,Arizona State,0,0,0,16,0,Andy Brown Defensive Rebound.
+Stanford,Arizona State,0,0,0,34,0,Dwight Powell missed Jumper.
+Stanford,Arizona State,0,0,0,34,0,Jahii Carson Defensive Rebound.
+Stanford,Arizona State,0,0,0,53,0,Jordan Bachynski missed Jumper.
+Stanford,Arizona State,0,0,0,53,0,Jordan Bachynski Offensive Rebound.
+Stanford,Arizona State,0,2,0,56,1,Jordan Bachynski made Layup.
+Stanford,Arizona State,0,2,1,9,0,Dwight Powell missed Jumper.
+Stanford,Arizona State,0,2,1,9,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,0,4,1,20,1,Carrick Felix made Layup.  Assisted by Jahii Carson.
+Stanford,Arizona State,0,4,1,20,0,Foul on Chasson Randle
+Stanford,Arizona State,0,4,1,20,0,Carrick Felix missed Free Throw.
+Stanford,Arizona State,0,4,1,20,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,2,4,1,38,1,Dwight Powell made Jumper.
+Stanford,Arizona State,2,4,1,50,0,Carrick Felix missed Three Point Jumper.
+Stanford,Arizona State,2,4,1,50,0,Jonathan Gilling Offensive Rebound.
+Stanford,Arizona State,2,4,2,3,0,Jahii Carson Turnover.
+Stanford,Arizona State,2,4,2,4,0,Josh Huestis Steal.
+Stanford,Arizona State,5,4,2,10,1,Chasson Randle made Three Point Jumper.  Assisted by Aaron Bright.
+Stanford,Arizona State,5,6,2,43,1,Evan Gordon made Jumper.  Assisted by Jonathan Gilling.
+Stanford,Arizona State,8,6,2,54,1,Josh Huestis made Three Point Jumper.  Assisted by Chasson Randle.
+Stanford,Arizona State,8,8,3,36,1,Jordan Bachynski made Layup.  Assisted by Jonathan Gilling.
+Stanford,Arizona State,8,8,3,48,0,Aaron Bright missed Jumper.
+Stanford,Arizona State,8,8,3,48,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,8,10,4,4,1,Evan Gordon made Layup.
+Stanford,Arizona State,8,10,4,26,0,Chasson Randle missed Three Point Jumper.
+Stanford,Arizona State,8,10,4,26,0,Jordan Bachynski Defensive Rebound.
+Stanford,Arizona State,8,10,4,36,0,Foul on Andy Brown
+Stanford,Arizona State,8,10,4,37,0,Official TV Timeout.
+Stanford,Arizona State,8,12,4,45,1,Jahii Carson made Jumper.
+Stanford,Arizona State,10,12,5,11,1,Andy Brown made Jumper.  Assisted by Chasson Randle.
+Stanford,Arizona State,10,12,5,18,0,Jonathan Gilling missed Three Point Jumper.
+Stanford,Arizona State,10,12,5,18,0,Stanford Defensive Rebound.
+Stanford,Arizona State,10,12,5,42,0,Andy Brown Turnover.
+Stanford,Arizona State,10,12,6,4,0,Carrick Felix missed Three Point Jumper.
+Stanford,Arizona State,10,12,6,4,0,Rosco Allen Defensive Rebound.
+Stanford,Arizona State,12,12,6,15,1,Dwight Powell made Layup.  Assisted by Chasson Randle.
+Stanford,Arizona State,12,12,6,24,0,Evan Gordon missed Jumper.
+Stanford,Arizona State,12,12,6,24,0,Evan Gordon Offensive Rebound.
+Stanford,Arizona State,12,12,6,29,0,Evan Gordon missed Layup.
+Stanford,Arizona State,12,12,6,29,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,15,12,6,45,1,Josh Huestis made Three Point Jumper.  Assisted by Aaron Bright.
+Stanford,Arizona State,15,12,6,57,0,Foul on Aaron Bright
+Stanford,Arizona State,15,15,7,2,1,Evan Gordon made Three Point Jumper.  Assisted by Jahii Carson.
+Stanford,Arizona State,15,15,7,20,0,Dwight Powell Turnover.
+Stanford,Arizona State,15,15,7,21,0,Jahii Carson Steal.
+Stanford,Arizona State,15,15,7,25,0,Jahii Carson missed Layup.
+Stanford,Arizona State,15,15,7,25,0,Josh Huestis Block.
+Stanford,Arizona State,15,15,7,27,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,15,15,7,33,0,Aaron Bright Turnover.
+Stanford,Arizona State,15,15,7,34,0,Evan Gordon Steal.
+Stanford,Arizona State,15,15,7,36,0,Jahii Carson missed Three Point Jumper.
+Stanford,Arizona State,15,15,7,36,0,Ruslan Pateev Offensive Rebound.
+Stanford,Arizona State,15,15,7,41,0,Foul on Rosco Allen
+Stanford,Arizona State,15,15,7,41,0,Carrick Felix missed Free Throw.
+Stanford,Arizona State,15,15,7,41,0,null
+Stanford,Arizona State,15,16,7,41,1,Carrick Felix made Free Throw.
+Stanford,Arizona State,17,16,7,53,1,Josh Huestis made Jumper.
+Stanford,Arizona State,17,16,8,19,0,Official TV Timeout.
+Stanford,Arizona State,17,16,8,33,0,Chris Colvin missed Three Point Jumper.
+Stanford,Arizona State,17,16,8,33,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,17,16,9,0,0,Rosco Allen Turnover.
+Stanford,Arizona State,17,16,9,0,0,Carrick Felix Steal.
+Stanford,Arizona State,17,16,9,4,0,Carrick Felix missed Layup.
+Stanford,Arizona State,17,16,9,4,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,17,16,9,22,0,Foul on Chris Colvin
+Stanford,Arizona State,20,16,9,35,1,John Gage made Three Point Jumper.  Assisted by Chasson Randle.
+Stanford,Arizona State,20,16,9,53,0,Foul on Chasson Randle
+Stanford,Arizona State,20,16,9,53,0,Chris Colvin missed Free Throw.
+Stanford,Arizona State,20,16,9,53,0,null
+Stanford,Arizona State,20,16,9,53,0,Chris Colvin missed Free Throw.
+Stanford,Arizona State,20,16,9,53,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,20,16,10,15,0,Rosco Allen Turnover.
+Stanford,Arizona State,20,16,10,25,0,Jahii Carson Turnover.
+Stanford,Arizona State,20,16,10,27,0,Gabriel Harris Steal.
+Stanford,Arizona State,20,16,10,38,0,Foul on Carrick Felix
+Stanford,Arizona State,20,16,10,38,0,Rosco Allen missed Free Throw.
+Stanford,Arizona State,20,16,10,38,0,null
+Stanford,Arizona State,21,16,10,38,1,Rosco Allen made Free Throw.
+Stanford,Arizona State,21,16,10,52,0,Jonathan Gilling missed Three Point Jumper.
+Stanford,Arizona State,21,16,10,52,0,Stanford Defensive Rebound.
+Stanford,Arizona State,21,16,11,12,0,Aaron Bright missed Three Point Jumper.
+Stanford,Arizona State,21,16,11,12,0,John Gage Offensive Rebound.
+Stanford,Arizona State,23,16,11,29,1,Dwight Powell made Jumper.  Assisted by Aaron Bright.
+Stanford,Arizona State,23,16,11,43,0,Jonathan Gilling Turnover.
+Stanford,Arizona State,23,16,11,43,0,John Gage Steal.
+Stanford,Arizona State,23,16,11,43,0,Foul on Jordan Bachynski
+Stanford,Arizona State,23,16,12,4,0,Dwight Powell missed Jumper.
+Stanford,Arizona State,23,16,12,4,0,Evan Gordon Defensive Rebound.
+Stanford,Arizona State,23,16,12,14,0,Carrick Felix missed Layup.
+Stanford,Arizona State,23,16,12,14,0,Eric Jacobsen Offensive Rebound.
+Stanford,Arizona State,23,16,12,20,0,Evan Gordon missed Three Point Jumper.
+Stanford,Arizona State,23,16,12,20,0,John Gage Defensive Rebound.
+Stanford,Arizona State,26,16,12,38,1,John Gage made Three Point Jumper.
+Stanford,Arizona State,26,16,12,42,0,Arizona State Full Timeout.
+Stanford,Arizona State,26,16,12,56,0,Evan Gordon missed Jumper.
+Stanford,Arizona State,26,16,12,56,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,29,16,13,18,1,John Gage made Three Point Jumper.  Assisted by Aaron Bright.
+Stanford,Arizona State,29,16,13,33,0,Jahii Carson missed Jumper.
+Stanford,Arizona State,29,16,13,33,0,Gabriel Harris Defensive Rebound.
+Stanford,Arizona State,29,16,13,52,0,Aaron Bright missed Three Point Jumper.
+Stanford,Arizona State,29,16,13,52,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,29,18,14,7,1,Jahii Carson made Jumper.
+Stanford,Arizona State,29,18,14,32,0,Foul on Carrick Felix
+Stanford,Arizona State,29,18,14,32,0,Official TV Timeout.
+Stanford,Arizona State,29,18,14,34,0,Aaron Bright missed Layup.
+Stanford,Arizona State,29,18,14,34,0,Ruslan Pateev Defensive Rebound.
+Stanford,Arizona State,29,18,15,0,0,Ruslan Pateev missed Jumper.
+Stanford,Arizona State,29,18,15,0,0,Jonathan Gilling Offensive Rebound.
+Stanford,Arizona State,29,18,15,3,0,Jonathan Gilling missed Jumper.
+Stanford,Arizona State,29,18,15,3,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,31,18,15,26,1,John Gage made Jumper.
+Stanford,Arizona State,31,18,15,41,0,Jahii Carson Turnover.
+Stanford,Arizona State,31,18,15,53,0,Dwight Powell missed Jumper.
+Stanford,Arizona State,31,18,15,53,0,Jahii Carson Defensive Rebound.
+Stanford,Arizona State,31,18,16,2,0,Carrick Felix missed Jumper.
+Stanford,Arizona State,31,18,16,2,0,Ruslan Pateev Offensive Rebound.
+Stanford,Arizona State,31,18,16,5,0,Foul on Gabriel Harris
+Stanford,Arizona State,31,18,16,5,0,Official TV Timeout.
+Stanford,Arizona State,31,20,16,41,1,Jahii Carson made Jumper.
+Stanford,Arizona State,31,20,17,3,0,Foul on Jonathan Gilling
+Stanford,Arizona State,34,20,17,10,1,Dwight Powell made Three Point Jumper.
+Stanford,Arizona State,34,20,17,25,0,Evan Gordon missed Layup.
+Stanford,Arizona State,34,20,17,25,0,Ruslan Pateev Offensive Rebound.
+Stanford,Arizona State,34,23,17,36,1,Carrick Felix made Three Point Jumper.  Assisted by Jonathan Gilling.
+Stanford,Arizona State,34,23,17,57,0,Josh Huestis Turnover.
+Stanford,Arizona State,34,23,17,57,0,Evan Gordon Steal.
+Stanford,Arizona State,34,23,18,8,0,Evan Gordon missed Three Point Jumper.
+Stanford,Arizona State,34,23,18,8,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,36,23,18,43,1,Josh Huestis made Jumper.  Assisted by Dwight Powell.
+Stanford,Arizona State,36,25,18,53,1,Jahii Carson made Jumper.
+Stanford,Arizona State,36,25,18,57,0,Stanford Full Timeout.
+Stanford,Arizona State,36,25,19,24,0,Christian Sanders missed Three Point Jumper.
+Stanford,Arizona State,36,25,19,24,0,Jahii Carson Defensive Rebound.
+Stanford,Arizona State,36,28,19,54,1,Jonathan Gilling made Three Point Jumper.  Assisted by Jahii Carson.
+Stanford,Arizona State,36,28,20,0,0,End of the 1st Half.
+Stanford,Arizona State,36,28,20,15,0,Chasson Randle missed Jumper.
+Stanford,Arizona State,36,28,20,15,0,Evan Gordon Block.
+Stanford,Arizona State,36,28,20,15,0,Stanford Offensive Rebound.
+Stanford,Arizona State,36,28,20,25,0,Chasson Randle missed Jumper.
+Stanford,Arizona State,36,28,20,25,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,36,28,20,31,0,Foul on Aaron Bright
+Stanford,Arizona State,36,28,20,45,0,Jahii Carson missed Layup.
+Stanford,Arizona State,36,28,20,45,0,Dwight Powell Block.
+Stanford,Arizona State,36,28,20,45,0,Arizona State Offensive Rebound.
+Stanford,Arizona State,36,28,20,47,0,Foul on Chasson Randle
+Stanford,Arizona State,36,28,20,47,0,Jonathan Gilling missed Free Throw.
+Stanford,Arizona State,36,28,20,47,0,null
+Stanford,Arizona State,36,28,20,47,0,Jonathan Gilling missed Free Throw.
+Stanford,Arizona State,36,28,20,47,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,38,28,21,10,1,Dwight Powell made Jumper.  Assisted by Aaron Bright.
+Stanford,Arizona State,38,28,21,50,0,Jonathan Gilling Turnover.
+Stanford,Arizona State,38,28,21,51,0,Josh Huestis Steal.
+Stanford,Arizona State,38,28,22,3,0,Dwight Powell missed Layup.
+Stanford,Arizona State,38,28,22,3,0,Jordan Bachynski Defensive Rebound.
+Stanford,Arizona State,38,30,22,16,1,Jordan Bachynski made Layup.  Assisted by Jonathan Gilling.
+Stanford,Arizona State,38,30,22,30,0,Foul on Jordan Bachynski
+Stanford,Arizona State,39,30,22,30,1,Dwight Powell made Free Throw.
+Stanford,Arizona State,40,30,22,30,1,Dwight Powell made Free Throw.
+Stanford,Arizona State,40,32,22,44,1,Evan Gordon made Layup.
+Stanford,Arizona State,43,32,22,57,1,Dwight Powell made Three Point Jumper.  Assisted by Aaron Bright.
+Stanford,Arizona State,43,32,23,6,0,Jahii Carson missed Jumper.
+Stanford,Arizona State,43,32,23,6,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,46,32,23,28,1,Aaron Bright made Three Point Jumper.
+Stanford,Arizona State,46,32,23,33,0,Arizona State Full Timeout.
+Stanford,Arizona State,46,32,23,46,0,Carrick Felix missed Layup.
+Stanford,Arizona State,46,32,23,46,0,Josh Huestis Block.
+Stanford,Arizona State,46,32,23,48,0,Andy Brown Defensive Rebound.
+Stanford,Arizona State,46,32,24,5,0,Dwight Powell missed Jumper.
+Stanford,Arizona State,46,32,24,5,0,Ruslan Pateev Defensive Rebound.
+Stanford,Arizona State,46,32,24,12,0,Jahii Carson missed Layup.
+Stanford,Arizona State,46,32,24,12,0,Andy Brown Defensive Rebound.
+Stanford,Arizona State,46,32,24,26,0,Aaron Bright missed Three Point Jumper.
+Stanford,Arizona State,46,32,24,26,0,Ruslan Pateev Defensive Rebound.
+Stanford,Arizona State,46,32,24,43,0,Official TV Timeout.
+Stanford,Arizona State,46,32,24,45,0,Foul on Chasson Randle
+Stanford,Arizona State,46,32,24,49,0,Evan Gordon missed Layup.
+Stanford,Arizona State,46,32,24,49,0,Josh Huestis Block.
+Stanford,Arizona State,46,32,24,51,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,48,32,25,13,1,Josh Huestis made Jumper.  Assisted by Gabriel Harris.
+Stanford,Arizona State,48,34,25,25,1,Jahii Carson made Jumper.
+Stanford,Arizona State,48,34,25,37,0,Foul on Bo Barnes
+Stanford,Arizona State,49,34,25,37,1,Josh Huestis made Free Throw.
+Stanford,Arizona State,49,34,25,37,0,Josh Huestis missed Free Throw.
+Stanford,Arizona State,49,34,25,37,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,49,37,25,57,1,Jonathan Gilling made Three Point Jumper.  Assisted by Evan Gordon.
+Stanford,Arizona State,49,37,26,36,0,Aaron Bright missed Jumper.
+Stanford,Arizona State,49,37,26,36,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,49,39,26,45,1,Jahii Carson made Layup.
+Stanford,Arizona State,49,39,26,45,0,Foul on Aaron Bright
+Stanford,Arizona State,49,39,26,45,0,Jahii Carson missed Free Throw.
+Stanford,Arizona State,49,39,26,45,0,Arizona State Offensive Rebound.
+Stanford,Arizona State,49,39,26,54,0,Evan Gordon missed Layup.
+Stanford,Arizona State,49,39,26,54,0,Dwight Powell Block.
+Stanford,Arizona State,49,39,26,56,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,52,39,27,8,1,Christian Sanders made Three Point Jumper.  Assisted by Dwight Powell.
+Stanford,Arizona State,52,39,27,15,0,Jahii Carson missed Jumper.
+Stanford,Arizona State,52,39,27,15,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,52,39,27,31,0,Foul on Christian Sanders
+Stanford,Arizona State,52,39,27,31,0,Christian Sanders Turnover.
+Stanford,Arizona State,52,39,27,44,0,Foul on Gabriel Harris
+Stanford,Arizona State,52,40,27,44,1,Carrick Felix made Free Throw.
+Stanford,Arizona State,52,41,27,44,1,Carrick Felix made Free Throw.
+Stanford,Arizona State,54,41,27,57,1,Dwight Powell made Layup.
+Stanford,Arizona State,54,44,28,17,1,Carrick Felix made Three Point Jumper.  Assisted by Jonathan Gilling.
+Stanford,Arizona State,54,44,28,33,0,Christian Sanders Turnover.
+Stanford,Arizona State,54,44,28,33,0,Official TV Timeout.
+Stanford,Arizona State,54,44,28,39,0,Evan Gordon missed Layup.
+Stanford,Arizona State,54,44,28,39,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,54,44,28,56,0,Aaron Bright Turnover.
+Stanford,Arizona State,54,44,28,57,0,Jahii Carson Steal.
+Stanford,Arizona State,54,44,28,59,0,Jonathan Gilling missed Three Point Jumper.
+Stanford,Arizona State,54,44,28,59,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,54,44,29,25,0,Josh Huestis missed Layup.
+Stanford,Arizona State,54,44,29,25,0,Jonathan Gilling Block.
+Stanford,Arizona State,54,44,29,26,0,Jahii Carson Defensive Rebound.
+Stanford,Arizona State,54,44,29,34,0,Jahii Carson missed Layup.
+Stanford,Arizona State,54,44,29,34,0,Josh Huestis Block.
+Stanford,Arizona State,54,44,29,36,0,Jonathan Gilling Offensive Rebound.
+Stanford,Arizona State,54,44,29,42,0,Carrick Felix missed Layup.
+Stanford,Arizona State,54,44,29,42,0,Stanford Defensive Rebound.
+Stanford,Arizona State,54,44,29,43,0,Foul on Chris Colvin
+Stanford,Arizona State,54,44,30,7,0,John Gage missed Jumper.
+Stanford,Arizona State,54,44,30,7,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,54,44,30,17,0,Jonathan Gilling missed Three Point Jumper.
+Stanford,Arizona State,54,44,30,17,0,Arizona State Offensive Rebound.
+Stanford,Arizona State,54,44,30,28,0,Foul on Dwight Powell
+Stanford,Arizona State,54,45,30,28,1,Jonathan Gilling made Free Throw.
+Stanford,Arizona State,54,46,30,28,1,Jonathan Gilling made Free Throw.
+Stanford,Arizona State,54,46,30,33,0,Stanford Full Timeout.
+Stanford,Arizona State,56,46,30,40,1,Dwight Powell made Layup.
+Stanford,Arizona State,56,49,30,59,1,Carrick Felix made Three Point Jumper.  Assisted by Jahii Carson.
+Stanford,Arizona State,56,49,31,17,0,Foul on Jahii Carson
+Stanford,Arizona State,56,49,31,45,0,Rosco Allen Turnover.
+Stanford,Arizona State,56,49,31,45,0,Chris Colvin Steal.
+Stanford,Arizona State,56,49,31,46,0,Arizona State Full Timeout.
+Stanford,Arizona State,56,49,32,14,0,Evan Gordon missed Three Point Jumper.
+Stanford,Arizona State,56,49,32,14,0,John Gage Defensive Rebound.
+Stanford,Arizona State,56,49,32,35,0,Andy Brown missed Three Point Jumper.
+Stanford,Arizona State,56,49,32,35,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,56,49,32,45,0,Foul on Dwight Powell
+Stanford,Arizona State,56,49,32,45,0,Official TV Timeout.
+Stanford,Arizona State,56,50,32,45,1,Jonathan Gilling made Free Throw.
+Stanford,Arizona State,56,51,32,45,1,Jonathan Gilling made Free Throw.
+Stanford,Arizona State,56,51,32,55,0,Chasson Randle Turnover.
+Stanford,Arizona State,56,51,33,11,0,Carrick Felix missed Layup.
+Stanford,Arizona State,56,51,33,11,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,58,51,33,33,1,Andy Brown made Jumper.
+Stanford,Arizona State,58,51,33,43,0,Jahii Carson missed Jumper.
+Stanford,Arizona State,58,51,33,43,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,58,51,33,53,0,Foul on Chris Colvin
+Stanford,Arizona State,58,51,34,17,0,John Gage missed Jumper.
+Stanford,Arizona State,58,51,34,17,0,Andy Brown Offensive Rebound.
+Stanford,Arizona State,58,51,34,23,0,Stanford Full Timeout.
+Stanford,Arizona State,58,51,34,41,0,John Gage missed Three Point Jumper.
+Stanford,Arizona State,58,51,34,41,0,Jonathan Gilling Defensive Rebound.
+Stanford,Arizona State,58,51,35,6,0,Jonathan Gilling missed Layup.
+Stanford,Arizona State,58,51,35,6,0,Jahii Carson Offensive Rebound.
+Stanford,Arizona State,58,51,35,22,0,Jonathan Gilling missed Three Point Jumper.
+Stanford,Arizona State,58,51,35,22,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,58,51,35,52,0,Foul on Josh Huestis
+Stanford,Arizona State,58,51,35,52,0,Josh Huestis Turnover.
+Stanford,Arizona State,58,51,36,6,0,Bo Barnes missed Three Point Jumper.
+Stanford,Arizona State,58,51,36,6,0,Dwight Powell Defensive Rebound.
+Stanford,Arizona State,58,51,36,33,0,Chasson Randle missed Three Point Jumper.
+Stanford,Arizona State,58,51,36,33,0,Bo Barnes Defensive Rebound.
+Stanford,Arizona State,58,51,36,41,0,Jahii Carson Turnover.
+Stanford,Arizona State,58,51,36,41,0,Official TV Timeout.
+Stanford,Arizona State,58,51,37,11,0,Foul on Carrick Felix
+Stanford,Arizona State,59,51,37,11,1,Dwight Powell made Free Throw.
+Stanford,Arizona State,60,51,37,11,1,Dwight Powell made Free Throw.
+Stanford,Arizona State,60,53,37,23,1,Carrick Felix made Dunk.
+Stanford,Arizona State,60,53,37,24,0,Arizona State Full Timeout.
+Stanford,Arizona State,60,53,37,44,0,Foul on Jahii Carson
+Stanford,Arizona State,60,53,37,44,0,Aaron Bright missed Free Throw.
+Stanford,Arizona State,60,53,37,44,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,60,53,38,1,0,Foul on Aaron Bright
+Stanford,Arizona State,60,54,38,1,1,Jahii Carson made Free Throw.
+Stanford,Arizona State,60,54,38,1,0,Jahii Carson missed Free Throw.
+Stanford,Arizona State,60,54,38,1,0,Jonathan Gilling Offensive Rebound.
+Stanford,Arizona State,60,54,38,5,0,Jonathan Gilling Turnover.
+Stanford,Arizona State,60,54,38,6,0,Josh Huestis Steal.
+Stanford,Arizona State,60,54,38,13,0,Stanford Full Timeout.
+Stanford,Arizona State,60,54,38,37,0,Dwight Powell missed Jumper.
+Stanford,Arizona State,60,54,38,37,0,Arizona State Defensive Rebound.
+Stanford,Arizona State,60,56,38,43,1,Jahii Carson made Layup.
+Stanford,Arizona State,60,56,38,51,0,Foul on Bo Barnes
+Stanford,Arizona State,60,56,38,51,0,Chasson Randle missed Free Throw.
+Stanford,Arizona State,60,56,38,51,0,Josh Huestis Offensive Rebound.
+Stanford,Arizona State,60,56,39,20,0,Aaron Bright missed Layup.
+Stanford,Arizona State,60,56,39,20,0,Jonathan Gilling Block.
+Stanford,Arizona State,60,56,39,22,0,Carrick Felix Defensive Rebound.
+Stanford,Arizona State,60,56,39,29,0,Evan Gordon missed Three Point Jumper.
+Stanford,Arizona State,60,56,39,29,0,Josh Huestis Defensive Rebound.
+Stanford,Arizona State,60,56,39,33,0,Foul on Jonathan Gilling
+Stanford,Arizona State,61,56,39,33,1,Aaron Bright made Free Throw.
+Stanford,Arizona State,62,56,39,33,1,Aaron Bright made Free Throw.
+Stanford,Arizona State,62,56,39,42,0,Evan Gordon missed Three Point Jumper.
+Stanford,Arizona State,62,56,39,42,0,Jonathan Gilling Offensive Rebound.
+Stanford,Arizona State,62,59,39,46,1,Jonathan Gilling made Three Point Jumper.
+Stanford,Arizona State,62,59,39,46,0,Arizona State Full Timeout.
+Stanford,Arizona State,62,59,39,49,0,Chasson Randle Turnover.
+Stanford,Arizona State,62,59,39,49,0,Chris Colvin Steal.
+Stanford,Arizona State,62,59,39,55,0,Bo Barnes missed Three Point Jumper.
+Stanford,Arizona State,62,59,39,55,0,Chasson Randle Defensive Rebound.
+Stanford,Arizona State,62,59,39,59,0,Dwight Powell Turnover.
+Stanford,Arizona State,62,59,40,0,0,Jahii Carson Turnover.
+Stanford,Arizona State,62,59,40,0,0,End of the 2nd Half.
+Stanford,Arizona State,62,59,40,0,0,Andy Brown Steal.

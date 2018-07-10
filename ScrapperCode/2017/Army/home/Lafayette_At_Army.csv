@@ -1,0 +1,340 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Lafayette,Army,0,0,0,28,0,Luke Morrison missed Three Point Jumper.
+Lafayette,Army,0,0,0,28,0,Auston Evans Defensive Rebound.
+Lafayette,Army,0,0,0,43,0,Auston Evans Turnover.
+Lafayette,Army,0,0,0,44,0,Mac Hoffman Steal.
+Lafayette,Army,0,0,0,48,0,Jordan Fox missed Jumper.
+Lafayette,Army,0,0,0,48,0,Lukas Jarrett Block.
+Lafayette,Army,0,0,0,50,0,Army Offensive Rebound.
+Lafayette,Army,0,0,0,50,0,Foul on Nick Lindner.
+Lafayette,Army,0,0,0,54,0,Jordan Fox missed Jumper.
+Lafayette,Army,0,0,0,54,0,Lafayette Defensive Rebound.
+Lafayette,Army,2,0,1,7,1,Matt Klinewski made Layup. Assisted by Lukas Jarrett.
+Lafayette,Army,2,0,1,20,0,Luke Morrison Turnover.
+Lafayette,Army,4,0,1,25,1,Matt Klinewski made Jumper. Assisted by Nick Lindner.
+Lafayette,Army,4,0,1,41,0,Luke Morrison missed Three Point Jumper.
+Lafayette,Army,4,0,1,41,0,Matt Klinewski Defensive Rebound.
+Lafayette,Army,4,0,2,7,0,Lukas Jarrett missed Jumper.
+Lafayette,Army,4,0,2,7,0,Luke Morrison Defensive Rebound.
+Lafayette,Army,4,2,2,23,1,Mac Hoffman made Jumper. Assisted by Luke Morrison.
+Lafayette,Army,6,2,2,45,1,Lukas Jarrett made Jumper. Assisted by Hunter Janacek.
+Lafayette,Army,6,2,3,8,0,Thomas Funk missed Three Point Jumper.
+Lafayette,Army,6,2,3,8,0,Hunter Janacek Defensive Rebound.
+Lafayette,Army,6,2,3,30,0,Foul on Jordan Fox.
+Lafayette,Army,6,2,3,34,0,Lukas Jarrett Turnover.
+Lafayette,Army,6,4,3,47,1,Jordan Fox made Jumper.
+Lafayette,Army,6,4,4,14,0,Auston Evans missed Jumper.
+Lafayette,Army,6,4,4,14,0,Thomas Funk Defensive Rebound.
+Lafayette,Army,6,6,4,21,1,Thomas Funk made Jumper.
+Lafayette,Army,6,6,4,28,0,Hunter Janacek missed Three Point Jumper.
+Lafayette,Army,6,6,4,28,0,Matt Klinewski Offensive Rebound.
+Lafayette,Army,6,6,4,41,0,Matt Klinewski missed Jumper.
+Lafayette,Army,6,6,4,41,0,Matthew Wilson Defensive Rebound.
+Lafayette,Army,6,6,4,53,0,Jordan Fox missed Jumper.
+Lafayette,Army,6,6,4,53,0,Auston Evans Block.
+Lafayette,Army,6,6,4,55,0,Matt Klinewski Defensive Rebound.
+Lafayette,Army,6,6,5,5,0,Hunter Janacek missed Three Point Jumper.
+Lafayette,Army,6,6,5,5,0,John Emezie Defensive Rebound.
+Lafayette,Army,6,8,5,24,1,Matthew Wilson made Jumper. Assisted by Thomas Funk.
+Lafayette,Army,6,8,5,44,0,Matt Klinewski missed Jumper.
+Lafayette,Army,6,8,5,44,0,Matthew Wilson Defensive Rebound.
+Lafayette,Army,6,8,5,55,0,Jason Houle missed Three Point Jumper.
+Lafayette,Army,6,8,5,55,0,John Emezie Offensive Rebound.
+Lafayette,Army,6,8,6,6,0,Foul on Matthew Wilson.
+Lafayette,Army,6,8,6,6,0,Cal Reichwein Turnover.
+Lafayette,Army,6,8,6,6,0,Official TV Timeout
+Lafayette,Army,9,8,6,33,1,Nick Lindner made Three Point Jumper. Assisted by Matt Klinewski.
+Lafayette,Army,9,10,6,54,1,Mac Hoffman made Layup. Assisted by Scott Mammel.
+Lafayette,Army,9,10,6,55,0,Foul on Myles Cherry.
+Lafayette,Army,9,11,6,55,1,Mac Hoffman made Free Throw.
+Lafayette,Army,9,11,7,4,0,Foul on John Emezie.
+Lafayette,Army,9,11,7,14,0,Paulius Zalys missed Layup.
+Lafayette,Army,9,11,7,14,0,Luke Morrison Defensive Rebound.
+Lafayette,Army,9,11,7,24,0,Jacob Kessler missed Three Point Jumper.
+Lafayette,Army,9,11,7,24,0,Luke Morrison Offensive Rebound.
+Lafayette,Army,9,14,7,35,1,John Emezie made Three Point Jumper. Assisted by Jordan Fox.
+Lafayette,Army,9,14,7,51,0,Nick Lindner missed Three Point Jumper.
+Lafayette,Army,9,14,7,51,0,Jacob Kessler Defensive Rebound.
+Lafayette,Army,9,16,8,2,1,Jacob Kessler made Layup. Assisted by Jordan Fox.
+Lafayette,Army,9,16,8,10,0,Lafayette  Timeout
+Lafayette,Army,11,16,8,26,1,Paulius Zalys made Jumper.
+Lafayette,Army,11,18,8,41,1,Jordan Fox made Layup.
+Lafayette,Army,11,18,8,55,0,Nick Lindner missed Jumper.
+Lafayette,Army,11,18,8,55,0,Thomas Funk Defensive Rebound.
+Lafayette,Army,11,18,9,6,0,Jason Houle missed Three Point Jumper.
+Lafayette,Army,11,18,9,6,0,Army Offensive Rebound.
+Lafayette,Army,11,20,9,25,1,Matthew Wilson made Jumper. Assisted by Thomas Funk.
+Lafayette,Army,11,20,10,6,0,Nick Lindner missed Three Point Jumper.
+Lafayette,Army,11,20,10,6,0,Matthew Wilson Defensive Rebound.
+Lafayette,Army,11,23,10,17,1,Scott Mammel made Three Point Jumper. Assisted by Jacob Kessler.
+Lafayette,Army,11,23,10,27,0,Foul on Matthew Wilson.
+Lafayette,Army,12,23,10,27,1,Auston Evans made Free Throw.
+Lafayette,Army,12,23,10,27,0,Auston Evans missed Free Throw.
+Lafayette,Army,12,23,10,27,0,Auston Evans Offensive Rebound.
+Lafayette,Army,12,23,10,34,0,Paulius Zalys missed Three Point Jumper.
+Lafayette,Army,12,23,10,34,0,Myles Cherry Offensive Rebound.
+Lafayette,Army,12,23,10,36,0,Foul on Luke Morrison.
+Lafayette,Army,12,23,10,43,0,Lukas Jarrett missed Jumper.
+Lafayette,Army,12,23,10,43,0,Luke Morrison Defensive Rebound.
+Lafayette,Army,12,23,10,49,0,Jacob Kessler missed Three Point Jumper.
+Lafayette,Army,12,23,10,49,0,Scott Mammel Offensive Rebound.
+Lafayette,Army,12,23,10,54,0,Scott Mammel missed Three Point Jumper.
+Lafayette,Army,12,23,10,54,0,Nick Lindner Defensive Rebound.
+Lafayette,Army,12,23,11,1,0,Foul on Scott Mammel.
+Lafayette,Army,12,23,11,1,0,Paulius Zalys missed Free Throw.
+Lafayette,Army,12,23,11,1,0,Lafayette Deadball Team Rebound.
+Lafayette,Army,13,23,11,1,1,Paulius Zalys made Free Throw.
+Lafayette,Army,13,25,11,18,1,Mac Hoffman made Jumper. Assisted by Scott Mammel.
+Lafayette,Army,13,25,11,29,0,Foul on Scott Mammel.
+Lafayette,Army,14,25,11,29,1,Lukas Jarrett made Free Throw.
+Lafayette,Army,15,25,11,29,1,Lukas Jarrett made Free Throw.
+Lafayette,Army,15,27,11,43,1,Thomas Funk made Layup.
+Lafayette,Army,15,27,12,16,0,Nick Lindner missed Layup.
+Lafayette,Army,15,27,12,16,0,John Emezie Block.
+Lafayette,Army,15,27,12,16,0,Lafayette Offensive Rebound.
+Lafayette,Army,15,27,12,16,0,Lafayette  Turnover.
+Lafayette,Army,15,30,12,33,1,Jordan Fox made Three Point Jumper. Assisted by Mac Hoffman.
+Lafayette,Army,15,30,12,53,0,Kyle Stout Turnover.
+Lafayette,Army,15,30,12,54,0,John Emezie Steal.
+Lafayette,Army,15,32,12,57,1,Thomas Funk made Layup. Assisted by John Emezie.
+Lafayette,Army,15,32,13,11,0,Matt Klinewski missed Jumper.
+Lafayette,Army,15,32,13,11,0,John Emezie Block.
+Lafayette,Army,15,32,13,13,0,Mac Hoffman Defensive Rebound.
+Lafayette,Army,15,34,13,19,1,Kennedy Edwards made Layup. Assisted by John Emezie.
+Lafayette,Army,15,34,13,43,0,Auston Evans missed Jumper.
+Lafayette,Army,15,34,13,43,0,Mac Hoffman Defensive Rebound.
+Lafayette,Army,15,34,13,56,0,Jordan Fox missed Three Point Jumper.
+Lafayette,Army,15,34,13,56,0,Matt Klinewski Defensive Rebound.
+Lafayette,Army,15,34,14,10,0,Matt Klinewski Turnover.
+Lafayette,Army,15,34,14,11,0,Thomas Funk Steal.
+Lafayette,Army,15,36,14,14,1,Jordan Fox made Layup. Assisted by Mac Hoffman.
+Lafayette,Army,17,36,14,35,1,Paulius Zalys made Jumper. Assisted by Nick Lindner.
+Lafayette,Army,17,38,14,57,1,John Emezie made Layup.
+Lafayette,Army,19,38,15,12,1,Hunter Janacek made Layup. Assisted by Paulius Zalys.
+Lafayette,Army,19,38,15,15,0,Foul on Jason Houle.
+Lafayette,Army,20,38,15,15,1,Hunter Janacek made Free Throw.
+Lafayette,Army,20,38,15,24,0,Jason Houle missed Three Point Jumper.
+Lafayette,Army,20,38,15,24,0,Jacob Kessler Offensive Rebound.
+Lafayette,Army,20,38,15,27,0,Foul on Hunter Janacek.
+Lafayette,Army,20,38,15,30,0,Thomas Funk missed Three Point Jumper.
+Lafayette,Army,20,38,15,30,0,Hunter Janacek Defensive Rebound.
+Lafayette,Army,20,38,15,45,0,Foul on Thomas Funk.
+Lafayette,Army,21,38,15,45,1,Paulius Zalys made Free Throw.
+Lafayette,Army,21,38,15,45,0,Paulius Zalys missed Free Throw.
+Lafayette,Army,21,38,15,45,0,Luke Morrison Defensive Rebound.
+Lafayette,Army,21,38,16,4,0,Foul on Lukas Jarrett.
+Lafayette,Army,21,38,16,4,0,Official TV Timeout
+Lafayette,Army,21,39,16,4,1,Mac Hoffman made Free Throw.
+Lafayette,Army,21,39,16,4,0,Mac Hoffman missed Free Throw.
+Lafayette,Army,21,39,16,4,0,Kyle Stout Defensive Rebound.
+Lafayette,Army,21,39,16,9,0,Hunter Janacek missed Jumper.
+Lafayette,Army,21,39,16,9,0,Mac Hoffman Defensive Rebound.
+Lafayette,Army,21,39,16,18,0,Jordan Fox missed Three Point Jumper.
+Lafayette,Army,21,39,16,19,0,Kyle Stout Defensive Rebound.
+Lafayette,Army,21,39,16,19,0,Foul on Jacob Kessler.
+Lafayette,Army,22,39,16,31,1,Kyle Stout made Free Throw.
+Lafayette,Army,23,39,16,31,1,Kyle Stout made Free Throw.
+Lafayette,Army,23,42,16,38,1,John Emezie made Three Point Jumper. Assisted by Thomas Funk.
+Lafayette,Army,23,42,16,58,0,Lukas Jarrett Turnover.
+Lafayette,Army,23,42,16,58,0,Mac Hoffman Steal.
+Lafayette,Army,23,42,17,17,0,Foul on Jacob Kessler.
+Lafayette,Army,23,42,17,17,0,Jacob Kessler Turnover.
+Lafayette,Army,23,42,17,39,0,Auston Evans Turnover.
+Lafayette,Army,23,42,17,52,0,John Emezie Turnover.
+Lafayette,Army,23,42,17,53,0,Auston Evans Steal.
+Lafayette,Army,26,42,18,3,1,Kyle Stout made Three Point Jumper. Assisted by Auston Evans.
+Lafayette,Army,26,44,18,25,1,Jordan Fox made Jumper.
+Lafayette,Army,26,44,18,47,0,Matt Klinewski missed Jumper.
+Lafayette,Army,26,44,18,47,0,Thomas Funk Defensive Rebound.
+Lafayette,Army,26,44,18,53,0,Thomas Funk Turnover.
+Lafayette,Army,26,44,19,3,0,Nick Lindner missed Jumper.
+Lafayette,Army,26,44,19,3,0,John Emezie Defensive Rebound.
+Lafayette,Army,26,46,19,12,1,John Emezie made Layup.
+Lafayette,Army,26,46,19,26,0,Matt Klinewski missed Layup.
+Lafayette,Army,26,46,19,26,0,Mac Hoffman Block.
+Lafayette,Army,26,46,19,28,0,Mac Hoffman Defensive Rebound.
+Lafayette,Army,26,46,19,39,0,Army  Timeout
+Lafayette,Army,26,46,19,57,0,Jordan Fox missed Three Point Jumper.
+Lafayette,Army,26,46,19,57,0,Army Offensive Rebound.
+Lafayette,Army,26,46,20,0,0,End of 1st half
+Lafayette,Army,28,46,20,17,1,Nick Lindner made Layup.
+Lafayette,Army,28,46,20,18,0,Foul on Thomas Funk.
+Lafayette,Army,29,46,20,18,1,Nick Lindner made Free Throw.
+Lafayette,Army,29,49,20,22,1,Luke Morrison made Three Point Jumper.
+Lafayette,Army,32,49,20,43,1,Kyle Stout made Three Point Jumper. Assisted by Hunter Janacek.
+Lafayette,Army,32,52,20,49,1,Luke Morrison made Three Point Jumper. Assisted by Thomas Funk.
+Lafayette,Army,34,52,21,32,1,Lukas Jarrett made Layup. Assisted by Paulius Zalys.
+Lafayette,Army,34,52,21,43,0,Mac Hoffman missed Jumper.
+Lafayette,Army,34,52,21,43,0,Hunter Janacek Defensive Rebound.
+Lafayette,Army,34,52,21,52,0,Foul on Mac Hoffman.
+Lafayette,Army,36,52,21,57,1,Kyle Stout made Jumper.
+Lafayette,Army,36,52,22,15,0,Matthew Wilson missed Jumper.
+Lafayette,Army,36,52,22,15,0,Lukas Jarrett Defensive Rebound.
+Lafayette,Army,36,52,22,22,0,Nick Lindner missed Three Point Jumper.
+Lafayette,Army,36,52,22,22,0,Thomas Funk Defensive Rebound.
+Lafayette,Army,36,52,22,28,0,Foul on Kyle Stout.
+Lafayette,Army,36,52,22,28,0,Thomas Funk missed Free Throw.
+Lafayette,Army,36,52,22,28,0,Army Deadball Team Rebound.
+Lafayette,Army,36,53,22,28,1,Thomas Funk made Free Throw.
+Lafayette,Army,36,53,22,32,0,Paulius Zalys Turnover.
+Lafayette,Army,36,53,22,52,0,Scott Mammel missed Three Point Jumper.
+Lafayette,Army,36,53,22,52,0,Nick Lindner Defensive Rebound.
+Lafayette,Army,36,53,23,4,0,Foul on John Emezie.
+Lafayette,Army,36,53,23,4,0,Paulius Zalys missed Free Throw.
+Lafayette,Army,36,53,23,4,0,Lafayette Deadball Team Rebound.
+Lafayette,Army,37,53,23,4,1,Paulius Zalys made Free Throw.
+Lafayette,Army,37,53,23,18,0,Cal Reichwein missed Layup.
+Lafayette,Army,37,53,23,18,0,Cal Reichwein Offensive Rebound.
+Lafayette,Army,37,53,23,19,0,Foul on Matt Klinewski.
+Lafayette,Army,37,53,23,25,0,Scott Mammel missed Three Point Jumper.
+Lafayette,Army,37,53,23,25,0,Lukas Jarrett Defensive Rebound.
+Lafayette,Army,40,53,23,40,1,Kyle Stout made Three Point Jumper. Assisted by Nick Lindner.
+Lafayette,Army,40,53,23,50,0,Luke Morrison missed Three Point Jumper.
+Lafayette,Army,40,53,23,50,0,Matt Klinewski Defensive Rebound.
+Lafayette,Army,42,53,24,1,1,Auston Evans made Jumper. Assisted by Kyle Stout.
+Lafayette,Army,42,53,24,9,0,Army  Timeout
+Lafayette,Army,42,56,24,23,1,Jordan Fox made Three Point Jumper. Assisted by John Emezie.
+Lafayette,Army,42,56,24,32,0,Kyle Stout missed Jumper.
+Lafayette,Army,42,56,24,32,0,Thomas Funk Defensive Rebound.
+Lafayette,Army,42,58,24,59,1,Thomas Funk made Jumper. Assisted by Jacob Kessler.
+Lafayette,Army,42,58,25,21,0,Foul on Jacob Kessler.
+Lafayette,Army,42,58,25,21,0,Official TV Timeout
+Lafayette,Army,42,58,25,28,0,Matt Klinewski missed Jumper.
+Lafayette,Army,42,58,25,28,0,Auston Evans Offensive Rebound.
+Lafayette,Army,42,58,25,35,0,Paulius Zalys Turnover.
+Lafayette,Army,42,58,25,36,0,Jacob Kessler Steal.
+Lafayette,Army,42,60,25,39,1,John Emezie made Layup. Assisted by Thomas Funk.
+Lafayette,Army,42,60,25,59,0,Foul on John Emezie.
+Lafayette,Army,42,60,25,59,0,Paulius Zalys missed Free Throw.
+Lafayette,Army,42,60,25,59,0,Lafayette Deadball Team Rebound.
+Lafayette,Army,43,60,25,59,1,Paulius Zalys made Free Throw.
+Lafayette,Army,43,60,26,10,0,John Emezie missed Three Point Jumper.
+Lafayette,Army,43,60,26,10,0,Kyle Stout Defensive Rebound.
+Lafayette,Army,45,60,26,25,1,Paulius Zalys made Jumper.
+Lafayette,Army,45,60,26,53,0,Thomas Funk missed Layup.
+Lafayette,Army,45,60,26,53,0,Matt Klinewski Block.
+Lafayette,Army,45,60,26,55,0,Paulius Zalys Defensive Rebound.
+Lafayette,Army,47,60,27,0,1,Paulius Zalys made Layup.
+Lafayette,Army,47,60,27,0,0,Foul on Mac Hoffman.
+Lafayette,Army,47,60,27,0,0,Paulius Zalys missed Free Throw.
+Lafayette,Army,47,60,27,0,0,Mac Hoffman Defensive Rebound.
+Lafayette,Army,49,60,27,6,1,Kyle Stout made Jumper. Assisted by Nick Lindner.
+Lafayette,Army,49,62,27,12,1,Jordan Fox made Jumper.
+Lafayette,Army,49,62,27,32,0,Jordan Fox missed Jumper.
+Lafayette,Army,49,62,27,32,0,Army Deadball Team Rebound.
+Lafayette,Army,49,62,27,46,0,Scott Mammel missed Three Point Jumper.
+Lafayette,Army,49,62,27,46,0,Lafayette Defensive Rebound.
+Lafayette,Army,49,62,27,52,0,Foul on Matthew Wilson.
+Lafayette,Army,50,62,27,52,1,Paulius Zalys made Free Throw.
+Lafayette,Army,50,62,27,52,0,Paulius Zalys missed Free Throw.
+Lafayette,Army,50,62,27,52,0,Matthew Wilson Defensive Rebound.
+Lafayette,Army,50,65,28,6,1,Jason Houle made Three Point Jumper. Assisted by Thomas Funk.
+Lafayette,Army,50,65,28,21,0,Paulius Zalys Turnover.
+Lafayette,Army,50,65,28,21,0,Official TV Timeout
+Lafayette,Army,50,65,28,42,0,Foul on Lukas Jarrett.
+Lafayette,Army,50,65,28,42,0,Matthew Wilson missed Free Throw.
+Lafayette,Army,50,65,28,42,0,Army Deadball Team Rebound.
+Lafayette,Army,50,65,28,42,0,Matthew Wilson missed Free Throw.
+Lafayette,Army,50,65,28,42,0,Hunter Janacek Defensive Rebound.
+Lafayette,Army,52,65,28,55,1,Matt Klinewski made Jumper.
+Lafayette,Army,52,65,29,10,0,Matthew Wilson Turnover.
+Lafayette,Army,52,65,29,11,0,Nick Lindner Steal.
+Lafayette,Army,55,65,29,18,1,Paulius Zalys made Three Point Jumper. Assisted by Nick Lindner.
+Lafayette,Army,55,65,29,38,0,Jason Houle missed Three Point Jumper.
+Lafayette,Army,55,65,29,38,0,Hunter Janacek Defensive Rebound.
+Lafayette,Army,55,65,29,49,0,Kyle Stout missed Three Point Jumper.
+Lafayette,Army,55,65,29,49,0,Matthew Wilson Defensive Rebound.
+Lafayette,Army,55,65,29,52,0,Foul on Paulius Zalys.
+Lafayette,Army,55,65,30,17,0,Jordan Fox missed Jumper.
+Lafayette,Army,55,65,30,17,0,Paulius Zalys Defensive Rebound.
+Lafayette,Army,57,65,30,45,1,Paulius Zalys made Jumper.
+Lafayette,Army,57,65,30,49,0,Army  Timeout
+Lafayette,Army,57,65,31,0,0,Luke Morrison missed Three Point Jumper.
+Lafayette,Army,57,65,31,0,0,Paulius Zalys Defensive Rebound.
+Lafayette,Army,57,65,31,16,0,Kyle Stout missed Jumper.
+Lafayette,Army,57,65,31,16,0,Jacob Kessler Defensive Rebound.
+Lafayette,Army,57,67,31,23,1,Luke Morrison made Layup. Assisted by Jordan Fox.
+Lafayette,Army,57,67,31,34,0,Auston Evans missed Jumper.
+Lafayette,Army,57,67,31,34,0,John Emezie Defensive Rebound.
+Lafayette,Army,57,67,31,42,0,John Emezie missed Jumper.
+Lafayette,Army,57,67,31,42,0,Mac Hoffman Offensive Rebound.
+Lafayette,Army,57,67,31,44,0,Foul on Paulius Zalys.
+Lafayette,Army,57,68,31,44,1,Mac Hoffman made Free Throw.
+Lafayette,Army,57,69,31,44,1,Mac Hoffman made Free Throw.
+Lafayette,Army,57,69,31,54,0,Foul on John Emezie.
+Lafayette,Army,58,69,31,54,1,Nick Lindner made Free Throw.
+Lafayette,Army,58,69,31,54,0,Nick Lindner missed Free Throw.
+Lafayette,Army,58,69,31,54,0,Kennedy Edwards Defensive Rebound.
+Lafayette,Army,58,69,32,0,0,Thomas Funk Turnover.
+Lafayette,Army,58,69,32,1,0,Auston Evans Steal.
+Lafayette,Army,60,69,32,5,1,Auston Evans made Jumper.
+Lafayette,Army,60,69,32,5,0,Foul on Jordan Fox.
+Lafayette,Army,60,69,32,5,0,Auston Evans missed Free Throw.
+Lafayette,Army,60,69,32,5,0,Thomas Funk Defensive Rebound.
+Lafayette,Army,60,69,32,21,0,Kennedy Edwards Turnover.
+Lafayette,Army,60,69,32,43,0,Hunter Janacek missed Three Point Jumper.
+Lafayette,Army,60,69,32,43,0,Jordan Fox Defensive Rebound.
+Lafayette,Army,60,71,32,58,1,Mac Hoffman made Jumper. Assisted by Thomas Funk.
+Lafayette,Army,60,71,33,22,0,Paulius Zalys Turnover.
+Lafayette,Army,60,71,33,24,0,Mac Hoffman Steal.
+Lafayette,Army,60,71,33,37,0,Foul on Jordan Fox.
+Lafayette,Army,60,71,33,37,0,Jordan Fox Turnover.
+Lafayette,Army,60,71,33,50,0,Nick Lindner missed Three Point Jumper.
+Lafayette,Army,60,71,33,50,0,Jacob Kessler Defensive Rebound.
+Lafayette,Army,60,71,33,58,0,Thomas Funk missed Three Point Jumper.
+Lafayette,Army,60,71,33,58,0,Mac Hoffman Offensive Rebound.
+Lafayette,Army,60,71,34,16,0,Luke Morrison missed Three Point Jumper.
+Lafayette,Army,60,71,34,16,0,Lukas Jarrett Defensive Rebound.
+Lafayette,Army,60,71,34,31,0,Foul on Mac Hoffman.
+Lafayette,Army,61,71,34,31,1,Matt Klinewski made Free Throw.
+Lafayette,Army,62,71,34,31,1,Matt Klinewski made Free Throw.
+Lafayette,Army,62,71,34,59,0,Jason Houle Turnover.
+Lafayette,Army,62,71,35,11,0,Matt Klinewski missed Jumper.
+Lafayette,Army,62,71,35,11,0,Thomas Funk Defensive Rebound.
+Lafayette,Army,62,71,35,22,0,Thomas Funk missed Three Point Jumper.
+Lafayette,Army,62,71,35,22,0,Matt Klinewski Defensive Rebound.
+Lafayette,Army,62,71,35,33,0,Matt Klinewski missed Jumper.
+Lafayette,Army,62,71,35,33,0,Kennedy Edwards Defensive Rebound.
+Lafayette,Army,62,71,36,2,0,Kennedy Edwards missed Three Point Jumper.
+Lafayette,Army,62,71,36,2,0,Paulius Zalys Defensive Rebound.
+Lafayette,Army,62,71,36,17,0,Foul on Jordan Fox.
+Lafayette,Army,62,71,36,17,0,Official TV Timeout
+Lafayette,Army,63,71,36,17,1,Nick Lindner made Free Throw.
+Lafayette,Army,64,71,36,17,1,Nick Lindner made Free Throw.
+Lafayette,Army,64,74,36,37,1,John Emezie made Three Point Jumper. Assisted by Jordan Fox.
+Lafayette,Army,64,74,36,47,0,Lafayette  Timeout
+Lafayette,Army,64,74,36,57,0,Nick Lindner missed Jumper.
+Lafayette,Army,64,74,36,57,0,Jacob Kessler Defensive Rebound.
+Lafayette,Army,64,74,37,14,0,John Emezie missed Layup.
+Lafayette,Army,64,74,37,14,0,Matt Klinewski Defensive Rebound.
+Lafayette,Army,66,74,37,23,1,Matt Klinewski made Jumper.
+Lafayette,Army,66,77,37,50,1,John Emezie made Three Point Jumper. Assisted by Jordan Fox.
+Lafayette,Army,68,77,37,59,1,Nick Lindner made Layup.
+Lafayette,Army,68,77,38,2,0,Lafayette  Timeout
+Lafayette,Army,68,77,38,9,0,Foul on Nick Lindner.
+Lafayette,Army,68,77,38,34,0,Foul on Mac Hoffman.
+Lafayette,Army,68,77,38,34,0,Mac Hoffman Turnover.
+Lafayette,Army,70,77,38,39,1,Nick Lindner made Layup.
+Lafayette,Army,70,77,39,6,0,Foul on Nick Lindner.
+Lafayette,Army,70,77,39,8,0,Thomas Funk missed Free Throw.
+Lafayette,Army,70,77,39,8,0,Paulius Zalys Defensive Rebound.
+Lafayette,Army,70,77,39,14,0,Matt Klinewski Turnover.
+Lafayette,Army,70,77,39,17,0,Foul on Nick Lindner.
+Lafayette,Army,70,78,39,17,1,Jacob Kessler made Free Throw.
+Lafayette,Army,70,78,39,17,0,Jacob Kessler missed Free Throw.
+Lafayette,Army,70,78,39,17,0,Hunter Janacek Defensive Rebound.
+Lafayette,Army,70,78,39,23,0,Paulius Zalys missed Three Point Jumper.
+Lafayette,Army,70,78,39,23,0,Jacob Kessler Defensive Rebound.
+Lafayette,Army,70,78,39,32,0,Foul on Matt Klinewski.
+Lafayette,Army,70,79,39,32,1,Jordan Fox made Free Throw.
+Lafayette,Army,70,79,39,32,0,Jordan Fox missed Free Throw.
+Lafayette,Army,70,79,39,33,0,Paulius Zalys Defensive Rebound.
+Lafayette,Army,73,79,39,40,1,Nick Lindner made Three Point Jumper.
+Lafayette,Army,73,79,39,41,0,Lafayette  Timeout
+Lafayette,Army,73,79,39,43,0,Foul on Lukas Jarrett.
+Lafayette,Army,73,79,39,43,0,Jordan Fox missed Free Throw.
+Lafayette,Army,73,79,39,43,0,Army Deadball Team Rebound.
+Lafayette,Army,73,80,39,43,1,Jordan Fox made Free Throw.
+Lafayette,Army,73,80,39,51,0,Lukas Jarrett missed Three Point Jumper.
+Lafayette,Army,73,80,39,51,0,Hunter Janacek Offensive Rebound.
+Lafayette,Army,73,80,39,56,0,Hunter Janacek Turnover.

@@ -1,0 +1,309 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+UMBC,Hartford,0,0,0,17,0,Chase Plummer missed Layup.
+UMBC,Hartford,0,0,0,17,0,Mark Nwakamma Defensive Rebound.
+UMBC,Hartford,0,0,0,48,0,Nate Sikma missed Three Point Jumper.
+UMBC,Hartford,0,0,0,48,0,Mark Nwakamma Offensive Rebound.
+UMBC,Hartford,0,2,0,52,1,Mark Nwakamma made Jumper.
+UMBC,Hartford,0,2,1,9,0,Brian Neller missed Three Point Jumper.
+UMBC,Hartford,0,2,1,9,0,UMBC Offensive Rebound.
+UMBC,Hartford,0,2,1,16,0,Foul on Chase Plummer
+UMBC,Hartford,0,2,1,16,0,Chase Plummer Turnover.
+UMBC,Hartford,0,2,1,34,0,John Peterson missed Three Point Jumper.
+UMBC,Hartford,0,2,1,34,0,Chase Plummer Defensive Rebound.
+UMBC,Hartford,2,2,1,42,1,Ryan Cook made Jumper.
+UMBC,Hartford,2,2,2,2,0,Foul on Quentin Jones
+UMBC,Hartford,2,2,2,2,0,Mark Nwakamma missed Free Throw.
+UMBC,Hartford,2,2,2,2,0,null
+UMBC,Hartford,2,2,2,2,0,Mark Nwakamma missed Free Throw.
+UMBC,Hartford,2,2,2,2,0,Adrian Satchell Defensive Rebound.
+UMBC,Hartford,2,2,2,23,0,Foul on Nate Sikma
+UMBC,Hartford,5,2,2,26,1,Ryan Cook made Three Point Jumper.  Assisted by Chase Plummer.
+UMBC,Hartford,5,2,2,39,0,John Peterson Turnover.
+UMBC,Hartford,5,2,2,49,0,Foul on Chase Plummer
+UMBC,Hartford,5,2,2,49,0,Chase Plummer Turnover.
+UMBC,Hartford,5,2,3,8,0,Mark Nwakamma Turnover.
+UMBC,Hartford,5,2,3,9,0,Adrian Satchell Steal.
+UMBC,Hartford,5,2,3,22,0,Brian Neller Turnover.
+UMBC,Hartford,5,2,3,23,0,Wes Cole Steal.
+UMBC,Hartford,5,5,3,37,1,Nate Sikma made Three Point Jumper.  Assisted by Mark Nwakamma.
+UMBC,Hartford,7,5,3,53,1,Malik Garner made Layup.
+UMBC,Hartford,7,5,4,13,0,Nate Sikma missed Three Point Jumper.
+UMBC,Hartford,7,5,4,13,0,Quentin Jones Defensive Rebound.
+UMBC,Hartford,7,5,4,22,0,Foul on Mark Nwakamma
+UMBC,Hartford,7,5,4,22,0,Official TV Timeout.
+UMBC,Hartford,7,5,4,43,0,Ryan Cook missed Three Point Jumper.
+UMBC,Hartford,7,5,4,43,0,Malik Garner Offensive Rebound.
+UMBC,Hartford,7,5,4,47,0,Malik Garner missed Jumper.
+UMBC,Hartford,7,5,4,47,0,Yolonzo Moore II Defensive Rebound.
+UMBC,Hartford,7,5,5,9,0,Evan Cooper missed Three Point Jumper.
+UMBC,Hartford,7,5,5,9,0,Mark Nwakamma Offensive Rebound.
+UMBC,Hartford,7,5,5,14,0,Wes Cole missed Three Point Jumper.
+UMBC,Hartford,7,5,5,14,0,Quentin Jones Defensive Rebound.
+UMBC,Hartford,7,5,5,34,0,Brian Neller missed Three Point Jumper.
+UMBC,Hartford,7,5,5,34,0,Adrian Satchell Offensive Rebound.
+UMBC,Hartford,7,5,5,38,0,Adrian Satchell missed Jumper.
+UMBC,Hartford,7,5,5,38,0,Wes Cole Defensive Rebound.
+UMBC,Hartford,7,5,5,57,0,Foul on Adrian Satchell
+UMBC,Hartford,7,5,6,4,0,Wes Cole missed Three Point Jumper.
+UMBC,Hartford,7,5,6,4,0,Jamie Schneck Offensive Rebound.
+UMBC,Hartford,7,5,6,11,0,Jamie Schneck missed Jumper.
+UMBC,Hartford,7,5,6,11,0,Malik Garner Defensive Rebound.
+UMBC,Hartford,7,5,6,41,0,Foul on Jamie Schneck
+UMBC,Hartford,7,5,6,47,0,Foul on Chase Plummer
+UMBC,Hartford,7,5,6,47,0,Chase Plummer Turnover.
+UMBC,Hartford,7,5,7,8,0,John Peterson Turnover.
+UMBC,Hartford,7,5,7,25,0,Ryan Cook missed Jumper.
+UMBC,Hartford,7,5,7,25,0,Evan Cooper Defensive Rebound.
+UMBC,Hartford,7,5,7,39,0,Yolonzo Moore II Turnover.
+UMBC,Hartford,7,5,8,1,0,Aaron Morgan Turnover.
+UMBC,Hartford,7,5,8,3,0,Official TV Timeout.
+UMBC,Hartford,7,5,8,27,0,Mark Nwakamma missed Jumper.
+UMBC,Hartford,7,5,8,27,0,Nate Sikma Offensive Rebound.
+UMBC,Hartford,7,5,8,30,0,Nate Sikma missed Jumper.
+UMBC,Hartford,7,5,8,30,0,Aaron Morgan Defensive Rebound.
+UMBC,Hartford,7,5,8,54,0,Brian Neller missed Three Point Jumper.
+UMBC,Hartford,7,5,8,54,0,Corban Wroe Defensive Rebound.
+UMBC,Hartford,7,7,9,2,1,Corban Wroe made Layup.  Assisted by Nate Sikma.
+UMBC,Hartford,9,7,9,23,1,Adrian Satchell made Jumper.
+UMBC,Hartford,9,9,9,45,1,Mark Nwakamma made Layup.
+UMBC,Hartford,9,9,10,10,0,Aaron Morgan missed Three Point Jumper.
+UMBC,Hartford,9,9,10,10,0,Corban Wroe Defensive Rebound.
+UMBC,Hartford,9,9,10,16,0,Foul on Adrian Satchell
+UMBC,Hartford,9,10,10,16,1,Nate Sikma made Free Throw.
+UMBC,Hartford,9,11,10,16,1,Nate Sikma made Free Throw.
+UMBC,Hartford,12,11,10,30,1,Brian Neller made Three Point Jumper.  Assisted by Joey Getz.
+UMBC,Hartford,12,13,10,57,1,Jamie Schneck made Layup.
+UMBC,Hartford,12,13,11,6,0,Ryan Cook Turnover.
+UMBC,Hartford,12,13,11,21,0,Evan Cooper missed Jumper.
+UMBC,Hartford,12,13,11,21,0,Mark Nwakamma Offensive Rebound.
+UMBC,Hartford,12,15,11,24,1,Mark Nwakamma made Jumper.
+UMBC,Hartford,12,15,11,30,0,UMBC Full Timeout.
+UMBC,Hartford,12,15,11,56,0,Aaron Morgan Turnover.
+UMBC,Hartford,12,15,11,58,0,Oren Faulk Steal.
+UMBC,Hartford,12,15,12,9,0,Jamie Schneck missed Layup.
+UMBC,Hartford,12,15,12,9,0,Brian Neller Defensive Rebound.
+UMBC,Hartford,12,15,12,18,0,Ryan Cook missed Layup.
+UMBC,Hartford,12,15,12,18,0,Ryan Cook Offensive Rebound.
+UMBC,Hartford,12,15,12,20,0,Ryan Cook missed Jumper.
+UMBC,Hartford,12,15,12,20,0,Parker U'u Defensive Rebound.
+UMBC,Hartford,12,17,12,47,1,Oren Faulk made Layup.
+UMBC,Hartford,14,17,13,13,1,Joey Getz made Jumper.
+UMBC,Hartford,14,17,13,34,0,Foul on Malik Garner
+UMBC,Hartford,14,17,13,34,0,Official TV Timeout.
+UMBC,Hartford,14,18,13,34,1,Oren Faulk made Free Throw.
+UMBC,Hartford,14,18,13,34,0,Oren Faulk missed Free Throw.
+UMBC,Hartford,14,18,13,34,0,Adrian Satchell Defensive Rebound.
+UMBC,Hartford,14,18,13,56,0,Foul on Oren Faulk
+UMBC,Hartford,14,18,14,11,0,Foul on John Peterson
+UMBC,Hartford,17,18,14,29,1,Brian Neller made Three Point Jumper.  Assisted by Ryan Cook.
+UMBC,Hartford,17,18,15,2,0,Corban Wroe missed Jumper.
+UMBC,Hartford,17,18,15,2,0,Quentin Jones Defensive Rebound.
+UMBC,Hartford,17,18,15,7,0,Quentin Jones Turnover.
+UMBC,Hartford,17,18,15,18,0,Mark Nwakamma Turnover.
+UMBC,Hartford,20,18,15,30,1,Brian Neller made Three Point Jumper.  Assisted by Quentin Jones.
+UMBC,Hartford,20,18,15,37,0,Yolonzo Moore II Turnover.
+UMBC,Hartford,20,18,15,49,0,Malik Garner missed Layup.
+UMBC,Hartford,20,18,15,49,0,Nate Sikma Defensive Rebound.
+UMBC,Hartford,20,18,15,54,0,Foul on Adrian Satchell
+UMBC,Hartford,20,19,15,54,1,Nate Sikma made Free Throw.
+UMBC,Hartford,20,20,15,54,1,Nate Sikma made Free Throw.
+UMBC,Hartford,20,20,16,12,0,Brian Neller Turnover.
+UMBC,Hartford,20,20,16,13,0,Yolonzo Moore II Steal.
+UMBC,Hartford,20,20,16,16,0,Yolonzo Moore II Turnover.
+UMBC,Hartford,20,20,16,17,0,Quentin Jones Steal.
+UMBC,Hartford,20,20,16,19,0,Quentin Jones Turnover.
+UMBC,Hartford,20,20,16,21,0,Official TV Timeout.
+UMBC,Hartford,20,20,16,33,0,Mark Nwakamma missed Jumper.
+UMBC,Hartford,20,20,16,33,0,UMBC Defensive Rebound.
+UMBC,Hartford,20,20,16,56,0,Foul on Mark Nwakamma
+UMBC,Hartford,20,20,17,2,0,Ryan Cook Turnover.
+UMBC,Hartford,20,20,17,3,0,Parker U'u Steal.
+UMBC,Hartford,20,20,17,16,0,Parker U'u Turnover.
+UMBC,Hartford,20,20,17,25,0,Brian Neller missed Three Point Jumper.
+UMBC,Hartford,20,20,17,25,0,Yolonzo Moore II Defensive Rebound.
+UMBC,Hartford,20,20,17,54,0,Yolonzo Moore II missed Three Point Jumper.
+UMBC,Hartford,20,20,17,54,0,Evan Cooper Offensive Rebound.
+UMBC,Hartford,20,22,18,11,1,Nate Sikma made Layup.
+UMBC,Hartford,20,22,18,46,0,Malik Garner missed Layup.
+UMBC,Hartford,20,22,18,46,0,Malik Garner Offensive Rebound.
+UMBC,Hartford,20,22,18,49,0,Malik Garner missed Jumper.
+UMBC,Hartford,20,22,18,49,0,Hartford Defensive Rebound.
+UMBC,Hartford,20,22,19,15,0,Nate Sikma Turnover.
+UMBC,Hartford,20,22,19,17,0,Malik Garner Steal.
+UMBC,Hartford,22,22,19,21,1,Brian Neller made Layup.
+UMBC,Hartford,22,22,19,21,0,Foul on Nate Sikma
+UMBC,Hartford,22,22,19,21,0,Brian Neller missed Free Throw.
+UMBC,Hartford,22,22,19,21,0,Nate Sikma Defensive Rebound.
+UMBC,Hartford,22,22,19,22,0,Foul on Ryan Cook
+UMBC,Hartford,22,23,19,22,1,Nate Sikma made Free Throw.
+UMBC,Hartford,22,24,19,22,1,Nate Sikma made Free Throw.
+UMBC,Hartford,22,24,19,56,0,Brian Neller missed Three Point Jumper.
+UMBC,Hartford,22,24,19,56,0,Yolonzo Moore II Defensive Rebound.
+UMBC,Hartford,22,24,20,0,0,End of the 1st Half.
+UMBC,Hartford,22,24,20,14,0,Yolonzo Moore II missed Three Point Jumper.
+UMBC,Hartford,22,24,20,14,0,Mark Nwakamma Offensive Rebound.
+UMBC,Hartford,22,24,20,29,0,John Peterson missed Three Point Jumper.
+UMBC,Hartford,22,24,20,29,0,Hartford Offensive Rebound.
+UMBC,Hartford,22,26,20,50,1,Yolonzo Moore II made Jumper.
+UMBC,Hartford,22,26,21,13,0,Foul on Ryan Cook
+UMBC,Hartford,22,26,21,13,0,Ryan Cook Turnover.
+UMBC,Hartford,22,29,21,42,1,Nate Sikma made Three Point Jumper.  Assisted by Yolonzo Moore II.
+UMBC,Hartford,22,29,21,47,0,UMBC Full Timeout.
+UMBC,Hartford,22,29,22,0,0,Foul on Corban Wroe
+UMBC,Hartford,24,29,22,2,1,Ryan Cook made Layup.
+UMBC,Hartford,24,32,22,37,1,John Peterson made Three Point Jumper.  Assisted by Yolonzo Moore II.
+UMBC,Hartford,24,32,22,52,0,Brian Neller missed Three Point Jumper.
+UMBC,Hartford,24,32,22,52,0,John Peterson Defensive Rebound.
+UMBC,Hartford,24,32,23,0,0,Yolonzo Moore II missed Jumper.
+UMBC,Hartford,24,32,23,0,0,Yolonzo Moore II Offensive Rebound.
+UMBC,Hartford,24,32,23,3,0,Yolonzo Moore II missed Jumper.
+UMBC,Hartford,24,32,23,3,0,Adrian Satchell Defensive Rebound.
+UMBC,Hartford,26,32,23,14,1,Adrian Satchell made Jumper.  Assisted by Quentin Jones.
+UMBC,Hartford,26,32,23,31,0,Mark Nwakamma Turnover.
+UMBC,Hartford,26,32,23,32,0,Ryan Cook Steal.
+UMBC,Hartford,28,32,23,35,1,Ryan Cook made Layup.
+UMBC,Hartford,28,32,23,35,0,Foul on Nate Sikma
+UMBC,Hartford,28,32,23,35,0,Ryan Cook missed Free Throw.
+UMBC,Hartford,28,32,23,35,0,Nate Sikma Defensive Rebound.
+UMBC,Hartford,28,32,23,48,0,Nate Sikma missed Three Point Jumper.
+UMBC,Hartford,28,32,23,48,0,UMBC Defensive Rebound.
+UMBC,Hartford,28,32,23,57,0,Foul on Oren Faulk
+UMBC,Hartford,31,32,23,58,1,Ryan Cook made Three Point Jumper.  Assisted by Adrian Satchell.
+UMBC,Hartford,31,32,24,7,0,Foul on Quentin Jones
+UMBC,Hartford,31,32,24,13,0,Official TV Timeout.
+UMBC,Hartford,31,32,24,38,0,John Peterson Turnover.
+UMBC,Hartford,31,32,24,40,0,Adrian Satchell Steal.
+UMBC,Hartford,33,32,24,50,1,Ryan Cook made Jumper.
+UMBC,Hartford,33,34,25,7,1,Mark Nwakamma made Layup.
+UMBC,Hartford,33,34,25,7,0,Foul on Quentin Jones
+UMBC,Hartford,33,35,25,7,1,Mark Nwakamma made Free Throw.
+UMBC,Hartford,35,35,25,23,1,Ryan Cook made Layup.  Assisted by Chase Plummer.
+UMBC,Hartford,35,35,25,47,0,Foul on Malik Garner
+UMBC,Hartford,35,35,25,47,0,Oren Faulk missed Free Throw.
+UMBC,Hartford,35,35,25,47,0,null
+UMBC,Hartford,35,35,25,47,0,Oren Faulk missed Free Throw.
+UMBC,Hartford,35,35,25,47,0,UMBC Defensive Rebound.
+UMBC,Hartford,35,35,25,58,0,Foul on Jamie Schneck
+UMBC,Hartford,35,35,25,58,0,Chase Plummer missed Free Throw.
+UMBC,Hartford,35,35,25,58,0,null
+UMBC,Hartford,35,35,25,58,0,Chase Plummer missed Free Throw.
+UMBC,Hartford,35,35,25,58,0,Corban Wroe Defensive Rebound.
+UMBC,Hartford,35,35,26,20,0,Mark Nwakamma missed Jumper.
+UMBC,Hartford,35,35,26,20,0,Corban Wroe Offensive Rebound.
+UMBC,Hartford,35,35,26,25,0,Evan Cooper missed Three Point Jumper.
+UMBC,Hartford,35,35,26,25,0,John Peterson Offensive Rebound.
+UMBC,Hartford,35,35,26,31,0,Jamie Schneck Turnover.
+UMBC,Hartford,35,35,26,32,0,Brian Neller Steal.
+UMBC,Hartford,37,35,26,34,1,Ryan Cook made Layup.
+UMBC,Hartford,37,35,26,34,0,Foul on Corban Wroe
+UMBC,Hartford,38,35,26,34,1,Ryan Cook made Free Throw.
+UMBC,Hartford,38,35,26,53,0,Jamie Schneck Turnover.
+UMBC,Hartford,38,35,27,10,0,Brian Neller Turnover.
+UMBC,Hartford,38,35,27,11,0,Nate Sikma Steal.
+UMBC,Hartford,38,37,27,15,1,Yolonzo Moore II made Layup.  Assisted by Nate Sikma.
+UMBC,Hartford,41,37,27,28,1,Brian Neller made Three Point Jumper.  Assisted by Malik Garner.
+UMBC,Hartford,41,39,27,38,1,Evan Cooper made Layup.  Assisted by Nate Sikma.
+UMBC,Hartford,44,39,28,3,1,Aaron Morgan made Three Point Jumper.  Assisted by Malik Garner.
+UMBC,Hartford,44,39,28,29,0,Yolonzo Moore II missed Three Point Jumper.
+UMBC,Hartford,44,39,28,29,0,Malik Garner Defensive Rebound.
+UMBC,Hartford,44,39,28,48,0,Foul on Evan Cooper
+UMBC,Hartford,44,39,28,48,0,Official TV Timeout.
+UMBC,Hartford,45,39,28,48,1,Ryan Cook made Free Throw.
+UMBC,Hartford,46,39,28,48,1,Ryan Cook made Free Throw.
+UMBC,Hartford,46,39,29,6,0,Mark Nwakamma Turnover.
+UMBC,Hartford,46,39,29,25,0,Adrian Satchell missed Jumper.
+UMBC,Hartford,46,39,29,25,0,Mark Nwakamma Defensive Rebound.
+UMBC,Hartford,46,41,29,45,1,Mark Nwakamma made Layup.
+UMBC,Hartford,46,41,30,13,0,Malik Garner Turnover.
+UMBC,Hartford,46,41,30,14,0,John Peterson Steal.
+UMBC,Hartford,46,41,30,17,0,Corban Wroe Turnover.
+UMBC,Hartford,48,41,30,27,1,Chase Plummer made Layup.
+UMBC,Hartford,48,41,30,46,0,Foul on Joey Getz
+UMBC,Hartford,48,42,30,46,1,Mark Nwakamma made Free Throw.
+UMBC,Hartford,48,43,30,46,1,Mark Nwakamma made Free Throw.
+UMBC,Hartford,48,43,30,54,0,Malik Garner Turnover.
+UMBC,Hartford,48,43,30,56,0,Corban Wroe Steal.
+UMBC,Hartford,48,43,31,17,0,Hartford Full Timeout.
+UMBC,Hartford,48,46,31,26,1,Nate Sikma made Three Point Jumper.  Assisted by Yolonzo Moore II.
+UMBC,Hartford,48,46,31,41,0,Foul on Mark Nwakamma
+UMBC,Hartford,48,46,31,41,0,Chase Plummer missed Free Throw.
+UMBC,Hartford,48,46,31,41,0,null
+UMBC,Hartford,49,46,31,41,1,Chase Plummer made Free Throw.
+UMBC,Hartford,49,46,31,51,0,Foul on Malik Garner
+UMBC,Hartford,49,47,31,51,1,Evan Cooper made Free Throw.
+UMBC,Hartford,49,48,31,51,1,Evan Cooper made Free Throw.
+UMBC,Hartford,49,48,32,10,0,Ryan Cook missed Jumper.
+UMBC,Hartford,49,48,32,10,0,Adrian Satchell Offensive Rebound.
+UMBC,Hartford,51,48,32,14,1,Adrian Satchell made Layup.
+UMBC,Hartford,51,48,32,39,0,Foul on Ryan Cook
+UMBC,Hartford,51,48,32,39,0,Official TV Timeout.
+UMBC,Hartford,51,49,32,39,1,Corban Wroe made Free Throw.
+UMBC,Hartford,51,50,32,39,1,Corban Wroe made Free Throw.
+UMBC,Hartford,51,50,33,0,0,Foul on Mark Nwakamma
+UMBC,Hartford,51,50,33,0,0,Chase Plummer missed Free Throw.
+UMBC,Hartford,51,50,33,0,0,null
+UMBC,Hartford,52,50,33,0,1,Chase Plummer made Free Throw.
+UMBC,Hartford,52,50,33,34,0,Nate Sikma missed Three Point Jumper.
+UMBC,Hartford,52,50,33,34,0,Adrian Satchell Defensive Rebound.
+UMBC,Hartford,52,50,33,58,0,Foul on Mark Nwakamma
+UMBC,Hartford,52,50,33,58,0,Chase Plummer missed Free Throw.
+UMBC,Hartford,52,50,33,58,0,null
+UMBC,Hartford,53,50,33,58,1,Chase Plummer made Free Throw.
+UMBC,Hartford,53,50,34,22,0,Foul on Adrian Satchell
+UMBC,Hartford,53,50,34,22,0,Yolonzo Moore II missed Free Throw.
+UMBC,Hartford,53,50,34,22,0,null
+UMBC,Hartford,53,51,34,22,1,Yolonzo Moore II made Free Throw.
+UMBC,Hartford,53,51,34,40,0,Foul on Evan Cooper
+UMBC,Hartford,54,51,34,40,1,Ryan Cook made Free Throw.
+UMBC,Hartford,55,51,34,40,1,Ryan Cook made Free Throw.
+UMBC,Hartford,55,51,35,0,0,Nate Sikma missed Three Point Jumper.
+UMBC,Hartford,55,51,35,0,0,Malik Garner Defensive Rebound.
+UMBC,Hartford,55,51,35,20,0,Brian Neller Turnover.
+UMBC,Hartford,55,51,35,22,0,Wes Cole Steal.
+UMBC,Hartford,55,51,35,26,0,John Peterson missed Three Point Jumper.
+UMBC,Hartford,55,51,35,26,0,Ryan Cook Defensive Rebound.
+UMBC,Hartford,55,51,35,30,0,UMBC Full Timeout.
+UMBC,Hartford,55,51,35,49,0,Foul on Nate Sikma
+UMBC,Hartford,56,51,35,49,1,Chase Plummer made Free Throw.
+UMBC,Hartford,57,51,35,49,1,Chase Plummer made Free Throw.
+UMBC,Hartford,57,51,35,59,0,Nate Sikma missed Three Point Jumper.
+UMBC,Hartford,57,51,35,59,0,Malik Garner Defensive Rebound.
+UMBC,Hartford,60,51,36,8,1,Brian Neller made Three Point Jumper.  Assisted by Ryan Cook.
+UMBC,Hartford,60,51,36,13,0,Hartford Full Timeout.
+UMBC,Hartford,60,54,36,29,1,Evan Cooper made Three Point Jumper.  Assisted by Wes Cole.
+UMBC,Hartford,60,54,36,40,0,Official TV Timeout.
+UMBC,Hartford,60,54,36,58,0,Chase Plummer missed Layup.
+UMBC,Hartford,60,54,36,58,0,Jamie Schneck Defensive Rebound.
+UMBC,Hartford,60,56,37,7,1,Corban Wroe made Layup.  Assisted by Evan Cooper.
+UMBC,Hartford,60,56,37,31,0,Ryan Cook Turnover.
+UMBC,Hartford,60,56,37,45,0,Evan Cooper missed Three Point Jumper.
+UMBC,Hartford,60,56,37,45,0,UMBC Defensive Rebound.
+UMBC,Hartford,60,56,37,57,0,UMBC Full Timeout.
+UMBC,Hartford,60,56,38,18,0,Foul on Parker U'u
+UMBC,Hartford,60,56,38,18,0,Chase Plummer missed Free Throw.
+UMBC,Hartford,60,56,38,18,0,null
+UMBC,Hartford,61,56,38,18,1,Chase Plummer made Free Throw.
+UMBC,Hartford,61,59,38,32,1,Wes Cole made Three Point Jumper.  Assisted by Yolonzo Moore II.
+UMBC,Hartford,64,59,38,47,1,Brian Neller made Three Point Jumper.  Assisted by Adrian Satchell.
+UMBC,Hartford,64,59,38,59,0,Nate Sikma missed Three Point Jumper.
+UMBC,Hartford,64,59,38,59,0,Malik Garner Defensive Rebound.
+UMBC,Hartford,64,59,39,0,0,Foul on John Peterson
+UMBC,Hartford,64,59,39,0,0,Malik Garner missed Free Throw.
+UMBC,Hartford,64,59,39,0,0,null
+UMBC,Hartford,64,59,39,0,0,Malik Garner missed Free Throw.
+UMBC,Hartford,64,59,39,0,0,Adrian Satchell Offensive Rebound.
+UMBC,Hartford,66,59,39,8,1,Adrian Satchell made Layup.
+UMBC,Hartford,66,59,39,22,0,Evan Cooper missed Three Point Jumper.
+UMBC,Hartford,66,59,39,22,0,Quentin Jones Defensive Rebound.
+UMBC,Hartford,68,59,39,28,1,Malik Garner made Layup.  Assisted by Quentin Jones.
+UMBC,Hartford,68,62,39,37,1,Wes Cole made Three Point Jumper.  Assisted by Evan Cooper.
+UMBC,Hartford,68,62,39,39,0,Hartford Full Timeout.
+UMBC,Hartford,68,62,39,42,0,Foul on Corban Wroe
+UMBC,Hartford,68,62,39,42,0,Ryan Cook missed Free Throw.
+UMBC,Hartford,68,62,39,42,0,null
+UMBC,Hartford,69,62,39,42,1,Ryan Cook made Free Throw.
+UMBC,Hartford,69,62,39,44,0,John Peterson missed Three Point Jumper.
+UMBC,Hartford,69,62,39,44,0,Wes Cole Offensive Rebound.
+UMBC,Hartford,69,62,39,47,0,Yolonzo Moore II missed Three Point Jumper.
+UMBC,Hartford,69,62,39,47,0,UMBC Defensive Rebound.
+UMBC,Hartford,69,62,40,0,0,End Game

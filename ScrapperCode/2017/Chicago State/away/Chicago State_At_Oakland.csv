@@ -1,0 +1,388 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Chicago State,Oakland,0,0,0,15,0,Stevie Clark missed Three Point Jumper.
+Chicago State,Oakland,0,0,0,15,0,Glen Burns Defensive Rebound.
+Chicago State,Oakland,0,0,0,41,0,Deionte Simmons missed Jumper.
+Chicago State,Oakland,0,0,0,41,0,Brad Brechting Block.
+Chicago State,Oakland,0,0,0,44,0,Sherron Dorsey-Walker Defensive Rebound.
+Chicago State,Oakland,0,0,0,50,0,Martez Walker missed Three Point Jumper.
+Chicago State,Oakland,0,0,0,50,0,Jalen Hayes Offensive Rebound.
+Chicago State,Oakland,0,0,0,58,0,Martez Walker missed Layup.
+Chicago State,Oakland,0,0,0,58,0,Brad Brechting Offensive Rebound.
+Chicago State,Oakland,0,2,1,3,1,Brad Brechting made Layup.
+Chicago State,Oakland,2,2,1,19,1,Fred Sims Jr. made Jumper. Assisted by Glen Burns.
+Chicago State,Oakland,2,2,1,21,0,Foul on Brad Brechting.
+Chicago State,Oakland,2,2,1,21,0,Brad Brechting Turnover.
+Chicago State,Oakland,2,2,1,21,0,Deionte Simmons missed Layup.
+Chicago State,Oakland,2,2,1,21,0,Xavier Hill-Mais Block.
+Chicago State,Oakland,2,2,1,21,0,Stevie Clark Defensive Rebound.
+Chicago State,Oakland,2,4,1,33,1,Sherron Dorsey-Walker made Layup. Assisted by Stevie Clark.
+Chicago State,Oakland,5,4,1,43,1,Fred Sims Jr. made Three Point Jumper. Assisted by Clemmye Owens V.
+Chicago State,Oakland,5,6,1,51,1,Jalen Hayes made Dunk. Assisted by Sherron Dorsey-Walker.
+Chicago State,Oakland,5,6,2,5,0,Clemmye Owens V Turnover.
+Chicago State,Oakland,5,6,2,17,0,Sherron Dorsey-Walker missed Three Point Jumper.
+Chicago State,Oakland,5,6,2,17,0,Trayvon Palmer Defensive Rebound.
+Chicago State,Oakland,7,6,2,23,1,Fred Sims Jr. made Jumper.
+Chicago State,Oakland,7,6,2,33,0,Martez Walker missed Three Point Jumper.
+Chicago State,Oakland,7,6,2,33,0,Glen Burns Defensive Rebound.
+Chicago State,Oakland,7,6,2,50,0,Foul on Sherron Dorsey-Walker.
+Chicago State,Oakland,7,6,2,52,0,Trayvon Palmer missed Jumper.
+Chicago State,Oakland,7,6,2,52,0,Jalen Hayes Defensive Rebound.
+Chicago State,Oakland,7,6,3,8,0,Stevie Clark missed Three Point Jumper.
+Chicago State,Oakland,7,6,3,8,0,Glen Burns Defensive Rebound.
+Chicago State,Oakland,9,6,3,15,1,Clemmye Owens V made Layup. Assisted by Fred Sims Jr..
+Chicago State,Oakland,9,8,3,22,1,Martez Walker made Layup. Assisted by Stevie Clark.
+Chicago State,Oakland,9,8,3,28,0,Foul on Stevie Clark.
+Chicago State,Oakland,9,8,3,28,0,Glen Burns missed Free Throw.
+Chicago State,Oakland,9,8,3,28,0,Chicago St Deadball Team Rebound.
+Chicago State,Oakland,9,8,3,28,0,Glen Burns missed Free Throw.
+Chicago State,Oakland,9,8,3,28,0,Jalen Hayes Defensive Rebound.
+Chicago State,Oakland,9,8,3,36,0,Foul on Trayvon Palmer.
+Chicago State,Oakland,9,8,3,36,0,Martez Walker missed Free Throw.
+Chicago State,Oakland,9,8,3,36,0,Oakland Deadball Team Rebound.
+Chicago State,Oakland,9,9,3,36,1,Martez Walker made Free Throw.
+Chicago State,Oakland,9,9,3,51,0,Fred Sims Jr. missed Jumper.
+Chicago State,Oakland,9,9,3,51,0,Martez Walker Defensive Rebound.
+Chicago State,Oakland,9,9,3,59,0,Martez Walker Turnover.
+Chicago State,Oakland,9,9,4,1,0,Fred Sims Jr. Steal.
+Chicago State,Oakland,11,9,4,3,1,Deionte Simmons made Layup. Assisted by Fred Sims Jr..
+Chicago State,Oakland,11,12,4,18,1,Stevie Clark made Three Point Jumper. Assisted by Sherron Dorsey-Walker.
+Chicago State,Oakland,11,12,4,20,0,Foul on Xavier Hill-Mais.
+Chicago State,Oakland,11,12,4,20,0,Official TV Timeout
+Chicago State,Oakland,11,12,4,32,0,Foul on Deionte Simmons.
+Chicago State,Oakland,11,12,4,32,0,Deionte Simmons Turnover.
+Chicago State,Oakland,11,15,4,47,1,Brailen Neely made Three Point Jumper. Assisted by Nick Daniels.
+Chicago State,Oakland,11,15,5,19,0,Trayvon Palmer missed Three Point Jumper.
+Chicago State,Oakland,11,15,5,19,0,Brailen Neely Defensive Rebound.
+Chicago State,Oakland,11,15,5,47,0,Sherron Dorsey-Walker missed Layup.
+Chicago State,Oakland,11,15,5,47,0,Oakland Offensive Rebound.
+Chicago State,Oakland,11,15,5,49,0,Oakland  Timeout
+Chicago State,Oakland,11,15,5,50,0,Sherron Dorsey-Walker missed Three Point Jumper.
+Chicago State,Oakland,11,15,5,50,0,Deionte Simmons Defensive Rebound.
+Chicago State,Oakland,11,15,6,1,0,Deionte Simmons missed Jumper.
+Chicago State,Oakland,11,15,6,1,0,Jalen Hayes Defensive Rebound.
+Chicago State,Oakland,11,15,6,19,0,Jalen Hayes missed Jumper.
+Chicago State,Oakland,11,15,6,19,0,Clemmye Owens V Defensive Rebound.
+Chicago State,Oakland,11,15,6,41,0,Clemmye Owens V missed Three Point Jumper.
+Chicago State,Oakland,11,15,6,41,0,Sherron Dorsey-Walker Block.
+Chicago State,Oakland,11,15,6,44,0,Xavier Hill-Mais Defensive Rebound.
+Chicago State,Oakland,11,17,6,52,1,Jalen Hayes made Dunk. Assisted by Xavier Hill-Mais.
+Chicago State,Oakland,11,17,7,19,0,Glen Burns missed Three Point Jumper.
+Chicago State,Oakland,11,17,7,19,0,Jalen Hayes Defensive Rebound.
+Chicago State,Oakland,11,17,7,27,0,Stevie Clark missed Three Point Jumper.
+Chicago State,Oakland,11,17,7,27,0,Chicago St Defensive Rebound.
+Chicago State,Oakland,13,17,7,42,1,Fred Sims Jr. made Jumper.
+Chicago State,Oakland,13,17,7,46,0,Foul on Fred Sims Jr..
+Chicago State,Oakland,13,17,8,0,0,Martez Walker missed Layup.
+Chicago State,Oakland,13,17,8,0,0,Glen Burns Defensive Rebound.
+Chicago State,Oakland,13,17,8,29,0,Trayvon Palmer missed Three Point Jumper.
+Chicago State,Oakland,13,17,8,29,0,Stevie Clark Defensive Rebound.
+Chicago State,Oakland,13,19,8,35,1,Martez Walker made Dunk. Assisted by Stevie Clark.
+Chicago State,Oakland,13,19,8,38,0,Chicago St  Timeout
+Chicago State,Oakland,13,19,8,50,0,Brian Greene Jr. missed Jumper.
+Chicago State,Oakland,13,19,8,50,0,Stevie Clark Defensive Rebound.
+Chicago State,Oakland,13,19,9,1,0,Xavier Hill-Mais Turnover.
+Chicago State,Oakland,13,19,9,11,0,Glen Burns missed Jumper.
+Chicago State,Oakland,13,19,9,11,0,Stevie Clark Defensive Rebound.
+Chicago State,Oakland,13,19,9,16,0,Foul on Trayvon Palmer.
+Chicago State,Oakland,13,20,9,16,1,Nick Daniels made Free Throw.
+Chicago State,Oakland,13,21,9,16,1,Nick Daniels made Free Throw.
+Chicago State,Oakland,13,21,9,36,0,Foul on Stevie Clark.
+Chicago State,Oakland,14,21,9,36,1,Patrick Szpir made Free Throw.
+Chicago State,Oakland,14,21,9,36,0,Patrick Szpir missed Free Throw.
+Chicago State,Oakland,14,21,9,36,0,Oakland Defensive Rebound.
+Chicago State,Oakland,14,21,9,38,0,Stevie Clark Turnover.
+Chicago State,Oakland,14,21,9,40,0,Joshua Batson Steal.
+Chicago State,Oakland,16,21,9,47,1,Delundre Dixon made Layup.
+Chicago State,Oakland,16,21,10,2,0,Foul on Patrick Szpir.
+Chicago State,Oakland,16,21,10,20,0,Foul on Delundre Dixon.
+Chicago State,Oakland,16,22,10,20,1,Jalen Hayes made Free Throw.
+Chicago State,Oakland,16,22,10,20,0,Jalen Hayes missed Free Throw.
+Chicago State,Oakland,16,22,10,20,0,Patrick Szpir Defensive Rebound.
+Chicago State,Oakland,16,22,10,40,0,Foul on Clemmye Owens V.
+Chicago State,Oakland,16,22,10,40,0,Clemmye Owens V Turnover.
+Chicago State,Oakland,16,22,10,47,0,Martez Walker missed Three Point Jumper.
+Chicago State,Oakland,16,22,10,47,0,Patrick Szpir Defensive Rebound.
+Chicago State,Oakland,18,22,11,1,1,Clemmye Owens V made Layup.
+Chicago State,Oakland,18,22,11,10,0,Foul on Brian Greene Jr..
+Chicago State,Oakland,18,23,11,10,1,Stevie Clark made Free Throw.
+Chicago State,Oakland,18,24,11,10,1,Stevie Clark made Free Throw.
+Chicago State,Oakland,18,24,11,26,0,Clemmye Owens V missed Three Point Jumper.
+Chicago State,Oakland,18,24,11,26,0,Jalen Hayes Defensive Rebound.
+Chicago State,Oakland,18,27,11,36,1,Martez Walker made Three Point Jumper. Assisted by Sherron Dorsey-Walker.
+Chicago State,Oakland,18,27,11,55,0,Clemmye Owens V Turnover.
+Chicago State,Oakland,18,27,11,57,0,Chris Palombizio Steal.
+Chicago State,Oakland,18,27,11,59,0,Martez Walker Turnover.
+Chicago State,Oakland,21,27,12,22,1,Brian Greene Jr. made Three Point Jumper. Assisted by Patrick Szpir.
+Chicago State,Oakland,21,30,12,49,1,Chris Palombizio made Three Point Jumper. Assisted by Jalen Hayes.
+Chicago State,Oakland,24,30,13,0,1,Delundre Dixon made Three Point Jumper. Assisted by Patrick Szpir.
+Chicago State,Oakland,24,30,13,11,0,Chris Palombizio missed Three Point Jumper.
+Chicago State,Oakland,24,30,13,11,0,Brian Greene Jr. Defensive Rebound.
+Chicago State,Oakland,24,30,13,21,0,Joshua Batson missed Three Point Jumper.
+Chicago State,Oakland,24,30,13,21,0,Sherron Dorsey-Walker Defensive Rebound.
+Chicago State,Oakland,24,30,13,28,0,Foul on Joshua Batson.
+Chicago State,Oakland,24,30,13,28,0,Official TV Timeout
+Chicago State,Oakland,24,31,13,28,1,Sherron Dorsey-Walker made Free Throw.
+Chicago State,Oakland,24,32,13,28,1,Sherron Dorsey-Walker made Free Throw.
+Chicago State,Oakland,24,32,13,44,0,Brian Greene Jr. missed Layup.
+Chicago State,Oakland,24,32,13,44,0,Jalen Hayes Defensive Rebound.
+Chicago State,Oakland,24,32,13,57,0,Chris Palombizio missed Three Point Jumper.
+Chicago State,Oakland,24,32,13,57,0,Martez Walker Offensive Rebound.
+Chicago State,Oakland,24,32,14,2,0,Martez Walker missed Layup.
+Chicago State,Oakland,24,32,14,2,0,Patrick Szpir Defensive Rebound.
+Chicago State,Oakland,26,32,14,7,1,Fred Sims Jr. made Jumper.
+Chicago State,Oakland,26,32,14,25,0,Sherron Dorsey-Walker missed Three Point Jumper.
+Chicago State,Oakland,26,32,14,25,0,Chris Palombizio Offensive Rebound.
+Chicago State,Oakland,26,32,14,30,0,Chris Palombizio missed Jumper.
+Chicago State,Oakland,26,32,14,30,0,Brian Greene Jr. Block.
+Chicago State,Oakland,26,32,14,33,0,Brian Greene Jr. Defensive Rebound.
+Chicago State,Oakland,26,32,14,39,0,Fred Sims Jr. missed Three Point Jumper.
+Chicago State,Oakland,26,32,14,39,0,Chris Palombizio Defensive Rebound.
+Chicago State,Oakland,26,34,14,51,1,Chris Palombizio made Jumper. Assisted by Xavier Hill-Mais.
+Chicago State,Oakland,26,34,15,11,0,Delundre Dixon missed Three Point Jumper.
+Chicago State,Oakland,26,34,15,11,0,Chris Palombizio Defensive Rebound.
+Chicago State,Oakland,26,37,15,22,1,Martez Walker made Three Point Jumper. Assisted by Chris Palombizio.
+Chicago State,Oakland,26,37,15,37,0,Foul on Sherron Dorsey-Walker.
+Chicago State,Oakland,26,37,15,51,0,Patrick Szpir Turnover.
+Chicago State,Oakland,26,37,15,52,0,Jalen Hayes Steal.
+Chicago State,Oakland,26,37,15,57,0,Nick Daniels missed Three Point Jumper.
+Chicago State,Oakland,26,37,15,57,0,Xavier Hill-Mais Offensive Rebound.
+Chicago State,Oakland,26,39,16,2,1,Xavier Hill-Mais made Layup.
+Chicago State,Oakland,26,39,16,29,0,Glen Burns Turnover.
+Chicago State,Oakland,26,39,16,29,0,Official TV Timeout
+Chicago State,Oakland,26,39,16,30,0,Foul on Glen Burns.
+Chicago State,Oakland,26,40,16,30,1,Brailen Neely made Free Throw.
+Chicago State,Oakland,26,41,16,30,1,Brailen Neely made Free Throw.
+Chicago State,Oakland,26,41,16,46,0,Brian Greene Jr. missed Layup.
+Chicago State,Oakland,26,41,16,46,0,Jaevin Cumberland Defensive Rebound.
+Chicago State,Oakland,26,41,16,53,0,Nick Daniels missed Three Point Jumper.
+Chicago State,Oakland,26,41,16,53,0,Brian Greene Jr. Defensive Rebound.
+Chicago State,Oakland,26,41,17,0,0,Foul on Nick Daniels.
+Chicago State,Oakland,26,41,17,0,0,Brian Greene Jr. missed Free Throw.
+Chicago State,Oakland,26,41,17,0,0,Chicago St Deadball Team Rebound.
+Chicago State,Oakland,27,41,17,0,1,Brian Greene Jr. made Free Throw.
+Chicago State,Oakland,27,41,17,5,0,Foul on Fred Sims Jr..
+Chicago State,Oakland,27,42,17,5,1,Nick Daniels made Free Throw.
+Chicago State,Oakland,27,43,17,5,1,Nick Daniels made Free Throw.
+Chicago State,Oakland,27,43,17,19,0,Foul on Xavier Hill-Mais.
+Chicago State,Oakland,28,43,17,19,1,Deionte Simmons made Free Throw.
+Chicago State,Oakland,29,43,17,19,1,Deionte Simmons made Free Throw.
+Chicago State,Oakland,29,43,17,25,0,Foul on Joshua Batson.
+Chicago State,Oakland,29,44,17,25,1,Brailen Neely made Free Throw.
+Chicago State,Oakland,29,44,17,25,0,Brailen Neely missed Free Throw.
+Chicago State,Oakland,29,44,17,25,0,Deionte Simmons Defensive Rebound.
+Chicago State,Oakland,29,44,17,52,0,Clemmye Owens V missed Jumper.
+Chicago State,Oakland,29,44,17,52,0,Jalen Hayes Defensive Rebound.
+Chicago State,Oakland,29,46,18,16,1,Brailen Neely made Layup.
+Chicago State,Oakland,29,46,18,41,0,Foul on Isaiah Brock.
+Chicago State,Oakland,30,46,18,41,1,Brian Greene Jr. made Free Throw.
+Chicago State,Oakland,31,46,18,41,1,Brian Greene Jr. made Free Throw.
+Chicago State,Oakland,31,46,18,48,0,Brailen Neely missed Three Point Jumper.
+Chicago State,Oakland,31,46,18,48,0,Chicago St Defensive Rebound.
+Chicago State,Oakland,31,46,19,2,0,Foul on Martez Walker.
+Chicago State,Oakland,32,46,19,2,1,Glen Burns made Free Throw.
+Chicago State,Oakland,33,46,19,2,1,Glen Burns made Free Throw.
+Chicago State,Oakland,33,46,19,21,0,Brailen Neely Turnover.
+Chicago State,Oakland,33,46,19,23,0,Brian Greene Jr. Steal.
+Chicago State,Oakland,33,46,19,25,0,Brian Greene Jr. Turnover.
+Chicago State,Oakland,33,46,19,27,0,Brailen Neely Steal.
+Chicago State,Oakland,33,48,19,31,1,Jalen Hayes made Dunk. Assisted by Brailen Neely.
+Chicago State,Oakland,33,48,19,51,0,Foul on Brailen Neely.
+Chicago State,Oakland,34,48,19,51,1,Glen Burns made Free Throw.
+Chicago State,Oakland,34,48,19,51,0,Glen Burns missed Free Throw.
+Chicago State,Oakland,34,48,19,51,0,Isaiah Brock Defensive Rebound.
+Chicago State,Oakland,34,48,19,58,0,Martez Walker missed Three Point Jumper.
+Chicago State,Oakland,34,48,19,58,0,Deionte Simmons Defensive Rebound.
+Chicago State,Oakland,34,48,20,0,0,End of 1st half
+Chicago State,Oakland,34,48,20,12,0,Deionte Simmons missed Layup.
+Chicago State,Oakland,34,48,20,12,0,Isaiah Brock Block.
+Chicago State,Oakland,34,48,20,15,0,Jalen Hayes Defensive Rebound.
+Chicago State,Oakland,34,48,20,30,0,Jalen Hayes missed Jumper.
+Chicago State,Oakland,34,48,20,30,0,Martez Walker Offensive Rebound.
+Chicago State,Oakland,34,48,20,34,0,Martez Walker missed Jumper.
+Chicago State,Oakland,34,48,20,34,0,Deionte Simmons Defensive Rebound.
+Chicago State,Oakland,34,48,20,49,0,Fred Sims Jr. missed Jumper.
+Chicago State,Oakland,34,48,20,49,0,Isaiah Brock Defensive Rebound.
+Chicago State,Oakland,34,50,20,57,1,Isaiah Brock made Jumper. Assisted by Stevie Clark.
+Chicago State,Oakland,36,50,21,14,1,Trayvon Palmer made Jumper. Assisted by Glen Burns.
+Chicago State,Oakland,36,53,21,25,1,Martez Walker made Three Point Jumper. Assisted by Sherron Dorsey-Walker.
+Chicago State,Oakland,36,53,21,41,0,Trayvon Palmer Turnover.
+Chicago State,Oakland,36,55,21,46,1,Isaiah Brock made Dunk. Assisted by Stevie Clark.
+Chicago State,Oakland,36,55,22,10,0,Glen Burns missed Layup.
+Chicago State,Oakland,36,55,22,10,0,Oakland Deadball Team Rebound.
+Chicago State,Oakland,36,55,22,10,0,Foul on Deionte Simmons.
+Chicago State,Oakland,36,57,22,18,1,Martez Walker made Layup. Assisted by Sherron Dorsey-Walker.
+Chicago State,Oakland,38,57,22,34,1,Deionte Simmons made Layup.
+Chicago State,Oakland,38,57,22,42,0,Stevie Clark Turnover.
+Chicago State,Oakland,38,57,22,42,0,Deionte Simmons Steal.
+Chicago State,Oakland,38,57,22,42,0,Deionte Simmons Turnover.
+Chicago State,Oakland,38,57,22,49,0,Sherron Dorsey-Walker missed Jumper.
+Chicago State,Oakland,38,57,22,49,0,Isaiah Brock Offensive Rebound.
+Chicago State,Oakland,38,59,22,53,1,Isaiah Brock made Layup.
+Chicago State,Oakland,38,59,23,7,0,Deionte Simmons missed Jumper.
+Chicago State,Oakland,38,59,23,7,0,Stevie Clark Defensive Rebound.
+Chicago State,Oakland,38,59,23,16,0,Foul on Fred Sims Jr..
+Chicago State,Oakland,38,60,23,16,1,Stevie Clark made Free Throw.
+Chicago State,Oakland,38,60,23,16,0,Stevie Clark missed Free Throw.
+Chicago State,Oakland,38,60,23,16,0,Deionte Simmons Defensive Rebound.
+Chicago State,Oakland,40,60,23,24,1,Glen Burns made Layup.
+Chicago State,Oakland,40,63,23,35,1,Sherron Dorsey-Walker made Three Point Jumper. Assisted by Stevie Clark.
+Chicago State,Oakland,40,63,23,54,0,Foul on Sherron Dorsey-Walker.
+Chicago State,Oakland,42,63,23,55,1,Deionte Simmons made Jumper. Assisted by Glen Burns.
+Chicago State,Oakland,42,63,24,3,0,Sherron Dorsey-Walker missed Three Point Jumper.
+Chicago State,Oakland,42,63,24,3,0,Jalen Hayes Offensive Rebound.
+Chicago State,Oakland,42,63,24,10,0,Jalen Hayes missed Jumper.
+Chicago State,Oakland,42,63,24,10,0,Deionte Simmons Block.
+Chicago State,Oakland,42,63,24,13,0,Deionte Simmons Defensive Rebound.
+Chicago State,Oakland,44,63,24,20,1,Fred Sims Jr. made Layup.
+Chicago State,Oakland,44,63,24,33,0,Brailen Neely Turnover.
+Chicago State,Oakland,44,63,24,35,0,Deionte Simmons Steal.
+Chicago State,Oakland,46,63,24,42,1,Fred Sims Jr. made Layup. Assisted by Glen Burns.
+Chicago State,Oakland,46,63,24,59,0,Brailen Neely Turnover.
+Chicago State,Oakland,46,63,25,1,0,Glen Burns Steal.
+Chicago State,Oakland,49,63,25,4,1,Clemmye Owens V made Three Point Jumper. Assisted by Glen Burns.
+Chicago State,Oakland,49,63,25,10,0,Oakland  Timeout
+Chicago State,Oakland,49,65,25,13,1,Jalen Hayes made Layup. Assisted by Nick Daniels.
+Chicago State,Oakland,49,65,25,18,0,Glen Burns Turnover.
+Chicago State,Oakland,49,65,25,18,0,Official TV Timeout
+Chicago State,Oakland,49,65,25,25,0,Foul on Fred Sims Jr..
+Chicago State,Oakland,49,66,25,25,1,Martez Walker made Free Throw.
+Chicago State,Oakland,49,67,25,25,1,Martez Walker made Free Throw.
+Chicago State,Oakland,49,68,25,25,1,Martez Walker made Free Throw.
+Chicago State,Oakland,52,68,25,41,1,Clemmye Owens V made Three Point Jumper. Assisted by Glen Burns.
+Chicago State,Oakland,52,71,26,1,1,Nick Daniels made Three Point Jumper. Assisted by Stevie Clark.
+Chicago State,Oakland,55,71,26,25,1,Brian Greene Jr. made Three Point Jumper. Assisted by Clemmye Owens V.
+Chicago State,Oakland,55,73,26,42,1,Xavier Hill-Mais made Jumper. Assisted by Nick Daniels.
+Chicago State,Oakland,55,73,27,5,0,Foul on Xavier Hill-Mais.
+Chicago State,Oakland,56,73,27,5,1,Deionte Simmons made Free Throw.
+Chicago State,Oakland,57,73,27,5,1,Deionte Simmons made Free Throw.
+Chicago State,Oakland,57,73,27,17,0,Xavier Hill-Mais missed Jumper.
+Chicago State,Oakland,57,73,27,17,0,Deionte Simmons Defensive Rebound.
+Chicago State,Oakland,57,73,27,26,0,Brian Greene Jr. missed Jumper.
+Chicago State,Oakland,57,73,27,26,0,Isaiah Brock Defensive Rebound.
+Chicago State,Oakland,57,73,27,40,0,Xavier Hill-Mais missed Layup.
+Chicago State,Oakland,57,73,27,40,0,Brian Greene Jr. Defensive Rebound.
+Chicago State,Oakland,57,73,27,41,0,Foul on Chris Palombizio.
+Chicago State,Oakland,57,73,28,2,0,Glen Burns missed Jumper.
+Chicago State,Oakland,57,73,28,2,0,Nick Daniels Defensive Rebound.
+Chicago State,Oakland,57,73,28,8,0,Official TV Timeout
+Chicago State,Oakland,57,75,28,16,1,Xavier Hill-Mais made Jumper. Assisted by Stevie Clark.
+Chicago State,Oakland,57,75,28,37,0,Trayvon Palmer missed Jumper.
+Chicago State,Oakland,57,75,28,37,0,Trayvon Palmer Offensive Rebound.
+Chicago State,Oakland,59,75,28,42,1,Trayvon Palmer made Layup.
+Chicago State,Oakland,59,77,28,51,1,Stevie Clark made Jumper.
+Chicago State,Oakland,59,77,29,6,0,Deionte Simmons missed Jumper.
+Chicago State,Oakland,59,77,29,6,0,Oakland Defensive Rebound.
+Chicago State,Oakland,59,79,29,15,1,Xavier Hill-Mais made Layup. Assisted by Stevie Clark.
+Chicago State,Oakland,59,79,29,40,0,Foul on Stevie Clark.
+Chicago State,Oakland,62,79,29,51,1,Trayvon Palmer made Three Point Jumper. Assisted by Patrick Szpir.
+Chicago State,Oakland,62,79,30,7,0,Martez Walker missed Three Point Jumper.
+Chicago State,Oakland,62,79,30,7,0,Glen Burns Defensive Rebound.
+Chicago State,Oakland,62,79,30,14,0,Glen Burns missed Layup.
+Chicago State,Oakland,62,79,30,14,0,Patrick Szpir Offensive Rebound.
+Chicago State,Oakland,62,79,30,18,0,Patrick Szpir missed Jumper.
+Chicago State,Oakland,62,79,30,18,0,Martez Walker Defensive Rebound.
+Chicago State,Oakland,62,79,30,30,0,Martez Walker missed Three Point Jumper.
+Chicago State,Oakland,62,79,30,30,0,Trayvon Palmer Defensive Rebound.
+Chicago State,Oakland,62,79,30,38,0,Clemmye Owens V missed Three Point Jumper.
+Chicago State,Oakland,62,79,30,38,0,Martez Walker Block.
+Chicago State,Oakland,62,79,30,42,0,Isaiah Brock Defensive Rebound.
+Chicago State,Oakland,62,79,30,47,0,Nick Daniels missed Three Point Jumper.
+Chicago State,Oakland,62,79,30,47,0,Chicago St Defensive Rebound.
+Chicago State,Oakland,62,79,31,1,0,Patrick Szpir missed Jumper.
+Chicago State,Oakland,62,79,31,1,0,Sherron Dorsey-Walker Defensive Rebound.
+Chicago State,Oakland,62,81,31,18,1,Isaiah Brock made Dunk. Assisted by Jalen Hayes.
+Chicago State,Oakland,62,81,31,28,0,Foul on Isaiah Brock.
+Chicago State,Oakland,63,81,31,28,1,Clemmye Owens V made Free Throw.
+Chicago State,Oakland,64,81,31,28,1,Clemmye Owens V made Free Throw.
+Chicago State,Oakland,64,83,31,36,1,Xavier Hill-Mais made Jumper. Assisted by Martez Walker.
+Chicago State,Oakland,64,83,31,36,0,Foul on Clemmye Owens V.
+Chicago State,Oakland,64,84,31,36,1,Xavier Hill-Mais made Free Throw.
+Chicago State,Oakland,64,84,31,53,0,Joshua Batson missed Jumper.
+Chicago State,Oakland,64,84,31,53,0,Stevie Clark Defensive Rebound.
+Chicago State,Oakland,64,84,32,6,0,Official TV Timeout
+Chicago State,Oakland,64,84,32,7,0,Martez Walker Turnover.
+Chicago State,Oakland,64,84,32,9,0,Brian Greene Jr. Steal.
+Chicago State,Oakland,66,84,32,12,1,Joshua Batson made Layup. Assisted by Brian Greene Jr..
+Chicago State,Oakland,66,86,32,22,1,Stevie Clark made Layup.
+Chicago State,Oakland,66,86,32,40,0,Foul on Jalen Hayes.
+Chicago State,Oakland,68,86,32,44,1,Fred Sims Jr. made Jumper.
+Chicago State,Oakland,68,89,32,52,1,Martez Walker made Three Point Jumper. Assisted by Stevie Clark.
+Chicago State,Oakland,68,89,33,9,0,Fred Sims Jr. missed Three Point Jumper.
+Chicago State,Oakland,68,89,33,9,0,Xavier Hill-Mais Defensive Rebound.
+Chicago State,Oakland,68,91,33,33,1,Xavier Hill-Mais made Jumper. Assisted by Stevie Clark.
+Chicago State,Oakland,70,91,33,52,1,Delundre Dixon made Layup.
+Chicago State,Oakland,70,91,33,52,0,Foul on Jalen Hayes.
+Chicago State,Oakland,70,91,33,52,0,Delundre Dixon missed Free Throw.
+Chicago State,Oakland,70,91,33,52,0,Oakland Defensive Rebound.
+Chicago State,Oakland,70,91,33,54,0,Foul on Trayvon Palmer.
+Chicago State,Oakland,70,91,34,2,0,Jalen Hayes missed Jumper.
+Chicago State,Oakland,70,91,34,2,0,Martez Walker Offensive Rebound.
+Chicago State,Oakland,70,93,34,7,1,Martez Walker made Layup.
+Chicago State,Oakland,70,93,34,24,0,Foul on Jalen Hayes.
+Chicago State,Oakland,70,93,34,24,0,Delundre Dixon missed Free Throw.
+Chicago State,Oakland,70,93,34,24,0,Jalen Hayes Defensive Rebound.
+Chicago State,Oakland,70,93,34,41,0,Foul on Glen Burns.
+Chicago State,Oakland,70,94,34,41,1,Xavier Hill-Mais made Free Throw.
+Chicago State,Oakland,70,94,34,41,0,Xavier Hill-Mais missed Free Throw.
+Chicago State,Oakland,70,94,34,41,0,Fred Sims Jr. Defensive Rebound.
+Chicago State,Oakland,70,94,34,54,0,Trayvon Palmer missed Three Point Jumper.
+Chicago State,Oakland,70,94,34,54,0,Martez Walker Defensive Rebound.
+Chicago State,Oakland,70,94,35,8,0,Foul on Trayvon Palmer.
+Chicago State,Oakland,70,95,35,8,1,Xavier Hill-Mais made Free Throw.
+Chicago State,Oakland,70,96,35,8,1,Xavier Hill-Mais made Free Throw.
+Chicago State,Oakland,70,96,35,29,0,Deionte Simmons Turnover.
+Chicago State,Oakland,70,96,35,31,0,Isaiah Brock Steal.
+Chicago State,Oakland,70,99,35,43,1,Chris Palombizio made Three Point Jumper. Assisted by Brailen Neely.
+Chicago State,Oakland,70,99,36,0,0,Fred Sims Jr. missed Jumper.
+Chicago State,Oakland,70,99,36,0,0,Isaiah Brock Defensive Rebound.
+Chicago State,Oakland,70,99,36,2,0,Isaiah Brock Turnover.
+Chicago State,Oakland,70,99,36,2,0,Official TV Timeout
+Chicago State,Oakland,70,99,36,4,0,Foul on Isaiah Brock.
+Chicago State,Oakland,70,99,36,4,0,Deionte Simmons missed Free Throw.
+Chicago State,Oakland,70,99,36,4,0,Chicago St Deadball Team Rebound.
+Chicago State,Oakland,71,99,36,4,1,Deionte Simmons made Free Throw.
+Chicago State,Oakland,71,99,36,12,0,Brailen Neely Turnover.
+Chicago State,Oakland,71,99,36,22,0,Foul on Chris Palombizio.
+Chicago State,Oakland,71,99,36,22,0,Trayvon Palmer missed Free Throw.
+Chicago State,Oakland,71,99,36,22,0,Chicago St Deadball Team Rebound.
+Chicago State,Oakland,72,99,36,22,1,Trayvon Palmer made Free Throw.
+Chicago State,Oakland,72,99,36,31,0,Chris Palombizio missed Layup.
+Chicago State,Oakland,72,99,36,31,0,Trayvon Palmer Defensive Rebound.
+Chicago State,Oakland,72,99,36,42,0,Fred Sims Jr. missed Layup.
+Chicago State,Oakland,72,99,36,42,0,Jaevin Cumberland Defensive Rebound.
+Chicago State,Oakland,72,99,36,48,0,Nick Daniels missed Layup.
+Chicago State,Oakland,72,99,36,48,0,Deionte Simmons Defensive Rebound.
+Chicago State,Oakland,72,99,36,52,0,Foul on Nick Daniels.
+Chicago State,Oakland,73,99,36,52,1,Deionte Simmons made Free Throw.
+Chicago State,Oakland,73,99,36,52,0,Deionte Simmons missed Free Throw.
+Chicago State,Oakland,73,99,36,52,0,Isaiah Brock Defensive Rebound.
+Chicago State,Oakland,73,101,37,13,1,Jaevin Cumberland made Jumper.
+Chicago State,Oakland,73,101,37,23,0,Fred Sims Jr. missed Three Point Jumper.
+Chicago State,Oakland,73,101,37,23,0,Nick Daniels Defensive Rebound.
+Chicago State,Oakland,73,101,37,31,0,Jaevin Cumberland missed Three Point Jumper.
+Chicago State,Oakland,73,101,37,31,0,Brian Greene Jr. Defensive Rebound.
+Chicago State,Oakland,73,101,37,40,0,Clemmye Owens V missed Three Point Jumper.
+Chicago State,Oakland,73,101,37,40,0,Chris Palombizio Defensive Rebound.
+Chicago State,Oakland,73,101,38,7,0,Foul on Clemmye Owens V.
+Chicago State,Oakland,73,102,38,7,1,Chris Palombizio made Free Throw.
+Chicago State,Oakland,73,103,38,7,1,Chris Palombizio made Free Throw.
+Chicago State,Oakland,75,103,38,18,1,Deionte Simmons made Jumper. Assisted by Clemmye Owens V.
+Chicago State,Oakland,75,103,38,18,0,Foul on Isaiah Brock.
+Chicago State,Oakland,75,103,38,18,0,Deionte Simmons missed Free Throw.
+Chicago State,Oakland,75,103,38,18,0,Jaevin Cumberland Defensive Rebound.
+Chicago State,Oakland,75,103,38,37,0,Foul on Brian Greene Jr..
+Chicago State,Oakland,75,104,38,37,1,Jaevin Cumberland made Free Throw.
+Chicago State,Oakland,75,105,38,37,1,Jaevin Cumberland made Free Throw.
+Chicago State,Oakland,75,105,38,56,0,Trayvon Palmer missed Three Point Jumper.
+Chicago State,Oakland,75,105,38,56,0,Isaiah Brock Defensive Rebound.
+Chicago State,Oakland,75,105,39,8,0,Foul on Trayvon Palmer.
+Chicago State,Oakland,75,106,39,8,1,Nick Daniels made Free Throw.
+Chicago State,Oakland,75,107,39,8,1,Nick Daniels made Free Throw.
+Chicago State,Oakland,75,107,39,18,0,Foul on Isaiah Brock.
+Chicago State,Oakland,75,107,39,18,0,Deionte Simmons missed Free Throw.
+Chicago State,Oakland,75,107,39,18,0,Chicago St Deadball Team Rebound.
+Chicago State,Oakland,76,107,39,18,1,Deionte Simmons made Free Throw.
+Chicago State,Oakland,76,107,39,26,0,Nick Daniels missed Three Point Jumper.
+Chicago State,Oakland,76,107,39,26,0,Deionte Simmons Defensive Rebound.
+Chicago State,Oakland,79,107,39,33,1,Clemmye Owens V made Three Point Jumper. Assisted by Delundre Dixon.
+Chicago State,Oakland,79,107,40,0,0,End of Game

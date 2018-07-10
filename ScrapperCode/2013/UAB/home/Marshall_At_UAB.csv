@@ -1,0 +1,336 @@
+Away Team,Home Team,Away Score,Home Score,Minute,Second,isScoringPosession,Desc.
+Marshall,UAB,0,0,0,10,0,Robert Williams Turnover.
+Marshall,UAB,2,0,0,41,1,Dennis Tinnon made Jumper.
+Marshall,UAB,2,0,1,4,0,Rod Rucker missed Jumper.
+Marshall,UAB,2,0,1,4,0,Fahro Alihodzic Offensive Rebound.
+Marshall,UAB,2,0,1,7,0,Fahro Alihodzic missed Layup.
+Marshall,UAB,2,0,1,7,0,Nigel Spikes Block.
+Marshall,UAB,2,0,1,9,0,Dennis Tinnon Defensive Rebound.
+Marshall,UAB,2,0,1,16,0,D.D. Scarver missed Layup.
+Marshall,UAB,2,0,1,16,0,Preston Purifoy Defensive Rebound.
+Marshall,UAB,2,0,1,23,0,Foul on D.D. Scarver
+Marshall,UAB,2,1,1,23,1,Quincy Taylor made Free Throw.
+Marshall,UAB,2,1,1,23,0,Quincy Taylor missed Free Throw.
+Marshall,UAB,2,1,1,23,0,Nigel Spikes Defensive Rebound.
+Marshall,UAB,2,1,1,42,0,Elijah Pittman Turnover.
+Marshall,UAB,2,1,1,44,0,Preston Purifoy Steal.
+Marshall,UAB,2,4,1,46,1,Preston Purifoy made Three Point Jumper.
+Marshall,UAB,2,4,2,13,0,DeAndre Kane missed Three Point Jumper.
+Marshall,UAB,2,4,2,13,0,Dennis Tinnon Offensive Rebound.
+Marshall,UAB,2,4,2,17,0,Dennis Tinnon missed Layup.
+Marshall,UAB,2,4,2,17,0,Quincy Taylor Defensive Rebound.
+Marshall,UAB,2,4,2,30,0,Quincy Taylor Turnover.
+Marshall,UAB,2,4,2,43,0,Dennis Tinnon Turnover.
+Marshall,UAB,2,4,2,56,0,Preston Purifoy missed Three Point Jumper.
+Marshall,UAB,2,4,2,56,0,Preston Purifoy Offensive Rebound.
+Marshall,UAB,2,4,3,4,0,Fahro Alihodzic Turnover.
+Marshall,UAB,2,4,3,20,0,D.D. Scarver missed Three Point Jumper.
+Marshall,UAB,2,4,3,20,0,Nigel Spikes Offensive Rebound.
+Marshall,UAB,4,4,3,25,1,Nigel Spikes made Dunk.
+Marshall,UAB,4,4,3,33,0,Foul on DeAndre Kane
+Marshall,UAB,4,6,4,2,1,Rod Rucker made Layup.  Assisted by Robert Williams.
+Marshall,UAB,4,6,4,10,0,Foul on Fahro Alihodzic
+Marshall,UAB,4,6,4,10,0,Marshall Full Timeout.
+Marshall,UAB,4,6,4,14,0,DeAndre Kane missed Layup.
+Marshall,UAB,4,6,4,14,0,Fahro Alihodzic Defensive Rebound.
+Marshall,UAB,4,9,4,43,1,Robert Williams made Three Point Jumper.  Assisted by Quincy Taylor.
+Marshall,UAB,4,9,5,6,0,Foul on Robert Williams
+Marshall,UAB,4,9,5,6,0,Elijah Pittman missed Free Throw.
+Marshall,UAB,4,9,5,6,0,null
+Marshall,UAB,5,9,5,6,1,Elijah Pittman made Free Throw.
+Marshall,UAB,6,9,5,6,1,Elijah Pittman made Free Throw.
+Marshall,UAB,6,12,5,24,1,Jordan Swing made Three Point Jumper.  Assisted by Terence Jones.
+Marshall,UAB,8,12,5,46,1,Dennis Tinnon made Layup.  Assisted by DeAndre Kane.
+Marshall,UAB,8,12,6,5,0,Jordan Swing missed Three Point Jumper.
+Marshall,UAB,8,12,6,5,0,Dennis Tinnon Defensive Rebound.
+Marshall,UAB,8,12,6,17,0,D.D. Scarver missed Layup.
+Marshall,UAB,8,12,6,17,0,Jordan Swing Defensive Rebound.
+Marshall,UAB,8,12,6,18,0,Foul on Dennis Tinnon
+Marshall,UAB,8,12,6,33,0,Preston Purifoy missed Layup.
+Marshall,UAB,8,12,6,33,0,Preston Purifoy Offensive Rebound.
+Marshall,UAB,8,14,6,43,1,Preston Purifoy made Layup.
+Marshall,UAB,10,14,7,0,1,Robert Goff made Dunk.  Assisted by DeAndre Kane.
+Marshall,UAB,10,16,7,14,1,Terence Jones made Layup.
+Marshall,UAB,10,16,7,31,0,DeAndre Kane Turnover.
+Marshall,UAB,10,16,7,32,0,Terence Jones Steal.
+Marshall,UAB,10,16,7,41,0,Preston Purifoy missed Layup.
+Marshall,UAB,10,16,7,41,0,Elijah Pittman Block.
+Marshall,UAB,10,16,7,43,0,Robert Goff Defensive Rebound.
+Marshall,UAB,10,16,7,43,0,Foul on Robert Goff
+Marshall,UAB,10,17,7,43,1,Robert Williams made Free Throw.
+Marshall,UAB,10,17,7,43,0,Robert Williams missed Free Throw.
+Marshall,UAB,10,17,7,43,0,null
+Marshall,UAB,10,19,8,1,1,Rod Rucker made Jumper.
+Marshall,UAB,10,19,8,23,0,Robert Goff Turnover.
+Marshall,UAB,10,19,8,23,0,UAB Full Timeout.
+Marshall,UAB,10,19,8,59,0,UAB Turnover.
+Marshall,UAB,12,19,9,20,1,DeAndre Kane made Layup.  Assisted by Dennis Tinnon.
+Marshall,UAB,12,19,9,39,0,Fahro Alihodzic Turnover.
+Marshall,UAB,15,19,9,56,1,Elijah Pittman made Three Point Jumper.  Assisted by DeAndre Kane.
+Marshall,UAB,15,19,10,21,0,Quincy Taylor missed Three Point Jumper.
+Marshall,UAB,15,19,10,21,0,Elijah Pittman Defensive Rebound.
+Marshall,UAB,15,19,10,23,0,Foul on Quincy Taylor
+Marshall,UAB,17,19,10,44,1,DeAndre Kane made Jumper.  Assisted by Tamron Manning.
+Marshall,UAB,17,19,11,8,0,Rod Rucker missed Layup.
+Marshall,UAB,17,19,11,8,0,Nigel Spikes Block.
+Marshall,UAB,17,19,11,8,0,UAB Offensive Rebound.
+Marshall,UAB,17,19,11,14,0,Terence Jones missed Jumper.
+Marshall,UAB,17,19,11,14,0,Fahro Alihodzic Offensive Rebound.
+Marshall,UAB,17,21,11,17,1,Fahro Alihodzic made Layup.
+Marshall,UAB,17,21,11,47,0,Foul on Rod Rucker
+Marshall,UAB,17,21,11,47,0,Tamron Manning missed Free Throw.
+Marshall,UAB,17,21,11,47,0,null
+Marshall,UAB,18,21,11,47,1,Tamron Manning made Free Throw.
+Marshall,UAB,18,21,12,15,0,Rod Rucker missed Jumper.
+Marshall,UAB,18,21,12,15,0,Fahro Alihodzic Offensive Rebound.
+Marshall,UAB,18,21,12,26,0,Terence Jones missed Jumper.
+Marshall,UAB,18,21,12,26,0,Fahro Alihodzic Offensive Rebound.
+Marshall,UAB,18,21,12,30,0,Fahro Alihodzic missed Jumper.
+Marshall,UAB,18,21,12,30,0,Nigel Spikes Defensive Rebound.
+Marshall,UAB,18,21,12,36,0,Foul on Quincy Taylor
+Marshall,UAB,18,21,12,36,0,Marshall Full Timeout.
+Marshall,UAB,18,21,12,36,0,DeAndre Kane missed Free Throw.
+Marshall,UAB,18,21,12,36,0,null
+Marshall,UAB,18,21,12,36,0,DeAndre Kane missed Free Throw.
+Marshall,UAB,18,21,12,36,0,Nigel Spikes Offensive Rebound.
+Marshall,UAB,18,21,12,58,0,DeVince Boykins missed Three Point Jumper.
+Marshall,UAB,18,21,12,58,0,Nigel Spikes Offensive Rebound.
+Marshall,UAB,18,21,13,1,0,Nigel Spikes Turnover.
+Marshall,UAB,18,21,13,15,0,Robert Williams missed Three Point Jumper.
+Marshall,UAB,18,21,13,15,0,Marshall Defensive Rebound.
+Marshall,UAB,18,21,13,52,0,DeAndre Kane missed Three Point Jumper.
+Marshall,UAB,18,21,13,52,0,Nigel Spikes Offensive Rebound.
+Marshall,UAB,18,21,14,4,0,Dennis Tinnon missed Layup.
+Marshall,UAB,18,21,14,4,0,Rod Rucker Defensive Rebound.
+Marshall,UAB,18,23,14,11,1,Jordan Swing made Layup.  Assisted by Rod Rucker.
+Marshall,UAB,18,23,14,28,0,Nigel Spikes Turnover.
+Marshall,UAB,18,23,14,28,0,Foul on Nigel Spikes
+Marshall,UAB,18,25,14,52,1,Preston Purifoy made Layup.  Assisted by Terence Jones.
+Marshall,UAB,18,25,15,1,0,DeAndre Kane Turnover.
+Marshall,UAB,18,25,15,21,0,Rod Rucker missed Layup.
+Marshall,UAB,18,25,15,21,0,Robert Goff Block.
+Marshall,UAB,18,25,15,23,0,UAB Offensive Rebound.
+Marshall,UAB,18,25,15,28,0,Terence Jones missed Jumper.
+Marshall,UAB,18,25,15,28,0,D.D. Scarver Defensive Rebound.
+Marshall,UAB,18,25,15,34,0,Foul on Terence Jones
+Marshall,UAB,19,25,15,34,1,D.D. Scarver made Free Throw.
+Marshall,UAB,19,25,15,34,0,D.D. Scarver missed Free Throw.
+Marshall,UAB,19,25,15,34,0,Rod Rucker Defensive Rebound.
+Marshall,UAB,19,25,15,55,0,Robert Williams missed Three Point Jumper.
+Marshall,UAB,19,25,15,55,0,Rod Rucker Offensive Rebound.
+Marshall,UAB,19,25,15,58,0,Rod Rucker missed Layup.
+Marshall,UAB,19,25,15,58,0,Rod Rucker Offensive Rebound.
+Marshall,UAB,19,25,15,58,0,Foul on Robert Goff
+Marshall,UAB,19,26,15,58,1,Rod Rucker made Free Throw.
+Marshall,UAB,19,27,15,58,1,Rod Rucker made Free Throw.
+Marshall,UAB,19,27,16,13,0,DeAndre Kane Turnover.
+Marshall,UAB,19,27,16,14,0,Robert Williams Steal.
+Marshall,UAB,19,27,16,20,0,Rod Rucker missed Layup.
+Marshall,UAB,19,27,16,20,0,DeAndre Kane Defensive Rebound.
+Marshall,UAB,19,27,16,27,0,D.D. Scarver missed Three Point Jumper.
+Marshall,UAB,19,27,16,27,0,Jordan Swing Defensive Rebound.
+Marshall,UAB,19,27,16,33,0,Jordan Swing Turnover.
+Marshall,UAB,19,27,16,33,0,Marshall Full Timeout.
+Marshall,UAB,19,27,16,47,0,Foul on Preston Purifoy
+Marshall,UAB,19,27,16,47,0,Dennis Tinnon missed Free Throw.
+Marshall,UAB,19,27,16,47,0,Preston Purifoy Defensive Rebound.
+Marshall,UAB,19,29,17,13,1,Jordan Swing made Jumper.
+Marshall,UAB,19,29,17,26,0,D.D. Scarver missed Layup.
+Marshall,UAB,19,29,17,26,0,Robert Williams Defensive Rebound.
+Marshall,UAB,19,32,17,34,1,Robert Williams made Three Point Jumper.  Assisted by Preston Purifoy.
+Marshall,UAB,19,32,17,38,0,Marshall Full Timeout.
+Marshall,UAB,19,32,17,47,0,Nigel Spikes Turnover.
+Marshall,UAB,19,32,17,49,0,Terence Jones Steal.
+Marshall,UAB,19,32,17,50,0,Foul on DeAndre Kane
+Marshall,UAB,19,33,17,50,1,Terence Jones made Free Throw.
+Marshall,UAB,19,33,17,50,0,Terence Jones missed Free Throw.
+Marshall,UAB,19,33,17,50,0,Dennis Tinnon Defensive Rebound.
+Marshall,UAB,19,33,18,12,0,Foul on Terence Jones
+Marshall,UAB,20,33,18,12,1,DeAndre Kane made Free Throw.
+Marshall,UAB,20,33,18,12,0,DeAndre Kane missed Free Throw.
+Marshall,UAB,20,33,18,12,0,Fahro Alihodzic Defensive Rebound.
+Marshall,UAB,20,35,18,30,1,Fahro Alihodzic made Jumper.  Assisted by Rod Rucker.
+Marshall,UAB,20,35,19,1,0,Elijah Pittman missed Three Point Jumper.
+Marshall,UAB,20,35,19,1,0,Dennis Tinnon Offensive Rebound.
+Marshall,UAB,22,35,19,10,1,Dennis Tinnon made Layup.
+Marshall,UAB,22,38,19,34,1,Robert Williams made Three Point Jumper.  Assisted by Terence Jones.
+Marshall,UAB,25,38,19,59,1,Dennis Tinnon made Three Point Jumper.  Assisted by Nigel Spikes.
+Marshall,UAB,25,38,20,0,0,End of the 1st Half.
+Marshall,UAB,25,38,20,20,0,D.D. Scarver missed Layup.
+Marshall,UAB,25,38,20,22,0,Rod Rucker Defensive Rebound.
+Marshall,UAB,25,38,20,23,0,Rod Rucker missed Layup.
+Marshall,UAB,25,38,20,23,0,Marshall Defensive Rebound.
+Marshall,UAB,27,38,20,30,1,DeAndre Kane made Jumper.
+Marshall,UAB,27,38,20,48,0,Quincy Taylor Turnover.
+Marshall,UAB,27,38,20,50,0,D.D. Scarver Steal.
+Marshall,UAB,27,38,20,52,0,D.D. Scarver Turnover.
+Marshall,UAB,27,38,20,53,0,Preston Purifoy Steal.
+Marshall,UAB,27,38,21,0,0,Fahro Alihodzic missed Layup.
+Marshall,UAB,27,38,21,0,0,Marshall Defensive Rebound.
+Marshall,UAB,27,38,21,5,0,Foul on Robert Williams
+Marshall,UAB,27,38,21,7,0,Foul on Robert Williams
+Marshall,UAB,27,38,21,8,0,Foul on Jordan Swing
+Marshall,UAB,27,40,21,8,1,Rod Rucker made Layup.
+Marshall,UAB,28,40,21,44,1,Elijah Pittman made Free Throw.
+Marshall,UAB,28,40,21,44,0,Elijah Pittman missed Free Throw.
+Marshall,UAB,28,40,21,44,0,Jordan Swing Defensive Rebound.
+Marshall,UAB,28,40,21,57,0,Fahro Alihodzic missed Jumper.
+Marshall,UAB,28,40,21,57,0,Nigel Spikes Defensive Rebound.
+Marshall,UAB,30,40,22,6,1,DeAndre Kane made Jumper.
+Marshall,UAB,30,43,22,19,1,Jordan Swing made Three Point Jumper.  Assisted by Rod Rucker.
+Marshall,UAB,30,43,22,24,0,Foul on Jordan Swing
+Marshall,UAB,30,43,22,26,0,Dennis Tinnon missed Layup.
+Marshall,UAB,30,43,22,26,0,Fahro Alihodzic Defensive Rebound.
+Marshall,UAB,30,43,22,37,0,Jordan Swing Turnover.
+Marshall,UAB,30,43,22,39,0,Nigel Spikes Steal.
+Marshall,UAB,30,43,22,46,0,D.D. Scarver missed Layup.
+Marshall,UAB,30,43,22,46,0,Elijah Pittman Offensive Rebound.
+Marshall,UAB,30,43,22,50,0,Elijah Pittman missed Jumper.
+Marshall,UAB,30,43,22,50,0,Fahro Alihodzic Defensive Rebound.
+Marshall,UAB,30,43,23,17,0,Jordan Swing Turnover.
+Marshall,UAB,30,43,23,18,0,Elijah Pittman Steal.
+Marshall,UAB,32,43,23,21,1,DeAndre Kane made Layup.  Assisted by Elijah Pittman.
+Marshall,UAB,32,43,23,44,0,Jordan Swing Turnover.
+Marshall,UAB,32,43,23,46,0,DeAndre Kane Steal.
+Marshall,UAB,32,43,23,51,0,Elijah Pittman missed Three Point Jumper.
+Marshall,UAB,32,43,23,51,0,Jordan Swing Defensive Rebound.
+Marshall,UAB,32,45,24,14,1,Rod Rucker made Jumper.  Assisted by Quincy Taylor.
+Marshall,UAB,32,45,24,30,0,Foul on Preston Purifoy
+Marshall,UAB,32,45,24,30,0,Marshall Full Timeout.
+Marshall,UAB,33,45,24,30,1,DeAndre Kane made Free Throw.
+Marshall,UAB,34,45,24,30,1,DeAndre Kane made Free Throw.
+Marshall,UAB,34,48,25,2,1,Preston Purifoy made Three Point Jumper.  Assisted by Rod Rucker.
+Marshall,UAB,34,48,25,13,0,Nigel Spikes Turnover.
+Marshall,UAB,34,48,25,14,0,Preston Purifoy Steal.
+Marshall,UAB,34,48,25,20,0,Foul on Dennis Tinnon
+Marshall,UAB,34,48,25,21,0,Preston Purifoy missed Free Throw.
+Marshall,UAB,34,48,25,21,0,null
+Marshall,UAB,34,49,25,21,1,Preston Purifoy made Free Throw.
+Marshall,UAB,34,49,25,39,0,Robert Goff missed Layup.
+Marshall,UAB,34,49,25,39,0,Robert Goff Offensive Rebound.
+Marshall,UAB,34,49,25,43,0,Robert Goff missed Layup.
+Marshall,UAB,34,49,25,43,0,Rod Rucker Defensive Rebound.
+Marshall,UAB,34,49,25,52,0,Preston Purifoy missed Three Point Jumper.
+Marshall,UAB,34,49,25,52,0,Terence Jones Offensive Rebound.
+Marshall,UAB,34,51,25,55,1,Rod Rucker made Layup.  Assisted by Terence Jones.
+Marshall,UAB,34,51,26,8,0,Elijah Pittman Turnover.
+Marshall,UAB,34,53,26,13,1,Preston Purifoy made Layup.  Assisted by Quincy Taylor.
+Marshall,UAB,34,53,26,14,0,Marshall Full Timeout.
+Marshall,UAB,34,53,26,28,0,Dennis Tinnon missed Jumper.
+Marshall,UAB,34,53,26,28,0,DeAndre Kane Offensive Rebound.
+Marshall,UAB,36,53,26,33,1,DeAndre Kane made Layup.  Assisted by Tamron Manning.
+Marshall,UAB,36,55,26,41,1,Rod Rucker made Layup.  Assisted by Terence Jones.
+Marshall,UAB,36,55,26,41,0,Foul on Robert Goff
+Marshall,UAB,36,55,26,41,0,Rod Rucker missed Free Throw.
+Marshall,UAB,36,55,26,41,0,Dennis Tinnon Defensive Rebound.
+Marshall,UAB,36,55,27,10,0,Robert Goff Turnover.
+Marshall,UAB,36,55,27,12,0,Terence Jones Steal.
+Marshall,UAB,36,55,27,15,0,Terence Jones Turnover.
+Marshall,UAB,36,55,27,16,0,DeVince Boykins Steal.
+Marshall,UAB,38,55,27,25,1,DeAndre Kane made Jumper.
+Marshall,UAB,38,55,27,49,0,Foul on Robert Goff
+Marshall,UAB,38,55,27,56,0,Fahro Alihodzic Turnover.
+Marshall,UAB,38,55,28,15,0,Foul on Jordan Swing
+Marshall,UAB,38,55,28,16,0,Marshall Full Timeout.
+Marshall,UAB,39,55,28,16,1,DeVince Boykins made Free Throw.
+Marshall,UAB,40,55,28,16,1,DeVince Boykins made Free Throw.
+Marshall,UAB,40,55,28,16,0,Technical Foul on Jamir Hanner
+Marshall,UAB,40,55,28,16,0,Foul on Jamir Hanner
+Marshall,UAB,40,56,28,16,1,Preston Purifoy made Free Throw.
+Marshall,UAB,40,57,28,16,1,Preston Purifoy made Free Throw.
+Marshall,UAB,40,57,28,21,0,Preston Purifoy Turnover.
+Marshall,UAB,40,57,28,21,0,DeAndre Kane Steal.
+Marshall,UAB,40,57,28,21,0,Dennis Tinnon Turnover.
+Marshall,UAB,40,59,28,35,1,Rod Rucker made Layup.  Assisted by Quincy Taylor.
+Marshall,UAB,40,59,28,54,0,DeAndre Kane missed Three Point Jumper.
+Marshall,UAB,40,59,28,54,0,Quincy Taylor Defensive Rebound.
+Marshall,UAB,40,59,29,0,0,Quincy Taylor missed Jumper.
+Marshall,UAB,40,59,29,0,0,Fahro Alihodzic Offensive Rebound.
+Marshall,UAB,40,59,29,17,0,Foul on Dennis Tinnon
+Marshall,UAB,40,60,29,17,1,Rod Rucker made Free Throw.
+Marshall,UAB,40,61,29,17,1,Rod Rucker made Free Throw.
+Marshall,UAB,42,61,29,39,1,DeAndre Kane made Layup.
+Marshall,UAB,42,61,29,48,0,Quincy Taylor Turnover.
+Marshall,UAB,42,61,29,49,0,DeAndre Kane Steal.
+Marshall,UAB,42,61,29,49,0,Foul on Quincy Taylor
+Marshall,UAB,42,61,29,49,0,DeAndre Kane missed Free Throw.
+Marshall,UAB,42,61,29,49,0,null
+Marshall,UAB,43,61,29,49,1,DeAndre Kane made Free Throw.
+Marshall,UAB,43,61,29,51,0,Terence Jones Turnover.
+Marshall,UAB,45,61,29,57,1,DeAndre Kane made Layup.
+Marshall,UAB,45,63,30,6,1,Fahro Alihodzic made Layup.  Assisted by Terence Jones.
+Marshall,UAB,47,63,30,23,1,Nigel Spikes made Dunk.  Assisted by Tamron Manning.
+Marshall,UAB,47,63,30,29,0,UAB Full Timeout.
+Marshall,UAB,47,65,30,44,1,Fahro Alihodzic made Layup.  Assisted by Robert Williams.
+Marshall,UAB,47,65,31,7,0,Dennis Tinnon missed Jumper.
+Marshall,UAB,47,65,31,7,0,UAB Defensive Rebound.
+Marshall,UAB,47,65,31,13,0,Jordan Swing missed Layup.
+Marshall,UAB,47,65,31,13,0,Nigel Spikes Block.
+Marshall,UAB,47,65,31,14,0,Robert Williams Offensive Rebound.
+Marshall,UAB,47,67,31,17,1,Robert Williams made Layup.
+Marshall,UAB,47,67,31,42,0,DeAndre Kane missed Three Point Jumper.
+Marshall,UAB,47,67,31,42,0,Robert Williams Defensive Rebound.
+Marshall,UAB,47,67,31,57,0,Terence Jones missed Three Point Jumper.
+Marshall,UAB,47,67,31,57,0,Nigel Spikes Defensive Rebound.
+Marshall,UAB,47,67,32,7,0,Dennis Tinnon missed Three Point Jumper.
+Marshall,UAB,47,67,32,7,0,Nigel Spikes Offensive Rebound.
+Marshall,UAB,49,67,32,9,1,Nigel Spikes made Layup.
+Marshall,UAB,49,67,32,40,0,Jordan Swing missed Jumper.
+Marshall,UAB,49,67,32,40,0,Dennis Tinnon Defensive Rebound.
+Marshall,UAB,49,67,32,46,0,DeAndre Kane missed Free Throw.
+Marshall,UAB,49,67,32,46,0,null
+Marshall,UAB,50,67,32,46,1,DeAndre Kane made Free Throw.
+Marshall,UAB,49,67,32,47,0,Foul on Robert Williams
+Marshall,UAB,49,67,32,47,0,Marshall Full Timeout.
+Marshall,UAB,50,67,33,15,0,Fahro Alihodzic missed Jumper.
+Marshall,UAB,50,67,33,15,0,Rod Rucker Offensive Rebound.
+Marshall,UAB,50,67,33,18,0,Technical Foul on Dennis Tinnon
+Marshall,UAB,50,67,33,18,0,Foul on Dennis Tinnon
+Marshall,UAB,50,67,33,18,0,Technical Foul on Rod Rucker
+Marshall,UAB,50,67,33,18,0,Foul on Rod Rucker
+Marshall,UAB,50,70,33,43,1,Quincy Taylor made Three Point Jumper.  Assisted by Rod Rucker.
+Marshall,UAB,50,70,33,57,0,D.D. Scarver Turnover.
+Marshall,UAB,50,70,33,57,0,Fahro Alihodzic Steal.
+Marshall,UAB,50,70,33,57,0,UAB Full Timeout.
+Marshall,UAB,50,70,34,27,0,Foul on D.D. Scarver
+Marshall,UAB,50,71,34,27,1,Terence Jones made Free Throw.
+Marshall,UAB,50,72,34,27,1,Terence Jones made Free Throw.
+Marshall,UAB,52,72,34,42,1,Robert Goff made Layup.  Assisted by Tamron Manning.
+Marshall,UAB,52,72,34,58,0,Fahro Alihodzic missed Layup.
+Marshall,UAB,52,72,34,58,0,Rod Rucker Offensive Rebound.
+Marshall,UAB,52,72,34,59,0,Foul on Robert Goff
+Marshall,UAB,52,72,34,59,0,Rod Rucker missed Free Throw.
+Marshall,UAB,52,72,34,59,0,Dennis Tinnon Defensive Rebound.
+Marshall,UAB,52,72,35,19,0,Foul on Quincy Taylor
+Marshall,UAB,53,72,35,19,1,Elijah Pittman made Free Throw.
+Marshall,UAB,54,72,35,19,1,Elijah Pittman made Free Throw.
+Marshall,UAB,54,72,35,27,0,Rod Rucker Turnover.
+Marshall,UAB,54,72,35,29,0,Elijah Pittman Steal.
+Marshall,UAB,56,72,35,31,1,Elijah Pittman made Layup.
+Marshall,UAB,56,72,35,36,0,UAB Full Timeout.
+Marshall,UAB,56,72,36,5,0,Quincy Taylor Turnover.
+Marshall,UAB,56,72,36,6,0,Tamron Manning Steal.
+Marshall,UAB,58,72,36,11,1,Elijah Pittman made Layup.
+Marshall,UAB,58,72,36,35,0,UAB Full Timeout.
+Marshall,UAB,58,72,36,37,0,UAB Turnover.
+Marshall,UAB,58,72,36,53,0,Tamron Manning missed Layup.
+Marshall,UAB,58,72,36,53,0,DeAndre Kane Offensive Rebound.
+Marshall,UAB,61,72,37,1,1,Elijah Pittman made Three Point Jumper.  Assisted by Tamron Manning.
+Marshall,UAB,61,75,37,32,1,Jordan Swing made Three Point Jumper.  Assisted by Rod Rucker.
+Marshall,UAB,61,75,37,55,0,Nigel Spikes Turnover.
+Marshall,UAB,61,75,37,56,0,Rod Rucker Steal.
+Marshall,UAB,61,75,38,0,0,Rod Rucker missed Layup.
+Marshall,UAB,61,75,38,0,0,Nigel Spikes Block.
+Marshall,UAB,61,75,38,0,0,UAB Offensive Rebound.
+Marshall,UAB,61,75,38,34,0,UAB Turnover.
+Marshall,UAB,61,75,38,49,0,Elijah Pittman Turnover.
+Marshall,UAB,61,75,38,50,0,Fahro Alihodzic Steal.
+Marshall,UAB,61,75,39,8,0,Terence Jones missed Free Throw.
+Marshall,UAB,61,75,39,8,0,Nigel Spikes Defensive Rebound.
+Marshall,UAB,61,75,39,10,0,Foul on Dennis Tinnon
+Marshall,UAB,61,75,39,16,0,DeAndre Kane missed Layup.
+Marshall,UAB,61,75,39,16,0,Rod Rucker Defensive Rebound.
+Marshall,UAB,61,75,39,42,0,Terence Jones Turnover.
+Marshall,UAB,61,75,39,42,0,Elijah Pittman missed Three Point Jumper.
+Marshall,UAB,61,75,39,42,0,Rod Rucker Defensive Rebound.
+Marshall,UAB,61,75,40,0,0,End Game

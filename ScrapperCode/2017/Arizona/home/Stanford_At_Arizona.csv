@@ -1,0 +1,315 @@
+Away Team,Home Team,Away Score, Home Score,Minute,Second,isScoringPosession,Desc.
+Stanford,Arizona,0,0,0,0,0,Jump Ball won by Stanford
+Stanford,Arizona,0,0,0,11,0,Reid Travis missed Jumper.
+Stanford,Arizona,0,0,0,12,0,Reid Travis Offensive Rebound.
+Stanford,Arizona,2,0,0,15,1,Reid Travis made Layup.
+Stanford,Arizona,2,0,0,41,0,Lauri Markkanen missed Three Point Jumper.
+Stanford,Arizona,2,0,0,41,0,Michael Humphrey Defensive Rebound.
+Stanford,Arizona,2,0,0,54,0,Marcus Allen missed Jumper.
+Stanford,Arizona,2,0,0,54,0,Allonzo Trier Defensive Rebound.
+Stanford,Arizona,2,0,1,5,0,Allonzo Trier Turnover.
+Stanford,Arizona,2,0,1,5,0,Marcus Allen Steal.
+Stanford,Arizona,5,0,1,13,1,Dorian Pickens made Three Point Jumper. Assisted by Robert Cartwright.
+Stanford,Arizona,5,0,1,32,0,Allonzo Trier missed Three Point Jumper.
+Stanford,Arizona,5,0,1,32,0,Arizona Offensive Rebound.
+Stanford,Arizona,5,0,1,59,0,Dusan Ristic missed Jumper.
+Stanford,Arizona,5,0,1,59,0,Rawle Alkins Offensive Rebound.
+Stanford,Arizona,5,0,2,2,0,Foul on Dorian Pickens.
+Stanford,Arizona,5,0,2,9,0,Dusan Ristic missed Jumper.
+Stanford,Arizona,5,0,2,9,0,Reid Travis Defensive Rebound.
+Stanford,Arizona,5,0,2,34,0,Reid Travis missed Jumper.
+Stanford,Arizona,5,0,2,34,0,Lauri Markkanen Defensive Rebound.
+Stanford,Arizona,5,0,2,54,0,Kadeem Allen missed Layup.
+Stanford,Arizona,5,0,2,54,0,Marcus Allen Defensive Rebound.
+Stanford,Arizona,5,0,3,9,0,Reid Travis missed Layup.
+Stanford,Arizona,5,0,3,9,0,Michael Humphrey Offensive Rebound.
+Stanford,Arizona,7,0,3,9,1,Michael Humphrey made Two Point Tip Shot.
+Stanford,Arizona,7,2,3,24,1,Allonzo Trier made Jumper.
+Stanford,Arizona,9,2,3,46,1,Reid Travis made Layup. Assisted by Robert Cartwright.
+Stanford,Arizona,9,5,4,3,1,Allonzo Trier made Three Point Jumper. Assisted by Kadeem Allen.
+Stanford,Arizona,11,5,4,28,1,Dorian Pickens made Layup. Assisted by Robert Cartwright.
+Stanford,Arizona,11,5,4,28,0,Foul on Allonzo Trier.
+Stanford,Arizona,11,5,4,30,0,Official TV Timeout
+Stanford,Arizona,11,8,4,53,1,Kobi Simmons made Three Point Jumper. Assisted by Kadeem Allen.
+Stanford,Arizona,11,8,5,19,0,Reid Travis Turnover.
+Stanford,Arizona,11,8,5,19,0,Chance Comanche Steal.
+Stanford,Arizona,11,8,5,32,0,Lauri Markkanen missed Three Point Jumper.
+Stanford,Arizona,11,8,5,32,0,Robert Cartwright Defensive Rebound.
+Stanford,Arizona,11,8,5,40,0,Reid Travis Turnover.
+Stanford,Arizona,11,8,5,40,0,Parker Jackson-Cartwright Steal.
+Stanford,Arizona,11,8,5,58,0,Lauri Markkanen missed Three Point Jumper.
+Stanford,Arizona,11,8,5,58,0,Reid Travis Defensive Rebound.
+Stanford,Arizona,13,8,6,10,1,Marcus Allen made Layup.
+Stanford,Arizona,13,8,6,23,0,Kobi Simmons missed Three Point Jumper.
+Stanford,Arizona,13,8,6,23,0,Stanford Defensive Rebound.
+Stanford,Arizona,13,8,6,45,0,Dorian Pickens missed Jumper.
+Stanford,Arizona,13,8,6,45,0,Arizona Defensive Rebound.
+Stanford,Arizona,13,11,7,19,1,Allonzo Trier made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Stanford,Arizona,13,11,7,39,0,Dorian Pickens Turnover.
+Stanford,Arizona,13,11,7,39,0,Allonzo Trier Steal.
+Stanford,Arizona,13,13,7,48,1,Kobi Simmons made Jumper. Assisted by Chance Comanche.
+Stanford,Arizona,13,13,8,12,0,Grant Verhoeven missed Three Point Jumper.
+Stanford,Arizona,13,13,8,12,0,Michael Humphrey Offensive Rebound.
+Stanford,Arizona,13,13,8,23,0,Marcus Sheffield missed Layup.
+Stanford,Arizona,13,13,8,23,0,Dusan Ristic Defensive Rebound.
+Stanford,Arizona,13,13,8,32,0,Foul on Grant Verhoeven.
+Stanford,Arizona,13,13,8,32,0,Official TV Timeout
+Stanford,Arizona,13,14,8,32,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,13,15,8,32,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,15,15,8,53,1,Michael Humphrey made Jumper. Assisted by Christian Sanders.
+Stanford,Arizona,15,18,9,23,1,Rawle Alkins made Three Point Jumper. Assisted by Kadeem Allen.
+Stanford,Arizona,15,18,9,47,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,Arizona,15,18,9,47,0,Michael Humphrey Offensive Rebound.
+Stanford,Arizona,17,18,9,47,1,Michael Humphrey made Two Point Tip Shot.
+Stanford,Arizona,17,18,10,5,0,Rawle Alkins missed Three Point Jumper.
+Stanford,Arizona,17,18,10,5,0,Michael Humphrey Defensive Rebound.
+Stanford,Arizona,17,18,10,17,0,Foul on Marcus Sheffield.
+Stanford,Arizona,17,18,10,17,0,Marcus Sheffield Turnover.
+Stanford,Arizona,17,18,10,33,0,Foul on Marcus Allen.
+Stanford,Arizona,17,21,10,34,1,Lauri Markkanen made Three Point Jumper. Assisted by Kobi Simmons.
+Stanford,Arizona,17,21,10,50,0,Marcus Allen missed Layup.
+Stanford,Arizona,17,21,10,50,0,Chance Comanche Defensive Rebound.
+Stanford,Arizona,17,21,11,4,0,Lauri Markkanen Turnover.
+Stanford,Arizona,17,21,11,4,0,Marcus Allen Steal.
+Stanford,Arizona,17,21,11,23,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Arizona,17,21,11,23,0,Kobi Simmons Defensive Rebound.
+Stanford,Arizona,17,21,11,29,0,Kobi Simmons Turnover.
+Stanford,Arizona,17,21,11,29,0,Dorian Pickens Steal.
+Stanford,Arizona,17,21,11,36,0,Foul on Lauri Markkanen.
+Stanford,Arizona,17,21,11,36,0,Dorian Pickens missed Free Throw.
+Stanford,Arizona,17,21,11,36,0,Stanford Deadball Team Rebound.
+Stanford,Arizona,18,21,11,36,1,Dorian Pickens made Free Throw.
+Stanford,Arizona,18,23,11,54,1,Chance Comanche made Layup. Assisted by Allonzo Trier.
+Stanford,Arizona,18,23,12,22,0,Robert Cartwright missed Jumper.
+Stanford,Arizona,18,23,12,22,0,Allonzo Trier Defensive Rebound.
+Stanford,Arizona,18,23,12,39,0,Official TV Timeout
+Stanford,Arizona,18,23,12,52,0,Kobi Simmons missed Three Point Jumper.
+Stanford,Arizona,18,23,12,52,0,Keanu Pinder Offensive Rebound.
+Stanford,Arizona,18,23,12,56,0,Foul on Michael Humphrey.
+Stanford,Arizona,18,26,12,59,1,Parker Jackson-Cartwright made Three Point Jumper. Assisted by Allonzo Trier.
+Stanford,Arizona,18,26,13,32,0,Robert Cartwright missed Three Point Jumper.
+Stanford,Arizona,18,26,13,32,0,Allonzo Trier Defensive Rebound.
+Stanford,Arizona,18,26,13,45,0,Keanu Pinder missed Layup.
+Stanford,Arizona,18,26,13,45,0,Parker Jackson-Cartwright Offensive Rebound.
+Stanford,Arizona,18,26,14,3,0,Chance Comanche missed Jumper.
+Stanford,Arizona,18,26,14,3,0,Reid Travis Defensive Rebound.
+Stanford,Arizona,18,26,14,32,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Arizona,18,26,14,32,0,Chance Comanche Defensive Rebound.
+Stanford,Arizona,18,28,14,40,1,Kobi Simmons made Jumper. Assisted by Parker Jackson-Cartwright.
+Stanford,Arizona,18,28,14,40,0,Foul on Marcus Allen.
+Stanford,Arizona,18,29,14,40,1,Kobi Simmons made Free Throw.
+Stanford,Arizona,20,29,15,0,1,Reid Travis made Layup. Assisted by Christian Sanders.
+Stanford,Arizona,20,29,15,21,0,Parker Jackson-Cartwright missed Three Point Jumper.
+Stanford,Arizona,20,29,15,21,0,Marcus Sheffield Defensive Rebound.
+Stanford,Arizona,22,29,15,35,1,Reid Travis made Dunk. Assisted by Michael Humphrey.
+Stanford,Arizona,22,29,15,35,0,Arizona  Timeout
+Stanford,Arizona,22,29,15,35,0,Official TV Timeout
+Stanford,Arizona,22,29,15,46,0,Jump Ball won by Arizona
+Stanford,Arizona,22,29,15,54,0,Rawle Alkins Turnover.
+Stanford,Arizona,22,29,16,4,0,Reid Travis missed Layup.
+Stanford,Arizona,22,29,16,4,0,Rawle Alkins Defensive Rebound.
+Stanford,Arizona,22,29,16,13,0,Rawle Alkins missed Layup.
+Stanford,Arizona,22,29,16,13,0,Reid Travis Block.
+Stanford,Arizona,22,29,16,13,0,Arizona Offensive Rebound.
+Stanford,Arizona,22,31,16,22,1,Rawle Alkins made Layup. Assisted by Kadeem Allen.
+Stanford,Arizona,22,31,16,31,0,Foul on Rawle Alkins.
+Stanford,Arizona,24,31,16,37,1,Christian Sanders made Layup.
+Stanford,Arizona,24,31,16,49,0,Kobi Simmons missed Jumper.
+Stanford,Arizona,24,31,16,49,0,Kobi Simmons Offensive Rebound.
+Stanford,Arizona,24,33,16,55,1,Rawle Alkins made Layup. Assisted by Kobi Simmons.
+Stanford,Arizona,27,33,17,27,1,Dorian Pickens made Three Point Jumper. Assisted by Christian Sanders.
+Stanford,Arizona,27,33,17,46,0,Foul on Michael Humphrey.
+Stanford,Arizona,27,34,17,46,1,Dusan Ristic made Free Throw.
+Stanford,Arizona,27,35,17,46,1,Dusan Ristic made Free Throw.
+Stanford,Arizona,27,35,17,57,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,Arizona,27,35,17,57,0,Reid Travis Offensive Rebound.
+Stanford,Arizona,29,35,17,57,1,Reid Travis made Two Point Tip Shot.
+Stanford,Arizona,29,35,17,57,0,Foul on Dusan Ristic.
+Stanford,Arizona,29,35,17,57,0,Reid Travis missed Free Throw.
+Stanford,Arizona,29,35,17,57,0,Dusan Ristic Defensive Rebound.
+Stanford,Arizona,29,35,18,33,0,Kobi Simmons Turnover.
+Stanford,Arizona,29,35,18,43,0,Marcus Allen missed Three Point Jumper.
+Stanford,Arizona,29,35,18,43,0,Kadeem Allen Block.
+Stanford,Arizona,29,35,18,43,0,Stanford Offensive Rebound.
+Stanford,Arizona,29,35,18,59,0,Reid Travis missed Jumper.
+Stanford,Arizona,29,35,18,59,0,Chance Comanche Defensive Rebound.
+Stanford,Arizona,29,35,19,15,0,Allonzo Trier Turnover.
+Stanford,Arizona,29,35,19,15,0,Stanford  Timeout
+Stanford,Arizona,32,35,19,34,1,Marcus Allen made Three Point Jumper. Assisted by Reid Travis.
+Stanford,Arizona,32,35,19,58,0,Lauri Markkanen missed Three Point Jumper.
+Stanford,Arizona,32,35,19,58,0,Reid Travis Defensive Rebound.
+Stanford,Arizona,32,35,20,0,0,End of 1st half
+Stanford,Arizona,32,35,20,0,0,Jump Ball won by Stanford
+Stanford,Arizona,32,35,20,22,0,Foul on Rawle Alkins.
+Stanford,Arizona,33,35,20,22,1,Marcus Allen made Free Throw.
+Stanford,Arizona,34,35,20,22,1,Marcus Allen made Free Throw.
+Stanford,Arizona,34,38,20,38,1,Rawle Alkins made Three Point Jumper. Assisted by Kadeem Allen.
+Stanford,Arizona,34,38,20,58,0,Marcus Allen Turnover.
+Stanford,Arizona,34,38,21,11,0,Dusan Ristic missed Jumper.
+Stanford,Arizona,34,38,21,11,0,Michael Humphrey Defensive Rebound.
+Stanford,Arizona,34,38,21,24,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Arizona,34,38,21,24,0,Stanford Offensive Rebound.
+Stanford,Arizona,34,38,21,33,0,Michael Humphrey missed Three Point Jumper.
+Stanford,Arizona,34,38,21,33,0,Kadeem Allen Defensive Rebound.
+Stanford,Arizona,34,38,22,5,0,Foul on Dorian Pickens.
+Stanford,Arizona,34,40,22,16,1,Rawle Alkins made Layup.
+Stanford,Arizona,34,40,22,44,0,Reid Travis Turnover.
+Stanford,Arizona,34,40,22,44,0,Lauri Markkanen Steal.
+Stanford,Arizona,34,43,22,49,1,Kadeem Allen made Three Point Jumper. Assisted by Rawle Alkins.
+Stanford,Arizona,34,43,23,19,0,Robert Cartwright Turnover.
+Stanford,Arizona,34,43,23,23,0,Foul on Robert Cartwright.
+Stanford,Arizona,34,43,23,23,0,Stanford  Timeout
+Stanford,Arizona,34,43,23,40,0,Kadeem Allen Turnover.
+Stanford,Arizona,36,43,23,54,1,Reid Travis made Layup. Assisted by Christian Sanders.
+Stanford,Arizona,36,43,24,15,0,Lauri Markkanen missed Layup.
+Stanford,Arizona,36,43,24,15,0,Lauri Markkanen Offensive Rebound.
+Stanford,Arizona,36,43,24,19,0,Foul on Christian Sanders.
+Stanford,Arizona,36,43,24,19,0,Official TV Timeout
+Stanford,Arizona,36,43,24,19,0,Lauri Markkanen missed Free Throw.
+Stanford,Arizona,36,43,24,19,0,Arizona Deadball Team Rebound.
+Stanford,Arizona,36,43,24,19,0,Lauri Markkanen missed Free Throw.
+Stanford,Arizona,36,43,24,19,0,Michael Humphrey Defensive Rebound.
+Stanford,Arizona,36,43,24,29,0,Marcus Sheffield missed Jumper.
+Stanford,Arizona,36,43,24,29,0,Chance Comanche Defensive Rebound.
+Stanford,Arizona,36,43,24,39,0,Parker Jackson-Cartwright missed Three Point Jumper.
+Stanford,Arizona,36,43,24,39,0,Michael Humphrey Defensive Rebound.
+Stanford,Arizona,36,43,24,50,0,Marcus Allen missed Layup.
+Stanford,Arizona,36,43,24,50,0,Kobi Simmons Block.
+Stanford,Arizona,36,43,24,50,0,Stanford Offensive Rebound.
+Stanford,Arizona,36,43,24,53,0,Christian Sanders Turnover.
+Stanford,Arizona,36,43,24,53,0,Kadeem Allen Steal.
+Stanford,Arizona,36,45,24,58,1,Parker Jackson-Cartwright made Layup. Assisted by Kadeem Allen.
+Stanford,Arizona,36,45,25,24,0,Michael Humphrey missed Jumper.
+Stanford,Arizona,36,45,25,24,0,Parker Jackson-Cartwright Defensive Rebound.
+Stanford,Arizona,36,45,25,31,0,Lauri Markkanen missed Three Point Jumper.
+Stanford,Arizona,36,45,25,31,0,Marcus Allen Defensive Rebound.
+Stanford,Arizona,38,45,25,38,1,Michael Humphrey made Layup. Assisted by Marcus Allen.
+Stanford,Arizona,38,45,26,3,0,Kobi Simmons missed Three Point Jumper.
+Stanford,Arizona,38,45,26,3,0,Arizona Deadball Team Rebound.
+Stanford,Arizona,38,45,26,3,0,Foul on Grant Verhoeven.
+Stanford,Arizona,38,45,26,5,0,Allonzo Trier missed Jumper.
+Stanford,Arizona,38,45,26,5,0,Reid Travis Defensive Rebound.
+Stanford,Arizona,38,45,26,29,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Arizona,38,45,26,29,0,Allonzo Trier Defensive Rebound.
+Stanford,Arizona,38,47,26,37,1,Allonzo Trier made Layup.
+Stanford,Arizona,38,47,26,52,0,Dorian Pickens missed Jumper.
+Stanford,Arizona,38,47,26,52,0,Dusan Ristic Defensive Rebound.
+Stanford,Arizona,38,49,27,8,1,Chance Comanche made Jumper.
+Stanford,Arizona,38,49,27,21,0,Marcus Sheffield missed Jumper.
+Stanford,Arizona,38,49,27,21,0,Chance Comanche Block.
+Stanford,Arizona,38,49,27,21,0,Dusan Ristic Defensive Rebound.
+Stanford,Arizona,38,49,27,32,0,Foul on Reid Travis.
+Stanford,Arizona,38,49,27,32,0,Kobi Simmons missed Free Throw.
+Stanford,Arizona,38,49,27,32,0,Arizona Deadball Team Rebound.
+Stanford,Arizona,38,50,27,32,1,Kobi Simmons made Free Throw.
+Stanford,Arizona,40,50,27,53,1,Reid Travis made Layup.
+Stanford,Arizona,40,50,28,6,0,Dusan Ristic Turnover.
+Stanford,Arizona,40,50,28,6,0,Robert Cartwright Steal.
+Stanford,Arizona,42,50,28,12,1,Marcus Allen made Layup. Assisted by Robert Cartwright.
+Stanford,Arizona,42,50,28,38,0,Foul on Reid Travis.
+Stanford,Arizona,42,50,28,38,0,Official TV Timeout
+Stanford,Arizona,42,51,28,38,1,Chance Comanche made Free Throw.
+Stanford,Arizona,42,51,28,38,0,Chance Comanche missed Free Throw.
+Stanford,Arizona,42,51,28,38,0,Michael Humphrey Defensive Rebound.
+Stanford,Arizona,42,51,29,0,0,Marcus Allen missed Layup.
+Stanford,Arizona,42,51,29,0,0,Reid Travis Offensive Rebound.
+Stanford,Arizona,44,51,29,0,1,Reid Travis made Two Point Tip Shot.
+Stanford,Arizona,44,51,29,28,0,Allonzo Trier missed Jumper.
+Stanford,Arizona,44,51,29,28,0,Robert Cartwright Defensive Rebound.
+Stanford,Arizona,46,51,29,48,1,Marcus Allen made Jumper. Assisted by Dorian Pickens.
+Stanford,Arizona,46,51,30,4,0,Allonzo Trier Turnover.
+Stanford,Arizona,46,51,30,19,0,Foul on Dusan Ristic.
+Stanford,Arizona,47,51,30,19,1,Reid Travis made Free Throw.
+Stanford,Arizona,47,51,30,19,0,Reid Travis missed Free Throw.
+Stanford,Arizona,47,51,30,19,0,Lauri Markkanen Defensive Rebound.
+Stanford,Arizona,47,51,30,34,0,Foul on Michael Humphrey.
+Stanford,Arizona,47,52,30,34,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,47,53,30,34,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,47,53,30,50,0,Michael Humphrey missed Layup.
+Stanford,Arizona,47,53,30,50,0,Reid Travis Offensive Rebound.
+Stanford,Arizona,47,53,30,52,0,Foul on Chance Comanche.
+Stanford,Arizona,48,53,30,52,1,Reid Travis made Free Throw.
+Stanford,Arizona,49,53,30,52,1,Reid Travis made Free Throw.
+Stanford,Arizona,49,53,31,17,0,Foul on Michael Humphrey.
+Stanford,Arizona,49,54,31,17,1,Chance Comanche made Free Throw.
+Stanford,Arizona,49,55,31,17,1,Chance Comanche made Free Throw.
+Stanford,Arizona,49,55,31,37,0,Foul on Chance Comanche.
+Stanford,Arizona,51,55,31,49,1,Marcus Allen made Dunk.
+Stanford,Arizona,51,55,32,4,0,Foul on Kadeem Allen.
+Stanford,Arizona,51,55,32,4,0,Kadeem Allen Turnover.
+Stanford,Arizona,51,55,32,4,0,Official TV Timeout
+Stanford,Arizona,51,55,32,15,0,Reid Travis missed Layup.
+Stanford,Arizona,51,55,32,15,0,Chance Comanche Defensive Rebound.
+Stanford,Arizona,51,55,32,32,0,Foul on Reid Travis.
+Stanford,Arizona,51,56,32,32,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,51,57,32,32,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,53,57,32,44,1,Reid Travis made Layup. Assisted by Robert Cartwright.
+Stanford,Arizona,53,57,32,55,0,Kobi Simmons Turnover.
+Stanford,Arizona,53,57,32,55,0,Robert Cartwright Steal.
+Stanford,Arizona,55,57,33,1,1,Robert Cartwright made Layup.
+Stanford,Arizona,55,57,33,10,0,Arizona  Timeout
+Stanford,Arizona,55,57,33,17,0,Parker Jackson-Cartwright Turnover.
+Stanford,Arizona,55,57,33,45,0,Robert Cartwright missed Jumper.
+Stanford,Arizona,55,57,33,45,0,Allonzo Trier Defensive Rebound.
+Stanford,Arizona,55,57,33,51,0,Foul on Marcus Allen.
+Stanford,Arizona,55,58,33,51,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,55,59,33,51,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,57,59,34,12,1,Reid Travis made Layup.
+Stanford,Arizona,57,59,34,33,0,Rawle Alkins missed Three Point Jumper.
+Stanford,Arizona,57,59,34,33,0,Dusan Ristic Offensive Rebound.
+Stanford,Arizona,57,61,34,40,1,Dusan Ristic made Layup.
+Stanford,Arizona,57,61,34,59,0,Marcus Sheffield missed Jumper.
+Stanford,Arizona,57,61,34,59,0,Arizona Deadball Team Rebound.
+Stanford,Arizona,57,61,35,2,0,Foul on Josh Sharma.
+Stanford,Arizona,57,61,35,2,0,Stanford  Timeout
+Stanford,Arizona,57,62,35,2,1,Chance Comanche made Free Throw.
+Stanford,Arizona,57,63,35,2,1,Chance Comanche made Free Throw.
+Stanford,Arizona,57,63,35,22,0,Marcus Allen missed Layup.
+Stanford,Arizona,57,63,35,22,0,Reid Travis Offensive Rebound.
+Stanford,Arizona,59,63,35,22,1,Reid Travis made Two Point Tip Shot.
+Stanford,Arizona,59,63,35,22,0,Foul on Chance Comanche.
+Stanford,Arizona,60,63,35,22,1,Reid Travis made Free Throw.
+Stanford,Arizona,60,63,35,38,0,Lauri Markkanen missed Jumper.
+Stanford,Arizona,60,63,35,38,0,Arizona Offensive Rebound.
+Stanford,Arizona,60,63,35,47,0,Foul on Allonzo Trier.
+Stanford,Arizona,60,63,35,47,0,Allonzo Trier Turnover.
+Stanford,Arizona,60,63,35,57,0,Reid Travis missed Jumper.
+Stanford,Arizona,60,63,35,57,0,Rawle Alkins Defensive Rebound.
+Stanford,Arizona,60,63,36,19,0,Foul on Dorian Pickens.
+Stanford,Arizona,60,63,36,19,0,Official TV Timeout
+Stanford,Arizona,60,64,36,19,1,Lauri Markkanen made Free Throw.
+Stanford,Arizona,60,65,36,19,1,Lauri Markkanen made Free Throw.
+Stanford,Arizona,60,65,36,31,0,Marcus Allen Turnover.
+Stanford,Arizona,60,65,36,48,0,Allonzo Trier missed Three Point Jumper.
+Stanford,Arizona,60,65,36,48,0,Stanford Deadball Team Rebound.
+Stanford,Arizona,60,65,36,52,0,Foul on Dusan Ristic.
+Stanford,Arizona,61,65,36,52,1,Grant Verhoeven made Free Throw.
+Stanford,Arizona,62,65,36,52,1,Grant Verhoeven made Free Throw.
+Stanford,Arizona,62,65,37,6,0,Dusan Ristic missed Layup.
+Stanford,Arizona,62,65,37,6,0,Reid Travis Defensive Rebound.
+Stanford,Arizona,65,65,37,32,1,Dorian Pickens made Three Point Jumper. Assisted by Marcus Allen.
+Stanford,Arizona,65,65,37,49,0,Foul on Grant Verhoeven.
+Stanford,Arizona,65,66,37,49,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,65,67,37,49,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,65,67,37,58,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Arizona,65,67,37,58,0,Michael Humphrey Offensive Rebound.
+Stanford,Arizona,67,67,38,5,1,Marcus Allen made Layup. Assisted by Michael Humphrey.
+Stanford,Arizona,67,70,38,18,1,Lauri Markkanen made Three Point Jumper. Assisted by Parker Jackson-Cartwright.
+Stanford,Arizona,67,70,38,23,0,Arizona  Timeout
+Stanford,Arizona,67,70,38,43,0,Dorian Pickens missed Layup.
+Stanford,Arizona,67,70,38,43,0,Parker Jackson-Cartwright Defensive Rebound.
+Stanford,Arizona,67,70,39,11,0,Lauri Markkanen Turnover.
+Stanford,Arizona,67,70,39,11,0,Christian Sanders Steal.
+Stanford,Arizona,67,70,39,32,0,Reid Travis missed Layup.
+Stanford,Arizona,67,70,39,32,0,Allonzo Trier Defensive Rebound.
+Stanford,Arizona,67,70,39,37,0,Foul on Christian Sanders.
+Stanford,Arizona,67,71,39,37,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,67,72,39,37,1,Allonzo Trier made Free Throw.
+Stanford,Arizona,67,72,39,43,0,Dorian Pickens missed Three Point Jumper.
+Stanford,Arizona,67,72,39,43,0,Chance Comanche Defensive Rebound.
+Stanford,Arizona,67,72,39,49,0,Foul on Michael Humphrey.
+Stanford,Arizona,67,73,39,49,1,Chance Comanche made Free Throw.
+Stanford,Arizona,67,74,39,49,1,Chance Comanche made Free Throw.
+Stanford,Arizona,67,74,39,51,0,Marcus Sheffield missed Three Point Jumper.
+Stanford,Arizona,67,74,39,51,0,Allonzo Trier Defensive Rebound.
+Stanford,Arizona,67,74,40,0,0,End of Game
